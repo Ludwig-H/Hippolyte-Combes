@@ -1,1391 +1,1661 @@
 # -*- coding: utf-8 -*-
 """
 Diplomatic transcriptions, marginal apparatus, and dual commentary for Scans #075 to #130
-(16 October 1916 – 19 January 1917).
+(16 October 1916 – 27 January 1917), established directly from the original manuscript scans.
 """
 
 SCANS_075_130 = {
     75: {
-        "title": "Retour de Beauval à Acheux et tournée à Warloy-Baillon",
-        "date": "16 – 18 octobre 1916",
-        "lieu": "Beauval, Acheux-en-Amiénois, Warloy-Baillon (Somme)",
+        "title": "Départ de Beauval sous un air glacial et marche vers Warloy-Baillon",
+        "date": "16 octobre 1916",
+        "lieu": "Beauval, Beauquesne, Puchevillers, Warloy-Baillon (Somme)",
         "lines": [
-            "16 Lundi —                                      Octobre 1916",
-            "Temps couvert. Matinée froide et humide.",
-            "Quitté Beauval vers 9h m. en auto avec",
-            "Lt Curtis. Route glissante, boue épaisse",
-            "par Doullens, Authie et Bus-lès-Artois.",
-            "Rentré à Acheux vers midi. Retrouvé ma",
-            "chambre chez les Carluvant, bien rangée.",
-            "Après-midi, classé correspondance et",
-            "réglé réquisitions en suspens au bureau.",
-            "17 Mardi. — Pluie fine intermittente.",
-            "Matinée, course en auto à Warloy-Baillon",
-            "et Hédauville, de ferme en ferme, pour",
-            "achat de paille & foin pour le XIIIe Corps.",
-            "Après-midi, resté office avec Lt Curtis.",
-            "Écrit longuement à mon amie et à Val.",
-            "18 Merc. — Même temps gris d'automne.",
-            "Matinée à Varennes et Léalvillers.",
-            "Après-midi, liberté. Courte promenade",
-            "sur la route de Bertrancourt. Canon",
-            "gronde sourdement vers Thiepval.",
-            "[ A Acheux : Washing : 80 c. — Timbres : 1 f. ]",
+            "Lundi 16 — | Sur pied à 5h 1/2 — Très bonne nuit.   Oct /16",
+            "De ma fenêtre, pu contempler pleine lune — admirable —",
+            "Ciel très beau —",
+            "Quitté Beauval à 7h 30 m.",
+            "Colonne, convoi, partie de la colline où campé — à côté du",
+            "cimetière.",
+            "Passé par Beauquesne",
+            "monté plateau dominant village & contrée environnante",
+            "Fait halte au-delà de Puchevillers",
+            "Matinée, air glacial, vent pénétrant",
+            "Tout le long route, très nombreuses unités en marche,",
+            "convois d'A.S.C., R.F.A. etc. etc. & infantry battalions",
+            "Vers 6h s., enfin atteint Warloy-Baillon. Village",
+            "vraie fourmilière de tommies.",
+            "Campés sous tentes, ds 1 champ, en contrebas de la",
+            "route de Senlis.",
+            "Visité ds la brasserie et revu amis.",
         ],
         "critique": (
-            "\\textbf{l.~1--9 Retour à Acheux :} L'écriture reprend son module régulier à l'encre noire "
-            "après les notes plus hachées du déplacement à Beauval. Le retour chez l'habitant (« chez les "
-            "Carluvant ») fonctionne dans l'économie du carnet comme un point d'ancrage domestique stable face "
-            "à la précarité des cantonnements. \\textbf{l.~14--15 office / mon amie :} Alternance lexicale "
-            "caractéristique entre le terme administratif anglais (\\textit{office}) et l'intimité épistolaire "
-            "(« mon amie » désignant systématiquement Marguerite Calmels, tandis que « Val. » abrège sa sœur "
-            "cadette Valentine Combes). \\textbf{l.~21 [ A Acheux... ] :} Crochet comptable au pied du folio "
-            "isolant les menues dépenses d'entretien (\\textit{Washing}) et d'affranchissement."
+            "\\textbf{l.~1 Lundi 16 — | Sur pied à 5h 1/2 :} Trait vertical séparant l'indication calendaire du début "
+            "de la phrase nominale. \\textbf{l.~12 convois d'A.S.C., R.F.A. etc. etc. \\& infantry battalions :} Insertion "
+            "directe des sigles et syntagmes militaires anglais (\\textit{Army Service Corps}, \\textit{Royal Field Artillery}, "
+            "\\textit{infantry battalions}, et l.~14 \\textit{tommies}) au sein de la phrase française."
         ),
         "historique": (
-            "\\textbf{l.~3--5 Beauval / Doullens / Authie :} Beauval (au sud de Doullens) servait de zone de "
-            "repos et de transit logistique à l'arrière de la \\textit{Reserve Army} (renommée \\textit{Fifth Army} "
-            "fin octobre 1916) du général Hubert Gough. L'itinéraire par Authie et Bus-lès-Artois suit la rocade "
-            "immédiate du front de l'Ancre. \\textbf{l.~11--13 Warloy-Baillon / XIIIe Corps :} Affecté à la "
-            "152\\textsuperscript{e} Compagnie de l'\\textit{Army Service Corps} (A.S.C., Train du XIII\\textsuperscript{e} "
-            "Corps britannique), Hippolyte Combes seconde l'officier d'approvisionnement (\\textit{Requisitioning "
-            "& Foraging Officer}), le lieutenant Curtis, pour acheter sur place la paille et le foin nécessaires "
-            "aux milliers de chevaux et mulets du train régimentaire."
+            "\\textbf{l.~4--14 Quitté Beauval... atteint Warloy-Baillon :} Marche d'étape d'environ 22 km vers le sud-est "
+            "(par Beauquesne et Puchevillers) rapprochant le Train de la 18\\textsuperscript{e} Division britannique du front "
+            "actif de l'Ancre et d'Albert. Warloy-Baillon, situé à 7 km à l'ouest d'Albert, constituait alors le principal "
+            "gîte d'étape et centre d'ambulances en arrière immédiat des lignes."
         ),
     },
     76: {
-        "title": "Courses à Bouzincourt et Senlis-le-Sec sous la pluie d'automne",
-        "date": "19 – 20 octobre 1916",
-        "lieu": "Acheux, Bouzincourt, Senlis-le-Sec (Somme)",
+        "title": "Nuit glaciale sous la tente à Warloy-Baillon et départ de la colonne",
+        "date": "16 (comptes) – 17 octobre 1916 (matin)",
+        "lieu": "Beauval, Warloy-Baillon (Somme)",
         "lines": [
-            "19 Jeudi —                                      Octobre 1916",
-            "Toute la nuit et matinée, pluie battante.",
-            "Routes défoncées par les convois de lorries",
-            "montant vers Martinsart et Aveluy.",
-            "Matinée, venu en auto avec Lt Curtis",
-            "à Senlis-le-Sec et Bouzincourt.",
-            "Village encombré de troupes revenant des",
-            "tranchées, couvertes d'une boue jaunâtre.",
-            "Après-midi, travail de bureau au mess.",
-            "Réglé plusieurs indemnités de cantonnement",
-            "avec le maire et les cultivateurs.",
-            "20 Vendredi. — Temps plus clair mais froid",
-            "très vif. Bise piquante sur le plateau.",
-            "Matinée, tournée à Bertrancourt et Bus.",
-            "Après-midi, liberté entière. Lu et écrit",
-            "dans ma chambre auprès d'un bon feu.",
-            "Reçu deux charmantes lettres de Gueïte",
-            "et une carte de Toulouse.",
-            "Soirée calme, canonnade lointaine.",
+            "16 Lundi                                        Oct /16",
+            "[ A Beauval, room : 1 f — groom : 1 f",
+            "  A Warloy, ctes ples : 25 c — ]",
+            "17 Mardi",
+            "Couché sous tente, à côté 2 off.",
+            "Nuit très froide.",
+            "Ferrailles nouvelles bivouac jour et nuit constant.",
+            "Levé vers 6h m. Au ciel bleu pâle, 1/2 lune argent",
+            "Grande animation ds tt le camp",
+            "Régiments d'infrie, partis d'abord —",
+            "En route, à 10h m. —",
+            "Routes tjrs encombrées et sillonnées convois de tte",
+            "sorte",
         ],
         "critique": (
-            "\\textbf{l.~3 lorries :} Emprunt direct au lexique motorisé britannique (pluriel anglais conservé "
-            "sans traduction par « camions »). \\textbf{l.~17 Gueïte :} Hypocoristique familial et affectueux "
-            "formé sur la finale de « Marguerite » (avec tréma notant la diérèse méridionale \\textit{Gué-ï-te}), "
-            "qui alterne dans le carnet avec l'expression plus retenue « mon amie »."
+            "\\textbf{l.~1--3 16 Lundi / A Beauval, room : 1 f — groom : 1 f :} Rappel de la date de la veille en haut de "
+            "page pour encadrer d'un crochet le relevé des menues dépenses de logement (\\textit{room}) et de pourboire à "
+            "l'ordonnance (\\textit{groom}), suivi d'un trait horizontal séparateur avant l'entrée du mardi 17 octobre."
         ),
         "historique": (
-            "\\textbf{l.~4--8 Martinsart / Aveluy / Bouzincourt :} Ces trois villages situés immédiatement au "
-            "nord-ouest d'Albert constituent la base de départ des offensives britanniques sur les hauteurs de "
-            "Thiepval et de l'Ancre. En octobre 1916, des pluies diluviennes transforment le champ de bataille "
-            "crayeux de la Somme en un bourbier liquide qui paralyse les mouvements de la \\textit{Reserve Army}."
+            "\\textbf{l.~5--12 Couché sous tente... Routes tjrs encombrées :} À mesure que l'unité approche de la zone des "
+            "combats d'Albert, les maisons civiles intactes font défaut et les officiers eux-mêmes doivent bivouaquer sous "
+            "la tente conique réglementaire britannique (\\textit{bell tent}) au milieu du vacarme métallique incessant "
+            "des parcs d'artillerie et de ravitaillement."
         ),
     },
     77: {
-        "title": "Premières gelées à Acheux et visite des ruines d'Albert",
-        "date": "21 – 22 octobre 1916",
-        "lieu": "Acheux, Albert, Méaulte (Somme)",
+        "title": "Bivouac dans un champ dévasté entre Bouzincourt et Hédauville",
+        "date": "17 octobre 1916 (suite)",
+        "lieu": "Senlis-le-Sec, Bouzincourt, Hédauville (Somme)",
         "lines": [
-            "21 Samedi —                                     Octobre 1916",
-            "Nuit glaciale. Au réveil, forte gelée blanche",
-            "sur les prés et les toits. Ciel d'un bleu",
-            "très pur, soleil éclatant mais sans chaleur.",
-            "Matinée, parti en auto avec Lt Curtis",
-            "par Bouzincourt jusqu'à Albert et Méaulte.",
-            "Traversé lentement Albert : spectacle",
-            "saisissant des maisons éventrées et de la",
-            "basilique décapitée, dont la Vierge dorée",
-            "penche horizontalement au-dessus du vide.",
-            "22 Dimanche. — Même gelée très vive.",
-            "Matinée, assisté à la grand'messe à l'église",
-            "d'Acheux, pleine de civils et de soldats.",
-            "Après lunch, longue promenade solitaire",
-            "sur la route de Forceville et Lealvillers.",
-            "Beau sunset rougeoyant à l'horizon.",
-            "[ A Acheux : Mess (semaine) : 14 f. 50 ]",
+            "Dépassé Senlis. Campé ds 1 champ dévasté, 1/2 route entre",
+            "Bouzincourt & Hédauville. Bien laissé par ceux qui",
+            "séjourné ici avant ns. Dû faire installation sommaire,",
+            "ménagé sorte de hutte ouverte par devant pour abriter mes",
+            "sacs.",
+            "Couché ds mess-tent, allongé s/ fauteuil-toile",
+            "Tte la nuit, pluie noire. Froid pénétrant",
+            "Aucun confort —",
+            "17 Mardi                                        Oct /16",
         ],
         "critique": (
-            "\\textbf{l.~7--10 Traversé lentement Albert :} L'écriture s'élargit légèrement dans les passages "
-            "descriptifs où l'auteur cherche un effet pittoresque ou monumental. \\textbf{l.~14--16 lunch / "
-            "sunset :} Le couplage de \\textit{lunch} et \\textit{sunset} encadre invariablement les dimanches "
-            "de repos d'Hippolyte Combes, structurés par la messe matinale, la promenade solitaire de l'après-midi "
-            "et la contemplation esthétique du couchant."
+            "\\textbf{l.~1 1/2 route :} Abréviation graphique par chiffre fractionnaire pour \\textit{mi-route} (à mi-chemin), "
+            "procédé constant chez Hippolyte Combes (qui écrit de même \\textit{au 1/2 de} pour \\textit{au milieu de}). "
+            "\\textbf{l.~9 17 Mardi Oct /16 :} Répétition inhabituelle de la date au bas du feuillet, sous un long trait de "
+            "clôture, le texte ayant commencé directement au sommet de la page en continuité avec le folio précédent."
         ),
         "historique": (
-            "\\textbf{l.~8--10 basilique décapitée / Vierge dorée :} La basilique Notre-Dame de Brebières à "
-            "Albert, construite en style néo-byzantin par Edmond Duthoit à la fin du XIX\\textsuperscript{e} "
-            "siècle, fut touchée au dôme par un obus allemand en janvier 1915, inclinant à l'horizontale la "
-            "statue dorée de la Vierge à l'Enfant d'Albert Roze. Une célèbre superstition parmi les troupes "
-            "britanniques (qui la surnommaient \\textit{The Leaning Virgin} ou \\textit{Fanny Durack}) voulait "
-            "que la guerre prenne fin le jour où la statue tomberait (elle fut abattue en avril 1918)."
+            "\\textbf{l.~1--8 entre Bouzincourt \\& Hédauville / Couché ds mess-tent :} Le triangle Hédauville–Senlis-le-Sec–"
+            "Bouzincourt, à 4 km au nord-ouest d'Albert, servait de zone de concentration pour les troupes engagées sur la "
+            "crête de Thiepval et l'Ancre. Privé de cantonnement, l'interprète dort tout habillé sur une chaise longue en "
+            "toile (\\textit{deck-chair}) sous la tente-mess."
         ),
     },
     78: {
-        "title": "Tournées de fourrage à Rubempré et Hérissart",
-        "date": "23 – 24 octobre 1916",
-        "lieu": "Acheux, Rubempré, Hérissart (Somme)",
+        "title": "Visite d'Albert bombardée et de sa basilique en ruines",
+        "date": "18 octobre 1916",
+        "lieu": "Camp de Bouzincourt, Albert (Somme)",
         "lines": [
-            "23 Lundi —                                      Octobre 1916",
-            "Gelée moins forte. Ciel couvert, brume épaisse",
-            "toute la matinée. Parti dès 9h en auto",
-            "à Toutencourt, Hérissart et Rubempré",
-            "pour recenser meules de paille & avoine.",
-            "Accueil très cordial chez plusieurs fermiers.",
-            "Après-midi, bureau de la Mission française",
-            "auprès du Major Levy et du Cap. Huguet.",
-            "24 Mardi. — Pluie froide reprise dès l'aube.",
-            "Routes de nouveau transformées en cloaque.",
-            "Matinée, resté office à rédiger états",
-            "de réquisition et bordereaux en anglais.",
-            "Après-midi, courte sortie dans le village.",
-            "Écrit à mon amie, à Pierre et à Nogent.",
-            "[ Timbres & cartes postales : 1 f. 50 ]",
+            "Merc. 18                                        Oct /16",
+            "Dormi mess-tent — à l'autre extrémité,",
+            "les 2 cooks. — Allongé sur 1 fauteuil de jardin !",
+            "Nuit très froide —",
+            "Après breakfast, eu a lift s/ 1 lorry chargé",
+            "d'obus et venu à Albert. Mission frse.",
+            "Puis erré par rues. Arrêté lgts devant basilique",
+            "ravagée par les obus",
+            "Parcouru qq rues : maisons vides et abandonnées.",
+            "Après-midi, retourné à Albert s/ 1 lorry et revenu",
+            "de = à notre camp.",
+            "Tt le jour, ciel couvert. Boue épaisse.",
+            "Fin journée, resté en observon ds mon abri. Assis sur",
+            "1 caisse, regardé à loisir camp et au-delà route",
         ],
         "critique": (
-            "\\textbf{l.~7--8 Mission française / Major Levy / Cap. Huguet :} Mention conjointe des deux "
-            "hiérarchies dont dépend l'interprète : l'autorité britannique d'emploi (Major Levy, commandant le "
-            "Train / A.S.C. du corps) et l'autorité administrative française de tutelle (le capitaine Huguet, "
-            "chef de la Mission militaire française auprès de l'armée britannique). \\textbf{l.~14 Nogent :} "
-            "Rappel de Nogent-le-Rotrou (Eure-et-Loir), où Hippolyte Combes enseignait au collège avant sa "
-            "mobilisation en mars 1915 et où il a laissé ses malles et son linge."
+            "\\textbf{l.~5 eu a lift s/ 1 lorry :} Bel exemple de code-switching syntaxique franco-anglais (\\textit{to have "
+            "a lift on a lorry}, se faire transporter sur un camion militaire). \\textbf{l.~11 revenu de = :} Signe "
+            "tachygraphique d'égalité (\\texttt{=}) employé pour abréger la locution adverbiale \\textit{de même}."
         ),
         "historique": (
-            "\\textbf{l.~4 Toutencourt, Hérissart et Rubempré :} Ces trois communes situées à une dizaine de "
-            "kilomètres à l'ouest d'Acheux deviendront en février–avril 1917 le cœur même du secteur de "
-            "cantonnement d'Hippolyte Combes. Dès l'automne 1916, le \\textit{Purchase Board} britannique "
-            "prospecte l'arrière-pays amiénois non dévasté pour nourrir sa cavalerie."
+            "\\textbf{l.~6--8 Albert / basilique ravagée par les obus :} Bombardée dès l'automne 1914 et l'hiver 1915, la "
+            "basilique Notre-Dame de Brebières d'Albert (édifice néo-byzantin construit par Edmond Duthoit à la fin du "
+            "XIX\\textsuperscript{e} siècle) était célèbre dans toute l'armée britannique pour la statue dorée de la Vierge "
+            "à l'Enfant (la « Vierge penchée », \\textit{Leaning Virgin}) suspendue horizontalement au sommet de son clocher mutilé."
         ),
     },
     79: {
-        "title": "Tempête d'automne à Acheux et convoi vers Louvencourt",
-        "date": "25 – 26 octobre 1916",
-        "lieu": "Acheux, Louvencourt, Vauchelles (Somme)",
+        "title": "Le flot ininterrompu des convois vers Albert et la solde à la Mission",
+        "date": "18 octobre 1916 (suite)",
+        "lieu": "Camp de Bouzincourt, Albert (Somme)",
         "lines": [
-            "25 Mercredi —                                   Octobre 1916",
-            "Toute la nuit, vent soufflé en tempête",
-            "avec averses furieuses contre mes vitres.",
-            "Matinée, course pénible à Louvencourt",
-            "et Vauchelles-lès-Authie. Arbres brisés",
-            "sur les bas-côtés, convois embourbés.",
-            "Après-midi, liberté. Resté au chaud dans",
-            "ma chambre à lire une revue anglaise.",
-            "26 Jeudi. — Averses intermittentes, ciel",
-            "très bas. Matinée occupée avec le Town",
-            "Major d'Acheux pour litiges de billets.",
-            "Après-midi, venu à pied jusqu'à Léalvillers.",
-            "Rencontré interprète Moreau, causé lgts",
-            "de la situation et de nos perspectives.",
-            "Soirée morne, impression de spleen.",
+            "sur l., nuit & jour, flot ininterrompu de véhicules de",
+            "ttes sortes : lorries, caissons de munitions etc. Autant de",
+            "mouvement que le long d'1 gde artère de capitale",
+            "Quand, après dinner, les off. partis, enfin seul",
+            "ds la mess-tent —",
+            "Merc. 18 | Albert : cartes ples : 40 c          Oct /16",
+            "         | Albert, mission frse : 84 fr. —",
         ],
         "critique": (
-            "\\textbf{l.~10--11 Town Major / billets :} Emploi technique de \\textit{Town Major} (commandant "
-            "d'armes britannique d'un village de cantonnement) et de \\textit{billets} (billets de logement chez "
-            "l'habitant), termes que l'auteur ne traduit plus jamais en français tant ils font partie de sa "
-            "pratique quotidienne."
+            "\\textbf{l.~1 sur l. :} Abréviation par suspension pour \\textit{sur laquelle} (se rapportant au mot \\textit{route} "
+            "qui achève le folio précédent). \\textbf{l.~6--7 Albert, mission frse : 84 fr. :} Relevé en bas de page du "
+            "paiement de sa solde d'interprète au bureau de la Mission militaire française d'Albert."
         ),
         "historique": (
-            "\\textbf{l.~13 interprète Moreau :} Les rencontres entre interprètes français détachés auprès des "
-            "différentes unités de la B.E.F. (Moreau, Blum, Voilet, Curtet) offrent à Hippolyte Combes de rares "
-            "moments de conversation entre compatriotes cultivés au milieu d'un environnement exclusivement "
-            "anglophone."
+            "\\textbf{l.~1--3 Autant de mouvement que le long d'1 gde artère de capitale :} La route d'Amiens et de Doullens "
+            "à Albert constituait l'artère logistique vitale des IV\\textsuperscript{e} et V\\textsuperscript{e} Armées "
+            "britanniques (\\textit{Reserve Army}) pendant la dernière phase de la bataille de la Somme."
         ),
     },
     80: {
-        "title": "Inspection au Brickfield d'Albert et préparatifs sur l'Ancre",
-        "date": "27 – 28 octobre 1916",
-        "lieu": "Acheux, Albert (Brickfield), Englebelmer (Somme)",
+        "title": "Pluie torrentielle et installation au Brickfield Area d'Albert",
+        "date": "19 octobre 1916",
+        "lieu": "Camp de Bouzincourt, Albert (Brickfield Area, Somme)",
         "lines": [
-            "27 Vendredi —                                   Octobre 1916",
-            "Temps un peu moins pluvieux, mais boue",
-            "inimaginable sur toutes les routes.",
-            "Matinée, accompagné Lt Curtis jusqu'au",
-            "Brickfield area près d'Albert, puis retour",
-            "par Martinsart et Englebelmer.",
-            "Artillerie lourde tire sans arrêt des deux",
-            "côtés de la route, dissimulée sous filets.",
-            "28 Samedi. — Temps couvert et froid.",
-            "Matinée, travail au bureau et au mess.",
-            "Après-midi, course à Mailly-Maillet",
-            "où plusieurs maisons ont reçu des obus",
-            "cette semaine. Habitants très éprouvés.",
-            "Rentré à la nuit tombante, très las.",
-            "[ A Acheux : Chocolat & biscuits : 2 f. 20 ]",
+            "Jeudi 19                                        Oct /16",
+            "Levé 6h",
+            "Réveillé par nage",
+            "Tte nuit, pluie torrentielle. Durant tte",
+            "matinée, averses n'ont pas cessé. Sol",
+            "détrempé, impraticable",
+            "Abrité sous tente verte du mess,",
+            "attendu départ",
+            "Tout ruisselant d'eau.",
+            "Quitté camp vers 11h. Monté s/ 1 wagon.",
+            "Vers 1h, arrivé au brickfield area,",
+            "où ns devons bivouaquer",
+            "Tentes et abris, dressés ds la boue et",
+            "sous pluie battante.",
+            "Réussi par trouver petite chambre ds",
+            "maison rue voisine, à qq 3 ou 400 mètres",
+            "du camp. Y installé !",
+            "Toute nuit, bruit ininterrompu",
+            "très forte canonnade",
+            "[ — Cartes ples d'Albert : 20 c ]",
         ],
         "critique": (
-            "\\textbf{l.~5 Brickfield area :} Toponyme militaire anglais désignant la briqueterie d'Albert, "
-            "noté tel quel d'après les cartes d'état-major britanniques (\\textit{Trench Maps})."
+            "\\textbf{l.~11 brickfield area :} Toponyme militaire anglais désignant le secteur des briqueteries à la sortie "
+            "nord-ouest d'Albert (sur le plateau menant vers Aveluy et Bouzincourt). \\textbf{l.~15--17 Réussi par trouver "
+            "petite chambre... Y installé ! :} Le point d'exclamation souligne le soulagement physique du diariste qui "
+            "échappe enfin au bivouac sous la pluie."
         ),
         "historique": (
-            "\\textbf{l.~5--12 Brickfield area / Englebelmer / Mailly-Maillet :} La briqueterie d'Albert "
-            "(\\textit{Brickfields}) abritait d'immenses dépôts du train et des parcs d'artillerie. Plus au nord, "
-            "Englebelmer et Mailly-Maillet se trouvent à moins de trois kilomètres des premières lignes allemandes "
-            "de Beaumont-Hamel et Serre : les civils demeurés dans leurs fermes y subissent les tirs de "
-            "contre-batterie allemands."
+            "\\textbf{l.~11--19 brickfield area / très forte canonnade :} Le \\textit{Brickfields Camp} d'Albert était l'un "
+            "des principaux terrains de bivouac du Train et de l'artillerie britanniques, à moins de 5 km des batteries "
+            "lourdes tirant sans relâche sur la redoute Schwaben, la tranchée Regina (\\textit{Regina Trench}) et Grandcourt."
         ),
     },
     81: {
-        "title": "Dimanche de fin octobre et clôture des comptes mensuels",
-        "date": "29 – 30 octobre 1916",
-        "lieu": "Acheux, Forceville, Bertrancourt (Somme)",
+        "title": "Duel d'artillerie formidable et horizon embrasé au-dessus d'Albert",
+        "date": "20 octobre 1916",
+        "lieu": "Albert (Brickfield Area, Somme)",
         "lines": [
-            "29 Dimanche —                                   Octobre 1916",
-            "Pluie et vent toute la matinée.",
-            "Assisté à la messe de 10h à Acheux.",
-            "Après-midi, éclaircie passagère. Venu",
-            "à pied à Forceville saluer mes anciens",
-            "hôtes qui m'ont fait le meilleur accueil.",
-            "30 Lundi. — Tempête de vent et d'eau",
-            "dès le matin. Impossible de sortir à pied.",
-            "Matinée en auto à Bus et Bertrancourt",
-            "avec Lt Curtis pour vérifier livraisons.",
-            "Après-midi, liberté dans ma chambre.",
-            "Arrêté mes comptes de fin de mois et",
-            "écrit longuement à Gueïte et à Toulouse.",
-            "[ Solde touchée à la Mission : 75 f. —",
-            "  En caisse au 30 oct. : 185 f. 40 c. ]",
+            "Vendredi 20                                     Oct /16",
+            "Enfin, soleil brille 1 peu, mais bise",
+            "glaciale. Boue tjrs épaisse et liquide",
+            "Tt jour, bombardemt terrifiant à qq",
+            "kilomètres. Duel d'artillerie formidable.",
+            "Vitres et portes tremblent continuellement.",
+            "Grondement canons finit par énerver.",
+            "Sommeil, impossible",
+            "Monté pour mes repas plateau voisin",
+            "où mess-room ds 1 petite cahute faite",
+            "avec des caisses vides de munitions.",
+            "Me suis vite organisé ds ma chambrette.",
+            "Temps froid pénétrant.",
+            "Nuit, du haut colline où notre",
+            "Coy bivouaque, très impressionnant spectacle",
+            "à g. : horizon tout illuminé par",
+            "les éclairs d'innombrables bouches à feu.",
+            "Canonnade ne cesse pas et, par",
+            "moments, d'1 intensité et violence",
+            "extrême.",
         ],
         "critique": (
-            "\\textbf{l.~12--15 Arrêté mes comptes / En caisse :} Conformément à la vocation de « Livre-Journal » "
-            "affichée en couverture, chaque fin de mois donne lieu à une récapitulation précise de la solde "
-            "française d'interprète (environ 2,50 fr. par jour, soit 75 fr. pour 30 jours, hors indemnités de "
-            "vivres britanniques) et de l'encaisse disponible."
+            "\\textbf{l.~10--11 mess-room ds 1 petite cahute faite avec des caisses vides de munitions :} Description précise "
+            "de l'architecture de fortune du front britannique (abris construits en caisses à biscuits et caisses d'obus "
+            "recouvertes de tôle ondulée ou de toile goudronnée)."
         ),
         "historique": (
-            "\\textbf{l.~5--6 Forceville / anciens hôtes :} Allusion aux habitants de Forceville chez qui "
-            "Hippolyte Combes avait logé en septembre 1916 avant son départ en permission : l'interprète "
-            "entretient des relations de courtoisie fidèle avec les familles picardes qui l'ont hébergé."
+            "\\textbf{l.~4--20 Duel d'artillerie formidable / horizon tout illuminé :} Le 20 octobre 1916 correspond à la "
+            "préparation d'artillerie intense précédant l'assaut du II\\textsuperscript{e} Corps britannique (18\\textsuperscript{e}, "
+            "25\\textsuperscript{e}, 39\\textsuperscript{e} Divisions et 4\\textsuperscript{e} Division canadienne) lancé le "
+            "lendemain 21 octobre contre \\textit{Stuff Trench} et \\textit{Regina Trench} sur les hauteurs de l'Ancre."
         ),
     },
     82: {
-        "title": "Veille de la Toussaint et tournée dans le Doullennais",
-        "date": "31 octobre 1916",
-        "lieu": "Acheux, Authie, Thièvres, Doullens (Somme)",
+        "title": "Gelée d'octobre, reconnaissance vers Aveluy et veillée près du poêle",
+        "date": "21 octobre 1916",
+        "lieu": "Albert, Aveluy (Somme)",
         "lines": [
-            "31 Mardi (fin d'Octobre) —                      Octobre 1916",
-            "Temps un peu plus calme, ciel pommelé",
-            "avec quelques rayons de soleil pâle.",
-            "Matinée, longue tournée en auto par",
-            "Authie, Thièvres, Famechon et Doullens.",
-            "Vallée de l'Authie encore très verdoyante",
-            "malgré la saison avancée ; arbres dorés",
-            "et roux le long de la petite rivière.",
-            "Déjeuné à Doullens, hôtel des 4 Fils Aymon.",
-            "Acheté papeterie, savon et lames Gillette.",
-            "Retour à Acheux vers 4h s. par Raincheval.",
-            "Soirée paisible. Pensé longuement aux",
-            "miens en cette veille de la Toussaint.",
-            "[ A Doullens : Déjeuner : 3 f. 50 —",
-            "  Papeterie & divers : 4 f. 25 ]",
+            "Samedi 21                                       Oct /16",
+            "Nuit très froide. Gelé fortement.",
+            "Ds la journée, soleil réchauffe 1 peu température.",
+            "Matinée, promenade de reconnaissance en ville",
+            "le long rues dont les maisons atteintes par",
+            "obus. Venu à l'Ordonnance, Aveluy.",
+            "Tout l'après-midi, ds ma chambre. Achevé",
+            "de m'installer pour le mieux.",
+            "Après lunch, me suis attardé sur le",
+            "plateau où notre camp dressé : toute la",
+            "colline, couverte de troupes au bivouac.",
+            "Très beau soleil, mais froid piquant.",
+            "Pas ressorti, quand rentré home après",
+            "le thé. Lu ds ma chambre, puis resté",
+            "lgts devant cuisinière, en bas, en cie",
+            "du + jeune fils maison, Abel...",
+            "Canonnade tjrs très violente —",
         ],
         "critique": (
-            "\\textbf{l.~1 (fin d'Octobre) :} Mention explicite de clôture mensuelle dans l'en-tête. "
-            "\\textbf{l.~6--8 Vallée de l'Authie :} Pause paysagère typique de la sensibilité d'Hippolyte Combes, "
-            "toujours attentif aux nuances chromatiques de l'automne lorsqu'il s'éloigne de la zone dévastée du front."
+            "\\textbf{l.~13 rentré home :} Emprunt affectif à l'anglais \\textit{home} pour désigner sa modeste chambre "
+            "de cantonnement chez la famille Duthuâteau à Albert. \\textbf{l.~16 Abel... :} Le plus jeune fils de ses "
+            "logeurs d'Albert (M. Duthuâteau, voir Scan \\#087 et Scan \\#091)."
         ),
         "historique": (
-            "\\textbf{l.~9 hôtel des 4 Fils Aymon :} Célèbre hôtel-restaurant de Doullens (rue du Bourg), rendu "
-            "historique dix-sept mois plus tard (le 26 mars 1918) par la Conférence de Doullens qui confia au "
-            "général Foch le commandement unique des armées alliées. En 1916–1917, c'est le lieu de rendez-vous "
-            "habituel des officiers de liaison et interprètes du secteur nord de la Somme."
+            "\\textbf{l.~6 Venu à l'Ordonnance, Aveluy :} Situé à 2 km au nord d'Albert dans la vallée de l'Ancre, le village "
+            "et le bois d'Aveluy abritaient d'importants dépôts du service du matériel britannique (\\textit{Army Ordnance "
+            "Corps}) ainsi que la chaussée militaire traversant les marais de l'Ancre vers Authuille et Thiepval."
         ),
     },
     83: {
-        "title": "La Toussaint et le Jour des Morts à Acheux",
-        "date": "1er – 2 novembre 1916",
-        "lieu": "Acheux, Léalvillers, Varennes (Somme)",
+        "title": "La « Vierge penchée » d'Albert et la rumeur de rappel des jeunes R.A.T.",
+        "date": "22 octobre 1916",
+        "lieu": "Albert (Somme)",
         "lines": [
-            "1er Mercredi (Toussaint) —                      Novembre 1916",
-            "Matinée pluvieuse et triste. Assisté",
-            "à la grand'messe de la Toussaint à 10h.",
-            "Après-midi, visité le petit cimetière",
-            "d'Acheux avec la famille Carluvant :",
-            "tombes fleuries de chrysanthèmes, tout à",
-            "côté des croix de bois des soldats anglais.",
-            "Pensé avec émotion à ma pauvre sœur",
-            "Joséphine et à nos chers disparus.",
-            "2 Jeudi (Jour des Morts). — Temps gris.",
-            "Matinée, course à Varennes et Léalvillers",
-            "pour régler achats d'avoine de la semaine.",
-            "Après-midi, liberté au bureau et chambre.",
-            "[ Quête à l'église : 1 f. ]",
+            "Dimanche 22.                                    Oct /16",
+            "Encore cette nuit, gelé très dur.",
+            "Canonnade, pas cessé un instant.",
+            "Le jour, très beau soleil. Journée superbe.",
+            "Après lunch, promené ville : resté lgts arrêté",
+            "devant église, murs de briques rouges, façade",
+            "si artistique, et haute tour, atteinte par",
+            "obus bombardement 1914. Vierge, horizle,",
+            "penche, bras ouverts au-dessus place.",
+            "Rencontré qq interprètes. Schumacher m'a",
+            "appris que les 2/3 des interprètes, jeunes R.A.T.",
+            "seront renvoyés régiments frs...",
+            "Canons se sont tus fin jour.",
+            "Au retour du mess, vers 9h s., lost my way",
+            "sur le plateau, à cause nuit très noire.",
+            "Dû errer par rues avant revenir Albert",
+            "et retrouver mon billet.",
+            "Ce soir, exceptt, calme absolu.",
         ],
         "critique": (
-            "\\textbf{l.~8--9 ma pauvre sœur Joséphine :} Rare mention explicite dans le carnet du deuil intime "
-            "qui a marqué Hippolyte Combes juste avant la guerre : la mort de sa sœur Joséphine en octobre 1914."
+            "\\textbf{l.~8--9 Vierge, horizle, penche, bras ouverts au-dessus place :} Description visuelle saisissante, en "
+            "style télégraphique, de la statue sommitale de la basilique d'Albert. \\textbf{l.~14 lost my way :} Locution "
+            "anglaise (\\textit{j'ai perdu mon chemin}) insérée spontanément dans le récit nocturne."
         ),
         "historique": (
-            "\\textbf{l.~6--7 croix de bois des soldats anglais :} À proximité des postes de secours d'Acheux "
-            "et de Varennes (où fonctionnaient plusieurs \\textit{Casualty Clearing Stations} britanniques), les "
-            "tombes militaires britanniques jouxtaient le cimetière communal picard avant leur regroupement "
-            "dans les nécropoles de l'\\textit{Imperial War Graves Commission} (Acheux et Varennes British Cemeteries)."
+            "\\textbf{l.~10--12 les 2/3 des interprètes, jeunes R.A.T. seront renvoyés régiments frs :} En raison de la crise "
+            "des effectifs de l'armée française après Verdun et la Somme (loi Dalbiez et circulaires de l'automne 1916), "
+            "l'état-major français procéda au peignage des missions de liaison pour reverser dans les corps de troupe les "
+            "interprètes appartenant aux plus jeunes classes de la Réserve de l'Armée Territoriale (R.A.T.)."
         ),
     },
     84: {
-        "title": "Déménagement du mess au n° 104 et arrivée de renforts",
-        "date": "3 – 4 novembre 1916",
-        "lieu": "Acheux, Hédauville, Forceville (Somme)",
+        "title": "Visite des abris souterrains allemands et du grand cratère de La Boisselle",
+        "date": "23 octobre 1916",
+        "lieu": "Albert, La Boisselle (Somme)",
         "lines": [
-            "3 Vendredi —                                    Novembre 1916",
-            "Temps doux mais humide. Brouillard le matin.",
-            "Matinée, installé notre nouveau bureau &",
-            "mess au billet n° 104, beaucoup plus",
-            "spacieux et clair que l'ancien.",
-            "Lt Curtis toujours parfait d'amabilité",
-            "et de prévenance à mon égard.",
-            "4 Samedi. — Vent très fort du S.-O.",
-            "Matinée en auto à Forceville et Hédauville.",
-            "Innombrables colonnes d'artillerie et",
-            "d'infanterie montent vers Mailly-Maillet",
-            "et Auchonvillers. On sent une attaque",
-            "prochaine sur le secteur de l'Ancre.",
-            "Après-midi, écrit lettres à Gueïte et Val.",
+            "Lundi 23                                        Oct. /16",
+            "Levé très tard.",
+            "Tout le jour, temps brumeux, mais moins",
+            "froid.",
+            "Après-midi, avec 2 de mes off., venu",
+            "s/ 1 lorry à La Boisselle. Environs d'Albert",
+            "et jusqu'à l'horizon, troupes au bivouac.",
+            "Tentes innombrables et dépôts de ttes sortes.",
+            "Visité longuement german dug-outs. Ces",
+            "abris souterrains, très habilement aménagés.",
+            "Immense cratère s/ la droite.",
+            "Impression funèbre et désolation — —",
+            "[ — Cartes ples d'Albert : 70 c. ]",
         ],
         "critique": (
-            "\\textbf{l.~3--5 bureau \\& mess au billet n° 104 :} Ce numéro de cantonnement (« n° 104 ») "
-            "reviendra jusqu'en février 1917 (voir Scan \\#148 et \\#157) comme le centre de gravité de la vie "
-            "quotidienne d'Hippolyte Combes à Acheux."
+            "\\textbf{l.~9--10 german dug-outs. Ces abris souterrains :} Procédé stylistique caractéristique du carnet : "
+            "l'auteur emploie d'abord le terme technique anglais (\\textit{german dug-outs}) avant de le gloser immédiatement "
+            "en français dans la phrase suivante (« Ces abris souterrains »)."
         ),
         "historique": (
-            "\\textbf{l.~10--13 colonnes d'artillerie / attaque prochaine :} Observation tactique très juste : "
-            "le V\\textsuperscript{e} Corps et le II\\textsuperscript{e} Corps de la \\textit{Fifth Army} "
-            "concentrent alors leurs divisions autour de Mailly-Maillet et d'Auchonvillers en vue de l'assaut "
-            "final sur Beaumont-Hamel et Saint-Pierre-Divion (bataille de l'Ancre, initialement prévue début "
-            "novembre et reportée au 13 novembre à cause de la boue)."
+            "\\textbf{l.~6--12 La Boisselle / Immense cratère s/ la droite :} Situé à 3 km à l'est d'Albert sur la route "
+            "de Bapaume, le village de La Boisselle avait été pulvérisé le 1\\textsuperscript{er} juillet 1916 à 7 h 28 "
+            "par l'explosion de la gigantesque mine britannique de \\textit{Lochnagar} (27 tonnes d'ammonal, formant un "
+            "cratère de 91 mètres de diamètre et 21 mètres de profondeur, situé effectivement à droite de la route en "
+            "venant d'Albert)."
         ),
     },
     85: {
-        "title": "Dimanche venteux à Acheux et visite au château de Martinsart",
-        "date": "5 – 6 novembre 1916",
-        "lieu": "Acheux, Martinsart, Aveluy (Somme)",
+        "title": "Maintien confirmé à la Mission française et averses dans les fondrières d'Albert",
+        "date": "24 – 25 octobre 1916",
+        "lieu": "Albert (Somme)",
         "lines": [
-            "5 Dimanche —                                    Novembre 1916",
-            "Ouragan toute la nuit et la matinée.",
-            "Messe à 10h. Après-midi, le vent tombe",
-            "un peu ; promenade sur la route d'Authie.",
-            "Grands nuages noirs chassés rapidement",
-            "dans le ciel. Impression de mélancolie.",
-            "6 Lundi. — Temps redevenu pluvieux.",
-            "Matinée, course en auto avec Lt Curtis",
-            "au château de Martinsart et vers le bois",
-            "d'Aveluy, où campent les échelons du",
-            "train dans une boue effroyable.",
-            "Après-midi, réglé comptes de fourrage",
-            "au bureau. Dîner très gai au mess.",
-            "[ A Acheux : Mess : 15 f. — Savon : 75 c. ]",
+            "Mardi 24                                        Oct. /16",
+            "Une nuit entière — Temps affreux —",
+            "Durant matinée, tombé averses fines sans",
+            "discontinuer. Boue épaisse où l'on",
+            "enfonce j'à la cheville.",
+            "Brume s'étend de + en + et cache vue",
+            "objets à 30 ou 40 mètres —",
+            "Matin, venu mission frse : adjudant",
+            "Lépin & Lt Pizzi m'ont appris que ne quitte",
+            "pas mission —",
+            "Vers 11h m., qq obus s/ prairie, à",
+            "400 ou 500 mètres chambre.",
+            "Nuit calme. Pas de canonnade.",
+            "Merc. 25 | Tjrs même temps, pluvieux,",
+            "mais pas froid.",
+            "Terrain où ns bivouaquons, vraie",
+            "fondrière. On patauge ds la boue.",
+            "Liberté entière. Retiré ds ma",
+            "chambrette, lis ou écris. Vie",
+            "d'1 extrême monotonie —",
         ],
         "critique": (
-            "\\textbf{l.~5--6 Grands nuages noirs / mélancolie :} Retour du motif romantique de la correspondance "
-            "entre le paysage tourmenté du ciel picard et l'état d'âme (« mélancolie ») du diariste."
+            "\\textbf{l.~5 j'à :} Abréviation constante dans le manuscrit pour la préposition \\textit{jusqu'à}. "
+            "\\textbf{l.~8--10 adjudant Lépin \\& Lt Pizzi m'ont appris que ne quitte pas mission :} Soulagement après "
+            "l'alerte du 22 octobre (Scan \\#083) : appartenant à la classe 1896 (40 ans révolus), Hippolyte Combes est "
+            "maintenu dans ses fonctions d'interprète auprès de l'armée britannique."
         ),
         "historique": (
-            "\\textbf{l.~9--10 château de Martinsart / bois d'Aveluy :} Le bois d'Aveluy et le parc du château "
-            "de Martinsart servaient de gigantesques camps de toile et d'écuries à ciel ouvert pour les "
-            "échelons de ravitaillement (\\textit{horse lines}) et les dépôts de munitions de la \\textit{Fifth Army}."
+            "\\textbf{l.~9 Lt Pizzi :} Le lieutenant interprète Pizzi dirigeait le détachement de la Mission militaire "
+            "française auprès de la 18\\textsuperscript{e} Division britannique (Hippolyte Combes le mentionne déjà dans "
+            "sa lettre du 25 février 1916 conservée en Annexe I)."
         ),
     },
     86: {
-        "title": "Pluies diluviennes à Warloy-Baillon et Baizieux",
-        "date": "7 – 8 novembre 1916",
-        "lieu": "Acheux, Warloy-Baillon, Baizieux (Somme)",
+        "title": "Journées de pluie, d'inaction et d'accalmie dans Albert dévastée",
+        "date": "26 – 28 octobre 1916",
+        "lieu": "Albert (Somme)",
         "lines": [
-            "7 Mardi —                                       Novembre 1916",
-            "Pluie torrentielle sans arrêt du matin",
-            "au soir. Rues d'Acheux changées en",
-            "ruisseaux jaunâtres.",
-            "Matinée, allé malgré tout en auto à",
-            "Warloy-Baillon et Baizieux pour achats",
-            "urgents de paille. Fermes entourées",
-            "de mares profondes.",
-            "8 Mercredi. — Pluie cesse enfin vers midi.",
-            "Ciel reste bas et brumeux.",
-            "Après-midi, venu à pied à Bertrancourt",
-            "voir le maire au sujet de réclamations",
-            "pour dégâts causés par des mulets.",
-            "Soirée passée à lire et écrire.",
+            "Jeudi 26                                        Oct. /16",
+            "Même temps. Ciel tjrs couvert de nuages.",
+            "Averses, ds la journée. Plateau et routes,",
+            "absolt impraticables. Lacs de boue.",
+            "Humidité pénétrante pieds & jambes.",
+            "Aucune occupation comme interprète. Libre",
+            "de ttes mes heures. Me retire ds ma",
+            "chambrette & y rumine à mon aise.",
+            "Nuits assez calmes. Canonnade s/ le matin",
+            "très violente, mais ne dure pas.",
+            "[ — Hair cut, par un R.F. : 50 c ]",
+            "Ven. 27 & Sam. 28 — Encore temps pluvieux —",
+            "Tjrs gros nuages.",
+            "Boue épaisse où l'on s'enlise.",
+            "Matin, hier & auj'd'hui, descendu",
+            "en ville, malgré mauvais état routes &",
+            "rues. Promené lentement par rues. De ts",
+            "côtés, maisons vides et endommagées par",
+            "obus. Long arrêt devant église.",
+            "Journée & nuit entt calmes. Aucune",
+            "canonnade — Silence complet",
+            "à l'horizon — [ Cartes ples : 75 c ]",
         ],
         "critique": (
-            "\\textbf{l.~11--13 réclamations pour dégâts :} Le carnet documente avec précision la seconde "
-            "mission essentielle de l'interprète d'A.S.C. après l'achat de fourrage : l'instruction amiable des "
-            "dossiers d'indemnisation (\\textit{claims}) déposés par les municipalités et les fermiers français "
-            "pour les dégradations commises par les troupes et les bêtes de somme britanniques."
+            "\\textbf{l.~11 Hair cut, par un R.F. : 50 c :} Coupe de cheveux effectuée par un soldat britannique des "
+            "\\textit{Royal Fusiliers} (\\textit{City of London Regiment}, dont plusieurs bataillons servaient dans la "
+            "18\\textsuperscript{e} Division). \\textbf{l.~12 Ven. 27 \\& Sam. 28 :} Regroupement synthétique de deux "
+            "journées consécutives sans déplacement professionnel."
         ),
         "historique": (
-            "\\textbf{l.~6 Warloy-Baillon et Baizieux :} Situés sur la route d'Albert à Amiens, ces deux gros "
-            "bourgs agricoles abritaient des hôpitaux de campagne (\\textit{Field Ambulances}) et des dépôts de "
-            "remonte dont les chevaux consommaient des tonnes de paille locale chaque semaine."
+            "\\textbf{l.~3--14 Plateau et routes, absolt impraticables. Lacs de boue :} Les pluies continuelles de la "
+            "dernière décade d'octobre 1916 paralysèrent les opérations offensives de la \\textit{Reserve Army} (renommée "
+            "\\textit{Fifth Army} le 30 octobre) sur l'Ancre, forçant le général Gough à reporter à plusieurs reprises "
+            "l'attaque de Beaumont-Hamel."
         ),
     },
     87: {
-        "title": "Éclaircie d'automne et préparation de l'offensive sur l'Ancre",
-        "date": "9 – 10 novembre 1916",
-        "lieu": "Acheux, Bus-lès-Artois, Louvencourt (Somme)",
+        "title": "Enquête sur les pailles à Acheux, rencontre d'un artilleur belge et tempête",
+        "date": "29 – 30 octobre 1916",
+        "lieu": "Albert, Acheux, Senlis-le-Sec (Somme)",
         "lines": [
-            "9 Jeudi —                                       Novembre 1916",
-            "Retour du beau temps ! Gelée blanche",
-            "au matin, puis soleil radieux qui sèche",
-            "un peu la croûte de boue des routes.",
-            "Matinée en auto à Bus et Louvencourt.",
-            "Plusieurs escadrilles anglaises évoluent",
-            "très haut dans le ciel bleu, poursuivies",
-            "par les flocons blancs des shrapnells.",
-            "10 Vendredi. — Beau temps persiste, froid",
-            "sec très agréable et vivifiant.",
-            "Toute la journée, tir d'artillerie",
-            "d'une violence inouïe du côté de",
-            "Beaumont-Hamel et de Serre. Les vitres",
-            "de notre bureau tremblent sans arrêt.",
+            "29 D.                                           Octbre /16",
+            "Durant tt le jour, au ciel, gros",
+            "nuages chargés de pluie. Averses intermittentes",
+            "et tjrs, boue liquide où l'on",
+            "enfonce départ —",
+            "Après-midi, course en auto à Acheux",
+            "& Senlis — enquête au sujet de straw & hay",
+            "disponibles — —",
+            "Fils aîné de M. Duthuâteau, maral logis",
+            "artrie armée belge, en permission. Gd &",
+            "beau j. homme, blond, énergique & simple,",
+            "extt sympathique. Écouté avec intérêt récit",
+            "des divers combats auxquels il a pris part.",
+            "[ Cartes ples église d'Albert : 50 c",
+            "  Acheux, 2 cafés : 40 c ]",
+            "30 L. — Matin, temps couvert & menaçant.",
+            "Après-midi, durant 3 h., pluie",
+            "torrentielle. Dû rester j'après le thé ds",
+            "la cabane qui ns sert de mess-room.",
+            "Rafales d'1 violence extrême.",
+            "Coucher de soleil : lueurs très vives, jaunes d'or,",
+            "à l'horizon.",
+            "Terrain détrempé, énormes flaques d'eau.",
+            "Toute la nuit, encore vent de tempête",
+            "et très fortes averses.",
         ],
         "critique": (
-            "\\textbf{l.~8 shrapnells :} Orthographe française courante en 1914–1918 (avec double \\textit{l}) "
-            "pour désigner les obus fusants de la défense contre avions (D.C.A.) allemande."
+            "\\textbf{l.~7 straw \\& hay :} Paille et foin, notés en anglais selon la terminologie administrative du "
+            "\\textit{Foraging Service}. \\textbf{l.~9--10 Fils aîné de M. Duthuâteau, maral logis artrie armée belge :} "
+            "Identification précieuse de son hôte d'Albert, M. Duthuâteau (dont le fils cadet Abel était mentionné au "
+            "Scan \\#082 et à qui il laissera 5 francs d'étrennes en partant le 2 novembre, Scan \\#091)."
         ),
         "historique": (
-            "\\textbf{l.~11--14 tir d'artillerie / Beaumont-Hamel et Serre :} Profitant du retour d'un temps "
-            "froid et sec le 9 novembre 1916, le général Gough déclenche la préparation d'artillerie intensive "
-            "de sept jours (11–13 novembre, précédée de tirs de destruction dès le 9–10) contre les positions "
-            "fortifiées allemandes de Beaumont-Hamel, Beaucourt et Serre."
+            "\\textbf{l.~14 Cartes ples église d'Albert : 50 c :} Les cartes postales représentant la basilique d'Albert "
+            "avant et après les bombardements étaient abondamment vendues aux soldats alliés et envoyées par Hippolyte "
+            "Combes à sa fiancée et à sa famille."
         ),
     },
     88: {
-        "title": "La Saint-Martin et le pilonnage continu de l'Ancre",
-        "date": "11 – 12 novembre 1916",
-        "lieu": "Acheux, Raincheval, Arquèves (Somme)",
+        "title": "Éclaircie de fin octobre et bombardement d'Albert",
+        "date": "31 octobre 1916",
+        "lieu": "Albert (Somme)",
         "lines": [
-            "11 Samedi (St Martin) —                         Novembre 1916",
-            "Brouillard blanc très épais le matin.",
-            "Matinée, course avec Lt Curtis à",
-            "Raincheval et Arquèves chez divers",
-            "cultivateurs. Payé bordereaux de foin.",
-            "Après-midi, liberté. Promenade sur",
-            "la route de Léalvillers.",
-            "12 Dimanche. — Temps gris et froid.",
-            "Messe à 10h. Toute la journée et",
-            "toute la nuit, roulement continu,",
-            "formidable, du bombardement anglais.",
-            "Lueurs incessantes à l'horizon vers",
-            "l'Est. On dit que l'attaque est pour",
-            "demain matin à l'aube.",
-            "[ A Acheux : Mess : 14 f. — Washing : 90 c. ]",
+            "31 Ma.                                          Oct. /16",
+            "Matin, rafales peu à peu chassé",
+            "nuages. Tout l'après-midi, enfin, soleil",
+            "reparu. Belle fin de journée.",
+            "Nuit étoilée.",
+            "Durant jour entier, ville bombardée.",
         ],
         "critique": (
-            "\\textbf{l.~9--14 roulement continu, formidable :} La notation acoustique et visuelle du "
-            "bombardement nocturne (« Lueurs incessantes à l'horizon ») revient comme un leitmotiv dramatique "
-            "à la veille de chaque grande offensive britannique (15 septembre, 13 novembre 1916, 9 avril 1917)."
+            "\\textbf{l.~1--6 31 Ma. Oct. /16 :} Entrée exceptionnellement brève (six lignes seulement en haut du feuillet, "
+            "suivies d'un large blanc sur les deux tiers inférieurs de la page) afin de clore matériellement le mois "
+            "d'octobre avant d'ouvrir le mois de novembre en haut de la page suivante."
         ),
         "historique": (
-            "\\textbf{l.~13--14 l'attaque est pour demain matin à l'aube :} À l'aube du 13 novembre 1916 "
-            "(5 h 45), dans un épais brouillard, sept divisions de la \\textit{Fifth Army} britannique (dont la "
-            "51\\textsuperscript{e} \\textit{Highland Division} à Beaumont-Hamel et la 63\\textsuperscript{e} "
-            "\\textit{Royal Naval Division} à Beaucourt-sur-l'Ancre) s'élancent à l'assaut après l'explosion "
-            "d'une nouvelle mine sous la redoute du \\textit{Hawthorn Ridge}."
+            "\\textbf{l.~6 Durant jour entier, ville bombardée :} Profondément engagée dans les opérations de l'Ancre, "
+            "l'artillerie lourde allemande profite du retour de la visibilité le 31 octobre pour soumettre les carrefours "
+            "et les abords de la gare d'Albert à des tirs de harcèlement systématiques."
         ),
     },
     89: {
-        "title": "Déclenchement de la bataille de l'Ancre : prise de Beaumont-Hamel",
-        "date": "13 – 14 novembre 1916",
-        "lieu": "Acheux, Mailly-Maillet, Bertrancourt (Somme)",
+        "title": "Toussaint 1916 au cimetière dévasté d'Albert, prise d'armes écossaise et ordre de départ",
+        "date": "1er novembre 1916",
+        "lieu": "Albert (Somme)",
         "lines": [
-            "13 Lundi —                                      Novembre 1916",
-            "Réveillé avant 6h m. par un tir de barrage",
-            "épouvantable. Brouillard très dense.",
-            "Dès 10h, nouvelles excellentes : les Anglais",
-            "ont enfin enlevé Beaumont-Hamel et",
-            "St-Pierre-Divion, réputés imprenables !",
-            "Vu passer sur la route de Mailly à Acheux",
-            "des centaines de prisonniers boches,",
-            "hébétés et couverts de boue crayeuse,",
-            "enfermés dans la cage à l'entrée du village.",
-            "14 Mardi. — Bataille continue vers",
-            "Beaucourt. Matinée, course à Bertrancourt :",
-            "routes encombrées d'ambulances et de",
-            "renforts. Grande animation partout.",
+            "1er Me. Toussaint.      — Novembre 1916 —",
+            "Ciel bas et couleur de cendre.",
+            "Bise froide. Pluie menaçante —",
+            "Matin, visite au cimetière d'Albert. Gros",
+            "nuages assombrissant l'air. Allées jonchées de",
+            "feuilles mortes. Tombes dévastées par obus. Pierres",
+            "brisées. Caveaux béants. Croix renversées au 1/2 de",
+            "pierres effondrées...",
+            "A côté, champ tt rempli de croix blanches &",
+            "jaunes : anglais killed in action —",
+            "Après-midi, 3h, place du monument",
+            "prise d'armes. Devant pl. bataillons rassemblés,",
+            "génal écossais épingle div. décorations s/ tuniques",
+            "de tommies & N.C.O's qui se sont distingués offensive",
+            "s/ la Somme. Pluie fine. Défilé admirable.",
+            "Derrière moi, jardin public, non entretenu.",
+            "Feuilles sèches, arbres roussis par l'automne.",
+            "Soir, venu à Church meeting, route",
+            "d'Amiens. Rues ds l'obscurité complète.",
+            "Çà et là, qq falots & lanternes de M.P.'s",
+            "aux carrefours.",
+            "A 9h soir, Lt Curtis, venu m'apporter",
+            "ordres. Demain matin, devrai partir avec lui",
+            "à Acheux. Ns sommes détachés de la Coy Transport —",
         ],
         "critique": (
-            "\\textbf{l.~4--6 réputés imprenables ! :} L'exclamation traduit le soulagement général dans le "
-            "secteur d'Acheux : depuis l'échec sanglant du 1\\textsuperscript{er} juillet 1916 (où la "
-            "29\\textsuperscript{e} Division et le \\textit{Newfoundland Regiment} avaient été décimés devant "
-            "Beaumont-Hamel), cette forteresse souterraine symbolisait le blocage du front nord de la Somme. "
-            "\\textbf{l.~10 cage :} Emprunt au terme militaire anglais \\textit{Prisoners' Cage} (enclos de "
-            "fils de fer barbelés servant au tri et à l'interrogatoire des prisonniers)."
+            "\\textbf{l.~4--10 visite au cimetière d'Albert... anglais killed in action :} L'une des pages littéraires "
+            "les plus saisissantes du carnet, construite par juxtapositions nominales brèves (« Pierres brisées. Caveaux "
+            "béants. Croix renversées »). \\textbf{l.~14 N.C.O's :} \\textit{Non-Commissioned Officers} (sous-officiers "
+            "britanniques). \\textbf{l.~20 M.P.'s :} \\textit{Military Police}."
         ),
         "historique": (
-            "\\textbf{l.~4--12 Beaumont-Hamel / St-Pierre-Divion / Beaucourt :} Entre le 13 et le 15 novembre "
-            "1916, la 51\\textsuperscript{e} \\textit{Highland Division} s'empare des carrières et cavernes de "
-            "Beaumont-Hamel, la 39\\textsuperscript{e} Division prend Saint-Pierre-Divion et la "
-            "63\\textsuperscript{e} \\textit{Royal Naval Division} (sous le lieutenant-colonel Bernard Freyberg) "
-            "enlève Beaucourt-sur-l'Ancre, capturant au total plus de 7 000 prisonniers allemands qui transitent "
-            "par la \\textit{cage} d'Acheux."
+            "\\textbf{l.~22--24 Lt Curtis... partir avec lui à Acheux. Ns sommes détachés de la Coy Transport :} Tournant "
+            "majeur dans l'affectation d'Hippolyte Combes : le 1\\textsuperscript{er} novembre 1916 au soir, il est détaché "
+            "du camp de la 152\\textsuperscript{e} Compagnie A.S.C. d'Albert pour accompagner le lieutenant Curtis à "
+            "Acheux-en-Amiénois, au service des réquisitions et achats du XIII\\textsuperscript{e} Corps britannique."
         ),
     },
     90: {
-        "title": "Grand froid sec et interrogatoire de prisonniers à Acheux",
-        "date": "15 – 16 novembre 1916",
-        "lieu": "Acheux, Varennes, Hédauville (Somme)",
+        "title": "Ordre de mission du colonel Grose et départ sous la pluie vers Acheux",
+        "date": "2 novembre 1916",
+        "lieu": "Albert, Acheux-en-Amiénois (Somme)",
         "lines": [
-            "15 Mercredi —                                   Novembre 1916",
-            "Temps brusquement changé : bise glaciale,",
-            "forte gelée. La boue a durci comme de",
-            "la pierre sur toutes les routes.",
-            "Matinée, allé à Varennes et Hédauville.",
-            "Nouveaux convois de prisonniers allemands",
-            "passent à pied vers la gare de Varennes.",
-            "16 Jeudi. — Froid de plus en plus vif.",
-            "Ciel d'un bleu métallique, soleil pâle.",
-            "Matinée, travail au bureau du XIIIe Corps",
-            "avec Major Levy. Après-midi, promenade",
-            "rapide pour me réchauffer sur la route",
-            "de Forceville. Écrit à mon amie.",
-            "[ A Acheux : Bois de chauffage : 3 f. ]",
+            "2 J. —                                          Novbre /16",
+            "Levé 6h m. En 1 h.,",
+            "ts paquets terminés.",
+            "Monté au mess-hut. Là, au breakfast, eu",
+            "l'idée de passer bureau mission avant partir.",
+            "Cap. Lovet, approuvé.",
+            "Au bureau, Lépin et surtout Serpin, m'ont",
+            "conseillé demander ordre écrit, après avoir vu Lt Pizzi.",
+            "Allé trouver ds sa chambre Lt Pizzi —",
+            "Me suis rendu au Train Office. Major Hughes",
+            "tempêté. Col. Grose, signé ordre d'accompagner",
+            "Lt Curtis, à Acheux.",
+            "A 9h 1/2, enfin, auto venue me prendre",
+            "à mon billet 5 et ts mes bagages. Les",
+            "joint au kit de Lt Curtis.",
+            "Pluie battante. Routes affreuses.",
+            "Vers 11h —, arrivés à Acheux.",
+            "Vu Town Major. Recherché billets & mess-room.",
+            "Installations provisoires.",
+            "Rues ville état lamentable. Ornières.",
+            "Tout l'après-midi, perdu temps —",
         ],
         "critique": (
-            "\\textbf{l.~14 Bois de chauffage : 3 f. :} Première apparition dans les comptes du poste budgétaire "
-            "du chauffage (bois et charbon), qui deviendra l'une des préoccupations majeures du diariste durant "
-            "l'hiver rigoureux de 1916–1917."
+            "\\textbf{l.~4--12 eu l'idée de passer bureau mission... demander ordre écrit :} Prudence juridique typique "
+            "de l'ancien avocat et cheminot : pour éviter d'être considéré en absence irrégulière vis-à-vis de la Mission "
+            "française ou du Train divisionnaire, Hippolyte exige un ordre de détachement dûment signé par le commandant "
+            "du Train (le colonel Grose)."
         ),
         "historique": (
-            "\\textbf{l.~6--7 gare de Varennes :} La gare régulatrice (\\textit{railhead}) de Varennes-Léalvillers "
-            "servait à la fois au débarquement du ravitaillement et des munitions pour le front de l'Ancre et "
-            "à l'évacuation par train des blessés et des colonnes de prisonniers allemands vers Abbeville et Rouen."
+            "\\textbf{l.~10--12 Major Hughes / Col. Grose :} Le lieutenant-colonel D. C. E. Grose commandait le Train "
+            "divisionnaire (\\textit{18th Divisional Train A.S.C.}), assisté du major Hughes. \\textbf{l.~17 Acheux :} "
+            "Acheux-en-Amiénois (à 12 km au nord-ouest d'Albert) devient à compter de ce 2 novembre 1916 le port d'attache "
+            "d'Hippolyte Combes jusqu'au 7 février 1917."
         ),
     },
     91: {
-        "title": "Premières neiges de novembre et fin de l'offensive de la Somme",
-        "date": "17 – 18 novembre 1916",
-        "lieu": "Acheux, Rubempré, Toutencourt (Somme)",
+        "title": "Course nocturne à Raincheval et dernier aller-retour au camp d'Albert",
+        "date": "2 (soir) – 3 novembre 1916",
+        "lieu": "Acheux, Raincheval, Albert (Somme)",
         "lines": [
-            "17 Vendredi —                                   Novembre 1916",
-            "Gelée très forte cette nuit (-6°).",
-            "Vitres de ma chambre couvertes de givre.",
-            "Matinée, course en auto ouverte à",
-            "Toutencourt et Rubempré : souffert",
-            "cruellement de la bise glaciale.",
-            "18 Samedi. — Ce matin, première chute",
-            "de neige ! Toute la campagne est blanche,",
-            "puis la neige se mêle de pluie glacée.",
-            "Dernières attaques vers Grandcourt sous",
-            "la tempête de neige. Routes impraticables.",
-            "Resté tout l'après-midi au bureau n° 104",
-            "devant le poêle avec Lt Curtis.",
+            "Après le dîner, course en auto à Raincheval.",
+            "Vu Major Levy, of the D.O.S.T.",
+            "Nuit très noire. — Couché assez tard.",
+            "[ Donné à Victor Duthuâteau : 5 f —",
+            "  Mess, octobre : 47 f 70",
+            "  Acheux : ctes ples : 15 c ]",
+            "3 Ve. Matin, ciel couvert, 1 peu de soleil",
+            "l'après-midi.",
+            "Partis en auto avec Lt Curtis. Resté à Albert",
+            "et revenu seul s/ 1 lorry. Routes",
+            "mauvaises et sillonnées de véhicules divers.",
+            "Revenu au camp, 152 Coy et au",
+            "bureau mission.",
+            "Après lunch, 2h 30, Acheux.",
+            "Passé journée ds ma chambre — au bureau.",
+            "[ — Mission, Albert : 48 f 75 (30 f retenus pour",
+            "  6 jours de permission) ]",
         ],
         "critique": (
-            "\\textbf{l.~1 (-6°) :} Notation thermométrique précise, habitude qui s'intensifiera en janvier–février "
-            "1917 lorsque le gel atteindra $-15^\\circ$ à $-18^\\circ$ C. \\textbf{Note codicologique :} Dans la "
-            "numérisation du carnet, les clichés \\texttt{20251126\\_104623.jpg} (Scan \\#091) et "
-            "\\texttt{20251126\\_104647.jpg} (Scan \\#093) ont photographié à deux reprises un même feuillet "
-            "intercalaire ; nous rétablissons ici la continuité chronologique exacte du journal de novembre."
+            "\\textbf{l.~2 Vu Major Levy, of the D.O.S.T. :} Le major Levy (officier supérieur du \\textit{District Officer "
+            "of Supplies and Transport} / \\textit{Purchase Board} résidant à Raincheval), dont la voiture Sunbeam "
+            "transportera régulièrement Hippolyte (voir Scan \\#116). \\textbf{l.~16--17 48 f 75 (30 f retenus pour 6 jours "
+            "de permission) :} Détail administratif éclairant : l'indemnité journalière de vivres (5 fr. par jour) était "
+            "retenue sur la solde pendant les journées de permission passées à l'intérieur."
         ),
         "historique": (
-            "\\textbf{l.~10 Dernières attaques vers Grandcourt :} Le 18 novembre 1916, sous le premier blizzard "
-            "de neige, la \\textit{Fifth Army} livre le dernier assaut de la bataille de l'Ancre vers Grandcourt "
-            "et Serre. Le lendemain (19 novembre), après 141 jours d'offensive ininterrompue depuis le "
-            "1\\textsuperscript{er} juillet, Douglas Haig met officiellement fin à la bataille de la Somme."
+            "\\textbf{l.~4 Donné à Victor Duthuâteau : 5 f :} Gratification laissée à son logeur d'Albert en quittant "
+            "sa chambre du \\textit{Brickfield Area}."
         ),
     },
     92: {
-        "title": "Dégel boueux et dimanche de repos à Acheux",
-        "date": "19 – 20 novembre 1916",
-        "lieu": "Acheux, Authie (Somme)",
+        "title": "Course à pied à Bertrancourt et retrouvailles avec l'interprète Cordonnier",
+        "date": "4 novembre 1916",
+        "lieu": "Acheux, Bertrancourt, Bus-lès-Artois, Albert (Somme)",
         "lines": [
-            "19 Dimanche —                                   Novembre 1916",
-            "Dégel complet et pluie froide.",
-            "La neige fondue forme avec la craie",
-            "une bouillie gluante où l'on enfonce",
-            "jusqu'aux chevilles. Messe à 10h.",
-            "Après-midi, impossible de promener ;",
-            "resté chez les Carluvant à lire et",
-            "mettre à jour ma correspondance.",
-            "20 Lundi. — Temps sombre et brumeux.",
-            "Canon s'est presque entièrement tu :",
-            "quel contraste avec la semaine dernière !",
-            "Matinée, course à Authie et Thièvres.",
-            "Après-midi, travail au bureau de la Mission.",
-            "[ A Acheux : Mess : 15 f. — Timbres : 1 f. ]",
+            "Sam. 4                                          Novbre /16",
+            "Matin, dû me rendre à Bertrancourt.",
+            "Venu à pied. Retour, s/ 1 lorry, 3 kil.",
+            "Routes entt boueuses. Région plate.",
+            "Terres désolées. Partout des toiles, des huttes,",
+            "des voitures, des caissons.",
+            "Recherché interprète Jamet, à propos question",
+            "de pétrole. Venu aux Divon Headquarters,",
+            "tentes et huttes, à gauche route de Bus.",
+            "Au bureau mission fr. 2e division,",
+            "retrouvé interprète Cordonnier, R.F.A., que",
+            "connu à Béthune.",
+            "Après lunch, sauté s/ 1 lorry et",
+            "retourné à Albert, à 152 Coy, puis au",
+            "bureau mission fr. Vu Lt Pizzi.",
+            "Ciel noir. Pluie menaçante. Bois",
+            "aux feuillages roussis et mordorés par les",
+            "gelées d'automne. Routes, affrt boueuses.",
         ],
         "critique": (
-            "\\textbf{l.~10--11 Canon s'est presque entièrement tu :} Le diariste enregistre immédiatement par "
-            "l'oreille la fin officielle de la bataille de la Somme (19 novembre 1916), qui ramène le secteur "
-            "d'Acheux à la guerre de position hivernale."
+            "\\textbf{l.~10--12 retrouvé interprète Cordonnier, R.F.A., que connu à Béthune :} Rappel précieux de la toute "
+            "première affectation d'Hippolyte Combes sur le front britannique en mai–juillet 1915 auprès de la "
+            "12\\textsuperscript{e} Division dans le secteur de Béthune (confirmée par sa lettre du 25 février 1916, "
+            "Annexe I)."
         ),
         "historique": (
-            "\\textbf{l.~3--5 bouillie gluante :} La « boue de la Somme » (mélange de limon argileux et de craie "
-            "pulvérisée par les obus, saturé d'eau de fonte) est décrite dans tous les journaux de marche des "
-            "unités britanniques (notamment celui du XIII\\textsuperscript{e} Corps) comme le principal obstacle "
-            "logistique de l'hiver 1916–1917."
+            "\\textbf{l.~8--10 Divon Headquarters... 2e division :} La 2\\textsuperscript{e} Division britannique "
+            "(\\textit{2nd Division}, V\\textsuperscript{e} Corps) avait alors son quartier général sous tentes et baraques "
+            "entre Bertrancourt et Bus-lès-Artois, en préparation de l'attaque du 13 novembre contre Beaumont-Hamel et "
+            "la redoute de Munich."
         ),
     },
     93: {
-        "title": "Tournées à Warloy-Baillon et visite d'Albert sous la brume",
-        "date": "21 – 22 novembre 1916",
-        "lieu": "Acheux, Warloy-Baillon, Albert (Somme)",
+        "title": "Second cliché archivistique du feuillet des 2–3 novembre 1916 (doublon de numérisation)",
+        "date": "2 (soir) – 3 novembre 1916 [cliché bis]",
+        "lieu": "Acheux, Raincheval, Albert (Somme)",
         "lines": [
-            "21 Mardi —                                      Novembre 1916",
-            "Brouillard épais toute la journée.",
-            "Matinée, allé en auto avec Lt Curtis",
-            "à Warloy-Baillon, Senlis et Albert.",
-            "A Albert, arrêté une heure près de la",
-            "gare et du Brickfield pour vérifier",
-            "les arrivages de fourrage du XIIIe Corps.",
-            "22 Mercredi. — Temps un peu plus clair.",
-            "Matinée, course à Louvencourt et",
-            "Vauchelles. Acheté 15 tonnes de paille.",
-            "Après-midi, longue causerie au mess",
-            "avec Lt Curtis et un officier australien",
-            "de passage, très ouvert et sympathique.",
+            "Après le dîner, course en auto à Raincheval.",
+            "Vu Major Levy, of the D.O.S.T.",
+            "Nuit très noire. — Couché assez tard.",
+            "[ Donné à Victor Duthuâteau : 5 f —",
+            "  Mess, octobre : 47 f 70",
+            "  Acheux : ctes ples : 15 c ]",
+            "3 Ve. Matin, ciel couvert, 1 peu de soleil",
+            "l'après-midi.",
+            "Partis en auto avec Lt Curtis. Resté à Albert",
+            "et revenu seul s/ 1 lorry. Routes",
+            "mauvaises et sillonnées de véhicules divers.",
+            "Revenu au camp, 152 Coy et au",
+            "bureau mission.",
+            "Après lunch, 2h 30, Acheux.",
+            "Passé journée ds ma chambre — au bureau.",
+            "[ — Mission, Albert : 48 f 75 (30 f retenus pour",
+            "  6 jours de permission) ]",
         ],
         "critique": (
-            "\\textbf{l.~12--13 officier australien... très ouvert et sympathique :} Première mention dans les "
-            "cahiers d'hiver des troupes australiennes (\\textit{A.I.F.}) qui viennent relever plusieurs "
-            "divisions britanniques dans la Somme ; Hippolyte Combes notera à maintes reprises leur caractère "
-            "franc, sans façon et parfois turbulent (voir Scans \\#163, \\#169, \\#181)."
+            "\\textbf{Note codicologique importante :} Lors de la campagne de numérisation du manuscrit le 26 novembre 2025, "
+            "le présent cliché \\texttt{20251126\\_104647.jpg} (Scan \\#093) a photographié une seconde fois — vingt-quatre "
+            "secondes après le cliché \\texttt{20251126\\_104623.jpg} (Scan \\#091) et après un passage intermédiaire sur "
+            "le recto suivant (Scan \\#092, 4 novembre) — la page verso contenant la fin du 2 novembre et la journée du "
+            "3 novembre 1916. Conformément au principe de fidélité diplomatique stricte au fac-similé en regard, nous "
+            "reproduisons ici le texte exact de la page photographiée."
         ),
         "historique": (
-            "\\textbf{l.~10 15 tonnes de paille :} Chiffre révélateur de l'échelle des achats directs opérés "
-            "dans les fermes picardes par le \\textit{Requisitioning Officer} et son interprète afin d'alléger "
-            "le trafic ferroviaire britannique depuis les ports de la Manche."
+            "\\textbf{l.~1--17 Continuité des folios :} Ce second tirage photographique plus contrasté permet de vérifier "
+            "avec une parfaite netteté la lecture du relevé financier au bas de la page : « Mission, Albert : 48 f 75 "
+            "(30 f retenus pour 6 jours de permission) »."
         ),
     },
     94: {
-        "title": "Brouillard de novembre à Puchevillers et Raincheval",
-        "date": "23 – 24 novembre 1916",
-        "lieu": "Acheux, Puchevillers, Raincheval (Somme)",
+        "title": "Emménagement au n° 1 route de Léalvillers et convocation chez le capitaine Huguet",
+        "date": "5 novembre 1916",
+        "lieu": "Acheux-en-Amiénois (Somme)",
         "lines": [
-            "23 Jeudi —                                      Novembre 1916",
-            "Temps doux mais couvert d'une brume",
-            "humide et pénétrante.",
-            "Matinée, course à Raincheval et",
-            "Puchevillers. Près de la gare de",
-            "Puchevillers, grands hôpitaux sous tentes",
-            "(Casualty Clearing Stations) très actifs.",
-            "24 Vendredi. — Vent violent et pluie.",
-            "Matinée au bureau de la Mission française",
-            "avec Cap. Huguet : question des indemnités",
-            "et de l'avancement des interprètes.",
-            "Après-midi, écrit à Gueïte, à Maman",
-            "Calmels et à Beatrice Chilcott.",
+            "Dim. 5                                          Novbre /16",
+            "Matinée, soleil brille 2 ou 3 h. Puis de",
+            "nouveau, gros nuages assombri ciel bas.",
+            "Délogé de mon billet (59) par le",
+            "Town Major. Grâce à l'1 de ses clerks,",
+            "trouvé bientôt 1 autre chambre — et",
+            "préférable, no 1, route de Léalvillers.",
+            "Avant midi, terminé déménagement et",
+            "installation ds mon nouveau local.",
+            "Après-midi, liberté entière.",
+            "Achevé de m'installer maison. Fait",
+            "connaissance avec proprre, très sympathique.",
+            "A 6h soir, l'interprète de la Vth",
+            "Army troops, venu me chercher : Cap.",
+            "Huguet, du XIIIe corps, désire me voir.",
+            "Venu aussitôt bureau mission du corps.",
+            "Très bien reçu. — qq froid,",
+            "— demande de renseignements divers.",
+            "Dès 8h 1/2, ds ma chambre.",
         ],
         "critique": (
-            "\\textbf{l.~12--13 Gueïte, à Maman Calmels et à Beatrice Chilcott :} Juxtaposition remarquable des "
-            "deux sphères affectives d'Hippolyte Combes : sa future belle-famille millavoise (« Maman Calmels », "
-            "Valentine Cartairade épouse de Gabriel Calmels) et son amie anglaise d'avant-guerre, Beatrice "
-            "Chilcott (auteur du poème conservé dans ses papiers de guerre)."
+            "\\textbf{l.~4--12 Délogé de mon billet (59)... trouvé bientôt 1 autre chambre — et préférable, no 1, route de "
+            "Léalvillers :} Moment fondateur du séjour à Acheux : Hippolyte Combes emménage au n\\textsuperscript{o}~1 de "
+            "la route de Léalvillers, chez M. et Mme Carluvant (tailleur d'habits, voir Scan \\#102), qui le traiteront "
+            "comme un membre de leur famille jusqu'en février 1917."
         ),
         "historique": (
-            "\\textbf{l.~5--7 Puchevillers / Casualty Clearing Stations :} Puchevillers abritait en 1916–1917 "
-            "l'un des principaux centres hospitaliers d'évacuation de la Somme (notamment les 3\\textsuperscript{rd} "
-            "et 44\\textsuperscript{th} \\textit{Casualty Clearing Stations}), relié par embranchement ferroviaire "
-            "à la ligne d'Amiens à Doullens."
+            "\\textbf{l.~14--16 Cap. Huguet, du XIIIe corps :} Le capitaine Huguet dirigeait la Mission militaire française "
+            "auprès du XIII\\textsuperscript{e} Corps britannique (commandé par le lieutenant-général Walter Congreve), "
+            "dont le quartier général était établi à Acheux."
         ),
     },
     95: {
-        "title": "Courses à Bus-lès-Artois et dimanche d'Avent à Acheux",
-        "date": "25 – 26 novembre 1916",
-        "lieu": "Acheux, Bus-lès-Artois, Bertrancourt (Somme)",
+        "title": "Courses à Belle-Église et Coisy, nostalgie de la 152e Compagnie et convois vers la ligne de feu",
+        "date": "6 – 7 novembre 1916",
+        "lieu": "Acheux, Arquèves (Belle-Église), Hérissart, Rubempré, Coisy (Somme)",
         "lines": [
-            "25 Samedi —                                     Novembre 1916",
-            "Pluie froide toute la matinée.",
-            "Course rapide en auto à Bus-lès-Artois",
-            "et Bertrancourt pour régler litiges",
-            "de cantonnement avec le Town Major.",
-            "Après-midi, repos dans ma chambre.",
-            "26 Dimanche. — Temps gris et froid.",
-            "Messe à 10h à l'église d'Acheux.",
-            "Après lunch, promenade à pied sur",
-            "la route de Varennes malgré la boue.",
-            "Soirée au mess n° 104 : musique sur",
-            "le gramophone et partie de bridge.",
-            "[ A Acheux : Mess : 14 f. 50 — Cirage : 50 c. ]",
+            "Lundi 6                                         Nov. /16",
+            "Tt le jour, rafales & averses.",
+            "Matinée, venu à pied & s/ 1 lorry j'à Arquèves,",
+            "ferme de Belle-Église, pour 1 question de pétrole.",
+            "Après-midi, longue randonnée en auto",
+            "à Coisy, par Hérissart, Rubempré etc.",
+            "Achat de paille et foin. Partis vers 1h 1/2,",
+            "rentrés seulement sur 6 h. Giboulées",
+            "tour à tour, région de plaines et de petites",
+            "collines, avec bois dont les ombres, teintées",
+            "de rouille, orange et or — et allées",
+            "jaunies par jonchées de feuilles mortes.",
+            "Regrette d'avoir quitté 152 Coy. Cherche",
+            "moyen de ne pas quitter 18e Divon & ma Coy.",
+            "Mardi 7",
+            "Pluie durant partie journée.",
+            "Routes boueuses pleines de trous & ornières profondes.",
+            "Ni matin, ni soir, rien à faire.",
+            "Après-midi, essayé d'aller Albert : fatigué",
+            "d'attendre lorry, renoncé partir et rentré billet.",
+            "De la fenêtre de ma chambre, mouvement",
+            "rue (route de Léalvillers). Flot presque ininterrompu",
+            "de véhicules de ttes sortes : lorries, wagons, caissons",
+            "de munitions d'artrie. Et défilé incessant",
+            "de troupes allant au repos ou se rendant firing line.",
         ],
         "critique": (
-            "\\textbf{l.~11--12 gramophone et partie de bridge :} Notations de sociabilité britannique au sein "
-            "du mess du n° 104 ; l'interprète partage pleinement les loisirs des officiers de l'A.S.C."
+            "\\textbf{l.~10--12 bois dont les ombres, teintées de rouille, orange et or :} Remarquable tableau impressionniste "
+            "de l'automne picard. \\textbf{l.~25 se rendant firing line :} L'expression anglaise \\textit{firing line} "
+            "(ligne de feu) clôt la phrase sans préposition ni article, selon l'usage bilingue du carnet."
         ),
         "historique": (
-            "\\textbf{l.~3--5 Bus-lès-Artois / Town Major :} Situé à 4 km au nord-est d'Acheux, Bus-lès-Artois "
-            "servait de cantonnement de réserve immédiate pour les brigades relevant les tranchées du secteur "
-            "d'Auchonvillers et de Beaumont-Hamel."
+            "\\textbf{l.~3--4 Arquèves, ferme de Belle-Église :} Première mention dans le carnet de la grande ferme isolée "
+            "de Belle-Église (commune d'Arquèves, exploitée par la famille belge Houthouan), qui deviendra l'un des "
+            "principaux centres de battage de paille du secteur (voir Scans \\#106, \\#108, \\#171)."
         ),
     },
     96: {
-        "title": "Froid vif sur le plateau d'Hérissart et Toutencourt",
-        "date": "27 novembre 1916",
-        "lieu": "Acheux, Toutencourt, Hérissart (Somme)",
+        "title": "Promenades en auto à Forceville, Varennes et thé au mess de la 152e Compagnie à Albert",
+        "date": "8 – 9 novembre 1916",
+        "lieu": "Acheux, Forceville, Varennes, Warloy, Senlis-le-Sec, Albert (Somme)",
         "lines": [
-            "27 Lundi —                                      Novembre 1916",
-            "Nuit très froide, gelée blanche au matin.",
-            "Le brouillard se dissipe vers 10h et",
-            "laisse place à un soleil pâle d'hiver.",
-            "Matinée, longue tournée avec Lt Curtis",
-            "à Toutencourt, Hérissart et Contay.",
-            "Campagne vallonnée, petits bois dénudés",
-            "sur les crêtes, vieux moulins à vent",
-            "qui découpent leurs ailes sur le ciel gris.",
-            "Après-midi, travail de comptabilité",
-            "au bureau. Reçu lettre de Valentine",
-            "me donnant des nouvelles de Millau.",
+            "8 Me.                                           Novbre 1916",
+            "Matin, course en",
+            "auto à Forceville — avec Major Hughes & Curtis.",
+            "Après lunch, venu en auto à Albert — en",
+            "passant par Varennes – Warloy – Senlis.",
+            "Soleil, brillé 1 peu. Délicieuse promenade.",
+            "Venu bureau mission frse et demandé",
+            "renseignements.",
+            "Retourné s/ 1 lorry.",
+            "9 J. Matin & soir, temps couvert.",
+            "Le jour, enfin, soleil brillé — durant",
+            "qq heures.",
+            "Après-midi, course en auto à Varennes,",
+            "par Léalvillers — et dû revenir par Acheux,",
+            "puis continuer j. à Albert.",
+            "Campagne ensoleillée — mais routes",
+            "affreust boueuses.",
+            "Resté pour le thé au mess-hut",
+            "de la 152 Coy, s/ plateau au sol",
+            "transformé en marécage. Alors, ciel",
+            "éclairci, qq étoiles, pleine lune magnifique.",
+            "Bombardement commence sur Albert.",
         ],
         "critique": (
-            "\\textbf{l.~8--9 vieux moulins à vent :} Première notation d'un motif paysager (les moulins à vent "
-            "en bois sur les hauteurs d'Hérissart et de Pierre-à-Chaux) qui reviendra avec insistance en "
-            "février et avril 1917 (voir Scans \\#149, \\#153, \\#161, \\#182)."
+            "\\textbf{l.~18--22 Resté pour le thé au mess-hut de la 152 Coy... Bombardement commence sur Albert :} La "
+            "construction de la séquence oppose la convivialité britannique du \\textit{tea} sous la baraque-mess et la "
+            "beauté de la pleine lune à la brutalité soudaine du bombardement nocturne."
         ),
         "historique": (
-            "\\textbf{l.~6 Toutencourt, Hérissart et Contay :} Ces villages jalonnent la crête qui sépare la "
-            "vallée de l'Hallue de celle de la Somme ; encore intacts, ils fournissent l'essentiel de l'avoine "
-            "et de la paille achetées par la 152\\textsuperscript{e} Compagnie de l'A.S.C."
+            "\\textbf{l.~11--21 soleil brillé... pleine lune magnifique :} C'est précisément cette amélioration "
+            "météorologique à partir du 9 novembre 1916 (asséchant légèrement le terrain après deux semaines de pluies "
+            "diluviennes) qui décida le général Gough et Sir Douglas Haig à fixer au 13 novembre l'ultime offensive "
+            "sur l'Ancre."
         ),
     },
     97: {
-        "title": "Courses à Beauquesne et Marieux dans le froid",
-        "date": "28 novembre 1916",
-        "lieu": "Acheux, Marieux, Beauquesne (Somme)",
+        "title": "Courses à Raincheval et Varennes, rencontre de l'interprète Sorgues et bombardement d'Acheux",
+        "date": "10 – 11 novembre 1916",
+        "lieu": "Acheux, Raincheval, Léalvillers, Varennes (Somme)",
         "lines": [
-            "28 Mardi —                                      Novembre 1916",
-            "Gelée encore plus forte ce matin.",
-            "Bise glaciale qui cingle le visage.",
-            "Matinée, course en auto à Marieux,",
-            "Sarton et Beauquesne pour achats",
-            "de fourrage. A Beauquesne, grand",
-            "mouvement d'état-major anglais.",
-            "Rentré à Acheux à 1h 1/2, transi",
-            "de froid malgré mon gros pardessus.",
-            "Après-midi, resté près du feu au",
-            "bureau à classer les dossiers du mois.",
-            "Écrit à mon amie.",
+            "Ven. 10                                         Novembre 1916",
+            "Très belle journée. Chaud",
+            "soleil. Enfin !",
+            "Matinée, au bureau, en l'absence du Lt Curtis",
+            "& du clerk. Lu, écrit, réfléchi, devant bon feu.",
+            "Impression toute nouvelle.",
+            "Tout l'après-midi, courses en auto : Raincheval",
+            "et Léalvillers. Pu regarder à loisir campagne",
+            "ensoleillée — et remarqué la — détails du paysage.",
+            "Nuit extt belle, ciel éclairé par pleine lune.",
+            "Sam. 11 — Matin, dû me rendre à Varennes pour",
+            "1 question de paille à acheter. Aller & retour à pied —",
+            "Pour trouver, battrie R.F.A., B Battery, marché",
+            "terrain mou, vrai cloaque où les pieds",
+            "enfonçaient et se collaient. Affreux.",
+            "Interprète de cette unité, M. Sorgues, prof.",
+            "au lycée de Toulon.",
+            "Soir, à repas, sifflement obus. Acheux",
+            "bombardé à intervalles rapprochés. Réfugiés cave.",
+            "[ — Ctes ples, à Varennes : 75 c — ]",
         ],
         "critique": (
-            "\\textbf{l.~8--9 transi de froid :} La sensibilité au froid hivernal (liée à la « constitution "
-            "fragile » mentionnée dès le conseil de révision de 1896) occupe une place croissante dans les "
-            "notations quotidiennes de novembre 1916 à avril 1917."
+            "\\textbf{l.~16--17 Interprète de cette unité, M. Sorgues, prof. au lycée de Toulon :} La corporation des "
+            "interprètes auprès de la B.E.F. compte de nombreux professeurs d'anglais de l'enseignement secondaire "
+            "(comme Hippolyte Combes lui-même, professeur au collège de Nogent-le-Rotrou, qui avait fait ses classes "
+            "d'artillerie à Toulon au printemps 1915)."
         ),
         "historique": (
-            "\\textbf{l.~6--7 A Beauquesne, grand mouvement d'état-major anglais :} Le château de Beauquesne "
-            "(entre Doullens et Acheux) abritait alors le Grand Quartier Général avancé (\\textit{Advanced G.H.Q.}) "
-            "de Sir Douglas Haig pendant toute la campagne de la Somme."
+            "\\textbf{l.~18--19 sifflement obus. Acheux bombardé à intervalles rapprochés. Réfugiés cave :} En réponse "
+            "au bombardement préparatoire britannique sur Beaumont-Hamel et Serre (commencé le 11 novembre), l'artillerie "
+            "à longue portée allemande prend pour cible le carrefour routier et le quartier général d'Acheux."
         ),
     },
     98: {
-        "title": "Brouillard glacé à Louvencourt et Vauchelles",
-        "date": "29 novembre 1916",
-        "lieu": "Acheux, Louvencourt, Vauchelles (Somme)",
+        "title": "Bataille de Beaumont-Hamel (13–14 novembre), convois de blessés et foire de Doullens",
+        "date": "12 – 14 novembre 1916",
+        "lieu": "Acheux, Varennes, Contay, Beauquesne, Raincheval, Doullens, Frévent (Somme / Pas-de-Calais)",
         "lines": [
-            "29 Mercredi —                                   Novembre 1916",
-            "Brouillard glacé très intense toute",
-            "la journée ; on ne voit pas à 20 pas.",
-            "Arbres et haies entièrement blancs",
-            "de givre : féerie d'hiver, mais froid",
-            "humide très pénétrant.",
-            "Matinée, allé à Louvencourt et",
-            "Vauchelles régler les livraisons",
-            "de paille à la gare de Varennes.",
-            "Après-midi, liberté entière. Lu",
-            "dans ma chambre et pris le thé",
-            "au mess n° 104 à 5h.",
+            "Dim. 12.                                        Novembre 1916",
+            "Assez belle journée. Matin & soir, brouillard.",
+            "Routes mauvaises. Sol mou, pétri de sillons",
+            "profonds par les innombrables véhicules qui",
+            "le labourent.",
+            "Matin, liberté complète.",
+            "Après-midi, course en auto à Beauquesne",
+            "par Varennes & Contay. Brume s'est levée",
+            "peu à peu. Paysage anglais : arbres étriqués,",
+            "feuillages jaunes, marron semant la route.",
+            "[ Journal semaine : 40 c",
+            "  Casque peint khaki : 1 f — ]",
+            "14 Ma. — Tout hier, et principt matin, ainsi",
+            "qu'auj'd'hui, très fort bombardemt — du",
+            "côté de Beaumont. Vu passer nbx blessés",
+            "transportés s/ fourgons, autos & cars —",
+            "Courses à Raincheval, Doullens et Frévent.",
+            "Partis 8h 1/2 m., rentrés 5h soir.",
+            "Ciel nuageux — pluie menacé tt le jour.",
+            "A Doullens, grande foire.",
+            "A Frévent, promené par rues. — Petite",
+            "ville assez coquette : belle église, calcaires...",
+            "[ — Boutons simili-cuir : 4 f 75 (10 gds, 3 petits)",
+            "  Cartes ples : 40 c, 1 f 50 et 10 c",
+            "  Déjeuner à l'hôtel d'Amiens, ma part : 7 fr. ]",
         ],
         "critique": (
-            "\\textbf{l.~4--5 féerie d'hiver :} Même au cœur du froid le plus pénible, le regard d'Hippolyte "
-            "Combes esthétise immédiatement le givre et les arabesques de glace (voir aussi Scan \\#154 et \\#155)."
+            "\\textbf{l.~12 Casque peint khaki : 1 f :} Achat ou mise aux normes britanniques de son casque métallique, "
+            "repeint en kaki mat règlementaire de la B.E.F. \\textbf{l.~23 Boutons simili-cuir : 4 f 75 (10 gds, 3 petits) :} "
+            "Boutons de cuir tressé (\\textit{leather buttons}) caractéristiques de la vareuse d'officier et d'interprète "
+            "britannique."
         ),
         "historique": (
-            "\\textbf{l.~7--9 Louvencourt / gare de Varennes :} Les achats effectués dans les fermes de "
-            "Louvencourt et Vauchelles-lès-Authie étaient centralisés aux presses à fourrage installées près "
-            "de la gare régulatrice de Varennes."
+            "\\textbf{l.~13--16 Tout hier, et principt matin, ainsi qu'auj'd'hui, très fort bombardemt — du côté de "
+            "Beaumont. Vu passer nbx blessés :} Témoignage direct sur le déclenchement de la bataille de l'Ancre le "
+            "lundi 13 et le mardi 14 novembre 1916 : la 51\\textsuperscript{e} (\\textit{Highland}) Division et la "
+            "63\\textsuperscript{e} (\\textit{Royal Naval}) Division enlèvent Beaumont-Hamel et Beaucourt-sur-l'Ancre "
+            "au prix de lourdes pertes dont les ambulances traversent Acheux."
         ),
     },
     99: {
-        "title": "Clôture du mois de novembre et solde à la Mission",
-        "date": "30 novembre 1916 (matin)",
-        "lieu": "Acheux (Somme)",
+        "title": "Canonnade sur Beaucourt-sur-l'Ancre et déjeuner à Hérissart chez le lieutenant Walsh",
+        "date": "15 – 16 novembre 1916",
+        "lieu": "Acheux, Albert, Raincheval, Louvencourt, Toutencourt, Hérissart (Somme)",
         "lines": [
-            "30 Jeudi (St André) —                           Novembre 1916",
-            "Même brouillard givrant le matin,",
-            "puis léger redoux dans l'après-midi.",
-            "Matinée passée au bureau de la",
-            "Mission française à Acheux : touché",
-            "ma solde mensuelle et causé avec",
-            "Cap. Huguet et plusieurs camarades",
-            "interprètes venus des cantonnements",
-            "voisins pour la paye du 30.",
-            "[ Solde de Novembre (Mission fr.) : 75 f. —",
-            "  Indemnité vivres : 18 f. 50 ]",
+            "15 Me.                                          Novbre 1916",
+            "Toute la nuit, encore,",
+            "et durant journée, principt à l'aube, très",
+            "violente canonnade vers Beaucourt s/ Ancre.",
+            "Très belle journée ensoleillée.",
+            "Matin, venu en auto à Albert. Rentré id.",
+            "Passé au bureau mission frse. Rien de",
+            "nouveau me concernant.",
+            "Après-midi, liberté entière. Promené",
+            "village —",
+            "[ Cartes ples : Acheux : 35 c. — Journaux : 40 c",
+            "  Washing : 65 c — ]",
+            "16 J. — Matinée, toujours très violent bombardemt.",
+            "Vitres et fenêtres ne cessent pas de",
+            "trembler.",
+            "Soleil brillé journée entière. Gelé",
+            "fortt durant nuit. Bise froide.",
+            "Matin & après-midi, en auto :",
+            "Raincheval, Louvencourt, Toutencourt etc.",
+            "Déjeuné à Hérissart ch. Lt Walsh et",
+            "avec son interprète. Fort apprécié ce dernier",
+            "M. Deloney, directeur d'1 usine",
+            "(tissus) près Paris. Intelligent & distingué.",
         ],
         "critique": (
-            "\\textbf{l.~10--11 Solde de Novembre :} Double ligne comptable distinguant la solde militaire "
-            "française (75 fr.) et l'indemnité représentative de vivres (18 fr. 50)."
+            "\\textbf{l.~20--23 Déjeuné à Hérissart ch. Lt Walsh et avec son interprète... M. Deloney :} Première "
+            "rencontre avec le lieutenant Walsh et son interprète M. Deloney, qui deviendront les principaux compagnons "
+            "de sociabilité d'Hippolyte Combes en novembre–décembre 1916 (voir Scans \\#103, \\#106, \\#120)."
         ),
         "historique": (
-            "\\textbf{l.~1 St André :} Le 30 novembre (Saint-André, fête nationale écossaise) était célébré "
-            "avec éclat dans les unités écossaises de la \\textit{Fifth Army} (notamment la 51\\textsuperscript{e} "
-            "\\textit{Highland Division} cantonnée autour d'Acheux après sa victoire de Beaumont-Hamel)."
+            "\\textbf{l.~2--4 très violente canonnade vers Beaucourt s/ Ancre :} Les 15 et 16 novembre 1916, les troupes "
+            "britanniques consolident sous un bombardement intense la prise de Beaucourt-sur-l'Ancre et repoussent les "
+            "contre-attaques allemandes le long de la voie ferrée d'Achiet-le-Grand."
         ),
     },
     100: {
-        "title": "Bilan de fin novembre et nouvelles de Millau",
-        "date": "30 novembre 1916 (soir)",
-        "lieu": "Acheux (Somme)",
+        "title": "Premières fortes gelées, conférence sur la Russie au Y.M.C.A. et première neige",
+        "date": "17 – 18 novembre 1916",
+        "lieu": "Acheux, Authie, Orville, Amplier, Albert (Somme / Pas-de-Calais)",
         "lines": [
-            "30 Jeudi (suite) —                              Novembre 1916",
-            "Après-midi, allé à pied jusqu'à",
-            "Forceville par le sentier des champs.",
-            "Silence presque complet sur le front ;",
-            "à peine quelques coups de canon isolés",
-            "du côté d'Hébuterne et de Gommecourt.",
-            "Rentré à 4h 1/2 pour le tea au mess.",
-            "Soirée dans ma chambre : arrêté",
-            "tous mes comptes de novembre.",
-            "Reçu bonne lettre de Gueïte.",
-            "[ Dépenses du mois : 64 f. 20 —",
-            "  Reste en caisse fin Nov. : 214 f. 70 ]",
+            "17 Ven.                                         Novbre -16",
+            "Nuit gelé très",
+            "fortt. Sol, durci. Vitres, couvertes d'arabesques.",
+            "Le jour, soleil brillé, mais bise glaciale",
+            "soufflé et soulevé routes, nuages de poussière.",
+            "Toute matinée, roulé en auto. Authie,",
+            "coquet bourg au fond d'1 vallon —",
+            "Orville et Amplier. — Sites assez jolis.",
+            "Après-midi, liberté complète.",
+            "A 6h s., venu hut de Y.M.C.A. et entendu",
+            "conférence s/ Russia — —",
+            "Comme ts les soirs précédents, nuit noire.",
+            "Bombardement très violent ds le lointain.",
+            "18 Sam. Durant tte nuit & + fort encore",
+            "aux 1ères heures jour, très violente",
+            "canonnade, ds le lointain. Fenêtres & portes,",
+            "vibrant sans arrêt. Obus éclatent à coups",
+            "de + en + précipités : on dirait énormes vagues",
+            "déferlant s/ rochers avec 1 bruit de tonnerre.",
+            "Matinée, venu à Albert, aller &",
+            "retour, sur 1 lorry — —",
+            "Neige tombé matin — 1ère neige,",
+            "mais peu à peu, fondue sous pluie fine.",
+            "Routes détrempées, vraies fondrières.",
+            "[ — Albert : solde : 88 f 85 — 3 ctes ples : 30 c ]",
         ],
         "critique": (
-            "\\textbf{l.~10--12 arrêté tous mes comptes / Reste en caisse :} Le bilan mensuel fait apparaître "
-            "une épargne régulière : grâce à la frugalité de sa vie au cantonnement, l'encaisse d'Hippolyte "
-            "Combes passe de 185 fr. 40 fin octobre à 214 fr. 70 fin novembre."
+            "\\textbf{l.~17--19 Obus éclatent à coups de + en + précipités : on dirait énormes vagues déferlant s/ rochers "
+            "avec 1 bruit de tonnerre :} Comparaison maritime saisissante pour rendre l'acoustique du tir de barrage "
+            "roulant (\\textit{creeping barrage})."
         ),
         "historique": (
-            "\\textbf{l.~6 Hébuterne et Gommecourt :} Situés à 8 km au nord-est d'Acheux, Hébuterne (tenu par "
-            "les Alliés) et le saillant boisé de Gommecourt (tenu par les Allemands jusqu'en février 1917) "
-            "formaient la charnière nord du champ de bataille de la Somme."
+            "\\textbf{l.~14--24 18 Sam... très violente canonnade / Neige tombé matin — 1ère neige :} Le samedi 18 novembre "
+            "1916 à l'aube, sous la première tempête de neige de l'hiver, les II\\textsuperscript{e} et V\\textsuperscript{e} "
+            "Corps britanniques livrent l'ultime assaut de la bataille de l'Ancre (vers Grandcourt et les tranchées "
+            "\\textit{Desire} et \\textit{Frankfort}), qui marque la clôture officielle des quatre mois et demi de "
+            "l'offensive de la Somme."
         ),
     },
     101: {
-        "title": "Récapitulatif des réquisitions d'automne (feuillet annexe)",
-        "date": "Fin novembre 1916 (notes de service)",
-        "lieu": "Acheux (Somme)",
+        "title": "Défilé de troupes et de prisonniers allemands à Acheux, nuit à Englebelmer et friction avec Curtis",
+        "date": "20 – 21 novembre 1916",
+        "lieu": "Acheux, Bouzincourt, Contay, Englebelmer, Léalvillers (Somme)",
         "lines": [
-            "Notes — Novembre 1916 —                         Acheux",
-            "Récapitulation des communes visitées",
-            "pour le service du Foraging Officer",
-            "(152nd Coy A.S.C. — XIIIth Corps) :",
-            "1° Secteur Nord : Authie, Thièvres,",
-            "Marieux, Sarton, Louvencourt, Vauchelles,",
-            "Arquèves, Raincheval, Puchevillers.",
-            "2° Secteur Sud : Forceville, Hédauville,",
-            "Varennes, Léalvillers, Senlis-le-Sec,",
-            "Bouzincourt, Warloy-Baillon, Baizieux,",
-            "Toutencourt, Hérissart, Rubempré.",
-            "Total réglé en Novembre : env. 42 tonnes",
-            "paille de blé & avoine.",
+            "20 Lundi —                                      Nov. /16",
+            "Auj'd'hui, comme hier, ciel nuageux. Fines",
+            "ondées, matin & soir.",
+            "Rues & routes, état lamentable, couvertes",
+            "de boue glissante & épaisse.",
+            "Ts les jours, passe des heures à regarder rue —",
+            "debout devant fenêtre chambre ou assis s/ lit à côté.",
+            "Mouvement inouï : lorries, wagons, cars etc. etc.",
+            "Et défilé incessant de troupes revenant de l'avant",
+            "ou des tranchées —",
+            "Souvent aussi, cortèges de prisonniers allemands.",
+            "Après-midi, longue course en auto : Bouzincourt.",
+            "Au retour, arrêt à Contay. Nuit noire. Cherché refuge",
+            "à Englebelmer. Dû attendre ds obscurité profonde, le long",
+            "hauts murs du château. Boue épaisse — —",
+            "Au retour, ciel mervt étoilé... Nuit noire.",
+            "[ — Cartes ples d'Acheux : 45 c. — Timbres : 2 f",
+            "  Carnet : 60 c ]",
+            "21 Ma. — Épais brouillard, matin & soir.",
+            "Le jour, soleil brillé 1 peu.",
+            "Routes état lamentable. Couche profonde",
+            "de boue liquide. Humidité pénétrante.",
+            "Matin, libre. Après-midi, s/ lorry",
+            "à Léalvillers. Au retour, office, remarque",
+            "+tôt désobligeante de Curtis : fâché",
+            "contre lui.",
         ],
         "critique": (
-            "\\textbf{l.~1--13 Récapitulation des communes :} Ce feuillet de synthèse administrative illustre "
-            "la nature hybride du carnet, à la fois journal intime et aide-mémoire professionnel du service "
-            "des achats sur place (\\textit{Foraging Service})."
+            "\\textbf{l.~24--26 remarque +tôt désobligeante de Curtis : fâché contre lui :} Premier signe de l'antipathie "
+            "croissante d'Hippolyte Combes envers le lieutenant Curtis, qu'il qualifiera sans ménagement lors de son "
+            "départ le 6 décembre (Scan \\#107)."
         ),
         "historique": (
-            "\\textbf{l.~4--11 Secteur Nord / Secteur Sud :} Cette liste de vingt communes dessine avec une "
-            "exactitude géographique parfaite le rayon d'action d'environ 12 km autour d'Acheux dévolu au "
-            "Train du XIII\\textsuperscript{e} Corps britannique à la fin de 1916."
+            "\\textbf{l.~11 cortèges de prisonniers allemands :} Plus de 7 200 soldats allemands capturés lors de la "
+            "bataille de l'Ancre (13–18 novembre 1916) furent évacués à pied par la chaussée d'Acheux vers la gare "
+            "d'embarquement de Varennes."
         ),
     },
     102: {
-        "title": "Adresses et relevé d'expéditions postales de novembre",
-        "date": "Fin novembre 1916 (mémento épistolaire)",
-        "lieu": "Acheux (Somme)",
+        "title": "Indisposition nocturne, couture de M. Carluvant et tournée à Amplier et Authie",
+        "date": "22 – 23 novembre 1916",
+        "lieu": "Acheux, Amplier, Authieule, Authie (Somme / Pas-de-Calais)",
         "lines": [
-            "Mémento Correspondance —                        Nov. 1916",
-            "Lettres écrites et reçues :",
-            "— Millau (Boulevard de l'Ayrolle &",
-            "  Maison Calmels) : écrit les 2, 5, 9,",
-            "  13, 17, 21, 25 et 29 Nov.",
-            "— Toulouse (Rue du Taur / St-Sernin) :",
-            "  écrit les 6, 15 et 26 Nov.",
-            "— Angleterre (Miss B. Chilcott &",
-            "  Mrs Chilcott, Surrey) : 10 et 24 Nov.",
-            "— Paris / Neuilly (Cousins Faure,",
-            "  16 rue d'Armenonville) : 19 Nov.",
-            "— Nogent-le-Rotrou (Mme Brillouet,",
-            "  rue St-Hilaire) : 12 et 28 Nov.",
+            "22 Mer.                 Novembre 1916 —",
+            "Hier soir, indigestion & dérangement",
+            "d'entrailles. Ni thé, ni souper. 7 selles",
+            "liquides, dans la nuit. Dû me lever",
+            "chacune d'elles.",
+            "Auj'd'hui, léger mieux. Mais courbature,",
+            "lassitude, selles glaireuses claires — 1 peu de",
+            "fièvre. Me suis ménagé. Mangé très",
+            "peu. Fin jour, amélioration très sensible",
+            "— presque guéri —",
+            "[ A proprre M. Carluvant, tailleur : 75 c",
+            "  (élargi culottes neuves par derrière) ]",
+            "Nuit très noire — dès 5h 1/2 s. — Rue",
+            "boueuse & impraticable.",
+            "23 Jeudi. Enfin, 1 très belle journée.",
+            "Mais temps 1 peu froid.",
+            "Sol tjrs spongieux & mou : sèche",
+            "très lentement.",
+            "Matinée, reposé s/ lit du clerk à",
+            "l'office. Après-midi, course en auto :",
+            "Amplier – Authieule et Authie. Rentré pour",
+            "le thé.",
+            "Nuit, extt obscure. Difficile marche rue.",
+            "Tout à fait rétabli légère indisposition.",
+            "[ Washing : 1 f 25 — ]",
         ],
         "critique": (
-            "\\textbf{l.~1--13 Mémento Correspondance :} Ce relevé méthodique met à nu les cinq pôles du réseau "
-            "épistolaire d'Hippolyte Combes pendant la guerre : Millau (sa fiancée Marguerite Calmels et sa "
-            "sœur Valentine), Toulouse (son appartement d'avant-guerre et ses amis), le Surrey (la famille "
-            "Chilcott), Neuilly-sur-Seine (ses cousins Faure) et Nogent-le-Rotrou (sa logeuse Mme Angèle Brillouet)."
+            "\\textbf{l.~2--10 indigestion \\& dérangement d'entrailles :} Comme dans les entrées d'août 1916 (Scans \\#020–\\#021) "
+            "et du 11 décembre 1916 (Scan \\#109), le diariste consigne avec une précision clinique ses troubles digestifs "
+            "liés à l'eau et à l'humidité des cantonnements. \\textbf{l.~11--12 A proprre M. Carluvant, tailleur : 75 c "
+            "(élargi culottes neuves par derrière) :} Détail savoureux qui nous apprend le métier de son hôte d'Acheux."
         ),
         "historique": (
-            "\\textbf{l.~12--13 Nogent-le-Rotrou (Mme Brillouet, rue St-Hilaire) :} La photographie d'Angèle "
-            "Brillouet est conservée dans les archives militaires familiales (\\texttt{Angèle Brillouet.jpg}), "
-            "et l'adresse « rue Saint-Hilaire, Nogent-le-Rotrou » figure sur la fiche matricule d'Hippolyte Combes "
-            "comme son domicile légal de 1914 à avril 1919."
-        ),
-    },
-    103: {
-        "title": "Journée d'hiver brumeuse et courses à Mailly-Maillet",
-        "date": "30 novembre 1916 (notes complémentaires)",
-        "lieu": "Acheux, Mailly-Maillet, Englebelmer (Somme)",
-        "lines": [
-            "Novembre 1916 (fin) —                           Acheux",
-            "Rencontré ce soir l'interprète du",
-            "Town Major de Mailly-Maillet :",
-            "le village a encore reçu une vingtaine",
-            "d'obus de 150 hier après-midi ;",
-            "l'église et le château sont très",
-            "endommagés, presque tous les civils",
-            "ont dû être évacués vers Doullens.",
-            "Ici à Acheux, calme complet, mais",
-            "les nuits sont glaciales et humides.",
-            "Heureux d'avoir le poêle de ma",
-            "chambre chez les Carluvant.",
-        ],
-        "critique": (
-            "\\textbf{l.~1--12 Novembre 1916 (fin) :} Dernière page du cahier de novembre avant l'ouverture "
-            "solennelle du mois de décembre."
-        ),
-        "historique": (
-            "\\textbf{l.~4--8 Mailly-Maillet / civils évacués :} Situé à moins de 4 km de la ligne de front "
-            "d'Auchonvillers, Mailly-Maillet subit à la fin de l'automne 1916 des tirs de représailles allemands "
-            "à longue portée qui contraignent la Mission militaire française à ordonner l'évacuation des "
-            "derniers habitants vers l'arrière."
-        ),
-    },
-    104: {
-        "title": "Transition vers l'hiver : état de la caisse et du mess au 1er décembre",
-        "date": "30 novembre – 1er décembre 1916",
-        "lieu": "Acheux (Somme)",
-        "lines": [
-            "Clôture Novembre / Début Décembre 1916 —        Acheux",
-            "Réglé ma part de mess pour la seconde",
-            "quinzaine de Novembre avec Lt Curtis :",
-            "28 f. 50 (très raisonnable vu l'abondance",
-            "et la qualité des rations anglaises).",
-            "Acheté à la cantine anglaise (E.F.C.) :",
-            "1 boîte de thé, 2 boîtes de lait condensé,",
-            "savon de toilette et bougies : 6 f. 25.",
-            "Santé physique bonne malgré le froid,",
-            "mais grande lassitude morale de cette",
-            "guerre interminable dont on ne voit",
-            "toujours pas l'issue.",
-        ],
-        "critique": (
-            "\\textbf{l.~6 E.F.C. :} Sigle des \\textit{Expeditionary Force Canteens}, l'organisme britannique "
-            "de cantines militaires où les interprètes français détachés avaient le privilège de s'approvisionner "
-            "au tarif des officiers alliés."
-        ),
-        "historique": (
-            "\\textbf{l.~10--12 grande lassitude morale :} Ce constat d'usure psychologique à l'entrée du "
-            "troisième hiver de guerre rejoint exactement le ton de la lettre confidentielle d'Hippolyte Combes "
-            "à sa sœur Joséphine et des carnets d'autres interprètes de la B.E.F. (tels André Maurois ou "
-            "Paul Mantoux) à la fin de la bataille de la Somme."
-        ),
-    },
-    105: {
-        "title": "Entrée dans le mois de décembre : brouillard glacé à Acheux",
-        "date": "1er – 2 décembre 1916",
-        "lieu": "Acheux, Varennes, Léalvillers (Somme)",
-        "lines": [
-            "1er Vendredi —                                  Décembre 1916",
-            "Temps très froid, brouillard épais et",
-            "givrant toute la matinée.",
-            "Course en auto avec Lt Curtis à",
-            "Varennes, Léalvillers et Clairfayts.",
-            "Routes glissantes, verglas par endroits.",
-            "Après-midi, travail au bureau n° 104.",
-            "2 Samedi. — Même froid vif et sec.",
-            "Matinée à Raincheval et Arquèves",
-            "pour achat de paille d'avoine.",
-            "Après-midi, liberté entière. Écrit",
-            "longue lettre à Gueïte et à Valentine.",
-            "[ A Acheux : Washing : 85 c. — Journal : 15 c. ]",
-        ],
-        "critique": (
-            "\\textbf{l.~1 Décembre 1916 :} En-tête mensuel calligraphié en haut à droite avec soulignement "
-            "appuyé. Le module de l'écriture en décembre devient plus serré (souvent deux à trois journées "
-            "par page) en raison de la brièveté des jours et de la monotonie de la vie de garnison hivernale."
-        ),
-        "historique": (
-            "\\textbf{l.~5 Clairfayts :} Hameau et ferme isolée entre Varennes et Léalvillers, servant de "
-            "parc de stationnement pour les fourgons hippomobiles (\\textit{General Service Wagons}) du "
+            "\\textbf{l.~21 Amplier – Authieule et Authie :} Ces villages de la haute vallée de l'Authie, à la limite de "
+            "la Somme et du Pas-de-Calais, servaient de zone de repos et d'approvisionnement en fourrage pour le "
             "XIII\\textsuperscript{e} Corps."
         ),
     },
-    106: {
-        "title": "Dimanche de l'Avent et tournées à Louvencourt et Authie",
-        "date": "3 – 5 décembre 1916",
-        "lieu": "Acheux, Authie, Louvencourt (Somme)",
+    103: {
+        "title": "Bombardement meurtrier de la sucrerie d'Acheux et visite de M. Deloney",
+        "date": "25 – 26 novembre 1916",
+        "lieu": "Acheux, Hérissart (Somme)",
         "lines": [
-            "3 Dimanche —                                    Décembre 1916",
-            "Gelée blanche au réveil. Messe à 10h.",
-            "Après lunch, promenade à pied sur la",
-            "route de Bertrancourt avec un camarade",
-            "interprète. Ciel bas, silence morne.",
-            "4 Lundi. — Dégel et pluie fine glaciale.",
-            "Matinée, course en auto à Authie et",
-            "Louvencourt. Boue liquide partout.",
-            "5 Mardi. — Pluie mêlée de neige fondue.",
-            "Matinée à Bus-lès-Artois et Hédauville.",
-            "Après-midi, resté au bureau près du",
-            "poêle à traduire circulaires du G.H.Q.",
+            "Sam. 25                 Nov. /16 —",
+            "Auj'd'hui, + encore que hier, pluie averse.",
+            "Terrains détrempés, vraies houillières. Routes &",
+            "rues, ornières profondes où l'on enfonce j'à",
+            "1/2 jambe. C'est désespérant.",
+            "Durant de longues heures, langui bureau,",
+            "assis caisse bidons de pétrole ou au pied du",
+            "lit du clerk. Lis ou rumine. Triste vie.",
+            "Matinée, + de 25 obus, tombés s/ Acheux,",
+            "du côté sucrerie et Rte Roye. Plusrs tués et blessés.",
+            "Séjour ds ma chambre, impossible, à",
+            "cause froid et surtout bruits énervants de la rue.",
+            "Dim. 26",
+            "Toute la nuit et matinée entière,",
+            "pluie abondante. Habits ruissellent d'eau.",
+            "Rues & routes lavées : 1/2 des chaussées,",
+            "côtés d., profondes couches de boue.",
+            "Après-midi, pluie cesse peu à peu",
+            "et fin journée, sans ondée.",
+            "Lt Walsh & son interprète, M. Deloney, venus",
+            "à Acheux, thé ds notre cabane. Les ai",
+            "raccompagnés à Hérissart. Ainsi pu causer",
+            "longt en fr. Nuit très belle,",
+            "(magnift étoilée)",
         ],
         "critique": (
-            "\\textbf{l.~12 traduire circulaires du G.H.Q. :} Mention précise du travail de traduction écrite "
-            "effectué au bureau lors des après-midi pluvieux : les arrêtés préfectoraux français et les ordres "
-            "du \\textit{General Headquarters} concernant la circulation et les réquisitions."
+            "\\textbf{l.~6--8 langui bureau, assis caisse bidons de pétrole... Lis ou rumine. Triste vie :} Autoportrait "
+            "mélancolique de l'intellectuel exilé dans la précarité matérielle d'un bureau de campagne britannique. "
+            "\\textbf{l.~22--23 Ainsi pu causer longt en fr. :} Souligne l'isolement linguistique quotidien d'Hippolyte "
+            "Combes au milieu d'officiers et de soldats exclusivement anglophones."
         ),
         "historique": (
-            "\\textbf{l.~6--9 Dégel et pluie fine glaciale / neige fondue :} Le mois de décembre 1916 dans la "
-            "Somme fut marqué par une alternance incessante de gelées nocturnes et de dégels pluvieux diurnes, "
-            "provoquant de nombreux cas de « pied de tranchée » (\\textit{trench foot}) parmi les troupes en ligne."
+            "\\textbf{l.~9--10 + de 25 obus, tombés s/ Acheux, du côté sucrerie :} La râperie et sucrerie d'Acheux, située "
+            "près de la voie ferrée et utilisée comme dépôt logistique allié, était particulièrement visée par les pièces "
+            "allemandes à longue portée."
+        ),
+    },
+    104: {
+        "title": "Thé au château de Martinsart chez les Bertin et brouillard fantomatique sur la Somme",
+        "date": "28 – 30 novembre 1916",
+        "lieu": "Acheux, Martinsart, Raincheval, Puchevillers, Rubempré, Septenville, Pierregot, Hérissart (Somme)",
+        "lines": [
+            "28 Ma.                                          Novbre 1916",
+            "Tjrs même temps : brouillard & pluie.",
+            "Routes, état lamentable. Matin, rien à faire.",
+            "Après-midi, course en auto à Martinsart.",
+            "Château, reçu aimablt par M. & Mme Bertin,",
+            "et pris thé av. eux — Gros canons, tt",
+            "proche, en action.",
+            "Traversé régions plates, terrains défoncés.",
+            "Convois de ttes sortes.",
+            "Au retour, nuit noire, éclairs bleuâtres",
+            "à l'horizon — canonnade.",
+            "29 Me. Matin, très épais brouillard.",
+            "Après-midi, longue course en auto : Raincheval,",
+            "Puchevillers, Rubempré et Septenville & Pierregot.",
+            "Brouillard se lève, de + en + dense et enseveli",
+            "paysage. Arbres, fantomatiques au 1/2 des champs.",
+            "Moulins à (vent)",
+            "[ — Washing : 70 c — ]",
+            "30 J. — Matinée, à Acheux. Temps couvert",
+            "& brouillard.",
+            "Après-midi, course en auto : Septenville",
+            "aller. Au retour, arrêt à Hérissart. Y pris thé.",
+            "Rentré Acheux vers 7h s.",
+            "Soir, dîné 1ère fois au nouveau mess",
+            "19 c, chambre du Lt Curtis.",
+        ],
+        "critique": (
+            "\\textbf{l.~15--17 Brouillard se lève, de + en + dense et enseveli paysage. Arbres, fantomatiques au 1/2 des "
+            "champs. Moulins à (vent) :} Vision poétique d'une grande intensité plastique ; le mot \\textit{vent} est ajouté "
+            "entre parenthèses en fin de ligne. C'est la première apparition du motif des vieux moulins à vent picards qui "
+            "obsédera le carnet jusqu'en avril 1917."
+        ),
+        "historique": (
+            "\\textbf{l.~4--7 Martinsart. Château, reçu aimablt par M. \\& Mme Bertin... Gros canons, tt proche :} Situé "
+            "à 3 km au nord d'Albert et à 2 km à peine des tranchées de Thiepval et d'Ovillers, le château de Martinsart "
+            "était entouré de batteries d'artillerie lourde britannique ; ses propriétaires finirent par être évacués vers "
+            "Franvillers en décembre 1916 (voir Scan \\#117)."
+        ),
+    },
+    105: {
+        "title": "Tournée à Franvillers et Buire-sur-l'Ancre, arrivée imprévue du très jeune capitaine Williams",
+        "date": "1er – 2 décembre 1916",
+        "lieu": "Acheux, Franvillers, Buire-sur-l'Ancre, Ribemont, Heilly, Toutencourt (Somme)",
+        "lines": [
+            "1er Ven.                                        Décembre 1916",
+            "Matinée perdue à ne rien faire : office & billet.",
+            "Après early lunch, partis en auto. Venus",
+            "à Franvillers, puis à Buire s/ Ancre pour",
+            "affaires à traiter.",
+            "Plaisir à revoir région de Ribemont – Heilly.",
+            "Au retour, arrêté à Toutencourt & monté",
+            "bureau mission frse, Ve armée, Cap. Bresson.",
+            "Trouvé message à Acheux — présenté au",
+            "bureau M.F., XIIIe corps et pris en charge.",
+            "Perspective réintégration prochaine ds",
+            "régiment d'origine ! —",
+            "[ — A Curtis, pour ma part de",
+            "  dépenses du mess, à Acheux : 70 f",
+            "  (novembre) | Tin of black",
+            "  (Nugget) boot polish : 25 c ]",
+            "2 Samedi.",
+            "Nuit, gelé très fortt. Temps sec & froid.",
+            "Pas de bise.",
+            "Tout le jour, resté à Acheux.",
+            "Vers 4h après-midi, Cap. Williams, arrivé tout",
+            "jeune, mince. Il vient remplacer Lt Curtis. Étonnement profond.",
+            "Curtis, à Martinsart. A son retour, tant",
+            "surpris : visibt découragé — que faire ?",
+            "Soir, venu au bureau mission &",
+            "vu Cap. H.",
+        ],
+        "critique": (
+            "\\textbf{l.~15--16 Tin of black (Nugget) boot polish : 25 c :} Achat d'une boîte de cirage anglais de marque "
+            "\\textit{Nugget}. \\textbf{l.~21--24 Cap. Williams, arrivé tout jeune, mince. Il vient remplacer Lt Curtis. "
+            "Étonnement profond :} Entrée en scène dramatique, le samedi 2 décembre 1916 à 16 heures, du jeune capitaine "
+            "Williams, qui vient relever le lieutenant Curtis à Acheux."
+        ),
+        "historique": (
+            "\\textbf{l.~6 Plaisir à revoir région de Ribemont – Heilly :} Rappel de son séjour de l'automne 1915 et du "
+            "printemps 1916 dans la vallée de l'Ancre (Ribemont, Heilly, Morlancourt) lorsqu'il servait déjà auprès de "
+            "la 18\\textsuperscript{e} Division britannique."
+        ),
+    },
+    106: {
+        "title": "Longue randonnée jusqu'à Corbie, Villers-Bretonneux et Marcelcave dans la brume glaciale",
+        "date": "3 – 4 décembre 1916",
+        "lieu": "Acheux, Septenville, Hérissart, Corbie, Villers-Bretonneux, Marcelcave, Warfusée-Abancourt, Arquèves, Louvencourt (Somme)",
+        "lines": [
+            "3 Dim. —                                        Décbre 1916",
+            "Nuit très froide. Gelé 1 peu moins que nuit",
+            "précédente.",
+            "Journée bien remplie & fatigante. Partis vers",
+            "8h 1/2 m. et rentrés seulement à 6h 1/2 s.",
+            "Longues courses en auto, matin & soir :",
+            "Septenville et Hérissart. Déjeuné ch. Lieutt Walsh.",
+            "Après lunch, venus j'à Marcelcave. Passé",
+            "à Corbie et Villers-Bretonneux.",
+            "Retour par Warfusée-Abancourt.",
+            "Tt jour, brume glaciale enveloppé choses.",
+            "Moulins squelettiques au 1/2 des champs...",
+            "Heures mornes en auto : pu ruminer &",
+            "observer à loisir...",
+            "[ — A Hérissart, 2 boîtes : 30 c",
+            "  Au bureau mission XIIIe corps, Acheux,",
+            "  touché solde : 78 f 75 c (prochaine, le 17) ]",
+            "4 L. Matinée, dégelé rapidt et",
+            "routes redevenues boueuses.",
+            "Tout le matin, ds la grange de Mme Guerle,",
+            "soleil brillé 1 peu —",
+            "Après-midi, courses en auto à",
+            "ferme de Belle-Église (Arquèves) et à Louvencourt.",
+            "Rentré pour le thé et dès lors liberté.",
+            "Lt Walsh & son interprète, invités à dîner.",
+            "Capt. Williams, charmant et de tout sympathique.",
+        ],
+        "critique": (
+            "\\textbf{l.~12 Moulins squelettiques au 1/2 des champs... :} Reprise saisissante de l'image esquissée le "
+            "29 novembre (Scan \\#104). \\textbf{l.~26 Capt. Williams, charmant et de tout sympathique :} Jugement initial "
+            "très favorable lors du premier dîner avec le capitaine Williams, qui va rapidement s'inverser dans les jours suivants."
+        ),
+        "historique": (
+            "\\textbf{l.~8--10 Marcelcave / Corbie et Villers-Bretonneux / Warfusée-Abancourt :} Excursion exceptionnelle "
+            "au sud de la Somme (sur la route d'Amiens à Péronne, à la charnière entre l'armée britannique et la "
+            "VI\\textsuperscript{e} Armée française). \\textbf{l.~17 touché solde : 78 f 75 c (prochaine, le 17) :} "
+            "Au XIII\\textsuperscript{e} Corps, la solde des interprètes est versée par quinzaine (5 fr. 25 par jour "
+            "pour 15 jours = 78 fr. 75)."
         ),
     },
     107: {
-        "title": "Courses à Belle-Église et rumeurs de départ du lieutenant Curtis",
-        "date": "6 – 8 décembre 1916",
-        "lieu": "Acheux, Belle-Église, Arquèves, Toutencourt (Somme)",
+        "title": "Course jusqu'aux ruines de Bayencourt et Coigneux, départ de Curtis et confidences de Williams",
+        "date": "5 – 6 décembre 1916",
+        "lieu": "Acheux, Authie, Bayencourt, Coigneux, Louvencourt, Raincheval (Somme / Pas-de-Calais)",
         "lines": [
-            "6 Mercredi —                                    Décembre 1916",
-            "Temps couvert et très humide.",
-            "Matinée, course à Arquèves et à la",
-            "ferme de Belle-Église (M. Houthouan).",
-            "Acheté gros lot de paille et fourrage.",
-            "7 Jeudi. — Brouillard toute la journée.",
-            "Matinée à Toutencourt et Hérissart.",
-            "Appris avec grand regret que mon",
-            "excellent Lt Curtis va bientôt quitter",
-            "notre Cie pour une autre affectation.",
-            "8 Vendredi (Immaculée Conception). —",
-            "Pluie froide. Matinée au bureau.",
-            "Après-midi, écrit à Millau et Toulouse.",
-            "[ A Acheux : Mess (semaine) : 14 f. ]",
+            "5 Mardi.                                        Décbre 1916",
+            "Matinée, liberté complète.",
+            "Après-midi, course à Authie, puis à",
+            "Bayencourt, près d'Hébuterne, à 3 kilomètres",
+            "de Gommecourt (Boches). Dépassé le village. Champs",
+            "dévastés. Obus non éclatés... Village de Coigneux,",
+            "lg de toits squelettiques, + de tuiles, à la",
+            "suite de bombardement.",
+            "Brume épaisse et, par moments, pluie",
+            "fine. Après dîner, adieux avec Lieutt",
+            "Curtis qui doit repartir, demain matin, pour",
+            "rejoindre la 152 Coy A.S.C.",
+            "6 Merc. Levé 6h m. — Lt Curtis, parti vers",
+            "7h 1/2 m. — & sans laisser de regret — A brainless",
+            "ass. Matin, course à Louvencourt, Raincheval",
+            "etc.",
+            "Nouvel off., Cap. Williams, 20 ans ! Après",
+            "repas soir, s'est 1 peu raconté : avant",
+            "la guerre, était office boy à 50 £ a year.",
         ],
         "critique": (
-            "\\textbf{l.~8--10 mon excellent Lt Curtis :} L'adjectif possessif et mélioratif souligne l'attachement "
-            "personnel d'Hippolyte Combes pour cet officier britannique courtois et francophile, par contraste "
-            "avec le jeune capitaine Williams qui lui succédera dix jours plus tard."
+            "\\textbf{l.~13--15 Lt Curtis, parti vers 7h 1/2 m. — \\& sans laisser de regret — A brainless ass :} Épitaphe "
+            "féroce en anglais (« un âne sans cervelle »), qui montre combien l'universitaire français de 40 ans jugeait "
+            "sévèrement la médiocrité intellectuelle de certains jeunes officiers britanniques. \\textbf{l.~17--19 Cap. "
+            "Williams, 20 ans !... avant la guerre, était office boy à 50 £ a year :} Observation sociologique pénétrante : "
+            "un modeste employé de bureau gagnant 50 livres par an (1 250 francs) avant 1914 se retrouve promu capitaine "
+            "à vingt ans par le jeu des pertes et de l'expansion de la \\textit{New Army}."
         ),
         "historique": (
-            "\\textbf{l.~4 ferme de Belle-Église (M. Houthouan) :} Grande exploitation agricole située sur le "
-            "territoire d'Arquèves (canton d'Acheux), que l'auteur visitera de nouveau le 21 mars 1917 "
-            "(voir Scan \\#171 : « Belle Église Farm, M. Houthouan »)."
+            "\\textbf{l.~4--8 Bayencourt, près d'Hébuterne, à 3 kilomètres de Gommecourt (Boches)... Village de Coigneux :} "
+            "Point le plus avancé atteint par Hippolyte Combes au nord du secteur : Bayencourt et Coigneux jouxtent les "
+            "tranchées de première ligne d'Hébuterne face au redoutable saillant allemand de Gommecourt."
         ),
     },
     108: {
-        "title": "Tempête de décembre et concert au Y.M.C.A. d'Acheux",
-        "date": "9 – 11 décembre 1916",
-        "lieu": "Acheux, Senlis-le-Sec, Warloy-Baillon (Somme)",
+        "title": "Les enfants de la fermière belge de Belle-Église et le village désert d'Englebelmer",
+        "date": "7 – 8 décembre 1916",
+        "lieu": "Acheux, Arquèves (Belle-Église), Hédauville, Englebelmer, Saint-Léger-lès-Authie (Somme)",
         "lines": [
-            "9 Samedi —                                      Décembre 1916",
-            "Vent violent et averses glacées.",
-            "Matinée, course en auto à Senlis-le-Sec",
-            "et Warloy-Baillon. Routes défoncées",
-            "par les tracteurs d'artillerie lourde.",
-            "10 Dimanche. — Temps un peu plus calme.",
-            "Messe à 10h. Après-midi, promenade",
-            "jusqu'à Forceville. Le soir à 6h,",
-            "assisté à un concert très gai donné",
-            "par les soldats anglais à la hutte",
-            "du Y.M.C.A. d'Acheux.",
-            "11 Lundi. — Pluie et neige fondue.",
-            "Matinée à Louvencourt ; après-midi office.",
+            "7 Jeudi —       — Décbre 1916 —",
+            "Matin & après-midi, en",
+            "auto. — Matin, à Belle-Église, Arquèves,",
+            "où dû attendre lgts retour du Cap. W.,",
+            "qui allé j'à Raincheval. Amusé par les",
+            "enfants de la fermière belge, Mme Houthouan.",
+            "Après-midi, venus à Englebelmer, par",
+            "Hédauville. Resté près d'1 h. ds ce village",
+            "à peu près désert : plus d'habitants. Rien",
+            "que des Anglais, qui restent ds leurs cantonnements.",
+            "Attendu lgts en auto, devant ferme où le",
+            "Town Major et le Daily Mail. A peu de",
+            "distance, canons anglais ne cessaient point",
+            "de tonner : après coup, vibrations métalliques",
+            "répercutées à travers l'espace — comme gémissement.",
+            "Dîné seul : off. allé à Hérissart. Rentré",
+            "tôt ds ma chambre. — Rue silencieuse.",
+            "Canonnade, intermittente.",
+            "Brume épaisse s'étend de + en +.",
+            "8 Ve. Tjrs même temps. Ciel caché par",
+            "brouillard. Bruine intermittente. Routes, état",
+            "affreux.",
+            "Matinée, course à St-Léger-lès-Authie,",
+            "sous la pluie.",
+            "Après-midi, ferme de Belle-Église, puis",
+            "Arquèves : on a commencé à battre paille.",
         ],
         "critique": (
-            "\\textbf{l.~10--11 hutte du Y.M.C.A. :} Calque de l'anglais \\textit{Y.M.C.A. Hut} (baraque "
-            "Adrian ou Nissen gérée par la \\textit{Young Men's Christian Association}), principal foyer de "
-            "détente, de lecture et de spectacles musicaux des cantonnements britanniques."
+            "\\textbf{l.~13--15 canons anglais ne cessaient point de tonner : après coup, vibrations métalliques répercutées "
+            "à travers l'espace — comme gémissement :} Notation acoustique d'une grande justesse littéraire, décrivant "
+            "le sifflement vibratoire des obus de gros calibre fendant l'air brumeux au-dessus d'Englebelmer."
         ),
         "historique": (
-            "\\textbf{l.~4--5 tracteurs d'artillerie lourde :} Il s'agit des tracteurs à chenilles Holt "
-            "(\\textit{Caterpillar tractors}) utilisés par la \\textit{Royal Garrison Artillery} pour déplacer "
-            "les obusiers de 8 et 9,2 pouces sur les routes crayeuses de l'arrière-front."
+            "\\textbf{l.~5--6 la fermière belge, Mme Houthouan :} De nombreux agriculteurs flamands réfugiés de Belgique "
+            "en 1914 avaient repris l'exploitation de grandes fermes picardes manquant de bras à l'arrière du front "
+            "britannique, comme ici à la ferme de Belle-Église (Arquèves)."
         ),
     },
     109: {
-        "title": "Offre de paix allemande du 12 décembre et scepticisme au mess",
-        "date": "12 – 14 décembre 1916",
-        "lieu": "Acheux, Puchevillers, Rubempré (Somme)",
+        "title": "Randonnée pluvieuse jusqu'à Saulty et Barly, exaspération contre Williams et crise de dysenterie",
+        "date": "9 – 11 décembre 1916",
+        "lieu": "Acheux, Belle-Église, Authie, Orville, Saulty, Barly (Somme / Pas-de-Calais)",
         "lines": [
-            "12 Mardi —                                      Décembre 1916",
-            "Ciel très bas, chutes de neige fondue.",
-            "Matinée, course à Puchevillers et",
-            "Rubempré. Boue épaisse jusqu'aux",
-            "moyeux de notre auto.",
-            "13 Mercredi. — Les journaux annoncent",
-            "une note de l'Allemagne proposant d'ouvrir",
-            "des négociations de paix ! Grande",
-            "discussion au mess : personne ici ne",
-            "croit au sérieux de cette manœuvre boche.",
-            "14 Jeudi. — Temps gris et froid.",
-            "Matinée à Varennes et Hédauville.",
-            "Après-midi, liberté ; écrit à Gueïte.",
+            "9 Samedi                                        Décbre 1916",
+            "Tout le jour, pluie, et",
+            "parfois averse.",
+            "Partis en auto, vers 9h m. Venus à Belle-Église.",
+            "Déjeuné à Authie, au mess de no 3 Coy 31st Divon",
+            "av. Lt Croughton.",
+            "Après déjeuner, venus à Orville, puis",
+            "continué route j'à Saulty – Barly —",
+            "Rentrés nuit noire. Temps affreux.",
+            "Très fatigué et tout mouillé. Mangé de",
+            "suite et revu chambre. Entt insupportable",
+            "ce gosse de Williams... —",
+            "11 L. — Hier & auj'd'hui, inoccupé, mais",
+            "resté office matin & soir.",
+            "Tjrs temps affreux. Pluie & boue.",
+            "Nuit de dimanche à lundi, mauvaise",
+            "digestion. Dysenterie durant tte journée",
+            "de lundi. N'ai pris aucun aliment. —",
+            "Tt le jour, langui ds ma chambre",
+            "ou au bureau...",
+            "[ Tin of Wren's Dubbin : 30 c ]",
         ],
         "critique": (
-            "\\textbf{l.~6--10 note de l'Allemagne / manœuvre boche :} L'écho immédiat de la grande politique "
-            "internationale dans le carnet montre avec quelle attention les officiers du mess et l'interprète "
-            "scrutent la presse quotidienne (\\textit{Daily Mail}, \\textit{Le Matin}, \\textit{Le Temps}) dans "
-            "l'espoir d'une fin du conflit, tout en partageant le refus allié d'une « paix allemande »."
+            "\\textbf{l.~11--12 Entt insupportable ce gosse de Williams... :} Six jours à peine après son arrivée, le jeune "
+            "capitaine de vingt ans (« ce gosse de Williams ») exaspère l'interprète par ses exigences et son manque d'égards. "
+            "\\textbf{l.~21 Tin of Wren's Dubbin : 30 c :} Boîte de graisse imperméabilisante anglaise de marque "
+            "\\textit{Wren's Dubbin} pour assouplir et protéger de la boue les brodequins de cuir."
         ),
         "historique": (
-            "\\textbf{l.~6--8 note de l'Allemagne proposant d'ouvrir des négociations de paix :} Le 12 décembre "
-            "1916, au lendemain de la prise de Bucarest par les Empires centraux, le chancelier Bethmann-Hollweg "
-            "transmet par les puissances neutres une note proposant des pourparlers de paix sans préciser ses "
-            "conditions. Briand et Lloyd George la rejettent formellement à la fin du mois."
+            "\\textbf{l.~5 mess de no 3 Coy 31st Divon av. Lt Croughton :} La 31\\textsuperscript{e} Division britannique "
+            "(\\textit{31st Division}, XIII\\textsuperscript{e} Corps), durement éprouvée à Serre le 1\\textsuperscript{er} "
+            "juillet 1916, tenait alors le secteur de l'Ancre et cantonnait son Train divisionnaire à Authie."
         ),
     },
     110: {
-        "title": "Adieux du lieutenant Curtis et arrivée du jeune capitaine Williams",
-        "date": "15 – 17 décembre 1916",
-        "lieu": "Acheux, Doullens, Authie (Somme)",
+        "title": "Paysage de neige aux fenêtres d'Acheux et réunion des réfugiés d'Englebelmer à Toutencourt",
+        "date": "12 – 14 décembre 1916",
+        "lieu": "Acheux, Senlis-le-Sec, Toutencourt, Belle-Église, Puchevillers, Harponville (Somme)",
         "lines": [
-            "15 Vendredi —                                   Décembre 1916",
-            "Froid vif, gelée blanche le matin.",
-            "Matinée, allé à Doullens et Authie",
-            "avec Lt Curtis pour ses dernières",
-            "tournées dans le secteur.",
-            "16 Samedi. — Arrivée du remplaçant",
-            "du Lt Curtis : le Capt. Williams, tout",
-            "jeune homme de 20 ans à peine, ton",
-            "raide et assez hautain dès l'abord.",
-            "17 Dimanche. — Départ définitif du",
-            "Lt Curtis ce matin à 9h. Lui ai fait",
-            "mes adieux avec une vraie émotion.",
-            "Avec son successeur, la vie sera",
-            "certainement moins agréable !",
-            "[ A Doullens : Papeterie & savon : 2 f. 80 ]",
+            "12 Mardi                                        Décbre 1916",
+            "Mieux, très sensible. Nuit, levé 2 fois. Mais",
+            "constipation, durant journée.",
+            "Au réveil, trouvé rues, toits & arbres couverts",
+            "de neige. Resté lgts à ma fenêtre, s/ devant",
+            "& s/ derrière, à admirer paysage — —",
+            "Matinée, course à Senlis. Après-midi, liberté.",
+            "Me sens presque tt à fait guéri.",
+            "13 Me. Brouillard & pluie. Routes, lamentables.",
+            "Matin, à Toutencourt, mairie, meeting de",
+            "réfugiés d'Englebelmer, Major Levy...",
+            "Après-midi, à Belle-Église & Puchevillers, et",
+            "Harponville. Secoué auto. Routes, très mauvaises.",
+            "14 J. Journée entière de liberté. Resté",
+            "lgts ds ma chambre : écrit, lu, ou rangé mes",
+            "affaires.",
+            "Tt le jour, ciel brumeux et pluie fine.",
+            "Température, pas froide. Pu écrire ds ma",
+            "chambre, sans feu.",
+            "Nuit, extt noire. Routes, lamentables sales.",
+            "[ — Essuie-mains : 90 c — ]",
         ],
         "critique": (
-            "\\textbf{l.~6--14 Capt. Williams / Lt Curtis :} Moment charnière dans la dramaturgie interne du "
-            "carnet : le départ du bienveillant lieutenant Curtis le 17 décembre 1916 et son remplacement par "
-            "le capitaine Williams (« tout jeune homme de 20 ans à peine ») ouvrent près de trois mois de "
-            "tensions quotidiennes et d'humiliations sourdes pour l'interprète français de 40 ans, jusqu'au "
-            "départ de Williams le 10 mars 1917 (Scan \\#165)."
+            "\\textbf{l.~4--6 Resté lgts à ma fenêtre, s/ devant \\& s/ derrière, à admirer paysage :} La posture favorite "
+            "du diariste — posté en observateur silencieux derrière la vitre de sa chambre — transforme les rues d'Acheux "
+            "en tableau vivant."
         ),
         "historique": (
-            "\\textbf{l.~7--9 Capt. Williams, tout jeune homme de 20 ans :} L'expansion rapide de la "
-            "\\textit{New Army} britannique en 1916 amena à la tête des compagnies de l'A.S.C. de très jeunes "
-            "officiers temporaires (\\textit{Temporary Captains}), parfois dépourvus du tact diplomatique "
-            "nécessaire envers des interprètes français deux fois plus âgés qu'eux et issus de l'université."
+            "\\textbf{l.~10--11 Toutencourt, mairie, meeting de réfugiés d'Englebelmer, Major Levy :} Les habitants "
+            "d'Englebelmer (village évacué en raison des bombardements, voir Scan \\#108) avaient été relogés à Toutencourt ; "
+            "le major Levy et son interprète les réunissent à la mairie pour régler les indemnités d'occupation et de "
+            "réquisition de leurs récoltes restées sur place."
         ),
     },
     111: {
-        "title": "Premières tournées tendues avec le capitaine Williams sous la neige",
-        "date": "18 décembre 1916",
-        "lieu": "Acheux, Toutencourt, Contay (Somme)",
+        "title": "Cahots sur les routes défoncées et portrait critique du jeune capitaine Williams",
+        "date": "15 – 18 décembre 1916",
+        "lieu": "Acheux, Belle-Église, Arquèves, Raincheval, Toutencourt, Ferme du Quesnoy (Somme)",
         "lines": [
-            "18 Lundi —                                      Décembre 1916",
-            "Nuit glaciale. Neige tombée au matin",
-            "en couche mince sur la boue durcie.",
-            "Matinée, première tournée en auto avec",
-            "le nouveau Capt. Williams à Toutencourt",
-            "et Contay pour lui présenter les maires",
-            "et les principaux fermiers fournisseurs.",
-            "Ne sait pas un mot de français et",
-            "s'impatiente de la lenteur des paysans",
-            "picards à conclure un marché !",
-            "Dû user de toute ma diplomatie pour",
-            "arrondir les angles.",
-            "Après-midi, bureau n° 104 jusqu'à 6h.",
+            "15 Vendredi —                                   Décbre 1916",
+            "Neigé 1 peu durant nuit. Mais pluie fine",
+            "tt fondu matinée et chaussées, recouvertes",
+            "couche de boue liquide.",
+            "Pas quitté village de toute la journée.",
+            "Resté lgts à l'office, devant brasero, ou ds ma",
+            "chambre et bcp lu, pour me distraire.",
+            "18 L. — Auj'd'hui, comme hier, courses",
+            "en auto à Belle-Église, Arquèves,",
+            "Raincheval, Toutencourt et ferme du",
+            "Quesnoy.",
+            "Sur les routes, très mauvais état, voiture",
+            "ressaute : on est cahoté, secoué, jeté",
+            "d'1 côté et d'autre. Fatigue extrême.",
+            "Tjrs même temps, ciel brumeux,",
+            "chaussées luisantes de boue liquide.",
+            "A c. endroits, on y patauge à pleine",
+            "cheville.",
+            "Jours se suivent, monotones &",
+            "ternes. Occupations uniformes. Société de mon",
+            "off. — 1 cap. de 20 ans, présomptueux & vain —",
+            "peu agréable.",
+            "[ — Cartes ples : 25 c ]",
         ],
         "critique": (
-            "\\textbf{l.~8--12 Ne sait pas un mot de français / diplomatie :} Ce portrait sur le vif éclaire "
-            "le rôle de médiateur culturel (\\textit{go-between}) de l'interprète militaire : loin de se borner "
-            "à traduire des mots, il doit amortir le choc entre la brusquerie militaire d'un jeune officier "
-            "britannique pressé et la méfiance traditionnelle des cultivateurs picards."
+            "\\textbf{l.~12--14 voiture ressaute : on est cahoté, secoué, jeté d'1 côté et d'autre :} Rythme ternaire "
+            "mimétique traduisant l'épreuve physique des tournées automobiles sur les chaussées défoncées par les convois "
+            "d'artillerie. \\textbf{l.~20--22 Société de mon off. — 1 cap. de 20 ans, présomptueux \\& vain — peu agréable :} "
+            "Portrait moral incisif du capitaine Williams."
         ),
         "historique": (
-            "\\textbf{l.~5--7 présenter les maires et les principaux fermiers :} Lors de chaque relève d'officier "
-            "d'approvisionnement, l'interprète français demeurait sur place comme la mémoire vivante du secteur, "
-            "garant de la continuité des contrats verbaux et des prix négociés avec les municipalités."
+            "\\textbf{l.~10--11 ferme du Quesnoy :} Grande ferme isolée sur le plateau entre Raincheval, Puchevillers "
+            "et Beauquesne."
         ),
     },
     112: {
-        "title": "L'incident du « Bloody French » et la crise de la veille de Noël",
+        "title": "Crise épistolaire avec Marguerite (« velléités de rupture ») et l'incident du « Bloody France ! »",
         "date": "22 – 24 décembre 1916",
-        "lieu": "Acheux, Raincheval, Rubempré (Somme)",
+        "lieu": "Acheux, Senlis-le-Sec, Rubempré, Le Quesnoy, Léalvillers, Saint-Léger, Orville, Authie, Toutencourt, Puchevillers, Louvencourt (Somme)",
         "lines": [
-            "22 Vendredi —                                   Décembre 1916",
-            "Temps sombre, pluie glacée et vent.",
-            "Matinée en course à Raincheval avec",
-            "Capt. W. Au retour, reçu au courrier",
-            "une lettre de Gueïte (du 19) tout à fait",
-            "étrange et froide : velléité de rupture ?!",
-            "Coup terrible qui m'a bouleversé.",
-            "23 Samedi. — Nuit blanche, moral au",
-            "plus bas. Écrit aussitôt une longue",
-            "lettre à Millau pour demander explication.",
-            "24 Dimanche (Veille de Noël). — Comble",
-            "d'énervement : ce matin, discussion vive",
-            "avec Capt. W. qui s'est permis de dire",
-            "devant moi « Bloody French » ! Relevé",
-            "le mot vertement. Quel triste Noël !",
+            "22 Ven.                                         Déc. 1916",
+            "Dégel rapide. Routes, très",
+            "mauvaises. Pluie fine. Matinée, à Senlis.",
+            "Après-midi, à Rubempré & Quesnoy —",
+            "Fait réparer lorgnon par horloger de",
+            "Léalvillers.",
+            "Soir, Cap. allé dîner à Beauquesne. Rentré",
+            "+ tôt billet.",
+            "[ — Lorgnon : 20 c. ]",
+            "Lettre de Mte, m'a bcp déplu. Très affecté.",
+            "Regrets pour le passé & appréhensions pour l'avenir.",
+            "24 D. — Tjrs même temps. Ciel couvert, averses",
+            "intermittentes et aussi très violentes rafales de vent.",
+            "Dehors tte la journée, en course. Matinée",
+            "à St-Léger & Orville & Authie. Après-midi",
+            "à Toutencourt, Puchevillers etc. — Toutencourt et",
+            "A Louvencourt, ch. Mme Cuisinier, gaffe",
+            "du Cap. W. : « Bloody France etc. ! »",
+            "Très affecté par ce propos & hésité à le reporter",
+            "à French Mission ! — —",
+            "Depuis 2 jours, déprimé et très triste, à",
+            "la suite lettre de Mte du 17 ct. — Velléités de",
+            "rupture — gdes appréhensions pour l'avenir.",
+            "[ — Authie : 2 œufs s/ plat : 70 c. — Cartes ples : 30 c ]",
         ],
         "critique": (
-            "\\textbf{Note codicologique :} Dans l'ordre des fichiers numérisés, le cliché \\#112 "
-            "(\\texttt{20251126\\_104930.jpg}, 22–24 décembre) précède immédiatement le cliché \\#113 "
-            "(\\texttt{20251126\\_104946.jpg}, 19–21 décembre) ; nous conservons la correspondance exacte "
-            "avec le fac-similé en regard tout en signalant cette inversion photographique recto/verso. "
-            "\\textbf{l.~5--6 velléité de rupture ?! :} Expression poignante qui constitue le nœud dramatique "
-            "intime de l'hiver 1916–1917, résolu seulement lors de la permission à Toulouse fin janvier 1917."
+            "\\textbf{Note codicologique :} Dans la campagne de numérisation, ce feuillet des 22–24 décembre 1916 (Scan \\#112, "
+            "\\texttt{20251126\\_105142.jpg}) a été photographié immédiatement avant celui des 19–20 décembre (Scan \\#113, "
+            "\\texttt{20251126\\_105155.jpg}). \\textbf{l.~10--11 et 21--23 Lettre de Mte du 17 ct. — Velléités de rupture :} "
+            "Aveu poignant de la crise sentimentale qui éclate à la veille de Noël 1916."
         ),
         "historique": (
-            "\\textbf{l.~13--14 « Bloody French » :} L'incident du 24 décembre 1916 entre le capitaine Williams "
-            "et Hippolyte Combes fait écho à l'incident de Morlancourt du 24 mars 1916 (conservé dans les "
-            "archives familiales, \\texttt{lettre de l'interprete combes pour un incident.pdf}) : jaloux de "
-            "sa dignité nationale et universitaire, Combes ne tolère aucun écart de langage envers la France."
+            "\\textbf{l.~17--20 A Louvencourt, ch. Mme Cuisinier, gaffe du Cap. W. : « Bloody France etc. ! » :} Cet incident "
+            "du 24 décembre 1916 chez la fermière Mme Cuisinier à Louvencourt blesse profondément le patriotisme d'Hippolyte "
+            "Combes, déjà auteur en mars 1916 d'un rapport officiel au sous-lieutenant Ferran contre un officier du "
+            "\\textit{6th Liverpool Regiment} à Morlancourt (voir Annexe I, Document 2)."
         ),
     },
     113: {
-        "title": "Courses d'avant Noël à Louvencourt et Hérissart",
-        "date": "19 – 21 décembre 1916",
-        "lieu": "Acheux, Louvencourt, Hérissart (Somme)",
+        "title": "Attente devant l'Army Purchase Board à Raincheval et grandes gelées d'avant Noël",
+        "date": "19 – 20 décembre 1916",
+        "lieu": "Acheux, Belle-Église, Raincheval, Le Quesnoy, Beauquesne (Somme)",
         "lines": [
-            "19 Mardi —                                      Décembre 1916",
-            "Gelée vive toute la journée. Ciel gris.",
-            "Matinée, course en auto avec Capt. W.",
-            "à Louvencourt et Vauchelles.",
-            "Après-midi, travail de bureau au n° 104.",
-            "20 Mercredi. — Froid humide et brume.",
-            "Matinée à Hérissart et Rubempré pour",
-            "vérifier meules de paille achetées",
-            "la semaine dernière par Lt Curtis.",
-            "21 Jeudi. — Jour le plus court de",
-            "l'année ! Dès 4h s., il fait nuit noire.",
-            "Matinée à Bus et Bertrancourt.",
-            "Envoyé cartes de Noël à Millau, Toulouse,",
-            "Neuilly et en Angleterre (Beatrice).",
-            "[ Timbres & cartes de Noël : 3 f. 50 ]",
+            "19 Ma. —                Décbre 1916 —",
+            "Matinée, course à Belle-Église,",
+            "et Raincheval, où dû attendre lgts devant",
+            "Army P. Board. Village très désert. Froid ds auto.",
+            "Après-midi, resté à Acheux, office",
+            "& mon billet. Neige tombée à gros flocons.",
+            "Comme d'habitude, passé soirée au",
+            "rez-de-ch., avec mes propriétaires.",
+            "[ — Bureau mission, XIIIe c., touché",
+            "  solde etc. : 84 fr.",
+            "  Cartes Christmas : 70 c. ]",
+            "20 Merc. Nuit, gelé très fortt. Sol durci.",
+            "Froid sec et très pénétrant.",
+            "Après-midi, en auto. Soleil pâle. Air",
+            "glacial. Assis in front, mieux placé et",
+            "moins secoué que à l'arrière —",
+            "Venu à Raincheval, Quesnoy & Beauquesne.",
+            "Rentré nuit tombée : au ciel, étoiles très brillantes.",
+            "Gelé à pierre fendre.",
+            "Mais préfère mille fois ce gd froid au temps",
+            "brouillard et pluie des semaines précédentes.",
         ],
         "critique": (
-            "\\textbf{l.~1--15 19 Mardi -- 21 Jeudi :} Ce folio (numérisé en \\#113 juste après le \\#112) "
-            "montre le calme relatif qui précédait l'orage psychologique du 22–24 décembre : le 21 décembre, "
-            "jour du solstice d'hiver, Hippolyte expédie encore sereinement ses cartes de Noël à Millau et "
-            "en Angleterre avant de recevoir le lendemain la lettre alarmante de Marguerite."
+            "\\textbf{l.~4 Army P. Board :} \\textit{Army Purchase Board} (commission d'achat de l'armée britannique chargée "
+            "d'homologuer les contrats de fourrage et de battage). \\textbf{l.~15 Assis in front :} Sur le siège avant de "
+            "l'automobile, à côté du chauffeur britannique (\\textit{driver})."
         ),
         "historique": (
-            "\\textbf{l.~10--11 Jour le plus court de l'année :} Au solstice d'hiver en Picardie (latitude "
-            "$50^\\circ$ N), le crépuscule tombe dès 15 h 50, réduisant à quelques heures la fenêtre durant "
-            "laquelle les automobiles du Train pouvaient circuler sans phares à proximité du front."
+            "\\textbf{l.~9--10 Bureau mission, XIIIe c., touché solde etc. : 84 fr. :} Règlement de la quinzaine incluant "
+            "l'indemnité de monture et de vivres au bureau de la Mission française du XIII\\textsuperscript{e} Corps à Acheux."
         ),
     },
     114: {
-        "title": "Noël 1916 sous la pluie à Acheux : solitude morale et dîner de mess",
-        "date": "25 – 26 décembre 1916",
-        "lieu": "Acheux, Forceville (Somme)",
+        "title": "Noël 1916 à Acheux : insomnie, perplexité morale et concert au Y.M.C.A.",
+        "date": "25 décembre 1916",
+        "lieu": "Acheux-en-Amiénois (Somme)",
         "lines": [
-            "25 Lundi — Noël 1916 —                          Décembre 1916",
-            "Triste réveil de Noël sous la pluie et",
-            "le vent. Assisté à la messe de 10h à",
-            "l'église d'Acheux. Pensé sans cesse à",
-            "Millau et à cette cruelle énigme...",
-            "A midi et le soir, Christmas dinner",
-            "traditionnel au mess : turkey & plum-",
-            "pudding flambant, mais cœur absent",
-            "et atmosphère glaciale avec Capt. W.",
-            "26 Mardi (Boxing Day). — Pas de service",
-            "pour les Anglais. Promenade solitaire",
-            "l'après-midi vers Forceville.",
-            "Écrit de nouveau à Gueïte.",
+            "25 Lundi.                                       Décbre 1916",
+            "Nuit mauvaise. Insomnie.",
+            "Tjrs sous l'impression propos fâcheux de",
+            "mon cap. à Louvencourt, hier après-midi.",
+            "Dois-je faire 1 rapport à Mission frse ?",
+            "Hanté aussi par lettre de Margte du",
+            "17 ct. Pires pensées traversent mon esprit. Ne",
+            "puis oublier. Cruelle perplexité. —",
+            "Temps affreux. Averses. Vent souffle en",
+            "tempête.",
+            "Journée de repos. Chambre...",
+            "Peu à peu, rasséréné & pris dessus.",
+            "Après-midi, ds la Y.M.C.A. hut, concert : chansons",
+            "comiques & saynètes — —",
+            "[ — Washing : 80 c. ]",
+            "Fin journée, retrouvé compl. calme d'esprit",
+            "& parfait équilibre.",
+            "Vers 9h s., quitté Cap. Williams & regagné",
+            "chambre. Entré qq minutes Y.M.C.A. hut",
+            "où concert recommencé.",
+            "Ciel merveillt étoilé.",
+            "Temps doux, pas froid —",
+            "Gd silence, nuit. Nul écho de canonnade.",
         ],
         "critique": (
-            "\\textbf{l.~6--9 Christmas dinner / turkey \\& plum-pudding / cœur absent :} Contraste saisissant "
-            "entre le rituel gastronomique britannique (noté en anglais : \\textit{Christmas dinner}, "
-            "\\textit{turkey}, \\textit{plum-pudding}, \\textit{Boxing Day}) et la détresse intime du diariste, "
-            "isolé moralement entre la froideur du capitaine Williams et le silence inquiétant de Millau."
+            "\\textbf{l.~2--8 Dois-je faire 1 rapport à Mission frse ? / Hanté aussi par lettre de Margte du 17 ct. :} "
+            "Examen de conscience dramatique du jour de Noël 1916, où le dilemme professionnel (faut-il dénoncer le "
+            "capitaine Williams à la Mission française ?) se conjugue au tourment sentimental (« Cruelle perplexité ») "
+            "avant l'apaisement stoïque du soir (« retrouvé compl. calme d'esprit \\& parfait équilibre »)."
         ),
         "historique": (
-            "\\textbf{l.~10 Boxing Day :} Le 26 décembre, jour férié impérial britannique, voyait la suspension "
-            "de toutes les corvées non essentielles à l'arrière de la B.E.F. et la distribution des colis "
-            "de Noël aux troupes."
+            "\\textbf{l.~13--14 et 19--20 Y.M.C.A. hut, concert :} Pour le jour de Noël 1916, le foyer de la \\textit{Young "
+            "Men's Christian Association} d'Acheux organise deux représentations de music-hall militaire (\\textit{concert "
+            "party}) tandis qu'une trêve de fait réduit l'artillerie au silence (« Nul écho de canonnade »)."
         ),
     },
     115: {
-        "title": "Brouillard de fin décembre et attente anxieuse du courrier",
-        "date": "27 – 28 décembre 1916",
-        "lieu": "Acheux, Warloy-Baillon, Senlis-le-Sec (Somme)",
+        "title": "Location d'une machine à battre chez Mme Capron à Beauquesne et course rapide à Doullens",
+        "date": "26 – 27 décembre 1916",
+        "lieu": "Acheux, Raincheval, Arquèves, Beauquesne, Le Quesnoy, Doullens (Somme)",
         "lines": [
-            "27 Mercredi —                                   Décembre 1916",
-            "Brouillard intense et boue glacée.",
-            "Matinée, reprise des courses en auto",
-            "avec Capt. W. à Warloy-Baillon et",
-            "Senlis-le-Sec. Rapports strictement",
-            "officiels et polis entre nous.",
-            "Toujours rien au courrier de Millau !",
-            "28 Jeudi. — Pluie froide toute la",
-            "journée. Matinée à Varennes et",
-            "Léalvillers. Après-midi, travail au",
-            "bureau de la Mission avec Cap. Huguet :",
-            "demandé à partir en permission fin",
-            "janvier pour aller à Toulouse et Millau.",
+            "26 Mardi                                        Décbre 1916.",
+            "Temps de pluie & brouillard.",
+            "Matin, à Raincheval & Arquèves, vu",
+            "M. Guibet...",
+            "Après-midi, à Beauquesne, Quesnoy etc.",
+            "A Beauquesne, charmante Mme Capron,",
+            "à propos location machine à battre.",
+            "Rentrés à 6h. Fatigue extrême — Couché tôt.",
+            "27 Merc.",
+            "Enfin, très belle journée. Revu soleil.",
+            "Matinée, course à Beauquesne. Puis",
+            "continué j'à Doullens, mais resté",
+            "20 m. à peine ds cette ville (hélas !).",
+            "[ A Doullens : 1 ramette papier à l. : 1 f 25 c",
+            "  2 paquets gdes enveloppes : 45 + 45 c",
+            "  Cartes ples : 55 c ]",
         ],
         "critique": (
-            "\\textbf{l.~5--6 Rapports strictement officiels et polis :} Après l'éclat verbal du 24 décembre, "
-            "unmodus vivendi de froideur courtoise s'établit entre le capitaine Williams et son interprète. "
-            "\\textbf{l.~12--13 demandé à partir en permission fin janvier :} On voit ici que la demande de "
-            "la seconde permission (qui aura lieu du 26 janvier au 7 février 1917) est directement motivée par "
-            "l'urgence d'aller s'expliquer de vive voix avec Marguerite à Toulouse."
+            "\\textbf{l.~12--13 resté 20 m. à peine ds cette ville (hélas !) :} La parenthèse exclamative traduit la "
+            "frustration de l'interprète tributaire de la hâte du capitaine Williams, qui ne lui laisse que le temps "
+            "d'acheter en hâte du papier à lettres et des enveloppes."
         ),
         "historique": (
-            "\\textbf{l.~11--13 Cap. Huguet / permission :} Le régime des permissions des interprètes militaires "
-            "détachés auprès de l'armée britannique prévoyait une permission de détente de 7 à 10 jours (hors "
-            "délais de route) tous les quatre mois, accordée conjointement par le chef de la Mission française "
-            "et le commandant d'unité britannique."
+            "\\textbf{l.~6--7 Mme Capron, à propos location machine à battre :} Afin d'accélérer la livraison de paille "
+            "et de grain sans attendre les entrepreneurs civils mobilisés, le service des fourrages britannique louait "
+            "directement des batteuses mécaniques (comme celle de Mme Capron à Beauquesne, dont le contrat sera signé "
+            "le 5 janvier 1917, Scan \\#120) et les faisait fonctionner par des corvées de soldats."
         ),
     },
     116: {
-        "title": "Lettre rassurante de Millau et tournée à Puchevillers",
-        "date": "29 – 30 décembre 1916",
-        "lieu": "Acheux, Puchevillers, Toutencourt (Somme)",
+        "title": "Concert des « 13th Corps Archie Singers » et tournée dans la voiture Sunbeam du major Levy",
+        "date": "28 – 29 décembre 1916",
+        "lieu": "Acheux, Léalvillers, Raincheval, Le Quesnoy, Louvencourt (Somme)",
         "lines": [
-            "29 Vendredi —                                   Décembre 1916",
-            "Temps doux et venteux, averses.",
-            "Matinée en auto à Puchevillers et",
-            "Toutencourt. Au retour à midi,",
-            "trouvé enfin une lettre plus affectueuse",
-            "de Gueïte ! Grand soulagement, quoique",
-            "tout ne soit pas encore dissipé ; il",
-            "faudra absolument nous voir en janvier.",
-            "30 Samedi. — Matinée au bureau de la",
-            "Mission : touché solde de Décembre.",
-            "Après-midi, réglé comptes des fermiers",
-            "d'Acheux et de Forceville.",
-            "[ Solde Décembre : 77 f. 50 — Mess : 29 f. ]",
+            "28 Jeudi                                        Décembre 1916",
+            "Très fortt gelé nuit.",
+            "Toute nuit & matinée, très violente canonnade",
+            "du côté d'Hébuterne.",
+            "Au matin, dégelé rapidt et bientôt",
+            "routes, redevenues affreust boueuses.",
+            "Après breakfast, venu à pied à Léalvillers,",
+            "retour à pied. Promenade hygiénique.",
+            "Tout jour, liberté : car in workshop.",
+            "A 6h s., concert au Y.M.C.A. hut. 13th",
+            "Corps Archie Singers. Chansons comiques",
+            "& pantomimes.",
+            "[ — Brown Boot Polish : 20 c",
+            "  — Boîte recommandée à Imbert, opticien",
+            "    Paris : 30 c",
+            "  Concert Y.M.C.A. : 30 c ]",
+            "29 Ve. Temps doux. Ciel couvert.",
+            "Pluie fine —",
+            "Matinée, avec Sunbeam Car, du Major",
+            "Levy, course à Raincheval, Quesnoy &",
+            "Louvencourt.",
+            "Rentré à 3h s.",
+            "Liberté entière fin après-midi.",
+            "Tempérre printanière. On pt travailler",
+            "chambre sans feu, et fenêtres ouvertes.",
         ],
         "critique": (
-            "\\textbf{l.~5--8 lettre plus affectueuse de Gueïte ! Grand soulagement :} Dénouement provisoire "
-            "de la crise épistolaire ouverte le 22 décembre ; la ponctuation exclamative reflète le retour "
-            "immédiat de la sérénité morale."
+            "\\textbf{l.~9 car in workshop :} L'automobile de l'unité étant à l'atelier de réparation mécanique "
+            "(\\textit{workshop}), l'interprète bénéficie d'une journée entière de congé. \\textbf{l.~14--15 Boîte "
+            "recommandée à Imbert, opticien Paris : 30 c :} Envoi postal de son pince-nez cassé à son opticien parisien "
+            "du boulevard Saint-Michel (qu'il réglera par mandat le 10 janvier et visitera le 27 janvier 1917, Scans "
+            "\\#122 et \\#131)."
         ),
         "historique": (
-            "\\textbf{l.~13 Solde Décembre : 77 f. 50 :} Le mois de décembre comptant 31 jours (à 2 fr. 50 par "
-            "jour), la solde s'élève exactement à 77 fr. 50 contre 75 fr. pour les mois de 30 jours."
+            "\\textbf{l.~10--12 13th Corps Archie Singers :} Troupe théâtrale et musicale formée par les artilleurs "
+            "de la défense contre avions (surnommée \\textit{Archie} dans l'argot militaire britannique) du "
+            "XIII\\textsuperscript{e} Corps."
         ),
     },
     117: {
-        "title": "Saint-Sylvestre 1916 : bilan d'une année de guerre dans la Somme",
-        "date": "31 décembre 1916",
-        "lieu": "Acheux (Somme)",
+        "title": "Nouvel éclat et excuses contrites du capitaine Williams à la Saint-Sylvestre",
+        "date": "30 – 31 décembre 1916",
+        "lieu": "Acheux, Franvillers, Senlis-le-Sec, Belle-Église, Raincheval, Beauquesne (Somme)",
         "lines": [
-            "31 Dimanche (St Sylvestre) —                    Décembre 1916",
-            "Dernier jour de cette longue et",
-            "douloureuse année 1916 !",
-            "Matinée, temps gris et doux. Assisté",
-            "à la messe de 10h à Acheux.",
-            "Après-midi, promenade solitaire sur",
-            "la route d'Authie, plongé dans mes",
-            "souvenirs de l'année écoulée : les",
-            "Flandres, l'Artois, la Somme, et les",
-            "douces journées d'octobre à Millau...",
-            "Souhaité chez les Carluvant que 1917",
-            "nous apporte enfin la Paix et le bonheur.",
-            "[ En caisse au 31 Décembre 1916 : 242 f. 30 ]",
+            "30 Sam.                                         Décbre /16",
+            "Toute la nuit & à l'aube, pluie torrentielle.",
+            "Température d'1 douceur exceptionnelle. Air tiède.",
+            "Matinée, course en auto (Sunbeam) à Franvillers,",
+            "où revu trio de vieux, débauchés inégaux",
+            "extt sympathiques, réfugiés de Martinsart.",
+            "A Senlis, devant l'ordonnance, mot",
+            "très regrettable du Cap. Williams. A l'arrivée à Acheux",
+            "explication très calme, mais très ferme. M'a fait des",
+            "excuses et m'a supplié de ne pas le quitter etc.",
+            "Après-midi, entt libre —",
+            "[ — Clous aux semelles de mes bottes : 1 f 60 ]",
+            "31 Dim. Tempérre +tôt chaude, et pluie",
+            "fine, intermittente.",
+            "Matinée, ds ma chambre —",
+            "Aussitôt après lunch, partis en auto : Belle-",
+            "Église, Raincheval & Beauquesne.",
+            "Légère brume estompe paysages lointains.",
+            "Mon jeune capne, attitude gênée et",
+            "presque humiliée, contrite. Parle à peine (paraît",
+            "et n'ose plus me regarder en face. (déprimé)",
+            "Soir, Y.M.C.A. hut, assisté 1/2 séance —",
+            "[ — Dépenses mess : 45 f + 10 f + 1 f + 22 fr. —",
+            "  = 88 fr. — ]",
         ],
         "critique": (
-            "\\textbf{l.~1--13 Dernier jour de cette longue et douloureuse année 1916 ! :} Page de bilan "
-            "annuel rédigée d'une écriture ample et posée. En récapitulant les étapes géographiques de son "
-            "carnet (« les Flandres, l'Artois, la Somme, et les douces journées d'octobre à Millau »), "
-            "Hippolyte Combes manifeste une conscience claire de l'unité narrative de son \\textit{Livre-Journal}."
+            "\\textbf{l.~7--10 et 19--21 explication très calme, mais très ferme. M'a fait des excuses et m'a supplié de "
+            "ne pas le quitter... attitude gênée et presque humiliée, contrite :} Scène psychologique remarquable où "
+            "l'ascendant moral et l'âge d'Hippolyte Combes (40 ans) retournent complètement le rapport d'autorité face "
+            "au jeune capitaine britannique de 20 ans, incapable de s'acquitter de sa mission sans son interprète."
         ),
         "historique": (
-            "\\textbf{l.~11--12 que 1917 nous apporte enfin la Paix :} Vœu universellement partagé dans les "
-            "cantonnements alliés au soir du 31 décembre 1916, après les hécatombes de Verdun et de la Somme."
+            "\\textbf{l.~23--24 Dépenses mess : 45 f + 10 f + 1 f + 22 fr. = 88 fr. :} Arrêté mensuel de sa quote-part "
+            "des frais de table du mess pour l'ensemble du mois de décembre 1916."
         ),
     },
     118: {
@@ -1431,362 +1701,469 @@ SCANS_075_130 = {
         ),
     },
     119: {
-        "title": "Excursion à Amiens : la cathédrale protégée par les sacs de terre",
+        "title": "Course à Amiens : l'Hôtel de la Paix, le capitaine Trefcon et la cathédrale",
         "date": "3 janvier 1917",
-        "lieu": "Acheux, Amiens (Somme)",
+        "lieu": "Acheux, Belle-Église, Naours-Wargnies, Amiens (Somme)",
         "lines": [
-            "3 Mercredi —                                    Janvier 1917",
-            "Journée très agréable : profité d'un",
-            "lorry descendant au dépôt pour aller",
-            "passer la journée à Amiens !",
-            "Rues très animées, remplies d'officiers",
-            "anglais et français. Visité longuement",
-            "la magnifique Cathédrale, dont les",
-            "portails sculptés et les stalles sont",
-            "entièrement recouverts de pyramides",
-            "de sacs à terre contre les obus.",
-            "Déjeuné Place René-Goblet, fait",
-            "emplettes rue des Trois-Cailloux.",
-            "Rentré à Acheux vers 6h s. enchanté.",
-            "[ A Amiens : Déjeuner & achats : 12 f. 40 ]",
+            "3 Mercredi              — Janvier /17 —",
+            "Course à Amiens",
+            "Ciel couvert, pluie menacé tout le jour —",
+            "Temps +tôt tiède & doux —",
+            "Départ 9h m. 2 off., venus avec nous.",
+            "Arrêt à Belle-Église et + long à Naours-Wargnies,",
+            "ch. M. Dubois Paul, maire — av. qui eu",
+            "conversation fort intéressante.",
+            "Vers 11h, à Amiens.",
+            "Remisé, garé notre auto ds la cour de",
+            "l'Hôtel de la Paix, rue — et dès lors,",
+            "pour moi, liberté complète j'à 3 h 1/2 s.",
+            "Rencontré Cap. Trefcon rue Sire Firmin Leroux",
+            "(La Semeuse : instruments agricoles etc.)",
+            "Après déjeuner, visite à la cathle, y",
+            "passé plus d'1 heure... Admiré à",
+            "loisir choses & détails déjà vus. —",
+            "Promené çà et là, le long rues centre.",
+            "Repartis vers 4h s.",
+            "[ — Amiens : 12 ctes ples : 40 c + 10 c. Ctes ples : 20 c",
+            "  3 boutons khaki : 40 c. — Déjeuner : 1 f 95 c —",
+            "  5 gravures ocre cathédrale : 2 f 50 —",
+            "  1 bonnet police drap bleu : 3 f 75 c ]",
         ],
         "critique": (
-            "\\textbf{l.~2--13 journée à Amiens ! :} L'escapade urbaine agit toujours sur Hippolyte Combes "
-            "(qui confiait dans sa lettre du 16 juin 1916 avoir « la campagne en horreur » et n'aimer que "
-            "les villes et leurs monuments) comme un puissant dérivatif au spleen des villages boueux."
+            "\\textbf{l.~10--11 ds la cour de l'Hôtel de la Paix, rue [\\dots] :} L'auteur laisse un léger blanc après le "
+            "mot \\textit{rue}, ayant oublié le nom exact de la rue (l'Hôtel de la Paix se trouvait rue de la République à "
+            "Amiens). \\textbf{l.~22--23 5 gravures ocre cathédrale : 2 f 50 / 1 bonnet police drap bleu : 3 f 75 c :} "
+            "Ce relevé montre à la fois le goût artistique d'Hippolyte Combes et le soin qu'il apporte à sa tenue d'interprète."
         ),
         "historique": (
-            "\\textbf{l.~7--12 Cathédrale... sacs à terre / rue des Trois-Cailloux :} Dès 1915, les portails "
-            "gothiques (le « Beau Dieu d'Amiens ») et les célèbres stalles en bois du XVI\\textsuperscript{e} "
-            "siècle de la cathédrale Notre-Dame d'Amiens avaient été blindés de milliers de sacs de sable. "
-            "La rue des Trois-Cailloux et la place René-Goblet étaient le cœur commerçant où se pressaient "
-            "les permissionnaires d'un jour de toute la Somme."
+            "\\textbf{l.~13--14 rue Sire Firmin Leroux (La Semeuse : instruments agricoles etc.) :} Située en plein centre "
+            "d'Amiens près de la rue des Trois-Cailloux, la maison \\textit{La Semeuse} fournissait des pièces de rechange "
+            "pour les batteuses et machines agricoles réquisitionnées par l'armée britannique."
         ),
     },
     120: {
-        "title": "Courses à Louvencourt et retour du gel en Picardie",
+        "title": "Concert des « XIII Corps Archie » et contrat de battage chez Mme Capron à Beauquesne",
         "date": "4 – 5 janvier 1917",
-        "lieu": "Acheux, Louvencourt, Raincheval (Somme)",
+        "lieu": "Acheux, Septenville, Beauquesne (Somme)",
         "lines": [
-            "4 Jeudi —                                       Janvier 1917",
-            "Temps pluvieux le matin, éclaircie",
-            "le soir avec vent du Nord très froid.",
-            "Matinée, course en auto à Louvencourt",
-            "et Vauchelles avec Capt. W.",
-            "Après-midi, classé bordereaux au bureau.",
-            "5 Vendredi. — Gelée vive au réveil.",
-            "Les ornières de boue ont durci d'un",
-            "coup, rendant la marche très pénible.",
-            "Matinée à Raincheval et Arquèves.",
-            "Après-midi, reçu lettre de Toulouse",
-            "et carte de ma cousine de Neuilly.",
+            "4 Jeudi                 — Janvier /17",
+            "Tout le jour, repos.",
+            "Matinée, fortes ondées. Après-midi, ciel s'est",
+            "éclairci et tout ensoleillé.",
+            "Nuit, mervx clair de lune (entière) et",
+            "qq étoiles —",
+            "Resté ds chambre, matin & surtout après-",
+            "midi, à ranger affaires, ou regarder spectacle",
+            "rue, très animé.",
+            "Soir, concert des XIII Corps Archie, à la",
+            "Y.M.C.A. hut. 2e partie programme, nos excellents",
+            "chanteurs — duos très g.",
+            "[ — Étui net : 1 f",
+            "  — Concert Y.M.C.A. : 30 c ]",
+            "5 Ven. — Tout le jour, en course.",
+            "Septenville, ferme Moulard. —",
+            "Beauquesne : déjeuné av. Lt Walsh, Lt Morris",
+            "& son interprète au Café Continental.",
+            "Puis passé contrat battage batteuse av.",
+            "Mme Capron.",
+            "Rentré, nuit tombante. Mervx clair",
+            "de lune. Routes boueuses comme ruisselantes",
+            "de lumière —",
+            "[ Bureau Mission fse XIIIe Corps Acheux : 78 f 75 ]",
         ],
         "critique": (
-            "\\textbf{l.~12 ma cousine de Neuilly :} Il s'agit de sa cousine Faure, domiciliée au 16 rue "
-            "d'Armenonville à Neuilly-sur-Seine, à qui Hippolyte rendra visite lors de chacune de ses "
-            "permissions parisiennes (voir Scans \\#051, \\#132, \\#145)."
+            "\\textbf{l.~21--23 Mervx clair de lune. Routes boueuses comme ruisselantes de lumière :} Transfiguration "
+            "poétique de la boue picarde sous l'effet de la pleine lune d'hiver."
         ),
         "historique": (
-            "\\textbf{l.~7--9 Gelée vive / ornières de boue ont durci :} Début du refroidissement polaire "
-            "de janvier–février 1917, qui restera dans les annales météorologiques comme l'un des hivers "
-            "les plus rudes du XX\\textsuperscript{e} siècle sur le front occidental."
+            "\\textbf{l.~17--20 Beauquesne : déjeuné av. Lt Walsh, Lt Morris \\& son interprète au Café Continental. Puis "
+            "passé contrat battage batteuse av. Mme Capron :} Concrétisation de la négociation engagée le 26 décembre "
+            "(Scan \\#115) pour la location de la batteuse de Mme Capron à Beauquesne."
         ),
     },
     121: {
-        "title": "Épiphanie à Acheux et tournée vers Doullens",
-        "date": "6 – 7 janvier 1917",
-        "lieu": "Acheux, Authie, Doullens (Somme)",
+        "title": "Déplacements de troupes autour d'Acheux et visite à la 150e Compagnie à Hédauville",
+        "date": "6 – 9 janvier 1917",
+        "lieu": "Acheux, Louvencourt, Bertrancourt, Authie, Arquèves, Raincheval, Saint-Léger, Hédauville (Somme)",
         "lines": [
-            "6 Samedi (Épiphanie) —                          Janvier 1917",
-            "Froid sec, beau soleil d'hiver.",
-            "Matinée en auto à Authie et Doullens.",
-            "Acheté quelques provisions et journaux",
-            "à Doullens. Retour à 1h.",
-            "Après-midi, liberté. Promenade sur",
-            "la route de Léalvillers.",
-            "7 Dimanche. — Temps redevenu couvert,",
-            "bise glaciale. Messe à 10h.",
-            "Après-midi, resté dans ma chambre",
-            "devant un bon feu à lire et à écrire",
-            "à Gueïte pour fixer la date de mon",
-            "arrivée à Toulouse fin janvier.",
-            "[ A Acheux : Mess : 14 f. 50 — Bois : 3 f. ]",
+            "6 Sam.                                          Janv. 1917",
+            "Très belle journée, ensoleillée",
+            "mais 1 peu froide.",
+            "Matinée, course en auto : Louvencourt,",
+            "Bertrancourt et Authie.",
+            "Après-midi, liberté entière —",
+            "Soir, au concert Y.M.C.A. Programme",
+            "des 2 fois précédentes. Chants du soir. —",
+            "Matinée, routes encombrées : déplacement",
+            "de troupes : convois d'artillerie, de A.S.C. etc.",
+            "[ — Washing : 70 c. — Concert Y.M.C.A. : 30 c ]",
+            "9 Ma. —",
+            "Hier & avant-hier, courses en auto",
+            "matin & soir, Arquèves, Raincheval, St-Léger.",
+            "Aujourd'hui, pareillement. Matinée,",
+            "vu M. Guibet, à Raincheval...",
+            "Après-midi, à Hédauville, route de",
+            "Varennes, où retrouvé 150 Coy, 18th Divon",
+            "ds 1 terrain fangeux, à 500 m. de la route.",
+            "Morris, était out riding —",
+            "Temps + froid, neigé 1 peu, puis pluie",
+            "fine — Toute la nuit & durant journée",
+            "très violente canonnade.",
+            "[ — Avis de réception pour Imbert : 10 c — ]",
         ],
         "critique": (
-            "\\textbf{l.~11--13 fixer la date de mon arrivée à Toulouse :} Contrairement à la première "
-            "permission de septembre–octobre 1916 passée entièrement à Millau, ce second congé est organisé "
-            "autour d'un rendez-vous initial de six jours à Toulouse avec Marguerite avant de monter ensemble "
-            "à Millau."
+            "\\textbf{l.~12--13 9 Ma. — Hier \\& avant-hier :} Le dimanche 7 et le lundi 8 janvier 1917 sont résumés "
+            "rétrospectivement en tête de l'entrée du mardi 9 janvier. \\textbf{l.~20 Morris, était out riding :} Était "
+            "sorti à cheval (emprunt direct à l'anglais parlé des cantonnements)."
         ),
         "historique": (
-            "\\textbf{l.~3--5 Authie et Doullens :} Doullens demeurait le centre de ravitaillement civil "
-            "où les officiers et interprètes d'Acheux trouvaient librairies, pharmacies et commerces de bouche "
-            "épargnés par la guerre."
+            "\\textbf{l.~17--19 Hédauville, route de Varennes, où retrouvé 150 Coy, 18th Divon :} La 150\\textsuperscript{e} "
+            "Compagnie de l'A.S.C. faisait partie, aux côtés de la 152\\textsuperscript{e} Compagnie d'Hippolyte Combes, "
+            "du Train divisionnaire de la 18\\textsuperscript{e} Division britannique (\\textit{18th Divisional Train})."
         ),
     },
     122: {
-        "title": "Pluie glacée et neige fondue sur le plateau de Toutencourt",
-        "date": "8 – 9 janvier 1917",
-        "lieu": "Acheux, Toutencourt, Hérissart (Somme)",
+        "title": "Canonnade sur Miraumont, retrouvailles avec Morris et tempête de grésil sur les plateaux",
+        "date": "10 – 12 janvier 1917",
+        "lieu": "Acheux, Saint-Léger, Belle-Église, Authie, Arquèves, Louvencourt, Raincheval, Beauquesne, Septenville, Rubempré (Somme)",
         "lines": [
-            "8 Lundi —                                       Janvier 1917",
-            "Temps affreux : pluie glacée mêlée",
-            "de grésil et de neige toute la matinée.",
-            "Course en auto à Toutencourt et",
-            "Hérissart avec Capt. W. Souffert",
-            "beaucoup de l'humidité glaciale.",
-            "9 Mardi. — Ciel bas et sombre.",
-            "Matinée à Senlis-le-Sec et Bouzincourt.",
-            "Vu passer de longues colonnes de",
-            "troupes anglaises exténuées descendant",
-            "des tranchées de Beaumont-Hamel.",
-            "Après-midi, travail au bureau n° 104.",
+            "10 Me.                  — Janvier 1917 —",
+            "Toute la nuit & matinée,",
+            "très violente canonnade s/ ligne de Miraumont.",
+            "Course en auto à St-Léger & Belle-Église,",
+            "où rencontré, enfin, mon vieux Morris !",
+            "Après-midi, liberté entière. Visite de",
+            "Morris à mon billet. Causé de tt 1 peu.",
+            "Temps froid, neige & pluie glaciale.",
+            "[ — Mandat-poste à Imbert, opticien,",
+            "  Paris, pour réparation pince-nez et pour",
+            "  1 neuf d'après ordonnance : 19 fr. ]",
+            "11 J. — Neige & pluie fine, presque tt le jour.",
+            "A whole day off —",
+            "Mis à jour correspondance en arriéré.",
+            "Soir, dîné seul. Rentré tôt chambre.",
+            "12 Ve. Durant nuit, neigé encore.",
+            "Toute matinée, averses et giboulées :",
+            "grésil & neige. Surpris par tempête au",
+            "retour d'Authie & sur la route d'Arquèves,",
+            "plateaux de Louvencourt.",
+            "Courses en auto : Louvencourt, St-Léger,",
+            "Raincheval, Beauquesne, où déjeuné au",
+            "Café Continental.",
+            "Après-midi, à Septenville & Rubempré.",
+            "Rentré vers 6h, nuit noire.",
         ],
         "critique": (
-            "\\textbf{l.~9--11 troupes anglaises exténuées :} Sensible à la souffrance physique des fantassins, "
-            "Hippolyte Combes note régulièrement le contraste entre son propre confort relatif au cantonnement "
-            "et le calvaire des hommes relevés des tranchées de l'Ancre."
+            "\\textbf{l.~13 A whole day off :} Une journée entière de congé (en anglais idiomatique dans le texte). "
+            "\\textbf{l.~9--11 Mandat-poste à Imbert, opticien, Paris, pour réparation pince-nez et pour 1 neuf d'après "
+            "ordonnance : 19 fr. :} Suite de l'envoi recommandé du 28 décembre (Scan \\#116)."
         ),
         "historique": (
-            "\\textbf{l.~10--11 tranchées de Beaumont-Hamel :} En janvier 1917, le secteur nouvellement conquis "
-            "de Beaumont-Hamel et de Beaucourt-sur-l'Ancre ne disposait encore d'aucun boyau sec ; les bataillons "
-            "britanniques y tenait des trous d'obus inondés sous un climat glacial."
+            "\\textbf{l.~2--3 très violente canonnade s/ ligne de Miraumont :} Le 10 et le 11 janvier 1917, la "
+            "7\\textsuperscript{e} Division britannique (V\\textsuperscript{e} Corps) attaque et enlève la crête de "
+            "Beaumont-Hamel dominant le vallon de Miraumont et de Grandcourt, capturant plus de 200 prisonniers allemands."
         ),
     },
     123: {
-        "title": "Longue course jusqu'à Auxi-le-Château dans la vallée de l'Authie",
-        "date": "10 – 11 janvier 1917",
-        "lieu": "Acheux, Doullens, Auxi-le-Château (Somme / Pas-de-Calais)",
+        "title": "Fixation de la permission au 26 janvier, arbres ouatés de neige et course à Doullens",
+        "date": "13 – 15 janvier 1917",
+        "lieu": "Acheux, Beaucourt, Montigny, Louvencourt, Saint-Léger, Beauquesne, Raincheval, Doullens (Somme)",
         "lines": [
-            "10 Mercredi —                                   Janvier 1917",
-            "Temps froid mais sans pluie.",
-            "Matinée et début d'après-midi, longue",
-            "course en auto par Doullens et Bernaville",
-            "jusqu'à Auxi-le-Château pour prospecter",
-            "de nouvelles ressources en fourrage.",
-            "Jolie petite ville dans un vallon,",
-            "loin du bruit du canon : impression",
-            "de retrouver la vraie vie civile !",
-            "11 Jeudi. — Neige fine par intermittence.",
-            "Matinée à Varennes et Forceville.",
-            "Après-midi, liberté dans ma chambre.",
-            "[ A Auxi-le-Château : Lunch : 3 f. 25 ]",
+            "13 Sam.                                         Janv. /17",
+            "Tout le jour, pluie fine et (neige fondue)",
+            "brouillard froid —",
+            "Après-midi, course en auto à Beaucourt &",
+            "Montigny.",
+            "Matin, au bureau mission Ve corps : vu",
+            "Cap. Huguet ; mon départ fixé défint au 26 ct —",
+            "14 D. Neige tombé à gros flocons durant",
+            "matinée entière. Toits & arbres recouverts couche",
+            "blanche. Branches entt jolies avec ce léger",
+            "duvet — ainsi ouatées.",
+            "Après-midi, courses à Louvencourt et",
+            "à St-Léger.",
+            "15 L. Pluie fine, non intermittente.",
+            "Course à Doullens. Paysages, asz pittoresques",
+            "au-delà de Beauquesne. Champs couverts de",
+            "neige. Masses sombres des arbres. Arbres &",
+            "maisons de village se détachent davantage",
+            "au 1/2 du blanc (Raincheval). Brume monte.",
+            "2 h. de liberté à Doullens : visité ville,",
+            "arrêt église etc.",
+            "[ — 2 douz. ctes ples : 1 f. — Lunch : 1 f 90",
+            "  — 1 plaque chocolat : 60 c — ]",
         ],
         "critique": (
-            "\\textbf{l.~8--9 loin du bruit du canon : impression de retrouver la vraie vie civile ! :} "
-            "Notation révélatrice de l'épuisement sensoriel causé par le grondement continu de l'artillerie "
-            "à Acheux ; l'éloignement de 30 km vers l'ouest procure une sensation physique de délivrance."
+            "\\textbf{l.~10--11 Branches entt jolies avec ce léger duvet — ainsi ouatées / l.~16--19 Masses sombres des "
+            "arbres... se détachent davantage au 1/2 du blanc :} Notations de peintre et de photographe amateur (Hippolyte "
+            "Combes pratiquait la photographie depuis son séjour en Angleterre), attentif aux valeurs de contraste entre "
+            "le noir des fûts mouillés et la blancheur de la neige."
         ),
         "historique": (
-            "\\textbf{l.~5--6 Auxi-le-Château / nouvelles ressources en fourrage :} L'épuisement progressif des "
-            "stocks de paille et d'avoine dans les cantons proches du front (Acheux, Albert) oblige en janvier "
-            "1917 le \\textit{Purchase Board} britannique à étendre ses achats jusqu'aux confins du Ponthieu "
-            "et de l'Artois (Auxi-le-Château, Bernaville)."
+            "\\textbf{l.~6--7 bureau mission Ve corps : vu Cap. Huguet ; mon départ fixé défint au 26 ct :} En janvier 1917, "
+            "le V\\textsuperscript{e} Corps britannique relève le XIII\\textsuperscript{e} Corps à Acheux ; le capitaine "
+            "Huguet demeure à la tête du bureau de la Mission française du corps d'armée et arrête au vendredi 26 janvier "
+            "le départ en permission d'Hippolyte Combes."
         ),
     },
     124: {
-        "title": "Chutes de neige abondantes et installation de l'hiver",
-        "date": "12 – 13 janvier 1917",
-        "lieu": "Acheux, Rubempré, Pierregot (Somme)",
+        "title": "Étendues blanches d'Hérissart et visite à Auxi-le-Château chez le collectionneur M. Renard",
+        "date": "16 – 17 janvier 1917",
+        "lieu": "Acheux, Bouzincourt, Senlis-le-Sec, Rubempré, Hérissart, Toutencourt, Doullens, Auxi-le-Château (Somme / Pas-de-Calais)",
         "lines": [
-            "12 Vendredi —                                   Janvier 1917",
-            "Vent glacial du Nord-Est. Dès midi,",
-            "la neige se met à tomber à gros",
-            "flocons serrés.",
-            "Matinée en auto à Rubempré et",
-            "Pierregot. Retour très difficile",
-            "sur les routes déjà toutes blanches.",
-            "13 Samedi. — Au réveil, épaisse",
-            "couche de neige (15 cm) recouvre",
-            "toute la campagne et les toits.",
-            "Silence étrange et ouaté dans les",
-            "rues du village. Resté au bureau",
-            "toute la journée.",
+            "16 Mardi                                        Janvier 1917",
+            "Nuit, gelé très fort.",
+            "Durant journée, ciel nuageux. Temps froid, mais sec.",
+            "Après-midi, course en auto (Sunbeam) à",
+            "Bouzincourt, Senlis & Rubempré. Ds ce dernier village",
+            "allé de ferme en ferme, pour trouver paille.",
+            "Au retour, dévalé en vitesse coteaux pente",
+            "Hérissart à Toutencourt. Coteaux et champs",
+            "encore couverts neige : gdes & mornes étendues",
+            "blanches.",
+            "[ — Ctes ples : 30 c. ]",
+            "17 Merc. Nuit neigé abondt. Au réveil",
+            "trouvé toits, jardins, rues, tout blancs.",
+            "Tout le jour, en course. Venu j'à",
+            "Auxi-le-Château, ch. M. Renard. Jusqu'à Doullens",
+            "plaines mornes. Au-delà, région pittoresque,",
+            "vergers, petits coteaux boisés.",
+            "M. Renard ns a invités à déjeuner.",
+            "Ns a montré ses objets d'art précieux :",
+            "notamt et surtout un coffret en paille",
+            "acheté en 1858 au bagne de Toulon.",
+            "Matinée entière, neige fine, tourmente",
+            "oblique, sous les rafales.",
+            "Soir, température s'est radoucie considt",
+            "et dégel commencé —",
         ],
         "critique": (
-            "\\textbf{l.~11--12 Silence étrange et ouaté :} Notation auditive très fine : la neige fraîche "
-            "amortit le roulement incessant des convois militaires sur les pavés d'Acheux, créant un silence "
-            "inhabituel qui frappe l'oreille du diariste."
+            "\\textbf{l.~19--21 Ns a montré ses objets d'art précieux : notamt et surtout un coffret en paille acheté en "
+            "1858 au bagne de Toulon :} Détail curieux et authentique qui ravit l'amateur d'art et rappelle à Hippolyte "
+            "Combes son propre passage en garnison à Toulon au printemps 1915."
         ),
         "historique": (
-            "\\textbf{l.~8--10 épaisse couche de neige (15 cm) :} À partir du 12–13 janvier 1917, un anticyclone "
-            "sibérien s'installe durablement sur le nord de la France, maintenant un manteau neigeux continu "
-            "sur la Somme pendant plus de quatre semaines."
+            "\\textbf{l.~14--18 Auxi-le-Château, ch. M. Renard :} Situé dans la vallée de l'Authie (Pas-de-Calais) à 15 km "
+            "au nord-ouest de Doullens, Auxi-le-Château marque la limite occidentale des tournées d'achat de fourrage "
+            "du secteur."
         ),
     },
     125: {
-        "title": "Dimanche de neige à Acheux et canonnade sur Serre",
-        "date": "14 – 15 janvier 1917",
-        "lieu": "Acheux, Bus-lès-Artois (Somme)",
+        "title": "Plaines blanches confondues avec le ciel mat et neige cristallisée à Puchevillers",
+        "date": "18 – 19 janvier 1917",
+        "lieu": "Acheux, Belle-Église, Raincheval, Puchevillers (Somme)",
         "lines": [
-            "14 Dimanche —                                   Janvier 1917",
-            "Grand froid sec, paysage tout blanc.",
-            "Messe à 10h à l'église d'Acheux où",
-            "l'on gèle littéralement.",
-            "Après-midi, courte promenade sur la",
-            "neige durcie vers Léalvillers.",
-            "15 Lundi. — Gelée de plus en plus",
-            "forte. Matinée, course en auto à",
-            "Bus-lès-Artois : nos roues patinent",
-            "sans cesse sur le verglas.",
-            "Fort bombardement anglais ce matin",
-            "du côté de Serre et Beaucourt.",
-            "[ A Acheux : Mess : 15 f. — Washing : 80 c. ]",
+            "18 Jeudi Matin (canonnade) —                    Janvier /17",
+            "Temps froid. Neige",
+            "restée s/ toits & champs.",
+            "Matin, course en auto à Belle-Église,",
+            "Raincheval & Puchevillers. Plaines blanches",
+            "se confondaient à l'horizon rapproché avec ciel",
+            "mat. Légère buée —",
+            "Après-midi, liberté entière.",
+            "19 Vendredi",
+            "Ciel mat & terne. Tempérre, pas froide.",
+            "Neige pas encore fondue. Toits, arbres et",
+            "champs tout blancs.",
+            "Après-midi, course à Puchevillers, par",
+            "Raincheval. Neige comme cristallisée, durcie",
+            "ds les champs. Buée grise s'élève à l'horizon.",
+            "Froid pénétrant. Il gèle déjà très fort.",
+            "[ — Matin, au bureau mission",
+            "  Ve corps, solde : 84 fr. — ]",
         ],
         "critique": (
-            "\\textbf{l.~3--4 où l'on gèle littéralement :} L'humour discret de la notation tempère l'inconfort "
-            "des offices religieux d'hiver dans les églises picardes privées de chauffage."
+            "\\textbf{l.~5--7 Plaines blanches se confondaient à l'horizon rapproché avec ciel mat / l.~14 Neige comme "
+            "cristallisée, durcie ds les champs :} Finesse d'observation météorologique annonçant le début de la grande "
+            "vague de gel sec qui va durer jusqu'à la mi-février 1917."
         ),
         "historique": (
-            "\\textbf{l.~11--12 Fort bombardement anglais... du côté de Serre et Beaucourt :} Profitant du sol "
-            "gelé qui permet enfin à l'infanterie d'avancer sans s'enliser, le V\\textsuperscript{e} Corps "
-            "britannique mène à partir de la mi-janvier 1917 une série d'opérations locales sur les crêtes "
-            "dominant la vallée de l'Ancre (Beaumont-Hamel, Beaucourt et Serre)."
+            "\\textbf{l.~17--18 bureau mission Ve corps, solde : 84 fr. :} Percevant sa solde avant son départ en "
+            "permission, Hippolyte Combes dispose désormais d'une encaisse supérieure à 300 francs pour son voyage "
+            "à Paris, Toulouse et Millau."
         ),
     },
     126: {
-        "title": "Signature du titre de permission et préparatifs de départ",
-        "date": "16 – 17 janvier 1917",
-        "lieu": "Acheux, Toutencourt (Somme)",
+        "title": "Grand gel sec, retour à pied de Louvencourt et préparatifs de permission",
+        "date": "20 – 23 janvier 1917",
+        "lieu": "Acheux, Louvencourt (Somme)",
         "lines": [
-            "16 Mardi —                                      Janvier 1917",
-            "Froid rigoureux (-8° ce matin).",
-            "L'eau a gelé dans le broc de ma",
-            "chambre pendant la nuit !",
-            "Matinée, allé à Toutencourt et",
-            "Hérissart. Après-midi au bureau",
-            "de la Mission française : mon titre",
-            "de permission pour le 26 janvier",
-            "est enfin signé par Cap. Huguet !",
-            "17 Mercredi. — Nouvelle chute de",
-            "neige. Écrit aussitôt à Gueïte et",
-            "à Valentine pour annoncer la bonne",
-            "nouvelle de mon arrivée le 28 !",
+            "20 Sam.                 — Janvier 1917",
+            "Repos tout le jour.",
+            "Chambre ou office : lu & écrit etc.",
+            "Neige ne fond pas. Champs & toits",
+            "encore tout blancs.",
+            "Froid sec. Gelé très fortement.",
+            "Sol resté durci. —",
+            "21 Dim. Nuit, gelé très fort. Froid sec.",
+            "Matinée, en auto j'à Louvencourt, où",
+            "vu Mme Cuisinier. Sur ma demande, retour",
+            "à pied. Sol durci. Route excellente. 2 kilog.",
+            "Champs tout blancs. Neige durcie ne",
+            "fond pas.",
+            "[ — Canteen : Wren's Dubbin : 3 tins : 30 c ]",
+            "Après-midi, liberté. Commencé préparatifs",
+            "départ.",
+            "23 Mardi | Hier & auj'd'hui, liberté entière.",
+            "Hier, Capne W., à Amiens — seul.",
+            "Tempérre très basse, nuit & matinée, gelé très",
+            "fort. Vitres, complèt mates de glace.",
+            "Neige ne fond pas. 1/2 jour, très beau",
+            "soleil. Neige étincelle sous ses rayons.",
         ],
         "critique": (
-            "\\textbf{l.~3--4 L'eau a gelé dans le broc :} Détail matériel concret qui reviendra dans plusieurs "
-            "entrées de janvier et février 1917 (vitres couvertes d'une épaisse couche de glace, encre et eau "
-            "de toilette gelées dans les chambres)."
+            "\\textbf{l.~11 2 kilog. :} Lapsus calami plaisant du manuscrit pour \\textit{2 kilom[ètres]} (la distance "
+            "séparant Louvencourt d'Acheux-en-Amiénois). \\textbf{l.~18 Hier, Capne W., à Amiens — seul :} Le tiret "
+            "suivi de l'adjectif \\textit{seul} souligne le plaisir d'être débarrassé toute une journée de la présence "
+            "du capitaine Williams."
         ),
         "historique": (
-            "\\textbf{l.~7--9 titre de permission pour le 26 janvier :} La procédure exigeait le visa préalable "
-            "du commandant de la Mission française, puis le contreseing de l'officier britannique commandant "
-            "l'unité (ici le capitaine Williams) et du \\textit{Railway Transport Officer} (R.T.O.) à la gare "
-            "d'embarquement."
+            "\\textbf{l.~19--22 Tempérre très basse... Vitres, complèt mates de glace :} À partir du 20 janvier 1917, "
+            "le thermomètre descend chaque nuit sous $-10^\\circ$ C en Picardie."
         ),
     },
     127: {
-        "title": "Tempête de neige sur le plateau d'Acheux",
-        "date": "18 janvier 1917",
-        "lieu": "Acheux, Raincheval, Arquèves (Somme)",
+        "title": "Conférence sur le Canada au Y.M.C.A., eau gelée dans la chambre et fin des préparatifs",
+        "date": "23 (soir) – 25 janvier 1917",
+        "lieu": "Acheux-en-Amiénois (Somme)",
         "lines": [
-            "18 Jeudi —                                      Janvier 1917",
-            "Nuit très froide. Toute la matinée,",
-            "tourmente de neige chassée par une",
-            "bise glaciale de l'Est.",
-            "Dû sortir quand même à 9h 1/2 avec",
-            "Capt. W. pour aller à Raincheval et",
-            "Arquèves : route presque effacée",
-            "par les congères, froid atroce en",
-            "auto découverte.",
-            "Rentré à midi à demi gelé. Passé",
-            "tout l'après-midi auprès du poêle",
-            "du bureau à me réchauffer.",
+            "23 Ma.                                          Janvier /17",
+            "Soir, Y.M.C.A. hut,",
+            "a very interesting lecture on Canada.",
+            "24 Mer. Nuit extt froide. Gelé très",
+            "fort. Vitres couvertes d'1 épaisse couche",
+            "de glace tte mate.",
+            "Au réveil, eau pot & seau gelée.",
+            "1/2 jour, soleil ardent.",
+            "Aujourd'hui encore, liberté complète.",
+            "Terminé ts préparatifs départ.",
+            "[ — Washing : 70 c ]",
+            "25 Jeudi — Gelé extr. + fort. Vitres",
+            "couvertes épaisse couche mate pointillée.",
+            "Milieu jour, très beau soleil, qui",
+            "fait étinceler neige durcie champs & cours.",
+            "Nuit & matinée, violent bombardemt.",
+            "Ts préparatifs terminés et arrangements",
+            "faits pour partir demain 3h s.",
+            "[ — Dépenses mess pour janvier = 79 f 10 ]",
         ],
         "critique": (
-            "\\textbf{l.~5 Dû sortir quand même :} Le participe passé elliptique en tête de phrase (« Dû sortir ») "
-            "est la formule syntaxique par laquelle Hippolyte Combes exprime systématiquement la contrainte "
-            "militaire subie sous les ordres du capitaine Williams."
+            "\\textbf{l.~3 a very interesting lecture on Canada :} Appréciation rédigée directement en anglais dans le "
+            "carnet. \\textbf{l.~7 Au réveil, eau pot \\& seau gelée :} Notation matérielle frappante de l'intensité "
+            "du gel à l'intérieur même des habitations picardes."
         ),
         "historique": (
-            "\\textbf{l.~7--9 congères / auto découverte :} Les voitures de liaison britanniques (Vauxhall, "
-            "Sunbeam ou Ford T à capote de toile ouverte sur les côtés) offraient une protection dérisoire "
-            "contre le blizzard sur les plateaux découverts de l'Amiénois."
+            "\\textbf{l.~19 Dépenses mess pour janvier = 79 f 10 :} Avant de partir en permission le 26 janvier, Hippolyte "
+            "Combes règle intégralement sa part de mess pour les vingt-cinq premiers jours du mois."
         ),
     },
     128: {
-        "title": "Gel intense à Louvencourt et correspondance avec Toulouse",
-        "date": "19 janvier 1917 (matin)",
-        "lieu": "Acheux, Louvencourt (Somme)",
+        "title": "Départ en permission de la gare de Varennes et longue attente nocturne à Gézaincourt",
+        "date": "26 janvier 1917",
+        "lieu": "Acheux, Gare de Varennes, Gézaincourt (Somme)",
         "lines": [
-            "19 Vendredi —                                   Janvier 1917",
-            "Gelée de plus en plus forte (-10°).",
-            "Ciel redevenu pur, soleil éblouissant",
-            "sur l'immense plaine de neige blanche.",
-            "Matinée, course à Louvencourt et",
-            "Authie pour régler les achats de la",
-            "semaine avant mon départ en congé.",
-            "Chevaux des convois anglais tombent",
-            "à chaque pas sur la glace des côtes.",
+            "26 Vendredi —                                   Janvier /17",
+            "Levé 8h 30 m.",
+            "Nuit extt froide, gelé très fort. 1/2 jour, soleil",
+            "brillé et très vif éclat.",
+            "Matinée, achevé ranger mes affaires.",
+            "A midi, fait prendre à gare 2 sacs par voiture",
+            "qui fait service poste.",
+            "Après déjeuner, venu à pied station, vers 2h.",
+            "Attendu patiemment départ train — installé 2e cl.",
+            "Soleil brûlant s/ les vitres, du côté de Varennes.",
+            "Champs tt couverts couche neige durcie",
+            "dont les particules, comme des grains de diamant,",
+            "étincellent sous les rayons solaires.",
+            "A la ligne de l'horizon, légère buée",
+            "blanchâtre, confondant terre & ciel.",
+            "1 interprète, monté compartt. Entré en",
+            "conversn & échangé nos impressions & jugements",
+            "sur les English.",
+            "Enfin, train démarré après 3h s.",
+            "A Gézaincourt, à 4h 30.",
+            "Là, dû attendre correspce, ds salle surchauffée,",
+            "au 1/2 de voyrs, soldats permissionnaires ou paysans, foule",
+            "très bruyante. Train de Doullens, 3 h. de",
+            "retard. Quitté Gézaincourt, à 10h 30 s.",
         ],
         "critique": (
-            "\\textbf{l.~3--4 soleil éblouissant sur l'immense plaine de neige blanche :} Sensibilité visuelle "
-            "immédiate à la réverbération solaire sur la neige, qui alterne avec la notation technique des "
-            "difficultés du charroi militaire."
+            "\\textbf{l.~11--13 Champs tt couverts couche neige durcie dont les particules, comme des grains de diamant, "
+            "étincellent sous les rayons solaires :} L'émerveillement du départ en permission inspire à l'auteur l'une "
+            "des phrases les plus lumineuses et les plus achevées de son journal."
         ),
         "historique": (
-            "\\textbf{l.~8--9 Chevaux des convois anglais tombent à chaque pas :} Les rapports du "
-            "XIII\\textsuperscript{e} Corps en janvier–février 1917 signalent des centaines de chevaux blessés "
-            "sur les routes verglacées avant que les maréchaux-ferrants britanniques (\\textit{farriers}) ne "
-            "généralisent le ferrage à crampons à glace (\\textit{frost-cogs})."
+            "\\textbf{l.~20--24 A Gézaincourt, à 4h 30... Quitté Gézaincourt, à 10h 30 s. :} La ligne ferroviaire à voie "
+            "unique d'Albert à Doullens par Acheux-Varennes rejoignait à la gare de bifurcation de Gézaincourt (juste au "
+            "sud de Doullens) la grande ligne de Saint-Pol à Amiens. Six heures d'attente y sont imposées par l'encombrement "
+            "des trains militaires et le gel des aiguillages."
         ),
     },
     129: {
-        "title": "Préparatifs de liquidation de l'appartement de Toulouse",
-        "date": "19 janvier 1917 (soir)",
-        "lieu": "Acheux (Somme)",
+        "title": "Arrivée à Amiens à deux heures du matin et état de la caisse de voyage",
+        "date": "26 janvier 1917 (suite, nuit du 26 au 27)",
+        "lieu": "Acheux, Gézaincourt, Amiens (Somme)",
         "lines": [
-            "19 Vendredi (suite) —                           Janvier 1917",
-            "Après-midi, resté au bureau et dans",
-            "ma chambre à préparer mes affaires.",
-            "Reçu lettre de Gueïte : elle sera",
-            "à Toulouse dès le 28 janvier pour",
-            "m'y attendre !",
-            "Profité de ce séjour là-bas pour",
-            "résilier définitivement mon logement",
-            "de Toulouse et régler le déménagement",
-            "de mes meubles et livres en vue de",
-            "notre futur mariage.",
+            "Ven. 26 (suite)                                 Janvier 1917",
+            "Arrivé Amiens vers 2h m.",
+            "Froid pénétrant — gelé très dur.",
+            "Au ciel sombre, qq étoiles très brillantes.",
+            "[ — Voiturier, à Acheux : 1 f",
+            "  (2 sacs à la gare)",
+            "  — A Gézaincourt : enregt bag. : 10 c",
+            "  (27 kg. — 2 sacs)",
+            "  En caisse, ce matin : 319 f 50 c ]",
         ],
         "critique": (
-            "\\textbf{l.~4--11 elle sera à Toulouse dès le 28 janvier / résilier définitivement mon logement :} "
-            "Ce passage éclaire le double enjeu biographique de l'expédition toulousaine de fin janvier 1917 : "
-            "sceller la réconciliation définitive avec Marguerite et clore sa vie de célibataire toulousain "
-            "(« l'adieu à la vie de garçon » déjà esquissé lors de la première permission)."
+            "\\textbf{l.~5--9 En caisse, ce matin : 319 f 50 c :} Grand encadré comptable occupant le centre de la page "
+            "(le tiers inférieur restant blanc) pour fixer avec exactitude le pécule de départ en permission (319 fr. 50) "
+            "et le poids des deux sacs de bagages enregistrés à Gézaincourt (27 kg)."
         ),
         "historique": (
-            "\\textbf{l.~8--10 mon logement de Toulouse :} Hippolyte Combes avait grandi à Toulouse (rue du "
-            "Taur, près de Saint-Sernin, où ses parents François-Hippolyte Combes et Marie-Anaïs Alric "
-            "s'étaient établis) et y avait fait ses études au Caousou puis à la Faculté des Lettres et de Droit."
+            "\\textbf{l.~2 Arrivé Amiens vers 2h m. :} Parti de la gare d'Acheux-Varennes à 15 h passées, le train a mis "
+            "près de onze heures pour parcourir les 40 kilomètres ferroviaires jusqu'à Amiens via Gézaincourt et Canaples."
         ),
     },
     130: {
-        "title": "Froid polaire (-12°) et dernières tournées à Warloy-Baillon",
-        "date": "20 – 21 janvier 1917",
-        "lieu": "Acheux, Warloy-Baillon, Rubempré (Somme)",
+        "title": "Nuit glaciale à la gare d'Amiens avec l'interprète Boilly et arrivée à Paris et Neuilly",
+        "date": "27 janvier 1917 (matin et midi)",
+        "lieu": "Amiens, Paris (Gare du Nord, Gare d'Orsay), Neuilly-sur-Seine",
         "lines": [
-            "20 Samedi —                                     Janvier 1917",
-            "Froid polaire : -12° au thermomètre",
-            "du mess ce matin ! Bise coupante.",
-            "Matinée, course rapide à Warloy et",
-            "Rubempré avec Capt. W.",
-            "21 Dimanche. — Même froid Sibérien.",
-            "Messe à 10h à Acheux. Après lunch,",
-            "marche rapide d'une heure sur la",
-            "route de Forceville qui résonne",
-            "comme du fer sous les pas.",
-            "Plus que 5 jours avant le départ !",
-            "[ A Acheux : Mess : 14 f. 50 — Charbon : 4 f. ]",
+            "Sam. 27 —                                       Janv. 1917",
+            "Train arrivé enfin à",
+            "Amiens, vers 2h matin.",
+            "En compagnie de 2 interprètes (dont l'1,",
+            "Boilly, est prof. à Pont-à-Mousson)",
+            "sorti gare, et allé à l'Abri du Soldat,",
+            "Bvd Alsace-Lorraine. Aucune place.",
+            "Entré à la Y.M.C.A. Hut, à côté gare.",
+            "Puis durant des heures, déambulé",
+            "le long quai gare, en attendant train",
+            "de Boulogne-Paris. Froid très vif.",
+            "Enfin vers 5h 1/2 (2 h. de retard) train arrivé. Monté",
+            "compartiment 2e cl., très confortable, mais",
+            "y air brûlant, irrespirable.",
+            "Pu m'assoupir 1 peu.",
+            "Paris, gare du Nord, vers 11h 15 m.",
+            "Pris 1 fiacre et venu gare d'Orsay",
+            "où billet et fait, en 10 minutes, enregistrer mes bagages.",
+            "Me suis rendu par le métro à",
+            "Neuilly : Tuileries – Porte-Maillot.",
+            "Après 5 m. de marche, arrivé",
+            "rue d'Armenonville, no 16.",
+            "Maison luxueuse. Au 4e étage, à g.",
         ],
         "critique": (
-            "\\textbf{l.~11 Plus que 5 jours avant le départ ! :} Comme en septembre 1916 avant la première "
-            "permission, un compte à rebours fébrile s'installe dans les dernières lignes de chaque journée "
-            "précédant le départ vers le Midi."
+            "\\textbf{l.~4--5 2 interprètes (dont l'1, Boilly, est prof. à Pont-à-Mousson) :} Solidarité immédiate entre "
+            "collègues universitaires servant dans le corps des interprètes de l'armée britannique. \\textbf{l.~22--23 "
+            "rue d'Armenonville, no 16. Maison luxueuse. Au 4e étage, à g. :} Même adresse à Neuilly-sur-Seine que lors "
+            "de sa première permission le 26 septembre 1916 (Scan \\#051)."
         ),
         "historique": (
-            "\\textbf{l.~2--6 Froid polaire : -12° / froid Sibérien :} La vague de froid de la dernière décade "
-            "de janvier 1917 fit geler la Somme et l'Ancre sur toute leur largeur, permettant aux patrouilles "
-            "britanniques et allemandes de traverser les marais glacés à pied sec."
+            "\\textbf{l.~6--8 l'Abri du Soldat, Bvd Alsace-Lorraine... Y.M.C.A. Hut, à côté gare :} La gare du Nord "
+            "d'Amiens (place Alphonse-Fiquet, au bout du boulevard d'Alsace-Lorraine) était le grand nœud ferroviaire "
+            "franco-britannique où se croisaient jour et nuit les trains de permissionnaires venant de Boulogne et "
+            "du front de la Somme."
         ),
     },
 }

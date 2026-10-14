@@ -1,471 +1,607 @@
 # -*- coding: utf-8 -*-
 """
 Diplomatic transcriptions, marginal apparatus, and dual commentary for Scans #131 to #186
-(22 January 1917 – 30 April 1917).
+(27 January 1917 – 30 April 1917), established directly from the original manuscript scans.
 """
 
 SCANS_131_186 = {
     131: {
-        "title": "Derniers jours à Acheux avant la seconde permission",
-        "date": "22 – 25 janvier 1917",
-        "lieu": "Acheux, Toutencourt, Varennes (Somme)",
+        "title": "Déjeuner à Neuilly chez Mme Faure, visite chez l'opticien Imbert et départ pour Toulouse",
+        "date": "27 janvier 1917 (suite)",
+        "lieu": "Neuilly-sur-Seine, Paris (Boulevard Saint-Michel, Hôtel de Ville, Gare d'Orsay)",
         "lines": [
-            "22 Lundi —                                      Janvier 1917",
-            "Gelée très forte (-12°). Ciel pur et sec.",
-            "Matinée, course à Toutencourt et Contay.",
-            "23 Mardi. — Même froid rigoureux.",
-            "Matinée à Varennes et Léalvillers.",
-            "Après-midi, réglé avec Cap. Huguet et",
-            "Capt. W. les détails de mon départ.",
-            "24 Mercredi. — Passé consignes à mon",
-            "camarade qui fera l'intérim pendant",
-            "mon absence. Préparé ma valise.",
-            "25 Jeudi. — Dernière journée à Acheux !",
-            "Touché mon warrant et réglé ma",
-            "pension au mess n° 104.",
-            "[ A Acheux : Mess jusqu'au 25 : 24 f. 50 ]",
+            "Sam. 27 (suite)                                 Janv. 1917",
+            "au 4e ét., à g., appartt de Mme Faure.",
+            "Y arrivé, vers midi 30 —",
+            "Accueil très affectueux.",
+            "Déjeuné en famille. Mlle Germaine & Marcel",
+            "présents. Les 2 autres fils, Henri, aspirant, et André,",
+            "préparant Polyte, absents.",
+            "Causé longuement, après repas.",
+            "Vers 4h s., pris congé.",
+            "Par métro, venu sur Bvd St-Michel, ch. Imbert,",
+            "mobilisé. Vu son remplaçant.",
+            "Magasins de l'Hôtel de Ville, plusrs achats.",
+            "Remonté rue de Rivoli. Dîné restaurant &",
+            "à 7h s., gare d'Orsay.",
+            "Descendu quais. Installé compartt bien",
+            "chauffé.",
+            "Départ train vers 7h 50 s. Qq soldats —",
+            "Air très chaud.",
+            "Peu à peu, me suis assoupi.",
         ],
         "critique": (
-            "\\textbf{l.~12 warrant :} Emprunt administratif anglais (\\textit{Leave Warrant}), titre de "
-            "transport militaire donnant droit à la gratuité sur les trains de permissionnaires alliés."
+            "\\textbf{l.~1--2 au 4e ét., à g., appartt de Mme Faure :} Reprise syntaxique du dernier syntagme du folio "
+            "précédent (« Au 4e étage, à g. », Scan \\#130) pour assurer l'enchaînement après la tourne de la page. "
+            "\\textbf{l.~10--11 Bvd St-Michel, ch. Imbert, mobilisé :} L'opticien parisien à qui Hippolyte avait expédié "
+            "son pince-nez le 28 décembre et un mandat de 19 fr. le 10 janvier (Scans \\#116 et \\#122)."
         ),
         "historique": (
-            "\\textbf{l.~8--10 Passé consignes / intérim :} Lorsqu'un interprète d'A.S.C. partait en permission, "
-            "le bureau de la Mission française du Corps d'armée désignait un interprète d'une unité voisine "
-            "pour assurer l'intérim des achats urgents."
+            "\\textbf{l.~5--7 Mlle Germaine \\& Marcel présents. Les 2 autres fils, Henri, aspirant, et André, préparant "
+            "Polyte, absents :} Tableau familial typique de la haute bourgeoisie parisienne en janvier 1917, partagée "
+            "entre le front (Henri, aspirant) et la préparation aux grandes écoles militaires (André, candidat à "
+            "l'École Polytechnique)."
         ),
     },
     132: {
-        "title": "Départ en permission : d'Acheux et Amiens à Paris et Neuilly",
-        "date": "26 – 27 janvier 1917 (matin)",
-        "lieu": "Acheux, Amiens, Paris, Neuilly-sur-Seine",
+        "title": "Dépenses parisiennes et arrivée matinale à Toulouse : souvenirs des disparus et visite de l'oncle Émile",
+        "date": "27 (comptes) – 28 janvier 1917 (matin)",
+        "lieu": "Paris, Toulouse (Gare Matabiau, Saint-Michel, Sainte-Marie)",
         "lines": [
-            "26 Vendredi —                                   Janvier 1917",
-            "Debout à 5h 1/2 par un froid polaire.",
-            "Pris lorry jusqu'à la gare de Varennes,",
-            "puis train très lent jusqu'à Amiens.",
-            "Express d'Amiens à Paris-Nord : arrivé",
-            "à 3h s. Déposé bagages gare d'Orsay.",
-            "Allé en métro à Neuilly (16 rue",
-            "d'Armenonville) dîner chez mes cousins",
-            "Faure : accueil charmant et affectueux.",
-            "27 Samedi. — Matinée, courses dans",
-            "Paris sous un froid très vif (grands",
-            "boulevards, achats de cadeaux pour",
-            "Gueïte et Valentine).",
-            "[ A Paris : Hôtel, repas & métro : 14 f. 50 ]",
+            "Sam. 27                                         Janv. /17",
+            "Paris. Gare du Nord. Facteur : 20 c",
+            "Gare d'Orsay : 10 c. | Cartes ples : 10 c",
+            "Enregt 2 colis, 2 f 40 : 10 c",
+            "Fiacre taximètre : 1 f 45 + 30 c = 1 f 75 c",
+            "Métro : 15, 15 c | Dîner : 1 f 95 + 10 c",
+            "Billet pour Toulouse : 11 f 15 c",
+            "Magasins Hôtel de Ville : 1 brosse à cheveux : 3 f 95",
+            "Brosse à souliers : 65 c. — Peigne fin : 1 f 25 c",
+            "Peigne ordre : 95 c. — Cirage noir : 50 c",
+            "Dimanche 28",
+            "Voyage, terminé sans incidents.",
+            "En approchant de Toulouse, souvenirs jeunesse",
+            "revenus en foule esprit. Cru revoir mère et",
+            "sœurs, m'attendant, cme autrefois, gare.",
+            "Vers 8h 15, arrivée.",
+            "Retiré 2 bagages. Pris tram St-Michel.",
+            "Matinée, ds mon appartt, à ranger",
+            "affaires.",
+            "Oncle Émile, venu me surprendre à 10h 1/2.",
+            "A midi, enfin, à Ste-Marie. Dû",
+            "attendre tram 30 m. angle musée.",
         ],
         "critique": (
-            "\\textbf{l.~7--8 Neuilly (16 rue d'Armenonville) :} Comme lors de sa première permission en "
-            "septembre 1916 (Scan \\#051), l'étape parisienne chez ses cousins Faure constitue le sas de "
-            "décompression indispensable entre le front de la Somme et le Midi."
+            "\\textbf{l.~13--15 souvenirs jeunesse revenus en foule esprit. Cru revoir mère et sœurs, m'attendant, cme "
+            "autrefois, gare :} Notation autobiographique bouleversante : en arrivant à la gare Matabiau de Toulouse, "
+            "Hippolyte Combes revoit en pensée sa mère Marie Anaïs Alric (décédée en 1907) et ses deux sœurs disparues, "
+            "Maria (morte à Carthage en 1903) et Joséphine (morte à Nogent-le-Rotrou en octobre 1914)."
         ),
         "historique": (
-            "\\textbf{l.~6 gare d'Orsay :} Construite pour l'Exposition universelle de 1900, la gare du "
-            "Quai d'Orsay était la tête de ligne de la Compagnie du Paris-Orléans (P.-O.) desservant Limoges, "
-            "Montauban et Toulouse."
+            "\\textbf{l.~7 Billet pour Toulouse : 11 f 15 c :} Tarif militaire au quart de place sur le réseau du "
+            "Paris-Orléans. \\textbf{l.~8 Magasins Hôtel de Ville :} Le grand magasin \\textit{Aux Classes Laborieuses} / "
+            "\\textit{Bazar de l'Hôtel de Ville} rue de Rivoli à Paris."
         ),
     },
     133: {
-        "title": "Voyage de nuit vers le Midi et arrivée à Toulouse",
-        "date": "27 (soir) – 28 janvier 1917 (matin)",
-        "lieu": "Paris (Quai d'Orsay), Toulouse (Haute-Garonne)",
+        "title": "Retrouvailles infiniment tendres avec Marguerite à Sainte-Marie (Toulouse)",
+        "date": "28 janvier 1917 (suite)",
+        "lieu": "Toulouse (Quartier Sainte-Marie / Côte Pavée)",
         "lines": [
-            "27 Samedi (suite) —                             Janvier 1917",
-            "Après-midi à Neuilly et au Bois de",
-            "Boulogne gelé. Dîné tôt près de la",
-            "gare d'Orsay et pris à 8h s. l'express",
-            "de Toulouse. Compartiment bondé",
-            "d'officiers et de permissionnaires ;",
-            "chauffage très faible, nuit glaciale.",
-            "28 Dimanche. — Arrivé à Toulouse",
-            "(gare Matabiau) à 10h 1/2 m.",
-            "Joie profonde de retrouver ma chère",
-            "ville natale d'études et surtout de",
-            "revoir Gueïte dès midi !",
+            "Dim. 28. (suite)        — Janv. /17 —",
+            "Margte, sur la porte, m'attendait. Accueil",
+            "infiniment tendre. S'est montrée charmante.",
+            "Vu Tante & Madeleine.",
+            "Passé journée entière à Ste-Marie. Longues",
+            "heures d'intime tête-à-tête av. Margte, dans",
+            "le petit salon.",
+            "Jean, monté à 6h 1/2 et dîné avec nous.",
+            "Redescendu seul, à pied, à 9h s. Aucun tram.",
+            "Margte, vraiment exquise de simplicité & de charme,",
+            "vive, spontanée, aimante, affectueuse au possible.",
+            "Mes sentiments à son égard, douceur infinie.",
+            "Causeries délicieuses sur les sujets les plus",
+            "divers.",
+            "[ — Trams : 10 c, 10 c — ]",
         ],
         "critique": (
-            "\\textbf{l.~10--12 Joie profonde... revoir Gueïte dès midi ! :} Le rythme de la phrase s'anime "
-            "et s'achève sur un point d'exclamation : l'arrivée à Toulouse ouvre la séquence la plus lumineuse "
-            "de l'hiver 1917."
+            "\\textbf{l.~2--3 et 10--14 Margte, sur la porte, m'attendait. Accueil infiniment tendre... Mes sentiments "
+            "à son égard, douceur infinie :} Dénouement radieux de la crise épistolaire du 17–25 décembre 1916 "
+            "(Scans \\#112 et \\#114) : dès le premier regard sur le seuil de la villa de Sainte-Marie à Toulouse, "
+            "toutes les appréhensions d'Hippolyte s'évanouissent."
         ),
         "historique": (
-            "\\textbf{l.~9 gare Matabiau :} L'express de nuit Paris–Toulouse mettait alors un peu plus de "
-            "14 heures en temps de guerre en raison de la priorité accordée aux trains militaires de charbon "
-            "et de munitions sur la ligne du Paris-Orléans."
+            "\\textbf{l.~4 Vu Tante \\& Madeleine :} Marguerite Calmels séjournait alors à Toulouse avec sa sœur "
+            "Madeleine Calmels (future épouse du docteur Fernand Vincens) chez leur tante."
         ),
     },
     134: {
-        "title": "Retrouvailles et explication décisive avec Marguerite à Toulouse",
-        "date": "28 janvier 1917 (après-midi)",
-        "lieu": "Toulouse (Haute-Garonne)",
+        "title": "Le panier de fleurs de Nice et le pèlerinage de jeunesse aux cryptes de Saint-Sernin",
+        "date": "29 janvier 1917",
+        "lieu": "Toulouse (Gare Matabiau, Sainte-Marie, Basilique Saint-Sernin, Place du Capitole, Rue d'Alsace, Côte Pavée)",
         "lines": [
-            "28 Dimanche (suite) —                           Janvier 1917",
-            "Longue et décisive promenade cet",
-            "après-midi avec Gueïte le long du",
-            "Grand-Rond et du Jardin Royal.",
-            "Tous les malentendus de décembre",
-            "sont entièrement dissipés ! Jamais",
-            "nous ne nous sommes sentis si près",
-            "l'un de l'autre. Notre mariage est",
-            "arrêté en principe pour l'automne",
-            "prochain si Dieu me prête vie.",
-            "Soirée délicieuse en famille.",
+            "Lundi 29.               — Janvier 1917 —",
+            "Levé 7h 1/2.",
+            "Matin, temps 1 peu froid. Journée, soleil pâle.",
+            "Allumé 1 feu cheminée chambre rue. Goûté",
+            "confort chambre retrouvée.",
+            "Venu gare. Me suis fait livrer, non",
+            "sans peine, panier fleurs Nice. Colis sans",
+            "étiquette, ouverture et feuille postale disparues.",
+            "Vers midi, enfin, de nouveau à Ste-Marie.",
+            "Après déjeuner, Marg. & Madne, descendues",
+            "en ville avec moi.",
+            "Visité longuement basilique St-Sernin",
+            "et surtout les cryptes. Toute ma jeunesse",
+            "réveillée, dans & autour de cette admirable",
+            "église romane.",
+            "Magasins du Capitole & Labit.",
+            "Remonté 1 peu Rue Alsace.",
+            "Enfin, allé prendre au Capitole",
+            "notre tram p. Côte Pavée.",
+            "A 9h s., quitté, hélas ! Ste-Marie.",
+            "[ — Trams : 10, 10, 10 c, 60, 10 c —",
+            "  Mag. du Capitole : boîte de 3 savonnettes : 2 f 90",
+            "  Brosse à dents p. Margte : 2 f 25 c — Ctes ples : 30 c",
+            "  Cartes pour visiter cryptes de St-Sernin : 1 f — ]",
         ],
         "critique": (
-            "\\textbf{l.~5--10 Tous les malentendus de décembre sont entièrement dissipés ! :} Résolution "
-            "heureuse de la crise épistolaire du 22 décembre (Scan \\#112) ; l'accord conclu ce 28 janvier "
-            "1917 au Jardin Royal de Toulouse (« mariage arrêté pour l'automne prochain ») aboutira effectivement "
-            "au mariage célébré à Millau le 25 octobre 1917."
+            "\\textbf{l.~12--15 Visité longuement basilique St-Sernin et surtout les cryptes. Toute ma jeunesse réveillée, "
+            "dans \\& autour de cette admirable église romane :} Émotion autobiographique intense : la maison familiale où "
+            "Hippolyte Combes passa sa jeunesse auprès de ses parents (au 47 puis au 77 rue du Taur à Toulouse) débouchait "
+            "directement sur la place Saint-Sernin."
         ),
         "historique": (
-            "\\textbf{l.~4 Grand-Rond et Jardin Royal :} Jardins publics classiques du XVIII\\textsuperscript{e} "
-            "et du XIX\\textsuperscript{e} siècle au sud-est du centre historique de Toulouse, lieux de "
-            "promenade privilégiés de la bourgeoisie toulousaine."
+            "\\textbf{l.~16 Magasins du Capitole \\& Labit :} Les grands magasins toulousains de la place du Capitole et "
+            "la célèbre \\textit{Maison Labit} (galerie marchande et bazar oriental fondé par les frères Georges et "
+            " Antoine Labit rue d'Alsace-Lorraine à Toulouse)."
         ),
     },
     135: {
-        "title": "Visite de la Daurade et des cryptes de Saint-Sernin à Toulouse",
-        "date": "29 janvier 1917",
-        "lieu": "Toulouse (Haute-Garonne)",
+        "title": "Visite à Mme de Labarthe et conférence d'Ernest Zyromski sur Maurice de Guérin",
+        "date": "30 janvier 1917",
+        "lieu": "Toulouse (Faculté des Lettres, Sainte-Marie)",
         "lines": [
-            "29 Lundi —                                      Janvier 1917",
-            "Temps froid mais beau soleil du Midi.",
-            "Matinée, courses en ville et visite",
-            "chez mon dentiste rue d'Alsace.",
-            "Après-midi, promenade exquise avec",
-            "Gueïte : visité l'église de la Daurade,",
-            "Saint-Pierre et longuement la basilique",
-            "Saint-Sernin (déambulatoire, reliquaires",
-            "et cryptes romanes). Que de souvenirs",
-            "de ma jeunesse rue du Taur !",
-            "[ Toulouse : Dentiste & tramways : 15 f. ]",
+            "Mardi 30.                                       Janvier 1917 —",
+            "Levé 7h m. Allumé gd feu",
+            "chambre. Me suis prélassé s/ fauteuil. Joui",
+            "de mon bien-être & repos de l'heure présente.",
+            "Évoqué passé sans mélancolie.",
+            "Matin, visite à Mme de Labarthe. L'ai",
+            "revue av. un plaisir extrême.",
+            "Monté, cme d'habitude, à Ste-Marie pour",
+            "déjeuner.",
+            "Après-midi, assisté conférce de M. Zyromski",
+            "sur Maurice de Guérin (Influence de la Bretagne",
+            "& de Lamennais). Admirablt écrite. Passages",
+            "remarquables fond et forme. Vrai",
+            "régal littéraire.",
+            "Fini journée en cie de Margte —",
+            "[ — Cartes ples : 60 c.",
+            "  — 1 ramette papier vélin : 1 f 25",
+            "    (moyen format)",
+            "  2 paquets d'enveloppes : 80 c.",
+            "  Trams : 10 c, 60 c, 10 c.",
+            "  Le Miroir des Modes (no de janvier) : 1 f — ]",
         ],
         "critique": (
-            "\\textbf{l.~6--10 la Daurade / Saint-Sernin / rue du Taur :} Ce pèlerinage architectural dans "
-            "le quartier étudiant et familial d'Hippolyte Combes associe sa fiancée aux lieux fondateurs de "
-            "son enfance toulousaine (la maison parentale du 77 rue du Taur se trouve à cent mètres de "
-            "Saint-Sernin)."
+            "\\textbf{l.~10--14 assisté conférce de M. Zyromski sur Maurice de Guérin... Vrai régal littéraire :} Ancien "
+            "étudiant de la Faculté des Lettres de Toulouse (où il avait obtenu sa licence d'anglais), Hippolyte Combes "
+            "retrouve avec délices l'amphithéâtre universitaire. \\textbf{l.~21 Le Miroir des Modes (no de janvier) : 1 f :} "
+            "Revue de mode illustrée achetée pour Marguerite."
         ),
         "historique": (
-            "\\textbf{l.~7--9 basilique Saint-Sernin (déambulatoire, reliquaires et cryptes) :} Le tour des "
-            "Corps Saints (déambulatoire et cryptes supérieure et inférieure renfermant les châsses médiévales "
-            "et de la Renaissance) est le joyau de l'art roman toulousain."
+            "\\textbf{l.~10--12 M. Zyromski sur Maurice de Guérin (Influence de la Bretagne \\& de Lamennais) :} Ernest "
+            "Zyromski (1862–1933), célèbre professeur de littérature française à la Faculté des Lettres de l'Université "
+            "de Toulouse, était le grand spécialiste du poète tarnais Maurice de Guérin (1810–1839) et de son séjour "
+            "breton à La Chênaie auprès de Lamennais (il publiera son ouvrage \\textit{Maurice de Guérin} chez Armand "
+            "Colin en 1921)."
         ),
     },
     136: {
-        "title": "Liquidation de l'appartement toulousain et tri des livres",
-        "date": "30 janvier 1917",
-        "lieu": "Toulouse (Haute-Garonne)",
+        "title": "Marché aux Halles Victor-Hugo avec Marguerite, visite de l'Hôtel d'Assézat et intimité à l'appartement",
+        "date": "31 janvier 1917",
+        "lieu": "Toulouse (Saint-Sernin, Halles Victor-Hugo, Hôtel d'Assézat, Daurade, Dalbade, Sainte-Marie)",
         "lines": [
-            "30 Mardi —                                      Janvier 1917",
-            "Journée très occupée dans mon ancien",
-            "logement : trié mes papiers, emballé",
-            "mes livres d'anglais et de droit dans",
-            "des caisses, donné congé définitif au",
-            "propriétaire et réglé les derniers",
-            "termes de loyer.",
-            "C'est toute une page de ma vie",
-            "passée qui se tourne aujourd'hui,",
-            "sans regret, vers un avenir meilleur !",
-            "Fin d'après-midi passée avec Gueïte.",
+            "Mercredi 31. —                                  Janvier 1917",
+            "Nuit, gelé très fort. Ds la journée, neigé 1 peu,",
+            "et soufflé bise glaciale.",
+            "Matinée, venu rejoindre Mte p. son tram à St-Ser.",
+            "vers 10h. Ensemble, fait marché à V. Hugo.",
+            "Après-midi, descendus en ville. Promené",
+            "rues bien abritées. Visité Hôtel d'Assézat,",
+            "Daurade & Dalbade.",
+            "Puis montés mon appartt et y reposé 2 longues",
+            "heures. Évité troubler qq secondes précieuses.",
+            "A Ste-Marie, vers 6h 1/2. Retour à pied, vers",
+            "9h. Légers flocons neige tombaient sur le sol",
+            "durci.",
+            "[ — Halles Victor-Hugo : gigot d'agneau : 5 f",
+            "  Petits fromages (gervais & blancs) : 90 c",
+            "  1/2 beurre : 60 c. — Boîte sardines : 2 f",
+            "  Gâteaux : 20 c. — 1 livre de dattes : 1 f — id. de",
+            "  figues : 1 f. — Gâteau aux noix : 1 f 25 c",
+            "  Gâteau des rois : 1 f 40 chez Henri Testex",
+            "  Trams : 30 c., 30 c.",
+            "  Télégramme à Mme Spagnol, Nice : 2 f — ]",
         ],
         "critique": (
-            "\\textbf{l.~8--10 C'est toute une page de ma vie passée qui se tourne :} Réflexion autobiographique "
-            "majeure : à 40 ans, Hippolyte Combes liquide matériellement son existence d'étudiant et de "
-            "célibataire toulousain pour préparer son foyer conjugal."
+            "\\textbf{l.~9--10 Puis montés mon appartt et y reposé 2 longues heures. Évité troubler qq secondes précieuses :} "
+            "Notation pudique et délicate d'un moment de recueillement amoureux dans son appartement toulousain. "
+            "\\textbf{l.~21 Télégramme à Mme Spagnol, Nice : 2 f :} Sa tante Thérèse Spagnol (voir Scan \\#142), expéditrice "
+            "du panier de fleurs de Nice récupéré à la gare le 29 janvier."
         ),
         "historique": (
-            "\\textbf{l.~6--7 réglé les derniers termes de loyer :} Bien que le gouvernement français eût "
-            "instauré dès août 1914 un moratoire des loyers pour les mobilisés, Hippolyte Combes, issu d'une "
-            "famille de magistrats et d'avocats, tient à honorer intégralement ses loyers avant de résilier son bail."
+            "\\textbf{l.~7--8 Hôtel d'Assézat, Daurade \\& Dalbade :} Chef-d'œuvre de la Renaissance toulousaine édifié "
+            "par Nicolas Bachelier (siège de l'Académie des Jeux Floraux), suivi des deux grandes églises de la rive "
+            "droite de la Garonne, Notre-Dame de la Daurade et Notre-Dame de la Dalbade."
         ),
     },
     137: {
-        "title": "Promenade aux bords de la Garonne et visite au Caousou",
-        "date": "31 janvier 1917",
-        "lieu": "Toulouse (Haute-Garonne)",
+        "title": "Achat d'une montre en or chez Pfister et détachement intérieur vis-à-vis de Toulouse",
+        "date": "1er février 1917",
+        "lieu": "Toulouse (Capitole, Sainte-Marie, Gare Matabiau, Rue de Languedoc)",
         "lines": [
-            "31 Mercredi (fin Janvier) —                     Janvier 1917",
-            "Matinée, terminé le déménagement",
-            "de mes malles et caisses mis au",
-            "garde-meuble. Séance chez le dentiste.",
-            "Après-midi, monté jusqu'au collège",
-            "du Caousou saluer mes anciens Pères",
-            "jésuites (P. Ponsonailles) qui m'ont",
-            "reçu à bras ouverts.",
-            "Retour par les quais de la Garonne",
-            "et le Pont-Neuf avec Gueïte devant",
-            "un admirable coucher de soleil rose",
-            "sur les briques de Toulouse.",
+            "1er Jeudi                                       Février 1917 —",
+            "Temps très froid. Gelé dur. Dans la journée, soleil",
+            "brillant.",
+            "Matin, longue visite à Mme de Labarthe",
+            "& aux dames Delsol, mes voisines.",
+            "Au Capitole, retrouvé Mte, vers 11h 1/2 et sa",
+            "sœur ! Remontés ensemble tram Ste-Marie.",
+            "Après déjeuner, descendu ville av. Henriette.",
+            "Vers 4h 1/2, à gare, à propos panier fleurs",
+            "égaré. A Mazaréthe, revu tte ma famille.",
+            "Choisi montre or ch. Pfister.",
+            "Chapelle archevêché : conférence, pas eu lieu.",
+            "Rentré dîner à Ste-Marie —",
+            "Vers 9h 1/2, à pied j'à rue de Languedoc.",
+            "Ville silencieuse. Maintent bcp calme, je me",
+            "sens complètt détaché de Toulouse. Partirai sans",
+            "regret, et pour n'y retourner jamais plus.",
+            "[ — Trams : 30 c., 10 c., 20 c., 30 c.",
+            "  Wood (boulangeon) : 2 f",
+            "  Remboursé à mes voisines : 3 f 25",
+            "  (12 œufs, 1/2 beurre, 1 boulangeon) ]",
         ],
         "critique": (
-            "\\textbf{l.~5--7 collège du Caousou / P. Ponsonailles :} Souvenir direct de l'établissement "
-            "jésuite où Hippolyte Combes fut élève ; deux photographies conservées dans le fonds familial "
-            "(\\texttt{Hippolyte\\_Combes\\_Caousou.jpg} et \\texttt{Papi et jésuites frère Rémi Ponsonailles.jpg}) "
-            "attestent la fidélité de ses liens avec le Caousou."
+            "\\textbf{l.~15--17 Maintent bcp calme, je me sens complètt détaché de Toulouse. Partirai sans regret, et pour "
+            "n'y retourner jamais plus :} Méditation décisive en marchant le soir jusqu'à la rue de Languedoc : son "
+            "bonheur présent auprès de Marguerite l'affranchit définitivement de la nostalgie de sa jeunesse toulousaine."
         ),
         "historique": (
-            "\\textbf{l.~5--6 collège du Caousou :} Fondé par les jésuites à Toulouse en 1874 sur les coteaux "
-            "de Guilheméry, le Caousou forma une grande partie des élites catholiques du Sud-Ouest (et servit "
-            "en partie d'hôpital complémentaire pendant la Grande Guerre)."
+            "\\textbf{l.~11 Choisi montre or ch. Pfister :} La célèbre horlogerie-bijouterie Pfister de Toulouse, où il "
+            "achète pour sa fiancée une montre à remontoir en or mat de style Louis XVI au prix de 105 francs (réglée "
+            "le lendemain, Scan \\#138)."
         ),
     },
     138: {
-        "title": "Visite du Capitole, de Saint-Étienne et achats de fiançailles",
-        "date": "1er février 1917",
-        "lieu": "Toulouse (Haute-Garonne)",
+        "title": "Soins chez le dentiste M. de Lersay, achat du remontoir Louis XVI et dernière soirée à Toulouse",
+        "date": "2 février 1917",
+        "lieu": "Toulouse (Rue Lafayette, Place Belfort, Sainte-Marie)",
         "lines": [
-            "1er Jeudi —                                     Février 1917",
-            "Temps radieux quoique très frais.",
-            "Matinée, flâné place du Capitole",
-            "et rue Saint-Rome avec Gueïte :",
-            "choisi ensemble un souvenir de",
-            "fiançailles chez un bijoutier.",
-            "Après-midi, visité la cathédrale",
-            "Saint-Étienne et le musée des",
-            "Augustins (cloître charmant).",
-            "Pris le thé dans une pâtisserie",
-            "de la rue Lafayette. Bonheur parfait.",
-            "[ A Toulouse : Bijoutier & divers : 65 f. ]",
+            "2 Vendredi.                                     Février 1917 —",
+            "Tjrs même temps, très froid. —",
+            "Neigé abondamment durant matinée.",
+            "Matin & soir, venu ch. dentiste, M. de Lersay,",
+            "rue La Fayette. Très bien soigné par j. dame,",
+            "opératrice.",
+            "Après-midi, visite à Mme de Labarthe. Puis",
+            "monté ch. Henriette : y retrouvé Margte etc.",
+            "Descendu à pied de Ste-Marie, vers 10h s.",
+            "Froid piquant. Sol durci.",
+            "[ — Ch. Pfister, remontoir or mat Louis XVI",
+            "  105 fr. — Petit anneau pour attacher pendentif",
+            "  à sautoir : free. — 1 boîte pastilles de",
+            "  Chlorate de Potasse : 1 f 30 c. — Trams : 20 c., 10 c",
+            "  Bain, Place Belfort : 1 f — ]",
+            "Quitte à regret Tte, sacrifiant 3 jours entiers",
+            "pour aller à Millau... Aurais préféré rester",
+            "encore ici, afin de jouir + lgts de mon",
+            "appartt, rempli de souvenirs.",
         ],
         "critique": (
-            "\\textbf{l.~11 Bonheur parfait :} Formule laconique qui tranche avec les notations récurrentes "
-            "de « spleen » et de « solitude funèbre » des cahiers du front."
+            "\\textbf{l.~11--13 remontoir or mat Louis XVI 105 fr. — Petit anneau pour attacher pendentif à sautoir : free :} "
+            "L'adjectif anglais \\textit{free} (gratuit) s'immisce jusque dans la facture d'horlogerie toulousaine ! "
+            "\\textbf{l.~16--19 Quitte à regret Tte... :} Oscillation psychologique bien humaine : au moment même de "
+            "quitter son appartement toulousain pour accompagner Marguerite à Millau, un dernier élan d'attachement "
+            "revient sous sa plume."
         ),
         "historique": (
-            "\\textbf{l.~3--11 place du Capitole / rue Saint-Rome / rue Lafayette :} Cet itinéraire parcourt "
-            "les artères élégantes du centre de Toulouse (la rue Lafayette est l'actuelle rue Kennedy / rue "
-            "du Poids-de-l'Huile menant de la place du Capitole à la place Wilson)."
+            "\\textbf{l.~4--5 dentiste, M. de Lersay, rue La Fayette :} Située entre la place du Capitole et les allées "
+            "Lafayette (actuelles allées Jean-Jaurès), la rue Lafayette rassemblait les cabinets médicaux les plus "
+            "réputés de Toulouse."
         ),
     },
     139: {
-        "title": "Chandeleur à Toulouse : dernière journée avant le départ pour Millau",
-        "date": "2 février 1917",
-        "lieu": "Toulouse (Haute-Garonne)",
+        "title": "Voyage de Toulouse à Millau avec Marguerite par Carcassonne et Béziers",
+        "date": "3 février 1917",
+        "lieu": "Toulouse, Carcassonne, Béziers, Bédarieux, Millau (Aveyron)",
         "lines": [
-            "2 Vendredi (Chandeleur) —                       Février 1917",
-            "Matinée, dernière visite au dentiste",
-            "(tout est terminé !) et visites d'adieu",
-            "à quelques vieux amis de ma famille.",
-            "Après-midi, promenade avec Gueïte",
-            "jusqu'au Jardin des Plantes et le",
-            "long du Canal du Midi.",
-            "Bouclé nos valises pour partir",
-            "demain matin ensemble à Millau",
-            "retrouver Valentine et la famille",
-            "Calmels.",
-            "[ Hôtel & restaurant à Toulouse : 48 f. ]",
+            "Sam. 3                                          Févr. /17",
+            "Levé 5h —",
+            "Mis ordre ds mes affaires & caisses.",
+            "A 8h 1/2, ch. Secrète, joaillier, puis ch. dentiste.",
+            "A 10h, quitté maison et rejoint Margte.",
+            "Partis de Ste-Marie, vers 11h 40.",
+            "Oncle m'a accompagné gare.",
+            "Pris express midi 30. 15 m. de retard.",
+            "A Carcassonne, pu embrasser Jean.",
+            "A Béziers, à 4h 1/2. Montés à pied ville",
+            "et visité rapidt cathle. Admiré panorama",
+            "terrasse. Plaine, rivière et soleil couchant.",
+            "Repartis de Béziers à 5h 23, petit train,",
+            "vieux wagons, pas de 2e —",
+            "Délicieuse intimité s/ l'épaule de Mte.",
+            "A 10h 30, à Millau.",
+            "Pierre à la gare nous attendait —",
+            "Impression silence profond en débarquant",
+            "ville natale.",
+            "A la maison de Mte, parents m'ont",
+            "fait accueil très affectueux.",
+            "On m'a donné 1 des + belles chambres,",
+            "au 1er étage — —",
         ],
         "critique": (
-            "\\textbf{l.~2--3 dernière visite au dentiste (tout est terminé !) :} Détail prosaïque mais constant "
-            "dans les carnets de permissionnaires de 1914–1918 : les soins dentaires impossibles au front "
-            "absorbent une part importante des matinées de congé."
+            "\\textbf{l.~15 Délicieuse intimité s/ l'épaule de Mte :} Image pleine de tendresse durant la lente montée "
+            "nocturne du train de Béziers à Millau. \\textbf{l.~18--19 Impression silence profond en débarquant ville "
+            "natale :} Confirmation autographe explicite que Millau est bien la « ville natale » d'Hippolyte Combes "
+            "(né rue des Barris à Millau le 14 août 1876)."
         ),
         "historique": (
-            "\\textbf{l.~8--11 partir demain matin ensemble à Millau :} Le trajet ferroviaire de Toulouse à "
-            "Millau s'effectuait par les lignes de la Compagnie du Midi via Albi/Tournemire-Roquefort ou "
-            "Saint-Sulpice et Bédarieux."
+            "\\textbf{l.~10--23 A Béziers... A la maison de Mte, parents m'ont fait accueil très affectueux :} Le voyage "
+            "s'effectue par la grande ligne de la Compagnie du Midi jusqu'à Béziers (où les fiancés admirent le panorama "
+            "de l'Orb depuis la terrasse de la cathédrale Saint-Nazaire), puis par la ligne des Causses via Bédarieux. "
+            "À Millau, Hippolyte est logé pour la première fois directement dans l'hôtel particulier des parents de sa "
+            "fiancée, le docteur Gabriel Calmels et Valentine Cartairade, au 10 rue Alfred-Guibert."
         ),
     },
     140: {
-        "title": "Voyage de Toulouse à Millau et accueil dans la maison familiale",
-        "date": "3 février 1917",
-        "lieu": "Toulouse, Tournemire, Millau (Aveyron)",
+        "title": "Relevé des dépenses du départ de Toulouse et du voyage par Bédarieux",
+        "date": "3 février 1917 (suite, comptes)",
+        "lieu": "Toulouse, Béziers, Bédarieux, Millau",
         "lines": [
-            "3 Samedi —                                      Février 1917",
-            "Quitté Toulouse à 7h 1/2 m. par",
-            "Saint-Sulpice, Castres et Tournemire.",
-            "Sur les plateaux du Larzac, épaisse",
-            "couche de neige étincelante au soleil.",
-            "Arrivés à Millau vers 2h s. !",
-            "Joie immense de revoir ma chère",
-            "sœur Valentine et toute la famille",
-            "Calmels (M. et Mme Calmels, Marie).",
-            "Dîner de fête le soir : on parle",
-            "longuement de nos projets d'automne.",
+            "Sam. 3 —                                        Févr. /17",
+            "— Dentiste, M. de Lersay, 1 grand nettoyage",
+            "et 3 plombages : 40 f = net : 25 f —",
+            "— Broche A.P.C. : 3 f",
+            "— Trams à Toulouse : 20 c., + 20 c",
+            "— Enregt bagages de Margte : 10 c",
+            "— Étrennes à Marie : 5 f —",
+            "— Supplément pour m'être déclassé en 2e : 1 f",
+            "— Billet 1/4 pl. Béziers – Millau : 1 f 80",
+            "— Buffet de Bédarieux : 6 f 75 + 25 c",
         ],
         "critique": (
-            "\\textbf{l.~7--9 ma chère sœur Valentine / famille Calmels :} Ce séjour commun à Millau officialise "
-            "auprès des deux familles (Combes et Calmels) la réconciliation scellée à Toulouse et fixe le "
-            "calendrier du mariage d'octobre 1917."
+            "\\textbf{l.~2--3 1 grand nettoyage et 3 plombages : 40 f = net : 25 f :} Remise confraternelle ou militaire "
+            "accordée par le chirurgien-dentiste M. de Lersay, ramenant les honoraires de 40 à 25 francs. \\textbf{l.~6 "
+            "Enregt bagages de Margte : 10 c :} Signe concret de leur statut de fiancés officiels voyageant désormais "
+            "ensemble."
         ),
         "historique": (
-            "\\textbf{l.~8--9 M. et Mme Calmels, Marie :} Gabriel Calmels (1852–1921), son épouse Valentine "
-            "Cartairade (1858–1943) et leur fille Marie Calmels, dont les portraits sont conservés dans les "
-            "archives familiales (\\texttt{Gabriel\\_Calmels.jpg}, \\texttt{Valentine\\_Cartairade.jpg}, "
-            "\\texttt{MarieCalmels.jpg})."
+            "\\textbf{l.~9--10 Billet 1/4 pl. Béziers – Millau : 1 f 80 / Buffet de Bédarieux : 6 f 75 + 25 c :} Arrêt "
+            "dîner au buffet de la gare de bifurcation de Bédarieux (Hérault) avant l'ascension ferroviaire des monts "
+            "d'Orb et du Larzac."
         ),
     },
     141: {
-        "title": "Dimanche en famille à Millau : messe à Notre-Dame et promenade au Tarn",
-        "date": "4 février 1917",
-        "lieu": "Millau (Aveyron)",
+        "title": "Nuit d'émotion et de larmes à Millau au souvenir de ses parents et de ses sœurs",
+        "date": "4 février 1917 (nuit et matin)",
+        "lieu": "Millau (10 rue Alfred-Guibert, Aveyron)",
         "lines": [
-            "4 Dimanche —                                    Février 1917",
-            "Froid très vif à Millau, mais ciel",
-            "d'une pureté admirable au-dessus",
-            "du Causse Noir et du Pouncho d'Agast.",
-            "Matinée, grand'messe à Notre-Dame",
-            "de l'Espinasse avec Gueïte et Val.",
-            "Déjeuner de famille rue Droite /",
-            "Boulevard de l'Ayrolle.",
-            "Après-midi, promenade au bord du",
-            "Tarn et de la Dourbie jusqu'au",
-            "Pont-Lerouge. Heures trop brèves",
-            "qui s'envolent comme un rêve !",
+            "Dim. 4                                          Févr. /17",
+            "Monté ds ma chambre hier soir vers 11h 1/4.",
+            "Avant d'éteindre bougie, ouvert volet de fer et",
+            "regardé paysage. 1 peu à droite, et tout en",
+            "haut, pleine lune vif éclat",
+            "au ciel, qq étoiles.",
+            "Silence impressionnant vallon natal.",
+            "Couché depuis 1/2 h., quand souvenirs venus",
+            "en foule et obsédé. Pensé à Papa,",
+            "Maman, Sœurs — que j'ai tant aimés.",
+            "Peu à peu, gagné par l'émotion, et",
+            "sangloté.",
+            "Insomnie. Écouté sonner les heures au",
+            "petit cadran cuivre posé sur la cheminée",
+            "et, chambre voisine, Germaine tousser.",
+            "Pu reposer un peu sur le matin.",
+            "Levé vers 7h.",
+            "Impressions confort, bien-être, calme.",
+            "Déjeuné av. Margte.",
+            "Mte m'a laissé vers 11h pour aller à",
+            "la messe. Alors monté chambre. Rêvé",
+            "à mon aise. Soleil rendait appartt",
         ],
         "critique": (
-            "\\textbf{l.~11--12 Heures trop brèves qui s'envolent comme un rêve ! :} Même sentiment d'accélération "
-            "tragique du temps qu'à la fin de la première permission d'octobre 1916 (voir Document 60, "
-            "« L'Arrachement du Départ »)."
+            "\\textbf{l.~7--12 Silence impressionnant vallon natal... Pensé à Papa, Maman, Sœurs — que j'ai tant aimés. "
+            "Peu à peu, gagné par l'émotion, et sangloté :} Page la plus intime et la plus émouvante de tout le "
+            "\\textit{Livre-Journal}. De retour dans le « vallon natal » de Millau, au moment de fonder un nouveau foyer "
+            "chez les Calmels, l'orphelin de quarante ans pleure dans le silence nocturne son père François-Hippolyte "
+            "Combes († 1899), sa mère Marie-Anaïs Alric († 1907) et ses sœurs Maria († 1903) et Joséphine († 1914)."
         ),
         "historique": (
-            "\\textbf{l.~4--6 Pouncho d'Agast / Notre-Dame de l'Espinasse :} Le Pouncho d'Agast est l'éperon "
-            "calcaire du Causse Noir qui domine Millau à l'est ; l'église Notre-Dame de l'Espinasse est la "
-            "paroisse historique des familles Combes et Calmels où sera béni leur mariage le 25 octobre 1917."
+            "\\textbf{l.~18--22 Déjeuné av. Margte... Soleil rendait appartt :} La phrase se poursuit sans ponctuation "
+            "finale au sommet du folio suivant (« plus clair \\& plus gai », Scan \\#142)."
         ),
     },
     142: {
-        "title": "Dernière journée à Millau et déchirement des adieux",
-        "date": "5 février 1917 (matin et après-midi)",
+        "title": "Après-midi musical avec Marguerite, visite aux Spagnol et cloches de Millau",
+        "date": "4 février 1917 (suite)",
         "lieu": "Millau (Aveyron)",
         "lines": [
-            "5 Lundi —                                       Février 1917",
-            "Dernière journée à Millau !",
-            "Matinée passée dans notre chère",
-            "maison familiale avec Valentine",
-            "à régler quelques affaires d'intérêt",
-            "et à revoir nos vieux souvenirs.",
-            "Après-midi, dernière promenade avec",
-            "Gueïte sur le boulevard de la",
-            "Capelle et au parc de la Victoire.",
-            "Nos cœurs sont bien gros à la",
-            "pensée de la séparation de ce soir,",
-            "mais pleins de confiance.",
+            "Dim. 4 (suite)                                  Fév. /17",
+            "plus clair & plus gai.",
+            "Tout l'après-midi, av. Mte. Elle m'a",
+            "joué qq morceaux et chanté 1 peu.",
+            "A 6h 15, cédant aux instances de tous,",
+            "visite à l'oncle & tante Thérèse (Spagnol).",
+            "Temps très sec. Rue déserte.",
+            "Après dîner, prolongé causerie j'à",
+            "11h 30 — av. Mimi, arrivée train 6h.",
+            "Ds ma chambre, à 11h 40.",
+            "Ciel nuageux. Nuit très froide.",
+            "Ce matin, en m'éveillant, charmé",
+            "par sonneries cloches, églises et",
+            "chapelles ville —",
+            "(Cf. Journal, feuille spéciale)",
         ],
         "critique": (
-            "\\textbf{l.~3--4 notre chère maison familiale :} Il s'agit de la maison Combes à Millau "
-            "(photographiée dans \\texttt{Maison\\_Combes\\_Millau.jpg}), demeure ancestrale issue de "
-            "l'ébéniste François Combes et de l'avocat Hippolyte I\\textsuperscript{er} Combes (1825–1899)."
+            "\\textbf{l.~15 (Cf. Journal, feuille spéciale) :} Renvoi autographe capital entre parenthèses au bas de "
+            "la page ! Il prouve qu'Hippolyte Combes rédigeait parallèlement, lors des moments les plus intenses de sa "
+            "vie intime (comme déjà en octobre 1916 lors de sa première permission à Millau, conservée dans les « Documents "
+            "54 à 60 » du fonds familial), des feuillets séparés d'analyse psychologique plus développée."
         ),
         "historique": (
-            "\\textbf{l.~4--5 avec Valentine à régler quelques affaires d'intérêt :} Depuis le décès de leurs "
-            "parents (1899 et 1907) et de leur sœur Joséphine (1914), Hippolyte et sa sœur Valentine gèrent "
-            "en indivision le patrimoine immobilier familial de Millau et de Saint-Alban."
+            "\\textbf{l.~3--4 Elle m'a joué qq morceaux et chanté 1 peu :} Excellente musicienne, Marguerite Calmels "
+            "jouait du piano dans le salon du 10 rue Alfred-Guibert. \\textbf{l.~9 Mimi :} Surnom familial d'Anne-Marie "
+            "Calmels, sœur de Marguerite."
         ),
     },
     143: {
-        "title": "Départ de Millau de nuit par la ligne des Causses et l'Auvergne",
-        "date": "5 (soir) – 6 février 1917 (matin)",
-        "lieu": "Millau, Séverac, Neussargues, Saint-Flour, Arvant",
+        "title": "Recueillement au cimetière de Millau avec Marguerite, adieux déchirants et arrivée à Saint-Flour",
+        "date": "5 février 1917",
+        "lieu": "Millau, Séverac, Marvejols, Saint-Flour (Aveyron / Lozère / Cantal)",
         "lines": [
-            "5 Lundi (soir) —                                Février 1917",
-            "Dîner d'adieu chez les Calmels.",
-            "Accompagné à la gare de Millau par",
-            "Gueïte et Valentine. Adieux bien",
-            "émouvants sur le quai glacé...",
-            "Pris le train de 8h 40 s. vers le Nord.",
-            "6 Mardi. — Nuit terrible dans le",
-            "train à travers la Lozère et le",
-            "Cantal (Marvejols, Saint-Flour,",
-            "Neussargues, Brioude, Arvant) :",
-            "-18° dehors, vitres couvertes d'un",
-            "pouce de glace, pieds gelés !",
+            "Lundi 5                                         Févr. /17",
+            "Sur pied 6h —",
+            "Me suis complu rêver gd chambre.",
+            "Après déjeuner, sorti av. Mte et ts 2",
+            "seuls venus cimetière — —",
+            "Pris renseignements gare. Décidé ne partir",
+            "qu'à 5h 30 s. soir.",
+            "Terminé journée + douce intimité.",
+            "Quitté maison vers 5h s. Adieux, déchirants.",
+            "Pierre m'attendait devant gare.",
+            "Train venant Béziers, long retard.",
+            "Enfin, installé compartiment 2e cl.",
+            "et départ 6h 15. —",
+            "Arrêt à ttes les stations.",
+            "Neige partout.",
+            "Arrivé Saint-Flour à minuit 30 s.",
+            "[ — Remboursé à Mte cadeaux enfants Uncins : 6 f",
+            "  Gift à la bonne de Mte : 3 f — ]",
         ],
         "critique": (
-            "\\textbf{l.~7--12 Nuit terrible dans le train / -18° dehors :} Contraste brutal entre la chaleur "
-            "du foyer millavois et la traversée nocturne du Massif central sur la ligne des Causses à plus de "
-            "1 000 mètres d'altitude."
+            "\\textbf{l.~4--5 sorti av. Mte et ts 2 seuls venus cimetière — — :} Démarche hautement symbolique : avant "
+            "de repartir pour le front, Hippolyte conduit sa fiancée seule avec lui au cimetière de Millau sur le caveau "
+            "de la famille Combes-Alric pour sceller leurs fiançailles devant ses morts. \\textbf{l.~18 Gift à la bonne "
+            "de Mte : 3 f :} Emprunt anglais (\\textit{gift}, étrenne)."
         ),
         "historique": (
-            "\\textbf{l.~9--10 Marvejols, Saint-Flour, Neussargues, Brioude, Arvant :} Tracé célèbre de la "
-            "« ligne des Causses » (Béziers–Millau–Neussargues) franchissant le col de la Fageole (1 114 m) "
-            "avant de rejoindre la ligne des Cévennes et Clermont-Ferrand à Arvant."
+            "\\textbf{l.~13--16 départ 6h 15... Arrivé Saint-Flour à minuit 30 s. :} Pour remonter de Millau vers Paris, "
+            "le train emprunte la ligne des Causses par Séverac-le-Château et Marvejols jusqu'aux hauts plateaux enneigés "
+            "de la Margeride et de la Planèze de Saint-Flour (Cantal), où la correspondance nocturne est interrompue."
         ),
     },
     144: {
-        "title": "Traversée de l'Auvergne et du Bourbonnais sous la neige",
-        "date": "6 février 1917 (journée)",
-        "lieu": "Clermont-Ferrand, Saint-Germain-des-Fossés, Moulins, Nevers",
+        "title": "Nuit glaciale en gare de Saint-Flour et traversée de l'Auvergne sous les flocons",
+        "date": "6 février 1917 (matin et après-midi)",
+        "lieu": "Saint-Flour, Brioude, Clermont-Ferrand, Gannat, Gien, Montargis",
         "lines": [
-            "6 Mardi (suite) —                               Février 1917",
-            "Au petit jour, descendu la vallée",
-            "de l'Allier par Issoire et Clermont-",
-            "Ferrand. Toute la Limagne et les",
-            "dômes d'Auvergne sont ensevelis",
-            "sous un linceul de neige éblouissant.",
-            "A Saint-Germain-des-Fossés, bu un",
-            "café bouillant au buffet de la gare",
-            "pour me dégourdir les membres.",
-            "Train a plus de 3 heures de retard",
-            "à cause des aiguillages gelés.",
-            "Remonté par Moulins, Nevers et Montargis.",
+            "Mardi 6.                                        Février 1917",
+            "Nuit extt froide. Temps très dur.",
+            "D'abord salle d'attente, allongé banquette, puis",
+            "compartiment 1re cl. train sur voie. Pieds gelés.",
+            "Partis enfin 5h 20. 15 m. de retard. En 2e cl.",
+            "Voyagé av. qq permissionnaires et dames.",
+            "Champs couverts neige.",
+            "A 7h 30, à Brioude. Correspce, gd retard.",
+            "Voies, épaisse couche de neige.",
+            "Quitté Brioude à 8h 30. Enfin dans un",
+            "grand train P.L.M., express.",
+            "Clermont, à 10h.",
+            "Gannat, 11h.",
+            "Ciel bas & mat, se confondant à",
+            "l'horizon proche avec campagne feutrée de",
+            "blanc. Flocons serrés et menus tombent sans",
+            "discontinuer, voilant l'atmosphère.",
+            "Roulé tout le jour.",
+            "A Gien, 3h 45. Montargis, 4h 20.",
         ],
         "critique": (
-            "\\textbf{l.~4--6 linceul de neige éblouissant :} L'image funèbre (« linceul ») associée à l'éclat "
-            "solaire traduit l'état d'esprit mélancolique du permissionnaire que chaque tour de roue rapproche "
-            "du front."
+            "\\textbf{l.~14--17 Ciel bas \\& mat, se confondant à l'horizon proche avec campagne feutrée de blanc. Flocons "
+            "serrés et menus tombent sans discontinuer, voilant l'atmosphère :} Admirable tableau d'hiver observé à "
+            "travers la vitre du train express entre le Bourbonnais et le Gâtinais."
         ),
         "historique": (
-            "\\textbf{l.~10--11 3 heures de retard à cause des aiguillages gelés :} En février 1917, le gel "
-            "exceptionnel perturba gravement le réseau du P.-L.-M. et du P.-O., figeant les châteaux d'eau "
-            "alimentant les locomotives à vapeur."
+            "\\textbf{l.~8--19 A 7h 30, à Brioude... Quitté Brioude à 8h 30. Enfin dans un grand train P.L.M., express :} "
+            "Après la ligne de montagne de la Compagnie du Midi (Millau–Neussargues) et le tronçon d'Arvant/Brioude, le "
+            "voyageur rejoint sur la grande artère du P.-L.-M. (Paris–Lyon–Méditerranée par le Bourbonnais) l'express "
+            "de Clermont-Ferrand à Paris-Gare de Lyon via Gannat, Moulins, Nevers, Gien et Montargis."
         ),
     },
     145: {
-        "title": "Arrivée nocturne à Paris et départ matinal pour Amiens",
-        "date": "6 (soir) – 7 février 1917 (matin)",
-        "lieu": "Paris (Gare de Lyon, Gare du Nord), Amiens",
+        "title": "Traversée de Paris en métro de la gare de Lyon à la gare du Nord et train de nuit vers Amiens",
+        "date": "6 février 1917 (suite, soir)",
+        "lieu": "Corbeil-Essonnes, Paris (Gare de Lyon, Bastille, Gare du Nord)",
         "lines": [
-            "6 Mardi (fin) —                                 Février 1917",
-            "Arrivé enfin à Paris (gare de Lyon)",
-            "vers 9h 1/2 s., brisé de fatigue.",
-            "Traversé Paris glacé en métro jusqu'aux",
-            "environs de la gare du Nord où j'ai",
-            "pris une chambre d'hôtel pour qq heures.",
-            "7 Mercredi. — Levé dès 6h m. Pris",
-            "le train militaire de 7h 15 à la",
-            "gare du Nord pour Amiens.",
-            "Arrivé à Amiens à 11h. Déjeuné au",
-            "Y.M.C.A. et repris le train d'Acheux.",
+            "Mardi 6 (suite)                                 Févr. /17",
+            "A mesure que ns remontons vers Paris, bcp",
+            "moins de neige. Sol durci par fortes gelées.",
+            "Après-midi, soleil brillé un peu. Rayons de +",
+            "en + faibles.",
+            "Nuit s'annonce très froide.",
+            "Corbeil-Essonnes, 5h 50 s. L'obscurité va",
+            "augmentant très vite.",
+            "A Paris, vers 6h 30 s. —",
+            "Pris métro gare Lyon, changé à Bastille,",
+            "et arrivé gare Nord assez à temps pour",
+            "prendre train 7h 19. En 1re cl., avec type de",
+            "soldats, fort curieux à observer et",
+            "écouter.",
+            "Roulé toute la nuit.",
+            "[ — Brioude, buffet, rhum : 60 c ]",
         ],
         "critique": (
-            "\\textbf{l.~1--11 Arrivé enfin à Paris / train d'Acheux :} Fin du récit de voyage de la seconde "
-            "permission ; les dépenses correspondantes (« train & Paris, métro : 1 f. ; Amiens, Y.M.C.A. : "
-            "1 f. 15 c. ») seront récapitulées au Scan \\#148."
+            "\\textbf{l.~10--12 Pris métro gare Lyon, changé à Bastille, et arrivé gare Nord assez à temps pour prendre "
+            "train 7h 19 :} En quarante-neuf minutes à peine, avec ses bagages, Hippolyte Combes réussit la jonction "
+            "entre la gare de Lyon et la gare du Nord via la ligne 1 et la ligne 5 du métropolitain parisien."
         ),
         "historique": (
-            "\\textbf{l.~7--9 train militaire de 7h 15 à la gare du Nord :} Train régulateur quotidien réservé "
-            "aux officiers et permissionnaires rejoignant les gares de rassemblement de la B.E.F. à Amiens "
-            "et Abbeville."
+            "\\textbf{l.~16 Brioude, buffet, rhum : 60 c :} Unique dépense de la journée, prise à 8 heures du matin au "
+            "buffet de la gare de Brioude pour se réchauffer après la nuit glaciale de Saint-Flour."
         ),
     },
     146: {
-        "title": "Arrivée à la gare de Varennes et retour glacial à Acheux",
-        "date": "7 février 1917 (début d'après-midi)",
-        "lieu": "Varennes, Acheux-en-Amiénois (Somme)",
+        "title": "Nuit glaciale à Amiens, combat aérien contre deux Taubes à Louvencourt et retour chez les Carluvant",
+        "date": "7 février 1917 (nuit et matin)",
+        "lieu": "Amiens, Doullens, Louvencourt, Acheux-en-Amiénois (Somme)",
         "lines": [
-            "7 Mercredi (suite) —                            Février 1917",
-            "Descendu du train à Varennes à",
-            "2h 1/2 s. Pas de voiture à la gare !",
-            "Dû faire la route à pied jusqu'à",
-            "Acheux avec ma valise sous une",
-            "bise glaciale qui brûle la figure.",
-            "Toute la campagne de la Somme est",
-            "figée sous la neige durcie et le",
-            "verglas. Arrivé à Acheux à 3h 1/2 :",
-            "surprise complète en arrivant à",
-            "notre bureau...",
+            "Merc. 7 —                                       Février 1917",
+            "Voyagé compartiment surchauffé. Très serré.",
+            "Impossible de fermer yeux. Froid de +",
+            "en + vif. Gelé très dur.",
+            "A minuit 30, à Amiens.",
+            "Venu à Y.M.C.A. hut, où me suis reposé",
+            "1 h. et mangé un peu.",
+            "Resté 2 h. salle d'attente gare, absolt bondée.",
+            "Enfin parti train de Doullens 6h 7 m.",
+            "Train, lenteur désespérante. Arrêts",
+            "prolongés à toutes les stations.",
+            "Peu à peu soleil se lève, très brillant.",
+            "Ciel d'1 bleu foncé, pâle à l'horizon.",
+            "En gare de Louvencourt, 2 taubes,",
+            "plané, évolué ciel bleu, juste au-",
+            "dessus voie. Obus éclataient tout autour",
+            "de ces avions et taches blanches.",
+            "Arrivé à Acheux, vers 1h 1/2 s.",
+            "Me suis rendu à pied ancien billet.",
+            "M. & Mme Carluvant m'ont offert déjeuner",
+            "sommaire.",
+            "Après m'être rasé, lavé, brossé, sorti.",
         ],
         "critique": (
-            "\\textbf{l.~10--11 surprise complète en arrivant à notre bureau... :} Effet de suspense narratif "
-            "au bas de la page : le folio suivant (Scan \\#147, « Merc. 7 (suite) ») raconte comment Mme Delille "
-            "l'interpelle pour lui apprendre que le capitaine Williams a déjà quitté Acheux pour Hérissart !"
+            "\\textbf{l.~18--22 Arrivé à Acheux, vers 1h 1/2 s... Après m'être rasé, lavé, brossé, sorti :} Cette "
+            "dernière ligne du Folio 73 recto s'enchaîne directement et sans la moindre solution de continuité avec "
+            "la première ligne du Folio 73 verso (Scan \\#147 : « Merc. 7 (suite) / En me rendant à notre office, "
+            "Mme Delille, qui sur le seuil, m'a appelé et m'a appris que Cap. Williams a quitté Acheux pour Hérissart »)."
         ),
         "historique": (
-            "\\textbf{l.~2--4 Varennes / route à pied jusqu'à Acheux :} Les 3,5 km séparant la gare régulatrice "
-            "de Varennes du bourg d'Acheux-en-Amiénois s'étendent sur un plateau totalement découvert."
+            "\\textbf{l.~14--17 En gare de Louvencourt, 2 taubes, plané, évolué ciel bleu, juste au-dessus voie. Obus "
+            "éclataient tout autour de ces avions et taches blanches :} Profitant du ciel pur de l'anticyclone hivernal "
+            "du 7 février 1917, les avions de reconnaissance allemands (désignés génériquement par les soldats alliés "
+            "sous le nom de \\textit{Taubes}) survolent la voie ferrée stratégique de Doullens à Albert sous le tir des "
+            "batteries antiaériennes britanniques (formant des flocons de fumée blanche dans l'azur)."
         ),
     },
     147: {

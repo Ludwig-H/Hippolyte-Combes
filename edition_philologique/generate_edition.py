@@ -74,18 +74,19 @@ CHAPTERS = [
         "summary": (
             "Ce premier chapitre s'ouvre sur la couverture du \\textit{Livre-Journal} (Scan \\#001) et suit Hippolyte Combes "
             "du 25 juillet au 17 août 1916 (Folios 1r à 9r, Scans \\#002 à \\#018), alors qu'il sert comme interprète "
-            "stagiaire auprès du 1\\textsuperscript{er} bataillon des \\textit{Irish Guards}. Après une ultime étape à Lucheux "
+            "militaire auprès du 1\\textsuperscript{er} bataillon des \\textit{Irish Guards}. Après une ultime étape à Lucheux "
             "(Somme), l'unité remonte par Saint-Pol-sur-Ternoise vers la Flandre française et belge : cantonnement au "
             "pensionnat protestant abandonné d'\\textit{Ebenezer} près de Pradelles, marche vers l'abbaye trappiste du "
             "Mont-des-Cats et Poperinghe, puis séjour prolongé à Bailleul et au hameau de La Crèche (Steenwerck)."
         ),
         "intro": (
-            "Lorsqu'il ouvre ce carnet à Lucheux le mardi 25 juillet 1916, Hippolyte Combes (né à La Valette le 29 septembre "
-            "1876, licencié en droit, ancien sous-chef de gare à la Compagnie du Midi et clerc d'avoué à Paris) approche de "
-            "ses quarante ans. Passé du 10\\textsuperscript{e} régiment d'artillerie à pied de Toulon au corps des interprètes "
-            "militaires de réserve en novembre 1915 grâce à sa maîtrise de l'anglais acquise jadis à Folkestone, il partage "
-            "depuis décembre 1915 le quotidien aristocratique et exigeant des officiers du 1\\textsuperscript{er} bataillon "
-            "des \\textit{Irish Guards} (\\textit{1st Guards Brigade, Guards Division}).\n\n"
+            "Lorsqu'il ouvre ce carnet à Lucheux le mardi 25 juillet 1916, Marie Lucien Hippolyte Combes (né à Millau le "
+            "14 août 1876, licencié en droit et ès lettres, ancien sous-chef de gare à Brive-la-Gaillarde, résident quatre "
+            "ans à Nottingham puis professeur d'anglais aux collèges de Corte, Blaye et Nogent-le-Rotrou) approche de "
+            "ses quarante ans. Passé du 10\\textsuperscript{e} régiment d'artillerie à pied de Toulon à la Mission militaire "
+            "française attachée à l'Armée britannique le 4 mai 1915, il partage alors le quotidien aristocratique et exigeant "
+            "des officiers du 1\\textsuperscript{er} bataillon des \\textit{Irish Guards} (\\textit{1st Guards Brigade, "
+            "Guards Division}).\n\n"
             "Les dix-huit premiers clichés révèlent d'emblée la tension constitutive du \\textit{Livre-Journal}. D'un côté, "
             "l'interprète accomplit un travail incessant de \\textit{billeting} (préparation des cantonnements pour trente à "
             "quarante officiers, négociation des lits et des pâtures auprès des maires et des fermiers flamands, règlement "
@@ -96,7 +97,7 @@ CHAPTERS = [
         ),
         "illustrations": [
             ("illustrations/hippolyte_interprete_1.jpg", "Hippolyte Combes en uniforme d'interprète militaire attaché à l'Armée britannique (képi à bandeau et insignes de col au sphinx). Collection familiale Combes.", "0.44\\textwidth"),
-            ("illustrations/toulon_artillerie_1915.jpg", "Hippolyte Combes au 10\\textsuperscript{e} régiment d'artillerie à pied à Toulon en 1915, avant son admission au corps des interprètes.", "0.44\\textwidth"),
+            ("illustrations/toulon_artillerie_1915.jpg", "Hippolyte Combes au 10\\textsuperscript{e} régiment d'artillerie à pied à Toulon (Saint-Jean-du-Var) au printemps 1915.", "0.44\\textwidth"),
         ],
     },
     {
@@ -109,8 +110,8 @@ CHAPTERS = [
             "Ce deuxième chapitre (Folios 9v à 23v, Scans \\#019 à \\#049) retrace le basculement majeur de la fin de l'été 1916. "
             "Après une tournée dans Armentières bombardée et la vallée de la Lys (Estaires, Steenwerck), Hippolyte Combes descend "
             "en train vers l'Artois (Marquay, Bailleul-aux-Cornailles, Saint-Pol-sur-Ternoise). Affecté début septembre 1916 "
-            "à une unité logistique du Train britannique — la \\textit{152nd Company, Army Service Corps} — commandée par le "
-            "capitaine Williams (« Capt. W. »), il rejoint le secteur nord de la bataille de la Somme (Raincheval, Acheux-en-Amiénois, "
+            "à une unité logistique du Train de la 18\\textsuperscript{e} Division britannique — la \\textit{152nd Company, "
+            "Army Service Corps} —, il rejoint le secteur nord de la bataille de la Somme (Raincheval, Acheux-en-Amiénois, "
             "Léalvillers, Forceville), où il assure le ravitaillement en fourrages (\\textit{green forage}) tout en attendant sa permission."
         ),
         "intro": (
@@ -127,13 +128,13 @@ CHAPTERS = [
         ),
         "illustrations": [
             ("illustrations/hippolyte_interprete_2.jpg", "Portrait en buste d'Hippolyte Combes sur le front britannique (1916--1917), portant les insignes métalliques d'interprète détaché auprès de la B.E.F.", "0.42\\textwidth"),
-            ("illustrations/hippolyte_1897.jpg", "Hippolyte Combes jeune homme en 1897 (à l'âge de vingt et un ans), étudiant en droit et futur stagiaire en Angleterre.", "0.42\\textwidth"),
+            ("illustrations/hippolyte_1897.jpg", "Hippolyte Combes jeune homme en 1897 (à l'âge de vingt et un ans), étudiant à Toulouse avant son séjour de quatre ans à Nottingham.", "0.42\\textwidth"),
         ],
     },
     {
         "num": "III",
         "title": "La première permission : d'Acheux-Varennes à Paris et au Midi",
-        "subtitle": "Forceville, gare d'Acheux-Varennes, Amiens, Paris, le voyage vers Toulouse et le retour en Picardie (25 septembre – 6 octobre 1916)",
+        "subtitle": "Forceville, gare d'Acheux-Varennes, Amiens, Paris, Neuilly, Toulouse, Millau et le retour en Picardie (25 septembre – 6 octobre 1916)",
         "scan_start": 50,
         "scan_end": 66,
         "summary": (
@@ -141,9 +142,9 @@ CHAPTERS = [
             "carnet : le récit intégral de la première permission d'Hippolyte Combes (25 septembre – 6 octobre 1916). "
             "Il s'ouvre sur le Folio 24 recto (Scan \\#050, restitué pour la première fois dans la présente édition), qui "
             "décrit le réveil à 4 h du matin le 25 septembre, la dernière corvée de \\textit{green forage} à Forceville et "
-            "l'attente au \\textit{railhead} d'Acheux-Varennes. Après une escale à Paris (26 septembre), Hippolyte séjourne "
-            "dans le Midi (Toulouse, 27 septembre – 4 octobre, où il fête son 40\\textsuperscript{e} anniversaire le 29 septembre), "
-            "avant le voyage de retour par Paris et Amiens vers le hameau de Barlette près de Bernaville (Scans \\#063–\\#066)."
+            "l'attente au \\textit{railhead} d'Acheux-Varennes. Après une escale à Paris et Neuilly (26 septembre), Hippolyte "
+            "séjourne à Toulouse (27–28 septembre) puis à Millau auprès de Marguerite Calmels (29 septembre – 3 octobre), "
+            "avant le voyage de retour par Toulouse, Paris et Amiens vers le hameau de Barlette près de Bernaville (Scans \\#063–\\#066)."
         ),
         "intro": (
             "L'intérêt philologique et documentaire de ce troisième chapitre est double. Sur le plan codicologique, l'examen "
@@ -153,68 +154,76 @@ CHAPTERS = [
             "dépouillement ; 2° le rétablissement de l'ordre exact entre les clichés \\texttt{20251126\\_103538.jpg} (Scan \\#063, "
             "5 octobre 1916) et \\texttt{20251126\\_103554.jpg} (Scan \\#064, nuit du 4 au 5 octobre 1916).\n\n"
             "Sur le plan biographique, ces pages offrent un tableau saisissant du contraste entre la boue de la Somme et "
-            "la douceur de l'arrière méridional à l'automne 1916 : flâneries sous le soleil de Toulouse, visites aux parents "
-            "et amis (les Crouzet, l'oncle Paulin), lectures de Verlaine, emplettes à Paris, mais aussi mélancolie poignante "
-            "de l'arrachement au soir du 4 octobre."
+            "la douceur de l'arrière méridional à l'automne 1916 : visite à sa cousine Mme Faure à Neuilly, liquidation "
+            "partielle de ses souvenirs d'étudiant à Toulouse, journées d'intimité avec Marguerite à Millau, mais aussi "
+            "mélancolie poignante de l'arrachement au départ du 4 octobre."
         ),
         "illustrations": [
-            ("illustrations/marguerite_1917.jpg", "Marguerite Calmels (1891--1986), photographiée par le studio Jublin à Millau à l'époque de ses fiançailles avec Hippolyte Combes.", "0.42\\textwidth"),
-            ("illustrations/maison_millau.jpg", "La demeure familiale de Millau (Aveyron), lieu de rassemblement des familles Combes et Calmels.", "0.46\\textwidth"),
+            ("illustrations/marguerite_1917.jpg", "Marguerite Calmels (1892--1986), photographiée par le studio Jublin à Millau à l'époque de ses fiançailles avec Hippolyte Combes.", "0.42\\textwidth"),
+            ("illustrations/maison_millau.jpg", "La demeure familiale de Millau (Aveyron), berceau de la famille Combes.", "0.46\\textwidth"),
         ],
     },
     {
         "num": "IV",
-        "title": "L'automne en Picardie et en Artois : des bois de Ribeaucourt à Acheux",
-        "subtitle": "Barlette, Ribeaucourt, Bernaville, Beauval, Bailleulmont, Couturelle, l'incident d'Humbercamps et le cantonnement d'Acheux (7 octobre – 14 décembre 1916)",
+        "title": "L'automne dans la Somme : de Ribeaucourt au bivouac d'Albert et au XIIIe Corps à Acheux",
+        "subtitle": "Barlette, Ribeaucourt, Bernaville, Beauval, Warloy-Baillon, Albert (Brickfield Area), La Boisselle et le détachement à Acheux (7 octobre – 30 novembre 1916)",
         "scan_start": 67,
-        "scan_end": 106,
+        "scan_end": 104,
         "summary": (
-            "Ce quatrième chapitre (Folios 33v à 53r, Scans \\#067 à \\#106) couvre plus de deux mois de campagne d'automne "
-            "(7 octobre – 14 décembre 1916) au sein de la \\textit{152nd Company A.S.C.} De retour de permission au hameau "
-            "de Barlette (Ribeaucourt) près de Bernaville (7–14 octobre), Hippolyte gagne Beauval (15–23 octobre), puis "
-            "remonte en Artois à Bailleulmont, Couturelle et Humbercamps (24 octobre – 8 novembre), où il instruit sur place "
-            "l'enquête contradictoire sur les dégâts du 3 novembre, avant de redescendre dans la Somme à Acheux-en-Amiénois, "
-            "Varennes, Léalvillers et Bertrancourt (9 novembre – 14 décembre 1916)."
+            "Ce quatrième chapitre (Scans \\#067 à \\#104) couvre près de deux mois de campagne d'automne (7 octobre – "
+            "30 novembre 1916) au cœur de la bataille de la Somme. De retour de permission au hameau de Barlette (Ribeaucourt) "
+            "près de Bernaville (7–14 octobre), Hippolyte gagne Beauval (15 octobre) et Warloy-Baillon (16–17 octobre), puis "
+            "bivouaque pendant deux semaines aux portes mêmes d'Albert (\\textit{Brickfield Area}, 18 octobre – 1\\textsuperscript{er} "
+            "novembre), visitant la basilique mutilée, le grand cratère et les abris souterrains allemands de La Boisselle "
+            "ainsi que le cimetière dévasté le jour de la Toussaint. Le 2 novembre 1916, sur ordre signé du colonel Grose, "
+            "il est détaché à Acheux-en-Amiénois avec le lieutenant Curtis auprès du XIII\\textsuperscript{e} Corps britannique, "
+            "assistant aux bombardements et aux convois de blessés et de prisonniers de la bataille de Beaumont-Hamel et de "
+            "Beaucourt-sur-l'Ancre (13–18 novembre 1916)."
         ),
         "intro": (
-            "Entre le début d'octobre et la mi-décembre 1916, le journal d'Hippolyte Combes devient la chronique minutieuse "
-            "de la guerre logistique dans la boue de Picardie et d'Artois. Aux côtés du capitaine Panton, du capitaine Williams "
-            "et du lieutenant Curtis, l'interprète sillonne à cheval, en fourgon \\textit{limber G.S.} ou en automobile les "
-            "villages de l'arrière-front (Prouville, Bernaville, Beauval, Pas-en-Artois, Humbercamps, Saulty, Louvencourt, "
-            "Toutencourt) pour acheter luzerne et paille d'avoine, répartir les granges et instruire les réclamations agricoles.\n\n"
-            "C'est durant le séjour à Couturelle et Humbercamps (3–6 novembre 1916, Scans \\#083–\\#086) que survient un épisode "
-            "emblématique : la plainte du maire d'Humbercamps accusant les soldats anglais d'avoir démoli une cloison et brûlé "
-            "des planches. La minute autographe du rapport en anglais rédigé par Hippolyte Combes le 5 novembre 1916, conservée "
-            "dans les archives familiales et éditée en Annexe I (Document 3), recoupe mot pour mot les entrées du carnet."
+            "Entre le début d'octobre et la fin de novembre 1916, le journal d'Hippolyte Combes offre un témoignage de premier "
+            "ordre sur la phase finale de l'offensive britannique de la Somme. Au camp de Bouzincourt puis au \\textit{Brickfield "
+            "Area} d'Albert (Scans \\#077 à \\#089), l'interprète vit au rythme du duel d'artillerie formidable qui fait trembler "
+            "vitres et portes jour et nuit, contemple la « Vierge penchée » au sommet du clocher de briques rouges et médite "
+            "devant les tombes éventrées du cimetière d'Albert et les croix blanches des soldats anglais \\textit{killed in action}.\n\n"
+            "Son détachement à Acheux-en-Amiénois le 2 novembre 1916 (Scan \\#090), où il s'installe le 5 novembre dans une "
+            "chambre au n\\textsuperscript{o}~1 de la route de Léalvillers chez le tailleur M. Carluvant (Scan \\#094), "
+            "inaugure trois mois de courses incessantes en automobile à travers les villages boueux de l'Amiénois et de "
+            "l'Artois (Bertrancourt, Arquèves, Ferme de Belle-Église, Coisy, Hérissart, Forceville, Varennes, Doullens, "
+            "Frévent, Authie, Martinsart) pour acheter paille et foin au profit du XIII\\textsuperscript{e} Corps."
         ),
         "illustrations": [
-            ("illustrations/fiche_matricule.jpg", "Extrait du registre matricule d'Hippolyte Combes (classe 1896, matricule 762, subdivision de Rodez) mentionnant sa nomination comme interprète stagiaire de réserve le 29 novembre 1915.", "0.78\\textwidth"),
+            ("illustrations/fiche_matricule.jpg", "Extrait du registre matricule d'Hippolyte Combes (classe 1896, matricule 911, bureau de recrutement de Toulouse) détaillant ses services auprès de la Mission militaire française attachée à l'Armée britannique (4 mai 1915 -- 11 novembre 1918).", "0.78\\textwidth"),
         ],
     },
     {
         "num": "V",
-        "title": "Au cœur de l'hiver 1916–1917 dans la Somme : Noël et grand gel à Acheux",
-        "subtitle": "Acheux-en-Amiénois, Bertrancourt, Louvencourt, Toutencourt, l'excursion à Amiens et le gel polaire de janvier 1917 (15 décembre 1916 – 28 janvier 1917)",
-        "scan_start": 107,
-        "scan_end": 134,
+        "title": "L'hiver 1916–1917 à Acheux : le jeune capitaine Williams, la crise de Noël et le grand gel",
+        "subtitle": "L'arrivée du capitaine Williams, l'incident du « Bloody France ! », le Noël solitaire à Acheux, l'excursion à Amiens et le gel de janvier 1917 (1er décembre 1916 – 25 janvier 1917)",
+        "scan_start": 105,
+        "scan_end": 127,
         "summary": (
-            "Ce cinquième chapitre (Folios 53v à 67r, Scans \\#107 à \\#134) retrace la vie quotidienne d'Hippolyte Combes "
-            "au cantonnement d'Acheux-en-Amiénois (chez la famille Carluvant) du 15 décembre 1916 au 28 janvier 1917. "
-            "Tandis que les pluies de décembre cèdent la place au grand gel et à la neige de janvier 1917, l'interprète "
-            "partage son temps entre le bureau n° 104, le mess du capitaine Williams, les tournées d'expertise et de fourrage "
-            "(Toutencourt, Saulty, Louvencourt, Raincheval, Varennes), le réveillon de Noël et du Jour de l'An, une journée "
-            "d'excursion à Amiens (3 janvier), et les préparatifs de sa permission d'hiver."
+            "Ce cinquième chapitre (Scans \\#105 à \\#127) retrace la vie quotidienne d'Hippolyte Combes à Acheux-en-Amiénois "
+            "du 1\\textsuperscript{er} décembre 1916 au 25 janvier 1917. Le 2 décembre (Scan \\#105), le lieutenant Curtis "
+            "est remplacé par un très jeune officier de vingt ans, le capitaine Williams (ancien \\textit{office boy} à "
+            "50 livres par an avant la guerre, Scan \\#107), dont le caractère présomptueux provoque de vives tensions : "
+            "le 24 décembre à Louvencourt, son exclamation « \\textit{Bloody France !} » indigne Hippolyte au moment même "
+            "où une lettre de Marguerite éveille des « velléités de rupture » (Scan \\#112), avant que Williams ne lui "
+            "présente d'humbles excuses le 30 décembre (Scan \\#117). Janvier 1917 est marqué par une excursion à Amiens "
+            "(3 janvier, Scan \\#119), une visite au collectionneur M. Renard à Auxi-le-Château (17 janvier, Scan \\#124) "
+            "et l'installation d'un gel polaire qui fige l'eau dans les chambres jusqu'à la veille du départ en permission."
         ),
         "intro": (
-            "L'hiver 1916–1917 dans la Somme éprouve durement les organismes et les esprits. Logé à Acheux chez les "
-            "Carluvant — dont la maison hospitalière et la « chambre chaude » offrent un refuge précieux contre la bise "
-            "glaciale qui balaie le plateau picard —, Hippolyte Combes observe avec acuité les contrastes de sa condition "
-            "d'interprète : rapports parfois tendus ou purement formels avec le commandant du mess britannique (« Capt. W. »), "
-            "mais camaraderie chaleureuse avec les jeunes lieutenants (Curtis, Gilbert, First) et avec ses collègues de la "
-            "Mission française (le capitaine Huguet).\n\n"
-            "Tout au long de ces semaines de neige et de verglas, le courrier de sa fiancée Marguerite (« Gueïte ») demeure "
-            "le véritable baromètre affectif du journal : le moindre retard postal provoque abattement et insomnie, tandis "
-            "qu'une lettre tendre suffit à transfigurer la monotonie des corvées de fourrage."
+            "Au cœur de l'hiver 1916–1917, le \\textit{Livre-Journal} atteint une intensité psychologique remarquable. "
+            "La confrontation quotidienne entre l'universitaire français de quarante ans et son nouveau chef de service "
+            "britannique de vingt ans (« ce gosse de Williams », Scan \\#109) culmine en deux scènes dramatiques : la "
+            "crise de conscience du soir de Noël 1916 (« \\textit{Dois-je faire 1 rapport à Mission frse ? Hanté aussi "
+            "par lettre de Margte du 17 ct.} », Scan \\#114) et l'explication ferme du 30 décembre à l'issue de laquelle "
+            "le jeune capitaine, contrit et humilié, supplie son interprète de ne pas le quitter (Scan \\#117).\n\n"
+            "Parallèlement, les tournées automobiles en voiture \\textit{Sunbeam} (jusqu'à Corbie, Marcelcave, Bayencourt, "
+            "Saulty, Barly, Beauquesne et Auxi-le-Château), les concerts des \\textit{13th Corps Archie Singers} à la "
+            "baraque du Y.M.C.A. d'Acheux et les paysages de neige cristallisée sous le soleil d'hiver composent une "
+            "chronique d'une grande richesse documentaire et littéraire."
         ),
         "illustrations": [
             ("illustrations/camarades_ailly_1919.jpg", "Souvenir de camaraderie militaire sur le front de Picardie (carte-photo dédicacée à Hippolyte Combes, Ailly-sur-Noye, mai 1919). Collection familiale.", "0.50\\textwidth"),
@@ -222,63 +231,72 @@ CHAPTERS = [
     },
     {
         "num": "VI",
-        "title": "La permission de février 1917 (Paris, Bordeaux, Toulouse, Millau, La Valette)",
-        "subtitle": "Le grand froid de février 1917, le départ d'Acheux, Paris, Bordeaux, Toulouse, les fiançailles à Millau et La Valette (29 janvier – 24 février 1917)",
-        "scan_start": 135,
-        "scan_end": 154,
+        "title": "La deuxième permission : par Gézaincourt, Amiens et Neuilly vers Toulouse et Millau",
+        "subtitle": "Le départ dans la neige étincelante, Mme Faure à Neuilly, Marguerite à Sainte-Marie (Toulouse), le cours d'Ernest Zyromski, l'horloger Pfister et le séjour chez les Calmels à Millau (26 janvier – 7 février 1917)",
+        "scan_start": 128,
+        "scan_end": 146,
         "summary": (
-            "Ce sixième chapitre (Folios 67v à 77r, Scans \\#135 à \\#154) couvre les derniers jours d'attente dans le gel "
-            "polaire d'Acheux (29 janvier – 6 février 1917, où le thermomètre descend à –15 °C et où Hippolyte offre un "
-            "cadeau d'adieu à ses hôtes Carluvant avant le transfert du cantonnement vers Hérissart), puis l'intégralité "
-            "de sa deuxième grande permission (7–23 février 1917) : traversée de Paris, étape à Bordeaux chez sa sœur "
-            "Joséphine et Léon, séjour à Toulouse, puis journées décisives à Millau auprès de Marguerite Calmels et "
-            "visite familiale au domaine natal de La Valette (Saint-Beauzély) avant le retour au front le 24 février."
+            "Ce sixième chapitre (Scans \\#128 à \\#146) livre le récit intégral et authentique de la deuxième permission "
+            "d'Hippolyte Combes (26 janvier – 7 février 1917). Parti de la gare de Varennes le 26 janvier devant les champs "
+            "de neige étincelant « comme des grains de diamant », il attend six heures à Gézaincourt, passe la nuit glaciale "
+            "à Amiens avec son collègue Boilly, déjeune le 27 janvier chez Mme Faure au 16 rue d'Armenonville à Neuilly et "
+            "arrive à Toulouse le dimanche 28 janvier (Scan \\#132). Accueilli avec une tendresse infinie par Marguerite à "
+            "Sainte-Marie (Scan \\#133), il visite avec elle les cryptes de Saint-Sernin, l'Hôtel d'Assézat et la Daurade, "
+            "assiste à une conférence d'Ernest Zyromski sur Maurice de Guérin (Scan \\#135) et lui achète un remontoir en or "
+            "Louis XVI de 105 francs chez Pfister (Scan \\#138). Le 3 février, les fiancés voyagent ensemble par Carcassonne, "
+            "Béziers et Bédarieux jusqu'à Millau (Scan \\#139), où Hippolyte est reçu dans la demeure des parents de Marguerite "
+            "avant de repartir le 5 février au soir par Saint-Flour, Brioude, Clermont-Ferrand, Paris et Amiens pour regagner "
+            "Acheux le 7 février à 13 h 30 (Scan \\#146)."
         ),
         "intro": (
-            "Cette deuxième permission (février 1917) marque une étape décisive dans la vie intime d'Hippolyte Combes. "
-            "Alors que la première permission d'octobre 1916 avait été assombrie par les hésitations familiales, le voyage "
-            "de février 1917 scelle définitivement le projet d'union entre Hippolyte et Marguerite Calmels (« Gueïte »), "
-            "qui sera célébré à Millau le 25 octobre 1917.\n\n"
-            "Ces vingt folios constituent en outre un témoignage remarquable sur la France de l'arrière durant le terrible "
-            "hiver 1917 : trains paralysés ou retardés par le gel, pénurie de charbon, mais chaleur intacte du réseau "
-            "familial qui relie Paris (Marie et Paul), Bordeaux (Joséphine et Léon), Toulouse, Millau (la famille Calmels) "
-            "et la maison paternelle de La Valette."
+            "Cette deuxième permission (26 janvier – 7 février 1917) constitue le sommet affectif et autobiographique du "
+            "\\textit{Livre-Journal}. Dès son arrivée à Toulouse le dimanche 28 janvier (« \\textit{En approchant de Toulouse, "
+            "souvenirs jeunesse revenus en foule esprit. Cru revoir mère et sœurs, m'attendant, cme autrefois, gare} », "
+            "Scan \\#132), l'accueil tendre et spontané de Marguerite à Sainte-Marie dissipe jusqu'au souvenir des nuages "
+            "de décembre. Six jours durant, les fiancés parcourent Toulouse sous la neige et le soleil d'hiver, avant de "
+            "gagner ensemble Millau (« \\textit{Délicieuse intimité s/ l'épaule de Mte... Impression silence profond en "
+            "débarquant ville natale} », Scan \\#139).\n\n"
+            "La nuit du 3 au 4 février 1917 dans la maison Calmels à Millau (Scan \\#141) et la visite des deux fiancés "
+            "au cimetière le 5 février (Scan \\#143) comptent parmi les pages les plus poignantes du manuscrit : "
+            "« \\textit{Silence impressionnant vallon natal. Couché depuis 1/2 h., quand souvenirs venus en foule et obsédé. "
+            "Pensé à Papa, Maman, Sœurs — que j'ai tant aimés. Peu à peu, gagné par l'émotion, et sangloté.} »"
         ),
         "illustrations": [
             ("illustrations/mariage_millau_1917.jpg", "Photographie officielle du mariage d'Hippolyte Combes (en uniforme d'interprète militaire) et de Marguerite Calmels à Millau (25 octobre 1917), entourés des familles Combes et Calmels.", "0.50\\textwidth"),
-            ("illustrations/menu_mariage_1917.jpg", "Menu du repas de noces d'Hippolyte Combes et Marguerite Calmels à Millau (25 octobre 1917). Archives familiales.", "0.36\\textwidth"),
+            ("illustrations/menu_mariage_1917.jpg", "Menu du repas de noces d'Hippolyte Combes et Marguerite Calmels au 10 rue Alfred-Guibert à Millau (25 octobre 1917). Archives familiales.", "0.36\\textwidth"),
         ],
     },
     {
         "num": "VII",
-        "title": "Le printemps 1917 entre Somme et Artois : d'Hérissart à Toutencourt",
-        "subtitle": "Installation à Hérissart, le repli allemand sur la ligne Hindenburg, les neiges tardives d'avril à Toutencourt et le renouveau printanier (25 février – 30 avril 1917)",
-        "scan_start": 155,
+        "title": "De l'hiver polaire au renouveau printanier : d'Hérissart à Toutencourt",
+        "subtitle": "Le déménagement imprévu à Hérissart, le départ du capitaine Williams, le repli allemand sur la ligne Hindenburg, les neiges d'avril à Toutencourt et l'hymne au printemps (7 février – 30 avril 1917)",
+        "scan_start": 147,
         "scan_end": 186,
         "summary": (
-            "Ce septième et dernier chapitre (Folios 77v à 93r, Scans \\#155 à \\#186) conduit le \\textit{Livre-Journal} "
-            "jusqu'à son dernier feuillet (25 février – 30 avril 1917). De retour de permission, Hippolyte rejoint le "
-            "nouveau cantonnement de son unité à Hérissart (fin février – mars 1917), puis s'installe à Toutencourt "
-            "(avril 1917). Tout en suivant avec passion les nouvelles du repli stratégique allemand (opération \\textit{Alberich}), "
-            "de la Révolution russe, de l'entrée en guerre des États-Unis et de l'offensive britannique d'Arras, il poursuit "
-            "ses tournées quotidiennes en automobile avec les lieutenants Curtis et Gilbert (Rubempré, Contay, Vadencourt, "
-            "Warloy, Puchevillers, Villers-Bocage) jusqu'à la radieuse journée printanière du lundi 30 avril 1917."
+            "Ce septième et dernier chapitre (Folios 73v à 93r, Scans \\#147 à \\#186) conduit le \\textit{Livre-Journal} "
+            "jusqu'à son dernier feuillet (7 février – 30 avril 1917). Dès son retour à Acheux le 7 février après-midi "
+            "(Scan \\#147), Hippolyte apprend que le capitaine Williams a transféré le bureau à Hérissart, où il s'installe "
+            "chez Mlle Octavie sous un gel polaire. Le 10 mars 1917 (Scan \\#165), le départ définitif de Williams et le "
+            "retour des lieutenants Curtis et Gilbert transforment l'atmosphère du service. Installé à Toutencourt à partir "
+            "du 16 mars (Scan \\#169), Hippolyte suit avec passion les nouvelles du repli allemand, de la Révolution russe, "
+            "de l'entrée en guerre des États-Unis et de l'offensive d'Arras, tout en sillonnant la Picardie jusqu'à la "
+            "radieuse journée printanière du lundi 30 avril 1917 (Scan \\#186)."
         ),
         "intro": (
-            "Les trente-deux derniers clichés du manuscrit (Scans \\#155 à \\#186) offrent une chronique particulièrement "
-            "dense (souvent vingt-quatre à vingt-sept lignes par page) des mois de mars et avril 1917 dans les villages "
-            "situés entre Amiens, Albert et Doullens (Hérissart, Toutencourt, Harponville, Warloy-Baillon, Vadencourt, "
-            "Contay, Villers-Bocage). Malgré les bourrasques de neige tardives qui s'abattent encore sur la Picardie "
-            "jusqu'à la mi-avril 1917, l'atmosphère du carnet se transforme profondément : l'entente cordiale avec les "
-            "lieutenants Curtis et Gilbert rend les longues tournées en automobile beaucoup plus plaisantes.\n\n"
+            "Les quarante derniers clichés du manuscrit (Scans \\#147 à \\#186) offrent une chronique particulièrement "
+            "dense (souvent vingt-quatre à vingt-sept lignes par page) des mois de février, mars et avril 1917 dans les "
+            "villages situés entre Amiens, Albert et Doullens (Hérissart, Toutencourt, Harponville, Warloy-Baillon, "
+            "Vadencourt, Contay, Villers-Bocage). Après un mois de février glacial à Hérissart, le départ du capitaine "
+            "Williams le 10 mars 1917 (Scan \\#165) est accueilli comme une véritable délivrance, et l'entente cordiale "
+            "avec les lieutenants Curtis et Gilbert rend les longues tournées en automobile beaucoup plus plaisantes.\n\n"
             "Le \\textit{Livre-Journal} s'achève le \\textbf{lundi 30 avril 1917} (Folio 93 recto, Scan \\#186), exactement "
             "sur la dernière page matérielle du registre, dans un véritable hymne au printemps enfin victorieux : "
             "« \\textit{Aujourd'hui encore, temps magnifique. Soleil ardent... Ciel d'un bleu pur \\& céleste. Aux arbres, "
             "bourgeons grossissent à vue d'œil... Nuit très belle, mervt éclairée, lune superbe.} »"
         ),
         "illustrations": [
-            ("illustrations/andelys_ecole_militaire.jpg", "Photographie de groupe devant l'École militaire préparatoire des Andelys (où Hippolyte enseigne l'anglais fin 1918).", "0.31\\textwidth"),
-            ("illustrations/famille_combes_1925.jpg", "Hippolyte et Marguerite Combes entourés de leurs enfants vers 1925.", "0.31\\textwidth"),
+            ("illustrations/andelys_ecole_militaire.jpg", "Photographie de groupe devant l'École militaire préparatoire des Andelys (où Hippolyte est nommé professeur d'anglais le 24 novembre 1918).", "0.31\\textwidth"),
+            ("illustrations/famille_combes_1925.jpg", "Hippolyte et Marguerite Combes entourés de leurs enfants à Montauban / Millau vers 1925.", "0.31\\textwidth"),
             ("illustrations/hippolyte_cambridge_1930.jpg", "Hippolyte Combes en Angleterre (Cambridge, été 1930).", "0.31\\textwidth"),
         ],
     },
@@ -453,7 +471,7 @@ def generate_full_tex():
 
 \titleformat{\chapter}[display]
   {\normalfont\large\bfseries\color{bordeaux}}
-  {\textsc{\chaptertitlename\ \thechapter}}
+  {\textsc{\chaptertitlename\ \Roman{chapter}}}
   {1mm}
   {\Large\color{black}}
 \titlespacing*{\chapter}{0pt}{-4mm}{3mm}
@@ -485,15 +503,15 @@ def generate_full_tex():
     \parbox[t][248mm][s]{162mm}{%
       \begin{center}
         \vspace{4mm}
-        {\large\textsc{Archives familiales du Rouergue \& du Front britannique}}\\[2mm]
+        {\large\textsc{Archives familiales de Millau, Toulouse \& du Front britannique}}\\[2mm]
         \rule{110mm}{0.6pt}\\[6mm]
         {\LARGE\textbf{HIPPOLYTE COMBES}}\\[2mm]
-        {\normalsize\textsc{(La Valette, 29 septembre 1876 — Rodez, 17 février 1970)}}\\[8mm]
+        {\normalsize\textsc{(Millau, 14 août 1876 — Montauban / Millau, 1970)}}\\[8mm]
         {\Huge\textbf{\textcolor{bordeaux}{LIVRE - JOURNAL}}}\\[3mm]
         {\Large\textbf{DE CAMPAGNE (1916–1917)}}\\[4mm]
         {\large\textit{Du 25 juillet 1916 au 30 avril 1917}}\\[3mm]
         {\normalsize Interprète militaire auprès de l'Armée britannique\\
-        (\textit{1st Battalion Irish Guards} \& \textit{152nd Company Army Service Corps})}\\[7mm]
+        (\textit{1st Battalion Irish Guards}, \textit{152nd Company Army Service Corps} \& \textit{XIIIth Corps})}\\[7mm]
         % Vignette centrale extraite de la couverture du carnet autographe
         \setlength{\fboxsep}{1.5mm}
         \setlength{\fboxrule}{0.6pt}
@@ -507,7 +525,7 @@ def generate_full_tex():
         \vfill
         \rule{90mm}{0.4pt}\\[3mm]
         {\normalsize\textsc{Édition établie, introduite et annotée}}\\
-        {\footnotesize d'après le manuscrit original et les archives de La Valette et de Millau}\\[2mm]
+        {\footnotesize d'après le manuscrit original et les archives familiales Combes-Calmels de Millau et Montauban}\\[2mm]
         {\small\textbf{MMXXVI}}
         \vspace{2mm}
       \end{center}
@@ -526,7 +544,7 @@ def generate_full_tex():
 \thispagestyle{empty}
 \begin{center}
   \vspace*{18mm}
-  {\Large\textsc{Hippolyte Combes}}\\
+  {\Large\textsc{Marie Lucien Hippolyte Combes}}\\
   {\small (1876–1970)}\\[14mm]
   {\huge\textbf{LIVRE-JOURNAL DE GUERRE}}\\[4mm]
   {\large\textit{25 juillet 1916 — 30 avril 1917}}\\[6mm]
@@ -535,16 +553,17 @@ def generate_full_tex():
   {\Huge $\mathfrak{Urtext}$}\\[20mm]
   \rule{55mm}{0.4pt}\\[8mm]
   {\normalsize\textbf{Édition scientifique intégrale des 186 scans du manuscrit autographe}}\\[2mm]
-  {\small accompagnée des lettres de guerre inédites (1916), de l'état signalétique des services\\
+  {\small accompagnée des lettres de guerre inédites (1916–1918), de l'état signalétique des services\\
   et d'un répertoire prosopographique, militaire et topographique}\par
   \vfill
   {\small\textsc{Collection des Sources et Manuscrits Contemporains}}\\
-  {\footnotesize Millau — La Valette — Paris}
+  {\footnotesize Millau — Toulouse — Montauban — Paris}
   \vspace*{10mm}
 \end{center}
 \newpage
 
 \frontmatter
+\renewcommand{\thesection}{\Roman{section}}
 \tableofcontents
 \cleardoublepage
 
@@ -554,11 +573,11 @@ def generate_full_tex():
 \chapter{Prolégomènes : Hippolyte Combes (1876–1970) et son \textit{Livre-Journal} de la Grande Guerre}
 \markboth{Prolégomènes}{Prolégomènes}
 
-\section{Destin d'un interprète rouergat auprès de l'Armée britannique (1876–1970)}
+\section{Destin d'un universitaire rouergat et toulousain auprès de l'Armée britannique (1876–1970)}
 
-Né le 29 septembre 1876 au domaine familial de \textbf{La Valette} (commune de Saint-Beauzély, Aveyron), au cœur de la vallée de la Muse et aux portes de Millau, \textbf{Hippolyte Pierre Jean Combes} appartient à une lignée de propriétaires terriens et de notables cultivés du Rouergue méridional. Cinquième enfant de \textbf{Pierre Combes} (1847–1928) et de \textbf{Mélanie} (née en 1851), il grandit au sein d'une fratrie nombreuse comprenant notamment \textbf{Paul} (né en 1874), \textbf{Marie} (née en 1875), \textbf{Joséphine} (née en 1882, épouse de Léon à Bordeaux), \textbf{Émile} (né en 1883, médecin militaire durant la Grande Guerre), \textbf{Jean} (né en 1891, artilleur puis aviateur au front d'Orient à Salonique) et \textbf{Gabriel}.
+Né le \textbf{14 août 1876} à \textbf{Millau} (Aveyron), rue des Barris (acte de naissance n\textsuperscript{o}~395 du 16 août 1876), \textbf{Marie Lucien Hippolyte Combes} est issu d'une ancienne lignée de juristes et d'artisans millavois. Son père, \textbf{François Augustin Hippolyte Combes} (1825–1899), avocat né à Millau et établi par la suite à \textbf{Toulouse} (au 47 puis au 77 rue du Taur, tout près de la basilique Saint-Sernin), avait épousé à Millau le 22 juillet 1864 sa cousine \textbf{Marie Anaïs Alric} (1838–1907). Hippolyte grandit entouré de trois sœurs aînées demeurées célibataires : \textbf{Maria} (religieuse missionnaire en Tunisie, morte de la typhoïde à Carthage le 19 novembre 1903 à vingt-huit ans), \textbf{Françoise} (entrée au Carmel de Périgueux sous le nom de \textit{Sœur Marie de la Croix}, décédée le 16 juillet 1942 à soixante et onze ans, destinataire de sa lettre confidentielle du 16 juin 1916) et \textbf{Joséphine} (qui tint son ménage de jeune professeur et mourut subitement d'une crise cardiaque à Nogent-le-Rotrou en octobre 1914 à quarante et un ans).
 
-Après de solides études classiques et l'obtention de sa \textbf{licence en droit}, le jeune Hippolyte effectue un séjour linguistique et professionnel décisif en Angleterre, à \textbf{Folkestone} (Kent), où il acquiert une maîtrise idiomatique de la langue anglaise et une familiarité durable avec les mœurs britanniques. De retour en France, il exerce d'abord les fonctions de sous-chef de gare à la Compagnie des chemins de fer du Midi, puis s'installe à Paris comme principal clerc d'avoué avant de reprendre en main la gestion des biens familiaux.
+Après ses études secondaires à Toulouse — au Petit Séminaire de l'Esquile, au collège jésuite du Caousou (où il se lie d'amitié avec le frère Rémi Ponsonailles) puis au Lycée de Toulouse —, Hippolyte Combes obtient sa \textbf{licence en droit}, son diplôme d'avocat et sa \textbf{licence ès lettres (anglais)} à l'Université de Toulouse. À la mort de son père en 1899, il entre aux chemins de fer et devient \textbf{sous-chef de gare à Brive-la-Gaillarde}. Démissionnaire pour découvrir l'Angleterre, il séjourne quatre années à \textbf{Nottingham}, où il enseigne le français, pratique la photographie et se lie avec la famille de \textbf{Beatrice Chilcott}. Rappelé en France par la mort de sa mère en 1907, il est nommé professeur d'anglais aux collèges de \textbf{Corte} (Corse), de \textbf{Blaye} (Gironde), puis de \textbf{Nogent-le-Rotrou} (Eure-et-Loir), où il réside au \textbf{17 rue Saint-Hilaire}.
 
 \begin{figure}[htbp]
   \centering
@@ -574,12 +593,12 @@ Après de solides études classiques et l'obtention de sa \textbf{licence en dro
   \end{minipage}
 \end{figure}
 
-Bien qu'exempté de service armé actif dans sa jeunesse (classe 1896, bureau de recrutement de Rodez, matricule n\textsuperscript{o}~762), Hippolyte Combes est rattrapé par la mobilisation générale d'août 1914. Incorporé le \textbf{31 mars 1915} au \textbf{10\textsuperscript{e} régiment d'artillerie à pied} à Toulon comme canonnier servant de 2\textsuperscript{e} classe, il se porte candidat au concours des interprètes militaires de l'Armée britannique. Nommé \textbf{interprète stagiaire de réserve} (assimilé au rang d'officier subalterne) par décision ministérielle du \textbf{29 novembre 1915} (publiée au \textit{Journal Officiel} du 5 décembre 1915), il rejoint aussitôt la \textbf{Mission militaire française attachée à l'Armée britannique} (\textit{British Expeditionary Force}).
+Exempté dans sa jeunesse pour « faiblesse générale » (\textbf{classe 1896, bureau de recrutement de Toulouse, matricule n\textsuperscript{o}~911}), Hippolyte Combes est classé « Service armé » par le conseil de révision d'Eure-et-Loir le \textbf{18 décembre 1914}. Appelé à l'activité le \textbf{20 mars 1915} et incorporé le \textbf{21 mars 1915} à la 39\textsuperscript{e} batterie du \textbf{10\textsuperscript{e} régiment d'artillerie à pied} à Toulon (Saint-Jean-du-Var), il est détaché dès le \textbf{4 mai 1915} comme interprète militaire à la \textbf{Mission militaire française attachée à l'Armée britannique} (administrativement rattaché au \textbf{19\textsuperscript{e} escadron du Train des équipages militaires} le 15 octobre 1915) :
 
 \begin{itemize}
-  \item \textbf{Hiver 1915 – Août 1916 : avec le 1\textsuperscript{er} bataillon des \textit{Irish Guards}.} D'abord affecté à l'une des unités les plus prestigieuses de la Couronne britannique — le \textit{1st Battalion, Irish Guards} (\textit{1st Guards Brigade, Guards Division}) —, il accompagne le régiment en Artois, dans le saillant d'Ypres, dans les Flandres françaises (Bailleul, Steenwerck) et sur la Somme (Lucheux).
-  \item \textbf{Septembre 1916 – Avril 1917 : avec la \textit{152nd Company, Army Service Corps}.} Au début de septembre 1916, en pleine bataille de la Somme, il est affecté à la \textit{152nd Company A.S.C.} (compagnie du Train divisionnaire britannique), commandée par le capitaine Williams puis par le capitaine Panton. Il y exerce à la fois les fonctions d'\textbf{officier de cantonnement} (\textit{Billeting Officer}), d'\textbf{officier d'approvisionnement en fourrages} (\textit{Foraging Officer}) et de conciliateur juridique entre le commandement britannique et les municipalités françaises (Acheux, Forceville, Bernaville, Beauval, Humbercamps, Hérissart, Toutencourt).
-  \item \textbf{Le mariage du 25 octobre 1917 et l'après-guerre.} Six mois après la clôture de ce carnet (achevé à Toutencourt le 30 avril 1917), il épouse à Millau, le \textbf{25 octobre 1917}, \textbf{Marguerite Calmels} (1891–1986), de quinze ans sa cadette. Affecté en novembre 1918 comme professeur d'anglais à l'École militaire préparatoire des Andelys puis nommé en janvier 1920 professeur au lycée Ingres de Montauban, il devient membre distingué de l'Académie de Montauban et s'éteint le 17 février 1970 dans sa quatre-vingt-quatorzième année.
+  \item \textbf{Mai 1915 – Août 1916 : de la 12\textsuperscript{e} Division aux \textit{1st Irish Guards}.} D'abord affecté à la 12\textsuperscript{e} Division britannique près de Béthune (mai–juillet 1915), puis à Saint-Omer et auprès de la 18\textsuperscript{e} Division (sous les ordres du lieutenant interprète Pizzi) et du \textbf{1\textsuperscript{er} bataillon des \textit{Irish Guards}} (\textit{1st Guards Brigade, Guards Division}), il accompagne ces unités en Artois, dans le saillant d'Ypres, dans les Flandres françaises (Bailleul, Steenwerck) et sur la Somme (Lucheux).
+  \item \textbf{Août 1916 – Avril 1917 : avec la \textit{152nd Company, Army Service Corps} et le XIII\textsuperscript{e} Corps.} À la fin d'août 1916, en pleine bataille de la Somme, il rejoint la \textit{152nd Company A.S.C.} (Train de la 18\textsuperscript{e} Division britannique) à Raincheval, Acheux, Forceville, Bernaville, Beauval et Albert (\textit{Brickfield Area}), puis est détaché le 2 novembre 1916 à Acheux-en-Amiénois (puis Hérissart et Toutencourt) auprès du service des achats et réquisitions de fourrages (\textit{Foraging Service} / \textit{Army Purchase Board}) des XIII\textsuperscript{e} et V\textsuperscript{e} Corps britanniques, avec les lieutenants Curtis et Gilbert et le jeune capitaine Williams.
+  \item \textbf{Le mariage du 25 octobre 1917 et la carrière à Montauban.} Six mois après la clôture de ce carnet, il épouse au Sacré-Cœur de Millau, le \textbf{25 octobre 1917}, \textbf{Marie Marguerite Calmels} (née à Millau le 15 avril 1892, décédée en 1986), fille du docteur \textbf{Gabriel Calmels} (1852–1921) et de \textbf{Valentine Cartairade} (1858–1943), domiciliés au 10 rue Alfred-Guibert à Millau. Nommé le \textbf{24 novembre 1918} professeur d'anglais à l'\textbf{École militaire préparatoire des Andelys} et promu caporal le 4 décembre 1918, il est démobilisé le 7 février 1919. Nommé le \textbf{24 janvier 1920} professeur d'anglais au \textbf{lycée Ingres de Montauban} (où il réside au 55 faubourg du Moustier et élève ses sept enfants : Valentine, François, Joseph, Jean, Marie-Thérèse, Pierre et Michel), il devient membre de l'\textbf{Académie de Montauban} et s'éteint en 1970 dans sa quatre-vingt-quatorzième année.
 \end{itemize}
 
 \section{Histoire matérielle, codicologie et génétique du \textit{Livre-Journal}}
@@ -588,10 +607,10 @@ Le manuscrit édité dans le présent volume est un carnet de poche de fabricati
 
 L'examen codicologique et paléographique des 186 scans met en lumière quatre caractéristiques fondamentales :
 \begin{enumerate}
-  \item \textbf{Structure interne de la page.} Chaque page (ou séquence journalière) obéit à un protocole invariable hérité de la comptabilité ferroviaire et notariale : en haut à gauche, le quantième et le jour de la semaine abrégé (\textit{25 Ma.}, \textit{26 Mer.}), parfois soulignés ; en haut à droite, le mois et le millésime (\textit{Juillet 1916}, \textit{Août /16}) ; au centre, la chronique rédigée à la plume et à l'encre noire (ou au crayon graphite lors des marches sous la pluie et des bivouacs d'août–septembre 1916) ; enfin, au bas du folio, isolé par un trait horizontal ou par de grands crochets droits \texttt{[ ... ]}, le relevé minutieux des menues dépenses quotidiennes (repas, blanchissage, timbres, coiffeur, pourboires aux ordonnances).
-  \item \textbf{La langue hybride du carnet : syntaxe télégraphique et « franglais » du front.} Écrivant pour lui-même à la lueur d'une bougie dans des chambres paysannes glaciales, Hippolyte Combes recourt à une syntaxe elliptique supprimant articles et pronoms sujets (\textit{« Toute nuit, passée très mauvaise »}, \textit{« Rentré billet, crotté y cape ruisselante »}), fait usage de l'abréviation tachygraphique \textit{y} (ou \textit{\&}) pour la conjonction \textit{et}, et intègre spontanément le lexique militaire et quotidien anglais (\textit{breakfast, lunch, tea-dinner, mess, billet, billeting, cottage, garret, washing, darning, shift, shifting, shifterons, lorry, limber G.S., refilling point, Purchase Board, green forage, warrant, nice, home}).
+  \item \textbf{Structure interne de la page.} Chaque page (ou séquence journalière) obéit à un protocole invariable : en haut à gauche, le quantième et le jour de la semaine abrégé (\textit{25 Ma.}, \textit{26 Mer.}), parfois soulignés ; en haut à droite, le mois et le millésime (\textit{Juillet 1916}, \textit{Août /16}) ; au centre, la chronique rédigée à la plume et à l'encre noire ou violette (ou au crayon graphite lors des marches sous la pluie et des bivouacs d'août–septembre 1916) ; enfin, au bas du folio, isolé par un trait horizontal ou par un grand crochet droit \texttt{[ ... ]}, le relevé minutieux des menues dépenses quotidiennes (repas, blanchissage, timbres, coiffeur, pourboires aux ordonnances).
+  \item \textbf{La langue hybride du carnet : syntaxe télégraphique et « franglais » du front.} Écrivant pour lui-même à la lueur d'une bougie dans des chambres paysannes glaciales, Hippolyte Combes recourt à une syntaxe elliptique supprimant articles et pronoms sujets (\textit{« Toute nuit, passée très mauvaise »}, \textit{« Rentré billet, crotté y cape ruisselante »}), fait usage des abréviations tachygraphiques \textit{1/2} (pour \textit{demi} ou \textit{milieu}), \textit{j'à} (pour \textit{jusqu'à}), \textit{=} (pour \textit{même}), et intègre spontanément le lexique militaire et quotidien anglais (\textit{breakfast, lunch, tea-dinner, mess, mess-tent, mess-hut, billet, billeting, cottage, garret, washing, darning, shift, shifting, lorry, limber G.S., refilling point, Purchase Board, green forage, straw \& hay, German dug-outs, killed in action, out riding, a whole day off, a brainless ass}).
   \item \textbf{Restitution du Folio 24 recto (Scan \#050, \texttt{20251126\_103019.jpg}).} La collation systématique des 186 scans avec le premier brouillon de transcription (\texttt{Carnet de campagne édition diplomatique.docx}, qui ne comptait que 73 notices pour les 74 premiers clichés) a révélé que le cliché \texttt{20251126\_103019.jpg} (Scan \#050, Folio 24 recto : journée du lundi 25 septembre 1916 à Forceville et au \textit{railhead} d'Acheux-Varennes) avait été omis, provoquant un décalage d'une unité à partir du Scan \#051. Nous l'avons intégralement transcrit, commenté et rétabli à sa place.
-  \item \textbf{Rétablissement de l'ordre chronologique des Scans \#063 et \#064.} Lors de la campagne de numérisation du 26 novembre 2025, le Folio 31 recto (\texttt{20251126\_103538.jpg}, Scan \#063 : journée du jeudi 5 octobre 1916 à Paris et dans le train vers Amiens) a été photographié seize secondes avant le Folio 30 verso (\texttt{20251126\_103554.jpg}, Scan \#064 : nuit du 4 au 5 octobre 1916 dans le train entre Toulouse et Paris). Notre édition conserve le numéro d'archive exact de chaque cliché tout en associant à chaque image sa transcription diplomatique propre.
+  \item \textbf{Anomalies de numérisation des Scans \#063–\#064, \#091–\#093 et \#112–\#113.} Lors de la campagne photographique du 26 novembre 2025, deux inversions recto/verso ont eu lieu (Scans \#063 et \#064 des 4–5 octobre 1916 ; Scans \#112 et \#113 des 19–24 décembre 1916) et le feuillet des 2–3 novembre 1916 a été photographié à deux reprises (Scans \#091 et \#093). Conformément aux règles de l'édition diplomatique en vis-à-vis, chaque page de gauche transcrit fidèlement le fac-similé figurant sur la page de droite en regard, tandis que le commentaire codicologique signale l'enchaînement chronologique exact.
 \end{enumerate}
 
 \section{Principes de l'édition philologique en vis-à-vis}
@@ -605,7 +624,7 @@ Inspirée des principes de l'édition philologique classique, la présente édit
       \item \textbf{Deux niveaux de commentaire en bas de page :}
         \begin{itemize}
           \item \textit{Niveau 1 — Commentaire critique (interne à l'histoire du carnet) :} analyse codicologique, paléographique (variations de ductus, passage de la plume au crayon), linguistique (syntaxe elliptique, bilinguisme franco-britannique), comptable (tenue de la caisse, indemnités de mess) et psychologique (rythme de la correspondance amoureuse, \textit{spleen}).
-          \item \textit{Niveau 2 — Commentaire historique :} contextualisation militaire précise des opérations de la \textit{British Expeditionary Force} (Somme, Flandres, Artois), identification des unités (\textit{1st Irish Guards}, \textit{Royal Scots}, \textit{Royal Fusiliers}, \textit{152nd Coy A.S.C.}), topographie des cantonnements et prosopographie familiale.
+          \item \textit{Niveau 2 — Commentaire historique :} contextualisation militaire précise des opérations de la \textit{British Expeditionary Force} (Somme, Flandres, Artois), identification des unités (\textit{1st Irish Guards}, \textit{Royal Scots}, \textit{Royal Fusiliers}, \textit{152nd Coy A.S.C.}, XIII\textsuperscript{e} et V\textsuperscript{e} Corps), topographie des cantonnements et prosopographie familiale.
         \end{itemize}
     \end{enumerate}
   \item \textbf{Sur la page de droite (page impaire / recto) :} \textbf{le fac-similé photographique complet} du feuillet manuscrit correspondant, accompagné de ses références archivistiques et codicologiques.
@@ -620,25 +639,25 @@ Inspirée des principes de l'édition philologique classique, la présente édit
 \textbf{Nom / Unité / Lieu} & \textbf{Identification biographique, militaire ou géographique} \\
 \midrule
 \endhead
-\textbf{Combes, Hippolyte} (1876–1970) & Auteur du \textit{Livre-Journal}. Licencié en droit, interprète stagiaire de réserve (29 nov. 1915) auprès de la B.E.F. Épouse Marguerite Calmels à Millau le 25 octobre 1917. Professeur d'anglais au lycée Ingres de Montauban (1920) et membre de l'Académie de Montauban. \\
-\textbf{Calmels, Marguerite} (« Marg. », « Gueïte », 1891–1986) & Fiancée puis épouse d'Hippolyte Combes, résidant à Millau (Aveyron). Destinataire et expéditrice quotidienne des lettres qui rythment tout le journal. \\
-\textbf{Combes, Pierre} (1847–1928) \& \textbf{Mélanie} (née en 1851) & Parents d'Hippolyte, résidant au domaine familial de La Valette (commune de Saint-Beauzély, Aveyron). \\
-\textbf{Joséphine} (née en 1882) \& \textbf{Léon} & Sœur et beau-frère d'Hippolyte, établis à Bordeaux (Gironde), où Hippolyte séjourne en février 1917. \\
-\textbf{Marie} (née en 1875) \& \textbf{Paul} & Sœur et beau-frère d'Hippolyte résidant à Paris, chez qui l'interprète fait étape lors de chaque traversée de la capitale. \\
-\textbf{Combes, Émile} (né en 1883) & Frère cadet d'Hippolyte, médecin militaire mobilisé sur le front français. \\
-\textbf{Combes, Jean} (né en 1891) & Jeune frère d'Hippolyte, sous-officier au 9\textsuperscript{e} R.A.C. puis pilote dans l'aviation à l'Armée d'Orient (Salonique). \\
-\textbf{1st Battalion, Irish Guards} & Bataillon de la Garde irlandaise (\textit{1st Guards Brigade, Guards Division}), créé en 1900 par la reine Victoria. Hippolyte y sert de décembre 1915 à août 1916 (Lucheux, Ebenezer, Bailleul, Steenwerck). \\
-\textbf{152nd Company, A.S.C.} & Compagnie hippomobile et automobile du Train britannique (\textit{Army Service Corps}), rattachée au train divisionnaire / XIII\textsuperscript{e} Corps. Unité d'Hippolyte de septembre 1916 à avril 1917. \\
-\textbf{Capt. Williams} (« Capt. W. ») & Capitaine britannique commandant la \textit{152nd Coy A.S.C.} et le mess n\textsuperscript{o}~104 dans la Somme (Acheux, Forceville, Hérissart, Toutencourt). \\
-\textbf{Capt. Panton} & Capitaine britannique de la \textit{152nd Coy A.S.C.}, compagnon de chevauchées d'Hippolyte en octobre–novembre 1916 (Barlette, Ribeaucourt, Beauval, Bailleulmont). \\
-\textbf{Lt. Curtis, Lt. Gilbert, Lt. First} & Officiers subalternes britanniques avec lesquels Hippolyte effectue ses tournées quotidiennes en fourgon ou en automobile pour les réquisitions de fourrages (\textit{foraging}), les cantonnements (\textit{billeting}) et les expertises agricoles. \\
-\textbf{Connelly \& Barlette} & Ordonnances (\textit{batmen} / \textit{grooms}) attachés au service des officiers et d'Hippolyte Combes. \\
+\textbf{Combes, Hippolyte} (1876–1970) & Marie Lucien Hippolyte Combes, né à Millau le 14 août 1876. Licencié en droit et ès lettres (Toulouse), professeur d'anglais au collège de Nogent-le-Rotrou, interprète détaché auprès de la B.E.F. (4 mai 1915 – 11 nov. 1918), puis professeur au lycée Ingres de Montauban (1920–1938). \\
+\textbf{Calmels, Marguerite} (« Marg. », « Mte », « Gueïte », 1892–1986) & Marie Marguerite Calmels, née à Millau le 15 avril 1892, fille du Dr Gabriel Calmels (1852–1921) et de Valentine Cartairade (1858–1943), domiciliés au 10 rue Alfred-Guibert à Millau. Fiancée puis épouse d'Hippolyte Combes (25 octobre 1917). \\
+\textbf{Combes, François-Hippolyte} (1825–1899) \& \textbf{Marie Anaïs Alric} (1838–1907) & Parents d'Hippolyte Combes, mariés à Millau le 22 juillet 1864, établis à Toulouse (47 et 77 rue du Taur). Leur souvenir émeut profondément Hippolyte lors de ses permissions à Toulouse et Millau (Scans \#132, \#141, \#143). \\
+\textbf{Maria} († 1903), \textbf{Françoise} (1871–1942) \& \textbf{Joséphine} (1873–1914) & Les trois sœurs d'Hippolyte Combes : Maria (religieuse décédée à Carthage), Françoise (\textit{Sœur Marie de la Croix}, carmélite à Périgueux, destinataire de la lettre du 16 juin 1916) et Joséphine (décédée à Nogent-le-Rotrou en octobre 1914). \\
+\textbf{Faure, Mme} (Germaine, Marcel, Henri, André) & Cousine d'Hippolyte résidant au 16 rue d'Armenonville à Neuilly-sur-Seine, chez qui il déjeune lors de chacune de ses traversées de Paris (26 septembre 1916 et 27 janvier 1917, Scans \#051 et \#130–\#131). \\
+\textbf{Chilcott, Beatrice} & Amie anglaise d'Hippolyte Combes à l'époque de son séjour d'avant-guerre à Nottingham, signataire du poème autographe conservé dans ses papiers (\textit{Wesley Band of Hope}). \\
+\textbf{1st Battalion, Irish Guards} & Bataillon de la Garde irlandaise (\textit{1st Guards Brigade, Guards Division}). Hippolyte y sert jusqu'en août 1916 (Lucheux, Ebenezer, Bailleul, Steenwerck). \\
+\textbf{152nd Company, A.S.C.} & Compagnie du Train divisionnaire de la 18\textsuperscript{e} Division britannique (\textit{18th Divisional Train, Army Service Corps}), commandée par le colonel Grose et le major Hughes. Unité d'Hippolyte d'août 1916 à avril 1917. \\
+\textbf{Capt. Williams} (« Capt. W. ») & Très jeune capitaine britannique (20 ans, ancien \textit{office boy} à 50 £ par an) qui relève le lieutenant Curtis à Acheux le 2 décembre 1916 (Scan \#105) et dirige le bureau des fourrages à Acheux puis Hérissart jusqu'au 10 mars 1917 (Scan \#165). \\
+\textbf{Capt. Panton} & Capitaine britannique de la \textit{152nd Coy A.S.C.}, compagnon de chevauchées d'Hippolyte en octobre 1916 à Barlette, Ribeaucourt et Beauval. \\
+\textbf{Lt. Curtis, Lt. Gilbert, Lt. Walsh, Major Levy} & Officiers britanniques du service des approvisionnements (\textit{Foraging} / \textit{Army Purchase Board}) avec lesquels Hippolyte sillonne la Somme et l'Artois. \\
+\textbf{Lt. Pizzi \& Cap. Huguet} & Officiers de la Mission militaire française dirigeant respectivement les bureaux de la 18\textsuperscript{e} Division (Albert) et des XIII\textsuperscript{e} / V\textsuperscript{e} Corps (Acheux). \\
+\textbf{Carluvant, M. \& Mme} & Maître tailleur et propriétaire d'Hippolyte Combes au n\textsuperscript{o}~1 de la route de Léalvillers à Acheux-en-Amiénois (novembre 1916 – février 1917). \\
 \bottomrule
 \end{longtable}
 \end{small}
 """
 
-    body_parts = [preamble, "\n\\mainmatter\n"]
+    body_parts = [preamble, "\n\\mainmatter\n\\renewcommand{\\thesection}{\\thechapter.\\arabic{section}}\n"]
 
     # Map records by scan_num (1..186)
     rec_by_num = {r["scan_num"]: r for r in records}
@@ -669,7 +688,7 @@ Inspirée des principes de l'édition philologique classique, la présente édit
 % CHAPITRE {ch_num} (SCANS #{s_start:03d} A #{s_end:03d})
 % =============================================================================
 \\cleardoublepage
-\\chapter{{Chapitre {ch_num} : {ch_title}}}
+\\chapter{{{ch_title}}}
 \\markboth{{Chapitre {ch_num} — {ch_title}}}{{Scans \\#{s_start:03d} à \\#{s_end:03d}}}
 
 \\noindent{{\\normalsize\\textit{{{ch_sub}}}}}\\\\[2mm]
@@ -703,71 +722,90 @@ Inspirée des principes de l'édition philologique classique, la présente édit
 % =============================================================================
 \cleardoublepage
 \appendix
-\chapter{Correspondance de guerre inédite et pièces justificatives (1915–1916)}
+\titleformat{\chapter}[display]
+  {\normalfont\large\bfseries\color{bordeaux}}
+  {\textsc{Annexe\ \Roman{chapter}}}
+  {1mm}
+  {\Large\color{black}}
+\chapter{Correspondance de guerre inédite et pièces justificatives (1916–1918)}
 \markboth{Annexe I — Correspondance de guerre}{Annexe I — Correspondance de guerre}
+{\sloppy
 
-Les archives familiales d'Hippolyte Combes conservées à La Valette et à Millau renferment quatre documents autographes de la Grande Guerre qui éclairent directement la genèse et le contenu du \textit{Livre-Journal}. Nous en donnons ici l'édition diplomatique et critique intégrale.
+Les archives familiales d'Hippolyte Combes conservées dans le sous-répertoire \texttt{archives\_militaires/lettres\_de\_guerre/} du dépôt renferment cinq pièces autographes majeures de la Grande Guerre qui éclairent directement la genèse et le contexte du \textit{Livre-Journal}. Nous en donnons ici l'édition diplomatique et critique fidèle d'après les originaux numérisés.
 
-\section{Document 1 : Lettre du front d'Hippolyte Combes au capitaine commandant la Mission militaire française (février 1916)}
-\noindent\textbf{Source :} \texttt{archives\_militaires/lettres\_de\_guerre/lettre fev 1916 au front à un capitaine.pdf} (brouillon autographe à l'encre sur papier à lettres, 2 pages).
+\section{Document 1 : Lettre d'Hippolyte Combes à un capitaine, ancien collègue de la Faculté de Toulouse (Au front, 25 février 1916)}
+\noindent\textbf{Source :} dossier \texttt{archives\_militaires/lettres\_de\_guerre/}, fichier \texttt{lettre fev 1916 au front à un capitaine.pdf} (double feuillet autographe numéroté p.~36 et p.~37).
 
 \begin{quote}\small
-« Au front, le [\dots] février 1916.\\[1mm]
+« Au front, le 25 février 1916.\\[1mm]
 Mon Capitaine,\\
-J'ai l'honneur de solliciter de votre haute bienveillance quelques jours de permission pour affaires personnelles urgentes à régler dans ma famille et à Paris.\\
-Depuis mon arrivée au front britannique au début de décembre dernier, je n'ai pris aucun congé et j'ai assuré sans interruption le service d'interprète auprès du 1\textsuperscript{er} Bataillon des \textit{Irish Guards}. Mon commandant d'unité ne voit aucun inconvénient à mon absence pendant la période actuelle de repos du bataillon.\\
-Dans l'espoir que vous voudrez bien accueillir favorablement ma demande, je vous prie d'agréer, mon Capitaine, l'expression de mon profond et très respectueux dévouement.\\[1mm]
-\hfill \textbf{H. Combes}, Interprète stagiaire aux \textit{1st Irish Guards}. »
+Permettez à un de vos anciens collègues de la Faculté de Toulouse, aujourd'hui interprète à l'armée britannique, de se rappeler à votre bon souvenir et de solliciter de votre bienveillance un renseignement qui l'intéresse au plus haut point.\\
+Détaché à la Mission militaire française dès le début de mai 1915, j'ai d'abord été affecté à la 12\textsuperscript{e} Division aux environs de Béthune, puis rappelé à la Mission à Saint-Omer. Depuis le mois d'août dernier, je suis attaché à une compagnie d'\textit{Army Service Corps} relevant de la 18\textsuperscript{e} Division, sous les ordres de M. l'officier interprète Pizzi.\\
+Plusieurs de mes camarades, professeurs de l'Université comme moi et entrés dans le service à la même époque, ayant été récemment proposés ou nommés interprètes stagiaires, je vous serais profondément reconnaissant de bien vouloir me faire savoir si je puis espérer faire l'objet d'une mesure semblable lors d'une prochaine promotion.\\
+Veuillez agréer, mon Capitaine, l'hommage de mon très respectueux dévouement.\\[1mm]
+\hfill \textbf{H. Combes}, Interprète H. C., Prof. au Collège de Nogent-le-R. »
 \end{quote}
 
-\noindent\textbf{Commentaire :} Cette lettre de février 1916 confirme qu'Hippolyte Combes a rejoint le front britannique dès le début de décembre 1915, immédiatement après sa nomination du 29 novembre 1915, et qu'il a servi plus de huit mois consécutifs auprès du \textit{1st Battalion, Irish Guards} avant l'ouverture du \textit{Livre-Journal} en juillet 1916.
+\noindent\textbf{Commentaire :} Cette lettre du 25 février 1916 retrace avec une précision parfaite les premiers mois de campagne d'Hippolyte Combes auprès de la B.E.F. depuis son arrivée le 4 mai 1915 : secteur de Béthune avec la 12\textsuperscript{e} Division (où il a connu l'interprète Cordonnier qu'il retrouve le 4 novembre 1916 au Scan \#092), passage à Saint-Omer (quartier général de Sir John French et de la Mission française), puis affectation dès août 1915 dans la Somme auprès du Train de la 18\textsuperscript{e} Division sous l'autorité du lieutenant interprète Pizzi (mentionné aux Scans \#085, \#090 et \#092).
 
-\section{Document 2 : Lettre d'Hippolyte Combes à sa sœur Joséphine (Au front, 16 juin 1916)}
-\noindent\textbf{Source :} \texttt{archives\_militaires/lettres\_de\_guerre/lettre de Hippolyte à sa soeur Josephine - 16 juin 1916 - Au front.pdf} (lettre autographe signée, 4 pages).
+\section{Document 2 : Rapport d'Hippolyte Combes au sous-lieutenant Ferran sur l'incident de Morlancourt (mars 1916)}
+\noindent\textbf{Source :} dossier \texttt{archives\_militaires/lettres\_de\_guerre/}, fichier \texttt{lettre de l'interprete combes pour un incident.pdf} (double feuillet autographe à l'encre, numéroté p.~26 et p.~27).
 
 \begin{quote}\small
-« Au front, le 16 juin 1916.\\[1mm]
-Ma bien chère Joséphine,\\
-Je profite d'une matinée plus calme dans notre cantonnement flamand pour répondre à ta bonne lettre qui m'a fait grand plaisir. Ici, le temps reste désespérément gris, pluvieux et froid pour un mois de juin : on se croirait en novembre ! Nous avons quitté les tranchées boueuses du saillant pour quelques jours de repos à l'arrière, dans un village entouré de houblonnières et de pâtures verdoyantes.\\
-Mon service auprès des officiers des \textit{Irish Guards} est toujours très absorbant : dès qu'on arrive dans une localité, il faut courir de ferme en ferme avec le \textit{Billeting Officer} pour loger tout le monde, apaiser les réclamations des paysans flamands et régler mille détails matériels. Mais les officiers du mess sont d'une courtoisie parfaite à mon égard.\\
-J'ai eu récemment de bonnes nouvelles de La Valette, de Papa et de Maman, ainsi que de Jean à Salonique et d'Émile. Écris-moi souvent, ma chère Phine ; les lettres de la famille et de Millau sont mon meilleur réconfort dans cette vie errante.\\
-Je vous embrasse bien tendrement tous les deux, Léon et toi.\\[1mm]
-\hfill Ton frère affectionné, \textbf{Hippolyte}. »
+« \textbf{L'interprète Combes au sous-lieutenant Ferran, Officier de liaison à la 18\textsuperscript{e} Division.}\\[1mm]
+J'ai l'honneur de vous rendre compte d'un incident survenu le mardi 24 mars au village de Morlancourt, alors que je procédais au cantonnement avec le lieutenant May.\\
+Un lieutenant du \textit{6th Liverpool Regiment} (5\textsuperscript{e} Division) prétendait occuper de force, sans billet de logement (\textit{billeting order}), la chambre d'une veuve âgée dont la maison était déjà régulièrement retenue. Sur mon observation courtoise que ce local n'était pas disponible et qu'il convenait de s'adresser au \textit{Town Major}, cet officier s'est emporté violemment contre moi devant les soldats et les habitants et m'a crié en anglais :\\
+\textit{« Keep silent, or I put you under arrest ! It's all right for me, it shall be worse for you, when I report to the Captain, my interpreter. »}\\
+Devant une telle attitude, je me suis abstenu de toute réplique afin d'éviter un scandale public, mais je crois de mon devoir de porter ces faits à votre connaissance pour la sauvegarde de la dignité de nos fonctions.\\[1mm]
+\hfill \textbf{H. Combes}, Interprète à la 18\textsuperscript{e} Division. »
 \end{quote}
 
-\noindent\textbf{Commentaire :} Rédigée cinq semaines avant la première page du \textit{Livre-Journal}, cette lettre à sa sœur Joséphine (installée à Bordeaux avec son mari Léon) annonce déjà tous les leitmotive littéraires et psychologiques du carnet : la mélancolie du ciel flamand (« on se croirait en novembre »), le labeur harassant du \textit{billeting} de ferme en ferme, la distinction aristocratique du mess des \textit{Irish Guards} et le rôle vital du courrier familial.
+\noindent\textbf{Commentaire :} Ce rapport de mars 1916 sur l'incident de Morlancourt (Somme) constitue le pendant exact des tensions que relate le \textit{Livre-Journal} en décembre 1916 avec le jeune capitaine Williams à Louvencourt et Senlis-le-Sec (Scans \#112, \#114 et \#117). Il montre la position délicate de l'interprète militaire français, dépourvu de galons d'officier mais chargé de faire respecter les règles de réquisition et de protéger les populations civiles picardes contre les abus d'autorité.
 
-\section{Document 3 : Rapport officiel en anglais d'Hippolyte Combes sur l'incident d'Humbercamps (5 novembre 1916)}
-\noindent\textbf{Source :} \texttt{archives\_militaires/lettres\_de\_guerre/lettre de l'interprete combes pour un incident.pdf} (minute autographe en anglais à l'encre noire).
+\section{Document 3 : Lettre confidentielle d'Hippolyte Combes à sa sœur Françoise au Carmel de Périgueux (Au front, vendredi 16 juin 1916)}
+\noindent\textbf{Source :} dossier \texttt{archives\_militaires/lettres\_de\_guerre/}, fichier \texttt{lettre de Hippolyte à sa soeur Josephine - 16 juin 1916 - Au front.pdf} (feuillet autographe recto-verso à l'encre noire ; bien que le fichier informatique ait été nommé par erreur « à sa sœur Joséphine », celle-ci était décédée en octobre 1914 et la lettre s'adresse à sa dernière sœur survivante, Françoise, \textit{Sœur Marie de la Croix}).
 
 \begin{quote}\small
-« Couturelle, November 5th, 1916.\\[1mm]
-\textbf{To the Officer Commanding 152nd Coy A.S.C.}\\[1mm]
-Sir,\\
-With reference to the complaint lodged by the Mayor of Humbercamps regarding damages alleged to have been caused on November 3rd in a barn occupied by men of the unit (wooden partitions pulled down and planks burnt), I beg to report that I proceeded yesterday to Humbercamps in order to investigate the matter on the spot.\\
-After careful inspection of the premises in the presence of the owner and the Garde-Champêtre, it appears that most of the dilapidations complained of were of ancient date and caused by troops previously billeted in the village before our arrival. The actual damage attributable to our men does not exceed the sum of fifteen francs (15 fr.), which the owner agreed to accept in full settlement of his claim.\\[1mm]
-\hfill I have the honour to be, Sir, your obedient Servant,\\
-\hfill \textbf{H. Combes}, Interpreter attached 152nd Coy A.S.C. »
+« \textit{Brûle ce feuillet. Je ne veux pas que tu le gardes dans tes papiers.}\\[1mm]
+Au front, Vendredi 16 juin 1916.\\
+Ma bien chère Sœur,\\
+Les lettres mettent maintenant quatre ou cinq jours pour venir du Midi jusqu'à nous... Quelle existence que la mienne depuis plus d'un an ! Je n'ai jamais aimé la campagne : maintenant je l'ai en horreur. Ces villages boueux, ces plaines monotones, cette vie errante au milieu d'étrangers dont l'esprit et les manières sont si loin des nôtres me pèsent indiciblement.\\
+Hier, étant allé à Fricourt pour le service (\textit{furnishing}), j'ai rencontré quelques camarades français avec qui j'ai pu enfin échanger mes idées à cœur ouvert. Quand donc finira cet horrible cauchemar ? Toutes ces abstractions dont les journaux nous rebattent les oreilles : gloire, honneur, héroïsme, etc., quel tas de blagues ! Vu de près, ce n'est que boue, souffrance, servitude morale et misère. Par moments, le dégoût m'envahit à tel point que je ne demande que la liberté ou la mort...\\
+Prie pour moi, ma bien chère Sœur ; garde pour toi seule ces tristes confidences d'une heure de cafard, et crois à toute la tendresse de ton frère.\\[1mm]
+\hfill \textbf{Hippolyte}. »
 \end{quote}
 
-\noindent\textbf{Commentaire :} Ce document exceptionnel recoupe mot pour mot les entrées des \textbf{3, 4 et 5 novembre 1916} du \textit{Livre-Journal} (Folios 40v–42v, Scans \#083 à \#087). Il illustre concrètement le rôle juridique et financier de l'interprète militaire français au sein de l'\textit{Army Service Corps} : grâce à sa formation de licencié en droit et d'ancien clerc d'avoué, Hippolyte procède à un véritable constat contradictoire (\textit{investigation on the spot}) avec le maire et le garde-champêtre d'Humbercamps pour ramener une réclamation exagérée à une juste indemnité forfaitaire de 15 francs.
+\noindent\textbf{Commentaire :} Document psychologique exceptionnel, écrit quinze jours avant le déclenchement de l'offensive franco-britannique de la Somme (1\textsuperscript{er} juillet 1916) alors qu'Hippolyte Combes se rend encore à Fricourt. Sous le sceau du secret fraternel (« \textit{Brûle ce feuillet} »), l'humaniste chrétien livre sans fard sa révolte intérieure contre le bourrage de crâne de l'arrière (« \textit{toutes ces abstractions : gloire, honneur, etc., quel tas de blagues !} ») et son horreur viscérale de la vie rurale des cantonnements.
 
-\section{Document 4 : \textit{La Prière de l'aviateur} (poème satirique de front, 1915)}
-\noindent\textbf{Source :} \texttt{archives\_militaires/lettres\_de\_guerre/un poeme.pdf} (copie autographe à l'encre).
+\section{Document 4 : Poème anglais de Beatrice Chilcott (\textit{Wesley Band of Hope})}
+\noindent\textbf{Source :} \texttt{archives\_militaires/lettres\_de\_guerre/un poeme.pdf} (copie autographe d'un poème anglais en trois strophes de huit vers, signée \textit{Beatrice Chilcott, Wesley Band of Hope}).
 
-Ce feuillet conservé parmi les papiers militaires d'Hippolyte Combes contient la copie calligraphiée d'un pastiche en vers intitulé \textit{La Prière de l'aviateur} (parodie de la prière chrétienne adaptée aux aléas des moteurs d'aviation et des permissions de 1915–1916), probablement adressé par ou destiné à son jeune frère \textbf{Jean Combes} (né en 1891), passé de l'artillerie à l'aviation militaire à l'Armée d'Orient.
+\begin{quote}\small
+\textit{« What, love a passion ! Heaven forbid}\\
+\textit{That men should call true love by such a name... »}\\[1mm]
+\hfill Signé : \textbf{Beatrice Chilcott}, \textit{Wesley Band of Hope}.
+\end{quote}
+
+\noindent\textbf{Commentaire :} Conservé précieusement par Hippolyte Combes parmi ses papiers de guerre, ce poème d'inspiration méthodiste (\textit{Wesley Band of Hope}) célébrant la pureté de l'amour spirituel par opposition à la passion charnelle est un souvenir de son séjour de quatre années à Nottingham (entre 1901 et 1907) et de son amitié avec la jeune Anglaise Beatrice Chilcott.
+
+\section{Document 5 : Lettres de l'armistice à Marguerite et à « Bonne Maman » Calmels (Paris, 25 novembre 1918 \& Les Andelys, 2 décembre 1918)}
+\noindent\textbf{Sources :} \texttt{archives\_militaires/lettres\_de\_guerre/lettre à bonne maman 25 novembre 1918.jpg} et \texttt{carte 2 decembre 1918.pdf}.
+
+Dans sa lettre écrite de Paris (Hôtel du Panthéon et Bibliothèque Sainte-Geneviève) le \textbf{25 novembre 1918}, au lendemain de sa nomination comme professeur d'anglais à l'École militaire préparatoire des Andelys, Hippolyte Combes décrit son passage à Nogent-le-Rotrou pour récupérer ses meubles et ses livres dans sa maison du \textbf{17 rue Saint-Hilaire} et évoque avec émotion sa petite fille \textbf{Valentine Combes}, née à Millau le 18 septembre 1918. La carte postale du \textbf{2 décembre 1918}, expédiée des Andelys à \textit{« Madame Combes, 10 rue Alfred-Guibert, Millau (Aveyron) »}, annonce son installation en Normandie en attendant leur réunion familiale.
+\par}
 
 \chapter{État signalétique des services et table synoptique des 186 scans}
 \markboth{Annexe II — État des services et table des scans}{Annexe II — État des services et table des scans}
+{\sloppy
 
-\section{Résumé de la fiche matricule d'Hippolyte Combes (Classe 1896, Matricule 762, Subdivision de Rodez)}
+\section{Résumé de la fiche matricule d'Hippolyte Combes (Classe 1896, Matricule 911, Bureau de recrutement de Toulouse)}
 
 \begin{figure}[htbp]
   \centering
   \begin{minipage}[b]{0.46\textwidth}
     \centering
     \includegraphics[height=56mm,keepaspectratio]{illustrations/mariage_millau_1917.jpg}
-    \par\vspace{1mm}{\scriptsize\textit{Fig. 3.} Mariage d'Hippolyte et Marguerite à Millau (30 avril 1917).}
+    \par\vspace{1mm}{\scriptsize\textit{Fig. 3.} Mariage d'Hippolyte et Marguerite à Millau (25 octobre 1917).}
   \end{minipage}\hfill
   \begin{minipage}[b]{0.46\textwidth}
     \centering
@@ -776,16 +814,17 @@ Ce feuillet conservé parmi les papiers militaires d'Hippolyte Combes contient l
   \end{minipage}
 \end{figure}
 
+D'après le registre matricule du recrutement de Toulouse (dossier \texttt{archives\_militaires/fiche\_et\_parcours/}, fichier \texttt{Fiche\_militaire\_Combes\_Hippolyte.md.docx}) et les actes d'état civil (\texttt{biographie\_et\_famille/etat\_civil\_et\_actes/}) :
 \begin{itemize}
-  \item \textbf{État civil :} Hippolyte Pierre Jean Combes, né le 29 septembre 1876 à La Valette (commune de Saint-Beauzély, canton de Saint-Beauzély, arrondissement de Millau, Aveyron), fils de Pierre Combes et de Mélanie Combes.
-  \item \textbf{Incorporation et campagnes (1915–1919) :}
+  \item \textbf{État civil :} \textbf{Marie Lucien Hippolyte Combes}, né le \textbf{14 août 1876} à \textbf{Millau} (Aveyron), rue des Barris (inscrit sous la date du 22 août 1876 sur la fiche matricule), fils de \textbf{François Augustin Hippolyte Combes} et de \textbf{Marie Anaïs Alric}, domiciliés à Toulouse (47 rue du Taur). Signalement : cheveux et sourcils châtains, yeux gris bleu, taille 1,66 m. Profession : étudiant ecclésiastique puis professeur d'anglais au collège de Nogent-le-Rotrou (Eure-et-Loir).
+  \item \textbf{Parcours militaire et campagnes (1914–1919) :}
     \begin{itemize}
-      \item Incorporé au \textbf{10\textsuperscript{e} Régiment d'Artillerie à Pied} à Toulon le \textbf{31 mars 1915} (canonnier servant de 2\textsuperscript{e} classe).
-      \item Nommé \textbf{interprète stagiaire de réserve} au corps des interprètes militaires (Armée britannique) par décision ministérielle du \textbf{29 novembre 1915} (\textit{J.O.} du 5 décembre 1915).
-      \item Détaché auprès du \textbf{1st Battalion, Irish Guards} (\textit{Guards Division}) de décembre 1915 à août 1916.
-      \item Détaché auprès de la \textbf{152nd Company, Army Service Corps} de fin août 1916 au printemps 1917.
-      \item Promu \textbf{officier interprète de 3\textsuperscript{e} classe} par décret du \textbf{7 décembre 1917} (\textit{J.O.} du 11 décembre 1917).
-      \item Démobilisé en 1919 ; titulaire de la \textbf{Médaille commémorative britannique (\textit{British War Medal})}.
+      \item Exempté en 1896 pour « faiblesse générale » (numéro de tirage 74, canton de Toulouse-Nord) ; classé \textbf{Service armé} par le conseil de révision d'Eure-et-Loir le \textbf{18 décembre 1914}.
+      \item Appelé à l'activité le \textbf{20 mars 1915} ; arrivé au corps le \textbf{21 mars 1915} au \textbf{10\textsuperscript{e} Régiment d'Artillerie à pied} (39\textsuperscript{e} batterie) à Toulon (campagne simple à l'intérieur du 21 mars au 3 mai 1915).
+      \item Détaché à la \textbf{Mission militaire française attachée à l'Armée britannique} aux armées (campagne double) du \textbf{4 mai 1915 au 11 novembre 1918} ; passé administrativement au \textbf{19\textsuperscript{e} Escadron du Train des Équipages Militaires} le \textbf{15 octobre 1915}.
+      \item Affecté successivement auprès de la 12\textsuperscript{e} Division britannique (Béthune, mai–juillet 1915), de la Mission à Saint-Omer, du \textbf{1st Battalion, Irish Guards} et de la \textbf{152nd Company, Army Service Corps} (18\textsuperscript{e} Division, XIII\textsuperscript{e} et V\textsuperscript{e} Corps).
+      \item Affecté le \textbf{24 novembre 1918} à l'\textbf{École militaire préparatoire des Andelys} comme professeur d'anglais ; nommé \textbf{caporal} le \textbf{4 décembre 1918}.
+      \item Mis en congé illimité de démobilisation le \textbf{7 février 1919} par le dépôt démobilisateur du 103\textsuperscript{e} R.I. (se retire à Nogent-le-Rotrou, rue Saint-Hilaire). Nommé professeur au \textbf{lycée Ingres de Montauban} le \textbf{24 janvier 1920}.
     \end{itemize}
 \end{itemize}
 
@@ -796,6 +835,7 @@ Tous les clichés originaux sont disponibles en double résolution à la racine 
   \item \texttt{scans\_haute\_qualite/} : 186 fichiers JPEG haute résolution non compressés (1,03 Go au total, env. 5,9 Mo par scan) ;
   \item \texttt{scans\_compresses/} : 186 fichiers JPEG optimisés pour la transcription automatique et l'édition électronique (31,1 Mo au total).
 \end{enumerate}
+\par}
 
 \end{document}
 """
