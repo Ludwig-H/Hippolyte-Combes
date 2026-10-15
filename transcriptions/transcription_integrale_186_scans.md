@@ -9,34 +9,37 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - **Date** : 25 juillet 1916 – 30 avril 1917
 - **Lieu** : Somme, Flandres, Artois, Paris, Toulouse, Millau
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Date d’apposition du titre et des dates extrêmes non établie..
+
 ```text
  1 | Livre - Journal
- 2 | — — —
+ 2 | —
  3 | Du 25 juillet 1916
  4 | au 30 avril 1917
- 5 | — — —
+ 5 | —
 ```
 
-- *l. 1* : **1 Livre - Journal** *titulus in pittacio caeruleo.*
-- *l. 3* : **3 25 juillet 1916** *terminus a quo.*
-- *l. 4* : **4 30 avril 1917** *terminus ad quem.*
 
 * * *
 
-**l.~1--5 Livre - Journal :** Plat supérieur du carnet recouvert d'une toile ou papier fort rouge à décor de losanges gaufrés, sur lequel est collée une grande étiquette rectangulaire de papier bleu portant à l'encre noire l'intitulé autographe en cinq lignes : *Livre - Journal / — / Du 25 juillet 1916 / au 30 avril 1917 / —*. Les deux dates extrêmes ont été inscrites ou complétées par Hippolyte Combes après la clôture du dernier feuillet le lundi 30 avril 1917 (Scan #186).
+**Support et titre :** Couverture rouge à décor losangé et grande étiquette bleue rectangulaire. Deux filets horizontaux séparent le titre des dates et terminent l'inscription. L'examen de cette seule photographie ne date pas les inscriptions ni ne démontre qu'elles furent toutes portées après le 30 avril 1917.
 
-> **Période couverte (25 juillet 1916 -- 30 avril 1917) :** Ces neuf mois correspondent à la campagne d'Hippolyte Combes (interprète militaire de réserve, classe 1896) auprès du Corps expéditionnaire britannique (*B.E.F.*), successivement détaché aux *1st Irish Guards* (Somme, Flandres) puis à la *152nd Company A.S.C.* et au XIIIe Corps (Flandres, Artois, Somme).
+> **Datation déclarée :** L'étiquette donne le 25 juillet 1916 et le 30 avril 1917 comme bornes du Livre-Journal. L'affectation militaire doit être établie à partir des pièces de carrière et des lettres, et non déduite de cette couverture.
 
 ---
 
-## Scan #002 — `20251126_092932.jpg` — Folio 1 recto
-- **Titre** : FOLIO 1 RECTO (Mardi 25 juillet 1916 — Lumbres et Setques : rassemblement avec le lieutenant Curtis devant l'église de Setques et cantonnement de 36 officiers des Royal Fusiliers)
+## Scan #002 — `20251126_092932.jpg` — Vue 002
+- **Titre** : Mardi 25 juillet 1916 — rassemblement avec Curtis, visite de l’église et arrivée de 36 officiers
 - **Date** : Mardi 25 juillet 1916
-- **Lieu** : Lumbres et Setques (Pas-de-Calais)
+- **Lieu** : Village lu Sercus [?] ; cantonnement non nommé sur cette vue
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 2 : « dès » proposé, liaison graphique à confirmer.; l. 10 : Sercus proposé ; lieu du cantonnement distinct du village visité.; l. 21 : patronyme Backer à confronter à d’autres occurrences..
 
 ```text
  1 | 25 Ma.          Juillet 1916
- 2 | Levé v. 8 H m.          Bien reposé
+ 2 | Levé [dès ?] 8 H m.          Bien reposé
  3 | Toute nuit, pensé très vivement à Margte —
  4 | Toujours même ciel gris et bas : ciel de
  5 | Flandre. Beaux arbres élancés aux branches
@@ -44,7 +47,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | d'avoine et de blé — épis très hauts & serrés
  8 | Mélancolie éparse à travers atmosphère
  9 | Matin, venu à pied, avec fantastique
-10 | lieutt Curtis au village de Setques, où notre
+10 | lieutt Curtis au village de [Sercus ?], où notre
 11 | rassemblement se fait devant cimetière qui
 12 | entoure église très curieuse —
 13 | Après-midi : bien reposé chambre — quand
@@ -60,8 +63,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 - *l. 1* : **1 Ma.** *scil.* Mardi.
-- *l. 2* : **2 m.** *abbr. pro* matin.
+- *l. 2* : **2** *lect. incert. in ms.* **2 m.** *abbr. pro* matin.
 - *l. 3* : **3 Margte** *scil.* Marguerite (Calmels).
+- *l. 10* : **10** *lect. incert. in ms.*
 - *l. 15* : **15 off.** *abbr. pro* officier(s). **15 R. Fusrs** *angl.* Royal Fusiliers.
 - *l. 19* : **19 1/2** *scil.* demi / moitié. **19 s.** *abbr. pro* soir.
 - *l. 20* : **20 off.** *abbr. pro* officier(s). **20 mess** *angl. in ms.*
@@ -69,24 +73,27 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2--12 Levé v. 8 H m. / lieutt** Curtis au village de Setques : Page d'ouverture du journal proprement dit. À la l.~2, le manuscrit porte clairement *Levé v. 8 H m. / Bien reposé* (et non *Lucheux / Bien reçu* comme l'avait lu le premier brouillon). Aux l.~9--12, on lit : *Matin, venu à pied, avec fantastique lieutt* Curtis au village de Setques, où notre rassemblement se fait devant cimetière qui entoure église très curieuse. Le bloc comptable final (l.~21--22) enregistre : *A Mme Backer, pour repas d'hier & 4 oeufs : 1 f 75 / Varia : 75 c*.
+**l.~2--3 et 9--12 :** La notation du lever comporte une liaison abrégée dont la lecture *dès* reste proposée. La l.~3 porte *pensé très vivement à Margte*, non un mauvais sommeil. Le nom *Curtis* est lisible ; le toponyme est proposé *Sercus* avec réserve. Les dépenses au bas de la vue font partie du texte. **Cantonnement :** Le nom de Lynde n'est pas écrit sur cette page ; le nommer ici relève d'un rapprochement avec le compte du 28 juillet.
 
-> **l.~9--15 village de Setques / 36 off. du R. Fusrs** : Le mardi 25 juillet 1916, Hippolyte Combes cantonne dans la vallée de l'Aa à **Lumbres** et **Setques** (Pas-de-Calais, à l'ouest de Saint-Omer), avec la **18e** Division britannique (*152nd Company A.S.C.*), où il accompagne déjà le « fantastique lieutenant **Curtis** » et prépare à Lumbres le cantonnement de 36 officiers des **Royal Fusiliers** (*R. Fusrs*, bataillon de la 18e Division).
+> **Cantonnement et réunion :** Le texte distingue une marche vers un village pour le rassemblement et le déménagement provoqué par l'arrivée de 36 officiers des R. Fusrs. Il ne permet pas, à lui seul, d'identifier leur bataillon ni de confondre lieu du rassemblement et lieu du logement.
 
 ---
 
-## Scan #003 — `20251126_093018.jpg` — Folio 1 verso
-- **Titre** : FOLIO 1 VERSO (Mercredi 26 juillet 1916 — Lumbres : préparation de trente chambres d'officiers, château de la brasserie et annonce d'un nouveau départ)
+## Scan #003 — `20251126_093018.jpg` — Vue 003
+- **Titre** : Mercredi 26 juillet 1916 — recherche de 36 chambres et annonce du départ
 - **Date** : Mercredi 26 juillet 1916
-- **Lieu** : Lumbres (Pas-de-Calais)
+- **Lieu** : Cantonnement non nommé sur la vue ; Lynde proposé par rapprochement avec le 28 juillet
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 6 : contenu de la surcharge ou biffure après d’off. non déchiffré.; Identification du lieutenant Michel non établie par cette page..
 
 ```text
  1 | 26 Mer.          Juillet /16
- 2 | De 9 H m. ju 3 H 1/2 s., occupé au cantonnement
+ 2 | De 9 H m. j'à 2 H 1/2 s., occupé au cantonnement
  3 | des Royal Fusiliers. Accompagné Lt Michel, billeting
  4 | officer. d’ 1 extrémité du village à l'autre et
  5 | même ds les environs -- pour trouver 36 chambres
- 6 | d’off ⟦& 15 lits⟧ – Libre enfin vers 2H, mais harassé
+ 6 | d’off ⟦[illis.]⟧ – Libre enfin vers 2H, mais harassé
  7 | de fatigue et mourant de faim –
  8 | Tout l'après-midi : ds ma chambre et
  9 | me suis bien reposé –
@@ -101,10 +108,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 - *l. 1* : **1 Mer.** *scil.* Mercredi.
-- *l. 2* : **2 ju** *abbr. pro* jusqu'à. **2 1/2** *scil.* demi / moitié.
+- *l. 2* : **2 j'à** *abbr. pro* jusqu'à. **2 1/2** *scil.* demi / moitié.
 - *l. 3* : **3 Lt** *abbr. pro* Lieutenant. **3 billeting** *angl. in ms.*
 - *l. 5* : **5 ds** *abbr. pro* dans.
-- *l. 6* : **6** ⟦& 15 lits⟧ *del. in ms.* **6 off** *abbr. pro* officier(s).
+- *l. 6* : **6** ⟦[illis.]⟧ *del. in ms.* **6** *lect. incert. in ms.*
 - *l. 8* : **8 ds** *abbr. pro* dans.
 - *l. 10* : **10 lgt** *abbr. pro* longtemps.
 - *l. 11* : **11 cottage** *angl. in ms.*
@@ -114,27 +121,29 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2--13 ju / chateau de la brasserie :** À la l.~2, *ju* note *jusqu'à* (*De 9 H m. ju 3 H 1/2 s.*). À la l.~13, le manuscrit porte *chateau de la brasserie*.
+**l.~2--6 :** *j'à* abrège jusqu'à. Après *d'off*, une forte reprise d'encre rend la biffure difficile ; le développement *15 lits* ne peut être assuré. **l.~13 :** *chateau de la brasserie* se lit sur la photographie. Le compte final mentionne Food et Washing.
 
-> **l.~2--15 occupé au cantonnement / 30 chambres d'off. :** Toute la journée du 26 juillet 1916 est consacrée au *billeting* de trente officiers et à la visite des châteaux de Lumbres (notamment le château de la brasserie), avant l'annonce d'un prochain mouvement vers la Flandre intérieure (Hondeghem et Caëstre).
+> **Cantonnement :** Le diariste accompagne le lieutenant Michel, billeting officer, pour chercher 36 chambres et apprend un changement de cantonnement prévu le 28. Le village n'est pas nommé sur cette vue ; Lynde est proposé par rapprochement avec le compte du 28 juillet.
 
 ---
 
-## Scan #004 — `20251126_093100.jpg` — Folio 2 recto
-- **Titre** : FOLIO 2 RECTO (Jeudi 27 juillet 1916 — De Lumbres vers Hazebrouck : spleen, jardins potagers et achats de cartes postales d'Ypres et de Renescure)
+## Scan #004 — `20251126_093100.jpg` — Vue 004
+- **Titre** : Jeudi 27 juillet 1916 — Renescure, Hazebrouck et comptes d’achats
 - **Date** : Jeudi 27 juillet 1916
-- **Lieu** : Lumbres, Renescure et Hazebrouck (Pas-de-Calais / Nord)
+- **Lieu** : Renescure et Hazebrouck (déplacements explicitement nommés)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | 27 J.          Juillet /16
  2 | – Aussitôt après breakfast, venu à pied
- 3 | à Renescure. Toujours même temps gris et
+ 3 | à Renescure. Tjours même temps gris et
  4 | saturé de mélancolie.
  5 | Village très intéressant
  6 | 2 superbes châteaux M. Age – fossé entourant
  7 | château – tours à chaque angle du carré –
  8 | donjon etc. etc.
- 9 | Eglise m’a aussi retenu lg – Double nef
+ 9 | Eglise m’a aussi retenu lgt – Double nef
 10 | Après lunch, venu à cheval à Hazebrouck
 11 | Ville parait assez importante
 12 | grande place –
@@ -143,40 +152,44 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | seul petite allée jardins potagers devant mon
 16 | cottage. Temps de brouillard. Silence et
 17 | désert funèbre.
-18 | A Renescure : boite de plumes : 1 f 50. –
+18 | A Renescure : boîte de plumes : 1 f 50. —
 19 | 2 carnets timbres-poste : 2 f + 2 f. —
-20 | Cartes ples : d'Ypres : 1 f 20. — C. P. de Renescure : 60 c +
-21 | c. ples (varia) : 50 c. —
-22 | A Hazebrouck : Solde : 84 fr. — Varia : 30 c. —
-23 | C. ples : 60 + 10 c —          1 cahier cartonné : 1 f 50
-24 | Cte d’E. Major : 90 c. – Élastiq. (bretelles) : 65 c —
+20 | Cartes ples : d'Ypres : 1 f 20. – C. P. de Renescure : 60 c +
+21 |          C. ples (varia) : 50 c. —
+22 | A Hazebrouck : Solde : 84 fr. —
+23 | C. ples : 60 + 10 c –          1 cahier cartonné : 1 f 50
+24 | Cte d'Etat-major : 90 c. –          3 élastiq. de rechange
+25 |          (bretelles) : 65 c —
 ```
 
 - *l. 1* : **1 J.** *scil.* Jeudi.
 - *l. 2* : **2 breakfast** *angl. in ms.*
-- *l. 9* : **9 lg** *abbr. pro* longtemps.
+- *l. 9* : **9 lgt** *abbr. pro* longtemps.
 - *l. 10* : **10 lunch** *angl. in ms.*
 - *l. 14* : **14 lgt** *abbr. pro* longtemps.
 - *l. 16* : **16 cottage** *angl. in ms.*
 - *l. 19* : **19 f.** *abbr. pro* franc(s).
 - *l. 20* : **20 C. P.** *abbr. pro* Cartes postales. **20 Cartes ples** *abbr. pro* Cartes postales.
-- *l. 21* : **21 c. ples** *abbr. pro* cartes postales. **21 c.** *abbr. pro* centimes.
-- *l. 22* : **22 fr.** *abbr. pro* franc(s). **22 c.** *abbr. pro* centimes.
+- *l. 21* : **21 C. ples** *abbr. pro* Cartes postales. **21 c.** *abbr. pro* centimes.
+- *l. 22* : **22 fr.** *abbr. pro* franc(s).
 - *l. 23* : **23 C. ples** *abbr. pro* Cartes postales.
 - *l. 24* : **24 c.** *abbr. pro* centimes.
 
 * * *
 
-**l.~4, 19--25 saturé de mélancolie / Cartes ples** : À la l.~4, lire *saturé de mélancolie*. Le bloc comptable (l.~19--25) atteste l'abréviation constante d'Hippolyte pour *cartes postales* : *Cartes ples* : d'Ypres : 1 f 20. — C. P. de Renescure : 60 c, puis *A Hazebrouck : Solde : 84 fr. — Varia : 30 c. — C. ples* : 60 + 10 c — 1 cahier cartonné : 1 f 50 et *Élastiq. (bretelles) : 65 c*.
+**Bloc comptable, l.~18--25 :** Cartes ples abrège cartes postales. À la fin, le chiffre visible est *3 élastiq. de rechange*, et non 2. Les éléments placés à droite sont des postes de dépenses, non la continuation syntaxique du récit.
 
-> **l.~2--13 Renescure... Hazebrouck :** Parti à pied après le *breakfast*, Hippolyte visite à Renescure le château féodal de Philippe de Commynes (entouré de douves et flanqué de tours d'angle) et l'église à double nef, avant de gagner Hazebrouck à cheval dans l'après-midi pour toucher sa solde et acheter une carte d'état-major.
+> **Promenades :** Le texte nomme Renescure et Hazebrouck et décrit deux châteaux, une église à double nef, une place et une église avec square. L'identification individuelle des châteaux demande une source extérieure ; les cartes d'Ypres achetées ne prouvent pas une visite d'Ypres ce jour-là.
 
 ---
 
-## Scan #005 — `20251126_093141.jpg` — Folio 2 verso
-- **Titre** : FOLIO 2 VERSO (Vendredi 28 juillet 1916 — Départ de Lumbres (Mme Donze) et lente chevauchée sous la chaleur jusqu'au pensionnat protestant d'Ebenezer près de Pradelles)
+## Scan #005 — `20251126_093141.jpg` — Vue 005
+- **Titre** : Vendredi 28 juillet 1916 — départ de Lynde, convoi par Hazebrouck et logement au grenier
 - **Date** : Vendredi 28 juillet 1916
-- **Lieu** : De Lumbres à Hondeghem, Caëstre et Pradelles (Ebenezer)
+- **Lieu** : De Lynde vers Saint-Jans-Cappel par Hazebrouck (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 20 : patronyme Donze proposé.; Destination identifiée par continuité avec le 29 juillet..
 
 ```text
  1 | 28 Ve.          Juillet / 16
@@ -198,10 +211,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | chambre pour moi – Dû me contenter d’ 1 grenier
 18 | Harassé de fatigue, suffoqué de chaleur
 19 | Besoin de repos extrême
-20 | Laissé à Mme Donze, de Lumbres (pour cuisine 2 f
-21 | et 1 f pour oeufs & lait. —
-22 | Food (extra) : 10 c, 1 f, 1 f, 60 c. — Tip au groom pour soigné poney : 1 f
-23 | Cartes ples : 10 c
+20 | Laissé à Mme [Donze ?], de Lynde (pour cuisine 2 f
+21 | et 1 f pour oeufs & lait —
+22 | Food (extra) : 10 c, 1 f, 1 f, 60 c. –          Cartes ples : 10 c
+23 | Tip au groom pour soigné poney : 1 f.
 ```
 
 - *l. 1* : **1 Ve.** *scil.* Vendredi.
@@ -211,81 +224,86 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 7* : **7 1/2** *scil.* demi / moitié.
 - *l. 15* : **15 mouvt** *abbr. pro* mouvement. **15 1/2** *scil.* demi / moitié.
 - *l. 16* : **16 gde** *abbr. pro* grande.
-- *l. 20* : **20 Mme** *abbr. pro* Madame.
-- *l. 22* : **22 c.** *abbr. pro* centimes. **22 Food** *angl. in ms.*
-- *l. 23* : **23 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 20* : **20** *lect. incert. in ms.* **20 Mme** *abbr. pro* Madame.
+- *l. 22* : **22 Cartes ples** *abbr. pro* Cartes postales. **22 c.** *abbr. pro* centimes.
+- *l. 23* : **23 f.** *abbr. pro* franc(s). **23 groom** *angl. in ms.*
 
 * * *
 
-**l.~20--23 Laissé à Mme Donze, de Lumbres :** Aux l.~20--23, le compte de départ confirme de manière décisive le cantonnement des jours précédents à Lumbres : *Laissé à Mme Donze, de Lumbres (pour cuisine 2 f et 1 f pour oeufs & lait. — Food (extra) : 10 c, 1 f, 1 f, 60 c. — Tip au groom pour soigné poney : 1 f / Cartes ples* : 10 c.
+**l.~20--23 :** Le compte donne le lieu de départ, *Lynde*, et un patronyme proposé *Donze*. Le texte sépare la cuisine (2 f), les œufs et le lait (1 f), puis Food, cartes et pourboire au groom. La destination du déplacement n'est pas nommée sur cette vue.
 
-> **l.~7--17 Contourné Hazebrouck... gde prairie autour d'1 ferme :** Chevauchant de 8 h 30 à 16 h 30 en tête de la colonne logistique par les chemins sablonneux de Flandre bordés de blés et d'avoines, Hippolyte contourne Hazebrouck sous un soleil brûlant et doit se contenter d'un grenier de ferme au pied des monts de Flandre.
+> **Étape :** Départ à cheval en tête du convoi, contournement d'Hazebrouck et arrivée vers 4 h 1/2 à une ferme avec grande prairie ; le diariste ne trouve qu'un grenier. Saint-Jans-Cappel est explicitement nommé dans l'entrée suivante et fournit une localisation par continuité, non une lecture du présent feuillet.
 
 ---
 
-## Scan #006 — `20251126_093204.jpg` — Folio 3 recto
-- **Titre** : FOLIO 3 RECTO (Samedi 29 juillet 1916 — Tournée avec le lieutenant Curtis à Saint-Jans-Cappel et achat de fourrages au Mont-Noir)
+## Scan #006 — `20251126_093204.jpg` — Vue 006
+- **Titre** : Samedi 29 juillet 1916 — Tournée avec le lieutenant Curtis à Saint-Jans-Cappel et achat de fourrages au Mont-Noir
 - **Date** : Samedi 29 juillet 1916
 - **Lieu** : Saint-Jans-Cappel et le Mont-Noir (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 5 : fin du nom Le Mont-Noir à confirmer sur un autre témoin.; l. 11 : biffure ou surcharge non déchiffrée..
 
 ```text
  1 | Sam. 29          Juillet 16
  2 | Sur pied à 7H 1/2 –
  3 | Breakfast à peine terminé, que ce fou de
  4 | Curtis venu me prendre — Sommes allés chercher fourrage
- 5 | Ensemble, à St-Jans Cappel, et de là le hameau de ce Mont
- 6 | Recherché fermes ds ce village et causé longt s/
- 7 | la dernière attaque à l.q. notre division a pris part
- 8 | Après-midi, av. fermier et Ctis, venus me
+ 5 | à St-Jans Cappel – et ds le hameau de Le Mont-Noir
+ 6 | Rencontré curieux vicaire de ce village et causé longt s/
+ 7 | la dernière attaque à l. notre division a pris part.
+ 8 | Après-midi, ce fou de Ctis, revenu me
  9 | prendre. De 2 à 5 H, au plein soleil, ds 1 champ
 10 | où fait faucher & peser fourrage –
-11 | Oté veste & gilet – allongé s/ l’herbe – regardé
-12 | paysage et pensé lg à Margte.
+11 | Oté veste & gilet – allongé s/ l’herbe – ⟦[illis.]⟧
+12 | paysage et pensé lgt à Margte.
 13 | Région de plaines, de nombreuses houblonnières
 14 | A l’horizon, ballons captifs. De temps à autre
 15 | bombardement lointain –
 16 | Ciel traversé d'avions anglais.
 17 | Après diner : venu promener au village de
-18 | St Jans - Cappel
-19 | (1) maisons très basses – beaux rideaux aux
-20 | fenêtres –
-21 | Eglise au clocher effilé
-22 | [ Payé à fermière où je loge pour 4 oeufs et
-23 | 2 litres 1/2 de lait : 1 f 60. —
-24 | 5 cartes ples : 50 c. — ]
+18 | St-Jans-Cappel (1)
+19 | Payé à fermière où je loge pour 4 oeufs et
+20 | 2 litres 1/2 de lait : 1 f 60. —
+21 | 5 cartes ples : 50 c. —
+22 | (1) maisons très basses – blancs rideaux aux
+23 | fenêtres –
+24 | église au clocher effilé
 ```
 
 - *l. 1* : **1 Sam.** *scil.* Samedi.
 - *l. 2* : **2 1/2** *scil.* demi / moitié.
 - *l. 3* : **3 Breakfast** *angl. in ms.*
-- *l. 5* : **5 St** *abbr. pro* Saint.
-- *l. 6* : **6 ds** *abbr. pro* dans. **6 s/** *abbr. pro* sur.
+- *l. 5* : **5 ds** *abbr. pro* dans. **5 St** *abbr. pro* Saint.
+- *l. 6* : **6 s/** *abbr. pro* sur. **6 longt** *abbr. pro* longtemps.
 - *l. 8* : **8 Ctis** *abbr. pro* Curtis.
 - *l. 9* : **9 ds** *abbr. pro* dans.
-- *l. 11* : **11 s/** *abbr. pro* sur.
-- *l. 12* : **12 lg** *abbr. pro* longtemps. **12 Margte** *scil.* Marguerite (Calmels).
+- *l. 11* : **11** ⟦[illis.]⟧ *del. in ms.* **11** *lect. incert. in ms.*
+- *l. 12* : **12 lgt** *abbr. pro* longtemps. **12 Margte** *scil.* Marguerite (Calmels).
 - *l. 18* : **18 St** *abbr. pro* Saint.
-- *l. 22* : **22** *in marg. cum unco* (comptes).
-- *l. 23* : **23 1/2** *scil.* demi / moitié.
-- *l. 24* : **24 cartes ples** *abbr. pro* cartes postales. **24 c.** *abbr. pro* centimes.
+- *l. 20* : **20 1/2** *scil.* demi / moitié.
+- *l. 21* : **21 cartes ples** *abbr. pro* cartes postales. **21 c.** *abbr. pro* centimes.
 
 * * *
 
-**l.~4, 8, 22--24 Curtis / Ctis / [ Payé à fermière... ] :** Aux l.~4 et 8, le manuscrit porte *Curtis* puis son abréviation *Ctis*. Les trois dernières lignes (l.~22--24), omises dans le premier brouillon Word, sont restituées d'après le cliché : *[ Payé à fermière où je loge pour 4 oeufs et / 2 litres 1/2 de lait : 1 f 60. — / 5 cartes ples* : 50 c. — ].
+**l.~4, 8, 11 et 19--24 :** Le nom Curtis et sa contraction Ctis sont distincts. Une biffure ou surcharge voisine de *allongé s/ l'herbe* reste indéchiffrée ; *regardé* n'est pas assuré. Deux filets séparent les dépenses puis la note descriptive appelée par (1), qu'il faut conserver.
 
-> **l.~4--16 St-Jans Cappel... hameau du Mont :** Chargé d'acheter et de faire peser le fourrage dans les fermes de Saint-Jans-Cappel et du Mont-Noir (à la frontière franco-belge), Hippolyte s'étend un moment en bras de chemise parmi les houblonnières, face aux ballons captifs d'observation et aux avions britanniques gagnant le saillant d'Ypres.
+> **Fourrage :** Saint-Jans-Cappel et le hameau du Mont-Noir sont les lieux proposés de la tournée ; le texte mentionne aussi ballons captifs, bombardement lointain et avions anglais. Il n'indique pas la destination des avions ni une opération précise.
 
 ---
 
-## Scan #007 — `20251126_093219.jpg` — Folio 3 verso
-- **Titre** : FOLIO 3 VERSO (Messe dominicale à Saint-Jans-Cappel et corvée de fourrage vert vers Bailleul)
+## Scan #007 — `20251126_093219.jpg` — Vue 007
+- **Titre** : Messe dominicale à Saint-Jans-Cappel et corvée de fourrage vert vers Bailleul
 - **Date** : Dimanche 30 et lundi 31 juillet 1916
 - **Lieu** : Saint-Jans-Cappel et Bailleul (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 21 : patronyme du fermier, Terrien [?], à confirmer..
 
 ```text
  1 | Dim. 30.          Juillet 1916
  2 | Couché s/ une mauvaise paillasse tte
- 3 | crevasseuse – Rats, sarabande au-dessus de ma
+ 3 | crasseuse – Rats, sarabande au-dessus de ma
  4 | tête et m’ont tenu éveillé partie nuit
  5 | Après breakfast, venu à pied à travers les
  6 | houblonnières au village de St-Jans Cappel.
@@ -303,7 +321,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | Lundi 31. Chaleur accablante – Air irrespirable
 19 | Matin, en auto avec mes off. : au
 20 | refilling point, puis à Bailleul, enfin
-21 | chez fermier Terrien –
+21 | chez fermier [Terrien ?] –
 22 | Après-midi, en plein soleil cuisant ai
 23 | dû conduire 1 waggon to the fields
 24 | for green forage. Chaleur extrême
@@ -321,21 +339,25 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 16* : **16 headcook** *angl. in ms.*
 - *l. 19* : **19 off.** *abbr. pro* officier(s).
 - *l. 20* : **20 refilling point** *angl. in ms.*
+- *l. 21* : **21** *lect. incert. in ms.*
 - *l. 23* : **23 waggon** *angl. in ms.*
 - *l. 24* : **24 green** *angl. in ms.*
 
 * * *
 
-**l.~2--3 paillasse crevasseuse :** Adjectif dérivé expressif décrivant l'état de sa litière de paille. **l.~8--9 Prêtre en chaire... presque en face :** Après le sermon, Hippolyte s'assoit sur un petit pont presque en face de l'église. **l.~23--24 conduire 1 waggon to the fields for green forage :** Alternance codique franco-anglaise au sein de la proposition.
+**Deux entrées :** La photographie porte Dim. 30 puis Lundi 31. Les mentions anglaises *headcook*, *refilling point* et *to the fields for green forage* sont conservées. **l.~8--9 :** La juxtaposition *Prêtre en chaire. Assis...* n'indique pas que le sermon est terminé avant la lecture sur le pont.
 
-> **l.~6--8 Église archi-comble. Hommes à d., femmes à g. :** Observation ethnographique de la séparation traditionnelle des sexes dans les églises rurales de Flandre intérieure. Le lendemain 31 juillet, après une reconnaissance en automobile au *refilling point* et à Bailleul, Hippolyte accompagne un fourgon aux champs et verse un généreux pourboire de 5 francs au maître-queux (*headcook*) Hancock.
+> **Logement et ravitaillement :** Les deux journées associent le grenier infesté de rats, une visite à Saint-Jans-Cappel et une tournée de ravitaillement vers Bailleul. Le pourboire à Hancock est de 5 f ; sa nationalité et son grade ne sont pas établis ici.
 
 ---
 
-## Scan #008 — `20251126_093240.jpg` — Folio 4 recto
-- **Titre** : FOLIO 4 RECTO (Première promenade à Bailleul : la Grand-Place et le beffroi)
+## Scan #008 — `20251126_093240.jpg` — Vue 008
+- **Titre** : Première promenade à Bailleul : la Grand-Place et le beffroi
 - **Date** : Mardi 1er août 1916
 - **Lieu** : Saint-Jans-Cappel et Bailleul (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 2--3 : sens exact de « Eté torride 1/2 jour ».; l. 16 : lecture et statut du nom Guétin..
 
 ```text
  1 | Mar 1er          Aout 1916 –
@@ -346,14 +368,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | garret, où ménagé installation sommaire.
  7 | Après-midi, promenade à Bailleul.
  8 | Parti à 4h. Mis 30 m. pour parcourir distance
- 9 | Petite ville claire. Place assez semblable à celle d'Hazebrouck
+ 9 | Petite ville. Place assez semblable à celle d'Hazebrouck
 10 | & de Béthune Parcouru rues principales et
 11 | regardé longuement église & hotel de ville
 12 | Retour vers 6 H. — Chaleur accablante —
 13 | Payé à fermière : lait et bière : hier : 20c
 14 | et aujourd’hui : 20 c. + 10 c – + 10c
 15 | A Bailleul : cartes ples : 50 c., 60 c., 0.10 varia
-16 | " : 4 cartes cuivre M. Guérin : 1 f 20 c
+16 | " : 4 cartes cuivre M. [Guétin ?] : 1 f 20 c
 ```
 
 - *l. 1* : **1 Mar** *scil.* Mardi. **1 1er** *scil.* premier.
@@ -363,35 +385,39 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 6* : **6 garret** *angl. in ms.*
 - *l. 14* : **14 c.** *abbr. pro* centimes.
 - *l. 15* : **15 cartes ples** *abbr. pro* cartes postales. **15 c.** *abbr. pro* centimes.
+- *l. 16* : **16** *lect. incert. in ms.*
 
 * * *
 
-**l.~2--3 tempér. asphyxiante. De corvée 1/2 jour :** Emploi de la fraction *1/2* comme abréviation nominale de *milieu* (*milieu du jour*), procédé constant dans tout le manuscrit. **l.~15--16 cartes ph. ... 4 cartes vues M. Guétin :** Achat de cartes postales illustrées auprès de l'éditeur local Guétin.
+**l.~2--3 :** La fraction 1/2 est conservée, sans développer automatiquement en milieu du jour : cet emploi demande des parallèles. **l.~16 :** Le poste de cartes sur cuivre contient un nom proposé Guétin ; la vue ne précise pas sa qualité d'éditeur ni la technique exacte des images.
 
-> **l.~7--11 promenade à Bailleul... église & hotel de ville :** Profitant d'une après-midi de liberté malgré la canicule d'août 1916, Hippolyte descend en trente minutes à pied jusqu'à Bailleul, dont il admire la vaste place flamande (comparable à celles d'Hazebrouck et de Béthune), l'église Saint-Vaast et le beffroi gothique de l'Hôtel de Ville, qui seront entièrement détruits au printemps 1918.
+> **Bailleul :** Le diariste compare la place à celles d'Hazebrouck et de Béthune et regarde l'église et l'hôtel de ville. L'excursion et les achats sont attestés ; les destructions ultérieures relèvent d'une annotation historique à sourcer séparément.
 
 ---
 
-## Scan #009 — `20251126_093301.jpg` — Folio 4 verso
-- **Titre** : FOLIO 4 VERSO (Mardi 1er et Mercredi 2 août 1916 — Promenades dans Bailleul, maisons flamandes et dentellières au fuseau)
+## Scan #009 — `20251126_093301.jpg` — Vue 009
+- **Titre** : Mercredi 2 et jeudi 3 août 1916 — Promenades dans Bailleul, maisons flamandes et dentellières au fuseau
 - **Date** : Mercredi 2 et jeudi 3 août 1916
 - **Lieu** : Bailleul (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 9--10 : disposition exacte de l’addition « Très intéressé » et contenu du mot biffé.; l. 12 : quantité métrique du galon, 2 m 40 proposée..
 
 ```text
  1 | 2 Me – Encore très b. journée.          Aout / 16
  2 | Matinée entière libre. Passé près de 2 h. assis
  3 | sur l'herbe ds le camp
  4 | Après-midi, dû conduire 1 wagon au
- 5 | fourrage de là, continué à pied J. à Bailleul.
+ 5 | fourrage de là, continué à pied j'à Bailleul.
  6 | Visité de nouveau et à loisir cette petite ville
  7 | égl. St-Vaast. Place et hotel de ville
  8 | Au retour, me suis longt arrêté devant dentellières
  9 | travaillant rue devant maisons. Très intéressé
-10 | et émerveillé par leur ouvrage ⟦intéressant⟧
+10 | et émerveillé par leur ouvrage ⟦[illis.]⟧
 11 | — A Bailleul : ctes ples : 20 c. — Chemise : 5 f 50
 12 | 2m 40 de galon noir pr lorgnons : 35c.. Drink : 10, 10c
 13 | 3 J –          Même tempér., vraiment estivale
-14 | Après-midi, venu de nouveau promen.
+14 | Après-midi, venu de nouveau promener
 15 | à pied à Bailleul. Arrêts fréquents dans
 16 | les coins d'ombre le long des champs d'avoine
 17 | et de blé.
@@ -404,30 +430,32 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 - *l. 3* : **3 ds** *abbr. pro* dans.
-- *l. 5* : **5 J.** *scil.* Jeudi. **5 j. à** *abbr. pro* jusqu'à.
+- *l. 5* : **5 j'à** *abbr. pro* jusqu'à.
 - *l. 7* : **7 égl.** *abbr. pro* église. **7 St** *abbr. pro* Saint.
 - *l. 8* : **8 longt** *abbr. pro* longtemps.
-- *l. 10* : **10** ⟦intéressant⟧ *del. in ms.*
+- *l. 10* : **10** ⟦[illis.]⟧ *del. in ms.* **10** *lect. incert. in ms.*
 - *l. 11* : **11 ctes ples** *abbr. pro* cartes postales. **11 c.** *abbr. pro* centimes.
 - *l. 12* : **12 pr** *abbr. pro* pour. **12 c.** *abbr. pro* centimes.
 - *l. 13* : **13 tempér.** *abbr. pro* température.
-- *l. 14* : **14 promen.** *abbr. pro* promener / promenade.
 - *l. 18* : **18 ds** *abbr. pro* dans. **18 ts** *abbr. pro* tous.
 - *l. 21* : **21 St** *abbr. pro* Saint.
 - *l. 23* : **23 Ctes ples** *abbr. pro* Cartes postales. **23 c.** *abbr. pro* centimes.
 
 * * *
 
-**l.~11, 23 ctes ples** : 20 c. / Ctes p\textsuperscript{les : 40 c. :} Abréviation usuelle pour *cartes postales*. **l.~12 2 m 40 de galon noir : 35 c. :** Ruban ou cordon noir acheté en mercerie à Bailleul. **l.~12, 23 Drink : 10 c :** Notation en anglais des rafraîchissements pris en ville.
+**Dates et révision :** Les deux entrées sont *2 Me* puis *3 J*. Le mot ajouté à droite près des dentellières et la biffure de la ligne suivante demandent une distinction ; seule la rature est signalée sans restitution sûre. Le compte mentionne galon noir pour lorgnons et Drink.
 
-> **l.~6--10 Visité de nouveau et à loisir cette petite ville... arrêté devant dentellières :** Deux après-midis consécutives à Bailleul permettent à l'interprète de parcourir à loisir la ville, d'admirer l'église Saint-Vaast et les demeures flamandes des rues d'Ypres et de Lille, et d'observer longuement les dentellières travaillant au fuseau sur le pas de leurs portes.
+> **Bailleul :** Visites répétées de Saint-Vaast et des rues d'Ypres et de Lille ; observation de dentellières travaillant dans la rue devant les maisons. Le procédé au fuseau n'est pas nommé dans ce passage.
 
 ---
 
-## Scan #010 — `20251126_093316.jpg` — Folio 5 recto
-- **Titre** : FOLIO 5 RECTO (Chevauchée à La Croix-du-Bac par Steenwerck et repos dans le « garret »)
+## Scan #010 — `20251126_093316.jpg` — Vue 010
+- **Titre** : Chevauchée à La Croix-du-Bac par Steenwerck et repos dans le « garret »
 - **Date** : Vendredi 4 août 1916 (matin et après-midi)
 - **Lieu** : Saint-Jans-Cappel, Bailleul, Steenwerck, La Croix-du-Bac (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nature administrative exacte du supplément du 1er juillet non documentée ici..
 
 ```text
  1 | 4 Ve. Après qq hésitation, décidé          Août 1916
@@ -440,12 +468,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Ciel d’abord menaçant. qq gouttes de pluie
  9 | au retour. Puis vent dissipe nuages et soleil
 10 | ardent des jours précédents
-11 | Tout l’après-midi, reposé garret.
+11 | Tout l’après-midi et fin journée, reposé garret.
 12 | [ — Touché au bureau mission, à
 13 | La Croix-du-Bac : 80 f 30 c (y compris 8 f
 14 | supplément 1er juillet) —
-15 | Ferme isolée en rase campagne. Y gd calme et
-16 | Silence
+15 | Ferme autour de l. notre coy est cantonnée,
+16 | isolée en rase campagne. Y gd calme et
+17 | silence —
 ```
 
 - *l. 1* : **1 Ve.** *scil.* Vendredi. **1 qq** *abbr. pro* quelque(s).
@@ -456,20 +485,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 11* : **11 garret** *angl. in ms.*
 - *l. 12* : **12** *in marg. cum unco* (comptes).
 - *l. 14* : **14 1er** *scil.* premier.
-- *l. 15* : **15 gd** *abbr. pro* grand.
+- *l. 16* : **16 gd** *abbr. pro* grand.
 
 * * *
 
-**l.~5 Steenwerck :** Bourg traversé entre Bailleul et La Croix-du-Bac. **l.~11 reposé garret :** Emploi du substantif anglais *garret* (mansarde, grenier sous combles) qui alterne avec le français *grenier*. **l.~12--14 Touché au bureau mission :** Encadrement par un crochet et deux traits horizontaux de la recette de solde (80 fr. 30, y compris 8 fr. de supplément du 1er juillet).
+**l.~6, 12--17 :** Lire *Cette dernière localité*, non l'ancienne confusion avec le toponyme Sète. Le compte encadré porte *80 f 30 c*, avec *8 f* de supplément. *garret* est le mot anglais pour un grenier ou une mansarde. Le pronom abrégé *l.* est conservé.
 
-> **l.~2--14 La Croix-du-Bac, où bureau mission fse :** Parti à cheval à 10 h par Bailleul et Steenwerck, Hippolyte parcourt 15 km en une heure et demie pour rejoindre le bureau payeur de la Mission militaire française à La Croix-du-Bac, où il perçoit 80,30 francs (dont 8 francs de supplément à compter du 1er juillet).
+> **Solde :** Le déplacement par Bailleul et Steenwerck mène au bureau de la mission française à La Croix-du-Bac. Le paiement de 80 f 30 c et l'inclusion d'un supplément sont écrits ; le texte ne décrit pas la procédure administrative du bureau.
 
 ---
 
-## Scan #011 — `20251126_093332.jpg` — Folio 5 verso
-- **Titre** : FOLIO 5 VERSO (Soirée solitaire à la ferme et prière du soir de la famille flamande)
+## Scan #011 — `20251126_093332.jpg` — Vue 011
+- **Titre** : Soirée solitaire à la ferme et prière du soir de la famille flamande
 - **Date** : Vendredi 4 août 1916 (soir)
 - **Lieu** : Saint-Jans-Cappel (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 12 : abréviation gémt et lecture patois flamand proposées avec réserve..
 
 ```text
  1 | Ve 4 — Avant & après diner, assis &
@@ -481,26 +513,30 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | & l’épaisseur des frondaisons, on se
  8 | croirait déjà en automne
  9 | De mon garret, (où suis remonté), la
-10 | nuit tombée, entendu famille ferme
+10 | nuit tombée, j’entends famille ferme
 11 | en commun prière du soir : voix grave &
-12 | monotone du père, gémt en patois flamand
+12 | monotone du père ; [gémt ?] en [patois flamand ?]
 ```
 
 - *l. 4* : **4 gds** *abbr. pro* grands.
 - *l. 9* : **9 garret** *angl. in ms.*
+- *l. 12* : **12** *lect. incert. in ms.*
 
 * * *
 
-**l.~3 Vent bruissement :** Juxtaposition nominale sans verbe conjugué, restituant l'impression auditive immédiate. **l.~9 De mon garret (où suis remonté) :** Reprise du terme anglais *garret*. **l.~12 gds et ptts :** Abréviation par suspension vocalique (*grands et petits*).
+**l.~5--8 :** *Ns sommes loin de la ville* appartient à la comparaison avec l'automne. **l.~12 :** Après *voix grave et monotone du père*, la photographie permet une proposition *gémt ... en patois flamand*, encore incertaine. La leçon *gds et petits l'accomt* et son commentaire sont retirés : ils ne correspondent pas au tracé.
 
-> **l.~9--12 entendu famille ferme en commun prière du soir :** Remonté à la nuit tombée dans sa mansarde, le diariste écoute avec recueillement la prière vespérale récitée à voix grave et rythmée par le père de famille flamand entouré de ses enfants dans la salle basse.
+> **Prière :** Le diariste entend depuis son garret la prière commune de la famille de la ferme et la voix du père. Ni la composition exacte de cette famille, ni l'emplacement de la prière dans une salle basse ne sont précisés.
 
 ---
 
-## Scan #012 — `20251126_093347.jpg` — Folio 6 recto
-- **Titre** : FOLIO 6 RECTO (Départ du convoi avec les A.S.C. men et étape à La Croix-du-Bac)
+## Scan #012 — `20251126_093347.jpg` — Vue 012
+- **Titre** : Départ du convoi avec les A.S.C. men et étape à La Croix-du-Bac
 - **Date** : Samedi 5 août 1916
 - **Lieu** : De Saint-Jans-Cappel à La Croix-du-Bac / Steenwerck (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 23 : orthographe exacte du patronyme Connelly..
 
 ```text
  1 | Sam. 5          Août 1916
@@ -543,16 +579,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~3--5 Coffres, Porte-manteau en 3 voy.. un sac à main :** *Porte-manteau* conserve ici son acception classique de valise souple d'officier. **l.~8 A.S.C. men / l.~14 Horse-lines / l.~21 for washing / l.~23 mon groom :** Densité remarquable du lexique militaire britannique.
+**l.~4--5 :** *Porté moi-m. en 3 voy., mes sacs à l'office / et les vu charger s/ wagon no 5* : trois voyages du diariste, non un porte-manteau. Les Horse-lines sont distinguées du logement civil. Les dépenses de vivres, washing et groom sont conservées jusqu'au bord inférieur.
 
-> **l.~8--23 par Bailleul, parvenus à La Croix du Bac... A Connelly, mon groom :** Après avoir réglé ses comptes avec la fermière de Saint-Jans-Cappel, Hippolyte fait charger ses bagages sur le fourgon no~5 de l'*Army Service Corps*, gagne La Croix-du-Bac (Steenwerck) à 16 h 30 sous un soleil brûlant et gratifie son ordonnance irlandais Connelly d'un franc de pourboire.
+> **Changement de logement :** Le convoi quitte le secteur de Saint-Jans-Cappel et gagne La Croix-du-Bac par Bailleul ; les Horse-lines se trouvent à l'entrée du village du côté de Steenwerck. Le groom nommé Connelly reçoit 1 f, sans indication de nationalité dans ce passage.
 
 ---
 
-## Scan #013 — `20251126_093412.jpg` — Folio 6 verso
-- **Titre** : FOLIO 6 VERSO (Dimanche 6 août 1916 — Au refilling point sur les bords de la Lys avec le lieutenant Curtis, rencontre de Maurin et concert militaire)
+## Scan #013 — `20251126_093412.jpg` — Vue 013
+- **Titre** : Dimanche 6 août 1916 — Au refilling point sur les bords de la Lys avec le lieutenant Curtis, rencontre de Maurin et concert militaire
 - **Date** : Dimanche 6 août 1916
 - **Lieu** : La Croix-du-Bac et Bac-Saint-Maur (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Orthographe et identité de Maurin à confronter aux autres entrées..
 
 ```text
  1 | Dim. 6.          Aout 1916
@@ -564,14 +603,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | d'écluse — Parcouru campagne à la
  8 | recherche fourrage
  9 | Seul, continué j.au village Bac St-Maur
-10 | & visité église, à côté mairie
+10 | & visité église, à côté usine
 11 | Après-midi, retrouvé Maurin.
 12 | Avec lui, assis sur l’herbe, écouté
 13 | musique militre anglse –
 14 | Installation provisoire où je suis
-15 | [ — Payé à ma propre : oeufs, lait &
+15 | — Payé à ma propre : oeufs, lait &
 16 | bière : 90 c.. — 1 litre lait : 25 + 0.05 —
-17 | — Ctes ples : 10 c ]
+17 | — Ctes ples : 10 c
 ```
 
 - *l. 1* : **1 Dim.** *scil.* Dimanche.
@@ -579,33 +618,36 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 6* : **6 refilling point** *angl. in ms.*
 - *l. 9* : **9 St** *abbr. pro* Saint.
 - *l. 13* : **13 militre** *abbr. pro* militaire.
-- *l. 15* : **15** *in marg. cum unco* (comptes). **15 propre** *abbr. pro* propriétaire.
+- *l. 15* : **15 propre** *abbr. pro* propriétaire.
 - *l. 16* : **16 c.** *abbr. pro* centimes.
 - *l. 17* : **17 Ctes ples** *abbr. pro* Cartes postales.
 
 * * *
 
-**l.~4 Lt Curtis :** Orthographe autographe constante du nom de l'officier des fourrages. **l.~11 Maurin :** Collègue interprète retrouvé l'après-midi à Bac-Saint-Maur. **l.~15--17 [ — Payé à ma propre : oeufs, lait & bière : 90 c. :** Règlement des vivres auprès de sa logeuse.
+**l.~4--11 et compte :** Curtis se lit avant la marche au refilling point. Le patronyme Maurin est proposé dans l'entrée de l'après-midi ; l'identification de la personne ne se déduit pas de la graphie seule. Le compte final sépare œufs, lait, bière puis cartes postales.
 
-> **l.~4--13 au refilling point, sur rive canal (près d'écluse... musique militre anglse :** Dès la fin du *breakfast*, le lieutenant Curtis entraîne Hippolyte à pied jusqu'au point de ravitaillement établi sur la Lys canalisée ; l'après-midi, l'interprète retrouve son collègue Maurin et écoute sur l'herbe le concert dominical de la musique régimentaire britannique.
+> **Promenade et musique :** Le diariste suit la rive d'un canal près d'une écluse, cherche du fourrage et poursuit seul jusqu'à Bac-Saint-Maur. L'après-midi, il écoute une musique militaire anglaise avec Maurin ; le régiment et les interprètes du concert ne sont pas indiqués.
 
 ---
 
-## Scan #014 — `20251126_093426.jpg` — Folio 7 recto
-- **Titre** : FOLIO 7 RECTO (Quête de cantonnements avec le Quartermaster, départ inopiné de la compagnie et nouvelle chambre)
+## Scan #014 — `20251126_093426.jpg` — Vue 014
+- **Titre** : Quête de cantonnements avec le lieutenant Curtis, départ inopiné de la compagnie et nouvelle chambre
 - **Date** : Lundi 7 août 1916
 - **Lieu** : Steenwerck et route de Bac-Saint-Maur (Nord)
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 7 : Barning proposé ; graphie du patronyme à confirmer.; l. 9 : début de ligne ou surcharge non déchiffré.; l. 11 : relation exacte de la maison au Post-office ; au-dessus peut être topographique..
+
 ```text
  1 | Lundi 7 –          Chaleur accablante Aout 1916
- 2 | Toute matinée, av. Qt Mr de Cie, cherché
+ 2 | Toute matinée, avec cet idiot de Ctis, cherché
  3 | nouveaux billets et messroom pour mes off.
  4 | Libre, avant midi – mais alors harassé
  5 | de fatigue –
  6 | Quand venu prendre mes rations : trouvé
- 7 | Coy partie. Barning m'a appris que tte la Coy
+ 7 | Coy partie. [Barning ?] m'a appris que tte la Coy
  8 | a shifté ce matin, à 9 H — Damn!
- 9 | changé à l'autre extrémité village —
+ 9 | [illis.] à l'autre extrémité village —
 10 | Dû aussi changer de quartier.
 11 | Suis installé maison au-dessus Post-office,
 12 | route de Bac St Maur, avec gde chambre
@@ -616,30 +658,33 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | 1 litre bière : 30 c
 ```
 
-- *l. 2* : **2 Qt Mr** *angl.* Quartermaster. **2 Cie** *abbr. pro* Compagnie.
+- *l. 2* : **2 Ctis** *abbr. pro* Curtis.
 - *l. 3* : **3 off.** *abbr. pro* officier(s). **3 billets** *angl. in ms.*
-- *l. 7* : **7 tte** *abbr. pro* toute. **7 Coy** *angl.* Company.
+- *l. 7* : **7** *lect. incert. in ms.* **7 tte** *abbr. pro* toute.
 - *l. 8* : **8 shifté** *angl. in ms.*
+- *l. 9* : **9** *lect. incert. in ms.*
 - *l. 12* : **12 gde** *abbr. pro* grande. **12 St** *abbr. pro* Saint.
 - *l. 13* : **13 1er** *scil.* premier.
 - *l. 15* : **15 propre** *abbr. pro* propriétaire. **15 cooking** *angl. in ms.*
 
 * * *
 
-**l.~2 au Qt Mr de Cie :** Abréviation bilingue pour *Quartermaster de Compagnie*. **l.~3 nouveaux billets et messroom / l.~8 tte la Coy shifte :** Intégration morphologique du verbe anglais *to shift* (changer d'emplacement), conjugué au présent français de la 3e personne.
+**l.~2--9 :** *Ctis* désigne Curtis. Le nom de l'informateur est proposé Barning avec réserve ; aucun titre *Lt Woot* n'est établi sur cette vue. Le verbe ou la surcharge précédant *à l'autre extrémité village* reste ouvert. **l.~11--13 :** Nouvelle chambre sur la route de Bac-Saint-Maur, au premier étage, près du Post-office. Cooking est compté 1 f.
 
-> **l.~2--14 Toute matinée, au Qt Mr de Cie... Terminé journée avec Maurin :** Après avoir cherché toute la matinée sous une chaleur accablante des logements et une salle de popote (*messroom*) avec le *Quartermaster*, Hippolyte découvre à midi que la compagnie s'est déplacée dès 9 h et s'installe au premier étage d'une maison ombragée sur la route de Bac-Saint-Maur.
+> **Déplacement de compagnie :** Le diariste découvre, en venant prendre ses rations, que la compagnie a changé d'emplacement dès 9 h. La page atteste la recherche de billets et de messroom, puis un nouveau logement ; elle ne donne pas le statut précis de l'informateur.
 
 ---
 
-## Scan #015 — `20251126_093455.jpg` — Folio 7 verso
-- **Titre** : FOLIO 7 VERSO (Deux journées de canicule, de poussière et de moustiques dans la vallée de la Lys)
+## Scan #015 — `20251126_093455.jpg` — Vue 015
+- **Titre** : Deux journées de canicule, de poussière et de moustiques dans la vallée de la Lys
 - **Date** : Mardi 8 et mercredi 9 août 1916
 - **Lieu** : Route de Bac-Saint-Maur, Steenwerck (Nord)
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+
 ```text
  1 | Mardi 8.          Aout 1916 –
- 2 | Tjours = tempérre extt chaude —
+ 2 | Tjours tempérre extt chaude —
  3 | Bien reposé nouvelle chambre
  4 | Achevé de m'installer et le mieux possible
  5 | Journée entière de liberté –
@@ -660,16 +705,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~7 Food : eggs : 50 c :** Notation comptable intégralement rédigée en anglais. **l.~9 chalr / l.~12 gdes :** Abréviations par contraction avec maintien des consonnes finales (*chaleur*, *grandes*).
+**Deux dates :** *Mardi 8* puis *mercredi 9*. La contraction *tempérre* et l'abréviation *extt* sont gardées sans les transformer en un signe sténographique autonome. Food : eggs est le compte anglais séparé par des filets.
 
-> **l.~10--13 Routes si poussiéreuses... dévoré par les moustiques :** Tableau réaliste de l'été 1916 dans la plaine humide de la Lys : le charroi incessant des colonnes britanniques soulève des nuages de poussière blanche interdisant d'ouvrir les fenêtres le jour, tandis que les moustiques des canaux envahissent les chambres la nuit.
+> **Chaleur :** Deux journées presque entièrement dans la chambre ; le diariste donne la poussière des routes comme obstacle à l'ouverture de sa fenêtre et note les moustiques la nuit. L'origine de la poussière et celle des moustiques ne sont pas précisées.
 
 ---
 
-## Scan #016 — `20251126_093506.jpg` — Folio 8 recto
-- **Titre** : FOLIO 8 RECTO (Promenade à Sailly-sur-la-Lys, l'église bombardée et conversation avec l'éclusier sur le général Maxse)
+## Scan #016 — `20251126_093506.jpg` — Vue 016
+- **Titre** : Promenade à Sailly-sur-la-Lys, l'église bombardée et conversation avec l'éclusier sur le général Maxse
 - **Date** : Jeudi 10 août 1916
 - **Lieu** : Bac-Saint-Maur et Sailly-sur-la-Lys (Nord / Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 7 : ordre exact de la substitution Maur/Sailly.; Identification complète de Maxse et contexte de « Les Australiens » à documenter extérieurement..
 
 ```text
  1 | 10 Jeudi.          Aout / 16 –
@@ -679,13 +727,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | légèrt arrosées —
  6 | Après-midi venu promener à
  7 | pied au village de ⟦Maur⟧ Sailly s/ la Lys
- 8 | à 3 ou 4 kils. de Bac. — Ne pas dépassé pont
+ 8 | à 3 ou 4 kilm. — Ne pas dépassé pont
  9 | Remarqué église brûlée par les Boches
 10 | Il ne reste que murs et haut clocher
 11 | Retour en longeant berges
 12 | de la rivière
 13 | Arrêté à écluse et causé
-14 | lgt avec l'éclusier de notre gal
+14 | lgt av. l'éclusier de notre gal
 15 | en chef, Maxse etc —
 16 | Très beau coucher de
 17 | soleil contemplé de ma fenêtre
@@ -696,22 +744,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 5* : **5 légèrt** *abbr. pro* légèrement.
 - *l. 7* : **7** ⟦Maur⟧ *del. in ms.* **7 s/** *abbr. pro* sur.
-- *l. 8* : **8 kils** *abbr. pro* kilomètres.
 - *l. 14* : **14 lgt** *abbr. pro* longtemps. **14 gal** *abbr. pro* général.
 - *l. 20* : **20 Ctes ples** *abbr. pro* Cartes postales. **20 f.** *abbr. pro* franc(s).
 
 * * *
 
-**l.~8 à 3 ou 4 kils. de Bac. :** Abréviations topographique et métrique pour *à 3 ou 4 kilomètres de Bac-Saint-Maur*. **l.~14--15 avec l'éclusier de notre gal** en chef, Maxse etc : Lecture vérifiée sur le manuscrit : Hippolyte s'entretient avec l'éclusier au sujet du général commandant la 18e Division, le major-général Sir Ivor Maxse.
+**l.~2--8 :** *Très agréable*, non Peu agréable, après la pluie fine ; *légèrt arrosées* caractérise les routes. Le nom Maur a été remplacé ou surchargé par Sailly s/ la Lys. **l.~14--19 :** Maxse et Les Australiens sont deux notations distinctes ; on ne les fond pas en une phrase continue.
 
-> **l.~6--19 Sailly s/ la Lys... notre gal en chef, Maxse... Les Australiens :** Marchant le long de la Lys jusqu'au pont de Sailly-sur-la-Lys, Hippolyte observe l'église incendiée par les obus allemands, s'entretient longuement avec l'éclusier au sujet du major-général Ivor Maxse (commandant la 18e Division britannique) et note la présence des troupes australiennes (ANZAC), engagées quelques semaines plus tôt dans la sanglante bataille de Fromelles (19--20 juillet 1916).
+> **Promenade :** Le texte nomme Sailly-sur-la-Lys, décrit l'église comme brûlée par les Boches et rapporte un entretien avec l'éclusier sur le général Maxse. La note isolée Les Australiens ne suffit pas à établir une rencontre ni une participation à une bataille précise.
 
 ---
 
-## Scan #017 — `20251126_093529.jpg` — Folio 8 verso
-- **Titre** : FOLIO 8 VERSO (Vendredi 11 août 1916 — Bombardement meurtrier autour de la grande blanchisserie Barbry à Steenwerck)
+## Scan #017 — `20251126_093529.jpg` — Vue 017
+- **Titre** : Vendredi 11 août 1916 — bombardement, blanchisserie Barbry et descente à la cave
 - **Date** : Vendredi 11 août 1916
-- **Lieu** : Steenwerck / Erquinghem-Lys (Nord)
+- **Lieu** : Secteur à l’ouest d’Armentières ; position précise de la blanchisserie non établie
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 6 : biffures concernant le soldat non établies complètement.; l. 12 : mot biffé perpétuelle proposé.; Localisation exacte de la cave et de la blanchisserie à établir..
 
 ```text
  1 | 11 Ven.          Aout / 16
@@ -719,15 +769,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | Après-midi, de 2 à 3, 40 ou 50 obus
  4 | tombés autour de nos parages
  5 | Maison du coin, à 50 mètres : 1
- 6 | soldat, ⟦décapité⟧. — ⟦bras emportés⟧
+ 6 | soldat, ⟦décapité [?]⟧. — ⟦bras emportés [?]⟧
  7 | A la gde blanchisserie
  8 | Barbry, bcp de dégâts. Obus
  9 | non éclatés, encore s/ l'herbe —
 10 | Descendus cave pendant le
 11 | bombardt. Énervement &
-12 | malaise — Insécurité ⟦perpétuelle⟧ continuelle
+12 | malaise — Insécurité ⟦perpétuelle [?]⟧ continuelle
 13 | Oeufs : 50 + 0.05. — —
-14 | Question nouveau départ demain
+14 | Question nouveau départ dimanche
 15 | gde chambre, haute fenêtre, belle
 16 | vue campagne très étendue
 17 | ouest d'Armentières.
@@ -735,26 +785,28 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 1* : **1 Ven.** *scil.* Vendredi.
 - *l. 2* : **2 tempérre** *abbr. pro* température.
-- *l. 6* : **6** ⟦décapité⟧ *del. in ms.* **6** ⟦bras emportés⟧ *del. in ms.*
+- *l. 6* : **6** ⟦décapité [?]⟧ *del. in ms.* **6** ⟦bras emportés [?]⟧ *del. in ms.* **6 décapité** *lect. incert. in ms.* **6 emportés** *lect. incert. in ms.*
 - *l. 7* : **7 gde** *abbr. pro* grande.
 - *l. 8* : **8 bcp** *abbr. pro* beaucoup.
 - *l. 9* : **9 s/** *abbr. pro* sur.
 - *l. 11* : **11 bombardt** *abbr. pro* bombardement.
-- *l. 12* : **12** ⟦perpétuelle⟧ *del. in ms.*
+- *l. 12* : **12** ⟦perpétuelle [?]⟧ *del. in ms.* **12 perpétuelle** *lect. incert. in ms.*
 - *l. 15* : **15 gde** *abbr. pro* grande.
 
 * * *
 
-**l.~2--12 tempérre** caniculaire / blanchisserie Barbry : À la l.~2, lire *De nouveau tempérre* caniculaire. Aux l.~5--9, le manuscrit porte deux biffures successives décrivant les effets du bombardement : *Maison du coin, à 50 mètres : 1 soldat, $[\![$décapité$]\!]$. — $[\![$bras emportés$]\!]$ / A la gde blanchisserie Barbry, bcp de dégâts. Obus non éclatés, encore s/ l'herbe*. À la l.~12, l'adjectif $[\![$perpétuelle$]\!]$ est biffé et remplacé par *continuelle*.
+**l.~5--12 :** Le passage sur le soldat porte des biffures très chargées ; décapité et bras emportés sont des restitutions incertaines et restent marquées comme telles. Barbry se lit dans le nom de la blanchisserie. L'adjectif biffé avant continuelle est proposé perpétuelle.
 
-> **l.~3--11 de 2 à 3, 40 ou 50 obus tombés... soldat tué :** Pris entre 14 h et 15 h sous un tir d'artillerie allemande d'une cinquantaine d'obus qui tue un soldat dans une maison située à cinquante mètres, Hippolyte et ses compagnons doivent se réfugier dans les caves de la grande blanchisserie d'Erquinghem-Lys, à l'ouest d'Armentières.
+> **Bombardement :** Le diariste note 40 ou 50 obus entre 2 et 3 heures, des dégâts à la blanchisserie Barbry et une descente à la cave. Il ne faut pas attribuer nécessairement cette cave à la blanchisserie ni transformer les mots biffés en constat de décès assuré. La mention ouest d'Armentières figure dans le bloc descriptif inférieur.
 
 ---
 
-## Scan #018 — `20251126_093544.jpg` — Folio 9 recto
-- **Titre** : FOLIO 9 RECTO (Sieste au bord de la Lys dans un champ de luzerne face aux blés mûrs)
+## Scan #018 — `20251126_093544.jpg` — Vue 018
+- **Titre** : Sieste au bord de la Lys dans un champ de luzerne face aux blés mûrs
 - **Date** : Samedi 12 août 1916
 - **Lieu** : Rives de la Lys, Bac-Saint-Maur (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | 12 Sam.          Aout 1916
@@ -770,7 +822,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | Allongé s/ le dos, gouté repos
 12 | délicieux – admirant nuages floconneux
 13 | collés s/ ciel bleu clair –
-14 | ½ litre lait : 10 c
+14 | ½ litre lait : 15 c
 15 | Après lunch, resté chambre à
 16 | lire – impossible s'éloigner
 17 | air brulant, soleil torride
@@ -785,16 +837,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~9 devant vaste champs :** Le mot *vaste* est inséré dans l'interligne supérieur pour préciser l'étendue des cultures. **l.~11--17 Allongé s/ le dos... Après lunch :** Inversion chronologique dans la rédaction : la mention de la lecture d'après *lunch* est ajoutée au bas du feuillet après les dépenses de lait.
+**l.~8--10 :** *oasis d'ombre* est visible. *devant* est biffé et *en face* ajouté au-dessus avant de champs. Le compte du lait puis le bloc Après lunch sont conservés dans l'ordre matériel de la page, même si cet ordre ne suit pas l'heure des événements.
 
-> **l.~5--13 Venu promener le long rives la Lys... nuages floconneux :** Après une nouvelle halte auprès de l'éclusier méridional, l'interprète goûte une heure de paix bucolique allongé à l'ombre en bordure d'un champ de luzerne et de blés dorés, sous le ciel bleu des Flandres.
+> **Repos :** Promenade le long de la Lys, conversation avec un éclusier et repos près d'un champ de luzerne face à des blés jaunis. Le passage ne donne ni une durée d'une heure ni l'orientation méridionale de l'écluse.
 
 ---
 
-## Scan #019 — `20251126_093618.jpg` — Folio 9 verso
-- **Titre** : FOLIO 9 VERSO (Attente vaine d'une lettre de Marguerite, « pot-au-noir » et orage sur la Lys)
+## Scan #019 — `20251126_093618.jpg` — Vue 019
+- **Titre** : Attente vaine d'une lettre de Marguerite, « pot-au-noir » et orage sur la Lys
 - **Date** : Dimanche 13 et lundi 14 août 1916
 - **Lieu** : Bac-Saint-Maur et direction d'Armentières (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Portée exacte de la notation pot-au-noir..
 
 ```text
  1 | 13 D –          Aout 1916
@@ -805,18 +860,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | Après-midi, venu retrouver Maurin
  7 | et avec lui, promené campagne
  8 | le long rivière de la Lys –
- 9 | 14 L – Ciel couvert nuages – forte
-10 | touffeur, vers 1 H, pluie très forte
+ 9 | 14 L – Ciel couvert nuages –
+10 | Enfin, vers 1 H, pluie très forte
 11 | rafraichi l'air — et mouille (colle
 12 | poussière routes.
 13 | Pris plaisir à regarder averse
-14 | zébrer espace de raies obliques, à
+14 | zébrer air de raies obliques, à
 15 | écouter la pluie crépiter s/ vitre
 16 | de ma fenêtre
 17 | Avec Lt Curtis, course à cheval
 18 | ds la direction d'Armentières —
 19 | Note de blanchissage : 50c
-20 | Lait : 5c + 0.05
+20 | Lait : 15 c + 0.05
 ```
 
 - *l. 4* : **4 Margte** *scil.* Marguerite (Calmels).
@@ -827,16 +882,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~5 Tt le jour, pot-au-noir :** Emploi métaphorique du terme maritime *pot-au-noir* pour désigner l'atmosphère sombre et la mélancolie. **l.~11 mouille (colle poussière routes :** Glose parenthétique immédiate précisant l'effet physique de l'averse sur la poussière crayeuse.
+**Deux entrées :** 13 D puis 14 L. La l.~9 finit après *nuages* ; forte appartient à la pluie de la ligne suivante et ne doit pas être répété artificiellement. L'incise *(colle* est conservée sans ajouter de fermeture absente. Pot-au-noir n'est pas développé en une cause psychologique exclusive.
 
-> **l.~3--18 attendu en vain un mot de Margte... Avec Lt Curtis, course à cheval :** À la veille de son quarantième anniversaire (14 août 1916), l'absence de courrier de Marguerite Calmels plonge Hippolyte dans le spleen dominical ; le lendemain après-midi, après un violent orage qui abat la poussière des routes, il accompagne à cheval le lieutenant Curtis vers Armentières.
+> **Courrier et météo :** Déception de ne pas recevoir un mot de Margte le 13 ; pluie et chevauchée en direction d'Armentières avec Curtis le 14. L'anniversaire et l'identité complète de Margte doivent être établis par d'autres pièces, non attribués au texte de cette page.
 
 ---
 
-## Scan #020 — `20251126_093746.jpg` — Folio 10 recto
-- **Titre** : FOLIO 10 RECTO (Journée pluvieuse du 15 août dans la mansarde et comptes de blanchissage)
+## Scan #020 — `20251126_093746.jpg` — Vue 020
+- **Titre** : Journée pluvieuse du 15 août dans la mansarde et comptes de blanchissage
 - **Date** : Mardi 15 août 1916 (Assomption)
 - **Lieu** : Bac-Saint-Maur / Steenwerck (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | 15 Ma – Assompt.          Aout / 16
@@ -859,16 +916,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1 15 Ma – Assompt. :** Mention liturgique abrégée de la fête de l'Assomption en tête de folio. **l.~10--11 Donné à ma propie pour washing semaine derne et 2 p. lait : 5 f. :** Mélange intime des abréviations françaises (*propie* pour propriétaire, *derne* pour dernière) et de l'anglais (*washing*, *pints* ou pots de lait).
+**l.~1 et 10--11 :** Assompt. est l'abréviation autographe de l'Assomption. Le compte mêle propre (propriétaire) et cooking ; montant final 5 f. La page ne qualifie pas cette chambre de mansarde.
 
-> **l.~2--9 fortes ondées... épais brouillards :** Retenu tout le jour de l'Assomption par des averses continuelles et les routes détrempées, Hippolyte demeure à la fenêtre de sa vaste chambre mansardée à contempler la campagne flamande noyée de brume.
+> **Logement :** Le diariste décrit une grande pièce haute de plafond, la vue depuis sa fenêtre et les brouillards matinaux. Les pluies le retiennent une partie de la journée ; aucun cérémonial de la fête n'est relaté.
 
 ---
 
-## Scan #021 — `20251126_093843.jpg` — Folio 10 verso
-- **Titre** : FOLIO 10 VERSO (Vendredi 18 et Samedi 19 août 1916 — Giboulées d'août, perception de la solde et chevauchée sous l'orage avec le lieutenant Curtis)
+## Scan #021 — `20251126_093843.jpg` — Vue 021
+- **Titre** : Vendredi 18 et Samedi 19 août 1916 — Giboulées d'août, perception de la solde et chevauchée sous l'orage avec le lieutenant Curtis
 - **Date** : Vendredi 18 et samedi 19 août 1916
 - **Lieu** : Steenwerck, Fleurbaix et secteur d'Armentières (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | 18 Ve.          – Aout / 16 –
@@ -907,16 +966,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~12--13 [ – Solde & indemnité de fonctions : 84 fr. :** Note comptable encadrée d'un crochet au milieu de la page pour séparer le vendredi 18 du samedi 19 août. **l.~18 ce crétin de Curtis :** Qualification familière et excédée visant le lieutenant Curtis, qui vient le chercher sous une pluie battante.
+**Disposition :** Le compte de solde et indemnité de fonctions, 84 fr., est encadré entre les entrées 18 Ve et 19 S. **l.~18--22 :** Le nom Curtis et la qualification crétin se lisent ; zone exposée, derrière ligne de feu ne précise pas un point géographique.
 
-> **l.~18--23 ce crétin de Curtis venu me prendre : dû l'accompagner à cheval... derrière ligne de feu :** Malgré des averses glaciales semblables à des giboulées de mars, le lieutenant Curtis oblige l'interprète à monter sur son poney à 14 h 30 pour une longue reconnaissance dans la zone battue par l'artillerie allemande, immédiatement en arrière des tranchées de Fleurbaix.
+> **Chevauchée :** Sous les averses, Curtis vient chercher le diariste vers 2 h 30 ; celui-ci note cette fois un bon poney. La suite de l'itinéraire est donnée par la vue suivante ; Fleurbaix n'est pas écrit sur la présente vue et le texte ne dit pas qu'un tir les atteint pendant cette sortie.
 
 ---
 
-## Scan #022 — `20251126_093857.jpg` — Folio 11 recto
-- **Titre** : FOLIO 11 RECTO (Traversée de Fleurbaix et d'Armentières dévastées par les obus)
+## Scan #022 — `20251126_093857.jpg` — Vue 022
+- **Titre** : Traversée de Fleurbaix et d'Armentières dévastées par les obus
 - **Date** : Samedi 19 août 1916 (suite)
 - **Lieu** : Erquinghem-Lys, Fleurbaix et Armentières (Pas-de-Calais / Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 12 : petits mots avant toits encore discutables.; Portée de l’addition Écossais..
 
 ```text
  1 | et galop à travers champs          19 Sam –
@@ -930,7 +992,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | Parcouru principaux quartiers.
 10 | Ville importante, riche — très b. maisons
 11 | Effets des bombardements : grands
-12 | dommages. Un peu partt, ds les r., toits
+12 | dommages. Vu, çà & là, de toits
 13 | crevés, de façades trouées, cloisons
 14 | d'appartement mises à nu –
 15 | Église à briques rouges, sur 1 place
@@ -948,22 +1010,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 2* : **2 j. à** *abbr. pro* jusqu'à.
 - *l. 5* : **5 ttes** *abbr. pro* toutes.
 - *l. 8* : **8 complt** *abbr. pro* complètement.
-- *l. 12* : **12 ds** *abbr. pro* dans.
 - *l. 21* : **21 Gde** *abbr. pro* Grande.
 - *l. 22* : **22 off** *abbr. pro* officier(s).
 
 * * *
 
-**l.~2 blanchisserie Barbry :** Confirmation autographe du patronyme *Barbry*. **l.~10--20 b. maisons / La + des immeubles / Écossais :** Abréviations pour *belles maisons* et *La plupart des immeubles*, suivies de l'addition interlinéaire au crayon *Écossais*.
+**l.~12 :** La lecture du module concurrent *dommages. Vu, çà & là, de toits* est graphiquement préférable à l'ancien export *Un peu partt, ds les r., toits*. **l.~20 :** Écossais est une note isolée ajoutée plus faiblement ; sa portée syntaxique reste ouverte. La + est conservé sans réécrire le texte en La plupart.
 
-> **l.~3--22 Fleurbaix... Armentières... 1 off des Sussex :** Poursuivant leur chevauchée par la blanchisserie Barbry et Fleurbaix criblé d'obus, Hippolyte et le lieutenant Curtis parcourent les quartiers déserts d'Armentières (gare dévastée, toits éventrés, clocher découronné, cloisons d'appartements mises à nu), puis prennent le thé au retour à Erquinghem-Lys avec un officier du *Royal Sussex Regiment*.
+> **Villes endommagées :** La page nomme Fleurbaix, Armentières puis Erquinghem et un officier des Sussex. La gare est dite déserte, non nécessairement dévastée. Le texte décrit des destructions mais ne précise pas ici le numéro du régiment ni du bataillon Sussex.
 
 ---
 
-## Scan #023 — `20251126_093922.jpg` — Folio 11 verso
-- **Titre** : FOLIO 11 VERSO (Café chez M. Barbry avec les adjudants Lupin et Schumacher et préparatifs de départ)
+## Scan #023 — `20251126_093922.jpg` — Vue 023
+- **Titre** : Café chez M. Barbry avec les adjudants Lupin et Schumacher et préparatifs de départ
 - **Date** : Dimanche 20 et lundi 21 août 1916
 - **Lieu** : Erquinghem-Lys et Steenwerck (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 6 : mot biffé avant amené.; l. 10 : étendue et lettres exactes de la biffure avant prépare..
 
 ```text
  1 | 20 D –          Aout 1916
@@ -971,16 +1035,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | Partie de l'après-midi : assez beau –
  4 | Avec cet idiot de Ctis, to the fields for
  5 | green forage, puis, café et rhum chez
- 6 | le propre, M. Barbry — y ⟦trouvé⟧ amené
+ 6 | le propre, M. Barbry — y ⟦[illis.]⟧ amené
  7 | adjudants Lupin & Schumacher
  8 | Bien reposé chambre fin journée
  9 | Moral devenu excellent. Réagi contre
-10 | dépression des jours précédents. Me fais ⟦tt⟧
+10 | dépression des jours précédents. Me ⟦[illis.]⟧
 11 | prépare déjà départ semaine prochaine
 12 | de ma fenêtre : haute & large, découvre
 13 | gd horizon : prairies, champs, boqueteaux
 14 | Paysage d’ 1 banalité & platitude extrême
-15 | 21 L. Journée asz belle. Soleil, brillé
+15 | 21 L. Journée very belle. Soleil, brillé
 16 | matin & soir. Ciel couvert pendant 1 c. temps
 17 | Fin jour très belle mervx sunset, que
 18 | j'ai admiré de ma fenêtre. Lignes de
@@ -988,33 +1052,35 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 20 | Allégé mes bagages en
 21 | expédiant 1 sac à Nogent.
 22 | Matin, venu à cheval à Steenwerk
-23 | – A Proprie : 5 f (cooking, washing, & eggs)
+23 | [ — A Proprie : 5 f (cooking, washing, & eggs)
 24 | A mon groom : 2 f – Varia : 10 c –
 ```
 
 - *l. 2* : **2 sunshine** *angl. in ms.*
 - *l. 4* : **4 Ctis** *abbr. pro* Curtis.
 - *l. 5* : **5 green** *angl. in ms.*
-- *l. 6* : **6** ⟦trouvé⟧ *del. in ms.* **6 propre** *abbr. pro* propriétaire.
-- *l. 10* : **10** ⟦tt⟧ *del. in ms.* **10 tt** *abbr. pro* tout.
+- *l. 6* : **6** ⟦[illis.]⟧ *del. in ms.* **6** *lect. incert. in ms.*
+- *l. 10* : **10** ⟦[illis.]⟧ *del. in ms.* **10** *lect. incert. in ms.*
 - *l. 13* : **13 gd** *abbr. pro* grand.
-- *l. 15* : **15 L.** *scil.* Lundi.
+- *l. 15* : **15 L.** *scil.* Lundi. **15 very** *angl. in ms.*
 - *l. 17* : **17 mervx** *abbr. pro* merveilleux. **17 sunset** *angl. in ms.*
-- *l. 23* : **23 washing** *angl. in ms.*
+- *l. 23* : **23** *in marg. cum unco* (comptes). **23 washing** *angl. in ms.*
 - *l. 24* : **24 groom** *angl. in ms.*
 
 * * *
 
-**l.~2 averses & sunshine / l.~4 to the fields for green forage / l.~15 Journée very belle / l.~17 mervx sunset :** Sommet du bilinguisme spontané du carnet, où l'adverbe anglais *very* modifie directement l'adjectif français *belle*, tandis que *mervx* abrège *merveilleux* devant *sunset*.
+**l.~6 et 10 :** Les retouches avant amené puis prépare restent partiellement indéchiffrées. La substitution proposée dans le module concurrent, *Me ⟦fais à⟧ / prépare*, est possible, mais les lettres de la biffure ne sont pas assez nettes pour la rendre certaine. **l.~15 :** very belle est un mélange franco-anglais explicite.
 
-> **l.~4--7 Avec cet idiot de Ctis, to the fields... le propre, M. Barbry :** Après la corvée de fourrage vert avec le lieutenant Curtis (*Ctis*), Hippolyte partage café et rhum chez l'industriel M. Barbry en compagnie des adjudants français Lupin et Schumacher (ce dernier déjà mentionné dans sa lettre du 21 février 1916), puis expédie le lendemain un sac d'effets à son domicile de Nogent-le-Rotrou.
+> **Ravitaillement et relations :** Corvée de green forage, café et rhum chez M. Barbry avec les adjudants Lupin et Schumacher ; le lendemain, envoi d'un sac à Nogent. Cette page ne précise ni la profession de Barbry, ni la nationalité des adjudants, ni l'adresse ou la commune exacte de Nogent.
 
 ---
 
-## Scan #024 — `20251126_093941.jpg` — Folio 12 recto
-- **Titre** : FOLIO 12 RECTO (Lundi 21 (suite) et Mardi 22 août 1916 — Déjeuner chez un charcutier d'Erquinghem-Lys évoquant Antibes et départ à cheval)
+## Scan #024 — `20251126_093941.jpg` — Vue 024
+- **Titre** : Mardi 22 août 1916 — Bière chez un charcutier avec Maurin évoquant les beautés d'Antibes et envoi d’un sac de linge à Nogent
 - **Date** : Mardi 22 août 1916
-- **Lieu** : Steenwerck et Erquinghem-Lys (Nord)
+- **Lieu** : Steenwerck, Bac-Saint-Maur et Erquinghem-Lys (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | 22 Ma          Aout / 16
@@ -1023,39 +1089,42 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Venu à pied à Steenwerck : 55 m.
  5 | Promenade lente, très agréable
  6 | Vers 5H ½, retrouvé Maurin, et allés
- 7 | ensemble à Bac St. Maur. En revenant
- 8 | bonne heure ds coquette salle à manger
- 9 | chz 1 charcutier, causé Provence. Proprié
-10 | m'a décrit ses beaux jardins d'Antibes.
+ 7 | ensemble à Bac St-Maur. En savourant
+ 8 | bonne bière ds coquette salle à manger
+ 9 | chz 1 charcutier, causé Provence. Maurin
+10 | m'a décrit av. lyrisme beautés d'Antibes.
 11 | Magnifique sunset
 12 | — Fait expédier par 1 commre d'Erquinghem
 13 | 1 sac linge à Nogent, par gare de
 14 | Steenwerck : 13 kgs; 3f 80; factage à l'arrivée
 15 | compris (40c). – Timbrage au départ : 50c
-16 | Cartes ples à Steenwerck : 80 c
+16 | Cartes ples à Steenwerck : 30 c
 17 | Varia : 10 c
 18 | Bain : 1 f 25
 ```
 
 - *l. 2* : **2 tt** *abbr. pro* tout.
+- *l. 7* : **7 St** *abbr. pro* Saint.
 - *l. 8* : **8 ds** *abbr. pro* dans.
-- *l. 9* : **9 Proprié** *abbr. pro* Propriétaire.
 - *l. 11* : **11 sunset** *angl. in ms.*
 - *l. 12* : **12 commre** *abbr. pro* commissionnaire.
 - *l. 16* : **16 Cartes ples** *abbr. pro* Cartes postales.
 
 * * *
 
-**l.~8--10 chz 1 charcutier, causé Provence... jardins d'Antibes :** Aux l.~8--10, le manuscrit porte : *ds coquette salle à manger chz 1 charcutier, causé Provence. Proprié m'a décrit ses beaux jardins d'Antibes*.
+**l.~6--10 :** Le passage sur Maurin, la bière, le charcutier et les beautés d'Antibes est conservé sans amplification du décor. **l.~12--18 :** Le compte d'expédition donne 13 kgs, 3 f 80, le factage compris et le timbrage au départ ; ces postes ne sont pas des frais de voyage du diariste.
 
-> **l.~6--15 retrouvé Maurin... 1 sac linge à Nogent, par gare de Steenwerck : 13 kgs :** Après une promenade vespérale avec son collègue Maurin et un souper convivial chez un charcutier de Bac-Saint-Maur, Hippolyte expédie de la gare de Steenwerck un sac de 13 kg de linge vers sa maison du 17 rue Saint-Hilaire à Nogent-le-Rotrou.
+> **Expédition :** Après la promenade à Steenwerck puis à Bac-Saint-Maur avec Maurin, le diariste note l'envoi d'un sac de linge à Nogent par un commissionnaire d'Erquinghem. Le numéro de rue et l'identification complète de Nogent ne sont pas écrits sur cette vue.
 
 ---
 
-## Scan #025 — `20251126_093955.jpg` — Folio 12 verso
-- **Titre** : FOLIO 12 VERSO (Chevauchée jusqu'à Estaires : l'église Saint-Vaast, l'Hôtel de Ville et l'hygiène par l'exercice)
+## Scan #025 — `20251126_093955.jpg` — Vue 025
+- **Titre** : Chevauchée jusqu'à Estaires : l'église Saint-Vaast, l'Hôtel de Ville et l'hygiène par l'exercice
 - **Date** : Mercredi 23 août 1916
 - **Lieu** : Estaires (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Valeur exacte de x devant magasins.; Quantité fractionnaire de bonbons, ¼ livre proposée..
 
 ```text
  1 | 23 Merc          Aout / 16
@@ -1077,7 +1146,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | Dépense d'activité & fatigues physiques
 18 | bp de bien à mon moral —
 19 | Sensation d'équilibre & santé parfaite
-20 | Ctes ples, à Estaires : 3 f
+20 | Ctes ples, à Estaires : 35 c
 21 | ¼ livre bonbons chocolat : 75 c –
 ```
 
@@ -1092,23 +1161,26 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~7 & x magasins :** Emploi du signe mathématique *x* comme abréviation indéfinie pour *nombreux / multiples*. **l.~14 Environs, est plats / l.~17--18 Dépense d'activité & fatigues physique est le bien du moral :** Accords au singulier témoignant d'une rédaction rapide au fil de la plume.
+**l.~7 et 12--13 :** Le signe x devant magasins est conservé : nombreux est une interprétation possible, non une expansion assurée. De nouveau précède la notation de poussière. L'ellipse du bilan sur l'activité physique n'est pas complétée par un verbe absent.
 
-> **l.~5--11 arrivé j-à Estaires. Visité longuement cette petite ville :** Au cours d'une promenade à cheval jusqu'à Estaires sur la Lys, l'interprète décrit l'animation commerçante de la cité, les stalles ogivales et les statues de bois sculpté (Saint Ambroise) de l'église Saint-Vaast ainsi que les armoiries peintes de l'Hôtel de Ville — témoignage précieux sur un patrimoine entièrement anéanti en avril 1918.
+> **Estaires :** Le diariste admire l'église, son chœur, ses stalles et des statuettes dont saint Ambroise, puis l'hôtel de ville et un écusson peint. L'identification du bâtiment et son destin en 1918 demandent une source historique distincte.
 
 ---
 
-## Scan #026 — `20251126_094019.jpg` — Folio 13 recto
-- **Titre** : FOLIO 13 RECTO (Jeudi 24 août 1916 — Église de Steenwerck, transport des sacs sous la tente de l'office par Fisher et adieux aux Flandres)
+## Scan #026 — `20251126_094019.jpg` — Vue 026
+- **Titre** : Jeudi 24 août 1916 — Église de Steenwerck, transport des sacs sous la tente de l'office par Fisher et adieux aux Flandres
 - **Date** : Jeudi 24 août 1916
 - **Lieu** : Steenwerck (Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Orthographe du patronyme Cliquennois à confirmer..
 
 ```text
  1 | Jeudi 24          Août 1916
  2 | Matinée temps nuageux –
  3 | Après-midi, vent éclairci ciel & brillé très
  4 | chaud soleil.
- 5 | Entré église pr me reposer : surpris
+ 5 | Venu à pied à Steenwerck. Entré église pr me
  6 | reposer 1 peu & y découvert relique de St Hippte,
  7 | mon patron!
  8 | Revu Maurin & causé avec lui, longuement
@@ -1120,8 +1192,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | Steenwerck : ctes ples : 1 f. — Varia : 1 f
 15 | Matin, réparation à 1 soulier : 40c
 16 | Tip à Fisher : 50 c
-17 | Donné à Mme Cliquennois, pour cooking
-18 | séchage et bière : 4 fr. —
+17 | Donné à Mme Cliquennois, pr cooking
+18 | washing et divers : 4 fr. —
 ```
 
 - *l. 5* : **5 pr** *abbr. pro* pour.
@@ -1130,21 +1202,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 11* : **11 ds** *abbr. pro* dans.
 - *l. 14* : **14 ctes ples** *abbr. pro* cartes postales. **14 f.** *abbr. pro* franc(s).
 - *l. 16* : **16 Tip** *angl. in ms.*
-- *l. 17* : **17 Mme** *abbr. pro* Madame. **17 cooking** *angl. in ms.*
-- *l. 18* : **18 fr.** *abbr. pro* franc(s).
+- *l. 17* : **17 pr** *abbr. pro* pour. **17 Mme** *abbr. pro* Madame.
+- *l. 18* : **18 fr.** *abbr. pro* franc(s). **18 washing** *angl. in ms.*
 
 * * *
 
-**l.~6--16 relique de St Hippte / Fisher / sous la tente de l'office ds le champ :** À la l.~6, le manuscrit porte *& y découvert relique de St Hippte, mon patron !*. Aux l.~9--11 et 16, l'ordonnance s'appelle *Fisher*, qui porte les sacs *sous la tente de l'office ds le champ*. À la l.~14, lire *Steenwerck : ctes ples* : 1 f..
+**l.~6, 9--11 et compte :** La relique est abrégée St Hippte. Fisher revient dans la prise en charge des sacs et le pourboire ; cela ne suffit pas à attribuer un grade. Mme Cliquennois est une lecture proposée du dernier nom. La tente de l'office est dite dans le champ.
 
-> **l.~5--18 découvrir relique St Hippolyte mon patron ! ... Fisher... Mme Cliquennois :** Entré se recueillir dans l'église Saint-Jean-Baptiste de Steenwerck à la veille de quitter les Flandres, Hippolyte Combes a la surprise émue d'y découvrir une relique de son saint patron, saint Hippolyte, puis fait transporter ses bagages par l'ordonnance Fisher sous la tente du bureau de la compagnie dans le champ et règle 4 francs à son hôtesse Mme Cliquennois.
+> **Préparatifs :** Visite à l'église de Steenwerck, rencontre de Maurin, transport des sacs et règlement à la logeuse avant le départ. Le diariste exprime de la mélancolie en quittant ce village ; le passage ne nomme pas la dédicace de l'église.
 
 ---
 
-## Scan #027 — `20251126_094045.jpg` — Folio 13 verso
-- **Titre** : FOLIO 13 VERSO (Embarquement ferroviaire à Bailleul et descente par Hazebrouck et Lillers vers Saint-Pol-sur-Ternoise)
+## Scan #027 — `20251126_094045.jpg` — Vue 027
+- **Titre** : Embarquement ferroviaire à Bailleul et descente par Hazebrouck et Lillers vers Saint-Pol-sur-Ternoise
 - **Date** : Vendredi 25 août 1916
 - **Lieu** : De Steenwerck et Bailleul à Saint-Pol-sur-Ternoise (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 9 : minutes après 2 H à Lillers, 45 proposé..
 
 ```text
  1 | Ven. 25          Août 1916
@@ -1153,9 +1228,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | A 11H m. – à Bailleul.
  5 | Embarquement chevaux & wagons terminé
  6 | à midi ½.
- 7 | Train démarre au 1H ½
+ 7 | Train démarre v. 1H 1/2
  8 | Traversé plusies gares imptes sans arrêt
- 9 | A Lillers, vers 2H ½          Hazebrouck : 2H
+ 9 | A Lillers, vers 2H [45 ?]          Hazebrouck : 2H
 10 | A St. Pol : à 4H 30 s.          Berguette : 2H30
 11 | Pris route à 5H – d'abord bruine,
 12 | puis pluie battante
@@ -1164,81 +1239,92 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | Région très boisée. Verdures fraîches
 16 | comme au printemps. Si champs n'étaient
 17 | pas moissonnés et les gerbes d'or entassées
-18 | en moyettes, on ne croirait pas être
+18 | en meules, on ne croirait pas être
 19 | à la fin de l'été
 ```
 
 - *l. 1* : **1 Ven.** *scil.* Vendredi.
 - *l. 2* : **2 m.** *abbr. pro* matin.
 - *l. 4* : **4 m.** *abbr. pro* matin.
+- *l. 7* : **7 1/2** *scil.* demi / moitié.
 - *l. 8* : **8 plusies** *abbr. pro* plusieurs. **8 imptes** *abbr. pro* importantes.
+- *l. 9* : **9** *lect. incert. in ms.*
 - *l. 10* : **10 s.** *abbr. pro* soir.
 
 * * *
 
-**l.~8 Traversé plusies gares imptes sans arrêt :** Abréviations tachygraphiques *plusies* (*plusieurs*) et *imptes* (*importantes*). **l.~9--10 Hazebrouck : 2H / Berguette : 2H30 :** Relevé horaire marginal disposé en colonne à droite des étapes de Lillers et de Saint-Pol.
+**Horaires, l.~9--10 :** Hazebrouck et Berguette sont portés dans une colonne à droite ; les conserver distincts de Lillers et Saint-Pol. L'heure de Lillers est graphiquement ambiguë : une lecture 2 H 45 est possible, la précédente 2 H 1/2 n'est pas considérée acquise. La cohérence de l'itinéraire ne remplace pas le déchiffrement.
 
-> **l.~4--19 Embarquement chevaux & wagons... Région très boisée :** Parti à cheval à 8 h pour embarquer chevaux et fourgons en gare de Bailleul à midi et demi, le train militaire descend vers le sud par Hazebrouck (14 h), Berguette/Isbergues (14 h 30) et Lillers (14 h 30) jusqu'à Saint-Pol-sur-Ternoise (16 h 30), où l'Aveyronnais retrouve avec bonheur les collines boisées et les meules dorées de l'Artois.
+> **Trajet :** Embarquement des chevaux et wagons à Bailleul, puis trajet ferroviaire vers Saint-Pol et route sous la pluie. Le contraste entre la campagne plate du nord et le pays boisé est formulé par le diariste ; on n'ajoute pas un sentiment de bonheur absent.
 
 ---
 
-## Scan #028 — `20251126_094058.jpg` — Folio 14 recto
-- **Titre** : FOLIO 14 RECTO (Mélancolie du voyage en train au son de l'harmonica et arrivée nocturne à Marquay)
+## Scan #028 — `20251126_094058.jpg` — Vue 028
+- **Titre** : Mélancolie du voyage en train au son de l'harmonica et arrivée nocturne à Marquay
 - **Date** : Vendredi 25 août 1916 (suite)
 - **Lieu** : De Bailleul à Saint-Pol et Marquay (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 6 : séquence après L’Etat.; l. 7 : liaison avant a encore et abréviation p. non résolues.; l. 14 : présence de ne avant cesse.; l. 19 : désignation du compagnon de chambre ; s-off./N.C.O. non tranché..
 
 ```text
  1 | Ven. 25 (suite)          Août 1916
  2 | En gare de Bailleul, vers 1H – ds le
- 3 | joué par tommies, musique
+ 3 | train, joué par tommies, musique
  4 | d'harmonica, monotone & banal
  5 | sous le ciel pommelé de nuées grises & blanchâtres
- 6 | Réflexions amères. L'Etat non content mobiliser nos
- 7 | corps, il a encore p. notre intellge, notre
+ 6 | Réflexions amères. L'Etat [illis.] mobiliser nos
+ 7 | corps, [illis.] a encore p. notre intellge, notre
  8 | cœur —
- 9 | Ciel de + en + bas, nuages
-10 | orage menaçant.
+ 9 | Ciel de + en + bas & nuageux
+10 | orage menaçant. 1 légère brise souffle
 11 | qui me caresse visage délicieust. Bruit
 12 | doux de feuillages froissés par la bise de
 13 | tilleuls en bordure voie ferrée –
-14 | Pluie cesse & trempé j'à la peau.
-15 | Ven 7H enfin, arrivé à Marquay
+14 | Pluie [ne ?] cesse & trempé j'à la peau.
+15 | Vers 7H enfin, arrivé à Marquay
 16 | petit hameau perdu en haut d’ 1 plateau
 17 | d'Artois. Avec bp de peine, pu trouver
 18 | chambrette exiguë où coucherai lit à côté de
-19 | celui du s-off. d'office
+19 | celui du [illis.] d'office
 20 | Invité à diner par offs mess
 21 | Tip au groom : 1 f
+22 | Food : Bailleul : 75 c. – St-Pol : 1 f
 ```
 
 - *l. 1* : **1 Ven.** *scil.* Vendredi.
 - *l. 2* : **2 ds** *abbr. pro* dans.
 - *l. 3* : **3 tommies** *angl. in ms.*
-- *l. 7* : **7 intellge** *abbr. pro* intelligence.
+- *l. 6* : **6** *lect. incert. in ms.*
+- *l. 7* : **7** *lect. incert. in ms.* **7 intellge** *abbr. pro* intelligence.
 - *l. 11* : **11 délicieust** *abbr. pro* délicieusement.
-- *l. 14* : **14 j'à** *abbr. pro* jusqu'à.
+- *l. 14* : **14** *lect. incert. in ms.* **14 j'à** *abbr. pro* jusqu'à.
 - *l. 17* : **17 bp** *abbr. pro* beaucoup.
-- *l. 19* : **19 s-off.** *abbr. pro* sous-officier.
+- *l. 19* : **19** *lect. incert. in ms.*
 - *l. 20* : **20 offs** *abbr. pro* officiers. **20 mess** *angl. in ms.*
 - *l. 21* : **21 groom** *angl. in ms.*
+- *l. 22* : **22 St** *abbr. pro* Saint. **22 c.** *abbr. pro* centimes.
 
 * * *
 
-**l.~6--8 L'Etat non content mobiliser nos corps, il a encore p. notre intellge**, notre cœur : Réflexion critique sur l'emprise morale et intellectuelle de la mobilisation militaire.
+**l.~6--8 :** La réflexion sur l'État, les corps, l'intelligence et le cœur comporte une séquence abrégée non déchiffrée après L'Etat ; *non content* n'est pas établi graphiquement. **l.~14 :** *Pluie ne cesse* est une proposition du module concurrent, mais le petit mot reste douteux. **l.~19 :** Le désignant du compagnon de chambre est incertain ; ni s-off. ni N.C.O. ne sont imprimés comme certains. Food et Tip sont conservés.
 
-> **l.~2--20 En gare de Bailleul... arrivé à Marquay... lit à côté de celui du s-off. d'office :** Ce feuillet revient sur les impressions morales du trajet ferroviaire : l'air d'harmonica joué par les *tommies* inspire à l'universitaire une méditation amère sur la mobilisation des esprits, avant une marche sous la pluie battante jusqu'au hameau de Marquay, où il doit partager une étroite chambrette avec le sous-officier du bureau.
+> **Mobilisation et logement :** L'air d'harmonica joué par les tommies accompagne une réflexion amère sur la mobilisation ; l'arrivée à Marquay mène à un lit dans une chambre partagée avec un personnel de l'office, dont la désignation est à déchiffrer. Le texte ne permet pas ici d'affirmer sa nationalité.
 
 ---
 
-## Scan #029 — `20251126_094159.jpg` — Folio 14 verso
-- **Titre** : FOLIO 14 VERSO (Promenade sur le plateau de Bailleul-aux-Cornailles et portrait au vitriol de la logeuse)
+## Scan #029 — `20251126_094159.jpg` — Vue 029
+- **Titre** : Samedi 26 août 1916 — promenade à Bailleul-aux-Cornailles et mauvais logement
 - **Date** : Samedi 26 août 1916
 - **Lieu** : Marquay et Bailleul-aux-Cornailles (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l. 21 : dernier mot torture proposé.; l. 17 : nom de la route laissé en suspens par l’auteur..
 
 ```text
  1 | Sam. 26 –          Août / 16
  2 | Bien reposé, quoique dans chambrette étroite
- 3 | aux murs moisis...
+ 3 | aux murs moisis...          Levé dès 7H 1/2
  4 | Matinée, de nouveau, très fortes ondées.
  5 | Après-midi, enfin, pluie a
  6 | cessé –
@@ -1253,27 +1339,32 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | d'églises
 16 | Avant diner, que pris très tard,
 17 | promené sur la route de.. – à
-18 | l'horizon de l'O. très beau sunset
+18 | l'horizon de l. très beau sunset
 19 | Mauvaise installat° où je suis
 20 | gosses, coqueluche — maison très mal
-21 | tenue, sale, moisie — quelle torture!
+21 | tenue, sale, moisie — quelle [torture ?]!
 ```
 
 - *l. 1* : **1 Sam.** *scil.* Samedi.
+- *l. 3* : **3 1/2** *scil.* demi / moitié.
 - *l. 18* : **18 sunset** *angl. in ms.*
+- *l. 21* : **21** *lect. incert. in ms.*
 
 * * *
 
-**l.~3 aux murs moisis :** Notation de l'humidité salpêtrée de la chambrette. **l.~20--21 gosses, coqueluche — maison très mal tenue, sale, moisie — quelle torture ! :** Style nominal haché exprimant l'exaspération de l'interprète devant l'insalubrité de son logement.
+**l.~17 et 19--21 :** La route décrite avant dîner reste sans nom, notée par des points. Le dernier bloc porte *maison très mal / tenue, sale, moisie — quelle torture!*, non un portrait de vieille tortue. La graphie de torture reste proposée ; ne pas reconstruire un personnage à partir de cette exclamation.
 
-> **l.~7--21 village de Bailleul-aux-Cornailles... maison humide :** Profitant d'une accalmie après les ondées matinales, Hippolyte marche sur le plateau découvert jusqu'à Bailleul-aux-Cornailles (à 3 km de Marquay), admire un beau coucher de soleil (*sunset*) à l'ouest, mais déplore au retour l'inconfort de son cantonnement humide où un enfant tousse de la coqueluche.
+> **Cantonnement :** Le texte nomme Marquay et Bailleul-aux-Cornailles à 2 ou 3 kilomètres. Le logement est humide et mal tenu ; gosses et coqueluche sont deux notations, sans diagnostic individuel ni composition précise du foyer.
 
 ---
 
-## Scan #030 — `20251126_094215.jpg` — Folio 15 recto
-- **Titre** : FOLIO 15 RECTO (Lundi 28 et Mardi 29 août 1916 — Bourbiers d'Artois, corvées de fourrage avec le lieutenant Curtis et entrée en guerre de la Roumanie)
+## Scan #030 — `20251126_094215.jpg` — Vue 030
+- **Titre** : Lundi 28 et Mardi 29 août 1916 — Bourbiers d'Artois, corvées de fourrage avec le lieutenant Curtis et entrée en guerre de la Roumanie
 - **Date** : Lundi 28 et mardi 29 août 1916
 - **Lieu** : Marquay (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Dernière ligne au bord inférieur : mot avant grecque [?] et abréviation finale non établis..
 
 ```text
  1 | 28 Lundi.          Août 1916
@@ -1282,43 +1373,46 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Surtout matinée, très fortes ondées. Routes
  5 | détrempées, cloaques de boue. Impossible
  6 | de faire longues promenades aux environs
- 7 | ⟦du reste⟧ Où ne sort que par nécessité
+ 7 | On ne sort que par nécessité
  8 | Matin & soir, dû aller champs pour green
  9 | fourrage
-10 | très beau soleil.
+10 | Fin après-midi, très beau soleil.
 11 | Aucun confort. Jamais + mal logé
 12 | Vie végétative déprimante & abrutissante
 13 | Dîné tôt. puis promené ds la campagne
 14 | Regardé paysans travailler champs – machine
 15 | moissonneuse-lieuse – j-aux dernières lueurs jour
 16 | 29 Ma Matin & soir, dû accompagner
-17 | cet idiot de Curtis —
+17 | cet idiot de Curtis — A travers champs
 18 | – malgré pluie & boue – fourrage –
 19 | Après-midi, très violent orage
 20 | Cour de la ferme, transformée en mare
 21 | Longues heures de mélancolie
 22 | et d'ennui –
 23 | Confirmations nouvelles (Roumanie déclare guerre
-24 | comédie grecque etc.
+24 | [illis.] grecque [?] etc. [?]
 ```
 
-- *l. 7* : **7** ⟦du reste⟧ *del. in ms.*
 - *l. 8* : **8 green** *angl. in ms.*
 - *l. 13* : **13 ds** *abbr. pro* dans.
 - *l. 15* : **15 j-aux** *abbr. pro* jusqu'aux.
+- *l. 24* : **24 grecque** *lect. incert. in ms.* **24 etc** *lect. incert. in ms.*
 
 * * *
 
-**l.~7 $\llbracket$du reste$\rrbracket$ on ne sort que par nécessité :** Biffure de la locution adverbiale initiale. **l.~8--9 pour green fourrage :** Syntagme hybride associant l'adjectif anglais *green* au substantif français *fourrage*.
+**l.~8--9 et 16--18 :** green fourrage et Curtis sont conservés ; les corvées se distinguent des promenades empêchées par la boue. **Dernières lignes :** La nouvelle concernant la Roumanie est lisible, mais le texte court du bord inférieur n'autorise pas une restitution sans réserve de *comédie grecque etc.*. Aucune biffure dureste n'est ajoutée.
 
-> **l.~12--24 Vie végétative... Roumanie déclare guerre :** Tandis que les pluies d'orage transforment les chemins et la cour de la ferme de Marquay en cloaques de boue et qu'il doit accompagner matin et soir « cet idiot de Curtis » aux champs, Hippolyte observe une moissonneuse-lieuse au travail et consigne la grande nouvelle diplomatique du 27--28 août 1916 : la déclaration de guerre de la Roumanie à l'Autriche-Hongrie.
+> **Nouvelles de guerre :** Le diariste note une déclaration de guerre de la Roumanie parmi les nouvelles confirmées pendant ces journées d'août. Le contexte diplomatique peut être documenté séparément ; une glose sur la Grèce ne doit pas dépendre d'une lecture non assurée du bord inférieur.
 
 ---
 
-## Scan #031 — `20251126_094238.jpg` — Folio 15 verso
-- **Titre** : FOLIO 15 VERSO (Tempête de vent dans les grands arbres du château et fourrage sous les ondées)
+## Scan #031 — `20251126_094238.jpg` — Vue 031
+- **Titre** : Tempête de vent dans les grands arbres du voisinage et fourrage sous les ondées
 - **Date** : Mercredi 30 août 1916
-- **Lieu** : Marquay et Bailleul-aux-Cornailles (Pas-de-Calais)
+- **Lieu** : Cantonnement non nommé sur cette vue ; Marquay par continuité des entrées voisines
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Parenthèse laissée ouverte dans le manuscrit..
 
 ```text
  1 | 30 Me          Août 1916
@@ -1335,16 +1429,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1 30 Ma :** Lapsus calami du diariste sur l'abréviation du jour : le 29 août étant un mardi (Folio 15 recto), le 30 août 1916 est en réalité un mercredi (*Me.*). **l.~4--5 (bois chateau... derrière haies :** Parenthèse descriptive restée ouverte sans crochet fermant.
+**l.~1 et 4--6 :** Me abrège Mercredi. La parenthèse qui commence avant boqueteau reste ouverte ; ne pas rétablir artificiellement une fermeture. Les pauses et la juxtaposition nominale sont conservées.
 
-> **l.~2--9 Tout le jour, pluie et rafales... fourrage vert :** Une tempête d'ouest secoue tout le jour les futaies du parc seigneurial voisin dans un vacarme assourdissant, sans interrompre matin ni après-midi les corvées de fourrage vert dans les prairies détrempées.
+> **Météo et ravitaillement :** Pluie et rafales secouent les arbres du voisinage ; malgré les ondées, le diariste doit aller matin et après-midi faire prendre le fourrage vert. Aucune direction du vent ni visite à Bailleul-aux-Cornailles n'est donnée par cette vue.
 
 ---
 
-## Scan #032 — `20251126_094250.jpg` — Folio 16 recto
-- **Titre** : FOLIO 16 RECTO (Marche à pied par Ramecourt jusqu'à Saint-Pol-sur-Ternoise et souvenir de saint Benoît Labre)
+## Scan #032 — `20251126_094250.jpg` — Vue 032
+- **Titre** : Saint-Pol : promenade, église et achats
 - **Date** : Jeudi 31 août 1916
 - **Lieu** : Marquay, Ramecourt, Saint-Michel, Saint-Pol-sur-Ternoise et Ostreville (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Chiffres du compte ; groupe avant 5000 ; disposition du 0. 80..
 
 ```text
  1 | 31 J. – Enfin, belle journée. –          Aout / 16
@@ -1355,7 +1452,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | village de St. Michel-s-Ternoise. puis
  7 | suivi gde route Arras. St. Pol.
  8 | Au fond vallon, s'étend cette petite
- 9 | sous-préf de env 5000 habts
+ 9 | sous-préf. de [4 à ?] 5000 habts
 10 | Rues en pente aboutissant à gde place
 11 | Eglise briques rouges, style hollandais,
 12 | (1697). – Remarqué intérieur plaque
@@ -1364,92 +1461,96 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | la nuit en prière ds cette = église
 16 | Rentré par Ostreville
 17 | Course m'a fait bp de bien
-18 | A Saint-Pol : 12 ctes ples : 50 c — Varia : 40 c
-19 | Carte du départt : 70 c. — Div. cartes ples : 0.30
-20 | Cartes ples militaires : 40 c. —          L. 0.80
+18 | A Saint-Pol : 12 ctes ples : 50 c — Varia : [10/40 ?] c
+19 | Carte du départt : 70 c. — Div. cartes ples : 0 f [50 ?]
+20 | Cartes ples militaires : 40 c. —          [compte ajouté : 0.80]
 ```
 
 - *l. 1* : **1 J.** *scil.* Jeudi.
 - *l. 3* : **3 j. à** *abbr. pro* jusqu'à. **3 St** *abbr. pro* Saint.
 - *l. 7* : **7 gde** *abbr. pro* grande.
-- *l. 9* : **9 habts** *abbr. pro* habitants. **9 sous-préf** *abbr. pro* sous-préfecture.
+- *l. 9* : **9** *lect. incert. in ms.* **9 habts** *abbr. pro* habitants.
 - *l. 10* : **10 gde** *abbr. pro* grande.
 - *l. 13* : **13 s/** *abbr. pro* sur.
 - *l. 15* : **15 ds** *abbr. pro* dans.
 - *l. 17* : **17 bp** *abbr. pro* beaucoup.
-- *l. 18* : **18 ctes ples** *abbr. pro* cartes postales.
-- *l. 19* : **19 cartes ples** *abbr. pro* cartes postales. **19 départt** *abbr. pro* département.
-- *l. 20* : **20 L.** *scil.* Lundi. **20 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 18* : **18** *lect. incert. in ms.* **18 ctes ples** *abbr. pro* cartes postales.
+- *l. 19* : **19** *lect. incert. in ms.* **19 cartes ples** *abbr. pro* cartes postales.
+- *l. 20* : **20** *lect. incert. in ms.* **20 Cartes ples** *abbr. pro* Cartes postales.
 
 * * *
 
-**l.~2 transformt paysages & humeurs :** Participation abrégée en *-mt* (*transformant*) et zeugma associant l'aspect physique de la campagne à l'état moral du promeneur. **l.~15 ds cette = église :** Emploi du signe mathématique *=* pour représenter l'adjectif *même*.
+**Collation de la photographie :** Départt désigne le département, non un dépôt. Les chiffres retouchés du compte et le petit groupe avant 5000 restent réservés ; le 0. 80 inférieur est conservé sans L. certain.
 
-> **l.~3--16 St. Michel-s-Ternoise... le bienh Benoît Labre... Rentré par Ostreville :** Profitant du retour du soleil, Hippolyte gagne à pied la sous-préfecture de Saint-Pol-sur-Ternoise (env. 5~000 habitants) par le plateau de Ramecourt et Saint-Michel, visite l'église de briques rouges de style hollandais (1697) où une plaque de marbre rappelle qu'en mars 1767 saint Benoît-Joseph Labre (1748--1783) y passa la nuit en prière, puis rentre à Marquay par Ostreville.
+> **Lecture et contexte :** Le parcours passe par Saint-Michel-sur-Ternoise et Saint-Pol, avec retour par Ostreville. Les dates 1697 et 1767 sont des indications rapportées par le diariste à propos de l’église et d’une plaque sur Benoît Labre ; leur exactitude monumentale reste à vérifier.
 
 ---
 
-## Scan #033 — `20251126_094310.jpg` — Folio 16 verso
-- **Titre** : FOLIO 16 VERSO (L'église médiévale de Ligny-Saint-Flochel et les « manœuvres spéciales » britanniques)
+## Scan #033 — `20251126_094310.jpg` — Vue 033
+- **Titre** : Ligny-Saint-Flochel : église, cimetière et attente
 - **Date** : Vendredi 1er septembre 1916
 - **Lieu** : Marquay et Ligny-Saint-Flochel (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Bon/où ; ordre des groupes impression/mélancolie et ciel nuageux..
 
 ```text
  1 | 1er V.          Septbre 1916
  2 | Matinée, temps variable
  3 | Tout l'après-midi, qq rayons de soleil et puis
  4 | ciel couvert de nuages
- 5 | Après lunch, allé au village de Ligny-
- 6 | Saint-Flochel, à 2 k. 1/2 — Route en pente longe
+ 5 | Venu promener au village de Ligny-
+ 6 | Saint-Flochel, à 2 kil 5 — Route en pente longe
  7 | bois où régiments anglais faisaient les manœuvres
  8 | spéciales
  9 | Visité un instant petite eglise du hameau St Fl.
 10 | est du XIIIe s. clocher très curieux, octogonal,
-11 | avec b. pierres sculptées.
+11 | avec b. pierres sculptées. Tout autour cimetière
 12 | village, où gazon & plantes cachent presque les
-13 | tombes
-14 | Mélancolie pénétrante. – Y éprouvé impress
-15 | ciel nuageux et
-16 | bas. Léger brise agitant ramures. Air doux.
-17 | où s'arrêter & réfléchir
-18 | Tip au headcook : 5 f –
-19 | Jours se succèdent monotones &
-20 | ternes
-21 | Espoir départ prochain, lundi
+13 | tombes. — Y éprouvé impression
+14 | mélancolie pénétrante — Ciel nuageux et
+15 | bas. Légère brise agitant ramures. Air doux.
+16 | [Bon/où ?] s'arrêter & réfléchir
+17 | [ Tip au headcook : 5 f –
+18 | Jours se succèdent monotones &
+19 | ternes
+20 | Espoir départ prochain, lundi
 ```
 
 - *l. 1* : **1 1er** *scil.* premier.
 - *l. 3* : **3 qq** *abbr. pro* quelque(s).
-- *l. 5* : **5 lunch** *angl. in ms.*
-- *l. 6* : **6 1/2** *scil.* demi / moitié.
 - *l. 9* : **9 St** *abbr. pro* Saint.
-- *l. 18* : **18 headcook** *angl. in ms.*
+- *l. 16* : **16** *lect. incert. in ms.*
+- *l. 17* : **17** *in marg. cum unco* (comptes). **17 headcook** *angl. in ms.*
 
 * * *
 
-**l.~5--6 village de Ligny-Saint-Flochel, à 2 k. 1/2 :** Toponyme exact du village voisin de Marquay. **l.~14 Y éprouvé impress :** Abréviation par apocope de *impression*. **l.~17 où s'arrêter & réfléchir :** Méditation devant le cimetière villageois.
+**Collation de la photographie :** Les rayons de soleil, la route en pente et Tout autour cimetière sont conservés, ainsi que Espoir départ prochain, lundi. Le mot ouvrant la réflexion après Air doux reste ambigu.
 
-> **l.~6--18 manœuvres spéciales... petite eglise du hameau St Fl. ... Tip au headcook : 5 f :** En se promenant à 2,5 km de Marquay vers Ligny-Saint-Flochel, Hippolyte observe en lisière des bois des régiments britanniques se livrant à des « manœuvres spéciales » à deux semaines de l'offensive du 15 septembre, puis décrit avec précision le clocher octogonal en pierre sculptée du XIIIe siècle et le cimetière envahi d'herbes.
+> **Lecture et contexte :** La promenade conduit à Ligny-Saint-Flochel, près de bois où s’exercent des régiments anglais. L’attribution de l’église au XIIIe siècle est celle du carnet.
 
 ---
 
-## Scan #034 — `20251126_094324.jpg` — Folio 17 recto
-- **Titre** : FOLIO 17 RECTO (Rosée matinale dans les terres argileuses, liste de blanchissage en anglais et marche à Saint-Pol)
+## Scan #034 — `20251126_094324.jpg` — Vue 034
+- **Titre** : Promenades à Saint-Pol sous un ciel menaçant
 - **Date** : Samedi 2 et dimanche 3 septembre 1916
 - **Lieu** : Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Terre friable : mot final ; surcharge annonçant [?] ; position avant & après..
 
 ```text
  1 | 2 S.          Septbre 16
  2 | Matinée, ds les champs. Herbes
- 3 | mouillant souliers et eau
- 4 | arrive j'à la peau. Terre friable s'accroche
+ 3 | couvertes de rosée mouillant souliers et eau
+ 4 | arrive j'à la peau. Terre friable ([boueuse ?])
  5 | aux semelles en fortes mottes.
  6 | Ciel tout couvert de gros nuages – A
  7 | l'horizon, pointent clochers villages voisins
  8 | au sein futaies & boqueteaux –
  9 | Après-midi, entiert libre
-10 | Washing : 1 f          Varia : 10c
-11 | (1 shirt. 1 vest / 1 p. socks. 1 handk)
+10 | [ — Washing : 1 f          — Varia : 10 c
+11 | (1 shirt. 1 vest / 1 p. socks. 1 handk) ]
 12 | 3 Dim. Malgré ciel menaçant
 13 | allé à pied j-à St-Pol.
 14 | Sensation enivrante de gd air & d'espace
@@ -1458,32 +1559,36 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | A St-Pol, reposé lgt église — avant & après
 18 | Parcouru plusies fois et lentement rues
 19 | petite ville banale
-20 | Au Retour grosses nuées encre ciel – annonçant
+20 | Au retour, grosses nuées encre ciel — [mot surchargé] orage
 21 | Rentré avant pluie —
 ```
 
 - *l. 2* : **2 ds** *abbr. pro* dans.
-- *l. 4* : **4 j'à** *abbr. pro* jusqu'à.
+- *l. 4* : **4** *lect. incert. in ms.* **4 j'à** *abbr. pro* jusqu'à.
 - *l. 9* : **9 entiert** *abbr. pro* entièrement.
-- *l. 10* : **10 Washing** *angl. in ms.*
+- *l. 10* : **10** *in marg. cum unco* (comptes). **10 Washing** *angl. in ms.*
 - *l. 12* : **12 Dim.** *scil.* Dimanche.
 - *l. 13* : **13 j-à** *abbr. pro* jusqu'à. **13 St** *abbr. pro* Saint.
 - *l. 14* : **14 gd** *abbr. pro* grand.
 - *l. 17* : **17 lgt** *abbr. pro* longtemps. **17 St** *abbr. pro* Saint.
 - *l. 18* : **18 plusies** *abbr. pro* plusieurs.
+- *l. 20* : **20** *lect. incert. in ms.*
 
 * * *
 
-**l.~4--5 Terre friable s'accroche aux semelles en fortes mottes :** Notation précise de la nature collante du limon d'Artois détrempé. **l.~10--11 Washing : 1 f (1 shirt. 1 vest / 1 p. socks. 1 handk) :** Inventaire de linge entièrement rédigé en anglais (1 chemise, 1 gilet de flanelle, 1 paire de chaussettes, 1 mouchoir).
+**Collation de la photographie :** Le complément eau à droite et les mots aux semelles sont conservés. La surcharge avant orage ne suffit pas à certifier une biffure ; la fin de la ligne Terre friable reste réservée.
 
-> **l.~12--21 3 Dim. Malgré ciel menaçant allé à pied j-à St-Pol :** Après une matinée du samedi passée dans les herbes trempées de rosée qui alourdissent ses brodequins de mottes de boue, Hippolyte redescend à pied le dimanche 3 septembre jusqu'à Saint-Pol-sur-Ternoise en savourant le grand air du plateau avant l'orage du soir.
+> **Lecture et contexte :** La page réunit les 2 et 3 septembre. La rosée, la terre aux semelles et la menace d’orage structurent les deux promenades à Saint-Pol.
 
 ---
 
-## Scan #035 — `20251126_094345.jpg` — Folio 17 verso
-- **Titre** : FOLIO 17 VERSO (Courses à Roëllecourt, passé surcomposé méridional et déception du départ retardé)
+## Scan #035 — `20251126_094345.jpg` — Vue 035
+- **Titre** : Roellecourt et départ retardé
 - **Date** : Lundi 4 et mardi 5 septembre 1916
 - **Lieu** : Marquay et Roëllecourt (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Première mention prairie ; petits mots très serrés de l’annonce du 5..
 
 ```text
  1 | 4 L          Sept 1916
@@ -1496,8 +1601,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Me réjouis, à la pensée de quitter cet
  9 | obscur & boueux hameau, où ns avons été
 10 | si mal.
-11 | 5 Ma. Matin, prairie, appris par l'Orderly
-12 | Sorti pr me renseigner. Mais rien d'officiel
+11 | 5 Ma. Matin, prairie, appris par 1 orderly
+12 | N.C.O. que départ retardé. Sorti pr me renseigner
 13 | eu confirmaton mauvaise nouvelle : encore 8
 14 | jours à moisir ici, hélas!
 15 | Et Toujours, même temps affreux –
@@ -1514,117 +1619,129 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 7* : **7 Ts** *abbr. pro* Tous.
 - *l. 9* : **9 ns** *abbr. pro* nous.
 - *l. 11* : **11 Ma.** *scil.* Mardi.
-- *l. 12* : **12 pr** *abbr. pro* pour.
+- *l. 12* : **12 pr** *abbr. pro* pour. **12 N.C.O.** *angl.* Non-Commissioned Officer.
 - *l. 13* : **13 confirmaton** *abbr. pro* confirmation.
 - *l. 21* : **21 Fr.se** *abbr. pro* Française.
 
 * * *
 
-**l.~8--10 cet obscur & bas hameau, où on a eu été si mal :** Remarquable occurrence du passé surcomposé (*on a eu été*), tournure syntaxique caractéristique du français méridional et du substrat occitan de l'auteur. **l.~11--12 appris par l'Orderly N.C.O. :** Emprunt du titre militaire britannique (*Orderly Non-Commissioned Officer*, sous-officier de semaine).
+**Collation de la photographie :** Le corps N. C. O. que départ retardé et le paragraphe inférieur de Roellecourt sont conservés. Les 22 lignes et le compte final sont confrontés à la photo.
 
-> **l.~4--22 venu à Roellecourt... Mission Fr.se : solde & Indemnité : 78 f 75c :** Alors qu'il avait bouclé toutes ses cantines le lundi 4 septembre à 17 h 30 dans l'espoir de quitter Marquay, Hippolyte apprend le mardi matin par le sous-officier de jour que le départ est différé d'une semaine, et se rend sous une pluie battante au bureau de la Mission française à Roëllecourt pour toucher sa quinzaine (78,75 francs).
+> **Lecture et contexte :** Les préparatifs du 4 septembre sont suivis le 5 de l’annonce d’un départ retardé. Une nouvelle visite à Roellecourt et la solde/indemnité auprès de la Mission française figurent au bas de la page.
 
 ---
 
-## Scan #036 — `20251126_094449.jpg` — Folio 18 recto
-- **Titre** : FOLIO 18 RECTO (Champs d'avoine sous la brise et achat de la carte du département de la Somme)
+## Scan #036 — `20251126_094449.jpg` — Vue 036
+- **Titre** : Avoines et achats à Saint-Pol
 - **Date** : Dimanche 3 (addition) / mardi 5 septembre 1916
 - **Lieu** : Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Qui/épis ; somme ajoutée après 30 c..
 
 ```text
  1 | 3 D.          Septbre /16
  2 | Champs d'avoine non encore
- 3 | fauchés, tout jaunes – et qui
+ 3 | fauchés, tout jaunes — et [qui/épis ?]
  4 | bruissaient monotone, sous la caresse
  5 | de la brise. –
- 6 | A Saint-Pol : ctes ples : 30 c. + 25 c
- 7 | Carte du dépt Somme : 70 c.          Geog. du N. de la France : 35 c
- 8 | 1 boîte de saddle soap : 1 f 50
+ 6 | A Saint-Pol : ctes ples : 30 c. + [2 f / 25 c ?]
+ 7 | Carte du dépt Somme : 70 c.          Géog. du Pas de Calais : 35 c
+ 8 | 1 boîte de saddle soap : 1 f 50          Varia : 30 c
  9 | 1 éponge : 60 c. – – 1/4 livre choc Poulain : 1f
 ```
 
 - *l. 1* : **1 D.** *scil.* Dimanche.
-- *l. 6* : **6 ctes ples** *abbr. pro* cartes postales. **6 c.** *abbr. pro* centimes.
+- *l. 3* : **3** *lect. incert. in ms.*
+- *l. 6* : **6** *lect. incert. in ms.* **6 ctes ples** *abbr. pro* cartes postales.
 - *l. 7* : **7 c.** *abbr. pro* centimes.
 - *l. 8* : **8 saddle soap** *angl. in ms.*
 - *l. 9* : **9 c.** *abbr. pro* centimes.
 
 * * *
 
-**l.~1 3 D. ... Septbr 116 :** Addition rétrospective rattachée à la promenade dominicale du 3 septembre (décrite au Folio 17 recto, Scan #034) et complétée par les achats effectués à Saint-Pol. **l.~4 bruissaient monotone :** Emploi adverbial de l'adjectif invariable (*bruissaient monotone*).
+**Collation de la photographie :** Le compte marginal porte Géog. du Pas de Calais et Varia 30 c ; la somme ajoutée après 30 c reste douteuse. La variante épis du nouveau module ne peut être certifiée contre qui.
 
-> **l.~6--9 Carte du dept Somme : 70c. ... 1 boîte de saddle soap : 1 f 50 :** Outre une boîte de savon à cuir britannique (*saddle soap*) pour l'entretien de son harnachement et du chocolat Poulain, Hippolyte achète pour 70 centimes la carte du département de la Somme, indice certain du prochain mouvement de son unité vers le front de l'Ancre.
+> **Lecture et contexte :** Cette continuation du 3 septembre prolonge la vue 034, après la vue 035 datée des 4 et 5. L’ordre photographique ne constitue pas une suite chronologique continue.
 
 ---
 
-## Scan #037 — `20251126_094511.jpg` — Folio 18 verso
-- **Titre** : FOLIO 18 VERSO (Conversation avec Mme Vauchel et halte au cimetière de Saint-Michel-sur-Ternoise)
+## Scan #037 — `20251126_094511.jpg` — Vue 037
+- **Titre** : Repos au grand air et promenades vers Saint-Pol
 - **Date** : Mercredi 6 et jeudi 7 septembre 1916
 - **Lieu** : Marquay, Bailleul-aux-Cornailles, Saint-Pol et Saint-Michel-sur-Ternoise (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Bain ; durée à Saint-Pol ; ifs/arbres ; groupe biffé et comptes inférieurs..
 
 ```text
  1 | 6 Me Enfin, beau temps. –          Septbre 1916
  2 | Après-midi superbe Chaud soleil.
  3 | Resté 2 h sur pature, assis chaise à
- 4 | l'ombre de vieux noyer. Bain de gd air.
- 5 | Mais au retour, dû accompagner Lt Ctis à
+ 4 | l'ombre de vieux arbres. [Bain ?] de gd air.
+ 5 | A 6 H s., dû accompagner Lt Ctis à
  6 | ferme voisinage. Y très bien accueillis
  7 | par propre, Mme Vauchel, femme très
  8 | intelligente & raisonnant admirabt
  9 | Languis tjs ds ce trou perdu, et
 10 | sale, où aucune distraction —
 11 | 7 J Encore une b. journée –
-12 | Sitôt après-déjeuner, parti à pied pour
-13 | lentement et fait haltes fréquentes de la
-14 | carré gazonné de calvaires, ds 1 bois
+12 | Sitôt après-déjeun, parti campagne. Marché
+13 | lentement et fait haltes fréquentes ds le
+14 | carré gazonné de calvaires, ds 1 bois ou au
 15 | bord champs d'avoine
 16 | Soleil ardent
-17 | Passé 1 longue heure ds cette petite ville de
+17 | Passé [1/2 ?] longue[s?] heure[s?] ds cette petite ville de
 18 | St-Pol : aux maisons briques. rues en pente
 19 | aboutissant à gde place et eglise
 20 | Retour par St. Michel-sur-Ternoise : arrêt prolongé
-21 | Cimetière, ombragé par vieux ifs et tt
+21 | ds le petit cimetière ombragé par vieux [ifs/arbres ?] et tt
 22 | envahi par hautes herbes — au 1/2 s'élève l'église
 23 | dont le clocher octogonal en pierre sculptée est
 24 | intéressant
-25 | allée de pins          [ Ctes ples : 1 f. — Hair cut : 50 c
+25 | [groupe biffé illis.] allée de pins          [ Ctes ples : 1 f. — Hair cut : 50 c
 26 |          Consommations : 50 c ]
 ```
 
-- *l. 4* : **4 gd** *abbr. pro* grand.
+- *l. 4* : **4** *lect. incert. in ms.* **4 gd** *abbr. pro* grand.
 - *l. 5* : **5 Lt** *abbr. pro* Lieutenant. **5 Ctis** *abbr. pro* Curtis.
 - *l. 7* : **7 Mme** *abbr. pro* Madame. **7 propre** *abbr. pro* propriétaire.
 - *l. 8* : **8 admirabt** *abbr. pro* admirablement.
 - *l. 9* : **9 ds** *abbr. pro* dans. **9 tjs** *abbr. pro* toujours.
+- *l. 12* : **12 déjeun.** *abbr. pro* déjeuné / déjeuner.
+- *l. 13* : **13 ds** *abbr. pro* dans.
 - *l. 14* : **14 ds** *abbr. pro* dans.
-- *l. 17* : **17 ds** *abbr. pro* dans.
+- *l. 17* : **17** *lect. incert. in ms.* **17 ds** *abbr. pro* dans.
 - *l. 18* : **18 St** *abbr. pro* Saint.
 - *l. 19* : **19 gde** *abbr. pro* grande.
-- *l. 21* : **21 tt** *abbr. pro* tout.
+- *l. 21* : **21** *lect. incert. in ms.* **21 ds** *abbr. pro* dans.
 - *l. 22* : **22 1/2** *scil.* demi / moitié.
-- *l. 25* : **25** *in marg. cum unco* (comptes). **25 Ctes ples** *abbr. pro* Cartes postales.
+- *l. 25* : **25** *lect. incert. in ms.* **25** *in marg. cum unco* (comptes).
 
 * * *
 
-**l.~5--6 accompagner Lt Ctis à ferme voisinage & très bien accueillis :** Abréviation *Ctis* pour le lieutenant Curtis. **l.~8 intelligente & raisonnant admirabt** : Éloge de l'esprit de son interlocutrice Mme Vauchel. **l.~25--26 [ Ctes ples** : 1 f. — Hair cut : 50 c / Consommations : 50 c ] : Note comptable tracée au bas du feuillet.
+**Collation de la photographie :** L’heure A 6 H s., Marché et ou au sont conservés contre les suppressions anciennes. La durée à Saint-Pol et le type d’arbres du cimetière restent réservés.
 
-> **l.~5--24 accompagner Lt Ctis... par propre, Mme Vauchel... St. Michel-sur-Ternoise :** Appelé le mercredi soir à accompagner le lieutenant Curtis dans une ferme voisine, l'universitaire goûte le plaisir rare d'une conversation avec une propriétaire cultivée, Mme Vauchel ; le lendemain 7 septembre, il flâne de nouveau jusqu'à Saint-Pol et s'attarde au retour dans le vieux cimetière herbeux entourant le clocher de Saint-Michel-sur-Ternoise.
+> **Lecture et contexte :** Les 6 et 7 septembre associent le repos au grand air, Mme Vauchel et le lieutenant Ctis, puis les promenades à Saint-Pol et Saint-Michel-sur-Ternoise.
 
 ---
 
-## Scan #038 — `20251126_094524.jpg` — Folio 19 recto
-- **Titre** : FOLIO 19 RECTO (Attente des fourgons des « Bedfords » et promenade au clair de lune à Ryonval)
+## Scan #038 — `20251126_094524.jpg` — Vue 038
+- **Titre** : Wagons des Bedfords et promenade nocturne
 - **Date** : Vendredi 8 septembre 1916
 - **Lieu** : Marquay et ferme de Ryonval (Pas-de-Calais)
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Toponyme Ryonval..
+
 ```text
  1 | 8 Ve.          Septbre /16
- 2 | Tout l'après-midi, attendu
+ 2 | Tout l'après-midi,
  3 | dû attendre et inutilt 2 wagons de
  4 | Bedfords : for green forage
- 5 | En rentrant du diner, promené lgt
+ 5 | Après diner, soir, promené lgt
  6 | ds la campagne
- 7 | Clair de lune superbe. Silence
+ 7 | Clair de lune superbe
  8 | arbres nettement silhouettés
  9 | me suis attardé petit chemin de Ryonval
 10 | ds la pâture derrière ferme Collet
@@ -1643,16 +1760,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2 $\llbracket$Tout l'après-midi$\rrbracket$ :** Rature de l'indication temporelle initiale en tête de phrase. **l.~3 inutilt :** Abréviation par contraction de l'adverbe *inutilement*. **l.~12 Box of tooth powder : 60 c :** Dépense d'hygiène notée en anglais.
+**Collation de la photographie :** La photographie ne montre pas Silence après superbe. Dû attendre n’est pas doublé sur la ligne précédente.
 
-> **l.~3--10 2 wagons de Bedfords : for green forage... petit chemin de Ryonval :** Après avoir attendu en vain deux fourgons du *Bedfordshire Regiment* (*the Bedfords*, 54e Brigade de la 18e Division britannique) pour la corvée de fourrage vert, Hippolyte savoure sa dernière soirée à Marquay en marchant au clair de lune sur le chemin de la ferme de Ryonval, derrière la ferme Collet.
+> **Lecture et contexte :** Le service de green forage explique l’attente de wagons des Bedfords. Une promenade nocturne suit le dîner ; le numéro du bataillon n’est pas indiqué sur cette page.
 
 ---
 
-## Scan #039 — `20251126_094545.jpg` — Folio 19 verso
-- **Titre** : FOLIO 19 VERSO (Départ de Marquay, l'école de mortiers de tranchée et l'ancien monastère de Monts-en-Ternois)
+## Scan #039 — `20251126_094545.jpg` — Vue 039
+- **Titre** : De Marquay à Monts-en-Ternois
 - **Date** : Samedi 9 septembre 1916
 - **Lieu** : De Marquay et Ligny-Saint-Flochel à Monts-en-Ternois (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Peu/Flots ; entrée/issue ; nom du groom..
 
 ```text
  1 | Sam. 9.          Sept / 16
@@ -1665,10 +1785,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | school, et d'où vue panoramique
  9 | contrée environnante
 10 | Temps tt fait beau – Soleil supportable
-11 | Flots de poussière route
+11 | [Peu/Flots ?] de poussière route[s?]
 12 | Vers 1H s., terminé 1ère étape, au
 13 | hameau de Monts-en-Ternois.
-14 | Cantonnés ds gde ferme, à l'entrée du
+14 | Cantonnés ds gde ferme, à l'[entrée ?] du
 15 | village – maison d'habitation, ancien
 16 | monastère –
 17 | Impression de calme reposant jardin
@@ -1678,32 +1798,36 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 21 | Dormi sur 2 bancs de jardin ds la laiterie
 22 | excellente nuit.
 23 | — Donné 3 f à M. Dupuich à Marquay —
-24 | & 1 tip au groom —
+24 | & 1 tip au groom [Connelly ?] —
 ```
 
 - *l. 1* : **1 Sam.** *scil.* Samedi.
 - *l. 3* : **3 ns** *abbr. pro* nous.
 - *l. 6* : **6 St** *abbr. pro* Saint.
 - *l. 10* : **10 tt** *abbr. pro* tout.
+- *l. 11* : **11** *lect. incert. in ms.*
 - *l. 12* : **12 1ère** *scil.* première. **12 s.** *abbr. pro* soir.
-- *l. 14* : **14 ds** *abbr. pro* dans. **14 gde** *abbr. pro* grande.
+- *l. 14* : **14** *lect. incert. in ms.* **14 ds** *abbr. pro* dans.
 - *l. 18* : **18 s/** *abbr. pro* sur.
 - *l. 19* : **19 offs** *abbr. pro* officiers. **19 Cap.** *abbr. pro* Capitaine.
 - *l. 21* : **21 ds** *abbr. pro* dans.
-- *l. 24* : **24 groom** *angl. in ms.*
+- *l. 24* : **24** *lect. incert. in ms.* **24 groom** *angl. in ms.*
 
 * * *
 
-**l.~19 Invité par Cap. West à messer aux off. :** Création verbale remarquable du néologisme franco-anglais *messer* (prendre ses repas au *mess* des officiers). **l.~21 Devisé sur 2 bancs :** Emploi littéraire du verbe *deviser* (converser paisiblement).
+**Collation de la photographie :** Trois brigades et la laiterie sont mieux appuyés que les anciennes leçons. La quantité de poussière et le nom du groom au bord inférieur restent réservés.
 
-> **l.~2--23 Quitté Marquay... trench mortar school... hameau de Monts-en-Ternois :** Après avoir remis 3 francs à son logeur M. Dupuich, Hippolyte quitte Marquay à 9 h 30 derrière la brigade d'infanterie, longe sur le plateau de Ligny-Saint-Flochel l'école britannique de mortiers de tranchée (*trench mortar school*) et fait étape à 13 h à Monts-en-Ternois dans un ancien monastère fleuri où le capitaine West l'invite à sa table.
+> **Lecture et contexte :** Le départ de Marquay conduit par Ligny-Saint-Flochel à Monts-en-Ternois, avec mention d’une trench mortar school et d’un ancien monastère. West l’invite au mess.
 
 ---
 
-## Scan #040 — `20251126_094600.jpg` — Folio 20 recto
-- **Titre** : FOLIO 20 RECTO (Nuit devant le fournil à Monts-en-Ternois et étape au hameau d'Oppy (Beaudricourt))
+## Scan #040 — `20251126_094600.jpg` — Vue 040
+- **Titre** : Étape à Oppy et service à Beaudricourt
 - **Date** : Dimanche 10 septembre 1916
 - **Lieu** : De Monts-en-Ternois à Oppy et Beaudricourt (Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Signe après l’heure ; localisation d’Oppy..
 
 ```text
  1 | Dim. 10.          Septbre 16
@@ -1714,7 +1838,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | Voyage très agréable. – paysages très
  7 | variés – d'abord plaines. puis coteaux
  8 | et peu à peu hauteurs boisées.
- 9 | A 1H ½, arrivés à Oppy
+ 9 | A 1 H [s. ?], arrivés à Oppy
 10 | Campagne verdoyante. régions fertiles.
 11 | Oppy, situé tt en haut coteau. De ce
 12 | plateau, très b. vue. Ptit hameau
@@ -1729,6 +1853,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 1* : **1 Dim.** *scil.* Dimanche.
 - *l. 2* : **2 s/** *abbr. pro* sur.
 - *l. 5* : **5 m.** *abbr. pro* matin.
+- *l. 9* : **9** *lect. incert. in ms.*
 - *l. 11* : **11 tt** *abbr. pro* tout.
 - *l. 12* : **12 Ptit** *abbr. pro* Petit.
 - *l. 14* : **14 mess** *angl. in ms.*
@@ -1736,16 +1861,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2--3 couché s/ 2 bancs de jardin rapprochés – devant le four :** Précision matérielle sur son couchage de fortune devant le four à pain de la ferme. **l.~14 Obligé coucher grenier ferme ni mess :** Construction elliptique (*sans chambre ni mess sur place*).
+**Collation de la photographie :** Le signe après H ne permet pas de certifier½. On duty est lisible à la ligne de Beaudricourt, non au château.
 
-> **l.~9--17 arrivés à Oppy... Ptit hameau de 6 maisons... Beaudricourt, au Chau, chez le maire :** Contrairement à une confusion avec la commune d'Oppy près d'Arras (alors en zone occupée allemande), il s'agit ici très exactement du **hameau d'Oppy** rattaché à la commune de **Beaudricourt** (Pas-de-Calais, canton d'Avesnes-le-Comte), minuscule écart de six maisons perché sur le coteau boisé au-dessus du château de Beaudricourt où Hippolyte descend à pied en fin d'après-midi saluer le maire et dîner au mess des officiers.
+> **Lecture et contexte :** Le carnet décrit Oppy comme un hameau de six maisons et mentionne ensuite Beaudricourt. L’identification précise de cet Oppy reste à documenter, sans l’assimiler automatiquement à la commune près d’Arras.
 
 ---
 
-## Scan #041 — `20251126_094621.jpg` — Folio 20 verso
-- **Titre** : FOLIO 20 VERSO (Longue chevauchée d'Oppy à Raincheval par Lucheux (l'Édit des postes de Louis XI) et Thièvres)
+## Scan #041 — `20251126_094621.jpg` — Vue 041
+- **Titre** : Chevauchée vers Raincheval par Lucheux
 - **Date** : Lundi 11 septembre 1916
 - **Lieu** : D'Oppy (Beaudricourt) à Lucheux, Thièvres et Raincheval (Pas-de-Calais / Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Surcharges du passage régions pittoresques/boisés..
 
 ```text
  1 | Lundi 11 — Sur pied, dès 5 H —          Septbre /16
@@ -1760,14 +1888,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | boisés, petite vallée verdoyante,
 11 | Arrêt à Lucheux : Edit de Louis XI. 1464
 12 | des postes
-13 | Raincheval, très gros village
+13 | Raincheval, très gros village aux
 14 | maisons mal entretenues – fourmillant
 15 | de tommies. Très nombreuses troupes y
 16 | cantonnées.
 17 | Trouvé chambrette famille de pauvres
 18 | mais braves gens. Fille aînée, prête à accoucher
 19 | mangé tjs au mess off
-20 | Tip au groom Connelly : 1 f –
+20 | [ — Tip au groom Connelly : 1 f –
 21 | Oeufs : 3 à Thièvres : 50 c. – 4 à Raincheval : 70 c
 22 | 6 cartes ples de Raincheval : 30 c
 23 | 1 litre bière : 50 + 10 c –
@@ -1776,36 +1904,39 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 7* : **7 m.** *abbr. pro* matin.
 - *l. 15* : **15 tommies** *angl. in ms.*
 - *l. 19* : **19 tjs** *abbr. pro* toujours. **19 off** *abbr. pro* officier(s).
-- *l. 20* : **20 groom** *angl. in ms.*
+- *l. 20* : **20** *in marg. cum unco* (comptes). **20 groom** *angl. in ms.*
 - *l. 21* : **21 c.** *abbr. pro* centimes.
 - *l. 22* : **22 cartes ples** *abbr. pro* cartes postales.
 
 * * *
 
-**l.~1--2 Dérangé sur matin / $\llbracket$Rechange sur matu...$\rrbracket$ :** Biffure d'un premier essai de phrase en tête du feuillet. **l.~6 Aujd'hui :** Syncope graphique de *Aujourd'hui*. **l.~20--23 Tip au groom Connelly... Oeufs : 3 à Thièvres :** Relevé des menues dépenses de la route.
+**Collation de la photographie :** Chevauché matinée entière ne doit pas être remplacé par une phrase sur la pluie. La mention des troupes cantonnées est conservée, sans répétition fourmillant.
 
-> **l.~3--16 Quitté Oppy 7H... Arrêt à Lucheux : Edit de Louis XI. 1464 des postes... Raincheval :** Au cours d'une chevauchée de huit heures (7 h -- 15 h) qui ramène la colonne d'Artois dans le département de la Somme par Lucheux (où l'érudit note le souvenir de l'édit royal du 19 juin 1464 instituant la Poste aux chevaux sous Louis XI) et Thièvres, Hippolyte atteint Raincheval, gros bourg de l'arrière-front de l'Ancre encombré de brancardiers (*R.A.M.C.*) et de troupes de relève.
+> **Lecture et contexte :** Combes gagne Raincheval par Lucheux et Thièvres. La mention Édit de Louis XI, 1464 témoigne de la mémoire locale ; l’ordonnance dite de Lucheux a été reconnue apocryphe dans les travaux cités par Joseph Calmette (Bibliothèque de l’École des chartes, 102, 1941, p. 240 ; \url{https://www.persee.fr/doc/bec_0373-6237_1941_num_102_1_460369_t1_0239_0000_000}).
 
 ---
 
-## Scan #042 — `20251126_094639.jpg` — Folio 21 recto
-- **Titre** : FOLIO 21 RECTO (Admission permanente au mess des officiers du capitaine West et promenade en forêt de Raincheval)
+## Scan #042 — `20251126_094639.jpg` — Vue 042
+- **Titre** : Invitation permanente au mess et forêt
 - **Date** : Mardi 12 et mercredi 13 septembre 1916
 - **Lieu** : Raincheval (Somme)
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Acceptation ; Matin/Montés dans le complément green forage ; fin extré..
+
 ```text
- 1 | 12 mardi.          Sept 116
+ 1 | 12 mardi.          Sept / 16
  2 | Après excte nuit, les fatigues oubliées.
  3 | Déjeuné midi ds ma chambre
  4 | Après-midi, Cap. West, offert de venir à
  5 | leur mess d'1 manière permanente — et,
- 6 | devant son insistance ai accepté
+ 6 | devant son insistance, [ai accepté / dû accepter ?]
  7 | Dès le soir, membre du mess des off à
  8 | titre définitif
  9 | Cuisine quelconque — mais grands avantages.
 10 | converser anglais & sorte de club où me
 11 | retirer pour lire revues & journaux.
-12 | – Temps menaçant – (Montés l'après-midi
+12 | – Temps menaçant – (Matin & après-midi
 13 | sur les hauteurs for
 14 | green forage
 15 | 13 Me Temps couvert après-midi,
@@ -1813,16 +1944,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | A g. du chateau, forêt magnifique
 18 | Venu m'y promener après le lunch
 19 | Arbres séculaires – routes & sentiers à
-20 | Echappées de ciel à l'extré
+20 | angle droit. Echappées de ciel à l'extré
 21 | d'allées profondes – Bruissement des feuilles
 22 | Remonté plateau pour green forage
-23 | Tout le jour, pr 1ère fois, mess d'offs
+23 | Tout le jour, pr 1ère fois, mess des offs
 ```
 
 - *l. 2* : **2 excte** *abbr. pro* excellente.
 - *l. 3* : **3 ds** *abbr. pro* dans.
 - *l. 4* : **4 Cap.** *abbr. pro* Capitaine.
 - *l. 5* : **5 mess** *angl. in ms.*
+- *l. 6* : **6** *lect. incert. in ms.*
 - *l. 7* : **7 off** *abbr. pro* officier(s). **7 mess** *angl. in ms.*
 - *l. 14* : **14 green** *angl. in ms.*
 - *l. 18* : **18 lunch** *angl. in ms.*
@@ -1831,16 +1963,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2 excte nuit :** Contraction de *excellente*. **l.~5 d'y manger permanente :** Emploi elliptique pour *de manière permanente*. **l.~10 converson anglais :** Abréviation en *-on* (*conversation*) et omission de la préposition.
+**Collation de la photographie :** Angle droit ouvre bien la ligne des allées. Cuisine quelconque et converser anglais sont conservés ; le petit groupe de l’acceptation reste réservé.
 
-> **l.~4--11 Cap. West, offert de venir à un mess... Sorte de Club :** Tournant décisif dans les conditions de vie matérielles et morales de l'interprète : sur l'insistance cordiale du capitaine West, Hippolyte devient membre permanent du *mess* des officiers britanniques de la compagnie, véritable « club » où il peut pratiquer la conversation anglaise et lire les journaux et revues de Londres.
+> **Lecture et contexte :** Le 12 septembre, West offre à Combes de fréquenter le mess de façon permanente. Le 13, la description se déplace vers la forêt et ses allées ; le commentaire ne doit pas transformer une réserve de lecture en analyse psychologique.
 
 ---
 
-## Scan #043 — `20251126_094654.jpg` — Folio 21 verso
-- **Titre** : FOLIO 21 VERSO (Visite à la Mission française au parc du château d'Acheux et exercices de grenades à Raincheval)
+## Scan #043 — `20251126_094654.jpg` — Vue 043
+- **Titre** : Acheux et exercices à Raincheval
 - **Date** : Jeudi 14 et vendredi 15 septembre 1916
 - **Lieu** : Raincheval et Acheux-en-Amiénois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Lereux/Leroux ; abréviation commt..
 
 ```text
  1 | 14 J. matin, ciel bleu & soleil          Sept 16
@@ -1849,92 +1984,98 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | à Acheux; bureaux mission fr; dans
  5 | les parcs du chateau – maisonnette toile
  6 | & planches
- 7 | Fait route avec Lereux
+ 7 | Fait route avec Lereux [?]
  8 | Bourg très coquet
  9 | Fin jour, 1er froid d'automne
 10 | [ — Ctes ples, à Acheux : 30 c.
 11 | To a batman for saddling up my poney : 50c
-12 | 15 Ve – nuit froide – matin extt fraiche
+12 | 15 Ve – nuit froide – matinée extt fraiche
 13 | très b. journée
 14 | Impressions de fin été & commt automne
 15 | Après-midi, venu à travers champs à
 16 | la canteen, station de Raincheval
 17 | Exerc. de grenades & mines de champs
 18 | en face gare
-19 | [ — Canteen station de Raincheval :
+19 | — Canteen station de Raincheval :
 20 | Canada in Flanders... 1f 25
 ```
 
 - *l. 1* : **1 J.** *scil.* Jeudi.
 - *l. 3* : **3 lunch** *angl. in ms.*
+- *l. 7* : **7 Lereux** *lect. incert. in ms.*
 - *l. 9* : **9 1er** *scil.* premier.
 - *l. 10* : **10** *in marg. cum unco* (comptes). **10 Ctes ples** *abbr. pro* Cartes postales.
 - *l. 11* : **11 batman** *angl. in ms.*
 - *l. 12* : **12 extt** *abbr. pro* extrêmement.
 - *l. 14* : **14 commt** *abbr. pro* commencement.
 - *l. 16* : **16 canteen** *angl. in ms.*
-- *l. 19* : **19** *in marg. cum unco* (comptes). **19 Canteen** *angl. in ms.*
+- *l. 19* : **19 Canteen** *angl. in ms.*
 
 * * *
 
-**l.~10--11 [ — Ctes ples**, à Acheux : 30 c. / To a batman for saddling up my poney : 50 c : Note comptable associant l'achat de cartes postales à Acheux et le pourboire en anglais idiomatique (*batman*, ordonnance ; *saddling up*, action de seller). **l.~20 Canada in Flanders... 1 f 25 :** Ouvrage historique de Sir Max Aitken (Lord Beaverbrook), publié à Londres en 1916.
+**Collation de la photographie :** La formule Fait route avec remplace la visite inventée. Lereux reste une graphie proposée, sans identification civile.
 
-> **l.~3--18 Venu à Acheux ; bureaux mission fr... Exerc. de grenades y mines de champs :** Le 14 septembre, Hippolyte se rend à cheval au bureau de la Mission française installé dans une baraque de toile et de planches au parc du château d'Acheux ; le lendemain 15 septembre (jour même du déclenchement de l'offensive britannique de Flers-Courcelette avec les premiers chars d'assaut), il assiste près de la gare de Raincheval à des exercices de lancement de grenades et de mines de tranchée.
+> **Lecture et contexte :** Le 14 septembre, la Mission française se trouve dans une baraque de toile et de planches à Acheux. Le 15, des exercices sont situés en face de la gare de Raincheval ; Canada in Flanders apparaît dans un compte.
 
 ---
 
-## Scan #044 — `20251126_094706.jpg` — Folio 22 recto
-- **Titre** : FOLIO 22 RECTO (Les grands hêtres du bois de Raincheval, le vieux collectionneur de faïences et le Salut dominical)
+## Scan #044 — `20251126_094706.jpg` — Vue 044
+- **Titre** : Bois, fourrage et collection de faïences
 - **Date** : Dimanche 17 septembre 1916
-- **Lieu** : Raincheval et Varennes (Somme)
+- **Lieu** : Raincheval (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Signe avant jour ; fonction intte/insttr..
 
 ```text
  1 | 17 Dim.          Septre 1916
- 2 | Tjs de l'attente notre départ
+ 2 | Tjs ds l'attente notre départ
  3 | Comme occupations : green forage. Dois
  4 | conduire wagon champ de trèfle rouge.
  5 | Temps très beau – un peu froid, le soir
- 6 | & surtout le matin. 1/2 jour, soleil brulant.
+ 6 | & surtout le matin. [Le/1/2 ?] jour, soleil brulant.
  7 | Reviens pl. fois par jour me promener
  8 | ds le grand bois qui s'étend à coté
  9 | de nos horse-lines, derrière le mur du
 10 | château. Ombre fraîche & délicieuse.
 11 | gds arbres séculaires – Chênes très droits
 12 | aux troncs énormes
-13 | Matin, rencontré intte à la sortie église.
+13 | Matin, rencontré intte [?] à la sortie église.
 14 | et avec lui venu chez le petit vieux, qui
 15 | possède des collections très belles de faïences,
 16 | pierres, médailles etc etc
 17 | Après-midi, assisté church service (Wesleyans)
 18 | ds petite salle en face église village
 19 | — Washing : 1 f. —
-20 | (Varennes)
 ```
 
 - *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 2* : **2 Tjs** *abbr. pro* Toujours.
+- *l. 2* : **2 ds** *abbr. pro* dans. **2 Tjs** *abbr. pro* Toujours.
 - *l. 3* : **3 green** *angl. in ms.*
-- *l. 6* : **6 1/2** *scil.* demi / moitié.
+- *l. 6* : **6** *lect. incert. in ms.*
 - *l. 7* : **7 pl.** *abbr. pro* plusieurs.
 - *l. 8* : **8 ds** *abbr. pro* dans.
 - *l. 9* : **9 horse-lines** *angl. in ms.*
 - *l. 11* : **11 gds** *abbr. pro* grands.
-- *l. 13* : **13 intte** *abbr. pro* interprète.
+- *l. 13* : **13 intte** *lect. incert. in ms.*
 - *l. 18* : **18 ds** *abbr. pro* dans.
 - *l. 19* : **19 f.** *abbr. pro* franc(s). **19 Washing** *angl. in ms.*
 
 * * *
 
-**l.~7 Reviens pl. fois :** Abréviation de *plusieurs*. **l.~9 à coté de nos horse-lines :** Terme technique britannique désignant les lignes d'attache des chevaux du Train. **l.~19--20 Washing : 1 f. (Varennes) :** Mention du village voisin de Varennes-en-Croix où est donné son linge.
+**Collation de la photographie :** Church service et Wesleyans sont conservés ; Varennes n’est pas écrit. La fonction du personnage rencontré reste réservée, sans ajouter artiste ou instituteur.
 
-> **l.~11--18 Chênes très droits et hêtres énormes... collections très belles de faïences :** Entre deux corvées de trèfle rouge (*green forage*), Hippolyte se recueille sous les futaies séculaires qui bordent le mur du château de Raincheval et, présenté par un artiste rencontré à la sortie de la messe, visite chez un vieillard érudit du village une remarquable collection de faïences anciennes, de pierres et de médailles.
+> **Lecture et contexte :** Les corvées de fourrage vert alternent avec les promenades au bois et la visite d’un collectionneur de faïences, pierres et médailles.
 
 ---
 
-## Scan #045 — `20251126_094726.jpg` — Folio 22 verso
-- **Titre** : FOLIO 22 VERSO (Chevauchée sous l'averse par Hédauville et Forceville jusqu'à Acheux et malaise gastrique)
+## Scan #045 — `20251126_094726.jpg` — Vue 045
+- **Titre** : Mission française et retour sous la pluie
 - **Date** : Lundi 18 septembre 1916
 - **Lieu** : Raincheval, Hédauville, Forceville et Acheux-en-Amiénois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Groupe avant divon ; bruit ; mot surchargé avant Forceville..
 
 ```text
  1 | 18 Lundi.          Septbr 1916
@@ -1943,10 +2084,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | frse. Malgré averses incessantes, parti
  5 | à cheval vers 1H ½. Toute l'après-midi par
  6 | monts & par vaux, sur routes boueuses
- 7 | A Hédauville, appris que XVIIIe divon, contrt
- 8 | n'a pas quitté Acheux — Le H.Q. 18e divon reste
+ 7 | A Hédauville, appris [groupe abrégé] divon, contrt
+ 8 | [bruit ?], pas quitté Acheux — Le H.Q. 18e divon reste
  9 | où elle était.
-10 | Revenu par Forceville à Acheux – où
+10 | [mot surchargé] par Forceville à Acheux — où
 11 | enfin retrouvé mission frse de notre divon —
 12 | Au retour, fait route en cie de Brammas
 13 | Temps affreux. Cape traversée par la pluie
@@ -1962,8 +2103,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 - *l. 4* : **4 frse** *abbr. pro* française.
-- *l. 7* : **7 contrt** *abbr. pro* contrairement. **7 divon** *abbr. pro* division.
-- *l. 8* : **8 divon** *abbr. pro* division. **8 H.Q.** *angl.* Headquarters.
+- *l. 7* : **7** *lect. incert. in ms.* **7 contrt** *abbr. pro* contrairement.
+- *l. 8* : **8** *lect. incert. in ms.* **8 divon** *abbr. pro* division.
+- *l. 10* : **10** *lect. incert. in ms.*
 - *l. 11* : **11 frse** *abbr. pro* française. **11 divon** *abbr. pro* division.
 - *l. 12* : **12 cie** *abbr. pro* compagnie.
 - *l. 15* : **15 dérangt** *abbr. pro* dérangement.
@@ -1973,16 +2115,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~4 mission frse :** Contraction de *française*. **l.~11 près de notre div :** Apocope de *division*. **l.~15--20 dérangé d'entrailles... Rendu enfin repas de midi :** Notation médicale directe et sans apprêt des troubles digestifs causés par l'eau et le régime du mess.
+**Collation de la photographie :** Brammas est un nom de compagnon, non une compagnie de brancardiers. Les abréviations précédant divon et la surcharge du retour restent réservées.
 
-> **l.~3--12 A Hédauville, appris que 20e Corps n'a pas quitté Acheux :** Convoqué par message à la Mission française, Hippolyte chevauche tout l'après-midi sous des pluies diluviennes par Hédauville et Forceville jusqu'à Acheux (quartier général de corps d'armée), rentre le soir les vêtements transpercés en compagnie d'une unité de brancardiers et souffre toute la soirée d'une violente indigestion.
+> **Lecture et contexte :** Le parcours mène à la Mission française par Hédauville et Forceville. Le récit des troubles digestifs ne suffit pas à poser un diagnostic.
 
 ---
 
-## Scan #046 — `20251126_094738.jpg` — Folio 23 recto
-- **Titre** : FOLIO 23 RECTO (Routes transformées en mares et perception de la solde à la hutte du château d'Acheux)
+## Scan #046 — `20251126_094738.jpg` — Vue 046
+- **Titre** : Accalmie et perception de la solde
 - **Date** : Jeudi 21 septembre 1916
 - **Lieu** : Raincheval et Acheux-en-Amiénois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Finale ple(s) du compte..
 
 ```text
  1 | 21 J.          Septbre /16
@@ -1997,7 +2142,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | A 4H ½, retour – et sans avoir été mouillé
 11 | Fin journée, assez belle
 12 | A Acheux : solde : 78 f 75 c
-13 | — cartes ples : 0.25 c. ]
+13 | — cartes ples : 0.25 c.
 ```
 
 - *l. 1* : **1 J.** *scil.* Jeudi.
@@ -2008,20 +2153,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1 Septre 116 :** Graphie abrégée du millésime *116* pour *1916*. **l.~12 solde : 78 : 75 c :** Emploi des deux-points à l'anglaise pour séparer les francs des centimes (78 fr. 75).
+**Collation de la photographie :** Ornières est conservé contre mares ; le compte 78 f 75 est maintenu.
 
-> **l.~2--12 Routes boueuses transformées en mares... bureau mission fr, hutte s/ la pelouse chateau :** Après trois jours de pluies incessantes qui ont noyé les chemins picards et paralysé les opérations sur le front de la Somme, une accalmie permet à Hippolyte de se rendre à cheval au château d'Acheux pour percevoir sa solde de quinzaine (78,75 francs) à la baraque de la Mission française.
+> **Lecture et contexte :** Une accalmie permet de gagner à cheval le bureau de la Mission française dans une hutte sur la pelouse du château d’Acheux. Les effets de la pluie sur tout le front ne sont pas décrits ici.
 
 ---
 
-## Scan #047 — `20251126_094822.jpg` — Folio 23 verso
-- **Titre** : FOLIO 23 VERSO (Match de football des « Bedfs », annonce du départ à l'aube (« we are moving Dawn ») et nuit sans étoiles)
+## Scan #047 — `20251126_094822.jpg` — Vue 047
+- **Titre** : Football et annonce d’un déplacement
 - **Date** : Vendredi 22 septembre 1916
 - **Lieu** : Raincheval (Somme)
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Signe devant jour ; prix de la cantine ; dernier montant Eggs & food..
+
 ```text
  1 | 22 Ve – Enfin, temps splendide Sept / 16
- 2 | ciel d'1 bleu intense. Soleil ardent t. jour
+ 2 | ciel d'1 bleu intense. Soleil ardent [t./1/2 ?] jour
  3 | Après-midi, promené j'à la station de
  4 | Raincheval et me suis renseigné horaire trains
  5 | Au retour, assisté match de football
@@ -2036,10 +2184,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | départ le 25
 15 | Nuit très sombre — qq stars au ciel noir.
 16 | [ — 2 tins of coffee milk, à la
-17 | Cantine : 3 f 25
+17 | Cantine : 3 f [25 ?]
 18 | Eggs & food : 1 f 10 — ]
 ```
 
+- *l. 2* : **2** *lect. incert. in ms.*
 - *l. 3* : **3 j'à** *abbr. pro* jusqu'à.
 - *l. 6* : **6 s/** *abbr. pro* sur. **6 horse-lines** *angl. in ms.*
 - *l. 9* : **9 Cme** *abbr. pro* Comme. **9 Cap.** *abbr. pro* Capitaine.
@@ -2047,20 +2196,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 11* : **11 gde** *abbr. pro* grande.
 - *l. 15* : **15 qq** *abbr. pro* quelque(s).
 - *l. 16* : **16** *in marg. cum unco* (comptes). **16 tins** *angl. in ms.*
+- *l. 17* : **17** *lect. incert. in ms.*
 - *l. 18* : **18 food** *angl. in ms.*
 
 * * *
 
-**l.~2 Soleil ardent t. jour :** Abréviation *t.* pour *tout le*. **l.~10 Panton m'a appris que we are moving demain :** Discours indirect libre mêlant l'anglais (*we are moving*) et le français (*demain*). **l.~15 Nuit très sombre — qq stars au ciel noir :** Alternance codique spontanée dans la notation nocturne.
+**Collation de la photographie :** We are moving demain est conservé, sans Dawn ni Méaulte. Le ciel noir comporte des étoiles. Les petites suscrites du compte restent réservées.
 
-> **l.~3--11 station de Raincheval... match de football s/ prairie à coté horse-lines the Bedfs... Méaulte :** Tandis qu'il s'informe des horaires de trains à la gare de Raincheval en vue de sa prochaine permission, Hippolyte assiste à un match de football disputé par les soldats du *Bedfordshire Regiment* en maillots rouge vif et bleu et blanc, avant d'apprendre par le capitaine Panton l'ordre de départ pour le lendemain à l'aube en direction de Méaulte.
+> **Lecture et contexte :** Combes se renseigne sur les trains vers Toulouse, assiste à un match des Bedfs et apprend un déplacement pour le lendemain ; le texte ne donne pas sa destination.
 
 ---
 
-## Scan #048 — `20251126_094835.jpg` — Folio 24 recto
-- **Titre** : FOLIO 24 RECTO (Samedi 23 septembre 1916 — Marche vers Léalvillers, message apporté en auto par le lieutenant Pizzi et bivouac sous la tente à Forceville)
+## Scan #048 — `20251126_094835.jpg` — Vue 048
+- **Titre** : Message de Pizzi et bivouac
 - **Date** : Samedi 23 septembre 1916
 - **Lieu** : Raincheval, Léalvillers, Acheux et Forceville (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Matériau de la hutte ; litière/toiture ; nom ou blanc du compte Mme..
 
 ```text
  1 | Sam 23          Sept 16
@@ -2076,16 +2229,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | coté refilling point
 12 | Repartis à cheval seul j. à gare d'Acheux
 13 | Cap. West, vers 2 H 1/2, m'a rejoint et aussitôt
-14 | la Coy file. –
-15 | Passé route gare puis tournant route de
+14 | tte Coy file. –
+15 | Revenus route gare j'au tournant route de
 16 | Forceville
 17 | Cantonnés in the open – champs au flanc
 18 | coteau.
 19 | Très b. fin journée.
-20 | Me suis arrangé hutte avec épaisses brches
-21 | vertes cme toiture – Couché bonne nuit
-22 | Carte du Petit Journal : 60 c
-23 | A Mme Petit propre à Acheux : 1 f (washing)
+20 | Me suis arrangé hutte avec épaisses [brches/herbe ?]
+21 | verte[s?] cme [litière/toiture ?] — Couché bonne nuit
+22 | A Mme — propre à Acheux : 1 f (cooking
+23 | [ Carte du Petit Journal : 60 c —
 ```
 
 - *l. 3* : **3 ts** *abbr. pro* tous.
@@ -2093,39 +2246,43 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 11* : **11 refilling point** *angl. in ms.*
 - *l. 12* : **12 j. à** *abbr. pro* jusqu'à.
 - *l. 13* : **13 Cap.** *abbr. pro* Capitaine. **13 1/2** *scil.* demi / moitié.
-- *l. 14* : **14 Coy** *angl.* Company.
-- *l. 20* : **20 brches** *abbr. pro* branches.
-- *l. 21* : **21 cme** *abbr. pro* comme.
-- *l. 23* : **23 Mme** *abbr. pro* Madame. **23 propre** *abbr. pro* propriétaire.
+- *l. 14* : **14 tte** *abbr. pro* toute. **14 Coy** *angl.* Company.
+- *l. 20* : **20** *lect. incert. in ms.*
+- *l. 21* : **21** *lect. incert. in ms.* **21 cme** *abbr. pro* comme.
+- *l. 22* : **22 Mme** *abbr. pro* Madame. **22 propre** *abbr. pro* propriétaire.
+- *l. 23* : **23** *in marg. cum unco* (comptes).
 
 * * *
 
-**l.~8--9 garage de Léalvillers / Pizzi, en auto :** Aux l.~8--9, on lit : *A peine arrivions-ns vers garage de Léalvillers que Pizzi, en auto, à notre rencontre av. message* (l'officier interprète de la 18e Division, le lieutenant Pizzi, vient lui remettre en automobile l'avis relatif à sa permission).
+**Collation de la photographie :** Le matériau et la fonction de la végétation de la hutte restent discutés : les états herbe, bottes et brches ne sont pas confirmés par le seul contexte. Les nouvelles variantes tte Coy/Revenus sont conservées comme leçons de travail.
 
-> **l.~4--21 Cap West... Léalvillers... Forceville... arrangé hutte avec épaisses brches vertes cme toiture :** Partie à 9 h 30 sous les ordres du capitaine West, la compagnie reçoit en chemin à hauteur du garage ferroviaire de Léalvillers un pli modifiant sa destination : au lieu de descendre jusqu'à Méaulte, l'unité oblique par la gare d'Acheux vers les coteaux de Forceville, où Hippolyte bivouaque en plein champ sous une hutte recouverte d'épaisses branches vertes en guise de toiture.
+> **Lecture et contexte :** Pizzi apporte un message en automobile près du garage de Léalvillers. La compagnie attend près du refilling point avant le bivouac ; le texte ne donne pas un itinéraire abandonné depuis Méaulte.
 
 ---
 
-## Scan #049 — `20251126_103003.jpg` — Folio 24 verso
-- **Titre** : FOLIO 24 VERSO (Dimanche 24 septembre 1916 — Construction d'une hutte derrière la haie d'aubépine à Forceville et préparatifs du départ en permission)
+## Scan #049 — `20251126_103003.jpg` — Vue 049
+- **Titre** : Hutte et préparation du départ
 - **Date** : Dimanche 24 septembre 1916
 - **Lieu** : Forceville et Acheux-en-Amiénois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Longeant/derrière ; Newton ; bagages..
 
 ```text
  1 | Dim. 24 Levé 7H ½          Sept 16
  2 | Après 8 H, épais brouillard. A 11 H seulemt,
  3 | soleil l'a dissipé –
  4 | Brume & temps splendide
- 5 | Achevé de construire ma hutte, derrière
+ 5 | Achevé de construire ma hutte, [longeant ?]
  6 | haie d'aubépine — plus spacieuse et haute
  7 | Ds la matinée, dû venir à pied à
  8 | Forceville, for green forage. Parcouru
  9 | village
 10 | Après-midi, chaleur intense –
-11 | Lunch pris (Cap. Stewart invité), me suis
-12 | retiré sous ma tente et fait ts mes sacs & cantine
-13 | en 2 H. tout était prêt
-14 | Après le thé, venu me promener à
+11 | Lunch pris (Cap. Newton [?] invité), me suis
+12 | retiré sous ma tente et fait ts mes [bagages ?]
+13 | en 2 h. tout était prêt
+14 | Après le tea, venu me promener à
 15 | Acheux. Musique milre jouait sur la
 16 | place. à g. de l'église et devant entrée du
 17 | Chateau
@@ -2136,25 +2293,30 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 - *l. 1* : **1 Dim.** *scil.* Dimanche.
+- *l. 5* : **5** *lect. incert. in ms.*
 - *l. 7* : **7 Ds** *abbr. pro* Dans.
 - *l. 8* : **8 green** *angl. in ms.*
-- *l. 11* : **11 Cap.** *abbr. pro* Capitaine. **11 Lunch** *angl. in ms.*
-- *l. 12* : **12 ts** *abbr. pro* tous.
+- *l. 11* : **11 Newton** *lect. incert. in ms.* **11 Cap.** *abbr. pro* Capitaine.
+- *l. 12* : **12** *lect. incert. in ms.* **12 ts** *abbr. pro* tous.
+- *l. 14* : **14 tea** *angl. in ms.*
 - *l. 15* : **15 milre** *abbr. pro* militaire.
 - *l. 19* : **19 ds** *abbr. pro* dans.
 
 * * *
 
-**l.~5--6 Achevé de construire ma hutte, derrière haie d'aubépine :** Aux l.~5--6, le manuscrit porte très lisiblement : *Achevé de construire ma hutte, derrière haie d'aubépine — plus spacieuse et haute*.
+**Collation de la photographie :** Le recadrage appuie Newton contre Stewart. Le groupe précédant haie et l’objet du rangement restent des propositions, sans certifier sacs & cantine.
 
-> **l.~7--21 Forceville, for green forage... Cap. Stewart invité... Canon gronde tout le long du front :** Après une corvée matinale de fourrage vert à Forceville et un *lunch* où est convié le capitaine Stewart, Hippolyte boucle ses cantines, va écouter la musique militaire britannique sur la place d'Acheux devant l'église et le château, puis s'endort sous une nuit étoilée scandée par le grondement continu de l'artillerie de la Somme (veille de l'offensive franco-britannique des 25--26 septembre sur Combles et Thiepval).
+> **Lecture et contexte :** Le 24 septembre réunit la hutte, la corvée à Forceville, les préparatifs et la musique militaire sur la place d’Acheux. Le canon est entendu le long du front.
 
 ---
 
-## Scan #050 — `20251126_103019.jpg` — Folio 25 recto
-- **Titre** : FOLIO 25 RECTO (Lundi 25 septembre 1916 — Réveil à 7 h, corvée de green forage à Forceville avec le Lt. Ford et départ en permission à la gare d'Acheux-Varennes)
+## Scan #050 — `20251126_103019.jpg` — Vue 050
+- **Titre** : Forceville et départ par Acheux-Varennes
 - **Date** : Lundi 25 septembre 1916 (matin et après-midi)
 - **Lieu** : Forceville et gare d'Acheux-Varennes (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Abréviation dernier/drnier ; nom Ford..
 
 ```text
  1 | 25 L.          Sept /16
@@ -2192,16 +2354,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1--18 25 L. — Vers 7 H, sur pied... station d'Acheux-Varennes :** Ce feuillet (`20251126_103019.jpg`), omis dans le premier fichier Word, décrit le départ en permission le lundi 25 septembre 1916 : réveil à 7 h, corvée de *green forage* à Forceville avec le lieutenant *Ford*, trajet sur le dernier wagon du *convoy* allant au *railhead*, dépôt des colis à l'office du *R.T.O.* à la station d'Acheux-Varennes et attente dans le petit train départemental.
+**Collation de la photographie :** Le lever est noté 7 H ; entiert est conservé contre suis tt. Le dernier wagon, Ford et continué restent les leçons de travail.
 
-> **l.~10--16 station d'Acheux-Varennes :** Sur pied dès 7 h du matin mais retenu dans la matinée par une ultime corvée de fourrage vert (*green forage*) avec le lieutenant Ford sur le plateau de Forceville, Hippolyte gagne à midi en fourgon le *railhead* d'Acheux-Varennes, dépose ses bagages au bureau du *Railway Transport Officer*, déjeune au village et attend le départ du petit train départemental vers Gézaincourt et Amiens.
+> **Lecture et contexte :** Forceville, le railhead, Acheux-Varennes et le R. T. O. jalonnent le départ en permission. Train départemental ne fournit pas une heure de départ 18 H 40.
 
 ---
 
-## Scan #051 — `20251126_103036.jpg` — Folio 25 verso
-- **Titre** : FOLIO 25 VERSO (De Gézaincourt à Amiens et raid nocturne de « Taubes » sur la gare de Longueau)
+## Scan #051 — `20251126_103036.jpg` — Vue 051
+- **Titre** : Gézaincourt, Amiens et bombardement nocturne
 - **Date** : Lundi 25 septembre 1916 (soir et nuit)
 - **Lieu** : Gézaincourt, Amiens, Longueau et train vers Paris
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Parenthèse après Creil..
 
 ```text
  1 | 25 Lundi. (Suite)          Sept / 16
@@ -2213,14 +2378,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | A Gézaincourt, vers 4H ½, changé train.
  8 | Reparti à 5 H ds le train venant de Doullens
  9 | A Amiens, vers 8H s
-10 | Monté train de permisson pr Paris. Compartiment
+10 | Monté train de permissionns pr Paris. Compartimt
 11 | de 3e Cl., avec grossiers poilus, barbus & sales
 12 | Roulé tte nuit
-13 | Après avoir quitté Amiens, et en arrivant
+13 | Après avoir quitté Amiens, et au croisement
 14 | de Longueau, survolé par des Taubes qui
 15 | jeté bombes — obus ds les airs. Ciel fouillé
 16 | par les projecteurs. Très beau spectacle
-17 | Pas descendu à Creil (en retard)
+17 | Pas descendu à Creil (en retard [?])
 18 | Voyage tte la nuit
 ```
 
@@ -2230,20 +2395,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 10* : **10 pr** *abbr. pro* pour.
 - *l. 12* : **12 tte** *abbr. pro* toute.
 - *l. 15* : **15 ds** *abbr. pro* dans.
+- *l. 17* : **17 retard** *lect. incert. in ms.*
 - *l. 18* : **18 tte** *abbr. pro* toute.
 
 * * *
 
-**l.~1 25 Lundi. (Suite) :** En-tête faisant suite directement au Scan #050. **l.~2 au ciel bleu, qq nuages, nettement détachés :** Notation visuelle du ciel d'après-midi. **l.~11 avec grossiers poilus, barbus & sales :** Notation sans fard de la promiscuité des wagons de permissionnaires.
+**Collation de la photographie :** La parenthèse après Creil reste réservée. Nuages et obus ds les airs sont conservés.
 
-> **l.~7--16 A Gézaincourt... A Amiens... Longueau, survolé par des Taubes :** Après un changement de convoi à Gézaincourt (au sud de Doullens) et un embarquement à Amiens à 20 h dans le train de permissionnaires pour Paris, le convoi est survolé à hauteur du grand triage ferroviaire de Longueau par des avions allemands (*Taubes*) qui larguent des bombes sous le faisceau croisé des projecteurs et les tirs de D.C.A.
+> **Lecture et contexte :** Le voyage passe par Gézaincourt et Amiens ; près de Longueau, Combes rapporte des Taubes, des bombes et des projecteurs. Son terme Taubes ne suffit pas à identifier un modèle d’avion.
 
 ---
 
-## Scan #052 — `20251126_103109.jpg` — Folio 26 recto
-- **Titre** : FOLIO 26 RECTO (Arrivée matinale au Bourget, traversée de Paris et démarches aux Invalides)
+## Scan #052 — `20251126_103109.jpg` — Vue 052
+- **Titre** : Du Bourget à Paris : démarches et courses
 - **Date** : Mardi 26 septembre 1916 (matin et après-midi)
 - **Lieu** : Le Bourget et Paris (Gare du Nord, Tuileries, Orsay, Invalides, rive gauche)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Finale Flandre(s)..
 
 ```text
  1 | Mardi 26          Sept 16
@@ -2279,71 +2448,78 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~4 j'que bureau militre / l.~8 j-à gare du Nord :** Variantes tachygraphiques des prépositions *jusque* et *jusqu'à*. **l.~14 autorison :** Contraction nominale en *-on* (*autorisation*). **l.~18--22 Puis descendu rue du Bac... :** Énumération nominale en colonne des étapes de ses courses sur la rive gauche.
+**Collation de la photographie :** L’autorisation de sortir et le planton jusqu’à la porte sont conservés ; sortie de la rue de Flandre remplace entrée.
 
-> **l.~2--22 descendre gare du Bourget... Hotel des Invalides... Billet de Sud Toulouse :** Débarqué à 6 h du matin au triage militaire du Bourget d'où il gagne la gare du Nord en tramway puis la gare d'Orsay en métro, Hippolyte doit se rendre au gouvernement militaire de Paris (Hôtel des Invalides) afin d'obtenir l'autorisation de voyager à ses frais dans le rapide *Sud-Express* vers Toulouse, avant de parcourir la rue du Bac, le Bon Marché, la rue de Rennes, le jardin du Luxembourg et la librairie Armand Colin.
+> **Lecture et contexte :** Du Bourget, Combes gagne Paris en tramway puis métro. La demande aux Invalides concerne un voyage à ses frais en express ; la page ne nomme pas le Sud-Express.
 
 ---
 
-## Scan #053 — `20251126_103131.jpg` — Folio 26 verso
-- **Titre** : FOLIO 26 VERSO (Mardi 26 septembre 1916 (suite) — Square de la Tour Saint-Jacques, rue de Rivoli, achats d'ouvrages d'Ernest Zyromski et de Maurice Maeterlinck chez Armand Colin et départ à la gare d'Orsay)
+## Scan #053 — `20251126_103131.jpg` — Vue 053
+- **Titre** : Paris : promenade, livres et dépenses
 - **Date** : Mardi 26 septembre 1916 (après-midi et soir)
 - **Lieu** : Paris (Tour Saint-Jacques, rue de Rivoli, librairie Colin, gare d'Orsay)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Lgt/1/2 h ; Envoi(s) ; objet Christofle ; mot avant souliers ; petits comptes..
 
 ```text
  1 | Mardi 26          Sept 16
  2 | Déjeuné – Bd St-Germain
  3 | Reposé – jardin Notre - Dame
  4 | Magasins de l'Hotel - de - Ville
- 5 | Lgt assis banc ds le square de la
+ 5 | [Lgt/1/2 h ?] assis banc ds le square de la
  6 | Tour St-Jacques — Gros mouvt de rue de
  7 | Rivoli. Animation ordinre. —
  8 | Après diner, venu lentemt, par les
  9 | quais à gare d'Orsay
 10 | Départ train vers 8H S
 11 | Tramway : Bourget - gare du Nord : 50c
-12 | Métro : 1 f. — Enregt : 10 c, 1 f, 2 f. (vêtements)
+12 | Métro : 1 f. — Envoi[s?] : 10 c, 1 f, 2 f. ([mot incertain])
 13 | Billet 2e cl. Toulouse 1/4 place : 15 f 15          Coupe chvx : 1 f
-14 | Christofle : 12 f 50, remise, une douzne : 10 f 50
+14 | Christofle : 12 f 50, remise, une [mot illis.] : 10 f 50
 15 | Zyromski : L'orgueil humain : 4 f : net : 3 f 20
 16 | Maeterlinck : Les Débris : 3 f 50. — Cirage : 25 c
 17 | Déjeuner : 1 f 50. — Dîner : 1 f 60. — Ctes ples : 15 c
 18 | Fleurs artiflles, Hotel de Ville : 8 f 50 couronne
 19 | Képi : au Bon Marché : 8 f 75. — Consigne : 15 c
-20 | Carte de Verdun : 50 c — Lacets de souliers : 30 c
+20 | Carte de Verdun : 50 c — [mot illis.] souliers : 30 c
 21 | Carte Roumanie : 30 c — Journx : W.C. : 15 c
 ```
 
 - *l. 2* : **2 Bd** *abbr. pro* Boulevard. **2 St** *abbr. pro* Saint.
-- *l. 5* : **5 ds** *abbr. pro* dans. **5 Lgt** *abbr. pro* Longtemps.
+- *l. 5* : **5** *lect. incert. in ms.* **5 ds** *abbr. pro* dans.
 - *l. 6* : **6 mouvt** *abbr. pro* mouvement. **6 St** *abbr. pro* Saint.
 - *l. 7* : **7 ordinre** *abbr. pro* ordinaire.
 - *l. 8* : **8 lentemt** *abbr. pro* lentement.
-- *l. 12* : **12 Enregt** *abbr. pro* Enregistrement. **12 f.** *abbr. pro* franc(s).
+- *l. 12* : **12** *lect. incert. in ms.* **12 f.** *abbr. pro* franc(s).
 - *l. 13* : **13 chvx** *abbr. pro* cheveux.
-- *l. 14* : **14 douzne** *abbr. pro* douzaine.
+- *l. 14* : **14** *lect. incert. in ms.*
 - *l. 17* : **17 Ctes ples** *abbr. pro* Cartes postales.
 - *l. 18* : **18 artiflles** *abbr. pro* artificielles.
+- *l. 20* : **20** *lect. incert. in ms.*
 - *l. 21* : **21 Journx** *abbr. pro* Journaux.
 
 * * *
 
-**l.~5--7, 14--16 Tour St-Jacques / Christofle / Zyromski / Maeterlinck :** Aux l.~5--7, Hippolyte écrit *Lgt assis banc ds le square de la / Tour St-Jacques — Gros mouvt de rue de / Rivoli. Animation ordinre*. Dans le bloc comptable (l.~14--16), en rapport avec la mention *Chez Colin* (Scan #052, l.~22, librairie Armand Colin, 103 boulevard Saint-Michel), il note l'achat d'argenterie *Christofle : 12 f 50, remise, une douzne* : 10 f 50 et de deux livres : ***Zyromski : L'orgueil humain : 4 f : net : 3 f 20*** (essai de son maître toulousain Ernest Zyromski publié chez Armand Colin en 1904) et ***Maeterlinck : Les Débris : 3 f 50*** (*Les Débris de la guerre*, recueil de Maurice Maeterlinck paru en 1916).
+**Collation de la photographie :** Christofle, Zyromski et Maeterlinck sont lisibles ; le prix du képi est 8 f 75. La douzaine chez Christofle et le mot avant souliers restent non établis.
 
-> **l.~5--22 Tour St-Jacques... rue de Rivoli... Zyromski... Maeterlinck... Chez Colin :** Lors de son après-midi parisienne entre la gare du Nord et la gare d'Orsay, l'universitaire flâne au square de la Tour Saint-Jacques et rue de Rivoli, achète une couronne mortuaire de fleurs artificielles près de l'Hôtel de Ville, un képi au Bon Marché, et se rend à la librairie académique Armand Colin au Quartier latin pour acquérir *L'Orgueil humain* d'Ernest Zyromski (dont il suivra le cours à Toulouse en janvier 1917, Scan #135) et *Les Débris de la guerre* de Maurice Maeterlinck.
+> **Lecture et contexte :** L’Orgueil humain d’Ernest Zyromski est recensé comme ouvrage d’Armand Colin, 1904 dans la Revue internationale de l’enseignement, 53, 1907 (\url{https://education.persee.fr/issue/revin_1775-6014_1907_num_53_1}). Les Débris renvoie probablement aux Débris de la guerre de Maeterlinck, 1916 (\url{https://maeterlinck.org/?page_id=381&lang=en}), sans préciser l’édition achetée.
 
 ---
 
-## Scan #054 — `20251126_103146.jpg` — Folio 27 recto
-- **Titre** : FOLIO 27 RECTO (Mercredi 27 septembre 1916 — Arrivée à Toulouse, montée à Sainte-Marie-des-Champs et déjeuner intime chez les Crouzet)
+## Scan #054 — `20251126_103146.jpg` — Vue 054
+- **Titre** : Arrivée à Toulouse et retrouvailles
 - **Date** : Mercredi 27 septembre 1916
 - **Lieu** : Toulouse (Sainte-Marie-des-Champs)
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Petite somme après 90 c ; abréviation e. de pas e. arrivées..
+
 ```text
  1 | 27 Mer.          Sept 1916
- 2 | Nuit passée hier wagon. Dormi 1 peu
+ 2 | Nuit passée ds compmt. Dormi 1 peu
  3 | A 7H 30 m., arrivé à Toulouse
- 4 | Pris tram et vers 8H, à mon appartement
+ 4 | Pris tram et vers 8H, ds mon appartement
  5 | A 11 H m. — monté à Ste Marie-des-Champs. Les dames
  6 | Calmels, pas e. arrivées, ne seront là que ce soir —
  7 | Déjeuné chz les Crouzet, ds la + gde intimité —
@@ -2353,30 +2529,36 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | Margte. Charmante de simplicité & de tendresse
 12 | confiante.
 13 | Trams : 10, 10, 20 c..
-14 | Bains, aux Thermes du Languedoc : 90 c + 1 f
+14 | Bain, aux Thermes du Languedoc : 90 c + [15 c / 1 f ?]
 15 | Cartes ples :
 ```
 
 - *l. 1* : **1 Mer.** *scil.* Mercredi.
+- *l. 2* : **2 ds** *abbr. pro* dans.
 - *l. 3* : **3 m.** *abbr. pro* matin.
+- *l. 4* : **4 ds** *abbr. pro* dans.
 - *l. 5* : **5 Ste** *abbr. pro* Sainte. **5 m.** *abbr. pro* matin.
 - *l. 7* : **7 ds** *abbr. pro* dans. **7 gde** *abbr. pro* grande.
 - *l. 11* : **11 Margte** *scil.* Marguerite (Calmels).
 - *l. 13* : **13 c.** *abbr. pro* centimes.
+- *l. 14* : **14** *lect. incert. in ms.*
 - *l. 15* : **15 Cartes ples** *abbr. pro* Cartes postales.
 
 * * *
 
-**l.~5--7 Ste Marie-des-Champs / Déjeuné chz les Crouzet :** Aux l.~5--7, lire : *A 11 H m. — monté à Ste Marie-des-Champs. Les dames Calmels, pas e. arrivées, ne seront là que ce soir — Déjeuné chz les Crouzet, ds la + gde intimité*.
+**Collation de la photographie :** Sainte-Marie-des-Champs et Crouzet sont conservés ; le petit montant ajouté au bain reste réservé.
 
-> **l.~3--12 arrivé à Toulouse... Maison des Crouzet... enfin, revu Margte :** Débarqué à Toulouse à 7 h 30 du matin, Hippolyte regagne son appartement toulousain, monte à 11 h sur les hauteurs de la Côte Pavée chez la famille Crouzet (qui avait favorisé sa rencontre avec les Calmels), prend un bain aux Thermes du Languedoc et retrouve à 17 h sa fiancée Marguerite Calmels, « charmante de simplicité & de tendresse confiante ».
+> **Lecture et contexte :** Combes arrive à Toulouse le 27 septembre, rejoint son appartement puis Sainte-Marie et retrouve Margte à la Côte Pavée.
 
 ---
 
-## Scan #055 — `20251126_103215.jpg` — Folio 27 verso
-- **Titre** : FOLIO 27 VERSO (Jeudi 28 septembre 1916 — Rangement de l'appartement toulousain, bouquet pour Marguerite et promenade par Pouvourville et la crête de Pech-David)
+## Scan #055 — `20251126_103215.jpg` — Vue 055
+- **Titre** : Souvenirs et promenade vers Pech-David
 - **Date** : Jeudi 28 septembre 1916
 - **Lieu** : Toulouse (Sainte-Marie, barrière Saint-Agne, Pouvourville, Pech-David)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Abréviation p devant moi ; petits comptes ; M. Czt..
 
 ```text
  1 | 28 Jeudi.          Sept 16
@@ -2398,9 +2580,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | Récollets et Caserne
 18 | Allé prendre trams à la barrière St-Agne
 19 | Exc.te après-midi.
-20 | Vers 9 H Sr, redescendu à pied Cote Pavée
-21 | Trams : 20 c., 10, 40, 40 c. —
-22 | Fruits (raisins & grenades) : 1 f. — Varia : 10 c.
+20 | Vers 9 H 30 s, redescendu à pied Cote Pavée
+21 | Trams : [20 c ?], [10/40 ?], 40, 40 c. —
+22 | Fruits (raisins & grenades) : [1 f / 70 c ?] — Varia : 10 c.
 23 | Bouquet (place Esquirol) : 3 f —
 ```
 
@@ -2412,21 +2594,25 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 12* : **12 j'à** *abbr. pro* jusqu'à. **12 St** *abbr. pro* Saint.
 - *l. 13* : **13 j-à** *abbr. pro* jusqu'à. **13 St** *abbr. pro* Saint.
 - *l. 18* : **18 St** *abbr. pro* Saint.
-- *l. 21* : **21 c.** *abbr. pro* centimes.
-- *l. 22* : **22 f.** *abbr. pro* franc(s). **22 c.** *abbr. pro* centimes.
+- *l. 20* : **20 s.** *abbr. pro* soir.
+- *l. 21* : **21** *lect. incert. in ms.* **21 c.** *abbr. pro* centimes.
+- *l. 22* : **22** *lect. incert. in ms.* **22 c.** *abbr. pro* centimes.
 
 * * *
 
-**l.~2--5, 11--16 Me suis attardé ds mon appartt** / M. Czt / Pech David : Aux l.~2--5, Hippolyte écrit : *Me suis attardé ds mon appartt* — Pris un plaisir extrême à regarder & ranger mes affaires, et à laisser peu à peu s'éveiller p moi des souvenirs du passé. Aux l.~11--16, lire : *M. Czt* (M. Crouzet), *barrière St-Agne*, *Pouvourville* et *suivi crête de Pech David — j'au carref.*
+**Collation de la photographie :** Laisser s’éveiller les souvenirs remplace brûler. Le compte donne place Esquirol ; les chiffres des trams et des fruits sont encore difficiles.
 
-> **l.~6--20 Matin à Ste Marie... Mme C. et M. Gb. ... Pouvourville... Panorama de Pech David :** Après avoir porté à 11 h 30 à Sainte-Marie un bouquet de reines-marguerites à sa fiancée, Hippolyte entreprend l'après-midi, en compagnie de Mme Valentine Calmels et du docteur Gabriel Calmels (*M. Gb.*), une grande promenade à pied par la ferme du Tuc, Sainte-Agne et le village de Pouvourville jusqu'aux crêtes de Pech-David dominant la Garonne, le quartier des Récollets et les casernes.
+> **Lecture et contexte :** La promenade passe par Sainte-Agne, Pouvourville et Pech-David avec Mme C. et M. Czt., sans développer ce dernier groupe en Gabriel Calmels.
 
 ---
 
-## Scan #056 — `20251126_103227.jpg` — Folio 28 recto
-- **Titre** : FOLIO 28 RECTO (Vendredi 29 septembre 1916 — Visite à Mme de Labarthe, promenade avec sa fiancée Marguerite à Blagnac (ruines de l'amphithéâtre romain) et achat d'un sautoir en or chez Pfister (295 fr.))
+## Scan #056 — `20251126_103227.jpg` — Vue 056
+- **Titre** : Blagnac et achat d’un sautoir
 - **Date** : Vendredi 29 septembre 1916
 - **Lieu** : Toulouse, Purpan, Blagnac et les Ponts-Jumeaux (Haute-Garonne)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Baisers intimes ; nièces ; Chge..
 
 ```text
  1 | 29 Ve.          Sept / 16
@@ -2439,8 +2625,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | tjs + gde —
  9 | Après-midi, course en tram. Esquirol – Purpan
 10 | Longue halte aux Ruines. Assis côte à côte
-11 | sur reste de pilier, doux épanchts & baisers chers
-12 | av. ma Fiancée —
+11 | sur reste de pilier, doux épanchts & baisers intimes [?]
+12 | av. ma Femme —
 13 | Continué à pied j'à Blagnac. Reposé ds
 14 | la chapelle du monastère.
 15 | Allé ensuite prairie au bord de la Garonne
@@ -2449,7 +2635,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | tram j'à pl. Alsace. —
 19 | — Trams : 20 c, 40 c, 60 c, 40, 40 c –
 20 | Chz Pfister, sautoir en or — : 300 f net 295 f
-21 | Remboursé à mes cousines (oeufs, beurre etc.) : 2 f 75
+21 | Remboursé à mes nièces [?] (oeufs, beurre etc.) : 2 f 75
 22 | Fruits : 2f + 55 c. – Fleurs : 2 f
 ```
 
@@ -2457,28 +2643,32 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 4* : **4 gde** *abbr. pro* grande. **4 Mme** *abbr. pro* Madame.
 - *l. 6* : **6 Mte** *scil.* Marguerite (Calmels).
 - *l. 8* : **8 tjs** *abbr. pro* toujours. **8 gde** *abbr. pro* grande.
-- *l. 11* : **11 épanchts** *abbr. pro* épanchements.
+- *l. 11* : **11 intimes** *lect. incert. in ms.* **11 épanchts** *abbr. pro* épanchements.
 - *l. 13* : **13 j'à** *abbr. pro* jusqu'à. **13 ds** *abbr. pro* dans.
 - *l. 18* : **18 j'à** *abbr. pro* jusqu'à.
+- *l. 21* : **21 nièces** *lect. incert. in ms.*
 - *l. 22* : **22 c.** *abbr. pro* centimes.
 
 * * *
 
-**l.~11--12, 20--21 av. ma Fiancée / Chz Pfister, sautoir en or :** Aux l.~11--12, dans les ruines de l'amphithéâtre de Purpan-Blagnac, le manuscrit porte : *sur reste de pilier, doux épanchts* & baisers chers av. ma Fiancée —. À la l.~20, l'achat majeur chez l'horloger-bijoutier toulousain Pfister est un ***sautoir en or — : 300 f net 295 f*** (confirmé au Scan #138 l.~13 par l'achat de la montre en or *à sautoir*). À la l.~21, lire : *Remboursé à mes cousines (oeufs, beurre etc.) : 2 f 75*.
+**Collation de la photographie :** Le manuscrit écrit ma Femme ; le remplacer par Fiancée corrige le sens au lieu de transcrire. Nièces et intimes restent proposés.
 
-> **l.~4--20 Mme de Labarthe... Ruines... Blagnac... Chz Pfister, sautoir en or — : 300 f net 295 f :** Journée décisive des fiançailles toulousaines : après une visite matinale à Mme de Labarthe et un déjeuner au restaurant du Change, Hippolyte et Marguerite gagnent en tramway les ruines de l'amphithéâtre romain de Purpan-Blagnac, poursuivent à pied jusqu'à la chapelle du monastère de Blagnac, aux berges de la Garonne et aux Ponts-Jumeaux, et achètent chez le grand bijoutier toulousain Pfister un sautoir en or de 295 francs.
+> **Lecture et contexte :** Le récit passe par les Ruines, Blagnac, le monastère et la Garonne. Chez Pfister, le compte porte un sautoir en or, 300 francs ramenés à 295, sans prouver l’achat d’une bague.
 
 ---
 
-## Scan #057 — `20251126_103247.jpg` — Folio 28 verso
-- **Titre** : FOLIO 28 VERSO (Les cinq cloches du clocher de Montaudran et le serment au cimetière de Terre-Cabade)
+## Scan #057 — `20251126_103247.jpg` — Vue 057
+- **Titre** : Montaudran et serments à Terre-Cabade
 - **Date** : Samedi 30 septembre 1916
 - **Lieu** : Toulouse (Sainte-Marie, Montaudran et cimetière de Terre-Cabade)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Profondt émus ; nom Josephe et rattachement exact du souvenir..
 
 ```text
  1 | 30 Samedi.          Septb /16
  2 | Tout le jour, temps pluvieux. Fines ondées qui durent peu.
- 3 | Matin, venu voir Mme de Labarthe, au 12.. Gd
+ 3 | Matin, venu voir Mme de Labarthe, au 12.. Ai
  4 | pour cette amie, attachement profond. –
  5 | Monté à Ste Marie vers 11H 1/2 —
  6 | Dans petit salon, qq minutes de tête à tête délicieux
@@ -2488,8 +2678,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | tribune puis au clocher, par escalier très
 11 | raide & très étroit, presque 1 échelle. Là-haut,
 12 | très b. vue panoramique de la plaine du Lauraguais
-13 | Verdure & lignes d'arbres
-14 | clochers de villages s/ l'horizon
+13 | Paysage nullement banal. Verdure & lignes d'arbres
+14 | clochers de villages s/ l'horizon. – Ciel tout
 15 | couvert de nuages noirs.
 16 | Fait vibrer chacune des 5 cloches d'airain – –
 17 | Sons différents & très mélodieux — Remarqué
@@ -2505,7 +2695,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 27 | Tram : 20 c. — Sweets & cakes : 3 f — Bière & limonade : 80 c.
 ```
 
-- *l. 3* : **3 Gd** *abbr. pro* Grand(e). **3 Mme** *abbr. pro* Madame.
+- *l. 3* : **3 Mme** *abbr. pro* Madame.
 - *l. 5* : **5 Ste** *abbr. pro* Sainte. **5 1/2** *scil.* demi / moitié.
 - *l. 6* : **6 qq** *abbr. pro* quelque(s).
 - *l. 7* : **7 Margte** *scil.* Marguerite (Calmels).
@@ -2518,22 +2708,25 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1 Septb 116 :** Graphie condensée du millésime. **l.~12 De là tr. vue panoramique :** Abréviation *tr.* pour *très [belle]*. **l.~27 Sweets & cakes : 5 f :** Maintien des catégories comptables anglaises en plein séjour toulousain.
+**Collation de la photographie :** La demi-heure, Paysage nullement banal et profondt émus sont conservés. La page ne nomme pas le grand ami.
 
-> **l.~8--23 village de Montaudran... Cimetière de Terre-Cabade... caveau des P.P. Jésuites & celui du P. Marie-Antoine :** Après une visite matinale à Mme de Labarthe, les deux fiancés gagnent à pied l'église de Montaudran, gravissent l'échelle de bois du clocher d'où l'on découvre toute la plaine du Lauraguais et font tinter tour à tour les cinq cloches d'airain, avant de monter au cimetière de Terre-Cabade échanger leurs serments devant le caveau des Pères Jésuites (le Père d'Adhémar, grand ami de la famille) et la tombe du capucin thaumaturge le Père Marie-Antoine de Lavaur (1825--1907), en souvenir de sa sœur défunte Joséphine.
+> **Lecture et contexte :** Montaudran, les cinq cloches et le panorama du Lauraguais précèdent Terre-Cabade. Le récit nomme les Pères Jésuites, le P. Marie-Antoine et Josephe, sans autoriser toutes les identifications ajoutées dans les anciens commentaires.
 
 ---
 
-## Scan #058 — `20251126_103301.jpg` — Folio 29 recto
-- **Titre** : FOLIO 29 RECTO (Messe matinale à la cathédrale Saint-Étienne et promenade au bord du Touch à Lardenne)
+## Scan #058 — `20251126_103301.jpg` — Vue 058
+- **Titre** : Saint-Étienne, Lardenne et le Touch
 - **Date** : Dimanche 1er octobre 1916
 - **Lieu** : Toulouse (Cathédrale Saint-Étienne, Sainte-Marie et Lardenne)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Messe lue/curé ; choses/livres ; finale Redescendu(s) et comptes trams..
 
 ```text
  1 | 1er D.          Octobre /16
  2 | Matin, à St-Etienne. Entendu
- 3 | messe curé — 8 H autel paroissial. Mte, à ma droite
- 4 | Matinée, ds mon appartt, à ranger mes livres
+ 3 | messe lue [?] — 8 H autel paroissial. Mte, à ma droite
+ 4 | Matinée, ds mon appartt, à ranger mes [choses/livres ?]
  5 | Joui du calme & silence —
  6 | Monté déjeun à Ste Marie. – Temps tr beau
  7 | Après repas, pris trams et venu à Lardenne
@@ -2543,14 +2736,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | charmante, simple & affectueuse
 12 | Au retour, trouvé Jean maison.
 13 | Redescendus à 7 H 30 av. Jean en tram. —
-14 | Trams : 20c. 40c, 80, 80 c
+14 | Trams : 20 c. 40 c, 80, 30 c
 15 | Sweets : 20 c
 ```
 
 - *l. 1* : **1 D.** *scil.* Dimanche. **1 1er** *scil.* premier.
 - *l. 2* : **2 St** *abbr. pro* Saint.
-- *l. 3* : **3 Mte** *scil.* Marguerite (Calmels).
-- *l. 4* : **4 ds** *abbr. pro* dans. **4 appartt** *abbr. pro* appartement.
+- *l. 3* : **3 lue** *lect. incert. in ms.* **3 Mte** *scil.* Marguerite (Calmels).
+- *l. 4* : **4** *lect. incert. in ms.* **4 ds** *abbr. pro* dans.
 - *l. 6* : **6 déjeun.** *abbr. pro* déjeuné / déjeuner. **6 Ste** *abbr. pro* Sainte.
 - *l. 8* : **8 j-au** *abbr. pro* jusqu'au.
 - *l. 9* : **9 s/** *abbr. pro* sur.
@@ -2560,20 +2753,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2--3 Entendu messe lue 8 H. autel paroissial :** Distinction liturgique précise entre la *messe lue* (messe basse matinale sans chant) et la grand-messe chantée. **l.~15 Sweets : 20 c :** Notation anglaise en fin de page.
+**Collation de la photographie :** Le type de messe et le mot après mes restent réservés ; Joui du calme & silence est visible.
 
-> **l.~2--13 à St Etienne... Mte, à ma droite... Lardenne... pont du Touch... trouvé Jean maison :** Le dimanche 1er octobre s'ouvre par la messe de 8 h à la cathédrale Saint-Étienne aux côtés de Marguerite ; après avoir rangé son appartement dans la matinée et déjeuné à Sainte-Marie, Hippolyte se promène avec sa fiancée jusqu'à Lardenne et aux prairies bordant le Touch, puis redescend en ville à 19 h 30 en tramway avec leur parent ou ami Jean.
+> **Lecture et contexte :** Saint-Étienne, Sainte-Marie, Lardenne et le Touch organisent le dimanche. Jean apparaît au retour sans précision de parenté sur cette page.
 
 ---
 
-## Scan #059 — `20251126_103321.jpg` — Folio 29 verso
-- **Titre** : FOLIO 29 VERSO (Méditation solitaire dans l'appartement toulousain et visite de Marguerite et de sa mère)
+## Scan #059 — `20251126_103321.jpg` — Vue 059
+- **Titre** : Souvenirs et visite de Marguerite
 - **Date** : Lundi 2 octobre 1916
 - **Lieu** : Toulouse (Appartement, Sainte-Marie, chapelle de Nazareth, rue d'Alsace-Lorraine)
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Groupe initial ; heure Nazareth ; dernier compte chapelet..
+
 ```text
  1 | 2 L. Temps splendide          Octbre 1916
- 2 | Matinée, me lgt resté appartt & trouvé
+ 2 | Matinée, [groupe abrégé illis.] resté appartt & trouvé
  3 | charme mélancolique à laisser souvenirs
  4 | s'éveiller peu à peu ds mon esprit
  5 | Monté à Ste Marie vers 11H ½ –
@@ -2582,94 +2778,101 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Mte — Ainsi pu deviner profondeur sentimt
  9 | qu'elle a pour moi...
 10 | Descendu seul vers 4 H s. Diverses courses
-11 | Dès 5 H, chz moi.
+11 | Dès 5 H, chz moi. Visite de Margte & de sa
 12 | mère à mon appartt. Margte, charmante
 13 | de simplicité & de grâce
-14 | A Chapelle Nazareth — à 6 H s
+14 | A Chapelle Nazareth — à 6 H [1/2 / s. ?]
 15 | Ts 3, promené rue Alsace, regardé
 16 | vitrines des magasins & remonté tram Côte-Pavée
 17 | A 9 H 30, av. Jean, partis —
-18 | Très belle nuit étoilée — Air doux — gds arbres
+18 | Très belle nuit étoilée — Air doux — parfums
 19 | Trams : 10, 10, 30 – – Chapelet pr. Bne Maman : 1 f 25
 ```
 
 - *l. 1* : **1 L.** *scil.* Lundi.
-- *l. 2* : **2 lgt** *abbr. pro* longtemps. **2 appartt** *abbr. pro* appartement.
+- *l. 2* : **2** *lect. incert. in ms.* **2 appartt** *abbr. pro* appartement.
 - *l. 4* : **4 ds** *abbr. pro* dans.
 - *l. 5* : **5 Ste** *abbr. pro* Sainte.
 - *l. 6* : **6 ds** *abbr. pro* dans.
 - *l. 8* : **8 sentimt** *abbr. pro* sentiment. **8 Mte** *scil.* Marguerite (Calmels).
 - *l. 10* : **10 s.** *abbr. pro* soir.
+- *l. 11* : **11 Margte** *scil.* Marguerite (Calmels).
 - *l. 12* : **12 appartt** *abbr. pro* appartement. **12 Margte** *scil.* Marguerite (Calmels).
-- *l. 14* : **14 s.** *abbr. pro* soir.
+- *l. 14* : **14** *lect. incert. in ms.*
 - *l. 15* : **15 Ts** *abbr. pro* Tous.
-- *l. 18* : **18 gds** *abbr. pro* grands.
 - *l. 19* : **19 pr** *abbr. pro* pour. **19 Bne** *abbr. pro* Bonne.
 
 * * *
 
-**l.~2 me lgt resté appartt** : Construction elliptique avec omission de l'auxiliaire *suis* devant l'adverbe *longtemps*. **l.~7 profondeur sentimt** : Abréviation nominale en *-mt*.
+**Collation de la photographie :** La visite de Margte et de sa mère est conservée ; le dernier mot de la nuit paraît parfums, non gdsarbres. Le groupe initial de la matinée reste non résolu.
 
-> **l.~6--17 ds le petit salon... Visite de Margte et de sa mère à mon appartt... Chapelle Nazareth :** Après une matinée recueillie parmi ses souvenirs de jeunesse et un long entretien intime au petit salon de Sainte-Marie, Hippolyte reçoit à 17 h dans son appartement de garçon la visite officielle de Marguerite et de sa mère Mme Valentine Calmels, se rend à 18 h 30 à la chapelle Notre-Dame-de-Nazareth et raccompagne son parent Jean à 21 h 30.
+> **Lecture et contexte :** Après Sainte-Marie, Margte et sa mère viennent à l’appartement. La visite n’est pas qualifiée d’officielle dans le manuscrit ; Nazareth et la promenade rue Alsace suivent.
 
 ---
 
-## Scan #060 — `20251126_103335.jpg` — Folio 30 recto
-- **Titre** : FOLIO 30 RECTO (Mardi 3 octobre 1916 — Messe à la cathédrale Saint-Étienne, déjeuner à l'Automate, achat d'une cravate au Bon Marché et présentation de sa fiancée)
+## Scan #060 — `20251126_103335.jpg` — Vue 060
+- **Titre** : Saint-Étienne et présentation de la fiancée
 - **Date** : Mardi 3 octobre 1916
-- **Lieu** : Toulouse (Cathédrale Saint-Étienne, rue d'Alsace-Lorraine, marché Victor-Hugo, Côte-Pavée)
+- **Lieu** : Toulouse (Cathédrale Saint-Étienne, rue d'Alsace-Lorraine, marché Victor-Hugo, route de Castanet)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Groupe après déjeuner ; Castanet/cravate ; nom du soir..
 
 ```text
  1 | 3 Ma          Temps mervt beau          Octobre /16
  2 | Matin, à St-Etienne, messe annivre pour
- 3 | oncle Calmels. A coté de Margte
+ 3 | Mlle Calmels. A coté de Margte
  4 | En sortant cathle, parlé av. Mme C. & Margte
  5 | rue Alsace et déjeuné à l'Automate
  6 | Fait ensemble marché à Victor Hugo
  7 | Séparés devant magasins Capitole
  8 | Rentré pr qq visites & arrangt appartt
- 9 | Après déjeuner, venus au B. M. Acheté 1
-10 | cravate. Pris tram rue de St Joseph
+ 9 | Après déjeuner, venus [groupe abrégé illis.]
+10 | [Castanet/cravate ?]. Pris tram rue de St Joseph
 11 | et descendus à terminus. Continué route à
 12 | pied. Mme de Labarthe, charmante.
 13 | Présenté ma Fiancée —
 14 | Revenus à pied. Promenade très agréable
 15 | Soir, vers 8 H, pris tram & venu voir
-16 | Mme Lamothe.. —
+16 | Mme [Laudet/Lamolet ?].. —
 17 | Trams : 20, 30 Marché V. Hugo :
 18 | Automate : 30 + 20 c          fruits : 80 c. Gâteaux : 3 f
 ```
 
 - *l. 1* : **1 mervt** *abbr. pro* merveilleusement.
 - *l. 2* : **2 St** *abbr. pro* Saint.
-- *l. 3* : **3 Margte** *scil.* Marguerite (Calmels).
+- *l. 3* : **3 Margte** *scil.* Marguerite (Calmels). **3 Mlle** *abbr. pro* Mademoiselle.
 - *l. 4* : **4 Margte** *scil.* Marguerite (Calmels). **4 Mme** *abbr. pro* Madame.
 - *l. 8* : **8 pr** *abbr. pro* pour. **8 qq** *abbr. pro* quelque(s).
-- *l. 10* : **10 St** *abbr. pro* Saint.
+- *l. 9* : **9** *lect. incert. in ms.*
+- *l. 10* : **10** *lect. incert. in ms.* **10 St** *abbr. pro* Saint.
 - *l. 12* : **12 Mme** *abbr. pro* Madame.
-- *l. 16* : **16 Mme** *abbr. pro* Madame.
+- *l. 16* : **16** *lect. incert. in ms.* **16 Mme** *abbr. pro* Madame.
 - *l. 18* : **18 c.** *abbr. pro* centimes.
 
 * * *
 
-**l.~4--5, 9--13 En sortant cathle** / cravate / Présenté ma Fiancée : Aux l.~4--5, lire : *En sortant cathle*, parlé av. Mme C. & Marg\textsuperscript{te rue Alsace et déjeuné à l'Automate}. Aux l.~9--13, lire : *Acheté 1 cravate* et *Présenté ma Fiancée —*.
+**Collation de la photographie :** Mlle est mieux appuyé qu’oncle. La lecture du groupe central a varié entre une course et un achat ; ni Castanet ni cravate n’est certifié. Le nom du soir reste réservé.
 
-> **l.~2--18 messe annivre pour oncle Calmels... déjeuné à l'Automate... Présenté ma Fiancée... Mme de Labarthe... Mme Lamothe :** Associé aux cérémonies de sa belle-famille, Hippolyte assiste à Saint-Étienne à une messe anniversaire pour l'oncle de Marguerite, déjeune au restaurant automatique, fait le marché à Victor-Hugo, achète une cravate au Bon Marché et présente officiellement sa fiancée l'après-midi à Mme de Labarthe avant de rendre visite le soir à Mme Lamothe.
+> **Lecture et contexte :** Le texte évoque la messe anniversaire pour Mlle Calmels, Victor-Hugo, l’Automate et la présentation de sa fiancée à Mme de Labarthe. L’identité de Mlle Calmels reste à établir.
 
 ---
 
-## Scan #061 — `20251126_103455.jpg` — Folio 30 verso
-- **Titre** : FOLIO 30 VERSO (Règlement du tailleur Guiraud, du loyer semestriel à Mlle Guilhem et thé chez Mme de Labarthe)
+## Scan #061 — `20251126_103455.jpg` — Vue 061
+- **Titre** : Tunique, loyer et visite
 - **Date** : Mardi 3 octobre 1916 (suite)
 - **Lieu** : Toulouse
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Abréviation Cie Française ; objet implicite de Délicieux..
 
 ```text
  1 | 3 Ma          Octbre 1916
  2 | – Payé à Guiraud, pour façon
  3 | & fournitures tunique : 38 f
  4 | – Semestre à Mlle Guilhem : 90 f –
- 5 | (Juillet 1916 – Janvier 1917)
- 6 | — Cie Française : 20 cm doublure satin : 60 c
+ 5 | (Juillet [1916 ajouté sous la ligne] — Janvier 1917)
+ 6 | — Cie [?] Française : 20 cm doublure satin : 60 c
  7 | – Fleurs : 1f 10
  8 | Délicieux ds la propriété de Mme de Labarthe
  9 | Elle ns a fait visiter maison.
@@ -2677,22 +2880,26 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 - *l. 4* : **4 Mlle** *abbr. pro* Mademoiselle.
-- *l. 6* : **6 Cie** *abbr. pro* Compagnie.
+- *l. 5* : **5** *lect. incert. in ms.*
+- *l. 6* : **6 Cie** *lect. incert. in ms.*
 - *l. 8* : **8 ds** *abbr. pro* dans. **8 Mme** *abbr. pro* Madame.
 - *l. 9* : **9 ns** *abbr. pro* nous.
 
 * * *
 
-**Disposition matérielle :** Ce feuillet (Folio 30 verso) présente une structure inversée : les sept premières lignes sont consacrées aux règlements financiers de fin de séjour, tandis que les lignes 8 à 10 ajoutent après coup le souvenir du thé pris l'après-midi même chez Mme de Labarthe.
+**Collation de la photographie :** 1916 est inscrit sous la ligne du semestre. L’abréviation commerciale est réservée. Aucun thé n’est ajouté au mot Délicieux.
 
-> **l.~2--9 Payé à Guiraud, pour façon & fournitures tunique : 38 f / Semestre à Mlle Guilhem : 90 f :** Avant de regagner le front britannique, l'interprète règle 38 francs au maître tailleur toulousain Guiraud pour la confection ou la remise à neuf de sa tunique militaire (avec 60 centimes de doublure de satin) et acquitte auprès de sa propriétaire Mlle Guilhem le loyer semestriel de son appartement (90 francs pour la période juillet 1916 -- janvier 1917).
+> **Lecture et contexte :** Les comptes distinguent la tunique, le semestre à Mlle Guilhem et la doublure. La fin rapporte une visite à la propriété de Mme de Labarthe, sans écrire le mot thé.
 
 ---
 
-## Scan #062 — `20251126_103514.jpg` — Folio 31 recto
-- **Titre** : FOLIO 31 RECTO (Mercredi 4 octobre 1916 — Dernier après-midi à Sainte-Marie et séparation déchirante à la gare Matabiau)
+## Scan #062 — `20251126_103514.jpg` — Vue 062
+- **Titre** : Préparatifs et séparation à la gare
 - **Date** : Mercredi 4 octobre 1916
 - **Lieu** : Toulouse (Sainte-Marie et gare Matabiau)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Heure du dîner ; surcharge et biffures avant le choix du compartiment..
 
 ```text
  1 | Mer. 4          Octbre 16
@@ -2707,14 +2914,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | Promené au fond du parc. Joué
 11 | avec les enfants
 12 | Puis causé lgt, assis sous gd arbre
-13 | Diner à 6H
+13 | Diner à 6 H [1/2 ?]
 14 | Mte, voulu absolt m'accompagner gare
-15 | & voulu seul s'asseoir / choisie coin ds 1 compartiment
-16 | Puis ressorti salle d'attente. Avec Mte
-17 | & oncle Crouzet. promené au dehors
-18 | le long trottoirs cour de G.V.
-19 | Enfin, dû ns séparer, par
-20 | ménagement pour l'oncle —
+15 | [groupe surchargé illis.]
+16 | & choisi coin ds 1 compartiment
+17 | Puis ressorti salle d'attente. Avec Mte
+18 | & oncle Crouzet. promené au dehors
+19 | le long trottoirs cour de G.V.
+20 | Enfin, dû ns séparer, par
+21 | ménagement pour l'oncle —
 ```
 
 - *l. 1* : **1 Mer.** *scil.* Mercredi.
@@ -2723,30 +2931,35 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 7* : **7 Ste** *abbr. pro* Sainte.
 - *l. 8* : **8 tt** *abbr. pro* tout. **8 Mte** *scil.* Marguerite (Calmels).
 - *l. 12* : **12 lgt** *abbr. pro* longtemps. **12 gd** *abbr. pro* grand.
+- *l. 13* : **13** *lect. incert. in ms.*
 - *l. 14* : **14 absolt** *abbr. pro* absolument. **14 Mte** *scil.* Marguerite (Calmels).
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 16* : **16 Mte** *scil.* Marguerite (Calmels).
-- *l. 19* : **19 ns** *abbr. pro* nous.
+- *l. 15* : **15** *lect. incert. in ms.*
+- *l. 16* : **16 ds** *abbr. pro* dans.
+- *l. 17* : **17 Mte** *scil.* Marguerite (Calmels).
+- *l. 20* : **20 ns** *abbr. pro* nous.
 
 * * *
 
-**l.~18--20 cour de G.V. / par ménagement pour l'oncle :** Aux l.~18--20, sur les quais de la gare Matabiau (*cour de G.V.*, Grande Vitesse), le manuscrit porte : *Enfin, dû ns séparer, par / ménagement pour l'oncle —* (les adieux se poursuivant en haut du Scan #064 : *... Mte & moi, très émus..*).
+**Collation de la photographie :** La fin porte par/ménagement pour l’oncle. Non sans serrement cœur cruel est absent. La surcharge avant le compartiment ne permet pas de restituer toutes les biffures proposées.
 
-> **l.~3--20 Enlevé & rentré rideaux... Thermes du Languedoc... Avec Mte & oncle Crouzet... départ pour Creil :** Levé dès 6 h pour décrocher les rideaux et fermer son appartement, Hippolyte passe aux Thermes du Languedoc puis consacre tout son dernier après-midi à Marguerite dans le parc de Sainte-Marie ; le soir, accompagnée de l'oncle Crouzet, sa fiancée monte un instant avec lui dans son compartiment en gare Matabiau avant l'heure déchirante de la séparation.
+> **Lecture et contexte :** Le 4 octobre, Combes prépare l’appartement, passe l’après-midi avec Margte puis rejoint la gare avec elle et l’oncle Crouzet.
 
 ---
 
-## Scan #063 — `20251126_103538.jpg` — Folio 31 verso
-- **Titre** : FOLIO 31 VERSO (Traversée de Paris sous la pluie : l'église Saint-Vincent-de-Paul et les salons du Louvre)
+## Scan #063 — `20251126_103538.jpg` — Vue 063
+- **Titre** : Traversée de Paris sous la pluie : l'église Saint-Vincent-de-Paul et les salons du Louvre
 - **Date** : Jeudi 5 octobre 1916
 - **Lieu** : Paris (Gare d'Orsay, Gare du Nord, église Saint-Vincent-de-Paul, Grands Magasins du Louvre)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Déchiffrement de la petite addition « station » et distribution interlinéaire à contrôler; la lecture « venu à pied » est nette..
 
 ```text
  1 | Jeudi 5          Octb / 16
  2 | Le jour parut peu à peu
  3 | A 8H m., gare d'Orsay
- 4 | Sous pluie fine & serrée
- 5 | métro Tuileries. Changé au Chatelet pr
+ 4 | Sous pluie fine & serrée, venu à pied
+ 5 | station métro Tuileries. Changé au Chatelet pr
  6 | gare du Nord
  7 | Laissé paquets consigne gare du Nord
  8 | Descendu en flânant rue La Fayette
@@ -2774,14 +2987,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **Note codicologique (inversion des Scans #063 et #064) :** Lors de la numérisation, le cliché `20251126_103538.jpg` (Scan #063, journée du jeudi 5 octobre à Paris) a été photographié avant le cliché `20251126_103554.jpg` (Scan #064, nuit du mercredi 4 au jeudi 5 octobre dans le train Toulouse--Paris). **l.~14--15 salon de Corresp :** Apocope de *Correspondance*.
 
-> **l.~3--20 gare d'Orsay... Egl St-Vincent-de-Paul... Mag du Louvre... Au revoir, Paris :** Arrivé à 8 h du matin en gare d'Orsay et après avoir déposé ses bagages à la consigne de la gare du Nord, Hippolyte redescend à pied la rue La Fayette, admire les fresques d'Hippolyte Flandrin et la double colonnade ionique en stuc marron de l'église Saint-Vincent-de-Paul, puis rédige deux lettres au salon de correspondance des Grands Magasins du Louvre.
+> **Parcours noté :** Arrivée en gare d’Orsay à 8 h; marche sous la pluie jusqu’au métro, consigne à la gare du Nord, rue La Fayette, église Saint-Vincent-de-Paul et salon de correspondance des magasins du Louvre. Le diariste mentionne deux lettres et un retour au Nord par le métro. L’identité des peintures et la matière architecturale ne sont pas établies par ce passage.
 
 ---
 
-## Scan #064 — `20251126_103554.jpg` — Folio 32 recto
-- **Titre** : FOLIO 32 RECTO (Fin des adieux en gare de Toulouse, nuit blanche dans l'express d'Orsay et comptes de départ)
+## Scan #064 — `20251126_103554.jpg` — Vue 064
+- **Titre** : Fin des adieux en gare de Toulouse, nuit blanche dans l'express d'Orsay et comptes de départ
 - **Date** : Mercredi 4 octobre 1916 (soir et nuit)
 - **Lieu** : Gare de Toulouse et train de nuit Toulouse – Paris-Orsay
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Le tiret et les points initiaux indiquent une continuation; la séparation des dépenses est graphique..
 
 ```text
  1 | ... Mte & moi, très
@@ -2807,16 +3023,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Note codicologique :** Les deux premières lignes (*... Mte & moi, très émus..*) constituent la suite syntaxique immédiate de la dernière ligne du Scan #062 (Folio 30 verso) et précèdent chronologiquement le Scan #063. **l.~10 Billet 3e cl. p. Orsay : 11 f :** Abréviations *cl.* (*classe*) et *p.* (*pour*).
+**Note codicologique :** Les deux premières lignes (*... Mte & moi, très émus..*) constituent la suite syntaxique immédiate de la dernière ligne du Scan #062 (Folio 30 verso) et précèdent chronologiquement le Scan #063. **l.~10 Billet 3e cl. p. Orsay : 11 f 75 :** Abréviations *cl.* (*classe*) et *p.* (*pour*).
 
-> **l.~3--13 Train, démarré vers 8H 1/2... 2 images Ste Thérèse : 40 c... Etrenne à Marie, bonne des Crouzet : 5 f :** Tandis que l'express de 20 h 30 l'emporte vers Paris à travers une nuit d'insomnie, Hippolyte dresse le bilan de ses dernières dépenses toulousaines : deux petites images pieuses de sainte Thérèse de Lisieux (partagées comme gage de protection avec Marguerite), des fleurs (1,70 fr.), son billet militaire pour Orsay (11 fr.) et 5 francs d'étrennes à Marie, domestique de la famille Crouzet.
+> **Retour de permission :** Le train part vers 20 h; Combes note une nuit presque sans sommeil et récapitule ses dépenses: images de sainte Thérèse, fleurs pour Mte, transports, billet pour Orsay (11 f 75), bain et étrenne à Maria, bonne des Crouzet. L’identification de la sainte à Thérèse de Lisieux et une fonction de protection ne résultent pas de cette page.
 
 ---
 
-## Scan #065 — `20251126_103743.jpg` — Folio 32 verso
-- **Titre** : FOLIO 32 VERSO (Train de nuit de Paris-Nord à Amiens et attente matinale en gare de Doullens)
-- **Date** : Nuit du jeudi 5 au vendredi 6 octobre 1916
+## Scan #065 — `20251126_103743.jpg` — Vue 065
+- **Titre** : Train de l’après-midi de Paris-Nord à Amiens et arrivée à minuit en gare de Doullens
+- **Date** : Jeudi 5 octobre 1916 (après-midi et soir)
 - **Lieu** : Paris (Gare du Nord), Amiens et Doullens (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Départ: parenthèse initiale très contractée; la somme après Métro paraît 1 f / 15 c, disposition à vérifier..
 
 ```text
  1 | Parti train 1 H 15 s (espéré il y a 1 à 10 H 45 matin)
@@ -2824,32 +3043,36 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | Départ à 6 H 30 s
  4 | A Doullens, vers minuit
  5 | Dû coucher gare —
- 6 | Paris Métro : 1 f / 15 c
- 7 | Food... : 2f, 2f, 50c., Drink : 10 c.
+ 6 | [Paris biffé] Métro : 15 c, 15 c
+ 7 | Food... : 25 c, 25 c, 50 c., Drink : 10 c.
  8 | Consigne : 10 c
 ```
 
 - *l. 1* : **1 s.** *abbr. pro* soir.
 - *l. 2* : **2 s.** *abbr. pro* soir.
 - *l. 3* : **3 s.** *abbr. pro* soir.
+- *l. 6* : **6** *lect. incert. in ms.*
 - *l. 7* : **7 c.** *abbr. pro* centimes. **7 Food** *angl. in ms.*
 
 * * *
 
-**l.~6 $\llbracket$Paris$\rrbracket$ Métro : 1 f 15 c :** Rature du toponyme initial devant la récapitulation des frais de transport parisiens. **l.~7 Food... : 2f, 2f, 50c., Drink : 10 c. :** Retour immédiat aux rubriques comptables anglaises dès le franchissement de la zone des armées britanniques.
+**l.~6 Paris :** Mot biffé avant la rubrique « Métro ». **l.~7 Food / Drink :** Rubriques comptables en anglais, sans que leur emploi établisse à lui seul une limite géographique.
 
-> **l.~1--5 Parti train 1H 12 (après 1H 45 d'attente !)... A Amiens, à 6H... A Doullens, au matin :** Après une attente éprouvante d'une heure quarante-cinq en pleine nuit sur les quais de la gare du Nord, le train de permissionnaires part à 1 h 12 du matin, atteint Amiens à 6 h et dépose l'interprète au petit jour en gare de Doullens.
+> **Itinéraire :** Train de 13 h 15, Amiens vers 18 h, départ à 18 h 30, Doullens vers minuit; le diariste doit coucher à la gare. La parenthèse revient sur un train espéré le matin.
 
 ---
 
-## Scan #066 — `20251126_103755.jpg` — Folio 33 recto
-- **Titre** : FOLIO 33 RECTO (Vendredi 6 octobre 1916 — Fin de la nuit à la gare de Doullens, train de 7 h 25 et retour en lorry de la 54e Brigade auprès de la 152nd Coy A.S.C.)
+## Scan #066 — `20251126_103755.jpg` — Vue 066
+- **Titre** : Vendredi 6 octobre 1916 — Fin de la nuit à la gare de Doullens, train de 7 h 25 et retour en lorry de la 54e Brigade auprès de la 152nd Coy A.S.C.
 - **Date** : Vendredi 6 octobre 1916 (matin et midi)
-- **Lieu** : Doullens, Bernaville et Barlette (Somme)
+- **Lieu** : Doullens, Canaples et Barlette (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Le terme anglais « shifté » est pâle et repassé; le sens général de déplacement est assuré..
 
 ```text
  1 | Vendredi 6          Octb 1916
- 2 | Achevé nuit salle départ gare de
+ 2 | Achevé nuit salle départ
  3 | gare de Doullens. Dormi allongé sur 1 banc.
  4 | Au petit jour, levé —
  5 | Venu promener en ville. Rues encore
@@ -2857,7 +3080,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | Entré église & y rêvé à mon aise
  8 | Tjours pluie fine, incessante —
  9 | Parti de Doullens, train 7 H 25. Appris à
-10 | l'office de la R.T.O. que ma division
+10 | l'office de l'R.T.O. que ma division
 11 | a shifté. Le railhead est Canaples
 12 | Descendu à cette station, me suis
 13 | informé – Coïncidence heureuse : les
@@ -2879,16 +3102,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2, 14--18 Achevé nuit salle départ / lorries de la 54e** : À la l.~2, le premier mot souligné est le participe *Achevé* (*Achevé nuit salle départ gare de [Doullens]*). Aux l.~14--18, Hippolyte monte sur un *lorry (supply column) de la 54e* [Brigade de la 18e Division] et retrouve la *152 Coy. A.S.C.*
+**l.~2--3, 14--18 Achevé nuit salle départ / lorries (supply column) de la 54e** : Aux l.~2--3, le premier mot souligné est le participe *Achevé* (*Achevé nuit salle départ / gare de Doullens*). Aux l.~14--18, Hippolyte monte sur un *lorry (supply column) de la 54e* [Brigade de la 18e Division] et retrouve la *152 Coy. A.S.C.*
 
-> **l.~7--19 église St P. ... R.T.O. ... railhead est Canaples... 152 Coy. A.S.C. :** Après s'être recueilli au petit jour dans l'église Saint-Pierre de Doullens, Hippolyte apprend au bureau du *Railway Transport Officer* que sa division s'est déplacée vers l'ouest et a désormais sa tête de ligne ferroviaire (*railhead*) à Canaples ; débarqué à cette gare, il profite des camions (*lorries*) de la *Supply Column* pour rejoindre à 13 h le *refilling point* et sa compagnie, la *152nd Company A.S.C.*.
+> **l.~7--19 Entré église... l'office de l'R.T.O. ... railhead est Canaples... 152 Coy. A.S.C. :** Après s'être recueilli au petit jour dans l'église de Doullens, Hippolyte apprend au bureau du *Railway Transport Officer* que sa division s'est déplacée vers l'ouest et a désormais sa tête de ligne ferroviaire (*railhead*) à Canaples ; débarqué à cette gare, il profite des camions (*lorries*) de la *Supply Column* pour rejoindre à 13 h le *refilling point* et sa compagnie, la *152nd Company A.S.C.*.
 
 ---
 
-## Scan #067 — `20251126_103816.jpg` — Folio 33 verso
-- **Titre** : FOLIO 33 VERSO (Installation au hameau de Barlette (Ribeaucourt) et visa de permission à Bernaville)
+## Scan #067 — `20251126_103816.jpg` — Vue 067
+- **Titre** : Installation au hameau de Barlette (Ribeaucourt) et visa de permission à Bernaville
 - **Date** : Vendredi 6 octobre 1916 (après-midi et soir)
 - **Lieu** : Hameau de Barlette (Ribeaucourt) et Bernaville (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom de la logeuse laissé en blanc après Mme Ve; le surnom ou nom Tait dans la dépense est fortement repassé..
 
 ```text
  1 | Ven. 6          Oct / 16
@@ -2900,7 +3126,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | à Bernaville et visé mon titre de
  8 | permission au bureau de la Mission Fse
  9 | Bientôt trouvé 1 billet = gde
-10 | chambre, chz Mme Mac...
+10 | chambre, chz Mme Ve —
 11 | à 900 mètres de Barlette
 12 | Ameublement très sommaire, mais
 13 | chambre très belle & spacieuse
@@ -2927,21 +3153,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~4 symphe / l.~5 assz :** Abréviations pour *sympathique* et *assez*. **l.~9 trouvé 1 billet = gde chambre :** Le signe *=* introduit ici une équivalence explicative (*c'est-à-dire une grande chambre*). **l.~15 A " " cantine :** Guillemets de répétition (dittogramme) renvoyant à *A Doullens* de la ligne précédente.
+**l.~4 symphe / l.~5 extt :** Abréviations pour *sympathique* et *extrêmement*. **l.~9 trouvé 1 billet = gde chambre :** Le signe *=* introduit ici une équivalence explicative (*c'est-à-dire une grande chambre*). **l.~15 A " , canteen :** Guillemets de répétition (dittogramme) renvoyant à *A Doullens* de la ligne précédente.
 
-> **l.~2--18 cantonnée au hameau de Barlette, près de Ribeaucourt... Bernaville... Gift au Q.M.S. Tait : 5 fr. :** La *152nd Company A.S.C.* étant cantonnée au repos au hameau boisé de Barlette (commune de Ribeaucourt), Hippolyte se rend en camion (*lorry*) faire viser son titre de permission au bureau de la Mission française à Bernaville, s'installe dans une vaste chambre chez la mère Macé à 900 mètres de Barlette et remet un cadeau de 5 francs au *Quartermaster Sergeant* Tait.
+> **l.~2--18 cantonnée au hameau de Barlette, près de Ribeaucourt... Bernaville... Gift au Q.M.S. Tait : 5 fr. :** La *152nd Company A.S.C.* étant cantonnée au repos au hameau boisé de Barlette (commune de Ribeaucourt), Hippolyte se rend en camion (*lorry*) faire viser son titre de permission au bureau de la Mission française à Bernaville, s'installe dans une vaste chambre chez une veuve (*chz Mme Ve* —) à 900 mètres de Barlette et remet un cadeau de 5 francs au *Quartermaster Sergeant* Tait.
 
 ---
 
-## Scan #068 — `20251126_103828.jpg` — Folio 34 recto
-- **Titre** : FOLIO 34 RECTO (Tempête nocturne sur les vergers de Barlette et règlement des frais de mess au capitaine Panton)
+## Scan #068 — `20251126_103828.jpg` — Vue 068
+- **Titre** : Tempête nocturne sur les vergers de Barlette et règlement des frais de mess au capitaine Panton
 - **Date** : Samedi 7 octobre 1916
 - **Lieu** : Hameau de Barlette, Ribeaucourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Le nombre de jours de septembre est laissé en blanc par le scripteur..
 
 ```text
  1 | Sam. 7.          Octbre 1916
  2 | Bonne nuit de repos s/ lit improvisé.
- 3 | Levé vers 8 H 1/2 et commencé à m'installer. Ouvert sacs
+ 3 | Levé vers 6H 1/2 et commencé à m'installer. Ouvert sacs
  4 | Durant nuit, averses torrentielles et rafales.
  5 | Les arbres et les arbustes, en face maison,
  6 | tourmentés par le vent, bruissaient plaintivt
@@ -2970,16 +3199,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~10--11 Me plais bp de mon billet. Si nice gd chambre :** Insertion spontanée de l'adjectif appréciatif anglais *nice* au sein du groupe nominal français. **l.~16 pour – – jours :** Double tiret laissant en blanc le nombre exact de journées de popote du mois de septembre.
+**l.~10--11 Me plais bp ds mon billet. Ai très gde chambre :** Satisfaction devant le confort de son logement chez sa logeuse. **l.~16 pour — — jours :** Double tiret laissant en blanc le nombre exact de journées de popote du mois de septembre.
 
-> **l.~4--16 Durant nuit, orage tonnerre et rafales... Au Cap. Panton payé ma part dépenses mess au Sept : 29 f :** Tandis que les bourrasques d'automne font mugir les grands bois et les vergers de pommiers entourant Barlette « comme près de la mer », Hippolyte savoure le confort de sa grande chambre-salon et règle au capitaine Panton sa quote-part des frais de popote (*mess*) de septembre (29 francs).
+> **l.~4--16 Durant nuit, averses torrentielles et rafales... Au Cap. Panton payé ma part dépenses mess en septbre : 29 f :** Tandis que les bourrasques d'automne font mugir les grands bois et les vergers de pommiers entourant Barlette « comme près de la mer », Hippolyte savoure le confort de sa grande chambre-salon et règle au capitaine Panton sa quote-part des frais de popote (*mess*) de septembre (29 francs).
 
 ---
 
-## Scan #069 — `20251126_103845.jpg` — Folio 34 verso
-- **Titre** : FOLIO 34 VERSO (Dimanche de repos à Barlette et perception de la solde à pied à Bernaville sous la rafale)
+## Scan #069 — `20251126_103845.jpg` — Vue 069
+- **Titre** : Dimanche de repos à Barlette et perception de la solde à pied à Bernaville sous la rafale
 - **Date** : Dimanche 8 octobre 1916
 - **Lieu** : Barlette (Ribeaucourt) et Bernaville (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | Dim. 8.          Octb 1916
@@ -3005,10 +3236,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
-## Scan #070 — `20251126_103857.jpg` — Folio 35 recto
-- **Titre** : FOLIO 35 RECTO (Promenade sous les futaies centenaires de Ribeaucourt et clair de lune d'octobre)
+## Scan #070 — `20251126_103857.jpg` — Vue 070
+- **Titre** : Promenade sous les futaies centenaires de Ribeaucourt et clair de lune d'octobre
 - **Date** : Lundi 9 octobre 1916
 - **Lieu** : Barlette et forêt de Ribeaucourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l.15: le mot entre « ciel » et « éclairé » est très contracté; la lecture « maint » ne constitue pas un mot assuré..
 
 ```text
  1 | Lundi 9          Oct – / 16
@@ -3018,14 +3252,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | faible distance de la route et parallelt –
  6 | Sentiers encore boueux et jonchés de feuilles rouillées.
  7 | Feuillages épais & verts. Ds les taillis, enchevêtrt
- 8 | d'arbustes & de lianes.
+ 8 | d'arbustes & de lianes. Des troncs énormes
  9 | s'élèvent très haut, arbres plusis fois
 10 | séculaires. Resté lgt ds cet océan de
 11 | verdure. Ecouté, ravi, le bruissement
 12 | du vent à travers les branches
 13 | feuillues
 14 | Le soir, en revenant du mess,
-15 | admiré ciel maint éclairé par lune pleine.
+15 | admiré ciel [mot incertain] éclairé par lune pleine.
 16 | qq étoiles, çà et là. Campagne curieuse
 17 | à regarder les moindres details, bien
 18 | détachés –
@@ -3038,28 +3272,32 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 9* : **9 plusis** *abbr. pro* plusieurs.
 - *l. 10* : **10 ds** *abbr. pro* dans. **10 lgt** *abbr. pro* longtemps.
 - *l. 14* : **14 mess** *angl. in ms.*
+- *l. 15* : **15** *lect. incert. in ms.*
 - *l. 16* : **16 qq** *abbr. pro* quelque(s).
 - *l. 19* : **19 ds** *abbr. pro* dans. **19 gde** *abbr. pro* grande.
 
 * * *
 
-**l.~5 parallelt / l.~7 enchevetrt / l.~9 plusis / l.~19 infinimt :** Série caractéristique d'abréviations par contraction finale (*parallèlement*, *enchevêtrement*, *plusieurs*, *infiniment*). **l.~16--17 Campagne mieux à regarder :** Tour elliptique notant la netteté des contours nocturnes sous la lune.
+**l.~5 parallelt / l.~7 enchevêtrt / l.~9 plusis / l.~19 infinimt :** Série caractéristique d'abréviations par contraction finale (*parallèlement*, *enchevêtrement*, *plusieurs*, *infiniment*). **l.~16--17 Campagne curieuse à regarder :** Tour elliptique notant la netteté des contours nocturnes sous la lune.
 
 > **l.~4--20 pénétré forêt... ds cet océan de verdure... 1 vrai salon :** Lors d'une après-midi sans service, l'amoureux des arbres s'enfonce longuement sous la voûte des futaies centenaires longeant la route de Bernaville, écoute avec ravissement le vent dans les frondaisons d'automne et regagne le soir sa vaste chambre de Barlette sous un ciel éclairé par la lune.
 
 ---
 
-## Scan #071 — `20251126_103913.jpg` — Folio 35 verso
-- **Titre** : FOLIO 35 VERSO (Corvée de fourrage vert en lisière des bois aux couleurs d'automne et nuit de pleine lune)
+## Scan #071 — `20251126_103913.jpg` — Vue 071
+- **Titre** : Corvée de fourrage vert en lisière des bois aux couleurs d'automne et nuit de pleine lune
 - **Date** : Mardi 10 octobre 1916
 - **Lieu** : Barlette et bois de Ribeaucourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La fin de la phrase de chargement est condensée mais champs/chargement/luzerne/bois sont visibles; ne pas remplacer par une scène de transport reconstruite..
 
 ```text
  1 | Mardi 10          Oct 1916
  2 | Enfin, très belle journée.
  3 | Matin & après-midi, occupé pour green
  4 | forage. Conduit fourragères ds les
- 5 | champs. Tandis qu'on les chargeait
+ 5 | champs. Tout en surveillant le
  6 | chargement, assis s/ 1 botte de
  7 | luzerne – et rempli yeux vue
  8 | des bois. Devant moi, à qq 40 ou 50
@@ -3092,15 +3330,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
-## Scan #072 — `20251126_103948.jpg` — Folio 36 recto
-- **Titre** : FOLIO 36 RECTO (Convoi de luzerne sous une pluie battante derrière le grand bois de Ribeaucourt)
+## Scan #072 — `20251126_103948.jpg` — Vue 072
+- **Titre** : Convoi de luzerne sous une pluie battante derrière le grand bois de Ribeaucourt
 - **Date** : Mercredi 11 octobre 1916
 - **Lieu** : Barlette et Ribeaucourt (Somme)
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+
 ```text
  1 | Mer. 11          Oct / 16
- 2 | Matinée employée ds
- 3 | marches prochaines. Sous pluie battante,
+ 2 | Matinée employée de =
+ 3 | manière qu'hier. Sous pluie battante,
  4 | dû conduire wagons ds 1 champ de luzerne
  5 | derrière le grand bois de Ribeaucourt
  6 | Rentré billet, casque & cape tt ruisselants
@@ -3110,23 +3350,25 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 - *l. 1* : **1 Mer.** *scil.* Mercredi.
-- *l. 2* : **2 ds** *abbr. pro* dans.
+- *l. 2* : **2 de =** *signum aequalitatis pro* de même.
 - *l. 4* : **4 ds** *abbr. pro* dans.
 - *l. 6* : **6 tt** *abbr. pro* tout.
 - *l. 8* : **8 Tt** *abbr. pro* Tout.
 
 * * *
 
-**l.~2--4 Matinée employée ds marches prochaines. Sous pluie battante, dû conduire wagons ds 1 champ de luzerne :** Préparatifs de marche et corvée de fourrage sous l'averse. **l.~6 Rentré billet, casque & cape tt ruisselants :** Omission de la préposition devant l'anglicisme *billet*.
+**l.~2 de = :** Signe égal employé pour « même »: « Matinée employée de même manière qu’hier ». **l.~6 billet :** Logement de cantonnement; casque et cape sont notés ruisselants.
 
 > **l.~3--9 Sous pluie battante, dû conduire wagons ds 1 champ de luzerne derrière le grand bois de Ribeaucourt :** Le retour des averses d'automne transforme la corvée matinale de ravitaillement en luzerne derrière le bois de Ribeaucourt en une épreuve boueuse dont l'interprète rentre le casque et la cape ruisselants, avant de bénéficier d'une après-midi entière de liberté.
 
 ---
 
-## Scan #073 — `20251126_104011.jpg` — Folio 36 verso
-- **Titre** : FOLIO 36 VERSO (Conduite d'un « limber G.S. », symphonie du vent dans les bois et chevauchée à Prouville avec le capitaine Panton)
+## Scan #073 — `20251126_104011.jpg` — Vue 073
+- **Titre** : Conduite d'un « limber G.S. », symphonie du vent dans les bois et chevauchée à Prouville avec le capitaine Panton
 - **Date** : Jeudi 12 et vendredi 13 octobre 1916
 - **Lieu** : Barlette, Ribeaucourt et Prouville (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | Jeudi 12          Octb / 16
@@ -3160,21 +3402,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~3--4 conduit limber G.S. wagons :** Emploi précis de la nomenclature du matériel hippomobile britannique (*Limber, General Service Wagon*, chariot de service général à avant-train articulé). **l.~17--18 appris que ns shifterons dimanche :** Futur français conjugué sur le radical anglais *shift-*.
+**l.~3--4 conduit limber & G.S. wagons :** Emploi précis de la nomenclature du matériel hippomobile britannique (*Limber, General Service Wagon*, chariot de service général à avant-train articulé). **l.~17--18 appris que ns shifterons dimanche :** Futur français conjugué sur le radical anglais *shift-*.
 
-> **l.~7--18 bruit de houle... symphonie très forte... course à cheval avec Cap. Panton au village de Prouville :** Tandis que le jeudi 12 octobre est marqué par une halte contemplative dans les bois où les rafales résonnent comme une houle marine, Hippolyte chevauche le vendredi après-midi avec le capitaine Panton jusqu'à Prouville (à 4 km à l'ouest) et apprend le soir au dîner que l'unité quittera à regret Barlette le dimanche suivant.
+> **l.~7--18 bruit de houle... symphonie très forte... course à cheval av. Cap. Pant. au village de Prouville :** Tandis que le jeudi 12 octobre est marqué par une halte contemplative dans les bois où les rafales résonnent comme une houle marine, Hippolyte chevauche le vendredi après-midi avec le capitaine Panton jusqu'à Prouville (à 4 km à l'ouest) et apprend le soir au dîner que l'unité quittera à regret Barlette le dimanche suivant.
 
 ---
 
-## Scan #074 — `20251126_104027.jpg` — Folio 37 recto
-- **Titre** : FOLIO 37 RECTO (Départ définitif de Barlette sous les averses et arrivée de la colonne à Beauval)
+## Scan #074 — `20251126_104027.jpg` — Vue 074
+- **Titre** : Départ définitif de Barlette sous les averses et arrivée de la colonne à Beauval
 - **Date** : Dimanche 15 octobre 1916
 - **Lieu** : De Barlette (Ribeaucourt) à Beauval (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom attendu après « Au delà de » laissé en blanc..
 
 ```text
  1 | Dim. 15          Oct / 16
  2 | Levé 6 H 1/2. Ts paquets terminés. Quitté maison définitt
- 3 | Au mess, déj avant 7 h.
+ 3 | Au mess, lgt avant 9 h.
  4 | Ciel couvert de gros nuages. Pluie fine
  5 | Matinée perdue à attendre moment départ
  6 | Enfin, en route vers 11 H 15 m.
@@ -3191,7 +3436,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 1* : **1 Dim.** *scil.* Dimanche.
 - *l. 2* : **2 Ts** *abbr. pro* Tous. **2 définitt** *abbr. pro* définitivement.
-- *l. 3* : **3 déj** *abbr. pro* déjeuné / déjeuner. **3 mess** *angl. in ms.*
+- *l. 3* : **3 lgt** *abbr. pro* longtemps. **3 mess** *angl. in ms.*
 - *l. 6* : **6 m.** *abbr. pro* matin.
 - *l. 9* : **9** *spatium relictum in ms.*
 - *l. 10* : **10 1/2** *scil.* demi / moitié. **10 s.** *abbr. pro* soir.
@@ -3201,16 +3446,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2--3 Quitté maison définitt** / Au mess, déj avant 7 h. : L'adverbe *définitt* (*définitivement*) se rapporte au départ de la maison de Barlette. **l.~9 Au delà de [blanc], averses très fortes :** Espace blanc ménagé par le diariste pour compléter ultérieurement le nom du village traversé. **l.~14 washing & darning : 70 c. :** Coordination de deux gérondifs anglais (*blanchissage et reprisage*).
+**l.~2--3 Quitté maison définitt** / Au mess, lgt avant 9 h. : L'adverbe *définitt* (*définitivement*) se rapporte au départ de la maison de Barlette. **l.~9 Au delà de [blanc], averses très fortes :** Espace blanc ménagé par le diariste pour compléter ultérieurement le nom du village traversé. **l.~14 washing & darning : 70 c. :** Coordination de deux gérondifs anglais (*blanchissage et reprisage*).
 
-> **l.~6--14 en route vers 11H 1/2... arrivés à Beauval... Connelly : 1 f :** Après avoir réglé à Barlette ses frais de blanchissage et de ravaudage (70 centimes) ainsi qu'un franc de pourboire à son ordonnance Connelly, Hippolyte quitte à regret le hameau à 11 h 30 pour une lente chevauchée de quatre heures entrecoupée de fortes averses jusqu'au bourg de Beauval (au sud de Doullens), où il trouve une petite chambre juste en face du nouveau mess de la compagnie.
+> **l.~6--14 en route vers 11 H 15 m. ... arrivés à Beauval... Connelly : 1 f :** Après avoir réglé à Barlette ses frais de blanchissage et de ravaudage (70 centimes) ainsi qu'un franc de pourboire à son ordonnance Connelly, Hippolyte quitte à regret le hameau vers 11 h 15 pour une lente chevauchée de quatre heures entrecoupée de fortes averses jusqu'au bourg de Beauval (au sud de Doullens), où il trouve une petite chambre juste en face du nouveau mess de la compagnie.
 
 ---
 
-## Scan #075 — `20251126_104057.jpg` — Folio 37 verso
-- **Titre** : FOLIO 37 VERSO (Départ de Beauval sous un air glacial et marche vers Warloy-Baillon)
+## Scan #075 — `20251126_104057.jpg` — Vue 075
+- **Titre** : Départ de Beauval sous un air glacial et marche vers Warloy-Baillon
 - **Date** : 16 octobre 1916
 - **Lieu** : Beauval, Beauquesne, Puchevillers, Warloy-Baillon (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Les unités sont décrites sans permettre de calculer une distance exacte de marche..
 
 ```text
  1 | Lundi 16 — | Sur pied à 5h 1/2 — Très bonne nuit. Oct /16
@@ -3248,10 +3496,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
-## Scan #076 — `20251126_104118.jpg` — Folio 38 recto
-- **Titre** : FOLIO 38 RECTO (Nuit glaciale sous la tente à Warloy-Baillon et départ de la colonne)
+## Scan #076 — `20251126_104118.jpg` — Vue 076
+- **Titre** : Nuit glaciale sous la tente à Warloy-Baillon et départ de la colonne
 - **Date** : 16 (comptes) – 17 octobre 1916 (matin)
 - **Lieu** : Beauval, Warloy-Baillon (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : « jour et nuit constant » est une phrase elliptique; ne pas y introduire des ferrailles ni un bruit absent..
 
 ```text
  1 | 16 Lundi          Oct /16
@@ -3282,14 +3533,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--3 16 Lundi / A Beauval, room : 1 f — groom : 1 f :** Rappel de la date de la veille en haut de page pour encadrer d'un crochet le relevé des menues dépenses de logement (*room*) et de pourboire à l'ordonnance (*groom*), suivi d'un trait horizontal séparateur avant l'entrée du mardi 17 octobre.
 
-> **l.~5--12 Couché sous tente... Routes tjrs encombrées :** À mesure que l'unité approche de la zone des combats d'Albert, les maisons civiles intactes font défaut et les officiers eux-mêmes doivent bivouaquer sous la tente conique réglementaire britannique (*bell tent*) au milieu du vacarme métallique incessant des parcs d'artillerie et de ravitaillement.
+> **Bivouac :** Combes dort sous tente à côté de deux officiers, note le froid et les « sensations nouvelles » du bivouac. Le matin suivant montre l’animation du camp et des routes encombrées. La forme de la tente et la raison exacte de l’absence de logement ne sont pas précisées.
 
 ---
 
-## Scan #077 — `20251126_104143.jpg` — Folio 38 verso
-- **Titre** : FOLIO 38 VERSO (Bivouac dans un champ dévasté entre Bouzincourt et Hédauville)
+## Scan #077 — `20251126_104143.jpg` — Vue 077
+- **Titre** : Bivouac dans un champ dévasté entre Bouzincourt et Hédauville
 - **Date** : 17 octobre 1916 (suite)
 - **Lieu** : Senlis-le-Sec, Bouzincourt, Hédauville (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La syntaxe de « Lieu laissé par ceux qui / séjourné ici avant ns » reste abrupte..
 
 ```text
  1 | Dépassé Senlis. Campé ds 1 champ dévasté, 1/2 route entre
@@ -3312,14 +3566,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1 1/2 route :** Abréviation graphique par chiffre fractionnaire pour *mi-route* (à mi-chemin), procédé constant chez Hippolyte Combes (qui écrit de même *au 1/2 de* pour *au milieu de*). **l.~9 17 Mardi Oct /16 :** Répétition inhabituelle de la date au bas du feuillet, sous un long trait de clôture, le texte ayant commencé directement au sommet de la page en continuité avec le folio précédent.
 
-> **l.~1--8 entre Bouzincourt & Hédauville / Couché ds mess-tent :** Le triangle Hédauville–Senlis-le-Sec–Bouzincourt, à 4 km au nord-ouest d'Albert, servait de zone de concentration pour les troupes engagées sur la crête de Thiepval et l'Ancre. Privé de cantonnement, l'interprète dort tout habillé sur une chaise longue en toile (*deck-chair*) sous la tente-mess.
+> **Campement :** Après Senlis, installation dans un champ entre Bouzincourt et Hédauville. Le diariste aménage un abri ouvert pour ses sacs et couche dans la mess-tent, allongé sur un fauteuil-toile. Il note la pluie à verse et le froid.
 
 ---
 
-## Scan #078 — `20251126_104157.jpg` — Folio 39 recto
-- **Titre** : FOLIO 39 RECTO (Visite d'Albert bombardée et de sa basilique en ruines)
+## Scan #078 — `20251126_104157.jpg` — Vue 078
+- **Titre** : Visite d'Albert bombardée et de sa basilique en ruines
 - **Date** : 18 octobre 1916
 - **Lieu** : Camp de Bouzincourt, Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Passim est lisible; le signe égal final abrège vraisemblablement « même »..
 
 ```text
  1 | Merc. 18          Oct /16
@@ -3356,10 +3613,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
-## Scan #079 — `20251126_104222.jpg` — Folio 39 verso
-- **Titre** : FOLIO 39 VERSO (Le flot ininterrompu des convois vers Albert et la solde à la Mission)
+## Scan #079 — `20251126_104222.jpg` — Vue 079
+- **Titre** : Le flot ininterrompu des convois vers Albert et la solde à la Mission
 - **Date** : 18 octobre 1916 (suite)
 - **Lieu** : Camp de Bouzincourt, Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | sur l., nuit & jour, flot ininterrompu de véhicules de
@@ -3386,10 +3645,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
-## Scan #080 — `20251126_104235.jpg` — Folio 40 recto
-- **Titre** : FOLIO 40 RECTO (Pluie torrentielle et installation au Brickfield Area d'Albert)
+## Scan #080 — `20251126_104235.jpg` — Vue 080
+- **Titre** : Pluie torrentielle et installation au Brickfield Area d'Albert
 - **Date** : 19 octobre 1916
 - **Lieu** : Camp de Bouzincourt, Albert (Brickfield Area, Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : « brickfield area » est un désignatif anglais; sa localisation exacte et l’origine des tirs exigent une source distincte..
 
 ```text
  1 | Jeudi 19          Oct /16
@@ -3406,7 +3668,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | où ns devons bivouaquer
 13 | Tentes et abris, dressés ds la boue et
 14 | sous pluie battante.
-15 | Fini par trouver petite chambre ds
+15 | Réussi par trouver petite chambre ds
 16 | maison rue voisine, à qq 3 ou 400 mètres
 17 | du camp. Y installé!
 18 | Toute nuit, bruit ininterrompu
@@ -3427,14 +3689,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~11 brickfield area :** Toponyme militaire anglais désignant le secteur des briqueteries à la sortie nord-ouest d'Albert (sur le plateau menant vers Aveluy et Bouzincourt). **l.~15--17 Réussi par trouver petite chambre... Y installé ! :** Le point d'exclamation souligne le soulagement physique du diariste qui échappe enfin au bivouac sous la pluie.
 
-> **l.~11--19 brickfield area / très forte canonnade :** Le *Brickfields Camp* d'Albert était l'un des principaux terrains de bivouac du Train et de l'artillerie britanniques, à moins de 5 km des batteries lourdes tirant sans relâche sur la redoute Schwaben, la tranchée Regina (*Regina Trench*) et Grandcourt.
+> **Installation :** Après une matinée d’averses, l’unité gagne vers 13 h le « brickfield area ». Combes obtient une chambre à quelques centaines de mètres du camp et entend toute la nuit une très forte canonnade. Les positions et les objectifs des pièces ne sont pas identifiables à partir de cette seule note.
 
 ---
 
-## Scan #081 — `20251126_104314.jpg` — Folio 40 verso
-- **Titre** : FOLIO 40 VERSO (Duel d'artillerie formidable et horizon embrasé au-dessus d'Albert)
+## Scan #081 — `20251126_104314.jpg` — Vue 081
+- **Titre** : Duel d'artillerie formidable et horizon embrasé au-dessus d'Albert
 - **Date** : 20 octobre 1916
 - **Lieu** : Albert (Brickfield Area, Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La page décrit les effets et éclairs de la canonnade, sans identifier les objectifs des pièces..
 
 ```text
  1 | Vendredi 20          Oct /16
@@ -3467,16 +3732,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~10--11 mess-room ds 1 petite cahute faite avec des caisses vides de munitions :** Description précise de l'architecture de fortune du front britannique (abris construits en caisses à biscuits et caisses d'obus recouvertes de tôle ondulée ou de toile goudronnée).
+**l.~10--11 mess-room :** Local des repas installé dans une cahute faite de caisses vides de munitions. La page ne décrit pas sa couverture ni d’autres matériaux.
 
 > **l.~4--20 Duel d'artillerie formidable / horizon tout illuminé :** Le 20 octobre 1916 correspond à la préparation d'artillerie intense précédant l'assaut du IIe Corps britannique (18e, 25e, 39e Divisions et 4e Division canadienne) lancé le lendemain 21 octobre contre *Stuff Trench* et *Regina Trench* sur les hauteurs de l'Ancre.
 
 ---
 
-## Scan #082 — `20251126_104331.jpg` — Folio 41 recto
-- **Titre** : FOLIO 41 RECTO (Gelée d'octobre, reconnaissance vers Aveluy et veillée près du poêle)
+## Scan #082 — `20251126_104331.jpg` — Vue 082
+- **Titre** : Gelée d'octobre, reconnaissance vers Aveluy et veillée près du poêle
 - **Date** : 21 octobre 1916
 - **Lieu** : Albert, Aveluy (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | Samedi 21          Oct /16
@@ -3484,7 +3751,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | Ds la journée, soleil réchauffe 1 peu température.
  4 | Matinée, promenade de reconnaissance en ville
  5 | le long rues dont les maisons atteintes par
- 6 | obus. Venu à l'Ordnance, Aveluy.
+ 6 | obus. Venu à l'Ordonnance, Aveluy.
  7 | Tout l'après-midi, ds ma chambre. Achevé
  8 | de m'installer pour le mieux.
  9 | Après lunch, me suis attardé sur le
@@ -3508,16 +3775,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~13 rentré home :** Emprunt affectif à l'anglais *home* pour désigner sa modeste chambre de cantonnement chez la famille Duthuâteau à Albert. **l.~16 Abel... :** Le plus jeune fils de ses logeurs d'Albert (M. Duthuâteau, voir Scan #087 et Scan #091).
+**l.~13 rentré home :** Emprunt affectif à l'anglais *home* pour désigner sa modeste chambre de cantonnement chez la famille Duchâteau à Albert. **l.~16 Abel... :** Le plus jeune fils de ses logeurs d'Albert (M. Duchâteau, voir Scan #087 et Scan #091).
 
 > **l.~6 Venu à l'Ordonnance, Aveluy :** Situé à 2 km au nord d'Albert dans la vallée de l'Ancre, le village et le bois d'Aveluy abritaient d'importants dépôts du service du matériel britannique (*Army Ordnance Corps*) ainsi que la chaussée militaire traversant les marais de l'Ancre vers Authuille et Thiepval.
 
 ---
 
-## Scan #083 — `20251126_104346.jpg` — Folio 41 verso
-- **Titre** : FOLIO 41 VERSO (La « Vierge penchée » d'Albert et la rumeur de rappel des jeunes R.A.T.)
+## Scan #083 — `20251126_104346.jpg` — Vue 083
+- **Titre** : La « Vierge penchée » d'Albert et la rumeur de rappel des jeunes R.A.T.
 - **Date** : 22 octobre 1916
 - **Lieu** : Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l.8: millésime très contracté, 1914 [?]; c’est la datation donnée par le diariste, à distinguer de la chronologie historique des dommages..
 
 ```text
  1 | Dimanche 22.          Oct /16
@@ -3527,7 +3797,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | Après lunch, promené ville : resté lgts arrêté
  6 | devant église, murs de briques rouges, façade
  7 | si artistique, et haute tour, atteinte par
- 8 | obus bombardement 1914. Vierge, horizle,
+ 8 | obus bombardement 1914 [?]. Vierge, horizle,
  9 | penche Jésus bras ouverts au-dessus place.
 10 | Rencontré qq interprètes. Schumacher m'a
 11 | appris que les 2/3 des interprètes, jeunes R.A.T.
@@ -3542,23 +3812,26 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 4* : **4 1/2** *scil.* demi / moitié.
 - *l. 5* : **5 lgts** *abbr. pro* longtemps. **5 lunch** *angl. in ms.*
-- *l. 8* : **8 horizle** *abbr. pro* horizontale.
+- *l. 8* : **8 1914** *lect. incert. in ms.* **8 horizle** *abbr. pro* horizontale.
 - *l. 10* : **10 qq** *abbr. pro* quelque(s).
 - *l. 14* : **14 s.** *abbr. pro* soir. **14 mess** *angl. in ms.*
 - *l. 16* : **16 passim** *lat.* çà et là.
 
 * * *
 
-**l.~8--9 Vierge, horizle, penche, bras ouverts au-dessus place :** Description visuelle saisissante, en style télégraphique, de la statue sommitale de la basilique d'Albert. **l.~14 lost my way :** Locution anglaise (*j'ai perdu mon chemin*) insérée spontanément dans le récit nocturne.
+**l.~8--9 Vierge, horizle, penche Jésus bras ouverts au-dessus place :** Description visuelle saisissante, en style télégraphique, de la statue sommitale de la basilique d'Albert. **l.~14 lost my way :** Locution anglaise (*j'ai perdu mon chemin*) insérée spontanément dans le récit nocturne.
 
-> **l.~10--12 les 2/3 des interprètes, jeunes R.A.T. seront renvoyés régiments frs :** En raison de la crise des effectifs de l'armée française après Verdun et la Somme (loi Dalbiez et circulaires de l'automne 1916), l'état-major français procéda au peignage des missions de liaison pour reverser dans les corps de troupe les interprètes appartenant aux plus jeunes classes de la Réserve de l'Armée Territoriale (R.A.T.).
+> **Information rapportée :** Schumacher annonce le renvoi de jeunes interprètes R.A.T. dans les régiments français. La page ne reproduit aucun ordre ni circulaire; le lien avec une mesure réglementaire précise reste à documenter. La datation du bombardement de la basilique est celle portée par le diariste.
 
 ---
 
-## Scan #084 — `20251126_104400.jpg` — Folio 42 recto
-- **Titre** : FOLIO 42 RECTO (Visite des abris souterrains allemands et du grand cratère de La Boisselle)
+## Scan #084 — `20251126_104400.jpg` — Vue 084
+- **Titre** : Visite des abris souterrains allemands et du grand cratère de La Boisselle
 - **Date** : 23 octobre 1916
 - **Lieu** : Albert, La Boisselle (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Identification du cratère à Lochnagar probable d’après le site; le diariste ne le nomme pas..
 
 ```text
  1 | Lundi 23          Oct. /16
@@ -3588,14 +3861,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~9--10 german dug-outs. Ces abris souterrains :** Procédé stylistique caractéristique du carnet : l'auteur emploie d'abord le terme technique anglais (*german dug-outs*) avant de le gloser immédiatement en français dans la phrase suivante (« Ces abris souterrains »).
 
-> **l.~6--12 La Boisselle / Immense cratère s/ la droite :** Situé à 3 km à l'est d'Albert sur la route de Bapaume, le village de La Boisselle avait été pulvérisé le 1er juillet 1916 à 7 h 28 par l'explosion de la gigantesque mine britannique de *Lochnagar* (27 tonnes d'ammonal, formant un cratère de 91 mètres de diamètre et 21 mètres de profondeur, situé effectivement à droite de la route en venant d'Albert).
+> **La Boisselle :** Combes visite des abris allemands souterrains et signale un énorme cratère sur la droite. Une identification avec Lochnagar est plausible, mais demande une carte du parcours ou une source extérieure; les dimensions et le déroulement de l’explosion ne sont pas attestés par cette page.
 
 ---
 
-## Scan #085 — `20251126_104418.jpg` — Folio 42 verso
-- **Titre** : FOLIO 42 VERSO (Maintien confirmé à la Mission française et averses dans les fondrières d'Albert)
+## Scan #085 — `20251126_104418.jpg` — Vue 085
+- **Titre** : Maintien confirmé à la Mission française et averses dans les fondrières d'Albert
 - **Date** : 24 – 25 octobre 1916
 - **Lieu** : Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom de l’adjudant lu Liepin/Lépin: graphie à harmoniser après confrontation prosopographique, sans imposer une identité..
 
 ```text
  1 | Mardi 24          Oct. /16
@@ -3632,16 +3908,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~5 j'à :** Abréviation constante dans le manuscrit pour la préposition *jusqu'à*. **l.~8--10 adjudant Lépin & Lt Pizzi m'ont appris que ne quitte pas mission :** Soulagement après l'alerte du 22 octobre (Scan #083) : appartenant à la classe 1896 (40 ans révolus), Hippolyte Combes est maintenu dans ses fonctions d'interprète auprès de l'armée britannique.
+**l.~8--10 :** L’adjudant et le lieutenant Pizzi annoncent à Combes qu’il ne quittera pas la mission. Ce renseignement répond à l’annonce rapportée le 22 octobre (scan 083), sans exposer les critères du maintien.
 
-> **l.~9 Lt Pizzi :** Le lieutenant interprète Pizzi dirigeait le détachement de la Mission militaire française auprès de la 18e Division britannique (Hippolyte Combes le mentionne déjà dans sa lettre du 25 février 1916 conservée en Annexe I).
+> **Pizzi :** Lieutenant cité au bureau de la Mission française. Le carnet atteste ici une information sur le maintien de Combes; le commandement exact du détachement et son périmètre exigent une source administrative distincte.
 
 ---
 
-## Scan #086 — `20251126_104440.jpg` — Folio 43 recto
-- **Titre** : FOLIO 43 RECTO (Journées de pluie, d'inaction et d'accalmie dans Albert dévastée)
+## Scan #086 — `20251126_104440.jpg` — Vue 086
+- **Titre** : Journées de pluie, d'inaction et d'accalmie dans Albert dévastée
 - **Date** : 26 – 28 octobre 1916
 - **Lieu** : Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Développement de R.F. vraisemblable, non certain à partir de cette seule occurrence..
 
 ```text
  1 | Jeudi 26          Oct. /16
@@ -3683,16 +3962,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~11 Hair cut, par un R.F. : 50 c :** Coupe de cheveux effectuée par un soldat britannique des *Royal Fusiliers* (*City of London Regiment*, dont plusieurs bataillons servaient dans la 18e Division). **l.~12 Ven. 27 & Sam. 28 :** Regroupement synthétique de deux journées consécutives sans déplacement professionnel.
+**l.~11 Hair cut, par un R.F. : 50 c :** Coupe de cheveux effectuée par un soldat britannique des *Royal Fusiliers* (*City of London Regiment*, dont plusieurs bataillons servaient dans la 18e Division). **l.~12 Sam. 28 :** Regroupement synthétique de deux journées consécutives (27 et 28 octobre) sans déplacement professionnel.
 
 > **l.~3--14 Plateau et routes, absolt impraticables. Lacs de boue :** Les pluies continuelles de la dernière décade d'octobre 1916 paralysèrent les opérations offensives de la *Reserve Army* (renommée *Fifth Army* le 30 octobre) sur l'Ancre, forçant le général Gough à reporter à plusieurs reprises l'attaque de Beaumont-Hamel.
 
 ---
 
-## Scan #087 — `20251126_104459.jpg` — Folio 43 verso
-- **Titre** : FOLIO 43 VERSO (Enquête sur les pailles à Acheux, rencontre d'un artilleur belge et tempête)
+## Scan #087 — `20251126_104459.jpg` — Vue 087
+- **Titre** : Enquête sur les pailles à Acheux, rencontre d'un artilleur belge et tempête
 - **Date** : 29 – 30 octobre 1916
 - **Lieu** : Albert, Acheux, Senlis-le-Sec (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Maral logis et artrie sont des contractions françaises; ne pas confondre le fils aîné et le plus jeune fils Abel..
 
 ```text
  1 | 29 D.          Octbre /16
@@ -3735,16 +4017,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~7 straw & hay :** Paille et foin, notés en anglais selon la terminologie administrative du *Foraging Service*. **l.~9--10 Fils aîné de M. Duthuâteau, maral logis artrie armée belge :** Identification précieuse de son hôte d'Albert, M. Duthuâteau (dont le fils cadet Abel était mentionné au Scan #082 et à qui il laissera 5 francs d'étrennes en partant le 2 novembre, Scan #091).
+**l.~7 straw & hay :** Paille et foin, notés en anglais selon la terminologie administrative du *Foraging Service*. **l.~9--10 Fils aîné de M. Duchâteau, maral logis artrie armée belge :** Identification précieuse de son hôte d'Albert, M. Duchâteau (dont le fils cadet Abel était mentionné au Scan #082 et à qui il laissera 5 francs d'étrennes en partant le 2 novembre, Scan #091).
 
-> **l.~14 Cartes ples église d'Albert : 50 c :** Les cartes postales représentant la basilique d'Albert avant et après les bombardements étaient abondamment vendues aux soldats alliés et envoyées par Hippolyte Combes à sa fiancée et à sa famille.
+> **Rencontre et dépenses :** Le fils aîné de M. Duchâteau, sous-officier de l’artillerie belge en permission, raconte des combats. Combes achète des cartes de l’église d’Albert et prend deux cafés à Acheux; les destinataires des cartes ne sont pas indiqués.
 
 ---
 
-## Scan #088 — `20251126_104515.jpg` — Folio 44 recto
-- **Titre** : FOLIO 44 RECTO (Éclaircie de fin octobre et bombardement d'Albert)
+## Scan #088 — `20251126_104515.jpg` — Vue 088
+- **Titre** : Éclaircie de fin octobre et bombardement d'Albert
 - **Date** : 31 octobre 1916
 - **Lieu** : Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | 31 Ma.          Oct. /16
@@ -3760,16 +4044,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1--6 31 Ma. Oct. /16 :** Entrée exceptionnellement brève (six lignes seulement en haut du feuillet, suivies d'un large blanc sur les deux tiers inférieurs de la page) afin de clore matériellement le mois d'octobre avant d'ouvrir le mois de novembre en haut de la page suivante.
+**Disposition :** Six lignes en haut de la page, puis un large blanc. Cette disposition clôt le mois d’octobre dans la série photographiée; son intention n’est pas explicitée.
 
-> **l.~6 Durant jour entier, ville bombardée :** Profondément engagée dans les opérations de l'Ancre, l'artillerie lourde allemande profite du retour de la visibilité le 31 octobre pour soumettre les carrefours et les abords de la gare d'Albert à des tirs de harcèlement systématiques.
+> **Bombardement :** « Durant jour entier, ville bombardée »: constat du diariste, sans désignation des cibles ni identification des batteries.
 
 ---
 
-## Scan #089 — `20251126_104547.jpg` — Folio 44 verso
-- **Titre** : FOLIO 44 VERSO (Toussaint 1916 au cimetière dévasté d'Albert, prise d'armes écossaise et ordre de départ)
+## Scan #089 — `20251126_104547.jpg` — Vue 089
+- **Titre** : Toussaint 1916 au cimetière dévasté d'Albert, prise d'armes écossaise et ordre de départ
 - **Date** : 1er novembre 1916
 - **Lieu** : Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Le grade et la nationalité du général sont notés, son nom reste inconnu; le service futur n’est pas nommé XIIIe Corps dans ces lignes..
 
 ```text
  1 | 1er Me. Toussaint. — Novembre 1916 —
@@ -3813,14 +4100,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~4--10 visite au cimetière d'Albert... anglais killed in action :** L'une des pages littéraires les plus saisissantes du carnet, construite par juxtapositions nominales brèves (« Pierres brisées. Caveaux béants. Croix renversées »). **l.~14 N.C.O's :** *Non-Commissioned Officers* (sous-officiers britanniques). **l.~20 M.P.'s :** *Military Police*.
 
-> **l.~22--24 Lt Curtis... partir avec lui à Acheux. Ns sommes détachés de la Coy Transport :** Tournant majeur dans l'affectation d'Hippolyte Combes : le 1er novembre 1916 au soir, il est détaché du camp de la 152e Compagnie A.S.C. d'Albert pour accompagner le lieutenant Curtis à Acheux-en-Amiénois, au service des réquisitions et achats du XIIIe Corps britannique.
+> **Ordre annoncé :** Le soir de la Toussaint, le lieutenant Curtis demande à Combes de partir avec lui le lendemain pour Acheux. Combes écrit qu’ils sont détachés de la « Coy Transport ». La structure administrative du nouveau service demande une pièce complémentaire.
 
 ---
 
-## Scan #090 — `20251126_104601.jpg` — Folio 45 recto
-- **Titre** : FOLIO 45 RECTO (Ordre de mission du colonel Grose et départ sous la pluie vers Acheux)
+## Scan #090 — `20251126_104601.jpg` — Vue 090
+- **Titre** : Ordre écrit au Train Office et départ sous la pluie vers Acheux
 - **Date** : 2 novembre 1916
 - **Lieu** : Albert, Acheux-en-Amiénois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Noms des officiers repassés: Hughes et Grose paraissent lisibles; identité complète à établir hors du manuscrit..
 
 ```text
  1 | 2 J. —          Novbre /16
@@ -3862,16 +4152,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~4--12 eu l'idée de passer bureau mission... demander ordre écrit :** Prudence juridique typique de l'ancien avocat et cheminot : pour éviter d'être considéré en absence irrégulière vis-à-vis de la Mission française ou du Train divisionnaire, Hippolyte exige un ordre de détachement dûment signé par le commandant du Train (le colonel Grose).
+**Ordre écrit :** Après avis des membres de la mission et visite à Pizzi, Combes obtient au Train Office la signature de l’ordre d’accompagner Curtis. Le carnet ne formule pas de crainte d’absence irrégulière.
 
-> **l.~10--12 Major Hughes / Col. Grose :** Le lieutenant-colonel D. C. E. Grose commandait le Train divisionnaire (*18th Divisional Train A.S.C.*), assisté du major Hughes. **l.~17 Acheux :** Acheux-en-Amiénois (à 12 km au nord-ouest d'Albert) devient à compter de ce 2 novembre 1916 le port d'attache d'Hippolyte Combes jusqu'au 7 février 1917.
+> **Installation à Acheux :** Voyage en voiture sous la pluie; arrivée vers 11 h, rencontre du Town Major et recherche de logement et de mess. Hughes et Grose sont cités au Train Office; leurs fonctions exactes sont à vérifier dans les sources militaires.
 
 ---
 
-## Scan #091 — `20251126_104623.jpg` — Folio 45 verso
-- **Titre** : FOLIO 45 VERSO (Course nocturne à Raincheval et dernier aller-retour au camp d'Albert)
+## Scan #091 — `20251126_104623.jpg` — Vue 091
+- **Titre** : Course nocturne à Raincheval et dernier aller-retour au camp d'Albert
 - **Date** : 2 (soir) – 3 novembre 1916
 - **Lieu** : Acheux, Raincheval, Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : D.O.S.T. reste un sigle sans développement assuré; mêmes lignes au scan 093..
 
 ```text
  1 | Après le dîner, course en auto à Raincheval.
@@ -3906,16 +4199,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2 Vu Major Levy, of the D.O.S.T. :** Le major Levy (officier supérieur du *District Officer of Supplies and Transport* / *Purchase Board* résidant à Raincheval), dont la voiture Sunbeam transportera régulièrement Hippolyte (voir Scan #116). **l.~16--17 48 f 75 (30 f retenus pour 6 jours de permission) :** Détail administratif éclairant : l'indemnité journalière de vivres (5 fr. par jour) était retenue sur la solde pendant les journées de permission passées à l'intérieur.
+**Doublon photographique :** Cette page est aussi photographiée au scan 093; les deux images doivent porter la même transcription. **D.O.S.T. :** Sigle dont le développement n’est pas établi ici. **58 f 75 :** Somme accompagnée de « 30 f retenus pour / 6 jours de permission »; ne pas généraliser ce calcul à un règlement de solde non cité.
 
-> **l.~4 Donné à Victor Duthuâteau : 5 f :** Gratification laissée à son logeur d'Albert en quittant sa chambre du *Brickfield Area*.
+> **l.~4 Donné à Victor Duchâteau : 5 f :** Gratification laissée à son logeur d'Albert en quittant sa chambre du *Brickfield Area*.
 
 ---
 
-## Scan #092 — `20251126_104636.jpg` — Folio 46 recto
-- **Titre** : FOLIO 46 RECTO (Course à pied à Bertrancourt et retrouvailles avec l'interprète Cordonnier)
+## Scan #092 — `20251126_104636.jpg` — Vue 092
+- **Titre** : Course à pied à Bertrancourt et retrouvailles avec l'interprète Cordonnier
 - **Date** : 4 novembre 1916
 - **Lieu** : Acheux, Bertrancourt, Bus-lès-Artois, Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Divon est une contraction de Division; le nom Jamet est fortement cursif mais compatible..
 
 ```text
  1 | Sam. 4          Novbre /16
@@ -3949,16 +4245,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~10--12 retrouvé interprète Cordonnier, R.F.A., que connu à Béthune :** Rappel précieux de la toute première affectation d'Hippolyte Combes sur le front britannique en mai–juillet 1915 auprès de la 12e Division dans le secteur de Béthune (confirmée par sa lettre du 25 février 1916, Annexe I).
+**l.~10--12 :** Combes reconnaît l’interprète Cordonnier, « R.F.A. », connu à Béthune. Cette mention ne suffit pas à dater une première affectation ni à la rattacher à la 12e Division.
 
-> **l.~8--10 Divon Headquarters... 2e division :** La 2e Division britannique (*2nd Division*, Ve Corps) avait alors son quartier général sous tentes et baraques entre Bertrancourt et Bus-lès-Artois, en préparation de l'attaque du 13 novembre contre Beaumont-Hamel et la redoute de Munich.
+> **Déplacements :** Recherche de Jamet au sujet du pétrole à Bertrancourt, visite aux Headquarters près de la route de Bus et au bureau de mission de la 2e division, puis retour à Albert auprès de la 152 Coy et de Pizzi. Le texte atteste ces lieux, sans donner de plan d’opérations.
 
 ---
 
-## Scan #093 — `20251126_104647.jpg` — Folio 46 verso
-- **Titre** : FOLIO 46 VERSO (Second cliché archivistique du feuillet des 2–3 novembre 1916 (doublon de numérisation))
+## Scan #093 — `20251126_104647.jpg` — Vue 093
+- **Titre** : Second cliché archivistique du feuillet des 2–3 novembre 1916 (doublon de numérisation)
 - **Date** : 2 (soir) – 3 novembre 1916 [cliché bis]
 - **Lieu** : Acheux, Raincheval, Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Même page physique que le scan 091: le montant 58 f 75 et la retenue de 30 f sont identiques..
 
 ```text
  1 | Après le dîner, course en auto à Raincheval.
@@ -3993,16 +4292,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Note codicologique importante :** Lors de la campagne de numérisation du manuscrit le 26 novembre 2025, le présent cliché `20251126_104647.jpg` (Scan #093) a photographié une seconde fois — vingt-quatre secondes après le cliché `20251126_104623.jpg` (Scan #091) et après un passage intermédiaire sur le recto suivant (Scan #092, 4 novembre) — la page verso contenant la fin du 2 novembre et la journée du 3 novembre 1916. Conformément au principe de fidélité diplomatique stricte au fac-similé en regard, nous reproduisons ici le texte exact de la page photographiée.
+**Doublon photographique :** Les scans 091 et 093 reproduisent la même page physique (mêmes lignes, traits et relevé de dépenses). Le scan 092 a été photographié entre les deux. La transcription est identique; aucun nouveau folio n’est établi par ce second cliché.
 
-> **l.~1--17 Continuité des folios :** Ce second tirage photographique plus contrasté permet de vérifier avec une parfaite netteté la lecture du relevé financier au bas de la page : « Mission, Albert : 48 f 75 (30 f retenus pour 6 jours de permission) ».
+> **Relevé financier :** « Mission, Albert : 58 f 75 (30 f retenus pour / 6 jours de permission) ». Ce second cliché aide la lecture mais n’ajoute pas un événement à la chronologie.
 
 ---
 
-## Scan #094 — `20251126_104702.jpg` — Folio 47 recto
-- **Titre** : FOLIO 47 RECTO (Emménagement au n° 1 route de Léalvillers et convocation chez le capitaine Huguet)
+## Scan #094 — `20251126_104702.jpg` — Vue 094
+- **Titre** : Emménagement au n° 1 route de Léalvillers et convocation chez le capitaine Huguet
 - **Date** : 5 novembre 1916
 - **Lieu** : Acheux-en-Amiénois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Le passage après « Très bien reçu » est obscur: noter l’ellipse sans lui assigner un sens psychologique certain. Le nom des logeurs n’est pas donné ici..
 
 ```text
  1 | Dim. 5          Novbre /16
@@ -4036,16 +4338,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~4--12 Délogé de mon billet (59)... trouvé bientôt 1 autre chambre — et préférable, no 1, route de Léalvillers :** Moment fondateur du séjour à Acheux : Hippolyte Combes emménage au no~1 de la route de Léalvillers, chez M. et Mme Carluvant (tailleur d'habits, voir Scan #102), qui le traiteront comme un membre de leur famille jusqu'en février 1917.
+**Logement :** Le billet 59 est remplacé par une chambre no 1, route de Léalvillers. Le propriétaire est qualifié de sympathique, sans être nommé dans ce passage.
 
-> **l.~14--16 Cap. Huguet, du XIIIe corps :** Le capitaine Huguet dirigeait la Mission militaire française auprès du XIIIe Corps britannique (commandé par le lieutenant-général Walter Congreve), dont le quartier général était établi à Acheux.
+> **Mission :** Le capitaine Huguet est présenté comme étant du XIIIe corps et demande des renseignements à Combes. La page mentionne le bureau de mission du corps; elle ne précise pas la fonction administrative exacte du capitaine.
 
 ---
 
-## Scan #095 — `20251126_104714.jpg` — Folio 47 verso
-- **Titre** : FOLIO 47 VERSO (Courses à Belle-Église et Coisy, nostalgie de la 152e Compagnie et convois vers la ligne de feu)
+## Scan #095 — `20251126_104714.jpg` — Vue 095
+- **Titre** : Courses à Belle-Église et Coisy, nostalgie de la 152e Compagnie et convois vers la ligne de feu
 - **Date** : 6 – 7 novembre 1916
 - **Lieu** : Acheux, Arquèves (Belle-Église), Hérissart, Rubempré, Coisy (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Graphie du nom de la ferme Belle-Église; famille de l’exploitant absente de cette page..
 
 ```text
  1 | Lundi 6          Nov. /16
@@ -4084,16 +4389,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~10--12 bois dont les ombres, teintées de rouille, orange et or :** Remarquable tableau impressionniste de l'automne picard. **l.~25 se rendant firing line :** L'expression anglaise *firing line* (ligne de feu) clôt la phrase sans préposition ni article, selon l'usage bilingue du carnet.
+**l.~10--12 bois dont les arbres, teintés de rouille, orange et or :** Remarquable tableau impressionniste de l'automne picard. **l.~25 se rendant firing line :** L'expression anglaise *firing line* (ligne de feu) clôt la phrase sans préposition ni article, selon l'usage bilingue du carnet.
 
-> **l.~3--4 Arquèves, ferme de Belle-Église :** Première mention dans le carnet de la grande ferme isolée de Belle-Église (commune d'Arquèves, exploitée par la famille belge Houthouan), qui deviendra l'un des principaux centres de battage de paille du secteur (voir Scans #106, #108, #171).
+> **Service et regret :** Déplacements à Arquèves, ferme de Belle-Église, puis à Coisy pour des achats de paille et de foin. Combes regrette explicitement la 152 Coy et cherche à rester auprès de sa compagnie et de la 18e Division.
 
 ---
 
-## Scan #096 — `20251126_104728.jpg` — Folio 48 recto
-- **Titre** : FOLIO 48 RECTO (Promenades en auto à Forceville, Varennes et thé au mess de la 152e Compagnie à Albert)
+## Scan #096 — `20251126_104728.jpg` — Vue 096
+- **Titre** : Promenades en auto à Forceville, Varennes et thé au mess de la 152e Compagnie à Albert
 - **Date** : 8 – 9 novembre 1916
 - **Lieu** : Acheux, Forceville, Varennes, Warloy, Senlis-le-Sec, Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
 
 ```text
  1 | 8 Me.          Novbre 1916
@@ -4135,14 +4442,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~18--22 Resté pour le thé au mess-hut de la 152 Coy... Bombardement commence sur Albert :** La construction de la séquence oppose la convivialité britannique du *tea* sous la baraque-mess et la beauté de la pleine lune à la brutalité soudaine du bombardement nocturne.
 
-> **l.~11--21 soleil brillé... pleine lune magnifique :** C'est précisément cette amélioration météorologique à partir du 9 novembre 1916 (asséchant légèrement le terrain après deux semaines de pluies diluviennes) qui décida le général Gough et Sir Douglas Haig à fixer au 13 novembre l'ultime offensive sur l'Ancre.
+> **Temps et canonnade :** Le soleil réapparaît quelques heures le 9 novembre. Au thé auprès de la 152 Coy, Combes voit le plateau changé en marécage; le soir il note la pleine lune puis le début du bombardement sur Albert. Un lien causal avec les décisions d’offensive exige une source d’état-major.
 
 ---
 
-## Scan #097 — `20251126_104739.jpg` — Folio 48 verso
-- **Titre** : FOLIO 48 VERSO (Courses à Raincheval et Varennes, rencontre de l'interprète Sorgues et bombardement d'Acheux)
+## Scan #097 — `20251126_104739.jpg` — Vue 097
+- **Titre** : Courses à Raincheval et Varennes, rencontre d’un interprète et bombardement d’Acheux
 - **Date** : 10 – 11 novembre 1916
 - **Lieu** : Acheux, Raincheval, Léalvillers, Varennes (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom de l’interprète lu Sorgues [?], à vérifier sans créer de notice biographique certaine..
 
 ```text
  1 | Ven. 10          Novembre 1916
@@ -4160,7 +4470,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | Pour trouver, battrie R.F.A., B Battery, marché
 14 | terrain mou, vrai cloaque où les pieds
 15 | enfonçaient et se collaient. Affreux.
-16 | Interprète de cette unité, M. Sorgues, prof.
+16 | Interprète de cette unité, M. Sorgues [?], prof.
 17 | au lycée de Toulon.
 18 | Soir, à repas, sifflement obus. Acheux
 19 | bombardé à intervalles rapprochés. Réfugiés cave.
@@ -4172,20 +4482,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 10* : **10 extt** *abbr. pro* extrêmement.
 - *l. 11* : **11 Sam.** *scil.* Samedi.
 - *l. 13* : **13 R.F.A.** *angl.* Royal Field Artillery.
+- *l. 16* : **16 Sorgues** *lect. incert. in ms.*
 - *l. 20* : **20** *in marg. cum unco* (comptes). **20 Ctes ples** *abbr. pro* Cartes postales.
 
 * * *
 
-**l.~16--17 Interprète de cette unité, M. Sorgues, prof. au lycée de Toulon :** La corporation des interprètes auprès de la B.E.F. compte de nombreux professeurs d'anglais de l'enseignement secondaire (comme Hippolyte Combes lui-même, professeur au collège de Nogent-le-Rotrou, qui avait fait ses classes d'artillerie à Toulon au printemps 1915).
+**l.~16--17 :** Interprète présenté comme professeur au lycée de Toulon; le nom propre, cursif, demeure à confirmer.
 
-> **l.~18--19 sifflement obus. Acheux bombardé à intervalles rapprochés. Réfugiés cave :** En réponse au bombardement préparatoire britannique sur Beaumont-Hamel et Serre (commencé le 11 novembre), l'artillerie à longue portée allemande prend pour cible le carrefour routier et le quartier général d'Acheux.
+> **Bombardement d’Acheux :** Le soir du 11 novembre, des sifflements d’obus interrompent le repas et les occupants se réfugient dans une cave. La cause des tirs et les objectifs allemands ne sont pas indiqués.
 
 ---
 
-## Scan #098 — `20251126_104801.jpg` — Folio 49 recto
-- **Titre** : FOLIO 49 RECTO (Bataille de Beaumont-Hamel (13–14 novembre), convois de blessés et foire de Doullens)
+## Scan #098 — `20251126_104801.jpg` — Vue 098
+- **Titre** : Bataille de Beaumont-Hamel (13–14 novembre), convois de blessés et foire de Doullens
 - **Date** : 12 – 14 novembre 1916
 - **Lieu** : Acheux, Varennes, Contay, Beauquesne, Raincheval, Doullens, Frévent (Somme / Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Les mots descriptifs après « paysage anglais » sont contractés. Le casque est noté peint, non acheté. Les boutons sont « simili-cuir », non cuir tressé..
 
 ```text
  1 | Dim. 12.          Novembre 1916
@@ -4229,22 +4543,25 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~12 Casque peint khaki : 1 f :** Achat ou mise aux normes britanniques de son casque métallique, repeint en kaki mat règlementaire de la B.E.F. **l.~23 Boutons simili-cuir : 4 f 75 (10 gds, 3 petits) :** Boutons de cuir tressé (*leather buttons*) caractéristiques de la vareuse d'officier et d'interprète britannique.
+**l.~12 Casque peint khaki :** Dépense pour la peinture du casque; ne prouve ni l’achat du casque ni l’application d’un règlement déterminé. **l.~23 Boutons simili-cuir :** Le témoin écrit « simili-cuir », avec nombres et prix; la matière effective et la destination vestimentaire ne sont pas précisées.
 
 > **l.~13--16 Tout hier, et principt matin, ainsi qu'auj'd'hui, très fort bombardemt — du côté de Beaumont. Vu passer nbx blessés :** Témoignage direct sur le déclenchement de la bataille de l'Ancre le lundi 13 et le mardi 14 novembre 1916 : la 51e (*Highland*) Division et la 63e (*Royal Naval*) Division enlèvent Beaumont-Hamel et Beaucourt-sur-l'Ancre au prix de lourdes pertes dont les ambulances traversent Acheux.
 
 ---
 
-## Scan #099 — `20251126_104814.jpg` — Folio 49 verso
-- **Titre** : FOLIO 49 VERSO (Canonnade sur Beaucourt-sur-l'Ancre et déjeuner à Hérissart chez le lieutenant Walsh)
+## Scan #099 — `20251126_104814.jpg` — Vue 099
+- **Titre** : Canonnade vers Beaumont-sur-Ancre et rencontre à Hérissart
 - **Date** : 15 – 16 novembre 1916
 - **Lieu** : Acheux, Albert, Raincheval, Louvencourt, Toutencourt, Hérissart (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom de l’interprète laissé en blanc dans le témoin; Deloney ne peut être introduit qu’en identification hypothétique..
 
 ```text
  1 | 15 Me.          Novbre 1916
  2 | Toute la nuit, encore,
  3 | et durant journée, principt à l'aube, très
- 4 | violente canonnade vers Beaucourt s/ Ancre.
+ 4 | violente canonnade vers Beaumont s/ Ancre.
  5 | Très belle journée ensoleillée.
  6 | Matin, venu en auto à Albert. Rentré id.
  7 | Passé au bureau mission frse. Rien de
@@ -4278,16 +4595,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~20--23 Déjeuné à Hérissart ch. Lt Walsh et avec son interprète... M. Deloney :** Première rencontre avec le lieutenant Walsh et son interprète M. Deloney, qui deviendront les principaux compagnons de sociabilité d'Hippolyte Combes en novembre–décembre 1916 (voir Scans #103, #106, #120).
+**l.~4 Beaumont s/ Ancre :** Leçon du manuscrit, à conserver sans substitution par Beaucourt. **l.~22 M. [blanc] :** Le nom du directeur d’usine n’est pas inscrit; rapprochement possible avec l’interprète nommé dans d’autres entrées, à laisser hypothétique.
 
-> **l.~2--4 très violente canonnade vers Beaucourt s/ Ancre :** Les 15 et 16 novembre 1916, les troupes britanniques consolident sous un bombardement intense la prise de Beaucourt-sur-l'Ancre et repoussent les contre-attaques allemandes le long de la voie ferrée d'Achiet-le-Grand.
+> **Canonnade et rencontre :** Combes entend une canonnade vers « Beaumont s/ Ancre », puis déjeune à Hérissart chez le lieutenant Walsh avec un interprète directeur d’usine près de Paris. La page ne décrit pas une contre-attaque ni la voie ferrée d’Achiet.
 
 ---
 
-## Scan #100 — `20251126_104831.jpg` — Folio 50 recto
-- **Titre** : FOLIO 50 RECTO (Premières fortes gelées, conférence sur la Russie au Y.M.C.A. et première neige)
+## Scan #100 — `20251126_104831.jpg` — Vue 100
+- **Titre** : Premières fortes gelées, conférence sur la Russie au Y.M.C.A. et première neige
 - **Date** : 17 – 18 novembre 1916
 - **Lieu** : Acheux, Authie, Orville, Amplier, Albert (Somme / Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La comparaison sonore ne suffit pas à reconnaître une technique précise de barrage..
 
 ```text
  1 | 17 Ven.          Novbre -16
@@ -4333,16 +4653,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~17--19 Obus éclatent à coups de + en + précipités : on dirait énormes vagues déferlant s/ rochers avec 1 bruit de tonnerre :** Comparaison maritime saisissante pour rendre l'acoustique du tir de barrage roulant (*creeping barrage*).
+**l.~17--19 :** Comparaison entre les éclatements d’obus et les vagues sur les rochers. Elle exprime le rythme et le bruit perçus, sans établir à elle seule un « creeping barrage ».
 
 > **l.~14--24 18 Sam... très violente canonnade / Neige tombé matin — 1ère neige :** Le samedi 18 novembre 1916 à l'aube, sous la première tempête de neige de l'hiver, les IIe et Ve Corps britanniques livrent l'ultime assaut de la bataille de l'Ancre (vers Grandcourt et les tranchées *Desire* et *Frankfort*), qui marque la clôture officielle des quatre mois et demi de l'offensive de la Somme.
 
 ---
 
-## Scan #101 — `20251126_104849.jpg` — Folio 50 verso
-- **Titre** : FOLIO 50 VERSO (Défilé de troupes et de prisonniers allemands à Acheux, nuit à Englebelmer et friction avec Curtis)
+## Scan #101 — `20251126_104849.jpg` — Vue 101
+- **Titre** : Défilé de troupes et de prisonniers allemands à Acheux, nuit à Englebelmer et friction avec Curtis
 - **Date** : 20 – 21 novembre 1916
-- **Lieu** : Acheux, Bouzincourt, Contay, Englebelmer, Léalvillers (Somme)
+- **Lieu** : Acheux, Bouzincourt, Contay [?], Englebelmer, Léalvillers (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Itinéraire de nuit: toponyme après « Au retour, arrêt à » très contracté, Contay [?]..
 
 ```text
  1 | 20 Lundi —          Nov. /16
@@ -4357,7 +4680,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | ou des tranchées —
 11 | Souvent aussi, cortèges de prisonniers allemands.
 12 | Après-midi, longue course en auto : Bouzincourt.
-13 | Au retour, arrêt à Contay. Nuit noire. Cherché refuge
+13 | Au retour, arrêt à Contay [?]. Nuit noire. Cherché refuge
 14 | à Englebelmer. Dû attendre ds obscurité profonde, le long
 15 | hauts murs du château. Boue épaisse — —
 16 | Au retour, ciel mervt étoilé... Nuit noire.
@@ -4377,6 +4700,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 6* : **6 Ts** *abbr. pro* Tous.
 - *l. 7* : **7 s/** *abbr. pro* sur.
 - *l. 8* : **8 lorries** *angl. in ms.*
+- *l. 13* : **13 Contay** *lect. incert. in ms.*
 - *l. 14* : **14 ds** *abbr. pro* dans.
 - *l. 16* : **16 mervt** *abbr. pro* merveilleusement.
 - *l. 17* : **17** *in marg. cum unco* (comptes). **17 Cartes ples** *abbr. pro* Cartes postales.
@@ -4388,14 +4712,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~24--26 remarque +tôt désobligeante de Curtis : fâché contre lui :** Premier signe de l'antipathie croissante d'Hippolyte Combes envers le lieutenant Curtis, qu'il qualifiera sans ménagement lors de son départ le 6 décembre (Scan #107).
 
-> **l.~11 cortèges de prisonniers allemands :** Plus de 7 200 soldats allemands capturés lors de la bataille de l'Ancre (13–18 novembre 1916) furent évacués à pied par la chaussée d'Acheux vers la gare d'embarquement de Varennes.
+> **Route :** Combes observe des convois, des troupes revenant de l’avant et parfois des cortèges de prisonniers allemands. Aucun effectif ni gare de destination ne sont indiqués dans cette page.
 
 ---
 
-## Scan #102 — `20251126_104903.jpg` — Folio 51 recto
-- **Titre** : FOLIO 51 RECTO (Indisposition nocturne, couture de M. Carluvant et tournée à Amplier et Authie)
+## Scan #102 — `20251126_104903.jpg` — Vue 102
+- **Titre** : Indisposition nocturne, travaux de couture et tournée à Amplier et Authie
 - **Date** : 22 – 23 novembre 1916
 - **Lieu** : Acheux, Amplier, Authieule, Authie (Somme / Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Les groupes précédant « dysenterie » et qualifiant les selles sont très difficiles; présence de sang non établie. Nom du tailleur Carluvant [?]..
 
 ```text
  1 | 22 Mer.          Novembre 1916 —
@@ -4403,12 +4730,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | d'entrailles. Ni thé, ni souper. 7 selles
  4 | liquides, dans la nuit. Dû me lever
  5 | chaque fois
- 6 | Auj'd'hui, léger mieux. Mais symptômes
- 7 | dysenterie : selles glaireuses sang — 1 peu de
+ 6 | Auj'd'hui, léger mieux. [illis.] dysenterie
+ 7 | [illis.] selles [glaireuses ?] [illis.] — 1 peu de
  8 | fièvre. Me suis ménagé. Mangé très
  9 | peu. Fin jour, amélioration très sensible
 10 | — presque guéri —
-11 | [ A proprre M. Carluvant, tailleur : 75 c
+11 | [ A proprre M. Carluvant [?], tailleur : 75 c
 12 | (élargi culottes neuves par derrière) ]
 13 | Nuit très noire — dès 5h 1/2 s. — Rue
 14 | boueuse & impraticable.
@@ -4426,8 +4753,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 - *l. 1* : **1 Mer.** *scil.* Mercredi.
-- *l. 6* : **6 Auj'd'hui** *abbr. pro* Aujourd'hui.
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 proprre** *abbr. pro* propriétaire.
+- *l. 6* : **6** *lect. incert. in ms.* **6 Auj'd'hui** *abbr. pro* Aujourd'hui.
+- *l. 7* : **7** *lect. incert. in ms.*
+- *l. 11* : **11 Carluvant** *lect. incert. in ms.* **11** *in marg. cum unco* (comptes).
 - *l. 13* : **13 1/2** *scil.* demi / moitié. **13 s.** *abbr. pro* soir.
 - *l. 17* : **17 tjrs** *abbr. pro* toujours.
 - *l. 19* : **19 s/** *abbr. pro* sur.
@@ -4436,16 +4764,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2--10 indigestion & dérangement d'entrailles :** Comme dans les entrées d'août 1916 (Scans #020–#021) et du 11 décembre 1916 (Scan #109), le diariste consigne avec une précision clinique ses troubles digestifs liés à l'eau et à l'humidité des cantonnements. **l.~11--12 A proprre M. Carluvant, tailleur : 75 c (élargi culottes neuves par derrière) :** Détail savoureux qui nous apprend le métier de son hôte d'Acheux.
+**l.~2--10 :** Troubles digestifs décrits par le diariste; groupes difficiles signalés dans la transcription. Le mot « dysenterie » paraît lisible mais l’énoncé qui le précède demeure obscur. La présence de sang et la cause des troubles ne sont pas établies. **l.~11--12 :** Paiement au propriétaire, tailleur, pour élargissement d’une culotte neuve; nom propre à confirmer.
 
-> **l.~21 Amplier – Authieule et Authie :** Ces villages de la haute vallée de l'Authie, à la limite de la Somme et du Pas-de-Calais, servaient de zone de repos et d'approvisionnement en fourrage pour le XIIIe Corps.
+> **Repos et reprise des courses :** Combes se ménage puis note son rétablissement et des déplacements vers Amplier, Authieule et Authie. Aucun diagnostic extérieur n’est produit par le carnet.
 
 ---
 
-## Scan #103 — `20251126_104916.jpg` — Folio 51 verso
-- **Titre** : FOLIO 51 VERSO (Bombardement meurtrier de la sucrerie d'Acheux et visite de M. Deloney)
+## Scan #103 — `20251126_104916.jpg` — Vue 103
+- **Titre** : Bombardement du côté de la sucrerie d’Acheux et visite de M. Deloney
 - **Date** : 25 – 26 novembre 1916
 - **Lieu** : Acheux, Hérissart (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La notation des côtés de chaussée l.16–17 reste elliptique. Bourbiers est bien visible..
 
 ```text
  1 | Sam. 25          Nov. /16 —
@@ -4490,21 +4821,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~6--8 langui bureau, assis caisse bidons de pétrole... Lis ou rumine. Triste vie :** Autoportrait mélancolique de l'intellectuel exilé dans la précarité matérielle d'un bureau de campagne britannique. **l.~22--23 Ainsi pu causer longt en fr. :** Souligne l'isolement linguistique quotidien d'Hippolyte Combes au milieu d'officiers et de soldats exclusivement anglophones.
 
-> **l.~9--10 + de 25 obus, tombés s/ Acheux, du côté sucrerie :** La râperie et sucrerie d'Acheux, située près de la voie ferrée et utilisée comme dépôt logistique allié, était particulièrement visée par les pièces allemandes à longue portée.
+> **Bombardement :** Combes note plus de 25 obus sur Acheux du côté de la sucrerie et de la ferme Royer, avec plusieurs tués et blessés. Ces victimes ne sont pas nommées; le mode de ciblage et les batteries responsables demandent une source distincte.
 
 ---
 
-## Scan #104 — `20251126_104932.jpg` — Folio 52 recto
-- **Titre** : FOLIO 52 RECTO (Thé au château de Martinsart chez les Bertin et brouillard fantomatique sur la Somme)
+## Scan #104 — `20251126_104932.jpg` — Vue 104
+- **Titre** : Thé au château de Martinsart et brouillard sur la campagne
 - **Date** : 28 – 30 novembre 1916
 - **Lieu** : Acheux, Martinsart, Raincheval, Puchevillers, Rubempré, Septenville, Pierregot, Hérissart (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom des propriétaires lu Bertin [?], première lettre incertaine; la distance aux tranchées et une évacuation imposée ne sont pas établies ici..
 
 ```text
  1 | 28 Ma.          Novbre 1916
  2 | Tjrs même temps : brouillard & pluie.
  3 | Routes, état lamentable. Matin, rien à faire.
  4 | Après-midi, course en auto à Martinsart.
- 5 | Château, reçu aimablt par M. & Mme Bertin,
+ 5 | Château, reçu aimablt par M. & Mme Bertin [?],
  6 | et pris thé av. eux — Gros canons, tt
  7 | proche, en action.
  8 | Traversé régions plates, terrains défoncés.
@@ -4514,7 +4848,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | 29 Me. Matin, très épais brouillard.
 13 | Après-midi, longue course en auto : Raincheval,
 14 | Puchevillers, Rubempré et Septenville & Pierregot.
-15 | Brouillard se lève, de + en + dense et enseveli
+15 | Brouillard se lève, de + en + dense et ensevelit
 16 | paysage. Arbres, fantomatiques au 1/2 des champs.
 17 | Moulins à (vent)
 18 | [ — Washing : 70 c — ]
@@ -4529,7 +4863,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 1* : **1 Ma.** *scil.* Mardi.
 - *l. 2* : **2 Tjrs** *abbr. pro* Toujours.
-- *l. 5* : **5 Mme** *abbr. pro* Madame.
+- *l. 5* : **5 Bertin** *lect. incert. in ms.* **5 Mme** *abbr. pro* Madame.
 - *l. 6* : **6 tt** *abbr. pro* tout.
 - *l. 9* : **9 ttes** *abbr. pro* toutes.
 - *l. 16* : **16 1/2** *scil.* demi / moitié.
@@ -4543,14 +4877,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~15--17 Brouillard se lève, de + en + dense et enseveli paysage. Arbres, fantomatiques au 1/2 des champs. Moulins à (vent) :** Vision poétique d'une grande intensité plastique ; le mot *vent* est ajouté entre parenthèses en fin de ligne. C'est la première apparition du motif des vieux moulins à vent picards qui obsédera le carnet jusqu'en avril 1917.
 
-> **l.~4--7 Martinsart. Château, reçu aimablt par M. & Mme Bertin... Gros canons, tt proche :** Situé à 3 km au nord d'Albert et à 2 km à peine des tranchées de Thiepval et d'Ovillers, le château de Martinsart était entouré de batteries d'artillerie lourde britannique ; ses propriétaires finirent par être évacués vers Franvillers en décembre 1916 (voir Scan #117).
+> **Martinsart :** Thé au château avec les propriétaires et gros canons proches en action. Les entrées suivantes donnent des courses à travers Septenville, Pierregot et Hérissart. Le témoignage ne précise ni la distance des batteries aux tranchées ni une procédure d’évacuation.
 
 ---
 
-## Scan #105 — `20251126_104946.jpg` — Folio 52 verso
-- **Titre** : FOLIO 52 VERSO (Tournée à Franvillers et Buire-sur-l'Ancre, arrivée imprévue du très jeune capitaine Williams)
+## Scan #105 — `20251126_104946.jpg` — Vue 105
+- **Titre** : Tournée à Franvillers et Buire-sur-l'Ancre, arrivée imprévue du très jeune capitaine Williams
 - **Date** : 1er – 2 décembre 1916
 - **Lieu** : Acheux, Franvillers, Buire-sur-l'Ancre, Ribemont, Heilly, Toutencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La qualification « tant surpris » à l’arrivée de Williams reste très contractée; nom abrégé Cap. H. non développé dans ce passage..
 
 ```text
  1 | 1er Ven.          Décembre 1916
@@ -4601,10 +4938,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
-## Scan #106 — `20251126_105005.jpg` — Folio 53 recto
-- **Titre** : FOLIO 53 RECTO (Longue randonnée jusqu'à Corbie, Villers-Bretonneux et Marcelcave dans la brume glaciale)
+## Scan #106 — `20251126_105005.jpg` — Vue 106
+- **Titre** : Longue randonnée jusqu'à Corbie, Villers-Bretonneux et Marcelcave dans la brume glaciale
 - **Date** : 3 – 4 décembre 1916
 - **Lieu** : Acheux, Septenville, Hérissart, Corbie, Villers-Bretonneux, Marcelcave, Warfusée-Abancourt, Arquèves, Louvencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom de Mme Guerle [?] à confirmer; le versement de 78 f 75 est attesté sans établir une règle universelle de solde..
 
 ```text
  1 | 3 Dim. —          Décbre 1916
@@ -4632,7 +4972,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 23 | ferme de Belle-Église (Arquèves) et à Louvencourt.
 24 | Rentré pour le thé et dès lors liberté.
 25 | Lt Walsh & son interprète, invités à dîner.
-26 | Capt. Williams, charmant et de tout sympathique.
+26 | Capt. Williams, charmant et de tt à tt sympathique.
 ```
 
 - *l. 1* : **1 Dim.** *scil.* Dimanche.
@@ -4645,20 +4985,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 18* : **18 L.** *scil.* Lundi. **18 rapidt** *abbr. pro* rapidement.
 - *l. 20* : **20 ds** *abbr. pro* dans. **20 Mme** *abbr. pro* Madame.
 - *l. 25* : **25 Lt** *abbr. pro* Lieutenant.
-- *l. 26* : **26 Capt.** *angl.* Captain.
+- *l. 26* : **26 tt** *abbr. pro* tout. **26 Capt.** *angl.* Captain.
 
 * * *
 
-**l.~12 Moulins squelettiques au 1/2 des champs... :** Reprise saisissante de l'image esquissée le 29 novembre (Scan #104). **l.~26 Capt. Williams, charmant et de tout sympathique :** Jugement initial très favorable lors du premier dîner avec le capitaine Williams, qui va rapidement s'inverser dans les jours suivants.
+**l.~12 :** « Moulins squelettiques »: notation visuelle du paysage. **l.~26 de tt à tt :** Abréviation de « de tout à tout », conservée dans le texte. Le jugement favorable est celui de cette date.
 
-> **l.~8--10 Marcelcave / Corbie et Villers-Bretonneux / Warfusée-Abancourt :** Excursion exceptionnelle au sud de la Somme (sur la route d'Amiens à Péronne, à la charnière entre l'armée britannique et la VIe Armée française). **l.~17 touché solde : 78 f 75 c (prochaine, le 17) :** Au XIIIe Corps, la solde des interprètes est versée par quinzaine (5 fr. 25 par jour pour 15 jours = 78 fr. 75).
+> **Courses et versement :** Déplacements vers Marcelcave par Corbie et Villers-Bretonneux, retour par Warfusée-Abancourt; le relevé porte une solde de 78 f 75 et annonce le prochain versement le 17. Le carnet ne reproduit pas le règlement qui détermine cette somme.
 
 ---
 
-## Scan #107 — `20251126_105017.jpg` — Folio 53 verso
-- **Titre** : FOLIO 53 VERSO (Course jusqu'aux ruines de Bayencourt et Coigneux, départ de Curtis et confidences de Williams)
+## Scan #107 — `20251126_105017.jpg` — Vue 107
+- **Titre** : Course jusqu'aux ruines de Bayencourt et Coigneux, départ de Curtis et confidences de Williams
 - **Date** : 5 – 6 décembre 1916
 - **Lieu** : Acheux, Authie, Bayencourt, Coigneux, Louvencourt, Raincheval (Somme / Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Le montant 50 £ a year est un propos rapporté par Williams; la cause de sa promotion n’est pas fournie..
 
 ```text
  1 | 5 Mardi.          Décbre 1916
@@ -4691,16 +5034,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~13--15 Lt Curtis, parti vers 7h 1/2 m. — & sans laisser de regret — A brainless ass :** Épitaphe féroce en anglais (« un âne sans cervelle »), qui montre combien l'universitaire français de 40 ans jugeait sévèrement la médiocrité intellectuelle de certains jeunes officiers britanniques. **l.~17--19 Cap. Williams, 20 ans !... avant la guerre, était office boy à 50 £ a year :** Observation sociologique pénétrante : un modeste employé de bureau gagnant 50 livres par an (1 250 francs) avant 1914 se retrouve promu capitaine à vingt ans par le jeu des pertes et de l'expansion de la *New Army*.
+**l.~14--15 A brainless ass :** Jugement injurieux en anglais (« un âne sans cervelle »), attribué par le diariste à Curtis. **l.~17--19 :** Williams, âgé de vingt ans selon Combes, raconte qu’il était office boy à 50 livres annuelles avant la guerre. Ce récit ne donne pas les étapes de sa carrière.
 
-> **l.~4--8 Bayencourt, près d'Hébuterne, à 3 kilomètres de Gommecourt (Boches)... Village de Coigneux :** Point le plus avancé atteint par Hippolyte Combes au nord du secteur : Bayencourt et Coigneux jouxtent les tranchées de première ligne d'Hébuterne face au redoutable saillant allemand de Gommecourt.
+> **Départ de Curtis :** Le lieutenant rejoint la 152 Coy A.S.C. après les adieux de la veille. La course à Bayencourt, Hébuterne, Gommecourt et Coigneux est rapportée; cette page ne permet pas d’établir le point le plus avancé de toute la carrière de Combes.
 
 ---
 
-## Scan #108 — `20251126_105046.jpg` — Folio 54 recto
-- **Titre** : FOLIO 54 RECTO (Les enfants de la fermière belge de Belle-Église et le village désert d'Englebelmer)
+## Scan #108 — `20251126_105046.jpg` — Vue 108
+- **Titre** : Les enfants de la fermière belge de Belle-Église et le village désert d'Englebelmer
 - **Date** : 7 – 8 décembre 1916
 - **Lieu** : Acheux, Arquèves (Belle-Église), Hédauville, Englebelmer, Saint-Léger-lès-Authie (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom de la fermière Houthouan [?] fortement cursif; vibrations notées après les coups, sans identification de calibre..
 
 ```text
  1 | 7 Jeudi — — Décbre 1916 —
@@ -4708,7 +5054,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | auto. — Matin, à Belle-Église, Arquèves,
  4 | où dû attendre lgts retour du Cap. W.,
  5 | qui allé j'à Raincheval. Amusé par les
- 6 | enfants de la fermière belge, Mme Houthouan.
+ 6 | enfants de la fermière belge, Mme Houthouan [?].
  7 | Après-midi, venus à Englebelmer, par
  8 | Hédauville. Resté près d'1 h. ds ce village
  9 | à peu près désert : plus d'habitants. Rien
@@ -4733,7 +5079,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 4* : **4 lgts** *abbr. pro* longtemps. **4 Cap. W.** *scil.* Capitaine Williams.
 - *l. 5* : **5 j'à** *abbr. pro* jusqu'à.
-- *l. 6* : **6 Mme** *abbr. pro* Madame.
+- *l. 6* : **6 Houthouan** *lect. incert. in ms.* **6 Mme** *abbr. pro* Madame.
 - *l. 8* : **8 ds** *abbr. pro* dans.
 - *l. 10* : **10 ds** *abbr. pro* dans.
 - *l. 11* : **11 lgts** *abbr. pro* longtemps.
@@ -4745,16 +5091,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~13--15 canons anglais ne cessaient point de tonner : après coup, vibrations métalliques répercutées à travers l'espace — comme gémissement :** Notation acoustique d'une grande justesse littéraire, décrivant le sifflement vibratoire des obus de gros calibre fendant l'air brumeux au-dessus d'Englebelmer.
+**l.~13--15 :** Combes distingue le tonnerre des canons et les vibrations métalliques qui suivent, comparées à un gémissement. Le calibre et le mécanisme sonore ne sont pas identifiés.
 
-> **l.~5--6 la fermière belge, Mme Houthouan :** De nombreux agriculteurs flamands réfugiés de Belgique en 1914 avaient repris l'exploitation de grandes fermes picardes manquant de bras à l'arrière du front britannique, comme ici à la ferme de Belle-Église (Arquèves).
+> **Belle-Église :** La fermière est dite belge; ses enfants amusent Combes pendant son attente. Le carnet ne précise pas ici sa date d’arrivée, son statut de réfugiée ou les conditions de reprise de la ferme.
 
 ---
 
-## Scan #109 — `20251126_105057.jpg` — Folio 54 verso
-- **Titre** : FOLIO 54 VERSO (Randonnée pluvieuse jusqu'à Saulty et L'Arbret, autoritarisme de Williams et crise de dysenterie)
+## Scan #109 — `20251126_105057.jpg` — Vue 109
+- **Titre** : Randonnée pluvieuse jusqu’à Saulty et L’Arbret; jugement sur Williams et indisposition
 - **Date** : 9 – 11 décembre 1916
-- **Lieu** : Acheux, Belle-Église, Authie, Orville, Saulty, L'Arbret (Somme / Pas-de-Calais)
+- **Lieu** : Acheux, Authie, Orville, Saulty, L’Arbret (Somme / Pas-de-Calais); Belle-Église biffé
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Le jugement précédant « ce gosse de Williams » est difficile; autoritaire [?] demeure une hypothèse. Nom Croughton [?]..
 
 ```text
  1 | 9 Samedi          Décbre 1916
@@ -4762,12 +5111,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | parfois averse.
  4 | Partis en auto, vers 9h m. Venus à ⟦Belle-Église⟧ Orville.
  5 | Déjeuné à Authie, au mess de no 3 Coy 31st Divon
- 6 | av. Lt Croughton.
+ 6 | av. Lt Croughton [?].
  7 | Après déjeuner, venus à Orville, puis
  8 | continué route j'à Saulty – L'Arbret —
  9 | Rentrés nuit noire. Temps affreux.
 10 | Très fatigué et tout mouillé. Mangé de
-11 | suite et venu chambre. Extt autoritaire
+11 | suite et venu chambre. Extt [autoritaire ?]
 12 | ce gosse de Williams... —
 13 | 11 L. — Hier & auj'd'hui, inoccupé, mais
 14 | resté office matin & soir.
@@ -4782,8 +5131,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 4* : **4** ⟦Belle-Église⟧ *del. in ms.* **4 m.** *abbr. pro* matin.
 - *l. 5* : **5 Divon** *abbr. pro* Division. **5 Coy** *angl.* Company.
-- *l. 6* : **6 Lt** *abbr. pro* Lieutenant.
+- *l. 6* : **6 Croughton** *lect. incert. in ms.* **6 Lt** *abbr. pro* Lieutenant.
 - *l. 8* : **8 j'à** *abbr. pro* jusqu'à.
+- *l. 11* : **11** *lect. incert. in ms.*
 - *l. 13* : **13 L.** *scil.* Lundi. **13 auj'd'hui** *abbr. pro* aujourd'hui.
 - *l. 15* : **15 Tjrs** *abbr. pro* Toujours.
 - *l. 17* : **17 tte** *abbr. pro* toute.
@@ -4792,16 +5142,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~11--12 Extt** autoritaire ce gosse de Williams... : Six jours à peine après son arrivée, le jeune capitaine de vingt ans (« ce gosse de Williams ») exaspère l'interprète par son ton autoritaire et son manque d'égards. **l.~21 Tin of Wren's Dubbin : 30 c :** Boîte de graisse imperméabilisante anglaise de marque *Wren's Dubbin* pour assouplir et protéger de la boue les brodequins de cuir.
+**l.~4 :** « Belle-Église » biffé, remplacé par Orville. **l.~11--12 :** Adjectif difficile avant « ce gosse de Williams »; « autoritaire » n’est qu’une lecture proposée. **l.~17 :** « Dysenterie » est ici le mot employé par Combes; il ne constitue pas un diagnostic éditorial.
 
-> **l.~5 mess de no 3 Coy 31st Divon av. Lt Croughton :** La 31e Division britannique (*31st Division*, XIIIe Corps), durement éprouvée à Serre le 1er juillet 1916, tenait alors le secteur de l'Ancre et cantonnait son Train divisionnaire à Authie.
+> **Service et indisposition :** Repas à Authie au mess de la no 3 Coy, 31st Division; course par Orville, Saulty et L’Arbret, puis journées marquées par les troubles digestifs. L’affiliation précise du lieutenant cité reste à documenter.
 
 ---
 
-## Scan #110 — `20251126_105112.jpg` — Folio 55 recto
-- **Titre** : FOLIO 55 RECTO (Paysage de neige aux fenêtres d'Acheux et réunion des réfugiés d'Englebelmer à Toutencourt)
+## Scan #110 — `20251126_105112.jpg` — Vue 110
+- **Titre** : Paysage de neige aux fenêtres d'Acheux et réunion des réfugiés d'Englebelmer à Toutencourt
 - **Date** : 12 – 14 décembre 1916
 - **Lieu** : Acheux, Senlis-le-Sec, Toutencourt, Belle-Église, Puchevillers, Harponville (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La réunion de réfugiés est mentionnée sans ordre du jour ni détail des indemnités..
 
 ```text
  1 | 12 Mardi          Décbre 1916
@@ -4841,14 +5194,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~4--6 Resté lgts à ma fenêtre, s/ devant & s/ derrière, à admirer paysage :** La posture favorite du diariste — posté en observateur silencieux derrière la vitre de sa chambre — transforme les rues d'Acheux en tableau vivant.
 
-> **l.~10--11 Toutencourt, mairie, meeting de réfugiés d'Englebelmer, Major Levy :** Les habitants d'Englebelmer (village évacué en raison des bombardements, voir Scan #108) avaient été relogés à Toutencourt ; le major Levy et son interprète les réunissent à la mairie pour régler les indemnités d'occupation et de réquisition de leurs récoltes restées sur place.
+> **Toutencourt :** Réunion à la mairie avec des réfugiés d’Englebelmer et le major Levy. La cause du déplacement des habitants, leur mode de logement et l’objet administratif de la réunion ne sont pas explicités dans cette entrée.
 
 ---
 
-## Scan #111 — `20251126_105125.jpg` — Folio 55 verso
-- **Titre** : FOLIO 55 VERSO (Cahots sur les routes défoncées et portrait critique du jeune capitaine Williams)
+## Scan #111 — `20251126_105125.jpg` — Vue 111
+- **Titre** : Cahots sur les routes défoncées et portrait critique du jeune capitaine Williams
 - **Date** : 15 – 18 décembre 1916
 - **Lieu** : Acheux, Belle-Église, Arquèves, Raincheval, Toutencourt, Ferme du Quesnoy (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La ferme du Quesnoy n’est pas localisable avec précision à partir de cette seule entrée..
 
 ```text
  1 | 15 Vendredi —          Décbre 1916
@@ -4888,14 +5244,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~12--14 voiture ressaute : on est cahoté, secoué, jeté d'1 côté et d'autre :** Rythme ternaire mimétique traduisant l'épreuve physique des tournées automobiles sur les chaussées défoncées par les convois d'artillerie. **l.~20--22 Société de mon off. — 1 cap. de 20 ans, présomptueux & vain — peu agréable :** Portrait moral incisif du capitaine Williams.
 
-> **l.~10--11 ferme du Quesnoy :** Grande ferme isolée sur le plateau entre Raincheval, Puchevillers et Beauquesne.
+> **Tournées :** Courses à Belle-Église, Arquèves, Raincheval, Toutencourt et ferme du Quesnoy, sur des routes qui cahotent fortement la voiture. La localisation exacte de la ferme appelle un plan cadastral ou une carte contemporaine.
 
 ---
 
-## Scan #112 — `20251126_105142.jpg` — Folio 56 recto
-- **Titre** : FOLIO 56 RECTO (Crise épistolaire avec Marguerite (« velléités de rupture ») et l'incident du « Bloody France ! »)
+## Scan #112 — `20251126_105142.jpg` — Vue 112
+- **Titre** : Crise épistolaire avec Marguerite (« velléités de rupture ») et l'incident du « Bloody France ! »
 - **Date** : 22 – 24 décembre 1916
-- **Lieu** : Acheux, Senlis-le-Sec, Rubempré, Le Quesnoy, Léalvillers, Saint-Léger, Orville, Authie, Toutencourt, Puchevillers, Louvencourt (Somme)
+- **Lieu** : Acheux, Senlis-le-Sec, Rubempré, Quesnoy (identification non établie), Léalvillers, Saint-Léger, Orville, Authie, Toutencourt, Puchevillers, Louvencourt
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Déplacement chronologique par rapport à 113; la lettre du 17 n’est pas reproduite et ses propres mots restent inconnus..
 
 ```text
  1 | 22 Ven.          Déc. 1916
@@ -4941,14 +5300,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **Note codicologique :** Dans la campagne de numérisation, ce feuillet des 22–24 décembre 1916 (Scan #112, `20251126_105142.jpg`) a été photographié immédiatement avant celui des 19–20 décembre (Scan #113, `20251126_105155.jpg`). **l.~10--11 et 21--23 Lettre de Mte du 17 ct. — Velléités de rupture :** Aveu poignant de la crise sentimentale qui éclate à la veille de Noël 1916.
 
-> **l.~17--20 A Louvencourt, ch. Mme Cuisinier, gaffe du Cap. W. : « Bloody France etc. ! » :** Cet incident du 24 décembre 1916 chez la fermière Mme Cuisinier à Louvencourt blesse profondément le patriotisme d'Hippolyte Combes, déjà auteur en mars 1916 d'un rapport officiel au sous-lieutenant Ferran contre un officier du *6th Liverpool Regiment* à Morlancourt (voir Annexe I, Document 2).
+> **Incident de Louvencourt :** Le 24 décembre, Combes rapporte chez Mme Cuisinier le propos « Bloody France etc.! » de Williams et hésite à en informer la Mission française. Il relie aussi sa tristesse à une lettre de Mte datée du 17. Il s’agit de son récit et de son appréciation, sans reproduction de la lettre ni rapport administratif joint.
 
 ---
 
-## Scan #113 — `20251126_105155.jpg` — Folio 56 verso
-- **Titre** : FOLIO 56 VERSO (Attente devant l'Army Purchase Board à Raincheval et grandes gelées d'avant Noël)
+## Scan #113 — `20251126_105155.jpg` — Vue 113
+- **Titre** : Attente devant l’Army P. Board à Raincheval et grandes gelées d’avant Noël
 - **Date** : 19 – 20 décembre 1916
-- **Lieu** : Acheux, Belle-Église, Raincheval, Le Quesnoy, Beauquesne (Somme)
+- **Lieu** : Acheux, Belle-Église, Raincheval, Quesnoy (identification non établie), Beauquesne
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Développement Army P. Board plausible en Purchase Board, non développé dans le témoin; montant 84 fr. sans ventilation..
 
 ```text
  1 | 19 Ma. —          Décbre 1916 —
@@ -4986,16 +5348,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~4 Army P. Board :** *Army Purchase Board* (commission d'achat de l'armée britannique chargée d'homologuer les contrats de fourrage et de battage). **l.~15 Assis in front :** Sur le siège avant de l'automobile, à côté du chauffeur britannique (*driver*).
+**Ordre chronologique :** La vue 113 porte les 19 et 20 décembre et précède donc la vue 112 (22 et 24 décembre) dans la chronologie des entrées. **Army P. Board :** Sigle institutionnel probablement « Army Purchase Board », développement à confirmer par source administrative. **in front :** Indication de position à l’avant de la voiture.
 
-> **l.~9--10 Bureau mission, XIIIe c., touché solde etc. : 84 fr. :** Règlement de la quinzaine incluant l'indemnité de monture et de vivres au bureau de la Mission française du XIIIe Corps à Acheux.
+> **Versement :** La mention « solde etc. : 84 fr. » au bureau de mission du XIIIe corps ne ventile pas les sommes en indemnités de vivres ou de monture.
 
 ---
 
-## Scan #114 — `20251126_105239.jpg` — Folio 57 recto
-- **Titre** : FOLIO 57 RECTO (Noël 1916 à Acheux : insomnie, perplexité morale et concert au Y.M.C.A.)
+## Scan #114 — `20251126_105239.jpg` — Vue 114
+- **Titre** : Noël 1916 à Acheux : insomnie, perplexité morale et concert au Y.M.C.A.
 - **Date** : 25 décembre 1916
 - **Lieu** : Acheux-en-Amiénois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Le calme de la canonnade est un constat local; aucune trêve négociée ou générale n’est attestée..
 
 ```text
  1 | 25 Lundi.          Décbre 1916
@@ -5037,14 +5402,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~2--8 Dois-je faire 1 rapport à Mission frse ? / Hanté aussi par lettre de Margte du 17 ct. :** Examen de conscience dramatique du jour de Noël 1916, où le dilemme professionnel (faut-il dénoncer le capitaine Williams à la Mission française ?) se conjugue au tourment sentimental (« Cruelle perplexité ») avant l'apaisement stoïque du soir (« retrouvé compl. calme d'esprit & parfait équilibre »).
 
-> **l.~13--14 et 19--20 Y.M.C.A. hut, concert :** Pour le jour de Noël 1916, le foyer de la *Young Men's Christian Association* d'Acheux organise deux représentations de music-hall militaire (*concert party*) tandis qu'une trêve de fait réduit l'artillerie au silence (« Nul écho de canonnade »).
+> **Noël :** Combes assiste aux chansons comiques et saynètes du foyer Y.M.C.A., puis y rentre quelques minutes lorsque le concert recommence. Il note le soir un grand silence et aucun écho de canonnade. Cette observation locale n’établit pas une trêve à l’échelle du front.
 
 ---
 
-## Scan #115 — `20251126_105252.jpg` — Folio 57 verso
-- **Titre** : FOLIO 57 VERSO (Location d'une machine à battre chez Mme Capron à Beauquesne et course rapide à Doullens)
+## Scan #115 — `20251126_105252.jpg` — Vue 115
+- **Titre** : Location d'une machine à battre chez Mme Capron à Beauquesne et course rapide à Doullens
 - **Date** : 26 – 27 décembre 1916
-- **Lieu** : Acheux, Raincheval, Arquèves, Beauquesne, Le Quesnoy, Doullens (Somme)
+- **Lieu** : Acheux, Raincheval, Arquèves, Beauquesne, Quesnoy (identification non établie), Doullens
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Guibet est cursif; la brièveté de l’arrêt à Doullens est certaine, son responsable n’est pas nommé..
 
 ```text
  1 | 26 Mardi          Décbre 1916.
@@ -5075,16 +5443,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~12--13 resté 20 m. à peine ds cette ville (hélas !) :** La parenthèse exclamative traduit la frustration de l'interprète tributaire de la hâte du capitaine Williams, qui ne lui laisse que le temps d'acheter en hâte du papier à lettres et des enveloppes.
+**l.~12--13 :** « resté / 20 m. à peine ds cette ville (hélas!) »: regret de la brièveté du séjour, sans cause explicitée.
 
-> **l.~6--7 Mme Capron, à propos location machine à battre :** Afin d'accélérer la livraison de paille et de grain sans attendre les entrepreneurs civils mobilisés, le service des fourrages britannique louait directement des batteuses mécaniques (comme celle de Mme Capron à Beauquesne, dont le contrat sera signé le 5 janvier 1917, Scan #120) et les faisait fonctionner par des corvées de soldats.
+> **Location :** Entretien avec Mme Capron à Beauquesne au sujet de la location d’une machine à battre. Les raisons de la location, la mobilisation des entrepreneurs et la main-d’œuvre employée ne sont pas précisées ici.
 
 ---
 
-## Scan #116 — `20251126_105400.jpg` — Folio 58 recto
-- **Titre** : FOLIO 58 RECTO (Concert des « 13th Corps Archie Singers » et tournée dans la voiture Sunbeam du major Levy)
+## Scan #116 — `20251126_105400.jpg` — Vue 116
+- **Titre** : Concert des « 13th Corps Archie Singers » et tournée dans la voiture Sunbeam du major Levy
 - **Date** : 28 – 29 décembre 1916
-- **Lieu** : Acheux, Léalvillers, Raincheval, Le Quesnoy, Louvencourt (Somme)
+- **Lieu** : Acheux, Léalvillers, Raincheval, Quesnoy (identification non établie), Louvencourt
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom de la troupe Archie Singers cursif; sa composition en artilleurs antiaériens n’est pas établie par le seul nom..
 
 ```text
  1 | 28 Jeudi          Décembre 1916
@@ -5126,16 +5497,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~9 car in workshop :** L'automobile de l'unité étant à l'atelier de réparation mécanique (*workshop*), l'interprète bénéficie d'une journée entière de congé. **l.~14--15 Boîte recommandée à Imbert, opticien Paris : 30 c :** Envoi postal de son pince-nez cassé à son opticien parisien du boulevard Saint-Michel (qu'il réglera par mandat le 10 janvier et visitera le 27 janvier 1917, Scans #122 et #131).
+**car in workshop :** Voiture à l’atelier, expliquant la liberté mentionnée ce jour. **l.~14--15 :** Envoi recommandé d’une boîte à Imbert, opticien à Paris. Le contenu de la boîte n’est pas précisé dans cette dépense.
 
-> **l.~10--12 13th Corps Archie Singers :** Troupe théâtrale et musicale formée par les artilleurs de la défense contre avions (surnommée *Archie* dans l'argot militaire britannique) du XIIIe Corps.
+> **Concert :** La troupe est notée « 13th Corps Archie Singers » et présente des chansons comiques et pantomimes. Une identification des membres ou de leur unité d’origine demande une source indépendante.
 
 ---
 
-## Scan #117 — `20251126_105411.jpg` — Folio 58 verso
-- **Titre** : FOLIO 58 VERSO (Nouvel éclat et excuses contrites du capitaine Williams à la Saint-Sylvestre)
+## Scan #117 — `20251126_105411.jpg` — Vue 117
+- **Titre** : Nouvel éclat et excuses contrites du capitaine Williams à la Saint-Sylvestre
 - **Date** : 30 – 31 décembre 1916
 - **Lieu** : Acheux, Franvillers, Senlis-le-Sec, Belle-Église, Raincheval, Beauquesne (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Dépense: les postes 45+10+1+22 font 78, alors que total écrit 88; conserver les chiffres et signaler l’écart plutôt que corriger silencieusement..
 
 ```text
  1 | 30 Sam.          Décbre /16
@@ -5177,16 +5551,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~7--10 et 19--21 explication très calme, mais très ferme. M'a fait des excuses et m'a supplié de ne pas le quitter... attitude gênée et presque humiliée, contrite :** Scène psychologique remarquable où l'ascendant moral et l'âge d'Hippolyte Combes (40 ans) retournent complètement le rapport d'autorité face au jeune capitaine britannique de 20 ans, incapable de s'acquitter de sa mission sans son interprète.
+**l.~7--10 et 19--21 :** Combes rapporte une explication, des excuses puis une attitude gênée de Williams. Les pensées de l’officier et sa dépendance professionnelle ne sont pas documentées directement. **l.~23--24 :** Les quatre postes lus 45, 10, 1 et 22 donnent 78 francs, tandis que le total écrit est 88. Cette discordance est conservée; un des chiffres peut demander une nouvelle lecture.
 
-> **l.~23--24 Dépenses mess : 45 f + 10 f + 1 f + 22 fr. = 88 fr. :** Arrêté mensuel de sa quote-part des frais de table du mess pour l'ensemble du mois de décembre 1916.
+> **Comptes :** Relevé des dépenses du mess en fin décembre, avec discordance entre les postes et le total; sa ventilation et la période exacte couverte ne sont pas explicitées.
 
 ---
 
-## Scan #118 — `20251126_105428.jpg` — Folio 59 recto
-- **Titre** : FOLIO 59 RECTO (Jour de l'An 1917 à Acheux, tournées à Toutencourt, Saulty et Louvencourt)
+## Scan #118 — `20251126_105428.jpg` — Vue 118
+- **Titre** : Jour de l'An 1917 à Acheux, tournées à Toutencourt, Saulty et Louvencourt
 - **Date** : 1er – 2 janvier 1917
 - **Lieu** : Acheux, Toutencourt, Saulty, Louvencourt, Raincheval (Somme / Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom Carluvant [?]; nouveau est biffé devant propriétaire. Chambre chaude est net. L’expertise n’est pas qualifiée de contradictoire par le scripteur..
 
 ```text
  1 | 1er Lundi — 1917 —          Janvier.
@@ -5225,14 +5602,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1 1er Lundi — 1917 — Janvier :** Ouverture solennelle du millésime 1917 au centre de la première ligne, soulignée de deux traits. **l.~22--23 Calvert Tooth Powder / new boots, nails on :** Le relevé comptable en pied de folio est rédigé en anglais technique (achat de poudre dentifrice Calvert à la cantine britannique de Louvencourt et ferrage de brodequins neufs à Acheux).
 
-> **l.~8--10 M. Carluvant / l.~14--15 ferme Cuisinier, expertise machine endommagée :** Même le 1er et le 2 janvier 1917, le service logistique et contentieux ne connaît aucune trêve : courses en automobile vers Toutencourt, Saulty (sur la grande route d'Arras) et Louvencourt, où l'interprète procède à l'expertise contradictoire d'une machine agricole endommagée à la ferme Cuisinier.
+> **Logement et machine :** Le logeur annonce son départ, le propriétaire voulant s’installer; Combes regrette sa chambre chaude. Le lendemain, passage à la ferme Cuisinier pour l’expertise d’une machine endommagée, sans détail du mandat ni des participants.
 
 ---
 
-## Scan #119 — `20251126_105446.jpg` — Folio 59 verso
-- **Titre** : FOLIO 59 VERSO (Course à Amiens : l'Hôtel de la Paix, le capitaine Trefcon et la cathédrale)
+## Scan #119 — `20251126_105446.jpg` — Vue 119
+- **Titre** : Course à Amiens : l'Hôtel de la Paix, le capitaine Trefcon et la cathédrale
 - **Date** : 3 janvier 1917
 - **Lieu** : Acheux, Belle-Église, Montigny, Amiens (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Rue de l’Hôtel de la Paix laissée sans nom; sens précis du qualificatif ocre pour les gravures à confirmer..
 
 ```text
  1 | 3 Mercredi          — Janvier /17 —
@@ -5272,16 +5652,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~10--11 ds la cour de l'Hôtel de la Paix, rue [\dots] :** L'auteur laisse un léger blanc après le mot *rue*, ayant oublié le nom exact de la rue (l'Hôtel de la Paix se trouvait rue de la République à Amiens). **l.~22--23 5 gravures ocre cathédrale : 2 f 50 / 1 bonnet police drap bleu : 3 f 75 c :** Ce relevé montre à la fois le goût artistique d'Hippolyte Combes et le soin qu'il apporte à sa tenue d'interprète.
+**l.~11 rue :** Nom de rue non renseigné. La cause de ce blanc n’est pas connue. **l.~22 :** Achat de cinq gravures de la cathédrale; le qualificatif « ocre » demeure à vérifier.
 
-> **l.~13--14 rue Sire Firmin Leroux (La Semeuse : instruments agricoles etc.) :** Située en plein centre d'Amiens près de la rue des Trois-Cailloux, la maison *La Semeuse* fournissait des pièces de rechange pour les batteuses et machines agricoles réquisitionnées par l'armée britannique.
+> **Amiens :** Combes rencontre Trefcon rue Sire Firmin Leroux et mentionne « La Semeuse : instruments agricoles etc. », puis visite la cathédrale. Le carnet ne donne pas de liste de pièces fournies ni de destinataire militaire de ces fournitures.
 
 ---
 
-## Scan #120 — `20251126_105848.jpg` — Folio 60 recto
-- **Titre** : FOLIO 60 RECTO (Concert des « XIII Corps Archie » et contrat de battage chez Mme Capron à Beauquesne)
+## Scan #120 — `20251126_105848.jpg` — Vue 120
+- **Titre** : Concert à la Y.M.C.A. et contrat avec Mme Capron à Beauquesne
 - **Date** : 4 – 5 janvier 1917
 - **Lieu** : Acheux, Septenville, Beauquesne (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : l.19: après location, le mot paraît « battage », quoique le contexte antérieur concerne une machine à battre; ne pas imposer « batteuse » sans réserve. l.12: duos très g., dernière contraction difficile..
 
 ```text
  1 | 4 Jeudi          — Janvier /17
@@ -5302,7 +5685,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 16 | Septenville, ferme Moulard. —
 17 | Beauquesne : déjeuné av. Lt Walsh, Lt Morris
 18 | & son interprète au Café Continental.
-19 | Puis passé contrat location batteuse av.
+19 | Puis passé contrat location [battage ?] av.
 20 | Mme Capron.
 21 | Rentré, nuit tombante. Mervx clair
 22 | de lune. Routes boueuses comme ruisselantes
@@ -5318,6 +5701,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 14* : **14 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
 - *l. 15* : **15 Ven.** *scil.* Vendredi.
 - *l. 17* : **17 Lt** *abbr. pro* Lieutenant.
+- *l. 19* : **19** *lect. incert. in ms.*
 - *l. 20* : **20 Mme** *abbr. pro* Madame.
 - *l. 24* : **24** *in marg. cum unco* (comptes). **24 fse** *abbr. pro* française.
 
@@ -5325,14 +5709,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~21--23 Mervx clair de lune. Routes boueuses comme ruisselantes de lumière :** Transfiguration poétique de la boue picarde sous l'effet de la pleine lune d'hiver.
 
-> **l.~17--20 Beauquesne : déjeuné av. Lt Walsh, Lt Morris & son interprète au Café Continental. Puis passé contrat battage batteuse av. Mme Capron :** Concrétisation de la négociation engagée le 26 décembre (Scan #115) pour la location de la batteuse de Mme Capron à Beauquesne.
+> **Contrat :** Après le déjeuner à Beauquesne, Combes note un contrat de location avec Mme Capron. Le terme suivant « location » est difficile, paraissant « battage »; l’entrée du 26 décembre (scan 115) concerne une machine à battre. Le rapprochement est probable, mais le contrat lui-même n’est pas reproduit.
 
 ---
 
-## Scan #121 — `20251126_105908.jpg` — Folio 60 verso
-- **Titre** : FOLIO 60 VERSO (Déplacements de troupes autour d'Acheux et visite à la 150e Compagnie à Hédauville)
+## Scan #121 — `20251126_105908.jpg` — Vue 121
+- **Titre** : Déplacements de troupes autour d'Acheux et visite à la 150e Compagnie à Hédauville
 - **Date** : 6 – 9 janvier 1917
 - **Lieu** : Acheux, Louvencourt, Bertrancourt, Authie, Arquèves, Raincheval, Saint-Léger, Hédauville (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : « Chants du jour » paraît préférable à « du soir », sans allusion explicite à des adieux; dernier prix postal 15 c [?]..
 
 ```text
  1 | 6 Sam.          Janv. 1917
@@ -5342,7 +5729,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | Bertrancourt et Authie.
  6 | Après-midi, liberté entière —
  7 | Soir, au concert Y.M.C.A. Programme
- 8 | des 2 fois précédentes. Chants du soir. —
+ 8 | des 2 fois précédentes. Chants du jour. —
  9 | Matinée, routes encombrées : déplacement
 10 | de troupes : convois d'artillerie, de A.S.C. etc.
 11 | [ — Washing : 70 c. — Concert Y.M.C.A. : 30 c ]
@@ -5358,7 +5745,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 21 | Temps + froid, neigé 1 peu, puis pluie
 22 | fine — Toute la nuit & durant journée
 23 | très violente canonnade.
-24 | [ — Avis de réception pour Imbert : 15 c — ]
+24 | [ — Avis de réception pour Imbert : 15 c [?] — ]
 ```
 
 - *l. 1* : **1 Sam.** *scil.* Samedi.
@@ -5369,7 +5756,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 14* : **14 St** *abbr. pro* Saint.
 - *l. 18* : **18 Divon** *abbr. pro* Division. **18 Coy** *angl.* Company.
 - *l. 19* : **19 ds** *abbr. pro* dans.
-- *l. 24* : **24** *in marg. cum unco* (comptes).
+- *l. 24* : **24 c** *lect. incert. in ms.* **24** *in marg. cum unco* (comptes).
 
 * * *
 
@@ -5379,10 +5766,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
-## Scan #122 — `20251126_105920.jpg` — Folio 61 recto
-- **Titre** : FOLIO 61 RECTO (Canonnade sur Miraumont, retrouvailles avec Morris et tempête de grésil sur les plateaux)
+## Scan #122 — `20251126_105920.jpg` — Vue 122
+- **Titre** : Canonnade sur Miraumont, retrouvailles avec Morris et tempête de grésil sur les plateaux
 - **Date** : 10 – 12 janvier 1917
 - **Lieu** : Acheux, Saint-Léger, Belle-Église, Authie, Arquèves, Louvencourt, Raincheval, Beauquesne, Septenville, Rubempré (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La canonnade est située sur la ligne de Miraumont par Combes; identifier un assaut donné exige une source distincte..
 
 ```text
  1 | 10 Me.          — Janvier 1917 —
@@ -5426,14 +5816,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~13 A whole day off :** Une journée entière de congé (en anglais idiomatique dans le texte). **l.~9--11 Mandat-poste à Imbert, opticien, Paris, pour réparation pince-nez et pour 1 neuf d'après ordonnance : 19 fr. :** Suite de l'envoi recommandé du 28 décembre (Scan #116).
 
-> **l.~2--3 très violente canonnade s/ ligne de Miraumont :** Le 10 et le 11 janvier 1917, la 7e Division britannique (Ve Corps) attaque et enlève la crête de Beaumont-Hamel dominant le vallon de Miraumont et de Grandcourt, capturant plus de 200 prisonniers allemands.
+> **Miraumont :** Combes situe la canonnade sur la « ligne de Miraumont » sans identifier une unité attaquante ni une opération précise. Le mandat à Imbert concerne explicitement la réparation du pince-nez et un exemplaire neuf d’après ordonnance.
 
 ---
 
-## Scan #123 — `20251126_105931.jpg` — Folio 61 verso
-- **Titre** : FOLIO 61 VERSO (Fixation de la permission au 26 janvier, arbres ouatés de neige et course à Doullens)
+## Scan #123 — `20251126_105931.jpg` — Vue 123
+- **Titre** : Départ fixé au 26 janvier, arbres ouatés de neige et course à Doullens
 - **Date** : 13 – 15 janvier 1917
 - **Lieu** : Acheux, Beaucourt, Montigny, Louvencourt, Saint-Léger, Beauquesne, Raincheval, Doullens (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : « Ve corps » est lisible, mais ne suffit pas à établir une relève complète du XIIIe corps à Acheux. Le motif du départ au 26 n’est pas précisé dans cette ligne..
 
 ```text
  1 | 13 Sam.          Janv. /17
@@ -5445,7 +5838,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | Cap. Huguet; mon départ fixé défint au 26 ct —
  8 | 14 D. Neige tombé à gros flocons durant
  9 | matinée entière. Toits & arbres recouverts couche
-10 | blanche. Branches entt jolies avec ce léger
+10 | blanche. Branches extt jolies avec ce léger
 11 | duvet — ainsi ouatées.
 12 | Après-midi, courses à Louvencourt et
 13 | à St-Léger.
@@ -5464,6 +5857,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 1* : **1 Sam.** *scil.* Samedi.
 - *l. 7* : **7 Cap.** *abbr. pro* Capitaine. **7 ct** *abbr. pro* courant.
 - *l. 8* : **8 D.** *scil.* Dimanche.
+- *l. 10* : **10 extt** *abbr. pro* extrêmement.
 - *l. 13* : **13 St** *abbr. pro* Saint.
 - *l. 14* : **14 L.** *scil.* Lundi.
 - *l. 19* : **19 1/2** *scil.* demi / moitié.
@@ -5471,16 +5865,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~10--11 Branches entt jolies avec ce léger duvet — ainsi ouatées / l.~16--19 Masses sombres des arbres... se détachent davantage au 1/2 du blanc :** Notations de peintre et de photographe amateur (Hippolyte Combes pratiquait la photographie depuis son séjour en Angleterre), attentif aux valeurs de contraste entre le noir des fûts mouillés et la blancheur de la neige.
+**l.~10 extt :** Contraction d’extrêmement. **l.~16--19 :** Contraste visuel des arbres et maisons sur la neige; nul besoin de supposer ici une pratique photographique pour expliquer cette notation.
 
-> **l.~6--7 bureau mission Ve corps : vu Cap. Huguet ; mon départ fixé défint au 26 ct :** En janvier 1917, le Ve Corps britannique relève le XIIIe Corps à Acheux ; le capitaine Huguet demeure à la tête du bureau de la Mission française du corps d'armée et arrête au vendredi 26 janvier le départ en permission d'Hippolyte Combes.
+> **Départ annoncé :** Au bureau de mission du Ve corps, Combes voit Huguet et apprend que son départ est définitivement fixé au 26 courant. L’entrée ne décrit ni la relève d’un corps d’armée ni la chaîne de commandement de la mission.
 
 ---
 
-## Scan #124 — `20251126_105945.jpg` — Folio 62 recto
-- **Titre** : FOLIO 62 RECTO (Étendues blanches d'Hérissart et visite à Auxi-le-Château chez le collectionneur M. Renard)
+## Scan #124 — `20251126_105945.jpg` — Vue 124
+- **Titre** : Étendues blanches d'Hérissart et visite à Auxi-le-Château chez le collectionneur M. Renard
 - **Date** : 16 – 17 janvier 1917
 - **Lieu** : Acheux, Bouzincourt, Senlis-le-Sec, Rubempré, Hérissart, Toutencourt, Doullens, Auxi-le-Château (Somme / Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : L’objet est un coffret en paille et la date d’achat 1858, selon le récit; son identité matérielle et sa provenance documentaire ne sont pas vérifiables par ce seul témoignage..
 
 ```text
  1 | 16 Mardi          Janvier 1917
@@ -5521,16 +5918,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~19--21 Ns a montré ses objets d'art précieux : notamt et surtout un coffret en paille acheté en 1858 au bagne de Toulon :** Détail curieux et authentique qui ravit l'amateur d'art et rappelle à Hippolyte Combes son propre passage en garnison à Toulon au printemps 1915.
+**l.~19--21 coffret en paille :** Lecture visuelle conservée, et non coffret en os. La date 1858 et l’achat au bagne de Toulon sont des renseignements rapportés dans le carnet.
 
-> **l.~14--18 Auxi-le-Château, ch. M. Renard :** Situé dans la vallée de l'Authie (Pas-de-Calais) à 15 km au nord-ouest de Doullens, Auxi-le-Château marque la limite occidentale des tournées d'achat de fourrage du secteur.
+> **Auxi-le-Château :** Visite et déjeuner chez M. Renard qui montre des objets d’art, notamment le coffret. Cette étape ne suffit pas à établir la limite occidentale administrative de tout le service des fourrages.
 
 ---
 
-## Scan #125 — `20251126_105956.jpg` — Folio 62 verso
-- **Titre** : FOLIO 62 VERSO (Plaines blanches confondues avec le ciel mat et neige cristallisée à Puchevillers)
+## Scan #125 — `20251126_105956.jpg` — Vue 125
+- **Titre** : Plaines blanches confondues avec le ciel mat et neige cristallisée à Puchevillers
 - **Date** : 18 – 19 janvier 1917
 - **Lieu** : Acheux, Belle-Église, Raincheval, Puchevillers (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Lettres suscrites de Tempérre ; ponctuation ponctuellement faible..
 
 ```text
  1 | 18 Jeudi Matin (canonnade) —          Janvier /17
@@ -5560,16 +5960,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~5--7 Plaines blanches se confondaient à l'horizon rapproché avec ciel mat / l.~14 Neige comme cristallisée, durcie ds les champs :** Finesse d'observation météorologique annonçant le début de la grande vague de gel sec qui va durer jusqu'à la mi-février 1917.
+**l.~10 Ciel mat & bas. Tempérre, pas froide :** La négation *pas* est lisible. Elle ne doit pas être supprimée pour harmoniser cette notation avec le froid pénétrant décrit plus bas.
 
-> **l.~17--18 bureau mission Ve corps, solde : 84 fr. :** Percevant sa solde avant son départ en permission, Hippolyte Combes dispose désormais d'une encaisse supérieure à 300 francs pour son voyage à Paris, Toulouse et Millau.
+> **l.~17--18 bureau mission Ve corps, solde : 84 fr. :** L’encadré enregistre une perception de solde. La somme disponible au départ est donnée séparément au Scan #129 ; aucune encaisse supérieure à 300 francs n’est indiquée sur cette vue.
 
 ---
 
-## Scan #126 — `20251126_110011.jpg` — Folio 63 recto
-- **Titre** : FOLIO 63 RECTO (Grand gel sec, retour à pied de Louvencourt et préparatifs de permission)
+## Scan #126 — `20251126_110011.jpg` — Vue 126
+- **Titre** : Grand gel sec, retour à pied de Louvencourt et préparatifs de permission
 - **Date** : 20 – 23 janvier 1917
 - **Lieu** : Acheux, Louvencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom abrégé de la personne vue à Louvencourt, lecture Cuisinier non assurée.; Distance notée 2 kilg : expansion à maintenir prudente..
 
 ```text
  1 | 20 Sam.          — Janvier 1917
@@ -5581,7 +5984,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | Sol resté durci. —
  8 | 21 Dim. Nuit, gelé très fort. Froid sec.
  9 | Matinée, en auto j'à Louvencourt, où
-10 | vu Mme Cuisinier. Sur ma demande, retour
+10 | vu Mme Cuis[?]. Sur ma demande, retour
 11 | à pied. Sol durci. Route excellente. 2 kilog.
 12 | Champs tout blancs. Neige durcie ne
 13 | fond pas.
@@ -5599,23 +6002,26 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 1* : **1 Sam.** *scil.* Samedi.
 - *l. 8* : **8 Dim.** *scil.* Dimanche.
 - *l. 9* : **9 j'à** *abbr. pro* jusqu'à.
-- *l. 10* : **10 Mme** *abbr. pro* Madame.
+- *l. 10* : **10 Cuis** *lect. incert. in ms.* **10 Mme** *abbr. pro* Madame.
 - *l. 14* : **14** *in marg. cum unco* (comptes). **14 Canteen** *angl. in ms.*
 - *l. 17* : **17 auj'd'hui** *abbr. pro* aujourd'hui.
 - *l. 21* : **21 1/2** *scil.* demi / moitié.
 
 * * *
 
-**l.~11 2 kilog. :** Lapsus calami plaisant du manuscrit pour *2 kilom[ètres]* (la distance séparant Louvencourt d'Acheux-en-Amiénois). **l.~18 Hier, Capne W., à Amiens — seul :** Le tiret suivi de l'adjectif *seul* souligne le plaisir d'être débarrassé toute une journée de la présence du capitaine Williams.
+**l.~10 Cuis[?] :** Nom abrégé, lecture complète non établie. **l.~11 2 kilog. :** Notation de distance dans le contexte d’un retour à pied ; la graphie abrégée ne justifie pas de diagnostiquer un « lapsus plaisant ». **l.~18 seul :** L’adjectif est écrit ; le plaisir de l’absence du capitaine relève d’une interprétation.
 
-> **l.~19--22 Tempérre très basse... Vitres, complèt mates de glace :** À partir du 20 janvier 1917, le thermomètre descend chaque nuit sous $-10^\circ$ C en Picardie.
+> **l.~19--22 Tempérre très basse... Vitres, complèt mates de glace :** Le carnet décrit le gel et son effet sur les vitres ; il ne donne aucune température chiffrée.
 
 ---
 
-## Scan #127 — `20251126_110024.jpg` — Folio 63 verso
-- **Titre** : FOLIO 63 VERSO (Conférence sur le Canada au Y.M.C.A., eau gelée dans la chambre et fin des préparatifs)
+## Scan #127 — `20251126_110024.jpg` — Vue 127
+- **Titre** : Conférence sur le Canada au Y.M.C.A., eau gelée dans la chambre et fin des préparatifs
 - **Date** : 23 (soir) – 25 janvier 1917
 - **Lieu** : Acheux-en-Amiénois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Développements des abréviations, notamment extt/extr. +, à maintenir dans l’appareil..
 
 ```text
  1 | 23 Ma.          Janvier /17
@@ -5660,10 +6066,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
-## Scan #128 — `20251126_110048.jpg` — Folio 64 recto
-- **Titre** : FOLIO 64 RECTO (Départ en permission de la gare de Varennes et longue attente nocturne à Gézaincourt)
+## Scan #128 — `20251126_110048.jpg` — Vue 128
+- **Titre** : Départ en permission de la gare de Varennes et longue attente nocturne à Gézaincourt
 - **Date** : 26 janvier 1917
 - **Lieu** : Acheux, Gare de Varennes, Gézaincourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Ajout au-dessus de « côté de Varennes », lecture et rattachement à préciser..
 
 ```text
  1 | 26 Vendredi —          Janvier /17
@@ -5704,16 +6113,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~11--13 Champs tt couverts couche neige durcie dont les particules, comme des grains de diamant, étincellent sous les rayons solaires :** L'émerveillement du départ en permission inspire à l'auteur l'une des phrases les plus lumineuses et les plus achevées de son journal.
+**l.~10 Soleil brûlant s/ les vitres, du côté de Varennes :** Un ajout interlinéaire est visible au-dessus de la fin de cette ligne ; son rattachement et sa lecture restent à établir. **l.~11--15 :** La comparaison des particules de neige à des grains de diamant et la buée confondant terre et ciel sont autographes.
 
-> **l.~20--24 A Gézaincourt, à 4h 30... Quitté Gézaincourt, à 10h 30 s. :** La ligne ferroviaire à voie unique d'Albert à Doullens par Acheux-Varennes rejoignait à la gare de bifurcation de Gézaincourt (juste au sud de Doullens) la grande ligne de Saint-Pol à Amiens. Six heures d'attente y sont imposées par l'encombrement des trains militaires et le gel des aiguillages.
+> **l.~20--24 Gézaincourt :** Le carnet situe l’arrivée vers 4 h 30 et le départ à 10 h 30 du soir, avec trois heures de retard pour le train de Doullens. La cause de ce retard n’est pas précisée.
 
 ---
 
-## Scan #129 — `20251126_110059.jpg` — Folio 64 verso
-- **Titre** : FOLIO 64 VERSO (Arrivée à Amiens à deux heures du matin et état de la caisse de voyage)
+## Scan #129 — `20251126_110059.jpg` — Vue 129
+- **Titre** : Arrivée à Amiens à deux heures du matin et état de la caisse de voyage
 - **Date** : 26 janvier 1917 (suite, nuit du 26 au 27)
 - **Lieu** : Acheux, Gézaincourt, Amiens (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La date de l’encaisse « ce matin » demeure celle de l’en-tête, sans recalcul éditorial..
 
 ```text
  1 | Ven. 26 (suite)          Janvier 1917
@@ -5736,14 +6148,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~5--9 En caisse, ce matin : 319 f 50 c :** Grand encadré comptable occupant le centre de la page (le tiers inférieur restant blanc) pour fixer avec exactitude le pécule de départ en permission (319 fr. 50) et le poids des deux sacs de bagages enregistrés à Gézaincourt (27 kg).
 
-> **l.~2 Arrivé Amiens vers 2h m. :** Parti de la gare d'Acheux-Varennes à 15 h passées, le train a mis près de onze heures pour parcourir les 40 kilomètres ferroviaires jusqu'à Amiens via Gézaincourt et Canaples.
+> **l.~2 Arrivé Amiens vers 2h m. :** Cette arrivée est reprise en tête du Scan #130. Le récit cumule le trajet et une longue attente à Gézaincourt ; il ne fournit pas un temps de marche du train seul.
 
 ---
 
-## Scan #130 — `20251126_110124.jpg` — Folio 65 recto
-- **Titre** : FOLIO 65 RECTO (Nuit glaciale à la gare d'Amiens avec l'interprète Boilly et arrivée à Paris et Neuilly)
+## Scan #130 — `20251126_110124.jpg` — Vue 130
+- **Titre** : Nuit glaciale à la gare d'Amiens avec l'interprète Boilly et arrivée à Paris et Neuilly
 - **Date** : 27 janvier 1917 (matin et midi)
 - **Lieu** : Amiens, Paris (Gare du Nord, Gare d'Orsay), Neuilly-sur-Seine
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Chiffre initial du numéro de rue d’Armenonville : 1 ou 2, à confronter à la première permission..
 
 ```text
  1 | Sam. 27 —          Janv. 1917
@@ -5767,7 +6182,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 19 | Me suis rendu par le métro à
 20 | Neuilly : Tuileries – Porte-Maillot.
 21 | Après 5 m. de marche, arrivé
-22 | rue d'Armenonville, no 16.
+22 | rue d'Armenonville, no [?]6.
 23 | Maison luxueuse. Au 4e étage, à g.
 ```
 
@@ -5776,19 +6191,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 8* : **8 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
 - *l. 12* : **12 1/2** *scil.* demi / moitié.
 - *l. 16* : **16 m.** *abbr. pro* matin.
+- *l. 22* : **22 no** *lect. incert. in ms.*
 
 * * *
 
-**l.~4--5 2 interprètes (dont l'1, Boilly, est prof. à Pont-à-Mousson) :** Solidarité immédiate entre collègues universitaires servant dans le corps des interprètes de l'armée britannique. **l.~22--23 rue d'Armenonville, no 16. Maison luxueuse. Au 4e étage, à g. :** Même adresse à Neuilly-sur-Seine que lors de sa première permission le 26 septembre 1916 (Scan #051).
+**l.~4--5 Boilly :** Le carnet précise sa profession et son établissement. **l.~22 no [?]6 :** Le premier chiffre du numéro est surchargé ; la comparaison avec le Scan #051 est un contrôle à effectuer, non une raison de supprimer le doute.
 
 > **l.~6--8 l'Abri du Soldat, Bvd Alsace-Lorraine... Y.M.C.A. Hut, à côté gare :** La gare du Nord d'Amiens (place Alphonse-Fiquet, au bout du boulevard d'Alsace-Lorraine) était le grand nœud ferroviaire franco-britannique où se croisaient jour et nuit les trains de permissionnaires venant de Boulogne et du front de la Somme.
 
 ---
 
-## Scan #131 — `20251126_110135.jpg` — Folio 65 verso
-- **Titre** : FOLIO 65 VERSO (Déjeuner à Neuilly chez Mme Faure, visite chez l'opticien Imbert et départ pour Toulouse)
+## Scan #131 — `20251126_110135.jpg` — Vue 131
+- **Titre** : Déjeuner à Neuilly chez Mme Faure, visite chez l'opticien Imbert et départ pour Toulouse
 - **Date** : 27 janvier 1917 (suite)
 - **Lieu** : Neuilly-sur-Seine, Paris (Boulevard Saint-Michel, Hôtel de Ville, Gare d'Orsay)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Abréviations Polyte et ch., à distinguer de mots rétablis par l’éditeur..
 
 ```text
  1 | Sam. 27 (suite)          Janv. 1917
@@ -5826,14 +6245,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--2 au 4e ét., à g., appartt de Mme Faure :** Reprise syntaxique du dernier syntagme du folio précédent (« Au 4e étage, à g. », Scan #130) pour assurer l'enchaînement après la tourne de la page. **l.~10--11 Bvd St-Michel, ch. Imbert, mobilisé :** L'opticien parisien à qui Hippolyte avait expédié son pince-nez le 28 décembre et un mandat de 19 fr. le 10 janvier (Scans #116 et #122).
 
-> **l.~5--7 Mlle Germaine & Marcel présents. Les 2 autres fils, Henri, aspirant, et André, préparant Polyte, absents :** Tableau familial typique de la haute bourgeoisie parisienne en janvier 1917, partagée entre le front (Henri, aspirant) et la préparation aux grandes écoles militaires (André, candidat à l'École Polytechnique).
+> **l.~5--7 :** Henri est donné comme aspirant, André comme préparant « Polyte ». L’expansion probable en Polytechnique appartient à l’annotation ; le carnet ne décrit pas leur milieu social.
 
 ---
 
-## Scan #132 — `20251126_110149.jpg` — Folio 66 recto
-- **Titre** : FOLIO 66 RECTO (Dépenses parisiennes et arrivée matinale à Toulouse : souvenirs des disparus et visite de l'oncle Émile)
+## Scan #132 — `20251126_110149.jpg` — Vue 132
+- **Titre** : Dépenses parisiennes et arrivée matinale à Toulouse : souvenirs des disparus et visite de l'oncle Émile
 - **Date** : 27 (comptes) – 28 janvier 1917 (matin)
 - **Lieu** : Paris, Toulouse (Gare Matabiau, Saint-Michel, Sainte-Marie)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Quelques chiffres des achats, notamment le peigne fin, demeurent moins nets..
 
 ```text
  1 | Sam. 27          Janv. /17
@@ -5875,14 +6297,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~13--15 souvenirs jeunesse revenus en foule esprit. Cru revoir mère et sœurs, m'attendant, cme autrefois, gare :** Notation autobiographique bouleversante : en arrivant à la gare Matabiau de Toulouse, Hippolyte Combes revoit en pensée sa mère Marie Anaïs Alric (décédée en 1907) et ses deux sœurs disparues, Maria (morte à Carthage en 1903) et Joséphine (morte à Nogent-le-Rotrou en octobre 1914).
 
-> **l.~7 Billet pour Toulouse : 11 f 15 c :** Tarif militaire au quart de place sur le réseau du Paris-Orléans. **l.~8 Magasins Hôtel de Ville :** Le grand magasin *Aux Classes Laborieuses* / *Bazar de l'Hôtel de Ville* rue de Rivoli à Paris.
+> **l.~7 Billet pour Toulouse : 11 f 15 c :** Montant porté au carnet. **l.~8 Magasins Hôtel de Ville :** La dénomination manuscrite est conservée ; elle ne justifie pas de confondre deux enseignes parisiennes.
 
 ---
 
-## Scan #133 — `20251126_110200.jpg` — Folio 66 verso
-- **Titre** : FOLIO 66 VERSO (Retrouvailles infiniment tendres avec Marguerite à Sainte-Marie (Toulouse))
+## Scan #133 — `20251126_110200.jpg` — Vue 133
+- **Titre** : Retrouvailles infiniment tendres avec Marguerite à Sainte-Marie (Toulouse)
 - **Date** : 28 janvier 1917 (suite)
 - **Lieu** : Toulouse (Quartier Sainte-Marie / Côte Pavée)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Les conclusions sur la résolution définitive d’une crise sentimentale restent interprétatives..
 
 ```text
  1 | Dim. 28. (suite) — Janv. /17 —
@@ -5913,16 +6338,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2--3 et 10--14 Margte, sur la porte, m'attendait. Accueil infiniment tendre... Mes sentiments à son égard, douceur infinie :** Dénouement radieux de la crise épistolaire du 17–25 décembre 1916 (Scans #112 et #114) : dès le premier regard sur le seuil de la villa de Sainte-Marie à Toulouse, toutes les appréhensions d'Hippolyte s'évanouissent.
+**l.~2--3 et 10--14 :** Les appréciations très tendres sont autographes. Leur rapprochement avec les lettres et hésitations de décembre peut éclairer le passage, sans établir que toutes les appréhensions avaient définitivement disparu.
 
 > **l.~4 Vu Tante & Madeleine :** Marguerite Calmels séjournait alors à Toulouse avec sa sœur Madeleine Calmels (future épouse du docteur Fernand Vincens) chez leur tante.
 
 ---
 
-## Scan #134 — `20251126_110216.jpg` — Folio 67 recto
-- **Titre** : FOLIO 67 RECTO (Le panier de fleurs de Nice et le pèlerinage de jeunesse aux cryptes de Saint-Sernin)
+## Scan #134 — `20251126_110216.jpg` — Vue 134
+- **Titre** : Le panier de fleurs de Nice et le pèlerinage de jeunesse aux cryptes de Saint-Sernin
 - **Date** : 29 janvier 1917
 - **Lieu** : Toulouse (Gare Matabiau, Sainte-Marie, Basilique Saint-Sernin, Place du Capitole, Rue d'Alsace, Côte Pavée)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Petits chiffres de tram et écriture tassée en bas de page..
 
 ```text
  1 | Lundi 29.          — Janvier 1917 —
@@ -5965,14 +6393,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~12--15 Visité longuement basilique St-Sernin et surtout les cryptes. Toute ma jeunesse réveillée, dans & autour de cette admirable église romane :** Émotion autobiographique intense : la maison familiale où Hippolyte Combes passa sa jeunesse auprès de ses parents (au 47 puis au 77 rue du Taur à Toulouse) débouchait directement sur la place Saint-Sernin.
 
-> **l.~16 Magasins du Capitole & Labit :** Les grands magasins toulousains de la place du Capitole et la célèbre *Maison Labit* (galerie marchande et bazar oriental fondé par les frères Georges et  Antoine Labit rue d'Alsace-Lorraine à Toulouse).
+> **l.~16 Magasins du Capitole & Labit :** Le nom Labit renvoie au commerce toulousain de la famille. La notice de Yolande Boulade, INHA AGORHA, *Labit Georges* (21 mars 2022, article 321), indique qu’Antoine Labit (1832–1912), fondateur de La Maison Universelle, est le père de Georges Labit, non son frère.
 
 ---
 
-## Scan #135 — `20251126_110233.jpg` — Folio 67 verso
-- **Titre** : FOLIO 67 VERSO (Visite à Mme de Labarthe et conférence d'Ernest Zyromski sur Maurice de Guérin)
+## Scan #135 — `20251126_110233.jpg` — Vue 135
+- **Titre** : Visite à Mme de Labarthe et conférence d'Ernest Zyromski sur Maurice de Guérin
 - **Date** : 30 janvier 1917
-- **Lieu** : Toulouse (Faculté des Lettres, Sainte-Marie)
+- **Lieu** : Toulouse, Sainte-Marie ; lieu de la conférence non précisé
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Le lieu précis de la conférence et le destinataire de la revue de modes ne sont pas écrits..
 
 ```text
  1 | Mardi 30.          Janvier 1917 —
@@ -6009,16 +6440,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~10--14 assisté conférce de M. Zyromski sur Maurice de Guérin... Vrai régal littéraire :** Ancien étudiant de la Faculté des Lettres de Toulouse (où il avait obtenu sa licence d'anglais), Hippolyte Combes retrouve avec délices l'amphithéâtre universitaire. **l.~21 Le Miroir des Modes (no de janvier) : 1 f :** Revue de mode illustrée achetée pour Marguerite.
+**l.~10--14 :** Le titre et les appréciations littéraires sont explicites. Le carnet ne situe pas la conférence dans un amphithéâtre. **l.~21 Le Miroir des Modes :** Achat enregistré, sans destinataire indiqué.
 
 > **l.~10--12 M. Zyromski sur Maurice de Guérin (Influence de la Bretagne & de Lamennais) :** Ernest Zyromski (1862–1933), célèbre professeur de littérature française à la Faculté des Lettres de l'Université de Toulouse, était le grand spécialiste du poète tarnais Maurice de Guérin (1810–1839) et de son séjour breton à La Chênaie auprès de Lamennais (il publiera son ouvrage *Maurice de Guérin* chez Armand Colin en 1921).
 
 ---
 
-## Scan #136 — `20251126_110247.jpg` — Folio 68 recto
-- **Titre** : FOLIO 68 RECTO (Marché aux Halles Victor-Hugo avec Marguerite, visite de l'Hôtel d'Assézat et intimité à l'appartement)
+## Scan #136 — `20251126_110247.jpg` — Vue 136
+- **Titre** : Marché aux Halles Victor-Hugo avec Marguerite, visite de l'Hôtel d'Assézat et intimité à l'appartement
 - **Date** : 31 janvier 1917
 - **Lieu** : Toulouse (Saint-Sernin, Halles Victor-Hugo, Hôtel d'Assézat, Daurade, Dalbade, Sainte-Marie)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Mot entre « qq » et « précieuses » non établi.; Nom Henri Testet et montant des gâteaux à vérifier au grossissement..
 
 ```text
  1 | Mercredi 31. —          Janvier 1917
@@ -6030,7 +6464,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | rues bien abritées. Visité Hôtel d'Assézat,
  8 | Daurade & Dalbade.
  9 | Puis montés mon appartt et y reposé 2 longues
-10 | heures. Goûté toutes ces secondes précieuses.
+10 | heures. Évité troubler qq [mot incertain] précieuses.
 11 | A Ste-Marie, vers 6h 1/2. Retour à pied, vers
 12 | 9h. Légers flocons neige tombaient sur le sol
 13 | durci.
@@ -6047,6 +6481,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 2* : **2 Ds** *abbr. pro* Dans.
 - *l. 4* : **4 Mte** *scil.* Marguerite (Calmels). **4 St** *abbr. pro* Saint.
 - *l. 9* : **9 appartt** *abbr. pro* appartement.
+- *l. 10* : **10 qq** *abbr. pro* quelque(s). **10 [mot incertain]** Lecture non établie.
 - *l. 11* : **11 Ste** *abbr. pro* Sainte. **11 1/2** *scil.* demi / moitié.
 - *l. 14* : **14** *in marg. cum unco* (comptes).
 - *l. 16* : **16 1/2** *scil.* demi / moitié. **16 c.** *abbr. pro* centimes.
@@ -6057,16 +6492,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~9--10 Puis montés mon appartt** et y reposé 2 longues heures. Goûté toutes ces secondes précieuses : Notation délicate d'un moment de recueillement amoureux dans son appartement toulousain. **l.~19 Gâteaux des allées : 1 f 40 chez Henri Testet :** Pâtisserie réputée des allées Lafayette (actuelles allées Jean-Jaurès) à Toulouse. **l.~21 Télégramme à Mme Spagnol, Nice : 2 f :** Sa tante Thérèse Spagnol (voir Scan #142).
+**l.~9--10 :** La seconde phrase commence « Évité troubler qq » ; le mot suivant reste non établi. L’ancienne lecture « Choisi ds bles qq gravures précieuses » ne correspond pas aux tracés et entraînait un commentaire fictif sur des bibelots. **l.~19 :** Nom de pâtissier et montant encore à contrôler.
 
 > **l.~7--8 Hôtel d'Assézat, Daurade & Dalbade :** Chef-d'œuvre de la Renaissance toulousaine édifié par Nicolas Bachelier (siège de l'Académie des Jeux Floraux), suivi des deux grandes églises de la rive droite de la Garonne, Notre-Dame de la Daurade et Notre-Dame de la Dalbade.
 
 ---
 
-## Scan #137 — `20251126_110302.jpg` — Folio 68 verso
-- **Titre** : FOLIO 68 VERSO (Achat d'une montre en or chez Pfister et détachement intérieur vis-à-vis de Toulouse)
+## Scan #137 — `20251126_110302.jpg` — Vue 137
+- **Titre** : Achat d'une montre en or chez Pfister et détachement intérieur vis-à-vis de Toulouse
 - **Date** : 1er février 1917
 - **Lieu** : Toulouse (Capitole, Sainte-Marie, Gare Matabiau, Rue de Languedoc)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Abréviation du dernier article entre parenthèses du remboursement..
 
 ```text
  1 | 1er Jeudi          Février 1917 —
@@ -6083,13 +6521,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | Chapelle archevêché : conférence, pas eu lieu.
 13 | Rentré dîner à Ste-Marie —
 14 | Vers 9h 1/2, à pied j'à rue de Languedoc.
-15 | Ville silencieuse. Maintent bonheur, je me
+15 | Ville silencieuse. Maisons fermées. Je me
 16 | sens complètt détaché de Toulouse. Partirai sans
 17 | regret, et pour n'y retourner jamais plus.
 18 | [ — Trams : 30 c., 10 c., 20 c., 30 c.
-19 | Food (boulangeon) : 2 f
+19 | Food (boulanger) : 25 c
 20 | Remboursé à mes voisines : 3 f 25
-21 | (12 œufs, 1/2 beurre, 1 boulangeon) ]
+21 | (12 œufs, 1/2 beurre, 1 boulanger) ]
 ```
 
 - *l. 1* : **1 1er** *scil.* premier.
@@ -6108,16 +6546,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~15--17 Maintent bcp calme, je me sens complètt détaché de Toulouse. Partirai sans regret, et pour n'y retourner jamais plus :** Méditation décisive en marchant le soir jusqu'à la rue de Languedoc : son bonheur présent auprès de Marguerite l'affranchit définitivement de la nostalgie de sa jeunesse toulousaine.
+**l.~15--17 Ville silencieuse. Maisons fermées. Je me sens complètt détaché de Toulouse. Partirai sans regret, et pour n'y retourner jamais plus :** Méditation décisive en marchant le soir jusqu'à la rue de Languedoc : son bonheur présent auprès de Marguerite l'affranchit définitivement de la nostalgie de sa jeunesse toulousaine.
 
 > **l.~11 Choisi montre or ch. Pfister :** La célèbre horlogerie-bijouterie Pfister de Toulouse, où il achète pour sa fiancée une montre à remontoir en or mat de style Louis XVI au prix de 105 francs (réglée le lendemain, Scan #138).
 
 ---
 
-## Scan #138 — `20251126_110324.jpg` — Folio 69 recto
-- **Titre** : FOLIO 69 RECTO (Soins chez le dentiste M. de Lersay, achat du remontoir Louis XVI et dernière soirée à Toulouse)
+## Scan #138 — `20251126_110324.jpg` — Vue 138
+- **Titre** : Soins chez le dentiste M. de Lersay, achat du remontoir Louis XVI et dernière soirée à Toulouse
 - **Date** : 2 février 1917
 - **Lieu** : Toulouse (Rue Lafayette, Place Belfort, Sainte-Marie)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Patronyme du dentiste : lecture de Lersay à conserver avec réserve..
 
 ```text
  1 | 2 Vendredi.          Février 1917 —
@@ -6135,7 +6576,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | à sautoir : free. — 1 boîte pastilles de
 14 | Chlorate de Potasse : 1 f 30 c. — Trams : 20 c., 10 c
 15 | Bain, Place Belfort : 1 f — ]
-16 | Quitte à regret Tte, sacrifiant 3 jours entiers
+16 | Quitte à regret Tls, sacrifiant 3 jours entiers
 17 | pour aller à Millau... Aurais préféré rester
 18 | encore ici, afin de jouir + lgts de mon
 19 | appartt, rempli de souvenirs.
@@ -6149,28 +6590,30 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 11* : **11** *in marg. cum unco* (comptes). **11 Ch.** *abbr. pro* Chez.
 - *l. 12* : **12 fr.** *abbr. pro* franc(s).
 - *l. 14* : **14 c.** *abbr. pro* centimes.
-- *l. 16* : **16 Tte** *abbr. pro* Toute.
 - *l. 18* : **18 lgts** *abbr. pro* longtemps.
 - *l. 19* : **19 appartt** *abbr. pro* appartement.
 
 * * *
 
-**l.~11--13 remontoir or mat Louis XVI 105 fr. — Petit anneau pour attacher pendentif à sautoir : free :** L'adjectif anglais *free* (gratuit) s'immisce jusque dans la facture d'horlogerie toulousaine ! **l.~16--19 Quitte à regret Tte... :** Oscillation psychologique bien humaine : au moment même de quitter son appartement toulousain pour accompagner Marguerite à Millau, un dernier élan d'attachement revient sous sa plume.
+**l.~11--13 remontoir or mat Louis XVI 105 fr. — Petit anneau pour attacher pendentif à sautoir : free :** L'adjectif anglais *free* (gratuit) s'immisce jusque dans la facture d'horlogerie toulousaine ! **l.~16--19 Quitte à regret Tls... :** Oscillation psychologique bien humaine : au moment même de quitter son appartement toulousain (*Tls* = Toulouse) pour accompagner Marguerite à Millau, un dernier élan d'attachement revient sous sa plume.
 
-> **l.~4--5 dentiste, M. de Lersay, rue La Fayette :** Située entre la place du Capitole et les allées Lafayette (actuelles allées Jean-Jaurès), la rue Lafayette rassemblait les cabinets médicaux les plus réputés de Toulouse.
+> **l.~4--5 :** Le cabinet du dentiste est situé rue La Fayette dans le carnet. Le texte ne permet pas de qualifier la réputation des cabinets de cette rue.
 
 ---
 
-## Scan #139 — `20251126_110338.jpg` — Folio 69 verso
-- **Titre** : FOLIO 69 VERSO (Voyage de Toulouse à Millau avec Marguerite par Carcassonne et Béziers)
+## Scan #139 — `20251126_110338.jpg` — Vue 139
+- **Titre** : Voyage de Toulouse à Millau avec Marguerite par Carcassonne et Béziers
 - **Date** : 3 février 1917
 - **Lieu** : Toulouse, Carcassonne, Béziers, Bédarieux, Millau (Aveyron)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Identification exacte du logement par sources familiales, non par cette page seule..
 
 ```text
  1 | Sam. 3          Févr. /17
  2 | Levé 5h —
  3 | Mis ordre ds mes affaires & caisses.
- 4 | A 8h 1/2, ch. Secrète, joaillier, puis ch. dentiste.
+ 4 | A 8h 1/2, ch. Auriol, joaillier, puis ch. dentiste.
  5 | A 10h, quitté maison et rejoint Margte.
  6 | Partis de Ste-Marie, vers 11h 40.
  7 | Oncle m'a accompagné gare.
@@ -6207,14 +6650,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~15 Délicieuse intimité s/ l'épaule de Mte :** Image pleine de tendresse durant la lente montée nocturne du train de Béziers à Millau. **l.~18--19 Impression silence profond en débarquant ville natale :** Confirmation autographe explicite que Millau est bien la « ville natale » d'Hippolyte Combes (né rue des Barris à Millau le 14 août 1876).
 
-> **l.~10--23 A Béziers... A la maison de Mte, parents m'ont fait accueil très affectueux :** Le voyage s'effectue par la grande ligne de la Compagnie du Midi jusqu'à Béziers (où les fiancés admirent le panorama de l'Orb depuis la terrasse de la cathédrale Saint-Nazaire), puis par la ligne des Causses via Bédarieux. À Millau, Hippolyte est logé pour la première fois directement dans l'hôtel particulier des parents de sa fiancée, le docteur Gabriel Calmels et Valentine Cartairade, au 10 rue Alfred-Guibert.
+> **l.~13--23 :** Le carnet décrit un train de Béziers à Millau et l’accueil dans la maison des parents de Marguerite. La gare de Bédarieux apparaît dans les comptes du Scan #140. Il ne dit pas que cet hébergement chez les Calmels est le premier.
 
 ---
 
-## Scan #140 — `20251126_110353.jpg` — Folio 70 recto
-- **Titre** : FOLIO 70 RECTO (Relevé des dépenses du départ de Toulouse et du voyage par Bédarieux)
+## Scan #140 — `20251126_110353.jpg` — Vue 140
+- **Titre** : Relevé des dépenses du départ de Toulouse et du voyage par Bédarieux
 - **Date** : 3 février 1917 (suite, comptes)
 - **Lieu** : Toulouse, Béziers, Bédarieux, Millau
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Sigle A.P.C. de la broche non développé..
 
 ```text
  1 | Sam. 3 —          Févr. /17
@@ -6235,16 +6681,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2--3 1 grand nettoyage et 3 plombages : 40 f = net : 25 f :** Remise confraternelle ou militaire accordée par le chirurgien-dentiste M. de Lersay, ramenant les honoraires de 40 à 25 francs. **l.~6 Enregt bagages de Margte : 10 c :** Signe concret de leur statut de fiancés officiels voyageant désormais ensemble.
+**l.~2--3 40 f = net : 25 f :** Deux montants successifs sont écrits. Le motif de la réduction n’est pas indiqué. **l.~4 A.P.C. :** Sigle conservé sans expansion assurée.
 
 > **l.~9--10 Billet 1/4 pl. Béziers – Millau : 1 f 80 / Buffet de Bédarieux : 6 f 75 + 25 c :** Arrêt dîner au buffet de la gare de bifurcation de Bédarieux (Hérault) avant l'ascension ferroviaire des monts d'Orb et du Larzac.
 
 ---
 
-## Scan #141 — `20251126_110406.jpg` — Folio 70 verso
-- **Titre** : FOLIO 70 VERSO (Nuit d'émotion et de larmes à Millau au souvenir de ses parents et de ses sœurs)
+## Scan #141 — `20251126_110406.jpg` — Vue 141
+- **Titre** : Nuit d'émotion et de larmes à Millau au souvenir de ses parents et de ses sœurs
 - **Date** : 4 février 1917 (nuit et matin)
 - **Lieu** : Millau (10 rue Alfred-Guibert, Aveyron)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Début de la ligne 2 remanié ; chambre semble ajouté au-dessus..
 
 ```text
  1 | Dim. 4          Févr. /17
@@ -6281,16 +6730,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~7--12 Silence impressionnant vallon natal... Pensé à Papa, Maman, Sœurs — que j'ai tant aimés. Peu à peu, gagné par l'émotion, et sangloté :** Page la plus intime et la plus émouvante de tout le *Livre-Journal*. De retour dans le « vallon natal » de Millau, au moment de fonder un nouveau foyer chez les Calmels, l'orphelin de quarante ans pleure dans le silence nocturne son père François-Hippolyte Combes († 1899), sa mère Marie-Anaïs Alric († 1907) et ses sœurs Maria († 1903) et Joséphine († 1914).
+**l.~2 :** Début de ligne remanié et ajout suscrit de « chambre ». **l.~7--12 :** Les souvenirs de Papa, Maman et des sœurs, puis les sanglots, sont écrits. Les noms et dates de décès relèvent du dossier familial, non de cette page.
 
 > **l.~18--22 Déjeuné av. Margte... Soleil rendait appartt :** La phrase se poursuit sans ponctuation finale au sommet du folio suivant (« plus clair & plus gai », Scan #142).
 
 ---
 
-## Scan #142 — `20251126_110422.jpg` — Folio 71 recto
-- **Titre** : FOLIO 71 RECTO (Après-midi musical avec Marguerite, visite aux Spagnol et cloches de Millau)
+## Scan #142 — `20251126_110422.jpg` — Vue 142
+- **Titre** : Après-midi musical avec Marguerite, visite aux Spagnol et cloches de Millau
 - **Date** : 4 février 1917 (suite)
 - **Lieu** : Millau (Aveyron)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Heure de rentrée dans la chambre, premier chiffre de 40 à reprendre.; Instrument joué par Marguerite et identité complète de Mimi non indiqués sur cette page..
 
 ```text
  1 | Dim. 4 (suite)          Fév. /17
@@ -6318,16 +6770,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~15 (Cf. Journal, feuille spéciale) :** Renvoi autographe capital entre parenthèses au bas de la page ! Il prouve qu'Hippolyte Combes rédigeait parallèlement, lors des moments les plus intenses de sa vie intime (comme déjà en octobre 1916 lors de sa première permission à Millau, conservée dans les « Documents 54 à 60 » du fonds familial), des feuillets séparés d'analyse psychologique plus développée.
+**l.~15 (Cf. Journal, feuille spéciale) :** Renvoi autographe à une autre pièce. Son identification avec des feuillets précis du fonds familial reste à démontrer ; le seul renvoi n’établit ni une pratique générale ni son contenu psychologique.
 
-> **l.~3--4 Elle m'a joué qq morceaux et chanté 1 peu :** Excellente musicienne, Marguerite Calmels jouait du piano dans le salon du 10 rue Alfred-Guibert. **l.~9 Mimi :** Surnom familial d'Anne-Marie Calmels, sœur de Marguerite.
+> **l.~3--4 :** Marguerite joue quelques morceaux et chante ; l’instrument n’est pas nommé. **l.~9 Mimi :** Hypocoristique conservé ; identification à documenter dans le fonds familial.
 
 ---
 
-## Scan #143 — `20251126_110441.jpg` — Folio 71 verso
-- **Titre** : FOLIO 71 VERSO (Recueillement au cimetière de Millau avec Marguerite, adieux déchirants et arrivée à Saint-Flour)
+## Scan #143 — `20251126_110441.jpg` — Vue 143
+- **Titre** : Recueillement au cimetière de Millau avec Marguerite, adieux déchirants et arrivée à Saint-Flour
 - **Date** : 5 février 1917
 - **Lieu** : Millau, Séverac, Marvejols, Saint-Flour (Aveyron / Lozère / Cantal)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La motivation symbolique de la visite au cimetière n’est pas énoncée..
 
 ```text
  1 | Lundi 5          Févr. /17
@@ -6336,7 +6791,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Après déjeuner, sorti av. Mte et ts 2
  5 | seuls venus cimetière — —
  6 | Pris renseignements gare. Décidé ne partir
- 7 | qu'à 5h 30 s. soir.
+ 7 | qu'à 5h 33 soir.
  8 | Terminé journée + douce intimité.
  9 | Quitté maison vers 5h s. Adieux, déchirants.
 10 | Pierre m'attendait devant gare.
@@ -6346,13 +6801,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | Arrêt à ttes les stations.
 15 | Neige partout.
 16 | Arrivé Saint-Flour à minuit 30 s.
-17 | [ — Remboursé à Mte cadeaux enfants Uncins : 6 f
+17 | [ — Remboursé à Mte cadeaux enfants Vincens : 6 f
 18 | Gift à la bonne de Mte : 3 f — ]
 ```
 
 - *l. 3* : **3 gd** *abbr. pro* grand.
 - *l. 4* : **4 ts** *abbr. pro* tous. **4 Mte** *scil.* Marguerite (Calmels).
-- *l. 7* : **7 s.** *abbr. pro* soir.
 - *l. 9* : **9 s.** *abbr. pro* soir.
 - *l. 14* : **14 ttes** *abbr. pro* toutes.
 - *l. 17* : **17** *in marg. cum unco* (comptes). **17 Mte** *scil.* Marguerite (Calmels).
@@ -6360,16 +6814,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~4--5 sorti av. Mte et ts 2 seuls venus cimetière — — :** Démarche hautement symbolique : avant de repartir pour le front, Hippolyte conduit sa fiancée seule avec lui au cimetière de Millau sur le caveau de la famille Combes-Alric pour sceller leurs fiançailles devant ses morts. **l.~18 Gift à la bonne de Mte : 3 f :** Emprunt anglais (*gift*, étrenne).
+**l.~4--5 :** La venue au cimetière à deux est explicite. Le caveau visité et la volonté de « sceller leurs fiançailles devant ses morts » ne sont pas écrits. **l.~18 Gift :** Emprunt anglais pour un don ou une gratification.
 
 > **l.~13--16 départ 6h 15... Arrivé Saint-Flour à minuit 30 s. :** Pour remonter de Millau vers Paris, le train emprunte la ligne des Causses par Séverac-le-Château et Marvejols jusqu'aux hauts plateaux enneigés de la Margeride et de la Planèze de Saint-Flour (Cantal), où la correspondance nocturne est interrompue.
 
 ---
 
-## Scan #144 — `20251126_110549.jpg` — Folio 72 recto
-- **Titre** : FOLIO 72 RECTO (Nuit glaciale en gare de Saint-Flour et traversée de l'Auvergne sous les flocons)
+## Scan #144 — `20251126_110549.jpg` — Vue 144
+- **Titre** : Nuit glaciale en gare de Saint-Flour et traversée de l'Auvergne sous les flocons
 - **Date** : 6 février 1917 (matin et après-midi)
 - **Lieu** : Saint-Flour, Brioude, Clermont-Ferrand, Gannat, Gien, Montargis
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Menu détail de ponctuation et chiffres horaires surchargés..
 
 ```text
  1 | Mardi 6.          Février 1917
@@ -6406,10 +6863,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
-## Scan #145 — `20251126_110601.jpg` — Folio 72 verso
-- **Titre** : FOLIO 72 VERSO (Traversée de Paris en métro de la gare de Lyon à la gare du Nord et train de nuit vers Amiens)
+## Scan #145 — `20251126_110601.jpg` — Vue 145
+- **Titre** : Traversée de Paris en métro de la gare de Lyon à la gare du Nord et train de nuit vers Amiens
 - **Date** : 6 février 1917 (suite, soir)
 - **Lieu** : Corbeil-Essonnes, Paris (Gare de Lyon, Bastille, Gare du Nord)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Minute de départ du train de 7 h, dernier chiffre moins net..
 
 ```text
  1 | Mardi 6 (suite)          Févr. /17
@@ -6439,14 +6899,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~10--12 Pris métro gare Lyon, changé à Bastille, et arrivé gare Nord assez à temps pour prendre train 7h 19 :** En quarante-neuf minutes à peine, avec ses bagages, Hippolyte Combes réussit la jonction entre la gare de Lyon et la gare du Nord via la ligne 1 et la ligne 5 du métropolitain parisien.
 
-> **l.~16 Brioude, buffet, rhum : 60 c :** Unique dépense de la journée, prise à 8 heures du matin au buffet de la gare de Brioude pour se réchauffer après la nuit glaciale de Saint-Flour.
+> **l.~16 Brioude, buffet, varia : 60 c :** Dépense enregistrée au bas de la page. Le contenu et le motif de la consommation ne sont pas précisés.
 
 ---
 
-## Scan #146 — `20251126_110616.jpg` — Folio 73 recto
-- **Titre** : FOLIO 73 RECTO (Nuit glaciale à Amiens, combat aérien contre deux Taubes à Louvencourt et retour chez les Carluvant)
+## Scan #146 — `20251126_110616.jpg` — Vue 146
+- **Titre** : Nuit glaciale à Amiens, combat aérien contre deux Taubes à Louvencourt et retour chez les Carluvant
 - **Date** : 7 février 1917 (nuit et matin)
 - **Lieu** : Amiens, Doullens, Louvencourt, Acheux-en-Amiénois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom de famille Carluvant : comparer l’ensemble des occurrences ; appareil ne doit pas déduire la foliation du numéro de scan..
 
 ```text
  1 | Merc. 7 —          Février 1917
@@ -6482,21 +6945,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~18--22 Arrivé à Acheux, vers 1h 1/2 s... Après m'être rasé, lavé, brossé, sorti :** Cette dernière ligne du Folio 73 recto s'enchaîne directement et sans la moindre solution de continuité avec la première ligne du Folio 73 verso (Scan #147 : « Merc. 7 (suite) / En me rendant à notre office, Mme Delille, qui sur le seuil, m'a appelé et m'a appris que Cap. Williams a quitté Acheux pour Hérissart »).
+**l.~22 :** La sortie de la dernière ligne se poursuit au Scan #147. Les numéros 146 et 147 désignent des photographies ; ils ne prouvent pas à eux seuls les faces d’un « folio 73 ».
 
 > **l.~14--17 En gare de Louvencourt, 2 taubes, plané, évolué ciel bleu, juste au-dessus voie. Obus éclataient tout autour de ces avions et taches blanches :** Profitant du ciel pur de l'anticyclone hivernal du 7 février 1917, les avions de reconnaissance allemands (désignés génériquement par les soldats alliés sous le nom de *Taubes*) survolent la voie ferrée stratégique de Doullens à Albert sous le tir des batteries antiaériennes britanniques (formant des flocons de fumée blanche dans l'azur).
 
 ---
 
-## Scan #147 — `20251126_110628.jpg` — Folio 73 verso
-- **Titre** : FOLIO 73 VERSO (Déménagement imprévu d'Acheux à Hérissart sous un gel intense)
+## Scan #147 — `20251126_110628.jpg` — Vue 147
+- **Titre** : Déménagement imprévu d'Acheux à Hérissart sous un gel intense
 - **Date** : 7 février 1917 (après-midi)
 - **Lieu** : Acheux, Raincheval, Puchevillers, Hérissart (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Heure d’arrivée de l’auto : chiffre initial surchargé.; Lettres biffées avant Hérissart non restituées..
 
 ```text
  1 | Merc. 7 (suite)          Février 1917
  2 | En me rendant à notre office,
- 3 | Mme Delille, qui sur le seuil, m'a appelé et
+ 3 | Mme Delille, qui au guichet, m'a appelé et
  4 | m'a appris que Cap. Williams a quitté Acheux
  5 | pour ⟦...⟧ Hérissart. Venu aussitôt Mission
  6 | française, où trouvé un mot du Cap. W.
@@ -6511,7 +6977,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | & Puchevillers.
 16 | Bise glaciale. Froid intense.
 17 | Town Major m'a donné petite chambre, n° 7b,
-18 | 1er étage café Charlet, angle rue.
+18 | 1er étage café Charlet, angle rue. De ma
 19 | fenêtre, as. belle vue sur la place et église.
 20 | Pleine lune brillait entre gds arbres.
 21 | Changement plutôt pénible d'habitudes.
@@ -6532,14 +6998,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~5 ⟦...⟧ Hérissart :** Trois lettres biffées d'un trait épais avant « Hérissart ». **l.~12--13 Quitté village d'Acheux et surtout maison avec 1 serrement de cœur :** Après quatre mois passés sous le toit hospitalier des Carluvant à Acheux, ce départ précipité au retour de permission redouble le choc psychologique de la rentrée au front.
 
-> **l.~4--17 quitté Acheux pour Hérissart / n° 7b :** Ce déplacement du bureau d'achats d'Acheux vers Hérissart (et de la Mission française vers Toutencourt) correspond à la réorganisation des arrières de la *Fifth Army* en février 1917. Le cantonnement n° 7b d'Hippolyte est situé au premier étage d'un estaminet à l'angle de la place de l'église Saint-germin d'Hérissart.
+> **l.~17--19 :** La chambre n° 7b est au premier étage du café Charlet ; la place et l’église sont visibles de la fenêtre. Le carnet ne nomme pas cette église et ne la situe pas dans le café. Le rattachement du déplacement à une réorganisation précise de la Fifth Army exige une source distincte.
 
 ---
 
-## Scan #148 — `20251126_110646.jpg` — Folio 74 recto
-- **Titre** : FOLIO 74 RECTO (Nuit glaciale à Hérissart, comptes de retour et premier jeudi de repos)
+## Scan #148 — `20251126_110646.jpg` — Vue 148
+- **Titre** : Nuit glaciale à Hérissart, comptes de retour et premier jeudi de repos
 - **Date** : 7 (fin) – 8 février 1917
 - **Lieu** : Hérissart (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Graphie de gelée glacée redondante mais conservée..
 
 ```text
  1 | Merc. 7 (fin)          Février 1917
@@ -6548,7 +7017,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Après dîner, retourné chambre vers 9h.
  5 | Vitres recouvertes très épaisse gelée glacée.
  6 | Froid extrt rigoureux.
- 7 | [ Train & Paris, métro : 1 f.
+ 7 | [ Dîner à Paris, métro : 1 f.
  8 | Amiens, Y.M.C.A. : 1 f. 15 c.
  9 | Touché solde Mission fr., Acheux : 78 f. 75
 10 | Gift aux Carluvant, pour
@@ -6576,16 +7045,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~6 extrt :** Abréviation par suspension et lettres suscrites pour *extrêmement*. **l.~7--11 [ Train & Paris... ] :** Encadré comptable précédé d'un grand crochet vertical sur la marge gauche : on note le franglais spontané de la ligne 10–11 (« Gift aux Carluvant, pour mon lunch & room : 5 f. ») et le montant exact de la solde de janvier (31 jours + indemnités = 78 fr. 75). **l.~11--12 Trait séparateur :** Epaisse ligne horizontale tirée à la plume entre le mercredi 7 et le jeudi 8.
+**l.~7--11 :** Grand crochet comptable ; « room » est ajouté sous « lunch ». La solde portée est 78 f 75. Le calcul « 31 jours + indemnités » n’est pas écrit. **l.~11--12 :** Trait séparateur entre les deux dates.
 
-> **l.~9 solde Mission fr., Acheux : 78 f. 75 :** Dernière solde perçue à l'antenne d'Acheux avant le rattachement administratif au bureau de la Mission française de la Ve Armée installé à Toutencourt (voir Scan #150).
+> **l.~9 :** Solde reçue à la Mission française d’Acheux. L’information sur les paiements des 3 et 18 du mois vient le 9 février au Scan #150.
 
 ---
 
-## Scan #149 — `20251126_110659.jpg` — Folio 74 verso
-- **Titre** : FOLIO 74 VERSO (Promenade à pied sur la neige durcie jusqu'à Rubempré)
+## Scan #149 — `20251126_110659.jpg` — Vue 149
+- **Titre** : Promenade à pied sur la neige durcie jusqu'à Rubempré
 - **Date** : 8 (suite) – 9 février 1917 (matin)
 - **Lieu** : Hérissart, Rubempré (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Durée de marche : chiffres et unité difficiles ; 45 m ou 2 h non départagés..
 
 ```text
  1 | Jeudi 8 (suite)          Février 1917
@@ -6597,11 +7069,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | Région, moins banale qu'environs d'Acheux :
  8 | vallonnements, petites hauteurs, couronnées de
  9 | moulins à vent.
-10 | 45 m. de marche.
+10 | [durée incertaine] de marche.
 11 | 1 h. ds ma chambre, où tt rangé et
 12 | terminé installation.
 13 | Froid toujours très vif.
-14 | Couché vers 9h s. — 1 peu de courbature, lit
+14 | Couché vers 9h s. — 1 peu de lecture, lit
 15 | Ven. 9 — Nuit toujours excessvt froide.
 16 | Gelé très fort. Ciel clair, pleine lune,
 17 | vif éclat.
@@ -6611,22 +7083,26 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 2* : **2 mervt** *abbr. pro* merveilleusement.
 - *l. 3* : **3 j'à** *abbr. pro* jusqu'à. **3 gde** *abbr. pro* grande.
+- *l. 10* : **10** *lect. incert. in ms.*
 - *l. 11* : **11 ds** *abbr. pro* dans. **11 tt** *abbr. pro* tout.
 - *l. 14* : **14 s.** *abbr. pro* soir.
 - *l. 15* : **15 Ven.** *scil.* Vendredi. **15 excessvt** *abbr. pro* excessivement.
 
 * * *
 
-**l.~2 mervt :** Abréviation habituelle pour *merveilleusement*. **l.~7--9 Région, moins banale qu'environs d'Acheux :** Toujours en quête de pittoresque, l'œil du promeneur apprécie le relief plus vallonné d'Hérissart et de Rubempré et la silhouette des moulins à vent. **l.~18--19 trop froid pour pouvoir écrire chambre :** Indication matérielle précieuse sur les conditions mêmes de rédaction du carnet : privée de feu, la chambre n° 7b oblige Hippolyte à rédiger ses notes au bureau-mess ou dans la salle du café.
+**l.~3 j’à gde profondeur :** Abréviation de « jusqu’à grande profondeur », non de « j’ai gelé ». **l.~10 :** Durée mal assurée, laissée non établie. **l.~18--19 :** Le froid empêche d’écrire dans la chambre. Le lieu exact de rédaction de cette page n’est pas indiqué.
 
 > **l.~4 Rubempré :** Gros village situé à 3 km au sud d'Hérissart sur le plateau crayeux entre la Somme et l'Authie.
 
 ---
 
-## Scan #150 — `20251126_110726.jpg` — Folio 75 recto
-- **Titre** : FOLIO 75 RECTO (Visite à la Mission de Toutencourt et course au bois d'Aveluy et Martinsart)
+## Scan #150 — `20251126_110726.jpg` — Vue 150
+- **Titre** : Visite à la Mission de Toutencourt et course à Martinsart
 - **Date** : 9 (suite) – 10 février 1917 (matin)
 - **Lieu** : Hérissart, Toutencourt, Martinsart (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Patronyme Croughton.; Nom ou qualité du général reçu à Martinsart, lecture d’artrie non établie..
 
 ```text
  1 | — Vendredi 9 (suite) —          Février 1917
@@ -6635,7 +7111,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | que désormais serai administré par l'armée et
  5 | payé les 3 et 18 de chaque mois.
  6 | Retour sur 1 lorry.
- 7 | Écrit salle café au-dessous ma chambre.
+ 7 | Écrit salle café maison où chambre.
  8 | Vers 6h s., avec Cap. W., ds les fermes
  9 | pour acheter paille & foin.
 10 | Sam. 10.
@@ -6648,7 +7124,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | Dévalé routes en pente. Des 2 côtés, champs couverts
 18 | de neige durcie. Soleil se lève, de + en + chaud.
 19 | Au château de Martinsart, reçus par
-20 | un jeune lieutt, très aimable.
+20 | un génal [Volké ?], très aimable.
 21 | Village, rempli de troupes anglaises.
 ```
 
@@ -6658,19 +7134,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 10* : **10 Sam.** *scil.* Samedi.
 - *l. 12* : **12 M.T.** *angl.* Motor Transport.
 - *l. 16* : **16 breakfast** *angl. in ms.*
+- *l. 20* : **20** *lect. incert. in ms.*
 
 * * *
 
-**l.~12--13 Lignes de M.T., at the end of the road :** Passage spontané du français à l'anglais au sein d'une même phrase ; *M.T.* désigne le *Mechanical Transport* (parc automobile de l'A.S.C.). **l.~7 Écrit salle café au-dessous ma chambre :** Confirmation codicologique directe de la note de la veille (Scan #149, l.~19) : chassé de sa chambre par le gel, Hippolyte descend écrire son carnet et ses lettres près du poêle de l'estaminet.
+**l.~12--13 M.T. :** Abréviation de *Motor Transport*, appellation de l’A.S.C. attestée notamment par le *Supplement to the London Gazette*, 9 mars 1917, p.~2447. « at the end of the road » est écrit en anglais. **l.~7 :** Il écrit dans la salle du café de sa maison ; le poêle n’est pas mentionné. **l.~20 :** Nom ou qualité après « génal » non établi.
 
-> **l.~3--5 Bureau Mission fr. : appris que désormais serai administré par l'armée :** À la suite du rattachement de son service au quartier général de la *Fifth Army* (dont la Mission française siège à Toutencourt), la solde des interprètes est désormais versée par quinzaine (les 3 et 18 du mois), comme on le vérifie le 18 février (Scan #156) et le 3 mars (Scan #162).
+> **l.~3--5 :** Il apprend qu’il sera désormais administré par l’armée et payé les 3 et 18 du mois. Ce document établit la règle notée par Combes ; les paiements des Scans #156 et #162 en offrent des rapprochements internes.
 
 ---
 
-## Scan #151 — `20251126_110737.jpg` — Folio 75 verso
-- **Titre** : FOLIO 75 VERSO (Visite à son ancienne compagnie au bois d'Aveluy et combat aérien)
+## Scan #151 — `20251126_110737.jpg` — Vue 151
+- **Titre** : Visite à son ancienne compagnie au bois d'Aveluy et combat aérien
 - **Date** : 10 (suite) – 11 février 1917 (matin)
 - **Lieu** : Bois d'Aveluy, Senlis-le-Sec, Acheux, Hérissart (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Patronyme de Casteljau ; la fonction exacte de cet officier n’est pas donnée..
 
 ```text
  1 | Sam. 10 (suite)          Février 1917
@@ -6685,7 +7165,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | Au retour, arrêté au refilling point, où revu
 11 | Cap. Lovet. Charmant.
 12 | Rentrés vers 3h 1/2, par Senlis. A la miss. fr.
-13 | 2e corps, vu Cap. de Casteljau, économe & lettré.
+13 | 2e corps, vu Cap. de Casteljau, énorme & bête.
 14 | Passé par Acheux.
 15 | Soleil rouge disparaissait à l'horizon.
 16 | Nuit étoilée et sans lune.
@@ -6713,14 +7193,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~3--10 Cy / Lunché / N.C.O's & men / refilling point :** Concentration remarquable d'anglicismes militaires (*Cy* = *Company*, *N.C.O's & men* = sous-officiers et soldats, *refilling point* = point de ravitaillement quotidien des trains régimentaires). **l.~19 Ds le 1/2 du jour :** Graphie abrégée pour « Dans le milieu du jour ».
 
-> **l.~2--13 bois d'Aveluy / 2e corps, vu Cap. de Casteljau :** Le IIe Corps britannique (commandé par le lieutenant-général Claud Jacob au sein de la *Fifth Army*) tenait le secteur d'Aveluy–Thiepval–Ancre ; le capitaine de Casteljau dirigeait le détachement de la Mission militaire française auprès de ce corps d'armée.
+> **l.~12--13 :** Une Mission française du « 2e corps » est mentionnée à Senlis, avec la visite au capitaine de Casteljau. Sa fonction dans le détachement n’est pas précisée.
 
 ---
 
-## Scan #152 — `20251126_110753.jpg` — Folio 76 recto
-- **Titre** : FOLIO 76 RECTO (Excursion dominicale à Doullens et Auxi-le-Château chez M. Romert)
+## Scan #152 — `20251126_110753.jpg` — Vue 152
+- **Titre** : Excursion dominicale à Doullens et Auxi-le-Château chez M. Romert
 - **Date** : 11 février 1917 (suite)
 - **Lieu** : Toutencourt, Doullens, Auxi-le-Château (Somme / Pas-de-Calais)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Patronyme Romert.; Le millésime du rhum ne prouve ni provenance ni date d’acquisition..
 
 ```text
  1 | Dim. 11 —          — Février 1917 —
@@ -6755,14 +7238,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~9--12 Vu M. Romert... Vieux célibataire, héritier de 3 générations :** Esquissé en trois lignes, ce portrait digne d'un roman de Balzac ou de Maupassant montre le goût d'Hippolyte Combes pour l'observation sociale des notables de province rencontrés au fil de ses réquisitions. **l.~18--20 [ Doullens... ] :** Encadré de menues dépenses dominicales (papeterie, cartes postales, chocolat et biscuits Petit Beurre).
 
-> **l.~9--10 rhum (1870) et kirsch Forêt Noire :** Détail savoureux d'histoire sociale : un propriétaire d'Auxi-le-Château régale l'interprète d'un rhum datant de la guerre franco-prussienne de 1870 et d'un kirsch badois d'avant-guerre.
+> **l.~9--10 :** Le rhum est suivi du millésime 1870 ; le kirsch de la mention Forêt Noire. La page ne donne ni date d’achat ni lieu de production précis du rhum.
 
 ---
 
-## Scan #153 — `20251126_110804.jpg` — Folio 76 verso
-- **Titre** : FOLIO 76 VERSO (Visite de la minoterie de Méaulte et silhouettes des moulins d'Hérissart)
+## Scan #153 — `20251126_110804.jpg` — Vue 153
+- **Titre** : Visite de la minoterie de Méaulte et silhouettes des moulins d'Hérissart
 - **Date** : 12 février 1917
-- **Lieu** : Hérissart, Méaulte, Ville-sur-Ancre, Morlancourt, Ribemont (Somme)
+- **Lieu** : Hérissart, Méaulte, Ville, Treux, Méricourt, Ribemont (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La date de l’incident antérieur de Morlancourt doit être collationnée dans sa pièce, sans choix par calendrier..
 
 ```text
  1 | Lundi 12 —          Février 1917
@@ -6775,7 +7261,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | et ces villages où vécu heures bien vides & tristes.
  9 | Ciel mort. Des champs couverts de neige, s'élevait
 10 | buée grise.
-11 | En approchant de Hérissart, cf. nombreux
+11 | En approchant de Hérissart, vu nombreux
 12 | moulins à vent, détachant leurs ailes squelettiques
 13 | sur ciel gris.
 14 | Après-midi, liberté.
@@ -6797,16 +7283,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~6--8 Ville, Treux & Méricourt. Ribemont... région qui m'est si familière :** Renvoi interne majeur à l'histoire antérieure au carnet : au printemps 1916 (avant juillet 1916), Hippolyte Combes avait cantonné dans la vallée de l'Ancre autour de Méricourt-l'Abbé, Treux, Ribemont et Morlancourt (où eut lieu l'incident du 24 mars 1916). **l.~11--13 moulins à vent, détachant leurs ailes squelettiques sur ciel gris :** Image poétique saisissante.
+**l.~6--8 :** Combes reconnaît une région familière et des villages où il a vécu. La date d’un incident de Morlancourt relève d’une pièce antérieure ; la lecture « 24 mars 1916 » ne doit pas être affirmée ici sans sa collation. **l.~11--13 :** L’image des ailes squelettiques est autographe.
 
-> **l.~4--5 Méaulte / magnifique minoterie :** Les grands moulins hydrauliques et à vapeur sur l'Ancre au sud d'Albert (Méaulte, Dernancourt, Ville-sur-Ancre) servaient à l'approvisionnement en farine et en son des boulangeries de campagne britanniques.
+> **l.~4--5 Méaulte, magnifique minoterie :** Visite explicitement notée. La page ne dit pas quel service militaire utilise cette minoterie, ni quels produits elle fournit.
 
 ---
 
-## Scan #154 — `20251126_110831.jpg` — Folio 77 recto
-- **Titre** : FOLIO 77 RECTO (Courses à Authie, Bus et Acheux : arabesques de givre et repas à l'Hôtel de Ville)
+## Scan #154 — `20251126_110831.jpg` — Vue 154
+- **Titre** : Courses à Authie et Acheux, arabesques de givre et repas à l’Hôtel de Ville
 - **Date** : 13 – 14 février 1917
-- **Lieu** : Hérissart, Authie, Bus-lès-Artois, Gézaincourt, Acheux, Toutencourt (Somme)
+- **Lieu** : Hérissart, Authie, Puchevillers, Gouin[?], Acheux, Toutencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Toponyme après Authie à la ligne 16, lu Gouin avec réserve..
 
 ```text
  1 | Mardi 13 —          Février 1917
@@ -6824,7 +7313,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | Journée, beau soleil fait en plusieurs endroits
 14 | fondre glace & neige.
 15 | Après breakfast, partis en auto : Authie,
-16 | Gouin et Acheux, où pris repas au café
+16 | Gouin[?] et Acheux, où pris repas au café
 17 | de l'Hôtel de Ville (prix exorbitants).
 18 | Au retour, arrêt à Toutencourt. Y revenus
 19 | après tea, vers 6h s., pour rencontrer
@@ -6836,6 +7325,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 9* : **9 extrt** *abbr. pro* extrêmement.
 - *l. 10* : **10 Merc.** *scil.* Mercredi.
 - *l. 15* : **15 breakfast** *angl. in ms.*
+- *l. 16* : **16 Gouin** *lect. incert. in ms.*
 - *l. 19* : **19 s.** *abbr. pro* soir. **19 tea** *angl. in ms.*
 - *l. 21* : **21 mervt** *abbr. pro* merveilleusement.
 
@@ -6843,14 +7333,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~11--12 vitres embellies d'arabesques magnifiques :** Notation esthétique récurrente (reprise le 16 février au Scan #155 : « vitres ornées d'admirables dessins de glace »). **l.~17 (prix exorbitants) :** Parenthèse indignée du gestionnaire économe devant l'inflation des prix pratiqués par les cafetiers de la zone des armées britanniques.
 
-> **l.~16--17 Acheux, où pris repas au café de l'Hôtel de Ville :** Une semaine après avoir quitté sa pension chez les Carluvant, Hippolyte revient à Acheux en visiteur et découvre le coût prohibitif des auberges commerciales destinées aux officiers de passage.
+> **l.~16--17 :** Repas au café de l’Hôtel de Ville d’Acheux, suivi de la parenthèse « prix exorbitants ». La clientèle visée par l’établissement et la découverte du coût par Combes ne sont pas documentées ici.
 
 ---
 
-## Scan #155 — `20251126_110914.jpg` — Folio 77 verso
-- **Titre** : FOLIO 77 VERSO (Visite à la mairie d'Hérissart et tournée au château de Beaucourt)
+## Scan #155 — `20251126_110914.jpg` — Vue 155
+- **Titre** : Visite au maire d’Hérissart et recherche de paille et de foin à Beaucourt
 - **Date** : 15 – 16 février 1917
-- **Lieu** : Hérissart, Toutencourt, Raincheval, Puchevillers, Beaucourt-en-Santerre / sur-l'Hallue (Somme)
+- **Lieu** : Hérissart, Toutencourt, Raincheval, Puchevillers ; Beaucourt (commune à identifier)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Beaucourt : commune non identifiée avec certitude.; Verbe de la ligne 17 (Roulé/Rôdé) à reprendre..
 
 ```text
  1 | Jeudi 15 —          Février 1917 —
@@ -6867,8 +7360,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | rues en pente, car couvertes de glace.
 13 | Vendredi 16 — Au réveil, trouvé encore
 14 | vitres ornées d'admirables dessins de glace.
-15 | Mais, ds la journée, température se
-16 | fait douce et dégel très rapide.
+15 | Mais, ds la journée, température, de
+16 | + en + douce et dégel très rapide.
 17 | Toute matinée, en auto. Roulé 2 ou
 18 | 3 h. ds le village de Beaucourt, fermes
 19 | et château, pour trouver paille & foin.
@@ -6883,16 +7376,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~8 promené village, grand costume. Vu le maire :** Détail vestimentaire savoureux : pour aller faire sa visite protocolaire au maire d'Hérissart et se présenter aux habitants, Hippolyte revêt sa grande tenue d'interprète (vareuse à col orné des sphinx, bottes et éperons, telle qu'on la voit sur le portrait `hippolyte_interprete_1.jpg`).
+**l.~8 grand costume :** Expression autographe à conserver. La description détaillée de la vareuse, des bottes et des éperons vient d’une autre source iconographique et ne décrit pas nécessairement la tenue de ce jour.
 
-> **l.~18--19 village de Beaucourt, fermes et château :** Il s'agit ici de Beaucourt-sur-l'Hallue (canton de Villers-Bocage, à 7 km au sud-ouest d'Hérissart, doté d'un château et de grandes fermes intactes), et non de Beaucourt-sur-l'Ancre entièrement rasé par les combats de novembre 1916.
+> **l.~18 Beaucourt :** Toponyme sans déterminant. Beaucourt-sur-l’Hallue est une possibilité géographique ; le château et les fermes ne suffisent pas à exclure à eux seuls tous les autres Beaucourt. Identification laissée ouverte.
 
 ---
 
-## Scan #156 — `20251126_110930.jpg` — Folio 78 recto
-- **Titre** : FOLIO 78 RECTO (Grand dégel de février, fondrières de boue et prône du dimanche à Toutencourt)
+## Scan #156 — `20251126_110930.jpg` — Vue 156
+- **Titre** : Grand dégel de février, fondrières de boue et prône du dimanche à Toutencourt
 - **Date** : 17 – 18 février 1917
 - **Lieu** : Hérissart, Toutencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Motif de la demande relative aux Anglais à Toulouse non donné..
 
 ```text
  1 | Sam. 17 —          Février 1917
@@ -6917,7 +7413,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 20 | Église du village de Toutencourt. Assisté
 21 | partie cérémonie, entendu prône —
 22 | Retour à Hérissart sur un lorry.
-23 | Aujourd'hui, me suis fait raser. Retrouvé
+23 | Aujourd'hui, me suis tt à fait ressaisi. Retrouvé
 24 | parfaite santé morale. — [ A Toutencourt,
 25 | solde : 68 f. 25 c. ]
 ```
@@ -6928,6 +7424,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 13* : **13 ds** *abbr. pro* dans.
 - *l. 14* : **14 ds** *abbr. pro* dans.
 - *l. 22* : **22 lorry** *angl. in ms.*
+- *l. 23* : **23 tt** *abbr. pro* tout.
 - *l. 24* : **24** *in marg. cum unco* (comptes).
 - *l. 25* : **25 f.** *abbr. pro* franc(s). **25 c.** *abbr. pro* centimes.
 
@@ -6935,14 +7432,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~5 correspce :** Abréviation par contraction (*correspondance*). **l.~14--15 Puis enfin rester ds ma chambre, quoique sans feu :** Première fois depuis son arrivée à Hérissart le 7 février que le redoux lui permet de se tenir dans sa chambre du n° 7b sans y geler. **l.~24--25 [ A Toutencourt, solde : 68 f. 25 c. ] :** Conformément à la nouvelle règle notée le 9 février (Scan #150), il touche sa solde le 18 du mois.
 
-> **l.~17--19 Mission fr. Vth Armée. Demandé renseignements au sujet cantonnement d'anglais, à Toulouse :** Curieux détail : Hippolyte se renseigne auprès de la Mission française de la Ve Armée sur d'éventuels détachements ou bases britanniques dans la région de Toulouse (où il espérait peut-être obtenir une affectation plus proche de sa future épouse).
+> **l.~17--19 :** Demande de renseignements sur le cantonnement d’Anglais à Toulouse à la Mission française de la Vth Armée. Aucun souhait d’affectation personnelle n’est exprimé dans cette notation.
 
 ---
 
-## Scan #157 — `20251126_110943.jpg` — Folio 78 verso
-- **Titre** : FOLIO 78 VERSO (Déménagement dans l'ancienne chambre humide du capitaine Williams)
+## Scan #157 — `20251126_110943.jpg` — Vue 157
+- **Titre** : Déménagement dans l'ancienne chambre humide du capitaine Williams
 - **Date** : 19 – 20 février 1917
 - **Lieu** : Hérissart, Fréchencourt, Bavelincourt, Pierregot (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : État exact de la logeuse : malade, sans diagnostic..
 
 ```text
  1 | 19 Lundi — (En caisse : 225 f. 95)          Février 1917
@@ -6987,14 +7487,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1 (En caisse : 225 f. 95) :** Pointage d'encaisse inséré directement dans l'en-tête après l'encaissement de la solde de la veille. **l.~12 briques du floor :** Hybridation franco-anglaise spontanée (*floor* pour « carrelage / sol »). **l.~14 M.O. :** Sigle militaire anglais pour *Medical Officer* (médecin militaire britannique).
 
-> **l.~13--14 prop.re du n° 104, malade... Allé chercher curé et M.O. :** Devant la gravité de l'état de sa logeuse du no~104, Hippolyte se dévoue pour aller quérir à la fois le curé de la paroisse et le médecin militaire britannique (*Medical Officer*).
+> **l.~13--14 :** La propriétaire du n° 104 est dite malade ; Combes va chercher le curé et le M.O. La gravité précise de la maladie et l’administration éventuelle de sacrements ne sont pas indiquées.
 
 ---
 
-## Scan #158 — `20251126_111008.jpg` — Folio 79 recto
-- **Titre** : FOLIO 79 RECTO (Course à Doullens et Auxi-le-Château sous le brouillard : mandat pour un Espagnol)
+## Scan #158 — `20251126_111008.jpg` — Vue 158
+- **Titre** : Course à Doullens et Auxi-le-Château sous le brouillard : mandat pour Mme Spagnol
 - **Date** : 21 – 23 février 1917
 - **Lieu** : Hérissart, Doullens, Auxi-le-Château, Puchevillers, Molliens-au-Bois (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Lien causal entre achat de semelles et humidité de la chambre non exprimé..
 
 ```text
  1 | 21 Merc. —          Février 1917
@@ -7007,8 +7510,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Arrêt à Doullens, 1h 1/2, pour lunch.
  9 | Retour par Puchevillers, routes abomles.
 10 | Impressions de solitude & détresse morale.
-11 | [ A Doullens, mandat de 42 f. pour un
-12 | Espagnol, Nice — —
+11 | [ A Doullens, mandat de 42 f. pour Mme
+12 | Spagnol, Nice — —
 13 | A Doullens : 2 œufs & café : 1 f. —
 14 | 1 pr. de semelles liège : 0 f. 80 ]
 15 | Après-midi, à Hérissart, village 1 peu
@@ -7030,23 +7533,26 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 6* : **6 as.** *abbr. pro* assez.
 - *l. 8* : **8 1/2** *scil.* demi / moitié. **8 lunch** *angl. in ms.*
 - *l. 9* : **9 abomles** *abbr. pro* abominables.
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 f.** *abbr. pro* franc(s).
+- *l. 11* : **11** *in marg. cum unco* (comptes). **11 Mme** *abbr. pro* Madame.
 - *l. 13* : **13 f.** *abbr. pro* franc(s).
 - *l. 14* : **14 pr** *abbr. pro* pour. **14 f.** *abbr. pro* franc(s).
 - *l. 20* : **20 tt** *abbr. pro* tout.
 
 * * *
 
-**l.~9 abomles :** Abréviation pour *abominables*. **l.~11--14 [ A Doullens, mandat de 42 f. pour un Espagnol, Nice... semelles liège : 0 f. 80 ] :** L'achat d'une paire de semelles de liège répond directement à l'humidité glaciale des briques du *floor* de sa nouvelle chambre décrite au Scan #157. **l.~22 Encore = temps :** Le signe mathématique $=$ abrège l'adjectif *même*.
+**l.~9 abomles :** Abréviation de *abominables*. **l.~14 :** Achat de semelles de liège ; son rapprochement avec la chambre humide du Scan #157 reste une interprétation. **l.~22 = :** Signe utilisé pour « même ».
 
-> **l.~11--12 mandat de 42 f. pour un Espagnol, Nice :** Règlement postal de 42 francs envoyé depuis le bureau de poste de Doullens.
+> **l.~11--12 mandat de 42 f. pour Mme Spagnol, Nice :** Règlement postal de 42 francs envoyé depuis le bureau de poste de Doullens à sa tante Thérèse Spagnol à Nice (déjà destinataire d'un télégramme le 31 janvier, Scan #136).
 
 ---
 
-## Scan #159 — `20251126_111019.jpg` — Folio 79 verso
-- **Titre** : FOLIO 79 VERSO (Promenades à Contay et Mirvaux : premières sensations de printemps)
+## Scan #159 — `20251126_111019.jpg` — Vue 159
+- **Titre** : Promenades à Contay et Mirvaux : premières sensations de printemps
 - **Date** : 24 – 26 février 1917
 - **Lieu** : Hérissart, Contay, Mirvaux, Toutencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Titre et provenance du roman non donnés..
 
 ```text
  1 | 24 Samedi —          Fév. 1917
@@ -7065,7 +7571,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | bois à l'horizon. Air encore froid.
 15 | Village où ns sommes exilés, absolt
 16 | perdu sur hauteurs — —
-17 | 26 L. — Jour entier de liberté. Cap. W., mal.
+17 | 26 L. — Jour entier de liberté. Cap. W., seul
 18 | parti vers 11h, allé à Senlis & Martinsart,
 19 | ne rentré qu'à 6h s.
 20 | Temps beau, soleil très agréable 1/2 journée.
@@ -7090,16 +7596,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~10 1ère sensation de printemps proche :** Apparition du thème printanier qui va orchestrer les deux derniers mois du carnet au milieu des giboulées tardives. **l.~21 lu English novel :** Hippolyte entretient quotidiennement sa maîtrise littéraire de l'anglais par la lecture de romans britanniques empruntés aux officiers ou au Y.M.C.A.
+**l.~21 lu English novel :** Mention d’un roman anglais, sans titre, fréquence de lecture ni origine du livre. **l.~24--25 :** La pleine lune est une observation consignée ; elle ne doit pas être rectifiée silencieusement à partir d’éphémérides.
 
-> **l.~17--19 Cap. W., mal. parti vers 11h, allé à Senlis & Martinsart :** Tandis que la 7e et la 2e Division australienne avancent prudemment dans la vallée de l'Ancre à la suite du premier décrochage allemand (24–25 février 1917, abandon de Serre, Miraumont et Pys), le capitaine Williams se rend seul dans le secteur avancé de Martinsart, laissant à Hippolyte une journée entière de liberté.
+> **l.~17--19 :** Sortie du capitaine Williams à Senlis et Martinsart. Le carnet ne relie pas cette course à une opération australienne précise. L’ancienne mention d’une 7e Division australienne est anachronique : l’Australian War Memorial, notice du 2/4th Field Regiment (U54394), date la décision de former cette division de février 1940.
 
 ---
 
-## Scan #160 — `20251126_111035.jpg` — Folio 80 recto
-- **Titre** : FOLIO 80 RECTO (Rage de dents du capitaine Williams et passage de la cavalerie indienne à Hérissart)
+## Scan #160 — `20251126_111035.jpg` — Vue 160
+- **Titre** : Rage de dents du capitaine Williams et passage de la cavalerie indienne à Hérissart
 - **Date** : 27 – 28 février 1917
 - **Lieu** : Hérissart, Toutencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Régiments et divisions des cavaliers non identifiés par l’auteur..
 
 ```text
  1 | 27 Ma. —          — Février 1917
@@ -7136,14 +7645,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~4--5 Capt. W., tooth ache, au lit j'à 1h après-midi. D'où journée entière de liberté :** L'ironie pince-sans-rire du constat (la rage de dents du capitaine notée en anglais, *tooth ache*, saluée comme une aubaine de liberté pour l'interprète) est typique de l'humour discret du carnet. **l.~8 barbed wire :** Emprunt lexical anglais pour « fil de fer barbelé ».
 
-> **l.~7--8 Champs couverts de réseaux de barbed wire & creusés de tranchées :** Il s'agit des lignes de défense de seconde et troisième position (*Reserve Lines* et terrains d'exercice) aménagées autour de Toutencourt. **l.~15--18 régiments de cavalerie indienne :** Passage des lanciers du Bengale et du Deccan appartenant aux 4e (*Meerut*) et 5e (*Mhow*) Divisions de cavalerie indienne de la B.E.F. (qu'Hippolyte reverra les 17 et 21 mars, Scans #169 et #171), tenues prêtes à exploiter le repli allemand sur Bapaume et Péronne.
+> **l.~7--8 :** Réseaux de barbelés et tranchées sur la route de Toutencourt, sans désignation de leur rang dans le système défensif. **l.~15--18 :** Plusieurs régiments de cavalerie indienne traversent Hérissart ; lances et turbans sont décrits. Le carnet ne donne pas les unités ni les divisions.
 
 ---
 
-## Scan #161 — `20251126_111048.jpg` — Folio 80 verso
-- **Titre** : FOLIO 80 VERSO (Entrée en mars : château de Rubempré, halte au clair de lune et entretien avec le Dr Dubois)
+## Scan #161 — `20251126_111048.jpg` — Vue 161
+- **Titre** : Entrée en mars : Rubempré, halo lunaire et entretien avec le Dr Dubois
 - **Date** : 1er – 2 mars 1917
 - **Lieu** : Hérissart, Rubempré, Montigny, Fréchencourt, Contay, Toutencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Graphie du patronyme Dubois.; Halo lunaire lu au crop ; ne pas conserver Halte dans le texte ou le commentaire..
 
 ```text
  1 | 1er Jeudi —          — Mars 1917 —
@@ -7159,7 +7671,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | Soir, dîner pris, ressorti encore. Cheminé le
 12 | long route de Toutencourt. Mervx clair de
 13 | lune illuminant paysage. Ombre des arbres
-14 | projetée sur le sol. Halte lunaire. Impression
+14 | projetée sur le sol. Halo lunaire. Impression
 15 | de calme reposant & silence absolu.
 16 | 2 Vendredi. — Matinée, brouillard. Vers milieu
 17 | jour, soleil, mais pâle. Temps redevenu
@@ -7175,16 +7687,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~11--15 Mervx clair de lune... Halte lunaire :** L'un des sommets poétiques du carnet : marcheur nocturne solitaire, Hippolyte Combes compose une véritable prose cadencée (phrases nominales brèves : « Halte lunaire. Impression de calme reposant & silence absolu ») digne de Chateaubriand ou de Fromentin.
+**l.~8--10 Aux carrefours :** Localisation des grands crucifix. **l.~14 Halo lunaire :** Lecture du manuscrit, vérifiée au grossissement. L’ancienne lecture « Halte lunaire » transformait un phénomène lumineux en arrêt du promeneur.
 
-> **l.~3--5 château de Rubempré / Montigny & Fréchencourt :** Situés dans la vallée de l'Hallue au nord-est d'Amiens, Montigny-sur-l'Hallue et Fréchencourt abritaient des notables cultivés comme le Dr Dubois, avec qui l'universitaire toulousain retrouve le plaisir de la conversation intellectuelle.
+> **l.~19--20 :** Conversation longue et intéressante avec le Dr Dubois à Montigny. L’identité complète, le statut de notable et le contenu de la conversation ne sont pas donnés.
 
 ---
 
-## Scan #162 — `20251126_111105.jpg` — Folio 81 recto
-- **Titre** : FOLIO 81 RECTO (Retenue de solde pour permission à Toutencourt et chute de neige sur les arbres)
+## Scan #162 — `20251126_111105.jpg` — Vue 162
+- **Titre** : Retenue de solde pour permission à Toutencourt et chute de neige sur les arbres
 - **Date** : 3 – 5 mars 1917
 - **Lieu** : Hérissart, Rubempré, Puchevillers, Toutencourt, Montigny, Fréchencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Abréviation avant interprète, en Cte, à développer avec prudence.; Aucun règlement de solde ou ordre de relève joint à cette page..
 
 ```text
  1 | 3 Sam. —          — Mars 1917 —
@@ -7211,7 +7726,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 22 | Matin, course à Montigny & à Fréchencourt.
 23 | Après-midi, à Rubempré & Puchevillers. Au
 24 | retour, fait 500 m. à pied sur plateau —
-25 | Appris arrivée très prochaine off. australien, en Cte
+25 | Appris arrivée très prochaine off. australien, en Cte [?]
 26 | interprète, pour ns remplacer. Très content de quitter le Cap.
 27 | Nuit, mervt ciel étoilé, pleine lune — superbe.
 ```
@@ -7227,22 +7742,25 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 14* : **14 ds** *abbr. pro* dans.
 - *l. 16* : **16 Cap.** *abbr. pro* Capitaine.
 - *l. 18* : **18** *in marg. cum unco* (comptes). **18 c.** *abbr. pro* centimes.
-- *l. 25* : **25 off.** *abbr. pro* officier(s).
+- *l. 25* : **25 Cte** *lect. incert. in ms.* **25 off.** *abbr. pro* officier(s).
 - *l. 26* : **26 ns** *abbr. pro* nous. **26 Cap.** *abbr. pro* Capitaine.
 - *l. 27* : **27 mervt** *abbr. pro* merveilleusement.
 
 * * *
 
-**l.~11--12 retenue de 35 f. pour 7 jours de permission :** Détail comptable et réglementaire capital : l'administration militaire française retenait l'indemnité journalière de campagne (5 fr. par jour, soit 35 fr. pour 7 jours) pendant la durée des permissions hors de la zone des armées, ramenant la quinzaine de 78 fr. 75 à 43 fr. 75 ! **l.~26 Très content de quitter le Cap. :** Aveu sans fard du soulagement que lui procure l'annonce de sa séparation prochaine d'avec le capitaine Williams.
+**l.~11--12 :** Retenue de 35 francs pour sept jours de permission, soit cinq francs par jour par simple division. La nature réglementaire de cette somme n’est pas précisée. **l.~25--26 :** Abréviation avant « interprète » lue provisoirement « en Cte » ; ne pas rétablir silencieusement « avec son interprète ». Le contentement de quitter le capitaine est explicite.
 
-> **l.~25--26 arrivée 1er prochain off. australien, en Ce indépendte, pour ns remplacer :** Le Ier Corps d'armée australien et néo-zélandais (*I Anzac Corps*) prenant en charge le secteur d'Albert–Hérissart en mars 1917, ses propres compagnies de train (*Australian Army Service Corps*) viennent relever la 152e Compagnie britannique.
+> **l.~25--26 :** Une relève par un officier australien et un interprète est annoncée. Aucun numéro de compagnie ni ordre de bataille ne figure dans cette entrée ; le rattachement à la relève de la 152e compagnie doit être prouvé par d’autres documents.
 
 ---
 
-## Scan #163 — `20251126_111116.jpg` — Folio 81 verso
-- **Titre** : FOLIO 81 VERSO (Courses à Doullens avec Williams et promesse du maréchal des logis Grauger à Toutencourt)
+## Scan #163 — `20251126_111116.jpg` — Vue 163
+- **Titre** : Courses à Doullens avec Williams et promesse du maréchal des logis Grauger à Toutencourt
 - **Date** : 6 – 7 mars 1917
 - **Lieu** : Hérissart, Doullens, Toutencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Patronymes Grauger et Raucoule ; seconde lecture nominative souhaitable.; Fonction du maréchal des logis non nommée..
 
 ```text
  1 | 6 Mardi —          — Mars 1917 —
@@ -7286,16 +7804,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~4--5 Nouvel off. arrivé, australien, plutôt vulgaire :** Contraste savoureux avec l'enthousiasme de la veille : autant l'universitaire français apprécie les gentlemen d'Oxford ou de Cambridge, autant le sans-gêne rugueux de certains officiers coloniaux heurte sa réserve bourgeoise. **l.~15 Quête pour wounded : 50 c. :** Alternance linguistique au sein d'un même syntagme (« Quête pour *wounded* » suivi de la précision française « Hôpital auxiliaire »).
+**l.~4--7 :** Le jugement « plutôt vulgaire » porte sur l’officier australien ; « très sympathique » sur le nouvel interprète. Ces appréciations n’établissent pas une opposition générale entre Britanniques universitaires et officiers coloniaux. **l.~14--16 :** Le chlorate et la quête pour les wounded sont écrits.
 
-> **l.~8--11 Mission fr. / Cap. Raucoule / Maral logis Grauger :** Au bureau de la Mission militaire française de la Ve Armée à Toutencourt, le sous-officier secrétaire (le maréchal des logis Grauger) tenait le tableau des affectations d'interprètes et pouvait proposer au capitaine chef de mission l'attribution d'un poste de choix.
+> **l.~8--11 :** Le maréchal des logis Grauger accompagne Combes chez le capitaine et promet de lui faire donner un bon poste. La page ne dit pas qu’il est secrétaire, qu’il tient un tableau d’affectations ou qu’il peut décider lui-même du poste.
 
 ---
 
-## Scan #164 — `20251126_111137.jpg` — Folio 82 recto
-- **Titre** : FOLIO 82 RECTO (Tempête de neige de mars et départ de l'interprète Valet pour Albert)
+## Scan #164 — `20251126_111137.jpg` — Vue 164
+- **Titre** : Neige de mars, départ de l’interprète Evar[?] pour Albert et attente d’affectation
 - **Date** : 8 – 9 mars 1917
 - **Lieu** : Hérissart, Toutencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom Evar, final r incertain.; Sigle R.2 : expansion administrative à documenter..
 
 ```text
  1 | 8 Jeudi —          — Mars 1917 —
@@ -7303,13 +7824,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | Durant matinée, neige tombée à gros flocons.
  4 | Ciel mat & comme voilé de brume.
  5 | Liberté entière, matin & soir.
- 6 | Vers 3h s., intte Evar, revenu en cie d'1 autre
+ 6 | Vers 3h s., intte Evar[?], revenu en cie d'1 autre
  7 | intte Valet, R.2, de la 2nd australian division.
- 8 | Soir, reparti à Albert sur 1 lorry avec
+ 8 | Evar[?], reparti à Albert sur 1 lorry avec
  9 | tout son kit. Valet, extrt sympathique.
 10 | Aussitôt thé pris, allé à pied Mission fr.
-11 | Toutencourt : maréchal logis m'a dit
-12 | de rester au mess à Hérissart j'à son départ
+11 | Toutencourt : maréchal logis..., m'a dit
+12 | de rester av. mon cap. Hérissart j'à son départ,
 13 | puis me rendre au dépôt, Toutencourt.
 14 | Très agréable walk sur route très sèche. Temps
 15 | mervt pleine lune, ciel nuageux & qq étoiles.
@@ -7321,44 +7842,47 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 21 | Liberté entière journée. Bien reposé, office.
 22 | Fin soirée, tt pensif, tristesse, changement
 23 | de siton, & incertitude au sujet nouvelle affectation.
-24 | [ Après dîner, réglé compte mess avec Cap. W.
+24 | [ Après dinner, réglé comptes mess avec cap. Wms
 25 | jusqu'à ce soir : 10 f. — ]
 ```
 
-- *l. 6* : **6 cie** *abbr. pro* compagnie. **6 intte** *abbr. pro* interprète.
+- *l. 6* : **6 Evar** *lect. incert. in ms.* **6 cie** *abbr. pro* compagnie.
 - *l. 7* : **7 intte** *abbr. pro* interprète.
-- *l. 8* : **8 lorry** *angl. in ms.*
+- *l. 8* : **8 Evar** *lect. incert. in ms.* **8 lorry** *angl. in ms.*
 - *l. 9* : **9 extrt** *abbr. pro* extrêmement. **9 kit** *angl. in ms.*
-- *l. 12* : **12 j'à** *abbr. pro* jusqu'à. **12 mess** *angl. in ms.*
+- *l. 12* : **12 j'à** *abbr. pro* jusqu'à.
 - *l. 14* : **14 walk** *angl. in ms.*
 - *l. 15* : **15 qq** *abbr. pro* quelque(s). **15 mervt** *abbr. pro* merveilleusement.
 - *l. 18* : **18 ts** *abbr. pro* tous.
 - *l. 22* : **22 tt** *abbr. pro* tout.
 - *l. 23* : **23 siton** *abbr. pro* situation.
-- *l. 24* : **24** *in marg. cum unco* (comptes). **24 Cap. W.** *scil.* Capitaine Williams.
+- *l. 24* : **24** *in marg. cum unco* (comptes). **24 dinner** *angl. in ms.*
 - *l. 25* : **25 f.** *abbr. pro* franc(s).
 
 * * *
 
-**l.~9--14 avec tout son kit / Très agréable walk :** Emprunts lexicaux (*kit* = paquetage militaire, *walk* = marche) intégrés sans soulignement dans la phrase française. **l.~22--23 tt pensif, tristesse, changement de siton, & incertitude :** Analyse introspective très juste : bien qu'heureux de quitter le capitaine Williams, Hippolyte redoute toujours les périodes de transition administrative où il risque d'être envoyé dans une unité combattante exposée.
+**l.~6--9 :** Deux interprètes sont distingués ; le premier, Evar[?], repart avec son kit. **l.~22--23 :** Tristesse et incertitude d’affectation sont explicites ; la crainte d’une unité combattante exposée n’est pas formulée.
 
-> **l.~6--7 interprète Valet, R.2, de la D.on australienne :** La mention « R.2 » désigne un interprète de réserve de 2e classe affecté à l'une des divisions australiennes (2e ou 5e Division de l'A.I.F.) opérant devant Albert et Bapaume.
+> **l.~7 2nd australian division :** La 2e Division australienne est nommée. Le sigle R.2 est conservé ; l’expansion « réserve de 2e classe » demande une source réglementaire.
 
 ---
 
-## Scan #165 — `20251126_111151.jpg` — Folio 82 verso
-- **Titre** : FOLIO 82 VERSO (Départ définitif du capitaine Williams et mélancolie de l'attente à Hérissart)
+## Scan #165 — `20251126_111151.jpg` — Vue 165
+- **Titre** : Départ définitif du capitaine Williams et mélancolie de l'attente à Hérissart
 - **Date** : 10 mars 1917
 - **Lieu** : Hérissart (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Abréviation de situation à la ligne 7..
 
 ```text
  1 | 10 Samedi —          Mars 17 —
  2 | Avant breakfast, terminé ts mes
- 3 | paquets, bouclé valise.
+ 3 | paquets, sanglé valise.
  4 | Étrange sensation de mélancolie, au moment de
  5 | quitter ce village et de changer d'affectation.
  6 | Malgré moi, souvenirs affluent de ces derniers
- 7 | mois. Incertitude lendemain, of. situation précaire.
+ 7 | mois. Incertitude lendemain, & situation précaire.
  8 | Cap. nouvl, Williams, partis défintt vers
  9 | 10h matin. Dès lors, suis sans fonctions, archi-
 10 | libre.
@@ -7370,7 +7894,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 16 | Reposé, écrit, lu, dans l'office.
 17 | Temps maussade, bruine & boue.
 18 | Matinée, tt pensif, mélancolie.
-19 | Mais le soir, pris parti, et résigné
+19 | Mais ce soir, pris mon parti, et résigné
 20 | à mon nouveau sort.
 ```
 
@@ -7381,16 +7905,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~4--10 Étrange sensation de mélancolie... Cap. nouvel, Williams, partis défintt tôt :** Page d'une grande finesse psychologique : le départ définitif du capitaine Williams à 10 heures du matin clôt un trimestre d'incompréhension (16 décembre 1916 – 10 mars 1917), mais laisse l'interprète seul dans le bureau déserté, en proie à l'angoisse du déracinement.
+**l.~4--10 Étrange sensation de mélancolie... Cap. nouvl, Williams, partis défintt vers 10h matin :** Page d'une grande finesse psychologique : le départ définitif du capitaine Williams à 10 heures du matin clôt un trimestre d'incompréhension (16 décembre 1916 – 10 mars 1917), mais laisse l'interprète seul dans le bureau déserté, en proie à l'angoisse du déracinement.
 
-> **l.~12--13 Fraternisé avec Anglais connus depuis lgt :** S'il a souffert de la raideur du jeune capitaine Williams, Hippolyte Combes noue en revanche des liens chaleureux avec les sous-officiers et soldats britanniques (*Tommies*) de sa compagnie.
+> **l.~12--13 :** Il fraternise avec des English connus depuis longtemps ; leurs grades ne sont pas donnés. La « raideur du jeune capitaine » est une interprétation extérieure à cette entrée.
 
 ---
 
-## Scan #166 — `20251126_111240.jpg` — Folio 83 recto
-- **Titre** : FOLIO 83 RECTO (Maintien au Purchase Board sur demande du Major Levy et installation au billet 220)
+## Scan #166 — `20251126_111240.jpg` — Vue 166
+- **Titre** : Maintien au Purchase Board sur demande du Major Levy et installation au billet 220
 - **Date** : 11 mars 1917
 - **Lieu** : Hérissart, Toutencourt, Puchevillers (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Adresse blanche non complétée.; Nom Godard ajouté au crayon, mais motif de cet ajout non établi..
 
 ```text
  1 | Dim. 11.          — Mars 1917 —
@@ -7398,54 +7925,59 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | Bientôt terminé ts mes paquets.
  4 | Temps extrt doux. Soleil pâle très clair.
  5 | Maintenant, quitte sans regrets ce petit
- 6 | village & Purchase Board.
+ 6 | village & Bureau Board.
  7 | Après breakfast, 9h m., parti en auto pour
  8 | Toutencourt. Ds ce village, laissé tout, ts mes
- 9 | sacs au mess des interprètes, n°, rue
-10 | de Raincheval, puis cherché gîte au camp.
-11 | Mais au bureau Mission, appris que,
-12 | sur demande instante du Major Levy, je
-13 | resterai au Purchase Board.
-14 | Long interview avec Lieutt Godard,
-15 | tt jeune off., charmant.
-16 | Reparti de Toutencourt vers midi sur
-17 | 1 lorry. Descendu au tournant de Puchevillers
-18 | et porté ts mes paquets au billet 220. M'y
-19 | suis installé définitivement, après départ
-20 | interprète Valet.
-21 | Liberté entière après-midi. Achevé de
-22 | m'installer pour le mieux ds ma nouvelle
-23 | chambre. Y suis rentré aussitôt après dîner.
-24 | M'y trouve très bien. 2 tables pour écrire —
+ 9 | sacs au mess des interprètes,
+10 | de Raincheval, puis cherché gîte au camp,
+11 | n°, rue
+12 | Mais au bureau Mission, appris que,
+13 | sur demande instante du Major Levy, je
+14 | resterai au Purchase Board.
+15 | Long interview avec Lieutt Godard,
+16 | tt jeune off., charmant.
+17 | Reparti de Toutencourt vers midi sur
+18 | 1 lorry. Descendu au tournant de Puchevillers
+19 | et porté ts mes paquets au billet 220. M'y
+20 | suis installé définitivement, après départ
+21 | interprète Valet.
+22 | Liberté entière après-midi. Achevé de
+23 | m'installer pour le mieux ds ma nouvelle
+24 | chambre. Y suis rentré aussitôt après dinner.
+25 | M'y trouve très bien. 2 tables pour écrire —
 ```
 
 - *l. 1* : **1 Dim.** *scil.* Dimanche.
 - *l. 2* : **2 1/2** *scil.* demi / moitié. **2 m.** *abbr. pro* matin.
 - *l. 3* : **3 ts** *abbr. pro* tous.
 - *l. 4* : **4 extrt** *abbr. pro* extrêmement.
-- *l. 6* : **6 Purchase Board** *angl. in ms.*
+- *l. 6* : **6 Bureau Board** Formulation hybride autographe ; aucune biffure établie.
 - *l. 7* : **7 m.** *abbr. pro* matin. **7 breakfast** *angl. in ms.*
 - *l. 8* : **8 Ds** *abbr. pro* Dans. **8 ts** *abbr. pro* tous.
 - *l. 9* : **9 mess** *angl. in ms.*
-- *l. 13* : **13 Purchase Board** *angl. in ms.*
-- *l. 14* : **14 Lieutt** *abbr. pro* Lieutenant. **14 interview** *angl. in ms.*
-- *l. 15* : **15 tt** *abbr. pro* tout. **15 off.** *abbr. pro* officier(s).
-- *l. 17* : **17 lorry** *angl. in ms.*
-- *l. 18* : **18 ts** *abbr. pro* tous.
-- *l. 22* : **22 ds** *abbr. pro* dans.
+- *l. 14* : **14 Purchase Board** *angl. in ms.*
+- *l. 15* : **15 Lieutt** *abbr. pro* Lieutenant. **15 interview** *angl. in ms.*
+- *l. 16* : **16 tt** *abbr. pro* tout. **16 off.** *abbr. pro* officier(s).
+- *l. 18* : **18 lorry** *angl. in ms.*
+- *l. 19* : **19 ts** *abbr. pro* tous.
+- *l. 23* : **23 ds** *abbr. pro* dans.
+- *l. 24* : **24 dinner** *angl. in ms.*
 
 * * *
 
-**l.~9 n° , rue de Raincheval :** Espace blanc laissé volontairement après « n° » pour compléter ultérieurement le numéro civique du mess des interprètes à Toutencourt. **l.~14--15 Lieutt Godard :** Le nom « Godard » a été ajouté au crayon gris d'une main rapide dans un blanc ménagé après « Lieutt » ! Cette addition en deux temps prouve qu'Hippolyte ignorait encore l'orthographe exacte du nom du jeune lieutenant lors de la rédaction initiale. **l.~24 2 tables pour écrire :** Condition matérielle essentielle au bonheur de l'écrivain-diariste.
+**l.~6 Bureau Board :** Formulation hybride autographe ; *Purchase Board* revient à la l.~14. Aucune biffure n’est visible sur « Bureau » dans la vue. **l.~9--11 :** Des blancs restent après n° et rue. **l.~15 Godard :** Nom au crayon, sans que l’image permette d’expliquer pourquoi il fut ajouté. **l.~25 :** Deux tables sont expressément comptées.
 
-> **l.~11--13 sur demande instante du Major Levy, je resterai au Purchase Board :** C'est la consécration professionnelle du travail accompli par Hippolyte Combes depuis août 1916 : le Major Levy intervient personnellement auprès de la Mission française pour conserver son interprète expérimenté à la commission d'achats (*Purchase Board*) d'Hérissart !
+> **l.~12--14 :** La demande instante du Major Levy est donnée comme motif du maintien au Purchase Board. La page ne nomme pas Combes « son interprète » et ne qualifie pas cette décision de consécration professionnelle.
 
 ---
 
-## Scan #167 — `20251126_111251.jpg` — Folio 83 verso
-- **Titre** : FOLIO 83 VERSO (Bonheur de la nouvelle chambre (billet 220) et tournée en auto Wolseley)
+## Scan #167 — `20251126_111251.jpg` — Vue 167
+- **Titre** : Bonheur de la nouvelle chambre (billet 220) et tournée en auto Wolseley
 - **Date** : 11 (fin) – 12 mars 1917
-- **Lieu** : Hérissart, Toutencourt, Contay, Beaumont, Molliens-au-Bois, Puchevillers, Raincheval (Somme)
+- **Lieu** : Hérissart, Toutencourt, Contay, Beaumont, Molliens-au-Bois, Puchevillers, Raincheval, Candas (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Modèle précis des automobiles non indiqué..
 
 ```text
  1 | Dim. 11 (fin)          Mars 1917
@@ -7463,7 +7995,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | 1 australien, moins confortable que la Vauxhall
 14 | de Jimmie.
 15 | Tout l'après-midi, à Puchevillers, puis
-16 | Raincheval, calme.
+16 | Raincheval, Candas.
 17 | [ Toutencourt : Exp. F. Canteen : 2 tins of
 18 | Calvert's Tooth Powder : 1 f. 75 c. ]
 ```
@@ -7476,16 +8008,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~2--3 2 fenêtres. Impressions de calme & silence, favorables à rêverie & étude :** Suite directe de la dernière phrase du Scan #166 (« 1 table pour écrire — 2 fenêtres ») : le billet 220 à Hérissart offre enfin à l'universitaire un véritable cabinet d'étude. **l.~11 Toutencourt :** Ajouté dans l'interligne supérieur au-dessus de « Contay ». **l.~17--18 Exp. F. Canteen : 2 tins of Calvert's Tooth Powder :** Note d'achat rédigée entièrement en anglais pour désigner la célèbre poudre dentifrice phéniquée de F. C. Calvert & Co. (Manchester), vendue dans les cantines de la B.E.F.
+**l.~2--3 2 fenêtres. Impressions de calme & silence, favorables à rêverie & étude :** Suite directe de la dernière phrase du Scan #166 (« 2 tables pour écrire — 2 fenêtres ») : le billet 220 à Hérissart offre enfin à l'universitaire un véritable cabinet d'étude. **l.~11 Toutencourt :** Ajouté dans l'interligne supérieur au-dessus de « Contay ». **l.~17--18 Exp. F. Canteen : 2 tins of Calvert's Tooth Powder :** Note d'achat rédigée entièrement en anglais pour désigner la célèbre poudre dentifrice phéniquée de F. C. Calvert & Co. (Manchester), vendue dans les cantines de la B.E.F.
 
-> **l.~12--14 Auto Wolseley... 1 australien, moins confortable que la Vauxhall de Jimmie :** Comparaison entre l'automobile Wolseley conduite par un chauffeur australien et la souple berline Vauxhall 25 hp conduite auparavant par son chauffeur familier Jimmie.
+> **l.~12--14 :** La Wolseley est jugée moins confortable que la Vauxhall de Jimmie. Modèle, puissance et carrosserie ne sont pas indiqués ; « Vauxhall 25 hp » ne doit pas être ajouté sans document distinct.
 
 ---
 
-## Scan #168 — `20251126_111309.jpg` — Folio 84 recto
-- **Titre** : FOLIO 84 RECTO (Visite à l'instituteur M. Flutre et déménagement du mess au billet 216)
+## Scan #168 — `20251126_111309.jpg` — Vue 168
+- **Titre** : Visite à l'instituteur M. Flutre et déménagement du mess au billet 216
 - **Date** : 13 – 15 mars 1917
-- **Lieu** : Hérissart, Le Mesnil-Martinsart, Puchevillers, Acheux, Bertrancourt (Somme)
+- **Lieu** : Hérissart, Mesnil (localité à identifier), Puchevillers, Acheux, Bertrancourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Commune de Mesnil à identifier.; Identification du fils à Louis-Fernand Flutre hypothétique..
 
 ```text
  1 | Mardi 13 —          Mars 1917 —
@@ -7521,16 +8056,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~7--8 visite à M. & Mme Flutre, instituteurs, au Mesnil. Ont le fils, élève de Normle** Sup\textsuperscript{re :} Rencontre intellectuelle remarquable avec les instituteurs du Mesnil-Martinsart. **l.~12--15 Déménagé office et mess au billet 216... tout en face de ma maison :** Désormais logé au 220 juste en face du mess 216 et libéré du capitaine Williams, Hippolyte souligne son bien-être (« Ns sommes 1000 fois mieux »).
+**l.~7--8 au Mesnil... Ont le fils, élève de Normle Supre :** Le nom Flutre, les fonctions d’instituteurs et l’abréviation de l’École normale supérieure sont lisibles ; le prénom du fils et le complément du toponyme Mesnil ne sont pas donnés. **l.~12--15 :** Le nouveau mess est en face de la maison où il a sa chambre.
 
-> **l.~7--8 M. & Mme Flutre, instituteurs, au Mesnil. Ont le fils, élève de Normle** Sup\textsuperscript{re :} Rencontre remarquable entre collègues de l'Instruction publique : les époux **Flutre**, instituteurs au **Mesnil-Martinsart** (village voisin de Martinsart et d'Hérissart), sont les parents de **Louis-Fernand Flutre** (né au Mesnil-Martinsart le 23 juin 1892, décédé en 1978), entré à l'École Normale Supérieure de la rue d'Ulm (promotion 1912), mobilisé comme officier pendant la Grande Guerre, futur agrégé de grammaire (1919) et célèbre professeur de philologie romane à la Faculté des lettres de Lyon.
+> **l.~7--8 Flutre :** Louis-Fernand Flutre (1892–1978), ancien élève de l’École normale supérieure et futur professeur à Lyon, constitue une piste pour identifier le fils. La notice d’autorité BnF `cb122063529` le donne né le 21 juin 1892 à Albert, et non au Mesnil-Martinsart le 23 juin. La filiation et l’identification des instituteurs restent à vérifier.
 
 ---
 
-## Scan #169 — `20251126_111321.jpg` — Folio 84 verso
-- **Titre** : FOLIO 84 VERSO (Retour à Albert et Ribemont et promenades printanières avec le lieutenant Wentworth)
+## Scan #169 — `20251126_111321.jpg` — Vue 169
+- **Titre** : Retour à Albert et Ribemont et promenades printanières avec le lieutenant Wentworth
 - **Date** : 16 – 17 mars 1917
 - **Lieu** : Hérissart, Mirvaux, Pierregot, Contay, Warloy, Senlis, Albert, Ribemont, Toutencourt, Puchevillers (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Fermoir : ferrure de sac, sans préciser la pièce.; Destination des troupes non donnée..
 
 ```text
  1 | Ven. 16          — Mars 1917 —
@@ -7548,7 +8086,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | Très belle journée. Soleil printanier.
 14 | Matinée, venu à pied & retour id. Toutencourt.
 15 | Après-midi, promenade à pied à Puchevillers
-16 | & retour id., avec Lt. Wentworth. Air si
+16 | & retour de =, avec Lt. Wentworth. Air si
 17 | chaud que sué bcp. Marche m'a fait bien.
 18 | Auto est aux workshops.
 19 | Troupes cavalerie indigène & anglaise
@@ -7561,7 +8099,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 4* : **4 lunch** *angl. in ms.*
 - *l. 11* : **11** *in marg. cum unco* (comptes). **11 c.** *abbr. pro* centimes.
 - *l. 12* : **12 Sam.** *scil.* Samedi.
-- *l. 16* : **16 Lt** *abbr. pro* Lieutenant.
+- *l. 16* : **16 Lt** *abbr. pro* Lieutenant. **16 de =** *signum aequalitatis pro* de même.
 - *l. 17* : **17 bcp** *abbr. pro* beaucoup.
 - *l. 18* : **18 workshops** *angl. in ms.*
 - *l. 21* : **21** *in marg. cum unco* (comptes). **21 c. ples** *abbr. pro* cartes postales.
@@ -7570,14 +8108,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~11 Blacksmith d'Hérissart :** Emprunt lexical anglais (*Blacksmith* = forgeron du village) à qui Hippolyte confie la réparation du fermoir métallique de son sac de voyage. **l.~18 Auto est aux workshops :** Ajouté dans l'interligne entre les lignes 17 et 19 pour expliquer pourquoi le lieutenant Wentworth et lui effectuent leurs déplacements à pied.
 
-> **l.~19--20 Troupes cavalerie indienne & anglaise traversé village au trot :** Le 16–17 mars 1917 est la date exacte du déclenchement général du repli stratégique allemand sur la ligne Hindenburg (*Opération Alberich*) : Bapaume est occupée le 17 mars et Péronne le 18 mars ; la cavalerie britannique et indienne est lancée au trot vers l'est à travers Hérissart pour talonner les arrière-gardes allemandes.
+> **l.~19--20 :** Des cavaliers indigènes et anglais traversent le village au trot. Le rapprochement chronologique avec le repli allemand de mars demande une source d’histoire militaire distincte ; le carnet n’indique ni direction de marche ni mission de poursuite.
 
 ---
 
-## Scan #170 — `20251126_111359.jpg` — Folio 85 recto
-- **Titre** : FOLIO 85 RECTO (Prône du vieux curé de Toutencourt et passage de la 63e Royal Naval Division)
+## Scan #170 — `20251126_111359.jpg` — Vue 170
+- **Titre** : Prône du vieux curé de Toutencourt et passage de la 63e Royal Naval Division
 - **Date** : 18 – 19 mars 1917
 - **Lieu** : Hérissart, Toutencourt, Puchevillers (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Abréviation de l’ordinaire dans l’itinéraire.; Aucune mention lisible délivré/relevé hier à ajouter après Achiet..
 
 ```text
  1 | Dim. 18. —          — Mars 1917 —
@@ -7600,11 +8141,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | 19 Lundi. — Tout le jour, temps couvert, pluie
 19 | menace. Gros nuages. — Matinée, entière libre.
 20 | Après-midi, venu à pied avec off. à Puchevillers.
-21 | Suivi même route que l'autre jr, à travers champs
+21 | Suivi même route qu'à l'ord[inaire ?], à travers champs
 22 | et sentiers —
 23 | Dû laisser occuper 1 des 2 lits par off. 63rd Div.,
 24 | naval div., de passage. Son régt revient des
-25 | tranchées, Miraumont, Achiet-le-Pt. Fait partie dîner
+25 | tranchées, Miraumont, Achiet-le-Pt. Fait parler ces
 26 | 2 off., qui m'ont donné renseigts très intéressants.
 ```
 
@@ -7615,6 +8156,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 16* : **16** *in marg. cum unco* (comptes). **16 f.** *abbr. pro* franc(s).
 - *l. 17* : **17 Cartes ples** *abbr. pro* Cartes postales. **17 f.** *abbr. pro* franc(s).
 - *l. 20* : **20 off.** *abbr. pro* officier(s).
+- *l. 21* : **21** *lect. incert. in ms.*
 - *l. 23* : **23 off.** *abbr. pro* officier(s).
 - *l. 24* : **24 div** *abbr. pro* division.
 - *l. 25* : **25 Pt** *abbr. pro* Petit. **25 Achiet-le-Pt.** *scil.* Achiet-le-Petit.
@@ -7624,14 +8166,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~16 Solde : 82 f. :** Solde de quinzaine versée le 18 mars à Toutencourt. **l.~23--26 off. 63rd Div., naval div., de passage... tranchées, Miraumont, Achiet-le-Pt. :** Témoignage oral direct recueilli auprès de deux officiers de la 63e Division revenant des secteurs de Miraumont et d'Achiet-le-Petit.
 
-> **l.~23--26 63rd Div., naval div. / Miraumont, Achiet-le-Pt. :** La 63e (*Royal Naval*) Division, après avoir combattu sur l'Ancre devant Miraumont et Achiet-le-Petit lors du repli allemand sur la ligne Hindenburg, traverse Hérissart à la mi-mars 1917 en remontant vers le secteur d'Arras.
+> **l.~23--26 :** Le visiteur est de la 63rd Div., précisée naval div. Son régiment revient des tranchées, avec les noms Miraumont et Achiet-le-Pt. Le carnet ne précise pas sa destination suivante, ni qu’Achiet aurait été « délivré hier ».
 
 ---
 
-## Scan #171 — `20251126_111410.jpg` — Folio 85 verso
-- **Titre** : FOLIO 85 VERSO (Départ de la Naval Division, ferme de Belle-Église et défilé des 17th Lancers (Death or Glory Boys))
+## Scan #171 — `20251126_111410.jpg` — Vue 171
+- **Titre** : Départ de la Naval Division, ferme de Belle-Église et défilé des 17th Lancers (Death or Glory Boys)
 - **Date** : 20 – 22 mars 1917
 - **Lieu** : Hérissart, Puchevillers, Arquèves (Belle-Église), Contay, Warloy, Senlis, Pierregot, Molliens, Albert (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Nom du fermier Houthouan.; Rattachement et destination des 17th Lancers nécessitent une source distincte..
 
 ```text
  1 | 20 Mardi —          Mars 1917 —
@@ -7670,14 +8215,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~11 Belle Église Farm, M. Houthouan :** Noté à l'anglaise (*Belle Église Farm*) pour désigner la ferme de Belle-Église à Arquèves déjà visitée en décembre. **l.~13--15 troupes moving... (Death or Glory Boys, 17th Lancers) :** L'auteur note avec précision la célèbre devise du 17e Lanciers britannique (*Death or Glory*), dont l'insigne de coiffure représentait une tête de mort sur deux tibias croisés.
 
-> **l.~14--15 cavrie indienne & anglaise (Death or Glory Boys, 17th Lancers) :** Le *17th (Duke of Cambridge's Own) Lancers*, célèbre depuis la charge de la Brigade légère à Balaklava, faisait partie de la 3e Division de cavalerie britannique qui faisait alors mouvement vers le nord en prévision de l'offensive d'Arras.
+> **l.~14--15 :** Combes nomme les 17th Lancers et les Death or Glory Boys. Le rattachement à une division et la direction du mouvement ne sont pas écrits. L’ancienne attribution à la 3e Division de cavalerie doit être supprimée en l’absence de source contrôlée.
 
 ---
 
-## Scan #172 — `20251126_111427.jpg` — Folio 86 recto
-- **Titre** : FOLIO 86 RECTO (Chants d'oiseaux dans le gel de mars et démarches pour conserver le billet 220)
+## Scan #172 — `20251126_111427.jpg` — Vue 172
+- **Titre** : Chants d'oiseaux dans le gel de mars et démarches pour conserver le billet 220
 - **Date** : 23 – 25 mars 1917
 - **Lieu** : Hérissart, Rubempré, Puchevillers (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La motivation administrative des démarches pour le billet n’est pas donnée..
 
 ```text
  1 | 23 Ven. —          — Mars 1917 —
@@ -7716,16 +8264,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~9--10 Fait démarches pour qu'on me laisse au billet (220) :** Le numéro « (220) » est ajouté entre parenthèses à la fin de la ligne : attaché à sa chambre calme dotée d'une table et de deux fenêtres, Hippolyte veille à empêcher toute réquisition par des officiers de passage. **l.~11 Ds la journée, et afternoon :** Redoublement bilingue caractéristique.
+**l.~9--10 :** Démarches pour conserver le billet 220 ; le motif n’est pas explicité. Au Scan #166, la chambre possède deux tables, et deux fenêtres au Scan #167. **l.~11 afternoon :** Alternance franco-anglaise conservée.
 
-> **l.~23 Pas pris pardessus :** Détail vestimentaire qui marque symboliquement, le jour de l'Annonciation (25 mars 1917), la première sortie sans capote d'hiver depuis le mois d'octobre 1916.
+> **l.~23 Pas pris pardessus :** Notation vestimentaire de cette promenade. Le carnet n’en fait ni un symbole religieux ni la première sortie sans pardessus depuis octobre.
 
 ---
 
-## Scan #173 — `20251126_111439.jpg` — Folio 86 verso
-- **Titre** : FOLIO 86 VERSO (Visite du camarade Monin et départ de toutes les troupes d'Hérissart)
+## Scan #173 — `20251126_111439.jpg` — Vue 173
+- **Titre** : Visite du camarade Monin et départ de toutes les troupes d'Hérissart
 - **Date** : 26 – 28 mars 1917
 - **Lieu** : Hérissart, Rubempré, Puchevillers (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Patronyme Monin.; Motif du départ des troupes non explicité..
 
 ```text
  1 | 26 Lundi          Mars /17
@@ -7765,14 +8316,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~5--7 Monin traversé village... L'ai trouvé vieilli, enlaidi, usé :** Regard lucide et sans complaisance sur l'usure physique des interprètes et combattants après deux ans et demi de campagne.
 
-> **l.~15--16 Troupes quitté village à l'aube. Tout le jour, restés sans troupes :** Conséquence directe du repli allemand (*Alberich*) : le front s'étant déplacé de 35 km vers l'est (au-delà de Bapaume et Péronne vers Saint-Quentin et Cambrai) tandis que le gros des forces britanniques remonte vers Arras, les anciens cantonnements d'arrière-front comme Hérissart, Acheux et Warloy se vident brusquement de leurs bataillons !
+> **l.~15--16 :** Départ des troupes à l’aube et village presque sans troupes. La page ne fournit ni leur destination ni une mesure de déplacement du front ; ce constat local ne prouve pas à lui seul une conséquence directe de l’opération Alberich.
 
 ---
 
-## Scan #174 — `20251126_111452.jpg` — Folio 87 recto
-- **Titre** : FOLIO 87 RECTO (Le calme délicieux des villages désertés par les troupes à la fin mars)
+## Scan #174 — `20251126_111452.jpg` — Vue 174
+- **Titre** : Le calme délicieux des villages désertés par les troupes à la fin mars
 - **Date** : 29 – 31 mars 1917
 - **Lieu** : Hérissart, Puchevillers, Rubempré, Pierregot, Molliens-au-Bois, Toutencourt, Rainneville (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Aucune limite administrative de zone d’achat n’est donnée..
 
 ```text
  1 | 29 Jeudi          — Mars 1917 —
@@ -7811,14 +8365,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~7--8 Calme délicieux / l.~17 État lyrique / l.~25 J'aime ce calme & ce silence :** Alors qu'en février le silence d'Hérissart sous la neige lui paraissait « funèbre » (Scan #153), le départ de la foule militaire à la fin mars transforme ce même silence en un « calme délicieux » propice à l'« état lyrique ».
 
-> **l.~19--20 Rainneville :** Commune située à 8 km au sud-ouest d'Hérissart sur le plateau dominant Amiens, limite méridionale de la zone d'achat du *Purchase Board*.
+> **l.~19--20 Rainneville :** Village de la tournée d’achat de paille. Aucune mention n’en fait la limite méridionale de la zone du Purchase Board.
 
 ---
 
-## Scan #175 — `20251126_111503.jpg` — Folio 87 verso
-- **Titre** : FOLIO 87 VERSO (Dimanche des Rameaux sous la neige et comptes du mess au 31 mars)
+## Scan #175 — `20251126_111503.jpg` — Vue 175
+- **Titre** : Dimanche des Rameaux sous la neige et comptes du mess au 31 mars
 - **Date** : 1er – 3 avril 1917
 - **Lieu** : Hérissart, Belle-Église, Pierregot, Rainneville, Toutencourt, Rubempré, Raincheval (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Chiffres effacés au début de la note du mess ; aucun nombre de jours lisible..
 
 ```text
  1 | 1er Dim. (Rameaux)          Avril 1917
@@ -7853,16 +8410,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~7 [ Mess : dû au 31 mars : 27 f. 50 ] :** Note comptable insérée à droite de la ligne 7 : sa part de pension au mess pour les vingt derniers jours de mars s'élève à 27 fr. 50. **l.~18 (vu bien-aimé, notaire) :** Jeu de mots ou nom patronymique (« M. Bienaimé, notaire » à Toutencourt, qu'il reverra le jour de Pâques, Scan #178, l.~5 : « chez notaire Bienaimé »).
+**l.~7 :** Note de mess avec le 31 mars et 27 f 50 ; début de la période peu net. Le texte ne permet pas de fixer vingt jours. **l.~18 :** Le notaire Bienaimé revient au Scan #178.
 
-> **l.~1--13 1er Dim. (Rameaux)... neige à gros flocons :** Le début d'avril 1917 fut marqué par des blizzards tardifs exceptionnels sur tout le front d'Artois et de Picardie, qui gêneront considérablement les troupes britanniques et canadiennes lors de l'offensive d'Arras et de Vimy une semaine plus tard.
+> **l.~1 Rameaux :** Repère liturgique écrit. **l.~3--13 :** Pluie et chutes de neige locales décrites ; leur caractère exceptionnel sur tout le front et leurs effets sur une offensive demandent une documentation distincte.
 
 ---
 
-## Scan #176 — `20251126_111525.jpg` — Folio 88 recto
-- **Titre** : FOLIO 88 RECTO (Jeudi Saint ensoleillé : les villages déserts de l'ancien front et le cimetière d'Hérissart)
+## Scan #176 — `20251126_111525.jpg` — Vue 176
+- **Titre** : Jeudi Saint ensoleillé : les villages déserts de l'ancien front et le cimetière d'Hérissart
 - **Date** : 4 – 5 avril 1917
 - **Lieu** : Hérissart, Toutencourt, Acheux, Contay, Warloy, Varennes (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Carnets de timbres : quantité non indiquée.; Monnaie britannique et statut du barbier non donnés..
 
 ```text
  1 | — Avril 1917 —
@@ -7896,20 +8456,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~8 [ Hair cut : 30 c. — — Carnets de timbres : 4 f. — ] :** Crochet comptable bilingue : comme le 20 février (Scan #157), la coupe de cheveux chez le barbier militaire britannique coûte 30 centimes (3 pence), tandis que l'achat de deux carnets de timbres-poste français s'élève à 4 francs.
+**l.~8 :** Hair cut : 30 c et Carnets de timbres : 4 f. Le carnet n’indique ni deux carnets, ni le statut militaire du barbier, ni une équivalence en pence.
 
-> **l.~11--13 Acheux, par Contay-Warloy-Varennes. Ts ces villages... paraissent déserts :** Vision saisissante de l'arrière-front de la Somme vidé en quelques jours de ses centaines de milliers d'hommes après le repli allemand sur la ligne Hindenburg.
+> **l.~12--13 :** Les villages traversés paraissent déserts et sans troupes. Le nombre d’hommes ayant quitté le secteur et le lien exact avec le repli allemand ne sont pas documentés par cette vue.
 
 ---
 
-## Scan #177 — `20251126_111537.jpg` — Folio 88 verso
-- **Titre** : FOLIO 88 VERSO (Vendredi Saint : solde au Q.G. de la Ve Armée à Toutencourt et causerie sur l'Australie)
+## Scan #177 — `20251126_111537.jpg` — Vue 177
+- **Titre** : Vendredi Saint : paiement de la solde par un staff et causerie sur l’Australie
 - **Date** : 6 – 7 avril 1917
 - **Lieu** : Hérissart, Toutencourt, Rubempré, Contay, Acheux, Léalvillers (Somme)
 
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Qualité exacte du staff non définie.; Dernières minutes et ponctuation de la première ligne..
+
 ```text
  1 | 6 Vendr. —          Avril 1917 —
- 2 | Levé tôt. Après breakfast,
+ 2 | Très tôt. Après breakfast,
  3 | conduit en auto à Toutencourt, 1 staff du bureau
  4 | de la Mission fr., Vth Army H.Q., venu nous payer
  5 | solde.
@@ -7931,7 +8494,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 21 | Après-midi, liberté.
 22 | Promené seul route Contay. Gdes rafales
 23 | vent froid m'ont fait rentrer tôt.
-24 | Automne paysage —
+24 | Admiré paysage —
 ```
 
 - *l. 1* : **1 Vendr.** *scil.* Vendredi.
@@ -7945,16 +8508,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~3--4 1 staff du bureau de la Mission fr., Vth Army H.Q. :** Le terme anglais *staff* (officier ou secrétaire d'état-major) et le sigle *Vth Army H.Q.* (Quartier Général de la Ve Armée britannique) sont employés naturellement. **l.~14 After dinner, devant poêle rouge :** Commencer la phrase en anglais (*After dinner*) avant de poursuivre en français est l'un des traits stylistiques les plus constants du dernier tiers du carnet.
+**l.~2 Très tôt :** Lecture visuelle ; ne pas remplacer par « Levé tôt ». **l.~3--5 :** Staff du bureau de la Mission, venu payer la solde. Le mot anglais ne précise pas à lui seul son grade ou sa fonction. **l.~14 :** After dinner est suivi d’une phrase française.
 
-> **l.~7--8 Toutencourt... si tranquille, depuis départ H.Q. et troupes :** Le quartier général de la *Fifth Army* du général Gough venait de quitter Toutencourt pour s'avancer vers Albert et Bapaume afin de diriger les opérations devant Bullecourt (ligne Hindenburg). Simultanément, ce 6 avril 1917, les États-Unis déclarent la guerre à l'Allemagne.
+> **l.~7--8 :** Le départ du H.Q. et des troupes explique ici la tranquillité de Toutencourt dans le témoignage de Combes. La nouvelle position du quartier général et sa mission opérationnelle ne sont pas indiquées.
 
 ---
 
-## Scan #178 — `20251126_111558.jpg` — Folio 89 recto
-- **Titre** : FOLIO 89 RECTO (Pâques 1917 à Hérissart et déclenchement de l'offensive d'Arras sous la neige)
+## Scan #178 — `20251126_111558.jpg` — Vue 178
+- **Titre** : Pâques à Toutencourt, Harponville, Rubempré et Beauquesne ; retour du froid
 - **Date** : 8 – 10 avril 1917
-- **Lieu** : Hérissart, Toutencourt, Harponville, Rubempré, Pierregot, Belle-Église, Fréchencourt, Contay (Somme)
+- **Lieu** : Hérissart, Toutencourt, Harponville, Rubempré, Beauquesne, Pierregot, Belle-Église, Fréchencourt, Contay (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Beauquesne est un ajout visible, pas une déduction d’itinéraire..
 
 ```text
  1 | Pâques — 8 —          Avril 1917
@@ -7990,14 +8556,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~7 Beauquesne :** Ajouté d'une écriture plus fine à l'extrémité droite de la ligne. **l.~9 Visité famille Denis :** Première mention de la famille Denis à Hérissart, chez qui Hippolyte passera désormais plusieurs soirées amicales (voir Scans #180, #182, #183, #184).
 
-> **l.~12--13 9 Lundi. — Temps très mauvais & froid vif. Gdes averses, grêle et grésil :** Ce lundi de Pâques 9 avril 1917 à l'aube, sous les bourrasques de neige et de grésil décrites ici par Hippolyte Combes, les Ire et IIIe Armées britanniques (ainsi que le Corps canadien à la crête de Vimy) lancent la grande offensive d'Arras.
+> **l.~12--13 :** Le froid, la grêle et le grésil sont observés localement le 9 avril. Un rapprochement avec le début de l’offensive d’Arras peut être historique ; l’identité exacte des conditions météorologiques entre Hérissart et le champ de bataille ne peut être déduite de cette page.
 
 ---
 
-## Scan #179 — `20251126_111614.jpg` — Folio 89 verso
-- **Titre** : FOLIO 89 VERSO (Tempête de neige du 11 avril, emplettes à Doullens et entretien avec le lieutenant Gilbert)
+## Scan #179 — `20251126_111614.jpg` — Vue 179
+- **Titre** : Tempête de neige du 11 avril, emplettes à Doullens et entretien avec le lieutenant Gilbert
 - **Date** : 11 – 13 avril 1917
 - **Lieu** : Hérissart, Doullens, Warloy, Belle-Église (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Portée de l’amitié avec Gilbert au-delà de cette première conversation.; Aucun rapport causal à Bullecourt établi par la page..
 
 ```text
  1 | Merc. 11 —          — Avril 1917 —
@@ -8041,14 +8610,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~9--13 [ A Doullens... ] :** Inventaire minutieux des emplettes faites à Doullens : équipement militaire (ceinture de cuir à 24 fr. 50), boîte de cacao à la cantine (1 fr.), cartes géographiques de la Somme (*2 Cartes géog. (Somme) : 60 c.*), cartes postales, semelles de liège et petite pharmacie d'hiver (teinture d'iode, pastilles de chlorate de potasse et pastilles de menthe). **l.~24--25 long talk avec Secd Lt Gilbert, de Jersey, il est très instruit et poète :** Début d'une amitié intellectuelle chaleureuse avec le sous-lieutenant jersiais Gilbert.
 
-> **l.~5--7 Merc. 11... Tout le jour et le soir davantage, neigé lgt et abondamment :** Cette violente tempête de neige du 11 avril 1917 paralysa l'attaque de la 4e Division australienne et de la 62e Division britannique lors de la première bataille de Bullecourt, où les chars britanniques et les fantassins se détachaient en noir sur la neige devant les mitrailleuses allemandes.
+> **l.~5--7 :** La neige décrite par Combes est une observation locale. La première attaque australienne à Bullecourt a lieu le 11 avril 1917 : le Department of Veterans’ Affairs australien, *1917—Bapaume and Bullecourt*, décrit des positions d’attente enneigées et l’échec des chars. Ce contexte n’établit pas que la neige d’Hérissart ait « paralysé » l’attaque, comme l’affirmait l’ancien commentaire.
 
 ---
 
-## Scan #180 — `20251126_111630.jpg` — Folio 90 recto
-- **Titre** : FOLIO 90 RECTO (Soirée chez la famille Denis sous l'orage et retour des giboulées)
+## Scan #180 — `20251126_111630.jpg` — Vue 180
+- **Titre** : Soirée chez la famille Denis sous l'orage et retour des giboulées
 - **Date** : 14 – 17 avril 1917
 - **Lieu** : Hérissart, Pierregot, Fréchencourt, Rubempré (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : La pluie d’Hérissart ne prouve pas celle du Chemin des Dames..
 
 ```text
  1 | 14 Sam.          — Avril 1917 —
@@ -8085,14 +8657,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~14--15 Rentré home sous 1 pluie battante :** L'emploi du substantif anglais *home* sans article pour désigner sa chambre du billet 220 montre à quel point Hippolyte s'est approprié son logis d'Hérissart.
 
-> **l.~11--16 16 Lundi... pluies très fortes :** Le 16 avril 1917 est le jour du déclenchement de la grande offensive française du général Nivelle au Chemin des Dames, menée sous les mêmes pluies glaciales et bourrasques de neige fondue que celles notées ici par Hippolyte Combes.
+> **l.~11--16 :** Pluie très forte à Hérissart le 16 avril, retour home sous une pluie torrentielle. La coïncidence de date avec l’offensive du Chemin des Dames ne suffit pas à établir l’identité du temps dans les deux régions.
 
 ---
 
-## Scan #181 — `20251126_111644.jpg` — Folio 90 verso
-- **Titre** : FOLIO 90 VERSO (Retour du lieutenant Gilbert d'Abbeville et voiture désembourbée par les Australiens à Buire)
+## Scan #181 — `20251126_111644.jpg` — Vue 181
+- **Titre** : Retour du lieutenant Gilbert d'Abbeville et voiture désembourbée par les Australiens à Buire
 - **Date** : 18 – 20 avril 1917
 - **Lieu** : Hérissart, Bresle, Lavieville, Hénencourt, Warloy, Contay, Rubempré, Senlis, Albert, Buire-sur-l'Ancre, Ribemont (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Causalité ou éventuel lapsus de 1915 non démontré ; date conservée.; Stuck implique immobilisation, embourbement probable dans le contexte mais non développé dans le manuscrit..
 
 ```text
  1 | 18 Merc. —          — Avril 1917 —
@@ -8105,7 +8680,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Après-midi, courses en auto : Bresle, Lavieville,
  9 | Hénencourt, Warloy et Contay. Revu avec plaisir
 10 | les 3 1ers villages, où pas retourné depuis fin
-11 | juillet 1916. Aujourd'hui, vides et déserts.
+11 | juillet 1915. Aujourd'hui, vides et déserts.
 12 | Lieut. Gilbert, retour d'Abbeville, venu passer soirée
 13 | avec nous. Charmant causeur, très intéressant.
 14 | 20 Vendredi. — Enfin, assez belle journée. Ciel
@@ -8126,16 +8701,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~9--11 Revu avec plaisir les 3 1ers villages, où pas retourné depuis fin juillet 1916 :** Renvoi interne précieux qui relie la fin du carnet à son tout début (juillet 1916) et aux mois du printemps 1916 passés dans le secteur de Bresle, Lavieville, Hénencourt et Ribemont (chez la famille Colart). **l.~18--20 stuck, à la sortie du village de Buire. Aidés par des australiens, à dégager l'auto. Quels types ! :** Scène sur le vif où l'adjectif anglais *stuck* (embourbé) et l'exclamation admirative (« Quels types ! ») campent la vigueur et la camaraderie des soldats australiens (*Diggers*).
+**l.~11 juillet 1915 :** Le dernier chiffre est nettement un 5. Aucun « lapsus évident » ne peut être établi à partir de cette page ; la date est conservée, sans correction en 1916. **l.~18--20 stuck :** Immobilisation de l’automobile, dégagée avec l’aide d’Australiens. Le jugement « Quels types! » ne précise pas à lui seul s’il est admiratif, amusé ou ironique.
 
-> **l.~18--20 Buire / australiens :** Buire-sur-l'Ancre et Ribemont-sur-Ancre (au sud-ouest d'Albert) servaient alors de grands camps de repos pour les brigades de l'*Australian Imperial Force* après les combats de Bullecourt et de Lagnicourt.
+> **l.~18--20 :** Des Australiens aident à dégager l’automobile à la sortie de Buire. Leur brigade et la raison de leur présence ne sont pas indiquées.
 
 ---
 
-## Scan #182 — `20251126_111702.jpg` — Folio 91 recto
-- **Titre** : FOLIO 91 RECTO (Violente canonnade vers Arras, moulin de Pierregot et batterie antiaérienne)
+## Scan #182 — `20251126_111702.jpg` — Vue 182
+- **Titre** : Violente canonnade vers Arras, moulin de Pierregot et batterie antiaérienne
 - **Date** : 21 – 22 avril 1917
 - **Lieu** : Hérissart, Toutencourt, Buire, Albert, Millencourt, Contay, Molliens-au-Bois, Pierregot (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Mot après « gde carte » : lecture avec[?] à confirmer.; Bte Denis : prénom abrégé à identifier par sources familiales..
 
 ```text
  1 | 21 Samedi —          — Avril 1917 —
@@ -8151,7 +8729,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | [ A Toutencourt : solde : 78 f. 75 c.
 12 | Fait porter d'Amiens, par Bte Denis :
 13 | A. Martin : Promenade ds Amiens : 1 f. 75
-14 | et gde carte, pr ma cathle : 2 f. 75 c. ]
+14 | et gde carte, [avec ?] vue cathle : 2 f. 75 c. ]
 15 | 22 Dimanche —
 16 | Enfin, très belle journée. Soleil,
 17 | mais vent très froid.
@@ -8170,23 +8748,26 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 5* : **5 breakfast** *angl. in ms.*
 - *l. 11* : **11** *in marg. cum unco* (comptes). **11 f.** *abbr. pro* franc(s).
 - *l. 13* : **13 ds** *abbr. pro* dans. **13 f.** *abbr. pro* franc(s).
-- *l. 14* : **14 pr** *abbr. pro* pour. **14 gde** *abbr. pro* grande.
+- *l. 14* : **14 gde** *abbr. pro* grande. **14 cathle** *abbr. pro* cathédrale. **14 [avec ?]** Lecture non établie.
 - *l. 19* : **19 gd** *abbr. pro* grand.
 - *l. 22* : **22 anti-aircraft battery** *angl. in ms.*
 - *l. 25* : **25 tte** *abbr. pro* toute.
 
 * * *
 
-**l.~11--14 [ A Toutencourt : solde : 78 f. 75 c. / A. Martin : Promenade ds Amiens... ] :** Détail bibliographique révélateur de la curiosité d'historien de l'art d'Hippolyte Combes : il charge Mlle Denis de lui rapporter d'Amiens un guide archéologique (*Promenade dans Amiens*) et une grande gravure ou photographie de la cathédrale (« pour ma cathédrale ») complétant les 5 vues achetées le 12 février (Scan #153).
+**l.~12--14 :** Le guide d’A. Martin et une grande carte avec vue de la cathédrale sont portés au compte. La liaison après carte reste douteuse. La formule « pour ma cathédrale » n’est pas une lecture assurée et ne doit pas fonder une interprétation.
 
-> **l.~2--3 & 25--27 violente canonnade vers le nord, du côté d'Arras :** Du 21 au 24 avril 1917, l'artillerie britannique exécute une préparation géante au sud-est d'Arras (le long de la Scarpe et sur la ligne Gavrelle–Rœux–Guémappe–Fontaine-lez-Croisilles) en vue de la seconde bataille de la Scarpe déclenchée le 23 avril à l'aube.
+> **l.~2--3 et 25--27 :** Canonnade localisée à l’oreille du côté d’Arras. Le carnet ne donne pas le détail des positions d’artillerie ; l’association précise à la préparation de la seconde bataille de la Scarpe demande un journal d’opérations ou une histoire militaire sourcée.
 
 ---
 
-## Scan #183 — `20251126_111715.jpg` — Folio 91 verso
-- **Titre** : FOLIO 91 VERSO (Première vraie journée d'été, bourgeons vernissés et soirée chez la famille Denis)
+## Scan #183 — `20251126_111715.jpg` — Vue 183
+- **Titre** : Première vraie journée d'été, bourgeons vernissés et soirée chez la famille Denis
 - **Date** : 23 – 25 avril 1917
 - **Lieu** : Hérissart, Toutencourt, Pierregot, Acheux, Puchevillers, Mirvaux (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Localisation exacte du métier à tisser non précisée.; Nom Mignot et prénom Louise ; leurs identités restent à documenter..
 
 ```text
  1 | 23 Lundi —          Avril 1917
@@ -8225,16 +8806,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~3 Métier à tisser :** Note ethnographique brève prise au vol lors d'une visite chez un tisserand à domicile de Toutencourt ou Pierregot. **l.~8--18 Vraie journée d'été... bourgeons vernissés luisent au soleil... Lointains bleuâtres. Horizons violets :** Page d'une grande maîtrise picturale : l'éclosion tant attendue du printemps picard transfigure le regard du diariste.
+**l.~3 Métier à tisser :** Note très brève après les deux localités ; aucun tisserand à domicile n’est nommé. **l.~8--18 :** Description autographe de la lumière, des bourgeons et des horizons violets.
 
-> **l.~21--22 Acheux — village presque désert et mort, plus de troupes cantonnées :**Contraste frappant avec la fourmilière militaire qu'était Acheux d'août 1916 à février 1917 : désormais situé à plus de 40 km derrière le nouveau front de Saint-Quentin–Cambrai, le bourg est rendu à sa solitude rurale.
+> **l.~21--22 :** Acheux est dit presque désert, sans troupes cantonnées. La distance au front et l’axe Saint-Quentin–Cambrai ne sont pas donnés.
 
 ---
 
-## Scan #184 — `20251126_111737.jpg` — Folio 92 recto
-- **Titre** : FOLIO 92 RECTO (Promenade le long des anciennes tranchées de Puchevillers et rencontre en plaine avec la famille Mortreux)
+## Scan #184 — `20251126_111737.jpg` — Vue 184
+- **Titre** : Promenade le long des anciennes tranchées de Puchevillers et visite à la famille Mortreux à Varennes
 - **Date** : 26 – 27 avril 1917
 - **Lieu** : Hérissart, Contay, Puchevillers, Pierregot, Harponville, Varennes, Rubempré (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Identité de la famille Mortreux et profession non données dans la page..
 
 ```text
  1 | 26 Jeudi.          — Avril 1917 —
@@ -8247,7 +8831,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Nuit merveillet étoilée —
  9 | 27 Ven.
 10 | Matin, courses à Contay, Harponville & Varennes,
-11 | où revu en plaine famille Mortreux —
+11 | où revu av. plaisir famille Mortreux —
 12 | Après-midi, Pierregot & Rubempré. Rentré
 13 | seul à pied de Rubempré; l'auto, continuant
 14 | sur Varennes.
@@ -8263,14 +8847,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~6 dug-outs et de tranchées :** Emprunt au terme militaire britannique *dug-out* (abri souterrain creusé dans la craie), intégré sans traduction à la description d'une promenade vésperale.
 
-> **l.~10--11 Varennes, où revu en plaine famille Mortreux :** Les agriculteurs picards de Varennes (la famille Mortreux) ont repris les travaux des champs de printemps dans la plaine désormais libérée du passage des convois d'artillerie.
+> **l.~10--11 :** Il revoit la famille Mortreux à Varennes. La profession d’agriculteurs est à établir par une autre source.
 
 ---
 
-## Scan #185 — `20251126_111749.jpg` — Folio 92 verso
-- **Titre** : FOLIO 92 VERSO (Annonce du départ prochain pour Cambrai et flânerie avec le lieutenant Gilbert)
+## Scan #185 — `20251126_111749.jpg` — Vue 185
+- **Titre** : Annonce du départ prochain pour Cambrai et flânerie avec le lieutenant Gilbert
 - **Date** : 28 – 29 avril 1917
 - **Lieu** : Hérissart, Pierregot, Contay, Mirvaux (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Raison du séjour de l’officier à Bournemouth non dite.; Le projet Cambrai ne prouve pas un départ exécuté..
 
 ```text
  1 | 28 Samedi —          — Avril 1917 —
@@ -8312,14 +8899,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~7--9 Regretterai bcp les points de vue et panoramas circulaires des environs d'Hérissart : c'est la guerre :** Cet aveu mesure le chemin parcouru depuis son arrivée glaciale à Hérissart le 7 février (Scan #147) : ce village perché qui lui semblait alors un lieu d'exil est devenu son havre de paix. **l.~16--17 lift sur 1 water-cart :** Double emprunt anglais (*lift* = se faire transporter en chemin, *water-cart* = tonne à eau régimentaire).
 
-> **l.~5--7 Off., retour de Bournemouth, m'a appris que bientôt ns quitterons le village et ns irons à Cambrai :** Un officier britannique revenant de permission ou de convalescence dans la station balnéaire anglaise de **Bournemouth** annonce le prochain déplacement du secteur logistique vers l'axe de Cambrai.
+> **l.~5--7 :** Un officier de retour de Bournemouth annonce un prochain départ pour Cambrai. Permission ou convalescence ne sont pas précisées, et le carnet ne va pas jusqu’à la réalisation du projet.
 
 ---
 
-## Scan #186 — `20251126_111833.jpg` — Folio 93 recto
-- **Titre** : FOLIO 93 RECTO (Dernier folio du Livre-Journal : chaleur d'été, course à Villers-Bocage et nuit étoilée du 30 avril 1917)
+## Scan #186 — `20251126_111833.jpg` — Vue 186
+- **Titre** : Dernière vue conservée : tournées du 30 avril 1917 et nuit étoilée
 - **Date** : 30 avril 1917
 - **Lieu** : Hérissart, Vadencourt, Warloy, Hénencourt, Millencourt, Lavieville, Puchevillers, Pierregot, Villers-Bocage, Toutencourt (Somme)
+
+- **Révision du 15 octobre 2026** : collation ligne a ligne.
+- **Points ouverts** : Syntaxe elliptique de « auto chassé lapin sauvage » ; ne prouve pas un accident.; Le statut de dernière photographie ne prouve pas à lui seul la dernière page matérielle du carnet..
 
 ```text
  1 | 30 Lundi. —          Avril 1917 —
@@ -8349,9 +8939,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1--17 Dernière page du Livre-Journal (30 avril 1917) :** Le carnet s'achève exactement à la date inscrite sur la couverture (*Du 25 juillet 1916 au 30 avril 1917*). La tonalité de cette clôture est d'une sérénité lumineuse : l'hiver terrible de la Somme est vaincu (« Soleil ardent... Courses en auto, sans pardessus... Ciel d'un bleu pur & intense. Aux arbres, bourgeons grossissent à vue d'œil... Nuit très belle, mervt éclairée, lune superbe »), tandis que le crochet comptable final unit le soin de la tenue (*Washing : 50 c.*) et l'achat d'un miroir de poche à Hénencourt (*A Hénencourt, miroir de poche : 50 c.*).
+**l.~9 Route, auto chassé lapin sauvage :** Lecture contrôlée au grossissement : « lapin sauvage » est visible. La syntaxe est elliptique ; aucun accident n’est explicitement décrit. **l.~1--17 :** Dernière photographie de la série disponible, datée du 30 avril 1917, date également portée sur la couverture. Cette concordance ne démontre pas à elle seule l’intégralité matérielle du carnet.
 
-> **l.~5--8 Vadencourt, Warloy, Hénencourt, Millencourt & Lavieville / Villers-Bocage :** Cette ultime journée de tournée avec le sous-lieutenant Gilbert embrasse toute la couronne des villages situés entre Amiens, Villers-Bocage et Albert. Six mois plus tard, le 25 octobre 1917, lors d'une permission d'automne, Hippolyte Combes épousera Marguerite Calmels à Millau, avant de terminer la guerre comme caporal-interprète puis professeur d'anglais à l'École militaire préparatoire des Andelys (novembre 1918) et enfin professeur au lycée Ingres de Montauban (janvier 1920).
+> **l.~5--8 :** Tournée de villages avec Gilbert. Les étapes de carrière ultérieures appartiennent à la biographie, non à cette journée. En particulier, l’inscription de janvier 1920 dans la rubrique des domiciles de la fiche militaire ne constitue pas un arrêté de nomination.
 
 ---
 

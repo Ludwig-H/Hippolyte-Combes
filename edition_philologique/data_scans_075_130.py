@@ -141,7 +141,7 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
                 'où ns devons bivouaquer',
                 'Tentes et abris, dressés ds la boue et',
                 'sous pluie battante.',
-                'Fini par trouver petite chambre ds',
+                'Réussi par trouver petite chambre ds',
                 'maison rue voisine, à qq 3 ou 400 mètres',
                 'du camp. Y installé !',
                 'Toute nuit, bruit ininterrompu',
@@ -197,7 +197,7 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
                 'Ds la journée, soleil réchauffe 1 peu température.',
                 'Matinée, promenade de reconnaissance en ville',
                 'le long rues dont les maisons atteintes par',
-                "obus. Venu à l'Ordnance, Aveluy.",
+                "obus. Venu à l'Ordonnance, Aveluy.",
                 "Tout l'après-midi, ds ma chambre. Achevé",
                 "de m'installer pour le mieux.",
                 'Après lunch, me suis attardé sur le',
@@ -210,8 +210,8 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
                 'du + jeune fils maison, Abel...',
                 'Canonnade tjrs très violente —'],
       'critique': "\\textbf{l.~13 rentré home :} Emprunt affectif à l'anglais \\textit{home} pour désigner "
-                  'sa modeste chambre de cantonnement chez la famille Duthuâteau à Albert. \\textbf{l.~16 '
-                  "Abel... :} Le plus jeune fils de ses logeurs d'Albert (M. Duthuâteau, voir Scan \\#087 et "
+                  'sa modeste chambre de cantonnement chez la famille Duchâteau à Albert. \\textbf{l.~16 '
+                  "Abel... :} Le plus jeune fils de ses logeurs d'Albert (M. Duchâteau, voir Scan \\#087 et "
                   'Scan \\#091).',
       'historique': "\\textbf{l.~6 Venu à l'Ordonnance, Aveluy :} Situé à 2 km au nord d'Albert dans la "
                     "vallée de l'Ancre, le village et le bois d'Aveluy abritaient d'importants dépôts du "
@@ -238,7 +238,7 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
                 'Dû errer passim avant revenir Albert',
                 'et retrouver mon billet.',
                 'Ce soir, exceptt, calme absolu.'],
-      'critique': '\\textbf{l.~8--9 Vierge, horizle, penche, bras ouverts au-dessus place :} Description '
+      'critique': '\\textbf{l.~8--9 Vierge, horizle, penche Jésus bras ouverts au-dessus place :} Description '
                   'visuelle saisissante, en style télégraphique, de la statue sommitale de la basilique '
                   "d'Albert. \\textbf{l.~14 lost my way :} Locution anglaise (\\textit{j'ai perdu mon "
                   'chemin}) insérée spontanément dans le récit nocturne.',
@@ -267,7 +267,7 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
                   "caractéristique du carnet : l'auteur emploie d'abord le terme technique anglais "
                   '(\\textit{german dug-outs}) avant de le gloser immédiatement en français dans la phrase '
                   'suivante (« Ces abris souterrains »).',
-      'historique': "\\textbf{l.~6--12 La Boisselle / Immense cratère s/ la droite :} Situé à 3 km à l'est "
+      'historique': "\\textbf{l.~6--12 La Boisselle / Énorme cratère s/ la droite :} Situé à 3 km à l'est "
                     "d'Albert sur la route de Bapaume, le village de La Boisselle avait été pulvérisé le "
                     "1\\textsuperscript{er} juillet 1916 à 7 h 28 par l'explosion de la gigantesque mine "
                     "britannique de \\textit{Lochnagar} (27 tonnes d'ammonal, formant un cratère de 91 "
@@ -297,8 +297,8 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
                 'chambrette, lis ou écris. Vie',
                 "d'1 extrême monotonie —"],
       'critique': "\\textbf{l.~5 j'à :} Abréviation constante dans le manuscrit pour la préposition "
-                  "\\textit{jusqu'à}. \\textbf{l.~8--10 adjudant Lépin \\& Lt Pizzi m'ont appris que ne "
-                  "quitte pas mission :} Soulagement après l'alerte du 22 octobre (Scan \\#083) : "
+                  "\\textit{jusqu'à}. \\textbf{l.~8--10 adjudant Liepin \\& Lt Pizzi m'ont appris que ne "
+                  "quitterai pas mission :} Soulagement après l'alerte du 22 octobre (Scan \\#083) : "
                   'appartenant à la classe 1896 (40 ans révolus), Hippolyte Combes est maintenu dans ses '
                   "fonctions d'interprète auprès de l'armée britannique.",
       'historique': '\\textbf{l.~9 Lt Pizzi :} Le lieutenant interprète Pizzi dirigeait le détachement de la '
@@ -333,7 +333,7 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
       'critique': '\\textbf{l.~11 Hair cut, par un R.F. : 50 c :} Coupe de cheveux effectuée par un soldat '
                   'britannique des \\textit{Royal Fusiliers} (\\textit{City of London Regiment}, dont '
                   'plusieurs bataillons servaient dans la 18\\textsuperscript{e} Division). \\textbf{l.~12 '
-                  'Ven. 27 \\& Sam. 28 :} Regroupement synthétique de deux journées consécutives sans '
+                  'Sam. 28 :} Regroupement synthétique de deux journées consécutives (27 et 28 octobre) sans '
                   'déplacement professionnel.',
       'historique': '\\textbf{l.~3--14 Plateau et routes, absolt impraticables. Lacs de boue :} Les pluies '
                     "continuelles de la dernière décade d'octobre 1916 paralysèrent les opérations "
@@ -370,8 +370,8 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
                 'et très fortes averses.'],
       'critique': '\\textbf{l.~7 straw \\& hay :} Paille et foin, notés en anglais selon la terminologie '
                   'administrative du \\textit{Foraging Service}. \\textbf{l.~9--10 Fils aîné de M. '
-                  'Duthuâteau, maral logis artrie armée belge :} Identification précieuse de son hôte '
-                  "d'Albert, M. Duthuâteau (dont le fils cadet Abel était mentionné au Scan \\#082 et à qui "
+                  'Duchâteau, maral logis artrie armée belge :} Identification précieuse de son hôte '
+                  "d'Albert, M. Duchâteau (dont le fils cadet Abel était mentionné au Scan \\#082 et à qui "
                   "il laissera 5 francs d'étrennes en partant le 2 novembre, Scan \\#091).",
       'historique': "\\textbf{l.~14 Cartes ples église d'Albert : 50 c :} Les cartes postales représentant "
                     "la basilique d'Albert avant et après les bombardements étaient abondamment vendues aux "
@@ -488,10 +488,10 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
       'critique': '\\textbf{l.~2 Vu Major Levy, of the D.O.S.T. :} Le major Levy (officier supérieur du '
                   '\\textit{District Officer of Supplies and Transport} / \\textit{Purchase Board} résidant '
                   'à Raincheval), dont la voiture Sunbeam transportera régulièrement Hippolyte (voir Scan '
-                  '\\#116). \\textbf{l.~16--17 48 f 75 (30 f retenus pour 6 jours de permission) :} Détail '
+                  '\\#116). \\textbf{l.~16--17 58 f 75 (30 f retenus pour 6 jours de permission) :} Détail '
                   "administratif éclairant : l'indemnité journalière de vivres (5 fr. par jour) était "
                   "retenue sur la solde pendant les journées de permission passées à l'intérieur.",
-      'historique': '\\textbf{l.~4 Donné à Victor Duthuâteau : 5 f :} Gratification laissée à son logeur '
+      'historique': '\\textbf{l.~4 Donné à Victor Duchâteau : 5 f :} Gratification laissée à son logeur '
                     "d'Albert en quittant sa chambre du \\textit{Brickfield Area}."},
  92: {'title': "Course à pied à Bertrancourt et retrouvailles avec l'interprète Cordonnier",
       'date': '4 novembre 1916',
@@ -551,7 +551,7 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
                   'au fac-similé en regard, nous reproduisons ici le texte exact de la page photographiée.',
       'historique': '\\textbf{l.~1--17 Continuité des folios :} Ce second tirage photographique plus '
                     'contrasté permet de vérifier avec une parfaite netteté la lecture du relevé financier '
-                    'au bas de la page : « Mission, Albert : 48 f 75 (30 f retenus pour 6 jours de '
+                    'au bas de la page : « Mission, Albert : 58 f 75 (30 f retenus pour 6 jours de '
                     'permission) ».'},
  94: {'title': 'Emménagement au n° 1 route de Léalvillers et convocation chez le capitaine Huguet',
       'date': '5 novembre 1916',
@@ -613,7 +613,7 @@ SCANS_075_130 = {75: {'title': 'Départ de Beauval sous un air glacial et marche
                 'de véhicules de ttes sortes : lorries, wagons, caissons',
                 "de munitions d'artrie. Et défilé incessant",
                 'de troupes allant au repos ou se rendant firing line.'],
-      'critique': '\\textbf{l.~10--12 bois dont les ombres, teintées de rouille, orange et or :} Remarquable '
+      'critique': '\\textbf{l.~10--12 bois dont les arbres, teintés de rouille, orange et or :} Remarquable '
                   "tableau impressionniste de l'automne picard. \\textbf{l.~25 se rendant firing line :} "
                   "L'expression anglaise \\textit{firing line} (ligne de feu) clôt la phrase sans "
                   "préposition ni article, selon l'usage bilingue du carnet.",

@@ -179,7 +179,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  "rues bien abritées. Visité Hôtel d'Assézat,",
                  'Daurade & Dalbade.',
                  'Puis montés mon appartt et y reposé 2 longues',
-                 'heures. Goûté toutes ces secondes précieuses.',
+                 'heures. Choisi ds bles qq gravures précieuses.',
                  'A Ste-Marie, vers 6h 1/2. Retour à pied, vers',
                  '9h. Légers flocons neige tombaient sur le sol',
                  'durci.',
@@ -192,8 +192,9 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  '  Trams : 30 c., 30 c.',
                  '  Télégramme à Mme Spagnol, Nice : 2 f — ]'],
        'critique': '\\textbf{l.~9--10 Puis montés mon appart\\textsuperscript{t} et y reposé 2 longues '
-                   "heures. Goûté toutes ces secondes précieuses :} Notation délicate d'un moment de "
-                   'recueillement amoureux dans son appartement toulousain. \\textbf{l.~19 Gâteaux des '
+                   "heures. Choisi ds bles qq gravures précieuses :} Moment d'intimité dans son appartement "
+                   'toulousain, où il choisit quelques gravures anciennes parmi ses bibelots (\\textit{bles}) '
+                   'pour sa fiancée. \\textbf{l.~19 Gâteaux des '
                    'allées : 1 f 40 chez Henri Testet :} Pâtisserie réputée des allées Lafayette (actuelles '
                    'allées Jean-Jaurès) à Toulouse. \\textbf{l.~21 Télégramme à Mme Spagnol, Nice : 2 f :} '
                    'Sa tante Thérèse Spagnol (voir Scan \\#142).',
@@ -218,14 +219,14 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Chapelle archevêché : conférence, pas eu lieu.',
                  'Rentré dîner à Ste-Marie —',
                  "Vers 9h 1/2, à pied j'à rue de Languedoc.",
-                 'Ville silencieuse. Maintent bonheur, je me',
+                 'Ville silencieuse. Maisons fermées. Je me',
                  'sens complètt détaché de Toulouse. Partirai sans',
                  "regret, et pour n'y retourner jamais plus.",
                  '[ — Trams : 30 c., 10 c., 20 c., 30 c.',
-                 'Food (boulangeon) : 2 f',
+                 'Food (boulanger) : 25 c',
                  '  Remboursé à mes voisines : 3 f 25',
-                 '  (12 œufs, 1/2 beurre, 1 boulangeon) ]'],
-       'critique': '\\textbf{l.~15--17 Maintent bcp calme, je me sens complètt détaché de Toulouse. Partirai '
+                 '  (12 œufs, 1/2 beurre, 1 boulanger) ]'],
+       'critique': '\\textbf{l.~15--17 Ville silencieuse. Maisons fermées. Je me sens complètt détaché de Toulouse. Partirai '
                    "sans regret, et pour n'y retourner jamais plus :} Méditation décisive en marchant le "
                    "soir jusqu'à la rue de Languedoc : son bonheur présent auprès de Marguerite l'affranchit "
                    'définitivement de la nostalgie de sa jeunesse toulousaine.',
@@ -251,15 +252,15 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  '  à sautoir : free. — 1 boîte pastilles de',
                  '  Chlorate de Potasse : 1 f 30 c. — Trams : 20 c., 10 c',
                  '  Bain, Place Belfort : 1 f — ]',
-                 'Quitte à regret Tte, sacrifiant 3 jours entiers',
+                 'Quitte à regret Tls, sacrifiant 3 jours entiers',
                  'pour aller à Millau... Aurais préféré rester',
                  'encore ici, afin de jouir + lgts de mon',
                  'appartt, rempli de souvenirs.'],
        'critique': '\\textbf{l.~11--13 remontoir or mat Louis XVI 105 fr. — Petit anneau pour attacher '
                    "pendentif à sautoir : free :} L'adjectif anglais \\textit{free} (gratuit) s'immisce "
                    "jusque dans la facture d'horlogerie toulousaine ! \\textbf{l.~16--19 Quitte à regret "
-                   'Tte... :} Oscillation psychologique bien humaine : au moment même de quitter son '
-                   'appartement toulousain pour accompagner Marguerite à Millau, un dernier élan '
+                   'Tls... :} Oscillation psychologique bien humaine : au moment même de quitter son '
+                   'appartement toulousain (\\textit{Tls} = Toulouse) pour accompagner Marguerite à Millau, un dernier élan '
                    "d'attachement revient sous sa plume.",
        'historique': '\\textbf{l.~4--5 dentiste, M. de Lersay, rue La Fayette :} Située entre la place du '
                      'Capitole et les allées Lafayette (actuelles allées Jean-Jaurès), la rue Lafayette '
@@ -270,7 +271,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
        'lines': ['Sam. 3                                          Févr. /17',
                  'Levé 5h —',
                  'Mis ordre ds mes affaires & caisses.',
-                 'A 8h 1/2, ch. Secrète, joaillier, puis ch. dentiste.',
+                 'A 8h 1/2, ch. Auriol, joaillier, puis ch. dentiste.',
                  'A 10h, quitté maison et rejoint Margte.',
                  'Partis de Ste-Marie, vers 11h 40.',
                  "Oncle m'a accompagné gare.",
@@ -393,7 +394,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Après déjeuner, sorti av. Mte et ts 2',
                  'seuls venus cimetière — —',
                  'Pris renseignements gare. Décidé ne partir',
-                 "qu'à 5h 30 s. soir.",
+                 "qu'à 5h 33 soir.",
                  'Terminé journée + douce intimité.',
                  'Quitté maison vers 5h s. Adieux, déchirants.',
                  "Pierre m'attendait devant gare.",
@@ -403,7 +404,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Arrêt à ttes les stations.',
                  'Neige partout.',
                  'Arrivé Saint-Flour à minuit 30 s.',
-                 '[ — Remboursé à Mte cadeaux enfants Uncins : 6 f',
+                 '[ — Remboursé à Mte cadeaux enfants Vincens : 6 f',
                  '  Gift à la bonne de Mte : 3 f — ]'],
        'critique': '\\textbf{l.~4--5 sorti av. Mte et ts 2 seuls venus cimetière — — :} Démarche hautement '
                    'symbolique : avant de repartir pour le front, Hippolyte conduit sa fiancée seule avec '
@@ -469,7 +470,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                    'temps pour prendre train 7h 19 :} En quarante-neuf minutes à peine, avec ses bagages, '
                    'Hippolyte Combes réussit la jonction entre la gare de Lyon et la gare du Nord via la '
                    'ligne 1 et la ligne 5 du métropolitain parisien.',
-       'historique': '\\textbf{l.~16 Brioude, buffet, rhum : 60 c :} Unique dépense de la journée, prise à 8 '
+       'historique': '\\textbf{l.~16 Brioude, buffet, varia : 60 c :} Unique dépense de la journée, prise à 8 '
                      'heures du matin au buffet de la gare de Brioude pour se réchauffer après la nuit '
                      'glaciale de Saint-Flour.'},
  146: {'title': 'Nuit glaciale à Amiens, combat aérien contre deux Taubes à Louvencourt et retour chez les '
@@ -501,7 +502,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
        'critique': "\\textbf{l.~18--22 Arrivé à Acheux, vers 1h 1/2 s... Après m'être rasé, lavé, brossé, "
                    "sorti :} Cette dernière ligne du Folio 73 recto s'enchaîne directement et sans la "
                    'moindre solution de continuité avec la première ligne du Folio 73 verso (Scan \\#147 : « '
-                   "Merc. 7 (suite) / En me rendant à notre office, Mme Delille, qui sur le seuil, m'a "
+                   "Merc. 7 (suite) / En me rendant à notre office, Mme Delille, qui au guichet, m'a "
                    "appelé et m'a appris que Cap. Williams a quitté Acheux pour Hérissart »).",
        'historique': '\\textbf{l.~14--17 En gare de Louvencourt, 2 taubes, plané, évolué ciel bleu, juste '
                      'au-dessus voie. Obus éclataient tout autour de ces avions et taches blanches :} '
@@ -515,7 +516,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
        'lieu': 'Acheux, Raincheval, Puchevillers, Hérissart (Somme)',
        'lines': ['Merc. 7 (suite)                                 Février 1917',
                  'En me rendant à notre office,',
-                 "Mme Delille, qui sur le seuil, m'a appelé et",
+                 "Mme Delille, qui au guichet, m'a appelé et",
                  "m'a appris que Cap. Williams a quitté Acheux",
                  'pour ⟦...⟧ Hérissart. Venu aussitôt Mission',
                  'française, où trouvé un mot du Cap. W.',
@@ -530,7 +531,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  '& Puchevillers.',
                  'Bise glaciale. Froid intense.',
                  "Town Major m'a donné petite chambre, n° 7b,",
-                 '1er étage café Charlet, angle rue.',
+                 '1er étage café Charlet, angle rue. De ma',
                  'fenêtre, as. belle vue sur la place et église.',
                  'Pleine lune brillait entre gds arbres.',
                  "Changement plutôt pénible d'habitudes."],
@@ -553,7 +554,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Après dîner, retourné chambre vers 9h.',
                  'Vitres recouvertes très épaisse gelée glacée.',
                  'Froid extrt rigoureux.',
-                 '[ Train & Paris, métro : 1 f.',
+                 '[ Dîner à Paris, métro : 1 f.',
                  '  Amiens, Y.M.C.A. : 1 f. 15 c.',
                  '  Touché solde Mission fr., Acheux : 78 f. 75',
                  '  Gift aux Carluvant, pour',
@@ -567,7 +568,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'breakfast.',
                  'Tout le jour, liberté entière —'],
        'critique': '\\textbf{l.~6 extrt :} Abréviation par suspension et lettres suscrites pour '
-                   '\\textit{extrêmement}. \\textbf{l.~7--11 [ Train \\& Paris... ] :} Encadré comptable '
+                   '\\textit{extrêmement}. \\textbf{l.~7--11 [ Dîner à Paris, métro... ] :} Encadré comptable '
                    "précédé d'un grand crochet vertical sur la marge gauche : on note le franglais spontané "
                    'de la ligne 10–11 (« Gift aux Carluvant, pour mon lunch \\& room : 5 f. ») et le montant '
                    'exact de la solde de janvier (31 jours + indemnités = 78 fr. 75). \\textbf{l.~11--12 '
@@ -593,7 +594,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  '1 h. ds ma chambre, où tt rangé et',
                  'terminé installation.',
                  'Froid toujours très vif.',
-                 'Couché vers 9h s. — 1 peu de courbature, lit',
+                 'Couché vers 9h s. — 1 peu de lecture, lit',
                  'Ven. 9 — Nuit toujours excessvt froide.',
                  'Gelé très fort. Ciel clair, pleine lune,',
                  'vif éclat.',
@@ -617,7 +618,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  "que désormais serai administré par l'armée et",
                  'payé les 3 et 18 de chaque mois.',
                  'Retour sur 1 lorry.',
-                 'Écrit salle café au-dessous ma chambre.',
+                 'Écrit salle café maison où chambre.',
                  'Vers 6h s., avec Cap. W., ds les fermes',
                  'pour acheter paille & foin.',
                  'Sam. 10.',
@@ -630,12 +631,12 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Dévalé routes en pente. Des 2 côtés, champs couverts',
                  'de neige durcie. Soleil se lève, de + en + chaud.',
                  'Au château de Martinsart, reçus par',
-                 'un jeune lieutt, très aimable.',
+                 "un génal d'artrie, très aimable.",
                  'Village, rempli de troupes anglaises.'],
        'critique': '\\textbf{l.~12--13 Lignes de M.T., at the end of the road :} Passage spontané du '
                    "français à l'anglais au sein d'une même phrase ; \\textit{M.T.} désigne le "
                    "\\textit{Mechanical Transport} (parc automobile de l'A.S.C.). \\textbf{l.~7 Écrit salle "
-                   'café au-dessous ma chambre :} Confirmation codicologique directe de la note de la veille '
+                   'café maison où chambre :} Confirmation codicologique directe de la note de la veille '
                    '(Scan \\#149, l.~19) : chassé de sa chambre par le gel, Hippolyte descend écrire son '
                    "carnet et ses lettres près du poêle de l'estaminet.",
        'historique': '\\textbf{l.~3--5 Bureau Mission fr. : appris que désormais serai administré par '
@@ -658,7 +659,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Au retour, arrêté au refilling point, où revu',
                  'Cap. Lovet. Charmant.',
                  'Rentrés vers 3h 1/2, par Senlis. A la miss. fr.',
-                 '2e corps, vu Cap. de Casteljau, économe & lettré.',
+                 '2e corps, vu Cap. de Casteljau, énorme & bête.',
                  'Passé par Acheux.',
                  "Soleil rouge disparaissait à l'horizon.",
                  'Nuit étoilée et sans lune.',
@@ -722,7 +723,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'et ces villages où vécu heures bien vides & tristes.',
                  "Ciel mort. Des champs couverts de neige, s'élevait",
                  'buée grise.',
-                 'En approchant de Hérissart, cf. nombreux',
+                 'En approchant de Hérissart, vu nombreux',
                  'moulins à vent, détachant leurs ailes squelettiques',
                  'sur ciel gris.',
                  'Après-midi, liberté.',
@@ -795,8 +796,8 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'rues en pente, car couvertes de glace.',
                  'Vendredi 16 — Au réveil, trouvé encore',
                  "vitres ornées d'admirables dessins de glace.",
-                 'Mais, ds la journée, température se',
-                 'fait douce et dégel très rapide.',
+                 'Mais, ds la journée, température, de',
+                 '+ en + douce et dégel très rapide.',
                  'Toute matinée, en auto. Roulé 2 ou',
                  '3 h. ds le village de Beaucourt, fermes',
                  'et château, pour trouver paille & foin.',
@@ -836,7 +837,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Église du village de Toutencourt. Assisté',
                  'partie cérémonie, entendu prône —',
                  'Retour à Hérissart sur un lorry.',
-                 "Aujourd'hui, me suis fait raser. Retrouvé",
+                 "Aujourd'hui, me suis tt à fait ressaisi. Retrouvé",
                  'parfaite santé morale. — [ A Toutencourt,',
                  '                           solde : 68 f. 25 c. ]'],
        'critique': '\\textbf{l.~5 correspce :} Abréviation par contraction (\\textit{correspondance}). '
@@ -888,7 +889,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                      "la gravité de l'état de sa logeuse du n\\textsuperscript{o}~104, Hippolyte se dévoue "
                      'pour aller quérir à la fois le curé de la paroisse et le médecin militaire britannique '
                      '(\\textit{Medical Officer}).'},
- 158: {'title': 'Course à Doullens et Auxi-le-Château sous le brouillard : mandat pour un Espagnol',
+ 158: {'title': 'Course à Doullens et Auxi-le-Château sous le brouillard : mandat pour Mme Spagnol',
        'date': '21 – 23 février 1917',
        'lieu': 'Hérissart, Doullens, Auxi-le-Château, Puchevillers, Molliens-au-Bois (Somme)',
        'lines': ['21 Merc. —                                      Février 1917',
@@ -901,8 +902,8 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Arrêt à Doullens, 1h 1/2, pour lunch.',
                  'Retour par Puchevillers, routes abomles.',
                  'Impressions de solitude & détresse morale.',
-                 '[ A Doullens, mandat de 42 f. pour un',
-                 '  Espagnol, Nice — —',
+                 '[ A Doullens, mandat de 42 f. pour Mme',
+                 '  Spagnol, Nice — —',
                  '  A Doullens : 2 œufs & café : 1 f. —',
                  '  1 pr. de semelles liège : 0 f. 80 ]',
                  'Après-midi, à Hérissart, village 1 peu',
@@ -919,12 +920,12 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Après-midi, liberté. Resté office et',
                  'rangé paquets —'],
        'critique': '\\textbf{l.~9 abomles :} Abréviation pour \\textit{abominables}. \\textbf{l.~11--14 [ A '
-                   'Doullens, mandat de 42 f. pour un Espagnol, Nice... semelles liège : 0 f. 80 ] :} '
+                   'Doullens, mandat de 42 f. pour Mme Spagnol, Nice... semelles liège : 0 f. 80 ] :} '
                    "L'achat d'une paire de semelles de liège répond directement à l'humidité glaciale des "
                    'briques du \\textit{floor} de sa nouvelle chambre décrite au Scan \\#157. \\textbf{l.~22 '
                    "Encore = temps :} Le signe mathématique $=$ abrège l'adjectif \\textit{même}.",
-       'historique': '\\textbf{l.~11--12 mandat de 42 f. pour un Espagnol, Nice :} Règlement postal de 42 '
-                     'francs envoyé depuis le bureau de poste de Doullens.'},
+       'historique': '\\textbf{l.~11--12 mandat de 42 f. pour Mme Spagnol, Nice :} Règlement postal de 42 '
+                     'francs envoyé depuis le bureau de poste de Doullens à sa tante Thérèse Spagnol à Nice (déjà destinataire d\'un télégramme le 31 janvier, Scan \\#136).'},
  159: {'title': 'Promenades à Contay et Mirvaux : premières sensations de printemps',
        'date': '24 – 26 février 1917',
        'lieu': 'Hérissart, Contay, Mirvaux, Toutencourt (Somme)',
@@ -944,7 +945,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  "bois à l'horizon. Air encore froid.",
                  'Village où ns sommes exilés, absolt',
                  'perdu sur hauteurs — —',
-                 '26 L. — Jour entier de liberté. Cap. W., mal.',
+                 '26 L. — Jour entier de liberté. Cap. W., seul',
                  'parti vers 11h, allé à Senlis & Martinsart,',
                  "ne rentré qu'à 6h s.",
                  'Temps beau, soleil très agréable 1/2 journée.',
@@ -958,7 +959,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                    '\\textbf{l.~21 lu English novel :} Hippolyte entretient quotidiennement sa maîtrise '
                    "littéraire de l'anglais par la lecture de romans britanniques empruntés aux officiers ou "
                    'au Y.M.C.A.',
-       'historique': '\\textbf{l.~17--19 Cap. W., mal. parti vers 11h, allé à Senlis \\& Martinsart :} '
+       'historique': '\\textbf{l.~17--19 Cap. W., seul parti vers 11h, allé à Senlis \\& Martinsart :} '
                      'Tandis que la 7\\textsuperscript{e} et la 2\\textsuperscript{e} Division australienne '
                      "avancent prudemment dans la vallée de l'Ancre à la suite du premier décrochage "
                      'allemand (24–25 février 1917, abandon de Serre, Miraumont et Pys), le capitaine '
@@ -1058,7 +1059,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Matin, course à Montigny & à Fréchencourt.',
                  'Après-midi, à Rubempré & Puchevillers. Au',
                  'retour, fait 500 m. à pied sur plateau —',
-                 'Appris arrivée très prochaine off. australien, en Cte',
+                 'Appris arrivée très prochaine off. australien, av. son',
                  'interprète, pour ns remplacer. Très content de quitter le Cap.',
                  'Nuit, mervt ciel étoilé, pleine lune — superbe.'],
        'critique': '\\textbf{l.~11--12 retenue de 35 f. pour 7 jours de permission :} Détail comptable et '
@@ -1067,7 +1068,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                    'permissions hors de la zone des armées, ramenant la quinzaine de 78 fr. 75 à 43 fr. 75 ! '
                    '\\textbf{l.~26 Très content de quitter le Cap. :} Aveu sans fard du soulagement que lui '
                    "procure l'annonce de sa séparation prochaine d'avec le capitaine Williams.",
-       'historique': '\\textbf{l.~25--26 arrivée 1er prochain off. australien, en Ce indépendte, pour ns '
+       'historique': '\\textbf{l.~25--26 arrivée très prochaine off. australien, av. son interprète, pour ns '
                      "remplacer :} Le I\\textsuperscript{er} Corps d'armée australien et néo-zélandais "
                      "(\\textit{I Anzac Corps}) prenant en charge le secteur d'Albert–Hérissart en mars "
                      '1917, ses propres compagnies de train (\\textit{Australian Army Service Corps}) '
@@ -1122,11 +1123,11 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Liberté entière, matin & soir.',
                  "Vers 3h s., intte Evar, revenu en cie d'1 autre",
                  'intte Valet, R.2, de la 2nd australian division.',
-                 'Soir, reparti à Albert sur 1 lorry avec',
+                 'Evar, reparti à Albert sur 1 lorry avec',
                  'tout son kit. Valet, extrt sympathique.',
                  'Aussitôt thé pris, allé à pied Mission fr.',
-                 "Toutencourt : maréchal logis m'a dit",
-                 "de rester au mess à Hérissart j'à son départ",
+                 "Toutencourt : maréchal logis . . . , m'a dit",
+                 "de rester av. mon cap. Hérissart j'à son départ,",
                  'puis me rendre au dépôt, Toutencourt.',
                  'Très agréable walk sur route très sèche. Temps',
                  'mervt pleine lune, ciel nuageux & qq étoiles.',
@@ -1138,7 +1139,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Liberté entière journée. Bien reposé, office.',
                  'Fin soirée, tt pensif, tristesse, changement',
                  'de siton, & incertitude au sujet nouvelle affectation.',
-                 '[ Après dîner, réglé compte mess avec Cap. W.',
+                 '[ Après dinner, réglé comptes mess avec cap. Wms',
                  "  jusqu'à ce soir : 10 f. — ]"],
        'critique': '\\textbf{l.~9--14 avec tout son kit / Très agréable walk :} Emprunts lexicaux '
                    '(\\textit{kit} = paquetage militaire, \\textit{walk} = marche) intégrés sans '
@@ -1146,16 +1147,16 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                    'changement de siton, \\& incertitude :} Analyse introspective très juste : bien '
                    "qu'heureux de quitter le capitaine Williams, Hippolyte redoute toujours les périodes de "
                    "transition administrative où il risque d'être envoyé dans une unité combattante exposée.",
-       'historique': '\\textbf{l.~6--7 interprète Valet, R.2, de la D.on australienne :} La mention « R.2 » '
-                     "désigne un interprète de réserve de 2\\textsuperscript{e} classe affecté à l'une des "
-                     'divisions australiennes (2\\textsuperscript{e} ou 5\\textsuperscript{e} Division de '
+       'historique': '\\textbf{l.~6--7 intte Valet, R.2, de la 2nd australian division :} La mention « R.2 » '
+                     "désigne un interprète de réserve de 2\\textsuperscript{e} classe affecté à la "
+                     "2\\textsuperscript{e} Division australienne (\\textit{2nd Australian Division} de "
                      "l'A.I.F.) opérant devant Albert et Bapaume."},
  165: {'title': "Départ définitif du capitaine Williams et mélancolie de l'attente à Hérissart",
        'date': '10 mars 1917',
        'lieu': 'Hérissart (Somme)',
        'lines': ['10 Samedi —                                     Mars 17 —',
                  'Avant breakfast, terminé ts mes',
-                 'paquets, bouclé valise.',
+                 'paquets, sanglé valise.',
                  'Étrange sensation de mélancolie, au moment de',
                  "quitter ce village et de changer d'affectation.",
                  'Malgré moi, souvenirs affluent de ces derniers',
@@ -1171,14 +1172,14 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  "Reposé, écrit, lu, dans l'office.",
                  'Temps maussade, bruine & boue.',
                  'Matinée, tt pensif, mélancolie.',
-                 'Mais le soir, pris parti, et résigné',
+                 'Mais ce soir, pris mon parti, et résigné',
                  'à mon nouveau sort.'],
-       'critique': '\\textbf{l.~4--10 Étrange sensation de mélancolie... Cap. nouvel, Williams, partis '
-                   "défintt tôt :} Page d'une grande finesse psychologique : le départ définitif du "
+       'critique': '\\textbf{l.~4--10 Étrange sensation de mélancolie... Cap. nouvl, Williams, partis '
+                   "défintt vers 10h matin :} Page d'une grande finesse psychologique : le départ définitif du "
                    "capitaine Williams à 10 heures du matin clôt un trimestre d'incompréhension (16 décembre "
                    "1916 – 10 mars 1917), mais laisse l'interprète seul dans le bureau déserté, en proie à "
                    "l'angoisse du déracinement.",
-       'historique': "\\textbf{l.~12--13 Fraternisé avec Anglais connus depuis lgt :} S'il a souffert de la "
+       'historique': "\\textbf{l.~12--13 Fraternisé avec English connus depuis lgt :} S'il a souffert de la "
                      'raideur du jeune capitaine Williams, Hippolyte Combes noue en revanche des liens '
                      'chaleureux avec les sous-officiers et soldats britanniques (\\textit{Tommies}) de sa '
                      'compagnie.'},
@@ -1193,8 +1194,9 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'village & Purchase Board.',
                  'Après breakfast, 9h m., parti en auto pour',
                  'Toutencourt. Ds ce village, laissé tout, ts mes',
-                 'sacs au mess des interprètes, n° , rue',
-                 'de Raincheval, puis cherché gîte au camp.',
+                 'sacs au mess des interprètes,',
+                 'de Raincheval, puis cherché gîte au camp,',
+                 'n° , rue',
                  'Mais au bureau Mission, appris que,',
                  'sur demande instante du Major Levy, je',
                  'resterai au Purchase Board.',
@@ -1207,23 +1209,23 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'interprète Valet.',
                  'Liberté entière après-midi. Achevé de',
                  "m'installer pour le mieux ds ma nouvelle",
-                 'chambre. Y suis rentré aussitôt après dîner.',
+                 'chambre. Y suis rentré aussitôt après dinner.',
                  "M'y trouve très bien. 2 tables pour écrire —"],
-       'critique': '\\textbf{l.~9 n° , rue de Raincheval :} Espace blanc laissé volontairement après « n° » '
-                   'pour compléter ultérieurement le numéro civique du mess des interprètes à Toutencourt. '
-                   "\\textbf{l.~14--15 Lieutt Godard :} Le nom « Godard » a été ajouté au crayon gris d'une "
+       'critique': '\\textbf{l.~9--11 mess des interprètes, de Raincheval, puis cherché gîte au camp, n° , rue :} Espace blanc laissé volontairement après « n° » et « rue » '
+                   'pour compléter ultérieurement l\'adresse à Toutencourt. '
+                   "\\textbf{l.~15 Lieutt Godard :} Le nom « Godard » a été ajouté au crayon gris d'une "
                    'main rapide dans un blanc ménagé après « Lieutt » ! Cette addition en deux temps prouve '
                    "qu'Hippolyte ignorait encore l'orthographe exacte du nom du jeune lieutenant lors de la "
-                   'rédaction initiale. \\textbf{l.~24 2 tables pour écrire :} Condition matérielle '
+                   'rédaction initiale. \\textbf{l.~25 2 tables pour écrire :} Condition matérielle '
                    "essentielle au bonheur de l'écrivain-diariste.",
-       'historique': '\\textbf{l.~11--13 sur demande instante du Major Levy, je resterai au Purchase Board '
+       'historique': '\\textbf{l.~12--14 sur demande instante du Major Levy, je resterai au Purchase Board '
                      ":} C'est la consécration professionnelle du travail accompli par Hippolyte Combes "
                      'depuis août 1916 : le Major Levy intervient personnellement auprès de la Mission '
                      "française pour conserver son interprète expérimenté à la commission d'achats "
                      "(\\textit{Purchase Board}) d'Hérissart !"},
  167: {'title': 'Bonheur de la nouvelle chambre (billet 220) et tournée en auto Wolseley',
        'date': '11 (fin) – 12 mars 1917',
-       'lieu': 'Hérissart, Toutencourt, Contay, Beaumont, Molliens-au-Bois, Puchevillers, Raincheval (Somme)',
+       'lieu': 'Hérissart, Toutencourt, Contay, Beaumont, Molliens-au-Bois, Puchevillers, Raincheval, Candas (Somme)',
        'lines': ['Dim. 11 (fin)                                   Mars 1917',
                  '2 fenêtres. Impressions de calme & silence, favorables',
                  'à rêverie & étude —',
@@ -1239,11 +1241,11 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  '1 australien, moins confortable que la Vauxhall',
                  'de Jimmie.',
                  "Tout l'après-midi, à Puchevillers, puis",
-                 'Raincheval, calme.',
+                 'Raincheval, Candas.',
                  '[ Toutencourt : Exp. F. Canteen : 2 tins of',
                  "  Calvert's Tooth Powder : 1 f. 75 c. ]"],
        'critique': '\\textbf{l.~2--3 2 fenêtres. Impressions de calme \\& silence, favorables à rêverie \\& '
-                   'étude :} Suite directe de la dernière phrase du Scan \\#166 (« 1 table pour écrire — 2 '
+                   'étude :} Suite directe de la dernière phrase du Scan \\#166 (« 2 tables pour écrire — 2 '
                    "fenêtres ») : le billet 220 à Hérissart offre enfin à l'universitaire un véritable "
                    "cabinet d'étude. \\textbf{l.~11 Toutencourt :} Ajouté dans l'interligne supérieur "
                    "au-dessus de « Contay ». \\textbf{l.~17--18 Exp. F. Canteen : 2 tins of Calvert's Tooth "
@@ -1314,7 +1316,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Très belle journée. Soleil printanier.',
                  'Matinée, venu à pied & retour id. Toutencourt.',
                  'Après-midi, promenade à pied à Puchevillers',
-                 '& retour id., avec Lt. Wentworth. Air si',
+                 '& retour de =, avec Lt. Wentworth. Air si',
                  "chaud que sué bcp. Marche m'a fait bien.",
                  'Auto est aux workshops.',
                  'Troupes cavalerie indigène & anglaise',
@@ -1326,7 +1328,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                    "sac de voyage. \\textbf{l.~18 Auto est aux workshops :} Ajouté dans l'interligne entre "
                    'les lignes 17 et 19 pour expliquer pourquoi le lieutenant Wentworth et lui effectuent '
                    'leurs déplacements à pied.',
-       'historique': '\\textbf{l.~19--20 Troupes cavalerie indienne \\& anglaise traversé village au trot :} '
+       'historique': '\\textbf{l.~19--20 Troupes cavalerie indigène \\& anglaise traversé village au trot :} '
                      'Le 16–17 mars 1917 est la date exacte du déclenchement général du repli stratégique '
                      'allemand sur la ligne Hindenburg (\\textit{Opération Alberich}) : Bapaume est occupée '
                      'le 17 mars et Péronne le 18 mars ; la cavalerie britannique et indienne est lancée au '
@@ -1354,11 +1356,11 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  '19 Lundi. — Tout le jour, temps couvert, pluie',
                  'menace. Gros nuages. — Matinée, entière libre.',
                  'Après-midi, venu à pied avec off. à Puchevillers.',
-                 "Suivi même route que l'autre jr, à travers champs",
+                 "Suivi même route qu'à l'ordre, à travers champs",
                  'et sentiers —',
                  'Dû laisser occuper 1 des 2 lits par off. 63rd Div.,',
                  'naval div., de passage. Son régt revient des',
-                 'tranchées, Miraumont, Achiet-le-Pt. Fait partie dîner',
+                 'tranchées, Miraumont, Achiet-le-Pt. Fait parler ces',
                  "2 off., qui m'ont donné renseigts très intéressants."],
        'critique': '\\textbf{l.~16 Solde : 82 f. :} Solde de quinzaine versée le 18 mars à Toutencourt. '
                    '\\textbf{l.~23--26 off. 63rd Div., naval div., de passage... tranchées, Miraumont, '
@@ -1541,8 +1543,8 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Temps redevenu plus doux.'],
        'critique': '\\textbf{l.~7 [ Mess : dû au 31 mars : 27 f. 50 ] :} Note comptable insérée à droite de '
                    "la ligne 7 : sa part de pension au mess pour les vingt derniers jours de mars s'élève à "
-                   '27 fr. 50. \\textbf{l.~18 (vu bien-aimé, notaire) :} Jeu de mots ou nom patronymique (« '
-                   "M. Bienaimé, notaire » à Toutencourt, qu'il reverra le jour de Pâques, Scan \\#178, l.~5 "
+                   '27 fr. 50. \\textbf{l.~18 (Me Bien aimé, notaire) :} Nom patronymique (« '
+                   "Me Bienaimé, notaire » à Toutencourt, qu'il reverra le jour de Pâques, Scan \\#178, l.~6 "
                    ': « chez notaire Bienaimé »).',
        'historique': "\\textbf{l.~1--13 1er Dim. (Rameaux)... neige à gros flocons :} Le début d'avril 1917 "
                      "fut marqué par des blizzards tardifs exceptionnels sur tout le front d'Artois et de "
@@ -1603,7 +1605,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Après-midi, liberté.',
                  'Promené seul route Contay. Gdes rafales',
                  "vent froid m'ont fait rentrer tôt.",
-                 'Automne paysage —'],
+                 'Admiré paysage —'],
        'critique': '\\textbf{l.~3--4 1 staff du bureau de la Mission fr., Vth Army H.Q. :} Le terme anglais '
                    "\\textit{staff} (officier ou secrétaire d'état-major) et le sigle \\textit{Vth Army "
                    'H.Q.} (Quartier Général de la V\\textsuperscript{e} Armée britannique) sont employés '
@@ -1738,7 +1740,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Après-midi, courses en auto : Bresle, Lavieville,',
                  'Hénencourt, Warloy et Contay. Revu avec plaisir',
                  'les 3 1ers villages, où pas retourné depuis fin',
-                 "juillet 1916. Aujourd'hui, vides et déserts.",
+                 "juillet 1915. Aujourd'hui, vides et déserts.",
                  "Lieut. Gilbert, retour d'Abbeville, venu passer soirée",
                  'avec nous. Charmant causeur, très intéressant.',
                  '20 Vendredi. — Enfin, assez belle journée. Ciel',
@@ -1751,8 +1753,10 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'A Ribemont, revu avec plaisir les Colart,',
                  "qui m'ont fait meilleur accueil —"],
        'critique': '\\textbf{l.~9--11 Revu avec plaisir les 3 1ers villages, où pas retourné depuis fin '
-                   'juillet 1916 :} Renvoi interne précieux qui relie la fin du carnet à son tout début '
-                   '(juillet 1916) et aux mois du printemps 1916 passés dans le secteur de Bresle, '
+                   'juillet 1915 :} Lapsus calami évident du manuscrit (qui trace distinctement \\textit{1915} '
+                   'pour \\textit{1916}, époque où il était encore à Toulouse avant sa mobilisation d\'août 1915) : '
+                   'ce renvoi interne relie la fin du carnet à son tout début '
+                   '(fin juillet 1916) et aux mois du printemps 1916 passés dans le secteur de Bresle, '
                    'Lavieville, Hénencourt et Ribemont (chez la famille Colart). \\textbf{l.~18--20 stuck, à '
                    "la sortie du village de Buire. Aidés par des australiens, à dégager l'auto. Quels types "
                    "! :} Scène sur le vif où l'adjectif anglais \\textit{stuck} (embourbé) et l'exclamation "
@@ -1841,8 +1845,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                      ":}Contraste frappant avec la fourmilière militaire qu'était Acheux d'août 1916 à "
                      'février 1917 : désormais situé à plus de 40 km derrière le nouveau front de '
                      'Saint-Quentin–Cambrai, le bourg est rendu à sa solitude rurale.'},
- 184: {'title': 'Promenade le long des anciennes tranchées de Puchevillers et rencontre en plaine avec la '
-                'famille Mortreux',
+ 184: {'title': 'Promenade le long des anciennes tranchées de Puchevillers et visite à la famille Mortreux à Varennes',
        'date': '26 – 27 avril 1917',
        'lieu': 'Hérissart, Contay, Puchevillers, Pierregot, Harponville, Varennes, Rubempré (Somme)',
        'lines': ['26 Jeudi.                                       — Avril 1917 —',
@@ -1855,7 +1858,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Nuit merveillet étoilée —',
                  '27 Ven.',
                  'Matin, courses à Contay, Harponville & Varennes,',
-                 'où revu en plaine famille Mortreux —',
+                 'où revu av. plaisir famille Mortreux —',
                  'Après-midi, Pierregot & Rubempré. Rentré',
                  "seul à pied de Rubempré ; l'auto, continuant",
                  'sur Varennes.',
@@ -1864,9 +1867,9 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
        'critique': '\\textbf{l.~6 dug-outs et de tranchées :} Emprunt au terme militaire britannique '
                    '\\textit{dug-out} (abri souterrain creusé dans la craie), intégré sans traduction à la '
                    "description d'une promenade vésperale.",
-       'historique': '\\textbf{l.~10--11 Varennes, où revu en plaine famille Mortreux :} Les agriculteurs '
-                     'picards de Varennes (la famille Mortreux) ont repris les travaux des champs de '
-                     "printemps dans la plaine désormais libérée du passage des convois d'artillerie."},
+       'historique': '\\textbf{l.~10--11 Varennes, où revu av. plaisir famille Mortreux :} À Varennes-en-Croix, '
+                     'Hippolyte retrouve avec plaisir la famille d\'agriculteurs Mortreux chez qui il s\'était '
+                     'déjà arrêté lors de ses tournées d\'automne et d\'hiver.'},
  185: {'title': 'Annonce du départ prochain pour Cambrai et flânerie avec le lieutenant Gilbert',
        'date': '28 – 29 avril 1917',
        'lieu': 'Hérissart, Pierregot, Contay, Mirvaux (Somme)',

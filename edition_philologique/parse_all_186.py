@@ -147,7 +147,7 @@ ABBREV_MAP = [
     (r"(?<![A-Za-z.])\bMer\.(?![A-Za-z])", "Mer.", "\\textit{scil.} Mercredi"),
     (r"(?<![A-Za-z.])\bMerc\.(?![A-Za-z])", "Merc.", "\\textit{scil.} Mercredi"),
     (r"(?<![A-Za-z.])\bMerc\b(?![A-Za-z.])", "Merc", "\\textit{scil.} Mercredi"),
-    (r"(?<![A-Za-z.])\bJ\.(?![A-Za-z])", "J.", "\\textit{scil.} Jeudi"),
+    (r"(?<![A-Za-z.])\bJ\.(?![A-Za-z]|\s*à\b)", "J.", "\\textit{scil.} Jeudi"),
     (r"(?<![A-Za-z.])\bVen\.(?![A-Za-z])", "Ven.", "\\textit{scil.} Vendredi"),
     (r"(?<![A-Za-z.])\bVendr\.(?![A-Za-z])", "Vendr.", "\\textit{scil.} Vendredi"),
     (r"(?<![A-Za-z.])\bVe\.(?![A-Za-z])", "Ve.", "\\textit{scil.} Vendredi"),
@@ -557,7 +557,7 @@ def clean_line_and_extract_note(raw_line, line_no):
         uncertain_readings.append(match.group(0))
         return f"@@UNCERTAIN{len(uncertain_readings) - 1}@@"
     line = re.sub(
-        r"\[[^\[\]]*(?:\?|illis|incertain|blanc|signe|ajout|addition|non déchiffr|non établi|bord droit)[^\[\]]*\]",
+        r"\[[^\[\]]*(?:\?|illis|incertain|blanc|signe|ajout|addition|non déchiffr|non établi|bord droit|bas de photographie|biffé|surchargé|groupe abrégé)[^\[\]]*\]",
         protect_uncertainty, line, flags=re.I,
     )
     if any("blanc" in reading.lower() for reading in uncertain_readings):
@@ -657,9 +657,9 @@ def clean_line_and_extract_note(raw_line, line_no):
     return line, " ".join(dedup_notes)
 
 
-def build_all_186_records():
+def build_all_186_records(apply_revision=True):
     files = get_sorted_scan_filenames()
-    docs = parse_docx_blocks()
+    docs = parse_docx_blocks() if any("lines" not in SCANS_001_074_META[n] for n in range(1, 75)) else []
 
     records = []
 
@@ -739,6 +739,9 @@ def build_all_186_records():
             "historique": hist_str,
         })
 
+    if apply_revision:
+        from revision_philologique import apply_verified_corrections
+        records = apply_verified_corrections(records, clean_line_and_extract_note)
     return records
 
 
