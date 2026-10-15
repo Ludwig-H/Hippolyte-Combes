@@ -19,9 +19,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 2 : **2 Livre - Journal** *titulus in pittacio octogono.*
-- Ligne 5 : **5 25 juillet 1916** *terminus a quo.*
-- Ligne 6 : **6 30 avril 1917** *terminus ad quem.*
+- Ligne 1 : **1 Livre - Journal** *titulus in pittacio octogono.*
+- Ligne 3 : **3 25 juillet 1916** *terminus a quo.*
+- Ligne 4 : **4 30 avril 1917** *terminus ad quem.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **Codicologie et matérialité :** Couverture extérieure en carton souple recouvert d'une toile cirée noire (carnet de poche britannique à coins arrondis). L'étiquette octogonale collée au centre porte, tracé à la plume et à l'encre noire d'une main posée, le titre comptable *Livre - Journal* encadré de deux filets triples de tirets.
@@ -41,7 +41,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | 25 Ma.          Juillet 1916
  2 | Lucheux          Bien reçu
  3 | Toute nuit, passée très mauvaise –
- 4 | Toujours même ciel gris et bas: ciel de
+ 4 | Toujours même ciel gris et bas : ciel de
  5 | Flandre. Beaux arbres élancés aux branches
  6 | retombantes entourent pâturages ou champs
  7 | d'avoine et de blé — épis très hauts y mélangés
@@ -50,24 +50,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | beauté cachée par rideau de Saules, où ras-
 11 | semblement se fait devant cimetière qui
 12 | entoure église très curieuse
-13 | Après-midi: bien reposé chambre — quand
+13 | Après-midi : bien reposé chambre — quand
 14 | terminé déménagement sur le derrière, à
 15 | cause de l’arrivée 30 off. du R. Scots
-16 | Visité longuement église village: remarqué
+16 | Visité longuement église village : remarqué
 17 | 2 rangs de statues (en plâtre, en bois) sous les
 18 | orgues
 19 | Vers 7h 1/2., visite des dames du chateau
 20 | et les ai conduites au mess de ma Cie
-21 | A Mme Becker, pour repas d’hier & 4 oeufs: 1 f
-22 | Karnet: 75 c
+21 | A Mme Becker, pour repas d’hier & 4 oeufs : 1 f
+22 | Karnet : 75 c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma.** *scil.* Mardi.
 - Ligne 7 : **7 y** *scil.* et.
-- Ligne 15 : **15 off.** *scil.* officiers. **15 off** *abbr. pro* officier(s).
+- Ligne 15 : **15 off.** *scil.* officiers.
 - Ligne 19 : **19 1/2** *scil.* demi / moitié.
-- Ligne 20 : **20 Cie** *scil.* Compagnie.
+- Ligne 20 : **20 Cie** *scil.* Compagnie. **20 mess** *angl. in ms.*
 - Ligne 21 : **21 Mme** *abbr. pro* Madame.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -92,16 +92,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | même ds les environs -- pour trouver 36 chambres
  6 | d’off ⟦& 15 lits⟧ – Libre enfin vers 2H, mais harassé
  7 | de fatigue et mourant de faim –
- 8 | Tout l'après-midi: ds ma chambre et
+ 8 | Tout l'après-midi : ds ma chambre et
  9 | me suis bien reposé –
 10 | Diner pris, vers 9h, resté lg moment porte
-11 | cottage, à regarder alentours: église aux
+11 | cottage, à regarder alentours : église aux
 12 | briques rouges, grands potagers, à g. moutons
 13 | – château de la Bruyère – Ciel très bas et
 14 | gris. Silence et solitude funèbre –
 15 | – appris avec regret que le nouveau changement
 16 | de cantonnement, le 28 ct –
-17 | Food: 60 c. – – Washing: 1 f. –
+17 | Food : 60 c. – – Washing : 1 f. –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -111,7 +111,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 5 : **5 ds** *abbr. pro* dans.
 - Ligne 6 : **6** ⟦& 15 lits⟧ *del. in ms.* **6 d’off** *scil.* officiers.
 - Ligne 8 : **8 ds** *abbr. pro* dans.
-- Ligne 10 : **10 lg** *abbr. pro* long / longtemps.
+- Ligne 10 : **10 lg** *abbr. pro* long.
 - Ligne 11 : **11 cottage** *angl. in ms.*
 - Ligne 13 : **13 Bruyère** *lect. incert. in ms.*
 - Ligne 16 : **16 ct** *scil.* courant.
@@ -144,24 +144,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | Après lunch, venu à cheval à Hazebrouck
 11 | Ville parait assez importante
 12 | grande place –
-13 | Eglise – ( avec Square à g. )
-14 | Fin journée mélancolique: arpenté lgts
+13 | Eglise – (avec Square à g.)
+14 | Fin journée mélancolique : arpenté lgts
 15 | seule petite allée jardins potagers devant un
 16 | cottage. Temps de brouillard. Silence et
 17 | désert funèbre.
-18 | A Renescure: boite de plumes: 1 f 50. –
-19 | 2 carnets toiles-papier: 2 f + 2 f. –
-20 | Cartes ph. d’ Ypres: 1 f 20. – C.P. de Renescure: 60c +
-21 | A Hazebrouck: Solde: 84 fr. – Tbres (varia): 30c. –
-22 | 1 cahier carbone: 1 f
-23 | Cte d’E. Major: 90 c. – 3 élastiq. de rechange
-24 | ( bretelles ): 6 f –
+18 | A Renescure : boite de plumes : 1 f 50. –
+19 | 2 carnets toiles-papier : 2 f + 2 f. –
+20 | Cartes ph. d'Ypres : 1 f 20. – C.P. de Renescure : 60c +
+21 | A Hazebrouck : Solde : 84 fr. – Tbres (varia) : 30c. –
+22 | 1 cahier carbone : 1 f
+23 | Cte d’E. Major : 90 c. – 3 élastiq. de rechange
+24 | (bretelles) : 6 f –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 J.** *scil.* Jeudi.
 - Ligne 2 : **2 breakfast** *angl. in ms.*
-- Ligne 9 : **9 lg** *abbr. pro* long / longtemps.
+- Ligne 9 : **9 lg** *abbr. pro* longtemps.
 - Ligne 10 : **10 lunch** *angl. in ms.*
 - Ligne 14 : **14 lgts** *scil.* longtemps.
 - Ligne 16 : **16 cottage** *angl. in ms.*
@@ -198,15 +198,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | blé – aux épis très beaux & très hauts –
 12 | Contourné Hazebrouck par les faubourgs
 13 | Peu à peu, soleil ardent perce nuages. Après-
-14 | midi et fin journée: chaleur intense –
+14 | midi et fin journée : chaleur intense –
 15 | Vers 4h 1/2, enfin, parvenus au terme voyage
 16 | gde prairie autour d’ 1 ferme – Impossible trouver
 17 | chambre pour moi – Dû me contenter d’ 1 grenier
 18 | Harassé de fatigue, enfermé de chaleur
 19 | Besoin de repos extrême
 20 | Louise \dots pour oeufs & lait
-21 | Food (extra): 10 c, 1 f, 1 f, 60 c.. – Cartes ph.: 10 c
-22 | Tip au groom pour soigné poney: 1 f. –
+21 | Food (extra) : 10 c, 1 f, 1 f, 60 c.. – Cartes ph. : 10 c
+22 | Tip au groom pour soigné poney : 1 f. –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -242,7 +242,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | à St-Jans Cappel. et de là hameau du Mont
  6 | Recherché fermes à ce village et causé lg
  7 | la dernière attaque à l.q. notre division a pris part
- 8 | Après-midi: un frère de Curtet, venu me
+ 8 | Après-midi : un frère de Curtet, venu me
  9 | prendre. de 2h à 5H, au plein soleil, ds champs
 10 | où fait faucher & peser fourrage –
 11 | Oté veste & gilet – allongé s/ l’herbe – regardé
@@ -250,8 +250,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | Région de plaines, de nombreuses houblonnières
 14 | A l’horizon, ballons captifs. De temps à autre
 15 | bombardement lointain –
-16 | Ciel traversé d’ avions anglais.
-17 | Après diner: venu promener au village de
+16 | Ciel traversé d'avions anglais.
+17 | Après diner : venu promener au village de
 18 | St Jans - Cappel
 19 | (1) maisons très basses – beaux rideaux aux
 20 | fenêtres –
@@ -268,7 +268,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 7 : **7 l.q.** *scil.* laquelle.
 - Ligne 9 : **9 ds** *abbr. pro* dans.
 - Ligne 11 : **11 s/** *abbr. pro* sur.
-- Ligne 12 : **12 lg** *abbr. pro* long / longtemps. **12 Margte** *scil.* Marguerite (Calmels).
+- Ligne 12 : **12 lg** *abbr. pro* longtemps. **12 Margte** *scil.* Marguerite (Calmels).
 - Ligne 18 : **18 St** *abbr. pro* Saint.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -301,10 +301,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | – plaines fertiles, entrecoupées de boqueteaux
 14 | et de houblonnières. Ciel peu à peu
 15 | estompé de rose –
-16 | – Tip à Hancock, headcook: 5 f –
-17 | – A fermière, pour lait & bière: 75c
+16 | – Tip à Hancock, headcook : 5 f –
+17 | – A fermière, pour lait & bière : 75c
 18 | Lundi 31. Chaleur accablante – Air irrespirable
-19 | Matin, en auto avec mes off.: au
+19 | Matin, en auto avec mes off. : au
 20 | refilling point, puis à Bailleul, enfin
 21 | chez fermier Terrien –
 22 | Après-midi, en plein soleil cuisant dû
@@ -324,7 +324,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 8 : **8 s/** *abbr. pro* sur.
 - Ligne 10 : **10 tt** *scil.* tout.
 - Ligne 16 : **16 headcook** *angl. in ms.*
-- Ligne 19 : **19 off.** *scil.* officiers. **19 off** *abbr. pro* officier(s).
+- Ligne 19 : **19 off.** *scil.* officiers.
 - Ligne 20 : **20 refilling point** *angl. in ms.*
 - Ligne 23 : **23 waggon** *angl. in ms.*
 - Ligne 24 : **24 green** *angl. in ms.*
@@ -352,14 +352,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | grenier, où ménagé installation sommaire.
  7 | Après-midi, promenade à Bailleul.
  8 | Parti à 4h. Mis 30 m. pour parcourir distance
- 9 | Petite ville claire. Place assez semblable à celle d’ Hazebrouck
+ 9 | Petite ville claire. Place assez semblable à celle d'Hazebrouck
 10 | & de Béthune Parcouru rues principales et
 11 | regardé longuement église & hotel de ville
 12 | Rentré vers 6H.. Chaleur accablante
-13 | Payé à fermière: lait et bière: hier: 20c
-14 | et aujourd’hui: 20 c. + 10 c – + 10c
-15 | A Bailleul: cartes ph.: 50c., 60c., 0.10 varia
-16 | : 4 cartes vues M. Guétin: 1 f 20c
+13 | Payé à fermière : lait et bière : hier : 20c
+14 | et aujourd’hui : 20 c. + 10 c – + 10c
+15 | A Bailleul : cartes ph. : 50c., 60c., 0.10 varia
+16 | : 4 cartes vues M. Guétin : 1 f 20c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -394,8 +394,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Au retour, me suis longt arrêté devant dentellières
  9 | travaillant rue devant maisons. Très intéressé
 10 | et émerveillé par leur ouvrage délicat
-11 | – A Bailleul: Ctes ph.: 20c. – Etui pl.: 2f
-12 | 2m 40 de galon noir pr lorgnons: 35c.. Drink: 10, 10c
+11 | – A Bailleul : Ctes ph. : 20c. – Etui pl. : 2f
+12 | 2m 40 de galon noir pr lorgnons : 35c.. Drink : 10, 10c
 13 | 3 J –          Même tempér., vraiment estivale
 14 | Après-midi, venu de nouveau promen.
 15 | à pied à Bailleul. Arrêts fréquents dans
@@ -406,13 +406,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 20 | de Lille. etc
 21 | Entré pour me reposer à St Vaast
 22 | Au retour, assis au fond jardin ferme où loge
-23 | – Epingles: 40c – Drink: 10c –
+23 | – Epingles : 40c – Drink : 10c –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 b.** *scil.* belle. **1 Me** *scil.* Mercredi.
 - Ligne 4 : **4 wagon** *angl. in ms.*
-- Ligne 5 : **5 à** *scil.* Jusqu'à. **5 J.** *scil.* Jeudi.
+- Ligne 5 : **5 J. à** *scil.* Jusqu'à. **5 J.** *scil.* Jeudi.
 - Ligne 7 : **7 égl.** *scil.* église. **7 St** *abbr. pro* Saint.
 - Ligne 8 : **8 longt** *scil.* longtemps.
 - Ligne 11 : **11 pl** *lect. incert. in ms.* **11 ctes ph.** *abbr. pro* cartes photographiques.
@@ -450,8 +450,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | ardent des jours précédents
 11 | Tout l’après-midi et fin journée, repos garret
 12 | ________ Touché au bureau milit., à
-13 | La Croix du Bac: 80 f 20 c (y compris 8f
-14 | supplément 14 juillet ) –
+13 | La Croix du Bac : 80 f 20 c (y compris 8f
+14 | supplément 14 juillet) –
 15 | ________
 16 | Ferme autour de l. notre Coy est cantonnée
 17 | isolée en rase campagne. Y a calme et
@@ -493,14 +493,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | croirait déjà en automne
  9 | De mon garret, (où suis remonté), la
 10 | nuit tombée, entendu famille ferme
-11 | en commun prière du soir: voix grave &
+11 | en commun prière du soir : voix grave &
 12 | monotone du père, gds et ptts
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 4 : **4 gds** *scil.* grands.
 - Ligne 9 : **9 garret** *angl. in ms.*
-- Ligne 12 : **12 ptts** *scil.* tous?. **12 gds** *abbr. pro* grands.
+- Ligne 12 : **12 gds** *abbr. pro* grands. **12 ptts** *abbr. pro* petits.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~3 Vent bruissement :** Juxtaposition nominale sans verbe conjugué, restituant l'impression auditive immédiate. **l.~9 De mon garret (où suis remonté) :** Reprise du terme anglais *garret*. **l.~12 gds et ptts :** Abréviation par suspension vocalique (*grands et petits*).
@@ -537,9 +537,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | Fin journée vraiment superbe
 19 | Lumière vive éclaire paysage plat
 20 | A fermière de St Jans-Cappel (pour oeufs,
-21 | beurre, lait): 1f 60. et for washing: 3f –
-22 | Consommations: 60 c
-23 | A Connelly, mon groom: 1f –
+21 | beurre, lait) : 1f 60. et for washing : 3f –
+22 | Consommations : 60 c
+23 | A Connelly, mon groom : 1f –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -586,9 +586,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | Avec lui, assis sur l’herbe, écouté
 13 | musique militre anglse –
 14 | Installation provisoire où je suis
-15 | Payé à ma propre: oeufs, huitaine,
-16 | bière: 90c.. – 1 litre lait: 20c + 0.05 –
-17 | – Ctes ph.: 10 c
+15 | Payé à ma propre : oeufs, huitaine,
+16 | bière : 90c.. – 1 litre lait : 20c + 0.05 –
+17 | – Ctes ph. : 10 c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -622,7 +622,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | nouveaux billets et messroom pour mes off.
  4 | Libre, avant midi – mais alors harassé
  5 | de fatigue –
- 6 | Quand venu prendre mes rations: trouvé
+ 6 | Quand venu prendre mes rations : trouvé
  7 | Coy partie. Devant vide, appris que tte la Coy
  8 | shifte ce matin, à 9H – Domm!
  9 | Cherché autre chambre au village –
@@ -631,14 +631,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | route de Bac St Maur, aux gds arbres
 13 | au 1er étage. Y couche dès ce soir.
 14 | Terminé journée avec Maurin
-15 | Payé à ma propre: cooking: 50c
-16 | Oeufs & lait: 70 c
-17 | 1 litre bière: 30 c
+15 | Payé à ma propre : cooking : 50c
+16 | Oeufs & lait : 70 c
+17 | 1 litre bière : 30 c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2 Cie** *abbr. pro* Compagnie.
-- Ligne 3 : **3 off.** *scil.* officiers. **3 off** *abbr. pro* officier(s).
+- Ligne 3 : **3 off.** *scil.* officiers. **3 billets** *angl. in ms.*
 - Ligne 7 : **7 Devant** *lect. incert. in ms.* **7 vide** *lect. incert. in ms.* **7 Coy** *scil.* Compagnie. **7 tte** *scil.* toute.
 - Ligne 8 : **8 shifte** *angl. in ms.*
 - Ligne 12 : **12 gds** *abbr. pro* grands. **12 St** *abbr. pro* Saint.
@@ -666,7 +666,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Achève de m’installer et le mieux possible
  5 | Journée entière de liberté –
  6 | Resté chambre à me reposer –
- 7 | Food: eggs: 50 c
+ 7 | Food : eggs : 50 c
  8 | mercredi 9.
  9 | Encore chalr accablante
 10 | Resté le + possible ds ma chambre
@@ -699,7 +699,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | 10 Jeudi.          Aout / 16 –
  2 | pluie enfin, matinée et partie soir
- 3 | pluie fine & intermittente ~ Peu
+ 3 | pluie fine & intermittente — Peu
  4 | agréable de marcher le long routes
  5 | tjs arrosées –
  6 | Après-midi venu promener à
@@ -716,7 +716,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | soleil contemplé de ma fenêtre
 18 | vers Estaires & Hazebrouck
 19 | Les Australiens
-20 | Ctes ph.: 1 f: – Lait: 50 c
+20 | Ctes ph. : 1 f : – Lait : 50 c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -752,11 +752,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | nous étions, descendus cave pendant le
 10 | bombardt. Enervement et
 11 | malaise – Insécurité relative
-12 | Oeufs: 50 + 0.05. – –
+12 | Oeufs : 50 + 0.05. – –
 13 | Question nouveau départ demain
 14 | qque chambre, haute fenêtre, belle
 15 | vue campagne du côté
-16 | ouest d’ Armentières
+16 | ouest d'Armentières
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -787,15 +787,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | Venu promener le long rives
  6 | la Lys. Causé lgs avec éclusier
  7 | puis continué route sur berge
- 8 | gazonnée – Trouvé coin d’ ombre
+ 8 | gazonnée – Trouvé coin d'ombre
  9 | champ de luzerne, devant vaste champs
-10 | d’ épis de blé tout jaunis par soleil
+10 | d'épis de blé tout jaunis par soleil
 11 | Allongé s/ le dos, gouté repos
 12 | délicieux – admirant nuages floconneux
 13 | collés s/ ciel bleu clair –
-14 | ½ litre lait: 10 c
+14 | ½ litre lait : 10 c
 15 | Après lunch, resté chambre à
-16 | lire – impossible s’ éloigner
+16 | lire – impossible s'éloigner
 17 | air brulant, soleil torride
 ```
 
@@ -823,7 +823,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | 13 D –          Aout 1916
  2 | Soleil ardent
- 3 | Déception pénible: attendre en vain un
+ 3 | Déception pénible : attendre en vain un
  4 | mot de Margte –
  5 | Et le Soir, porte-au-noir –
  6 | Après-midi, venu retrouver Maurin
@@ -831,16 +831,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | le long rivière de la Lys –
  9 | 14 L – Ciel couvert nuages – forte
 10 | touffeur, vers 1h, pluie très
-11 | rafraichi l’ air – et mouille ( colle ) cette
+11 | rafraichi l'air – et mouille (colle) cette
 12 | poussière routes.
 13 | Pris plaisir à regarder averse
 14 | zébrer écran de vitre oblique, à
 15 | écouter la pluie crépiter s/ vitre
 16 | de ma fenêtre
 17 | Avec Lt Curtet, course à cheval
-18 | de la direction d’ Armentières –
-19 | Note de blanchissage: 50c
-20 | Lait: 5c + 0.05
+18 | de la direction d'Armentières –
+19 | Note de blanchissage : 50c
+20 | Lait : 5c + 0.05
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -866,16 +866,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | 15 Ma – Assompt.          Aout / 16
- 2 | Toute matinée et 1 peu après-midi:
+ 2 | Toute matinée et 1 peu après-midi :
  3 | fortes ondées. Routes détrempées. Aucun
  4 | envie aller promener. Resté partie journée
  5 | ds ma chambre. Large pièce; hte
  6 | pente de plafond. Belle vue de la
  7 | fenêtre, où me tiens sans cesse
- 8 | – Depuis tt ce matin, à l’ aube,
+ 8 | – Depuis tt ce matin, à l'aube,
  9 | épais brouillards
 10 | Donné à ma propie pour
-11 | washing semaine derne et 2 p. lait: 5 f. –
+11 | washing semaine derne et 2 p. lait : 5 f. –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -910,17 +910,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | mouillé j. à la peau –
  8 | Fin journée, assez belle. Venu retrouver Maurin,
  9 | promené ensemble et assis, pour causer
-10 | sur l’ herbe sèche, près des lignes de ma
+10 | sur l'herbe sèche, près des lignes de ma
 11 | Coy.          Vers 7 H ½ orage
-12 | [ – Solde & indemnité de fonctions:
+12 | [ – Solde & indemnité de fonctions :
 13 | 84 fr.
 14 | 19 S. – Tte la nuit –
 15 | Au pt matin, pluie torrentielle. Routes
 16 | détrempées. Température rafraîchie délic.
-17 | Toute matinée et avant après-midi:
+17 | Toute matinée et avant après-midi :
 18 | averses très fortes – comme grêle.
 19 | Vers 2H 30, ce entêté de Curtet venu
-20 | me prendre. Dû l’ accompagner
+20 | me prendre. Dû l'accompagner
 21 | à cheval, – à cette fois sur un bon poney.
 22 | Longue chevauchée zone
 23 | exposée, derrière ligne de feu
@@ -930,7 +930,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 1 : **1 Ve.** *scil.* Vendredi.
 - Ligne 5 : **5 ds** *abbr. pro* dans. **5 refilling point** *angl. in ms.*
 - Ligne 7 : **7 j. à** *abbr. pro* jusqu'à.
-- Ligne 11 : **11 Coy.** *scil.* Company. **11 Coy** *angl.* Company.
+- Ligne 11 : **11 Coy.** *scil.* Company.
 - Ligne 12 : **12** *in marg. cum unco* (comptes).
 - Ligne 13 : **13 fr.** *abbr. pro* franc(s).
 - Ligne 14 : **14 S.** *scil.* Samedi. **14 Tte** *abbr. pro* Toute.
@@ -956,17 +956,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | et galop à travers champs          19 Sam –
  2 | et arrivé j. à la blanchisserie Barbry
  3 | Puis dirigé sur Fleurbaix. Au centre du
- 4 | village ( tourné à dr. ) et remonté lentement rue
+ 4 | village (tourné à dr.) et remonté lentement rue
  5 | dont presque ttes les maisons ont reçu des
  6 | obus. –
  7 | Continué ensuite sur Armentières
- 8 | Arrivé par gare, ( l’ aspect est complt désolé )
+ 8 | Arrivé par gare, (l'aspect est complt désolé)
  9 | Parcouru principaux quartiers.
 10 | Ville importante, riche – hélas b. maisons
 11 | offrent des bombardements grands
 12 | dommages. Vu un peu de çà de là, toits
 13 | crevés, de façades trouées, cloisons
-14 | d’ appartement mises à nu –
+14 | d'appartement mises à nu –
 15 | Église à briques rouges, sur 1 place
 16 | très atteinte. Clocher découronné
 17 | Toiture abattue
@@ -1008,7 +1008,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | 20 D –          Aout 1916
  2 | Tour à tour averses & sunshine
- 3 | Partie de l’ après-midi: assez beau –
+ 3 | Partie de l'après-midi : assez beau –
  4 | Avec cet idiot de Curtet, to the fields for
  5 | green forage, puis, café et rhum chez
  6 | le propre M. Barbry y étaient
@@ -1017,19 +1017,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | Moral devenu excellent. Réagi contre
 10 | dépression des jours précédents. Me fais fête
 11 | déjà départ semaine prochaine
-12 | de ma fenêtre: haute & large, découvre
-13 | gd horizon: prairies, champs, boqueteaux
+12 | de ma fenêtre : haute & large, découvre
+13 | gd horizon : prairies, champs, boqueteaux
 14 | Paysage d’ 1 banalité & platitude extrême
 15 | 21 L. Journée very belle. Soleil, briller
 16 | matin & soir. Ciel couvert pendant 1 c. temps
 17 | Fin jour très belle mervx sunset, que
-18 | j’ ai admiré de ma fenêtre. Lignes de
-19 | nuages frangés d’ or étincelant
+18 | j'ai admiré de ma fenêtre. Lignes de
+19 | nuages frangés d'or étincelant
 20 | Allégé mes bagages en
 21 | expédiant 1 bte à Nogent
 22 | Matin, venu à cheval à Steenwerk
-23 | – A Proprie: 5 f ( cooking, washing, & eggs )
-24 | A mon groom: 2 f – Varia: 10 c –
+23 | – A Proprie : 5 f (cooking, washing, & eggs)
+24 | A mon groom : 2 f – Varia : 10 c –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -1062,28 +1062,28 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | 22 Ma          Aout / 16
- 2 | Ciel nuageux – s’ est tt à fait éclairci
+ 2 | Ciel nuageux – s'est tt à fait éclairci
  3 | après-midi et très beau soleil
- 4 | Venu à pied à Steenwerck: 55 m.
+ 4 | Venu à pied à Steenwerck : 55 m.
  5 | Promenade lente, très agréable
  6 | Vers 5H ½, retrouvé Maurin, et allés
  7 | ensemble à Bac St. Maur. En revenant
  8 | bonne heure de causerie salle manger
  9 | chez 1 charcutier & y soupé. Proprié
-10 | m’ a décrit ses lignes bordées d’ Arbres
+10 | m'a décrit ses lignes bordées d'Arbres
 11 | Magnifique sunset
 12 | – Fait expédier par 1 commre de brigade
 13 | 1 sac linge à Nogent, par gare de
-14 | Steenwerck: 13 kgs; 3f 80; factage à l’ arrivée
-15 | compris ( 40c ). – Timbrage au départ: 50c
-16 | Ctes ph à Steenwerck: 80 c
-17 | Varia: 10 c
-18 | Bain: 1 f
+14 | Steenwerck : 13 kgs; 3f 80; factage à l'arrivée
+15 | compris (40c). – Timbrage au départ : 50c
+16 | Ctes ph à Steenwerck : 80 c
+17 | Varia : 10 c
+18 | Bain : 1 f
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma** *scil.* Mardi.
-- Ligne 2 : **2 fait** *scil.* tout à fait. **2 tt** *abbr. pro* tout.
+- Ligne 2 : **2 tt** *scil.* tout.
 - Ligne 4 : **4 m.** *scil.* minutes.
 - Ligne 9 : **9 Proprié** *scil.* Propriétaire.
 - Ligne 11 : **11 sunset** *angl. in ms.*
@@ -1108,12 +1108,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | 23 Merc          Aout / 16
  2 | Temps ouvert, matinée et surtout
  3 | fin journée – De 6H ½, avec 1 légère
- 4 | brume répandue ds l’ air. –
+ 4 | brume répandue ds l'air. –
  5 | Après-midi, promenade à cheval
  6 | arrivé j-à Estaires. Visité longuement
  7 | cette petite ville, très animée & x magasins
- 8 | Très belle église ( chœur, stalles ogivales
- 9 | et très artistiques statues en bois ( S. Ambroise etc. )
+ 8 | Très belle église (chœur, stalles ogivales
+ 9 | et très artistiques statues en bois (S. Ambroise etc.)
 10 | Remarqué hotel de ville – écusson armoiries
 11 | peint mur au dessus du perron –
 12 | De nouveau
@@ -1121,11 +1121,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | Environs, est plats – & vulgaires –
 15 | sans intérêt pittoresque
 16 | Campagne est monotone & lourde
-17 | Dépense d’ activité & fatigues physique
+17 | Dépense d'activité & fatigues physique
 18 | est le bien du moral
-19 | Sensation d’ élasticité & santé parfaite
-20 | Ctes ph à Estaires: 3 f
-21 | ¼ livre bonbons chocolat: 75 c –
+19 | Sensation d'élasticité & santé parfaite
+20 | Ctes ph à Estaires : 3 f
+21 | ¼ livre bonbons chocolat : 75 c –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -1159,15 +1159,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | mon patron!
  8 | Revu Maurin & causé avec lui, longuement
  9 | Vers 7H, Esther venu prendre ts mes effets
-10 | et les a porter sous la tente de l’ Office
+10 | et les a porter sous la tente de l'Office
 11 | de la Charge
 12 | Impression de mélancolie, au moment
-13 | de m’ éloigner de ce village pour toujours.
-14 | Steenwerck: etaples: 1f. – Varia: 1f
-15 | Matin, réparation à 1 soulier: 40c
-16 | Tip à Esther: 50 c
+13 | de m'éloigner de ce village pour toujours.
+14 | Steenwerck : etaples : 1f. – Varia : 1f
+15 | Matin, réparation à 1 soulier : 40c
+16 | Tip à Esther : 50 c
 17 | Donné à Mme Cliquennois, pour cooking
-18 | Séchage et divers: 4 fr.
+18 | Séchage et divers : 4 fr.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -1195,24 +1195,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | Ven. 25 Août 1916
- 2 | Partis vers 8H m.. – à cheval, soleil s’ est
+ 2 | Partis vers 8H m.. – à cheval, soleil s'est
  3 | levé peu à peu. devint brulant
  4 | A 11H m. – à Bailleul.
  5 | Embarquement chevaux & wagons terminé
  6 | à midi ½.
  7 | Train démarre au 1H ½
  8 | Traversé plusies gares imptes sans arrêt
- 9 | A Lillers, vers 2H ½          Hazebrouck: 2H
-10 | A St. Pol: à 4H 30 s. Berguette: 2H30
-11 | Pris route à 5H – d’ abord bruine,
+ 9 | A Lillers, vers 2H ½          Hazebrouck : 2H
+10 | A St. Pol : à 4H 30 s. Berguette : 2H30
+11 | Pris route à 5H – d'abord bruine,
 12 | puis pluie battante
-13 | Pays pittoresque. Ce n’ est plus la
+13 | Pays pittoresque. Ce n'est plus la
 14 | campagne plate et monotone du nord.
 15 | Région très boisée. Verdures fraîches
-16 | comme au printemps. Si champs n’ étaient
-17 | pas moissonnés et les gerbes d’ or entassées
+16 | comme au printemps. Si champs n'étaient
+17 | pas moissonnés et les gerbes d'or entassées
 18 | en meules, on ne croirait pas être
-19 | à la fin de l’ été
+19 | à la fin de l'été
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -1237,12 +1237,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ### I. Transcription diplomatique
 ```text
- 1 | Ven. 25 ( suite )          Août 1916
+ 1 | Ven. 25 (suite)          Août 1916
  2 | En gare de Bailleul, vers 1H – ds le
  3 | train, joué par hommes, musique
- 4 | d’ harmonica, monotone & banal
+ 4 | d'harmonica, monotone & banal
  5 | sous le ciel pommelé de nuées grises & blanchâtres
- 6 | Réflexions amères. L’ abrutisst & bête indifférence
+ 6 | Réflexions amères. L'abrutisst & bête indifférence
  7 | des gens a envahi notre intellge, notre
  8 | cœur
  9 | Ciel de + en + bas, nuages
@@ -1253,17 +1253,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | Pluie recommence à tremper j. à la fin
 15 | Ven 7H enfin, arrivé à Marquay
 16 | petit hameau perdu en haut d’ 1 plateau
-17 | d’ Artois. Avec bp de peine, pu trouver
+17 | d'Artois. Avec bp de peine, pu trouver
 18 | chambrette unique où coucherai lit à côté
 19 | celui de ce Curtet
 20 | Invité à diner par off du mess
-21 | Food: Bailleul: 40c. – – St. Pol: 1 f.
+21 | Food : Bailleul : 40c. – – St. Pol : 1 f.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ven.** *scil.* Vendredi.
 - Ligne 2 : **2 le** *scil.* dans le. **2 ds** *abbr. pro* dans.
-- Ligne 6 : **6 abrutisst** *scil.* abrutissement.
+- Ligne 6 : **6 L'abrutisst** *scil.* abrutissement. **6 abrutisst** *abbr. pro* abrutissement.
 - Ligne 7 : **7 gens** *lect. incert. in ms.* **7 envahi** *lect. incert. in ms.* **7 intellge** *scil.* intelligence.
 - Ligne 9 : **9 bas** *scil.* plus en plus.
 - Ligne 11 : **11 délicieust** *scil.* délicieusement.
@@ -1297,22 +1297,22 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | de Bailleul-aux-Cornailles. à 2 ou 3
  9 | kilomètres de Marquay
 10 | Route à découvert, entre champs de
-11 | blé déjà moissonnés et champs d’ avoine
+11 | blé déjà moissonnés et champs d'avoine
 12 | où bruit le vent –
-13 | Plateau élevé, d’ où domine horizons
-14 | de bois; d’ où émergent clochers
-15 | d’ églises
+13 | Plateau élevé, d'où domine horizons
+14 | de bois; d'où émergent clochers
+15 | d'églises
 16 | Avant diner, que pris très tard,
 17 | promené sur la route de.. – à
-18 | l’ horizon de l’ O. très beau sunset
+18 | l'horizon de l'O. très beau sunset
 19 | Mauvaise installat° où je suis
 20 | Gosse, coqueluche – maison humide
-21 | Femme ( sale, noire – vieille tortue! )
+21 | Femme (sale, noire – vieille tortue!)
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
-- Ligne 18 : **18 O.** *scil.* Ouest. **18 sunset** *angl. in ms.*
+- Ligne 18 : **18 l'O.** *scil.* Ouest. **18 sunset** *angl. in ms.*
 - Ligne 19 : **19 installat°** *scil.* installation.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -1351,9 +1351,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 19 | Après-midi, très violent orage
 20 | Cour de la ferme, transformée en mare
 21 | Longues heures de mélancolie
-22 | et d’ ennui –
-23 | Confirmations nouvelles ( Roumanie déclare
-24 | guerre )
+22 | et d'ennui –
+23 | Confirmations nouvelles (Roumanie déclare
+24 | guerre)
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -1382,7 +1382,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | 30 Ma          Août 1916
  2 | Tout le jour, pluie. et rafales
  3 | Vent tourmente grands arbres du
- 4 | voisinage ( bois chateau, de l’ autre côté de
+ 4 | voisinage (bois chateau, de l'autre côté de
  5 | la route, et prairies derrière haies et
  6 | fait bruit effrayant
  7 | Matin & après-midi, en dépit ondées
@@ -1392,6 +1392,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma** *sic in ms.*
+- Ligne 4 : **4 (bois** *parenthesis non clausa in ms.*.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~1 30 Ma :** Lapsus calami du diariste sur l'abréviation du jour : le 29 août étant un mardi (Folio 15 recto), le 30 août 1916 est en réalité un mercredi (*Me.*). **l.~4--5 (bois chateau... derrière haies :** Parenthèse descriptive restée ouverte sans crochet fermant.
@@ -1415,25 +1416,25 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | haut plateau de Ramecourt & arrivé au
  6 | village de St. Michel-s-Ternoise. puis
  7 | suivi gde route Arras. St. Pol.
- 8 | Au fond vallon, s’ étend cette petite
+ 8 | Au fond vallon, s'étend cette petite
  9 | sous-préf de env 5000 habts
 10 | Rues en pente aboutissant à gde place
 11 | Eglise briques rouges, style hollandais,
-12 | ( 1697 ). – Remarqué intérieur plaque
-13 | marbre s/ 1 pilier: rappelant que
+12 | (1697). – Remarqué intérieur plaque
+13 | marbre s/ 1 pilier : rappelant que
 14 | mars 1767 le bienh Benoît Labre – passa
 15 | la nuit en prière ds cette = église
 16 | Rentré par Ostreville
-17 | Course m’ a fait bp de bien
-18 | A Saint-Pol: 12 Ctes ph: 50c – Verre: 40c
-19 | Carte du dépot: 70c. – Div. cartes ph: 0.80
-20 | Cartes ph. militaires: 40c – Loso
+17 | Course m'a fait bp de bien
+18 | A Saint-Pol : 12 Ctes ph : 50c – Verre : 40c
+19 | Carte du dépot : 70c. – Div. cartes ph : 0.80
+20 | Cartes ph. militaires : 40c – Loso
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 J.** *scil.* Jeudi.
 - Ligne 2 : **2 transformt** *scil.* transformant.
-- Ligne 3 : **3 j.à** *scil.* jusqu'à. **3 j. à** *abbr. pro* jusqu'à.
+- Ligne 3 : **3 j.à** *scil.* jusqu'à. **3 St** *abbr. pro* Saint.
 - Ligne 7 : **7 gde** *scil.* grande.
 - Ligne 9 : **9 sous-préf** *scil.* sous-préfecture. **9 env** *scil.* environ. **9 habts** *scil.* habitants.
 - Ligne 10 : **10 gde** *abbr. pro* grande.
@@ -1462,7 +1463,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | 1er V.          Septbre 1916
  2 | Matinée, temps variable
- 3 | Tantôt éclaircies – midi: qq rayons de soleil et puis
+ 3 | Tantôt éclaircies – midi : qq rayons de soleil et puis
  4 | ciel couvert de nuages
  5 | Venu promener au village de Ligny
  6 | ⟦Ligault⟧ - Flochel, à 2 kils 5. – Route en pente longe
@@ -1476,8 +1477,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | Mélancolie pénétrante. – Y éprouvé impress
 15 | ciel nuageux et
 16 | bas. Léger brise agitant ramures. Air doux.
-17 | On s’ arrête + réfléchir
-18 | Tip au headcook: 5 f –
+17 | On s'arrête + réfléchir
+18 | Tip au headcook : 5 f –
 19 | Jours se succèdent monotones &
 20 | ternes
 21 | Espoir départ prochain, lundi
@@ -1509,18 +1510,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | 2 S.          Septbre 16
  2 | Matinée, ds les champs. Herbes
  3 | couvertes de rosée mouillant souliers et bas
- 4 | arrive j-à la peau. Terre friable ( boueuse )
+ 4 | arrive j-à la peau. Terre friable (boueuse)
  5 | & semelles en fortes mottes.
  6 | Ciel tout couvert de gros nuages – A
- 7 | l’ horizon, pointent clochers villages voisins
+ 7 | l'horizon, pointent clochers villages voisins
  8 | au sein futaies & boqueteaux –
  9 | Après-midi, entiert libre
-10 | Washing: 1 f          Varia: 10c
-11 | ( 1 shirt. 1 vest / 1 p. socks. 1 handk )
+10 | Washing : 1 f          Varia : 10c
+11 | (1 shirt. 1 vest / 1 p. socks. 1 handk)
 12 | 3 Dim. Malgré ciel menaçant
 13 | allé à pied j-à St-Pol.
-14 | Sensation enivrante de gd air & d’ espace
-15 | – quand cheminé sur plateau d’ où très
+14 | Sensation enivrante de gd air & d'espace
+15 | – quand cheminé sur plateau d'où très
 16 | belle vue circulaire!
 17 | A St-Pol, revu les Eglises – au Repos
 18 | Parcouru plusies fois et lentement rues
@@ -1562,21 +1563,21 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Matin, venu à Roellecourt, sur 1 wagon
  5 | Retourné à pied.
  6 | Après-midi, fait avec lenteur ts mes
- 7 | paquets: Ts mes préparatifs terminés à 5H½
+ 7 | paquets : Ts mes préparatifs terminés à 5H½
  8 | Me réjouis, à la pensée de quitter cet
  9 | obscur & bas hameau, où on a eu été
 10 | si mal.
-11 | 5 Ma. Matin, prairie, appris par l’ Orderly
+11 | 5 Ma. Matin, prairie, appris par l'Orderly
 12 | N.C.O. que départ retardé. Sorti pr me rendre cte
-13 | ou confirmaton mauvaise nouvelle: encore 8
+13 | ou confirmaton mauvaise nouvelle : encore 8
 14 | jours à moisir ici, hélas!
 15 | Et Toujours, même temps affreux –
 16 | Ciel couvert de nuages – Pluie intermittente
 17 | Après-midi, malgré averses
 18 | menaçantes, venu à pied à Roellecourt.
 19 | Au retour, sous pluie battante
-20 | Temps abominable jusqu’ à fin jour –
-21 | Mission Fr.se: solde & Indemnité:
+20 | Temps abominable jusqu'à fin jour –
+21 | Mission Fr.se : solde & Indemnité :
 22 | 78 f 75c
 ```
 
@@ -1606,14 +1607,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | 3 D.          Septbr 116
- 2 | Champs d’ avoine non encore
+ 2 | Champs d'avoine non encore
  3 | fauchés, tout jaunes – et qui
  4 | bruissaient monotone, sous la caresse
  5 | de la brise. –
- 6 | A Saint-Pol: ctes ph: 30c + 2p
- 7 | Carte du dept Somme: 70c. Varia: 30c
- 8 | 1 boîte de saddle soap: 1 f 50
- 9 | 1 éponge: 60 c. – – 1/4 livre choc Poulain: 1f
+ 6 | A Saint-Pol : ctes ph : 30c + 2p
+ 7 | Carte du dept Somme : 70c. Varia : 30c
+ 8 | 1 boîte de saddle soap : 1 f 50
+ 9 | 1 éponge : 60 c. – – 1/4 livre choc Poulain : 1f
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -1641,28 +1642,28 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | 6 Me Enfin, beau temps. –          Septbre 1916
  2 | Après-midi superbe Chaud soleil.
  3 | Resté 2 h sur pature, assis chaise à
- 4 | l’ ombre de vieux noyer. Loin de gens.
+ 4 | l'ombre de vieux noyer. Loin de gens.
  5 | A 6H s.. dû accompagner Lt Ch... à
  6 | ferme voisinage. y fui bien accueilli
  7 | par propre, Mme Vauchel, femme très
  8 | intelligente y raisonnant admir..
  9 | Languis tjs de ce trou perdu, et
-10 | seule ( ma ) distraction
+10 | seule (ma) distraction
 11 | 7 J Encore une b. journée –
 12 | Tout Après-déjeuner parti campagne. marché
 13 | lentement et fait haltes fréquentes de la
 14 | carre gazonnée de Cornailles, de l. bois ou au
-15 | bord champs d’ avoine
+15 | bord champs d'avoine
 16 | Soleil ardent
 17 | Passé 1 longue heure ds cette petite ville de
-18 | St-Pol: aux maisons briques. rues en pente
+18 | St-Pol : aux maisons briques. rues en pente
 19 | aboutissant à gde place et eglise
-20 | Retour par St. Michel-sur-Ternoise: arrêt prolongé
+20 | Retour par St. Michel-sur-Ternoise : arrêt prolongé
 21 | ds le petit cimetière ombragé par vieux murs et tt
-22 | envahi par hautes herbes – au c s’ élève l’ église
+22 | envahi par hautes herbes – au c s'élève l'église
 23 | dont le clocher octogonal en pierre sculptée est
 24 | intéressant
-25 | ... Consommations: 50 c.
+25 | ... Consommations : 50 c.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -1697,9 +1698,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | 8 Ven.          Septre 116
- 2 | ⟦Tout l’ après-midi⟧
+ 2 | ⟦Tout l'après-midi⟧
  3 | dû attendre et inutilt 2 wagons de
- 4 | Bedfords: for green forage
+ 4 | Bedfords : for green forage
  5 | Après diner, soir, promené lgs
  6 | de la campagne
  7 | Clair de lune argenté
@@ -1707,7 +1708,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | me suis attardé petit chemin de Ryonval
 10 | ds la pâture derrière ferme Collet
 11 | Jouir de tout du silence nuit
-12 | — Box of tooth powder: 60 c
+12 | — Box of tooth powder : 60 c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -1741,14 +1742,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | et prolongés.
  6 | Passé par Ligny - St Flochel
  7 | puis atteint plateau où trench mortar
- 8 | school, et d’ où vue panoramique
+ 8 | school, et d'où vue panoramique
  9 | contrée environnante
 10 | Temps tt fait beau – Soleil supportable
 11 | Loin de poussière route
 12 | Vers 1H s., terminé 1ère étape, au
 13 | hameau de Monts-en-Ternois.
-14 | Cantonné chez gde femme, à l’ issue du
-15 | village – maison d’ habitation, ancien
+14 | Cantonné chez gde femme, à l'issue du
+15 | village – maison d'habitation, ancien
 16 | monastère –
 17 | Impression de calme reposant jardin
 18 | fleurs – allongé – s/ pelouse
@@ -1788,10 +1789,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | Dim. 10.          Septbre 16
  2 | Très bonne nuit couché s/ 2 bancs de
  3 | jardin rapprochés – devant le four –
- 4 | Temps d’ abord nuageux
+ 4 | Temps d'abord nuageux
  5 | Partis à 11H m
  6 | Voyage très agréable. – paysages très
- 7 | variés – d’ abord plaines. puis coteaux
+ 7 | variés – d'abord plaines. puis coteaux
  8 | et peu à peu hauteurs boisées.
  9 | A 1H ½, arrivés à Oppy
 10 | Campagne verdoyante. régions fertiles.
@@ -1808,7 +1809,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 2 : **2 s/** *abbr. pro* sur.
-- Ligne 5 : **5 m** *scil.* matin. **5 m.** *abbr. pro* matin.
+- Ligne 5 : **5 m** *scil.* matin.
 - Ligne 11 : **11 tt** *scil.* tout.
 - Ligne 12 : **12 b.** *scil.* belle. **12 Ptit** *abbr. pro* Petit.
 - Ligne 14 : **14 mess** *angl. in ms.*
@@ -1838,21 +1839,21 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | Aujd’hui souffert poussière.
  7 | A 11H m. soleil perce nuages – et
  8 | très ardent
- 9 | Traversé régions pittoresques: coteaux
+ 9 | Traversé régions pittoresques : coteaux
 10 | boisés, petite vallée verdoyante,
-11 | Arrêt à Lucheux: Edit de Louis XI. 1464
+11 | Arrêt à Lucheux : Edit de Louis XI. 1464
 12 | des postes
 13 | Raincheval, très gros village
 14 | maisons mal entretenues – fourmillant
 15 | de brancardiers. De nombreuses troupes y
 16 | cantonnées.
 17 | Trouvé chambrette famille de pauvres
-18 | mais braves gens. Petit diner: pris à manger
+18 | mais braves gens. Petit diner : pris à manger
 19 | mangé tjs au mess off
-20 | Tip au groom Connelly: 1 f –
-21 | Oeufs: 3 à Thièvres: 50 c. – 4 à Raincheval: 70 c
-22 | 6 cartes ph. de Raincheval: 30 c
-23 | 1 litre bière: 50 + 10 c –
+20 | Tip au groom Connelly : 1 f –
+21 | Oeufs : 3 à Thièvres : 50 c. – 4 à Raincheval : 70 c
+22 | 6 cartes ph. de Raincheval : 30 c
+23 | 1 litre bière : 50 + 10 c –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -1885,38 +1886,38 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  2 | Après excte nuit, les fatigues oubliées.
  3 | Déjeuné midi ds ma chambre
  4 | Après-midi, Cap. West, offert de venir à
- 5 | un mess d’ y manger permanente – et,
+ 5 | un mess d'y manger permanente – et,
  6 | devant son insistance ai accepté
  7 | Dès le soir, membre du mess des off à
  8 | titre définitif
  9 | Cuisine anglaise – mais grands avantages.
 10 | converson anglais. Sorte de Club où me
 11 | retirer pour lire revues & journaux.
-12 | – Temps menaçant – ( Montés l' après-midi
+12 | – Temps menaçant – (Montés l'après-midi
 13 | sur les hauteurs for
 14 | green forage
 15 | 13 Me Temps couvert après-midi,
 16 | averses de courte durée
 17 | A g. du chateau, forêt magnifique
-18 | Venu m’ y promener après le lunch
+18 | Venu m'y promener après le lunch
 19 | Arbres séculaires – routes & sentiers à
-20 | angle droit. Echappées de ciel à d’ enfilades
-21 | d’ allées profondes – Bruissement des feuilles
+20 | angle droit. Echappées de ciel à d'enfilades
+21 | d'allées profondes – Bruissement des feuilles
 22 | Rejoint plateau pour green forage
-23 | tout le jour, et sur place, mess d' offs
+23 | tout le jour, et sur place, mess d'offs
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2 excte** *scil.* excellente.
 - Ligne 3 : **3 ds** *scil.* dans.
 - Ligne 4 : **4 Cap.** *scil.* Captain.
-- Ligne 5 : **5 y** *scil.* et. **5 mess** *angl. in ms.*
+- Ligne 5 : **5 mess** *angl. in ms.*
 - Ligne 7 : **7 off** *scil.* officiers. **7 mess** *angl. in ms.*
 - Ligne 10 : **10 converson** *scil.* conversation.
 - Ligne 14 : **14 green** *angl. in ms.*
 - Ligne 15 : **15 Me** *scil.* Mercredi.
 - Ligne 17 : **17 g.** *scil.* gauche.
-- Ligne 18 : **18 y** *scil.* et. **18 lunch** *angl. in ms.*
+- Ligne 18 : **18 lunch** *angl. in ms.*
 - Ligne 22 : **22 green** *angl. in ms.*
 - Ligne 23 : **23 offs** *abbr. pro* officiers. **23 mess** *angl. in ms.*
 
@@ -1943,17 +1944,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | y planches
  7 | Fait visite aux lieux
  8 | Large très coquet
- 9 | Fin jour, 1ère pointe d’ automne
-10 | [ – Epingles, à Acheux: 30 c.
-11 | To a batman for saddling up my poney: 50c
+ 9 | Fin jour, 1ère pointe d'automne
+10 | [ – Epingles, à Acheux : 30 c.
+11 | To a batman for saddling up my poney : 50c
 12 | 15 Ve – nuit froide – matin extt fraiche
 13 | très b. journée
-14 | Impressions de fraicheur y comme d’ automne
+14 | Impressions de fraicheur y comme d'automne
 15 | Après-midi, venu à travers champs à
 16 | la carrière, staton de Raincheval
 17 | Exerc. de grenades y mines de champs
 18 | en face gare
-19 | – Cartes staton de Raincheval:
+19 | – Cartes staton de Raincheval :
 20 | Canada in Flanders... 1f 25
 ```
 
@@ -1988,13 +1989,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | 17 Dim.          Septre 1916
- 2 | Tjs de l’ attente notre départ
- 3 | Comme occupations: green forage. Dois
+ 2 | Tjs de l'attente notre départ
+ 3 | Comme occupations : green forage. Dois
  4 | conduire wagon charger du trèfle rouge
  5 | Temps très beau – un peu froid, le soir
  6 | & surtout le matin. Le jour, soleil brulant
  7 | Reviens pl. fois par jour me promener
- 8 | ds le grand bois qui s’ étend à coté
+ 8 | ds le grand bois qui s'étend à coté
  9 | de nos horse-lines, derrière le mur du
 10 | château. Ombre fraiche y silence
 11 | gds arbres séculaires – Chênes très droits
@@ -2005,8 +2006,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 16 | pierres, médailles etc etc
 17 | Après-midi, assisté chants Salut
 18 | de petite table en face église auberge
-19 | — Washing: 1 f. —
-20 | ( Varennes )
+19 | — Washing : 1 f. —
+20 | (Varennes)
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2038,26 +2039,26 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | 18 Lundi.          Septbr 1916
  2 | Tout le jour, pluie très forte
- 3 | Reçu hier soir message: obligé venir mission
+ 3 | Reçu hier soir message : obligé venir mission
  4 | frse. Malgré averses incessantes, parti
- 5 | à cheval vers 1H ½. Toute l’ après-midi par
+ 5 | à cheval vers 1H ½. Toute l'après-midi par
  6 | monts & par vaux, sur routes boueuses
  7 | A Hédauville, appris que 20e Corps
- 8 | n’ a pas quitté Acheux – Le QG du corps reste
+ 8 | n'a pas quitté Acheux – Le QG du corps reste
  9 | là ou il était
 10 | Revenu par Forceville à Acheux – où
 11 | enfin retrouvé mess près de notre div
 12 | au retour, fait route avec Cie de Brancardiers
 13 | Temps affreux. Cape traversée par la pluie
-14 | Habits trempés. Souliers remplis d’ eau
-15 | Du matin, dérangé d’ entrailles, depuis
+14 | Habits trempés. Souliers remplis d'eau
+15 | Du matin, dérangé d'entrailles, depuis
 16 | 2 jours, par suite changement de régime
-17 | ( mess et thé )
-18 | Rentré harassé, mal à l’ aise. Selles
+17 | (mess et thé)
+18 | Rentré harassé, mal à l'aise. Selles
 19 | fréquentes. Rendu enfin repas de midi
-20 | qui me chargeait l’ estomac
+20 | qui me chargeait l'estomac
 21 | Couché de b. heure
-22 | Tip à Connelly mon groom: 2 f –
+22 | Tip à Connelly mon groom : 2 f –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2095,8 +2096,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | mission fr, hutte s/ la pelouse chateau
 10 | A 4H ½, retour – et sans avoir été mouillé
 11 | Fin journée, assez belle
-12 | A Acheux: solde: 78: 75 c
-13 | – carte pli: 0. 25 c.
+12 | A Acheux : solde : 78 : 75 c
+13 | – carte pli : 0. 25 c.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2127,18 +2128,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Raincheval et un très renseigné horaire trains
  5 | Au retour, assisté match de football
  6 | s/ prairie à coté horse-lines the Bedfs
- 7 | maillots rouge vif, ( blanc – et – bleu )
+ 7 | maillots rouge vif, (blanc – et – bleu)
  8 | – blancs, très beau coup d’ œil
  9 | Comme tournais en face chateau – Panton
-10 | m' a appris que we are moving Dawn
+10 | m'a appris que we are moving Dawn
 11 | pr direction – à Méaulte –
 12 | Dernière nuit, chargée, préoccupé
-13 | paquets à faire et voyage à l’ aube
+13 | paquets à faire et voyage à l'aube
 14 | départ 6. 20
 15 | Nuit très sombre – y stars are nil vis.
 16 | 2 tins of coffee milk, à la
 17 | Cantine
-18 | eggs & food: 1f 50 –
+18 | eggs & food : 1f 50 –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2177,8 +2178,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | que j'appris, en route, à notre rencontre un message
 10 | Dû tourner bride et aller attendre champs à
 11 | coté refilling point
-12 | Repartis à cheval seul j. à gare d’ Acheux
-13 | Coy West, vers 2H ½, m’ a rejoint et aussitôt
+12 | Repartis à cheval seul j. à gare d'Acheux
+13 | Coy West, vers 2H ½, m'a rejoint et aussitôt
 14 | la Coy file. –
 15 | Passé route gare puis tournant route de
 16 | Forceville
@@ -2187,8 +2188,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 19 | Très b. fin journée.
 20 | Ma nuit aménagé hutte avec épaisse botte
 21 | verte comme litière – Couché bonne nuit
-22 | Carte du Petit Journal: 60 c
-23 | A Mme Petit propre à Acheux. 1 f ( washing )
+22 | Carte du Petit Journal : 60 c
+23 | A Mme Petit propre à Acheux. 1 f (washing)
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2196,7 +2197,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 3 : **3 ts** *scil.* tous.
 - Ligne 4 : **4 Cap** *scil.* Captain.
 - Ligne 11 : **11 refilling point** *angl. in ms.*
-- Ligne 12 : **12 à** *scil.* jusqu'à. **12 j. à** *abbr. pro* jusqu'à.
+- Ligne 12 : **12 j. à** *scil.* jusqu'à.
 - Ligne 13 : **13 Coy** *scil.* Company.
 - Ligne 14 : **14 Coy** *angl.* Company.
 - Ligne 19 : **19 b.** *scil.* belle.
@@ -2219,20 +2220,20 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | Dim. 24 Levé 7H ½          Sept 16
  2 | Après 8H, épais brouillard. A 10H le
- 3 | soleil l’ a dissipé –
+ 3 | soleil l'a dissipé –
  4 | Doux & temps splendide
  5 | Achevé de construire ma hutte, devenue
- 6 | par l’ ambition plus spacieuse et haute
+ 6 | par l'ambition plus spacieuse et haute
  7 | De la matinée, dû venir à pied à
  8 | Forceville, for green forage. Parcouru
  9 | village
 10 | Après-midi, chaleur intense –
-11 | Lunch pris ( Cap. Stewart invité ), me suis
+11 | Lunch pris (Cap. Stewart invité), me suis
 12 | retiré sous ma hutte et fait ts mes paquets
 13 | en 2 H. tout était prêt
 14 | Après le thé, venu me promener à
 15 | Acheux. Musique milre jouait sur la
-16 | place. à g. de l’ église et devant entrée du
+16 | place. à g. de l'église et devant entrée du
 17 | Chateau
 18 | Rentré au camp à nuit tombante
 19 | Mieux dormi ds ma hutte
@@ -2243,7 +2244,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 8 : **8 green** *angl. in ms.*
-- Ligne 11 : **11 Cap.** *scil.* Captain. **11 Lunch** *angl. in ms.*
+- Ligne 11 : **11 (Cap.** *scil.* Captain. **11 Cap.** *abbr. pro* Capitaine.
 - Ligne 12 : **12 ts** *scil.* tous.
 - Ligne 15 : **15 milre** *scil.* militaire.
 - Ligne 16 : **16 g.** *scil.* gauche.
@@ -2281,8 +2282,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | puis attendu lgt. ds mon compartiment petit
 16 | train départ 6h 40 en gare —
 17 | chaleur intense
-18 | [ Tip à mon groom: 2 f — Biscuits: 0.50 c
-19 | Lunch à Acheux: 1 f 50 ]
+18 | [ Tip à mon groom : 2 f — Biscuits : 0.50 c
+19 | Lunch à Acheux : 1 f 50 ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2314,7 +2315,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ### I. Transcription diplomatique
 ```text
- 1 | 25 Lundi. ( Suite )          Sept / 16
+ 1 | 25 Lundi. (Suite)          Sept / 16
  2 | au ciel bleu, qq secousses, nettement détachés.
  3 | Enfin, vers 3H ½, départ
  4 | Doucement bercé par mouvement train. Et caresse
@@ -2330,13 +2331,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | de Longueau, survolé par des Taubes qui
 15 | jettent bombes. Obus de feu aussi. Ciel fouillé
 16 | par les projecteurs. Très beau spectacle
-17 | Pas descendu à Creil ( en gare )
+17 | Pas descendu à Creil (en gare)
 18 | Voyage tte la nuit
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2 secousses** *lect. incert. in ms.* **2 qq** *scil.* quelques.
-- Ligne 9 : **9 s** *scil.* soir. **9 s.** *abbr. pro* soir.
+- Ligne 9 : **9 s** *scil.* soir.
 - Ligne 10 : **10 permisson** *scil.* permission. **10 pr** *scil.* pour.
 - Ligne 11 : **11 y** *scil.* et.
 - Ligne 12 : **12 tte** *scil.* toute.
@@ -2364,12 +2365,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | obtenu bulletin de sortie et accompagné
  6 | par un planton par la porte
  7 | De Bourget, entrée de la rue de Flandre
- 8 | pris tramway qui m’ a conduit j-à gare
+ 8 | pris tramway qui m'a conduit j-à gare
  9 | du Nord. De là, par métro, arrivé
-10 | à Station Tuileries. ( changé au Chatelet )
+10 | à Station Tuileries. (changé au Chatelet)
 11 | Traversé jardin et
-12 | Venu gare d’ Orsay
-13 | Me suis rendu à la Place ( Hotel )
+12 | Venu gare d'Orsay
+13 | Me suis rendu à la Place (Hotel)
 14 | des Invalides, pr demande autorison de
 15 | voyager à mes frais en express. Revenu
 16 | gare et pu enfin prendre billet de Sud
@@ -2406,25 +2407,25 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | Mardi 26          Sept 16
  2 | Déjeuné – Bd St-Germain
  3 | Reposé – jardin Notre - Dame
- 4 | Magasins de l’ Hotel - de - Ville
+ 4 | Magasins de l'Hotel - de - Ville
  5 | Offert un tome de la Sagesse de Verlaine
  6 | Gentil square de la Tour St - Jacques
  7 | Gens montent à la vue
  8 | Drink. Alimentation oubliée. – –
  9 | Après diner, venu lentement, pour le
-10 | quai, où gare d’ Orsay
+10 | quai, où gare d'Orsay
 11 | Départ train vers 8H S
-12 | Tramway: Bourget - gare du Nord: 50c
-13 | Métro: 1f. Lavabo: 10c, 1f, 2f. ( Coupe chvx )
-14 | Billet S.E. Toulouse ( supplément ): 15 f
-15 | Clichés: 12f 50, remise, une douzn: 10f 50
-16 | Lorgnon fumé: ver. neut.: 3f 20
-17 | Mackintosh: Au Louvre: 30 f. – Cirage: 2f
-18 | Déjeuner: 1f 50. – Dîner: 1f 20. – Cigarettes
-19 | Fleurs artificlles, Violettes: 8f 50 parure
-20 | Képi au Bon Marché: 8 f – Consigne 1f
-21 | Carte de Verdun: 50c – Fauteuil Tuileries: 10c
-22 | Carte Roumanie: 30 c – divers: W.C: 10c
+12 | Tramway : Bourget - gare du Nord : 50c
+13 | Métro : 1f. Lavabo : 10c, 1f, 2f. (Coupe chvx)
+14 | Billet S.E. Toulouse (supplément) : 15 f
+15 | Clichés : 12f 50, remise, une douzn : 10f 50
+16 | Lorgnon fumé : ver. neut. : 3f 20
+17 | Mackintosh : Au Louvre : 30 f. – Cirage : 2f
+18 | Déjeuner : 1f 50. – Dîner : 1f 20. – Cigarettes
+19 | Fleurs artificlles, Violettes : 8f 50 parure
+20 | Képi au Bon Marché : 8 f – Consigne 1f
+21 | Carte de Verdun : 50c – Fauteuil Tuileries : 10c
+22 | Carte Roumanie : 30 c – divers : W.C : 10c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2459,16 +2460,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | A 7H 30 m., arrivé à Toulouse
  4 | Pris tram et vers 8H, à mon appartement
  5 | A 11H m – monté à la Maison des Crouzet. Les dames
- 6 | Calmels, pour l’ arrivée, ne seront là que ce soir –
+ 6 | Calmels, pour l'arrivée, ne seront là que ce soir –
  7 | Déjeuné au Buffet, de la + gd intimité
  8 | Redescendu après-midi en ville et fait courses
  9 | diverses
 10 | A 5H, remonté Cote Pavée. Enfin, revu
 11 | Margte. Charmante de simplicité & de tendresse
 12 | confiante.
-13 | Trams: 10, 10, 20 c..
-14 | Bains, aux Thermes du Languedoc: 90 c + 1 f
-15 | Cartes ph:
+13 | Trams : 10, 10, 20 c..
+14 | Bains, aux Thermes du Languedoc : 90 c + 1 f
+15 | Cartes ph :
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2503,22 +2504,22 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | les vieilles & vaines lettres des souvenirs du passé.
  6 | Matin à Ste Marie, vers 11H ½. Apporté à Mte
  7 | un très joli bouquet fleurs choisies
- 8 | Mêmes impressions au sujet de ma fiancée:
+ 8 | Mêmes impressions au sujet de ma fiancée :
  9 | tjs simple, affectueuse, charmante
 10 | Après déjeun., promenade en cie Mme C. et
 11 | M. Gb. Descendu à pied cote vers St Joseph et
 12 | arrivé près la ferme St-Agne du Tuc
 13 | j-à St-Agne. Remonté par route ombragée
 14 | – village de Pouvourville visité église –
-15 | Puis, sur la hauteur, d’ où vue superbe
-16 | Panorama de Pech David – j’ ai distingué
+15 | Puis, sur la hauteur, d'où vue superbe
+16 | Panorama de Pech David – j'ai distingué
 17 | Récollets et Caserne
 18 | Allé prendre trams à la barrière St-Agne
 19 | Reste après-midi.
 20 | Vers 9 H Sr, redescendu à pied Cote Pavée
-21 | Trams: 10c, 10, 10, 10 c. – –
-22 | Fruit ( raisins y grenades ). Ph - ligne: 10 c.
-23 | Bouquet ( Reines Marg. ): 3 f –
+21 | Trams : 10c, 10, 10, 10 c. – –
+22 | Fruit (raisins y grenades). Ph - ligne : 10 c.
+23 | Bouquet (Reines Marg.) : 3 f –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2565,13 +2566,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | Conduit à pied j-à Blagnac. Reposé ds
 14 | la chapelle du monastère.
 15 | Allé ensuite prairie au bord de la Garonne
-16 | Assis sur l’ herbe haute, en face petite grève
+16 | Assis sur l'herbe haute, en face petite grève
 17 | Venu à pied j-aux Ponts Jumeaux, et un peu
 18 | plus loin tram j-à ma Place. –
-19 | — Trams: 10c, 40c, 60c, 40, 40 c –
+19 | — Trams : 10c, 40c, 60c, 40, 40 c –
 20 | Chez Pfister, bouton en or – 300f net 295f
-21 | Remboursé à ma maman ( oeufs, beurre etc. ): 25 f
-22 | Fruits: 2f + 55 c. – Fleurs: 2 f
+21 | Remboursé à ma maman (oeufs, beurre etc.) : 25 f
+22 | Fruits : 2f + 55 c. – Fleurs : 2 f
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2608,17 +2609,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | Dans petit salon, qq minutes de tête à tête délicieux
  7 | avec Margte..
  8 | Après midi, promenade à pied au village
- 9 | de Montaudran. Reposé ds l’ église. Monté à la
+ 9 | de Montaudran. Reposé ds l'église. Monté à la
 10 | tribune puis au clocher, par escalier très
 11 | raide & étroit, presque échelle de bois
 12 | De là tr. vue panoramique de la plaine du Lauraguais
 13 | Paysage nullement banal. Verdure & lignes arbres
-14 | clochers de villages sur l’ horizon – – Ciel tout
+14 | clochers de villages sur l'horizon – – Ciel tout
 15 | couvert de nuages noirs.
-16 | Fait vibrer chacune des 5 cloches d’ airain – –
+16 | Fait vibrer chacune des 5 cloches d'airain – –
 17 | Sons différents & très mélodieux – Remarqué ici
 18 | Continué promenade j-au Cimetière de
-19 | Terre-Cabade. Admiré tombeau imité d’ un
+19 | Terre-Cabade. Admiré tombeau imité d'un
 20 | temple grec
 21 | Venu devant caveau des P.P. Jésuites & celui du
 22 | P. Marie-Antoine. Margte & moi, échangé serments
@@ -2626,7 +2627,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 24 | Retour du cimetière à pied par rues & chemins de
 25 | traverse – Pluie cesse bientôt & soleil couché
 26 | horizon nuageux
-27 | Tram: 20c. – Sweets & cakes: 5 f – Bière: 80 c.
+27 | Tram : 20c. – Sweets & cakes : 5 f – Bière : 80 c.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2665,14 +2666,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | Jouir du calme y silence
  6 | Monté déjeun à Ste Marie. – Temps tr beau
  7 | Après repas, pris trams et venu à Lardenne
- 8 | De l’ église, continué à pied j-au pont du Touch
- 9 | Assis s/ l’ herbe prairie longeant rivière –
+ 8 | De l'église, continué à pied j-au pont du Touch
+ 9 | Assis s/ l'herbe prairie longeant rivière –
 10 | & Longue causerie intime avec Mte. – Tjs
 11 | charmante, simple & affectueuse
 12 | Au retour, trouvé Jean maison.
 13 | Redescendu à 7H 30 avec Jean en tram. –
-14 | Trams: 20c. 40c, 80, 80 c
-15 | Sweets: 20 c
+14 | Trams : 20c. 40c, 80, 80 c
+15 | Sweets : 20 c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2706,12 +2707,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | 2 L. Temps splendide          Octbre 1916
  2 | Matinée, me suis resté appartt y trouvé
  3 | charme mélancolique à laisser souvenirs
- 4 | s’ éveiller peu à peu de mon esprit
+ 4 | s'éveiller peu à peu de mon esprit
  5 | Monté à Ste Marie vers 11H ½ –
  6 | Avant et surtout après déjeuner, ds le petit
  7 | salon, très long & intime tête à tête avec
  8 | Mte. – Ainsi pu deviner profondemt sentimt
- 9 | qu’ elle a pour moi...
+ 9 | qu'elle a pour moi...
 10 | Descendu seul vers 4H. Diverses courses
 11 | Vers 5H, chez moi. Visite de Margte et de sa
 12 | mère à mon appartt. Margte, charmante
@@ -2721,7 +2722,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 16 | vitrines des magasins y remonté tout Cote Pavée
 17 | A 9H 30, mon Jean parti –
 18 | Très belle nuit étoilée – Air doux – parfums
-19 | Trams: 10, 10, 30 – – Chapelet pr. Banon.
+19 | Trams : 10, 10, 30 – – Chapelet pr. Banon.
 20 | 1f 25
 ```
 
@@ -2734,7 +2735,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 11 : **11 Margte** *scil.* Marguerite (Calmels).
 - Ligne 12 : **12 appartt** *abbr. pro* appartement. **12 Margte** *scil.* Marguerite (Calmels).
 - Ligne 16 : **16 y** *scil.* et.
-- Ligne 19 : **19 pr.** *scil.* pour. **19 pr** *abbr. pro* pour.
+- Ligne 19 : **19 pr.** *scil.* pour.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~2 me suis resté appartt :** Construction pronominale méridionale (*se rester* au sens de demeurer chez soi) suivie du substantif abrégé sans préposition. **l.~8 profondemt sentimt :** Double abréviation en *-mt* dans la même ligne.
@@ -2755,10 +2756,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  2 | Matin, à St-Etienne, messe annivre pour
  3 | oncle Calmels. A coté de Margte
  4 | En sortant cortège, promené Rue St Rome
- 5 | Margte me laisse et déjeuné à l’ Automatique
+ 5 | Margte me laisse et déjeuné à l'Automatique
  6 | Fait ensemble marché à Victor Hugo
  7 | Séparés devant magasins Capitole
- 8 | Rentré pr y vider l’ arrangement appartt
+ 8 | Rentré pr y vider l'arrangement appartt
  9 | Après déjeuner, venus au B. Mag acheté un
 10 | Cartable. Puis tram rue de St Joseph
 11 | et descendus à Terminus. Ensuite route à
@@ -2767,8 +2768,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | Revenus à pied. Promenade très agréable
 15 | Soir, vers 8H, pris train y venu voir
 16 | Mme Laudet... –
-17 | Trams: 20, 30 Marché V. Hugo:
-18 | fruits: 80. Gâteaux: 2f.
+17 | Trams : 20, 30 Marché V. Hugo :
+18 | fruits : 80. Gâteaux : 2f.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2778,7 +2779,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 4 : **4 St** *abbr. pro* Saint.
 - Ligne 5 : **5 Margte** *scil.* Marguerite (Calmels).
 - Ligne 8 : **8 pr** *scil.* pour. **8 appartt** *scil.* appartement.
-- Ligne 9 : **9 Mag** *scil.* Bon Marché.
+- Ligne 9 : **9 B. Mag** *scil.* Bon Marché.
 - Ligne 10 : **10 St** *abbr. pro* Saint.
 - Ligne 12 : **12 Mme** *abbr. pro* Madame.
 - Ligne 16 : **16 Mme** *abbr. pro* Madame.
@@ -2801,11 +2802,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | 3 Ma          Octbre 1916
  2 | – Payé à Guiraud, pour façon
- 3 | & fournitures tunique: 38 f
- 4 | – Semestre à Mlle Guilhem: 90 f –
- 5 | ( Juillet 1916 – Janvier 1917 )
- 6 | – 10 cm doublure satin: 60 c
- 7 | – Fleurs: 1f 10
+ 3 | & fournitures tunique : 38 f
+ 4 | – Semestre à Mlle Guilhem : 90 f –
+ 5 | (Juillet 1916 – Janvier 1917)
+ 6 | – 10 cm doublure satin : 60 c
+ 7 | – Fleurs : 1f 10
  8 | Délicieux thé la propriété de Mme de Labarthe
  9 | Elle ns a fait visiter maison.
 10 | Simplicité & abandon charmants
@@ -2835,17 +2836,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | Mer. 4          Octbre 16
  2 | Sur pied dès 6H. –
  3 | Lentement préparé départ. Enlevé & rentré
- 4 | rideaux – mis tt en ordre ds l’ appartt
+ 4 | rideaux – mis tt en ordre ds l'appartt
  5 | Venu gare. puis aux Thermes du Languedoc
  6 | A 11H m., quitté maison. Marché et
  7 | Ste Marie –
- 8 | Passé tt l’ après-midi en cie de Mte
+ 8 | Passé tt l'après-midi en cie de Mte
  9 | Longs tête à tête très fort intimes.
 10 | Promené au fond du parc. Joué
 11 | avec les enfants
 12 | Puis causé, assis sous gd arbre
 13 | Diner à 6H
-14 | Mte, voulut absolument m’ accompagner gare
+14 | Mte, voulut absolument m'accompagner gare
 15 | Elle monta avec moi ds 1 compartiment
 16 | Puis ressorti salle d'attente. Avec Mte
 17 | & oncle Crouzet. promené au dehors
@@ -2883,7 +2884,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | Jeudi 5          Octb / 16
  2 | Le jour parut peu à peu
- 3 | A 8H m., gare d’ Orsay
+ 3 | A 8H m., gare d'Orsay
  4 | Sous pluie fine y serrée, venu à pied
  5 | métro Tuileries. Changé au Chatelet pr
  6 | gare du Nord
@@ -2907,7 +2908,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 3 : **3 m.** *scil.* matin.
 - Ligne 4 : **4 y** *scil.* et.
 - Ligne 5 : **5 pr** *scil.* pour.
-- Ligne 9 : **9 Egl** *scil.* Eglise. **9 Egl.** *abbr. pro* Église.
+- Ligne 9 : **9 Egl** *scil.* Eglise. **9 St** *abbr. pro* Saint.
 - Ligne 13 : **13 j-aux** *scil.* jusqu'aux. **13 Mag** *scil.* Magasins.
 - Ligne 15 : **15 Corresp** *scil.* Correspondance.
 - Ligne 18 : **18 pr** *scil.* pour.
@@ -2930,16 +2931,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | ... Mte & moi, très
  2 | émus.. –          Mer. 4 Oct 16
  3 | Train, démarré vers 8H ½
- 4 | Voyage – toute la nuit. – n’ ai pu
- 5 | m’ assoupir 1 peu que sur le
+ 4 | Voyage – toute la nuit. – n'ai pu
+ 5 | m'assoupir 1 peu que sur le
  6 | matin.
- 7 | Hier 2 images Ste Thérèse. ~: 40 c
- 8 | & Fleurs pour Mte: 1f 70
- 9 | – Trams: 20, 10, 30 c
-10 | Billet 3e cl. p. Orsay: 11 f
-11 | Bain, aux Thermes –: 90 + 10c
+ 7 | Hier 2 images Ste Thérèse. — : 40 c
+ 8 | & Fleurs pour Mte : 1f 70
+ 9 | – Trams : 20, 10, 30 c
+10 | Billet 3e cl. p. Orsay : 11 f
+11 | Bain, aux Thermes – : 90 + 10c
 12 | Etrenne à Marie, bonne des
-13 | Crouzet: 5 f –
+13 | Crouzet : 5 f –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -2964,14 +2965,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ### I. Transcription diplomatique
 ```text
- 1 | Parti train 1H 12 ( après 1H 45 d’ attente! )
+ 1 | Parti train 1H 12 (après 1H 45 d'attente!)
  2 | A Amiens, à 6H –
  3 | Départ à 6H 30 –
  4 | A Doullens, au matin.
  5 | Dû rester gare
- 6 | ⟦Paris⟧ Métro: 1 f 15 c
- 7 | Food...: 2f, 2f, 50c., Drink: 10 c.
- 8 | Consigne: 10 c
+ 6 | ⟦Paris⟧ Métro : 1 f 15 c
+ 7 | Food... : 2f, 2f, 50c., Drink : 10 c.
+ 8 | Consigne : 10 c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -3002,11 +3003,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | Entré église St P. y prié à mon aise.
  8 | Pluie fine, froide, incessante
  9 | Parti de Doullens, train 11H ½. Appris à
-10 | l’ office de la R.T.O. que ma division
+10 | l'office de la R.T.O. que ma division
 11 | a shifté. Le railhead est Canaples
 12 | Descendu à cette station, me suis
-13 | informé – Coïncidence heureuse: les
-14 | lorries ( supply column ) de la Gds
+13 | informé – Coïncidence heureuse : les
+14 | lorries (supply column) de la Gds
 15 | brigade, encore là. Monté sur 1
 16 | de ces lorries et ainsi arrivé au
 17 | refilling point de ma brigade
@@ -3024,7 +3025,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 14 : **14 Gds** *scil.* Guards. **14 lorries** *angl. in ms.*
 - Ligne 16 : **16 lorries** *angl. in ms.*
 - Ligne 17 : **17 refilling point** *angl. in ms.*
-- Ligne 18 : **18 Coy** *angl.* Company. **18 A.S.C.** *angl.* Army Service Corps.
+- Ligne 18 : **18 A.S.C.** *angl.* Army Service Corps.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~2 $\llbracket$Acheux$\rrbracket$ nuit salle départ gare de Doullens :** Lapsus calami révélateur : encore à demi endormi sur un banc de la salle d'attente, l'auteur écrit d'abord le nom d'*Acheux* avant de le biffer pour *gare de Doullens*. **l.~10--11 ma division a shifté :** Emploi au passé composé du verbe franglais *shifter* (changer de secteur).
@@ -3054,11 +3055,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | à 900 mètres de Barlette
 12 | Ameublement très sommaire, mais
 13 | chambre très belle & spacieuse
-14 | A Doullens, Cartes ph.: 50 c
+14 | A Doullens, Cartes ph. : 50 c
 15 | A " " cantine. 20, 20, 20, 20 c
-16 | A Bernaville, cartes ph: 30 c
-17 | A Barlette: Tip au driver du lorry: 1f
-18 | Gift au Q.M.S. Tait: 5 fr. –
+16 | A Bernaville, cartes ph : 30 c
+17 | A Barlette : Tip au driver du lorry : 1f
+18 | Gift au Q.M.S. Tait : 5 fr. –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -3092,7 +3093,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | Sam. 7.          Octbre 1916
  2 | Bonne nuit de repos s/ lit improvisé.
- 3 | Levé vers 8H ½ et commencé à m’ installer. Bonne promenade
+ 3 | Levé vers 8H ½ et commencé à m'installer. Bonne promenade
  4 | Durant nuit, orage tonnerre et rafales.
  5 | Les arbres et les arbustes, en face maison,
  6 | tourmentés par le vent, bruissaient plaintifs
@@ -3100,12 +3101,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Tout le jour, pluie et bourrasques.
  9 | ciel couvert de gros nuages – –
 10 | Me plais bp de mon billet. Si nice
-11 | gd chambre, haute de plafond. C’ est le
+11 | gd chambre, haute de plafond. C'est le
 12 | salon – vieille gd. mère, est sympathique
 13 | Devant maison, pâture aux pommiers
 14 | chargés de fruit Au delà, gds bois. –
 15 | Au Cap. Panton payé ma part dépenses
-16 | mess au Sept, pour – – jours: 29 f –
+16 | mess au Sept, pour – – jours : 29 f –
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -3142,7 +3143,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | au bureau de la mission fse –
  8 | Aller & retour à pied. Violentes rafales
  9 | Pays très verdoyant y boisé.
-10 | A Bernaville ( solde y indemnité: 78 f 75 )
+10 | A Bernaville (solde y indemnité : 78 f 75)
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -3169,12 +3170,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | Lundi 9          Oct – / 16
  2 | Tout le jour, ciel assombri gris nuages
  3 | couleur de plomb
- 4 | Après-midi, pénétré forêt qui s’ étend à 1
+ 4 | Après-midi, pénétré forêt qui s'étend à 1
  5 | faible distance de la route et parallelt –
  6 | Sentier encore boueux et jonché de feuilles rougies.
  7 | Feuillages épais y verts. Ds le taillis, enchevetrt
- 8 | d’ arbustes y de lianes. Des troncs énormes
- 9 | s’ élèvent très haut, arbres plusis fois
+ 8 | d'arbustes y de lianes. Des troncs énormes
+ 9 | s'élèvent très haut, arbres plusis fois
 10 | centenaires. Resté lgs ds cet océan de
 11 | verdure. Ecouté, ravi, le bruissement
 12 | du vent à travers les branches
@@ -3224,7 +3225,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | mètres, lisière forêt arbres
 10 | massés les 1 à côté des autres
 11 | très belles teintes que le soleil rendait
-12 | éclatantes et qui se détachaient
+12 | + éclatantes et qui se détachaient
 13 | sur le ciel bleu –
 14 | Comme ts les soirs, nuit
 15 | merveilleuse. Lune pleine
@@ -3238,6 +3239,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 4 : **4 forage** *angl. in ms.*
 - Ligne 6 : **6 s/** *abbr. pro* sur.
 - Ligne 8 : **8 qq** *scil.* quelques.
+- Ligne 12 : **12 +** *scil.* plus.
 - Ligne 14 : **14 ts** *scil.* tous.
 - Ligne 16 : **16 ds** *scil.* dans.
 - Ligne 17 : **17 qq** *abbr. pro* quelque(s).
@@ -3294,8 +3296,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | Après-midi, conduit limber G.S.
  4 | wagons de 1 charge de luzerne
  5 | coupée –
- 6 | A l’ aller y au retour, me suis
- 7 | attardé ds bois: vent soufflant
+ 6 | A l'aller y au retour, me suis
+ 7 | attardé ds bois : vent soufflant
  8 | en rafales produisait 1 bruit de
  9 | houle.. – Resté lgs à écouter cette
 10 | symphonie très forte
@@ -3347,8 +3349,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | éclairci soleil brille
 12 | Petite ville très coquette – emplie de troupes
 13 | Trouvé petite chambre en face de notre mess –
-14 | A Barlette: washing y darning: 70 c. – Connelly: 1 f –
-15 | Cartes ph à Beauval:? c
+14 | A Barlette : washing y darning : 70 c. – Connelly : 1 f –
+15 | Cartes ph à Beauval :? c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -3419,8 +3421,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | 16 Lundi          Oct /16
- 2 | [ A Beauval, room: 1 f — groom: 1 f
- 3 | A Warloy, ctes ples: 25 c — ]
+ 2 | [ A Beauval, room : 1 f — groom : 1 f
+ 3 | A Warloy, ctes ples : 25 c — ]
  4 | 17 Mardi
  5 | Couché sous tente, à côté 2 off.
  6 | Nuit très froide.
@@ -3436,7 +3438,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2** *in marg. cum unco* (comptes). **2 groom** *angl. in ms.*
 - Ligne 3 : **3 ctes ples** *abbr. pro* cartes postales.
-- Ligne 5 : **5 off.** *abbr. pro* officier(s). **5 off** *abbr. pro* officier(s).
+- Ligne 5 : **5 off.** *abbr. pro* officier(s).
 - Ligne 8 : **8 1/2** *scil.* demi / moitié. **8 m.** *abbr. pro* matin.
 - Ligne 9 : **9 ds** *abbr. pro* dans. **9 tt** *abbr. pro* tout.
 - Ligne 10 : **10 infrie** *abbr. pro* infanterie.
@@ -3498,7 +3500,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | d'obus et venu à Albert. Mission frse.
  7 | Puis erré par rues. Arrêté lgts devant basilique
  8 | ravagée par les obus
- 9 | Parcouru qq rues: maisons vides et abandonnées.
+ 9 | Parcouru qq rues : maisons vides et abandonnées.
 10 | Après-midi, retourné à Albert s/ 1 lorry et revenu
 11 | de = à notre camp.
 12 | Tt le jour, ciel couvert. Boue épaisse.
@@ -3514,11 +3516,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 7 : **7 lgts** *abbr. pro* longtemps.
 - Ligne 9 : **9 qq** *abbr. pro* quelque(s).
 - Ligne 10 : **10 s/** *abbr. pro* sur. **10 lorry** *angl. in ms.*
+- Ligne 11 : **11 de =** *signum aequalitatis pro* de même.
 - Ligne 12 : **12 Tt** *abbr. pro* Tout.
-- Ligne 13 : **13 ds** *abbr. pro* dans.
+- Ligne 13 : **13 ds** *abbr. pro* dans. **13 observon** *abbr. pro* observation.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-**l.~5 eu a lift s/ 1 lorry :** Bel exemple de code-switching syntaxique franco-anglais (*to have a lift on a lorry*, se faire transporter sur un camion militaire). **l.~11 revenu de = :** Signe tachygraphique d'égalité (`=`) employé pour abréger la locution adverbiale *de même*.
+**l.~5 eu a lift s/ 1 lorry :** Bel exemple de code-switching syntaxique franco-anglais (*to have a lift on a lorry*, se faire transporter sur un camion militaire). **l.~10--11 revenu / de = :** Signe tachygraphique d'égalité (`=`) employé pour abréger la locution adverbiale *de même*.
 
 ### IV. Commentaire historique
 **l.~6--8 Albert / basilique ravagée par les obus :** Bombardée dès l'automne 1914 et l'hiver 1915, la basilique Notre-Dame de Brebières d'Albert (édifice néo-byzantin construit par Edmond Duthoit à la fin du XIXe siècle) était célèbre dans toute l'armée britannique pour la statue dorée de la Vierge à l'Enfant (la « Vierge penchée », *Leaning Virgin*) suspendue horizontalement au sommet de son clocher mutilé.
@@ -3533,18 +3536,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | sur l., nuit & jour, flot ininterrompu de véhicules de
- 2 | ttes sortes: lorries, caissons de munitions etc. Autant de
+ 2 | ttes sortes : lorries, caissons de munitions etc. Autant de
  3 | mouvement que le long d'1 gde artère de capitale
  4 | Quand, après dinner, les off. partis, enfin seul
  5 | ds la mess-tent —
- 6 | Merc. 18 | Albert: cartes ples: 40 c          Oct /16
- 7 | | Albert, mission frse: 84 fr. —
+ 6 | Merc. 18 | Albert : cartes ples : 40 c          Oct /16
+ 7 | | Albert, mission frse : 84 fr. —
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2 ttes** *abbr. pro* toutes. **2 lorries** *angl. in ms.*
 - Ligne 3 : **3 gde** *abbr. pro* grande.
-- Ligne 4 : **4 off.** *abbr. pro* officier(s). **4 off** *abbr. pro* officier(s).
+- Ligne 4 : **4 off.** *abbr. pro* officier(s). **4 dinner** *angl. in ms.*
 - Ligne 5 : **5 ds** *abbr. pro* dans. **5 mess** *angl. in ms.*
 - Ligne 6 : **6 Merc.** *scil.* Mercredi.
 - Ligne 7 : **7 frse** *abbr. pro* française. **7 fr.** *abbr. pro* franc(s).
@@ -3583,11 +3586,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | du camp. Y installé!
 18 | Toute nuit, bruit ininterrompu
 19 | très forte canonnade
-20 | [ — Cartes ples d'Albert: 20 c ]
+20 | [ — Cartes ples d'Albert : 20 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 4 : **4 tte** *abbr. pro* toute. **4 Tte** *abbr. pro* Toute.
+- Ligne 4 : **4 tte** *abbr. pro* toute.
 - Ligne 7 : **7 mess** *angl. in ms.*
 - Ligne 10 : **10 s/** *abbr. pro* sur. **10 wagon** *angl. in ms.*
 - Ligne 12 : **12 ns** *abbr. pro* nous.
@@ -3626,7 +3629,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | Temps froid pénétrant.
 14 | Nuit, du haut colline où notre
 15 | Coy bivouaque, très impressionnant spectacle
-16 | à g.: horizon tout illuminé par
+16 | à g. : horizon tout illuminé par
 17 | les éclairs d'innombrables bouches à feu.
 18 | Canonnade ne cesse pas et, par
 19 | moments, d'1 intensité et violence
@@ -3664,7 +3667,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | Tout l'après-midi, ds ma chambre. Achevé
  8 | de m'installer pour le mieux.
  9 | Après lunch, me suis attardé sur le
-10 | plateau où notre camp dressé: toute la
+10 | plateau où notre camp dressé : toute la
 11 | colline, couverte de troupes au bivouac.
 12 | Très beau soleil, mais froid piquant.
 13 | Pas ressorti, quand rentré home après
@@ -3702,7 +3705,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  2 | Encore cette nuit, gelé très dur.
  3 | Canonnade, pas cessé un instant.
  4 | Le jour, très beau soleil. Journée superbe.
- 5 | Après lunch, promené ville: resté lgts arrêté
+ 5 | Après lunch, promené ville : resté lgts arrêté
  6 | devant église, murs de briques rouges, façade
  7 | si artistique, et haute tour, atteinte par
  8 | obus bombardement 1914. Vierge, horizle,
@@ -3751,11 +3754,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | abris souterrains, très habilement aménagés.
 11 | Immense cratère s/ la droite.
 12 | Impression funèbre et désolation — —
-13 | [ — Cartes ples d'Albert: 70 c. ]
+13 | [ — Cartes ples d'Albert : 70 c. ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 5 : **5 off.** *abbr. pro* officier(s). **5 off** *abbr. pro* officier(s).
+- Ligne 1 : **1 Oct. /16** *abbr. pro* Octobre 1916.
+- Ligne 5 : **5 off.** *abbr. pro* officier(s).
 - Ligne 6 : **6 s/** *abbr. pro* sur. **6 lorry** *angl. in ms.*
 - Ligne 8 : **8 ttes** *abbr. pro* toutes.
 - Ligne 9 : **9 dug-outs** *angl. in ms.*
@@ -3784,7 +3788,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | enfonce j'à la cheville.
  6 | Brume s'étend de + en + et cache vue
  7 | objets à 30 ou 40 mètres —
- 8 | Matin, venu mission frse: adjudant
+ 8 | Matin, venu mission frse : adjudant
  9 | Lépin & Lt Pizzi m'ont appris que ne quitte
 10 | pas mission —
 11 | Vers 11h m., qq obus s/ prairie, à
@@ -3800,6 +3804,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 1 : **1 Oct. /16** *abbr. pro* Octobre 1916.
 - Ligne 5 : **5 j'à** *abbr. pro* jusqu'à.
 - Ligne 8 : **8 frse** *abbr. pro* française.
 - Ligne 9 : **9 Lt** *abbr. pro* Lieutenant.
@@ -3834,7 +3839,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | chambrette & y rumine à mon aise.
  9 | Nuits assez calmes. Canonnade s/ le matin
 10 | très violente, mais ne dure pas.
-11 | [ — Hair cut, par un R.F.: 50 c ]
+11 | [ — Hair cut, par un R.F. : 50 c ]
 12 | Ven. 27 & Sam. 28 — Encore temps pluvieux —
 13 | Tjrs gros nuages.
 14 | Boue épaisse où l'on s'enlise.
@@ -3845,10 +3850,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 19 | obus. Long arrêt devant église.
 20 | Journée & nuit entt calmes. Aucune
 21 | canonnade — Silence complet
-22 | à l'horizon — [ Cartes ples: 75 c ]
+22 | à l'horizon — [ Cartes ples : 75 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 1 : **1 Oct. /16** *abbr. pro* Octobre 1916.
 - Ligne 2 : **2 tjrs** *abbr. pro* toujours.
 - Ligne 3 : **3 ds** *abbr. pro* dans.
 - Ligne 4 : **4 absolt** *abbr. pro* absolument.
@@ -3890,14 +3896,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | beau j. homme, blond, énergique & simple,
 12 | extt sympathique. Écouté avec intérêt récit
 13 | des divers combats auxquels il a pris part.
-14 | [ Cartes ples église d'Albert: 50 c
-15 | Acheux, 2 cafés: 40 c ]
+14 | [ Cartes ples église d'Albert : 50 c
+15 | Acheux, 2 cafés : 40 c ]
 16 | 30 L. — Matin, temps couvert & menaçant.
 17 | Après-midi, durant 3 h., pluie
 18 | torrentielle. Dû rester j'après le thé ds
 19 | la cabane qui ns sert de mess-room.
 20 | Rafales d'1 violence extrême.
-21 | Coucher de soleil: lueurs très vives, jaunes d'or,
+21 | Coucher de soleil : lueurs très vives, jaunes d'or,
 22 | à l'horizon.
 23 | Terrain détrempé, énormes flaques d'eau.
 24 | Toute la nuit, encore vent de tempête
@@ -3939,7 +3945,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 Ma.** *scil.* Mardi.
+- Ligne 1 : **1 Ma.** *scil.* Mardi. **1 Oct. /16** *abbr. pro* Octobre 1916.
+- Ligne 2 : **2 chassé** *scil.* ont chassé (ellipse de l'auxiliaire).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~1--6 31 Ma. Oct. /16 :** Entrée exceptionnellement brève (six lignes seulement en haut du feuillet, suivies d'un large blanc sur les deux tiers inférieurs de la page) afin de clore matériellement le mois d'octobre avant d'ouvrir le mois de novembre en haut de la page suivante.
@@ -3965,7 +3972,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | brisées. Caveaux béants. Croix renversées au 1/2 de
  8 | pierres effondrées...
  9 | A côté, champ tt rempli de croix blanches &
-10 | jaunes: anglais killed in action —
+10 | jaunes : anglais killed in action —
 11 | Après-midi, 3h, place du monument
 12 | prise d'armes. Devant pl. bataillons rassemblés,
 13 | génal écossais épingle div. décorations s/ tuniques
@@ -4065,9 +4072,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | Après le dîner, course en auto à Raincheval.
  2 | Vu Major Levy, of the D.O.S.T.
  3 | Nuit très noire. — Couché assez tard.
- 4 | [ Donné à Victor Duthuâteau: 5 f —
- 5 | Mess, octobre: 47 f 70
- 6 | Acheux: ctes ples: 15 c ]
+ 4 | [ Donné à Victor Duthuâteau : 5 f —
+ 5 | Mess, octobre : 47 f 70
+ 6 | Acheux : ctes ples : 15 c ]
  7 | 3 Ve. Matin, ciel couvert, 1 peu de soleil
  8 | l'après-midi.
  9 | Partis en auto avec Lt Curtis. Resté à Albert
@@ -4077,7 +4084,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | bureau mission.
 14 | Après lunch, 2h 30, Acheux.
 15 | Passé journée ds ma chambre — au bureau.
-16 | [ — Mission, Albert: 48 f 75 (30 f retenus pour
+16 | [ — Mission, Albert : 48 f 75 (30 f retenus pour
 17 | 6 jours de permission) ]
 ```
 
@@ -4155,9 +4162,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | Après le dîner, course en auto à Raincheval.
  2 | Vu Major Levy, of the D.O.S.T.
  3 | Nuit très noire. — Couché assez tard.
- 4 | [ Donné à Victor Duthuâteau: 5 f —
- 5 | Mess, octobre: 47 f 70
- 6 | Acheux: ctes ples: 15 c ]
+ 4 | [ Donné à Victor Duthuâteau : 5 f —
+ 5 | Mess, octobre : 47 f 70
+ 6 | Acheux : ctes ples : 15 c ]
  7 | 3 Ve. Matin, ciel couvert, 1 peu de soleil
  8 | l'après-midi.
  9 | Partis en auto avec Lt Curtis. Resté à Albert
@@ -4167,7 +4174,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | bureau mission.
 14 | Après lunch, 2h 30, Acheux.
 15 | Passé journée ds ma chambre — au bureau.
-16 | [ — Mission, Albert: 48 f 75 (30 f retenus pour
+16 | [ — Mission, Albert : 48 f 75 (30 f retenus pour
 17 | 6 jours de permission) ]
 ```
 
@@ -4211,7 +4218,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | Achevé de m'installer maison. Fait
 12 | connaissance avec proprre, très sympathique.
 13 | A 6h soir, l'interprète de la Vth
-14 | Army troops, venu me chercher: Cap.
+14 | Army troops, venu me chercher : Cap.
 15 | Huguet, du XIIIe corps, désire me voir.
 16 | Venu aussitôt bureau mission du corps.
 17 | Très bien reçu. — qq froid,
@@ -4262,11 +4269,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 16 | Pluie durant partie journée.
 17 | Routes boueuses pleines de trous & ornières profondes.
 18 | Ni matin, ni soir, rien à faire.
-19 | Après-midi, essayé d'aller Albert: fatigué
+19 | Après-midi, essayé d'aller Albert : fatigué
 20 | d'attendre lorry, renoncé partir et rentré billet.
 21 | De la fenêtre de ma chambre, mouvement
 22 | rue (route de Léalvillers). Flot presque ininterrompu
-23 | de véhicules de ttes sortes: lorries, wagons, caissons
+23 | de véhicules de ttes sortes : lorries, wagons, caissons
 24 | de munitions d'artrie. Et défilé incessant
 25 | de troupes allant au repos ou se rendant firing line.
 ```
@@ -4275,8 +4282,6 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 2 : **2 Tt** *abbr. pro* Tout.
 - Ligne 3 : **3 j'à** *abbr. pro* jusqu'à. **3 s/** *abbr. pro* sur.
 - Ligne 7 : **7 1/2** *scil.* demi / moitié.
-- Ligne 13 : **13 Coy** *angl.* Company.
-- Ligne 14 : **14 Coy** *angl.* Company.
 - Ligne 20 : **20 billet** *angl. in ms.*
 - Ligne 23 : **23 ttes** *abbr. pro* toutes. **23 lorries** *angl. in ms.*
 
@@ -4351,7 +4356,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Matinée, au bureau, en l'absence du Lt Curtis
  5 | & du clerk. Lu, écrit, réfléchi, devant bon feu.
  6 | Impression toute nouvelle.
- 7 | Tout l'après-midi, courses en auto: Raincheval
+ 7 | Tout l'après-midi, courses en auto : Raincheval
  8 | et Léalvillers. Pu regarder à loisir campagne
  9 | ensoleillée — et remarqué la — détails du paysage.
 10 | Nuit extt belle, ciel éclairé par pleine lune.
@@ -4364,7 +4369,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | au lycée de Toulon.
 18 | Soir, à repas, sifflement obus. Acheux
 19 | bombardé à intervalles rapprochés. Réfugiés cave.
-20 | [ — Ctes ples, à Varennes: 75 c — ]
+20 | [ — Ctes ples, à Varennes : 75 c — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -4398,10 +4403,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | Matin, liberté complète.
  7 | Après-midi, course en auto à Beauquesne
  8 | par Varennes & Contay. Brume s'est levée
- 9 | peu à peu. Paysage anglais: arbres étriqués,
+ 9 | peu à peu. Paysage anglais : arbres étriqués,
 10 | feuillages jaunes, marron semant la route.
-11 | [ Journal semaine: 40 c
-12 | Casque peint khaki: 1 f — ]
+11 | [ Journal semaine : 40 c
+12 | Casque peint khaki : 1 f — ]
 13 | 14 Ma. — Tout hier, et principt matin, ainsi
 14 | qu'auj'd'hui, très fort bombardemt — du
 15 | côté de Beaumont. Vu passer nbx blessés
@@ -4411,10 +4416,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 19 | Ciel nuageux — pluie menacé tt le jour.
 20 | A Doullens, grande foire.
 21 | A Frévent, promené par rues. — Petite
-22 | ville assez coquette: belle église, calcaires...
-23 | [ — Boutons simili-cuir: 4 f 75 (10 gds, 3 petits)
-24 | Cartes ples: 40 c, 1 f 50 et 10 c
-25 | Déjeuner à l'hôtel d'Amiens, ma part: 7 fr. ]
+22 | ville assez coquette : belle église, calcaires...
+23 | [ — Boutons simili-cuir : 4 f 75 (10 gds, 3 petits)
+24 | Cartes ples : 40 c, 1 f 50 et 10 c
+25 | Déjeuner à l'hôtel d'Amiens, ma part : 7 fr. ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -4454,14 +4459,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | nouveau me concernant.
  9 | Après-midi, liberté entière. Promené
 10 | village —
-11 | [ Cartes ples: Acheux: 35 c. — Journaux: 40 c
-12 | Washing: 65 c — ]
+11 | [ Cartes ples : Acheux : 35 c. — Journaux : 40 c
+12 | Washing : 65 c — ]
 13 | 16 J. — Matinée, toujours très violent bombardemt.
 14 | Vitres et fenêtres ne cessent pas de
 15 | trembler.
 16 | Soleil brillé journée entière. Gelé
 17 | fortt durant nuit. Bise froide.
-18 | Matin & après-midi, en auto:
+18 | Matin & après-midi, en auto :
 19 | Raincheval, Louvencourt, Toutencourt etc.
 20 | Déjeuné à Hérissart ch. Lt Walsh et
 21 | avec son interprète. Fort apprécié ce dernier
@@ -4477,7 +4482,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 12 : **12 Washing** *angl. in ms.*
 - Ligne 13 : **13 J.** *scil.* Jeudi. **13 bombardemt** *abbr. pro* bombardement.
 - Ligne 17 : **17 fortt** *abbr. pro* fortement.
-- Ligne 20 : **20 ch.** *abbr. pro* chambre / chaude. **20 Lt** *abbr. pro* Lieutenant.
+- Ligne 20 : **20 ch.** *abbr. pro* chez. **20 Lt** *abbr. pro* Lieutenant.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~20--23 Déjeuné à Hérissart ch. Lt Walsh et avec son interprète... M. Deloney :** Première rencontre avec le lieutenant Walsh et son interprète M. Deloney, qui deviendront les principaux compagnons de sociabilité d'Hippolyte Combes en novembre–décembre 1916 (voir Scans #103, #106, #120).
@@ -4511,14 +4516,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | aux 1ères heures jour, très violente
 16 | canonnade, ds le lointain. Fenêtres & portes,
 17 | vibrant sans arrêt. Obus éclatent à coups
-18 | de + en + précipités: on dirait énormes vagues
+18 | de + en + précipités : on dirait énormes vagues
 19 | déferlant s/ rochers avec 1 bruit de tonnerre.
 20 | Matinée, venu à Albert, aller &
 21 | retour, sur 1 lorry — —
 22 | Neige tombé matin — 1ère neige,
 23 | mais peu à peu, fondue sous pluie fine.
 24 | Routes détrempées, vraies fondrières.
-25 | [ — Albert: solde: 88 f 85 — 3 ctes ples: 30 c ]
+25 | [ — Albert : solde : 88 f 85 — 3 ctes ples : 30 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -4557,24 +4562,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | de boue glissante & épaisse.
  6 | Ts les jours, passe des heures à regarder rue —
  7 | debout devant fenêtre chambre ou assis s/ lit à côté.
- 8 | Mouvement inouï: lorries, wagons, cars etc. etc.
+ 8 | Mouvement inouï : lorries, wagons, cars etc. etc.
  9 | Et défilé incessant de troupes revenant de l'avant
 10 | ou des tranchées —
 11 | Souvent aussi, cortèges de prisonniers allemands.
-12 | Après-midi, longue course en auto: Bouzincourt.
+12 | Après-midi, longue course en auto : Bouzincourt.
 13 | Au retour, arrêt à Contay. Nuit noire. Cherché refuge
 14 | à Englebelmer. Dû attendre ds obscurité profonde, le long
 15 | hauts murs du château. Boue épaisse — —
 16 | Au retour, ciel mervt étoilé... Nuit noire.
-17 | [ — Cartes ples d'Acheux: 45 c. — Timbres: 2 f
-18 | Carnet: 60 c ]
+17 | [ — Cartes ples d'Acheux : 45 c. — Timbres : 2 f
+18 | Carnet : 60 c ]
 19 | 21 Ma. — Épais brouillard, matin & soir.
 20 | Le jour, soleil brillé 1 peu.
 21 | Routes état lamentable. Couche profonde
 22 | de boue liquide. Humidité pénétrante.
 23 | Matin, libre. Après-midi, s/ lorry
 24 | à Léalvillers. Au retour, office, remarque
-25 | +tôt désobligeante de Curtis: fâché
+25 | +tôt désobligeante de Curtis : fâché
 26 | contre lui.
 ```
 
@@ -4614,21 +4619,21 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | fièvre. Me suis ménagé. Mangé très
  9 | peu. Fin jour, amélioration très sensible
 10 | — presque guéri —
-11 | [ A proprre M. Carluvant, tailleur: 75 c
+11 | [ A proprre M. Carluvant, tailleur : 75 c
 12 | (élargi culottes neuves par derrière) ]
 13 | Nuit très noire — dès 5h 1/2 s. — Rue
 14 | boueuse & impraticable.
 15 | 23 Jeudi. Enfin, 1 très belle journée.
 16 | Mais temps 1 peu froid.
-17 | Sol tjrs spongieux & mou: sèche
+17 | Sol tjrs spongieux & mou : sèche
 18 | très lentement.
 19 | Matinée, reposé s/ lit du clerk à
-20 | l'office. Après-midi, course en auto:
+20 | l'office. Après-midi, course en auto :
 21 | Amplier – Authieule et Authie. Rentré pour
 22 | le thé.
 23 | Nuit, extt obscure. Difficile marche rue.
 24 | Tout à fait rétabli légère indisposition.
-25 | [ Washing: 1 f 25 — ]
+25 | [ Washing : 1 f 25 — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -4671,7 +4676,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | Dim. 26
 14 | Toute la nuit et matinée entière,
 15 | pluie abondante. Habits ruissellent d'eau.
-16 | Rues & routes lavées: 1/2 des chaussées,
+16 | Rues & routes lavées : 1/2 des chaussées,
 17 | côtés d., profondes couches de boue.
 18 | Après-midi, pluie cesse peu à peu
 19 | et fin journée, sans ondée.
@@ -4711,7 +4716,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | 28 Ma.          Novbre 1916
- 2 | Tjrs même temps: brouillard & pluie.
+ 2 | Tjrs même temps : brouillard & pluie.
  3 | Routes, état lamentable. Matin, rien à faire.
  4 | Après-midi, course en auto à Martinsart.
  5 | Château, reçu aimablt par M. & Mme Bertin,
@@ -4722,15 +4727,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | Au retour, nuit noire, éclairs bleuâtres
 11 | à l'horizon — canonnade.
 12 | 29 Me. Matin, très épais brouillard.
-13 | Après-midi, longue course en auto: Raincheval,
+13 | Après-midi, longue course en auto : Raincheval,
 14 | Puchevillers, Rubempré et Septenville & Pierregot.
 15 | Brouillard se lève, de + en + dense et enseveli
 16 | paysage. Arbres, fantomatiques au 1/2 des champs.
 17 | Moulins à (vent)
-18 | [ — Washing: 70 c — ]
+18 | [ — Washing : 70 c — ]
 19 | 30 J. — Matinée, à Acheux. Temps couvert
 20 | & brouillard.
-21 | Après-midi, course en auto: Septenville
+21 | Après-midi, course en auto : Septenville
 22 | aller. Au retour, arrêt à Hérissart. Y pris thé.
 23 | Rentré Acheux vers 7h s.
 24 | Soir, dîné 1ère fois au nouveau mess
@@ -4766,7 +4771,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | 1er Ven.          Décembre 1916
- 2 | Matinée perdue à ne rien faire: office & billet.
+ 2 | Matinée perdue à ne rien faire : office & billet.
  3 | Après early lunch, partis en auto. Venus
  4 | à Franvillers, puis à Buire s/ Ancre pour
  5 | affaires à traiter.
@@ -4778,9 +4783,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | Perspective réintégration prochaine ds
 12 | régiment d'origine! —
 13 | [ — A Curtis, pour ma part de
-14 | dépenses du mess, à Acheux: 70 f
+14 | dépenses du mess, à Acheux : 70 f
 15 | (novembre) | Tin of black
-16 | (Nugget) boot polish: 25 c ]
+16 | (Nugget) boot polish : 25 c ]
 17 | 2 Samedi.
 18 | Nuit, gelé très fortt. Temps sec & froid.
 19 | Pas de bise.
@@ -4788,7 +4793,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 21 | Vers 4h après-midi, Cap. Williams, arrivé tout
 22 | jeune, mince. Il vient remplacer Lt Curtis. Étonnement profond.
 23 | Curtis, à Martinsart. A son retour, tant
-24 | surpris: visibt découragé — que faire?
+24 | surpris : visibt découragé — que faire?
 25 | Soir, venu au bureau mission &
 26 | vu Cap. H.
 ```
@@ -4827,18 +4832,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | précédente.
  4 | Journée bien remplie & fatigante. Partis vers
  5 | 8h 1/2 m. et rentrés seulement à 6h 1/2 s.
- 6 | Longues courses en auto, matin & soir:
+ 6 | Longues courses en auto, matin & soir :
  7 | Septenville et Hérissart. Déjeuné ch. Lieutt Walsh.
  8 | Après lunch, venus j'à Marcelcave. Passé
  9 | à Corbie et Villers-Bretonneux.
 10 | Retour par Warfusée-Abancourt.
 11 | Tt jour, brume glaciale enveloppé choses.
 12 | Moulins squelettiques au 1/2 des champs...
-13 | Heures mornes en auto: pu ruminer &
+13 | Heures mornes en auto : pu ruminer &
 14 | observer à loisir...
-15 | [ — A Hérissart, 2 boîtes: 30 c
+15 | [ — A Hérissart, 2 boîtes : 30 c
 16 | Au bureau mission XIIIe corps, Acheux,
-17 | touché solde: 78 f 75 c (prochaine, le 17) ]
+17 | touché solde : 78 f 75 c (prochaine, le 17) ]
 18 | 4 L. Matinée, dégelé rapidt et
 19 | routes redevenues boueuses.
 20 | Tout le matin, ds la grange de Mme Guerle,
@@ -4853,7 +4858,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 5 : **5 1/2** *scil.* demi / moitié. **5 m.** *abbr. pro* matin.
-- Ligne 7 : **7 ch.** *abbr. pro* chambre / chaude. **7 Lieutt** *abbr. pro* Lieutenant.
+- Ligne 7 : **7 ch.** *abbr. pro* chez. **7 Lieutt** *abbr. pro* Lieutenant.
 - Ligne 8 : **8 j'à** *abbr. pro* jusqu'à. **8 lunch** *angl. in ms.*
 - Ligne 11 : **11 Tt** *abbr. pro* Tout.
 - Ligne 12 : **12 1/2** *scil.* demi / moitié.
@@ -4895,17 +4900,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | ass. Matin, course à Louvencourt, Raincheval
 16 | etc.
 17 | Nouvel off., Cap. Williams, 20 ans! Après
-18 | repas soir, s'est 1 peu raconté: avant
+18 | repas soir, s'est 1 peu raconté : avant
 19 | la guerre, était office boy à 50 £ a year.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 7 : **7 lg** *abbr. pro* long / longtemps.
+- Ligne 7 : **7 lg** *abbr. pro* le long.
 - Ligne 10 : **10 Lieutt** *abbr. pro* Lieutenant.
 - Ligne 12 : **12 Coy** *angl.* Company. **12 A.S.C.** *angl.* Army Service Corps.
 - Ligne 13 : **13 Merc.** *scil.* Mercredi. **13 Lt** *abbr. pro* Lieutenant.
 - Ligne 14 : **14 1/2** *scil.* demi / moitié. **14 m.** *abbr. pro* matin.
-- Ligne 17 : **17 off.** *abbr. pro* officier(s). **17 off** *abbr. pro* officier(s).
+- Ligne 17 : **17 off.** *abbr. pro* officier(s). **17 Cap.** *abbr. pro* Capitaine.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~13--15 Lt Curtis, parti vers 7h 1/2 m. — & sans laisser de regret — A brainless ass :** Épitaphe féroce en anglais (« un âne sans cervelle »), qui montre combien l'universitaire français de 40 ans jugeait sévèrement la médiocrité intellectuelle de certains jeunes officiers britanniques. **l.~17--19 Cap. Williams, 20 ans !... avant la guerre, était office boy à 50 £ a year :** Observation sociologique pénétrante : un modeste employé de bureau gagnant 50 livres par an (1 250 francs) avant 1914 se retrouve promu capitaine à vingt ans par le jeu des pertes et de l'expansion de la *New Army*.
@@ -4930,14 +4935,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | enfants de la fermière belge, Mme Houthouan.
  7 | Après-midi, venus à Englebelmer, par
  8 | Hédauville. Resté près d'1 h. ds ce village
- 9 | à peu près désert: plus d'habitants. Rien
+ 9 | à peu près désert : plus d'habitants. Rien
 10 | que des Anglais, qui restent ds leurs cantonnements.
 11 | Attendu lgts en auto, devant ferme où le
 12 | Town Major et le Daily Mail. A peu de
 13 | distance, canons anglais ne cessaient point
-14 | de tonner: après coup, vibrations métalliques
+14 | de tonner : après coup, vibrations métalliques
 15 | répercutées à travers l'espace — comme gémissement.
-16 | Dîné seul: off. allé à Hérissart. Rentré
+16 | Dîné seul : off. allé à Hérissart. Rentré
 17 | tôt ds ma chambre. — Rue silencieuse.
 18 | Canonnade, intermittente.
 19 | Brume épaisse s'étend de + en +.
@@ -4947,7 +4952,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 23 | Matinée, course à St-Léger-lès-Authie,
 24 | sous la pluie.
 25 | Après-midi, ferme de Belle-Église, puis
-26 | Arquèves: on a commencé à battre paille.
+26 | Arquèves : on a commencé à battre paille.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -4958,7 +4963,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 10 : **10 ds** *abbr. pro* dans.
 - Ligne 11 : **11 lgts** *abbr. pro* longtemps.
 - Ligne 12 : **12 Town Major** *angl. in ms.*
-- Ligne 16 : **16 off.** *abbr. pro* officier(s). **16 off** *abbr. pro* officier(s).
+- Ligne 16 : **16 off.** *abbr. pro* officier(s).
 - Ligne 17 : **17 ds** *abbr. pro* dans.
 - Ligne 20 : **20 Ve.** *scil.* Vendredi. **20 Tjrs** *abbr. pro* Toujours.
 - Ligne 23 : **23 St** *abbr. pro* Saint.
@@ -4998,7 +5003,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | de lundi. N'ai pris aucun aliment. —
 19 | Tt le jour, langui ds ma chambre
 20 | ou au bureau...
-21 | [ Tin of Wren's Dubbin: 30 c ]
+21 | [ Tin of Wren's Dubbin : 30 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5041,13 +5046,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | Après-midi, à Belle-Église & Puchevillers, et
 13 | Harponville. Secoué auto. Routes, très mauvaises.
 14 | 14 J. Journée entière de liberté. Resté
-15 | lgts ds ma chambre: écrit, lu, ou rangé mes
+15 | lgts ds ma chambre : écrit, lu, ou rangé mes
 16 | affaires.
 17 | Tt le jour, ciel brumeux et pluie fine.
 18 | Température, pas froide. Pu écrire ds ma
 19 | chambre, sans feu.
 20 | Nuit, extt noire. Routes, lamentables sales.
-21 | [ — Essuie-mains: 90 c — ]
+21 | [ — Essuie-mains : 90 c — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5088,7 +5093,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | Raincheval, Toutencourt et ferme du
 11 | Quesnoy.
 12 | Sur les routes, très mauvais état, voiture
-13 | ressaute: on est cahoté, secoué, jeté
+13 | ressaute : on est cahoté, secoué, jeté
 14 | d'1 côté et d'autre. Fatigue extrême.
 15 | Tjrs même temps, ciel brumeux,
 16 | chaussées luisantes de boue liquide.
@@ -5098,7 +5103,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 20 | ternes. Occupations uniformes. Société de mon
 21 | off. — 1 cap. de 20 ans, présomptueux & vain —
 22 | peu agréable.
-23 | [ — Cartes ples: 25 c ]
+23 | [ — Cartes ples : 25 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5108,7 +5113,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 8 : **8 L.** *scil.* Lundi. **8 Auj'd'hui** *abbr. pro* Aujourd'hui.
 - Ligne 15 : **15 Tjrs** *abbr. pro* Toujours.
 - Ligne 17 : **17 y** *scil.* et.
-- Ligne 21 : **21 off.** *abbr. pro* officier(s). **21 off** *abbr. pro* officier(s).
+- Ligne 21 : **21 off.** *abbr. pro* officier(s).
 - Ligne 23 : **23** *in marg. cum unco* (comptes). **23 Cartes ples** *abbr. pro* Cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -5134,7 +5139,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | Léalvillers.
  7 | Soir, Cap. allé dîner à Beauquesne. Rentré
  8 | + tôt billet.
- 9 | [ — Lorgnon: 20 c. ]
+ 9 | [ — Lorgnon : 20 c. ]
 10 | Lettre de Mte, m'a bcp déplu. Très affecté.
 11 | Regrets pour le passé & appréhensions pour l'avenir.
 12 | 24 D. — Tjrs même temps. Ciel couvert, averses
@@ -5143,13 +5148,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | à St-Léger & Orville & Authie. Après-midi
 16 | à Toutencourt, Puchevillers etc. — Toutencourt et
 17 | A Louvencourt, ch. Mme Cuisinier, gaffe
-18 | du Cap. W.: « Bloody France etc.! »
+18 | du Cap. W. : « Bloody France etc.! »
 19 | Très affecté par ce propos & hésité à le reporter
 20 | à French Mission! — —
 21 | Depuis 2 jours, déprimé et très triste, à
 22 | la suite lettre de Mte du 17 ct. — Velléités de
 23 | rupture — gdes appréhensions pour l'avenir.
-24 | [ — Authie: 2 œufs s/ plat: 70 c. — Cartes ples: 30 c ]
+24 | [ — Authie : 2 œufs s/ plat : 70 c. — Cartes ples : 30 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5161,7 +5166,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 12 : **12 D.** *scil.* Dimanche. **12 Tjrs** *abbr. pro* Toujours.
 - Ligne 14 : **14 tte** *abbr. pro* toute.
 - Ligne 15 : **15 St** *abbr. pro* Saint.
-- Ligne 17 : **17 ch.** *abbr. pro* chambre / chaude. **17 Mme** *abbr. pro* Madame.
+- Ligne 17 : **17 ch.** *abbr. pro* chez. **17 Mme** *abbr. pro* Madame.
 - Ligne 18 : **18 Cap. W.** *scil.* Capitaine Williams. **18 Cap.** *abbr. pro* Capitaine.
 - Ligne 22 : **22 Mte** *scil.* Marguerite (Calmels). **22 ct** *abbr. pro* courant.
 - Ligne 23 : **23 gdes** *abbr. pro* grandes.
@@ -5191,15 +5196,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | Comme d'habitude, passé soirée au
  8 | rez-de-ch., avec mes propriétaires.
  9 | [ — Bureau mission, XIIIe c., touché
-10 | solde etc.: 84 fr.
-11 | Cartes Christmas: 70 c. ]
+10 | solde etc. : 84 fr.
+11 | Cartes Christmas : 70 c. ]
 12 | 20 Merc. Nuit, gelé très fortt. Sol durci.
 13 | Froid sec et très pénétrant.
 14 | Après-midi, en auto. Soleil pâle. Air
 15 | glacial. Assis in front, mieux placé et
 16 | moins secoué que à l'arrière —
 17 | Venu à Raincheval, Quesnoy & Beauquesne.
-18 | Rentré nuit tombée: au ciel, étoiles très brillantes.
+18 | Rentré nuit tombée : au ciel, étoiles très brillantes.
 19 | Gelé à pierre fendre.
 20 | Mais préfère mille fois ce gd froid au temps
 21 | brouillard et pluie des semaines précédentes.
@@ -5210,7 +5215,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 3 : **3 lgts** *abbr. pro* longtemps.
 - Ligne 4 : **4 ds** *abbr. pro* dans.
 - Ligne 6 : **6 billet** *angl. in ms.*
-- Ligne 8 : **8 ch.** *abbr. pro* chambre / chaude.
+- Ligne 8 : **8 rez-de-ch.** *abbr. pro* rez-de-chaussée.
 - Ligne 9 : **9** *in marg. cum unco* (comptes).
 - Ligne 10 : **10 fr.** *abbr. pro* franc(s).
 - Ligne 11 : **11 c.** *abbr. pro* centimes. **11 Christmas** *angl. in ms.*
@@ -5244,9 +5249,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | tempête.
 11 | Journée de repos. Chambre...
 12 | Peu à peu, rasséréné & pris dessus.
-13 | Après-midi, ds la Y.M.C.A. hut, concert: chansons
+13 | Après-midi, ds la Y.M.C.A. hut, concert : chansons
 14 | comiques & saynètes — —
-15 | [ — Washing: 80 c. ]
+15 | [ — Washing : 80 c. ]
 16 | Fin journée, retrouvé compl. calme d'esprit
 17 | & parfait équilibre.
 18 | Vers 9h s., quitté Cap. Williams & regagné
@@ -5296,9 +5301,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | Matinée, course à Beauquesne. Puis
 12 | continué j'à Doullens, mais resté
 13 | 20 m. à peine ds cette ville (hélas!).
-14 | [ A Doullens: 1 ramette papier à l.: 1 f 25 c
-15 | 2 paquets gdes enveloppes: 45 + 45 c
-16 | Cartes ples: 55 c ]
+14 | [ A Doullens : 1 ramette papier à l. : 1 f 25 c
+15 | 2 paquets gdes enveloppes : 45 + 45 c
+16 | Cartes ples : 55 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5333,14 +5338,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | routes, redevenues affreust boueuses.
  7 | Après breakfast, venu à pied à Léalvillers,
  8 | retour à pied. Promenade hygiénique.
- 9 | Tout jour, liberté: car in workshop.
+ 9 | Tout jour, liberté : car in workshop.
 10 | A 6h s., concert au Y.M.C.A. hut. 13th
 11 | Corps Archie Singers. Chansons comiques
 12 | & pantomimes.
-13 | [ — Brown Boot Polish: 20 c
+13 | [ — Brown Boot Polish : 20 c
 14 | — Boîte recommandée à Imbert, opticien
-15 | Paris: 30 c
-16 | Concert Y.M.C.A.: 30 c ]
+15 | Paris : 30 c
+16 | Concert Y.M.C.A. : 30 c ]
 17 | 29 Ve. Temps doux. Ciel couvert.
 18 | Pluie fine —
 19 | Matinée, avec Sunbeam Car, du Major
@@ -5361,7 +5366,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 16 : **16 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
 - Ligne 17 : **17 Ve.** *scil.* Vendredi.
 - Ligne 22 : **22 s.** *abbr. pro* soir.
-- Ligne 24 : **24 pt** *abbr. pro* petit.
+- Ligne 24 : **24 pt** *abbr. pro* peut.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~9 car in workshop :** L'automobile de l'unité étant à l'atelier de réparation mécanique (*workshop*), l'interprète bénéficie d'une journée entière de congé. **l.~14--15 Boîte recommandée à Imbert, opticien Paris : 30 c :** Envoi postal de son pince-nez cassé à son opticien parisien du boulevard Saint-Michel (qu'il réglera par mandat le 10 janvier et visitera le 27 janvier 1917, Scans #122 et #131).
@@ -5389,18 +5394,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | explication très calme, mais très ferme. M'a fait des
 10 | excuses et m'a supplié de ne pas le quitter etc.
 11 | Après-midi, entt libre —
-12 | [ — Clous aux semelles de mes bottes: 1 f 60 ]
+12 | [ — Clous aux semelles de mes bottes : 1 f 60 ]
 13 | 31 Dim. Tempérre +tôt chaude, et pluie
 14 | fine, intermittente.
 15 | Matinée, ds ma chambre —
-16 | Aussitôt après lunch, partis en auto: Belle-
+16 | Aussitôt après lunch, partis en auto : Belle-
 17 | Église, Raincheval & Beauquesne.
 18 | Légère brume estompe paysages lointains.
 19 | Mon jeune capne, attitude gênée et
 20 | presque humiliée, contrite. Parle à peine (paraît
 21 | et n'ose plus me regarder en face. (déprimé)
 22 | Soir, Y.M.C.A. hut, assisté 1/2 séance —
-23 | [ — Dépenses mess: 45 f + 10 f + 1 f + 22 fr. —
+23 | [ — Dépenses mess : 45 f + 10 f + 1 f + 22 fr. —
 24 | = 88 fr. — ]
 ```
 
@@ -5439,7 +5444,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | & Pas. gde route d'Arras. Ondée très fine &
  7 | intermittente.
  8 | M. Carluvant m'a annoncé qu'il devra quitter
- 9 | maison ds qq jours: nouveau propr. va venir s'y
+ 9 | maison ds qq jours : nouveau propr. va venir s'y
 10 | installer. Regrette de partir d'ici. Chambre chaude.
 11 | 2 Mardi
 12 | Ciel nuageux. Pluie menaçante.
@@ -5452,8 +5457,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 19 | & Toutencourt.
 20 | Rentré 6h s., très fatigué pr plusieurs
 21 | heures d'auto.
-22 | [ A Louvencourt canteen: Calvert Tooth Powder: 60 c.
-23 | Acheux: new boots, nails on: 1 f 50 ]
+22 | [ A Louvencourt canteen : Calvert Tooth Powder : 60 c.
+23 | Acheux : new boots, nails on : 1 f 50 ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5492,21 +5497,21 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | l'Hôtel de la Paix, rue — et dès lors,
 12 | pour moi, liberté complète j'à 3 h 1/2 s.
 13 | Rencontré Cap. Trefcon rue Sire Firmin Leroux
-14 | (La Semeuse: instruments agricoles etc.)
+14 | (La Semeuse : instruments agricoles etc.)
 15 | Après déjeuner, visite à la cathle, y
 16 | passé plus d'1 heure... Admiré à
 17 | loisir choses & détails déjà vus. —
 18 | Promené çà et là, le long rues centre.
 19 | Repartis vers 4h s.
-20 | [ — Amiens: 12 ctes ples: 40 c + 10 c. Ctes ples: 20 c
-21 | 3 boutons khaki: 40 c. — Déjeuner: 1 f 95 c —
-22 | 5 gravures ocre cathédrale: 2 f 50 —
-23 | 1 bonnet police drap bleu: 3 f 75 c ]
+20 | [ — Amiens : 12 ctes ples : 40 c + 10 c. Ctes ples : 20 c
+21 | 3 boutons khaki : 40 c. — Déjeuner : 1 f 95 c —
+22 | 5 gravures ocre cathédrale : 2 f 50 —
+23 | 1 bonnet police drap bleu : 3 f 75 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 5 : **5 off.** *abbr. pro* officier(s). **5 off** *abbr. pro* officier(s).
-- Ligne 7 : **7 ch.** *abbr. pro* chambre / chaude.
+- Ligne 5 : **5 off.** *abbr. pro* officier(s). **5 m.** *abbr. pro* matin.
+- Ligne 7 : **7 ch.** *abbr. pro* chez.
 - Ligne 10 : **10 ds** *abbr. pro* dans.
 - Ligne 12 : **12 j'à** *abbr. pro* jusqu'à. **12 1/2** *scil.* demi / moitié.
 - Ligne 13 : **13 Cap.** *abbr. pro* Capitaine.
@@ -5542,18 +5547,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | Soir, concert des XIII Corps Archie, à la
 11 | Y.M.C.A. hut. 2e partie programme, nos excellents
 12 | chanteurs — duos très g.
-13 | [ — Étui net: 1 f
-14 | — Concert Y.M.C.A.: 30 c ]
+13 | [ — Étui net : 1 f
+14 | — Concert Y.M.C.A. : 30 c ]
 15 | 5 Ven. — Tout le jour, en course.
 16 | Septenville, ferme Moulard. —
-17 | Beauquesne: déjeuné av. Lt Walsh, Lt Morris
+17 | Beauquesne : déjeuné av. Lt Walsh, Lt Morris
 18 | & son interprète au Café Continental.
 19 | Puis passé contrat battage batteuse av.
 20 | Mme Capron.
 21 | Rentré, nuit tombante. Mervx clair
 22 | de lune. Routes boueuses comme ruisselantes
 23 | de lumière —
-24 | [ Bureau Mission fse XIIIe Corps Acheux: 78 f 75 ]
+24 | [ Bureau Mission fse XIIIe Corps Acheux : 78 f 75 ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5586,14 +5591,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | 6 Sam.          Janv. 1917
  2 | Très belle journée, ensoleillée
  3 | mais 1 peu froide.
- 4 | Matinée, course en auto: Louvencourt,
+ 4 | Matinée, course en auto : Louvencourt,
  5 | Bertrancourt et Authie.
  6 | Après-midi, liberté entière —
  7 | Soir, au concert Y.M.C.A. Programme
  8 | des 2 fois précédentes. Chants du soir. —
- 9 | Matinée, routes encombrées: déplacement
-10 | de troupes: convois d'artillerie, de A.S.C. etc.
-11 | [ — Washing: 70 c. — Concert Y.M.C.A.: 30 c ]
+ 9 | Matinée, routes encombrées : déplacement
+10 | de troupes : convois d'artillerie, de A.S.C. etc.
+11 | [ — Washing : 70 c. — Concert Y.M.C.A. : 30 c ]
 12 | 9 Ma. —
 13 | Hier & avant-hier, courses en auto
 14 | matin & soir, Arquèves, Raincheval, St-Léger.
@@ -5606,7 +5611,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 21 | Temps + froid, neigé 1 peu, puis pluie
 22 | fine — Toute la nuit & durant journée
 23 | très violente canonnade.
-24 | [ — Avis de réception pour Imbert: 10 c — ]
+24 | [ — Avis de réception pour Imbert : 10 c — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5645,17 +5650,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Temps froid, neige & pluie glaciale.
  9 | [ — Mandat-poste à Imbert, opticien,
 10 | Paris, pour réparation pince-nez et pour
-11 | 1 neuf d'après ordonnance: 19 fr. ]
+11 | 1 neuf d'après ordonnance : 19 fr. ]
 12 | 11 J. — Neige & pluie fine, presque tt le jour.
 13 | A whole day off —
 14 | Mis à jour correspondance en arriéré.
 15 | Soir, dîné seul. Rentré tôt chambre.
 16 | 12 Ve. Durant nuit, neigé encore.
-17 | Toute matinée, averses et giboulées:
+17 | Toute matinée, averses et giboulées :
 18 | grésil & neige. Surpris par tempête au
 19 | retour d'Authie & sur la route d'Arquèves,
 20 | plateaux de Louvencourt.
-21 | Courses en auto: Louvencourt, St-Léger,
+21 | Courses en auto : Louvencourt, St-Léger,
 22 | Raincheval, Beauquesne, où déjeuné au
 23 | Café Continental.
 24 | Après-midi, à Septenville & Rubempré.
@@ -5693,7 +5698,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | brouillard froid —
  4 | Après-midi, course en auto à Beaucourt &
  5 | Montigny.
- 6 | Matin, au bureau mission Ve corps: vu
+ 6 | Matin, au bureau mission Ve corps : vu
  7 | Cap. Huguet; mon départ fixé défint au 26 ct —
  8 | 14 D. Neige tombé à gros flocons durant
  9 | matinée entière. Toits & arbres recouverts couche
@@ -5707,10 +5712,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | neige. Masses sombres des arbres. Arbres &
 18 | maisons de village se détachent davantage
 19 | au 1/2 du blanc (Raincheval). Brume monte.
-20 | 2 h. de liberté à Doullens: visité ville,
+20 | 2 h. de liberté à Doullens : visité ville,
 21 | arrêt église etc.
-22 | [ — 2 douz. ctes ples: 1 f. — Lunch: 1 f 90
-23 | — 1 plaque chocolat: 60 c — ]
+22 | [ — 2 douz. ctes ples : 1 f. — Lunch : 1 f 90
+23 | — 1 plaque chocolat : 60 c — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5745,9 +5750,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | allé de ferme en ferme, pour trouver paille.
  7 | Au retour, dévalé en vitesse coteaux pente
  8 | Hérissart à Toutencourt. Coteaux et champs
- 9 | encore couverts neige: gdes & mornes étendues
+ 9 | encore couverts neige : gdes & mornes étendues
 10 | blanches.
-11 | [ — Ctes ples: 30 c. ]
+11 | [ — Ctes ples : 30 c. ]
 12 | 17 Merc. Nuit neigé abondt. Au réveil
 13 | trouvé toits, jardins, rues, tout blancs.
 14 | Tout le jour, en course. Venu j'à
@@ -5755,7 +5760,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 16 | plaines mornes. Au-delà, région pittoresque,
 17 | vergers, petits coteaux boisés.
 18 | M. Renard ns a invités à déjeuner.
-19 | Ns a montré ses objets d'art précieux:
+19 | Ns a montré ses objets d'art précieux :
 20 | notamt et surtout un coffret en paille
 21 | acheté en 1858 au bagne de Toulon.
 22 | Matinée entière, neige fine, tourmente
@@ -5770,7 +5775,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Ctes ples** *abbr. pro* Cartes postales.
 - Ligne 12 : **12 Merc.** *scil.* Mercredi. **12 abondt** *abbr. pro* abondamment.
 - Ligne 14 : **14 j'à** *abbr. pro* jusqu'à.
-- Ligne 15 : **15 ch.** *abbr. pro* chambre / chaude.
+- Ligne 15 : **15 ch.** *abbr. pro* chez.
 - Ligne 18 : **18 ns** *abbr. pro* nous.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -5805,7 +5810,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | ds les champs. Buée grise s'élève à l'horizon.
 16 | Froid pénétrant. Il gèle déjà très fort.
 17 | [ — Matin, au bureau mission
-18 | Ve corps, solde: 84 fr. — ]
+18 | Ve corps, solde : 84 fr. — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -5831,7 +5836,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | 20 Sam.          — Janvier 1917
  2 | Repos tout le jour.
- 3 | Chambre ou office: lu & écrit etc.
+ 3 | Chambre ou office : lu & écrit etc.
  4 | Neige ne fond pas. Champs & toits
  5 | encore tout blancs.
  6 | Froid sec. Gelé très fortement.
@@ -5842,7 +5847,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | à pied. Sol durci. Route excellente. 2 kilog.
 12 | Champs tout blancs. Neige durcie ne
 13 | fond pas.
-14 | [ — Canteen: Wren's Dubbin: 3 tins: 30 c ]
+14 | [ — Canteen : Wren's Dubbin : 3 tins : 30 c ]
 15 | Après-midi, liberté. Commencé préparatifs
 16 | départ.
 17 | 23 Mardi | Hier & auj'd'hui, liberté entière.
@@ -5887,7 +5892,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | 1/2 jour, soleil ardent.
  9 | Aujourd'hui encore, liberté complète.
 10 | Terminé ts préparatifs départ.
-11 | [ — Washing: 70 c ]
+11 | [ — Washing : 70 c ]
 12 | 25 Jeudi — Gelé extr. + fort. Vitres
 13 | couvertes épaisse couche mate pointillée.
 14 | Milieu jour, très beau soleil, qui
@@ -5983,11 +5988,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  2 | Arrivé Amiens vers 2h m.
  3 | Froid pénétrant — gelé très dur.
  4 | Au ciel sombre, qq étoiles très brillantes.
- 5 | [ — Voiturier, à Acheux: 1 f
+ 5 | [ — Voiturier, à Acheux : 1 f
  6 | (2 sacs à la gare)
- 7 | — A Gézaincourt: enregt bag.: 10 c
+ 7 | — A Gézaincourt : enregt bag. : 10 c
  8 | (27 kg. — 2 sacs)
- 9 | En caisse, ce matin: 319 f 50 c ]
+ 9 | En caisse, ce matin : 319 f 50 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -6030,7 +6035,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | Pris 1 fiacre et venu gare d'Orsay
 18 | où billet et fait, en 10 minutes, enregistrer mes bagages.
 19 | Me suis rendu par le métro à
-20 | Neuilly: Tuileries – Porte-Maillot.
+20 | Neuilly : Tuileries – Porte-Maillot.
 21 | Après 5 m. de marche, arrivé
 22 | rue d'Armenonville, no 16.
 23 | Maison luxueuse. Au 4e étage, à g.
@@ -6082,10 +6087,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
-- Ligne 2 : **2 appartt** *abbr. pro* appartement. **2 ét.** *abbr. pro* étage / était.
+- Ligne 2 : **2 appartt** *abbr. pro* appartement. **2 ét.** *abbr. pro* étage.
 - Ligne 5 : **5 Mlle** *abbr. pro* Mademoiselle.
 - Ligne 9 : **9 s.** *abbr. pro* soir.
-- Ligne 10 : **10 ch.** *abbr. pro* chambre / chaude. **10 Bvd** *abbr. pro* Boulevard.
+- Ligne 10 : **10 ch.** *abbr. pro* chez. **10 Bvd** *abbr. pro* Boulevard.
 - Ligne 12 : **12 plusrs** *abbr. pro* plusieurs.
 - Ligne 14 : **14 s.** *abbr. pro* soir.
 - Ligne 15 : **15 compartt** *abbr. pro* compartiment.
@@ -6107,15 +6112,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### I. Transcription diplomatique
 ```text
  1 | Sam. 27          Janv. /17
- 2 | Paris. Gare du Nord. Facteur: 20 c
- 3 | Gare d'Orsay: 10 c. | Cartes ples: 10 c
- 4 | Enregt 2 colis, 2 f 40: 10 c
- 5 | Fiacre taximètre: 1 f 45 + 30 c = 1 f 75 c
- 6 | Métro: 15, 15 c | Dîner: 1 f 95 + 10 c
- 7 | Billet pour Toulouse: 11 f 15 c
- 8 | Magasins Hôtel de Ville: 1 brosse à cheveux: 3 f 95
- 9 | Brosse à souliers: 65 c. — Peigne fin: 1 f 25 c
-10 | Peigne ordre: 95 c. — Cirage noir: 50 c
+ 2 | Paris. Gare du Nord. Facteur : 20 c
+ 3 | Gare d'Orsay : 10 c. | Cartes ples : 10 c
+ 4 | Enregt 2 colis, 2 f 40 : 10 c
+ 5 | Fiacre taximètre : 1 f 45 + 30 c = 1 f 75 c
+ 6 | Métro : 15, 15 c | Dîner : 1 f 95 + 10 c
+ 7 | Billet pour Toulouse : 11 f 15 c
+ 8 | Magasins Hôtel de Ville : 1 brosse à cheveux : 3 f 95
+ 9 | Brosse à souliers : 65 c. — Peigne fin : 1 f 25 c
+10 | Peigne ordre : 95 c. — Cirage noir : 50 c
 11 | Dimanche 28
 12 | Voyage, terminé sans incidents.
 13 | En approchant de Toulouse, souvenirs jeunesse
@@ -6170,7 +6175,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | Mes sentiments à son égard, douceur infinie.
 13 | Causeries délicieuses sur les sujets les plus
 14 | divers.
-15 | [ — Trams: 10 c, 10 c — ]
+15 | [ — Trams : 10 c, 10 c — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -6218,10 +6223,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | Enfin, allé prendre au Capitole
 19 | notre tram p. Côte Pavée.
 20 | A 9h s., quitté, hélas! Ste-Marie.
-21 | [ — Trams: 10, 10, 10 c, 60, 10 c —
-22 | Mag. du Capitole: boîte de 3 savonnettes: 2 f 90
-23 | Brosse à dents p. Margte: 2 f 25 c — Ctes ples: 30 c
-24 | Cartes pour visiter cryptes de St-Sernin: 1 f — ]
+21 | [ — Trams : 10, 10, 10 c, 60, 10 c —
+22 | Mag. du Capitole : boîte de 3 savonnettes : 2 f 90
+23 | Brosse à dents p. Margte : 2 f 25 c — Ctes ples : 30 c
+24 | Cartes pour visiter cryptes de St-Sernin : 1 f — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -6264,12 +6269,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | remarquables fond et forme. Vrai
 14 | régal littéraire.
 15 | Fini journée en cie de Margte —
-16 | [ — Cartes ples: 60 c.
-17 | — 1 ramette papier vélin: 1 f 25
+16 | [ — Cartes ples : 60 c.
+17 | — 1 ramette papier vélin : 1 f 25
 18 | (moyen format)
-19 | 2 paquets d'enveloppes: 80 c.
-20 | Trams: 10 c, 60 c, 10 c.
-21 | Le Miroir des Modes (no de janvier): 1 f — ]
+19 | 2 paquets d'enveloppes : 80 c.
+20 | Trams : 10 c, 60 c, 10 c.
+21 | Le Miroir des Modes (no de janvier) : 1 f — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -6310,14 +6315,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | A Ste-Marie, vers 6h 1/2. Retour à pied, vers
 12 | 9h. Légers flocons neige tombaient sur le sol
 13 | durci.
-14 | [ — Halles Victor-Hugo: gigot d'agneau: 5 f
-15 | Petits fromages (gervais & blancs): 90 c
-16 | 1/2 beurre: 60 c. — Boîte sardines: 2 f
-17 | Gâteaux: 20 c. — 1 livre de dattes: 1 f — id. de
-18 | figues: 1 f. — Gâteau aux noix: 1 f 25 c
-19 | Gâteau des rois: 1 f 40 chez Henri Testex
-20 | Trams: 30 c., 30 c.
-21 | Télégramme à Mme Spagnol, Nice: 2 f — ]
+14 | [ — Halles Victor-Hugo : gigot d'agneau : 5 f
+15 | Petits fromages (gervais & blancs) : 90 c
+16 | 1/2 beurre : 60 c. — Boîte sardines : 2 f
+17 | Gâteaux : 20 c. — 1 livre de dattes : 1 f — id. de
+18 | figues : 1 f. — Gâteau aux noix : 1 f 25 c
+19 | Gâteau des rois : 1 f 40 chez Henri Testex
+20 | Trams : 30 c., 30 c.
+21 | Télégramme à Mme Spagnol, Nice : 2 f — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -6359,15 +6364,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | Vers 4h 1/2, à gare, à propos panier fleurs
 10 | égaré. A Mazaréthe, revu tte ma famille.
 11 | Choisi montre or ch. Pfister.
-12 | Chapelle archevêché: conférence, pas eu lieu.
+12 | Chapelle archevêché : conférence, pas eu lieu.
 13 | Rentré dîner à Ste-Marie —
 14 | Vers 9h 1/2, à pied j'à rue de Languedoc.
 15 | Ville silencieuse. Maintent bcp calme, je me
 16 | sens complètt détaché de Toulouse. Partirai sans
 17 | regret, et pour n'y retourner jamais plus.
-18 | [ — Trams: 30 c., 10 c., 20 c., 30 c.
-19 | Wood (boulangeon): 2 f
-20 | Remboursé à mes voisines: 3 f 25
+18 | [ — Trams : 30 c., 10 c., 20 c., 30 c.
+19 | Wood (boulangeon) : 2 f
+20 | Remboursé à mes voisines : 3 f 25
 21 | (12 œufs, 1/2 beurre, 1 boulangeon) ]
 ```
 
@@ -6378,7 +6383,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 7 : **7 Ste** *abbr. pro* Sainte.
 - Ligne 9 : **9 1/2** *scil.* demi / moitié.
 - Ligne 10 : **10 tte** *abbr. pro* toute.
-- Ligne 11 : **11 ch.** *abbr. pro* chambre / chaude.
+- Ligne 11 : **11 ch.** *abbr. pro* chez.
 - Ligne 13 : **13 Ste** *abbr. pro* Sainte.
 - Ligne 14 : **14 j'à** *abbr. pro* jusqu'à. **14 1/2** *scil.* demi / moitié.
 - Ligne 15 : **15 bcp** *abbr. pro* beaucoup.
@@ -6408,14 +6413,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | rue La Fayette. Très bien soigné par j. dame,
  6 | opératrice.
  7 | Après-midi, visite à Mme de Labarthe. Puis
- 8 | monté ch. Henriette: y retrouvé Margte etc.
+ 8 | monté ch. Henriette : y retrouvé Margte etc.
  9 | Descendu à pied de Ste-Marie, vers 10h s.
 10 | Froid piquant. Sol durci.
 11 | [ — Ch. Pfister, remontoir or mat Louis XVI
 12 | 105 fr. — Petit anneau pour attacher pendentif
-13 | à sautoir: free. — 1 boîte pastilles de
-14 | Chlorate de Potasse: 1 f 30 c. — Trams: 20 c., 10 c
-15 | Bain, Place Belfort: 1 f — ]
+13 | à sautoir : free. — 1 boîte pastilles de
+14 | Chlorate de Potasse : 1 f 30 c. — Trams : 20 c., 10 c
+15 | Bain, Place Belfort : 1 f — ]
 16 | Quitte à regret Tte, sacrifiant 3 jours entiers
 17 | pour aller à Millau... Aurais préféré rester
 18 | encore ici, afin de jouir + lgts de mon
@@ -6424,9 +6429,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2 Tjrs** *abbr. pro* Toujours.
-- Ligne 4 : **4 ch.** *abbr. pro* chambre / chaude.
+- Ligne 4 : **4 ch.** *abbr. pro* chez.
 - Ligne 7 : **7 Mme** *abbr. pro* Madame.
-- Ligne 8 : **8 ch.** *abbr. pro* chambre / chaude. **8 Margte** *scil.* Marguerite (Calmels).
+- Ligne 8 : **8 ch.** *abbr. pro* chez. **8 Margte** *scil.* Marguerite (Calmels).
 - Ligne 9 : **9 Ste** *abbr. pro* Sainte. **9 s.** *abbr. pro* soir.
 - Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Ch.** *abbr. pro* Chez.
 - Ligne 12 : **12 fr.** *abbr. pro* franc(s).
@@ -6478,7 +6483,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 3 : **3 ds** *abbr. pro* dans.
-- Ligne 4 : **4 ch.** *abbr. pro* chambre / chaude. **4 1/2** *scil.* demi / moitié.
+- Ligne 4 : **4 ch.** *abbr. pro* chez. **4 1/2** *scil.* demi / moitié.
 - Ligne 5 : **5 Margte** *scil.* Marguerite (Calmels).
 - Ligne 6 : **6 Ste** *abbr. pro* Sainte.
 - Ligne 10 : **10 1/2** *scil.* demi / moitié.
@@ -6504,14 +6509,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | Sam. 3 —          Févr. /17
  2 | — Dentiste, M. de Lersay, 1 grand nettoyage
- 3 | et 3 plombages: 40 f = net: 25 f —
- 4 | — Broche A.P.C.: 3 f
- 5 | — Trams à Toulouse: 20 c., + 20 c
- 6 | — Enregt bagages de Margte: 10 c
- 7 | — Étrennes à Marie: 5 f —
- 8 | — Supplément pour m'être déclassé en 2e: 1 f
- 9 | — Billet 1/4 pl. Béziers – Millau: 1 f 80
-10 | — Buffet de Bédarieux: 6 f 75 + 25 c
+ 3 | et 3 plombages : 40 f = net : 25 f —
+ 4 | — Broche A.P.C. : 3 f
+ 5 | — Trams à Toulouse : 20 c., + 20 c
+ 6 | — Enregt bagages de Margte : 10 c
+ 7 | — Étrennes à Marie : 5 f —
+ 8 | — Supplément pour m'être déclassé en 2e : 1 f
+ 9 | — Billet 1/4 pl. Béziers – Millau : 1 f 80
+10 | — Buffet de Bédarieux : 6 f 75 + 25 c
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -6637,8 +6642,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | Arrêt à ttes les stations.
 15 | Neige partout.
 16 | Arrivé Saint-Flour à minuit 30 s.
-17 | [ — Remboursé à Mte cadeaux enfants Uncins: 6 f
-18 | Gift à la bonne de Mte: 3 f — ]
+17 | [ — Remboursé à Mte cadeaux enfants Uncins : 6 f
+18 | Gift à la bonne de Mte : 3 f — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -6722,7 +6727,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | soldats, fort curieux à observer et
 14 | écouter.
 15 | Roulé toute la nuit.
-16 | [ — Brioude, buffet, rhum: 60 c ]
+16 | [ — Brioude, buffet, rhum : 60 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -6850,11 +6855,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Après dîner, retourné chambre vers 9h.
  5 | Vitres recouvertes très épaisse gelée glacée.
  6 | Froid extrt rigoureux.
- 7 | [ Train & Paris, métro: 1 f.
- 8 | Amiens, Y.M.C.A.: 1 f. 15 c.
- 9 | Touché solde Mission fr., Acheux: 78 f. 75
+ 7 | [ Train & Paris, métro : 1 f.
+ 8 | Amiens, Y.M.C.A. : 1 f. 15 c.
+ 9 | Touché solde Mission fr., Acheux : 78 f. 75
 10 | Gift aux Carluvant, pour
-11 | mon lunch & room: 5 f. ]
+11 | mon lunch & room : 5 f. ]
 12 | Jeudi 8.
 13 | Très bonne nuit. Bien reposé. Lit
 14 | très confortable.
@@ -6898,7 +6903,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Après-midi, promenade à pied à Rubempré.
  5 | Rayons ardents faisaient étinceler neige durcie,
  6 | qui recouvrait champs.
- 7 | Région, moins banale qu'environs d'Acheux:
+ 7 | Région, moins banale qu'environs d'Acheux :
  8 | petites hauteurs, couronnées de
  9 | moulins à vent.
 10 | 2 h. de marche.
@@ -6936,7 +6941,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | — Vendredi 9 (suite) —          Février 1917
  2 | Après-midi, ds l'auto du Lieutt Croughton,
- 3 | venu à Toutencourt. Bureau Mission fr.: appris
+ 3 | venu à Toutencourt. Bureau Mission fr. : appris
  4 | que désormais serai administré par l'armée et
  5 | payé les 3 et 18 de chaque mois.
  6 | Retour sur 1 lorry.
@@ -7049,9 +7054,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | Nuit obscure, ciel étoilé mais sans lune.
 16 | Il semble pourtant qu'il fasse un peu
 17 | moins froid.
-18 | [ Doullens: Papeterie: 2 f. 10. —
-19 | Cartes ples: 75 c.
-20 | Chocolat: 60 c. — Biscuits Petit Beurre: 50 c. ]
+18 | [ Doullens : Papeterie : 2 f. 10. —
+19 | Cartes ples : 75 c.
+20 | Chocolat : 60 c. — Biscuits Petit Beurre : 50 c. ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -7096,7 +7101,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | des toits.
 19 | Parcouru 1 peu village d'Hérissart. Semble
 20 | inhabité. Rues en pente. Silence funèbre.
-21 | [ 5 vues d'Amiens, cathédrale, achetées pour moi:
+21 | [ 5 vues d'Amiens, cathédrale, achetées pour moi :
 22 | 2 f. 50 ]
 ```
 
@@ -7136,7 +7141,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | vitres embellies d'arabesques magnifiques.
 13 | Journée, beau soleil fait en plusieurs endroits
 14 | fondre glace & neige.
-15 | Après breakfast, partis en auto: Authie,
+15 | Après breakfast, partis en auto : Authie,
 16 | Bus et Acheux, où pris repas au café
 17 | de l'Hôtel de Ville (prix exorbitants).
 18 | Au retour, arrêt à Toutencourt. Y revenus
@@ -7174,7 +7179,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  4 | Matinée, courses à Toutencourt, Raincheval
  5 | & Puchevillers.
  6 | Après-midi, liberté.
- 7 | Dans ma chambre: écrit un peu. Puis
+ 7 | Dans ma chambre : écrit un peu. Puis
  8 | promené village, grand costume. Vu le
  9 | maire. Population, sympathique.
 10 | Nuit extrt belle, mervt étoilée.
@@ -7236,7 +7241,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 22 | Retour à Hérissart sur un lorry.
 23 | Aujourd'hui, me suis fait raser. Retrouvé
 24 | parfaite santé morale. — [ A Toutencourt,
-25 | solde: 68 f. 25 c. ]
+25 | solde : 68 f. 25 c. ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -7264,7 +7269,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ### I. Transcription diplomatique
 ```text
- 1 | 19 Lundi — (En caisse: 225 f. 95)          Février 1917
+ 1 | 19 Lundi — (En caisse : 225 f. 95)          Février 1917
  2 | Tout le jour, temps couvert.
  3 | Petites ondées intermittentes.
  4 | Matinée, malgré pluie & routes boueuses,
@@ -7276,9 +7281,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | à la chambre qu'occupait Cap. Williams, à
 11 | côté office. Pièce très froide et surtout humide,
 12 | murs & briques du floor ruissellent d'eau.
-13 | Vers 9h 1/2, prop.re du n° 104, malade: me
+13 | Vers 9h 1/2, prop.re du n° 104, malade : me
 14 | suis dévoué pour elle. Allé chercher méd. et M.O.
-15 | 20 Mardi. — [ 1 hair cut: net: 30 c. ]
+15 | 20 Mardi. — [ 1 hair cut : net : 30 c. ]
 16 | Assez bien dormi nouvelle chambre. Mais,
 17 | constaté avec regret combien elle est humide et
 18 | froide. Impossible de m'y tenir, durant la
@@ -7288,8 +7293,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 22 | pour trouver paille & foin. Route abst
 23 | boueuse & impraticable.
 24 | Après-midi, liberté.
-25 | [ A Albertine (Hérissart): 1 f. 70 blanchissage,
-26 | et pour service chambre: en tout: 2 f. ]
+25 | [ A Albertine (Hérissart) : 1 f. 70 blanchissage,
+26 | et pour service chambre : en tout : 2 f. ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -7330,8 +7335,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | Impressions de solitude & détresse morale.
 11 | [ A Doullens, mandat de 162 f. pour un
 12 | Espagnol, Nice — —
-13 | A Doullens: 2 œufs & café: 1 f. —
-14 | 1 pr. de semelles liège: 0 f. 80 ]
+13 | A Doullens : 2 œufs & café : 1 f. —
+14 | 1 pr. de semelles liège : 0 f. 80 ]
 15 | Après-midi, à Hérissart, village 1 peu
 16 | plus désert, presque funèbre.
 17 | 22 Jeudi — Journée d'1 monotonie extra.
@@ -7445,7 +7450,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 16 | indienne, traversé village d'Hérissart. Ces
 17 | hindous, très curieux à regarder. Beaux
 18 | chevaux, lances, à l'étrier, turbans etc.
-19 | — Mess, pour février (depuis le 8): 33 f. —
+19 | — Mess, pour février (depuis le 8) : 33 f. —
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -7475,7 +7480,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```text
  1 | 1er Jeudi —          — Mars 1917 —
  2 | Très belle journée.
- 3 | Après-midi, courses en auto: Rubempré, vu château,
+ 3 | Après-midi, courses en auto : Rubempré, vu château,
  4 | puis Montigny & Fréchencourt. Causé lgts avec le fils
  5 | du maire, ds ses champs ensoleillés, vers Pont-Noyelles.
  6 | Après le thé, promenade sur route de Contay.
@@ -7527,14 +7532,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Retour sur 1 lorry. Temps froid. Brouillard.
  9 | Fini journée ds notre office, Hérissart, à lire
 10 | ou à écrire.
-11 | [ Toutencourt, Mission fr.: 43 f. 75 (retenue
+11 | [ Toutencourt, Mission fr. : 43 f. 75 (retenue
 12 | de 35 f. pour 7 jours de permission) ]
 13 | 4 Dim. — Nuit, gelé un peu.
 14 | Matin & soir, froid un peu vif. Mais ds la
 15 | journée, très beau temps, soleil chaud.
 16 | Cap. & son ami, en ballade à
 17 | Flixecourt. Aussi, liberté entière,
-18 | matin & soir —          [ Washing: 60 c. ]
+18 | matin & soir —          [ Washing : 60 c. ]
 19 | 5 Lundi. — Au réveil, épaisse couche de
 20 | neige recouvrait routes & toits. Branches
 21 | d'arbres, très belles, sous leur ouate blanche.
@@ -7558,7 +7563,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 14 : **14 ds** *abbr. pro* dans.
 - Ligne 16 : **16 Cap.** *abbr. pro* Capitaine.
 - Ligne 18 : **18** *in marg. cum unco* (comptes). **18 c.** *abbr. pro* centimes.
-- Ligne 25 : **25 off.** *abbr. pro* officier(s). **25 off** *abbr. pro* officier(s).
+- Ligne 25 : **25 off.** *abbr. pro* officier(s). **25 1er** *scil.* premier.
 - Ligne 26 : **26 ns** *abbr. pro* nous. **26 Cap.** *abbr. pro* Capitaine.
 - Ligne 27 : **27 mervt** *abbr. pro* merveilleusement.
 
@@ -7589,9 +7594,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 10 | divers renseigts. Maral logis Grauger m'a promis
 11 | de me faire donner bon poste —
 12 | Fini journée au mess, en cie nouvel interprète.
-13 | [ A Doullens: papeterie: 3 f. + 1 f. 50
-14 | Cartes ples: 1 f. — 2 boîtes pastilles chocolat: 1 f.
-15 | Quête pour wounded: 50 c.
+13 | [ A Doullens : papeterie : 3 f. + 1 f. 50
+14 | Cartes ples : 1 f. — 2 boîtes pastilles chocolat : 1 f.
+15 | Quête pour wounded : 50 c.
 16 | (Hôpital auxiliaire) ]
 17 | 7 Mercredi.
 18 | Matin & soir, inoccupé.
@@ -7606,7 +7611,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 4 : **4 off.** *abbr. pro* officier(s). **4 off** *abbr. pro* officier(s).
+- Ligne 4 : **4 off.** *abbr. pro* officier(s).
 - Ligne 6 : **6 Cap. W.** *scil.* Capitaine Williams. **6 Cap.** *abbr. pro* Capitaine.
 - Ligne 8 : **8 s.** *abbr. pro* soir.
 - Ligne 9 : **9 Cap.** *abbr. pro* Capitaine.
@@ -7642,7 +7647,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Soir, reparti à Albert sur 1 lorry avec
  9 | tout son kit. Valet, extrt sympathique.
 10 | Aussitôt thé pris, allé à pied Mission fr.
-11 | Toutencourt: maréchal logis m'a dit
+11 | Toutencourt : maréchal logis m'a dit
 12 | de rester au mess à Hérissart j'à son départ
 13 | puis me rendre au dépôt, Toutencourt.
 14 | Très agréable walk sur route très sèche. Temps
@@ -7656,7 +7661,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 22 | Fin soirée, tt pensif, tristesse, changement
 23 | de siton, & incertitude au sujet nouvelle affectation.
 24 | [ Après dîner, réglé compte mess avec Cap. W.
-25 | jusqu'à ce soir: 10 f. — ]
+25 | jusqu'à ce soir : 10 f. — ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -7794,7 +7799,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | à rêverie & étude —
  4 | Matinée, vrai printemps. Soleil très chaud.
  5 | Après-midi, averses & brume.
- 6 | [ A Hérissart, tommy m'a porté sacs: 50 c. ]
+ 6 | [ A Hérissart, tommy m'a porté sacs : 50 c. ]
  7 | Lundi 12 — Levé 7h m. — Très bonne nuit.
  8 | Achevé de m'installer nouvelle maison. Y serai bien.
  9 | Tout le jour, temps brumeux & par moments,
@@ -7805,8 +7810,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 14 | de jadis.
 15 | Tout l'après-midi, à Puchevillers, puis
 16 | Raincheval, calme.
-17 | [ Toutencourt: Exp. F. Canteen: 2 tins of
-18 | Calvert's Tooth Powder: 1 f. 75 c. ]
+17 | [ Toutencourt : Exp. F. Canteen : 2 tins of
+18 | Calvert's Tooth Powder : 1 f. 75 c. ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
@@ -7882,12 +7887,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  3 | Matin, courses à Mirvaux & Pierregot.
  4 | Early lunch terminé, venus à Albert, par
  5 | Contay-Warloy-Senlis. Revu avec intérêt ville
- 6 | d'Albert: maisons atteintes par obus, basilique
+ 6 | d'Albert : maisons atteintes par obus, basilique
  7 | etc. etc. & troupes australiennes cantonnées.
  8 | Au retour, long arrêt à Ribemont, pour
  9 | acheter fourrage. Heureux de revoir ce village
 10 | où laissé connaissances très sympathiques.
-11 | [ Blacksmith d'Hérissart: répar. à ferrure sac: 30 c. ]
+11 | [ Blacksmith d'Hérissart : répar. à ferrure sac : 30 c. ]
 12 | Sam. 17 —
 13 | Très belle journée. Soleil printanier.
 14 | Matinée, venu à pied & retour id. Toutencourt.
@@ -7897,7 +7902,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | Auto est aux workshops.
 19 | Troupes cavalerie indienne & anglaise
 20 | traversé village au trot — — —
-21 | [ A Toutencourt: c. ples: 1 f. + 15 c.
+21 | [ A Toutencourt : c. ples : 1 f. + 15 c.
 22 | et à soie ]
 ```
 
@@ -7941,8 +7946,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | collines —
 14 | Ces courses, matin & soir, m'ont fatigué 1 peu,
 15 | mais fait grand bien.
-16 | [ A Toutencourt: Solde: 82 f. —
-17 | Cartes ples: 2 f. — Washing: 80 c. ]
+16 | [ A Toutencourt : Solde : 82 f. —
+17 | Cartes ples : 2 f. — Washing : 80 c. ]
 18 | 19 Lundi. — Tout le jour, temps couvert, pluie
 19 | menace. Gros nuages. — Matinée, entière libre.
 20 | Après-midi, venu à pied avec off. à Puchevillers.
@@ -7960,8 +7965,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 9 : **9 workshops** *angl. in ms.*
 - Ligne 16 : **16** *in marg. cum unco* (comptes). **16 f.** *abbr. pro* franc(s).
 - Ligne 17 : **17 Cartes ples** *abbr. pro* Cartes postales. **17 f.** *abbr. pro* franc(s).
-- Ligne 20 : **20 off.** *abbr. pro* officier(s). **20 off** *abbr. pro* officier(s).
-- Ligne 23 : **23 off.** *abbr. pro* officier(s). **23 off** *abbr. pro* officier(s).
+- Ligne 20 : **20 off.** *abbr. pro* officier(s).
+- Ligne 23 : **23 off.** *abbr. pro* officier(s).
 - Ligne 24 : **24 div** *abbr. pro* division.
 - Ligne 26 : **26 renseigts** *abbr. pro* renseignements. **26 off.** *abbr. pro* officier(s).
 
@@ -8001,7 +8006,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 19 | Pierregot & Molliens-au-Bois.
 20 | Après-midi, Senlis & Albert. Très longuement
 21 | regardé à Albert maisons atteintes par obus.
-22 | Retour par gde route d'Amiens: à droite &
+22 | Retour par gde route d'Amiens : à droite &
 23 | à g., champs couverts de neige.
 ```
 
@@ -8130,13 +8135,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  1 | 29 Jeudi          — Mars 1917 —
  2 | Temps moins froid. Mais, presque tt le jour,
  3 | ondées torrentielles.
- 4 | Matinée, courses en auto: Puchevillers &
+ 4 | Matinée, courses en auto : Puchevillers &
  5 | Rubempré. Averses très fortes.
  6 | Après-midi entière, liberté.
  7 | Village paraît abandonné. Plus de troupes.
  8 | Rues désertes. Calme délicieux —
  9 | 30 Ven. —
-10 | Même température: giboulées, ondées, averses très fortes,
+10 | Même température : giboulées, ondées, averses très fortes,
 11 | un peu de neige, rafales violentes.
 12 | Routes, état lamentable, creusées de sillons
 13 | profonds par gros camions & lourds véhicules.
@@ -8144,7 +8149,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 15 | Après-midi, liberté complète.
 16 | Mervx ciel étoilé, croissant lune brillant,
 17 | nuages très rapides. État lyrique — —
-18 | 31 Sam. — En course, matin & soir: Rubempré,
+18 | 31 Sam. — En course, matin & soir : Rubempré,
 19 | par Toutencourt, Puchevillers, Pierregot et
 20 | Rainneville — Acheté paille.
 21 | Temps très mauvais. Surpris en route par
@@ -8179,9 +8184,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  2 | Temps mauvais & froid.
  3 | Averses torrentielles et même, soirée, neige à
  4 | gros flocons. Routes, état affreux.
- 5 | Matin & soir, courses en auto: Belle Église,
+ 5 | Matin & soir, courses en auto : Belle Église,
  6 | Pierregot, Rainneville.
- 7 | Gde fatigue nerveuse. [ Mess: dû au 31 mars: 27 f. 50 ]
+ 7 | Gde fatigue nerveuse. [ Mess : dû au 31 mars : 27 f. 50 ]
  8 | 2 Lundi. — Nuit froide. Au réveil, trouvé
  9 | sol durci. Fortement gelé.
 10 | Tout le jour, liberté complète. Resté matin
@@ -8190,8 +8195,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | neige à gros flocons.
 14 | Fin soirée, dégel et fonte neige. Rues
 15 | noyées boue liquide.
-16 | [ Washing: 50 c. — — Clous souliers: 60 c. ]
-17 | 3 Mardi. — Matin & soir, courses en auto:
+16 | [ Washing : 50 c. — — Clous souliers : 60 c. ]
+17 | 3 Mardi. — Matin & soir, courses en auto :
 18 | Toutencourt, (vu bien-aimé, notaire)
 19 | et Rubempré et Raincheval.
 20 | Surtout matin, en descendant côte de Hérissart
@@ -8228,10 +8233,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | acheter fourrage.
  6 | Après-midi, liberté entière. Écrit ds ma
  7 | chambre et lu jx au bureau.
- 8 | [ Hair cut: 30 c. — — Carnets de timbres: 4 f. — ]
+ 8 | [ Hair cut : 30 c. — — Carnets de timbres : 4 f. — ]
  9 | 5 Jeudi-Saint — Enfin, belle journée. Ciel bleu,
 10 | tout ensoleillé.
-11 | Après-midi, course en auto: Acheux, par
+11 | Après-midi, course en auto : Acheux, par
 12 | Contay-Warloy-Varennes. Ts ces villages, très calmes,
 13 | paraissent déserts, maintenant sans troupes.
 14 | Dîner terminé, promenade habituelle, à
@@ -8281,7 +8286,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | courtes, discontinues.
 14 | After dinner, devant poêle rouge, causé lgt
 15 | de l'Australie avec M. Wentworth et les proprios.
-16 | [ Solde: 78 f. 75 c. — ]
+16 | [ Solde : 78 f. 75 c. — ]
 17 | 7 Sam. — Temps gr. froid. Ciel resté
 18 | couvert, gros nuages. Vent violent.
 19 | Matinée, courses à Contay, Acheux &
@@ -8297,7 +8302,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - Ligne 2 : **2 breakfast** *angl. in ms.*
 - Ligne 4 : **4 H.Q.** *angl.* Headquarters.
 - Ligne 8 : **8 H.Q.** *angl.* Headquarters.
-- Ligne 10 : **10 off.** *abbr. pro* officier(s). **10 off** *abbr. pro* officier(s).
+- Ligne 10 : **10 off.** *abbr. pro* officier(s).
 - Ligne 14 : **14 lgt** *abbr. pro* longtemps. **14 dinner** *angl. in ms.*
 - Ligne 16 : **16** *in marg. cum unco* (comptes). **16 f.** *abbr. pro* franc(s).
 - Ligne 17 : **17 Sam.** *scil.* Samedi. **17 gr.** *abbr. pro* grand.
@@ -8330,7 +8335,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | Promené 1 peu rues village abst désertes & mortes.
 12 | 9 Lundi. — Temps très mauvais & froid vif.
 13 | Gdes averses, grêle et grésil. Rafales violentes.
-14 | Courses matin & soir: Pierregot & Belle-Église.
+14 | Courses matin & soir : Pierregot & Belle-Église.
 15 | Routes état lamentable. Auto rebondissait à cause
 16 | des trous route, commotions très fortes —
 17 | 10 Mardi. — Matinée orage, neige fine
@@ -8370,11 +8375,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | et abondamment. Routes, champs, toits, arbres, étaient
  7 | blancs.
  8 | Nuit, rafales très violentes.
- 9 | [ A Doullens: ceinture cuir: (10 f. 50 + 14 f. = 24 f. 50)
-10 | (canteen) Boîte d'allumettes:
-11 | 2 Cahiers géog. (Simon): 60 c. — Cartes ples: 60 c. + 10 c.
-12 | Savon: 1 f. — — 1 semelles liège: 60 c. — 1 fiole d'iode: 35 c.
-13 | 2 boîtes de chlorate potasse: 1 f. — 1 boîte pastilles menthe: 75 c. ]
+ 9 | [ A Doullens : ceinture cuir : (10 f. 50 + 14 f. = 24 f. 50)
+10 | (canteen) Boîte d'allumettes :
+11 | 2 Cahiers géog. (Simon) : 60 c. — Cartes ples : 60 c. + 10 c.
+12 | Savon : 1 f. — — 1 semelles liège : 60 c. — 1 fiole d'iode : 35 c.
+13 | 2 boîtes de chlorate potasse : 1 f. — 1 boîte pastilles menthe : 75 c. ]
 14 | 12 Jeudi. — Nuit gelé un peu. Neige durcie.
 15 | Dans la journée, dégel fondu neige. Routes
 16 | transformées en marécages boueux.
@@ -8424,7 +8429,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | Tout le jour, averses, temps froid.
  8 | Matin & soir, repos complet.
  9 | Resté plusieurs heures à office, à lire —
-10 | [ Washing: 60 c. — ]
+10 | [ Washing : 60 c. — ]
 11 | 16 Lundi.
 12 | Après-midi, course à Pierregot.
 13 | Tout le jour, et le soir surtout, pluies très fortes.
@@ -8468,7 +8473,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | 19 Jeudi.
  6 | Tout le jour, ciel couvert. Qq averses.
  7 | Temps très doux, presque tiède.
- 8 | Après-midi, courses en auto: Bresle, Lavieville,
+ 8 | Après-midi, courses en auto : Bresle, Lavieville,
  9 | Hénencourt, Warloy et Contay. Revu avec plaisir
 10 | les 3 1ers villages, où pas retourné depuis fin
 11 | juillet 1916. Aujourd'hui, vides et déserts.
@@ -8516,10 +8521,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  8 | Course en auto à Buire, Albert & Millencourt,
  9 | Contay. Cherché vainement paille à acheter.
 10 | Après-midi, liberté entière.
-11 | [ A Toutencourt: solde: 78 f. 75 c.
-12 | Fait porter d'Amiens par Mlle Denis:
-13 | A. Martin: Promenade ds Amiens: 1 f. 75
-14 | et gde carte, pour ma cathédrale: 2 f. 75 c. ]
+11 | [ A Toutencourt : solde : 78 f. 75 c.
+12 | Fait porter d'Amiens par Mlle Denis :
+13 | A. Martin : Promenade ds Amiens : 1 f. 75
+14 | et gde carte, pour ma cathédrale : 2 f. 75 c. ]
 15 | 22 Dimanche —
 16 | Enfin, très belle journée. Soleil,
 17 | mais vent très froid.
@@ -8528,7 +8533,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 20 | très intéressant.
 21 | Après-midi, liberté. Promenade agréable
 22 | sur la route d'Hérissart, anti-aircraft battery.
-23 | Très pittoresques points de vue: lointains bleuâtres,
+23 | Très pittoresques points de vue : lointains bleuâtres,
 24 | masses des bois rouillées —
 25 | Durant jour, et surtout tte la nuit, roulement
 26 | ininterrompu, violente canonnade vers le nord,
@@ -8655,14 +8660,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  5 | Off., retour deBournonville, m'a appris que
  6 | bientôt ns quitterons le village et ns irons à
  7 | Cambrai. Regretterai bcp les points de vue
- 8 | et panoramas circulaires des environs d'Hérissart:
+ 8 | et panoramas circulaires des environs d'Hérissart :
  9 | c'est la guerre.
 10 | Après lunch, très agréable promenade
 11 | en pleine campagne.
 12 | 29 Dim.
 13 | Journée très belle. C'est enfin le printemps!
 14 | Matin, partis en auto. En arrivant à Contay,
-15 | avarie: 2 ressorts cassés. Dû retourner à
+15 | avarie : 2 ressorts cassés. Dû retourner à
 16 | Hérissart, d'abord à pied, puis lift sur 1
 17 | water-cart.
 18 | Liberté matin et soir.
@@ -8708,15 +8713,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  6 | Millencourt & Lavieville.
  7 | Après-midi, en cie Lt Gilbert, allés en auto
  8 | à Puchevillers, Pierregot & Villers-Bocage.
- 9 | Route, entre chacun: lapin sauvage.
+ 9 | Route, entre chacun : lapin sauvage.
 10 | Ciel d'un bleu pur & céleste. Aux arbres,
 11 | bourgeons grossissent à vue d'œil.
 12 | Après tea-dinner, rentré chambre où me
 13 | suis mis à l'aise.
 14 | Fatigué, couché de bonne heure.
 15 | Nuit très belle, mervt éclairée, lune superbe.
-16 | [ Washing: 50 c.
-17 | A Toutencourt, miroir de poche: 50 c. ]
+16 | [ Washing : 50 c.
+17 | A Toutencourt, miroir de poche : 50 c. ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)

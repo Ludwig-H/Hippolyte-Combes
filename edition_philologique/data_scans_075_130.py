@@ -122,7 +122,7 @@ SCANS_075_130 = {
         ],
         "critique": (
             "\\textbf{l.~5 eu a lift s/ 1 lorry :} Bel exemple de code-switching syntaxique franco-anglais (\\textit{to have "
-            "a lift on a lorry}, se faire transporter sur un camion militaire). \\textbf{l.~11 revenu de = :} Signe "
+            "a lift on a lorry}, se faire transporter sur un camion militaire). \\textbf{l.~10--11 revenu / de = :} Signe "
             "tachygraphique d'égalité (\\texttt{=}) employé pour abréger la locution adverbiale \\textit{de même}."
         ),
         "historique": (

@@ -171,7 +171,9 @@ ABBREV_MAP = [
     (r"\bpdt\b", "pdt", "\\textit{abbr. pro} pendant"),
     (r"\bns\b", "ns", "\\textit{abbr. pro} nous"),
     (r"\bvs\b", "vs", "\\textit{abbr. pro} vous"),
-    (r"\blg\b", "lg", "\\textit{abbr. pro} long / longtemps"),
+    (r"\blg\s+moment\b", "lg", "\\textit{abbr. pro} long"),
+    (r"\blg\s+de\b", "lg", "\\textit{abbr. pro} le long"),
+    (r"\blg\b", "lg", "\\textit{abbr. pro} longtemps"),
     (r"\blgt\.?\b", "lgt", "\\textit{abbr. pro} longtemps"),
     (r"\blgts\b", "lgts", "\\textit{abbr. pro} longtemps"),
     (r"\blgs\b", "lgs", "\\textit{abbr. pro} longtemps"),
@@ -207,9 +209,10 @@ ABBREV_MAP = [
     (r"\bgde\b", "gde", "\\textit{abbr. pro} grande"),
     (r"\bGde\b", "Gde", "\\textit{abbr. pro} Grande"),
     (r"\bgds\b", "gds", "\\textit{abbr. pro} grands"),
-    (r"\bGds\b", "Gds", "\\textit{abbr. pro} Grands / Guards"),
+    (r"\bGds\b", "Gds", "\\textit{abbr. pro} Guards"),
     (r"\bgdes\b", "gdes", "\\textit{abbr. pro} grandes"),
     (r"\bgr\.\s+froid\b", "gr.", "\\textit{abbr. pro} grand"),
+    (r"\bOn\s+pt\b", "pt", "\\textit{abbr. pro} peut"),
     (r"\bpt\b", "pt", "\\textit{abbr. pro} petit"),
     (r"\bPt\b", "Pt", "\\textit{abbr. pro} Petit"),
     (r"\bpte\b", "pte", "\\textit{abbr. pro} petite"),
@@ -287,8 +290,10 @@ ABBREV_MAP = [
     (r"\bdéj\.?\b", "déj", "\\textit{abbr. pro} déjeuné / déjeuner"),
     (r"\bdéjeun\.?\b", "déjeun.", "\\textit{abbr. pro} déjeuné / déjeuner"),
     (r"\bpromen\.", "promen.", "\\textit{abbr. pro} promener / promenade"),
-    (r"\bét\.", "ét.", "\\textit{abbr. pro} étage / était"),
-    (r"\bch\.", "ch.", "\\textit{abbr. pro} chambre / chaude"),
+    (r"\bét\.", "ét.", "\\textit{abbr. pro} étage"),
+    (r"\brez-de-ch\.", "rez-de-ch.", "\\textit{abbr. pro} rez-de-chaussée"),
+    (r"(?<![-A-Za-z])\bch\.", "ch.", "\\textit{abbr. pro} chez"),
+    (r"\bCh\.\s+ds\s+ma\s+chambre\b", "Ch.", "\\textit{abbr. pro} Chaleur"),
     (r"\bCh\.\s+Pfister\b", "Ch.", "\\textit{abbr. pro} Chez"),
     (r"\bBvd\b", "Bvd", "\\textit{abbr. pro} Boulevard"),
     (r"\bBd\b", "Bd", "\\textit{abbr. pro} Boulevard"),
@@ -329,7 +334,7 @@ ABBREV_MAP = [
     (r"\bdiv\b", "div", "\\textit{abbr. pro} division"),
     (r"\boff\.", "off.", "\\textit{abbr. pro} officier(s)"),
     (r"\boffs\b", "offs", "\\textit{abbr. pro} officiers"),
-    (r"\boff\b", "off", "\\textit{abbr. pro} officier(s)"),
+    (r"\boff\b(?!\.)", "off", "\\textit{abbr. pro} officier(s)"),
     (r"\bLieutt\b", "Lieutt", "\\textit{abbr. pro} Lieutenant"),
     (r"\bLt\b", "Lt", "\\textit{abbr. pro} Lieutenant"),
     (r"\bCap\.\s*W\.", "Cap. W.", "\\textit{scil.} Capitaine Williams"),
@@ -337,7 +342,7 @@ ABBREV_MAP = [
     (r"\bCap\.", "Cap.", "\\textit{abbr. pro} Capitaine"),
     (r"\bCapt\.", "Capt.", "\\textit{angl.} Captain"),
     (r"\bCol\.", "Col.", "\\textit{abbr. pro} Colonel"),
-    (r"\bCoy\b", "Coy", "\\textit{angl.} Company"),
+    (r"\bCoy\b(?!\.)", "Coy", "\\textit{angl.} Company"),
     (r"\bCie\b", "Cie", "\\textit{abbr. pro} Compagnie"),
     (r"\bcie\b", "cie", "\\textit{abbr. pro} compagnie"),
     (r"\bM\.T\.", "M.T.", "\\textit{angl.} Mechanical Transport"),
@@ -371,6 +376,11 @@ ABBREV_MAP = [
     (r"\b\d+\s*c\.", "c.", "\\textit{abbr. pro} centimes"),
     (r"\b\d+\s*[hH]\s*(?:\d+\s*|1/2\s*)?m\.?\b", "m.", "\\textit{abbr. pro} matin"),
     (r"\b\d+\s*[hH]\s*(?:\d+\s*|1/2\s*)?s\.?\b", "s.", "\\textit{abbr. pro} soir"),
+    (r"\(\s*bois\s+chateau\b", "(bois", "\\textit{parenthesis non clausa in ms.}"),
+    (r"\bOct\.\s*/\s*16\b", "Oct. /16", "\\textit{abbr. pro} Octobre 1916"),
+    (r"\bobservon\b", "observon", "\\textit{abbr. pro} observation"),
+    (r"(?<=\bde\s)=", "de =", "\\textit{signum aequalitatis pro} de même"),
+    (r"\bpeu à peu chassé\b", "chassé", "\\textit{scil.} ont chassé (ellipse de l'auxiliaire)"),
 ]
 
 ANGLICISM_WORDS = [
@@ -418,6 +428,10 @@ EDITORIAL_PLACEHOLDERS = [
 DAYS_SET = {"Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"}
 
 
+def _norm_lemma_key(lem):
+    return re.sub(r"[\s.]", "", lem).lower()
+
+
 def clean_line_and_extract_note(raw_line, line_no):
     """
     Cleans markdown/editorial artifacts from a transcription line so the main text
@@ -425,6 +439,7 @@ def clean_line_and_extract_note(raw_line, line_no):
     Preserves all manuscript accounting brackets `[ ... ]` intact.
     """
     notes = []
+    seen_lemmas = set()
     line = strip_html_keep_del(raw_line).strip()
 
     if line == "[Bas de page très pâle : ... Consommations : 50c]":
@@ -434,8 +449,9 @@ def clean_line_and_extract_note(raw_line, line_no):
     if "[Suite immédiate du folio précédent]" in line:
         line = line.replace("[Suite immédiate du folio précédent]", "").strip()
 
-    # Convert ~~...~~ to ⟦...⟧
+    # Convert ~~...~~ to ⟦...⟧ and standalone ~ to —
     line = re.sub(r"~~([^~]+)~~", lambda m: f"⟦{m.group(1).strip()}⟧", line)
+    line = line.replace("~", "—")
 
     # Record every `⟦...⟧` deletion once in marginal apparatus
     for m in re.finditer(r"⟦([^⟧]+)⟧", line):
@@ -445,8 +461,25 @@ def clean_line_and_extract_note(raw_line, line_no):
     # Strip footnote numbers like [1], [2]
     line = re.sub(r"\s*\[\d+\]", "", line)
 
-    # Normalize spaces before punctuation before extracting inline expansions
-    line = re.sub(r"\s+([,.;:!?])", r"\1", line)
+    # Restore line-initial `[plus]` (representing manuscript `+`)
+    if line.startswith("[plus] "):
+        line = "+ " + line[len("[plus] "):]
+        notes.append(f"\\textbf{{{line_no} +}} \\textit{{scil.}} plus.")
+        seen_lemmas.add("+")
+
+    # Handle Scan #011 L12 conjectural glosses after `gds et ptts`
+    if "[tous ?] [lui répondent ?]" in line:
+        line = line.replace("[tous ?] [lui répondent ?]", "").strip()
+
+    # Normalize spaces before `,.;!?` and after elision apostrophes before extracting inline expansions
+    line = re.sub(r"\s+([,.;!?])", r"\1", line)
+    line = re.sub(
+        r"\b([dlmnstjcDLMNSTJC]|[qQ]u|[jJ]usqu|[aA]uj)[’']\s+(?=[A-Za-zÀ-ÖØ-öø-ÿ])",
+        r"\1'",
+        line,
+    )
+    line = re.sub(r"\(\s+", "(", line)
+    line = re.sub(r"\s+\)", ")", line)
 
     # Apply inline suffix fixes (e.g. off.[iciers], C[ie])
     for pat, repl, lemma, exp in INLINE_SUFFIX_FIXES:
@@ -454,12 +487,14 @@ def clean_line_and_extract_note(raw_line, line_no):
             line = line.replace(pat, repl)
             if lemma and exp:
                 notes.append(f"\\textbf{{{line_no} {lemma}}} \\textit{{scil.}} {exp}.")
+                seen_lemmas.add(_norm_lemma_key(lemma))
 
     # Check for uncertain reading [?] or [...]
     for m in re.finditer(r"([A-Za-zÀ-ÖØ-öø-ÿ0-9'/.-]+)\s*\[\?\]", line):
         w = m.group(1).strip(".,;:()")
         if w:
             notes.append(f"\\textbf{{{line_no} {w}}} \\textit{{lect. incert. in ms.}}")
+            seen_lemmas.add(_norm_lemma_key(w))
     if "[?]" in line:
         if not any("lect. incert." in n for n in notes):
             notes.append(f"\\textbf{{{line_no}}} \\textit{{lect. incert. in ms.}}")
@@ -476,9 +511,9 @@ def clean_line_and_extract_note(raw_line, line_no):
     # Extract inline editorial expansions `[expansion]` ONLY when the bracket is NOT an accounting bracket
     # (editorial expansions never start with a space after `[` and never contain `:` or `=`)
     for m in re.finditer(r"(\S+)\s+\[([^\]\s:=\"][^\]:=\"]*)\]", line):
-        word_before = m.group(1)
+        word_before = m.group(1).rstrip(":,;")
         expansion = m.group(2).strip()
-        if expansion.isdigit():
+        if not word_before or expansion.isdigit():
             continue
         if expansion in DAYS_SET:
             prefix = line[:m.start()] + word_before
@@ -493,10 +528,25 @@ def clean_line_and_extract_note(raw_line, line_no):
             expansion = "dans"
         elif word_before == "ph" and "photos" in expansion.lower():
             word_before = "ctes ph."
+        elif word_before == "à" and expansion.lower() == "jusqu'à":
+            prefix = line[:m.start()] + word_before
+            jm = re.search(r"\b([jJ]\.?\s*à)$", prefix)
+            if jm:
+                word_before = jm.group(1)
+        elif word_before == "fait" and expansion.lower() == "tout à fait":
+            word_before = "tt"
+            expansion = "tout"
+        elif word_before == "Mag" and expansion == "Bon Marché":
+            word_before = "B. Mag"
+        norm_wb = _norm_lemma_key(word_before)
+        if norm_wb in seen_lemmas:
+            continue
         if expansion.lower() == "sic":
             notes.append(f"\\textbf{{{line_no} {word_before}}} \\textit{{sic in ms.}}")
+            seen_lemmas.add(norm_wb)
         elif word_before.rstrip(".") != expansion.rstrip("."):
             notes.append(f"\\textbf{{{line_no} {word_before}}} \\textit{{scil.}} {expansion}.")
+            seen_lemmas.add(norm_wb)
 
     # Strip only non-accounting editorial brackets `[expansion]`
     line = re.sub(r"\s*\[([^\]\s:=\"][^\]:=\"]*)\]", "", line)
@@ -505,22 +555,27 @@ def clean_line_and_extract_note(raw_line, line_no):
     if len(notes) < 2:
         for pat, lemma, expl in ABBREV_MAP:
             if re.search(pat, line):
-                if not any(f" {lemma}}}" in n for n in notes):
+                norm_lem = _norm_lemma_key(lemma)
+                if norm_lem not in seen_lemmas:
                     notes.append(f"\\textbf{{{line_no} {lemma}}} {expl}.")
+                    seen_lemmas.add(norm_lem)
                     if len(notes) >= 2:
                         break
 
     # Check conjunction `y` (et) when between two French/English words and not pronoun `y`
-    if len(notes) < 2 and re.search(r"(?<![lmnstLMNST]')\by\b(?!\s+(?:a|avait|avaient|avoir|suis|es|est|sommes|êtes|sont|étais|était|étaient|ai|as|avons|avez|ont|aurai|aura|aller|allé|allés|venir|venu|venus|rester|resté|passer|passé|trouver|trouvé|faire|fait|couche|coucher|loger|loge|plais|plaire|fui|fus|prié|soupé|parvenir|entrer|entré|retourner|retourné|revenir|revenu|prendre|pris|descendre|monter|mettre|mis|voir|vu|penser|pensé|être|été|habiter|demeurer))", line):
-        if not any(" y}" in n for n in notes):
+    if len(notes) < 2 and re.search(r"(?<![lmnstLMNST'’])\by\b(?!\s+(?:a|avait|avaient|avoir|suis|es|est|sommes|êtes|sont|étais|était|étaient|ai|as|avons|avez|ont|aurai|aura|aller|allé|allés|venir|venu|venus|rester|resté|passer|passé|trouver|trouvé|faire|fait|couche|coucher|loger|loge|plais|plaire|fui|fus|prié|soupé|parvenir|entrer|entré|retourner|retourné|revenir|revenu|prendre|pris|descendre|monter|mettre|mis|voir|vu|penser|pensé|être|été|habiter|demeurer))", line):
+        if "y" not in seen_lemmas:
             notes.append(f"\\textbf{{{line_no} y}} \\textit{{scil.}} et.")
+            seen_lemmas.add("y")
 
     # Check anglicisms
     if len(notes) < 2:
         for ang in ANGLICISM_WORDS:
             if re.search(r"\b" + re.escape(ang) + r"\b", line):
-                if not any(f" {ang}}}" in n for n in notes):
+                norm_ang = _norm_lemma_key(ang)
+                if norm_ang not in seen_lemmas:
                     notes.append(f"\\textbf{{{line_no} {ang}}} \\textit{{angl. in ms.}}")
+                    seen_lemmas.add(norm_ang)
                     break
 
     # Normalize tabs/multiple spaces (used for right-aligned month/year headers)
@@ -529,8 +584,8 @@ def clean_line_and_extract_note(raw_line, line_no):
         if len(parts) == 2:
             line = f"{parts[0].strip()} \\hfill {parts[1].strip()}"
 
-    # Collapse redundant spaces around punctuation introduced by HTML span removal
-    line = re.sub(r"\s+([,.;:!?])", r"\1", line)
+    # Collapse redundant spaces around `,.;!?` introduced by HTML span removal
+    line = re.sub(r"\s+([,.;!?])", r"\1", line)
     line = re.sub(r"\s{2,}", " ", line).strip()
 
     dedup_notes = list(dict.fromkeys(notes))
@@ -635,9 +690,9 @@ def build_all_186_records():
 
         if scan_idx == 1:
             marginal_notes = {
-                2: "\\textbf{2 Livre - Journal} \\textit{titulus in pittacio octogono.}",
-                5: "\\textbf{5 25 juillet 1916} \\textit{terminus a quo.}",
-                6: "\\textbf{6 30 avril 1917} \\textit{terminus ad quem.}",
+                1: "\\textbf{1 Livre - Journal} \\textit{titulus in pittacio octogono.}",
+                3: "\\textbf{3 25 juillet 1916} \\textit{terminus a quo.}",
+                4: "\\textbf{4 30 avril 1917} \\textit{terminus ad quem.}",
             }
 
         records.append({

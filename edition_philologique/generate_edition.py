@@ -323,16 +323,23 @@ def build_spread_latex(rec):
     crit_str = sanitize_latex_fragment(rec["critique"])
     hist_str = sanitize_latex_fragment(rec["historique"])
 
-    # Merge adjacent marginal notes if line i has a long note (>45 chars) and line i+1 also has a note,
-    # so that \smash{\parbox[t]...} on line i never overlaps vertically with line i+1.
+    # Merge adjacent marginal notes only when line k's visible text wraps (>40 visible chars)
+    # and line k+1 (or k+2 if >80 visible chars) also has a note, preventing vertical overlap.
+    def _vis_len(s):
+        s = re.sub(r"\\(?:textbf|textit|texttt|textsc|textsuperscript)\{([^}]*)\}", r"\1", s)
+        s = s.replace("$[\\![$", "[[").replace("$]\\!]$", "]]")
+        s = re.sub(r"\\[a-zA-Z]+\s*", "", s)
+        return len(s.replace("{", "").replace("}", "").replace("$", ""))
+
     mnotes = dict(raw_mnotes)
-    sorted_keys = sorted(mnotes.keys())
-    for k in sorted_keys:
+    for k in sorted(list(mnotes.keys())):
         if k not in mnotes:
             continue
-        if (k + 1) in mnotes and len(mnotes[k]) > 42:
-            mnotes[k] = mnotes[k] + " — " + mnotes[k + 1]
-            del mnotes[k + 1]
+        span = 1
+        while _vis_len(mnotes[k]) > 40 * span and (k + span) in mnotes:
+            mnotes[k] = mnotes[k] + " — " + mnotes[k + span]
+            del mnotes[k + span]
+            span += 1
 
     n_lines = len(lines)
     if n_lines <= 19:
@@ -374,13 +381,13 @@ def build_spread_latex(rec):
 \\noindent\\colorbox{{headerbg}}{{%
   \\parbox{{\\dimexpr\\textwidth-2\\fboxsep\\relax}}{{%
     \\vspace{{0.8mm}}%
-    \\textbf{{\\small SCAN \\#{scan_num:03d} — {folio.upper()}}} \\hfill {{\\footnotesize\\texttt{{{fname_esc}}}}}\\\\[0.4mm]
-    {{\\footnotesize\\textbf{{Intitulé :}} {title} \\hfill \\textbf{{Date :}} {date_str} \\quad | \\quad \\textbf{{Lieu :}} {lieu_str}}}%
+    \\noindent\\textbf{{\\small SCAN \\#{scan_num:03d} — {folio.upper()}}} \\hfill {{\\footnotesize\\texttt{{{fname_esc}}}}}\\par\\vspace{{0.4mm}}
+    \\noindent{{\\footnotesize\\textbf{{Intitulé :}} {title} \\hfill \\textbf{{Date :}} {date_str} \\quad | \\quad \\textbf{{Lieu :}} {lieu_str}}}%
     \\vspace{{0.8mm}}%
   }}%
-}}\\\\[1.2mm]
-\\noindent{{\\scriptsize\\textsc{{I. Transcription diplomatique ligne à ligne}} \\hfill \\textsc{{Apparat critique marginal (aligné sur la ligne)}}}}\\\\[0.4mm]
-\\noindent\\rule{{\\textwidth}}{{0.4pt}}\\\\[0.8mm]
+}}\\par\\vspace{{1.2mm}}
+\\noindent{{\\scriptsize\\textsc{{I. Transcription diplomatique ligne à ligne}} \\hfill \\textsc{{Apparat critique marginal (aligné sur la ligne)}}}}\\par\\vspace{{0.4mm}}
+\\noindent\\rule{{\\textwidth}}{{0.4pt}}\\par\\vspace{{0.8mm}}
 % --- Corps de la transcription diplomatique et apparat marginal en prolongement ---
 {{\\renewcommand{{\\arraystretch}}{{{row_stretch}}}%
 \\noindent\\hspace*{{4mm}}\\begin{{tabular}}{{@{{}}p{{110mm}}@{{\\hspace{{5mm}}}}p{{54mm}}@{{}}}}
@@ -388,12 +395,12 @@ def build_spread_latex(rec):
 \\end{{tabular}}}}%
 \\par\\vspace*{{\\fill}}
 % --- Double commentaire de bas de page (1. Critique interne ; 2. Historique) ---
-\\noindent\\rule{{\\textwidth}}{{0.6pt}}\\\\[0.8mm]
+\\noindent\\rule{{\\textwidth}}{{0.6pt}}\\par\\vspace{{0.8mm}}
 \\noindent\\colorbox{{commbg}}{{%
   \\parbox{{\\dimexpr\\textwidth-2\\fboxsep\\relax}}{{%
     \\vspace{{0.8mm}}%
     \\scriptsize\\setlength{{\\baselineskip}}{{8.4pt}}%
-    \\noindent\\textbf{{\\textsc{{1. Commentaire critique (interne à l'histoire du carnet) :}}}} {crit_str}\\\\[1mm]
+    \\noindent\\textbf{{\\textsc{{1. Commentaire critique (interne à l'histoire du carnet) :}}}} {crit_str}\\par\\vspace{{1mm}}
     \\noindent\\textbf{{\\textsc{{2. Commentaire historique :}}}} {hist_str}%
     \\vspace{{0.8mm}}%
   }}%
@@ -403,11 +410,11 @@ def build_spread_latex(rec):
 \\noindent\\colorbox{{headerbg}}{{%
   \\parbox{{\\dimexpr\\textwidth-2\\fboxsep\\relax}}{{%
     \\vspace{{0.8mm}}%
-    \\textbf{{\\small FAC-SIMILÉ EN VIS-À-VIS — {folio.upper()} (SCAN \\#{scan_num:03d})}} \\hfill {{\\footnotesize\\texttt{{{fname_esc}}}}}\\\\[0.4mm]
-    {{\\footnotesize\\textit{{Livre-Journal d'Hippolyte Combes}} — {date_str} ({lieu_str})}}%
+    \\noindent\\textbf{{\\small FAC-SIMILÉ EN VIS-À-VIS — {folio.upper()} (SCAN \\#{scan_num:03d})}} \\hfill {{\\footnotesize\\texttt{{{fname_esc}}}}}\\par\\vspace{{0.4mm}}
+    \\noindent{{\\footnotesize\\textit{{Livre-Journal d'Hippolyte Combes}} — {date_str} ({lieu_str})}}%
     \\vspace{{0.8mm}}%
   }}%
-}}\\\\[1.5mm]
+}}\\par\\vspace{{1.5mm}}
 \\par\\vspace*{{\\fill}}
 \\begin{{center}}
   \\setlength{{\\fboxsep}}{{1.5mm}}%
@@ -417,7 +424,7 @@ def build_spread_latex(rec):
   }}
 \\end{{center}}
 \\par\\vspace*{{\\fill}}
-\\noindent\\rule{{\\textwidth}}{{0.4pt}}\\\\[0.6mm]
+\\noindent\\rule{{\\textwidth}}{{0.4pt}}\\par\\vspace{{0.6mm}}
 \\noindent{{\\scriptsize\\color{{darkgray}}\\textbf{{Source :}} Archives familiales Combes — Cliché numérique \\texttt{{{fname_esc}}} (Scan \\#{scan_num:03d}/186, {folio}). Version haute définition non compressée disponible dans \\texttt{{scans\\_haute\\_qualite/{fname_esc}}} ; version compressée dans \\texttt{{scans\\_compresses/{fname_esc}}}.}}
 \\newpage
 """
@@ -693,17 +700,17 @@ Inspirée des principes de l'édition philologique classique, la présente édit
 \\chapter{{{ch_title}}}
 \\markboth{{Chapitre {ch_num} — {ch_title}}}{{Scans \\#{s_start:03d} à \\#{s_end:03d}}}
 
-\\noindent{{\\normalsize\\textit{{{ch_sub}}}}}\\\\[2mm]
+\\noindent{{\\normalsize\\textit{{{ch_sub}}}}}\\par\\vspace{{2mm}}
 \\noindent\\colorbox{{headerbg}}{{%
   \\parbox{{\\dimexpr\\textwidth-2\\fboxsep\\relax}}{{%
     \\vspace{{1mm}}%
-    \\noindent\\textbf{{\\small\\textsc{{Résumé analytique du Chapitre {ch_num} (Scans \\#{s_start:03d} à \\#{s_end:03d}) :}}}}\\\\[0.8mm]
-    {{\\footnotesize {ch_sum}}}%
+    \\noindent\\textbf{{\\small\\textsc{{Résumé analytique du Chapitre {ch_num} (Scans \\#{s_start:03d} à \\#{s_end:03d}) :}}}}\\par\\vspace{{0.8mm}}
+    \\noindent{{\\footnotesize {ch_sum}}}%
     \\vspace{{1mm}}%
   }}%
-}}\\\\[2.5mm]
+}}\\par\\vspace{{2.5mm}}
 
-\\noindent\\textbf{{\\normalsize\\textcolor{{bordeaux}}{{Introduction historique et philologique}}}}\\\\[1mm]
+\\noindent\\textbf{{\\normalsize\\textcolor{{bordeaux}}{{Introduction historique et philologique}}}}\\par\\vspace{{1mm}}
 {{\\small {ch_intro}}}
 
 \\vfill
@@ -762,9 +769,9 @@ Mon Capitaine,\\
 Vous vous êtes peut-être demandé ce qu'a \textsuperscript{bien} pu devenir l'un de vos collègues \textsuperscript{de l'enseignement}, ancien camarade à la Faculté de Toulouse, et retrouvé, simple interprète à St-Omer, l'été dernier. Vous en souvient-il ?\\
 À cette époque, je fus attaché à la 18\textsuperscript{e} division qui se formait dans les parages de Flesselles. Je fus choisi $[\![$comme$]\!]$ \textsuperscript{pour être} secrétaire au $[\![$membre$]\!]$ bureau de la mission française et vous ne fûtes pas étranger à ma nomination. Au bout de quinze jours, je me fatiguai de cette vie trop sédentaire et monotone et sur ma demande réitérée, je reçus une autre affectation. \textit{[verso]}\\
 Depuis le mois d'août, je suis avec une compagnie d'\textit{A.S.C.} Mes officiers anglais sont de parfaits \textit{gentlemen}. Je n'ai \textsuperscript{aussi} qu'à me louer de l'officier interprète de la 18\textsuperscript{e} division [M. Pizzi est d'une haute intelligence et d'une distinction rare].\\
-Vous doutez-vous, \textsuperscript{mon Capitaine}, que les universitaires, \textsuperscript{pourtant en majorité}, sont assez mal vus de quelques interprètes ? Ainsi le sergent Schumacher, qui m'a remplacé, \textsuperscript{en mon absence}, comme secrétaire au bureau de la mission, a osé dire, sans rire et devant témoins, que les professeurs sont de « rudes ânes » (\textit{sic}). Vous pensez bien que cela ne nous touche guère. Nous qui avons donné des preuves de notre intelligence et de notre culture générale, nous pouvons mépriser les boutades d'un autodidacte jaloux [N'est-il pas contremaître d'usine métallurgique \textsuperscript{et d'instruction primaire} ?].\\
+Vous doutez-vous, \textsuperscript{mon Capitaine}, que les $[\![$professeurs$]\!]$ \textsuperscript{universitaires, pourtant en majorité,} sont assez mal vus de quelques interprètes ? Ainsi le sergent Schumacher, qui m'a remplacé, \textsuperscript{en mon absence}, comme secrétaire au bureau de la mission, a osé dire, sans rire et devant témoins, que les professeurs sont de « rudes ânes » (\textit{sic}). Vous pensez bien que cela ne nous touche guère. Nous qui avons donné des preuves de notre intelligence et de notre culture générale, nous pouvons mépriser les boutades d'un autodidacte jaloux [N'est-il pas $[\![$un ancien$]\!]$ contremaître d'usine métallurgique \textsuperscript{et d'instruction primaire} ?].\\
 Y aura-t-il bientôt un concours pour être nommé stagiaire ?\\[1mm]
-\textit{[En marge gauche verticale :]} Veuillez agréer, mon Capitaine, l'expression de mes meilleurs sentiments et me croire votre bien dévoué et reconnaissant collègue — \textbf{H. C.} — »
+\textit{[En marge gauche verticale :]} Veuillez agréer, mon Capitaine, l'expression de mes meilleurs sentiments et me croire votre bien dévoué et reconnaissant collègue — (signé) \textbf{H. C.} — »
 \end{quote}
 
 \noindent\textbf{Commentaire :} Ce brouillon autographe du 21 février 1916 retrace avec une précision capitale le parcours d'Hippolyte Combes entre l'été 1915 et le début de 1916 : passage à Saint-Omer, rattachement à la 18\textsuperscript{e} Division britannique lors de sa concentration autour de Flesselles (Somme), bref secrétariat de quinze jours au bureau de la Mission française où le remplace le sergent Schumacher (qu'il retrouvera le 20 août 1916 chez M. Barbry au Scan \#023), puis affectation dès août 1915 à une compagnie d'\textit{Army Service Corps} de la 18\textsuperscript{e} Division sous les ordres de l'officier interprète Pizzi (mentionné aux Scans \#085, \#090 et \#092).
@@ -803,7 +810,7 @@ Ah ! quand enfin, démuselés, nous pourrons gueuler tout ce que nous avons vu, 
 À cause de la censure, je dois me taire. \textit{[p.~3]}\\
 À Toulouse, j'ai retrouvé des camarades en permission — nous avons causé, j'ai constaté avec plaisir qu'ils pensent absolument comme moi. Mon ami, le docteur de B—, dont la mère m'est tout dévouée, disait : « Jamais un officier n'entrera dans mon salon, après la guerre !.. » Sa mère et sa jeune femme, après l'avoir écouté, l'approuvaient en pensées, et je faisais chorus.\\
 En tout, nous en avons tous plus qu'assez de cette vie qui se prolonge. Pour ma part, j'aimerais autant être sous terre que de rester encore une année en esclavage. On est aigri, découragé, \textit{[p.~4]} on ne prend goût à rien. Toutes ces abstractions : gloire, honneur etc. quel tas de blagues ! Vivre avant tout. Dans la mort, il n'y a plus d'alliés ni d'ennemis... Être gouverné par 1 empereur, un roi, ou n'avoir qu'un vulgaire président, c'est kif-kif — on paie les impôts — et puis qu'on nous f. la paix, tonnerre de — diable !\\
-Je finis bien. Ne m'écris qu'une fois par mois, c'est plus qu'assez. Si tu savais avec quelle indifférence je parcours les pages.\\
+Je vais bien. Ne m'écris qu'une fois par mois, c'est plus qu'assez. Si tu savais avec quelle indifférence je parcours tes pages.\\
 Je me fous de tout et de tous — Je ne demande que la liberté ou la mort.\\[1mm]
 \textit{[En marge gauche verticale :]} Bien à toi, quand même — \textbf{Hippolyte} »
 \end{quote}
@@ -841,23 +848,41 @@ Beside which, human love is poor and vain.\\[1mm]
 \normalfont\small\hspace*{0pt}\hfill — \textbf{Beatrice Chilcott}, \textit{Wesley Band of Hope}.
 \end{quote}
 
-\section{Document 5 : Correspondance de l'armistice à Marguerite Calmels-Combes (Saint-Pol, 12 novembre 1918 ; Paris, 25–26 novembre 1918 ; Les Andelys, 28 novembre – 2 décembre 1918)}
+\section{Document 5 : Correspondance intégrale de l'armistice à Marguerite Calmels-Combes (Saint-Pol, 12 novembre 1918 ; Paris, 25–26 novembre 1918 ; Les Andelys, 28 novembre – 2 décembre 1918)}
 {\raggedright\noindent\textbf{Sources :} dossier \texttt{archives\_\allowbreak militaires/\allowbreak lettres\_\allowbreak de\_\allowbreak guerre/}, fichiers \texttt{lettre à bonne maman 25 novembre 1918.jpg}, \texttt{lettre du 26 novembre 1918.pdf}, \texttt{lettre 28 Novembre 1918.pdf} et \texttt{carte 2 decembre 1918.pdf}.\par}
 
 \begin{enumerate}
-  \item \textbf{Carte de Saint-Pol-sur-Ternoise au lendemain de l'Armistice (mardi 12 novembre 1918) :} Adressée à \textit{« Madame Combes, 10 rue Alfred Guibert, Millau (Aveyron) »} : \textit{« Saint-Pol, mardi 12 novbre 1918. Affectueuses pensées. Bons baisers. Hippolyte. »}
-  \item \textbf{Première lettre de Paris, Bibliothèque Sainte-Geneviève (lundi 25 novembre 1918, 11 h matin) :}
+  \item \textbf{Carte de Saint-Pol-sur-Ternoise au lendemain de l'Armistice (mardi 12 novembre 1918) :} Adressée à \textit{« Madame Combes, 10 rue Alfred Guibert, Millau (Aveyron) »} (cachet postal : \textit{Trésor et Postes 115, 13-11-18} ; franchise militaire : \textit{Field Service Post Card}) :
   \begin{quote}\footnotesize
-  « Paris, lundi 25 novembre 1918, 11 h. matin. Ma Chérie, Ce matin à 6 h, enfin, je me suis retrouvé dans cette ville que je préfère à toutes les autres capitales du monde. Je ne repartirai que demain, mardi. Je n'ai pas voulu descendre chez les cousines, à Neuilly, afin de ne point les déranger et aussi pour me sentir plus libre... Je n'ai pu me loger faute de place dans mon hôtel de prédilection, \textit{University Hôtel}, 160 rue St-Jacques, tout près de l'École de Droit. J'ai pris une jolie chambre à l'\textit{Hôtel du Panthéon}, en face, sur le devant... Je t'écris dans la grande salle de la Bibliothèque Ste-Geneviève... Ma nouvelle affectation, à défaut d'avantages plus appréciables, aura du moins celui de m'avoir bien rapproché de Paris, 102 kilomètres environ. De jeudi au dimanche, sans doute, j'obtiendrai facilement des permissions de 24 heures. Ainsi je pourrai me rendre soit à Rouen, soit dans la capitale et aussi — et surtout — à Nogent-le-Rotrou. J'éprouverai une satisfaction profonde quand je reverrai mon chez moi du Perche, mon gentil nid de 4 ans. La maison que j'habite à Nogent — 17, rue Saint-Hilaire — est autrement jolie et pittoresque que celle des bords de la Dourbie ! Elle a un petit air flamand qui lui donne une certaine originalité... Ne t'alarme point au sujet de notre fillette. Elle prendra le dessus et grossira à l'aise à partir du 3\textsuperscript{ème} mois. Mes plus doux baisers. Ton petitou qui t'aime si tendrement. \textbf{Hippolyte}. »
+  « Saint-Pol, mardi 12 nov\textsuperscript{bre} 1918. Affectueuses pensées. Bons baisers. \textbf{Hippolyte}. »
   \end{quote}
-  \item \textbf{Deuxième lettre de Paris, Bibliothèque Sainte-Geneviève (mardi 26 novembre 1918, 11 h matin) :}
+  \item \textbf{Première lettre-carte de Paris, Bibliothèque Sainte-Geneviève (lundi 25 novembre 1918, 11 h matin) :}
   \begin{quote}\footnotesize
-  « Paris, mardi 26 novembre 1918, 11 h. matin. Ma Margueritou tant aimée, Me voici de nouveau installé dans la grande salle de la Bibliothèque Sainte-Geneviève. Comme je m'y plais ! Tant de souvenirs me la rendent chère ! Devant moi, sur la table, j'ai des revues françaises et un volume de Maeterlinck... Ce soir, je continuerai et terminerai mon voyage. Je prendrai l'express du Havre, à 10 h 15, gare St-Lazare... Hier, j'ai fait une très longue visite aux cousines Faure... Je te résumerai en qq mots ce qu'elle m'a dit à propos de notre mignonne Valentine. Tu ne dois point t'inquiéter, ni t'énerver ; avec le temps, l'enfant prendra le dessus et deviendra magnifique, comme le petit Bonhomme, que tu as vu, paraît-il, à Paris, chez les locataires du rez-de-chaussée, 16, rue d'Armenonville... Sois calme, patiente et surtout écoute bien excellente mère : apprends à dormir. Le sommeil t'est aussi nécessaire que le lait à la fillette. »
+  « \textit{[Recto :]} Paris, lundi 25 novembre 1918, 11 h. matin.\\
+  Ma Chérie, Ce matin à 6 h, enfin, je me suis retrouvé dans cette ville que je préfère à toutes les autres capitales du monde. Je ne repartirai que demain, mardi.\\
+  Je n'ai pas voulu descendre chez les cousines, à Neuilly, afin de ne point les déranger et aussi pour me sentir plus libre. J'irai les voir cet après-midi, vers les 2 heures. J'aurai sûrement une agréable surprise : le cousin Marcel a dû arriver hier d'Allemagne et la joie la plus vive régnera dans la famille.\\
+  Je n'ai pu me loger \textsuperscript{faute de place} dans mon hôtel de prédilection, \textit{University Hôtel}, 160 rue St-Jacques, tout près de l'École de Droit. J'ai pris une jolie chambre à l'\textit{Hôtel du Panthéon}, en face, sur le devant. Tu le sais, j'aime par-dessus tout ce quartier si vivant et plein des meilleurs souvenirs de ma jeunesse.\\
+  Je t'écris dans la grande salle de la Bibliothèque St\textsuperscript{e}-Geneviève, qui se trouve à côté de l'hôtel. \textit{[En marge gauche verticale :]} À l'hôtel, je ne pourrais pas travailler dans ma chambre, car on n'a pas de charbon et par conséquent pas de chauffage. J'aurai à ma disposition ici toutes sortes de livres — le rêve, quoi !\\[0.8mm]
+  \textit{[Verso :]} Ma nouvelle affectation, à défaut d'avantages plus appréciables, aura du moins celui de m'avoir bien rapproché de Paris, 102 kilomètres environ. De jeudi au dimanche, sans doute, j'obtiendrai facilement des permissions de 24 heures. Ainsi je pourrai me rendre soit à Rouen, soit dans la capitale et aussi — et surtout — à Nogent-le-Rotrou. J'éprouverai une satisfaction profonde quand je reverrai mon chez moi du Perche, mon gentil nid de 4 ans. La maison que j'habite à Nogent — 17, rue Saint-Hilaire — est autrement jolie et pittoresque que celle des bords de la Dourbie ! Elle a un petit air flamand qui lui donne une certaine originalité. Et si tu voyais mon cabinet de travail au 1\textsuperscript{er}, avec ses deux fenêtres enguirlandées de lierre et de vigne sauvage, tu en serais ravie. Plus tard, je compte bien t'amener dans cette ville pour la visiter. De Paris, on y va par l'express, en 2 heures et demie.\\
+  Ne t'alarme point au sujet de notre fillette. Elle prendra le dessus et grossira à l'aise à partir du 3\textsuperscript{ème} mois. \textit{[En marge gauche verticale :]} Demain, avant de quitter Paris, je t'enverrai un autre mot. Tu dois être maintenant tout à fait rassurée sur mon compte. Mes plus doux baisers. Ton petitou qui t'aime si tendrement. \textbf{Hippolyte}. »
+  \end{quote}
+  \item \textbf{Deuxième lettre-carte de Paris, Bibliothèque Sainte-Geneviève (mardi 26 novembre 1918, 11 h matin) :}
+  \begin{quote}\footnotesize
+  « \textit{[Recto :]} Paris, mardi 26 novembre 1918, 11 h. matin.\\
+  Ma Margueritou tant aimée,\\
+  Me voici de nouveau installé dans la grande salle de la Bibliothèque Sainte-Geneviève. Comme je m'y plais ! Tant de souvenirs me la rendent chère ! Devant moi, sur la table, j'ai des revues françaises et un volume de Maeterlinck. Je me propose de travailler ici tout l'après-midi jusqu'à 4 h., moment de la fermeture.\\
+  Ce soir, je continuerai et terminerai mon voyage. Je prendrai l'express du Havre, à 10 h 15, gare St-Lazare. Arrivé à St-Pierre-du-Vauvray vers 9 h ½, j'attendrai environ 1 heure le train qui me conduira aux Andelys. Tout ce trajet sera bien court et ne me fatiguera pas du tout.\\
+  Hier, j'ai fait une très longue visite aux cousines Faure. Je n'ai pas eu le plaisir de voir Marcel. Bien qu'ayant été libéré depuis plusieurs jours, il n'a pas encore donné de ses nouvelles. Il a dû probablement passer par la Hollande ou le Danemark. \textit{[En marge gauche verticale :]} À l'heure actuelle, il est en mer, faisant le tour par l'Écosse et l'Angleterre pour débarquer soit à Cherbourg ou au Havre. Ma cousine a pris le plus vif intérêt à tout ce que je lui ai raconté.\\[0.8mm]
+  \textit{[Verso :]} Je te résumerai en qq mots ce qu'elle m'a dit à propos de notre mignonne Valentine. Tu ne dois point t'inquiéter, ni t'énerver ; avec le temps, l'enfant prendra le dessus et deviendra magnifique, comme le petit Bonhomme, que tu as vu, paraît-il, à Paris, chez les locataires du rez-de-chaussée, 16, rue d'Armenonville. Ce bébé était si maigre, si chétif, dans les deux premiers mois qu'on désespérait de le sauver. C'est maintenant un superbe garçon. Germaine aussi était très menue dans les débuts : sa mère devait la porter sur un coussin. Tu la vois aujourd'hui forte et bien constituée. Je pourrais te citer d'autres exemples plus frappants encore pour te rassurer pleinement. Sois calme, patiente et surtout écoute bien excellente mère : apprends à dormir. Le sommeil t'est aussi nécessaire que le lait à la fillette. »
   \end{quote}
   \item \textbf{Lettres-cartes de l'École militaire préparatoire des Andelys (jeudi 28 novembre et lundi 2 décembre 1918) :}
   \begin{quote}\footnotesize
-  « Les Andelys, jeudi soir 28 novbre 1918, École Militaire. Ma jolie Perlounette, Aujourd'hui encore, liberté entière. Je suis allé ce matin à l'École. L'emploi du temps pour l'anglais n'est pas encore fixé. Jusqu'à présent, on n'enseignait pas cette langue. Quand mon horaire aura été établi, samedi ou lundi, je commencerai mon nouveau service. À ma honte, je t'avouerai que le plus tard sera le mieux, je ne suis nullement pressé. Pour le moment, je jouis en paix d'un repos complet. Oh ! le paresseux ! Tu sais, il fait délicieux dans ma grande chambre, rue de la Sous-Préfecture. Affalé sur mon fauteuil — un vieux pouf — les jambes sur une chaise, je rumine, je lis et — je fume !... Non loin de ma rue, se trouve l'église [Notre-Dame du Grand-Andely], admirable !... Il y a de merveilleux vitraux (XIII\textsuperscript{e} et XIV\textsuperscript{e}) qui reproduisent les principaux faits de l'existence de Ste Clotilde... J'ai des collègues fort sympathiques. Ce sont tous des universitaires, mobilisés eux aussi, et ne désirant qu'une chose : être libérés... En ce qui me concerne, ce sera sûrement en janvier au plus tard. Amen ! »\\[1mm]
-  « École Militaire des Andelys, lundi 2 décembre 1918. Chérie, cette carte, écrite à l'encre noire, vient directement de ma chambre militaire. Tu le sais, je ne me sers que d'encre violette, dans ma chambre civile. Je ne commencerai pas les cours d'anglais avant demain mardi. Samedi 21 sera le dernier jour de classe de l'année. À mon retour de permission, en janvier, je serai presque à la veille du plus beau, du plus heureux jour de ma vie, celui où je serai enfin démobilisé. Je n'ai jamais autant désiré une chose, depuis que j'existe... Notre séparation n'est plus qu'une question de semaines. Oh ! oui, la liberté, je vais donc la recouvrer ! Cette certitude me transporte d'allégresse. Mes plus doux baisers pour Toi et pour la fillette. Ton mari qui t'aime tant, \textbf{Hippolyte}. »
+  « \textit{[1. Carte postale du 28 novembre 1918, verso :]} Les Andelys, jeudi soir 28 nov\textsuperscript{bre} 1918, École Militaire.\\
+  Ma jolie Perlounette, Aujourd'hui encore, liberté entière. Je suis allé ce matin à l'École. L'emploi du temps pour l'anglais n'est pas encore fixé. Jusqu'à présent, on n'enseignait pas cette langue. Quand mon horaire aura été établi, samedi ou lundi, je commencerai mon nouveau service. À ma honte, je t'avouerai que le plus tard sera le mieux, je ne suis nullement pressé. Pour le moment, je jouis en paix d'un repos complet. Oh ! le paresseux ! Tu sais, il fait délicieux dans ma grande chambre, rue de la Sous-Préfecture. Affalé sur mon fauteuil — un vieux pouf — les jambes sur une chaise, je rumine, je lis et — je fume ! Hier soir, après dîner, j'ai travaillé deux heures à peine et je me suis mis au lit de bonne heure. Réveillé ce matin à 7 h. ½, j'ai flâné sous les couvertures une grosse demi-heure. Ensuite j'ai procédé à ma toilette qui a été très minutieuse, donc très longue. Parti à 9 h. pour l'École (20 minutes de marche environ), j'étais de retour avant 11 h. Cet après-midi, le temps étant très couvert, je ne suis pas sorti pour visiter la ville en détail.\\
+  \textit{[Recto, en tête de la carte-adresse :]} Non loin de ma rue, se trouve l'église [Notre-Dame du Grand-Andely], admirable ! J'y suis entré deux minutes. Il y a de merveilleux vitraux (XIII\textsuperscript{e} et XIV\textsuperscript{e}) qui reproduisent les principaux faits de l'existence de St\textsuperscript{e} Clotilde. Cette reine avait fondé au VI\textsuperscript{e} siècle un monastère important aux Andelys. C'est là l'origine de cette petite cité. — J'ai des collègues fort sympathiques. Ce sont tous des universitaires, mobilisés eux aussi, et ne désirant qu'une chose : être libérés. Comme nous sommes des privilégiés (la plupart ont près de quarante ans ou ont dépassé la quarantaine), nous ne reprendrons nos fonctions d'avant-guerre que des premiers. En ce qui me concerne, ce sera sûrement en janvier au plus tard. Amen ! »\\[1mm]
+  « \textit{[2. Carte-lettre du 2 décembre 1918 :]} École Militaire des Andelys, lundi 2 décembre 1918.\\
+  Chérie, cette carte, écrite à l'encre noire, vient directement de ma chambre militaire. Tu le sais, je ne me sers que d'encre violette, dans ma chambre civile. Je ne commencerai pas les cours d'anglais avant demain mardi. Samedi 21 sera le dernier jour de classe de l'année. À mon retour de permission, en janvier, je serai presque à la veille du plus beau, du plus heureux jour de ma vie, celui où je serai enfin démobilisé. Je n'ai jamais autant désiré une chose, depuis que j'existe. En réalité, je n'aurai pas trop à me plaindre de mon séjour ici, étant donné les avantages considérables attachés à ma fonction : liberté, tranquillité et loisirs nombreux. Par moments, je me figure que je suis déjà tout à fait libre, et alors la pensée de mon bonheur très prochain fait battre mon cœur avec force. Notre séparation n'est plus qu'une question de semaines. Oh ! Dieu, la liberté, je vais donc la recouvrer ! Cette certitude me transporte d'allégresse.\\
+  \textit{[En marge gauche verticale :]} Mes plus doux baisers pour Toi et pour la fillette. Ton mari qui t'aime tant, \textbf{Hippolyte}. »
   \end{quote}
 \end{enumerate}
 \par}
