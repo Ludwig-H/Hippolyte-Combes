@@ -26,7 +26,7 @@ SCANS_075_130 = {
             "vraie fourmilière de tommies.",
             "Campés sous tentes, ds 1 champ, en contrebas de la",
             "route de Senlis.",
-            "Visité ds la brasserie et revu amis.",
+            "Dîné ds la brasserie et revu amis.",
         ],
         "critique": (
             "\\textbf{l.~1 Lundi 16 — | Sur pied à 5h 1/2 :} Trait vertical séparant l'indication calendaire du début "

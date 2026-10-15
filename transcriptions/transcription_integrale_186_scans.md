@@ -5,9 +5,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ---
 
 ## Scan #001 — `20251126_092853.jpg` — Couverture extérieure
-- **Titre** : LA COUVERTURE
-- **Date** : Juillet – Septembre 1916
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : Plat supérieur du carnet : étiquette octogonale « Livre - Journal »
+- **Date** : 25 juillet 1916 – 30 avril 1917
+- **Lieu** : Somme, Flandres, Artois, Paris, Toulouse, Millau
 
 ### I. Transcription diplomatique
 ```text
@@ -19,22 +19,22 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 2 : **2 — —** Écriture courante à l'encre noire.
-- Ligne 5 : **5 — —** Clôture de la page manuscrite.
+- Ligne 2 : **2 Livre - Journal** *titulus in pittacio octogono.*
+- Ligne 5 : **5 25 juillet 1916** *terminus a quo.*
+- Ligne 6 : **6 30 avril 1917** *terminus ad quem.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **Codicologie et matérialité :** Couverture extérieure en carton souple recouvert d'une toile cirée noire (carnet de poche britannique à coins arrondis). L'étiquette octogonale collée au centre porte, tracé à la plume et à l'encre noire d'une main posée, le titre comptable *Livre - Journal* encadré de deux filets triples de tirets.
 
 ### IV. Commentaire historique
-**Période couverte (25 juillet 1916 -- 30 avril 1917) :** Ces neuf mois correspondent à la campagne d'Hippolyte Combes (interprète stagiaire de réserve, classe 1896) auprès du Corps expéditionnaire britannique (*B.E.F.*), successivement détaché aux *1st Irish Guards* (Flandres, Somme) puis à la *152nd Company A.S.C.* (Somme, Flandres, Artois) jusqu'à la veille de son mariage à Millau.
+**Période couverte (25 juillet 1916 -- 30 avril 1917) :** Ces neuf mois correspondent à la campagne d'Hippolyte Combes (interprète militaire de réserve, classe 1896) auprès du Corps expéditionnaire britannique (*B.E.F.*), successivement détaché aux *1st Irish Guards* (Somme, Flandres) puis à la *152nd Company A.S.C.* et au XIIIe Corps (Flandres, Artois, Somme).
 
 ---
 
 ## Scan #002 — `20251126_092932.jpg` — Folio 1 recto
-- **Titre** : FOLIO 1 RECTO (L'Adieu à la Somme)
-- **Date** : Mardi 25 juillet 1916.
-- **Lieu** : Lucheux (Somme).
+- **Titre** : FOLIO 1 RECTO (Dernier jour à Lucheux et arrivée des Royal Scots)
+- **Date** : Mardi 25 juillet 1916
+- **Lieu** : Lucheux (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -64,21 +64,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma.** *scil.* Mardi.
-- Ligne 15 : **15 off.** *scil.* officiers.
+- Ligne 7 : **7 y** *scil.* et.
+- Ligne 15 : **15 off.** *scil.* officiers. **15 off** *abbr. pro* officier(s).
+- Ligne 19 : **19 1/2** *scil.* demi / moitié.
 - Ligne 20 : **20 Cie** *scil.* Compagnie.
+- Ligne 21 : **21 Mme** *abbr. pro* Madame.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lucheux : Lecture restituée d'après les traces d'encre pâle. Ce village médiéval de la Somme est une étape historique des Guards. — y mélangés : Lecture probable (les cultures sont entremêlées).
+**l.~1 25 Ma. ... Juillet 1916 :** Ouverture du journal sur le folio 1 recto selon la disposition type du carnet : quantième et jour abrégé à gauche, mois et millésime à droite. **l.~21--22 Mme Becker / Karnet : 75 c :** Relevé comptable en pied de page ; graphie germanisante ou phonétique *Karnet* désignant l'achat du présent registre pour 75 centimes.
 
 ### IV. Commentaire historique
-Église très curieuse : L'église Saint-Léger de Lucheux, avec son beffroi communal unique accolé, intrigue l'esthète qu'est Hippolyte. — R. Scots : Le régiment des Royal Scots. L'arrivée de ces officiers combattants oblige l'interprète à déménager "sur le derrière" (logement de second ordre), marquant sa subordination logistique.
+**l.~3--15 Église très curieuse... R. Scots :** À Lucheux (Somme), Hippolyte Combes visite l'église romane et gothique Saint-Léger avant l'arrivée d'un bataillon des *Royal Scots*, dont le cantonnement l'oblige à céder sa chambre sur rue pour un logement sur l'arrière chez Mme Becker.
 
 ---
 
 ## Scan #003 — `20251126_093018.jpg` — Folio 1 verso
-- **Titre** : FOLIO 1 VERSO (Le Billeting Officer)
-- **Date** : Mercredi 26 juillet 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 1 VERSO (Cantonnement des Royal Fusiliers et soirée devant le château de la Bruyère)
+- **Date** : Mercredi 26 juillet 1916
+- **Lieu** : Hameau d'Ebenezer, Pradelles / Borre (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -103,29 +106,29 @@ Lucheux : Lecture restituée d'après les traces d'encre pâle. Ce village médi
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Mer.** *scil.* Mercredi.
-- Ligne 2 : **2 ju** *scil.* jusqu'à.
+- Ligne 2 : **2 ju** *scil.* jusqu'à. **2 1/2** *scil.* demi / moitié.
 - Ligne 3 : **3 Lt** *abbr. pro* Lieutenant. **3 billeting** *angl. in ms.*
 - Ligne 5 : **5 ds** *abbr. pro* dans.
 - Ligne 6 : **6** ⟦& 15 lits⟧ *del. in ms.* **6 d’off** *scil.* officiers.
 - Ligne 8 : **8 ds** *abbr. pro* dans.
 - Ligne 10 : **10 lg** *abbr. pro* long / longtemps.
 - Ligne 11 : **11 cottage** *angl. in ms.*
-- Ligne 13 : **13 et** *lect. incert. in ms.*
+- Ligne 13 : **13 Bruyère** *lect. incert. in ms.*
 - Ligne 16 : **16 ct** *scil.* courant.
-- Ligne 17 : **17 Washing** *angl. in ms.*
+- Ligne 17 : **17 f.** *abbr. pro* franc(s). **17 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Anglicismes : L'usage naturel de Food, Washing et Cottage montre son immersion. Le coût du blanchissage (1 franc, plus cher que la nourriture) souligne l'exigence de tenue impeccable (smartness) des officiers de la Garde.
+**l.~6 d'off $\llbracket$& 15 lits$\rrbracket$ :** Biffure immédiate précisant que la recherche portait sur trente-six chambres d'officiers. **l.~3 billeting officer / l.~11 cottage / l.~17 Food... Washing :** Emprunts lexicaux à l'anglais militaire et domestique intégrés sans traduction dans la prose française.
 
 ### IV. Commentaire historique
-Billeting Officer : Hippolyte exerce ici la fonction délicate d'officier de logement. Il doit négocier avec les civils pour loger 36 officiers.
+**l.~2--13 Royal Fusiliers... château de la Bruyère :** Aux côtés du lieutenant Michel (*billeting officer*), l'interprète parcourt toute la matinée le village et les fermes alentour pour loger trente-six officiers des *Royal Fusiliers*, puis contemple à la tombée du jour l'église de briques rouges et le château de la Bruyère.
 
 ---
 
 ## Scan #004 — `20251126_093100.jpg` — Folio 2 recto
-- **Titre** : FOLIO 2 RECTO (Tourisme Mélancolique)
-- **Date** : Jeudi 27 juillet 1916.
-- **Lieu** : Renescure & Hazebrouck (Nord).
+- **Titre** : FOLIO 2 RECTO (Visite des châteaux de Renescure et courses à cheval à Hazebrouck)
+- **Date** : Jeudi 27 juillet 1916
+- **Lieu** : Renescure et Hazebrouck (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -162,21 +165,23 @@ Billeting Officer : Hippolyte exerce ici la fonction délicate d'officier de log
 - Ligne 10 : **10 lunch** *angl. in ms.*
 - Ligne 14 : **14 lgts** *scil.* longtemps.
 - Ligne 16 : **16 cottage** *angl. in ms.*
-- Ligne 21 : **21 Tbres** *scil.* Timbres.
-- Ligne 23 : **23 élastiq.** *scil.* élastiques.
+- Ligne 19 : **19 f.** *abbr. pro* franc(s).
+- Ligne 20 : **20 cartes ph.** *abbr. pro* cartes photographiques.
+- Ligne 21 : **21 Tbres** *scil.* Timbres. **21 fr.** *abbr. pro* franc(s).
+- Ligne 23 : **23 élastiq.** *scil.* élastiques. **23 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Satiné de mélancolie : Une tournure littéraire remarquable qui montre la sensibilité de l'auteur. — Solde (84 fr) : Somme importante qui confirme son statut de cadre rémunéré (indemnités d'interprète). Le "cahier carbone" est son outil de travail pour dupliquer les ordres bilingues.
+**l.~3--4 temps gris et satiné de mélancolie :** Métaphore caractéristique de la prose descriptive du diariste. **l.~18--24 A Renescure... A Hazebrouck :** Clôture comptable détaillée mêlant fournitures d'écriture (boîte de plumes, carnets de toile-papier, cahier carbone) et perception de la solde mensuelle (84 francs).
 
 ### IV. Commentaire historique
-Ypres : L'achat de cartes postales d'Ypres indique qu'il connaît sa destination : le redoutable saillant d'Ypres en Belgique.
+**l.~2--13 Renescure... Hazebrouck :** Parti à pied après le *breakfast*, Hippolyte visite à Renescure le château féodal de Philippe de Commynes (entouré de douves et flanqué de tours d'angle) et l'église à double nef, avant de gagner Hazebrouck à cheval dans l'après-midi pour toucher sa solde et acheter une carte d'état-major.
 
 ---
 
 ## Scan #005 — `20251126_093141.jpg` — Folio 2 verso
-- **Titre** : FOLIO 2 VERSO (L'Officier Monté)
-- **Date** : Vendredi 28 juillet 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 2 VERSO (Marche d'étape à cheval par Hazebrouck vers Saint-Jans-Cappel)
+- **Date** : Vendredi 28 juillet 1916
+- **Lieu** : Environs d'Hazebrouck et Saint-Jans-Cappel (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -207,22 +212,26 @@ Ypres : L'achat de cartes postales d'Ypres indique qu'il connaît sa destination
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ve.** *scil.* Vendredi.
 - Ligne 4 : **4 ts** *abbr. pro* tous.
+- Ligne 5 : **5 1/2** *scil.* demi / moitié.
+- Ligne 7 : **7 1/2** *scil.* demi / moitié.
+- Ligne 15 : **15 1/2** *scil.* demi / moitié.
+- Ligne 16 : **16 gde** *abbr. pro* grande.
 - Ligne 20 : **20** *lacuna vel lect. incert.*
-- Ligne 21 : **21 Food** *angl. in ms.*
-- Ligne 22 : **22 groom** *angl. in ms.*
+- Ligne 21 : **21 cartes ph.** *abbr. pro* cartes photographiques. **21 c.** *abbr. pro* centimes.
+- Ligne 22 : **22 f.** *abbr. pro* franc(s). **22 groom** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Tip au groom pour soigné poney" : Cette phrase clé prouve le statut social d'Hippolyte.
+**l.~7--8 Fait route à cheval, en tête de convoi :** Syntaxe nominale et participiale sans pronom sujet. **l.~20--22 Food (extra)... Tip au groom pour soigné poney :** Inflexion anglaise du relevé de dépenses et accord graphique libre de l'infinitif après préposition (*pour soigné poney*).
 
 ### IV. Commentaire historique
-Poney : Terme anglais pour désigner le cheval de selle de l'officier. — Groom : Ordonnance militaire britannique (batman) attaché à sa personne. — Tip : Le pourboire (interdit dans l'armée française mais courant chez les Britanniques) montre son intégration aux mœurs alliées.
+**l.~7--17 Contourné Hazebrouck... gde prairie autour d'1 ferme :** Chevauchant de 8 h 30 à 16 h 30 en tête de la colonne logistique par les chemins sablonneux de Flandre bordés de blés et d'avoines, Hippolyte contourne Hazebrouck sous un soleil brûlant et doit se contenter d'un grenier de ferme au pied des monts de Flandre.
 
 ---
 
 ## Scan #006 — `20251126_093204.jpg` — Folio 3 recto
-- **Titre** : FOLIO 3 RECTO (Au Mont Noir)
-- **Date** : Samedi 29 juillet 1916.
-- **Lieu** : Saint-Jans-Cappel (Frontière Belge).
+- **Titre** : FOLIO 3 RECTO (Réquisition de fourrages à Saint-Jans-Cappel et au Mont-Noir)
+- **Date** : Samedi 29 juillet 1916
+- **Lieu** : Saint-Jans-Cappel et le Mont-Noir (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -251,25 +260,29 @@ Poney : Terme anglais pour désigner le cheval de selle de l'officier. — Groom
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
-- Ligne 4 : **4 fourrage** *lect. incert. in ms.*
-- Ligne 5 : **5 Mont** *scil.* Mont Noir.
+- Ligne 2 : **2 1/2** *scil.* demi / moitié.
+- Ligne 3 : **3 Breakfast** *angl. in ms.*
+- Ligne 4 : **4 Curtet** *lect. incert. in ms.*
+- Ligne 5 : **5 Mont** *scil.* Mont Noir. **5 St** *abbr. pro* Saint.
 - Ligne 6 : **6 lg** *scil.* longuement.
 - Ligne 7 : **7 l.q.** *scil.* laquelle.
 - Ligne 9 : **9 ds** *abbr. pro* dans.
-- Ligne 12 : **12 lg** *abbr. pro* long / longtemps.
+- Ligne 11 : **11 s/** *abbr. pro* sur.
+- Ligne 12 : **12 lg** *abbr. pro* long / longtemps. **12 Margte** *scil.* Marguerite (Calmels).
+- Ligne 18 : **18 St** *abbr. pro* Saint.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Margte : Abréviation pour Marguerite. L'image romantique de l'officier en bras de chemise ("ôté veste et gilet") dans l'herbe, pensant à sa fiancée au milieu de la machinerie de guerre ("ballons captifs", "avions"), est saisissante.
+**l.~3--4 ce fou de Curtet :** Première apparition sous la plume du diariste du lieutenant Curtet, dont le zèle brouillon lui inspire une antipathie croissante. **l.~7 à l.q. :** Abréviation tachygraphique pour *à laquelle*. **l.~12 pensé lg à Margte :** Mention intime de sa fiancée Marguerite Calmels.
 
 ### IV. Commentaire historique
-Séquence inscrite dans le cadre du service de liaison et de cantonnement auprès des unités britanniques (FOLIO 3 RECTO (Au Mont Noir)).
+**l.~4--16 St-Jans Cappel... hameau du Mont :** Chargé d'acheter et de faire peser le fourrage dans les fermes de Saint-Jans-Cappel et du Mont-Noir (à la frontière franco-belge), Hippolyte s'étend un moment en bras de chemise parmi les houblonnières, face aux ballons captifs d'observation et aux avions britanniques gagnant le saillant d'Ypres.
 
 ---
 
 ## Scan #007 — `20251126_093219.jpg` — Folio 3 verso
-- **Titre** : FOLIO 3 VERSO (30 & 31 Juillet) — DÉCHIFFREMENT INÉDIT
-- **Date** : Juillet – Septembre 1916
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 3 VERSO (Messe dominicale à Saint-Jans-Cappel et corvée de fourrage vert vers Bailleul)
+- **Date** : Dimanche 30 et lundi 31 juillet 1916
+- **Lieu** : Saint-Jans-Cappel et Bailleul (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -304,25 +317,30 @@ Séquence inscrite dans le cadre du service de liaison et de cantonnement auprè
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
+- Ligne 2 : **2 s/** *abbr. pro* sur.
 - Ligne 5 : **5 breakfast** *angl. in ms.*
+- Ligne 6 : **6 St** *abbr. pro* Saint.
 - Ligne 7 : **7 d.** *scil.* droite. **7 g.** *scil.* gauche.
+- Ligne 8 : **8 s/** *abbr. pro* sur.
 - Ligne 10 : **10 tt** *scil.* tout.
-- Ligne 19 : **19 off.** *scil.* officiers.
+- Ligne 16 : **16 headcook** *angl. in ms.*
+- Ligne 19 : **19 off.** *scil.* officiers. **19 off** *abbr. pro* officier(s).
 - Ligne 20 : **20 refilling point** *angl. in ms.*
+- Ligne 23 : **23 waggon** *angl. in ms.*
 - Ligne 24 : **24 green** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Analyse : Ce folio est capital. Il révèle la rudesse des conditions ("rats", "chaleur") et surtout le basculement linguistique d'Hippolyte qui utilise l'anglais pour décrire ses tâches techniques. — Hancock : Nom britannique courant (lecture probable). — 5 Francs : Ce pourboire est énorme (équivalent à plusieurs jours de solde d'un soldat). Hippolyte paie pour s'assurer un traitement de faveur au Mess, essentiel pour supporter la vie au front. — Passage clé du carnet.
+**l.~2--3 paillasse crevasseuse :** Adjectif dérivé expressif décrivant l'état de sa litière de paille. **l.~8 Plein à chaire :** Tour elliptique notant que la nef était bondée jusqu'au pied de la chaire. **l.~23--24 conduire 1 waggon to the fields for green forage :** Alternance codique franco-anglaise au sein de la proposition.
 
 ### IV. Commentaire historique
-"Paillasse crevasseuse" et "Sarabande" : — Hippolyte crée un néologisme ("crevasseuse", pleine de trous) et utilise un terme de danse baroque ("sarabande") pour décrire ironiquement le vacarme des rats qui l'empêchent de dormir. — "Plein à chaire" : — L'expression usuelle est "plein à craquer", mais on lit ici distinctement "chaire". Il signifie que l'église est bondée jusqu'au pied de la chaire de vérité. Il note au passage la ségrégation sexuelle des fidèles, typique de la Flandre rurale. — "Courrier de mon amie" :.
+**l.~6--8 Église archi-comble. Hommes à d., femmes à g. :** Observation ethnographique de la séparation traditionnelle des sexes dans les églises rurales de Flandre intérieure. Le lendemain 31 juillet, après une reconnaissance en automobile au *refilling point* et à Bailleul, Hippolyte accompagne un fourgon aux champs et verse un généreux pourboire de 5 francs au maître-queux (*headcook*) Hancock.
 
 ---
 
 ## Scan #008 — `20251126_093240.jpg` — Folio 4 recto
-- **Titre** : FOLIO 4 RECTO (Corvée et Beffroi)
-- **Date** : Mardi 1er août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 4 RECTO (Première promenade à Bailleul : la Grand-Place et le beffroi)
+- **Date** : Mardi 1er août 1916
+- **Lieu** : Saint-Jans-Cappel et Bailleul (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -345,22 +363,24 @@ Analyse : Ce folio est capital. Il révèle la rudesse des conditions ("rats", "
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 1er** *scil.* Mardi.
+- Ligne 1 : **1 Mar** *scil.* Mardi. **1 1er** *scil.* premier.
 - Ligne 2 : **2 tempér.** *scil.* température.
-- Ligne 5 : **5 tt** *scil.* tout.
+- Ligne 5 : **5 tt** *scil.* tout. **5 ds** *abbr. pro* dans.
+- Ligne 14 : **14 c.** *abbr. pro* centimes.
+- Ligne 15 : **15 cartes ph.** *abbr. pro* cartes photographiques. **15 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"De corvée 1/2 jour" : Le début de phrase est difficile (on pourrait lire "Été torride"), mais la graphie du "D" majuscule de Combes (voir "De 9h" au folio 1) valide "De corvée". Cela explique le contraste avec la "Liberté entière" qui suit (une fois la tâche finie). — "4 cartes vues M. Guétin" : Lecture la plus probable (le prix de 1,20 F correspond à 4 belles cartes postales à 30 cts). M. Guétin devait être le papetier-éditeur local.
+**l.~2--3 tempér. asphyxiante. De corvée 1/2 jour :** Emploi de la fraction *1/2* comme abréviation nominale de *milieu* (*milieu du jour*), procédé constant dans tout le manuscrit. **l.~15--16 cartes ph. ... 4 cartes vues M. Guétin :** Achat de cartes postales illustrées auprès de l'éditeur local Guétin.
 
 ### IV. Commentaire historique
-"Ville claire" : Bailleul, construite en brique jaune et pierre blanche, était réputée pour sa luminosité par rapport aux villes minières noires de charbon (Béthune). — Hôtel de Ville : Hippolyte admire ici le célèbre Beffroi de Bailleul (XIIe siècle, classé monument historique). C'est un témoignage poignant : ce bâtiment et toute la ville seront anéantis par l'artillerie allemande en avril 1918. Hippolyte décrit un patrimoine condamné.
+**l.~7--11 promenade à Bailleul... église & hotel de ville :** Profitant d'une après-midi de liberté malgré la canicule d'août 1916, Hippolyte descend en trente minutes à pied jusqu'à Bailleul, dont il admire la vaste place flamande (comparable à celles d'Hazebrouck et de Béthune), l'église Saint-Vaast et le beffroi gothique de l'Hôtel de Ville, qui seront entièrement détruits au printemps 1918.
 
 ---
 
 ## Scan #009 — `20251126_093301.jpg` — Folio 4 verso
-- **Titre** : FOLIO 4 VERSO (La Preuve Biographique)
-- **Date** : Mercredi 2 et Jeudi 3 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 4 VERSO (Le musée Benoît-De-Puydt et les dentellières de Bailleul)
+- **Date** : Mercredi 2 et jeudi 3 août 1916
+- **Lieu** : Bailleul (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -390,27 +410,31 @@ Analyse : Ce folio est capital. Il révèle la rudesse des conditions ("rats", "
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 b.** *scil.* belle. **1 –** *scil.* Mercredi.
-- Ligne 5 : **5 à** *scil.* Jusqu'à.
-- Ligne 7 : **7 égl.** *scil.* église.
+- Ligne 1 : **1 b.** *scil.* belle. **1 Me** *scil.* Mercredi.
+- Ligne 4 : **4 wagon** *angl. in ms.*
+- Ligne 5 : **5 à** *scil.* Jusqu'à. **5 J.** *scil.* Jeudi.
+- Ligne 7 : **7 égl.** *scil.* église. **7 St** *abbr. pro* Saint.
 - Ligne 8 : **8 longt** *scil.* longtemps.
-- Ligne 11 : **11 2f** *lect. incert. in ms.*
-- Ligne 13 : **13 tempér.** *scil.* température. **13 –** *scil.* Jeudi.
+- Ligne 11 : **11 pl** *lect. incert. in ms.* **11 ctes ph.** *abbr. pro* cartes photographiques.
+- Ligne 12 : **12 pr** *abbr. pro* pour. **12 c.** *abbr. pro* centimes.
+- Ligne 13 : **13 tempér.** *scil.* température. **13 J** *scil.* Jeudi.
 - Ligne 14 : **14 promen.** *scil.* promener.
-- Ligne 18 : **18 B.** *scil.* Bailleul.
+- Ligne 18 : **18 B.** *scil.* Bailleul. **18 ts** *abbr. pro* tous.
+- Ligne 21 : **21 St** *abbr. pro* Saint.
+- Ligne 23 : **23 Drink** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Document Capital : Il confirme le handicap visuel d'Hippolyte. — "Dû conduire 1 wagon" : Le verbe "dû" souligne la corvée. Le mot anglais "wagon" désigne le lourd chariot militaire. L'intellectuel souffre de ce travail manuel forcé. — Anglicismes ("Drink") : L'usage du mot "Drink" pour dire "verre" ou "boisson" est désormais systématique dans sa comptabilité personnelle.
+**l.~12 2m 40 de galon noir pr lorgnons : 35c. :** Détail matériel lié à la forte myopie d'Hippolyte Combes, qui porte en permanence un pince-nez (*lorgnon*) retenu par un cordon noir. **l.~12, 23 Drink : 10, 10c :** Notation systématique en anglais des rafraîchissements pris en ville.
 
 ### IV. Commentaire historique
-"Herbe de la cour" : Logeant chez une fermière, il profite de la cour de la ferme. — Le Musée : Il s'agit du Musée Benoît-De-Puydt, un joyau de la culture flamande (céramique, folklore). Sa visite montre qu'Hippolyte cherche à s'évader intellectuellement de la guerre. — Les Dentellières (Scène Ethnographique) : Bailleul était la capitale de la dentelle. Hippolyte décrit une tradition disparue : les femmes travaillant sur le trottoir ("rue devant maisons") pour avoir la lumière.
+**l.~6--10 Visité le musée... arrêté devant dentellières :** Deux après-midis consécutives à Bailleul permettent à l'interprète de visiter le musée Benoît-De-Puydt, l'église Saint-Vaast, les demeures flamandes des rues d'Ypres et de Lille, et d'observer longuement les dentellières travaillant au fuseau sur le pas de leurs portes.
 
 ---
 
 ## Scan #010 — `20251126_093316.jpg` — Folio 5 recto
-- **Titre** : FOLIO 5 RECTO (La Solde et la Mission)
-- **Date** : Vendredi 4 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 5 RECTO (Chevauchée à La Croix-du-Bac par Steenwerck et repos dans le « garret »)
+- **Date** : Vendredi 4 août 1916 (matin et après-midi)
+- **Lieu** : Saint-Jans-Cappel, Bailleul, Steenwerck, La Croix-du-Bac (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -437,23 +461,25 @@ Document Capital : Il confirme le handicap visuel d'Hippolyte. — "Dû conduire
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ve.** *scil.* Vendredi. **1 lg** *scil.* longue.
 - Ligne 3 : **3 milit.** *scil.* militaire. **3 fr.** *scil.* française.
+- Ligne 4 : **4 Kils** *abbr. pro* Kilomètres.
 - Ligne 8 : **8 qq** *scil.* quelques.
 - Ligne 11 : **11 garret** *angl. in ms.*
 - Ligne 12 : **12 milit.** *scil.* militaire.
-- Ligne 16 : **16 l.** *scil.* laquelle.
+- Ligne 13 : **13 y** *scil.* et.
+- Ligne 16 : **16 l.** *scil.* laquelle. **16 Coy** *angl.* Company.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Où mission milit. fr." : Le mot est écrit rapidement, mais le sens ne fait aucun doute. La Mission Militaire Française (ou son bureau payeur) est l'autorité administrative dont dépendent les interprètes. — "Repos garret" (ANGLICISME MAJEUR) : C'est la première occurrence. Il n'utilise plus le mot français "grenier" (voir folio 2), mais le mot anglais garret (mansarde/grenier). Ce glissement lexical prouve que pour désigner son espace personnel, il adopte la langue de ses compagnons d'armes.
+**l.~5 Steenberke :** Graphie flamande ou phonétique du bourg de Steenwerck. **l.~11 repos garret :** Première apparition du substantif anglais *garret* (mansarde, grenier sous combles) qui se substitue désormais au français *grenier*. **l.~12--15 Touché au bureau milit. :** Encadrement par deux traits horizontaux de la recette de solde.
 
 ### IV. Commentaire historique
-"Steenberke" : Hippolyte écrit phonétiquement le nom du village de Steenwerck. — "Église brique" : L'église Saint-Jean-Baptiste de Steenwerck (aujourd'hui reconstruite) était une vaste église-halle (Hallekerke) typique des Flandres, bâtie en briques rouges, ce qui tranche avec la pierre de Bailleul.
+**l.~2--14 La Croix du Bac, où mission milit. fr. :** Parti à cheval à 10 h par Bailleul et Steenwerck, Hippolyte parcourt 15 km en une heure et demie pour rejoindre le bureau payeur de la Mission militaire française à La Croix-du-Bac, où il perçoit 80,20 francs (dont 8 francs de supplément pour la fête nationale du 14 Juillet).
 
 ---
 
 ## Scan #011 — `20251126_093332.jpg` — Folio 5 verso
-- **Titre** : FOLIO 5 VERSO (La Prière Flamande)
-- **Date** : Vendredi 4 août 1916 (Soir).
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 5 VERSO (Soirée solitaire à la ferme et prière du soir de la famille flamande)
+- **Date** : Vendredi 4 août 1916 (soir)
+- **Lieu** : Saint-Jans-Cappel (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -474,20 +500,20 @@ Document Capital : Il confirme le handicap visuel d'Hippolyte. — "Dû conduire
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 4 : **4 gds** *scil.* grands.
 - Ligne 9 : **9 garret** *angl. in ms.*
-- Ligne 12 : **12 ptts** *scil.* tous ?.
+- Ligne 12 : **12 ptts** *scil.* tous?. **12 gds** *abbr. pro* grands.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Mot difficile. Le contexte ("loin de la ville") suggère que les écrans végétaux (branches) ou les bruits de la nature remplacent l'agitation urbaine. — L'usage est confirmé et ancré. Le mot garret porte ici une charge romantique : c'est le lieu de l'isolement poétique, d'où l'on observe le monde sans y participer. — La fin de la dernière ligne est une "écriture hâtive" typique de la prise de note sur le vif. — Transcription : On lit distinctement "gds et ptts" (grands et petits). La fin est un trait ondulé suggérant "tous" ou "lui répondent".
+**l.~3 Vent bruissement :** Juxtaposition nominale sans verbe conjugué, restituant l'impression auditive immédiate. **l.~9 De mon garret (où suis remonté) :** Reprise du terme anglais *garret*. **l.~12 gds et ptts :** Abréviation par suspension vocalique (*grands et petits*).
 
 ### IV. Commentaire historique
-"Les branches / Les bruits" : — "De mon garret" : — La Scène de la Prière ("Grands et petits...") : — Analyse de la scène : — La Verticalité : Hippolyte est en haut (le Garret), la famille est en bas (la salle commune). Il est le spectateur auditif. — Le Père : Sa voix est qualifiée de "grave & monotone". Ce n'est pas péjoratif : cela décrit la récitation rythmée des prières (chapelet, angélus) par le chef de famille, pratique courante dans la Flandre très catholique de 1916.
+**l.~9--12 entendu famille ferme en commun prière du soir :** Remonté à la nuit tombée dans sa mansarde, le diariste écoute avec recueillement la prière vespérale récitée à voix grave et rythmée par le père de famille flamand entouré de ses enfants dans la salle basse.
 
 ---
 
 ## Scan #012 — `20251126_093347.jpg` — Folio 6 recto
-- **Titre** : FOLIO 6 RECTO (Le Groom Irlandais)
-- **Date** : Samedi 5 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 6 RECTO (Départ du convoi avec les A.S.C. men et étape à La Croix-du-Bac)
+- **Date** : Samedi 5 août 1916
+- **Lieu** : De Saint-Jans-Cappel à La Croix-du-Bac / Steenwerck (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -517,27 +543,32 @@ Mot difficile. Le contexte ("loin de la ville") suggère que les écrans végét
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 5** *scil.* Samedi.
+- Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 3 : **3 ts** *scil.* tous.
 - Ligne 4 : **4 voy.** *scil.* voyages.
+- Ligne 5 : **5 s/** *abbr. pro* sur. **5 wagon** *angl. in ms.*
 - Ligne 6 : **6 tjs** *scil.* toujours.
-- Ligne 8 : **8 Ds** *scil.* Dans.
-- Ligne 16 : **16 off.** *scil.* officier.
+- Ligne 8 : **8 Ds** *scil.* Dans. **8 tt** *abbr. pro* tout.
+- Ligne 13 : **13 1/2** *scil.* demi / moitié.
+- Ligne 14 : **14 Horse-lines** *angl. in ms.*
+- Ligne 16 : **16 off.** *scil.* officier. **16 pr** *abbr. pro* pour.
+- Ligne 17 : **17 Coy** *angl.* Company.
+- Ligne 20 : **20 St** *abbr. pro* Saint.
 - Ligne 21 : **21 washing** *angl. in ms.*
 - Ligne 23 : **23 groom** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Sac à main" : Lecture littérale probable. Il s'agit sans doute d'une petite musette personnelle ou d'une sacoche pour ses objets précieux, distincte des cantines militaires. — "Coy" : Abréviation militaire stricte pour Company (Compagnie).
+**l.~3--5 Coffres, Porte-manteau en 3 voy.. un sac à main :** *Porte-manteau* conserve ici son acception classique de valise souple d'officier. **l.~8 A.S.C. men / l.~14 Horse-lines / l.~21 for washing / l.~23 mon groom :** Densité remarquable du lexique militaire britannique.
 
 ### IV. Commentaire historique
-"Porte-manteau" : Terme d'époque désignant une valise souple ou une malle pour les vêtements (et non le meuble). La mention "en 3 voyages" pour tout charger souligne l'importance du matériel d'Hippolyte. — "A.S.C. men" : Hippolyte désigne les soldats de la logistique britannique par leur nom exact : Army Service Corps men. Il pense désormais avec les acronymes de son unité. — "Horse-lines" : Terme technique de cavalerie (lignes d'attache et de bivouac des chevaux). — "A Connelly, mon groom" (DÉCOUVERTE) :.
+**l.~8--23 par Bailleul, parvenus à La Croix du Bac... A Connelly, mon groom :** Après avoir réglé ses comptes avec la fermière de Saint-Jans-Cappel, Hippolyte fait charger ses bagages sur le fourgon n\textsuperscript{o}~5 de l'*Army Service Corps*, gagne La Croix-du-Bac (Steenwerck) à 16 h 30 sous un soleil brûlant et gratifie son ordonnance irlandais Connelly d'un franc de pourboire.
 
 ---
 
 ## Scan #013 — `20251126_093412.jpg` — Folio 6 verso
-- **Titre** : FOLIO 6 VERSO (Dimanche sur la Lys)
-- **Date** : Dimanche 6 août 1916.
-- **Lieu** : Bac-Saint-Maur (sur la Lys).
+- **Titre** : FOLIO 6 VERSO (Dimanche sur les bords de la Lys à Bac-Saint-Maur et concert militaire)
+- **Date** : Dimanche 6 août 1916
+- **Lieu** : La Croix-du-Bac et Bac-Saint-Maur (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -561,26 +592,28 @@ Mot difficile. Le contexte ("loin de la ville") suggère que les écrans végét
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 6.** *scil.* Dimanche.
-- Ligne 4 : **4 Lt** *abbr. pro* Lieutenant.
+- Ligne 1 : **1 Dim.** *scil.* Dimanche.
+- Ligne 4 : **4 Lt** *abbr. pro* Lieutenant. **4 Breakfast** *angl. in ms.*
 - Ligne 6 : **6 refilling point** *angl. in ms.*
-- Ligne 7 : **7 la** *lect. incert. in ms.*
-- Ligne 9 : **9 j.au** *scil.* jusqu'au.
+- Ligne 7 : **7** *lect. incert. in ms.*
+- Ligne 9 : **9 j.au** *scil.* jusqu'au. **9 St** *abbr. pro* Saint.
+- Ligne 13 : **13 militre** *abbr. pro* militaire.
 - Ligne 15 : **15 propre** *scil.* propriétaire.
-- Ligne 17 : **17 ph.** *scil.* Cartes Photos.
+- Ligne 16 : **16 c.** *abbr. pro* centimes.
+- Ligne 17 : **17 ph.** *scil.* Cartes Photos. **17 ctes ph.** *abbr. pro* cartes photographiques.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Sur rive canal l'Ecluse" : Lecture probable (le mot commence par l' et finit par use). Bac-Saint-Maur est situé sur la Lys canalisée, près d'une écluse stratégique pour le ravitaillement. — "À côté Mairie" : Lecture maintenue (le M majuscule est net). L'église et la mairie sont les repères centraux du village. — Graphie : Le mot commence par un 'h' (bouclé comme un 'b') et se termine par 'uitaine' avec la barre du 't'. — Sens : Une "huitaine" d'œufs. Le compte est bon (8 œufs à 10c + 1 bière à 10c = 90c).
+**l.~11 Murnier :** Première graphie du patronyme de son collègue interprète Maurin (orthographié *Maurin* dès le folio suivant). **l.~15--16 oeufs, huitaine, bière : 90c. :** Précision comptable pour l'achat de huit œufs et d'un verre de bière auprès de sa logeuse.
 
 ### IV. Commentaire historique
-"Murnier" : Patronyme probable d'un collègue interprète (ou Maurier). — "Musique militaire anglaise" : Scène de vie typique. Les régiments de la Garde se déplaçaient avec leur orchestre (Band). Le dimanche, des concerts étaient donnés pour le moral des troupes. — "Oeufs, huitaine" (CORRECTION VALIDÉE) :
+**l.~4--13 au refilling point, sur rive canal l'Ecluse... musique militre anglse :** Dès la fin du *breakfast*, le lieutenant Curtet entraîne Hippolyte à pied jusqu'au point de ravitaillement établi sur la Lys canalisée ; l'après-midi, l'interprète écoute sur l'herbe le concert dominical de la musique régimentaire britannique.
 
 ---
 
 ## Scan #014 — `20251126_093426.jpg` — Folio 7 recto
-- **Titre** : FOLIO 7 RECTO (Le "Messroom" et le "Shift")
-- **Date** : Lundi 7 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 7 RECTO (Quête de cantonnements, départ inopiné de la compagnie et nouvelle chambre)
+- **Date** : Lundi 7 août 1916
+- **Lieu** : Steenwerck et route de Bac-Saint-Maur (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -604,22 +637,26 @@ Mot difficile. Le contexte ("loin de la ville") suggère que les écrans végét
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 3 : **3 off.** *scil.* officiers. **3 billets** *angl. in ms.*
-- Ligne 7 : **7 Coy** *lect. incert. in ms.* **7 Coy** *scil.* Compagnie. **7 tte** *scil.* toute.
-- Ligne 15 : **15 propre** *scil.* propriétaire.
+- Ligne 2 : **2 Cie** *abbr. pro* Compagnie.
+- Ligne 3 : **3 off.** *scil.* officiers. **3 off** *abbr. pro* officier(s).
+- Ligne 7 : **7 Devant** *lect. incert. in ms.* **7 vide** *lect. incert. in ms.* **7 Coy** *scil.* Compagnie. **7 tte** *scil.* toute.
+- Ligne 8 : **8 shifte** *angl. in ms.*
+- Ligne 12 : **12 gds** *abbr. pro* grands. **12 St** *abbr. pro* Saint.
+- Ligne 13 : **13 1er** *scil.* premier.
+- Ligne 15 : **15 propre** *scil.* propriétaire. **15 cooking** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"au Qt Mr de Cie" : Lecture la plus probable pour "au Quarter Master de Compagnie". Le Quartermaster est l'officier d'intendance responsable des logements. Une autre lecture possible, moins fluide graphiquement, serait "au 1st Batt Irish Gds". — "Messroom" : Anglicisme pur pour désigner la salle de mess (popote). Le mot est écrit sans hésitation : le vocabulaire français technique disparaît. — Le mot : On lit distinctement "shifte". — Signification : C'est la preuve éclatante du bilinguisme opérationnel d'Hippolyte.
+**l.~2 au Qt Mr de Cie :** Abréviation bilingue pour *Quartermaster de Compagnie*. **l.~3 nouveaux billets et messroom / l.~8 tte la Coy shifte :** Intégration morphologique du verbe anglais *to shift* (changer d'emplacement), conjugué au présent français de la 3e personne.
 
 ### IV. Commentaire historique
-"tte la Coy shifte" (DÉCOUVERTE) : — L'analyse : C'est le verbe anglais to shift (changer de position, déplacer une unité), conjugué à la troisième personne du présent en français ("elle shifte"). — "Maurin" : Le nom de son collègue interprète (lu "Murnier" précédemment) semble se stabiliser ici.
+**l.~2--14 Toute matinée, au Qt Mr de Cie... Terminé journée avec Maurin :** Après avoir cherché toute la matinée sous une chaleur accablante des logements et une salle de popote (*messroom*) avec le *Quartermaster*, Hippolyte découvre à midi que la compagnie s'est déplacée dès 9 h et s'installe au premier étage d'une maison ombragée sur la route de Bac-Saint-Maur.
 
 ---
 
 ## Scan #015 — `20251126_093455.jpg` — Folio 7 verso
-- **Titre** : FOLIO 7 VERSO (L'Enfer Climatique)
-- **Date** : Mardi 8 et Mercredi 9 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 7 VERSO (Deux journées de canicule, de poussière et de moustiques dans la vallée de la Lys)
+- **Date** : Mardi 8 et mercredi 9 août 1916
+- **Lieu** : Route de Bac-Saint-Maur, Steenwerck (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -639,25 +676,24 @@ Mot difficile. Le contexte ("loin de la ville") suggère que les écrans végét
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 8.** *scil.* Mardi.
-- Ligne 2 : **2 extt** *scil.* extrêmement.
+- Ligne 2 : **2 extt** *scil.* extrêmement. **2 Tjs** *abbr. pro* Toujours.
 - Ligne 7 : **7 Food** *angl. in ms.*
 - Ligne 9 : **9 chalr** *scil.* chaleur.
-- Ligne 10 : **10 +** *scil.* plus.
+- Ligne 10 : **10 +** *scil.* plus. **10 ds** *abbr. pro* dans.
 - Ligne 12 : **12 gdes** *scil.* grandes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Food : eggs" : La transformation est achevée. Sa comptabilité personnelle bascule à 100% en anglais. Il ne traduit plus "Nourriture" ni "Oeufs".
+**l.~7 Food : eggs : 50 c :** Notation comptable intégralement rédigée en anglais. **l.~9 chalr / l.~12 gdes :** Abréviations par contraction avec maintien des consonnes finales (*chaleur*, *grandes*).
 
 ### IV. Commentaire historique
-La Poussière : Détail historique capital de l'été 1916. Le trafic ininterrompu des milliers de camions et chariots britanniques sur les routes de terre crayeuse des Flandres soulève un brouillard blanc permanent ("poussière") qui s'infiltre partout, obligeant les hommes à vivre calfeutrés malgré la canicule. — "Dévoré par les moustiques" : — La vallée de la Lys est une zone de marais et de canaux. Avec la chaleur, les moustiques pullulent.
+**l.~10--13 Routes si poussiéreuses... dévoré par les moustiques :** Tableau réaliste de l'été 1916 dans la plaine humide de la Lys : le charroi incessant des colonnes britanniques soulève des nuages de poussière blanche interdisant d'ouvrir les fenêtres le jour, tandis que les moustiques des canaux envahissent les chambres la nuit.
 
 ---
 
 ## Scan #016 — `20251126_093506.jpg` — Folio 8 recto
-- **Titre** : FOLIO 8 RECTO (Ruines, "Pays" et Australiens)
-- **Date** : Jeudi 10 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 8 RECTO (Promenade à Sailly-sur-la-Lys, l'église bombardée et l'éclusier méridional)
+- **Date** : Jeudi 10 août 1916
+- **Lieu** : Bac-Saint-Maur et Sailly-sur-la-Lys (Nord / Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -684,22 +720,24 @@ La Poussière : Détail historique capital de l'été 1916. Le trafic ininterrom
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Jeudi.
 - Ligne 5 : **5 tjs** *scil.* toujours.
+- Ligne 7 : **7 s/** *abbr. pro* sur.
+- Ligne 8 : **8 k.** *abbr. pro* kilomètres.
 - Ligne 14 : **14 lgts** *scil.* longtemps.
+- Ligne 20 : **20 ctes ph.** *abbr. pro* cartes photographiques.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Pluie enfin..." : Les deux premières lignes présentent une écriture très grasse et empâtée (bavure), mais le texte est continu et non barré. — "Sailly s/ la Lys" : Lecture certaine. Sailly-sur-la-Lys est situé sur la rive du Pas-de-Calais, face à Bac-Saint-Maur (Nord). L'église fut effectivement détruite par les bombardements. — "à 3 k. de Bac." : Abréviation pour Bac-Saint-Maur, son lieu de cantonnement. Le 'B' majuscule est identique à celui de "Bien" (folio 1). La distance de 3 km est exacte.
+**l.~8 à 3 k. de Bac. :** Abréviations topographique et métrique pour *à 3 kilomètres de Bac-Saint-Maur*. **l.~14--15 l'éclusier de notre pays, un chef ! :** Emploi affectueux du terme *pays* (compatriote méridional) et de l'appréciation familière *un chef*.
 
 ### IV. Commentaire historique
-"L'éclusier de notre pays" : — Sens : Dans l'argot des poilus, "un pays" désigne un compatriote originaire de la même région. — "Les Australiens" : Mention isolée et centrée. Elle atteste la présence des troupes de l'ANZAC dans le secteur d'Armentières, venues relever les lignes après l'hécatombe de la bataille de Fromelles (juillet 1916).
+**l.~6--19 Sailly s/ la Lys... Les Australiens :** Marchant le long de la Lys jusqu'au pont de Sailly-sur-la-Lys, Hippolyte observe l'église incendiée par les obus allemands, s'entretient longuement avec un éclusier originaire du Midi et note la présence des troupes australiennes (ANZAC), engagées quelques semaines plus tôt dans la sanglante bataille de Fromelles (19--20 juillet 1916).
 
 ---
 
 ## Scan #017 — `20251126_093529.jpg` — Folio 8 verso
-- **Titre** : FOLIO 8 VERSO (Le Bombardement)
-- **Date** : Vendredi 11 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 8 VERSO (Bombardement d'artillerie, mort d'un soldat et abri dans les caves de la blanchisserie)
+- **Date** : Vendredi 11 août 1916
+- **Lieu** : Erquinghem-Lys / Armentières (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -728,17 +766,17 @@ La Poussière : Détail historique capital de l'été 1916. Le trafic ininterrom
 - Ligne 14 : **14 qque** *scil.* quelque.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Document clé : Première expérience de la mort immédiate ("Soldat tué"). — "Temps à la pluie" : Lecture rectifiée. Le mot final comporte un jambage descendant ('p') et une terminaison en 'ie' ou 'ue'. Cela fait écho à la météo de la veille ("pluie enfin"). — "Maison voisine" : Lecture validée. Le mot commence par un 'v' assez net. Cela souligne la proximité du danger ("à 50 mètres"). — "Soldat tué" : Le mot est court et se termine par un accent. La lecture "tué" est graphiquement plus probable que "blessé" (mot plus long).
+**l.~7--8 gde Blanchisserie Barbe :** Graphie phonétique provisoire du nom de la blanchisserie industrielle *Barbry* (rectifiée par l'auteur au Folio 11 recto, Scan #022). **l.~10 bombardt :** Abréviation de *bombardement*.
 
 ### IV. Commentaire historique
-"Blanchisserie Barbe" : Le nom propre Barbe est très lisible. Il s'agit d'une blanchisserie industrielle locale (bâtiment en briques rouges avec de vastes caves servant d'abris). — "Nous étions" : Écrit petit dans l'interligne (bavure). Le sens est statique : ils se trouvaient à proximité au moment du tir. — "Vue campagne du côté..." :
+**l.~3--11 de 2 à 3, 40 ou 50 obus tombés... soldat tué :** Pris entre 14 h et 15 h sous un tir d'artillerie allemande d'une cinquantaine d'obus qui tue un soldat dans une maison située à cinquante mètres, Hippolyte et ses compagnons doivent se réfugier dans les caves de la grande blanchisserie d'Erquinghem-Lys, à l'ouest d'Armentières.
 
 ---
 
 ## Scan #018 — `20251126_093544.jpg` — Folio 9 recto
-- **Titre** : FOLIO 9 RECTO (L'Extase dans la Luzerne)
-- **Date** : Samedi 12 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 9 RECTO (Sieste au bord de la Lys dans un champ de luzerne face aux blés mûrs)
+- **Date** : Samedi 12 août 1916
+- **Lieu** : Rives de la Lys, Bac-Saint-Maur (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -764,20 +802,22 @@ Document clé : Première expérience de la mort immédiate ("Soldat tué"). —
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 6 : **6 lgs** *scil.* longtemps.
+- Ligne 11 : **11 s/** *abbr. pro* sur.
+- Ligne 13 : **13 s/** *abbr. pro* sur.
 - Ligne 15 : **15 lunch** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Chaleur caniculaire" : Lecture assurée. Le mot est tracé nerveusement (les boucles sont écrasées), mais la terminaison en "-aire" et le contexte ("soleil torride") ne laissent aucun doute. C'est l'adjectif exact pour cette vague de chaleur historique. — lgs : Abréviation courante pour longtemps (ou lgts). — "Devant ^vaste champs" : Un petit mot est inséré dans l'interligne avec un signe d'ajout. La graphie correspond à "vaste" (plus probable que "beaux").
+**l.~9 devant vaste champs :** Le mot *vaste* est inséré dans l'interligne supérieur pour préciser l'étendue des cultures. **l.~11--17 Allongé s/ le dos... Après lunch :** Inversion chronologique dans la rédaction : la mention de la lecture d'après *lunch* est ajoutée au bas du feuillet après les dépenses de lait.
 
 ### IV. Commentaire historique
-"Causé lgs avec éclusier" : — L'Éclusier : Il s'agit du "brave éclusier de notre pays" (le Méridional) rencontré le 10 août. Ce personnage devient une figure récurrente, un lien affectif avec sa terre natale. — "Nuages floconneux collés" : Le participe "collés" décrit parfaitement ces cumulus de chaleur qui semblent immobiles, plaqués sur le ciel bleu, accentuant l'impression de lourdeur atmosphérique.
+**l.~5--13 Venu promener le long rives la Lys... nuages floconneux :** Après une nouvelle halte auprès de l'éclusier méridional, l'interprète goûte une heure de paix bucolique allongé à l'ombre en bordure d'un champ de luzerne et de blés dorés, sous le ciel bleu des Flandres.
 
 ---
 
 ## Scan #019 — `20251126_093618.jpg` — Folio 9 verso
-- **Titre** : FOLIO 9 VERSO (Spleen et Orage)
-- **Date** : Dimanche 13 et Lundi 14 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 9 VERSO (Attente vaine d'une lettre de Marguerite, « porte-au-noir » et orage sur la Lys)
+- **Date** : Dimanche 13 et lundi 14 août 1916
+- **Lieu** : Bac-Saint-Maur et direction d'Armentières (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -804,23 +844,24 @@ Document clé : Première expérience de la mort immédiate ("Soldat tué"). —
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 –** *scil.* Dimanche.
+- Ligne 1 : **1 D** *scil.* Dimanche.
 - Ligne 4 : **4 Margte** *scil.* Marguerite.
-- Ligne 9 : **9 –** *scil.* Lundi.
+- Ligne 9 : **9 L** *scil.* Lundi.
+- Ligne 15 : **15 s/** *abbr. pro* sur.
 - Ligne 17 : **17 Lt** *abbr. pro* Lieutenant.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Document Clé : Il contient une métaphore dépressive ("Porte-au-noir") et une description technique de la boue ("colle") et de l'architecture de sa chambre ("vitre oblique"). — Lecture : "Et le Soir" (le 'S' majuscule est net). — Sens : Jeu de mots mélancolique sur le "Pot-au-noir" (zone de tempêtes et de vents morts). L'absence de lettre de Marguerite plonge sa soirée dans le "noir" (dépression), contrastant avec le "Soleil ardent" de la journée. — "Forte touffeur" : Le mot est écrasé par une tache d'encre, mais on devine les deux 'f'.
+**l.~5 Et le Soir, porte-au-noir :** Création verbale ou variante du terme maritime *pot-au-noir*, motivée par l'idée d'une porte ouvrant sur la mélancolie nocturne. **l.~11 mouille (colle) cette poussière :** Glose parenthétique immédiate précisant l'effet physique de l'averse sur la poussière crayeuse.
 
 ### IV. Commentaire historique
-"Et le Soir, porte-au-noir" : — "Maurin" : Le nom de son collègue interprète est ici parfaitement lisible. — "Pluie très [forte]" : L'adjectif manque, ou "très" est utilisé comme adverbe intensif pour "a très rafraîchi". — "Mouille ( colle ) cette poussière" : — Analyse : C'est une observation matérielle précise. La pluie sur la poussière de craie flamande ne fait pas que mouiller : elle crée instantanément une substance collante (la boue des tranchées). — "Zébrer écran de vitre oblique" :.
+**l.~3--18 attendre en vain un mot de Margte... Avec Lt Curtet, course à cheval :** À la veille de son quarantième anniversaire (14 août 1916), l'absence de courrier de Marguerite Calmels plonge Hippolyte dans le spleen dominical ; le lendemain après-midi, après un violent orage qui abat la poussière des routes, il accompagne à cheval le lieutenant Curtet vers Armentières.
 
 ---
 
 ## Scan #020 — `20251126_093746.jpg` — Folio 10 recto
-- **Titre** : FOLIO 10 RECTO (L'Assomption au Grenier)
-- **Date** : Mardi 15 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 10 RECTO (Journée pluvieuse du 15 août dans la mansarde et comptes de blanchissage)
+- **Date** : Mardi 15 août 1916 (Assomption)
+- **Lieu** : Bac-Saint-Maur / Steenwerck (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -840,23 +881,23 @@ Document Clé : Il contient une métaphore dépressive ("Porte-au-noir") et une 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Assompt.** *scil.* Assomption.
 - Ligne 3 : **3 Aucun** *scil.* Aucune.
-- Ligne 5 : **5 hte** *scil.* haute.
+- Ligne 5 : **5 hte** *scil.* haute. **5 ds** *abbr. pro* dans.
 - Ligne 8 : **8 tt** *scil.* tout.
 - Ligne 10 : **10 propie** *scil.* propriétaire.
-- Ligne 11 : **11 derne** *scil.* dernière. **11 washing** *angl. in ms.*
+- Ligne 11 : **11 derne** *scil.* dernière. **11 f.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : Le mot "pente" est très lisible. — "Où me tiens sans cesse" : Lecture probable de la fin de ligne hachurée (bavure). Cela souligne son inactivité forcée. — Le premier mot commence par un grand 'D' à boucle, identique à celui de "Donné" à la ligne suivante. La lecture "Depuis" est certaine (et non "Reçu" ou "Règne"). — "Washing" : Hippolyte utilise le mot anglais pour blanchissage. (La lecture "Cooking" est erronée, le 'w' initial est distinct). — "Derne" : Abréviation classique pour dernière.
+**l.~1 15 Ma – Assompt. :** Mention liturgique abrégée de la fête de l'Assomption en tête de folio. **l.~10--11 Donné à ma propie pour washing semaine derne et 2 p. lait : 5 f. :** Mélange intime des abréviations françaises (*propie* pour propriétaire, *derne* pour dernière) et de l'anglais (*washing*, *pints* ou pots de lait).
 
 ### IV. Commentaire historique
-"Haute pente de plafond" : — Architecture : Cette précision confirme qu'il loge dans un grenier sous combles dont le toit descend bas, mais qui offre un beau volume ("Large pièce"). C'est le "Garret" mentionné précédemment. — "Depuis tt ce matin" : — "Washing semaine derne... 2 p. lait" : — "2 p. lait" : Le 'p' désigne probablement des pints (pintes anglaises, environ 0,57 litre) ou des pots (mesure locale). L'unité diffère du litre ("l.") qu'il utilise parfois.
+**l.~2--9 fortes ondées... épais brouillards :** Retenu tout le jour de l'Assomption par des averses continuelles et les routes détrempées, Hippolyte demeure à la fenêtre de sa vaste chambre mansardée à contempler la campagne flamande noyée de brume.
 
 ---
 
 ## Scan #021 — `20251126_093843.jpg` — Folio 10 verso
-- **Titre** : FOLIO 10 VERSO (Giboulées et l'Entêté Curtet)
-- **Date** : Vendredi 18 et Samedi 19 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 10 VERSO (Giboulées d'août, perception de la solde et chevauchée sous l'orage avec Curtet)
+- **Date** : Vendredi 18 et samedi 19 août 1916
+- **Lieu** : Steenwerck, Fleurbaix et secteur d'Armentières (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -886,27 +927,29 @@ Lecture : Le mot "pente" est très lisible. — "Où me tiens sans cesse" : Lect
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Vendredi.
+- Ligne 1 : **1 Ve.** *scil.* Vendredi.
 - Ligne 5 : **5 ds** *abbr. pro* dans. **5 refilling point** *angl. in ms.*
 - Ligne 7 : **7 j. à** *abbr. pro* jusqu'à.
-- Ligne 11 : **11 .** *scil.* Company.
+- Ligne 11 : **11 Coy.** *scil.* Company. **11 Coy** *angl.* Company.
 - Ligne 12 : **12** *in marg. cum unco* (comptes).
-- Ligne 14 : **14 .** *scil.* Samedi.
+- Ligne 13 : **13 fr.** *abbr. pro* franc(s).
+- Ligne 14 : **14 S.** *scil.* Samedi. **14 Tte** *abbr. pro* Toute.
 - Ligne 15 : **15 pt** *scil.* petit.
 - Ligne 16 : **16 délic.** *scil.* délicieuse.
+- Ligne 21 : **21 poney** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : "Vives" (mot court en v) est préférable à "vraies". La comparaison météorologique ("comme en mars") traduit le dérèglement climatique ressenti. — "Température rafraîchie délic.[ieuse]" : — Déchiffrement : Le mot présente deux barres de 't' hautes et finit par 'é'. La lecture "entêté" est certaine. — Psychologie : Ce qualificatif complète le "fou" du 29 juillet. Curtet est l'officier zélé et têtu qui méprise le danger et force l'interprète civil à sortir sous la grêle ("Dû l'accompagner").
+**l.~12--13 [ – Solde & indemnité de fonctions : 84 fr. :** Note comptable encadrée d'un crochet au milieu de la page pour séparer le vendredi 18 du samedi 19 août. **l.~19 ce entêté de Curtet :** Absence d'élision démonstrative devant voyelle (*ce entêté*), indice d'une insertion expressive rapide.
 
 ### IV. Commentaire historique
-"Vives giboulées comme en mars" : — "Tte la nuit" : La ligne commence de manière abrupte, suggérant "Pluie tte la nuit" (implicite ou effacé). — Après la canicule, le froid est un plaisir physique ("délice"), même sous la pluie. — "Ce entêté de Curtet" (PORTRAIT CLÉ) : — "Sur un bon poney" : — Nuance importante : Hippolyte précise "bon" poney. Connaissant sa piètre vue et son statut, avoir une monture fiable est vital pour une sortie en "zone exposée" (à portée des canons allemands), sur des routes glissantes.
+**l.~19--23 Dû l'accompagner à cheval... derrière ligne de feu :** Malgré des averses glaciales semblables à des giboulées de mars, le lieutenant Curtet oblige l'interprète à monter à cheval à 14 h 30 pour une longue reconnaissance dans la zone battue par l'artillerie allemande, immédiatement en arrière des tranchées de Fleurbaix.
 
 ---
 
 ## Scan #022 — `20251126_093857.jpg` — Folio 11 recto
-- **Titre** : FOLIO 11 RECTO (Armentières, la Ville Écorchée)
-- **Date** : Samedi 19 août 1916 (Suite de la chevauchée).
-- **Lieu** : Armentières (Ville du front, quasi détruite).
+- **Titre** : FOLIO 11 RECTO (Traversée de Fleurbaix et d'Armentières dévastées par les obus)
+- **Date** : Samedi 19 août 1916 (suite)
+- **Lieu** : Erquinghem-Lys, Fleurbaix et Armentières (Pas-de-Calais / Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -937,28 +980,29 @@ Lecture : "Vives" (mot court en v) est préférable à "vraies". La comparaison 
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 –** *scil.* Samedi.
-- Ligne 2 : **2 la** *scil.* jusqu'à la.
+- Ligne 1 : **1 Sam** *scil.* Samedi.
+- Ligne 2 : **2 la** *scil.* jusqu'à la. **2 j. à** *abbr. pro* jusqu'à.
 - Ligne 4 : **4 dr.** *scil.* droite.
 - Ligne 5 : **5 ttes** *scil.* toutes.
+- Ligne 8 : **8 complt** *abbr. pro* complètement.
 - Ligne 10 : **10 b.** *scil.* belles.
-- Ligne 18 : **18 p.** *scil.* plus grande partie.
-- Ligne 20 : **20 ...** *lect. incert. in ms.*
+- Ligne 18 : **18 p.** *scil.* plus grande partie. **18 gde** *abbr. pro* grande.
+- Ligne 20 : **20 Grosses** *lect. incert. in ms.*
 - Ligne 21 : **21 Gde** *scil.* Grande.
 - Ligne 22 : **22 off** *scil.* officier.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Correction : Au folio 8, Hippolyte écrivait phonétiquement "Barbe". Ici, il rectifie : Barbry. Il s'agit de la grande blanchisserie industrielle d'Erquinghem-Lys (famille Barbry), réquisitionnée pour l'hygiène des troupes (bains, désinfection). — Passage ajouté entre parenthèses, d'une écriture hâtive. La gare d'Armentières était une cible stratégique anéantie. — La syntaxe est bousculée (sans doute : "offrent le spectacle de...").
+**l.~2 blanchisserie Barbry :** Rectification orthographique du patronyme *Barbry* (écrit *Barbe* au Scan #017). **l.~10--18 b. maisons / La + gde p. :** Abréviations pour *belles maisons* et *La plus grande partie*.
 
 ### IV. Commentaire historique
-"Blanchisserie Barbry" : — "( l' aspect est complt désolé )" : — "Offrent des bombardements grands dommages" : — "Grosses..." : — "1 off. des Sussex" :
+**l.~3--22 Fleurbaix... Armentières... 1 off des Sussex :** Poursuivant leur chevauchée par la blanchisserie Barbry et Fleurbaix criblé d'obus, Hippolyte et Curtet parcourent les quartiers déserts d'Armentières (gare dévastée, toits éventrés, clocher découronné, cloisons d'appartements mises à nu), puis prennent le thé au retour à Erquinghem-Lys avec un officier du *Royal Sussex Regiment*.
 
 ---
 
 ## Scan #023 — `20251126_093922.jpg` — Folio 11 verso
-- **Titre** : FOLIO 11 VERSO (Le "Very Belle" et l'Idiot)
-- **Date** : Dimanche 20 et Lundi 21 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 11 VERSO (Café chez M. Barbry avec les adjudants Lupin et Schumacher et préparatifs de départ)
+- **Date** : Dimanche 20 et lundi 21 août 1916
+- **Lieu** : Erquinghem-Lys et Steenwerck (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -989,11 +1033,12 @@ Correction : Au folio 8, Hippolyte écrivait phonétiquement "Barbe". Ici, il re
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 –** *scil.* Dimanche.
+- Ligne 1 : **1 D** *scil.* Dimanche.
+- Ligne 2 : **2 sunshine** *angl. in ms.*
 - Ligne 5 : **5 green** *angl. in ms.*
 - Ligne 6 : **6 étaient** *lect. incert. in ms.* **6 propre** *scil.* propriétaire.
 - Ligne 13 : **13 gd** *scil.* grand.
-- Ligne 15 : **15 .** *scil.* Lundi.
+- Ligne 15 : **15 L.** *scil.* Lundi. **15 very** *angl. in ms.*
 - Ligne 16 : **16 c.** *scil.* court.
 - Ligne 17 : **17 mervx** *scil.* merveilleux. **17 sunset** *angl. in ms.*
 - Ligne 21 : **21 bte** *scil.* boite.
@@ -1002,17 +1047,17 @@ Correction : Au folio 8, Hippolyte écrivait phonétiquement "Barbe". Ici, il re
 - Ligne 24 : **24 groom** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Document Majeur : Ces lignes contiennent la preuve du "pidgin" (mélange de langues) d'Hippolyte et confirment son lien vital avec Nogent-le-Rotrou. — Le Basculement : Hippolyte n'écrit plus "éclaircies" (mot français), il écrit spontanément Sunshine. L'anglais devient la langue de ses sensations physiques. — L'Insulte : Le mot "idiot" est net. Le nom qui suit commence par un C majuscule bouclé identique aux occurrences précédentes. Il s'agit bien du lieutenant Curtet.
+**l.~2 averses & sunshine / l.~4 to the fields for green forage / l.~15 Journée very belle / l.~17 mervx sunset :** Sommet du bilinguisme spontané du carnet, où l'adverbe anglais *very* modifie directement l'adjectif français *belle*, tandis que *mervx* abrège *merveilleux* devant *sunset*.
 
 ### IV. Commentaire historique
-"Averses & Sunshine" : — "Avec cet idiot de Curtet" (LA RUPTURE) : — "Lupin & Schumacher" : Noms probables d'adjudants français (gendarmes ou interprètes) avec qui il fraternise (café et rhum) loin des officiers britanniques. — "Me fais fête" : Expression désuète pour "Je me réjouis à l'avance". — "Banalité & platitude extrême" : Le jugement esthétique sévère de l'Aveyronnais habitué aux Causses, face à la plaine flamande infinie. — "Journée very belle" (DÉCOUVERTE LINGUISTIQUE) :.
+**l.~5--7 chez le propre M. Barbry y étaient adjudants Lupin & Schumacher :** Après la corvée de fourrage vert avec Curtet, Hippolyte partage café et rhum chez l'industriel M. Barbry en compagnie des adjudants français Lupin et Schumacher (ce dernier déjà mentionné dans sa lettre du 21 février 1916), puis expédie le lendemain une boîte d'effets à son domicile de Nogent-le-Rotrou.
 
 ---
 
 ## Scan #024 — `20251126_093941.jpg` — Folio 12 recto
-- **Titre** : FOLIO 12 RECTO (Le Linge de Nogent et le Sunset)
-- **Date** : Mardi 22 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 12 RECTO (Dîner chez un charcutier de Bac-Saint-Maur et envoi d'un sac de linge à Nogent-le-Rotrou)
+- **Date** : Mardi 22 août 1916
+- **Lieu** : Steenwerck et Bac-Saint-Maur (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -1038,25 +1083,25 @@ Document Majeur : Ces lignes contiennent la preuve du "pidgin" (mélange de lang
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma** *scil.* Mardi.
-- Ligne 2 : **2 fait** *scil.* tout à fait.
-- Ligne 4 : **4 .** *scil.* minutes.
+- Ligne 2 : **2 fait** *scil.* tout à fait. **2 tt** *abbr. pro* tout.
+- Ligne 4 : **4 m.** *scil.* minutes.
 - Ligne 9 : **9 Proprié** *scil.* Propriétaire.
 - Ligne 11 : **11 sunset** *angl. in ms.*
 - Ligne 12 : **12 brigade** *lect. incert. in ms.* **12 commre** *scil.* commissionnaire.
-- Ligne 16 : **16 ph** *scil.* Cartes photos.
+- Ligne 16 : **16 ctes ph.** *scil.* Cartes photos.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : Le mot "heure" (avec la boucle caractéristique du h) est plus probable graphiquement que "tasse" ou "bière". Hippolyte insiste sur la durée de cet échange convivial. — "Salle manger" : Ellipse de la préposition "à". L'installation dans la salle à manger du commerçant marque une intrusion heureuse dans la vie civile. — Lecture : Le mot présente une boucle descendante typique d'un 'p' ou d'un 'g'. "Soupé" (dîné) est cohérent avec le lieu ("salle à manger") et l'heure (soirée). Ils ont partagé le repas du charcutier.
+**l.~8 salle manger :** Omission télégraphique de la préposition *à*. **l.~12 1 commre de brigade :** Abréviation pour *commissionnaire* (ou *commissaire*) *de brigade*. **l.~14--15 factage à l'arrivée compris (40c). – Timbrage au départ : 50c :** Vocabulaire technique ferroviaire précis, souvenir de son ancien métier de sous-chef de gare à Brive-la-Gaillarde.
 
 ### IV. Commentaire historique
-"Bonne heure de causerie" : — "& y soupé" : — "1 sac linge à Nogent" : — Preuve Biographique : Hippolyte expédie 13 kilos de linge à Nogent-le-Rotrou. Cela prouve qu'il considère toujours cette ville (où sa sœur Joséphine est morte en 1914) comme sa base arrière et son domicile légal. Il y stocke ses affaires civiles et une personne de confiance s'occupe de sa logistique. — "Bain : 1 f" : Dépense d'hygiène importante (un bain chaud), signe de son souci constant de propreté corporelle ("Smartness" britannique) et de confort.
+**l.~6--15 retrouvé Maurin... 1 sac linge à Nogent, par gare de Steenwerck : 13 kgs :** Après une promenade vespérale avec son collègue Maurin et un souper convivial chez un charcutier de Bac-Saint-Maur, Hippolyte expédie de la gare de Steenwerck un sac de 13 kg de linge vers sa maison du 17 rue Saint-Hilaire à Nogent-le-Rotrou.
 
 ---
 
 ## Scan #025 — `20251126_093955.jpg` — Folio 12 verso
-- **Titre** : FOLIO 12 VERSO (Estaires et la Santé par le Sport)
-- **Date** : Mercredi 23 août 1916.
-- **Lieu** : Estaires (Nord).
+- **Titre** : FOLIO 12 VERSO (Chevauchée jusqu'à Estaires : l'église Saint-Vaast, l'Hôtel de Ville et l'hygiène par l'exercice)
+- **Date** : Mercredi 23 août 1916
+- **Lieu** : Estaires (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -1088,19 +1133,20 @@ Lecture : Le mot "heure" (avec la boucle caractéristique du h) est plus probabl
 - Ligne 4 : **4 ds** *abbr. pro* dans.
 - Ligne 6 : **6 j-à** *scil.* jusqu'à.
 - Ligne 14 : **14 est** *scil.* sont.
+- Ligne 20 : **20 ctes ph.** *abbr. pro* cartes photographiques.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Temps ouvert" : Lecture probable (le ciel est dégagé). — Document Historique : Hippolyte décrit le patrimoine d'Estaires (église Saint-Vaast du XVIe siècle, Hôtel de Ville Renaissance). En avril 1918, lors de la bataille de la Lys, la ville sera entièrement rasée. Ce carnet est un inventaire avant destruction. — "Souvent routes desséchées" : Le mot "Souvent" (S majuscule) traduit la récurrence de la poussière dès qu'il ne pleut plus. — Philosophie : Hippolyte théorise son équilibre.
+**l.~7 & x magasins :** Emploi du signe mathématique *x* comme abréviation indéfinie pour *nombreux / multiples*. **l.~14 Environs, est plats / l.~17--18 Dépense d'activité & fatigues physique est le bien du moral :** Accords au singulier témoignant d'une rédaction rapide au fil de la plume.
 
 ### IV. Commentaire historique
-"x magasins" : Le signe x est utilisé pour "multiples" ou "nombreux". La vitalité commerciale d'Estaires surprend le soldat. — "Hôtel de ville... St Ambroise" : — "Plats & vulgaires" : — Le jugement de l'Aveyronnais sur la Flandre est sévère. "Vulgaire" signifie ici "sans caractère", "commun". L'absence de relief l'oppresse ("lourde"). — "Est le bien du moral" : — "Sensation d'élasticité" : — "1/4 livre bonbons chocolat" : — L'unité de poids est la livre (500g). Il achète donc 125 grammes de chocolat.
+**l.~5--11 arrivé j-à Estaires. Visité longuement cette petite ville :** Au cours d'une promenade à cheval jusqu'à Estaires sur la Lys, l'interprète décrit l'animation commerçante de la cité, les stalles ogivales et les statues de bois sculpté (Saint Ambroise) de l'église Saint-Vaast ainsi que les armoiries peintes de l'Hôtel de Ville — témoignage précieux sur un patrimoine entièrement anéanti en avril 1918.
 
 ---
 
 ## Scan #026 — `20251126_094019.jpg` — Folio 13 recto
-- **Titre** : FOLIO 13 RECTO (Le Signe de Saint-Hippolyte)
-- **Date** : Jeudi 24 août 1916.
-- **Lieu** : Steenwerck (Nord).
+- **Titre** : FOLIO 13 RECTO (La relique de saint Hippolyte en l'église de Steenwerck et les adieux aux Flandres)
+- **Date** : Jeudi 24 août 1916
+- **Lieu** : Steenwerck (Nord)
 
 ### I. Transcription diplomatique
 ```text
@@ -1125,22 +1171,26 @@ Lecture : Le mot "heure" (avec la boucle caractéristique du h) est plus probabl
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 24** *scil.* Jeudi.
+- Ligne 3 : **3 y** *scil.* et.
+- Ligne 6 : **6 St** *abbr. pro* Saint. **6 y** *scil.* et.
 - Ligne 9 : **9 ts** *scil.* tous.
-- Ligne 14 : **14 1f** *lect. incert. in ms.*
+- Ligne 14 : **14 etaples** *lect. incert. in ms.* **14 f.** *abbr. pro* franc(s).
+- Ligne 16 : **16 Tip** *angl. in ms.*
+- Ligne 17 : **17 Mme** *abbr. pro* Madame. **17 cooking** *angl. in ms.*
+- Ligne 18 : **18 fr.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Déchiffrement : Le mot "relique" est tracé rapidement mais les lettres St Hippolyte et l'exclamation mon patron ! (mon saint patron) lèvent toute ambiguïté.
+**l.~3 ciel y brille :** Ici *y* a valeur d'adverbe de lieu ou de conjonction. **l.~10 les a porter :** Graphie phonétique de l'infinitif pour le participe passé *portés*. **l.~17--18 Donné à Mme Cliquennois, pour cooking, Séchage et divers : 4 fr. :** Règlement des comptes de logement avant le départ.
 
 ### IV. Commentaire historique
-"Entré pour me..." : Le verbe "Entré" (dans l'église) est implicite mais logique avant "reposer". — "Découvrir relique St Hippolyte, mon patron !" : — Sens Biographique : Pour cet homme prénommé Hippolyte, trouver son "patron" la veille d'un départ vers l'inconnu est un signe fort. Le point d'exclamation trahit son émotion et une forme de superstition de soldat (protection céleste). — "Esther" : — Observation : Le prénom est très lisiblement écrit "Esther". C'est un prénom féminin, mais le participe "venu" est masculin.
+**l.~5--13 découvrir relique St Hippolyte mon patron ! ... Mme Cliquennois :** Entré se recueillir dans l'église Saint-Jean-Baptiste de Steenwerck à la veille de quitter les Flandres, Hippolyte Combes a la surprise émue d'y découvrir une relique de son saint patron, saint Hippolyte, puis fait transporter ses bagages par Esther sous la tente du bureau de la compagnie et règle 4 francs à son hôtesse Mme Cliquennois.
 
 ---
 
 ## Scan #027 — `20251126_094045.jpg` — Folio 13 verso
-- **Titre** : FOLIO 13 VERSO (Le Train vers l'Artois)
-- **Date** : Vendredi 25 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 13 VERSO (Embarquement ferroviaire à Bailleul et descente par Hazebrouck et Lillers vers Saint-Pol-sur-Ternoise)
+- **Date** : Vendredi 25 août 1916
+- **Lieu** : De Steenwerck et Bailleul à Saint-Pol-sur-Ternoise (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1166,23 +1216,24 @@ Déchiffrement : Le mot "relique" est tracé rapidement mais les lettres St Hipp
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 25** *scil.* Vendredi.
+- Ligne 1 : **1 Ven.** *scil.* Vendredi.
 - Ligne 2 : **2 m.** *scil.* matin.
+- Ligne 4 : **4 m.** *abbr. pro* matin.
 - Ligne 8 : **8 plusies** *scil.* plusieurs. **8 imptes** *scil.* importantes.
-- Ligne 10 : **10 .** *scil.* soir.
+- Ligne 10 : **10 s.** *scil.* soir.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Esthétique : La lecture "gerbes d'or" est certaine (le 'd' est bouclé).
+**l.~8 Traversé plusies gares imptes sans arrêt :** Abréviations tachygraphiques *plusies* (*plusieurs*) et *imptes* (*importantes*). **l.~9--10 Hazebrouck : 2H / Berguette : 2H30 :** Relevé horaire marginal disposé en colonne à droite des étapes de Lillers et de Saint-Pol.
 
 ### IV. Commentaire historique
-L'Itinéraire Ferroviaire : — Le train descend vers le Sud-Ouest. — Hazebrouck (2H) $\rightarrow$ Berguette (Gare d'Isbergues, 2H30) $\rightarrow$ Lillers $\rightarrow$ Saint-Pol-sur-Ternoise (Terminus, 4H30). — Saint-Pol est un nœud ferroviaire vital à l'arrière du front d'Artois et de la Somme. — "Gerbes d'or entassées" : — Géographie Sensible : L'Aveyronnais respire enfin. Il quitte le "Plat Pays" flamand (qu'il jugeait "vulgaire") pour les collines verdoyantes du Ternois.
+**l.~4--19 Embarquement chevaux & wagons... Région très boisée :** Parti à cheval à 8 h pour embarquer chevaux et fourgons en gare de Bailleul à midi et demi, le train militaire descend vers le sud par Hazebrouck (14 h), Berguette/Isbergues (14 h 30) et Lillers (14 h 30) jusqu'à Saint-Pol-sur-Ternoise (16 h 30), où l'Aveyronnais retrouve avec bonheur les collines boisées et les meules dorées de l'Artois.
 
 ---
 
 ## Scan #028 — `20251126_094058.jpg` — Folio 14 recto
-- **Titre** : FOLIO 14 RECTO (Le Spleen et le Lit de Curtet)
-- **Date** : Vendredi 25 août 1916 (Suite).
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 14 RECTO (Mélancolie du voyage en train au son de l'harmonica et arrivée nocturne à Marquay)
+- **Date** : Vendredi 25 août 1916 (suite)
+- **Lieu** : De Bailleul à Saint-Pol et Marquay (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1210,29 +1261,29 @@ L'Itinéraire Ferroviaire : — Le train descend vers le Sud-Ouest. — Hazebrou
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 )** *scil.* Vendredi.
-- Ligne 2 : **2 le** *scil.* dans le.
+- Ligne 1 : **1 Ven.** *scil.* Vendredi.
+- Ligne 2 : **2 le** *scil.* dans le. **2 ds** *abbr. pro* dans.
 - Ligne 6 : **6 abrutisst** *scil.* abrutissement.
-- Ligne 7 : **7 notre** *lect. incert. in ms.* **7 intellge** *scil.* intelligence.
+- Ligne 7 : **7 gens** *lect. incert. in ms.* **7 envahi** *lect. incert. in ms.* **7 intellge** *scil.* intelligence.
 - Ligne 9 : **9 bas** *scil.* plus en plus.
 - Ligne 11 : **11 délicieust** *scil.* délicieusement.
 - Ligne 14 : **14 j. à** *abbr. pro* jusqu'à.
 - Ligne 17 : **17 bp** *scil.* beaucoup.
 - Ligne 20 : **20 off** *scil.* officiers. **20 mess** *angl. in ms.*
-- Ligne 21 : **21 Food** *angl. in ms.*
+- Ligne 21 : **21 f.** *abbr. pro* franc(s). **21 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : Le mot "abrutisst" (abrutissement) est écrit avec une graphie rapide mais le sens est confirmé par "bête indifférence". — "Rouge mouvant" : Lecture probable pour décrire les nuages au couchant ou sous l'orage. Une autre lecture serait "orage montant". — Transcription : Le nom est griffonné mais le C majuscule est identique à celui des folios précédents. Le démonstratif "ce" est la clé : il marque la distance et le mépris.
+**l.~6--7 L'abrutisst & bête indifférence des gens a envahi notre intellge :** Abréviations internes *abrutisst* (*abrutissement*) et *intellge* (*intelligence*). **l.~11 délicieust :** Finale adverbiale abrégée en *-st* (*délicieusement*).
 
 ### IV. Commentaire historique
-"Joué par hommes, musique d'harmonica" : — L'harmonica est l'instrument du soldat par excellence. Hippolyte note la banalité de cette scène d'attente sur les quais, qui renforce son sentiment de vide. — "L'abrutisst & bête indifférence" : — Philosophie : Hippolyte analyse sa propre déshumanisation. La routine militaire ("l'abrutissement") endort l'esprit ("intelligence") et les émotions ("cœur"), réduisant les hommes à un troupeau indifférent. — "Par la bise de tilleuls" : "Bise" (vent) est cohérent avec "brise" et "caresse".
+**l.~2--20 En gare de Bailleul... arrivé à Marquay... lit à côté celui de ce Curtet :** Ce feuillet revient sur les impressions morales du trajet ferroviaire : l'air monotone d'harmonica joué par les soldats inspire à l'universitaire une méditation amère sur l'engourdissement intellectuel de la guerre, avant une marche sous la pluie battante jusqu'au hameau de Marquay, où il doit partager une étroite chambrette avec le lieutenant Curtet.
 
 ---
 
 ## Scan #029 — `20251126_094159.jpg` — Folio 14 verso
-- **Titre** : FOLIO 14 VERSO (La Coqueluche et la Vieille Tortue)
-- **Date** : Samedi 26 août 1916.
-- **Lieu** : Bailleul-aux-Cornailles (Pas-de-Calais).
+- **Titre** : FOLIO 14 VERSO (Promenade sur le plateau de Bailleul-aux-Cornailles et portrait au vitriol de la logeuse)
+- **Date** : Samedi 26 août 1916
+- **Lieu** : Marquay et Bailleul-aux-Cornailles (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1260,22 +1311,22 @@ Lecture : Le mot "abrutisst" (abrutissement) est écrit avec une graphie rapide 
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 –** *scil.* Samedi.
-- Ligne 18 : **18 .** *scil.* Ouest. **18 sunset** *angl. in ms.*
+- Ligne 1 : **1 Sam.** *scil.* Samedi.
+- Ligne 18 : **18 O.** *scil.* Ouest. **18 sunset** *angl. in ms.*
 - Ligne 19 : **19 installat°** *scil.* installation.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Très beau sunset" : L'anglicisme esthétique est désormais systématique pour décrire les couchers de soleil. — Lecture : Le mot "coqueluche" est parfaitement lisible.
+**l.~3 aux murs nuds :** Conservation de la graphie archaïque et étymologique *nuds* (latin *nudos*). **l.~19 installat° :** Abréviation par exposant rond (*installation*). **l.~20--21 Gosse, coqueluche... vieille tortue ! :** Style nominal haché exprimant l'exaspération du logeur.
 
 ### IV. Commentaire historique
-"Aux murs nuds" : Graphie ancienne pour "nus". Souligne l'austérité monacale du lieu. — "Bailleul-aux-Cornailles" : Précision géographique pour distinguer ce village (Pas-de-Calais) de la ville de Bailleul (Nord). — "Où bruit le vent" : Verbe bruire. Hippolyte est attentif à la musique de la nature qui contraste avec l'harmonica "banal". — "Gosse , coqueluche" (DANGER) : — Contexte : Hippolyte loge dans une famille dont l'enfant a la coqueluche.
+**l.~7--21 village de Bailleul-aux-Cornailles... maison humide :** Profitant d'une accalmie après les ondées matinales, Hippolyte marche sur le plateau découvert jusqu'à Bailleul-aux-Cornailles (à 3 km de Marquay), admire un beau coucher de soleil (*sunset*) à l'ouest, mais déplore au retour l'inconfort de son cantonnement humide où un enfant tousse de la coqueluche.
 
 ---
 
 ## Scan #030 — `20251126_094215.jpg` — Folio 15 recto
-- **Titre** : FOLIO 15 RECTO (Boue, Idiotie et Espoir Roumain)
-- **Date** : Lundi 28 et Mardi 29 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 15 RECTO (Bourbiers d'Artois, corvées de fourrage avec Curtet et entrée en guerre de la Roumanie)
+- **Date** : Lundi 28 et mardi 29 août 1916
+- **Lieu** : Marquay (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1306,7 +1357,6 @@ Lecture : Le mot "abrutisst" (abrutissement) est écrit avec une graphie rapide 
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Lundi.
 - Ligne 7 : **7** ⟦du reste⟧ *del. in ms.*
 - Ligne 8 : **8 green** *angl. in ms.*
 - Ligne 11 : **11 +** *scil.* plus.
@@ -1315,17 +1365,17 @@ Lecture : Le mot "abrutisst" (abrutissement) est écrit avec une graphie rapide 
 - Ligne 16 : **16 Ma** *scil.* Mardi.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Le Mot Juste : Un cloaque désigne un lieu infect, un égout. Ce terme violent traduit le dégoût physique d'Hippolyte pour la terre argileuse de l'Artois transformée en bourbier, qui souille son uniforme et l'empêche de marcher ("impossible de faire longues promenades"). — Franglais Militaire : Hippolyte utilise le terme anglais technique (green forage) pour désigner le fourrage vert (luzerne, trèfle) qu'il doit couper pour les chevaux. Cette hybridation linguistique confirme son immersion totale dans l'armée britannique.
+**l.~7 $\llbracket$du reste$\rrbracket$ on ne sort que par nécessité :** Biffure de la locution adverbiale initiale. **l.~8--9 pour green fourrage :** Syntagme hybride associant l'adjectif anglais *green* au substantif français *fourrage*.
 
 ### IV. Commentaire historique
-"Cloaques de boue" : — "On ne sort que par nécessité" : La phrase est raturée, signe d'une hésitation sur la formulation, mais le sens de claustration est net. — "Pour green fourrage" : — "Vie végétative..." : Diagnostic lucide de l'intellectuel privé de stimulation mentale, réduit à satisfaire des besoins primaires ("dîné", "couché") dans la crasse. — "Machine moissonneuse-lieuse" : — Observation Sociale : Il remarque la mécanisation des campagnes.
+**l.~12--24 Vie végétative... Roumanie déclare guerre :** Tandis que les pluies d'orage transforment les chemins et la cour de la ferme de Marquay en cloaques de boue et qu'il doit accompagner matin et soir « cet idiot de Curtet » aux champs, Hippolyte observe une moissonneuse-lieuse au travail et consigne la grande nouvelle diplomatique du 27--28 août 1916 : la déclaration de guerre de la Roumanie à l'Autriche-Hongrie.
 
 ---
 
 ## Scan #031 — `20251126_094238.jpg` — Folio 15 verso
-- **Titre** : FOLIO 15 VERSO (Le Bruit Effrayant)
-- **Date** : Mercredi 30 août 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 15 VERSO (Tempête de vent dans les grands arbres du château et fourrage sous les ondées)
+- **Date** : Mercredi 30 août 1916
+- **Lieu** : Marquay et Bailleul-aux-Cornailles (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1341,22 +1391,20 @@ Le Mot Juste : Un cloaque désigne un lieu infect, un égout. Ce terme violent t
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 Ma** *scil.* sic.
-- Ligne 4 : **4 voisinage (** Écriture courante à l'encre noire.
-- Ligne 9 : **9 pour faire** Clôture de la page manuscrite.
+- Ligne 1 : **1 Ma** *sic in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Topographie : La lecture "bois chateau" est probable (il s'agit sans doute du domaine du Château de Bailleul-aux-Cornailles). La mention des "grands arbres" tourmentés confirme la présence d'un parc seigneurial à proximité immédiate. — "Derrière haies" : Lecture délicate (ou "ferme"). Il décrit son horizon bouché. — Psychologie : L'adjectif "effrayant" est révélateur. Le vacarme du vent dans les cimes (probablement des peupliers) n'est pas romantique, il est menaçant.
+**l.~1 30 Ma :** Lapsus calami du diariste sur l'abréviation du jour : le 29 août étant un mardi (Folio 15 recto), le 30 août 1916 est en réalité un mercredi (*Me.*). **l.~4--5 (bois chateau... derrière haies :** Parenthèse descriptive restée ouverte sans crochet fermant.
 
 ### IV. Commentaire historique
-"Bois chateau , de l'autre côté de..." : — "Fait bruit effrayant" : — "Fourrage vert" : — Retour au français. La répétition obsessionnelle de cette corvée ("Matin & après-midi", "champs détrempés") montre qu'elle est devenue le seul événement structurant de ses journées vides.
+**l.~2--9 Tout le jour, pluie et rafales... fourrage vert :** Une tempête d'ouest secoue tout le jour les futaies du parc seigneurial voisin dans un vacarme assourdissant, sans interrompre matin ni après-midi les corvées de fourrage vert dans les prairies détrempées.
 
 ---
 
 ## Scan #032 — `20251126_094250.jpg` — Folio 16 recto
-- **Titre** : FOLIO 16 RECTO (Le Saint Vagabond)
-- **Date** : Jeudi 31 août 1916.
-- **Lieu** : Saint-Pol-sur-Ternoise.
+- **Titre** : FOLIO 16 RECTO (Marche à pied par Ramecourt jusqu'à Saint-Pol-sur-Ternoise et souvenir de saint Benoît Labre)
+- **Date** : Jeudi 31 août 1916
+- **Lieu** : Marquay, Ramecourt, Saint-Michel, Saint-Pol-sur-Ternoise et Ostreville (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1383,30 +1431,32 @@ Topographie : La lecture "bois chateau" est probable (il s'agit sans doute du do
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 –** *scil.* Jeudi.
+- Ligne 1 : **1 J.** *scil.* Jeudi.
 - Ligne 2 : **2 transformt** *scil.* transformant.
-- Ligne 3 : **3 j.à** *scil.* jusqu'à.
+- Ligne 3 : **3 j.à** *scil.* jusqu'à. **3 j. à** *abbr. pro* jusqu'à.
 - Ligne 7 : **7 gde** *scil.* grande.
 - Ligne 9 : **9 sous-préf** *scil.* sous-préfecture. **9 env** *scil.* environ. **9 habts** *scil.* habitants.
+- Ligne 10 : **10 gde** *abbr. pro* grande.
 - Ligne 13 : **13 s/** *scil.* sur.
 - Ligne 14 : **14 bienh** *scil.* Bienheureux.
 - Ligne 15 : **15 ds** *abbr. pro* dans.
 - Ligne 17 : **17 bp** *scil.* beaucoup.
-- Ligne 18 : **18 ph** *scil.* Cartes Photos.
-- Ligne 20 : **20 Loso** *lect. incert. in ms.*
+- Ligne 18 : **18 ctes ph.** *scil.* Cartes Photos.
+- Ligne 19 : **19 cartes ph.** *abbr. pro* cartes photographiques. **19 c.** *abbr. pro* centimes.
+- Ligne 20 : **20 Loso** *lect. incert. in ms.* **20 cartes ph.** *abbr. pro* cartes photographiques.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-La Lecture : Le mot est bien humeurs (et non "brumeux" comme le suggérait le brouillon). Le 'h' bouclé et le 's' final sont distincts. — Le Sens : C'est une notation psychologique clé. Le soleil ne transforme pas seulement le décor ("paysages"), il dissipe aussi la brume mentale ("humeurs", spleen, "vie végétative") qui accablait Hippolyte les jours précédents. — "Plateau de Ramecourt" : Lecture confirmée (au lieu de "Marquay" raturé). C'est l'itinéraire topographique exact pour descendre vers Saint-Pol.
+**l.~2 transformt paysages & humeurs :** Participation abrégée en *-mt* (*transformant*) et zeugma associant l'aspect physique de la campagne à l'état moral du promeneur. **l.~15 ds cette = église :** Emploi du signe mathématique *=* pour représenter l'adjectif *même*.
 
 ### IV. Commentaire historique
-"Paysages & humeurs" (Correction Fondamentale) : — "Benoît Labre... passa la nuit" : — Identification : Saint Benoît-Joseph Labre (1748-1783), le saint mendiant. — Miroir Biographique : Hippolyte, intellectuel devenu soldat "sans domicile fixe" dormant dans la paille, s'identifie à ce saint vagabond qui dormait dans les églises. — "Verre : 40c" : Dépense de confort. 40 centimes est le prix d'un alcool de qualité ou d'un apéritif (la bière coûte 10c).
+**l.~3--16 St. Michel-s-Ternoise... le bienh Benoît Labre... Rentré par Ostreville :** Profitant du retour du soleil, Hippolyte gagne à pied la sous-préfecture de Saint-Pol-sur-Ternoise (env. 5~000 habitants) par le plateau de Ramecourt et Saint-Michel, visite l'église de briques rouges de style hollandais (1697) où une plaque de marbre rappelle qu'en mars 1767 saint Benoît-Joseph Labre (1748--1783) y passa la nuit en prière, puis rentre à Marquay par Ostreville.
 
 ---
 
 ## Scan #033 — `20251126_094310.jpg` — Folio 16 verso
-- **Titre** : FOLIO 16 VERSO (L'Arme Secrète et le Départ)
-- **Date** : Vendredi 1er septembre 1916.
-- **Lieu** : Ligny-Saint-Flochel.
+- **Titre** : FOLIO 16 VERSO (L'église médiévale de Ligny-Saint-Flochel et les « manœuvres spéciales » britanniques)
+- **Date** : Vendredi 1er septembre 1916
+- **Lieu** : Marquay et Ligny-Saint-Flochel (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1434,24 +1484,25 @@ La Lecture : Le mot est bien humeurs (et non "brumeux" comme le suggérait le br
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Vendredi.
+- Ligne 1 : **1 V.** *scil.* Vendredi. **1 1er** *scil.* premier.
 - Ligne 3 : **3 qq** *scil.* quelques.
-- Ligne 6 : **6** ⟦Ligault⟧ *del. in ms.*
-- Ligne 9 : **9 .** *scil.* St Flochel.
+- Ligne 6 : **6** ⟦Ligault⟧ *del. in ms.* **6 kils** *abbr. pro* kilomètres.
+- Ligne 9 : **9 Fl.** *scil.* St Flochel. **9 St** *abbr. pro* Saint.
 - Ligne 14 : **14 impress** *scil.* impression.
+- Ligne 18 : **18 headcook** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Document Historique : Hippolyte assiste, sans le savoir, aux répétitions générales de la première attaque de chars de l'Histoire. — "Ligault" (Lapsus) : Hippolyte commence à écrire "Ligny", déforme le mot en "Ligault", puis écrit correctement "Flochel". Le lieu est Ligny-Saint-Flochel. — Correction : Le mot est bien pente (et non "piste"). Cela correspond à la topographie (descente vers le bois/vallon) et au vocabulaire d'Hippolyte ("Rues en pente" au folio précédent).
+**l.~5--6 Ligny $\llbracket$Ligault$\rrbracket$ - Flochel :** Rature immédiate d'une graphie erronée *Ligault* corrigée en *Ligny-Flochel*. **l.~14 Y éprouvé impress :** Abréviation par apocope de *impression*. **l.~17 On s'arrête + réfléchir :** Signe *+* employé pour *pour* ou *plus*.
 
 ### IV. Commentaire historique
-"Route en pente" : — "Manœuvres spéciales" (TÉMOIGNAGE CAPITAL) : — Date : 1er septembre 1916. — Fait Historique : Nous sommes à 15 jours de la bataille de Flers-Courcelette (15 septembre). C'est dans ce secteur arrière que l'infanterie britannique s'entraîne secrètement à coopérer avec la nouvelle arme : les Tanks (chars d'assaut). — L'Observation : Hippolyte note que les manœuvres sont "spéciales" et cachées dans le "bois". Il est témoin de l'avènement de la guerre mécanisée.
+**l.~6--18 manœuvres spéciales... petite eglise du hameau St Fl. ... Tip au headcook : 5 f :** En se promenant à 2,5 km de Marquay vers Ligny-Saint-Flochel, Hippolyte observe en lisière des bois des régiments britanniques se livrant à des « manœuvres spéciales » à deux semaines de l'offensive du 15 septembre, puis décrit avec précision le clocher octogonal en pierre sculptée du XIIIe siècle et le cimetière envahi d'herbes.
 
 ---
 
 ## Scan #034 — `20251126_094324.jpg` — Folio 17 recto
-- **Titre** : FOLIO 17 RECTO (La Boue et le Linge Anglais)
-- **Date** : Samedi 2 et Dimanche 3 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 17 RECTO (Rosée matinale dans les terres argileuses, liste de blanchissage en anglais et marche à Saint-Pol)
+- **Date** : Samedi 2 et dimanche 3 septembre 1916
+- **Lieu** : Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1479,28 +1530,29 @@ Document Historique : Hippolyte assiste, sans le savoir, aux répétitions gén�
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Samedi.
-- Ligne 2 : **2 les** *scil.* dans les.
+- Ligne 1 : **1 S.** *scil.* Samedi.
+- Ligne 2 : **2 ds** *scil.* dans.
 - Ligne 4 : **4 j-à** *scil.* jusqu'à.
 - Ligne 9 : **9 entiert** *scil.* entièrement.
 - Ligne 10 : **10 Washing** *angl. in ms.*
-- Ligne 12 : **12 .** *scil.* Dimanche.
-- Ligne 13 : **13 j-à** *scil.* jusqu'à.
+- Ligne 12 : **12 Dim.** *scil.* Dimanche.
+- Ligne 13 : **13 j-à** *scil.* jusqu'à. **13 St** *abbr. pro* Saint.
 - Ligne 14 : **14 gd** *scil.* grand.
+- Ligne 17 : **17 St** *abbr. pro* Saint.
 - Ligne 18 : **18 plusies** *scil.* plusieurs.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture restituée (souvent mal lue comme des noms de lieux). Cette phrase lyrique marque le contraste entre l'oppression du "bas hameau" boueux et la libération physique sur le plateau venteux. — "Au Repos" : Lecture probable. Peut aussi se lire "au Vêpres", ce qui serait cohérent avec le dimanche après-midi.
+**l.~4 Terre friable (boueuse) :** Parenthèse explicative précisant la nature collante du limon d'Artois détrempé. **l.~10--11 Washing : 1 f (1 shirt. 1 vest / 1 p. socks. 1 handk) :** Inventaire de linge entièrement rédigé en anglais (1 chemise, 1 gilet de flanelle, 1 paire de chaussettes, 1 mouchoir).
 
 ### IV. Commentaire historique
-"Souliers et bas" : Hippolyte porte des "bas" (chaussettes en laine montantes) dans ses brodequins. L'humidité qui traverse le cuir est une hantise du fantassin ("jusqu'à la peau"). — "Terre friable ( boueuse )" : — Observation : Il décrit la transformation du sol d'Artois. La craie sèche ("friable") devient une colle ("boueuse") à la moindre pluie, formant de "fortes mottes" sous les semelles qui alourdissent la marche. — "Washing : 1 shirt..." (PREUVE D'ACCULTURATION) :.
+**l.~12--21 3 Dim. Malgré ciel menaçant allé à pied j-à St-Pol :** Après une matinée du samedi passée dans les herbes trempées de rosée qui alourdissent ses brodequins de mottes de boue, Hippolyte redescend à pied le dimanche 3 septembre jusqu'à Saint-Pol-sur-Ternoise en savourant le grand air du plateau avant l'orage du soir.
 
 ---
 
 ## Scan #035 — `20251126_094345.jpg` — Folio 17 verso
-- **Titre** : FOLIO 17 VERSO (Le "Passé Surcomposé" et le N.C.O.)
-- **Date** : Lundi 4 et Mardi 5 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 17 VERSO (Courses à Roëllecourt, passé surcomposé méridional et déception du départ retardé)
+- **Date** : Lundi 4 et mardi 5 septembre 1916
+- **Lieu** : Marquay et Roëllecourt (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1510,13 +1562,13 @@ Lecture restituée (souvent mal lue comme des noms de lieux). Cette phrase lyriq
  4 | Matin, venu à Roellecourt, sur 1 wagon
  5 | Retourné à pied.
  6 | Après-midi, fait avec lenteur ts mes
- 7 | paquets: T^s mes préparatifs terminés à 5H½
+ 7 | paquets: Ts mes préparatifs terminés à 5H½
  8 | Me réjouis, à la pensée de quitter cet
  9 | obscur & bas hameau, où on a eu été
 10 | si mal.
 11 | 5 Ma. Matin, prairie, appris par l’ Orderly
-12 | N.C.O. que départ retardé. Sorti p^r me rendre c^te
-13 | ou confirmat^on mauvaise nouvelle: encore 8
+12 | N.C.O. que départ retardé. Sorti pr me rendre cte
+13 | ou confirmaton mauvaise nouvelle: encore 8
 14 | jours à moisir ici, hélas!
 15 | Et Toujours, même temps affreux –
 16 | Ciel couvert de nuages – Pluie intermittente
@@ -1530,25 +1582,26 @@ Lecture restituée (souvent mal lue comme des noms de lieux). Cette phrase lyriq
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 L** *scil.* Lundi.
+- Ligne 4 : **4 wagon** *angl. in ms.*
 - Ligne 6 : **6 ts** *scil.* tous.
-- Ligne 7 : **7 T^s** *scil.* Tous.
-- Ligne 11 : **11 .** *scil.* Mardi.
-- Ligne 12 : **12 p^r** *scil.* pour.
-- Ligne 13 : **13 confirmat^on** *scil.* confirmation.
+- Ligne 7 : **7 Ts** *scil.* Tous.
+- Ligne 11 : **11 Ma.** *scil.* Mardi.
+- Ligne 12 : **12 pr** *scil.* pour. **12 N.C.O.** *angl.* Non-Commissioned Officer.
+- Ligne 13 : **13 confirmaton** *scil.* confirmation.
 - Ligne 21 : **21 Fr.se** *scil.* Française.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Transcription : On lit distinctement "on a eu ete". — Analyse : C'est un passé surcomposé ("a eu été" au lieu de "a été" ou "avons été"). C'est une tournure régionale typique du Sud-Ouest (Toulouse/Rouergue). — "Me rendre compte" (vérifier par moi-même). Il ne veut pas croire à la rumeur du retard et va chercher la confirmation officielle. Le verdict ("Moisir ici") est un coup de massue. — Il touche sa solde à la Mission Militaire Française. C'est son lien administratif avec la France, alors qu'il vit "à l'anglaise".
+**l.~8--10 cet obscur & bas hameau, où on a eu été si mal :** Remarquable occurrence du passé surcomposé (*on a eu été*), tournure syntaxique caractéristique du français méridional et du substrat occitan de l'auteur. **l.~11--12 appris par l'Orderly N.C.O. :** Emprunt du titre militaire britannique (*Orderly Non-Commissioned Officer*, sous-officier de semaine).
 
 ### IV. Commentaire historique
-"Roellecourt" : — Village voisin (3 km) où se concentre la logistique. Hippolyte s'y rend en "wagon" (camion militaire) pour préparer le départ. — "Où on a eu été si mal" (PÉPITE LINGUISTIQUE) : — Biographe : Sous le coup de l'émotion (le soulagement de fuir la saleté et la promiscuité de Marquay), le masque de l'angliciste tombe et l'accent du terroir ressurgit. — "Appris par l' Orderly N.C.O." (DÉCOUVERTE HISTORIQUE) : — Vocabulaire : N.C.O. = Non-Commissioned Officer (Sous-officier). L'Orderly N.C.O. est le sergent de semaine.
+**l.~4--22 venu à Roellecourt... Mission Fr.se : solde & Indemnité : 78 f 75c :** Alors qu'il avait bouclé toutes ses cantines le lundi 4 septembre à 17 h 30 dans l'espoir de quitter Marquay, Hippolyte apprend le mardi matin par le sous-officier de jour que le départ est différé d'une semaine, et se rend sous une pluie battante au bureau de la Mission française à Roëllecourt pour toucher sa quinzaine (78,75 francs).
 
 ---
 
 ## Scan #036 — `20251126_094449.jpg` — Folio 18 recto
-- **Titre** : FOLIO 18 RECTO (Le Spleen, la Carte et le Savon)
-- **Date** : Dimanche 3 septembre 1916 ("3 D.").
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 18 RECTO (Champs d'avoine sous la brise et achat de la carte du département de la Somme)
+- **Date** : Dimanche 3 (addition) / mardi 5 septembre 1916
+- **Lieu** : Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1564,24 +1617,24 @@ Transcription : On lit distinctement "on a eu ete". — Analyse : C'est un pass�
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Dimanche.
-- Ligne 6 : **6 2p** *lect. incert. in ms.* **6 ph** *scil.* cartes photos.
-- Ligne 7 : **7 dept** *scil.* département.
+- Ligne 1 : **1 D.** *scil.* Dimanche.
+- Ligne 6 : **6 2p** *lect. incert. in ms.* **6 ctes ph.** *scil.* cartes photos.
+- Ligne 7 : **7 dept** *scil.* département. **7 c.** *abbr. pro* centimes.
 - Ligne 8 : **8 saddle soap** *angl. in ms.*
-- Ligne 9 : **9 choc** *scil.* chocolat.
+- Ligne 9 : **9 choc** *scil.* chocolat. **9 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Hippolyte use d'une licence poétique (adjectif au lieu de l'adverbe) pour décrire le son continu du vent dans les blés. Ce paysage "tout jaune" reflète sa mélancolie. — Transcription : Le mot est écrit en anglais : saddle soap (Savon de selle).
+**l.~1 3 D. ... Septbr 116 :** Addition rétrospective rattachée à la promenade dominicale du 3 septembre (décrite au Folio 17 recto, Scan #034) et complétée par les achats effectués à Saint-Pol. **l.~4 bruissaient monotone :** Emploi adverbial de l'adjectif invariable (*bruissaient monotone*).
 
 ### IV. Commentaire historique
-"Bruissaient monotone" : — "Carte du dept Somme" (PREUVE STRATÉGIQUE) : — Le Tournant : C'est l'achat le plus lourd de sens. Alors qu'il est encore en Artois, Hippolyte achète une carte d'État-Major de la Somme. Il a reçu l'information confidentielle : la Division Guards descend vers le sud pour participer à la grande offensive (la bataille de Flers-Courcelette, qui débutera le 15 septembre). Il prépare son itinéraire intellectuellement. — "1 boîte de saddle soap" (DÉCHIFFREMENT CAPITAL) :.
+**l.~6--9 Carte du dept Somme : 70c. ... 1 boîte de saddle soap : 1 f 50 :** Outre une boîte de savon à cuir britannique (*saddle soap*) pour l'entretien de son harnachement et du chocolat Poulain, Hippolyte achète pour 70 centimes la carte du département de la Somme, indice certain du prochain mouvement de son unité vers le front de l'Ancre.
 
 ---
 
 ## Scan #037 — `20251126_094511.jpg` — Folio 18 verso
-- **Titre** : FOLIO 18 VERSO (La "Vraie Distraction")
-- **Date** : Mercredi 6 et Jeudi 7 septembre 1916.
-- **Lieu** : Marquay / Bailleul-aux-Cornailles / Saint-Pol.
+- **Titre** : FOLIO 18 VERSO (Conversation avec Mme Vauchel et halte au cimetière de Saint-Michel-sur-Ternoise)
+- **Date** : Mercredi 6 et jeudi 7 septembre 1916
+- **Lieu** : Marquay, Bailleul-aux-Cornailles, Saint-Pol et Saint-Michel-sur-Ternoise (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1614,30 +1667,32 @@ Hippolyte use d'une licence poétique (adjectif au lieu de l'adverbe) pour décr
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Me** *scil.* Mercredi.
-- Ligne 5 : **5 .** *scil.* soir.
+- Ligne 5 : **5 s.** *scil.* soir. **5 Lt** *abbr. pro* Lieutenant.
 - Ligne 6 : **6 fui** *scil.* fus.
-- Ligne 7 : **7 propre** *scil.* propriétaire ?.
+- Ligne 7 : **7 propre** *scil.* propriétaire?. **7 Mme** *abbr. pro* Madame.
 - Ligne 8 : **8 y** *scil.* et. **8 admir.** *scil.* admirablement.
 - Ligne 9 : **9 tjs** *scil.* toujours.
 - Ligne 11 : **11 J** *scil.* Jeudi. **11 b.** *scil.* belle.
 - Ligne 14 : **14 l.** *scil.* le.
 - Ligne 17 : **17 ds** *abbr. pro* dans.
-- Ligne 21 : **21 tt** *scil.* tout.
+- Ligne 18 : **18 St** *abbr. pro* Saint.
+- Ligne 19 : **19 gde** *abbr. pro* grande.
+- Ligne 21 : **21 tt** *scil.* tout. **21 ds** *abbr. pro* dans.
 - Ligne 22 : **22 c** *scil.* centre.
-- Ligne 25 : **25** *lect. pallida in imo folio.*
+- Ligne 25 : **25** *lect. pallida in imo folio.* **25 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Expression de sa misanthropie passagère. Hippolyte fuit la promiscuité militaire ("gens" désigne ici la troupe ou les collègues bruyants) pour s'isoler sous un noyer (lecture préférable à "noisetier" vu la graphie courte). — Lecture probable (graphie murs). Le cimetière est clos de murs, créant un espace intime ("envahi par hautes herbes").
+**l.~6 y fui bien accueilli :** Graphie phonétique *fui* pour le prétérit *fus*. **l.~8 intelligente y raisonnant admir. :** Emploi de la conjonction *y* (*et*) et apocope de l'adverbe *admirablement*. **l.~25 ... Consommations : 50 c. :** Note comptable tracée d'une encre très pâle tout au bas du feuillet.
 
 ### IV. Commentaire historique
-"Loin de gens" : — "Lt Ch..." : — Il accompagne un Lieutenant (nom abrégé, peut-être Chef ou un nom anglais). La mention "dû accompagner" souligne la corvée de service. — "Mme Vauchel" (RENCONTRE MARQUANTE) : — Identité : Le nom est clairement écrit Vauchel. — Le Jugement : Après avoir traité une fermière de "vieille tortue" (26 août), Hippolyte est sous le charme intellectuel. Il note qu'elle est "très intelligente" et "raisonne admirablement". Pour cet homme cultivé, isolé dans un milieu rude, cette conversation est une bouffée d'oxygène.
+**l.~5--24 accompagner Lt Ch... par propre, Mme Vauchel... St. Michel-sur-Ternoise :** Appelé le mercredi soir à accompagner un lieutenant dans une ferme voisine, l'universitaire goûte le plaisir rare d'une conversation avec une propriétaire cultivée, Mme Vauchel ; le lendemain 7 septembre, il flâne de nouveau jusqu'à Saint-Pol et s'attarde au retour dans le vieux cimetière herbeux entourant le clocher octogonal de Saint-Michel-sur-Ternoise.
 
 ---
 
 ## Scan #038 — `20251126_094524.jpg` — Folio 19 recto
-- **Titre** : FOLIO 18 RECTO (Les Wagons "Bedfords" et le Silence)
-- **Date** : Vendredi 8 septembre 1916.
-- **Lieu** : Marquay (Artois).
+- **Titre** : FOLIO 19 RECTO (Attente des fourgons des « Bedfords » et promenade au clair de lune à Ryonval)
+- **Date** : Vendredi 8 septembre 1916
+- **Lieu** : Marquay et ferme de Ryonval (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1656,25 +1711,26 @@ Expression de sa misanthropie passagère. Hippolyte fuit la promiscuité militai
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Vendredi.
+- Ligne 1 : **1 Ven.** *scil.* Vendredi.
 - Ligne 2 : **2** ⟦Tout l’ après-midi⟧ *del. in ms.*
 - Ligne 3 : **3 inutilt** *scil.* inutilement.
 - Ligne 4 : **4 green** *angl. in ms.*
 - Ligne 5 : **5 lgs** *scil.* le long.
 - Ligne 10 : **10 ds** *abbr. pro* dans.
+- Ligne 12 : **12 tooth powder** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : Le mot est une abréviation pour inutilement (la finale en lt est barrée). Hippolyte exprime sa frustration : il a attendu en vain des véhicules pour la corvée. — Transcription : Hippolyte écrit Bedfords (ou phonétiquement Berfords). — Soit il fait une confusion phonétique avec les camions britanniques Burford (H.G. Burford & Co), très utilisés en 1916.
+**l.~2 $\llbracket$Tout l'après-midi$\rrbracket$ :** Rature de l'indication temporelle initiale en tête de phrase. **l.~3 inutilt :** Abréviation par contraction de l'adverbe *inutilement*. **l.~12 Box of tooth powder : 60 c :** Dépense d'hygiène notée en anglais.
 
 ### IV. Commentaire historique
-"Dû attendre et inutilt" : — "2 wagons de Bedfords" (IDENTIFICATION HISTORIQUE) : — Analyse : La marque de camions Bedford n'existant pas encore (créée en 1930), il y a deux hypothèses. — Soit il désigne les chariots (wagons) du Bedfordshire Regiment (surnommé "The Bedfords") avec qui il collabore pour le ravitaillement. — "Chemin de Ryonval" : — Topographie : La Ferme de Ryonval existe toujours, située exactement au sud de Marquay. C'est le décor de sa dernière promenade. — "Jouir de tout du silence nuit" : — "Box of tooth powder" :
+**l.~3--10 2 wagons de Bedfords : for green forage... petit chemin de Ryonval :** Après avoir attendu en vain deux fourgons du *Bedfordshire Regiment* (*the Bedfords*, 54e Brigade de la 18e Division britannique) pour la corvée de fourrage vert, Hippolyte savoure sa dernière soirée à Marquay en marchant au clair de lune sur le chemin de la ferme de Ryonval, derrière la ferme Collet.
 
 ---
 
 ## Scan #039 — `20251126_094545.jpg` — Folio 19 verso
-- **Titre** : FOLIO 18 VERSO (L'École de Mortiers et le "Messer")
-- **Date** : Samedi 9 septembre 1916.
-- **Lieu** : De Marquay à Monts-en-Ternois.
+- **Titre** : FOLIO 19 VERSO (Départ de Marquay, l'école de mortiers de tranchée et l'ancien monastère de Monts-en-Ternois)
+- **Date** : Samedi 9 septembre 1916
+- **Lieu** : De Marquay et Ligny-Saint-Flochel à Monts-en-Ternois (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1705,26 +1761,27 @@ Lecture : Le mot est une abréviation pour inutilement (la finale en lt est barr
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Samedi.
+- Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 3 : **3 ns** *scil.* nous.
+- Ligne 6 : **6 St** *abbr. pro* Saint.
 - Ligne 10 : **10 tt** *scil.* tout.
-- Ligne 12 : **12 .** *scil.* soir.
+- Ligne 12 : **12 s.** *scil.* soir. **12 1ère** *scil.* première.
 - Ligne 14 : **14 gde** *scil.* grande.
 - Ligne 18 : **18 s/** *scil.* sur.
 - Ligne 19 : **19 Cap.** *scil.* Captain. **19 off.** *scil.* officiers.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : Le mot est Devisé (discuté, causer). Il prolonge la soirée du mess par une conversation nocturne dans le jardin de "la bâtisse" (l'ancien monastère où il loge). C'est un moment de civilité et de culture.
+**l.~19 Invité par Cap. West à messer aux off. :** Création verbale remarquable du néologisme franco-anglais *messer* (prendre ses repas au *mess* des officiers). **l.~21 Devisé sur 2 bancs :** Emploi littéraire du verbe *deviser* (converser paisiblement).
 
 ### IV. Commentaire historique
-"La Brigade division" : — La division se déplace en colonne. Hippolyte (logistique) doit laisser passer l'infanterie ("La Brigade"), ce qui explique la lenteur du convoi. — "Trench mortar school" (RENSEIGNEMENT TECHNIQUE) : — Traduction : École de mortiers de tranchée (Crapouillots). — Contexte : Hippolyte traverse le plateau d'instruction de Monchy-Breton. L'armée britannique y forme intensivement ses artilleurs de tranchée (Stokes mortars) avant l'offensive de la Somme prévue pour le 15 septembre.
+**l.~2--23 Quitté Marquay... trench mortar school... hameau de Monts-en-Ternois :** Après avoir remis 3 francs à son logeur M. Dupuich, Hippolyte quitte Marquay à 9 h 30 derrière la brigade d'infanterie, longe sur le plateau de Ligny-Saint-Flochel l'école britannique de mortiers de tranchée (*trench mortar school*) et fait étape à 13 h à Monts-en-Ternois dans un ancien monastère fleuri où le capitaine West l'invite à sa table.
 
 ---
 
 ## Scan #040 — `20251126_094600.jpg` — Folio 20 recto
-- **Titre** : FOLIO 19 RECTO (La Nuit au Fournil et l'Énigme d'Oppy)
-- **Date** : Dimanche 10 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 20 RECTO (Nuit devant le fournil à Monts-en-Ternois et étape au hameau d'Oppy (Beaudricourt))
+- **Date** : Dimanche 10 septembre 1916
+- **Lieu** : De Monts-en-Ternois à Oppy et Beaudricourt (Pas-de-Calais)
 
 ### I. Transcription diplomatique
 ```text
@@ -1749,26 +1806,27 @@ Lecture : Le mot est Devisé (discuté, causer). Il prolonge la soirée du mess 
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Dimanche.
-- Ligne 5 : **5 m** *scil.* matin.
+- Ligne 1 : **1 Dim.** *scil.* Dimanche.
+- Ligne 2 : **2 s/** *abbr. pro* sur.
+- Ligne 5 : **5 m** *scil.* matin. **5 m.** *abbr. pro* matin.
 - Ligne 11 : **11 tt** *scil.* tout.
-- Ligne 12 : **12 b.** *scil.* belle.
+- Ligne 12 : **12 b.** *scil.* belle. **12 Ptit** *abbr. pro* Petit.
 - Ligne 14 : **14 mess** *angl. in ms.*
 - Ligne 16 : **16 Chau** *scil.* Château.
 - Ligne 17 : **17 off** *scil.* officiers. **17 mess** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Le mot est bien four. Hippolyte a dormi dans le fournil de la ferme, profitant de la chaleur résiduelle du four à pain pour ne pas avoir froid, une astuce de vieux soldat. — Le Texte : Le mot est écrit très distinctement Oppy (avec deux p et un y). — Lecture : La graphie est claire : f-e-r-t-i-l-e-s (avec le f descendant et le t barré). — Lecture probable ("ni mess"). Cela signifie qu'il n'y a pas de popote officiers installée dans ce hameau minuscule, ce qui l'oblige à descendre à Beaudricourt pour manger ("mangé au mess off").
+**l.~2--3 couché s/ 2 bancs de jardin rapprochés – devant le four :** Précision matérielle sur son couchage de fortune devant le four à pain de la ferme. **l.~14 Obligé coucher grenier ferme ni mess :** Construction elliptique (*sans chambre ni mess sur place*).
 
 ### IV. Commentaire historique
-"Devant le four" : — "Arrivés à Oppy" (L'ERREUR GÉOGRAPHIQUE) : — L'Anomalie : Le village d'Oppy (Pas-de-Calais) se trouve à 45 km à l'Est, près d'Arras, en zone occupée par les Allemands. C'est une impossibilité. — L'Explication : Hippolyte est près de Beaudricourt. Le "Ptit hameau de 6 maisons" qu'il décrit correspond probablement à un lieu-dit local (peut-être L'Estocq ou une ferme isolée). Il a sans doute fait une confusion phonétique ou utilisé une appellation locale erronée. — "Régions fertiles" (CORRECTION VALIDÉE) :.
+**l.~9--17 arrivés à Oppy... Ptit hameau de 6 maisons... Beaudricourt, au Chau, chez le maire :** Contrairement à une confusion avec la commune d'Oppy près d'Arras (alors en zone occupée allemande), il s'agit ici très exactement du **hameau d'Oppy** rattaché à la commune de **Beaudricourt** (Pas-de-Calais, canton d'Avesnes-le-Comte), minuscule écart de six maisons perché sur le coteau boisé au-dessus du château de Beaudricourt où Hippolyte descend à pied en fin d'après-midi saluer le maire et dîner au mess des officiers.
 
 ---
 
 ## Scan #041 — `20251126_094621.jpg` — Folio 20 verso
-- **Titre** : FOLIO 19 VERSO (L'Histoire et les Brancardiers)
-- **Date** : Lundi 11 septembre 1916.
-- **Lieu** : De "Oppy" vers Raincheval (Somme).
+- **Titre** : FOLIO 20 VERSO (Longue chevauchée d'Oppy à Raincheval par Lucheux (l'Édit des postes de Louis XI) et Thièvres)
+- **Date** : Lundi 11 septembre 1916
+- **Lieu** : D'Oppy (Beaudricourt) à Lucheux, Thièvres et Raincheval (Pas-de-Calais / Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -1798,25 +1856,28 @@ Le mot est bien four. Hippolyte a dormi dans le fournil de la ferme, profitant d
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 16** *lect. incert. in ms.*
+- Ligne 1 : **1 Dérangé** *lect. incert. in ms.*
 - Ligne 2 : **2** ⟦Rechange sur matu...⟧ *del. in ms.*
 - Ligne 6 : **6 Aujd’hui** *scil.* Aujourd'hui.
+- Ligne 7 : **7 m.** *abbr. pro* matin.
+- Ligne 15 : **15 y** *scil.* et.
 - Ligne 19 : **19 tjs** *scil.* toujours. **19 off** *scil.* officiers.
 - Ligne 20 : **20 groom** *angl. in ms.*
-- Ligne 22 : **22 ph.** *scil.* photos.
+- Ligne 21 : **21 c.** *abbr. pro* centimes.
+- Ligne 22 : **22 ph.** *scil.* photos. **22 cartes ph.** *abbr. pro* cartes photographiques.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Correction : La note en haut à gauche commence par un D majuscule bouclé. "Dérangé" (réveillé tôt, bousculé) est la lecture la plus cohérente avec le départ matinal (7H) et l'agitation militaire. "Démarré" reste une possibilité graphique mais moins idiomatique. — Le mot commence par un v. Ce n'est pas "vivant" mais variant (ou peut-être variable abrégé). Cette lecture est confirmée par la suite de la phrase : "soleil perce nuages" (le temps change, il varie). — Correction : La fin de ligne est difficile.
+**l.~1--2 Dérangé sur matin / $\llbracket$Rechange sur matu...$\rrbracket$ :** Biffure d'un premier essai de phrase en tête du feuillet. **l.~6 Aujd'hui :** Syncope graphique de *Aujourd'hui*. **l.~20--23 Tip au groom Connelly... Oeufs : 3 à Thièvres :** Relevé des menues dépenses de la route.
 
 ### IV. Commentaire historique
-"Dérangé sur matin" : — "Ciel variant" (CORRECTION) : — "Edit de Louis XI . 1464 des postes" : — Exactitude Historique : Hippolyte note avec précision l'Édit de Lucheux (juin 1464), par lequel Louis XI créa la Poste Royale. C'est une preuve de sa culture historique : il identifie le lieu et l'événement précis en passant. — "Fourmillant de brancardiers" : — Témoignage capital : Raincheval est un centre sanitaire d'arrière-front (Casualty Clearing Stations). Le terme "fourmillant" décrit la masse de personnel du Royal Army Medical Corps qui s'active.
+**l.~3--16 Quitté Oppy 7H... Arrêt à Lucheux : Edit de Louis XI. 1464 des postes... Raincheval :** Au cours d'une chevauchée de huit heures (7 h -- 15 h) qui ramène la colonne d'Artois dans le département de la Somme par Lucheux (où l'érudit note le souvenir de l'édit royal du 19 juin 1464 instituant la Poste aux chevaux sous Louis XI) et Thièvres, Hippolyte atteint Raincheval, gros bourg de l'arrière-front de l'Ancre encombré de brancardiers (*R.A.M.C.*) et de troupes de relève.
 
 ---
 
 ## Scan #042 — `20251126_094639.jpg` — Folio 21 recto
-- **Titre** : FOLIO 20 RECTO (L'Adoption par le Mess et la Forêt)
-- **Date** : Mardi 12 et Mercredi 13 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 21 RECTO (Admission permanente au mess des officiers du capitaine West et promenade en forêt de Raincheval)
+- **Date** : Mardi 12 et mercredi 13 septembre 1916
+- **Lieu** : Raincheval (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -1849,28 +1910,28 @@ Correction : La note en haut à gauche commence par un D majuscule bouclé. "Dé
 - Ligne 2 : **2 excte** *scil.* excellente.
 - Ligne 3 : **3 ds** *scil.* dans.
 - Ligne 4 : **4 Cap.** *scil.* Captain.
-- Ligne 5 : **5 mess** *angl. in ms.*
+- Ligne 5 : **5 y** *scil.* et. **5 mess** *angl. in ms.*
 - Ligne 7 : **7 off** *scil.* officiers. **7 mess** *angl. in ms.*
 - Ligne 10 : **10 converson** *scil.* conversation.
 - Ligne 14 : **14 green** *angl. in ms.*
 - Ligne 15 : **15 Me** *scil.* Mercredi.
 - Ligne 17 : **17 g.** *scil.* gauche.
-- Ligne 18 : **18 lunch** *angl. in ms.*
+- Ligne 18 : **18 y** *scil.* et. **18 lunch** *angl. in ms.*
 - Ligne 22 : **22 green** *angl. in ms.*
-- Ligne 23 : **23 mess** *angl. in ms.*
+- Ligne 23 : **23 offs** *abbr. pro* officiers. **23 mess** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-L'écriture est rapide (le mot "permanente" est abrégé), mais le sens est clair : le Capitaine West lui offre non pas une invitation ponctuelle, mais un couvert permanent. — Lecture : Le mot est bien membre (et non "prendre"). C'est un changement de statut fondamental. Hippolyte n'est plus un "prestataire" externe, il est coopté par le corps des officiers britanniques comme l'un des leurs. — Lecture : Le mot est difficile.
+**l.~2 excte nuit :** Contraction de *excellente*. **l.~5 d'y manger permanente :** Emploi elliptique pour *de manière permanente*. **l.~10 converson anglais :** Abréviation en *-on* (*conversation*) et omission de la préposition.
 
 ### IV. Commentaire historique
-"D'y manger permanente" : — "Membre du mess" : — "Cuisine anglaise" : — Le Sens : Le "mais" restrictif ("– mais grands avantages") prouve qu'Hippolyte n'apprécie pas la nourriture (le point faible), mais qu'il valorise l'environnement social (le point fort). Le Mess est un "Club" intellectuel (journaux, revues) plus qu'un lieu gastronomique. — "Montés... for green forage" : — Note marginale. Le verbe "Montés" (au pluriel, avec les hommes) indique le mouvement vers les plateaux pour la corvée, décrite en anglais technique (green forage). — "A g.
+**l.~4--11 Cap. West, offert de venir à un mess... Sorte de Club :** Tournant décisif dans les conditions de vie matérielles et morales de l'interprète : sur l'insistance cordiale du capitaine West, Hippolyte devient membre permanent du *mess* des officiers britanniques de la compagnie, véritable « club » où il peut pratiquer la conversation anglaise et lire les journaux et revues de Londres.
 
 ---
 
 ## Scan #043 — `20251126_094654.jpg` — Folio 21 verso
-- **Titre** : FOLIO 20 VERSO (Le Batman, la Phrase Anglaise et "Canada in Flanders")
-- **Date** : Jeudi 14 et Vendredi 15 septembre 1916.
-- **Lieu** : Acheux-en-Amiénois.
+- **Titre** : FOLIO 21 VERSO (Visite à la Mission française au parc du château d'Acheux et exercices de grenades à Raincheval)
+- **Date** : Jeudi 14 et vendredi 15 septembre 1916
+- **Lieu** : Raincheval et Acheux-en-Amiénois (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -1882,7 +1943,7 @@ L'écriture est rapide (le mot "permanente" est abrégé), mais le sens est clai
  6 | y planches
  7 | Fait visite aux lieux
  8 | Large très coquet
- 9 | Fin jour, 1^ère^ pointe d’ automne
+ 9 | Fin jour, 1ère pointe d’ automne
 10 | [ – Epingles, à Acheux: 30 c.
 11 | To a batman for saddling up my poney: 50c
 12 | 15 Ve – nuit froide – matin extt fraiche
@@ -1897,27 +1958,32 @@ L'écriture est rapide (le mot "permanente" est abrégé), mais le sens est clai
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Jeudi.
+- Ligne 1 : **1 J.** *scil.* Jeudi. **1 y** *scil.* et.
 - Ligne 3 : **3 lunch** *angl. in ms.*
 - Ligne 4 : **4 fr** *scil.* française.
+- Ligne 6 : **6 y** *scil.* et.
 - Ligne 7 : **7 lieux** *lect. incert. in ms.*
-- Ligne 10 : **10** *in marg. cum unco* (comptes).
-- Ligne 12 : **12 –** *scil.* Vendredi. **12 extt** *scil.* extrêmement.
+- Ligne 9 : **9 1ère** *scil.* première.
+- Ligne 10 : **10** *in marg. cum unco* (comptes). **10 c.** *abbr. pro* centimes.
+- Ligne 11 : **11 batman** *angl. in ms.*
+- Ligne 12 : **12 Ve** *scil.* Vendredi. **12 extt** *scil.* extrêmement.
+- Ligne 14 : **14 y** *scil.* et.
 - Ligne 16 : **16 staton** *scil.* station.
-- Ligne 17 : **17 Exerc.** *scil.* Exercice.
+- Ligne 17 : **17 Exerc.** *scil.* Exercice. **17 y** *scil.* et.
+- Ligne 19 : **19 staton** *abbr. pro* station.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : Le mot est ambigu. Il pourrait s'agir de Lieux (visite des lieux) ou d'un nom propre mal écrit (Leurens ?). Cependant, la graphie penche pour un mot court commençant par L. — Correction : Le mot n'est pas "Logis" ni "Foyer". On lit distinctement Large (ou peut-être Linge ?). Mais dans le contexte d'une visite, "Logis" reste l'hypothèse sémantique la plus forte malgré la graphie déformée ("L...ge"). — Graphie : Il écrit "poney" (franglais, mélange de pony et poney). — Lecture : Incontestable. "Canada in Flanders".
+**l.~10--11 [ – Epingles, à Acheux : 30 c. / To a batman for saddling up my poney : 50c :** Note comptable rédigée pour moitié en français et pour moitié en anglais idiomatique (*batman*, ordonnance ; *saddling up*, action de seller). **l.~20 Canada in Flanders... 1f 25 :** Titre de l'ouvrage historique de Sir Max Aitken (Lord Beaverbrook), publié à Londres en 1916.
 
 ### IV. Commentaire historique
-"Maisonnette toile y planches" : — Description précise des baraquements mi-dur mi-tente (type Adrian ou baraque de chantier) de la Mission Française à Acheux. — "Fait visite aux lieux" : — "Large très coquet" : — "To a batman for saddling up my poney : 50c" (PREUVE LINGUISTIQUE MAJEURE) : — Le Texte : Hippolyte rédige sa dépense entièrement en anglais. — Traduction : "À une ordonnance pour avoir sellé mon poney". — Analyse : — Vocabulaire : Il utilise les termes exacts (Batman = ordonnance d'officier, Saddling up = action de seller).
+**l.~3--18 Venu à Acheux ; bureaux mission fr... Exerc. de grenades y mines de champs :** Le 14 septembre, Hippolyte se rend à cheval au bureau de la Mission française installé dans une baraque de toile et de planches au parc du château d'Acheux ; le lendemain 15 septembre (jour même du déclenchement de l'offensive britannique de Flers-Courcelette avec les premiers chars d'assaut), il assiste près de la gare de Raincheval à des exercices de lancement de grenades et de mines de tranchée.
 
 ---
 
 ## Scan #044 — `20251126_094706.jpg` — Folio 22 recto
-- **Titre** : FOLIO 21 RECTO (L'Artiste et le Trèfle Rouge)
-- **Date** : Dimanche 17 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 22 RECTO (Les grands hêtres du bois de Raincheval, le vieux collectionneur de faïences et le Salut dominical)
+- **Date** : Dimanche 17 septembre 1916
+- **Lieu** : Raincheval et Varennes (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -1944,26 +2010,29 @@ Lecture : Le mot est ambigu. Il pourrait s'agir de Lieux (visite des lieux) ou d
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Dimanche.
+- Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 2 : **2 Tjs** *scil.* Toujours.
 - Ligne 3 : **3 green** *angl. in ms.*
+- Ligne 4 : **4 wagon** *angl. in ms.*
 - Ligne 7 : **7 pl.** *scil.* plusieurs.
 - Ligne 8 : **8 ds** *abbr. pro* dans.
+- Ligne 9 : **9 horse-lines** *angl. in ms.*
+- Ligne 10 : **10 y** *scil.* et.
 - Ligne 11 : **11 gds** *scil.* grands.
-- Ligne 19 : **19 Washing** *angl. in ms.*
+- Ligne 19 : **19 f.** *abbr. pro* franc(s). **19 Washing** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-[2] "trèfle rouge" : Correction botanique. La lecture "coupé" est erronée (pas de p). Le mot se termine par une boucle de g. Le "trèfle rouge" (Trifolium pratense) est une culture fourragère précise que l'Aveyronnais reconnaît. — [3] "hêtres énormes" : Lecture confirmée. L'adjectif "énormes" est graphiquement un peu écrasé mais le contexte (arbres séculaires) et les lettres visibles (norm) valident ce choix. — [4] "rencontré artiste" : Correction de "remarqué". Le mot commence par Re et contient un n.
+**l.~7 Reviens pl. fois :** Abréviation de *plusieurs*. **l.~9 à coté de nos horse-lines :** Terme technique britannique désignant les lignes d'attache des chevaux du Train. **l.~19--20 Washing : 1 f. (Varennes) :** Mention du village voisin de Varennes-en-Croix où est donné son linge.
 
 ### IV. Commentaire historique
-[1] "wagon charger" : L'infinitif "charger" est graphiquement plus probable que "chercher" (présence d'un jambage descendant du g). — [5] "venu chez" : Correction de "vu le". La graphie contractée de chez (avec le z final bouclé) indique qu'ils sont entrés dans la maison.
+**l.~11--18 Chênes très droits et hêtres énormes... collections très belles de faïences :** Entre deux corvées de trèfle rouge (*green forage*), Hippolyte se recueille sous les futaies séculaires qui bordent le mur du château de Raincheval et, présenté par un artiste rencontré à la sortie de la messe, visite chez un vieillard érudit du village une remarquable collection de faïences anciennes, de pierres et de médailles.
 
 ---
 
 ## Scan #045 — `20251126_094726.jpg` — Folio 22 verso
-- **Titre** : FOLIO 21 VERSO (Le 20e Corps et l'Épuisement)
-- **Date** : Lundi 18 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 22 VERSO (Chevauchée sous l'averse par Hédauville et Forceville jusqu'à Acheux et malaise gastrique)
+- **Date** : Lundi 18 septembre 1916
+- **Lieu** : Raincheval, Hédauville, Forceville et Acheux-en-Amiénois (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -1994,24 +2063,24 @@ Lecture : Le mot est ambigu. Il pourrait s'agir de Lieux (visite des lieux) ou d
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 4 : **4 frse** *scil.* Française.
 - Ligne 8 : **8 QG** *scil.* Quartier Général.
-- Ligne 11 : **11 mess** *angl. in ms.*
+- Ligne 11 : **11 div** *abbr. pro* division. **11 mess** *angl. in ms.*
 - Ligne 12 : **12 Cie** *scil.* Compagnie.
 - Ligne 17 : **17 mess** *angl. in ms.*
-- Ligne 21 : **21 .** *scil.* bonne.
+- Ligne 21 : **21 b.** *scil.* bonne.
 - Ligne 22 : **22 groom** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-[1] "Obligé venir mission" : Le mot commence par un v arrondi (similaire au v de "vers"). La lecture "venir" (sous-entendu "venir en mission") est graphiquement plus sûre que "suivre" (qui aurait un s plus marqué). — [2] "Toute l'après-midi" : Correction critique. La lecture précédente ("Tout le matin") était une aberration chronologique (départ à 13h30). On lit distinctement sur deux lignes : Toute l'ap... midi. — [3] "20e Corps" : Correction historique. Le mot commence par un C majuscule.
+**l.~4 mission frse :** Contraction de *française*. **l.~11 près de notre div :** Apocope de *division*. **l.~15--20 dérangé d'entrailles... Rendu enfin repas de midi :** Notation médicale directe et sans apprêt des troubles digestifs causés par l'eau et le régime du mess.
 
 ### IV. Commentaire historique
-[5] "Rendu" : Confirmé. Signifie "vomi". C'est le symptôme final de son intoxication alimentaire ou dysenterie, attribuée explicitement au "mess" et au "thé" (eau douteuse).
+**l.~3--12 A Hédauville, appris que 20e Corps n'a pas quitté Acheux :** Convoqué par message à la Mission française, Hippolyte chevauche tout l'après-midi sous des pluies diluviennes par Hédauville et Forceville jusqu'à Acheux (quartier général de corps d'armée), rentre le soir les vêtements transpercés en compagnie d'une unité de brancardiers et souffre toute la soirée d'une violente indigestion.
 
 ---
 
 ## Scan #046 — `20251126_094738.jpg` — Folio 23 recto
-- **Titre** : FOLIO 22 RECTO (Les Mares et la Hutte)
-- **Date** : Jeudi 21 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 23 RECTO (Routes transformées en mares et perception de la solde à la hutte du château d'Acheux)
+- **Date** : Jeudi 21 septembre 1916
+- **Lieu** : Raincheval et Acheux-en-Amiénois (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -2031,23 +2100,24 @@ Lecture : Le mot est ambigu. Il pourrait s'agir de Lieux (visite des lieux) ou d
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Jeudi.
+- Ligne 1 : **1 J.** *scil.* Jeudi.
 - Ligne 2 : **2 Ts** *scil.* Tous.
 - Ligne 6 : **6 gd** *scil.* grand.
-- Ligne 9 : **9 fr** *scil.* française.
+- Ligne 9 : **9 fr** *scil.* française. **9 s/** *abbr. pro* sur.
+- Ligne 13 : **13 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Correction : Le mot n'est pas "ornières". La graphie m-a-r-e-s est visible. — Lecture : Le p de "pas" et le t barré de "tombée" invalident la lecture "par bonheur". C'est un constat météorologique sec. — [4] "Solde : 78 : 75 c" :
+**l.~1 Septre 116 :** Graphie abrégée du millésime *116* pour *1916*. **l.~12 solde : 78 : 75 c :** Emploi des deux-points à l'anglaise pour séparer les francs des centimes (78 fr. 75).
 
 ### IV. Commentaire historique
-[1] "Transformées en mares" : — Le Réalisme : Hippolyte ne décrit pas seulement de la boue, mais de l'eau stagnante. Les routes sont devenues des canaux. C'est le décor cauchemardesque de la Somme à l'automne 1916. — [2] "Pluie pas tombée" : — [3] "Hutte s/ la pelouse chateau" : — Confirmation du terme militaire. La "hutte" (baraquement Nissen ou Adrian) défigure le parc du château d'Acheux. — Notation à l'anglaise avec les deux points (:) pour séparer les unités. — [5] "Carte pli" :.
+**l.~2--12 Routes boueuses transformées en mares... bureau mission fr, hutte s/ la pelouse chateau :** Après trois jours de pluies incessantes qui ont noyé les chemins picards et paralysé les opérations sur le front de la Somme, une accalmie permet à Hippolyte de se rendre à cheval au château d'Acheux pour percevoir sa solde de quinzaine (78,75 francs) à la baraque de la Mission française.
 
 ---
 
 ## Scan #047 — `20251126_094822.jpg` — Folio 23 verso
-- **Titre** : FOLIO 22 VERSO (Le Pidgin, le Foot et Méaulte)
-- **Date** : Vendredi 22 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 23 VERSO (Match de football des « Bedfs », annonce du départ à l'aube (« we are moving Dawn ») et nuit sans étoiles)
+- **Date** : Vendredi 22 septembre 1916
+- **Lieu** : Raincheval (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -2072,25 +2142,27 @@ Correction : Le mot n'est pas "ornières". La graphie m-a-r-e-s est visible. —
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 –** *scil.* Vendredi.
+- Ligne 1 : **1 Ve** *scil.* Vendredi.
 - Ligne 2 : **2 t** *scil.* tout.
-- Ligne 6 : **6 Bedfs** *scil.* Bedfords.
+- Ligne 6 : **6 Bedfs** *scil.* Bedfords. **6 s/** *abbr. pro* sur.
 - Ligne 10 : **10 moving** *angl. in ms.*
 - Ligne 11 : **11 pr** *scil.* pour.
+- Ligne 15 : **15 y** *scil.* et.
+- Ligne 16 : **16 tins** *angl. in ms.*
 - Ligne 18 : **18 food** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Document Capital : Il contient l'ordre de départ en "franglais" et la destination stratégique. — Lecture : La phrase est syntaxiquement bousculée. Hippolyte semble écrire "et un très renseigné horaire trains". Il a probablement consulté un tableau d'affichage ou un officier de transport à la gare ("station") pour préparer sa logistique. — [5] "Que we are moving Dawn" (LE SOMMET DU FRANGLAIS) : — Transcription : We are moving Dawn (Nous bougeons à l'aube). — Déchiffrement : Le mot est clair : M-é-a-u-l-t-e.
+**l.~2 Soleil ardent t jour :** Abréviation *t* pour *tout le*. **l.~10 Panton m'a appris que we are moving Dawn :** Discours indirect libre basculant en anglais sur l'ordre de mouvement (*we are moving [at] Dawn*). **l.~15 Nuit très sombre – y stars are nil vis. :** Jargon télégraphique anglo-latin (*stars are nil visible*, visibilité stellaire nulle).
 
 ### IV. Commentaire historique
-[1] "Un très renseigné horaire trains" : — [2] "Match de football" : — Scène historique : Le football est le sport roi de l'armée britannique. Un match organisé par le Bedfordshire Regiment (the Bedfs) à quelques kilomètres du front est une scène de vie typique, montrant le souci du moral des troupes. — [3] "Blanc et bleu..." : — Hippolyte décrit les couleurs des maillots ("rouge vif", "blanc et bleu"). Le spectacle visuel ("beau coup d'œil") le distrait de la guerre. — [4] "Panton" : — Identification : Nom propre probable (Panton). Un Major P.H.A.
+**l.~3--11 station de Raincheval... match de football s/ prairie à coté horse-lines the Bedfs... Méaulte :** Tandis qu'il s'informe des horaires de trains à la gare de Raincheval en vue de sa prochaine permission, Hippolyte assiste à un match de football disputé par les soldats du *Bedfordshire Regiment* en maillots rouge vif et bleu et blanc, avant d'apprendre par le capitaine Panton l'ordre de départ pour le lendemain à l'aube en direction de Méaulte.
 
 ---
 
 ## Scan #048 — `20251126_094835.jpg` — Folio 24 recto
-- **Titre** : FOLIO 23 RECTO (Le Message et la Litière)
-- **Date** : Samedi 23 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 24 RECTO (Contre-ordre à Léalvillers, attente à la gare d'Acheux et bivouac « in the open » à Forceville)
+- **Date** : Samedi 23 septembre 1916
+- **Lieu** : De Raincheval à Léalvillers, Acheux et Forceville (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -2120,27 +2192,28 @@ Document Capital : Il contient l'ordre de départ en "franglais" et la destinati
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 23** *scil.* Samedi.
+- Ligne 1 : **1 Sam** *scil.* Samedi.
 - Ligne 3 : **3 ts** *scil.* tous.
 - Ligne 4 : **4 Cap** *scil.* Captain.
 - Ligne 11 : **11 refilling point** *angl. in ms.*
-- Ligne 12 : **12 à** *scil.* jusqu'à.
+- Ligne 12 : **12 à** *scil.* jusqu'à. **12 j. à** *abbr. pro* jusqu'à.
 - Ligne 13 : **13 Coy** *scil.* Company.
+- Ligne 14 : **14 Coy** *angl.* Company.
 - Ligne 19 : **19 b.** *scil.* belle.
-- Ligne 23 : **23 )** *lect. incert. in ms.* **23 propre** *scil.* propriétaire.
+- Ligne 23 : **23 Petit** *lect. incert. in ms.* **23 propre** *scil.* propriétaire.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Graphie : Le dernier mot est clairement m-e-ss-a-g-e. Les boucles sont distinctes. "Contre-ordre" était une interprétation du sens, mais le texte dit "message". — Graphie : Le mot commence par une grande boucle de l, suivie de i, t (barré), i, ère.
+**l.~8 vers garrage de Lealvillers :** Redoublement graphique du *r* dans *garrage* (voies de garage militaires). **l.~17 Cantonnés in the open :** Locution militaire anglaise signifiant « au bivouac en plein champ ». **l.~23 A Mme Petit propre à Acheux :** Abréviation *propre* pour *propriétaire*.
 
 ### IV. Commentaire historique
-[1] "Vers garrage" : La graphie avec deux r est confirmée. Il s'agit du terme technique pour les voies de garage (zone logistique). — [2] "À notre rencontre un message" (CORRECTION) : — Sens : Une estafette est venue leur porter un pli urgent modifiant l'itinéraire. — [3] "In the open" : "À découvert" (bivouac en plein champ). — [4] "Comme litière" (CORRECTION MAJEURE) : — Réalité matérielle : Hippolyte ne construit pas un toit. Il utilise une botte de paille ("verte") comme paillasse pour s'isoler du sol humide. C'est un détail crucial de confort.
+**l.~4--21 Cap West... Lealvillers... Forceville... aménagé hutte avec épaisse botte verte comme litière :** Partie à 9 h 30 sous les ordres du capitaine West, la compagnie reçoit en chemin à hauteur du garage ferroviaire de Léalvillers un pli modifiant sa destination : au lieu de descendre jusqu'à Méaulte, l'unité oblique par la gare d'Acheux vers les coteaux de Forceville, où Hippolyte bivouaque en plein champ sous une hutte garnie d'une botte de fourrage vert.
 
 ---
 
 ## Scan #049 — `20251126_103003.jpg` — Folio 24 verso
-- **Titre** : FOLIO 23 VERSO (Les Paquets et le Canon)
-- **Date** : Dimanche 24 septembre 1916.
-- **Lieu** : Flandres / Artois / Somme
+- **Titre** : FOLIO 24 VERSO (Agrandissement de la hutte à Forceville, préparatifs de permission et concert militaire à Acheux)
+- **Date** : Dimanche 24 septembre 1916
+- **Lieu** : Forceville et Acheux-en-Amiénois (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -2168,26 +2241,26 @@ Graphie : Le dernier mot est clairement m-e-ss-a-g-e. Les boucles sont distincte
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 24** *scil.* Dimanche.
+- Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 8 : **8 green** *angl. in ms.*
-- Ligne 11 : **11 Cap.** *scil.* Captain.
+- Ligne 11 : **11 Cap.** *scil.* Captain. **11 Lunch** *angl. in ms.*
 - Ligne 12 : **12 ts** *scil.* tous.
 - Ligne 15 : **15 milre** *scil.* militaire.
 - Ligne 16 : **16 g.** *scil.* gauche.
 - Ligne 19 : **19 ds** *scil.* dans.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-[1] "Doux & temps splendide" : Lecture probable du mot raturé/écrasé (plutôt que "Divin"). — Graphie : Le mot commence par un p (jambage droit descendant) suivi d'un a et d'un q (descendant). On lit p-a-q-u-e-t-s. — Sens : Cette correction est capitale. Hippolyte ne rédige pas ("écritures" ou "lettres"), il prépare son équipement. C'est une action purement militaire et logistique. Il boucle son barda pour être prêt à mouvementer. — Confirmation de la lecture é-t-a-i-t (et non "écrit"). Une fois les paquets faits, "tout était prêt". Il est paré au départ.
+**l.~5--6 ma hutte, devenue par l'ambition plus spacieuse et haute :** Trait d'auto-ironie sur son abri de fortune. **l.~12--13 fait ts mes paquets en 2 H. tout était prêt :** Préparation méthodique de ses bagages à la veille du départ en permission.
 
 ### IV. Commentaire historique
-[2] "Cap. Stewart invité" : — Graphie : L'initiale est un S majuscule cursif (grosse boucle) identique à celui de "Samedi" ou "Septembre". Le nom se lit S-t-e-w-a-r-t. Ce n'est pas "Alexander" (dont le A serait plus pointu ou triangulaire chez Hippolyte). — [3] "Fait tous mes paquets" (CORRECTION FONDAMENTALE) : — [4] "Tout était prêt" :
+**l.~7--21 Forceville, for green forage... Cap. Stewart invité... Canon gronde tout le long du front :** Après une corvée matinale de fourrage vert à Forceville et un *lunch* où est convié le capitaine Stewart, Hippolyte boucle ses cantines, va écouter la musique militaire britannique sur la place d'Acheux devant l'église et le château, puis s'endort sous une nuit étoilée scandée par le grondement continu de l'artillerie de la Somme (veille de l'offensive franco-britannique des 25--26 septembre sur Combles et Thiepval).
 
 ---
 
 ## Scan #050 — `20251126_103019.jpg` — Folio 25 recto
-- **Titre** : FOLIO 24 RECTO (Départ en première permission : de Forceville au railhead d'Acheux-Varennes)
-- **Date** : 25 septembre 1916 (matin et après-midi)
-- **Lieu** : Forceville, Acheux-Varennes (Somme)
+- **Titre** : FOLIO 25 RECTO (Départ en première permission : de Forceville au railhead d'Acheux-Varennes)
+- **Date** : Lundi 25 septembre 1916 (matin et après-midi)
+- **Lieu** : Forceville et gare d'Acheux-Varennes (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -2218,10 +2291,13 @@ Graphie : Le dernier mot est clairement m-e-ss-a-g-e. Les boucles sont distincte
 - Ligne 7 : **7 tt** *scil.* tout.
 - Ligne 8 : **8 Lt** *abbr. pro* Lieutenant. **8 green** *angl. in ms.*
 - Ligne 9 : **9 forage** *angl. in ms.*
+- Ligne 10 : **10 wagon** *angl. in ms.*
 - Ligne 11 : **11 railhead** *angl. in ms.*
 - Ligne 12 : **12 pr** *scil.* pour.
+- Ligne 13 : **13 R.T.O.** *angl.* Railway Transport Officer.
 - Ligne 15 : **15 lgt.** *scil.* longtemps. **15 ds** *scil.* dans.
 - Ligne 18 : **18** *in marg. cum unco* (comptes). **18 groom** *angl. in ms.*
+- Ligne 19 : **19 Lunch** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **Note codicologique :** Ce folio 24 recto (cliché `20251126_103019.jpg`, Scan #050), qui assure la transition entre les préparatifs du 24 septembre au soir (Folio 23 verso, Scan #049) et la suite du voyage vers Amiens et Paris intitulée *25 Lundi (Suite)* (Folio 24 verso / 25 recto, Scan #051), avait été omis dans le premier brouillon de transcription ; nous le restituons ici intégralement d'après le manuscrit original. **l.~8--9 for green forage / l.~11 railhead / l.~13 R.T.O. :** Termes techniques anglais (*Railway Transport Officer*).
@@ -2232,9 +2308,9 @@ Graphie : Le dernier mot est clairement m-e-ss-a-g-e. Les boucles sont distincte
 ---
 
 ## Scan #051 — `20251126_103036.jpg` — Folio 25 verso
-- **Titre** : FOLIO 25 RECTO (Le Train, les Taubes et le Ciel)
-- **Date** : Lundi 25 septembre 1916.
-- **Lieu** : Paris / Millau
+- **Titre** : FOLIO 25 VERSO (De Gézaincourt à Amiens et raid nocturne de « Taubes » sur la gare de Longueau)
+- **Date** : Lundi 25 septembre 1916 (soir et nuit)
+- **Lieu** : Gézaincourt, Amiens, Longueau et train vers Paris
 
 ### I. Transcription diplomatique
 ```text
@@ -2259,24 +2335,25 @@ Graphie : Le dernier mot est clairement m-e-ss-a-g-e. Les boucles sont distincte
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 2 : **2 .** *lect. incert. in ms.* **2 qq** *scil.* quelques.
-- Ligne 9 : **9 s** *scil.* soir.
+- Ligne 2 : **2 secousses** *lect. incert. in ms.* **2 qq** *scil.* quelques.
+- Ligne 9 : **9 s** *scil.* soir. **9 s.** *abbr. pro* soir.
 - Ligne 10 : **10 permisson** *scil.* permission. **10 pr** *scil.* pour.
+- Ligne 11 : **11 y** *scil.* et.
 - Ligne 12 : **12 tte** *scil.* toute.
 - Ligne 18 : **18 tte** *abbr. pro* toute.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-[1] "qq secousses [?]" (LECTURE DOUTEUSE) : — Paléographie : La lecture "secousses" est retenue selon votre indication. L'abréviation qq est certaine. Le mot suivant est sinueux et se termine par es. — Problème grammatical : Il faut toutefois noter que "secousses" est féminin pluriel, alors que l'adjectif qui suit, "détachés", est accordé au masculin pluriel. Hippolyte, généralement soucieux de sa grammaire, aurait dû écrire "détachées".
+**l.~1 25 Lundi. (Suite) :** En-tête faisant suite directement au Folio 24 recto (Scan #050). **l.~10 train de permisson :** Omission graphique du second *i* dans *permission*. **l.~11 avec grossiers poilus, barbus y sales :** Emploi de la conjonction *y* (*et*) et notation sans fard de la promiscuité des wagons de 3e classe.
 
 ### IV. Commentaire historique
-[3] "Barbus y sales" : Hippolyte utilise ici la conjonction de coordination y (et), emprunt à l'espagnol ou à l'occitan, fréquent sous sa plume. L'adjectif "grossiers" marque sa distance avec la troupe. — [4] "Taubes" : — Histoire : Nom générique donné aux avions allemands. Hippolyte décrit avec précision un raid de bombardement nocturne sur le nœud ferroviaire stratégique de Longueau.
+**l.~7--16 A Gézaincourt... A Amiens... Longueau, survolé par des Taubes :** Après un changement de convoi à Gézaincourt (au sud de Doullens) et un embarquement à Amiens à 20 h dans le train de permissionnaires pour Paris, le convoi est survolé à hauteur du grand triage ferroviaire de Longueau par des avions allemands (*Taubes*) qui larguent des bombes sous le faisceau croisé des projecteurs et les tirs de D.C.A.
 
 ---
 
 ## Scan #052 — `20251126_103109.jpg` — Folio 26 recto
-- **Titre** : FOLIO 25 VERSO (Le Parcours Parisien et le Sud-Express)
-- **Date** : Mardi 26 septembre 1916.
-- **Lieu** : Paris / Millau
+- **Titre** : FOLIO 26 RECTO (Arrivée matinale au Bourget, traversée de Paris et démarches aux Invalides)
+- **Date** : Mardi 26 septembre 1916 (matin et après-midi)
+- **Lieu** : Le Bourget et Paris (Gare du Nord, Tuileries, Orsay, Invalides, rive gauche)
 
 ### I. Transcription diplomatique
 ```text
@@ -2305,24 +2382,24 @@ Graphie : Le dernier mot est clairement m-e-ss-a-g-e. Les boucles sont distincte
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 2 : **2 .** *scil.* matin.
+- Ligne 2 : **2 m.** *scil.* matin.
 - Ligne 4 : **4 j'que** *scil.* jusque. **4 militre** *scil.* militaire.
 - Ligne 8 : **8 j-à** *scil.* jusqu'à.
-- Ligne 14 : **14 pr** *scil.* pour.
+- Ligne 14 : **14 pr** *scil.* pour. **14 autorison** *abbr. pro* autorisation.
 - Ligne 16 : **16 billet** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Graphie : Le mot commence par un S majuscule, suivi de u et d.
+**l.~4 j'que bureau militre / l.~8 j-à gare du Nord :** Variantes tachygraphiques des prépositions *jusque* et *jusqu'à*. **l.~14 autorison :** Contraction nominale en *-on* (*autorisation*). **l.~18--22 Puis descendu rue du Bac... :** Énumération nominale en colonne des étapes de ses courses sur la rive gauche.
 
 ### IV. Commentaire historique
-[1] "Encore nuit" : Précision temporelle importante. Les trains de permissionnaires arrivaient très tôt pour être traités avant le trafic civil. — [2] "Suivi voies" : — Graphie : S-u-i-v-i v-o-i-e-s. — Contexte : Les trains militaires n'entraient pas en gare voyageurs mais stationnaient au triage du Bourget. Les soldats devaient marcher le long des rails ("suivre les voies"), souvent dans des conditions précaires et dans l'obscurité, pour rejoindre le bureau de la Place et obtenir leur "bulletin de sortie". — [3] "Billet de Sud" :.
+**l.~2--22 descendre gare du Bourget... Hotel des Invalides... Billet de Sud Toulouse :** Débarqué à 6 h du matin au triage militaire du Bourget d'où il gagne la gare du Nord en tramway puis la gare d'Orsay en métro, Hippolyte doit se rendre au gouvernement militaire de Paris (Hôtel des Invalides) afin d'obtenir l'autorisation de voyager à ses frais dans le rapide *Sud-Express* vers Toulouse, avant de parcourir la rue du Bac, le Bon Marché, la rue de Rennes, le jardin du Luxembourg et la librairie Armand Colin.
 
 ---
 
 ## Scan #053 — `20251126_103131.jpg` — Folio 26 verso
-- **Titre** : FOLIO 26 RECTO (Verlaine, la Toilette et le Sud-Express)
-- **Date** : Mardi 26 septembre 1916.
-- **Lieu** : Paris.
+- **Titre** : FOLIO 26 VERSO (Flânerie parisienne, achat de « Sagesse » de Verlaine et départ par le Sud-Express)
+- **Date** : Mardi 26 septembre 1916 (après-midi et soir)
+- **Lieu** : Paris (Boulevard Saint-Germain, Notre-Dame, Hôtel de Ville, Tour Saint-Jacques, Gare d'Orsay)
 
 ### I. Transcription diplomatique
 ```text
@@ -2351,27 +2428,29 @@ Graphie : Le mot commence par un S majuscule, suivi de u et d.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 26** *scil.* Mardi.
-- Ligne 2 : **2 Bd** *scil.* Boulevard.
+- Ligne 2 : **2 Bd** *scil.* Boulevard. **2 St** *abbr. pro* Saint.
+- Ligne 6 : **6 St** *abbr. pro* Saint.
+- Ligne 8 : **8 Drink** *angl. in ms.*
 - Ligne 11 : **11 S** *scil.* Soir.
-- Ligne 13 : **13 chvx** *scil.* cheveux.
+- Ligne 13 : **13 chvx** *scil.* cheveux. **13 f.** *abbr. pro* franc(s).
 - Ligne 14 : **14 S.E.** *scil.* Sud-Express.
 - Ligne 15 : **15 douzn** *scil.* douzaine.
 - Ligne 16 : **16 ver.** *scil.* verres. **16 neut.** *scil.* neutres.
+- Ligne 17 : **17 f.** *abbr. pro* franc(s).
 - Ligne 19 : **19 artificlles** *scil.* artificielles.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Logique : La lecture "Lunch" à 10 centimes était aberrante. Il s'agit de "Lavabo".
+**l.~12--22 Tramway : Bourget - gare du Nord : 50c ... :** Longue récapitulation comptable de ses achats parisiens occupant toute la moitié inférieure du folio (supplément du *Sud-Express* : 15 fr. ; clichés photographiques : 10,50 fr. ; lorgnon fumé à verres neutres : 3,20 fr. ; imperméable *Mackintosh* aux Grands Magasins du Louvre : 30 fr. ; parure de violettes artificielles : 8,50 fr. ; képi au Bon Marché : 8 fr.).
 
 ### IV. Commentaire historique
-"Bd St-Germain" : Correction validée. Le "d" est en exposant. Hippolyte déjeune au cœur de la vie intellectuelle (Rive Gauche), ce qui est cohérent avec l'achat de livres qui suit. — "Magasins de l’ Hotel - de - Ville" : Le BHV, étape incontournable sur son chemin vers la Rive Droite. — "Sagesse de Verlaine" : — Culture : Hippolyte achète Sagesse (1881), l'œuvre de la conversion catholique de Verlaine. C'est un choix très fin : un cadeau spirituel pour sa fiancée pieuse, qui affirme aussi sa propre culture littéraire. — "Gentil square...
+**l.~2--11 Bd St-Germain... jardin Notre-Dame... Sagesse de Verlaine... gare d'Orsay :** Durant son après-midi d'escale à Paris, l'universitaire déjeune boulevard Saint-Germain, se repose au square de Notre-Dame et de la Tour Saint-Jacques, visite le Bazar de l'Hôtel-de-Ville et achète un exemplaire de *Sagesse* de Paul Verlaine (ainsi que des cartes du front de Verdun et de Roumanie) avant de prendre le train de 20 h à la gare d'Orsay.
 
 ---
 
 ## Scan #054 — `20251126_103146.jpg` — Folio 27 recto
-- **Titre** : FOLIO 26 VERSO (Les Crouzet et le "Rouget")
-- **Date** : Mercredi 27 septembre 1916.
-- **Lieu** : Toulouse.
+- **Titre** : FOLIO 27 RECTO (Arrivée à Toulouse, visite aux Crouzet et retrouvailles avec Marguerite à la Côte Pavée)
+- **Date** : Mercredi 27 septembre 1916
+- **Lieu** : Toulouse (Gare Matabiau, appartement, Côte Pavée, Thermes du Languedoc)
 
 ### I. Transcription diplomatique
 ```text
@@ -2393,23 +2472,27 @@ Logique : La lecture "Lunch" à 10 centimes était aberrante. Il s'agit de "Lava
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Mercredi.
-- Ligne 3 : **3 .** *scil.* matin.
+- Ligne 1 : **1 Mer.** *scil.* Mercredi.
+- Ligne 2 : **2 wagon** *angl. in ms.*
+- Ligne 3 : **3 m.** *scil.* matin.
+- Ligne 5 : **5 m.** *abbr. pro* matin.
 - Ligne 7 : **7 gd** *scil.* plus grande.
 - Ligne 11 : **11 Margte** *scil.* Marguerite.
+- Ligne 13 : **13 c.** *abbr. pro* centimes.
+- Ligne 15 : **15 cartes ph.** *abbr. pro* cartes photographiques.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-"Nuit passée hier wagon" : Écriture hâtive pour "passée hier en wagon". — Le jugement sur Marguerite est sans appel : "simplicité", "tendresse", et surtout "confiante". Ce mot scelle l'alliance : elle a foi en lui et en leur avenir malgré la guerre.
+**l.~2 Nuit passée hier wagon :** Ellipse de la préposition *en*. **l.~7 de la + gd intimité :** Emploi du signe *+* pour l'adverbe *plus* et de *gd* sans marque du féminin.
 
 ### IV. Commentaire historique
-"A mon appartement" : Hippolyte retrouve son pied-à-terre toulousain, probablement inoccupé depuis 1914. — "Maison des Crouzet" (IDENTIFICATION CAPITALE) : — Graphie : Le C majuscule est clair. — Biographie : La biographie confirme que le mariage a été "organisé par la famille Crouzet". C'est chez eux, sur la colline ("monté"), qu'il se rend pour s'enquérir de l'arrivée de sa fiancée. — "Déjeuné au Buffet" : — Il s'agit très probablement du Buffet de la Gare (Matabiau).
+**l.~3--12 arrivé à Toulouse... Maison des Crouzet... enfin, revu Margte :** Débarqué à Toulouse à 7 h 30 du matin, Hippolyte regagne son appartement toulousain, monte à 11 h sur les hauteurs de la Côte Pavée chez la famille Crouzet (qui avait favorisé sa rencontre avec les Calmels), prend un bain aux Thermes du Languedoc et retrouve à 17 h sa fiancée Marguerite Calmels, « charmante de simplicité & de tendresse confiante ».
 
 ---
 
 ## Scan #055 — `20251126_103215.jpg` — Folio 27 verso
-- **Titre** : FOLIO 27 RECTO (Le Feu et les Fleurs)
-- **Date** : Jeudi 28 septembre 1916.
-- **Lieu** : Paris / Millau
+- **Titre** : FOLIO 27 VERSO (Destruction des vieilles lettres du passé et promenade à Sainte-Agne, Pouvourville et Pech-David)
+- **Date** : Jeudi 28 septembre 1916
+- **Lieu** : Toulouse (Sainte-Marie, Sainte-Agne, Pouvourville, Pech-David, Côte Pavée)
 
 ### I. Transcription diplomatique
 ```text
@@ -2439,24 +2522,31 @@ Logique : La lecture "Lunch" à 10 centimes était aberrante. Il s'agit de "Lava
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 6 : **6 Mte** *scil.* Marguerite.
+- Ligne 3 : **3 y** *scil.* et.
+- Ligne 6 : **6 Mte** *scil.* Marguerite. **6 Ste** *abbr. pro* Sainte.
 - Ligne 9 : **9 tjs** *scil.* toujours.
 - Ligne 10 : **10 cie** *scil.* compagnie. **10 C.** *scil.* Calmels.
-- Ligne 13 : **13 j-à** *scil.* jusqu'à.
+- Ligne 11 : **11 St** *abbr. pro* Saint.
+- Ligne 12 : **12 St** *abbr. pro* Saint.
+- Ligne 13 : **13 j-à** *scil.* jusqu'à. **13 St** *abbr. pro* Saint.
+- Ligne 18 : **18 St** *abbr. pro* Saint.
 - Ligne 20 : **20 Sr** *scil.* Soir.
+- Ligne 21 : **21 c.** *abbr. pro* centimes.
+- Ligne 22 : **22 c.** *abbr. pro* centimes. **22 y** *scil.* et.
+- Ligne 23 : **23 Marg.** *scil.* Marguerite (Calmels).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Le Geste : Le mot commence par b, suivi d'un r et d'un û (accent circonflexe visible). Il ne s'agit pas de "baiser" (lecture erronée). Hippolyte accomplit un rituel de passage : il détruit par le feu les traces de sa vie antérieure. — Déchiffrement : Le mot vaines est très probable (adjectif moral). Le mot suivant commence par l (grande boucle) et finit par res. Lettres est la lecture la plus logique dans le contexte de "souvenirs du passé" qu'on brûle. — Lecture rectifiée (au lieu de "délicates"). Le mot commence par ch et finit par ies.
+**l.~3--5 à regarder y ranger mes affaires, et à brûler peu à peu les vieilles & vaines lettres :** Notation autobiographique majeure sur l'autodafé méthodique de ses correspondances de jeunesse avant ses fiançailles officielles. **l.~23 Bouquet (Reines Marg.) : 3 f :** Jeu floral symbolique sur le prénom de Marguerite.
 
 ### IV. Commentaire historique
-[1] "Me suis attaché à mon appartement" : — Correction validée : Vous aviez raison. Il ne s'agit pas de "attendri". La graphie est bien attaché. Le sens est fort : il renoue physiquement et sentimentalement avec son chez-soi ("s'attacher à" au sens de se consacrer à, ou de ressentir un lien). — [2] "Et à brûler" : — [3] "Les vieilles & vaines lettres" : — [4] "Ste Marie" : — Lieu de rendez-vous (Institution Sainte-Marie de Nevers à Toulouse ? Ou l'église ?). — [5] "Fleurs choisies" : — [6] "M. Gb." : — [7] "Ferme St-Agne du Tuc" :.
+**l.~6--20 Matin à Ste Marie... Mme C. et M. Gb. ... Pouvourville... Panorama de Pech David :** Après avoir porté à 11 h 30 à Sainte-Marie un bouquet de reines-marguerites à sa fiancée, Hippolyte entreprend l'après-midi, en compagnie de Mme Valentine Calmels et du docteur Gabriel Calmels (*M. Gb.*), une grande promenade à pied par la ferme du Tuc, Sainte-Agne et le village de Pouvourville jusqu'aux crêtes de Pech-David dominant la Garonne, le quartier des Récollets et les casernes.
 
 ---
 
 ## Scan #056 — `20251126_103227.jpg` — Folio 28 recto
-- **Titre** : FOLIO 27 VERSO (Les Ruines et l'Alliance)
-- **Date** : Vendredi 29 septembre 1916.
-- **Lieu** : Paris / Millau
+- **Titre** : FOLIO 28 RECTO (Déjeuner au Chapon Fin, aveux aux ruines romaines de Purpan et achat de bague chez Pfister)
+- **Date** : Vendredi 29 septembre 1916
+- **Lieu** : Toulouse, Purpan, Blagnac et les Ponts-Jumeaux (Haute-Garonne)
 
 ### I. Transcription diplomatique
 ```text
@@ -2485,23 +2575,28 @@ Le Geste : Le mot commence par b, suivi d'un r et d'un û (accent circonflexe vi
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Vendredi.
-- Ligne 4 : **4 Gd** *scil.* Grande.
+- Ligne 1 : **1 Ve.** *scil.* Vendredi.
+- Ligne 4 : **4 Gd** *scil.* Grande. **4 Mme** *abbr. pro* Madame.
 - Ligne 6 : **6 déj** *scil.* déjeuner.
-- Ligne 13 : **13 j-à** *scil.* jusqu'à.
+- Ligne 8 : **8 y** *scil.* et.
+- Ligne 11 : **11 y** *scil.* et.
+- Ligne 13 : **13 j-à** *scil.* jusqu'à. **13 ds** *abbr. pro* dans.
+- Ligne 17 : **17 j-aux** *abbr. pro* jusqu'aux.
+- Ligne 18 : **18 j-à** *abbr. pro* jusqu'à.
+- Ligne 22 : **22 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Correction : Le mot n'est pas "verbiages" (qui serait péjoratif). La graphie éch... est visible. Cela marque la qualité du dialogue avec son beau-père ("M. C"). — Correction : Lecture rectifiée d'après l'image. Ils sont assis l'un contre l'autre, et non face à face, ce qui favorise les "doux épanchements". — Lecture rectifiée (au lieu de "pris").
+**l.~7--8 de + en + profonde. Intimité de + y + :** Double emploi du signe mathématique *+* combiné à la conjonction *y*. **l.~12 Considérée comme ma Femme :** Majuscule d'emphase à *Femme*, marquant le caractère solennel de l'engagement mutuel des fiancés.
 
 ### IV. Commentaire historique
-[1] "Affectueux échanges" : — [2] "Côte à côte" : — [3] "Considérée comme ma Femme" : — Point clé : Aux ruines romaines de Purpan, l'intimité physique ("baisers échangés") atteint un stade décisif. Hippolyte écrit "Femme" avec une majuscule. Le mariage est scellé dans les cœurs avant l'église. — [4] "Et un peu plus loin" : — [5] "Chez Pfister... 295 F" : — La Preuve : L'achat chez Pfister (horloger-bijoutier toulousain renommé) d'un "bouton en or" pour près de 300 Francs (une somme considérable) matérialise les fiançailles.
+**l.~4--20 Mme de Linhart... Chapon... Longue halte aux Ruines... Blagnac... Chez Pfister, bouton en or – 300f net 295f :** Journée décisive des fiançailles toulousaines : après une visite matinale à Mme de Linhart et un déjeuner avec le docteur Calmels au restaurant du *Chapon Fin*, Hippolyte et Marguerite gagnent en tramway les ruines de l'amphithéâtre romain de Purpan, poursuivent à pied jusqu'à la chapelle du monastère de Blagnac et aux berges de la Garonne, et achètent chez le grand bijoutier toulousain Pfister une bague (*bouton en or*) de 295 francs.
 
 ---
 
 ## Scan #057 — `20251126_103247.jpg` — Folio 28 verso
-- **Titre** : FOLIO 28 RECTO (Les Cloches et le Grand Ami)
-- **Date** : Samedi 30 septembre 1916.
-- **Lieu** : Montaudran & Terre-Cabade.
+- **Titre** : FOLIO 28 VERSO (Les cinq cloches du clocher de Montaudran et le serment au cimetière de Terre-Cabade)
+- **Date** : Samedi 30 septembre 1916
+- **Lieu** : Toulouse (Sainte-Marie, Montaudran et cimetière de Terre-Cabade)
 
 ### I. Transcription diplomatique
 ```text
@@ -2535,28 +2630,31 @@ Correction : Le mot n'est pas "verbiages" (qui serait péjoratif). La graphie é
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 3 : **3 Mme** *abbr. pro* Madame.
+- Ligne 5 : **5 Ste** *abbr. pro* Sainte.
 - Ligne 6 : **6 qq** *scil.* quelques.
 - Ligne 7 : **7 Margte** *scil.* Marguerite.
 - Ligne 9 : **9 ds** *abbr. pro* dans.
-- Ligne 12 : **12 .** *scil.* très.
+- Ligne 12 : **12 tr.** *scil.* très.
 - Ligne 17 : **17 ici** *lect. incert. in ms.*
 - Ligne 18 : **18 j-au** *scil.* jusqu'au.
 - Ligne 21 : **21 P.P.** *scil.* Pères.
-- Ligne 22 : **22 P.** *scil.* Père.
-- Ligne 23 : **23 gd** *scil.* grand.
+- Ligne 22 : **22 P.** *scil.* Père. **22 Margte** *scil.* Marguerite (Calmels).
+- Ligne 23 : **23 gd** *scil.* grand. **23 Josephe** *scil.* Joséphine (Combes).
+- Ligne 27 : **27 c.** *abbr. pro* centimes. **27 Sweets** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Correction validée : La lecture "Fines ondées" (plutôt que "Fini malles") est confirmée par le contexte ("temps pluie"). Hippolyte décrit une pluie fine et persistante typique de l'automne toulousain. — Lecture probable. Il s'agit d'une visite d'adieu à une amie proche ("attachement profond"). — Graphie : Le dernier mot commence par une boucle haute (b) et finit court (s). "Bois" est graphiquement plus satisfaisant que "haut" ou "fer" pour décrire l'accès rustique au clocher de Montaudran. — Lecture : L'abréviation "gd" (grand) est visible (boucle du g).
+**l.~1 Septb 116 :** Graphie condensée du millésime. **l.~12 De là tr. vue panoramique :** Abréviation *tr.* pour *très [belle]*. **l.~27 Sweets & cakes : 5 f :** Maintien des catégories comptables anglaises en plein séjour toulousain.
 
 ### IV. Commentaire historique
-"Fines ondées qui durent" : — "Mme de Labarthe" : — "Échelle de bois" : — "Fait vibrer chacune..." : — Action : Hippolyte et Marguerite font sonner eux-mêmes les cloches. Le verbe "vibrer" traduit la sensation physique du bronze ("airain") mis en branle. — "Notre gd ami & de Josephe" (CONFIRMATION BIOGRAPHIQUE) : — Identité : La biographie indique : "Le père d’Adhemar, un jésuite, grand ami des Combes".
+**l.~8--23 village de Montaudran... Cimetière de Terre-Cabade... caveau des P.P. Jésuites & celui du P. Marie-Antoine :** Après une visite matinale à Mme de Labarthe, les deux fiancés gagnent à pied l'église de Montaudran, gravissent l'échelle de bois du clocher d'où l'on découvre toute la plaine du Lauraguais et font tinter tour à tour les cinq cloches d'airain, avant de monter au cimetière de Terre-Cabade échanger leurs serments devant le caveau des Pères Jésuites (le Père d'Adhémar, grand ami de la famille) et la tombe du capucin thaumaturge le Père Marie-Antoine de Lavaur (1825--1907), en souvenir de sa sœur défunte Joséphine.
 
 ---
 
 ## Scan #058 — `20251126_103301.jpg` — Folio 29 recto
-- **Titre** : FOLIO 28 VERSO (La Messe Lue et Jean)
-- **Date** : Dimanche 1er octobre 1916.
-- **Lieu** : Paris / Millau
+- **Titre** : FOLIO 29 RECTO (Messe matinale à la cathédrale Saint-Étienne et promenade au bord du Touch à Lardenne)
+- **Date** : Dimanche 1er octobre 1916
+- **Lieu** : Toulouse (Cathédrale Saint-Étienne, Sainte-Marie et Lardenne)
 
 ### I. Transcription diplomatique
 ```text
@@ -2578,25 +2676,30 @@ Correction validée : La lecture "Fines ondées" (plutôt que "Fini malles") est
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Dimanche.
+- Ligne 1 : **1 D.** *scil.* Dimanche. **1 1er** *scil.* premier.
+- Ligne 2 : **2 St** *abbr. pro* Saint.
 - Ligne 3 : **3 Mte** *scil.* Marguerite.
-- Ligne 4 : **4 ds** *abbr. pro* dans.
+- Ligne 4 : **4 ds** *abbr. pro* dans. **4 appartt** *abbr. pro* appartement.
 - Ligne 5 : **5 y** *scil.* et.
 - Ligne 6 : **6 déjeun** *scil.* déjeuner. **6 tr** *scil.* très.
-- Ligne 10 : **10 Tjs** *scil.* Toujours.
+- Ligne 8 : **8 j-au** *abbr. pro* jusqu'au.
+- Ligne 9 : **9 s/** *abbr. pro* sur.
+- Ligne 10 : **10 Tjs** *scil.* Toujours. **10 Mte** *scil.* Marguerite (Calmels).
+- Ligne 14 : **14 c.** *abbr. pro* centimes.
+- Ligne 15 : **15 Sweets** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Correction Liturgique : La lecture "lue" est certaine (et non "une" ou "basse"). Une "messe lue" (sans chants) à 8h du matin à l'autel paroissial de la cathédrale Saint-Étienne est un format courant pour la pratique dominicale matinale. La mention "Mte, à ma droite" officialise leur place de couple à l'église. — Dernière note de la permission : l'anglicisme "Sweets" (bonbons/douceurs) rappelle que même dans l'intimité toulousaine, l'identité d'officier interprète auprès des Britanniques ne le quitte plus. — C'est une excellente remarque.
+**l.~2--3 Entendu messe lue 8 H. autel paroissial :** Distinction liturgique précise entre la *messe lue* (messe basse matinale sans chant) et la grand-messe chantée. **l.~15 Sweets : 20 c :** Notation anglaise en fin de page.
 
 ### IV. Commentaire historique
-"Messe lue" : — "Trouvé Jean maison" : — Le Personnage : Le prénom Jean apparaît clairement deux fois. Ce n'est pas son fils (né en 1923). — Contexte : Il s'agit d'un proche (ami intime ou membre de la famille Calmels/Combes) qui l'attendait à l'appartement ou chez les Crouzet ("maison"). Le fait qu'ils redescendent ensemble "en tram" montre une grande familiarité. Ce "Jean" reste à identifier (peut-être un frère de Marguerite ou un cousin ?). — "Sweets" :
+**l.~2--13 à St Etienne... Mte, à ma droite... Lardenne... pont du Touch... trouvé Jean maison :** Le dimanche 1er octobre s'ouvre par la messe de 8 h à la cathédrale Saint-Étienne aux côtés de Marguerite ; après avoir rangé son appartement dans la matinée et déjeuné à Sainte-Marie, Hippolyte se promène avec sa fiancée jusqu'à Lardenne et aux prairies bordant le Touch, puis redescend en ville à 19 h 30 en tramway avec leur parent ou ami Jean.
 
 ---
 
 ## Scan #059 — `20251126_103321.jpg` — Folio 29 verso
-- **Titre** : FOLIO 29 RECTO (L'Adieu à la Vie de Garçon)
-- **Date** : Lundi 2 octobre 1916.
-- **Lieu** : Paris / Millau
+- **Titre** : FOLIO 29 VERSO (Méditation solitaire dans l'appartement toulousain et visite de Marguerite et de sa mère)
+- **Date** : Lundi 2 octobre 1916
+- **Lieu** : Toulouse (Appartement, Sainte-Marie, chapelle de Nazareth, rue d'Alsace-Lorraine)
 
 ### I. Transcription diplomatique
 ```text
@@ -2623,24 +2726,28 @@ Correction Liturgique : La lecture "lue" est certaine (et non "une" ou "basse").
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Lundi.
+- Ligne 1 : **1 L.** *scil.* Lundi.
 - Ligne 2 : **2 appartt** *scil.* appartement.
+- Ligne 5 : **5 Ste** *abbr. pro* Sainte.
 - Ligne 6 : **6 ds** *abbr. pro* dans.
 - Ligne 8 : **8 Mte** *scil.* Marguerite. **8 profondemt** *scil.* profondément. **8 sentimt** *scil.* sentiment.
-- Ligne 19 : **19 pr.** *scil.* pour.
+- Ligne 11 : **11 Margte** *scil.* Marguerite (Calmels).
+- Ligne 12 : **12 appartt** *abbr. pro* appartement. **12 Margte** *scil.* Marguerite (Calmels).
+- Ligne 16 : **16 y** *scil.* et.
+- Ligne 19 : **19 pr.** *scil.* pour. **19 pr** *abbr. pro* pour.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : La graphie est bien "me" (et non "ne"). La tournure "Me suis resté" est un régionalisme (tournure pronominale abusive fréquente dans le français du Sud-Ouest) ou une ellipse pour "me suis [tenu] resté". Le sens est l'enfermement volontaire chez soi. — Lecture : Le mot est "deviner" (et non "devenir"). Il sonde l'âme de sa fiancée pour comprendre ("deviner") la profondeur de ses sentiments. — Correction majeure : La lecture précédente ("la mère de mon appartt") était un contresens. Il faut lire "Visite de Margte et de sa mère à mon appartt".
+**l.~2 me suis resté appartt :** Construction pronominale méridionale (*se rester* au sens de demeurer chez soi) suivie du substantif abrégé sans préposition. **l.~8 profondemt sentimt :** Double abréviation en *-mt* dans la même ligne.
 
 ### IV. Commentaire historique
-[1] "Me suis resté" : — [2] "De mon esprit" : — La préposition est "de" (et non "dans"). Les souvenirs s'éveillent de son esprit, comme s'ils en sortaient. — [3] "Deviner" : — [4] "De sa mère à mon appartt" : — Sens : Marguerite et sa mère (Mme Calmels) viennent visiter l'appartement de garçon d'Hippolyte avant qu'il ne le quitte. C'est une visite de convenance et d'inspection future. — [5] "Mon Jean parti" :.
+**l.~6--17 ds le petit salon... Visite de Margte et de sa mère à mon appartt... Chapelle Nazareth :** Après une matinée recueillie parmi ses souvenirs de jeunesse et un long entretien intime au petit salon de Sainte-Marie, Hippolyte reçoit à 17 h dans son appartement de garçon la visite officielle de Marguerite et de sa mère Mme Valentine Calmels, se rend à 18 h 30 à la chapelle Notre-Dame-de-Nazareth et raccompagne son parent Jean à 21 h 30.
 
 ---
 
 ## Scan #060 — `20251126_103335.jpg` — Folio 30 recto
-- **Titre** : FOLIO 29 VERSO (La Messe et le Marché)
-- **Date** : Mardi 3 octobre 1916.
-- **Lieu** : Paris / Millau
+- **Titre** : FOLIO 30 RECTO (Messe anniversaire pour l'oncle Calmels, courses au marché Victor-Hugo et visite à Mme de Labarthe)
+- **Date** : Mardi 3 octobre 1916
+- **Lieu** : Toulouse (Cathédrale Saint-Étienne, rue Saint-Rome, marché Victor-Hugo, Capitole)
 
 ### I. Transcription diplomatique
 ```text
@@ -2665,23 +2772,30 @@ Lecture : La graphie est bien "me" (et non "ne"). La tournure "Me suis resté" e
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Mardi.
-- Ligne 2 : **2 annivre** *scil.* anniversaire.
+- Ligne 1 : **1 Ma.** *scil.* Mardi.
+- Ligne 2 : **2 annivre** *scil.* anniversaire. **2 St** *abbr. pro* Saint.
+- Ligne 3 : **3 Margte** *scil.* Marguerite (Calmels).
+- Ligne 4 : **4 St** *abbr. pro* Saint.
+- Ligne 5 : **5 Margte** *scil.* Marguerite (Calmels).
 - Ligne 8 : **8 pr** *scil.* pour. **8 appartt** *scil.* appartement.
 - Ligne 9 : **9 Mag** *scil.* Bon Marché.
+- Ligne 10 : **10 St** *abbr. pro* Saint.
+- Ligne 12 : **12 Mme** *abbr. pro* Madame.
+- Ligne 16 : **16 Mme** *abbr. pro* Madame.
+- Ligne 18 : **18 f.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : Le mot est bien "cortège". La sortie de la messe d'anniversaire se fait solennellement. — Correction : La lecture "Mouche" était erronée. Il s'agit bien de "Marché" (écrit hâtivement). Le contexte de l'achat de "fruits" confirme le lieu (le célèbre Marché Victor Hugo de Toulouse). — Cette relecture met en lumière la solitude relative d'Hippolyte ("mon Jean parti", déjeuners seuls) qu'il comble par une immersion progressive dans la famille de Marguerite (visite de la mère, messe de l'oncle).
+**l.~2 messe annivre :** Abréviation par contraction de *anniversaire*. **l.~9 venus au B. Mag :** Abréviation pour les grands magasins du *Bon Marché* (ou *Beaux Magasins*).
 
 ### IV. Commentaire historique
-[1] "Oncle Calmels" : — Hippolyte assiste à une messe de deuil ("anniversaire") pour un oncle de sa fiancée, à la cathédrale Saint-Étienne. Sa place "à côté de Margte" officialise son intégration au clan Calmels. — [2] "Cortège" : — [3] "L'Automatique" : — Sociologie : Il déjeune seul à l'Automatique (bar-restaurant moderne à distributeurs, rue Saint-Rome ou alentours). C'est un repas rapide ("sur le pouce") qui contraste avec les dîners bourgeois. — [4] "Vider l'arrangement appartt" :.
+**l.~2--18 messe annivre pour oncle Calmels... déjeuné à l'Automatique... marché à Victor Hugo... Mme de Labarthe... Mme Laudet :** Associé désormais aux cérémonies de sa belle-famille, Hippolyte assiste à Saint-Étienne à une messe de bout de l'an pour un oncle de Marguerite, fait avec elle le marché de fruits et de gâteaux à la halle Victor-Hugo, déjeune rapidement au restaurant moderne *L'Automatique* (rue Saint-Rome), achète un cartable et rend visite l'après-midi et le soir à Mme de Labarthe et à Mme Laudet.
 
 ---
 
 ## Scan #061 — `20251126_103455.jpg` — Folio 30 verso
-- **Titre** : FOLIO 30 RECTO (Les Comptes de Clôture)
-- **Date** : Mardi 3 octobre 1916 (Suite).
-- **Lieu** : Paris / Millau
+- **Titre** : FOLIO 30 VERSO (Règlement du tailleur Guiraud, du loyer semestriel à Mlle Guilhem et thé chez Mme de Labarthe)
+- **Date** : Mardi 3 octobre 1916 (suite)
+- **Lieu** : Toulouse
 
 ### I. Transcription diplomatique
 ```text
@@ -2699,22 +2813,22 @@ Lecture : Le mot est bien "cortège". La sortie de la messe d'anniversaire se fa
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma** *scil.* Mardi.
-- Ligne 5 : **5 ( Juillet** Écriture courante à l'encre noire.
+- Ligne 4 : **4 Mlle** *abbr. pro* Mademoiselle.
+- Ligne 8 : **8 Mme** *abbr. pro* Madame.
 - Ligne 9 : **9 ns** *scil.* nous.
-- Ligne 10 : **10 Simplicité &** Clôture de la page manuscrite.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-[1] "3 Ma" :
+**Disposition matérielle :** Ce feuillet (Folio 30 verso) présente une structure inversée : les sept premières lignes sont consacrées aux règlements financiers de fin de séjour, tandis que les lignes 8 à 10 ajoutent après coup le souvenir du thé pris l'après-midi même chez Mme de Labarthe.
 
 ### IV. Commentaire historique
-Confirme qu'il s'agit de la suite des notes du mardi 3 octobre, après les courses en ville. — [2] "Guiraud... tunique : 38f" : — Identification : Guiraud est le tailleur d'Hippolyte à Toulouse. — Le Fait : Il paie la "façon" (le travail) et les "fournitures" pour la remise à neuf de sa tunique militaire. Il repart au front avec un uniforme impeccable, signe de sa tenue morale et sociale d'officier/interprète. — [3] "Semestre à Mlle Guilhem : 90f" :.
+**l.~2--9 Payé à Guiraud, pour façon & fournitures tunique : 38 f / Semestre à Mlle Guilhem : 90 f :** Avant de regagner le front britannique, l'interprète règle 38 francs au maître tailleur toulousain Guiraud pour la confection ou la remise à neuf de sa tunique militaire (avec 60 centimes de doublure de satin) et acquitte auprès de sa propriétaire Mlle Guilhem le loyer semestriel de son appartement (90 francs pour la période juillet 1916 -- janvier 1917).
 
 ---
 
 ## Scan #062 — `20251126_103514.jpg` — Folio 31 recto
-- **Titre** : FOLIO 30 VERSO (L'Arrachement du Départ)
-- **Date** : Mercredi 4 octobre 1916.
-- **Lieu** : Paris / Millau
+- **Titre** : FOLIO 31 RECTO (Mise en ordre de l'appartement, dernier après-midi au parc et déchirement du départ en gare Matabiau)
+- **Date** : Mercredi 4 octobre 1916
+- **Lieu** : Toulouse (Appartement, Thermes du Languedoc, Sainte-Marie et gare Matabiau)
 
 ### I. Transcription diplomatique
 ```text
@@ -2741,25 +2855,29 @@ Confirme qu'il s'agit de la suite des notes du mardi 3 octobre, après les cours
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 4** *scil.* Mercredi.
+- Ligne 1 : **1 Mer.** *scil.* Mercredi.
 - Ligne 4 : **4 tt** *scil.* tout. **4 ds** *scil.* dans.
+- Ligne 6 : **6 m.** *abbr. pro* matin.
+- Ligne 7 : **7 Ste** *abbr. pro* Sainte.
 - Ligne 8 : **8 cie** *scil.* compagnie. **8 Mte** *scil.* Marguerite.
 - Ligne 12 : **12 gd** *scil.* grand.
+- Ligne 14 : **14 Mte** *scil.* Marguerite (Calmels).
 - Ligne 15 : **15 ds** *abbr. pro* dans.
+- Ligne 16 : **16 Mte** *scil.* Marguerite (Calmels).
 - Ligne 19 : **19 ns** *scil.* nous.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Moment clé : Ils s'isolent dans le train à quai. C'est l'instant de l'intimité volée, peut-être des serments ultimes. L'écriture est rapide, traduisant l'émotion du souvenir. — Vocabulaire : Le mot "arrachement" est d'une violence psychologique rare sous la plume d'Hippolyte. Il ne part pas, il est arraché. — C'est avec une extrême rigueur que j'ai repris l'examen de ces deux feuillets (Folio 31 Recto et Folio 31 Verso).
+**l.~9 Longs tête à tête très fort intimes :** Juxtaposition intensive de deux adverbes (*très fort*). **l.~18 gare de G.V. :** Abréviation ferroviaire pour *Grande Vitesse*. **l.~19--20 dû ns séparer, par arrachement :** Force expressive du substantif *arrachement* traduisant la douleur des adieux sur le quai.
 
 ### IV. Commentaire historique
-[1] "Enlevé & rentré rideaux..." : — Geste symbolique de la mise en sommeil du foyer ("l'Hivernage"). L'appartement est "mis en ordre" comme une conscience avant la bataille. — [2] "Thermes du Languedoc" : — Établissement de bains toulousain. Hippolyte s'y rend pour être physiquement net avant le long voyage en train et la saleté des tranchées. — [3] "Joué avec les enfants" : — Scène de vie familiale paisible ("au fond du parc") qui contraste violemment avec ce qui l'attend. Marguerite l'intègre dans sa future vie de mère de famille.
+**l.~3--20 Enlevé & rentré rideaux... Thermes du Languedoc... Avec Mte & oncle Crouzet... départ pour Creil :** Levé dès 6 h pour décrocher les rideaux et fermer son appartement, Hippolyte passe aux Thermes du Languedoc puis consacre tout son dernier après-midi à Marguerite dans le parc de Sainte-Marie ; le soir, accompagnée de l'oncle Crouzet, sa fiancée monte un instant avec lui dans son compartiment en gare Matabiau avant l'heure déchirante de la séparation.
 
 ---
 
 ## Scan #063 — `20251126_103538.jpg` — Folio 31 verso
-- **Titre** : FOLIO 31 VERSO (Le Flâneur à Paris)
-- **Date** : 5 octobre 1916
-- **Lieu** : Train Millau – Paris – Amiens
+- **Titre** : FOLIO 31 VERSO (Traversée de Paris sous la pluie : l'église Saint-Vincent-de-Paul et les salons du Louvre)
+- **Date** : Jeudi 5 octobre 1916
+- **Lieu** : Paris (Gare d'Orsay, Gare du Nord, église Saint-Vincent-de-Paul, Grands Magasins du Louvre)
 
 ### I. Transcription diplomatique
 ```text
@@ -2786,25 +2904,26 @@ Moment clé : Ils s'isolent dans le train à quai. C'est l'instant de l'intimit�
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 3 : **3 .** *scil.* matin.
+- Ligne 3 : **3 m.** *scil.* matin.
+- Ligne 4 : **4 y** *scil.* et.
 - Ligne 5 : **5 pr** *scil.* pour.
-- Ligne 9 : **9 Egl** *scil.* Eglise.
+- Ligne 9 : **9 Egl** *scil.* Eglise. **9 Egl.** *abbr. pro* Église.
 - Ligne 13 : **13 j-aux** *scil.* jusqu'aux. **13 Mag** *scil.* Magasins.
 - Ligne 15 : **15 Corresp** *scil.* Correspondance.
 - Ligne 18 : **18 pr** *scil.* pour.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : Le mot est abrégé "Corresp". — Contexte : Les Grands Magasins du Louvre (aujourd'hui le Louvre des Antiquaires) offraient à leurs clients des salons d'écriture luxueux (papier, plume, encre gratuits). C'est là qu'il écrit ses "2 lettres" (probablement une pour Marguerite, une pour ses parents). — Lecture : Graphie rapide. On distingue "Du" (D majuscule) et "Res...".
+**Note codicologique (inversion des Scans #063 et #064) :** Lors de la numérisation, le cliché `20251126_103538.jpg` (Scan #063, journée du jeudi 5 octobre à Paris) a été photographié avant le cliché `20251126_103554.jpg` (Scan #064, nuit du mercredi 4 au jeudi 5 octobre dans le train Toulouse--Paris). **l.~14--15 salon de Corresp :** Apocope de *Correspondance*.
 
 ### IV. Commentaire historique
-[1] "Sous pluie fine y serrée" : — Graphie : Hippolyte utilise un signe qui ressemble à un "y" cursif. Dans le contexte et l'époque, cela peut être une variante rapide de l'esperluette (&) ou un régionalisme occitan ("y" pour "et"). Je conserve "y" pour la fidélité diplomatique. — [2] "Egl St-Vincent-de-Paul" : — Localisation : Cette église se trouve près de la Gare du Nord (son point de chute pour les bagages). Il tue le temps avant son train pour Creil. — [3] "Colonnes de marbre marron" : — Précision historique : J'ai vérifié ce détail.
+**l.~3--20 gare d'Orsay... Egl St-Vincent-de-Paul... Mag du Louvre... Au revoir, Paris :** Arrivé à 8 h du matin en gare d'Orsay et après avoir déposé ses bagages à la consigne de la gare du Nord, Hippolyte redescend à pied la rue La Fayette, admire les fresques d'Hippolyte Flandrin et la double colonnade ionique en stuc marron de l'église Saint-Vincent-de-Paul, puis rédige deux lettres au salon de correspondance des Grands Magasins du Louvre.
 
 ---
 
 ## Scan #064 — `20251126_103554.jpg` — Folio 32 recto
-- **Titre** : FOLIO 31 RECTO (La Nuit dans le Rapide et les Comptes)
-- **Date** : 4 octobre 1916 (soir)
-- **Lieu** : Millau – Départ en train
+- **Titre** : FOLIO 32 RECTO (Fin des adieux en gare de Toulouse, nuit blanche dans l'express d'Orsay et comptes de départ)
+- **Date** : Mercredi 4 octobre 1916 (soir et nuit)
+- **Lieu** : Gare de Toulouse et train de nuit Toulouse – Paris-Orsay
 
 ### I. Transcription diplomatique
 ```text
@@ -2825,21 +2944,23 @@ Lecture : Le mot est abrégé "Corresp". — Contexte : Les Grands Magasins du L
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Mte** *scil.* Marguerite.
-- Ligne 2 : **2 4** *scil.* Mercredi.
-- Ligne 10 : **10 .** *scil.* classe. **10 .** *scil.* pour.
+- Ligne 2 : **2 Mer.** *scil.* Mercredi.
+- Ligne 7 : **7 Ste** *abbr. pro* Sainte.
+- Ligne 8 : **8 Mte** *scil.* Marguerite (Calmels).
+- Ligne 10 : **10 cl.** *scil.* classe. **10 p.** *scil.* pour.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture validée : La lecture "Marie" (prénom) et "bonne des Crouzet" (statut) est certaine.
+**Note codicologique :** Les deux premières lignes (*... Mte & moi, très émus..*) constituent la suite syntaxique immédiate de la dernière ligne du Scan #062 (Folio 30 verso) et précèdent chronologiquement le Scan #063. **l.~10 Billet 3e cl. p. Orsay : 11 f :** Abréviations *cl.* (*classe*) et *p.* (*pour*).
 
 ### IV. Commentaire historique
-[1] "8H ½" : — Précision horaire : Il s'agit de 20h30. Le train de nuit Toulouse-Paris partait traditionnellement en soirée pour arriver au petit matin. — [2] "2 images Ste Thérèse" : — Identification : Il s'agit très probablement de Sainte Thérèse de Lisieux (très populaire chez les soldats pour sa protection). Le prix modique (40 centimes pour deux) indique de petites images pieuses cartonnées qu'il a dû partager avec Marguerite : une pour elle, une pour lui, comme un talisman de couple. — [3] "Billet 3e cl. p. Orsay : 11 f" :.
+**l.~3--13 Train, démarré vers 8H 1/2... 2 images Ste Thérèse : 40 c... Etrenne à Marie, bonne des Crouzet : 5 f :** Tandis que l'express de 20 h 30 l'emporte vers Paris à travers une nuit d'insomnie, Hippolyte dresse le bilan de ses dernières dépenses toulousaines : deux petites images pieuses de sainte Thérèse de Lisieux (partagées comme gage de protection avec Marguerite), des fleurs (1,70 fr.), son billet militaire pour Orsay (11 fr.) et 5 francs d'étrennes à Marie, domestique de la famille Crouzet.
 
 ---
 
 ## Scan #065 — `20251126_103743.jpg` — Folio 32 verso
-- **Titre** : FOLIO 32 RECTO (L'Itinéraire et les Frais)
-- **Date** : Octobre 1916
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 32 VERSO (Train de nuit de Paris-Nord à Amiens et attente matinale en gare de Doullens)
+- **Date** : Nuit du jeudi 5 au vendredi 6 octobre 1916
+- **Lieu** : Paris (Gare du Nord), Amiens et Doullens (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -2854,24 +2975,21 @@ Lecture validée : La lecture "Marie" (prénom) et "bonne des Crouzet" (statut) 
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 4 : **4 A Doullens,** Écriture courante à l'encre noire.
 - Ligne 6 : **6** ⟦Paris⟧ *del. in ms.*
-- Ligne 7 : **7 Food** *angl. in ms.*
-- Ligne 8 : **8 Consigne: 10** Clôture de la page manuscrite.
+- Ligne 7 : **7 c.** *abbr. pro* centimes. **7 Food** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Analyse Graphique : L'écriture est hachée, probablement rédigée sur le vif (dans le train ou sur un coin de table). — Lecture confirmée : Le chiffre est précis. C'est le train de nuit Paris-Nord -> Amiens-Arras. — Correction : La lecture précédente ("10H 45 il gèle") est rectifiée. Le tracé correspond mieux à "d'attente" (le d est lié au a). Il a attendu 1h45 à la gare du Nord avant de pouvoir monter, d'où le point d'exclamation (agacement). — Grammaire : Le premier mot prend un accent circonflexe implicite ou est le participe passé "Dû" (devoir).
+**l.~6 $\llbracket$Paris$\rrbracket$ Métro : 1 f 15 c :** Rature du toponyme initial devant la récapitulation des frais de transport parisiens. **l.~7 Food... : 2f, 2f, 50c., Drink : 10 c. :** Retour immédiat aux rubriques comptables anglaises dès le franchissement de la zone des armées britanniques.
 
 ### IV. Commentaire historique
-[1] "1H 12" : — [2] "Après 1H 45 d'attente !" : — [3] "A Doullens, au matin" : — Correction : Au lieu de "un moment", la graphie et le contexte (après 6h30) suggèrent "au matin" (écrit au mat avec une finale écrasée). Il arrive à Doullens au petit matin. — [4] "Dû rester gare" : — [5] "Food... Drink" : — Linguistique : Confirmation de l'usage de l'anglais pour les catégories comptables. C'est le marqueur de son changement d'identité : il redevient le British Interpreter.
+**l.~1--5 Parti train 1H 12 (après 1H 45 d'attente !)... A Amiens, à 6H... A Doullens, au matin :** Après une attente éprouvante d'une heure quarante-cinq en pleine nuit sur les quais de la gare du Nord, le train de permissionnaires part à 1 h 12 du matin, atteint Amiens à 6 h et dépose l'interprète au petit jour en gare de Doullens.
 
 ---
 
 ## Scan #066 — `20251126_103755.jpg` — Folio 33 recto
-- **Titre** : FOLIO 32 VERSO (La Réalité du Front et le "Shifting")
-- **Date** : Octobre 1916
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 33 RECTO (Matinée pluvieuse à Doullens, déplacement de la division vers Canaples et retour à la 152e Cie A.S.C.)
+- **Date** : Vendredi 6 octobre 1916 (matin et midi)
+- **Lieu** : Doullens et Canaples (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -2900,24 +3018,26 @@ Analyse Graphique : L'écriture est hachée, probablement rédigée sur le vif (
 - Ligne 2 : **2** ⟦Acheux⟧ *del. in ms.*
 - Ligne 4 : **4 pt** *scil.* petit.
 - Ligne 6 : **6 qq** *scil.* quelques.
+- Ligne 7 : **7 St** *abbr. pro* Saint.
+- Ligne 10 : **10 R.T.O.** *angl.* Railway Transport Officer.
 - Ligne 11 : **11 shifté** *angl. in ms.*
 - Ligne 14 : **14 Gds** *scil.* Guards. **14 lorries** *angl. in ms.*
 - Ligne 16 : **16 lorries** *angl. in ms.*
 - Ligne 17 : **17 refilling point** *angl. in ms.*
-- Ligne 18 : **18 A.S.C.** *angl.* Army Service Corps.
+- Ligne 18 : **18 Coy** *angl.* Company. **18 A.S.C.** *angl.* Army Service Corps.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Analyse Graphique : Écriture plus posée dans la seconde partie, narrativisée. — Psychologie : Lapsus calami révélateur. Il s'apprêtait à écrire le nom de son ancien cantonnement (Acheux-en-Amiénois, août 1916), mais la réalité (Doullens) l'a rattrapé. — C'est avec une attention renouvelée et une rigueur "microscopique" que j'ai relu ces deux feuillets. Certaines nuances m'étaient apparues trop vite ; cette relecture permet de préciser la chronologie de cette journée du samedi et l'identité de ses hôtes.
+**l.~2 $\llbracket$Acheux$\rrbracket$ nuit salle départ gare de Doullens :** Lapsus calami révélateur : encore à demi endormi sur un banc de la salle d'attente, l'auteur écrit d'abord le nom d'*Acheux* avant de le biffer pour *gare de Doullens*. **l.~10--11 ma division a shifté :** Emploi au passé composé du verbe franglais *shifter* (changer de secteur).
 
 ### IV. Commentaire historique
-[1] "Acheux [barré]" : — [2] "Église St P." : — Topographie : Il s'agit de l'église Saint-Pierre de Doullens. L'autre église (Notre-Dame) est moins centrale. — [3] "R.T.O." : — Railway Transport Officer. L'autorité britannique dans les gares françaises. — [4] "Ma division a shifté" (TRÈS IMPORTANT) : — Lexique : Le verbe est clairement écrit "shifté" (anglais to shift, bouger/décaler, avec terminaison française). C'est un exemple parfait du jargon de tranchée franco-britannique.
+**l.~7--19 église St P. ... R.T.O. ... railhead est Canaples... 152 Coy. A.S.C. :** Après s'être recueilli au petit jour dans l'église Saint-Pierre de Doullens, Hippolyte apprend au bureau du *Railway Transport Officer* que sa division s'est déplacée vers l'ouest et a désormais sa tête de ligne ferroviaire (*railhead*) à Canaples ; débarqué à cette gare, il profite des camions (*lorries*) de la *Supply Column* pour rejoindre à 13 h le *refilling point* et sa compagnie, la *152nd Company A.S.C.*.
 
 ---
 
 ## Scan #067 — `20251126_103816.jpg` — Folio 33 verso
-- **Titre** : FOLIO 33 RECTO (L'Installation Stratégique)
-- **Date** : Vendredi 6 octobre 1916 (Suite).
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 33 VERSO (Installation au hameau de Barlette (Ribeaucourt) et visa de permission à Bernaville)
+- **Date** : Vendredi 6 octobre 1916 (après-midi et soir)
+- **Lieu** : Hameau de Barlette (Ribeaucourt) et Bernaville (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -2942,7 +3062,7 @@ Analyse Graphique : Écriture plus posée dans la seconde partie, narrativisée.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 6** *scil.* Vendredi.
+- Ligne 1 : **1 Ven.** *scil.* Vendredi.
 - Ligne 2 : **2 Coy** *scil.* Company.
 - Ligne 4 : **4 qq** *scil.* quelques. **4 symphe** *scil.* sympathique.
 - Ligne 5 : **5 assz** *scil.* assez.
@@ -2950,21 +3070,23 @@ Analyse Graphique : Écriture plus posée dans la seconde partie, narrativisée.
 - Ligne 8 : **8 Fse** *scil.* Française.
 - Ligne 9 : **9 gde** *scil.* grande. **9 billet** *angl. in ms.*
 - Ligne 10 : **10 Mre** *scil.* Mère.
-- Ligne 14 : **14 .** *scil.* photos.
+- Ligne 14 : **14 ph.** *scil.* photos. **14 cartes ph.** *abbr. pro* cartes photographiques.
+- Ligne 16 : **16 cartes ph.** *abbr. pro* cartes photographiques.
 - Ligne 17 : **17 lorry** *angl. in ms.*
+- Ligne 18 : **18 Q.M.S.** *angl.* Quartermaster Sergeant. **18 fr.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Topographie : Lecture confirmée. Il s'agit de la Ferme de Barlette, dépendance de Ribeaucourt. C'est un lieu isolé, propice au repos des troupes ("Rest Billets"). — La "Mission Française" est l'organe de liaison. Hippolyte doit y faire viser son ordre de mission pour réactiver ses droits (solde, vivres) après sa permission. — Lecture affinée : Le mot après "Mre" (Mère) commence par Ma et semble finir par ce ou ie. La lecture "Mace" (patronyme fréquent en Picardie) ou "Marie" est possible.
+**l.~4 symphe / l.~5 assz :** Abréviations pour *sympathique* et *assez*. **l.~9 trouvé 1 billet = gde chambre :** Le signe *=* introduit ici une équivalence explicative (*c'est-à-dire une grande chambre*). **l.~15 A " " cantine :** Guillemets de répétition (dittogramme) renvoyant à *A Doullens* de la ligne précédente.
 
 ### IV. Commentaire historique
-[1] "Hameau de Barlette" : — [2] "Mission Fse" : — [3] "Billet" : — Terme militaire (anglais et français) désignant le logement chez l'habitant (Billeting). — [4] "Chez Mre Mace..." : — [5] "Gift au Q.M.S. Tait" :
+**l.~2--18 cantonnée au hameau de Barlette, près de Ribeaucourt... Bernaville... Gift au Q.M.S. Tait : 5 fr. :** La *152nd Company A.S.C.* étant cantonnée au repos au hameau boisé de Barlette (commune de Ribeaucourt), Hippolyte se rend en camion (*lorry*) faire viser son titre de permission au bureau de la Mission française à Bernaville, s'installe dans une vaste chambre chez la mère Macé à 900 mètres de Barlette et remet un cadeau de 5 francs au *Quartermaster Sergeant* Tait.
 
 ---
 
 ## Scan #068 — `20251126_103828.jpg` — Folio 34 recto
-- **Titre** : FOLIO 33 VERSO (La Tempête Nocturne et le Confort)
-- **Date** : Samedi 7 octobre 1916.
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 34 RECTO (Tempête nocturne sur les vergers de Barlette et règlement des frais de mess au capitaine Panton)
+- **Date** : Samedi 7 octobre 1916
+- **Lieu** : Hameau de Barlette, Ribeaucourt (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -2987,26 +3109,27 @@ Topographie : Lecture confirmée. Il s'agit de la Ferme de Barlette, dépendance
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Samedi.
+- Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 2 : **2 s/** *scil.* sur.
 - Ligne 10 : **10 bp** *scil.* beaucoup. **10 billet** *angl. in ms.*
 - Ligne 11 : **11 gd** *scil.* grande.
+- Ligne 12 : **12 gd** *abbr. pro* grand.
 - Ligne 14 : **14 gds** *scil.* grands.
-- Ligne 15 : **15 .** *scil.* Captain.
+- Ligne 15 : **15 Cap.** *scil.* Captain.
 - Ligne 16 : **16 Sept** *scil.* Septembre. **16 mess** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : Le mot est bien "Durant" (D majuscule). Il fait un flash-back sur la nuit précédente ("Bonne nuit de repos... [malgré] Durant nuit, orage"). Cela souligne la qualité de son sommeil : il a bien dormi malgré la tempête qui faisait rage dehors. — Linguistique : L'adjectif anglais nice surgit naturellement. "Si nice" (Si agréable/joli). Hippolyte pense désormais en bilingue. — Cette relecture confirme l'extraordinaire capacité d'adaptation d'Hippolyte.
+**l.~10--11 Me plais bp de mon billet. Si nice gd chambre :** Insertion spontanée de l'adjectif appréciatif anglais *nice* au sein du groupe nominal français. **l.~16 pour – – jours :** Double tiret laissant en blanc le nombre exact de journées de popote du mois de septembre.
 
 ### IV. Commentaire historique
-[1] "Bonne promenade" : — Chronologie : La phrase "Bonne promenade" insérée ici est curieuse. — Interprétation : Soit il a fait une promenade le matin après s'être levé (pour inspecter les environs, voir les "pommiers" et les "bois"), avant que la pluie ne reprenne "Tout le jour". Soit c'est une appréciation générale du site ("Barlette... pittoresque"). La première hypothèse (promenade matinale) est la plus logique. — [2] "Durant nuit" : — [3] "Si nice" : — [4] "Cap. Panton... Mess au Sept" :.
+**l.~4--16 Durant nuit, orage tonnerre et rafales... Au Cap. Panton payé ma part dépenses mess au Sept : 29 f :** Tandis que les bourrasques d'automne font mugir les grands bois et les vergers de pommiers entourant Barlette « comme près de la mer », Hippolyte savoure le confort de sa grande chambre-salon et règle au capitaine Panton sa quote-part des frais de popote (*mess*) de septembre (29 francs).
 
 ---
 
 ## Scan #069 — `20251126_103845.jpg` — Folio 34 verso
-- **Titre** : FOLIO 34 RECTO (Le Repos et la Solde)
-- **Date** : Dimanche 8 octobre 1916.
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 34 VERSO (Dimanche de repos à Barlette et perception de la solde à pied à Bernaville sous la rafale)
+- **Date** : Dimanche 8 octobre 1916
+- **Lieu** : Barlette (Ribeaucourt) et Bernaville (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -3023,22 +3146,23 @@ Lecture : Le mot est bien "Durant" (D majuscule). Il fait un flash-back sur la n
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 .** *scil.* Dimanche.
+- Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 7 : **7 fse** *scil.* Française.
 - Ligne 9 : **9 y** *scil.* et.
+- Ligne 10 : **10 y** *scil.* et.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Lecture : La graphie du J majuscule (identique à celui de "Jeudi" ou "Juillet") confirme le verbe "Jouir". "Jouis [du] repos complet". — [3] "Solde y indemnité : 78 f 75" : — Détail Militaire : Il touche sa quinzaine à la Mission Française. Le montant (78,75 F) est fixe (correspondant à sa solde d'adjudant-chef/officier interprète + indemnité de nourriture). Cela prouve qu'il est administrativement "rentré" de permission.
+**l.~3 Jouis repos complet village paisible :** Juxtaposition nominale sans préposition ni article. **l.~9--10 Pays très verdoyant y boisé / solde y indemnité :** Double occurrence de la conjonction tachygraphique *y* (*et*) dans le corps du texte et dans la mention comptable.
 
 ### IV. Commentaire historique
-[1] "Jouis repos complet" : — [2] "Verdoyant y boisé" : — Linguistique : L'usage du "y" (pour "et") est confirmé ici et dans la note de bas de page. C'est une marque stylistique constante chez lui à cette période (influence de l'espagnol ou graphie rapide ?).
+**l.~6--10 venu à Bernaville, au bureau de la mission fse... 78 f 75 :** Son installation achevée à Barlette, l'interprète effectue dans l'après-midi l'aller-retour à pied jusqu'à Bernaville à travers le bocage picard balayé par le vent pour percevoir au bureau de la Mission française sa solde et son indemnité de quinzaine (78,75 francs).
 
 ---
 
 ## Scan #070 — `20251126_103857.jpg` — Folio 35 recto
-- **Titre** : FOLIO 34 VERSO (La Cathédrale Végétale)
-- **Date** : Lundi 9 octobre 1916.
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 35 RECTO (Promenade sous les futaies centenaires de Ribeaucourt et clair de lune d'octobre)
+- **Date** : Lundi 9 octobre 1916
+- **Lieu** : Barlette et forêt de Ribeaucourt (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -3067,6 +3191,7 @@ Lecture : La graphie du J majuscule (identique à celui de "Jeudi" ou "Juillet")
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 5 : **5 parallelt** *scil.* parallèlement.
 - Ligne 7 : **7 Ds** *scil.* Dans. **7 enchevetrt** *scil.* enchevêtrement.
+- Ligne 8 : **8 y** *scil.* et.
 - Ligne 9 : **9 plusis** *scil.* plusieurs.
 - Ligne 10 : **10 lgs** *scil.* longtemps. **10 ds** *scil.* dans.
 - Ligne 14 : **14 mess** *angl. in ms.*
@@ -3074,17 +3199,17 @@ Lecture : La graphie du J majuscule (identique à celui de "Jeudi" ou "Juillet")
 - Ligne 19 : **19 infinimt** *scil.* infiniment. **19 ds** *scil.* dans. **19 gde** *scil.* grande.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Abréviation : Parallèlement. La forêt longe la route de Bernaville. — Paléographie : Le mot se termine par un t barré caractéristique, abréviation pour la finale -ement. "Enchevêtrement" est le terme exact pour décrire le sous-bois dense ("taillis", "lianes"). — Analyse syntaxique : La phrase est elliptique. "[La] Campagne [était] mieux [visible] à regarder...". La lumière de la lune offre un contraste ("détails bien détachés") supérieur à la lumière "couleur de plomb" de la journée.
+**l.~5 parallelt / l.~7 enchevetrt / l.~9 plusis / l.~19 infinimt :** Série caractéristique d'abréviations par contraction finale (*parallèlement*, *enchevêtrement*, *plusieurs*, *infiniment*). **l.~16--17 Campagne mieux à regarder :** Tour elliptique notant la netteté des contours nocturnes sous la lune.
 
 ### IV. Commentaire historique
-[1] "Parallelt" : — [2] "Enchevetrt" : — [3] "Océan de verdure" : — Style : L'expression est clairement lisible. Hippolyte file la métaphore maritime (déjà présente la veille avec le vent qui sonnait comme la mer). Il se sent "ravi" (au sens fort : emporté, charmé) par la puissance de la nature, qui contraste avec la destruction humaine vue au front. — [4] "Campagne mieux à regarder" : — Bilan
+**l.~4--20 pénétré forêt... ds cet océan de verdure... 1 vrai salon :** Lors d'une après-midi sans service, l'amoureux des arbres s'enfonce longuement sous la voûte des futaies centenaires longeant la route de Bernaville, écoute avec ravissement le vent dans les frondaisons d'automne et regagne le soir sa vaste chambre de Barlette sous un ciel éclairé par la lune.
 
 ---
 
 ## Scan #071 — `20251126_103913.jpg` — Folio 35 verso
-- **Titre** : FOLIO 35 RECTO (10 octobre 1916)
-- **Date** : Octobre 1916
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 35 VERSO (Corvée de fourrage vert en lisière des bois aux couleurs d'automne et nuit de pleine lune)
+- **Date** : Mardi 10 octobre 1916
+- **Lieu** : Barlette et bois de Ribeaucourt (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -3106,36 +3231,30 @@ Abréviation : Parallèlement. La forêt longe la route de Bernaville. — Palé
 16 | brillant d’ 1 vive lueur, ds immensité
 17 | firmament. qq rares étoiles
 18 | gde paix épandue ——————
-19 | Notes de lecture (Révisions):
-20 | green forage: Lecture confirmée. Le "g" de green est bouclé comme un "g" anglais. C'est le terme technique militaire britannique pour le "fourrage vert" (herbe fraîche, luzerne non séchée).
-21 | de la Charge: Je maintiens la lecture "Charge" avec une majuscule. Le "C" est identique à celui de "Conduit" juste avant. Il désigne ici le service du chargement ou l'unité logistique (peut-être une traduction littérale de sa part de "Load" ou "Charge"). Hypothèse alternative rejetée: "Grange" (le G ne correspond pas).
-22 | rempli yeux vue: Lecture littérale maintenue. Il manque la préposition "de". C'est un style télégraphique: " rempli yeux vue des bois".
-23 | d' 1 vive lueur: Après examen attentif, le mot ressemble graphiquement à "vire" ou "vive". "Vive" est le seul sens logique. Le point sur le i est absent (fréquent chez lui), mais le double v est tracé comme des u.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 3 : **3 green** *angl. in ms.*
 - Ligne 4 : **4 forage** *angl. in ms.*
+- Ligne 6 : **6 s/** *abbr. pro* sur.
 - Ligne 8 : **8 qq** *scil.* quelques.
 - Ligne 14 : **14 ts** *scil.* tous.
 - Ligne 16 : **16 ds** *scil.* dans.
 - Ligne 17 : **17 qq** *abbr. pro* quelque(s).
 - Ligne 18 : **18 gde** *scil.* grande.
-- Ligne 20 : **20 green** *angl. in ms.*
-- Ligne 22 : **22 rempli** *scil.* les. **22 yeux** *scil.* de la.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-
+**l.~3--5 occupé pour green forage. Conduit fourragères de la Charge :** Emploi conjoint du syntagme anglais *green forage* et du français *fourragères* (chariots à fourrage). **l.~7--8 rempli yeux vue des bois :** Extrême condensation télégraphique par suppression de l'article et de la préposition (*[je me suis] rempli [les] yeux [de la] vue des bois*).
 
 ### IV. Commentaire historique
-
+**l.~5--18 assis s/ 1 botte de luzerne... Lune pleine brillant d'1 vive lueur :** Tout en surveillant matin et après-midi le chargement des voitures de luzerne à quarante mètres de la lisière forestière, Hippolyte contemple l'éclat des feuillages d'octobre sous le soleil, puis la sérénité nocturne de la pleine lune répandant une « grande paix » sur les campagnes de l'arrière-front.
 
 ---
 
 ## Scan #072 — `20251126_103948.jpg` — Folio 36 recto
-- **Titre** : FOLIO 35 VERSO (11 octobre 1916)
-- **Date** : Octobre 1916
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 36 RECTO (Convoi de luzerne sous une pluie battante derrière le grand bois de Ribeaucourt)
+- **Date** : Mercredi 11 octobre 1916
+- **Lieu** : Barlette et Ribeaucourt (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -3148,28 +3267,25 @@ Abréviation : Parallèlement. La forêt longe la route de Bernaville. — Palé
  7 | Après-midi, liberté entière –
  8 | Et le soir, ciel nuageux et temps
  9 | pluvieux. – –
-10 | Notes de lecture (Révisions et Doutes):
-11 | menus profits:
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 5 : **5 derrière le** Écriture courante à l'encre noire.
-- Ligne 6 : **6** ⟦#⟧ *del. in ms.* **6 billet** *angl. in ms.*
-- Ligne 11 : **11 menus profits:** Clôture de la page manuscrite.
+- Ligne 1 : **1 Mer.** *scil.* Mercredi.
+- Ligne 4 : **4 wagon** *angl. in ms.*
+- Ligne 6 : **6** ⟦#⟧ *del. in ms.* **6 y** *scil.* et.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Conclusion : Je valide "menus profits". L'expression est ironique ou désigne de petites tâches personnelles fructueuses (réparations, écriture). — Le mot commence par b. — Le signe barré (#) : Devant "ruisselante", il y a un gribouillis. Il semble avoir raturé un mot commencé (peut-être "t" pour "très" ou "e" pour "entièrement") avant d'écrire l'adjectif "ruisselante". — Vous pouvez intégrer ces transcriptions comme définitives.
+**l.~2--3 Matinée employée à menus profits :** Locution familière désignant de menus travaux personnels d'entretien avant le départ en corvée. **l.~6 Rentré billet, crotté y cape $\llbracket#\rrbracket$ ruisselante :** Omission de la préposition devant l'anglicisme *billet* (logement) et petite rature d'une lettre initiale devant l'adjectif *ruisselante*.
 
 ### IV. Commentaire historique
-Le p initial descend bien sous la ligne. — Le r est une petite vague. — Le o est lié. — Le f est la lettre clé : on distingue la boucle descendante caractéristique. — Le i n'a pas de point. — Le t est croisé. — Le s final boucle. — [2] Rentré billet : — Suit un i (sans point) et deux l (hautes boucles). — Se termine par et. — Sens : "Billet" est le terme anglais pour "cantonnement" ou "logement chez l'habitant". Hippolyte, interprète avec les Anglais, utilise ici le jargon de son unité (Guards Division).
+**l.~3--9 Sous pluie battante, dû conduire wagon de 1 charge de luzerne derrière le grand bois de Ribeaucourt :** Le retour des averses d'automne transforme la corvée matinale de ravitaillement en luzerne derrière le bois de Ribeaucourt en une épreuve boueuse dont l'interprète rentre trempé, avant de bénéficier d'une après-midi entière de repos.
 
 ---
 
 ## Scan #073 — `20251126_104011.jpg` — Folio 36 verso
-- **Titre** : FOLIO 36 RECTO (La Symphonie du Vent et le "Limber")
-- **Date** : Jeudi 12 et Vendredi 13 octobre 1916.
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 36 VERSO (Conduite d'un « limber G.S. », symphonie du vent dans les bois et chevauchée à Prouville avec le capitaine Panton)
+- **Date** : Jeudi 12 et vendredi 13 octobre 1916
+- **Lieu** : Barlette, Ribeaucourt et Prouville (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -3197,22 +3313,24 @@ Le p initial descend bien sous la ligne. — Le r est une petite vague. — Le o
 - Ligne 3 : **3 limber** *angl. in ms.*
 - Ligne 7 : **7 ds** *scil.* dans.
 - Ligne 9 : **9 lgs** *scil.* longtemps.
+- Ligne 11 : **11 Ven.** *scil.* Vendredi.
 - Ligne 15 : **15 Cap.** *scil.* Captain.
+- Ligne 16 : **16 kils** *abbr. pro* kilomètres.
 - Ligne 17 : **17 ns** *scil.* nous.
 - Ligne 18 : **18 shifterons** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Transcription : On lit distinctement limber suivi de G.S.. — Ce n'est plus du "code-switching" (alternance), c'est de la créolisation. Le mot anglais est intégré à la grammaire française.
+**l.~3--4 conduit limber G.S. wagons :** Emploi précis de la nomenclature du matériel hippomobile britannique (*Limber, General Service Wagon*, chariot de service général à avant-train articulé). **l.~17--18 appris que ns shifterons dimanche :** Futur français conjugué sur le radical anglais *shift-*.
 
 ### IV. Commentaire historique
-[1] "Limber G.S." : — Identification technique : Le G.S. Wagon (General Service Wagon) était le véhicule hippomobile standard de l'armée britannique. Le Limber est l'avant-train auquel on attelle les chevaux. — Hippolyte utilise ici le terme technique exact du manuel logistique britannique. Il ne conduit pas des "chariots", il conduit des "Limber G.S.". — [2] "y" : Conjonction "et". Usage constant. — [3] "Symphonie très forte" : — L'esthète ressort. Le bruit du vent dans les arbres ("bruit de houle") est perçu comme une œuvre musicale.
+**l.~7--18 bruit de houle... symphonie très forte... course à cheval avec Cap. Panton au village de Prouville :** Tandis que le jeudi 12 octobre est marqué par une halte contemplative dans les bois où les rafales résonnent comme une houle marine, Hippolyte chevauche le vendredi après-midi avec le capitaine Panton jusqu'à Prouville (à 4 km à l'ouest) et apprend le soir au dîner que l'unité quittera à regret Barlette le dimanche suivant.
 
 ---
 
 ## Scan #074 — `20251126_104027.jpg` — Folio 37 recto
-- **Titre** : FOLIO 36 VERSO (Le Départ pour Beauval et le "Darning")
-- **Date** : Dimanche 15 octobre 1916.
-- **Lieu** : Somme (Acheux / Beauval)
+- **Titre** : FOLIO 37 RECTO (Départ définitif de Barlette sous les averses et arrivée de la colonne à Beauval)
+- **Date** : Dimanche 15 octobre 1916
+- **Lieu** : De Barlette (Ribeaucourt) à Beauval (Somme)
 
 ### I. Transcription diplomatique
 ```text
@@ -3234,16 +3352,19 @@ Transcription : On lit distinctement limber suivi de G.S.. — Ce n'est plus du 
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 2 : **2 Tst** *scil.* Tous.
 - Ligne 3 : **3 déj** *scil.* déjeuné. **3 mess** *angl. in ms.*
+- Ligne 6 : **6 1/2** *scil.* demi / moitié.
 - Ligne 13 : **13 mess** *angl. in ms.*
-- Ligne 14 : **14 washing** *angl. in ms.*
+- Ligne 14 : **14 c.** *abbr. pro* centimes. **14 y** *scil.* et.
+- Ligne 15 : **15 cartes ph.** *abbr. pro* cartes photographiques.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
-Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif[ve]". Il souligne la rupture. — Lecture difficile : Le mot est très écrasé. On distingue Au, puis une lettre haute (d ou l), puis de. — [5] "Washing y darning" (NOUVEL ANGLICISME) : — Transcription : w-a-s-h-i-n-g (lavage) y (et) d-a-r-n-i-n-g.
+**l.~2--3 Quitté maison / Au mess, déj avant 7 h. définitif :** L'adjectif *définitif*, ajouté en fin de ligne 3, se rapporte au départ de la maison de Barlette mentionné à la ligne supérieure. **l.~9 Au milieu de, averses très fortes :** Ellipse du substantif (*au milieu de [la route]*). **l.~14 washing y darning : 70 c. :** Coordination par *y* de deux gérondifs anglais (*blanchissage et reprisage*).
 
 ### IV. Commentaire historique
-[1] "Dim. 15" : — Le chiffre ressemble à un 1 suivi d'une barre, mais le contexte (vendredi 13 + "shifterons dimanche") impose le dimanche 15 octobre. — [2] "Définitif" : — [3] "Au milieu de" : — Hypothèses : "Au milieu de" (sens logique mais graphie comprimée), "Au début de" (possible), "Au delà de" (peu probable). Je retiens "Au milieu de" (sous-entendu : du trajet) ou "Au moment de", car cela introduit les "averses très fortes". — [4] "Beauval" : — Ville située à 6 km au sud de Doullens. C'est le QG de l'arrière-front britannique.
+**l.~6--14 en route vers 11H 1/2... arrivés à Beauval... Connelly : 1 f :** Après avoir réglé à Barlette ses frais de blanchissage et de ravaudage (70 centimes) ainsi qu'un franc de pourboire à son ordonnance Connelly, Hippolyte quitte à regret le hameau à 11 h 30 pour une lente chevauchée de quatre heures entrecoupée de fortes averses jusqu'au bourg de Beauval (au sud de Doullens), où il trouve une petite chambre juste en face du nouveau mess de la compagnie.
 
 ---
 
@@ -3270,11 +3391,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 14 | vraie fourmilière de tommies.
 15 | Campés sous tentes, ds 1 champ, en contrebas de la
 16 | route de Senlis.
-17 | Visité ds la brasserie et revu amis.
+17 | Dîné ds la brasserie et revu amis.
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 12 : **12 A.S.C.** *angl.* Army Service Corps.
+- Ligne 1 : **1 1/2** *scil.* demi / moitié.
+- Ligne 4 : **4 m.** *abbr. pro* matin.
+- Ligne 12 : **12 A.S.C.** *angl.* Army Service Corps. **12 R.F.A.** *angl.* Royal Field Artillery.
+- Ligne 13 : **13 s.** *abbr. pro* soir.
+- Ligne 14 : **14 tommies** *angl. in ms.*
 - Ligne 15 : **15 ds** *abbr. pro* dans.
 - Ligne 17 : **17 ds** *abbr. pro* dans.
 
@@ -3310,9 +3435,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2** *in marg. cum unco* (comptes). **2 groom** *angl. in ms.*
-- Ligne 5 : **5 off.** *abbr. pro* officier(s).
-- Ligne 9 : **9 ds** *abbr. pro* dans.
-- Ligne 12 : **12 tte** *abbr. pro* toute.
+- Ligne 3 : **3 ctes ples** *abbr. pro* cartes postales.
+- Ligne 5 : **5 off.** *abbr. pro* officier(s). **5 off** *abbr. pro* officier(s).
+- Ligne 8 : **8 1/2** *scil.* demi / moitié. **8 m.** *abbr. pro* matin.
+- Ligne 9 : **9 ds** *abbr. pro* dans. **9 tt** *abbr. pro* tout.
+- Ligne 10 : **10 infrie** *abbr. pro* infanterie.
+- Ligne 11 : **11 m.** *abbr. pro* matin.
+- Ligne 12 : **12 tte** *abbr. pro* toute. **12 tjrs** *abbr. pro* toujours.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~1--3 16 Lundi / A Beauval, room : 1 f — groom : 1 f :** Rappel de la date de la veille en haut de page pour encadrer d'un crochet le relevé des menues dépenses de logement (*room*) et de pourboire à l'ordonnance (*groom*), suivi d'un trait horizontal séparateur avant l'entrée du mardi 17 octobre.
@@ -3341,10 +3470,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 ds** *abbr. pro* dans.
-- Ligne 4 : **4 ménagé sorte** Écriture courante à l'encre noire.
-- Ligne 6 : **6 ds** *abbr. pro* dans. **6 mess** *angl. in ms.*
-- Ligne 9 : **9 17 Mardi** Clôture de la page manuscrite.
+- Ligne 1 : **1 ds** *abbr. pro* dans. **1 1/2** *scil.* demi / moitié.
+- Ligne 3 : **3 ns** *abbr. pro* nous.
+- Ligne 6 : **6 ds** *abbr. pro* dans. **6 s/** *abbr. pro* sur.
+- Ligne 7 : **7 Tte** *abbr. pro* Toute.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~1 1/2 route :** Abréviation graphique par chiffre fractionnaire pour *mi-route* (à mi-chemin), procédé constant chez Hippolyte Combes (qui écrit de même *au 1/2 de* pour *au milieu de*). **l.~9 17 Mardi Oct /16 :** Répétition inhabituelle de la date au bas du feuillet, sous un long trait de clôture, le texte ayant commencé directement au sommet de la page en continuité avec le folio précédent.
@@ -3380,10 +3509,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Merc.** *scil.* Mercredi.
 - Ligne 2 : **2 mess** *angl. in ms.*
-- Ligne 5 : **5 breakfast** *angl. in ms.*
+- Ligne 5 : **5 s/** *abbr. pro* sur. **5 breakfast** *angl. in ms.*
+- Ligne 6 : **6 frse** *abbr. pro* française.
 - Ligne 7 : **7 lgts** *abbr. pro* longtemps.
 - Ligne 9 : **9 qq** *abbr. pro* quelque(s).
-- Ligne 10 : **10 lorry** *angl. in ms.*
+- Ligne 10 : **10 s/** *abbr. pro* sur. **10 lorry** *angl. in ms.*
+- Ligne 12 : **12 Tt** *abbr. pro* Tout.
 - Ligne 13 : **13 ds** *abbr. pro* dans.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -3411,10 +3542,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 2 : **2 lorries** *angl. in ms.*
-- Ligne 4 : **4 off.** *abbr. pro* officier(s). **4 dinner** *angl. in ms.*
+- Ligne 2 : **2 ttes** *abbr. pro* toutes. **2 lorries** *angl. in ms.*
+- Ligne 3 : **3 gde** *abbr. pro* grande.
+- Ligne 4 : **4 off.** *abbr. pro* officier(s). **4 off** *abbr. pro* officier(s).
 - Ligne 5 : **5 ds** *abbr. pro* dans. **5 mess** *angl. in ms.*
 - Ligne 6 : **6 Merc.** *scil.* Mercredi.
+- Ligne 7 : **7 frse** *abbr. pro* française. **7 fr.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~1 sur l. :** Abréviation par suspension pour *sur laquelle* (se rapportant au mot *route* qui achève le folio précédent). **l.~6--7 Albert, mission frse : 84 fr. :** Relevé en bas de page du paiement de sa solde d'interprète au bureau de la Mission militaire française d'Albert.
@@ -3454,12 +3587,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 4 : **4 tte** *abbr. pro* toute.
+- Ligne 4 : **4 tte** *abbr. pro* toute. **4 Tte** *abbr. pro* Toute.
 - Ligne 7 : **7 mess** *angl. in ms.*
+- Ligne 10 : **10 s/** *abbr. pro* sur. **10 wagon** *angl. in ms.*
+- Ligne 12 : **12 ns** *abbr. pro* nous.
 - Ligne 13 : **13 ds** *abbr. pro* dans.
 - Ligne 15 : **15 ds** *abbr. pro* dans.
 - Ligne 16 : **16 qq** *abbr. pro* quelque(s).
-- Ligne 20 : **20** *in marg. cum unco* (comptes).
+- Ligne 20 : **20** *in marg. cum unco* (comptes). **20 Cartes ples** *abbr. pro* Cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~11 brickfield area :** Toponyme militaire anglais désignant le secteur des briqueteries à la sortie nord-ouest d'Albert (sur le plateau menant vers Aveluy et Bouzincourt). **l.~15--17 Réussi par trouver petite chambre... Y installé ! :** Le point d'exclamation souligne le soulagement physique du diariste qui échappe enfin au bivouac sous la pluie.
@@ -3499,9 +3634,11 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 4 : **4 qq** *abbr. pro* quelque(s).
+- Ligne 3 : **3 tjrs** *abbr. pro* toujours.
+- Ligne 4 : **4 Tt** *abbr. pro* Tout. **4 qq** *abbr. pro* quelque(s).
 - Ligne 10 : **10 ds** *abbr. pro* dans. **10 mess** *angl. in ms.*
 - Ligne 12 : **12 ds** *abbr. pro* dans.
+- Ligne 15 : **15 Coy** *angl.* Company.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~10--11 mess-room ds 1 petite cahute faite avec des caisses vides de munitions :** Description précise de l'architecture de fortune du front britannique (abris construits en caisses à biscuits et caisses d'obus recouvertes de tôle ondulée ou de toile goudronnée).
@@ -3538,11 +3675,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 3 : **3 Ds** *abbr. pro* Dans.
 - Ligne 7 : **7 ds** *abbr. pro* dans.
 - Ligne 9 : **9 lunch** *angl. in ms.*
 - Ligne 13 : **13 home** *angl. in ms.*
 - Ligne 14 : **14 ds** *abbr. pro* dans.
-- Ligne 15 : **15 lgts** *abbr. pro* longtemps.
+- Ligne 15 : **15 lgts** *abbr. pro* longtemps. **15 cie** *abbr. pro* compagnie.
+- Ligne 17 : **17 tjrs** *abbr. pro* toujours.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~13 rentré home :** Emprunt affectif à l'anglais *home* pour désigner sa modeste chambre de cantonnement chez la famille Duthuâteau à Albert. **l.~16 Abel... :** Le plus jeune fils de ses logeurs d'Albert (M. Duthuâteau, voir Scan #087 et Scan #091).
@@ -3582,7 +3721,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 5 : **5 lgts** *abbr. pro* longtemps. **5 lunch** *angl. in ms.*
 - Ligne 10 : **10 qq** *abbr. pro* quelque(s).
-- Ligne 14 : **14 mess** *angl. in ms.*
+- Ligne 14 : **14 s.** *abbr. pro* soir. **14 mess** *angl. in ms.*
 - Ligne 17 : **17 billet** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -3616,10 +3755,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 5 : **5 off.** *abbr. pro* officier(s).
-- Ligne 6 : **6 lorry** *angl. in ms.*
+- Ligne 5 : **5 off.** *abbr. pro* officier(s). **5 off** *abbr. pro* officier(s).
+- Ligne 6 : **6 s/** *abbr. pro* sur. **6 lorry** *angl. in ms.*
+- Ligne 8 : **8 ttes** *abbr. pro* toutes.
 - Ligne 9 : **9 dug-outs** *angl. in ms.*
-- Ligne 13 : **13** *in marg. cum unco* (comptes).
+- Ligne 11 : **11 s/** *abbr. pro* sur.
+- Ligne 13 : **13** *in marg. cum unco* (comptes). **13 Cartes ples** *abbr. pro* Cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~9--10 german dug-outs. Ces abris souterrains :** Procédé stylistique caractéristique du carnet : l'auteur emploie d'abord le terme technique anglais (*german dug-outs*) avant de le gloser immédiatement en français dans la phrase suivante (« Ces abris souterrains »).
@@ -3660,9 +3801,11 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 5 : **5 j'à** *abbr. pro* jusqu'à.
+- Ligne 8 : **8 frse** *abbr. pro* française.
 - Ligne 9 : **9 Lt** *abbr. pro* Lieutenant.
-- Ligne 11 : **11 qq** *abbr. pro* quelque(s).
-- Ligne 14 : **14 Merc.** *scil.* Mercredi.
+- Ligne 11 : **11 s/** *abbr. pro* sur. **11 qq** *abbr. pro* quelque(s).
+- Ligne 14 : **14 Merc.** *scil.* Mercredi. **14 Tjrs** *abbr. pro* Toujours.
+- Ligne 16 : **16 ns** *abbr. pro* nous.
 - Ligne 17 : **17 ds** *abbr. pro* dans.
 - Ligne 18 : **18 ds** *abbr. pro* dans.
 
@@ -3702,17 +3845,22 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 19 | obus. Long arrêt devant église.
 20 | Journée & nuit entt calmes. Aucune
 21 | canonnade — Silence complet
-22 | à l'horizon —
+22 | à l'horizon — [ Cartes ples: 75 c ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 2 : **2 tjrs** *abbr. pro* toujours.
 - Ligne 3 : **3 ds** *abbr. pro* dans.
 - Ligne 4 : **4 absolt** *abbr. pro* absolument.
-- Ligne 7 : **7 ds** *abbr. pro* dans.
-- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Hair cut** *angl. in ms.*
-- Ligne 12 : **12 Ven.** *scil.* Vendredi.
+- Ligne 7 : **7 ds** *abbr. pro* dans. **7 ttes** *abbr. pro* toutes.
+- Ligne 8 : **8 y** *scil.* et.
+- Ligne 9 : **9 s/** *abbr. pro* sur.
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 R.F.** *angl.* Royal Fusiliers.
+- Ligne 12 : **12 Ven.** *scil.* Vendredi. **12 Sam.** *scil.* Samedi.
+- Ligne 13 : **13 Tjrs** *abbr. pro* Toujours.
+- Ligne 15 : **15 auj'd'hui** *abbr. pro* aujourd'hui.
 - Ligne 17 : **17 ts** *abbr. pro* tous.
-- Ligne 22 : **22 —** *scil.*  Cartes ples : 75 c .
+- Ligne 22 : **22** *in marg. cum unco* (comptes). **22 Cartes ples** *abbr. pro* Cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~11 Hair cut, par un R.F. : 50 c :** Coupe de cheveux effectuée par un soldat britannique des *Royal Fusiliers* (*City of London Regiment*, dont plusieurs bataillons servaient dans la 18e Division). **l.~12 Ven. 27 & Sam. 28 :** Regroupement synthétique de deux journées consécutives sans déplacement professionnel.
@@ -3759,10 +3907,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 D.** *scil.* Dimanche.
 - Ligne 2 : **2 tt** *abbr. pro* tout.
-- Ligne 14 : **14** *in marg. cum unco* (comptes).
+- Ligne 4 : **4 tjrs** *abbr. pro* toujours.
+- Ligne 10 : **10 Gd** *abbr. pro* Grand(e).
+- Ligne 12 : **12 extt** *abbr. pro* extrêmement.
+- Ligne 14 : **14** *in marg. cum unco* (comptes). **14 Cartes ples** *abbr. pro* Cartes postales.
 - Ligne 16 : **16 L.** *scil.* Lundi.
 - Ligne 18 : **18 ds** *abbr. pro* dans.
-- Ligne 19 : **19 mess** *angl. in ms.*
+- Ligne 19 : **19 ns** *abbr. pro* nous. **19 mess** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~7 straw & hay :** Paille et foin, notés en anglais selon la terminologie administrative du *Foraging Service*. **l.~9--10 Fils aîné de M. Duthuâteau, maral logis artrie armée belge :** Identification précieuse de son hôte d'Albert, M. Duthuâteau (dont le fils cadet Abel était mentionné au Scan #082 et à qui il laissera 5 francs d'étrennes en partant le 2 novembre, Scan #091).
@@ -3789,8 +3940,6 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma.** *scil.* Mardi.
-- Ligne 3 : **3 nuages. Tout** Écriture courante à l'encre noire.
-- Ligne 6 : **6 Durant jour** Clôture de la page manuscrite.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~1--6 31 Ma. Oct. /16 :** Entrée exceptionnellement brève (six lignes seulement en haut du feuillet, suivies d'un large blanc sur les deux tiers inférieurs de la page) afin de clore matériellement le mois d'octobre avant d'ouvrir le mois de novembre en haut de la page suivante.
@@ -3834,11 +3983,16 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 1 : **1 1er** *scil.* premier.
+- Ligne 7 : **7 1/2** *scil.* demi / moitié.
 - Ligne 9 : **9 tt** *abbr. pro* tout.
-- Ligne 14 : **14 N.C.O's** *angl.* Non-Commissioned Officers.
+- Ligne 13 : **13 s/** *abbr. pro* sur. **13 div** *abbr. pro* division.
+- Ligne 14 : **14 N.C.O's** *angl.* Non-Commissioned Officers. **14 tommies** *angl. in ms.*
+- Ligne 15 : **15 s/** *abbr. pro* sur.
 - Ligne 19 : **19 ds** *abbr. pro* dans.
 - Ligne 20 : **20 qq** *abbr. pro* quelque(s).
 - Ligne 22 : **22 Lt** *abbr. pro* Lieutenant.
+- Ligne 24 : **24 Coy** *angl.* Company.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~4--10 visite au cimetière d'Albert... anglais killed in action :** L'une des pages littéraires les plus saisissantes du carnet, construite par juxtapositions nominales brèves (« Pierres brisées. Caveaux béants. Croix renversées »). **l.~14 N.C.O's :** *Non-Commissioned Officers* (sous-officiers britanniques). **l.~20 M.P.'s :** *Military Police*.
@@ -3880,12 +4034,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 J.** *scil.* Jeudi.
+- Ligne 2 : **2 m.** *abbr. pro* matin.
 - Ligne 3 : **3 ts** *abbr. pro* tous.
 - Ligne 4 : **4 breakfast** *angl. in ms.*
 - Ligne 6 : **6 Cap.** *abbr. pro* Capitaine.
 - Ligne 8 : **8 Lt** *abbr. pro* Lieutenant.
-- Ligne 9 : **9 ds** *abbr. pro* dans.
+- Ligne 9 : **9 ds** *abbr. pro* dans. **9 Lt** *abbr. pro* Lieutenant.
+- Ligne 11 : **11 Col.** *abbr. pro* Colonel.
 - Ligne 12 : **12 Lt** *abbr. pro* Lieutenant.
+- Ligne 13 : **13 1/2** *scil.* demi / moitié.
 - Ligne 14 : **14 ts** *abbr. pro* tous. **14 billet** *angl. in ms.*
 - Ligne 15 : **15 Lt** *abbr. pro* Lieutenant. **15 kit** *angl. in ms.*
 - Ligne 18 : **18 billets** *angl. in ms.*
@@ -3925,10 +4082,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 2 : **2 D.** *scil.* Dimanche.
+- Ligne 2 : **2 D.O.S.T.** *angl.* Director of Ordnance Services.
 - Ligne 4 : **4** *in marg. cum unco* (comptes).
+- Ligne 6 : **6 ctes ples** *abbr. pro* cartes postales.
+- Ligne 7 : **7 Ve.** *scil.* Vendredi.
 - Ligne 9 : **9 Lt** *abbr. pro* Lieutenant.
-- Ligne 10 : **10 lorry** *angl. in ms.*
+- Ligne 10 : **10 s/** *abbr. pro* sur. **10 lorry** *angl. in ms.*
+- Ligne 12 : **12 Coy** *angl.* Company.
 - Ligne 14 : **14 lunch** *angl. in ms.*
 - Ligne 15 : **15 ds** *abbr. pro* dans.
 - Ligne 16 : **16** *in marg. cum unco* (comptes).
@@ -3970,8 +4130,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
-- Ligne 3 : **3 lorry** *angl. in ms.*
-- Ligne 13 : **13 lunch** *angl. in ms.*
+- Ligne 3 : **3 s/** *abbr. pro* sur. **3 kil.** *abbr. pro* kilomètres.
+- Ligne 11 : **11 R.F.A.** *angl.* Royal Field Artillery. **11 R.F.** *angl.* Royal Fusiliers.
+- Ligne 13 : **13 s/** *abbr. pro* sur. **13 lunch** *angl. in ms.*
+- Ligne 14 : **14 Coy** *angl.* Company.
 - Ligne 15 : **15 Lt** *abbr. pro* Lieutenant.
 - Ligne 18 : **18 affrt** *abbr. pro* affreusement.
 
@@ -4010,10 +4172,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 2 : **2 D.** *scil.* Dimanche.
+- Ligne 2 : **2 D.O.S.T.** *angl.* Director of Ordnance Services.
 - Ligne 4 : **4** *in marg. cum unco* (comptes).
+- Ligne 6 : **6 ctes ples** *abbr. pro* cartes postales.
+- Ligne 7 : **7 Ve.** *scil.* Vendredi.
 - Ligne 9 : **9 Lt** *abbr. pro* Lieutenant.
-- Ligne 10 : **10 lorry** *angl. in ms.*
+- Ligne 10 : **10 s/** *abbr. pro* sur. **10 lorry** *angl. in ms.*
+- Ligne 12 : **12 Coy** *angl.* Company.
 - Ligne 14 : **14 lunch** *angl. in ms.*
 - Ligne 15 : **15 ds** *abbr. pro* dans.
 - Ligne 16 : **16** *in marg. cum unco* (comptes).
@@ -4059,9 +4224,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 4 : **4 billet** *angl. in ms.*
 - Ligne 5 : **5 Town Major** *angl. in ms.*
 - Ligne 9 : **9 ds** *abbr. pro* dans.
+- Ligne 12 : **12 proprre** *abbr. pro* propriétaire.
 - Ligne 14 : **14 Cap.** *abbr. pro* Capitaine.
 - Ligne 17 : **17 qq** *abbr. pro* quelque(s).
-- Ligne 19 : **19 ds** *abbr. pro* dans.
+- Ligne 19 : **19 ds** *abbr. pro* dans. **19 1/2** *scil.* demi / moitié.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~4--12 Délogé de mon billet (59)... trouvé bientôt 1 autre chambre — et préférable, no 1, route de Léalvillers :** Moment fondateur du séjour à Acheux : Hippolyte Combes emménage au n\textsuperscript{o}~1 de la route de Léalvillers, chez M. et Mme Carluvant (tailleur d'habits, voir Scan #102), qui le traiteront comme un membre de leur famille jusqu'en février 1917.
@@ -4106,9 +4272,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 3 : **3 j'à** *abbr. pro* jusqu'à. **3 lorry** *angl. in ms.*
+- Ligne 2 : **2 Tt** *abbr. pro* Tout.
+- Ligne 3 : **3 j'à** *abbr. pro* jusqu'à. **3 s/** *abbr. pro* sur.
+- Ligne 7 : **7 1/2** *scil.* demi / moitié.
+- Ligne 13 : **13 Coy** *angl.* Company.
+- Ligne 14 : **14 Coy** *angl.* Company.
 - Ligne 20 : **20 billet** *angl. in ms.*
-- Ligne 23 : **23 lorries** *angl. in ms.*
+- Ligne 23 : **23 ttes** *abbr. pro* toutes. **23 lorries** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~10--12 bois dont les ombres, teintées de rouille, orange et or :** Remarquable tableau impressionniste de l'automne picard. **l.~25 se rendant firing line :** L'expression anglaise *firing line* (ligne de feu) clôt la phrase sans préposition ni article, selon l'usage bilingue du carnet.
@@ -4151,11 +4321,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 4 : **4 lunch** *angl. in ms.*
-- Ligne 9 : **9 lorry** *angl. in ms.*
+- Ligne 7 : **7 frse** *abbr. pro* française.
+- Ligne 9 : **9 s/** *abbr. pro* sur. **9 lorry** *angl. in ms.*
 - Ligne 10 : **10 J.** *scil.* Jeudi.
 - Ligne 12 : **12 qq** *abbr. pro* quelque(s).
 - Ligne 15 : **15 j. à** *abbr. pro* jusqu'à.
 - Ligne 18 : **18 mess** *angl. in ms.*
+- Ligne 19 : **19 s/** *abbr. pro* sur. **19 Coy** *angl.* Company.
 - Ligne 21 : **21 qq** *abbr. pro* quelque(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -4198,8 +4370,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ven.** *scil.* Vendredi.
 - Ligne 4 : **4 Lt** *abbr. pro* Lieutenant.
+- Ligne 10 : **10 extt** *abbr. pro* extrêmement.
 - Ligne 11 : **11 Sam.** *scil.* Samedi.
-- Ligne 20 : **20** *in marg. cum unco* (comptes).
+- Ligne 13 : **13 R.F.A.** *angl.* Royal Field Artillery. **13 R.F.** *angl.* Royal Fusiliers.
+- Ligne 20 : **20** *in marg. cum unco* (comptes). **20 Ctes ples** *abbr. pro* Cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~16--17 Interprète de cette unité, M. Sorgues, prof. au lycée de Toulon :** La corporation des interprètes auprès de la B.E.F. compte de nombreux professeurs d'anglais de l'enseignement secondaire (comme Hippolyte Combes lui-même, professeur au collège de Nogent-le-Rotrou, qui avait fait ses classes d'artillerie à Toulon au printemps 1915).
@@ -4246,10 +4420,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 11 : **11** *in marg. cum unco* (comptes).
-- Ligne 13 : **13 Ma.** *scil.* Mardi.
+- Ligne 13 : **13 Ma.** *scil.* Mardi. **13 principt** *abbr. pro* principalement.
+- Ligne 14 : **14 auj'd'hui** *abbr. pro* aujourd'hui. **14 bombardemt** *abbr. pro* bombardement.
+- Ligne 16 : **16 s/** *abbr. pro* sur.
+- Ligne 18 : **18 1/2** *scil.* demi / moitié. **18 m.** *abbr. pro* matin.
 - Ligne 19 : **19 tt** *abbr. pro* tout.
-- Ligne 23 : **23** *in marg. cum unco* (comptes).
+- Ligne 23 : **23** *in marg. cum unco* (comptes). **23 gds** *abbr. pro* grands.
 - Ligne 24 : **24 Cartes ples** *abbr. pro* Cartes postales.
+- Ligne 25 : **25 fr.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~12 Casque peint khaki : 1 f :** Achat ou mise aux normes britanniques de son casque métallique, repeint en kaki mat règlementaire de la B.E.F. **l.~23 Boutons simili-cuir : 4 f 75 (10 gds, 3 petits) :** Boutons de cuir tressé (*leather buttons*) caractéristiques de la vareuse d'officier et d'interprète britannique.
@@ -4292,10 +4470,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 11 : **11** *in marg. cum unco* (comptes).
+- Ligne 3 : **3 principt** *abbr. pro* principalement.
+- Ligne 4 : **4 s/** *abbr. pro* sur.
+- Ligne 7 : **7 frse** *abbr. pro* française.
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Cartes ples** *abbr. pro* Cartes postales.
 - Ligne 12 : **12 Washing** *angl. in ms.*
-- Ligne 13 : **13 J.** *scil.* Jeudi.
-- Ligne 20 : **20 Lt** *abbr. pro* Lieutenant.
+- Ligne 13 : **13 J.** *scil.* Jeudi. **13 bombardemt** *abbr. pro* bombardement.
+- Ligne 17 : **17 fortt** *abbr. pro* fortement.
+- Ligne 20 : **20 ch.** *abbr. pro* chambre / chaude. **20 Lt** *abbr. pro* Lieutenant.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~20--23 Déjeuné à Hérissart ch. Lt Walsh et avec son interprète... M. Deloney :** Première rencontre avec le lieutenant Walsh et son interprète M. Deloney, qui deviendront les principaux compagnons de sociabilité d'Hippolyte Combes en novembre–décembre 1916 (voir Scans #103, #106, #120).
@@ -4341,13 +4523,17 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ven.** *scil.* Vendredi.
-- Ligne 10 : **10 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
+- Ligne 3 : **3 fortt** *abbr. pro* fortement.
+- Ligne 10 : **10 Y.M.C.A.** *angl.* Young Men's Christian Assoc.. **10 s.** *abbr. pro* soir.
+- Ligne 11 : **11 s/** *abbr. pro* sur.
 - Ligne 12 : **12 ts** *abbr. pro* tous.
 - Ligne 13 : **13 ds** *abbr. pro* dans.
-- Ligne 14 : **14 Sam.** *scil.* Samedi.
+- Ligne 14 : **14 Sam.** *scil.* Samedi. **14 tte** *abbr. pro* toute.
 - Ligne 16 : **16 ds** *abbr. pro* dans.
+- Ligne 19 : **19 s/** *abbr. pro* sur.
 - Ligne 21 : **21 lorry** *angl. in ms.*
-- Ligne 25 : **25** *in marg. cum unco* (comptes).
+- Ligne 22 : **22 1ère** *scil.* première.
+- Ligne 25 : **25** *in marg. cum unco* (comptes). **25 ctes ples** *abbr. pro* cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~17--19 Obus éclatent à coups de + en + précipités : on dirait énormes vagues déferlant s/ rochers avec 1 bruit de tonnerre :** Comparaison maritime saisissante pour rendre l'acoustique du tir de barrage roulant (*creeping barrage*).
@@ -4393,12 +4579,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 2 : **2 Auj'd'hui** *abbr. pro* Aujourd'hui.
+- Ligne 6 : **6 Ts** *abbr. pro* Tous.
+- Ligne 7 : **7 s/** *abbr. pro* sur.
 - Ligne 8 : **8 lorries** *angl. in ms.*
 - Ligne 14 : **14 ds** *abbr. pro* dans.
 - Ligne 16 : **16 mervt** *abbr. pro* merveilleusement.
-- Ligne 17 : **17** *in marg. cum unco* (comptes).
+- Ligne 17 : **17** *in marg. cum unco* (comptes). **17 Cartes ples** *abbr. pro* Cartes postales.
 - Ligne 19 : **19 Ma.** *scil.* Mardi.
-- Ligne 23 : **23 lorry** *angl. in ms.*
+- Ligne 23 : **23 s/** *abbr. pro* sur. **23 lorry** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~24--26 remarque +tôt désobligeante de Curtis : fâché contre lui :** Premier signe de l'antipathie croissante d'Hippolyte Combes envers le lieutenant Curtis, qu'il qualifiera sans ménagement lors de son départ le 6 décembre (Scan #107).
@@ -4444,7 +4633,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Mer.** *scil.* Mercredi.
-- Ligne 11 : **11** *in marg. cum unco* (comptes).
+- Ligne 6 : **6 Auj'd'hui** *abbr. pro* Aujourd'hui.
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 proprre** *abbr. pro* propriétaire.
+- Ligne 13 : **13 1/2** *scil.* demi / moitié. **13 s.** *abbr. pro* soir.
+- Ligne 17 : **17 tjrs** *abbr. pro* toujours.
+- Ligne 19 : **19 s/** *abbr. pro* sur.
+- Ligne 23 : **23 extt** *abbr. pro* extrêmement.
 - Ligne 25 : **25** *in marg. cum unco* (comptes). **25 Washing** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -4490,11 +4684,16 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
+- Ligne 2 : **2 Auj'd'hui** *abbr. pro* Aujourd'hui.
 - Ligne 4 : **4 j'à** *abbr. pro* jusqu'à.
+- Ligne 5 : **5 1/2** *scil.* demi / moitié.
+- Ligne 9 : **9 s/** *abbr. pro* sur.
 - Ligne 11 : **11 ds** *abbr. pro* dans.
 - Ligne 13 : **13 Dim.** *scil.* Dimanche.
+- Ligne 16 : **16 1/2** *scil.* demi / moitié.
 - Ligne 20 : **20 Lt** *abbr. pro* Lieutenant.
 - Ligne 21 : **21 ds** *abbr. pro* dans.
+- Ligne 23 : **23 longt** *abbr. pro* longtemps.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~6--8 langui bureau, assis caisse bidons de pétrole... Lis ou rumine. Triste vie :** Autoportrait mélancolique de l'intellectuel exilé dans la précarité matérielle d'un bureau de campagne britannique. **l.~22--23 Ainsi pu causer longt en fr. :** Souligne l'isolement linguistique quotidien d'Hippolyte Combes au milieu d'officiers et de soldats exclusivement anglophones.
@@ -4540,10 +4739,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma.** *scil.* Mardi.
+- Ligne 2 : **2 Tjrs** *abbr. pro* Toujours.
+- Ligne 5 : **5 Mme** *abbr. pro* Madame.
 - Ligne 6 : **6 tt** *abbr. pro* tout.
+- Ligne 9 : **9 ttes** *abbr. pro* toutes.
+- Ligne 16 : **16 1/2** *scil.* demi / moitié.
 - Ligne 18 : **18** *in marg. cum unco* (comptes). **18 Washing** *angl. in ms.*
 - Ligne 19 : **19 J.** *scil.* Jeudi.
-- Ligne 24 : **24 mess** *angl. in ms.*
+- Ligne 23 : **23 s.** *abbr. pro* soir.
+- Ligne 24 : **24 1ère** *scil.* première. **24 mess** *angl. in ms.*
 - Ligne 25 : **25 Lt** *abbr. pro* Lieutenant.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -4590,12 +4794,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 Ven.** *scil.* Vendredi.
+- Ligne 1 : **1 Ven.** *scil.* Vendredi. **1 1er** *scil.* premier.
 - Ligne 2 : **2 billet** *angl. in ms.*
 - Ligne 3 : **3 lunch** *angl. in ms.*
-- Ligne 8 : **8 Cap.** *abbr. pro* Capitaine.
+- Ligne 4 : **4 s/** *abbr. pro* sur.
+- Ligne 8 : **8 frse** *abbr. pro* française. **8 Cap.** *abbr. pro* Capitaine.
 - Ligne 11 : **11 ds** *abbr. pro* dans.
+- Ligne 13 : **13** *in marg. cum unco* (comptes).
 - Ligne 14 : **14 mess** *angl. in ms.*
+- Ligne 18 : **18 fortt** *abbr. pro* fortement.
 - Ligne 21 : **21 Cap.** *abbr. pro* Capitaine.
 - Ligne 22 : **22 Lt** *abbr. pro* Lieutenant.
 - Ligne 26 : **26 Cap.** *abbr. pro* Capitaine.
@@ -4645,11 +4852,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
-- Ligne 7 : **7 Lieutt** *abbr. pro* Lieutenant.
+- Ligne 5 : **5 1/2** *scil.* demi / moitié. **5 m.** *abbr. pro* matin.
+- Ligne 7 : **7 ch.** *abbr. pro* chambre / chaude. **7 Lieutt** *abbr. pro* Lieutenant.
 - Ligne 8 : **8 j'à** *abbr. pro* jusqu'à. **8 lunch** *angl. in ms.*
+- Ligne 11 : **11 Tt** *abbr. pro* Tout.
+- Ligne 12 : **12 1/2** *scil.* demi / moitié.
 - Ligne 15 : **15** *in marg. cum unco* (comptes).
-- Ligne 18 : **18 L.** *scil.* Lundi.
-- Ligne 20 : **20 ds** *abbr. pro* dans.
+- Ligne 18 : **18 L.** *scil.* Lundi. **18 rapidt** *abbr. pro* rapidement.
+- Ligne 20 : **20 ds** *abbr. pro* dans. **20 Mme** *abbr. pro* Madame.
 - Ligne 25 : **25 Lt** *abbr. pro* Lieutenant.
 - Ligne 26 : **26 Capt.** *angl.* Captain.
 
@@ -4692,9 +4902,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 7 : **7 lg** *abbr. pro* long / longtemps.
 - Ligne 10 : **10 Lieutt** *abbr. pro* Lieutenant.
-- Ligne 12 : **12 A.S.C.** *angl.* Army Service Corps.
-- Ligne 13 : **13 Merc.** *scil.* Mercredi.
-- Ligne 17 : **17 off.** *abbr. pro* officier(s).
+- Ligne 12 : **12 Coy** *angl.* Company. **12 A.S.C.** *angl.* Army Service Corps.
+- Ligne 13 : **13 Merc.** *scil.* Mercredi. **13 Lt** *abbr. pro* Lieutenant.
+- Ligne 14 : **14 1/2** *scil.* demi / moitié. **14 m.** *abbr. pro* matin.
+- Ligne 17 : **17 off.** *abbr. pro* officier(s). **17 off** *abbr. pro* officier(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~13--15 Lt Curtis, parti vers 7h 1/2 m. — & sans laisser de regret — A brainless ass :** Épitaphe féroce en anglais (« un âne sans cervelle »), qui montre combien l'universitaire français de 40 ans jugeait sévèrement la médiocrité intellectuelle de certains jeunes officiers britanniques. **l.~17--19 Cap. Williams, 20 ans !... avant la guerre, était office boy à 50 £ a year :** Observation sociologique pénétrante : un modeste employé de bureau gagnant 50 livres par an (1 250 francs) avant 1914 se retrouve promu capitaine à vingt ans par le jeu des pertes et de l'expansion de la *New Army*.
@@ -4740,14 +4951,17 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 4 : **4 lgts** *abbr. pro* longtemps.
+- Ligne 4 : **4 lgts** *abbr. pro* longtemps. **4 Cap. W.** *scil.* Capitaine Williams.
 - Ligne 5 : **5 j'à** *abbr. pro* jusqu'à.
+- Ligne 6 : **6 Mme** *abbr. pro* Madame.
 - Ligne 8 : **8 ds** *abbr. pro* dans.
 - Ligne 10 : **10 ds** *abbr. pro* dans.
 - Ligne 11 : **11 lgts** *abbr. pro* longtemps.
 - Ligne 12 : **12 Town Major** *angl. in ms.*
-- Ligne 16 : **16 off.** *abbr. pro* officier(s).
+- Ligne 16 : **16 off.** *abbr. pro* officier(s). **16 off** *abbr. pro* officier(s).
 - Ligne 17 : **17 ds** *abbr. pro* dans.
+- Ligne 20 : **20 Ve.** *scil.* Vendredi. **20 Tjrs** *abbr. pro* Toujours.
+- Ligne 23 : **23 St** *abbr. pro* Saint.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~13--15 canons anglais ne cessaient point de tonner : après coup, vibrations métalliques répercutées à travers l'espace — comme gémissement :** Notation acoustique d'une grande justesse littéraire, décrivant le sifflement vibratoire des obus de gros calibre fendant l'air brumeux au-dessus d'Englebelmer.
@@ -4788,13 +5002,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 5 : **5 mess** *angl. in ms.*
+- Ligne 4 : **4 m.** *abbr. pro* matin.
+- Ligne 5 : **5 Coy** *angl.* Company. **5 mess** *angl. in ms.*
 - Ligne 6 : **6 Lt** *abbr. pro* Lieutenant.
 - Ligne 8 : **8 j'à** *abbr. pro* jusqu'à.
-- Ligne 13 : **13 L.** *scil.* Lundi.
+- Ligne 13 : **13 L.** *scil.* Lundi. **13 auj'd'hui** *abbr. pro* aujourd'hui.
+- Ligne 15 : **15 Tjrs** *abbr. pro* Toujours.
 - Ligne 17 : **17 tte** *abbr. pro* toute.
-- Ligne 19 : **19 ds** *abbr. pro* dans.
-- Ligne 21 : **21** *in marg. cum unco* (comptes).
+- Ligne 19 : **19 ds** *abbr. pro* dans. **19 Tt** *abbr. pro* Tout.
+- Ligne 21 : **21** *in marg. cum unco* (comptes). **21 Dubbin** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~11--12 Entt insupportable ce gosse de Williams... :** Six jours à peine après son arrivée, le jeune capitaine de vingt ans (« ce gosse de Williams ») exaspère l'interprète par ses exigences et son manque d'égards. **l.~21 Tin of Wren's Dubbin : 30 c :** Boîte de graisse imperméabilisante anglaise de marque *Wren's Dubbin* pour assouplir et protéger de la boue les brodequins de cuir.
@@ -4835,11 +5051,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 5 : **5 lgts** *abbr. pro* longtemps.
+- Ligne 5 : **5 s/** *abbr. pro* sur. **5 lgts** *abbr. pro* longtemps.
+- Ligne 6 : **6 s/** *abbr. pro* sur.
 - Ligne 8 : **8 tt** *abbr. pro* tout.
 - Ligne 14 : **14 J.** *scil.* Jeudi.
-- Ligne 15 : **15 ds** *abbr. pro* dans.
+- Ligne 15 : **15 ds** *abbr. pro* dans. **15 lgts** *abbr. pro* longtemps.
+- Ligne 17 : **17 Tt** *abbr. pro* Tout.
 - Ligne 18 : **18 ds** *abbr. pro* dans.
+- Ligne 20 : **20 extt** *abbr. pro* extrêmement.
 - Ligne 21 : **21** *in marg. cum unco* (comptes).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -4884,11 +5103,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 3 : **3 tt** *abbr. pro* tout.
-- Ligne 6 : **6 ds** *abbr. pro* dans.
+- Ligne 6 : **6 ds** *abbr. pro* dans. **6 lgts** *abbr. pro* longtemps.
 - Ligne 7 : **7 bcp** *abbr. pro* beaucoup.
-- Ligne 8 : **8 L.** *scil.* Lundi.
-- Ligne 21 : **21 off.** *abbr. pro* officier(s).
-- Ligne 23 : **23** *in marg. cum unco* (comptes).
+- Ligne 8 : **8 L.** *scil.* Lundi. **8 Auj'd'hui** *abbr. pro* Aujourd'hui.
+- Ligne 15 : **15 Tjrs** *abbr. pro* Toujours.
+- Ligne 17 : **17 y** *scil.* et.
+- Ligne 21 : **21 off.** *abbr. pro* officier(s). **21 off** *abbr. pro* officier(s).
+- Ligne 23 : **23** *in marg. cum unco* (comptes). **23 Cartes ples** *abbr. pro* Cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~12--14 voiture ressaute : on est cahoté, secoué, jeté d'1 côté et d'autre :** Rythme ternaire mimétique traduisant l'épreuve physique des tournées automobiles sur les chaussées défoncées par les convois d'artillerie. **l.~20--22 Société de mon off. — 1 cap. de 20 ans, présomptueux & vain — peu agréable :** Portrait moral incisif du capitaine Williams.
@@ -4935,12 +5156,16 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 1 : **1 Ven.** *scil.* Vendredi.
 - Ligne 7 : **7 Cap.** *abbr. pro* Capitaine.
 - Ligne 8 : **8 billet** *angl. in ms.*
-- Ligne 9 : **9** *in marg. cum unco* (comptes).
-- Ligne 10 : **10 bcp** *abbr. pro* beaucoup.
-- Ligne 12 : **12 D.** *scil.* Dimanche.
+- Ligne 9 : **9** *in marg. cum unco* (comptes). **9 c.** *abbr. pro* centimes.
+- Ligne 10 : **10 bcp** *abbr. pro* beaucoup. **10 Mte** *scil.* Marguerite (Calmels).
+- Ligne 12 : **12 D.** *scil.* Dimanche. **12 Tjrs** *abbr. pro* Toujours.
 - Ligne 14 : **14 tte** *abbr. pro* toute.
-- Ligne 18 : **18 Cap.** *abbr. pro* Capitaine.
-- Ligne 24 : **24** *in marg. cum unco* (comptes).
+- Ligne 15 : **15 St** *abbr. pro* Saint.
+- Ligne 17 : **17 ch.** *abbr. pro* chambre / chaude. **17 Mme** *abbr. pro* Madame.
+- Ligne 18 : **18 Cap. W.** *scil.* Capitaine Williams. **18 Cap.** *abbr. pro* Capitaine.
+- Ligne 22 : **22 Mte** *scil.* Marguerite (Calmels). **22 ct** *abbr. pro* courant.
+- Ligne 23 : **23 gdes** *abbr. pro* grandes.
+- Ligne 24 : **24** *in marg. cum unco* (comptes). **24 s/** *abbr. pro* sur.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **Note codicologique :** Dans la campagne de numérisation, ce feuillet des 22–24 décembre 1916 (Scan #112, `20251126_105142.jpg`) a été photographié immédiatement avant celui des 19–20 décembre (Scan #113, `20251126_105155.jpg`). **l.~10--11 et 21--23 Lettre de Mte du 17 ct. — Velléités de rupture :** Aveu poignant de la crise sentimentale qui éclate à la veille de Noël 1916.
@@ -4985,8 +5210,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 3 : **3 lgts** *abbr. pro* longtemps.
 - Ligne 4 : **4 ds** *abbr. pro* dans.
 - Ligne 6 : **6 billet** *angl. in ms.*
+- Ligne 8 : **8 ch.** *abbr. pro* chambre / chaude.
 - Ligne 9 : **9** *in marg. cum unco* (comptes).
-- Ligne 12 : **12 Merc.** *scil.* Mercredi.
+- Ligne 10 : **10 fr.** *abbr. pro* franc(s).
+- Ligne 11 : **11 c.** *abbr. pro* centimes. **11 Christmas** *angl. in ms.*
+- Ligne 12 : **12 Merc.** *scil.* Mercredi. **12 fortt** *abbr. pro* fortement.
+- Ligne 20 : **20 gd** *abbr. pro* grand.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~4 Army P. Board :** *Army Purchase Board* (commission d'achat de l'armée britannique chargée d'homologuer les contrats de fourrage et de battage). **l.~15 Assis in front :** Sur le siège avant de l'automobile, à côté du chauffeur britannique (*driver*).
@@ -5029,10 +5258,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 13 : **13 ds** *abbr. pro* dans.
-- Ligne 15 : **15** *in marg. cum unco* (comptes). **15 Washing** *angl. in ms.*
-- Ligne 18 : **18 Cap.** *abbr. pro* Capitaine.
-- Ligne 19 : **19 qq** *abbr. pro* quelque(s).
+- Ligne 3 : **3 Tjrs** *abbr. pro* Toujours.
+- Ligne 5 : **5 frse** *abbr. pro* française.
+- Ligne 6 : **6 Margte** *scil.* Marguerite (Calmels).
+- Ligne 7 : **7 ct** *abbr. pro* courant.
+- Ligne 13 : **13 ds** *abbr. pro* dans. **13 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
+- Ligne 15 : **15** *in marg. cum unco* (comptes). **15 c.** *abbr. pro* centimes.
+- Ligne 18 : **18 Cap.** *abbr. pro* Capitaine. **18 s.** *abbr. pro* soir.
+- Ligne 19 : **19 qq** *abbr. pro* quelque(s). **19 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
+- Ligne 23 : **23 Gd** *abbr. pro* Grand(e).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~2--8 Dois-je faire 1 rapport à Mission frse ? / Hanté aussi par lettre de Margte du 17 ct. :** Examen de conscience dramatique du jour de Noël 1916, où le dilemme professionnel (faut-il dénoncer le capitaine Williams à la Mission française ?) se conjugue au tourment sentimental (« Cruelle perplexité ») avant l'apaisement stoïque du soir (« retrouvé compl. calme d'esprit & parfait équilibre »).
@@ -5068,10 +5302,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 6 : **6 Mme** *abbr. pro* Madame.
 - Ligne 9 : **9 Merc.** *scil.* Mercredi.
 - Ligne 12 : **12 j'à** *abbr. pro* jusqu'à.
 - Ligne 13 : **13 ds** *abbr. pro* dans.
 - Ligne 14 : **14** *in marg. cum unco* (comptes).
+- Ligne 15 : **15 gdes** *abbr. pro* grandes.
 - Ligne 16 : **16 Cartes ples** *abbr. pro* Cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -5117,10 +5353,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 2 : **2 fortt** *abbr. pro* fortement.
+- Ligne 5 : **5 rapidt** *abbr. pro* rapidement.
 - Ligne 7 : **7 breakfast** *angl. in ms.*
-- Ligne 10 : **10 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
+- Ligne 10 : **10 Y.M.C.A.** *angl.* Young Men's Christian Assoc.. **10 s.** *abbr. pro* soir.
 - Ligne 13 : **13** *in marg. cum unco* (comptes).
 - Ligne 16 : **16 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
+- Ligne 17 : **17 Ve.** *scil.* Vendredi.
+- Ligne 22 : **22 s.** *abbr. pro* soir.
+- Ligne 24 : **24 pt** *abbr. pro* petit.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~9 car in workshop :** L'automobile de l'unité étant à l'atelier de réparation mécanique (*workshop*), l'interprète bénéficie d'une journée entière de congé. **l.~14--15 Boîte recommandée à Imbert, opticien Paris : 30 c :** Envoi postal de son pince-nez cassé à son opticien parisien du boulevard Saint-Michel (qu'il réglera par mandat le 10 janvier et visitera le 27 janvier 1917, Scans #122 et #131).
@@ -5165,13 +5406,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
+- Ligne 6 : **6 extt** *abbr. pro* extrêmement.
 - Ligne 8 : **8 Cap.** *abbr. pro* Capitaine.
 - Ligne 12 : **12** *in marg. cum unco* (comptes).
 - Ligne 13 : **13 Dim.** *scil.* Dimanche.
 - Ligne 15 : **15 ds** *abbr. pro* dans.
 - Ligne 16 : **16 lunch** *angl. in ms.*
-- Ligne 22 : **22 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- Ligne 23 : **23** *in marg. cum unco* (comptes). **23 mess** *angl. in ms.*
+- Ligne 22 : **22 Y.M.C.A.** *angl.* Young Men's Christian Assoc.. **22 1/2** *scil.* demi / moitié.
+- Ligne 23 : **23** *in marg. cum unco* (comptes). **23 fr.** *abbr. pro* franc(s).
+- Ligne 24 : **24 fr.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~7--10 et 19--21 explication très calme, mais très ferme. M'a fait des excuses et m'a supplié de ne pas le quitter... attitude gênée et presque humiliée, contrite :** Scène psychologique remarquable où l'ascendant moral et l'âge d'Hippolyte Combes (40 ans) retournent complètement le rapport d'autorité face au jeune capitaine britannique de 20 ans, incapable de s'acquitter de sa mission sans son interprète.
@@ -5214,10 +5457,11 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 1 : **1 1er** *scil.* premier.
 - Ligne 6 : **6 gde** *scil.* grande.
 - Ligne 9 : **9 ds** *scil.* dans. **9 qq** *scil.* quelques.
-- Ligne 20 : **20 pr** *scil.* pour.
-- Ligne 22 : **22** *in marg. cum unco* (comptes). **22 Tooth Powder** *angl. in ms.*
+- Ligne 20 : **20 pr** *scil.* pour. **20 s.** *abbr. pro* soir.
+- Ligne 22 : **22** *in marg. cum unco* (comptes). **22 c.** *abbr. pro* centimes.
 - Ligne 23 : **23 boots** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -5261,11 +5505,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 5 : **5 off.** *abbr. pro* officier(s).
+- Ligne 5 : **5 off.** *abbr. pro* officier(s). **5 off** *abbr. pro* officier(s).
+- Ligne 7 : **7 ch.** *abbr. pro* chambre / chaude.
 - Ligne 10 : **10 ds** *abbr. pro* dans.
-- Ligne 12 : **12 j'à** *abbr. pro* jusqu'à.
+- Ligne 12 : **12 j'à** *abbr. pro* jusqu'à. **12 1/2** *scil.* demi / moitié.
 - Ligne 13 : **13 Cap.** *abbr. pro* Capitaine.
-- Ligne 20 : **20** *in marg. cum unco* (comptes).
+- Ligne 15 : **15 y** *scil.* et.
+- Ligne 19 : **19 s.** *abbr. pro* soir.
+- Ligne 20 : **20** *in marg. cum unco* (comptes). **20 ctes ples** *abbr. pro* cartes postales.
+- Ligne 21 : **21 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~10--11 ds la cour de l'Hôtel de la Paix, rue [\dots] :** L'auteur laisse un léger blanc après le mot *rue*, ayant oublié le nom exact de la rue (l'Hôtel de la Paix se trouvait rue de la République à Amiens). **l.~22--23 5 gravures ocre cathédrale : 2 f 50 / 1 bonnet police drap bleu : 3 f 75 c :** Ce relevé montre à la fois le goût artistique d'Hippolyte Combes et le soin qu'il apporte à sa tenue d'interprète.
@@ -5317,7 +5565,8 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 14 : **14 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
 - Ligne 15 : **15 Ven.** *scil.* Vendredi.
 - Ligne 17 : **17 Lt** *abbr. pro* Lieutenant.
-- Ligne 24 : **24** *in marg. cum unco* (comptes).
+- Ligne 20 : **20 Mme** *abbr. pro* Madame.
+- Ligne 24 : **24** *in marg. cum unco* (comptes). **24 fse** *abbr. pro* française.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~21--23 Mervx clair de lune. Routes boueuses comme ruisselantes de lumière :** Transfiguration poétique de la boue picarde sous l'effet de la pleine lune d'hiver.
@@ -5364,8 +5613,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 7 : **7 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
 - Ligne 10 : **10 A.S.C.** *angl.* Army Service Corps.
-- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Washing** *angl. in ms.*
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
 - Ligne 12 : **12 Ma.** *scil.* Mardi.
+- Ligne 14 : **14 St** *abbr. pro* Saint.
+- Ligne 18 : **18 Coy** *angl.* Company.
 - Ligne 19 : **19 ds** *abbr. pro* dans.
 - Ligne 24 : **24** *in marg. cum unco* (comptes).
 
@@ -5412,10 +5663,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
+- Ligne 3 : **3 s/** *abbr. pro* sur.
+- Ligne 4 : **4 St** *abbr. pro* Saint.
 - Ligne 7 : **7 tt** *abbr. pro* tout. **7 billet** *angl. in ms.*
-- Ligne 12 : **12 J.** *scil.* Jeudi.
-- Ligne 25 : **25 Rentré vers** Clôture de la page manuscrite.
+- Ligne 9 : **9** *in marg. cum unco* (comptes).
+- Ligne 11 : **11 fr.** *abbr. pro* franc(s).
+- Ligne 12 : **12 J.** *scil.* Jeudi. **12 tt** *abbr. pro* tout.
+- Ligne 13 : **13 off** *abbr. pro* officier(s).
+- Ligne 16 : **16 Ve.** *scil.* Vendredi.
+- Ligne 21 : **21 St** *abbr. pro* Saint.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~13 A whole day off :** Une journée entière de congé (en anglais idiomatique dans le texte). **l.~9--11 Mandat-poste à Imbert, opticien, Paris, pour réparation pince-nez et pour 1 neuf d'après ordonnance : 19 fr. :** Suite de l'envoi recommandé du 28 décembre (Scan #116).
@@ -5459,10 +5715,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
-- Ligne 7 : **7 Cap.** *abbr. pro* Capitaine.
+- Ligne 7 : **7 Cap.** *abbr. pro* Capitaine. **7 ct** *abbr. pro* courant.
 - Ligne 8 : **8 D.** *scil.* Dimanche.
+- Ligne 13 : **13 St** *abbr. pro* Saint.
 - Ligne 14 : **14 L.** *scil.* Lundi.
-- Ligne 22 : **22** *in marg. cum unco* (comptes).
+- Ligne 19 : **19 1/2** *scil.* demi / moitié.
+- Ligne 22 : **22** *in marg. cum unco* (comptes). **22 ctes ples** *abbr. pro* cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~10--11 Branches entt jolies avec ce léger duvet — ainsi ouatées / l.~16--19 Masses sombres des arbres... se détachent davantage au 1/2 du blanc :** Notations de peintre et de photographe amateur (Hippolyte Combes pratiquait la photographie depuis son séjour en Angleterre), attentif aux valeurs de contraste entre le noir des fûts mouillés et la blancheur de la neige.
@@ -5507,9 +5765,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 11 : **11** *in marg. cum unco* (comptes).
-- Ligne 12 : **12 Merc.** *scil.* Mercredi.
+- Ligne 5 : **5 Ds** *abbr. pro* Dans.
+- Ligne 9 : **9 gdes** *abbr. pro* grandes.
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Ctes ples** *abbr. pro* Cartes postales.
+- Ligne 12 : **12 Merc.** *scil.* Mercredi. **12 abondt** *abbr. pro* abondamment.
 - Ligne 14 : **14 j'à** *abbr. pro* jusqu'à.
+- Ligne 15 : **15 ch.** *abbr. pro* chambre / chaude.
+- Ligne 18 : **18 ns** *abbr. pro* nous.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~19--21 Ns a montré ses objets d'art précieux : notamt et surtout un coffret en paille acheté en 1858 au bagne de Toulon :** Détail curieux et authentique qui ravit l'amateur d'art et rappelle à Hippolyte Combes son propre passage en garnison à Toulon au printemps 1915.
@@ -5547,10 +5809,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 9 : **9 19 Vendredi** Écriture courante à l'encre noire.
+- Ligne 3 : **3 s/** *abbr. pro* sur.
 - Ligne 15 : **15 ds** *abbr. pro* dans.
-- Ligne 18 : **18 Ve corps,** Clôture de la page manuscrite.
+- Ligne 17 : **17** *in marg. cum unco* (comptes).
+- Ligne 18 : **18 fr.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~5--7 Plaines blanches se confondaient à l'horizon rapproché avec ciel mat / l.~14 Neige comme cristallisée, durcie ds les champs :** Finesse d'observation météorologique annonçant le début de la grande vague de gel sec qui va durer jusqu'à la mi-février 1917.
@@ -5595,7 +5857,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 8 : **8 Dim.** *scil.* Dimanche.
 - Ligne 9 : **9 j'à** *abbr. pro* jusqu'à.
-- Ligne 14 : **14** *in marg. cum unco* (comptes).
+- Ligne 10 : **10 Mme** *abbr. pro* Madame.
+- Ligne 14 : **14** *in marg. cum unco* (comptes). **14 Canteen** *angl. in ms.*
+- Ligne 17 : **17 auj'd'hui** *abbr. pro* aujourd'hui.
+- Ligne 21 : **21 1/2** *scil.* demi / moitié.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~11 2 kilog. :** Lapsus calami plaisant du manuscrit pour *2 kilom[ètres]* (la distance séparant Louvencourt d'Acheux-en-Amiénois). **l.~18 Hier, Capne W., à Amiens — seul :** Le tiret suivi de l'adjectif *seul* souligne le plaisir d'être débarrassé toute une journée de la présence du capitaine Williams.
@@ -5630,16 +5895,22 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 16 | Nuit & matinée, violent bombardemt.
 17 | Ts préparatifs terminés et arrangements
 18 | faits pour partir demain 3h s.
-19 | 
+19 | [ — Dépenses mess pour janvier = 79 f 10 ]
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma.** *scil.* Mardi.
 - Ligne 2 : **2 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- Ligne 4 : **4 Mer.** *scil.* Mercredi.
+- Ligne 3 : **3 very** *angl. in ms.*
+- Ligne 4 : **4 Mer.** *scil.* Mercredi. **4 extt** *abbr. pro* extrêmement.
 - Ligne 6 : **6 tte** *abbr. pro* toute.
+- Ligne 8 : **8 1/2** *scil.* demi / moitié.
 - Ligne 10 : **10 ts** *abbr. pro* tous.
 - Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Washing** *angl. in ms.*
+- Ligne 16 : **16 bombardemt** *abbr. pro* bombardement.
+- Ligne 17 : **17 Ts** *abbr. pro* Tous.
+- Ligne 18 : **18 s.** *abbr. pro* soir.
+- Ligne 19 : **19** *in marg. cum unco* (comptes). **19 mess** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~3 a very interesting lecture on Canada :** Appréciation rédigée directement en anglais dans le carnet. **l.~7 Au réveil, eau pot & seau gelée :** Notation matérielle frappante de l'intensité du gel à l'intérieur même des habitations picardes.
@@ -5683,11 +5954,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
+- Ligne 2 : **2 m.** *abbr. pro* matin.
+- Ligne 3 : **3 extt** *abbr. pro* extrêmement. **3 1/2** *scil.* demi / moitié.
+- Ligne 10 : **10 s/** *abbr. pro* sur.
 - Ligne 11 : **11 tt** *abbr. pro* tout.
-- Ligne 12 : **12 dont les** Écriture courante à l'encre noire.
-- Ligne 21 : **21 ds** *abbr. pro* dans.
-- Ligne 24 : **24 retard. Quitté** Clôture de la page manuscrite.
+- Ligne 16 : **16 compartt** *abbr. pro* compartiment.
+- Ligne 19 : **19 s.** *abbr. pro* soir.
+- Ligne 21 : **21 ds** *abbr. pro* dans. **21 correspce** *abbr. pro* correspondance.
+- Ligne 22 : **22 1/2** *scil.* demi / moitié.
+- Ligne 24 : **24 s.** *abbr. pro* soir.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~11--13 Champs tt couverts couche neige durcie dont les particules, comme des grains de diamant, étincellent sous les rayons solaires :** L'émerveillement du départ en permission inspire à l'auteur l'une des phrases les plus lumineuses et les plus achevées de son journal.
@@ -5717,6 +5992,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ven.** *scil.* Vendredi.
+- Ligne 2 : **2 m.** *abbr. pro* matin.
 - Ligne 4 : **4 qq** *abbr. pro* quelque(s).
 - Ligne 5 : **5** *in marg. cum unco* (comptes).
 
@@ -5762,7 +6038,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
+- Ligne 7 : **7 Bvd** *abbr. pro* Boulevard.
 - Ligne 8 : **8 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
+- Ligne 12 : **12 1/2** *scil.* demi / moitié.
+- Ligne 16 : **16 m.** *abbr. pro* matin.
 - Ligne 18 : **18 billet** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -5803,8 +6082,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
-- Ligne 9 : **9 Vers 4h** Écriture courante à l'encre noire.
-- Ligne 19 : **19 Peu à** Clôture de la page manuscrite.
+- Ligne 2 : **2 appartt** *abbr. pro* appartement. **2 ét.** *abbr. pro* étage / était.
+- Ligne 5 : **5 Mlle** *abbr. pro* Mademoiselle.
+- Ligne 9 : **9 s.** *abbr. pro* soir.
+- Ligne 10 : **10 ch.** *abbr. pro* chambre / chaude. **10 Bvd** *abbr. pro* Boulevard.
+- Ligne 12 : **12 plusrs** *abbr. pro* plusieurs.
+- Ligne 14 : **14 s.** *abbr. pro* soir.
+- Ligne 15 : **15 compartt** *abbr. pro* compartiment.
+- Ligne 17 : **17 Qq** *abbr. pro* Quelque(s). **17 s.** *abbr. pro* soir.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~1--2 au 4e ét., à g., appartt de Mme Faure :** Reprise syntaxique du dernier syntagme du folio précédent (« Au 4e étage, à g. », Scan #130) pour assurer l'enchaînement après la tourne de la page. **l.~10--11 Bvd St-Michel, ch. Imbert, mobilisé :** L'opticien parisien à qui Hippolyte avait expédié son pince-nez le 28 décembre et un mandat de 19 fr. le 10 janvier (Scans #116 et #122).
@@ -5847,8 +6132,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
-- Ligne 3 : **3 Cartes ples** *abbr. pro* Cartes postales.
-- Ligne 18 : **18 ds** *abbr. pro* dans.
+- Ligne 3 : **3 Cartes ples** *abbr. pro* Cartes postales. **3 c.** *abbr. pro* centimes.
+- Ligne 9 : **9 c.** *abbr. pro* centimes.
+- Ligne 10 : **10 c.** *abbr. pro* centimes.
+- Ligne 15 : **15 cme** *abbr. pro* comme.
+- Ligne 17 : **17 St** *abbr. pro* Saint.
+- Ligne 18 : **18 ds** *abbr. pro* dans. **18 appartt** *abbr. pro* appartement.
+- Ligne 20 : **20 1/2** *scil.* demi / moitié.
+- Ligne 21 : **21 Ste** *abbr. pro* Sainte.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~13--15 souvenirs jeunesse revenus en foule esprit. Cru revoir mère et sœurs, m'attendant, cme autrefois, gare :** Notation autobiographique bouleversante : en arrivant à la gare Matabiau de Toulouse, Hippolyte Combes revoit en pensée sa mère Marie Anaïs Alric (décédée en 1907) et ses deux sœurs disparues, Maria (morte à Carthage en 1903) et Joséphine (morte à Nogent-le-Rotrou en octobre 1914).
@@ -5884,7 +6175,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
-- Ligne 7 : **7 le petit** Écriture courante à l'encre noire.
+- Ligne 2 : **2 Margte** *scil.* Marguerite (Calmels).
+- Ligne 5 : **5 Ste** *abbr. pro* Sainte.
+- Ligne 6 : **6 Margte** *scil.* Marguerite (Calmels).
+- Ligne 8 : **8 1/2** *scil.* demi / moitié.
+- Ligne 9 : **9 s.** *abbr. pro* soir.
+- Ligne 10 : **10 Margte** *scil.* Marguerite (Calmels).
 - Ligne 15 : **15** *in marg. cum unco* (comptes).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -5929,10 +6225,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 12 : **12 Visité longuement** Écriture courante à l'encre noire.
+- Ligne 2 : **2 1/2** *scil.* demi / moitié.
+- Ligne 9 : **9 Ste** *abbr. pro* Sainte.
+- Ligne 10 : **10 Marg.** *scil.* Marguerite (Calmels).
+- Ligne 12 : **12 St** *abbr. pro* Saint.
+- Ligne 20 : **20 Ste** *abbr. pro* Sainte. **20 s.** *abbr. pro* soir.
 - Ligne 21 : **21** *in marg. cum unco* (comptes).
-- Ligne 24 : **24 Cartes pour** Clôture de la page manuscrite.
+- Ligne 23 : **23 Margte** *scil.* Marguerite (Calmels). **23 Ctes ples** *abbr. pro* Cartes postales.
+- Ligne 24 : **24 St** *abbr. pro* Saint.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~12--15 Visité longuement basilique St-Sernin et surtout les cryptes. Toute ma jeunesse réveillée, dans & autour de cette admirable église romane :** Émotion autobiographique intense : la maison familiale où Hippolyte Combes passa sa jeunesse auprès de ses parents (au 47 puis au 77 rue du Taur à Toulouse) débouchait directement sur la place Saint-Sernin.
@@ -5973,10 +6273,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 10 : **10 Après-midi, assisté** Écriture courante à l'encre noire.
-- Ligne 16 : **16** *in marg. cum unco* (comptes).
-- Ligne 21 : **21 Le Miroir** Clôture de la page manuscrite.
+- Ligne 2 : **2 gd** *abbr. pro* grand. **2 m.** *abbr. pro* matin.
+- Ligne 3 : **3 s/** *abbr. pro* sur.
+- Ligne 6 : **6 Mme** *abbr. pro* Madame.
+- Ligne 8 : **8 cme** *abbr. pro* comme. **8 Ste** *abbr. pro* Sainte.
+- Ligne 15 : **15 Margte** *scil.* Marguerite (Calmels). **15 cie** *abbr. pro* compagnie.
+- Ligne 16 : **16** *in marg. cum unco* (comptes). **16 Cartes ples** *abbr. pro* Cartes postales.
+- Ligne 19 : **19 c.** *abbr. pro* centimes.
+- Ligne 20 : **20 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~10--14 assisté conférce de M. Zyromski sur Maurice de Guérin... Vrai régal littéraire :** Ancien étudiant de la Faculté des Lettres de Toulouse (où il avait obtenu sa licence d'anglais), Hippolyte Combes retrouve avec délices l'amphithéâtre universitaire. **l.~21 Le Miroir des Modes (no de janvier) : 1 f :** Revue de mode illustrée achetée pour Marguerite.
@@ -6017,10 +6321,17 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
+- Ligne 2 : **2 Ds** *abbr. pro* Dans.
+- Ligne 4 : **4 Mte** *scil.* Marguerite (Calmels). **4 St** *abbr. pro* Saint.
+- Ligne 9 : **9 appartt** *abbr. pro* appartement. **9 y** *scil.* et.
 - Ligne 10 : **10 qq** *abbr. pro* quelque(s).
+- Ligne 11 : **11 Ste** *abbr. pro* Sainte. **11 1/2** *scil.* demi / moitié.
 - Ligne 14 : **14** *in marg. cum unco* (comptes).
-- Ligne 21 : **21 Télégramme à** Clôture de la page manuscrite.
+- Ligne 16 : **16 1/2** *scil.* demi / moitié. **16 c.** *abbr. pro* centimes.
+- Ligne 17 : **17 c.** *abbr. pro* centimes.
+- Ligne 18 : **18 f.** *abbr. pro* franc(s).
+- Ligne 20 : **20 c.** *abbr. pro* centimes.
+- Ligne 21 : **21 Mme** *abbr. pro* Madame.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~9--10 Puis montés mon appartt et y reposé 2 longues heures. Évité troubler qq secondes précieuses :** Notation pudique et délicate d'un moment de recueillement amoureux dans son appartement toulousain. **l.~21 Télégramme à Mme Spagnol, Nice : 2 f :** Sa tante Thérèse Spagnol (voir Scan #142), expéditrice du panier de fleurs de Nice récupéré à la gare le 29 janvier.
@@ -6061,10 +6372,19 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 1 : **1 1er** *scil.* premier.
+- Ligne 4 : **4 Mme** *abbr. pro* Madame.
+- Ligne 6 : **6 Mte** *scil.* Marguerite (Calmels). **6 1/2** *scil.* demi / moitié.
+- Ligne 7 : **7 Ste** *abbr. pro* Sainte.
+- Ligne 9 : **9 1/2** *scil.* demi / moitié.
 - Ligne 10 : **10 tte** *abbr. pro* toute.
-- Ligne 14 : **14 j'à** *abbr. pro* jusqu'à.
+- Ligne 11 : **11 ch.** *abbr. pro* chambre / chaude.
+- Ligne 13 : **13 Ste** *abbr. pro* Sainte.
+- Ligne 14 : **14 j'à** *abbr. pro* jusqu'à. **14 1/2** *scil.* demi / moitié.
 - Ligne 15 : **15 bcp** *abbr. pro* beaucoup.
-- Ligne 18 : **18** *in marg. cum unco* (comptes).
+- Ligne 16 : **16 complètt** *abbr. pro* complètement.
+- Ligne 18 : **18** *in marg. cum unco* (comptes). **18 c.** *abbr. pro* centimes.
+- Ligne 21 : **21 1/2** *scil.* demi / moitié.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~15--17 Maintent bcp calme, je me sens complètt détaché de Toulouse. Partirai sans regret, et pour n'y retourner jamais plus :** Méditation décisive en marchant le soir jusqu'à la rue de Languedoc : son bonheur présent auprès de Marguerite l'affranchit définitivement de la nostalgie de sa jeunesse toulousaine.
@@ -6103,10 +6423,17 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 9 : **9 Descendu à** Écriture courante à l'encre noire.
+- Ligne 2 : **2 Tjrs** *abbr. pro* Toujours.
+- Ligne 4 : **4 ch.** *abbr. pro* chambre / chaude.
+- Ligne 7 : **7 Mme** *abbr. pro* Madame.
+- Ligne 8 : **8 ch.** *abbr. pro* chambre / chaude. **8 Margte** *scil.* Marguerite (Calmels).
+- Ligne 9 : **9 Ste** *abbr. pro* Sainte. **9 s.** *abbr. pro* soir.
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Ch.** *abbr. pro* Chez.
+- Ligne 12 : **12 fr.** *abbr. pro* franc(s).
+- Ligne 14 : **14 c.** *abbr. pro* centimes.
+- Ligne 16 : **16 Tte** *abbr. pro* Toute.
 - Ligne 18 : **18 lgts** *abbr. pro* longtemps.
-- Ligne 19 : **19 appartt, rempli** Clôture de la page manuscrite.
+- Ligne 19 : **19 appartt** *abbr. pro* appartement.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~11--13 remontoir or mat Louis XVI 105 fr. — Petit anneau pour attacher pendentif à sautoir : free :** L'adjectif anglais *free* (gratuit) s'immisce jusque dans la facture d'horlogerie toulousaine ! **l.~16--19 Quitte à regret Tte... :** Oscillation psychologique bien humaine : au moment même de quitter son appartement toulousain pour accompagner Marguerite à Millau, un dernier élan d'attachement revient sous sa plume.
@@ -6151,8 +6478,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 3 : **3 ds** *abbr. pro* dans.
-- Ligne 11 : **11 et visité** Écriture courante à l'encre noire.
-- Ligne 23 : **23 au 1er** Clôture de la page manuscrite.
+- Ligne 4 : **4 ch.** *abbr. pro* chambre / chaude. **4 1/2** *scil.* demi / moitié.
+- Ligne 5 : **5 Margte** *scil.* Marguerite (Calmels).
+- Ligne 6 : **6 Ste** *abbr. pro* Sainte.
+- Ligne 10 : **10 1/2** *scil.* demi / moitié.
+- Ligne 11 : **11 rapidt** *abbr. pro* rapidement.
+- Ligne 15 : **15 s/** *abbr. pro* sur. **15 Mte** *scil.* Marguerite (Calmels).
+- Ligne 20 : **20 Mte** *scil.* Marguerite (Calmels).
+- Ligne 23 : **23 1er** *scil.* premier.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~15 Délicieuse intimité s/ l'épaule de Mte :** Image pleine de tendresse durant la lente montée nocturne du train de Béziers à Millau. **l.~18--19 Impression silence profond en débarquant ville natale :** Confirmation autographe explicite que Millau est bien la « ville natale » d'Hippolyte Combes (né rue des Barris à Millau le 14 août 1876).
@@ -6183,8 +6516,8 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
-- Ligne 5 : **5 — Trams** Écriture courante à l'encre noire.
-- Ligne 10 : **10 — Buffet** Clôture de la page manuscrite.
+- Ligne 5 : **5 c.** *abbr. pro* centimes.
+- Ligne 6 : **6 Margte** *scil.* Marguerite (Calmels).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~2--3 1 grand nettoyage et 3 plombages : 40 f = net : 25 f :** Remise confraternelle ou militaire accordée par le chirurgien-dentiste M. de Lersay, ramenant les honoraires de 40 à 25 francs. **l.~6 Enregt bagages de Margte : 10 c :** Signe concret de leur statut de fiancés officiels voyageant désormais ensemble.
@@ -6229,6 +6562,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 2 : **2 ds** *abbr. pro* dans.
 - Ligne 6 : **6 qq** *abbr. pro* quelque(s).
+- Ligne 8 : **8 1/2** *scil.* demi / moitié.
+- Ligne 19 : **19 Margte** *scil.* Marguerite (Calmels).
+- Ligne 20 : **20 Mte** *scil.* Marguerite (Calmels).
+- Ligne 22 : **22 appartt** *abbr. pro* appartement.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~7--12 Silence impressionnant vallon natal... Pensé à Papa, Maman, Sœurs — que j'ai tant aimés. Peu à peu, gagné par l'émotion, et sangloté :** Page la plus intime et la plus émouvante de tout le *Livre-Journal*. De retour dans le « vallon natal » de Millau, au moment de fonder un nouveau foyer chez les Calmels, l'orphelin de quarante ans pleure dans le silence nocturne son père François-Hippolyte Combes († 1899), sa mère Marie-Anaïs Alric († 1907) et ses sœurs Maria († 1903) et Joséphine († 1914).
@@ -6264,8 +6601,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
+- Ligne 3 : **3 Mte** *scil.* Marguerite (Calmels).
 - Ligne 4 : **4 qq** *abbr. pro* quelque(s).
 - Ligne 8 : **8 j'à** *abbr. pro* jusqu'à.
+- Ligne 10 : **10 Ds** *abbr. pro* Dans.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~15 (Cf. Journal, feuille spéciale) :** Renvoi autographe capital entre parenthèses au bas de la page ! Il prouve qu'Hippolyte Combes rédigeait parallèlement, lors des moments les plus intenses de sa vie intime (comme déjà en octobre 1916 lors de sa première permission à Millau, conservée dans les « Documents 54 à 60 » du fonds familial), des feuillets séparés d'analyse psychologique plus développée.
@@ -6303,11 +6642,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 4 : **4 ts** *abbr. pro* tous.
-- Ligne 9 : **9 Quitté maison** Écriture courante à l'encre noire.
-- Ligne 17 : **17** *in marg. cum unco* (comptes).
-- Ligne 18 : **18 Gift à** Clôture de la page manuscrite.
+- Ligne 3 : **3 gd** *abbr. pro* grand.
+- Ligne 4 : **4 ts** *abbr. pro* tous. **4 Mte** *scil.* Marguerite (Calmels).
+- Ligne 7 : **7 s.** *abbr. pro* soir.
+- Ligne 9 : **9 s.** *abbr. pro* soir.
+- Ligne 14 : **14 ttes** *abbr. pro* toutes.
+- Ligne 17 : **17** *in marg. cum unco* (comptes). **17 Mte** *scil.* Marguerite (Calmels).
+- Ligne 18 : **18 Mte** *scil.* Marguerite (Calmels). **18 Gift** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~4--5 sorti av. Mte et ts 2 seuls venus cimetière — — :** Démarche hautement symbolique : avant de repartir pour le front, Hippolyte conduit sa fiancée seule avec lui au cimetière de Millau sur le caveau de la famille Combes-Alric pour sceller leurs fiançailles devant ses morts. **l.~18 Gift à la bonne de Mte : 3 f :** Emprunt anglais (*gift*, étrenne).
@@ -6346,11 +6687,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
+- Ligne 2 : **2 extt** *abbr. pro* extrêmement.
 - Ligne 6 : **6 qq** *abbr. pro* quelque(s).
-- Ligne 9 : **9 Voies, épaisse** Écriture courante à l'encre noire.
-- Ligne 11 : **11 L.** *scil.* Lundi.
-- Ligne 19 : **19 A Gien,** Clôture de la page manuscrite.
+- Ligne 8 : **8 gd** *abbr. pro* grand.
+- Ligne 11 : **11 P.L.M.** *scil.* Paris-Lyon-Méditerranée.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~14--17 Ciel bas & mat, se confondant à l'horizon proche avec campagne feutrée de blanc. Flocons serrés et menus tombent sans discontinuer, voilant l'atmosphère :** Admirable tableau d'hiver observé à travers la vitre du train express entre le Bourbonnais et le Gâtinais.
@@ -6386,9 +6726,9 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 2 : **2 bcp** *abbr. pro* beaucoup.
-- Ligne 8 : **8 augmentant très** Écriture courante à l'encre noire.
+- Ligne 2 : **2 ns** *abbr. pro* nous. **2 bcp** *abbr. pro* beaucoup.
+- Ligne 7 : **7 s.** *abbr. pro* soir.
+- Ligne 9 : **9 s.** *abbr. pro* soir.
 - Ligne 16 : **16** *in marg. cum unco* (comptes).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -6434,7 +6774,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 1 : **1 Merc.** *scil.* Mercredi.
 - Ligne 6 : **6 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
 - Ligne 8 : **8 absolt** *abbr. pro* absolument.
+- Ligne 9 : **9 m.** *abbr. pro* matin.
+- Ligne 18 : **18 1/2** *scil.* demi / moitié. **18 s.** *abbr. pro* soir.
 - Ligne 19 : **19 billet** *angl. in ms.*
+- Ligne 20 : **20 Mme** *abbr. pro* Madame.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~18--22 Arrivé à Acheux, vers 1h 1/2 s... Après m'être rasé, lavé, brossé, sorti :** Cette dernière ligne du Folio 73 recto s'enchaîne directement et sans la moindre solution de continuité avec la première ligne du Folio 73 verso (Scan #147 : « Merc. 7 (suite) / En me rendant à notre office, Mme Delille, qui sur le seuil, m'a appelé et m'a appris que Cap. Williams a quitté Acheux pour Hérissart »).
@@ -6476,10 +6819,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Merc.** *scil.* Mercredi.
+- Ligne 3 : **3 Mme** *abbr. pro* Madame.
 - Ligne 4 : **4 Cap.** *abbr. pro* Capitaine.
 - Ligne 5 : **5** ⟦...⟧ *del. in ms.*
-- Ligne 6 : **6 Cap.** *abbr. pro* Capitaine.
+- Ligne 6 : **6 Cap. W.** *scil.* Capitaine Williams. **6 Cap.** *abbr. pro* Capitaine.
+- Ligne 11 : **11 1/2** *scil.* demi / moitié.
 - Ligne 17 : **17 Town Major** *angl. in ms.*
+- Ligne 18 : **18 1er** *scil.* premier.
+- Ligne 19 : **19 as.** *abbr. pro* assez.
 - Ligne 20 : **20 qqs** *abbr. pro* quelques.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -6522,9 +6869,11 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 1 : **1 Merc.** *scil.* Mercredi.
 - Ligne 2 : **2 mess** *angl. in ms.*
 - Ligne 6 : **6 extrt** *abbr. pro* extrêmement.
-- Ligne 7 : **7** *in marg. cum unco* (comptes).
-- Ligne 8 : **8 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- Ligne 11 : **11 lunch** *angl. in ms.*
+- Ligne 7 : **7** *in marg. cum unco* (comptes). **7 f.** *abbr. pro* franc(s).
+- Ligne 8 : **8 Y.M.C.A.** *angl.* Young Men's Christian Assoc.. **8 f.** *abbr. pro* franc(s).
+- Ligne 9 : **9 f.** *abbr. pro* franc(s).
+- Ligne 10 : **10 Gift** *angl. in ms.*
+- Ligne 11 : **11 f.** *abbr. pro* franc(s). **11 lunch** *angl. in ms.*
 - Ligne 17 : **17 mess** *angl. in ms.*
 - Ligne 18 : **18 breakfast** *angl. in ms.*
 
@@ -6566,8 +6915,9 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2 mervt** *abbr. pro* merveilleusement.
-- Ligne 11 : **11 ds** *abbr. pro* dans.
-- Ligne 15 : **15 Ven.** *scil.* Vendredi.
+- Ligne 11 : **11 ds** *abbr. pro* dans. **11 tt** *abbr. pro* tout.
+- Ligne 14 : **14 1/2** *scil.* demi / moitié.
+- Ligne 15 : **15 Ven.** *scil.* Vendredi. **15 excessvt** *abbr. pro* excessivement.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~2 mervt :** Abréviation habituelle pour *merveilleusement*. **l.~7--9 Région, moins banale qu'environs d'Acheux :** Toujours en quête de pittoresque, l'œil du promeneur apprécie le relief plus vallonné d'Hérissart et de Rubempré et la silhouette des moulins à vent. **l.~18--19 trop froid pour pouvoir écrire chambre :** Indication matérielle précieuse sur les conditions mêmes de rédaction du carnet : privée de feu, la chambre n° 7b oblige Hippolyte à rédiger ses notes au bureau-mess ou dans la salle du café.
@@ -6608,9 +6958,9 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 2 : **2 ds** *abbr. pro* dans.
+- Ligne 2 : **2 ds** *abbr. pro* dans. **2 Lieutt** *abbr. pro* Lieutenant.
 - Ligne 6 : **6 lorry** *angl. in ms.*
-- Ligne 8 : **8 ds** *abbr. pro* dans.
+- Ligne 8 : **8 ds** *abbr. pro* dans. **8 Cap. W.** *scil.* Capitaine Williams.
 - Ligne 10 : **10 Sam.** *scil.* Samedi.
 - Ligne 12 : **12 M.T.** *angl.* Mechanical Transport.
 - Ligne 16 : **16 breakfast** *angl. in ms.*
@@ -6656,14 +7006,16 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 4 : **4 Lt** *abbr. pro* Lieutenant. **4 Lunché** *angl. in ms.*
-- Ligne 5 : **5 qq** *abbr. pro* quelque(s).
+- Ligne 5 : **5 qq** *abbr. pro* quelque(s). **5 cantonnemt** *abbr. pro* cantonnement.
 - Ligne 6 : **6 ts** *abbr. pro* tous.
 - Ligne 9 : **9 ds** *abbr. pro* dans.
 - Ligne 10 : **10 refilling point** *angl. in ms.*
 - Ligne 11 : **11 Cap.** *abbr. pro* Capitaine.
+- Ligne 12 : **12 1/2** *scil.* demi / moitié.
 - Ligne 13 : **13 Cap.** *abbr. pro* Capitaine.
 - Ligne 17 : **17 Dim.** *scil.* Dimanche.
 - Ligne 18 : **18 extrt** *abbr. pro* extrêmement.
+- Ligne 19 : **19 Ds** *abbr. pro* Dans. **19 1/2** *scil.* demi / moitié.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~3--10 Cy / Lunché / N.C.O's & men / refilling point :** Concentration remarquable d'anglicismes militaires (*Cy* = *Company*, *N.C.O's & men* = sous-officiers et soldats, *refilling point* = point de ravitaillement quotidien des trains régimentaires). **l.~19 Ds le 1/2 du jour :** Graphie abrégée pour « Dans le milieu du jour ».
@@ -6704,8 +7056,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
-- Ligne 18 : **18** *in marg. cum unco* (comptes).
-- Ligne 19 : **19 Cartes ples** *abbr. pro* Cartes postales.
+- Ligne 8 : **8 s.** *abbr. pro* soir.
+- Ligne 18 : **18** *in marg. cum unco* (comptes). **18 f.** *abbr. pro* franc(s).
+- Ligne 19 : **19 Cartes ples** *abbr. pro* Cartes postales. **19 c.** *abbr. pro* centimes.
+- Ligne 20 : **20 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~9--12 Vu M. Romert... Vieux célibataire, héritier de 3 générations :** Esquissé en trois lignes, ce portrait digne d'un roman de Balzac ou de Maupassant montre le goût d'Hippolyte Combes pour l'observation sociale des notables de province rencontrés au fil de ses réquisitions. **l.~18--20 [ Doullens... ] :** Encadré de menues dépenses dominicales (papeterie, cartes postales, chocolat et biscuits Petit Beurre).
@@ -6751,6 +7105,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 7 : **7 ds** *abbr. pro* dans.
 - Ligne 16 : **16 ds** *abbr. pro* dans.
 - Ligne 21 : **21** *in marg. cum unco* (comptes).
+- Ligne 22 : **22 f.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~6--8 Ville, Treux & Méricourt. Ribemont... région qui m'est si familière :** Renvoi interne majeur à l'histoire antérieure au carnet : au printemps 1916 (avant juillet 1916), Hippolyte Combes avait cantonné dans la vallée de l'Ancre autour de Méricourt-l'Abbé, Treux, Ribemont et Morlancourt (où eut lieu l'incident du 24 mars 1916). **l.~11--13 moulins à vent, détachant leurs ailes squelettiques sur ciel gris :** Image poétique saisissante.
@@ -6795,7 +7150,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 9 : **9 extrt** *abbr. pro* extrêmement.
 - Ligne 10 : **10 Merc.** *scil.* Mercredi.
 - Ligne 15 : **15 breakfast** *angl. in ms.*
-- Ligne 19 : **19 tea** *angl. in ms.*
+- Ligne 19 : **19 s.** *abbr. pro* soir. **19 tea** *angl. in ms.*
 - Ligne 21 : **21 mervt** *abbr. pro* merveilleusement.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -6837,7 +7192,8 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 10 : **10 extrt** *abbr. pro* extrêmement.
+- Ligne 3 : **3 Ds** *abbr. pro* Dans.
+- Ligne 10 : **10 extrt** *abbr. pro* extrêmement. **10 mervt** *abbr. pro* merveilleusement.
 - Ligne 15 : **15 ds** *abbr. pro* dans.
 - Ligne 18 : **18 ds** *abbr. pro* dans.
 
@@ -6890,6 +7246,8 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 13 : **13 ds** *abbr. pro* dans.
 - Ligne 14 : **14 ds** *abbr. pro* dans.
 - Ligne 22 : **22 lorry** *angl. in ms.*
+- Ligne 24 : **24** *in marg. cum unco* (comptes).
+- Ligne 25 : **25 f.** *abbr. pro* franc(s). **25 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~5 correspce :** Abréviation par contraction (*correspondance*). **l.~14--15 Puis enfin rester ds ma chambre, quoique sans feu :** Première fois depuis son arrivée à Hérissart le 7 février que le redoux lui permet de se tenir dans sa chambre du n° 7b sans y geler. **l.~24--25 [ A Toutencourt, solde : 68 f. 25 c. ] :** Conformément à la nouvelle règle notée le 9 février (Scan #150), il touche sa solde le 18 du mois.
@@ -6920,7 +7278,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 12 | murs & briques du floor ruissellent d'eau.
 13 | Vers 9h 1/2, prop.re du n° 104, malade: me
 14 | suis dévoué pour elle. Allé chercher méd. et M.O.
-15 | 20 Mardi. —
+15 | 20 Mardi. — [ 1 hair cut: net: 30 c. ]
 16 | Assez bien dormi nouvelle chambre. Mais,
 17 | constaté avec regret combien elle est humide et
 18 | froide. Impossible de m'y tenir, durant la
@@ -6935,12 +7293,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 1 : **1 f.** *abbr. pro* franc(s).
 - Ligne 8 : **8 Cap.** *abbr. pro* Capitaine. **8 billets** *angl. in ms.*
 - Ligne 10 : **10 Cap.** *abbr. pro* Capitaine.
+- Ligne 13 : **13 1/2** *scil.* demi / moitié.
 - Ligne 14 : **14 M.O.** *angl.* Medical Officer.
-- Ligne 15 : **15 —** *scil.*  1 hair cut : net : 30 c. .
+- Ligne 15 : **15** *in marg. cum unco* (comptes). **15 c.** *abbr. pro* centimes.
 - Ligne 22 : **22 abst** *abbr. pro* absolument.
-- Ligne 25 : **25** *in marg. cum unco* (comptes).
+- Ligne 25 : **25** *in marg. cum unco* (comptes). **25 f.** *abbr. pro* franc(s).
+- Ligne 26 : **26 f.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~1 (En caisse : 225 f. 95) :** Pointage d'encaisse inséré directement dans l'en-tête après l'encaissement de la solde de la veille. **l.~12 briques du floor :** Hybridation franco-anglaise spontanée (*floor* pour « carrelage / sol »). **l.~14 M.O. :** Sigle militaire anglais pour *Medical Officer* (médecin militaire britannique).
@@ -6988,9 +7349,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Merc.** *scil.* Mercredi.
-- Ligne 8 : **8 lunch** *angl. in ms.*
+- Ligne 6 : **6 as.** *abbr. pro* assez.
+- Ligne 8 : **8 1/2** *scil.* demi / moitié. **8 lunch** *angl. in ms.*
 - Ligne 9 : **9 abomles** *abbr. pro* abominables.
-- Ligne 11 : **11** *in marg. cum unco* (comptes).
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 f.** *abbr. pro* franc(s).
+- Ligne 13 : **13 f.** *abbr. pro* franc(s).
+- Ligne 14 : **14 pr** *abbr. pro* pour. **14 f.** *abbr. pro* franc(s).
 - Ligne 20 : **20 tt** *abbr. pro* tout.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -7036,11 +7400,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 3 : **3 s/** *abbr. pro* sur.
 - Ligne 6 : **6 Dim.** *scil.* Dimanche.
 - Ligne 9 : **9 qq** *abbr. pro* quelque(s).
+- Ligne 10 : **10 1ère** *scil.* première.
 - Ligne 11 : **11 lunch** *angl. in ms.*
-- Ligne 15 : **15 absolt** *abbr. pro* absolument.
-- Ligne 17 : **17 L.** *scil.* Lundi.
+- Ligne 15 : **15 ns** *abbr. pro* nous. **15 absolt** *abbr. pro* absolument.
+- Ligne 17 : **17 L.** *scil.* Lundi. **17 Cap. W.** *scil.* Capitaine Williams.
+- Ligne 19 : **19 s.** *abbr. pro* soir.
+- Ligne 20 : **20 1/2** *scil.* demi / moitié.
 - Ligne 21 : **21 bcp** *abbr. pro* beaucoup. **21 English novel** *angl. in ms.*
 - Ligne 22 : **22 ds** *abbr. pro* dans. **22 tea** *angl. in ms.*
 
@@ -7082,12 +7450,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ma.** *scil.* Mardi.
-- Ligne 4 : **4 j'à** *abbr. pro* jusqu'à. **4 tooth ache** *angl. in ms.*
+- Ligne 4 : **4 j'à** *abbr. pro* jusqu'à. **4 Capt. W.** *scil.* Captain Williams.
 - Ligne 8 : **8 barbed wire** *angl. in ms.*
 - Ligne 9 : **9 Merc.** *scil.* Mercredi.
 - Ligne 10 : **10 commt** *abbr. pro* commencement.
 - Ligne 12 : **12 lunch** *angl. in ms.*
 - Ligne 14 : **14 tea** *angl. in ms.*
+- Ligne 19 : **19 f.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~4--5 Capt. W., tooth ache, au lit j'à 1h après-midi. D'où journée entière de liberté :** L'ironie pince-sans-rire du constat (la rage de dents du capitaine notée en anglais, *tooth ache*, saluée comme une aubaine de liberté pour l'interprète) est typique de l'humour discret du carnet. **l.~8 barbed wire :** Emprunt lexical anglais pour « fil de fer barbelé ».
@@ -7128,11 +7497,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
+- Ligne 1 : **1 1er** *scil.* premier.
 - Ligne 4 : **4 lgts** *abbr. pro* longtemps.
 - Ligne 5 : **5 ds** *abbr. pro* dans.
-- Ligne 10 : **10 élancés.** Écriture courante à l'encre noire.
-- Ligne 21 : **21 Après-midi, liberté** Clôture de la page manuscrite.
+- Ligne 8 : **8 Qqs** *abbr. pro* Quelques.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~11--15 Mervx clair de lune... Halte lunaire :** L'un des sommets poétiques du carnet : marcheur nocturne solitaire, Hippolyte Combes compose une véritable prose cadencée (phrases nominales brèves : « Halte lunaire. Impression de calme reposant & silence absolu ») digne de Chateaubriand ou de Fromentin.
@@ -7166,7 +7534,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 15 | journée, très beau temps, soleil chaud.
 16 | Cap. & son ami, en ballade à
 17 | Flixecourt. Aussi, liberté entière,
-18 | matin & soir —
+18 | matin & soir —          [ Washing: 60 c. ]
 19 | 5 Lundi. — Au réveil, épaisse couche de
 20 | neige recouvrait routes & toits. Branches
 21 | d'arbres, très belles, sous leur ouate blanche.
@@ -7184,13 +7552,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 7 : **7 qq** *abbr. pro* quelque(s).
 - Ligne 8 : **8 lorry** *angl. in ms.*
 - Ligne 9 : **9 ds** *abbr. pro* dans.
-- Ligne 11 : **11** *in marg. cum unco* (comptes).
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 f.** *abbr. pro* franc(s).
+- Ligne 12 : **12 f.** *abbr. pro* franc(s).
 - Ligne 13 : **13 Dim.** *scil.* Dimanche.
 - Ligne 14 : **14 ds** *abbr. pro* dans.
 - Ligne 16 : **16 Cap.** *abbr. pro* Capitaine.
-- Ligne 18 : **18 —** *scil.*  Washing : 60 c. .
-- Ligne 25 : **25 off.** *abbr. pro* officier(s).
-- Ligne 26 : **26 Cap.** *abbr. pro* Capitaine.
+- Ligne 18 : **18** *in marg. cum unco* (comptes). **18 c.** *abbr. pro* centimes.
+- Ligne 25 : **25 off.** *abbr. pro* officier(s). **25 off** *abbr. pro* officier(s).
+- Ligne 26 : **26 ns** *abbr. pro* nous. **26 Cap.** *abbr. pro* Capitaine.
 - Ligne 27 : **27 mervt** *abbr. pro* merveilleusement.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -7237,14 +7606,15 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 4 : **4 off.** *abbr. pro* officier(s).
-- Ligne 6 : **6 Cap.** *abbr. pro* Capitaine.
+- Ligne 4 : **4 off.** *abbr. pro* officier(s). **4 off** *abbr. pro* officier(s).
+- Ligne 6 : **6 Cap. W.** *scil.* Capitaine Williams. **6 Cap.** *abbr. pro* Capitaine.
+- Ligne 8 : **8 s.** *abbr. pro* soir.
 - Ligne 9 : **9 Cap.** *abbr. pro* Capitaine.
 - Ligne 10 : **10 renseigts** *abbr. pro* renseignements.
-- Ligne 12 : **12 mess** *angl. in ms.*
-- Ligne 13 : **13** *in marg. cum unco* (comptes).
-- Ligne 14 : **14 Cartes ples** *abbr. pro* Cartes postales.
-- Ligne 15 : **15 wounded** *angl. in ms.*
+- Ligne 12 : **12 cie** *abbr. pro* compagnie. **12 mess** *angl. in ms.*
+- Ligne 13 : **13** *in marg. cum unco* (comptes). **13 f.** *abbr. pro* franc(s).
+- Ligne 14 : **14 Cartes ples** *abbr. pro* Cartes postales. **14 f.** *abbr. pro* franc(s).
+- Ligne 15 : **15 c.** *abbr. pro* centimes. **15 wounded** *angl. in ms.*
 - Ligne 25 : **25 ds** *abbr. pro* dans.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -7290,16 +7660,18 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 7 : **7 D.** *scil.* Dimanche.
+- Ligne 6 : **6 cie** *abbr. pro* compagnie. **6 s.** *abbr. pro* soir.
+- Ligne 7 : **7 D.on** *abbr. pro* Division.
 - Ligne 8 : **8 lorry** *angl. in ms.*
 - Ligne 9 : **9 extrt** *abbr. pro* extrêmement. **9 kit** *angl. in ms.*
 - Ligne 12 : **12 j'à** *abbr. pro* jusqu'à. **12 mess** *angl. in ms.*
 - Ligne 14 : **14 walk** *angl. in ms.*
-- Ligne 15 : **15 qq** *abbr. pro* quelque(s).
+- Ligne 15 : **15 qq** *abbr. pro* quelque(s). **15 mervt** *abbr. pro* merveilleusement.
 - Ligne 18 : **18 ts** *abbr. pro* tous.
 - Ligne 22 : **22 tt** *abbr. pro* tout.
 - Ligne 23 : **23 siton** *abbr. pro* situation.
-- Ligne 24 : **24 Cap.** *abbr. pro* Capitaine. **24 mess** *angl. in ms.*
+- Ligne 24 : **24** *in marg. cum unco* (comptes). **24 Cap. W.** *scil.* Capitaine Williams.
+- Ligne 25 : **25 f.** *abbr. pro* franc(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~9--14 avec tout son kit / Très agréable walk :** Emprunts lexicaux (*kit* = paquetage militaire, *walk* = marche) intégrés sans soulignement dans la phrase française. **l.~22--23 tt pensif, tristesse, changement de siton, & incertitude :** Analyse introspective très juste : bien qu'heureux de quitter le capitaine Williams, Hippolyte redoute toujours les périodes de transition administrative où il risque d'être envoyé dans une unité combattante exposée.
@@ -7340,7 +7712,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2 ts** *abbr. pro* tous. **2 breakfast** *angl. in ms.*
-- Ligne 8 : **8 défintt** *abbr. pro* définitivement.
+- Ligne 8 : **8 défintt** *abbr. pro* définitivement. **8 Cap.** *abbr. pro* Capitaine.
 - Ligne 9 : **9 absolt** *abbr. pro* absolument.
 - Ligne 13 : **13 lgt** *abbr. pro* longtemps.
 - Ligne 18 : **18 tt** *abbr. pro* tout.
@@ -7388,15 +7760,16 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
+- Ligne 2 : **2 1/2** *scil.* demi / moitié. **2 m.** *abbr. pro* matin.
 - Ligne 3 : **3 ts** *abbr. pro* tous.
 - Ligne 4 : **4 extrt** *abbr. pro* extrêmement.
 - Ligne 6 : **6** ⟦...⟧ *del. in ms.*
-- Ligne 7 : **7 breakfast** *angl. in ms.*
-- Ligne 8 : **8 ts** *abbr. pro* tous.
+- Ligne 7 : **7 m.** *abbr. pro* matin. **7 breakfast** *angl. in ms.*
+- Ligne 8 : **8 Ds** *abbr. pro* Dans. **8 ts** *abbr. pro* tous.
 - Ligne 9 : **9 mess** *angl. in ms.*
 - Ligne 13 : **13 Purchase Board** *angl. in ms.*
 - Ligne 14 : **14 Lieutt** *abbr. pro* Lieutenant. **14 interview** *angl. in ms.*
-- Ligne 15 : **15 tt** *abbr. pro* tout.
+- Ligne 15 : **15 tt** *abbr. pro* tout. **15 off.** *abbr. pro* officier(s).
 - Ligne 17 : **17 lorry** *angl. in ms.*
 - Ligne 18 : **18 ts** *abbr. pro* tous. **18 billet** *angl. in ms.*
 - Ligne 22 : **22 ds** *abbr. pro* dans.
@@ -7438,9 +7811,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
-- Ligne 6 : **6** *in marg. cum unco* (comptes). **6 tommy** *angl. in ms.*
-- Ligne 17 : **17** *in marg. cum unco* (comptes).
-- Ligne 18 : **18 Tooth Powder** *angl. in ms.*
+- Ligne 6 : **6** *in marg. cum unco* (comptes). **6 c.** *abbr. pro* centimes.
+- Ligne 7 : **7 m.** *abbr. pro* matin.
+- Ligne 17 : **17** *in marg. cum unco* (comptes). **17 Canteen** *angl. in ms.*
+- Ligne 18 : **18 f.** *abbr. pro* franc(s). **18 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~2--3 2 fenêtres. Impressions de calme & silence, favorables à rêverie & étude :** Suite directe de la dernière phrase du Scan #166 (« 1 table pour écrire — 2 fenêtres ») : le billet 220 à Hérissart offre enfin à l'universitaire un véritable cabinet d'étude. **l.~11 Toutencourt :** Ajouté dans l'interligne supérieur au-dessus de « Contay ». **l.~17--18 Exp. F. Canteen : 2 tins of Calvert's Tooth Powder :** Note d'achat rédigée entièrement en anglais pour désigner la célèbre poudre dentifrice phéniquée de F. C. Calvert & Co. (Manchester), vendue dans les cantines de la B.E.F.
@@ -7484,10 +7858,9 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 En-tête** Date et mois inscrits en haut de page.
-- Ligne 7 : **7 tea** *angl. in ms.*
+- Ligne 7 : **7 Mme** *abbr. pro* Madame. **7 tea** *angl. in ms.*
 - Ligne 12 : **12 billet** *angl. in ms.*
-- Ligne 24 : **24 pataugé boue** Clôture de la page manuscrite.
+- Ligne 21 : **21 1/2** *scil.* demi / moitié.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~7--8 visite à M. & Mme Flutre, instituteurs, en retraite. Sont le père, élève de Normle Supre :** Rencontre intellectuelle remarquable dans le village d'Hérissart ! **l.~12--15 Déménagé office et mess au billet 216... tout en face de ma maison :** Désormais logé au 220 juste en face du mess 216 et libéré du capitaine Williams, Hippolyte souligne son bien-être (« Ns sommes 1000 fois mieux »).
@@ -7531,12 +7904,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Ven.** *scil.* Vendredi.
 - Ligne 4 : **4 lunch** *angl. in ms.*
-- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 Blacksmith** *angl. in ms.*
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 c.** *abbr. pro* centimes.
 - Ligne 12 : **12 Sam.** *scil.* Samedi.
 - Ligne 16 : **16 Lt** *abbr. pro* Lieutenant.
 - Ligne 17 : **17 bcp** *abbr. pro* beaucoup.
 - Ligne 18 : **18 workshops** *angl. in ms.*
-- Ligne 21 : **21** *in marg. cum unco* (comptes).
+- Ligne 21 : **21** *in marg. cum unco* (comptes). **21 c. ples** *abbr. pro* cartes postales.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~11 Blacksmith d'Hérissart :** Emprunt lexical anglais (*Blacksmith* = forgeron du village) à qui Hippolyte confie la réparation du fermoir métallique de son sac de voyage. **l.~18 Auto est aux workshops :** Ajouté dans l'interligne entre les lignes 17 et 19 pour expliquer pourquoi le lieutenant Wentworth et lui effectuent leurs déplacements à pied.
@@ -7585,11 +7958,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 1 : **1 Dim.** *scil.* Dimanche.
 - Ligne 7 : **7 Lt** *abbr. pro* Lieutenant.
 - Ligne 9 : **9 workshops** *angl. in ms.*
-- Ligne 16 : **16** *in marg. cum unco* (comptes).
-- Ligne 17 : **17 Cartes ples** *abbr. pro* Cartes postales. **17 Washing** *angl. in ms.*
-- Ligne 20 : **20 off.** *abbr. pro* officier(s).
-- Ligne 23 : **23 off.** *abbr. pro* officier(s).
-- Ligne 26 : **26 renseigts** *abbr. pro* renseignements.
+- Ligne 16 : **16** *in marg. cum unco* (comptes). **16 f.** *abbr. pro* franc(s).
+- Ligne 17 : **17 Cartes ples** *abbr. pro* Cartes postales. **17 f.** *abbr. pro* franc(s).
+- Ligne 20 : **20 off.** *abbr. pro* officier(s). **20 off** *abbr. pro* officier(s).
+- Ligne 23 : **23 off.** *abbr. pro* officier(s). **23 off** *abbr. pro* officier(s).
+- Ligne 24 : **24 div** *abbr. pro* division.
+- Ligne 26 : **26 renseigts** *abbr. pro* renseignements. **26 off.** *abbr. pro* officier(s).
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~16 Solde : 82 f. :** Solde de quinzaine versée le 18 mars à Toutencourt (en hausse par rapport aux 68 fr. 25 du 18 février grâce au rappel d'indemnités). **l.~23--26 off. 63rd Div., naval div., de passage... Miraumont, délivré hier :** Témoignage oral direct recueilli dans sa propre chambre auprès d'un officier revenant du terrain évacué par les Allemands.
@@ -7637,6 +8011,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 7 : **7 Merc.** *scil.* Mercredi.
 - Ligne 14 : **14 moving** *angl. in ms.*
 - Ligne 15 : **15 Death or Glory Boys** *angl. in ms.*
+- Ligne 22 : **22 gde** *abbr. pro* grande.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~11 Belle Église Farm, M. Houthouan :** Noté à l'anglaise (*Belle Église Farm*) pour désigner la ferme de Belle-Église à Arquèves déjà visitée en décembre. **l.~13--15 troupes moving... (Death or Glory Boys, 17th Lancers) :** L'auteur note avec précision la célèbre devise du 17e Lanciers britannique (*Death or Glory*), dont l'insigne de coiffure représentait une tête de mort sur deux tibias croisés.
@@ -7682,10 +8057,11 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 1 : **1 Ven.** *scil.* Vendredi.
 - Ligne 6 : **6 workshops** *angl. in ms.*
 - Ligne 9 : **9 billet** *angl. in ms.*
-- Ligne 11 : **11 afternoon** *angl. in ms.*
+- Ligne 11 : **11 Ds** *abbr. pro* Dans. **11 afternoon** *angl. in ms.*
 - Ligne 14 : **14 Sam.** *scil.* Samedi.
 - Ligne 19 : **19 sunset** *angl. in ms.*
 - Ligne 20 : **20 D.** *scil.* Dimanche.
+- Ligne 21 : **21 Ds** *abbr. pro* Dans.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~9--10 Fait démarches pour qu'on me laisse au billet (220) :** Le numéro « (220) » est ajouté entre parenthèses à la fin de la ligne : attaché à sa chambre calme dotée d'une table et de deux fenêtres, Hippolyte veille à empêcher toute réquisition par des officiers de passage. **l.~11 Ds la journée, et afternoon :** Redoublement bilingue caractéristique.
@@ -7727,9 +8103,13 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 2 : **2 Tt** *abbr. pro* Tout.
 - Ligne 4 : **4 j. à** *abbr. pro* jusqu'à.
+- Ligne 5 : **5 pr** *abbr. pro* pour. **5 Coy** *angl.* Company.
+- Ligne 6 : **6 gd** *abbr. pro* grand.
 - Ligne 14 : **14 affrt** *abbr. pro* affreusement.
 - Ligne 17 : **17 Merc.** *scil.* Mercredi.
+- Ligne 20 : **20 s/** *abbr. pro* sur.
 - Ligne 21 : **21 ds** *abbr. pro* dans.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -7801,7 +8181,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
  4 | gros flocons. Routes, état affreux.
  5 | Matin & soir, courses en auto: Belle Église,
  6 | Pierregot, Rainneville.
- 7 | Gde fatigue nerveuse.
+ 7 | Gde fatigue nerveuse. [ Mess: dû au 31 mars: 27 f. 50 ]
  8 | 2 Lundi. — Nuit froide. Au réveil, trouvé
  9 | sol durci. Fortement gelé.
 10 | Tout le jour, liberté complète. Resté matin
@@ -7822,9 +8202,9 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 1 : **1 Dim.** *scil.* Dimanche.
-- Ligne 7 : **7 nerveuse.** *scil.*  Mess : dû au 31 mars : 27 f. 50 .
-- Ligne 16 : **16** *in marg. cum unco* (comptes). **16 Washing** *angl. in ms.*
+- Ligne 1 : **1 Dim.** *scil.* Dimanche. **1 1er** *scil.* premier.
+- Ligne 7 : **7** *in marg. cum unco* (comptes). **7 Gde** *abbr. pro* Grande.
+- Ligne 16 : **16** *in marg. cum unco* (comptes). **16 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~7 [ Mess : dû au 31 mars : 27 f. 50 ] :** Note comptable insérée à droite de la ligne 7 : sa part de pension au mess pour les vingt derniers jours de mars s'élève à 27 fr. 50. **l.~18 (vu bien-aimé, notaire) :** Jeu de mots ou nom patronymique (« M. Bienaimé, notaire » à Toutencourt, qu'il reverra le jour de Pâques, Scan #178, l.~5 : « chez notaire Bienaimé »).
@@ -7864,8 +8244,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 2 : **2 Merc.** *scil.* Mercredi.
+- Ligne 4 : **4 pr** *abbr. pro* pour.
 - Ligne 6 : **6 ds** *abbr. pro* dans.
-- Ligne 8 : **8** *in marg. cum unco* (comptes). **8 Hair cut** *angl. in ms.*
+- Ligne 8 : **8** *in marg. cum unco* (comptes). **8 f.** *abbr. pro* franc(s).
+- Ligne 12 : **12 Ts** *abbr. pro* Tous.
 - Ligne 15 : **15 sunset** *angl. in ms.*
 - Ligne 19 : **19 merve** *abbr. pro* merveilleuse.
 
@@ -7915,10 +8297,10 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 - Ligne 2 : **2 breakfast** *angl. in ms.*
 - Ligne 4 : **4 H.Q.** *angl.* Headquarters.
 - Ligne 8 : **8 H.Q.** *angl.* Headquarters.
-- Ligne 10 : **10 off.** *abbr. pro* officier(s).
+- Ligne 10 : **10 off.** *abbr. pro* officier(s). **10 off** *abbr. pro* officier(s).
 - Ligne 14 : **14 lgt** *abbr. pro* longtemps. **14 dinner** *angl. in ms.*
-- Ligne 16 : **16** *in marg. cum unco* (comptes).
-- Ligne 17 : **17 Sam.** *scil.* Samedi.
+- Ligne 16 : **16** *in marg. cum unco* (comptes). **16 f.** *abbr. pro* franc(s).
+- Ligne 17 : **17 Sam.** *scil.* Samedi. **17 gr.** *abbr. pro* grand.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~3--4 1 staff du bureau de la Mission fr., Vth Army H.Q. :** Le terme anglais *staff* (officier ou secrétaire d'état-major) et le sigle *Vth Army H.Q.* (Quartier Général de la Ve Armée britannique) sont employés naturellement. **l.~14 After dinner, devant poêle rouge :** Commencer la phrase en anglais (*After dinner*) avant de poursuivre en français est l'un des traits stylistiques les plus constants du dernier tiers du carnet.
@@ -7960,8 +8342,9 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 2 : **2 mervt** *abbr. pro* merveilleusement.
+- Ligne 2 : **2 mervt** *abbr. pro* merveilleusement. **2 1/2** *scil.* demi / moitié.
 - Ligne 4 : **4 ds** *abbr. pro* dans.
+- Ligne 8 : **8 s.** *abbr. pro* soir.
 - Ligne 11 : **11 abst** *abbr. pro* absolument.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -8009,9 +8392,11 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Merc.** *scil.* Mercredi.
 - Ligne 5 : **5 lgt** *abbr. pro* longtemps.
-- Ligne 9 : **9** *in marg. cum unco* (comptes).
+- Ligne 9 : **9** *in marg. cum unco* (comptes). **9 f.** *abbr. pro* franc(s).
 - Ligne 10 : **10 canteen** *angl. in ms.*
-- Ligne 11 : **11 Cartes ples** *abbr. pro* Cartes postales.
+- Ligne 11 : **11 Cartes ples** *abbr. pro* Cartes postales. **11 c.** *abbr. pro* centimes.
+- Ligne 12 : **12 f.** *abbr. pro* franc(s). **12 c.** *abbr. pro* centimes.
+- Ligne 13 : **13 f.** *abbr. pro* franc(s). **13 c.** *abbr. pro* centimes.
 - Ligne 19 : **19 Ven.** *scil.* Vendredi.
 - Ligne 24 : **24 Lt** *abbr. pro* Lieutenant. **24 long talk** *angl. in ms.*
 
@@ -8057,7 +8442,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Sam.** *scil.* Samedi.
 - Ligne 6 : **6 Dim.** *scil.* Dimanche.
-- Ligne 10 : **10** *in marg. cum unco* (comptes). **10 Washing** *angl. in ms.*
+- Ligne 10 : **10** *in marg. cum unco* (comptes). **10 c.** *abbr. pro* centimes.
 - Ligne 15 : **15 home** *angl. in ms.*
 - Ligne 16 : **16 ds** *abbr. pro* dans.
 
@@ -8103,6 +8488,7 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 1 : **1 Merc.** *scil.* Mercredi.
 - Ligne 4 : **4 workshops** *angl. in ms.*
+- Ligne 6 : **6 Qq** *abbr. pro* Quelque(s).
 - Ligne 18 : **18 stuck** *angl. in ms.*
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
@@ -8151,8 +8537,11 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
 - Ligne 5 : **5 breakfast** *angl. in ms.*
-- Ligne 11 : **11** *in marg. cum unco* (comptes).
-- Ligne 13 : **13 ds** *abbr. pro* dans.
+- Ligne 11 : **11** *in marg. cum unco* (comptes). **11 f.** *abbr. pro* franc(s).
+- Ligne 12 : **12 Mlle** *abbr. pro* Mademoiselle.
+- Ligne 13 : **13 ds** *abbr. pro* dans. **13 f.** *abbr. pro* franc(s).
+- Ligne 14 : **14 gde** *abbr. pro* grande. **14 f.** *abbr. pro* franc(s).
+- Ligne 19 : **19 gd** *abbr. pro* grand.
 - Ligne 22 : **22 anti-aircraft battery** *angl. in ms.*
 - Ligne 25 : **25 tte** *abbr. pro* toute.
 
@@ -8199,9 +8588,12 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 5 : **5 s/** *abbr. pro* sur.
 - Ligne 6 : **6 sunset** *angl. in ms.*
+- Ligne 9 : **9 Ds** *abbr. pro* Dans.
 - Ligne 18 : **18 sunset** *angl. in ms.*
 - Ligne 19 : **19 Merc.** *scil.* Mercredi.
+- Ligne 23 : **23 Mme** *abbr. pro* Madame.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~3 Métier à tisser :** Note ethnographique brève prise au vol lors d'une visite chez un tisserand à domicile de Toutencourt ou Pierregot. **l.~8--18 Vraie journée d'été... bourgeons vernissés luisent au soleil... Lointains bleuâtres. Horizons violets :** Page d'une grande maîtrise picturale : l'éclosion tant attendue du printemps picard transfigure le regard du diariste.
@@ -8282,12 +8674,14 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
+- Ligne 4 : **4 s.** *abbr. pro* soir.
+- Ligne 6 : **6 ns** *abbr. pro* nous.
 - Ligne 7 : **7 bcp** *abbr. pro* beaucoup.
 - Ligne 10 : **10 lunch** *angl. in ms.*
 - Ligne 12 : **12 Dim.** *scil.* Dimanche.
 - Ligne 16 : **16 lift** *angl. in ms.*
 - Ligne 17 : **17 water-cart** *angl. in ms.*
-- Ligne 19 : **19 Lt** *abbr. pro* Lieutenant.
+- Ligne 19 : **19 Lt** *abbr. pro* Lieutenant. **19 cie** *abbr. pro* compagnie.
 - Ligne 22 : **22 sunset** *angl. in ms.*
 - Ligne 23 : **23 mervt** *abbr. pro* merveilleusement.
 
@@ -8326,10 +8720,11 @@ Mot ajouté en marge ou en fin de ligne : "Quitté maison [de façon] définitif
 ```
 
 ### II. Apparat critique marginal (aligné par numéro de ligne)
-- Ligne 7 : **7 Lt** *abbr. pro* Lieutenant.
+- Ligne 7 : **7 Lt** *abbr. pro* Lieutenant. **7 cie** *abbr. pro* compagnie.
 - Ligne 12 : **12 tea** *angl. in ms.*
 - Ligne 15 : **15 mervt** *abbr. pro* merveilleusement.
-- Ligne 16 : **16** *in marg. cum unco* (comptes). **16 Washing** *angl. in ms.*
+- Ligne 16 : **16** *in marg. cum unco* (comptes). **16 c.** *abbr. pro* centimes.
+- Ligne 17 : **17 c.** *abbr. pro* centimes.
 
 ### III. Commentaire critique (interne à l'histoire du carnet)
 **l.~1--17 Dernière page du Livre-Journal (30 avril 1917) :** Le carnet s'achève exactement à la date inscrite sur la couverture (*Du 25 juillet 1916 au 30 avril 1917*), parce que cette page est le tout dernier feuillet (folio 93 verso) du registre ! La tonalité de cette clôture est d'une sérénité lumineuse : l'hiver terrible de la Somme est vaincu (« Soleil ardent... Courses en auto, sans pardessus... Aux arbres, bourgeons grossissent à vue d'œil... Nuit très belle, mervt éclairée, lune superbe »), tandis que le crochet comptable final unit une dernière fois le soin de la tenue britannique (*Washing : 50 c.*) et le regard sur soi (« A Toutencourt, miroir de poche : 50 c. »).

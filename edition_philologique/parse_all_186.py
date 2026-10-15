@@ -2,8 +2,9 @@
 """
 Unifies all 186 scans (#001 to #186) of Hippolyte Combes's Livre-Journal (25 July 1916 – 30 April 1917):
 - Extracts and structures Scans #001–#074 from `Carnet de campagne édition diplomatique.docx` + Scan #050
+  and pairs them with the scholarly commentary in `data_scans_001_074.py`
 - Integrates Scans #075–#130 (`data_scans_075_130.py`) and Scans #131–#186 (`data_scans_131_186.py`)
-- Generates horizontally aligned marginal critical apparatus for every scan
+- Generates horizontally aligned marginal critical apparatus for every scan from genuine philological features
 - Separates and enriches the two-level bottom commentary (1. Commentaire critique interne; 2. Commentaire historique)
 - Exports `transcriptions/transcription_integrale_186_scans.json` and `transcriptions/transcription_integrale_186_scans.md`.
 """
@@ -12,6 +13,7 @@ import os
 import re
 import json
 import docx
+from data_scans_001_074 import SCANS_001_074_META
 from data_scans_075_130 import SCANS_075_130
 from data_scans_131_186 import SCANS_131_186
 
@@ -38,8 +40,9 @@ def strip_html_keep_del(text):
     text = text.replace('&nbsp;', ' ')
     # Strip all other HTML tags
     text = re.sub(r'<[^>]+>', '', text)
-    # Convert markdown superscripts like prop^re^ or 1^er^ to plain/LaTeX-safe
-    text = re.sub(r'\^([a-zA-Z0-9]+)\^', r'\1', text)
+    # Convert markdown superscripts like prop^re^, 1^ère^, T^s, p^r to plain/LaTeX-safe
+    text = re.sub(r'\^([^\^\s]+)\^', r'\1', text)
+    text = text.replace('^', '')
     return text
 
 
@@ -89,7 +92,7 @@ def parse_docx_blocks():
                 continue
             if re.match(r"^(I\.\s*Édition\s+Diplomatique|Transcription\s+diplomatique)", p, re.I):
                 mode = "lines"
-            elif re.match(r"^(II\.|III\.|Analyse\s+lettre|Commentaire|Apparat)", p, re.I):
+            elif re.match(r"^(II\.|III\.|Analyse\s+lettre|Commentaire|Apparat|Notes\s+de\s+lecture)", p, re.I):
                 mode = "comm"
             elif p.startswith("Documents : 63"):
                 continue
@@ -132,48 +135,128 @@ SCAN_050_DATA = {
         "[ Tip à mon groom : 2 f — Biscuits : 0.50 c",
         "  Lunch à Acheux : 1 f 50 ]",
     ],
-    "critique": (
-        "\\textbf{Note codicologique :} Ce folio 24 recto (cliché \\texttt{20251126\\_103019.jpg}, Scan \\#050), "
-        "qui assure la transition entre les préparatifs du 24 septembre au soir (Folio 23 verso, Scan \\#049) "
-        "et la suite du voyage vers Amiens et Paris intitulée \\textit{25 Lundi (Suite)} (Folio 24 verso / 25 recto, Scan \\#051), "
-        "avait été omis dans le premier brouillon de transcription ; nous le restituons ici intégralement d'après le manuscrit original. "
-        "\\textbf{l.~8--9 for green forage / l.~11 railhead / l.~13 R.T.O. :} Termes techniques anglais (\\textit{Railway Transport Officer})."
-    ),
-    "historique": (
-        "\\textbf{l.~10--16 station d'Acheux-Varennes :} Réveillé dès 4 h du matin mais retenu toute la matinée par une ultime "
-        "corvée de fourrage vert (\\textit{green forage}) avec le lieutenant First sur le plateau de Forceville, Hippolyte gagne "
-        "à midi en fourgon le \\textit{railhead} d'Acheux-Varennes, dépose ses bagages au bureau du \\textit{Railway Transport Officer} "
-        "et attend jusqu'à 18 h 40 le départ du train de permissionnaires vers Amiens."
-    ),
 }
 
 
-# Dictionary of common abbreviations & English borrowings for automatic marginal apparatus generation
+# Comprehensive dictionary of genuine abbreviations & features in the manuscript
 ABBREV_MAP = [
-    (r"\bMa\.", "Ma.", "\\textit{scil.} Mardi"),
-    (r"\bMer\.", "Mer.", "\\textit{scil.} Mercredi"),
-    (r"\bMerc\.", "Merc.", "\\textit{scil.} Mercredi"),
-    (r"\bJ\.", "J.", "\\textit{scil.} Jeudi"),
-    (r"\bVen\.", "Ven.", "\\textit{scil.} Vendredi"),
-    (r"\bVendr\.", "Vendr.", "\\textit{scil.} Vendredi"),
-    (r"\bSam\.", "Sam.", "\\textit{scil.} Samedi"),
-    (r"\bDim\.", "Dim.", "\\textit{scil.} Dimanche"),
-    (r"\bL\.", "L.", "\\textit{scil.} Lundi"),
-    (r"\bD\.", "D.", "\\textit{scil.} Dimanche"),
+    # Days of the week
+    (r"(?<![A-Za-z.])\bMa\.(?![A-Za-z])", "Ma.", "\\textit{scil.} Mardi"),
+    (r"(?<![A-Za-z.])\bMar\b(?![A-Za-z])", "Mar", "\\textit{scil.} Mardi"),
+    (r"(?<![A-Za-z.])\bMer\.(?![A-Za-z])", "Mer.", "\\textit{scil.} Mercredi"),
+    (r"(?<![A-Za-z.])\bMerc\.(?![A-Za-z])", "Merc.", "\\textit{scil.} Mercredi"),
+    (r"(?<![A-Za-z.])\bMerc\b(?![A-Za-z.])", "Merc", "\\textit{scil.} Mercredi"),
+    (r"(?<![A-Za-z.])\bJ\.(?![A-Za-z])", "J.", "\\textit{scil.} Jeudi"),
+    (r"(?<![A-Za-z.])\bVen\.(?![A-Za-z])", "Ven.", "\\textit{scil.} Vendredi"),
+    (r"(?<![A-Za-z.])\bVendr\.(?![A-Za-z])", "Vendr.", "\\textit{scil.} Vendredi"),
+    (r"(?<![A-Za-z.])\bVe\.(?![A-Za-z])", "Ve.", "\\textit{scil.} Vendredi"),
+    (r"(?<![A-Za-z.])\bSam\.(?![A-Za-z])", "Sam.", "\\textit{scil.} Samedi"),
+    (r"(?<![A-Za-z.])\bDim\.(?![A-Za-z])", "Dim.", "\\textit{scil.} Dimanche"),
+    (r"(?<![A-Za-z.])\bL\.(?![A-Za-z])", "L.", "\\textit{scil.} Lundi"),
+    (r"(?<![A-Za-z.])\bD\.(?![A-Za-z])", "D.", "\\textit{scil.} Dimanche"),
+    # Prepositions, conjunctions, adverbs, pronouns
     (r"\bju\b", "ju", "\\textit{abbr. pro} jusqu'à"),
     (r"\bj'à\b", "j'à", "\\textit{abbr. pro} jusqu'à"),
     (r"\bj\.\s*à\b", "j. à", "\\textit{abbr. pro} jusqu'à"),
+    (r"\bj-à\b", "j-à", "\\textit{abbr. pro} jusqu'à"),
+    (r"\bj-au\b", "j-au", "\\textit{abbr. pro} jusqu'au"),
+    (r"\bj-aux\b", "j-aux", "\\textit{abbr. pro} jusqu'aux"),
+    (r"\bj'que\b", "j'que", "\\textit{abbr. pro} jusque"),
     (r"\bds\b", "ds", "\\textit{abbr. pro} dans"),
+    (r"\bDs\b", "Ds", "\\textit{abbr. pro} Dans"),
+    (r"\bpr\.?\b", "pr", "\\textit{abbr. pro} pour"),
+    (r"(?<!\S)s/(?!\S)", "s/", "\\textit{abbr. pro} sur"),
+    (r"\bcme\b", "cme", "\\textit{abbr. pro} comme"),
+    (r"\bCme\b", "Cme", "\\textit{abbr. pro} Comme"),
+    (r"\bpdt\b", "pdt", "\\textit{abbr. pro} pendant"),
+    (r"\bns\b", "ns", "\\textit{abbr. pro} nous"),
+    (r"\bvs\b", "vs", "\\textit{abbr. pro} vous"),
     (r"\blg\b", "lg", "\\textit{abbr. pro} long / longtemps"),
-    (r"\blgt\b", "lgt", "\\textit{abbr. pro} longtemps"),
+    (r"\blgt\.?\b", "lgt", "\\textit{abbr. pro} longtemps"),
     (r"\blgts\b", "lgts", "\\textit{abbr. pro} longtemps"),
+    (r"\blgs\b", "lgs", "\\textit{abbr. pro} longtemps"),
+    (r"\blongt\b", "longt", "\\textit{abbr. pro} longtemps"),
     (r"\btt\b", "tt", "\\textit{abbr. pro} tout"),
+    (r"\bTt\b", "Tt", "\\textit{abbr. pro} Tout"),
     (r"\btte\b", "tte", "\\textit{abbr. pro} toute"),
+    (r"\bTte\b", "Tte", "\\textit{abbr. pro} Toute"),
+    (r"\bttes\b", "ttes", "\\textit{abbr. pro} toutes"),
     (r"\bts\b", "ts", "\\textit{abbr. pro} tous"),
+    (r"\bTs\b", "Ts", "\\textit{abbr. pro} Tous"),
     (r"\bbcp\b", "bcp", "\\textit{abbr. pro} beaucoup"),
+    (r"\bbp\b", "bp", "\\textit{abbr. pro} beaucoup"),
     (r"\bqq\b", "qq", "\\textit{abbr. pro} quelque(s)"),
+    (r"\bQq\b", "Qq", "\\textit{abbr. pro} Quelque(s)"),
     (r"\bqqs\b", "qqs", "\\textit{abbr. pro} quelques"),
+    (r"\bQqs\b", "Qqs", "\\textit{abbr. pro} Quelques"),
+    (r"\bqque\b", "qque", "\\textit{abbr. pro} quelque"),
+    (r"\btjrs\b", "tjrs", "\\textit{abbr. pro} toujours"),
+    (r"\bTjrs\b", "Tjrs", "\\textit{abbr. pro} Toujours"),
+    (r"\btjs\b", "tjs", "\\textit{abbr. pro} toujours"),
+    (r"\bTjs\b", "Tjs", "\\textit{abbr. pro} Toujours"),
+    (r"\bauj'd'hui\b", "auj'd'hui", "\\textit{abbr. pro} aujourd'hui"),
+    (r"\bAuj'd'hui\b", "Auj'd'hui", "\\textit{abbr. pro} Aujourd'hui"),
+    (r"\bAujd'hui\b", "Aujd'hui", "\\textit{abbr. pro} Aujourd'hui"),
+    (r"\bplusrs\b", "plusrs", "\\textit{abbr. pro} plusieurs"),
+    (r"\bplusis\b", "plusis", "\\textit{abbr. pro} plusieurs"),
+    (r"\bplusies\b", "plusies", "\\textit{abbr. pro} plusieurs"),
+    (r"\bpl\.\s+fois\b", "pl.", "\\textit{abbr. pro} plusieurs"),
+    # Adjectives & nouns
+    (r"\bgd\b", "gd", "\\textit{abbr. pro} grand"),
+    (r"\bGd\b", "Gd", "\\textit{abbr. pro} Grand(e)"),
+    (r"\bgde\b", "gde", "\\textit{abbr. pro} grande"),
+    (r"\bGde\b", "Gde", "\\textit{abbr. pro} Grande"),
+    (r"\bgds\b", "gds", "\\textit{abbr. pro} grands"),
+    (r"\bGds\b", "Gds", "\\textit{abbr. pro} Grands / Guards"),
+    (r"\bgdes\b", "gdes", "\\textit{abbr. pro} grandes"),
+    (r"\bgr\.\s+froid\b", "gr.", "\\textit{abbr. pro} grand"),
+    (r"\bpt\b", "pt", "\\textit{abbr. pro} petit"),
+    (r"\bPt\b", "Pt", "\\textit{abbr. pro} Petit"),
+    (r"\bpte\b", "pte", "\\textit{abbr. pro} petite"),
+    (r"\bptit\b", "ptit", "\\textit{abbr. pro} petit"),
+    (r"\bPtit\b", "Ptit", "\\textit{abbr. pro} Petit"),
+    (r"\bptts\b", "ptts", "\\textit{abbr. pro} petits"),
+    (r"\bhte\b", "hte", "\\textit{abbr. pro} haute"),
+    (r"\bht\b", "ht", "\\textit{abbr. pro} haut"),
+    (r"\bappartt\b", "appartt", "\\textit{abbr. pro} appartement"),
+    (r"\bcompartt\b", "compartt", "\\textit{abbr. pro} compartiment"),
+    (r"\bcantonnemt\b", "cantonnemt", "\\textit{abbr. pro} cantonnement"),
+    (r"\bcommt\b", "commt", "\\textit{abbr. pro} commencement"),
+    (r"\bcommencemt\b", "commencemt", "\\textit{abbr. pro} commencement"),
+    (r"\bbombardemt\b", "bombardemt", "\\textit{abbr. pro} bombardement"),
+    (r"\bbombardt\b", "bombardt", "\\textit{abbr. pro} bombardement"),
+    (r"\bchangemt\b", "changemt", "\\textit{abbr. pro} changement"),
+    (r"\bmouvt\b", "mouvt", "\\textit{abbr. pro} mouvement"),
+    (r"\bmouvts\b", "mouvts", "\\textit{abbr. pro} mouvements"),
+    (r"\bsentimt\b", "sentimt", "\\textit{abbr. pro} sentiment"),
+    (r"\babrutisst\b", "abrutisst", "\\textit{abbr. pro} abrutissement"),
+    (r"\benchevetrt\b", "enchevetrt", "\\textit{abbr. pro} enchevêtrement"),
+    (r"\brenseigts\b", "renseigts", "\\textit{abbr. pro} renseignements"),
+    (r"\bcorrespce\b", "correspce", "\\textit{abbr. pro} correspondance"),
+    (r"\bCorresp\b", "Corresp", "\\textit{abbr. pro} Correspondance"),
+    (r"\bsiton\b", "siton", "\\textit{abbr. pro} situation"),
+    (r"\bconverson\b", "converson", "\\textit{abbr. pro} conversation"),
+    (r"\bautorison\b", "autorison", "\\textit{abbr. pro} autorisation"),
+    (r"\bstaton\b", "staton", "\\textit{abbr. pro} station"),
+    (r"\bconfirmaton\b", "confirmaton", "\\textit{abbr. pro} confirmation"),
+    (r"\btempérre\b", "tempérre", "\\textit{abbr. pro} température"),
+    (r"\btempér\.", "tempér.", "\\textit{abbr. pro} température"),
+    (r"\bchalr\b", "chalr", "\\textit{abbr. pro} chaleur"),
+    (r"\bintellge\b", "intellge", "\\textit{abbr. pro} intelligence"),
+    (r"\bimptes\b", "imptes", "\\textit{abbr. pro} importantes"),
+    (r"\bimpts\b", "impts", "\\textit{abbr. pro} importants"),
+    (r"\bimpte\b", "impte", "\\textit{abbr. pro} importante"),
+    (r"\bimpt\b", "impt", "\\textit{abbr. pro} important"),
+    (r"\bexcte\b", "excte", "\\textit{abbr. pro} excellente"),
+    (r"\bexcellt\b", "excellt", "\\textit{abbr. pro} excellent"),
+    (r"\bsymphe\b", "symphe", "\\textit{abbr. pro} sympathique"),
+    (r"\bassz\b", "assz", "\\textit{abbr. pro} assez"),
+    (r"\bas\.\s", "as.", "\\textit{abbr. pro} assez"),
+    (r"\babomles\b", "abomles", "\\textit{abbr. pro} abominables"),
+    (r"\badmles\b", "admles", "\\textit{abbr. pro} admirables"),
+    # Adverbs in -t / -mt
     (r"\bextrt\b", "extrt", "\\textit{abbr. pro} extrêmement"),
+    (r"\bextt\b", "extt", "\\textit{abbr. pro} extrêmement"),
     (r"\bmervt\b", "mervt", "\\textit{abbr. pro} merveilleusement"),
     (r"\bmerveillet\b", "merveillet", "\\textit{abbr. pro} merveilleusement"),
     (r"\bmervx\b", "mervx", "\\textit{abbr. pro} merveilleux"),
@@ -183,44 +266,126 @@ ABBREV_MAP = [
     (r"\babst\b", "abst", "\\textit{abbr. pro} absolument"),
     (r"\bdéfintt\b", "défintt", "\\textit{abbr. pro} définitivement"),
     (r"\baffrt\b", "affrt", "\\textit{abbr. pro} affreusement"),
-    (r"\babomles\b", "abomles", "\\textit{abbr. pro} abominables"),
-    (r"\bcorrespce\b", "correspce", "\\textit{abbr. pro} correspondance"),
-    (r"\bcantonnemt\b", "cantonnemt", "\\textit{abbr. pro} cantonnement"),
-    (r"\bcommt\b", "commt", "\\textit{abbr. pro} commencement"),
-    (r"\bcommencemt\b", "commencemt", "\\textit{abbr. pro} commencement"),
-    (r"\brenseigts\b", "renseigts", "\\textit{abbr. pro} renseignements"),
-    (r"\bsiton\b", "siton", "\\textit{abbr. pro} situation"),
+    (r"\binfinimt\b", "infinimt", "\\textit{abbr. pro} infiniment"),
+    (r"\bprofondemt\b", "profondemt", "\\textit{abbr. pro} profondément"),
+    (r"\bparallelt\b", "parallelt", "\\textit{abbr. pro} parallèlement"),
+    (r"\bparallèlt\b", "parallèlt", "\\textit{abbr. pro} parallèlement"),
+    (r"\bcomplètt\b", "complètt", "\\textit{abbr. pro} complètement"),
+    (r"\bcomplt\b", "complt", "\\textit{abbr. pro} complètement"),
+    (r"\bentiert\b", "entiert", "\\textit{abbr. pro} entièrement"),
+    (r"\binutilt\b", "inutilt", "\\textit{abbr. pro} inutilement"),
+    (r"\bprincipt\b", "principt", "\\textit{abbr. pro} principalement"),
+    (r"\bfortt\b", "fortt", "\\textit{abbr. pro} fortement"),
+    (r"\babondt\b", "abondt", "\\textit{abbr. pro} abondamment"),
+    (r"\brapidt\b", "rapidt", "\\textit{abbr. pro} rapidement"),
+    (r"\bdélicieust\b", "délicieust", "\\textit{abbr. pro} délicieusement"),
+    (r"\bexactt\b", "exactt", "\\textit{abbr. pro} exactement"),
+    (r"\bspécialt\b", "spécialt", "\\textit{abbr. pro} spécialement"),
+    (r"\bimmédiatt\b", "immédiatt", "\\textit{abbr. pro} immédiatement"),
+    (r"\blégèrt\b", "légèrt", "\\textit{abbr. pro} légèrement"),
+    # Common abbreviated words, titles, places, people
+    (r"\bdéj\.?\b", "déj", "\\textit{abbr. pro} déjeuné / déjeuner"),
+    (r"\bdéjeun\.?\b", "déjeun.", "\\textit{abbr. pro} déjeuné / déjeuner"),
+    (r"\bpromen\.", "promen.", "\\textit{abbr. pro} promener / promenade"),
+    (r"\bét\.", "ét.", "\\textit{abbr. pro} étage / était"),
+    (r"\bch\.", "ch.", "\\textit{abbr. pro} chambre / chaude"),
+    (r"\bCh\.\s+Pfister\b", "Ch.", "\\textit{abbr. pro} Chez"),
+    (r"\bBvd\b", "Bvd", "\\textit{abbr. pro} Boulevard"),
+    (r"\bBd\b", "Bd", "\\textit{abbr. pro} Boulevard"),
+    (r"\bChau\b", "Chau", "\\textit{abbr. pro} Château"),
+    (r"\bEgl\.?\b", "Egl.", "\\textit{abbr. pro} Église"),
+    (r"\bégl\.", "égl.", "\\textit{abbr. pro} église"),
+    (r"\bpropr\.", "propr.", "\\textit{abbr. pro} propriétaire"),
+    (r"\bproprre\b", "proprre", "\\textit{abbr. pro} propriétaire"),
+    (r"\bpropie\b", "propie", "\\textit{abbr. pro} propriétaire"),
+    (r"\bProprié\b", "Proprié", "\\textit{abbr. pro} Propriétaire"),
+    (r"\bhabts\b", "habts", "\\textit{abbr. pro} habitants"),
+    (r"\bsous-préf\b", "sous-préf", "\\textit{abbr. pro} sous-préfecture"),
+    (r"\bdept\b", "dept", "\\textit{abbr. pro} département"),
+    (r"\bkils\b", "kils", "\\textit{abbr. pro} kilomètres"),
+    (r"\bKils\b", "Kils", "\\textit{abbr. pro} Kilomètres"),
+    (r"\bkil\.", "kil.", "\\textit{abbr. pro} kilomètres"),
+    (r"\b\d+\s*k\.\s+de\b", "k.", "\\textit{abbr. pro} kilomètres"),
+    (r"\bMargte\b", "Margte", "\\textit{scil.} Marguerite (Calmels)"),
+    (r"\bMte\b", "Mte", "\\textit{scil.} Marguerite (Calmels)"),
+    (r"\bMarg\.", "Marg.", "\\textit{scil.} Marguerite (Calmels)"),
+    (r"\bJosephe\b", "Josephe", "\\textit{scil.} Joséphine (Combes)"),
+    (r"\bMme\b", "Mme", "\\textit{abbr. pro} Madame"),
+    (r"\bMmes\b", "Mmes", "\\textit{abbr. pro} Mesdames"),
+    (r"\bMlle\b", "Mlle", "\\textit{abbr. pro} Mademoiselle"),
+    (r"\bMlles\b", "Mlles", "\\textit{abbr. pro} Mesdemoiselles"),
+    (r"\bMre\b", "Mre", "\\textit{abbr. pro} Mère"),
+    (r"\bSt[-\s]", "St", "\\textit{abbr. pro} Saint"),
+    (r"\bSte[-\s]", "Ste", "\\textit{abbr. pro} Sainte"),
+    (r"\bfrse\b", "frse", "\\textit{abbr. pro} française"),
+    (r"\bfse\b", "fse", "\\textit{abbr. pro} française"),
+    (r"\bFse\b", "Fse", "\\textit{abbr. pro} Française"),
+    (r"\bFr\.se\b", "Fr.se", "\\textit{abbr. pro} Française"),
+    (r"\bmilitre\b", "militre", "\\textit{abbr. pro} militaire"),
+    (r"\bmilre\b", "milre", "\\textit{abbr. pro} militaire"),
+    (r"\bmilit\.", "milit.", "\\textit{abbr. pro} militaire"),
+    (r"\binfrie\b", "infrie", "\\textit{abbr. pro} infanterie"),
+    (r"\bD\.on\b", "D.on", "\\textit{abbr. pro} Division"),
+    (r"\bdiv\b", "div", "\\textit{abbr. pro} division"),
     (r"\boff\.", "off.", "\\textit{abbr. pro} officier(s)"),
+    (r"\boffs\b", "offs", "\\textit{abbr. pro} officiers"),
+    (r"\boff\b", "off", "\\textit{abbr. pro} officier(s)"),
     (r"\bLieutt\b", "Lieutt", "\\textit{abbr. pro} Lieutenant"),
     (r"\bLt\b", "Lt", "\\textit{abbr. pro} Lieutenant"),
+    (r"\bCap\.\s*W\.", "Cap. W.", "\\textit{scil.} Capitaine Williams"),
+    (r"\bCapt\.\s*W\.", "Capt. W.", "\\textit{scil.} Captain Williams"),
     (r"\bCap\.", "Cap.", "\\textit{abbr. pro} Capitaine"),
     (r"\bCapt\.", "Capt.", "\\textit{angl.} Captain"),
-    (r"\bCapt\.\s*W\.", "Capt. W.", "\\textit{scil.} Captain Williams"),
-    (r"\bCap\.\s*W\.", "Cap. W.", "\\textit{scil.} Capitaine Williams"),
+    (r"\bCol\.", "Col.", "\\textit{abbr. pro} Colonel"),
+    (r"\bCoy\b", "Coy", "\\textit{angl.} Company"),
+    (r"\bCie\b", "Cie", "\\textit{abbr. pro} Compagnie"),
+    (r"\bcie\b", "cie", "\\textit{abbr. pro} compagnie"),
     (r"\bM\.T\.", "M.T.", "\\textit{angl.} Mechanical Transport"),
     (r"\bM\.O\.", "M.O.", "\\textit{angl.} Medical Officer"),
     (r"\bH\.Q\.", "H.Q.", "\\textit{angl.} Headquarters"),
     (r"\bG\.H\.Q\.", "G.H.Q.", "\\textit{angl.} General Headquarters"),
     (r"\bN\.C\.O's\b", "N.C.O's", "\\textit{angl.} Non-Commissioned Officers"),
+    (r"\bN\.C\.O\.", "N.C.O.", "\\textit{angl.} Non-Commissioned Officer"),
     (r"\bA\.S\.C\.", "A.S.C.", "\\textit{angl.} Army Service Corps"),
+    (r"\bR\.F\.A\.", "R.F.A.", "\\textit{angl.} Royal Field Artillery"),
+    (r"\bR\.F\.", "R.F.", "\\textit{angl.} Royal Fusiliers"),
+    (r"\bR\.T\.O\.", "R.T.O.", "\\textit{angl.} Railway Transport Officer"),
+    (r"\bA\.P\.M\.", "A.P.M.", "\\textit{angl.} Assistant Provost Marshal"),
+    (r"\bQ\.M\.S\.", "Q.M.S.", "\\textit{angl.} Quartermaster Sergeant"),
+    (r"\bD\.O\.S\.T\.", "D.O.S.T.", "\\textit{angl.} Director of Ordnance Services"),
     (r"\bE\.F\.C\.", "E.F.C.", "\\textit{angl.} Expeditionary Force Canteens"),
     (r"\bY\.M\.C\.A\.", "Y.M.C.A.", "\\textit{angl.} Young Men's Christian Assoc."),
+    (r"\bP\.L\.M\.", "P.L.M.", "\\textit{scil.} Paris-Lyon-Méditerranée"),
     (r"\bc\.\s*ples\b", "c. ples", "\\textit{abbr. pro} cartes postales"),
+    (r"\bctes\s+ples\b", "ctes ples", "\\textit{abbr. pro} cartes postales"),
+    (r"\bCtes\s+ples\b", "Ctes ples", "\\textit{abbr. pro} Cartes postales"),
     (r"\bCartes\s+ples\b", "Cartes ples", "\\textit{abbr. pro} Cartes postales"),
+    (r"\b[cC]tes\s+ph\.?", "ctes ph.", "\\textit{abbr. pro} cartes photographiques"),
+    (r"\b[cC]artes\s+ph\.?", "cartes ph.", "\\textit{abbr. pro} cartes photographiques"),
+    (r"\b\d+\s*ct\.?\b", "ct", "\\textit{abbr. pro} courant"),
+    (r"\b1/2\b", "1/2", "\\textit{scil.} demi / moitié"),
+    (r"\b1er\b", "1er", "\\textit{scil.} premier"),
+    (r"\b1ère\b", "1ère", "\\textit{scil.} première"),
+    (r"\b\d+\s*f\.\s*\d*", "f.", "\\textit{abbr. pro} franc(s)"),
+    (r"\b\d+\s*fr\.", "fr.", "\\textit{abbr. pro} franc(s)"),
+    (r"\b\d+\s*c\.", "c.", "\\textit{abbr. pro} centimes"),
+    (r"\b\d+\s*[hH]\s*(?:\d+\s*|1/2\s*)?m\.?\b", "m.", "\\textit{abbr. pro} matin"),
+    (r"\b\d+\s*[hH]\s*(?:\d+\s*|1/2\s*)?s\.?\b", "s.", "\\textit{abbr. pro} soir"),
 ]
 
 ANGLICISM_WORDS = [
-    "breakfast", "lunch", "Lunché", "tea", "tea-dinner", "dinner", "After dinner",
-    "sunset", "Washing", "washing", "darning", "Food", "food", "cottage", "garret",
-    "billeting", "billets", "billet", "mess", "messroom", "shift", "shifting",
-    "lorry", "lorries", "limber", "saddle soap", "refilling point", "barbed wire",
-    "tooth ache", "hair cut", "Hair cut", "wounded", "kit", "walk", "Purchase Board",
-    "interview", "tommy", "Tooth Powder", "Blacksmith", "workshops", "Early lunch",
-    "moving", "afternoon", "long talk", "home", "stuck", "anti-aircraft battery",
-    "dug-outs", "lift", "water-cart", "Christmas dinner", "turkey", "plum-pudding",
-    "Boxing Day", "Brickfield area", "Town Major", "Foraging Officer", "warrant",
-    "English novel", "Death or Glory Boys", "nice", "green", "forage", "shifterons", "shifté",
-    "railhead", "groom", "canteen", "boots", "nails",
+    "breakfast", "Breakfast", "lunch", "Lunch", "Lunché", "tea", "tea-dinner", "dinner", "After dinner",
+    "sunset", "Washing", "washing", "darning", "cooking", "Food", "food", "Drink", "cottage", "garret",
+    "billeting", "billets", "billet", "mess", "messroom", "messer", "shift", "shifte", "shifting",
+    "shifterons", "shifté", "lorry", "lorries", "limber", "waggon", "wagon", "saddle soap",
+    "refilling point", "horse-lines", "Horse-lines", "barbed wire", "tooth ache", "hair cut", "Hair cut",
+    "wounded", "kit", "walk", "Purchase Board", "interview", "tommy", "tommies", "Tooth Powder",
+    "tooth powder", "Blacksmith", "workshops", "Early lunch", "moving", "afternoon", "long talk",
+    "home", "stuck", "anti-aircraft battery", "dug-outs", "lift", "water-cart", "Christmas dinner",
+    "Christmas", "turkey", "plum-pudding", "Boxing Day", "Brickfield area", "Town Major",
+    "Foraging Officer", "warrant", "English novel", "Death or Glory Boys", "nice", "green", "forage",
+    "railhead", "groom", "headcook", "batman", "poney", "canteen", "Canteen", "boots", "nails",
+    "sunshine", "very", "Sweets", "cakes", "Gift", "Tip", "room", "tins", "Dubbin",
 ]
 
 INLINE_SUFFIX_FIXES = [
@@ -250,11 +415,14 @@ EDITORIAL_PLACEHOLDERS = [
     "[Suite immédiate du folio précédent]",
 ]
 
+DAYS_SET = {"Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"}
+
 
 def clean_line_and_extract_note(raw_line, line_no):
     """
     Cleans markdown/editorial artifacts from a transcription line so the main text
     is pure diplomatic text, and returns (cleaned_line, marginal_note_str).
+    Preserves all manuscript accounting brackets `[ ... ]` intact.
     """
     notes = []
     line = strip_html_keep_del(raw_line).strip()
@@ -262,6 +430,9 @@ def clean_line_and_extract_note(raw_line, line_no):
     if line == "[Bas de page très pâle : ... Consommations : 50c]":
         line = "... Consommations : 50 c."
         notes.append(f"\\textbf{{{line_no}}} \\textit{{lect. pallida in imo folio.}}")
+
+    if "[Suite immédiate du folio précédent]" in line:
+        line = line.replace("[Suite immédiate du folio précédent]", "").strip()
 
     # Convert ~~...~~ to ⟦...⟧
     line = re.sub(r"~~([^~]+)~~", lambda m: f"⟦{m.group(1).strip()}⟧", line)
@@ -274,6 +445,9 @@ def clean_line_and_extract_note(raw_line, line_no):
     # Strip footnote numbers like [1], [2]
     line = re.sub(r"\s*\[\d+\]", "", line)
 
+    # Normalize spaces before punctuation before extracting inline expansions
+    line = re.sub(r"\s+([,.;:!?])", r"\1", line)
+
     # Apply inline suffix fixes (e.g. off.[iciers], C[ie])
     for pat, repl, lemma, exp in INLINE_SUFFIX_FIXES:
         if pat in line:
@@ -282,41 +456,72 @@ def clean_line_and_extract_note(raw_line, line_no):
                 notes.append(f"\\textbf{{{line_no} {lemma}}} \\textit{{scil.}} {exp}.")
 
     # Check for uncertain reading [?] or [...]
+    for m in re.finditer(r"([A-Za-zÀ-ÖØ-öø-ÿ0-9'/.-]+)\s*\[\?\]", line):
+        w = m.group(1).strip(".,;:()")
+        if w:
+            notes.append(f"\\textbf{{{line_no} {w}}} \\textit{{lect. incert. in ms.}}")
     if "[?]" in line:
+        if not any("lect. incert." in n for n in notes):
+            notes.append(f"\\textbf{{{line_no}}} \\textit{{lect. incert. in ms.}}")
         line = line.replace("[?]", "")
-        w = line.split()[-1] if line.split() else "lect."
-        notes.append(f"\\textbf{{{line_no} {w}}} \\textit{{lect. incert. in ms.}}")
     if "[...]" in line:
         line = line.replace("[...]", "\\dots")
         notes.append(f"\\textbf{{{line_no}}} \\textit{{lacuna vel lect. incert.}}")
 
-    # Extract inline editorial expansions like `Ma. [Mardi]`
-    # Keep `[ ... ]` if the whole line is an accounting bracket `[ A Acheux : ... ]`
-    is_accounting_line = (line.startswith("[") and (":" in line or "f." in line or "c." in line or "Tip" in line)) or line.startswith("  ")
-    if not is_accounting_line:
-        for m in re.finditer(r"(\S+)\s+\[([^\]]+)\]", line):
-            word_before = m.group(1)
-            expansion = m.group(2)
-            if not expansion.isdigit():
-                notes.append(f"\\textbf{{{line_no} {word_before}}} \\textit{{scil.}} {expansion}.")
-        line = re.sub(r"\s*\[([^\]]+)\]", "", line)
-    else:
-        if line.startswith("["):
-            notes.append(f"\\textbf{{{line_no}}} \\textit{{in marg. cum unco}} (comptes).")
+    # Detect manuscript accounting brackets `[ ... ]` (either starting with `[ ` or containing `:` or `=`)
+    has_accounting_bracket = ("[ " in line) or bool(re.search(r"\[[^\]]*[:=][^\]]*\]", line))
+    if has_accounting_bracket:
+        notes.append(f"\\textbf{{{line_no}}} \\textit{{in marg. cum unco}} (comptes).")
 
-    # Check abbreviations
-    if not notes:
+    # Extract inline editorial expansions `[expansion]` ONLY when the bracket is NOT an accounting bracket
+    # (editorial expansions never start with a space after `[` and never contain `:` or `=`)
+    for m in re.finditer(r"(\S+)\s+\[([^\]\s:=\"][^\]:=\"]*)\]", line):
+        word_before = m.group(1)
+        expansion = m.group(2).strip()
+        if expansion.isdigit():
+            continue
+        if expansion in DAYS_SET:
+            prefix = line[:m.start()] + word_before
+            dm = re.search(
+                r"\b(Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|Mar\.?|Ma\.?|Merc\.?|Mer\.?|Me\.?|Jeu\.?|J\.?|Vendr\.?|Ven\.?|Ve\.?|V\.?|Sam\.?|S\.?|Dim\.?|D\.?|Lun\.?|L\.?)(?=\s|$|\.)",
+                prefix,
+            )
+            if dm:
+                word_before = dm.group(0)
+        elif word_before == "les" and expansion == "dans les":
+            word_before = "ds"
+            expansion = "dans"
+        elif word_before == "ph" and "photos" in expansion.lower():
+            word_before = "ctes ph."
+        if expansion.lower() == "sic":
+            notes.append(f"\\textbf{{{line_no} {word_before}}} \\textit{{sic in ms.}}")
+        elif word_before.rstrip(".") != expansion.rstrip("."):
+            notes.append(f"\\textbf{{{line_no} {word_before}}} \\textit{{scil.}} {expansion}.")
+
+    # Strip only non-accounting editorial brackets `[expansion]`
+    line = re.sub(r"\s*\[([^\]\s:=\"][^\]:=\"]*)\]", "", line)
+
+    # Check abbreviations in ABBREV_MAP (if not already noted for that lemma)
+    if len(notes) < 2:
         for pat, lemma, expl in ABBREV_MAP:
             if re.search(pat, line):
-                notes.append(f"\\textbf{{{line_no} {lemma}}} {expl}.")
-                break
+                if not any(f" {lemma}}}" in n for n in notes):
+                    notes.append(f"\\textbf{{{line_no} {lemma}}} {expl}.")
+                    if len(notes) >= 2:
+                        break
+
+    # Check conjunction `y` (et) when between two French/English words and not pronoun `y`
+    if len(notes) < 2 and re.search(r"(?<![lmnstLMNST]')\by\b(?!\s+(?:a|avait|avaient|avoir|suis|es|est|sommes|êtes|sont|étais|était|étaient|ai|as|avons|avez|ont|aurai|aura|aller|allé|allés|venir|venu|venus|rester|resté|passer|passé|trouver|trouvé|faire|fait|couche|coucher|loger|loge|plais|plaire|fui|fus|prié|soupé|parvenir|entrer|entré|retourner|retourné|revenir|revenu|prendre|pris|descendre|monter|mettre|mis|voir|vu|penser|pensé|être|été|habiter|demeurer))", line):
+        if not any(" y}" in n for n in notes):
+            notes.append(f"\\textbf{{{line_no} y}} \\textit{{scil.}} et.")
 
     # Check anglicisms
     if len(notes) < 2:
         for ang in ANGLICISM_WORDS:
             if re.search(r"\b" + re.escape(ang) + r"\b", line):
-                notes.append(f"\\textbf{{{line_no} {ang}}} \\textit{{angl. in ms.}}")
-                break
+                if not any(f" {ang}}}" in n for n in notes):
+                    notes.append(f"\\textbf{{{line_no} {ang}}} \\textit{{angl. in ms.}}")
+                    break
 
     # Normalize tabs/multiple spaces (used for right-aligned month/year headers)
     if "\t" in line or "          " in line:
@@ -330,82 +535,6 @@ def clean_line_and_extract_note(raw_line, line_no):
 
     dedup_notes = list(dict.fromkeys(notes))
     return line, " ".join(dedup_notes)
-
-
-def split_docx_commentary(comm_paras, header_title, meta_paras, scan_idx=0):
-    """
-    Splits the commentary paragraphs of a docx block into:
-    - critique (internal to the notebook: paleography, transcription, syntax, language, psychology, accounting)
-    - historique (external historical context: military units, geography, family prosopography)
-    """
-    if scan_idx == 1:
-        return (
-            "\\textbf{Codicologie et matérialité :} Couverture extérieure en carton souple recouvert d'une toile "
-            "cirée noire (carnet de poche britannique à coins arrondis). L'étiquette octogonale collée au centre "
-            "porte, tracé à la plume et à l'encre noire d'une main posée, le titre comptable \\textit{Livre - Journal} "
-            "encadré de deux filets triples de tirets.",
-            "\\textbf{Période couverte (25 juillet 1916 -- 30 avril 1917) :} Ces neuf mois correspondent à la "
-            "campagne d'Hippolyte Combes (interprète stagiaire de réserve, classe 1896) auprès du Corps expéditionnaire "
-            "britannique (\\textit{B.E.F.}), successivement détaché aux \\textit{1st Irish Guards} (Flandres, Somme) puis "
-            "à la \\textit{152nd Company A.S.C.} (Somme, Flandres, Artois) jusqu'à la veille de son mariage à Millau."
-        )
-
-    crit_parts = []
-    hist_parts = []
-
-    for m in meta_paras:
-        if m.startswith("Analyse") or m.startswith("Document"):
-            crit_parts.append(m)
-
-    for p in comm_paras:
-        if re.match(r"^(II\.|III\.)", p):
-            continue
-        p_clean = re.sub(r"^\d+\.\s*", "", p).strip()
-        if any(k in p_clean.lower() for k in [
-            "lecture", "transcription", "écriture", "encre", "crayon", "rature", "biff",
-            "syntax", "orthograph", "anglicisme", "franglais", "pidgin", "bilingu", "mot ",
-            "abréviation", "caisse", "compte", "solde", "carnet", "folio", "marge",
-            "psycholog", "spleen", "mélancol", "ellip", "surcomposé"
-        ]):
-            crit_parts.append(p_clean)
-        else:
-            hist_parts.append(p_clean)
-
-    if not crit_parts and hist_parts:
-        if len(hist_parts) > 1:
-            crit_parts.append(hist_parts[0])
-            hist_parts = hist_parts[1:]
-        else:
-            crit_parts.append(
-                "Écriture courante à l'encre noire ; syntaxe télégraphique par juxtaposition nominale et participiale, "
-                "avec relevé comptable des menues dépenses en pied de folio."
-            )
-    if not hist_parts and crit_parts:
-        if len(crit_parts) > 1:
-            hist_parts.append(crit_parts[-1])
-            crit_parts = crit_parts[:-1]
-        else:
-            hist_parts.append(
-                f"Séquence inscrite dans le cadre du service de liaison et de cantonnement auprès des unités britanniques ({header_title})."
-            )
-
-    def trim_sentences(s, max_c=560):
-        if len(s) <= max_c:
-            return s
-        cut = s[:max_c]
-        last_dot = max(cut.rfind(". "), cut.rfind(" — "))
-        if last_dot > 220:
-            res = cut[:last_dot + 1].strip()
-            if res.endswith("—"):
-                res = res[:-1].strip()
-            if not res.endswith("."):
-                res += "."
-            return res
-        return cut.rsplit(" ", 1)[0] + "."
-
-    crit_str = trim_sentences(" — ".join(crit_parts), 560)
-    hist_str = trim_sentences(" — ".join(hist_parts), 560)
-    return crit_str, hist_str
 
 
 def build_all_186_records():
@@ -426,47 +555,58 @@ def build_all_186_records():
         if scan_idx <= 49:
             doc = docs[scan_idx - 1]
             raw_lines = doc["lines"]
-            title = re.sub(r"^DOCUMENT\s+\d+\s*:\s*", "", doc["header"])
-            date_str = next((m.replace("Date :", "").strip() for m in doc["meta"] if m.startswith("Date")), "Juillet – Septembre 1916")
-            lieu_str = next((m.replace("Lieu :", "").strip() for m in doc["meta"] if m.startswith("Lieu")), "Flandres / Artois / Somme")
-            crit_str, hist_str = split_docx_commentary(doc["comm"], title, doc["meta"], scan_idx)
+            meta = SCANS_001_074_META[scan_idx]
+            title = f"{folio_label.upper()} ({meta['title']})" if scan_idx > 1 else meta["title"]
+            date_str = meta["date"]
+            lieu_str = meta["lieu"]
+            crit_str = meta["critique"]
+            hist_str = meta["historique"]
         elif scan_idx == 50:
             raw_lines = SCAN_050_DATA["lines"]
-            title = f"FOLIO 24 RECTO ({SCAN_050_DATA['title']})"
-            date_str = SCAN_050_DATA["date"]
-            lieu_str = SCAN_050_DATA["lieu"]
-            crit_str = SCAN_050_DATA["critique"]
-            hist_str = SCAN_050_DATA["historique"]
+            meta = SCANS_001_074_META[50]
+            title = f"{folio_label.upper()} ({meta['title']})"
+            date_str = meta["date"]
+            lieu_str = meta["lieu"]
+            crit_str = meta["critique"]
+            hist_str = meta["historique"]
         elif 51 <= scan_idx <= 62:
             doc = docs[scan_idx - 2]  # Block 50 is Scan #051
             raw_lines = doc["lines"]
-            title = re.sub(r"^DOCUMENT\s+\d+\s*:\s*", "", doc["header"])
-            date_str = next((m.replace("Date :", "").strip() for m in doc["meta"] if m.startswith("Date")), "Septembre – Octobre 1916")
-            lieu_str = next((m.replace("Lieu :", "").strip() for m in doc["meta"] if m.startswith("Lieu")), "Paris / Millau")
-            crit_str, hist_str = split_docx_commentary(doc["comm"], title, doc["meta"], scan_idx)
+            meta = SCANS_001_074_META[scan_idx]
+            title = f"{folio_label.upper()} ({meta['title']})"
+            date_str = meta["date"]
+            lieu_str = meta["lieu"]
+            crit_str = meta["critique"]
+            hist_str = meta["historique"]
         elif scan_idx == 63:
             # Scan #063 (20251126_103538.jpg) is 5 Oct 1916 (Block 63 = index 62)
             doc = docs[62]
             raw_lines = doc["lines"]
-            title = re.sub(r"^DOCUMENT\s+\d+\s*:\s*", "", doc["header"])
-            date_str = "5 octobre 1916"
-            lieu_str = "Train Millau – Paris – Amiens"
-            crit_str, hist_str = split_docx_commentary(doc["comm"], title, doc["meta"], scan_idx)
+            meta = SCANS_001_074_META[63]
+            title = f"{folio_label.upper()} ({meta['title']})"
+            date_str = meta["date"]
+            lieu_str = meta["lieu"]
+            crit_str = meta["critique"]
+            hist_str = meta["historique"]
         elif scan_idx == 64:
             # Scan #064 (20251126_103554.jpg) is 4 Oct 1916 suite (Block 62 = index 61)
             doc = docs[61]
             raw_lines = doc["lines"]
-            title = re.sub(r"^DOCUMENT\s+\d+\s*:\s*", "", doc["header"])
-            date_str = "4 octobre 1916 (soir)"
-            lieu_str = "Millau – Départ en train"
-            crit_str, hist_str = split_docx_commentary(doc["comm"], title, doc["meta"], scan_idx)
+            meta = SCANS_001_074_META[64]
+            title = f"{folio_label.upper()} ({meta['title']})"
+            date_str = meta["date"]
+            lieu_str = meta["lieu"]
+            crit_str = meta["critique"]
+            hist_str = meta["historique"]
         elif 65 <= scan_idx <= 74:
             doc = docs[scan_idx - 2]
             raw_lines = doc["lines"]
-            title = re.sub(r"^DOCUMENT\s+\d+\s*:\s*", "", doc["header"])
-            date_str = next((m.replace("Date :", "").strip() for m in doc["meta"] if m.startswith("Date")), "Octobre 1916")
-            lieu_str = next((m.replace("Lieu :", "").strip() for m in doc["meta"] if m.startswith("Lieu")), "Somme (Acheux / Beauval)")
-            crit_str, hist_str = split_docx_commentary(doc["comm"], title, doc["meta"], scan_idx)
+            meta = SCANS_001_074_META[scan_idx]
+            title = f"{folio_label.upper()} ({meta['title']})"
+            date_str = meta["date"]
+            lieu_str = meta["lieu"]
+            crit_str = meta["critique"]
+            hist_str = meta["historique"]
         elif 75 <= scan_idx <= 130:
             entry = SCANS_075_130[scan_idx]
             raw_lines = entry["lines"]
@@ -493,20 +633,12 @@ def build_all_186_records():
             if mnote:
                 marginal_notes[i] = mnote
 
-        # Ensure every page has at least 3 marginal apparatus notes for philological richness
-        if len(marginal_notes) < 3 and len(cleaned_lines) >= 5:
-            if 1 not in marginal_notes:
-                marginal_notes[1] = "\\textbf{1 En-tête} Date et mois inscrits en haut de page."
-            mid = len(cleaned_lines) // 2
-            if mid not in marginal_notes:
-                w = cleaned_lines[mid - 1].replace("\\hfill", "").split()[:2]
-                w_str = " ".join(w) if w else "texte"
-                marginal_notes[mid] = f"\\textbf{{{mid} {w_str}}} Écriture courante à l'encre noire."
-            last = len(cleaned_lines)
-            if last not in marginal_notes:
-                w = cleaned_lines[last - 1].replace("\\hfill", "").split()[:2]
-                w_str = " ".join(w) if w else "fin"
-                marginal_notes[last] = f"\\textbf{{{last} {w_str}}} Clôture de la page manuscrite."
+        if scan_idx == 1:
+            marginal_notes = {
+                2: "\\textbf{2 Livre - Journal} \\textit{titulus in pittacio octogono.}",
+                5: "\\textbf{5 25 juillet 1916} \\textit{terminus a quo.}",
+                6: "\\textbf{6 30 avril 1917} \\textit{terminus ad quem.}",
+            }
 
         records.append({
             "scan_num": scan_idx,

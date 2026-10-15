@@ -53,6 +53,8 @@ def sanitize_latex_fragment(s):
     s = re.sub(r"\$\s*\$(?:\\rightarrow)\$\s*\$", r"$\\rightarrow$", s)
     s = re.sub(r"\^([a-zA-Z0-9]+)\^", r"\\textsuperscript{\1}", s)
     s = s.replace("^", "")
+    s = s.replace("$\\llbracket$", "\\llbracket").replace("$\\rrbracket$", "\\rrbracket")
+    s = s.replace("$\\llbracket", "\\llbracket").replace("\\rrbracket$", "\\rrbracket")
     s = s.replace("\\llbracket ", "$[\\![$").replace("\\llbracket", "$[\\![$")
     s = s.replace("\\rrbracket\\", "$]\\!]\\ $").replace("\\rrbracket", "$]\\!]$")
     s = s.replace("⟦", "$[\\![$").replace("⟧", "$]\\!]$")
@@ -430,7 +432,7 @@ def generate_full_tex():
     preamble = r"""\documentclass[10pt,twoside,openany]{book}
 \usepackage{fontspec}
 \usepackage[french]{babel}
-\usepackage[a4paper,top=16mm,bottom=16mm,inner=16mm,outer=14mm,headheight=13pt,headsep=5mm,footskip=7mm]{geometry}
+\usepackage[a4paper,top=16mm,bottom=16mm,inner=16mm,outer=14mm,headheight=18.5pt,headsep=5mm,footskip=7mm]{geometry}
 \usepackage{graphicx}
 \usepackage{xcolor}
 \usepackage{amsmath,amssymb,amsfonts}
@@ -634,7 +636,7 @@ Inspirée des principes de l'édition philologique classique, la présente édit
 
 \begin{small}
 \renewcommand{\arraystretch}{1.18}
-\noindent\begin{longtable}{@{}p{44mm}p{128mm}@{}}
+\noindent\begin{longtable}{@{}>{\raggedright\arraybackslash}p{44mm}p{128mm}@{}}
 \toprule
 \textbf{Nom / Unité / Lieu} & \textbf{Identification biographique, militaire ou géographique} \\
 \midrule
@@ -715,6 +717,24 @@ Inspirée des principes de l'édition philologique classique, la présente édit
         for s_idx in range(s_start, s_end + 1):
             body_parts.append(build_spread_latex(rec_by_num[s_idx]))
 
+    # Build 186-row synoptic table rows for Appendix II
+    synoptic_rows = []
+    for r in records:
+        snum = r["scan_num"]
+        fn_esc = r["filename"].replace("_", "\\_")
+        fol_esc = sanitize_latex_fragment(r["folio"])
+        dt_esc = sanitize_latex_fragment(r["date"])
+        li_esc = sanitize_latex_fragment(r["lieu"])
+        raw_tit = r["title"]
+        # Strip leading "FOLIO X RECTO/VERSO (...)" wrapper if present so the table cell is concise
+        m_tit = re.match(r"^FOLIO\s+\d+\s+(?:RECTO|VERSO)\s*\((.*)\)$", raw_tit, re.I)
+        short_tit = m_tit.group(1) if m_tit else raw_tit
+        tit_esc = sanitize_latex_fragment(short_tit)
+        synoptic_rows.append(
+            f"\\#{snum:03d} & \\texttt{{{fn_esc}}} & {fol_esc} & {dt_esc} & \\textbf{{{li_esc}}} — {tit_esc} \\\\"
+        )
+    synoptic_table_body = "\n".join(synoptic_rows)
+
     # Appendices: War letters & Military Service Record
     appendices_tex = r"""
 % =============================================================================
@@ -731,67 +751,115 @@ Inspirée des principes de l'édition philologique classique, la présente édit
 \markboth{Annexe I — Correspondance de guerre}{Annexe I — Correspondance de guerre}
 {\sloppy
 
-Les archives familiales d'Hippolyte Combes conservées dans le sous-répertoire \texttt{archives\_militaires/lettres\_de\_guerre/} du dépôt renferment cinq pièces autographes majeures de la Grande Guerre qui éclairent directement la genèse et le contexte du \textit{Livre-Journal}. Nous en donnons ici l'édition diplomatique et critique fidèle d'après les originaux numérisés.
+Les archives familiales d'Hippolyte Combes conservées dans le sous-répertoire \texttt{archives\_\allowbreak militaires/\allowbreak lettres\_\allowbreak de\_\allowbreak guerre/} du dépôt renferment huit pièces autographes majeures de la Grande Guerre qui éclairent directement la genèse et le contexte du \textit{Livre-Journal}. Nous en donnons ici l'édition diplomatique et critique intégrale mot à mot d'après les originaux numérisés.
 
-\section{Document 1 : Lettre d'Hippolyte Combes à un capitaine, ancien collègue de la Faculté de Toulouse (Au front, 25 février 1916)}
-\noindent\textbf{Source :} dossier \texttt{archives\_militaires/lettres\_de\_guerre/}, fichier \texttt{lettre fev 1916 au front à un capitaine.pdf} (double feuillet autographe numéroté p.~36 et p.~37).
+\section{Document 1 : Copie autographe d'une lettre d'Hippolyte Combes à un capitaine, ancien collègue de la Faculté de Toulouse (Au front, 21 février 1916)}
+{\raggedright\noindent\textbf{Source :} dossier \texttt{archives\_\allowbreak militaires/\allowbreak lettres\_\allowbreak de\_\allowbreak guerre/}, fichier \texttt{lettre fev 1916 au front à un capitaine.pdf} (feuillet autographe quadrillé recto-verso, numéroté \texttt{111} en marge).\par}
 
 \begin{quote}\small
-« Au front, le 25 février 1916.\\[1mm]
+« \underline{\underline{Copie}} \hfill Au front, le 21 février 1916\\[1mm]
 Mon Capitaine,\\
-Permettez à un de vos anciens collègues de la Faculté de Toulouse, aujourd'hui interprète à l'armée britannique, de se rappeler à votre bon souvenir et de solliciter de votre bienveillance un renseignement qui l'intéresse au plus haut point.\\
-Détaché à la Mission militaire française dès le début de mai 1915, j'ai d'abord été affecté à la 12\textsuperscript{e} Division aux environs de Béthune, puis rappelé à la Mission à Saint-Omer. Depuis le mois d'août dernier, je suis attaché à une compagnie d'\textit{Army Service Corps} relevant de la 18\textsuperscript{e} Division, sous les ordres de M. l'officier interprète Pizzi.\\
-Plusieurs de mes camarades, professeurs de l'Université comme moi et entrés dans le service à la même époque, ayant été récemment proposés ou nommés interprètes stagiaires, je vous serais profondément reconnaissant de bien vouloir me faire savoir si je puis espérer faire l'objet d'une mesure semblable lors d'une prochaine promotion.\\
-Veuillez agréer, mon Capitaine, l'hommage de mon très respectueux dévouement.\\[1mm]
-\hfill \textbf{H. Combes}, Interprète H. C., Prof. au Collège de Nogent-le-R. »
+Vous vous êtes peut-être demandé ce qu'a \textsuperscript{bien} pu devenir l'un de vos collègues \textsuperscript{de l'enseignement}, ancien camarade à la Faculté de Toulouse, et retrouvé, simple interprète à St-Omer, l'été dernier. Vous en souvient-il ?\\
+À cette époque, je fus attaché à la 18\textsuperscript{e} division qui se formait dans les parages de Flesselles. Je fus choisi $[\![$comme$]\!]$ \textsuperscript{pour être} secrétaire au $[\![$membre$]\!]$ bureau de la mission française et vous ne fûtes pas étranger à ma nomination. Au bout de quinze jours, je me fatiguai de cette vie trop sédentaire et monotone et sur ma demande réitérée, je reçus une autre affectation. \textit{[verso]}\\
+Depuis le mois d'août, je suis avec une compagnie d'\textit{A.S.C.} Mes officiers anglais sont de parfaits \textit{gentlemen}. Je n'ai \textsuperscript{aussi} qu'à me louer de l'officier interprète de la 18\textsuperscript{e} division [M. Pizzi est d'une haute intelligence et d'une distinction rare].\\
+Vous doutez-vous, \textsuperscript{mon Capitaine}, que les universitaires, \textsuperscript{pourtant en majorité}, sont assez mal vus de quelques interprètes ? Ainsi le sergent Schumacher, qui m'a remplacé, \textsuperscript{en mon absence}, comme secrétaire au bureau de la mission, a osé dire, sans rire et devant témoins, que les professeurs sont de « rudes ânes » (\textit{sic}). Vous pensez bien que cela ne nous touche guère. Nous qui avons donné des preuves de notre intelligence et de notre culture générale, nous pouvons mépriser les boutades d'un autodidacte jaloux [N'est-il pas contremaître d'usine métallurgique \textsuperscript{et d'instruction primaire} ?].\\
+Y aura-t-il bientôt un concours pour être nommé stagiaire ?\\[1mm]
+\textit{[En marge gauche verticale :]} Veuillez agréer, mon Capitaine, l'expression de mes meilleurs sentiments et me croire votre bien dévoué et reconnaissant collègue — \textbf{H. C.} — »
 \end{quote}
 
-\noindent\textbf{Commentaire :} Cette lettre du 25 février 1916 retrace avec une précision parfaite les premiers mois de campagne d'Hippolyte Combes auprès de la B.E.F. depuis son arrivée le 4 mai 1915 : secteur de Béthune avec la 12\textsuperscript{e} Division (où il a connu l'interprète Cordonnier qu'il retrouve le 4 novembre 1916 au Scan \#092), passage à Saint-Omer (quartier général de Sir John French et de la Mission française), puis affectation dès août 1915 dans la Somme auprès du Train de la 18\textsuperscript{e} Division sous l'autorité du lieutenant interprète Pizzi (mentionné aux Scans \#085, \#090 et \#092).
+\noindent\textbf{Commentaire :} Ce brouillon autographe du 21 février 1916 retrace avec une précision capitale le parcours d'Hippolyte Combes entre l'été 1915 et le début de 1916 : passage à Saint-Omer, rattachement à la 18\textsuperscript{e} Division britannique lors de sa concentration autour de Flesselles (Somme), bref secrétariat de quinze jours au bureau de la Mission française où le remplace le sergent Schumacher (qu'il retrouvera le 20 août 1916 chez M. Barbry au Scan \#023), puis affectation dès août 1915 à une compagnie d'\textit{Army Service Corps} de la 18\textsuperscript{e} Division sous les ordres de l'officier interprète Pizzi (mentionné aux Scans \#085, \#090 et \#092).
 
-\section{Document 2 : Rapport d'Hippolyte Combes au sous-lieutenant Ferran sur l'incident de Morlancourt (mars 1916)}
-\noindent\textbf{Source :} dossier \texttt{archives\_militaires/lettres\_de\_guerre/}, fichier \texttt{lettre de l'interprete combes pour un incident.pdf} (double feuillet autographe à l'encre, numéroté p.~26 et p.~27).
+\section{Document 2 : Rapport d'Hippolyte Combes au sous-lieutenant Ferran sur l'incident de Morlancourt (lundi 20 mars 1916) et requête au sujet de l'indemnité des interprètes}
+{\raggedright\noindent\textbf{Source :} dossier \texttt{archives\_\allowbreak militaires/\allowbreak lettres\_\allowbreak de\_\allowbreak guerre/}, fichier \texttt{lettre de l'interprete combes pour un incident.pdf} (double feuillet autographe quadrillé numéroté p.~26, p.~27 et p.~37).\par}
 
 \begin{quote}\small
-« \textbf{L'interprète Combes au sous-lieutenant Ferran, Officier de liaison à la 18\textsuperscript{e} Division.}\\[1mm]
-J'ai l'honneur de vous rendre compte d'un incident survenu le mardi 24 mars au village de Morlancourt, alors que je procédais au cantonnement avec le lieutenant May.\\
-Un lieutenant du \textit{6th Liverpool Regiment} (5\textsuperscript{e} Division) prétendait occuper de force, sans billet de logement (\textit{billeting order}), la chambre d'une veuve âgée dont la maison était déjà régulièrement retenue. Sur mon observation courtoise que ce local n'était pas disponible et qu'il convenait de s'adresser au \textit{Town Major}, cet officier s'est emporté violemment contre moi devant les soldats et les habitants et m'a crié en anglais :\\
-\textit{« Keep silent, or I put you under arrest ! It's all right for me, it shall be worse for you, when I report to the Captain, my interpreter. »}\\
-Devant une telle attitude, je me suis abstenu de toute réplique afin d'éviter un scandale public, mais je crois de mon devoir de porter ces faits à votre connaissance pour la sauvegarde de la dignité de nos fonctions.\\[1mm]
-\hfill \textbf{H. Combes}, Interprète à la 18\textsuperscript{e} Division. »
+« \textbf{1.} [p.~26] \textbf{L'interprète Combes au sous-lieutenant Ferran, officier de liaison à la 18\textsuperscript{e} division}\\[1mm]
+J'ai l'honneur de porter à votre connaissance un incident qui s'est produit lundi 20 mars, au village de Morlancourt.\\
+La matinée \textsuperscript{de ce jour}, j'avais, dans ce village, avec un de mes officiers, le lieutenant May, fait un cantonnement et nous avions \textsuperscript{choisi} une ferme que nous avait indiquée le maire de la localité. Or, l'après-midi, en l'absence de mon officier, parti au devant de notre compagnie, un lieutenant du \textit{6th Liverpool Regiment} (5\textsuperscript{th} division), \textsuperscript{dont j'ignore le nom}, arriva dans la même ferme, et \textsuperscript{après avoir inspecté les lieux}, dit à la propriétaire qu'il comptait y cantonner ses hommes. Comme cette dernière \textsuperscript{lui} faisait comprendre qu'on avait déjà retenu cette ferme, le lieutenant s'écria \textsuperscript{qu'il était chez lui et que l'interprète n'était} à prendre pour un sous-officier \textbf{2.} [p.~27] et me donna l'ordre de chercher un autre cantonnement. Devant ma protestation ferme, mais respectueuse, l'officier reprit sur un ton dédaigneux :\\
+\textit{« This billet is all right for me, it shall be mine — I don't want to discuss with an interpreter. »} Je n'insistai pas et m'éloignai aussitôt.\\
+Deux jours plus tard, mon capitaine a reçu une plainte dans laquelle l'officier en question \textsuperscript{(sans doute)} prétend que j'ai été insolent et que je ne l'ai pas salué. Je proteste contre ces deux allégations avec la plus grande énergie.\\[1mm]
+[Je ne vous avais pas mis au courant de ces faits, car je ne croyais pas que l'incident aurait de suites]\\
+\hspace*{0pt}\hfill \textbf{H. Combes}, \textit{A.S.C.} 18\textsuperscript{e} D. »
 \end{quote}
 
-\noindent\textbf{Commentaire :} Ce rapport de mars 1916 sur l'incident de Morlancourt (Somme) constitue le pendant exact des tensions que relate le \textit{Livre-Journal} en décembre 1916 avec le jeune capitaine Williams à Louvencourt et Senlis-le-Sec (Scans \#112, \#114 et \#117). Il montre la position délicate de l'interprète militaire français, dépourvu de galons d'officier mais chargé de faire respecter les règles de réquisition et de protéger les populations civiles picardes contre les abus d'autorité.
+\noindent Au verso du second feuillet (numéroté \textbf{3} en haut à gauche et \textbf{37} en bas à droite) figure la fin d'une minute de lettre adressée à un parlementaire (« Monsieur le Président ») pour la défense de l'indemnité des interprètes militaires :
+\begin{quote}\small
+« \textbf{3.} [p.~37] Nous sommes très utiles. Les Anglais ne sauraient se passer de nous, car très peu \textsuperscript{d'entre eux} parlent assez \textsuperscript{bien} le français pour se faire comprendre. Ils sont les premiers à reconnaître les grands services que nous leur rendons.\\
+Aussi, Monsieur le Président, si vous voulez bien vous intéresser à notre sort et faire valoir \textsuperscript{à qui de droit} les considérations qui militent en faveur du maintien intégral de notre \textsuperscript{faible} indemnité.\\
+Daignez agréer, Monsieur le Président, avec toutes mes excuses pour mon importunité, l'hommage de mon très profond respect.\\
+\noindent \textbf{Interprète H. C.} etc. \hfill \textbf{H. C.}, prof. au coll. de Nogent-le-R. »
+\end{quote}
 
-\section{Document 3 : Lettre confidentielle d'Hippolyte Combes à sa sœur Françoise au Carmel de Périgueux (Au front, vendredi 16 juin 1916)}
-\noindent\textbf{Source :} dossier \texttt{archives\_militaires/lettres\_de\_guerre/}, fichier \texttt{lettre de Hippolyte à sa soeur Josephine - 16 juin 1916 - Au front.pdf} (feuillet autographe recto-verso à l'encre noire ; bien que le fichier informatique ait été nommé par erreur « à sa sœur Joséphine », celle-ci était décédée en octobre 1914 et la lettre s'adresse à sa dernière sœur survivante, Françoise, \textit{Sœur Marie de la Croix}).
+\section{Document 3 : Lettre confidentielle intégrale d'Hippolyte Combes à sa sœur Françoise au Carmel de Périgueux (Au front, vendredi 16 juin 1916)}
+{\raggedright\noindent\textbf{Source :} dossier \texttt{archives\_\allowbreak militaires/\allowbreak lettres\_\allowbreak de\_\allowbreak guerre/}, fichier \texttt{lettre de Hippolyte à sa soeur Josephine - 16 juin 1916 - Au front.pdf} (bifolium autographe de 4 pages à l'encre noire sur papier vergé ; bien que le fichier informatique ait été intitulé par erreur « à sa sœur Joséphine », celle-ci était décédée à Nogent-le-Rotrou en octobre 1914 et la lettre s'adresse à sa dernière sœur survivante, Françoise, \textit{Sœur Marie de la Croix}, carmélite à Périgueux).\par}
 
 \begin{quote}\small
-« \textit{Brûle ce feuillet. Je ne veux pas que tu le gardes dans tes papiers.}\\[1mm]
-Au front, Vendredi 16 juin 1916.\\
+« \textit{[En marge supérieure gauche verticale :]} \textbf{Brûle ce feuillet — Je ne veux pas que tu le gardes dans tes papiers.}\\[1mm]
+\hspace*{0pt}\hfill Au front, vendredi 16 juin 1916\\
 Ma bien chère Sœur,\\
-Les lettres mettent maintenant quatre ou cinq jours pour venir du Midi jusqu'à nous... Quelle existence que la mienne depuis plus d'un an ! Je n'ai jamais aimé la campagne : maintenant je l'ai en horreur. Ces villages boueux, ces plaines monotones, cette vie errante au milieu d'étrangers dont l'esprit et les manières sont si loin des nôtres me pèsent indiciblement.\\
-Hier, étant allé à Fricourt pour le service (\textit{furnishing}), j'ai rencontré quelques camarades français avec qui j'ai pu enfin échanger mes idées à cœur ouvert. Quand donc finira cet horrible cauchemar ? Toutes ces abstractions dont les journaux nous rebattent les oreilles : gloire, honneur, héroïsme, etc., quel tas de blagues ! Vu de près, ce n'est que boue, souffrance, servitude morale et misère. Par moments, le dégoût m'envahit à tel point que je ne demande que la liberté ou la mort...\\
-Prie pour moi, ma bien chère Sœur ; garde pour toi seule ces tristes confidences d'une heure de cafard, et crois à toute la tendresse de ton frère.\\[1mm]
-\hfill \textbf{Hippolyte}. »
+Ta dernière lettre m'est parvenue assez rapidement. D'ordinaire toutes les correspondances du midi mettent au moins 4 et 5 jours pour arriver à destination. Tu es toujours très contente et en parfaite santé. Que cela dure ainsi ! Amen !\\
+Ici, c'est à peu près la même vie, monotone et banale. On végète, tout simplement. Je n'ai jamais aimé la campagne : maintenant je l'ai en horreur. Avec les beaux \textit{[p.~2]} jours, la vie dans de petits villages devrait être plus facilement supportable. On se consume de nostalgie et d'ennui. Voudrait-on s'amuser ? on ne trouve rien. MM. les offs, eux, vont chercher des distractions dans les grandes villes les plus rapprochées.\\
+Ah ! quand enfin, démuselés, nous pourrons gueuler tout ce que nous avons vu, on ne voudra pas nous croire. J'ai entendu de mauvais Français exprimer déjà du regret à la pensée que la guerre finira tôt ou tard. C'est révoltant. À combien de gens aura-t-elle profité ?...\\
+À cause de la censure, je dois me taire. \textit{[p.~3]}\\
+À Toulouse, j'ai retrouvé des camarades en permission — nous avons causé, j'ai constaté avec plaisir qu'ils pensent absolument comme moi. Mon ami, le docteur de B—, dont la mère m'est tout dévouée, disait : « Jamais un officier n'entrera dans mon salon, après la guerre !.. » Sa mère et sa jeune femme, après l'avoir écouté, l'approuvaient en pensées, et je faisais chorus.\\
+En tout, nous en avons tous plus qu'assez de cette vie qui se prolonge. Pour ma part, j'aimerais autant être sous terre que de rester encore une année en esclavage. On est aigri, découragé, \textit{[p.~4]} on ne prend goût à rien. Toutes ces abstractions : gloire, honneur etc. quel tas de blagues ! Vivre avant tout. Dans la mort, il n'y a plus d'alliés ni d'ennemis... Être gouverné par 1 empereur, un roi, ou n'avoir qu'un vulgaire président, c'est kif-kif — on paie les impôts — et puis qu'on nous f. la paix, tonnerre de — diable !\\
+Je finis bien. Ne m'écris qu'une fois par mois, c'est plus qu'assez. Si tu savais avec quelle indifférence je parcours les pages.\\
+Je me fous de tout et de tous — Je ne demande que la liberté ou la mort.\\[1mm]
+\textit{[En marge gauche verticale :]} Bien à toi, quand même — \textbf{Hippolyte} »
 \end{quote}
 
-\noindent\textbf{Commentaire :} Document psychologique exceptionnel, écrit quinze jours avant le déclenchement de l'offensive franco-britannique de la Somme (1\textsuperscript{er} juillet 1916) alors qu'Hippolyte Combes se rend encore à Fricourt. Sous le sceau du secret fraternel (« \textit{Brûle ce feuillet} »), l'humaniste chrétien livre sans fard sa révolte intérieure contre le bourrage de crâne de l'arrière (« \textit{toutes ces abstractions : gloire, honneur, etc., quel tas de blagues !} ») et son horreur viscérale de la vie rurale des cantonnements.
+\noindent\textbf{Commentaire :} Document psychologique exceptionnel, écrit deux semaines avant le déclenchement de l'offensive de la Somme (1\textsuperscript{er} juillet 1916) et cinq semaines avant l'ouverture du \textit{Livre-Journal} (25 juillet 1916). Sous le sceau du secret fraternel (« \textit{Brûle ce feuillet} »), Hippolyte Combes livre sans fard l'exaspération des universitaires mobilisés dans le rang face aux privilèges des états-majors, aux profiteurs de guerre et à la propagande (« \textit{Toutes ces abstractions : gloire, honneur etc. quel tas de blagues ! Vivre avant tout} »).
 
-\section{Document 4 : Poème anglais de Beatrice Chilcott (\textit{Wesley Band of Hope})}
-\noindent\textbf{Source :} \texttt{archives\_militaires/lettres\_de\_guerre/un poeme.pdf} (copie autographe d'un poème anglais en trois strophes de huit vers, signée \textit{Beatrice Chilcott, Wesley Band of Hope}).
+\section{Document 4 : Poème anglais intégral de Beatrice Chilcott (\textit{Wesley Band of Hope})}
+{\raggedright\noindent\textbf{Source :} dossier \texttt{archives\_\allowbreak militaires/\allowbreak lettres\_\allowbreak de\_\allowbreak guerre/}, fichier \texttt{un poeme.pdf} (feuillet autographe recto-verso en trois strophes de huit vers, signé \textit{Beatrice Chilcott, Wesley Band of Hope}).\par}
 
-\begin{quote}\small
-\textit{« What, love a passion ! Heaven forbid}\\
-\textit{That men should call true love by such a name... »}\\[1mm]
-\hfill Signé : \textbf{Beatrice Chilcott}, \textit{Wesley Band of Hope}.
+\begin{quote}\small\itshape
+What, love a passion ! Heaven forbid,\\
+That man should call true love by such a name,\\
+Passion is but the creature of an hour,\\
+A glowing ember, a bright, short lived flame ;\\
+A fire, kindled from a tiny spark,\\
+Glowing and live, but soon the brightness wanes ;\\
+Colder and paler still, the embers grow\\
+Till nought but ashes, of the fire remains.\\[2mm]
+No passion lives for ever ; so\\
+True love is not a passion I contend,\\
+Love is, a mutual affinity,\\
+A strong affection 'twixt two souls that blend,\\
+Placid and pure, and deep as is the sea.\\
+Love can make two souls one in heart, in thought,\\
+And love comes not at will ; it is not hired,\\
+Cannot be sold, neither can it be bought.\\[2mm]
+A mystic power, unfathomed still,\\
+Which baffles all the probing powers of man.\\
+Potent, enthralling, it shapes men's destinies,\\
+And silent ruled since first the world began ;\\
+Heav'ns greatest gift, love is the source of life\\
+Which sweetens all the bitterness and pain ;\\
+And ever points toward the divine love\\
+Beside which, human love is poor and vain.\\[1mm]
+\normalfont\small\hspace*{0pt}\hfill — \textbf{Beatrice Chilcott}, \textit{Wesley Band of Hope}.
 \end{quote}
 
-\noindent\textbf{Commentaire :} Conservé précieusement par Hippolyte Combes parmi ses papiers de guerre, ce poème d'inspiration méthodiste (\textit{Wesley Band of Hope}) célébrant la pureté de l'amour spirituel par opposition à la passion charnelle est un souvenir de son séjour de quatre années à Nottingham (entre 1901 et 1907) et de son amitié avec la jeune Anglaise Beatrice Chilcott.
+\section{Document 5 : Correspondance de l'armistice à Marguerite Calmels-Combes (Saint-Pol, 12 novembre 1918 ; Paris, 25–26 novembre 1918 ; Les Andelys, 28 novembre – 2 décembre 1918)}
+{\raggedright\noindent\textbf{Sources :} dossier \texttt{archives\_\allowbreak militaires/\allowbreak lettres\_\allowbreak de\_\allowbreak guerre/}, fichiers \texttt{lettre à bonne maman 25 novembre 1918.jpg}, \texttt{lettre du 26 novembre 1918.pdf}, \texttt{lettre 28 Novembre 1918.pdf} et \texttt{carte 2 decembre 1918.pdf}.\par}
 
-\section{Document 5 : Lettres de l'armistice à Marguerite et à « Bonne Maman » Calmels (Paris, 25 novembre 1918 \& Les Andelys, 2 décembre 1918)}
-\noindent\textbf{Sources :} \texttt{archives\_militaires/lettres\_de\_guerre/lettre à bonne maman 25 novembre 1918.jpg} et \texttt{carte 2 decembre 1918.pdf}.
-
-Dans sa lettre écrite de Paris (Hôtel du Panthéon et Bibliothèque Sainte-Geneviève) le \textbf{25 novembre 1918}, au lendemain de sa nomination comme professeur d'anglais à l'École militaire préparatoire des Andelys, Hippolyte Combes décrit son passage à Nogent-le-Rotrou pour récupérer ses meubles et ses livres dans sa maison du \textbf{17 rue Saint-Hilaire} et évoque avec émotion sa petite fille \textbf{Valentine Combes}, née à Millau le 18 septembre 1918. La carte postale du \textbf{2 décembre 1918}, expédiée des Andelys à \textit{« Madame Combes, 10 rue Alfred-Guibert, Millau (Aveyron) »}, annonce son installation en Normandie en attendant leur réunion familiale.
+\begin{enumerate}
+  \item \textbf{Carte de Saint-Pol-sur-Ternoise au lendemain de l'Armistice (mardi 12 novembre 1918) :} Adressée à \textit{« Madame Combes, 10 rue Alfred Guibert, Millau (Aveyron) »} : \textit{« Saint-Pol, mardi 12 novbre 1918. Affectueuses pensées. Bons baisers. Hippolyte. »}
+  \item \textbf{Première lettre de Paris, Bibliothèque Sainte-Geneviève (lundi 25 novembre 1918, 11 h matin) :}
+  \begin{quote}\footnotesize
+  « Paris, lundi 25 novembre 1918, 11 h. matin. Ma Chérie, Ce matin à 6 h, enfin, je me suis retrouvé dans cette ville que je préfère à toutes les autres capitales du monde. Je ne repartirai que demain, mardi. Je n'ai pas voulu descendre chez les cousines, à Neuilly, afin de ne point les déranger et aussi pour me sentir plus libre... Je n'ai pu me loger faute de place dans mon hôtel de prédilection, \textit{University Hôtel}, 160 rue St-Jacques, tout près de l'École de Droit. J'ai pris une jolie chambre à l'\textit{Hôtel du Panthéon}, en face, sur le devant... Je t'écris dans la grande salle de la Bibliothèque Ste-Geneviève... Ma nouvelle affectation, à défaut d'avantages plus appréciables, aura du moins celui de m'avoir bien rapproché de Paris, 102 kilomètres environ. De jeudi au dimanche, sans doute, j'obtiendrai facilement des permissions de 24 heures. Ainsi je pourrai me rendre soit à Rouen, soit dans la capitale et aussi — et surtout — à Nogent-le-Rotrou. J'éprouverai une satisfaction profonde quand je reverrai mon chez moi du Perche, mon gentil nid de 4 ans. La maison que j'habite à Nogent — 17, rue Saint-Hilaire — est autrement jolie et pittoresque que celle des bords de la Dourbie ! Elle a un petit air flamand qui lui donne une certaine originalité... Ne t'alarme point au sujet de notre fillette. Elle prendra le dessus et grossira à l'aise à partir du 3\textsuperscript{ème} mois. Mes plus doux baisers. Ton petitou qui t'aime si tendrement. \textbf{Hippolyte}. »
+  \end{quote}
+  \item \textbf{Deuxième lettre de Paris, Bibliothèque Sainte-Geneviève (mardi 26 novembre 1918, 11 h matin) :}
+  \begin{quote}\footnotesize
+  « Paris, mardi 26 novembre 1918, 11 h. matin. Ma Margueritou tant aimée, Me voici de nouveau installé dans la grande salle de la Bibliothèque Sainte-Geneviève. Comme je m'y plais ! Tant de souvenirs me la rendent chère ! Devant moi, sur la table, j'ai des revues françaises et un volume de Maeterlinck... Ce soir, je continuerai et terminerai mon voyage. Je prendrai l'express du Havre, à 10 h 15, gare St-Lazare... Hier, j'ai fait une très longue visite aux cousines Faure... Je te résumerai en qq mots ce qu'elle m'a dit à propos de notre mignonne Valentine. Tu ne dois point t'inquiéter, ni t'énerver ; avec le temps, l'enfant prendra le dessus et deviendra magnifique, comme le petit Bonhomme, que tu as vu, paraît-il, à Paris, chez les locataires du rez-de-chaussée, 16, rue d'Armenonville... Sois calme, patiente et surtout écoute bien excellente mère : apprends à dormir. Le sommeil t'est aussi nécessaire que le lait à la fillette. »
+  \end{quote}
+  \item \textbf{Lettres-cartes de l'École militaire préparatoire des Andelys (jeudi 28 novembre et lundi 2 décembre 1918) :}
+  \begin{quote}\footnotesize
+  « Les Andelys, jeudi soir 28 novbre 1918, École Militaire. Ma jolie Perlounette, Aujourd'hui encore, liberté entière. Je suis allé ce matin à l'École. L'emploi du temps pour l'anglais n'est pas encore fixé. Jusqu'à présent, on n'enseignait pas cette langue. Quand mon horaire aura été établi, samedi ou lundi, je commencerai mon nouveau service. À ma honte, je t'avouerai que le plus tard sera le mieux, je ne suis nullement pressé. Pour le moment, je jouis en paix d'un repos complet. Oh ! le paresseux ! Tu sais, il fait délicieux dans ma grande chambre, rue de la Sous-Préfecture. Affalé sur mon fauteuil — un vieux pouf — les jambes sur une chaise, je rumine, je lis et — je fume !... Non loin de ma rue, se trouve l'église [Notre-Dame du Grand-Andely], admirable !... Il y a de merveilleux vitraux (XIII\textsuperscript{e} et XIV\textsuperscript{e}) qui reproduisent les principaux faits de l'existence de Ste Clotilde... J'ai des collègues fort sympathiques. Ce sont tous des universitaires, mobilisés eux aussi, et ne désirant qu'une chose : être libérés... En ce qui me concerne, ce sera sûrement en janvier au plus tard. Amen ! »\\[1mm]
+  « École Militaire des Andelys, lundi 2 décembre 1918. Chérie, cette carte, écrite à l'encre noire, vient directement de ma chambre militaire. Tu le sais, je ne me sers que d'encre violette, dans ma chambre civile. Je ne commencerai pas les cours d'anglais avant demain mardi. Samedi 21 sera le dernier jour de classe de l'année. À mon retour de permission, en janvier, je serai presque à la veille du plus beau, du plus heureux jour de ma vie, celui où je serai enfin démobilisé. Je n'ai jamais autant désiré une chose, depuis que j'existe... Notre séparation n'est plus qu'une question de semaines. Oh ! oui, la liberté, je vais donc la recouvrer ! Cette certitude me transporte d'allégresse. Mes plus doux baisers pour Toi et pour la fillette. Ton mari qui t'aime tant, \textbf{Hippolyte}. »
+  \end{quote}
+\end{enumerate}
 \par}
 
 \chapter{État signalétique des services et table synoptique des 186 scans}
@@ -814,7 +882,7 @@ Dans sa lettre écrite de Paris (Hôtel du Panthéon et Bibliothèque Sainte-Gen
   \end{minipage}
 \end{figure}
 
-D'après le registre matricule du recrutement de Toulouse (dossier \texttt{archives\_militaires/fiche\_et\_parcours/}, fichier \texttt{Fiche\_militaire\_Combes\_Hippolyte.md.docx}) et les actes d'état civil (\texttt{biographie\_et\_famille/etat\_civil\_et\_actes/}) :
+{\raggedright\noindent D'après le registre matricule du recrutement de Toulouse (conservé dans le sous-répertoire \texttt{\small archives\_\allowbreak militaires/\allowbreak fiche\_\allowbreak et\_\allowbreak parcours/}, document \texttt{\small Fiche\_\allowbreak militaire\_\allowbreak Combes\_\allowbreak Hippolyte.md.docx}) et les actes d'état civil (\texttt{\small biographie\_\allowbreak et\_\allowbreak famille/\allowbreak etat\_\allowbreak civil\_\allowbreak et\_\allowbreak actes/}) :\par}
 \begin{itemize}
   \item \textbf{État civil :} \textbf{Marie Lucien Hippolyte Combes}, né le \textbf{14 août 1876} à \textbf{Millau} (Aveyron), rue des Barris (inscrit sous la date du 22 août 1876 sur la fiche matricule), fils de \textbf{François Augustin Hippolyte Combes} et de \textbf{Marie Anaïs Alric}, domiciliés à Toulouse (47 rue du Taur). Signalement : cheveux et sourcils châtains, yeux gris bleu, taille 1,66 m. Profession : étudiant ecclésiastique puis professeur d'anglais au collège de Nogent-le-Rotrou (Eure-et-Loir).
   \item \textbf{Parcours militaire et campagnes (1914–1919) :}
@@ -835,6 +903,24 @@ Tous les clichés originaux sont disponibles en double résolution à la racine 
   \item \texttt{scans\_haute\_qualite/} : 186 fichiers JPEG haute résolution non compressés (1,03 Go au total, env. 5,9 Mo par scan) ;
   \item \texttt{scans\_compresses/} : 186 fichiers JPEG optimisés pour la transcription automatique et l'édition électronique (31,1 Mo au total).
 \end{enumerate}
+
+{\scriptsize
+\renewcommand{\arraystretch}{1.12}
+\setlength{\tabcolsep}{3.5pt}
+\noindent\begin{longtable}{@{}>{\raggedright\arraybackslash}p{9mm}>{\raggedright\arraybackslash}p{31mm}>{\raggedright\arraybackslash}p{22mm}>{\raggedright\arraybackslash}p{34mm}>{\raggedright\arraybackslash}p{74mm}@{}}
+\toprule
+\textbf{Scan} & \textbf{Fichier JPEG} & \textbf{Folio} & \textbf{Date} & \textbf{Lieu \& Intitulé analytique} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Scan} & \textbf{Fichier JPEG} & \textbf{Folio} & \textbf{Date} & \textbf{Lieu \& Intitulé analytique (suite)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+""" + synoptic_table_body + r"""
+\end{longtable}
+}
 \par}
 
 \end{document}
