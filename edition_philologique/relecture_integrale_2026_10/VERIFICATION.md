@@ -46,10 +46,10 @@ L’ancien `assembler_revision.py` a également été exécuté après intégrat
 
 | Artefact | SHA-256 |
 | --- | --- |
-| `edition_philologique/carnet_hippolyte_combes.pdf` | `e7c43105339c9d5067f2546f1d7ebacd78cf21a12db383580c775724ed3f527d` |
-| `transcriptions/transcription_integrale_186_scans.json` | `2658a78e37e431f46e30a6c411bc16fb2148a36187ddfac847ceb3c0dc2d860c` |
-| `edition_philologique/revision_2026_10/corrections_validees.json` | `2f5118e0223d95c7b96e0ac9b3ec2e8e18de04d6a1095a295ff9e8f052450ad5` |
+| `edition_philologique/carnet_hippolyte_combes.pdf` | `d46d55b713771791e6013c910b06d3c3b71c0ba41b84e60a45e3703aa7d83281` |
+| `transcriptions/transcription_integrale_186_scans.json` | `98c1dc916c78fac84f16896fbcd320e1a2855adf99fab963b1df3f671b000d18` |
+| `edition_philologique/revision_2026_10/corrections_validees.json` | `ce0f09d9c9f5abf72f87f77687a3e50c7d2024d250f15a622945e639db6c5cec` |
 | `edition_philologique/ecriture_combes/index_extraits.json` | `d63caeac1d941ccd1db7e005bb1bcd8e4faded27ffc5c7aa72a010ef4011e476` |
-| `edition_philologique/relecture_integrale_2026_10/annexes_25_26_novembre_1918.json` | `6c01fb92f942145365f3fb361b9075587a878ace1b9096cc7c58591ef6a57f20` |
+| `edition_philologique/relecture_integrale_2026_10/annexes_25_26_novembre_1918.json` | `dd31ed8d7ec8e72165e98d5218180663aea71653a6c9e33b62ee1fbd714aefa5` |
 
 Ces contrôles établissent la traçabilité et la cohérence des artefacts. Les incertitudes paléographiques, les rapprochements prosopographiques et les divergences documentaires restent ceux explicités dans l’édition et le registre.

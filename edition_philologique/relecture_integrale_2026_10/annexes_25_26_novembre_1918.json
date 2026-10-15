@@ -6,7 +6,7 @@
     "conventions": "Transcription de travail avec retours à la ligne du témoin ; espaces et ponctuation de lecture. [?] ou mots entre crochets suivis de ? : proposition ; [illis.] : tracé non déchiffré, sans constat de lacune du papier ; ⟦...⟧ : suppression ; ajout suscrit décrit. Les deux panneaux écrits du JPEG et les deux cartes écrites en page 1 du PDF ont été examinées intégralement.",
     "limits": "Plusieurs groupes restent réservés ; la lecture complète des faces ne vaut pas déchiffrement complet. La page 2 du PDF porte les deux faces illustrées des cartes, sans texte manuscrit de correspondance.",
     "independent_comparison": "Contrôle indépendant des passages de visite par un second lecteur : absence de Marcel confirmée, pauvre défunt confirmé ; plusieurs lectures de détail restent réservées.",
-    "material_relationship": "Les deux panneaux du JPEG portent chacun Carte Postale ; leur relation recto/verso n’est pas établie. Les deux cartes écrites de la page1 du PDF ont deux illustrations en page2, sans attribution individuelle certaine ici."
+    "material_relationship": "Les deux panneaux du JPEG portent chacun Carte Postale ; leur relation recto/verso n’est pas établie. Les deux cartes écrites de la page 1 du PDF ont deux illustrations en page 2, sans attribution individuelle certaine ici."
   },
   "documents": [
     {
@@ -266,7 +266,7 @@
       "source": "archives_militaires/lettres_de_guerre/lettre du 26 novembre 1918.pdf",
       "page": 1,
       "passage": "Première carte : trajet ; seconde carte : enfant",
-      "previous": "Départ10h15, arrivée9h30, attente1heure ; bébé sauvé puis garçon superbe ; enfance menue de Germaine.",
+      "previous": "Départ 10 h 15, arrivée 9 h 30, attente 1 heure ; bébé sauvé puis garçon superbe ; enfance menue de Germaine.",
       "verified": "Express du Havre et gare St-Lazare ; arrivée après minuit ; autre bébé vu chétif et menu, conseil de sommeil à Marguerite.",
       "finding": "Les horaires et développements antérieurs ne suivent pas le texte ; la nouvelle transcription conserve les incertitudes visibles."
     }
@@ -274,7 +274,7 @@
   "prosopography": "L’annexe familiale propose l’identification de Marcel Faure au futur Compagnon de la Libération. La présence de Marcel dans le carnet en janvier 1917 ne permet pas à elle seule d’exclure un enfant né en 1906. La captivité, qui créait une incompatibilité, est absente des lettres des 25/26 novembre vérifiées : l’attribution familiale reste à vérifier indépendamment.",
   "generator_replacements": {
     "before_sha256": "56297a29f709124264a8f2648a85b8e576c995de4afb4524afe74f0651e8f521",
-    "after_sha256": "000a39384e8e76f58669ede7daa861aa9fb60718af240a9cdd8ae952fb0cdaa2",
+    "after_sha256": "e5e8918bf7b2559dcc154486017cfb62502b28c3f1951d788b522ea155870207",
     "ast_outside_authorised_prose_unchanged": true,
     "other_letters_preserved_byte_for_byte": true,
     "quotes": [

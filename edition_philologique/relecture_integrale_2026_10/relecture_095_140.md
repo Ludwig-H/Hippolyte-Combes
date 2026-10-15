@@ -201,7 +201,7 @@ Preuve : `edition_philologique/relecture_integrale_2026_10/apports_concurrents.j
 
 Champs proposés : historique.
 
-**historique** — \textbf{Départ de Curtis :} La course du 5 décembre atteint Authie, Bayencourt et Coigneux, avec Hébuterne et Gommecourt comme repères manuscrits. Le 6, Curtis repart pour la 152 CoyA.S.C.; Combes le juge durement en anglais. Williams, âgé de 20 ans selon le carnet, raconte avoir été office boy à 50 livres annuelles avant la guerre. Ni carrière détaillée ni causes de sa promotion ne sont données.
+**historique** — \textbf{Départ de Curtis :} La course du 5 décembre atteint Authie, Bayencourt et Coigneux, avec Hébuterne et Gommecourt comme repères manuscrits. Le 6, Curtis repart pour la 152 Coy A.S.C. ; Combes le juge durement en anglais. Williams, âgé de 20 ans selon le carnet, raconte avoir été office boy à 50 livres annuelles avant la guerre. Ni carrière détaillée ni causes de sa promotion ne sont données.
 
 **Conciliation** — Itinéraire/Curtis/âge/récit office boy conservés; carrière non développée.
 
@@ -287,9 +287,9 @@ Preuve : `edition_philologique/relecture_integrale_2026_10/apports_concurrents.j
 
 Champs proposés : historique, critique.
 
-**critique** — \textbf{Ordre chronologique :} La vue 113 porte les 19 et 20 décembre et précède donc 112(22 et 24). \textbf{Army P. Board :} Développement probable Army Purchase Board par comparaison de Purchase Board à 166, l.~14; ce parallèle interne ne remplace pas une source administrative sur l’organisme. \textbf{in front :} Position à l’avant de la voiture.
+**critique** — \textbf{Ordre chronologique :} La vue 113 porte les 19 et 20 décembre et précède donc 112 (22 et 24). \textbf{Army P. Board :} Développement probable Army Purchase Board par comparaison de Purchase Board à 166, l.~14; ce parallèle interne ne remplace pas une source administrative sur l’organisme. \textbf{in front :} Position à l’avant de la voiture.
 
-**historique** — \textbf{Army P. Board :} Le sigle de Raincheval peut être développé probablement Army Purchase Board, par comparaison avec Purchase Board écrit à 166(l.~14), où Levy demande que Combes reste à cet organisme. Ce parallèle interne n’établit pas toute sa structure administrative. À Acheux, le compte porte solde etc. 84 fr et cartes Christmas 70 c; il ne donne pas 16 jours à 5 f 25. Cette vue des 19--20 décembre précède chronologiquement 112.
+**historique** — \textbf{Army P. Board :} Le sigle de Raincheval peut être développé probablement Army Purchase Board, par comparaison avec Purchase Board écrit à 166 (l.~14), où Levy demande que Combes reste à cet organisme. Ce parallèle interne n’établit pas toute sa structure administrative. À Acheux, le compte porte solde etc. 84 fr et cartes Christmas 70 c; il ne donne pas 16 jours à 5 f 25. Cette vue des 19--20 décembre précède chronologiquement 112.
 
 **Conciliation** — Purchase Board 166 vérifié sur photo; expansion probable conservée;84/16 jours 5 f 25 retiré.
 
@@ -387,7 +387,7 @@ Champs proposés : lines, marginal_notes, historique.
 | --- | --- | --- |
 | 24 | [ — Avis de réception pour Imbert : 15 c [?] — ] | [ — Avis de réception pour Imbert : 15 c — ] |
 
-**historique** — \textbf{Troupes et 150 Coy :} Les convois d’artillerie et de l’A.S.C. encombrent les routes le 6 janvier, sans preuve interne d’une relève entre corps. Le 9, Combes retrouve 150 Coy, 18th Divon à Hédauville, près de la route de Varennes; Morris est out riding. Le tableau des Horse Transport Companies de Chris Baker, The Long, Long Trail, rattache les 150--153 Companies au 18th Divisional Train; cette source étaye le rapprochement avec la 152 Coy, sans identifier les convois du 6.
+**historique** — \textbf{Troupes et 150 Coy :} Les convois d’artillerie et de l’A.S.C. encombrent les routes le 6 janvier, sans preuve interne d’une relève entre corps. Le 9, Combes retrouve 150 Coy, 18th Divon à Hédauville, près de la route de Varennes; Morris est out riding. Nichols (1922, p. 107--110, qui nomme le Maj. H. G. Peachy, A.S.C. à la tête de la 150th Co.) et le tableau des Horse Transport Companies de Chris Baker (The Long, Long Trail) rattachent les 150th--153rd Companies A.S.C. au 18th Divisional Train ; ces sources étayent le rapprochement avec la 152nd Coy, sans identifier les convois du 6.
 
 **Conciliation** — 150 Coy 18th Divon et rattachement ASC vérifiés par tableau Chris Baker; relève entre corps non déduite du passage de troupes.
 
@@ -415,7 +415,7 @@ Champs proposés : lines, historique.
 | --- | --- | --- |
 | 20 | 2 h. de liberté à Doullens : visité ville, | 3 h. de liberté à Doullens : visité ville, |
 
-**historique** — \textbf{Départ annoncé :} Le 13 janvier, Combes voit Huguet au bureau de mission du Ve Corps; son départ est définitivement fixé au 26. Le passage du sigleXIIIeàVe Corps dans les notices ne prouve pas, à lui seul, une relève opérationnelle du secteur ni son commandant. Courses à Beaucourt et Montigny, puis Louvencourt, St-Léger et Doullens les 14--15; la liberté à Doullens dure 3 h selon le chiffre relu.
+**historique** — \textbf{Départ annoncé :} Le 13 janvier, Combes voit Huguet au bureau de mission du Ve Corps; son départ est définitivement fixé au 26. Le passage du sigle XIIIe à Ve Corps dans les notices ne prouve pas, à lui seul, une relève opérationnelle du secteur ni son commandant. Courses à Beaucourt et Montigny, puis Louvencourt, St-Léger et Doullens les 14--15; la liberté à Doullens dure 3 h selon le chiffre relu.
 
 **Conciliation** — Départ/Huguet/Ve Corps conservés; relève Fanshawe non établie par changement sigle.
 
@@ -447,7 +447,7 @@ Preuve : `edition_philologique/relecture_integrale_2026_10/apports_concurrents.j
 
 Champs proposés : historique.
 
-**historique** — \textbf{Préparatifs :} Le 21 janvier, passage à Louvencourt chez MmeCuis [?], nom abrégé qu’on peut rapprocher de Cuisinier à 112/118. Combes achète 3 tins de Wren’s Dubbin à la cantine et commence les préparatifs du départ. Les vitres mates de glace et la neige durcie documentent son froid local; le classement parmi les hivers les plus rigoureux du siècle demanderait une série météorologique.
+**historique** — \textbf{Préparatifs :} Le 21 janvier, passage à Louvencourt chez Mme Cuis [?], nom abrégé qu’on peut rapprocher de Cuisinier à 112/118. Combes achète 3 tins de Wren’s Dubbin à la cantine et commence les préparatifs du départ. Les vitres mates de glace et la neige durcie documentent son froid local; le classement parmi les hivers les plus rigoureux du siècle demanderait une série météorologique.
 
 **Conciliation** — Préparatifs/Dubbin conservés; identification Cuisinier qualifiée; classement météorologique non prouvé.
 
@@ -473,13 +473,13 @@ Champs proposés : lines, marginal_notes, critique, historique.
 | --- | --- | --- |
 | 9 | Attendu patiemment départ train — installé 2e cl. | Attendu patiemment départ train — installé 2e cl. [addition interlinéaire : compartiment] |
 
-**critique** — \textbf{l.~9--10 :} Addition interlinéaire « compartiment », au-dessus de Varennes et sous la fin de installé 2 ecl; le rattachement à la ligne 9 est proposé par la disposition, sans certitude syntaxique. \textbf{l.~11--15 :} La comparaison des particules de neige à des grains de diamant et la buée confondant terre et ciel sont autographes.
+**critique** — \textbf{l.~9--10 :} Addition interlinéaire « compartiment », au-dessus de Varennes et sous la fin de installé 2e cl. ; le rattachement à la ligne 9 est proposé par la disposition, sans certitude syntaxique. \textbf{l.~11--15 :} La comparaison des particules de neige à des grains de diamant et la buée confondant terre et ciel sont autographes.
 
 **historique** — \textbf{Départ et correspondance :} Le 26 janvier, deux sacs sont pris par la voiture du service postal, puis Combes gagne la station à pied. Varennes est un repère écrit à propos des vitres; le nom technique Acheux--Varennes et la voie métrique demandent une source ferroviaire. Arrivée à Gézaincourt 4 h 30, départ 10 h 30, avec trois heures de retard annoncées pour le train de Doullens. Le carnet décrit l’attente mais n’en attribue pas toutes les six heures au seul retard.
 
 **Conciliation** — Sacs/itinéraire/horaires conservés; infrastructure ferroviaire demande source, six heures non entièrement causées par trois heures retard.
 
-Preuve : `scans_haute_qualite/20251126_110048.jpg` — L’ajout au-dessus de Varennes se lit compartiment, avec descendeur du p et finale ment. Il se trouve sous la fin de installé 2 ecl; signalement comme addition, sans récrire la phrase.
+Preuve : `scans_haute_qualite/20251126_110048.jpg` — L’ajout au-dessus de Varennes se lit compartiment, avec descendeur du p et finale ment. Il se trouve sous la fin de installé 2e cl. ; signalement comme addition, sans récrire la phrase.
 
 Preuve : `edition_philologique/relecture_integrale_2026_10/apports_concurrents.json` — Conciliation de l’historique concurrent de la vue 128; snapshot SHA-256 fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63. Sacs/itinéraire/horaires conservés; infrastructure ferroviaire demande source, six heures non entièrement causées par trois heures retard.
 
@@ -531,7 +531,7 @@ Champs proposés : critique, historique.
 
 **critique** — \textbf{l.~13--15 :} Combes écrit avoir cru revoir sa mère et ses sœurs l’attendant à la gare. Le récit familial de Pierre Combes rapporte la mort de Maria à Carthage en 1903, de sa mère Anaïs Alric à Toulouse en 1907 et de Joséphine à Nogent-le-Rotrou en octobre 1914 (\textit{Biographie Hippolyte Combes par son petit-fils Pierre Combes}, passages biographiques consacrés aux trois décès). Leurs noms et dates ne figurent pas dans cette entrée.
 
-**historique** — \textbf{Retour à Toulouse :} Le 28 janvier, arrivée 8 h 15, souvenirs de mère et sœurs, rangement à l’appartement, visite d’oncle Émile à 10 h 30, puis Sainte-Marie. Le récit familial donne Anaïs Alric (1838--1907), Maria(1875--1903) et Joséphine(1873--1914), éclairant ce souvenir sans inscrire leurs noms dans le texte. L’identification d’Émile Crouzet(1842--1921) est plausible d’après Combes-annexe, qui fournit ces dates; le seul prénom du carnet n’en est pas une preuve autonome.
+**historique** — \textbf{Retour à Toulouse :} Le 28 janvier, arrivée 8 h 15, souvenirs de mère et sœurs, rangement à l’appartement, visite d’oncle Émile à 10 h 30, puis Sainte-Marie. Le récit familial donne Anaïs Alric (1838--1907), Maria (1875--1903) et Joséphine (1873--1914), éclairant ce souvenir sans inscrire leurs noms dans le texte. L’identification d’Émile Crouzet (1842--1921, agent de change à Toulouse, témoin de 39 ans sur l’acte de naissance n° 139 de Marguerite Calmels en 1892) est étayée par l’état civil et Combes-annexe ; le seul prénom du carnet n’en est pas une preuve autonome.
 
 **Conciliation** — Décès et oncle Émile conservés, données attribuées aux sources familiales.
 
@@ -549,7 +549,7 @@ Preuve : `biographie_et_famille/Livre_Pierre_Combes/Combes-3-part 1.DOC` — Tex
 
 Champs proposés : historique.
 
-**historique** — \textbf{Sainte-Marie :} Accueil tendre de Margte, visite de Tante et Madeleine, puis arrivée de Jean à 6 h 30. Le rapprochement de Tante avec Élisabeth Calmels, épouse d’Émile Crouzet, et de Jean avec l’abbé Jean Crouzet vient du récit familial (Combes-annexe), non de leurs seuls noms dans cette page. Madeleine Calmels est déjà mariée au docteur Fernand Vincens depuis juillet 1907(Combes-3-part 1). L’effacement définitif des appréhensions de Noël n’est pas établi par la tendresse de cette journée.
+**historique** — \textbf{Sainte-Marie :} Accueil tendre de Margte, visite de Tante et Madeleine, puis arrivée de Jean à 6 h 30. Le rapprochement de Tante avec Élisabeth Calmels, épouse d’Émile Crouzet, et de Jean avec l’abbé Jean Crouzet vient du récit familial (Combes-annexe), non de leurs seuls noms dans cette page. Madeleine Calmels est déjà mariée au docteur Fernand Vincens depuis juillet 1907 (Combes-3-part 1). L’effacement définitif des appréhensions de Noël n’est pas établi par la tendresse de cette journée.
 
 **Conciliation** — Madeleine mariée 1907 confirmée; Tante/Jean rapprochés aux Crouzet avec attribution, dissipation définitive crise retirée.
 
@@ -567,7 +567,7 @@ Preuve : `biographie_et_famille/Livre_Pierre_Combes/Combes-3-part 1.DOC` — Tex
 
 Champs proposés : historique.
 
-**historique** — \textbf{Fleurs, Saint-Sernin et Labit :} Le 29 janvier, panier de fleurs venu de Nice, puis visite de Saint-Sernin et des cryptes avec Marg.etMadne. Le télégramme à Spagnol de 136 et le mandat de 158 peuvent être rapprochés du panier, sans établir que chaque envoi concernait un même colis. Les Magasins du Capitole et Labit sont nommés. La notice INHA AGORHA 321 sur Georges Labit donne Antoine Labit, fondateur de la Maison Universelle, pour son père; l’identification de l’enseigne ne modifie pas la désignation manuscrite.
+**historique** — \textbf{Fleurs, Saint-Sernin et Labit :} Le 29 janvier, panier de fleurs venu de Nice, puis visite de Saint-Sernin et des cryptes avec Marg. et Madne. Le télégramme à Spagnol de 136 et le mandat de 158 peuvent être rapprochés du panier, sans établir que chaque envoi concernait un même colis. Les Magasins du Capitole et Labit sont nommés. La notice INHA AGORHA 321 sur Georges Labit donne Antoine Labit, fondateur de la Maison Universelle, pour son père; l’identification de l’enseigne ne modifie pas la désignation manuscrite.
 
 **Conciliation** — Labit/INHA conservé; lien Spagnol/fleurs qualifié, pas identification automatique du colis.
 
@@ -577,7 +577,7 @@ Preuve : `edition_philologique/relecture_integrale_2026_10/apports_concurrents.j
 
 Champs proposés : historique.
 
-**historique** — \textbf{Zyromski et Guérin :} La conférence sur Maurice de Guérin et l’influence de la Bretagne et de Lamennais est très favorablement appréciée. L’achat de L’Orgueil humain signé Zyromski apparaît à 053; le catalogue BnF confirme Ernest Zyromski, Maurice de Guérin, Paris, A. Colin, 1921(notice cb316943304). Ces rapprochements soutiennent l’identification du conférencier. Le lieu, la forme de cours public et la reprise de cette conférence comme chapitre du livre ne sont pas établis.
+**historique** — \textbf{Zyromski et Guérin :} La conférence sur Maurice de Guérin et l’influence de la Bretagne et de Lamennais est très favorablement appréciée. L’achat de L’Orgueil humain signé Zyromski apparaît à 053; le catalogue BnF confirme Ernest Zyromski, Maurice de Guérin, Paris, A. Colin, 1921 (notice cb316943304). Ces rapprochements soutiennent l’identification du conférencier. Le lieu, la forme de cours public et la reprise de cette conférence comme chapitre du livre ne sont pas établis.
 
 **Conciliation** — Livre 1921 et achat 053 conservés; cours public/chapitre identique non établis.
 

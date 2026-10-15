@@ -1,4 +1,4 @@
-# Relecture et conciliation, vues001–048
+# Relecture et conciliation, vues 001–048
 
 Nouvelle confrontation de chaque photographie entière après l’étude préparatoire. Les corrections du texte et les notices historiques parallèles sont conciliées séparément. Les références primaires vérifiées figurent au plus près des commentaires.
 
@@ -6,7 +6,7 @@ Nouvelle confrontation de chaque photographie entière après l’étude prépar
 
 Couverture relue intégralement : cinq lignes du titre et des dates extrêmes confirmées ; papier rouge gaufré et étiquette bleue rectangulaire.
 
-Notice historique conciliée : Les dates de couverture bornent le carnet du 25 juillet 1916 au 30 avril 1917. La lettre du 21 février 1916 donne une compagnie d’A.S.C. depuis août 1915 ; le numéro 152 apparaît dans le carnet à la vue 066. The Ringing World, 9 avril 1915, p. 184, documente séparément le rattachement de cette unité au 18th Divisional Train. Cela ne date pas à lui seul l’affectation personnelle de Combes à cette compagnie.
+Notice historique conciliée : Les dates de couverture bornent le carnet d’Hippolyte Combes (né à Millau le 14 août 1876, décédé le 2 septembre 1970 à l’Hôtel du Centre à Saint-Chély-d’Apcher, Lozère) du 25 juillet 1916 au 30 avril 1917. La lettre du 21 février 1916 donne une compagnie d’A.S.C. depuis août 1915 ; le numéro 152 apparaît dans le carnet à la vue 066. Nichols (1922, p. 107–110) et The Ringing World (9 avril 1915, p. 184) documentent séparément le rattachement des 150th–153rd Companies A.S.C. au 18th Divisional Train, sans dater à eux seuls l’affectation personnelle de Combes à la 152nd.
 
 Réserves : Date d’apposition du titre non déterminée.
 
@@ -264,7 +264,7 @@ Correction l.9 : `sous-préf. de [4 à ?] 5000 habts` → `sous-préf[re ?] de 5
 
 Notice historique conciliée : L’itinéraire nomme Ramecourt, Saint-Michel-sur-Ternoise, Saint-Pol et Ostreville. 1697 et 1767 sont rapportés par Combes au sujet de l’église et de Benoît Labre. La référence patrimoniale PA00108426 proposée parallèlement concerne l’hôtel de ville de Saint-Venant, pas cette église : elle ne doit pas la corroborer. Source de contrôle : https://pop.culture.gouv.fr/notice/merimee/PA00108426 .
 
-Réserves : Finale de sous-préf ; montantsVaria etDiv.cartes.
+Réserves : Finale de sous-préf ; montantsVaria etDiv. cartes.
 
 ## Vue 033 — 20251126_094310.jpg
 
@@ -286,7 +286,7 @@ Réserves : Groupe après Terre friable ; surcharge avant orage.
 
 Les deux journées et le compte au bas sont relus. Orderly N.C.O., retard de huit jours et retour à Roellecourt maintenus ; aucune ligne du second paragraphe n’est omise.
 
-Notice historique conciliée : Le retard annoncé par un orderly N.C.O. est une nouvelle reçue ; le départ effectif est décrit le 9 septembre à la vue 039.78 f 75 est consigné comme solde et indemnité. Le calcul 15 jours à 5 f 25 n’est pas écrit et ne suffit pas à établir un tarif personnel.
+Notice historique conciliée : Le retard annoncé par un orderly N.C.O. est une nouvelle reçue ; le départ effectif est décrit le 9 septembre à la vue 039. 78 f 75 est consigné comme solde et indemnité. Le calcul 15 jours à 5 f 25 n’est pas écrit et ne suffit pas à établir un tarif personnel.
 
 Réserves : Ponctuation et degré d’abréviation de confirmation.
 
@@ -320,7 +320,7 @@ Réserves : Nom du petit chemin Ryonval et forme de la contraction de délicieus
 
 Départ, trois brigades, trenchmortar school, première étape et couchage relus jusqu’aux deux comptes. Aucun prénom ou régiment n’est imposé à Connelly.
 
-Notice historique conciliée : Trois brigades défilent avant le groupe de Combes ; le carnet ne les numérote pas. Trench mortar school désigne une école de mortiers de tranchée. West invite l’interprète au mess à l’étape de Monts-en-Ternois ; sa compagnie précise n’est pas attribuée par simple proximité.
+Notice historique conciliée : Trois brigades défilent avant le groupe de Combes ; le carnet ne les numérote pas. Trench mortar school désigne une école de mortiers de tranchée. West invite l’interprète au mess à l’étape de Monts-en-Ternois ; le carnet ne précise pas ici sa compagnie, mais Nichols (1922, p. 110, 432) atteste le Capt. E. M. West, A.S.C. (M.C.) à la tête de la 152nd Co., A.S.C. du 18th Divisional Train à Thiepval.
 
 Réserves : Groupe avant de poussière ; entrée du village ; nom de Connelly.
 
@@ -344,7 +344,7 @@ Réserves : Oppy non localisé avec certitude ; prénom ou statut de Connelly no
 
 Deux journées relues entièrement. Invitation au mess, revues et forêt conservées. L’alternative du petit groupe avant accepté n’est pas tranchée par une correction de syntaxe.
 
-Notice historique conciliée : ÀRaincheval, l’entrée au mess donne des occasions de conversation et de lecture explicitement nommées. Les avantages décrits ne permettent pas d’attribuer une compagnie personnelle précise à West ni de généraliser le statut réglementaire de tous les interprètes.
+Notice historique conciliée : À Raincheval, l’entrée au mess donne des occasions de conversation et de lecture explicitement nommées. Nichols (1922, p. 110, 432) atteste par ailleurs le Capt. E. M. West, A.S.C. comme commandant la 152nd Co., A.S.C. du 18th Divisional Train ; les avantages décrits ici ne permettent pas de généraliser le statut réglementaire de tous les interprètes.
 
 Réserves : ai accepté/dû accepter ; contraction excellente.
 
@@ -352,7 +352,7 @@ Réserves : ai accepté/dû accepter ; contraction excellente.
 
 Deux journées et les deux comptes relus : mission, tente/planches, batman, premier froid et canteen. Le nom Lereux reste réservé et l’exercice de grenades n’est pas rattaché arbitrairement à un bataillon.
 
-Notice historique conciliée : La baraque de la mission à Acheux et la canteen de Raincheval sont des lieux nommés. Canada in Flanders se rapproche du livre de Sir Max Aitken, vol.I publié chez Hodder & Stoughton en janvier 1916 ; l’édition contemporaine conservée donne titre, auteur et date, mais ne prouve pas l’exemplaire acheté. Source : https://www.gutenberg.org/files/46114/46114-h/46114-h.htm . Mines n’est pas remplacé par mortiers dans la transcription.
+Notice historique conciliée : La baraque de la mission à Acheux et la canteen de Raincheval sont des lieux nommés. Canada in Flanders se rapproche du livre de Sir Max Aitken, vol. I publié chez Hodder & Stoughton en janvier 1916 ; l’édition contemporaine conservée donne titre, auteur et date, mais ne prouve pas l’exemplaire acheté. Source : https://www.gutenberg.org/files/46114/46114-h/46114-h.htm . Mines n’est pas remplacé par mortiers dans la transcription.
 
 Réserves : Lereux ; détails de contraction commt.
 
@@ -368,7 +368,7 @@ Réserves : Groupe du milieu du jour ; intte.
 
 Page entière et compte relus : dix-huitième division, mission, Brammas, pluie et troubles digestifs. Le retour surchargé et les sigles courts restent réservés ; le nom propre ne devient pas un service de brancardiers.
 
-Notice historique conciliée : Hédauville, Forceville et Acheux sont les repères du trajet sous la pluie. Le maintien du H.Q. de la 18 edivision est une nouvelle reçue. Le diariste attribue ses troubles au changement de régime ; le commentaire conserve cette attribution sans diagnostic rétrospectif ni identification conjecturale de Brammas.
+Notice historique conciliée : Hédauville, Forceville et Acheux sont les repères du trajet sous la pluie. Le maintien du H.Q. de la 18e division est une nouvelle reçue. Le diariste attribue ses troubles au changement de régime ; le commentaire conserve cette attribution sans diagnostic rétrospectif ni identification conjecturale de Brammas.
 
 Réserves : Groupe avant divon ; bruit ; mot surchargé du retour ; orthographe Brammas.
 
@@ -382,9 +382,9 @@ Réserves : Ponctuation et unité du montant0.25c.
 
 ## Vue 047 — 20251126_094822.jpg
 
-Page entière, note nocturne et compte relus : football, movingdemain, voyage à Toulouse et stars. La leçon demi/tout jour et les25centimes restent proposées sans itinéraire ajouté.
+Page entière, note nocturne et compte relus : football, moving demain, voyage à Toulouse et stars. La leçon demi/tout jour et les25centimes restent proposées sans itinéraire ajouté.
 
-Notice historique conciliée : Le 25 est la date de permission préparée ; movingdemain annonce un mouvement de compagnie. Les Bedfs sont nommés près du football, sans numéro de bataillon. La lecture desjours et des comptes reste distincte d’un ordre de bataille.
+Notice historique conciliée : Le 25 est la date de permission préparée ; moving demain annonce un mouvement de compagnie. Les Bedfs sont nommés près du football, sans numéro de bataillon. La lecture des jours et des comptes reste distincte d’un ordre de bataille.
 
 Réserves : t./1/2 jour ;25du montant3f25.
 
@@ -396,6 +396,6 @@ Correction l.20 : `Me suis arrangé hutte avec épaisses [brches/herbe ?]` → `
 
 Correction l.21 : `verte[s?] cme [litière/toiture ?] — Couché bonne nuit` → `verte cme litière — Couché bonne nuit`.
 
-Notice historique conciliée : Le 23 septembre, West fixe l’heure du départ puis Pizzi apporte un message conduisant à changer de route. Le mouvement aboutit à un cantonnement in the open près de Forceville. Le titre d’officier interprète de Pizzi est aussi attesté dans la lettre du 21 février 1916. La matière de la litière reste proposée ; une toiture en branches ne se déduit pas de cette note.
+Notice historique conciliée : Le 23 septembre, West (Capt. E. M. West, commandant la 152nd Co., A.S.C. selon Nichols, 1922, p. 110) fixe l’heure du départ puis Pizzi apporte un message conduisant à changer de route. Le mouvement aboutit à un cantonnement in the open près de Forceville. Le titre d’officier interprète de Pizzi est aussi attesté dans la lettre du 21 février 1916. La matière de la litière reste proposée ; une toiture en branches ne se déduit pas de cette note.
 
 Réserves : Matière bâche proposée ; certains accords et nom de la propriétaire.

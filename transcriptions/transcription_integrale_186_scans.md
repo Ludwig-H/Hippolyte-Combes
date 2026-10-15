@@ -25,7 +25,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **Support et titre :** Couverture rouge à décor losangé et grande étiquette bleue rectangulaire. Deux filets horizontaux séparent le titre des dates et terminent l'inscription. L'examen de cette seule photographie ne date pas les inscriptions ni ne démontre qu'elles furent toutes portées après le 30 avril 1917.
 
-> Les dates de couverture bornent le carnet du 25 juillet 1916 au 30 avril 1917. La lettre du 21 février 1916 donne une compagnie d’A.S.C. depuis août 1915 ; le numéro 152 apparaît dans le carnet à la vue 066. The Ringing World, 9 avril 1915, p. 184, documente séparément le rattachement de cette unité au 18th Divisional Train. Cela ne date pas à lui seul l’affectation personnelle de Combes à cette compagnie.
+> Les dates de couverture bornent le carnet d’Hippolyte Combes (né à Millau le 14 août 1876, décédé le 2 septembre 1970 à l’Hôtel du Centre à Saint-Chély-d’Apcher, Lozère) du 25 juillet 1916 au 30 avril 1917. La lettre du 21 février 1916 donne une compagnie d’A.S.C. depuis août 1915 ; le numéro 152 apparaît dans le carnet à la vue 066. Nichols (1922, p. 107–110) et The Ringing World (9 avril 1915, p. 184) documentent séparément le rattachement des 150th–153rd Companies A.S.C. au 18th Divisional Train, sans dater à eux seuls l’affectation personnelle de Combes à la 152nd.
 
 ---
 
@@ -1445,7 +1445,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - **Lieu** : Marquay, Ramecourt, Saint-Michel, Saint-Pol-sur-Ternoise et Ostreville (Pas-de-Calais)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
-- **Points ouverts** : Finale de sous-préf ; montantsVaria etDiv.cartes..
+- **Points ouverts** : Finale de sous-préf ; montantsVaria etDiv. cartes..
 
 ```text
  1 | 31 J. – Enfin, belle journée. –          Aout / 16
@@ -1484,7 +1484,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-À la l.9, le petit groupe en hauteur appartient vraisemblablement à la contraction sous-préf[re?]. La suite se lit de 5000 habts ; l’ancienne restitution de [4 à ?] 5000 ajoutait un intervalle de population sans groupe distinct assuré. La date 1697 est conservée après contrôle natif. Les montants Varia et Div.cartes restent réservés.
+À la l. 9, le petit groupe en hauteur appartient vraisemblablement à la contraction sous-préf[re?]. La suite se lit de 5000 habts ; l’ancienne restitution de [4 à ?] 5000 ajoutait un intervalle de population sans groupe distinct assuré. La date 1697 est conservée après contrôle natif. Les montants Varia et Div. cartes restent réservés.
 
 > L’itinéraire nomme Ramecourt, Saint-Michel-sur-Ternoise, Saint-Pol et Ostreville. 1697 et 1767 sont rapportés par Combes au sujet de l’église et de Benoît Labre. La référence patrimoniale PA00108426 proposée parallèlement concerne l’hôtel de ville de Saint-Venant, pas cette église : elle ne doit pas la corroborer. Source de contrôle : https://pop.culture.gouv.fr/notice/merimee/PA00108426 .
 
@@ -1631,7 +1631,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **Collation de la photographie :** Le corps N. C. O. que départ retardé et le paragraphe inférieur de Roellecourt sont conservés. Les 22 lignes et le compte final sont confrontés à la photo.
 
-> Le retard annoncé par un orderly N.C.O. est une nouvelle reçue ; le départ effectif est décrit le 9 septembre à la vue 039.78 f 75 est consigné comme solde et indemnité. Le calcul 15 jours à 5 f 25 n’est pas écrit et ne suffit pas à établir un tarif personnel.
+> Le retard annoncé par un orderly N.C.O. est une nouvelle reçue ; le départ effectif est décrit le 9 septembre à la vue 039. 78 f 75 est consigné comme solde et indemnité. Le calcul 15 jours à 5 f 25 n’est pas écrit et ne suffit pas à établir un tarif personnel.
 
 ---
 
@@ -1663,7 +1663,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descente du q, comparables aux relatives des vues002 et028. L’ellipse bruissaient monotone est conservée ; elle ne justifie aucune correction grammaticale. Les chiffres du compte au bas restent partiellement réservés.
+Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descente du q, comparables aux relatives des vues 002 et 028. L’ellipse bruissaient monotone est conservée ; elle ne justifie aucune correction grammaticale. Les chiffres du compte au bas restent partiellement réservés.
 
 > La carte du département de la Somme et la géographie du Pas-de-Calais sont des achats écrits. Leur rapprochement avec le déplacement ultérieur est possible, mais l’achat seul ne démontre pas que Combes connaît déjà une destination opérationnelle. Saddle soap appartient au vocabulaire de l’entretien du cuir.
 
@@ -1820,7 +1820,7 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 **Collation de la photographie :** Trois brigades et la laiterie sont mieux appuyés que les anciennes leçons. La quantité de poussière et le nom du groom au bord inférieur restent réservés.
 
-> Trois brigades défilent avant le groupe de Combes ; le carnet ne les numérote pas. Trench mortar school désigne une école de mortiers de tranchée. West invite l’interprète au mess à l’étape de Monts-en-Ternois ; sa compagnie précise n’est pas attribuée par simple proximité.
+> Trois brigades défilent avant le groupe de Combes ; le carnet ne les numérote pas. Trench mortar school désigne une école de mortiers de tranchée. West invite l’interprète au mess à l’étape de Monts-en-Ternois ; le carnet ne précise pas ici sa compagnie, mais Nichols (1922, p. 110, 432) atteste le Capt. E. M. West, A.S.C. (M.C.) à la tête de la 152nd Co., A.S.C. du 18th Divisional Train à Thiepval.
 
 ---
 
@@ -1968,7 +1968,7 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 **Collation de la photographie :** Angle droit ouvre bien la ligne des allées. Cuisine quelconque et converser anglais sont conservés ; le petit groupe de l’acceptation reste réservé.
 
-> ÀRaincheval, l’entrée au mess donne des occasions de conversation et de lecture explicitement nommées. Les avantages décrits ne permettent pas d’attribuer une compagnie personnelle précise à West ni de généraliser le statut réglementaire de tous les interprètes.
+> À Raincheval, l’entrée au mess donne des occasions de conversation et de lecture explicitement nommées. Nichols (1922, p. 110, 432) atteste par ailleurs le Capt. E. M. West, A.S.C. comme commandant la 152nd Co., A.S.C. du 18th Divisional Train ; les avantages décrits ici ne permettent pas de généraliser le statut réglementaire de tous les interprètes.
 
 ---
 
@@ -2018,7 +2018,7 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 **Collation de la photographie :** La formule Fait route avec remplace la visite inventée. Lereux reste une graphie proposée, sans identification civile.
 
-> La baraque de la mission à Acheux et la canteen de Raincheval sont des lieux nommés. Canada in Flanders se rapproche du livre de Sir Max Aitken, vol.I publié chez Hodder & Stoughton en janvier 1916 ; l’édition contemporaine conservée donne titre, auteur et date, mais ne prouve pas l’exemplaire acheté. Source : https://www.gutenberg.org/files/46114/46114-h/46114-h.htm . Mines n’est pas remplacé par mortiers dans la transcription.
+> La baraque de la mission à Acheux et la canteen de Raincheval sont des lieux nommés. Canada in Flanders se rapproche du livre de Sir Max Aitken, vol. I publié chez Hodder & Stoughton en janvier 1916 ; l’édition contemporaine conservée donne titre, auteur et date, mais ne prouve pas l’exemplaire acheté. Source : https://www.gutenberg.org/files/46114/46114-h/46114-h.htm . Mines n’est pas remplacé par mortiers dans la transcription.
 
 ---
 
@@ -2120,7 +2120,7 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 **Collation de la photographie :** Brammas est un nom de compagnon, non une compagnie de brancardiers. Les abréviations précédant divon et la surcharge du retour restent réservées.
 
-> Hédauville, Forceville et Acheux sont les repères du trajet sous la pluie. Le maintien du H.Q. de la 18 edivision est une nouvelle reçue. Le diariste attribue ses troubles au changement de régime ; le commentaire conserve cette attribution sans diagnostic rétrospectif ni identification conjecturale de Brammas.
+> Hédauville, Forceville et Acheux sont les repères du trajet sous la pluie. Le maintien du H.Q. de la 18e division est une nouvelle reçue. Le diariste attribue ses troubles au changement de régime ; le commentaire conserve cette attribution sans diagnostic rétrospectif ni identification conjecturale de Brammas.
 
 ---
 
@@ -2206,7 +2206,7 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 **Collation de la photographie :** We are moving demain est conservé, sans Dawn ni Méaulte. Le ciel noir comporte des étoiles. Les petites suscrites du compte restent réservées.
 
-> Le 25 est la date de permission préparée ; movingdemain annonce un mouvement de compagnie. Les Bedfs sont nommés près du football, sans numéro de bataillon. La lecture desjours et des comptes reste distincte d’un ordre de bataille.
+> Le 25 est la date de permission préparée ; moving demain annonce un mouvement de compagnie. Les Bedfs sont nommés près du football, sans numéro de bataillon. La lecture des jours et des comptes reste distincte d’un ordre de bataille.
 
 ---
 
@@ -2259,7 +2259,7 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 Relecture de la photographie entière et du recadrage natif du bas : le l haut, le t barré et la finale ère donnent litière. Le mot de matière après épaisse paraît compatible avec bâche (b initial, h haut, e final), sans certitude suffisante pour ôter la réserve ; les anciennes alternatives brches/herbe ne sont pas imposées. Les heures, départs et changements de route restent transcrits sans reconstitution logistique.
 
-> Le 23 septembre, West fixe l’heure du départ puis Pizzi apporte un message conduisant à changer de route. Le mouvement aboutit à un cantonnement in the open près de Forceville. Le titre d’officier interprète de Pizzi est aussi attesté dans la lettre du 21 février 1916. La matière de la litière reste proposée ; une toiture en branches ne se déduit pas de cette note.
+> Le 23 septembre, West (Capt. E. M. West, commandant la 152nd Co., A.S.C. selon Nichols, 1922, p. 110) fixe l’heure du départ puis Pizzi apporte un message conduisant à changer de route. Le mouvement aboutit à un cantonnement in the open près de Forceville. Le titre d’officier interprète de Pizzi est aussi attesté dans la lettre du 21 février 1916. La matière de la litière reste proposée ; une toiture en branches ne se déduit pas de cette note.
 
 ---
 
@@ -2309,7 +2309,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Collation de la photographie :** Le recadrage appuie Newton contre Stewart. Le groupe précédant haie et l’objet du rangement restent des propositions, sans certifier sacs & cantine.
 
-> **24 septembre 1916 :** Le carnet associe l’achèvement de la hutte, une corvée de green forage à Forceville, des préparatifs de départ encore partiellement réservés et la musique militaire à Acheux. Les dates précèdent les batailles de Morval (25–28 septembre) et de Thiepval Ridge (26–28 septembre), selon Butler, Vol.II, chap.IV, p. 49, note 2. Ce voisinage chronologique fournit un contexte au grondement du canon ; il n’identifie pas avec certitude les tirs entendus ni une participation personnelle à ces offensives. Newton demeure un nom proposé.
+> **24 septembre 1916 :** Le carnet associe l’achèvement de la hutte, une corvée de green forage à Forceville, des préparatifs de départ encore partiellement réservés et la musique militaire à Acheux. Les dates précèdent les batailles de Morval (25–28 septembre) et de Thiepval Ridge (26–28 septembre), selon Butler, Vol. II, chap. IV, p. 49, note 2. Ce voisinage chronologique fournit un contexte au grondement du canon ; il n’identifie pas avec certitude les tirs entendus ni une participation personnelle à ces offensives. Newton demeure un nom proposé.
 
 ---
 
@@ -2404,7 +2404,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Collation de la photographie :** La parenthèse après Creil reste réservée. Nuages et obus ds les airs sont conservés.
 
-> **Trajet vers Paris :** Après le changement de train à Gézaincourt, le récit donne Amiens vers 8 Hdu soir, puis le croisement de Longueau, des avions nommés Taubes, des bombes, des projecteurs et des obus dans les airs. Il décrit une attaque aérienne au cours du trajet sans permettre d’identifier le modèle exact des appareils. La parenthèse près de Creil demeure difficile et ne doit pas être développée par l’itinéraire supposé.
+> **Trajet vers Paris :** Après le changement de train à Gézaincourt, le récit donne Amiens vers 8 H du soir, puis le croisement de Longueau, des avions nommés Taubes, des bombes, des projecteurs et des obus dans les airs. Il décrit une attaque aérienne au cours du trajet sans permettre d’identifier le modèle exact des appareils. La parenthèse près de Creil demeure difficile et ne doit pas être développée par l’itinéraire supposé.
 
 ---
 
@@ -2654,7 +2654,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Relecture :** *ma Femme* est conservé tel qu’écrit. Le crop natif appuie *baisers intimes* ; *nièces* dans le compte reste proposé. Le chiffre 295 du sautoir se compare aux dates et au billet 59 de la vue 094, sans normalisation du montant 300 f précédent.
 
-> **Purpan et Blagnac :** Les Ruines après Purpan peuvent désigner l’amphithéâtre antique conservé aujourd’hui par le Musée Saint-Raymond ; l’itinéraire rend ce rapprochement plausible sans identifier chaque vestige. ÀBlagnac, le monastère était occupé par des Trappistines, selon la notice municipale, ce qui éclaire la chapelle mentionnée. Le récit porte ma Femme et le compte un sautoir en or, 300 f net 295 f, chez Pfister. Il ne nomme pas le destinataire de cet achat ; l’appellation conjugale est gardée sans modifier le statut matrimonial.
+> **Purpan et Blagnac :** Les Ruines après Purpan peuvent désigner l’amphithéâtre antique conservé aujourd’hui par le Musée Saint-Raymond ; l’itinéraire rend ce rapprochement plausible sans identifier chaque vestige. À Blagnac, le monastère était occupé par des Trappistines, selon la notice municipale, ce qui éclaire la chapelle mentionnée. Le récit porte ma Femme et le compte un sautoir en or, 300 f net 295 f, chez Pfister. Il ne nomme pas le destinataire de cet achat ; l’appellation conjugale est gardée sans modifier le statut matrimonial.
 
 ---
 
@@ -2712,7 +2712,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Relecture :** Les heures et les cinq cloches restent dans le texte. Le petit groupe à droite près de *Sons différents* est une addition marginale dont la lecture *p. Rem[?]* demeure ouverte ; il n’est pas développé certainement en *Remarqué*. Le grand ami n’est pas nommé dans la phrase des serments.
 
-> **Terre-Cabade :** Après Montaudran et les cinq cloches, Combes et Margte visitent les caveaux des Jésuites et du P.Marie-Antoine, puis échangent des serments au souvenir de notre gd ami et de Josephe. Le Diocèse de Toulouse documente le capucin Marie-Antoine, mort en 1907, et ses obsèques à Terre-Cabade. Le récit familial de Pierre Combes nomme un père d’Adhémar, ami des Combes, et la sœur Joséphine, morte à Nogent en octobre 1914. Ce sont des rapprochements utiles pour les deux allusions ; le carnet ne nomme pas d’Adhémar et le mémoire ne prouve pas ici sa sépulture dans le caveau visité.
+> **Terre-Cabade :** Après Montaudran et les cinq cloches, Combes et Margte visitent les caveaux des Jésuites et du P. Marie-Antoine, puis échangent des serments au souvenir de notre gd ami et de Josephe. Le Diocèse de Toulouse documente le capucin Marie-Antoine, mort en 1907, et ses obsèques à Terre-Cabade. Le récit familial de Pierre Combes nomme un père d’Adhémar, ami des Combes, et la sœur Joséphine, morte à Nogent en octobre 1914. Ce sont des rapprochements utiles pour les deux allusions ; le carnet ne nomme pas d’Adhémar et le mémoire ne prouve pas ici sa sépulture dans le caveau visité.
 
 ---
 
@@ -2809,7 +2809,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Relecture :** Le groupe de la matinée commence par cme, suivi d’une contraction proposée tjs. À la fin, le groupe après Air doux est proposé *parfumé* ; la finale reste réservée. Aucun grand arbre absent n’est restitué.
 
-> **Visites et sortie :** Margte et sa mère viennent à l’appartement ; le récit note ensuite la Chapelle Nazareth, la rue Alsace, le retour en tram vers la Côte Pavée et un départ avec Jean à 9 H 30. Le réseau Calmels et le rapprochement Jean Crouzet sont documentés dans les notices 054 et 058. L’heure près de Nazareth reste difficile. Le mot sanctuaire familial et l’expression revutte ma famille citée d’une autre vue ne prouvent pas la fonction précise de cette chapelle dans cette journée.
+> **Visites et sortie :** Margte et sa mère viennent à l’appartement ; le récit note ensuite la Chapelle Nazareth, la rue Alsace, le retour en tram vers la Côte Pavée et un départ avec Jean à 9 H 30. Le réseau Calmels et le rapprochement Jean Crouzet sont documentés dans les notices 054 et 058. L’heure près de Nazareth reste difficile. Le mot sanctuaire familial et l’expression revu tte ma famille citée d’une autre vue ne prouvent pas la fonction précise de cette chapelle dans cette journée.
 
 ---
 
@@ -3024,7 +3024,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 * * *
 
-**Ordre des vues :** Les premières lignes poursuivent les adieux de la vue 062, tandis que la vue 063 porte la journée suivante du 5 octobre. Les numéros des photographies ne sont pas une foliation matérielle. Le billet est noté 3 ecl.p.Orsay, 11 f 75 ; les dépenses de fleurs, trams, bain et étrenne restent distinctes du récit.
+**Ordre des vues :** Les premières lignes poursuivent les adieux de la vue 062, tandis que la vue 063 porte la journée suivante du 5 octobre. Les numéros des photographies ne sont pas une foliation matérielle. Le billet est noté 3e cl. p. Orsay, 11 f 75 ; les dépenses de fleurs, trams, bain et étrenne restent distinctes du récit.
 
 > **Suite des adieux :** Les premières lignes prolongent la vue 062 (soir du 4 octobre), avant le trajet nocturne et les dépenses. Le billet pour Orsay est noté 3e classe, 11 f 75 ; les images de Sainte Thérèse, les fleurs pour Margte, le bain et l’étrenne à Maria, bonne des Crouzet (5 f), sont distincts. La relation avec 063 se fait par la chronologie du 5 octobre, et non par une foliation physique inventée. Les images ne reçoivent ni destinataire ni fonction protectrice non écrits.
 
@@ -3155,7 +3155,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~4 symphe / l.~5 extt :** Abréviations pour *sympathique* et *extrêmement*. **l.~9 trouvé 1 billet = gde chambre :** Le signe *=* introduit ici une équivalence explicative (*c'est-à-dire une grande chambre*). **l.~15 A " , canteen :** Guillemets de répétition (dittogramme) renvoyant à *A Doullens* de la ligne précédente.
 
-> **Cantonnement :** La compagnie retrouvée en 066 cantonne à Barlette, près de Ribeaucourt. Combes fait viser son titre de permission à Bernaville, puis trouve une grande chambre à 900 mètres de Barlette. Le compte porte un cadeau 5 fr au Q.M. S.Tait, nom encore proposé. Les lignes n’attribuent pas à Tait une identité complète, ni à la maison la localisation exacte du camp. Le rapprochement avec le 18th Divisional Train est celui documenté en 066.
+> **Cantonnement :** La compagnie retrouvée en 066 cantonne à Barlette, près de Ribeaucourt. Combes fait viser son titre de permission à Bernaville, puis trouve une grande chambre à 900 mètres de Barlette. Le compte porte un cadeau 5 fr au Q.M.S. Tait, nom encore proposé. Les lignes n’attribuent pas à Tait une identité complète, ni à la maison la localisation exacte du camp. Le rapprochement avec le 18th Divisional Train est celui documenté en 066.
 
 ---
 
@@ -3280,7 +3280,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Contractions :** parallelt, enchevêtrt, plusis et infinimt sont conservés sans ajout dans le texte. Après ciel, la contraction est proposée mervt, avec réserve. Pleine est ajouté sous lune. Campagne curieuse à regarder les moindres details garde son tour elliptique.
 
-> **Forêt etlune :** Le 9 octobre, Combes décrit une forêt proche de la route, des arbres qu’il juge plusieurs fois séculaires, puis le bruissement du vent. Le bois de Ribeaucourt, nommé le 11 octobre (vue 072), est un rapprochement géographique plausible ; cette vue ne nomme pas la forêt ni la route. Le retour du mess se fait sous la lune, et Combes note son plaisir dans la grande chambre. Il ne déclare pas une journée entière sans service.
+> **Forêt et lune :** Le 9 octobre, Combes décrit une forêt proche de la route, des arbres qu’il juge plusieurs fois séculaires, puis le bruissement du vent. Le bois de Ribeaucourt, nommé le 11 octobre (vue 072), est un rapprochement géographique plausible ; cette vue ne nomme pas la forêt ni la route. Le retour du mess se fait sous la lune, et Combes note son plaisir dans la grande chambre. Il ne déclare pas une journée entière sans service.
 
 ---
 
@@ -3325,7 +3325,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~3--5 occupé pour green forage. Conduit fourragères ds les champs :** Emploi conjoint du syntagme anglais *green forage* et du français *fourragères* (chariots à fourrage). **l.~7--8 rempli yeux vue des bois :** Condensation télégraphique par suppression de l'article et de la préposition.
 
-> **Fourragevert :** Le 10 octobre, matin et après-midi sont occupés au green forage. Combes conduit des fourragères, surveille le chargement de luzerne et observe les bois à quelque 40 ou 50 mètres. Cette activité prolonge les corvées de fourrage des vues 049–050, après son retour à la 152 Coy en 066. La description des feuillages et de la lune accompagne ainsi une tâche de ravitaillement ; elle ne prouve pas l’usage de tout ce chargement par les seuls attelages de sa compagnie.
+> **Fourrage vert :** Le 10 octobre, matin et après-midi sont occupés au green forage. Combes conduit des fourragères, surveille le chargement de luzerne et observe les bois à quelque 40 ou 50 mètres. Cette activité prolonge les corvées de fourrage des vues 049–050, après son retour à la 152 Coy en 066. La description des feuillages et de la lune accompagne ainsi une tâche de ravitaillement ; elle ne prouve pas l’usage de tout ce chargement par les seuls attelages de sa compagnie.
 
 ---
 
@@ -3491,7 +3491,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~1 Lundi 16 — | Sur pied à 5h 1/2 :** Trait vertical séparant l'indication calendaire du début de la phrase nominale. **l.~12 convois d'A.S.C., R.F.A. etc. etc. & infantry battalions :** Insertion directe des sigles et syntagmes militaires anglais (*Army Service Corps*, *Royal Field Artillery*, *infantry battalions*, et l.~14 *tommies*) au sein de la phrase française.
 
-> **Marche vers Warloy-Baillon :** Le 16 octobre, le départ de Beauval à 7 H 30 est suivi du passage par Beauquesne, d’une halte au-delà de Puchevillers et d’une arrivée vers 6 Hdu soir à Warloy-Baillon. Combes note les nombreux convois A.S.C. et R.F.A. et les bataillons d’infanterie, puis un camp sous tentes près de la route de Senlis. La durée entre les horaires est d’environ dix heures et demie, sans être une mesure du seul temps de marche. Le carnet ne désigne pas ici les services médicaux du village.
+> **Marche vers Warloy-Baillon :** Le 16 octobre, le départ de Beauval à 7 H 30 est suivi du passage par Beauquesne, d’une halte au-delà de Puchevillers et d’une arrivée vers 6 H du soir à Warloy-Baillon. Combes note les nombreux convois A.S.C. et R.F.A. et les bataillons d’infanterie, puis un camp sous tentes près de la route de Senlis. La durée entre les horaires est d’environ dix heures et demie, sans être une mesure du seul temps de marche. Le carnet ne désigne pas ici les services médicaux du village.
 
 ---
 
@@ -3531,7 +3531,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~1--3 16 Lundi / A Beauval, room : 1 f — groom : 1 f :** Rappel de la date de la veille en haut de page pour encadrer d'un crochet le relevé des menues dépenses de logement (*room*) et de pourboire à l'ordonnance (*groom*), suivi d'un trait horizontal séparateur avant l'entrée du mardi 17 octobre.
 
-> **Bivouac et départ :** Après les comptes du 16 octobre, l’entrée du 17 décrit une nuit sous tente près de deux officiers, le froid, une demi-lune argentée et le mouvement du camp. Les régiments d’infanterie partent d’abord, puis Combes se met en route à 10 H. Il qualifie de nouvelles les sensations du bivouac ; cela ne suffit pas à établir sa toute première nuit sous toile. La vue 077 poursuit l’étape au-delà de Senlis.
+> **Bivouac et départ :** Après les comptes du 16 octobre, l’entrée du 17 décrit une nuit sous tente près de deux officiers (dont le Lt Ford, rapprochable du Capt. E. M. Ford, M.C., attesté au 18th Divisional Train par Nichols, 1922, p. 432), le froid, une demi-lune argentée et le mouvement du camp. Les régiments d’infanterie partent d’abord, puis Combes se met en route à 10 H. Il qualifie de nouvelles les sensations du bivouac ; cela ne suffit pas à établir sa toute première nuit sous toile. La vue 077 poursuit l’étape au-delà de Senlis.
 
 ---
 
@@ -3638,7 +3638,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~1 surl. :** Suspension interprétée comme sur laquelle, renvoyant à route en fin de vue 078. **l.~6--7 comptes :** Cartes postales 40 c et mission française 84 fr sont notés séparément. La nature du second paiement n’est pas écrite ici.
 
-> **Circulation logistique :** Cette suite de 078 compare le flot nocturne et diurne de lorries et de caissons à celui d’une artère de capitale. La prise de Regina Trench par la 53e Brigade le 21 octobre est attestée par Nichols, p. 131 ; elle fournit un contexte proche, mais n’identifie ni les unités ni la destination de chacun des convois observés le 18. Le compte Albert, missionfrse :84 fr ne précise pas qu’il s’agit de solde.
+> **Circulation logistique :** Cette suite de 078 compare le flot nocturne et diurne de lorries et de caissons à celui d’une artère de capitale. La prise de Regina Trench par la 53e Brigade le 21 octobre est attestée par Nichols, p. 131 ; elle fournit un contexte proche, mais n’identifie ni les unités ni la destination de chacun des convois observés le 18. Le compte Albert, mission frse : 84 fr ne précise pas qu’il s’agit de solde.
 
 ---
 
@@ -3685,7 +3685,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~11 brickfield area :** Désignation anglaise conservée telle qu’écrite ; la localisation précise du secteur des briqueteries demanderait une carte contemporaine. **l.~15--17 chambre :** Le diariste écrit Réussi par trouver puis Y installé!, sans ajouter de description du logement.
 
-> **Brickfieldarea :** Le 19 octobre, Combes quitte le camp vers 11 H et arrive vers 1 H dans un secteur noté brickfield area, où des tentes et abris sont dressés sous la pluie. Il trouve une chambre à 300 ou 400 mètres et entend toute la nuit une forte canonnade. Les mentions d’Abel, fils de la maison, en 082, de la famille Duchâteau en 087 et de Victor Duchâteau en 091 peuvent éclairer ses hôtes, mais ne prouvent pas à elles seules l’identité exacte du bailleur. La localisation précise du secteur de briqueteries demande une carte.
+> **Brickfield area :** Le 19 octobre, Combes quitte le camp vers 11 H et arrive vers 1 H dans un secteur noté brickfield area, où des tentes et abris sont dressés sous la pluie. Il trouve une chambre à 300 ou 400 mètres et entend toute la nuit une forte canonnade. Les mentions d’Abel, fils de la maison, en 082, de la famille Duchâteau en 087 et de Victor Duchâteau en 091 peuvent éclairer ses hôtes, mais ne prouvent pas à elles seules l’identité exacte du bailleur. La localisation précise du secteur de briqueteries demande une carte.
 
 ---
 
@@ -3855,7 +3855,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~9--10 german dug-outs. Ces abris souterrains :** Procédé stylistique caractéristique du carnet : l'auteur emploie d'abord le terme technique anglais (*german dug-outs*) avant de le gloser immédiatement en français dans la phrase suivante (« Ces abris souterrains »).
 
-> **Cratère de La Boisselle :** Combes visite des german dug-outs avec deux officiers et note un énorme cratère sur la droite. Un rapprochement avec Lochnagar est plausible, mais le carnet ne le nomme pas et ne précise pas le trajet suivi. La fondation qui conserve Lochnagar date son explosion du 1 erjuillet 1916 à 7 H 28, par la 179th Tunnelling Company, Royal Engineers ; sa notice statistique donne 60000 lbs d’ammonal, environ 27 tonnes. Ces renseignements concernent le site proposé, ils ne rendent pas certaine l’identification de la vision de Combes.
+> **Cratère de La Boisselle :** Combes visite des german dug-outs avec deux officiers et note un énorme cratère sur la droite. Un rapprochement avec Lochnagar est plausible, mais le carnet ne le nomme pas et ne précise pas le trajet suivi. La fondation qui conserve Lochnagar date son explosion du 1er juillet 1916 à 7 H 28, par la 179th Tunnelling Company, Royal Engineers ; sa notice statistique donne 60 000 lbs d’ammonal, environ 27 tonnes. Ces renseignements concernent le site proposé, ils ne rendent pas certaine l’identification de la vision de Combes.
 
 ---
 
@@ -3956,7 +3956,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 * * *
 
-**l.~11 sigle :** Lecture R.E. proposée, avec hésitation sur le second caractère ; R.F. n’est pas exclu. Aucun développement d’unité n’est assuré. **l.~12--15 Sam.28 / hier et auj’d’hui :** Le récit mentionne les deux matinées, sans fournir une entrée distincte datée du 27.
+**l.~11 sigle :** Lecture R.E. proposée, avec hésitation sur le second caractère ; R.F. n’est pas exclu. Aucun développement d’unité n’est assuré. **l.~12--15 Sam. 28 / hier et auj’d’hui :** Le récit mentionne les deux matinées, sans fournir une entrée distincte datée du 27.
 
 > **Pluie et inaction :** Les routes impraticables, la boue et l’absence de travail d’interprète trouvent un parallèle chez Nichols, p. 132, qui décrit les pluies presque quotidiennes et la boue de Regina Trench à la fin d’octobre et au début de novembre. Ce parallèle éclaire les conditions sans identifier un ordre précis de report des opérations. Le compte de coupe de cheveux porte 50 c et un sigle proposé R.E., R.F. non exclu ; l’attribution certaine aux Royal Fusiliers et à une division est retirée.
 
@@ -4147,7 +4147,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Ordre écrit :** Après avis au bureau de mission et visite à Pizzi, Combes obtient la signature de l’ordre d’accompagner Curtis. **Bagages :** La ligne à mon billet se poursuit par une coordination directe, sans pris distinct. À la ligne suivante, le verbe n’est pas établi ; la liaison avant kit reste proposée au. Aucun prêt de lit n’est assuré par le tracé. **Nom :** Lépin est proposé aussi en vue 085 ; pas d’identification civile imposée.
 
-> **Grose et l’ordre écrit :** Après avis au bureau de mission et visite à Pizzi, Combes obtient au Train Office la signature de Col. Grose pour accompagner Curtis. Nichols, 1922, p. 107, nomme D.C.E.Grose, A.S.C., comme commandant du Divisional Train à Thiepval. La London Gazette du 4 juin 1917, p. 5470, donne le nom complet Daniel Charles Evans Grose, A.S.C. Ces concordances rendent le rapprochement très plausible, sans que la Gazette seule établisse son commandement. Les motifs psychologiques ou juridiques de la demande d’ordre écrit ne sont pas déclarés ; les fonctions de Hughes et Serpin restent à préciser.
+> **Grose et l’ordre écrit :** Après avis au bureau de mission et visite à Pizzi, Combes obtient au Train Office la signature de Col. Grose pour accompagner Curtis. Nichols, 1922, p. 107, nomme D. C. E. Grose, A.S.C., comme commandant du Divisional Train à Thiepval. La London Gazette du 4 juin 1917, p. 5470, donne le nom complet Daniel Charles Evans Grose, A.S.C. Ces concordances rendent le rapprochement très plausible, sans que la Gazette seule établisse son commandement. Les motifs psychologiques ou juridiques de la demande d’ordre écrit ne sont pas déclarés ; les fonctions de Hughes et Serpin restent à préciser.
 
 ---
 
@@ -4194,7 +4194,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Doublon photographique :** Cette page est aussi photographiée au scan 093; les deux images doivent porter la même transcription. **D.O.S.T. :** Sigle dont le développement n’est pas établi ici. **58 f 75 :** Somme accompagnée de « 30 f retenus pour / 6 jours de permission »; ne pas généraliser ce calcul à un règlement de solde non cité.
 
-> **Levy et comptes :** Le 2 novembre au soir, Combes rencontre Major Levy à Raincheval, avec le sigle D.O.S.T. non développé. La vue 166 du 11 mars 1917 note une demande instante du Major Levy pour son maintien au Purchase Board ; ce parallèle éclaire leur relation sans identifier toute la direction du ravitaillement. Le compte porte Donné à Victor Duchâteau :5 f, puis Mission Albert:58 f 75, avec 30 f retenus pour 6 jours de permission. Ni la qualité exacte de Victor, ni une périodicité de quinzaine, ni une règle générale d’indemnité ne sont précisées.
+> **Levy et comptes :** Le 2 novembre au soir, Combes rencontre Major Levy à Raincheval, avec le sigle D.O.S.T. non développé. La vue 166 du 11 mars 1917 note une demande instante du Major Levy pour son maintien au Purchase Board ; ce parallèle éclaire leur relation sans identifier toute la direction du ravitaillement. Le compte porte Donné à Victor Duchâteau : 5 f, puis Mission Albert : 58 f 75, avec 30 f retenus pour 6 jours de permission. Ni la qualité exacte de Victor, ni une périodicité de quinzaine, ni une règle générale d’indemnité ne sont précisées.
 
 ---
 
@@ -4286,7 +4286,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Doublon photographique :** Les scans 091 et 093 reproduisent la même page physique (mêmes lignes, traits et relevé de dépenses). Le scan 092 a été photographié entre les deux. La transcription est identique; aucun nouveau folio n’est établi par ce second cliché.
 
-> **Second cliché :** La photographie 20251126_104647.jpg reprend la même page que 091(20251126_104623.jpg), avec la visite à Levy, le don à Victor Duchâteau et les comptes de la mission. Les deux images ont été confrontées séparément, traits et sommes compris. Elles ne constituent pas deux épisodes distincts. Comme en 091, la nature du don, le développement D.O.S.T. et le règlement général de solde restent non précisés.
+> **Second cliché :** La photographie 20251126_104647.jpg reprend la même page que 091 (20251126_104623.jpg), avec la visite à Levy, le don à Victor Duchâteau et les comptes de la mission. Les deux images ont été confrontées séparément, traits et sommes compris. Elles ne constituent pas deux épisodes distincts. Comme en 091, la nature du don, le développement D.O.S.T. et le règlement général de solde restent non précisés.
 
 ---
 
@@ -4333,7 +4333,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **Logement :** Le billet 59 est remplacé par une chambre no 1, route de Léalvillers. Le propriétaire est dit sympathique et n’est pas nommé. **l.~15 corps :** Petit ajout interlinéaire avant corps, non établi ; la lecture XIIIe n’est pas certifiée. **l.~17 qqfroid :** Groupe conservé sans développement.
 
-> **Logement et mission :** Combes quitte le billet 59 pour une chambre no 1, route de Léalvillers ; le propriétaire est dit sympathique mais n’est pas nommé. Des mentions ultérieures (102, 118, 146–148) permettent de proposer un rapprochement avec le tailleur Carluvant[?], sans assurer la continuité du même logement jusqu’au 7 février. Vth Army troops s’accorde avec le nouveau nom Fifth Army donné à la Reserve Army le 30 octobre 1916 (Butler, Vol.II, p. 52, note 6). Le petit ajout avant corps reste non établi : il ne permet pas de certifier XIIIe ni la fonction de chef de mission du Cap. Huguet.
+> **Logement et mission :** Combes quitte le billet 59 pour une chambre no 1, route de Léalvillers ; le propriétaire est dit sympathique mais n’est pas nommé. Des mentions ultérieures (102, 118, 146–148) permettent de proposer un rapprochement avec le tailleur Carluvant[?], sans assurer la continuité du même logement jusqu’au 7 février. Vth Army troops s’accorde avec le nouveau nom Fifth Army donné à la Reserve Army le 30 octobre 1916 (Butler, Vol. II, p. 52, note 6). Le petit ajout avant corps reste non établi : il ne permet pas de certifier XIIIe ni la fonction de chef de mission du Cap. Huguet.
 
 ---
 
@@ -5027,7 +5027,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~14--15 A brainless ass :** Jugement injurieux en anglais (« un âne sans cervelle »), attribué par le diariste à Curtis. **l.~17--19 :** Williams, âgé de vingt ans selon Combes, raconte qu’il était office boy à 50 livres annuelles avant la guerre. Ce récit ne donne pas les étapes de sa carrière.
 
-> **Départ de Curtis :** La course du 5 décembre atteint Authie, Bayencourt et Coigneux, avec Hébuterne et Gommecourt comme repères manuscrits. Le 6, Curtis repart pour la 152 CoyA.S.C.; Combes le juge durement en anglais. Williams, âgé de 20 ans selon le carnet, raconte avoir été office boy à 50 livres annuelles avant la guerre. Ni carrière détaillée ni causes de sa promotion ne sont données.
+> **Départ de Curtis :** La course du 5 décembre atteint Authie, Bayencourt et Coigneux, avec Hébuterne et Gommecourt comme repères manuscrits. Le 6, Curtis repart pour la 152 Coy A.S.C. ; Combes le juge durement en anglais. Williams, âgé de 20 ans selon le carnet, raconte avoir été office boy à 50 livres annuelles avant la guerre. Ni carrière détaillée ni causes de sa promotion ne sont données.
 
 ---
 
@@ -5337,9 +5337,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 * * *
 
-**Ordre chronologique :** La vue 113 porte les 19 et 20 décembre et précède donc 112(22 et 24). **Army P. Board :** Développement probable Army Purchase Board par comparaison de Purchase Board à 166, l.~14; ce parallèle interne ne remplace pas une source administrative sur l’organisme. **in front :** Position à l’avant de la voiture.
+**Ordre chronologique :** La vue 113 porte les 19 et 20 décembre et précède donc 112 (22 et 24). **Army P. Board :** Développement probable Army Purchase Board par comparaison de Purchase Board à 166, l.~14; ce parallèle interne ne remplace pas une source administrative sur l’organisme. **in front :** Position à l’avant de la voiture.
 
-> **Army P. Board :** Le sigle de Raincheval peut être développé probablement Army Purchase Board, par comparaison avec Purchase Board écrit à 166(l.~14), où Levy demande que Combes reste à cet organisme. Ce parallèle interne n’établit pas toute sa structure administrative. À Acheux, le compte porte solde etc. 84 fr et cartes Christmas 70 c; il ne donne pas 16 jours à 5 f 25. Cette vue des 19--20 décembre précède chronologiquement 112.
+> **Army P. Board :** Le sigle de Raincheval peut être développé probablement Army Purchase Board, par comparaison avec Purchase Board écrit à 166 (l.~14), où Levy demande que Combes reste à cet organisme. Ce parallèle interne n’établit pas toute sa structure administrative. À Acheux, le compte porte solde etc. 84 fr et cartes Christmas 70 c; il ne donne pas 16 jours à 5 f 25. Cette vue des 19--20 décembre précède chronologiquement 112.
 
 ---
 
@@ -5747,7 +5747,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~12--13 9 Ma. — Hier & avant-hier :** Le dimanche 7 et le lundi 8 janvier 1917 sont résumés rétrospectivement en tête de l'entrée du mardi 9 janvier. **l.~20 Morris, était out riding :** Était sorti à cheval (emprunt direct à l'anglais parlé des cantonnements).
 
-> **Troupes et 150 Coy :** Les convois d’artillerie et de l’A.S.C. encombrent les routes le 6 janvier, sans preuve interne d’une relève entre corps. Le 9, Combes retrouve 150 Coy, 18th Divon à Hédauville, près de la route de Varennes; Morris est out riding. Le tableau des Horse Transport Companies de Chris Baker, The Long, Long Trail, rattache les 150--153 Companies au 18th Divisional Train; cette source étaye le rapprochement avec la 152 Coy, sans identifier les convois du 6.
+> **Troupes et 150 Coy :** Les convois d’artillerie et de l’A.S.C. encombrent les routes le 6 janvier, sans preuve interne d’une relève entre corps. Le 9, Combes retrouve 150 Coy, 18th Divon à Hédauville, près de la route de Varennes; Morris est out riding. Nichols (1922, p. 107--110, qui nomme le Maj. H. G. Peachy, A.S.C. à la tête de la 150th Co.) et le tableau des Horse Transport Companies de Chris Baker (The Long, Long Trail) rattachent les 150th--153rd Companies A.S.C. au 18th Divisional Train ; ces sources étayent le rapprochement avec la 152nd Coy, sans identifier les convois du 6.
 
 ---
 
@@ -5850,7 +5850,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~10 extt :** Contraction d’extrêmement. **l.~16--19 :** Contraste visuel des arbres et maisons sur la neige; nul besoin de supposer ici une pratique photographique pour expliquer cette notation.
 
-> **Départ annoncé :** Le 13 janvier, Combes voit Huguet au bureau de mission du Ve Corps; son départ est définitivement fixé au 26. Le passage du sigleXIIIeàVe Corps dans les notices ne prouve pas, à lui seul, une relève opérationnelle du secteur ni son commandant. Courses à Beaucourt et Montigny, puis Louvencourt, St-Léger et Doullens les 14--15; la liberté à Doullens dure 3 h selon le chiffre relu.
+> **Départ annoncé :** Le 13 janvier, Combes voit Huguet au bureau de mission du Ve Corps; son départ est définitivement fixé au 26. Le passage du sigle XIIIe à Ve Corps dans les notices ne prouve pas, à lui seul, une relève opérationnelle du secteur ni son commandant. Courses à Beaucourt et Montigny, puis Louvencourt, St-Léger et Doullens les 14--15; la liberté à Doullens dure 3 h selon le chiffre relu.
 
 ---
 
@@ -5992,7 +5992,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~10 Cuis[?] :** Nom abrégé, lecture complète non établie. **l.~11 2 kilog. :** Notation de distance dans le contexte d’un retour à pied ; la graphie abrégée ne justifie pas de diagnostiquer un « lapsus plaisant ». **l.~18 seul :** L’adjectif est écrit ; le plaisir de l’absence du capitaine relève d’une interprétation.
 
-> **Préparatifs :** Le 21 janvier, passage à Louvencourt chez MmeCuis [?], nom abrégé qu’on peut rapprocher de Cuisinier à 112/118. Combes achète 3 tins de Wren’s Dubbin à la cantine et commence les préparatifs du départ. Les vitres mates de glace et la neige durcie documentent son froid local; le classement parmi les hivers les plus rigoureux du siècle demanderait une série météorologique.
+> **Préparatifs :** Le 21 janvier, passage à Louvencourt chez Mme Cuis [?], nom abrégé qu’on peut rapprocher de Cuisinier à 112/118. Combes achète 3 tins de Wren’s Dubbin à la cantine et commence les préparatifs du départ. Les vitres mates de glace et la neige durcie documentent son froid local; le classement parmi les hivers les plus rigoureux du siècle demanderait une série météorologique.
 
 ---
 
@@ -6094,7 +6094,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 * * *
 
-**l.~9--10 :** Addition interlinéaire « compartiment », au-dessus de Varennes et sous la fin de installé 2 ecl; le rattachement à la ligne 9 est proposé par la disposition, sans certitude syntaxique. **l.~11--15 :** La comparaison des particules de neige à des grains de diamant et la buée confondant terre et ciel sont autographes.
+**l.~9--10 :** Addition interlinéaire « compartiment », au-dessus de Varennes et sous la fin de installé 2e cl. ; le rattachement à la ligne 9 est proposé par la disposition, sans certitude syntaxique. **l.~11--15 :** La comparaison des particules de neige à des grains de diamant et la buée confondant terre et ciel sont autographes.
 
 > **Départ et correspondance :** Le 26 janvier, deux sacs sont pris par la voiture du service postal, puis Combes gagne la station à pied. Varennes est un repère écrit à propos des vitres; le nom technique Acheux--Varennes et la voie métrique demandent une source ferroviaire. Arrivée à Gézaincourt 4 h 30, départ 10 h 30, avec trois heures de retard annoncées pour le train de Doullens. Le carnet décrit l’attente mais n’en attribue pas toutes les six heures au seul retard.
 
@@ -6275,7 +6275,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~13--15 :** Combes écrit avoir cru revoir sa mère et ses sœurs l’attendant à la gare. Le récit familial de Pierre Combes rapporte la mort de Maria à Carthage en 1903, de sa mère Anaïs Alric à Toulouse en 1907 et de Joséphine à Nogent-le-Rotrou en octobre 1914 (*Biographie Hippolyte Combes par son petit-fils Pierre Combes*, passages biographiques consacrés aux trois décès). Leurs noms et dates ne figurent pas dans cette entrée.
 
-> **Retour à Toulouse :** Le 28 janvier, arrivée 8 h 15, souvenirs de mère et sœurs, rangement à l’appartement, visite d’oncle Émile à 10 h 30, puis Sainte-Marie. Le récit familial donne Anaïs Alric (1838--1907), Maria(1875--1903) et Joséphine(1873--1914), éclairant ce souvenir sans inscrire leurs noms dans le texte. L’identification d’Émile Crouzet(1842--1921) est plausible d’après Combes-annexe, qui fournit ces dates; le seul prénom du carnet n’en est pas une preuve autonome.
+> **Retour à Toulouse :** Le 28 janvier, arrivée 8 h 15, souvenirs de mère et sœurs, rangement à l’appartement, visite d’oncle Émile à 10 h 30, puis Sainte-Marie. Le récit familial donne Anaïs Alric (1838--1907), Maria (1875--1903) et Joséphine (1873--1914), éclairant ce souvenir sans inscrire leurs noms dans le texte. L’identification d’Émile Crouzet (1842--1921, agent de change à Toulouse, témoin de 39 ans sur l’acte de naissance n° 139 de Marguerite Calmels en 1892) est étayée par l’état civil et Combes-annexe ; le seul prénom du carnet n’en est pas une preuve autonome.
 
 ---
 
@@ -6317,7 +6317,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~2--3 et 10--14 :** Les appréciations très tendres sont autographes. Leur rapprochement avec les lettres et hésitations de décembre peut éclairer le passage, sans établir que toutes les appréhensions avaient définitivement disparu.
 
-> **Sainte-Marie :** Accueil tendre de Margte, visite de Tante et Madeleine, puis arrivée de Jean à 6 h 30. Le rapprochement de Tante avec Élisabeth Calmels, épouse d’Émile Crouzet, et de Jean avec l’abbé Jean Crouzet vient du récit familial (Combes-annexe), non de leurs seuls noms dans cette page. Madeleine Calmels est déjà mariée au docteur Fernand Vincens depuis juillet 1907(Combes-3-part 1). L’effacement définitif des appréhensions de Noël n’est pas établi par la tendresse de cette journée.
+> **Sainte-Marie :** Accueil tendre de Margte, visite de Tante et Madeleine, puis arrivée de Jean à 6 h 30. Le rapprochement de Tante avec Élisabeth Calmels, épouse d’Émile Crouzet, et de Jean avec l’abbé Jean Crouzet vient du récit familial (Combes-annexe), non de leurs seuls noms dans cette page. Madeleine Calmels est déjà mariée au docteur Fernand Vincens depuis juillet 1907 (Combes-3-part 1). L’effacement définitif des appréhensions de Noël n’est pas établi par la tendresse de cette journée.
 
 ---
 
@@ -6369,7 +6369,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~12--15 Visité longuement basilique St-Sernin et surtout les cryptes. Toute ma jeunesse réveillée, dans & autour de cette admirable église romane :** Émotion autobiographique intense : la maison familiale où Hippolyte Combes passa sa jeunesse auprès de ses parents (au 47 puis au 77 rue du Taur à Toulouse) débouchait directement sur la place Saint-Sernin.
 
-> **Fleurs, Saint-Sernin et Labit :** Le 29 janvier, panier de fleurs venu de Nice, puis visite de Saint-Sernin et des cryptes avec Marg.etMadne. Le télégramme à Spagnol de 136 et le mandat de 158 peuvent être rapprochés du panier, sans établir que chaque envoi concernait un même colis. Les Magasins du Capitole et Labit sont nommés. La notice INHA AGORHA 321 sur Georges Labit donne Antoine Labit, fondateur de la Maison Universelle, pour son père; l’identification de l’enseigne ne modifie pas la désignation manuscrite.
+> **Fleurs, Saint-Sernin et Labit :** Le 29 janvier, panier de fleurs venu de Nice, puis visite de Saint-Sernin et des cryptes avec Marg. et Madne. Le télégramme à Spagnol de 136 et le mandat de 158 peuvent être rapprochés du panier, sans établir que chaque envoi concernait un même colis. Les Magasins du Capitole et Labit sont nommés. La notice INHA AGORHA 321 sur Georges Labit donne Antoine Labit, fondateur de la Maison Universelle, pour son père; l’identification de l’enseigne ne modifie pas la désignation manuscrite.
 
 ---
 
@@ -6417,7 +6417,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~10--14 :** Le titre et les appréciations littéraires sont explicites. Le carnet ne situe pas la conférence dans un amphithéâtre. **l.~21 Le Miroir des Modes :** Achat enregistré, sans destinataire indiqué.
 
-> **Zyromski et Guérin :** La conférence sur Maurice de Guérin et l’influence de la Bretagne et de Lamennais est très favorablement appréciée. L’achat de L’Orgueil humain signé Zyromski apparaît à 053; le catalogue BnF confirme Ernest Zyromski, Maurice de Guérin, Paris, A. Colin, 1921(notice cb316943304). Ces rapprochements soutiennent l’identification du conférencier. Le lieu, la forme de cours public et la reprise de cette conférence comme chapitre du livre ne sont pas établis.
+> **Zyromski et Guérin :** La conférence sur Maurice de Guérin et l’influence de la Bretagne et de Lamennais est très favorablement appréciée. L’achat de L’Orgueil humain signé Zyromski apparaît à 053; le catalogue BnF confirme Ernest Zyromski, Maurice de Guérin, Paris, A. Colin, 1921 (notice cb316943304). Ces rapprochements soutiennent l’identification du conférencier. Le lieu, la forme de cours public et la reprise de cette conférence comme chapitre du livre ne sont pas établis.
 
 ---
 
@@ -8031,7 +8031,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~7--8 :** Flutre, instituteurs et Normle Supre sont lisibles. Le rapprochement avec le père instituteur et le fils normalien devient fortement étayé par Debrie 1978 ; le complément Martinsart reste un apport prosopographique, non une addition à la transcription. **l.~12--15 :** Le nouveau mess est en face de la maison où il a sa chambre.
 
-> **l.~7--8 :** Le rapprochement avec Fortuné Flutre et son fils Louis-Fernand est fortement étayé : René Debrie, *Nécrologie*, *Revue de linguistique romane*42 (1978), p. 238–240, nomme le père instituteur de Mesnil-Martinsart et situe la naissance du fils dans ce village le 21 juin 1892. Il indique admission à l’ENS en 1914, entrée en 1919 et agrégation en 1921, contre 1913/1920 du commentaire concurrent. La \href{https://catalogue.bnf.fr/ark:/12148/cb122063529}{notice BnF} donne Albert : divergence conservée, sans l’expliquer par une approximation de chef-lieu. L’identification du Mesnil du carnet est prosopographique ; le prénom Ernest, 1862 et 1888 restent à contrôler sur les pièces annoncées.
+> **l.~7--8 :** Le rapprochement avec Fortuné Flutre et son fils Louis-Fernand est fortement étayé : René Debrie, *Nécrologie*, *Revue de linguistique romane* 42 (1978), p. 238–240, nomme le père instituteur de Mesnil-Martinsart et situe la naissance du fils dans ce village le 21 juin 1892. Il indique admission à l’ENS en 1914, entrée en 1919 et agrégation en 1921, contre 1913/1920 du commentaire concurrent. La \href{https://catalogue.bnf.fr/ark:/12148/cb122063529}{notice BnF} donne Albert : divergence conservée, sans l’expliquer par une approximation de chef-lieu. L’identification du Mesnil du carnet est prosopographique ; le prénom Ernest, 1862 et 1888 restent à contrôler sur les pièces annoncées.
 
 ---
 
@@ -8189,7 +8189,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~11 :** Houtteman[?], par comparaison avec la graphie plus distincte du Scan #108 : deux hautes hampes voisines barrées, puis finale -eman/-man. Le rapprochement améliore la lecture sans établir une identité civile. Belle Église Farm est la formule écrite. **l.~13--15 :** Death or Glory Boys et 17th Lancers sont nommés ; aucune division ou destination n’est précisée.
 
-> **l.~11--15 :** Houtteman[?] est rapproché du nom du Scan 108. Les 17 thLancers et Death orGloryBoys sont explicitement nommés. Le \href{https://rlnymuseum.co.uk/royal-lancers/the-17th-lancers/}{musée des Royal Lancers} confirme leur déploiement en France en 1914 dans la 1st Indian Cavalry Division et le changement de brigade en 1918. Ce contexte ne permet pas d’identifier tous les régiments croisés en 1917 ; la composition détaillée de Sialkot et la numérotation 4th restent à vérifier sur la page de Becke citée.
+> **l.~11--15 :** Houtteman[?] est rapproché du nom du Scan 108. Les 17th Lancers et Death or Glory Boys sont explicitement nommés. Le \href{https://rlnymuseum.co.uk/royal-lancers/the-17th-lancers/}{musée des Royal Lancers} confirme leur déploiement en France en 1914 dans la 1st Indian Cavalry Division et le changement de brigade en 1918. Ce contexte ne permet pas d’identifier tous les régiments croisés en 1917 ; la composition détaillée de Sialkot et la numérotation 4th restent à vérifier sur la page de Becke citée.
 
 ---
 
@@ -8584,7 +8584,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~9--13 :** Encadré d’achats et montants : ceinture de cuir, cacao, cartes, semelles et produits de pharmacie ; le total de la ceinture est écrit 24 f 50. **l.~24--25 :** Long talk avec Secd Lt Gilbert, de Jersey, dit très instruit et poète. Cette conversation ouvre la série des mentions de Gilbert dans ces vues, sans définir à elle seule l’intensité ou la durée d’une amitié.
 
-> **l.~3--25 :** Neige et achats du 11 avril, puis conversation avec Secd Lt Gilbert le 13, dit de Jersey, instruit etpoète. Cette origine n’établit pas une langue maternelle française. Les rencontres continuent aux Scans 181, 185 et 186. Le contexteBullecourt du 11 avril est documenté par le \href{https://anzacportal.dva.gov.au/resources/1917-bapaume-and-bullecourt}{Department of Veterans’ Affairs} ; aucune causalité n’est démontrée avec la neige observée ici.
+> **l.~3--25 :** Neige et achats du 11 avril, puis conversation avec Secd Lt Gilbert le 13, dit de Jersey, instruit et poète. Cette origine n’établit pas une langue maternelle française. Les rencontres continuent aux Scans 181, 185 et 186. Le contexte de Bullecourt du 11 avril est documenté par le \href{https://anzacportal.dva.gov.au/resources/1917-bapaume-and-bullecourt}{Department of Veterans’ Affairs} ; aucune causalité n’est démontrée avec la neige observée ici.
 
 ---
 
@@ -8631,7 +8631,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~14--15 :** Home est un emploi adverbial anglais dans une phrase française (« Rentré home »). Il désigne le retour au logement dans ce contexte ; le mot seul ne démontre pas un état affectif ou l’appropriation psychologique du billet.
 
-> **l.~11--22 :** Très fortes pluies le 16 avril, soirée chez les Denis, retourhome, puis neige etgrêle le 17 et tournées à Fréchencourt et Rubempré. La coïncidence du 16 avec le Chemin des Dames fournit un repère chronologique, pas la preuve d’un même régime météorologique.
+> **l.~11--22 :** Très fortes pluies le 16 avril, soirée chez les Denis, retour home, puis neige et grêle le 17 et tournées à Fréchencourt et Rubempré. La coïncidence du 16 avec le Chemin des Dames fournit un repère chronologique, pas la preuve d’un même régime météorologique.
 
 ---
 
@@ -8731,7 +8731,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~12--14 :** Le guide d’A. Martin et une grande carte avec vue de la cathédrale sont portés au compte. La liaison après carte reste douteuse. La formule « pour ma cathédrale » n’est pas une lecture assurée et ne doit pas fonder une interprétation.
 
-> **l.~2--27 :** Canonnade localisée du côté d’Arras ; l’association certaine à la préparation de la seconde bataille de la Scarpe demanderait le passage précis d’un journal d’opérations. PourA. Martin, la \href{https://mediatheques.agglo-larochelle.fr/doc/SYRACUSE/199805/une-visite-a-amiens-par-alexis-martin}{notice patrimoniale de La Rochelle} donne *Une visite à Amiens*, Alexis Martin, Hennuyer, 1896 : rapprochement bibliographique possible, sans remplacer le titre Promenade ds Amiens écrit. Bte Denis n’est pas développé avec certitude en Baptiste.
+> **l.~2--27 :** Canonnade localisée du côté d’Arras ; l’association certaine à la préparation de la seconde bataille de la Scarpe demanderait le passage précis d’un journal d’opérations. Pour A. Martin, la \href{https://mediatheques.agglo-larochelle.fr/doc/SYRACUSE/199805/une-visite-a-amiens-par-alexis-martin}{notice patrimoniale de La Rochelle} donne *Une visite à Amiens*, Alexis Martin, Hennuyer, 1896 : rapprochement bibliographique possible, sans remplacer le titre Promenade ds Amiens écrit. Bte Denis n’est pas développé avec certitude en Baptiste.
 
 ---
 
@@ -8782,7 +8782,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~3 Métier à tisser :** Note très brève après les deux localités ; aucun tisserand à domicile n’est nommé. **l.~8--18 :** Description autographe de la lumière, des bourgeons et des horizons violets.
 
-> **l.~3--25 :** Métier àtisser brièvement noté, sans qualificatif domestique ni production textile indiquée ; vues sur Beaucourt et Montigny, puis lecture chez Mme Mignot avec mention de Louise et soirée chez les Denis. Le lien mère-fille Mignot/Louise et les compléments des toponymes restent à documenter.
+> **l.~3--25 :** Métier à tisser brièvement noté, sans qualificatif domestique ni production textile indiquée ; vues sur Beaucourt et Montigny, puis lecture chez Mme Mignot avec mention de Louise et soirée chez les Denis. Le lien mère-fille Mignot/Louise et les compléments des toponymes restent à documenter.
 
 ---
 
@@ -8873,7 +8873,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 **l.~7--9 :** Le regret annoncé porte sur les points de vue et panoramas d’Hérissart ; « c’est la guerre » termine la remarque. La valeur de havre de paix reste une interprétation de ces propos. **l.~16--17 :** Lift et water-cart sont des emprunts anglais : transport obtenu en chemin, sur une voiture à eau. Le type précis et l’unité propriétaire de cette voiture ne sont pas nommés.
 
-> **l.~4--21 :** L’officier revenu de Bournemouth annonce un projet de départ vers Cambrai ; le carnet ne le mène pas jusqu’à réalisation. Deux ressorts cassés, retour àpied puis lift sur water-cart, et conversation avec Gilbert sont écrits. Aucune permission, convalescence, unité propriétaire de la voiture ou mission de poursuite n’est indiquée.
+> **l.~4--21 :** L’officier revenu de Bournemouth annonce un projet de départ vers Cambrai ; le carnet ne le mène pas jusqu’à réalisation. Deux ressorts cassés, retour à pied puis lift sur water-cart, et conversation avec Gilbert sont écrits. Aucune permission, convalescence, unité propriétaire de la voiture ou mission de poursuite n’est indiquée.
 
 ---
 

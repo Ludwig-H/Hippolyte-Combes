@@ -18,7 +18,7 @@ Champs corrigés : historique.
 
 Notice historique proposée :
 
-\textbf{24 septembre 1916 :} Le carnet associe l’achèvement de la hutte, une corvée de green forage à Forceville, des préparatifs de départ encore partiellement réservés et la musique militaire à Acheux. Les dates précèdent les batailles de Morval (25–28 septembre) et de Thiepval Ridge (26–28 septembre), selon Butler, Vol.II, chap.IV, p. 49, note 2. Ce voisinage chronologique fournit un contexte au grondement du canon ; il n’identifie pas avec certitude les tirs entendus ni une participation personnelle à ces offensives. Newton demeure un nom proposé.
+\textbf{24 septembre 1916 :} Le carnet associe l’achèvement de la hutte, une corvée de green forage à Forceville, des préparatifs de départ encore partiellement réservés et la musique militaire à Acheux. Les dates précèdent les batailles de Morval (25–28 septembre) et de Thiepval Ridge (26–28 septembre), selon Butler, Vol. II, chap. IV, p. 49, note 2. Ce voisinage chronologique fournit un contexte au grondement du canon ; il n’identifie pas avec certitude les tirs entendus ni une participation personnelle à ces offensives. Newton demeure un nom proposé.
 
 Sources contrôlées :
 
@@ -54,7 +54,7 @@ Champs corrigés : historique.
 
 Notice historique proposée :
 
-\textbf{Trajet vers Paris :} Après le changement de train à Gézaincourt, le récit donne Amiens vers 8 Hdu soir, puis le croisement de Longueau, des avions nommés Taubes, des bombes, des projecteurs et des obus dans les airs. Il décrit une attaque aérienne au cours du trajet sans permettre d’identifier le modèle exact des appareils. La parenthèse près de Creil demeure difficile et ne doit pas être développée par l’itinéraire supposé.
+\textbf{Trajet vers Paris :} Après le changement de train à Gézaincourt, le récit donne Amiens vers 8 H du soir, puis le croisement de Longueau, des avions nommés Taubes, des bombes, des projecteurs et des obus dans les airs. Il décrit une attaque aérienne au cours du trajet sans permettre d’identifier le modèle exact des appareils. La parenthèse près de Creil demeure difficile et ne doit pas être développée par l’itinéraire supposé.
 
 Sources contrôlées :
 
@@ -223,7 +223,7 @@ Fruits : 2f + 55 c. – Fleurs : 2 f
 
 Notice historique proposée :
 
-\textbf{Purpan et Blagnac :} Les Ruines après Purpan peuvent désigner l’amphithéâtre antique conservé aujourd’hui par le Musée Saint-Raymond ; l’itinéraire rend ce rapprochement plausible sans identifier chaque vestige. ÀBlagnac, le monastère était occupé par des Trappistines, selon la notice municipale, ce qui éclaire la chapelle mentionnée. Le récit porte ma Femme et le compte un sautoir en or, 300 f net 295 f, chez Pfister. Il ne nomme pas le destinataire de cet achat ; l’appellation conjugale est gardée sans modifier le statut matrimonial.
+\textbf{Purpan et Blagnac :} Les Ruines après Purpan peuvent désigner l’amphithéâtre antique conservé aujourd’hui par le Musée Saint-Raymond ; l’itinéraire rend ce rapprochement plausible sans identifier chaque vestige. À Blagnac, le monastère était occupé par des Trappistines, selon la notice municipale, ce qui éclaire la chapelle mentionnée. Le récit porte ma Femme et le compte un sautoir en or, 300 f net 295 f, chez Pfister. Il ne nomme pas le destinataire de cet achat ; l’appellation conjugale est gardée sans modifier le statut matrimonial.
 
 Sources contrôlées :
 
@@ -272,7 +272,7 @@ Tram : 20 c. — Sweets & cakes : 3 f — Bière & limonade : 80 c.
 
 Notice historique proposée :
 
-\textbf{Terre-Cabade :} Après Montaudran et les cinq cloches, Combes et Margte visitent les caveaux des Jésuites et du P.Marie-Antoine, puis échangent des serments au souvenir de notre gd ami et de Josephe. Le Diocèse de Toulouse documente le capucin Marie-Antoine, mort en 1907, et ses obsèques à Terre-Cabade. Le récit familial de Pierre Combes nomme un père d’Adhémar, ami des Combes, et la sœur Joséphine, morte à Nogent en octobre 1914. Ce sont des rapprochements utiles pour les deux allusions ; le carnet ne nomme pas d’Adhémar et le mémoire ne prouve pas ici sa sépulture dans le caveau visité.
+\textbf{Terre-Cabade :} Après Montaudran et les cinq cloches, Combes et Margte visitent les caveaux des Jésuites et du P. Marie-Antoine, puis échangent des serments au souvenir de notre gd ami et de Josephe. Le Diocèse de Toulouse documente le capucin Marie-Antoine, mort en 1907, et ses obsèques à Terre-Cabade. Le récit familial de Pierre Combes nomme un père d’Adhémar, ami des Combes, et la sœur Joséphine, morte à Nogent en octobre 1914. Ce sont des rapprochements utiles pour les deux allusions ; le carnet ne nomme pas d’Adhémar et le mémoire ne prouve pas ici sa sépulture dans le caveau visité.
 
 Sources contrôlées :
 
@@ -349,7 +349,7 @@ Trams : 10, 10, 30 – – Chapelet pr. Bne Maman : 1 f 25
 
 Notice historique proposée :
 
-\textbf{Visites et sortie :} Margte et sa mère viennent à l’appartement ; le récit note ensuite la Chapelle Nazareth, la rue Alsace, le retour en tram vers la Côte Pavée et un départ avec Jean à 9 H 30. Le réseau Calmels et le rapprochement Jean Crouzet sont documentés dans les notices 054 et 058. L’heure près de Nazareth reste difficile. Le mot sanctuaire familial et l’expression revutte ma famille citée d’une autre vue ne prouvent pas la fonction précise de cette chapelle dans cette journée.
+\textbf{Visites et sortie :} Margte et sa mère viennent à l’appartement ; le récit note ensuite la Chapelle Nazareth, la rue Alsace, le retour en tram vers la Côte Pavée et un départ avec Jean à 9 H 30. Le réseau Calmels et le rapprochement Jean Crouzet sont documentés dans les notices 054 et 058. L’heure près de Nazareth reste difficile. Le mot sanctuaire familial et l’expression revu tte ma famille citée d’une autre vue ne prouvent pas la fonction précise de cette chapelle dans cette journée.
 
 Sources contrôlées :
 
@@ -507,7 +507,7 @@ Champs corrigés : historique.
 
 Notice historique proposée :
 
-\textbf{Cantonnement :} La compagnie retrouvée en 066 cantonne à Barlette, près de Ribeaucourt. Combes fait viser son titre de permission à Bernaville, puis trouve une grande chambre à 900 mètres de Barlette. Le compte porte un cadeau 5 fr au Q.M. S.Tait, nom encore proposé. Les lignes n’attribuent pas à Tait une identité complète, ni à la maison la localisation exacte du camp. Le rapprochement avec le 18th Divisional Train est celui documenté en 066.
+\textbf{Cantonnement :} La compagnie retrouvée en 066 cantonne à Barlette, près de Ribeaucourt. Combes fait viser son titre de permission à Bernaville, puis trouve une grande chambre à 900 mètres de Barlette. Le compte porte un cadeau 5 fr au Q.M.S. Tait, nom encore proposé. Les lignes n’attribuent pas à Tait une identité complète, ni à la maison la localisation exacte du camp. Le rapprochement avec le 18th Divisional Train est celui documenté en 066.
 
 Sources contrôlées :
 
@@ -586,7 +586,7 @@ belle chambre, 1 vrai salon.
 
 Notice historique proposée :
 
-\textbf{Forêt etlune :} Le 9 octobre, Combes décrit une forêt proche de la route, des arbres qu’il juge plusieurs fois séculaires, puis le bruissement du vent. Le bois de Ribeaucourt, nommé le 11 octobre (vue 072), est un rapprochement géographique plausible ; cette vue ne nomme pas la forêt ni la route. Le retour du mess se fait sous la lune, et Combes note son plaisir dans la grande chambre. Il ne déclare pas une journée entière sans service.
+\textbf{Forêt et lune :} Le 9 octobre, Combes décrit une forêt proche de la route, des arbres qu’il juge plusieurs fois séculaires, puis le bruissement du vent. Le bois de Ribeaucourt, nommé le 11 octobre (vue 072), est un rapprochement géographique plausible ; cette vue ne nomme pas la forêt ni la route. Le retour du mess se fait sous la lune, et Combes note son plaisir dans la grande chambre. Il ne déclare pas une journée entière sans service.
 
 Sources contrôlées :
 
@@ -604,7 +604,7 @@ Champs corrigés : historique.
 
 Notice historique proposée :
 
-\textbf{Fourragevert :} Le 10 octobre, matin et après-midi sont occupés au green forage. Combes conduit des fourragères, surveille le chargement de luzerne et observe les bois à quelque 40 ou 50 mètres. Cette activité prolonge les corvées de fourrage des vues 049–050, après son retour à la 152 Coy en 066. La description des feuillages et de la lune accompagne ainsi une tâche de ravitaillement ; elle ne prouve pas l’usage de tout ce chargement par les seuls attelages de sa compagnie.
+\textbf{Fourrage vert :} Le 10 octobre, matin et après-midi sont occupés au green forage. Combes conduit des fourragères, surveille le chargement de luzerne et observe les bois à quelque 40 ou 50 mètres. Cette activité prolonge les corvées de fourrage des vues 049–050, après son retour à la 152 Coy en 066. La description des feuillages et de la lune accompagne ainsi une tâche de ravitaillement ; elle ne prouve pas l’usage de tout ce chargement par les seuls attelages de sa compagnie.
 
 Sources contrôlées :
 
@@ -677,7 +677,7 @@ Champs corrigés : historique.
 
 Notice historique proposée :
 
-\textbf{Marche vers Warloy-Baillon :} Le 16 octobre, le départ de Beauval à 7 H 30 est suivi du passage par Beauquesne, d’une halte au-delà de Puchevillers et d’une arrivée vers 6 Hdu soir à Warloy-Baillon. Combes note les nombreux convois A.S.C. et R.F.A. et les bataillons d’infanterie, puis un camp sous tentes près de la route de Senlis. La durée entre les horaires est d’environ dix heures et demie, sans être une mesure du seul temps de marche. Le carnet ne désigne pas ici les services médicaux du village.
+\textbf{Marche vers Warloy-Baillon :} Le 16 octobre, le départ de Beauval à 7 H 30 est suivi du passage par Beauquesne, d’une halte au-delà de Puchevillers et d’une arrivée vers 6 H du soir à Warloy-Baillon. Combes note les nombreux convois A.S.C. et R.F.A. et les bataillons d’infanterie, puis un camp sous tentes près de la route de Senlis. La durée entre les horaires est d’environ dix heures et demie, sans être une mesure du seul temps de marche. Le carnet ne désigne pas ici les services médicaux du village.
 
 Sources contrôlées :
 
@@ -695,7 +695,7 @@ Champs corrigés : historique.
 
 Notice historique proposée :
 
-\textbf{Bivouac et départ :} Après les comptes du 16 octobre, l’entrée du 17 décrit une nuit sous tente près de deux officiers, le froid, une demi-lune argentée et le mouvement du camp. Les régiments d’infanterie partent d’abord, puis Combes se met en route à 10 H. Il qualifie de nouvelles les sensations du bivouac ; cela ne suffit pas à établir sa toute première nuit sous toile. La vue 077 poursuit l’étape au-delà de Senlis.
+\textbf{Bivouac et départ :} Après les comptes du 16 octobre, l’entrée du 17 décrit une nuit sous tente près de deux officiers (dont le Lt Ford, rapprochable du Capt. E. M. Ford, M.C., attesté au 18th Divisional Train par Nichols, 1922, p. 432), le froid, une demi-lune argentée et le mouvement du camp. Les régiments d’infanterie partent d’abord, puis Combes se met en route à 10 H. Il qualifie de nouvelles les sensations du bivouac ; cela ne suffit pas à établir sa toute première nuit sous toile. La vue 077 poursuit l’étape au-delà de Senlis.
 
 Sources contrôlées :
 
@@ -751,7 +751,7 @@ Champs corrigés : title, critique, historique.
 
 Notice historique proposée :
 
-\textbf{Circulation logistique :} Cette suite de 078 compare le flot nocturne et diurne de lorries et de caissons à celui d’une artère de capitale. La prise de Regina Trench par la 53e Brigade le 21 octobre est attestée par Nichols, p. 131 ; elle fournit un contexte proche, mais n’identifie ni les unités ni la destination de chacun des convois observés le 18. Le compte Albert, missionfrse :84 fr ne précise pas qu’il s’agit de solde.
+\textbf{Circulation logistique :} Cette suite de 078 compare le flot nocturne et diurne de lorries et de caissons à celui d’une artère de capitale. La prise de Regina Trench par la 53e Brigade le 21 octobre est attestée par Nichols, p. 131 ; elle fournit un contexte proche, mais n’identifie ni les unités ni la destination de chacun des convois observés le 18. Le compte Albert, mission frse : 84 fr ne précise pas qu’il s’agit de solde.
 
 Sources contrôlées :
 
@@ -770,7 +770,7 @@ Champs corrigés : critique, historique.
 
 Notice historique proposée :
 
-\textbf{Brickfieldarea :} Le 19 octobre, Combes quitte le camp vers 11 H et arrive vers 1 H dans un secteur noté brickfield area, où des tentes et abris sont dressés sous la pluie. Il trouve une chambre à 300 ou 400 mètres et entend toute la nuit une forte canonnade. Les mentions d’Abel, fils de la maison, en 082, de la famille Duchâteau en 087 et de Victor Duchâteau en 091 peuvent éclairer ses hôtes, mais ne prouvent pas à elles seules l’identité exacte du bailleur. La localisation précise du secteur de briqueteries demande une carte.
+\textbf{Brickfield area :} Le 19 octobre, Combes quitte le camp vers 11 H et arrive vers 1 H dans un secteur noté brickfield area, où des tentes et abris sont dressés sous la pluie. Il trouve une chambre à 300 ou 400 mètres et entend toute la nuit une forte canonnade. Les mentions d’Abel, fils de la maison, en 082, de la famille Duchâteau en 087 et de Victor Duchâteau en 091 peuvent éclairer ses hôtes, mais ne prouvent pas à elles seules l’identité exacte du bailleur. La localisation précise du secteur de briqueteries demande une carte.
 
 Sources contrôlées :
 
@@ -845,12 +845,12 @@ Champs corrigés : historique.
 
 Notice historique proposée :
 
-\textbf{Cratère de La Boisselle :} Combes visite des german dug-outs avec deux officiers et note un énorme cratère sur la droite. Un rapprochement avec Lochnagar est plausible, mais le carnet ne le nomme pas et ne précise pas le trajet suivi. La fondation qui conserve Lochnagar date son explosion du 1 erjuillet 1916 à 7 H 28, par la 179th Tunnelling Company, Royal Engineers ; sa notice statistique donne 60000 lbs d’ammonal, environ 27 tonnes. Ces renseignements concernent le site proposé, ils ne rendent pas certaine l’identification de la vision de Combes.
+\textbf{Cratère de La Boisselle :} Combes visite des german dug-outs avec deux officiers et note un énorme cratère sur la droite. Un rapprochement avec Lochnagar est plausible, mais le carnet ne le nomme pas et ne précise pas le trajet suivi. La fondation qui conserve Lochnagar date son explosion du 1er juillet 1916 à 7 H 28, par la 179th Tunnelling Company, Royal Engineers ; sa notice statistique donne 60 000 lbs d’ammonal, environ 27 tonnes. Ces renseignements concernent le site proposé, ils ne rendent pas certaine l’identification de la vision de Combes.
 
 Sources contrôlées :
 
 - https://www.lochnagarcrater.org/ — Fondation propriétaire du cratère : mine de 179th Tunnelling Company Royal Engineers explosée le 1 juillet 1916 à 7 h 28. Cette histoire du site ne prouve pas que le cratère non nommé du carnet soit celui-ci.
-- https://www.lochnagarcrater.org/history/statistics/ — Fondation Lochnagar, Statistics : charge de 60000 lbs (27216 kg) d’ammonal. Le chiffre est un renseignement externe sur Lochnagar, dont le rapprochement avec le carnet reste hypothétique.
+- https://www.lochnagarcrater.org/history/statistics/ — Fondation Lochnagar, Statistics : charge de 60 000 lbs (27216 kg) d’ammonal. Le chiffre est un renseignement externe sur Lochnagar, dont le rapprochement avec le carnet reste hypothétique.
 
 ## Vue 085 — 20251126_104418.jpg
 
@@ -1029,11 +1029,11 @@ Tout l'après-midi, perdu temps —
 
 Notice historique proposée :
 
-\textbf{Grose et l’ordre écrit :} Après avis au bureau de mission et visite à Pizzi, Combes obtient au Train Office la signature de Col. Grose pour accompagner Curtis. Nichols, 1922, p. 107, nomme D.C.E.Grose, A.S.C., comme commandant du Divisional Train à Thiepval. La London Gazette du 4 juin 1917, p. 5470, donne le nom complet Daniel Charles Evans Grose, A.S.C. Ces concordances rendent le rapprochement très plausible, sans que la Gazette seule établisse son commandement. Les motifs psychologiques ou juridiques de la demande d’ordre écrit ne sont pas déclarés ; les fonctions de Hughes et Serpin restent à préciser.
+\textbf{Grose et l’ordre écrit :} Après avis au bureau de mission et visite à Pizzi, Combes obtient au Train Office la signature de Col. Grose pour accompagner Curtis. Nichols, 1922, p. 107, nomme D. C. E. Grose, A.S.C., comme commandant du Divisional Train à Thiepval. La London Gazette du 4 juin 1917, p. 5470, donne le nom complet Daniel Charles Evans Grose, A.S.C. Ces concordances rendent le rapprochement très plausible, sans que la Gazette seule établisse son commandement. Les motifs psychologiques ou juridiques de la demande d’ordre écrit ne sont pas déclarés ; les fonctions de Hughes et Serpin restent à préciser.
 
 Sources contrôlées :
 
-- edition_philologique/relecture_integrale_2026_10/sources/nichols_18th_division_1922.pdf — G.H.F.Nichols, The 18th Division in the Great War, 1922, p. 107 (PDF 146) : table Order of Battle at Thiepval, D.C.E.Grose commandant du Divisional Train. Page imprimée inspectée visuellement. URL https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf
+- edition_philologique/relecture_integrale_2026_10/sources/nichols_18th_division_1922.pdf — G.H.F.Nichols, The 18th Division in the Great War, 1922, p. 107 (PDF 146) : table Order of Battle at Thiepval, D. C. E. Grose commandant du Divisional Train. Page imprimée inspectée visuellement. URL https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf
 - https://www.thegazette.co.uk/London/issue/30111/supplement/5470/data.pdf — London Gazette, supplément 4 juin 1917, p. 5470 : Lt.-Col. Daniel Charles Evans Grose, A.S.C. La liste donne le nom complet et l’arme ; Nichols 107 atteste séparément le commandement du Train.
 
 ## Vue 091 — 20251126_104623.jpg
@@ -1048,7 +1048,7 @@ Champs corrigés : historique, title.
 
 Notice historique proposée :
 
-\textbf{Levy et comptes :} Le 2 novembre au soir, Combes rencontre Major Levy à Raincheval, avec le sigle D.O.S.T. non développé. La vue 166 du 11 mars 1917 note une demande instante du Major Levy pour son maintien au Purchase Board ; ce parallèle éclaire leur relation sans identifier toute la direction du ravitaillement. Le compte porte Donné à Victor Duchâteau :5 f, puis Mission Albert:58 f 75, avec 30 f retenus pour 6 jours de permission. Ni la qualité exacte de Victor, ni une périodicité de quinzaine, ni une règle générale d’indemnité ne sont précisées.
+\textbf{Levy et comptes :} Le 2 novembre au soir, Combes rencontre Major Levy à Raincheval, avec le sigle D.O.S.T. non développé. La vue 166 du 11 mars 1917 note une demande instante du Major Levy pour son maintien au Purchase Board ; ce parallèle éclaire leur relation sans identifier toute la direction du ravitaillement. Le compte porte Donné à Victor Duchâteau : 5 f, puis Mission Albert : 58 f 75, avec 30 f retenus pour 6 jours de permission. Ni la qualité exacte de Victor, ni une périodicité de quinzaine, ni une règle générale d’indemnité ne sont précisées.
 
 Sources contrôlées :
 
@@ -1084,7 +1084,7 @@ Champs corrigés : historique.
 
 Notice historique proposée :
 
-\textbf{Second cliché :} La photographie 20251126_104647.jpg reprend la même page que 091(20251126_104623.jpg), avec la visite à Levy, le don à Victor Duchâteau et les comptes de la mission. Les deux images ont été confrontées séparément, traits et sommes compris. Elles ne constituent pas deux épisodes distincts. Comme en 091, la nature du don, le développement D.O.S.T. et le règlement général de solde restent non précisés.
+\textbf{Second cliché :} La photographie 20251126_104647.jpg reprend la même page que 091 (20251126_104623.jpg), avec la visite à Levy, le don à Victor Duchâteau et les comptes de la mission. Les deux images ont été confrontées séparément, traits et sommes compris. Elles ne constituent pas deux épisodes distincts. Comme en 091, la nature du don, le développement D.O.S.T. et le règlement général de solde restent non précisés.
 
 Sources contrôlées :
 
@@ -1124,7 +1124,7 @@ Dès 8h 1/2, ds ma chambre.
 
 Notice historique proposée :
 
-\textbf{Logement et mission :} Combes quitte le billet 59 pour une chambre no 1, route de Léalvillers ; le propriétaire est dit sympathique mais n’est pas nommé. Des mentions ultérieures (102, 118, 146–148) permettent de proposer un rapprochement avec le tailleur Carluvant[?], sans assurer la continuité du même logement jusqu’au 7 février. Vth Army troops s’accorde avec le nouveau nom Fifth Army donné à la Reserve Army le 30 octobre 1916 (Butler, Vol.II, p. 52, note 6). Le petit ajout avant corps reste non établi : il ne permet pas de certifier XIIIe ni la fonction de chef de mission du Cap. Huguet.
+\textbf{Logement et mission :} Combes quitte le billet 59 pour une chambre no 1, route de Léalvillers ; le propriétaire est dit sympathique mais n’est pas nommé. Des mentions ultérieures (102, 118, 146–148) permettent de proposer un rapprochement avec le tailleur Carluvant[?], sans assurer la continuité du même logement jusqu’au 7 février. Vth Army troops s’accorde avec le nouveau nom Fifth Army donné à la Reserve Army le 30 octobre 1916 (Butler, Vol. II, p. 52, note 6). Le petit ajout avant corps reste non établi : il ne permet pas de certifier XIIIe ni la fonction de chef de mission du Cap. Huguet.
 
 Sources contrôlées :
 
