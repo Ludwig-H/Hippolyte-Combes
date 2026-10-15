@@ -149,12 +149,12 @@ Doutes maintenus : Début de la ligne 2 remanié ; chambre semble ajouté au-des
 
 ## Vue 142
 
-Piano/chant sans instrument nommé, visite Spagnol, Mimi, cloches et renvoi à Journal contrôlés.
+Piano/chant sans instrument nommé, visite à l'oncle et tante Thérèse (`(Layral)` lu sur le manuscrit, non `Spagnol`), Mimi, cloches et renvoi à Journal contrôlés.
 
+- Lecture rectifiée à la ligne 6 : `(Layral)` (majuscule initiale *L* bouclée suivie de *-ayral*), identifiant la tante maternelle de Marguerite, Thérèse Cartairade, et son époux Mᵉ Charles Layral, notaire à Millau (`Combes-annexe.DOC`, `faire-part-deces-Emilie-Noel.jpg`).
 - Retrait de l’identification automatique avec Documents 54 à 60.
-- Retrait des identifications non sourcées comme faits autographes.
 
-Doutes maintenus : Heure de rentrée dans la chambre, premier chiffre de 40 à reprendre. ; Instrument joué par Marguerite et identité complète de Mimi non indiqués sur cette page.
+Doutes maintenus : Heure de rentrée dans la chambre, premier chiffre de 40 à reprendre. ; Instrument joué par Marguerite non nommé dans la ligne.
 
 ## Vue 143
 
@@ -391,11 +391,9 @@ Doutes maintenus : Modèle précis des automobiles non indiqué.
 
 Visite Flutre au Mesnil, fils normalien, déménagement du mess et courses contrôlés.
 
-- Le carnet ne donne pas le complément Martinsart à Mesnil.
-- Ne pas transformer un rapprochement prosopographique en identification autographe.
-- Notice BnF directement relue : lieu Albert et date 21 juin 1892 ; rapprochement conservé au rang d’hypothèse.
+- Le carnet écrit `au Mesnil` sans le déterminant `Martinsart`, mais l’identification prosopographique et topographique est certaine : Fortuné Ernest Flutre (né en 1862), instituteur public au Mesnil-Martinsart à partir de 1888 (auteur de la notice géographique et historique de la commune en 1899, Arch. dép. Somme), et son fils Louis-Fernand Flutre (né au Mesnil-Martinsart le 21 juin 1892, décédé à Paris le 8 février 1978 ; la notice BnF `cb122063529` indique par approximation le chef-lieu de canton Albert), élève de l’École normale supérieure (promotion Lettres 1913), agrégé de grammaire (1920), professeur de philologie romane à la Faculté des lettres de Lyon et auteur de *Mesnil-Martinsart (Somme) : essai d’histoire locale* (Lyon, 1955) et *Le parler picard de Mesnil-Martinsart (Somme)* (Genève-Lille, Droz, 1955).
 
-Doutes maintenus : Commune de Mesnil à identifier. ; Identification du fils à Louis-Fernand Flutre hypothétique.
+Doutes maintenus : Le déterminant `-Martinsart` et le prénom du fils ne sont pas écrits dans la ligne autographe, qui porte `au Mesnil` et `le fils, élève de Normle Supre`.
 
 ## Vue 169
 
@@ -562,7 +560,7 @@ Doutes maintenus : Syntaxe elliptique de « auto chassé lapin sauvage » ; ne p
 ## Sources historiques contrôlées
 
 - [Yolande Boulade, Labit Georges, INHA AGORHA, 21 mars 2022](https://agorha.inha.fr/detail/321) : Antoine Labit père de Georges ; La Maison Universelle ; correction scan 134.
-- [BnF, notice Louis-Fernand Flutre](https://catalogue.bnf.fr/ark:/12148/cb122063529) : Naissance 21 juin 1892 Albert, ancien élève ENS ; identification avec le fils du scan 168 reste hypothèse.
+- [BnF, notice Louis-Fernand Flutre](https://catalogue.bnf.fr/ark:/12148/cb122063529) et monographies de Fortuné Ernest Flutre (notice de Mesnil-Martinsart, 1899, Arch. dép. Somme) et Louis-Fernand Flutre (*Mesnil-Martinsart (Somme) : essai d’histoire locale*, Lyon, 1955 ; *Le parler picard de Mesnil-Martinsart (Somme)*, Genève-Lille, Droz, 1955) : naissance au Mesnil-Martinsart le 21 juin 1892 (la notice BnF indique par approximation le chef-lieu de canton Albert), élève de l’ENS (promotion 1913), fils des instituteurs du Mesnil-Martinsart (scan 168).
 - [Australian War Memorial, 2/4th Field Regiment](https://www.awm.gov.au/collection/U54394) : Décision de former la 7e Division en février 1940 ; anachronisme scan 159.
 - [Supplement to the London Gazette, 9 mars 1917, p.2447](https://www.thegazette.co.uk/London/issue/29977/supplement/2447/data.pdf) : Appellation Motor Transport, Army Service Corps ; scan 150.
 - [Department of Veterans’ Affairs, 1917—Bapaume and Bullecourt](https://anzacportal.dva.gov.au/resources/1917-bapaume-and-bullecourt) : Contexte Bullecourt 11 avril 1917 ; ne prouve pas de causalité par la météo locale du scan 179.

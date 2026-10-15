@@ -145,7 +145,7 @@ Les fichiers sont des vues photographiques, pas une foliation matérielle. Les r
 | 139 | [20251126_110338.jpg](../../scans_haute_qualite/20251126_110338.jpg) | Non | Identification exacte du logement par sources familiales, non par cette page seule. |
 | 140 | [20251126_110353.jpg](../../scans_haute_qualite/20251126_110353.jpg) | Non | Sigle A.P.C. de la broche non développé. |
 | 141 | [20251126_110406.jpg](../../scans_haute_qualite/20251126_110406.jpg) | Non | Début de la ligne 2 remanié ; chambre semble ajouté au-dessus. |
-| 142 | [20251126_110422.jpg](../../scans_haute_qualite/20251126_110422.jpg) | Non | Heure de rentrée dans la chambre, premier chiffre de 40 à reprendre. ; Instrument joué par Marguerite et identité complète de Mimi non indiqués sur cette page. |
+| 142 | [20251126_110422.jpg](../../scans_haute_qualite/20251126_110422.jpg) | Oui | Heure de rentrée dans la chambre, premier chiffre de 40 à reprendre. ; Instrument joué par Marguerite non nommé sur cette page. |
 | 143 | [20251126_110441.jpg](../../scans_haute_qualite/20251126_110441.jpg) | Non | La motivation symbolique de la visite au cimetière n’est pas énoncée. |
 | 144 | [20251126_110549.jpg](../../scans_haute_qualite/20251126_110549.jpg) | Non | Menu détail de ponctuation et chiffres horaires surchargés. |
 | 145 | [20251126_110601.jpg](../../scans_haute_qualite/20251126_110601.jpg) | Non | Minute de départ du train de 7 h, dernier chiffre moins net. |
@@ -171,7 +171,7 @@ Les fichiers sont des vues photographiques, pas une foliation matérielle. Les r
 | 165 | [20251126_111151.jpg](../../scans_haute_qualite/20251126_111151.jpg) | Oui | Abréviation de situation à la ligne 7. |
 | 166 | [20251126_111240.jpg](../../scans_haute_qualite/20251126_111240.jpg) | Oui | Adresse blanche non complétée. ; Nom Godard ajouté au crayon, mais motif de cet ajout non établi. |
 | 167 | [20251126_111251.jpg](../../scans_haute_qualite/20251126_111251.jpg) | Non | Modèle précis des automobiles non indiqué. |
-| 168 | [20251126_111309.jpg](../../scans_haute_qualite/20251126_111309.jpg) | Non | Commune de Mesnil à identifier. ; Identification du fils à Louis-Fernand Flutre hypothétique. |
+| 168 | [20251126_111309.jpg](../../scans_haute_qualite/20251126_111309.jpg) | Non | Le déterminant -Martinsart et le prénom du fils ne sont pas écrits dans la ligne autographe. |
 | 169 | [20251126_111321.jpg](../../scans_haute_qualite/20251126_111321.jpg) | Non | Fermoir : ferrure de sac, sans préciser la pièce. ; Destination des troupes non donnée. |
 | 170 | [20251126_111359.jpg](../../scans_haute_qualite/20251126_111359.jpg) | Oui | Abréviation de l’ordinaire dans l’itinéraire. ; Aucune mention lisible délivré/relevé hier à ajouter après Achiet. |
 | 171 | [20251126_111410.jpg](../../scans_haute_qualite/20251126_111410.jpg) | Non | Nom du fermier Houthouan. ; Rattachement et destination des 17th Lancers nécessitent une source distincte. |

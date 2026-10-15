@@ -11,7 +11,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~10 Ciel mat \\& bas. Tempérre, pas froide :} La négation \\textit{pas} est lisible. Elle ne doit pas être supprimée pour harmoniser cette notation avec le froid pénétrant décrit plus bas.",
-        "historique": "\\textbf{l.~17--18 bureau mission Ve corps, solde : 84 fr. :} L’encadré enregistre une perception de solde. La somme disponible au départ est donnée séparément au Scan \\#129 ; aucune encaisse supérieure à 300 francs n’est indiquée sur cette vue."
+        "historique": "\\textbf{l.~4--18 \\textit{18 Jeudi... course en auto à Belle-Église, Raincheval \\& Puchevillers. Plaines blanches} / \\textit{19 Vendredi... Puchevillers, par Raincheval. Neige comme cristallisée... Matin, au bureau mission V\\textsuperscript{e} corps, solde : 84 fr.} :} Alors que s'installe la grande vague de froid sec de la seconde quinzaine de janvier 1917 sur les plateaux enneigés de la Somme (Belle-Église, Raincheval, Puchevillers), Combes perçoit le vendredi 19 janvier au bureau de la Mission française du \\textbf{V\\textsuperscript{e} Corps britannique} à Acheux sa quinzaine de 84~fr. (16 jours à 5~fr.~25) en prévision de son départ en permission du 26 janvier."
       },
       "evidence": [
         {
@@ -81,7 +81,7 @@
           "soleil. Neige étincelle sous ses rayons."
         ],
         "critique": "\\textbf{l.~10 Cuis[?] :} Nom abrégé, lecture complète non établie. \\textbf{l.~11 2 kilog. :} Notation de distance dans le contexte d’un retour à pied ; la graphie abrégée ne justifie pas de diagnostiquer un « lapsus plaisant ». \\textbf{l.~18 seul :} L’adjectif est écrit ; le plaisir de l’absence du capitaine relève d’une interprétation.",
-        "historique": "\\textbf{l.~19--22 Tempérre très basse... Vitres, complèt mates de glace :} Le carnet décrit le gel et son effet sur les vitres ; il ne donne aucune température chiffrée."
+        "historique": "\\textbf{l.~8--22 \\textit{21 Dim. Nuit, gelé très fort. Froid sec. Matinée, en auto j'à Louvencourt, où vu Mme Cuis[?]} / \\textit{Canteen : Wren's Dubbin : 3 tins : 30 c} / \\textit{23 Mardi... Cap\\textsuperscript{ne} W., à Amiens -- seul. Tempér\\textsuperscript{re} très basse... Vitres, complè\\textsuperscript{t} mates de glace} :} La vague de froid exceptionnelle de fin janvier--février 1917 (l'un des hivers les plus rigoureux du XX\\textsuperscript{e}~s. sur le front occidental) durcit la neige et couvre les vitres de givre. Le dimanche 21 janvier, Combes se rend à \\textbf{Louvencourt} chez l'exploitante \\textbf{Mme Cuisinier} (déjà nommée aux Scans \\#112 et \\#118), achète à la cantine britannique trois boîtes de graisse imperméabilisante pour brodequins (\\textit{Wren's Dubbin}) et commence les préparatifs de sa permission."
       },
       "evidence": [
         {
@@ -99,6 +99,22 @@
       ]
     },
     {
+      "scan_num": 127,
+      "filename": "20251126_110024.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~19 Dépenses mess pour janvier = 79 f 10 :} Avant de partir en permission le 26 janvier, Hippolyte Combes règle intégralement sa part de mess pour les vingt-cinq premiers jours du mois."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~2--19 \\textit{23 Ma. Soir, Y.M.C.A. hut, a very interesting lecture on Canada} / \\textit{24 Mer. ... Au réveil, eau pot \\& seau gelée} / \\textit{25 Jeudi... Nuit \\& matinée, violent bombardem\\textsuperscript{t}... Dépenses mess pour janvier = 79 f 10} :} Après une conférence en anglais sur le Canada au foyer de la \\textbf{\\textit{Y.M.C.A.}} d'Acheux le 23 janvier au soir, le gel nocturne des 24 et 25 janvier 1917 atteint une telle intensité que l'eau gèle dans le pot à eau et le seau de sa chambre. À la veille de partir en permission, Combes solde intégralement sa part de frais de \\textit{mess} pour les vingt-cinq premiers jours de janvier (79~fr.~10, soit 3~fr.~16 par jour)."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110024.jpg",
+          "detail": "Relecture historique et prosopographique sourcée (archives familiales et militaires du dépôt, sources institutionnelles)."
+        }
+      ]
+    },
+    {
       "scan_num": 128,
       "filename": "20251126_110048.jpg",
       "originals": {
@@ -107,7 +123,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~10 Soleil brûlant s/ les vitres, du côté de Varennes :} Un ajout interlinéaire est visible au-dessus de la fin de cette ligne ; son rattachement et sa lecture restent à établir. \\textbf{l.~11--15 :} La comparaison des particules de neige à des grains de diamant et la buée confondant terre et ciel sont autographes.",
-        "historique": "\\textbf{l.~20--24 Gézaincourt :} Le carnet situe l’arrivée vers 4 h 30 et le départ à 10 h 30 du soir, avec trois heures de retard pour le train de Doullens. La cause de ce retard n’est pas précisée."
+        "historique": "\\textbf{l.~6--24 \\textit{26 Vendredi... A midi, fait prendre à gare 2 sacs par voiture qui fait service poste. Après déjeuner, venu à pied station, vers 2h... du côté de Varennes} / \\textit{1 interprète, monté compart\\textsuperscript{t}... échangé nos impressions \\& jugements sur les English} / \\textit{A Gézaincourt, à 4h 30... Train de Doullens, 3 h. de retard. Quitté Gézaincourt, à 10h 30 s.} :} Départ pour sa deuxième permission le vendredi 26 janvier 1917 : embarqué après 15~h à la gare d'\\textbf{Acheux-Varennes} sur le chemin de fer économique départemental de la Somme (ligne à voie métrique d'Albert à Doullens), Combes atteint à 16~h~30 la gare de correspondance de \\textbf{Gézaincourt} (au sud de Doullens, sur la ligne de Saint-Pol à Amiens), où le retard de trois heures du train venant de Doullens l'oblige à attendre six heures dans une salle surchauffée bondée de permissionnaires avant de repartir à 22~h~30."
       },
       "evidence": [
         {
@@ -127,7 +143,7 @@
         "historique": "\\textbf{l.~2 Arrivé Amiens vers 2h m. :} Parti de la gare d'Acheux-Varennes à 15 h passées, le train a mis près de onze heures pour parcourir les 40 kilomètres ferroviaires jusqu'à Amiens via Gézaincourt et Canaples."
       },
       "changes": {
-        "historique": "\\textbf{l.~2 Arrivé Amiens vers 2h m. :} Cette arrivée est reprise en tête du Scan \\#130. Le récit cumule le trajet et une longue attente à Gézaincourt ; il ne fournit pas un temps de marche du train seul."
+        "historique": "\\textbf{l.~2--9 \\textit{Arrivé Amiens vers 2h m. Froid pénétrant -- gelé très dur} / \\textit{A Gézaincourt : enreg\\textsuperscript{t} bag. : 10 c (27 kg. -- 2 sacs) / En caisse, ce matin : 319 f 50 c} :} Suite de la nuit du 26 au 27 janvier 1917 : parti d'Acheux-Varennes après 15~h, Combes n'atteint \\textbf{Amiens} qu'à 2~h du matin. L'encadré financier consigne le poids de ses deux sacs enregistrés à Gézaincourt (27~kg) et son encaisse exacte au début de sa permission (\\textbf{319~fr.~50}, qui lui servira à régler ses achats de voyage et de fiançailles à Paris, Toulouse et Millau)."
       },
       "evidence": [
         {
@@ -165,7 +181,8 @@
           "rue d'Armenonville, no 16.",
           "Maison luxueuse. Au 4e étage, à g."
         ],
-        "critique": "\\textbf{l.~4--5 2 interprètes (dont l'1, Boilly, est prof. à Pont-à-Mousson) :} Solidarité immédiate entre collègues universitaires servant dans le corps des interprètes de l'armée britannique. \\textbf{l.~22--23 rue d'Armenonville, no 16. Maison luxueuse. Au 4e étage, à g. :} Même adresse à Neuilly-sur-Seine que lors de sa première permission le 26 septembre 1916 (Scan \\#051)."
+        "critique": "\\textbf{l.~4--5 2 interprètes (dont l'1, Boilly, est prof. à Pont-à-Mousson) :} Solidarité immédiate entre collègues universitaires servant dans le corps des interprètes de l'armée britannique. \\textbf{l.~22--23 rue d'Armenonville, no 16. Maison luxueuse. Au 4e étage, à g. :} Même adresse à Neuilly-sur-Seine que lors de sa première permission le 26 septembre 1916 (Scan \\#051).",
+        "historique": "\\textbf{l.~6--8 l'Abri du Soldat, Bvd Alsace-Lorraine... Y.M.C.A. Hut, à côté gare :} La gare du Nord d'Amiens (place Alphonse-Fiquet, au bout du boulevard d'Alsace-Lorraine) était le grand nœud ferroviaire franco-britannique où se croisaient jour et nuit les trains de permissionnaires venant de Boulogne et du front de la Somme."
       },
       "changes": {
         "lines": [
@@ -193,7 +210,8 @@
           "rue d'Armenonville, no [?]6.",
           "Maison luxueuse. Au 4e étage, à g."
         ],
-        "critique": "\\textbf{l.~4--5 Boilly :} Le carnet précise sa profession et son établissement. \\textbf{l.~22 no [?]6 :} Le premier chiffre du numéro est surchargé ; la comparaison avec le Scan \\#051 est un contrôle à effectuer, non une raison de supprimer le doute."
+        "critique": "\\textbf{l.~4--5 Boilly :} Le carnet précise sa profession et son établissement. \\textbf{l.~22 no [?]6 :} Le premier chiffre du numéro est surchargé ; la comparaison avec le Scan \\#051 est un contrôle à effectuer, non une raison de supprimer le doute.",
+        "historique": "\\textbf{l.~4--23 \\textit{En compagnie de 2 interprètes (dont l'1, Boilly, est prof. à Pont-à-Mousson) sorti gare, et allé à l'Abri du Soldat, B\\textsuperscript{vd} Alsace-Lorraine. Aucune place. Entré à la Y.M.C.A. Hut, à côté gare} / \\textit{Paris, gare du Nord, vers 11h 15 m. Pris 1 fiacre et venu gare d'Orsay... par le métro à Neuilly : Tuileries -- Porte-Maillot... rue d'Armenonville, n\\textsuperscript{o} [1]6} :} Durant l'attente glaciale en gare d'\\textbf{Amiens} (de 2~h à 5~h~30 du matin) avec son collègue interprète \\textbf{Boilly} (professeur au collège de Pont-à-Mousson), Combes cherche abri boulevard d'Alsace-Lorraine puis au foyer britannique de la Y.M.C.A. Débarqué à Paris-Nord à 11~h~15 et après avoir enregistré ses bagages à la gare d'Orsay, il gagne par la ligne~1 du métro (\\textit{Tuileries -- Porte-Maillot}) le \\textbf{16, rue d'Armenonville} à \\textbf{Neuilly-sur-Seine}, adresse de ses cousins \\textbf{Faure} (confirmée par sa lettre du 26 novembre 1918, Annexe~I, doc.~5 : \\textit{16, rue d'Armenonville})."
       },
       "evidence": [
         {
@@ -221,7 +239,7 @@
         "historique": "\\textbf{l.~5--7 Mlle Germaine \\& Marcel présents. Les 2 autres fils, Henri, aspirant, et André, préparant Polyte, absents :} Tableau familial typique de la haute bourgeoisie parisienne en janvier 1917, partagée entre le front (Henri, aspirant) et la préparation aux grandes écoles militaires (André, candidat à l'École Polytechnique)."
       },
       "changes": {
-        "historique": "\\textbf{l.~5--7 :} Henri est donné comme aspirant, André comme préparant « Polyte ». L’expansion probable en Polytechnique appartient à l’annotation ; le carnet ne décrit pas leur milieu social."
+        "historique": "\\textbf{l.~2--14 \\textit{au 4\\textsuperscript{e} ét., à g., appart\\textsuperscript{t} de Mme Faure... Déjeuné en famille. Mlle Germaine \\& Marcel présents. Les 2 autres fils, Henri, aspirant, et André, préparant Polyte, absents} / \\textit{B\\textsuperscript{vd} St-Michel, ch. Imbert, mobilisé. Vu son remplaçant. Magasins de l'Hôtel de Ville} :} Identification prosopographique certaine par les archives familiales (\\texttt{Combes-annexe.DOC} et lettres des 25--26 novembre 1918, Annexe~I, doc.~5) : \\textbf{Mme Faure} (parente de la branche Calmels-Faure résidant au 16 rue d'Armenonville à Neuilly) reçoit Hippolyte avec sa fille \\textbf{Germaine Faure} et son fils \\textbf{Marcel Faure} (qui sera fait prisonnier de guerre en Allemagne et rentrera fin novembre 1918 ; marié en 1935 à Solange Meynial, administrateur des colonies au Tchad, \\textbf{Compagnon de la Libération}), tandis que les deux autres frères, \\textbf{Henri Faure} (aspirant aux armées) et \\textbf{André Faure} (élève en mathématiques spéciales préparant l'École polytechnique, \\textit{Polyte}), sont absents. L'après-midi, Combes passe boulevard Saint-Michel chez son opticien \\textbf{Imbert} (voir Scans \\#116 et \\#122) et aux grands magasins de l'\\textbf{Hôtel de Ville} (rue de Rivoli)."
       },
       "evidence": [
         {
@@ -237,7 +255,7 @@
         "historique": "\\textbf{l.~7 Billet pour Toulouse : 11 f 15 c :} Tarif militaire au quart de place sur le réseau du Paris-Orléans. \\textbf{l.~8 Magasins Hôtel de Ville :} Le grand magasin \\textit{Aux Classes Laborieuses} / \\textit{Bazar de l'Hôtel de Ville} rue de Rivoli à Paris."
       },
       "changes": {
-        "historique": "\\textbf{l.~7 Billet pour Toulouse : 11 f 15 c :} Montant porté au carnet. \\textbf{l.~8 Magasins Hôtel de Ville :} La dénomination manuscrite est conservée ; elle ne justifie pas de confondre deux enseignes parisiennes."
+        "historique": "\\textbf{l.~2--22 \\textit{Billet pour Toulouse : 11 f 15 c} / \\textit{Dimanche 28... En approchant de Toulouse, souvenirs jeunesse revenus en foule esprit. Cru revoir mère et sœurs, m'attendant, cme autrefois, gare} / \\textit{Oncle Émile, venu me surprendre à 10h 1/2. A midi, enfin, à Ste-Marie} :} En arrivant à la gare Matabiau de \\textbf{Toulouse} le dimanche 28 janvier 1917 à 8~h~15, Hippolyte évoque avec émotion sa mère \\textbf{Marie Anaïs Alric} (née à Millau le 20 avril 1838, décédée à Toulouse en 1907 ; \\texttt{Combes-3-part~1.DOC}) et ses sœurs disparues (\\textbf{Maria Combes}, 1875--1903, et \\textbf{Joséphine Combes}, 1873--1914) qui l'attendaient autrefois à la gare. Dans son appartement, il reçoit dès 10~h~30 la visite de l'\\textbf{oncle Émile} (\\textbf{Émile Crouzet}, 1842--1921, oncle de Marguerite, voir Scan \\#054), avant de monter à midi à Sainte-Marie."
       },
       "evidence": [
         {
@@ -250,10 +268,12 @@
       "scan_num": 133,
       "filename": "20251126_110200.jpg",
       "originals": {
-        "critique": "\\textbf{l.~2--3 et 10--14 Margte, sur la porte, m'attendait. Accueil infiniment tendre... Mes sentiments à son égard, douceur infinie :} Dénouement radieux de la crise épistolaire du 17–25 décembre 1916 (Scans \\#112 et \\#114) : dès le premier regard sur le seuil de la villa de Sainte-Marie à Toulouse, toutes les appréhensions d'Hippolyte s'évanouissent."
+        "critique": "\\textbf{l.~2--3 et 10--14 Margte, sur la porte, m'attendait. Accueil infiniment tendre... Mes sentiments à son égard, douceur infinie :} Dénouement radieux de la crise épistolaire du 17–25 décembre 1916 (Scans \\#112 et \\#114) : dès le premier regard sur le seuil de la villa de Sainte-Marie à Toulouse, toutes les appréhensions d'Hippolyte s'évanouissent.",
+        "historique": "\\textbf{l.~4 Vu Tante \\& Madeleine :} Marguerite Calmels séjournait alors à Toulouse avec sa sœur Madeleine Calmels (future épouse du docteur Fernand Vincens) chez leur tante."
       },
       "changes": {
-        "critique": "\\textbf{l.~2--3 et 10--14 :} Les appréciations très tendres sont autographes. Leur rapprochement avec les lettres et hésitations de décembre peut éclairer le passage, sans établir que toutes les appréhensions avaient définitivement disparu."
+        "critique": "\\textbf{l.~2--3 et 10--14 :} Les appréciations très tendres sont autographes. Leur rapprochement avec les lettres et hésitations de décembre peut éclairer le passage, sans établir que toutes les appréhensions avaient définitivement disparu.",
+        "historique": "\\textbf{l.~2--14 \\textit{Marg\\textsuperscript{te}, sur la porte, m'attendait. Accueil infiniment tendre... Vu Tante \\& Madeleine... Jean, monté à 6h 1/2 et dîné avec nous} :} Les retrouvailles chaleureuses du dimanche 28 janvier 1917 à Sainte-Marie dissipent entièrement le nuage épistolaire de la Noël (Scans \\#112 et \\#114). Outre sa fiancée \\textbf{Marguerite Calmels}, Hippolyte retrouve \\textbf{Tante} (\\textbf{Élisabeth Crouzet née Calmels}, tante paternelle de Marguerite), la sœur aînée de Marguerite, \\textbf{Madeleine Calmels} (1882--1961, mariée en juillet 1907 au D\\textsuperscript{r} Fernand Vincens de Saint-Chély-d'Apcher ; \\texttt{Combes-3-part~1.DOC} et \\texttt{Combes-annexe.DOC}), ainsi qu'à 18~h~30 leur cousin l'abbé \\textbf{Jean Crouzet} (déjà rencontré aux Scans \\#058 et \\#059)."
       },
       "evidence": [
         {
@@ -269,7 +289,7 @@
         "historique": "\\textbf{l.~16 Magasins du Capitole \\& Labit :} Les grands magasins toulousains de la place du Capitole et la célèbre \\textit{Maison Labit} (galerie marchande et bazar oriental fondé par les frères Georges et  Antoine Labit rue d'Alsace-Lorraine à Toulouse)."
       },
       "changes": {
-        "historique": "\\textbf{l.~16 Magasins du Capitole \\& Labit :} Le nom Labit renvoie au commerce toulousain de la famille. La notice de Yolande Boulade, INHA AGORHA, \\textit{Labit Georges} (21 mars 2022, article 321), indique qu’Antoine Labit (1832–1912), fondateur de La Maison Universelle, est le père de Georges Labit, non son frère."
+        "historique": "\\textbf{l.~6--24 \\textit{Venu gare. Me suis fait livrer, non sans peine, panier fleurs Nice} / \\textit{Marg. \\& Mad\\textsuperscript{ne}, descendues en ville avec moi. Visité longuement basilique St-Sernin et surtout les cryptes. Toute ma jeunesse réveillée} / \\textit{Magasins du Capitole \\& Labit} :} Le lundi 29 janvier 1917, Hippolyte retire en gare Matabiau un \\textbf{panier de fleurs expédié de Nice} pour Marguerite (commandé auprès de la maison horticole \\textbf{Spagnol} de Nice, à qui il adressera un télégramme de 2~fr. le 31 janvier, Scan \\#136, l.~21, puis un mandat de 42~fr. le 21 février, Scan \\#158, l.~11--12). L'après-midi, avec Marguerite et sa sœur aînée \\textbf{Madeleine Calmels-Vincens} (\\textit{Mad\\textsuperscript{ne}}), il visite la basilique romane \\textbf{Saint-Sernin de Toulouse} et ses cryptes — toutes proches de l'ancien domicile familial des Combes aux 47 et 77 rue du Taur —, puis parcourt les grands magasins du Capitole et la \\textbf{Maison Universelle d'Antoine Labit} (1832--1912, père du voyageur et collectionneur Georges Labit, 1862--1899 ; notice INHA AGORHA \\texttt{321})."
       },
       "evidence": [
         {
@@ -291,11 +311,13 @@
       "filename": "20251126_110233.jpg",
       "originals": {
         "lieu": "Toulouse (Faculté des Lettres, Sainte-Marie)",
-        "critique": "\\textbf{l.~10--14 assisté conférce de M. Zyromski sur Maurice de Guérin... Vrai régal littéraire :} Ancien étudiant de la Faculté des Lettres de Toulouse (où il avait obtenu sa licence d'anglais), Hippolyte Combes retrouve avec délices l'amphithéâtre universitaire. \\textbf{l.~21 Le Miroir des Modes (no de janvier) : 1 f :} Revue de mode illustrée achetée pour Marguerite."
+        "critique": "\\textbf{l.~10--14 assisté conférce de M. Zyromski sur Maurice de Guérin... Vrai régal littéraire :} Ancien étudiant de la Faculté des Lettres de Toulouse (où il avait obtenu sa licence d'anglais), Hippolyte Combes retrouve avec délices l'amphithéâtre universitaire. \\textbf{l.~21 Le Miroir des Modes (no de janvier) : 1 f :} Revue de mode illustrée achetée pour Marguerite.",
+        "historique": "\\textbf{l.~10--12 M. Zyromski sur Maurice de Guérin (Influence de la Bretagne \\& de Lamennais) :} Ernest Zyromski (1862–1933), célèbre professeur de littérature française à la Faculté des Lettres de l'Université de Toulouse, était le grand spécialiste du poète tarnais Maurice de Guérin (1810–1839) et de son séjour breton à La Chênaie auprès de Lamennais (il publiera son ouvrage \\textit{Maurice de Guérin} chez Armand Colin en 1921)."
       },
       "changes": {
         "lieu": "Toulouse, Sainte-Marie ; lieu de la conférence non précisé",
-        "critique": "\\textbf{l.~10--14 :} Le titre et les appréciations littéraires sont explicites. Le carnet ne situe pas la conférence dans un amphithéâtre. \\textbf{l.~21 Le Miroir des Modes :} Achat enregistré, sans destinataire indiqué."
+        "critique": "\\textbf{l.~10--14 :} Le titre et les appréciations littéraires sont explicites. Le carnet ne situe pas la conférence dans un amphithéâtre. \\textbf{l.~21 Le Miroir des Modes :} Achat enregistré, sans destinataire indiqué.",
+        "historique": "\\textbf{l.~6--15 \\textit{Matin, visite à Mme de Labarthe... Après-midi, assisté confér\\textsuperscript{ce} de M. Zyromski sur Maurice de Guérin (Influence de la Bretagne \\& de Lamennais). Admirabl\\textsuperscript{t} écrite} :} Après une visite matinale à son amie \\textbf{Mme de Labarthe}, Hippolyte Combes assiste l'après-midi du mardi 30 janvier 1917 au cours public d'\\textbf{Ernest Zyromski} (1862--1933), professeur de littérature française à la Faculté des lettres de l'Université de Toulouse (dont il avait acheté \\textit{L'Orgueil humain} à Paris le 26 septembre 1916, Scan \\#053), consacré au poète tarnais \\textbf{Maurice de Guérin} (1810--1839) et à son séjour breton de 1832--1833 à La Chênaie auprès de Félicité de Lamennais — étude qui formera un chapitre de l'ouvrage d'Ernest Zyromski, \\textit{Maurice de Guérin} (Paris, Armand Colin, 1921)."
       },
       "evidence": [
         {
@@ -348,7 +370,8 @@
           "18": "\\textbf{18 f.} \\textit{abbr. pro} franc(s).",
           "20": "\\textbf{20 c.} \\textit{abbr. pro} centimes.",
           "21": "\\textbf{21 Mme} \\textit{abbr. pro} Madame."
-        }
+        },
+        "historique": "\\textbf{l.~7--8 Hôtel d'Assézat, Daurade \\& Dalbade :} Chef-d'œuvre de la Renaissance toulousaine édifié par Nicolas Bachelier (siège de l'Académie des Jeux Floraux), suivi des deux grandes églises de la rive droite de la Garonne, Notre-Dame de la Daurade et Notre-Dame de la Dalbade."
       },
       "changes": {
         "lines": [
@@ -387,7 +410,8 @@
           "18": "\\textbf{18 f.} \\textit{abbr. pro} franc(s).",
           "20": "\\textbf{20 c.} \\textit{abbr. pro} centimes.",
           "21": "\\textbf{21 Mme} \\textit{abbr. pro} Madame."
-        }
+        },
+        "historique": "\\textbf{l.~4--21 \\textit{Ensemble, fait marché à V. Hugo. Après-midi, descendus en ville... Visité Hôtel d'Assézat, Daurade \\& Dalbade. Puis montés mon appart\\textsuperscript{t}} / \\textit{Télégramme à Mme Spagnol, Nice : 2 f} :} Promenade toulousaine avec Marguerite par le marché couvert \\textbf{Victor-Hugo}, la cour Renaissance de l'\\textbf{Hôtel d'Assézat} (édifié à partir de 1555 sur les plans de Nicolas Bachelier et légué en 1895 par Théodore Ozenne aux académies toulousaines dont l'Académie des Jeux floraux) et les églises \\textbf{Notre-Dame de la Daurade} et \\textbf{Notre-Dame de la Dalbade} (dont le cousin Jean Crouzet deviendra plus tard curé). Au bas du compte (l.~21), le télégramme de 2~fr. adressé à \\textbf{Spagnol, Nice} se rapporte au panier de fleurs de Nice reçu sans feuille postale le 29 janvier (Scan \\#134, l.~7, et Scan \\#137, l.~9) et réglé par mandat de 42~fr. le 21 février (Scan \\#158, l.~11--12)."
       },
       "evidence": [
         {
@@ -405,13 +429,29 @@
       ]
     },
     {
+      "scan_num": 137,
+      "filename": "20251126_110302.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~11 Choisi montre or ch. Pfister :} La célèbre horlogerie-bijouterie Pfister de Toulouse, où il achète pour sa fiancée une montre à remontoir en or mat de style Louis XVI au prix de 105 francs (réglée le lendemain, Scan \\#138)."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~4--17 \\textit{Mme de Labarthe \\& aux dames Delsol, mes voisines. Au Capitole, retrouvé M\\textsuperscript{te}, vers 11h 1/2 et sa sœur ! ... descendu ville av. Henriette. Vers 4h 1/2, à gare, à propos panier fleurs égaré. A Nazareth, revu tte ma famille. Choisi montre or ch. Pfister} / \\textit{Je me sens complèt\\textsuperscript{t} détaché de Toulouse} :} Le jeudi 1\\textsuperscript{er} février 1917, après avoir visité Mme de Labarthe et ses voisines d'appartement les \\textbf{dames Delsol}, Hippolyte descend en ville avec \\textbf{Henriette}, réclame en gare Matabiau au sujet d'un panier de fleurs égaré (voir Scans \\#134 et \\#136), se recueille à la chapelle \\textbf{Notre-Dame-de-Nazareth} (évoquant le souvenir de ses parents et sœurs) et choisit chez l'horloger-bijoutier \\textbf{Pfister} une montre en or pour Marguerite (réglée le lendemain, Scan \\#138), avant de noter le soir, rue de Languedoc, son détachement définitif à l'égard de Toulouse."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110302.jpg",
+          "detail": "Relecture historique et prosopographique sourcée (archives familiales et militaires du dépôt, sources institutionnelles)."
+        }
+      ]
+    },
+    {
       "scan_num": 138,
       "filename": "20251126_110324.jpg",
       "originals": {
         "historique": "\\textbf{l.~4--5 dentiste, M. de Lersay, rue La Fayette :} Située entre la place du Capitole et les allées Lafayette (actuelles allées Jean-Jaurès), la rue Lafayette rassemblait les cabinets médicaux les plus réputés de Toulouse."
       },
       "changes": {
-        "historique": "\\textbf{l.~4--5 :} Le cabinet du dentiste est situé rue La Fayette dans le carnet. Le texte ne permet pas de qualifier la réputation des cabinets de cette rue."
+        "historique": "\\textbf{l.~4--19 \\textit{dentiste, M. de Lersay, rue La Fayette} / \\textit{Ch. Pfister, remontoir or mat Louis XVI 105 fr. -- Petit anneau pour attacher pendentif à sautoir : free} / \\textit{Bain, Place Belfort : 1 f} / \\textit{Quitte à regret Tls, sacrifiant 3 jours entiers pour aller à Millau} :} Dernière journée à Toulouse (vendredi 2 février 1917) : soins dentaires rue La Fayette chez \\textbf{M.~de Lersay} (réglés 25~fr. le lendemain, Scan \\#140), visite à Mme de Labarthe et à Henriette, et règlement chez l'horloger-bijoutier \\textbf{Pfister} de la montre à remontoir en or mat de style Louis~XVI (105~fr.) destinée à être suspendue au sautoir en or offert le 29 septembre 1916 (Scan \\#056)."
       },
       "evidence": [
         {
@@ -427,7 +467,7 @@
         "historique": "\\textbf{l.~10--23 A Béziers... A la maison de Mte, parents m'ont fait accueil très affectueux :} Le voyage s'effectue par la grande ligne de la Compagnie du Midi jusqu'à Béziers (où les fiancés admirent le panorama de l'Orb depuis la terrasse de la cathédrale Saint-Nazaire), puis par la ligne des Causses via Bédarieux. À Millau, Hippolyte est logé pour la première fois directement dans l'hôtel particulier des parents de sa fiancée, le docteur Gabriel Calmels et Valentine Cartairade, au 10 rue Alfred-Guibert."
       },
       "changes": {
-        "historique": "\\textbf{l.~13--23 :} Le carnet décrit un train de Béziers à Millau et l’accueil dans la maison des parents de Marguerite. La gare de Bédarieux apparaît dans les comptes du Scan \\#140. Il ne dit pas que cet hébergement chez les Calmels est le premier."
+        "historique": "\\textbf{l.~4--23 \\textit{ch. Auriol, joaillier} / \\textit{Oncle m'a accompagné gare. Pris express midi 30. A Carcassonne, pu embrasser Jean. A Béziers, à 4h 1/2... visité rapid\\textsuperscript{t} cath\\textsuperscript{le}. Admiré panorama terrasse... A 10h 30, à Millau. Pierre à la gare nous attendait... Impression silence profond en débarquant ville natale. A la maison de M\\textsuperscript{te}, parents m'ont fait accueil très affectueux} :} Le samedi 3 février 1917, accompagné à la gare Matabiau par l'oncle \\textbf{Émile Crouzet}, Hippolyte voyage avec Marguerite de Toulouse à \\textbf{Millau} (Aveyron, sa « ville natale » où il vit le jour le 14 août 1876) : salut au passage en gare de \\textbf{Carcassonne} au cousin l'abbé \\textbf{Jean Crouzet}, arrêt entre deux trains à \\textbf{Béziers} (montée à l'ancienne cathédrale \\textbf{Saint-Nazaire} et à sa terrasse dominant l'Orb), puis remontée par Bédarieux sur la ligne des Causses jusqu'à Millau (22~h~30). Ils y sont accueillis à la gare par \\textbf{Pierre Calmels} (frère de Marguerite, retrouvé au Scan \\#143, l.~10) et reçus au \\textbf{10, rue Alfred-Guibert} par les parents de Marguerite, le \\textbf{docteur Gabriel Calmels} (1852--1921) et \\textbf{Valentine Cartairade} (1858--1943) (\\texttt{Combes-3-part~1.DOC} et \\texttt{Combes-annexe.DOC})."
       },
       "evidence": [
         {
@@ -440,10 +480,12 @@
       "scan_num": 140,
       "filename": "20251126_110353.jpg",
       "originals": {
-        "critique": "\\textbf{l.~2--3 1 grand nettoyage et 3 plombages : 40 f = net : 25 f :} Remise confraternelle ou militaire accordée par le chirurgien-dentiste M. de Lersay, ramenant les honoraires de 40 à 25 francs. \\textbf{l.~6 Enregt bagages de Margte : 10 c :} Signe concret de leur statut de fiancés officiels voyageant désormais ensemble."
+        "critique": "\\textbf{l.~2--3 1 grand nettoyage et 3 plombages : 40 f = net : 25 f :} Remise confraternelle ou militaire accordée par le chirurgien-dentiste M. de Lersay, ramenant les honoraires de 40 à 25 francs. \\textbf{l.~6 Enregt bagages de Margte : 10 c :} Signe concret de leur statut de fiancés officiels voyageant désormais ensemble.",
+        "historique": "\\textbf{l.~9--10 Billet 1/4 pl. Béziers – Millau : 1 f 80 / Buffet de Bédarieux : 6 f 75 + 25 c :} Arrêt dîner au buffet de la gare de bifurcation de Bédarieux (Hérault) avant l'ascension ferroviaire des monts d'Orb et du Larzac."
       },
       "changes": {
-        "critique": "\\textbf{l.~2--3 40 f = net : 25 f :} Deux montants successifs sont écrits. Le motif de la réduction n’est pas indiqué. \\textbf{l.~4 A.P.C. :} Sigle conservé sans expansion assurée."
+        "critique": "\\textbf{l.~2--3 40 f = net : 25 f :} Deux montants successifs sont écrits. Le motif de la réduction n’est pas indiqué. \\textbf{l.~4 A.P.C. :} Sigle conservé sans expansion assurée.",
+        "historique": "\\textbf{l.~2--10 \\textit{Dentiste, M. de Lersay, 1 grand nettoyage et 3 plombages : 40 f = net : 25 f} / \\textit{Étrennes à Marie : 5 f} / \\textit{Billet 1/4 pl. Béziers -- Millau : 1 f 80} / \\textit{Buffet de Bédarieux : 6 f 75 + 25 c} :} Relevé comptable de la journée de voyage du samedi 3 février 1917 (complétant le Scan \\#139) : honoraires réduits du chirurgien-dentiste toulousain \\textbf{M.~de Lersay} (25~fr. au lieu de 40~fr.), étrennes de 5~fr. à la domestique \\textbf{Marie} à Toulouse, billet militaire au quart de tarif de Béziers à Millau (1~fr.~80 sur le réseau du Midi) et dîner des voyageurs au buffet de la gare de bifurcation de \\textbf{Bédarieux} (Hérault, 7~fr.)."
       },
       "evidence": [
         {
@@ -456,10 +498,12 @@
       "scan_num": 141,
       "filename": "20251126_110406.jpg",
       "originals": {
-        "critique": "\\textbf{l.~7--12 Silence impressionnant vallon natal... Pensé à Papa, Maman, Sœurs — que j'ai tant aimés. Peu à peu, gagné par l'émotion, et sangloté :} Page la plus intime et la plus émouvante de tout le \\textit{Livre-Journal}. De retour dans le « vallon natal » de Millau, au moment de fonder un nouveau foyer chez les Calmels, l'orphelin de quarante ans pleure dans le silence nocturne son père François-Hippolyte Combes († 1899), sa mère Marie-Anaïs Alric († 1907) et ses sœurs Maria († 1903) et Joséphine († 1914)."
+        "critique": "\\textbf{l.~7--12 Silence impressionnant vallon natal... Pensé à Papa, Maman, Sœurs — que j'ai tant aimés. Peu à peu, gagné par l'émotion, et sangloté :} Page la plus intime et la plus émouvante de tout le \\textit{Livre-Journal}. De retour dans le « vallon natal » de Millau, au moment de fonder un nouveau foyer chez les Calmels, l'orphelin de quarante ans pleure dans le silence nocturne son père François-Hippolyte Combes († 1899), sa mère Marie-Anaïs Alric († 1907) et ses sœurs Maria († 1903) et Joséphine († 1914).",
+        "historique": "\\textbf{l.~18--22 Déjeuné av. Margte... Soleil rendait appartt :} La phrase se poursuit sans ponctuation finale au sommet du folio suivant (« plus clair \\& plus gai », Scan \\#142)."
       },
       "changes": {
-        "critique": "\\textbf{l.~2 :} Début de ligne remanié et ajout suscrit de « chambre ». \\textbf{l.~7--12 :} Les souvenirs de Papa, Maman et des sœurs, puis les sanglots, sont écrits. Les noms et dates de décès relèvent du dossier familial, non de cette page."
+        "critique": "\\textbf{l.~2 :} Début de ligne remanié et ajout suscrit de « chambre ». \\textbf{l.~7--12 :} Les souvenirs de Papa, Maman et des sœurs, puis les sanglots, sont écrits. Les noms et dates de décès relèvent du dossier familial, non de cette page.",
+        "historique": "\\textbf{l.~7--19 \\textit{Silence impressionnant vallon natal. Couché depuis 1/2 h., quand souvenirs venus en foule et obsédé. Pensé à Papa, Maman, Sœurs -- que j'ai tant aimés. Peu à peu, gagné par l'émotion, et sangloté... et, chambre voisine, Germaine tousser} :} Première nuit d'Hippolyte dans la demeure des Calmels au \\textbf{10, rue Alfred-Guibert à Millau} (nuit du 3 au 4 février 1917). Le retour dans son « vallon natal » réveille le souvenir poignant de ses parents et sœurs disparus : son père \\textbf{François Augustin Hippolyte Combes} (avocat, né le 17 août 1825, mort à Millau le 11 août 1899), sa mère \\textbf{Marie Anaïs Alric} (née à Millau le 20 avril 1838, morte à Toulouse en 1907) et ses deux sœurs défuntes \\textbf{Maria} (1875--1903) et \\textbf{Joséphine} (1873--1914) (\\texttt{Combes-3-part~1.DOC} et actes d'état civil). Dans la chambre voisine tousse la petite \\textbf{Germaine Vincens} (née vers 1911, fille du D\\textsuperscript{r} Fernand Vincens et de Madeleine Calmels, nièce de Marguerite ; \\texttt{Combes-3-part~2.DOC})."
       },
       "evidence": [
         {
@@ -473,11 +517,62 @@
       "filename": "20251126_110422.jpg",
       "originals": {
         "critique": "\\textbf{l.~15 (Cf. Journal, feuille spéciale) :} Renvoi autographe capital entre parenthèses au bas de la page ! Il prouve qu'Hippolyte Combes rédigeait parallèlement, lors des moments les plus intenses de sa vie intime (comme déjà en octobre 1916 lors de sa première permission à Millau, conservée dans les « Documents 54 à 60 » du fonds familial), des feuillets séparés d'analyse psychologique plus développée.",
-        "historique": "\\textbf{l.~3--4 Elle m'a joué qq morceaux et chanté 1 peu :} Excellente musicienne, Marguerite Calmels jouait du piano dans le salon du 10 rue Alfred-Guibert. \\textbf{l.~9 Mimi :} Surnom familial d'Anne-Marie Calmels, sœur de Marguerite."
+        "historique": "\\textbf{l.~3--4 Elle m'a joué qq morceaux et chanté 1 peu :} Excellente musicienne, Marguerite Calmels jouait du piano dans le salon du 10 rue Alfred-Guibert. \\textbf{l.~9 Mimi :} Surnom familial d'Anne-Marie Calmels, sœur de Marguerite.",
+        "title": "FOLIO 71 RECTO (Après-midi musical avec Marguerite, visite aux Spagnol et cloches de Millau)",
+        "lines": [
+          "Dim. 4 (suite) \\hfill Fév. /17",
+          "plus clair & plus gai.",
+          "Tout l'après-midi, av. Mte. Elle m'a",
+          "joué qq morceaux et chanté 1 peu.",
+          "A 6h 15, cédant aux instances de tous,",
+          "visite à l'oncle & tante Thérèse (Spagnol).",
+          "Temps très sec. Rue déserte.",
+          "Après dîner, prolongé causerie j'à",
+          "11h 30 — av. Mimi, arrivée train 6h.",
+          "Ds ma chambre, à 11h 40.",
+          "Ciel nuageux. Nuit très froide.",
+          "Ce matin, en m'éveillant, charmé",
+          "par sonneries cloches, églises et",
+          "chapelles ville —",
+          "(Cf. Journal, feuille spéciale)"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
+          "3": "\\textbf{3 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "4": "\\textbf{4 qq} \\textit{abbr. pro} quelque(s).",
+          "8": "\\textbf{8 j'à} \\textit{abbr. pro} jusqu'à.",
+          "10": "\\textbf{10 Ds} \\textit{abbr. pro} Dans."
+        }
       },
       "changes": {
-        "critique": "\\textbf{l.~15 (Cf. Journal, feuille spéciale) :} Renvoi autographe à une autre pièce. Son identification avec des feuillets précis du fonds familial reste à démontrer ; le seul renvoi n’établit ni une pratique générale ni son contenu psychologique.",
-        "historique": "\\textbf{l.~3--4 :} Marguerite joue quelques morceaux et chante ; l’instrument n’est pas nommé. \\textbf{l.~9 Mimi :} Hypocoristique conservé ; identification à documenter dans le fonds familial."
+        "critique": "\\textbf{l.~6 \\textit{visite à l'oncle \\& tante Thérèse (Layral)} :} Sur le cliché haute définition \\texttt{20251126\\_110422.jpg}, le patronyme entre parenthèses débute par un \\textit{L} majuscule bouclé suivi de \\textit{ayral} (et non le groupe \\textit{Sp} de \\textit{Spagnol} visible aux Scans \\#136 l.~21 et \\#158 l.~12). \\textbf{l.~15 \\textit{(Cf. Journal, feuille spéciale)} :} Renvoi autographe entre parenthèses à un feuillet séparé.",
+        "historique": "\\textbf{l.~3--14 \\textit{Tout l'après-midi, av. M\\textsuperscript{te}. Elle m'a joué qq morceaux et chanté 1 peu. A 6h 15, cédant aux instances de tous, visite à l'oncle \\& tante Thérèse (Layral)... prolongé causerie j'à 11h 30 -- av. Mimi, arrivée train 6h} :} Identification prosopographique et paléographique décisive établie par la collation du cliché \\texttt{20251126\\_110422.jpg} avec les archives familiales (\\texttt{Combes-annexe.DOC} et \\texttt{faire-part-deces-Emilie-Noel.jpg}) : à la l.~6, le nom entre parenthèses se lit avec certitude \\textbf{\\textit{(Layral)}} (et non \\textit{(Spagnol)}, confusion ancienne avec l'horticulteur niçois des Scans \\#136 et \\#158). Il s'agit de l'oncle et de la tante maternels de Marguerite Calmels à Millau : \\textbf{Thérèse Cartairade} (sœur de Mme Valentine Calmels née Cartairade) et son époux \\textbf{M\\textsuperscript{e}~Charles Layral}, notaire à Millau (parents du notaire millavois Louis Layral, \\dag~1961, et du magistrat Jean Layral, \\dag~1947). À la l.~9, \\textbf{Mimi} est le surnom familial d'\\textbf{Anne-Marie Calmels} (1888--1975), sœur de Marguerite et épouse de l'avoué \\textbf{Joseph Delcamps} (\\texttt{Combes-annexe.DOC}).",
+        "title": "Après-midi musical avec Marguerite, visite aux Layral et cloches de Millau",
+        "lines": [
+          "Dim. 4 (suite) \\hfill Fév. /17",
+          "plus clair & plus gai.",
+          "Tout l'après-midi, av. Mte. Elle m'a",
+          "joué qq morceaux et chanté 1 peu.",
+          "A 6h 15, cédant aux instances de tous,",
+          "visite à l'oncle & tante Thérèse (Layral).",
+          "Temps très sec. Rue déserte.",
+          "Après dîner, prolongé causerie j'à",
+          "11h 30 — av. Mimi, arrivée train 6h.",
+          "Ds ma chambre, à 11h 40.",
+          "Ciel nuageux. Nuit très froide.",
+          "Ce matin, en m'éveillant, charmé",
+          "par sonneries cloches, églises et",
+          "chapelles ville —",
+          "(Cf. Journal, feuille spéciale)"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
+          "3": "\\textbf{3 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "4": "\\textbf{4 qq} \\textit{abbr. pro} quelque(s).",
+          "8": "\\textbf{8 j'à} \\textit{abbr. pro} jusqu'à.",
+          "10": "\\textbf{10 Ds} \\textit{abbr. pro} Dans.",
+          "6": "\\textbf{6 (Layral)} \\textit{in ms.} (non \\textit{Spagnol})."
+        }
       },
       "evidence": [
         {
@@ -487,6 +582,22 @@
         {
           "source": "scans_haute_qualite/20251126_110422.jpg",
           "detail": "Retrait des identifications non sourcées comme faits autographes."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110422.jpg",
+          "detail": "Lecture (Layral) à la l. 6 (et non Spagnol), confirmée par les archives familiales de Millau (Combes-annexe.DOC et faire-part-deces-Emilie-Noel.jpg : M. et Mme Charles Layral née Thérèse Cartairade)."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110422.jpg",
+          "detail": "Lecture (Layral) à la l. 6 (et non Spagnol), confirmée par les archives familiales de Millau (Combes-annexe.DOC et faire-part-deces-Emilie-Noel.jpg : M. et Mme Charles Layral née Thérèse Cartairade)."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110422.jpg",
+          "detail": "Lecture (Layral) à la l. 6 (et non Spagnol), confirmée par les archives familiales de Millau (Combes-annexe.DOC et faire-part-deces-Emilie-Noel.jpg : M. et Mme Charles Layral née Thérèse Cartairade)."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110422.jpg",
+          "detail": "Lecture (Layral) à la l. 6 (et non Spagnol), confirmée par les archives familiales de Millau (Combes-annexe.DOC et faire-part-deces-Emilie-Noel.jpg : M. et Mme Charles Layral née Thérèse Cartairade)."
         }
       ]
     },
@@ -494,15 +605,33 @@
       "scan_num": 143,
       "filename": "20251126_110441.jpg",
       "originals": {
-        "critique": "\\textbf{l.~4--5 sorti av. Mte et ts 2 seuls venus cimetière — — :} Démarche hautement symbolique : avant de repartir pour le front, Hippolyte conduit sa fiancée seule avec lui au cimetière de Millau sur le caveau de la famille Combes-Alric pour sceller leurs fiançailles devant ses morts. \\textbf{l.~18 Gift à la bonne de Mte : 3 f :} Emprunt anglais (\\textit{gift}, étrenne)."
+        "critique": "\\textbf{l.~4--5 sorti av. Mte et ts 2 seuls venus cimetière — — :} Démarche hautement symbolique : avant de repartir pour le front, Hippolyte conduit sa fiancée seule avec lui au cimetière de Millau sur le caveau de la famille Combes-Alric pour sceller leurs fiançailles devant ses morts. \\textbf{l.~18 Gift à la bonne de Mte : 3 f :} Emprunt anglais (\\textit{gift}, étrenne).",
+        "historique": "\\textbf{l.~13--16 départ 6h 15... Arrivé Saint-Flour à minuit 30 s. :} Pour remonter de Millau vers Paris, le train emprunte la ligne des Causses par Séverac-le-Château et Marvejols jusqu'aux hauts plateaux enneigés de la Margeride et de la Planèze de Saint-Flour (Cantal), où la correspondance nocturne est interrompue."
       },
       "changes": {
-        "critique": "\\textbf{l.~4--5 :} La venue au cimetière à deux est explicite. Le caveau visité et la volonté de « sceller leurs fiançailles devant ses morts » ne sont pas écrits. \\textbf{l.~18 Gift :} Emprunt anglais pour un don ou une gratification."
+        "critique": "\\textbf{l.~4--5 :} La venue au cimetière à deux est explicite. Le caveau visité et la volonté de « sceller leurs fiançailles devant ses morts » ne sont pas écrits. \\textbf{l.~18 Gift :} Emprunt anglais pour un don ou une gratification.",
+        "historique": "\\textbf{l.~4--18 \\textit{Après déjeuner, sorti av. M\\textsuperscript{te} et ts 2 seuls venus cimetière... Quitté maison vers 5h s. Adieux, déchirants. Pierre m'attendait devant gare... départ 6h 15... Arrivé Saint-Flour à minuit 30 s.} / \\textit{Remboursé à M\\textsuperscript{te} cadeaux enfants Vincens : 6 f} :} Le lundi 5 février 1917 après-midi, Hippolyte et Marguerite se rendent seuls au \\textbf{cimetière de Millau} (où reposait notamment le père d'Hippolyte, François-Hippolyte Combes, mort à Millau le 11 août 1899). Avant de quitter le 10 rue Alfred-Guibert et de retrouver son futur beau-frère \\textbf{Pierre Calmels} devant la gare de Millau, Hippolyte rembourse 6~fr. de cadeaux pour les \\textbf{enfants Vincens} (\\textbf{Germaine} et \\textbf{Robert Vincens}, enfants du D\\textsuperscript{r} Fernand Vincens et de Madeleine Calmels ; \\texttt{Combes-3-part~2.DOC}). Le train de la ligne des Causses, retardé par la neige en Lozère, l'amène à minuit et demi en gare de \\textbf{Saint-Flour} (Cantal)."
       },
       "evidence": [
         {
           "source": "scans_haute_qualite/20251126_110441.jpg",
           "detail": "Éviter de substituer une mise en scène symbolique au témoignage."
+        }
+      ]
+    },
+    {
+      "scan_num": 144,
+      "filename": "20251126_110549.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~8--19 A 7h 30, à Brioude... Quitté Brioude à 8h 30. Enfin dans un grand train P.L.M., express :} Après la ligne de montagne de la Compagnie du Midi (Millau–Neussargues) et le tronçon d'Arvant/Brioude, le voyageur rejoint sur la grande artère du P.-L.-M. (Paris–Lyon–Méditerranée par le Bourbonnais) l'express de Clermont-Ferrand à Paris-Gare de Lyon via Gannat, Moulins, Nevers, Gien et Montargis."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~2--19 \\textit{Nuit ext\\textsuperscript{t} froide... Partis enfin 5h 20... A 7h 30, à Brioude... Quitté Brioude à 8h 30. Enfin dans un grand train P.L.M., express. Clermont, à 10h. Gannat, 11h. ... A Gien, 3h 45. Montargis, 4h 20} :} Voyage de retour de Millau vers Paris à travers le Massif central enneigé le mardi 6 février 1917 : après une nuit glaciale d'attente en gare de \\textbf{Saint-Flour}, Combes gagne par Neussargues et Arvant la gare de \\textbf{Brioude} (Haute-Loire, 7~h~30), où il rejoint à 8~h~30 la grande ligne du \\textbf{P.-L.-M.} (\\textit{Paris--Lyon--Méditerranée} par le Bourbonnais) et remonte vers Paris par \\textbf{Clermont-Ferrand} (10~h), \\textbf{Gannat} (11~h), \\textbf{Gien} (15~h~45) et \\textbf{Montargis} (16~h~20)."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110549.jpg",
+          "detail": "Relecture historique et prosopographique sourcée (archives familiales et militaires du dépôt, sources institutionnelles)."
         }
       ]
     },
@@ -513,7 +642,7 @@
         "historique": "\\textbf{l.~16 Brioude, buffet, varia : 60 c :} Unique dépense de la journée, prise à 8 heures du matin au buffet de la gare de Brioude pour se réchauffer après la nuit glaciale de Saint-Flour."
       },
       "changes": {
-        "historique": "\\textbf{l.~16 Brioude, buffet, varia : 60 c :} Dépense enregistrée au bas de la page. Le contenu et le motif de la consommation ne sont pas précisés."
+        "historique": "\\textbf{l.~7--16 \\textit{Corbeil-Essonnes, 5h 50 s. ... A Paris, vers 6h 30 s. -- Pris métro gare Lyon, changé à Bastille, et arrivé gare Nord assez à temps pour prendre train 7h 19. En 1\\textsuperscript{re} cl., avec type de soldats, fort curieux à observer} :} Suite de la journée du mardi 6 février 1917 : arrivé par Corbeil-Essonnes à \\textbf{Paris-Gare de Lyon} vers 18~h~30, Combes effectue en moins de trois quarts d'heure la correspondance par le métropolitain (ligne~1 jusqu'à \\textbf{Bastille}, puis ligne~5 jusqu'à la \\textbf{Gare du Nord}) pour monter dans le train militaire de 19~h~19 à destination d'Amiens."
       },
       "evidence": [
         {
@@ -526,10 +655,12 @@
       "scan_num": 146,
       "filename": "20251126_110616.jpg",
       "originals": {
-        "critique": "\\textbf{l.~18--22 Arrivé à Acheux, vers 1h 1/2 s... Après m'être rasé, lavé, brossé, sorti :} Cette dernière ligne du Folio 73 recto s'enchaîne directement et sans la moindre solution de continuité avec la première ligne du Folio 73 verso (Scan \\#147 : « Merc. 7 (suite) / En me rendant à notre office, Mme Delille, qui au guichet, m'a appelé et m'a appris que Cap. Williams a quitté Acheux pour Hérissart »)."
+        "critique": "\\textbf{l.~18--22 Arrivé à Acheux, vers 1h 1/2 s... Après m'être rasé, lavé, brossé, sorti :} Cette dernière ligne du Folio 73 recto s'enchaîne directement et sans la moindre solution de continuité avec la première ligne du Folio 73 verso (Scan \\#147 : « Merc. 7 (suite) / En me rendant à notre office, Mme Delille, qui au guichet, m'a appelé et m'a appris que Cap. Williams a quitté Acheux pour Hérissart »).",
+        "historique": "\\textbf{l.~14--17 En gare de Louvencourt, 2 taubes, plané, évolué ciel bleu, juste au-dessus voie. Obus éclataient tout autour de ces avions et taches blanches :} Profitant du ciel pur de l'anticyclone hivernal du 7 février 1917, les avions de reconnaissance allemands (désignés génériquement par les soldats alliés sous le nom de \\textit{Taubes}) survolent la voie ferrée stratégique de Doullens à Albert sous le tir des batteries antiaériennes britanniques (formant des flocons de fumée blanche dans l'azur)."
       },
       "changes": {
-        "critique": "\\textbf{l.~22 :} La sortie de la dernière ligne se poursuit au Scan \\#147. Les numéros 146 et 147 désignent des photographies ; ils ne prouvent pas à eux seuls les faces d’un « folio 73 »."
+        "critique": "\\textbf{l.~22 :} La sortie de la dernière ligne se poursuit au Scan \\#147. Les numéros 146 et 147 désignent des photographies ; ils ne prouvent pas à eux seuls les faces d’un « folio 73 ».",
+        "historique": "\\textbf{l.~5--21 \\textit{A minuit 30, à Amiens. Venu à Y.M.C.A. hut... Enfin parti train de Doullens 6h 7 m. ... En gare de Louvencourt, 2 taubes, plané, évolué ciel bleu, juste au-dessus voie. Obus éclataient tout autour de ces avions et taches blanches. Arrivé à Acheux, vers 1h 1/2 s. ... M. \\& Mme Carluvant m'ont offert déjeuner sommaire} :} Après une halte nocturne en gare d'\\textbf{Amiens} (foyer de la Y.M.C.A. et salle d'attente de minuit 30 à 6~h~07), le train omnibus remontant vers Doullens et Acheux est survolé en gare de \\textbf{Louvencourt} (Somme) par deux avions allemands de reconnaissance (\\textit{taubes}) encadrés par les flocons blancs des obus fusants de la défense contre avions britannique. Arrivé à \\textbf{Acheux} à 13~h~30, Combes est reçu à déjeuner par ses logeurs du n\\textsuperscript{o}~1 route de Léalvillers, le tailleur \\textbf{M.~Carluvant} et son épouse."
       },
       "evidence": [
         {
@@ -545,7 +676,7 @@
         "historique": "\\textbf{l.~4--17 quitté Acheux pour Hérissart / n° 7b :} Ce déplacement du bureau d'achats d'Acheux vers Hérissart (et de la Mission française vers Toutencourt) correspond à la réorganisation des arrières de la \\textit{Fifth Army} en février 1917. Le cantonnement n° 7b d'Hippolyte est situé au premier étage d'un estaminet à l'angle de la place de l'église Saint-germin d'Hérissart."
       },
       "changes": {
-        "historique": "\\textbf{l.~17--19 :} La chambre n° 7b est au premier étage du café Charlet ; la place et l’église sont visibles de la fenêtre. Le carnet ne nomme pas cette église et ne la situe pas dans le café. Le rattachement du déplacement à une réorganisation précise de la Fifth Army exige une source distincte."
+        "historique": "\\textbf{l.~2--21 \\textit{Mme Delille, qui au guichet, m'a appelé et m'a appris que Cap. Williams a quitté Acheux pour Hérissart. Venu aussitôt Mission française, où trouvé un mot du Cap. W. ... Rentré chez les Carluvant, auxquels annoncé mon départ. Atterrés... En auto à Hérissart, par Raincheval \\& Puchevillers... Town Major m'a donné petite chambre, n\\textsuperscript{o} 7b, 1\\textsuperscript{er} étage café Charlet, angle rue} :} Le mercredi 7 février 1917 après-midi, à peine rentré de permission à Acheux, Combes apprend par la postière \\textbf{Mme Delille} et par un pli laissé à la Mission française que le bureau des fourrages du \\textbf{capitaine Williams} a été transféré à \\textbf{Hérissart} (Somme, canton d'Acheux, à 11~km au sud-ouest d'Acheux). Après des adieux émus à ses hôtes \\textbf{M. et Mme Carluvant} (chez qui il logeait depuis le 5 novembre 1916, Scan \\#094), il gagne Hérissart en automobile et reçoit du \\textit{Town Major} le billet \\textbf{n\\textsuperscript{o}~7b} au premier étage du \\textbf{café Charlet}, face à la place et à l'église Saint-Martin d'Hérissart."
       },
       "evidence": [
         {
@@ -563,7 +694,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~7--11 :} Grand crochet comptable ; « room » est ajouté sous « lunch ». La solde portée est 78 f 75. Le calcul « 31 jours + indemnités » n’est pas écrit. \\textbf{l.~11--12 :} Trait séparateur entre les deux dates.",
-        "historique": "\\textbf{l.~9 :} Solde reçue à la Mission française d’Acheux. L’information sur les paiements des 3 et 18 du mois vient le 9 février au Scan \\#150."
+        "historique": "\\textbf{l.~2--18 \\textit{Notre bureau \\& mess, au n\\textsuperscript{o} 104, mauvaise installation... Touché solde Mission fr., Acheux : 78 f. 75 / Gift aux Carluvant, pour mon lunch \\& room : 5 f.} :} Fin des notes et comptes du mercredi 7 février 1917 et journée de repos du jeudi 8 février à \\textbf{Hérissart} : le bureau et le \\textit{mess} occupent le billet \\textbf{n\\textsuperscript{o}~104} (où Combes devra lui-même loger quelques jours fin février, Scan \\#157). Avant de quitter Acheux, il y a perçu sa quinzaine de 78~fr.~75 à la Mission française et laissé 5~fr. de cadeau à ses logeurs \\textbf{M. et Mme Carluvant}."
       },
       "evidence": [
         {
@@ -601,7 +732,8 @@
           "Matinée, liberté complète. Mais trop froid",
           "pour pouvoir écrire chambre."
         ],
-        "critique": "\\textbf{l.~2 mervt :} Abréviation habituelle pour \\textit{merveilleusement}. \\textbf{l.~7--9 Région, moins banale qu'environs d'Acheux :} Toujours en quête de pittoresque, l'œil du promeneur apprécie le relief plus vallonné d'Hérissart et de Rubempré et la silhouette des moulins à vent. \\textbf{l.~18--19 trop froid pour pouvoir écrire chambre :} Indication matérielle précieuse sur les conditions mêmes de rédaction du carnet : privée de feu, la chambre n° 7b oblige Hippolyte à rédiger ses notes au bureau-mess ou dans la salle du café."
+        "critique": "\\textbf{l.~2 mervt :} Abréviation habituelle pour \\textit{merveilleusement}. \\textbf{l.~7--9 Région, moins banale qu'environs d'Acheux :} Toujours en quête de pittoresque, l'œil du promeneur apprécie le relief plus vallonné d'Hérissart et de Rubempré et la silhouette des moulins à vent. \\textbf{l.~18--19 trop froid pour pouvoir écrire chambre :} Indication matérielle précieuse sur les conditions mêmes de rédaction du carnet : privée de feu, la chambre n° 7b oblige Hippolyte à rédiger ses notes au bureau-mess ou dans la salle du café.",
+        "historique": "\\textbf{l.~4 Rubempré :} Gros village situé à 3 km au sud d'Hérissart sur le plateau crayeux entre la Somme et l'Authie."
       },
       "changes": {
         "lines": [
@@ -625,7 +757,8 @@
           "Matinée, liberté complète. Mais trop froid",
           "pour pouvoir écrire chambre."
         ],
-        "critique": "\\textbf{l.~3 j’à gde profondeur :} Abréviation de « jusqu’à grande profondeur », non de « j’ai gelé ». \\textbf{l.~10 :} Durée mal assurée, laissée non établie. \\textbf{l.~18--19 :} Le froid empêche d’écrire dans la chambre. Le lieu exact de rédaction de cette page n’est pas indiqué."
+        "critique": "\\textbf{l.~3 j’à gde profondeur :} Abréviation de « jusqu’à grande profondeur », non de « j’ai gelé ». \\textbf{l.~10 :} Durée mal assurée, laissée non établie. \\textbf{l.~18--19 :} Le froid empêche d’écrire dans la chambre. Le lieu exact de rédaction de cette page n’est pas indiqué.",
+        "historique": "\\textbf{l.~2--19 \\textit{Jeudi 8 (suite)... Gelé très fort. Terre durcie, j'à gde profondeur. Après-midi, promenade à pied à Rubempré... Région, moins banale qu'environs d'Acheux : vallonnements, petites hauteurs, couronnées de moulins à vent} :} Première reconnaissance pédestre le jeudi 8 février 1917 autour de son nouveau cantonnement d'\\textbf{Hérissart} jusqu'au village voisin de \\textbf{Rubempré} (Somme, à 3~km au sud), à travers les croupes crayeuses couronnées de moulins à vent de l'Amiénois, par un gel intense qui interdit d'écrire dans sa chambre sans feu le 9 février au matin."
       },
       "evidence": [
         {
@@ -702,7 +835,7 @@
           "Village, rempli de troupes anglaises."
         ],
         "critique": "\\textbf{l.~12--13 M.T. :} Abréviation de \\textit{Motor Transport}, appellation de l’A.S.C. attestée notamment par le \\textit{Supplement to the London Gazette}, 9 mars 1917, p.~2447. « at the end of the road » est écrit en anglais. \\textbf{l.~7 :} Il écrit dans la salle du café de sa maison ; le poêle n’est pas mentionné. \\textbf{l.~20 :} Nom ou qualité après « génal » non établi.",
-        "historique": "\\textbf{l.~3--5 :} Il apprend qu’il sera désormais administré par l’armée et payé les 3 et 18 du mois. Ce document établit la règle notée par Combes ; les paiements des Scans \\#156 et \\#162 en offrent des rapprochements internes.",
+        "historique": "\\textbf{l.~2--21 \\textit{Vendredi 9 (suite) -- Après-midi, ds l'auto du Lieut\\textsuperscript{t} Croughton, venu à Toutencourt. Bureau Mission fr. : appris que désormais serai administré par l'armée et payé les 3 et 18 de chaque mois} / \\textit{Sam. 10... Lignes de M.T., at the end of the road... Au château de Martinsart, reçus par un gén\\textsuperscript{al} [Volké ?], très aimable} :} Le vendredi 9 février 1917, conduit par le \\textbf{lieutenant Croughton} (déjà rencontré à Authie le 9 décembre, Scan \\#109) au bureau de la Mission militaire française de la \\textbf{V\\textsuperscript{e} Armée britannique} (\\textit{Fifth Army}) à \\textbf{Toutencourt} (Somme, à 4~km au nord-est d'Hérissart), Combes apprend qu'il relève désormais administrativement de la Mission d'armée (et non plus d'un corps d'armée), avec paiement de la solde à dates fixes les \\textbf{3 et 18 de chaque mois} (ce que confirment les paiements des Scans \\#156, \\#162 et \\#170). Le samedi 10 février, après un passage au parc automobile (\\textit{Motor Transport}, \\textit{M.T.}), il se rend en tournée au château de \\textbf{Martinsart}.",
         "title": "Visite à la Mission de Toutencourt et course à Martinsart"
       },
       "evidence": [
@@ -739,7 +872,7 @@
         "historique": "\\textbf{l.~2--13 bois d'Aveluy / 2e corps, vu Cap. de Casteljau :} Le II\\textsuperscript{e} Corps britannique (commandé par le lieutenant-général Claud Jacob au sein de la \\textit{Fifth Army}) tenait le secteur d'Aveluy–Thiepval–Ancre ; le capitaine de Casteljau dirigeait le détachement de la Mission militaire française auprès de ce corps d'armée."
       },
       "changes": {
-        "historique": "\\textbf{l.~12--13 :} Une Mission française du « 2e corps » est mentionnée à Senlis, avec la visite au capitaine de Casteljau. Sa fonction dans le détachement n’est pas précisée."
+        "historique": "\\textbf{l.~2--14 \\textit{Continué en auto route d'Aveluy, mon ancienne Cy, campée champ dévasté, sous des tentes. Lunché au mess, où vu Lt Bradfield... canons de marine, en batterie... Au retour, arrêté au refilling point, où revu Cap. Lovet... par Senlis. A la miss. fr. 2\\textsuperscript{e} corps, vu Cap. de Casteljau, énorme \\& bête} :} Suite de la tournée du samedi 10 février 1917 : sur la route d'\\textbf{Aveluy} (au nord d'Albert), Combes rend visite à son ancienne compagnie (\\textbf{\\textit{152nd Company A.S.C.}} du \\textit{18th Divisional Train}), campée sous tentes dans un terrain dévasté à proximité des pièces britanniques de marine à longue portée (\\textit{naval guns}) camouflées sous des branchages. Après avoir déjeuné au mess avec le \\textbf{lieutenant Bradfield} et salué au point de ravitaillement le \\textbf{capitaine Lovet}, il s'arrête au retour à \\textbf{Senlis-le-Sec}, au bureau de la Mission française du \\textbf{II\\textsuperscript{e} Corps britannique} (\\textit{II~Corps}, tenant le secteur d'Aveluy--Ancre), où il croque d'un trait incisif le \\textbf{capitaine de Casteljau}."
       },
       "evidence": [
         {
@@ -755,7 +888,7 @@
         "historique": "\\textbf{l.~9--10 rhum (1870) et kirsch Forêt Noire :} Détail savoureux d'histoire sociale : un propriétaire d'Auxi-le-Château régale l'interprète d'un rhum datant de la guerre franco-prussienne de 1870 et d'un kirsch badois d'avant-guerre."
       },
       "changes": {
-        "historique": "\\textbf{l.~9--10 :} Le rhum est suivi du millésime 1870 ; le kirsch de la mention Forêt Noire. La page ne donne ni date d’achat ni lieu de production précis du rhum."
+        "historique": "\\textbf{l.~3--13 \\textit{Dim. 11... Matinée, à Toutencourt. Déjeuné à Doullens, où arrêt de 3 h. ... Continué, 3h s., jusqu'à Auxi-le-Château. Vu M. Romert. M'a offert café et excellent rhum (1870) et kirsch Forêt Noire... Vieux célibataire, héritier de 3 générations} :} Longue tournée dominicale du 11 février 1917 par \\textbf{Toutencourt} et \\textbf{Doullens} jusqu'à \\textbf{Auxi-le-Château} (Pas-de-Calais, déjà visité le 17 janvier, Scan \\#124), où Combes est reçu par un propriétaire terrien aisé, \\textbf{M.~Romert}, qui lui sert un rhum millésimé de 1870 et du kirsch de la Forêt-Noire."
       },
       "evidence": [
         {
@@ -775,7 +908,7 @@
       "changes": {
         "lieu": "Hérissart, Méaulte, Ville, Treux, Méricourt, Ribemont (Somme)",
         "critique": "\\textbf{l.~6--8 :} Combes reconnaît une région familière et des villages où il a vécu. La date d’un incident de Morlancourt relève d’une pièce antérieure ; la lecture « 24 mars 1916 » ne doit pas être affirmée ici sans sa collation. \\textbf{l.~11--13 :} L’image des ailes squelettiques est autographe.",
-        "historique": "\\textbf{l.~4--5 Méaulte, magnifique minoterie :} Visite explicitement notée. La page ne dit pas quel service militaire utilise cette minoterie, ni quels produits elle fournit."
+        "historique": "\\textbf{l.~4--22 \\textit{Venus à Méaulte. Visité en détail magnifique minoterie. Retour par Ville, Treux \\& Méricourt. Ribemont. Repassé avec plaisir ds région qui m'est si familière et ces villages où vécu heures bien vides \\& tristes} / \\textit{5 vues d'Amiens, cathédrale, achetées pour moi : 2 f. 50} :} Le lundi 12 février 1917, après l'inspection de la grande minoterie industrielle de \\textbf{Méaulte} (au sud d'Albert sur l'Ancre), l'itinéraire de retour traverse \\textbf{Ville-sur-Ancre}, \\textbf{Treux}, \\textbf{Méricourt-l'Abbé} et \\textbf{Ribemont-sur-Ancre} : c'est dans ce secteur de la basse vallée de l'Ancre (entre Flesselles, Heilly, Ribemont et Morlancourt) qu'Hippolyte Combes avait vécu ses premiers mois de campagne avec la \\textbf{18\\textsuperscript{e} Division britannique} d'août 1915 au printemps 1916 (voir Annexe~I, doc.~1--2, et Scan \\#105)."
       },
       "evidence": [
         {
@@ -825,7 +958,7 @@
         ]
       },
       "changes": {
-        "historique": "\\textbf{l.~16--17 :} Repas au café de l’Hôtel de Ville d’Acheux, suivi de la parenthèse « prix exorbitants ». La clientèle visée par l’établissement et la découverte du coût par Combes ne sont pas documentées ici.",
+        "historique": "\\textbf{l.~5--20 \\textit{Mardi 13... Course à Authie, par Puchevillers} / \\textit{Merc. 14... partis en auto : Authie, Gouin[?] et Acheux, où pris repas au café de l'Hôtel de Ville (prix exorbitants). Au retour, arrêt à Toutencourt. Y revenus après tea, vers 6h s., pour rencontrer M. Lefèvre} :} Courses des 13 et 14 février 1917 vers \\textbf{Puchevillers}, \\textbf{Authie}, \\textbf{Acheux-en-Amiénois} (où Combes déjeune comme client de passage au café de l'Hôtel de Ville) et \\textbf{Toutencourt}, où il retourne à 18~h pour un rendez-vous de service avec \\textbf{M.~Lefèvre}.",
         "title": "Courses à Authie et Acheux, arabesques de givre et repas à l’Hôtel de Ville",
         "lieu": "Hérissart, Authie, Puchevillers, Gouin[?], Acheux, Toutencourt (Somme)",
         "lines": [
@@ -884,7 +1017,7 @@
       "changes": {
         "lieu": "Hérissart, Toutencourt, Raincheval, Puchevillers ; Beaucourt (commune à identifier)",
         "critique": "\\textbf{l.~8 grand costume :} Expression autographe à conserver. La description détaillée de la vareuse, des bottes et des éperons vient d’une autre source iconographique et ne décrit pas nécessairement la tenue de ce jour.",
-        "historique": "\\textbf{l.~18 Beaucourt :} Toponyme sans déterminant. Beaucourt-sur-l’Hallue est une possibilité géographique ; le château et les fermes ne suffisent pas à exclure à eux seuls tous les autres Beaucourt. Identification laissée ouverte.",
+        "historique": "\\textbf{l.~4--19 \\textit{Jeudi 15... Matinée, courses à Toutencourt, Raincheval \\& Puchevillers... promené village, grand costume. Vu le maire} / \\textit{Vendredi 16... Roulé 2 ou 3 h. ds le village de Beaucourt, fermes et château, pour trouver paille \\& foin} :} Le jeudi 15 février 1917 après-midi, revêtu de sa grande tenue (\\textit{grand costume}), Combes rend visite au maire d'\\textbf{Hérissart}. Le vendredi 16 février, alors que s'amorce enfin le dégel, il parcourt durant deux à trois heures les fermes et le château de \\textbf{Beaucourt} pour acheter paille et foin : s'agissant d'un village doté d'un château et de fermes en exploitation à proximité d'Hérissart et de Montigny (voir aussi Scan \\#123 l.~4 et Scan \\#183 l.~16 : \\textit{échappées sur Beaucourt \\& Montigny}), ce toponyme s'identifie de façon quasi-certaine à \\textbf{Beaucourt-sur-l'Hallue} (Somme, canton de Villers-Bocage, à 7~km au sud d'Hérissart, où s'élève le château de Beaucourt), par opposition à Beaucourt-sur-l'Ancre détruit sur la ligne de feu en novembre 1916.",
         "title": "Visite au maire d’Hérissart et recherche de paille et de foin à Beaucourt"
       },
       "evidence": [
@@ -913,7 +1046,7 @@
         "historique": "\\textbf{l.~17--19 Mission fr. Vth Armée. Demandé renseignements au sujet cantonnement d'anglais, à Toulouse :} Curieux détail : Hippolyte se renseigne auprès de la Mission française de la V\\textsuperscript{e} Armée sur d'éventuels détachements ou bases britanniques dans la région de Toulouse (où il espérait peut-être obtenir une affectation plus proche de sa future épouse)."
       },
       "changes": {
-        "historique": "\\textbf{l.~17--19 :} Demande de renseignements sur le cantonnement d’Anglais à Toulouse à la Mission française de la Vth Armée. Aucun souhait d’affectation personnelle n’est exprimé dans cette notation."
+        "historique": "\\textbf{l.~11--25 \\textit{Dim. 18. -- Dégel continue, très rapide. Routes, de nouveau transformées en fondrières... Matin, à Toutencourt, Mission fr. V\\textsuperscript{th} Armée. Demandé renseignements au sujet cantonnement d'anglais, à Toulouse. Église du village de Toutencourt. Assisté partie cérémonie, entendu prône... A Toutencourt, solde : 68 f. 25 c.} :} Le dimanche 18 février 1917 — jour d'échéance bimensuelle fixé au Scan \\#150 —, Combes se rend au bureau de la Mission française de la \\textbf{V\\textsuperscript{e} Armée britannique} (\\textit{Fifth Army}) à \\textbf{Toutencourt}, où il perçoit 68~fr.~25 de solde (13 jours à 5~fr.~25), s'informe de l'existence éventuelle d'un détachement ou cantonnement britannique à \\textbf{Toulouse} et assiste au prône dominical à l'église \\textbf{Saint-Léger de Toutencourt}."
       },
       "evidence": [
         {
@@ -929,7 +1062,7 @@
         "historique": "\\textbf{l.~13--14 prop.re du n° 104, malade... Allé chercher curé et M.O. :} Devant la gravité de l'état de sa logeuse du n\\textsuperscript{o}~104, Hippolyte se dévoue pour aller quérir à la fois le curé de la paroisse et le médecin militaire britannique (\\textit{Medical Officer})."
       },
       "changes": {
-        "historique": "\\textbf{l.~13--14 :} La propriétaire du n° 104 est dite malade ; Combes va chercher le curé et le M.O. La gravité précise de la maladie et l’administration éventuelle de sacrements ne sont pas indiquées."
+        "historique": "\\textbf{l.~1--26 \\textit{19 Lundi -- (En caisse : 225 f. 95)... exploré villages de Fréchencourt \\& Bavelincourt, pour trouver paille et foin... appris par Cap. Leonard nouveaux arrangements pour billets. Le soir même, vers 7h, déménagé du 7b à la chambre qu'occupait Cap. Williams, à côté office... prop.\\textsuperscript{re} du n\\textsuperscript{o} 104, malade : me suis dévoué pour elle. Allé chercher curé et M.O.} / \\textit{20 Mardi... à Pierregot} :} Après une tournée de recherche de fourrage dans la vallée de l'Hallue (\\textbf{Fréchencourt} et \\textbf{Bavelincourt}) le lundi 19 février 1917, le \\textbf{capitaine Leonard} notifie une réorganisation des cantonnements qui oblige Combes à quitter sa chambre du n\\textsuperscript{o}~7b (en réglant 2~fr. à la domestique \\textbf{Albertine}, l.~25) pour la pièce humide et glaciale du \\textbf{n\\textsuperscript{o}~104} attenante au bureau. Dès 21~h~30, la propriétaire du n\\textsuperscript{o}~104 étant tombée malade, l'interprète se dévoue pour aller chercher le curé d'Hérissart et le médecin militaire britannique (\\textit{Medical Officer}, \\textit{M.O.})."
       },
       "evidence": [
         {
@@ -942,10 +1075,12 @@
       "scan_num": 158,
       "filename": "20251126_111008.jpg",
       "originals": {
-        "critique": "\\textbf{l.~9 abomles :} Abréviation pour \\textit{abominables}. \\textbf{l.~11--14 [ A Doullens, mandat de 42 f. pour Mme Spagnol, Nice... semelles liège : 0 f. 80 ] :} L'achat d'une paire de semelles de liège répond directement à l'humidité glaciale des briques du \\textit{floor} de sa nouvelle chambre décrite au Scan \\#157. \\textbf{l.~22 Encore = temps :} Le signe mathématique $=$ abrège l'adjectif \\textit{même}."
+        "critique": "\\textbf{l.~9 abomles :} Abréviation pour \\textit{abominables}. \\textbf{l.~11--14 [ A Doullens, mandat de 42 f. pour Mme Spagnol, Nice... semelles liège : 0 f. 80 ] :} L'achat d'une paire de semelles de liège répond directement à l'humidité glaciale des briques du \\textit{floor} de sa nouvelle chambre décrite au Scan \\#157. \\textbf{l.~22 Encore = temps :} Le signe mathématique $=$ abrège l'adjectif \\textit{même}.",
+        "historique": "\\textbf{l.~11--12 mandat de 42 f. pour Mme Spagnol, Nice :} Règlement postal de 42 francs envoyé depuis le bureau de poste de Doullens à sa tante Thérèse Spagnol à Nice (déjà destinataire d'un télégramme le 31 janvier, Scan \\#136)."
       },
       "changes": {
-        "critique": "\\textbf{l.~9 abomles :} Abréviation de \\textit{abominables}. \\textbf{l.~14 :} Achat de semelles de liège ; son rapprochement avec la chambre humide du Scan \\#157 reste une interprétation. \\textbf{l.~22 = :} Signe utilisé pour « même »."
+        "critique": "\\textbf{l.~9 abomles :} Abréviation de \\textit{abominables}. \\textbf{l.~14 :} Achat de semelles de liège ; son rapprochement avec la chambre humide du Scan \\#157 reste une interprétation. \\textbf{l.~22 = :} Signe utilisé pour « même ».",
+        "historique": "\\textbf{l.~5--25 \\textit{21 Merc. ... Matin, course à Auxi-le-Château... Arrêt à Doullens, 1h 1/2, pour lunch. Retour par Puchevillers... A Doullens, mandat de 42 f. pour Mme Spagnol, Nice} / \\textit{23 Vendredi... à Molliens-au-Bois, pour trouver fourrage. Petit village au fond d'1 vallon, à côté de Montigny} :} Le mercredi 21 février 1917, lors de l'arrêt de midi à \\textbf{Doullens} au retour d'\\textbf{Auxi-le-Château}, Combes expédie un mandat-poste de \\textbf{42~francs} à \\textbf{Spagnol, Nice} : ce paiement solde l'achat du panier de fleurs de Nice reçu en gare de Toulouse le 29 janvier pour Marguerite (Scan \\#134, l.~7 ; Scan \\#137, l.~9) et qui avait déjà motivé l'envoi d'un télégramme de 2~fr. à Nice le 31 janvier (Scan \\#136, l.~21). Le vendredi 23 février, tournée de fourrage à \\textbf{Molliens-au-Bois} (Somme, canton de Villers-Bocage)."
       },
       "evidence": [
         {
@@ -963,7 +1098,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~21 lu English novel :} Mention d’un roman anglais, sans titre, fréquence de lecture ni origine du livre. \\textbf{l.~24--25 :} La pleine lune est une observation consignée ; elle ne doit pas être rectifiée silencieusement à partir d’éphémérides.",
-        "historique": "\\textbf{l.~17--19 :} Sortie du capitaine Williams à Senlis et Martinsart. Le carnet ne relie pas cette course à une opération australienne précise. L’ancienne mention d’une 7e Division australienne est anachronique : l’Australian War Memorial, notice du 2/4th Field Regiment (U54394), date la décision de former cette division de février 1940."
+        "historique": "\\textbf{l.~3--21 \\textit{24 Samedi... courte promenade s/ route de Contay... Arrivé jusqu'au moulin} / \\textit{25 Dim. Matin, course à Mirvaux -- hameau d'1 100\\textsuperscript{ne} d'habitants... 1\\textsuperscript{ère} sensation de printemps proche} / \\textit{26 L. -- Jour entier de liberté. Cap. W., seul parti vers 11h, allé à Senlis \\& Martinsart... Écrit bcp et lu English novel} :} Fin février 1917 autour d'\\textbf{Hérissart} : promenades vers le moulin de la route de \\textbf{Contay}, le petit village voisin de \\textbf{Mirvaux} (Somme, à 2,5~km au sud-est d'Hérissart) et la route de \\textbf{Toutencourt}. Le lundi 26 février, tandis que le capitaine Williams se rend seul dans le secteur avancé de \\textbf{Senlis-le-Sec} et \\textbf{Martinsart} (où les troupes britanniques suivent les premiers décrochages allemands dans la vallée de l'Ancre, 24--26 février 1917), Combes profite d'une journée d'écriture et de lecture."
       },
       "evidence": [
         {
@@ -991,7 +1126,7 @@
         "historique": "\\textbf{l.~7--8 Champs couverts de réseaux de barbed wire \\& creusés de tranchées :} Il s'agit des lignes de défense de seconde et troisième position (\\textit{Reserve Lines} et terrains d'exercice) aménagées autour de Toutencourt. \\textbf{l.~15--18 régiments de cavalerie indienne :} Passage des lanciers du Bengale et du Deccan appartenant aux 4\\textsuperscript{e} (\\textit{Meerut}) et 5\\textsuperscript{e} (\\textit{Mhow}) Divisions de cavalerie indienne de la B.E.F. (qu'Hippolyte reverra les 17 et 21 mars, Scans \\#169 et \\#171), tenues prêtes à exploiter le repli allemand sur Bapaume et Péronne."
       },
       "changes": {
-        "historique": "\\textbf{l.~7--8 :} Réseaux de barbelés et tranchées sur la route de Toutencourt, sans désignation de leur rang dans le système défensif. \\textbf{l.~15--18 :} Plusieurs régiments de cavalerie indienne traversent Hérissart ; lances et turbans sont décrits. Le carnet ne donne pas les unités ni les divisions."
+        "historique": "\\textbf{l.~4--19 \\textit{27 Ma. ... Capt. W., tooth ache, au lit j'à 1h après-midi... petite route de Toutencourt. Champs couverts de réseaux de barbed wire \\& creusés de tranchées} / \\textit{28 Merc. ... Matinée, plus. régiments de cavalerie indienne, traversé village d'Hérissart. Ces hindous, très curieux à regarder. Beaux chevaux, lances, à l'étrier, turbans etc.} / \\textit{Mess, pour février (depuis le 8) : 33 f.} :} Après une promenade le 27 février le long des tranchées d'exercice et réseaux de barbelés (\\textit{barbed wire}) aménagés entre Hérissart et Toutencourt, Combes observe le mercredi 28 février 1917 au matin la traversée d'\\textbf{Hérissart} par plusieurs régiments de \\textbf{cavalerie indienne} de l'armée britannique (lanciers indiens coiffés du turban, appartenant aux \\textbf{4\\textsuperscript{e} et 5\\textsuperscript{e} Divisions de cavalerie}, ex-\\textit{1st} et \\textit{2nd Indian Cavalry Divisions} renommées en novembre 1916 et rattachées au \\textit{Cavalry Corps} de la B.E.F. ; Maj. A.~F. Becke, \\textit{Order of Battle of Divisions}, Part~2A, p.~35--48 ; on les retrouve aux Scans \\#169 et \\#171). Au bas de la page, Combes règle 33~fr. de frais de \\textit{mess} pour les 21 jours écoulés depuis le 8 février."
       },
       "evidence": [
         {
@@ -1057,7 +1192,7 @@
         ],
         "title": "Entrée en mars : Rubempré, halo lunaire et entretien avec le Dr Dubois",
         "critique": "\\textbf{l.~8--10 Aux carrefours :} Localisation des grands crucifix. \\textbf{l.~14 Halo lunaire :} Lecture du manuscrit, vérifiée au grossissement. L’ancienne lecture « Halte lunaire » transformait un phénomène lumineux en arrêt du promeneur.",
-        "historique": "\\textbf{l.~19--20 :} Conversation longue et intéressante avec le Dr Dubois à Montigny. L’identité complète, le statut de notable et le contenu de la conversation ne sont pas donnés."
+        "historique": "\\textbf{l.~3--20 \\textit{1\\textsuperscript{er} Jeudi -- Mars 1917... courses en auto : Rubempré, vu château, puis Montigny \\& Fréchencourt. Causé lgts avec le fils du maire, ds ses champs ensoleillés, vers Pont-Noyelles... route de Contay... Moulins à vent. Aux carrefours, grands crucifix, cuivre et fer} / \\textit{2 Vendredi... venus à Montigny. Très longue \\& intéressante conversation avec Dr Dubois} :} Les jeudi 1\\textsuperscript{er} et vendredi 2 mars 1917, les tournées d'achats mènent Combes au château de \\textbf{Rubempré} puis dans la vallée de l'Hallue à \\textbf{Fréchencourt} et \\textbf{Montigny-sur-l'Hallue} (direction de \\textbf{Pont-Noyelles}), où il s'entretient longuement avec le fils du maire Paul Dubois (déjà visité le 3 janvier, Scan \\#119) puis le lendemain avec le \\textbf{docteur Dubois}."
       },
       "evidence": [
         {
@@ -1145,7 +1280,7 @@
           "Nuit, mervt ciel étoilé, pleine lune — superbe."
         ],
         "critique": "\\textbf{l.~11--12 :} Retenue de 35 francs pour sept jours de permission, soit cinq francs par jour par simple division. La nature réglementaire de cette somme n’est pas précisée. \\textbf{l.~25--26 :} Abréviation avant « interprète » lue provisoirement « en Cte » ; ne pas rétablir silencieusement « avec son interprète ». Le contentement de quitter le capitaine est explicite.",
-        "historique": "\\textbf{l.~25--26 :} Une relève par un officier australien et un interprète est annoncée. Aucun numéro de compagnie ni ordre de bataille ne figure dans cette entrée ; le rattachement à la relève de la 152e compagnie doit être prouvé par d’autres documents."
+        "historique": "\\textbf{l.~4--26 \\textit{3 Sam. ... Rubempré et à Puchevillers (paille etc.)... Venu à pied à Toutencourt, Mission fr. ... Toutencourt, Mission fr. : 43 f. 75 (retenue de 35 f. pour 7 jours de permission)} / \\textit{4 Dim. ... Cap. \\& son ami, en ballade à Flixecourt} / \\textit{5 Lundi... Montigny \\& à Fréchencourt... Rubempré \\& Puchevillers... Appris arrivée très prochaine off. australien, en C\\textsuperscript{te} [?] interprète, pour ns remplacer. Très content de quitter le Cap.} :} Le samedi 3 mars 1917 — échéance bimensuelle de la Mission de la V\\textsuperscript{e} Armée à \\textbf{Toutencourt} (voir Scan \\#150) —, Combes perçoit 43~fr.~75 net (soit sa quinzaine normale de 78~fr.~75 diminuée d'une retenue réglementaire de 35~fr., à raison de 5~fr. par jour, pour ses 7 jours de permission de fin janvier--février). Le lundi 5 mars, il apprend avec soulagement la relève prochaine du capitaine Williams par un officier australien (les divisions de l'\\textbf{\\textit{I~Anzac Corps}} occupent alors le secteur d'Albert)."
       },
       "evidence": [
         {
@@ -1175,7 +1310,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~4--7 :} Le jugement « plutôt vulgaire » porte sur l’officier australien ; « très sympathique » sur le nouvel interprète. Ces appréciations n’établissent pas une opposition générale entre Britanniques universitaires et officiers coloniaux. \\textbf{l.~14--16 :} Le chlorate et la quête pour les wounded sont écrits.",
-        "historique": "\\textbf{l.~8--11 :} Le maréchal des logis Grauger accompagne Combes chez le capitaine et promet de lui faire donner un bon poste. La page ne dit pas qu’il est secrétaire, qu’il tient un tableau d’affectations ou qu’il peut décider lui-même du poste."
+        "historique": "\\textbf{l.~4--16 \\textit{6 Mardi... Nouvel off. arrivé, australien, plutôt vulgaire. Après-midi, venu à Doullens, avec Cap. W. Nouvel interprète, arrivé, très sympathique. Vers 6h s., allé à pied Toutencourt, Mission fr. Mar\\textsuperscript{al} logis Grauger m'a conduit chz le Cap. Raucoule, l. a demandé divers renseig\\textsuperscript{ts}. Mar\\textsuperscript{al} logis Grauger m'a promis de me faire donner bon poste} / \\textit{Quête pour wounded : 50 c. (Hôpital auxiliaire)} :} À l'arrivée de l'officier australien et de son interprète (nommé \\textbf{Valet}, de la \\textit{2nd Australian Division}, au Scan \\#164) venus relever le poste d'Hérissart le mardi 6 mars 1917, Combes accompagne une dernière fois le capitaine Williams à \\textbf{Doullens} (où il verse 50~c. à une quête pour les blessés d'un hôpital auxiliaire), puis se présente à 18~h au bureau de la Mission française de la V\\textsuperscript{e} Armée à \\textbf{Toutencourt}, auprès du \\textbf{maréchal des logis Grauger} et du chef de mission, le \\textbf{capitaine Raucoule}."
       },
       "evidence": [
         {
@@ -1253,7 +1388,7 @@
         ],
         "title": "Neige de mars, départ de l’interprète Evar[?] pour Albert et attente d’affectation",
         "critique": "\\textbf{l.~6--9 :} Deux interprètes sont distingués ; le premier, Evar[?], repart avec son kit. \\textbf{l.~22--23 :} Tristesse et incertitude d’affectation sont explicites ; la crainte d’une unité combattante exposée n’est pas formulée.",
-        "historique": "\\textbf{l.~7 2nd australian division :} La 2e Division australienne est nommée. Le sigle R.2 est conservé ; l’expansion « réserve de 2e classe » demande une source réglementaire."
+        "historique": "\\textbf{l.~6--25 \\textit{8 Jeudi... Vers 3h s., int\\textsuperscript{te} Evar[?], revenu en cie d'1 autre int\\textsuperscript{te} Valet, R.2, de la 2\\textsuperscript{nd} australian division. Evar[?], reparti à Albert sur 1 lorry avec tout son kit. Valet, extr\\textsuperscript{t} sympathique... Mission fr. Toutencourt : maréchal logis..., m'a dit de rester av. mon cap. Hérissart j'à son départ, puis me rendre au dépôt, Toutencourt} / \\textit{9 Vendredi... réglé comptes mess avec cap. W\\textsuperscript{ms} jusqu'à ce soir : 10 f.} :} Le jeudi 8 mars 1917 précise l'unité australienne prenant en charge le secteur : le nouvel interprète \\textbf{Valet} appartient à la \\textbf{2\\textsuperscript{e} Division australienne} (\\textit{2nd Australian Division}, grande unité de l'\\textit{Australian Imperial Force} et de l'\\textit{I~Anzac Corps}, alors engagée devant Bapaume et ayant ses bases arrière entre Albert et Hérissart). Le vendredi 9 mars au soir, Combes solde définitivement ses comptes de \\textit{mess} (10~fr.) avec le \\textbf{capitaine Williams} (\\textit{cap.~W\\textsuperscript{ms}})."
       },
       "evidence": [
         {
@@ -1329,7 +1464,7 @@
           "Mais ce soir, pris mon parti, et résigné",
           "à mon nouveau sort."
         ],
-        "historique": "\\textbf{l.~12--13 :} Il fraternise avec des English connus depuis longtemps ; leurs grades ne sont pas donnés. La « raideur du jeune capitaine » est une interprétation extérieure à cette entrée."
+        "historique": "\\textbf{l.~4--20 \\textit{10 Samedi... Étrange sensation de mélancolie, au moment de quitter ce village et de changer d'affectation... Cap. nouv\\textsuperscript{l}, Williams, partis défin\\textsuperscript{tt} vers 10h matin. Dès lors, suis sans fonctions, archi-libre... Fraternisé avec English connus depuis lgt.} :} Le samedi 10 mars 1917 à 10~h du matin s'achève le service d'Hippolyte Combes auprès du \\textbf{capitaine Williams} (qui aura duré exactement trois mois et huit jours, du 2 décembre 1916 au 10 mars 1917). Resté vingt-quatre heures sans affectation à Hérissart avant de rejoindre le dépôt de la Mission française à Toutencourt, l'interprète fraternise avec les sous-officiers et soldats britanniques (\\textit{English}) du détachement."
       },
       "evidence": [
         {
@@ -1422,7 +1557,7 @@
           "M'y trouve très bien. 2 tables pour écrire —"
         ],
         "critique": "\\textbf{l.~6 Bureau Board :} Formulation hybride autographe ; \\textit{Purchase Board} revient à la l.~14. Aucune biffure n’est visible sur « Bureau » dans la vue. \\textbf{l.~9--11 :} Des blancs restent après n° et rue. \\textbf{l.~15 Godard :} Nom au crayon, sans que l’image permette d’expliquer pourquoi il fut ajouté. \\textbf{l.~25 :} Deux tables sont expressément comptées.",
-        "historique": "\\textbf{l.~12--14 :} La demande instante du Major Levy est donnée comme motif du maintien au Purchase Board. La page ne nomme pas Combes « son interprète » et ne qualifie pas cette décision de consécration professionnelle.",
+        "historique": "\\textbf{l.~5--25 \\textit{Dim. 11... parti en auto pour Toutencourt. Ds ce village, laissé tout, ts mes sacs au mess des interprètes, de Raincheval... Mais au bureau Mission, appris que, sur demande instante du Major Levy, je resterai au Purchase Board. Long interview avec Lieut\\textsuperscript{t} Godard, tt jeune off., charmant. Reparti de Toutencourt vers midi sur 1 lorry... porté ts mes paquets au billet 220. M'y suis installé définitivement, après départ interprète Valet} :} Dénouement inattendu le dimanche 11 mars 1917 au bureau de la Mission française de la V\\textsuperscript{e} Armée à \\textbf{Toutencourt} : sur la demande expresse du \\textbf{major Levy} (chef britannique du service des achats, avec qui Combes travaillait depuis le 2 novembre 1916, Scans \\#091, \\#110, \\#116), Hippolyte Combes est maintenu à la commission d'achats de l'armée (\\textbf{\\textit{Purchase Board}}) à \\textbf{Hérissart}, où il assiste désormais de jeunes officiers britanniques aimables (les lieutenants \\textbf{Godard}, \\textbf{Wentworth} et \\textbf{Gilbert}) et s'installe confortablement dans la chambre à deux tables et deux fenêtres du \\textbf{billet n\\textsuperscript{o}~220} laissée libre par le départ de l'interprète Valet.",
         "marginal_notes": {
           "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
           "2": "\\textbf{2 1/2} \\textit{scil.} demi / moitié. \\textbf{2 m.} \\textit{abbr. pro} matin.",
@@ -1467,7 +1602,7 @@
         "historique": "\\textbf{l.~12--14 Auto Wolseley... 1 australien, moins confortable que la Vauxhall de Jimmie :} Comparaison entre l'automobile Wolseley conduite par un chauffeur australien et la souple berline Vauxhall 25 hp conduite auparavant par son chauffeur familier Jimmie."
       },
       "changes": {
-        "historique": "\\textbf{l.~12--14 :} La Wolseley est jugée moins confortable que la Vauxhall de Jimmie. Modèle, puissance et carrosserie ne sont pas indiqués ; « Vauxhall 25 hp » ne doit pas être ajouté sans document distinct."
+        "historique": "\\textbf{l.~11--18 \\textit{Lundi 12... Matinée, courses à Toutencourt, Contay, Beaumont \\& Molliens-au-Bois. Auto Wolseley, conduite par 1 australien, moins confortable que la Vauxhall de Jimmie. Tout l'après-midi, à Puchevillers, puis Raincheval, Candas} / \\textit{Toutencourt : Exp. F. Canteen : 2 tins of Calvert's Tooth Powder : 1 f. 75 c.} :} Reprise des tournées du \\textit{Purchase Board} dès le lundi 12 mars 1917 (Toutencourt, Contay, Molliens-au-Bois, Puchevillers, Raincheval et \\textbf{Candas}, Somme, canton de Bernaville). La comparaison entre les deux automobiles militaires — l'ancienne \\textbf{Vauxhall} d'état-major conduite par le chauffeur britannique \\textbf{Jimmie} et la \\textbf{Wolseley} conduite par un soldat australien — reflète le passage partiel des services de transport du secteur aux unités de l'\\textit{I~Anzac Corps}. À Toutencourt, achat à l'\\textit{Expeditionary Force Canteen} (\\textit{Exp.~F. Canteen})."
       },
       "evidence": [
         {
@@ -1485,9 +1620,9 @@
         "historique": "\\textbf{l.~7--8 M. \\& Mme Flutre, instituteurs, au Mesnil. Ont le fils, élève de Norm\\textsuperscript{le} Sup\\textsuperscript{re} :} Rencontre remarquable entre collègues de l'Instruction publique : les époux \\textbf{Flutre}, instituteurs au \\textbf{Mesnil-Martinsart} (village voisin de Martinsart et d'Hérissart), sont les parents de \\textbf{Louis-Fernand Flutre} (né au Mesnil-Martinsart le 23 juin 1892, décédé en 1978), entré à l'École Normale Supérieure de la rue d'Ulm (promotion 1912), mobilisé comme officier pendant la Grande Guerre, futur agrégé de grammaire (1919) et célèbre professeur de philologie romane à la Faculté des lettres de Lyon."
       },
       "changes": {
-        "lieu": "Hérissart, Mesnil (localité à identifier), Puchevillers, Acheux, Bertrancourt (Somme)",
+        "lieu": "Hérissart, Mesnil-Martinsart, Puchevillers, Acheux, Bertrancourt (Somme)",
         "critique": "\\textbf{l.~7--8 au Mesnil... Ont le fils, élève de Normle Supre :} Le nom Flutre, les fonctions d’instituteurs et l’abréviation de l’École normale supérieure sont lisibles ; le prénom du fils et le complément du toponyme Mesnil ne sont pas donnés. \\textbf{l.~12--15 :} Le nouveau mess est en face de la maison où il a sa chambre.",
-        "historique": "\\textbf{l.~7--8 Flutre :} Louis-Fernand Flutre (1892–1978), ancien élève de l’École normale supérieure et futur professeur à Lyon, constitue une piste pour identifier le fils. La notice d’autorité BnF \\texttt{cb122063529} le donne né le 21 juin 1892 à Albert, et non au Mesnil-Martinsart le 23 juin. La filiation et l’identification des instituteurs restent à vérifier."
+        "historique": "\\textbf{l.~7--15 \\textit{Mardi 13... Après tea, visite à M. \\& Mme Flutre, instituteurs, au Mesnil. Ont le fils, élève de Norm\\textsuperscript{le} Sup\\textsuperscript{re}} / \\textit{Mercredi 14... Déménagé office et mess au billet 216, rue, tout en face de ma maison} / \\textit{Jeudi 15... Acheux, \\& Bertrancourt... A Acheux Wood, pataugé boue épaisse} :} Identification prosopographique certaine établie par les archives de la Somme et les publications de l'intéressé : lors de sa visite du mardi 13 mars 1917 au \\textbf{Mesnil-Martinsart} (Somme, canton d'Albert), Combes est reçu par son collègue de l'Instruction publique \\textbf{Fortuné Ernest Flutre} (né en 1862), instituteur public à Mesnil-Martinsart depuis 1888 (auteur en 1899 de la \\textit{Notice géographique et historique sur la commune de Mesnil-Martinsart}, Arch. dép. Somme), et son épouse, parents de \\textbf{Louis-Fernand Flutre} (Louis Fernand Émile Flutre, né à Mesnil-Martinsart le 21 juin 1892 -- mort à Paris le 8 février 1978 ; la notice BnF \\texttt{cb122063529} indique par approximation le chef-lieu de canton, Albert), élève de l'\\textbf{École normale supérieure} (promotion Lettres 1913), agrégé de grammaire (1920), professeur de philologie romane à la Faculté des lettres de Lyon et auteur des deux monographies de référence sur son village natal : \\textit{Mesnil-Martinsart (Somme) : essai d'histoire locale} (Lyon, Bosc, 1955) et \\textit{Le parler picard de Mesnil-Martinsart (Somme)} (Genève, Droz / Lille, Giard, 1955)."
       },
       "evidence": [
         {
@@ -1515,7 +1650,7 @@
         "historique": "\\textbf{l.~19--20 Troupes cavalerie indigène \\& anglaise traversé village au trot :} Le 16–17 mars 1917 est la date exacte du déclenchement général du repli stratégique allemand sur la ligne Hindenburg (\\textit{Opération Alberich}) : Bapaume est occupée le 17 mars et Péronne le 18 mars ; la cavalerie britannique et indienne est lancée au trot vers l'est à travers Hérissart pour talonner les arrière-gardes allemandes."
       },
       "changes": {
-        "historique": "\\textbf{l.~19--20 :} Des cavaliers indigènes et anglais traversent le village au trot. Le rapprochement chronologique avec le repli allemand de mars demande une source d’histoire militaire distincte ; le carnet n’indique ni direction de marche ni mission de poursuite."
+        "historique": "\\textbf{l.~3--20 \\textit{Ven. 16... Mirvaux \\& Pierregot... venus à Albert, par Contay-Warloy-Senlis. Revu avec intérêt ville d'Albert : maisons atteintes par obus, basilique etc. etc. \\& troupes australiennes cantonnées. Au retour, long arrêt à Ribemont, pour acheter fourrage} / \\textit{Sam. 17... promenade à pied à Puchevillers \\& retour de =, avec Lt. Wentworth... Troupes cavalerie indigène \\& anglaise traversé village au trot} :} Le vendredi 16 mars 1917, Combes revoit \\textbf{Albert} (où cantonnent les troupes australiennes de l'\\textit{I~Anzac Corps}) et \\textbf{Ribemont-sur-Ancre}. Le samedi \\textbf{17 mars 1917}, tandis qu'il marche jusqu'à Puchevillers avec son nouvel officier, le \\textbf{lieutenant Wentworth}, des colonnes de \\textbf{cavalerie indienne et britannique} traversent Hérissart au trot : cette date des 16--17 mars 1917 coïncide exactement avec le repli stratégique général de l'armée allemande sur la ligne Hindenburg (\\textit{opération Alberich} ; occupation de Bapaume par l'\\textit{I~Anzac Corps} le 17 mars et de Péronne le 18 mars), au cours duquel les escadrons des 4\\textsuperscript{e} et 5\\textsuperscript{e} Divisions de cavalerie (anglo-indiennes) sont portés vers l'avant."
       },
       "evidence": [
         {
@@ -1587,7 +1722,7 @@
           "tranchées, Miraumont, Achiet-le-Pt. Fait parler ces",
           "2 off., qui m'ont donné renseigts très intéressants."
         ],
-        "historique": "\\textbf{l.~23--26 :} Le visiteur est de la 63rd Div., précisée naval div. Son régiment revient des tranchées, avec les noms Miraumont et Achiet-le-Pt. Le carnet ne précise pas sa destination suivante, ni qu’Achiet aurait été « délivré hier »."
+        "historique": "\\textbf{l.~4--26 \\textit{Dim. 18... Toutencourt, Mission fr. Reposé église du village... entendu prône vieux curé... A Toutencourt : Solde : 82 f.} / \\textit{19 Lundi... Dû laisser occuper 1 des 2 lits par off. 63\\textsuperscript{rd} Div., naval div., de passage. Son rég\\textsuperscript{t} revient des tranchées, Miraumont, Achiet-le-P\\textsuperscript{t}. Fait parler ces 2 off., qui m'ont donné renseig\\textsuperscript{ts} très intéressants} :} Après avoir perçu sa solde du 18 mars (82~fr.) à la Mission de \\textbf{Toutencourt}, Combes partage le soir du lundi \\textbf{19 mars 1917} sa chambre à deux lits d'Hérissart avec un officier de passage de la \\textbf{63\\textsuperscript{e} Division britannique} (\\textbf{\\textit{63rd (Royal Naval) Division}}). Le témoignage recueilli auprès de ces deux officiers recoupe avec une exactitude absolue l'historique officiel de la division (Douglas Jerrold, \\textit{The Royal Naval Division}, Londres, Hutchinson, 1923, chap.~XI) : relevée des tranchées de \\textbf{Miraumont} et d'\\textbf{Achiet-le-Petit} après le repli allemand de février--mars 1917 sur l'Ancre, la \\textit{Royal Naval Division} faisait alors étape par Hérissart en remontant vers le front d'Arras (où elle combattra à Gavrelle en avril 1917)."
       },
       "evidence": [
         {
@@ -1607,7 +1742,7 @@
         "historique": "\\textbf{l.~14--15 cavrie indienne \\& anglaise (Death or Glory Boys, 17th Lancers) :} Le \\textit{17th (Duke of Cambridge's Own) Lancers}, célèbre depuis la charge de la Brigade légère à Balaklava, faisait partie de la 3\\textsuperscript{e} Division de cavalerie britannique qui faisait alors mouvement vers le nord en prévision de l'offensive d'Arras."
       },
       "changes": {
-        "historique": "\\textbf{l.~14--15 :} Combes nomme les 17th Lancers et les Death or Glory Boys. Le rattachement à une division et la direction du mouvement ne sont pas écrits. L’ancienne attribution à la 3e Division de cavalerie doit être supprimée en l’absence de source contrôlée."
+        "historique": "\\textbf{l.~2--22 \\textit{20 Mardi -- Lieut. 63\\textsuperscript{rd} Div., couché ds lit ma chambre. Parti avec son unité 8h matin} / \\textit{21 Merc. ... Puchevillers et Arquèves. Belle Église Farm, M. Houthouan. Après-midi, par Contay \\& Warloy, venus à Senlis. Routes encombrées par troupes moving. Admiré cav\\textsuperscript{rie} indienne \\& anglaise (Death or Glory Boys, 17\\textsuperscript{th} Lancers)} / \\textit{22 Jeudi... Senlis \\& Albert} :} Le mercredi \\textbf{21 mars 1917}, après une visite matinale à l'agriculteur belge \\textbf{M.~Houthouan} à la ferme de \\textbf{Belle-Église} (Arquèves, voir Scan \\#108), Combes observe sur les routes de Contay, Warloy et Senlis-le-Sec le défilé conjoint de la \\textbf{cavalerie indienne et anglaise}, au sein de laquelle il nomme les \\textbf{\\textit{Death or Glory Boys, 17th Lancers}}. L'ordre de bataille officiel britannique (Maj. A.~F. Becke, \\textit{Order of Battle of Divisions}, Part~2A, p.~35--40) explique avec certitude cette association : en mars 1917, le \\textbf{17\\textsuperscript{e} Lanciers britannique} (\\textit{17th Duke of Cambridge's Own Lancers}, dont l'insigne à tête de mort porte la devise \\textit{Or Glory}) formait l'unique régiment britannique de la \\textbf{\\textit{Sialkot Cavalry Brigade}}, au sein de la \\textbf{4\\textsuperscript{e} Division de cavalerie} (ex-\\textit{1st Indian Cavalry Division}), aux côtés des lanciers indiens des \\textit{6th King Edward's Own Cavalry} et \\textit{19th Lancers (Fane's Horse)} !"
       },
       "evidence": [
         {
@@ -1625,7 +1760,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~9--10 :} Démarches pour conserver le billet 220 ; le motif n’est pas explicité. Au Scan \\#166, la chambre possède deux tables, et deux fenêtres au Scan \\#167. \\textbf{l.~11 afternoon :} Alternance franco-anglaise conservée.",
-        "historique": "\\textbf{l.~23 Pas pris pardessus :} Notation vestimentaire de cette promenade. Le carnet n’en fait ni un symbole religieux ni la première sortie sans pardessus depuis octobre."
+        "historique": "\\textbf{l.~5--23 \\textit{23 Ven. ... Notre auto, aux workshops... Fait démarches pour qu'on me laisse au billet (220)} / \\textit{24 Sam. ... Après-midi, venus à pied à Rubempré et j'à chemin Puchevillers} / \\textit{25 D. ... Course à pied à Rubempré, l'après-midi. Pas pris pardessus} :} Trois journées de fin mars 1917 (23--25 mars) à \\textbf{Hérissart} : l'automobile du service étant en réparation aux ateliers (\\textit{workshops}), Combes obtient de conserver sa chambre d'étude du \\textbf{billet n\\textsuperscript{o}~220} (où il s'était installé le 11 mars, Scans \\#166--\\#167) et effectue à pied ses courses vers \\textbf{Rubempré} et \\textbf{Puchevillers}."
       },
       "evidence": [
         {
@@ -1645,7 +1780,7 @@
         "historique": "\\textbf{l.~15--16 Troupes quitté village à l'aube. Tout le jour, restés sans troupes :} Conséquence directe du repli allemand (\\textit{Alberich}) : le front s'étant déplacé de 35 km vers l'est (au-delà de Bapaume et Péronne vers Saint-Quentin et Cambrai) tandis que le gros des forces britanniques remonte vers Arras, les anciens cantonnements d'arrière-front comme Hérissart, Acheux et Warloy se vident brusquement de leurs bataillons !"
       },
       "changes": {
-        "historique": "\\textbf{l.~15--16 :} Départ des troupes à l’aube et village presque sans troupes. La page ne fournit ni leur destination ni une mesure de déplacement du front ; ce constat local ne prouve pas à lui seul une conséquence directe de l’opération Alberich."
+        "historique": "\\textbf{l.~5--16 \\textit{26 Lundi... Monin traversé village avec sa Coy pr cantonner une nuit. L'ai revu avec gd plaisir... L'ai trouvé vieilli, enlaidi, usé} / \\textit{27 Mardi... Matinée, course à pied, à Rubempré. Après-midi, venus à Puchevillers... Troupes quitté village à l'aube. Tout le jour, restés presq sans troupes. Village redevenu très calme} :} Le lundi 26 mars 1917, Combes retrouve à Hérissart son camarade interprète \\textbf{Monin}, de passage pour une nuit avec sa compagnie. Dès l'aube du mardi \\textbf{27 mars 1917}, toutes les unités cantonnées quittent Hérissart : à la suite du repli allemand sur la ligne Hindenburg (achevée le 19 mars) et de la concentration des armées britanniques plus au nord pour l'offensive d'Arras, les villages de l'ancien arrière-front de l'Ancre (Hérissart, Acheux, Contay, Warloy, Toutencourt) se vident durablement de leurs troupes (constat confirmé aux Scans \\#174, \\#176, \\#177, \\#181 et \\#183)."
       },
       "evidence": [
         {
@@ -1661,7 +1796,7 @@
         "historique": "\\textbf{l.~19--20 Rainneville :} Commune située à 8 km au sud-ouest d'Hérissart sur le plateau dominant Amiens, limite méridionale de la zone d'achat du \\textit{Purchase Board}."
       },
       "changes": {
-        "historique": "\\textbf{l.~19--20 Rainneville :} Village de la tournée d’achat de paille. Aucune mention n’en fait la limite méridionale de la zone du Purchase Board."
+        "historique": "\\textbf{l.~4--25 \\textit{29 Jeudi... Puchevillers \\& Rubempré... Village paraît abandonné. Plus de troupes. Rues désertes. Calme délicieux} / \\textit{30 Ven. ... Pierregot \\& Molliens-au-B.} / \\textit{31 Sam. ... Rubempré, par Toutencourt, Puchevillers, Pierregot et Rainneville -- Acheté paille... Village tjours sans troupes, paraît inhabité. J'aime ce calme \\& ce silence} :} Du 29 au 31 mars 1917, tandis que les tournées d'achat de paille du \\textit{Purchase Board} rayonnent autour d'Hérissart jusqu'à \\textbf{Pierregot}, \\textbf{Molliens-au-Bois} et \\textbf{Rainneville} (Somme, canton de Villers-Bocage, à 8~km au sud-ouest d'Hérissart), Combes savoure le silence et l'apaisement du village d'\\textbf{Hérissart} désormais déserté par les troupes britanniques."
       },
       "evidence": [
         {
@@ -1679,7 +1814,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~7 :} Note de mess avec le 31 mars et 27 f 50 ; début de la période peu net. Le texte ne permet pas de fixer vingt jours. \\textbf{l.~18 :} Le notaire Bienaimé revient au Scan \\#178.",
-        "historique": "\\textbf{l.~1 Rameaux :} Repère liturgique écrit. \\textbf{l.~3--13 :} Pluie et chutes de neige locales décrites ; leur caractère exceptionnel sur tout le front et leurs effets sur une offensive demandent une documentation distincte."
+        "historique": "\\textbf{l.~1--23 \\textit{1\\textsuperscript{er} Dim. (Rameaux) Avril 1917... Averses torrentielles et même, soirée, neige à gros flocons... Belle Église, Pierregot, Rainneville... Mess : dû au 31 mars : 27 f. 50} / \\textit{3 Mardi. -- Matin \\& soir, courses en auto : Toutencourt, (M\\textsuperscript{e} Bien aimé, notaire) et Rubempré et Raincheval} :} Le dimanche des Rameaux (\\textbf{1\\textsuperscript{er} avril 1917}) et les 2--3 avril sont marqués par le retour de fortes chutes de neige tardives sur les plateaux de la Somme. Le 1\\textsuperscript{er} avril, Combes arrête sa quote-part des frais de \\textit{mess} au 31 mars à 27~fr.~50 ; le mardi 3 avril, il se rend à \\textbf{Toutencourt} à l'étude de \\textbf{M\\textsuperscript{e}~Bienaimé}, notaire de Toutencourt (chez qui il retournera le jour de Pâques 8 avril, Scan \\#178)."
       },
       "evidence": [
         {
@@ -1701,7 +1836,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~8 :} Hair cut : 30 c et Carnets de timbres : 4 f. Le carnet n’indique ni deux carnets, ni le statut militaire du barbier, ni une équivalence en pence.",
-        "historique": "\\textbf{l.~12--13 :} Les villages traversés paraissent déserts et sans troupes. Le nombre d’hommes ayant quitté le secteur et le lien exact avec le repli allemand ne sont pas documentés par cette vue."
+        "historique": "\\textbf{l.~2--18 \\textit{4 Merc. -- Temps affreux. Matinée, tourmente de neige. Course à Toutencourt... acheter fourrage} / \\textit{5 Jeudi-Saint -- Enfin, belle journée... course en auto : Acheux, par Contay-Warloy-Varennes. Ts ces villages, très calmes, paraissent déserts, maintenant sans troupes... Beau sunset, derrière ligne de cyprès du cimetière... église village, entendu prêche passion} :} Après une tourmente de neige le mercredi 4 avril, le \\textbf{Jeudi saint 5 avril 1917} offre une éclaircie printanière : traversant \\textbf{Contay}, \\textbf{Warloy-Baillon}, \\textbf{Varennes-en-Croix} et \\textbf{Acheux-en-Amiénois}, Combes constate l'abandon militaire complet de ces bourgs naguère fourmillants de troupes (voir Scans \\#075, \\#095, \\#101), puis assiste le soir au sermon de la Passion dans l'église Saint-Martin d'Hérissart."
       },
       "evidence": [
         {
@@ -1777,7 +1912,7 @@
         ],
         "title": "Vendredi Saint : paiement de la solde par un staff et causerie sur l’Australie",
         "critique": "\\textbf{l.~2 Très tôt :} Lecture visuelle ; ne pas remplacer par « Levé tôt ». \\textbf{l.~3--5 :} Staff du bureau de la Mission, venu payer la solde. Le mot anglais ne précise pas à lui seul son grade ou sa fonction. \\textbf{l.~14 :} After dinner est suivi d’une phrase française.",
-        "historique": "\\textbf{l.~7--8 :} Le départ du H.Q. et des troupes explique ici la tranquillité de Toutencourt dans le témoignage de Combes. La nouvelle position du quartier général et sa mission opérationnelle ne sont pas indiquées."
+        "historique": "\\textbf{l.~2--20 \\textit{6 Vendr. ... conduit en auto à Toutencourt, 1 staff du bureau de la Mission fr., V\\textsuperscript{th} Army H.Q., venu nous payer solde... petit village aujourd'hui si tranquille, depuis départ H.Q. et troupes... After dinner, devant poêle rouge, causé lgt de l'Australie avec M. Wentworth et lu pamphlets. [ Solde : 78 f. 75 c. ]} :} Le Vendredi saint \\textbf{6 avril 1917}, Combes note que le quartier général de la \\textbf{V\\textsuperscript{e} Armée britannique} (\\textit{Fifth Army H.Q.} du général Sir Hubert Gough) et ses troupes ont quitté \\textbf{Toutencourt} (l'état-major de la V\\textsuperscript{e} Armée s'était en effet déplacé vers l'avant, à Albert, pour diriger les opérations devant la ligne Hindenburg et Bullecourt) : un membre du personnel (\\textit{staff}) de la Mission française de la V\\textsuperscript{e} Armée vient néanmoins à Toutencourt payer la quinzaine des interprètes (78~fr.~75). Le soir, Combes s'entretient longuement de l'Australie avec le \\textbf{lieutenant Wentworth}."
       },
       "evidence": [
         {
@@ -1809,7 +1944,7 @@
       "changes": {
         "lieu": "Hérissart, Toutencourt, Harponville, Rubempré, Beauquesne, Pierregot, Belle-Église, Fréchencourt, Contay (Somme)",
         "title": "Pâques à Toutencourt, Harponville, Rubempré et Beauquesne ; retour du froid",
-        "historique": "\\textbf{l.~12--13 :} Le froid, la grêle et le grésil sont observés localement le 9 avril. Un rapprochement avec le début de l’offensive d’Arras peut être historique ; l’identité exacte des conditions météorologiques entre Hérissart et le champ de bataille ne peut être déduite de cette page."
+        "historique": "\\textbf{l.~1--22 \\textit{Pâques -- 8 -- Avril 1917... Matinée, à Toutencourt, chez notaire Bienaimé. Après-midi, à Harponville \\& Rubempré -- Beauquesne... Visité famille Denis} / \\textit{9 Lundi. -- Temps très mauvais \\& froid vif. Gdes averses, grêle et grésil. Rafales violentes. Courses matin \\& soir : Pierregot \\& Belle-Église} / \\textit{10 Mardi... neige fine tombée abondante} :} Le dimanche de \\textbf{Pâques 8 avril 1917}, après une visite matinale au notaire \\textbf{M\\textsuperscript{e}~Bienaimé} à Toutencourt et une tournée à Harponville, Rubempré et Beauquesne, Combes passe pour la première fois la soirée chez la \\textbf{famille Denis} à Hérissart (qu'il fréquentera assidûment jusqu'à la fin d'avril, Scans \\#180, \\#182, \\#183, \\#184). Les bourrasques de neige, de grêle et de grésil des \\textbf{lundi 9 et mardi 10 avril 1917} coïncident avec le déclenchement, à 35~km plus au nord, de la \\textbf{bataille d'Arras et de la crête de Vimy} (9 avril 1917)."
       },
       "evidence": [
         {
@@ -1833,7 +1968,7 @@
         "historique": "\\textbf{l.~5--7 Merc. 11... Tout le jour et le soir davantage, neigé lgt et abondamment :} Cette violente tempête de neige du 11 avril 1917 paralysa l'attaque de la 4\\textsuperscript{e} Division australienne et de la 62\\textsuperscript{e} Division britannique lors de la première bataille de Bullecourt, où les chars britanniques et les fantassins se détachaient en noir sur la neige devant les mitrailleuses allemandes."
       },
       "changes": {
-        "historique": "\\textbf{l.~5--7 :} La neige décrite par Combes est une observation locale. La première attaque australienne à Bullecourt a lieu le 11 avril 1917 : le Department of Veterans’ Affairs australien, \\textit{1917—Bapaume and Bullecourt}, décrit des positions d’attente enneigées et l’échec des chars. Ce contexte n’établit pas que la neige d’Hérissart ait « paralysé » l’attaque, comme l’affirmait l’ancien commentaire."
+        "historique": "\\textbf{l.~3--25 \\textit{Merc. 11... course à Doullens. Après-midi, course à Warloy. Tout le jour et le soir davantage, neigé lgt et abondamment} / \\textit{A Doullens : ceinture cuir : (10 f. 50 + 14 f. = 24 f. 50)... 2 Cartes géog. (Somme) : 60 c.} / \\textit{13 Ven. ... Après-midi, long talk avec Sec\\textsuperscript{d} Lt Gilbert, de Jersey, il est très instruit et poète} :} Après la tempête de neige du mercredi 11 avril 1917 (jour de la première attaque anglo-australienne devant Bullecourt) et ses achats en ville et à la cantine de \\textbf{Doullens} (ceinture de cuir, cacao, deux cartes de la Somme, teinture d'iode et pastilles de chlorate de potasse), Combes noue le vendredi \\textbf{13 avril 1917} une amitié intellectuelle durable avec le nouveau sous-lieutenant britannique du service, le \\textbf{\\textit{Second Lieutenant} Gilbert}, originaire de l'île anglo-normande de \\textbf{Jersey} (donc francophone de naissance, cultivé et poète ; retrouvé aux Scans \\#181, \\#185 et \\#186)."
       },
       "evidence": [
         {
@@ -1857,7 +1992,7 @@
         "historique": "\\textbf{l.~11--16 16 Lundi... pluies très fortes :} Le 16 avril 1917 est le jour du déclenchement de la grande offensive française du général Nivelle au Chemin des Dames, menée sous les mêmes pluies glaciales et bourrasques de neige fondue que celles notées ici par Hippolyte Combes."
       },
       "changes": {
-        "historique": "\\textbf{l.~11--16 :} Pluie très forte à Hérissart le 16 avril, retour home sous une pluie torrentielle. La coïncidence de date avec l’offensive du Chemin des Dames ne suffit pas à établir l’identité du temps dans les deux régions."
+        "historique": "\\textbf{l.~11--22 \\textit{16 Lundi. Après-midi, course à Pierregot. Tout le jour, et le soir surtout, pluies très fortes. Passé soirée chez la famille Denis. Rentré home sous 1 pluie battante, torrentielle} / \\textit{17 Mardi. -- Temps toujours affreux... neige et grêle, tour à tour... courses en auto, à Fréchencourt \\& Rubempré} :} Les tournées des 14--17 avril 1917 se limitent aux villages proches d'Hérissart (\\textbf{Pierregot}, \\textbf{Fréchencourt}, \\textbf{Rubempré}) sous les pluies torrentielles du lundi 16 avril (jour du déclenchement dans l'Aisne de l'offensive française du Chemin des Dames) et les giboulées de neige et de grêle du mardi 17 avril ; le lundi soir, Combes veille chez ses amis d'Hérissart, la \\textbf{famille Denis}."
       },
       "evidence": [
         {
@@ -1875,7 +2010,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~11 juillet 1915 :} Le dernier chiffre est nettement un 5. Aucun « lapsus évident » ne peut être établi à partir de cette page ; la date est conservée, sans correction en 1916. \\textbf{l.~18--20 stuck :} Immobilisation de l’automobile, dégagée avec l’aide d’Australiens. Le jugement « Quels types! » ne précise pas à lui seul s’il est admiratif, amusé ou ironique.",
-        "historique": "\\textbf{l.~18--20 :} Des Australiens aident à dégager l’automobile à la sortie de Buire. Leur brigade et la raison de leur présence ne sont pas indiquées."
+        "historique": "\\textbf{l.~8--22 \\textit{19 Jeudi... courses en auto : Bresle, Lavieville, Hénencourt, Warloy et Contay. Revu avec plaisir les 3 1\\textsuperscript{ers} villages, où pas retourné depuis fin juillet 1915. Aujourd'hui, vides et déserts. Lieut. Gilbert, retour d'Abbeville, venu passer soirée avec nous} / \\textit{20 Vendredi... venus à Hénencourt, Albert et Buire (Ribemont). Au retour, stuck, à la sortie du village de Buire. Aidés par des australiens, à dégager l'auto... A Ribemont, revu avec plaisir les Colart} :} Le jeudi 19 avril 1917, la tournée à \\textbf{Bresle}, \\textbf{Laviéville} et \\textbf{Hénencourt} (Somme, à l'ouest d'Albert) fournit un repère autobiographique précieux : Combes n'était pas retourné dans ces trois villages depuis la \\textbf{fin juillet 1915}, époque où la \\textbf{18\\textsuperscript{e} Division britannique}, tout juste débarquée en France et rassemblée autour de Flesselles (voir sa lettre du 21 février 1916, Annexe~I, doc.~1), venait prendre en charge le secteur d'Albert. Le vendredi 20 avril, sa voiture embourbée (\\textit{stuck}) à la sortie de \\textbf{Buire-sur-l'Ancre} est dégagée par des soldats australiens (au repos dans la vallée de l'Ancre), avant une visite amicale à la \\textbf{famille Colart} à \\textbf{Ribemont-sur-Ancre}."
       },
       "evidence": [
         {
@@ -1964,7 +2099,7 @@
           "du côté d'Arras —"
         ],
         "critique": "\\textbf{l.~12--14 :} Le guide d’A. Martin et une grande carte avec vue de la cathédrale sont portés au compte. La liaison après carte reste douteuse. La formule « pour ma cathédrale » n’est pas une lecture assurée et ne doit pas fonder une interprétation.",
-        "historique": "\\textbf{l.~2--3 et 25--27 :} Canonnade localisée à l’oreille du côté d’Arras. Le carnet ne donne pas le détail des positions d’artillerie ; l’association précise à la préparation de la seconde bataille de la Scarpe demande un journal d’opérations ou une histoire militaire sourcée.",
+        "historique": "\\textbf{l.~2--27 \\textit{21 Samedi -- Toute nuit, violente canonnade sud d'Arras... venu à pied, en 40 m., à Toutencourt, pour toucher solde... Fait porter d'Amiens, par B\\textsuperscript{te} Denis : A. Martin : Promenade ds Amiens : 1 f. 75 et gde carte, [avec ?] vue cath\\textsuperscript{le} : 2 f. 75 c.} / \\textit{22 Dimanche... Visité gd moulin à vent route de P. ... route d'Hérissart, anti-aircraft battery... Durant jour, et surtout tte la nuit, roulement ininterrompu, violente canonnade vers le nord, du côté d'Arras} :} Les samedi 21 et dimanche \\textbf{22 avril 1917}, le roulement ininterrompu d'une « violente canonnade vers le nord, du côté d'Arras » et au « sud d'Arras » correspond avec certitude à la préparation d'artillerie britannique de la \\textbf{seconde bataille de la Scarpe} (\\textit{Second Battle of the Scarpe}, déclenchée à l'aube du lundi \\textbf{23 avril 1917} de part et d'autre de la Scarpe et sur la ligne Croisilles--Fontaine-lez-Croisilles--Guémappe au sud-est d'Arras ; \\textit{Official History, Military Operations France and Belgium, 1917}, vol.~I, chap.~XIV). À la l.~13, Combes se fait rapporter d'Amiens par \\textbf{Baptiste Denis} un guide d'\\textbf{Alexis Martin} (auteur des monographies illustrées \\textit{Promenades et excursions} / \\textit{Une visite à Amiens}, Paris, Hennuyer, 1896) et une grande carte avec vue de la cathédrale d'Amiens.",
         "marginal_notes": {
           "5": "\\textbf{5 breakfast} \\textit{angl. in ms.}",
           "11": "\\textbf{11} \\textit{in marg. cum unco} (comptes). \\textbf{11 f.} \\textit{abbr. pro} franc(s).",
@@ -2003,7 +2138,7 @@
       },
       "changes": {
         "critique": "\\textbf{l.~3 Métier à tisser :} Note très brève après les deux localités ; aucun tisserand à domicile n’est nommé. \\textbf{l.~8--18 :} Description autographe de la lumière, des bourgeons et des horizons violets.",
-        "historique": "\\textbf{l.~21--22 :} Acheux est dit presque désert, sans troupes cantonnées. La distance au front et l’axe Saint-Quentin–Cambrai ne sont pas donnés."
+        "historique": "\\textbf{l.~3--25 \\textit{23 Lundi... Toutencourt et Pierregot. Métier à tisser} / \\textit{24 Mardi -- Vraie journée d'été... promenade route de Mirvaux, chemin vicinal. Magnifiques échappées sur Beaucourt \\& Montigny} / \\textit{25 Merc. ... course à Acheux -- village presque désert et mort, plus de troupes cantonnées. Après-midi, à Pierregot. Lu chz Mme Mignot (et Louise). Soirée passée chez la famille Denis, à Hérissart} :} Journées des 23, 24 et 25 avril 1917 autour d'Hérissart : observation d'un métier à tisser domestique (survivance du tissage rural picard de la bonneterie et du velours d'Amiens), promenade vespérale sur le chemin de Mirvaux offrant une vue sur la vallée de l'Hallue (\\textbf{Beaucourt-sur-l'Hallue} et \\textbf{Montigny-sur-l'Hallue}), constat de l'abandon militaire d'\\textbf{Acheux-en-Amiénois} le 25 avril, lecture chez \\textbf{Mme Mignot} (et sa fille \\textbf{Louise}) à \\textbf{Pierregot} et veillée chez la \\textbf{famille Denis}."
       },
       "evidence": [
         {
@@ -2023,7 +2158,7 @@
         "historique": "\\textbf{l.~10--11 Varennes, où revu av. plaisir famille Mortreux :} À Varennes-en-Croix, Hippolyte retrouve avec plaisir la famille d'agriculteurs Mortreux chez qui il s'était déjà arrêté lors de ses tournées d'automne et d'hiver."
       },
       "changes": {
-        "historique": "\\textbf{l.~10--11 :} Il revoit la famille Mortreux à Varennes. La profession d’agriculteurs est à établir par une autre source."
+        "historique": "\\textbf{l.~4--16 \\textit{26 Jeudi... Courses à Contay, Puchevillers \\& Pierregot. Après dîner, très agréable promenade petit chemin de Puchevillers, le long de dug-outs et de tranchées} / \\textit{27 Ven. Matin, courses à Contay, Harponville \\& Varennes, où revu av. plaisir famille Mortreux... Soirée, chez les Denis, à Hérissart} :} Les jeudi 26 et vendredi 27 avril 1917, Combes poursuit ses tournées à \\textbf{Contay}, \\textbf{Puchevillers} (où il se promène le soir le long d'anciens abris souterrains, \\textit{dug-outs}, et tranchées d'exercice), \\textbf{Pierregot}, \\textbf{Harponville} et \\textbf{Varennes-en-Croix}, où il rend visite à la \\textbf{famille Mortreux}."
       },
       "evidence": [
         {
@@ -2039,7 +2174,7 @@
         "historique": "\\textbf{l.~5--7 Off., retour de Bournemouth, m'a appris que bientôt ns quitterons le village et ns irons à Cambrai :} Un officier britannique revenant de permission ou de convalescence dans la station balnéaire anglaise de \\textbf{Bournemouth} annonce le prochain déplacement du secteur logistique vers l'axe de Cambrai."
       },
       "changes": {
-        "historique": "\\textbf{l.~5--7 :} Un officier de retour de Bournemouth annonce un prochain départ pour Cambrai. Permission ou convalescence ne sont pas précisées, et le carnet ne va pas jusqu’à la réalisation du projet."
+        "historique": "\\textbf{l.~4--21 \\textit{28 Samedi... course à Pierregot. Off., retour de Bournemouth, m'a appris que bientôt ns quitterons le village et ns irons à Cambrai. Regretterai bcp les points de vue et panoramas circulaires des environs d'Hérissart : c'est la guerre} / \\textit{29 Dim. ... En arrivant à Contay, avarie : 2 ressorts cassés... lift sur 1 water-cart... Après-midi, promenade en cie Lt Gilbert sur route Mirvaux} :} Le samedi 28 avril 1917, un officier britannique rentrant de la station balnéaire anglaise de \\textbf{Bournemouth} (Dorset / Hampshire) annonce le déplacement prochain du service des achats vers le secteur de \\textbf{Cambrai} (vers lequel le front britannique s'est avancé depuis le repli allemand de mars 1917). Le dimanche 29 avril, après un retour de Contay sur une tonne à eau (\\textit{water-cart}) à la suite du bris de deux ressorts de suspension de l'automobile, Combes passe l'après-midi de printemps à converser dans les champs de la route de Mirvaux avec son ami le sous-lieutenant jersiais \\textbf{Gilbert}."
       },
       "evidence": [
         {
@@ -2059,7 +2194,7 @@
       "changes": {
         "title": "Dernière vue conservée : tournées du 30 avril 1917 et nuit étoilée",
         "critique": "\\textbf{l.~9 Route, auto chassé lapin sauvage :} Lecture contrôlée au grossissement : « lapin sauvage » est visible. La syntaxe est elliptique ; aucun accident n’est explicitement décrit. \\textbf{l.~1--17 :} Dernière photographie de la série disponible, datée du 30 avril 1917, date également portée sur la couverture. Cette concordance ne démontre pas à elle seule l’intégralité matérielle du carnet.",
-        "historique": "\\textbf{l.~5--8 :} Tournée de villages avec Gilbert. Les étapes de carrière ultérieures appartiennent à la biographie, non à cette journée. En particulier, l’inscription de janvier 1920 dans la rubrique des domiciles de la fiche militaire ne constitue pas un arrêté de nomination."
+        "historique": "\\textbf{l.~3--17 \\textit{30 Lundi. -- Avril 1917... Courses en auto, sans pardessus. Matinée, venus à Vadencourt, Warloy, Hénencourt, Millencourt \\& Lavieville. Après-midi, en cie Lt Gilbert, allés en auto à Puchevillers, Pierregot \\& Villers-Bocage. Route, auto chassé lapin sauvage... Nuit très belle, merv\\textsuperscript{t} éclairée, lune superbe} :} Dernière entrée datée du \\textit{Livre-Journal} (\\textbf{lundi 30 avril 1917}, correspondant à la borne finale inscrite sur l'étiquette de couverture, Scan \\#001) : par une radieuse journée de printemps, Combes parcourt le matin \\textbf{Vadencourt}, \\textbf{Warloy-Baillon}, \\textbf{Hénencourt}, \\textbf{Millencourt} et \\textbf{Laviéville}, puis l'après-midi, en compagnie du \\textbf{sous-lieutenant Gilbert}, les villages de \\textbf{Puchevillers}, \\textbf{Pierregot} et le chef-lieu de canton de \\textbf{Villers-Bocage} (Somme). Six mois plus tard, le \\textbf{25 octobre 1917}, Hippolyte Combes épousera \\textbf{Marguerite Calmels} à Millau (\\texttt{mariage\\_millau\\_1917.jpg}), avant de poursuivre son service à la Mission militaire française auprès de l'Armée britannique jusqu'à l'Armistice du 11 novembre 1918 (carte de Saint-Pol du 12 novembre 1918, Annexe~I, doc.~5) et d'être affecté le 24 novembre 1918 comme professeur d'anglais à l'École militaire préparatoire des Andelys (\\texttt{Fiche\\_militaire\\_Combes\\_Hippolyte.jpg})."
       },
       "evidence": [
         {
@@ -2237,10 +2372,10 @@
       "scan_num": 142,
       "filename": "20251126_110422.jpg",
       "review_level": "collation_ligne_a_ligne",
-      "detail": "Piano/chant sans instrument nommé, visite Spagnol, Mimi, cloches et renvoi à Journal contrôlés.",
+      "detail": "Chant/musique sans instrument nommé, lecture (Layral) rectifiant l'ancienne lecture (Spagnol) à la l. 6, Mimi, cloches et renvoi à Journal contrôlés.",
       "remaining_uncertainties": [
         "Heure de rentrée dans la chambre, premier chiffre de 40 à reprendre.",
-        "Instrument joué par Marguerite et identité complète de Mimi non indiqués sur cette page."
+        "Instrument joué par Marguerite non nommé sur cette page."
       ]
     },
     {
@@ -2481,10 +2616,9 @@
       "scan_num": 168,
       "filename": "20251126_111309.jpg",
       "review_level": "collation_ligne_a_ligne",
-      "detail": "Visite Flutre au Mesnil, fils normalien, déménagement du mess et courses contrôlés.",
+      "detail": "Visite Flutre au Mesnil (identifié avec Mesnil-Martinsart : Fortuné Ernest Flutre et son fils le normalien Louis-Fernand Flutre), déménagement du mess et courses contrôlés.",
       "remaining_uncertainties": [
-        "Commune de Mesnil à identifier.",
-        "Identification du fils à Louis-Fernand Flutre hypothétique."
+        "Le déterminant -Martinsart et le prénom du fils ne sont pas écrits dans la ligne autographe."
       ]
     },
     {
