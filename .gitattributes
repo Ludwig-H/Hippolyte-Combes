@@ -1,0 +1,3 @@
+# Preserve spaces required by the archived unified diff and the first-pass witness.
+edition_philologique/relecture_integrale_2026_10/generate_edition_concurrent.patch -whitespace
+edition_philologique/relecture_integrale_2026_10/premiere_passe/reprise_032_062.md -whitespace

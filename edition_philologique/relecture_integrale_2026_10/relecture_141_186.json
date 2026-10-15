@@ -1,0 +1,3217 @@
+{
+  "method": {
+    "base": "edition_philologique/relecture_integrale_2026_10/base_relecture.json",
+    "base_sha256": "96d0d442e91493bdb03216779f04074b19d4beb3224653210f5234c9bfb4e919",
+    "scope": "141–186, 46 photographies entières relues ligne à ligne, marges et appareil compris.",
+    "preparation": "16 extraits natifs de 10 vues, puis comparaison des familles qui 036, +030, y 023 et horaires 048 du lot 001–048 ; enrichissement de l’atlas pendant la relecture.",
+    "reading_authority": "Photographies sources ; aucun OCR ni modèle Gemini utilisé comme autorité.",
+    "limits": "Vues photographiques, non folios établis. Réserves de lecture distinctes des lacunes matérielles ; identités, chronologie et causes historiques non forcées."
+  },
+  "patches": [
+    {
+      "scan_num": 141,
+      "filename": "20251126_110406.jpg",
+      "originals": {
+        "lines": [
+          "Dim. 4 \\hfill Févr. /17",
+          "Monté ds ma chambre hier soir vers 11h 1/4.",
+          "Avant d'éteindre bougie, ouvert volet de fer et",
+          "regardé paysage. 1 peu à droite, et tout en",
+          "haut, pleine lune vif éclat",
+          "au ciel, qq étoiles.",
+          "Silence impressionnant vallon natal.",
+          "Couché depuis 1/2 h., quand souvenirs venus",
+          "en foule et obsédé. Pensé à Papa,",
+          "Maman, Sœurs — que j'ai tant aimés.",
+          "Peu à peu, gagné par l'émotion, et",
+          "sangloté.",
+          "Insomnie. Écouté sonner les heures au",
+          "petit cadran cuivre posé sur la cheminée",
+          "et, chambre voisine, Germaine tousser.",
+          "Pu reposer un peu sur le matin.",
+          "Levé vers 7h.",
+          "Impressions confort, bien-être, calme.",
+          "Déjeuné av. Margte.",
+          "Mte m'a laissé vers 11h pour aller à",
+          "la messe. Alors monté chambre. Rêvé",
+          "à mon aise. Soleil rendait appartt"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
+          "2": "\\textbf{2 ds} \\textit{abbr. pro} dans.",
+          "6": "\\textbf{6 qq} \\textit{abbr. pro} quelque(s).",
+          "8": "\\textbf{8 1/2} \\textit{scil.} demi / moitié.",
+          "19": "\\textbf{19 Margte} \\textit{scil.} Marguerite (Calmels).",
+          "20": "\\textbf{20 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "22": "\\textbf{22 appartt} \\textit{abbr. pro} appartement."
+        },
+        "critique": "\\textbf{l.~2 :} Début de ligne remanié et ajout suscrit de « chambre ». \\textbf{l.~7--12 :} Les souvenirs de Papa, Maman et des sœurs, puis les sanglots, sont écrits. Les noms et dates de décès relèvent du dossier familial, non de cette page.",
+        "historique": "\\textbf{l.~18--22 Déjeuné av. Margte... Soleil rendait appartt :} La phrase se poursuit sans ponctuation finale au sommet du folio suivant (« plus clair \\& plus gai », Scan \\#142)."
+      },
+      "changes": {
+        "lines": [
+          "Dim. 4 \\hfill Févr. /17",
+          "[Monté ?] chambre hier soir vers 11h 1/4.",
+          "Avant d'éteindre bougie, ouvert volet de fer et",
+          "regardé paysage. 1 peu à droite, et tout en",
+          "haut, pleine lune vif éclat",
+          "au ciel, qq étoiles.",
+          "Silence impressionnant vallon natal.",
+          "Couché depuis 1/2 h., quand souvenirs venus",
+          "en foule et obsédé. Pensé à Papa,",
+          "Maman, Sœurs — que j'ai tant aimés.",
+          "Peu à peu, gagné par l'émotion, et",
+          "sangloté.",
+          "Insomnie. Écouté sonner les heures au",
+          "petit cadran cuivre posé sur la cheminée",
+          "et, chambre voisine, Germaine tousser.",
+          "Pu reposer un peu sur le matin.",
+          "Levé vers 7h.",
+          "Impressions confort, bien-être, calme.",
+          "Déjeuné av. Margte.",
+          "Mte m'a laissé vers 11h pour aller à",
+          "la messe. Alors monté chambre. Rêvé",
+          "à mon aise. Soleil rendait appartt"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
+          "6": "\\textbf{6 qq} \\textit{abbr. pro} quelque(s).",
+          "8": "\\textbf{8 1/2} \\textit{scil.} demi / moitié.",
+          "19": "\\textbf{19 Margte} \\textit{scil.} Marguerite (Calmels).",
+          "20": "\\textbf{20 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "22": "\\textbf{22 appartt} \\textit{abbr. pro} appartement.",
+          "2": "\\textbf{2 [Monté ?]} Groupe repassé de lecture incertaine ; « chambre » suscrit. Aucun « ds ma » distinct ne se lit."
+        },
+        "critique": "\\textbf{l.~2 :} Groupe initial fortement repassé/remanié, lu provisoirement « Monté » ; « chambre » est suscrit. L’ancien supplément « ds ma » n’est pas visible et est retiré. Il s’agit d’une réserve de lecture, sans lacune matérielle constatée. \\textbf{l.~7--12 :} Les souvenirs de Papa, Maman et des sœurs, puis les sanglots, sont écrits. Les noms et dates de décès relèvent du dossier familial, non de cette page.",
+        "historique": "\\textbf{l.~7--15 :} Le dossier familial de Pierre Combes identifie les parents à François Augustin Hippolyte Combes (1825–1899) et Marie Anaïs Alric (1838–1907), et Germaine Vincens comme la fille de Madeleine Calmels, âgée de six ans lors du mariage de 1917 (\\texttt{Combes-3-part 1.DOC}, passage du mariage). Ces précisions proviennent du dossier familial ; la page porte seulement Papa, Maman, Sœurs et Germaine. La phrase finale continue en 142."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110406.jpg",
+          "detail": "Dans la zone remaniée, chambre est placé au-dessus du groupe repassé ; aucun ds ma distinct n’apparaît. Monté demeure une lecture réservée."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/141_relecture_debut.png",
+          "detail": "Dans la zone remaniée, chambre est placé au-dessus du groupe repassé ; aucun ds ma distinct n’apparaît. Monté demeure une lecture réservée."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110406.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Première nuit et identification de toutes les sœurs défuntes non établies par cette page ; chronologie familiale explicitement externe."
+        },
+        {
+          "source": "biographie_et_famille/Livre_Pierre_Combes/Combes-3-part 1.DOC",
+          "detail": "Monographie familiale lue avec antiword : parents, récit du mariage et Germaine Vincens fille Madeleine âgée 6 ans ; preuve externe au carnet."
+        }
+      ]
+    },
+    {
+      "scan_num": 142,
+      "filename": "20251126_110422.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~3--4 :} Marguerite joue quelques morceaux et chante ; l’instrument n’est pas nommé. \\textbf{l.~9 Mimi :} Hypocoristique conservé ; identification à documenter dans le fonds familial.",
+        "lines": [
+          "Dim. 4 (suite) \\hfill Fév. /17",
+          "plus clair & plus gai.",
+          "Tout l'après-midi, av. Mte. Elle m'a",
+          "joué qq morceaux et chanté 1 peu.",
+          "A 6h 15, cédant aux instances de tous,",
+          "visite à l'oncle & tante Thérèse (Spagnol).",
+          "Temps très sec. Rue déserte.",
+          "Après dîner, prolongé causerie j'à",
+          "11h 30 — av. Mimi, arrivée train 6h.",
+          "Ds ma chambre, à 11h 40.",
+          "Ciel nuageux. Nuit très froide.",
+          "Ce matin, en m'éveillant, charmé",
+          "par sonneries cloches, églises et",
+          "chapelles ville —",
+          "(Cf. Journal, feuille spéciale)"
+        ],
+        "title": "Après-midi musical avec Marguerite, visite aux Spagnol et cloches de Millau",
+        "marginal_notes": {
+          "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
+          "3": "\\textbf{3 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "4": "\\textbf{4 qq} \\textit{abbr. pro} quelque(s).",
+          "8": "\\textbf{8 j'à} \\textit{abbr. pro} jusqu'à.",
+          "10": "\\textbf{10 Ds} \\textit{abbr. pro} Dans."
+        }
+      },
+      "changes": {
+        "historique": "\\textbf{l.~6 et 9 :} Layral est confirmé visuellement. Dans l’annexe familiale de Pierre Combes, Thérèse Cartairade, sœur de Valentine, a épousé Charles Layrals, notaire à Millau ; Anne-Marie Calmels (1888–1975), épouse Joseph Delcamps, est appelée Tante Mimi. Ce témoignage familial éclaire les deux noms du carnet, sans résoudre le renvoi au Journal ni nommer l’instrument joué.",
+        "lines": [
+          "Dim. 4 (suite) \\hfill Fév. /17",
+          "plus clair & plus gai.",
+          "Tout l'après-midi, av. Mte. Elle m'a",
+          "joué qq morceaux et chanté 1 peu.",
+          "A 6h 15, cédant aux instances de tous,",
+          "visite à l'oncle & tante Thérèse (Layral).",
+          "Temps très sec. Rue déserte.",
+          "Après dîner, prolongé causerie j'à",
+          "11h 30 — av. Mimi, arrivée train 6h.",
+          "Ds ma chambre, à 11h 40.",
+          "Ciel nuageux. Nuit très froide.",
+          "Ce matin, en m'éveillant, charmé",
+          "par sonneries cloches, églises et",
+          "chapelles ville —",
+          "(Cf. Journal, feuille spéciale)"
+        ],
+        "title": "Après-midi musical avec Marguerite, visite aux Layral et cloches de Millau",
+        "marginal_notes": {
+          "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
+          "3": "\\textbf{3 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "4": "\\textbf{4 qq} \\textit{abbr. pro} quelque(s).",
+          "8": "\\textbf{8 j'à} \\textit{abbr. pro} jusqu'à.",
+          "10": "\\textbf{10 Ds} \\textit{abbr. pro} Dans.",
+          "6": "\\textbf{6 Layral} Lecture du cliché ; l’annexe familiale emploie Layrals pour Charles et Thérèse."
+        }
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110422.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Certitude généalogique absolue reformulée en témoignage familial ; instrument et Journal restent inconnus."
+        },
+        {
+          "source": "biographie_et_famille/Livre_Pierre_Combes/Combes-annexe.DOC",
+          "detail": "Annexe 2 : Anne-Marie dite Tante Mimi ; Thérèse Cartairade épouse Charles Layrals notaire à Millau, sœur Valentine."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110422.jpg",
+          "detail": "Nom parenthétique au cliché 20251126_110422.jpg : attaque L suivie de -ayral ; comparaison avec la famille Layrals dans l’annexe 2, distincte de Spagnol/Nice."
+        }
+      ]
+    },
+    {
+      "scan_num": 143,
+      "filename": "20251126_110441.jpg",
+      "originals": {
+        "marginal_notes": {
+          "3": "\\textbf{3 gd} \\textit{abbr. pro} grand.",
+          "4": "\\textbf{4 ts} \\textit{abbr. pro} tous. \\textbf{4 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "9": "\\textbf{9 s.} \\textit{abbr. pro} soir.",
+          "14": "\\textbf{14 ttes} \\textit{abbr. pro} toutes.",
+          "17": "\\textbf{17} \\textit{in marg. cum unco} (comptes). \\textbf{17 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "18": "\\textbf{18 Mte} \\textit{scil.} Marguerite (Calmels). \\textbf{18 Gift} \\textit{angl. in ms.}"
+        },
+        "historique": "\\textbf{l.~13--16 départ 6h 15... Arrivé Saint-Flour à minuit 30 s. :} Pour remonter de Millau vers Paris, le train emprunte la ligne des Causses par Séverac-le-Château et Marvejols jusqu'aux hauts plateaux enneigés de la Margeride et de la Planèze de Saint-Flour (Cantal), où la correspondance nocturne est interrompue."
+      },
+      "changes": {
+        "marginal_notes": {
+          "3": "\\textbf{3 gd} \\textit{abbr. pro} grande (devant « chambre »).",
+          "4": "\\textbf{4 ts} \\textit{abbr. pro} tous. \\textbf{4 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "9": "\\textbf{9 s.} \\textit{abbr. pro} soir.",
+          "14": "\\textbf{14 ttes} \\textit{abbr. pro} toutes.",
+          "17": "\\textbf{17} \\textit{in marg. cum unco} (comptes). \\textbf{17 Mte} \\textit{scil.} Marguerite (Calmels).",
+          "18": "\\textbf{18 Mte} \\textit{scil.} Marguerite (Calmels). \\textbf{18 Gift} \\textit{angl. in ms.}"
+        },
+        "historique": "\\textbf{l.~4--18 :} Visite au cimetière à deux, puis départ de Millau avec adieux et présence de Pierre devant la gare ; arrivée à Saint-Flour à minuit 30 après le retard du train. Le dossier familial mentionne Germaine et Robert parmi les Vincens ; le compte dit seulement enfants Vincens. Le caveau visité et la cause météorologique du retard ne sont pas écrits."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110441.jpg",
+          "detail": "Le crop montre gd chambre, avec petite lettre finale suscrite. Le développement marginal doit s’accorder avec chambre ; la conjecture sa est écartée."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/143_relecture_chambre.png",
+          "detail": "Le crop montre gd chambre, avec petite lettre finale suscrite. Le développement marginal doit s’accorder avec chambre ; la conjecture sa est écartée."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110441.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Caveau et cause du retard par la neige non écrits."
+        },
+        {
+          "source": "biographie_et_famille/Livre_Pierre_Combes/Combes-3-part 1.DOC",
+          "detail": "Monographie familiale lue avec antiword : parents, récit du mariage et Germaine Vincens fille Madeleine âgée 6 ans ; preuve externe au carnet."
+        }
+      ]
+    },
+    {
+      "scan_num": 144,
+      "filename": "20251126_110549.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~14--17 Ciel bas \\& mat, se confondant à l'horizon proche avec campagne feutrée de blanc. Flocons serrés et menus tombent sans discontinuer, voilant l'atmosphère :} Admirable tableau d'hiver observé à travers la vitre du train express entre le Bourbonnais et le Gâtinais.",
+        "historique": "\\textbf{l.~8--19 A 7h 30, à Brioude... Quitté Brioude à 8h 30. Enfin dans un grand train P.L.M., express :} Après la ligne de montagne de la Compagnie du Midi (Millau–Neussargues) et le tronçon d'Arvant/Brioude, le voyageur rejoint sur la grande artère du P.-L.-M. (Paris–Lyon–Méditerranée par le Bourbonnais) l'express de Clermont-Ferrand à Paris-Gare de Lyon via Gannat, Moulins, Nevers, Gien et Montargis."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~14--17 :} Le paysage « feutré de blanc » et les flocons « serrés et menus » sont des formulations autographes ; leur appréciation esthétique appartient au commentaire.",
+        "historique": "\\textbf{l.~8--19 :} Brioude, Clermont, Gannat, Gien et Montargis jalonnent l’itinéraire noté, avec les heures correspondantes. Combes précise « grand train P.L.M., express » ; les gares intermédiaires non nommées et le détail des correspondances demandent un indicateur ferroviaire contemporain."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110549.jpg",
+          "detail": "La photographie donne une suite de stations et P.L.M., express. Elle ne donne pas l’ensemble du réseau ou des correspondances."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110549.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Neussargues/Arvant et détail de réseau sans indicateur contemporain joint."
+        }
+      ]
+    },
+    {
+      "scan_num": 145,
+      "filename": "20251126_110601.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~10--12 Pris métro gare Lyon, changé à Bastille, et arrivé gare Nord assez à temps pour prendre train 7h 19 :} En quarante-neuf minutes à peine, avec ses bagages, Hippolyte Combes réussit la jonction entre la gare de Lyon et la gare du Nord via la ligne 1 et la ligne 5 du métropolitain parisien.",
+        "historique": "\\textbf{l.~16 Brioude, buffet, varia : 60 c :} Dépense enregistrée au bas de la page. Le contenu et le motif de la consommation ne sont pas précisés."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~9--12 :} Arrivée à Paris « vers 6 h 30 », métro gare de Lyon, changement à Bastille, gare du Nord et train de 7 h 19 : succession explicitement notée. L’heure approximative d’arrivée ne permet pas de transformer le trajet en durée chronométrée de quarante-neuf minutes.",
+        "historique": "\\textbf{l.~7--12 :} Passage à Corbeil-Essonnes, arrivée à Paris vers 6 h 30, changement de métro à Bastille, puis train de 7 h 19 gare du Nord. La page ne donne ni une durée mesurée de moins de trois quarts d’heure, ni le statut de train militaire ; les lignes de métro exigent un plan contemporain distinct."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110601.jpg",
+          "detail": "Le mot vers précède l’arrivée à Paris. Les bagages et un temps mesuré de correspondance ne sont pas écrits."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110601.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Moins de trois quarts d’heure incompatible avec les heures citées ; train militaire non écrit."
+        }
+      ]
+    },
+    {
+      "scan_num": 146,
+      "filename": "20251126_110616.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~14--17 En gare de Louvencourt, 2 taubes, plané, évolué ciel bleu, juste au-dessus voie. Obus éclataient tout autour de ces avions et taches blanches :} Profitant du ciel pur de l'anticyclone hivernal du 7 février 1917, les avions de reconnaissance allemands (désignés génériquement par les soldats alliés sous le nom de \\textit{Taubes}) survolent la voie ferrée stratégique de Doullens à Albert sous le tir des batteries antiaériennes britanniques (formant des flocons de fumée blanche dans l'azur)."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~5--21 :} Haltes à Amiens, au foyer Y.M.C.A. et en salle d’attente, puis train de Doullens, deux taubes à Louvencourt et retour chez les Carluvant à Acheux. L’identification des avions, de leur mission et de la batterie ne se déduit pas du terme taubes. Le métier de tailleur et l’adresse des logeurs ne figurent pas ici."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110616.jpg",
+          "detail": "La photographie décrit les avions, les obus et les taches blanches ; « anticyclone » et batteries britanniques ne sont pas désignés."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110616.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Mission des avions, batterie britannique, métier et adresse du logeur non documentés ici."
+        }
+      ]
+    },
+    {
+      "scan_num": 147,
+      "filename": "20251126_110628.jpg",
+      "originals": {
+        "lines": [
+          "Merc. 7 (suite) \\hfill Février 1917",
+          "En me rendant à notre office,",
+          "Mme Delille, qui au guichet, m'a appelé et",
+          "m'a appris que Cap. Williams a quitté Acheux",
+          "pour ⟦...⟧ Hérissart. Venu aussitôt Mission",
+          "française, où trouvé un mot du Cap. W.",
+          "Lui ai téléphoné du bureau Mission pour lui",
+          "annoncer mon arrivée.",
+          "Rentré chez les Carluvant, auxquels annoncé mon",
+          "départ. Atterrés. Fait en hâte mes paquets. Attendu",
+          "l'auto, qui arrivée vers 4h 1/2.",
+          "Quitté village d'Acheux et surtout maison",
+          "avec 1 serrement de cœur — —",
+          "En auto à Hérissart, par Raincheval",
+          "& Puchevillers.",
+          "Bise glaciale. Froid intense.",
+          "Town Major m'a donné petite chambre, n° 7b,",
+          "1er étage café Charlet, angle rue. De ma",
+          "fenêtre, as. belle vue sur la place et église.",
+          "Pleine lune brillait entre gds arbres.",
+          "Changement plutôt pénible d'habitudes."
+        ],
+        "critique": "\\textbf{l.~5 ⟦...⟧ Hérissart :} Trois lettres biffées d'un trait épais avant « Hérissart ». \\textbf{l.~12--13 Quitté village d'Acheux et surtout maison avec 1 serrement de cœur :} Après quatre mois passés sous le toit hospitalier des Carluvant à Acheux, ce départ précipité au retour de permission redouble le choc psychologique de la rentrée au front.",
+        "historique": "\\textbf{l.~17--19 :} La chambre n° 7b est au premier étage du café Charlet ; la place et l’église sont visibles de la fenêtre. Le carnet ne nomme pas cette église et ne la situe pas dans le café. Le rattachement du déplacement à une réorganisation précise de la Fifth Army exige une source distincte."
+      },
+      "changes": {
+        "lines": [
+          "Merc. 7 (suite) \\hfill Février 1917",
+          "En me rendant à notre office,",
+          "Mme Delille, qui au guichet, m'a appelé et",
+          "m'a appris que Cap. Williams, quitté Acheux",
+          "pour ⟦...⟧ Hérissart. Venu aussitôt Mission",
+          "française, où trouvé un mot du Cap. W.",
+          "Lui ai téléphoné du bureau Mission pour lui",
+          "annoncer mon arrivée.",
+          "Rentré chez les Carluvant, auxquels annoncé mon",
+          "départ. Atterrés. Fait en hâte mes paquets. Attendu",
+          "l'auto, qui arrivée vers 4h 1/2.",
+          "Quitté village d'Acheux et surtout maison",
+          "avec 1 serrement de cœur — —",
+          "En auto à Hérissart, par Raincheval",
+          "& Puchevillers.",
+          "Bise glaciale. Froid intense.",
+          "Town Major m'a donné petite chambre, n° 7b,",
+          "1er étage café Charlet, angle rue. De ma",
+          "fenêtre, as. belle vue sur la place et église.",
+          "Pleine lune brillait entre gds arbres.",
+          "Changement plutôt pénible d'habitudes."
+        ],
+        "critique": "\\textbf{l.~4 :} Après Williams, une petite séparation précède « quitté Acheux » ; aucun auxiliaire a distinct n’est écrit. La syntaxe elliptique est conservée. \\textbf{l.~5 :} Groupe biffé d’un trait épais avant « Hérissart », non restitué. \\textbf{l.~12--13 :} Le « serrement de cœur » à quitter Acheux et la maison est explicitement noté.",
+        "historique": "\\textbf{l.~2--21 :} Mme Delille annonce le départ de Williams ; un mot du capitaine l’attend à la Mission. Adieux aux Carluvant, parcours par Raincheval et Puchevillers, puis chambre 7 b au premier étage du café Charlet, avec vue sur place et église. Le texte ne nomme pas cette église et ne décrit pas un ordre administratif de transfert du bureau."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110628.jpg",
+          "detail": "Entre Williams et quitté, la séparation visible ne forme pas un a. Le supplément grammatical de la base est retiré."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/147_relecture_quitte.png",
+          "detail": "Entre Williams et quitté, la séparation visible ne forme pas un a. Le supplément grammatical de la base est retiré."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110628.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Église Saint-Martin, date 5 novembre et distance/canton sans preuve reliée ; citation a quitté désalignée."
+        }
+      ]
+    },
+    {
+      "scan_num": 148,
+      "filename": "20251126_110646.jpg",
+      "originals": {
+        "lines": [
+          "Merc. 7 (fin) \\hfill Février 1917",
+          "Notre bureau & mess, au n° 104, mauvaise",
+          "installation.",
+          "Après dîner, retourné chambre vers 9h.",
+          "Vitres recouvertes très épaisse gelée glacée.",
+          "Froid extrt rigoureux.",
+          "[ Dîner à Paris, métro : 1 f.",
+          "Amiens, Y.M.C.A. : 1 f. 15 c.",
+          "Touché solde Mission fr., Acheux : 78 f. 75",
+          "Gift aux Carluvant, pour",
+          "mon lunch & room : 5 f. ]",
+          "Jeudi 8.",
+          "Très bonne nuit. Bien reposé. Lit",
+          "très confortable.",
+          "Levé vers 8h —",
+          "Soleil sur mes fenêtres.",
+          "Descendu à l'office & mess. Excellent",
+          "breakfast.",
+          "Tout le jour, liberté entière —"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Merc.} \\textit{scil.} Mercredi.",
+          "2": "\\textbf{2 mess} \\textit{angl. in ms.}",
+          "6": "\\textbf{6 extrt} \\textit{abbr. pro} extrêmement.",
+          "7": "\\textbf{7} \\textit{in marg. cum unco} (comptes). \\textbf{7 f.} \\textit{abbr. pro} franc(s).",
+          "8": "\\textbf{8 Y.M.C.A.} \\textit{angl.} Young Men's Christian Assoc.. \\textbf{8 f.} \\textit{abbr. pro} franc(s).",
+          "9": "\\textbf{9 f.} \\textit{abbr. pro} franc(s).",
+          "10": "\\textbf{10 Gift} \\textit{angl. in ms.}",
+          "11": "\\textbf{11 f.} \\textit{abbr. pro} franc(s). \\textbf{11 lunch} \\textit{angl. in ms.}",
+          "17": "\\textbf{17 mess} \\textit{angl. in ms.}",
+          "18": "\\textbf{18 breakfast} \\textit{angl. in ms.}"
+        },
+        "critique": "\\textbf{l.~7--11 :} Grand crochet comptable ; « room » est ajouté sous « lunch ». La solde portée est 78 f 75. Le calcul « 31 jours + indemnités » n’est pas écrit. \\textbf{l.~11--12 :} Trait séparateur entre les deux dates.",
+        "historique": "\\textbf{l.~9 :} Solde reçue à la Mission française d’Acheux. L’information sur les paiements des 3 et 18 du mois vient le 9 février au Scan \\#150."
+      },
+      "changes": {
+        "lines": [
+          "Merc. 7 (fin) \\hfill Février 1917",
+          "Notre bureau & mess, au n° 104, mauvaise",
+          "installation.",
+          "Après dîner, retourné chambre vers 9h.",
+          "Vitres recouvertes très épaisse gelée glacée.",
+          "Froid extrt rigoureux.",
+          "[ Dîner à Paris, métro : 1 f.",
+          "Amiens, Y.M.C.A. : 1 f. 15 c.",
+          "Touché solde Mission fr., Acheux : 78 f. 75",
+          "Gift aux Carluvant, pour",
+          "mon lunch et room : 5 f. ]",
+          "Jeudi 8.",
+          "Très bonne nuit. Bien reposé. Lit",
+          "très confortable.",
+          "Levé vers 8h —",
+          "Soleil sur mes fenêtres.",
+          "Descendu à l'office & mess. Excellent",
+          "breakfast.",
+          "Tout le jour, liberté entière —"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Merc.} \\textit{scil.} Mercredi.",
+          "2": "\\textbf{2 mess} \\textit{angl. in ms.}",
+          "6": "\\textbf{6 extrt} \\textit{abbr. pro} extrêmement.",
+          "7": "\\textbf{7} \\textit{in marg. cum unco} (comptes). \\textbf{7 f.} \\textit{abbr. pro} franc(s).",
+          "8": "\\textbf{8 Y.M.C.A.} \\textit{angl.} Young Men's Christian Assoc.. \\textbf{8 f.} \\textit{abbr. pro} franc(s).",
+          "9": "\\textbf{9 f.} \\textit{abbr. pro} franc(s).",
+          "10": "\\textbf{10 Gift} \\textit{angl. in ms.}",
+          "11": "\\textbf{11 f.} \\textit{abbr. pro} franc(s). \\textbf{11 lunch / room} \\textit{angl. in ms.} « et room » ajouté sous « mon lunch ».",
+          "17": "\\textbf{17 mess} \\textit{angl. in ms.}",
+          "18": "\\textbf{18 breakfast} \\textit{angl. in ms.}"
+        },
+        "critique": "\\textbf{l.~7--11 :} Grand crochet comptable ; « et room » est ajouté sous « mon lunch ». La solde portée est 78 f 75. Aucun calcul décomposant cette somme n’est écrit. \\textbf{l.~11--12 :} Trait séparateur entre les deux dates.",
+        "historique": "\\textbf{l.~2--18 :} Bureau et mess au 104 ; les comptes portent solde de 78 f 75 et cadeau de 5 f aux Carluvant pour mon lunch, avec et room ajouté au-dessous. Le 19 février, la propriétaire du 104 sera dite malade au Scan 157 ; cette page ne fixe pas la date d’un futur emménagement ni la composition de la solde."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110646.jpg",
+          "detail": "La liaison ajoutée sous lunch est un et en deux lettres, distinct des signes & aux lignes 2 et 17."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/148_comptes.png",
+          "detail": "La liaison ajoutée sous lunch est un et en deux lettres, distinct des signes & aux lignes 2 et 17."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110646.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Logement fin février contredit 19 février ; somme non décomposée."
+        }
+      ]
+    },
+    {
+      "scan_num": 149,
+      "filename": "20251126_110659.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~4 Rubempré :} Gros village situé à 3 km au sud d'Hérissart sur le plateau crayeux entre la Somme et l'Authie."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~4--19 :} Promenade à Rubempré et description de vallonnements et moulins, puis rangement de la chambre. Le froid empêche d’y écrire le lendemain. La durée de marche est réservée ; première reconnaissance et caractère crayeux des reliefs sont des précisions extérieures au texte."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110659.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Première reconnaissance et craie non établies."
+        }
+      ]
+    },
+    {
+      "scan_num": 150,
+      "filename": "20251126_110726.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~3--5 :} Il apprend qu’il sera désormais administré par l’armée et payé les 3 et 18 du mois. Ce document établit la règle notée par Combes ; les paiements des Scans \\#156 et \\#162 en offrent des rapprochements internes."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~2--21 :} Croughton[?] a déjà une occurrence à Authie au Scan 109 ; la comparaison est nominative, non une identification civile. Combes apprend à Toutencourt qu’il sera administré par l’armée et payé les 3 et 18. Les paiements des Scans 156, 162 et 170 fournissent des rapprochements internes. Le niveau administratif antérieur et le numéro de parc automobile ne sont pas précisés."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110726.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Changement de corps vers armée et parc automobile plus précis que texte."
+        }
+      ]
+    },
+    {
+      "scan_num": 151,
+      "filename": "20251126_110737.jpg",
+      "originals": {
+        "marginal_notes": {
+          "1": "\\textbf{1 Sam.} \\textit{scil.} Samedi.",
+          "4": "\\textbf{4 Lt} \\textit{abbr. pro} Lieutenant. \\textbf{4 Lunché} \\textit{angl. in ms.}",
+          "5": "\\textbf{5 qq} \\textit{abbr. pro} quelque(s). \\textbf{5 cantonnemt} \\textit{abbr. pro} cantonnement.",
+          "6": "\\textbf{6 ts} \\textit{abbr. pro} tous.",
+          "9": "\\textbf{9 ds} \\textit{abbr. pro} dans.",
+          "10": "\\textbf{10 refilling point} \\textit{angl. in ms.}",
+          "11": "\\textbf{11 Cap.} \\textit{abbr. pro} Capitaine.",
+          "12": "\\textbf{12 1/2} \\textit{scil.} demi / moitié.",
+          "13": "\\textbf{13 Cap.} \\textit{abbr. pro} Capitaine.",
+          "17": "\\textbf{17 Dim.} \\textit{scil.} Dimanche.",
+          "18": "\\textbf{18 extrt} \\textit{abbr. pro} extrêmement.",
+          "19": "\\textbf{19 Ds} \\textit{abbr. pro} Dans. \\textbf{19 1/2} \\textit{scil.} demi / moitié."
+        },
+        "critique": "\\textbf{l.~3--10 Cy / Lunché / N.C.O's \\& men / refilling point :} Concentration remarquable d'anglicismes militaires (\\textit{Cy} = \\textit{Company}, \\textit{N.C.O's \\& men} = sous-officiers et soldats, \\textit{refilling point} = point de ravitaillement quotidien des trains régimentaires). \\textbf{l.~19 Ds le 1/2 du jour :} Graphie abrégée pour « Dans le milieu du jour ».",
+        "historique": "\\textbf{l.~12--13 :} Une Mission française du « 2e corps » est mentionnée à Senlis, avec la visite au capitaine de Casteljau. Sa fonction dans le détachement n’est pas précisée."
+      },
+      "changes": {
+        "marginal_notes": {
+          "1": "\\textbf{1 Sam.} \\textit{scil.} Samedi.",
+          "4": "\\textbf{4 Lt} \\textit{abbr. pro} Lieutenant. \\textbf{4 Lunché} \\textit{angl. in ms.}",
+          "5": "\\textbf{5 qq} \\textit{abbr. pro} quelque(s). \\textbf{5 cantonnemt} \\textit{abbr. pro} cantonnement.",
+          "6": "\\textbf{6 ts} \\textit{abbr. pro} tous.",
+          "9": "\\textbf{9 ds} \\textit{abbr. pro} dans.",
+          "10": "\\textbf{10 refilling point} \\textit{angl. in ms.}",
+          "11": "\\textbf{11 Cap.} \\textit{abbr. pro} Capitaine.",
+          "12": "\\textbf{12 1/2} \\textit{scil.} demi / moitié.",
+          "13": "\\textbf{13 Cap.} \\textit{abbr. pro} Capitaine.",
+          "17": "\\textbf{17 Dim.} \\textit{scil.} Dimanche.",
+          "18": "\\textbf{18 extrt} \\textit{abbr. pro} extrêmement.",
+          "19": "\\textbf{19 Ds} \\textit{abbr. pro} Dans. \\textbf{19 1/2 du jour} Milieu du jour, dans ce contexte ; ne pas développer isolément en demi-journée."
+        },
+        "critique": "\\textbf{l.~3--10 :} Abréviations et expressions anglaises conservées : Cy (Company), N.C.O’s \\& men (sous-officiers et soldats), refilling point (point de ravitaillement). La fréquence du ravitaillement et les unités desservies ne sont pas précisées ici. \\textbf{l.~19 :} « Ds le 1/2 du jour » renvoie au milieu de la journée dans la description du réchauffement.",
+        "historique": "\\textbf{l.~2--14 :} L’ancienne Cy d’Aveluy, Bradfield, Lovet, le refilling point et la Mission du 2e Corps à Senlis sont nommés. Le Scan 066 donne 152 Coy A.S.C., mais le rapprochement avec cette ancienne compagnie ne doit pas remplacer la formule autographe. Portée des canons, fonction de Casteljau et secteur opérationnel du corps ne sont pas indiqués."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110737.jpg",
+          "detail": "Les emprunts et le signe 1/2 sont visibles. Le développement marginal demi/moitié était incompatible avec la locution entière ; la périodicité des trains régimentaires était ajoutée au commentaire."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/151_anglais.png",
+          "detail": "Les emprunts et le signe 1/2 sont visibles. Le développement marginal demi/moitié était incompatible avec la locution entière ; la périodicité des trains régimentaires était ajoutée au commentaire."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110737.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Identification ancienne compagnie plausible, pas leçon ; portée des canons et secteur non prouvés."
+        }
+      ]
+    },
+    {
+      "scan_num": 152,
+      "filename": "20251126_110753.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~9--12 Vu M. Romert... Vieux célibataire, héritier de 3 générations :} Esquissé en trois lignes, ce portrait digne d'un roman de Balzac ou de Maupassant montre le goût d'Hippolyte Combes pour l'observation sociale des notables de province rencontrés au fil de ses réquisitions. \\textbf{l.~18--20 [ Doullens... ] :} Encadré de menues dépenses dominicales (papeterie, cartes postales, chocolat et biscuits Petit Beurre).",
+        "historique": "\\textbf{l.~9--10 :} Le rhum est suivi du millésime 1870 ; le kirsch de la mention Forêt Noire. La page ne donne ni date d’achat ni lieu de production précis du rhum."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~9--12 :} Le célibat, les trois générations et la fortune destinée à des étrangers sont des propos notés par Combes ; leur origine (information reçue, supposition ou jugement personnel) n’est pas explicitée. \\textbf{l.~18--20 :} Encadré de dépenses : papeterie, cartes postales, chocolat et biscuits Petit Beurre.",
+        "historique": "\\textbf{l.~3--13 :} Tournée à Toutencourt, Doullens et Auxi-le-Château ; M. Romert offre rhum 1870 et kirsch Forêt-Noire. Le Scan 124 mentionne une précédente visite à Auxi, chez M. Renard : cette coïncidence de lieu ne démontre pas l’identité des deux noms. Le statut de propriétaire terrien et l’origine du rhum restent inconnus."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110753.jpg",
+          "detail": "La photographie contient un portrait bref mais ne caractérise ni le statut social précis ni les circonstances de transmission des informations."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110753.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Propriétaire terrien inventé ; Renard 124 ne prouve pas Romert 152."
+        }
+      ]
+    },
+    {
+      "scan_num": 153,
+      "filename": "20251126_110804.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~4--5 Méaulte, magnifique minoterie :} Visite explicitement notée. La page ne dit pas quel service militaire utilise cette minoterie, ni quels produits elle fournit."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~4--22 :} Méaulte, Ville, Treux, Méricourt et Ribemont jalonnent la tournée ; Combes reconnaît des villages familiers et des heures vécues. Les lettres de 1916 documentent séparément un service dans cette région, sans établir un séjour continu dans chacun de ces villages. La minoterie est visitée, sans affectation militaire désignée ; cinq vues de la cathédrale d’Amiens sont achetées."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110804.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Séjour continu et périmètre des premiers mois non démontrés."
+        }
+      ]
+    },
+    {
+      "scan_num": 154,
+      "filename": "20251126_110831.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~11--12 vitres embellies d'arabesques magnifiques :} Notation esthétique récurrente (reprise le 16 février au Scan \\#155 : « vitres ornées d'admirables dessins de glace »). \\textbf{l.~17 (prix exorbitants) :} Parenthèse indignée du gestionnaire économe devant l'inflation des prix pratiqués par les cafetiers de la zone des armées britanniques.",
+        "historique": "\\textbf{l.~16--17 :} Repas au café de l’Hôtel de Ville d’Acheux, suivi de la parenthèse « prix exorbitants ». La clientèle visée par l’établissement et la découverte du coût par Combes ne sont pas documentées ici."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~11--12 :} Arabesques de glace sur les vitres ; rapprochement interne avec les « dessins de glace » du Scan \\#155. \\textbf{l.~17 :} « prix exorbitants » est placé entre parenthèses. L’établissement, la clientèle et le contexte économique ne sont pas décrits.",
+        "historique": "\\textbf{l.~5--20 :} Courses à Authie, Puchevillers, Gouin[?], Acheux et Toutencourt ; repas au café de l’Hôtel de Ville et rendez-vous avec M. Lefèvre. Le texte ne qualifie pas ce rendez-vous de service et n’identifie pas davantage Lefèvre. Le toponyme réservé n’est pas développé par itinéraire."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110831.jpg",
+          "detail": "La parenthèse porte un jugement sur les prix ; l’inflation due à la clientèle britannique n’est pas écrite."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110831.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Rendez-vous qualifié de service sans indication."
+        }
+      ]
+    },
+    {
+      "scan_num": 155,
+      "filename": "20251126_110914.jpg",
+      "originals": {
+        "lines": [
+          "Jeudi 15 — \\hfill Février 1917 —",
+          "Gelé nuit.",
+          "Ds la journée, très beau soleil.",
+          "Matinée, courses à Toutencourt, Raincheval",
+          "& Puchevillers.",
+          "Après-midi, liberté.",
+          "Dans ma chambre : écrit un peu. Puis",
+          "promené village, grand costume. Vu le",
+          "maire. Population, sympathique.",
+          "Nuit extrt belle, mervt étoilée.",
+          "Toujours gelé 1 peu. Très difficile monter",
+          "rues en pente, car couvertes de glace.",
+          "Vendredi 16 — Au réveil, trouvé encore",
+          "vitres ornées d'admirables dessins de glace.",
+          "Mais, ds la journée, température, de",
+          "+ en + douce et dégel très rapide.",
+          "Toute matinée, en auto. Roulé 2 ou",
+          "3 h. ds le village de Beaucourt, fermes",
+          "et château, pour trouver paille & foin.",
+          "Ciel nuageux. Pluie menace.",
+          "Après-midi, liberté entière."
+        ],
+        "marginal_notes": {
+          "3": "\\textbf{3 Ds} \\textit{abbr. pro} Dans.",
+          "10": "\\textbf{10 extrt} \\textit{abbr. pro} extrêmement. \\textbf{10 mervt} \\textit{abbr. pro} merveilleusement.",
+          "15": "\\textbf{15 ds} \\textit{abbr. pro} dans.",
+          "18": "\\textbf{18 ds} \\textit{abbr. pro} dans."
+        },
+        "critique": "\\textbf{l.~8 grand costume :} Expression autographe à conserver. La description détaillée de la vareuse, des bottes et des éperons vient d’une autre source iconographique et ne décrit pas nécessairement la tenue de ce jour.",
+        "historique": "\\textbf{l.~18 Beaucourt :} Toponyme sans déterminant. Beaucourt-sur-l’Hallue est une possibilité géographique ; le château et les fermes ne suffisent pas à exclure à eux seuls tous les autres Beaucourt. Identification laissée ouverte."
+      },
+      "changes": {
+        "lines": [
+          "Jeudi 15 — \\hfill Février 1917 —",
+          "Gelé nuit.",
+          "Ds la journée, très beau soleil.",
+          "Matinée, courses à Toutencourt, Raincheval",
+          "& Puchevillers.",
+          "Après-midi, liberté.",
+          "Dans ma chambre : écrit un peu. Puis",
+          "promené village, grand costume. Vu le",
+          "maire. Population, sympathique.",
+          "Nuit extrt belle, mervt étoilée.",
+          "Toujours gelé 1 peu. Très difficile monter",
+          "rues en pente, car couvertes de glace.",
+          "Vendredi 16 — Au réveil, trouvé encore",
+          "vitres ornées d'admirables dessins de glace.",
+          "Mais, ds la journée, température, de",
+          "+ en + douce et dégel très rapide.",
+          "Toute matinée, en auto. [Roulé ?] 2 ou",
+          "3 h. ds le village de Beaucourt, fermes",
+          "et château, pour trouver paille & foin.",
+          "Ciel nuageux. Pluie menace.",
+          "Après-midi, liberté entière."
+        ],
+        "marginal_notes": {
+          "3": "\\textbf{3 Ds} \\textit{abbr. pro} Dans.",
+          "10": "\\textbf{10 extrt} \\textit{abbr. pro} extrêmement. \\textbf{10 mervt} \\textit{abbr. pro} merveilleusement.",
+          "15": "\\textbf{15 ds} \\textit{abbr. pro} dans.",
+          "18": "\\textbf{18 ds} \\textit{abbr. pro} dans.",
+          "17": "\\textbf{17 [Roulé ?]} Lecture réservée ; Rôdé reste possible."
+        },
+        "critique": "\\textbf{l.~8 grand costume :} Expression autographe à conserver. La description détaillée de la vareuse, des bottes et des éperons vient d’une autre source iconographique et ne décrit pas nécessairement la tenue de ce jour. \\textbf{l.~17 :} Initiale remaniée et groupe médian peu distinct ; la lecture Roulé est retenue sous réserve, sans éliminer Rôdé.",
+        "historique": "\\textbf{l.~4--19 :} Visite au maire en grand costume, puis recherche de paille et foin dans les fermes et au château de Beaucourt. Beaucourt-sur-l’Hallue est une possibilité renforcée par les vues sur Beaucourt et Montigny au Scan 183 ; la commune reste à établir par une pièce locale. La proximité ou la destruction d’un autre Beaucourt ne suffisent pas à rendre la lecture certaine."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110914.jpg",
+          "detail": "Le verbe a une initiale épaisse et un groupe médian peu distinct ; la réserve déjà reconnue dans la base doit apparaître aussi dans la transcription."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110914.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Quasi-certitude Beaucourt-sur-Hallue non démontrée."
+        }
+      ]
+    },
+    {
+      "scan_num": 156,
+      "filename": "20251126_110930.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~5 correspce :} Abréviation par contraction (\\textit{correspondance}). \\textbf{l.~14--15 Puis enfin rester ds ma chambre, quoique sans feu :} Première fois depuis son arrivée à Hérissart le 7 février que le redoux lui permet de se tenir dans sa chambre du n° 7b sans y geler. \\textbf{l.~24--25 [ A Toutencourt, solde : 68 f. 25 c. ] :} Conformément à la nouvelle règle notée le 9 février (Scan \\#150), il touche sa solde le 18 du mois.",
+        "historique": "\\textbf{l.~17--19 :} Demande de renseignements sur le cantonnement d’Anglais à Toulouse à la Mission française de la Vth Armée. Aucun souhait d’affectation personnelle n’est exprimé dans cette notation."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~5 correspce :} Abréviation par contraction de correspondance. \\textbf{l.~14--15 :} Il peut enfin rester dans sa chambre, quoique sans feu, après le dégel. Le mot enfin est autographe, sans qu’il soit nécessaire de lui attribuer une première fois absolue. \\textbf{l.~24--25 :} Solde de 68 f 25 portée le 18 du mois ; rapprochement avec la règle notée au Scan \\#150.",
+        "historique": "\\textbf{l.~17--25 :} Mission française de la Vth Armée à Toutencourt, demande sur le cantonnement d’Anglais à Toulouse, prône et solde 68 f 25 le 18. La décomposition en 13 jours à 5 f 25 est arithmétiquement possible mais n’est pas écrite ni fondée sur un tarif contrôlé. L’église est celle du village ; sa dédicace n’est pas donnée."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110930.jpg",
+          "detail": "La description du redoux et enfin permettent un rapprochement interne, pas une première fois démontrée depuis le 7 février. Le compte 68 f 25 est contrôlé."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/156_solde.png",
+          "detail": "La description du redoux et enfin permettent un rapprochement interne, pas une première fois démontrée depuis le 7 février. Le compte 68 f 25 est contrôlé."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110930.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; 13 jours à 5 f 25 : quotient plausible sans tarif ; dédicace non sourcée."
+        }
+      ]
+    },
+    {
+      "scan_num": 157,
+      "filename": "20251126_110943.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~13--14 :} La propriétaire du n° 104 est dite malade ; Combes va chercher le curé et le M.O. La gravité précise de la maladie et l’administration éventuelle de sacrements ne sont pas indiquées."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~7--26 :} Leonard annonce de nouveaux arrangements pour les billets ; Combes change de chambre, puis va chercher curé et M.O. pour la propriétaire malade du 104. L’écriture des comptes du 20 ne prouve pas qu’Albertine soit la domestique du logement quitté ou que les 2 f aient été réglés au moment du déménagement. Aucun diagnostic n’est indiqué."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_110943.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Albertine domestique du 7 b et paiement au déménagement non écrits."
+        }
+      ]
+    },
+    {
+      "scan_num": 158,
+      "filename": "20251126_111008.jpg",
+      "originals": {
+        "lines": [
+          "21 Merc. — \\hfill Février 1917",
+          "Temps nuageux. Brume pénétrante. Bruine",
+          "intermittente. Dégel, transformé",
+          "routes en fondrières véritables. Très profondes ornières.",
+          "Matin, course à Auxi-le-Château. Au-delà",
+          "de Doullens, campagne as. pittoresque, mais",
+          "brouillard et pluie gâtent paysages banals.",
+          "Arrêt à Doullens, 1h 1/2, pour lunch.",
+          "Retour par Puchevillers, routes abomles.",
+          "Impressions de solitude & détresse morale.",
+          "[ A Doullens, mandat de 42 f. pour Mme",
+          "Spagnol, Nice — —",
+          "A Doullens : 2 œufs & café : 1 f. —",
+          "1 pr. de semelles liège : 0 f. 80 ]",
+          "Après-midi, à Hérissart, village 1 peu",
+          "plus désert, presque funèbre.",
+          "22 Jeudi — Journée d'1 monotonie extra.",
+          "Temps couvert. Matin & soir, épais",
+          "brouillard.",
+          "Liberté entière tt le jour. Resté office, ou",
+          "avec proprios, à lire, causer etc. —",
+          "23 Vendredi — Encore = temps, brouillard & boue.",
+          "Matinée, à Molliens-au-Bois, pour trouver",
+          "fourrage. Petit village au fond d'1 vallon,",
+          "à côté de Montigny.",
+          "Après-midi, liberté. Resté office et",
+          "rangé paquets —"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Merc.} \\textit{scil.} Mercredi.",
+          "6": "\\textbf{6 as.} \\textit{abbr. pro} assez.",
+          "8": "\\textbf{8 1/2} \\textit{scil.} demi / moitié. \\textbf{8 lunch} \\textit{angl. in ms.}",
+          "9": "\\textbf{9 abomles} \\textit{abbr. pro} abominables.",
+          "11": "\\textbf{11} \\textit{in marg. cum unco} (comptes). \\textbf{11 Mme} \\textit{abbr. pro} Madame.",
+          "13": "\\textbf{13 f.} \\textit{abbr. pro} franc(s).",
+          "14": "\\textbf{14 pr} \\textit{abbr. pro} pour. \\textbf{14 f.} \\textit{abbr. pro} franc(s).",
+          "20": "\\textbf{20 tt} \\textit{abbr. pro} tout."
+        },
+        "critique": "\\textbf{l.~9 abomles :} Abréviation de \\textit{abominables}. \\textbf{l.~14 :} Achat de semelles de liège ; son rapprochement avec la chambre humide du Scan \\#157 reste une interprétation. \\textbf{l.~22 = :} Signe utilisé pour « même ».",
+        "historique": "\\textbf{l.~11--12 mandat de 42 f. pour Mme Spagnol, Nice :} Règlement postal de 42 francs envoyé depuis le bureau de poste de Doullens à sa tante Thérèse Spagnol à Nice (déjà destinataire d'un télégramme le 31 janvier, Scan \\#136)."
+      },
+      "changes": {
+        "lines": [
+          "21 Merc. — \\hfill Février 1917",
+          "Temps nuageux. Brume pénétrante. Bruine",
+          "intermittente. Dégel, transformé",
+          "routes en fondrières véritables. Très profondes ornières.",
+          "Matin, course à Auxi-le-Château. Au-delà",
+          "de Doullens, campagne as. pittoresque, mais",
+          "brouillard et pluie rendent paysages banals.",
+          "Arrêt à Doullens, 1h 1/2, pour lunch.",
+          "Retour par Puchevillers, routes abomles.",
+          "Impressions de solitude & détresse morale.",
+          "[ A Doullens, mandat de 42 f. pour Mme",
+          "Spagnol, Nice — —",
+          "A Doullens : 2 œufs & café : 1 f. —",
+          "de semelles liège : 0 f. 80 ]",
+          "Après-midi, à Hérissart, village 1 peu",
+          "plus désert, presque funèbre.",
+          "22 Jeudi — Journée d'1 monotonie extra.",
+          "Temps couvert. Matin & soir, épais",
+          "brouillard.",
+          "Liberté entière tt le jour. Resté office, ou",
+          "avec proprios, à lire, causer etc. —",
+          "23 Vendredi — Encore = temps, brouillard & boue.",
+          "Matinée, à Molliens-au-Bois, pour trouver",
+          "fourrage. Petit village au fond d'1 vallon,",
+          "à côté de Montigny.",
+          "Après-midi, liberté. Resté office et",
+          "rangé paquets —"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Merc.} \\textit{scil.} Mercredi.",
+          "6": "\\textbf{6 as.} \\textit{abbr. pro} assez.",
+          "8": "\\textbf{8 1/2} \\textit{scil.} demi / moitié. \\textbf{8 lunch} \\textit{angl. in ms.}",
+          "9": "\\textbf{9 abomles} \\textit{abbr. pro} abominables.",
+          "11": "\\textbf{11} \\textit{in marg. cum unco} (comptes). \\textbf{11 Mme} \\textit{abbr. pro} Madame.",
+          "13": "\\textbf{13 f.} \\textit{abbr. pro} franc(s).",
+          "14": "\\textbf{14 f.} \\textit{abbr. pro} franc(s). Le groupe «1pr» de l’ancienne transcription n’est pas visible.",
+          "20": "\\textbf{20 tt} \\textit{abbr. pro} tout."
+        },
+        "critique": "\\textbf{l.~7 :} Lecture rendent, à attaque re et sans descendante de g ; l’ancienne lecture gâtent est retirée. \\textbf{l.~9 abomles :} Abréviation de abominables. \\textbf{l.~14 :} La ligne visible commence « de semelles liège » ; l’espace à gauche ne porte pas le «1 pr» fourni par l’édition antérieure. La quantité n’est donc pas suppléée. Le motif de l’achat n’est pas indiqué. \\textbf{l.~22 = :} Signe utilisé pour même.",
+        "historique": "\\textbf{l.~11--12 :} Mandat de 42 f pour Mme Spagnol à Nice. Le télégramme du Scan 136 et les démarches relatives au panier de fleurs aux Scans 134/137 permettent un rapprochement, sans facture établissant l’objet exact du règlement. L’identification ancienne à la tante Thérèse est retirée ; celle-ci est associée aux Layral au Scan 142."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111008.jpg",
+          "detail": "Lecture native du verbe rendent ; dans les comptes, aucune suite 1 pr n’occupe l’espace précédant de semelles liège. Le faux développement pour/paire devient sans objet."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/158_relecture_paysages.png",
+          "detail": "Lecture native du verbe rendent ; dans les comptes, aucune suite 1 pr n’occupe l’espace précédant de semelles liège. Le faux développement pour/paire devient sans objet."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111008.jpg",
+          "detail": "Contrôle de toute la zone comptable, et pas seulement du verbe."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/158_relecture_paire.png",
+          "detail": "Contrôle de toute la zone comptable, et pas seulement du verbe."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111008.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Tante Thérèse erronée ; solde de fleurs hypothétique sans facture."
+        }
+      ]
+    },
+    {
+      "scan_num": 159,
+      "filename": "20251126_111019.jpg",
+      "originals": {
+        "lines": [
+          "24 Samedi — \\hfill Fév. 1917",
+          "Journée entière, inoccupé.",
+          "Après-midi, courte promenade s/ route",
+          "de Contay. Temps brumeux. Route très",
+          "boueuse. Arrivé jusqu'au moulin —",
+          "25 Dim.",
+          "Matin, course à Mirvaux — hameau d'1",
+          "100ne d'habitants. Silence & solitude funèbres.",
+          "Enfin, durant qq heures, soleil brille, ciel",
+          "bleu. 1ère sensation de printemps proche.",
+          "Après lunch, venu promener seul sur la",
+          "route de Toutencourt. Beau soleil, ciel bleu.",
+          "Champs ensemencés. Masses sombres de petits",
+          "bois à l'horizon. Air encore froid.",
+          "Village où ns sommes exilés, absolt",
+          "perdu sur hauteurs — —",
+          "26 L. — Jour entier de liberté. Cap. W., seul",
+          "parti vers 11h, allé à Senlis & Martinsart,",
+          "ne rentré qu'à 6h s.",
+          "Temps beau, soleil très agréable 1/2 journée.",
+          "Écrit bcp et lu English novel.",
+          "Après tea, promenade autour & ds les",
+          "environs du village.",
+          "De nouveau, après dîner, nuit étoilée, et",
+          "pleine lune."
+        ],
+        "critique": "\\textbf{l.~21 lu English novel :} Mention d’un roman anglais, sans titre, fréquence de lecture ni origine du livre. \\textbf{l.~24--25 :} La pleine lune est une observation consignée ; elle ne doit pas être rectifiée silencieusement à partir d’éphémérides.",
+        "historique": "\\textbf{l.~17--19 :} Sortie du capitaine Williams à Senlis et Martinsart. Le carnet ne relie pas cette course à une opération australienne précise. L’ancienne mention d’une 7e Division australienne est anachronique : l’Australian War Memorial, notice du 2/4th Field Regiment (U54394), date la décision de former cette division de février 1940."
+      },
+      "changes": {
+        "lines": [
+          "24 Samedi — \\hfill Fév. 1917",
+          "Journée entière, inoccupé.",
+          "Après-midi, courte promenade s/ route",
+          "de Contay. Temps brumeux. Route très",
+          "boueuse. Arrivé jusqu'au moulin —",
+          "25 Dim.",
+          "Matin, course à Mirvaux — hameau d'1",
+          "100ne d'habitants. Silence & solitude funèbres.",
+          "Enfin, durant qq heures, soleil brille, ciel",
+          "bleu. 1ère sensation de printemps proche.",
+          "Après lunch, venu promener seul sur la",
+          "route de Toutencourt. Beau soleil, ciel bleu.",
+          "Champs ensemencés. Masses sombres de petits",
+          "bois à l'horizon. Air encore froid.",
+          "Village où ns sommes exilés, absolt",
+          "perdu sur hauteurs — —",
+          "26 L. — Jour entier de liberté. Cap. W., seul",
+          "parti vers 9h, allé à Senlis & Martinsart,",
+          "ne rentré qu'à 6h s.",
+          "Temps beau, soleil très agréable 1/2 journée.",
+          "Écrit bcp et lu English novel.",
+          "Après tea, promenade autour & ds les",
+          "environs du village.",
+          "De nouveau, après dîner, nuit étoilée, et",
+          "pleine lune."
+        ],
+        "critique": "\\textbf{l.~18 :} Le chiffre 9 est écrit d’un seul groupe bouclé suivi de h suscrit, non de deux hampes 1. \\textbf{l.~21 :} Roman anglais sans titre ni origine indiquée. \\textbf{l.~24--25 :} Pleine lune consignée ; aucune rectification astronomique silencieuse.",
+        "historique": "\\textbf{l.~17--21 :} Le 26 février, Williams part vers 9 h pour Senlis et Martinsart ; Combes écrit et lit un English novel. La tournée n’est pas liée dans le texte aux décrochages allemands. Les activités militaires contemporaines du secteur relèvent du contexte, sans prouver la mission de Williams."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111019.jpg",
+          "detail": "Le groupe horaire comporte la boucle et la descente du 9 suivies de h suscrit ; pas deux 1."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/159_relecture_heure.png",
+          "detail": "Le groupe horaire comporte la boucle et la descente du 9 suivies de h suscrit ; pas deux 1."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111019.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; 11 h erroné ; mission liée au décrochage allemand non prouvée."
+        }
+      ]
+    },
+    {
+      "scan_num": 160,
+      "filename": "20251126_111035.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~4--5 Capt. W., tooth ache, au lit j'à 1h après-midi. D'où journée entière de liberté :} L'ironie pince-sans-rire du constat (la rage de dents du capitaine notée en anglais, \\textit{tooth ache}, saluée comme une aubaine de liberté pour l'interprète) est typique de l'humour discret du carnet. \\textbf{l.~8 barbed wire :} Emprunt lexical anglais pour « fil de fer barbelé ».",
+        "historique": "\\textbf{l.~7--8 :} Réseaux de barbelés et tranchées sur la route de Toutencourt, sans désignation de leur rang dans le système défensif. \\textbf{l.~15--18 :} Plusieurs régiments de cavalerie indienne traversent Hérissart ; lances et turbans sont décrits. Le carnet ne donne pas les unités ni les divisions."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~4--5 :} La tooth ache du capitaine est suivie de « D’où journée entière de liberté » ; le lien est exprimé par Combes, tandis que l’intention ironique demeure une interprétation. \\textbf{l.~8 barbed wire :} Fil de fer barbelé, expression anglaise conservée.",
+        "historique": "\\textbf{l.~7--19 :} Barbelés et tranchées sur la route de Toutencourt, puis plusieurs régiments de cavalerie indienne traversant Hérissart ; lances, turbans et chevaux sont décrits. Ni tranchées d’exercice, ni 4e/5e Divisions ne sont identifiées. Le compte porte 33 f depuis le 8 ; cette note n’établit pas la règle de calcul ni la date du règlement."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111035.jpg",
+          "detail": "Le lien syntaxique D’où est visible ; il ne suffit pas à fixer le ton psychologique de l’observation."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111035.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Divisions 4/5, tranchées d’exercice et 21 jours payés non établis."
+        }
+      ]
+    },
+    {
+      "scan_num": 161,
+      "filename": "20251126_111048.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~19--20 :} Conversation longue et intéressante avec le Dr Dubois à Montigny. L’identité complète, le statut de notable et le contenu de la conversation ne sont pas donnés."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~3--20 :} Conversations avec le fils du maire vers Pont-Noyelles et avec le Dr Dubois à Montigny. Le Scan 119 nomme M. Dubois Paul, maire de Montigny ; c’est un parallèle utile, mais le prénom du père et l’identité du médecin ne sont pas donnés sur cette page."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111048.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Identité Paul du maire possible par 119, pas identité du médecin."
+        }
+      ]
+    },
+    {
+      "scan_num": 162,
+      "filename": "20251126_111105.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~25--26 :} Une relève par un officier australien et un interprète est annoncée. Aucun numéro de compagnie ni ordre de bataille ne figure dans cette entrée ; le rattachement à la relève de la 152e compagnie doit être prouvé par d’autres documents."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~11--26 :} Solde 43 f 75 et retenue de 35 f pour sept jours de permission. L’addition donne 78 f 75 et la division 5 f par jour, sans qualifier cette retenue de réglementaire. La relève australienne annoncée reste sans numéro d’unité et l’abréviation avant interprète demeure réservée."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111105.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Retenue qualifiée réglementaire et dates de permission fixes non documentées."
+        }
+      ]
+    },
+    {
+      "scan_num": 163,
+      "filename": "20251126_111116.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~8--11 :} Le maréchal des logis Grauger accompagne Combes chez le capitaine et promet de lui faire donner un bon poste. La page ne dit pas qu’il est secrétaire, qu’il tient un tableau d’affectations ou qu’il peut décider lui-même du poste."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~4--16 :} Arrivée distincte d’un officier australien et d’un interprète, puis visite à Grauger et Raucoule et quête pour les blessés. Le nom Valet apparaît seulement le 8 mars avec un autre interprète, Evar[?], au Scan 164 ; il ne faut pas identifier automatiquement Valet à l’arrivant du 6. Raucoule n’est pas qualifié ici de chef de mission."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111116.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Valet identifié à arrivant 6 mars injustifié ; chef Raucoule non établi."
+        }
+      ]
+    },
+    {
+      "scan_num": 164,
+      "filename": "20251126_111137.jpg",
+      "originals": {
+        "lines": [
+          "8 Jeudi — \\hfill — Mars 1917 —",
+          "Nuit très froide. Gelé fort!",
+          "Durant matinée, neige tombée à gros flocons.",
+          "Ciel mat & comme voilé de brume.",
+          "Liberté entière, matin & soir.",
+          "Vers 3h s., intte Evar[?], revenu en cie d'1 autre",
+          "intte Valet, R.2, de la 2nd australian division.",
+          "Evar[?], reparti à Albert sur 1 lorry avec",
+          "tout son kit. Valet, extrt sympathique.",
+          "Aussitôt thé pris, allé à pied Mission fr.",
+          "Toutencourt : maréchal logis..., m'a dit",
+          "de rester av. mon cap. Hérissart j'à son départ,",
+          "puis me rendre au dépôt, Toutencourt.",
+          "Très agréable walk sur route très sèche. Temps",
+          "mervt pleine lune, ciel nuageux & qq étoiles.",
+          "9 Vendredi. — Nuit, moins froide. Gelé un peu.",
+          "Éveillé chants d'oiseaux.",
+          "Matinée, fait ts préparatifs départ.",
+          "Neige tombée à flocons serrés durant",
+          "plusieurs heures, surtout l'après-midi.",
+          "Liberté entière journée. Bien reposé, office.",
+          "Fin soirée, tt pensif, tristesse, changement",
+          "de siton, & incertitude au sujet nouvelle affectation.",
+          "[ Après dinner, réglé comptes mess avec cap. Wms",
+          "jusqu'à ce soir : 10 f. — ]"
+        ],
+        "critique": "\\textbf{l.~6--9 :} Deux interprètes sont distingués ; le premier, Evar[?], repart avec son kit. \\textbf{l.~22--23 :} Tristesse et incertitude d’affectation sont explicites ; la crainte d’une unité combattante exposée n’est pas formulée.",
+        "historique": "\\textbf{l.~7 2nd australian division :} La 2e Division australienne est nommée. Le sigle R.2 est conservé ; l’expansion « réserve de 2e classe » demande une source réglementaire."
+      },
+      "changes": {
+        "lines": [
+          "8 Jeudi — \\hfill — Mars 1917 —",
+          "Nuit très froide. Gelé fort!",
+          "Durant matinée, neige tombée à gros flocons.",
+          "Ciel mat & comme voilé de brume.",
+          "Liberté entière, matin & soir.",
+          "Vers 3h s., intte Evar[?], revenu en cie d'1 autre",
+          "intte Valet, R.2, de la 2nd australian division.",
+          "Evar[?], reparti à Albert sur 1 lorry avec",
+          "tout son kit. Valet, extrt sympathique.",
+          "Aussitôt thé pris, allé à pied Mission fr.",
+          "Toutencourt : maréchal logis..., m'a dit",
+          "de rester av. mon cap. Hérissart j'à son départ,",
+          "puis me rendre au dépôt, Toutencourt.",
+          "Très agréable walk sur route très sèche. Temps",
+          "mervt pleine lune, ciel nuageux & qq étoiles.",
+          "9 Vendredi. — Nuit, moins froide. Gelé un peu.",
+          "Éveillé chants d'oiseaux.",
+          "Matinée, fait ts préparatifs départ.",
+          "Neige tombée à flocons serrés durant",
+          "plusieurs heures, surtout l'après-midi.",
+          "Liberté entière journée. Bien reposé, office.",
+          "Fin soirée, tt pensif, tristesse, changement",
+          "de siton, & incertitude au sujet nouvelle affectation.",
+          "[ Après dinner, réglé comptes mess avec cap. Wms",
+          "jusqu'à ce soir : [18 f. ?] — ]"
+        ],
+        "critique": "\\textbf{l.~6--9 :} Deux interprètes sont distingués ; le premier, Evar[?], repart avec son kit. \\textbf{l.~22--23 :} Tristesse et incertitude d’affectation sont explicites ; la crainte d’une unité combattante exposée n’est pas formulée. \\textbf{l.~25 :} Montant relu provisoirement 18 f : second chiffre anguleux présentant deux mouvements/lobes, comparable aux 8 des Scans \\#148 et \\#156. Le contact avec la ligne supérieure empêche de lever toute réserve ; l’ancienne lecture 10 f n’est pas maintenue comme certaine.",
+        "historique": "\\textbf{l.~6--25 :} Valet est dit de la 2nd Australian Division ; R.2 est conservé sans expansion réglementaire. Ce rattachement d’un interprète ne prouve pas à lui seul la relève de tout un secteur par sa division. Le compte du 9 mars est relu[18 f?], sans maintenir les 10 f concurrents comme certains. L’implantation d’une base arrière précise demanderait une source militaire distincte."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111137.jpg",
+          "detail": "Le second chiffre montre deux mouvements/lobes et touche la ligne supérieure. Comparaison des 8 dans 78 f 75 (148) et 68 f 25 (156) ; aucune inférence de prix."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/164_relecture_montant.png",
+          "detail": "Le second chiffre montre deux mouvements/lobes et touche la ligne supérieure. Comparaison des 8 dans 78 f 75 (148) et 68 f 25 (156) ; aucune inférence de prix."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110646.jpg",
+          "detail": "Comparaison du chiffre 8 dans la solde 78 f 75."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/148_comptes.png",
+          "detail": "Comparaison du chiffre 8 dans la solde 78 f 75."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_110930.jpg",
+          "detail": "Comparaison du chiffre 8 dans la solde 68 f 25."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/156_solde.png",
+          "detail": "Comparaison du chiffre 8 dans la solde 68 f 25."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111137.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Prise en charge entière secteur et 10 f certains rejetés."
+        }
+      ]
+    },
+    {
+      "scan_num": 165,
+      "filename": "20251126_111151.jpg",
+      "originals": {
+        "lines": [
+          "10 Samedi — \\hfill Mars 17 —",
+          "Avant breakfast, terminé ts mes",
+          "paquets, sanglé valise.",
+          "Étrange sensation de mélancolie, au moment de",
+          "quitter ce village et de changer d'affectation.",
+          "Malgré moi, souvenirs affluent de ces derniers",
+          "mois. Incertitude lendemain, & situation précaire.",
+          "Cap. nouvl, Williams, partis défintt vers",
+          "10h matin. Dès lors, suis sans fonctions, archi-",
+          "libre.",
+          "Voulu rester encore 1 jour village et ferme",
+          "où belle chambre. Fraternisé avec English connus",
+          "depuis lgt.",
+          "Ciel nuageux. Temps très doux —",
+          "Fin journée, très calme.",
+          "Reposé, écrit, lu, dans l'office.",
+          "Temps maussade, bruine & boue.",
+          "Matinée, tt pensif, mélancolie.",
+          "Mais ce soir, pris mon parti, et résigné",
+          "à mon nouveau sort."
+        ],
+        "critique": "\\textbf{l.~4--10 Étrange sensation de mélancolie... Cap. nouvl, Williams, partis défintt vers 10h matin :} Page d'une grande finesse psychologique : le départ définitif du capitaine Williams à 10 heures du matin clôt un trimestre d'incompréhension (16 décembre 1916 – 10 mars 1917), mais laisse l'interprète seul dans le bureau déserté, en proie à l'angoisse du déracinement.",
+        "historique": "\\textbf{l.~12--13 :} Il fraternise avec des English connus depuis longtemps ; leurs grades ne sont pas donnés. La « raideur du jeune capitaine » est une interprétation extérieure à cette entrée."
+      },
+      "changes": {
+        "lines": [
+          "10 Samedi — \\hfill Mars 17 —",
+          "Avant breakfast, terminé ts mes",
+          "paquets, sanglé valise.",
+          "Étrange sensation de mélancolie, au moment de",
+          "quitter ce village et de changer d'affectation.",
+          "Malgré moi, souvenirs affluent de ces derniers",
+          "mois. Incertitude lendemain, & situation précaire.",
+          "Cap. nouvl, Williams, partis défintt vers",
+          "10h matin. Dès lors, suis sans fonctions, archi-",
+          "libre.",
+          "Voulu rester encore 1 jour village et ferme",
+          "où belle chambre. Fraternisé avec English connus",
+          "depuis lgt.",
+          "Ciel nuageux. Temps très doux —",
+          "Fin journée, très calme.",
+          "Reposé, écrit, lu, dans l'office.",
+          "Temps maussade, bruine & boue.",
+          "Matinée, tt pénétré mélancolie.",
+          "Mais ce soir, pris mon parti, et résigné",
+          "à mon nouveau sort."
+        ],
+        "critique": "\\textbf{l.~4--10 :} Mélancolie, souvenirs, incertitude du lendemain et situation précaire sont nommés. Le départ du capitaine vers 10 h est écrit ; « angoisse du déracinement » et un trimestre précis d’incompréhension relèvent d’une interprétation extérieure à cette page. \\textbf{l.~18 :} Pénétré, avec deux accents et groupe tr final, distinct du pensif du Scan \\#164. La syntaxe sans préposition est conservée.",
+        "historique": "\\textbf{l.~4--20 :} Départ définitif des capitaines vers 10 h et journée sans fonctions, dans l’attente de l’affectation. Ni durée exacte du service sous Williams ni grades des English ne sont déterminés par cette entrée. La liberté du 10 et la démarche du 11 au Scan 166 se suivent ; cela ne constitue pas une durée administrative chronométrée de vingt-quatre heures."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111151.jpg",
+          "detail": "La forme comporte les deux e accentués et le groupe tr, puis e final, sans longue finale f de pensif."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/165_relecture_pensif.png",
+          "detail": "La forme comporte les deux e accentués et le groupe tr, puis e final, sans longue finale f de pensif."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111151.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Durée exactement 3 mois 8 jours et grades des English non écrits."
+        }
+      ]
+    },
+    {
+      "scan_num": 166,
+      "filename": "20251126_111240.jpg",
+      "originals": {
+        "lines": [
+          "Dim. 11. \\hfill — Mars 1917 —",
+          "Levé 6h 1/2 m.",
+          "Bientôt terminé ts mes paquets.",
+          "Temps extrt doux. Soleil pâle très clair.",
+          "Maintenant, quitte sans regrets ce petit",
+          "village & Bureau Board.",
+          "Après breakfast, 9h m., parti en auto pour",
+          "Toutencourt. Ds ce village, laissé tout, ts mes",
+          "sacs au mess des interprètes,",
+          "de Raincheval, puis cherché gîte au camp,",
+          "n°, rue",
+          "Mais au bureau Mission, appris que,",
+          "sur demande instante du Major Levy, je",
+          "resterai au Purchase Board.",
+          "Long interview avec Lieutt Godard,",
+          "tt jeune off., charmant.",
+          "Reparti de Toutencourt vers midi sur",
+          "1 lorry. Descendu au tournant de Puchevillers",
+          "et porté ts mes paquets au billet 220. M'y",
+          "suis installé définitivement, après départ",
+          "interprète Valet.",
+          "Liberté entière après-midi. Achevé de",
+          "m'installer pour le mieux ds ma nouvelle",
+          "chambre. Y suis rentré aussitôt après dinner.",
+          "M'y trouve très bien. 2 tables pour écrire —"
+        ],
+        "critique": "\\textbf{l.~6 Bureau Board :} Formulation hybride autographe ; \\textit{Purchase Board} revient à la l.~14. Aucune biffure n’est visible sur « Bureau » dans la vue. \\textbf{l.~9--11 :} Des blancs restent après n° et rue. \\textbf{l.~15 Godard :} Nom au crayon, sans que l’image permette d’expliquer pourquoi il fut ajouté. \\textbf{l.~25 :} Deux tables sont expressément comptées.",
+        "historique": "\\textbf{l.~12--14 :} La demande instante du Major Levy est donnée comme motif du maintien au Purchase Board. La page ne nomme pas Combes « son interprète » et ne qualifie pas cette décision de consécration professionnelle."
+      },
+      "changes": {
+        "lines": [
+          "Dim. 11. \\hfill — Mars 1917 —",
+          "Levé 6h 1/2 m.",
+          "Bientôt terminé ts mes paquets.",
+          "Temps extrt doux. Soleil pâle. Éclat clair.",
+          "Maintenant, quitte sans regrets ce petit",
+          "village & Bureau Board.",
+          "Après breakfast, 9h m., parti en auto pour",
+          "Toutencourt. Ds ce village, laissé tout, ts mes",
+          "sacs au mess des interprètes,",
+          "de Raincheval, puis cherché gîte au camp,",
+          "n°, rue",
+          "Mais au bureau Mission, appris que,",
+          "sur demande instante du Major Levy, je",
+          "resterai au Purchase Board.",
+          "Long interview avec Lieutt Godard,",
+          "tt jeune off., charmant.",
+          "Reparti de Toutencourt vers midi sur",
+          "1 lorry. Descendu au tournant de Puchevillers",
+          "et porté ts mes paquets au billet 220. M'y",
+          "suis installé définitivement, après départ",
+          "interprète Valet.",
+          "Liberté entière après-midi. Achevé de",
+          "m'installer pour le mieux ds ma nouvelle",
+          "chambre. Y suis rentré aussitôt après dinner.",
+          "M'y trouve très bien. 2 Tables pour écrire —"
+        ],
+        "critique": "\\textbf{l.~6 Bureau Board :} Formulation hybride autographe ; \\textit{Purchase Board} revient à la l.~14. Aucune biffure n’est visible sur « Bureau » dans la vue. \\textbf{l.~9--11 :} Des blancs restent après n° et rue. \\textbf{l.~15 Godard :} Nom au crayon, sans que l’image permette d’expliquer pourquoi il fut ajouté. \\textbf{l.~25 :} Deux tables sont expressément comptées. \\textbf{l.~4 :} Éclat est formé de e/cl/a/t, avec hampe de l et barre de t ; ce mot avait été réduit à très dans la base. La ponctuation séparant les notations reste éditoriale. \\textbf{l.~25 :} Majuscule T de Tables conservée.",
+        "historique": "\\textbf{l.~12--25 :} La demande instante du Major Levy est le motif écrit du maintien au Purchase Board. Les Scans 091/093, 110 et 116 fournissent des occurrences antérieures de Levy, sans établir ici sa fonction officielle de chef. Godard est l’interlocuteur de Toutencourt ; la page ne le rattache pas au même service britannique que Wentworth ou Gilbert. Deux tables et deux fenêtres sont réparties entre 166 et 167."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111240.jpg",
+          "detail": "Après Soleil pâle, le mot Éclat a une hampe l distincte, un a et la barre du t. Tables porte une grande attaque capitale."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/166_relecture_eclat.png",
+          "detail": "Après Soleil pâle, le mot Éclat a une hampe l distincte, un a et la barre du t. Tables porte une grande attaque capitale."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111240.jpg",
+          "detail": "Contrôle du T et du y pronominal."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/166_tables.png",
+          "detail": "Contrôle du T et du y pronominal."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111240.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Levy chef et Godard/Wentworth/Gilbert même service britannique non prouvés."
+        }
+      ]
+    },
+    {
+      "scan_num": 167,
+      "filename": "20251126_111251.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~2--3 2 fenêtres. Impressions de calme \\& silence, favorables à rêverie \\& étude :} Suite directe de la dernière phrase du Scan \\#166 (« 2 tables pour écrire — 2 fenêtres ») : le billet 220 à Hérissart offre enfin à l'universitaire un véritable cabinet d'étude. \\textbf{l.~11 Toutencourt :} Ajouté dans l'interligne supérieur au-dessus de « Contay ». \\textbf{l.~17--18 Exp. F. Canteen : 2 tins of Calvert's Tooth Powder :} Note d'achat rédigée entièrement en anglais pour désigner la célèbre poudre dentifrice phéniquée de F. C. Calvert \\& Co. (Manchester), vendue dans les cantines de la B.E.F.",
+        "historique": "\\textbf{l.~12--14 :} La Wolseley est jugée moins confortable que la Vauxhall de Jimmie. Modèle, puissance et carrosserie ne sont pas indiqués ; « Vauxhall 25 hp » ne doit pas être ajouté sans document distinct."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~2--3 :} Suite directe du Scan \\#166 : deux tables, puis deux fenêtres ; les impressions de calme, silence, rêverie et étude sont écrites. \\textbf{l.~11 :} Toutencourt ajouté dans l’interligne supérieur. \\textbf{l.~17--18 :} La note d’achat emploie l’anglais 2 tins of  Calvert’s Tooth Powder ; elle porte 1 f 75.",
+        "historique": "\\textbf{l.~12--14 :} La Wolseley est jugée moins confortable que la Vauxhall de Jimmie ; modèle et puissance restent inconnus. \\textbf{l.~17--18 :} F. C. Calvert \\& Co., fabricant établi à Manchester, produisait notamment une poudre dentifrice au phénol ; voir \\href{https://collection.sciencemuseumgroup.org.uk/people/cp60291/f-c-calvert-and-company}{Science Museum Group, notice F. C. Calvert and Company}. La page du carnet établit l’achat en cantine à Toutencourt, pas une distribution générale dans la B.E.F."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111251.jpg",
+          "detail": "Deuxfenêtres et l’objet acheté sont lisibles ; la notice institutionnelle confirme fabricant, Manchester et poudre carbolique, sans identifier un conditionnement propre à cet achat."
+        },
+        {
+          "source": "https://collection.sciencemuseumgroup.org.uk/people/cp60291/f-c-calvert-and-company",
+          "detail": "Notice consultée : fabricant de poudre dentifrice, basé à Manchester ; Carbolic Tooth Powder mentionnée. Elle ne prouve pas une diffusion particulière dans toutes les cantines B.E.F."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111251.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Transfert des transports à I Anzac déduit des deux marques sans preuve."
+        }
+      ]
+    },
+    {
+      "scan_num": 168,
+      "filename": "20251126_111309.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~7--8 Flutre :} Louis-Fernand Flutre (1892–1978), ancien élève de l’École normale supérieure et futur professeur à Lyon, constitue une piste pour identifier le fils. La notice d’autorité BnF \\texttt{cb122063529} le donne né le 21 juin 1892 à Albert, et non au Mesnil-Martinsart le 23 juin. La filiation et l’identification des instituteurs restent à vérifier.",
+        "lieu": "Hérissart, Mesnil (localité à identifier), Puchevillers, Acheux, Bertrancourt (Somme)",
+        "critique": "\\textbf{l.~7--8 au Mesnil... Ont le fils, élève de Normle Supre :} Le nom Flutre, les fonctions d’instituteurs et l’abréviation de l’École normale supérieure sont lisibles ; le prénom du fils et le complément du toponyme Mesnil ne sont pas donnés. \\textbf{l.~12--15 :} Le nouveau mess est en face de la maison où il a sa chambre."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~7--8 :} Le rapprochement avec Fortuné Flutre et son fils Louis-Fernand est fortement étayé : René Debrie, \\textit{Nécrologie}, \\textit{Revue de linguistique romane}42 (1978), p. 238–240, nomme le père instituteur de Mesnil-Martinsart et situe la naissance du fils dans ce village le 21 juin 1892. Il indique admission à l’ENS en 1914, entrée en 1919 et agrégation en 1921, contre 1913/1920 du commentaire concurrent. La \\href{https://catalogue.bnf.fr/ark:/12148/cb122063529}{notice BnF} donne Albert : divergence conservée, sans l’expliquer par une approximation de chef-lieu. L’identification du Mesnil du carnet est prosopographique ; le prénom Ernest, 1862 et 1888 restent à contrôler sur les pièces annoncées.",
+        "lieu": "Hérissart, Mesnil (rapproché de Mesnil-Martinsart par les Flutre), Puchevillers, Acheux, Bertrancourt (Somme)",
+        "critique": "\\textbf{l.~7--8 :} Flutre, instituteurs et Normle Supre sont lisibles. Le rapprochement avec le père instituteur et le fils normalien devient fortement étayé par Debrie 1978 ; le complément Martinsart reste un apport prosopographique, non une addition à la transcription. \\textbf{l.~12--15 :} Le nouveau mess est en face de la maison où il a sa chambre."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111309.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Approximation du chef-lieu BnF non démontrée ; ENS 1913/agr 1920 contredits par Debrie ; Ernest/1862/1888 non contrôlés."
+        },
+        {
+          "source": "edition_philologique/relecture_integrale_2026_10/sources/flutre_debrie_1978.pdf",
+          "url": "https://www.e-periodica.ch/cntmng?bot=1&pid=rlr-001:1978:42::513",
+          "sha256": "01cd0aaebce36a053155255c6bf6a621d73f4ef25f3fe0a75bf88cbf8dc2e1eb",
+          "retrieved_date": "2026-10-15",
+          "pages": "238–240, particulièrement 238",
+          "detail": "PDF consulté et p. 238 contrôlée visuellement : filiation Fortuné/instituteur/naissance à Mesnil ; ENS 1914, entrée 1919, agrégation 1921. Divergence Albert/BnF maintenue."
+        },
+        {
+          "source": "https://catalogue.bnf.fr/ark:/12148/cb122063529",
+          "detail": "Notice consultée : naissance 21 juin 1892 à Albert. La raison de la divergence n’est pas donnée."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111309.jpg",
+          "detail": "Filiation et naissance à Mesnil documentées par la nécrologie primaire ; le lieu est enrichi en indiquant la nature du rapprochement."
+        }
+      ]
+    },
+    {
+      "scan_num": 169,
+      "filename": "20251126_111321.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~11 Blacksmith d'Hérissart :} Emprunt lexical anglais (\\textit{Blacksmith} = forgeron du village) à qui Hippolyte confie la réparation du fermoir métallique de son sac de voyage. \\textbf{l.~18 Auto est aux workshops :} Ajouté dans l'interligne entre les lignes 17 et 19 pour expliquer pourquoi le lieutenant Wentworth et lui effectuent leurs déplacements à pied.",
+        "historique": "\\textbf{l.~19--20 :} Des cavaliers indigènes et anglais traversent le village au trot. Le rapprochement chronologique avec le repli allemand de mars demande une source d’histoire militaire distincte ; le carnet n’indique ni direction de marche ni mission de poursuite."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~11 :} Blacksmith désigne le forgeron ; le compte porte « répar. à ferrure sac : 30 c ». Aucune pièce mécanique plus précise, telle qu’un fermoir, n’est nommée. \\textbf{l.~18 :} La note sur l’auto aux workshops est interlinéaire ; les trajets à pied sont indiqués dans le récit.",
+        "historique": "\\textbf{l.~3--20 :} Tournée à Albert et Ribemont, puis marche avec Wentworth et passage de cavaliers au trot. Le contexte du repli allemand de mars peut éclairer ces mouvements ; la photographie ne donne ni unités, ni direction, ni mission de poursuite. Les seuls cavaliers indiens observés ici ne peuvent être distribués entre deux divisions par une coïncidence de date."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111321.jpg",
+          "detail": "La ferrure du sac est nommée, sans précision fermoir ; l’annotation interlinéaire porte Auto est aux workshops."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111321.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Divisions exactes et mission de poursuite ne suivent pas de la date."
+        }
+      ]
+    },
+    {
+      "scan_num": 170,
+      "filename": "20251126_111359.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~23--26 :} Le visiteur est de la 63rd Div., précisée naval div. Son régiment revient des tranchées, avec les noms Miraumont et Achiet-le-Pt. Le carnet ne précise pas sa destination suivante, ni qu’Achiet aurait été « délivré hier »."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~23--26 :} Le visiteur appartient à la 63rd Div., précisée naval div. ; son régiment revient des tranchées et les noms Miraumont et Achiet-le-Pt sont écrits. La marche vers Arras, un passage divisionnaire complet par Hérissart et une concordance absolue avec Jerrold ne sont pas établis par cette page ; aucun extrait contrôlé de cet historique n’est joint au commentaire concurrent."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111359.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Exactitude absolue avec Jerrold et destination Arras sans passage contrôlé."
+        }
+      ]
+    },
+    {
+      "scan_num": 171,
+      "filename": "20251126_111410.jpg",
+      "originals": {
+        "lines": [
+          "20 Mardi — \\hfill Mars 1917 —",
+          "Lieut. 63rd Div., couché ds lit",
+          "ma chambre. Parti avec son unité 8h matin.",
+          "Toute la nuit, vent soufflé en rafales extrt violentes.",
+          "Durant matinée, neige, tombée à gros flocons.",
+          "Liberté entière, journée.",
+          "21 Merc.",
+          "Nuit très froide. Tout le jour, ciel couvert,",
+          "pluie fine & neige, par intermittence —",
+          "Matin, course en auto à Puchevillers et",
+          "Arquèves. Belle Église Farm, M. Houthouan.",
+          "Après-midi, par Contay & Warloy,",
+          "venus à Senlis. Routes encombrées par troupes",
+          "moving. Admiré cavrie indienne & anglaise",
+          "(Death or Glory Boys, 17th Lancers).",
+          "22 Jeudi.",
+          "Matin & soir, tourmentes de neige.",
+          "Matin, courses en auto à Puchevillers, Mirvaux,",
+          "Pierregot & Molliens-au-Bois.",
+          "Après-midi, Senlis & Albert. Très longuement",
+          "regardé à Albert maisons atteintes par obus.",
+          "Retour par gde route d'Amiens : à droite &",
+          "à g., champs couverts de neige."
+        ],
+        "critique": "\\textbf{l.~11 Belle Église Farm, M. Houthouan :} Noté à l'anglaise (\\textit{Belle Église Farm}) pour désigner la ferme de Belle-Église à Arquèves déjà visitée en décembre. \\textbf{l.~13--15 troupes moving... (Death or Glory Boys, 17th Lancers) :} L'auteur note avec précision la célèbre devise du 17\\textsuperscript{e} Lanciers britannique (\\textit{Death or Glory}), dont l'insigne de coiffure représentait une tête de mort sur deux tibias croisés.",
+        "historique": "\\textbf{l.~14--15 :} Combes nomme les 17th Lancers et les Death or Glory Boys. Le rattachement à une division et la direction du mouvement ne sont pas écrits. L’ancienne attribution à la 3e Division de cavalerie doit être supprimée en l’absence de source contrôlée."
+      },
+      "changes": {
+        "lines": [
+          "20 Mardi — \\hfill Mars 1917 —",
+          "Lieut. 63rd Div., couché ds lit",
+          "ma chambre. Parti avec son unité 8h matin.",
+          "Toute la nuit, vent soufflé en rafales extrt violentes.",
+          "Durant matinée, neige, tombée à gros flocons.",
+          "Liberté entière, journée.",
+          "21 Merc.",
+          "Nuit très froide. Tout le jour, ciel couvert,",
+          "pluie fine & neige, par intermittence —",
+          "Matin, course en auto à Puchevillers et",
+          "Arquèves. Belle Église Farm, M. Houtteman[?].",
+          "Après-midi, par Contay & Warloy,",
+          "venus à Senlis. Routes encombrées par troupes",
+          "moving. Admiré cavrie indienne & anglaise",
+          "(Death or Glory Boys, 17th Lancers).",
+          "22 Jeudi.",
+          "Matin & soir, tourmentes de neige.",
+          "Matin, courses en auto à Puchevillers, Mirvaux,",
+          "Pierregot & Molliens-au-Bois.",
+          "Après-midi, Senlis & Albert. Très longuement",
+          "regardé à Albert maisons atteintes par obus.",
+          "Retour par gde route d'Amiens : à droite &",
+          "à g., champs couverts de neige."
+        ],
+        "critique": "\\textbf{l.~11 :} Houtteman[?], par comparaison avec la graphie plus distincte du Scan \\#108 : deux hautes hampes voisines barrées, puis finale -eman/-man. Le rapprochement améliore la lecture sans établir une identité civile. Belle Église Farm est la formule écrite. \\textbf{l.~13--15 :} Death or Glory Boys et 17th Lancers sont nommés ; aucune division ou destination n’est précisée.",
+        "historique": "\\textbf{l.~11--15 :} Houtteman[?] est rapproché du nom du Scan 108. Les 17 thLancers et Death orGloryBoys sont explicitement nommés. Le \\href{https://rlnymuseum.co.uk/royal-lancers/the-17th-lancers/}{musée des Royal Lancers} confirme leur déploiement en France en 1914 dans la 1st Indian Cavalry Division et le changement de brigade en 1918. Ce contexte ne permet pas d’identifier tous les régiments croisés en 1917 ; la composition détaillée de Sialkot et la numérotation 4th restent à vérifier sur la page de Becke citée."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111410.jpg",
+          "detail": "Les deux hampes hautes et leurs barres correspondent mieux à tt qu’à th ; la fin du patronyme reste compacte. Le parallèle 108 permet une lecture provisoire Houtteman, sans la certifier."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_105046.jpg",
+          "detail": "Occurrence parallèle du patronyme, contrôlée visuellement sur extrait natif 108 ; groupe tt à deux hampes et barre commune plus distinct que 171."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111410.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Association certaine à Sialkot/4th et identification de tous les régiments non prouvées par source consultée."
+        },
+        {
+          "source": "https://rlnymuseum.co.uk/royal-lancers/the-17th-lancers/",
+          "detail": "Musée régimentaire : 1st Indian Cavalry Division en 1914 ; passage 7th Cavalry Brigade début 1918 ; ne nomme pas ici tous les régiments croisés en 1917."
+        }
+      ]
+    },
+    {
+      "scan_num": 172,
+      "filename": "20251126_111427.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~23 Pas pris pardessus :} Notation vestimentaire de cette promenade. Le carnet n’en fait ni un symbole religieux ni la première sortie sans pardessus depuis octobre."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~9--23 :} Démarches pour rester au billet 220, puis marches vers Rubempré et le chemin de Puchevillers. Le carnet écrit fait démarches, sans noter le résultat obtenu. Le rapprochement avec la chambre installée aux Scans 166/167 est direct ; sa qualification de chambre d’étude appartient au commentaire."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111427.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Obtient au lieu de fait des démarches : résultat non écrit."
+        }
+      ]
+    },
+    {
+      "scan_num": 173,
+      "filename": "20251126_111439.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~5--7 Monin traversé village... L'ai trouvé vieilli, enlaidi, usé :} Regard lucide et sans complaisance sur l'usure physique des interprètes et combattants après deux ans et demi de campagne.",
+        "historique": "\\textbf{l.~15--16 :} Départ des troupes à l’aube et village presque sans troupes. La page ne fournit ni leur destination ni une mesure de déplacement du front ; ce constat local ne prouve pas à lui seul une conséquence directe de l’opération Alberich."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~5--7 :} Monin traverse le village avec sa Coy ; Combes écrit l’avoir revu avec plaisir et trouvé « vieilli, enlaidi, usé ». Cette appréciation porte sur cet homme, sans diagnostic médical ou généralisation à tous les combattants.",
+        "historique": "\\textbf{l.~5--16 :} Monin traverse le village avec sa Coy pour une nuit ; le lendemain les troupes partent à l’aube et le village est presque sans troupes. Plusieurs vues suivantes signalent le calme, mais la page ne mesure pas un départ durable de toutes les unités de l’arrière-front et n’en établit pas la cause stratégique."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111439.jpg",
+          "detail": "Le jugement personnel et le passage d’une compagnie sont écrits ; une usure physique générale après une durée de campagne calculée ne l’est pas."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111439.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Départ durable de toutes les unités et cause stratégique non établis."
+        }
+      ]
+    },
+    {
+      "scan_num": 174,
+      "filename": "20251126_111452.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~19--20 Rainneville :} Village de la tournée d’achat de paille. Aucune mention n’en fait la limite méridionale de la zone du Purchase Board."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~4--25 :} Tournées d’achat vers Puchevillers, Rubempré, Pierregot, Molliens-au-Bois et Rainneville ; le village paraît abandonné et le calme est apprécié. Les distances et cantons proposés dans le commentaire concurrent demandent une carte datée ; aucune limite administrative de zone d’achat n’est écrite."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111452.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Distances et cantons sans carte datée."
+        }
+      ]
+    },
+    {
+      "scan_num": 175,
+      "filename": "20251126_111503.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~1 Rameaux :} Repère liturgique écrit. \\textbf{l.~3--13 :} Pluie et chutes de neige locales décrites ; leur caractère exceptionnel sur tout le front et leurs effets sur une offensive demandent une documentation distincte."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~1--23 :} Rameaux, neige locale et compte du mess au 31 mars pour 27 f 50. Le notaire Bienaimé est mentionné à Toutencourt le 3 avril et revient à Pâques au Scan 178. L’adresse de son étude et la nature comptable exacte de la quote-part ne sont pas indiquées."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111503.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Étude et quote-part précise non écrites."
+        }
+      ]
+    },
+    {
+      "scan_num": 176,
+      "filename": "20251126_111525.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~12--13 :} Les villages traversés paraissent déserts et sans troupes. Le nombre d’hommes ayant quitté le secteur et le lien exact avec le repli allemand ne sont pas documentés par cette vue."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~2--18 :} Tourmente de neige le 4 avril, tournée par Contay, Warloy et Varennes vers Acheux le 5, puis sermon de la Passion. Les villages paraissent déserts et sans troupes ; abandon militaire complet serait plus affirmatif que l’observation. La dédicace de l’église et la fonction d’exercice des tranchées ne sont pas écrites."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111525.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Abandon militaire complet dépasse paraissent déserts ; dédicace non étayée."
+        }
+      ]
+    },
+    {
+      "scan_num": 177,
+      "filename": "20251126_111537.jpg",
+      "originals": {
+        "lines": [
+          "6 Vendr. — \\hfill Avril 1917 —",
+          "Très tôt. Après breakfast,",
+          "conduit en auto à Toutencourt, 1 staff du bureau",
+          "de la Mission fr., Vth Army H.Q., venu nous payer",
+          "solde.",
+          "Temps très beau. Délicieux promener rues ensoleillées",
+          "de ce petit village aujourd'hui si tranquille, depuis",
+          "départ H.Q. et troupes.",
+          "Revenu en auto à Hérissart. En reparti",
+          "avec off. pour Toutencourt & Rubempré. Au retour,",
+          "ciel nuageux. Bientôt bruine.",
+          "Tout l'après-midi, liberté entière. Averses",
+          "courtes, discontinues.",
+          "After dinner, devant poêle rouge, causé lgt",
+          "de l'Australie avec M. Wentworth et lu pamphlets.",
+          "[ Solde : 78 f. 75 c. — ]",
+          "7 Sam. — Temps gr. froid. Ciel resté",
+          "couvert, gros nuages. Vent violent.",
+          "Matinée, courses à Contay, Acheux &",
+          "retour par route Léalvillers-Toutencourt & Rubempré.",
+          "Après-midi, liberté.",
+          "Promené seul route Contay. Gdes rafales",
+          "vent froid m'ont fait rentrer tôt.",
+          "Admiré paysage —"
+        ],
+        "critique": "\\textbf{l.~2 Très tôt :} Lecture visuelle ; ne pas remplacer par « Levé tôt ». \\textbf{l.~3--5 :} Staff du bureau de la Mission, venu payer la solde. Le mot anglais ne précise pas à lui seul son grade ou sa fonction. \\textbf{l.~14 :} After dinner est suivi d’une phrase française.",
+        "historique": "\\textbf{l.~7--8 :} Le départ du H.Q. et des troupes explique ici la tranquillité de Toutencourt dans le témoignage de Combes. La nouvelle position du quartier général et sa mission opérationnelle ne sont pas indiquées."
+      },
+      "changes": {
+        "lines": [
+          "6 Vendr. — \\hfill Avril 1917 —",
+          "Levé tôt. Après breakfast,",
+          "conduit en auto à Toutencourt, 1 staff du bureau",
+          "de la Mission fr., Vth Army H.Q., venu nous payer",
+          "solde.",
+          "Temps très beau. Délicieux promener rues ensoleillées",
+          "de ce petit village aujourd'hui si tranquille, depuis",
+          "départ H.Q. et troupes.",
+          "Revenu en auto à Hérissart. En reparti",
+          "avec off. pour Toutencourt & Rubempré. Au retour,",
+          "ciel nuageux. Bientôt bruine.",
+          "Tout l'après-midi, liberté entière. Averses",
+          "courtes, discontinues.",
+          "After dinner, devant poêle rouge, causé lgt",
+          "de l'Australie avec M. Wentworth et lu pamphlets.",
+          "[ Solde : 78 f. 75 c. — ]",
+          "7 Sam. — Temps gr. froid. Ciel resté",
+          "couvert, gros nuages. Vent violent.",
+          "Matinée, courses à Contay, Acheux &",
+          "retour par route Léalvillers-Toutencourt & Rubempré.",
+          "Après-midi, liberté.",
+          "Promené seul route Contay. Gdes rafales",
+          "vent froid m'ont fait rentrer tôt.",
+          "Admiré paysage —"
+        ],
+        "critique": "\\textbf{l.~2 :} Levé tôt : grande attaque bouclée du L, petit groupe e/v, finale accentuée, comparables aux Levé des Scans \\#005 et \\#012. La barre de la date au-dessus avait favorisé la lecture Très. \\textbf{l.~3--5 :} Staff du bureau de la Mission venu payer la solde ; son grade n’est pas précisé. \\textbf{l.~14 :} After dinner est suivi d’une phrase française.",
+        "historique": "\\textbf{l.~3--15 :} Staff du bureau de la Mission, Vth Army H.Q., venu payer la solde ; le départ du H.Q. et des troupes explique la tranquillité dans le récit. Le nouvel emplacement à Albert et le but opérationnel Bullecourt ne sont pas donnés. Conversation avec Wentworth sur l’Australie le soir : son identité reste distincte de Gilbert, dit de Jersey au Scan 179."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111537.jpg",
+          "detail": "Lecture indépendante confirmée avec les capitales L et la finale é de Levé 005/012 ; ne repose pas sur la seule syntaxe. Très est abandonné."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/177_relecture_tot.png",
+          "detail": "Lecture indépendante confirmée avec les capitales L et la finale é de Levé 005/012 ; ne repose pas sur la seule syntaxe. Très est abandonné."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_093141.jpg",
+          "detail": "Levé : grande attaque L bouclée et petit groupe médian, contrôlé par le collègue 001–048."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_093347.jpg",
+          "detail": "Levé : parallèle natif de la capitale et de la finale accentuée, contrôle croisé 001–048."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111537.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; H.Q. Albert et objectif Bullecourt non indiqués ; Très tôt corrigé."
+        }
+      ]
+    },
+    {
+      "scan_num": 178,
+      "filename": "20251126_111558.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~12--13 :} Le froid, la grêle et le grésil sont observés localement le 9 avril. Un rapprochement avec le début de l’offensive d’Arras peut être historique ; l’identité exacte des conditions météorologiques entre Hérissart et le champ de bataille ne peut être déduite de cette page."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~1--22 :} Notaire Bienaimé à Toutencourt, tournée Harponville/Rubempré/Beauquesne et visite de la famille Denis le 8 avril. Visité ne prouve ni une première rencontre ni une soirée passée chez eux. Le mauvais temps des 9/10 est local ; un parallèle chronologique avec Arras ne démontre pas l’identité météorologique entre les lieux."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111558.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Première soirée Denis non écrite ; distance Arras non vérifiée."
+        }
+      ]
+    },
+    {
+      "scan_num": 179,
+      "filename": "20251126_111614.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~9--13 [ A Doullens... ] :} Inventaire minutieux des emplettes faites à Doullens : équipement militaire (ceinture de cuir à 24 fr. 50), boîte de cacao à la cantine (1 fr.), cartes géographiques de la Somme (\\textit{2 Cartes géog. (Somme) : 60 c.}), cartes postales, semelles de liège et petite pharmacie d'hiver (teinture d'iode, pastilles de chlorate de potasse et pastilles de menthe). \\textbf{l.~24--25 long talk avec Secd Lt Gilbert, de Jersey, il est très instruit et poète :} Début d'une amitié intellectuelle chaleureuse avec le sous-lieutenant jersiais Gilbert.",
+        "historique": "\\textbf{l.~5--7 :} La neige décrite par Combes est une observation locale. La première attaque australienne à Bullecourt a lieu le 11 avril 1917 : le Department of Veterans’ Affairs australien, \\textit{1917—Bapaume and Bullecourt}, décrit des positions d’attente enneigées et l’échec des chars. Ce contexte n’établit pas que la neige d’Hérissart ait « paralysé » l’attaque, comme l’affirmait l’ancien commentaire."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~9--13 :} Encadré d’achats et montants : ceinture de cuir, cacao, cartes, semelles et produits de pharmacie ; le total de la ceinture est écrit 24 f 50. \\textbf{l.~24--25 :} Long talk avec Secd Lt Gilbert, de Jersey, dit très instruit et poète. Cette conversation ouvre la série des mentions de Gilbert dans ces vues, sans définir à elle seule l’intensité ou la durée d’une amitié.",
+        "historique": "\\textbf{l.~3--25 :} Neige et achats du 11 avril, puis conversation avec Secd Lt Gilbert le 13, dit de Jersey, instruit etpoète. Cette origine n’établit pas une langue maternelle française. Les rencontres continuent aux Scans 181, 185 et 186. Le contexteBullecourt du 11 avril est documenté par le \\href{https://anzacportal.dva.gov.au/resources/1917-bapaume-and-bullecourt}{Department of Veterans’ Affairs} ; aucune causalité n’est démontrée avec la neige observée ici."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111614.jpg",
+          "detail": "Les achats, le total 24 f 50 et le jugement très instruit et poète sont autographes ; la portée affective de la relation n’est pas spécifiée."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111614.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Jersey implique francophone natif : inférence invalide."
+        }
+      ]
+    },
+    {
+      "scan_num": 180,
+      "filename": "20251126_111630.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~14--15 Rentré home sous 1 pluie battante :} L'emploi du substantif anglais \\textit{home} sans article pour désigner sa chambre du billet 220 montre à quel point Hippolyte s'est approprié son logis d'Hérissart.",
+        "historique": "\\textbf{l.~11--16 :} Pluie très forte à Hérissart le 16 avril, retour home sous une pluie torrentielle. La coïncidence de date avec l’offensive du Chemin des Dames ne suffit pas à établir l’identité du temps dans les deux régions."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~14--15 :} Home est un emploi adverbial anglais dans une phrase française (« Rentré home »). Il désigne le retour au logement dans ce contexte ; le mot seul ne démontre pas un état affectif ou l’appropriation psychologique du billet.",
+        "historique": "\\textbf{l.~11--22 :} Très fortes pluies le 16 avril, soirée chez les Denis, retourhome, puis neige etgrêle le 17 et tournées à Fréchencourt et Rubempré. La coïncidence du 16 avec le Chemin des Dames fournit un repère chronologique, pas la preuve d’un même régime météorologique."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111630.jpg",
+          "detail": "Home suit directement Rentré dans la photographie, sans article. La base le qualifiait de substantif et en tirait une conclusion psychologique."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111630.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Concordance météo entre régions non établie."
+        }
+      ]
+    },
+    {
+      "scan_num": 181,
+      "filename": "20251126_111644.jpg",
+      "originals": {
+        "lines": [
+          "18 Merc. — \\hfill — Avril 1917 —",
+          "Tout le jour, pluie fine.",
+          "Routes, état lamentable.",
+          "Notre auto, aux workshops. Repos complet.",
+          "19 Jeudi.",
+          "Tout le jour, ciel couvert. Qq averses.",
+          "Temps très doux, presque tiède.",
+          "Après-midi, courses en auto : Bresle, Lavieville,",
+          "Hénencourt, Warloy et Contay. Revu avec plaisir",
+          "les 3 1ers villages, où pas retourné depuis fin",
+          "juillet 1915. Aujourd'hui, vides et déserts.",
+          "Lieut. Gilbert, retour d'Abbeville, venu passer soirée",
+          "avec nous. Charmant causeur, très intéressant.",
+          "20 Vendredi. — Enfin, assez belle journée. Ciel",
+          "resté couvert, mais temps très doux, même chaud.",
+          "Matinée, course à Rubempré, Senlis et",
+          "Warloy. Après-midi, venus à Hénencourt,",
+          "Albert et Buire (Ribemont). Au retour, stuck, à la",
+          "sortie du village de Buire. Aidés par des",
+          "australiens, à dégager l'auto. Quels types!",
+          "A Ribemont, revu avec plaisir les Colart,",
+          "qui m'ont fait meilleur accueil —"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Merc.} \\textit{scil.} Mercredi.",
+          "4": "\\textbf{4 workshops} \\textit{angl. in ms.}",
+          "6": "\\textbf{6 Qq} \\textit{abbr. pro} Quelque(s).",
+          "18": "\\textbf{18 stuck} \\textit{angl. in ms.}"
+        },
+        "critique": "\\textbf{l.~11 juillet 1915 :} Le dernier chiffre est nettement un 5. Aucun « lapsus évident » ne peut être établi à partir de cette page ; la date est conservée, sans correction en 1916. \\textbf{l.~18--20 stuck :} Immobilisation de l’automobile, dégagée avec l’aide d’Australiens. Le jugement « Quels types! » ne précise pas à lui seul s’il est admiratif, amusé ou ironique.",
+        "historique": "\\textbf{l.~18--20 :} Des Australiens aident à dégager l’automobile à la sortie de Buire. Leur brigade et la raison de leur présence ne sont pas indiquées."
+      },
+      "changes": {
+        "lines": [
+          "18 Merc. — \\hfill — Avril 1917 —",
+          "Tout le jour, pluie fine.",
+          "Routes, état lamentable.",
+          "Notre auto, aux workshops. Repos complet.",
+          "19 Jeudi.",
+          "Tout le jour, ciel couvert. Qq averses.",
+          "Temps très doux, presque tiède.",
+          "Après-midi, courses en auto : Bresle, Lavieville,",
+          "Hénencourt, Warloy et Contay. Revu avec plaisir",
+          "les 3 1ers villages, où pas retourné depuis fin",
+          "juillet 1915. Aujourd'hui, vides et déserts.",
+          "Lieut. Gilbert, retour d'Abbeville, venu passer soirée",
+          "avec nous. Charmant causeur, très intéressant.",
+          "20 Vendredi. — Enfin, assez belle journée. Ciel",
+          "resté couvert, mais temps très doux, même chaud.",
+          "Matinée, course à Rubempré, Senlis et",
+          "Warloy. Après-midi, venus à Hénencourt,",
+          "Albert et Buire [ajout souscrit : Ribemont]. Au retour, stuck, à la",
+          "sortie du village de Buire. Aidés par des",
+          "australiens, à dégager l'auto. Quels types!",
+          "A Ribemont, revu avec plaisir les Colart,",
+          "qui m'ont fait meilleur accueil —"
+        ],
+        "marginal_notes": {
+          "1": "\\textbf{1 Merc.} \\textit{scil.} Mercredi.",
+          "4": "\\textbf{4 workshops} \\textit{angl. in ms.}",
+          "6": "\\textbf{6 Qq} \\textit{abbr. pro} Quelque(s).",
+          "18": "\\textbf{18 stuck} \\textit{angl. in ms.} Ribemont ajouté sous Buire, sans parenthèses autographes."
+        },
+        "critique": "\\textbf{l.~11 juillet 1915 :} Le dernier chiffre est nettement un 5. Aucun « lapsus évident » ne peut être établi à partir de cette page ; la date est conservée, sans correction en 1916. \\textbf{l.~18--20 stuck :} Immobilisation de l’automobile, dégagée avec l’aide d’Australiens. Le jugement « Quels types! » ne précise pas à lui seul s’il est admiratif, amusé ou ironique. \\textbf{l.~18 :} Ribemont est ajouté sous Buire ; les parenthèses de la base étaient éditoriales. L’ajout est signalé sans l’interpréter comme une correction de toponyme.",
+        "historique": "\\textbf{l.~8--22 :} Revue de Bresle, Lavieville, Hénencourt et date 1915 conservée ; soirée avec Gilbert, puis auto immobilisée à Buire et aidée par des Australiens, et accueil des Colart à Ribemont. Stuck ne précise pas le mécanisme de l’immobilisation ni la raison de la présence australienne. Ribemont est ajouté sous Buire, sans parenthèses autographes."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111644.jpg",
+          "detail": "Ribemont se trouve sous Buire, dans l’interligne ; aucune parenthèse ne l’enserre dans la photographie."
+        },
+        {
+          "source": "edition_philologique/ecriture_combes/lot_141_186/181_stuck.png",
+          "detail": "Ribemont se trouve sous Buire, dans l’interligne ; aucune parenthèse ne l’enserre dans la photographie."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111644.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Embourbement et repos des Australiens non explicités ; parenthèses Ribemont éditoriales."
+        }
+      ]
+    },
+    {
+      "scan_num": 182,
+      "filename": "20251126_111702.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~2--3 et 25--27 :} Canonnade localisée à l’oreille du côté d’Arras. Le carnet ne donne pas le détail des positions d’artillerie ; l’association précise à la préparation de la seconde bataille de la Scarpe demande un journal d’opérations ou une histoire militaire sourcée."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~2--27 :} Canonnade localisée du côté d’Arras ; l’association certaine à la préparation de la seconde bataille de la Scarpe demanderait le passage précis d’un journal d’opérations. PourA. Martin, la \\href{https://mediatheques.agglo-larochelle.fr/doc/SYRACUSE/199805/une-visite-a-amiens-par-alexis-martin}{notice patrimoniale de La Rochelle} donne \\textit{Une visite à Amiens}, Alexis Martin, Hennuyer, 1896 : rapprochement bibliographique possible, sans remplacer le titre Promenade ds Amiens écrit. Bte Denis n’est pas développé avec certitude en Baptiste."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111702.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Préparation de la Scarpe certaine, Baptiste certain et titre exact Alexis Martin non établis."
+        },
+        {
+          "source": "https://mediatheques.agglo-larochelle.fr/doc/SYRACUSE/199805/une-visite-a-amiens-par-alexis-martin",
+          "detail": "Catalogue propriétaire du livre : Alexis Martin, Une Visite à Amiens, Hennuyer, Paris, 1896, XXIV–146 p. Rapprochement, pas titre exact du carnet."
+        }
+      ]
+    },
+    {
+      "scan_num": 183,
+      "filename": "20251126_111715.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~21--22 :} Acheux est dit presque désert, sans troupes cantonnées. La distance au front et l’axe Saint-Quentin–Cambrai ne sont pas donnés."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~3--25 :} Métier àtisser brièvement noté, sans qualificatif domestique ni production textile indiquée ; vues sur Beaucourt et Montigny, puis lecture chez Mme Mignot avec mention de Louise et soirée chez les Denis. Le lien mère-fille Mignot/Louise et les compléments des toponymes restent à documenter."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111715.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Métier domestique, bonneterie/velours et Louise fille Mignot non écrits."
+        }
+      ]
+    },
+    {
+      "scan_num": 184,
+      "filename": "20251126_111737.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~6 dug-outs et de tranchées :} Emprunt au terme militaire britannique \\textit{dug-out} (abri souterrain creusé dans la craie), intégré sans traduction à la description d'une promenade vésperale.",
+        "historique": "\\textbf{l.~10--11 :} Il revoit la famille Mortreux à Varennes. La profession d’agriculteurs est à établir par une autre source."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~6 :} Dug-outs, emprunt militaire britannique pour des abris creusés, conservé dans la transcription. La présence de craie, l’aménagement et la profondeur de ces abris ne sont pas décrits.",
+        "historique": "\\textbf{l.~4--16 :} Tournées et promenade le long de dug-outs et tranchées ; visites à la famille Mortreux à Varennes et aux Denis. Ancienneté des abris, usage d’exercice des tranchées et profession des Mortreux ne sont pas précisés."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111737.jpg",
+          "detail": "La photographie donne dug-outs et tranchées, sans description géologique ou architecturale des abris."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111737.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Anciens abris et tranchées d’exercice non indiqués."
+        }
+      ]
+    },
+    {
+      "scan_num": 185,
+      "filename": "20251126_111749.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~7--9 Regretterai bcp les points de vue et panoramas circulaires des environs d'Hérissart : c'est la guerre :} Cet aveu mesure le chemin parcouru depuis son arrivée glaciale à Hérissart le 7 février (Scan \\#147) : ce village perché qui lui semblait alors un lieu d'exil est devenu son havre de paix. \\textbf{l.~16--17 lift sur 1 water-cart :} Double emprunt anglais (\\textit{lift} = se faire transporter en chemin, \\textit{water-cart} = tonne à eau régimentaire).",
+        "historique": "\\textbf{l.~5--7 :} Un officier de retour de Bournemouth annonce un prochain départ pour Cambrai. Permission ou convalescence ne sont pas précisées, et le carnet ne va pas jusqu’à la réalisation du projet."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~7--9 :} Le regret annoncé porte sur les points de vue et panoramas d’Hérissart ; « c’est la guerre » termine la remarque. La valeur de havre de paix reste une interprétation de ces propos. \\textbf{l.~16--17 :} Lift et water-cart sont des emprunts anglais : transport obtenu en chemin, sur une voiture à eau. Le type précis et l’unité propriétaire de cette voiture ne sont pas nommés.",
+        "historique": "\\textbf{l.~4--21 :} L’officier revenu de Bournemouth annonce un projet de départ vers Cambrai ; le carnet ne le mène pas jusqu’à réalisation. Deux ressorts cassés, retour àpied puis lift sur water-cart, et conversation avec Gilbert sont écrits. Aucune permission, convalescence, unité propriétaire de la voiture ou mission de poursuite n’est indiquée."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111749.jpg",
+          "detail": "La photographie contient le regret des paysages et water-cart ; tonne régimentaire est une spécification extérieure au texte."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_111749.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Contexte ne prouve pas déplacement exécuté ni tonne régimentaire."
+        }
+      ]
+    },
+    {
+      "scan_num": 186,
+      "filename": "20251126_111833.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~5--8 :} Tournée de villages avec Gilbert. Les étapes de carrière ultérieures appartiennent à la biographie, non à cette journée. En particulier, l’inscription de janvier 1920 dans la rubrique des domiciles de la fiche militaire ne constitue pas un arrêté de nomination."
+      },
+      "changes": {
+        "historique": "\\textbf{l.~3--17 :} Dernière photographie datée du 30 avril 1917, borne également inscrite sur la couverture. Les tournées et Gilbert appartiennent au récit ; la concordance ne démontre pas l’intégralité matérielle du carnet. Le mariage du 25 octobre 1917 est documenté séparément dans le dossier familial. La fiche militaire distingue ensuite le service et l’affectation des Andelys ; ces étapes ne datent pas cette vue."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_111833.jpg",
+          "detail": "Conciliation du commentaire historique concurrent : faits autographes et apports documentaires conservés ; Dernière entrée du carnet complet non prouvée par dernière photo ; biographie séparée."
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "scan_num": 141,
+      "filename": "20251126_110406.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Groupe initial repassé, Monté[?] ; ordre exact des remaniements non établi."
+      ],
+      "observations": "En-tête du 4 février, remaniement initial, volet et lune, souvenirs familiaux, cadran, toux de Germaine, matinée avec Mte et phrase continuée en 142 vérifiés. Ds ma supprimé ; groupe Monté réservé.",
+      "concurrent_reconciliation": {
+        "scan_num": 141,
+        "filename": "20251126_110406.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Première nuit et identification de toutes les sœurs défuntes non établies par cette page ; chronologie familiale explicitement externe.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 142,
+      "filename": "20251126_110422.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Heure de rentrée dans la chambre, premier chiffre de 40 à reprendre.",
+        "Instrument non nommé ; renvoi au Journal non identifié. Les identités Layral/Mimi viennent du dossier familial."
+      ],
+      "observations": "Suite plus clair & plus gai, musique et chant, visite Layral, retour avec Mimi, ciel et cloches, puis renvoi au Journal collationnés. Le 40 de 11 h 40 est maintenu sous réserve.",
+      "concurrent_reconciliation": {
+        "scan_num": 142,
+        "filename": "20251126_110422.jpg",
+        "concurrent_fields_reviewed": [
+          "historique",
+          "lines",
+          "title"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Certitude généalogique absolue reformulée en témoignage familial ; instrument et Journal restent inconnus.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 143,
+      "filename": "20251126_110441.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [],
+      "observations": "Sur pied 6 h, rêver gd chambre, cimetière à deux, train, adieux et arrivée à Saint-Flour relus ; les deux dons du compte sont contrôlés. Le crop confirme gd contre sa ; développement grande corrigé.",
+      "concurrent_reconciliation": {
+        "scan_num": 143,
+        "filename": "20251126_110441.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Caveau et cause du retard par la neige non écrits.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 144,
+      "filename": "20251126_110549.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Menu détail de ponctuation et chiffres horaires surchargés."
+      ],
+      "observations": "Nuit froide, attente et train, horaires Brioude/Clermont/Gannat/Gien/Montargis et description continue du ciel relus. L’appareil se limite aux stations écrites, sans compléter le réseau.",
+      "concurrent_reconciliation": {
+        "scan_num": 144,
+        "filename": "20251126_110549.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Neussargues/Arvant et détail de réseau sans indicateur contemporain joint.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 145,
+      "filename": "20251126_110601.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Minute de départ du train de 7 h, dernier chiffre moins net."
+      ],
+      "observations": "Diminution de neige, lumière décroissante, Corbeil, Paris, métro, Bastille, gare du Nord, départ 7 h 19 et compte de Brioude relus. Vers 6 h 30 reste approximatif, sans durée mesurée de trajet.",
+      "concurrent_reconciliation": {
+        "scan_num": 145,
+        "filename": "20251126_110601.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Moins de trois quarts d’heure incompatible avec les heures citées ; train militaire non écrit.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 146,
+      "filename": "20251126_110616.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom de famille Carluvant : comparer l’ensemble des occurrences ; appareil ne doit pas déduire la foliation du numéro de scan."
+      ],
+      "observations": "Voyage surchauffé, Amiens et YMCA, Doullens, ciel, deux taubes et éclatements, arrivée à Acheux, Carluvant et toilette relus jusqu’à la sortie continuée en 147.",
+      "concurrent_reconciliation": {
+        "scan_num": 146,
+        "filename": "20251126_110616.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Mission des avions, batterie britannique, métier et adresse du logeur non documentés ici.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 147,
+      "filename": "20251126_110628.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Heure d’arrivée de l’auto : chiffre initial surchargé.",
+        "Lettres biffées avant Hérissart non restituées."
+      ],
+      "observations": "Annonce de Delille, départ de Williams, téléphonie à la Mission, adieux, changement de billet et heure surchargée, parcours, chambre 7 b, lune et habitudes collationnés. L’auxiliaire a suppléé est retiré.",
+      "concurrent_reconciliation": {
+        "scan_num": 147,
+        "filename": "20251126_110628.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Église Saint-Martin, date 5 novembre et distance/canton sans preuve reliée ; citation a quitté désalignée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 148,
+      "filename": "20251126_110646.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [],
+      "observations": "Bureau 104, gelée des vitres, quatre comptes, transition du 7 au 8 février, lit, fenêtres, office et liberté relus. L’ajout souscrit et room est distingué du signe &.",
+      "concurrent_reconciliation": {
+        "scan_num": 148,
+        "filename": "20251126_110646.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Logement fin février contredit 19 février ; somme non décomposée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 149,
+      "filename": "20251126_110659.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Durée de marche : chiffres et unité difficiles ; 45 m ou 2 h non départagés."
+      ],
+      "observations": "Rayons, neige durcie, profondeur du gel, marche à Rubempré, moulins, rangement et nuit, puis matinée du 9 relus. Durée comparée aux fractions horaires de 048, sans résolution forcée.",
+      "concurrent_reconciliation": {
+        "scan_num": 149,
+        "filename": "20251126_110659.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Première reconnaissance et craie non établies.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 150,
+      "filename": "20251126_110726.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Patronyme Croughton : préférence visuelle, identité civile non établie.",
+        "Nom ou qualité après génal : Volké[?], non établi."
+      ],
+      "observations": "Lieutenant et Toutencourt, administration et jours de solde, lorry, café, paille et foin, M.T., gel, Martinsart et général relus. Le crop confirme la préférence Croughton contre Crompton, sans identification civile.",
+      "concurrent_reconciliation": {
+        "scan_num": 150,
+        "filename": "20251126_110726.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Changement de corps vers armée et parc automobile plus précis que texte.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 151,
+      "filename": "20251126_110737.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Patronyme de Casteljau ; la fonction exacte de cet officier n’est pas donnée."
+      ],
+      "observations": "Aveluy, ancienne Cy, Bradfield, NCO’s & men, canons et avions, refilling point, Lovet, Senlis et Casteljau, puis météo du 11 relus. Développements de 1/2 et du ravitaillement resserrés.",
+      "concurrent_reconciliation": {
+        "scan_num": 151,
+        "filename": "20251126_110737.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Identification ancienne compagnie plausible, pas leçon ; portée des canons et secteur non prouvés.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 152,
+      "filename": "20251126_110753.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Patronyme Romert.",
+        "Le millésime du rhum ne prouve ni provenance ni date d’acquisition."
+      ],
+      "observations": "Courses à Toutencourt, Doullens et Auxi, ruisseau, Romert, rhum 1870 et kirsch, fortune, froid nocturne et encadré d’achats entièrement relus. Aucune provenance inventée.",
+      "concurrent_reconciliation": {
+        "scan_num": 152,
+        "filename": "20251126_110753.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Propriétaire terrien inventé ; Renard 124 ne prouve pas Romert 152.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 153,
+      "filename": "20251126_110804.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La date de l’incident antérieur de Morlancourt doit être collationnée dans sa pièce, sans choix par calendrier."
+      ],
+      "observations": "Dégel, minoterie de Méaulte, itinéraire Ville/Treux/Méricourt/Ribemont, mémoire des lieux, buée, ailes des moulins, installation et cinq vues de la cathédrale relus. Morlancourt reste à contrôler dans une pièce distincte.",
+      "concurrent_reconciliation": {
+        "scan_num": 153,
+        "filename": "20251126_110804.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Séjour continu et périmètre des premiers mois non démontrés.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 154,
+      "filename": "20251126_110831.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Toponyme après Authie à la ligne 16, lu Gouin avec réserve."
+      ],
+      "observations": "Dates 13 et 14, Authie par Puchevillers, paupières ruisselantes, arabesques, Gouin[?], café d’Acheux et prix, Lefèvre et nuit relus. L’appareil distingue les prix écrits et leur cause supposée.",
+      "concurrent_reconciliation": {
+        "scan_num": 154,
+        "filename": "20251126_110831.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Rendez-vous qualifié de service sans indication.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 155,
+      "filename": "20251126_110914.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Roulé[?] ou Rôdé : groupe médian et initiale remaniés.",
+        "Commune de Beaucourt non identifiée."
+      ],
+      "observations": "Toutencourt, Raincheval et Puchevillers, costume et maire, glace des rues, vitres du 16, dégel, matinée à Beaucourt, paille et foin, menace de pluie collationnés. Réserve sur Roulé/Rôdé portée dans le texte.",
+      "concurrent_reconciliation": {
+        "scan_num": 155,
+        "filename": "20251126_110914.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Quasi-certitude Beaucourt-sur-Hallue non démontrée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 156,
+      "filename": "20251126_110930.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Motif de la demande relative aux Anglais à Toulouse non donné."
+      ],
+      "observations": "Dégel, correspondance et repos moral, routes, séjour en chambre, Mission de la Vth Army, Toulouse, église, lorry et solde de 68 f 25 relus. Enfin n’est pas transformé en première fois absolue.",
+      "concurrent_reconciliation": {
+        "scan_num": 156,
+        "filename": "20251126_110930.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "13 jours à 5 f 25 : quotient plausible sans tarif ; dédicace non sourcée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 157,
+      "filename": "20251126_110943.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "État exact de la logeuse : malade, sans diagnostic."
+      ],
+      "observations": "225 f 95 en en-tête, Fréchencourt et Bavelincourt, billets et déménagement, humidité et floor, malade/curé/M.O., hair cut, Pierregot et comptes Albertine relus.",
+      "concurrent_reconciliation": {
+        "scan_num": 157,
+        "filename": "20251126_110943.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Albertine domestique du 7 b et paiement au déménagement non écrits.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 158,
+      "filename": "20251126_111008.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Quantité des semelles non indiquée par une lecture assurée ; 1 pr retiré.",
+        "Le lien de l’achat avec l’humidité du logement n’est pas exprimé."
+      ],
+      "observations": "Journées 21 à 23, brouillard, Auxi par Doullens, route, solitude, comptes, monotonie et Molliens-au-Bois relus. Le natif confirme rendent et l’absence de 1 pr devant de semelles liège.",
+      "concurrent_reconciliation": {
+        "scan_num": 158,
+        "filename": "20251126_111008.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Tante Thérèse erronée ; solde de fleurs hypothétique sans facture.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 159,
+      "filename": "20251126_111019.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Titre et provenance du roman non donnés."
+      ],
+      "observations": "Contay et moulin, Mirvaux et habitants, printemps, route de Toutencourt et bois, exil, course de Williams, roman et nuit relus. Horaire 9 h rétabli contre 11 h.",
+      "concurrent_reconciliation": {
+        "scan_num": 159,
+        "filename": "20251126_111019.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "11 h erroné ; mission liée au décrochage allemand non prouvée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 160,
+      "filename": "20251126_111035.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Régiments et divisions des cavaliers non identifiés par l’auteur."
+      ],
+      "observations": "Tooth ache et liberté, barbed wire et tranchées, printemps, Toutencourt, cavalerie indienne et 33 f de mess relus. Ton ironique et numéros d’unités restent extérieurs à la page.",
+      "concurrent_reconciliation": {
+        "scan_num": 160,
+        "filename": "20251126_111035.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Divisions 4/5, tranchées d’exercice et 21 jours payés non établis.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 161,
+      "filename": "20251126_111048.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Graphie du patronyme Dubois.",
+        "Halo lunaire lu au crop ; ne pas conserver Halte dans le texte ou le commentaire."
+      ],
+      "observations": "Courses à Rubempré, Montigny et Fréchencourt, fils du maire, plateau et crucifix, marche lunaire, ombres et Halo, puis froid et Dubois collationnés. Halo reste confirmé.",
+      "concurrent_reconciliation": {
+        "scan_num": 161,
+        "filename": "20251126_111048.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Identité Paul du maire possible par 119, pas identité du médecin.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 162,
+      "filename": "20251126_111105.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Abréviation avant interprète, en Cte, à développer avec prudence.",
+        "Aucun règlement de solde ou ordre de relève joint à cette page."
+      ],
+      "observations": "Dates 3 à 5, brouillard et courses, solde et retenue, Flixecourt et washing, neige et tournées, marche de 500 m, relève annoncée et nuit relus. en Cte[?] reste non développé.",
+      "concurrent_reconciliation": {
+        "scan_num": 162,
+        "filename": "20251126_111105.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Retenue qualifiée réglementaire et dates de permission fixes non documentées.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 163,
+      "filename": "20251126_111116.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Patronymes Grauger et Raucoule ; seconde lecture nominative souhaitable.",
+        "Fonction du maréchal des logis non nommée."
+      ],
+      "observations": "Officier australien et interprète distincts, Doullens, Toutencourt, Grauger et Raucoule, promesse, mess, comptes chlorate/wounded et journée du 7 relus. Aucune fonction administrative inventée.",
+      "concurrent_reconciliation": {
+        "scan_num": 163,
+        "filename": "20251126_111116.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Valet identifié à arrivant 6 mars injustifié ; chef Raucoule non établi.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 164,
+      "filename": "20251126_111137.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom Evar, final r incertain.",
+        "Sigle R.2 : expansion administrative à documenter.",
+        "Montant 18 f[?] du compte de mess ; second chiffre au contact de la ligne supérieure."
+      ],
+      "observations": "Neige du 8, Evar[?], Valet, R.2 et 2nd Australian Division, kit et consigne de la Mission, marche et lune, préparatifs et sentiments du 9, puis compte du mess collationnés. Pensif conservé ; montant 18 f proposé sous réserve après comparaison des 8.",
+      "concurrent_reconciliation": {
+        "scan_num": 164,
+        "filename": "20251126_111137.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Prise en charge entière secteur et 10 f certains rejetés.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 165,
+      "filename": "20251126_111151.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Abréviation de situation à la ligne 7 ; lecture du développement et identité du nouveau capitaine non précisées."
+      ],
+      "observations": "Paquets, mélancolie, souvenirs, situation, départ à 10 h, chambre et English, repos, temps et résolution du soir relus. Pénétré mélancolie confirmé par deux accents et groupe tr ; distinct de pensif 164.",
+      "concurrent_reconciliation": {
+        "scan_num": 165,
+        "filename": "20251126_111151.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Durée exactement 3 mois 8 jours et grades des English non écrits.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 166,
+      "filename": "20251126_111240.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Adresse blanche non complétée.",
+        "Nom Godard ajouté au crayon, mais motif de cet ajout non établi."
+      ],
+      "observations": "Levé 6 h½, paquets, météo, Bureau Board/Purchase Board, sacs et blancs d’adresse, Levy et Godard, lorry et 220, Valet, installation et deux Tables relus. Éclat clair rétabli ; y pronominal comparé au lot 001–048.",
+      "concurrent_reconciliation": {
+        "scan_num": 166,
+        "filename": "20251126_111240.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Levy chef et Godard/Wentworth/Gilbert même service britannique non prouvés.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 167,
+      "filename": "20251126_111251.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Modèle précis des automobiles non indiqué."
+      ],
+      "observations": "Deux fenêtres et rêverie, tommy 50 c, installation et pluie, tournées, comparaison Wolseley/Vauxhall et achat Calvert 1 f 75 relus. Notice du Science Museum Group contrôlée pour le fabricant et la poudre au phénol.",
+      "concurrent_reconciliation": {
+        "scan_num": 167,
+        "filename": "20251126_111251.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Transfert des transports à I Anzac déduit des deux marques sans preuve.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 168,
+      "filename": "20251126_111309.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Mesnil-Martinsart identifié par un rapprochement prosopographique fortement étayé, sans complément autographe.",
+        "Divergence du lieu de naissance entre Debrie et BnF ; raison non établie.",
+        "Prénom Ernest et dates 1862/1888 du père à vérifier sur pièces ; formation du fils corrigée selon Debrie."
+      ],
+      "observations": "Dates 13 à 15, boue, lieutenant à Martinsart, Flutre/Mesnil/Normle Supre, déménagement de l’office et du mess au 216, paille à Puchevillers et courses à Acheux et Bertrancourt relus. Identités non complétées.",
+      "concurrent_reconciliation": {
+        "scan_num": 168,
+        "filename": "20251126_111309.jpg",
+        "concurrent_fields_reviewed": [
+          "historique",
+          "lieu"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Approximation du chef-lieu BnF non démontrée ; ENS 1913/agr 1920 contredits par Debrie ; Ernest/1862/1888 non contrôlés.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 169,
+      "filename": "20251126_111321.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Fermoir : ferrure de sac, sans préciser la pièce.",
+        "Destination des troupes non donnée."
+      ],
+      "observations": "16 et 17, gel, Mirvaux et Pierregot, route d’Albert et souvenirs de Ribemont, ferrure 30 c, marche à Toutencourt et Puchevillers avec Wentworth, auto interlinéaire, cavaliers et cartes relus.",
+      "concurrent_reconciliation": {
+        "scan_num": 169,
+        "filename": "20251126_111321.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Divisions exactes et mission de poursuite ne suivent pas de la date.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 170,
+      "filename": "20251126_111359.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Abréviation de l’ordinaire dans l’itinéraire.",
+        "Aucune mention lisible délivré/relevé hier à ajouter après Achiet."
+      ],
+      "observations": "18 et 19, météo, église et prône, workshop, panorama et fatigue, solde 82 f, cartes et washing, route ordinaire[?], lits et 63rd Naval Div., Miraumont et Achiet, conversation entièrement relus.",
+      "concurrent_reconciliation": {
+        "scan_num": 170,
+        "filename": "20251126_111359.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Exactitude absolue avec Jerrold et destination Arras sans passage contrôlé.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 171,
+      "filename": "20251126_111410.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Patronyme Houtteman[?], rapproché de 108, sans certitude nominative.",
+        "Rattachement divisionnaire et destination des 17th Lancers non écrits."
+      ],
+      "observations": "20 à 22, lieutenant 63 rd, rafales et neige, Belle Église Farm, Senlis et moving/17th Lancers, tournée et maisons d’Albert relus. Patronyme comparé visuellement à 108 : Houtteman[?] préférable, sans identité établie.",
+      "concurrent_reconciliation": {
+        "scan_num": 171,
+        "filename": "20251126_111410.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Association certaine à Sialkot/4th et identification de tous les régiments non prouvées par source consultée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 172,
+      "filename": "20251126_111427.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La motivation administrative des démarches pour le billet n’est pas donnée."
+      ],
+      "observations": "23 à 25, gel des vitres, soleil, workshops et liberté, démarches pour le 220, promenade, journée du 24 et sunset, puis course sans pardessus du 25 relus. Deux tables et deux fenêtres conservées dans l’appareil.",
+      "concurrent_reconciliation": {
+        "scan_num": 172,
+        "filename": "20251126_111427.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Obtient au lieu de fait des démarches : résultat non écrit.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 173,
+      "filename": "20251126_111439.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Patronyme Monin.",
+        "Motif du départ des troupes non explicité."
+      ],
+      "observations": "26 à 28, cloaques, Monin et sa Coy, vieillissement, giboulées, promenades, départ des troupes à l’aube, calme et horizon relus. Jugement personnel non généralisé.",
+      "concurrent_reconciliation": {
+        "scan_num": 173,
+        "filename": "20251126_111439.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Départ durable de toutes les unités et cause stratégique non établis.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 174,
+      "filename": "20251126_111452.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Aucune limite administrative de zone d’achat n’est donnée."
+      ],
+      "observations": "29 à 31, ondées, tournées, village vide, sillons et véhicules, croissant et état lyrique, Rainneville, grêlons, calme et silence entièrement relus. Aucune limite administrative ajoutée.",
+      "concurrent_reconciliation": {
+        "scan_num": 174,
+        "filename": "20251126_111452.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Distances et cantons sans carte datée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 175,
+      "filename": "20251126_111503.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Chiffres effacés au début de la note du mess ; aucun nombre de jours lisible."
+      ],
+      "observations": "1 à 3 avril, Rameaux, neige et tournée, fatigue, mess 27 f 50 au 31 mars, lecture devant le feu, comptes, notaire, côte d’Hérissart et marécages relus. Début de période du mess non établi.",
+      "concurrent_reconciliation": {
+        "scan_num": 175,
+        "filename": "20251126_111503.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Étude et quote-part précise non écrites.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 176,
+      "filename": "20251126_111525.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Carnets de timbres : quantité non indiquée.",
+        "Monnaie britannique et statut du barbier non donnés."
+      ],
+      "observations": "4 et 5 avril, tourmente de neige et fourrage, lecture au bureau et en chambre, hair cut 30 c et timbres 4 f, Jeudi-Saint, tournée d’Acheux, sunset et cimetière, prêche et pleine lune relus.",
+      "concurrent_reconciliation": {
+        "scan_num": 176,
+        "filename": "20251126_111525.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Abandon militaire complet dépasse paraissent déserts ; dédicace non étayée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 177,
+      "filename": "20251126_111537.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Qualité exacte du staff non définie.",
+        "Ponctuation fine après Levé tôt ; pas de minutes chiffrées à restituer."
+      ],
+      "observations": "6 et 7 avril, départ matinal, staff venu payer, Toutencourt et départ du H.Q., courses, soirée sur l’Australie, pamphlets, solde 78 f 75, froid et promenade relus. Levé tôt rétabli après contrôle natif et parallèles 005/012.",
+      "concurrent_reconciliation": {
+        "scan_num": 177,
+        "filename": "20251126_111537.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "H.Q. Albert et objectif Bullecourt non indiqués ; Très tôt corrigé.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 178,
+      "filename": "20251126_111558.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Beauquesne est un ajout visible, pas une déduction d’itinéraire."
+      ],
+      "observations": "Pâques 8, lumière et branches, notaire, Harponville, Rubempré et Beauquesne, Denis et rues, giboulées et tournées des 9 et 10 relus. Beauquesne ajouté en fin de ligne, sans déduction géographique.",
+      "concurrent_reconciliation": {
+        "scan_num": 178,
+        "filename": "20251126_111558.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Première soirée Denis non écrite ; distance Arras non vérifiée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 179,
+      "filename": "20251126_111614.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Portée de l’amitié avec Gilbert au-delà de cette première conversation.",
+        "Aucun rapport causal à Bullecourt établi par la page."
+      ],
+      "observations": "11 à 13, Doullens et Warloy, neige, achats et ceinture 24 f 50, dégel, Belle Église, liberté et Gilbert de Jersey, instruit et poète, relus. Aucune causalité locale certaine sur Bullecourt.",
+      "concurrent_reconciliation": {
+        "scan_num": 179,
+        "filename": "20251126_111614.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Jersey implique francophone natif : inférence invalide.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 180,
+      "filename": "20251126_111630.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La pluie d’Hérissart ne prouve pas celle du Chemin des Dames."
+      ],
+      "observations": "14 à 17, soleil et pluie, Pierregot, office et lecture, washing 60 c, Denis et retour home, averses, neige et grêle, courses à Fréchencourt et Rubempré relus. Qualification grammaticale de home corrigée.",
+      "concurrent_reconciliation": {
+        "scan_num": 180,
+        "filename": "20251126_111630.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Concordance météo entre régions non établie.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 181,
+      "filename": "20251126_111644.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Ribemont souscrit : ajout d’étape ou correction de Buire non déterminé.",
+        "Causalité ou éventuel lapsus 1915 non démontré ; chiffre 5 conservé.",
+        "Stuck : immobilisation ; cause précise non indiquée."
+      ],
+      "observations": "18 à 20, pluie, repos et workshops, Bresle, Lavieville et Hénencourt, 1915, Gilbert, Albert, Buire/Ribemont, stuck, Australiens et Colart relus. Ribemont souscrit signalé sans parenthèses autographes.",
+      "concurrent_reconciliation": {
+        "scan_num": 181,
+        "filename": "20251126_111644.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Embourbement et repos des Australiens non explicités ; parenthèses Ribemont éditoriales.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 182,
+      "filename": "20251126_111702.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Mot après « gde carte » : lecture avec[?] à confirmer.",
+        "Bte Denis : prénom abrégé à identifier par sources familiales."
+      ],
+      "observations": "21 et 22, canonnade vers Arras, 40 m à pied et solde, paille et tournée, guide A. Martin et grande carte, moulin, anti-aircraft battery et paysage relus. Liaison avec[?] non forcée malgré le nouveau crop.",
+      "concurrent_reconciliation": {
+        "scan_num": 182,
+        "filename": "20251126_111702.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Préparation de la Scarpe certaine, Baptiste certain et titre exact Alexis Martin non établis.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 183,
+      "filename": "20251126_111715.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Localisation exacte du métier à tisser non précisée.",
+        "Nom Mignot et prénom Louise ; leurs identités restent à documenter."
+      ],
+      "observations": "23 à 25, métier à tisser, courses, sunset et nuit, journée d’été, azur et bourgeons, Mirvaux, Beaucourt et Montigny, froid, Acheux, Mme Mignot/Louise et Denis relus.",
+      "concurrent_reconciliation": {
+        "scan_num": 183,
+        "filename": "20251126_111715.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Métier domestique, bonneterie/velours et Louise fille Mignot non écrits.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 184,
+      "filename": "20251126_111737.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Identité de la famille Mortreux et profession non données dans la page."
+      ],
+      "observations": "26 et 27, météo, Contay, Puchevillers et Pierregot, dug-outs et tranchées, nuit, Mortreux à Varennes, Rubempré et retour seul, soirée chez Denis relus. Géologie des abris non déduite.",
+      "concurrent_reconciliation": {
+        "scan_num": 184,
+        "filename": "20251126_111737.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Anciens abris et tranchées d’exercice non indiqués.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 185,
+      "filename": "20251126_111749.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Raison du séjour de l’officier à Bournemouth non dite.",
+        "Le projet Cambrai ne prouve pas un départ exécuté."
+      ],
+      "observations": "28 et 29, soleil et tournée, Bournemouth, projet de Cambrai, regrets et paysages, guerre, lunch, promenade, avarie des deux ressorts, lift et water-cart, Gilbert, talus et champs, nuit relus.",
+      "concurrent_reconciliation": {
+        "scan_num": 185,
+        "filename": "20251126_111749.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Contexte ne prouve pas déplacement exécuté ni tonne régimentaire.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    },
+    {
+      "scan_num": 186,
+      "filename": "20251126_111833.jpg",
+      "review_level": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Syntaxe elliptique de « auto chassé lapin sauvage » ; ne prouve pas un accident.",
+        "Le statut de dernière photographie ne prouve pas à lui seul la dernière page matérielle du carnet."
+      ],
+      "observations": "30 avril, chaleur et sans pardessus, deux tournées, Gilbert, auto chassé lapin sauvage, ciel intense et bourgeons, tea-dinner, fatigue, nuit et comptes 50 c relus jusqu’au bord inférieur. Aucun accident ni fin matérielle absolue établi.",
+      "concurrent_reconciliation": {
+        "scan_num": 186,
+        "filename": "20251126_111833.jpg",
+        "concurrent_fields_reviewed": [
+          "historique"
+        ],
+        "decision": "apports partiellement retenus et reformulés",
+        "rejected_or_reserved": "Dernière entrée du carnet complet non prouvée par dernière photo ; biographie séparée.",
+        "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+      }
+    }
+  ],
+  "concurrent_reconciliation_reviews": [
+    {
+      "scan_num": 141,
+      "filename": "20251126_110406.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Première nuit et identification de toutes les sœurs défuntes non établies par cette page ; chronologie familiale explicitement externe.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 142,
+      "filename": "20251126_110422.jpg",
+      "concurrent_fields_reviewed": [
+        "historique",
+        "lines",
+        "title"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Certitude généalogique absolue reformulée en témoignage familial ; instrument et Journal restent inconnus.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 143,
+      "filename": "20251126_110441.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Caveau et cause du retard par la neige non écrits.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 144,
+      "filename": "20251126_110549.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Neussargues/Arvant et détail de réseau sans indicateur contemporain joint.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 145,
+      "filename": "20251126_110601.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Moins de trois quarts d’heure incompatible avec les heures citées ; train militaire non écrit.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 146,
+      "filename": "20251126_110616.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Mission des avions, batterie britannique, métier et adresse du logeur non documentés ici.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 147,
+      "filename": "20251126_110628.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Église Saint-Martin, date 5 novembre et distance/canton sans preuve reliée ; citation a quitté désalignée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 148,
+      "filename": "20251126_110646.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Logement fin février contredit 19 février ; somme non décomposée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 149,
+      "filename": "20251126_110659.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Première reconnaissance et craie non établies.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 150,
+      "filename": "20251126_110726.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Changement de corps vers armée et parc automobile plus précis que texte.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 151,
+      "filename": "20251126_110737.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Identification ancienne compagnie plausible, pas leçon ; portée des canons et secteur non prouvés.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 152,
+      "filename": "20251126_110753.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Propriétaire terrien inventé ; Renard 124 ne prouve pas Romert 152.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 153,
+      "filename": "20251126_110804.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Séjour continu et périmètre des premiers mois non démontrés.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 154,
+      "filename": "20251126_110831.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Rendez-vous qualifié de service sans indication.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 155,
+      "filename": "20251126_110914.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Quasi-certitude Beaucourt-sur-Hallue non démontrée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 156,
+      "filename": "20251126_110930.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "13 jours à 5 f 25 : quotient plausible sans tarif ; dédicace non sourcée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 157,
+      "filename": "20251126_110943.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Albertine domestique du 7 b et paiement au déménagement non écrits.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 158,
+      "filename": "20251126_111008.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Tante Thérèse erronée ; solde de fleurs hypothétique sans facture.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 159,
+      "filename": "20251126_111019.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "11 h erroné ; mission liée au décrochage allemand non prouvée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 160,
+      "filename": "20251126_111035.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Divisions 4/5, tranchées d’exercice et 21 jours payés non établis.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 161,
+      "filename": "20251126_111048.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Identité Paul du maire possible par 119, pas identité du médecin.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 162,
+      "filename": "20251126_111105.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Retenue qualifiée réglementaire et dates de permission fixes non documentées.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 163,
+      "filename": "20251126_111116.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Valet identifié à arrivant 6 mars injustifié ; chef Raucoule non établi.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 164,
+      "filename": "20251126_111137.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Prise en charge entière secteur et 10 f certains rejetés.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 165,
+      "filename": "20251126_111151.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Durée exactement 3 mois 8 jours et grades des English non écrits.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 166,
+      "filename": "20251126_111240.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Levy chef et Godard/Wentworth/Gilbert même service britannique non prouvés.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 167,
+      "filename": "20251126_111251.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Transfert des transports à I Anzac déduit des deux marques sans preuve.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 168,
+      "filename": "20251126_111309.jpg",
+      "concurrent_fields_reviewed": [
+        "historique",
+        "lieu"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Approximation du chef-lieu BnF non démontrée ; ENS 1913/agr 1920 contredits par Debrie ; Ernest/1862/1888 non contrôlés.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 169,
+      "filename": "20251126_111321.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Divisions exactes et mission de poursuite ne suivent pas de la date.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 170,
+      "filename": "20251126_111359.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Exactitude absolue avec Jerrold et destination Arras sans passage contrôlé.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 171,
+      "filename": "20251126_111410.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Association certaine à Sialkot/4th et identification de tous les régiments non prouvées par source consultée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 172,
+      "filename": "20251126_111427.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Obtient au lieu de fait des démarches : résultat non écrit.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 173,
+      "filename": "20251126_111439.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Départ durable de toutes les unités et cause stratégique non établis.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 174,
+      "filename": "20251126_111452.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Distances et cantons sans carte datée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 175,
+      "filename": "20251126_111503.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Étude et quote-part précise non écrites.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 176,
+      "filename": "20251126_111525.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Abandon militaire complet dépasse paraissent déserts ; dédicace non étayée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 177,
+      "filename": "20251126_111537.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "H.Q. Albert et objectif Bullecourt non indiqués ; Très tôt corrigé.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 178,
+      "filename": "20251126_111558.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Première soirée Denis non écrite ; distance Arras non vérifiée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 179,
+      "filename": "20251126_111614.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Jersey implique francophone natif : inférence invalide.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 180,
+      "filename": "20251126_111630.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Concordance météo entre régions non établie.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 181,
+      "filename": "20251126_111644.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Embourbement et repos des Australiens non explicités ; parenthèses Ribemont éditoriales.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 182,
+      "filename": "20251126_111702.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Préparation de la Scarpe certaine, Baptiste certain et titre exact Alexis Martin non établis.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 183,
+      "filename": "20251126_111715.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Métier domestique, bonneterie/velours et Louise fille Mignot non écrits.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 184,
+      "filename": "20251126_111737.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Anciens abris et tranchées d’exercice non indiqués.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 185,
+      "filename": "20251126_111749.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Contexte ne prouve pas déplacement exécuté ni tonne régimentaire.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    },
+    {
+      "scan_num": 186,
+      "filename": "20251126_111833.jpg",
+      "concurrent_fields_reviewed": [
+        "historique"
+      ],
+      "decision": "apports partiellement retenus et reformulés",
+      "rejected_or_reserved": "Dernière entrée du carnet complet non prouvée par dernière photo ; biographie séparée.",
+      "source_snapshot_sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63"
+    }
+  ],
+  "concurrent_source_snapshot": {
+    "path": "edition_philologique/relecture_integrale_2026_10/apports_concurrents.json",
+    "sha256": "fdac69df3fccd9f5b51f23001917272568e9efa1eb768807a491a7aea7707e63",
+    "reviewed_scope": "141–186 ; historique de 46 vues, texte/titre 142, lieu 168"
+  },
+  "sources": [
+    {
+      "path": "sources/flutre_debrie_1978.pdf",
+      "url": "https://www.e-periodica.ch/cntmng?bot=1&pid=rlr-001:1978:42::513",
+      "sha256": "01cd0aaebce36a053155255c6bf6a621d73f4ef25f3fe0a75bf88cbf8dc2e1eb",
+      "retrieved_date": "2026-10-15",
+      "reference": "René Debrie, Nécrologie, Revue de linguistique romane42 (1978),165–166,p. 238–240",
+      "inspection": "Texte lu ; page238 visualisée directement."
+    }
+  ],
+  "base_sha256": "96d0d442e91493bdb03216779f04074b19d4beb3224653210f5234c9bfb4e919"
+}

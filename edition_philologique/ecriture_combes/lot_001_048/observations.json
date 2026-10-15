@@ -1,0 +1,304 @@
+{
+  "method": "Recadrages natifs sans modification de couleur, contraste ou tracé. Coordonnées [gauche,haut,droite,bas] en pixels du JPEG source. Examen préparatoire avant la nouvelle relecture.",
+  "examples": [
+    {
+      "scan_num": 2,
+      "filename": "20251126_092932.jpg",
+      "bbox": [
+        0,
+        0,
+        1948,
+        243
+      ],
+      "crop": "002_jour_25_Ma.png",
+      "reading": "25 Ma. / Juillet 1916",
+      "observation": "Le 2 commence en boucle descendante ; Ma. est une contraction de mardi. Comparer les dates suivantes, sans développer les noms dans le texte.",
+      "source_sha256": "699169a100b95c66c4a34c2ea333c1017f5edc20adea7350b5d91bae0711a3db"
+    },
+    {
+      "scan_num": 2,
+      "filename": "20251126_092932.jpg",
+      "bbox": [
+        0,
+        171,
+        1948,
+        486
+      ],
+      "crop": "002_heure_8_mat.png",
+      "reading": "Levé [dès ?] 8 H m. / Bien reposé",
+      "observation": "Le H se distingue des lettres courantes par sa hauteur ; la liaison avant 8 demeure discutée.",
+      "source_sha256": "699169a100b95c66c4a34c2ea333c1017f5edc20adea7350b5d91bae0711a3db"
+    },
+    {
+      "scan_num": 2,
+      "filename": "20251126_092932.jpg",
+      "bbox": [
+        0,
+        1057,
+        1948,
+        1399
+      ],
+      "crop": "002_lieutenant_Curtis.png",
+      "reading": "lieutt Curtis au village de [Sercus ?]",
+      "observation": "La finale du grade est suscrite ; la graphie du nom Curtis peut se comparer à la contraction Ctis de la vue023. Le toponyme reste proposé.",
+      "source_sha256": "699169a100b95c66c4a34c2ea333c1017f5edc20adea7350b5d91bae0711a3db"
+    },
+    {
+      "scan_num": 4,
+      "filename": "20251126_093100.jpg",
+      "bbox": [
+        0,
+        206,
+        2176,
+        570
+      ],
+      "crop": "004_Tjours_meme.png",
+      "reading": "Tjours même temps gris et / saturé de mélancolie",
+      "observation": "Le groupe jours est resserré et abrégé ; les pleins d’encre ne se confondent pas avec une rature.",
+      "source_sha256": "e929eccf4c913269c912891feb135dd990ac713b2b23e1aae0965bead8d8dfc8"
+    },
+    {
+      "scan_num": 4,
+      "filename": "20251126_093100.jpg",
+      "bbox": [
+        0,
+        919,
+        2176,
+        1204
+      ],
+      "crop": "004_retenu_lgt.png",
+      "reading": "Eglise m’a aussi retenu lgt — Double nef",
+      "observation": "lgt porte une finale en hauteur ; le groupe vaut longtemps dans cette phrase, sans rétablissement silencieux des lettres absentes.",
+      "source_sha256": "e929eccf4c913269c912891feb135dd990ac713b2b23e1aae0965bead8d8dfc8"
+    },
+    {
+      "scan_num": 7,
+      "filename": "20251126_093219.jpg",
+      "bbox": [
+        0,
+        1559,
+        2428,
+        1974
+      ],
+      "crop": "007_headcook.png",
+      "reading": "Tip à Hancock, headcook : 5 f",
+      "observation": "Le h anglais présente une grande hampe ; la finale cook et le montant peuvent être distingués malgré la liaison.",
+      "source_sha256": "56ae78ebe66bf6a495e1030723d056de0ea06e94d7229c3911dab2d6b354d287"
+    },
+    {
+      "scan_num": 16,
+      "filename": "20251126_093506.jpg",
+      "bbox": [
+        0,
+        1782,
+        2324,
+        2178
+      ],
+      "crop": "016_Maxse.png",
+      "reading": "lgt av. l’éclusier de notre gal / en chef, Maxse etc",
+      "observation": "Le x du nom est formé par deux mouvements et le s s’enchaîne au e ; ne pas transformer toute lettre croisée en x.",
+      "source_sha256": "770923fd48b35bcfb61b4fb7d497e0b2ad3b61f8872895a9c423c300f6c47704"
+    },
+    {
+      "scan_num": 23,
+      "filename": "20251126_093922.jpg",
+      "bbox": [
+        0,
+        564,
+        2304,
+        896
+      ],
+      "crop": "023_y_pronom.png",
+      "reading": "M. Barbry — y [suppression] amené / adjudants Lupin & Schumacher",
+      "observation": "Le y devant amené peut être pronominal ; la coordination anglaise/française n’impose pas de lire toutes les formes analogues &.",
+      "source_sha256": "cada8695629958865f1fea523cbd00e8668d66cf5e16c16673aa28b8caa604f7"
+    },
+    {
+      "scan_num": 23,
+      "filename": "20251126_093922.jpg",
+      "bbox": [
+        0,
+        1992,
+        2304,
+        2357
+      ],
+      "crop": "023_mervx_sunset.png",
+      "reading": "Fin jour très belle mervx sunset",
+      "observation": "La finale de merveilleux est contractée ; le x resserré est à comparer au x de Maxse, sans identité mécanique des tracés.",
+      "source_sha256": "cada8695629958865f1fea523cbd00e8668d66cf5e16c16673aa28b8caa604f7"
+    },
+    {
+      "scan_num": 30,
+      "filename": "20251126_094215.jpg",
+      "bbox": [
+        0,
+        116,
+        2324,
+        464
+      ],
+      "crop": "030_giboulees_liaison.png",
+      "reading": "giboulées & éclaircies",
+      "observation": "Le signe de coordination a une descente et peut ressembler au y. La construction permet d’en déterminer ici la fonction, pas de définir un alphabet universel.",
+      "source_sha256": "b84bcb19ad3ba8e8ce9c0a433cc851b57311eb6da30936c676600825336c249e"
+    },
+    {
+      "scan_num": 30,
+      "filename": "20251126_094215.jpg",
+      "bbox": [
+        0,
+        1225,
+        2324,
+        1524
+      ],
+      "crop": "030_plus_comparatif.png",
+      "reading": "Aucun confort. Jamais + mal logé",
+      "observation": "Le + représente plus dans le comparatif. Le signe n’indique pas une addition comptable dans cet emploi.",
+      "source_sha256": "b84bcb19ad3ba8e8ce9c0a433cc851b57311eb6da30936c676600825336c249e"
+    },
+    {
+      "scan_num": 36,
+      "filename": "20251126_094449.jpg",
+      "bbox": [
+        0,
+        266,
+        2484,
+        762
+      ],
+      "crop": "036_relatif_qui.png",
+      "reading": "tout jaunes — et qui / bruissaient monotone",
+      "observation": "Le q descend à partir d’un petit corps et le ui est comprimé. Cette construction relative peut être confrontée aux qui des vues002 et048 ; l’accord elliptique reste celui du diariste.",
+      "source_sha256": "5f48e9d0a134665609dfa6425ab6f8454b9c83069dd46600397cb1220bf624e6"
+    },
+    {
+      "scan_num": 41,
+      "filename": "20251126_094621.jpg",
+      "bbox": [
+        0,
+        315,
+        2404,
+        770
+      ],
+      "crop": "041_duree_matin.png",
+      "reading": "Chevauché matinée entière — Après 3 H soir",
+      "observation": "Matinée entière reste écrit sans pronom ni auxiliaire. Le H de l’heure ne transforme pas entière en un chiffre de durée.",
+      "source_sha256": "8021a4d324dbce22ffb3bf38bf08fe8de9158f4821890882b0b3bd7959159baf"
+    },
+    {
+      "scan_num": 41,
+      "filename": "20251126_094621.jpg",
+      "bbox": [
+        0,
+        2975,
+        2404,
+        3448
+      ],
+      "crop": "041_groom_compte.png",
+      "reading": "Tip au groom Connelly : 1 f / Oeufs / cartes ples",
+      "observation": "Le crochet autographe à gauche rassemble les comptes ; il ne marque pas une perte du texte. La finale de cartes postales est contractée.",
+      "source_sha256": "8021a4d324dbce22ffb3bf38bf08fe8de9158f4821890882b0b3bd7959159baf"
+    },
+    {
+      "scan_num": 48,
+      "filename": "20251126_094835.jpg",
+      "bbox": [
+        0,
+        295,
+        2428,
+        868
+      ],
+      "crop": "048_horaires.png",
+      "reading": "Levé 6 H 1/2 / Vers 7 H 1/2 / départ fixé à 9 H 30",
+      "observation": "Les fractions et H peuvent être suscrits. On conserve les heures écrites, sans imposer un itinéraire ou un temps de route.",
+      "source_sha256": "4da749eaa752ad1e5c3bb8f8224243a6baba47cc61395369ee327918626990a8"
+    },
+    {
+      "scan_num": 48,
+      "filename": "20251126_094835.jpg",
+      "bbox": [
+        0,
+        2795,
+        2428,
+        3333
+      ],
+      "crop": "048_hutte_litiere.png",
+      "reading": "hutte avec épaisse[bâche?] / verte cme litière",
+      "observation": "Litière est confirmé par l’attaque l, le t barré et la finale ère. Le mot de matière bâche reste proposé : attaque b/h, corps resserré et finale che. Deux avis indépendants maintiennent la réserve.",
+      "source_sha256": "4da749eaa752ad1e5c3bb8f8224243a6baba47cc61395369ee327918626990a8"
+    },
+    {
+      "scan_num": 5,
+      "filename": "20251126_093141.jpg",
+      "bbox": [
+        0,
+        1640,
+        2356,
+        2084
+      ],
+      "crop": "005_terme_voyage.png",
+      "reading": "au terme voyage",
+      "observation": "Le v initial, le y descendant et la finale age sont visibles ; conserver l’ellipse sans de.",
+      "source_sha256": "4f09e59d8576a0093c43e1793522ba6971754f0f161f9d43b86a85c8f9a2a57e",
+      "phase": "réexamen pendant la relecture"
+    },
+    {
+      "scan_num": 24,
+      "filename": "20251126_093941.jpg",
+      "bbox": [
+        0,
+        1657,
+        2384,
+        2382
+      ],
+      "crop": "024_emballage.png",
+      "reading": "Emballage au départ :50c",
+      "observation": "E initial ample, m, b haut et finale allage : la nouvelle comparaison écarte Timbrage.",
+      "source_sha256": "627159f1f6922979cc2f5193f80fe1ae710e05d0de1869c56b6801e8710c67c6",
+      "phase": "réexamen pendant la relecture"
+    },
+    {
+      "scan_num": 25,
+      "filename": "20251126_093955.jpg",
+      "bbox": [
+        0,
+        2286,
+        2148,
+        2662
+      ],
+      "crop": "025_ft_bien.png",
+      "reading": "ft[?] de bien à mon moral",
+      "observation": "Le premier trait est saturé ; ft(fait) est proposé avec réserve, non bp(beaucoup) assuré.",
+      "source_sha256": "4ec880a34ed79957a07ed086f78a48b1c06c49c4ef09c8ab38c7dad75074bbd3",
+      "phase": "réexamen pendant la relecture"
+    },
+    {
+      "scan_num": 28,
+      "filename": "20251126_094058.jpg",
+      "bbox": [
+        0,
+        1884,
+        2328,
+        2254
+      ],
+      "crop": "028_nous_a_trempe.png",
+      "reading": "Pluie nous a trempé j’à la peau",
+      "observation": "Nous a est visible avant trempé. Le groupe ne donne pas ne cesse.",
+      "source_sha256": "9e13db1019a3e5ead5aa43fe21362e10df92fe6fd613e830c74a757a23296cd8",
+      "phase": "réexamen pendant la relecture"
+    },
+    {
+      "scan_num": 32,
+      "filename": "20251126_094250.jpg",
+      "bbox": [
+        0,
+        1020,
+        2448,
+        1793
+      ],
+      "crop": "032_sous_pref.png",
+      "reading": "sous-préf[re?] de5000habts ;1697",
+      "observation": "La petite finale surélevée dépend de sous-préfecture. Aucun4à distinct n’est confirmé. Le9 de1697 est saturé, ce qui avait pu le faire prendre pour4.",
+      "source_sha256": "b03c219ab509ae722fac1b6c4d51e06f118ede05ede48114d5b8983acc54d4a3",
+      "phase": "réexamen pendant la relecture"
+    }
+  ]
+}

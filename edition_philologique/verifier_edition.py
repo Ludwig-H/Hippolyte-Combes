@@ -123,6 +123,12 @@ def check_revision(records, revision_path, checks):
     checks.require(bool(modules), 'Revision: no source module SHA-256 manifest')
     for name, digest in modules.items():
         check_digest(EDITION_DIR, name, digest, checks, 'Source module')
+    if 'relecture_base_sha256' in revision:
+        second = EDITION_DIR / 'relecture_integrale_2026_10'
+        check_digest(second, 'base_relecture.json', revision['relecture_base_sha256'], checks, 'Second collation baseline')
+        check_digest(second, 'base_corrections_validees.json', revision.get('previous_revision_sha256'), checks, 'Archived first revision')
+        if 'concurrent_proposals_sha256' in revision:
+            check_digest(second, 'apports_concurrents.json', revision['concurrent_proposals_sha256'], checks, 'Concurrent proposals')
     # These archived input manifests are optional when using another revision
     # directory, but are checked if present. They must agree with the accepted one.
     archived = revision_path.parent / 'base_sources_sha256.json'
@@ -138,6 +144,8 @@ def check_revision(records, revision_path, checks):
                 if checks.require(baseline.is_file(), 'Proposal baseline snapshot missing'):
                     checks.require(sha256(baseline) == data['baseline_sha256'],
                                    f'Proposal baseline SHA-256 mismatch: {path.name}')
+            if isinstance(data, dict) and data.get('base_sha256'):
+                check_digest(EDITION_DIR / 'relecture_integrale_2026_10', 'base_relecture.json', data['base_sha256'], checks, 'Second collation proposal baseline')
 
 
 def check_records(records, checks):

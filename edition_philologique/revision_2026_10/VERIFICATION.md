@@ -1,3 +1,7 @@
+# État archivé de la première passe
+
+Le compte rendu ci-dessous documente la livraison antérieure. Pour le PDF et les données actuels, consulter la [vérification de la seconde relecture](../relecture_integrale_2026_10/VERIFICATION.md).
+
 # Vérification de l’édition du 15 octobre 2026
 
 L’assemblage contient 186 notices de contrôle, 170 notices modifiées par rapport aux modules sources et 71 vues dont le tableau de transcription est corrigé. Les trois modules sources ont été conservés dans l’état partagé contrôlé, avec leurs empreintes ; les valeurs antérieures des propositions restent archivées séparément. Aucune branche de travail supplémentaire n’a été créée.

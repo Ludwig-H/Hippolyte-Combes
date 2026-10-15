@@ -2,6 +2,8 @@
 
 Ce dossier rassemble les propositions de correction et leurs preuves photographiques pour les 186 vues du carnet. Il documente une édition de travail : le statut de collation ligne à ligne décrit le contrôle effectué et laisse subsister les réserves de lecture consignées pour chaque vue.
 
+Une [seconde relecture intégrale après étude comparative de l’écriture](../relecture_integrale_2026_10/README.md) prolonge désormais cette passe. Les copies immuables des premiers lots sont dans [premiere_passe/](../relecture_integrale_2026_10/premiere_passe/) ; les lots ci-dessous conservent aussi des enrichissements historiques parallèles. Le manifeste `corrections_validees.json` est maintenant cumulé. Pour le reproduire, utiliser `assembler_relecture.py` : l’ancien assembleur refuse de supprimer cette seconde passe.
+
 ## Les quatre lots
 
 | Vues | Propositions structurées | Explications |

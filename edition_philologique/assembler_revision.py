@@ -8,6 +8,9 @@ from revision_philologique import ALLOWED_FIELDS, REVISION_DIR
 
 
 def assemble():
+    current = REVISION_DIR / 'corrections_validees.json'
+    if current.exists() and 'relecture_base_commit' in json.loads(current.read_text()):
+        raise ValueError('La seconde relecture est intégrée ; utiliser assembler_relecture.py pour conserver ses corrections.')
     baseline = {r['scan_num']: r for r in build_all_186_records(apply_revision=False)}
     witness = {r['scan_num']: r for r in json.loads((REVISION_DIR / 'base_edition_reprise.json').read_text())}
     source_hashes = json.loads((REVISION_DIR / 'base_sources_sha256.json').read_text())

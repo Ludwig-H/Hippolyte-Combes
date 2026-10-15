@@ -1,0 +1,640 @@
+{
+  "method": "PIL Image.open, crop au rectangle natif puis save PNG ; aucune rotation, aucun redimensionnement, aucun filtre ni retouche.",
+  "observations": [
+    {
+      "scan_num": 141,
+      "filename": "20251126_110406.jpg",
+      "crop_filename": "141_heure.png",
+      "source_dimensions": [
+        2416,
+        3464
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        0,
+        2319,
+        589
+      ],
+      "source_sha256": "91a93c9ee4653874d28109a2a0d06e7e62512505140346795b164f211381b785",
+      "crop_sha256": "d6430aed7ac753568887800b3915ae0b426ae9a45fac6a48e1bd048c484af54b",
+      "forme_lue": "... chambre hier soir vers 11 h 1/4",
+      "comparaison": "Chambre est suscrit au-dessus d’un début de ligne repris ; h, numérateur et dénominateur sont resserrés au-dessus de la ligne. Comparer les fractions 1/2 des heures en 166.",
+      "limites": "Les lettres sous la reprise initiale ne sont pas toutes dégagées ; le crop conserve la surcharge plutôt que la réparer."
+    },
+    {
+      "scan_num": 141,
+      "filename": "20251126_110406.jpg",
+      "crop_filename": "141_souvenirs.png",
+      "source_dimensions": [
+        2416,
+        3464
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        1005,
+        2416,
+        1905
+      ],
+      "source_sha256": "91a93c9ee4653874d28109a2a0d06e7e62512505140346795b164f211381b785",
+      "crop_sha256": "427c6e6a60fefc9e8a6de78d7fdf145c4c4d8d46ec4f779661d93139ff3fd2d3",
+      "forme_lue": "Pensé à Papa, Maman, sœurs — que j’ai tant aimés",
+      "comparaison": "Les m de Maman et émotion multiplient les jambages ; le s initial de sœurs n’a pas le grand corps du S de Silence dans la page entière. Les e/o sont de petites boucles vite fermées.",
+      "limites": "La photo seule ne nomme pas les personnes derrière Papa/Maman/sœurs. La phrase privée de sujet se poursuit par un participe."
+    },
+    {
+      "scan_num": 148,
+      "filename": "20251126_110646.jpg",
+      "crop_filename": "148_comptes.png",
+      "source_dimensions": [
+        2364,
+        3400
+      ],
+      "bbox_pixels_natifs": [
+        24,
+        986,
+        2364,
+        1938
+      ],
+      "source_sha256": "8a42b18341c4ef231505751476c4312d02c8ad2ee388ca1359a3573a70e405ba",
+      "crop_sha256": "1d8844bc53eb2f1f44318bfc7575b1c0b51260cfc2788053c010bd7ecb3b6e8c",
+      "forme_lue": "Gift aux Carluvant, pour mon lunch, et room ; 5 f",
+      "comparaison": "Room est placé sous lunch. Le f des francs descend largement sous la ligne ; les centimes et les dizaines sont tassés après le chiffre entier. Comparer solde 68 f 25 en 156.",
+      "limites": "L’ajout sous la ligne peut se transcrire en appareil ; il ne faut pas le confondre avec une nouvelle dépense. Orthographe Carluvant à contrôler par parallèles."
+    },
+    {
+      "scan_num": 149,
+      "filename": "20251126_110659.jpg",
+      "crop_filename": "149_jusqua.png",
+      "source_dimensions": [
+        2468,
+        3516
+      ],
+      "bbox_pixels_natifs": [
+        25,
+        281,
+        2468,
+        668
+      ],
+      "source_sha256": "1b397beb80d0a01f1247c643adf0b1f38ac95613c796ed748fd709934c24f2f1",
+      "crop_sha256": "ae85d664f69122f56bfc2d3ff3ce9f9315f7ba9b1929af71a4b95e875562ab7f",
+      "forme_lue": "Terre durcie, j’à gde profondeur",
+      "comparaison": "j présente une descente sous la ligne ; apostrophe et accent de à sont distincts. gde est contracté. À comparer à jusqu’à en contexte et non à un « j’ai » développé arbitrairement.",
+      "limites": "La contraction doit être conservée dans le texte diplomatique ; profondeur n’apporte pas la durée de marche de la même page."
+    },
+    {
+      "scan_num": 149,
+      "filename": "20251126_110659.jpg",
+      "crop_filename": "149_duree.png",
+      "source_dimensions": [
+        2468,
+        3516
+      ],
+      "bbox_pixels_natifs": [
+        25,
+        1266,
+        2024,
+        1758
+      ],
+      "source_sha256": "1b397beb80d0a01f1247c643adf0b1f38ac95613c796ed748fd709934c24f2f1",
+      "crop_sha256": "e1e259363d3b6b66a8d17d47d9603da7ef468b7059dfe018aac6e5f6f76b39ed",
+      "forme_lue": "[durée non établie] de marche",
+      "comparaison": "La première forme chiffrée comporte plusieurs courbes et un trait descendant ; elle doit être confrontée aux fractions de 141 et 166 et aux chiffres 4/5 d’autres comptes.",
+      "limites": "Ni 45 m ni 2 h n’est retenu à cette étape ; le support est présent, c’est une réserve de déchiffrement."
+    },
+    {
+      "scan_num": 151,
+      "filename": "20251126_110737.jpg",
+      "crop_filename": "151_anglais.png",
+      "source_dimensions": [
+        2424,
+        3392
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        204,
+        2424,
+        1018
+      ],
+      "source_sha256": "62b6cf86a86924fe7e2f1ffc63f932a574f62dc5d45fdd001747169b637baa7d",
+      "crop_sha256": "7f141e7c193396039e76402d7de2db00b088872b93ee3ac5ee27075e397ebb36",
+      "forme_lue": "Cy ; Lunché ; Lt Bradfield ; N.C.O’s & men",
+      "comparaison": "Cy est une contraction de Company dans un passage militaire ; N.C.O’s est une suite de capitales séparées. Le signe de liaison avant men est comparable à celui avant Bureau en 166.",
+      "limites": "Le mélange français/anglais n’autorise pas à régulariser Lunché en une phrase entièrement française ni à qualifier l’unité sans preuve."
+    },
+    {
+      "scan_num": 156,
+      "filename": "20251126_110930.jpg",
+      "crop_filename": "156_solde.png",
+      "source_dimensions": [
+        2404,
+        3480
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        3062,
+        2404,
+        3480
+      ],
+      "source_sha256": "7e877de0afb740fb3098dcaa2a622eeea065e74c917620b3ef464ce88e805a79",
+      "crop_sha256": "cc05de3719776fb7fa1e4096112b274673c613051923916d561f8ed3d51c78fb",
+      "forme_lue": "A Toutencourt, solde : 68 f 25 c",
+      "comparaison": "Les unités monétaires sont dénivelées ; 8 boucle deux fois, 2 a une diagonale et une base, 5 possède une attaque supérieure puis une courbe ouverte. Le crochet encadre le compte.",
+      "limites": "Les chiffres établissent un montant, pas les composantes réglementaires de la paie."
+    },
+    {
+      "scan_num": 161,
+      "filename": "20251126_111048.jpg",
+      "crop_filename": "161_halo.png",
+      "source_dimensions": [
+        2308,
+        3268
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        1111,
+        2308,
+        1765
+      ],
+      "source_sha256": "e392a929c620e7a28fa79b308133ca7f10c8d3c6ca143cb49d318c8691afc10c",
+      "crop_sha256": "fd16721c35afade49c225d511bb6e71fd6fbb65d3ef4f05e5822e2409991ad69",
+      "forme_lue": "Halo lunaire ; calme reposant & silence absolu",
+      "comparaison": "Le grand H et la lettre montante du groupe Halo sont encrés fortement ; comparaison avec les l de lunaire, calme, illuminant et clair dans le même crop. La liaison avant silence ressemble à une boucle prolongée descendante.",
+      "limites": "Halo est la lecture proposée ; un parallèle graphique explique la proposition, sans donner le droit de lisser les autres mots surchargés."
+    },
+    {
+      "scan_num": 164,
+      "filename": "20251126_111137.jpg",
+      "crop_filename": "164_interpretes.png",
+      "source_dimensions": [
+        2420,
+        3552
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        604,
+        2420,
+        1279
+      ],
+      "source_sha256": "79742f2786a7a270791d8d83fe1ebccba833d5b79fce64618b43cc8b115957f7",
+      "crop_sha256": "30fd41811a80d566aa194d312923972c944eb20f53d1fd88a7d70d1eef1dd937",
+      "forme_lue": "intte Evar[?] ; intte Valet ; 2nd australian division ; kit",
+      "comparaison": "Le mot intte porte sa finale en hauteur ; Valet est répété avec une attaque V ouverte puis al/li très serré. Le chiffre 2 de la division s’accompagne de nd suscrit.",
+      "limites": "Le patronyme du premier interprète reste peu assuré ; la finale de Valet n’est pas un critère d’identification biographique."
+    },
+    {
+      "scan_num": 164,
+      "filename": "20251126_111137.jpg",
+      "crop_filename": "164_mess.png",
+      "source_dimensions": [
+        2420,
+        3552
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        3090,
+        2420,
+        3552
+      ],
+      "source_sha256": "79742f2786a7a270791d8d83fe1ebccba833d5b79fce64618b43cc8b115957f7",
+      "crop_sha256": "ecad8f1e13a73f0b68aab89bdf7607874c99f142601968fa4a470d2fa362b3ce",
+      "forme_lue": "Après dinner, réglé comptes mess avec cap. Wms jusqu’à ce soir : 10 f",
+      "comparaison": "Les mots anglais dinner et mess sont intégrés à une construction française ; le montant se termine par le grand f de franc. Comparer la forme du 1 et du 0 aux autres comptes.",
+      "limites": "Le crop initial coupait le haut de la première ligne ; bbox élargi avant publication des observations."
+    },
+    {
+      "scan_num": 166,
+      "filename": "20251126_111240.jpg",
+      "crop_filename": "166_bureau.png",
+      "source_dimensions": [
+        2384,
+        3452
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        449,
+        2384,
+        967
+      ],
+      "source_sha256": "27d4f3849831dc2fd1c49a4c166162702efbbe58406ef5995c2667c5f7fb8425",
+      "crop_sha256": "f0948f7addf0610485abc748162a310541baa434297b7511f5db9e6f76a9e2ae",
+      "forme_lue": "Maintenant, quitte sans regrets ce petit village & Bureau Board",
+      "comparaison": "Bureau porte une grande attaque B, puis un groupe ureau bas ; Board possède une boucle initiale d’une autre allure. Le signe & se rapproche d’un y, mais coordonne deux groupes nominaux.",
+      "limites": "La formulation hybride est conservée ; elle ne suffit pas à décider qu’un mot est biffé ou qu’il faut écrire Purchase."
+    },
+    {
+      "scan_num": 166,
+      "filename": "20251126_111240.jpg",
+      "crop_filename": "166_crayon.png",
+      "source_dimensions": [
+        2384,
+        3452
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        1657,
+        2384,
+        2278
+      ],
+      "source_sha256": "27d4f3849831dc2fd1c49a4c166162702efbbe58406ef5995c2667c5f7fb8425",
+      "crop_sha256": "a9c61be70da767eba4949ebf4a047dd5f8982628956954d816791ed7c0e51147",
+      "forme_lue": "Long interview avec Lieutt ; Godard au crayon ; tt jeune off., charmant",
+      "comparaison": "Lieutt porte des t suscrits. Godard est plus pâle et plus large que les lettres à la plume voisines. tt/off. montrent suspension/contraction et lettres hautes.",
+      "limites": "Le contraste de moyen d’écriture ne date pas précisément l’addition, et ne prouve pas que l’auteur ignorait le nom."
+    },
+    {
+      "scan_num": 166,
+      "filename": "20251126_111240.jpg",
+      "crop_filename": "166_tables.png",
+      "source_dimensions": [
+        2384,
+        3452
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        2934,
+        2384,
+        3452
+      ],
+      "source_sha256": "27d4f3849831dc2fd1c49a4c166162702efbbe58406ef5995c2667c5f7fb8425",
+      "crop_sha256": "4702c7b93d29fef69b9ab35f4734a4b1142f88de1f89b977db2850141aadf39b",
+      "forme_lue": "M’y trouve très bien. 2 Tables pour écrire",
+      "comparaison": "Le y de M’y est lié au M par une apostrophe puis descend sous la ligne ; il remplit une fonction pronominale. Comparer & devant Bureau dans 166_bureau. Le 2 précède la grande T de Tables.",
+      "limites": "Le y pronom doit rester distinct de la liaison & ; aucune substitution globale y→et. L’article et le sujet sont omis dans l’ellipse."
+    },
+    {
+      "scan_num": 181,
+      "filename": "20251126_111644.jpg",
+      "crop_filename": "181_annee.png",
+      "source_dimensions": [
+        2476,
+        3552
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        1066,
+        2476,
+        1918
+      ],
+      "source_sha256": "7052ccd98ba69d5bae1cb1627c82491f92abb1f116e10369ee461d534f1a237d",
+      "crop_sha256": "8f391f50be181292a5c100174f37a9250b14bffb2ffb694fc85208721dd0d318",
+      "forme_lue": "juillet 1915. Aujourd’hui, vides et déserts",
+      "comparaison": "Le 5 final possède attaque haute et bas incurvé, proche du 5 des centimes en 156 ; il se distingue du 6 bouclé de 68. Les points des i et accents peuvent être éloignés.",
+      "limites": "La graphie lue est 1915. Décider d’un éventuel lapsus exige un dossier chronologique indépendant."
+    },
+    {
+      "scan_num": 181,
+      "filename": "20251126_111644.jpg",
+      "crop_filename": "181_stuck.png",
+      "source_dimensions": [
+        2476,
+        3552
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        2415,
+        2476,
+        3232
+      ],
+      "source_sha256": "7052ccd98ba69d5bae1cb1627c82491f92abb1f116e10369ee461d534f1a237d",
+      "crop_sha256": "281f37e564fd8f9a833b55c3a92967e41161299bd026f837e5950e604b501606",
+      "forme_lue": "Au retour, stuck, à la sortie du village de Buire ; Ribemont ajouté",
+      "comparaison": "stuck garde une initiale s basse et des grandes hampes t/k ; Ribemont est ajouté sous la ligne après Buire. Comparer le code-switching de 151.",
+      "limites": "L’ajout doit être rattaché à sa position ; il ne faut pas remplacer le mot anglais par une description de la panne dans la transcription."
+    },
+    {
+      "scan_num": 186,
+      "filename": "20251126_111833.jpg",
+      "crop_filename": "186_lapin.png",
+      "source_dimensions": [
+        2336,
+        3392
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        882,
+        2336,
+        1425
+      ],
+      "source_sha256": "b79d33dca2209c6cbafcf6c415af3b3be6ba98ab68256f2e44f73092bf29621c",
+      "crop_sha256": "c4e4461a8284a40f049efb2e32da3b8f86392f2873c888912edfcae525de192a",
+      "forme_lue": "Route, auto chassé lapin sauvage ; ciel d’un bleu pur & intense",
+      "comparaison": "Le l initial de lapin a une hampe, le p descend, le i possède un point. Sauvage s’achève par un long trait de g/e. La phrase omet articles et auxiliaire.",
+      "limites": "Lecture du groupe, sans reconstruire la scène ni déduire un accident de l’ellipse."
+    },
+    {
+      "scan_num": 141,
+      "filename": "20251126_110406.jpg",
+      "crop_filename": "141_relecture_debut.png",
+      "source_dimensions": [
+        2416,
+        3464
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        69,
+        1328,
+        484
+      ],
+      "source_sha256": "91a93c9ee4653874d28109a2a0d06e7e62512505140346795b164f211381b785",
+      "crop_sha256": "89962f44a7cfc39f60e7736b913a899370a7399b553343a9c62a415ef5aac5cb",
+      "forme_lue": "[Monté ?] chambre hier soir vers 11 h¼",
+      "comparaison": "Chambre est suscrit ; comparaison avec les monté et les L de levé du carnet.",
+      "limites": "Groupe initial repassé. Aucun ds ma distinct n’est visible ; ne pas reconstruire les états antérieurs.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 143,
+      "filename": "20251126_110441.jpg",
+      "crop_filename": "143_relecture_chambre.png",
+      "source_dimensions": [
+        2516,
+        3624
+      ],
+      "bbox_pixels_natifs": [
+        50,
+        362,
+        2415,
+        724
+      ],
+      "source_sha256": "b5182b9f326e5f637318e71f416157ceeef31532cde6ed67bd2a2c303e21a1ce",
+      "crop_sha256": "33f5852cac38d2b3a2ac37d7b3d8744c069c98cab12fae1db10e84c6d951a34c",
+      "forme_lue": "rêver gd chambre",
+      "comparaison": "Petite finale de contraction après g ; agrandissement réfute le candidat sa.",
+      "limites": "Le développement grande dépend du contexte chambre ; garder gd dans le texte.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 150,
+      "filename": "20251126_110726.jpg",
+      "crop_filename": "150_relecture_nom.png",
+      "source_dimensions": [
+        2448,
+        3516
+      ],
+      "bbox_pixels_natifs": [
+        1395,
+        140,
+        2448,
+        439
+      ],
+      "source_sha256": "4ee9880e0596fbac15fce6ae5870458ef118b0485311b20f5be7de9b72c5150d",
+      "crop_sha256": "aca9e05fcd2b17da9a33cb7e684cc08aab9a366939319f3f6442f49188ea36ca",
+      "forme_lue": "Lieutt Croughton",
+      "comparaison": "Descendante du g et hampe suivante plus compatibles avec gh qu’avec mp.",
+      "limites": "Préférence de lecture, sans identité civile établie ; Crompton écarté.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 158,
+      "filename": "20251126_111008.jpg",
+      "crop_filename": "158_relecture_paysages.png",
+      "source_dimensions": [
+        2496,
+        3604
+      ],
+      "bbox_pixels_natifs": [
+        49,
+        576,
+        2496,
+        937
+      ],
+      "source_sha256": "625b840bad1444a967578fa5cf5804e9eb04903484c0aa3e96660e7f02d810bd",
+      "crop_sha256": "e8b098239500e76e166a92f05c2f1fcbd2224efcd39ee7c6ee9eec506c18ec1f",
+      "forme_lue": "brouillard et pluie rendent paysages banals",
+      "comparaison": "Attaque re, absence de descendante g ; contexte et formes du verbe rendent.",
+      "limites": "Le tracé est rapide mais ne soutient pas gâtent.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 159,
+      "filename": "20251126_111019.jpg",
+      "crop_filename": "159_relecture_heure.png",
+      "source_dimensions": [
+        2368,
+        3364
+      ],
+      "bbox_pixels_natifs": [
+        47,
+        2186,
+        2296,
+        2691
+      ],
+      "source_sha256": "b802f7fcd694bdc7da4509ca37d2c829e681d142923364450ffb1fc7b900e950",
+      "crop_sha256": "b279e708de144b531fc183a4ce09040618c0f62604c62da9a9fc8dae851ac4eb",
+      "forme_lue": "parti vers 9 h",
+      "comparaison": "Un chiffre bouclé avec descente, suivi du h suscrit ; deux hampes 1 absentes.",
+      "limites": "Conserver les heures 12/24 telles qu’écrites, sans conversion automatique.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 164,
+      "filename": "20251126_111137.jpg",
+      "crop_filename": "164_relecture_pensif.png",
+      "source_dimensions": [
+        2420,
+        3552
+      ],
+      "bbox_pixels_natifs": [
+        48,
+        2841,
+        2420,
+        3552
+      ],
+      "source_sha256": "79742f2786a7a270791d8d83fe1ebccba833d5b79fce64618b43cc8b115957f7",
+      "crop_sha256": "4413d60afcb1a5f3251c6deb42b484218b522ba54399bcccd8b4b72d600f256a",
+      "forme_lue": "tt pensif tristesse ; compte de mess",
+      "comparaison": "Pensif conserve une longue finale f ; contraste avec pénétré 165.",
+      "limites": "Montant du compte renvoyé à l’extrait rapproché ; ne pas déduire de prix plausibles.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 165,
+      "filename": "20251126_111151.jpg",
+      "crop_filename": "165_relecture_pensif.png",
+      "source_dimensions": [
+        2484,
+        3480
+      ],
+      "bbox_pixels_natifs": [
+        49,
+        1983,
+        2484,
+        2505
+      ],
+      "source_sha256": "b3872634fd576ad2023f370f4f74a6450a4a9da43359c4e061b7bcce2da1eb65",
+      "crop_sha256": "83a4ef171700cdbdef1fe71661f1965656871bfd8c3523bfd42c800b05323ada",
+      "forme_lue": "Matinée, tt pénétré mélancolie",
+      "comparaison": "Deux accents et groupe tr, puis e final ; contraste avec pensif 164.",
+      "limites": "Préposition absente : ne pas suppléer de devant mélancolie.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 166,
+      "filename": "20251126_111240.jpg",
+      "crop_filename": "166_relecture_eclat.png",
+      "source_dimensions": [
+        2384,
+        3452
+      ],
+      "bbox_pixels_natifs": [
+        47,
+        345,
+        2336,
+        690
+      ],
+      "source_sha256": "27d4f3849831dc2fd1c49a4c166162702efbbe58406ef5995c2667c5f7fb8425",
+      "crop_sha256": "9911a761df5b5598a48f46046dc2f8aa3321a9222d07e2a8f08623b0e2e0568a",
+      "forme_lue": "Soleil pâle. Éclat clair",
+      "comparaison": "Hampe l, a et barre t après le groupe initial ; compare les autres éclat du carnet.",
+      "limites": "Ponctuation fine entre les notations moins assurée ; séparation éditoriale.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 177,
+      "filename": "20251126_111537.jpg",
+      "crop_filename": "177_relecture_tot.png",
+      "source_dimensions": [
+        2336,
+        3348
+      ],
+      "bbox_pixels_natifs": [
+        23,
+        66,
+        1401,
+        401
+      ],
+      "source_sha256": "24aeb734f91f7e10fc1cef78bcdcfb65fb4c60ef1825c5e2f18f31bffa783d85",
+      "crop_sha256": "29a116dc28eeea6adecd5b8f5595993503c9ef4a81d25f4fc22b64e54a7c5bd6",
+      "forme_lue": "Levé tôt. Après breakfast",
+      "comparaison": "L bouclé et petit groupe e/v, finale é ; parallèles 005/012 contrôlés par le collègue.",
+      "limites": "La barre supérieure de la date ne fait pas partie du mot. Lecture Très abandonnée après contrôle croisé.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 182,
+      "filename": "20251126_111702.jpg",
+      "crop_filename": "182_relecture_carte.png",
+      "source_dimensions": [
+        2428,
+        3524
+      ],
+      "bbox_pixels_natifs": [
+        24,
+        1021,
+        2379,
+        1726
+      ],
+      "source_sha256": "5328280c239b622b0075ed11b486af12863e38372ba2e88e519c2ebb029fe9de",
+      "crop_sha256": "b680289ff5518f53d23d6a19cf32d2f4d219e188f0d453ba1f0b7492c7f912e1",
+      "forme_lue": "et gde carte, [avec ?] vue cathle",
+      "comparaison": "Comparaison avec pour dans la même page ; aucune meilleure liaison démontrée.",
+      "limites": "Groupe très compact ; la préférence avec reste explicitement réservée.",
+      "phase": "relecture_integrale"
+    },
+    {
+      "scan_num": 164,
+      "filename": "20251126_111137.jpg",
+      "crop_filename": "164_relecture_montant.png",
+      "source_dimensions": [
+        2420,
+        3552
+      ],
+      "bbox_pixels_natifs": [
+        726,
+        3161,
+        1645,
+        3463
+      ],
+      "source_sha256": "79742f2786a7a270791d8d83fe1ebccba833d5b79fce64618b43cc8b115957f7",
+      "crop_sha256": "153774013ec8cd576a04c037d4e285491ecb9aa83ca2dd69c4a8bbfaccb8c524",
+      "phase": "relecture_integrale",
+      "forme_lue": "[18 f ?]",
+      "comparaison": "Deux mouvements/lobes du second chiffre comparés aux 8 de 78 f 75 en 148 et 68 f 25 en 156.",
+      "limites": "Contact avec le trait de la ligne supérieure ; montant réservé, pas de calcul économique à l’appui."
+    },
+    {
+      "scan_num": 158,
+      "filename": "20251126_111008.jpg",
+      "crop_filename": "158_relecture_paire.png",
+      "source_dimensions": [
+        2496,
+        3604
+      ],
+      "bbox_pixels_natifs": [
+        24,
+        1513,
+        2471,
+        1874
+      ],
+      "source_sha256": "625b840bad1444a967578fa5cf5804e9eb04903484c0aa3e96660e7f02d810bd",
+      "crop_sha256": "c8f0f86bc42e66d2bc61c759d3f6a65c61463eae42c8223c904212f035b5302e",
+      "phase": "relecture_integrale",
+      "forme_lue": "de semelles liège :0 f 80",
+      "comparaison": "La zone gauche est vide ; aucune suite 1 pr distincte devant de.",
+      "limites": "On ne peut déduire une quantité de l’usage courant de semelles par paire."
+    },
+    {
+      "scan_num": 147,
+      "filename": "20251126_110628.jpg",
+      "crop_filename": "147_relecture_quitte.png",
+      "source_dimensions": [
+        2364,
+        3400
+      ],
+      "bbox_pixels_natifs": [
+        47,
+        374,
+        2340,
+        714
+      ],
+      "source_sha256": "8ed06f7598a0b65bf0e8be763ecb76a2bd95b75ec9f67ddc25c1ac7742737453",
+      "crop_sha256": "eceeda5566e8ee09618658d227b65f68882e0aba65dd28874bf8e10aec04e7ae",
+      "phase": "relecture_integrale",
+      "forme_lue": "Cap. Williams, quitté Acheux",
+      "comparaison": "Séparation après le nom et attaque q de quitté ; pas d’auxiliaire a distinct.",
+      "limites": "Ne pas corriger l’ellipse grammaticale de l’auteur."
+    },
+    {
+      "scan_num": 158,
+      "filename": "20251126_111008.jpg",
+      "crop_filename": "158_relecture_comptes.png",
+      "source_dimensions": [
+        2496,
+        3604
+      ],
+      "bbox_pixels_natifs": [
+        0,
+        1153,
+        2496,
+        1946
+      ],
+      "source_sha256": "625b840bad1444a967578fa5cf5804e9eb04903484c0aa3e96660e7f02d810bd",
+      "crop_sha256": "89a59fca213a59d625307a23da2ba1cefd73e2ea508365b35ecc7616c044c6a4",
+      "phase": "relecture_integrale",
+      "forme_lue": "2œufs & café :1 f ; de semelles liège :0 f 80",
+      "comparaison": "Toute la zone comptable, incluant la ligne précédente et la marge gauche.",
+      "limites": "Confirme le retrait du supplément 1 pr, sans affirmer une lacune du papier."
+    },
+    {
+      "scan_num": 171,
+      "filename": "20251126_111410.jpg",
+      "crop_filename": "171_relecture_nom.png",
+      "source_dimensions": [
+        2356,
+        3356
+      ],
+      "bbox_pixels_natifs": [
+        1460,
+        1409,
+        2356,
+        1711
+      ],
+      "source_sha256": "b3be681ccb1b0d21f1d3cce127b3f74f19f58991e230d6903d861ef0b2d0c396",
+      "crop_sha256": "9543e23ef3e8f01cc8d4b893f0ae70a3c86d717b7152c99c796890412815e0f8",
+      "phase": "relecture_integrale",
+      "forme_lue": "M. Houtteman[?]",
+      "comparaison": "Deux hampes hautes barrées et finale-eman/-man ; parallèle plus distinct 108.",
+      "limites": "Nom réservé, sans identification d’état civil ; ancien Houthouan moins compatible avec tt."
+    }
+  ]
+}

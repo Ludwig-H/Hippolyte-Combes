@@ -1,0 +1,2460 @@
+{
+  "base": "/tmp/hc_reprise/base_courante.json",
+  "method": "Collation visuelle indépendante, photographies haute qualité; aucune sortie OCR ou Gemini utilisée comme preuve. Les images réduites et les agrandissements sont dérivés des JPEG sources sans interpolation générative.",
+  "patches": [
+    {
+      "scan_num": 63,
+      "filename": "20251126_103538.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~3--20 gare d'Orsay... Egl St-Vincent-de-Paul... Mag du Louvre... gare du Nord :} Arrivé à 8 h du matin en gare d'Orsay et après avoir déposé ses bagages à la consigne de la gare du Nord, Hippolyte redescend à pied la rue La Fayette, admire les fresques d'Hippolyte Flandrin et la double colonnade ionique en stuc marron de l'église Saint-Vincent-de-Paul, puis rédige deux lettres au salon de correspondance des Grands Magasins du Louvre."
+      },
+      "changes": {
+        "historique": "\\textbf{Parcours noté :} Arrivée en gare d’Orsay à 8 h; marche sous la pluie jusqu’au métro, consigne à la gare du Nord, rue La Fayette, église Saint-Vincent-de-Paul et salon de correspondance des magasins du Louvre. Le diariste mentionne deux lettres et un retour au Nord par le métro. L’identité des peintures et la matière architecturale ne sont pas établies par ce passage."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103538.jpg",
+          "detail": "Les lieux et les lettres sont attestés; les identifications artistiques sont étrangères au texte et ne sont pas sourcées dans cette note."
+        }
+      ]
+    },
+    {
+      "scan_num": 64,
+      "filename": "20251126_103554.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~3--13 Train, démarré vers 8 H s... 2 images de Ste Thérèse — : 40 c... Etrenne à Maria, bonne des Crouzet : 5 f :} Tandis que le train de 20 h l'emporte vers Paris à travers une nuit d'insomnie, Hippolyte dresse le bilan de ses dernières dépenses toulousaines : deux petites images pieuses de sainte Thérèse de Lisieux (partagées comme gage de protection avec Marguerite), des fleurs (1,70 fr.), son billet militaire pour Orsay (11,75 fr.) et 5 francs d'étrennes à Maria, domestique de la famille Crouzet."
+      },
+      "changes": {
+        "historique": "\\textbf{Retour de permission :} Le train part vers 20 h; Combes note une nuit presque sans sommeil et récapitule ses dépenses: images de sainte Thérèse, fleurs pour Mte, transports, billet pour Orsay (11 f 75), bain et étrenne à Maria, bonne des Crouzet. L’identification de la sainte à Thérèse de Lisieux et une fonction de protection ne résultent pas de cette page."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103554.jpg",
+          "detail": "La page mentionne des images de sainte Thérèse, sans préciser leur destinataire ni une fonction protectrice. Le billet est à 11 f 75."
+        }
+      ]
+    },
+    {
+      "scan_num": 65,
+      "filename": "20251126_103743.jpg",
+      "originals": {
+        "lines": [
+          "Parti train 1 H 15 s (espéré il y a 1 à 10 H 45 matin)",
+          "A Amiens, à 6 H s —",
+          "Départ à 6 H 30 s",
+          "A Doullens, vers minuit",
+          "Dû coucher gare —",
+          "Paris Métro : 1 f / 15 c",
+          "Food... : 2f, 2f, 50c., Drink : 10 c.",
+          "Consigne : 10 c"
+        ],
+        "critique": "\\textbf{l.~6 Paris Métro : 1 f / 15 c :} Récapitulation des frais de transport parisiens. \\textbf{l.~7 Food... : 2f, 2f, 50c., Drink : 10 c. :} Retour immédiat aux rubriques comptables anglaises dès le franchissement de la zone des armées britanniques.",
+        "historique": "\\textbf{l.~1--5 Parti train 1 H 15 s... A Amiens, à 6 H s — Départ à 6 H 30 s / A Doullens, vers minuit :} Parti de la gare du Nord par le train de 13 h 15 (après avoir espéré un départ matinal à 10 h 45), Hippolyte atteint Amiens à 18 h, repart à 18 h 30 et débarque vers minuit en gare de Doullens où il doit passer le reste de la nuit."
+      },
+      "changes": {
+        "lines": [
+          "Parti train 1 H 15 s (espéré il y a 1 à 10 H 45 matin)",
+          "A Amiens, à 6 H s —",
+          "Départ à 6 H 30 s",
+          "A Doullens, vers minuit",
+          "Dû coucher gare —",
+          "[Paris biffé] Métro : 15 c, 15 c",
+          "Food... : 25 c, 25 c, 50 c., Drink : 10 c.",
+          "Consigne : 10 c"
+        ],
+        "critique": "\\textbf{l.~6 Paris :} Mot biffé avant la rubrique « Métro ». \\textbf{l.~7 Food / Drink :} Rubriques comptables en anglais, sans que leur emploi établisse à lui seul une limite géographique.",
+        "historique": "\\textbf{Itinéraire :} Train de 13 h 15, Amiens vers 18 h, départ à 18 h 30, Doullens vers minuit; le diariste doit coucher à la gare. La parenthèse revient sur un train espéré le matin."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103743.jpg",
+          "detail": "« Paris » est barré devant Métro. Les mentions comptables en anglais ne datent pas à elles seules un franchissement de zone. Agrandissement de la dépense: deux 15 c à Métro et deux 25 c à Food, puis 50 c; variantes récentes du module confirmées."
+        }
+      ]
+    },
+    {
+      "scan_num": 70,
+      "filename": "20251126_103857.jpg",
+      "originals": {
+        "lines": [
+          "Lundi 9 \\hfill Oct – / 16",
+          "Tout le jour, ciel assombri gros nuages",
+          "couleur de plomb",
+          "Après-midi, pénétré forêt qui s'étend à 1",
+          "faible distance de la route et parallelt –",
+          "Sentiers encore boueux et jonchés de feuilles rouillées.",
+          "Feuillages épais & verts. Ds les taillis, enchevêtrt",
+          "d'arbustes & de lianes. Des troncs énormes",
+          "s'élèvent très haut, arbres plusis fois",
+          "séculaires. Resté lgt ds cet océan de",
+          "verdure. Ecouté, ravi, le bruissement",
+          "du vent à travers les branches",
+          "feuillues",
+          "Le soir, en revenant du mess,",
+          "admiré ciel maint éclairé par lune pleine.",
+          "qq étoiles, çà et là. Campagne curieuse",
+          "à regarder les moindres details, bien",
+          "détachés –",
+          "Me plais infinimt ds ma gde et",
+          "belle chambre, 1 vrai salon."
+        ]
+      },
+      "changes": {
+        "lines": [
+          "Lundi 9 \\hfill Oct – / 16",
+          "Tout le jour, ciel assombri gros nuages",
+          "couleur de plomb",
+          "Après-midi, pénétré forêt qui s'étend à 1",
+          "faible distance de la route et parallelt –",
+          "Sentiers encore boueux et jonchés de feuilles rouillées.",
+          "Feuillages épais & verts. Ds les taillis, enchevêtrt",
+          "d'arbustes & de lianes. Des troncs énormes",
+          "s'élèvent très haut, arbres plusis fois",
+          "séculaires. Resté lgt ds cet océan de",
+          "verdure. Ecouté, ravi, le bruissement",
+          "du vent à travers les branches",
+          "feuillues",
+          "Le soir, en revenant du mess,",
+          "admiré ciel [mot incertain] éclairé par lune pleine.",
+          "qq étoiles, çà et là. Campagne curieuse",
+          "à regarder les moindres details, bien",
+          "détachés –",
+          "Me plais infinimt ds ma gde et",
+          "belle chambre, 1 vrai salon."
+        ]
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103857.jpg",
+          "detail": "Entre ciel et éclairé, groupe contracté impossible à résoudre avec certitude; conservé signalé. « Des troncs énormes » est visible et maintenu."
+        }
+      ]
+    },
+    {
+      "scan_num": 72,
+      "filename": "20251126_103948.jpg",
+      "originals": {
+        "lines": [
+          "Mer. 11 \\hfill Oct / 16",
+          "Matinée employée cme",
+          "matinée précédente. Sous pluie battante,",
+          "dû conduire wagons ds 1 champ de luzerne",
+          "derrière le grand bois de Ribeaucourt",
+          "Rentré billet, casque & cape tt ruisselants",
+          "Après-midi, liberté entière –",
+          "Tt le jour, ciel nuageux et temps",
+          "pluvieux. – –"
+        ],
+        "critique": "\\textbf{l.~2--4 Matinée employée cme matinée précédente. Sous pluie battante, dû conduire wagons ds 1 champ de luzerne :} Abréviation \\textit{cme} (\\textit{comme}) et corvée de fourrage sous l'averse. \\textbf{l.~6 Rentré billet, casque \\& cape tt ruisselants :} Omission de la préposition devant l'anglicisme \\textit{billet}."
+      },
+      "changes": {
+        "lines": [
+          "Mer. 11 \\hfill Oct / 16",
+          "Matinée employée de =",
+          "manière qu'hier. Sous pluie battante,",
+          "dû conduire wagons ds 1 champ de luzerne",
+          "derrière le grand bois de Ribeaucourt",
+          "Rentré billet, casque & cape tt ruisselants",
+          "Après-midi, liberté entière –",
+          "Tt le jour, ciel nuageux et temps",
+          "pluvieux. – –"
+        ],
+        "critique": "\\textbf{l.~2 de = :} Signe égal employé pour « même »: « Matinée employée de même manière qu’hier ». \\textbf{l.~6 billet :} Logement de cantonnement; casque et cape sont notés ruisselants."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103948.jpg",
+          "detail": "La photographie lit « Matinée employée de = / manière qu’hier ». La variante du module récent est confirmée visuellement contre l’export ancien."
+        }
+      ]
+    },
+    {
+      "scan_num": 76,
+      "filename": "20251126_104118.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~5--12 Couché sous tente... Routes tjrs encombrées :} À mesure que l'unité approche de la zone des combats d'Albert, les maisons civiles intactes font défaut et les officiers eux-mêmes doivent bivouaquer sous la tente conique réglementaire britannique (\\textit{bell tent}) au milieu du vacarme métallique incessant des parcs d'artillerie et de ravitaillement."
+      },
+      "changes": {
+        "historique": "\\textbf{Bivouac :} Combes dort sous tente à côté de deux officiers, note le froid et les « sensations nouvelles » du bivouac. Le matin suivant montre l’animation du camp et des routes encombrées. La forme de la tente et la raison exacte de l’absence de logement ne sont pas précisées."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104118.jpg",
+          "detail": "Sensations nouvelles et bivouac sont visibles; la note antérieure inventait le vacarme métallique et le modèle précis de tente."
+        }
+      ]
+    },
+    {
+      "scan_num": 77,
+      "filename": "20251126_104143.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~1--8 entre Bouzincourt \\& Hédauville / Couché ds mess-tent :} Le triangle Hédauville–Senlis-le-Sec–Bouzincourt, à 4 km au nord-ouest d'Albert, servait de zone de concentration pour les troupes engagées sur la crête de Thiepval et l'Ancre. Privé de cantonnement, l'interprète dort tout habillé sur une chaise longue en toile (\\textit{deck-chair}) sous la tente-mess."
+      },
+      "changes": {
+        "historique": "\\textbf{Campement :} Après Senlis, installation dans un champ entre Bouzincourt et Hédauville. Le diariste aménage un abri ouvert pour ses sacs et couche dans la mess-tent, allongé sur un fauteuil-toile. Il note la pluie à verse et le froid."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104143.jpg",
+          "detail": "Les vêtements et le type anglais deck-chair ne sont pas indiqués par le témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 80,
+      "filename": "20251126_104235.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~11--19 brickfield area / très forte canonnade :} Le \\textit{Brickfields Camp} d'Albert était l'un des principaux terrains de bivouac du Train et de l'artillerie britanniques, à moins de 5 km des batteries lourdes tirant sans relâche sur la redoute Schwaben, la tranchée Regina (\\textit{Regina Trench}) et Grandcourt."
+      },
+      "changes": {
+        "historique": "\\textbf{Installation :} Après une matinée d’averses, l’unité gagne vers 13 h le « brickfield area ». Combes obtient une chambre à quelques centaines de mètres du camp et entend toute la nuit une très forte canonnade. Les positions et les objectifs des pièces ne sont pas identifiables à partir de cette seule note."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104235.jpg",
+          "detail": "La page ne donne ni les objectifs des batteries ni la distance aux positions de tir."
+        }
+      ]
+    },
+    {
+      "scan_num": 81,
+      "filename": "20251126_104314.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~10--11 mess-room ds 1 petite cahute faite avec des caisses vides de munitions :} Description précise de l'architecture de fortune du front britannique (abris construits en caisses à biscuits et caisses d'obus recouvertes de tôle ondulée ou de toile goudronnée)."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~10--11 mess-room :} Local des repas installé dans une cahute faite de caisses vides de munitions. La page ne décrit pas sa couverture ni d’autres matériaux."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104314.jpg",
+          "detail": "La cahute est faite de caisses de munitions; biscuits, tôle et toile ne sont pas dans le témoignage."
+        }
+      ]
+    },
+    {
+      "scan_num": 83,
+      "filename": "20251126_104346.jpg",
+      "originals": {
+        "lines": [
+          "Dimanche 22. \\hfill Oct /16",
+          "Encore cette nuit, gelé très dur.",
+          "Canonnade, pas cessé un instant.",
+          "1/2 jour, très beau soleil. Journée superbe.",
+          "Après lunch, promené ville : resté lgts arrêté",
+          "devant église, murs de briques rouges, façade",
+          "si artistique, et haute tour, atteinte par",
+          "obus bombardement 1914. Vierge, horizle,",
+          "penche Jésus bras ouverts au-dessus place.",
+          "Rencontré qq interprètes. Schumacher m'a",
+          "appris que les 2/3 des interprètes, jeunes R.A.T.",
+          "seront renvoyés régiments frs...",
+          "Canons se sont tus fin jour.",
+          "Au retour du mess, vers 9h s., lost my way",
+          "sur le plateau, à cause nuit très noire.",
+          "Dû errer passim avant revenir Albert",
+          "et retrouver mon billet.",
+          "Ce soir, exceptt, calme absolu."
+        ],
+        "historique": "\\textbf{l.~10--12 les 2/3 des interprètes, jeunes R.A.T. seront renvoyés régiments frs :} En raison de la crise des effectifs de l'armée française après Verdun et la Somme (loi Dalbiez et circulaires de l'automne 1916), l'état-major français procéda au peignage des missions de liaison pour reverser dans les corps de troupe les interprètes appartenant aux plus jeunes classes de la Réserve de l'Armée Territoriale (R.A.T.)."
+      },
+      "changes": {
+        "lines": [
+          "Dimanche 22. \\hfill Oct /16",
+          "Encore cette nuit, gelé très dur.",
+          "Canonnade, pas cessé un instant.",
+          "1/2 jour, très beau soleil. Journée superbe.",
+          "Après lunch, promené ville : resté lgts arrêté",
+          "devant église, murs de briques rouges, façade",
+          "si artistique, et haute tour, atteinte par",
+          "obus bombardement 1914 [?]. Vierge, horizle,",
+          "penche Jésus bras ouverts au-dessus place.",
+          "Rencontré qq interprètes. Schumacher m'a",
+          "appris que les 2/3 des interprètes, jeunes R.A.T.",
+          "seront renvoyés régiments frs...",
+          "Canons se sont tus fin jour.",
+          "Au retour du mess, vers 9h s., lost my way",
+          "sur le plateau, à cause nuit très noire.",
+          "Dû errer passim avant revenir Albert",
+          "et retrouver mon billet.",
+          "Ce soir, exceptt, calme absolu."
+        ],
+        "historique": "\\textbf{Information rapportée :} Schumacher annonce le renvoi de jeunes interprètes R.A.T. dans les régiments français. La page ne reproduit aucun ordre ni circulaire; le lien avec une mesure réglementaire précise reste à documenter. La datation du bombardement de la basilique est celle portée par le diariste."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104346.jpg",
+          "detail": "Le chiffre du millésime est contracté. Les annonces des interprètes sont un propos rapporté et ne prouvent pas l’application d’une mesure déterminée."
+        }
+      ]
+    },
+    {
+      "scan_num": 84,
+      "filename": "20251126_104400.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~6--12 La Boisselle / Énorme cratère s/ la droite :} Situé à 3 km à l'est d'Albert sur la route de Bapaume, le village de La Boisselle avait été pulvérisé le 1\\textsuperscript{er} juillet 1916 à 7 h 28 par l'explosion de la gigantesque mine britannique de \\textit{Lochnagar} (27 tonnes d'ammonal, formant un cratère de 91 mètres de diamètre et 21 mètres de profondeur, situé effectivement à droite de la route en venant d'Albert)."
+      },
+      "changes": {
+        "historique": "\\textbf{La Boisselle :} Combes visite des abris allemands souterrains et signale un énorme cratère sur la droite. Une identification avec Lochnagar est plausible, mais demande une carte du parcours ou une source extérieure; les dimensions et le déroulement de l’explosion ne sont pas attestés par cette page."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104400.jpg",
+          "detail": "La photographie conserve « Énorme cratère s/ la droite ». Le nom Lochnagar n’est pas donné par le scripteur."
+        }
+      ]
+    },
+    {
+      "scan_num": 85,
+      "filename": "20251126_104418.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~5 j'à :} Abréviation constante dans le manuscrit pour la préposition \\textit{jusqu'à}. \\textbf{l.~8--10 adjudant Liepin \\& Lt Pizzi m'ont appris que ne quitterai pas mission :} Soulagement après l'alerte du 22 octobre (Scan \\#083) : appartenant à la classe 1896 (40 ans révolus), Hippolyte Combes est maintenu dans ses fonctions d'interprète auprès de l'armée britannique.",
+        "historique": "\\textbf{l.~9 Lt Pizzi :} Le lieutenant interprète Pizzi dirigeait le détachement de la Mission militaire française auprès de la 18\\textsuperscript{e} Division britannique (Hippolyte Combes le mentionne déjà dans sa lettre du 25 février 1916 conservée en Annexe I)."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~8--10 :} L’adjudant et le lieutenant Pizzi annoncent à Combes qu’il ne quittera pas la mission. Ce renseignement répond à l’annonce rapportée le 22 octobre (scan 083), sans exposer les critères du maintien.",
+        "historique": "\\textbf{Pizzi :} Lieutenant cité au bureau de la Mission française. Le carnet atteste ici une information sur le maintien de Combes; le commandement exact du détachement et son périmètre exigent une source administrative distincte."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104418.jpg",
+          "detail": "L’annonce du maintien à la mission est sûre; ses causes administratives ne sont pas précisées. La date de la lettre citée dans l’ancienne note était erronée."
+        }
+      ]
+    },
+    {
+      "scan_num": 87,
+      "filename": "20251126_104459.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~14 Cartes ples église d'Albert : 50 c :} Les cartes postales représentant la basilique d'Albert avant et après les bombardements étaient abondamment vendues aux soldats alliés et envoyées par Hippolyte Combes à sa fiancée et à sa famille."
+      },
+      "changes": {
+        "historique": "\\textbf{Rencontre et dépenses :} Le fils aîné de M. Duchâteau, sous-officier de l’artillerie belge en permission, raconte des combats. Combes achète des cartes de l’église d’Albert et prend deux cafés à Acheux; les destinataires des cartes ne sont pas indiqués."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104459.jpg",
+          "detail": "L’achat de cartes est attesté, leurs destinataires ne le sont pas ici."
+        }
+      ]
+    },
+    {
+      "scan_num": 88,
+      "filename": "20251126_104515.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~1--6 31 Ma. Oct. /16 :} Entrée exceptionnellement brève (six lignes seulement en haut du feuillet, suivies d'un large blanc sur les deux tiers inférieurs de la page) afin de clore matériellement le mois d'octobre avant d'ouvrir le mois de novembre en haut de la page suivante.",
+        "historique": "\\textbf{l.~6 Durant jour entier, ville bombardée :} Profondément engagée dans les opérations de l'Ancre, l'artillerie lourde allemande profite du retour de la visibilité le 31 octobre pour soumettre les carrefours et les abords de la gare d'Albert à des tirs de harcèlement systématiques."
+      },
+      "changes": {
+        "critique": "\\textbf{Disposition :} Six lignes en haut de la page, puis un large blanc. Cette disposition clôt le mois d’octobre dans la série photographiée; son intention n’est pas explicitée.",
+        "historique": "\\textbf{Bombardement :} « Durant jour entier, ville bombardée »: constat du diariste, sans désignation des cibles ni identification des batteries."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104515.jpg",
+          "detail": "La page ne donne ni les pièces, ni les cibles, ni la cause du bombardement."
+        }
+      ]
+    },
+    {
+      "scan_num": 89,
+      "filename": "20251126_104547.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~22--24 Lt Curtis... partir avec lui à Acheux. Ns sommes détachés de la Coy Transport :} Tournant majeur dans l'affectation d'Hippolyte Combes : le 1\\textsuperscript{er} novembre 1916 au soir, il est détaché du camp de la 152\\textsuperscript{e} Compagnie A.S.C. d'Albert pour accompagner le lieutenant Curtis à Acheux-en-Amiénois, au service des réquisitions et achats du XIII\\textsuperscript{e} Corps britannique."
+      },
+      "changes": {
+        "historique": "\\textbf{Ordre annoncé :} Le soir de la Toussaint, le lieutenant Curtis demande à Combes de partir avec lui le lendemain pour Acheux. Combes écrit qu’ils sont détachés de la « Coy Transport ». La structure administrative du nouveau service demande une pièce complémentaire."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104547.jpg",
+          "detail": "Acheux et le détachement sont sûrs; le rattachement au XIIIe Corps n’est pas établi par ce passage."
+        }
+      ]
+    },
+    {
+      "scan_num": 90,
+      "filename": "20251126_104601.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~4--12 eu l'idée de passer bureau mission... demander ordre écrit :} Prudence juridique typique de l'ancien avocat et cheminot : pour éviter d'être considéré en absence irrégulière vis-à-vis de la Mission française ou du Train divisionnaire, Hippolyte exige un ordre de détachement dûment signé par le commandant du Train (le colonel Grose).",
+        "historique": "\\textbf{l.~10--12 Major Hughes / Col. Grose :} Le lieutenant-colonel D. C. E. Grose commandait le Train divisionnaire (\\textit{18th Divisional Train A.S.C.}), assisté du major Hughes. \\textbf{l.~17 Acheux :} Acheux-en-Amiénois (à 12 km au nord-ouest d'Albert) devient à compter de ce 2 novembre 1916 le port d'attache d'Hippolyte Combes jusqu'au 7 février 1917.",
+        "title": "FOLIO 45 RECTO (Ordre de mission du colonel Grose et départ sous la pluie vers Acheux)"
+      },
+      "changes": {
+        "critique": "\\textbf{Ordre écrit :} Après avis des membres de la mission et visite à Pizzi, Combes obtient au Train Office la signature de l’ordre d’accompagner Curtis. Le carnet ne formule pas de crainte d’absence irrégulière.",
+        "historique": "\\textbf{Installation à Acheux :} Voyage en voiture sous la pluie; arrivée vers 11 h, rencontre du Town Major et recherche de logement et de mess. Hughes et Grose sont cités au Train Office; leurs fonctions exactes sont à vérifier dans les sources militaires.",
+        "title": "Ordre écrit au Train Office et départ sous la pluie vers Acheux"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104601.jpg",
+          "detail": "Le conseil de demander un ordre écrit est explicite, mais les motifs juridiques et psychologiques sont conjecturaux."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_104601.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 91,
+      "filename": "20251126_104623.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~2 Vu Major Levy, of the D.O.S.T. :} Le major Levy (officier supérieur du \\textit{District Officer of Supplies and Transport} / \\textit{Purchase Board} résidant à Raincheval), dont la voiture Sunbeam transportera régulièrement Hippolyte (voir Scan \\#116). \\textbf{l.~16--17 58 f 75 (30 f retenus pour 6 jours de permission) :} Détail administratif éclairant : l'indemnité journalière de vivres (5 fr. par jour) était retenue sur la solde pendant les journées de permission passées à l'intérieur."
+      },
+      "changes": {
+        "critique": "\\textbf{Doublon photographique :} Cette page est aussi photographiée au scan 093; les deux images doivent porter la même transcription. \\textbf{D.O.S.T. :} Sigle dont le développement n’est pas établi ici. \\textbf{58 f 75 :} Somme accompagnée de « 30 f retenus pour / 6 jours de permission »; ne pas généraliser ce calcul à un règlement de solde non cité."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104623.jpg",
+          "detail": "Le sigle D.O.S.T. est attesté sans expansion. La retenue est de 30 f pour six jours; le statut général de l’indemnité n’est pas donné."
+        }
+      ]
+    },
+    {
+      "scan_num": 92,
+      "filename": "20251126_104636.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~10--12 retrouvé interprète Cordonnier, R.F.A., que connu à Béthune :} Rappel précieux de la toute première affectation d'Hippolyte Combes sur le front britannique en mai–juillet 1915 auprès de la 12\\textsuperscript{e} Division dans le secteur de Béthune (confirmée par sa lettre du 25 février 1916, Annexe I).",
+        "historique": "\\textbf{l.~8--10 Divon Headquarters... 2e division :} La 2\\textsuperscript{e} Division britannique (\\textit{2nd Division}, V\\textsuperscript{e} Corps) avait alors son quartier général sous tentes et baraques entre Bertrancourt et Bus-lès-Artois, en préparation de l'attaque du 13 novembre contre Beaumont-Hamel et la redoute de Munich."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~10--12 :} Combes reconnaît l’interprète Cordonnier, « R.F.A. », connu à Béthune. Cette mention ne suffit pas à dater une première affectation ni à la rattacher à la 12e Division.",
+        "historique": "\\textbf{Déplacements :} Recherche de Jamet au sujet du pétrole à Bertrancourt, visite aux Headquarters près de la route de Bus et au bureau de mission de la 2e division, puis retour à Albert auprès de la 152 Coy et de Pizzi. Le texte atteste ces lieux, sans donner de plan d’opérations."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104636.jpg",
+          "detail": "Cordonnier, R.F.A., et Béthune sont lisibles. L’ancienne note transformait cette réminiscence en une première affectation datée et citait une lettre à une date erronée."
+        }
+      ]
+    },
+    {
+      "scan_num": 93,
+      "filename": "20251126_104647.jpg",
+      "originals": {
+        "critique": "\\textbf{Note codicologique importante :} Lors de la campagne de numérisation du manuscrit le 26 novembre 2025, le présent cliché \\texttt{20251126\\_104647.jpg} (Scan \\#093) a photographié une seconde fois — vingt-quatre secondes après le cliché \\texttt{20251126\\_104623.jpg} (Scan \\#091) et après un passage intermédiaire sur le recto suivant (Scan \\#092, 4 novembre) — la page verso contenant la fin du 2 novembre et la journée du 3 novembre 1916. Conformément au principe de fidélité diplomatique stricte au fac-similé en regard, nous reproduisons ici le texte exact de la page photographiée.",
+        "historique": "\\textbf{l.~1--17 Continuité des folios :} Ce second tirage photographique plus contrasté permet de vérifier avec une parfaite netteté la lecture du relevé financier au bas de la page : « Mission, Albert : 58 f 75 (30 f retenus pour 6 jours de permission) »."
+      },
+      "changes": {
+        "critique": "\\textbf{Doublon photographique :} Les scans 091 et 093 reproduisent la même page physique (mêmes lignes, traits et relevé de dépenses). Le scan 092 a été photographié entre les deux. La transcription est identique; aucun nouveau folio n’est établi par ce second cliché.",
+        "historique": "\\textbf{Relevé financier :} « Mission, Albert : 58 f 75 (30 f retenus pour / 6 jours de permission) ». Ce second cliché aide la lecture mais n’ajoute pas un événement à la chronologie."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104647.jpg",
+          "detail": "Confrontation des deux clichés: mêmes ratures, disposition et somme; aucune nouvelle journée. Le recto/verso physique ne se déduit pas du numéro de cliché."
+        }
+      ]
+    },
+    {
+      "scan_num": 94,
+      "filename": "20251126_104702.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~4--12 Délogé de mon billet (59)... trouvé bientôt 1 autre chambre — et préférable, no 1, route de Léalvillers :} Moment fondateur du séjour à Acheux : Hippolyte Combes emménage au n\\textsuperscript{o}~1 de la route de Léalvillers, chez M. et Mme Carluvant (tailleur d'habits, voir Scan \\#102), qui le traiteront comme un membre de leur famille jusqu'en février 1917.",
+        "historique": "\\textbf{l.~14--16 Cap. Huguet, du XIIIe corps :} Le capitaine Huguet dirigeait la Mission militaire française auprès du XIII\\textsuperscript{e} Corps britannique (commandé par le lieutenant-général Walter Congreve), dont le quartier général était établi à Acheux."
+      },
+      "changes": {
+        "critique": "\\textbf{Logement :} Le billet 59 est remplacé par une chambre no 1, route de Léalvillers. Le propriétaire est qualifié de sympathique, sans être nommé dans ce passage.",
+        "historique": "\\textbf{Mission :} Le capitaine Huguet est présenté comme étant du XIIIe corps et demande des renseignements à Combes. La page mentionne le bureau de mission du corps; elle ne précise pas la fonction administrative exacte du capitaine."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104702.jpg",
+          "detail": "Le numéro et la route sont visibles; le traitement familial futur et la fonction exacte de Huguet ne sont pas démontrés ici."
+        }
+      ]
+    },
+    {
+      "scan_num": 95,
+      "filename": "20251126_104714.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~3--4 Arquèves, ferme de Belle-Église :} Première mention dans le carnet de la grande ferme isolée de Belle-Église (commune d'Arquèves, exploitée par la famille belge Houthouan), qui deviendra l'un des principaux centres de battage de paille du secteur (voir Scans \\#106, \\#108, \\#171)."
+      },
+      "changes": {
+        "historique": "\\textbf{Service et regret :} Déplacements à Arquèves, ferme de Belle-Église, puis à Coisy pour des achats de paille et de foin. Combes regrette explicitement la 152 Coy et cherche à rester auprès de sa compagnie et de la 18e Division."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104714.jpg",
+          "detail": "La ferme est mentionnée pour une question de pétrole; la famille belge et l’organisation du battage ne figurent pas dans ce passage."
+        }
+      ]
+    },
+    {
+      "scan_num": 96,
+      "filename": "20251126_104728.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~11--21 soleil brillé... pleine lune magnifique :} C'est précisément cette amélioration météorologique à partir du 9 novembre 1916 (asséchant légèrement le terrain après deux semaines de pluies diluviennes) qui décida le général Gough et Sir Douglas Haig à fixer au 13 novembre l'ultime offensive sur l'Ancre."
+      },
+      "changes": {
+        "historique": "\\textbf{Temps et canonnade :} Le soleil réapparaît quelques heures le 9 novembre. Au thé auprès de la 152 Coy, Combes voit le plateau changé en marécage; le soir il note la pleine lune puis le début du bombardement sur Albert. Un lien causal avec les décisions d’offensive exige une source d’état-major."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104728.jpg",
+          "detail": "Le beau temps observé localement ne prouve pas une décision stratégique des commandants d’armée."
+        }
+      ]
+    },
+    {
+      "scan_num": 97,
+      "filename": "20251126_104739.jpg",
+      "originals": {
+        "lines": [
+          "Ven. 10 \\hfill Novembre 1916",
+          "Très belle journée. Chaud",
+          "soleil. Enfin!",
+          "Matinée, au bureau, en l'absence du Lt Curtis",
+          "& du clerk. Lu, écrit, réfléchi, devant bon feu.",
+          "Impression toute nouvelle.",
+          "Tout l'après-midi, courses en auto : Raincheval",
+          "et Léalvillers. Pu regarder à loisir campagne",
+          "ensoleillée — et remarqué les détails du paysage.",
+          "Nuit extt belle, ciel éclairé par pleine lune.",
+          "Sam. 11 — Matin, dû me rendre à Varennes pour",
+          "1 question de paille à acheter. Aller & retour à pied —",
+          "Pour trouver, battrie R.F.A., B Battery, marché",
+          "terrain mou, vrai cloaque où les pieds",
+          "enfonçaient et se collaient. Affreux.",
+          "Interprète de cette unité, M. Sorgues, prof.",
+          "au lycée de Toulon.",
+          "Soir, à repas, sifflement obus. Acheux",
+          "bombardé à intervalles rapprochés. Réfugiés cave.",
+          "[ — Ctes ples, à Varennes : 75 c — ]"
+        ],
+        "critique": "\\textbf{l.~16--17 Interprète de cette unité, M. Sorgues, prof. au lycée de Toulon :} La corporation des interprètes auprès de la B.E.F. compte de nombreux professeurs d'anglais de l'enseignement secondaire (comme Hippolyte Combes lui-même, professeur au collège de Nogent-le-Rotrou, qui avait fait ses classes d'artillerie à Toulon au printemps 1915).",
+        "historique": "\\textbf{l.~18--19 sifflement obus. Acheux bombardé à intervalles rapprochés. Réfugiés cave :} En réponse au bombardement préparatoire britannique sur Beaumont-Hamel et Serre (commencé le 11 novembre), l'artillerie à longue portée allemande prend pour cible le carrefour routier et le quartier général d'Acheux.",
+        "title": "FOLIO 48 VERSO (Courses à Raincheval et Varennes, rencontre de l'interprète Sorgues et bombardement d'Acheux)"
+      },
+      "changes": {
+        "lines": [
+          "Ven. 10 \\hfill Novembre 1916",
+          "Très belle journée. Chaud",
+          "soleil. Enfin!",
+          "Matinée, au bureau, en l'absence du Lt Curtis",
+          "& du clerk. Lu, écrit, réfléchi, devant bon feu.",
+          "Impression toute nouvelle.",
+          "Tout l'après-midi, courses en auto : Raincheval",
+          "et Léalvillers. Pu regarder à loisir campagne",
+          "ensoleillée — et remarqué les détails du paysage.",
+          "Nuit extt belle, ciel éclairé par pleine lune.",
+          "Sam. 11 — Matin, dû me rendre à Varennes pour",
+          "1 question de paille à acheter. Aller & retour à pied —",
+          "Pour trouver, battrie R.F.A., B Battery, marché",
+          "terrain mou, vrai cloaque où les pieds",
+          "enfonçaient et se collaient. Affreux.",
+          "Interprète de cette unité, M. Sorgues [?], prof.",
+          "au lycée de Toulon.",
+          "Soir, à repas, sifflement obus. Acheux",
+          "bombardé à intervalles rapprochés. Réfugiés cave.",
+          "[ — Ctes ples, à Varennes : 75 c — ]"
+        ],
+        "critique": "\\textbf{l.~16--17 :} Interprète présenté comme professeur au lycée de Toulon; le nom propre, cursif, demeure à confirmer.",
+        "historique": "\\textbf{Bombardement d’Acheux :} Le soir du 11 novembre, des sifflements d’obus interrompent le repas et les occupants se réfugient dans une cave. La cause des tirs et les objectifs allemands ne sont pas indiqués.",
+        "title": "Courses à Raincheval et Varennes, rencontre d’un interprète et bombardement d’Acheux"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104739.jpg",
+          "detail": "Le manuscrit donne un professeur à Toulon, mais ni cause du bombardement ni type de batterie allemande."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_104739.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 98,
+      "filename": "20251126_104801.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~12 Casque peint khaki : 1 f :} Achat ou mise aux normes britanniques de son casque métallique, repeint en kaki mat règlementaire de la B.E.F. \\textbf{l.~23 Boutons simili-cuir : 4 f 75 (10 gds, 3 petits) :} Boutons de cuir tressé (\\textit{leather buttons}) caractéristiques de la vareuse d'officier et d'interprète britannique."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~12 Casque peint khaki :} Dépense pour la peinture du casque; ne prouve ni l’achat du casque ni l’application d’un règlement déterminé. \\textbf{l.~23 Boutons simili-cuir :} Le témoin écrit « simili-cuir », avec nombres et prix; la matière effective et la destination vestimentaire ne sont pas précisées."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104801.jpg",
+          "detail": "La dépense concerne la peinture du casque et des boutons simili-cuir; la note antérieure imposait matière, modèle d’uniforme et règlement non attestés."
+        }
+      ]
+    },
+    {
+      "scan_num": 99,
+      "filename": "20251126_104814.jpg",
+      "originals": {
+        "lines": [
+          "15 Me. \\hfill Novbre 1916",
+          "Toute la nuit, encore,",
+          "et durant journée, principt à l'aube, très",
+          "violente canonnade vers Beaucourt s/ Ancre.",
+          "Très belle journée ensoleillée.",
+          "Matin, venu en auto à Albert. Rentré id.",
+          "Passé au bureau mission frse. Rien de",
+          "nouveau me concernant.",
+          "Après-midi, liberté entière. Promené",
+          "village —",
+          "[ Cartes ples : Acheux : 35 c. — Journaux : 40 c",
+          "Washing : 65 c — ]",
+          "16 J. — Matinée, toujours très violent bombardemt.",
+          "Vitres et fenêtres ne cessent pas de",
+          "trembler.",
+          "Soleil brillé journée entière. Gelé",
+          "fortt durant nuit. Bise froide.",
+          "Matin & après-midi, en auto :",
+          "Raincheval, Louvencourt, Toutencourt etc.",
+          "Déjeuné à Hérissart ch. Lt Walsh et",
+          "avec son interprète. Fort apprécié ce dernier",
+          "M. [blanc], directeur d'1 usine",
+          "(tissus) près Paris. Intelligent & distingué."
+        ],
+        "title": "FOLIO 49 VERSO (Canonnade sur Beaucourt-sur-l'Ancre et déjeuner à Hérissart chez le lieutenant Walsh)",
+        "critique": "\\textbf{l.~20--23 Déjeuné à Hérissart ch. Lt Walsh et avec son interprète... M. Deloney :} Première rencontre avec le lieutenant Walsh et son interprète M. Deloney, qui deviendront les principaux compagnons de sociabilité d'Hippolyte Combes en novembre–décembre 1916 (voir Scans \\#103, \\#106, \\#120).",
+        "historique": "\\textbf{l.~2--4 très violente canonnade vers Beaucourt s/ Ancre :} Les 15 et 16 novembre 1916, les troupes britanniques consolident sous un bombardement intense la prise de Beaucourt-sur-l'Ancre et repoussent les contre-attaques allemandes le long de la voie ferrée d'Achiet-le-Grand."
+      },
+      "changes": {
+        "lines": [
+          "15 Me. \\hfill Novbre 1916",
+          "Toute la nuit, encore,",
+          "et durant journée, principt à l'aube, très",
+          "violente canonnade vers Beaumont s/ Ancre.",
+          "Très belle journée ensoleillée.",
+          "Matin, venu en auto à Albert. Rentré id.",
+          "Passé au bureau mission frse. Rien de",
+          "nouveau me concernant.",
+          "Après-midi, liberté entière. Promené",
+          "village —",
+          "[ Cartes ples : Acheux : 35 c. — Journaux : 40 c",
+          "Washing : 65 c — ]",
+          "16 J. — Matinée, toujours très violent bombardemt.",
+          "Vitres et fenêtres ne cessent pas de",
+          "trembler.",
+          "Soleil brillé journée entière. Gelé",
+          "fortt durant nuit. Bise froide.",
+          "Matin & après-midi, en auto :",
+          "Raincheval, Louvencourt, Toutencourt etc.",
+          "Déjeuné à Hérissart ch. Lt Walsh et",
+          "avec son interprète. Fort apprécié ce dernier",
+          "M. [blanc], directeur d'1 usine",
+          "(tissus) près Paris. Intelligent & distingué."
+        ],
+        "title": "Canonnade vers Beaumont-sur-Ancre et rencontre à Hérissart",
+        "critique": "\\textbf{l.~4 Beaumont s/ Ancre :} Leçon du manuscrit, à conserver sans substitution par Beaucourt. \\textbf{l.~22 M. [blanc] :} Le nom du directeur d’usine n’est pas inscrit; rapprochement possible avec l’interprète nommé dans d’autres entrées, à laisser hypothétique.",
+        "historique": "\\textbf{Canonnade et rencontre :} Combes entend une canonnade vers « Beaumont s/ Ancre », puis déjeune à Hérissart chez le lieutenant Walsh avec un interprète directeur d’usine près de Paris. La page ne décrit pas une contre-attaque ni la voie ferrée d’Achiet."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104814.jpg",
+          "detail": "Le toponyme porte clairement Beaumont s/ Ancre, et non Beaucourt. Le nom du directeur est laissé en blanc."
+        }
+      ]
+    },
+    {
+      "scan_num": 100,
+      "filename": "20251126_104831.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~17--19 Obus éclatent à coups de + en + précipités : on dirait énormes vagues déferlant s/ rochers avec 1 bruit de tonnerre :} Comparaison maritime saisissante pour rendre l'acoustique du tir de barrage roulant (\\textit{creeping barrage})."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~17--19 :} Comparaison entre les éclatements d’obus et les vagues sur les rochers. Elle exprime le rythme et le bruit perçus, sans établir à elle seule un « creeping barrage »."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104831.jpg",
+          "detail": "Les vagues sont une comparaison, pas une identification tactique assurée."
+        }
+      ]
+    },
+    {
+      "scan_num": 101,
+      "filename": "20251126_104849.jpg",
+      "originals": {
+        "lines": [
+          "20 Lundi — \\hfill Nov. /16",
+          "Auj'd'hui, comme hier, ciel nuageux. Fines",
+          "ondées, matin & soir.",
+          "Rues & routes, état lamentable, couvertes",
+          "de boue glissante & épaisse.",
+          "Ts les jours, passe des heures à regarder rue —",
+          "debout devant fenêtre chambre ou assis s/ lit à côté.",
+          "Mouvement inouï : lorries, wagons, cars etc. etc.",
+          "Et défilé incessant de troupes revenant de l'avant",
+          "ou des tranchées —",
+          "Souvent aussi, cortèges de prisonniers allemands.",
+          "Après-midi, longue course en auto : Bouzincourt.",
+          "Au retour, arrêt à Contay. Nuit noire. Cherché refuge",
+          "à Englebelmer. Dû attendre ds obscurité profonde, le long",
+          "hauts murs du château. Boue épaisse — —",
+          "Au retour, ciel mervt étoilé... Nuit noire.",
+          "[ — Cartes ples d'Acheux : 45 c. — Timbres : 2 f",
+          "Carnet : 60 c ]",
+          "21 Ma. — Épais brouillard, matin & soir.",
+          "1/2 jour, soleil brillé 1 peu",
+          "Routes état lamentable. Couche profonde",
+          "de boue liquide. Humidité pénétrante.",
+          "Matin, libre. Après-midi, s/ lorry",
+          "à Léalvillers. Au retour, office, remarque",
+          "+tôt désobligeante de Curtis : fâché",
+          "contre lui."
+        ],
+        "historique": "\\textbf{l.~11 cortèges de prisonniers allemands :} Plus de 7 200 soldats allemands capturés lors de la bataille de l'Ancre (13–18 novembre 1916) furent évacués à pied par la chaussée d'Acheux vers la gare d'embarquement de Varennes.",
+        "lieu": "Acheux, Bouzincourt, Contay, Englebelmer, Léalvillers (Somme)"
+      },
+      "changes": {
+        "lines": [
+          "20 Lundi — \\hfill Nov. /16",
+          "Auj'd'hui, comme hier, ciel nuageux. Fines",
+          "ondées, matin & soir.",
+          "Rues & routes, état lamentable, couvertes",
+          "de boue glissante & épaisse.",
+          "Ts les jours, passe des heures à regarder rue —",
+          "debout devant fenêtre chambre ou assis s/ lit à côté.",
+          "Mouvement inouï : lorries, wagons, cars etc. etc.",
+          "Et défilé incessant de troupes revenant de l'avant",
+          "ou des tranchées —",
+          "Souvent aussi, cortèges de prisonniers allemands.",
+          "Après-midi, longue course en auto : Bouzincourt.",
+          "Au retour, arrêt à Contay [?]. Nuit noire. Cherché refuge",
+          "à Englebelmer. Dû attendre ds obscurité profonde, le long",
+          "hauts murs du château. Boue épaisse — —",
+          "Au retour, ciel mervt étoilé... Nuit noire.",
+          "[ — Cartes ples d'Acheux : 45 c. — Timbres : 2 f",
+          "Carnet : 60 c ]",
+          "21 Ma. — Épais brouillard, matin & soir.",
+          "1/2 jour, soleil brillé 1 peu",
+          "Routes état lamentable. Couche profonde",
+          "de boue liquide. Humidité pénétrante.",
+          "Matin, libre. Après-midi, s/ lorry",
+          "à Léalvillers. Au retour, office, remarque",
+          "+tôt désobligeante de Curtis : fâché",
+          "contre lui."
+        ],
+        "historique": "\\textbf{Route :} Combes observe des convois, des troupes revenant de l’avant et parfois des cortèges de prisonniers allemands. Aucun effectif ni gare de destination ne sont indiqués dans cette page.",
+        "lieu": "Acheux, Bouzincourt, Contay [?], Englebelmer, Léalvillers (Somme)"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104849.jpg",
+          "detail": "Les cortèges de prisonniers sont attestés, mais leur nombre et leur destination ferroviaire ne sont pas précisés."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_104849.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 102,
+      "filename": "20251126_104903.jpg",
+      "originals": {
+        "lines": [
+          "22 Mer. \\hfill Novembre 1916 —",
+          "Hier soir, indigestion & dérangement",
+          "d'entrailles. Ni thé, ni souper. 7 selles",
+          "liquides, dans la nuit. Dû me lever",
+          "chaque fois",
+          "Auj'd'hui, léger mieux. Mais symptômes",
+          "dysenterie : selles glaireuses sang — 1 peu de",
+          "fièvre. Me suis ménagé. Mangé très",
+          "peu. Fin jour, amélioration très sensible",
+          "— presque guéri —",
+          "[ A proprre M. Carluvant, tailleur : 75 c",
+          "(élargi culottes neuves par derrière) ]",
+          "Nuit très noire — dès 5h 1/2 s. — Rue",
+          "boueuse & impraticable.",
+          "23 Jeudi. Enfin, 1 très belle journée.",
+          "Mais temps 1 peu froid.",
+          "Sol tjrs spongieux & mou : sèche",
+          "très lentement.",
+          "Matinée, reposé s/ lit du clerk à",
+          "l'office. Après-midi, course en auto :",
+          "Amplier – Authieule et Authie. Rentré pour",
+          "le thé.",
+          "Nuit, extt obscure. Difficile marche rue.",
+          "Tout à fait rétabli légère indisposition.",
+          "[ Washing : 1 f 25 — ]"
+        ],
+        "critique": "\\textbf{l.~2--10 indigestion \\& dérangement d'entrailles :} Comme dans les entrées d'août 1916 (Scans \\#020–\\#021) et du 11 décembre 1916 (Scan \\#109), le diariste consigne avec une précision clinique ses troubles digestifs liés à l'eau et à l'humidité des cantonnements. \\textbf{l.~11--12 A proprre M. Carluvant, tailleur : 75 c (élargi culottes neuves par derrière) :} Détail savoureux qui nous apprend le métier de son hôte d'Acheux.",
+        "historique": "\\textbf{l.~21 Amplier – Authieule et Authie :} Ces villages de la haute vallée de l'Authie, à la limite de la Somme et du Pas-de-Calais, servaient de zone de repos et d'approvisionnement en fourrage pour le XIII\\textsuperscript{e} Corps.",
+        "title": "FOLIO 51 RECTO (Indisposition nocturne, couture de M. Carluvant et tournée à Amplier et Authie)"
+      },
+      "changes": {
+        "lines": [
+          "22 Mer. \\hfill Novembre 1916 —",
+          "Hier soir, indigestion & dérangement",
+          "d'entrailles. Ni thé, ni souper. 7 selles",
+          "liquides, dans la nuit. Dû me lever",
+          "chaque fois",
+          "Auj'd'hui, léger mieux. [illis.] dysenterie",
+          "[illis.] selles [glaireuses ?] [illis.] — 1 peu de",
+          "fièvre. Me suis ménagé. Mangé très",
+          "peu. Fin jour, amélioration très sensible",
+          "— presque guéri —",
+          "[ A proprre M. Carluvant [?], tailleur : 75 c",
+          "(élargi culottes neuves par derrière) ]",
+          "Nuit très noire — dès 5h 1/2 s. — Rue",
+          "boueuse & impraticable.",
+          "23 Jeudi. Enfin, 1 très belle journée.",
+          "Mais temps 1 peu froid.",
+          "Sol tjrs spongieux & mou : sèche",
+          "très lentement.",
+          "Matinée, reposé s/ lit du clerk à",
+          "l'office. Après-midi, course en auto :",
+          "Amplier – Authieule et Authie. Rentré pour",
+          "le thé.",
+          "Nuit, extt obscure. Difficile marche rue.",
+          "Tout à fait rétabli légère indisposition.",
+          "[ Washing : 1 f 25 — ]"
+        ],
+        "critique": "\\textbf{l.~2--10 :} Troubles digestifs décrits par le diariste; groupes difficiles signalés dans la transcription. Le mot « dysenterie » paraît lisible mais l’énoncé qui le précède demeure obscur. La présence de sang et la cause des troubles ne sont pas établies. \\textbf{l.~11--12 :} Paiement au propriétaire, tailleur, pour élargissement d’une culotte neuve; nom propre à confirmer.",
+        "historique": "\\textbf{Repos et reprise des courses :} Combes se ménage puis note son rétablissement et des déplacements vers Amplier, Authieule et Authie. Aucun diagnostic extérieur n’est produit par le carnet.",
+        "title": "Indisposition nocturne, travaux de couture et tournée à Amplier et Authie"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104903.jpg",
+          "detail": "La photographie ne permet pas d’assurer l’expression « symptômes dysenterie » ni le mot sang. Les troubles sont rapportés par le diariste sans diagnostic éditorial ni causalité hydrique."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_104903.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 103,
+      "filename": "20251126_104916.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~9--10 + de 25 obus, tombés s/ Acheux, du côté sucrerie :} La râperie et sucrerie d'Acheux, située près de la voie ferrée et utilisée comme dépôt logistique allié, était particulièrement visée par les pièces allemandes à longue portée.",
+        "title": "FOLIO 51 VERSO (Bombardement meurtrier de la sucrerie d'Acheux et visite de M. Deloney)"
+      },
+      "changes": {
+        "historique": "\\textbf{Bombardement :} Combes note plus de 25 obus sur Acheux du côté de la sucrerie et de la ferme Royer, avec plusieurs tués et blessés. Ces victimes ne sont pas nommées; le mode de ciblage et les batteries responsables demandent une source distincte.",
+        "title": "Bombardement du côté de la sucrerie d’Acheux et visite de M. Deloney"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104916.jpg",
+          "detail": "Le diariste donne le secteur sucrerie et ferme Royer, mais ne précise pas le type de pièces ni l’emploi du site comme dépôt."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_104916.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 104,
+      "filename": "20251126_104932.jpg",
+      "originals": {
+        "lines": [
+          "28 Ma. \\hfill Novbre 1916",
+          "Tjrs même temps : brouillard & pluie.",
+          "Routes, état lamentable. Matin, rien à faire.",
+          "Après-midi, course en auto à Martinsart.",
+          "Château, reçu aimablt par M. & Mme Bertin,",
+          "et pris thé av. eux — Gros canons, tt",
+          "proche, en action.",
+          "Traversé régions plates, terrains défoncés.",
+          "Convois de ttes sortes.",
+          "Au retour, nuit noire, éclairs bleuâtres",
+          "à l'horizon — canonnade.",
+          "29 Me. Matin, très épais brouillard.",
+          "Après-midi, longue course en auto : Raincheval,",
+          "Puchevillers, Rubempré et Septenville & Pierregot.",
+          "Brouillard se lève, de + en + dense et enseveli",
+          "paysage. Arbres, fantomatiques au 1/2 des champs.",
+          "Moulins à (vent)",
+          "[ — Washing : 70 c — ]",
+          "30 J. — Matinée, à Acheux. Temps couvert",
+          "& brouillard.",
+          "Après-midi, course en auto : Septenville",
+          "aller. Au retour, arrêt à Hérissart. Y pris thé.",
+          "Rentré Acheux vers 7h s.",
+          "Soir, dîné 1ère fois au nouveau mess",
+          "79 C, chambre du Lt Curtis."
+        ],
+        "historique": "\\textbf{l.~4--7 Martinsart. Château, reçu aimablt par M. \\& Mme Bertin... Gros canons, tt proche :} Situé à 3 km au nord d'Albert et à 2 km à peine des tranchées de Thiepval et d'Ovillers, le château de Martinsart était entouré de batteries d'artillerie lourde britannique ; ses propriétaires finirent par être évacués vers Franvillers en décembre 1916 (voir Scan \\#117).",
+        "title": "FOLIO 52 RECTO (Thé au château de Martinsart chez les Bertin et brouillard fantomatique sur la Somme)"
+      },
+      "changes": {
+        "lines": [
+          "28 Ma. \\hfill Novbre 1916",
+          "Tjrs même temps : brouillard & pluie.",
+          "Routes, état lamentable. Matin, rien à faire.",
+          "Après-midi, course en auto à Martinsart.",
+          "Château, reçu aimablt par M. & Mme Bertin [?],",
+          "et pris thé av. eux — Gros canons, tt",
+          "proche, en action.",
+          "Traversé régions plates, terrains défoncés.",
+          "Convois de ttes sortes.",
+          "Au retour, nuit noire, éclairs bleuâtres",
+          "à l'horizon — canonnade.",
+          "29 Me. Matin, très épais brouillard.",
+          "Après-midi, longue course en auto : Raincheval,",
+          "Puchevillers, Rubempré et Septenville & Pierregot.",
+          "Brouillard se lève, de + en + dense et ensevelit",
+          "paysage. Arbres, fantomatiques au 1/2 des champs.",
+          "Moulins à (vent)",
+          "[ — Washing : 70 c — ]",
+          "30 J. — Matinée, à Acheux. Temps couvert",
+          "& brouillard.",
+          "Après-midi, course en auto : Septenville",
+          "aller. Au retour, arrêt à Hérissart. Y pris thé.",
+          "Rentré Acheux vers 7h s.",
+          "Soir, dîné 1ère fois au nouveau mess",
+          "79 C, chambre du Lt Curtis."
+        ],
+        "historique": "\\textbf{Martinsart :} Thé au château avec les propriétaires et gros canons proches en action. Les entrées suivantes donnent des courses à travers Septenville, Pierregot et Hérissart. Le témoignage ne précise ni la distance des batteries aux tranchées ni une procédure d’évacuation.",
+        "title": "Thé au château de Martinsart et brouillard sur la campagne"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104932.jpg",
+          "detail": "Le brouillard « ensevelit » le paysage; nom propre réservé. La note antérieure donnait des distances et une évacuation sans source."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_104932.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 106,
+      "filename": "20251126_105005.jpg",
+      "originals": {
+        "lines": [
+          "3 Dim. — \\hfill Décbre 1916",
+          "Nuit très froide. Gelé 1 peu moins que nuit",
+          "précédente.",
+          "Journée bien remplie & fatigante. Partis vers",
+          "8h 1/2 m. et rentrés seulement à 6h 1/2 s.",
+          "Longues courses en auto, matin & soir :",
+          "Septenville et Hérissart. Déjeuné ch. Lieutt Walsh.",
+          "Après lunch, venus j'à Marcelcave. Passé",
+          "à Corbie et Villers-Bretonneux.",
+          "Retour par Warfusée-Abancourt.",
+          "Tt jour, brume glaciale enveloppé choses.",
+          "Moulins squelettiques au 1/2 des champs...",
+          "Heures mornes en auto : pu ruminer &",
+          "observer à loisir...",
+          "[ — A Hérissart, 2 boîtes : 30 c",
+          "Au bureau mission XIIIe corps, Acheux,",
+          "touché solde : 78 f 75 c (prochaine, le 17) ]",
+          "4 L. Matinée, dégelé rapidt et",
+          "routes redevenues boueuses.",
+          "Tout le matin, ds la grange de Mme Guerle,",
+          "soleil brillé 1 peu —",
+          "Après-midi, courses en auto à",
+          "ferme de Belle-Église (Arquèves) et à Louvencourt.",
+          "Rentré pour le thé et dès lors liberté.",
+          "Lt Walsh & son interprète, invités à dîner.",
+          "Capt. Williams, charmant et de tout sympathique."
+        ],
+        "critique": "\\textbf{l.~12 Moulins squelettiques au 1/2 des champs... :} Reprise saisissante de l'image esquissée le 29 novembre (Scan \\#104). \\textbf{l.~26 Capt. Williams, charmant et de tout sympathique :} Jugement initial très favorable lors du premier dîner avec le capitaine Williams, qui va rapidement s'inverser dans les jours suivants.",
+        "historique": "\\textbf{l.~8--10 Marcelcave / Corbie et Villers-Bretonneux / Warfusée-Abancourt :} Excursion exceptionnelle au sud de la Somme (sur la route d'Amiens à Péronne, à la charnière entre l'armée britannique et la VI\\textsuperscript{e} Armée française). \\textbf{l.~17 touché solde : 78 f 75 c (prochaine, le 17) :} Au XIII\\textsuperscript{e} Corps, la solde des interprètes est versée par quinzaine (5 fr. 25 par jour pour 15 jours = 78 fr. 75)."
+      },
+      "changes": {
+        "lines": [
+          "3 Dim. — \\hfill Décbre 1916",
+          "Nuit très froide. Gelé 1 peu moins que nuit",
+          "précédente.",
+          "Journée bien remplie & fatigante. Partis vers",
+          "8h 1/2 m. et rentrés seulement à 6h 1/2 s.",
+          "Longues courses en auto, matin & soir :",
+          "Septenville et Hérissart. Déjeuné ch. Lieutt Walsh.",
+          "Après lunch, venus j'à Marcelcave. Passé",
+          "à Corbie et Villers-Bretonneux.",
+          "Retour par Warfusée-Abancourt.",
+          "Tt jour, brume glaciale enveloppé choses.",
+          "Moulins squelettiques au 1/2 des champs...",
+          "Heures mornes en auto : pu ruminer &",
+          "observer à loisir...",
+          "[ — A Hérissart, 2 boîtes : 30 c",
+          "Au bureau mission XIIIe corps, Acheux,",
+          "touché solde : 78 f 75 c (prochaine, le 17) ]",
+          "4 L. Matinée, dégelé rapidt et",
+          "routes redevenues boueuses.",
+          "Tout le matin, ds la grange de Mme Guerle,",
+          "soleil brillé 1 peu —",
+          "Après-midi, courses en auto à",
+          "ferme de Belle-Église (Arquèves) et à Louvencourt.",
+          "Rentré pour le thé et dès lors liberté.",
+          "Lt Walsh & son interprète, invités à dîner.",
+          "Capt. Williams, charmant et de tt à tt sympathique."
+        ],
+        "critique": "\\textbf{l.~12 :} « Moulins squelettiques »: notation visuelle du paysage. \\textbf{l.~26 de tt à tt :} Abréviation de « de tout à tout », conservée dans le texte. Le jugement favorable est celui de cette date.",
+        "historique": "\\textbf{Courses et versement :} Déplacements vers Marcelcave par Corbie et Villers-Bretonneux, retour par Warfusée-Abancourt; le relevé porte une solde de 78 f 75 et annonce le prochain versement le 17. Le carnet ne reproduit pas le règlement qui détermine cette somme."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105005.jpg",
+          "detail": "La photographie porte « de tt à tt sympathique »; maintien de la contraction au lieu d’un développement partiel."
+        }
+      ]
+    },
+    {
+      "scan_num": 107,
+      "filename": "20251126_105017.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~13--15 Lt Curtis, parti vers 7h 1/2 m. — \\& sans laisser de regret — A brainless ass :} Épitaphe féroce en anglais (« un âne sans cervelle »), qui montre combien l'universitaire français de 40 ans jugeait sévèrement la médiocrité intellectuelle de certains jeunes officiers britanniques. \\textbf{l.~17--19 Cap. Williams, 20 ans !... avant la guerre, était office boy à 50 £ a year :} Observation sociologique pénétrante : un modeste employé de bureau gagnant 50 livres par an (1 250 francs) avant 1914 se retrouve promu capitaine à vingt ans par le jeu des pertes et de l'expansion de la \\textit{New Army}.",
+        "historique": "\\textbf{l.~4--8 Bayencourt, près d'Hébuterne, à 3 kilomètres de Gommecourt (Boches)... Village de Coigneux :} Point le plus avancé atteint par Hippolyte Combes au nord du secteur : Bayencourt et Coigneux jouxtent les tranchées de première ligne d'Hébuterne face au redoutable saillant allemand de Gommecourt."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~14--15 A brainless ass :} Jugement injurieux en anglais (« un âne sans cervelle »), attribué par le diariste à Curtis. \\textbf{l.~17--19 :} Williams, âgé de vingt ans selon Combes, raconte qu’il était office boy à 50 livres annuelles avant la guerre. Ce récit ne donne pas les étapes de sa carrière.",
+        "historique": "\\textbf{Départ de Curtis :} Le lieutenant rejoint la 152 Coy A.S.C. après les adieux de la veille. La course à Bayencourt, Hébuterne, Gommecourt et Coigneux est rapportée; cette page ne permet pas d’établir le point le plus avancé de toute la carrière de Combes."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105017.jpg",
+          "detail": "L’injure envers Curtis est lisible; ne fonde pas une explication sociologique générale ni la cause de promotion de Williams."
+        }
+      ]
+    },
+    {
+      "scan_num": 108,
+      "filename": "20251126_105046.jpg",
+      "originals": {
+        "lines": [
+          "7 Jeudi — — Décbre 1916 —",
+          "Matin & après-midi, en",
+          "auto. — Matin, à Belle-Église, Arquèves,",
+          "où dû attendre lgts retour du Cap. W.,",
+          "qui allé j'à Raincheval. Amusé par les",
+          "enfants de la fermière belge, Mme Houthouan.",
+          "Après-midi, venus à Englebelmer, par",
+          "Hédauville. Resté près d'1 h. ds ce village",
+          "à peu près désert : plus d'habitants. Rien",
+          "que des Anglais, qui restent ds leurs cantonnements.",
+          "Attendu lgts en auto, devant ferme où le",
+          "Town Major et le Daily Mail. A peu de",
+          "distance, canons anglais ne cessaient point",
+          "de tonner : après coup, vibrations métalliques",
+          "répercutées à travers l'espace — comme gémissement.",
+          "Dîné seul : off. allé à Hérissart. Rentré",
+          "tôt ds ma chambre. — Rue silencieuse.",
+          "Canonnade, intermittente.",
+          "Brume épaisse s'étend de + en +.",
+          "8 Ve. Tjrs même temps. Ciel caché par",
+          "brouillard. Bruine intermittente. Routes, état",
+          "affreux.",
+          "Matinée, course à St-Léger-lès-Authie,",
+          "sous la pluie.",
+          "Après-midi, ferme de Belle-Église, puis",
+          "Arquèves : on a commencé à battre paille."
+        ],
+        "critique": "\\textbf{l.~13--15 canons anglais ne cessaient point de tonner : après coup, vibrations métalliques répercutées à travers l'espace — comme gémissement :} Notation acoustique d'une grande justesse littéraire, décrivant le sifflement vibratoire des obus de gros calibre fendant l'air brumeux au-dessus d'Englebelmer.",
+        "historique": "\\textbf{l.~5--6 la fermière belge, Mme Houthouan :} De nombreux agriculteurs flamands réfugiés de Belgique en 1914 avaient repris l'exploitation de grandes fermes picardes manquant de bras à l'arrière du front britannique, comme ici à la ferme de Belle-Église (Arquèves)."
+      },
+      "changes": {
+        "lines": [
+          "7 Jeudi — — Décbre 1916 —",
+          "Matin & après-midi, en",
+          "auto. — Matin, à Belle-Église, Arquèves,",
+          "où dû attendre lgts retour du Cap. W.,",
+          "qui allé j'à Raincheval. Amusé par les",
+          "enfants de la fermière belge, Mme Houthouan [?].",
+          "Après-midi, venus à Englebelmer, par",
+          "Hédauville. Resté près d'1 h. ds ce village",
+          "à peu près désert : plus d'habitants. Rien",
+          "que des Anglais, qui restent ds leurs cantonnements.",
+          "Attendu lgts en auto, devant ferme où le",
+          "Town Major et le Daily Mail. A peu de",
+          "distance, canons anglais ne cessaient point",
+          "de tonner : après coup, vibrations métalliques",
+          "répercutées à travers l'espace — comme gémissement.",
+          "Dîné seul : off. allé à Hérissart. Rentré",
+          "tôt ds ma chambre. — Rue silencieuse.",
+          "Canonnade, intermittente.",
+          "Brume épaisse s'étend de + en +.",
+          "8 Ve. Tjrs même temps. Ciel caché par",
+          "brouillard. Bruine intermittente. Routes, état",
+          "affreux.",
+          "Matinée, course à St-Léger-lès-Authie,",
+          "sous la pluie.",
+          "Après-midi, ferme de Belle-Église, puis",
+          "Arquèves : on a commencé à battre paille."
+        ],
+        "critique": "\\textbf{l.~13--15 :} Combes distingue le tonnerre des canons et les vibrations métalliques qui suivent, comparées à un gémissement. Le calibre et le mécanisme sonore ne sont pas identifiés.",
+        "historique": "\\textbf{Belle-Église :} La fermière est dite belge; ses enfants amusent Combes pendant son attente. Le carnet ne précise pas ici sa date d’arrivée, son statut de réfugiée ou les conditions de reprise de la ferme."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105046.jpg",
+          "detail": "Le qualificatif belge est attesté mais le statut de réfugiée et les circonstances de l’installation sont absents."
+        }
+      ]
+    },
+    {
+      "scan_num": 109,
+      "filename": "20251126_105057.jpg",
+      "originals": {
+        "lines": [
+          "9 Samedi \\hfill Décbre 1916",
+          "Tout le jour, pluie, et",
+          "parfois averse.",
+          "Partis en auto, vers 9h m. Venus à ⟦Belle-Église⟧ Orville.",
+          "Déjeuné à Authie, au mess de no 3 Coy 31st Divon",
+          "av. Lt Croughton.",
+          "Après déjeuner, venus à Orville, puis",
+          "continué route j'à Saulty – L'Arbret —",
+          "Rentrés nuit noire. Temps affreux.",
+          "Très fatigué et tout mouillé. Mangé de",
+          "suite et venu chambre. Extt autoritaire",
+          "ce gosse de Williams... —",
+          "11 L. — Hier & auj'd'hui, inoccupé, mais",
+          "resté office matin & soir.",
+          "Tjrs temps affreux. Pluie & boue.",
+          "Nuit de dimanche à lundi, mauvaise",
+          "digestion. Dysenterie durant tte journée",
+          "de lundi. N'ai pris aucun aliment. —",
+          "Tt le jour, langui ds ma chambre",
+          "ou au bureau...",
+          "[ Tin of Wren's Dubbin : 30 c ]"
+        ],
+        "critique": "\\textbf{l.~11--12 Ext\\textsuperscript{t} autoritaire ce gosse de Williams... :} Six jours à peine après son arrivée, le jeune capitaine de vingt ans (« ce gosse de Williams ») exaspère l'interprète par son ton autoritaire et son manque d'égards. \\textbf{l.~21 Tin of Wren's Dubbin : 30 c :} Boîte de graisse imperméabilisante anglaise de marque \\textit{Wren's Dubbin} pour assouplir et protéger de la boue les brodequins de cuir.",
+        "historique": "\\textbf{l.~5 mess de no 3 Coy 31st Divon av. Lt Croughton :} La 31\\textsuperscript{e} Division britannique (\\textit{31st Division}, XIII\\textsuperscript{e} Corps), durement éprouvée à Serre le 1\\textsuperscript{er} juillet 1916, tenait alors le secteur de l'Ancre et cantonnait son Train divisionnaire à Authie.",
+        "title": "FOLIO 54 VERSO (Randonnée pluvieuse jusqu'à Saulty et L'Arbret, autoritarisme de Williams et crise de dysenterie)",
+        "lieu": "Acheux, Belle-Église, Authie, Orville, Saulty, L'Arbret (Somme / Pas-de-Calais)"
+      },
+      "changes": {
+        "lines": [
+          "9 Samedi \\hfill Décbre 1916",
+          "Tout le jour, pluie, et",
+          "parfois averse.",
+          "Partis en auto, vers 9h m. Venus à ⟦Belle-Église⟧ Orville.",
+          "Déjeuné à Authie, au mess de no 3 Coy 31st Divon",
+          "av. Lt Croughton [?].",
+          "Après déjeuner, venus à Orville, puis",
+          "continué route j'à Saulty – L'Arbret —",
+          "Rentrés nuit noire. Temps affreux.",
+          "Très fatigué et tout mouillé. Mangé de",
+          "suite et venu chambre. Extt [autoritaire ?]",
+          "ce gosse de Williams... —",
+          "11 L. — Hier & auj'd'hui, inoccupé, mais",
+          "resté office matin & soir.",
+          "Tjrs temps affreux. Pluie & boue.",
+          "Nuit de dimanche à lundi, mauvaise",
+          "digestion. Dysenterie durant tte journée",
+          "de lundi. N'ai pris aucun aliment. —",
+          "Tt le jour, langui ds ma chambre",
+          "ou au bureau...",
+          "[ Tin of Wren's Dubbin : 30 c ]"
+        ],
+        "critique": "\\textbf{l.~4 :} « Belle-Église » biffé, remplacé par Orville. \\textbf{l.~11--12 :} Adjectif difficile avant « ce gosse de Williams »; « autoritaire » n’est qu’une lecture proposée. \\textbf{l.~17 :} « Dysenterie » est ici le mot employé par Combes; il ne constitue pas un diagnostic éditorial.",
+        "historique": "\\textbf{Service et indisposition :} Repas à Authie au mess de la no 3 Coy, 31st Division; course par Orville, Saulty et L’Arbret, puis journées marquées par les troubles digestifs. L’affiliation précise du lieutenant cité reste à documenter.",
+        "title": "Randonnée pluvieuse jusqu’à Saulty et L’Arbret; jugement sur Williams et indisposition",
+        "lieu": "Acheux, Authie, Orville, Saulty, L’Arbret (Somme / Pas-de-Calais); Belle-Église biffé"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105057.jpg",
+          "detail": "Le trait biffé Belle-Église est visible avant Orville; L’Arbret est lisible. Le jugement sur Williams ne doit pas être reproduit comme certitude."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_105057.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 110,
+      "filename": "20251126_105112.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~10--11 Toutencourt, mairie, meeting de réfugiés d'Englebelmer, Major Levy :} Les habitants d'Englebelmer (village évacué en raison des bombardements, voir Scan \\#108) avaient été relogés à Toutencourt ; le major Levy et son interprète les réunissent à la mairie pour régler les indemnités d'occupation et de réquisition de leurs récoltes restées sur place."
+      },
+      "changes": {
+        "historique": "\\textbf{Toutencourt :} Réunion à la mairie avec des réfugiés d’Englebelmer et le major Levy. La cause du déplacement des habitants, leur mode de logement et l’objet administratif de la réunion ne sont pas explicités dans cette entrée."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105112.jpg",
+          "detail": "La page mentionne meeting de réfugiés et Major Levy, sans préciser le contenu de la réunion."
+        }
+      ]
+    },
+    {
+      "scan_num": 111,
+      "filename": "20251126_105125.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~10--11 ferme du Quesnoy :} Grande ferme isolée sur le plateau entre Raincheval, Puchevillers et Beauquesne."
+      },
+      "changes": {
+        "historique": "\\textbf{Tournées :} Courses à Belle-Église, Arquèves, Raincheval, Toutencourt et ferme du Quesnoy, sur des routes qui cahotent fortement la voiture. La localisation exacte de la ferme appelle un plan cadastral ou une carte contemporaine."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105125.jpg",
+          "detail": "Le carnet donne la ferme du Quesnoy sans ses coordonnées."
+        }
+      ]
+    },
+    {
+      "scan_num": 112,
+      "filename": "20251126_105142.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~17--20 A Louvencourt, ch. Mme Cuisinier, gaffe du Cap. W. : « Bloody France etc. ! » :} Cet incident du 24 décembre 1916 chez la fermière Mme Cuisinier à Louvencourt blesse profondément le patriotisme d'Hippolyte Combes, déjà auteur en mars 1916 d'un rapport officiel au sous-lieutenant Ferran contre un officier du \\textit{6th Liverpool Regiment} à Morlancourt (voir Annexe I, Document 2).",
+        "lieu": "Acheux, Senlis-le-Sec, Rubempré, Le Quesnoy, Léalvillers, Saint-Léger, Orville, Authie, Toutencourt, Puchevillers, Louvencourt (Somme)"
+      },
+      "changes": {
+        "historique": "\\textbf{Incident de Louvencourt :} Le 24 décembre, Combes rapporte chez Mme Cuisinier le propos « Bloody France etc.! » de Williams et hésite à en informer la Mission française. Il relie aussi sa tristesse à une lettre de Mte datée du 17. Il s’agit de son récit et de son appréciation, sans reproduction de la lettre ni rapport administratif joint.",
+        "lieu": "Acheux, Senlis-le-Sec, Rubempré, Quesnoy (identification non établie), Léalvillers, Saint-Léger, Orville, Authie, Toutencourt, Puchevillers, Louvencourt"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105142.jpg",
+          "detail": "L’incident est un propos rapporté par Combes; le nom et le métier de Mme Cuisinier et le parallèle avec Ferran nécessitent une pièce distincte."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_105142.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 113,
+      "filename": "20251126_105155.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~4 Army P. Board :} \\textit{Army Purchase Board} (commission d'achat de l'armée britannique chargée d'homologuer les contrats de fourrage et de battage). \\textbf{l.~15 Assis in front :} Sur le siège avant de l'automobile, à côté du chauffeur britannique (\\textit{driver}).",
+        "historique": "\\textbf{l.~9--10 Bureau mission, XIIIe c., touché solde etc. : 84 fr. :} Règlement de la quinzaine incluant l'indemnité de monture et de vivres au bureau de la Mission française du XIII\\textsuperscript{e} Corps à Acheux.",
+        "title": "FOLIO 56 VERSO (Attente devant l'Army Purchase Board à Raincheval et grandes gelées d'avant Noël)",
+        "lieu": "Acheux, Belle-Église, Raincheval, Le Quesnoy, Beauquesne (Somme)"
+      },
+      "changes": {
+        "critique": "\\textbf{Ordre chronologique :} La vue 113 porte les 19 et 20 décembre et précède donc la vue 112 (22 et 24 décembre) dans la chronologie des entrées. \\textbf{Army P. Board :} Sigle institutionnel probablement « Army Purchase Board », développement à confirmer par source administrative. \\textbf{in front :} Indication de position à l’avant de la voiture.",
+        "historique": "\\textbf{Versement :} La mention « solde etc. : 84 fr. » au bureau de mission du XIIIe corps ne ventile pas les sommes en indemnités de vivres ou de monture.",
+        "title": "Attente devant l’Army P. Board à Raincheval et grandes gelées d’avant Noël",
+        "lieu": "Acheux, Belle-Église, Raincheval, Quesnoy (identification non établie), Beauquesne"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105155.jpg",
+          "detail": "L’ordre des dates est distinct de celui des images; aucune ventilation des 84 fr. en indemnités n’apparaît."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_105155.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 114,
+      "filename": "20251126_105239.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~13--14 et 19--20 Y.M.C.A. hut, concert :} Pour le jour de Noël 1916, le foyer de la \\textit{Young Men's Christian Association} d'Acheux organise deux représentations de music-hall militaire (\\textit{concert party}) tandis qu'une trêve de fait réduit l'artillerie au silence (« Nul écho de canonnade »)."
+      },
+      "changes": {
+        "historique": "\\textbf{Noël :} Combes assiste aux chansons comiques et saynètes du foyer Y.M.C.A., puis y rentre quelques minutes lorsque le concert recommence. Il note le soir un grand silence et aucun écho de canonnade. Cette observation locale n’établit pas une trêve à l’échelle du front."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105239.jpg",
+          "detail": "Deux passages au concert et silence nocturne ne permettent pas d’établir une trêve de fait."
+        }
+      ]
+    },
+    {
+      "scan_num": 115,
+      "filename": "20251126_105252.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~12--13 resté 20 m. à peine ds cette ville (hélas !) :} La parenthèse exclamative traduit la frustration de l'interprète tributaire de la hâte du capitaine Williams, qui ne lui laisse que le temps d'acheter en hâte du papier à lettres et des enveloppes.",
+        "historique": "\\textbf{l.~6--7 Mme Capron, à propos location machine à battre :} Afin d'accélérer la livraison de paille et de grain sans attendre les entrepreneurs civils mobilisés, le service des fourrages britannique louait directement des batteuses mécaniques (comme celle de Mme Capron à Beauquesne, dont le contrat sera signé le 5 janvier 1917, Scan \\#120) et les faisait fonctionner par des corvées de soldats.",
+        "lieu": "Acheux, Raincheval, Arquèves, Beauquesne, Le Quesnoy, Doullens (Somme)"
+      },
+      "changes": {
+        "critique": "\\textbf{l.~12--13 :} « resté / 20 m. à peine ds cette ville (hélas!) »: regret de la brièveté du séjour, sans cause explicitée.",
+        "historique": "\\textbf{Location :} Entretien avec Mme Capron à Beauquesne au sujet de la location d’une machine à battre. Les raisons de la location, la mobilisation des entrepreneurs et la main-d’œuvre employée ne sont pas précisées ici.",
+        "lieu": "Acheux, Raincheval, Arquèves, Beauquesne, Quesnoy (identification non établie), Doullens"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105252.jpg",
+          "detail": "La parenthèse hélas n’attribue pas la brièveté de l’arrêt à un ordre de Williams; le mode de fonctionnement des machines n’est pas décrit."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_105252.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 116,
+      "filename": "20251126_105400.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~9 car in workshop :} L'automobile de l'unité étant à l'atelier de réparation mécanique (\\textit{workshop}), l'interprète bénéficie d'une journée entière de congé. \\textbf{l.~14--15 Boîte recommandée à Imbert, opticien Paris : 30 c :} Envoi postal de son pince-nez cassé à son opticien parisien du boulevard Saint-Michel (qu'il réglera par mandat le 10 janvier et visitera le 27 janvier 1917, Scans \\#122 et \\#131).",
+        "historique": "\\textbf{l.~10--12 13th Corps Archie Singers :} Troupe théâtrale et musicale formée par les artilleurs de la défense contre avions (surnommée \\textit{Archie} dans l'argot militaire britannique) du XIII\\textsuperscript{e} Corps.",
+        "lieu": "Acheux, Léalvillers, Raincheval, Le Quesnoy, Louvencourt (Somme)"
+      },
+      "changes": {
+        "critique": "\\textbf{car in workshop :} Voiture à l’atelier, expliquant la liberté mentionnée ce jour. \\textbf{l.~14--15 :} Envoi recommandé d’une boîte à Imbert, opticien à Paris. Le contenu de la boîte n’est pas précisé dans cette dépense.",
+        "historique": "\\textbf{Concert :} La troupe est notée « 13th Corps Archie Singers » et présente des chansons comiques et pantomimes. Une identification des membres ou de leur unité d’origine demande une source indépendante.",
+        "lieu": "Acheux, Léalvillers, Raincheval, Quesnoy (identification non établie), Louvencourt"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105400.jpg",
+          "detail": "La boîte pour l’opticien n’est pas détaillée; la composition de la troupe n’est pas prouvée par Archie."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_105400.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 117,
+      "filename": "20251126_105411.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~7--10 et 19--21 explication très calme, mais très ferme. M'a fait des excuses et m'a supplié de ne pas le quitter... attitude gênée et presque humiliée, contrite :} Scène psychologique remarquable où l'ascendant moral et l'âge d'Hippolyte Combes (40 ans) retournent complètement le rapport d'autorité face au jeune capitaine britannique de 20 ans, incapable de s'acquitter de sa mission sans son interprète.",
+        "historique": "\\textbf{l.~23--24 Dépenses mess : 45 f + 10 f + 1 f + 22 fr. = 88 fr. :} Arrêté mensuel de sa quote-part des frais de table du mess pour l'ensemble du mois de décembre 1916."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~7--10 et 19--21 :} Combes rapporte une explication, des excuses puis une attitude gênée de Williams. Les pensées de l’officier et sa dépendance professionnelle ne sont pas documentées directement. \\textbf{l.~23--24 :} Les quatre postes lus 45, 10, 1 et 22 donnent 78 francs, tandis que le total écrit est 88. Cette discordance est conservée; un des chiffres peut demander une nouvelle lecture.",
+        "historique": "\\textbf{Comptes :} Relevé des dépenses du mess en fin décembre, avec discordance entre les postes et le total; sa ventilation et la période exacte couverte ne sont pas explicitées."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105411.jpg",
+          "detail": "Le récit concerne excuses et gêne selon Combes; l’incapacité de Williams à remplir sa mission est une extrapolation. Total arithmétique discordant."
+        }
+      ]
+    },
+    {
+      "scan_num": 118,
+      "filename": "20251126_105428.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~8--10 M. Carluvant / l.~14--15 ferme Cuisinier, expertise machine endommagée :} Même le 1\\textsuperscript{er} et le 2 janvier 1917, le service logistique et contentieux ne connaît aucune trêve : courses en automobile vers Toutencourt, Saulty (sur la grande route d'Arras) et Louvencourt, où l'interprète procède à l'expertise contradictoire d'une machine agricole endommagée à la ferme Cuisinier."
+      },
+      "changes": {
+        "historique": "\\textbf{Logement et machine :} Le logeur annonce son départ, le propriétaire voulant s’installer; Combes regrette sa chambre chaude. Le lendemain, passage à la ferme Cuisinier pour l’expertise d’une machine endommagée, sans détail du mandat ni des participants."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105428.jpg",
+          "detail": "L’expertise d’une machine est mentionnée, sans préciser le rôle de chacun ni une procédure contradictoire."
+        }
+      ]
+    },
+    {
+      "scan_num": 119,
+      "filename": "20251126_105446.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~10--11 ds la cour de l'Hôtel de la Paix, rue [\\dots] :} L'auteur laisse un léger blanc après le mot \\textit{rue}, ayant oublié le nom exact de la rue (l'Hôtel de la Paix se trouvait rue de la République à Amiens). \\textbf{l.~22--23 5 gravures ocre cathédrale : 2 f 50 / 1 bonnet police drap bleu : 3 f 75 c :} Ce relevé montre à la fois le goût artistique d'Hippolyte Combes et le soin qu'il apporte à sa tenue d'interprète.",
+        "historique": "\\textbf{l.~13--14 rue Sire Firmin Leroux (La Semeuse : instruments agricoles etc.) :} Située en plein centre d'Amiens près de la rue des Trois-Cailloux, la maison \\textit{La Semeuse} fournissait des pièces de rechange pour les batteuses et machines agricoles réquisitionnées par l'armée britannique."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~11 rue :} Nom de rue non renseigné. La cause de ce blanc n’est pas connue. \\textbf{l.~22 :} Achat de cinq gravures de la cathédrale; le qualificatif « ocre » demeure à vérifier.",
+        "historique": "\\textbf{Amiens :} Combes rencontre Trefcon rue Sire Firmin Leroux et mentionne « La Semeuse : instruments agricoles etc. », puis visite la cathédrale. Le carnet ne donne pas de liste de pièces fournies ni de destinataire militaire de ces fournitures."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105446.jpg",
+          "detail": "Montigny est lisible, et non Naours. Le blanc après rue ne prouve pas un oubli; l’adresse et l’activité précise de La Semeuse ne sont pas sourcées dans l’ancienne note."
+        }
+      ]
+    },
+    {
+      "scan_num": 120,
+      "filename": "20251126_105848.jpg",
+      "originals": {
+        "lines": [
+          "4 Jeudi \\hfill — Janvier /17",
+          "Tout le jour, repos.",
+          "Matinée, fortes ondées. Après-midi, ciel s'est",
+          "éclairci et tout ensoleillé.",
+          "Nuit, mervx clair de lune (entière) et",
+          "qq étoiles —",
+          "Resté ds chambre, matin & surtout après-",
+          "midi, à ranger affaires, ou regarder spectacle",
+          "rue, très animé.",
+          "Soir, concert des XIII Corps Archie, à la",
+          "Y.M.C.A. hut. 2e partie programme, nos excellents",
+          "chanteurs — duos très g.",
+          "[ — Hair cut : 50 c",
+          "— Concert Y.M.C.A. : 30 c ]",
+          "5 Ven. — Tout le jour, en course.",
+          "Septenville, ferme Moulard. —",
+          "Beauquesne : déjeuné av. Lt Walsh, Lt Morris",
+          "& son interprète au Café Continental.",
+          "Puis passé contrat location batteuse av.",
+          "Mme Capron.",
+          "Rentré, nuit tombante. Mervx clair",
+          "de lune. Routes boueuses comme ruisselantes",
+          "de lumière —",
+          "[ Bureau Mission fse XIIIe Corps Acheux : 78 f 75 ]"
+        ],
+        "title": "FOLIO 60 RECTO (Concert des « XIII Corps Archie » et contrat de battage chez Mme Capron à Beauquesne)",
+        "historique": "\\textbf{l.~17--20 Beauquesne : déjeuné av. Lt Walsh, Lt Morris \\& son interprète au Café Continental. Puis passé contrat battage batteuse av. Mme Capron :} Concrétisation de la négociation engagée le 26 décembre (Scan \\#115) pour la location de la batteuse de Mme Capron à Beauquesne."
+      },
+      "changes": {
+        "lines": [
+          "4 Jeudi \\hfill — Janvier /17",
+          "Tout le jour, repos.",
+          "Matinée, fortes ondées. Après-midi, ciel s'est",
+          "éclairci et tout ensoleillé.",
+          "Nuit, mervx clair de lune (entière) et",
+          "qq étoiles —",
+          "Resté ds chambre, matin & surtout après-",
+          "midi, à ranger affaires, ou regarder spectacle",
+          "rue, très animé.",
+          "Soir, concert des XIII Corps Archie, à la",
+          "Y.M.C.A. hut. 2e partie programme, nos excellents",
+          "chanteurs — duos très g.",
+          "[ — Hair cut : 50 c",
+          "— Concert Y.M.C.A. : 30 c ]",
+          "5 Ven. — Tout le jour, en course.",
+          "Septenville, ferme Moulard. —",
+          "Beauquesne : déjeuné av. Lt Walsh, Lt Morris",
+          "& son interprète au Café Continental.",
+          "Puis passé contrat location [battage ?] av.",
+          "Mme Capron.",
+          "Rentré, nuit tombante. Mervx clair",
+          "de lune. Routes boueuses comme ruisselantes",
+          "de lumière —",
+          "[ Bureau Mission fse XIIIe Corps Acheux : 78 f 75 ]"
+        ],
+        "title": "Concert à la Y.M.C.A. et contrat avec Mme Capron à Beauquesne",
+        "historique": "\\textbf{Contrat :} Après le déjeuner à Beauquesne, Combes note un contrat de location avec Mme Capron. Le terme suivant « location » est difficile, paraissant « battage »; l’entrée du 26 décembre (scan 115) concerne une machine à battre. Le rapprochement est probable, mais le contrat lui-même n’est pas reproduit."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105848.jpg",
+          "detail": "Photographie: contrat suivi de location; dernier terme cursif paraît battage et reste réservé. Le titre doit laisser la nature exacte du contrat ouverte."
+        }
+      ]
+    },
+    {
+      "scan_num": 121,
+      "filename": "20251126_105908.jpg",
+      "originals": {
+        "lines": [
+          "6 Sam. \\hfill Janv. 1917",
+          "Très belle journée, ensoleillée",
+          "mais 1 peu froide.",
+          "Matinée, course en auto : Louvencourt,",
+          "Bertrancourt et Authie.",
+          "Après-midi, liberté entière —",
+          "Soir, au concert Y.M.C.A. Programme",
+          "des 2 fois précédentes. Chants du soir. —",
+          "Matinée, routes encombrées : déplacement",
+          "de troupes : convois d'artillerie, de A.S.C. etc.",
+          "[ — Washing : 70 c. — Concert Y.M.C.A. : 30 c ]",
+          "9 Ma. —",
+          "Hier & avant-hier, courses en auto",
+          "matin & soir, Arquèves, Raincheval, St-Léger.",
+          "Aujourd'hui, pareillement. Matinée,",
+          "vu M. Guibet, à Raincheval...",
+          "Après-midi, à Hédauville, route de",
+          "Varennes, où retrouvé 150 Coy, 18th Divon",
+          "ds 1 terrain fangeux, à 50 m. de la route.",
+          "Morris, était out riding —",
+          "Temps + froid, neigé 1 peu, puis pluie",
+          "fine — Toute la nuit & durant journée",
+          "très violente canonnade.",
+          "[ — Avis de réception pour Imbert : 15 c — ]"
+        ]
+      },
+      "changes": {
+        "lines": [
+          "6 Sam. \\hfill Janv. 1917",
+          "Très belle journée, ensoleillée",
+          "mais 1 peu froide.",
+          "Matinée, course en auto : Louvencourt,",
+          "Bertrancourt et Authie.",
+          "Après-midi, liberté entière —",
+          "Soir, au concert Y.M.C.A. Programme",
+          "des 2 fois précédentes. Chants du jour. —",
+          "Matinée, routes encombrées : déplacement",
+          "de troupes : convois d'artillerie, de A.S.C. etc.",
+          "[ — Washing : 70 c. — Concert Y.M.C.A. : 30 c ]",
+          "9 Ma. —",
+          "Hier & avant-hier, courses en auto",
+          "matin & soir, Arquèves, Raincheval, St-Léger.",
+          "Aujourd'hui, pareillement. Matinée,",
+          "vu M. Guibet, à Raincheval...",
+          "Après-midi, à Hédauville, route de",
+          "Varennes, où retrouvé 150 Coy, 18th Divon",
+          "ds 1 terrain fangeux, à 50 m. de la route.",
+          "Morris, était out riding —",
+          "Temps + froid, neigé 1 peu, puis pluie",
+          "fine — Toute la nuit & durant journée",
+          "très violente canonnade.",
+          "[ — Avis de réception pour Imbert : 15 c [?] — ]"
+        ]
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105908.jpg",
+          "detail": "L’agrandissement donne « Chants du jour », sans preuve de chants d’adieux. Le prix final est 15 c [?]."
+        }
+      ]
+    },
+    {
+      "scan_num": 122,
+      "filename": "20251126_105920.jpg",
+      "originals": {
+        "historique": "\\textbf{l.~2--3 très violente canonnade s/ ligne de Miraumont :} Le 10 et le 11 janvier 1917, la 7\\textsuperscript{e} Division britannique (V\\textsuperscript{e} Corps) attaque et enlève la crête de Beaumont-Hamel dominant le vallon de Miraumont et de Grandcourt, capturant plus de 200 prisonniers allemands."
+      },
+      "changes": {
+        "historique": "\\textbf{Miraumont :} Combes situe la canonnade sur la « ligne de Miraumont » sans identifier une unité attaquante ni une opération précise. Le mandat à Imbert concerne explicitement la réparation du pince-nez et un exemplaire neuf d’après ordonnance."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105920.jpg",
+          "detail": "Les dates, divisions et prises de prisonniers de l’ancienne note n’étaient pas sourcées par le passage."
+        }
+      ]
+    },
+    {
+      "scan_num": 123,
+      "filename": "20251126_105931.jpg",
+      "originals": {
+        "lines": [
+          "13 Sam. \\hfill Janv. /17",
+          "Tout le jour, pluie fine et (neige fondue)",
+          "brouillard froid —",
+          "Après-midi, course en auto à Beaucourt &",
+          "Montigny.",
+          "Matin, au bureau mission Ve corps : vu",
+          "Cap. Huguet; mon départ fixé défint au 26 ct —",
+          "14 D. Neige tombé à gros flocons durant",
+          "matinée entière. Toits & arbres recouverts couche",
+          "blanche. Branches entt jolies avec ce léger",
+          "duvet — ainsi ouatées.",
+          "Après-midi, courses à Louvencourt et",
+          "à St-Léger.",
+          "15 L. Pluie fine, par intermittence.",
+          "Course à Doullens. Paysages, asz pittoresques",
+          "au-delà de Beauquesne. Champs couverts de",
+          "neige. Masses sombres des arbres. Arbres &",
+          "maisons de village se détachent davantage",
+          "au 1/2 du blanc (Raincheval). Brume monte.",
+          "2 h. de liberté à Doullens : visité ville,",
+          "arrêt église etc.",
+          "[ — 2 douz. ctes ples : 1 f. — Lunch : 1 f 90",
+          "— 1 plaque chocolat : 60 c — ]"
+        ],
+        "critique": "\\textbf{l.~10--11 Branches entt jolies avec ce léger duvet — ainsi ouatées / l.~16--19 Masses sombres des arbres... se détachent davantage au 1/2 du blanc :} Notations de peintre et de photographe amateur (Hippolyte Combes pratiquait la photographie depuis son séjour en Angleterre), attentif aux valeurs de contraste entre le noir des fûts mouillés et la blancheur de la neige.",
+        "historique": "\\textbf{l.~6--7 bureau mission Ve corps : vu Cap. Huguet ; mon départ fixé défint au 26 ct :} En janvier 1917, le V\\textsuperscript{e} Corps britannique relève le XIII\\textsuperscript{e} Corps à Acheux ; le capitaine Huguet demeure à la tête du bureau de la Mission française du corps d'armée et arrête au vendredi 26 janvier le départ en permission d'Hippolyte Combes.",
+        "title": "FOLIO 61 VERSO (Fixation de la permission au 26 janvier, arbres ouatés de neige et course à Doullens)"
+      },
+      "changes": {
+        "lines": [
+          "13 Sam. \\hfill Janv. /17",
+          "Tout le jour, pluie fine et (neige fondue)",
+          "brouillard froid —",
+          "Après-midi, course en auto à Beaucourt &",
+          "Montigny.",
+          "Matin, au bureau mission Ve corps : vu",
+          "Cap. Huguet; mon départ fixé défint au 26 ct —",
+          "14 D. Neige tombé à gros flocons durant",
+          "matinée entière. Toits & arbres recouverts couche",
+          "blanche. Branches extt jolies avec ce léger",
+          "duvet — ainsi ouatées.",
+          "Après-midi, courses à Louvencourt et",
+          "à St-Léger.",
+          "15 L. Pluie fine, par intermittence.",
+          "Course à Doullens. Paysages, asz pittoresques",
+          "au-delà de Beauquesne. Champs couverts de",
+          "neige. Masses sombres des arbres. Arbres &",
+          "maisons de village se détachent davantage",
+          "au 1/2 du blanc (Raincheval). Brume monte.",
+          "2 h. de liberté à Doullens : visité ville,",
+          "arrêt église etc.",
+          "[ — 2 douz. ctes ples : 1 f. — Lunch : 1 f 90",
+          "— 1 plaque chocolat : 60 c — ]"
+        ],
+        "critique": "\\textbf{l.~10 extt :} Contraction d’extrêmement. \\textbf{l.~16--19 :} Contraste visuel des arbres et maisons sur la neige; nul besoin de supposer ici une pratique photographique pour expliquer cette notation.",
+        "historique": "\\textbf{Départ annoncé :} Au bureau de mission du Ve corps, Combes voit Huguet et apprend que son départ est définitivement fixé au 26 courant. L’entrée ne décrit ni la relève d’un corps d’armée ni la chaîne de commandement de la mission.",
+        "title": "Départ fixé au 26 janvier, arbres ouatés de neige et course à Doullens"
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105931.jpg",
+          "detail": "La contraction avant jolies est extt et non entt. La page fixe le départ mais ne documente pas à elle seule une réorganisation de corps."
+        },
+        {
+          "source": "scans_haute_qualite/20251126_105931.jpg",
+          "detail": "Métadonnées ajustées aux leçons et réserves de la collation; aucune précision supplémentaire imposée au témoin."
+        }
+      ]
+    },
+    {
+      "scan_num": 124,
+      "filename": "20251126_105945.jpg",
+      "originals": {
+        "critique": "\\textbf{l.~19--21 Ns a montré ses objets d'art précieux : notamt et surtout un coffret en paille acheté en 1858 au bagne de Toulon :} Détail curieux et authentique qui ravit l'amateur d'art et rappelle à Hippolyte Combes son propre passage en garnison à Toulon au printemps 1915.",
+        "historique": "\\textbf{l.~14--18 Auxi-le-Château, ch. M. Renard :} Situé dans la vallée de l'Authie (Pas-de-Calais) à 15 km au nord-ouest de Doullens, Auxi-le-Château marque la limite occidentale des tournées d'achat de fourrage du secteur."
+      },
+      "changes": {
+        "critique": "\\textbf{l.~19--21 coffret en paille :} Lecture visuelle conservée, et non coffret en os. La date 1858 et l’achat au bagne de Toulon sont des renseignements rapportés dans le carnet.",
+        "historique": "\\textbf{Auxi-le-Château :} Visite et déjeuner chez M. Renard qui montre des objets d’art, notamment le coffret. Cette étape ne suffit pas à établir la limite occidentale administrative de tout le service des fourrages."
+      },
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105945.jpg",
+          "detail": "Le coffret en paille est net; le plaisir et le souvenir personnel de Toulon prêtés à Combes ne sont pas écrits."
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "scan_num": 63,
+      "filename": "20251126_103538.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Déchiffrement de la petite addition « station » et distribution interlinéaire à contrôler; la lecture « venu à pied » est nette."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103538.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 64,
+      "filename": "20251126_103554.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Le tiret et les points initiaux indiquent une continuation; la séparation des dépenses est graphique."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103554.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 65,
+      "filename": "20251126_103743.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Départ: parenthèse initiale très contractée; la somme après Métro paraît 1 f / 15 c, disposition à vérifier."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103743.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 66,
+      "filename": "20251126_103755.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Le terme anglais « shifté » est pâle et repassé; le sens général de déplacement est assuré."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103755.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 67,
+      "filename": "20251126_103816.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom de la logeuse laissé en blanc après Mme Ve; le surnom ou nom Tait dans la dépense est fortement repassé."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103816.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 68,
+      "filename": "20251126_103828.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Le nombre de jours de septembre est laissé en blanc par le scripteur."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103828.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 69,
+      "filename": "20251126_103845.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103845.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 70,
+      "filename": "20251126_103857.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "l.15: le mot entre « ciel » et « éclairé » est très contracté; la lecture « maint » ne constitue pas un mot assuré."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103857.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 71,
+      "filename": "20251126_103913.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La fin de la phrase de chargement est condensée mais champs/chargement/luzerne/bois sont visibles; ne pas remplacer par une scène de transport reconstruite."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103913.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 72,
+      "filename": "20251126_103948.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_103948.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 73,
+      "filename": "20251126_104011.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104011.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 74,
+      "filename": "20251126_104027.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom attendu après « Au delà de » laissé en blanc."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104027.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 75,
+      "filename": "20251126_104057.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Les unités sont décrites sans permettre de calculer une distance exacte de marche."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104057.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 76,
+      "filename": "20251126_104118.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "« jour et nuit constant » est une phrase elliptique; ne pas y introduire des ferrailles ni un bruit absent."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104118.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 77,
+      "filename": "20251126_104143.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La syntaxe de « Lieu laissé par ceux qui / séjourné ici avant ns » reste abrupte."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104143.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 78,
+      "filename": "20251126_104157.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Passim est lisible; le signe égal final abrège vraisemblablement « même »."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104157.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 79,
+      "filename": "20251126_104222.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104222.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 80,
+      "filename": "20251126_104235.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "« brickfield area » est un désignatif anglais; sa localisation exacte et l’origine des tirs exigent une source distincte."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104235.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 81,
+      "filename": "20251126_104314.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La page décrit les effets et éclairs de la canonnade, sans identifier les objectifs des pièces."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104314.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 82,
+      "filename": "20251126_104331.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104331.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 83,
+      "filename": "20251126_104346.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "l.8: millésime très contracté, 1914 [?]; c’est la datation donnée par le diariste, à distinguer de la chronologie historique des dommages."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104346.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 84,
+      "filename": "20251126_104400.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Identification du cratère à Lochnagar probable d’après le site; le diariste ne le nomme pas."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104400.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 85,
+      "filename": "20251126_104418.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom de l’adjudant lu Liepin/Lépin: graphie à harmoniser après confrontation prosopographique, sans imposer une identité."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104418.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 86,
+      "filename": "20251126_104440.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Développement de R.F. vraisemblable, non certain à partir de cette seule occurrence."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104440.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 87,
+      "filename": "20251126_104459.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Maral logis et artrie sont des contractions françaises; ne pas confondre le fils aîné et le plus jeune fils Abel."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104459.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 88,
+      "filename": "20251126_104515.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104515.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 89,
+      "filename": "20251126_104547.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Le grade et la nationalité du général sont notés, son nom reste inconnu; le service futur n’est pas nommé XIIIe Corps dans ces lignes."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104547.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 90,
+      "filename": "20251126_104601.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Noms des officiers repassés: Hughes et Grose paraissent lisibles; identité complète à établir hors du manuscrit."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104601.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 91,
+      "filename": "20251126_104623.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "D.O.S.T. reste un sigle sans développement assuré; mêmes lignes au scan 093."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104623.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 92,
+      "filename": "20251126_104636.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Divon est une contraction de Division; le nom Jamet est fortement cursif mais compatible."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104636.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 93,
+      "filename": "20251126_104647.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Même page physique que le scan 091: le montant 58 f 75 et la retenue de 30 f sont identiques."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104647.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 94,
+      "filename": "20251126_104702.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Le passage après « Très bien reçu » est obscur: noter l’ellipse sans lui assigner un sens psychologique certain. Le nom des logeurs n’est pas donné ici."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104702.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 95,
+      "filename": "20251126_104714.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Graphie du nom de la ferme Belle-Église; famille de l’exploitant absente de cette page."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104714.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 96,
+      "filename": "20251126_104728.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104728.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 97,
+      "filename": "20251126_104739.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom de l’interprète lu Sorgues [?], à vérifier sans créer de notice biographique certaine."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104739.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 98,
+      "filename": "20251126_104801.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Les mots descriptifs après « paysage anglais » sont contractés. Le casque est noté peint, non acheté. Les boutons sont « simili-cuir », non cuir tressé."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104801.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 99,
+      "filename": "20251126_104814.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom de l’interprète laissé en blanc dans le témoin; Deloney ne peut être introduit qu’en identification hypothétique."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104814.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 100,
+      "filename": "20251126_104831.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La comparaison sonore ne suffit pas à reconnaître une technique précise de barrage."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104831.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 101,
+      "filename": "20251126_104849.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Itinéraire de nuit: toponyme après « Au retour, arrêt à » très contracté, Contay [?]."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104849.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 102,
+      "filename": "20251126_104903.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Les groupes précédant « dysenterie » et qualifiant les selles sont très difficiles; présence de sang non établie. Nom du tailleur Carluvant [?]."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104903.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 103,
+      "filename": "20251126_104916.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La notation des côtés de chaussée l.16–17 reste elliptique. Bourbiers est bien visible."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104916.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 104,
+      "filename": "20251126_104932.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom des propriétaires lu Bertin [?], première lettre incertaine; la distance aux tranchées et une évacuation imposée ne sont pas établies ici."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104932.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 105,
+      "filename": "20251126_104946.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La qualification « tant surpris » à l’arrivée de Williams reste très contractée; nom abrégé Cap. H. non développé dans ce passage."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_104946.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 106,
+      "filename": "20251126_105005.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom de Mme Guerle [?] à confirmer; le versement de 78 f 75 est attesté sans établir une règle universelle de solde."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105005.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 107,
+      "filename": "20251126_105017.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Le montant 50 £ a year est un propos rapporté par Williams; la cause de sa promotion n’est pas fournie."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105017.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 108,
+      "filename": "20251126_105046.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom de la fermière Houthouan [?] fortement cursif; vibrations notées après les coups, sans identification de calibre."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105046.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 109,
+      "filename": "20251126_105057.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Le jugement précédant « ce gosse de Williams » est difficile; autoritaire [?] demeure une hypothèse. Nom Croughton [?]."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105057.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 110,
+      "filename": "20251126_105112.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La réunion de réfugiés est mentionnée sans ordre du jour ni détail des indemnités."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105112.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 111,
+      "filename": "20251126_105125.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La ferme du Quesnoy n’est pas localisable avec précision à partir de cette seule entrée."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105125.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 112,
+      "filename": "20251126_105142.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Déplacement chronologique par rapport à 113; la lettre du 17 n’est pas reproduite et ses propres mots restent inconnus."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105142.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 113,
+      "filename": "20251126_105155.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Développement Army P. Board plausible en Purchase Board, non développé dans le témoin; montant 84 fr. sans ventilation."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105155.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 114,
+      "filename": "20251126_105239.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Le calme de la canonnade est un constat local; aucune trêve négociée ou générale n’est attestée."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105239.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 115,
+      "filename": "20251126_105252.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Guibet est cursif; la brièveté de l’arrêt à Doullens est certaine, son responsable n’est pas nommé."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105252.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 116,
+      "filename": "20251126_105400.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom de la troupe Archie Singers cursif; sa composition en artilleurs antiaériens n’est pas établie par le seul nom."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105400.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 117,
+      "filename": "20251126_105411.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Dépense: les postes 45+10+1+22 font 78, alors que total écrit 88; conserver les chiffres et signaler l’écart plutôt que corriger silencieusement."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105411.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 118,
+      "filename": "20251126_105428.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Nom Carluvant [?]; nouveau est biffé devant propriétaire. Chambre chaude est net. L’expertise n’est pas qualifiée de contradictoire par le scripteur."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105428.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 119,
+      "filename": "20251126_105446.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "Rue de l’Hôtel de la Paix laissée sans nom; sens précis du qualificatif ocre pour les gravures à confirmer."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105446.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 120,
+      "filename": "20251126_105848.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "l.19: après location, le mot paraît « battage », quoique le contexte antérieur concerne une machine à battre; ne pas imposer « batteuse » sans réserve. l.12: duos très g., dernière contraction difficile."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105848.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 121,
+      "filename": "20251126_105908.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "« Chants du jour » paraît préférable à « du soir », sans allusion explicite à des adieux; dernier prix postal 15 c [?]."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105908.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 122,
+      "filename": "20251126_105920.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "La canonnade est située sur la ligne de Miraumont par Combes; identifier un assaut donné exige une source distincte."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105920.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 123,
+      "filename": "20251126_105931.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "« Ve corps » est lisible, mais ne suffit pas à établir une relève complète du XIIIe corps à Acheux. Le motif du départ au 26 n’est pas précisé dans cette ligne."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105931.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    },
+    {
+      "scan_num": 124,
+      "filename": "20251126_105945.jpg",
+      "niveau": "collation_ligne_a_ligne",
+      "remaining_uncertainties": [
+        "L’objet est un coffret en paille et la date d’achat 1858, selon le récit; son identité matérielle et sa provenance documentaire ne sont pas vérifiables par ce seul témoignage."
+      ],
+      "evidence": [
+        {
+          "source": "scans_haute_qualite/20251126_105945.jpg",
+          "detail": "Confrontation visuelle de toutes les lignes avec la photographie haute qualité; leçons courantes conservées hors corrections proposées."
+        }
+      ]
+    }
+  ]
+}

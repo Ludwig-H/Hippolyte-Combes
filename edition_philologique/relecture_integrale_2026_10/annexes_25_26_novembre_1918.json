@@ -1,0 +1,294 @@
+{
+  "method": {
+    "date": "2026-10-15",
+    "authority": "Lecture visuelle directe du JPEG et des images incorporées au PDF ; aucune transcription antérieure, aucun OCR ou modèle de génération ne sert de preuve.",
+    "display": "Cadrages et rotations de lecture sans retouche dans /tmp ; coordonnées rapportées au JPEG original ou à l’image incorporée dans la page PDF.",
+    "conventions": "Transcription de travail avec retours à la ligne du témoin ; espaces et ponctuation de lecture. [?] ou mots entre crochets suivis de ? : proposition ; [illis.] : tracé non déchiffré, sans constat de lacune du papier ; ⟦...⟧ : suppression ; ajout suscrit décrit. Les deux panneaux écrits du JPEG et les deux cartes écrites en page 1 du PDF ont été examinées intégralement.",
+    "limits": "Plusieurs groupes restent réservés ; la lecture complète des faces ne vaut pas déchiffrement complet. La page 2 du PDF porte les deux faces illustrées des cartes, sans texte manuscrit de correspondance.",
+    "independent_comparison": "Contrôle indépendant des passages de visite par un second lecteur : absence de Marcel confirmée, pauvre défunt confirmé ; plusieurs lectures de détail restent réservées.",
+    "material_relationship": "Les deux panneaux du JPEG portent chacun Carte Postale ; leur relation recto/verso n’est pas établie. Les deux cartes écrites de la page1 du PDF ont deux illustrations en page2, sans attribution individuelle certaine ici."
+  },
+  "documents": [
+    {
+      "date": "1918-11-25",
+      "source": "archives_militaires/lettres_de_guerre/lettre à bonne maman 25 novembre 1918.jpg",
+      "sha256": "c670ea4ad73329351c2c19915d35a90b108fe7ad368433bb49d90eb19cb840c8",
+      "source_dimensions": [
+        1632,
+        2128
+      ],
+      "faces": [
+        {
+          "face": "face écrite 1, panneau supérieur du JPEG",
+          "page": 1,
+          "bbox_pixels_source": [
+            0,
+            0,
+            1632,
+            1045
+          ],
+          "lines": [
+            "Paris, lundi 25 novembre 1918",
+            "11 h. matin",
+            "Ma Chérie, ce matin à",
+            "6 h., enfin je me suis retrouvé dans cette",
+            "ville que je préfère à toutes les autres capitales",
+            "du monde. Je ne repartirai que demain.",
+            "Je n’ai pas voulu descendre chez tes cousines,",
+            "à Neuilly, afin de ne point les déranger,",
+            "et aussi pour me sentir plus libre. Cet",
+            "après-midi j’irai les voir. Toutefois, si",
+            "l’on me prie, j’accepterai à déjeuner",
+            "demain seulement.",
+            "[Avec ?] plaisir, je suis comme un",
+            "voyageur ⟦[illis.]⟧",
+            "[illis.] pays [neuf ?]. Je n’ai pu me",
+            "loger [ajout suscrit : faute de place] dans mon hôtel de",
+            "prédilection, University Hôtel, 160, rue St-Jacques,",
+            "tout près de l’École de Droit. J’ai pris une",
+            "jolie chambre à l’Hôtel du Panthéon, en",
+            "face, sur le devant. Tout à l’heure, je",
+            "me suis débarbouillé et bien reposé !",
+            "Je t’écris dans la grande salle",
+            "de la Bibliothèque Geneviève. Que de fois,",
+            "[illis.] m’y a-t-elle accompagné ! Elle",
+            "[illis.] à côté de moi. Comme je serais",
+            "heureux de te posséder, de te sentir"
+          ],
+          "marginal_notes": [
+            {
+              "placement": "marge, après rotation de lecture",
+              "lines": [
+                "Mes plus doux baisers.",
+                "Ton petitou qui t’aime si tendrement — Hippolyte."
+              ]
+            }
+          ],
+          "remaining_uncertainties": [
+            "Début de la phrase avant « je suis comme un voyageur », texte biffé et groupe avant « Je n’ai pu me » : réserves maintenues.",
+            "Groupes de la fin de face après « Que de fois » et avant « à côté de moi » non déchiffrés ; aucun supplément biographique."
+          ]
+        },
+        {
+          "face": "face écrite 2, panneau inférieur du JPEG",
+          "page": 1,
+          "bbox_pixels_source": [
+            0,
+            1060,
+            1632,
+            2128
+          ],
+          "lines": [
+            "tout près de moi ! Courage et confiance, notre",
+            "séparation finira bientôt.",
+            "Ma nouvelle affectation, à défaut",
+            "d’avantages plus appréciables, aura du moins",
+            "celui de m’avoir bien rapproché de Paris, 102",
+            "kilomètres environ. De jeudi au dimanche,",
+            "sans doute j’obtiendrai facilement des",
+            "permissions de 24 heures. Ainsi je pourrai me",
+            "rendre soit à Rouen, soit dans la capitale",
+            "et aussi — et surtout — à Nogent-le-Rotrou.",
+            "J’éprouverai une satisfaction profonde quand",
+            "je reverrai mon chez moi du Perche,",
+            "quitté depuis près de 4 ans. La maison",
+            "que j’habite à Nogent, 17, rue Saint-Hilaire,",
+            "est autrement jolie et pittoresque que celle",
+            "de Toulouse, rue de Languedoc, [24 ?]. Elle a",
+            "un petit air flamand qui lui donne une",
+            "certaine originalité.",
+            "[Santé ?] toujours parfaite. Je ne me",
+            "suis jamais mieux porté, me semble-t-il.",
+            "[Enfin ?] je me ressemble tout à fait, malgré les",
+            "[illis.], et attends sans fièvre les",
+            "événements. Je ne tarderai pas à recouvrer",
+            "ma liberté entière et définitive. Ne t’alarme",
+            "point au sujet de notre fillette. Elle prendra",
+            "le dessus et grossira à l’aise à partir du",
+            "3ème mois."
+          ],
+          "marginal_notes": [
+            {
+              "placement": "marge, après rotation de lecture",
+              "lines": [
+                "Tu peux m’écrire à l’adresse que je t’ai indiquée dimanche."
+              ]
+            }
+          ],
+          "remaining_uncertainties": [
+            "Numéro de la maison toulousaine, lu 24 avec réserve.",
+            "Premier mot de la notation sur la santé et groupe suivant « malgré les » réservés."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1918-11-26",
+      "source": "archives_militaires/lettres_de_guerre/lettre du 26 novembre 1918.pdf",
+      "sha256": "fea4ce4c4528183d2eb9c95b630bba574731505d845a6f380db4c03ca354ccff",
+      "pdf_pages": 2,
+      "faces": [
+        {
+          "face": "première carte écrite, moitié supérieure de la page 1 du PDF",
+          "page": 1,
+          "embedded_image_dimensions": [
+            2480,
+            3507
+          ],
+          "bbox_pixels_image_embedded": [
+            510,
+            60,
+            2210,
+            1160
+          ],
+          "lines": [
+            "Paris, mardi 26 novembre 1918",
+            "11 h. matin",
+            "Ma Margueritou tant aimée,",
+            "Me voici de nouveau installé",
+            "dans la grande salle de la Bibliothèque",
+            "Sainte-Geneviève. Comme je m’y plais !",
+            "Tant de souvenirs me la rendent",
+            "chère ! Devant moi, sur la table, j’ai",
+            "des revues françaises et un volume de",
+            "Maeterlinck. Mais, au lieu de lire, je",
+            "fais ma petite correspondance.",
+            "J’ai passé une excellente nuit.",
+            "Je me suis bien reposé. Ce soir, je",
+            "continuerai et terminerai mon voyage.",
+            "Je prendrai l’express du Havre, à",
+            "[illis.] [groupe traversé de traits : gare St-Lazare, j’arriverai] à",
+            "certainement après minuit. Peu m’importe !",
+            "Partant par le dernier train, j’aurai",
+            "pu rester qq heures de plus dans la",
+            "Capitale.",
+            "Hier, j’ai fait une très",
+            "longue visite aux Cousines Faure. M[me ?] [illis.]",
+            "descendait l’escalier, comme j’arrivais",
+            "sur le 2ème étage, elle sortait avec ses",
+            "[voisines ?], les dames [illis.], auxquelles",
+            "elle m’a présenté. Elle a renoncé à"
+          ],
+          "marginal_notes": [
+            {
+              "placement": "marge de la première carte",
+              "lines": [
+                "Mes plus tendres baisers pour toutes deux.",
+                "Ton mari qui t’aime [tendrement ?]."
+              ]
+            }
+          ],
+          "remaining_uncertainties": [
+            "Groupe initial avant gare St-Lazare non établi : ne pas reprendre les horaires de la transcription précédente. Des traits traversent ce groupe ; la distinction des reprises et du texte primitif demande encore contrôle.",
+            "Désignation abrégée après Faure, puis patronyme des dames : non établis.",
+            "Dernier mot de la formule marginale réservé."
+          ]
+        },
+        {
+          "face": "seconde carte écrite, moitié inférieure de la page 1 du PDF",
+          "page": 1,
+          "embedded_image_dimensions": [
+            2480,
+            3507
+          ],
+          "bbox_pixels_image_embedded": [
+            510,
+            1160,
+            2210,
+            2310
+          ],
+          "lines": [
+            "sa promenade, pour me recevoir. Je",
+            "l’avais priée de n’en rien faire. Germaine",
+            "était aussi là, elle préparait ses devoirs.",
+            "J’ai pu causer durant plusieurs heures avec",
+            "Marguerite. Elle m’a raconté son pèlerinage",
+            "bien triste à [Moyenneville ?]. Nous avons",
+            "longuement parlé du pauvre défunt.",
+            "[Toi ?] et notre fillette, naturellement,",
+            "[avez ?] été l’inépuisable sujet de nos conversations.",
+            "Ta Cousine [veut ?] t’écrire elle-même ce",
+            "qu’elle pense et qu’elle te conseillerait.",
+            "Je suis entièrement de son avis. Je te",
+            "résumerai en qq mots ce qu’elle m’a",
+            "dit à propos de notre mignonne Valentine.",
+            "Tu ne dois point t’inquiéter, ni t’énerver ;",
+            "avec le temps, l’enfant prendra le",
+            "dessus et deviendra magnifique, comme",
+            "le petit Bonhomme, que tu as vu,",
+            "paraît-il, à Paris, chez les locataires du",
+            "rez-de-chaussée, 26, rue d’[Angoulême ?] ;",
+            "il était alors bien chétif, bien menu.",
+            "Sois calme, patiente et surtout",
+            "écoute ton excellente mère : apprends à",
+            "dormir. Le sommeil t’est aussi nécessaire",
+            "que le lait à la fillette."
+          ],
+          "marginal_notes": [],
+          "remaining_uncertainties": [
+            "Toponyme du pèlerinage et nom de la rue réservés.",
+            "Verbe veut/peut avant t’écrire réservé ; début et accord de la phrase sur toi et notre fillette à contrôler."
+          ]
+        }
+      ],
+      "illustrated_page": {
+        "page": 2,
+        "observation": "Deux vues de l’Opéra de Paris et de son Grand Escalier : Porte Monumentale des Baignoires et Génie de la Lumière. Pas de récit manuscrit de captivité."
+      }
+    }
+  ],
+  "corrections_to_previous_annex": [
+    {
+      "source": "archives_militaires/lettres_de_guerre/lettre à bonne maman 25 novembre 1918.jpg",
+      "page": 1,
+      "passage": "Moitié supérieure : annonce de visite à Neuilly",
+      "previous": "Le cousin Marcel a dû arriver hier d’Allemagne ; joie de la famille.",
+      "verified": "Cet après-midi j’irai les voir. Toutefois, si l’on me prie, j’accepterai à déjeuner demain seulement.",
+      "finding": "La phrase antérieure sur Marcel et son retour d’Allemagne est absente du témoin."
+    },
+    {
+      "source": "archives_militaires/lettres_de_guerre/lettre du 26 novembre 1918.pdf",
+      "page": 1,
+      "passage": "Fin de la première carte et début de la seconde",
+      "previous": "Marcel libéré, sans nouvelles, trajet Hollande/Danemark/Écosse/Angleterre/Cherbourg/Le Havre.",
+      "verified": "Visite aux Cousines Faure ; rencontre dans l’escalier ; promenade abandonnée pour recevoir Combes ; Germaine et ses devoirs ; conversation avec Marguerite.",
+      "finding": "Aucune de ces mentions de captivité ou de rapatriement ne figure dans les deux faces écrites ni la marge."
+    },
+    {
+      "source": "archives_militaires/lettres_de_guerre/lettre à bonne maman 25 novembre 1918.jpg",
+      "page": 1,
+      "passage": "Maison de Nogent et comparaison, moitié inférieure",
+      "previous": "Comparaison avec la maison des bords de la Dourbie ; cabinet aux deux fenêtres de lierre et vigne ; future visite par express.",
+      "verified": "Comparaison avec une maison de Toulouse, rue de Languedoc, numéro réservé.",
+      "finding": "Les détails antérieurs du cabinet, du lierre, de la vigne et de la visite en train ne figurent pas dans le témoin."
+    },
+    {
+      "source": "archives_militaires/lettres_de_guerre/lettre du 26 novembre 1918.pdf",
+      "page": 1,
+      "passage": "Première carte : trajet ; seconde carte : enfant",
+      "previous": "Départ10h15, arrivée9h30, attente1heure ; bébé sauvé puis garçon superbe ; enfance menue de Germaine.",
+      "verified": "Express du Havre et gare St-Lazare ; arrivée après minuit ; autre bébé vu chétif et menu, conseil de sommeil à Marguerite.",
+      "finding": "Les horaires et développements antérieurs ne suivent pas le texte ; la nouvelle transcription conserve les incertitudes visibles."
+    }
+  ],
+  "prosopography": "L’annexe familiale propose l’identification de Marcel Faure au futur Compagnon de la Libération. La présence de Marcel dans le carnet en janvier 1917 ne permet pas à elle seule d’exclure un enfant né en 1906. La captivité, qui créait une incompatibilité, est absente des lettres des 25/26 novembre vérifiées : l’attribution familiale reste à vérifier indépendamment.",
+  "generator_replacements": {
+    "before_sha256": "56297a29f709124264a8f2648a85b8e576c995de4afb4524afe74f0651e8f521",
+    "after_sha256": "000a39384e8e76f58669ede7daa861aa9fb60718af240a9cdd8ae952fb0cdaa2",
+    "ast_outside_authorised_prose_unchanged": true,
+    "other_letters_preserved_byte_for_byte": true,
+    "quotes": [
+      {
+        "marker": "Première lettre-carte de Paris",
+        "previous_quote_sha256": "79a3153a06409ca158091f21d184c438bb6037291d204d5be1f10ceec96e852b",
+        "new_quote_sha256": "9ad08734deb4c742a886f76625b85a1c9cb013e66ea1a0bc8e75d1024be9f80d"
+      },
+      {
+        "marker": "Deuxième lettre-carte de Paris",
+        "previous_quote_sha256": "048de4fc1beba134955641aec5733e1a04bbb4129038910289e4050c0383dca2",
+        "new_quote_sha256": "2a5cd69330fc7ce3be5a95322c199d4bda9ba71388328d56dc9de5257aa708a8"
+      }
+    ],
+    "prosopography_updated": "Faure : absence du récit de captivité dans les sources contrôlées et attribution familiale conservée."
+  }
+}
