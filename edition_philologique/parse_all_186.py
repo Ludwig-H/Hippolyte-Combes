@@ -158,7 +158,7 @@ ABBREV_MAP = [
     # Prepositions, conjunctions, adverbs, pronouns
     (r"\bju\b", "ju", "\\textit{abbr. pro} jusqu'à"),
     (r"\bj'à\b", "j'à", "\\textit{abbr. pro} jusqu'à"),
-    (r"\bj\.\s*à\b", "j. à", "\\textit{abbr. pro} jusqu'à"),
+    (r"\b[jJ]\.\s*à\b", "j. à", "\\textit{abbr. pro} jusqu'à"),
     (r"\bj-à\b", "j-à", "\\textit{abbr. pro} jusqu'à"),
     (r"\bj-au\b", "j-au", "\\textit{abbr. pro} jusqu'au"),
     (r"\bj-aux\b", "j-aux", "\\textit{abbr. pro} jusqu'aux"),
@@ -176,6 +176,7 @@ ABBREV_MAP = [
     (r"\blg\s+de\b", "lg", "\\textit{abbr. pro} le long"),
     (r"\blg\b", "lg", "\\textit{abbr. pro} longtemps"),
     (r"\blgt\.?\b", "lgt", "\\textit{abbr. pro} longtemps"),
+    (r"\bLgt\b", "Lgt", "\\textit{abbr. pro} Longtemps"),
     (r"\blgts\b", "lgts", "\\textit{abbr. pro} longtemps"),
     (r"\blgs\b", "lgs", "\\textit{abbr. pro} longtemps"),
     (r"\blongt\b", "longt", "\\textit{abbr. pro} longtemps"),
@@ -236,6 +237,7 @@ ABBREV_MAP = [
     (r"\babrutisst\b", "abrutisst", "\\textit{abbr. pro} abrutissement"),
     (r"\benchevetrt\b", "enchevetrt", "\\textit{abbr. pro} enchevêtrement"),
     (r"\brenseigts\b", "renseigts", "\\textit{abbr. pro} renseignements"),
+    (r"\bEnregt\b", "Enregt", "\\textit{abbr. pro} Enregistrement"),
     (r"\bcorrespce\b", "correspce", "\\textit{abbr. pro} correspondance"),
     (r"\bCorresp\b", "Corresp", "\\textit{abbr. pro} Correspondance"),
     (r"\bsiton\b", "siton", "\\textit{abbr. pro} situation"),
@@ -253,6 +255,11 @@ ABBREV_MAP = [
     (r"\bimpt\b", "impt", "\\textit{abbr. pro} important"),
     (r"\bexcte\b", "excte", "\\textit{abbr. pro} excellente"),
     (r"\bexcellt\b", "excellt", "\\textit{abbr. pro} excellent"),
+    (r"\bordinre\b", "ordinre", "\\textit{abbr. pro} ordinaire"),
+    (r"\bdouzne\b", "douzne", "\\textit{abbr. pro} douzaine"),
+    (r"\bJournx\b", "Journx", "\\textit{abbr. pro} Journaux"),
+    (r"\bbrches\b", "brches", "\\textit{abbr. pro} branches"),
+    (r"\bBne\b", "Bne", "\\textit{abbr. pro} Bonne"),
     (r"\bsymphe\b", "symphe", "\\textit{abbr. pro} sympathique"),
     (r"\bassz\b", "assz", "\\textit{abbr. pro} assez"),
     (r"\bas\.\s", "as.", "\\textit{abbr. pro} assez"),
@@ -272,6 +279,10 @@ ABBREV_MAP = [
     (r"\baffrt\b", "affrt", "\\textit{abbr. pro} affreusement"),
     (r"\binfinimt\b", "infinimt", "\\textit{abbr. pro} infiniment"),
     (r"\bprofondemt\b", "profondemt", "\\textit{abbr. pro} profondément"),
+    (r"\bprofondt\b", "profondt", "\\textit{abbr. pro} profondément"),
+    (r"\blentemt\b", "lentemt", "\\textit{abbr. pro} lentement"),
+    (r"\bnotamt\b", "notamt", "\\textit{abbr. pro} notamment"),
+    (r"\bcontrt\b", "contrt", "\\textit{abbr. pro} contrairement"),
     (r"\bparallelt\b", "parallelt", "\\textit{abbr. pro} parallèlement"),
     (r"\bparallèlt\b", "parallèlt", "\\textit{abbr. pro} parallèlement"),
     (r"\bcomplètt\b", "complètt", "\\textit{abbr. pro} complètement"),
@@ -312,6 +323,7 @@ ABBREV_MAP = [
     (r"\bKils\b", "Kils", "\\textit{abbr. pro} Kilomètres"),
     (r"\bkil\.", "kil.", "\\textit{abbr. pro} kilomètres"),
     (r"\b\d+\s*k\.\s+de\b", "k.", "\\textit{abbr. pro} kilomètres"),
+    (r"\bHippte\b", "Hippte", "\\textit{scil.} Hippolyte"),
     (r"\bMargte\b", "Margte", "\\textit{scil.} Marguerite (Calmels)"),
     (r"\bMte\b", "Mte", "\\textit{scil.} Marguerite (Calmels)"),
     (r"\bMarg\.", "Marg.", "\\textit{scil.} Marguerite (Calmels)"),
@@ -332,10 +344,15 @@ ABBREV_MAP = [
     (r"\bmilit\.", "milit.", "\\textit{abbr. pro} militaire"),
     (r"\binfrie\b", "infrie", "\\textit{abbr. pro} infanterie"),
     (r"\bD\.on\b", "D.on", "\\textit{abbr. pro} Division"),
+    (r"\bdivon\b", "divon", "\\textit{abbr. pro} division"),
+    (r"\bDivon\b", "Divon", "\\textit{abbr. pro} Division"),
     (r"\bdiv\b", "div", "\\textit{abbr. pro} division"),
-    (r"\boff\.", "off.", "\\textit{abbr. pro} officier(s)"),
-    (r"\boffs\b", "offs", "\\textit{abbr. pro} officiers"),
-    (r"\boff\b(?!\.)", "off", "\\textit{abbr. pro} officier(s)"),
+    (r"\bgal\b", "gal", "\\textit{abbr. pro} général"),
+    (r"\bQt\s*Mr\b", "Qt Mr", "\\textit{angl.} Quartermaster"),
+    (r"(?<![A-Za-z-])\bs-off\.", "s-off.", "\\textit{abbr. pro} sous-officier"),
+    (r"(?<![A-Za-z-])\boff\.", "off.", "\\textit{abbr. pro} officier(s)"),
+    (r"(?<![A-Za-z-])\boffs\b", "offs", "\\textit{abbr. pro} officiers"),
+    (r"(?<![A-Za-z-])\boff\b(?!\.)", "off", "\\textit{abbr. pro} officier(s)"),
     (r"\bLieutt\b", "Lieutt", "\\textit{abbr. pro} Lieutenant"),
     (r"\bLt\b", "Lt", "\\textit{abbr. pro} Lieutenant"),
     (r"\bCap\.\s*W\.", "Cap. W.", "\\textit{scil.} Capitaine Williams"),
@@ -408,7 +425,7 @@ ABBREV_MAP = [
     (r"\b1ère\b", "1ère", "\\textit{scil.} première"),
     (r"\b\d+\s*f\.\s*\d*", "f.", "\\textit{abbr. pro} franc(s)"),
     (r"\b\d+\s*fr\.", "fr.", "\\textit{abbr. pro} franc(s)"),
-    (r"\b\d+\s*c\.", "c.", "\\textit{abbr. pro} centimes"),
+    (r"\b\d+\s*c\.(?!\s*temps\b)", "c.", "\\textit{abbr. pro} centimes"),
     (r"\b\d+\s*[hH]\s*(?:\d+\s*|1/2\s*)?m\.?\b", "m.", "\\textit{abbr. pro} matin"),
     (r"\b\d+\s*[hH]\s*(?:\d+\s*|1/2\s*)?s\.?\b", "s.", "\\textit{abbr. pro} soir"),
     (r"\(\s*bois\s+chateau\b", "(bois", "\\textit{parenthesis non clausa in ms.}"),
@@ -640,7 +657,7 @@ def clean_line_and_extract_note(raw_line, line_no):
     return line, " ".join(dedup_notes)
 
 
-def build_all_186_records(apply_revision=False):
+def build_all_186_records():
     files = get_sorted_scan_filenames()
     docs = parse_docx_blocks()
 
@@ -722,9 +739,6 @@ def build_all_186_records(apply_revision=False):
             "historique": hist_str,
         })
 
-    if apply_revision:
-        from revision_philologique import apply_verified_corrections
-        records = apply_verified_corrections(records, clean_line_and_extract_note)
     return records
 
 

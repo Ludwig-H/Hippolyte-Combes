@@ -532,7 +532,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  "Town Major m'a donné petite chambre, n° 7b,",
                  '1er étage café Charlet, angle rue.',
                  'fenêtre, as. belle vue sur la place et église.',
-                 'Demi-lune brillait entre gds arbres.',
+                 'Pleine lune brillait entre gds arbres.',
                  "Changement plutôt pénible d'habitudes."],
        'critique': "\\textbf{l.~5 ⟦...⟧ Hérissart :} Trois lettres biffées d'un trait épais avant « "
                    "Hérissart ». \\textbf{l.~12--13 Quitté village d'Acheux et surtout maison avec 1 "
@@ -1190,7 +1190,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Bientôt terminé ts mes paquets.',
                  'Temps extrt doux. Soleil pâle très clair.',
                  'Maintenant, quitte sans regrets ce petit',
-                 'village & ⟦Purchase⟧ Board.',
+                 'village & Purchase Board.',
                  'Après breakfast, 9h m., parti en auto pour',
                  'Toutencourt. Ds ce village, laissé tout, ts mes',
                  'sacs au mess des interprètes, n° , rue',
@@ -1208,13 +1208,13 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Liberté entière après-midi. Achevé de',
                  "m'installer pour le mieux ds ma nouvelle",
                  'chambre. Y suis rentré aussitôt après dîner.',
-                 "M'y trouve très bien. 1 table pour écrire —"],
+                 "M'y trouve très bien. 2 tables pour écrire —"],
        'critique': '\\textbf{l.~9 n° , rue de Raincheval :} Espace blanc laissé volontairement après « n° » '
                    'pour compléter ultérieurement le numéro civique du mess des interprètes à Toutencourt. '
                    "\\textbf{l.~14--15 Lieutt Godard :} Le nom « Godard » a été ajouté au crayon gris d'une "
                    'main rapide dans un blanc ménagé après « Lieutt » ! Cette addition en deux temps prouve '
                    "qu'Hippolyte ignorait encore l'orthographe exacte du nom du jeune lieutenant lors de la "
-                   'rédaction initiale. \\textbf{l.~24 1 table pour écrire :} Condition matérielle '
+                   'rédaction initiale. \\textbf{l.~24 2 tables pour écrire :} Condition matérielle '
                    "essentielle au bonheur de l'écrivain-diariste.",
        'historique': '\\textbf{l.~11--13 sur demande instante du Major Levy, je resterai au Purchase Board '
                      ":} C'est la consécration professionnelle du travail accompli par Hippolyte Combes "
@@ -1916,7 +1916,7 @@ SCANS_131_186 = {131: {'title': "Déjeuner à Neuilly chez Mme Faure, visite che
                  'Millencourt & Lavieville.',
                  'Après-midi, en cie Lt Gilbert, allés en auto',
                  'à Puchevillers, Pierregot & Villers-Bocage.',
-                 'Route, auto écrasé lapin sauvage.',
+                 'Route, auto chassé lapin sauvage.',
                  "Ciel d'un bleu pur & intense. Aux arbres,",
                  "bourgeons grossissent à vue d'œil.",
                  'Après tea-dinner, rentré chambre où me',

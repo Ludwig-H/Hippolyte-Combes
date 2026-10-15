@@ -151,7 +151,7 @@ CHAPTERS = [
         "summary": (
             "Ce troisième chapitre (Scans \\#050 à \\#066) forme une respiration lumineuse au milieu du carnet : le récit "
             "intégral de la première permission d'Hippolyte Combes (25 septembre – 6 octobre 1916). Il s'ouvre sur le "
-            "Scan \\#050 (restitué dans la présente édition), qui décrit le réveil à 4 h du matin le 25 septembre, la "
+            "Scan \\#050 (restitué dans la présente édition), qui décrit le réveil à 7 h du matin le 25 septembre, la "
             "dernière corvée de \\textit{green forage} à Forceville avec le lieutenant Ford et l'embarquement à la gare "
             "d'Acheux-Varennes. Après un bombardement aérien nocturne par des \\textit{Taubes} à Longueau (Scan \\#051) et "
             "une journée du 26 septembre à Neuilly chez Mme Faure puis à Paris — où il flâne au square de la Tour "
@@ -413,26 +413,24 @@ def build_spread_latex(rec):
 \\end{{tabular}}}}%
 \\par\\vspace*{{\\fill}}
 % --- Deux registres de commentaires en bas de page (sans intitulés, distingués par filets et mise en page) ---
-\\noindent\\rule{{\\textwidth}}{{0.6pt}}\\par\\vspace{{1.2mm}}
-{{\\scriptsize\\setlength{{\\baselineskip}}{{8.6pt}}%
-\\noindent\\normalfont {crit_str}\\par\\vspace{{1.2mm}}
-\\noindent\\rule{{\\textwidth}}{{0.25pt}}\\par\\vspace{{1.2mm}}
-\\noindent\\hspace*{{3.5mm}}\\parbox{{\\dimexpr\\textwidth-3.5mm\\relax}}{{\\setlength{{\\baselineskip}}{{8.6pt}}\\color{{black!85}}{hist_str}}}\\par}}
+\\noindent\\rule{{\\textwidth}}{{0.5pt}}\\par\\vspace{{1.1mm}}
+{{\\scriptsize\\setlength{{\\baselineskip}}{{8.5pt}}%
+\\noindent\\hangindent=1.5em\\hangafter=1\\normalfont {crit_str}\\par\\vspace{{1.0mm}}
+\\noindent\\rule{{45mm}}{{0.4pt}}\\par\\vspace{{0.9mm}}
+\\noindent\\hspace*{{8pt}}\\parbox{{\\dimexpr\\textwidth-8pt\\relax}}{{\\setlength{{\\baselineskip}}{{8.5pt}}\\color{{black!85}}{hist_str}}}\\par}}
 \\newpage
 % --- En-tête du fac-similé (Page impaire / droite : Scan original) ---
-\\noindent\\rule{{\\textwidth}}{{0.6pt}}\\par\\vspace{{1mm}}
-\\noindent\\textbf{{\\small FAC-SIMILÉ EN VIS-À-VIS — {folio.upper()} (SCAN \\#{scan_num:03d})}} \\hfill {{\\footnotesize\\texttt{{{fname_esc}}}}}\\par\\vspace{{0.5mm}}
-\\noindent{{\\footnotesize\\textit{{Livre-Journal d'Hippolyte Combes}} — {date_str} ({lieu_str})}}\\par\\vspace{{1mm}}
-\\noindent\\rule{{\\textwidth}}{{0.4pt}}\\par\\vspace{{1.5mm}}
-\\par\\vspace*{{\\fill}}
-\\begin{{center}}
+\\noindent\\rule{{\\textwidth}}{{0.6pt}}\\par\\vspace{{0.8mm}}
+\\noindent\\textbf{{\\small FAC-SIMILÉ EN VIS-À-VIS — {folio.upper()} (SCAN \\#{scan_num:03d})}} \\hfill {{\\footnotesize\\texttt{{{fname_esc}}}}}\\par\\vspace{{0.4mm}}
+\\noindent{{\\footnotesize\\textit{{Livre-Journal d'Hippolyte Combes}} — {date_str} ({lieu_str})}}\\par\\vspace{{0.8mm}}
+\\noindent\\rule{{\\textwidth}}{{0.4pt}}\\par\\vspace*{{\\fill}}
+{{\\centering
   \\setlength{{\\fboxsep}}{{1.5mm}}%
   \\setlength{{\\fboxrule}}{{0.4pt}}%
   \\fcolorbox{{gray!55}}{{white}}{{%
-    \\includegraphics[width=0.94\\textwidth,height=0.82\\textheight,keepaspectratio]{{\\facsimiledir/{fname}}}%
-  }}
-\\end{{center}}
-\\par\\vspace*{{\\fill}}
+    \\includegraphics[width=0.94\\textwidth,height=0.75\\textheight,keepaspectratio]{{\\facsimiledir/{fname}}}%
+  }}\\par}}
+\\vspace*{{\\fill}}
 \\noindent\\rule{{\\textwidth}}{{0.4pt}}\\par\\vspace{{0.6mm}}
 \\noindent{{\\scriptsize\\color{{darkgray}}\\textbf{{Source :}} Archives familiales Combes — Cliché numérique \\texttt{{{fname_esc}}} (Scan \\#{scan_num:03d}/186, {folio}). Version haute définition disponible dans \\texttt{{scans\\_haute\\_qualite/{fname_esc}}} ; version allégée dans \\texttt{{scans\\_compresses/{fname_esc}}}.}}
 \\newpage
@@ -629,6 +627,7 @@ La collation intégrale des 186 photographies originales a permis d'établir les
       \item l'abréviation constante \textbf{\textit{cartes p\textsuperscript{les}}} ou \textbf{\textit{ctes p\textsuperscript{les}}} désigne des \textit{cartes postales} (jamais des « cartes photos », ni des « Épingles » aux Scans \#009 et \#043, ni « Étaples » au Scan \#026) ;
       \item la locution \textbf{\textit{ds le champ / ds les champs / ds 1 champ}} aux Scans \#026, \#071, \#072 et \#073 avait été méconnue en « de la Charge / de 1 charge » ;
       \item l'adverbe latin \textbf{\textit{passim}} (« çà et là ») est employé à quatre reprises par l'universitaire lors de ses flâneries dans Albert et Frévent (\textit{erré passim}, Scans \#078 et \#083 ; \textit{Promené lentement passim}, Scan \#086 ; \textit{promené passim}, Scan \#098) ;
+      \item au Scan \#016 (11 août 1916, à Aire-sur-la-Lys), la lecture fautive \textit{« un chef, Mouxie »} a été rectifiée en \textit{« notre g\textsuperscript{al} en chef, Maxse »}, restituant la mention du \textbf{Major-General Sir Ivor Maxse} (1862–1958), commandant la \textit{18th (Eastern) Division} de 1914 à janvier 1917 puis le \textit{XVIII Corps} ;
       \item lors de sa première permission (Scans \#053–\#062), l'examen des clichés a restitué ses achats de livres chez Armand Colin à Paris (\textit{Zyromski : L'orgueil humain} et \textit{Maeterlinck : Les Débris}, Scan \#053), l'achat du \textit{sautoir en or} de 295 francs chez Pfister à Toulouse (Scan \#056) et la présentation de sa fiancée Marguerite (Scan \#060) ;
       \item enfin, au Scan \#168 (13 mars 1917), la lecture exacte \textit{« visite à M. \& Mme Flutre, instituteurs, au Mesnil. Ont le fils, élève de Norm\textsuperscript{le} Sup\textsuperscript{re} »} identifie le village natal de l'érudit et romaniste normalien \textbf{Louis-Fernand Flutre} (né au Mesnil-Martinsart en 1892, promotion 1912 de l'École Normale Supérieure).
     \end{itemize}
@@ -645,8 +644,8 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
       \item \textbf{L'apparat critique marginal}, composé en petits caractères dans la colonne de droite en regard immédiat et dans le prolongement horizontal exact de la ligne concernée : il développe les abréviations tachygraphiques (\textit{scil.}, \textit{abbr. pro}), signale les biffures du manuscrit ($[\![ \dots ]\!]$ \textit{del. in ms.}), identifie les emprunts lexicaux anglais (\textit{angl. in ms.}) ou latins (\textit{lat.}) et précise les particularités matérielles (\textit{in marg. cum unco}).
       \item \textbf{En bas de page, deux registres de commentaires dépourvus d'intitulés répétitifs mais clairement distingués par des filets horizontaux et par leur mise en page :}
         \begin{itemize}
-          \item \textit{Le premier registre}, placé immédiatement sous le filet horizontal principal (\texttt{0,6 pt}) et composé au fer à gauche en romain noir, est consacré à la \textbf{critique interne du carnet} : analyse codicologique et paléographique, génétique des repentirs, syntaxe elliptique, bilinguisme franco-anglais, tenue des comptes et vie intérieure du diariste.
-          \item \textit{Le second registre}, séparé du précédent par un filet horizontal fin (\texttt{0,25 pt}) et composé en léger retrait gauche (\texttt{3,5 mm}), est consacré à l'\textbf{élucidation historique, militaire, topographique et prosopographique} : opérations de la \textit{British Expeditionary Force}, unités britanniques (\textit{18th Division, Royal Fusiliers, Royal Sussex, Bedfordshire Regiment, 152nd Coy A.S.C., XIII\textsuperscript{e} et V\textsuperscript{e} Corps, 63rd Royal Naval Division, 2nd Australian Division}), localités de Flandre, d'Artois et de Picardie, et entourage familial ou universitaire à Paris, Toulouse et Millau.
+          \item \textit{Le premier registre}, placé immédiatement sous le filet horizontal de pleine largeur (\texttt{0,5 pt}) et composé en retrait suspendu (\texttt{\textbackslash hangindent = 1,5 em}), est consacré à la \textbf{critique interne du carnet} : analyse codicologique et paléographique, génétique des repentirs, syntaxe elliptique, bilinguisme franco-anglais, tenue des comptes et vie intérieure du diariste.
+          \item \textit{Le second registre}, séparé du précédent par un filet horizontal court (\texttt{45 mm}, \texttt{0,4 pt}) et composé en retrait gauche (\texttt{8 pt}), est consacré à l'\textbf{élucidation historique, militaire, topographique et prosopographique} : opérations de la \textit{British Expeditionary Force}, unités britanniques (\textit{18th Division, Royal Fusiliers, Royal Sussex, Bedfordshire Regiment, 152nd Coy A.S.C., XIII\textsuperscript{e} et V\textsuperscript{e} Corps, 63rd Royal Naval Division, 2nd Australian Division}), localités de Flandre, d'Artois et de Picardie, et entourage familial ou universitaire à Paris, Toulouse et Millau.
         \end{itemize}
     \end{enumerate}
   \item \textbf{Sur la page de droite (page impaire / recto) :} \textbf{le fac-similé photographique complet} du feuillet manuscrit correspondant, accompagné de ses références archivistiques.
@@ -667,6 +666,7 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 \textbf{Maria} († 1903), \textbf{Françoise} (1871–1942) \& \textbf{Joséphine} (1873–1914) & Les trois sœurs d'Hippolyte Combes : Maria (religieuse décédée à Carthage), Françoise (\textit{Sœur Marie de la Croix}, carmélite à Périgueux, destinataire de la lettre du 16 juin 1916) et Joséphine (décédée à Nogent-le-Rotrou en octobre 1914). \\
 \textbf{Faure, Mme} (Germaine, Marcel, Henri, André) & Cousine d'Hippolyte résidant au 16 rue d'Armenonville à Neuilly-sur-Seine, chez qui il déjeune lors de chacune de ses traversées de Paris (26 septembre 1916 et 27 janvier 1917, Scans \#051 et \#130–\#131). \\
 \textbf{Chilcott, Beatrice} & Amie anglaise d'Hippolyte Combes à l'époque de son séjour d'avant-guerre à Nottingham, signataire du poème autographe conservé dans ses papiers (\textit{Wesley Band of Hope}). \\
+\textbf{Maxse, Major-General Sir Ivor} (1862–1958) & Général britannique commandant la \textit{18th (Eastern) Division} d'octobre 1914 à janvier 1917 (cité par Hippolyte comme « notre g\textsuperscript{al} en chef, Maxse » au Scan \#016, le 11 août 1916 à Aire-sur-la-Lys), puis le \textit{XVIII Corps}. \\
 \textbf{152nd Company, A.S.C.} (\textit{18th Divisional Train}) & Compagnie du Train divisionnaire de la 18\textsuperscript{e} Division britannique (\textit{Army Service Corps}, 54\textsuperscript{e} Brigade), au sein de laquelle Hippolyte sert dès août 1915 et avec laquelle il parcourt Lumbres, Setques, les Flandres, l'Artois et la Somme jusqu'en novembre 1916. \\
 \textbf{Lt. Curtis} (« Ctis ») & Officier britannique des approvisionnements (\textit{Foraging Officer}) de la 18\textsuperscript{e} Division puis du XIII\textsuperscript{e} Corps, compagnon quotidien d'Hippolyte de juillet à décembre 1916 (Scans \#002 à \#105). \\
 \textbf{Capt. Williams} (« Capt. W. ») & Très jeune capitaine britannique (20 ans, ancien \textit{office boy} à 50 £ par an) qui relève le lieutenant Curtis à Acheux le 2 décembre 1916 (Scan \#105) et dirige le bureau des fourrages à Acheux puis Hérissart jusqu'au 10 mars 1917 (Scan \#165). \\

@@ -95,12 +95,12 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                  "constante d'Hippolyte pour \\textit{cartes postales} : \\textit{Cartes "
                  "p\\textsuperscript{les} : d'Ypres : 1 f 20. — C. P. de Renescure : 60 c}, puis \\textit{A "
                  'Hazebrouck : Solde : 84 fr. — Varia : 30 c. — C. p\\textsuperscript{les} : 60 + 10 c — 1 '
-                 'cahier-carbone : 1 f 75} et \\textit{Élastiq. (bretelles) : 65 c}.',
+                 'cahier cartonné : 1 f 50} et \\textit{Élastiq. (bretelles) : 65 c}.',
      'historique': '\\textbf{l.~2--13 Renescure... Hazebrouck :} Parti à pied après le \\textit{breakfast}, '
                    'Hippolyte visite à Renescure le château féodal de Philippe de Commynes (entouré de '
                    "douves et flanqué de tours d'angle) et l'église à double nef, avant de gagner Hazebrouck "
                    "à cheval dans l'après-midi pour toucher sa solde et acheter une carte d'état-major.",
-     'lines': ['Juillet /16',
+     'lines': ['27 J. \\hfill Juillet /16',
                '– Aussitôt après breakfast, venu à pied',
                'à Renescure. Toujours même temps gris et',
                'saturé de mélancolie.',
@@ -113,25 +113,26 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                'Ville parait assez importante',
                'grande place –',
                'Eglise – (avec Square à g.)',
-               'arpenté lgt',
+               'Fin journée mélancolique : arpenté lgt',
                'seul petite allée jardins potagers devant mon',
                'cottage. Temps de brouillard. Silence et',
                'désert funèbre.',
                'A Renescure : boite de plumes : 1 f 50. –',
                '2 carnets timbres-poste : 2 f + 2 f. —',
                "Cartes ples : d'Ypres : 1 f 20. — C. P. de Renescure : 60 c +",
+               'c. ples (varia) : 50 c. —',
                'A Hazebrouck : Solde : 84 fr. — Varia : 30 c. —',
-               'C. ples : 60 + 10 c — \\hfill 1 cahier-carbone : 1 f 75',
-               'Cte d’E. Major : 90 c. – 3 élastiq. de rechange',
-               'Élastiq. (bretelles) : 65 c —']},
+               'C. ples : 60 + 10 c — \\hfill 1 cahier cartonné : 1 f 50',
+               'Cte d’E. Major : 90 c. – Élastiq. (bretelles) : 65 c —']},
  5: {'title': 'Vendredi 28 juillet 1916 — Départ de Lumbres (Mme Donze) et lente chevauchée sous la chaleur '
               "jusqu'au pensionnat protestant d'Ebenezer près de Pradelles",
      'date': 'Vendredi 28 juillet 1916',
      'lieu': 'De Lumbres à Hondeghem, Caëstre et Pradelles (Ebenezer)',
-     'critique': '\\textbf{l.~20--22 Laissé à Mme Donze, de Lumbres :} Aux l.~20--22, le compte de départ '
+     'critique': '\\textbf{l.~20--23 Laissé à Mme Donze, de Lumbres :} Aux l.~20--23, le compte de départ '
                  'confirme de manière décisive le cantonnement des jours précédents à Lumbres : '
                  '\\textit{Laissé à Mme Donze, de Lumbres (pour cuisine 2 f et 1 f pour oeufs \\& lait. — '
-                 'Tip au groom pour soigné poney : 1 f / Cartes p\\textsuperscript{les} : 10 c}.',
+                 'Food (extra) : 10 c, 1 f, 1 f, 60 c. — Tip au groom pour soigné poney : 1 f / Cartes '
+                 'p\\textsuperscript{les} : 10 c}.',
      'historique': "\\textbf{l.~7--17 Contourné Hazebrouck... gde prairie autour d'1 ferme :} Chevauchant de "
                    '8 h 30 à 16 h 30 en tête de la colonne logistique par les chemins sablonneux de Flandre '
                    "bordés de blés et d'avoines, Hippolyte contourne Hazebrouck sous un soleil brûlant et "
@@ -144,27 +145,28 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                'fond en petites gouttelettes. — Journée de mouvt. —',
                'Partis à 8h 1/2. Fait route à cheval, en tête',
                'du convoi. —',
-               'Lente chevauchée',
+               'Lente chevauchée le long de routes sablonneuses',
                'bordées de chaque coté par champs d’avoine ou de',
                'blé – aux épis très beaux & très hauts –',
                'Contourné Hazebrouck par les faubourgs',
                'Peu à peu, soleil ardent perce nuages. Après-',
                'midi et fin journée : chaleur intense –',
-               'parvenus au terme mouvt',
+               'Vers 4h 1/2, enfin, parvenus au terme mouvt',
                'gde prairie autour d’ 1 ferme – Impossible trouver',
                'chambre pour moi – Dû me contenter d’ 1 grenier',
                'Harassé de fatigue, suffoqué de chaleur',
                'Besoin de repos extrême',
                'Laissé à Mme Donze, de Lumbres (pour cuisine 2 f',
-               'et 1 f pour oeufs & lait. — Tip au groom pour soigné poney : 1 f',
+               'et 1 f pour oeufs & lait. —',
+               'Food (extra) : 10 c, 1 f, 1 f, 60 c. — Tip au groom pour soigné poney : 1 f',
                'Cartes ples : 10 c']},
  6: {'title': 'Samedi 29 juillet 1916 — Tournée avec le lieutenant Curtis à Saint-Jans-Cappel et achat de '
               'fourrages au Mont-Noir',
      'date': 'Samedi 29 juillet 1916',
      'lieu': 'Saint-Jans-Cappel et le Mont-Noir (Nord)',
-     'critique': '\\textbf{l.~4, 8, 19--21 Curtis / Ctis / [ Payé à fermière... ] :} Aux l.~4 et 8, le '
+     'critique': '\\textbf{l.~4, 8, 22--24 Curtis / Ctis / [ Payé à fermière... ] :} Aux l.~4 et 8, le '
                  'manuscrit porte \\textit{Curtis} puis son abréviation \\textit{Ctis}. Les trois dernières '
-                 "lignes (l.~19--21), omises dans le premier brouillon Word, sont restituées d'après le "
+                 "lignes (l.~22--24), omises dans le premier brouillon Word, sont restituées d'après le "
                  'cliché : \\textit{[ Payé à fermière où je loge pour 4 oeufs et / 2 litres 1/2 de lait : 1 '
                  'f 60. — / 5 cartes p\\textsuperscript{les} : 50 c. — ]}.',
      'historique': "\\textbf{l.~4--16 St-Jans Cappel... hameau du Mont :} Chargé d'acheter et de faire peser "
@@ -175,7 +177,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
      'lines': ['Sam. 29 \\hfill Juillet 16',
                'Sur pied à 7H 1/2 –',
                'Breakfast à peine terminé, que ce fou de',
-               'Curtis venu me prendre —',
+               'Curtis venu me prendre — Sommes allés chercher fourrage',
                'Ensemble, à St-Jans Cappel, et de là le hameau de ce Mont',
                'Recherché fermes ds ce village et causé longt s/',
                'la dernière attaque à l.q. notre division a pris part',
@@ -192,14 +194,18 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                'St Jans - Cappel',
                '(1) maisons très basses – beaux rideaux aux',
                'fenêtres –',
-               'Eglise au clocher effilé']},
+               'Eglise au clocher effilé',
+               '[ Payé à fermière où je loge pour 4 oeufs et',
+               '2 litres 1/2 de lait : 1 f 60. —',
+               '5 cartes ples : 50 c. — ]']},
  7: {'title': 'Messe dominicale à Saint-Jans-Cappel et corvée de fourrage vert vers Bailleul',
      'date': 'Dimanche 30 et lundi 31 juillet 1916',
      'lieu': 'Saint-Jans-Cappel et Bailleul (Nord)',
      'critique': "\\textbf{l.~2--3 paillasse crevasseuse :} Adjectif dérivé expressif décrivant l'état de sa "
-                 'litière de paille. \\textbf{l.~8 Plein à chaire :} Tour elliptique notant que la nef était '
-                 "bondée jusqu'au pied de la chaire. \\textbf{l.~23--24 conduire 1 waggon to the fields for "
-                 'green forage :} Alternance codique franco-anglaise au sein de la proposition.',
+                 'litière de paille. \\textbf{l.~8--9 Prêtre en chaire... presque en face :} Après le '
+                 "sermon, Hippolyte s'assoit sur un petit pont presque en face de l'église. "
+                 '\\textbf{l.~23--24 conduire 1 waggon to the fields for green forage :} Alternance codique '
+                 'franco-anglaise au sein de la proposition.',
      'historique': '\\textbf{l.~6--8 Église archi-comble. Hommes à d., femmes à g. :} Observation '
                    'ethnographique de la séparation traditionnelle des sexes dans les églises rurales de '
                    'Flandre intérieure. Le lendemain 31 juillet, après une reconnaissance en automobile au '
@@ -213,7 +219,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                'houblonnières au village de St-Jans Cappel.',
                'Eglise archi-comble. Hoes à d., fem. à g.',
                'Prêtre en chaire. Assis s/ un petit pont ruisseau',
-               'manger un pain et lu, ruminé à mon aise',
+               'presque en face et lu, ruminé à mon aise',
                'Resté grenier, presque tt l’après-midi, dormi,',
                'lu, et écrit –',
                'D’une fenêtre latérale, regardé la campagne',
@@ -226,10 +232,10 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                'Matin, en auto avec mes off. : au',
                'refilling point, puis à Bailleul, enfin',
                'chez fermier Terrien –',
-               'en plein soleil cuisant ai',
-               'dû conduire',
+               'Après-midi, en plein soleil cuisant ai',
+               'dû conduire 1 waggon to the fields',
                'for green forage. Chaleur extrême',
-               'champs attenant',
+               'Fin jour, promené et assis champs attenant',
                'à ma ferme – Sur crête boisée, moulins',
                'à vent, tournent sans cesse']},
  8: {'title': 'Première promenade à Bailleul : la Grand-Place et le beffroi',
@@ -299,32 +305,31 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
  10: {'title': 'Chevauchée à La Croix-du-Bac par Steenwerck et repos dans le « garret »',
       'date': 'Vendredi 4 août 1916 (matin et après-midi)',
       'lieu': 'Saint-Jans-Cappel, Bailleul, Steenwerck, La Croix-du-Bac (Nord)',
-      'critique': '\\textbf{l.~5 Steenberke :} Graphie flamande ou phonétique du bourg de Steenwerck. '
-                  '\\textbf{l.~11 repos garret :} Première apparition du substantif anglais \\textit{garret} '
-                  '(mansarde, grenier sous combles) qui se substitue désormais au français '
-                  '\\textit{grenier}. \\textbf{l.~12--15 Touché au bureau milit. :} Encadrement par deux '
-                  'traits horizontaux de la recette de solde.',
-      'historique': '\\textbf{l.~2--14 La Croix du Bac, où mission milit. fr. :} Parti à cheval à 10 h par '
+      'critique': '\\textbf{l.~5 Steenwerck :} Bourg traversé entre Bailleul et La Croix-du-Bac. '
+                  '\\textbf{l.~11 reposé garret :} Emploi du substantif anglais \\textit{garret} (mansarde, '
+                  'grenier sous combles) qui alterne avec le français \\textit{grenier}. \\textbf{l.~12--14 '
+                  'Touché au bureau mission :} Encadrement par un crochet et deux traits horizontaux de la '
+                  'recette de solde (80 fr. 30, y compris 8 fr. de supplément du 1\\textsuperscript{er} '
+                  'juillet).',
+      'historique': '\\textbf{l.~2--14 La Croix-du-Bac, où bureau mission fse :} Parti à cheval à 10 h par '
                     'Bailleul et Steenwerck, Hippolyte parcourt 15 km en une heure et demie pour rejoindre '
                     'le bureau payeur de la Mission militaire française à La Croix-du-Bac, où il perçoit '
-                    '80,20 francs (dont 8 francs de supplément pour la fête nationale du 14 Juillet).',
-      'lines': ['Après qq hésitation',
-                'où bureau',
+                    '80,30 francs (dont 8 francs de supplément à compter du 1\\textsuperscript{er} juillet).',
+      'lines': ['4 Ve. Après qq hésitation, décidé \\hfill Août 1916',
+                'me rendre ce matin à La Croix-du-Bac, où bureau',
                 'mission fse. Parti à cheval vers 10 H. Mis près',
-                'd’ 1 h. ½ pour parcourir distance 15 Kils',
-                'Passé par Bailleul et Steenwerck.',
+                'd’ 1 h. 1/2 pour parcourir distance 15 Kils',
+                'environ. Passé par Bailleul et Steenwerck.',
                 'Cette dernière localité, gros village — autour',
                 'église très gde —',
                 'Ciel d’abord menaçant. qq gouttes de pluie',
                 'au retour. Puis vent dissipe nuages et soleil',
                 'ardent des jours précédents',
-                'reposé garret.',
+                'Tout l’après-midi, reposé garret.',
                 '[ — Touché au bureau mission, à',
-                'La Croix-du-Bac : 80 f 30 c (sur',
-                'supplément 14 juillet) –',
-                '________',
-                'isolée en rase campagne. Y gd calme et',
-                'isolée en rase campagne. Y a calme et',
+                'La Croix-du-Bac : 80 f 30 c (y compris 8 f',
+                'supplément 1er juillet) —',
+                'Ferme isolée en rase campagne. Y gd calme et',
                 'Silence']},
  11: {'title': 'Soirée solitaire à la ferme et prière du soir de la famille flamande',
       'date': 'Vendredi 4 août 1916 (soir)',
@@ -342,7 +347,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Ciel nuageux. Vent bruissement à travers',
                 'feuillages gds arbres & me plaisais à l’écouter',
                 "Impression solitude & d'abandon. Ns sommes",
-                'loin de la ville —',
+                "loin de la ville — N'était le vert intense",
                 '& l’épaisseur des frondaisons, on se',
                 'croirait déjà en automne',
                 'De mon garret, (où suis remonté), la',
@@ -400,21 +405,22 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
       'lines': ['Dim. 6. \\hfill Aout 1916',
                 'Levé dès 7H ½ –',
                 'Temps magnifique',
-                'que Lt Curtis est venu me chercher.',
+                'Breakfast terminé à peine, que Lt Curtis',
                 'Venu me prendre – Ensemble allés à pied',
-                'sur rive canal (près',
-                "d'écluse —",
+                'au refilling point, sur rive canal (près',
+                "d'écluse — Parcouru campagne à la",
                 'recherche fourrage',
                 'Seul, continué j.au village Bac St-Maur',
                 '& visité église, à côté mairie',
-                'Après-midi, retrouvé Maurin. Ensemble,',
+                'Après-midi, retrouvé Maurin.',
                 'Avec lui, assis sur l’herbe, écouté',
                 'musique militre anglse –',
                 'Installation provisoire où je suis',
                 '[ — Payé à ma propre : oeufs, lait &',
                 'bière : 90 c.. — 1 litre lait : 25 + 0.05 —',
                 '— Ctes ples : 10 c ]']},
- 14: {'title': 'Quête de cantonnements, départ inopiné de la compagnie et nouvelle chambre',
+ 14: {'title': 'Quête de cantonnements avec le Quartermaster, départ inopiné de la compagnie et nouvelle '
+               'chambre',
       'date': 'Lundi 7 août 1916',
       'lieu': 'Steenwerck et route de Bac-Saint-Maur (Nord)',
       'critique': '\\textbf{l.~2 au Qt Mr de Cie :} Abréviation bilingue pour \\textit{Quartermaster de '
@@ -427,7 +433,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     "découvre à midi que la compagnie s'est déplacée dès 9 h et s'installe au premier étage "
                     "d'une maison ombragée sur la route de Bac-Saint-Maur.",
       'lines': ['Lundi 7 – \\hfill Chaleur accablante Aout 1916',
-                'Toute matinée, avec Lt Woot de Cie, cherché',
+                'Toute matinée, av. Qt Mr de Cie, cherché',
                 'nouveaux billets et messroom pour mes off.',
                 'Libre, avant midi – mais alors harassé',
                 'de fatigue –',
@@ -438,7 +444,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Dû aussi changer de quartier.',
                 'Suis installé maison au-dessus Post-office,',
                 'route de Bac St Maur, avec gde chambre',
-                'au 1er étage. Y couche dès ce soir.',
+                'au 1er étage. Y couché dès ce soir.',
                 'Terminé journée avec Maurin',
                 'Payé à ma propre : cooking : 1 f',
                 'Oeufs & lait : 75 c (2 jours)',
@@ -465,20 +471,23 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Encore chalr accablante',
                 'Resté le + possible ds ma chambre',
                 'Routes si poussiéreuses que impossible',
-                'tenir ma fenêtre ouverte. Et la nuit, on est',
+                'tenir ma fenêtre ouverte —',
                 'Nuit, dévoré par les moustiques']},
- 16: {'title': "Promenade à Sailly-sur-la-Lys, l'église bombardée et l'éclusier méridional",
+ 16: {'title': "Promenade à Sailly-sur-la-Lys, l'église bombardée et conversation avec l'éclusier sur le "
+               'général Maxse',
       'date': 'Jeudi 10 août 1916',
       'lieu': 'Bac-Saint-Maur et Sailly-sur-la-Lys (Nord / Pas-de-Calais)',
-      'critique': '\\textbf{l.~8 à 3 k. de Bac. :} Abréviations topographique et métrique pour \\textit{à 3 '
-                  "kilomètres de Bac-Saint-Maur}. \\textbf{l.~14--15 l'éclusier de notre pays, un chef ! :} "
-                  "Emploi affectueux du terme \\textit{pays} (compatriote méridional) et de l'appréciation "
-                  'familière \\textit{un chef}.',
-      'historique': '\\textbf{l.~6--19 Sailly s/ la Lys... Les Australiens :} Marchant le long de la Lys '
-                    "jusqu'au pont de Sailly-sur-la-Lys, Hippolyte observe l'église incendiée par les obus "
-                    "allemands, s'entretient longuement avec un éclusier originaire du Midi et note la "
-                    'présence des troupes australiennes (ANZAC), engagées quelques semaines plus tôt dans la '
-                    'sanglante bataille de Fromelles (19--20 juillet 1916).',
+      'critique': '\\textbf{l.~8 à 3 ou 4 kils. de Bac. :} Abréviations topographique et métrique pour '
+                  "\\textit{à 3 ou 4 kilomètres de Bac-Saint-Maur}. \\textbf{l.~14--15 avec l'éclusier de "
+                  'notre g\\textsuperscript{al} en chef, Maxse etc :} Lecture vérifiée sur le manuscrit : '
+                  "Hippolyte s'entretient avec l'éclusier au sujet du général commandant la "
+                  '18\\textsuperscript{e} Division, le major-général Sir Ivor Maxse.',
+      'historique': '\\textbf{l.~6--19 Sailly s/ la Lys... notre gal en chef, Maxse... Les Australiens :} '
+                    "Marchant le long de la Lys jusqu'au pont de Sailly-sur-la-Lys, Hippolyte observe "
+                    "l'église incendiée par les obus allemands, s'entretient longuement avec l'éclusier au "
+                    'sujet du major-général Ivor Maxse (commandant la 18\\textsuperscript{e} Division '
+                    'britannique) et note la présence des troupes australiennes (ANZAC), engagées quelques '
+                    'semaines plus tôt dans la sanglante bataille de Fromelles (19--20 juillet 1916).',
       'lines': ['10 Jeudi. \\hfill Aout / 16 –',
                 'Enfin, matinée et partie soirée',
                 'pluie fine & intermittente — Très',
@@ -486,14 +495,14 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'légèrt arrosées —',
                 'Après-midi venu promener à',
                 'pied au village de ⟦Maur⟧ Sailly s/ la Lys',
-                'à 3 ou 4 kils. — Ne pas dépassé pont',
+                'à 3 ou 4 kils. de Bac. — Ne pas dépassé pont',
                 'Remarqué église brûlée par les Boches',
                 'Il ne reste que murs et haut clocher',
                 'Retour en longeant berges',
                 'de la rivière',
                 'Arrêté à écluse et causé',
-                "Causé lgs avec l'éclusier de notre canal",
-                'un chef, Mouxie etc —',
+                "lgt avec l'éclusier de notre gal",
+                'en chef, Maxse etc —',
                 'Très beau coucher de',
                 'soleil contemplé de ma fenêtre',
                 'vers Estaires & Hazebrouck',
@@ -529,8 +538,8 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Oeufs : 50 + 0.05. — —',
                 'Question nouveau départ demain',
                 'gde chambre, haute fenêtre, belle',
-                'vue campagne très étendue.',
-                'vue campagne très étendue.']},
+                'vue campagne très étendue',
+                "ouest d'Armentières."]},
  18: {'title': 'Sieste au bord de la Lys dans un champ de luzerne face aux blés mûrs',
       'date': 'Samedi 12 août 1916',
       'lieu': 'Rives de la Lys, Bac-Saint-Maur (Nord)',
@@ -550,7 +559,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'la Lys. Causé lgs avec éclusier',
                 'puis continué route sur berge',
                 "gazonnée — Trouvé oasis d'ombre",
-                'champ de luzerne, en face de champs',
+                'champ de luzerne, ⟦devant⟧ en face de champs',
                 "d'épis de blé tout jaunis par soleil",
                 'Allongé s/ le dos, gouté repos',
                 'délicieux – admirant nuages floconneux',
@@ -559,13 +568,13 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Après lunch, resté chambre à',
                 "lire – impossible s'éloigner",
                 'air brulant, soleil torride']},
- 19: {'title': "Attente vaine d'une lettre de Marguerite, « porte-au-noir » et orage sur la Lys",
+ 19: {'title': "Attente vaine d'une lettre de Marguerite, « pot-au-noir » et orage sur la Lys",
       'date': 'Dimanche 13 et lundi 14 août 1916',
       'lieu': "Bac-Saint-Maur et direction d'Armentières (Nord)",
-      'critique': '\\textbf{l.~5 Et le Soir, porte-au-noir :} Création verbale ou variante du terme maritime '
-                  "\\textit{pot-au-noir}, motivée par l'idée d'une porte ouvrant sur la mélancolie nocturne. "
-                  '\\textbf{l.~11 mouille (colle) cette poussière :} Glose parenthétique immédiate précisant '
-                  "l'effet physique de l'averse sur la poussière crayeuse.",
+      'critique': '\\textbf{l.~5 Tt le jour, pot-au-noir :} Emploi métaphorique du terme maritime '
+                  "\\textit{pot-au-noir} pour désigner l'atmosphère sombre et la mélancolie. \\textbf{l.~11 "
+                  "mouille (colle poussière routes :} Glose parenthétique immédiate précisant l'effet "
+                  "physique de l'averse sur la poussière crayeuse.",
       'historique': '\\textbf{l.~3--18 attendu en vain un mot de Margte... Avec Lt Curtis, course à cheval '
                     ":} À la veille de son quarantième anniversaire (14 août 1916), l'absence de courrier de "
                     'Marguerite Calmels plonge Hippolyte dans le spleen dominical ; le lendemain après-midi, '
@@ -573,15 +582,15 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     'lieutenant Curtis vers Armentières.',
       'lines': ['13 D – \\hfill Aout 1916',
                 'Soleil ardent',
-                'attendu en vain un mot de Margte',
+                'Déception pénible : attendu en vain un',
                 'mot de Margte –',
-                'Et le Soir, porte-au-noir –',
+                'Tt le jour, pot-au-noir –',
                 'Après-midi, venu retrouver Maurin',
                 'et avec lui, promené campagne',
                 'le long rivière de la Lys –',
                 '14 L – Ciel couvert nuages – forte',
                 'touffeur, vers 1 H, pluie très forte',
-                "rafraichi l'air — et mouille (abat",
+                "rafraichi l'air — et mouille (colle",
                 'poussière routes.',
                 'Pris plaisir à regarder averse',
                 'zébrer espace de raies obliques, à',
@@ -608,7 +617,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'fortes ondées. Routes détrempées. Aucun',
                 'envie aller promener. Resté partie journée',
                 'ds ma chambre. Large pièce : très',
-                'haute de plafond. Vue s/ campagne',
+                'haute de plafond. Belle vue de la',
                 'fenêtre, où me tiens sans cesse',
                 "— Presque ts les matins, à l'aube,",
                 'épais brouillards',
@@ -628,7 +637,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     "une longue reconnaissance dans la zone battue par l'artillerie allemande, immédiatement "
                     'en arrière des tranchées de Fleurbaix.',
       'lines': ['18 Ve. \\hfill – Aout / 16 –',
-                'vraies giboulées, avec froid, soleil',
+                'Depuis 2 ou 3 jours, vraies giboulées,',
                 'comme en mars – Averses prolongées. Puis éclaircies',
                 'et soleil reparaît',
                 'Hier après-midi, au refilling point et ds 1',
@@ -637,26 +646,25 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Fin journée, assez belle. Venu retrouver Maurin,',
                 'promené ensemble et assis, pour causer',
                 "sur l'herbe sèche, près des lignes de ma",
-                'Coy. \\hfill Vers 7 H ½ orage',
-                '[ – Solde & indemnité de fonctions :',
+                'Coy. \\hfill Vers 7 H 1/2 orage',
+                '[ – Solde & indemnité de fonctions : 84 fr.',
                 '19 S. — Plu tte nuit —',
-                'Dès 8 H matin, pluie torrentielle.',
-                'Au pt matin, pluie torrentielle. Routes',
-                'Toute matinée et commt après-midi,',
-                'Toute matinée et avant après-midi :',
+                'Dès 8 H matin, pluie torrentielle. Routes',
+                'détrempées. Température rafraîchie délict.',
+                'Toute matinée et commt après-midi :',
+                'averses très fortes — comme grêle.',
                 'Vers 2 H 30, ce crétin de Curtis venu',
                 "me prendre : dû l'accompagner",
-                'à cheval, & cette fois sur mon poney —',
-                'à cheval, – à cette fois sur un bon poney.',
+                'à cheval, – & cette fois sur un bon poney.',
                 'Longue chevauchée zone',
                 'exposée, derrière ligne de feu']},
  22: {'title': "Traversée de Fleurbaix et d'Armentières dévastées par les obus",
       'date': 'Samedi 19 août 1916 (suite)',
       'lieu': 'Erquinghem-Lys, Fleurbaix et Armentières (Pas-de-Calais / Nord)',
-      'critique': '\\textbf{l.~2 blanchisserie Barbry :} Rectification orthographique du patronyme '
-                  '\\textit{Barbry} (écrit \\textit{Barbe} au Scan \\#017). \\textbf{l.~10--18 b. maisons / '
-                  'La + gde p. :} Abréviations pour \\textit{belles maisons} et \\textit{La plus grande '
-                  'partie}.',
+      'critique': '\\textbf{l.~2 blanchisserie Barbry :} Confirmation autographe du patronyme '
+                  '\\textit{Barbry}. \\textbf{l.~10--20 b. maisons / La + des immeubles / Écossais :} '
+                  'Abréviations pour \\textit{belles maisons} et \\textit{La plupart des immeubles}, suivies '
+                  "de l'addition interlinéaire au crayon \\textit{Écossais}.",
       'historique': '\\textbf{l.~3--22 Fleurbaix... Armentières... 1 off des Sussex :} Poursuivant leur '
                     "chevauchée par la blanchisserie Barbry et Fleurbaix criblé d'obus, Hippolyte et le "
                     "lieutenant Curtis parcourent les quartiers déserts d'Armentières (gare dévastée, toits "
@@ -672,16 +680,16 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Arrivé par gare (l. est complt déserte)',
                 'Parcouru principaux quartiers.',
                 'Ville importante, riche — très b. maisons',
-                'Effets du bombardement, grands',
+                'Effets des bombardements : grands',
                 'dommages. Un peu partt, ds les r., toits',
                 'crevés, de façades trouées, cloisons',
                 "d'appartement mises à nu –",
                 'Église à briques rouges, sur 1 place',
                 'très atteinte. Clocher découronné',
                 'Toiture abattue',
-                'Les + gds immeubles inoccupés,',
+                'La + des immeubles inoccupés,',
                 'abandonnés par leurs habitants.',
-                'Grosses... [?]',
+                'Écossais',
                 'Rentrés par Gde route – Arrêté à',
                 'Erquinghem et thé avec 1 off des Sussex',
                 'Fin journée ensoleillée et',
@@ -765,14 +773,14 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     "Ambroise) de l'église Saint-Vaast ainsi que les armoiries peintes de l'Hôtel de Ville — "
                     'témoignage précieux sur un patrimoine entièrement anéanti en avril 1918.',
       'lines': ['23 Merc \\hfill Aout / 16',
-                'Temps couvert, mais pas de pluie',
-                'fin journée – De 6H ½, avec 1 légère',
+                'Temps couvert, matinée et surtout',
+                'fin journée – Dès 6H 1/2, cme 1 légère',
                 "brume répandue ds l'air. –",
                 'Après-midi, promenade à cheval',
                 'arrivé j-à Estaires. Visité longuement',
                 'cette petite ville, très animée & x magasins',
                 'Très belle église (chœur, stalles ogivales',
-                'statuettes en bois sculpté (St-Ambroise)',
+                'et très artistiques statuettes en bois (S. Ambroise etc.)',
                 'Remarqué hotel de ville – écusson armoiries',
                 'peint mur au dessus du perron –',
                 'De nouveau',
@@ -789,10 +797,11 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                'Fisher et adieux aux Flandres',
       'date': 'Jeudi 24 août 1916',
       'lieu': 'Steenwerck (Nord)',
-      'critique': "\\textbf{l.~9--16 Fisher / sous la tente de l'office ds le champ :} Aux l.~9--11 et 16, "
-                  "l'ordonnance s'appelle \\textit{Fisher}, qui porte les sacs \\textit{sous la tente de "
-                  "l'office ds le champ}. À la l.~14, lire \\textit{Steenwerck : ctes "
-                  'p\\textsuperscript{les} : 1 f.}.',
+      'critique': "\\textbf{l.~6--16 relique de St Hippte / Fisher / sous la tente de l'office ds le champ "
+                  ':} À la l.~6, le manuscrit porte \\textit{\\& y découvert relique de St Hippte, mon '
+                  "patron !}. Aux l.~9--11 et 16, l'ordonnance s'appelle \\textit{Fisher}, qui porte les "
+                  "sacs \\textit{sous la tente de l'office ds le champ}. À la l.~14, lire "
+                  '\\textit{Steenwerck : ctes p\\textsuperscript{les} : 1 f.}.',
       'historique': '\\textbf{l.~5--18 découvrir relique St Hippolyte mon patron ! ... Fisher... Mme '
                     "Cliquennois :} Entré se recueillir dans l'église Saint-Jean-Baptiste de Steenwerck à la "
                     "veille de quitter les Flandres, Hippolyte Combes a la surprise émue d'y découvrir une "
@@ -804,7 +813,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Après-midi, vent éclairci ciel & brillé très',
                 'chaud soleil.',
                 'Entré église pr me reposer : surpris',
-                'reposer 1 peu & & découvrir relique St Hippolyte',
+                'reposer 1 peu & y découvert relique de St Hippte,',
                 'mon patron!',
                 'Revu Maurin & causé avec lui, longuement',
                 'Vers 7 H, Fisher venu prendre ts mes sacs',
@@ -830,7 +839,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     'train militaire descend vers le sud par Hazebrouck (14 h), Berguette/Isbergues (14 h '
                     "30) et Lillers (14 h 30) jusqu'à Saint-Pol-sur-Ternoise (16 h 30), où l'Aveyronnais "
                     "retrouve avec bonheur les collines boisées et les meules dorées de l'Artois.",
-      'lines': ['Ven. 25 Août 1916',
+      'lines': ['Ven. 25 \\hfill Août 1916',
                 "Partis vers 8H m.. – à cheval, soleil s'est",
                 'levé peu à peu. devint brulant',
                 'A 11H m. – à Bailleul.',
@@ -839,7 +848,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Train démarre au 1H ½',
                 'Traversé plusies gares imptes sans arrêt',
                 'A Lillers, vers 2H ½ \\hfill Hazebrouck : 2H',
-                'A St. Pol : à 4H 30 s. Berguette : 2H30',
+                'A St. Pol : à 4H 30 s. \\hfill Berguette : 2H30',
                 "Pris route à 5H – d'abord bruine,",
                 'puis pluie battante',
                 "Pays pittoresque. Ce n'est plus la",
@@ -847,7 +856,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Région très boisée. Verdures fraîches',
                 "comme au printemps. Si champs n'étaient",
                 "pas moissonnés et les gerbes d'or entassées",
-                'en meules, on ne croirait pas être',
+                'en moyettes, on ne croirait pas être',
                 "à la fin de l'été"]},
  28: {'title': "Mélancolie du voyage en train au son de l'harmonica et arrivée nocturne à Marquay",
       'date': 'Vendredi 25 août 1916 (suite)',
@@ -963,7 +972,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     'secoue tout le jour les futaies du parc seigneurial voisin dans un vacarme '
                     'assourdissant, sans interrompre matin ni après-midi les corvées de fourrage vert dans '
                     'les prairies détrempées.',
-      'lines': ['30 Me',
+      'lines': ['30 Me \\hfill Août 1916',
                 'Tout le jour, pluie. et rafales',
                 'Vent tourmente grands arbres du',
                 "voisinage (boqueteau de l'autre côté de",
@@ -1002,7 +1011,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'la nuit en prière ds cette = église',
                 'Rentré par Ostreville',
                 "Course m'a fait bp de bien",
-                'A Saint-Pol : 12 ctes ples : 50 c — Verre : 10 c',
+                'A Saint-Pol : 12 ctes ples : 50 c — Varia : 40 c',
                 'Carte du départt : 70 c. — Div. cartes ples : 0.30',
                 'Cartes ples militaires : 40 c. — \\hfill L. 0.80']},
  33: {'title': "L'église médiévale de Ligny-Saint-Flochel et les « manœuvres spéciales » britanniques",
@@ -1020,10 +1029,10 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     "le cimetière envahi d'herbes.",
       'lines': ['1er V. \\hfill Septbre 1916',
                 'Matinée, temps variable',
-                "Tout l'après-midi, beau soleil et grand",
+                "Tout l'après-midi, qq rayons de soleil et puis",
                 'ciel couvert de nuages',
                 'Après lunch, allé au village de Ligny-',
-                'Saint-Flochel, à 2 k. 1/2 —',
+                'Saint-Flochel, à 2 k. 1/2 — Route en pente longe',
                 'bois où régiments anglais faisaient les manœuvres',
                 'spéciales',
                 'Visité un instant petite eglise du hameau St Fl.',
@@ -1043,10 +1052,10 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                'Saint-Pol',
       'date': 'Samedi 2 et dimanche 3 septembre 1916',
       'lieu': 'Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)',
-      'critique': '\\textbf{l.~4 Terre friable (boueuse) :} Parenthèse explicative précisant la nature '
-                  "collante du limon d'Artois détrempé. \\textbf{l.~10--11 Washing : 1 f (1 shirt. 1 vest / "
-                  '1 p. socks. 1 handk) :} Inventaire de linge entièrement rédigé en anglais (1 chemise, 1 '
-                  'gilet de flanelle, 1 paire de chaussettes, 1 mouchoir).',
+      'critique': "\\textbf{l.~4--5 Terre friable s'accroche aux semelles en fortes mottes :} Notation "
+                  "précise de la nature collante du limon d'Artois détrempé. \\textbf{l.~10--11 Washing : 1 "
+                  'f (1 shirt. 1 vest / 1 p. socks. 1 handk) :} Inventaire de linge entièrement rédigé en '
+                  'anglais (1 chemise, 1 gilet de flanelle, 1 paire de chaussettes, 1 mouchoir).',
       'historique': '\\textbf{l.~12--21 3 Dim. Malgré ciel menaçant allé à pied j-à St-Pol :} Après une '
                     'matinée du samedi passée dans les herbes trempées de rosée qui alourdissent ses '
                     'brodequins de mottes de boue, Hippolyte redescend à pied le dimanche 3 septembre '
@@ -1055,8 +1064,8 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
       'lines': ['2 S. \\hfill Septbre 16',
                 'Matinée, ds les champs. Herbes',
                 'mouillant souliers et eau',
-                "arrive j'à la peau. Terre friable (boueuse)",
-                '& semelles en fortes mottes.',
+                "arrive j'à la peau. Terre friable s'accroche",
+                'aux semelles en fortes mottes.',
                 'Ciel tout couvert de gros nuages – A',
                 "l'horizon, pointent clochers villages voisins",
                 'au sein futaies & boqueteaux –',
@@ -1098,7 +1107,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'si mal.',
                 "5 Ma. Matin, prairie, appris par l'Orderly",
                 "Sorti pr me renseigner. Mais rien d'officiel",
-                'ou confirmaton mauvaise nouvelle : encore 8',
+                'eu confirmaton mauvaise nouvelle : encore 8',
                 'jours à moisir ici, hélas!',
                 'Et Toujours, même temps affreux –',
                 'Ciel couvert de nuages – Pluie intermittente',
@@ -1146,10 +1155,10 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
       'lines': ['6 Me Enfin, beau temps. – \\hfill Septbre 1916',
                 'Après-midi superbe Chaud soleil.',
                 'Resté 2 h sur pature, assis chaise à',
-                "l'ombre de vieux arbres. Loin ds gd air.",
+                "l'ombre de vieux noyer. Bain de gd air.",
                 'Mais au retour, dû accompagner Lt Ctis à',
-                'ferme voisinage & très bien accueillis',
-                'par propre [propriétaire?], Mme Vauchel, femme très',
+                'ferme voisinage. Y très bien accueillis',
+                'par propre, Mme Vauchel, femme très',
                 'intelligente & raisonnant admirabt',
                 'Languis tjs ds ce trou perdu, et',
                 'sale, où aucune distraction —',
@@ -1217,7 +1226,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 "school, et d'où vue panoramique",
                 'contrée environnante',
                 'Temps tt fait beau – Soleil supportable',
-                'Peu de poussière routes',
+                'Flots de poussière route',
                 'Vers 1H s., terminé 1ère étape, au',
                 'hameau de Monts-en-Ternois.',
                 "Cantonnés ds gde ferme, à l'entrée du",
@@ -1279,8 +1288,8 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     "l'Ancre encombré de brancardiers (\\textit{R.A.M.C.}) et de troupes de relève.",
       'lines': ['Lundi 11 — Sur pied, dès 5 H — \\hfill Septbre /16',
                 'dérangé sur matin',
-                'Quitté Oppy 7 H. Ciel couvert, puis',
-                'pluie fine & froide. Après 3 H soir,',
+                'Quitté Oppy 7 H. Ciel couvert',
+                'Chevauché matinée entière — Après 3 H soir,',
                 'seulement, arrivés à Raincheval',
                 'Aujd’hui souffert poussière.',
                 'A 11H m. soleil perce nuages – et',
@@ -1291,8 +1300,8 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'des postes',
                 'Raincheval, très gros village',
                 'maisons mal entretenues – fourmillant',
-                'fourmillant',
-                'de tommies.',
+                'de tommies. Très nombreuses troupes y',
+                'cantonnées.',
                 'Trouvé chambrette famille de pauvres',
                 'mais braves gens. Fille aînée, prête à accoucher',
                 'mangé tjs au mess off',
@@ -1397,11 +1406,11 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'château. Ombre fraîche & délicieuse.',
                 'gds arbres séculaires – Chênes très droits',
                 'aux troncs énormes',
-                'Matin, rencontré insttr à la sortie église.',
+                'Matin, rencontré intte à la sortie église.',
                 'et avec lui venu chez le petit vieux, qui',
                 'possède des collections très belles de faïences,',
                 'pierres, médailles etc etc',
-                'Après-midi, assisté chants service (Wesleyans)',
+                'Après-midi, assisté church service (Wesleyans)',
                 'ds petite salle en face église village',
                 '— Washing : 1 f. —',
                 '(Varennes)']},
@@ -1423,11 +1432,11 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'frse. Malgré averses incessantes, parti',
                 "à cheval vers 1H ½. Toute l'après-midi par",
                 'monts & par vaux, sur routes boueuses',
-                'A Hédauville, appris par 1 off. q. divon, contrt',
+                'A Hédauville, appris que XVIIIe divon, contrt',
                 "n'a pas quitté Acheux — Le H.Q. 18e divon reste",
                 'où elle était.',
                 'Revenu par Forceville à Acheux – où',
-                'enfin retrouvé mission près de notre divon —',
+                'enfin retrouvé mission frse de notre divon —',
                 'Au retour, fait route en cie de Brammas',
                 'Temps affreux. Cape traversée par la pluie',
                 "Habits trempés. Souliers remplis d'eau",
@@ -1467,11 +1476,11 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                'sans étoiles',
       'date': 'Vendredi 22 septembre 1916',
       'lieu': 'Raincheval (Somme)',
-      'critique': '\\textbf{l.~2 Soleil ardent t jour :} Abréviation \\textit{t} pour \\textit{tout le}. '
-                  "\\textbf{l.~10 Panton m'a appris que we are moving Dawn :} Discours indirect libre "
-                  "basculant en anglais sur l'ordre de mouvement (\\textit{we are moving [at] Dawn}). "
-                  '\\textbf{l.~15 Nuit très sombre – y stars are nil vis. :} Jargon télégraphique '
-                  'anglo-latin (\\textit{stars are nil visible}, visibilité stellaire nulle).',
+      'critique': '\\textbf{l.~2 Soleil ardent t. jour :} Abréviation \\textit{t.} pour \\textit{tout le}. '
+                  "\\textbf{l.~10 Panton m'a appris que we are moving demain :} Discours indirect libre "
+                  "mêlant l'anglais (\\textit{we are moving}) et le français (\\textit{demain}). "
+                  '\\textbf{l.~15 Nuit très sombre — qq stars au ciel noir :} Alternance codique spontanée '
+                  'dans la notation nocturne.',
       'historique': '\\textbf{l.~3--11 station de Raincheval... match de football s/ prairie à coté '
                     "horse-lines the Bedfs... Méaulte :} Tandis qu'il s'informe des horaires de trains à la "
                     'gare de Raincheval en vue de sa prochaine permission, Hippolyte assiste à un match de '
@@ -1492,10 +1501,10 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Dernière nuit chambre, préoccupé',
                 'paquets à faire et voyage à Toulouse',
                 'départ le 25',
-                'Nuit très sombre — & stars in sky noir.',
+                'Nuit très sombre — qq stars au ciel noir.',
                 '[ — 2 tins of coffee milk, à la',
-                'Cantine : 2 f 40 — ]',
-                'eggs & food : 1f 50 –']},
+                'Cantine : 3 f 25',
+                'Eggs & food : 1 f 10 — ]']},
  48: {'title': 'Samedi 23 septembre 1916 — Marche vers Léalvillers, message apporté en auto par le '
                'lieutenant Pizzi et bivouac sous la tente à Forceville',
       'date': 'Samedi 23 septembre 1916',
@@ -1504,12 +1513,12 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                   '\\textit{A peine arrivions-ns vers garage de Léalvillers que Pizzi, en auto, à notre '
                   "rencontre av. message} (l'officier interprète de la 18\\textsuperscript{e} Division, le "
                   "lieutenant Pizzi, vient lui remettre en automobile l'avis relatif à sa permission).",
-      'historique': '\\textbf{l.~4--21 Cap West... Lealvillers... Forceville... aménagé hutte avec épaisse '
-                    'botte verte comme litière :} Partie à 9 h 30 sous les ordres du capitaine West, la '
+      'historique': '\\textbf{l.~4--21 Cap West... Léalvillers... Forceville... arrangé hutte avec épaisses '
+                    'brches vertes cme toiture :} Partie à 9 h 30 sous les ordres du capitaine West, la '
                     'compagnie reçoit en chemin à hauteur du garage ferroviaire de Léalvillers un pli '
                     "modifiant sa destination : au lieu de descendre jusqu'à Méaulte, l'unité oblique par la "
                     "gare d'Acheux vers les coteaux de Forceville, où Hippolyte bivouaque en plein champ "
-                    "sous une hutte garnie d'une botte de fourrage vert.",
+                    "sous une hutte recouverte d'épaisses branches vertes en guise de toiture.",
       'lines': ['Sam 23 \\hfill Sept 16',
                 'Très belle journée.',
                 'Levé 6H ½ et fait ts préparatifs.',
@@ -1529,10 +1538,10 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Cantonnés in the open – champs au flanc',
                 'coteau.',
                 'Très b. fin journée.',
-                'Me suis arrangé hutte avec épaisses bottes',
-                'verte comme litière – Couché bonne nuit',
+                'Me suis arrangé hutte avec épaisses brches',
+                'vertes cme toiture – Couché bonne nuit',
                 'Carte du Petit Journal : 60 c',
-                'A Mme Petit [?] propre à Acheux. 1 f (washing)']},
+                'A Mme Petit propre à Acheux : 1 f (washing)']},
  49: {'title': "Dimanche 24 septembre 1916 — Construction d'une hutte derrière la haie d'aubépine à "
                'Forceville et préparatifs du départ en permission',
       'date': 'Dimanche 24 septembre 1916',
@@ -1568,37 +1577,37 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Mieux dormi ds ma hutte',
                 'Magnifique nuit étoilée –',
                 'Canon gronde tout le long du front']},
- 50: {'title': 'Lundi 25 septembre 1916 — Réveil à 4 h, corvée de green forage à Forceville avec le Lt. Ford '
+ 50: {'title': 'Lundi 25 septembre 1916 — Réveil à 7 h, corvée de green forage à Forceville avec le Lt. Ford '
                "et départ en permission à la gare d'Acheux-Varennes",
       'date': 'Lundi 25 septembre 1916 (matin et après-midi)',
       'lieu': "Forceville et gare d'Acheux-Varennes (Somme)",
-      'critique': "\\textbf{l.~1--18 25 Lundi. — Vers 4 H, sur pied... station d'Acheux-Varennes :} Ce "
-                  'feuillet (\\texttt{20251126\\_103019.jpg}), omis dans le premier fichier Word, décrit le '
-                  'départ en permission le lundi 25 septembre 1916 : réveil à 4 h, corvée de \\textit{green '
-                  'forage} à Forceville avec le lieutenant \\textit{Ford}, trajet sur le dernier wagon du '
+      'critique': "\\textbf{l.~1--18 25 L. — Vers 7 H, sur pied... station d'Acheux-Varennes :} Ce feuillet "
+                  '(\\texttt{20251126\\_103019.jpg}), omis dans le premier fichier Word, décrit le départ en '
+                  'permission le lundi 25 septembre 1916 : réveil à 7 h, corvée de \\textit{green forage} à '
+                  'Forceville avec le lieutenant \\textit{Ford}, trajet sur le dernier wagon du '
                   "\\textit{convoy} allant au \\textit{railhead}, dépôt des colis à l'office du "
                   "\\textit{R.T.O.} à la station d'Acheux-Varennes et attente dans le petit train "
                   'départemental.',
-      'historique': "\\textbf{l.~10--16 station d'Acheux-Varennes :} Réveillé dès 4 h du matin mais retenu "
-                    'toute la matinée par une ultime corvée de fourrage vert (\\textit{green forage}) avec '
-                    'le lieutenant First sur le plateau de Forceville, Hippolyte gagne à midi en fourgon le '
+      'historique': "\\textbf{l.~10--16 station d'Acheux-Varennes :} Sur pied dès 7 h du matin mais retenu "
+                    'dans la matinée par une ultime corvée de fourrage vert (\\textit{green forage}) avec le '
+                    'lieutenant Ford sur le plateau de Forceville, Hippolyte gagne à midi en fourgon le '
                     "\\textit{railhead} d'Acheux-Varennes, dépose ses bagages au bureau du \\textit{Railway "
-                    "Transport Officer} et attend jusqu'à 18 h 40 le départ du train de permissionnaires "
-                    'vers Amiens.',
+                    'Transport Officer}, déjeune au village et attend le départ du petit train départemental '
+                    'vers Gézaincourt et Amiens.',
       'lines': ['25 L. \\hfill Sept /16',
-                'Vers 4 H, sur pied.',
+                'Vers 7 H, sur pied.',
                 'Au firmament bleuissant, léger croissant lunaire',
                 'et 2 étoiles très brillantes.',
                 'Temps superbe.',
-                'Bientôt, suis tt prêt à partir.',
+                'Bientôt, entiert prêt à partir.',
                 'Promené champs tt en haut plateau.',
-                'Puis venu à Forceville avec Lt Ford, for green',
+                'Dû venir à Forceville av. Lt Ford, for green',
                 'forage. Chaleur très forte.',
                 'A midi enfin, monté sur le dernier wagon',
                 'du convoy allant au railhead, puis continué',
-                "à travers chps pr station d'Acheux-Varennes",
+                "à travers chps j'à station d'Acheux-Varennes",
                 "Laissé mes colis à l'office de l'R.T.O. & venu",
-                'village déjeuner.',
+                'village, déjeuné.',
                 'Puis attendu lgt. ds mon compartimt petit',
                 'train départemental en gare —',
                 'chaleur intense',
@@ -1656,7 +1665,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 "Suivi voies j'que bureau militre. Là",
                 "obtenu l'autorison de sortir et accompagné",
                 "par un planton j'à la porte",
-                'De Bourget, entrée de la rue de Flandre',
+                'Du Bourget, sortie de la rue de Flandre',
                 "pris tramway qui m'a conduit j-à gare",
                 'du Nord. De là, par métro, arrivé',
                 'à Station Tuileries. (changé au Chatelet)',
@@ -1677,12 +1686,14 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                "d'Orsay",
       'date': 'Mardi 26 septembre 1916 (après-midi et soir)',
       'lieu': "Paris (Tour Saint-Jacques, rue de Rivoli, librairie Colin, gare d'Orsay)",
-      'critique': '\\textbf{l.~5--8, 15--17 Tour St-Jacques / Zyromski / Maeterlinck :} Aux l.~5--8, '
-                  'Hippolyte écrit \\textit{1/2 h assis banc ds le square de la Tour St-Jacques — Gde mouvt '
-                  'rue de Rivoli. Animation oubliée}. Dans le bloc comptable (l.~15--17), en rapport avec la '
-                  'mention \\textit{Chez Colin} (l.~22, librairie Armand Colin, 103 boulevard Saint-Michel), '
-                  "il achète deux livres : \\textbf{\\textit{Zyromski : L'orgueil humain : 4 f : net : 3 f "
-                  '20}} (essai de son maître toulousain Ernest Zyromski publié chez Armand Colin en 1904) et '
+      'critique': '\\textbf{l.~5--7, 14--16 Tour St-Jacques / Christofle / Zyromski / Maeterlinck :} Aux '
+                  'l.~5--7, Hippolyte écrit \\textit{Lgt assis banc ds le square de la / Tour St-Jacques — '
+                  'Gros mouvt de rue de / Rivoli. Animation ordin\\textsuperscript{re}}. Dans le bloc '
+                  'comptable (l.~14--16), en rapport avec la mention \\textit{Chez Colin} (Scan \\#052, '
+                  "l.~22, librairie Armand Colin, 103 boulevard Saint-Michel), il note l'achat d'argenterie "
+                  '\\textit{Christofle : 12 f 50, remise, une douz\\textsuperscript{ne} : 10 f 50} et de '
+                  "deux livres : \\textbf{\\textit{Zyromski : L'orgueil humain : 4 f : net : 3 f 20}} (essai "
+                  'de son maître toulousain Ernest Zyromski publié chez Armand Colin en 1904) et '
                   '\\textbf{\\textit{Maeterlinck : Les Débris : 3 f 50}} (\\textit{Les Débris de la guerre}, '
                   'recueil de Maurice Maeterlinck paru en 1916).',
       'historique': '\\textbf{l.~5--22 Tour St-Jacques... rue de Rivoli... Zyromski... Maeterlinck... Chez '
@@ -1697,24 +1708,23 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Déjeuné – Bd St-Germain',
                 'Reposé – jardin Notre - Dame',
                 "Magasins de l'Hotel - de - Ville",
-                '1/2 h assis banc ds le square de la',
-                'Tour St-Jacques —',
-                'Gde mouvt rue de',
-                'Rivoli. Animation oubliée. —',
-                'Après diner, venu lentement, pour le',
-                "quai, où gare d'Orsay",
+                'Lgt assis banc ds le square de la',
+                'Tour St-Jacques — Gros mouvt de rue de',
+                'Rivoli. Animation ordinre. —',
+                'Après diner, venu lentemt, par les',
+                "quais à gare d'Orsay",
                 'Départ train vers 8H S',
                 'Tramway : Bourget - gare du Nord : 50c',
-                'Métro : 1 f. — Envoi : 10 c, 1 f, 2 f. (vêtements)',
+                'Métro : 1 f. — Enregt : 10 c, 1 f, 2 f. (vêtements)',
                 'Billet 2e cl. Toulouse 1/4 place : 15 f 15 \\hfill Coupe chvx : 1 f',
-                'Clichés : 12 f 50, remise, une douzne : 10 f 50',
+                'Christofle : 12 f 50, remise, une douzne : 10 f 50',
                 "Zyromski : L'orgueil humain : 4 f : net : 3 f 20",
                 'Maeterlinck : Les Débris : 3 f 50. — Cirage : 25 c',
                 'Déjeuner : 1 f 50. — Dîner : 1 f 60. — Ctes ples : 15 c',
                 'Fleurs artiflles, Hotel de Ville : 8 f 50 couronne',
-                'Képi au Bon Marché : 8 f – Consigne 1f',
-                'Carte de Verdun : 50 c — Eclairer souliers : 30 c',
-                'Carte Roumanie : 30 c – divers : W.C : 10c']},
+                'Képi : au Bon Marché : 8 f 75. — Consigne : 15 c',
+                'Carte de Verdun : 50 c — Lacets de souliers : 30 c',
+                'Carte Roumanie : 30 c — Journx : W.C. : 15 c']},
  54: {'title': 'Mercredi 27 septembre 1916 — Arrivée à Toulouse, montée à Sainte-Marie-des-Champs et '
                'déjeuner intime chez les Crouzet',
       'date': 'Mercredi 27 septembre 1916',
@@ -1780,8 +1790,8 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Allé prendre trams à la barrière St-Agne',
                 'Exc.te après-midi.',
                 'Vers 9 H Sr, redescendu à pied Cote Pavée',
-                'Trams : 10 c, 40, 40, 40 c. —',
-                'Fruits (raisins & grenades) : 70 c — Varia : 10 c.',
+                'Trams : 20 c., 10, 40, 40 c. —',
+                'Fruits (raisins & grenades) : 1 f. — Varia : 10 c.',
                 'Bouquet (place Esquirol) : 3 f —']},
  56: {'title': 'Vendredi 29 septembre 1916 — Visite à Mme de Labarthe, promenade avec sa fiancée Marguerite '
                "à Blagnac (ruines de l'amphithéâtre romain) et achat d'un sautoir en or chez Pfister (295 "
@@ -1820,7 +1830,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 "Assis sur l'herbe haute, en face petite grève",
                 "Venus à pied j'aux Ponts Jumeaux, d'où pris",
                 "tram j'à pl. Alsace. —",
-                '— Trams : 10c, 40c, 60c, 40, 40 c –',
+                '— Trams : 20 c, 40 c, 60 c, 40, 40 c –',
                 'Chz Pfister, sautoir en or — : 300 f net 295 f',
                 'Remboursé à mes cousines (oeufs, beurre etc.) : 2 f 75',
                 'Fruits : 2f + 55 c. – Fleurs : 2 f']},
@@ -1843,7 +1853,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Tout le jour, temps pluvieux. Fines ondées qui durent peu.',
                 'Matin, venu voir Mme de Labarthe, au 12.. Gd',
                 'pour cette amie, attachement profond. –',
-                'Monté à Ste Marie vers 11H',
+                'Monté à Ste Marie vers 11H 1/2 —',
                 'Dans petit salon, qq minutes de tête à tête délicieux',
                 'avec Margte..',
                 'Après midi, promenade à pied au village',
@@ -1861,7 +1871,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'temple grec',
                 'Venu devant caveau des P.P. Jésuites & celui du',
                 'P. Marie-Antoine. Margte & moi, échangé serments',
-                'profonds unis au souvenir de notre gd ami & de Josephe',
+                'profondt émus au souvenir de notre gd ami & de Josephe',
                 'Retour du cimetière à pied par rues & chemins de',
                 'traverse – Pluie cesse bientôt & soleil couché',
                 'horizon nuageux',
@@ -1896,10 +1906,10 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
  59: {'title': "Méditation solitaire dans l'appartement toulousain et visite de Marguerite et de sa mère",
       'date': 'Lundi 2 octobre 1916',
       'lieu': "Toulouse (Appartement, Sainte-Marie, chapelle de Nazareth, rue d'Alsace-Lorraine)",
-      'critique': '\\textbf{l.~2 me suis resté appartt :} Construction pronominale méridionale (\\textit{se '
-                  'rester} au sens de demeurer chez soi) suivie du substantif abrégé sans préposition. '
-                  '\\textbf{l.~8 profondemt sentimt :} Double abréviation en \\textit{-mt} dans la même '
-                  'ligne.',
+      'critique': '\\textbf{l.~2 me lgt resté appart\\textsuperscript{t} :} Construction elliptique avec '
+                  "omission de l'auxiliaire \\textit{suis} devant l'adverbe \\textit{longtemps}. "
+                  '\\textbf{l.~7 profondeur sentim\\textsuperscript{t} :} Abréviation nominale en '
+                  '\\textit{-mt}.',
       'historique': '\\textbf{l.~6--17 ds le petit salon... Visite de Margte et de sa mère à mon appartt... '
                     'Chapelle Nazareth :} Après une matinée recueillie parmi ses souvenirs de jeunesse et un '
                     'long entretien intime au petit salon de Sainte-Marie, Hippolyte reçoit à 17 h dans son '
@@ -1907,7 +1917,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     'Calmels, se rend à 18 h 30 à la chapelle Notre-Dame-de-Nazareth et raccompagne son '
                     'parent Jean à 21 h 30.',
       'lines': ['2 L. Temps splendide \\hfill Octbre 1916',
-                'Matinée, me ss resté appartt & trouvé',
+                'Matinée, me lgt resté appartt & trouvé',
                 'charme mélancolique à laisser souvenirs',
                 "s'éveiller peu à peu ds mon esprit",
                 'Monté à Ste Marie vers 11H ½ –',
@@ -1920,12 +1930,11 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'mère à mon appartt. Margte, charmante',
                 'de simplicité & de grâce',
                 'A Chapelle Nazareth — à 6 H s',
-                'T. 3, promené rue Alsace, regardé',
+                'Ts 3, promené rue Alsace, regardé',
                 'vitrines des magasins & remonté tram Côte-Pavée',
                 'A 9 H 30, av. Jean, partis —',
                 'Très belle nuit étoilée — Air doux — gds arbres',
-                'Trams : 10, 10, 30 – – Chapelet pr. Banon.',
-                '1f 25']},
+                'Trams : 10, 10, 30 – – Chapelet pr. Bne Maman : 1 f 25']},
  60: {'title': "Mardi 3 octobre 1916 — Messe à la cathédrale Saint-Étienne, déjeuner à l'Automate, achat "
                "d'une cravate au Bon Marché et présentation de sa fiancée",
       'date': 'Mardi 3 octobre 1916',
@@ -1957,7 +1966,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 'Soir, vers 8 H, pris tram & venu voir',
                 'Mme Lamothe . . —',
                 'Trams : 20, 30 Marché V. Hugo :',
-                'Automate : 30 + 20 c \\hfill fruits : 80 c. Gâteaux : 2 f']},
+                'Automate : 30 + 20 c \\hfill fruits : 80 c. Gâteaux : 3 f']},
  61: {'title': 'Règlement du tailleur Guiraud, du loyer semestriel à Mlle Guilhem et thé chez Mme de '
                'Labarthe',
       'date': 'Mardi 3 octobre 1916 (suite)',
@@ -1977,7 +1986,7 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 '& fournitures tunique : 38 f',
                 '– Semestre à Mlle Guilhem : 90 f –',
                 '(Juillet 1916 – Janvier 1917)',
-                '— Ctes Française : 20 cm doublure satin : 60 c',
+                '— Cie Française : 20 cm doublure satin : 60 c',
                 '– Fleurs : 1f 10',
                 'Délicieux ds la propriété de Mme de Labarthe',
                 'Elle ns a fait visiter maison.',
@@ -1986,9 +1995,10 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                'gare Matabiau',
       'date': 'Mercredi 4 octobre 1916',
       'lieu': 'Toulouse (Sainte-Marie et gare Matabiau)',
-      'critique': '\\textbf{l.~18--20 cour de G.V. / non sans serrement cœur cruel :} Aux l.~18--20, sur les '
-                  'quais de la gare Matabiau (\\textit{cour de G.V.}), le manuscrit porte : \\textit{Enfin, '
-                  'dû ns séparer, non / sans serrement cœur cruel}.',
+      'critique': "\\textbf{l.~18--20 cour de G.V. / par ménagement pour l'oncle :} Aux l.~18--20, sur les "
+                  'quais de la gare Matabiau (\\textit{cour de G.V.}, Grande Vitesse), le manuscrit porte : '
+                  "\\textit{Enfin, dû ns séparer, par / ménagement pour l'oncle —} (les adieux se "
+                  'poursuivant en haut du Scan \\#064 : \\textit{... Mte \\& moi, très émus..}).',
       'historique': '\\textbf{l.~3--20 Enlevé \\& rentré rideaux... Thermes du Languedoc... Avec Mte \\& '
                     'oncle Crouzet... départ pour Creil :} Levé dès 6 h pour décrocher les rideaux et fermer '
                     'son appartement, Hippolyte passe aux Thermes du Languedoc puis consacre tout son '
@@ -2013,8 +2023,8 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                 "Puis ressorti salle d'attente. Avec Mte",
                 '& oncle Crouzet. promené au dehors',
                 'le long trottoirs cour de G.V.',
-                'Enfin, dû ns séparer, non',
-                'sans serrement cœur cruel']},
+                'Enfin, dû ns séparer, par',
+                "ménagement pour l'oncle —"]},
  63: {'title': "Traversée de Paris sous la pluie : l'église Saint-Vincent-de-Paul et les salons du Louvre",
       'date': 'Jeudi 5 octobre 1916',
       'lieu': "Paris (Gare d'Orsay, Gare du Nord, église Saint-Vincent-de-Paul, Grands Magasins du Louvre)",
@@ -2332,12 +2342,12 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
  74: {'title': 'Départ définitif de Barlette sous les averses et arrivée de la colonne à Beauval',
       'date': 'Dimanche 15 octobre 1916',
       'lieu': 'De Barlette (Ribeaucourt) à Beauval (Somme)',
-      'critique': "\\textbf{l.~2--3 Quitté maison / Au mess, déj avant 7 h. définitif :} L'adjectif "
-                  '\\textit{définitif}, ajouté en fin de ligne 3, se rapporte au départ de la maison de '
-                  'Barlette mentionné à la ligne supérieure. \\textbf{l.~9 Au milieu de, averses très fortes '
-                  ':} Ellipse du substantif (\\textit{au milieu de [la route]}). \\textbf{l.~14 washing y '
-                  'darning : 70 c. :} Coordination par \\textit{y} de deux gérondifs anglais '
-                  '(\\textit{blanchissage et reprisage}).',
+      'critique': '\\textbf{l.~2--3 Quitté maison définit\\textsuperscript{t} / Au mess, déj avant 7 h. :} '
+                  "L'adverbe \\textit{définit\\textsuperscript{t}} (\\textit{définitivement}) se rapporte au "
+                  'départ de la maison de Barlette. \\textbf{l.~9 Au delà de [blanc], averses très fortes :} '
+                  'Espace blanc ménagé par le diariste pour compléter ultérieurement le nom du village '
+                  'traversé. \\textbf{l.~14 washing \\& darning : 70 c. :} Coordination de deux gérondifs '
+                  'anglais (\\textit{blanchissage et reprisage}).',
       'historique': '\\textbf{l.~6--14 en route vers 11H 1/2... arrivés à Beauval... Connelly : 1 f :} Après '
                     'avoir réglé à Barlette ses frais de blanchissage et de ravaudage (70 centimes) ainsi '
                     "qu'un franc de pourboire à son ordonnance Connelly, Hippolyte quitte à regret le hameau "
@@ -2345,15 +2355,15 @@ SCANS_001_074_META = {1: {'title': 'PREMIÈRE DE COUVERTURE (Couverture rouge à
                     "jusqu'au bourg de Beauval (au sud de Doullens), où il trouve une petite chambre juste "
                     'en face du nouveau mess de la compagnie.',
       'lines': ['Dim. 15 \\hfill Oct / 16',
-                'Levé 6 H 1/2. Tôt paquets terminés. Quitté maison définitt',
-                'Au mess, lgt avant 7 h.',
+                'Levé 6 H 1/2. Ts paquets terminés. Quitté maison définitt',
+                'Au mess, déj avant 7 h.',
                 'Ciel couvert de gros nuages. Pluie fine',
                 'Matinée perdue à attendre moment départ',
                 'Enfin, en route vers 11 H 15 m.',
                 'Lente chevauchée à travers région paisible et pittoresque',
                 'Arrêts fréquents le long routes',
-                'Au 1/2 de [blanc], averses très fortes',
-                'Enfin à 3 H 1/2 s, arrivés à Beauval.',
+                'Au delà de [blanc], averses très fortes',
+                'Enfin à 3 H 1/2 s, arrivés à Beauval. Alors ciel',
                 'éclairci soleil brille',
                 'Petite ville très coquette — remplie de troupes',
                 'Trouvé petite chambre en face de notre mess –',

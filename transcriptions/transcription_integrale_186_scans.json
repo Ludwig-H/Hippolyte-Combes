@@ -114,7 +114,7 @@
     "date": "Jeudi 27 juillet 1916",
     "lieu": "Lumbres, Renescure et Hazebrouck (Pas-de-Calais / Nord)",
     "lines": [
-      "Juillet /16",
+      "27 J. \\hfill Juillet /16",
       "– Aussitôt après breakfast, venu à pied",
       "à Renescure. Toujours même temps gris et",
       "saturé de mélancolie.",
@@ -127,19 +127,20 @@
       "Ville parait assez importante",
       "grande place –",
       "Eglise – (avec Square à g.)",
-      "arpenté lgt",
+      "Fin journée mélancolique : arpenté lgt",
       "seul petite allée jardins potagers devant mon",
       "cottage. Temps de brouillard. Silence et",
       "désert funèbre.",
       "A Renescure : boite de plumes : 1 f 50. –",
       "2 carnets timbres-poste : 2 f + 2 f. —",
       "Cartes ples : d'Ypres : 1 f 20. — C. P. de Renescure : 60 c +",
+      "c. ples (varia) : 50 c. —",
       "A Hazebrouck : Solde : 84 fr. — Varia : 30 c. —",
-      "C. ples : 60 + 10 c — \\hfill 1 cahier-carbone : 1 f 75",
-      "Cte d’E. Major : 90 c. – 3 élastiq. de rechange",
-      "Élastiq. (bretelles) : 65 c —"
+      "C. ples : 60 + 10 c — \\hfill 1 cahier cartonné : 1 f 50",
+      "Cte d’E. Major : 90 c. – Élastiq. (bretelles) : 65 c —"
     ],
     "marginal_notes": {
+      "1": "\\textbf{1 J.} \\textit{scil.} Jeudi.",
       "2": "\\textbf{2 breakfast} \\textit{angl. in ms.}",
       "9": "\\textbf{9 lg} \\textit{abbr. pro} longtemps.",
       "10": "\\textbf{10 lunch} \\textit{angl. in ms.}",
@@ -147,11 +148,12 @@
       "16": "\\textbf{16 cottage} \\textit{angl. in ms.}",
       "19": "\\textbf{19 f.} \\textit{abbr. pro} franc(s).",
       "20": "\\textbf{20 C. P.} \\textit{abbr. pro} Cartes postales. \\textbf{20 Cartes ples} \\textit{abbr. pro} Cartes postales.",
-      "21": "\\textbf{21 fr.} \\textit{abbr. pro} franc(s). \\textbf{21 c.} \\textit{abbr. pro} centimes.",
-      "22": "\\textbf{22 C. ples} \\textit{abbr. pro} Cartes postales.",
-      "23": "\\textbf{23 c.} \\textit{abbr. pro} centimes."
+      "21": "\\textbf{21 c. ples} \\textit{abbr. pro} cartes postales. \\textbf{21 c.} \\textit{abbr. pro} centimes.",
+      "22": "\\textbf{22 fr.} \\textit{abbr. pro} franc(s). \\textbf{22 c.} \\textit{abbr. pro} centimes.",
+      "23": "\\textbf{23 C. ples} \\textit{abbr. pro} Cartes postales.",
+      "24": "\\textbf{24 c.} \\textit{abbr. pro} centimes."
     },
-    "critique": "\\textbf{l.~4, 19--25 saturé de mélancolie / Cartes p\\textsuperscript{les} :} À la l.~4, lire \\textit{saturé de mélancolie}. Le bloc comptable (l.~19--25) atteste l'abréviation constante d'Hippolyte pour \\textit{cartes postales} : \\textit{Cartes p\\textsuperscript{les} : d'Ypres : 1 f 20. — C. P. de Renescure : 60 c}, puis \\textit{A Hazebrouck : Solde : 84 fr. — Varia : 30 c. — C. p\\textsuperscript{les} : 60 + 10 c — 1 cahier-carbone : 1 f 75} et \\textit{Élastiq. (bretelles) : 65 c}.",
+    "critique": "\\textbf{l.~4, 19--25 saturé de mélancolie / Cartes p\\textsuperscript{les} :} À la l.~4, lire \\textit{saturé de mélancolie}. Le bloc comptable (l.~19--25) atteste l'abréviation constante d'Hippolyte pour \\textit{cartes postales} : \\textit{Cartes p\\textsuperscript{les} : d'Ypres : 1 f 20. — C. P. de Renescure : 60 c}, puis \\textit{A Hazebrouck : Solde : 84 fr. — Varia : 30 c. — C. p\\textsuperscript{les} : 60 + 10 c — 1 cahier cartonné : 1 f 50} et \\textit{Élastiq. (bretelles) : 65 c}.",
     "historique": "\\textbf{l.~2--13 Renescure... Hazebrouck :} Parti à pied après le \\textit{breakfast}, Hippolyte visite à Renescure le château féodal de Philippe de Commynes (entouré de douves et flanqué de tours d'angle) et l'église à double nef, avant de gagner Hazebrouck à cheval dans l'après-midi pour toucher sa solde et acheter une carte d'état-major."
   },
   {
@@ -170,19 +172,20 @@
       "fond en petites gouttelettes. — Journée de mouvt. —",
       "Partis à 8h 1/2. Fait route à cheval, en tête",
       "du convoi. —",
-      "Lente chevauchée",
+      "Lente chevauchée le long de routes sablonneuses",
       "bordées de chaque coté par champs d’avoine ou de",
       "blé – aux épis très beaux & très hauts –",
       "Contourné Hazebrouck par les faubourgs",
       "Peu à peu, soleil ardent perce nuages. Après-",
       "midi et fin journée : chaleur intense –",
-      "parvenus au terme mouvt",
+      "Vers 4h 1/2, enfin, parvenus au terme mouvt",
       "gde prairie autour d’ 1 ferme – Impossible trouver",
       "chambre pour moi – Dû me contenter d’ 1 grenier",
       "Harassé de fatigue, suffoqué de chaleur",
       "Besoin de repos extrême",
       "Laissé à Mme Donze, de Lumbres (pour cuisine 2 f",
-      "et 1 f pour oeufs & lait. — Tip au groom pour soigné poney : 1 f",
+      "et 1 f pour oeufs & lait. —",
+      "Food (extra) : 10 c, 1 f, 1 f, 60 c. — Tip au groom pour soigné poney : 1 f",
       "Cartes ples : 10 c"
     ],
     "marginal_notes": {
@@ -191,13 +194,13 @@
       "5": "\\textbf{5 1/2} \\textit{scil.} demi / moitié.",
       "6": "\\textbf{6 mouvt} \\textit{abbr. pro} mouvement.",
       "7": "\\textbf{7 1/2} \\textit{scil.} demi / moitié.",
-      "15": "\\textbf{15 mouvt} \\textit{abbr. pro} mouvement.",
+      "15": "\\textbf{15 mouvt} \\textit{abbr. pro} mouvement. \\textbf{15 1/2} \\textit{scil.} demi / moitié.",
       "16": "\\textbf{16 gde} \\textit{abbr. pro} grande.",
       "20": "\\textbf{20 Mme} \\textit{abbr. pro} Madame.",
-      "21": "\\textbf{21 groom} \\textit{angl. in ms.}",
-      "22": "\\textbf{22 Cartes ples} \\textit{abbr. pro} Cartes postales."
+      "22": "\\textbf{22 c.} \\textit{abbr. pro} centimes. \\textbf{22 Food} \\textit{angl. in ms.}",
+      "23": "\\textbf{23 Cartes ples} \\textit{abbr. pro} Cartes postales."
     },
-    "critique": "\\textbf{l.~20--22 Laissé à Mme Donze, de Lumbres :} Aux l.~20--22, le compte de départ confirme de manière décisive le cantonnement des jours précédents à Lumbres : \\textit{Laissé à Mme Donze, de Lumbres (pour cuisine 2 f et 1 f pour oeufs \\& lait. — Tip au groom pour soigné poney : 1 f / Cartes p\\textsuperscript{les} : 10 c}.",
+    "critique": "\\textbf{l.~20--23 Laissé à Mme Donze, de Lumbres :} Aux l.~20--23, le compte de départ confirme de manière décisive le cantonnement des jours précédents à Lumbres : \\textit{Laissé à Mme Donze, de Lumbres (pour cuisine 2 f et 1 f pour oeufs \\& lait. — Food (extra) : 10 c, 1 f, 1 f, 60 c. — Tip au groom pour soigné poney : 1 f / Cartes p\\textsuperscript{les} : 10 c}.",
     "historique": "\\textbf{l.~7--17 Contourné Hazebrouck... gde prairie autour d'1 ferme :} Chevauchant de 8 h 30 à 16 h 30 en tête de la colonne logistique par les chemins sablonneux de Flandre bordés de blés et d'avoines, Hippolyte contourne Hazebrouck sous un soleil brûlant et doit se contenter d'un grenier de ferme au pied des monts de Flandre."
   },
   {
@@ -211,7 +214,7 @@
       "Sam. 29 \\hfill Juillet 16",
       "Sur pied à 7H 1/2 –",
       "Breakfast à peine terminé, que ce fou de",
-      "Curtis venu me prendre —",
+      "Curtis venu me prendre — Sommes allés chercher fourrage",
       "Ensemble, à St-Jans Cappel, et de là le hameau de ce Mont",
       "Recherché fermes ds ce village et causé longt s/",
       "la dernière attaque à l.q. notre division a pris part",
@@ -228,7 +231,10 @@
       "St Jans - Cappel",
       "(1) maisons très basses – beaux rideaux aux",
       "fenêtres –",
-      "Eglise au clocher effilé"
+      "Eglise au clocher effilé",
+      "[ Payé à fermière où je loge pour 4 oeufs et",
+      "2 litres 1/2 de lait : 1 f 60. —",
+      "5 cartes ples : 50 c. — ]"
     ],
     "marginal_notes": {
       "1": "\\textbf{1 Sam.} \\textit{scil.} Samedi.",
@@ -240,9 +246,12 @@
       "9": "\\textbf{9 ds} \\textit{abbr. pro} dans.",
       "11": "\\textbf{11 s/} \\textit{abbr. pro} sur.",
       "12": "\\textbf{12 lg} \\textit{abbr. pro} longtemps. \\textbf{12 Margte} \\textit{scil.} Marguerite (Calmels).",
-      "18": "\\textbf{18 St} \\textit{abbr. pro} Saint."
+      "18": "\\textbf{18 St} \\textit{abbr. pro} Saint.",
+      "22": "\\textbf{22} \\textit{in marg. cum unco} (comptes).",
+      "23": "\\textbf{23 1/2} \\textit{scil.} demi / moitié.",
+      "24": "\\textbf{24 cartes ples} \\textit{abbr. pro} cartes postales. \\textbf{24 c.} \\textit{abbr. pro} centimes."
     },
-    "critique": "\\textbf{l.~4, 8, 19--21 Curtis / Ctis / [ Payé à fermière... ] :} Aux l.~4 et 8, le manuscrit porte \\textit{Curtis} puis son abréviation \\textit{Ctis}. Les trois dernières lignes (l.~19--21), omises dans le premier brouillon Word, sont restituées d'après le cliché : \\textit{[ Payé à fermière où je loge pour 4 oeufs et / 2 litres 1/2 de lait : 1 f 60. — / 5 cartes p\\textsuperscript{les} : 50 c. — ]}.",
+    "critique": "\\textbf{l.~4, 8, 22--24 Curtis / Ctis / [ Payé à fermière... ] :} Aux l.~4 et 8, le manuscrit porte \\textit{Curtis} puis son abréviation \\textit{Ctis}. Les trois dernières lignes (l.~22--24), omises dans le premier brouillon Word, sont restituées d'après le cliché : \\textit{[ Payé à fermière où je loge pour 4 oeufs et / 2 litres 1/2 de lait : 1 f 60. — / 5 cartes p\\textsuperscript{les} : 50 c. — ]}.",
     "historique": "\\textbf{l.~4--16 St-Jans Cappel... hameau du Mont :} Chargé d'acheter et de faire peser le fourrage dans les fermes de Saint-Jans-Cappel et du Mont-Noir (à la frontière franco-belge), Hippolyte s'étend un moment en bras de chemise parmi les houblonnières, face aux ballons captifs d'observation et aux avions britanniques gagnant le saillant d'Ypres."
   },
   {
@@ -261,7 +270,7 @@
       "houblonnières au village de St-Jans Cappel.",
       "Eglise archi-comble. Hoes à d., fem. à g.",
       "Prêtre en chaire. Assis s/ un petit pont ruisseau",
-      "manger un pain et lu, ruminé à mon aise",
+      "presque en face et lu, ruminé à mon aise",
       "Resté grenier, presque tt l’après-midi, dormi,",
       "lu, et écrit –",
       "D’une fenêtre latérale, regardé la campagne",
@@ -274,10 +283,10 @@
       "Matin, en auto avec mes off. : au",
       "refilling point, puis à Bailleul, enfin",
       "chez fermier Terrien –",
-      "en plein soleil cuisant ai",
-      "dû conduire",
+      "Après-midi, en plein soleil cuisant ai",
+      "dû conduire 1 waggon to the fields",
       "for green forage. Chaleur extrême",
-      "champs attenant",
+      "Fin jour, promené et assis champs attenant",
       "à ma ferme – Sur crête boisée, moulins",
       "à vent, tournent sans cesse"
     ],
@@ -291,9 +300,10 @@
       "16": "\\textbf{16 headcook} \\textit{angl. in ms.}",
       "19": "\\textbf{19 off.} \\textit{abbr. pro} officier(s).",
       "20": "\\textbf{20 refilling point} \\textit{angl. in ms.}",
+      "23": "\\textbf{23 waggon} \\textit{angl. in ms.}",
       "24": "\\textbf{24 green} \\textit{angl. in ms.}"
     },
-    "critique": "\\textbf{l.~2--3 paillasse crevasseuse :} Adjectif dérivé expressif décrivant l'état de sa litière de paille. \\textbf{l.~8 Plein à chaire :} Tour elliptique notant que la nef était bondée jusqu'au pied de la chaire. \\textbf{l.~23--24 conduire 1 waggon to the fields for green forage :} Alternance codique franco-anglaise au sein de la proposition.",
+    "critique": "\\textbf{l.~2--3 paillasse crevasseuse :} Adjectif dérivé expressif décrivant l'état de sa litière de paille. \\textbf{l.~8--9 Prêtre en chaire... presque en face :} Après le sermon, Hippolyte s'assoit sur un petit pont presque en face de l'église. \\textbf{l.~23--24 conduire 1 waggon to the fields for green forage :} Alternance codique franco-anglaise au sein de la proposition.",
     "historique": "\\textbf{l.~6--8 Église archi-comble. Hommes à d., femmes à g. :} Observation ethnographique de la séparation traditionnelle des sexes dans les églises rurales de Flandre intérieure. Le lendemain 31 juillet, après une reconnaissance en automobile au \\textit{refilling point} et à Bailleul, Hippolyte accompagne un fourgon aux champs et verse un généreux pourboire de 5 francs au maître-queux (\\textit{headcook}) Hancock."
   },
   {
@@ -367,7 +377,7 @@
     ],
     "marginal_notes": {
       "3": "\\textbf{3 ds} \\textit{abbr. pro} dans.",
-      "5": "\\textbf{5 J.} \\textit{scil.} Jeudi.",
+      "5": "\\textbf{5 J.} \\textit{scil.} Jeudi. \\textbf{5 j. à} \\textit{abbr. pro} jusqu'à.",
       "7": "\\textbf{7 égl.} \\textit{abbr. pro} église. \\textbf{7 St} \\textit{abbr. pro} Saint.",
       "8": "\\textbf{8 longt} \\textit{abbr. pro} longtemps.",
       "10": "\\textbf{10} \\llbracket intéressant\\rrbracket\\ \\textit{del. in ms.}",
@@ -390,37 +400,36 @@
     "date": "Vendredi 4 août 1916 (matin et après-midi)",
     "lieu": "Saint-Jans-Cappel, Bailleul, Steenwerck, La Croix-du-Bac (Nord)",
     "lines": [
-      "Après qq hésitation",
-      "où bureau",
+      "4 Ve. Après qq hésitation, décidé \\hfill Août 1916",
+      "me rendre ce matin à La Croix-du-Bac, où bureau",
       "mission fse. Parti à cheval vers 10 H. Mis près",
-      "d’ 1 h. ½ pour parcourir distance 15 Kils",
-      "Passé par Bailleul et Steenwerck.",
+      "d’ 1 h. 1/2 pour parcourir distance 15 Kils",
+      "environ. Passé par Bailleul et Steenwerck.",
       "Cette dernière localité, gros village — autour",
       "église très gde —",
       "Ciel d’abord menaçant. qq gouttes de pluie",
       "au retour. Puis vent dissipe nuages et soleil",
       "ardent des jours précédents",
-      "reposé garret.",
+      "Tout l’après-midi, reposé garret.",
       "[ — Touché au bureau mission, à",
-      "La Croix-du-Bac : 80 f 30 c (sur",
-      "supplément 14 juillet) –",
-      "________",
-      "isolée en rase campagne. Y gd calme et",
-      "isolée en rase campagne. Y a calme et",
+      "La Croix-du-Bac : 80 f 30 c (y compris 8 f",
+      "supplément 1er juillet) —",
+      "Ferme isolée en rase campagne. Y gd calme et",
       "Silence"
     ],
     "marginal_notes": {
-      "1": "\\textbf{1 qq} \\textit{abbr. pro} quelque(s).",
+      "1": "\\textbf{1 Ve.} \\textit{scil.} Vendredi. \\textbf{1 qq} \\textit{abbr. pro} quelque(s).",
       "3": "\\textbf{3 fse} \\textit{abbr. pro} française.",
-      "4": "\\textbf{4 Kils} \\textit{abbr. pro} Kilomètres.",
+      "4": "\\textbf{4 Kils} \\textit{abbr. pro} Kilomètres. \\textbf{4 1/2} \\textit{scil.} demi / moitié.",
       "7": "\\textbf{7 gde} \\textit{abbr. pro} grande.",
       "8": "\\textbf{8 qq} \\textit{abbr. pro} quelque(s).",
       "11": "\\textbf{11 garret} \\textit{angl. in ms.}",
       "12": "\\textbf{12} \\textit{in marg. cum unco} (comptes).",
-      "16": "\\textbf{16 gd} \\textit{abbr. pro} grand."
+      "14": "\\textbf{14 1er} \\textit{scil.} premier.",
+      "15": "\\textbf{15 gd} \\textit{abbr. pro} grand."
     },
-    "critique": "\\textbf{l.~5 Steenberke :} Graphie flamande ou phonétique du bourg de Steenwerck. \\textbf{l.~11 repos garret :} Première apparition du substantif anglais \\textit{garret} (mansarde, grenier sous combles) qui se substitue désormais au français \\textit{grenier}. \\textbf{l.~12--15 Touché au bureau milit. :} Encadrement par deux traits horizontaux de la recette de solde.",
-    "historique": "\\textbf{l.~2--14 La Croix du Bac, où mission milit. fr. :} Parti à cheval à 10 h par Bailleul et Steenwerck, Hippolyte parcourt 15 km en une heure et demie pour rejoindre le bureau payeur de la Mission militaire française à La Croix-du-Bac, où il perçoit 80,20 francs (dont 8 francs de supplément pour la fête nationale du 14 Juillet)."
+    "critique": "\\textbf{l.~5 Steenwerck :} Bourg traversé entre Bailleul et La Croix-du-Bac. \\textbf{l.~11 reposé garret :} Emploi du substantif anglais \\textit{garret} (mansarde, grenier sous combles) qui alterne avec le français \\textit{grenier}. \\textbf{l.~12--14 Touché au bureau mission :} Encadrement par un crochet et deux traits horizontaux de la recette de solde (80 fr. 30, y compris 8 fr. de supplément du 1\\textsuperscript{er} juillet).",
+    "historique": "\\textbf{l.~2--14 La Croix-du-Bac, où bureau mission fse :} Parti à cheval à 10 h par Bailleul et Steenwerck, Hippolyte parcourt 15 km en une heure et demie pour rejoindre le bureau payeur de la Mission militaire française à La Croix-du-Bac, où il perçoit 80,30 francs (dont 8 francs de supplément à compter du 1\\textsuperscript{er} juillet)."
   },
   {
     "scan_num": 11,
@@ -435,7 +444,7 @@
       "Ciel nuageux. Vent bruissement à travers",
       "feuillages gds arbres & me plaisais à l’écouter",
       "Impression solitude & d'abandon. Ns sommes",
-      "loin de la ville —",
+      "loin de la ville — N'était le vert intense",
       "& l’épaisseur des frondaisons, on se",
       "croirait déjà en automne",
       "De mon garret, (où suis remonté), la",
@@ -510,14 +519,14 @@
       "Dim. 6. \\hfill Aout 1916",
       "Levé dès 7H ½ –",
       "Temps magnifique",
-      "que Lt Curtis est venu me chercher.",
+      "Breakfast terminé à peine, que Lt Curtis",
       "Venu me prendre – Ensemble allés à pied",
-      "sur rive canal (près",
-      "d'écluse —",
+      "au refilling point, sur rive canal (près",
+      "d'écluse — Parcouru campagne à la",
       "recherche fourrage",
       "Seul, continué j.au village Bac St-Maur",
       "& visité église, à côté mairie",
-      "Après-midi, retrouvé Maurin. Ensemble,",
+      "Après-midi, retrouvé Maurin.",
       "Avec lui, assis sur l’herbe, écouté",
       "musique militre anglse –",
       "Installation provisoire où je suis",
@@ -527,7 +536,8 @@
     ],
     "marginal_notes": {
       "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
-      "4": "\\textbf{4 Lt} \\textit{abbr. pro} Lieutenant.",
+      "4": "\\textbf{4 Lt} \\textit{abbr. pro} Lieutenant. \\textbf{4 Breakfast} \\textit{angl. in ms.}",
+      "6": "\\textbf{6 refilling point} \\textit{angl. in ms.}",
       "9": "\\textbf{9 St} \\textit{abbr. pro} Saint.",
       "13": "\\textbf{13 militre} \\textit{abbr. pro} militaire.",
       "15": "\\textbf{15} \\textit{in marg. cum unco} (comptes). \\textbf{15 propre} \\textit{abbr. pro} propriétaire.",
@@ -541,12 +551,12 @@
     "scan_num": 14,
     "filename": "20251126_093426.jpg",
     "folio": "Folio 7 recto",
-    "title": "FOLIO 7 RECTO (Quête de cantonnements, départ inopiné de la compagnie et nouvelle chambre)",
+    "title": "FOLIO 7 RECTO (Quête de cantonnements avec le Quartermaster, départ inopiné de la compagnie et nouvelle chambre)",
     "date": "Lundi 7 août 1916",
     "lieu": "Steenwerck et route de Bac-Saint-Maur (Nord)",
     "lines": [
       "Lundi 7 – \\hfill Chaleur accablante Aout 1916",
-      "Toute matinée, avec Lt Woot de Cie, cherché",
+      "Toute matinée, av. Qt Mr de Cie, cherché",
       "nouveaux billets et messroom pour mes off.",
       "Libre, avant midi – mais alors harassé",
       "de fatigue –",
@@ -557,14 +567,14 @@
       "Dû aussi changer de quartier.",
       "Suis installé maison au-dessus Post-office,",
       "route de Bac St Maur, avec gde chambre",
-      "au 1er étage. Y couche dès ce soir.",
+      "au 1er étage. Y couché dès ce soir.",
       "Terminé journée avec Maurin",
       "Payé à ma propre : cooking : 1 f",
       "Oeufs & lait : 75 c (2 jours)",
       "1 litre bière : 30 c"
     ],
     "marginal_notes": {
-      "2": "\\textbf{2 Lt} \\textit{abbr. pro} Lieutenant. \\textbf{2 Cie} \\textit{abbr. pro} Compagnie.",
+      "2": "\\textbf{2 Qt Mr} \\textit{angl.} Quartermaster. \\textbf{2 Cie} \\textit{abbr. pro} Compagnie.",
       "3": "\\textbf{3 off.} \\textit{abbr. pro} officier(s). \\textbf{3 billets} \\textit{angl. in ms.}",
       "7": "\\textbf{7 tte} \\textit{abbr. pro} toute. \\textbf{7 Coy} \\textit{angl.} Company.",
       "8": "\\textbf{8 shifté} \\textit{angl. in ms.}",
@@ -594,7 +604,7 @@
       "Encore chalr accablante",
       "Resté le + possible ds ma chambre",
       "Routes si poussiéreuses que impossible",
-      "tenir ma fenêtre ouverte. Et la nuit, on est",
+      "tenir ma fenêtre ouverte —",
       "Nuit, dévoré par les moustiques"
     ],
     "marginal_notes": {
@@ -610,7 +620,7 @@
     "scan_num": 16,
     "filename": "20251126_093506.jpg",
     "folio": "Folio 8 recto",
-    "title": "FOLIO 8 RECTO (Promenade à Sailly-sur-la-Lys, l'église bombardée et l'éclusier méridional)",
+    "title": "FOLIO 8 RECTO (Promenade à Sailly-sur-la-Lys, l'église bombardée et conversation avec l'éclusier sur le général Maxse)",
     "date": "Jeudi 10 août 1916",
     "lieu": "Bac-Saint-Maur et Sailly-sur-la-Lys (Nord / Pas-de-Calais)",
     "lines": [
@@ -621,14 +631,14 @@
       "légèrt arrosées —",
       "Après-midi venu promener à",
       "pied au village de ⟦Maur⟧ Sailly s/ la Lys",
-      "à 3 ou 4 kils. — Ne pas dépassé pont",
+      "à 3 ou 4 kils. de Bac. — Ne pas dépassé pont",
       "Remarqué église brûlée par les Boches",
       "Il ne reste que murs et haut clocher",
       "Retour en longeant berges",
       "de la rivière",
       "Arrêté à écluse et causé",
-      "Causé lgs avec l'éclusier de notre canal",
-      "un chef, Mouxie etc —",
+      "lgt avec l'éclusier de notre gal",
+      "en chef, Maxse etc —",
       "Très beau coucher de",
       "soleil contemplé de ma fenêtre",
       "vers Estaires & Hazebrouck",
@@ -639,11 +649,11 @@
       "5": "\\textbf{5 légèrt} \\textit{abbr. pro} légèrement.",
       "7": "\\textbf{7} \\llbracket Maur\\rrbracket\\ \\textit{del. in ms.} \\textbf{7 s/} \\textit{abbr. pro} sur.",
       "8": "\\textbf{8 kils} \\textit{abbr. pro} kilomètres.",
-      "14": "\\textbf{14 lgs} \\textit{abbr. pro} longtemps.",
+      "14": "\\textbf{14 lgt} \\textit{abbr. pro} longtemps. \\textbf{14 gal} \\textit{abbr. pro} général.",
       "20": "\\textbf{20 Ctes ples} \\textit{abbr. pro} Cartes postales. \\textbf{20 f.} \\textit{abbr. pro} franc(s)."
     },
-    "critique": "\\textbf{l.~8 à 3 k. de Bac. :} Abréviations topographique et métrique pour \\textit{à 3 kilomètres de Bac-Saint-Maur}. \\textbf{l.~14--15 l'éclusier de notre pays, un chef ! :} Emploi affectueux du terme \\textit{pays} (compatriote méridional) et de l'appréciation familière \\textit{un chef}.",
-    "historique": "\\textbf{l.~6--19 Sailly s/ la Lys... Les Australiens :} Marchant le long de la Lys jusqu'au pont de Sailly-sur-la-Lys, Hippolyte observe l'église incendiée par les obus allemands, s'entretient longuement avec un éclusier originaire du Midi et note la présence des troupes australiennes (ANZAC), engagées quelques semaines plus tôt dans la sanglante bataille de Fromelles (19--20 juillet 1916)."
+    "critique": "\\textbf{l.~8 à 3 ou 4 kils. de Bac. :} Abréviations topographique et métrique pour \\textit{à 3 ou 4 kilomètres de Bac-Saint-Maur}. \\textbf{l.~14--15 avec l'éclusier de notre g\\textsuperscript{al} en chef, Maxse etc :} Lecture vérifiée sur le manuscrit : Hippolyte s'entretient avec l'éclusier au sujet du général commandant la 18\\textsuperscript{e} Division, le major-général Sir Ivor Maxse.",
+    "historique": "\\textbf{l.~6--19 Sailly s/ la Lys... notre gal en chef, Maxse... Les Australiens :} Marchant le long de la Lys jusqu'au pont de Sailly-sur-la-Lys, Hippolyte observe l'église incendiée par les obus allemands, s'entretient longuement avec l'éclusier au sujet du major-général Ivor Maxse (commandant la 18\\textsuperscript{e} Division britannique) et note la présence des troupes australiennes (ANZAC), engagées quelques semaines plus tôt dans la sanglante bataille de Fromelles (19--20 juillet 1916)."
   },
   {
     "scan_num": 17,
@@ -668,8 +678,8 @@
       "Oeufs : 50 + 0.05. — —",
       "Question nouveau départ demain",
       "gde chambre, haute fenêtre, belle",
-      "vue campagne très étendue.",
-      "vue campagne très étendue."
+      "vue campagne très étendue",
+      "ouest d'Armentières."
     ],
     "marginal_notes": {
       "1": "\\textbf{1 Ven.} \\textit{scil.} Vendredi.",
@@ -701,7 +711,7 @@
       "la Lys. Causé lgs avec éclusier",
       "puis continué route sur berge",
       "gazonnée — Trouvé oasis d'ombre",
-      "champ de luzerne, en face de champs",
+      "champ de luzerne, ⟦devant⟧ en face de champs",
       "d'épis de blé tout jaunis par soleil",
       "Allongé s/ le dos, gouté repos",
       "délicieux – admirant nuages floconneux",
@@ -714,6 +724,7 @@
     "marginal_notes": {
       "1": "\\textbf{1 Sam.} \\textit{scil.} Samedi.",
       "6": "\\textbf{6 lgs} \\textit{abbr. pro} longtemps.",
+      "9": "\\textbf{9} \\llbracket devant\\rrbracket\\ \\textit{del. in ms.}",
       "11": "\\textbf{11 s/} \\textit{abbr. pro} sur.",
       "13": "\\textbf{13 s/} \\textit{abbr. pro} sur.",
       "15": "\\textbf{15 lunch} \\textit{angl. in ms.}"
@@ -725,21 +736,21 @@
     "scan_num": 19,
     "filename": "20251126_093618.jpg",
     "folio": "Folio 9 verso",
-    "title": "FOLIO 9 VERSO (Attente vaine d'une lettre de Marguerite, « porte-au-noir » et orage sur la Lys)",
+    "title": "FOLIO 9 VERSO (Attente vaine d'une lettre de Marguerite, « pot-au-noir » et orage sur la Lys)",
     "date": "Dimanche 13 et lundi 14 août 1916",
     "lieu": "Bac-Saint-Maur et direction d'Armentières (Nord)",
     "lines": [
       "13 D – \\hfill Aout 1916",
       "Soleil ardent",
-      "attendu en vain un mot de Margte",
+      "Déception pénible : attendu en vain un",
       "mot de Margte –",
-      "Et le Soir, porte-au-noir –",
+      "Tt le jour, pot-au-noir –",
       "Après-midi, venu retrouver Maurin",
       "et avec lui, promené campagne",
       "le long rivière de la Lys –",
       "14 L – Ciel couvert nuages – forte",
       "touffeur, vers 1 H, pluie très forte",
-      "rafraichi l'air — et mouille (abat",
+      "rafraichi l'air — et mouille (colle",
       "poussière routes.",
       "Pris plaisir à regarder averse",
       "zébrer espace de raies obliques, à",
@@ -751,13 +762,13 @@
       "Lait : 5c + 0.05"
     ],
     "marginal_notes": {
-      "3": "\\textbf{3 Margte} \\textit{scil.} Marguerite (Calmels).",
       "4": "\\textbf{4 Margte} \\textit{scil.} Marguerite (Calmels).",
+      "5": "\\textbf{5 Tt} \\textit{abbr. pro} Tout.",
       "15": "\\textbf{15 s/} \\textit{abbr. pro} sur.",
       "17": "\\textbf{17 Lt} \\textit{abbr. pro} Lieutenant.",
       "18": "\\textbf{18 ds} \\textit{abbr. pro} dans."
     },
-    "critique": "\\textbf{l.~5 Et le Soir, porte-au-noir :} Création verbale ou variante du terme maritime \\textit{pot-au-noir}, motivée par l'idée d'une porte ouvrant sur la mélancolie nocturne. \\textbf{l.~11 mouille (colle) cette poussière :} Glose parenthétique immédiate précisant l'effet physique de l'averse sur la poussière crayeuse.",
+    "critique": "\\textbf{l.~5 Tt le jour, pot-au-noir :} Emploi métaphorique du terme maritime \\textit{pot-au-noir} pour désigner l'atmosphère sombre et la mélancolie. \\textbf{l.~11 mouille (colle poussière routes :} Glose parenthétique immédiate précisant l'effet physique de l'averse sur la poussière crayeuse.",
     "historique": "\\textbf{l.~3--18 attendu en vain un mot de Margte... Avec Lt Curtis, course à cheval :} À la veille de son quarantième anniversaire (14 août 1916), l'absence de courrier de Marguerite Calmels plonge Hippolyte dans le spleen dominical ; le lendemain après-midi, après un violent orage qui abat la poussière des routes, il accompagne à cheval le lieutenant Curtis vers Armentières."
   },
   {
@@ -773,7 +784,7 @@
       "fortes ondées. Routes détrempées. Aucun",
       "envie aller promener. Resté partie journée",
       "ds ma chambre. Large pièce : très",
-      "haute de plafond. Vue s/ campagne",
+      "haute de plafond. Belle vue de la",
       "fenêtre, où me tiens sans cesse",
       "— Presque ts les matins, à l'aube,",
       "épais brouillards",
@@ -782,7 +793,6 @@
     ],
     "marginal_notes": {
       "5": "\\textbf{5 ds} \\textit{abbr. pro} dans.",
-      "6": "\\textbf{6 s/} \\textit{abbr. pro} sur.",
       "8": "\\textbf{8 ts} \\textit{abbr. pro} tous.",
       "10": "\\textbf{10 propre} \\textit{abbr. pro} propriétaire.",
       "11": "\\textbf{11 cooking} \\textit{angl. in ms.}"
@@ -799,7 +809,7 @@
     "lieu": "Steenwerck, Fleurbaix et secteur d'Armentières (Nord)",
     "lines": [
       "18 Ve. \\hfill – Aout / 16 –",
-      "vraies giboulées, avec froid, soleil",
+      "Depuis 2 ou 3 jours, vraies giboulées,",
       "comme en mars – Averses prolongées. Puis éclaircies",
       "et soleil reparaît",
       "Hier après-midi, au refilling point et ds 1",
@@ -808,17 +818,16 @@
       "Fin journée, assez belle. Venu retrouver Maurin,",
       "promené ensemble et assis, pour causer",
       "sur l'herbe sèche, près des lignes de ma",
-      "Coy. \\hfill Vers 7 H ½ orage",
-      "[ – Solde & indemnité de fonctions :",
+      "Coy. \\hfill Vers 7 H 1/2 orage",
+      "[ – Solde & indemnité de fonctions : 84 fr.",
       "19 S. — Plu tte nuit —",
-      "Dès 8 H matin, pluie torrentielle.",
-      "Au pt matin, pluie torrentielle. Routes",
-      "Toute matinée et commt après-midi,",
-      "Toute matinée et avant après-midi :",
+      "Dès 8 H matin, pluie torrentielle. Routes",
+      "détrempées. Température rafraîchie délict.",
+      "Toute matinée et commt après-midi :",
+      "averses très fortes — comme grêle.",
       "Vers 2 H 30, ce crétin de Curtis venu",
       "me prendre : dû l'accompagner",
-      "à cheval, & cette fois sur mon poney —",
-      "à cheval, – à cette fois sur un bon poney.",
+      "à cheval, – & cette fois sur un bon poney.",
       "Longue chevauchée zone",
       "exposée, derrière ligne de feu"
     ],
@@ -826,12 +835,12 @@
       "1": "\\textbf{1 Ve.} \\textit{scil.} Vendredi.",
       "5": "\\textbf{5 ds} \\textit{abbr. pro} dans. \\textbf{5 refilling point} \\textit{angl. in ms.}",
       "7": "\\textbf{7 j. à} \\textit{abbr. pro} jusqu'à.",
-      "12": "\\textbf{12} \\textit{in marg. cum unco} (comptes).",
+      "11": "\\textbf{11 1/2} \\textit{scil.} demi / moitié.",
+      "12": "\\textbf{12} \\textit{in marg. cum unco} (comptes). \\textbf{12 fr.} \\textit{abbr. pro} franc(s).",
       "13": "\\textbf{13 tte} \\textit{abbr. pro} toute.",
-      "15": "\\textbf{15 pt} \\textit{abbr. pro} petit.",
+      "15": "\\textbf{15 délict} \\textit{abbr. pro} délicieusement.",
       "16": "\\textbf{16 commt} \\textit{abbr. pro} commencement.",
-      "20": "\\textbf{20 poney} \\textit{angl. in ms.}",
-      "21": "\\textbf{21 poney} \\textit{angl. in ms.}"
+      "20": "\\textbf{20 poney} \\textit{angl. in ms.}"
     },
     "critique": "\\textbf{l.~12--13 [ – Solde \\& indemnité de fonctions : 84 fr. :} Note comptable encadrée d'un crochet au milieu de la page pour séparer le vendredi 18 du samedi 19 août. \\textbf{l.~18 ce crétin de Curtis :} Qualification familière et excédée visant le lieutenant Curtis, qui vient le chercher sous une pluie battante.",
     "historique": "\\textbf{l.~18--23 ce crétin de Curtis venu me prendre : dû l'accompagner à cheval... derrière ligne de feu :} Malgré des averses glaciales semblables à des giboulées de mars, le lieutenant Curtis oblige l'interprète à monter sur son poney à 14 h 30 pour une longue reconnaissance dans la zone battue par l'artillerie allemande, immédiatement en arrière des tranchées de Fleurbaix."
@@ -854,16 +863,16 @@
       "Arrivé par gare (l. est complt déserte)",
       "Parcouru principaux quartiers.",
       "Ville importante, riche — très b. maisons",
-      "Effets du bombardement, grands",
+      "Effets des bombardements : grands",
       "dommages. Un peu partt, ds les r., toits",
       "crevés, de façades trouées, cloisons",
       "d'appartement mises à nu –",
       "Église à briques rouges, sur 1 place",
       "très atteinte. Clocher découronné",
       "Toiture abattue",
-      "Les + gds immeubles inoccupés,",
+      "La + des immeubles inoccupés,",
       "abandonnés par leurs habitants.",
-      "Grosses... [?]",
+      "Écossais",
       "Rentrés par Gde route – Arrêté à",
       "Erquinghem et thé avec 1 off des Sussex",
       "Fin journée ensoleillée et",
@@ -874,12 +883,10 @@
       "5": "\\textbf{5 ttes} \\textit{abbr. pro} toutes.",
       "8": "\\textbf{8 complt} \\textit{abbr. pro} complètement.",
       "12": "\\textbf{12 ds} \\textit{abbr. pro} dans.",
-      "18": "\\textbf{18 gds} \\textit{abbr. pro} grands.",
-      "20": "\\textbf{20 Grosses} \\textit{lect. incert. in ms.}",
       "21": "\\textbf{21 Gde} \\textit{abbr. pro} Grande.",
       "22": "\\textbf{22 off} \\textit{abbr. pro} officier(s)."
     },
-    "critique": "\\textbf{l.~2 blanchisserie Barbry :} Rectification orthographique du patronyme \\textit{Barbry} (écrit \\textit{Barbe} au Scan \\#017). \\textbf{l.~10--18 b. maisons / La + gde p. :} Abréviations pour \\textit{belles maisons} et \\textit{La plus grande partie}.",
+    "critique": "\\textbf{l.~2 blanchisserie Barbry :} Confirmation autographe du patronyme \\textit{Barbry}. \\textbf{l.~10--20 b. maisons / La + des immeubles / Écossais :} Abréviations pour \\textit{belles maisons} et \\textit{La plupart des immeubles}, suivies de l'addition interlinéaire au crayon \\textit{Écossais}.",
     "historique": "\\textbf{l.~3--22 Fleurbaix... Armentières... 1 off des Sussex :} Poursuivant leur chevauchée par la blanchisserie Barbry et Fleurbaix criblé d'obus, Hippolyte et le lieutenant Curtis parcourent les quartiers déserts d'Armentières (gare dévastée, toits éventrés, clocher découronné, cloisons d'appartements mises à nu), puis prennent le thé au retour à Erquinghem-Lys avec un officier du \\textit{Royal Sussex Regiment}."
   },
   {
@@ -923,7 +930,6 @@
       "10": "\\textbf{10} \\llbracket tt\\rrbracket\\ \\textit{del. in ms.} \\textbf{10 tt} \\textit{abbr. pro} tout.",
       "13": "\\textbf{13 gd} \\textit{abbr. pro} grand.",
       "15": "\\textbf{15 L.} \\textit{scil.} Lundi.",
-      "16": "\\textbf{16 c.} \\textit{abbr. pro} centimes.",
       "17": "\\textbf{17 mervx} \\textit{abbr. pro} merveilleux. \\textbf{17 sunset} \\textit{angl. in ms.}",
       "23": "\\textbf{23 washing} \\textit{angl. in ms.}",
       "24": "\\textbf{24 groom} \\textit{angl. in ms.}"
@@ -978,14 +984,14 @@
     "lieu": "Estaires (Nord)",
     "lines": [
       "23 Merc \\hfill Aout / 16",
-      "Temps couvert, mais pas de pluie",
-      "fin journée – De 6H ½, avec 1 légère",
+      "Temps couvert, matinée et surtout",
+      "fin journée – Dès 6H 1/2, cme 1 légère",
       "brume répandue ds l'air. –",
       "Après-midi, promenade à cheval",
       "arrivé j-à Estaires. Visité longuement",
       "cette petite ville, très animée & x magasins",
       "Très belle église (chœur, stalles ogivales",
-      "statuettes en bois sculpté (St-Ambroise)",
+      "et très artistiques statuettes en bois (S. Ambroise etc.)",
       "Remarqué hotel de ville – écusson armoiries",
       "peint mur au dessus du perron –",
       "De nouveau",
@@ -1001,9 +1007,9 @@
     ],
     "marginal_notes": {
       "1": "\\textbf{1 Merc} \\textit{scil.} Mercredi.",
+      "3": "\\textbf{3 cme} \\textit{abbr. pro} comme. \\textbf{3 1/2} \\textit{scil.} demi / moitié.",
       "4": "\\textbf{4 ds} \\textit{abbr. pro} dans.",
       "6": "\\textbf{6 j-à} \\textit{abbr. pro} jusqu'à.",
-      "9": "\\textbf{9 St} \\textit{abbr. pro} Saint.",
       "14": "\\textbf{14 extt} \\textit{abbr. pro} extrêmement.",
       "16": "\\textbf{16 extt} \\textit{abbr. pro} extrêmement.",
       "18": "\\textbf{18 bp} \\textit{abbr. pro} beaucoup.",
@@ -1025,7 +1031,7 @@
       "Après-midi, vent éclairci ciel & brillé très",
       "chaud soleil.",
       "Entré église pr me reposer : surpris",
-      "reposer 1 peu & & découvrir relique St Hippolyte",
+      "reposer 1 peu & y découvert relique de St Hippte,",
       "mon patron!",
       "Revu Maurin & causé avec lui, longuement",
       "Vers 7 H, Fisher venu prendre ts mes sacs",
@@ -1041,7 +1047,7 @@
     ],
     "marginal_notes": {
       "5": "\\textbf{5 pr} \\textit{abbr. pro} pour.",
-      "6": "\\textbf{6 St} \\textit{abbr. pro} Saint.",
+      "6": "\\textbf{6 Hippte} \\textit{scil.} Hippolyte. \\textbf{6 St} \\textit{abbr. pro} Saint.",
       "9": "\\textbf{9 ts} \\textit{abbr. pro} tous.",
       "11": "\\textbf{11 ds} \\textit{abbr. pro} dans.",
       "14": "\\textbf{14 ctes ples} \\textit{abbr. pro} cartes postales. \\textbf{14 f.} \\textit{abbr. pro} franc(s).",
@@ -1049,7 +1055,7 @@
       "17": "\\textbf{17 Mme} \\textit{abbr. pro} Madame. \\textbf{17 cooking} \\textit{angl. in ms.}",
       "18": "\\textbf{18 fr.} \\textit{abbr. pro} franc(s)."
     },
-    "critique": "\\textbf{l.~9--16 Fisher / sous la tente de l'office ds le champ :} Aux l.~9--11 et 16, l'ordonnance s'appelle \\textit{Fisher}, qui porte les sacs \\textit{sous la tente de l'office ds le champ}. À la l.~14, lire \\textit{Steenwerck : ctes p\\textsuperscript{les} : 1 f.}.",
+    "critique": "\\textbf{l.~6--16 relique de St Hippte / Fisher / sous la tente de l'office ds le champ :} À la l.~6, le manuscrit porte \\textit{\\& y découvert relique de St Hippte, mon patron !}. Aux l.~9--11 et 16, l'ordonnance s'appelle \\textit{Fisher}, qui porte les sacs \\textit{sous la tente de l'office ds le champ}. À la l.~14, lire \\textit{Steenwerck : ctes p\\textsuperscript{les} : 1 f.}.",
     "historique": "\\textbf{l.~5--18 découvrir relique St Hippolyte mon patron ! ... Fisher... Mme Cliquennois :} Entré se recueillir dans l'église Saint-Jean-Baptiste de Steenwerck à la veille de quitter les Flandres, Hippolyte Combes a la surprise émue d'y découvrir une relique de son saint patron, saint Hippolyte, puis fait transporter ses bagages par l'ordonnance Fisher sous la tente du bureau de la compagnie dans le champ et règle 4 francs à son hôtesse Mme Cliquennois."
   },
   {
@@ -1060,7 +1066,7 @@
     "date": "Vendredi 25 août 1916",
     "lieu": "De Steenwerck et Bailleul à Saint-Pol-sur-Ternoise (Pas-de-Calais)",
     "lines": [
-      "Ven. 25 Août 1916",
+      "Ven. 25 \\hfill Août 1916",
       "Partis vers 8H m.. – à cheval, soleil s'est",
       "levé peu à peu. devint brulant",
       "A 11H m. – à Bailleul.",
@@ -1069,7 +1075,7 @@
       "Train démarre au 1H ½",
       "Traversé plusies gares imptes sans arrêt",
       "A Lillers, vers 2H ½ \\hfill Hazebrouck : 2H",
-      "A St. Pol : à 4H 30 s. Berguette : 2H30",
+      "A St. Pol : à 4H 30 s. \\hfill Berguette : 2H30",
       "Pris route à 5H – d'abord bruine,",
       "puis pluie battante",
       "Pays pittoresque. Ce n'est plus la",
@@ -1077,7 +1083,7 @@
       "Région très boisée. Verdures fraîches",
       "comme au printemps. Si champs n'étaient",
       "pas moissonnés et les gerbes d'or entassées",
-      "en meules, on ne croirait pas être",
+      "en moyettes, on ne croirait pas être",
       "à la fin de l'été"
     ],
     "marginal_notes": {
@@ -1128,7 +1134,7 @@
       "11": "\\textbf{11 délicieust} \\textit{abbr. pro} délicieusement.",
       "14": "\\textbf{14 j'à} \\textit{abbr. pro} jusqu'à.",
       "17": "\\textbf{17 bp} \\textit{abbr. pro} beaucoup.",
-      "19": "\\textbf{19 off.} \\textit{abbr. pro} officier(s).",
+      "19": "\\textbf{19 s-off.} \\textit{abbr. pro} sous-officier.",
       "20": "\\textbf{20 offs} \\textit{abbr. pro} officiers. \\textbf{20 mess} \\textit{angl. in ms.}",
       "21": "\\textbf{21 groom} \\textit{angl. in ms.}"
     },
@@ -1222,7 +1228,7 @@
     "date": "Mercredi 30 août 1916",
     "lieu": "Marquay et Bailleul-aux-Cornailles (Pas-de-Calais)",
     "lines": [
-      "30 Me",
+      "30 Me \\hfill Août 1916",
       "Tout le jour, pluie. et rafales",
       "Vent tourmente grands arbres du",
       "voisinage (boqueteau de l'autre côté de",
@@ -1261,7 +1267,7 @@
       "la nuit en prière ds cette = église",
       "Rentré par Ostreville",
       "Course m'a fait bp de bien",
-      "A Saint-Pol : 12 ctes ples : 50 c — Verre : 10 c",
+      "A Saint-Pol : 12 ctes ples : 50 c — Varia : 40 c",
       "Carte du départt : 70 c. — Div. cartes ples : 0.30",
       "Cartes ples militaires : 40 c. — \\hfill L. 0.80"
     ],
@@ -1291,10 +1297,10 @@
     "lines": [
       "1er V. \\hfill Septbre 1916",
       "Matinée, temps variable",
-      "Tout l'après-midi, beau soleil et grand",
+      "Tout l'après-midi, qq rayons de soleil et puis",
       "ciel couvert de nuages",
       "Après lunch, allé au village de Ligny-",
-      "Saint-Flochel, à 2 k. 1/2 —",
+      "Saint-Flochel, à 2 k. 1/2 — Route en pente longe",
       "bois où régiments anglais faisaient les manœuvres",
       "spéciales",
       "Visité un instant petite eglise du hameau St Fl.",
@@ -1313,6 +1319,7 @@
     ],
     "marginal_notes": {
       "1": "\\textbf{1 1er} \\textit{scil.} premier.",
+      "3": "\\textbf{3 qq} \\textit{abbr. pro} quelque(s).",
       "5": "\\textbf{5 lunch} \\textit{angl. in ms.}",
       "6": "\\textbf{6 1/2} \\textit{scil.} demi / moitié.",
       "9": "\\textbf{9 St} \\textit{abbr. pro} Saint.",
@@ -1332,8 +1339,8 @@
       "2 S. \\hfill Septbre 16",
       "Matinée, ds les champs. Herbes",
       "mouillant souliers et eau",
-      "arrive j'à la peau. Terre friable (boueuse)",
-      "& semelles en fortes mottes.",
+      "arrive j'à la peau. Terre friable s'accroche",
+      "aux semelles en fortes mottes.",
       "Ciel tout couvert de gros nuages – A",
       "l'horizon, pointent clochers villages voisins",
       "au sein futaies & boqueteaux –",
@@ -1362,7 +1369,7 @@
       "17": "\\textbf{17 lgt} \\textit{abbr. pro} longtemps. \\textbf{17 St} \\textit{abbr. pro} Saint.",
       "18": "\\textbf{18 plusies} \\textit{abbr. pro} plusieurs."
     },
-    "critique": "\\textbf{l.~4 Terre friable (boueuse) :} Parenthèse explicative précisant la nature collante du limon d'Artois détrempé. \\textbf{l.~10--11 Washing : 1 f (1 shirt. 1 vest / 1 p. socks. 1 handk) :} Inventaire de linge entièrement rédigé en anglais (1 chemise, 1 gilet de flanelle, 1 paire de chaussettes, 1 mouchoir).",
+    "critique": "\\textbf{l.~4--5 Terre friable s'accroche aux semelles en fortes mottes :} Notation précise de la nature collante du limon d'Artois détrempé. \\textbf{l.~10--11 Washing : 1 f (1 shirt. 1 vest / 1 p. socks. 1 handk) :} Inventaire de linge entièrement rédigé en anglais (1 chemise, 1 gilet de flanelle, 1 paire de chaussettes, 1 mouchoir).",
     "historique": "\\textbf{l.~12--21 3 Dim. Malgré ciel menaçant allé à pied j-à St-Pol :} Après une matinée du samedi passée dans les herbes trempées de rosée qui alourdissent ses brodequins de mottes de boue, Hippolyte redescend à pied le dimanche 3 septembre jusqu'à Saint-Pol-sur-Ternoise en savourant le grand air du plateau avant l'orage du soir."
   },
   {
@@ -1385,7 +1392,7 @@
       "si mal.",
       "5 Ma. Matin, prairie, appris par l'Orderly",
       "Sorti pr me renseigner. Mais rien d'officiel",
-      "ou confirmaton mauvaise nouvelle : encore 8",
+      "eu confirmaton mauvaise nouvelle : encore 8",
       "jours à moisir ici, hélas!",
       "Et Toujours, même temps affreux –",
       "Ciel couvert de nuages – Pluie intermittente",
@@ -1447,10 +1454,10 @@
       "6 Me Enfin, beau temps. – \\hfill Septbre 1916",
       "Après-midi superbe Chaud soleil.",
       "Resté 2 h sur pature, assis chaise à",
-      "l'ombre de vieux arbres. Loin ds gd air.",
+      "l'ombre de vieux noyer. Bain de gd air.",
       "Mais au retour, dû accompagner Lt Ctis à",
-      "ferme voisinage & très bien accueillis",
-      "par propre [propriétaire?], Mme Vauchel, femme très",
+      "ferme voisinage. Y très bien accueillis",
+      "par propre, Mme Vauchel, femme très",
       "intelligente & raisonnant admirabt",
       "Languis tjs ds ce trou perdu, et",
       "sale, où aucune distraction —",
@@ -1472,9 +1479,9 @@
       "\\hfill Consommations : 50 c ]"
     ],
     "marginal_notes": {
-      "4": "\\textbf{4 ds} \\textit{abbr. pro} dans. \\textbf{4 gd} \\textit{abbr. pro} grand.",
+      "4": "\\textbf{4 gd} \\textit{abbr. pro} grand.",
       "5": "\\textbf{5 Lt} \\textit{abbr. pro} Lieutenant. \\textbf{5 Ctis} \\textit{abbr. pro} Curtis.",
-      "7": "\\textbf{7} \\textit{lect. incert. in ms.} \\textbf{7 Mme} \\textit{abbr. pro} Madame.",
+      "7": "\\textbf{7 Mme} \\textit{abbr. pro} Madame. \\textbf{7 propre} \\textit{abbr. pro} propriétaire.",
       "8": "\\textbf{8 admirabt} \\textit{abbr. pro} admirablement.",
       "9": "\\textbf{9 ds} \\textit{abbr. pro} dans. \\textbf{9 tjs} \\textit{abbr. pro} toujours.",
       "14": "\\textbf{14 ds} \\textit{abbr. pro} dans.",
@@ -1540,7 +1547,7 @@
       "school, et d'où vue panoramique",
       "contrée environnante",
       "Temps tt fait beau – Soleil supportable",
-      "Peu de poussière routes",
+      "Flots de poussière route",
       "Vers 1H s., terminé 1ère étape, au",
       "hameau de Monts-en-Ternois.",
       "Cantonnés ds gde ferme, à l'entrée du",
@@ -1619,8 +1626,8 @@
     "lines": [
       "Lundi 11 — Sur pied, dès 5 H — \\hfill Septbre /16",
       "dérangé sur matin",
-      "Quitté Oppy 7 H. Ciel couvert, puis",
-      "pluie fine & froide. Après 3 H soir,",
+      "Quitté Oppy 7 H. Ciel couvert",
+      "Chevauché matinée entière — Après 3 H soir,",
       "seulement, arrivés à Raincheval",
       "Aujd’hui souffert poussière.",
       "A 11H m. soleil perce nuages – et",
@@ -1631,8 +1638,8 @@
       "des postes",
       "Raincheval, très gros village",
       "maisons mal entretenues – fourmillant",
-      "fourmillant",
-      "de tommies.",
+      "de tommies. Très nombreuses troupes y",
+      "cantonnées.",
       "Trouvé chambrette famille de pauvres",
       "mais braves gens. Fille aînée, prête à accoucher",
       "mangé tjs au mess off",
@@ -1643,7 +1650,7 @@
     ],
     "marginal_notes": {
       "7": "\\textbf{7 m.} \\textit{abbr. pro} matin.",
-      "16": "\\textbf{16 tommies} \\textit{angl. in ms.}",
+      "15": "\\textbf{15 tommies} \\textit{angl. in ms.}",
       "19": "\\textbf{19 tjs} \\textit{abbr. pro} toujours. \\textbf{19 off} \\textit{abbr. pro} officier(s).",
       "20": "\\textbf{20 groom} \\textit{angl. in ms.}",
       "21": "\\textbf{21 c.} \\textit{abbr. pro} centimes.",
@@ -1761,11 +1768,11 @@
       "château. Ombre fraîche & délicieuse.",
       "gds arbres séculaires – Chênes très droits",
       "aux troncs énormes",
-      "Matin, rencontré insttr à la sortie église.",
+      "Matin, rencontré intte à la sortie église.",
       "et avec lui venu chez le petit vieux, qui",
       "possède des collections très belles de faïences,",
       "pierres, médailles etc etc",
-      "Après-midi, assisté chants service (Wesleyans)",
+      "Après-midi, assisté church service (Wesleyans)",
       "ds petite salle en face église village",
       "— Washing : 1 f. —",
       "(Varennes)"
@@ -1779,7 +1786,7 @@
       "8": "\\textbf{8 ds} \\textit{abbr. pro} dans.",
       "9": "\\textbf{9 horse-lines} \\textit{angl. in ms.}",
       "11": "\\textbf{11 gds} \\textit{abbr. pro} grands.",
-      "13": "\\textbf{13 insttr} \\textit{abbr. pro} instituteur.",
+      "13": "\\textbf{13 intte} \\textit{abbr. pro} interprète.",
       "18": "\\textbf{18 ds} \\textit{abbr. pro} dans.",
       "19": "\\textbf{19 f.} \\textit{abbr. pro} franc(s). \\textbf{19 Washing} \\textit{angl. in ms.}"
     },
@@ -1800,11 +1807,11 @@
       "frse. Malgré averses incessantes, parti",
       "à cheval vers 1H ½. Toute l'après-midi par",
       "monts & par vaux, sur routes boueuses",
-      "A Hédauville, appris par 1 off. q. divon, contrt",
+      "A Hédauville, appris que XVIIIe divon, contrt",
       "n'a pas quitté Acheux — Le H.Q. 18e divon reste",
       "où elle était.",
       "Revenu par Forceville à Acheux – où",
-      "enfin retrouvé mission près de notre divon —",
+      "enfin retrouvé mission frse de notre divon —",
       "Au retour, fait route en cie de Brammas",
       "Temps affreux. Cape traversée par la pluie",
       "Habits trempés. Souliers remplis d'eau",
@@ -1819,8 +1826,9 @@
     ],
     "marginal_notes": {
       "4": "\\textbf{4 frse} \\textit{abbr. pro} française.",
-      "7": "\\textbf{7 off.} \\textit{abbr. pro} officier(s).",
-      "8": "\\textbf{8 H.Q.} \\textit{angl.} Headquarters.",
+      "7": "\\textbf{7 contrt} \\textit{abbr. pro} contrairement. \\textbf{7 divon} \\textit{abbr. pro} division.",
+      "8": "\\textbf{8 divon} \\textit{abbr. pro} division. \\textbf{8 H.Q.} \\textit{angl.} Headquarters.",
+      "11": "\\textbf{11 frse} \\textit{abbr. pro} française. \\textbf{11 divon} \\textit{abbr. pro} division.",
       "12": "\\textbf{12 cie} \\textit{abbr. pro} compagnie.",
       "15": "\\textbf{15 dérangt} \\textit{abbr. pro} dérangement.",
       "16": "\\textbf{16 qq} \\textit{abbr. pro} quelque(s). \\textbf{16 changemt} \\textit{abbr. pro} changement.",
@@ -1884,10 +1892,10 @@
       "Dernière nuit chambre, préoccupé",
       "paquets à faire et voyage à Toulouse",
       "départ le 25",
-      "Nuit très sombre — & stars in sky noir.",
+      "Nuit très sombre — qq stars au ciel noir.",
       "[ — 2 tins of coffee milk, à la",
-      "Cantine : 2 f 40 — ]",
-      "eggs & food : 1f 50 –"
+      "Cantine : 3 f 25",
+      "Eggs & food : 1 f 10 — ]"
     ],
     "marginal_notes": {
       "3": "\\textbf{3 j'à} \\textit{abbr. pro} jusqu'à.",
@@ -1895,10 +1903,11 @@
       "9": "\\textbf{9 Cme} \\textit{abbr. pro} Comme. \\textbf{9 Cap.} \\textit{abbr. pro} Capitaine.",
       "10": "\\textbf{10 moving} \\textit{angl. in ms.}",
       "11": "\\textbf{11 gde} \\textit{abbr. pro} grande.",
+      "15": "\\textbf{15 qq} \\textit{abbr. pro} quelque(s).",
       "16": "\\textbf{16} \\textit{in marg. cum unco} (comptes). \\textbf{16 tins} \\textit{angl. in ms.}",
       "18": "\\textbf{18 food} \\textit{angl. in ms.}"
     },
-    "critique": "\\textbf{l.~2 Soleil ardent t jour :} Abréviation \\textit{t} pour \\textit{tout le}. \\textbf{l.~10 Panton m'a appris que we are moving Dawn :} Discours indirect libre basculant en anglais sur l'ordre de mouvement (\\textit{we are moving [at] Dawn}). \\textbf{l.~15 Nuit très sombre – y stars are nil vis. :} Jargon télégraphique anglo-latin (\\textit{stars are nil visible}, visibilité stellaire nulle).",
+    "critique": "\\textbf{l.~2 Soleil ardent t. jour :} Abréviation \\textit{t.} pour \\textit{tout le}. \\textbf{l.~10 Panton m'a appris que we are moving demain :} Discours indirect libre mêlant l'anglais (\\textit{we are moving}) et le français (\\textit{demain}). \\textbf{l.~15 Nuit très sombre — qq stars au ciel noir :} Alternance codique spontanée dans la notation nocturne.",
     "historique": "\\textbf{l.~3--11 station de Raincheval... match de football s/ prairie à coté horse-lines the Bedfs... Méaulte :} Tandis qu'il s'informe des horaires de trains à la gare de Raincheval en vue de sa prochaine permission, Hippolyte assiste à un match de football disputé par les soldats du \\textit{Bedfordshire Regiment} en maillots rouge vif et bleu et blanc, avant d'apprendre par le capitaine Panton l'ordre de départ pour le lendemain à l'aube en direction de Méaulte."
   },
   {
@@ -1928,10 +1937,10 @@
       "Cantonnés in the open – champs au flanc",
       "coteau.",
       "Très b. fin journée.",
-      "Me suis arrangé hutte avec épaisses bottes",
-      "verte comme litière – Couché bonne nuit",
+      "Me suis arrangé hutte avec épaisses brches",
+      "vertes cme toiture – Couché bonne nuit",
       "Carte du Petit Journal : 60 c",
-      "A Mme Petit [?] propre à Acheux. 1 f (washing)"
+      "A Mme Petit propre à Acheux : 1 f (washing)"
     ],
     "marginal_notes": {
       "3": "\\textbf{3 ts} \\textit{abbr. pro} tous.",
@@ -1940,10 +1949,12 @@
       "12": "\\textbf{12 j. à} \\textit{abbr. pro} jusqu'à.",
       "13": "\\textbf{13 Cap.} \\textit{abbr. pro} Capitaine. \\textbf{13 1/2} \\textit{scil.} demi / moitié.",
       "14": "\\textbf{14 Coy} \\textit{angl.} Company.",
-      "23": "\\textbf{23 Petit} \\textit{lect. incert. in ms.} \\textbf{23 Mme} \\textit{abbr. pro} Madame."
+      "20": "\\textbf{20 brches} \\textit{abbr. pro} branches.",
+      "21": "\\textbf{21 cme} \\textit{abbr. pro} comme.",
+      "23": "\\textbf{23 Mme} \\textit{abbr. pro} Madame. \\textbf{23 propre} \\textit{abbr. pro} propriétaire."
     },
     "critique": "\\textbf{l.~8--9 garage de Léalvillers / Pizzi, en auto :} Aux l.~8--9, on lit : \\textit{A peine arrivions-ns vers garage de Léalvillers que Pizzi, en auto, à notre rencontre av. message} (l'officier interprète de la 18\\textsuperscript{e} Division, le lieutenant Pizzi, vient lui remettre en automobile l'avis relatif à sa permission).",
-    "historique": "\\textbf{l.~4--21 Cap West... Lealvillers... Forceville... aménagé hutte avec épaisse botte verte comme litière :} Partie à 9 h 30 sous les ordres du capitaine West, la compagnie reçoit en chemin à hauteur du garage ferroviaire de Léalvillers un pli modifiant sa destination : au lieu de descendre jusqu'à Méaulte, l'unité oblique par la gare d'Acheux vers les coteaux de Forceville, où Hippolyte bivouaque en plein champ sous une hutte garnie d'une botte de fourrage vert."
+    "historique": "\\textbf{l.~4--21 Cap West... Léalvillers... Forceville... arrangé hutte avec épaisses brches vertes cme toiture :} Partie à 9 h 30 sous les ordres du capitaine West, la compagnie reçoit en chemin à hauteur du garage ferroviaire de Léalvillers un pli modifiant sa destination : au lieu de descendre jusqu'à Méaulte, l'unité oblique par la gare d'Acheux vers les coteaux de Forceville, où Hippolyte bivouaque en plein champ sous une hutte recouverte d'épaisses branches vertes en guise de toiture."
   },
   {
     "scan_num": 49,
@@ -1991,24 +2002,24 @@
     "scan_num": 50,
     "filename": "20251126_103019.jpg",
     "folio": "Folio 25 recto",
-    "title": "FOLIO 25 RECTO (Lundi 25 septembre 1916 — Réveil à 4 h, corvée de green forage à Forceville avec le Lt. Ford et départ en permission à la gare d'Acheux-Varennes)",
+    "title": "FOLIO 25 RECTO (Lundi 25 septembre 1916 — Réveil à 7 h, corvée de green forage à Forceville avec le Lt. Ford et départ en permission à la gare d'Acheux-Varennes)",
     "date": "Lundi 25 septembre 1916 (matin et après-midi)",
     "lieu": "Forceville et gare d'Acheux-Varennes (Somme)",
     "lines": [
       "25 L. \\hfill Sept /16",
-      "Vers 4 H, sur pied.",
+      "Vers 7 H, sur pied.",
       "Au firmament bleuissant, léger croissant lunaire",
       "et 2 étoiles très brillantes.",
       "Temps superbe.",
-      "Bientôt, suis tt prêt à partir.",
+      "Bientôt, entiert prêt à partir.",
       "Promené champs tt en haut plateau.",
-      "Puis venu à Forceville avec Lt Ford, for green",
+      "Dû venir à Forceville av. Lt Ford, for green",
       "forage. Chaleur très forte.",
       "A midi enfin, monté sur le dernier wagon",
       "du convoy allant au railhead, puis continué",
-      "à travers chps pr station d'Acheux-Varennes",
+      "à travers chps j'à station d'Acheux-Varennes",
       "Laissé mes colis à l'office de l'R.T.O. & venu",
-      "village déjeuner.",
+      "village, déjeuné.",
       "Puis attendu lgt. ds mon compartimt petit",
       "train départemental en gare —",
       "chaleur intense",
@@ -2017,19 +2028,19 @@
     ],
     "marginal_notes": {
       "1": "\\textbf{1 L.} \\textit{scil.} Lundi.",
-      "6": "\\textbf{6 tt} \\textit{abbr. pro} tout.",
+      "6": "\\textbf{6 entiert} \\textit{abbr. pro} entièrement.",
       "7": "\\textbf{7 tt} \\textit{abbr. pro} tout.",
       "8": "\\textbf{8 Lt} \\textit{abbr. pro} Lieutenant. \\textbf{8 green} \\textit{angl. in ms.}",
       "9": "\\textbf{9 forage} \\textit{angl. in ms.}",
       "11": "\\textbf{11 railhead} \\textit{angl. in ms.}",
-      "12": "\\textbf{12 pr} \\textit{abbr. pro} pour. \\textbf{12 chps} \\textit{abbr. pro} champs.",
+      "12": "\\textbf{12 j'à} \\textit{abbr. pro} jusqu'à. \\textbf{12 chps} \\textit{abbr. pro} champs.",
       "13": "\\textbf{13 R.T.O.} \\textit{angl.} Railway Transport Officer.",
       "15": "\\textbf{15 ds} \\textit{abbr. pro} dans. \\textbf{15 lgt} \\textit{abbr. pro} longtemps.",
       "18": "\\textbf{18} \\textit{in marg. cum unco} (comptes). \\textbf{18 groom} \\textit{angl. in ms.}",
       "19": "\\textbf{19 Lunch} \\textit{angl. in ms.}"
     },
-    "critique": "\\textbf{l.~1--18 25 Lundi. — Vers 4 H, sur pied... station d'Acheux-Varennes :} Ce feuillet (\\texttt{20251126\\_103019.jpg}), omis dans le premier fichier Word, décrit le départ en permission le lundi 25 septembre 1916 : réveil à 4 h, corvée de \\textit{green forage} à Forceville avec le lieutenant \\textit{Ford}, trajet sur le dernier wagon du \\textit{convoy} allant au \\textit{railhead}, dépôt des colis à l'office du \\textit{R.T.O.} à la station d'Acheux-Varennes et attente dans le petit train départemental.",
-    "historique": "\\textbf{l.~10--16 station d'Acheux-Varennes :} Réveillé dès 4 h du matin mais retenu toute la matinée par une ultime corvée de fourrage vert (\\textit{green forage}) avec le lieutenant First sur le plateau de Forceville, Hippolyte gagne à midi en fourgon le \\textit{railhead} d'Acheux-Varennes, dépose ses bagages au bureau du \\textit{Railway Transport Officer} et attend jusqu'à 18 h 40 le départ du train de permissionnaires vers Amiens."
+    "critique": "\\textbf{l.~1--18 25 L. — Vers 7 H, sur pied... station d'Acheux-Varennes :} Ce feuillet (\\texttt{20251126\\_103019.jpg}), omis dans le premier fichier Word, décrit le départ en permission le lundi 25 septembre 1916 : réveil à 7 h, corvée de \\textit{green forage} à Forceville avec le lieutenant \\textit{Ford}, trajet sur le dernier wagon du \\textit{convoy} allant au \\textit{railhead}, dépôt des colis à l'office du \\textit{R.T.O.} à la station d'Acheux-Varennes et attente dans le petit train départemental.",
+    "historique": "\\textbf{l.~10--16 station d'Acheux-Varennes :} Sur pied dès 7 h du matin mais retenu dans la matinée par une ultime corvée de fourrage vert (\\textit{green forage}) avec le lieutenant Ford sur le plateau de Forceville, Hippolyte gagne à midi en fourgon le \\textit{railhead} d'Acheux-Varennes, dépose ses bagages au bureau du \\textit{Railway Transport Officer}, déjeune au village et attend le départ du petit train départemental vers Gézaincourt et Amiens."
   },
   {
     "scan_num": 51,
@@ -2084,7 +2095,7 @@
       "Suivi voies j'que bureau militre. Là",
       "obtenu l'autorison de sortir et accompagné",
       "par un planton j'à la porte",
-      "De Bourget, entrée de la rue de Flandre",
+      "Du Bourget, sortie de la rue de Flandre",
       "pris tramway qui m'a conduit j-à gare",
       "du Nord. De là, par métro, arrivé",
       "à Station Tuileries. (changé au Chatelet)",
@@ -2124,36 +2135,38 @@
       "Déjeuné – Bd St-Germain",
       "Reposé – jardin Notre - Dame",
       "Magasins de l'Hotel - de - Ville",
-      "1/2 h assis banc ds le square de la",
-      "Tour St-Jacques —",
-      "Gde mouvt rue de",
-      "Rivoli. Animation oubliée. —",
-      "Après diner, venu lentement, pour le",
-      "quai, où gare d'Orsay",
+      "Lgt assis banc ds le square de la",
+      "Tour St-Jacques — Gros mouvt de rue de",
+      "Rivoli. Animation ordinre. —",
+      "Après diner, venu lentemt, par les",
+      "quais à gare d'Orsay",
       "Départ train vers 8H S",
       "Tramway : Bourget - gare du Nord : 50c",
-      "Métro : 1 f. — Envoi : 10 c, 1 f, 2 f. (vêtements)",
+      "Métro : 1 f. — Enregt : 10 c, 1 f, 2 f. (vêtements)",
       "Billet 2e cl. Toulouse 1/4 place : 15 f 15 \\hfill Coupe chvx : 1 f",
-      "Clichés : 12 f 50, remise, une douzne : 10 f 50",
+      "Christofle : 12 f 50, remise, une douzne : 10 f 50",
       "Zyromski : L'orgueil humain : 4 f : net : 3 f 20",
       "Maeterlinck : Les Débris : 3 f 50. — Cirage : 25 c",
       "Déjeuner : 1 f 50. — Dîner : 1 f 60. — Ctes ples : 15 c",
       "Fleurs artiflles, Hotel de Ville : 8 f 50 couronne",
-      "Képi au Bon Marché : 8 f – Consigne 1f",
-      "Carte de Verdun : 50 c — Eclairer souliers : 30 c",
-      "Carte Roumanie : 30 c – divers : W.C : 10c"
+      "Képi : au Bon Marché : 8 f 75. — Consigne : 15 c",
+      "Carte de Verdun : 50 c — Lacets de souliers : 30 c",
+      "Carte Roumanie : 30 c — Journx : W.C. : 15 c"
     ],
     "marginal_notes": {
       "2": "\\textbf{2 Bd} \\textit{abbr. pro} Boulevard. \\textbf{2 St} \\textit{abbr. pro} Saint.",
-      "5": "\\textbf{5 ds} \\textit{abbr. pro} dans. \\textbf{5 1/2} \\textit{scil.} demi / moitié.",
-      "6": "\\textbf{6 St} \\textit{abbr. pro} Saint.",
-      "7": "\\textbf{7 Gde} \\textit{abbr. pro} Grande. \\textbf{7 mouvt} \\textit{abbr. pro} mouvement.",
-      "13": "\\textbf{13 f.} \\textit{abbr. pro} franc(s).",
-      "14": "\\textbf{14 chvx} \\textit{abbr. pro} cheveux.",
-      "18": "\\textbf{18 Ctes ples} \\textit{abbr. pro} Cartes postales.",
-      "19": "\\textbf{19 artiflles} \\textit{abbr. pro} artificielles."
+      "5": "\\textbf{5 ds} \\textit{abbr. pro} dans. \\textbf{5 Lgt} \\textit{abbr. pro} Longtemps.",
+      "6": "\\textbf{6 mouvt} \\textit{abbr. pro} mouvement. \\textbf{6 St} \\textit{abbr. pro} Saint.",
+      "7": "\\textbf{7 ordinre} \\textit{abbr. pro} ordinaire.",
+      "8": "\\textbf{8 lentemt} \\textit{abbr. pro} lentement.",
+      "12": "\\textbf{12 Enregt} \\textit{abbr. pro} Enregistrement. \\textbf{12 f.} \\textit{abbr. pro} franc(s).",
+      "13": "\\textbf{13 chvx} \\textit{abbr. pro} cheveux.",
+      "14": "\\textbf{14 douzne} \\textit{abbr. pro} douzaine.",
+      "17": "\\textbf{17 Ctes ples} \\textit{abbr. pro} Cartes postales.",
+      "18": "\\textbf{18 artiflles} \\textit{abbr. pro} artificielles.",
+      "21": "\\textbf{21 Journx} \\textit{abbr. pro} Journaux."
     },
-    "critique": "\\textbf{l.~5--8, 15--17 Tour St-Jacques / Zyromski / Maeterlinck :} Aux l.~5--8, Hippolyte écrit \\textit{1/2 h assis banc ds le square de la Tour St-Jacques — Gde mouvt rue de Rivoli. Animation oubliée}. Dans le bloc comptable (l.~15--17), en rapport avec la mention \\textit{Chez Colin} (l.~22, librairie Armand Colin, 103 boulevard Saint-Michel), il achète deux livres : \\textbf{\\textit{Zyromski : L'orgueil humain : 4 f : net : 3 f 20}} (essai de son maître toulousain Ernest Zyromski publié chez Armand Colin en 1904) et \\textbf{\\textit{Maeterlinck : Les Débris : 3 f 50}} (\\textit{Les Débris de la guerre}, recueil de Maurice Maeterlinck paru en 1916).",
+    "critique": "\\textbf{l.~5--7, 14--16 Tour St-Jacques / Christofle / Zyromski / Maeterlinck :} Aux l.~5--7, Hippolyte écrit \\textit{Lgt assis banc ds le square de la / Tour St-Jacques — Gros mouvt de rue de / Rivoli. Animation ordin\\textsuperscript{re}}. Dans le bloc comptable (l.~14--16), en rapport avec la mention \\textit{Chez Colin} (Scan \\#052, l.~22, librairie Armand Colin, 103 boulevard Saint-Michel), il note l'achat d'argenterie \\textit{Christofle : 12 f 50, remise, une douz\\textsuperscript{ne} : 10 f 50} et de deux livres : \\textbf{\\textit{Zyromski : L'orgueil humain : 4 f : net : 3 f 20}} (essai de son maître toulousain Ernest Zyromski publié chez Armand Colin en 1904) et \\textbf{\\textit{Maeterlinck : Les Débris : 3 f 50}} (\\textit{Les Débris de la guerre}, recueil de Maurice Maeterlinck paru en 1916).",
     "historique": "\\textbf{l.~5--22 Tour St-Jacques... rue de Rivoli... Zyromski... Maeterlinck... Chez Colin :} Lors de son après-midi parisienne entre la gare du Nord et la gare d'Orsay, l'universitaire flâne au square de la Tour Saint-Jacques et rue de Rivoli, achète une couronne mortuaire de fleurs artificielles près de l'Hôtel de Ville, un képi au Bon Marché, et se rend à la librairie académique Armand Colin au Quartier latin pour acquérir \\textit{L'Orgueil humain} d'Ernest Zyromski (dont il suivra le cours à Toulouse en janvier 1917, Scan \\#135) et \\textit{Les Débris de la guerre} de Maurice Maeterlinck."
   },
   {
@@ -2220,8 +2233,8 @@
       "Allé prendre trams à la barrière St-Agne",
       "Exc.te après-midi.",
       "Vers 9 H Sr, redescendu à pied Cote Pavée",
-      "Trams : 10 c, 40, 40, 40 c. —",
-      "Fruits (raisins & grenades) : 70 c — Varia : 10 c.",
+      "Trams : 20 c., 10, 40, 40 c. —",
+      "Fruits (raisins & grenades) : 1 f. — Varia : 10 c.",
       "Bouquet (place Esquirol) : 3 f —"
     ],
     "marginal_notes": {
@@ -2234,7 +2247,7 @@
       "13": "\\textbf{13 j-à} \\textit{abbr. pro} jusqu'à. \\textbf{13 St} \\textit{abbr. pro} Saint.",
       "18": "\\textbf{18 St} \\textit{abbr. pro} Saint.",
       "21": "\\textbf{21 c.} \\textit{abbr. pro} centimes.",
-      "22": "\\textbf{22 c.} \\textit{abbr. pro} centimes."
+      "22": "\\textbf{22 f.} \\textit{abbr. pro} franc(s). \\textbf{22 c.} \\textit{abbr. pro} centimes."
     },
     "critique": "\\textbf{l.~2--5, 11--16 Me suis attardé ds mon appart\\textsuperscript{t} / M. Czt / Pech David :} Aux l.~2--5, Hippolyte écrit : \\textit{Me suis attardé ds mon appart\\textsuperscript{t} — Pris un plaisir extrême à regarder \\& ranger mes affaires, et à laisser peu à peu s'éveiller p moi des souvenirs du passé}. Aux l.~11--16, lire : \\textit{M. Czt} (M. Crouzet), \\textit{barrière St-Agne}, \\textit{Pouvourville} et \\textit{suivi crête de Pech David — j'au carref.}",
     "historique": "\\textbf{l.~6--20 Matin à Ste Marie... Mme C. et M. Gb. ... Pouvourville... Panorama de Pech David :} Après avoir porté à 11 h 30 à Sainte-Marie un bouquet de reines-marguerites à sa fiancée, Hippolyte entreprend l'après-midi, en compagnie de Mme Valentine Calmels et du docteur Gabriel Calmels (\\textit{M. Gb.}), une grande promenade à pied par la ferme du Tuc, Sainte-Agne et le village de Pouvourville jusqu'aux crêtes de Pech-David dominant la Garonne, le quartier des Récollets et les casernes."
@@ -2265,7 +2278,7 @@
       "Assis sur l'herbe haute, en face petite grève",
       "Venus à pied j'aux Ponts Jumeaux, d'où pris",
       "tram j'à pl. Alsace. —",
-      "— Trams : 10c, 40c, 60c, 40, 40 c –",
+      "— Trams : 20 c, 40 c, 60 c, 40, 40 c –",
       "Chz Pfister, sautoir en or — : 300 f net 295 f",
       "Remboursé à mes cousines (oeufs, beurre etc.) : 2 f 75",
       "Fruits : 2f + 55 c. – Fleurs : 2 f"
@@ -2295,7 +2308,7 @@
       "Tout le jour, temps pluvieux. Fines ondées qui durent peu.",
       "Matin, venu voir Mme de Labarthe, au 12.. Gd",
       "pour cette amie, attachement profond. –",
-      "Monté à Ste Marie vers 11H",
+      "Monté à Ste Marie vers 11H 1/2 —",
       "Dans petit salon, qq minutes de tête à tête délicieux",
       "avec Margte..",
       "Après midi, promenade à pied au village",
@@ -2313,7 +2326,7 @@
       "temple grec",
       "Venu devant caveau des P.P. Jésuites & celui du",
       "P. Marie-Antoine. Margte & moi, échangé serments",
-      "profonds unis au souvenir de notre gd ami & de Josephe",
+      "profondt émus au souvenir de notre gd ami & de Josephe",
       "Retour du cimetière à pied par rues & chemins de",
       "traverse – Pluie cesse bientôt & soleil couché",
       "horizon nuageux",
@@ -2321,14 +2334,14 @@
     ],
     "marginal_notes": {
       "3": "\\textbf{3 Gd} \\textit{abbr. pro} Grand(e). \\textbf{3 Mme} \\textit{abbr. pro} Madame.",
-      "5": "\\textbf{5 Ste} \\textit{abbr. pro} Sainte.",
+      "5": "\\textbf{5 Ste} \\textit{abbr. pro} Sainte. \\textbf{5 1/2} \\textit{scil.} demi / moitié.",
       "6": "\\textbf{6 qq} \\textit{abbr. pro} quelque(s).",
       "7": "\\textbf{7 Margte} \\textit{scil.} Marguerite (Calmels).",
       "9": "\\textbf{9 ds} \\textit{abbr. pro} dans.",
       "14": "\\textbf{14 s/} \\textit{abbr. pro} sur.",
       "18": "\\textbf{18 j-au} \\textit{abbr. pro} jusqu'au.",
       "22": "\\textbf{22 Margte} \\textit{scil.} Marguerite (Calmels).",
-      "23": "\\textbf{23 gd} \\textit{abbr. pro} grand. \\textbf{23 Josephe} \\textit{scil.} Joséphine (Combes).",
+      "23": "\\textbf{23 gd} \\textit{abbr. pro} grand. \\textbf{23 profondt} \\textit{abbr. pro} profondément.",
       "27": "\\textbf{27 c.} \\textit{abbr. pro} centimes. \\textbf{27 Sweets} \\textit{angl. in ms.}"
     },
     "critique": "\\textbf{l.~1 Septb 116 :} Graphie condensée du millésime. \\textbf{l.~12 De là tr. vue panoramique :} Abréviation \\textit{tr.} pour \\textit{très [belle]}. \\textbf{l.~27 Sweets \\& cakes : 5 f :} Maintien des catégories comptables anglaises en plein séjour toulousain.",
@@ -2382,7 +2395,7 @@
     "lieu": "Toulouse (Appartement, Sainte-Marie, chapelle de Nazareth, rue d'Alsace-Lorraine)",
     "lines": [
       "2 L. Temps splendide \\hfill Octbre 1916",
-      "Matinée, me ss resté appartt & trouvé",
+      "Matinée, me lgt resté appartt & trouvé",
       "charme mélancolique à laisser souvenirs",
       "s'éveiller peu à peu ds mon esprit",
       "Monté à Ste Marie vers 11H ½ –",
@@ -2395,16 +2408,15 @@
       "mère à mon appartt. Margte, charmante",
       "de simplicité & de grâce",
       "A Chapelle Nazareth — à 6 H s",
-      "T. 3, promené rue Alsace, regardé",
+      "Ts 3, promené rue Alsace, regardé",
       "vitrines des magasins & remonté tram Côte-Pavée",
       "A 9 H 30, av. Jean, partis —",
       "Très belle nuit étoilée — Air doux — gds arbres",
-      "Trams : 10, 10, 30 – – Chapelet pr. Banon.",
-      "1f 25"
+      "Trams : 10, 10, 30 – – Chapelet pr. Bne Maman : 1 f 25"
     ],
     "marginal_notes": {
       "1": "\\textbf{1 L.} \\textit{scil.} Lundi.",
-      "2": "\\textbf{2 appartt} \\textit{abbr. pro} appartement.",
+      "2": "\\textbf{2 lgt} \\textit{abbr. pro} longtemps. \\textbf{2 appartt} \\textit{abbr. pro} appartement.",
       "4": "\\textbf{4 ds} \\textit{abbr. pro} dans.",
       "5": "\\textbf{5 Ste} \\textit{abbr. pro} Sainte.",
       "6": "\\textbf{6 ds} \\textit{abbr. pro} dans.",
@@ -2412,10 +2424,11 @@
       "10": "\\textbf{10 s.} \\textit{abbr. pro} soir.",
       "12": "\\textbf{12 appartt} \\textit{abbr. pro} appartement. \\textbf{12 Margte} \\textit{scil.} Marguerite (Calmels).",
       "14": "\\textbf{14 s.} \\textit{abbr. pro} soir.",
+      "15": "\\textbf{15 Ts} \\textit{abbr. pro} Tous.",
       "18": "\\textbf{18 gds} \\textit{abbr. pro} grands.",
-      "19": "\\textbf{19 pr} \\textit{abbr. pro} pour."
+      "19": "\\textbf{19 pr} \\textit{abbr. pro} pour. \\textbf{19 Bne} \\textit{abbr. pro} Bonne."
     },
-    "critique": "\\textbf{l.~2 me suis resté appartt :} Construction pronominale méridionale (\\textit{se rester} au sens de demeurer chez soi) suivie du substantif abrégé sans préposition. \\textbf{l.~8 profondemt sentimt :} Double abréviation en \\textit{-mt} dans la même ligne.",
+    "critique": "\\textbf{l.~2 me lgt resté appart\\textsuperscript{t} :} Construction elliptique avec omission de l'auxiliaire \\textit{suis} devant l'adverbe \\textit{longtemps}. \\textbf{l.~7 profondeur sentim\\textsuperscript{t} :} Abréviation nominale en \\textit{-mt}.",
     "historique": "\\textbf{l.~6--17 ds le petit salon... Visite de Margte et de sa mère à mon appartt... Chapelle Nazareth :} Après une matinée recueillie parmi ses souvenirs de jeunesse et un long entretien intime au petit salon de Sainte-Marie, Hippolyte reçoit à 17 h dans son appartement de garçon la visite officielle de Marguerite et de sa mère Mme Valentine Calmels, se rend à 18 h 30 à la chapelle Notre-Dame-de-Nazareth et raccompagne son parent Jean à 21 h 30."
   },
   {
@@ -2443,7 +2456,7 @@
       "Soir, vers 8 H, pris tram & venu voir",
       "Mme Lamothe.. —",
       "Trams : 20, 30 Marché V. Hugo :",
-      "Automate : 30 + 20 c \\hfill fruits : 80 c. Gâteaux : 2 f"
+      "Automate : 30 + 20 c \\hfill fruits : 80 c. Gâteaux : 3 f"
     ],
     "marginal_notes": {
       "1": "\\textbf{1 mervt} \\textit{abbr. pro} merveilleusement.",
@@ -2472,7 +2485,7 @@
       "& fournitures tunique : 38 f",
       "– Semestre à Mlle Guilhem : 90 f –",
       "(Juillet 1916 – Janvier 1917)",
-      "— Ctes Française : 20 cm doublure satin : 60 c",
+      "— Cie Française : 20 cm doublure satin : 60 c",
       "– Fleurs : 1f 10",
       "Délicieux ds la propriété de Mme de Labarthe",
       "Elle ns a fait visiter maison.",
@@ -2480,6 +2493,7 @@
     ],
     "marginal_notes": {
       "4": "\\textbf{4 Mlle} \\textit{abbr. pro} Mademoiselle.",
+      "6": "\\textbf{6 Cie} \\textit{abbr. pro} Compagnie.",
       "8": "\\textbf{8 ds} \\textit{abbr. pro} dans. \\textbf{8 Mme} \\textit{abbr. pro} Madame.",
       "9": "\\textbf{9 ns} \\textit{abbr. pro} nous."
     },
@@ -2512,8 +2526,8 @@
       "Puis ressorti salle d'attente. Avec Mte",
       "& oncle Crouzet. promené au dehors",
       "le long trottoirs cour de G.V.",
-      "Enfin, dû ns séparer, non",
-      "sans serrement cœur cruel"
+      "Enfin, dû ns séparer, par",
+      "ménagement pour l'oncle —"
     ],
     "marginal_notes": {
       "1": "\\textbf{1 Mer.} \\textit{scil.} Mercredi.",
@@ -2527,7 +2541,7 @@
       "16": "\\textbf{16 Mte} \\textit{scil.} Marguerite (Calmels).",
       "19": "\\textbf{19 ns} \\textit{abbr. pro} nous."
     },
-    "critique": "\\textbf{l.~18--20 cour de G.V. / non sans serrement cœur cruel :} Aux l.~18--20, sur les quais de la gare Matabiau (\\textit{cour de G.V.}), le manuscrit porte : \\textit{Enfin, dû ns séparer, non / sans serrement cœur cruel}.",
+    "critique": "\\textbf{l.~18--20 cour de G.V. / par ménagement pour l'oncle :} Aux l.~18--20, sur les quais de la gare Matabiau (\\textit{cour de G.V.}, Grande Vitesse), le manuscrit porte : \\textit{Enfin, dû ns séparer, par / ménagement pour l'oncle —} (les adieux se poursuivant en haut du Scan \\#064 : \\textit{... Mte \\& moi, très émus..}).",
     "historique": "\\textbf{l.~3--20 Enlevé \\& rentré rideaux... Thermes du Languedoc... Avec Mte \\& oncle Crouzet... départ pour Creil :} Levé dès 6 h pour décrocher les rideaux et fermer son appartement, Hippolyte passe aux Thermes du Languedoc puis consacre tout son dernier après-midi à Marguerite dans le parc de Sainte-Marie ; le soir, accompagnée de l'oncle Crouzet, sa fiancée monte un instant avec lui dans son compartiment en gare Matabiau avant l'heure déchirante de la séparation."
   },
   {
@@ -2936,15 +2950,15 @@
     "lieu": "De Barlette (Ribeaucourt) à Beauval (Somme)",
     "lines": [
       "Dim. 15 \\hfill Oct / 16",
-      "Levé 6 H 1/2. Tôt paquets terminés. Quitté maison définitt",
-      "Au mess, lgt avant 7 h.",
+      "Levé 6 H 1/2. Ts paquets terminés. Quitté maison définitt",
+      "Au mess, déj avant 7 h.",
       "Ciel couvert de gros nuages. Pluie fine",
       "Matinée perdue à attendre moment départ",
       "Enfin, en route vers 11 H 15 m.",
       "Lente chevauchée à travers région paisible et pittoresque",
       "Arrêts fréquents le long routes",
-      "Au 1/2 de [blanc], averses très fortes",
-      "Enfin à 3 H 1/2 s, arrivés à Beauval.",
+      "Au delà de [blanc], averses très fortes",
+      "Enfin à 3 H 1/2 s, arrivés à Beauval. Alors ciel",
       "éclairci soleil brille",
       "Petite ville très coquette — remplie de troupes",
       "Trouvé petite chambre en face de notre mess –",
@@ -2953,16 +2967,16 @@
     ],
     "marginal_notes": {
       "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
-      "2": "\\textbf{2 définitt} \\textit{abbr. pro} définitivement. \\textbf{2 1/2} \\textit{scil.} demi / moitié.",
-      "3": "\\textbf{3 lgt} \\textit{abbr. pro} longtemps. \\textbf{3 mess} \\textit{angl. in ms.}",
+      "2": "\\textbf{2 Ts} \\textit{abbr. pro} Tous. \\textbf{2 définitt} \\textit{abbr. pro} définitivement.",
+      "3": "\\textbf{3 déj} \\textit{abbr. pro} déjeuné / déjeuner. \\textbf{3 mess} \\textit{angl. in ms.}",
       "6": "\\textbf{6 m.} \\textit{abbr. pro} matin.",
-      "9": "\\textbf{9} \\textit{spatium relictum in ms.} \\textbf{9 1/2} \\textit{scil.} demi / moitié.",
+      "9": "\\textbf{9} \\textit{spatium relictum in ms.}",
       "10": "\\textbf{10 1/2} \\textit{scil.} demi / moitié. \\textbf{10 s.} \\textit{abbr. pro} soir.",
       "13": "\\textbf{13 mess} \\textit{angl. in ms.}",
       "14": "\\textbf{14 c.} \\textit{abbr. pro} centimes. \\textbf{14 washing} \\textit{angl. in ms.}",
       "15": "\\textbf{15 Cartes ples} \\textit{abbr. pro} Cartes postales."
     },
-    "critique": "\\textbf{l.~2--3 Quitté maison / Au mess, déj avant 7 h. définitif :} L'adjectif \\textit{définitif}, ajouté en fin de ligne 3, se rapporte au départ de la maison de Barlette mentionné à la ligne supérieure. \\textbf{l.~9 Au milieu de, averses très fortes :} Ellipse du substantif (\\textit{au milieu de [la route]}). \\textbf{l.~14 washing y darning : 70 c. :} Coordination par \\textit{y} de deux gérondifs anglais (\\textit{blanchissage et reprisage}).",
+    "critique": "\\textbf{l.~2--3 Quitté maison définit\\textsuperscript{t} / Au mess, déj avant 7 h. :} L'adverbe \\textit{définit\\textsuperscript{t}} (\\textit{définitivement}) se rapporte au départ de la maison de Barlette. \\textbf{l.~9 Au delà de [blanc], averses très fortes :} Espace blanc ménagé par le diariste pour compléter ultérieurement le nom du village traversé. \\textbf{l.~14 washing \\& darning : 70 c. :} Coordination de deux gérondifs anglais (\\textit{blanchissage et reprisage}).",
     "historique": "\\textbf{l.~6--14 en route vers 11H 1/2... arrivés à Beauval... Connelly : 1 f :} Après avoir réglé à Barlette ses frais de blanchissage et de ravaudage (70 centimes) ainsi qu'un franc de pourboire à son ordonnance Connelly, Hippolyte quitte à regret le hameau à 11 h 30 pour une lente chevauchée de quatre heures entrecoupée de fortes averses jusqu'au bourg de Beauval (au sud de Doullens), où il trouve une petite chambre juste en face du nouveau mess de la compagnie."
   },
   {
@@ -2989,7 +3003,7 @@
       "vraie fourmilière de tommies.",
       "Campés sous tentes, ds 1 champ, en contrebas de la",
       "route de Senlis.",
-      "Dîné ds la brasserie et revu amis."
+      "Visité ds la brasserie et revu amis."
     ],
     "marginal_notes": {
       "1": "\\textbf{1 1/2} \\textit{scil.} demi / moitié.",
@@ -3017,7 +3031,7 @@
       "17 Mardi",
       "Couché sous tente, à côté 2 off.",
       "Nuit très froide.",
-      "Ferrailles nouvelles bivouac jour et nuit constant.",
+      "Sensations nouvelles bivouac jour et nuit constant.",
       "Levé vers 6h m. Au ciel bleu pâle, 1/2 lune argent",
       "Grande animation ds tt le camp",
       "Régiments d'infrie, partis d'abord —",
@@ -3259,11 +3273,11 @@
       "Dimanche 22. \\hfill Oct /16",
       "Encore cette nuit, gelé très dur.",
       "Canonnade, pas cessé un instant.",
-      "1/2 jour, très beau soleil.",
+      "1/2 jour, très beau soleil. Journée superbe.",
       "Après lunch, promené ville : resté lgts arrêté",
       "devant église, murs de briques rouges, façade",
       "si artistique, et haute tour, atteinte par",
-      "Vierge, horizle,",
+      "obus bombardement 1914. Vierge, horizle,",
       "penche Jésus bras ouverts au-dessus place.",
       "Rencontré qq interprètes. Schumacher m'a",
       "appris que les 2/3 des interprètes, jeunes R.A.T.",
@@ -3330,7 +3344,7 @@
     "lines": [
       "Mardi 24 \\hfill Oct. /16",
       "Plu nuit entière — Temps affreux —",
-      "Durant matinée, tombé averses fines sans",
+      "Durant matinée, averses fines tombent sans",
       "discontinuer. Boue épaisse où l'on",
       "enfonce j'à la cheville.",
       "Brume s'étend de + en + et cache vue",
@@ -3423,7 +3437,7 @@
       "Durant tt le jour, au ciel, gros",
       "nuages chargés de pluie. Averses intermittentes",
       "et tjrs, boue liquide où l'on",
-      "enfonce davantage —",
+      "enfonce partout —",
       "Après-midi, course en auto à Acheux",
       "& Senlis — enquête au sujet de straw & hay",
       "disponibles — —",
@@ -3649,6 +3663,7 @@
     "marginal_notes": {
       "1": "\\textbf{1 Sam.} \\textit{scil.} Samedi.",
       "3": "\\textbf{3 s/} \\textit{abbr. pro} sur. \\textbf{3 kil.} \\textit{abbr. pro} kilomètres.",
+      "8": "\\textbf{8 Divon} \\textit{abbr. pro} Division.",
       "11": "\\textbf{11 R.F.A.} \\textit{angl.} Royal Field Artillery.",
       "13": "\\textbf{13 s/} \\textit{abbr. pro} sur. \\textbf{13 lunch} \\textit{angl. in ms.}",
       "14": "\\textbf{14 Coy} \\textit{angl.} Company.",
@@ -3777,6 +3792,7 @@
       "2": "\\textbf{2 Tt} \\textit{abbr. pro} Tout.",
       "3": "\\textbf{3 j'à} \\textit{abbr. pro} jusqu'à. \\textbf{3 s/} \\textit{abbr. pro} sur.",
       "7": "\\textbf{7 1/2} \\textit{scil.} demi / moitié.",
+      "14": "\\textbf{14 Divon} \\textit{abbr. pro} Division.",
       "20": "\\textbf{20 lorry} \\textit{angl. in ms.}",
       "23": "\\textbf{23 ttes} \\textit{abbr. pro} toutes. \\textbf{23 lorries} \\textit{angl. in ms.}"
     },
@@ -4124,7 +4140,7 @@
     "lines": [
       "Sam. 25 \\hfill Nov. /16 —",
       "Auj'd'hui, + encore que hier, pluie averse.",
-      "Terrains détrempés, vraies tourbières. Routes &",
+      "Terrains détrempés, vrais bourbiers. Routes &",
       "rues, ornières profondes où l'on enfonce j'à",
       "1/2 jambe. C'est désespérant.",
       "Durant de longues heures, langui bureau,",
@@ -4416,7 +4432,7 @@
       "9 Samedi \\hfill Décbre 1916",
       "Tout le jour, pluie, et",
       "parfois averse.",
-      "Partis en auto, vers 9h m. Venus à Belle-Église, Orville.",
+      "Partis en auto, vers 9h m. Venus à ⟦Belle-Église⟧ Orville.",
       "Déjeuné à Authie, au mess de no 3 Coy 31st Divon",
       "av. Lt Croughton.",
       "Après déjeuner, venus à Orville, puis",
@@ -4436,8 +4452,8 @@
       "[ Tin of Wren's Dubbin : 30 c ]"
     ],
     "marginal_notes": {
-      "4": "\\textbf{4 m.} \\textit{abbr. pro} matin.",
-      "5": "\\textbf{5 Coy} \\textit{angl.} Company. \\textbf{5 mess} \\textit{angl. in ms.}",
+      "4": "\\textbf{4} \\llbracket Belle-Église\\rrbracket\\ \\textit{del. in ms.} \\textbf{4 m.} \\textit{abbr. pro} matin.",
+      "5": "\\textbf{5 Divon} \\textit{abbr. pro} Division. \\textbf{5 Coy} \\textit{angl.} Company.",
       "6": "\\textbf{6 Lt} \\textit{abbr. pro} Lieutenant.",
       "8": "\\textbf{8 j'à} \\textit{abbr. pro} jusqu'à.",
       "13": "\\textbf{13 L.} \\textit{scil.} Lundi. \\textbf{13 auj'd'hui} \\textit{abbr. pro} aujourd'hui.",
@@ -4560,7 +4576,7 @@
       "intermittentes et aussi très violentes rafales de vent.",
       "Dehors tte la journée, en course. Matinée",
       "à St-Léger & Orville & Authie. Après-midi",
-      "à Toutencourt, Puchevillers etc. — Toutencourt et",
+      "à Louvencourt, Puchevillers etc. — Toutencourt etc.",
       "A Louvencourt, ch. Mme Cuisinier, gaffe",
       "du Cap. W. : « Bloody France etc.! »",
       "Très affecté par ce propos & hésité à le reporter",
@@ -4827,7 +4843,7 @@
       "intermittente.",
       "M. Carluvant m'a annoncé qu'il devra quitter",
       "maison ds qq jours : ⟦nouveau⟧ proprire tient à s'y",
-      "installer. Regrette de partir d'ici. Excellte chambre —",
+      "installer. Regrette de partir d'ici. Chambre chaude.",
       "2 Mardi",
       "Ciel nuageux. Pluie menaçante.",
       "Temps doux, presque chaud.",
@@ -4962,7 +4978,7 @@
       "Bertrancourt et Authie.",
       "Après-midi, liberté entière —",
       "Soir, au concert Y.M.C.A. Programme",
-      "des 2 fois précédentes. Chants d'adieux. —",
+      "des 2 fois précédentes. Chants du soir. —",
       "Matinée, routes encombrées : déplacement",
       "de troupes : convois d'artillerie, de A.S.C. etc.",
       "[ — Washing : 70 c. — Concert Y.M.C.A. : 30 c ]",
@@ -4987,7 +5003,7 @@
       "11": "\\textbf{11} \\textit{in marg. cum unco} (comptes). \\textbf{11 Y.M.C.A.} \\textit{angl.} Young Men's Christian Assoc..",
       "12": "\\textbf{12 Ma.} \\textit{scil.} Mardi.",
       "14": "\\textbf{14 St} \\textit{abbr. pro} Saint.",
-      "18": "\\textbf{18 Coy} \\textit{angl.} Company.",
+      "18": "\\textbf{18 Divon} \\textit{abbr. pro} Division. \\textbf{18 Coy} \\textit{angl.} Company.",
       "19": "\\textbf{19 ds} \\textit{abbr. pro} dans.",
       "24": "\\textbf{24} \\textit{in marg. cum unco} (comptes)."
     },
@@ -5113,7 +5129,7 @@
       "vergers, petits coteaux boisés.",
       "M. Renard ns a invités à déjeuner.",
       "Ns a montré ses objets d'art précieux :",
-      "montre et sculpté ds l'os et coffret en paille",
+      "notamt et surtout un coffret en paille",
       "acheté en 1858 au bagne de Toulon.",
       "Matinée entière, neige fine, tourmente",
       "oblique, sous les rafales.",
@@ -5128,7 +5144,7 @@
       "14": "\\textbf{14 j'à} \\textit{abbr. pro} jusqu'à.",
       "15": "\\textbf{15 ch.} \\textit{abbr. pro} chez.",
       "18": "\\textbf{18 ns} \\textit{abbr. pro} nous.",
-      "20": "\\textbf{20 ds} \\textit{abbr. pro} dans."
+      "20": "\\textbf{20 notamt} \\textit{abbr. pro} notamment."
     },
     "critique": "\\textbf{l.~19--21 Ns a montré ses objets d'art précieux : notamt et surtout un coffret en paille acheté en 1858 au bagne de Toulon :} Détail curieux et authentique qui ravit l'amateur d'art et rappelle à Hippolyte Combes son propre passage en garnison à Toulon au printemps 1915.",
     "historique": "\\textbf{l.~14--18 Auxi-le-Château, ch. M. Renard :} Situé dans la vallée de l'Authie (Pas-de-Calais) à 15 km au nord-ouest de Doullens, Auxi-le-Château marque la limite occidentale des tournées d'achat de fourrage du secteur."
@@ -5150,7 +5166,7 @@
       "mat. Légère buée —",
       "Après-midi, liberté entière.",
       "19 Vendredi",
-      "Toute journée, ciel gris et bas. Temps froid.",
+      "Ciel mat & bas. Tempérre, pas froide.",
       "Neige pas encore fondue. Toits, arbres et",
       "champs tout blancs.",
       "Après-midi, course à Puchevillers, par",
@@ -5449,6 +5465,7 @@
     "marginal_notes": {
       "1": "\\textbf{1 Sam.} \\textit{scil.} Samedi.",
       "3": "\\textbf{3 Cartes ples} \\textit{abbr. pro} Cartes postales. \\textbf{3 c.} \\textit{abbr. pro} centimes.",
+      "4": "\\textbf{4 Enregt} \\textit{abbr. pro} Enregistrement.",
       "9": "\\textbf{9 c.} \\textit{abbr. pro} centimes.",
       "10": "\\textbf{10 c.} \\textit{abbr. pro} centimes.",
       "15": "\\textbf{15 cme} \\textit{abbr. pro} comme.",
@@ -5793,7 +5810,7 @@
     "marginal_notes": {
       "1": "\\textbf{1 Sam.} \\textit{scil.} Samedi.",
       "5": "\\textbf{5 c.} \\textit{abbr. pro} centimes.",
-      "6": "\\textbf{6 Margte} \\textit{scil.} Marguerite (Calmels)."
+      "6": "\\textbf{6 Enregt} \\textit{abbr. pro} Enregistrement. \\textbf{6 Margte} \\textit{scil.} Marguerite (Calmels)."
     },
     "critique": "\\textbf{l.~2--3 1 grand nettoyage et 3 plombages : 40 f = net : 25 f :} Remise confraternelle ou militaire accordée par le chirurgien-dentiste M. de Lersay, ramenant les honoraires de 40 à 25 francs. \\textbf{l.~6 Enregt bagages de Margte : 10 c :} Signe concret de leur statut de fiancés officiels voyageant désormais ensemble.",
     "historique": "\\textbf{l.~9--10 Billet 1/4 pl. Béziers – Millau : 1 f 80 / Buffet de Bédarieux : 6 f 75 + 25 c :} Arrêt dîner au buffet de la gare de bifurcation de Bédarieux (Hérault) avant l'ascension ferroviaire des monts d'Orb et du Larzac."
@@ -6054,7 +6071,7 @@
       "Town Major m'a donné petite chambre, n° 7b,",
       "1er étage café Charlet, angle rue.",
       "fenêtre, as. belle vue sur la place et église.",
-      "Demi-lune brillait entre gds arbres.",
+      "Pleine lune brillait entre gds arbres.",
       "Changement plutôt pénible d'habitudes."
     ],
     "marginal_notes": {
@@ -6882,7 +6899,7 @@
       "Bientôt terminé ts mes paquets.",
       "Temps extrt doux. Soleil pâle très clair.",
       "Maintenant, quitte sans regrets ce petit",
-      "village & ⟦Purchase⟧ Board.",
+      "village & Purchase Board.",
       "Après breakfast, 9h m., parti en auto pour",
       "Toutencourt. Ds ce village, laissé tout, ts mes",
       "sacs au mess des interprètes, n°, rue",
@@ -6900,14 +6917,14 @@
       "Liberté entière après-midi. Achevé de",
       "m'installer pour le mieux ds ma nouvelle",
       "chambre. Y suis rentré aussitôt après dîner.",
-      "M'y trouve très bien. 1 table pour écrire —"
+      "M'y trouve très bien. 2 tables pour écrire —"
     ],
     "marginal_notes": {
       "1": "\\textbf{1 Dim.} \\textit{scil.} Dimanche.",
       "2": "\\textbf{2 1/2} \\textit{scil.} demi / moitié. \\textbf{2 m.} \\textit{abbr. pro} matin.",
       "3": "\\textbf{3 ts} \\textit{abbr. pro} tous.",
       "4": "\\textbf{4 extrt} \\textit{abbr. pro} extrêmement.",
-      "6": "\\textbf{6} \\llbracket Purchase\\rrbracket\\ \\textit{del. in ms.}",
+      "6": "\\textbf{6 Purchase Board} \\textit{angl. in ms.}",
       "7": "\\textbf{7 m.} \\textit{abbr. pro} matin. \\textbf{7 breakfast} \\textit{angl. in ms.}",
       "8": "\\textbf{8 Ds} \\textit{abbr. pro} Dans. \\textbf{8 ts} \\textit{abbr. pro} tous.",
       "9": "\\textbf{9 mess} \\textit{angl. in ms.}",
@@ -6918,7 +6935,7 @@
       "18": "\\textbf{18 ts} \\textit{abbr. pro} tous.",
       "22": "\\textbf{22 ds} \\textit{abbr. pro} dans."
     },
-    "critique": "\\textbf{l.~9 n° , rue de Raincheval :} Espace blanc laissé volontairement après « n° » pour compléter ultérieurement le numéro civique du mess des interprètes à Toutencourt. \\textbf{l.~14--15 Lieutt Godard :} Le nom « Godard » a été ajouté au crayon gris d'une main rapide dans un blanc ménagé après « Lieutt » ! Cette addition en deux temps prouve qu'Hippolyte ignorait encore l'orthographe exacte du nom du jeune lieutenant lors de la rédaction initiale. \\textbf{l.~24 1 table pour écrire :} Condition matérielle essentielle au bonheur de l'écrivain-diariste.",
+    "critique": "\\textbf{l.~9 n° , rue de Raincheval :} Espace blanc laissé volontairement après « n° » pour compléter ultérieurement le numéro civique du mess des interprètes à Toutencourt. \\textbf{l.~14--15 Lieutt Godard :} Le nom « Godard » a été ajouté au crayon gris d'une main rapide dans un blanc ménagé après « Lieutt » ! Cette addition en deux temps prouve qu'Hippolyte ignorait encore l'orthographe exacte du nom du jeune lieutenant lors de la rédaction initiale. \\textbf{l.~24 2 tables pour écrire :} Condition matérielle essentielle au bonheur de l'écrivain-diariste.",
     "historique": "\\textbf{l.~11--13 sur demande instante du Major Levy, je resterai au Purchase Board :} C'est la consécration professionnelle du travail accompli par Hippolyte Combes depuis août 1916 : le Major Levy intervient personnellement auprès de la Mission française pour conserver son interprète expérimenté à la commission d'achats (\\textit{Purchase Board}) d'Hérissart !"
   },
   {
@@ -7754,7 +7771,7 @@
       "Millencourt & Lavieville.",
       "Après-midi, en cie Lt Gilbert, allés en auto",
       "à Puchevillers, Pierregot & Villers-Bocage.",
-      "Route, auto écrasé lapin sauvage.",
+      "Route, auto chassé lapin sauvage.",
       "Ciel d'un bleu pur & intense. Aux arbres,",
       "bourgeons grossissent à vue d'œil.",
       "Après tea-dinner, rentré chambre où me",
