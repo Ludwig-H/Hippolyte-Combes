@@ -12,12 +12,13 @@ Unifies all 186 scans (#001 to #186) of Hippolyte Combes's Livre-Journal (25 Jul
 import os
 import re
 import json
+from pathlib import Path
 import docx
 from data_scans_001_074 import SCANS_001_074_META
 from data_scans_075_130 import SCANS_075_130
 from data_scans_131_186 import SCANS_131_186
 
-ROOT = "/workspaces/Hippolyte-Combes"
+ROOT = str(Path(__file__).resolve().parent.parent)
 
 
 def get_sorted_scan_filenames():
@@ -345,28 +346,62 @@ ABBREV_MAP = [
     (r"\bCoy\b(?!\.)", "Coy", "\\textit{angl.} Company"),
     (r"\bCie\b", "Cie", "\\textit{abbr. pro} Compagnie"),
     (r"\bcie\b", "cie", "\\textit{abbr. pro} compagnie"),
-    (r"\bM\.T\.", "M.T.", "\\textit{angl.} Mechanical Transport"),
+    (r"\bM\.T\.", "M.T.", "\\textit{angl.} Motor Transport"),
     (r"\bM\.O\.", "M.O.", "\\textit{angl.} Medical Officer"),
-    (r"\bH\.Q\.", "H.Q.", "\\textit{angl.} Headquarters"),
+    (r"(?<![A-Za-z.])H\.Q\.", "H.Q.", "\\textit{angl.} Headquarters"),
     (r"\bG\.H\.Q\.", "G.H.Q.", "\\textit{angl.} General Headquarters"),
     (r"\bN\.C\.O's\b", "N.C.O's", "\\textit{angl.} Non-Commissioned Officers"),
     (r"\bN\.C\.O\.", "N.C.O.", "\\textit{angl.} Non-Commissioned Officer"),
     (r"\bA\.S\.C\.", "A.S.C.", "\\textit{angl.} Army Service Corps"),
     (r"\bR\.F\.A\.", "R.F.A.", "\\textit{angl.} Royal Field Artillery"),
-    (r"\bR\.F\.", "R.F.", "\\textit{angl.} Royal Fusiliers"),
+    (r"\bR\.F\.(?![A-Za-z.])", "R.F.", "\\textit{angl.} Royal Fusiliers"),
     (r"\bR\.T\.O\.", "R.T.O.", "\\textit{angl.} Railway Transport Officer"),
     (r"\bA\.P\.M\.", "A.P.M.", "\\textit{angl.} Assistant Provost Marshal"),
     (r"\bQ\.M\.S\.", "Q.M.S.", "\\textit{angl.} Quartermaster Sergeant"),
-    (r"\bD\.O\.S\.T\.", "D.O.S.T.", "\\textit{angl.} Director of Ordnance Services"),
+    (r"\bD\.O\.S\.T\.", "D.O.S.T.", "\\textit{sigle militaire, développement non établi}"),
     (r"\bE\.F\.C\.", "E.F.C.", "\\textit{angl.} Expeditionary Force Canteens"),
     (r"\bY\.M\.C\.A\.", "Y.M.C.A.", "\\textit{angl.} Young Men's Christian Assoc."),
     (r"\bP\.L\.M\.", "P.L.M.", "\\textit{scil.} Paris-Lyon-Méditerranée"),
     (r"\bc\.\s*ples\b", "c. ples", "\\textit{abbr. pro} cartes postales"),
+    (r"\bC\.\s*ples\b", "C. ples", "\\textit{abbr. pro} Cartes postales"),
+    (r"\bC\.\s*P\.", "C. P.", "\\textit{abbr. pro} Cartes postales"),
     (r"\bctes\s+ples\b", "ctes ples", "\\textit{abbr. pro} cartes postales"),
     (r"\bCtes\s+ples\b", "Ctes ples", "\\textit{abbr. pro} Cartes postales"),
     (r"\bCartes\s+ples\b", "Cartes ples", "\\textit{abbr. pro} Cartes postales"),
+    (r"\bcartes\s+ples\b", "cartes ples", "\\textit{abbr. pro} cartes postales"),
     (r"\b[cC]tes\s+ph\.?", "ctes ph.", "\\textit{abbr. pro} cartes photographiques"),
     (r"\b[cC]artes\s+ph\.?", "cartes ph.", "\\textit{abbr. pro} cartes photographiques"),
+    (r"\bCtis\b", "Ctis", "\\textit{abbr. pro} Curtis"),
+    (r"\bCzt\b", "Czt", "\\textit{abbr. pro} Crouzet"),
+    (r"\bR\.\s*Fusrs\b", "R. Fusrs", "\\textit{angl.} Royal Fusiliers"),
+    (r"\bpassim\b", "passim", "\\textit{lat.} çà et là"),
+    (r"\bpropre\b", "propre", "\\textit{abbr. pro} propriétaire"),
+    (r"\bproprire\b", "proprire", "\\textit{abbr. pro} propriétaire"),
+    (r"\bcommre\b", "commre", "\\textit{abbr. pro} commissionnaire"),
+    (r"\bdépartt\b", "départt", "\\textit{abbr. pro} département"),
+    (r"\bcompartimt\b", "compartimt", "\\textit{abbr. pro} compartiment"),
+    (r"\bdérangt\b", "dérangt", "\\textit{abbr. pro} dérangement"),
+    (r"\bépanchts\b", "épanchts", "\\textit{abbr. pro} épanchements"),
+    (r"\barrangt\b", "arrangt", "\\textit{abbr. pro} arrangement"),
+    (r"\benchevêtrt\b", "enchevêtrt", "\\textit{abbr. pro} enchevêtrement"),
+    (r"\bdéfinitt\b", "définitt", "\\textit{abbr. pro} définitivement"),
+    (r"\badmirabt\b", "admirabt", "\\textit{abbr. pro} admirablement"),
+    (r"\bplaintivt\b", "plaintivt", "\\textit{abbr. pro} plaintivement"),
+    (r"\bdélict\b", "délict", "\\textit{abbr. pro} délicieusement"),
+    (r"\binsttr\b", "insttr", "\\textit{abbr. pro} instituteur"),
+    (r"\bintte\b", "intte", "\\textit{abbr. pro} interprète"),
+    (r"\bMaral\b", "Maral", "\\textit{abbr. pro} Maréchal"),
+    (r"\bmaral\b", "maral", "\\textit{abbr. pro} maréchal"),
+    (r"\bcathle\b", "cathle", "\\textit{abbr. pro} cathédrale"),
+    (r"\bartiflles\b", "artiflles", "\\textit{abbr. pro} artificielles"),
+    (r"\bhorizle\b", "horizle", "\\textit{abbr. pro} horizontale"),
+    (r"\bchvx\b", "chvx", "\\textit{abbr. pro} cheveux"),
+    (r"\bchps\b", "chps", "\\textit{abbr. pro} champs"),
+    (r"\bmnts\b", "mnts", "\\textit{abbr. pro} moments / minutes"),
+    (r"\bTre\s+d'iode\b", "Tre", "\\textit{abbr. pro} Teinture"),
+    (r"\bNormle\s+Supre\b", "Normle Supre", "\\textit{abbr. pro} Normale Supérieure"),
+    (r"\bAchiet-le-Pt\.", "Achiet-le-Pt.", "\\textit{scil.} Achiet-le-Petit"),
+    (r"(?<=\bTjours\s)=", "=", "\\textit{signum aequalitatis pro} même"),
     (r"\b\d+\s*ct\.?\b", "ct", "\\textit{abbr. pro} courant"),
     (r"\b1/2\b", "1/2", "\\textit{scil.} demi / moitié"),
     (r"\b1er\b", "1er", "\\textit{scil.} premier"),
@@ -386,8 +421,8 @@ ABBREV_MAP = [
 ANGLICISM_WORDS = [
     "breakfast", "Breakfast", "lunch", "Lunch", "Lunché", "tea", "tea-dinner", "dinner", "After dinner",
     "sunset", "Washing", "washing", "darning", "cooking", "Food", "food", "Drink", "cottage", "garret",
-    "billeting", "billets", "billet", "mess", "messroom", "messer", "shift", "shifte", "shifting",
-    "shifterons", "shifté", "lorry", "lorries", "limber", "waggon", "wagon", "saddle soap",
+    "billeting", "billets", "mess", "messroom", "messer", "shift", "shifte", "shifting",
+    "shifterons", "shifté", "lorry", "lorries", "limber", "waggon", "waggons", "saddle soap",
     "refilling point", "horse-lines", "Horse-lines", "barbed wire", "tooth ache", "hair cut", "Hair cut",
     "wounded", "kit", "walk", "Purchase Board", "interview", "tommy", "tommies", "Tooth Powder",
     "tooth powder", "Blacksmith", "workshops", "Early lunch", "moving", "afternoon", "long talk",
@@ -498,7 +533,20 @@ def clean_line_and_extract_note(raw_line, line_no):
     if "[?]" in line:
         if not any("lect. incert." in n for n in notes):
             notes.append(f"\\textbf{{{line_no}}} \\textit{{lect. incert. in ms.}}")
-        line = line.replace("[?]", "")
+    # A doubtful reading must remain visibly doubtful in the transcription.
+    # Protect it from the generic removal of inline abbreviation expansions below.
+    uncertain_readings = []
+    def protect_uncertainty(match):
+        uncertain_readings.append(match.group(0))
+        return f"@@UNCERTAIN{len(uncertain_readings) - 1}@@"
+    line = re.sub(
+        r"\[[^\[\]]*(?:\?|illis|incertain|blanc|signe|ajout|addition|non déchiffr|non établi|bord droit)[^\[\]]*\]",
+        protect_uncertainty, line, flags=re.I,
+    )
+    if any("blanc" in reading.lower() for reading in uncertain_readings):
+        notes.append(f"\\textbf{{{line_no}}} \\textit{{spatium relictum in ms.}}")
+    if any("blanc" not in reading.lower() for reading in uncertain_readings) and not any("lect. incert." in n for n in notes):
+        notes.append(f"\\textbf{{{line_no}}} \\textit{{lect. incert. in ms.}}")
     if "[...]" in line:
         line = line.replace("[...]", "\\dots")
         notes.append(f"\\textbf{{{line_no}}} \\textit{{lacuna vel lect. incert.}}")
@@ -562,11 +610,9 @@ def clean_line_and_extract_note(raw_line, line_no):
                     if len(notes) >= 2:
                         break
 
-    # Check conjunction `y` (et) when between two French/English words and not pronoun `y`
-    if len(notes) < 2 and re.search(r"(?<![lmnstLMNST'’])\by\b(?!\s+(?:a|avait|avaient|avoir|suis|es|est|sommes|êtes|sont|étais|était|étaient|ai|as|avons|avez|ont|aurai|aura|aller|allé|allés|venir|venu|venus|rester|resté|passer|passé|trouver|trouvé|faire|fait|couche|coucher|loger|loge|plais|plaire|fui|fus|prié|soupé|parvenir|entrer|entré|retourner|retourné|revenir|revenu|prendre|pris|descendre|monter|mettre|mis|voir|vu|penser|pensé|être|été|habiter|demeurer))", line):
-        if "y" not in seen_lemmas:
-            notes.append(f"\\textbf{{{line_no} y}} \\textit{{scil.}} et.")
-            seen_lemmas.add("y")
+    # The graph rendered y may be a conjunction, a pronoun or another sign.
+    # A regular expression cannot establish its manuscript value; keep the graph
+    # and reserve expansions for the scan-specific, documented apparatus.
 
     # Check anglicisms
     if len(notes) < 2:
@@ -587,12 +633,14 @@ def clean_line_and_extract_note(raw_line, line_no):
     # Collapse redundant spaces around `,.;!?` introduced by HTML span removal
     line = re.sub(r"\s+([,.;!?])", r"\1", line)
     line = re.sub(r"\s{2,}", " ", line).strip()
+    for uncertainty_idx, reading in enumerate(uncertain_readings):
+        line = line.replace(f"@@UNCERTAIN{uncertainty_idx}@@", reading)
 
     dedup_notes = list(dict.fromkeys(notes))
     return line, " ".join(dedup_notes)
 
 
-def build_all_186_records():
+def build_all_186_records(apply_revision=False):
     files = get_sorted_scan_filenames()
     docs = parse_docx_blocks()
 
@@ -607,57 +655,23 @@ def build_all_186_records():
             rv = "recto" if (scan_idx % 2 == 0) else "verso"
             folio_label = f"Folio {fnum} {rv}"
 
-        if scan_idx <= 49:
-            doc = docs[scan_idx - 1]
-            raw_lines = doc["lines"]
+        if scan_idx <= 74:
             meta = SCANS_001_074_META[scan_idx]
+            if "lines" in meta:
+                raw_lines = meta["lines"]
+            elif scan_idx <= 49:
+                raw_lines = docs[scan_idx - 1]["lines"]
+            elif scan_idx == 50:
+                raw_lines = SCAN_050_DATA["lines"]
+            elif 51 <= scan_idx <= 62:
+                raw_lines = docs[scan_idx - 2]["lines"]
+            elif scan_idx == 63:
+                raw_lines = docs[62]["lines"]
+            elif scan_idx == 64:
+                raw_lines = docs[61]["lines"]
+            else:
+                raw_lines = docs[scan_idx - 2]["lines"]
             title = f"{folio_label.upper()} ({meta['title']})" if scan_idx > 1 else meta["title"]
-            date_str = meta["date"]
-            lieu_str = meta["lieu"]
-            crit_str = meta["critique"]
-            hist_str = meta["historique"]
-        elif scan_idx == 50:
-            raw_lines = SCAN_050_DATA["lines"]
-            meta = SCANS_001_074_META[50]
-            title = f"{folio_label.upper()} ({meta['title']})"
-            date_str = meta["date"]
-            lieu_str = meta["lieu"]
-            crit_str = meta["critique"]
-            hist_str = meta["historique"]
-        elif 51 <= scan_idx <= 62:
-            doc = docs[scan_idx - 2]  # Block 50 is Scan #051
-            raw_lines = doc["lines"]
-            meta = SCANS_001_074_META[scan_idx]
-            title = f"{folio_label.upper()} ({meta['title']})"
-            date_str = meta["date"]
-            lieu_str = meta["lieu"]
-            crit_str = meta["critique"]
-            hist_str = meta["historique"]
-        elif scan_idx == 63:
-            # Scan #063 (20251126_103538.jpg) is 5 Oct 1916 (Block 63 = index 62)
-            doc = docs[62]
-            raw_lines = doc["lines"]
-            meta = SCANS_001_074_META[63]
-            title = f"{folio_label.upper()} ({meta['title']})"
-            date_str = meta["date"]
-            lieu_str = meta["lieu"]
-            crit_str = meta["critique"]
-            hist_str = meta["historique"]
-        elif scan_idx == 64:
-            # Scan #064 (20251126_103554.jpg) is 4 Oct 1916 suite (Block 62 = index 61)
-            doc = docs[61]
-            raw_lines = doc["lines"]
-            meta = SCANS_001_074_META[64]
-            title = f"{folio_label.upper()} ({meta['title']})"
-            date_str = meta["date"]
-            lieu_str = meta["lieu"]
-            crit_str = meta["critique"]
-            hist_str = meta["historique"]
-        elif 65 <= scan_idx <= 74:
-            doc = docs[scan_idx - 2]
-            raw_lines = doc["lines"]
-            meta = SCANS_001_074_META[scan_idx]
-            title = f"{folio_label.upper()} ({meta['title']})"
             date_str = meta["date"]
             lieu_str = meta["lieu"]
             crit_str = meta["critique"]
@@ -690,7 +704,7 @@ def build_all_186_records():
 
         if scan_idx == 1:
             marginal_notes = {
-                1: "\\textbf{1 Livre - Journal} \\textit{titulus in pittacio octogono.}",
+                1: "\\textbf{1 Livre - Journal} \\textit{titulus in pittacio caeruleo.}",
                 3: "\\textbf{3 25 juillet 1916} \\textit{terminus a quo.}",
                 4: "\\textbf{4 30 avril 1917} \\textit{terminus ad quem.}",
             }
@@ -708,6 +722,9 @@ def build_all_186_records():
             "historique": hist_str,
         })
 
+    if apply_revision:
+        from revision_philologique import apply_verified_corrections
+        records = apply_verified_corrections(records, clean_line_and_extract_note)
     return records
 
 
@@ -725,29 +742,36 @@ def export_transcriptions(records):
             f.write(f"- **Titre** : {r['title']}\n")
             f.write(f"- **Date** : {r['date']}\n")
             f.write(f"- **Lieu** : {r['lieu']}\n\n")
-            f.write("### I. Transcription diplomatique\n```text\n")
+            if "revision" in r:
+                review = r["revision"]
+                label = review["review_level"].replace("_", " ")
+                f.write(f"- **Révision du 15 octobre 2026** : {label}.\n")
+                if review.get("remaining_uncertainties"):
+                    f.write("- **Points ouverts** : " + "; ".join(review["remaining_uncertainties"]) + ".\n")
+                f.write("\n")
+            f.write("```text\n")
             for idx, l in enumerate(r["lines"], 1):
                 clean_md_line = l.replace("\\hfill", "        ")
                 f.write(f"{idx:2d} | {clean_md_line}\n")
             f.write("```\n\n")
-            f.write("### II. Apparat critique marginal (aligné par numéro de ligne)\n")
             for k, v in r["marginal_notes"].items():
                 v_clean = re.sub(r"\\textbf\{([^}]*)\}", r"**\1**", v)
                 v_clean = re.sub(r"\\textit\{([^}]*)\}", r"*\1*", v_clean)
                 v_clean = v_clean.replace("\\llbracket ", "⟦").replace("\\rrbracket\\", "⟧").replace("\\&", "&")
-                f.write(f"- Ligne {k} : {v_clean}\n")
-            f.write("\n### III. Commentaire critique (interne à l'histoire du carnet)\n")
+                f.write(f"- *l. {k}* : {v_clean}\n")
+            f.write("\n* * *\n\n")
             c_clean = re.sub(r"\\textbf\{([^}]*)\}", r"**\1**", r["critique"])
             c_clean = re.sub(r"\\textit\{([^}]*)\}", r"*\1*", c_clean)
             c_clean = re.sub(r"\\texttt\{([^}]*)\}", r"`\1`", c_clean)
-            c_clean = c_clean.replace("\\textsuperscript{e}", "e").replace("\\textsuperscript{er}", "er").replace("\\&", "&").replace("\\#", "#").replace("\\_", "_")
+            c_clean = re.sub(r"\\textsuperscript\{([^}]*)\}", r"\1", c_clean)
+            c_clean = c_clean.replace("\\&", "&").replace("\\#", "#").replace("\\_", "_")
             f.write(f"{c_clean}\n\n")
-            f.write("### IV. Commentaire historique\n")
             h_clean = re.sub(r"\\textbf\{([^}]*)\}", r"**\1**", r["historique"])
             h_clean = re.sub(r"\\textit\{([^}]*)\}", r"*\1*", h_clean)
             h_clean = re.sub(r"\\texttt\{([^}]*)\}", r"`\1`", h_clean)
-            h_clean = h_clean.replace("\\textsuperscript{e}", "e").replace("\\textsuperscript{er}", "er").replace("\\&", "&").replace("\\#", "#").replace("\\_", "_")
-            f.write(f"{h_clean}\n\n---\n\n")
+            h_clean = re.sub(r"\\textsuperscript\{([^}]*)\}", r"\1", h_clean)
+            h_clean = h_clean.replace("\\&", "&").replace("\\#", "#").replace("\\_", "_")
+            f.write(f"> {h_clean}\n\n---\n\n")
 
     print(f"Exported {len(records)} scans to {json_path} and {md_path}")
 
