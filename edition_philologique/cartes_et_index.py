@@ -24,27 +24,27 @@ TIKZ_ARBRE_COMBES_ALRIC = r"""
   edge/.style={draw=black!75, line width=0.4pt}
 ]
 % Grands-parents
-\node[box, text width=34mm] (gp1) at (-42mm, 36mm) {\textbf{François Combes}\\(1789–1855)\\\textit{Maître menuisier-ébéniste à Millau}};
-\node[box, text width=34mm] (gm1) at (-4mm, 36mm) {\textbf{Madeleine Fabre-Hugou}\\(1792–1863)\\\textit{Millau}};
-\node[box, text width=30mm] (gp2) at (30mm, 36mm) {\textbf{Pierre Émile Alric}\\(1798–1854)\\\textit{Millau}};
-\node[box, text width=28mm] (gm2) at (62mm, 36mm) {\textbf{Marie Bouquié}\\(1804–1863)\\\textit{Millau}};
+\node[box, text width=32mm] (gp1) at (-48mm, 36mm) {\textbf{François Combes}\\(1789–1855)\\\textit{Maître menuisier-ébéniste à Millau}};
+\node[box, text width=32mm] (gm1) at (-8mm, 36mm) {\textbf{Madeleine Fabre-Hugou}\\(1792–1863)\\\textit{Millau}};
+\node[box, text width=28mm] (gp2) at (28mm, 36mm) {\textbf{Pierre Émile Alric}\\(1798–1854)\\\textit{Millau}};
+\node[box, text width=26mm] (gm2) at (62mm, 36mm) {\textbf{Marie Bouquié}\\(1804–1863)\\\textit{Millau}};
 
 % Parents
-\node[box, text width=46mm] (pere) at (-23mm, 19.5mm) {\textbf{François Augustin Hippolyte Combes}\\(1825–1899)\\\textit{Avocat à Millau puis Toulouse (47, rue du Taur)}};
-\node[box, text width=38mm] (mere) at (33mm, 19.5mm) {\textbf{Marie Anaïs Alric}\\(1838–1907)\\\textit{Mariés à Millau le 22 juill. 1864}};
-\node[box, text width=26mm] (oncle_alric) at (67mm, 19.5mm) {\textbf{Pierre Émile Alric}\\(né en 1836)\\\textit{« Alric la sagesse »}};
+\node[box, text width=48mm] (pere) at (-28mm, 19.5mm) {\textbf{François Augustin Hippolyte Combes}\\(1825–1899)\\\textit{Avocat à Millau puis Toulouse\\(47, rue du Taur)}};
+\node[box, text width=36mm] (mere) at (26mm, 19.5mm) {\textbf{Marie Anaïs Alric}\\(1838–1907)\\\textit{Mariés à Millau le 22 juill. 1864}};
+\node[box, text width=25mm] (oncle_alric) at (62mm, 19.5mm) {\textbf{Pierre Émile Alric}\\(né en 1836)\\\textit{« Alric la sagesse »}};
 
 \draw[edge] (gp1.east) -- coordinate[midway] (gpm1) node[above, font=\fontsize{5.2pt}{6.0pt}\selectfont]{×} (gm1.west);
 \draw[edge] (gpm1) -- (pere.north);
 \draw[edge] (gp2.east) -- coordinate[midway] (gpm2) node[above, font=\fontsize{5.2pt}{6.0pt}\selectfont]{×} (gm2.west);
-\coordinate (alric_bus) at (46.5mm, 27.5mm);
+\coordinate (alric_bus) at (45.5mm, 27.5mm);
 \draw[edge] (gpm2) -- (alric_bus);
 \draw[edge] (alric_bus) -| (mere.north);
 \draw[edge] (alric_bus) -| (oncle_alric.north);
 \draw[edge] (pere.east) -- coordinate[midway] (parents_mid) node[above, font=\fontsize{5.5pt}{6.5pt}\selectfont]{×} (mere.west);
 
 % Fratrie Combes
-\coordinate (frat_mid) at (7mm, 9.2mm);
+\coordinate (frat_mid) at (2mm, 9.2mm);
 \draw[edge] (parents_mid) -- (frat_mid);
 
 \node[box, text width=27mm, anchor=north] (s1) at (-46mm, 6.2mm) {\textbf{Françoise Combes}\\(1871–1942)\\\textit{Sœur Marie de la Croix}\\Carmel de Périgueux};
@@ -58,10 +58,10 @@ TIKZ_ARBRE_COMBES_ALRIC = r"""
 \draw[edge] (frat_mid) -| (hc.north);
 
 % Mariage Hippolyte & Marguerite et enfants
-\node[hero, text width=42mm] (mc) at (-18mm, -18.5mm) {\textbf{Marie Marguerite Calmels}\\(Millau, 15 avril 1892 – 19 mars 1974)\\\textit{« Marg\textsuperscript{te} / M\textsuperscript{te} / Gueïte »}};
-\draw[edge, bordeaux, line width=0.6pt] (hc.south) -- ++(0,-3.5mm) -| coordinate[pos=0.25] (mariage_mid) node[pos=0.25, above, font=\fontsize{5.6pt}{6.5pt}\selectfont]{\textbf{Mariés à Millau le 25 oct. 1917}} (mc.north);
+\node[hero, text width=42mm] (mc) at (-18mm, -20.5mm) {\textbf{Marie Marguerite Calmels}\\(Millau, 15 avril 1892 – 19 mars 1974)\\\textit{« Marg\textsuperscript{te} / M\textsuperscript{te} / Gueïte »}};
+\draw[edge, bordeaux, line width=0.6pt] (hc.south) -- ++(0,-5.0mm) -| coordinate[pos=0.25] (mariage_mid) node[pos=0.25, above, font=\fontsize{5.6pt}{6.5pt}\selectfont]{\textbf{Mariés à Millau le 25 oct. 1917}} (mc.north);
 
-\node[box, text width=114mm] (enfants) at (17mm, -32.5mm) {\textbf{Sept enfants d'Hippolyte et Marguerite Combes :} \textbf{Valentine} (née en 1918, ép.~A.~Combès), \textbf{François} (1920–2021, agrégé de physique), \textbf{Joseph} (1921–2021, magistrat, père de \textbf{Pierre Combes}), \textbf{Jean} (1923–2012, normalien, prof. de mathématiques), \textbf{Marie-Thérèse} (née en 1925, ép.~M\textsuperscript{e}~P.~Vincens), \textbf{Pierre} (1928–2014, polytechnicien) et \textbf{Michel} (né en 1930)};
+\node[box, text width=118mm] (enfants) at (15mm, -35.0mm) {\textbf{Sept enfants d'Hippolyte et Marguerite Combes :} \textbf{Valentine} (née en 1918, ép.~A.~Combès),\\\textbf{François} (1920–2021, agrégé de physique), \textbf{Joseph} (1921–2021, magistrat, père de \textbf{Pierre Combes}),\\\textbf{Jean} (1923–2012, normalien, prof. de mathématiques), \textbf{Marie-Thérèse} (née en 1925, ép.~M\textsuperscript{e}~P.~Vincens),\\\textbf{Pierre} (1928–2014, polytechnicien) et \textbf{Michel} (né en 1930)};
 \draw[edge, bordeaux, line width=0.6pt] (mariage_mid) -- (mariage_mid |- enfants.north);
 \end{tikzpicture}%
 }
@@ -79,28 +79,28 @@ TIKZ_ARBRE_CALMELS_ALLIANCES = r"""
   edge/.style={draw=black!75, line width=0.4pt}
 ]
 % Ligne supérieure : Crouzet-Calmels (Toulouse), Calmels-Cartairade (Millau), Layrals-Cartairade (Millau)
-\node[box, text width=38mm] (crouzet) at (-44mm, 25mm) {\textbf{Émile Crouzet} (1842–1921)\\\textit{Agent de change à Toulouse}\\× \textbf{Élisabeth Calmels}\\(\textit{« Oncle Émile \& Tante »})};
-\node[box, text width=42mm] (calmels) at (0mm, 25mm) {\textbf{D\textsuperscript{r} Gabriel Calmels} (1852–1921)\\\textit{Médecin à Millau (10, rue A.-Guibert)}\\× \textbf{Valentine Cartairade} (1858–1943)};
-\node[box, text width=38mm] (layrals) at (44mm, 25mm) {\textbf{M\textsuperscript{e} Charles Layrals}\\\textit{Notaire à Millau}\\× \textbf{Thérèse Cartairade}\\(\textit{« l'oncle \& tante Thérèse »})};
+\node[box, text width=38mm] (crouzet) at (-46mm, 25mm) {\textbf{Émile Crouzet} (1842–1921)\\\textit{Agent de change à Toulouse}\\× \textbf{Élisabeth Calmels}\\(\textit{« Oncle Émile \& Tante »})};
+\node[box, text width=44mm] (calmels) at (0mm, 25mm) {\textbf{D\textsuperscript{r} Gabriel Calmels} (1852–1921)\\\textit{Médecin à Millau (10, rue A.-Guibert)}\\× \textbf{Valentine Cartairade}\\(1858–1943)};
+\node[box, text width=38mm] (layrals) at (46mm, 25mm) {\textbf{M\textsuperscript{e} Charles Layrals}\\\textit{Notaire à Millau}\\× \textbf{Thérèse Cartairade}\\(\textit{« l'oncle \& tante Thérèse »})};
 
 \draw[edge, dashed] (crouzet.east) -- (calmels.west);
 \draw[edge, dashed] (calmels.east) -- (layrals.west);
 
 % Rang intermédiaire gauche et droite : Cousin Jean Crouzet et cousins Layrals
-\node[box, text width=34mm] (jean_cr) at (-44mm, 10.5mm) {\textbf{Abbé Jean Crouzet}\\\textit{« Jean », prêtre à Toulouse}\\(futur curé de la Dalbade)};
+\node[box, text width=34mm] (jean_cr) at (-46mm, 10.5mm) {\textbf{Abbé Jean Crouzet}\\\textit{« Jean », prêtre à Toulouse}\\(futur curé de la Dalbade)};
 \draw[edge] (crouzet.south) -- (jean_cr.north);
 
-\node[box, text width=34mm] (fils_layrals) at (44mm, 10.5mm) {\textbf{Louis Layrals} (\dag~1961, notaire)\\\textbf{Jean Layrals} (\dag~1947, magistrat)};
+\node[box, text width=34mm] (fils_layrals) at (46mm, 10.5mm) {\textbf{Louis Layrals} (\dag~1961, notaire)\\\textbf{Jean Layrals} (\dag~1947, magistrat)};
 \draw[edge] (layrals.south) -- (fils_layrals.north);
 
 % Enfants Calmels (tige centrale descendant dans le couloir médian jusqu'au-dessous du rang intermédiaire)
 \coordinate (cal_mid) at (0mm, 2.0mm);
 \draw[edge] (calmels.south) -- (cal_mid);
 
-\node[box, text width=32mm, anchor=north] (mad) at (-41mm, -1.0mm) {\textbf{Madeleine Calmels}\\(1882–1961, \textit{« Mad\textsuperscript{ne} »})\\× \textbf{D\textsuperscript{r} Fernand Vincens}\\\textit{Enfants :} \textbf{Germaine} \& \textbf{Robert}};
-\node[box, text width=28mm, anchor=north] (mimi) at (-8mm, -1.0mm) {\textbf{Anne-Marie Calmels}\\(1888–1975, \textit{« Mimi »})\\× \textbf{M\textsuperscript{e} Joseph Delcamps}\\\textit{Avoué à Millau}};
-\node[box, text width=20mm, anchor=north] (pierre) at (19mm, -1.0mm) {\textbf{Pierre Calmels}\\\textit{Frère de}\\Marguerite\\(Millau)};
-\node[hero, text width=33mm, anchor=north] (marg) at (48mm, -1.0mm) {\textbf{Marguerite Calmels}\\(1892–1974)\\\textit{« Marg\textsuperscript{te} / M\textsuperscript{te} »}\\× \textbf{Hippolyte Combes}};
+\node[box, text width=35mm, anchor=north] (mad) at (-46mm, -1.0mm) {\textbf{Madeleine Calmels}\\(1882–1961, \textit{« Mad\textsuperscript{ne} »})\\× \textbf{D\textsuperscript{r} Fernand Vincens}\\\textit{Enfants :}\\\textbf{Germaine} \& \textbf{Robert}};
+\node[box, text width=28mm, anchor=north] (mimi) at (-10mm, -1.0mm) {\textbf{Anne-Marie Calmels}\\(1888–1975, \textit{« Mimi »})\\× \textbf{M\textsuperscript{e} Joseph Delcamps}\\\textit{Avoué à Millau}};
+\node[box, text width=20mm, anchor=north] (pierre) at (18mm, -1.0mm) {\textbf{Pierre Calmels}\\\textit{Frère de}\\Marguerite\\(Millau)};
+\node[hero, text width=33mm, anchor=north] (marg) at (49mm, -1.0mm) {\textbf{Marguerite Calmels}\\(1892–1974)\\\textit{« Marg\textsuperscript{te} / M\textsuperscript{te} »}\\× \textbf{Hippolyte Combes}};
 
 \draw[edge] (cal_mid) -| (mad.north);
 \draw[edge] (cal_mid) -| (mimi.north);
@@ -127,7 +127,7 @@ TIKZ_ORGANIGRAMME_MILITAIRE = r"""
 \node[box, text width=56mm, anchor=south] (bef) at (-32mm, 19mm) {\textbf{18th (Eastern) Division \& Fifth Army (B.E.F.)}\\\textbf{Maj.-Gen. Sir Ivor Maxse} (cmdt la 18\textsuperscript{e} Division)\\\textbf{Lt.-Col. D.~C.~E. Grose} (cmdt le \textit{18th Divisional Train})};
 \node[box, text width=56mm, anchor=south] (mmf) at (32mm, 19mm) {\textbf{Mission militaire française (B.E.F.)}\\\textbf{Lt Pizzi} (18\textsuperscript{e} Div.), \textbf{S/Lt Ferran} (liaison),\\\textbf{Cap. Huguet} (XIII\textsuperscript{e} Corps), \textbf{Cap. Bresson} (V\textsuperscript{e} Armée)};
 
-\node[hero, text width=68mm] (hc) at (0mm, 10mm) {\textbf{Interprète Hippolyte Combes (matr. 911, classe 1896)}\\Détaché auprès de l'Armée britannique (4 mai 1915 – 11 nov. 1918)};
+\node[hero, text width=68mm] (hc) at (0mm, 10mm) {\textbf{Interprète Hippolyte Combes (matr. 911, classe 1896)}\\Détaché auprès de l'Armée britannique\\(4 mai 1915 – 11 nov. 1918)};
 
 \draw[edge] (bef.south) -- ++(0,-2.2mm) -| ([xshift=-14mm]hc.north);
 \draw[edge] (mmf.south) -- ++(0,-2.2mm) -| ([xshift=14mm]hc.north);
@@ -136,7 +136,7 @@ TIKZ_ORGANIGRAMME_MILITAIRE = r"""
 \draw[draw=black!75, line width=0.4pt] (hc.south) -- (org_mid);
 
 \node[box, text width=40mm, anchor=north] (asc) at (-43mm, -1.5mm) {\textbf{152nd \& 150th Cos. A.S.C.}\\\textit{(Juillet – Octobre 1916)}\\\textbf{Cap. E.~M. West}, \textbf{Cap. E.~M. Ford},\\\textbf{Lt Curtis} (\textit{C\textsuperscript{tis}}), \textbf{Cap. Panton},\\\textbf{Lt Walsh}, \textbf{Lt Michel},\\\textbf{Maj. Hughes}, \textbf{Lt Morris}};
-\node[box, text width=41mm, anchor=north] (forage) at (0mm, -1.5mm) {\textbf{Foraging \& Purchase Board}\\\textit{(Acheux \& Hérissart, nov. 1916 – avr. 1917)}\\\textbf{Major Levy} (\textit{Purchase Board}),\\\textbf{Cap. Williams} (déc. 1916 – mars 1917),\\\textbf{2nd Lt Gilbert} (de Jersey, avr. 1917),\\\textbf{Lt Croughton}, \textbf{Lt Godard}, \textbf{Lt Wentworth}};
+\node[box, text width=41mm, anchor=north] (forage) at (0mm, -1.5mm) {\textbf{Foraging \& Purchase Board}\\\textit{(Acheux \& Hérissart, nov. 1916 – avr. 1917)}\\\textbf{Major Levy} (\textit{Purchase Board}),\\\textbf{Cap. Williams} (déc. 1916 – mars 1917),\\\textbf{2nd Lt Gilbert} (de Jersey, avr. 1917),\\\textbf{Lt Croughton},\\\textbf{Lt Godard}, \textbf{Lt Wentworth}};
 \node[box, text width=38mm, anchor=north] (coll) at (43mm, -1.5mm) {\textbf{Collègues \& Universitaires}\\\textit{Interprètes :} \textbf{Maurin}, \textbf{Lépin},\\\textbf{Schumacher}, \textbf{Raucoule}, \textbf{Valet}\\(\textit{2nd Austr. Div.}), \textbf{Brammas}\\\textit{Lettres :} \textbf{E.~Zyromski} (Toulouse),\\\textbf{Fortuné \& L.-F. Flutre} (ENS)};
 
 \draw[edge] (org_mid) -| (asc.north);
@@ -160,51 +160,51 @@ TIKZ_CARTE_GENERALE = r"""
   every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
   city/.style={circle, fill=black, inner sep=1.1pt},
   hub/.style={circle, draw=bordeaux, fill=white, line width=0.7pt, inner sep=1.5pt},
-  lbl/.style={fill=white, fill opacity=1.0, text opacity=1, inner sep=1.1pt, rounded corners=0.8pt},
+  lbl/.style={fill=white, fill opacity=1.0, text opacity=1, inner sep=1.0pt, rounded corners=0.8pt},
   route/.style={draw=bordeaux, line width=0.65pt, ->, >=stealth},
   perm/.style={draw=black!65, line width=0.55pt, dashed, ->, >=stealth}
 ]
 % Cadre géographique schématique de la France
 \draw[black!50, line width=0.4pt, fill=black!2] (-78mm,-38mm) rectangle (78mm,38mm);
-% Silhouette schématique des côtes et frontières de la France
+% Silhouette schématique des côtes et frontières de la France (englobant largement les libellés)
 \draw[black!22, line width=0.4pt, fill=white]
-  (-14mm,35mm) -- (2mm,33mm) -- (26mm,26mm) -- (36mm,16mm) -- (32mm,2mm)
-  -- (36mm,-10mm) -- (34mm,-22mm) -- (14mm,-31mm) -- (-10mm,-35mm) -- (-28mm,-32mm)
-  -- (-34mm,-16mm) -- (-40mm,2mm) -- (-52mm,12mm) -- (-32mm,18mm) -- (-22mm,28mm) -- cycle;
+  (-18mm,36mm) -- (18mm,35mm) -- (62mm,26mm) -- (68mm,12mm) -- (62mm,-2mm)
+  -- (66mm,-16mm) -- (60mm,-28mm) -- (36mm,-35mm) -- (-14mm,-36mm) -- (-58mm,-33mm)
+  -- (-62mm,-14mm) -- (-66mm,4mm) -- (-72mm,14mm) -- (-56mm,22mm) -- (-42mm,31mm) -- cycle;
 
 % Nord / Pas-de-Calais / Somme
-\node[hub] (flandre) at (-10mm, 31mm) {};
+\node[hub] (flandre) at (-8mm, 31mm) {};
 \node[lbl, right, xshift=1.8mm] at (flandre) {\textbf{1. Flandre \& Lys} (Lynde, Bailleul, Steenwerck, juill.–août 1916)};
 
-\node[hub] (ternois) at (-14mm, 25mm) {};
-\node[lbl, left, xshift=-1.8mm] at (ternois) {\textbf{2. Artois / Ternois} (Saint-Pol, Marquay, août–sept. 1916)};
+\node[hub] (ternois) at (-12mm, 25mm) {};
+\node[lbl, left, xshift=-1.8mm, align=right] at (ternois) {\textbf{2. Artois / Ternois}\\(Saint-Pol, Marquay, août–sept. 1916)};
 
-\node[hub] (somme) at (-11mm, 19.5mm) {};
+\node[hub] (somme) at (-9mm, 19.5mm) {};
 \node[lbl, right, xshift=1.8mm] at (somme) {\textbf{3. Front de la Somme} (Albert, Acheux, Hérissart, sept. 1916 – avr. 1917)};
 
-\node[city] (amiens) at (-15mm, 15mm) {};
+\node[city] (amiens) at (-13mm, 15mm) {};
 \node[lbl, left, xshift=-1.8mm] at (amiens) {Amiens};
 
 % Paris / Neuilly / Nogent
-\node[hub] (paris) at (-13mm, 8mm) {};
+\node[hub] (paris) at (-11mm, 8mm) {};
 \node[lbl, right, xshift=2.0mm, yshift=0.5mm] at (paris) {\textbf{Paris \& Neuilly-sur-Seine} (permissions)};
-\node[city] (nogent) at (-24mm, 4mm) {};
+\node[city] (nogent) at (-22mm, 4mm) {};
 \node[lbl, left, xshift=-1.8mm] at (nogent) {Nogent-le-Rotrou};
-\node[city] (andelys) at (-20mm, 11mm) {};
+\node[city] (andelys) at (-18mm, 11mm) {};
 \node[lbl, left, xshift=-1.8mm] at (andelys) {Les Andelys (1918)};
 
 % Massif central
-\node[city] (clermont) at (-3mm, -8mm) {};
+\node[city] (clermont) at (-1mm, -8mm) {};
 \node[lbl, right, xshift=1.8mm] at (clermont) {Clermont-Ferrand / Saint-Flour (retour févr. 1917)};
 
 % Midi : Toulouse, Montauban, Millau, Béziers
-\node[city] (montauban) at (-18mm, -19mm) {};
+\node[city] (montauban) at (-16mm, -19mm) {};
 \node[lbl, left, xshift=-1.8mm] at (montauban) {Montauban};
-\node[hub] (toulouse) at (-17mm, -26mm) {};
-\node[lbl, left, xshift=-1.8mm] at (toulouse) {\textbf{Toulouse} (sept.–oct. 1916 \& janv.–févr. 1917)};
-\node[hub] (millau) at (-4mm, -21mm) {};
+\node[hub] (toulouse) at (-15mm, -26mm) {};
+\node[lbl, left, xshift=-1.8mm, align=right] at (toulouse) {\textbf{Toulouse}\\(sept.–oct. 1916 \& janv.–févr. 1917)};
+\node[hub] (millau) at (-2mm, -21mm) {};
 \node[lbl, right, xshift=1.8mm] at (millau) {\textbf{Millau} (berceau familial, févr. \& oct. 1917)};
-\node[city] (beziers) at (-1mm, -29mm) {};
+\node[city] (beziers) at (1mm, -29mm) {};
 \node[lbl, right, xshift=1.8mm] at (beziers) {Carcassonne \& Béziers (3 févr. 1917)};
 
 % Flèches d'itinéraires
@@ -239,7 +239,7 @@ TIKZ_CARTES_CHAPITRES = {
 \draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
 
 % Cours de la Lys et frontière belge
-\draw[river] (-75mm,-34mm) .. controls (-25mm,-30mm) and (10mm,-25mm) .. (60mm,-17mm)
+\draw[river] (-75mm,-34mm) .. controls (-25mm,-31mm) and (10mm,-27mm) .. (55mm,-22mm)
   node[pos=0.28, above, font=\fontsize{5.6pt}{6.4pt}\selectfont\itshape]{La Lys (canalisée)};
 \draw[black!45, dash pattern=on 3pt off 2pt, line width=0.5pt]
   (18mm,46mm) -- (30mm,32mm) -- (45mm,17mm) -- (60mm,-2mm);
@@ -278,16 +278,16 @@ TIKZ_CARTES_CHAPITRES = {
 \node[left, xshift=-1mm] at (steenwerck) {Steenwerck};
 
 \node[ptstep] (croixdubac) at (12mm, -16mm) {};
-\node[above right, align=left, xshift=1.0mm, yshift=1.2mm] at (croixdubac) {\textbf{3. La Croix-du-Bac}\\(5–12 août)};
+\node[left, align=right, xshift=-1.8mm, yshift=-0.5mm] at (croixdubac) {\textbf{3. La Croix-du-Bac}\\(5–12 août)};
 
-\node[loc] (bacstmaur) at (16mm, -28mm) {};
-\node[below right] at (bacstmaur) {\textbf{Bac-Saint-Maur} (\textit{refilling point})};
+\node[loc] (bacstmaur) at (16mm, -29mm) {};
+\node[below right, yshift=-0.3mm] at (bacstmaur) {\textbf{Bac-Saint-Maur} (\textit{refilling point})};
 
 \node[loc] (sailly) at (2mm, -34mm) {};
 \node[below, align=center] at (sailly) {\textbf{Sailly-sur-la-Lys}\\(écluse, 10 août)};
 
-\node[loc] (armentieres) at (43mm, -18mm) {};
-\node[above, align=center, xshift=1.5mm, yshift=1.4mm] at (armentieres) {\textbf{Armentières}\\(blanchisserie Barbry, 11 août)};
+\node[loc] (armentieres) at (42mm, -15mm) {};
+\node[above, align=center, xshift=1.0mm, yshift=1.4mm] at (armentieres) {\textbf{Armentières}\\(blanchisserie Barbry, 11 août)};
 
 % Flèches de déplacement principal et tournées
 \draw[excur] (lynde) -- (sercus);
@@ -451,8 +451,8 @@ TIKZ_CARTES_CHAPITRES = {
 ]
 \draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
 
-% Vallée de l'Ancre
-\draw[river] (50mm,35mm) .. controls (43mm,10mm) and (35mm,-14mm) .. (26mm,-42mm)
+% Vallée de l'Ancre (passant immédiatement à l'ouest d'Albert)
+\draw[river] (48mm,35mm) .. controls (40mm,10mm) and (31mm,-12mm) .. (22mm,-42mm)
   node[pos=0.88, right, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{L'Ancre};
 
 % Ligne de front de l'Ancre (Thiepval - Beaumont-Hamel)
@@ -479,30 +479,30 @@ TIKZ_CARTES_CHAPITRES = {
 \node[below right, xshift=0.5mm, yshift=-0.5mm] at (senlis) {Senlis-le-Sec};
 
 % Secteur d'Albert (17-31 oct.)
-\node[ptstep] (bouzincourt) at (28mm, -2mm) {};
-\node[above left, xshift=-1mm, yshift=0.5mm] at (bouzincourt) {\textbf{4. Bouzincourt} (17–19 oct.)};
-\node[ptstep] (albert) at (36mm, -18mm) {};
+\node[ptstep] (bouzincourt) at (26mm, -2mm) {};
+\node[above left, xshift=-1.2mm, yshift=0.5mm] at (bouzincourt) {\textbf{4. Bouzincourt} (17–19 oct.)};
+\node[ptstep] (albert) at (38mm, -19mm) {};
 \node[below right, xshift=1.8mm, yshift=-0.3mm, align=left] at (albert) {\textbf{5. Albert (\textit{Brickfields})}\\(19–31 oct.)};
-\node[loc] (martinsart) at (46mm, 6mm) {};
+\node[loc] (martinsart) at (47mm, 6mm) {};
 \node[right, xshift=1.2mm, align=left] at (martinsart) {Martinsart \&\\Aveluy};
 
 % Secteur d'Acheux (novembre 1916)
 \node[ptstep] (acheux) at (12mm, 22mm) {};
 \node[above right, xshift=1.5mm, yshift=0.5mm, align=left] at (acheux) {\textbf{6. Acheux-en-Amiénois}\\(2–30 nov.)};
-\node[loc] (varennes) at (16mm, 11mm) {};
-\node[below, xshift=2.5mm, yshift=-0.4mm] at (varennes) {Varennes \& Léalvillers};
+\node[loc] (varennes) at (14mm, 10mm) {};
+\node[below, xshift=-1.5mm, yshift=-0.5mm] at (varennes) {Varennes \& Léalvillers};
 \node[loc] (raincheval) at (-10mm, 11mm) {};
 \node[above, align=center, xshift=-1mm, yshift=0.6mm] at (raincheval) {Raincheval \&\\Arquèves};
 \node[loc] (louvencourt) at (10mm, 36mm) {};
 \node[above] at (louvencourt) {Louvencourt, Bertrancourt, Bus-lès-Artois};
-\node[loc] (herissart) at (-12mm, -2mm) {};
-\node[left, xshift=-1.2mm] at (herissart) {Hérissart \& Puchevillers};
+\node[loc] (herissart) at (-20mm, -4mm) {};
+\node[left, xshift=-1.5mm] at (herissart) {Hérissart \& Puchevillers};
 
 % Flèches d'itinéraires
 \draw[move] (canaples) -- (ribeaucourt);
 \draw[excur] (ribeaucourt) -- (domqueur);
 \draw[move] (ribeaucourt) -- (beauval) -- (warloy) -- (bouzincourt) -- (albert);
-\draw[move] (albert) .. controls (38mm, 2mm) and (30mm, 17mm) .. (acheux);
+\draw[move] (albert) .. controls (41mm, 4mm) and (33mm, 19mm) .. (acheux);
 \draw[excur] (acheux) -- (louvencourt);
 \draw[excur] (acheux) -- (raincheval);
 \draw[excur] (acheux) -- (varennes);
@@ -527,7 +527,7 @@ TIKZ_CARTES_CHAPITRES = {
 \draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
 
 % Rivière l'Ancre (passant immédiatement à l'ouest d'Albert et de Buire)
-\draw[river] (63mm,36mm) .. controls (54mm,10mm) and (43mm,-14mm) .. (31mm,-42mm)
+\draw[river] (62mm,36mm) .. controls (55mm,10mm) and (45mm,-14mm) .. (33mm,-42mm)
   node[pos=0.12, right, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{L'Ancre};
 
 % Centre d'Acheux-en-Amiénois
@@ -557,11 +557,11 @@ TIKZ_CARTES_CHAPITRES = {
 \node[right, xshift=1.5mm, yshift=0.5mm] at (lealvillers) {Léalvillers};
 \node[loc] (varennes) at (15mm, 4mm) {};
 \node[right, xshift=1.5mm, yshift=0.5mm] at (varennes) {Varennes};
-\node[loc] (hedauville) at (22mm, -2mm) {};
+\node[loc] (hedauville) at (20mm, -2mm) {};
 \node[right, xshift=1.8mm, yshift=0.5mm, align=left] at (hedauville) {\textbf{Hédauville} (9 janv.,\\\textit{150th Co. A.S.C.})};
-\node[loc] (albert) at (43mm, -14mm) {};
+\node[loc] (albert) at (49mm, -15mm) {};
 \node[right, xshift=1.8mm] at (albert) {\textbf{Albert} \& Bouzincourt};
-\node[loc] (buire) at (38mm, -28mm) {};
+\node[loc] (buire) at (44mm, -28mm) {};
 \node[right, xshift=1.8mm, align=left] at (buire) {\textbf{Buire-sur-l'Ancre},\\Ribemont \& Heilly (1\textsuperscript{er} déc.)};
 \node[loc] (franvillers) at (12mm, -37mm) {};
 \node[below] at (franvillers) {\textbf{Franvillers}};
@@ -571,13 +571,13 @@ TIKZ_CARTES_CHAPITRES = {
 \node[left, xshift=-1.2mm] at (puchevillers) {\textbf{Puchevillers}};
 \node[loc] (herissart) at (-28mm, -9mm) {};
 \node[left, xshift=-1.2mm] at (herissart) {\textbf{Hérissart}};
-\node[loc] (rubempre) at (-24mm, -19mm) {};
+\node[loc] (rubempre) at (-28mm, -20mm) {};
 \node[left, xshift=-1.2mm] at (rubempre) {\textbf{Rubempré} \& Septenville};
-\node[loc] (toutencourt) at (-2mm, -5mm) {};
-\node[below, align=center, xshift=-3mm, yshift=-0.5mm] at (toutencourt) {\textbf{Toutencourt}\\(Mission V\textsuperscript{e} Armée)};
-\node[loc] (harponville) at (10mm, -7mm) {};
+\node[loc] (toutencourt) at (-4mm, -6mm) {};
+\node[below, align=center, xshift=-4.0mm, yshift=-0.6mm] at (toutencourt) {\textbf{Toutencourt}\\(Mission V\textsuperscript{e} Armée)};
+\node[loc] (harponville) at (11mm, -7mm) {};
 \node[right, xshift=1.2mm] at (harponville) {Harponville};
-\node[loc] (contay) at (10mm, -19mm) {};
+\node[loc] (contay) at (12mm, -20mm) {};
 \node[below, align=center, yshift=-0.5mm] at (contay) {\textbf{Contay} \& Vadencourt};
 
 % Rayons des tournées quotidiennes
@@ -606,21 +606,21 @@ TIKZ_CARTES_CHAPITRES = {
 
 % Partie gauche : Boucle ferroviaire Amiens - Paris - Toulouse - Béziers - Millau - Clermont - Paris
 \node[font=\fontsize{6.1pt}{7.1pt}\selectfont\bfseries] at (-40mm, 44mm) {A. Boucle de la 2\textsuperscript{e} permission (26 janv. – 7 févr. 1917)};
-\node[ptstep] (amiens) at (-48mm, 36mm) {};
+\node[ptstep] (amiens) at (-50mm, 36mm) {};
 \node[right, xshift=1.5mm] at (amiens) {\textbf{1. Acheux / Amiens} (26 janv.)};
-\node[ptstep] (paris) at (-48mm, 24mm) {};
+\node[ptstep] (paris) at (-50mm, 24mm) {};
 \node[right, xshift=1.5mm, align=left] at (paris) {\textbf{2. Paris \& Neuilly}\\(famille Faure, 27 janv.)};
-\node[ptstep] (toulouse) at (-56mm, -22mm) {};
+\node[ptstep] (toulouse) at (-57mm, -22mm) {};
 \node[left, xshift=-1.2mm, align=right] at (toulouse) {\textbf{3. Toulouse}\\(28 janv. – 3 févr.)};
-\node[loc] (carca) at (-40mm, -33mm) {};
+\node[loc] (carca) at (-42mm, -33mm) {};
 \node[below, align=center, yshift=-0.5mm] at (carca) {Carcassonne\\(Jean Crouzet)};
-\node[ptstep] (beziers) at (-16mm, -33mm) {};
+\node[ptstep] (beziers) at (-19mm, -33mm) {};
 \node[below, align=center, yshift=-0.5mm] at (beziers) {\textbf{4. Béziers}\\(cath. St-Nazaire, 3 févr.)};
-\node[ptstep] (millau) at (-20mm, -16mm) {};
+\node[ptstep] (millau) at (-24mm, -16mm) {};
 \node[left, xshift=-1.5mm] at (millau) {\textbf{5. Millau} (3–5 févr.)};
-\node[loc] (stflour) at (-26mm, -4mm) {};
+\node[loc] (stflour) at (-30mm, -4mm) {};
 \node[right, xshift=1.5mm] at (stflour) {St-Chély \& St-Flour};
-\node[ptstep] (clermont) at (-32mm, 8mm) {};
+\node[ptstep] (clermont) at (-36mm, 8mm) {};
 \node[right, xshift=1.5mm, align=left] at (clermont) {\textbf{6. Brioude \& Clermont-F\textsuperscript{d}}\\(6 févr.)};
 
 \draw[aller] (amiens) -- (paris);

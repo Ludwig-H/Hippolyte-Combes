@@ -95,7 +95,7 @@ MIDPAGE_DAY_START_RE = re.compile(
 
 # Regex for bottom accounting / expense / footnote block (triggers \cline{1-1} before its first line):
 BOTTOM_ACCOUNTING_START_RE = re.compile(
-    r"^(?:\[\s*|\(1\)|—\s*(?:En\s+caisse|Lunch|Dîner|Dinner|Washing|Payé|Acheté|Dépenses|Timbres|Cartes|Ctes|Tip|Groom|Bain|Coiffeur|Télégramme|Mandat|Donné|Reçu|Chocolat|Pâtisserie|Gâteaux)\b|En\s+caisse\b|A\s+(?:Mme|M\.|Renescure|Hazebrouck|Bailleul|St-Pol|Saint-Pol|Amiens|Paris|Toulouse|Millau|Acheux|Doullens|Albert)\b|Laissé\s+à\s+Mme\b|Food\b|Lunch\b|Dîner\b|Dinner\b|Washing\b|Payé\s+à\b|Acheté\b|Dépenses\b|Timbres\b|Cartes\s+ples\b|C\.\s*ples\b|Ctes\s+ples\b|Tip\b|Groom\b|Bain\b|Coiffeur\b|Télégramme\b|Mandat\b|Donné\b|Reçu\b|Pour\s+mon\b)"
+    r"^(?:\[\s+|\(1\)|—\s*(?:En\s+caisse|Lunch|Dîner|Dinner|Washing|Payé|Acheté|Dépenses|Timbres|Cartes|Ctes|Tip|Groom|Bain|Coiffeur|Télégramme|Mandat|Donné|Reçu|Chocolat|Pâtisserie|Gâteaux|Boutons)\b|En\s+caisse\b|A\s+Mme\b|A\s+(?:M\.|Renescure|Hazebrouck|Bailleul|St-Pol|Saint-Pol|Amiens|Paris|Toulouse|Millau|Acheux|Doullens|Albert)\b(?=.*(?::|\d+\s*(?:f|fr|c)\b))|Laissé\s+à\s+Mme\b|Food\b|(?:Lunch|Dîner|Dinner|Bain)\b(?=.*:)|Washing\b|Payé\s+à\b|Acheté\b|Dépenses\b|Timbres\b|Cartes\s+ples\b|C\.\s*ples\b|Ctes\s+ples\b|Tip\b|Groom\b|Coiffeur\b|Télégramme\b|Mandat\b|Donné\b|Reçu\b|Pour\s+mon\b|Hier\s+2\s+images\b|(?:⟦Paris⟧\s*)?Métro\s*:)"
 )
 
 
@@ -552,7 +552,7 @@ def _should_insert_cline_before(lines: list[str], idx_1based: int, scan_num: int
         return True
 
     # Case B1: Bracketed accounting block `[ ...` anywhere from line 4 onwards
-    if idx_1based >= 4 and line.startswith("[") and not prev_line.startswith("["):
+    if idx_1based >= 4 and line.startswith("[ ") and not prev_line.startswith("[ "):
         return True
 
     # Case B2: First line of the bottom accounting / footnote block
