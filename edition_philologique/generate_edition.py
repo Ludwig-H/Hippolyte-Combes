@@ -647,7 +647,9 @@ def build_spread_latex(rec: dict) -> str:
     extra_bottom_note_lines = 0
     for idx, l in enumerate(lines, 1):
         if (idx - cline_inserted_at >= 2) and _should_insert_cline_before(lines, idx, scan_num):
-            rows_tex.append("      \\cline{1-1}")
+            if rows_tex and rows_tex[-1].endswith("\\\\"):
+                rows_tex[-1] = rows_tex[-1][:-2] + "\\\\[1.2pt]"
+            rows_tex.append("      \\cline{1-1}\\noalign{\\vspace{1.2pt}}")
             cline_inserted_at = idx
 
         esc_l = escape_diplomatic_line(l, idx, scan_num)
@@ -664,7 +666,7 @@ def build_spread_latex(rec: dict) -> str:
             if needed_mn_lines > rem_rows:
                 extra_bottom_note_lines = max(extra_bottom_note_lines, needed_mn_lines - rem_rows)
             note_box = f"\\parbox[t]{{39mm}}{{{note_font}\\raggedright\\color{{black!88}}{mn}}}"
-            right_cell = f"\\smash{{{note_box}}}"
+            right_cell = f"\\hspace*{{3.5mm}}\\smash{{{note_box}}}"
         else:
             right_cell = ""
 
@@ -706,7 +708,7 @@ def build_spread_latex(rec: dict) -> str:
 \\noindent\\rule{{\\textwidth}}{{0.35pt}}\\par\\vspace{{0.7mm}}
 % --- Corps de la transcription diplomatique et apparat marginal en prolongement ---
 {{\\renewcommand{{\\arraystretch}}{{{row_stretch}}}%
-\\noindent\\hspace*{{3.5mm}}\\begin{{tabular}}{{@{{}}p{{87mm}}@{{\\hspace{{3.5mm}}}}p{{39mm}}@{{}}}}
+\\noindent\\hspace*{{3.5mm}}\\begin{{tabular}}{{@{{}}p{{87mm}}@{{}}p{{42.5mm}}@{{}}}}
 {rows_joined}
 \\end{{tabular}}}}\\par{extra_vspace}
 \\vspace*{{\\fill}}
@@ -897,7 +899,7 @@ def generate_full_tex():
 
 \section{Destin d'un universitaire rouergat et toulousain auprès de l'Armée britannique (1876–1970)}
 
-L'acte de naissance n\textsuperscript{o}~395 du 16 août 1876 situe la naissance de \textbf{Marie Lucien Hippolyte Combes} à \textbf{Millau}, rue des Barris, le \textbf{14 août 1876}, fils de \textbf{François Augustin Hippolyte Combes} (1825–1899), avocat, et de \textbf{Marie Anaïs Alric} (1838–1907). La fiche matricule porte la date du 22 août 1876 : les deux témoignages sont signalés sans harmonisation silencieuse. Les pièces d'état civil et monographies familiales retracent ses études à l'Institution Sainte-Marie-des-Champs (Le Caousou) et à la Faculté des lettres de Toulouse (47, rue du Taur), son séjour de quatre années en Angleterre (Nottingham) et sa carrière de professeur d'anglais aux collèges de Saint-Yrieix et de Nogent-le-Rotrou (17, rue Saint-Hilaire), puis au lycée Ingres de Montauban jusqu'à sa retraite à Millau et son décès le \textbf{2 septembre 1970} à l'\textbf{Hôtel du Centre} à \textbf{Saint-Chély-d'Apcher} (Lozère), avant son inhumation au cimetière de Millau.
+L'acte de naissance n\textsuperscript{o}~395 du 16 août 1876 situe la naissance de \textbf{Marie Lucien Hippolyte Combes} à \textbf{Millau}, rue des Barris, le \textbf{14 août 1876}, fils de \textbf{François Augustin Hippolyte Combes} (1825–1899), avocat (lui-même fils de \textbf{François Combes}, 1789–1855, maître menuisier-ébéniste à Millau, et de \textbf{Madeleine Fabre-Hugou}, 1792–1863), et de \textbf{Marie Anaïs Alric} (1838–1907, fille de \textbf{Pierre Émile Alric}, 1798–1854, et de \textbf{Marie Bouquié}, 1804–1863), mariés à Millau le 22 juillet 1864. La fiche matricule porte la date du 22 août 1876 : les deux témoignages sont signalés sans harmonisation silencieuse. Les pièces d'état civil et la monographie familiale rédigée par son petit-fils \textbf{Pierre Combes} (fils du magistrat \textbf{Joseph Combes}, né en 1921, troisième des sept enfants d'Hippolyte et de Marguerite Combes) retracent ses études à l'Institution Sainte-Marie-des-Champs (Le Caousou) et à la Faculté des lettres de Toulouse (47, rue du Taur), son séjour de quatre années en Angleterre (Nottingham) et sa carrière de professeur d'anglais aux collèges de Saint-Yrieix et de Nogent-le-Rotrou (17, rue Saint-Hilaire), puis au lycée Ingres de Montauban jusqu'à sa retraite à Millau et son décès le \textbf{2 septembre 1970} à l'\textbf{Hôtel du Centre} à \textbf{Saint-Chély-d'Apcher} (Lozère), avant son inhumation au cimetière de Millau.
 
 \begin{figure}[htbp]
   \centering
@@ -954,7 +956,7 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
       \item \textbf{L'apparat critique marginal}, composé en petits caractères dans la colonne de droite dans le prolongement horizontal exact de la ligne concernée : il développe les abréviations tachygraphiques, signale les biffures du manuscrit, identifie les emprunts lexicaux anglais ou latins et précise les particularités matérielles.
       \item \textbf{En bas de page, jusqu'à trois registres dépourvus d'intitulés répétitifs mais immédiatement distingués par des filets horizontaux et un décrochement typographique franc :}
         \begin{itemize}
-          \item \textit{Premier registre (critique interne, présent uniquement lorsque des précisions codicologiques ou structurelles excèdent le cadre des notes marginales) :} composé au fer à gauche immédiatement sous le filet horizontal de pleine largeur (\texttt{0,5 pt}) et suivi d'un filet court de \texttt{22 mm}. Lorsqu'une page n'appelle aucune remarque critique interne en sus des notes marginales, ce registre est omis.
+          \item \textit{Premier registre (critique interne, présent uniquement lorsque des précisions codicologiques ou structurelles excèdent le cadre des notes marginales) :} composé au fer à gauche immédiatement sous le filet horizontal de pleine largeur (\texttt{0,5 pt}), introduit directement par le renvoi aux lignes concernées (\textbf{l.~1--21 :}, etc., sans sous-titre thématique) et suivi d'un filet court de \texttt{22 mm}. Lorsqu'une page n'appelle aucune remarque critique interne en sus des notes marginales, ce registre est omis.
           \item \textit{Deuxième registre (apparat des \textbf{loci paralleli}, rédigé en latin) :} composé au fer à gauche entre le commentaire critique et le commentaire historique, et suivi d'un filet horizontal de \texttt{38 mm} (\texttt{0,4 pt}). Lorsqu'Hippolyte Combes mentionne une personne, une unité, un lieu ou un événement sur lequel d'autres passages du carnet (ou de la correspondance de l'Annexe~I) apportent un éclairage complémentaire, cet apparat latin renvoie simultanément \textbf{au folio du carnet} (\texttt{f\textsuperscript{o}~X~r\textsuperscript{o}/v\textsuperscript{o}}) \textbf{et à la page exacte du présent fichier PDF} (\texttt{p.~Y}).
           \item \textit{Troisième registre (commentaire historique) :} composé avec un retrait général de bloc de \texttt{5 mm} sur la gauche, il fournit de manière concise et dense l'élucidation historique, militaire, architecturale, prosopographique et littéraire du folio.
         \end{itemize}

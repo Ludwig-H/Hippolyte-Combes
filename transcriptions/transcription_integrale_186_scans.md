@@ -23,7 +23,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Codicologie :** Plat supérieur du carnet revêtu d'un papier fort rouge gaufré à motif de losanges ; au centre, étiquette rectangulaire de papier bleu à pans coupés portant l'intitulé autographe en cinq lignes à l'encre noire, avec soulignement du titre et deux tirets séparateurs.
+**l.~1--5 :** Plat supérieur du carnet revêtu d'un papier fort rouge gaufré à motif de losanges ; au centre, étiquette rectangulaire de papier bleu à pans coupés portant l'intitulé autographe en cinq lignes à l'encre noire, avec soulignement du titre et deux tirets séparateurs.
 
 ***1** (*Livre - Journal*) cf. infra fo 1 ro, fo 93 ro. — **3** (*25 juillet 1916*) cf. infra fo 1 ro. — **4** (*30 avril 1917*) cf. infra fo 93 ro.*
 
@@ -71,7 +71,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Disposition de la page :** Première page écrite du carnet, ouverte *in medias res* le mardi 25 juillet 1916. Hippolyte Combes place la date soulignée (*25 Ma.*) en tête de la l.~1 et le mois souligné (*Juillet 1916*) légèrement surélevé dans l'angle supérieur droit ; au bas du feuillet (l.~20--21), un trait horizontal sépare le journal proprement dit du relevé des dépenses.
+**l.~1--21 :** Première page écrite du carnet, ouverte *in medias res* le mardi 25 juillet 1916. Hippolyte Combes place la date soulignée (*25 Ma.*) en tête de la l.~1 et le mois souligné (*Juillet 1916*) légèrement surélevé dans l'angle supérieur droit ; au bas du feuillet (l.~20--21), un trait horizontal sépare le journal proprement dit du relevé des dépenses.
 
 ***2** (*Margte*) cf. infra fo 3 ro, fo 9 vo, *et passim*, Appendicem I, doc. 5. — **9** (*Curtis*) cf. infra fo 3 ro, fo 6 vo, *et passim*. — **14** (*R. Fusrs*) cf. infra fo 1 vo, fo 37 vo.*
 
@@ -120,7 +120,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Disposition :** Un trait horizontal sépare au bas du feuillet le récit quotidien et le relevé comptable bilingue de la l.~17 (*Food* / *Washing*).
+**l.~17 :** Un trait horizontal sépare au bas du feuillet le récit quotidien et le relevé comptable bilingue (*Food* / *Washing*).
 
 ***3** (*Royal Fusiliers*) cf. supra fo 1 ro, infra fo 37 vo, fo 46 ro.*
 
@@ -177,7 +177,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Structure comptable :** Au bas du feuillet (l.~18--24), le relevé des dépenses et de la solde est séparé du récit par un trait horizontal et subdivisé par deux sous-titres topographiques soulignés (*A Renescure*, *A Hazebrouck*).
+**l.~18--25 :** Au bas du feuillet, le relevé des dépenses et de la solde est séparé du récit par un trait horizontal et subdivisé par deux sous-titres topographiques soulignés (*A Renescure*, *A Hazebrouck*).
 
 ***10** (*Hazebrouck*) cf. infra fo 2 vo, fo 4 ro. — **20** (*Ypres*) cf. infra fo 4 vo. — **22** (*84 f.*) cf. infra fo 10 vo, fo 39 vo.*
 
@@ -226,7 +226,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Disposition :** Les quatre dernières lignes (l.~20--23), consacrées au règlement de la logeuse de Lynde et aux frais de route, sont isolées du récit par un trait horizontal continu.
+**l.~20--23 :** Les quatre dernières lignes, consacrées au règlement de la logeuse de Lynde et aux frais de route, sont isolées du récit par un trait horizontal continu.
 
 ***12** (*Hazebrouck*) cf. supra fo 2 ro, infra fo 4 ro, fo 8 ro. — **20** (*Lynde*) cf. supra fo 1 ro, fo 2 ro.*
 
@@ -430,7 +430,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Unité de page :** Ce feuillet réunit deux journées consécutives (mercredi 2 août, l.~1--11, et jeudi 3 août, l.~12--19) séparées par un trait horizontal à mi-page, suivies d'un relevé de dépenses au bas du folio.
+**l.~1--23 :** Ce feuillet réunit deux journées consécutives (mercredi 2 août, l.~1--12, et jeudi 3 août, l.~13--23) séparées par un trait horizontal à mi-page, chacune close par son relevé de dépenses.
 
 ***5** (*Bailleul*) cf. supra fo 3 vo, fo 4 ro, infra fo 5 ro, fo 6 ro, *et passim*. — **5** (*fourrage*) cf. supra fo 3 ro, fo 3 vo, infra fo 6 vo, fo 9 ro, *et passim*. — **19** (*Ypres*) cf. supra fo 2 ro.*
 
@@ -601,7 +601,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Disposition :** Au bas du feuillet (l.~20--23), une grande accolade marginale gauche réunit les quatre lignes du compte de *mess* et d'achats.
+**l.~15--17 :** Au bas du feuillet, un trait horizontal sépare du récit les trois lignes du compte d'achats auprès de la logeuse (*oeufs, lait & bière*) et de cartes postales.
 
 ***4** (*Curtis*) cf. supra fo 1 ro, fo 3 ro, infra fo 7 ro, fo 9 vo, *et passim*. — **8** (*fourrage*) cf. supra fo 3 ro, fo 4 vo, infra fo 9 ro, fo 11 vo, *et passim*. — **11** (*Maurin*) cf. infra fo 7 ro, fo 9 vo, *et passim*.*
 
@@ -721,7 +721,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Unité de page :** La page regroupe le récit du jeudi 10 août (l.~1--18), un relevé de dépenses (l.~19) et une brève notation datée du mercredi 9 août (l.~20--22) ajoutée en bas de page.
+**l.~1--20 :** La page regroupe le récit de la promenade du jeudi 10 août le long de la Lys jusqu'à Sailly (l.~1--18), une notation isolée (*Les Australiens*, l.~19) et un relevé de dépenses au bas du feuillet (l.~20).
 
 ***7** (*Lys*) cf. supra fo 6 vo, fo 7 vo, infra fo 8 vo, fo 9 ro, *et passim*. — **15** (*Maxse*) cf. . — **18** (*Hazebrouck*) cf. supra fo 2 ro, fo 4 ro, infra fo 13 vo.*
 
@@ -766,7 +766,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Autocensure autographe (l.~20--23) :** Aux quatre dernières lignes du récit, les mots décrivant le supplice infligé au soldat britannique (*attaché à la roue*, *les mains liées*, *les pieds liés*) ont été biffés après coup de traits obliques serrés par Hippolyte Combes, mais demeurent déchiffrables sous la rature.
+**l.~5--6 et 12 :** Dans le récit du bombardement d'Erquinghem, les mots les plus crus décrivant le sort du soldat touché (*décapité*, *bras emportés*, l.~6) et l'épithète initiale qualifiant l'insécurité (*perpétuelle*, l.~12) ont été biffés par Hippolyte Combes, mais demeurent partiellement déchiffrables sous la rature.
 
 ***8** (*Barbry*) cf. infra fo 11 ro, fo 11 vo. — **17** (*Armentières*) cf. infra fo 9 vo, fo 10 vo.*
 
@@ -933,7 +933,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Unité de page :** Deux entrées successives (vendredi 18 août, l.~1--7, et samedi 19 août, l.~8--22) séparées par un trait horizontal ; la phrase de la l.~22 se poursuit sans interruption en tête du fo~11~ro.
+**l.~1--22 :** Deux entrées successives (vendredi 18 août, l.~1--12, et samedi 19 août, l.~13--22) séparées par un trait horizontal ; la phrase de la l.~22 se poursuit sans interruption en tête du fo~11~ro.
 
 ***8** (*Maurin*) cf. supra fo 6 vo, fo 9 vo, infra fo 12 ro, fo 13 ro, *et passim*. — **12** (*84 f.*) cf. supra fo 2 ro, infra fo 39 vo, fo 56 vo. — **18** (*Curtis*) cf. supra fo 1 ro, fo 9 vo, infra fo 11 vo, fo 15 ro, *et passim*.*
 
@@ -986,7 +986,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Enchaînement matériel :** La l.~1 poursuit directement la phrase commencée au bas du fo~10~vo ; la mention de date (*19 Sam --*) est rejetée à l'extrémité droite de la première ligne.
+**l.~1 :** La première ligne poursuit directement la phrase commencée au bas du fo~10~vo ; la mention de date (*19 Sam --*) est rejetée à l'extrémité droite de la ligne.
 
 ***2** (*Barbry*) cf. supra fo 8 vo, infra fo 11 vo. — **3** (*Fleurbaix*) cf. supra fo 10 vo. — **7** (*Armentières*) cf. supra fo 8 vo, fo 10 vo.*
 
@@ -1041,7 +1041,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Unité de page :** Le feuillet réunit les journées du dimanche 20 août (l.~1--15) et du lundi 21 août (l.~16--20), séparées par un trait horizontal.
+**l.~1--24 :** Le feuillet réunit les journées du dimanche 20 août (l.~1--14) et du lundi 21 août (l.~15--24), séparées par un trait horizontal et closes par un relevé comptable entre crochets (l.~23--24).
 
 ***4** (*Ctis*) cf. supra fo 1 ro, fo 10 vo, infra fo 15 ro, fo 18 vo, *et passim*. — **5** (*green forage*) cf. supra fo 3 ro, fo 9 ro, infra fo 15 ro, fo 15 vo, *et passim*. — **6** (*Barbry*) cf. supra fo 8 vo, fo 11 ro.*
 
@@ -1274,7 +1274,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Continuité :** Feuillet de suite du vendredi 25 août 1916 (*Ven. 25 (suite)*) ; les réflexions personnelles des l.~5--14 sont encadrées de tirets longs caractéristiques de la ponctuation expressive d'Hippolyte Combes.
+**l.~1--22 :** Feuillet de suite du vendredi 25 août 1916 (*Ven. 25 (suite)*) ; les réflexions personnelles des l.~6--8 sont ponctuées de tirets longs caractéristiques de l'écriture expressive d'Hippolyte Combes.
 
 ***2** (*Bailleul*) cf. supra fo 3 vo, fo 13 vo, *et passim*. — **15** (*Marquay*) cf. infra fo 14 vo, fo 15 ro, *et passim*. — **22** (*St-Pol*) cf. supra fo 13 vo, infra fo 16 ro, fo 17 ro, *et passim*.*
 
@@ -1540,7 +1540,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Unité de page :** Ce feuillet réunit le samedi 2 septembre (l.~1--8) et le début du dimanche 3 septembre (l.~9--22), dont la suite et les comptes se trouvent au fo~18~ro.
+**l.~1--21 :** Ce feuillet réunit le samedi 2 septembre (l.~1--11, clos par un relevé de blanchissage entre crochets aux l.~10--11) et le début du dimanche 3 septembre (l.~12--21), dont la suite et les comptes se trouvent au fo~18~ro.
 
 ***13** (*St-Pol*) cf. supra fo 13 vo, fo 16 ro, infra fo 18 ro, fo 18 vo, *et passim*, Appendicem I, doc. 5.*
 
@@ -1589,7 +1589,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Ordre des folios :** Le fo~17~vo porte les entrées des lundi 4 et mardi 5 septembre 1916, tandis que le fo~18~ro contient la fin de l'entrée du dimanche 3 septembre : Hippolyte Combes a rédigé les journées des 4 et 5 septembre sur la page de gauche avant ou après avoir complété le compte du 3 septembre sur la page en regard.
+**l.~1--22 :** Le fo~17~vo porte les entrées des lundi 4 (l.~1--10) et mardi 5 septembre 1916 (l.~11--22), tandis que le fo~18~ro contient la fin de l'entrée du dimanche 3 septembre : Hippolyte Combes a rédigé les journées des 4 et 5 septembre sur la page de gauche avant ou après avoir complété le compte du 3 septembre sur la page en regard.
 
 ***22** (*78 f. 75*) cf. infra fo 23 ro, fo 34 vo.*
 
@@ -1622,7 +1622,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Continuité :** Fin du récit et relevé des dépenses de la journée du dimanche 3 septembre 1916, faisant suite au fo~17~ro.
+**l.~1--9 :** Fin du récit paysager (l.~1--5) et relevé des dépenses (l.~6--9) de la journée du dimanche 3 septembre 1916, faisant suite au fo~17~ro.
 
 ***6** (*Saint-Pol*) cf. supra fo 13 vo, fo 17 ro, infra fo 18 vo, *et passim*, Appendicem I, doc. 5.*
 
@@ -2253,7 +2253,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Disposition :** Le feuillet réunit le dimanche 24 septembre (l.~1--16) et le relevé récapitulatif des dépenses des 23 et 24 septembre (l.~17--22) encadré d'un crochet comptable.
+**l.~1--21 :** Le feuillet est intégralement consacré à la journée du dimanche 24 septembre 1916 au camp d'Acheux, sans bloc comptable final, la page se refermant sur la notation auditive du canon grondant sur le front (l.~21).
 
 ***8** (*Forceville*) cf. supra fo 22 vo, fo 24 ro, infra fo 25 ro, fo 48 ro. — **8** (*green forage*) cf. supra fo 3 ro, fo 22 ro, infra fo 25 ro, fo 35 vo, *et passim*. — **15** (*Acheux*) cf. supra fo 21 vo, fo 24 ro, infra fo 25 ro, fo 43 vo, *et passim*.*
 
@@ -2393,7 +2393,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Continuité :** Première page consacrée à la journée parisienne du mardi 26 septembre 1916 (arrivée à la gare du Nord et matinée à Neuilly), poursuivie au fo~26~vo.
+**l.~1--22 :** Première page consacrée à la journée parisienne du mardi 26 septembre 1916 (arrivée au Bourget, gare du Nord, gare d'Orsay et courses rive gauche), poursuivie au fo~26~vo.
 
 ***17** (*Toulouse*) cf. supra in tegumento, fo 23 vo, infra fo 26 vo, fo 27 ro, *et passim*, Appendicem I, doc. 1 et 3.*
 
@@ -2446,7 +2446,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Structure comptable :** Seconde page du mardi 26 septembre 1916, occupée aux l.~12--23 par le tableau détaillé des achats effectués par Hippolyte Combes à Paris avant son départ pour Toulouse.
+**l.~11--21 :** Seconde page du mardi 26 septembre 1916, occupée dans sa moitié inférieure par le tableau détaillé des achats et frais de transport effectués par Hippolyte Combes à Paris avant son départ pour Toulouse.
 
 ***13** (*Toulouse*) cf. supra in tegumento, fo 26 ro, infra fo 27 ro, fo 27 vo, *et passim*, Appendicem I, doc. 1 et 3. — **15** (*Zyromski*) cf. infra fo 67 vo. — **16** (*Maeterlinck*) cf. .*
 
@@ -2820,7 +2820,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Tableau financier :** Page entièrement consacrée au bilan comptable de la permission toulousaine du 3 octobre 1916, articulé autour d'un solde encadré (*En caisse : 272 f.*) suivi des dépenses détaillées.
+**l.~1--10 :** Feuillet associant un bilan des dépenses de la permission toulousaine du 3 octobre 1916 (tailleur Guiraud, loyer de Mlle~Guilhem, l.~2--7) et une brève notation mondaine sur la visite de la propriété de Mme~de Labarthe (l.~8--10).
 
 ***8** (*Mme de Labarthe*) cf. supra fo 28 ro, fo 30 ro, infra fo 67 vo, fo 68 vo, *et passim*.*
 
@@ -2916,7 +2916,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Inversion de la séquence photographique :** Le fo~31~vo (journée du jeudi 5 octobre 1916 à Paris et retour vers le front) et le fo~32~ro (soirée du mercredi 4 octobre et nuit du 4 au 5 octobre dans l'express Toulouse–Paris) ont été photographiés dans l'ordre inverse de la chronologie.
+**l.~1--19 :** Le fo~31~vo (journée du jeudi 5 octobre 1916 à Paris et retour vers le front) et le fo~32~ro (soirée du mercredi 4 octobre et nuit du 4 au 5 octobre dans l'express Toulouse--Paris) ont été photographiés ou rédigés dans l'ordre inverse de la chronologie.
 
 ***1** (*Jeudi 5*) de ordine chronologico cf. infra fo 32 ro.*
 
@@ -2953,7 +2953,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Chronologie interne :** Ce feuillet (fin de la journée du 4 octobre 1916 au départ de Toulouse et voyage de nuit vers Paris) précède chronologiquement le fo~31~vo.
+**l.~1--13 :** Ce feuillet (fin de la journée du 4 octobre 1916 au départ de Toulouse, l.~1--6, et relevé des dépenses de la veille, l.~7--13) précède chronologiquement le fo~31~vo.
 
 ***1** (*4 au 5 Oct.*) de ordine chronologico cf. supra fo 31 vo. — **1** (*Mte*) cf. supra fo 1 ro, fo 31 ro, infra fo 56 ro, fo 57 ro, *et passim*, Appendicem I, doc. 5. — **13** (*Crouzet*) cf. supra fo 27 ro, fo 31 ro, infra fo 66 ro, fo 66 vo, *et passim*.*
 
@@ -3355,7 +3355,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Renvoi infrapaginal autographe :** À la l.~10, Hippolyte Combes insère un appel de note `(1)` renvoyant au post-scriptum de cinq lignes (l.~17--21) tracé au bas du feuillet sous un trait horizontal de séparation.
+**l.~14--15 :** Au bas du récit de l'étape de Beauval, un trait horizontal sépare les deux dernières lignes consacrées aux menues dépenses de blanchissage (*washing & darning*), d'ordonnance et de cartes postales.
 
 ***10** (*Beauval*) cf. infra fo 37 vo, fo 38 ro. — **14** (*Connelly*) cf. supra fo 6 ro, fo 22 vo. — **14** (*Barlette*) cf. supra fo 33 ro, fo 36 vo, *et passim*.*
 
@@ -3396,7 +3396,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Unité de page :** La page s'ouvre par un bloc comptable entre crochets (l.~1--4) soldant les frais de logement à Ribeaucourt, suivi de l'entrée du lundi 16 octobre 1916 (l.~5--21).
+**l.~1--17 :** L'en-tête de la l.~1 réunit sur une même ligne la date soulignée (*Lundi 16*), un trait vertical de séparation, le début du récit (*Sur pied à 5h~1/2*) et le rappel du mois (*Oct /16*) rejeté à droite.
 
 ***4** (*Beauval*) cf. supra fo 37 ro, infra fo 38 ro. — **7** (*Beauquesne*) cf. infra fo 49 ro, fo 56 ro, *et passim*. — **9** (*Puchevillers*) cf. infra fo 52 ro, fo 55 ro, *et passim*.*
 
@@ -4036,7 +4036,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Discours direct bilingue :** Aux l.~17--19, Hippolyte Combes rapporte au style direct, en français puis en anglais entre guillemets, sa réplique au major Hughes et l'accueil du colonel Grose.
+**l.~10--12 :** Au milieu du récit du départ d'Albert pour Acheux, Hippolyte Combes oppose en deux phrases nominales lapidaires la colère du major Hughes (*Major Hughes tempêté*) et la décision écrite du colonel Grose (*Col. Grose, signé ordre*).
 
 ***6** (*Cap. Pant*) cf. supra fo 23 vo, fo 36 vo. — **7** (*Lépin*) cf. supra fo 11 vo, fo 42 vo. — **8** (*Pizzi*) cf. supra fo 24 ro, fo 42 vo, infra fo 46 ro.*
 
@@ -4083,7 +4083,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Doublon de numérisation :** Ce feuillet (fin de la journée du 2 novembre et journée du 3 novembre 1916) figure deux fois dans la séquence du carnet (voir fo~46~vo) ; la transcription diplomatique est maintenue à l'identique sur les deux doubles pages.
+**l.~1--17 :** Ce feuillet (fin de la journée du 2 novembre, l.~1--6, et journée du 3 novembre 1916, l.~7--17) figure deux fois dans la séquence photographique du carnet (voir fo~46~vo) ; la transcription diplomatique est maintenue à l'identique sur les deux doubles pages.
 
 ***1--17** (*eadem pagina bis photographata*) cf. infra fo 46 vo. — **1** (*Raincheval*) cf. supra fo 20 vo, fo 24 ro, infra fo 46 vo, fo 48 vo, *et passim*. — **2** (*Major Levy*) cf. infra fo 46 vo, fo 55 ro.*
 
@@ -4175,7 +4175,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Doublon de numérisation :** Reproduction de la même page manuscrite que le fo~45~vo (journées des 2 et 3 novembre 1916).
+**l.~1--17 :** Reproduction de la même page manuscrite que le fo~45~vo (journées des 2 et 3 novembre 1916).
 
 ***1--17** (*eadem pagina bis photographata*) cf. supra fo 45 vo. — **1** (*Raincheval*) cf. supra fo 20 vo, fo 45 vo, infra fo 48 vo, fo 49 ro, *et passim*. — **2** (*Major Levy*) cf. supra fo 45 vo, infra fo 55 ro, fo 58 ro.*
 
@@ -4808,7 +4808,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Renvoi interne :** L'appel de note `(1)` placé à la fin du récit du 1er décembre (l.~14) renvoie à la mention d'achat de tabac pour le capitaine Huguet inscrite au bas du feuillet (l.~26).
+**l.~13--16 et 26 :** Le feuillet s'articule en deux journées (1er décembre, l.~1--16, avec bloc comptable entre crochets aux l.~13--16 ; 2 décembre, l.~17--26) séparées par un trait horizontal.
 
 ***4** (*Buire*) cf. infra fo 90 vo, fo 91 ro. — **4** (*Franvillers*) cf. infra fo 58 vo. — **6** (*Ribemont*) cf. infra fo 76 vo, fo 84 vo.*
 
@@ -5167,7 +5167,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Inversion de séquence :** Le fo~56~ro (journées des 22, 23 et vigile de Noël 24 décembre 1916) et le fo~56~vo (journées des 19, 20 et 21 décembre 1916) se présentent dans l'ordre inverse de la chronologie.
+**l.~1--24 :** Le fo~56~ro (journées du vendredi 22 décembre, l.~1--11, et du dimanche 24 décembre 1916, l.~12--24) et le fo~56~vo (journées des 19 et 20 décembre 1916) se présentent dans l'ordre inverse de la chronologie.
 
 ***1** (*22 Ven.*) de ordine chronologico cf. infra fo 56 vo. — **3** (*Senlis*) cf. supra fo 37 vo, fo 55 ro, infra fo 58 vo, fo 62 ro, *et passim*. — **4** (*Rubempré*) cf. supra fo 47 vo, fo 52 ro, infra fo 61 ro, fo 62 ro, *et passim*.*
 
@@ -5219,7 +5219,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Chronologie interne :** Ce feuillet, qui réunit les entrées des mardi 19, mercredi 20 et jeudi 21 décembre 1916 séparées par des traits horizontaux, précède chronologiquement le fo~56~ro.
+**l.~1--21 :** Ce feuillet, qui réunit les entrées des mardi 19 (l.~1--11) et mercredi 20 décembre 1916 (l.~12--21) séparées par un trait horizontal, précède chronologiquement le fo~56~ro.
 
 ***1** (*19 Ma.*) de ordine chronologico cf. supra fo 56 ro. — **2** (*Belle-Église*) cf. supra fo 47 vo, fo 55 vo, infra fo 58 vo, fo 59 vo, *et passim*. — **3** (*Raincheval*) cf. supra fo 20 vo, fo 55 vo, infra fo 57 vo, fo 58 ro, *et passim*.*
 
@@ -5470,7 +5470,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Disposition :** L'année nouvelle (*1917*) est mise en évidence dès l'en-tête souligné de la l.~1 (*1er* Lundi — 1917 — \hfill Janvier.) ; le feuillet regroupe les 1er et 2 janvier 1917.
+**l.~1--23 :** L'année nouvelle (*1917*) est mise en évidence dès l'en-tête souligné de la l.~1 (*1er* Lundi --- 1917 --- \hfill Janvier.) ; le feuillet regroupe les 1er (l.~1--10) et 2 janvier 1917 (l.~11--23).
 
 ***4** (*Toutencourt*) cf. supra fo 49 vo, fo 56 ro, infra fo 62 ro, fo 75 ro, *et passim*. — **4** (*Quesnoy*) cf. supra fo 55 vo, fo 58 ro, *et passim*. — **5** (*Authie*) cf. supra fo 50 ro, fo 56 ro, infra fo 60 vo, fo 61 ro, *et passim*.*
 
@@ -6138,7 +6138,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Feuillet comptable :** Page entièrement dédiée au relevé des dépenses de voyage des 27 et 28 janvier 1917 (Paris, train d'Orsay et arrivée à Toulouse), réparties par localités soulignées.
+**l.~1--10 :** La première moitié de la page est entièrement dédiée au relevé des dépenses de voyage du samedi 27 janvier 1917 (Paris, gares du Nord et d'Orsay, billet pour Toulouse et achats au Bazar de l'Hôtel de Ville), avant le récit de l'arrivée à Toulouse le dimanche 28 janvier (l.~11--22).
 
 ***2** (*Paris*) cf. supra in tegumento, fo 65 vo, infra fo 72 vo, fo 74 ro, *et passim*, Appendicem I, doc. 5. — **7** (*Toulouse*) cf. supra in tegumento, fo 65 vo, infra fo 66 vo, fo 67 ro, *et passim*. — **20** (*Oncle*) cf. supra fo 27 ro, fo 32 ro, infra fo 66 vo, fo 69 vo, *et passim*.*
 
@@ -6179,7 +6179,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Bilan financier :** Second feuillet comptable récapitulant les grands achats de fiançailles à Toulouse le 28 janvier 1917 (montre en or, bagues, chaîne) et l'état de la caisse (*En caisse*).
+**l.~1--15 :** Feuillet de suite du dimanche 28 janvier 1917 (*Dim. 28. (suite)*), intégralement consacré aux fiançailles officieuses avec Marguerite Calmels à la villa Sainte-Marie et clos par une unique ligne de frais de tramway entre crochets (l.~15).
 
 ***2** (*Margte*) cf. supra fo 1 ro, fo 57 ro, infra fo 67 ro, fo 67 vo, *et passim*, Appendicem I, doc. 5. — **4** (*Tante*) cf. supra fo 27 ro, fo 66 ro, infra fo 69 vo, *et passim*. — **4** (*Madeleine*) cf. infra fo 67 ro.*
 
@@ -6332,7 +6332,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Rature autographe (l.~15) :** À la fin du récit de la visite à son ancien appartement toulousain, Hippolyte Combes a biffé une proposition commençant par *Évité troubler* sous une surcharge d'encre dense.
+**l.~10 :** À la fin du récit de la halte à son appartement toulousain avec Marguerite, Hippolyte Combes a surchargé un mot demeuré incertain dans la proposition *Évité troubler qq [mot non établi] précieuses*.
 
 ***4** (*Mte*) cf. supra fo 1 ro, fo 67 vo, infra fo 68 vo, fo 69 ro, *et passim*, Appendicem I, doc. 5. — **11** (*Ste-Marie*) cf. supra fo 27 vo, fo 67 vo, infra fo 68 vo, fo 69 ro, *et passim*. — **21** (*Spagnol*) cf. infra fo 79 ro.*
 
@@ -6515,7 +6515,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Feuillet comptable :** Page récapitulative des dépenses toulousaines du samedi 3 février 1917 (dentiste M.~de Lersay, billets de chemin de fer pour Millau) et du solde en caisse (*En caisse : 244 f. 85*).
+**l.~1--10 :** Page entièrement consacrée au relevé comptable des dépenses toulousaines et ferroviaires du samedi 3 février 1917 (dentiste M.~de Lersay, broche, étrennes à Marie, billets et buffet de Bédarieux), chaque poste étant introduit par un tiret cadratin.
 
 ***5** (*Toulouse*) cf. supra in tegumento, fo 69 vo, infra fo 78 ro, *et passim*, Appendicem I, doc. 1 et 3. — **6** (*Margte*) cf. supra fo 1 ro, fo 69 vo, infra fo 70 vo, fo 71 ro, *et passim*. — **9** (*Millau*) cf. supra in tegumento, fo 69 vo, infra fo 70 vo, fo 71 ro, *et passim*.*
 
@@ -6819,7 +6819,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Continuité :** Deuxième des trois feuillets consacrés à la seule journée du mercredi 7 février 1917 (*Merc. 7 (suite)*), relatant le retour de permission entre Paris, Amiens et Hérissart.
+**l.~1--21 :** Deuxième des trois feuillets consacrés à la seule journée du mercredi 7 février 1917 (*Merc. 7 (suite)*), relatant le retour de permission à Acheux et le transfert immédiat en automobile vers Hérissart.
 
 ***4** (*Acheux*) cf. supra fo 21 vo, fo 73 ro, infra fo 74 ro, fo 74 vo, *et passim*. — **4** (*Williams*) cf. supra fo 52 vo, fo 58 vo, infra fo 78 vo, fo 80 ro, *et passim*. — **5** (*Hérissart*) cf. supra fo 47 vo, fo 62 ro, infra fo 74 ro, fo 74 vo, *et passim*.*
 
@@ -6867,7 +6867,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Continuité :** Troisième et dernier feuillet de la journée du 7 février 1917 (*Merc. 7 (fin)*), complété par le début de l'entrée du jeudi 8 février (l.~12--18).
+**l.~1--19 :** Troisième et dernier feuillet de la journée du 7 février 1917 (*Merc. 7 (fin)*, l.~1--11, clos par un bloc comptable récapitulatif aux l.~7--11), suivi de l'entrée du jeudi 8 février (l.~12--19).
 
 ***7** (*Paris*) cf. supra in tegumento, fo 72 vo, *et passim*, Appendicem I, doc. 5. — **8** (*Amiens*) cf. supra fo 25 vo, fo 73 ro, infra fo 76 vo, fo 85 vo, *et passim*. — **8** (*Y.M.C.A.*) cf. supra fo 50 ro, fo 73 ro, *et passim*.*
 
@@ -7285,7 +7285,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Mention financière en en-tête :** Exceptionnellement, Hippolyte Combes inscrit son solde disponible (*En caisse : 225 f. 95*) directement sur la première ligne entre la date soulignée et le mois.
+**l.~1 :** Exceptionnellement, Hippolyte Combes inscrit son solde disponible (*En caisse : 225 f. 95*) directement sur la première ligne d'en-tête entre la date soulignée (*19 Lundi*) et le mois (*Février 1917*).
 
 ***10** (*Williams*) cf. supra fo 52 vo, fo 73 vo, infra fo 80 ro, fo 81 vo, *et passim*. — **15** (*Hair cut*) cf. supra fo 18 vo, fo 60 ro, infra fo 88 ro. — **21** (*Pierregot*) cf. supra fo 52 ro, infra fo 84 vo, fo 85 vo, *et passim*.*
 
@@ -7694,7 +7694,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Unité de page :** La page réunit le départ du capitaine Williams le samedi 10 mars 1917 (l.~1--18, avec citation anglaise au style direct à la l.~9) et un état récapitulatif de caisse au bas du feuillet (l.~19--22).
+**l.~1--20 :** La page est entièrement occupée par la méditation du samedi 10 mars 1917 à Hérissart après le départ définitif du capitaine Williams (l.~8--9), sans aucune mention comptable au bas du feuillet.
 
 ***8** (*Williams*) cf. supra fo 52 vo, fo 82 ro, *et passim*.*
 
@@ -8699,7 +8699,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Clôture du carnet :** Dernier feuillet du *Livre-Journal*, daté du lundi 30 avril 1917 (date qui correspond au *terminus ad quem* inscrit par Hippolyte Combes sur l'étiquette de la couverture).
+**l.~1--17 :** Dernier feuillet écrit du *Livre-Journal*, daté du lundi 30 avril 1917 (date qui correspond au *terminus ad quem* inscrit par Hippolyte Combes sur l'étiquette de la couverture) et clos par deux lignes de dépenses entre crochets (l.~16--17).
 
 ***5** (*Warloy*) cf. supra fo 37 vo, fo 90 vo, *et passim*. — **7** (*Lt Gilbert*) cf. supra fo 89 vo, fo 92 vo. — **8** (*Puchevillers*) cf. supra fo 37 vo, fo 92 ro, *et passim*.*
 

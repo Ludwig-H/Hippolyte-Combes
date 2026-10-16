@@ -154,6 +154,12 @@ def check_records(records: list[dict], checks: Checks):
             "de eodem commorationis loco" not in r.get("loci", ""),
             f"Folio {n}: loci uses generic fallback 'de eodem commorationis loco'",
         )
+        crit_val = r.get("critique", "").strip()
+        if crit_val:
+            checks.require(
+                crit_val.startswith(r"\textbf{l.~"),
+                f"Folio {n}: critique (Register 1) must start with a line reference \\textbf{{l.~... :}}, got {crit_val[:40]!r}",
+            )
 
     checks.require(
         30 <= non_empty_critique <= 60,
@@ -200,6 +206,13 @@ def check_exports(records: list[dict], md_path: Path, tex_path: Path, checks: Ch
     )
     included = re.findall(r"\\includegraphics(?:\[[^\]]*\])?\s*\{\\facsimiledir/([^}]+)\}", tex)
     checks.require(included == [r["filename"] for r in records], "TeX facsimile inclusion sequence differs from JSON")
+    checks.require(
+        r"\cline{1-1}\noalign{\vspace{1.2pt}}" in tex and r"\begin{tabular}{@{}p{87mm}@{}p{42.5mm}@{}}" in tex,
+        "TeX spread tabular is missing vertical spacing around \\cline{1-1} or isolated inter-column gap",
+    )
+    checks.require("Lt First" not in tex, "TeX still contains spurious 'Lt First' in Organigramme III")
+    for expected_gen in ("Madeleine Fabre-Hugou", "Marie Bouquié", "Sept enfants d'Hippolyte et Marguerite Combes"):
+        checks.require(expected_gen in tex, f"TeX Arbre généalogique I missing {expected_gen!r}")
     from generate_edition import build_spread_latex
 
     for record in records:
