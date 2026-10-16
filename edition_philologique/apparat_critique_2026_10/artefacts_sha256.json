@@ -1,0 +1,13 @@
+{
+  "transcriptions/transcription_integrale_186_scans.json": "41bc8a02a158b68b7b8909d23953866f2120716c06cf1bfde1c4c79ef39622b5",
+  "transcriptions/transcription_integrale_186_scans.md": "09ca87abb4c584bf7829bb904ae7731a48aa5a8936a0b14d6aaa67c9e2932169",
+  "edition_philologique/carnet_hippolyte_combes.tex": "b31c5e93eaad04ad740862199b1bb0846070f82a28b2e343a54a13fddf618290",
+  "edition_philologique/carnet_hippolyte_combes.pdf": "6400b8f338d779446a9721be9f1fd9409bed25b258ac2645e795dd3415ebd2b2",
+  "edition_philologique/apparat_critique_2026_10/corrections_validees.json": "624012f3158a47dc79947215783f383fcafe46b66eb831f340649cda6be87e6a",
+  "edition_philologique/apparat_critique.py": "9d8a0b07a9aa6dbcf84696f83522c2d8434e22f962a69322bf5c756807e9e683",
+  "edition_philologique/assembler_apparat.py": "228114690c51ef480d14234b306634a65f274b76922b3f9aa61c974ac1830de6",
+  "edition_philologique/assembler_relecture.py": "5acb52e498cc54e061d50091efef384cf4fa47a270770d301be8d00a23467349",
+  "edition_philologique/parse_all_186.py": "7f973372003d9f809362473596e234444d1cbf6d4f0a335b175d952d9c160efa",
+  "edition_philologique/generate_edition.py": "2621431b405fb61b290646a2b3e7f5abdef3abb27f6ad87706011d00d7d3da25",
+  "edition_philologique/verifier_edition.py": "255c9cdbfb8757d2cbb4686a3e2c19c48dd82d6ca1fe67140e6b4ae5e8fc165d"
+}

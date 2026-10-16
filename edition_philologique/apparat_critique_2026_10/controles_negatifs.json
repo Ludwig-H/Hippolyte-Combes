@@ -1,0 +1,72 @@
+{
+  "status": "Tous les états invalides ciblés ont été refusés ; aucun fichier de production écrit.",
+  "controls": [
+    {
+      "controle": "Empreinte SHA du lot fausse",
+      "refus": true,
+      "message": "Lot d’apparat modifié : apparat_001_048.json."
+    },
+    {
+      "controle": "Empreinte SHA de la photographie native fausse",
+      "refus": true,
+      "message": "Photographie de l’apparat modifiée : 001."
+    },
+    {
+      "controle": "Lemme absent de la ligne",
+      "refus": true,
+      "message": "Apparat 095/1 : lemme absent 'FORME_ABSENTE_DU_TEMOIN'."
+    },
+    {
+      "controle": "Numéro de ligne hors texte",
+      "refus": true,
+      "message": "Apparat 095 : ligne hors texte 2."
+    },
+    {
+      "controle": "Date antérieure altérée",
+      "refus": true,
+      "message": "Apparat : état antérieur divergent 095/date."
+    },
+    {
+      "controle": "Base de 185 vues",
+      "refus": true,
+      "message": "Apparat : la base doit contenir les 186 vues ordonnées sans doublon."
+    },
+    {
+      "controle": "Base de 186 enregistrements avec ID dupliqué",
+      "refus": true,
+      "message": "Apparat : la base doit contenir les 186 vues ordonnées sans doublon."
+    },
+    {
+      "controle": "Base de 186 vues hors ordre",
+      "refus": true,
+      "message": "Apparat : la base doit contenir les 186 vues ordonnées sans doublon."
+    },
+    {
+      "controle": "Ancien assembleur bloqué avant toute lecture/écriture",
+      "refus": true,
+      "message": "Une révision intégrale de l’apparat est appliquée. Utiliser assembler_apparat.py ; ne pas remplacer sa révision parente.",
+      "lectures_avant_refus": 0,
+      "ecritures_avant_refus": 0
+    }
+  ],
+  "production_hashes_before": {
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/corrections_validees.json": "624012f3158a47dc79947215783f383fcafe46b66eb831f340649cda6be87e6a",
+    "/workspaces/Hippolyte-Combes/edition_philologique/revision_2026_10/corrections_validees.json": "ce0f09d9c9f5abf72f87f77687a3e50c7d2024d250f15a622945e639db6c5cec",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_001_024.json": "d5e8a08a47fec6d1e830480d6b4040c22d17751233a25445dab6ad9c9e7bcba3",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_049_094.json": "f03d31b71d3b3f4a2da022031bcbdf342d8c3bf354dd8110402303aa94f247b2",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_001_048.json": "d728931ad8044f7af6f16f7b77daf8e16297ffb4fb8e428466ef6ae6d36fd8d8",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_141_186.json": "d923d07da4ec18a45367bcf10320f1355184ee48829c9451ee8d14943a8a8362",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_095_140.json": "b5c733b77a3f0f0d704f3eb8443c23d14e056db2df5e7af0a9e8ddf3438f98a4",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_025_048.json": "5f78deac61eb9a260c8aa5d9628d65389b4cffa2e41ba4933c8c3c6a362ddcde"
+  },
+  "production_hashes_after": {
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/corrections_validees.json": "624012f3158a47dc79947215783f383fcafe46b66eb831f340649cda6be87e6a",
+    "/workspaces/Hippolyte-Combes/edition_philologique/revision_2026_10/corrections_validees.json": "ce0f09d9c9f5abf72f87f77687a3e50c7d2024d250f15a622945e639db6c5cec",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_001_024.json": "d5e8a08a47fec6d1e830480d6b4040c22d17751233a25445dab6ad9c9e7bcba3",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_049_094.json": "f03d31b71d3b3f4a2da022031bcbdf342d8c3bf354dd8110402303aa94f247b2",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_001_048.json": "d728931ad8044f7af6f16f7b77daf8e16297ffb4fb8e428466ef6ae6d36fd8d8",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_141_186.json": "d923d07da4ec18a45367bcf10320f1355184ee48829c9451ee8d14943a8a8362",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_095_140.json": "b5c733b77a3f0f0d704f3eb8443c23d14e056db2df5e7af0a9e8ddf3438f98a4",
+    "/workspaces/Hippolyte-Combes/edition_philologique/apparat_critique_2026_10/apparat_025_048.json": "5f78deac61eb9a260c8aa5d9628d65389b4cffa2e41ba4933c8c3c6a362ddcde"
+  }
+}

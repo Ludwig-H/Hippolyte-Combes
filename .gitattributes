@@ -1,3 +1,8 @@
 # Preserve spaces required by the archived unified diff and the first-pass witness.
 edition_philologique/relecture_integrale_2026_10/generate_edition_concurrent.patch -whitespace
 edition_philologique/relecture_integrale_2026_10/premiere_passe/reprise_032_062.md -whitespace
+
+# Preserve the exact parallel snapshot and verbatim compilation evidence.
+edition_philologique/apparat_critique_2026_10/propositions_paralleles/2026-10-16T002025Z/transcriptions/transcription_integrale_186_scans.md -whitespace
+edition_philologique/apparat_critique_2026_10/xelatex_pass_final1.txt -whitespace
+edition_philologique/apparat_critique_2026_10/xelatex_pass_final2.txt -whitespace

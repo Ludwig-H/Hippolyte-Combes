@@ -17,6 +17,8 @@ def digest(path):
 
 
 def assemble():
+    if (EDITION / 'apparat_critique_2026_10/corrections_validees.json').exists():
+        raise ValueError('Une révision intégrale de l’apparat est appliquée. Utiliser assembler_apparat.py ; ne pas remplacer sa révision parente.')
     frozen = json.loads((DOSSIER / 'base_relecture.json').read_text())
     witness = {r['scan_num']: r for r in frozen}
     previous = json.loads((DOSSIER / 'base_corrections_validees.json').read_text())

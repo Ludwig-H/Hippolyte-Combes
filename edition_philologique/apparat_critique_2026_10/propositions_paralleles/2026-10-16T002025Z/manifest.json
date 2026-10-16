@@ -1,0 +1,45 @@
+{
+  "captured_at_utc": "2026-10-16T002025Z",
+  "head": "04673ef921062b4db01357cbdbff6069266947af",
+  "status": "Propositions parallèles conservées avant conciliation ; contenu non validé par la révision de l’apparat.",
+  "files": {
+    "edition_philologique/parse_all_186.py": {
+      "sha256": "91493994055ceee556cdc3e88d3469c2d198107ef4271cede846a43287a67b90",
+      "bytes": 42293
+    },
+    "edition_philologique/generate_edition.py": {
+      "sha256": "a68c95fc350a6bc8e87a24ecfa0f1f7e93826820774e2ae36b9b186c88d8e41e",
+      "bytes": 99394
+    },
+    "edition_philologique/commentaires_et_loci.py": {
+      "sha256": "8b6e6b73f8563c5b6998ad894dd7a2b732ff3b7f3d0a1bdea918bbc07a30c3df",
+      "bytes": 59534
+    },
+    "edition_philologique/cartes_et_index.py": {
+      "sha256": "c070dfe46e733ec4192b74dee2851eca17fa02b3d58dd84ca96bcae2d2347616",
+      "bytes": 69431
+    },
+    "transcriptions/transcription_integrale_186_scans.json": {
+      "sha256": "bcb6974bf030766ca984c555a1f25e43d437e157b0846713c6fcd863366a3d55",
+      "bytes": 992158
+    },
+    "transcriptions/transcription_integrale_186_scans.md": {
+      "sha256": "10ceb1d886b0da499436c2ea4dfb9131ccaa8e6c2cb01f9c260ca4081b3236a5",
+      "bytes": 403983
+    },
+    "edition_philologique/carnet_hippolyte_combes.tex": {
+      "sha256": "08703472b6e20689cabfb1eaf99db2fb8e1ceb6336c2cc5724f823def25eb6fc",
+      "bytes": 1586209
+    },
+    "edition_philologique/carnet_hippolyte_combes.pdf": {
+      "sha256": "df6e724f728c90d4be56ba5b280e767c18d8845b2adda4f10ac9e4247ca68559",
+      "bytes": 534544
+    }
+  },
+  "patch_archive": {
+    "path": "etat_parallele.patch.gz",
+    "sha256": "62dc71bd79d6e83a39e2e364a446660b0e7ee53e558896ab5cf0da1e6c9ddb9b",
+    "uncompressed_sha256": "5b3e078d509e66fc94c8fc090a05ca44b52de5e2dc26aeb15c5c6b4a74a2a514",
+    "uncompressed_bytes": 50964986
+  }
+}

@@ -12,6 +12,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Date d’apposition du titre non déterminée..
 
+- **Apparat révisé intégralement sur l'image** : 0 entrées contrôlées.
+
 ```text
  1 | Livre - Journal
  2 | —
@@ -23,7 +25,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**Support et titre :** Couverture rouge à décor losangé et grande étiquette bleue rectangulaire. Deux filets horizontaux séparent le titre des dates et terminent l'inscription. L'examen de cette seule photographie ne date pas les inscriptions ni ne démontre qu'elles furent toutes portées après le 30 avril 1917.
+Étiquette bleue sur couverture rouge à décor de losanges. Un trait sépare le titre des bornes chronologiques et un autre clôt l’inscription. Les cinq lignes ne présentent ni contraction à développer ni suppression visible ; les dates sont celles annoncées par le titre, sans date démontrée de sa rédaction.
 
 > Les dates de couverture bornent le carnet d’Hippolyte Combes (né à Millau le 14 août 1876, décédé le 2 septembre 1970 à l’Hôtel du Centre à Saint-Chély-d’Apcher, Lozère) du 25 juillet 1916 au 30 avril 1917. La lettre du 21 février 1916 donne une compagnie d’A.S.C. depuis août 1915 ; le numéro 152 apparaît dans le carnet à la vue 066. Nichols (1922, p. 107–110) et The Ringing World (9 avril 1915, p. 184) documentent séparément le rattachement des 150th–153rd Companies A.S.C. au 18th Divisional Train, sans dater à eux seuls l’affectation personnelle de Combes à la 152nd.
 
@@ -36,6 +38,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Liaison avant 8 H m. ; Sercus proposé ; nom de la logeuse..
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
+- **Réserves de l'apparat** : Groupe dès proposé l.2; Sercus proposé l.10; Patronyme Backer proposé l.21.
 
 ```text
  1 | 25 Ma.          Juillet 1916
@@ -58,22 +63,22 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | orgues
 19 | Vers 7 h 1/2 s., visite des dames du chateau
 20 | et les ai conduites au mess de mes off.
-21 | A Mme Backer, pour repas d'hier & 4 oeufs : 1 f 75
+21 | A Mme [Backer ?], pour repas d'hier & 4 oeufs : 1 f 75
 22 | Varia : 75 c
 ```
 
-- *l. 1* : **1 Ma.** *scil.* Mardi.
-- *l. 2* : **2** *lect. incert. in ms.* **2 m.** *abbr. pro* matin.
-- *l. 3* : **3 Margte** *scil.* Marguerite (Calmels).
-- *l. 10* : **10** *lect. incert. in ms.*
-- *l. 15* : **15 off.** *abbr. pro* officier(s). **15 R. Fusrs** *angl.* Royal Fusiliers.
-- *l. 19* : **19 1/2** *scil.* demi / moitié. **19 s.** *abbr. pro* soir.
-- *l. 20* : **20 off.** *abbr. pro* officier(s). **20 mess** *angl. in ms.*
-- *l. 21* : **21 Mme** *abbr. pro* Madame.
+- *l. 1* : **1** **Ma.** *mardi*.
+- *l. 2* : **2** **[dès ?]** lecture proposée.
+- *l. 3* : **3** **Margte** *Marguerite*.
+- *l. 10* : **10** **lieutt** *lieutenant* ; **[Sercus ?]** lecture proposée.
+- *l. 15* : **15** **off.** *officiers* ; **R. Fusrs** *Royal Fusiliers*.
+- *l. 20* : **20** **mess** *angl.* table commune des officiers ; **off.** *officiers*.
+- *l. 21* : **21** **Mme** *Madame* ; **[Backer ?]** lecture proposée.
+- *l. 22* : **22** **Varia** *lat.* dépenses diverses.
 
 * * *
 
-**l.~2--3 et 9--12 :** La notation du lever comporte une liaison abrégée dont la lecture *dès* reste proposée. La l.~3 porte *pensé très vivement à Margte*, non un mauvais sommeil. Le nom *Curtis* est lisible ; le toponyme est proposé *Sercus* avec réserve. Les dépenses au bas de la vue font partie du texte. **Cantonnement :** Le nom de Lynde n'est pas écrit sur cette page ; le nommer ici relève d'un rapprochement avec le compte du 28 juillet.
+l.2 : le petit groupe devant 8 H reste proposé dès ; l’heure et la mention Bien reposé sont distinctes. l.10 et21 : Sercus et Backer restent des lectures proposées ; les pleins du patronyme interdisent d’en garantir toutes les lettres. lieutt et R. Fusrs sont des contractions, distinctes du nom Curtis. Le trait sous le récit introduit les dépenses, dans le corps de la page, sans compte rejeté dans une marge latérale.
 
 > Le village est proposé Sercus, sans supprimer la réserve de lecture. La notice patrimoniale de Saint-Érasme de Sercus décrit des soubassements du XIIe siècle et une transformation en hallekerque au XVIe ; elle fournit un rapprochement architectural, sans prouver que cette église est celle évoquée par Combes. Le nom Royal Fusiliers est lu ; le numéro de bataillon n’est pas donné. Source : https://pop.culture.gouv.fr/notice/merimee/PA00107816 .
 
@@ -86,6 +91,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Mot biffé après d’off ; lecture du petit groupe précédant nouveau changement..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
+- **Réserves de l'apparat** : Texte sous biffure après d’off l.6.
 
 ```text
  1 | 26 Mer.          Juillet /16
@@ -107,21 +115,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | Food : 60 c. – – Washing : 1 f. –
 ```
 
-- *l. 1* : **1 Mer.** *scil.* Mercredi.
-- *l. 2* : **2 j'à** *abbr. pro* jusqu'à. **2 1/2** *scil.* demi / moitié.
-- *l. 3* : **3 Lt** *abbr. pro* Lieutenant. **3 billeting** *angl. in ms.*
-- *l. 5* : **5 ds** *abbr. pro* dans.
-- *l. 6* : **6** ⟦[illis.]⟧ *del. in ms.* **6** *lect. incert. in ms.*
-- *l. 8* : **8 ds** *abbr. pro* dans.
-- *l. 10* : **10 lgt** *abbr. pro* longtemps.
-- *l. 11* : **11 cottage** *angl. in ms.*
-- *l. 15* : **15 changemt** *abbr. pro* changement.
-- *l. 16* : **16 ct** *abbr. pro* courant.
-- *l. 17* : **17 f.** *abbr. pro* franc(s). **17 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Mer.** *mercredi*.
+- *l. 2* : **2** **j'à** *jusqu’à*.
+- *l. 3* : **3** **Lt** *lieutenant* ; **billeting** *angl.* avec officer (l.4) : officier chargé des cantonnements.
+- *l. 4* : **4** **officer** *angl.* suite de billeting (l. 3) : officier chargé des cantonnements.
+- *l. 5* : **5** **ds** *dans*.
+- *l. 6* : **6** **off** *officiers* ; **⟦[illis.]⟧** suppression dont le texte reste non déchiffré.
+- *l. 8* : **8** **ds** *dans*.
+- *l. 10* : **10** **lgt** *longtemps*.
+- *l. 11* : **11** **cottage** *angl.* petite maison.
+- *l. 12* : **12** **à g.** *à gauche*.
+- *l. 15* : **15** **changemt** *changement*.
+- *l. 16* : **16** **ct** *courant*.
+- *l. 17* : **17** **Food** *angl.* nourriture ; **Washing** *angl.* lavage du linge.
 
 * * *
 
-**l.~2--6 :** *j'à* abrège jusqu'à. Après *d'off*, une forte reprise d'encre rend la biffure difficile ; le développement *15 lits* ne peut être assuré. **l.~13 :** *chateau de la brasserie* se lit sur la photographie. Le compte final mentionne Food et Washing.
+l.3–4 : billeting officer forme une locution anglaise coupée par le retour de ligne ; elle se traduit en entier. l.6 : suppression très chargée après d’off, dont le contenu ne peut être restitué. l.12 et16 : à g. et ct sont des contractions réellement écrites. Le filet inférieur sépare le compte Food/Washing ; il ne démontre pas une localisation marginale. Les auxiliaires absents des notations sont conservés.
 
 > Lynde est proposé comme cantonnement par rapprochement avec le règlement du 28 juillet, vue 005. Cette vue ne nomme pas le village : l’église de briques rouges et le château de la brasserie ne suffisent pas à rendre l’identification certaine. Billeting officer désigne l’officier chargé des logements ; 36 chambres sont recherchées, sans numéro de bataillon écrit.
 
@@ -134,6 +144,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Petites unités de certaines cartes postales..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | 27 J.          Juillet /16
@@ -163,22 +175,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 25 |          (bretelles) : 65 c —
 ```
 
-- *l. 1* : **1 J.** *scil.* Jeudi.
-- *l. 2* : **2 breakfast** *angl. in ms.*
-- *l. 9* : **9 lgt** *abbr. pro* longtemps.
-- *l. 10* : **10 lunch** *angl. in ms.*
-- *l. 14* : **14 lgt** *abbr. pro* longtemps.
-- *l. 16* : **16 cottage** *angl. in ms.*
-- *l. 19* : **19 f.** *abbr. pro* franc(s).
-- *l. 20* : **20 C. P.** *abbr. pro* Cartes postales. **20 Cartes ples** *abbr. pro* Cartes postales.
-- *l. 21* : **21 C. ples** *abbr. pro* Cartes postales. **21 c.** *abbr. pro* centimes.
-- *l. 22* : **22 fr.** *abbr. pro* franc(s).
-- *l. 23* : **23 C. ples** *abbr. pro* Cartes postales.
-- *l. 24* : **24 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **J.** *jeudi*.
+- *l. 2* : **2** **breakfast** *angl.* petit déjeuner.
+- *l. 3* : **3** **Tjours** *toujours*.
+- *l. 6* : **6** **M. Age** *Moyen Âge*.
+- *l. 9* : **9** **lgt** *longtemps*.
+- *l. 10* : **10** **lunch** *angl.* déjeuner.
+- *l. 13* : **13** **à g.** *à gauche*.
+- *l. 14* : **14** **lgt** *longtemps*.
+- *l. 16* : **16** **cottage** *angl.* petite maison.
+- *l. 20* : **20** **Cartes ples** *cartes postales* ; **C. P.** *cartes postales*.
+- *l. 21* : **21** **C. ples** *cartes postales* ; **varia** *lat.* dépenses diverses.
+- *l. 23* : **23** **C. ples** *cartes postales*.
+- *l. 24* : **24** **Cte** *carte* ; **élastiq.** *élastiques*.
 
 * * *
 
-**Bloc comptable, l.~18--25 :** Cartes ples abrège cartes postales. À la fin, le chiffre visible est *3 élastiq. de rechange*, et non 2. Les éléments placés à droite sont des postes de dépenses, non la continuation syntaxique du récit.
+l.3 et6 : Tjours et M. Age sont développés sans remplacer leurs graphies dans le texte. La traverse de Retenu lgt appartient à la contraction et ne constitue pas une suppression. l.18–25 : dépenses sous un filet, avec postes à droite ; Cte est singulier et cartes ples, C. P., C. ples sont au pluriel. Le chiffre de la dernière rubrique est 3 ; élastiq. se développe donc au pluriel.
 
 > Les deux châteaux de Renescure peuvent être rapprochés de Zuthove et du château dit de Philippe de Comines. Les notices POP les donnent inscrits partiellement, respectivement en 1946 et 1981 ; elles n’établissent pas à elles seules que Combes désigne chacun d’eux. Les 84 francs sont consignés, mais aucun calcul de seize jours à 5 fr 25 ne figure dans cette entrée. Sources : https://pop.culture.gouv.fr/notice/merimee/PA00107784 et https://pop.culture.gouv.fr/notice/merimee/PA00107783 .
 
@@ -191,6 +204,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Patronyme Donze proposé ; certaines ponctuations du compte..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
+- **Réserves de l'apparat** : Patronyme Donze proposé l.20.
 
 ```text
  1 | 28 Ve.          Juillet / 16
@@ -218,20 +234,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 23 | Tip au groom pour soigné poney : 1 f.
 ```
 
-- *l. 1* : **1 Ve.** *scil.* Vendredi.
-- *l. 4* : **4 ts** *abbr. pro* tous.
-- *l. 5* : **5 1/2** *scil.* demi / moitié.
-- *l. 6* : **6 mouvt** *abbr. pro* mouvement.
-- *l. 7* : **7 1/2** *scil.* demi / moitié.
-- *l. 15* : **15 1/2** *scil.* demi / moitié.
-- *l. 16* : **16 gde** *abbr. pro* grande.
-- *l. 20* : **20** *lect. incert. in ms.* **20 Mme** *abbr. pro* Madame.
-- *l. 22* : **22 Cartes ples** *abbr. pro* Cartes postales. **22 c.** *abbr. pro* centimes.
-- *l. 23* : **23 f.** *abbr. pro* franc(s). **23 groom** *angl. in ms.*
+- *l. 1* : **1** **Ve.** *vendredi*.
+- *l. 4* : **4** **ts** *tous*.
+- *l. 6* : **6** **mouvt** *mouvement*.
+- *l. 16* : **16** **gde** *grande*.
+- *l. 20* : **20** **Mme** *Madame* ; **[Donze ?]** lecture proposée ; **(pour** parenthèse ouverte sans fermeture visible.
+- *l. 22* : **22** **Food** *angl.* nourriture ; **Cartes ples** *cartes postales*.
+- *l. 23* : **23** **Tip** *angl.* pourboire ; **groom** *angl.* palefrenier.
 
 * * *
 
-**l.~20--23 :** Le compte donne le lieu de départ, *Lynde*, et un patronyme proposé *Donze*. Le texte sépare la cuisine (2 f), les œufs et le lait (1 f), puis Food, cartes et pourboire au groom. La destination du déplacement n'est pas nommée sur cette vue. Le recadrage natif de la l. 15 donne voyage (v initial, y descendant, finale age), et non mouvt ; l’ellipse au terme voyage est conservée.
+l.15 : voyage se lit avec v initial, descente du y et finale age ; au terme voyage est une ellipse, non une abréviation de mouvement. l.20 : Donze reste proposé dans un patronyme à pleins épais. La ligne sous le récit précède les dépenses, réparties à gauche et à droite. Food, Tip et groom sont des emprunts distincts ; poney est une graphie française et ne reçoit pas l’étiquette anglais. La construction pour soigné est conservée. La parenthèse ouverte à la l. 20 n’est pas fermée sur la photographie.
 
 > Le compte nomme Lynde ; la vue suivante nomme Saint-Jans-Cappel. Entre ces repères, Combes décrit un trajet à cheval contournant Hazebrouck, de 8 h 1/2 à 4 h 1/2. Ces horaires délimitent la journée, sans prouver huit heures de marche ininterrompue. Voyage est le mot final de la l. 15.
 
@@ -244,6 +257,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Mot supprimé après allongé s/ l’herbe ; développement exact de à l..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
+- **Réserves de l'apparat** : Développement de l. l.7 proposé; Séquence supprimée l.11.
 
 ```text
  1 | Sam. 29          Juillet 16
@@ -272,22 +288,21 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 24 | église au clocher effilé
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 2* : **2 1/2** *scil.* demi / moitié.
-- *l. 3* : **3 Breakfast** *angl. in ms.*
-- *l. 5* : **5 ds** *abbr. pro* dans. **5 St** *abbr. pro* Saint.
-- *l. 6* : **6 s/** *abbr. pro* sur. **6 longt** *abbr. pro* longtemps.
-- *l. 8* : **8 Ctis** *abbr. pro* Curtis.
-- *l. 9* : **9 ds** *abbr. pro* dans.
-- *l. 11* : **11** ⟦[illis.]⟧ *del. in ms.* **11** *lect. incert. in ms.*
-- *l. 12* : **12 lgt** *abbr. pro* longtemps. **12 Margte** *scil.* Marguerite (Calmels).
-- *l. 18* : **18 St** *abbr. pro* Saint.
-- *l. 20* : **20 1/2** *scil.* demi / moitié.
-- *l. 21* : **21 cartes ples** *abbr. pro* cartes postales. **21 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Sam.** *samedi*.
+- *l. 3* : **3** **Breakfast** *angl.* petit déjeuner.
+- *l. 5* : **5** **St** *Saint* ; **ds** *dans*.
+- *l. 6* : **6** **longt** *longtemps* ; **s/** *sur*.
+- *l. 7* : **7** **l.** *laquelle (?)*.
+- *l. 8* : **8** **Ctis** *Curtis*.
+- *l. 9* : **9** **ds** *dans*.
+- *l. 11* : **11** **s/** *sur* ; **⟦[illis.]⟧** suppression dont le texte reste non déchiffré.
+- *l. 12* : **12** **lgt** *longtemps* ; **Margte** *Marguerite*.
+- *l. 18* : **18** **St** *Saint* ; **(1)** renvoie à la note descriptive des l.22–24.
+- *l. 21* : **21** **cartes ples** *cartes postales*.
 
 * * *
 
-**l.~4, 8, 11 et 19--24 :** Le nom Curtis et sa contraction Ctis sont distincts. Une biffure ou surcharge voisine de *allongé s/ l'herbe* reste indéchiffrée ; *regardé* n'est pas assuré. Deux filets séparent les dépenses puis la note descriptive appelée par (1), qu'il faut conserver.
+l.6–7 : longt et s/ sont distincts ; l. après à peut noter laquelle, avec réserve, sans développement assuré. Curtis (l.4) et Ctis (l.8) sont les deux graphies du nom. l.11 : la séquence fortement chargée après l’herbe reste indéchiffrée. Deux filets isolent les dépenses puis la note appelée par (1) ; ce renvoi autographe doit être maintenu, sans le traiter comme un compte marginal.
 
 > Tournée de fourrage avec Curtis à Saint-Jans-Cappel et au Mont-Noir. La dernière attaque de notre division n’est pas nommée ; son rapprochement avec les opérations de la 18e Division dans la Somme exige une source d’unité distincte. Les noms de batailles et leurs dates ne doivent pas remplacer cette ellipse dans le texte.
 
@@ -300,6 +315,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Nom du fermier Terrien réservé ; certaines lettres repassées dans les paysages..
+
+- **Apparat révisé intégralement sur l'image** : 19 entrées contrôlées.
+- **Réserves de l'apparat** : Nom du fermier Terrien proposé l.21.
 
 ```text
  1 | Dim. 30.          Juillet 1916
@@ -331,22 +349,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 27 | à vent, tournent sans cesse
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 2* : **2 s/** *abbr. pro* sur. **2 tte** *abbr. pro* toute.
-- *l. 5* : **5 breakfast** *angl. in ms.*
-- *l. 6* : **6 St** *abbr. pro* Saint.
-- *l. 8* : **8 s/** *abbr. pro* sur.
-- *l. 10* : **10 tt** *abbr. pro* tout.
-- *l. 16* : **16 headcook** *angl. in ms.*
-- *l. 19* : **19 off.** *abbr. pro* officier(s).
-- *l. 20* : **20 refilling point** *angl. in ms.*
-- *l. 21* : **21** *lect. incert. in ms.*
-- *l. 23* : **23 waggon** *angl. in ms.*
-- *l. 24* : **24 green** *angl. in ms.*
+- *l. 1* : **1** **Dim.** *dimanche*.
+- *l. 2* : **2** **s/** *sur* ; **tte** *toute*.
+- *l. 5* : **5** **breakfast** *angl.* petit déjeuner.
+- *l. 6* : **6** **St** *Saint*.
+- *l. 7* : **7** **Hoes** *hommes* ; **à d.** *à droite* ; **fem.** *femmes* ; **à g.** *à gauche*.
+- *l. 8* : **8** **s/** *sur*.
+- *l. 10* : **10** **tt** *tout*.
+- *l. 16* : **16** **Tip** *angl.* pourboire ; **headcook** *angl.* chef cuisinier.
+- *l. 19* : **19** **off.** *officiers*.
+- *l. 20* : **20** **refilling point** *angl.* point de réapprovisionnement.
+- *l. 21* : **21** **[Terrien ?]** lecture proposée.
+- *l. 23* : **23** **waggon** *angl.* chariot ; **to the fields** *angl.* aux champs.
+- *l. 24* : **24** **for green forage** *angl.* pour du fourrage vert.
 
 * * *
 
-**Deux entrées :** La photographie porte Dim. 30 puis Lundi 31. Les mentions anglaises *headcook*, *refilling point* et *to the fields for green forage* sont conservées. **l.~8--9 :** La juxtaposition *Prêtre en chaire. Assis...* n'indique pas que le sermon est terminé avant la lecture sur le pont.
+Deux entrées sont séparées par un trait : Dim. 30 puis Lundi 31. l.7 : Hoes, d., fem. et g. constituent quatre contractions de la disposition observée dans l’église. l.16–17 : les dépenses figurent avant le filet de séparation des journées. l.23–24 : la phrase anglaise court sur deux lignes ; waggon est chariot, et non un wagon ferroviaire dans cette conduite aux champs. Les fortes reprises de plume ne sont pas toutes des suppressions.
 
 > Les deux journées associent l’église de Saint-Jans-Cappel, le headcook, le refilling point et Bailleul. La disposition hommes à droite / femmes à gauche est une observation du diariste ; elle ne démontre pas à elle seule une règle universelle de pratique religieuse flamande.
 
@@ -359,6 +378,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Nom Guétin proposé ; distinction de certaines petites unités..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
+- **Réserves de l'apparat** : Valeur de 1/2 jour l.3; Patronyme Guétin l.16.
 
 ```text
  1 | Mar 1er          Aout 1916 –
@@ -379,18 +401,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 16 | " : 4 cartes cuivre M. [Guétin ?] : 1 f 20 c
 ```
 
-- *l. 1* : **1 Mar** *scil.* Mardi. **1 1er** *scil.* premier.
-- *l. 2* : **2 tempérre** *abbr. pro* température.
-- *l. 3* : **3 1/2** *scil.* demi / moitié.
-- *l. 5* : **5 ds** *abbr. pro* dans. **5 tt** *abbr. pro* tout.
-- *l. 6* : **6 garret** *angl. in ms.*
-- *l. 14* : **14 c.** *abbr. pro* centimes.
-- *l. 15* : **15 cartes ples** *abbr. pro* cartes postales. **15 c.** *abbr. pro* centimes.
-- *l. 16* : **16** *lect. incert. in ms.*
+- *l. 1* : **1** **Mar** *mardi*.
+- *l. 2* : **2** **Tjours** *toujours* ; **tempérre** *température*.
+- *l. 3* : **3** **1/2** valeur temporelle réservée devant jour.
+- *l. 5* : **5** **tt** *tout* ; **ds** *dans*.
+- *l. 6* : **6** **garret** *angl.* chambre sous les combles.
+- *l. 8* : **8** **30 m.** *30 minutes*.
+- *l. 15* : **15** **cartes ples** *cartes postales* ; **varia** *lat.* dépenses diverses.
+- *l. 16* : **16** **[Guétin ?]** lecture proposée.
 
 * * *
 
-**l.~2--3 :** La fraction 1/2 est conservée, sans développer automatiquement en milieu du jour : cet emploi demande des parallèles. **l.~16 :** Le poste de cartes sur cuivre contient un nom proposé Guétin ; la vue ne précise pas sa qualité d'éditeur ni la technique exacte des images.
+l.2 : Tjours et tempérre sont deux contractions distinctes. l.3 : la notation 1/2 jour conserve une valeur temporelle à discuter ; ni demi-journée ni milieu du jour ne sont imposés. l.8 : m. après Mis 30 désigne des minutes, non le matin. l.16 : le patronyme Guétin reste proposé ; le M. qui le précède ne permet pas de garantir une qualité d’éditeur. Les dépenses sont encadrées de deux traits horizontaux, sans compte marginal latéral.
 
 > Le temps de marche indiqué est 30 minutes depuis le logement du diariste, dont le point de départ précis n’est pas donné ici. La comparaison de la place de Bailleul à celles d’Hazebrouck et de Béthune appartient au témoignage. Elle ne permet pas de fixer une distance de 3 km depuis le centre de Saint-Jans-Cappel.
 
@@ -403,6 +425,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Mot supprimé après ouvrage ; fin du montant de la chemise..
+
+- **Apparat révisé intégralement sur l'image** : 20 entrées contrôlées.
+- **Réserves de l'apparat** : Mot supprimé l.10; Fin du montant de la chemise l.11.
 
 ```text
  1 | 2 Me – Encore très b. journée.          Aout / 16
@@ -430,21 +455,22 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 23 | — Ctes ples : 40 c. — Drink : 10 c —
 ```
 
-- *l. 3* : **3 ds** *abbr. pro* dans.
-- *l. 5* : **5 j'à** *abbr. pro* jusqu'à.
-- *l. 7* : **7 égl.** *abbr. pro* église. **7 St** *abbr. pro* Saint.
-- *l. 8* : **8 longt** *abbr. pro* longtemps.
-- *l. 10* : **10** ⟦[illis.]⟧ *del. in ms.* **10** *lect. incert. in ms.*
-- *l. 11* : **11 ctes ples** *abbr. pro* cartes postales. **11 c.** *abbr. pro* centimes.
-- *l. 12* : **12 pr** *abbr. pro* pour. **12 c.** *abbr. pro* centimes.
-- *l. 13* : **13 tempér.** *abbr. pro* température.
-- *l. 18* : **18 ds** *abbr. pro* dans. **18 ts** *abbr. pro* tous.
-- *l. 21* : **21 St** *abbr. pro* Saint.
-- *l. 23* : **23 Ctes ples** *abbr. pro* Cartes postales. **23 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Me** *mercredi* ; **b.** *belle*.
+- *l. 3* : **3** **ds** *dans*.
+- *l. 5* : **5** **j'à** *jusqu’à*.
+- *l. 7* : **7** **égl.** *église* ; **St** *Saint*.
+- *l. 8* : **8** **longt** *longtemps*.
+- *l. 10* : **10** **⟦[illis.]⟧** suppression dont le texte reste non déchiffré.
+- *l. 11* : **11** **ctes ples** *cartes postales* ; **5 f 50** fin du montant au bord de l’image, à confirmer.
+- *l. 12* : **12** **pr** *pour* ; **Drink** *angl.* boisson.
+- *l. 13* : **13** **J** *jeudi* ; **tempér.** *température*.
+- *l. 18* : **18** **ds** *dans* ; **ts** *tous* ; **B.** *Bailleul*.
+- *l. 21* : **21** **St** *Saint*.
+- *l. 23* : **23** **Ctes ples** *cartes postales* ; **Drink** *angl.* boisson.
 
 * * *
 
-**Dates et révision :** Les deux entrées sont *2 Me* puis *3 J*. Le mot ajouté à droite près des dentellières et la biffure de la ligne suivante demandent une distinction ; seule la rature est signalée sans restitution sûre. Le compte mentionne galon noir pour lorgnons et Drink.
+Les journées du 2 et du 3 août sont séparées par un filet, avec un premier compte au-dessus. Me et J désignent ici les jours ; b. s’accorde avec journée et tempér. avec estivale. l.10 : la suppression après ouvrage demeure non déchiffrée ; délicat n’est pas assuré. l.18 : B. reprend Bailleul, nommé l.15. La partie droite du premier compte arrive au bord photographique ; le détail du prix de la chemise reste à contrôler.
 
 > Les promenades dans Bailleul, les rues d’Ypres et de Lille et Saint-Vaast sont nommées. Les dentellières sont décrites travaillant devant les maisons. Cette observation documente la pratique vue par Combes, sans fournir une histoire des fabriques ni une identification du travail supprimé après ouvrage.
 
@@ -457,6 +483,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Petit montant du supplément ; ponctuation de la contraction de laquelle..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
+- **Réserves de l'apparat** : Développement de l. l.15 proposé.
 
 ```text
  1 | 4 Ve. Après qq hésitation, décidé          Août 1916
@@ -478,19 +507,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | silence —
 ```
 
-- *l. 1* : **1 Ve.** *scil.* Vendredi. **1 qq** *abbr. pro* quelque(s).
-- *l. 3* : **3 fse** *abbr. pro* française.
-- *l. 4* : **4 Kils** *abbr. pro* Kilomètres. **4 1/2** *scil.* demi / moitié.
-- *l. 7* : **7 gde** *abbr. pro* grande.
-- *l. 8* : **8 qq** *abbr. pro* quelque(s).
-- *l. 11* : **11 garret** *angl. in ms.*
-- *l. 12* : **12** *in marg. cum unco* (comptes).
-- *l. 14* : **14 1er** *scil.* premier.
-- *l. 16* : **16 gd** *abbr. pro* grand.
+- *l. 1* : **1** **Ve.** *vendredi* ; **qq** *quelque*.
+- *l. 3* : **3** **fse** *française*.
+- *l. 4* : **4** **Kils** *kilomètres*.
+- *l. 7* : **7** **gde** *grande*.
+- *l. 8* : **8** **qq** *quelques*.
+- *l. 11* : **11** **garret** *angl.* chambre sous les combles.
+- *l. 15* : **15** **l.** *laquelle (?)* ; **coy** *Company, compagnie*.
+- *l. 16* : **16** **Y** pronom locatif : dans cette ferme ; **gd** *grand*.
 
 * * *
 
-**l.~6, 12--17 :** Lire *Cette dernière localité*, non l'ancienne confusion avec le toponyme Sète. Le compte encadré porte *80 f 30 c*, avec *8 f* de supplément. *garret* est le mot anglais pour un grenier ou une mansarde. Le pronom abrégé *l.* est conservé.
+l.1 : qq hésitation se développe quelque hésitation ; le nom est conservé sans lui ajouter un s. Cette contraction peut aussi noter quelques dans un autre contexte. l.3 : fse qualifie mission et se développe française. l.12–14 : l’indemnité est mise en évidence par un crochet gauche, mais reste dans le corps de la page. l.15 : l. après autour de note laquelle avec réserve ; coy est Company, compagnie. l.16 : Y est ici locatif, dans une phrase nominale, et ne se développe pas automatiquement en et.
 
 > La Croix-du-Bac est le lieu du bureau de mission nommé dans le texte. Le trajet passe par Bailleul et Steenwerck. Les 80 f 30 et le supplément du 1er juillet sont consignés ; les dates et la ventilation réglementaire d’une indemnité particulière ne se déduisent pas automatiquement de ce montant.
 
@@ -503,6 +531,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Derniers mots après voix grave et monotone : gémt et groupe linguistique non établis..
+
+- **Apparat révisé intégralement sur l'image** : 6 entrées contrôlées.
+- **Réserves de l'apparat** : Deux groupes de la dernière ligne non établis.
 
 ```text
  1 | Ve 4 — Avant & après diner, assis &
@@ -519,13 +550,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 12 | monotone du père ; [gémt ?] en [patois flamand ?]
 ```
 
-- *l. 4* : **4 gds** *abbr. pro* grands.
-- *l. 9* : **9 garret** *angl. in ms.*
-- *l. 12* : **12** *lect. incert. in ms.*
+- *l. 1* : **1** **Ve** *vendredi*.
+- *l. 4* : **4** **gds** *grands*.
+- *l. 5* : **5** **Ns** *nous*.
+- *l. 9* : **9** **garret** *angl.* chambre sous les combles.
+- *l. 12* : **12** **[gémt ?]** groupe proposé ; développement non établi ; **[patois flamand ?]** lecture de la séquence non établie.
 
 * * *
 
-**l.~5--8 :** *Ns sommes loin de la ville* appartient à la comparaison avec l'automne. **l.~12 :** Après *voix grave et monotone du père*, la photographie permet une proposition *gémt ... en patois flamand*, encore incertaine. La leçon *gds et petits l'accomt* et son commentaire sont retirés : ils ne correspondent pas au tracé.
+l.1 : Ve désigne vendredi, sans point conservé dans la transcription. l.5 : Ns est nous ; la phrase conserve son sujet exprimé. l.9 : garret désigne le logement sous les combles. l.12 : les groupes proposés gémt et patois flamand restent non établis ; aucun développement lexical certain ni voix supplémentaire ne doit être déduit de ces tracés. Il n’y a pas de compte sur cette vue.
 
 > Le récit prolonge la soirée du 4 août : depuis son garret, Combes entend la prière familiale. Les derniers mots restent réservés ; une identification certaine de la langue de la prière dépasserait leur déchiffrement actuel.
 
@@ -538,6 +571,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Ponctuation et distribution de l’ajout office..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | Sam. 5          Août 1916
@@ -565,22 +600,22 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 23 | A Connelly, mon groom : 1f –
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 3* : **3 ts** *abbr. pro* tous.
-- *l. 5* : **5 s/** *abbr. pro* sur.
-- *l. 6* : **6 tjs** *abbr. pro* toujours.
-- *l. 8* : **8 Ds** *abbr. pro* Dans. **8 tt** *abbr. pro* tout.
-- *l. 13* : **13 1/2** *scil.* demi / moitié.
-- *l. 14* : **14 Horse-lines** *angl. in ms.*
-- *l. 16* : **16 pr** *abbr. pro* pour. **16 offs** *abbr. pro* officiers.
-- *l. 17* : **17 Coy** *angl.* Company.
-- *l. 20* : **20 St** *abbr. pro* Saint.
-- *l. 21* : **21 washing** *angl. in ms.*
-- *l. 23* : **23 groom** *angl. in ms.*
+- *l. 1* : **1** **Sam.** *samedi*.
+- *l. 3* : **3** **ts** *tous*.
+- *l. 4* : **4** **moi-m.** *moi-même* ; **voy.** *voyages* ; **office** *angl.* bureau.
+- *l. 5* : **5** **s/** *sur*.
+- *l. 6* : **6** **tjs** *toujours*.
+- *l. 8* : **8** **Ds** *dans* ; **tt** *tout* ; **A.S.C. men** *angl.* hommes de l’Army Service Corps.
+- *l. 14* : **14** **Horse-lines** *angl.* lignes d’attache des chevaux.
+- *l. 16* : **16** **pr. offs.** *pour officiers*.
+- *l. 17* : **17** **Coy** *Company, compagnie*.
+- *l. 20* : **20** **St** *Saint*.
+- *l. 21* : **21** **for washing** *angl.* pour le lavage du linge.
+- *l. 23* : **23** **groom** *angl.* palefrenier.
 
 * * *
 
-**l.~4--5 :** *Porté moi-m. en 3 voy., mes sacs à l'office / et les vu charger s/ wagon no 5* : trois voyages du diariste, non un porte-manteau. Les Horse-lines sont distinguées du logement civil. Les dépenses de vivres, washing et groom sont conservées jusqu'au bord inférieur.
+l.4 : moi-m. et voy. sont des contractions, non des mots entièrement écrits. l.8 : A.S.C. men forme une expression anglaise, hommes de l’Army Service Corps. l.14 : Horse-lines désigne les lignes d’attache des chevaux. l.16–17 : pr. offs. et Coy sont développés selon leur contexte. Les dépenses sont sous un filet ; for washing doit être traduit comme groupe, et le nom Connelly est conservé sans lui attribuer un grade.
 
 > Le 5 août, déplacement par Bailleul vers La Croix-du-Bac, avec Horse-lines à l’entrée du village et installation d’une chambre face à la Coy. Connelly est nommé comme groom. Les occurrences ultérieures permettent de comparer le patronyme, sans en tirer sa nationalité ou une biographie.
 
@@ -593,6 +628,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Petites unités du second prix du lait..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
 
 ```text
  1 | Dim. 6.          Aout 1916
@@ -614,18 +651,17 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | — Ctes ples : 10 c
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 4* : **4 Lt** *abbr. pro* Lieutenant. **4 Breakfast** *angl. in ms.*
-- *l. 6* : **6 refilling point** *angl. in ms.*
-- *l. 9* : **9 St** *abbr. pro* Saint.
-- *l. 13* : **13 militre** *abbr. pro* militaire.
-- *l. 15* : **15 propre** *abbr. pro* propriétaire.
-- *l. 16* : **16 c.** *abbr. pro* centimes.
-- *l. 17* : **17 Ctes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Dim.** *dimanche*.
+- *l. 4* : **4** **Breakfast** *angl.* petit déjeuner ; **Lt** *lieutenant*.
+- *l. 6* : **6** **refilling point** *angl.* point de réapprovisionnement ; **(près** parenthèse ouverte sans fermeture visible.
+- *l. 9* : **9** **j.au** *jusqu’au* ; **St** *Saint*.
+- *l. 13* : **13** **militre** *militaire* ; **anglse** *anglaise*.
+- *l. 15* : **15** **propre** *propriétaire, finale abrégée*.
+- *l. 17* : **17** **Ctes ples** *cartes postales*.
 
 * * *
 
-**l.~4--11 et compte :** Curtis se lit avant la marche au refilling point. Le patronyme Maurin est proposé dans l'entrée de l'après-midi ; l'identification de la personne ne se déduit pas de la graphie seule. Le compte final sépare œufs, lait, bière puis cartes postales.
+l.9 : j.au est la contraction de jusqu’au, distincte d’une heure. l.13 : militre et anglse s’accordent avec musique. l.15 : propre porte une finale abrégée et désigne ici la propriétaire à qui sont réglés les produits ; cette valeur ne s’applique pas automatiquement à tout propre du carnet. Le compte est sous le filet, à l’intérieur de la page. Installation provisoire où je suis reste une notation nominale, sans auxiliaire restitué. La parenthèse ouverte à la l. 6 n’est pas fermée sur la photographie.
 
 > Le refilling point est décrit sur la rive d’un canal près d’une écluse, puis Combes continue seul à Bac St-Maur. Ces deux indications ne prouvent pas que le point de ravitaillement soit exactement à Bac St-Maur. Maurin et le concert sont nommés ; sa connaissance d’Antibes, vue 024, ne démontre pas son lieu de naissance.
 
@@ -638,6 +674,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Patronyme Barning ; mot avant à l’autre extrémité..
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
+- **Réserves de l'apparat** : Patronyme Barning l.7; Groupe non déchiffré l.9.
 
 ```text
  1 | Lundi 7 –          Chaleur accablante Aout 1916
@@ -659,18 +698,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | 1 litre bière : 30 c
 ```
 
-- *l. 2* : **2 Ctis** *abbr. pro* Curtis.
-- *l. 3* : **3 off.** *abbr. pro* officier(s). **3 billets** *angl. in ms.*
-- *l. 7* : **7** *lect. incert. in ms.* **7 tte** *abbr. pro* toute.
-- *l. 8* : **8 shifté** *angl. in ms.*
-- *l. 9* : **9** *lect. incert. in ms.*
-- *l. 12* : **12 gde** *abbr. pro* grande. **12 St** *abbr. pro* Saint.
-- *l. 13* : **13 1er** *scil.* premier.
-- *l. 15* : **15 propre** *abbr. pro* propriétaire. **15 cooking** *angl. in ms.*
+- *l. 2* : **2** **Ctis** *Curtis*.
+- *l. 3* : **3** **billets** *angl.* logements de cantonnement ; **messroom** *angl.* salle du mess ; **off.** *officiers*.
+- *l. 7* : **7** **Coy** *Company, compagnie* ; **[Barning ?]** lecture proposée ; **tte** *toute*.
+- *l. 8* : **8** **shifté** *hybr.* changé de cantonnement ; radical anglais shift, finale française ; **Damn** *angl.* juron de contrariété.
+- *l. 9* : **9** **[illis.]** séquence non déchiffrée.
+- *l. 11* : **11** **Post-office** *angl.* bureau de poste.
+- *l. 12* : **12** **St** *Saint* ; **gde** *grande*.
+- *l. 15* : **15** **propre** *propriétaire, finale abrégée* ; **cooking** *angl.* cuisine.
 
 * * *
 
-**l.~2--9 :** *Ctis* désigne Curtis. Le nom de l'informateur est proposé Barning avec réserve ; aucun titre *Lt Woot* n'est établi sur cette vue. Le verbe ou la surcharge précédant *à l'autre extrémité village* reste ouvert. **l.~11--13 :** Nouvelle chambre sur la route de Bac-Saint-Maur, au premier étage, près du Post-office. Cooking est compté 1 f.
+l.3 : billets désigne des logements de cantonnement ; messroom, la salle des repas des officiers. l.7–9 : Coy est écrit deux fois ; Barning et le groupe de la ligne suivante restent réservés. shifté mêle le radical anglais et une finale française ; Damn est un juron. l.11 : Post-office désigne le bureau de poste. l.15 : propre est ici propriétaire, et cooking le service de cuisine. Le compte est séparé du récit par un trait.
 
 > La compagnie change de position pendant la recherche des billets et du messroom. Les termes billets, a shifté et Post-office éclairent le vocabulaire de logement ; le nouveau logement est décrit au-dessus du bureau de poste sur la route de Bac St-Maur.
 
@@ -683,6 +722,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Finales contractées de température et chaleur..
+
+- **Apparat révisé intégralement sur l'image** : 7 entrées contrôlées.
 
 ```text
  1 | Mardi 8.          Aout 1916 –
@@ -700,14 +741,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | Nuit, dévoré par les moustiques
 ```
 
-- *l. 2* : **2 tempérre** *abbr. pro* température. **2 extt** *abbr. pro* extrêmement.
-- *l. 7* : **7 Food** *angl. in ms.*
-- *l. 9* : **9 chalr** *abbr. pro* chaleur.
-- *l. 10* : **10 ds** *abbr. pro* dans.
+- *l. 2* : **2** **Tjours** *toujours* ; **tempérre** *température* ; **extt** *extrêmement*.
+- *l. 7* : **7** **Food** *angl.* nourriture ; **eggs** *angl.* œufs.
+- *l. 9* : **9** **chalr** *chaleur*.
+- *l. 10* : **10** **ds** *dans*.
 
 * * *
 
-**Deux dates :** *Mardi 8* puis *mercredi 9*. La contraction *tempérre* et l'abréviation *extt* sont gardées sans les transformer en un signe sténographique autonome. Food : eggs est le compte anglais séparé par des filets.
+Deux journées sont séparées par un trait : Mardi 8 et mercredi 9, sans abréviation de ces jours. l.2 : Tjours, tempérre et extt sont trois contractions distinctes sur la même ligne. l.7 : eggs est également anglais, après Food. l.9 : chalr abrège chaleur. L’espace laissé entre le récit, la dépense et la seconde journée est conservé comme disposition, sans conjecture sur une lacune matérielle.
 
 > Poussière, fenêtre fermée et moustiques sont les conditions rapportées. Les fossés et les véhicules d’un secteur peuvent en donner le contexte, mais ni un réseau précis de watergangs ni une explication sanitaire ne sont décrits dans cette entrée.
 
@@ -720,6 +761,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Lettres de la suppression ; ponctuation et ellipses de Ne pas dépassé..
+
+- **Apparat révisé intégralement sur l'image** : 8 entrées contrôlées.
 
 ```text
  1 | 10 Jeudi.          Aout / 16 –
@@ -744,14 +787,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 20 | Ctes ples : 1 f. — Lait : 50 c
 ```
 
-- *l. 5* : **5 légèrt** *abbr. pro* légèrement.
-- *l. 7* : **7** ⟦Maur⟧ *del. in ms.* **7 s/** *abbr. pro* sur.
-- *l. 14* : **14 lgt** *abbr. pro* longtemps. **14 gal** *abbr. pro* général.
-- *l. 20* : **20 Ctes ples** *abbr. pro* Cartes postales. **20 f.** *abbr. pro* franc(s).
+- *l. 5* : **5** **légèrt** *légèrement*.
+- *l. 7* : **7** **⟦Maur⟧** texte biffé ; **s/** *sur*.
+- *l. 8* : **8** **kilm.** *kilomètres*.
+- *l. 14* : **14** **lgt** *longtemps* ; **av.** *avec* ; **gal** *général*.
+- *l. 20* : **20** **Ctes ples** *cartes postales*.
 
 * * *
 
-**l.~2--8 :** *Très agréable*, non Peu agréable, après la pluie fine ; *légèrt arrosées* caractérise les routes. Le nom Maur a été remplacé ou surchargé par Sailly s/ la Lys. **l.~14--19 :** Maxse et Les Australiens sont deux notations distinctes ; on ne les fond pas en une phrase continue.
+l.5 : légèrt est un adverbe, légèrement. l.7 : Maur est biffé avant Sailly ; ce repentir n’autorise pas à fusionner les deux toponymes. l.8 : kilm. indique des kilomètres. l.14 : lgt, av. et gal ont des valeurs distinctes : longtemps, avec, général. Le nom Maxse est écrit dans la conversation rapportée avec l’éclusier ; ce passage ne décrit pas une rencontre du diariste avec le général. Le compte est placé sous le trait final.
 
 > Combes parle de Maxse à l’éclusier : il ne raconte pas une rencontre avec le général. Le rapprochement avec Ivor Maxse, commandant la 18e Division, est une identification historique cohérente avec les autres mentions d’unité ; Les Australiens reste une note isolée, sans unité ni mouvement établi par elle seule.
 
@@ -764,6 +808,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Soldat décapité et bras emportés sous biffure ; suppression après Insécurité..
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
+- **Réserves de l'apparat** : Contenus sous les suppressions l.6 et12.
 
 ```text
  1 | 11 Ven.          Aout / 16
@@ -785,19 +832,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | ouest d'Armentières.
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 2* : **2 tempérre** *abbr. pro* température.
-- *l. 6* : **6** ⟦décapité [?]⟧ *del. in ms.* **6** ⟦bras emportés [?]⟧ *del. in ms.* **6 décapité** *lect. incert. in ms.* **6 emportés** *lect. incert. in ms.*
-- *l. 7* : **7 gde** *abbr. pro* grande.
-- *l. 8* : **8 bcp** *abbr. pro* beaucoup.
-- *l. 9* : **9 s/** *abbr. pro* sur.
-- *l. 11* : **11 bombardt** *abbr. pro* bombardement.
-- *l. 12* : **12** ⟦perpétuelle [?]⟧ *del. in ms.* **12 perpétuelle** *lect. incert. in ms.*
-- *l. 15* : **15 gde** *abbr. pro* grande.
+- *l. 1* : **1** **Ven.** *vendredi*.
+- *l. 2* : **2** **tempérre** *température*.
+- *l. 6* : **6** **⟦décapité [?]⟧** suppression ; lecture du contenu proposée ; **⟦bras emportés [?]⟧** suppression ; lecture du contenu proposée.
+- *l. 7* : **7** **gde** *grande*.
+- *l. 8* : **8** **bcp** *beaucoup*.
+- *l. 9* : **9** **s/** *sur*.
+- *l. 11* : **11** **bombardt** *bombardement*.
+- *l. 12* : **12** **⟦perpétuelle [?]⟧** suppression ; lecture du contenu proposée.
+- *l. 15* : **15** **gde** *grande*.
 
 * * *
 
-**l.~5--12 :** Le passage sur le soldat porte des biffures très chargées ; décapité et bras emportés sont des restitutions incertaines et restent marquées comme telles. Barbry se lit dans le nom de la blanchisserie. L'adjectif biffé avant continuelle est proposé perpétuelle.
+l.6 : les deux séquences fortement biffées sont transcrites avec des lectures proposées, qui ne permettent pas d’assurer les détails de la blessure ni une scène d’exécution. l.11 : bombardt est une contraction de bombardement ; sa barre ne constitue pas une suppression. l.12 : le groupe barré avant continuelle reste proposé perpétuelle. Un filet isole la dépense, puis un second la note sur le départ et la chambre ; cette dernière fait partie de la même vue.
 
 > Le 11 août, 40 ou 50 obus sont rapportés près du cantonnement et des dommages sont notés à la blanchisserie Barbry. Les suppressions relatives au soldat restent réservées. Le carnet ne donne ni l’unité d’artillerie responsable ni une histoire industrielle précise de l’établissement ; ces éléments demanderaient un document indépendant.
 
@@ -810,6 +857,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Ponctuation et marques d’accentuation faibles..
+
+- **Apparat révisé intégralement sur l'image** : 7 entrées contrôlées.
 
 ```text
  1 | 12 Sam.          Aout 1916
@@ -831,16 +880,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 17 | air brulant, soleil torride
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 6* : **6 lgs** *abbr. pro* longtemps.
-- *l. 9* : **9** ⟦devant⟧ *del. in ms.*
-- *l. 11* : **11 s/** *abbr. pro* sur.
-- *l. 13* : **13 s/** *abbr. pro* sur.
-- *l. 15* : **15 lunch** *angl. in ms.*
+- *l. 1* : **1** **Sam.** *samedi*.
+- *l. 6* : **6** **lgs** *longtemps*.
+- *l. 9* : **9** **⟦devant⟧** texte biffé ; **en face** ajout au-dessus de devant biffé, en remplacement.
+- *l. 11* : **11** **s/** *sur*.
+- *l. 13* : **13** **s/** *sur*.
+- *l. 15* : **15** **lunch** *angl.* déjeuner.
 
 * * *
 
-**l.~8--10 :** *oasis d'ombre* est visible. *devant* est biffé et *en face* ajouté au-dessus avant de champs. Le compte du lait puis le bloc Après lunch sont conservés dans l'ordre matériel de la page, même si cet ordre ne suit pas l'heure des événements.
+l.6 : lgs se développe longtemps après Causé. l.9 : devant est biffé ; en face, écrit plus haut, le remplace. La note distingue cette correction d’une simple succession de deux prépositions. l.14 : la dépense de lait apparaît après le paragraphe descriptif et avant la reprise Après lunch ; la fraction indique ici une quantité, sans gloser toutes les fractions du carnet d’une même façon.
 
 > Promenade le long de la Lys, conversation avec l’éclusier et repos dans les champs. L’absence d’un bombardement dans cette note ne suffit pas à décrire une accalmie militaire de tout le secteur.
 
@@ -853,6 +902,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Forme et clôture de la parenthèse mouille/colle..
+
+- **Apparat révisé intégralement sur l'image** : 8 entrées contrôlées.
 
 ```text
  1 | 13 D –          Aout 1916
@@ -877,15 +928,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 20 | Lait : 15 c + 0.05
 ```
 
-- *l. 4* : **4 Margte** *scil.* Marguerite (Calmels).
-- *l. 5* : **5 Tt** *abbr. pro* Tout.
-- *l. 15* : **15 s/** *abbr. pro* sur.
-- *l. 17* : **17 Lt** *abbr. pro* Lieutenant.
-- *l. 18* : **18 ds** *abbr. pro* dans.
+- *l. 1* : **1** **D** *dimanche*.
+- *l. 4* : **4** **Margte** *Marguerite*.
+- *l. 5* : **5** **Tt** *tout*.
+- *l. 9* : **9** **L** *lundi*.
+- *l. 11* : **11** **(colle** parenthèse ouverte, sans fermeture visible.
+- *l. 15* : **15** **s/** *sur*.
+- *l. 17* : **17** **Lt** *lieutenant*.
+- *l. 18* : **18** **ds** *dans*.
 
 * * *
 
-**Deux entrées :** 13 D puis 14 L. La l.~9 finit après *nuages* ; forte appartient à la pluie de la ligne suivante et ne doit pas être répété artificiellement. L'incise *(colle* est conservée sans ajouter de fermeture absente. Pot-au-noir n'est pas développé en une cause psychologique exclusive.
+**Deux journées :** 13 D (dimanche), puis 14 L (lundi). Le trait qui suit le second en-tête sépare les journées ; le compte de blanchissage et de lait est isolé en bas par un autre filet. **l.~9--12 :** forte appartient à la pluie de la l.~10 ; la parenthèse ouverte devant colle n’a pas de fermeture visible. **l.~5 et 7--8 :** pot-au-noir est une expression figurée d’abattement ou de situation sans issue ; les ellipses promené campagne et le long rivière sont conservées sans restitutions grammaticales.
 
 > Le 14 août 1916 correspond au quarantième anniversaire de Combes selon son acte de naissance du 16 août 1876 mentionnant avant-hier. Le diariste ne signale pas l’anniversaire dans cette entrée. La sortie à cheval avec Curtis est une course, sans mission de reconnaissance explicitement donnée.
 
@@ -898,6 +952,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Abréviation de propriétaire ; ponctuation..
+
+- **Apparat révisé intégralement sur l'image** : 6 entrées contrôlées.
 
 ```text
  1 | 15 Ma – Assompt.          Aout / 16
@@ -913,14 +969,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 11 | cooking semaine dernière et 2 l. lait : 5 f —
 ```
 
-- *l. 5* : **5 ds** *abbr. pro* dans.
-- *l. 8* : **8 ts** *abbr. pro* tous.
-- *l. 10* : **10 propre** *abbr. pro* propriétaire.
-- *l. 11* : **11 cooking** *angl. in ms.*
+- *l. 1* : **1** **Ma** *mardi* ; **Assompt.** *Assomption*.
+- *l. 5* : **5** **ds** *dans*.
+- *l. 8* : **8** **ts** *tous*.
+- *l. 10* : **10** **propre** *propriétaire*.
+- *l. 11* : **11** **cooking** *angl.* cuisine.
 
 * * *
 
-**l.~1 et 10--11 :** Assompt. est l'abréviation autographe de l'Assomption. Le compte mêle propre (propriétaire) et cooking ; montant final 5 f. La page ne qualifie pas cette chambre de mansarde.
+**l.~1 :** Assompt. abrège Assomption. **l.~2--7 :** les formulations 1 peu après-midi et Aucun envie sont maintenues ; elles ne sont pas des lacunes du papier. La chambre est décrite comme haute de plafond, sans le mot mansarde. **l.~10--11 :** propre est ici la forme contractée de propriétaire ; cooking désigne la cuisine facturée avec deux litres de lait, pour 5 f au total. Ces deux lignes sont dans le corps de la page, après un tiret, sans crochet comptable.
 
 > Le 15 août est marqué Assompt. Le paiement de 5 francs réunit cooking de la semaine dernière et deux litres de lait. Il s’agit d’un règlement écrit, pas de la preuve d’un tarif hebdomadaire uniforme de pension.
 
@@ -933,6 +990,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Finales des abréviations de commencement et délicieusement..
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
 
 ```text
  1 | 18 Ve.          – Aout / 16 –
@@ -959,19 +1018,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 22 | exposée, derrière ligne de feu
 ```
 
-- *l. 1* : **1 Ve.** *scil.* Vendredi.
-- *l. 5* : **5 ds** *abbr. pro* dans. **5 refilling point** *angl. in ms.*
-- *l. 7* : **7 j. à** *abbr. pro* jusqu'à.
-- *l. 11* : **11 1/2** *scil.* demi / moitié.
-- *l. 12* : **12** *in marg. cum unco* (comptes). **12 fr.** *abbr. pro* franc(s).
-- *l. 13* : **13 tte** *abbr. pro* toute.
-- *l. 15* : **15 délict** *abbr. pro* délicieusement.
-- *l. 16* : **16 commt** *abbr. pro* commencement.
-- *l. 20* : **20 poney** *angl. in ms.*
+- *l. 1* : **1** **Ve.** *vendredi*.
+- *l. 5* : **5** **refilling point** *angl.* point de réapprovisionnement ; **ds** *dans*.
+- *l. 7* : **7** **j. à** *jusqu’à*.
+- *l. 11* : **11** **Coy.** *angl.* Company, compagnie.
+- *l. 12* : **12** **[** grand crochet ouvrant à gauche du compte ; trait horizontal au-dessous.
+- *l. 13* : **13** **S.** *samedi* ; **tte** *toute*.
+- *l. 15* : **15** **délict.** *délicieusement*.
+- *l. 16* : **16** **commt** *commencement*.
 
 * * *
 
-**Disposition :** Le compte de solde et indemnité de fonctions, 84 fr., est encadré entre les entrées 18 Ve et 19 S. **l.~18--22 :** Le nom Curtis et la qualification crétin se lisent ; zone exposée, derrière ligne de feu ne précise pas un point géographique.
+**l.~11--13 :** Coy. signifie Company ; lignes désigne les emplacements de la compagnie. Le compte de 84 fr. est signalé par un grand crochet ouvrant à gauche ; un trait horizontal le sépare du 19 S (samedi). Ce n’est pas une somme ajoutée en marge. **l.~15--16 :** délict. abrège délicieusement ; commt abrège commencement. **l.~18--22 :** crétin de Curtis se lit ; zone exposée, derrière ligne de feu reste une indication relative, sans localisation plus précise. Poney est un mot français, sans appel de note d’emprunt anglais.
 
 > Solde et indemnité de fonctions sont explicitement associées aux 84 francs. La chevauchée du 19 août se poursuit à la vue 022. La zone est dite exposée, derrière la ligne de feu ; sa distance aux premières tranchées n’est pas mesurée.
 
@@ -984,6 +1042,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Mot isolé Écossais ; détails de la contraction près de gare..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
+- **Réserves de l'apparat** : Portée de l’ajout Écossais..
 
 ```text
  1 | et galop à travers champs          19 Sam –
@@ -1012,15 +1073,20 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 24 | très belle.
 ```
 
-- *l. 2* : **2 j. à** *abbr. pro* jusqu'à.
-- *l. 5* : **5 ttes** *abbr. pro* toutes.
-- *l. 8* : **8 complt** *abbr. pro* complètement.
-- *l. 21* : **21 Gde** *abbr. pro* Grande.
-- *l. 22* : **22 off** *abbr. pro* officier(s).
+- *l. 1* : **1** **Sam** *samedi*.
+- *l. 2* : **2** **j. à** *jusqu’à*.
+- *l. 4* : **4** **dr.** *droite*.
+- *l. 5* : **5** **ttes** *toutes*.
+- *l. 8* : **8** **l.** *laquelle* ; **complt** *complètement*.
+- *l. 10* : **10** **b.** *belles*.
+- *l. 18* : **18** **La +** la plupart, selon la syntaxe.
+- *l. 20* : **20** **Écossais** ajout au-dessus de Rentrés ; rattachement incertain.
+- *l. 21* : **21** **Gde** *grande*.
+- *l. 22* : **22** **off** *officier*.
 
 * * *
 
-**l.~12 :** La lecture du module concurrent *dommages. Vu, çà & là, de toits* est graphiquement préférable à l'ancien export *Un peu partt, ds les r., toits*. **l.~20 :** Écossais est une note isolée ajoutée plus faiblement ; sa portée syntaxique reste ouverte. La + est conservé sans réécrire le texte en La plupart.
+**Continuation du 19 août :** l’en-tête 19 Sam est placé à droite de la première ligne, qui poursuit la chevauchée de la vue précédente. **l.~8 et 18 :** l. renvoie à la gare (laquelle) ; La + se comprend la plupart, sans développer ces formes dans la transcription. **l.~20 :** Écossais est un ajout d’encre plus faible au-dessus de Rentrés ; son rattachement syntaxique reste incertain. **l.~11--17 :** le constat des destructions est conservé, avec ses ellipses, sans reconstruire une phrase plus régulière.
 
 > Fleurbaix, Armentières et Erquinghem sont des étapes nommées. L’église endommagée n’est pas nommée ; Saint-Vaast et Notre-Dame ne peuvent devenir des identifications acquises sur cette seule description. Sussex désigne ici l’appartenance rapportée de l’officier rencontré, sans numéro de bataillon.
 
@@ -1033,6 +1099,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Contenu de deux suppressions ; abréviation du propriétaire..
+
+- **Apparat révisé intégralement sur l'image** : 21 entrées contrôlées.
+- **Réserves de l'apparat** : Contenu des deux biffures (l. 6 et 10)..
 
 ```text
  1 | 20 D –          Aout 1916
@@ -1061,20 +1130,22 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 24 | A mon groom : 2 f – Varia : 10 c –
 ```
 
-- *l. 2* : **2 sunshine** *angl. in ms.*
-- *l. 4* : **4 Ctis** *abbr. pro* Curtis.
-- *l. 5* : **5 green** *angl. in ms.*
-- *l. 6* : **6** ⟦[illis.]⟧ *del. in ms.* **6** *lect. incert. in ms.*
-- *l. 10* : **10** ⟦[illis.]⟧ *del. in ms.* **10** *lect. incert. in ms.*
-- *l. 13* : **13 gd** *abbr. pro* grand.
-- *l. 15* : **15 L.** *scil.* Lundi. **15 very** *angl. in ms.*
-- *l. 17* : **17 mervx** *abbr. pro* merveilleux. **17 sunset** *angl. in ms.*
-- *l. 23* : **23** *in marg. cum unco* (comptes). **23 washing** *angl. in ms.*
-- *l. 24* : **24 groom** *angl. in ms.*
+- *l. 1* : **1** **D** *dimanche*.
+- *l. 2* : **2** **sunshine** *angl.* soleil, éclaircies de soleil.
+- *l. 4* : **4** **Ctis** *Curtis* ; **to the fields for** *angl.* avec green forage à la ligne suivante : aux champs chercher du fourrage vert.
+- *l. 5* : **5** **green forage** *angl.* fourrage vert.
+- *l. 6* : **6** **propre** *propriétaire* ; **⟦[illis.]⟧** suppression dont le texte reste non déchiffré.
+- *l. 10* : **10** **⟦[illis.]⟧** suppression dont le texte reste non déchiffré.
+- *l. 13* : **13** **gd** *grand*.
+- *l. 15* : **15** **L.** *lundi* ; **very belle** *hybr.* très belle ; very est anglais, belle français.
+- *l. 16* : **16** **c.** *certain*.
+- *l. 17* : **17** **mervx** *merveilleux* ; **sunset** *angl.* coucher du soleil.
+- *l. 23* : **23** **[** crochet ouvrant à gauche des dépenses des deux dernières lignes ; **Proprie** *propriétaire* ; **cooking** *angl.* cuisine ; **washing** *angl.* lavage du linge ; **eggs** *angl.* œufs.
+- *l. 24* : **24** **groom** *angl.* palefrenier ; **Varia** *lat.* dépenses diverses.
 
 * * *
 
-**l.~6 et 10 :** Les retouches avant amené puis prépare restent partiellement indéchiffrées. La substitution proposée dans le module concurrent, *Me ⟦fais à⟧ / prépare*, est possible, mais les lettres de la biffure ne sont pas assez nettes pour la rendre certaine. **l.~15 :** very belle est un mélange franco-anglais explicite.
+**l.~6 et 10 :** deux séquences biffées précèdent amené et prépare. La seconde peut évoquer fais à, mais son contenu n’est pas établi ; les doubles crochets encadrent les suppressions, non des lacunes matérielles. **l.~4--5 et 15 :** to the fields for green forage forme une locution continue sur deux lignes ; very belle mêle anglais et français. **l.~23--24 :** un crochet ouvrant à gauche regroupe les dépenses, dans le bas de la page ; les gloses de propriétaire, des termes anglais et de Varia manquaient ou étaient partielles.
 
 > Le propriétaire Barbry et les adjudants Lupin/Schumacher sont nommés. Une identité avec les personnes d’autres occurrences reste à confronter à leurs graphies et aux pièces de correspondance. Le sac envoyé à Nogent est écrit ; une adresse précise n’apparaît pas ici.
 
@@ -1086,6 +1157,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - **Lieu** : Steenwerck, Bac-Saint-Maur et Erquinghem-Lys (Nord)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
 
 ```text
  1 | 22 Ma          Aout / 16
@@ -1108,16 +1181,21 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | Bain : 1 f 25
 ```
 
-- *l. 2* : **2 tt** *abbr. pro* tout.
-- *l. 7* : **7 St** *abbr. pro* Saint.
-- *l. 8* : **8 ds** *abbr. pro* dans.
-- *l. 11* : **11 sunset** *angl. in ms.*
-- *l. 12* : **12 commre** *abbr. pro* commissionnaire.
-- *l. 16* : **16 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Ma** *mardi*.
+- *l. 2* : **2** **tt** *tout*.
+- *l. 7* : **7** **St** *Saint*.
+- *l. 8* : **8** **ds** *dans*.
+- *l. 9* : **9** **chz** *chez*.
+- *l. 10* : **10** **av.** *avec*.
+- *l. 11* : **11** **sunset** *angl.* coucher du soleil.
+- *l. 12* : **12** **commre** *commissionnaire*.
+- *l. 13* : **13** **1 sac linge** début du groupe de dépenses signalé par un crochet ouvrant à gauche.
+- *l. 16* : **16** **Cartes ples** *cartes postales*.
+- *l. 17* : **17** **Varia** *lat.* dépenses diverses.
 
 * * *
 
-**l.~6--10 :** Le passage sur Maurin, la bière, le charcutier et les beautés d'Antibes est conservé sans amplification du décor. **l.~12--18 :** Le compte d'expédition donne 13 kgs, 3 f 80, le factage compris et l’emballage au départ ; ces postes ne sont pas des frais de voyage du diariste. La rubrique de la l. 15 donne Emballage, non Timbrage : l’attaque E, les jambages m, le b haut et la finale allage sont visibles au recadrage natif.
+**l.~12--18 :** commre abrège commissionnaire. Le récit de l’expédition se prolonge dans les comptes, signalés à gauche par un grand crochet ouvrant. Le transport porte sur un sac de linge (13 kgs), pour 3 f 80, factage à l’arrivée compris (40 c) ; l’emballage au départ est un poste distinct de 50 c. Emballage est préférable à Timbrage : attaque E, jambages m, b haut et finale allage. Les autres dépenses sont les cartes postales, Varia et le bain ; elles ne sont pas les frais d’un voyage du diariste.
 
 > Entretien avec Maurin au sujet de la Provence et d’Antibes ; envoi du sac de 13 kgs par Steenwerck. Le compte distingue 3 f 80, le factage 40 c compris et l’emballage 50 c au départ. L’ancienne explication par un timbre de récépissé ne correspond plus à la lecture Emballage.
 
@@ -1130,6 +1208,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Abréviation ft proposée ; parenthèses de l’église non régulièrement closes..
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
+- **Réserves de l'apparat** : valeur du signe x; lecture et développement de ft.
 
 ```text
  1 | 23 Merc          Aout / 16
@@ -1155,18 +1236,21 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 21 | ¼ livre bonbons chocolat : 75 c –
 ```
 
-- *l. 1* : **1 Merc** *scil.* Mercredi.
-- *l. 3* : **3 cme** *abbr. pro* comme. **3 1/2** *scil.* demi / moitié.
-- *l. 4* : **4 ds** *abbr. pro* dans.
-- *l. 6* : **6 j-à** *abbr. pro* jusqu'à.
-- *l. 14* : **14 extt** *abbr. pro* extrêmement.
-- *l. 16* : **16 extt** *abbr. pro* extrêmement.
-- *l. 18* : **18 ft** *lect. incert. in ms.*
-- *l. 20* : **20 Ctes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Merc** *mercredi*.
+- *l. 3* : **3** **cme** *comme*.
+- *l. 4* : **4** **ds** *dans*.
+- *l. 6* : **6** **j-à** *jusqu’à*.
+- *l. 7* : **7** **x** valeur de quantité possible devant magasins ; nombreux n’est pas un développement certain.
+- *l. 9* : **9** **S.** *Saint*.
+- *l. 10* : **10** **armoiries** Mot placé dans l’interligne à droite, rattaché à l’écusson au-dessus du perron.
+- *l. 14* : **14** **extt** *extrêmement*.
+- *l. 16* : **16** **extt** *extrêmement*.
+- *l. 18* : **18** **ft [?]** Contraction verbale proposée, probablement de faire ; lecture et nombre (fait/font) non résolus avec certitude.
+- *l. 20* : **20** **Ctes ples** *cartes postales* ; **Ctes ples** Les deux dépenses du bas sont groupées par un crochet ouvrant autographe à gauche.
 
 * * *
 
-**l.~7 et 12--13 :** Le signe x devant magasins est conservé : nombreux est une interprétation possible, non une expansion assurée. De nouveau précède la notation de poussière. L'ellipse du bilan sur l'activité physique n'est pas complétée par un verbe absent. À la l. 18, le groupe avant de bien paraît ft (fait), et non bp ; la lecture reste réservée à cause de la saturation du premier trait.
+Le signe x devant magasins est conservé sans expansion assurée. Armoiries est porté dans l’interligne à droite, en relation avec l’écusson. Dans le bilan physique, ft est une lecture proposée d’une contraction verbale ; le tracé saturé ne permet pas d’assurer fait plutôt que font, ni de déclarer tout verbe absent. Un crochet ouvrant autographe groupe les deux dépenses du bas.
 
 > Combes décrit à Estaires une église, des stalles, des statuettes et des armoiries au-dessus du perron de l’hôtel de ville. Saint Ambroise est son identification écrite. Les dates de construction ou de destruction et le style précis du mobilier nécessitent une référence patrimoniale distincte.
 
@@ -1179,6 +1263,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Graphie du patronyme Cliquennois..
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
+- **Réserves de l'apparat** : patronyme Cliquennois.
 
 ```text
  1 | Jeudi 24          Août 1916
@@ -1201,18 +1288,19 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 18 | washing et divers : 4 fr. —
 ```
 
-- *l. 5* : **5 pr** *abbr. pro* pour.
-- *l. 6* : **6 Hippte** *scil.* Hippolyte. **6 St** *abbr. pro* Saint.
-- *l. 9* : **9 ts** *abbr. pro* tous.
-- *l. 11* : **11 ds** *abbr. pro* dans.
-- *l. 14* : **14 ctes ples** *abbr. pro* cartes postales. **14 f.** *abbr. pro* franc(s).
-- *l. 16* : **16 Tip** *angl. in ms.*
-- *l. 17* : **17 pr** *abbr. pro* pour. **17 Mme** *abbr. pro* Madame.
-- *l. 18* : **18 fr.** *abbr. pro* franc(s). **18 washing** *angl. in ms.*
+- *l. 5* : **5** **pr** *pour* ; **église** Mot porté au-dessus de la ligne, entre Entré et pr.
+- *l. 6* : **6** **St** *Saint* ; **Hippte** *Hippolyte*.
+- *l. 9* : **9** **ts** *tous*.
+- *l. 10* : **10** **office** *angl.* bureau.
+- *l. 11* : **11** **ds** *dans*.
+- *l. 14* : **14** **ctes ples** *cartes postales* ; **Varia** *lat.* divers ; petites dépenses.
+- *l. 16* : **16** **Tip** *angl.* pourboire.
+- *l. 17* : **17** **Mme** *Madame* ; **Cliquennois** Lecture proposée du patronyme, sans certitude sur toutes les lettres ; **pr** *pour* ; **cooking** *angl.* cuisine ; préparation des repas.
+- *l. 18* : **18** **washing** *angl.* lavage du linge.
 
 * * *
 
-**l.~6, 9--11 et compte :** La relique est abrégée St Hippte. Fisher revient dans la prise en charge des sacs et le pourboire ; cela ne suffit pas à attribuer un grade. Mme Cliquennois est une lecture proposée du dernier nom. La tente de l'office est dite dans le champ.
+Église est ajouté au-dessus de la ligne entre Entré et pr. La contraction Hippte désigne Hippolyte après St, sans ambiguïté avec un patronyme. Le compte inférieur, séparé par un trait horizontal, mêle Varia latin et les termes anglais Tip, cooking et washing. Cliquennois reste une lecture proposée du nom de la logeuse. Le texte ne donne pas le grade de Fisher.
 
 > Le saint patron Hippte est une lecture du carnet, sans authentification de la relique par l’éditeur. Fisher transporte les sacs ; le paiement à Mme Cliquennois reste lié au cooking/washing/divers. La fréquence locale d’un patronyme ne déchiffre pas son occurrence.
 
@@ -1225,6 +1313,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Minutes45 proposées après Lillers..
+
+- **Apparat révisé intégralement sur l'image** : 8 entrées contrôlées.
+- **Réserves de l'apparat** : chiffres après 2 H à Lillers.
 
 ```text
  1 | Ven. 25          Août 1916
@@ -1248,17 +1339,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 19 | à la fin de l'été
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 2* : **2 m.** *abbr. pro* matin.
-- *l. 4* : **4 m.** *abbr. pro* matin.
-- *l. 7* : **7 1/2** *scil.* demi / moitié.
-- *l. 8* : **8 plusies** *abbr. pro* plusieurs. **8 imptes** *abbr. pro* importantes.
-- *l. 9* : **9** *lect. incert. in ms.*
-- *l. 10* : **10 s.** *abbr. pro* soir.
+- *l. 1* : **1** **Ven.** *vendredi*.
+- *l. 7* : **7** **v.** *vers*.
+- *l. 8* : **8** **plusies** *plusieurs* ; **imptes** *importantes*.
+- *l. 9* : **9** **[45 ?]** Chiffres proposés après 2 H ; 45 reste réservé, sans retour automatique à la précédente lecture de demi-heure ; **Hazebrouck : 2H** Mention portée dans une colonne distincte à droite, avec Berguette au-dessous.
+- *l. 10* : **10** **St.** *Saint* ; **Berguette : 2H30** Deuxième mention de la colonne de droite, distincte de la ligne principale Saint-Pol.
 
 * * *
 
-**Horaires, l.~9--10 :** Hazebrouck et Berguette sont portés dans une colonne à droite ; les conserver distincts de Lillers et Saint-Pol. L'heure de Lillers est graphiquement ambiguë : une lecture 2 H 45 est possible, la précédente 2 H 1/2 n'est pas considérée acquise. La cohérence de l'itinéraire ne remplace pas le déchiffrement.
+Hazebrouck et Berguette sont inscrits à droite dans une colonne distincte des horaires de Lillers et Saint-Pol. L’heure proposée à Lillers, 2 H 45, demeure graphiquement réservée ; la cohérence du trajet ne remplace pas le déchiffrement. V. signifie vers devant l’heure ; plusies et imptes sont les contractions de plusieurs et importantes.
 
 > Le 25 août, embarquement des chevaux et wagons à Bailleul, puis horaires ajoutés pour Hazebrouck/Berguette/Lillers et Saint-Pol. Départ de la route à 5 H. Ces repères sont conservés ; le regroupement de toute la division ou son programme d’entraînement ne se déduit pas du seul déplacement de Combes.
 
@@ -1271,6 +1360,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Réflexions amères en haut ; occupant de l’autre lit..
+
+- **Apparat révisé intégralement sur l'image** : 19 entrées contrôlées.
+- **Réserves de l'apparat** : groupe après L’Etat; second groupe des réflexions; valeur de p.; désignation du compagnon de chambre.
 
 ```text
  1 | Ven. 25 (suite)          Août 1916
@@ -1297,21 +1389,22 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 22 | Food : Bailleul : 75 c. – St-Pol : 1 f
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 2* : **2 ds** *abbr. pro* dans.
-- *l. 3* : **3 tommies** *angl. in ms.*
-- *l. 6* : **6** *lect. incert. in ms.*
-- *l. 7* : **7** *lect. incert. in ms.* **7 intellge** *abbr. pro* intelligence.
-- *l. 11* : **11 délicieust** *abbr. pro* délicieusement.
-- *l. 17* : **17 bp** *abbr. pro* beaucoup.
-- *l. 19* : **19** *lect. incert. in ms.*
-- *l. 20* : **20 offs** *abbr. pro* officiers. **20 mess** *angl. in ms.*
-- *l. 21* : **21 groom** *angl. in ms.*
-- *l. 22* : **22 St** *abbr. pro* Saint. **22 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Ven.** *vendredi*.
+- *l. 2* : **2** **ds** *dans*.
+- *l. 3* : **3** **tommies** *angl.* soldats britanniques, désignation familière.
+- *l. 6* : **6** **[illis.]** Groupe après L’Etat non déchiffré ; non content ne peut être établi par les lettres seules.
+- *l. 7* : **7** **[illis.]** Second groupe des réflexions sur les corps et l’esprit non établi ; **p.** Petit signe avant notre intellge ; pour est possible, sans développement garanti dans cette séquence non déchiffrée ; **intellge** *intelligence*.
+- *l. 11* : **11** **délicieust** *délicieusement*.
+- *l. 14* : **14** **j’à** *jusqu’à*.
+- *l. 17* : **17** **bp** *beaucoup*.
+- *l. 19* : **19** **[illis.]** Désignation du compagnon de chambre non établie ; aucun grade n’est restitué sûrement ; **office** *angl.* bureau.
+- *l. 20* : **20** **offs** *officiers* ; **mess** *angl.* table commune des officiers ; popote ; **Invité** mot souligné dans le manuscrit.
+- *l. 21* : **21** **Tip** *angl.* pourboire ; **groom** *angl.* ordonnance ; soldat chargé du service personnel.
+- *l. 22* : **22** **Food** *angl.* nourriture ; **St** *Saint*.
 
 * * *
 
-**l.~6--8 :** La réflexion sur l'État, les corps, l'intelligence et le cœur comporte une séquence abrégée non déchiffrée après L'Etat ; *non content* n'est pas établi graphiquement. **l.~19 :** Le désignant du compagnon de chambre est incertain ; ni s-off. ni N.C.O. ne sont imprimés comme certains. Food et Tip sont conservés. À la l. 14, Pluie nous a trempé se lit au recadrage natif : nous a remplace l’ancienne proposition [ne?]cesse. L’accord trempé est conservé. Les deux groupes des réflexions amères et le nom de l’occupant restent non établis.
+Les deux groupes non déchiffrés des réflexions sur l’État restent distincts ; le petit p. avant notre intellge ne reçoit pas un développement certain. La ligne Pluie nous a trempé j’à la peau conserve la graphie trempé sans correction d’accord. La désignation du compagnon de chambre demeure illisible. Invité est souligné ; Tip et Food ouvrent les postes de dépenses au bas de la page.
 
 > La page complète le 25 août : musique d’harmonica, réflexions amères et arrivée à Marquay. La comparaison avec la lettre confidentielle du 16 juin peut éclairer la lassitude, mais les groupes non déchiffrés ne sont pas complétés avec les mots de la lettre. Pluie nous a trempé est conservé avec son accord autographe.
 
@@ -1324,6 +1417,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Dernier mot torture ; nom de route laissé blanc/pointillé..
+
+- **Apparat révisé intégralement sur l'image** : 6 entrées contrôlées.
+- **Réserves de l'apparat** : développement de l. après horizon; mot final torture.
 
 ```text
  1 | Sam. 26 –          Août / 16
@@ -1349,14 +1445,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 21 | tenue, sale, moisie — quelle [torture ?]!
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 3* : **3 1/2** *scil.* demi / moitié.
-- *l. 18* : **18 sunset** *angl. in ms.*
-- *l. 21* : **21** *lect. incert. in ms.*
+- *l. 1* : **1** **Sam.** *samedi*.
+- *l. 17* : **17** **..** points autographes après de : le nom de la route n’est pas renseigné.
+- *l. 18* : **18** **l.** Groupe suspendu après de ; développement non établi ; **sunset** *angl.* coucher de soleil.
+- *l. 19* : **19** **installat°** *installation*.
+- *l. 21* : **21** **[torture ?]** Exclamation proposée, sans personnage identifiable dans ce groupe.
 
 * * *
 
-**l.~17 et 19--21 :** La route décrite avant dîner reste sans nom, notée par des points. Le dernier bloc porte *maison très mal / tenue, sale, moisie — quelle torture!*, non un portrait de vieille tortue. La graphie de torture reste proposée ; ne pas reconstruire un personnage à partir de cette exclamation.
+Les points après la route de laissent le toponyme non renseigné ; ils ne sont pas une lacune du papier. Le petit groupe l. après l’horizon de reste sans développement établi. Installat° est une contraction d’installation. Torture est proposé à la fin de l’exclamation sur la mauvaise installation, sans le transformer en description d’une personne.
 
 > Bailleul-aux-Cornailles et Marquay sont nommés ; 2 ou 3 kilomètres est la distance rapportée. Les conditions du logement et la coqueluche appartiennent au témoignage, sans diagnostic de l’état sanitaire de toute la commune.
 
@@ -1369,6 +1466,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Fin basse de la nouvelle grecque et clôture de parenthèse..
+
+- **Apparat révisé intégralement sur l'image** : 8 entrées contrôlées.
+- **Réserves de l'apparat** : dernière ligne avant grecque; grecque; finale etc..
 
 ```text
  1 | 28 Lundi.          Août 1916
@@ -1397,14 +1497,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 24 | [illis.] grecque [?] etc. [?]
 ```
 
-- *l. 8* : **8 green** *angl. in ms.*
-- *l. 13* : **13 ds** *abbr. pro* dans.
-- *l. 15* : **15 j-aux** *abbr. pro* jusqu'aux.
-- *l. 24* : **24 grecque** *lect. incert. in ms.* **24 etc** *lect. incert. in ms.*
+- *l. 8* : **8** **green** *angl.* vert ; l’adjectif anglais qualifie le fourrage à la ligne suivante.
+- *l. 13* : **13** **ds** *dans*.
+- *l. 15* : **15** **j-aux** *jusqu’aux*.
+- *l. 16* : **16** **Ma** *mardi* ; **29 Ma** Un trait horizontal sépare les deux entrées, du 28 et du 29 août.
+- *l. 24* : **24** **[illis.]** Début de la dernière ligne, serrée contre le bord inférieur, non établi ; **grecque [?]** Lecture proposée de l’adjectif, sans restitution certaine de son groupe nominal ; **etc. [?]** Fin proposée, peu distincte au bord du cliché.
 
 * * *
 
-**l.~8--9 et 16--18 :** green fourrage et Curtis sont conservés ; les corvées se distinguent des promenades empêchées par la boue. **Dernières lignes :** La nouvelle concernant la Roumanie est lisible, mais le texte court du bord inférieur n'autorise pas une restitution sans réserve de *comédie grecque etc.*. Aucune biffure dureste n'est ajoutée.
+Green est un adjectif anglais associé au substantif français fourrage, réparti sur la ligne suivante. Le trait horizontal médian sépare le lundi 28 du mardi 29. La dernière ligne, très serrée au bord inférieur, conserve ses réserves : le groupe devant grecque et la finale ne permettent pas une restitution continue certaine. Le texte visible sur la Roumanie ne lève pas cette difficulté graphique.
 
 > La nouvelle roumaine est lisible et située au 29 août par le diariste. La suite relative à la Grèce reste non établie ; le contexte diplomatique ne doit pas fournir la lecture manquante. Les notes agricoles et les corvées restent des observations du cantonnement.
 
@@ -1418,6 +1519,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Clôture absente de la parenthèse descriptive..
 
+- **Apparat révisé intégralement sur l'image** : 2 entrées contrôlées.
+
 ```text
  1 | 30 Me          Août 1916
  2 | Tout le jour, pluie. et rafales
@@ -1430,10 +1533,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | pour faire prendre fourrage vert
 ```
 
+- *l. 1* : **1** **Me** *mercredi*.
+- *l. 4* : **4** **(** parenthèse ouvrante, non refermée dans les lignes visibles suivantes.
 
 * * *
 
-**l.~1 et 4--6 :** Me abrège Mercredi. La parenthèse qui commence avant boqueteau reste ouverte ; ne pas rétablir artificiellement une fermeture. Les pauses et la juxtaposition nominale sont conservées.
+La parenthèse ouverte avant boqueteau se poursuit sur les indications du voisinage, sans fermeture visible. Elle est conservée ouverte ; cette irrégularité de ponctuation n’est pas assimilée à une lacune matérielle. Me en tête signifie mercredi.
 
 > La pluie et le vent n’interrompent pas le service de fourrage. Cette entrée locale ne suffit pas à identifier un événement météorologique couvrant tout l’Artois ni une organisation détaillée des achats.
 
@@ -1446,6 +1551,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Finale de sous-préf ; montantsVaria etDiv. cartes..
+
+- **Apparat révisé intégralement sur l'image** : 25 entrées contrôlées.
+- **Réserves de l'apparat** : petites lettres finales de sous-préf; montant Varia; montant des diverses cartes; fonction du 0.80 ajouté.
 
 ```text
  1 | 31 J. – Enfin, belle journée. –          Aout / 16
@@ -1470,21 +1578,24 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 20 | Cartes ples militaires : 40 c. —          [compte ajouté : 0.80]
 ```
 
-- *l. 1* : **1 J.** *scil.* Jeudi.
-- *l. 3* : **3 j. à** *abbr. pro* jusqu'à. **3 St** *abbr. pro* Saint.
-- *l. 7* : **7 gde** *abbr. pro* grande.
-- *l. 9* : **9** *lect. incert. in ms.* **9 habts** *abbr. pro* habitants.
-- *l. 10* : **10 gde** *abbr. pro* grande.
-- *l. 13* : **13 s/** *abbr. pro* sur.
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 17* : **17 bp** *abbr. pro* beaucoup.
-- *l. 18* : **18** *lect. incert. in ms.* **18 ctes ples** *abbr. pro* cartes postales.
-- *l. 19* : **19** *lect. incert. in ms.* **19 cartes ples** *abbr. pro* cartes postales.
-- *l. 20* : **20** *lect. incert. in ms.* **20 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **J.** *jeudi*.
+- *l. 2* : **2** **transformt** *transformant*.
+- *l. 3* : **3** **j.à** *jusqu’à* ; **St** *Saint*.
+- *l. 6* : **6** **St.** *Saint* ; **s-Ternoise** *sur-Ternoise*.
+- *l. 7* : **7** **gde** *grande* ; **St.** *Saint*.
+- *l. 9* : **9** **sous-préf[re ?]** Sous-préfecture est le développement probable ; petites lettres finales en hauteur non entièrement résolues ; **habts** *habitants*.
+- *l. 10* : **10** **gde** *grande*.
+- *l. 13* : **13** **s/** *sur*.
+- *l. 14* : **14** **bienh** *bienheureux*.
+- *l. 15* : **15** **ds** *dans* ; **=** même, dans cette même église.
+- *l. 17* : **17** **bp** *beaucoup*.
+- *l. 18* : **18** **ctes ples** *cartes postales* ; **Varia** *lat.* divers ; petites dépenses ; **[10/40 ?]** Montant réservé ; les deux chiffres proposés restent en concurrence.
+- *l. 19* : **19** **départt** *département* ; **Div.** *diverses, devant cartes postales* ; **ples** *postales* ; **[50 ?]** Montant proposé, avec réserve.
+- *l. 20* : **20** **ples** *postales* ; **0.80** Chiffres portés sous le poste précédent à droite ; leur statut de correction ou de résultat comptable n’est pas établi.
 
 * * *
 
-À la l. 9, le petit groupe en hauteur appartient vraisemblablement à la contraction sous-préf[re?]. La suite se lit de 5000 habts ; l’ancienne restitution de [4 à ?] 5000 ajoutait un intervalle de population sans groupe distinct assuré. La date 1697 est conservée après contrôle natif. Les montants Varia et Div. cartes restent réservés.
+Les petites lettres en hauteur de sous-préf[re ?] appartiennent probablement à la contraction de sous-préfecture ; la suite est de 5000 habts, sans intervalle de population supplémentaire. Le signe = signifie même devant église. Bienh se développe bienheureux et Div., diverses devant cartes. La date 1697 reste conservée. Les montants Varia et Div. cartes sont réservés ; 0.80 est inscrit au-dessous à droite, sans fonction arithmétique certaine.
 
 > L’itinéraire nomme Ramecourt, Saint-Michel-sur-Ternoise, Saint-Pol et Ostreville. 1697 et 1767 sont rapportés par Combes au sujet de l’église et de Benoît Labre. La référence patrimoniale PA00108426 proposée parallèlement concerne l’hôtel de ville de Saint-Venant, pas cette église : elle ne doit pas la corroborer. Source de contrôle : https://pop.culture.gouv.fr/notice/merimee/PA00108426 .
 
@@ -1497,6 +1608,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Bon/où devant s’arrêter ; détail des caractères suscrits..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
+- **Réserves de l'apparat** : groupe ouvrant la réflexion après Air doux.
 
 ```text
  1 | 1er V.          Septbre 1916
@@ -1521,15 +1635,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 20 | Espoir départ prochain, lundi
 ```
 
-- *l. 1* : **1 1er** *scil.* premier.
-- *l. 3* : **3 qq** *abbr. pro* quelque(s).
-- *l. 9* : **9 St** *abbr. pro* Saint.
-- *l. 16* : **16** *lect. incert. in ms.*
-- *l. 17* : **17** *in marg. cum unco* (comptes). **17 headcook** *angl. in ms.*
+- *l. 1* : **1** **V.** *vendredi* ; **Septbre** *septembre*.
+- *l. 3* : **3** **qq** *quelques*.
+- *l. 6* : **6** **2 kil 5** *deux kilomètres et demi*.
+- *l. 9* : **9** **St Fl.** *Saint-Flochel*.
+- *l. 10* : **10** **s.** *siècle*.
+- *l. 11* : **11** **b.** *belles, devant pierres*.
+- *l. 16* : **16** **[Bon/où ?]** Premier groupe de la réflexion finale non établi.
+- *l. 17* : **17** **Tip** *angl.* pourboire ; **headcook** *angl.* chef cuisinier ; **[ Tip** Crochet ouvrant autographe à gauche de ce poste isolé, entre le récit de promenade et la réflexion finale.
 
 * * *
 
-**Collation de la photographie :** Les rayons de soleil, la route en pente et Tout autour cimetière sont conservés, ainsi que Espoir départ prochain, lundi. Le mot ouvrant la réflexion après Air doux reste ambigu.
+2 kil 5 note deux kilomètres et demi. Les formes St Fl., s. et b. se développent Saint-Flochel, siècle et belles dans leurs contextes respectifs. Le groupe ouvrant la réflexion sur s’arrêter reste incertain. Un crochet ouvrant autographe à gauche isole le pourboire au headcook ; il ne s’agit pas d’un compte ajouté dans une marge latérale.
 
 > Le rapprochement du clocher avec Saint-Flochel est soutenu par la localisation écrite et la notice POP PA00108332, qui donne des campagnes aux XVe–XVIe siècles et un classement du clocher en 1930. La datation XIIIe appartient au carnet ; elle n’est pas corrigée dans le texte. Le but tactique des manœuvres observées n’est pas donné. Source : https://pop.culture.gouv.fr/notice/merimee/PA00108332 .
 
@@ -1542,6 +1659,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Groupe après Terre friable ; surcharge avant orage..
+
+- **Apparat révisé intégralement sur l'image** : 23 entrées contrôlées.
+- **Réserves de l'apparat** : parenthèse après Terre friable; groupe avant orage.
 
 ```text
  1 | 2 S.          Septbre 16
@@ -1567,20 +1687,23 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 21 | Rentré avant pluie —
 ```
 
-- *l. 2* : **2 ds** *abbr. pro* dans.
-- *l. 4* : **4** *lect. incert. in ms.* **4 j'à** *abbr. pro* jusqu'à.
-- *l. 9* : **9 entiert** *abbr. pro* entièrement.
-- *l. 10* : **10** *in marg. cum unco* (comptes). **10 Washing** *angl. in ms.*
-- *l. 12* : **12 Dim.** *scil.* Dimanche.
-- *l. 13* : **13 j-à** *abbr. pro* jusqu'à. **13 St** *abbr. pro* Saint.
-- *l. 14* : **14 gd** *abbr. pro* grand.
-- *l. 17* : **17 lgt** *abbr. pro* longtemps. **17 St** *abbr. pro* Saint.
-- *l. 18* : **18 plusies** *abbr. pro* plusieurs.
-- *l. 20* : **20** *lect. incert. in ms.*
+- *l. 1* : **1** **S.** *samedi* ; **Septbre** *septembre*.
+- *l. 2* : **2** **ds** *dans*.
+- *l. 3* : **3** **eau** Petit complément placé à l’extrême droite, au-dessus de la suite arrive j’à la peau.
+- *l. 4* : **4** **j'à** *jusqu’à* ; **[boueuse ?]** Lecture proposée du groupe parenthétique après Terre friable.
+- *l. 9* : **9** **entiert** *entièrement*.
+- *l. 10* : **10** **Washing** *angl.* lavage du linge ; **Varia** *lat.* divers ; petites dépenses ; **Washing** Un petit crochet ouvrant autographe à gauche groupe le compte et la liste de linge.
+- *l. 11* : **11** **shirt** *angl.* chemise ; **vest** *angl.* gilet de corps ; **p.** *paire, devant socks* ; **socks** *angl.* chaussettes ; **handk** *handkerchief : mouchoir*.
+- *l. 12* : **12** **Dim.** *dimanche*.
+- *l. 13* : **13** **j-à** *jusqu’à* ; **St** *Saint*.
+- *l. 14* : **14** **gd** *grand*.
+- *l. 17* : **17** **St** *Saint* ; **lgt** *longtemps*.
+- *l. 18* : **18** **plusies** *plusieurs*.
+- *l. 20* : **20** **[mot surchargé]** Petit groupe fortement encré avant orage ; aucune biffure autonome ni leçon continue certaine n’est établie.
 
 * * *
 
-**Collation de la photographie :** Le complément eau à droite et les mots aux semelles sont conservés. La surcharge avant orage ne suffit pas à certifier une biffure ; la fin de la ligne Terre friable reste réservée.
+Le complément eau est placé tout à droite au-dessus de la suite arrive j’à la peau. La parenthèse après Terre friable conserve la proposition boueuse avec réserve. Le petit crochet ouvrant à gauche des dépenses groupe Washing et la liste du linge ; les mots shirt, vest, socks et handk désignent chemise, gilet de corps, chaussettes et mouchoir. Le groupe avant orage reste non établi, sans biffure autonome assurée.
 
 > Deux journées au cantonnement ; la sortie dominicale à Saint-Pol se prolonge dans les notes et comptes de la vue 036. Cette continuité éclaire le décalage de l’ordre photographique sans imposer une foliation matérielle.
 
@@ -1593,6 +1716,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Ponctuation et degré d’abréviation de confirmation..
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
 
 ```text
  1 | 4 L          Sept 1916
@@ -1619,17 +1744,18 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 22 | 78 f 75c
 ```
 
-- *l. 6* : **6 ts** *abbr. pro* tous.
-- *l. 7* : **7 Ts** *abbr. pro* Tous.
-- *l. 9* : **9 ns** *abbr. pro* nous.
-- *l. 11* : **11 Ma.** *scil.* Mardi.
-- *l. 12* : **12 pr** *abbr. pro* pour. **12 N.C.O.** *angl.* Non-Commissioned Officer.
-- *l. 13* : **13 confirmaton** *abbr. pro* confirmation.
-- *l. 21* : **21 Fr.se** *abbr. pro* Française.
+- *l. 1* : **1** **L** *lundi* ; **Sept** *septembre*.
+- *l. 6* : **6** **ts** *tous*.
+- *l. 7* : **7** **Ts** *Tous*.
+- *l. 9* : **9** **ns** *nous*.
+- *l. 11* : **11** **Ma.** *mardi* ; **orderly** *angl.* de service, devant N.C.O. : sous-officier de service ; **5 Ma.** Un trait horizontal sépare les entrées du lundi 4 et du mardi 5.
+- *l. 12* : **12** **N.C.O.** *Non-Commissioned Officer : sous-officier* ; **pr** *pour*.
+- *l. 13* : **13** **confirmaton** *confirmation*.
+- *l. 21* : **21** **Fr.se** *française*.
 
 * * *
 
-**Collation de la photographie :** Le corps N. C. O. que départ retardé et le paragraphe inférieur de Roellecourt sont conservés. Les 22 lignes et le compte final sont confrontés à la photo.
+Le trait horizontal médian sépare les deux journées. Orderly qualifie N.C.O. : il s’agit d’un sous-officier de service, sans que le mot anglais établisse une ordonnance personnelle. Confirmaton et Fr.se sont les contractions de confirmation et française. La recette finale de solde et indemnité est écrite sous le dernier paragraphe, au bas de la page.
 
 > Le retard annoncé par un orderly N.C.O. est une nouvelle reçue ; le départ effectif est décrit le 9 septembre à la vue 039. 78 f 75 est consigné comme solde et indemnité. Le calcul 15 jours à 5 f 25 n’est pas écrit et ne suffit pas à établir un tarif personnel.
 
@@ -1643,6 +1769,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Montant du compte après 30 c..
 
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
+- **Réserves de l'apparat** : supplément chiffré après 30 c.
+
 ```text
  1 | 3 D.          Septbre /16
  2 | Champs d'avoine non encore
@@ -1655,15 +1784,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  9 | 1 éponge : 60 c. – – 1/4 livre choc Poulain : 1f
 ```
 
-- *l. 1* : **1 D.** *scil.* Dimanche.
-- *l. 6* : **6** *lect. incert. in ms.* **6 ctes ples** *abbr. pro* cartes postales.
-- *l. 7* : **7 c.** *abbr. pro* centimes.
-- *l. 8* : **8 saddle soap** *angl. in ms.*
-- *l. 9* : **9 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **D.** *dimanche* ; **Septbre** *septembre*.
+- *l. 3* : **3** **qui** Pronom relatif confirmé au cliché : corps bref et descendante de q ; maintenu dans le texte.
+- *l. 6* : **6** **ctes ples** *cartes postales* ; **[2 f / 25 c ?]** Supplément chiffré proposé, non résolu avec certitude ; **A Saint-Pol** Un trait horizontal sépare le bref récit supérieur du compte écrit tout au bas de la page.
+- *l. 7* : **7** **dépt** *département* ; **Géog.** *géographie ; désignation ou titre abrégé*.
+- *l. 8* : **8** **saddle soap** *angl.* savon pour l’entretien du cuir de sellerie ; **Varia** *lat.* divers ; petites dépenses.
+- *l. 9* : **9** **choc** *chocolat*.
 
 * * *
 
-Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descente du q, comparables aux relatives des vues 002 et 028. L’ellipse bruissaient monotone est conservée ; elle ne justifie aucune correction grammaticale. Les chiffres du compte au bas restent partiellement réservés.
+Qui est un pronom relatif, non une séquence à supprimer : son q bref possède une descendante. Bruissaient monotone garde sa construction adverbiale, sans correction grammaticale. La date du dimanche 3 rattache cette page à la journée de la vue 034, avant les entrées des 4 et 5 de la vue 035 dans l’ordre chronologique. Le compte inférieur est séparé par un trait ; son supplément après 30 c reste réservé.
 
 > La carte du département de la Somme et la géographie du Pas-de-Calais sont des achats écrits. Leur rapprochement avec le déplacement ultérieur est possible, mais l’achat seul ne démontre pas que Combes connaît déjà une destination opérationnelle. Saddle soap appartient au vocabulaire de l’entretien du cuir.
 
@@ -1676,6 +1806,9 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Bain de grand air ;1/2 longue(s)heure(s) ; ifs/arbres ; suppression inférieure..
+
+- **Apparat révisé intégralement sur l'image** : 29 entrées contrôlées.
+- **Réserves de l'apparat** : mot proposé Bain; durée à Saint-Pol; arbres du cimetière; leçon sous la biffure finale.
 
 ```text
  1 | 6 Me Enfin, beau temps. –          Septbre 1916
@@ -1706,24 +1839,27 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 26 |          Consommations : 50 c ]
 ```
 
-- *l. 4* : **4** *lect. incert. in ms.* **4 gd** *abbr. pro* grand.
-- *l. 5* : **5 Lt** *abbr. pro* Lieutenant. **5 Ctis** *abbr. pro* Curtis.
-- *l. 7* : **7 Mme** *abbr. pro* Madame. **7 propre** *abbr. pro* propriétaire.
-- *l. 8* : **8 admirabt** *abbr. pro* admirablement.
-- *l. 9* : **9 ds** *abbr. pro* dans. **9 tjs** *abbr. pro* toujours.
-- *l. 12* : **12 déjeun.** *abbr. pro* déjeuné / déjeuner.
-- *l. 13* : **13 ds** *abbr. pro* dans.
-- *l. 14* : **14 ds** *abbr. pro* dans.
-- *l. 17* : **17** *lect. incert. in ms.* **17 ds** *abbr. pro* dans.
-- *l. 18* : **18 St** *abbr. pro* Saint.
-- *l. 19* : **19 gde** *abbr. pro* grande.
-- *l. 21* : **21** *lect. incert. in ms.* **21 ds** *abbr. pro* dans.
-- *l. 22* : **22 1/2** *scil.* demi / moitié.
-- *l. 25* : **25** *lect. incert. in ms.* **25** *in marg. cum unco* (comptes).
+- *l. 1* : **1** **Me** *mercredi* ; **Septbre** *septembre*.
+- *l. 4* : **4** **[Bain ?]** Mot proposé avant de gd air, sans certitude ; **gd** *grand*.
+- *l. 5* : **5** **Lt** *lieutenant* ; **Ctis** *Curtis, patronyme contracté*.
+- *l. 7* : **7** **propre** *propriétaire, devant Mme Vauchel* ; **Mme** *Madame*.
+- *l. 8* : **8** **admirabt** *admirablement*.
+- *l. 9* : **9** **tjs** *toujours* ; **ds** *dans*.
+- *l. 11* : **11** **J** *jeudi* ; **b.** *belle*.
+- *l. 12* : **12** **déjeun** *déjeuner, substantif après après-*.
+- *l. 13* : **13** **ds** *dans*.
+- *l. 14* : **14** **ds** *dans*.
+- *l. 17* : **17** **[1/2 ?] longue[s?] heure[s?]** Durée et marques de nombre non résolues ; aucune quantité certaine n’est imposée ; **ds** *dans*.
+- *l. 18* : **18** **St** *Saint*.
+- *l. 19* : **19** **gde** *grande*.
+- *l. 20* : **20** **St.** *Saint*.
+- *l. 21* : **21** **ds** *dans* ; **[ifs/arbres ?]** Désignation des arbres du cimetière non assurée ; **tt** *tout*.
+- *l. 22* : **22** **1/2** milieu, dans au milieu s’élève l’église.
+- *l. 25* : **25** **[groupe biffé illis.]** Groupe annulé au bas à gauche, sans leçon sous-jacente restituable ; **Ctes ples** *cartes postales* ; **Hair cut** *angl.* coupe de cheveux ; **Ctes ples** Compte placé au bas à droite avec un petit crochet ouvrant à sa gauche, distinct du groupe biffé.
 
 * * *
 
-**Collation de la photographie :** L’heure A 6 H s., Marché et ou au sont conservés contre les suppressions anciennes. La durée à Saint-Pol et le type d’arbres du cimetière restent réservés.
+Les journées du 6 et du 7 sont séparées par un trait horizontal. Le mot avant de gd air, la durée de la halte et les arbres du cimetière restent réservés. Propre désigne ici la propriétaire, Mme Vauchel. Au 1/2 signifie au milieu et ne peut être glosé demi / moitié. Le bas de page associe un groupe biffé à gauche et des dépenses groupées par un petit crochet ouvrant à droite ; aucune leçon continue sous la biffure n’est proposée.
 
 > Visite de Curtis et de Mme Vauchel, puis promenade par Saint-Pol et Saint-Michel-sur-Ternoise. Les dates de construction d’un clocher et l’espèce des arbres ne doivent pas résoudre un groupe réservé du manuscrit. La notation au 1/2 s’élève l’église peut se comprendre au milieu selon la construction locale.
 
@@ -1736,6 +1872,8 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Nom du petit chemin Ryonval et forme de la contraction de délicieusement..
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
 
 ```text
  1 | 8 Ve.          Septbre /16
@@ -1752,18 +1890,18 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 12 | — Box of tooth powder : 60 c
 ```
 
-- *l. 1* : **1 Ve.** *scil.* Vendredi.
-- *l. 3* : **3 inutilt** *abbr. pro* inutilement.
-- *l. 4* : **4 green** *angl. in ms.*
-- *l. 5* : **5 lgt** *abbr. pro* longtemps.
-- *l. 6* : **6 ds** *abbr. pro* dans.
-- *l. 10* : **10 ds** *abbr. pro* dans.
-- *l. 11* : **11 délict** *abbr. pro* délicieusement.
-- *l. 12* : **12 tooth powder** *angl. in ms.*
+- *l. 1* : **1** **Ve.** *vendredi* ; **Septbre** *septembre*.
+- *l. 3* : **3** **inutilt** *inutilement*.
+- *l. 4* : **4** **for green forage** *angl.* pour du fourrage vert.
+- *l. 5* : **5** **lgt** *longtemps*.
+- *l. 6* : **6** **ds** *dans*.
+- *l. 10* : **10** **ds** *dans*.
+- *l. 11* : **11** **délict** *délicieusement, dans Joui du silence de la nuit*.
+- *l. 12* : **12** **Box of tooth powder** *angl.* boîte de poudre dentifrice ; **— Box** Dépense isolée tout au bas de la page, précédée d’un court trait.
 
 * * *
 
-**Collation de la photographie :** La photographie ne montre pas Silence après superbe. Dû attendre n’est pas doublé sur la ligne précédente.
+Inutilt et délict sont des contractions adverbiales : inutilement et, dans ce contexte, délicieusement. For green forage est un groupe anglais complet. Le dernier poste est une boîte de poudre dentifrice, isolée au bas de la page après un grand blanc. Aucun mot Silence n’est écrit après superbe ; silence apparaît dans la phrase Joui délict du silence nuit.
 
 > Bedfords est une désignation de régiment. Un rattachement au 7e Bataillon et à la 54e Brigade serait un rapprochement d’ordre de bataille, pas un numéro écrit dans cette entrée. Le chemin de Ryonval et la ferme Collet demeurent des repères du diariste, sans direction cardinale ajoutée.
 
@@ -1776,6 +1914,9 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Groupe avant de poussière ; entrée du village ; nom de Connelly..
+
+- **Apparat révisé intégralement sur l'image** : 21 entrées contrôlées.
+- **Réserves de l'apparat** : quantité de poussière; finale routes; entrée du village; patronyme du groom.
 
 ```text
  1 | Sam. 9.          Sept / 16
@@ -1804,21 +1945,22 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 24 | & 1 tip au groom [Connelly ?] —
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 3* : **3 ns** *abbr. pro* nous.
-- *l. 6* : **6 St** *abbr. pro* Saint.
-- *l. 10* : **10 tt** *abbr. pro* tout.
-- *l. 11* : **11** *lect. incert. in ms.*
-- *l. 12* : **12 1ère** *scil.* première. **12 s.** *abbr. pro* soir.
-- *l. 14* : **14** *lect. incert. in ms.* **14 ds** *abbr. pro* dans.
-- *l. 18* : **18 s/** *abbr. pro* sur.
-- *l. 19* : **19 offs** *abbr. pro* officiers. **19 Cap.** *abbr. pro* Capitaine.
-- *l. 21* : **21 ds** *abbr. pro* dans.
-- *l. 24* : **24** *lect. incert. in ms.* **24 groom** *angl. in ms.*
+- *l. 1* : **1** **Sam.** *samedi* ; **Sept** *septembre*.
+- *l. 3* : **3** **ns** *nous*.
+- *l. 6* : **6** **St** *Saint*.
+- *l. 7* : **7** **trench mortar** *angl.* mortier de tranchée ; school à la ligne suivante complète « école de mortiers de tranchée ».
+- *l. 10* : **10** **tt** *tout ; notation elliptique tt fait beau*.
+- *l. 11* : **11** **[Peu/Flots ?]** Quantité de poussière non établie ; **route[s?]** Marque finale du pluriel réservée.
+- *l. 14* : **14** **ds** *dans* ; **gde** *grande* ; **[entrée ?]** Lecture proposée du lieu de la ferme par rapport au village.
+- *l. 18* : **18** **s/** *sur*.
+- *l. 19* : **19** **Cap.** *capitaine* ; **messer** *hybr.* prendre ses repas au mess ; verbe francisé formé sur le nom anglais mess ; **av.** *avec* ; **offs** *officiers*.
+- *l. 21* : **21** **ds** *dans*.
+- *l. 23* : **23** **M.** *Monsieur*.
+- *l. 24* : **24** **tip** *angl.* pourboire ; **groom** *angl.* ordonnance ; soldat chargé du service personnel ; **[Connelly ?]** Patronyme proposé au bord inférieur du cliché.
 
 * * *
 
-**Collation de la photographie :** Trois brigades et la laiterie sont mieux appuyés que les anciennes leçons. La quantité de poussière et le nom du groom au bord inférieur restent réservés.
+Trench mortar school est une désignation anglaise répartie sur deux lignes, école de mortiers de tranchée. Messer est un verbe francisé, formé sur mess ; il ne s’agit pas d’un infinitif anglais. La quantité de poussière, la finale de routes, entrée et le patronyme du groom restent réservés. La dépense donnée à M. Dupuich est distincte du tip suivant, dont le texte ne donne pas ici un montant développé.
 
 > Trois brigades défilent avant le groupe de Combes ; le carnet ne les numérote pas. Trench mortar school désigne une école de mortiers de tranchée. West invite l’interprète au mess à l’étape de Monts-en-Ternois ; le carnet ne précise pas ici sa compagnie, mais Nichols (1922, p. 110, 432) atteste le Capt. E. M. West, A.S.C. (M.C.) à la tête de la 152nd Co., A.S.C. du 18th Divisional Train à Thiepval.
 
@@ -1831,6 +1973,9 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Exposant s de l’heure d’arrivée ; localisation matérielle du hameau..
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
+- **Réserves de l'apparat** : signe après 1 H.
 
 ```text
  1 | Dim. 10.          Septbre 16
@@ -1853,18 +1998,18 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 18 | Couché tôt
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 2* : **2 s/** *abbr. pro* sur.
-- *l. 5* : **5 m.** *abbr. pro* matin.
-- *l. 9* : **9** *lect. incert. in ms.*
-- *l. 11* : **11 tt** *abbr. pro* tout.
-- *l. 12* : **12 Ptit** *abbr. pro* Petit.
-- *l. 14* : **14 mess** *angl. in ms.*
-- *l. 17* : **17 off** *abbr. pro* officier(s). **17 mess** *angl. in ms.*
+- *l. 1* : **1** **Dim.** *dimanche* ; **Septbre** *septembre*.
+- *l. 2* : **2** **s/** *sur*.
+- *l. 9* : **9** **[s. ?]** Signe après 1 H non assuré ; ni soir ni une demi-heure ne sont imposés.
+- *l. 11* : **11** **tt** *tout*.
+- *l. 12* : **12** **b.** *belle* ; **Ptit** *Petit*.
+- *l. 14* : **14** **mess** *angl.* lieu des repas pris en commun par les officiers.
+- *l. 16* : **16** **on duty** *angl.* en service ; **chz** *chez*.
+- *l. 17* : **17** **mess** *angl.* table commune des officiers ; popote ; **off** *officiers, dans mess des officiers*.
 
 * * *
 
-**Collation de la photographie :** Le signe après H ne permet pas de certifier½. On duty est lisible à la ligne de Beaudricourt, non au château.
+Le signe après 1 H reste réservé : sa forme ne permet de certifier ni une fraction ni l’indication du soir. B. signifie belle devant vue et Ptit, petit. On duty est écrit à la ligne de Beaudricourt, avec chz le maire ; la locution indique qu’il s’y rend en service. Off dans mess off désigne les officiers.
 
 > Le rapprochement d’Oppy avec le hameau ancien de Beaudricourt est fortement soutenu par la visite à pied chez le maire le même soir et par les Archives du Pas-de-Calais, qui attestent l’absorption de ce hameau vers 1790. Cela résout mieux l’itinéraire que la commune d’Oppy près d’Arras ; la situation de six maisons reste l’observation du carnet. Source : https://www.archivespasdecalais.fr/Recherche-par-commune/Lettre-B/Beaudricourt .
 
@@ -1877,6 +2022,8 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Oppy non localisé avec certitude ; prénom ou statut de Connelly non établi..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
 
 ```text
  1 | Lundi 11 — Sur pied, dès 5 H —          Septbre /16
@@ -1904,16 +2051,17 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 23 | 1 litre bière : 50 + 10 c –
 ```
 
-- *l. 7* : **7 m.** *abbr. pro* matin.
-- *l. 15* : **15 tommies** *angl. in ms.*
-- *l. 19* : **19 tjs** *abbr. pro* toujours. **19 off** *abbr. pro* officier(s).
-- *l. 20* : **20** *in marg. cum unco* (comptes). **20 groom** *angl. in ms.*
-- *l. 21* : **21 c.** *abbr. pro* centimes.
-- *l. 22* : **22 cartes ples** *abbr. pro* cartes postales.
+- *l. 1* : **1** **Septbre** *septembre*.
+- *l. 6* : **6** **Aujd’hui** *Aujourd’hui*.
+- *l. 12* : **12** **des postes** Complément placé sous la mention Edit de Louis XI. 1464, à droite.
+- *l. 15* : **15** **tommies** *angl.* soldats britanniques, désignation familière.
+- *l. 19* : **19** **tjs** *toujours* ; **mess** *angl.* table commune des officiers ; popote ; **off** *officiers, dans mess des officiers*.
+- *l. 20* : **20** **Tip** *angl.* pourboire ; **groom** *angl.* ordonnance ; soldat chargé du service personnel ; **Tip** Un crochet ouvrant autographe à gauche groupe les dépenses inférieures, après un grand blanc.
+- *l. 22* : **22** **ples** *postales*.
 
 * * *
 
-**Collation de la photographie :** Chevauché matinée entière ne doit pas être remplacé par une phrase sur la pluie. La mention des troupes cantonnées est conservée, sans répétition fourmillant.
+Des postes est placé sous la mention Edit de Louis XI. 1464, en complément à droite. La contraction Aujd’hui signifie aujourd’hui. Les dépenses inférieures sont groupées par un crochet ouvrant autographe à gauche, sans être une annotation en marge latérale. Les ellipses des déplacements et la mention des troupes cantonnées sont conservées sans répétition ajoutée.
 
 > Lucheux, Thièvres et Raincheval jalonnent la journée. L’édit postal de Louis XI relève d’une tradition rapportée. Joseph Calmette rappelle son caractère apocryphe dans son compte rendu de 1941, p. 240, renvoyant aux travaux de Zeller et Gandilhon de 1937–1938. Source : https://www.persee.fr/doc/bec_0373-6237_1941_num_102_1_460369_t1_0239_0000_000?pageId=T1_240 .
 
@@ -1926,6 +2074,9 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : ai accepté/dû accepter ; contraction excellente..
+
+- **Apparat révisé intégralement sur l'image** : 18 entrées contrôlées.
+- **Réserves de l'apparat** : groupe de l’acceptation.
 
 ```text
  1 | 12 mardi.          Sept / 16
@@ -1953,20 +2104,25 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 23 | Tout le jour, pr 1ère fois, mess des offs
 ```
 
-- *l. 2* : **2 excte** *abbr. pro* excellente.
-- *l. 3* : **3 ds** *abbr. pro* dans.
-- *l. 4* : **4 Cap.** *abbr. pro* Capitaine.
-- *l. 5* : **5 mess** *angl. in ms.*
-- *l. 6* : **6** *lect. incert. in ms.*
-- *l. 7* : **7 off** *abbr. pro* officier(s). **7 mess** *angl. in ms.*
-- *l. 14* : **14 green** *angl. in ms.*
-- *l. 18* : **18 lunch** *angl. in ms.*
-- *l. 22* : **22 green** *angl. in ms.*
-- *l. 23* : **23 pr** *abbr. pro* pour. **23 offs** *abbr. pro* officiers.
+- *l. 1* : **1** **Sept** *septembre*.
+- *l. 2* : **2** **excte** *excellente*.
+- *l. 3* : **3** **ds** *dans*.
+- *l. 4* : **4** **Cap.** *capitaine*.
+- *l. 5* : **5** **mess** *angl.* table commune des officiers ; popote.
+- *l. 6* : **6** **[ai accepté / dû accepter ?]** Groupe de l’acceptation non résolu avec certitude.
+- *l. 7* : **7** **mess** *angl.* table commune des officiers ; popote ; **off** *officiers*.
+- *l. 12* : **12** **Matin & après-midi** Mention du fourrage inscrite dans un bloc resserré à droite du récit, juste au-dessus du trait séparant les journées.
+- *l. 13* : **13** **for** *angl.* pour du fourrage vert ; green forage continue à la ligne suivante.
+- *l. 15* : **15** **Me** *mercredi*.
+- *l. 17* : **17** **g.** *gauche*.
+- *l. 18* : **18** **lunch** *angl.* déjeuner.
+- *l. 20* : **20** **extré** *extrémité*.
+- *l. 22* : **22** **green forage** *angl.* fourrage vert.
+- *l. 23* : **23** **pr** *pour* ; **mess** *angl.* table commune des officiers ; popote ; **offs** *officiers*.
 
 * * *
 
-**Collation de la photographie :** Angle droit ouvre bien la ligne des allées. Cuisine quelconque et converser anglais sont conservés ; le petit groupe de l’acceptation reste réservé.
+Le petit groupe de l’acceptation conserve ses deux lectures proposées. La mention du travail au fourrage du 12 septembre est portée dans un bloc à droite, avant le trait qui ouvre le 13 ; ce n’est pas une suite en pleine largeur du récit. For green forage est réparti sur deux lignes et revient sous la forme green forage en bas de page. G. et extré se développent gauche et extrémité.
 
 > À Raincheval, l’entrée au mess donne des occasions de conversation et de lecture explicitement nommées. Nichols (1922, p. 110, 432) atteste par ailleurs le Capt. E. M. West, A.S.C. comme commandant la 152nd Co., A.S.C. du 18th Divisional Train ; les avantages décrits ici ne permettent pas de généraliser le statut réglementaire de tous les interprètes.
 
@@ -1979,6 +2135,9 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Lereux ; détails de contraction commt..
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
+- **Réserves de l'apparat** : patronyme Lereux; nombre grammatical d’Exerc. non écrit.
 
 ```text
  1 | 14 J. matin, ciel bleu & soleil          Sept 16
@@ -2003,20 +2162,22 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 20 | Canada in Flanders... 1f 25
 ```
 
-- *l. 1* : **1 J.** *scil.* Jeudi.
-- *l. 3* : **3 lunch** *angl. in ms.*
-- *l. 7* : **7 Lereux** *lect. incert. in ms.*
-- *l. 9* : **9 1er** *scil.* premier.
-- *l. 10* : **10** *in marg. cum unco* (comptes). **10 Ctes ples** *abbr. pro* Cartes postales.
-- *l. 11* : **11 batman** *angl. in ms.*
-- *l. 12* : **12 extt** *abbr. pro* extrêmement.
-- *l. 14* : **14 commt** *abbr. pro* commencement.
-- *l. 16* : **16 canteen** *angl. in ms.*
-- *l. 19* : **19 Canteen** *angl. in ms.*
+- *l. 1* : **1** **J.** *jeudi* ; **Sept** *septembre*.
+- *l. 3* : **3** **lunch** *angl.* déjeuner.
+- *l. 4* : **4** **fr** *française*.
+- *l. 7* : **7** **Lereux [?]** Graphie proposée du patronyme, sans identification civile certaine.
+- *l. 10* : **10** **Ctes ples** *cartes postales* ; **Ctes ples** Crochet ouvrant autographe à gauche du compte, avant le trait séparant l’entrée du 15.
+- *l. 11* : **11** **To a batman for saddling up my poney** *angl.* à une ordonnance pour avoir sellé mon poney.
+- *l. 12* : **12** **Ve** *vendredi* ; **extt** *extrêmement*.
+- *l. 13* : **13** **b.** *belle*.
+- *l. 14* : **14** **commt** *commencement*.
+- *l. 16* : **16** **canteen** *angl.* cantine.
+- *l. 17* : **17** **Exerc.** *exercices, développement probable*.
+- *l. 19* : **19** **Canteen** *angl.* cantine.
 
 * * *
 
-**Collation de la photographie :** La formule Fait route avec remplace la visite inventée. Lereux reste une graphie proposée, sans identification civile.
+Lereux est conservé comme patronyme proposé dans Fait route avec. La phrase anglaise du compte est une indication de rémunération à une ordonnance pour avoir sellé le poney ; sa traduction porte sur toute la formule. Un crochet ouvrant à gauche groupe ces dépenses, puis un trait horizontal sépare les journées. B. signifie belle devant journée et commt, commencement.
 
 > La baraque de la mission à Acheux et la canteen de Raincheval sont des lieux nommés. Canada in Flanders se rapproche du livre de Sir Max Aitken, vol. I publié chez Hodder & Stoughton en janvier 1916 ; l’édition contemporaine conservée donne titre, auteur et date, mais ne prouve pas l’exemplaire acheté. Source : https://www.gutenberg.org/files/46114/46114-h/46114-h.htm . Mines n’est pas remplacé par mortiers dans la transcription.
 
@@ -2029,6 +2190,9 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Groupe du milieu du jour ; intte..
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
+- **Réserves de l'apparat** : groupe devant jour; contraction intte et fonction du personnage.
 
 ```text
  1 | 17 Dim.          Septre 1916
@@ -2052,21 +2216,22 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 19 | — Washing : 1 f. —
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 2* : **2 ds** *abbr. pro* dans. **2 Tjs** *abbr. pro* Toujours.
-- *l. 3* : **3 green** *angl. in ms.*
-- *l. 6* : **6** *lect. incert. in ms.*
-- *l. 7* : **7 pl.** *abbr. pro* plusieurs.
-- *l. 8* : **8 ds** *abbr. pro* dans.
-- *l. 9* : **9 horse-lines** *angl. in ms.*
-- *l. 11* : **11 gds** *abbr. pro* grands.
-- *l. 13* : **13 intte** *lect. incert. in ms.*
-- *l. 18* : **18 ds** *abbr. pro* dans.
-- *l. 19* : **19 f.** *abbr. pro* franc(s). **19 Washing** *angl. in ms.*
+- *l. 1* : **1** **Dim.** *dimanche* ; **Septre** *septembre*.
+- *l. 2* : **2** **Tjs** *Toujours* ; **ds** *dans*.
+- *l. 3* : **3** **green forage** *angl.* fourrage vert.
+- *l. 6* : **6** **[Le/1/2 ?]** Premier groupe devant jour non assuré : le ou une notation fractionnaire restent proposés.
+- *l. 7* : **7** **pl.** *plusieurs, devant fois*.
+- *l. 8* : **8** **ds** *dans*.
+- *l. 9* : **9** **horse-lines** *angl.* emplacement où les chevaux sont attachés en lignes.
+- *l. 11* : **11** **gds** *grands*.
+- *l. 13* : **13** **intte [?]** Contraction proposée ; fonction de la personne rencontrée non établie avec certitude.
+- *l. 17* : **17** **church service** *angl.* culte religieux ; **Wesleyans** *angl.* wesleyens ; méthodistes.
+- *l. 18* : **18** **ds** *dans*.
+- *l. 19* : **19** **Washing** *angl.* lavage du linge.
 
 * * *
 
-**Collation de la photographie :** Church service et Wesleyans sont conservés ; Varennes n’est pas écrit. La fonction du personnage rencontré reste réservée, sans ajouter artiste ou instituteur.
+Les groupes devant jour et après rencontré restent réservés : l’abréviation proposée intte ne reçoit pas une fonction certaine. Pl. devant fois signifie plusieurs. Horse-lines désigne l’emplacement des chevaux ; church service et Wesleyans appartiennent au vocabulaire du culte. Le compte de lavage est isolé dans la dernière ligne, précédé d’un trait.
 
 > Wesleyans renvoie à la tradition méthodiste ; l’office est placé dans une petite salle face àl’église du village. Le texte ne donne ni le nom de cette église ni l’identité du collectionneur, qui restent distincts d’un éventuel rapprochement patrimonial.
 
@@ -2079,6 +2244,9 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Groupe avant divon ; bruit ; mot surchargé du retour ; orthographe Brammas..
+
+- **Apparat révisé intégralement sur l'image** : 21 entrées contrôlées.
+- **Réserves de l'apparat** : groupe avant divon; bruit proposé; mot surchargé du retour.
 
 ```text
  1 | 18 Lundi.          Septbr 1916
@@ -2105,20 +2273,22 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 22 | Tip à Connelly mon groom : 2 f –
 ```
 
-- *l. 4* : **4 frse** *abbr. pro* française.
-- *l. 7* : **7** *lect. incert. in ms.* **7 contrt** *abbr. pro* contrairement.
-- *l. 8* : **8** *lect. incert. in ms.* **8 divon** *abbr. pro* division.
-- *l. 10* : **10** *lect. incert. in ms.*
-- *l. 11* : **11 frse** *abbr. pro* française. **11 divon** *abbr. pro* division.
-- *l. 12* : **12 cie** *abbr. pro* compagnie.
-- *l. 15* : **15 dérangt** *abbr. pro* dérangement.
-- *l. 16* : **16 qq** *abbr. pro* quelque(s). **16 changemt** *abbr. pro* changement.
-- *l. 17* : **17 offs** *abbr. pro* officiers. **17 mess** *angl. in ms.*
-- *l. 22* : **22 groom** *angl. in ms.*
+- *l. 1* : **1** **Septbr** *septembre*.
+- *l. 4* : **4** **frse** *française*.
+- *l. 7* : **7** **[groupe abrégé]** Groupe précédant divon non développé sûrement ; **divon** *division* ; **contrt** *contrairement*.
+- *l. 8* : **8** **[bruit ?]** Lecture proposée du renseignement contredit ; **H.Q.** *Headquarters : quartier général* ; **divon** *division*.
+- *l. 10* : **10** **[mot surchargé]** Mot fortement surchargé avant par Forceville ; lecture et état sous-jacent non établis.
+- *l. 11* : **11** **frse** *française* ; **divon** *division*.
+- *l. 12* : **12** **cie** *compagnie, dans en compagnie de Brammas*.
+- *l. 15* : **15** **dérangt** *dérangement*.
+- *l. 16* : **16** **qq** *quelques* ; **changemt** *changement*.
+- *l. 17* : **17** **mess** *angl.* table commune des officiers ; popote ; **offs** *officiers* ; **(** parenthèse ouvrante non refermée dans le texte visible.
+- *l. 21* : **21** **b.** *bonne, dans de bonne heure*.
+- *l. 22* : **22** **Tip** *angl.* pourboire ; **groom** *angl.* ordonnance ; soldat chargé du service personnel.
 
 * * *
 
-**Collation de la photographie :** Brammas est un nom de compagnon, non une compagnie de brancardiers. Les abréviations précédant divon et la surcharge du retour restent réservées.
+Cie signifie compagnie dans en compagnie de Brammas, complément de personne ; ce n’est pas le nom d’une unité. H.Q. désigne le quartier général de la 18e division. Le groupe précédant divon, le renseignement proposé bruit et le mot surchargé avant Forceville restent non établis. La parenthèse ouverte avant mess d’offs n’a pas de fermeture visible. B. signifie bonne dans de bonne heure.
 
 > Hédauville, Forceville et Acheux sont les repères du trajet sous la pluie. Le maintien du H.Q. de la 18e division est une nouvelle reçue. Le diariste attribue ses troubles au changement de régime ; le commentaire conserve cette attribution sans diagnostic rétrospectif ni identification conjecturale de Brammas.
 
@@ -2131,6 +2301,8 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Ponctuation et unité du montant0.25c..
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
 
 ```text
  1 | 21 J.          Septbre /16
@@ -2148,15 +2320,16 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 13 | — cartes ples : 0.25 c.
 ```
 
-- *l. 1* : **1 J.** *scil.* Jeudi.
-- *l. 2* : **2 Ts** *abbr. pro* Tous.
-- *l. 6* : **6 tjs** *abbr. pro* toujours.
-- *l. 9* : **9 s/** *abbr. pro* sur.
-- *l. 13* : **13 cartes ples** *abbr. pro* cartes postales. **13 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **J.** *jeudi* ; **Septbre** *septembre*.
+- *l. 2* : **2** **Ts** *Tous*.
+- *l. 6* : **6** **tjs** *toujours*.
+- *l. 9* : **9** **fr** *française* ; **s/** *sur*.
+- *l. 12* : **12** **A Acheux** Les deux postes sont placés tout au bas de la page sous un trait horizontal, après un grand blanc.
+- *l. 13* : **13** **ples** *postales* ; **0.25 c.** notation décimale suivie de c conservée telle qu’écrite ; aucune conversion d’unité n’est imposée.
 
 * * *
 
-**Collation de la photographie :** Ornières est conservé contre mares ; le compte 78 f 75 est maintenu.
+Fr à la ligne du bureau qualifie la mission française ; ce n’est pas une unité monétaire. Le compte inférieur est séparé par un trait horizontal et deux postes distincts. La notation 0.25 c est conservée avec son unité écrite, sans conversion silencieuse ; son écriture décimale justifie une note locale malgré les conventions monétaires générales.
 
 > La hutte de la mission sur la pelouse du château d’Acheux et la solde 78 f 75 sont explicitement notées. Une quinzaine réglementaire ne découle pas du seul montant ; l’entrée n’en précise pas la période couverte.
 
@@ -2169,6 +2342,9 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : t./1/2 jour ;25du montant3f25..
+
+- **Apparat révisé intégralement sur l'image** : 17 entrées contrôlées.
+- **Réserves de l'apparat** : groupe avant jour; composition de coffee milk non précisée; petits chiffres du prix.
 
 ```text
  1 | 22 Ve – Enfin, temps splendide Sept / 16
@@ -2191,20 +2367,21 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 18 | Eggs & food : 1 f 10 — ]
 ```
 
-- *l. 2* : **2** *lect. incert. in ms.*
-- *l. 3* : **3 j'à** *abbr. pro* jusqu'à.
-- *l. 6* : **6 s/** *abbr. pro* sur. **6 horse-lines** *angl. in ms.*
-- *l. 9* : **9 Cme** *abbr. pro* Comme. **9 Cap.** *abbr. pro* Capitaine.
-- *l. 10* : **10 moving** *angl. in ms.*
-- *l. 11* : **11 gde** *abbr. pro* grande.
-- *l. 15* : **15 qq** *abbr. pro* quelque(s).
-- *l. 16* : **16** *in marg. cum unco* (comptes). **16 tins** *angl. in ms.*
-- *l. 17* : **17** *lect. incert. in ms.*
-- *l. 18* : **18 food** *angl. in ms.*
+- *l. 1* : **1** **Ve** *vendredi* ; **Sept** *septembre*.
+- *l. 2* : **2** **[t./1/2 ?]** Groupe avant jour non assuré : contraction de tout ou notation fractionnaire possibles.
+- *l. 3* : **3** **j'à** *jusqu’à*.
+- *l. 6* : **6** **s/** *sur* ; **horse-lines** *angl.* emplacement où les chevaux sont attachés en lignes ; **Bedfs** *Bedfords, contraction du nom collectif, sans numéro de bataillon assuré*.
+- *l. 9* : **9** **Cme** *Comme* ; **Cap.** *capitaine*.
+- *l. 10* : **10** **we are moving** *angl.* nous changeons de cantonnement.
+- *l. 11* : **11** **gde** *grande*.
+- *l. 15* : **15** **qq** *quelques* ; **stars** *angl.* étoiles.
+- *l. 16* : **16** **2 tins of coffee milk** *angl.* deux boîtes de coffee milk : lait pour café ou préparation de café au lait ; composition non précisée ; **2 tins** Dépenses placées au bas de la page, précédées d’un trait horizontal à gauche ; les crochets imprimés sont éditoriaux.
+- *l. 17* : **17** **[25 ?]** Petits chiffres du prix proposés, avec réserve.
+- *l. 18* : **18** **Eggs & food** *angl.* œufs et nourriture.
 
 * * *
 
-**Collation de la photographie :** We are moving demain est conservé, sans Dawn ni Méaulte. Le ciel noir comporte des étoiles. Les petites suscrites du compte restent réservées.
+Le groupe avant jour reste réservé entre une contraction de tout et une notation fractionnaire. Bedfs se rapproche du collectif Bedfords, écrit en entier à la vue 038, sans établir un bataillon. We are moving est une phrase anglaise suivie de demain en français ; stars signifie étoiles. Coffee milk ne précise pas la composition du produit. Les dépenses inférieures ont un trait introducteur à gauche, sans crochet autographe démontré ; les petits chiffres du prix restent réservés.
 
 > Le 25 est la date de permission préparée ; moving demain annonce un mouvement de compagnie. Les Bedfs sont nommés près du football, sans numéro de bataillon. La lecture des jours et des comptes reste distincte d’un ordre de bataille.
 
@@ -2217,6 +2394,9 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Matière bâche proposée ; certains accords et nom de la propriétaire..
+
+- **Apparat révisé intégralement sur l'image** : 22 entrées contrôlées.
+- **Réserves de l'apparat** : mot de matière proposé bâche; fin du compte à l’extrême bord inférieur.
 
 ```text
  1 | Sam 23          Sept 16
@@ -2244,20 +2424,26 @@ Lecture comparative : le groupe de la l. 3 se lit qui, avec corps bref et descen
 23 | [ Carte du Petit Journal : 60 c —
 ```
 
-- *l. 3* : **3 ts** *abbr. pro* tous.
-- *l. 8* : **8 ns** *abbr. pro* nous.
-- *l. 11* : **11 refilling point** *angl. in ms.*
-- *l. 12* : **12 j. à** *abbr. pro* jusqu'à.
-- *l. 13* : **13 Cap.** *abbr. pro* Capitaine. **13 1/2** *scil.* demi / moitié.
-- *l. 14* : **14 tte** *abbr. pro* toute. **14 Coy** *angl.* Company.
-- *l. 20* : **20** *lect. incert. in ms.*
-- *l. 21* : **21 cme** *abbr. pro* comme.
-- *l. 22* : **22 Mme** *abbr. pro* Madame. **22 propre** *abbr. pro* propriétaire.
-- *l. 23* : **23** *in marg. cum unco* (comptes).
+- *l. 1* : **1** **Sam** *samedi* ; **Sept** *septembre*.
+- *l. 3* : **3** **ts** *tous*.
+- *l. 4* : **4** **Cap** *capitaine*.
+- *l. 8* : **8** **ns** *nous, suffixe contracté dans arrivions-ns*.
+- *l. 9* : **9** **av.** *avec*.
+- *l. 11* : **11** **refilling point** *angl.* point de recomplètement des approvisionnements.
+- *l. 12* : **12** **j. à** *jusqu’à*.
+- *l. 13* : **13** **Cap.** *capitaine*.
+- *l. 14* : **14** **tte** *toute* ; **Coy** *Company : compagnie*.
+- *l. 15* : **15** **j'au** *jusqu’au*.
+- *l. 17* : **17** **in the open** *angl.* en plein air, sans logement couvert.
+- *l. 19* : **19** **b.** *belle*.
+- *l. 20* : **20** **[bâche ?]** Matière proposée après épaisse, sans certitude suffisante pour lever la réserve.
+- *l. 21* : **21** **cme** *comme* ; **litière** Lecture appuyée par le l haut, le t barré et la finale -ère ; ne résout pas à elle seule le mot de matière précédent.
+- *l. 22* : **22** **Mme** *Madame* ; **propre** *propriétaire ; la personne n’est pas nommée ici* ; **cooking** *angl.* cuisine ; préparation des repas ; **(** parenthèse ouvrante avant cooking ; aucune fermeture n’est visible dans ce cliché.
+- *l. 23* : **23** **Carte du Petit Journal** Un crochet ouvrant est visible à gauche du compte inférieur ; le bas des lignes est serré contre le bord du cliché.
 
 * * *
 
-Relecture de la photographie entière et du recadrage natif du bas : le l haut, le t barré et la finale ère donnent litière. Le mot de matière après épaisse paraît compatible avec bâche (b initial, h haut, e final), sans certitude suffisante pour ôter la réserve ; les anciennes alternatives brches/herbe ne sont pas imposées. Les heures, départs et changements de route restent transcrits sans reconstitution logistique.
+Litière est lu par son l haut, son t barré et sa finale -ère ; ce mot ne suffit pas à assurer la matière précédente, proposée bâche. Les abréviations ns, av., tte, Coy, j’au et b. sont développées à leurs lignes. In the open désigne le cantonnement en plein air. Le compte du bas présente un crochet ouvrant à gauche et une parenthèse avant cooking dont la fermeture n’est pas visible ; le nom de la propriétaire n’est pas donné.
 
 > Le 23 septembre, West (Capt. E. M. West, commandant la 152nd Co., A.S.C. selon Nichols, 1922, p. 110) fixe l’heure du départ puis Pizzi apporte un message conduisant à changer de route. Le mouvement aboutit à un cantonnement in the open près de Forceville. Le titre d’officier interprète de Pizzi est aussi attesté dans la lettre du 21 février 1916. La matière de la litière reste proposée ; une toiture en branches ne se déduit pas de cette note.
 
@@ -2270,6 +2456,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 5 longeant proposé ; l. 11 Newton proposé ; l. 12 objet des préparatifs bagages proposé..
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
+- **Réserves de l'apparat** : mot avant haie; objet rangé; patronyme Newton.
 
 ```text
  1 | Dim. 24 Levé 7H ½          Sept 16
@@ -2295,19 +2484,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | Canon gronde tout le long du front
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 5* : **5** *lect. incert. in ms.*
-- *l. 7* : **7 Ds** *abbr. pro* Dans.
-- *l. 8* : **8 green** *angl. in ms.*
-- *l. 11* : **11 Newton** *lect. incert. in ms.* **11 Cap.** *abbr. pro* Capitaine.
-- *l. 12* : **12** *lect. incert. in ms.* **12 ts** *abbr. pro* tous.
-- *l. 14* : **14 tea** *angl. in ms.*
-- *l. 15* : **15 milre** *abbr. pro* militaire.
-- *l. 19* : **19 ds** *abbr. pro* dans.
+- *l. 1* : **1** **Dim.** *dimanche* ; **Sept** *septembre*.
+- *l. 2* : **2** **seulemt** *seulement*.
+- *l. 5* : **5** **[longeant ?]** Lecture proposée : le tracé du mot reste peu net.
+- *l. 7* : **7** **Ds** *Dans*.
+- *l. 8* : **8** **for green forage** *angl.* pour du fourrage vert.
+- *l. 11* : **11** **Lunch** *angl.* déjeuner ; **Cap.** *capitaine* ; **Newton [?]** Newton paraît préférable ; le patronyme reste réservé.
+- *l. 12* : **12** **ts** *tous* ; **[bagages ?]** Objet du rangement proposé, sans lecture assurée.
+- *l. 14* : **14** **tea** *angl.* thé ; ici, collation de l’après-midi.
+- *l. 15* : **15** **milre** *militaire*.
+- *l. 16* : **16** **g.** *gauche*.
+- *l. 19* : **19** **ds** *dans*.
 
 * * *
 
-**Collation de la photographie :** Le recadrage appuie Newton contre Stewart. Le groupe précédant haie et l’objet du rangement restent des propositions, sans certifier sacs & cantine.
+Les contractions seulemt et milre et l’abréviation g. sont explicitées. L’expression anglaise for green forage forme un groupe unique. Les leçons longeant, Newton et bagages restent réservées : l’encrage soutenu ne permet pas de restituer une leçon sous-jacente certaine.
 
 > **24 septembre 1916 :** Le carnet associe l’achèvement de la hutte, une corvée de green forage à Forceville, des préparatifs de départ encore partiellement réservés et la musique militaire à Acheux. Les dates précèdent les batailles de Morval (25–28 septembre) et de Thiepval Ridge (26–28 septembre), selon Butler, Vol. II, chap. IV, p. 49, note 2. Ce voisinage chronologique fournit un contexte au grondement du canon ; il n’identifie pas avec certitude les tirs entendus ni une participation personnelle à ces offensives. Newton demeure un nom proposé.
 
@@ -2319,6 +2510,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Forceville et gare d'Acheux-Varennes (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 20 entrées contrôlées.
 
 ```text
  1 | 25 L.          Sept /16
@@ -2342,21 +2535,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | Lunch à Acheux : 1 f 50 ]
 ```
 
-- *l. 1* : **1 L.** *scil.* Lundi.
-- *l. 6* : **6 entiert** *abbr. pro* entièrement.
-- *l. 7* : **7 tt** *abbr. pro* tout.
-- *l. 8* : **8 Lt** *abbr. pro* Lieutenant. **8 green** *angl. in ms.*
-- *l. 9* : **9 forage** *angl. in ms.*
-- *l. 11* : **11 railhead** *angl. in ms.*
-- *l. 12* : **12 j'à** *abbr. pro* jusqu'à. **12 chps** *abbr. pro* champs.
-- *l. 13* : **13 R.T.O.** *angl.* Railway Transport Officer.
-- *l. 15* : **15 ds** *abbr. pro* dans. **15 lgt** *abbr. pro* longtemps.
-- *l. 18* : **18** *in marg. cum unco* (comptes). **18 groom** *angl. in ms.*
-- *l. 19* : **19 Lunch** *angl. in ms.*
+- *l. 1* : **1** **L.** *lundi* ; **Sept** *septembre*.
+- *l. 6* : **6** **entiert** *entièrement*.
+- *l. 7* : **7** **tt** *tout*.
+- *l. 8* : **8** **av.** *avec* ; **Lt** *lieutenant* ; **for green** *angl.* pour du fourrage vert ; forage continue à la ligne suivante.
+- *l. 11* : **11** **convoy** *angl.* convoi ; **railhead** *angl.* gare de ravitaillement en tête de ligne.
+- *l. 12* : **12** **chps** *champs* ; **j'à** *jusqu’à*.
+- *l. 13* : **13** **office** *angl.* bureau ; **R.T.O.** *Railway Transport Officer : officier chargé des transports ferroviaires*.
+- *l. 15* : **15** **lgt.** *longtemps* ; **ds** *dans* ; **compartimt** *compartiment*.
+- *l. 18* : **18** **Tip** *angl.* pourboire ; **groom** *angl.* ordonnance ; soldat chargé ici du service personnel ; **Tip** Le compte est séparé du récit par un trait horizontal suivi d’un court retour vertical à gauche ; les crochets de la transcription sont éditoriaux.
+- *l. 19* : **19** **Lunch** *angl.* déjeuner.
 
 * * *
 
-**Collation de la photographie :** Le lever est noté 7 H ; entiert est conservé contre suis tt. Le dernier wagon, Ford et continué restent les leçons de travail.
+Le compte occupe le bas de la page, après un grand espace ; un trait horizontal et un retour vertical à gauche le distinguent du récit. Ce dispositif ne constitue pas une note marginale latérale. Les crochets imprimés ne sont pas transcrits comme des crochets autographes. Entiert, av. et compartimt sont développés. Le vocabulaire du ravitaillement et du voyage conserve ses formes anglaises, traduites localement.
 
 > **Départ en permission :** Le 25 septembre, Combes va à Forceville avec Lt Ford pour le fourrage, puis rejoint le railhead et la station d’Acheux-Varennes dans le dernier wagon du convoi. Il laisse ses colis à l’office R.T.O., puis attend dans un petit train départemental. La permission est confirmée au retour par son titre visé à Bernaville (vue 067). Cette entrée ne permet pas d’affirmer qu’il s’agit de sa toute première permission, ni de préciser l’écartement de la voie.
 
@@ -2369,6 +2561,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 17 parenthèse après Creil non résolue..
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
+- **Réserves de l'apparat** : fin de la parenthèse après Creil.
 
 ```text
  1 | 25 Lundi. (Suite)          Sept / 16
@@ -2391,18 +2586,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | Voyage tte la nuit
 ```
 
-- *l. 2* : **2 qq** *abbr. pro* quelque(s).
-- *l. 8* : **8 ds** *abbr. pro* dans.
-- *l. 9* : **9 s.** *abbr. pro* soir.
-- *l. 10* : **10 pr** *abbr. pro* pour.
-- *l. 12* : **12 tte** *abbr. pro* toute.
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 17* : **17 retard** *lect. incert. in ms.*
-- *l. 18* : **18 tte** *abbr. pro* toute.
+- *l. 1* : **1** **Sept** *septembre*.
+- *l. 2* : **2** **qq** *quelques*.
+- *l. 8* : **8** **ds** *dans*.
+- *l. 10* : **10** **permissionns** *permissionnaires* ; **pr** *pour* ; **Compartimt** *Compartiment*.
+- *l. 11* : **11** **Cl.** *classe*.
+- *l. 12* : **12** **tte** *toute*.
+- *l. 14* : **14** **Taubes** *all.* « colombes » en allemand ; désignation d’avions allemands.
+- *l. 15* : **15** **ds** *dans* ; **jeté bombes** Construction elliptique du carnet ; ne pas transformer l’absence d’auxiliaire en abréviation ou lacune matérielle.
+- *l. 17* : **17** **(en retard [?])** La fin de la parenthèse reste incertaine ; **Pas descendu à Creil** Les deux dernières lignes sont séparées du récit précédent par un grand blanc, sans être barrées.
+- *l. 18* : **18** **tte** *toute*.
 
 * * *
 
-**Collation de la photographie :** La parenthèse après Creil reste réservée. Nuages et obus ds les airs sont conservés.
+Les deux dernières lignes sont portées au bas de la page après un blanc ; elles ne sont pas annulées. L’incertitude de la parenthèse après Creil demeure. Permissionns et compartimt sont des contractions omises dans les anciennes marges. Jeté bombes est une notation elliptique, sans lacune matérielle démontrée.
 
 > **Trajet vers Paris :** Après le changement de train à Gézaincourt, le récit donne Amiens vers 8 H du soir, puis le croisement de Longueau, des avions nommés Taubes, des bombes, des projecteurs et des obus dans les airs. Il décrit une attaque aérienne au cours du trajet sans permettre d’identifier le modèle exact des appareils. La parenthèse près de Creil demeure difficile et ne doit pas être développée par l’itinéraire supposé.
 
@@ -2414,6 +2611,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Le Bourget et Paris (Gare du Nord, Tuileries, Orsay, Invalides, rive gauche)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
 
 ```text
  1 | Mardi 26          Sept 16
@@ -2440,16 +2639,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | Chez Colin
 ```
 
-- *l. 2* : **2 m.** *abbr. pro* matin.
-- *l. 4* : **4 j'que** *abbr. pro* jusque. **4 militre** *abbr. pro* militaire.
-- *l. 5* : **5 autorison** *abbr. pro* autorisation.
-- *l. 6* : **6 j'à** *abbr. pro* jusqu'à.
-- *l. 8* : **8 j-à** *abbr. pro* jusqu'à.
-- *l. 14* : **14 pr** *abbr. pro* pour. **14 autorison** *abbr. pro* autorisation.
+- *l. 1* : **1** **Sept** *septembre*.
+- *l. 4* : **4** **j'que** *jusque* ; **militre** *militaire*.
+- *l. 5* : **5** **autorison** *autorisation*.
+- *l. 6* : **6** **j'à** *jusqu’à*.
+- *l. 8* : **8** **j-à** *jusqu’à*.
+- *l. 10* : **10** **(changé au Chatelet)** Précision interlinéaire, placée à droite sous la mention de la station Tuileries.
+- *l. 14* : **14** **pr** *pour* ; **autorison** *autorisation*.
+- *l. 16* : **16** **cl.** *classe*.
 
 * * *
 
-**Collation de la photographie :** L’autorisation de sortir et le planton jusqu’à la porte sont conservés ; sortie de la rue de Flandre remplace entrée.
+La parenthèse changé au Chatelet est une précision interlinéaire à droite, rattachée au trajet en métro. Les contractions de militaire et autorisation sont conservées sous leur forme manuscrite et développées en marge. Le passage à la ligne entre Place (Hotel) et des Invalides appartient au récit, sans rature assurée de ces mots.
 
 > **Paris :** Le 26 septembre, Combes obtient l’autorisation de sortir de la gare du Bourget, passe par la gare du Nord, les Tuileries et Orsay, puis demande aux Invalides à voyager à ses frais en express. Il note un billet de 2e classe pour Toulouse et termine par les commerces et promenades de la rive gauche. Le compte de la vue 053 porte séparément 1/4 place et 15 f 15. Le texte ne précise ni le bureau administratif exact aux Invalides ni l’adresse de Chez Colin.
 
@@ -2462,6 +2663,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 5 durée avant assis ; l. 12 détail des envois/parenthèse ; l. 14 objet Christofle ; l. 20 Entretien proposé ; l. 21 Divers et montant final proposés..
+
+- **Apparat révisé intégralement sur l'image** : 21 entrées contrôlées.
+- **Réserves de l'apparat** : durée avant assis; mot parenthétique l.12; objet Christofle; intitulés Entretien et Divers; montant final.
 
 ```text
  1 | Mardi 26          Sept 16
@@ -2487,22 +2691,24 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | Carte Roumanie : 30 c — [Divers ?] : W.C. : [15 c ?]
 ```
 
-- *l. 2* : **2 Bd** *abbr. pro* Boulevard. **2 St** *abbr. pro* Saint.
-- *l. 5* : **5** *lect. incert. in ms.* **5 ds** *abbr. pro* dans.
-- *l. 6* : **6 mouvt** *abbr. pro* mouvement. **6 St** *abbr. pro* Saint.
-- *l. 7* : **7 ordinre** *abbr. pro* ordinaire.
-- *l. 8* : **8 lentemt** *abbr. pro* lentement.
-- *l. 12* : **12** *lect. incert. in ms.* **12 f.** *abbr. pro* franc(s).
-- *l. 13* : **13 chvx** *abbr. pro* cheveux.
-- *l. 14* : **14** *lect. incert. in ms.*
-- *l. 17* : **17 Ctes ples** *abbr. pro* Cartes postales.
-- *l. 18* : **18 artiflles** *abbr. pro* artificielles.
-- *l. 20* : **20** *lect. incert. in ms.*
-- *l. 21* : **21** *lect. incert. in ms.*
+- *l. 1* : **1** **Sept** *septembre*.
+- *l. 2* : **2** **Bd** *boulevard* ; **St** *Saint*.
+- *l. 5* : **5** **[Lgt/1/2 h ?]** La durée ou l’adverbe avant assis reste indécidable ; ne pas développer longtemps comme une leçon certaine ; **ds** *dans*.
+- *l. 6* : **6** **St** *Saint* ; **mouvt** *mouvement*.
+- *l. 7* : **7** **ordinre** *ordinaire*.
+- *l. 8* : **8** **lentemt** *lentement*.
+- *l. 11* : **11** **Tramway** Les dépenses commencent sous un trait horizontal qui traverse la page ; elles ne sont pas une addition en marge latérale.
+- *l. 12* : **12** **Envoi[s?]** Intitulé proposé ; finale incertaine ; **[mot incertain]** Le mot parenthétique n’est pas établi.
+- *l. 13* : **13** **cl.** *classe* ; **chvx** *cheveux*.
+- *l. 14* : **14** **[mot illis.]** L’objet de la réduction Christofle n’est pas identifié.
+- *l. 17* : **17** **Ctes ples** *cartes postales*.
+- *l. 18* : **18** **artiflles** *artificielles*.
+- *l. 20* : **20** **[Entretien ?]** Lecture proposée du poste concernant les souliers.
+- *l. 21* : **21** **[Divers ?]** Intitulé final proposé, sans certitude ; **W.C.** *water-closet : toilettes* ; **[15 c ?]** Montant final réservé.
 
 * * *
 
-**Relecture :** Le compte conserve les noms Christofle, Zyromski et Maeterlinck. Le groupe avant souliers est proposé *Entretien* ; le dernier intitulé *Divers* reste réservé. La durée près du square, l’objet de la remise Christofle et certains petits montants ne sont pas assurés.
+Un trait horizontal sépare le récit des dépenses, disposées en lignes avec plusieurs postes sur la même ligne. La durée près du square, le mot parenthétique après les envois et l’objet acheté chez Christofle restent non établis. Entretien et Divers sont des propositions ; les signes de réserve ne désignent ni des mots effacés ni des lacunes du support. Les contractions de mouvement, ordinaire, lentement, cheveux et cartes postales sont développées à leur ligne.
 
 > **Livres et achats :** Les formes Zyromski, L’orgueil humain et Maeterlinck, Les Débris se rapprochent de deux titres documentés : Ernest Zyromski, L’Orgueil humain (Armand Colin, 1904 ; compte rendu de Maurice Souriau, 1907, p. 81–83) et Maurice Maeterlinck, Les Débris de la guerre (Fasquelle, 1916 ; catalogue du Musée Arnold vander Haeghen). Cette identification bibliographique ne restitue pas les mots omis dans le carnet. Les prix 4 f/net 3 f 20 et 3 f 50, la couronne de fleurs artificielles et le képi figurent au compte ; le destinataire de la couronne n’est pas indiqué ici. La vue 057 ne mentionne pas de dépôt de couronne.
 
@@ -2516,9 +2722,12 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 14 supplément au bain, 15 c ou 1 f non résolu..
 
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
+- **Réserves de l'apparat** : forme et développement du groupe wagt; supplément au bain.
+
 ```text
  1 | 27 Mer.          Sept 1916
- 2 | Nuit passée ds compmt. Dormi 1 peu
+ 2 | Nuit passée ds [wagt ?]. Dormi 1 peu
  3 | A 7H 30 m., arrivé à Toulouse
  4 | Pris tram et vers 8H, ds mon appartement
  5 | A 11 H m. — monté à Ste Marie-des-Champs. Les dames
@@ -2534,20 +2743,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 15 | Cartes ples :
 ```
 
-- *l. 1* : **1 Mer.** *scil.* Mercredi.
-- *l. 2* : **2 ds** *abbr. pro* dans.
-- *l. 3* : **3 m.** *abbr. pro* matin.
-- *l. 4* : **4 ds** *abbr. pro* dans.
-- *l. 5* : **5 Ste** *abbr. pro* Sainte. **5 m.** *abbr. pro* matin.
-- *l. 7* : **7 ds** *abbr. pro* dans. **7 gde** *abbr. pro* grande.
-- *l. 11* : **11 Margte** *scil.* Marguerite (Calmels).
-- *l. 13* : **13 c.** *abbr. pro* centimes.
-- *l. 14* : **14** *lect. incert. in ms.*
-- *l. 15* : **15 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Mer.** *mercredi* ; **Sept** *septembre*.
+- *l. 2* : **2** **ds** *dans* ; **[wagt ?]** Le groupe commence par wa- et possède une descendante ; wagon est proposé, mais la finale abrégée reste incertaine. Compmt n’est pas soutenu par le cliché.
+- *l. 4* : **4** **ds** *dans*.
+- *l. 5* : **5** **Ste** *Sainte*.
+- *l. 6* : **6** **e.** *encore*.
+- *l. 7* : **7** **chz** *chez* ; **ds** *dans* ; **gde** *grande*.
+- *l. 11* : **11** **Margte** *Marguerite*.
+- *l. 13* : **13** **Trams** Les dépenses sont placées au bas de la page sous un trait horizontal, après un grand blanc.
+- *l. 14* : **14** **[15 c / 1 f ?]** Le petit montant ajouté après le prix du bain reste difficile à distinguer.
+- *l. 15* : **15** **ples** *postales*.
 
 * * *
 
-**Collation de la photographie :** Sainte-Marie-des-Champs et Crouzet sont conservés ; le petit montant ajouté au bain reste réservé.
+La première ligne du récit ne porte pas compmt : le groupe abrégé après ds présente wa- et une descendante. La proposition wagt, à développer prudemment par wagon, est conservée avec réserve. Pas e. signifie pas encore ; chz et gde sont des contractions omises ou incomplètement expliquées. Les comptes sont séparés du récit par un trait inférieur. Le supplément ajouté au bain reste incertain.
 
 > **Famille à Toulouse :** Combes retrouve les dames Calmels, les Crouzet et Margte. L’acte de naissance de Marguerite Calmels (1892, n°117) nomme ses parents Gabriel Calmels, médecin, et Valentine Cartairade ; Émile Crouzet, agent de change à Toulouse, y est témoin. La section Les Crouzet de l’annexe familiale de Pierre Combes présente Émile Crouzet (1842–1921), son épouse Élisabeth Calmels et Jean Crouzet. Ces pièces éclairent le réseau familial ; l’identification de chaque désignation abrégée du carnet doit garder son degré propre de vraisemblance.
 
@@ -2560,6 +2769,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Graphie Czt. conservée ; pas d’identification biographique supplémentaire..
+
+- **Apparat révisé intégralement sur l'image** : 23 entrées contrôlées.
+- **Réserves de l'apparat** : valeur du signe avant moi.
 
 ```text
  1 | 28 Jeudi.          Sept 16
@@ -2587,21 +2799,24 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | Bouquet (place Esquirol) : 3 f —
 ```
 
-- *l. 2* : **2 ds** *abbr. pro* dans. **2 appartt** *abbr. pro* appartement.
-- *l. 6* : **6 Mte** *scil.* Marguerite (Calmels). **6 Ste** *abbr. pro* Sainte.
-- *l. 9* : **9 tjs** *abbr. pro* toujours.
-- *l. 10* : **10 déjeun.** *abbr. pro* déjeuné / déjeuner. **10 Mme** *abbr. pro* Madame.
-- *l. 11* : **11 St** *abbr. pro* Saint. **11 Czt** *abbr. pro* Crouzet.
-- *l. 12* : **12 j'à** *abbr. pro* jusqu'à. **12 St** *abbr. pro* Saint.
-- *l. 13* : **13 j-à** *abbr. pro* jusqu'à. **13 St** *abbr. pro* Saint.
-- *l. 18* : **18 St** *abbr. pro* Saint.
-- *l. 20* : **20 s.** *abbr. pro* soir.
-- *l. 21* : **21 c.** *abbr. pro* centimes.
-- *l. 22* : **22 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Sept** *septembre*.
+- *l. 2* : **2** **ds** *dans* ; **appartt** *appartement*.
+- *l. 5* : **5** **p moi** Le petit signe avant moi reste ambigu : le développement pour n’est pas garanti par le contexte.
+- *l. 6* : **6** **Ste** *Sainte* ; **Mte** *Marguerite*.
+- *l. 9* : **9** **tjs** *toujours*.
+- *l. 10* : **10** **déjeun.** *déjeuner* ; **cie** *compagnie* ; **Mme** *Madame*.
+- *l. 11* : **11** **M.** *Monsieur* ; **Czt.** *Crouzet, contraction du patronyme* ; **St** *Saint*.
+- *l. 12* : **12** **j'à** *jusqu’à* ; **St** *Saint*.
+- *l. 13* : **13** **j-à** *jusqu’à* ; **St** *Saint*.
+- *l. 14* : **14** **j'au** *jusqu’au*.
+- *l. 16* : **16** **j'au** *jusqu’au* ; **carref.** *carrefour*.
+- *l. 18* : **18** **St** *Saint*.
+- *l. 19* : **19** **Exc.te** *Excellente*.
+- *l. 22* : **22** **Varia** *lat.* divers ; rubrique de petites dépenses.
 
 * * *
 
-**Relecture du compte :** Les trams sont notés 20 c, 40, 40, 40 c et les fruits 1 f. Le f monétaire se compare au bouquet 3 f de la ligne suivante. Le groupe Czt. reste abrégé dans le récit ; les souvenirs ne sont pas transformés en destruction de lettres.
+Le compte suit immédiatement un trait horizontal tracé sous la dernière ligne du récit. Les montants des trams et des fruits sont conservés. Déjeun. est ici le substantif déjeuner après Après. Le groupe cie, le carref. et Exc.te sont des contractions lexicales, non des lectures lacunaires. Le petit signe p avant moi reste sans développement certain.
 
 > **Promenade toulousaine :** Le bouquet offert à Margte est compté place Esquirol. La promenade associe Mme C., M. Czt., Saint-Agne, Pouvourville, Pech David et les Récollets. M. Czt. peut être rapproché d’Émile Crouzet et Mme C. de Mme Calmels à la lumière du réseau documenté en vue 054. Les contractions ne nomment cependant pas entièrement ces compagnons. La notice conserve l’itinéraire écrit sans ajouter un parcours précis de crête ni identifier un parent absent.
 
@@ -2614,6 +2829,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 21 nièces proposé ; aucune parenté reconstruite..
+
+- **Apparat révisé intégralement sur l'image** : 17 entrées contrôlées.
+- **Réserves de l'apparat** : nièces dans le compte.
 
 ```text
  1 | 29 Ve.          Sept / 16
@@ -2640,19 +2858,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | Fruits : 2f + 55 c. – Fleurs : 2 f
 ```
 
-- *l. 1* : **1 Ve.** *scil.* Vendredi.
-- *l. 4* : **4 gde** *abbr. pro* grande. **4 Mme** *abbr. pro* Madame.
-- *l. 6* : **6 Mte** *scil.* Marguerite (Calmels).
-- *l. 8* : **8 tjs** *abbr. pro* toujours. **8 gde** *abbr. pro* grande.
-- *l. 11* : **11 épanchts** *abbr. pro* épanchements. **11 épanchts** *abbr. pro* épanchements.
-- *l. 13* : **13 j'à** *abbr. pro* jusqu'à. **13 ds** *abbr. pro* dans.
-- *l. 18* : **18 j'à** *abbr. pro* jusqu'à.
-- *l. 21* : **21 nièces** *lect. incert. in ms.*
-- *l. 22* : **22 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Ve.** *vendredi* ; **Sept** *septembre*.
+- *l. 4* : **4** **Mme** *Madame* ; **gde** *grande*.
+- *l. 6* : **6** **Chge** *Change, nom du restaurant* ; **Mte** *Marguerite*.
+- *l. 8* : **8** **tjs** *toujours* ; **gde** *grande*.
+- *l. 11* : **11** **épanchts** *épanchements*.
+- *l. 12* : **12** **av.** *avec*.
+- *l. 13* : **13** **j'à** *jusqu’à* ; **ds** *dans*.
+- *l. 17* : **17** **j'aux** *jusqu’aux*.
+- *l. 18* : **18** **j'à** *jusqu’à* ; **pl.** *place*.
+- *l. 20* : **20** **Chz** *Chez*.
+- *l. 21* : **21** **nièces [?]** Parenté proposée ; le groupe central demeure peu distinct.
 
 * * *
 
-**Relecture :** *ma Femme* est conservé tel qu’écrit. Le crop natif appuie *baisers intimes* ; *nièces* dans le compte reste proposé. Le chiffre 295 du sautoir se compare aux dates et au billet 59 de la vue 094, sans normalisation du montant 300 f précédent.
+Ma Femme est la graphie du carnet et ne doit pas recevoir une correction chronologique dans le texte. Le mot intimes suit baisers ; la lecture nièces dans les dépenses reste réservée. Le compte est placé au bas de la page après un grand blanc et un court trait à gauche. Épanchts n’appelle qu’une seule note, complétée par les contractions Chge, av., j’aux, pl. et Chz.
 
 > **Purpan et Blagnac :** Les Ruines après Purpan peuvent désigner l’amphithéâtre antique conservé aujourd’hui par le Musée Saint-Raymond ; l’itinéraire rend ce rapprochement plausible sans identifier chaque vestige. À Blagnac, le monastère était occupé par des Trappistines, selon la notice municipale, ce qui éclaire la chapelle mentionnée. Le récit porte ma Femme et le compte un sautoir en or, 300 f net 295 f, chez Pfister. Il ne nomme pas le destinataire de cet achat ; l’appellation conjugale est gardée sans modifier le statut matrimonial.
 
@@ -2665,6 +2885,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 17 ajout marginal p.Rem[?] ; fin non déchiffrée.; Josephe et gd ami ne fournissent pas à eux seuls toutes les identifications..
+
+- **Apparat révisé intégralement sur l'image** : 17 entrées contrôlées.
+- **Réserves de l'apparat** : lecture et développement du petit ajout p. Rem.
 
 ```text
  1 | 30 Samedi.          Septb /16
@@ -2696,21 +2919,24 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 27 | Tram : 20 c. — Sweets & cakes : 3 f — Bière & limonade : 80 c.
 ```
 
-- *l. 3* : **3 Mme** *abbr. pro* Madame.
-- *l. 5* : **5 Ste** *abbr. pro* Sainte. **5 1/2** *scil.* demi / moitié.
-- *l. 6* : **6 qq** *abbr. pro* quelque(s).
-- *l. 7* : **7 Margte** *scil.* Marguerite (Calmels).
-- *l. 9* : **9 ds** *abbr. pro* dans.
-- *l. 14* : **14 s/** *abbr. pro* sur.
-- *l. 17* : **17** *lect. incert. in ms.* **17 ajout** *in marg.* Lecture p. Rem proposée, fin non établie.
-- *l. 18* : **18 j-au** *abbr. pro* jusqu'au.
-- *l. 22* : **22 Margte** *scil.* Marguerite (Calmels).
-- *l. 23* : **23 gd** *abbr. pro* grand. **23 profondt** *abbr. pro* profondément.
-- *l. 27* : **27 c.** *abbr. pro* centimes. **27 Sweets** *angl. in ms.*
+- *l. 1* : **1** **Septb** *septembre*.
+- *l. 3* : **3** **Mme** *Madame*.
+- *l. 5* : **5** **Ste** *Sainte*.
+- *l. 6* : **6** **qq** *quelques*.
+- *l. 7* : **7** **Margte** *Marguerite*.
+- *l. 9* : **9** **ds** *dans*.
+- *l. 12* : **12** **b.** *belle*.
+- *l. 14* : **14** **s/** *sur*.
+- *l. 17* : **17** **p. Rem ?** Petit ajout porté à droite de Sons différents ; p. Rem est proposé, sans développement certain de la finale.
+- *l. 18* : **18** **j-au** *jusqu’au*.
+- *l. 21* : **21** **P.P.** *Pères*.
+- *l. 22* : **22** **P.** *Père* ; **Margte** *Marguerite*.
+- *l. 23* : **23** **profondt** *profondément* ; **gd** *grand*.
+- *l. 27* : **27** **Sweets** *angl.* confiseries ; **cakes** *angl.* gâteaux.
 
 * * *
 
-**Relecture :** Les heures et les cinq cloches restent dans le texte. Le petit groupe à droite près de *Sons différents* est une addition marginale dont la lecture *p. Rem[?]* demeure ouverte ; il n’est pas développé certainement en *Remarqué*. Le grand ami n’est pas nommé dans la phrase des serments.
+Le petit groupe à droite de Sons différents est un ajout marginal : p. Rem reste une proposition et ne permet pas de développer sûrement Remarqué. P.P. Jésuites désigne les Pères jésuites ; P. Marie-Antoine, le Père Marie-Antoine. Le grand ami n’est pas nommé par cette phrase. Les dépenses sont écrites sous le trait inférieur, serrées contre le bord de la page.
 
 > **Terre-Cabade :** Après Montaudran et les cinq cloches, Combes et Margte visitent les caveaux des Jésuites et du P. Marie-Antoine, puis échangent des serments au souvenir de notre gd ami et de Josephe. Le Diocèse de Toulouse documente le capucin Marie-Antoine, mort en 1907, et ses obsèques à Terre-Cabade. Le récit familial de Pierre Combes nomme un père d’Adhémar, ami des Combes, et la sœur Joséphine, morte à Nogent en octobre 1914. Ce sont des rapprochements utiles pour les deux allusions ; le carnet ne nomme pas d’Adhémar et le mémoire ne prouve pas ici sa sépulture dans le caveau visité.
 
@@ -2723,6 +2949,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 3 curé proposé, non expansion certaine du type de messe..
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
+- **Réserves de l'apparat** : groupe après messe.
 
 ```text
  1 | 1er D.          Octobre /16
@@ -2742,20 +2971,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 15 | Sweets : 20 c
 ```
 
-- *l. 1* : **1 D.** *scil.* Dimanche. **1 1er** *scil.* premier.
-- *l. 2* : **2 St** *abbr. pro* Saint.
-- *l. 3* : **3** *lect. incert. in ms.* **3 Mte** *scil.* Marguerite (Calmels).
-- *l. 4* : **4 ds** *abbr. pro* dans. **4 appartt** *abbr. pro* appartement.
-- *l. 6* : **6 déjeun.** *abbr. pro* déjeuné / déjeuner. **6 Ste** *abbr. pro* Sainte.
-- *l. 8* : **8 j-au** *abbr. pro* jusqu'au.
-- *l. 9* : **9 s/** *abbr. pro* sur.
-- *l. 10* : **10 Tjs** *abbr. pro* Toujours. **10 Mte** *scil.* Marguerite (Calmels).
-- *l. 14* : **14 c.** *abbr. pro* centimes.
-- *l. 15* : **15 Sweets** *angl. in ms.*
+- *l. 1* : **1** **D.** *dimanche*.
+- *l. 2* : **2** **St** *Saint*.
+- *l. 3* : **3** **[curé ?]** Groupe proposé après messe ; aucun type liturgique certain n’est restitué ; **Mte** *Marguerite*.
+- *l. 4* : **4** **ds** *dans* ; **appartt** *appartement*.
+- *l. 6* : **6** **déjeun** *déjeuner* ; **Ste** *Sainte* ; **tr** *très*.
+- *l. 8* : **8** **j-au** *jusqu’au*.
+- *l. 9* : **9** **s/** *sur*.
+- *l. 10* : **10** **Mte** *Marguerite* ; **Tjs** *Toujours*.
+- *l. 13* : **13** **av.** *avec*.
+- *l. 15* : **15** **Sweets** *angl.* confiseries.
 
 * * *
 
-**Relecture :** Après messe, le groupe est proposé *curé*, avec réserve ; il n’est pas transformé en un type liturgique certain. *à ranger mes livres* est appuyé par le crop natif. Joui du calme & silence reste une proposition elliptique sans auxiliaire ajouté.
+Le groupe après messe demeure proposé curé ; cette réserve ne démontre pas une lacune matérielle. Déjeun après monté est un infinitif abrégé, déjeuner. Joui du calme & silence et trouvé Jean maison sont des notations elliptiques, sans mots suppléés. Les dépenses occupent le bas de la page sous un trait horizontal.
 
 > **Dimanche à Toulouse :** Messe à Saint-Étienne, déjeuner à Sainte-Marie, puis promenade à Lardenne et au Touch sont notés. Le prénom Jean apparaît au retour. L’annexe familiale, section Les Crouzet, mentionne Jean Crouzet, prêtre et curé de Notre-Dame-de-la-Dalbade ; la proximité de la famille Crouzet rend l’identification plausible. Cette source rétrospective ne transforme pas chaque occurrence isolée de Jean en preuve indépendante de son identité, ni la leçon réservée après messe en titre liturgique assuré.
 
@@ -2768,6 +2997,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 2 contraction tjs proposée ; l. 14 détail de 6 H 1/2 non entièrement sûr ; l. 18 finale parfumé proposée..
+
+- **Apparat révisé intégralement sur l'image** : 20 entrées contrôlées.
+- **Réserves de l'apparat** : groupe proposé tjs; signe après 6 H; parfumé.
 
 ```text
  1 | 2 L. Temps splendide          Octbre 1916
@@ -2791,23 +3023,23 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | Trams : 10, 10, 30 – – Chapelet pr. Bne Maman : 1 f 25
 ```
 
-- *l. 1* : **1 L.** *scil.* Lundi.
-- *l. 2* : **2** *lect. incert. in ms.* **2 cme** *abbr. pro* comme.
-- *l. 4* : **4 ds** *abbr. pro* dans.
-- *l. 5* : **5 Ste** *abbr. pro* Sainte.
-- *l. 6* : **6 ds** *abbr. pro* dans.
-- *l. 8* : **8 sentimt** *abbr. pro* sentiment. **8 Mte** *scil.* Marguerite (Calmels).
-- *l. 10* : **10 s.** *abbr. pro* soir.
-- *l. 11* : **11 Margte** *scil.* Marguerite (Calmels).
-- *l. 12* : **12 appartt** *abbr. pro* appartement. **12 Margte** *scil.* Marguerite (Calmels).
-- *l. 14* : **14** *lect. incert. in ms.*
-- *l. 15* : **15 Ts** *abbr. pro* Tous.
-- *l. 18* : **18** *lect. incert. in ms.*
-- *l. 19* : **19 pr** *abbr. pro* pour. **19 Bne** *abbr. pro* Bonne.
+- *l. 1* : **1** **L.** *lundi* ; **Octbre** *octobre*.
+- *l. 2* : **2** **cme** *comme* ; **[tjs ?]** Contraction proposée pour toujours, sans certitude suffisante sur toutes les lettres ; **appartt** *appartement*.
+- *l. 4* : **4** **ds** *dans*.
+- *l. 5* : **5** **Ste** *Sainte*.
+- *l. 6* : **6** **ds** *dans*.
+- *l. 8* : **8** **Mte** *Marguerite* ; **sentimt** *sentiment*.
+- *l. 11* : **11** **chz** *chez* ; **Margte** *Marguerite*.
+- *l. 12* : **12** **appartt** *appartement* ; **Margte** *Marguerite*.
+- *l. 14* : **14** **[1/2 / s. ?]** Après 6 H, une fraction horaire ou la lettre du soir restent en concurrence.
+- *l. 15* : **15** **Ts** *Tous*.
+- *l. 17* : **17** **av.** *avec*.
+- *l. 18* : **18** **[parfumé ?]** Adjectif proposé ; finale peu nette.
+- *l. 19* : **19** **pr.** *pour* ; **Bne** *Bonne*.
 
 * * *
 
-**Relecture :** Le groupe de la matinée commence par cme, suivi d’une contraction proposée tjs. À la fin, le groupe après Air doux est proposé *parfumé* ; la finale reste réservée. Aucun grand arbre absent n’est restitué.
+Le groupe initial de la matinée est cme, suivi d’une contraction proposée tjs. Le développement de ce second groupe reste réservé. Le signe après 6 H et l’adjectif après Air doux demeurent incertains. Les contractions chz, av., appartt et sentimt sont explicitées sans transformer les ellipses du récit en mots manquants. Un trait inférieur sépare les dépenses du récit.
 
 > **Visites et sortie :** Margte et sa mère viennent à l’appartement ; le récit note ensuite la Chapelle Nazareth, la rue Alsace, le retour en tram vers la Côte Pavée et un départ avec Jean à 9 H 30. Le réseau Calmels et le rapprochement Jean Crouzet sont documentés dans les notices 054 et 058. L’heure près de Nazareth reste difficile. Le mot sanctuaire familial et l’expression revu tte ma famille citée d’une autre vue ne prouvent pas la fonction précise de cette chapelle dans cette journée.
 
@@ -2820,6 +3052,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 9–10 groupe abrégé et Castanet/cravate non résolus ; l. 16 nom du soir non résolu..
+
+- **Apparat révisé intégralement sur l'image** : 21 entrées contrôlées.
+- **Réserves de l'apparat** : groupe après venus; Castanet/cravate; patronyme du soir.
 
 ```text
  1 | 3 Ma          Temps mervt beau          Octobre /16
@@ -2842,20 +3077,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | Automate : 30 + 20 c          fruits : 80 c. Gâteaux : 3 f
 ```
 
-- *l. 1* : **1 mervt** *abbr. pro* merveilleusement.
-- *l. 2* : **2 St** *abbr. pro* Saint.
-- *l. 3* : **3 Margte** *scil.* Marguerite (Calmels). **3 Mlle** *abbr. pro* Mademoiselle.
-- *l. 4* : **4 Margte** *scil.* Marguerite (Calmels). **4 Mme** *abbr. pro* Madame.
-- *l. 8* : **8 pr** *abbr. pro* pour. **8 qq** *abbr. pro* quelque(s).
-- *l. 9* : **9** *lect. incert. in ms.*
-- *l. 10* : **10** *lect. incert. in ms.* **10 St** *abbr. pro* Saint.
-- *l. 12* : **12 Mme** *abbr. pro* Madame.
-- *l. 16* : **16** *lect. incert. in ms.* **16 Mme** *abbr. pro* Madame.
-- *l. 18* : **18 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Ma** *mardi* ; **mervt** *merveilleusement*.
+- *l. 2* : **2** **St** *Saint* ; **annivre** *anniversaire*.
+- *l. 3* : **3** **Mlle** *Mademoiselle* ; **Margte** *Marguerite*.
+- *l. 4* : **4** **cathle** *cathédrale* ; **av.** *avec* ; **Mme** *Madame* ; **Margte** *Marguerite*.
+- *l. 8* : **8** **pr** *pour* ; **qq** *quelques* ; **arrangt** *arrangement* ; **appartt** *appartement*.
+- *l. 9* : **9** **[groupe abrégé illis.]** Le groupe contient des lettres resserrées ; son développement n’est pas établi.
+- *l. 10* : **10** **[Castanet/cravate ?]** Lecture ouverte ; aucune destination ni aucun achat n’est assuré par ce seul groupe ; **St** *Saint*.
+- *l. 12* : **12** **Mme** *Madame*.
+- *l. 16* : **16** **Mme** *Madame* ; **[Laudet/Lamolet ?]** Patronyme du soir non établi.
+- *l. 17* : **17** **V.** *Victor, dans le nom du marché*.
 
 * * *
 
-**Collation de la photographie :** Mlle est mieux appuyé qu’oncle. La lecture du groupe central a varié entre une course et un achat ; ni Castanet ni cravate n’est certifié. Le nom du soir reste réservé.
+Annivre qualifie la messe anniversaire ; cathle se développe cathédrale. Le groupe central après venus et celui qui ouvre la ligne suivante restent non établis : leur aspect abrégé ne suffit pas à trancher entre un déplacement et un achat. Le patronyme du soir conserve ses propositions réservées. Les comptes du bas sont séparés par un trait horizontal.
 
 > **Visite à Mme de Labarthe :** Après la messe anniversaire pour Mlle Calmels et les courses au marché Victor Hugo, Combes note le tram rue Saint-Joseph, une marche et la présentation de ma Fiancée à Mme de Labarthe. La vue 061 situe cette visite dans sa propriété et sa maison. Le groupe central Castanet/cravate reste non établi ; il ne fournit pas une adresse certaine. La messe anniversaire ne permet pas d’identifier à elle seule la personne commémorée.
 
@@ -2868,6 +3103,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 6 Cie Française proposé..
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
+- **Réserves de l'apparat** : abréviation commerciale Cie.
 
 ```text
  1 | 3 Ma          Octbre 1916
@@ -2882,15 +3120,16 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 10 | Simplicité & abandon charmants
 ```
 
-- *l. 4* : **4 Mlle** *abbr. pro* Mademoiselle.
-- *l. 5* : **5** *lect. incert. in ms.*
-- *l. 6* : **6 Cie** *lect. incert. in ms.*
-- *l. 8* : **8 ds** *abbr. pro* dans. **8 Mme** *abbr. pro* Madame.
-- *l. 9* : **9 ns** *abbr. pro* nous.
+- *l. 1* : **1** **Ma** *mardi* ; **Octbre** *octobre*.
+- *l. 4* : **4** **Mlle** *Mademoiselle*.
+- *l. 5* : **5** **1916** L’année 1916 est portée sous Juillet, entre la parenthèse du semestre et la ligne suivante ; les mots explicatifs de la transcription sont éditoriaux.
+- *l. 6* : **6** **Cie [?]** Compagnie est le développement proposé de l’abréviation commerciale ; lecture réservée ; **cm** *centimètres, mesure de la doublure*.
+- *l. 8* : **8** **ds** *dans* ; **Mme** *Madame* ; **Délicieux** Les trois dernières lignes sont placées sous le trait qui termine les dépenses ; elles appartiennent au récit, sans substantif ajouté après Délicieux.
+- *l. 9* : **9** **ns** *nous*.
 
 * * *
 
-**Collation de la photographie :** 1916 est inscrit sous la ligne du semestre. L’abréviation commerciale est réservée. Aucun thé n’est ajouté au mot Délicieux.
+1916 est ajouté sous Juillet, dans la parenthèse du semestre. L’intitulé commercial proposé Cie Française reste réservé ; cm est une mesure de tissu, non une unité monétaire. Un trait horizontal sépare ces comptes des trois lignes de récit. Délicieux est laissé dans sa construction elliptique sans supplément.
 
 > **Comptes :** Combes paie Guiraud pour la façon et les fournitures d’une tunique (38 f), puis note un semestre à Mlle Guilhem (90 f, juillet 1916–janvier 1917) et de la doublure de satin (60 c). Le semestre peut correspondre à un loyer, mais l’intitulé ne nomme pas le bail ni la qualité juridique de Guilhem. Les dernières lignes complètent la visite à la propriété de Mme de Labarthe de la vue 060 ; Délicieux demeure elliptique.
 
@@ -2903,6 +3142,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 13 fraction après 6 H ; l. 15 surcharge non déchiffrée..
+
+- **Apparat révisé intégralement sur l'image** : 19 entrées contrôlées.
+- **Réserves de l'apparat** : fraction du dîner; groupes surchargés l.15.
 
 ```text
  1 | Mer. 4          Octbre 16
@@ -2928,22 +3170,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | ménagement pour l'oncle —
 ```
 
-- *l. 1* : **1 Mer.** *scil.* Mercredi.
-- *l. 4* : **4 ds** *abbr. pro* dans. **4 tt** *abbr. pro* tout.
-- *l. 6* : **6 m.** *abbr. pro* matin.
-- *l. 7* : **7 Ste** *abbr. pro* Sainte.
-- *l. 8* : **8 tt** *abbr. pro* tout. **8 Mte** *scil.* Marguerite (Calmels).
-- *l. 12* : **12 lgt** *abbr. pro* longtemps. **12 gd** *abbr. pro* grand.
-- *l. 13* : **13** *lect. incert. in ms.*
-- *l. 14* : **14 absolt** *abbr. pro* absolument. **14 Mte** *scil.* Marguerite (Calmels).
-- *l. 15* : **15** *lect. incert. in ms.*
-- *l. 16* : **16 ds** *abbr. pro* dans.
-- *l. 17* : **17 Mte** *scil.* Marguerite (Calmels).
-- *l. 20* : **20 ns** *abbr. pro* nous.
+- *l. 1* : **1** **Mer.** *mercredi* ; **Octbre** *octobre*.
+- *l. 4* : **4** **tt** *tout* ; **ds** *dans* ; **appartt** *appartement*.
+- *l. 7* : **7** **Ste** *Sainte*.
+- *l. 8* : **8** **tt** *tout* ; **cie** *compagnie* ; **Mte** *Marguerite*.
+- *l. 12* : **12** **lgt** *longtemps* ; **gd** *grand*.
+- *l. 13* : **13** **[1/2 ?]** Fraction horaire proposée ; tracé réservé.
+- *l. 14* : **14** **Mte** *Marguerite* ; **absolt** *absolument*.
+- *l. 15* : **15** **[groupe surchargé illis.]** Groupes fortement surchargés avant le choix du compartiment ; aucune leçon sous-jacente continue n’est restituable.
+- *l. 16* : **16** **ds** *dans*.
+- *l. 17* : **17** **Mte** *Marguerite*.
+- *l. 19* : **19** **G.V.** *grande vitesse, désignation ferroviaire de la cour*.
+- *l. 20* : **20** **ns** *nous*.
 
 * * *
 
-**Collation de la photographie :** La fin porte par/ménagement pour l’oncle. Non sans serrement cœur cruel est absent. La surcharge avant le compartiment ne permet pas de restituer toutes les biffures proposées.
+Les surcharges entre accompagner gare et choisi coin ne permettent pas de rétablir sûrement les mots antérieurs. Elles ne sont pas assimilées à une lacune du papier. La finale par / ménagement pour l’oncle se poursuit dans l’émotion des premières lignes de la vue 064. Cie, appartt et G.V. reçoivent leur développement propre.
 
 > **Fin de permission :** Le 4 octobre, Combes range l’appartement, se rend à la gare et aux Thermes du Languedoc, puis passe l’après-midi avec Margte à Sainte-Marie. Les adieux à la gare ont lieu avec l’oncle Crouzet ; le récit s’interrompt après par ménagement pour l’oncle et se poursuit en tête de 064. Le contexte familial permet de rapprocher cet oncle d’Émile Crouzet, mais le texte de cette vue n’écrit pas son prénom.
 
@@ -2955,6 +3197,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Paris (Gare d'Orsay, Gare du Nord, église Saint-Vincent-de-Paul, Grands Magasins du Louvre)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
+- **Réserves de l'apparat** : petit ajout gauche près de gare du Nord; mot interlinéaire au-dessus de Louvre.
 
 ```text
  1 | Jeudi 5          Octb / 16
@@ -2978,16 +3223,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | Dû revenir par métro à gare du Nord
 ```
 
-- *l. 3* : **3 m.** *abbr. pro* matin.
-- *l. 5* : **5 pr** *abbr. pro* pour.
-- *l. 9* : **9 Egl.** *abbr. pro* Église. **9 St** *abbr. pro* Saint.
-- *l. 13* : **13 j-aux** *abbr. pro* jusqu'aux.
-- *l. 15* : **15 Corresp** *abbr. pro* Correspondance.
-- *l. 18* : **18 pr** *abbr. pro* pour.
+- *l. 1* : **1** **Octb** *octobre*.
+- *l. 5* : **5** **pr** *pour*.
+- *l. 6* : **6** **gare du Nord** Un petit groupe est porté à gauche, à hauteur de gare ; sa lecture reste non établie.
+- *l. 9* : **9** **Egl** *Église* ; **St** *Saint*.
+- *l. 13* : **13** **j-aux** *jusqu’aux* ; **Mag** *Magasins*.
+- *l. 15* : **15** **Corresp** *Correspondance*.
+- *l. 17* : **17** **Louvre** Un petit mot interlinéaire est porté au-dessus ; sa lecture et sa relation avec Louvre restent réservées.
+- *l. 18* : **18** **pr** *pour*.
 
 * * *
 
-**Note codicologique (inversion des Scans #063 et #064) :** Lors de la numérisation, le cliché `20251126_103538.jpg` (Scan #063, journée du jeudi 5 octobre à Paris) a été photographié avant le cliché `20251126_103554.jpg` (Scan #064, nuit du mercredi 4 au jeudi 5 octobre dans le train Toulouse--Paris). **l.~14--15 salon de Corresp :** Apocope de *Correspondance*.
+L’ordre chronologique est 062, puis 064 (soir et nuit du 4 octobre), puis 063 (5 octobre à Paris). Cette succession des entrées ne démontre ni une inversion des feuillets ni sa cause lors de la photographie. Deux petits groupes sont visibles hors de la ligne principale : à gauche près de gare du Nord et au-dessus de Louvre vers la fin ; leurs lectures demeurent réservées. Corresp est une apocope de Correspondance et Mag, de Magasins.
 
 > **Saint-Vincent-de-Paul :** La traversée de Paris du 5 octobre mène d’Orsay à la gare du Nord, par l’église Saint-Vincent-de-Paul et le salon de correspondance des Magasins du Louvre. La notice Mérimée PA 00086489 attribue les plans de l’église à Jean-Baptiste Lepère, puis les modifications à Jacques-Ignace Hittorff ; elle signale l’ouverture au culte en 1844, deux étages de colonnades et la frise d’Hippolyte Flandrin. Ces données éclairent les colonnes et peintures admirées par Combes. La matière et les ordres précis des colonnes ne sont pas établis par cette notice.
 
@@ -2999,6 +3246,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Gare de Toulouse et train de nuit Toulouse – Paris-Orsay
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
 
 ```text
  1 | ... Mte & moi, très
@@ -3016,15 +3265,15 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 13 | Crouzet : 5 f –
 ```
 
-- *l. 1* : **1 Mte** *scil.* Marguerite (Calmels).
-- *l. 2* : **2 Mer.** *scil.* Mercredi.
-- *l. 3* : **3 s.** *abbr. pro* soir.
-- *l. 7* : **7 Ste** *abbr. pro* Sainte.
-- *l. 8* : **8 Mte** *scil.* Marguerite (Calmels).
+- *l. 1* : **1** **Mte** *Marguerite* ; **...** Points de reprise éditoriaux ; le cliché commence directement par Mte et poursuit la phrase de la vue 062.
+- *l. 2* : **2** **Mer.** *mercredi* ; **Oct** *octobre*.
+- *l. 7* : **7** **Ste** *Sainte* ; **Hier** Les comptes sont placés au bas de la page sous un trait horizontal ; Hier rattache les premières dépenses à la veille.
+- *l. 8* : **8** **Mte** *Marguerite*.
+- *l. 10* : **10** **cl.** *classe* ; **p.** *pour*.
 
 * * *
 
-**Ordre des vues :** Les premières lignes poursuivent les adieux de la vue 062, tandis que la vue 063 porte la journée suivante du 5 octobre. Les numéros des photographies ne sont pas une foliation matérielle. Le billet est noté 3e cl. p. Orsay, 11 f 75 ; les dépenses de fleurs, trams, bain et étrenne restent distinctes du récit.
+Les premières lignes poursuivent les adieux de la vue 062, avant le voyage nocturne du 4 au 5 octobre ; elles précèdent donc chronologiquement la vue 063. Les points de reprise imprimés en tête sont éditoriaux et ne représentent pas une lacune du support. Un trait horizontal sépare le récit du compte inférieur. Le billet porte 3e cl. p. Orsay : les deux abréviations sont développées sans modifier son prix.
 
 > **Suite des adieux :** Les premières lignes prolongent la vue 062 (soir du 4 octobre), avant le trajet nocturne et les dépenses. Le billet pour Orsay est noté 3e classe, 11 f 75 ; les images de Sainte Thérèse, les fleurs pour Margte, le bain et l’étrenne à Maria, bonne des Crouzet (5 f), sont distincts. La relation avec 063 se fait par la chronologie du 5 octobre, et non par une foliation physique inventée. Les images ne reçoivent ni destinataire ni fonction protectrice non écrits.
 
@@ -3038,6 +3287,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 1 petits mots après espéré non établis..
 
+- **Apparat révisé intégralement sur l'image** : 5 entrées contrôlées.
+- **Réserves de l'apparat** : groupe abrégé et insertion de la parenthèse supérieure.
+
 ```text
  1 | Parti train 1 H 15 s (espéré [groupe abrégé illis.] à 10 H 45 matin)
  2 | A Amiens, à 6 H s —
@@ -3049,15 +3301,13 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
  8 | Consigne : 10 c
 ```
 
-- *l. 1* : **1** *lect. incert. in ms.* **1 s.** *abbr. pro* soir.
-- *l. 2* : **2 s.** *abbr. pro* soir.
-- *l. 3* : **3 s.** *abbr. pro* soir.
-- *l. 6* : **6** ⟦Paris⟧ *del. in ms.*
-- *l. 7* : **7 c.** *abbr. pro* centimes. **7 Food** *angl. in ms.*
+- *l. 1* : **1** **[groupe abrégé illis.]** Le groupe à la fin de la parenthèse supérieure comporte une petite insertion ; son développement n’est pas assuré.
+- *l. 6* : **6** **Paris** Paris est barré avant Métro, dans les comptes du bas ; **Métro** Les dépenses sont séparées du récit par un trait horizontal, après un grand blanc.
+- *l. 7* : **7** **Food** *angl.* nourriture ; **Drink** *angl.* boisson.
 
 * * *
 
-**Relecture :** La parenthèse de l’heure attendue comporte un groupe non établi. La biffure Paris est visible avant Métro. Les rubriques Food, Drink et Consigne sont conservées sans inventer une heure de départ supplémentaire.
+Paris est barré avant Métro, sous le trait qui ouvre les comptes. Le petit groupe dans la parenthèse de la première ligne reste non établi, avec une insertion au-dessus de la ligne ; aucune heure supplémentaire n’en est déduite. Food et Drink sont des intitulés anglais de dépenses, traduits séparément.
 
 > **Retour vers Doullens :** Le 5 octobre, le récit donne un train à 1 H 15 du soir, Amiens à 6 H, un départ à 6 H 30 et Doullens vers minuit, où Combes couche à la gare. La vue 066 précise qu’il dort sur un banc dans la salle de départ. Ni l’itinéraire ferroviaire par Saint-Pol ni la désignation salle d’attente ne sont nécessaires à cette lecture ; la parenthèse de l’heure espérée demeure non établie.
 
@@ -3069,6 +3319,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Doullens, Canaples et Barlette (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
 
 ```text
  1 | Vendredi 6          Octb 1916
@@ -3092,17 +3344,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | A 1H soir –
 ```
 
-- *l. 6* : **6 qq** *abbr. pro* quelque(s).
-- *l. 10* : **10 R.T.O.** *angl.* Railway Transport Officer.
-- *l. 11* : **11 shifté** *angl. in ms.*
-- *l. 14* : **14 lorries** *angl. in ms.*
-- *l. 16* : **16 lorries** *angl. in ms.*
-- *l. 17* : **17 refilling point** *angl. in ms.*
-- *l. 18* : **18 A.S.C.** *angl.* Army Service Corps.
+- *l. 1* : **1** **Octb** *octobre*.
+- *l. 6* : **6** **qq** *quelques*.
+- *l. 8* : **8** **Tjours** *Toujours*.
+- *l. 10* : **10** **office** *angl.* bureau ; **R.T.O.** *Railway Transport Officer : officier chargé des transports ferroviaires*.
+- *l. 11* : **11** **shifté** *hybr.* a changé de position ; verbe anglais shift francisé par la terminaison -é ; **railhead** *angl.* gare de ravitaillement en tête de ligne.
+- *l. 14* : **14** **lorries** *angl.* camions ; **supply column** *angl.* colonne de ravitaillement.
+- *l. 16* : **16** **lorries** *angl.* camions ; **j'au** *jusqu’au*.
+- *l. 17* : **17** **refilling point** *angl.* point de recomplètement des approvisionnements.
+- *l. 18* : **18** **Coy.** *Company : compagnie* ; **A.S.C.** *Army Service Corps : corps britannique chargé notamment du ravitaillement et des transports*.
 
 * * *
 
-**l.~2--3, 14--18 Achevé nuit salle départ / lorries (supply column) de la 54e** : Aux l.~2--3, le premier mot souligné est le participe *Achevé* (*Achevé nuit salle départ / gare de Doullens*). Aux l.~14--18, Hippolyte monte sur un *lorry (supply column) de la 54e* [Brigade de la 18e Division] et retrouve la *152 Coy. A.S.C.*
+Achevé nuit salle départ est une notation elliptique ; aucun auxiliaire ni article n’est suppléé et le mot Achevé n’est pas déclaré souligné. Les sigles R.T.O., Coy. et A.S.C. sont développés. Shifté est un verbe anglais francisé ; lorries, supply column, railhead et refilling point désignent les véhicules et étapes du ravitaillement. Les numéros 54e et 152 sont conservés comme écrits ; leur rapprochement historique relève du commentaire.
 
 > **152 Coy A.S.C. :** Le 6 octobre, Combes trouve à Canaples les lorries de la supply column de la 54e brigade, retrouve le refilling point de ma brigade et écrit retrouvé la 152 Coy A.S.C. Le Ringing World du 9 avril 1915, p. 184, atteste séparément une 152 Company A.S.C. dans le 18th Divisional Train. Le rapprochement éclaire l’organisation de l’unité ; ce journal ne nomme pas Combes et ne date pas son affectation personnelle. Le carnet ne donne pas le vocable de l’église visitée à Doullens.
 
@@ -3115,6 +3369,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 10 Mme Ve et l. 18 nom Tait : graphies de travail..
+
+- **Apparat révisé intégralement sur l'image** : 24 entrées contrôlées.
+- **Réserves de l'apparat** : développement du groupe Ve.
 
 ```text
  1 | Ven. 6          Oct / 16
@@ -3137,23 +3394,23 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | Gift au Q.M.S. Tait : 5 fr. –
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 2* : **2 Coy** *angl.* Company.
-- *l. 4* : **4 qq** *abbr. pro* quelque(s). **4 symphe** *abbr. pro* sympathique.
-- *l. 5* : **5 extt** *abbr. pro* extrêmement.
-- *l. 6* : **6 lunch** *angl. in ms.*
-- *l. 8* : **8 Fse** *abbr. pro* Française.
-- *l. 9* : **9 gde** *abbr. pro* grande.
-- *l. 10* : **10 Mme** *abbr. pro* Madame.
-- *l. 14* : **14 Cartes ples** *abbr. pro* Cartes postales.
-- *l. 15* : **15 canteen** *angl. in ms.*
-- *l. 16* : **16 cartes ples** *abbr. pro* cartes postales.
-- *l. 17* : **17 lorry** *angl. in ms.*
-- *l. 18* : **18 Q.M.S.** *angl.* Quartermaster Sergeant. **18 fr.** *abbr. pro* franc(s).
+- *l. 1* : **1** **Ven.** *vendredi* ; **Oct** *octobre*.
+- *l. 2* : **2** **Coy** *Company : compagnie*.
+- *l. 4* : **4** **qq** *quelques* ; **symphe** *sympathique*.
+- *l. 5* : **5** **extt** *extrêmement*.
+- *l. 6* : **6** **lunch** *angl.* déjeuner ; **lorry** *angl.* camion.
+- *l. 8* : **8** **Fse** *française*.
+- *l. 9* : **9** **billet** *angl.* logement de cantonnement ; **=** équivalence explicative : c’est-à-dire une grande chambre ; **gde** *grande*.
+- *l. 10* : **10** **chz** *chez* ; **Mme** *Madame* ; **Ve** Veuve est le développement probable ; le cliché ne fournit pas un patronyme développé à sa suite.
+- *l. 14* : **14** **ples** *postales*.
+- *l. 15* : **15** **"** signe de répétition renvoyant à Doullens, à la ligne précédente ; **canteen** *angl.* cantine.
+- *l. 16* : **16** **ples** *postales*.
+- *l. 17* : **17** **Tip** *angl.* pourboire ; **driver** *angl.* conducteur ; **lorry** *angl.* camion.
+- *l. 18* : **18** **Gift** *angl.* cadeau ; somme donnée ; **Q.M.S.** *Quartermaster Sergeant : sous-officier chargé de l’approvisionnement*.
 
 * * *
 
-**l.~4 symphe / l.~5 extt :** Abréviations pour *sympathique* et *extrêmement*. **l.~9 trouvé 1 billet = gde chambre :** Le signe *=* introduit ici une équivalence explicative (*c'est-à-dire une grande chambre*). **l.~15 A " , canteen :** Guillemets de répétition (dittogramme) renvoyant à *A Doullens* de la ligne précédente.
+Le signe = introduit l’explication du billet, logement de cantonnement ; le signe de répétition du compte reprend Doullens. Ve après Mme est vraisemblablement l’abréviation de veuve, sans patronyme développé assuré. Un trait horizontal sépare les dépenses du récit. Les intitulés anglais Tip, driver et Gift reçoivent une traduction, comme lunch, lorry et canteen.
 
 > **Cantonnement :** La compagnie retrouvée en 066 cantonne à Barlette, près de Ribeaucourt. Combes fait viser son titre de permission à Bernaville, puis trouve une grande chambre à 900 mètres de Barlette. Le compte porte un cadeau 5 fr au Q.M.S. Tait, nom encore proposé. Les lignes n’attribuent pas à Tait une identité complète, ni à la maison la localisation exacte du camp. Le rapprochement avec le 18th Divisional Train est celui documenté en 066.
 
@@ -3166,6 +3423,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 16 nombre des jours laissé en blanc..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | Sam. 7.          Octbre 1916
@@ -3186,20 +3445,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 16 | mess en septbre, pour — — jours : 29 f —
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 2* : **2 s/** *abbr. pro* sur.
-- *l. 3* : **3 1/2** *scil.* demi / moitié.
-- *l. 6* : **6 plaintivt** *abbr. pro* plaintivement.
-- *l. 10* : **10 ds** *abbr. pro* dans. **10 bp** *abbr. pro* beaucoup.
-- *l. 11* : **11 gde** *abbr. pro* grande.
-- *l. 12* : **12 gd** *abbr. pro* grand. **12 extt** *abbr. pro* extrêmement.
-- *l. 14* : **14 gds** *abbr. pro* grands.
-- *l. 15* : **15 Cap.** *abbr. pro* Capitaine.
-- *l. 16* : **16 mess** *angl. in ms.*
+- *l. 1* : **1** **Sam.** *samedi* ; **Octbre** *octobre*.
+- *l. 2* : **2** **s/** *sur*.
+- *l. 6* : **6** **plaintivt** *plaintivement*.
+- *l. 10* : **10** **bp** *beaucoup* ; **ds** *dans* ; **billet** *angl.* logement de cantonnement.
+- *l. 11* : **11** **gde** *grande*.
+- *l. 12* : **12** **gd-mère** *grand-mère* ; **extt** *extrêmement*.
+- *l. 13* : **13** **ac** *avec*.
+- *l. 14* : **14** **gds** *grands*.
+- *l. 15* : **15** **Cap.** *capitaine*.
+- *l. 16* : **16** **mess** *angl.* table commune des officiers ; popote ; **septbre** *septembre* ; **— —** tirets autographes : le nombre des journées n’est pas renseigné.
 
 * * *
 
-**l.~10--11 Me plais bp ds mon billet. Ai très gde chambre :** Satisfaction devant le confort de son logement chez sa logeuse. **l.~16 pour — — jours :** Double tiret laissant en blanc le nombre exact de journées de popote du mois de septembre.
+Le nombre de journées de mess est laissé non renseigné entre pour et jours, par des tirets autographes ; il ne s’agit pas d’une perte matérielle du support. La contraction ac signifie avec et gd-mère se développe grand-mère. Le billet est le logement de cantonnement. Le compte inférieur, consacré à la popote de septembre, est séparé du récit par un trait horizontal.
 
 > **Chambre etmess :** Le 7 octobre, Combes s’installe dans un ancien salon, devant une pâture aux pommiers et de grands bois ; il décrit le vent et la pluie. Il paie au Cap. Panton 29 f pour sa part des dépenses du mess en septembre. Le nombre de jours est laissé vide dans le compte. Une moyenne de 2 f 20 par jour ou le rôle de gérant attribué au capitaine ne se déduisent pas de cette somme.
 
@@ -3211,6 +3470,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Barlette (Ribeaucourt) et Bernaville (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 5 entrées contrôlées.
 
 ```text
  1 | Dim. 8.          Octb 1916
@@ -3225,12 +3486,14 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 10 | A Bernaville, solde & indemnité : 78 f 75
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 7* : **7 fse** *abbr. pro* française.
+- *l. 1* : **1** **Dim.** *dimanche* ; **Octb** *octobre*.
+- *l. 3* : **3** **Jouis repos complet village paisible** Construction verbale elliptique : les prépositions et articles attendus ne sont pas écrits.
+- *l. 7* : **7** **fse** *française*.
+- *l. 10* : **10** **A Bernaville** La recette de solde et indemnité est isolée au bas de la page sous un trait horizontal.
 
 * * *
 
-**l.~3 Jouis repos complet village paisible :** Juxtaposition nominale sans préposition ni article. **l.~9--10 Pays très verdoyant & boisé / solde & indemnité :** Emploi de l'esperluette cursive dans le corps du texte et dans la mention comptable.
+Jouis est un verbe et non le premier terme d’une juxtaposition nominale : la phrase condense le complément et les indications de lieu sans écrire toutes les prépositions ou tous les articles. Rien ne permet d’y supposer une lacune matérielle. La seule mention comptable est isolée au bas de la page par un trait horizontal.
 
 > **Bernaville :** Le 8 octobre, après l’installation, Combes fait l’aller-retour à pied au bureau de la mission française à Bernaville. Il note 78 f 75 de solde et indemnité. La périodicité de quinzaine n’est pas indiquée. Le contexte de sa compagnie est attesté par 066–067 ; il ne suffit pas à préciser à lui seul l’organisation de ce bureau de mission.
 
@@ -3243,6 +3506,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 15 contraction mervt proposée..
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
+- **Réserves de l'apparat** : contraction proposée mervt.
 
 ```text
  1 | Lundi 9          Oct – / 16
@@ -3267,18 +3533,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 20 | belle chambre, 1 vrai salon.
 ```
 
-- *l. 5* : **5 parallelt** *abbr. pro* parallèlement.
-- *l. 7* : **7 Ds** *abbr. pro* Dans. **7 enchevêtrt** *abbr. pro* enchevêtrement.
-- *l. 9* : **9 plusis** *abbr. pro* plusieurs.
-- *l. 10* : **10 ds** *abbr. pro* dans. **10 lgt** *abbr. pro* longtemps.
-- *l. 14* : **14 mess** *angl. in ms.*
-- *l. 15* : **15** *lect. incert. in ms.* **15 pleine** *add. interl. in ms.*
-- *l. 16* : **16 qq** *abbr. pro* quelque(s).
-- *l. 19* : **19 ds** *abbr. pro* dans. **19 gde** *abbr. pro* grande.
+- *l. 1* : **1** **Oct** *octobre*.
+- *l. 5* : **5** **parallelt** *parallèlement*.
+- *l. 7* : **7** **Ds** *Dans* ; **enchevêtrt** *enchevêtrement*.
+- *l. 9* : **9** **plusis** *plusieurs*.
+- *l. 10* : **10** **lgt** *longtemps* ; **ds** *dans*.
+- *l. 14* : **14** **mess** *angl.* table commune des officiers ; popote.
+- *l. 15* : **15** **[mervt ?]** Contraction proposée pour merveilleusement ; lecture réservée ; **pleine** Mot ajouté sous lune, dans l’interligne.
+- *l. 16* : **16** **qq** *quelques*.
+- *l. 19* : **19** **infinimt** *infiniment* ; **ds** *dans* ; **gde** *grande*.
 
 * * *
 
-**Contractions :** parallelt, enchevêtrt, plusis et infinimt sont conservés sans ajout dans le texte. Après ciel, la contraction est proposée mervt, avec réserve. Pleine est ajouté sous lune. Campagne curieuse à regarder les moindres details garde son tour elliptique.
+Pleine est une addition interlinéaire placée sous lune. La contraction après ciel reste proposée mervt, à développer éventuellement merveilleusement. Infinimt signifie infiniment ; ce développement, déjà cité dans l’ancien commentaire, manquait pourtant en marge. Campagne curieuse à regarder les moindres details conserve sa construction elliptique.
 
 > **Forêt et lune :** Le 9 octobre, Combes décrit une forêt proche de la route, des arbres qu’il juge plusieurs fois séculaires, puis le bruissement du vent. Le bois de Ribeaucourt, nommé le 11 octobre (vue 072), est un rapprochement géographique plausible ; cette vue ne nomme pas la forêt ni la route. Le retour du mess se fait sous la lune, et Combes note son plaisir dans la grande chambre. Il ne déclare pas une journée entière sans service.
 
@@ -3290,6 +3557,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Barlette et bois de Ribeaucourt (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
 
 ```text
  1 | Mardi 10          Oct 1916
@@ -3312,18 +3581,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | gde paix épandue ——————
 ```
 
-- *l. 3* : **3 green** *angl. in ms.*
-- *l. 4* : **4 ds** *abbr. pro* dans. **4 forage** *angl. in ms.*
-- *l. 6* : **6 s/** *abbr. pro* sur.
-- *l. 8* : **8 qq** *abbr. pro* quelque(s).
-- *l. 14* : **14 ts** *abbr. pro* tous.
-- *l. 16* : **16 ds** *abbr. pro* dans.
-- *l. 17* : **17 qq** *abbr. pro* quelque(s).
-- *l. 18* : **18 gde** *abbr. pro* grande.
+- *l. 1* : **1** **Oct** *octobre*.
+- *l. 3* : **3** **green** *angl.* fourrage vert ; la locution anglaise green forage continue à la ligne suivante.
+- *l. 4* : **4** **ds** *dans*.
+- *l. 6* : **6** **s/** *sur*.
+- *l. 7* : **7** **rempli yeux vue** Construction elliptique : articles et préposition omis dans la notation du carnet.
+- *l. 8* : **8** **qq** *quelque, au sens d’environ devant 40 ou 50 mètres*.
+- *l. 14* : **14** **ts** *tous*.
+- *l. 16* : **16** **ds** *dans*.
+- *l. 17* : **17** **qq** *quelques*.
+- *l. 18* : **18** **gde** *grande*.
 
 * * *
 
-**l.~3--5 occupé pour green forage. Conduit fourragères ds les champs :** Emploi conjoint du syntagme anglais *green forage* et du français *fourragères* (chariots à fourrage). **l.~7--8 rempli yeux vue des bois :** Condensation télégraphique par suppression de l'article et de la préposition.
+Green forage est une seule expression anglaise, répartie sur deux lignes ; fourragères désigne les chariots à fourrage. Qq a deux valeurs dans cette page : quelque, environ, devant une estimation chiffrée ; quelques devant rares étoiles. Rempli yeux vue conserve ses ellipses et n’appelle pas de suppléments dans le texte.
 
 > **Fourrage vert :** Le 10 octobre, matin et après-midi sont occupés au green forage. Combes conduit des fourragères, surveille le chargement de luzerne et observe les bois à quelque 40 ou 50 mètres. Cette activité prolonge les corvées de fourrage des vues 049–050, après son retour à la 152 Coy en 066. La description des feuillages et de la lune accompagne ainsi une tâche de ravitaillement ; elle ne prouve pas l’usage de tout ce chargement par les seuls attelages de sa compagnie.
 
@@ -3335,6 +3606,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Barlette et Ribeaucourt (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 7 entrées contrôlées.
 
 ```text
  1 | Mer. 11          Oct / 16
@@ -3348,15 +3621,15 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
  9 | pluvieux. – –
 ```
 
-- *l. 1* : **1 Mer.** *scil.* Mercredi.
-- *l. 2* : **2 de =** *signum aequalitatis pro* de même.
-- *l. 4* : **4 ds** *abbr. pro* dans.
-- *l. 6* : **6 tt** *abbr. pro* tout.
-- *l. 8* : **8 Tt** *abbr. pro* Tout.
+- *l. 1* : **1** **Mer.** *mercredi* ; **Oct** *octobre*.
+- *l. 2* : **2** **=** même : de même manière qu’hier.
+- *l. 4* : **4** **ds** *dans*.
+- *l. 6* : **6** **billet** *angl.* logement de cantonnement ; **tt** *tout, adverbe devant ruisselants*.
+- *l. 8* : **8** **Tt** *Tout*.
 
 * * *
 
-**l.~2 de = :** Signe égal employé pour « même »: « Matinée employée de même manière qu’hier ». **l.~6 billet :** Logement de cantonnement; casque et cape sont notés ruisselants.
+Le signe = remplace même dans de même manière qu’hier ; il n’est pas un signe de répétition de ligne. Tt est adverbial devant ruisselants et adjectif dans Tt le jour. Le trait horizontal tracé au-dessous du récit laisse la partie inférieure vide : aucun compte n’est ajouté dans cet espace.
 
 > **Ribeaucourt :** Le 11 octobre, Combes conduit sous une pluie battante des wagons dans un champ de luzerne derrière le grand bois de Ribeaucourt. Il rentre au billet, casque et cape ruisselants, puis note une liberté entière l’après-midi. Cette entrée nomme le bois et permet de proposer un rapprochement avec les promenades forestières voisines, sans rendre certaines toutes les localisations du séjour.
 
@@ -3368,6 +3641,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Barlette, Ribeaucourt et Prouville (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | Jeudi 12          Octb / 16
@@ -3390,18 +3665,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | shifterons dimanche. Regret de partir!
 ```
 
-- *l. 3* : **3 limber** *angl. in ms.*
-- *l. 4* : **4 ds** *abbr. pro* dans. **4 gd** *abbr. pro* grand.
-- *l. 7* : **7 ds** *abbr. pro* dans.
-- *l. 9* : **9 lgs** *abbr. pro* longtemps.
-- *l. 11* : **11 Ven.** *scil.* Vendredi.
-- *l. 15* : **15 Cap.** *abbr. pro* Capitaine.
-- *l. 17* : **17 ns** *abbr. pro* nous.
-- *l. 18* : **18 shifterons** *angl. in ms.*
+- *l. 1* : **1** **Octb** *octobre*.
+- *l. 3* : **3** **limber** *angl.* avant-train ; véhicule hippomobile ; **G.S.** *General Service : service général ; qualifie wagons à la ligne suivante*.
+- *l. 4* : **4** **wagons** *angl.* chariots de transport ; **ds** *dans* ; **gd** *grand*.
+- *l. 7* : **7** **ds** *dans*.
+- *l. 9* : **9** **lgs** *longtemps*.
+- *l. 11* : **11** **Ven.** *vendredi* ; **Tjours** *Toujours*.
+- *l. 15* : **15** **av.** *avec* ; **Cap.** *capitaine* ; **Pant.** *Panton, patronyme abrégé*.
+- *l. 16* : **16** **k** *kilomètres*.
+- *l. 17* : **17** **ns** *nous*.
+- *l. 18* : **18** **shifterons** *hybr.* changerons de cantonnement ; radical anglais shift avec terminaison du futur français.
 
 * * *
 
-**l.~3--4 limber & G.S. wagons :** Deux désignations anglaises sont coordonnées par une esperluette ; le texte ne porte pas un nom composé limber G.S. **l.~17--18 ns shifterons :** Futur français formé sur le radical anglais shift-.
+Le trait horizontal médian sépare les journées du jeudi 12 et du vendredi 13. Limber et G.S. wagons sont coordonnés par une esperluette : G.S. qualifie wagons, non limber. Shifterons est un futur francisé formé sur shift, au sens de changer de cantonnement. Pant. abrège ici le nom Panton.
 
 > **12–13 octobre :** Les mots limber et G.S. wagons désignent deux matériels coordonnés dans la conduite aux champs de luzerne. Le vendredi, Combes note une course à cheval avec Cap. Pant. jusqu’à Prouville, distant de 4 k, puis l’annonce du départ prévu dimanche. Ce mouvement se réalise en 074. L’orientation sud-est ajoutée dans la notice concurrente n’est pas retenue sans carte ; aucune destination opérationnelle n’est donnée dans l’annonce.
 
@@ -3414,6 +3691,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 9 espace laissé vide après Au delà de..
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
 
 ```text
  1 | Dim. 15          Oct / 16
@@ -3433,19 +3712,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 15 | Cartes ples à Beauval : 15 c
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 2* : **2 Ts** *abbr. pro* Tous. **2 définitt** *abbr. pro* définitivement.
-- *l. 3* : **3 lgt** *abbr. pro* longtemps. **3 mess** *angl. in ms.*
-- *l. 6* : **6 m.** *abbr. pro* matin.
-- *l. 9* : **9** *spatium relictum in ms.*
-- *l. 10* : **10 1/2** *scil.* demi / moitié. **10 s.** *abbr. pro* soir.
-- *l. 13* : **13 mess** *angl. in ms.*
-- *l. 14* : **14 c.** *abbr. pro* centimes. **14 washing** *angl. in ms.*
-- *l. 15* : **15 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Dim.** *dimanche* ; **Oct** *octobre*.
+- *l. 2* : **2** **Ts** *Tous* ; **définitt** *définitivement*.
+- *l. 3* : **3** **mess** *angl.* table commune des officiers ; popote ; **lgt** *longtemps*.
+- *l. 9* : **9** **[blanc]** espace laissé non rempli après de ; aucun nom de lieu n’est restitué.
+- *l. 13* : **13** **mess** *angl.* lieu où les officiers prennent leurs repas en commun.
+- *l. 14* : **14** **washing & darning** *angl.* lavage et reprisage du linge.
+- *l. 15* : **15** **ples** *postales*.
 
 * * *
 
-**l.~2--3 définitt / lgt :** Contractions conservées. **l.~9 Au delà de [blanc] :** Espace non rempli après de, sans restitution d’un nom de lieu. **l.~14 washing & darning :** Deux rubriques anglaises coordonnées ; le compte porte 70 c.
+Après Au delà de, un espace non rempli précède averses très fortes ; aucune perte matérielle ni aucun nom de lieu certain n’en est déduit. Un trait horizontal sépare le compte du récit. Washing & darning désigne le lavage et le reprisage du linge, en un poste de dépense commun. Les contractions définitt et lgt sont développées.
 
 > **Barlette–Beauval :** Le 15 octobre, la colonne part vers 11 H 15 et arrive à Beauval à 3 H 1/2 du soir, sous des averses. Combes trouve une petite chambre face au mess et compte séparément washing&darning 70 c et Connelly 1 f. L’étape se poursuit le lendemain vers Warloy-Baillon (vue 075). Le déplacement peut être replacé dans l’activité de la 18e Division sur l’Ancre, mais ces seules lignes ne fixent pas un objectif de retour à Regina Trench.
 
@@ -3458,6 +3735,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 12 tracé chargé au mot battalions, état sous-jacent non déchiffré..
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
+- **Réserves de l'apparat** : interprétation des traits sur battalions.
 
 ```text
  1 | Lundi 16 — | Sur pied à 5h 1/2 — Très bonne nuit. Oct /16
@@ -3479,17 +3759,15 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 17 | Visité ds la brasserie et revu amis.
 ```
 
-- *l. 1* : **1 1/2** *scil.* demi / moitié.
-- *l. 4* : **4 m.** *abbr. pro* matin.
-- *l. 12* : **12 A.S.C.** *angl.* Army Service Corps. **12 R.F.A.** *angl.* Royal Field Artillery.
-- *l. 13* : **13 s.** *abbr. pro* soir.
-- *l. 14* : **14 tommies** *angl. in ms.*
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 17* : **17 ds** *abbr. pro* dans.
+- *l. 1* : **1** **Oct** *octobre* ; **|** trait séparant la date du début de l’entrée.
+- *l. 12* : **12** **A.S.C.** *Army Service Corps : corps britannique du ravitaillement et des transports* ; **R.F.A.** *Royal Field Artillery : artillerie de campagne britannique* ; **infantry battalions** *angl.* bataillons d’infanterie ; **battalions** Encrage très dense et interférence avec des hampes de la ligne précédente ; une biffure autonome ne peut être affirmée.
+- *l. 14* : **14** **tommies** *angl.* soldats britanniques, désignation familière.
+- *l. 15* : **15** **ds** *dans*.
+- *l. 17* : **17** **ds** *dans*.
 
 * * *
 
-**l.~1 Lundi 16 — | Sur pied à 5h 1/2 :** Trait vertical séparant l'indication calendaire du début de la phrase nominale. **l.~12 convois d'A.S.C., R.F.A. etc. etc. & infantry battalions :** Insertion directe des sigles et syntagmes militaires anglais (*Army Service Corps*, *Royal Field Artillery*, *infantry battalions*, et l.~14 *tommies*) au sein de la phrase française.
+Un trait après Lundi 16 sépare la date de l’entrée. A.S.C. et R.F.A. sont des sigles militaires ; infantry battalions et tommies sont des emprunts directs. La fin de battalions est très encrée, avec des traits provenant aussi de la ligne précédente : cela ne suffit pas à déclarer le mot supprimé. Les ellipses de Colonne, convoi, partie de la colline où campé sont conservées.
 
 > **Marche vers Warloy-Baillon :** Le 16 octobre, le départ de Beauval à 7 H 30 est suivi du passage par Beauquesne, d’une halte au-delà de Puchevillers et d’une arrivée vers 6 H du soir à Warloy-Baillon. Combes note les nombreux convois A.S.C. et R.F.A. et les bataillons d’infanterie, puis un camp sous tentes près de la route de Senlis. La durée entre les horaires est d’environ dix heures et demie, sans être une mesure du seul temps de marche. Le carnet ne désigne pas ici les services médicaux du village.
 
@@ -3501,6 +3779,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Beauval, Warloy-Baillon (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
 
 ```text
  1 | 16 Lundi          Oct /16
@@ -3518,18 +3798,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 13 | sorte
 ```
 
-- *l. 2* : **2** *in marg. cum unco* (comptes). **2 groom** *angl. in ms.*
-- *l. 3* : **3 ctes ples** *abbr. pro* cartes postales.
-- *l. 5* : **5 off.** *abbr. pro* officier(s).
-- *l. 8* : **8 1/2** *scil.* demi / moitié. **8 m.** *abbr. pro* matin.
-- *l. 9* : **9 ds** *abbr. pro* dans. **9 tt** *abbr. pro* tout.
-- *l. 10* : **10 infrie** *abbr. pro* infanterie.
-- *l. 11* : **11 m.** *abbr. pro* matin.
-- *l. 12* : **12 tte** *abbr. pro* toute. **12 tjrs** *abbr. pro* toujours.
+- *l. 1* : **1** **Oct** *octobre*.
+- *l. 2* : **2** **room** *angl.* chambre ; **groom** *angl.* ordonnance ; soldat chargé du service personnel ; **A Beauval** Les crochets de la transcription sont éditoriaux : les comptes occupent le haut de page, sans crochet autographe démontré.
+- *l. 3* : **3** **ctes ples** *cartes postales*.
+- *l. 5* : **5** **off.** *officiers*.
+- *l. 9* : **9** **ds** *dans* ; **tt** *tout*.
+- *l. 10* : **10** **infrie** *infanterie*.
+- *l. 12* : **12** **tjrs** *toujours* ; **tte** *toute*.
 
 * * *
 
-**l.~1--3 16 Lundi / A Beauval, room : 1 f — groom : 1 f :** Rappel de la date de la veille en haut de page pour encadrer d'un crochet le relevé des menues dépenses de logement (*room*) et de pourboire à l'ordonnance (*groom*), suivi d'un trait horizontal séparateur avant l'entrée du mardi 17 octobre.
+Les dépenses de la veille sont placées en tête, puis un trait horizontal ouvre l’entrée du mardi 17. Le cliché ne confirme pas un crochet autographe encadrant ces comptes : les crochets imprimés sont éditoriaux. Room signifie chambre ; groom désigne l’ordonnance, sans que la seule rubrique précise la nature exacte de la somme donnée. Off. est ici pluriel après 2.
 
 > **Bivouac et départ :** Après les comptes du 16 octobre, l’entrée du 17 décrit une nuit sous tente près de deux officiers (dont le Lt Ford, rapprochable du Capt. E. M. Ford, M.C., attesté au 18th Divisional Train par Nichols, 1922, p. 432), le froid, une demi-lune argentée et le mouvement du camp. Les régiments d’infanterie partent d’abord, puis Combes se met en route à 10 H. Il qualifie de nouvelles les sensations du bivouac ; cela ne suffit pas à établir sa toute première nuit sous toile. La vue 077 poursuit l’étape au-delà de Senlis.
 
@@ -3541,6 +3820,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Senlis-le-Sec, Bouzincourt, Hédauville (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
 
 ```text
  1 | Dépassé Senlis. Campé ds 1 champ dévasté, 1/2 route entre
@@ -3554,14 +3835,15 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
  9 | 17 Mardi          Oct /16
 ```
 
-- *l. 1* : **1 ds** *abbr. pro* dans. **1 1/2** *scil.* demi / moitié.
-- *l. 3* : **3 ns** *abbr. pro* nous.
-- *l. 6* : **6 ds** *abbr. pro* dans. **6 s/** *abbr. pro* sur.
-- *l. 7* : **7 Tte** *abbr. pro* Toute.
+- *l. 1* : **1** **ds** *dans* ; **1/2 route** mi-route, à mi-chemin ; la fraction ne désigne pas une heure.
+- *l. 3* : **3** **ns** *nous*.
+- *l. 6* : **6** **ds** *dans* ; **mess-tent** *angl.* tente servant de salle à manger aux officiers ; **s/** *sur*.
+- *l. 7* : **7** **Tte** *Toute*.
+- *l. 9* : **9** **Oct** *octobre* ; **17 Mardi** Date portée au bas de la page, après le récit ; celui-ci poursuit directement la vue 076.
 
 * * *
 
-**l.~1 1/2 route :** Dans cette phrase, la fraction devant route est interprétée comme mi-route, à mi-chemin. **l.~9 date :** Le 17 Mardi Oct/16 figure en bas de la vue ; le texte poursuit directement celui de la photographie précédente.
+La fraction dans 1/2 route signifie à mi-chemin entre les deux villages ; elle n’est pas une indication horaire. Mess-tent est un composé anglais désignant la tente des repas. La date 17 Mardi Oct /16 est inscrite au bas de la page ; elle date le récit continué depuis la vue 076.
 
 > **Camp entre Bouzincourt et Hédauville :** Après Senlis, Combes s’installe dans un champ dévasté, à 1/2 route entre Bouzincourt et Hédauville. Il aménage une hutte ouverte pour les sacs, puis dort dans la mess-tent sur un fauteuil-toile, sous la pluie et dans le froid. Le contexte est celui de la compagnie retrouvée en 066, mais la position exacte du camp et son rôle dans le dispositif du IIe Corps ne se déduisent pas de ces seules indications.
 
@@ -3573,6 +3855,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Camp de Bouzincourt, Albert (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | Merc. 18          Oct /16
@@ -3591,19 +3875,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 14 | 1 caisse, regardé à loisir camp et au-delà route
 ```
 
-- *l. 1* : **1 Merc.** *scil.* Mercredi.
-- *l. 2* : **2 mess** *angl. in ms.*
-- *l. 5* : **5 s/** *abbr. pro* sur. **5 breakfast** *angl. in ms.*
-- *l. 6* : **6 frse** *abbr. pro* française.
-- *l. 7* : **7 lgt** *abbr. pro* longtemps. **7 passim** *lat.* çà et là.
-- *l. 9* : **9 qq** *abbr. pro* quelque(s).
-- *l. 10* : **10 s/** *abbr. pro* sur. **10 lorry** *angl. in ms.*
-- *l. 11* : **11 de =** *signum aequalitatis pro* de même.
-- *l. 12* : **12 Tt** *abbr. pro* Tout.
+- *l. 1* : **1** **Merc.** *mercredi* ; **Oct** *octobre*.
+- *l. 2* : **2** **mess-tent** *angl.* tente servant de salle à manger aux officiers.
+- *l. 3* : **3** **cooks** *angl.* cuisiniers.
+- *l. 5* : **5** **breakfast** *angl.* petit déjeuner ; **a lift** *angl.* un transport sur le véhicule d’autrui ; ici, se faire emmener ; **s/** *sur* ; **lorry** *angl.* camion.
+- *l. 6* : **6** **frse** *française*.
+- *l. 7* : **7** **passim** *lat.* çà et là ; **lgt** *longtemps*.
+- *l. 9* : **9** **qq** *quelques*.
+- *l. 10* : **10** **s/** *sur* ; **lorry** *angl.* camion.
+- *l. 11* : **11** **=** même, dans revenu de même.
+- *l. 12* : **12** **Tt** *Tout*.
 
 * * *
 
-**l.~5 eu a lift s/ 1 lorry :** Bel exemple de code-switching syntaxique franco-anglais (*to have a lift on a lorry*, se faire transporter sur un camion militaire). **l.~10--11 revenu / de = :** Signe tachygraphique d'égalité (`=`) employé pour abréger la locution adverbiale *de même*.
+Le récit mêle français et anglais dans eu a lift s/ 1 lorry, sans que le a anglais soit corrigé en article français. Passim est un adverbe latin, distinct des emprunts anglais mess-tent, cooks et breakfast. Le signe = signifie même dans de même. Les autres ellipses du récit sont conservées.
 
 > **Basilique d’Albert :** Le 18 octobre, Combes utilise un lorry chargé d’obus pour venir à Albert, visite la mission et s’arrête devant la basilique ravagée. La notice Mérimée correcte est PA 80000002 : Notre-Dame-de-Brébières, fondée sur les plans d’Edmond Duthoit et construite entre 1884 et 1897, avant sa ruine pendant la guerre. La référence PA 00116039 concerne l’église et le prieuré d’Airaines. La description de la Vierge sera reprise le 22 octobre (vue 083) ; le mot découvre ne prouve pas ici une première visite d’Albert.
 
@@ -3617,6 +3902,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 1 surl. : développement sur laquelle proposé.; l. 7 nature du paiement 84 fr non précisée..
 
+- **Apparat révisé intégralement sur l'image** : 13 entrées contrôlées.
+- **Réserves de l'apparat** : développement de sur l.; nature des 84 fr non indiquée.
+
 ```text
  1 | sur l., nuit & jour, flot ininterrompu de véhicules de
  2 | ttes sortes : lorries, caissons de munitions etc. Autant de
@@ -3627,16 +3915,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
  7 | | Albert, mission frse : 84 fr. —
 ```
 
-- *l. 2* : **2 ttes** *abbr. pro* toutes. **2 lorries** *angl. in ms.*
-- *l. 3* : **3 gde** *abbr. pro* grande.
-- *l. 4* : **4 off.** *abbr. pro* officier(s). **4 dinner** *angl. in ms.*
-- *l. 5* : **5 ds** *abbr. pro* dans. **5 mess** *angl. in ms.*
-- *l. 6* : **6 Merc.** *scil.* Mercredi. **6 cartes ples** *abbr. pro* cartes postales.
-- *l. 7* : **7 frse** *abbr. pro* française. **7 fr.** *abbr. pro* franc(s).
+- *l. 1* : **1** **sur l.** Suspension proposée pour sur laquelle, renvoyant à route à la fin de la vue 078.
+- *l. 2* : **2** **ttes** *toutes* ; **lorries** *angl.* camions.
+- *l. 3* : **3** **gde** *grande*.
+- *l. 4* : **4** **dinner** *angl.* dîner ; **off.** *officiers*.
+- *l. 5* : **5** **ds** *dans* ; **mess-tent** *angl.* tente servant de salle à manger aux officiers.
+- *l. 6* : **6** **Merc.** *mercredi* ; **ples** *postales* ; **Oct** *octobre* ; **Albert : cartes** Le trait horizontal inférieur sépare le compte ; un trait vertical à gauche distingue la date des deux postes de dépenses.
+- *l. 7* : **7** **frse** *française*.
 
 * * *
 
-**l.~1 surl. :** Suspension interprétée comme sur laquelle, renvoyant à route en fin de vue 078. **l.~6--7 comptes :** Cartes postales 40 c et mission française 84 fr sont notés séparément. La nature du second paiement n’est pas écrite ici.
+La suspension sur l. se rattache à la route en fin de vue 078 ; sur laquelle reste un développement proposé. Dans le compte inférieur, un trait vertical sépare la date et les postes Albert : cartes ples puis mission frse. Les 84 fr sont conservés sans qualifier leur nature de solde ou d’avance, qui n’est pas écrite ici. Off. est pluriel après les.
 
 > **Circulation logistique :** Cette suite de 078 compare le flot nocturne et diurne de lorries et de caissons à celui d’une artère de capitale. La prise de Regina Trench par la 53e Brigade le 21 octobre est attestée par Nichols, p. 131 ; elle fournit un contexte proche, mais n’identifie ni les unités ni la destination de chacun des convois observés le 18. Le compte Albert, mission frse : 84 fr ne précise pas qu’il s’agit de solde.
 
@@ -3648,6 +3937,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Camp de Bouzincourt, Albert (Brickfield Area, Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
 
 ```text
  1 | Jeudi 19          Oct /16
@@ -3672,18 +3963,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 20 | [ — Cartes ples d'Albert : 20 c ]
 ```
 
-- *l. 4* : **4 tte** *abbr. pro* toute.
-- *l. 7* : **7 mess** *angl. in ms.*
-- *l. 10* : **10 s/** *abbr. pro* sur.
-- *l. 12* : **12 ns** *abbr. pro* nous.
-- *l. 13* : **13 ds** *abbr. pro* dans.
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 16* : **16 qq** *abbr. pro* quelque(s).
-- *l. 20* : **20** *in marg. cum unco* (comptes). **20 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Oct** *octobre*.
+- *l. 4* : **4** **Tte** *Toute* ; **tte** *toute*.
+- *l. 7* : **7** **mess** *angl.* table commune des officiers ; popote.
+- *l. 10* : **10** **s/** *sur*.
+- *l. 11* : **11** **brickfield area** *angl.* secteur des briqueteries.
+- *l. 12* : **12** **ns** *nous*.
+- *l. 13* : **13** **ds** *dans*.
+- *l. 15* : **15** **ds** *dans*.
+- *l. 16* : **16** **qq** *quelque, au sens d’environ devant 3 ou 400 mètres*.
+- *l. 20* : **20** **ples** *postales* ; **Cartes** Poste isolé au bas de la page, précédé d’un trait ; les crochets imprimés sont éditoriaux, sans crochet autographe attesté.
 
 * * *
 
-**l.~11 brickfield area :** Désignation anglaise conservée telle qu’écrite ; la localisation précise du secteur des briqueteries demanderait une carte contemporaine. **l.~15--17 chambre :** Le diariste écrit Réussi par trouver puis Y installé!, sans ajouter de description du logement.
+La locution brickfield area est conservée et traduite secteur des briqueteries ; sa localisation ne se déduit pas des lettres seules. Qq devant 3 ou 400 mètres est adverbial, au sens d’environ. Réussi par trouver et Y installé! gardent leur construction abrégée. Le compte des cartes est isolé au bas de la page avec un trait à gauche ; les crochets imprimés ne représentent pas un crochet autographe.
 
 > **Brickfield area :** Le 19 octobre, Combes quitte le camp vers 11 H et arrive vers 1 H dans un secteur noté brickfield area, où des tentes et abris sont dressés sous la pluie. Il trouve une chambre à 300 ou 400 mètres et entend toute la nuit une forte canonnade. Les mentions d’Abel, fils de la maison, en 082, de la famille Duchâteau en 087 et de Victor Duchâteau en 091 peuvent éclairer ses hôtes, mais ne prouvent pas à elles seules l’identité exacte du bailleur. La localisation précise du secteur de briqueteries demande une carte.
 
@@ -3695,6 +3988,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Albert (Brickfield Area, Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
 
 ```text
  1 | Vendredi 20          Oct /16
@@ -3719,15 +4014,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 20 | extrême.
 ```
 
-- *l. 3* : **3 tjrs** *abbr. pro* toujours.
-- *l. 4* : **4 Tt** *abbr. pro* Tout. **4 qq** *abbr. pro* quelque(s).
-- *l. 10* : **10 ds** *abbr. pro* dans. **10 mess** *angl. in ms.*
-- *l. 12* : **12 ds** *abbr. pro* dans.
-- *l. 15* : **15 Coy** *angl.* Company.
+- *l. 1* : **1** **Oct** *octobre*.
+- *l. 3* : **3** **tjrs** *toujours*.
+- *l. 4* : **4** **Tt** *Tout* ; **bombardemt** *bombardement* ; **qq** *quelques*.
+- *l. 10* : **10** **mess-room** *angl.* salle des repas des officiers ; **ds** *dans*.
+- *l. 12* : **12** **ds** *dans*.
+- *l. 15* : **15** **Coy** *Company : compagnie*.
+- *l. 16* : **16** **g.** *gauche*.
 
 * * *
 
-**l.~10--11 mess-room :** Local des repas installé dans une cahute faite de caisses vides de munitions. La page ne décrit pas sa couverture ni d’autres matériaux.
+Bombardemt est une contraction de bombardement ; g. indique la gauche dans la description de l’horizon nocturne. Mess-room est le local des repas, décrit comme une cahute faite de caisses vides de munitions. L’apparat n’ajoute pas de matériau de couverture. Les traits très encrés de la fin du récit n’autorisent pas une leçon sous-jacente distincte.
 
 > **Contexte de la canonnade :** Combes décrit le 20 octobre un duel d’artillerie, les vitres et portes qui tremblent, puis un horizon illuminé depuis la colline du camp. Nichols, p. 131, atteste la prise de Regina Trench par la 53e Brigade le 21 octobre, avec le 10th Essex et le 8th Norfolks. La proximité des dates rend plausible un lien avec les préparatifs de cette action ; elle ne permet pas d’attribuer avec certitude tous les tirs entendus ou vus à cette seule opération. L’heure 12 H 06 et l’ensemble des divisions du IIe Corps ne sont pas établis par ce passage de Nichols.
 
@@ -3739,6 +4036,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Albert, Aveluy (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
 
 ```text
  1 | Samedi 21          Oct /16
@@ -3760,17 +4059,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 17 | Canonnade tjrs très violente —
 ```
 
-- *l. 3* : **3 Ds** *abbr. pro* Dans.
-- *l. 7* : **7 ds** *abbr. pro* dans.
-- *l. 9* : **9 lunch** *angl. in ms.*
-- *l. 13* : **13 home** *angl. in ms.*
-- *l. 14* : **14 ds** *abbr. pro* dans.
-- *l. 15* : **15 lgts** *abbr. pro* longtemps. **15 cie** *abbr. pro* compagnie.
-- *l. 17* : **17 tjrs** *abbr. pro* toujours.
+- *l. 1* : **1** **Oct** *octobre*.
+- *l. 3* : **3** **Ds** *Dans*.
+- *l. 7* : **7** **ds** *dans*.
+- *l. 9* : **9** **lunch** *angl.* déjeuner.
+- *l. 13* : **13** **home** *angl.* chez soi ; ici, son logement.
+- *l. 14* : **14** **ds** *dans*.
+- *l. 15* : **15** **lgts** *longtemps* ; **cie** *compagnie*.
+- *l. 17* : **17** **tjrs** *toujours*.
 
 * * *
 
-**l.~13 home :** Mot anglais employé pour le logement où il rentre après le thé. **l.~16 Abel :** Le plus jeune fils de la maison ; rapprocher la mention de M. Duchâteau et de son fils aîné en vue 087, sans inventer le prénom de ce dernier.
+Home désigne le logement dans lequel il rentre après le thé ; lunch est le déjeuner. Lgts et cie sont des contractions distinctes sur la même ligne. La phrase où notre camp dressé omet le verbe auxiliaire ; l’apparat ne le restitue pas comme un mot perdu. Abel est directement désigné comme le plus jeune fils de la maison, sans difficulté d’abréviation.
 
 > **Aveluy et Albert :** Le 21 octobre, Combes se rend à l’Ordonnance à Aveluy, observe le plateau couvert de troupes, puis lit et reste près de la cuisinière avec Abel, le plus jeune fils de la maison. Le même jour, Nichols, p. 131, attribue la prise de Regina Trench à la 53e Brigade (10th Essex et 8th Norfolks), sans faire intervenir conjointement la 55e dans cette phrase. Ce contexte ne prouve pas une liaison entre la visite de Combes et l’assaut. Duchâteau, nommé en 087, est un rapprochement familial ; la page n’écrit pas le patronyme d’Abel.
 
@@ -3783,6 +4083,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 8 millésime 1914 proposé ; pas de correction historique du chiffre..
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
+- **Réserves de l'apparat** : notation 1/2 jour; millésime proposé 1914.
 
 ```text
  1 | Dimanche 22.          Oct /16
@@ -3805,16 +4108,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | Ce soir, exceptt, calme absolu.
 ```
 
-- *l. 4* : **4 1/2** *scil.* demi / moitié.
-- *l. 5* : **5 lgts** *abbr. pro* longtemps. **5 lunch** *angl. in ms.*
-- *l. 8* : **8 1914** *lect. incert. in ms.* **8 horizle** *abbr. pro* horizontale.
-- *l. 10* : **10 qq** *abbr. pro* quelque(s).
-- *l. 14* : **14 s.** *abbr. pro* soir. **14 mess** *angl. in ms.*
-- *l. 16* : **16 passim** *lat.* çà et là.
+- *l. 1* : **1** **Oct** *octobre*.
+- *l. 4* : **4** **1/2 jour** Notation conservée ; l’indication du milieu du jour est possible, sans réduire cette lecture à une simple fraction horaire.
+- *l. 5* : **5** **lunch** *angl.* déjeuner ; **lgts** *longtemps*.
+- *l. 8* : **8** **1914 [?]** Millésime proposé ; l’incertitude graphique reste distincte de l’histoire du bombardement ; **horizle** *horizontale*.
+- *l. 10* : **10** **qq** *quelques*.
+- *l. 11* : **11** **R.A.T.** *réserve de l’armée territoriale*.
+- *l. 12* : **12** **frs** *français*.
+- *l. 14* : **14** **mess** *angl.* table commune des officiers ; popote ; **lost my way** *angl.* j’ai perdu mon chemin.
+- *l. 16* : **16** **passim** *lat.* çà et là.
+- *l. 17* : **17** **billet** *angl.* logement de cantonnement.
+- *l. 18* : **18** **exceptt** *exceptionnellement*.
 
 * * *
 
-**l.~8--9 Vierge, horizle, penche Jésus bras ouverts au-dessus place :** Description visuelle saisissante, en style télégraphique, de la statue sommitale de la basilique d'Albert. **l.~14 lost my way :** Locution anglaise (*j'ai perdu mon chemin*) insérée spontanément dans le récit nocturne.
+La notation 1/2 jour est conservée ; son sens possible de milieu du jour ne doit pas être remplacé par la glose horaire demi / moitié. R.A.T. signifie réserve de l’armée territoriale ; frs qualifie régiments français. Exceptt se développe ici exceptionnellement, en relation avec le calme de ce soir. La réserve du millésime 1914 porte sur la lecture, sans corriger l’écriture par la chronologie du monument. Lost my way et passim sont respectivement anglais et latin.
 
 > **Vierge et annonce rapportée :** La Vierge horizontale au-dessus de la place se rapproche de la Leaning Virgin documentée par l’Australian War Memorial (notice ART 02352). Cette notice situe les dommages en 1915 ; elle ne justifie pas de remplacer le millésime 1914[?]proposé dans l’autographe. Schumacher rapporte le renvoi de jeunes interprètes R.A.T. dans les régiments français. Aucun ordre ni circulaire n’est reproduit ; un lien précis avec la loi Dalbiez ou une mesure d’automne 1916 reste à établir. Son grade n’est pas donné dans cette entrée.
 
@@ -3826,6 +4134,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Albert, La Boisselle (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
 
 ```text
  1 | Lundi 23          Oct. /16
@@ -3843,17 +4153,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 13 | [ — Cartes ples d'Albert : 70 c. ]
 ```
 
-- *l. 1* : **1 Oct. /16** *abbr. pro* Octobre 1916.
-- *l. 5* : **5 off.** *abbr. pro* officier(s).
-- *l. 6* : **6 s/** *abbr. pro* sur. **6 lorry** *angl. in ms.*
-- *l. 8* : **8 ttes** *abbr. pro* toutes.
-- *l. 9* : **9 dug-outs** *angl. in ms.*
-- *l. 11* : **11 s/** *abbr. pro* sur.
-- *l. 13* : **13** *in marg. cum unco* (comptes). **13 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Oct.** *octobre*.
+- *l. 5* : **5** **off.** *officiers*.
+- *l. 6* : **6** **s/** *sur* ; **lorry** *angl.* camion.
+- *l. 8* : **8** **ttes** *toutes*.
+- *l. 9* : **9** **german dug-outs** *angl.* abris souterrains allemands.
+- *l. 11* : **11** **s/** *sur*.
+- *l. 13* : **13** **ples** *postales* ; **Cartes** Compte isolé au bas de la page, précédé d’un court trait ; aucun crochet autographe n’entoure ce poste.
 
 * * *
 
-**l.~9--10 german dug-outs. Ces abris souterrains :** Procédé stylistique caractéristique du carnet : l'auteur emploie d'abord le terme technique anglais (*german dug-outs*) avant de le gloser immédiatement en français dans la phrase suivante (« Ces abris souterrains »).
+German dug-outs forme un seul groupe anglais, immédiatement repris par Ces abris souterrains en français. Cette reprise explicative ne constitue ni rature ni variante. La dépense de cartes est isolée au bas de la page, avec un court trait à gauche : les crochets de la transcription sont éditoriaux. Off. est pluriel après 2.
 
 > **Cratère de La Boisselle :** Combes visite des german dug-outs avec deux officiers et note un énorme cratère sur la droite. Un rapprochement avec Lochnagar est plausible, mais le carnet ne le nomme pas et ne précise pas le trajet suivi. La fondation qui conserve Lochnagar date son explosion du 1er juillet 1916 à 7 H 28, par la 179th Tunnelling Company, Royal Engineers ; sa notice statistique donne 60 000 lbs d’ammonal, environ 27 tonnes. Ces renseignements concernent le site proposé, ils ne rendent pas certaine l’identification de la vision de Combes.
 
@@ -3866,6 +4176,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 9 nom Lépin/Liepin réservé ; à comparer avec 090..
+
+- **Apparat révisé intégralement sur l'image** : 13 entrées contrôlées.
+- **Réserves de l'apparat** : patronyme proposé Lépin.
 
 ```text
  1 | Mardi 24          Oct. /16
@@ -3890,19 +4203,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 20 | d'1 extrême monotonie —
 ```
 
-- *l. 1* : **1 Oct. /16** *abbr. pro* Octobre 1916.
-- *l. 5* : **5 j'à** *abbr. pro* jusqu'à.
-- *l. 8* : **8 frse** *abbr. pro* française.
-- *l. 9* : **9** *lect. incert. in ms.* **9 Lt** *abbr. pro* Lieutenant.
-- *l. 11* : **11 s/** *abbr. pro* sur. **11 qq** *abbr. pro* quelque(s).
-- *l. 14* : **14 Merc.** *scil.* Mercredi. **14 Tjrs** *abbr. pro* Toujours.
-- *l. 16* : **16 ns** *abbr. pro* nous.
-- *l. 17* : **17 ds** *abbr. pro* dans.
-- *l. 18* : **18 ds** *abbr. pro* dans.
+- *l. 1* : **1** **Oct.** *octobre*.
+- *l. 5* : **5** **j'à** *jusqu’à*.
+- *l. 8* : **8** **frse** *française*.
+- *l. 9* : **9** **[Lépin ?]** Patronyme proposé ; rapprocher le même interlocuteur à la vue 090 sans développer une identité civile certaine ; **Lt** *lieutenant*.
+- *l. 11* : **11** **qq** *quelques* ; **s/** *sur*.
+- *l. 14* : **14** **Merc.** *mercredi* ; **Tjrs** *Toujours* ; **Merc. 25** Un trait horizontal sépare les deux entrées ; un court trait vertical suit la date du mercredi.
+- *l. 16* : **16** **ns** *nous*.
+- *l. 17* : **17** **ds** *dans*.
+- *l. 18* : **18** **ds** *dans*.
 
 * * *
 
-**l.~8--10 :** L’adjudant et le lieutenant Pizzi annoncent à Combes qu’il ne quittera pas la mission. Ce renseignement répond à l’annonce rapportée le 22 octobre (scan 083), sans exposer les critères du maintien.
+Un trait horizontal sépare le mardi 24 du mercredi 25 ; un court trait vertical distingue la seconde date de sa première phrase. Le nom de l’adjudant reste proposé Lépin, à confronter au même groupe en vue 090. Le passage annonce le maintien à la mission sans en expliciter les critères. Qq devant obus est pluriel, quelques.
 
 > **Maintien à la mission :** L’adjudant au nom proposé Lépin/Liepin et Lt Pizzi annoncent à Combes qu’il ne quittera pas la mission. L’information répond à celle rapportée en 083 ; elle n’expose pas les critères du maintien. Le contexte du 18th Divisional Train est documenté séparément en 066, mais ne suffit pas à préciser les fonctions de chef de détachement de Pizzi à cette date. L’âge ou la classe de Combes peuvent être établis par sa fiche matricule, sans prouver la cause de cette décision.
 
@@ -3915,6 +4228,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 11 sigle R.E. proposé ; R.F. n’est pas exclu..
+
+- **Apparat révisé intégralement sur l'image** : 18 entrées contrôlées.
+- **Réserves de l'apparat** : second caractère du sigle R.E./R.F..
 
 ```text
  1 | Jeudi 26          Oct. /16
@@ -3941,22 +4257,23 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | à l'horizon — [ Cartes ples : 75 c ]
 ```
 
-- *l. 1* : **1 Oct. /16** *abbr. pro* Octobre 1916.
-- *l. 2* : **2 tjrs** *abbr. pro* toujours.
-- *l. 3* : **3 ds** *abbr. pro* dans.
-- *l. 4* : **4 absolt** *abbr. pro* absolument.
-- *l. 7* : **7 ds** *abbr. pro* dans. **7 ttes** *abbr. pro* toutes.
-- *l. 9* : **9 s/** *abbr. pro* sur.
-- *l. 11* : **11** *lect. incert. in ms.* **11** *in marg. cum unco* (comptes). **11 R.E.** *lect. incert.* R.F. n’est pas exclu. **11 Hair cut** *angl. in ms.*
-- *l. 12* : **12 Sam.** *scil.* Samedi.
-- *l. 13* : **13 Tjrs** *abbr. pro* Toujours.
-- *l. 15* : **15 auj'd'hui** *abbr. pro* aujourd'hui.
-- *l. 17* : **17 ts** *abbr. pro* tous. **17 passim** *lat.* çà et là.
-- *l. 22* : **22** *in marg. cum unco* (comptes). **22 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Oct.** *octobre*.
+- *l. 2* : **2** **tjrs** *toujours*.
+- *l. 3* : **3** **ds** *dans*.
+- *l. 4* : **4** **absolt** *absolument*.
+- *l. 7* : **7** **ttes** *toutes* ; **ds** *dans*.
+- *l. 9* : **9** **s/** *sur*.
+- *l. 11* : **11** **Hair cut** *angl.* coupe de cheveux ; **[R.E. ?]** R.E. est proposé ; le second caractère peut être F. Aucun nom d’unité n’est développé avec certitude ; **Hair cut** Le compte comporte un crochet ouvrant autographe à gauche ; il est placé sous le récit du 26, avant le trait séparant l’entrée suivante.
+- *l. 12* : **12** **Sam.** *samedi*.
+- *l. 13* : **13** **Tjrs** *Toujours*.
+- *l. 15* : **15** **auj'd'hui** *aujourd’hui*.
+- *l. 17* : **17** **passim** *lat.* çà et là ; **ts** *tous*.
+- *l. 20* : **20** **entt** *entièrement*.
+- *l. 22* : **22** **ples** *postales* ; **Cartes** Petit crochet ouvrant autographe avant le poste des cartes, porté dans la dernière ligne près du bas de la page.
 
 * * *
 
-**l.~11 sigle :** Lecture R.E. proposée, avec hésitation sur le second caractère ; R.F. n’est pas exclu. Aucun développement d’unité n’est assuré. **l.~12--15 Sam. 28 / hier et auj’d’hui :** Le récit mentionne les deux matinées, sans fournir une entrée distincte datée du 27.
+Les deux comptes ont chacun un crochet ouvrant visible à gauche, sans être des notes en marge latérale : Hair cut suit le récit du 26 et les cartes terminent celui du 28. Le sigle après par un reste proposé R.E., avec R.F. possible ; aucun développement régimentaire n’est certain. L’entrée du 28 mentionne hier et auj’d’hui, sans donner une entrée autonome datée du 27. Entt signifie entièrement.
 
 > **Pluie et inaction :** Les routes impraticables, la boue et l’absence de travail d’interprète trouvent un parallèle chez Nichols, p. 132, qui décrit les pluies presque quotidiennes et la boue de Regina Trench à la fin d’octobre et au début de novembre. Ce parallèle éclaire les conditions sans identifier un ordre précis de report des opérations. Le compte de coupe de cheveux porte 50 c et un sigle proposé R.E., R.F. non exclu ; l’attribution certaine aux Royal Fusiliers et à une division est retirée.
 
@@ -3968,6 +4285,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Albert, Acheux, Senlis-le-Sec (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 18 entrées contrôlées.
 
 ```text
  1 | 29 D.          Octbre /16
@@ -3997,20 +4316,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | et très fortes averses.
 ```
 
-- *l. 1* : **1 D.** *scil.* Dimanche.
-- *l. 2* : **2 tt** *abbr. pro* tout.
-- *l. 4* : **4 tjrs** *abbr. pro* toujours.
-- *l. 9* : **9 maral** *abbr. pro* maréchal.
-- *l. 10* : **10 Gd** *abbr. pro* Grand(e).
-- *l. 12* : **12 extt** *abbr. pro* extrêmement.
-- *l. 14* : **14** *in marg. cum unco* (comptes). **14 Cartes ples** *abbr. pro* Cartes postales.
-- *l. 16* : **16 L.** *scil.* Lundi.
-- *l. 18* : **18 ds** *abbr. pro* dans.
-- *l. 19* : **19 ns** *abbr. pro* nous. **19 mess** *angl. in ms.*
+- *l. 1* : **1** **D.** *dimanche* ; **Octbre** *octobre*.
+- *l. 2* : **2** **tt** *tout*.
+- *l. 4* : **4** **tjrs** *toujours*.
+- *l. 7* : **7** **straw & hay** *angl.* paille et foin.
+- *l. 9* : **9** **M.** *Monsieur* ; **maral** *maréchal, dans le grade maral logis*.
+- *l. 10* : **10** **artrie** *artillerie* ; **Gd** *Grand*.
+- *l. 11* : **11** **j.** *jeune*.
+- *l. 12* : **12** **extt** *extrêmement*.
+- *l. 14* : **14** **ples** *postales* ; **Cartes** Un crochet ouvrant autographe est tracé à gauche des deux lignes de dépenses, avant le trait horizontal qui ouvre l’entrée suivante.
+- *l. 16* : **16** **L.** *lundi*.
+- *l. 18* : **18** **j'après** *jusqu’après* ; **ds** *dans*.
+- *l. 19* : **19** **ns** *nous* ; **mess-room** *angl.* salle des repas des officiers.
 
 * * *
 
-**l.~7 straw & hay :** Paille et foin, notés en anglais ; le choix de ces mots ne suffit pas à identifier un service administratif précis. **l.~9--13 famille :** Le fils aîné de M. Duchâteau est maréchal des logis de l’artillerie belge et en permission. Rapprocher Abel en vue 082 et le compte Duchâteau de la vue 091 ; son prénom n’est pas donné ici.
+Les dépenses sont groupées par un crochet ouvrant à gauche ; un trait horizontal les sépare de l’entrée du lundi 30. Straw & hay signifie paille et foin, sans déterminer à lui seul un service administratif. Maral et artrie sont les contractions de maréchal et artillerie ; la notation maral logis omet des, sans que cette ellipse soit une abréviation supplémentaire. Gd est masculin devant beau j. homme. J’après signifie jusqu’après.
 
 > **Fourrages et famille Duchâteau :** La tournée du 29 octobre à Acheux et Senlis porte sur la paille et le foin disponibles. Elle précède le détachement annoncé en 089, sans que le lien administratif entre les deux soit explicité. Le fils aîné de M. Duchâteau est maréchal des logis de l’artillerie belge, en permission. Le don à Victor Duchâteau en 091 invite à rapprocher les noms ; il ne prouve pas que Victor soit le père du jeune militaire. Le prénom de ce dernier reste absent.
 
@@ -4023,6 +4344,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 
+- **Apparat révisé intégralement sur l'image** : 3 entrées contrôlées.
+
 ```text
  1 | 31 Ma.          Oct. /16
  2 | Matin, rafales peu à peu chassé
@@ -4032,12 +4355,12 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
  6 | Durant jour entier, ville bombardée.
 ```
 
-- *l. 1* : **1 Ma.** *scil.* Mardi. **1 Oct. /16** *abbr. pro* Octobre 1916.
-- *l. 2* : **2 chassé** *scil.* ont chassé (ellipse de l'auxiliaire).
+- *l. 1* : **1** **Ma.** *mardi* ; **Oct.** *octobre*.
+- *l. 2* : **2** **rafales peu à peu chassé** Auxiliaire non écrit : construction elliptique, sans signe d’abréviation.
 
 * * *
 
-**Disposition :** Six lignes en haut de la page, puis un large blanc. Cette disposition clôt le mois d’octobre dans la série photographiée; son intention n’est pas explicitée.
+La page porte une courte entrée en haut, suivie d’un large blanc. Rafales peu à peu chassé est une ellipse de l’auxiliaire, non une abréviation graphique de ont chassé. Cette entrée datée du 31 termine octobre dans la série photographiée ; l’intention du blanc n’est pas explicitée.
 
 > **31 octobre :** Combes juxtapose une éclaircie après les rafales, une nuit étoilée et la mention de la ville bombardée durant le jour entier. Le texte ne nomme ni l’artillerie responsable, ni ses cibles, ni une reprise de l’observation aérienne. Le retour du soleil et le bombardement sont contemporains dans cette entrée ; leur relation de cause à effet n’est pas démontrée.
 
@@ -4049,6 +4372,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Albert (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 18 entrées contrôlées.
 
 ```text
  1 | 1er Me. Toussaint. — Novembre 1916 —
@@ -4077,20 +4402,23 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | à Acheux. Ns sommes détachés de la Coy Transport —
 ```
 
-- *l. 1* : **1 1er** *scil.* premier.
-- *l. 7* : **7 1/2** *scil.* demi / moitié.
-- *l. 9* : **9 tt** *abbr. pro* tout.
-- *l. 13* : **13 s/** *abbr. pro* sur. **13 div.** *abbr. pro* diverses (devant décorations).
-- *l. 14* : **14 N.C.O's** *angl.* Non-Commissioned Officers. **14 tommies** *angl. in ms.*
-- *l. 15* : **15 s/** *abbr. pro* sur.
-- *l. 19* : **19 ds** *abbr. pro* dans.
-- *l. 20* : **20 qq** *abbr. pro* quelque(s).
-- *l. 22* : **22 Lt** *abbr. pro* Lieutenant.
-- *l. 24* : **24 Coy** *angl.* Company.
+- *l. 1* : **1** **Me.** *mercredi*.
+- *l. 7* : **7** **1/2** milieu, dans au milieu de pierres ; la fraction ne désigne pas une demi-heure.
+- *l. 9* : **9** **tt** *tout*.
+- *l. 10* : **10** **killed in action** *angl.* tués au combat.
+- *l. 12* : **12** **pl.** *plusieurs, devant bataillons*.
+- *l. 13* : **13** **génal** *général* ; **div.** *diverses, devant décorations* ; **s/** *sur*.
+- *l. 14* : **14** **tommies** *angl.* soldats britanniques, désignation familière ; **N.C.O's** *Non-Commissioned Officers : sous-officiers*.
+- *l. 15* : **15** **s/** *sur*.
+- *l. 18* : **18** **Church meeting** *angl.* réunion religieuse.
+- *l. 19* : **19** **ds** *dans*.
+- *l. 20* : **20** **qq** *quelques* ; **M.P.'s** *Military Police : policiers militaires*.
+- *l. 22* : **22** **Lt** *lieutenant*.
+- *l. 24* : **24** **Ns** *Nous* ; **Coy** *Company : compagnie*.
 
 * * *
 
-**Cimetière :** Juxtapositions brèves : Pierres brisées, Caveaux béants, Croix renversées. **l.~13 div. :** Diverses devant décorations. **Sigles :** N.C.O’s désigne les sous-officiers ; M. P.’s, la police militaire. Le carnet décrit le général comme écossais, sans nommer les bataillons rassemblés.
+Div. signifie diverses devant décorations ; pl. se développe plusieurs devant bataillons, et non place. Au 1/2 de pierres signifie au milieu de pierres. N.C.O’s désigne les sous-officiers et M.P.’s les policiers militaires. Killed in action et Church meeting sont des expressions anglaises distinctes. Le texte donne un général écossais sans nommer ici les bataillons ou l’officier.
 
 > **Cimetière et départ :** Le carré de croix anglaises contigu au cimetière civil peut être rapproché de l’Albert Communal Cemetery Extension. La CWGC décrit son enclavement dans le cimetière communal et son usage dès août 1915. Le carnet ne donne pas ce nom officiel. Après la remise de décorations par un général décrit comme écossais, Curtis apporte l’ordre de partir à Acheux. Combes écrit détachés de la Coy Transport ; la nature exacte du nouveau service n’est pas exposée. La tournée de fourrages de 087 est un contexte proche, non une preuve organique du détachement.
 
@@ -4103,6 +4431,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 7 nom Lépin proposé ; identité non établie.; l. 15 verbe non déchiffré et liaison au proposée..
+
+- **Apparat révisé intégralement sur l'image** : 23 entrées contrôlées.
+- **Réserves de l'apparat** : patronyme Lépin; verbe avant kit; liaison au avant kit.
 
 ```text
  1 | 2 J. —          Novbre /16
@@ -4128,24 +4459,23 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | Tout l'après-midi, perdu temps —
 ```
 
-- *l. 1* : **1 J.** *scil.* Jeudi.
-- *l. 2* : **2 m.** *abbr. pro* matin.
-- *l. 3* : **3 ts** *abbr. pro* tous.
-- *l. 4* : **4 breakfast** *angl. in ms.*
-- *l. 6* : **6 Cap.** *abbr. pro* Capitaine.
-- *l. 7* : **7** *lect. incert. in ms.*
-- *l. 8* : **8 Lt** *abbr. pro* Lieutenant.
-- *l. 9* : **9 ds** *abbr. pro* dans. **9 Lt** *abbr. pro* Lieutenant.
-- *l. 11* : **11 Col.** *abbr. pro* Colonel.
-- *l. 12* : **12 Lt** *abbr. pro* Lieutenant.
-- *l. 13* : **13 1/2** *scil.* demi / moitié.
-- *l. 14* : **14 ts** *abbr. pro* tous.
-- *l. 15* : **15** *lect. incert. in ms.* **15 Lt** *abbr. pro* Lieutenant. **15 kit** *angl. in ms.* Verbe précédent non établi ; liaison au proposée.
-- *l. 18* : **18 billets** *angl. in ms.*
+- *l. 1* : **1** **J.** *jeudi* ; **Novbre** *novembre*.
+- *l. 3* : **3** **ts** *tous*.
+- *l. 4* : **4** **mess-hut** *angl.* cabane servant de salle à manger aux officiers ; **breakfast** *angl.* petit déjeuner.
+- *l. 6* : **6** **Cap.** *capitaine* ; **Pant.** *Panton, patronyme abrégé*.
+- *l. 7* : **7** **[Lépin ?]** Patronyme proposé ; la même graphie apparaît à la vue 085.
+- *l. 8* : **8** **Lt** *lieutenant*.
+- *l. 9* : **9** **ds** *dans* ; **Lt** *lieutenant*.
+- *l. 10* : **10** **Train Office** *angl.* bureau du train, service militaire des transports.
+- *l. 11* : **11** **Col.** *colonel*.
+- *l. 12* : **12** **Lt** *lieutenant*.
+- *l. 14* : **14** **billet** *angl.* logement de cantonnement ; **ts** *tous*.
+- *l. 15* : **15** **[verbe illis.]** Verbe non établi ; ne pas déduire un prêt de lit du groupe suivant kit ; **[au ?]** Liaison proposée avant kit, sans certitude ; **kit** *angl.* équipement personnel ; bagages ; **Lt** *lieutenant*.
+- *l. 18* : **18** **Town Major** *angl.* officier chargé de l’administration militaire et des cantonnements de la localité ; **billets** *angl.* logements de cantonnement ; **mess-room** *angl.* salle des repas des officiers.
 
 * * *
 
-**Ordre écrit :** Après avis au bureau de mission et visite à Pizzi, Combes obtient la signature de l’ordre d’accompagner Curtis. **Bagages :** La ligne à mon billet se poursuit par une coordination directe, sans pris distinct. À la ligne suivante, le verbe n’est pas établi ; la liaison avant kit reste proposée au. Aucun prêt de lit n’est assuré par le tracé. **Nom :** Lépin est proposé aussi en vue 085 ; pas d’identification civile imposée.
+La ligne à mon billet se poursuit directement par & ts mes bagages : aucun pris distinct n’est écrit. Le verbe de la ligne suivante et la liaison proposée au restent non établis ; kit désigne l’équipement personnel, sans démontrer un prêt de lit. Train Office est le bureau du train militaire et Town Major un officier chargé de la localité, sans traduction par maire civil. Lépin demeure proposé comme en vue 085.
 
 > **Grose et l’ordre écrit :** Après avis au bureau de mission et visite à Pizzi, Combes obtient au Train Office la signature de Col. Grose pour accompagner Curtis. Nichols, 1922, p. 107, nomme D. C. E. Grose, A.S.C., comme commandant du Divisional Train à Thiepval. La London Gazette du 4 juin 1917, p. 5470, donne le nom complet Daniel Charles Evans Grose, A.S.C. Ces concordances rendent le rapprochement très plausible, sans que la Gazette seule établisse son commandement. Les motifs psychologiques ou juridiques de la demande d’ordre écrit ne sont pas déclarés ; les fonctions de Hughes et Serpin restent à préciser.
 
@@ -4158,6 +4488,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 2 D.O.S.T. conservé sans développement.; l. 4 nature du don et identité exacte de Victor Duchâteau non précisées ici..
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
+- **Réserves de l'apparat** : développement de D.O.S.T..
 
 ```text
  1 | Après le dîner, course en auto à Raincheval.
@@ -4179,20 +4512,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 17 | 6 jours de permission) ]
 ```
 
-- *l. 2* : **2 D.O.S.T.** *sigle militaire, développement non établi*.
-- *l. 4* : **4** *in marg. cum unco* (comptes).
-- *l. 6* : **6 ctes ples** *abbr. pro* cartes postales.
-- *l. 7* : **7 Ve.** *scil.* Vendredi.
-- *l. 9* : **9 Lt** *abbr. pro* Lieutenant.
-- *l. 10* : **10 s/** *abbr. pro* sur. **10 lorry** *angl. in ms.*
-- *l. 12* : **12 Coy** *angl.* Company.
-- *l. 14* : **14 lunch** *angl. in ms.*
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 16* : **16** *in marg. cum unco* (comptes).
+- *l. 1* : **1** **course** Mot ajouté au-dessus de la ligne, après dîner et avant en auto.
+- *l. 2* : **2** **of the** *angl.* du ; relie le major au sigle de service suivant ; **D.O.S.T.** Sigle conservé ; développement institutionnel non établi par cette page.
+- *l. 4* : **4** **Donné** Un crochet ouvrant autographe à gauche groupe les trois lignes de dépenses ; ce n’est pas une note latérale en marge.
+- *l. 5* : **5** **Mess** *angl.* table commune des officiers ; popote.
+- *l. 6* : **6** **ctes ples** *cartes postales*.
+- *l. 7* : **7** **Ve.** *vendredi*.
+- *l. 9* : **9** **Lt** *lieutenant*.
+- *l. 10* : **10** **s/** *sur* ; **lorry** *angl.* camion.
+- *l. 12* : **12** **Coy** *Company : compagnie*.
+- *l. 14* : **14** **lunch** *angl.* déjeuner.
+- *l. 15* : **15** **ds** *dans*.
+- *l. 16* : **16** **Mission** Poste isolé au bas de la page, introduit par un trait ; les crochets imprimés ne correspondent pas à un crochet autographe autour de ce compte.
 
 * * *
 
-**Doublon photographique :** Cette page est aussi photographiée au scan 093; les deux images doivent porter la même transcription. **D.O.S.T. :** Sigle dont le développement n’est pas établi ici. **58 f 75 :** Somme accompagnée de « 30 f retenus pour / 6 jours de permission »; ne pas généraliser ce calcul à un règlement de solde non cité.
+Les vues 091 et 093 reproduisent la même page ; leurs lignes et leur apparat sont identiques. Course est ajouté au-dessus de la première ligne. Le premier compte est groupé par un crochet ouvrant autographe à gauche, puis un trait horizontal précède l’entrée du 3 novembre. Le compte Mission, Albert est isolé au bas avec un trait, sans crochet autographe équivalent. D.O.S.T. reste sans développement établi. La retenue de 30 f pour 6 jours est conservée sans extrapolation réglementaire.
 
 > **Levy et comptes :** Le 2 novembre au soir, Combes rencontre Major Levy à Raincheval, avec le sigle D.O.S.T. non développé. La vue 166 du 11 mars 1917 note une demande instante du Major Levy pour son maintien au Purchase Board ; ce parallèle éclaire leur relation sans identifier toute la direction du ravitaillement. Le compte porte Donné à Victor Duchâteau : 5 f, puis Mission Albert : 58 f 75, avec 30 f retenus pour 6 jours de permission. Ni la qualité exacte de Victor, ni une périodicité de quinzaine, ni une règle générale d’indemnité ne sont précisées.
 
@@ -4204,6 +4539,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Bertrancourt, Bus-lès-Artois, Albert (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 17 entrées contrôlées.
 
 ```text
  1 | Sam. 4          Novbre /16
@@ -4226,18 +4563,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | gelées d'automne. Routes, affrt boueuses.
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 3* : **3 s/** *abbr. pro* sur. **3 kil.** *abbr. pro* kilomètres.
-- *l. 8* : **8 Divon** *abbr. pro* Division.
-- *l. 11* : **11 R.F.A.** *angl.* Royal Field Artillery.
-- *l. 13* : **13 s/** *abbr. pro* sur. **13 lunch** *angl. in ms.*
-- *l. 14* : **14 Coy** *angl.* Company.
-- *l. 15* : **15 Lt** *abbr. pro* Lieutenant.
-- *l. 18* : **18 affrt** *abbr. pro* affreusement.
+- *l. 1* : **1** **Sam.** *samedi* ; **Novbre** *novembre*.
+- *l. 3* : **3** **s/** *sur* ; **lorry** *angl.* camion ; **kil.** *kilomètres*.
+- *l. 4* : **4** **entt** *entièrement*.
+- *l. 8* : **8** **Divon** *division, dans la désignation du quartier général* ; **Headquarters** *angl.* quartier général.
+- *l. 10* : **10** **fr.** *française*.
+- *l. 11* : **11** **R.F.A.** *Royal Field Artillery : artillerie de campagne britannique*.
+- *l. 13* : **13** **lunch** *angl.* déjeuner ; **s/** *sur* ; **lorry** *angl.* camion.
+- *l. 14* : **14** **Coy** *Company : compagnie*.
+- *l. 15* : **15** **fr.** *française* ; **Lt** *lieutenant*.
+- *l. 18* : **18** **affrt** *affreusement*.
 
 * * *
 
-**l.~10--12 :** Combes reconnaît l’interprète Cordonnier, « R.F.A. », connu à Béthune. Cette mention ne suffit pas à dater une première affectation ni à la rattacher à la 12e Division.
+Entt et affrt sont les contractions d’entièrement et affreusement. Divon Headquarters désigne le quartier général de division : la contraction et le mot anglais sont expliqués séparément. Fr. qualifie la mission française, non un montant de francs. R.F.A. accompagne le nom de l’interprète Cordonnier ; cette seule mention ne date pas leur première rencontre.
 
 > **Pétrole et 2e division :** Le 4 novembre, Combes recherche Jamet à Bertrancourt au sujet du pétrole, puis visite des Headquarters près de la route de Bus et le bureau de mission de la 2e division. Il y retrouve Cordonnier, R.F.A., connu à Béthune, avant de retourner à la 152 Coy et à Pizzi à Albert. La destination du pétrole, son usage pour des moteurs de batteuses et un lien avec l’attaque du 13 novembre ne sont pas écrits ; ces explications demandent une autre pièce.
 
@@ -4250,6 +4589,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 2 D.O.S.T. conservé sans développement..
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
+- **Réserves de l'apparat** : développement de D.O.S.T..
 
 ```text
  1 | Après le dîner, course en auto à Raincheval.
@@ -4271,20 +4613,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 17 | 6 jours de permission) ]
 ```
 
-- *l. 2* : **2 D.O.S.T.** *sigle militaire, développement non établi*.
-- *l. 4* : **4** *in marg. cum unco* (comptes).
-- *l. 6* : **6 ctes ples** *abbr. pro* cartes postales.
-- *l. 7* : **7 Ve.** *scil.* Vendredi.
-- *l. 9* : **9 Lt** *abbr. pro* Lieutenant.
-- *l. 10* : **10 s/** *abbr. pro* sur. **10 lorry** *angl. in ms.*
-- *l. 12* : **12 Coy** *angl.* Company.
-- *l. 14* : **14 lunch** *angl. in ms.*
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 16* : **16** *in marg. cum unco* (comptes).
+- *l. 1* : **1** **course** Mot ajouté au-dessus de la ligne, après dîner et avant en auto.
+- *l. 2* : **2** **of the** *angl.* du ; relie le major au sigle de service suivant ; **D.O.S.T.** Sigle conservé ; développement institutionnel non établi par cette page.
+- *l. 4* : **4** **Donné** Un crochet ouvrant autographe à gauche groupe les trois lignes de dépenses ; ce n’est pas une note latérale en marge.
+- *l. 5* : **5** **Mess** *angl.* table commune des officiers ; popote.
+- *l. 6* : **6** **ctes ples** *cartes postales*.
+- *l. 7* : **7** **Ve.** *vendredi*.
+- *l. 9* : **9** **Lt** *lieutenant*.
+- *l. 10* : **10** **s/** *sur* ; **lorry** *angl.* camion.
+- *l. 12* : **12** **Coy** *Company : compagnie*.
+- *l. 14* : **14** **lunch** *angl.* déjeuner.
+- *l. 15* : **15** **ds** *dans*.
+- *l. 16* : **16** **Mission** Poste isolé au bas de la page, introduit par un trait ; les crochets imprimés ne correspondent pas à un crochet autographe autour de ce compte.
 
 * * *
 
-**Doublon photographique :** Les scans 091 et 093 reproduisent la même page physique (mêmes lignes, traits et relevé de dépenses). Le scan 092 a été photographié entre les deux. La transcription est identique; aucun nouveau folio n’est établi par ce second cliché.
+Les vues 091 et 093 reproduisent la même page ; leurs lignes et leur apparat sont identiques. Course est ajouté au-dessus de la première ligne. Le premier compte est groupé par un crochet ouvrant autographe à gauche, puis un trait horizontal précède l’entrée du 3 novembre. Le compte Mission, Albert est isolé au bas avec un trait, sans crochet autographe équivalent. D.O.S.T. reste sans développement établi. La retenue de 30 f pour 6 jours est conservée sans extrapolation réglementaire.
 
 > **Second cliché :** La photographie 20251126_104647.jpg reprend la même page que 091 (20251126_104623.jpg), avec la visite à Levy, le don à Victor Duchâteau et les comptes de la mission. Les deux images ont été confrontées séparément, traits et sommes compris. Elles ne constituent pas deux épisodes distincts. Comme en 091, la nature du don, le développement D.O.S.T. et le règlement général de solde restent non précisés.
 
@@ -4297,6 +4641,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : l. 15 petit ajout interlinéaire avant corps non déchiffré ; numéro du corps non établi par cette lecture.; l. 17 qqfroid : expression conservée sans développement forcé..
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
+- **Réserves de l'apparat** : petit groupe interlinéaire avant corps; lecture et valeur de qq froid.
 
 ```text
  1 | Dim. 5          Novbre /16
@@ -4320,18 +4667,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | Dès 8h 1/2, ds ma chambre.
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 5* : **5 Town Major** *angl. in ms.*
-- *l. 9* : **9 ds** *abbr. pro* dans.
-- *l. 12* : **12 proprre** *abbr. pro* propriétaire.
-- *l. 14* : **14 Cap.** *abbr. pro* Capitaine.
-- *l. 15* : **15** *lect. incert. in ms.*
-- *l. 17* : **17 qq** *abbr. pro* quelque(s).
-- *l. 19* : **19 ds** *abbr. pro* dans. **19 1/2** *scil.* demi / moitié.
+- *l. 1* : **1** **Dim.** *dimanche* ; **Novbre** *novembre*.
+- *l. 4* : **4** **billet** *angl.* logement de cantonnement.
+- *l. 5* : **5** **Town Major** *angl.* officier chargé de l’administration militaire et des cantonnements de la localité ; **clerks** *angl.* employés de bureau.
+- *l. 7* : **7** **no** *numéro*.
+- *l. 9* : **9** **ds** *dans*.
+- *l. 12* : **12** **proprre** *propriétaire*.
+- *l. 13* : **13** **Vth** *fifth : cinquième, le suffixe ordinal th est anglais*.
+- *l. 14* : **14** **Army troops** *angl.* troupes d’armée ; **Cap.** *capitaine*.
+- *l. 15* : **15** **[ajout interl. illis.]** Petit groupe ajouté sous du et avant corps ; lecture non établie, sans numéro de corps certain.
+- *l. 17* : **17** **qq froid** Le groupe avant froid est conservé sans développement certain ; une valeur de quelque(s) ne peut être imposée.
+- *l. 19* : **19** **ds** *dans*.
 
 * * *
 
-**Logement :** Le billet 59 est remplacé par une chambre no 1, route de Léalvillers. Le propriétaire est dit sympathique et n’est pas nommé. **l.~15 corps :** Petit ajout interlinéaire avant corps, non établi ; la lecture XIIIe n’est pas certifiée. **l.~17 qqfroid :** Groupe conservé sans développement.
+Le numéro 59 du billet et le no 1 de la nouvelle chambre sont distincts. Proprre signifie propriétaire dans cette phrase. Vth emploie le suffixe ordinal anglais th ; Army troops désigne les troupes d’armée. Le petit groupe interlinéaire avant corps n’est pas établi et ne permet pas de certifier XIIIe. Le groupe qq froid reste sans développement ; la glose automatique quelque(s) est donc retirée.
 
 > **Logement et mission :** Combes quitte le billet 59 pour une chambre no 1, route de Léalvillers ; le propriétaire est dit sympathique mais n’est pas nommé. Des mentions ultérieures (102, 118, 146–148) permettent de proposer un rapprochement avec le tailleur Carluvant[?], sans assurer la continuité du même logement jusqu’au 7 février. Vth Army troops s’accorde avec le nouveau nom Fifth Army donné à la Reserve Army le 30 octobre 1916 (Butler, Vol. II, p. 52, note 6). Le petit ajout avant corps reste non établi : il ne permet pas de certifier XIIIe ni la fonction de chef de mission du Cap. Huguet.
 
@@ -4343,6 +4693,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Arquèves (Belle-Église), Hérissart, Rubempré, Coisy (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
 
 ```text
  1 | Lundi 6          Nov. /16
@@ -4372,16 +4724,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | de troupes allant au repos ou se rendant firing line.
 ```
 
-- *l. 2* : **2 Tt** *abbr. pro* Tout.
-- *l. 3* : **3 j'à** *abbr. pro* jusqu'à. **3 s/** *abbr. pro* sur.
-- *l. 7* : **7 1/2** *scil.* demi / moitié.
-- *l. 14* : **14 Divon** *abbr. pro* Division.
-- *l. 20* : **20 lorry** *angl. in ms.*
-- *l. 23* : **23 ttes** *abbr. pro* toutes. **23 lorries** *angl. in ms.*
+- *l. 1* : **1** **Nov.** *novembre*.
+- *l. 2* : **2** **Tt** *Tout*.
+- *l. 3* : **3** **s/** *sur* ; **lorry** *angl.* camion ; **j'à** *jusqu’à*.
+- *l. 13* : **13** **Coy** *company, compagnie britannique*.
+- *l. 14* : **14** **Divon** *division* ; **Coy** *company, compagnie britannique*.
+- *l. 20* : **20** **lorry** *angl.* camion ; **billet** *angl.* cantonnement, logement attribué.
+- *l. 23* : **23** **ttes** *toutes* ; **lorries** *angl.* camions.
+- *l. 24* : **24** **artrie** *artillerie*.
+- *l. 25* : **25** **firing line** *angl.* ligne de feu.
 
 * * *
 
-**l.~10--12 bois dont les arbres, teintés de rouille, orange et or :** Remarquable tableau impressionniste de l'automne picard. **l.~25 se rendant firing line :** L'expression anglaise *firing line* (ligne de feu) clôt la phrase sans préposition ni article, selon l'usage bilingue du carnet.
+Lignes 3, 13–14 et 20–25 : alternance de désignations françaises et anglaises des transports et des unités. Le pluriel lorries est écrit en anglais ; Coy abrège company. Dans « se rendant firing line », la préposition et l’article ne sont pas écrits ; il s’agit d’une ellipse syntaxique, non d’une lacune matérielle. Lignes 10–12 : les participes et adjectifs constituent une description du feuillage automnal ; le commentaire ne leur attribue pas de classement esthétique démontrable.
 
 > **Belle-Église et fourrages :** Les courses relient Arquèves, la ferme de Belle-Église, Hérissart, Rubempré et Coisy pour des questions de pétrole, de paille et de foin. Les vues 108 et 171 nomment une fermière belge et un M. Houtteman [?]; elles ne décrivent pas ici une installation de batteuses à pétrole. Le défilé observé le 7 novembre précède la bataille de l’Ancre, datée du 13 au 18 novembre 1916 par la Direction Histoire et patrimoine canadienne; le carnet ne donne pas la destination précise de chaque convoi.
 
@@ -4393,6 +4748,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Forceville, Varennes, Warloy, Senlis-le-Sec, Albert (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
 
 ```text
  1 | 8 Me.          Novbre 1916
@@ -4419,20 +4776,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | Bombardement commence sur Albert.
 ```
 
-- *l. 4* : **4 lunch** *angl. in ms.*
-- *l. 7* : **7 frse** *abbr. pro* française.
-- *l. 9* : **9 s/** *abbr. pro* sur. **9 lorry** *angl. in ms.*
-- *l. 10* : **10 J.** *scil.* Jeudi.
-- *l. 11* : **11 1/2** *scil.* demi / moitié.
-- *l. 12* : **12 qq** *abbr. pro* quelque(s).
-- *l. 15* : **15 j. à** *abbr. pro* jusqu'à.
-- *l. 18* : **18 mess** *angl. in ms.*
-- *l. 19* : **19 s/** *abbr. pro* sur. **19 Coy** *angl.* Company.
-- *l. 21* : **21 qq** *abbr. pro* quelque(s).
+- *l. 1* : **1** **Me.** *mercredi* ; **Novbre** *novembre*.
+- *l. 4* : **4** **lunch** *angl.* repas de midi.
+- *l. 7* : **7** **frse** *française*.
+- *l. 9* : **9** **s/** *sur* ; **lorry** *angl.* camion.
+- *l. 10* : **10** **J.** *jeudi*.
+- *l. 11* : **11** **1/2 jour** milieu du jour, vers midi.
+- *l. 12* : **12** **qq** *quelques*.
+- *l. 15* : **15** **j. à** *jusqu’à*.
+- *l. 17* : **17** **affreust** *affreusement*.
+- *l. 18* : **18** **mess-hut** *angl.* baraque du mess, salle de repas commune.
+- *l. 19* : **19** **Coy** *company, compagnie britannique* ; **s/** *sur*.
+- *l. 21* : **21** **qq** *quelques*.
 
 * * *
 
-**l.~18--22 Resté pour le thé au mess-hut de la 152 Coy... Bombardement commence sur Albert :** La construction de la séquence oppose la convivialité britannique du *tea* sous la baraque-mess et la beauté de la pleine lune à la brutalité soudaine du bombardement nocturne.
+Lignes 11 et 19 : le signe 1/2 entre dans deux locutions différentes : « 1/2 jour » désigne ici le milieu du jour, tandis que le plateau constitue un lieu de cantonnement. Ligne 18 : mess-hut est un composé anglais désignant la baraque du mess ; la note porte sur le composé entier. Lignes 21–22 : le ciel se dégage puis commence un bombardement ; la photographie ne justifie pas d’ajouter le mot anglais tea, absent de ces lignes.
 
 > **Tournées et ancienne unité :** Les 8 et 9 novembre, Combes accompagne Hughes et Curtis vers Forceville, puis passe par Varennes, Warloy, Senlis et Albert. Il prend le thé au mess-hut de la 152 Coy, sur un plateau transformé en marécage. Le bombardement d’Albert est son observation du soir; la seule proximité des dates ne permet pas d’identifier les batteries qui tirent.
 
@@ -4445,6 +4804,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Petite addition interlinéaire précédant la désignation de la batterie; nom Sorgues [?] non résolu.; Petits suscrits après Batt non résolus..
+
+- **Apparat révisé intégralement sur l'image** : 13 entrées contrôlées.
+- **Réserves de l'apparat** : Addition interlinéaire et suscrits de Batt non déchiffrés.; Patronyme Sorgues non assuré..
 
 ```text
  1 | Ven. 10          Novembre 1916
@@ -4469,17 +4831,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 20 | [ — Ctes ples, à Varennes : 75 c — ]
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 4* : **4 Lt** *abbr. pro* Lieutenant.
-- *l. 10* : **10 extt** *abbr. pro* extrêmement.
-- *l. 11* : **11 Sam.** *scil.* Samedi.
-- *l. 13* : **13** *lect. incert. in ms.*
-- *l. 16* : **16 Sorgues** *lect. incert. in ms.*
-- *l. 20* : **20** *in marg. cum unco* (comptes). **20 Ctes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Ven.** *vendredi*.
+- *l. 4* : **4** **Lt** *lieutenant*.
+- *l. 5* : **5** **clerk** *angl.* employé de bureau militaire.
+- *l. 10* : **10** **extt** *extrêmement*.
+- *l. 11* : **11** **Sam.** *samedi*.
+- *l. 13* : **13** **[addition interlinéaire illis.]** addition réellement visible au-dessus de la ligne ; lecture non établie ; **Batt[suscrit illis.] F.A.** désignation militaire abrégée ; suscrits non résolus et développement non assuré ; **B Battery** *angl.* batterie B.
+- *l. 16* : **16** **M.** *Monsieur* ; **Sorgues [?]** patronyme de lecture incertaine ; **prof.** *professeur*.
+- *l. 20* : **20** **[ — Ctes ples, à Varennes : 75 c — ]** compte au bas du texte, isolé par un crochet gauche autographe ; **Ctes ples** *cartes postales*.
 
 * * *
 
-**l.~16--17 :** Interprète présenté comme professeur au lycée de Toulon; le nom propre, cursif, demeure à confirmer. **l.~13 :** Petite addition au-dessus et autour de la désignation de la batterie, non déchiffrée; sa présence est signalée sans imposer un développement. **l.~13 Batt F.A. :** Le corps de l’abréviation se lit Batt, avec de petits suscrits non résolus, puis F.A. Aucun R autonome ne justifie R.F.A.; le développement Royal Field Artillery n’est pas imposé.
+Ligne 13 : petite addition interlinéaire auprès de la désignation de l’unité, puis Batt suivi de suscrits non résolus et F.A. ; ni la lecture complète de l’addition ni le développement du groupe militaire ne sont assurés. Aucun R autonome n’autorise à imprimer R.F.A. Ligne 16 : Sorgues reste une proposition de lecture du patronyme. Ligne 20 : le compte est isolé au bas de la page par un crochet gauche autographe ; il n’est pas écrit dans une marge latérale.
 
 > **Varennes et bombardement :** Le 11 novembre, achat de paille et marche à pied jusqu’à une batterie désignée F.A./B Battery, dont la désignation comporte une addition difficile. Combes rencontre son interprète, professeur au lycée de Toulon, au nom réservé. Le soir, il rapporte le bombardement d’Acheux et le refuge à la cave. L’origine des tirs, le calibre, une action de contre-batterie et le ciblage du carrefour ou de la gare ne sont pas établis par cette page.
 
@@ -4492,6 +4855,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Contraction du carillon avant 1/4 d’h; conserver une réserve de lecture..
+
+- **Apparat révisé intégralement sur l'image** : 17 entrées contrôlées.
+- **Réserves de l'apparat** : Première date sous la reprise du 14 non établie.; Verbe proposé carillonne non certain.; Mot biffé proposé autos, sous une forte surcharge.; Contenu proposé autos sous la rature (l. 16)..
 
 ```text
  1 | Dim. 12.          Novembre 1916
@@ -4509,7 +4875,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 13 | 14 Ma. — Tout hier, et principt matin, ainsi
 14 | qu'auj'd'hui, très fort bombardemt — du
 15 | côté de Beaumont. Vu passer nbx blessés
-16 | transportés s/ fourgons, autos & cars —
+16 | transportés s/ fourgons, ⟦[autos ?]⟧ & cars —
 17 | Courses à Raincheval, Doullens et Frévent.
 18 | Partis 8h 1/2 m., rentrés 5h soir.
 19 | Ciel nuageux — pluie menacé tt le jour.
@@ -4521,22 +4887,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | Déjeuner à l'hôtel d'Amiens, ma part : 7 fr. ]
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 11* : **11** *in marg. cum unco* (comptes).
-- *l. 13* : **13 Ma.** *scil.* Mardi. **13 principt** *abbr. pro* principalement.
-- *l. 14* : **14 auj'd'hui** *abbr. pro* aujourd'hui. **14 bombardemt** *abbr. pro* bombardement.
-- *l. 16* : **16 s/** *abbr. pro* sur.
-- *l. 18* : **18 1/2** *scil.* demi / moitié. **18 m.** *abbr. pro* matin.
-- *l. 19* : **19 tt** *abbr. pro* tout.
-- *l. 21* : **21 passim** *lat.* çà et là.
-- *l. 22* : **22** *lect. incert. in ms.*
-- *l. 23* : **23 gds** *abbr. pro* grands.
-- *l. 24* : **24 Cartes ples** *abbr. pro* Cartes postales.
-- *l. 25* : **25 fr.** *abbr. pro* franc(s).
+- *l. 1* : **1** **Dim.** *dimanche*.
+- *l. 11* : **11** **[ Journal semaine : 40 c** début d’un bloc de comptes, crochet gauche autographe.
+- *l. 12* : **12** **khaki** *angl.* kaki, couleur brun jaunâtre.
+- *l. 13* : **13** **Ma.** *mardi* ; **principt** *principalement*.
+- *l. 14* : **14** **auj'd'hui** *aujourd’hui* ; **bombardemt** *bombardement*.
+- *l. 15* : **15** **nbx** *nombreux*.
+- *l. 16* : **16** **s/** *sur* ; **⟦[autos ?]⟧** mot biffé avant cars ; autos est une proposition de lecture sous la rature ; **cars** *angl.* véhicules automobiles ; le mot ne précise pas à lui seul leur carrosserie.
+- *l. 19* : **19** **tt** *tout*.
+- *l. 21* : **21** **passim** *lat.* çà et là, en divers endroits.
+- *l. 22* : **22** **[carillonne ?]** lecture conjecturale du verbe.
+- *l. 23* : **23** **— Boutons simili-cuir** début du second bloc de comptes, crochet gauche autographe ; **gds** *grands*.
+- *l. 24* : **24** **Cartes ples** *cartes postales*.
 
 * * *
 
-**l.~12 Casque peint khaki :** Dépense pour la peinture du casque; ne prouve ni l’achat du casque ni l’application d’un règlement déterminé. **l.~23 Boutons simili-cuir :** Le témoin écrit « simili-cuir », avec nombres et prix; la matière effective et la destination vestimentaire ne sont pas précisées.
+Lignes 11–12 et 23–25 : deux blocs de dépenses sont distingués du récit par des crochets placés à gauche ; ce sont des blocs du corps de page. Ligne 13 : la date a été reprise dans une zone fortement repassée, avant 14 Ma. ; la première inscription n’est pas restituée. Ligne 16 : le mot proposé autos est biffé avant la continuation par cars ; sa lecture sous la surcharge reste réservée. Ligne 22 : carillonne reste une proposition incertaine. Ligne 23 : les prix unitaires 0.40 et 0.25 expliquent le total de 4 f 75 pour dix grands et trois petits boutons ; ne pas transformer cette concordance en identification de la matière véritable du simili-cuir.
 
 > **Contexte de l’Ancre :** La forte canonnade entendue les 13 et 14 novembre vers Beaumont et le passage de nombreux blessés s’inscrivent chronologiquement dans la bataille de l’Ancre (13--18 novembre 1916; Direction Histoire et patrimoine canadienne, notice Ancre 1916). La Royal Navy situe l’assaut de sa division à 5 h 45 le 13 novembre. Ce contexte ne fait pas du diariste un témoin visuel de l’assaut ni ne permet d’identifier les unités à partir des sons. Les courses du 14 passent par la foire de Doullens et par Frévent, dont il note église et carillon.
 
@@ -4548,6 +4914,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Albert, Raincheval, Louvencourt, Toutencourt, Hérissart (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | 15 Me.          Novbre 1916
@@ -4575,20 +4943,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | (tissus) près Paris. Intelligent & distingué.
 ```
 
-- *l. 3* : **3 principt** *abbr. pro* principalement.
-- *l. 4* : **4 s/** *abbr. pro* sur.
-- *l. 6* : **6 de =** *signum aequalitatis pro* de même.
-- *l. 7* : **7 frse** *abbr. pro* française.
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 Cartes ples** *abbr. pro* Cartes postales.
-- *l. 12* : **12 Washing** *angl. in ms.*
-- *l. 13* : **13 J.** *scil.* Jeudi. **13 bombardemt** *abbr. pro* bombardement.
-- *l. 17* : **17 fortt** *abbr. pro* fortement.
-- *l. 20* : **20 ch.** *abbr. pro* chez. **20 Lt** *abbr. pro* Lieutenant.
-- *l. 22* : **22** *spatium relictum in ms.*
+- *l. 1* : **1** **Me.** *mercredi* ; **Novbre** *novembre*.
+- *l. 3* : **3** **principt** *principalement*.
+- *l. 4* : **4** **s/** *sur*.
+- *l. 6* : **6** **=** même ; ici « Rentré de même », en auto.
+- *l. 7* : **7** **frse** *française*.
+- *l. 11* : **11** **[ Cartes ples** compte isolé au-dessous du récit par un crochet gauche autographe ; **Cartes ples** *cartes postales*.
+- *l. 12* : **12** **Washing** *angl.* lavage du linge, blanchissage.
+- *l. 13* : **13** **J.** *jeudi* ; **bombardemt** *bombardement*.
+- *l. 17* : **17** **fortt** *fortement*.
+- *l. 20* : **20** **ch.** *chez* ; **Lt** *lieutenant*.
+- *l. 22* : **22** **M.** *Monsieur* ; **[blanc]** espace effectivement laissé après M. ; aucun nom n’y est inscrit.
 
 * * *
 
-**l.~4 Beaumont s/ Ancre :** Leçon du manuscrit, à conserver sans substitution par Beaucourt. **l.~22 M. [blanc] :** Le nom du directeur d’usine n’est pas inscrit; rapprochement possible avec l’interprète nommé dans d’autres entrées, à laisser hypothétique. **l.~6 de = :** Le signe égal abrège même, comme au retour de la vue 078; il ne faut pas le remplacer par id.
+Ligne 6 : dans « Rentré de = », le signe égal remplace même : retour de même, en auto. Il ne faut pas développer le groupe entier en « de de même ». Lignes 11–12 : deux lignes de dépenses, isolées par un crochet gauche dans le corps de la page. Ligne 22 : un blanc suit M. avant directeur ; le nom a été laissé en attente, contrairement à un mot effacé ou illisible. L’ellipse grammaticale de plusieurs phrases n’implique pas de lacune matérielle.
 
 > **Canonnade et rencontre :** Les 15 et 16 novembre sont compris dans la bataille de l’Ancre; la canonnade est située par Combes vers Beaumont s/Ancre. Ce nom n’est pas réécrit comme une fusion certaine de Beaumont-Hamel et Beaucourt. Le déjeuner à Hérissart se fait avec Walsh et son interprète, directeur d’une usine de tissus près de Paris. Le rapprochement avec Deloney, nommé auprès de Walsh à la vue 103, est plausible, sans remplir le blanc du nom dans cette entrée.
 
@@ -4601,6 +4970,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Le 8 est repassé; aucune indication 85 ne suit le f monétaire..
+
+- **Apparat révisé intégralement sur l'image** : 17 entrées contrôlées.
 
 ```text
  1 | 17 Ven.          Novbre -16
@@ -4630,23 +5001,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | [ — Albert : solde : 88 f — 3 ctes ples : 30 c ]
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 3* : **3 fortt** *abbr. pro* fortement.
-- *l. 4* : **4 1/2** *scil.* demi / moitié.
-- *l. 10* : **10 Y.M.C.A.** *angl.* Young Men's Christian Assoc.. **10 s.** *abbr. pro* soir.
-- *l. 11* : **11 s/** *abbr. pro* sur.
-- *l. 12* : **12 ts** *abbr. pro* tous.
-- *l. 13* : **13 ds** *abbr. pro* dans.
-- *l. 14* : **14 Sam.** *scil.* Samedi. **14 tte** *abbr. pro* toute.
-- *l. 16* : **16 ds** *abbr. pro* dans.
-- *l. 19* : **19 s/** *abbr. pro* sur.
-- *l. 21* : **21 lorry** *angl. in ms.*
-- *l. 22* : **22 1ère** *scil.* première.
-- *l. 25* : **25** *in marg. cum unco* (comptes). **25 ctes ples** *abbr. pro* cartes postales.
+- *l. 1* : **1** **Ven.** *vendredi* ; **Novbre** *novembre*.
+- *l. 3* : **3** **fortt** *fortement*.
+- *l. 4* : **4** **1/2 jour** milieu du jour, vers midi.
+- *l. 10* : **10** **hut** *angl.* baraque ; **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens*.
+- *l. 11* : **11** **s/** *sur* ; **Russia** *angl.* Russie.
+- *l. 12* : **12** **ts** *tous*.
+- *l. 13* : **13** **ds** *dans*.
+- *l. 14* : **14** **Sam.** *samedi* ; **tte** *toute*.
+- *l. 16* : **16** **ds** *dans*.
+- *l. 19* : **19** **s/** *sur*.
+- *l. 21* : **21** **lorry** *angl.* camion.
+- *l. 25* : **25** **[ — Albert** compte au bas de la page, précédé d’un crochet gauche autographe ; **ctes ples** *cartes postales*.
 
 * * *
 
-**l.~17--19 :** Comparaison entre les éclatements d’obus et les vagues sur les rochers. Elle exprime le rythme et le bruit perçus, sans établir à elle seule un « creeping barrage ».
+Ligne 4 : « 1/2 jour » désigne le milieu du jour, non une durée d’une demi-journée. Lignes 10–11 : hut et Russia sont des mots anglais ; Y.M.C.A. est un sigle, développé séparément. Ligne 18 : les deux signes + participent à « de plus en plus » et n’ont pas de valeur comptable. Ligne 25 : la solde et les cartes postales forment un compte au bas de la page, signalé par un crochet autographe à gauche ; aucune marge latérale ne doit être postulée.
 
 > **18 novembre :** Après une tournée par Authie, Orville et Amplier et une conférence sur la Russie au foyer Y.M.C.A., Combes décrit à l’aube du 18 une canonnade comparable à des vagues et la première neige qu’il note. Cette date clôt la bataille de l’Ancre (Direction Histoire et patrimoine canadienne). L’attribution des tirs qu’il entend à un barrage ou à une division précise demande une confrontation opérationnelle; elle ne découle pas de sa comparaison sonore.
 
@@ -4659,6 +5029,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Contay [?], graphie très resserrée; les ellipses de retour ne sont pas développées..
+
+- **Apparat révisé intégralement sur l'image** : 18 entrées contrôlées.
+- **Réserves de l'apparat** : Toponyme Contay non assuré..
 
 ```text
  1 | 20 Lundi —          Nov. /16
@@ -4689,21 +5062,25 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 26 | contre lui.
 ```
 
-- *l. 2* : **2 Auj'd'hui** *abbr. pro* Aujourd'hui.
-- *l. 6* : **6 Ts** *abbr. pro* Tous.
-- *l. 7* : **7 s/** *abbr. pro* sur.
-- *l. 8* : **8 lorries** *angl. in ms.*
-- *l. 13* : **13 Contay** *lect. incert. in ms.*
-- *l. 14* : **14 ds** *abbr. pro* dans.
-- *l. 16* : **16 mervt** *abbr. pro* merveilleusement.
-- *l. 17* : **17** *in marg. cum unco* (comptes). **17 Cartes ples** *abbr. pro* Cartes postales.
-- *l. 19* : **19 Ma.** *scil.* Mardi.
-- *l. 20* : **20 1/2** *scil.* demi / moitié.
-- *l. 23* : **23 s/** *abbr. pro* sur. **23 lorry** *angl. in ms.*
+- *l. 1* : **1** **Nov.** *novembre*.
+- *l. 2* : **2** **Auj'd'hui** *Aujourd’hui*.
+- *l. 6* : **6** **Ts** *Tous*.
+- *l. 7* : **7** **s/** *sur*.
+- *l. 8* : **8** **lorries** *angl.* camions ; **cars** *angl.* véhicules automobiles.
+- *l. 13* : **13** **Contay [?]** toponyme de lecture incertaine.
+- *l. 14* : **14** **ds** *dans*.
+- *l. 16* : **16** **mervt** *merveilleusement*.
+- *l. 17* : **17** **[ — Cartes ples** bloc de comptes dans le corps de page, crochet gauche autographe ; **Cartes ples** *cartes postales*.
+- *l. 18* : **18** **Carnet** montant ajouté au-dessus de la fin du bloc de comptes.
+- *l. 19* : **19** **Ma.** *mardi*.
+- *l. 20* : **20** **1/2 jour** milieu du jour, vers midi.
+- *l. 23* : **23** **s/** *sur* ; **lorry** *angl.* camion.
+- *l. 24* : **24** **office** *angl.* bureau militaire.
+- *l. 25* : **25** **+tôt** plutôt.
 
 * * *
 
-**l.~24--26 remarque +tôt désobligeante de Curtis : fâché contre lui :** Premier signe de l'antipathie croissante d'Hippolyte Combes envers le lieutenant Curtis, qu'il qualifiera sans ménagement lors de son départ le 6 décembre (Scan #107).
+Lignes 17–18 : le bloc de dépenses est introduit par un crochet gauche dans le corps de la page ; Carnet est placé au-dessus de la fin de la ligne comptable plutôt que dans une marge indépendante. Ligne 20 : 1/2 jour signifie ici milieu du jour. Lignes 24–26 : la remarque de Curtis est qualifiée de +tôt désobligeante ; le signe + est intégré à plutôt, et ne signifie pas « plus tôt » dans cette phrase. Le carnet exprime ici un mécontentement sans permettre de dater le premier sentiment d’antipathie du diariste.
 
 > **Mouvements après l’Ancre :** Dans les jours qui suivent les combats du 13 au 18 novembre, Combes voit passer troupes revenant de l’avant, véhicules et prisonniers allemands à Acheux. Ce cadre chronologique est conservé, sans attribuer aux prisonniers observés un lieu de capture ni un effectif global. Les courses passent par Bouzincourt, Englebelmer et Léalvillers; la remarque de Curtis est rapportée comme désobligeante par le diariste.
 
@@ -4716,6 +5093,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Craint [?]; mot repassé après selles; finale s de clair[s?]; nom Carluvant [?]..
+
+- **Apparat révisé intégralement sur l'image** : 17 entrées contrôlées.
+- **Réserves de l'apparat** : Craint, deux groupes de la l.7 et finale de clair[s ?] non résolus.; Patronyme Carluvant non assuré..
 
 ```text
  1 | 22 Mer.          Novembre 1916 —
@@ -4745,19 +5125,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | [ Washing : 1 f 25 — ]
 ```
 
-- *l. 1* : **1 Mer.** *scil.* Mercredi.
-- *l. 6* : **6** *lect. incert. in ms.* **6 Auj'd'hui** *abbr. pro* Aujourd'hui.
-- *l. 7* : **7** *lect. incert. in ms.*
-- *l. 11* : **11 Carluvant** *lect. incert. in ms.* **11** *in marg. cum unco* (comptes).
-- *l. 13* : **13 1/2** *scil.* demi / moitié. **13 s.** *abbr. pro* soir.
-- *l. 17* : **17 tjrs** *abbr. pro* toujours.
-- *l. 19* : **19 s/** *abbr. pro* sur.
-- *l. 23* : **23 extt** *abbr. pro* extrêmement.
-- *l. 25* : **25** *in marg. cum unco* (comptes). **25 Washing** *angl. in ms.*
+- *l. 1* : **1** **Mer.** *mercredi*.
+- *l. 6* : **6** **Auj'd'hui** *Aujourd’hui* ; **[Craint ?]** proposition de lecture incertaine.
+- *l. 7* : **7** **[illis.]** groupe écrit, non déchiffré ; aucune perte de papier n’est établie ; **[mot repassé illis.]** mot fortement repassé, lecture non établie ; **clair[s ?]** finale et nombre du mot incertains.
+- *l. 11* : **11** **[ A proprre** début d’un compte, crochet gauche autographe ; **proprre** *propriétaire* ; **M.** *Monsieur* ; **Carluvant [?]** patronyme proposé, lecture non assurée.
+- *l. 17* : **17** **tjrs** *toujours*.
+- *l. 19* : **19** **s/** *sur* ; **clerk** *angl.* employé de bureau militaire.
+- *l. 20* : **20** **office** *angl.* bureau militaire.
+- *l. 23* : **23** **extt** *extrêmement*.
+- *l. 25* : **25** **[ Washing** compte au bas de page, crochet gauche autographe ; **Washing** *angl.* lavage du linge, blanchissage.
 
 * * *
 
-**l.~2--10 :** Troubles digestifs consignés par le diariste. Avant dysenterie, lecture proposée « Craint », avec réserve; après selles, un groupe repassé demeure illisible puis clair[s?] paraît lisible. Ni présence de sang ni diagnostic extérieur ne sont établis. **l.~11--12 :** Paiement au propriétaire, tailleur, pour élargir une culotte neuve; nom propre Carluvant à confirmer.
+Lignes 6–7 : Craint est une proposition réservée ; le groupe avant selles puis le mot fortement repassé qui suit restent non déchiffrés. La finale de clair[s ?] demeure incertaine. La mention dysenterie est un mot du diariste et non un diagnostic de l’éditeur. Ligne 11 : proprre se développe propriétaire, tandis que Carluvant n’est qu’une proposition de patronyme. Les blocs de dépenses des lignes 11–12 et 25 sont signalés par des crochets gauches effectivement visibles dans le corps de la page.
 
 > **Indisposition et logeur :** Le 22 novembre, Combes décrit des troubles digestifs dans un passage partiellement repassé; Craint [?] dysenterie est une proposition de lecture, non un diagnostic d’entérite aiguë. Il paie 75 c au propriétaire, tailleur, nommé Carluvant [?], pour élargir une culotte neuve. Le 23, il reprend ses courses vers Amplier, Authieule et Authie. L’adresse précise et la date de fin du logement ne sont pas établies par cette entrée.
 
@@ -4770,6 +5150,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Distribution de 1/2 deschaussées/côtésd.; nom Deloney cursif mais compatible..
+
+- **Apparat révisé intégralement sur l'image** : 19 entrées contrôlées.
 
 ```text
  1 | Sam. 25          Nov. /16 —
@@ -4788,7 +5170,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 14 | Toute la nuit et matinée entière,
 15 | pluie abondante. Habits ruissellent d'eau.
 16 | Rues & routes lavées : 1/2 des chaussées,
-17 | côtés d., profondes couches de boue.
+17 | côtés, profondes couches de boue.
 18 | Après-midi, pluie cesse peu à peu
 19 | et fin journée, sans ondée.
 20 | Lt Walsh & son interprète, M. Deloney, venus
@@ -4798,21 +5180,25 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | (magnift étoilée)
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 2* : **2 Auj'd'hui** *abbr. pro* Aujourd'hui.
-- *l. 4* : **4 j'à** *abbr. pro* jusqu'à.
-- *l. 5* : **5 1/2** *scil.* demi / moitié.
-- *l. 9* : **9 s/** *abbr. pro* sur.
-- *l. 11* : **11 ds** *abbr. pro* dans.
-- *l. 13* : **13 Dim.** *scil.* Dimanche.
-- *l. 16* : **16 1/2** *scil.* demi / moitié.
-- *l. 20* : **20 Lt** *abbr. pro* Lieutenant.
-- *l. 21* : **21 ds** *abbr. pro* dans.
-- *l. 23* : **23 longt** *abbr. pro* longtemps.
+- *l. 1* : **1** **Sam.** *samedi* ; **Nov.** *novembre*.
+- *l. 2* : **2** **Auj'd'hui** *Aujourd’hui*.
+- *l. 4* : **4** **j'à** *jusqu’à*.
+- *l. 5* : **5** **1/2 jambe** mi-jambe.
+- *l. 8* : **8** **clerk** *angl.* employé de bureau militaire.
+- *l. 9* : **9** **s/** *sur*.
+- *l. 10* : **10** **Fme** *ferme* ; **Plusrs** *Plusieurs*.
+- *l. 11* : **11** **ds** *dans*.
+- *l. 13* : **13** **Dim.** *dimanche*.
+- *l. 16* : **16** **1/2 des chaussées** milieu des chaussées, semble-t-il, en contraste avec les côtés.
+- *l. 17* : **17** **côtés** renvoi courbe descendant de chaussées vers côtés ; ne pas lire d. après côtés.
+- *l. 20* : **20** **Lt** *lieutenant* ; **M.** *Monsieur*.
+- *l. 21* : **21** **ds** *dans*.
+- *l. 23* : **23** **longt** *longtemps* ; **fr.** *français*.
+- *l. 24* : **24** **magnift** *magnifiquement*.
 
 * * *
 
-**l.~6--8 langui bureau, assis caisse bidons de pétrole... Lis ou rumine. Triste vie :** Autoportrait mélancolique de l'intellectuel exilé dans la précarité matérielle d'un bureau de campagne britannique. **l.~22--23 Ainsi pu causer longt en fr. :** Souligne l'isolement linguistique quotidien d'Hippolyte Combes au milieu d'officiers et de soldats exclusivement anglophones.
+Lignes 4–5 : jusqu’à 1/2 jambe décrit le niveau de boue, à mi-jambe. Lignes 16–17 : 1/2 des chaussées paraît désigner le milieu des chaussées, par opposition aux côtés où s’accumule la boue. Le trait courbe qui descend de chaussées vers côtés est un signe de renvoi, non une abréviation d. ; le faux d. est retiré de la transcription. Lignes 23–24 : fr. signifie français et magnift magnifiquement ; le carnet atteste le plaisir de converser en français, sans prouver que tous ses interlocuteurs quotidiens étaient exclusivement anglophones.
 
 > **Acheux et thé à Hérissart :** Combes rapporte plus de 25 obus tombés le 25 novembre vers la sucrerie et la ferme Royer, avec plusieurs tués et blessés. L’origine allemande et la longue portée ne sont pas déduites du seul décompte. Le lendemain, Walsh et son interprète Deloney viennent prendre le thé; le rapprochement avec l’interprète industriel du 16 novembre est probable, mais leur identité commune ne doit pas être introduite dans le blanc de la vue 099.
 
@@ -4825,6 +5211,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Bertin [?]; composition exacte du nom de famille non résolue par les lettres du reste de la page..
+
+- **Apparat révisé intégralement sur l'image** : 19 entrées contrôlées.
+- **Réserves de l'apparat** : Patronyme Bertin et sens de C dans 79 C non établis..
 
 ```text
  1 | 28 Ma.          Novbre 1916
@@ -4854,21 +5243,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | 79 C, chambre du Lt Curtis.
 ```
 
-- *l. 1* : **1 Ma.** *scil.* Mardi.
-- *l. 2* : **2 Tjrs** *abbr. pro* Toujours.
-- *l. 5* : **5 Bertin** *lect. incert. in ms.* **5 Mme** *abbr. pro* Madame.
-- *l. 6* : **6 tt** *abbr. pro* tout.
-- *l. 9* : **9 ttes** *abbr. pro* toutes.
-- *l. 16* : **16 1/2** *scil.* demi / moitié.
-- *l. 18* : **18** *in marg. cum unco* (comptes). **18 Washing** *angl. in ms.*
-- *l. 19* : **19 J.** *scil.* Jeudi.
-- *l. 23* : **23 s.** *abbr. pro* soir.
-- *l. 24* : **24 1ère** *scil.* première. **24 mess** *angl. in ms.*
-- *l. 25* : **25 Lt** *abbr. pro* Lieutenant.
+- *l. 1* : **1** **Ma.** *mardi* ; **Novbre** *novembre*.
+- *l. 2* : **2** **Tjrs** *Toujours*.
+- *l. 5* : **5** **aimablt** *aimablement* ; **M.** *Monsieur* ; **Mme** *Madame* ; **Bertin [?]** patronyme de lecture incertaine.
+- *l. 6* : **6** **av.** *avec* ; **tt** *tout*.
+- *l. 9* : **9** **ttes** *toutes*.
+- *l. 12* : **12** **Me.** *mercredi*.
+- *l. 16* : **16** **1/2** milieu, dans « au milieu des champs ».
+- *l. 17* : **17** **(vent)** mot reporté sous Moulins à, entre parenthèses autographes.
+- *l. 18* : **18** **[ — Washing** compte bref dans le corps de page, crochet gauche autographe ; **Washing** *angl.* lavage du linge, blanchissage.
+- *l. 19* : **19** **J.** *jeudi*.
+- *l. 24* : **24** **mess** *angl.* salle de repas commune aux officiers.
+- *l. 25* : **25** **79 C** désignation de local ; lettre non développée ; **Lt** *lieutenant*.
 
 * * *
 
-**l.~15--17 Brouillard se lève, de + en + dense et enseveli paysage. Arbres, fantomatiques au 1/2 des champs. Moulins à (vent) :** Vision poétique d'une grande intensité plastique ; le mot *vent* est ajouté entre parenthèses en fin de ligne. C'est la première apparition du motif des vieux moulins à vent picards qui obsédera le carnet jusqu'en avril 1917.
+Lignes 15–17 : au 1/2 des champs signifie au milieu des champs. Le mot vent est reporté sous Moulins à et placé entre parenthèses : cette disposition, réellement visible, ne prouve ni la date de l’ajout ni qu’il constituerait la première apparition d’un motif littéraire. Ligne 5 : patronyme Bertin proposé avec réserve. Ligne 25 : 79 C est une désignation de local, distincte d’un numéro d’unité ; le carnet ne développe pas la lettre.
 
 > **Martinsart et courses :** Le 28 novembre, Combes est reçu au château de Martinsart par M. et Mme Bertin [?] et entend des gros canons proches en action. Le 30 décembre (vue 117), il reverra trois personnes âgées réfugiées de Martinsart à Franvillers; il est possible qu’il s’agisse du même entourage, sans établir leur identité à partir de ces seules pages. Les autres tournées relient Raincheval, Puchevillers, Rubempré, Septenville et Pierregot.
 
@@ -4880,6 +5270,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Franvillers, Buire-sur-l'Ancre, Ribemont, Heilly, Toutencourt (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 18 entrées contrôlées.
+- **Réserves de l'apparat** : Identité du capitaine désigné H. non établie ici..
 
 ```text
  1 | 1er Ven.          Décembre 1916
@@ -4910,21 +5303,26 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 26 | vu Cap. H.
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi. **1 1er** *scil.* premier.
-- *l. 3* : **3 lunch** *angl. in ms.*
-- *l. 4* : **4 s/** *abbr. pro* sur.
-- *l. 8* : **8 frse** *abbr. pro* française. **8 Cap.** *abbr. pro* Capitaine.
-- *l. 11* : **11 ds** *abbr. pro* dans.
-- *l. 13* : **13** *in marg. cum unco* (comptes).
-- *l. 14* : **14 mess** *angl. in ms.*
-- *l. 18* : **18 fortt** *abbr. pro* fortement.
-- *l. 21* : **21 Cap.** *abbr. pro* Capitaine.
-- *l. 22* : **22 Lt** *abbr. pro* Lieutenant.
-- *l. 26* : **26 Cap.** *abbr. pro* Capitaine.
+- *l. 1* : **1** **Ven.** *vendredi*.
+- *l. 2* : **2** **office** *angl.* bureau militaire ; **billet** *angl.* cantonnement, logement attribué.
+- *l. 3* : **3** **early lunch** *angl.* repas de midi pris tôt.
+- *l. 4* : **4** **s/** *sur*.
+- *l. 8* : **8** **frse** *française* ; **Cap.** *capitaine*.
+- *l. 10* : **10** **M.F.** *Mission française, dans ce contexte*.
+- *l. 11* : **11** **ds** *dans*.
+- *l. 13* : **13** **[ — A Curtis** début du compte, crochet gauche autographe dans le corps de la page.
+- *l. 14* : **14** **mess** *angl.* repas ou table commune des officiers.
+- *l. 15* : **15** **Tin of black** *angl.* début d’un libellé anglais : boîte de cirage noir ; suite à la ligne suivante.
+- *l. 16* : **16** **(Nugget) boot polish** *angl.* cirage pour chaussures, marque Nugget ; suite du libellé précédent.
+- *l. 18* : **18** **fortt** *fortement*.
+- *l. 21* : **21** **Cap.** *capitaine*.
+- *l. 22* : **22** **Lt** *lieutenant*.
+- *l. 24* : **24** **visibt** *visiblement*.
+- *l. 26* : **26** **Cap. H.** *capitaine H. ; prénom ou patronyme non développé*.
 
 * * *
 
-**l.~15--16 Tin of black (Nugget) boot polish : 30 c :** Achat d'une boîte de cirage anglais de marque *Nugget*. **l.~21--24 Cap. Williams, arrivé tout jeune, mince. Il vient remplacer Lt Curtis. Étonnement profond :** Entrée en scène dramatique, le samedi 2 décembre 1916 à 16 heures, du jeune capitaine Williams, qui vient relever le lieutenant Curtis à Acheux.
+Lignes 2–3 : office et billet sont employés dans le sens britannique de bureau et logement ; early lunch désigne un repas de midi pris tôt. Lignes 13–16 : le compte occupe quatre lignes du corps de page, introduites par un crochet gauche. L’anglais Tin of black / (Nugget) boot polish est réparti sur deux lignes : boîte de cirage noir, Nugget ; sa disposition ne doit pas devenir deux achats. Ligne 26 : seule l’initiale H. est écrite après le grade ; aucun nom complet n’est rétabli.
 
 > **Bureaux et remplacement :** Le 1er décembre, la tournée vers Franvillers et Buire-sur-Ancre lui fait revoir la région de Ribemont--Heilly. Les mentions de la Mission française à Toutencourt (Ve Armée, Bresson) puis à Acheux (XIIIe Corps) sont conservées. Cap. H. peut être rapproché de Huguet, nommé ailleurs, sans développer automatiquement cette initiale. Le 2 décembre, Williams arrive pour remplacer Curtis; la page décrit leur réaction, sans donner les conditions administratives de la nomination.
 
@@ -4937,6 +5335,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Nom Guerle lu sous réserve graphique, sans identification prosopographique..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | 3 Dim. —          Décbre 1916
@@ -4967,21 +5367,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 26 | Capt. Williams, charmant et de tt à tt sympathique.
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 5* : **5 1/2** *scil.* demi / moitié. **5 m.** *abbr. pro* matin.
-- *l. 7* : **7 ch.** *abbr. pro* chez. **7 Lieutt** *abbr. pro* Lieutenant.
-- *l. 8* : **8 j'à** *abbr. pro* jusqu'à. **8 lunch** *angl. in ms.*
-- *l. 11* : **11 Tt** *abbr. pro* Tout.
-- *l. 12* : **12 1/2** *scil.* demi / moitié.
-- *l. 15* : **15** *in marg. cum unco* (comptes).
-- *l. 18* : **18 L.** *scil.* Lundi. **18 rapidt** *abbr. pro* rapidement.
-- *l. 20* : **20 ds** *abbr. pro* dans. **20 Mme** *abbr. pro* Madame.
-- *l. 25* : **25 Lt** *abbr. pro* Lieutenant.
-- *l. 26* : **26 tt** *abbr. pro* tout. **26 Capt.** *angl.* Captain.
+- *l. 1* : **1** **Dim.** *dimanche* ; **Décbre** *décembre*.
+- *l. 7* : **7** **ch.** *chez* ; **Lieutt** *lieutenant*.
+- *l. 8* : **8** **lunch** *angl.* repas de midi ; **j'à** *jusqu’à*.
+- *l. 11* : **11** **Tt** *Tout*.
+- *l. 12* : **12** **1/2** milieu, dans « au milieu des champs ».
+- *l. 15* : **15** **[ — A Hérissart** début du bloc de comptes, crochet gauche autographe.
+- *l. 18* : **18** **L.** *lundi* ; **rapidt** *rapidement*.
+- *l. 20* : **20** **ds** *dans* ; **Mme** *Madame*.
+- *l. 25* : **25** **Lt** *lieutenant*.
+- *l. 26* : **26** **Capt.** *captain, capitaine* ; **de tt à tt** *de tout à tout ; expression telle qu’écrite*.
 
 * * *
 
-**l.~12 :** « Moulins squelettiques »: notation visuelle du paysage. **l.~26 de tt à tt :** Abréviation de « de tout à tout », conservée dans le texte. Le jugement favorable est celui de cette date.
+Ligne 12 : au 1/2 des champs signifie au milieu des champs. Lignes 15–17 : le compte, à gauche duquel Combes trace un crochet, occupe le corps de page ; 2 bocks est le libellé écrit. Ligne 26 : de tt à tt se développe de tout à tout, expression conservée sans la remplacer par de tout au tout. Capt. est la contraction du grade anglais captain, ici capitaine.
 
 > **Tournées et versement :** Le 3 décembre, courses vers Septenville et Hérissart, puis Marcelcave par Corbie et Villers-Bretonneux, retour par Warfusée-Abancourt. Le compte porte 78 f 75 et annonce le prochain versement le 17, sans expliciter une règle de quinzaine. Le 4, courses vers Belle-Église et Louvencourt; Williams paraît alors charmant et sympathique à Combes, appréciation qu’il faut conserver à sa date.
 
@@ -4993,6 +5392,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Authie, Bayencourt, Coigneux, Louvencourt, Raincheval (Somme / Pas-de-Calais)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
 
 ```text
  1 | 5 Mardi.          Décbre 1916
@@ -5016,16 +5417,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | la guerre, était office boy à 50 £ a year.
 ```
 
-- *l. 7* : **7 bp** *abbr. pro* beaucoup.
-- *l. 10* : **10 Lieutt** *abbr. pro* Lieutenant.
-- *l. 12* : **12 Coy** *angl.* Company. **12 A.S.C.** *angl.* Army Service Corps.
-- *l. 13* : **13 Merc.** *scil.* Mercredi. **13 Lt** *abbr. pro* Lieutenant.
-- *l. 14* : **14 1/2** *scil.* demi / moitié. **14 m.** *abbr. pro* matin.
-- *l. 17* : **17 off.** *abbr. pro* officier(s). **17 Cap.** *abbr. pro* Capitaine.
+- *l. 1* : **1** **Décbre** *décembre*.
+- *l. 7* : **7** **bp** *beaucoup* ; **+ de tuiles** plus de tuiles : les tuiles ont disparu.
+- *l. 10* : **10** **Lieutt** *lieutenant*.
+- *l. 12* : **12** **Coy** *company, compagnie britannique* ; **A.S.C.** *Army Service Corps, corps britannique du ravitaillement et des transports*.
+- *l. 13* : **13** **Merc.** *mercredi* ; **Lt** *lieutenant*.
+- *l. 14* : **14** **A brainless** *angl.* début de l’injure anglaise, un âne sans cervelle ; suite ass à la ligne suivante.
+- *l. 15* : **15** **ass.** *angl.* âne, dans A brainless ass ; injure visant Curtis.
+- *l. 17* : **17** **off.** *officier* ; **Cap.** *capitaine*.
+- *l. 19* : **19** **office boy** *angl.* jeune employé de bureau ; **a year** *angl.* par an.
 
 * * *
 
-**l.~14--15 A brainless ass :** Jugement injurieux en anglais (« un âne sans cervelle »), attribué par le diariste à Curtis. **l.~17--19 :** Williams, âgé de vingt ans selon Combes, raconte qu’il était office boy à 50 livres annuelles avant la guerre. Ce récit ne donne pas les étapes de sa carrière.
+Ligne 7 : + de tuiles signifie ici plus de tuiles, au sens de disparition des couvertures, après la mention des toits squelettiques ; ce n’est pas une quantité accrue. Lignes 14–15 : A brainless ass est l’injure formulée par le diariste à propos de Curtis, « un âne sans cervelle » ; aucune citation attribuée à un tiers n’est indiquée. Ligne 19 : office boy désigne un jeune employé de bureau ; a year signifie par an, la somme étant exprimée en livres sterling. Ces indications ne suffisent pas à reconstruire une carrière.
 
 > **Départ de Curtis :** La course du 5 décembre atteint Authie, Bayencourt et Coigneux, avec Hébuterne et Gommecourt comme repères manuscrits. Le 6, Curtis repart pour la 152 Coy A.S.C. ; Combes le juge durement en anglais. Williams, âgé de 20 ans selon le carnet, raconte avoir été office boy à 50 livres annuelles avant la guerre. Ni carrière détaillée ni causes de sa promotion ne sont données.
 
@@ -5038,6 +5442,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Nom Houtteman [?], finale man compatible mais resserrée..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
+- **Réserves de l'apparat** : Patronyme Houtteman non assuré.; Référent de Daily Mail dans la phrase elliptique non établi..
 
 ```text
  1 | 7 Jeudi — — Décbre 1916 —
@@ -5068,21 +5475,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 26 | Arquèves : on a commencé à battre paille.
 ```
 
-- *l. 4* : **4 lgts** *abbr. pro* longtemps. **4 Cap. W.** *scil.* Capitaine Williams.
-- *l. 5* : **5 j'à** *abbr. pro* jusqu'à.
-- *l. 6* : **6 Houtteman** *lect. incert. in ms.* **6 Mme** *abbr. pro* Madame.
-- *l. 8* : **8 ds** *abbr. pro* dans.
-- *l. 10* : **10 ds** *abbr. pro* dans.
-- *l. 11* : **11 lgts** *abbr. pro* longtemps.
-- *l. 12* : **12 Town Major** *angl. in ms.*
-- *l. 16* : **16 off.** *abbr. pro* officier(s).
-- *l. 17* : **17 ds** *abbr. pro* dans.
-- *l. 20* : **20 Ve.** *scil.* Vendredi. **20 Tjrs** *abbr. pro* Toujours.
-- *l. 23* : **23 St** *abbr. pro* Saint.
+- *l. 1* : **1** **Décbre** *décembre*.
+- *l. 4* : **4** **lgts** *longtemps* ; **Cap. W.** *capitaine W., probablement Williams, nommé dans les entrées voisines*.
+- *l. 5* : **5** **j'à** *jusqu’à*.
+- *l. 6* : **6** **Mme** *Madame* ; **Houtteman [?]** patronyme proposé, à rapprocher avec réserve de la vue 171.
+- *l. 8* : **8** **ds** *dans*.
+- *l. 10* : **10** **ds** *dans*.
+- *l. 11* : **11** **lgts** *longtemps*.
+- *l. 12* : **12** **Town Major** *angl.* officier chargé du cantonnement ; **Daily Mail** nom anglais écrit dans une phrase elliptique ; référent non explicité.
+- *l. 16* : **16** **off.** *officier*.
+- *l. 17* : **17** **ds** *dans*.
+- *l. 20* : **20** **Ve.** *vendredi* ; **Tjrs** *Toujours*.
+- *l. 23* : **23** **St** *Saint*.
 
 * * *
 
-**l.~13--15 :** Combes distingue le tonnerre des canons et les vibrations métalliques qui suivent, comparées à un gémissement. Le calibre et le mécanisme sonore ne sont pas identifiés. **l.~6 :** Nom proposé Houtteman, avec réserve, après comparaison graphique de la seconde occurrence (vue 171); aucune identité civile n’en est déduite.
+Ligne 6 : Houtteman reste une proposition graphique, rapprochée de la vue 171 sans identification civile certaine. Ligne 12 : la phrase « où le Town Major et le Daily Mail » est elliptique ; Daily Mail est écrit comme un titre ou nom propre anglais, mais le rôle exact de ce qu’il désigne n’est pas explicité. Town Major désigne l’officier chargé du cantonnement. Lignes 13–15 : la comparaison avec un gémissement décrit une perception sonore sans identifier le calibre ou le mécanisme des canons.
 
 > **Belle-Église et Englebelmer :** La fermière de Belle-Église à Arquèves est dite belge; son nom est proposé Houtteman [?], après comparaison de 171. Le 8 décembre, on a commencé à battre paille; le texte n’assigne pas à Combes la direction de la mise en route des machines. Englebelmer est décrit comme désert d’habitants et occupé par des Anglais. Des réfugiés d’Englebelmer sont ensuite mentionnés à Toutencourt (vue 110); le mécanisme et la date d’évacuation ne sont pas précisés.
 
@@ -5095,6 +5503,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Croughton [?]; adjectifautoritaire [?] très repassé; aucune nouvelle résolution certaine..
+
+- **Apparat révisé intégralement sur l'image** : 21 entrées contrôlées.
+- **Réserves de l'apparat** : Patronyme Croughton et adjectif autoritaire non assurés..
 
 ```text
  1 | 9 Samedi          Décbre 1916
@@ -5120,20 +5531,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | [ Tin of Wren's Dubbin : 30 c ]
 ```
 
-- *l. 4* : **4** ⟦Belle-Église⟧ *del. in ms.* **4 m.** *abbr. pro* matin.
-- *l. 5* : **5 Divon** *abbr. pro* Division. **5 Coy** *angl.* Company.
-- *l. 6* : **6 Croughton** *lect. incert. in ms.* **6 Lt** *abbr. pro* Lieutenant.
-- *l. 8* : **8 j'à** *abbr. pro* jusqu'à.
-- *l. 11* : **11** *lect. incert. in ms.*
-- *l. 13* : **13 L.** *scil.* Lundi. **13 auj'd'hui** *abbr. pro* aujourd'hui.
-- *l. 15* : **15 Tjrs** *abbr. pro* Toujours.
-- *l. 17* : **17 tte** *abbr. pro* toute.
-- *l. 19* : **19 ds** *abbr. pro* dans. **19 Tt** *abbr. pro* Tout.
-- *l. 21* : **21** *in marg. cum unco* (comptes). **21 Dubbin** *angl. in ms.*
+- *l. 1* : **1** **Décbre** *décembre*.
+- *l. 4* : **4** **⟦Belle-Église⟧** toponyme biffé, remplacé par Orville.
+- *l. 5* : **5** **mess** *angl.* table ou salle de repas commune aux officiers ; **no** *numéro* ; **Coy** *company, compagnie britannique* ; **Divon** *division*.
+- *l. 6* : **6** **av.** *avec* ; **Lt** *lieutenant* ; **Croughton [?]** patronyme de lecture incertaine.
+- *l. 8* : **8** **j'à** *jusqu’à*.
+- *l. 11* : **11** **Extt** *Extrêmement* ; **[autoritaire ?]** adjectif proposé, lecture non établie.
+- *l. 13* : **13** **L.** *lundi* ; **auj'd'hui** *aujourd’hui*.
+- *l. 14* : **14** **office** *angl.* bureau militaire.
+- *l. 15* : **15** **Tjrs** *Toujours*.
+- *l. 17* : **17** **tte** *toute*.
+- *l. 19* : **19** **Tt** *Tout* ; **ds** *dans*.
+- *l. 21* : **21** **[ Tin** compte au bas de page, crochet gauche autographe ; **Tin of Wren's Dubbin** *angl.* boîte de graisse pour cuir, marque Wren’s.
 
 * * *
 
-**l.~4 :** « Belle-Église » biffé, remplacé par Orville. **l.~11--12 :** Adjectif difficile avant « ce gosse de Williams »; « autoritaire » n’est qu’une lecture proposée. **l.~17 :** « Dysenterie » est ici le mot employé par Combes; il ne constitue pas un diagnostic éditorial.
+Ligne 4 : Belle-Église est biffé et remplacé par Orville, au-dessous de la première inscription. Ligne 11 : autoritaire demeure une lecture proposée avec réserve. Ligne 17 : dysenterie est le mot du diariste. Ligne 21 : Tin of Wren’s Dubbin désigne une boîte de graisse pour le cuir de marque Wren’s ; le compte est écrit en bas de page, précédé d’un crochet gauche, non dans une marge latérale.
 
 > **Authie et Artois :** Déjeuner au mess no 3 Coy 31st Divon, avec Croughton [?], puis course par Orville, Saulty et L’Arbret sous la pluie. Le passage n’établit pas que cette compagnie soit la 280th A.S.C., ni que le lieutenant cité plus tard sous une graphie proche soit nécessairement le même. Le jugement difficile sur Williams et la dysenterie des jours suivants sont ceux du diariste, sans diagnostic éditorial.
 
@@ -5145,6 +5558,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Senlis-le-Sec, Toutencourt, Belle-Église, Puchevillers, Harponville (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
 
 ```text
  1 | 12 Mardi          Décbre 1916
@@ -5170,19 +5585,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | [ — Essuie-mains : 90 c — ]
 ```
 
-- *l. 5* : **5 s/** *abbr. pro* sur. **5 lgts** *abbr. pro* longtemps.
-- *l. 6* : **6 s/** *abbr. pro* sur.
-- *l. 8* : **8 tt** *abbr. pro* tout.
-- *l. 14* : **14 J.** *scil.* Jeudi.
-- *l. 15* : **15 ds** *abbr. pro* dans. **15 lgts** *abbr. pro* longtemps.
-- *l. 17* : **17 Tt** *abbr. pro* Tout.
-- *l. 18* : **18 ds** *abbr. pro* dans.
-- *l. 20* : **20 extt** *abbr. pro* extrêmement.
-- *l. 21* : **21** *in marg. cum unco* (comptes).
+- *l. 1* : **1** **Décbre** *décembre*.
+- *l. 5* : **5** **lgts** *longtemps* ; **s/** *sur*.
+- *l. 6* : **6** **s/** *sur*.
+- *l. 8* : **8** **tt** *tout*.
+- *l. 9* : **9** **Me.** *mercredi*.
+- *l. 10* : **10** **meeting** *angl.* réunion.
+- *l. 14* : **14** **J.** *jeudi*.
+- *l. 15* : **15** **lgts** *longtemps* ; **ds** *dans*.
+- *l. 17* : **17** **Tt** *Tout*.
+- *l. 18* : **18** **ds** *dans*.
+- *l. 20* : **20** **extt** *extrêmement* ; **lamentablt** *lamentablement*.
+- *l. 21* : **21** **[ — Essuie-mains** compte au bas du texte, crochet gauche autographe.
 
 * * *
 
-**l.~4--6 Resté lgts à ma fenêtre, s/ devant & s/ derrière, à admirer paysage :** La posture favorite du diariste — posté en observateur silencieux derrière la vitre de sa chambre — transforme les rues d'Acheux en tableau vivant. **l.~20 lamentablt :** Abréviation de lamentablement, avec t final élevé; sales demeure le mot suivant.
+Lignes 5–6 : « s/ devant & s/ derrière » désigne les deux côtés d’observation depuis la fenêtre ; aucun mot perdu n’est suggéré par cette syntaxe elliptique. Ligne 10 : meeting est l’emprunt anglais signifiant réunion. Ligne 20 : lamentablt se développe lamentablement ; sales est le mot suivant, non une partie de l’abréviation. Ligne 21 : petit compte d’essuie-mains au bas de la page, introduit par un crochet gauche.
 
 > **Réfugiés à Toutencourt :** Le 13 décembre, réunion à la mairie avec des réfugiés d’Englebelmer et le major Levy, à rapprocher de la description d’Englebelmer désert à 108. Le carnet ne donne ni l’objet administratif de la réunion, ni un règlement des récoltes, ni le mandat précis du major. L’après-midi, les courses passent par Belle-Église, Puchevillers et Harponville.
 
@@ -5195,6 +5613,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Addition sous la finale de recouvertes, peut-être épaisse/abréviation, sans lecture imposée; ferme du Quesnoy non localisée..
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
+- **Réserves de l'apparat** : Addition sous recouvertes non déchiffrée..
 
 ```text
  1 | 15 Vendredi —          Décbre 1916
@@ -5222,17 +5643,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | [ — Cartes ples : 25 c ]
 ```
 
-- *l. 3* : **3** *lect. incert. in ms.* **3 tt** *abbr. pro* tout.
-- *l. 6* : **6 ds** *abbr. pro* dans. **6 lgts** *abbr. pro* longtemps.
-- *l. 7* : **7 bcp** *abbr. pro* beaucoup.
-- *l. 8* : **8 L.** *scil.* Lundi. **8 Auj'd'hui** *abbr. pro* Aujourd'hui.
-- *l. 15* : **15 Tjrs** *abbr. pro* Toujours.
-- *l. 21* : **21 off.** *abbr. pro* officier(s).
-- *l. 23* : **23** *in marg. cum unco* (comptes). **23 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Décbre** *décembre*.
+- *l. 3* : **3** **tt** *tout* ; **[addition interlinéaire illis.]** petite addition sous recouvertes, lecture non assurée.
+- *l. 6* : **6** **lgts** *longtemps* ; **office** *angl.* bureau militaire ; **ds** *dans*.
+- *l. 7* : **7** **bcp** *beaucoup*.
+- *l. 8* : **8** **L.** *lundi* ; **Auj'd'hui** *Aujourd’hui*.
+- *l. 15* : **15** **Tjrs** *Toujours*.
+- *l. 17* : **17** **c.** *certains*.
+- *l. 21* : **21** **off.** *officier* ; **cap.** *capitaine*.
+- *l. 23* : **23** **[ — Cartes ples** compte au bas de page précédé d’un trait ou renvoi horizontal ; crochets de la transcription éditoriaux ; **Cartes ples** *cartes postales*.
 
 * * *
 
-**l.~12--14 voiture ressaute : on est cahoté, secoué, jeté d'1 côté et d'autre :** Rythme ternaire mimétique traduisant l'épreuve physique des tournées automobiles sur les chaussées défoncées par les convois d'artillerie. **l.~20--22 Société de mon off. — 1 cap. de 20 ans, présomptueux & vain — peu agréable :** Portrait moral incisif du capitaine Williams. **l.~3--4 :** Petite addition sous recouvertes, précédant couche de boue liquide; lecture non assurée, sa présence est signalée.
+Lignes 3–4 : courte addition interlinéaire sous recouvertes ; le mot non déchiffré ne se confond pas avec une lacune matérielle. Ligne 17 : c. se développe certains, devant endroits ; il ne s’agit pas de centimes. Ligne 21 : off. et cap. sont au singulier, officier et capitaine. Ligne 23 : compte de cartes postales, introduit par une petite flèche ou trait de renvoi horizontal ; pas de crochet enveloppant ni de marge latérale établis par la photographie.
 
 > **Tournées et jugement :** Les 17 et 18 décembre relient Belle-Église, Arquèves, Raincheval, Toutencourt et la ferme du Quesnoy, sur des routes qui cahotent la voiture. La localisation cadastrale de cette ferme reste à établir; sa proximité de Raincheval/Puchevillers ne suffit pas à la fixer. Le portrait de Williams comme capitaine de 20 ans présomptueux et vain est une appréciation datée de Combes.
 
@@ -5244,6 +5667,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Senlis-le-Sec, Rubempré, Quesnoy (identification non établie), Léalvillers, Saint-Léger, Orville, Authie, Toutencourt, Puchevillers, Louvencourt
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 23 entrées contrôlées.
 
 ```text
  1 | 22 Ven.          Déc. 1916
@@ -5272,22 +5697,24 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | [ — Authie : 2 œufs s/ plat : 70 c. — Cartes ples : 30 c ]
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 7* : **7 Cap.** *abbr. pro* Capitaine.
-- *l. 9* : **9** *in marg. cum unco* (comptes). **9 c.** *abbr. pro* centimes.
-- *l. 10* : **10 bcp** *abbr. pro* beaucoup. **10 Mte** *scil.* Marguerite (Calmels).
-- *l. 12* : **12 D.** *scil.* Dimanche. **12 Tjrs** *abbr. pro* Toujours.
-- *l. 14* : **14 tte** *abbr. pro* toute.
-- *l. 15* : **15 St** *abbr. pro* Saint.
-- *l. 17* : **17 ch.** *abbr. pro* chez. **17 Mme** *abbr. pro* Madame.
-- *l. 18* : **18 Cap. W.** *scil.* Capitaine Williams. **18 Cap.** *abbr. pro* Capitaine.
-- *l. 22* : **22 Mte** *scil.* Marguerite (Calmels). **22 ct** *abbr. pro* courant.
-- *l. 23* : **23 gdes** *abbr. pro* grandes.
-- *l. 24* : **24** *in marg. cum unco* (comptes). **24 s/** *abbr. pro* sur.
+- *l. 1* : **1** **Ven.** *vendredi* ; **Déc.** *décembre*.
+- *l. 7* : **7** **Cap.** *capitaine*.
+- *l. 8* : **8** **billet** *angl.* cantonnement, logement attribué.
+- *l. 9* : **9** **[ — Lorgnon** compte bref, crochet gauche autographe.
+- *l. 10* : **10** **Mte** *Marguerite, dans ce contexte familial* ; **bcp** *beaucoup*.
+- *l. 12* : **12** **D.** *dimanche* ; **Tjrs** *Toujours*.
+- *l. 14* : **14** **tte** *toute*.
+- *l. 15* : **15** **St** *Saint*.
+- *l. 17* : **17** **ch.** *chez* ; **Mme** *Madame*.
+- *l. 18* : **18** **Cap.** *capitaine* ; **W.** *Williams, probablement, d’après les entrées voisines* ; **Bloody France** *angl.* injure anglaise contre la France : « maudite France ».
+- *l. 20* : **20** **French Mission** *angl.* Mission française.
+- *l. 22* : **22** **Mte** *Marguerite, dans ce contexte familial* ; **ct.** *courant*.
+- *l. 23* : **23** **gdes** *grandes*.
+- *l. 24* : **24** **[ — Authie** compte au bas de page, crochet gauche autographe ; **s/** *sur* ; **Cartes ples** *cartes postales*.
 
 * * *
 
-**Note codicologique :** Dans la campagne de numérisation, ce feuillet des 22–24 décembre 1916 (Scan #112, `20251126_105142.jpg`) a été photographié immédiatement avant celui des 19–20 décembre (Scan #113, `20251126_105155.jpg`). **l.~10--11 et 21--23 Lettre de Mte du 17 ct. — Velléités de rupture :** Aveu poignant de la crise sentimentale qui éclate à la veille de Noël 1916.
+La vue porte les 22 et 24 décembre ; elle vient après la vue 113, datée des 19 et 20, dans l’ordre chronologique, bien que photographiée avant elle. Lignes 10 et 22 : Mte est la contraction du prénom Marguerite ; l’apparat de lecture ne déduit pas un nom de famille de cette seule forme. Ligne 18 : le propos injurieux en anglais est mis entre guillemets par Combes. Ligne 20 : French Mission signifie Mission française. Les comptes des lignes 9 et 24 sont isolés dans le corps de la page par des crochets gauches autographes.
 
 > **Double préoccupation :** Les 22 et 24 décembre, lettre de Mte du 17 et propos Bloody France de Williams chez Mme Cuisinier à Louvencourt nourrissent sa tristesse et son hésitation à écrire à la Mission française. La ferme Cuisinier reparaît à 118; le nom abrégé de 126 peut lui être rapproché, sans effacer sa réserve. Ce récit ne reproduit ni la lettre ni un rapport officiel. L’ordre des photographies 112/113 inverse celui des dates.
 
@@ -5301,6 +5728,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Développement du sigle Army P. Board non confirmé; ne pas en faire une expansion certaine..
 
+- **Apparat révisé intégralement sur l'image** : 17 entrées contrôlées.
+- **Réserves de l'apparat** : Développement de P. dans Army P. Board probable, non garanti par la seule page..
+
 ```text
  1 | 19 Ma. —          Décbre 1916 —
  2 | Matinée, course à Belle-Église,
@@ -5308,7 +5738,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
  4 | Army P. Board. Village tr. calme & désert. Froid ds auto.
  5 | Après-midi, resté à Acheux, office
  6 | & mon billet. Neige tombée à gros flocons.
- 7 | Comme d'habitude, passé soirée au
+ 7 | Cme d'habitude, passé soirée au
  8 | rez-de-ch., avec mes propriétaires.
  9 | [ — Bureau mission, XIIIe c., touché
 10 | solde etc. : 84 fr.
@@ -5325,19 +5755,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | brouillard et pluie des semaines précédentes.
 ```
 
-- *l. 1* : **1 Ma.** *scil.* Mardi.
-- *l. 3* : **3 lgts** *abbr. pro* longtemps.
-- *l. 4* : **4 ds** *abbr. pro* dans.
-- *l. 8* : **8 rez-de-ch.** *abbr. pro* rez-de-chaussée.
-- *l. 9* : **9** *in marg. cum unco* (comptes).
-- *l. 10* : **10 fr.** *abbr. pro* franc(s).
-- *l. 11* : **11 c.** *abbr. pro* centimes. **11 Christmas** *angl. in ms.*
-- *l. 12* : **12 Merc.** *scil.* Mercredi. **12 fortt** *abbr. pro* fortement.
-- *l. 20* : **20 gd** *abbr. pro* grand.
+- *l. 1* : **1** **Ma.** *mardi* ; **Décbre** *décembre*.
+- *l. 3* : **3** **lgts** *longtemps*.
+- *l. 4* : **4** **Army P. Board** Army Purchase Board, probablement : commission militaire d’achat ; P. développé par parallèle interne ; **tr.** *très* ; **ds** *dans*.
+- *l. 5* : **5** **office** *angl.* bureau militaire.
+- *l. 6* : **6** **billet** *angl.* cantonnement, logement attribué.
+- *l. 7* : **7** **Cme** *Comme*.
+- *l. 8* : **8** **rez-de-ch.** *rez-de-chaussée*.
+- *l. 9* : **9** **[ — Bureau mission** bloc de comptes dans le corps de page, crochet gauche autographe ; **c.** *corps*.
+- *l. 11* : **11** **Christmas** *angl.* Noël ; cartes de vœux de Noël.
+- *l. 12* : **12** **Merc.** *mercredi* ; **fortt** *fortement*.
+- *l. 15* : **15** **in front** *angl.* à l’avant de la voiture.
+- *l. 20* : **20** **gd** *grand*.
 
 * * *
 
-**Ordre chronologique :** La vue 113 porte les 19 et 20 décembre et précède donc 112 (22 et 24). **Army P. Board :** Développement probable Army Purchase Board par comparaison de Purchase Board à 166, l.~14; ce parallèle interne ne remplace pas une source administrative sur l’organisme. **in front :** Position à l’avant de la voiture.
+La page des 19–20 décembre précède chronologiquement celle des 22–24 décembre (vue 112). Ligne 4 : P. dans Army P. Board se développe probablement Purchase par comparaison avec Purchase Board à la vue 166 ; l’intitulé administratif complet reste une hypothèse interne. Ligne 7 : Combes écrit Cme, contraction de Comme, rétablie dans la transcription. Ligne 9 : XIIIe c. abrège XIIIe corps, non centimes. Ligne 15 : in front signifie à l’avant de la voiture, en contraste explicite avec l’arrière de la ligne suivante.
 
 > **Army P. Board :** Le sigle de Raincheval peut être développé probablement Army Purchase Board, par comparaison avec Purchase Board écrit à 166 (l.~14), où Levy demande que Combes reste à cet organisme. Ce parallèle interne n’établit pas toute sa structure administrative. À Acheux, le compte porte solde etc. 84 fr et cartes Christmas 70 c; il ne donne pas 16 jours à 5 f 25. Cette vue des 19--20 décembre précède chronologiquement 112.
 
@@ -5349,6 +5782,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux-en-Amiénois (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 18 entrées contrôlées.
 
 ```text
  1 | 25 Lundi.          Décbre 1916
@@ -5376,19 +5811,23 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | Gd silence, nuit. Nul écho de canonnade.
 ```
 
-- *l. 3* : **3 Tjrs** *abbr. pro* Toujours.
-- *l. 5* : **5 frse** *abbr. pro* française.
-- *l. 6* : **6 Margte** *scil.* Marguerite (Calmels).
-- *l. 7* : **7 ct** *abbr. pro* courant.
-- *l. 13* : **13 ds** *abbr. pro* dans. **13 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 15* : **15** *in marg. cum unco* (comptes). **15 c.** *abbr. pro* centimes.
-- *l. 18* : **18 Cap.** *abbr. pro* Capitaine. **18 s.** *abbr. pro* soir.
-- *l. 19* : **19 qq** *abbr. pro* quelque(s). **19 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 23* : **23 Gd** *abbr. pro* Grand(e).
+- *l. 1* : **1** **Décbre** *décembre*.
+- *l. 3* : **3** **Tjrs** *Toujours*.
+- *l. 4* : **4** **cap.** *capitaine*.
+- *l. 5* : **5** **frse** *française*.
+- *l. 6* : **6** **Margte** *Marguerite*.
+- *l. 7* : **7** **ct.** *courant*.
+- *l. 13* : **13** **ds** *dans* ; **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens* ; **hut** *angl.* baraque.
+- *l. 15* : **15** **[ — Washing** compte isolé par un crochet gauche autographe ; **Washing** *angl.* lavage du linge, blanchissage.
+- *l. 16* : **16** **compl.** *complètement*.
+- *l. 18* : **18** **Cap.** *capitaine*.
+- *l. 19* : **19** **qq** *quelques* ; **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens* ; **hut** *angl.* baraque.
+- *l. 21* : **21** **merveillt** *merveilleusement*.
+- *l. 23* : **23** **Gd** *Grand*.
 
 * * *
 
-**l.~2--8 Dois-je faire 1 rapport à Mission frse ? / Hanté aussi par lettre de Margte du 17 ct. :** Examen de conscience dramatique du jour de Noël 1916, où le dilemme professionnel (faut-il dénoncer le capitaine Williams à la Mission française ?) se conjugue au tourment sentimental (« Cruelle perplexité ») avant l'apaisement stoïque du soir (« retrouvé compl. calme d'esprit & parfait équilibre »).
+Lignes 3–8 : le carnet distingue la préoccupation suscitée par le propos de Williams de celle liée à la lettre de Marguerite ; les ellipses ne sont pas des lacunes. Lignes 13 et 19 : Y.M.C.A. hut associe un sigle et un nom anglais : baraque de la Young Men’s Christian Association. Ligne 16 : compl. signifie complètement, omission de l’ancien apparat. Ligne 15 : compte de blanchissage isolé par un crochet gauche dans le corps de page.
 
 > **Noël 1916 :** Après l’insomnie et ses hésitations au sujet de Williams et de la lettre de Margte, Combes retrouve le calme dans sa chambre et assiste aux chansons comiques et saynètes du foyer Y.M.C.A. Le grand silence et l’absence d’écho de canonnade sont une observation locale du soir, sans preuve d’une trêve générale.
 
@@ -5400,6 +5839,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Raincheval, Arquèves, Beauquesne, Quesnoy (identification non établie), Doullens
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
+- **Réserves de l'apparat** : Développement de l. en lettres très plausible, sans forme longue sur cette page..
 
 ```text
  1 | 26 Mardi          Décbre 1916.
@@ -5420,17 +5862,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 16 | Cartes ples : 55 c ]
 ```
 
-- *l. 6* : **6 Mme** *abbr. pro* Madame.
-- *l. 9* : **9 Merc.** *scil.* Mercredi.
-- *l. 12* : **12 j'à** *abbr. pro* jusqu'à.
-- *l. 13* : **13 ds** *abbr. pro* dans.
-- *l. 14* : **14** *in marg. cum unco* (comptes).
-- *l. 15* : **15 gdes** *abbr. pro* grandes.
-- *l. 16* : **16 Cartes ples** *abbr. pro* Cartes postales.
+- *l. 1* : **1** **Décbre** *décembre*.
+- *l. 4* : **4** **M.** *Monsieur*.
+- *l. 6* : **6** **Mme** *Madame*.
+- *l. 9* : **9** **Merc.** *mercredi*.
+- *l. 12* : **12** **j'à** *jusqu’à*.
+- *l. 13* : **13** **ds** *dans*.
+- *l. 14* : **14** **[ A Doullens** bloc de dépenses, crochet gauche autographe ; **à l.** à lettres, probablement, après papier.
+- *l. 15* : **15** **gdes** *grandes*.
+- *l. 16* : **16** **Cartes ples** *cartes postales*.
 
 * * *
 
-**l.~12--13 :** « resté / 20 m. à peine ds cette ville (hélas!) »: regret de la brièveté du séjour, sans cause explicitée.
+Lignes 12–13 : le regret marqué par hélas porte sur les vingt minutes passées à Doullens ; la cause n’est pas écrite. Ligne 14 : papier à l. se développe probablement papier à lettres, dans le contexte d’un achat de papier et d’enveloppes. Lignes 14–16 : les trois dépenses sont réunies par un crochet gauche autographe au bas de la page.
 
 > **Machine à battre :** Le 26 décembre, entretien à Raincheval et Arquèves, où Combes voit Guibet; à Beauquesne, il parle avec Mme Capron de la location d’une machine à battre. La vue 120 rapproche ce sujet d’un contrat de battage passé avec elle le 5 janvier. Ni réquisition de ces pailles, ni destination militaire précise, ni propriété de la machine ne sont explicitement données ici. Le 27, le séjour à Doullens est bref.
 
@@ -5443,6 +5887,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Identification des Archie Singers et de leurs membres non établie..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
+- **Réserves de l'apparat** : Archie conservé comme élément du nom de troupe, sans développement spéculatif..
 
 ```text
  1 | 28 Jeudi          Décembre 1916
@@ -5472,19 +5919,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | chambre sans feu, et fenêtres ouvertes.
 ```
 
-- *l. 2* : **2 fortt** *abbr. pro* fortement.
-- *l. 5* : **5 rapidt** *abbr. pro* rapidement.
-- *l. 7* : **7 breakfast** *angl. in ms.*
-- *l. 10* : **10 Y.M.C.A.** *angl.* Young Men's Christian Assoc.. **10 s.** *abbr. pro* soir.
-- *l. 13* : **13** *in marg. cum unco* (comptes).
-- *l. 16* : **16 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 17* : **17 Ve.** *scil.* Vendredi.
-- *l. 22* : **22 s.** *abbr. pro* soir.
-- *l. 24* : **24 pt** *abbr. pro* peut.
+- *l. 2* : **2** **fortt** *fortement*.
+- *l. 5* : **5** **rapidt** *rapidement*.
+- *l. 6* : **6** **affreust** *affreusement*.
+- *l. 7* : **7** **breakfast** *angl.* petit déjeuner.
+- *l. 9* : **9** **car in workshop** *angl.* voiture à l’atelier.
+- *l. 10* : **10** **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens* ; **hut** *angl.* baraque ; **13th** *angl.* 13e, début du nom de troupe anglais poursuivi à la ligne suivante.
+- *l. 11* : **11** **Corps Archie Singers** *angl.* chanteurs Archie du corps ; nom de troupe tel qu’inscrit, Archie non développé.
+- *l. 13* : **13** **[ — Brown Boot Polish** bloc de dépenses, crochet gauche autographe ; **Brown Boot Polish** *angl.* cirage brun pour chaussures.
+- *l. 16* : **16** **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens*.
+- *l. 17* : **17** **Ve.** *vendredi*.
+- *l. 19* : **19** **Sunbeam Car** *angl.* voiture de marque Sunbeam.
+- *l. 24* : **24** **Tempérre** *Température* ; **pt** *peut*.
 
 * * *
 
-**car in workshop :** Voiture à l’atelier, expliquant la liberté mentionnée ce jour. **l.~14--15 :** Envoi recommandé d’une boîte à Imbert, opticien à Paris. Le contenu de la boîte n’est pas précisé dans cette dépense.
+Ligne 9 : car in workshop signifie voiture à l’atelier et explique la liberté de la journée. Lignes 10–11 : 13th Corps Archie Singers est un nom de troupe inscrit en anglais ; Singers signifie chanteurs, Archie demeure un élément de nom non développé ici. Ligne 19 : Sunbeam Car désigne une voiture de marque Sunbeam. Ligne 24 : Tempérre abrège Température et pt est le verbe peut, devant travailler. Lignes 13–16 : compte introduit par un crochet autographe à gauche ; la boîte recommandée à Imbert n’est pas décrite par son contenu.
 
 > **Concert et voiture :** Le 28 décembre, la voiture est à l’atelier et Combes assiste au spectacle des 13th Corps Archie Singers. Le nom ne prouve pas une composition en artilleurs antiaériens, même si Archie possède cet emploi argotique. Une boîte recommandée part à Imbert; le mandat de 122 pour pince-nez permet un rapprochement probable, sans prouver seul le contenu de la boîte. Le 29, la Sunbeam Car du major Levy sert à la course vers Raincheval, Quesnoy et Louvencourt.
 
@@ -5497,6 +5947,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Discordance du compte manuscrit conservée, sans transformer 45 en 55 pour la résoudre..
+
+- **Apparat révisé intégralement sur l'image** : 19 entrées contrôlées.
+- **Réserves de l'apparat** : Un des montants du compte peut encore demander une autre lecture ; total 88 conservé tel qu’écrit..
 
 ```text
  1 | 30 Sam.          Décbre /16
@@ -5525,20 +5978,23 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | = 88 fr. — ]
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 6* : **6 extt** *abbr. pro* extrêmement.
-- *l. 8* : **8 Cap.** *abbr. pro* Capitaine.
-- *l. 12* : **12** *in marg. cum unco* (comptes).
-- *l. 13* : **13 Dim.** *scil.* Dimanche.
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 16* : **16 lunch** *angl. in ms.*
-- *l. 22* : **22 Y.M.C.A.** *angl.* Young Men's Christian Assoc.. **22 1/2** *scil.* demi / moitié.
-- *l. 23* : **23** *in marg. cum unco* (comptes). **23 fr.** *abbr. pro* franc(s).
-- *l. 24* : **24 fr.** *abbr. pro* franc(s).
+- *l. 1* : **1** **Sam.** *samedi* ; **Décbre** *décembre*.
+- *l. 6* : **6** **extt** *extrêmement*.
+- *l. 8* : **8** **Cap.** *capitaine*.
+- *l. 11* : **11** **entt** *entièrement*.
+- *l. 13* : **13** **Dim.** *dimanche* ; **Tempérre** *Température* ; **+tôt** plutôt.
+- *l. 15* : **15** **ds** *dans*.
+- *l. 16* : **16** **lunch** *angl.* repas de midi.
+- *l. 19* : **19** **capne** *capitaine*.
+- *l. 20* : **20** **(paraît** début d’un ajout à droite, suivi de déprimé à la ligne suivante.
+- *l. 21* : **21** **(déprimé)** suite de l’ajout paraît déprimé, placé à droite.
+- *l. 22* : **22** **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens* ; **hut** *angl.* baraque ; **1/2 séance** moitié d’une séance.
+- *l. 23* : **23** **[ — Dépenses mess** compte au bas de la page, crochet gauche autographe ; **mess** *angl.* table ou salle de repas commune aux officiers.
+- *l. 24* : **24** **= 88 fr.** total autographe différent de la somme des quatre postes transcrits : 78 francs.
 
 * * *
 
-**l.~7--10 et 19--21 :** Combes rapporte une explication, des excuses puis une attitude gênée de Williams. Les pensées de l’officier et sa dépendance professionnelle ne sont pas documentées directement. **l.~23--24 :** Les quatre postes lus 45, 10, 1 et 22 donnent 78 francs, tandis que le total écrit est 88. Cette discordance est conservée; un des chiffres peut demander une nouvelle lecture.
+Lignes 19–21 : capne abrège capitaine. Les mots paraît et déprimé sont placés à droite entre parenthèses dans un ajout réparti sur deux lignes ; ils se comprennent ensemble comme « paraît déprimé ». Ligne 22 : 1/2 séance signifie une moitié de séance. Lignes 23–24 : le compte présente les termes 45, 10, 1 et 22 et le total écrit 88 ; ces quatre nombres donnent 78. La discordance n’autorise pas à changer un chiffre pour rétablir une addition correcte. Le montant 22 et le total 88 sont d’une encre plus violette que les premiers termes ; la photographie ne date pas ces inscriptions.
 
 > **Franvillers et Williams :** Le 30 décembre, Combes retrouve à Franvillers trois personnes âgées réfugiées de Martinsart; leur identification aux hôtes du château de 104 est possible, non assurée. Il rapporte ensuite des excuses de Williams après une explication ferme et le lendemain une attitude gênée; la peur supposée d’une plainte n’est pas une parole de l’officier. Le compte 45+10+1+22 porte un total 88, discordance maintenue.
 
@@ -5551,6 +6007,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Nom Carluvant: lecture compatible, identité civile non établie..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
 
 ```text
  1 | 1er Lundi — 1917 —          Janvier.
@@ -5578,16 +6036,16 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | Acheux : new boots, nails on : 1 f 50 ]
 ```
 
-- *l. 1* : **1 1er** *scil.* premier.
-- *l. 6* : **6 gde** *scil.* grande.
-- *l. 9* : **9** ⟦nouveau⟧ *del. in ms.* **9 ds** *abbr. pro* dans.
-- *l. 20* : **20 pr** *scil.* pour. **20 s.** *abbr. pro* soir.
-- *l. 22* : **22** *in marg. cum unco* (comptes). **22 c.** *abbr. pro* centimes.
-- *l. 23* : **23 boots** *angl. in ms.*
+- *l. 6* : **6** **gde** *grande*.
+- *l. 8* : **8** **M.** *Monsieur*.
+- *l. 9* : **9** **ds** *dans* ; **qq** *quelques* ; **⟦nouveau⟧** mot biffé avant proprire ; **proprire** *propriétaire*.
+- *l. 20* : **20** **pr** *par*.
+- *l. 22* : **22** **[ A Louvencourt** bloc de dépenses, crochet gauche autographe ; **canteen** *angl.* cantine ; **Calvert Tooth Powder** *angl.* poudre dentifrice de marque Calvert.
+- *l. 23* : **23** **new boots, nails on** *angl.* bottes neuves, pose de clous ; libellé du compte.
 
 * * *
 
-**l.~1 1er Lundi — 1917 — Janvier :** Ouverture solennelle du millésime 1917 au centre de la première ligne, soulignée de deux traits. **l.~22--23 Calvert Tooth Powder / new boots, nails on :** Le relevé comptable en pied de folio est rédigé en anglais technique (achat de poudre dentifrice Calvert à la cantine britannique de Louvencourt et ferrage de brodequins neufs à Acheux).
+Ligne 1 : 1917 figure au centre de la première ligne, souligné ; cette disposition ne suffit pas à définir une ouverture solennelle. Ligne 9 : nouveau est biffé, puis proprire abrège propriétaire, personne qui veut s’installer dans la maison. Ligne 20 : pr se développe par, après fatigué, et non pour. Lignes 22–23 : libellés de dépenses en anglais, dans un bloc muni d’un crochet gauche ; new boots, nails on associe la mention de bottes neuves au cloutage, sans prouver l’achat des bottes pour ce seul montant.
 
 > **Logement et expertise :** Les 1er et 2 janvier, courses par Toutencourt, Quesnoy, Authie, Pas et Saulty puis à la ferme Cuisinier de Louvencourt pour expertise d’une machine endommagée. Le terme contradictoire et l’objet juridique de l’expertise ne sont pas écrits. Carluvant [?] annonce devoir quitter la maison, le propriétaire voulant s’y installer; Combes regrette sa chambre chaude. Cette annonce ne donne pas à elle seule la date effective du déménagement.
 
@@ -5600,6 +6058,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Qualificatif ocre [?] des gravures, encore resserré..
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
+- **Réserves de l'apparat** : Qualificatif proposé ocre non assuré..
 
 ```text
  1 | 3 Mercredi          — Janvier /17 —
@@ -5627,20 +6088,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | 1 bonnet police drap bleu : 3 f 75 c ]
 ```
 
-- *l. 5* : **5 off.** *abbr. pro* officier(s). **5 m.** *abbr. pro* matin.
-- *l. 7* : **7 ch.** *abbr. pro* chez.
-- *l. 10* : **10 ds** *abbr. pro* dans.
-- *l. 12* : **12 j'à** *abbr. pro* jusqu'à. **12 1/2** *scil.* demi / moitié.
-- *l. 13* : **13 Cap.** *abbr. pro* Capitaine.
-- *l. 15* : **15 cathle** *abbr. pro* cathédrale.
-- *l. 19* : **19 s.** *abbr. pro* soir.
-- *l. 20* : **20** *in marg. cum unco* (comptes). **20 ctes ples** *abbr. pro* cartes postales.
-- *l. 21* : **21 c.** *abbr. pro* centimes.
-- *l. 22* : **22** *lect. incert. in ms.*
+- *l. 4* : **4** **+tôt** plutôt.
+- *l. 5* : **5** **off.** *officiers*.
+- *l. 7* : **7** **ch.** *chez* ; **M.** *Monsieur* ; **av.** *avec*.
+- *l. 10* : **10** **ds** *dans*.
+- *l. 11* : **11** **rue —** nom de rue non inscrit après rue.
+- *l. 12* : **12** **j'à** *jusqu’à*.
+- *l. 13* : **13** **Cap.** *capitaine*.
+- *l. 15* : **15** **cathle** *cathédrale*.
+- *l. 20* : **20** **[ — Amiens** bloc de comptes au-dessous du récit ; pas de marge latérale attestée ; **ctes ples** *cartes postales* ; **Ctes ples** *cartes postales*.
+- *l. 21* : **21** **khaki** *angl.* kaki, couleur brun jaunâtre.
+- *l. 22* : **22** **[ocre ?]** lecture incertaine du qualificatif des gravures.
 
 * * *
 
-**l.~11 rue :** Nom de rue non renseigné. La cause de ce blanc n’est pas connue. **l.~22 :** Achat de cinq gravures de la cathédrale; le qualificatif « ocre » demeure à vérifier.
+Ligne 5 : off. se développe officiers, au pluriel après 2. Ligne 11 : après rue, aucun nom de rue n’est donné ; l’ellipse demeure sans motif conjecturé. Ligne 15 : cathle signifie cathédrale. Ligne 22 : ocre est une lecture réservée du qualificatif des gravures ; aucun développement assuré de ce groupe ne peut être donné. Lignes 20–23 : quatre lignes de dépenses suivent le récit ; elles ne sont pas une marge latérale. Le trait horizontal qui introduit le compte ne suffit pas à transformer les crochets éditoriaux en crochet autographe.
 
 > **Course à Amiens :** Arrêt à Belle-Église et à Montigny chez Dubois Paul, dit maire; le rapprochement avec la famille Dubois de 161 est possible. À Amiens, la voiture est garée à l’Hôtel de la Paix, mais le nom de rue demeure blanc dans le carnet. La rencontre Trefcon rue Sire Firmin Leroux et La Semeuse : instruments agricoles précède une longue visite de la cathédrale et l’achat de cinq gravures. Ni adresse 15 rue des Cordeliers ni siège social ne sont établis par cette page.
 
@@ -5652,6 +6114,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Septenville, Beauquesne (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 18 entrées contrôlées.
+- **Réserves de l'apparat** : Développement de g. en gais non assuré..
 
 ```text
  1 | 4 Jeudi          — Janvier /17
@@ -5680,20 +6145,24 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | [ Bureau Mission fse XIIIe Corps Acheux : 78 f 75 ]
 ```
 
-- *l. 5* : **5 mervx** *abbr. pro* merveilleux.
-- *l. 6* : **6 qq** *abbr. pro* quelque(s).
-- *l. 7* : **7 ds** *abbr. pro* dans.
-- *l. 11* : **11 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 13* : **13** *in marg. cum unco* (comptes). **13 Hair cut** *angl. in ms.*
-- *l. 14* : **14 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 15* : **15 Ven.** *scil.* Vendredi.
-- *l. 17* : **17 Lt** *abbr. pro* Lieutenant.
-- *l. 20* : **20 Mme** *abbr. pro* Madame.
-- *l. 24* : **24** *in marg. cum unco* (comptes). **24 fse** *abbr. pro* française.
+- *l. 5* : **5** **mervx** *merveilleux*.
+- *l. 6* : **6** **qq** *quelques*.
+- *l. 7* : **7** **ds** *dans*.
+- *l. 10* : **10** **XIII Corps Archie** *angl.* nom de la troupe du XIIIe corps ; Archie conservé comme élément de nom.
+- *l. 11* : **11** **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens* ; **hut** *angl.* baraque.
+- *l. 12* : **12** **g.** gais, peut-être, à propos des duos ; développement réservé.
+- *l. 13* : **13** **[ — Hair cut** début d’un bloc de dépenses, crochet gauche autographe ; **Hair cut** *angl.* coupe de cheveux.
+- *l. 14* : **14** **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens*.
+- *l. 15* : **15** **Ven.** *vendredi*.
+- *l. 17* : **17** **av.** *avec* ; **Lt** *lieutenant*.
+- *l. 19* : **19** **av.** *avec*.
+- *l. 20* : **20** **Mme** *Madame*.
+- *l. 21* : **21** **Mervx** *Merveilleux*.
+- *l. 24* : **24** **[ Bureau Mission** compte au bas de page, crochet gauche autographe ; **fse** *française*.
 
 * * *
 
-**l.~21--23 Mervx clair de lune. Routes boueuses comme ruisselantes de lumière :** Transfiguration poétique de la boue picarde sous l'effet de la pleine lune d'hiver.
+Lignes 10–12 : nom anglais de la troupe et commentaire français sur la seconde partie du programme. L’abréviation g. après très peut se comprendre gais, mais ce développement reste réservé ; elle ne signifie pas un grade. Lignes 13–14 et 24 : deux blocs de comptes, introduits par un crochet autographe à gauche. Ligne 19 : le mot écrit est battage ; il ne faut pas lui substituer batteuse. L’abréviation mervx qualifie le clair de lune et se développe merveilleux aux deux occurrences.
 
 > **Concert et contrat :** Le 4 janvier, concert des XIII Corps Archie à la Y.M.C.A., à rapprocher des Archie Singers de 116. Le 5, course à la ferme Moulard de Septenville, déjeuner à Beauquesne avec Walsh, Morris et son interprète au Café Continental, puis contrat de location de battage avec Mme Capron. Le sujet rejoint la machine à battre de 115; les conditions et le propriétaire ne sont pas détaillés. Le relevé d’Acheux porte 78 f 75.
 
@@ -5705,6 +6174,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Louvencourt, Bertrancourt, Authie, Arquèves, Raincheval, Saint-Léger, Hédauville (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
 
 ```text
  1 | 6 Sam.          Janv. 1917
@@ -5733,19 +6204,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | [ — Avis de réception pour Imbert : 15 c — ]
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 7* : **7 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 10* : **10 A.S.C.** *angl.* Army Service Corps.
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 12* : **12 Ma.** *scil.* Mardi.
-- *l. 14* : **14 St** *abbr. pro* Saint.
-- *l. 18* : **18 Divon** *abbr. pro* Division. **18 Coy** *angl.* Company.
-- *l. 19* : **19 ds** *abbr. pro* dans.
-- *l. 24* : **24** *in marg. cum unco* (comptes).
+- *l. 1* : **1** **Sam.** *samedi* ; **Janv.** *janvier*.
+- *l. 7* : **7** **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens*.
+- *l. 10* : **10** **A.S.C.** *Army Service Corps, corps britannique du ravitaillement et des transports*.
+- *l. 11* : **11** **[ — Washing** compte dans le corps de page ; crochets éditoriaux, pas de crochet autographe visible ; **Washing** *angl.* lavage du linge, blanchissage ; **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens*.
+- *l. 12* : **12** **Ma.** *mardi*.
+- *l. 14* : **14** **St** *Saint*.
+- *l. 16* : **16** **M.** *Monsieur*.
+- *l. 18* : **18** **Coy** *company, compagnie britannique* ; **Divon** *division*.
+- *l. 19* : **19** **ds** *dans*.
+- *l. 20* : **20** **out riding** *angl.* sorti à cheval.
+- *l. 24* : **24** **[ — Avis de réception** compte au bas de page précédé d’un tiret ; crochets éditoriaux.
 
 * * *
 
-**l.~12--13 9 Ma. — Hier & avant-hier :** Le dimanche 7 et le lundi 8 janvier 1917 sont résumés rétrospectivement en tête de l'entrée du mardi 9 janvier. **l.~20 Morris, était out riding :** Était sorti à cheval (emprunt direct à l'anglais parlé des cantonnements).
+Lignes 12–14 : l’entrée du mardi 9 récapitule hier et avant-hier, soit les 8 et 7 janvier ; aucune entrée quotidienne complète ne doit être interpolée. Ligne 20 : out riding signifie sorti à cheval. Lignes 11 et 24 : comptes au-dessous des sections du récit, introduits par des tirets ; la photographie ne montre pas de crochet enveloppant ces blocs. Leurs crochets dans la transcription sont éditoriaux.
 
 > **Troupes et 150 Coy :** Les convois d’artillerie et de l’A.S.C. encombrent les routes le 6 janvier, sans preuve interne d’une relève entre corps. Le 9, Combes retrouve 150 Coy, 18th Divon à Hédauville, près de la route de Varennes; Morris est out riding. Nichols (1922, p. 107--110, qui nomme le Maj. H. G. Peachy, A.S.C. à la tête de la 150th Co.) et le tableau des Horse Transport Companies de Chris Baker (The Long, Long Trail) rattachent les 150th--153rd Companies A.S.C. au 18th Divisional Train ; ces sources étayent le rapprochement avec la 152nd Coy, sans identifier les convois du 6.
 
@@ -5757,6 +6230,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Saint-Léger, Belle-Église, Authie, Arquèves, Louvencourt, Raincheval, Beauquesne, Septenville, Rubempré (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
 
 ```text
  1 | 10 Me.          — Janvier 1917 —
@@ -5786,19 +6261,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | Rentré vers 6h, nuit noire.
 ```
 
-- *l. 3* : **3 s/** *abbr. pro* sur.
-- *l. 4* : **4 St** *abbr. pro* Saint.
-- *l. 7* : **7 tt** *abbr. pro* tout.
-- *l. 9* : **9** *in marg. cum unco* (comptes).
-- *l. 11* : **11 fr.** *abbr. pro* franc(s).
-- *l. 12* : **12 J.** *scil.* Jeudi. **12 tt** *abbr. pro* tout.
-- *l. 13* : **13 off** *abbr. pro* officier(s).
-- *l. 16* : **16 Ve.** *scil.* Vendredi.
-- *l. 21* : **21 St** *abbr. pro* Saint.
+- *l. 1* : **1** **Me.** *mercredi*.
+- *l. 3* : **3** **s/** *sur*.
+- *l. 4* : **4** **St** *Saint*.
+- *l. 7* : **7** **billet** *angl.* cantonnement, logement attribué ; **tt** *tout*.
+- *l. 9* : **9** **[ — Mandat-poste** bloc de dépense, crochet gauche autographe.
+- *l. 12* : **12** **J.** *jeudi* ; **tt** *tout*.
+- *l. 13* : **13** **A whole day off** *angl.* une journée entière de repos ; off appartient à l’expression anglaise.
+- *l. 16* : **16** **Ve.** *vendredi*.
+- *l. 21* : **21** **St** *Saint*.
 
 * * *
 
-**l.~13 A whole day off :** Une journée entière de congé (en anglais idiomatique dans le texte). **l.~9--11 Mandat-poste à Imbert, opticien, Paris, pour réparation pince-nez et pour 1 neuf d'après ordonnance : 19 fr. :** Suite de l'envoi recommandé du 28 décembre (Scan #116).
+Ligne 13 : A whole day off signifie une journée entière de repos ; off est un mot de la locution anglaise et ne développe pas officier, contrairement à l’ancienne marge. Lignes 9–11 : le mandat-poste concerne la réparation d’un pince-nez et un exemplaire neuf d’après ordonnance ; ne pas assimiler les ellipses à des mots matériellement perdus. Le bloc commence après un crochet gauche autographe dans le corps de la page.
 
 > **Miraumont et Imbert :** La canonnade du 10 janvier est située sur la ligne de Miraumont. Son rapprochement avec les opérations hivernales de l’Ancre est plausible, mais aucune division précise ne peut être attribuée avec certitude à partir du son et de la date. Combes retrouve Morris à Belle-Église puis le reçoit à son billet. Le mandat de 19 fr à Imbert vise expressément réparation du pince-nez et exemplaire neuf selon ordonnance, à rapprocher de l’envoi recommandé de 116.
 
@@ -5810,6 +6285,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Beaucourt, Montigny, Louvencourt, Saint-Léger, Beauquesne, Raincheval, Doullens (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | 13 Sam.          Janv. /17
@@ -5837,18 +6314,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | — 1 plaque chocolat : 60 c — ]
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 7* : **7 Cap.** *abbr. pro* Capitaine. **7 ct** *abbr. pro* courant.
-- *l. 8* : **8 D.** *scil.* Dimanche.
-- *l. 10* : **10 extt** *abbr. pro* extrêmement.
-- *l. 13* : **13 St** *abbr. pro* Saint.
-- *l. 14* : **14 L.** *scil.* Lundi.
-- *l. 19* : **19 1/2** *scil.* demi / moitié.
-- *l. 22* : **22** *in marg. cum unco* (comptes). **22 ctes ples** *abbr. pro* cartes postales.
+- *l. 1* : **1** **Sam.** *samedi* ; **Janv.** *janvier*.
+- *l. 2* : **2** **(neige fondue)** précision reportée au-dessus de la ligne suivante, entre parenthèses.
+- *l. 7* : **7** **Cap.** *capitaine* ; **défint** *définitivement* ; **ct** *courant*.
+- *l. 8* : **8** **D.** *dimanche*.
+- *l. 10* : **10** **extt** *extrêmement*.
+- *l. 13* : **13** **St** *Saint*.
+- *l. 14* : **14** **L.** *lundi*.
+- *l. 15* : **15** **asz** *assez*.
+- *l. 19* : **19** **1/2** milieu, dans « au milieu du blanc ».
+- *l. 22* : **22** **[ — 2 douz.** bloc de comptes, crochet gauche autographe ; **douz.** *douzaines* ; **ctes ples** *cartes postales* ; **Lunch** *angl.* repas de midi.
 
 * * *
 
-**l.~10 extt :** Contraction d’extrêmement. **l.~16--19 :** Contraste visuel des arbres et maisons sur la neige; nul besoin de supposer ici une pratique photographique pour expliquer cette notation.
+Ligne 2 : neige fondue est reporté au-dessus de brouillard, dans une parenthèse. Ligne 7 : défint se développe définitivement et ct courant. Ligne 19 : au 1/2 du blanc signifie au milieu du blanc, non une demi-quantité. Ligne 22 : douz. abrège douzaines ; Lunch est un emprunt signifiant repas de midi. Lignes 22–23 : compte de deux lignes introduit par un crochet gauche autographe.
 
 > **Départ annoncé :** Le 13 janvier, Combes voit Huguet au bureau de mission du Ve Corps; son départ est définitivement fixé au 26. Le passage du sigle XIIIe à Ve Corps dans les notices ne prouve pas, à lui seul, une relève opérationnelle du secteur ni son commandant. Courses à Beaucourt et Montigny, puis Louvencourt, St-Léger et Doullens les 14--15; la liberté à Doullens dure 3 h selon le chiffre relu.
 
@@ -5860,6 +6339,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Bouzincourt, Senlis-le-Sec, Rubempré, Hérissart, Toutencourt, Doullens, Auxi-le-Château (Somme / Pas-de-Calais)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
 
 ```text
  1 | 16 Mardi          Janvier 1917
@@ -5889,18 +6370,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | et dégel commencé —
 ```
 
-- *l. 5* : **5 Ds** *abbr. pro* Dans.
-- *l. 9* : **9 gdes** *abbr. pro* grandes.
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 Ctes ples** *abbr. pro* Cartes postales.
-- *l. 12* : **12 Merc.** *scil.* Mercredi. **12 abondt** *abbr. pro* abondamment.
-- *l. 14* : **14 j'à** *abbr. pro* jusqu'à.
-- *l. 15* : **15 ch.** *abbr. pro* chez.
-- *l. 18* : **18 ns** *abbr. pro* nous.
-- *l. 20* : **20 notamt** *abbr. pro* notamment.
+- *l. 5* : **5** **Ds** *Dans*.
+- *l. 9* : **9** **gdes** *grandes*.
+- *l. 11* : **11** **[ — Ctes ples** compte précédé d’un tiret ; crochets éditoriaux, sans crochet autographe visible ; **Ctes ples** *cartes postales*.
+- *l. 12* : **12** **Merc.** *mercredi* ; **abondt** *abondamment*.
+- *l. 14* : **14** **j'à** *jusqu’à*.
+- *l. 15* : **15** **ch.** *chez* ; **M.** *Monsieur*.
+- *l. 18* : **18** **M.** *Monsieur* ; **ns** *nous*.
+- *l. 19* : **19** **Ns** *Nous*.
+- *l. 20* : **20** **notamt** *notamment*.
+- *l. 24* : **24** **considt** *considérablement*.
 
 * * *
 
-**l.~19--21 coffret en paille :** Lecture visuelle conservée, et non coffret en os. La date 1858 et l’achat au bagne de Toulon sont des renseignements rapportés dans le carnet.
+Lignes 18–20 : ns et Ns se développent nous, notamt notamment, puis considt considérablement à la ligne 24. Lignes 19–21 : la leçon coffret en paille, la date 1858 et le bagne de Toulon sont les renseignements écrits ; le commentaire les rapporte sans attester matériellement l’objet. Ligne 11 : le compte de cartes postales est précédé d’un tiret, sans crochet enveloppant visible sur cette photographie ; crochets de la transcription éditoriaux.
 
 > **Auxi-le-Château :** Après les recherches de paille par Bouzincourt, Senlis et Rubempré, Combes gagne Auxi-le-Château par Doullens le 17 janvier. Renard l’invite à déjeuner et montre des objets d’art, dont un coffret en paille dit acheté en 1858 au bagne de Toulon. Ce renseignement rapporté ne certifie ni une technique de marqueterie, ni l’auteur forçat, ni la provenance matérielle du coffret. L’opposition de paysage avant/après Doullens est autographe.
 
@@ -5912,6 +6395,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Belle-Église, Raincheval, Puchevillers (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 5 entrées contrôlées.
 
 ```text
  1 | 18 Jeudi Matin (canonnade) —          Janvier /17
@@ -5934,14 +6419,15 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | Ve corps, solde : 84 fr. — ]
 ```
 
-- *l. 3* : **3 s/** *abbr. pro* sur.
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 17* : **17** *in marg. cum unco* (comptes).
-- *l. 18* : **18 fr.** *abbr. pro* franc(s).
+- *l. 1* : **1** **Matin (canonnade)** notation ajoutée à droite de l’en-tête daté.
+- *l. 3* : **3** **s/** *sur*.
+- *l. 10* : **10** **Tempérre** *Température*.
+- *l. 15* : **15** **ds** *dans*.
+- *l. 17* : **17** **[ — Matin** compte sous le récit précédé d’un tiret ; crochets éditoriaux.
 
 * * *
 
-**l.~10 Ciel mat & bas. Tempérre, pas froide :** La négation *pas* est lisible. Elle ne doit pas être supprimée pour harmoniser cette notation avec le froid pénétrant décrit plus bas.
+Ligne 1 : Matin (canonnade) est ajouté à droite de l’en-tête du 18 janvier ; sa place est distinguée du corps du récit. Ligne 10 : Tempérre se développe Température ; pas froide est bien écrit, sans contradiction à corriger par rapport au froid du soir. Lignes 17–18 : le compte de solde est précédé d’un tiret, au-dessous du récit ; aucun crochet enveloppant n’est visible, les crochets transcrits sont éditoriaux.
 
 > **Froid et solde :** Les courses vers Belle-Église, Raincheval et Puchevillers se font dans les plaines enneigées. Au bureau du Ve Corps, le relevé du 19 janvier porte 84 fr de solde. Ni taux de 5 f 25 par jour ni durée de 16 jours ne sont précisés. La neige et le froid décrits ne donnent pas une mesure météorologique; la notation pas froide en début du 19 est conservée.
 
@@ -5954,6 +6440,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Nom abrégé Cuis [?]; ne pas imposer une finale développée..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
+- **Réserves de l'apparat** : Lecture complète de Cuis et expansion de kilog. non établies sur cette page..
 
 ```text
  1 | 20 Sam.          — Janvier 1917
@@ -5980,17 +6469,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | soleil. Neige étincelle sous ses rayons.
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 8* : **8 Dim.** *scil.* Dimanche.
-- *l. 9* : **9 j'à** *abbr. pro* jusqu'à.
-- *l. 10* : **10 Cuis** *lect. incert. in ms.* **10 Mme** *abbr. pro* Madame.
-- *l. 14* : **14** *in marg. cum unco* (comptes). **14 Canteen** *angl. in ms.*
-- *l. 17* : **17 auj'd'hui** *abbr. pro* aujourd'hui.
-- *l. 21* : **21 1/2** *scil.* demi / moitié.
+- *l. 1* : **1** **Sam.** *samedi*.
+- *l. 3* : **3** **office** *angl.* bureau militaire.
+- *l. 8* : **8** **Dim.** *dimanche*.
+- *l. 9* : **9** **j'à** *jusqu’à*.
+- *l. 10* : **10** **Mme** *Madame* ; **Cuis[?]** nom abrégé, probablement Cuisinier ; lecture réservée.
+- *l. 11* : **11** **kilog.** notation de distance d’après le contexte ; graphie et développement non normalisés.
+- *l. 14* : **14** **[ — Canteen** compte introduit par un crochet gauche autographe ; **Canteen** *angl.* cantine ; **Wren's Dubbin** *angl.* graisse pour cuir de marque Wren’s ; **tins** *angl.* boîtes.
+- *l. 17* : **17** **auj'd'hui** *aujourd’hui*.
+- *l. 18* : **18** **Capne W.** *capitaine W., probablement Williams, d’après les pages voisines*.
+- *l. 19* : **19** **Tempérre** *Température*.
+- *l. 20* : **20** **complèt** *complètement*.
+- *l. 21* : **21** **1/2 jour** milieu du jour, vers midi.
 
 * * *
 
-**l.~10 Cuis[?] :** Nom abrégé, lecture complète non établie. **l.~11 2 kilog. :** Notation de distance dans le contexte d’un retour à pied ; la graphie abrégée ne justifie pas de diagnostiquer un « lapsus plaisant ». **l.~18 seul :** L’adjectif est écrit ; le plaisir de l’absence du capitaine relève d’une interprétation.
+Ligne 10 : Cuis est une forme abrégée de nom, probablement Cuisinier par comparaison avec les vues 112 et 118 ; sa lecture et son développement restent réservés. Ligne 11 : 2 kilog. se trouve dans une notation de retour à pied et paraît exprimer une distance ; conserver cette graphie sans la développer en kilogrammes ni lui attribuer une intention plaisante. Ligne 14 : 3 tins signifie trois boîtes ; le libellé porte sur du Dubbin de marque Wren’s. Ligne 21 : 1/2 jour signifie milieu du jour.
 
 > **Préparatifs :** Le 21 janvier, passage à Louvencourt chez Mme Cuis [?], nom abrégé qu’on peut rapprocher de Cuisinier à 112/118. Combes achète 3 tins de Wren’s Dubbin à la cantine et commence les préparatifs du départ. Les vitres mates de glace et la neige durcie documentent son froid local; le classement parmi les hivers les plus rigoureux du siècle demanderait une série météorologique.
 
@@ -6002,6 +6496,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux-en-Amiénois (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | 23 Ma.          Janvier /17
@@ -6025,22 +6521,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | [ — Dépenses mess pour janvier = 79 f 10 ]
 ```
 
-- *l. 1* : **1 Ma.** *scil.* Mardi.
-- *l. 2* : **2 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 3* : **3 very** *angl. in ms.*
-- *l. 4* : **4 Mer.** *scil.* Mercredi. **4 extt** *abbr. pro* extrêmement.
-- *l. 6* : **6 tte** *abbr. pro* toute.
-- *l. 8* : **8 1/2** *scil.* demi / moitié.
-- *l. 10* : **10 ts** *abbr. pro* tous.
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 Washing** *angl. in ms.*
-- *l. 16* : **16 bombardemt** *abbr. pro* bombardement.
-- *l. 17* : **17 Ts** *abbr. pro* Tous.
-- *l. 18* : **18 s.** *abbr. pro* soir.
-- *l. 19* : **19** *in marg. cum unco* (comptes). **19 mess** *angl. in ms.*
+- *l. 1* : **1** **Ma.** *mardi*.
+- *l. 2* : **2** **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens* ; **hut** *angl.* baraque.
+- *l. 3* : **3** **a very interesting lecture on Canada.** *angl.* une conférence très intéressante sur le Canada.
+- *l. 4* : **4** **Mer.** *mercredi* ; **extt** *extrêmement*.
+- *l. 6* : **6** **tte** *toute*.
+- *l. 8* : **8** **1/2 jour** milieu du jour, vers midi.
+- *l. 10* : **10** **ts** *tous*.
+- *l. 11* : **11** **[ — Washing** compte précédé d’un crochet gauche autographe ; **Washing** *angl.* lavage du linge, blanchissage.
+- *l. 12* : **12** **extr.** *extrêmement*.
+- *l. 16* : **16** **bombardemt** *bombardement*.
+- *l. 17* : **17** **Ts** *Tous*.
+- *l. 19* : **19** **[ — Dépenses mess** compte au bas de page, crochet gauche autographe ; **mess** *angl.* table ou salle de repas commune aux officiers.
 
 * * *
 
-**l.~3 a very interesting lecture on Canada :** Appréciation rédigée directement en anglais dans le carnet. **l.~7 Au réveil, eau pot & seau gelée :** Notation matérielle frappante de l'intensité du gel à l'intérieur même des habitations picardes.
+Ligne 3 : la phrase entière est anglaise, « une conférence très intéressante sur le Canada » ; ne pas détacher very comme unique emprunt. Ligne 8 : 1/2 jour signifie milieu du jour, comme la forme longue Milieu jour à la ligne 14. Ligne 12 : extr. se développe extrêmement ; le signe + intensifie fort et n’est pas une opération comptable. Les deux dépenses sont précédées de crochets gauches autographes dans le corps de page.
 
 > **Canada et compte :** Le 23 janvier, Combes apprécie une conférence sur le Canada, en termes anglais; cela ne démontre pas la langue de toute la conférence. Les 24--25, l’eau gèle dans pot et seau. Le compte porte Dépenses mess pour janvier 79 f 10; ni règlement intégral, ni période de 25 jours, ni coût quotidien de 3 f 16 ne sont donnés.
 
@@ -6053,6 +6549,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Rattachement de l’addition interlinéaire compartiment à la fin de la ligne 9, placé au-dessus de Varennes..
+
+- **Apparat révisé intégralement sur l'image** : 13 entrées contrôlées.
+- **Réserves de l'apparat** : Rattachement syntaxique de l’addition compartiment proposé, non garanti..
 
 ```text
  1 | 26 Vendredi —          Janvier /17
@@ -6081,20 +6580,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | retard. Quitté Gézaincourt, à 10h 30 s.
 ```
 
-- *l. 2* : **2 m.** *abbr. pro* matin.
-- *l. 3* : **3 extt** *abbr. pro* extrêmement. **3 1/2** *scil.* demi / moitié.
-- *l. 9* : **9** *lect. incert. in ms.*
-- *l. 10* : **10 s/** *abbr. pro* sur.
-- *l. 11* : **11 tt** *abbr. pro* tout.
-- *l. 16* : **16 compartt** *abbr. pro* compartiment.
-- *l. 19* : **19 s.** *abbr. pro* soir.
-- *l. 21* : **21 ds** *abbr. pro* dans. **21 correspce** *abbr. pro* correspondance.
-- *l. 22* : **22 1/2** *scil.* demi / moitié.
-- *l. 24* : **24 s.** *abbr. pro* soir.
+- *l. 3* : **3** **extt** *extrêmement* ; **1/2 jour** milieu du jour, vers midi.
+- *l. 9* : **9** **cl.** *classe* ; **[addition interlinéaire : compartiment]** addition réellement visible ; rattachement à cette ligne proposé par la position.
+- *l. 10* : **10** **s/** *sur*.
+- *l. 11* : **11** **tt** *tout*.
+- *l. 16* : **16** **compartt** *compartiment*.
+- *l. 17* : **17** **conversn** *conversation*.
+- *l. 18* : **18** **English** *angl.* Anglais.
+- *l. 21* : **21** **correspce** *correspondance* ; **ds** *dans*.
+- *l. 22* : **22** **1/2** milieu, dans « au milieu de voyageurs » ; **voyrs** *voyageurs*.
 
 * * *
 
-**l.~9--10 :** Addition interlinéaire « compartiment », au-dessus de Varennes et sous la fin de installé 2e cl. ; le rattachement à la ligne 9 est proposé par la disposition, sans certitude syntaxique. **l.~11--15 :** La comparaison des particules de neige à des grains de diamant et la buée confondant terre et ciel sont autographes.
+Ligne 9 : compartiment est une addition interlinéaire, écrite sous la fin de installé 2e cl. et au-dessus de Varennes ; son rattachement syntaxique est proposé d’après la position. Ligne 16 : compartt abrège compartiment ; ligne 17, conversn conversation ; ligne 22, voyrs voyageurs. Le signe 1/2 signifie milieu dans 1/2 jour et au 1/2 de voyrs, selon des emplois temporel puis spatial. English est un nom anglais, désignant ici les Anglais.
 
 > **Départ et correspondance :** Le 26 janvier, deux sacs sont pris par la voiture du service postal, puis Combes gagne la station à pied. Varennes est un repère écrit à propos des vitres; le nom technique Acheux--Varennes et la voie métrique demandent une source ferroviaire. Arrivée à Gézaincourt 4 h 30, départ 10 h 30, avec trois heures de retard annoncées pour le train de Doullens. Le carnet décrit l’attente mais n’en attribue pas toutes les six heures au seul retard.
 
@@ -6106,6 +6604,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Acheux, Gézaincourt, Amiens (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 5 entrées contrôlées.
 
 ```text
  1 | Ven. 26 (suite)          Janvier 1917
@@ -6119,14 +6619,14 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
  9 | En caisse, ce matin : 319 f 50 c ]
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 2* : **2 m.** *abbr. pro* matin.
-- *l. 4* : **4 qq** *abbr. pro* quelque(s).
-- *l. 5* : **5** *in marg. cum unco* (comptes).
+- *l. 1* : **1** **Ven.** *vendredi*.
+- *l. 4* : **4** **qq** *quelques*.
+- *l. 5* : **5** **[ — Voiturier** bloc comptable dans le corps de page, grand crochet gauche autographe.
+- *l. 7* : **7** **enregt** *enregistrement* ; **bag.** *bagages*.
 
 * * *
 
-**l.~5--9 En caisse, ce matin : 319 f 50 c :** Grand encadré comptable occupant le centre de la page (le tiers inférieur restant blanc) pour fixer avec exactitude le pécule de départ en permission (319 fr. 50) et le poids des deux sacs de bagages enregistrés à Gézaincourt (27 kg).
+Ligne 1 : Ven. 26 (suite) reprend la date du départ ; l’arrivée vers deux heures du matin relatée à la ligne 2 appartient au voyage nocturne, également décrit à la vue 130. Lignes 5–9 : les dépenses et la somme en caisse sont réunies par un grand crochet gauche autographe dans le corps de page. Ligne 7 : enregt bag. se développe enregistrement des bagages. Le poids de 27 kg est inscrit dans une parenthèse, distinct du prix de l’enregistrement. La somme en caisse est un solde déclaré, sans que l’apparat l’assimile à toute une fortune ou à une origine déterminée.
 
 > **Nuit du 26 au 27 janvier :** L’arrivée à Amiens vers 2 h du matin reprend celle de 130, après le trajet et l’attente à Gézaincourt. L’encadré enregistre 1 f pour voiturier, 10 c pour enregistrement, 27 kg pour deux sacs, et l’encaisse 319 f 50. Les achats ultérieurs sont consignés ailleurs; cette somme n’a pas une affectation de fiançailles explicitement indiquée.
 
@@ -6139,6 +6639,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Premier chiffre de l’adresse [?]6 surchargé; ne pas compléter 26 par vraisemblance..
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
+- **Réserves de l'apparat** : Premier chiffre du numéro de rue non établi..
 
 ```text
  1 | Sam. 27 —          Janv. 1917
@@ -6166,16 +6669,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | Maison luxueuse. Au 4e étage, à g.
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 7* : **7 Bvd** *abbr. pro* Boulevard.
-- *l. 8* : **8 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 12* : **12 1/2** *scil.* demi / moitié.
-- *l. 16* : **16 m.** *abbr. pro* matin.
-- *l. 22* : **22 no** *lect. incert. in ms.*
+- *l. 1* : **1** **Sam.** *samedi* ; **Janv.** *janvier*.
+- *l. 5* : **5** **prof.** *professeur*.
+- *l. 7* : **7** **Bvd** *boulevard*.
+- *l. 8* : **8** **Y.M.C.A.** *Young Men’s Christian Association, association chrétienne de jeunes gens* ; **Hut** *angl.* baraque.
+- *l. 13* : **13** **cl.** *classe*.
+- *l. 22* : **22** **no** *numéro* ; **[?]6** premier chiffre surchargé et non établi ; seule la finale 6 est assurée.
+- *l. 23* : **23** **g.** *gauche*.
 
 * * *
 
-**l.~4--5 Boilly :** Le carnet précise sa profession et son établissement. **l.~22 no [?]6 :** Le premier chiffre du numéro est surchargé; seule la finale 6 est assurée. Aucun parallèle de l’adresse n’a été établi par cette relecture.
+Ligne 5 : prof. se développe professeur. Lignes 13 et 23 : cl. signifie classe et g. gauche, selon les syntagmes ferroviaire puis immobilier. Ligne 18 : billet désigne ici le billet de train et ne reçoit pas la traduction anglaise cantonnement, valable dans d’autres emplois du carnet. Ligne 22 : no abrège numéro ; la réserve porte sur le premier chiffre de [?]6, non sur le mot no. Seule la finale 6 est assurée.
 
 > **Amiens, Paris et Neuilly :** Attente à Amiens avec deux interprètes, dont Boilly, professeur à Pont-à-Mousson; recherche d’abri boulevard Alsace-Lorraine puis à la Y.M.C.A. Après Paris-Nord, gare d’Orsay et métro Tuileries--Porte-Maillot, Combes arrive rue d’Armenonville à Neuilly. La lettre du 26 novembre 1918 évoque la famille Faure et Germaine, mais ne fournit pas un parallèle de cette adresse. Le numéro [?]6 du carnet demeure réservé ; le renvoi de l’ancienne édition à la vue 051 ne le résout pas.
 
@@ -6187,6 +6691,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Neuilly-sur-Seine, Paris (Boulevard Saint-Michel, Hôtel de Ville, Gare d'Orsay)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
 
 ```text
  1 | Sam. 27 (suite)          Janv. 1917
@@ -6210,19 +6716,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | Peu à peu, me suis assoupi.
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 2* : **2 appartt** *abbr. pro* appartement. **2 ét.** *abbr. pro* étage.
-- *l. 5* : **5 Mlle** *abbr. pro* Mademoiselle.
-- *l. 9* : **9 s.** *abbr. pro* soir.
-- *l. 10* : **10 ch.** *abbr. pro* chez. **10 Bvd** *abbr. pro* Boulevard.
-- *l. 12* : **12 plusrs** *abbr. pro* plusieurs.
-- *l. 14* : **14 s.** *abbr. pro* soir.
-- *l. 15* : **15 compartt** *abbr. pro* compartiment.
-- *l. 17* : **17 Qq** *abbr. pro* Quelque(s). **17 s.** *abbr. pro* soir.
+- *l. 1* : **1** **Sam.** *samedi* ; **Janv.** *janvier*.
+- *l. 2* : **2** **ét.** *étage* ; **g.** *gauche* ; **appartt** *appartement* ; **Mme** *Madame*.
+- *l. 5* : **5** **Mlle** *Mademoiselle*.
+- *l. 7* : **7** **Polyte** *Polytechnique, dans « préparant Polytechnique »*.
+- *l. 10* : **10** **Bvd** *boulevard* ; **St** *Saint* ; **ch.** *chez*.
+- *l. 12* : **12** **plusrs** *plusieurs*.
+- *l. 15* : **15** **compartt** *compartiment*.
+- *l. 17* : **17** **Qq** *Quelques*.
 
 * * *
 
-**l.~1--2 au 4e ét., à g., appartt de Mme Faure :** Reprise syntaxique du dernier syntagme du folio précédent (« Au 4e étage, à g. », Scan #130) pour assurer l'enchaînement après la tourne de la page. **l.~10--11 Bvd St-Michel, ch. Imbert, mobilisé :** L'opticien parisien à qui Hippolyte avait expédié son pince-nez le 28 décembre et un mandat de 19 fr. le 10 janvier (Scans #116 et #122).
+Ligne 2 : la reprise au 4e ét., à g. continue le syntagme final de la page précédente, sans qu’un texte manquant soit supposé. Ligne 7 : Polyte est une forme contractée de Polytechnique, dans une mention de préparation scolaire. Lignes 10–11 : Imbert est dit mobilisé et Combes voit son remplaçant ; la contraction ch. signifie chez. Les heures de départ ne reçoivent pas de notes répétitives.
 
 > **Famille Faure et achats :** Mme Faure reçoit Combes avec Germaine et Marcel; Henri est dit aspirant et André préparant Polyte. L’annexe familiale rapproche ce Marcel de l’époux de Solange Meynial et du futur Compagnon de la Libération. Le récit de captivité attribué aux lettres des 25–26 novembre 1918 dans l’ancienne édition est absent des pièces originales réexaminées. La notice officielle de l’Ordre donne une naissance le 30 janvier 1906 et un service en 1926–1927 ; elle interdit aussi d’attribuer cette captivité militaire au Compagnon. Le degré de parenté Calmels--Faure est lui-même discuté dans l’annexe. L’après-midi, remplaçant d’Imbert et achats aux Magasins de l’Hôtel de Ville.
 
@@ -6234,6 +6739,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Paris, Toulouse (Gare Matabiau, Saint-Michel, Sainte-Marie)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
 
 ```text
  1 | Sam. 27          Janv. /17
@@ -6260,20 +6767,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | attendre tram 30 m. angle musée.
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 3* : **3 Cartes ples** *abbr. pro* Cartes postales. **3 c.** *abbr. pro* centimes.
-- *l. 4* : **4 Enregt** *abbr. pro* Enregistrement.
-- *l. 9* : **9 c.** *abbr. pro* centimes.
-- *l. 10* : **10 c.** *abbr. pro* centimes.
-- *l. 15* : **15 cme** *abbr. pro* comme.
-- *l. 17* : **17 St** *abbr. pro* Saint.
-- *l. 18* : **18 ds** *abbr. pro* dans. **18 appartt** *abbr. pro* appartement.
-- *l. 20* : **20 1/2** *scil.* demi / moitié.
-- *l. 21* : **21 Ste** *abbr. pro* Sainte.
+- *l. 1* : **1** **Sam.** *samedi* ; **Janv.** *janvier*.
+- *l. 3* : **3** **Cartes ples** *cartes postales*.
+- *l. 4* : **4** **Enregt** *Enregistrement*.
+- *l. 10* : **10** **ordre** *ordinaire*.
+- *l. 15* : **15** **cme** *comme*.
+- *l. 17* : **17** **tram** *tramway* ; **St** *Saint*.
+- *l. 18* : **18** **ds** *dans* ; **appartt** *appartement*.
+- *l. 21* : **21** **Ste** *Sainte*.
 
 * * *
 
-**l.~13--15 :** Combes écrit avoir cru revoir sa mère et ses sœurs l’attendant à la gare. Le récit familial de Pierre Combes rapporte la mort de Maria à Carthage en 1903, de sa mère Anaïs Alric à Toulouse en 1907 et de Joséphine à Nogent-le-Rotrou en octobre 1914 (*Biographie Hippolyte Combes par son petit-fils Pierre Combes*, passages biographiques consacrés aux trois décès). Leurs noms et dates ne figurent pas dans cette entrée.
+Lignes 2–10 : succession de dépenses dans le corps de page, sans crochet enveloppant ni disposition de marge latérale. Ligne 4 : Enregt signifie Enregistrement et le montant principal est distingué des 10 c qui suivent. Ligne 10 : ordre est une contraction d’ordinaire après Peigne, et non le substantif ordre. Lignes 13–15 : la mère et les sœurs sont évoquées par le diariste ; leurs noms et dates de décès n’appartiennent pas au texte de cette entrée et relèvent du commentaire historique.
 
 > **Retour à Toulouse :** Le 28 janvier, arrivée 8 h 15, souvenirs de mère et sœurs, rangement à l’appartement, visite d’oncle Émile à 10 h 30, puis Sainte-Marie. Le récit familial donne Anaïs Alric (1838--1907), Maria (1875--1903) et Joséphine (1873--1914), éclairant ce souvenir sans inscrire leurs noms dans le texte. L’identification d’Émile Crouzet (1842--1921, agent de change à Toulouse, témoin de 39 ans sur l’acte de naissance n° 139 de Marguerite Calmels en 1892) est étayée par l’état civil et Combes-annexe ; le seul prénom du carnet n’en est pas une preuve autonome.
 
@@ -6285,6 +6790,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Toulouse (Quartier Sainte-Marie / Côte Pavée)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
 
 ```text
  1 | Dim. 28. (suite) — Janv. /17 —
@@ -6304,18 +6811,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 15 | [ — Trams : 10 c, 10 c — ]
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 2* : **2 Margte** *scil.* Marguerite (Calmels).
-- *l. 5* : **5 Ste** *abbr. pro* Sainte.
-- *l. 6* : **6 Margte** *scil.* Marguerite (Calmels).
-- *l. 8* : **8 1/2** *scil.* demi / moitié.
-- *l. 9* : **9 s.** *abbr. pro* soir.
-- *l. 10* : **10 Margte** *scil.* Marguerite (Calmels).
-- *l. 15* : **15** *in marg. cum unco* (comptes).
+- *l. 1* : **1** **Dim.** *dimanche* ; **Janv.** *janvier*.
+- *l. 2* : **2** **Margte** *Marguerite*.
+- *l. 5* : **5** **Ste** *Sainte*.
+- *l. 6* : **6** **av.** *avec* ; **Margte** *Marguerite*.
+- *l. 9* : **9** **tram** *tramway*.
+- *l. 10* : **10** **Margte** *Marguerite*.
+- *l. 15* : **15** **[ — Trams** compte au bas de page, tiret autographe ; crochets éditoriaux ; **Trams** *Tramways*.
 
 * * *
 
-**l.~2--3 et 10--14 :** Les appréciations très tendres sont autographes. Leur rapprochement avec les lettres et hésitations de décembre peut éclairer le passage, sans établir que toutes les appréhensions avaient définitivement disparu.
+Lignes 2, 6 et 10 : Margte est la contraction du prénom Marguerite ; les trois occurrences sont expliquées à leur place. Ligne 6 : av. signifie avec, omission de l’ancien apparat. Ligne 15 : deux dépenses de tramways écrites au bas de la page et précédées d’un tiret, sans crochet autographe visible. Les appréciations affectives du récit ne prouvent pas la disparition définitive des inquiétudes consignées auparavant.
 
 > **Sainte-Marie :** Accueil tendre de Margte, visite de Tante et Madeleine, puis arrivée de Jean à 6 h 30. Le rapprochement de Tante avec Élisabeth Calmels, épouse d’Émile Crouzet, et de Jean avec l’abbé Jean Crouzet vient du récit familial (Combes-annexe), non de leurs seuls noms dans cette page. Madeleine Calmels est déjà mariée au docteur Fernand Vincens depuis juillet 1907 (Combes-3-part 1). L’effacement définitif des appréhensions de Noël n’est pas établi par la tendresse de cette journée.
 
@@ -6327,6 +6833,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Toulouse (Gare Matabiau, Sainte-Marie, Basilique Saint-Sernin, Place du Capitole, Rue d'Alsace, Côte Pavée)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
 
 ```text
  1 | Lundi 29.          — Janvier 1917 —
@@ -6355,19 +6863,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | Cartes pour visiter cryptes de St-Sernin : 1 f — ]
 ```
 
-- *l. 2* : **2 1/2** *scil.* demi / moitié.
-- *l. 4* : **4 gd** *abbr. pro* grand.
-- *l. 9* : **9 Ste** *abbr. pro* Sainte.
-- *l. 10* : **10 Marg.** *scil.* Marguerite (Calmels).
-- *l. 12* : **12 St** *abbr. pro* Saint.
-- *l. 20* : **20 Ste** *abbr. pro* Sainte. **20 s.** *abbr. pro* soir.
-- *l. 21* : **21** *in marg. cum unco* (comptes).
-- *l. 23* : **23 Margte** *scil.* Marguerite (Calmels). **23 Ctes ples** *abbr. pro* Cartes postales.
-- *l. 24* : **24 St** *abbr. pro* Saint.
+- *l. 4* : **4** **gd** *grand*.
+- *l. 9* : **9** **Ste** *Sainte*.
+- *l. 10* : **10** **Marg.** *Marguerite* ; **Madne** *Madeleine*.
+- *l. 12* : **12** **St** *Saint*.
+- *l. 19* : **19** **tram** *tramway* ; **p.** *pour*.
+- *l. 20* : **20** **Ste** *Sainte*.
+- *l. 21* : **21** **[ — Trams** bloc de dépenses, crochet gauche autographe ; **Trams** *Tramways*.
+- *l. 22* : **22** **Mag.** *Magasins*.
+- *l. 23* : **23** **p.** *pour* ; **Margte** *Marguerite* ; **Ctes ples** *cartes postales*.
+- *l. 24* : **24** **St** *Saint*.
 
 * * *
 
-**l.~12--15 Visité longuement basilique St-Sernin et surtout les cryptes. Toute ma jeunesse réveillée, dans & autour de cette admirable église romane :** Émotion autobiographique intense : la maison familiale où Hippolyte Combes passa sa jeunesse auprès de ses parents (au 47 puis au 77 rue du Taur à Toulouse) débouchait directement sur la place Saint-Sernin.
+Ligne 10 : Marg. et Madne sont les prénoms contractés Marguerite et Madeleine. Lignes 19 et 23 : p. signifie pour, avec deux destinataires différents, la Côte Pavée puis Marguerite. Ligne 22 : Mag. abrège Magasins. Lignes 21–24 : bloc de dépenses introduit par un crochet gauche autographe. La jeunesse évoquée devant Saint-Sernin est un élément du récit ; les adresses de domicile familial n’y sont pas écrites et relèvent de la notice historique.
 
 > **Fleurs, Saint-Sernin et Labit :** Le 29 janvier, panier de fleurs venu de Nice, puis visite de Saint-Sernin et des cryptes avec Marg. et Madne. Le télégramme à Spagnol de 136 et le mandat de 158 peuvent être rapprochés du panier, sans établir que chaque envoi concernait un même colis. Les Magasins du Capitole et Labit sont nommés. La notice INHA AGORHA 321 sur Georges Labit donne Antoine Labit, fondateur de la Maison Universelle, pour son père; l’identification de l’enseigne ne modifie pas la désignation manuscrite.
 
@@ -6379,6 +6888,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Toulouse, Sainte-Marie ; lieu de la conférence non précisé
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
 
 ```text
  1 | Mardi 30.          Janvier 1917 —
@@ -6404,18 +6915,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | Le Miroir des Modes (no de janvier) : 1 f — ]
 ```
 
-- *l. 2* : **2 gd** *abbr. pro* grand. **2 m.** *abbr. pro* matin.
-- *l. 3* : **3 s/** *abbr. pro* sur.
-- *l. 6* : **6 Mme** *abbr. pro* Madame.
-- *l. 8* : **8 cme** *abbr. pro* comme. **8 Ste** *abbr. pro* Sainte.
-- *l. 15* : **15 Margte** *scil.* Marguerite (Calmels). **15 cie** *abbr. pro* compagnie.
-- *l. 16* : **16** *in marg. cum unco* (comptes). **16 Cartes ples** *abbr. pro* Cartes postales.
-- *l. 19* : **19 c.** *abbr. pro* centimes.
-- *l. 20* : **20 c.** *abbr. pro* centimes.
+- *l. 2* : **2** **gd** *grand*.
+- *l. 3* : **3** **s/** *sur*.
+- *l. 6* : **6** **Mme** *Madame*.
+- *l. 7* : **7** **av.** *avec*.
+- *l. 8* : **8** **cme** *comme* ; **Ste** *Sainte*.
+- *l. 10* : **10** **conférce** *conférence* ; **M.** *Monsieur*.
+- *l. 12* : **12** **Admirablt** *Admirablement*.
+- *l. 15* : **15** **cie** *compagnie, dans « en compagnie de Marguerite »* ; **Margte** *Marguerite*.
+- *l. 16* : **16** **[ — Cartes ples** bloc comptable, grand crochet gauche autographe ; **Cartes ples** *cartes postales*.
+- *l. 18* : **18** **(moyen format)** précision sur le papier, reportée sous le poste précédent.
+- *l. 20* : **20** **Trams** *Tramways*.
+- *l. 21* : **21** **no** *numéro*.
 
 * * *
 
-**l.~10--14 :** Le titre et les appréciations littéraires sont explicites. Le carnet ne situe pas la conférence dans un amphithéâtre. **l.~21 Le Miroir des Modes :** Achat enregistré, sans destinataire indiqué.
+Lignes 10–12 : conférce se développe conférence et Admirablt admirablement ; les appréciations portent sur la conférence, dont le lieu précis n’est pas donné. Ligne 15 : cie signifie compagnie dans « en compagnie de Marguerite », et non compagnie militaire. Ligne 21 : no est numéro, à propos du Miroir des Modes. Le compte des lignes 16–21 est introduit par un grand crochet autographe à gauche ; moyen format est une précision entre parenthèses reportée sous l’achat de papier.
 
 > **Zyromski et Guérin :** La conférence sur Maurice de Guérin et l’influence de la Bretagne et de Lamennais est très favorablement appréciée. L’achat de L’Orgueil humain signé Zyromski apparaît à 053; le catalogue BnF confirme Ernest Zyromski, Maurice de Guérin, Paris, A. Colin, 1921 (notice cb316943304). Ces rapprochements soutiennent l’identification du conférencier. Le lieu, la forme de cours public et la reprise de cette conférence comme chapitre du livre ne sont pas établis.
 
@@ -6428,6 +6943,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Mot après qq, contour gr…ures sans résolution; nom Henri Testet [?], recherches d’identification sans résultat probant..
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
+- **Réserves de l'apparat** : Développement de p. l.4 non assuré.; Mot réservé l.10 et patronyme Testet non assurés..
 
 ```text
  1 | Mercredi 31. —          Janvier 1917
@@ -6453,22 +6971,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | Télégramme à Mme Spagnol, Nice : 2 f — ]
 ```
 
-- *l. 2* : **2 Ds** *abbr. pro* Dans.
-- *l. 4* : **4 Mte** *scil.* Marguerite (Calmels). **4 St** *abbr. pro* Saint.
-- *l. 9* : **9 appartt** *abbr. pro* appartement.
-- *l. 10* : **10** *lect. incert. in ms.* **10 qq** *abbr. pro* quelque(s).
-- *l. 11* : **11 Ste** *abbr. pro* Sainte. **11 1/2** *scil.* demi / moitié.
-- *l. 14* : **14** *in marg. cum unco* (comptes).
-- *l. 16* : **16 1/2** *scil.* demi / moitié. **16 c.** *abbr. pro* centimes.
-- *l. 17* : **17 c.** *abbr. pro* centimes.
-- *l. 18* : **18 f.** *abbr. pro* franc(s).
-- *l. 19* : **19 Testet** *lect. incert. in ms.*
-- *l. 20* : **20 c.** *abbr. pro* centimes.
-- *l. 21* : **21 Mme** *abbr. pro* Madame.
+- *l. 2* : **2** **Ds** *Dans*.
+- *l. 4* : **4** **Mte** *Marguerite, dans ce contexte familial* ; **p.** forme abrégée ou signe de lecture non assurée dans cette construction ; développement réservé ; **St-Ser.** *Saint-Sernin, nom abrégé*.
+- *l. 5* : **5** **V. Hugo** *Victor-Hugo*.
+- *l. 9* : **9** **appartt** *appartement*.
+- *l. 10* : **10** **qq** *quelques* ; **[mot non établi]** mot écrit mais non déchiffré avec certitude ; phrase conservée sans reconstitution.
+- *l. 11* : **11** **Ste** *Sainte*.
+- *l. 14* : **14** **[ — Halles Victor-Hugo** bloc comptable, crochet gauche autographe.
+- *l. 16* : **16** **1/2 beurre** demi-quantité de beurre ; unité non écrite.
+- *l. 17* : **17** **id.** *idem, de même ; reprend ici une livre, pour les figues*.
+- *l. 19* : **19** **Testet [?]** patronyme de lecture incertaine.
+- *l. 20* : **20** **Trams** *Tramways*.
+- *l. 21* : **21** **Mme** *Madame*.
 
 * * *
 
-**l.~9--10 :** La seconde phrase est transcrite « Évité troubler qq [mot non établi] précieuses »; le contour du mot réservé paraît gr…ures, compatible avec gravures, sans résolution suffisamment assurée. L’enchaînement syntaxique reste opaque et ne justifie pas une reconstitution à partir du contexte. **l.~19 :** Prix 1 f 10; lecture Henri Testet proposée avec réserve, sans identification commerciale.
+Lignes 4–5 : St-Ser. est une désignation contractée de Saint-Sernin, V. Hugo de Victor-Hugo. Le p. précédant son tram n’a pas de développement suffisamment assuré dans cette construction. Ligne 10 : le mot non établi demeure réservé ; son contour ne justifie ni une restitution certaine de gravures ni une réécriture de la phrase. Ligne 16 : 1/2 beurre note une demi-quantité, dont l’unité n’est pas écrite. Ligne 17 : id. reprend la livre précédemment mentionnée, pour les figues. Ligne 19 : Henri Testet reste une proposition de lecture. Le bloc de comptes commence par un crochet gauche autographe.
 
 > **Promenade et correspondance :** Marché Victor-Hugo puis Hôtel d’Assézat, Daurade et Dalbade. L’hôtel, commencé en 1555, fut offert par Théodore Ozenne à la ville pour les sociétés savantes; une présentation de la Ville de Toulouse confirme l’apport de 1895. Combes-annexe indique que Jean Crouzet devint curé de la Dalbade; ce renseignement familial ne décrit pas son rôle en 1917. Le télégramme à Spagnol, Nice peut être rapproché du panier de 134/137 et du mandat 158, sans certifier l’objet exact du message.
 
@@ -6480,6 +6998,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Toulouse (Capitole, Sainte-Marie, Gare Matabiau, Rue de Languedoc)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
 
 ```text
  1 | 1er Jeudi          Février 1917 —
@@ -6505,23 +7025,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | (12 œufs, 1/2 beurre, 1 boulanger) ]
 ```
 
-- *l. 1* : **1 1er** *scil.* premier.
-- *l. 4* : **4 Mme** *abbr. pro* Madame.
-- *l. 6* : **6 Mte** *scil.* Marguerite (Calmels). **6 1/2** *scil.* demi / moitié.
-- *l. 7* : **7 Ste** *abbr. pro* Sainte.
-- *l. 9* : **9 1/2** *scil.* demi / moitié.
-- *l. 10* : **10 tte** *abbr. pro* toute.
-- *l. 11* : **11 ch.** *abbr. pro* chez.
-- *l. 13* : **13 Ste** *abbr. pro* Sainte.
-- *l. 14* : **14 j'à** *abbr. pro* jusqu'à. **14 1/2** *scil.* demi / moitié.
-- *l. 16* : **16 complètt** *abbr. pro* complètement.
-- *l. 18* : **18** *in marg. cum unco* (comptes). **18 c.** *abbr. pro* centimes.
-- *l. 19* : **19 Food** *angl. in ms.*
-- *l. 21* : **21 1/2** *scil.* demi / moitié.
+- *l. 4* : **4** **Mme** *Madame*.
+- *l. 6* : **6** **Mte** *Marguerite, dans ce contexte familial*.
+- *l. 7* : **7** **tram** *tramway* ; **Ste** *Sainte*.
+- *l. 8* : **8** **av.** *avec*.
+- *l. 10* : **10** **tte** *toute*.
+- *l. 11* : **11** **ch.** *chez*.
+- *l. 13* : **13** **Ste** *Sainte*.
+- *l. 14* : **14** **j'à** *jusqu’à*.
+- *l. 16* : **16** **complètt** *complètement*.
+- *l. 18* : **18** **[ — Trams** bloc de dépenses, grand crochet gauche autographe ; **Trams** *Tramways*.
+- *l. 19* : **19** **Food** *angl.* nourriture.
+- *l. 21* : **21** **1/2 beurre** demi-quantité de beurre ; unité non écrite.
 
 * * *
 
-**l.~15--17 :** Combes affirme ici se sentir détaché de Toulouse et vouloir partir sans regret. L’entrée suivante (vue 138, l.~16--19) exprime au contraire le regret de quitter son appartement; la déclaration du 1er février ne doit pas être présentée comme un affranchissement définitivement acquis.
+Ligne 11 : choix d’une montre en or chez Pfister ; le destinataire n’est pas nommé dans cette phrase. Ligne 16 : complètt signifie complètement. Lignes 15–17 : Combes affirme se sentir détaché de Toulouse ; la vue 138 exprime le lendemain le regret de quitter son appartement, sans contradiction à corriger matériellement. Ligne 19 : Food est un mot anglais signifiant nourriture ; le libellé français entre parenthèses est conservé. Ligne 21 : 1/2 beurre indique une demi-quantité sans unité explicite. Le bloc de dépenses est précédé d’un grand crochet gauche autographe.
 
 > **Visites et montre :** Visites aux dames Delsol et à Mme de Labarthe, descente en ville avec Henriette, démarches pour le panier et choix d’une montre en or chez Pfister. A Nazareth, revu tte ma famille n’est pas réécrit comme une évocation certaine des défunts. La montre de 138 a 105 fr peut être rapprochée de ce choix; le destinataire n’est pas explicitement nommé. Le détachement de Toulouse affirmé le soir contraste avec le regret autographe à 138 et ne peut être déclaré définitif.
 
@@ -6533,6 +7052,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Toulouse (Rue Lafayette, Place Belfort, Sainte-Marie)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 15 entrées contrôlées.
 
 ```text
  1 | 2 Vendredi.          Février 1917 —
@@ -6556,20 +7077,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | appartt, rempli de souvenirs.
 ```
 
-- *l. 2* : **2 Tjrs** *abbr. pro* Toujours.
-- *l. 4* : **4 ch.** *abbr. pro* chez.
-- *l. 7* : **7 Mme** *abbr. pro* Madame.
-- *l. 8* : **8 ch.** *abbr. pro* chez. **8 Margte** *scil.* Marguerite (Calmels).
-- *l. 9* : **9 Ste** *abbr. pro* Sainte. **9 s.** *abbr. pro* soir.
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 Ch.** *abbr. pro* Chez.
-- *l. 12* : **12 fr.** *abbr. pro* franc(s).
-- *l. 14* : **14 c.** *abbr. pro* centimes.
-- *l. 18* : **18 lgts** *abbr. pro* longtemps.
-- *l. 19* : **19 appartt** *abbr. pro* appartement.
+- *l. 2* : **2** **Tjrs** *Toujours*.
+- *l. 4* : **4** **ch.** *chez* ; **M.** *Monsieur*.
+- *l. 5* : **5** **j.** *jeune*.
+- *l. 7* : **7** **Mme** *Madame*.
+- *l. 8* : **8** **ch.** *chez* ; **Margte** *Marguerite*.
+- *l. 9* : **9** **Ste** *Sainte*.
+- *l. 11* : **11** **[ — Ch. Pfister** bloc de dépenses dans le corps de page, crochet gauche autographe ; **Ch.** *Chez*.
+- *l. 13* : **13** **free** *angl.* gratuit.
+- *l. 14* : **14** **Trams** *Tramways*.
+- *l. 16* : **16** **Tls** *Toulouse*.
+- *l. 18* : **18** **lgts** *longtemps*.
+- *l. 19* : **19** **appartt** *appartement*.
 
 * * *
 
-**l.~11--13 remontoir or mat Louis XVI 105 fr. — Petit anneau pour attacher pendentif à sautoir : free :** L'adjectif anglais *free* (gratuit) s'immisce jusque dans la facture d'horlogerie toulousaine ! **l.~16--19 Quitte à regret Tls... :** Oscillation psychologique bien humaine : au moment même de quitter son appartement toulousain (*Tls* = Toulouse) pour accompagner Marguerite à Millau, un dernier élan d'attachement revient sous sa plume.
+Ligne 5 : j. se développe jeune, devant dame. Lignes 11–15 : grand bloc de dépenses muni d’un crochet gauche autographe ; free signifie gratuit dans le libellé de l’anneau, sans destinataire nommé. Ligne 16 : Tls abrège Toulouse. Cette phrase exprime un regret différent du détachement affirmé la veille ; l’apparat décrit les deux formulations sans leur attribuer un mécanisme psychologique certain ni prétendre à une facture distincte du carnet.
 
 > **Dernière journée :** Soins chez de Lersay rue La Fayette, visite à Mme de Labarthe et chez Henriette. Le relevé porte remontoir or mat Louis XVI 105 fr, anneau pour attacher pendentif à sautoir free, pastilles et bain place Belfort. Le sautoir acheté à 056 est un rapprochement possible; la page ne certifie ni son identité avec celui-ci ni le destinataire de la montre. Combes regrette de sacrifier trois jours à Millau plutôt que rester dans son appartement.
 
@@ -6581,6 +7104,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Toulouse, Carcassonne, Béziers, Bédarieux, Millau (Aveyron)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
 
 ```text
  1 | Sam. 3          Févr. /17
@@ -6608,20 +7133,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | au 1er étage — —
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 3* : **3 ds** *abbr. pro* dans.
-- *l. 4* : **4 ch.** *abbr. pro* chez. **4 1/2** *scil.* demi / moitié.
-- *l. 5* : **5 Margte** *scil.* Marguerite (Calmels).
-- *l. 6* : **6 Ste** *abbr. pro* Sainte.
-- *l. 10* : **10 1/2** *scil.* demi / moitié.
-- *l. 11* : **11 rapidt** *abbr. pro* rapidement. **11 cathle** *abbr. pro* cathédrale.
-- *l. 15* : **15 s/** *abbr. pro* sur. **15 Mte** *scil.* Marguerite (Calmels).
-- *l. 20* : **20 Mte** *scil.* Marguerite (Calmels).
-- *l. 23* : **23 1er** *scil.* premier.
+- *l. 1* : **1** **Sam.** *samedi* ; **Févr.** *février*.
+- *l. 3* : **3** **ds** *dans*.
+- *l. 4* : **4** **ch.** *chez*.
+- *l. 5* : **5** **Margte** *Marguerite*.
+- *l. 6* : **6** **Ste** *Sainte*.
+- *l. 11* : **11** **rapidt** *rapidement* ; **cathle** *cathédrale*.
+- *l. 14* : **14** **pas de 2e** absence de seconde classe ; classe est sous-entendu.
+- *l. 15* : **15** **s/** *sur* ; **Mte** *Marguerite, dans ce contexte familial*.
+- *l. 20* : **20** **Mte** *Marguerite, dans ce contexte familial*.
 
 * * *
 
-**l.~15 Délicieuse intimité s/ l'épaule de Mte :** Image pleine de tendresse durant la lente montée nocturne du train de Béziers à Millau. **l.~18--19 Impression silence profond en débarquant ville natale :** Confirmation autographe explicite que Millau est bien la « ville natale » d'Hippolyte Combes (né rue des Barris à Millau le 14 août 1876).
+Ligne 11 : cathle abrège cathédrale. Ligne 14 : pas de 2e est une ellipse pour l’absence de seconde classe ; le mot classe n’est pas abrégé par un signe autonome ni matériellement perdu. Ligne 15 : s/ signifie sur, dans la notation de la proximité avec Marguerite. Lignes 18–19 : ville natale est bien écrit ; les date et adresse de naissance ne figurent pas dans cette entrée et appartiennent au commentaire biographique.
 
 > **Toulouse--Millau :** Voyage avec Margte, salut à Jean à Carcassonne, courte visite de la cathédrale de Béziers et de son panorama, puis départ 5 h 23 et arrivée à Millau 10 h 30. La dépense 140 confirme le passage par Bédarieux. Pierre et les parents de Margte l’accueillent. Les noms Gabriel Calmels et Valentine Cartairade, ainsi que la maison du 10 rue Alfred-Guibert, viennent des documents familiaux; le carnet ne donne ici ni adresse ni prénoms. L’identification de Jean Crouzet et d’oncle Émile Crouzet reste un rapprochement de continuité.
 
@@ -6634,6 +7158,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Sigle A.P.C. non développé; motif de la réduction 40 f/net 25 f non écrit..
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
+- **Réserves de l'apparat** : Développement de A.P.C. et motif de l’écart entre 40 et 25 francs non établis..
 
 ```text
  1 | Sam. 3 —          Févr. /17
@@ -6648,14 +7175,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 10 | — Buffet de Bédarieux : 6 f 75 + 25 c
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 5* : **5 c.** *abbr. pro* centimes.
-- *l. 6* : **6 Enregt** *abbr. pro* Enregistrement. **6 Margte** *scil.* Marguerite (Calmels).
-- *l. 9* : **9 1/2** *scil.* demi / moitié.
+- *l. 1* : **1** **Sam.** *samedi* ; **Févr.** *février*.
+- *l. 2* : **2** **M.** *Monsieur*.
+- *l. 3* : **3** **40 f = net : 25 f** deux montants successifs écrits, sans motif de réduction indiqué.
+- *l. 4* : **4** **A.P.C.** sigle non développé avec certitude.
+- *l. 5* : **5** **Trams** *Tramways*.
+- *l. 6* : **6** **Enregt** *Enregistrement* ; **Margte** *Marguerite*.
+- *l. 9* : **9** **1/2 pl.** demi-place ; place abrégé, régime tarifaire non précisé.
 
 * * *
 
-**l.~2--3 40 f = net : 25 f :** Deux montants successifs sont écrits. Le motif de la réduction n’est pas indiqué. **l.~4 A.P.C. :** Sigle conservé sans expansion assurée.
+Lignes 2–3 : la somme de 40 francs puis net : 25 francs sont écrites ; le signe égal ne suffit pas à déterminer le motif comptable de l’écart. Ligne 4 : A.P.C. est un sigle sans développement assuré. Ligne 9 : pl. signifie place dans le libellé Billet 1/2 pl. ; la demi-place n’identifie pas à elle seule le régime tarifaire ni le bénéficiaire. L’ensemble est une page de dépenses, introduites par des tirets ; aucun crochet autographe ni marge latérale n’est visible.
 
 > **Compte du 3 février :** Soins dentaires 40 f, net 25 f, sans motif de la réduction; étrennes à Marie 5 f, fonction domestique non précisée. Le billet se lit 1/2 pl. et non 1/4: aucune règle de tarif militaire au quart ne peut en être déduite. Le buffet de Bédarieux porte 6 f 75+25 c, soit 7 f; cela étaye le passage par cette gare sans préciser le repas ni le nombre de consommateurs.
 
@@ -6668,6 +7198,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Groupe initial repassé, Monté[?] ; ordre exact des remaniements non établi..
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
+- **Réserves de l'apparat** : É; t; a; t;  ; a; n; t; é; r; i; e; u; r;  ; d; u;  ; g; r; o; u; p; e;  ; r; e; p; a; s; s; é;  ; l; .;  ; 2;  ; ;;  ; l; e; c; t; u; r; e;  ; M; o; n; t; é;  ; p; r; o; v; i; s; o; i; r; e; ..
 
 ```text
  1 | Dim. 4          Févr. /17
@@ -6694,17 +7227,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | à mon aise. Soleil rendait appartt
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 6* : **6 qq** *abbr. pro* quelque(s).
-- *l. 8* : **8 1/2** *scil.* demi / moitié.
-- *l. 19* : **19 Margte** *scil.* Marguerite (Calmels).
-- *l. 20* : **20 Mte** *scil.* Marguerite (Calmels).
-- *l. 22* : **22 appartt** *abbr. pro* appartement.
-- *l. 2* : **2 [Monté ?]** Groupe repassé de lecture incertaine ; « chambre » suscrit. Aucun « ds ma » distinct ne se lit.
+- *l. 1* : **1** **Dim.** *dimanche* ; **Févr.** *février*.
+- *l. 2* : **2** **[Monté ?]** Lecture provisoire du groupe fortement repassé ; aucune restitution « dans ma » n’est autorisée par le cliché ; **chambre** Mot suscrit au-dessus du groupe initial remanié.
+- *l. 4* : **4** **1 peu** Le chiffre 1 tient lieu de l’article un.
+- *l. 6* : **6** **qq** *quelques*.
+- *l. 19* : **19** **av.** *avec* ; **Margte** *Marguerite*.
+- *l. 20* : **20** **Mte** *Marguerite*.
+- *l. 22* : **22** **appartt** *appartement*.
 
 * * *
 
-**l.~2 :** Groupe initial fortement repassé/remanié, lu provisoirement « Monté » ; « chambre » est suscrit. L’ancien supplément « ds ma » n’est pas visible et est retiré. Il s’agit d’une réserve de lecture, sans lacune matérielle constatée. **l.~7--12 :** Les souvenirs de Papa, Maman et des sœurs, puis les sanglots, sont écrits. Les noms et dates de décès relèvent du dossier familial, non de cette page.
+l. 2 : le groupe initial fortement repassé est lu provisoirement « Monté » ; « chambre » est suscrit. Aucun « ds ma » distinct n’est lisible. L’écriture remaniée ne permet pas de proposer un état antérieur assuré. l. 4 : le chiffre 1 remplace un. l. 19–20 : deux contractions du prénom Marguerite, Margte et Mte. La syntaxe elliptique (« ouvert volet », « regardé paysage », etc.) est conservée sans ajout de mots supposés absents du support. l. 7–12 : Papa, Maman, les sœurs, les souvenirs et les sanglots sont effectivement écrits ; les identifications et dates familiales relèvent du commentaire historique.
 
 > **l.~7--15 :** Le dossier familial de Pierre Combes identifie les parents à François Augustin Hippolyte Combes (1825–1899) et Marie Anaïs Alric (1838–1907), et Germaine Vincens comme la fille de Madeleine Calmels, âgée de six ans lors du mariage de 1917 (`Combes-3-part 1.DOC`, passage du mariage). Ces précisions proviennent du dossier familial ; la page porte seulement Papa, Maman, Sœurs et Germaine. La phrase finale continue en 142.
 
@@ -6717,6 +7250,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Heure de rentrée dans la chambre, premier chiffre de 40 à reprendre.; Instrument non nommé ; renvoi au Journal non identifié. Les identités Layral/Mimi viennent du dossier familial..
+
+- **Apparat révisé intégralement sur l'image** : 13 entrées contrôlées.
+- **Réserves de l'apparat** : I; d; e; n; t; i; f; i; c; a; t; i; o; n;  ; m; a; t; é; r; i; e; l; l; e;  ; d; e;  ; l; a;  ; f; e; u; i; l; l; e;  ; s; p; é; c; i; a; l; e;  ; n; o; n;  ; é; t; a; b; l; i; e; ..
 
 ```text
  1 | Dim. 4 (suite)          Fév. /17
@@ -6736,16 +7272,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 15 | (Cf. Journal, feuille spéciale)
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 3* : **3 Mte** *scil.* Marguerite (Calmels).
-- *l. 4* : **4 qq** *abbr. pro* quelque(s).
-- *l. 8* : **8 j'à** *abbr. pro* jusqu'à.
-- *l. 10* : **10 Ds** *abbr. pro* Dans.
-- *l. 6* : **6 Layral** Lecture du cliché ; l’annexe familiale emploie Layrals pour Charles et Thérèse.
+- *l. 1* : **1** **Dim.** *dimanche* ; **Fév.** *février* ; **(suite)** Indication autographe de continuation, entre parenthèses.
+- *l. 3* : **3** **av.** *avec* ; **Mte** *Marguerite*.
+- *l. 4* : **4** **qq** *quelques* ; **1 peu** Le chiffre 1 remplace un.
+- *l. 6* : **6** **Layral** Lecture du nom sur cette page ; la forme familiale Layrals n’est pas substituée au tracé autographe.
+- *l. 8* : **8** **j'à** *jusqu’à*.
+- *l. 9* : **9** **av.** *avec*.
+- *l. 10* : **10** **Ds** *Dans*.
+- *l. 15* : **15** **Cf.** *confer, c’est-à-dire : voir ou comparer* ; **(Cf. Journal, feuille spéciale)** Renvoi autographe entre parenthèses, au bas de la page ; feuille spéciale est souligné.
 
 * * *
 
-**l.~15 (Cf. Journal, feuille spéciale) :** Renvoi autographe à une autre pièce. Son identification avec des feuillets précis du fonds familial reste à démontrer ; le seul renvoi n’établit ni une pratique générale ni son contenu psychologique.
+l. 6 : le tracé du nom est lu Layral ; la terminaison familiale Layrals n’est pas introduite dans la transcription. l. 15 : renvoi autographe entre parenthèses, avec soulignement de « feuille spéciale ». Aucune pièce précise du fonds n’est identifiée avec certitude par ce seul renvoi. Les signes de liaison sont conservés ; les contractions av., Mte, qq, j’à et Ds sont développées selon leur contexte.
 
 > **l.~6 et 9 :** Layral est confirmé visuellement. Dans l’annexe familiale de Pierre Combes, Thérèse Cartairade, sœur de Valentine, a épousé Charles Layrals, notaire à Millau ; Anne-Marie Calmels (1888–1975), épouse Joseph Delcamps, est appelée Tante Mimi. Ce témoignage familial éclaire les deux noms du carnet, sans résoudre le renvoi au Journal ni nommer l’instrument joué.
 
@@ -6757,6 +7295,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Millau, Séverac, Marvejols, Saint-Flour (Aveyron / Lozère / Cantal)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 13 entrées contrôlées.
+- **Réserves de l'apparat** : V; a; l; e; u; r;  ; d; u;  ; s; .;  ; a; p; r; è; s;  ; m; i; n; u; i; t;  ; 3; 0;  ; l; .;  ; 1; 6; ..
 
 ```text
  1 | Lundi 5          Févr. /17
@@ -6779,16 +7320,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | Gift à la bonne de Mte : 3 f — ]
 ```
 
-- *l. 3* : **3 gd** *abbr. pro* grande (devant « chambre »).
-- *l. 4* : **4 ts** *abbr. pro* tous. **4 Mte** *scil.* Marguerite (Calmels).
-- *l. 9* : **9 s.** *abbr. pro* soir.
-- *l. 14* : **14 ttes** *abbr. pro* toutes.
-- *l. 17* : **17** *in marg. cum unco* (comptes). **17 Mte** *scil.* Marguerite (Calmels).
-- *l. 18* : **18 Mte** *scil.* Marguerite (Calmels). **18 Gift** *angl. in ms.*
+- *l. 1* : **1** **Févr.** *février*.
+- *l. 3* : **3** **gd** *grande, accordée avec chambre ; la contraction ne porte pas distinctement la finale féminine*.
+- *l. 4* : **4** **av.** *avec* ; **Mte** *Marguerite* ; **ts** *tous*.
+- *l. 9* : **9** **s.** *soir*.
+- *l. 12* : **12** **2e cl.** *deuxième classe*.
+- *l. 14* : **14** **ttes** *toutes*.
+- *l. 16* : **16** **s.** Signe transcrit s. après minuit 30 ; sa valeur paraît être soir selon les autres horaires, malgré cette désignation inhabituelle après minuit.
+- *l. 17* : **17** **[ — Remboursé** Début d’un bloc de comptes placé au pied de la page, séparé du récit par un trait horizontal et réuni par un crochet à gauche ; **Mte** *Marguerite*.
+- *l. 18* : **18** **Gift** *angl.* Gratification ou pourboire, anglais ; **Mte** *Marguerite*.
 
 * * *
 
-**l.~4--5 :** La venue au cimetière à deux est explicite. Le caveau visité et la volonté de « sceller leurs fiançailles devant ses morts » ne sont pas écrits. **l.~18 Gift :** Emprunt anglais pour un don ou une gratification.
+l. 3 : gd est développé grande devant chambre, sans corriger la contraction autographe. l. 8 : + vaut plus. l. 16 : le s. suivant minuit 30 est conservé ; sa valeur horaire habituelle soir convient imparfaitement à minuit. l. 17–18 : les comptes sont au pied de la page, sous un trait séparateur et dans un crochet ouvert à gauche ; ce ne sont pas des notes en marge latérale. Gift désigne une gratification à la bonne. l. 4–5 : la venue au cimetière à deux est explicite ; le caveau visité et l’intention attribuée à cette visite ne sont pas écrits.
 
 > **l.~4--18 :** Visite au cimetière à deux, puis départ de Millau avec adieux et présence de Pierre devant la gare ; arrivée à Saint-Flour à minuit 30 après le retard du train. Le dossier familial mentionne Germaine et Robert parmi les Vincens ; le compte dit seulement enfants Vincens. Le caveau visité et la cause météorologique du retard ne sont pas écrits.
 
@@ -6801,6 +7345,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Menu détail de ponctuation et chiffres horaires surchargés..
+
+- **Apparat révisé intégralement sur l'image** : 8 entrées contrôlées.
+- **Réserves de l'apparat** : A; u; c; u; n;  ; é; t; a; t;  ; a; n; t; é; r; i; e; u; r;  ; a; s; s; u; r; é;  ; s; o; u; s;  ; l; e;  ; g; r; o; u; p; e;  ; e; x; t; t;  ; l; .;  ; 2; ..
 
 ```text
  1 | Mardi 6.          Février 1917
@@ -6824,14 +7371,16 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | A Gien, 3h 45. Montargis, 4h 20.
 ```
 
-- *l. 2* : **2 extt** *abbr. pro* extrêmement.
-- *l. 6* : **6 qq** *abbr. pro* quelque(s).
-- *l. 8* : **8 gd** *abbr. pro* grand.
-- *l. 11* : **11 P.L.M.** *scil.* Paris-Lyon-Méditerranée.
+- *l. 2* : **2** **extt** *extrêmement*.
+- *l. 4* : **4** **1re cl.** *première classe*.
+- *l. 5* : **5** **2e cl.** *deuxième classe*.
+- *l. 6* : **6** **av.** *avec* ; **qq** *quelques*.
+- *l. 8* : **8** **Correspce** *correspondance* ; **gd** *grand*.
+- *l. 11* : **11** **P.L.M.** *Paris-Lyon-Méditerranée, compagnie de chemin de fer*.
 
 * * *
 
-**l.~14--17 :** Le paysage « feutré de blanc » et les flocons « serrés et menus » sont des formulations autographes ; leur appréciation esthétique appartient au commentaire.
+l. 2 : extt est une contraction d’extrêmement ; le tracé épaissi ne permet pas de restituer un mot antérieur. l. 8 : Correspce développe correspondance, nom du changement de train, et gd grand devant retard. l. 11 : le sigle P.L.M. est écrit dans le manuscrit. l. 14–17 : « feutrée de blanc » et « serrés et menus » sont des formulations autographes. Les ellipses du récit de voyage sont conservées sans être traitées comme des abréviations.
 
 > **l.~8--19 :** Brioude, Clermont, Gannat, Gien et Montargis jalonnent l’itinéraire noté, avec les heures correspondantes. Combes précise « grand train P.L.M., express » ; les gares intermédiaires non nommées et le détail des correspondances demandent un indicateur ferroviaire contemporain.
 
@@ -6844,6 +7393,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Minute de départ du train de 7 h, dernier chiffre moins net..
+
+- **Apparat révisé intégralement sur l'image** : 6 entrées contrôlées.
 
 ```text
  1 | Mardi 6 (suite)          Févr. /17
@@ -6864,14 +7415,14 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 16 | [ — Brioude, buffet, varia : 60 c ]
 ```
 
-- *l. 2* : **2 ns** *abbr. pro* nous. **2 bcp** *abbr. pro* beaucoup.
-- *l. 7* : **7 s.** *abbr. pro* soir.
-- *l. 9* : **9 s.** *abbr. pro* soir.
-- *l. 16* : **16** *in marg. cum unco* (comptes).
+- *l. 1* : **1** **Févr.** *février*.
+- *l. 2* : **2** **ns** *nous* ; **bcp** *beaucoup*.
+- *l. 12* : **12** **1re cl.** *première classe*.
+- *l. 16* : **16** **[ — Brioude, buffet, varia : 60 c ]** Compte isolé tout au bas de la page ; les crochets de la transcription sont éditoriaux, aucun crochet autographe ne l’entoure ; **varia** *lat.* Diverses dépenses, latin : choses diverses.
 
 * * *
 
-**l.~9--12 :** Arrivée à Paris « vers 6 h 30 », métro gare de Lyon, changement à Bastille, gare du Nord et train de 7 h 19 : succession explicitement notée. L’heure approximative d’arrivée ne permet pas de transformer le trajet en durée chronométrée de quarante-neuf minutes.
+l. 2 : ns et bcp sont des contractions autographes. l. 16 : compte isolé au bas de la page, introduit par un tiret ; il n’est entouré d’aucun crochet autographe. La mention antérieure « en marge avec crochet » était inexacte. Varia désigne diverses dépenses. l. 9–12 : le récit donne une arrivée approximative à Paris vers 6 h 30, le changement à Bastille et le train de 7 h 19 ; il n’autorise pas une durée de correspondance calculée à la minute.
 
 > **l.~7--12 :** Passage à Corbeil-Essonnes, arrivée à Paris vers 6 h 30, changement de métro à Bastille, puis train de 7 h 19 gare du Nord. La page ne donne ni une durée mesurée de moins de trois quarts d’heure, ni le statut de train militaire ; les lignes de métro exigent un plan contemporain distinct.
 
@@ -6884,6 +7435,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Nom de famille Carluvant : comparer l’ensemble des occurrences ; appareil ne doit pas déduire la foliation du numéro de scan..
+
+- **Apparat révisé intégralement sur l'image** : 8 entrées contrôlées.
+- **Réserves de l'apparat** : M; o; d; è; l; e;  ; d; e; s;  ; a; v; i; o; n; s;  ; n; o; n;  ; é; t; a; b; l; i;  ; p; a; r;  ; l; e;  ; t; e; r; m; e;  ; t; a; u; b; e; s; ..
 
 ```text
  1 | Merc. 7 —          Février 1917
@@ -6910,16 +7464,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | Après m'être rasé, lavé, brossé, sorti.
 ```
 
-- *l. 1* : **1 Merc.** *scil.* Mercredi.
-- *l. 6* : **6 Y.M.C.A.** *angl.* Young Men's Christian Assoc..
-- *l. 8* : **8 absolt** *abbr. pro* absolument.
-- *l. 9* : **9 m.** *abbr. pro* matin.
-- *l. 18* : **18 1/2** *scil.* demi / moitié. **18 s.** *abbr. pro* soir.
-- *l. 20* : **20 Mme** *abbr. pro* Madame.
+- *l. 1* : **1** **Merc.** *mercredi*.
+- *l. 6* : **6** **Y.M.C.A.** *Young Men’s Christian Association : association chrétienne de jeunes hommes, organisme de foyers pour soldats* ; **hut** *angl.* Baraque ou foyer, anglais ; ici le local de la Y.M.C.A.
+- *l. 8* : **8** **absolt** *absolument*.
+- *l. 9* : **9** **m.** *matin, après l’horaire 6 h 7*.
+- *l. 14* : **14** **taubes** *angl.* Avions allemands, du nom allemand Taube, « colombe », employé pour un type d’avion puis de façon plus large.
+- *l. 19* : **19** **billet** *angl.* Cantonnement ou logement assigné à un soldat, dans l’usage militaire britannique.
+- *l. 20* : **20** **Mme** *Madame*.
 
 * * *
 
-**l.~22 :** La sortie de la dernière ligne se poursuit au Scan #147. Les numéros 146 et 147 désignent des photographies ; ils ne prouvent pas à eux seuls les faces d’un « folio 73 ».
+l. 6 : Y.M.C.A. hut associe le sigle de l’association chrétienne britannique et le mot anglais hut, « baraque » ou « foyer ». l. 9 : m. après 6 h 7 désigne le matin et ne représente pas le nombre de minutes. l. 14 : taubes est employé comme nom d’avions allemands ; cette dénomination seule ne prouve pas le modèle exact des appareils. l. 19 : billet est pris dans l’usage militaire britannique de logement ou cantonnement. l. 22 : le récit se poursuit à la vue 147 ; la numérotation des photographies ne démontre pas une foliotation matérielle.
 
 > **l.~5--21 :** Haltes à Amiens, au foyer Y.M.C.A. et en salle d’attente, puis train de Doullens, deux taubes à Louvencourt et retour chez les Carluvant à Acheux. L’identification des avions, de leur mission et de la batterie ne se déduit pas du terme taubes. Le métier de tailleur et l’adresse des logeurs ne figurent pas ici.
 
@@ -6932,6 +7487,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Heure d’arrivée de l’auto : chiffre initial surchargé.; Lettres biffées avant Hérissart non restituées..
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
+- **Réserves de l'apparat** : T; e; x; t; e;  ; s; o; u; s;  ; l; a;  ; r; a; t; u; r; e;  ; l; .;  ; 5;  ; n; o; n;  ; é; t; a; b; l; i; ..
 
 ```text
  1 | Merc. 7 (suite)          Février 1917
@@ -6957,20 +7515,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | Changement plutôt pénible d'habitudes.
 ```
 
-- *l. 1* : **1 Merc.** *scil.* Mercredi.
-- *l. 3* : **3 Mme** *abbr. pro* Madame.
-- *l. 4* : **4 Cap.** *abbr. pro* Capitaine.
-- *l. 5* : **5** ⟦...⟧ *del. in ms.*
-- *l. 6* : **6 Cap. W.** *scil.* Capitaine Williams. **6 Cap.** *abbr. pro* Capitaine.
-- *l. 11* : **11 1/2** *scil.* demi / moitié.
-- *l. 17* : **17 Town Major** *angl. in ms.*
-- *l. 18* : **18 1er** *scil.* premier.
-- *l. 19* : **19 as.** *abbr. pro* assez.
-- *l. 20* : **20 gds** *abbr. pro* grands.
+- *l. 1* : **1** **Merc.** *mercredi*.
+- *l. 2* : **2** **office** *angl.* Bureau, anglais.
+- *l. 3* : **3** **Mme** *Madame*.
+- *l. 4* : **4** **Cap. Williams** *capitaine Williams*.
+- *l. 5* : **5** **⟦...⟧** Groupe annulé par un épais passage de plume avant Hérissart ; lecture sous la biffure non établie.
+- *l. 6* : **6** **Cap. W.** *capitaine Williams ; W. reprend le nom écrit l. 4*.
+- *l. 17* : **17** **Town Major** *angl.* Officier commandant la place ou le cantonnement, dans l’armée britannique.
+- *l. 19* : **19** **as.** *assez*.
+- *l. 20* : **20** **gds** *grands*.
 
 * * *
 
-**l.~4 :** Après Williams, une petite séparation précède « quitté Acheux » ; aucun auxiliaire a distinct n’est écrit. La syntaxe elliptique est conservée. **l.~5 :** Groupe biffé d’un trait épais avant « Hérissart », non restitué. **l.~12--13 :** Le « serrement de cœur » à quitter Acheux et la maison est explicitement noté.
+l. 4 : une séparation précède « quitté Acheux », sans auxiliaire a distinct ; cette ellipse est conservée. l. 5 : groupe annulé par un épais passage de plume entre pour et Hérissart ; aucun texte antérieur assuré n’est proposé. l. 6 : W. reprend Williams, nommé l. 4 ; une seule note développe l’ensemble Cap. W., sans répéter Cap. l. 17 : Town Major est le titre britannique de l’officier chargé de la place ou du cantonnement. l. 12–13 : le « serrement de cœur » est explicitement écrit, sans qu’il soit nécessaire d’ajouter une interprétation affective à l’appareil de lecture.
 
 > **l.~2--21 :** Mme Delille annonce le départ de Williams ; un mot du capitaine l’attend à la Mission. Adieux aux Carluvant, parcours par Raincheval et Puchevillers, puis chambre 7 b au premier étage du café Charlet, avec vue sur place et église. Le texte ne nomme pas cette église et ne décrit pas un ordre administratif de transfert du bureau.
 
@@ -6982,6 +7539,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Lieu** : Hérissart (Somme)
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
 
 ```text
  1 | Merc. 7 (fin)          Février 1917
@@ -7005,20 +7564,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | Tout le jour, liberté entière —
 ```
 
-- *l. 1* : **1 Merc.** *scil.* Mercredi.
-- *l. 2* : **2 mess** *angl. in ms.*
-- *l. 6* : **6 extrt** *abbr. pro* extrêmement.
-- *l. 7* : **7** *in marg. cum unco* (comptes). **7 f.** *abbr. pro* franc(s).
-- *l. 8* : **8 Y.M.C.A.** *angl.* Young Men's Christian Assoc.. **8 f.** *abbr. pro* franc(s).
-- *l. 9* : **9 f.** *abbr. pro* franc(s).
-- *l. 10* : **10 Gift** *angl. in ms.*
-- *l. 11* : **11 f.** *abbr. pro* franc(s). **11 lunch / room** *angl. in ms.* « et room » ajouté sous « mon lunch ».
-- *l. 17* : **17 mess** *angl. in ms.*
-- *l. 18* : **18 breakfast** *angl. in ms.*
+- *l. 1* : **1** **Merc.** *mercredi*.
+- *l. 2* : **2** **mess** *angl.* Salle commune et service des repas des officiers, anglais.
+- *l. 6* : **6** **extrt** *extrêmement*.
+- *l. 7* : **7** **[ Dîner** Grand crochet autographe à gauche du bloc de comptes ; les comptes occupent le milieu de la page sous le récit du mercredi.
+- *l. 8* : **8** **Y.M.C.A.** *Young Men’s Christian Association : association chrétienne de jeunes hommes*.
+- *l. 9* : **9** **fr.** *française, accordée avec Mission*.
+- *l. 10* : **10** **Gift** *angl.* Don ou gratification, anglais.
+- *l. 11* : **11** **lunch** *angl.* Repas de midi, anglais ; **room** *angl.* Chambre, anglais ; **et room** Ajout sous mon lunch, rattachant au paiement de 5 francs le repas et la chambre.
+- *l. 12* : **12** **Jeudi 8.** Nouvelle entrée de journal, séparée des comptes précédents par un long trait horizontal.
+- *l. 17* : **17** **office** *angl.* Bureau, anglais ; **mess** *angl.* Salle commune et service des repas des officiers, anglais.
+- *l. 18* : **18** **breakfast** *angl.* Petit déjeuner, anglais.
 
 * * *
 
-**l.~7--11 :** Grand crochet comptable ; « et room » est ajouté sous « mon lunch ». La solde portée est 78 f 75. Aucun calcul décomposant cette somme n’est écrit. **l.~11--12 :** Trait séparateur entre les deux dates.
+l. 7–11 : bloc de comptes réuni par un grand crochet autographe à gauche, au milieu de la page. « et room » est ajouté sous « mon lunch » : le paiement de 5 francs concerne le repas et la chambre. La solde portée est 78 f 75 ; aucune décomposition de la somme n’est écrite. l. 11–12 : long trait horizontal séparant les comptes du mercredi et l’entrée Jeudi 8. Les termes anglais mess, Gift, lunch, room, office et breakfast sont traduits en marge ; les unités monétaires usuelles relèvent des conventions.
 
 > **l.~2--18 :** Bureau et mess au 104 ; les comptes portent solde de 78 f 75 et cadeau de 5 f aux Carluvant pour mon lunch, avec et room ajouté au-dessous. Le 19 février, la propriétaire du 104 sera dite malade au Scan 157 ; cette page ne fixe pas la date d’un futur emménagement ni la composition de la solde.
 
@@ -7031,6 +7591,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Durée de marche : chiffres et unité difficiles ; 45 m ou 2 h non départagés..
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
+- **Réserves de l'apparat** : C; h; i; f; f; r; e;  ; o; u;  ; f; r; a; c; t; i; o; n;  ; d; e;  ; l; a;  ; d; u; r; é; e;  ; l; .;  ; 1; 0; ..
 
 ```text
  1 | Jeudi 8 (suite)          Février 1917
@@ -7054,16 +7617,15 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | pour pouvoir écrire chambre.
 ```
 
-- *l. 2* : **2 mervt** *abbr. pro* merveilleusement.
-- *l. 3* : **3 j'à** *abbr. pro* jusqu'à. **3 gde** *abbr. pro* grande.
-- *l. 10* : **10** *lect. incert. in ms.*
-- *l. 11* : **11 ds** *abbr. pro* dans. **11 tt** *abbr. pro* tout.
-- *l. 14* : **14 s.** *abbr. pro* soir.
-- *l. 15* : **15 Ven.** *scil.* Vendredi. **15 excessvt** *abbr. pro* excessivement.
+- *l. 2* : **2** **mervt** *merveilleusement*.
+- *l. 3* : **3** **j'à** *jusqu’à* ; **gde** *grande*.
+- *l. 10* : **10** **[durée incertaine]** Notation de durée avant de marche ; chiffre et fraction éventuelle insuffisamment distincts pour une restitution assurée.
+- *l. 11* : **11** **ds** *dans* ; **tt** *tout*.
+- *l. 15* : **15** **Ven.** *vendredi* ; **excessvt** *excessivement* ; **Ven. 9** Nouvelle entrée, sous un trait horizontal autographe séparant les deux journées.
 
 * * *
 
-**l.~3 j’à gde profondeur :** Abréviation de « jusqu’à grande profondeur », non de « j’ai gelé ». **l.~10 :** Durée mal assurée, laissée non établie. **l.~18--19 :** Le froid empêche d’écrire dans la chambre. Le lieu exact de rédaction de cette page n’est pas indiqué.
+l. 3 : j’à gde développe jusqu’à grande, dans l’indication de profondeur du gel. l. 10 : la notation de durée précédant « de marche » reste non établie ; l’appareil ne la développe pas en une durée certaine. l. 15 : un trait horizontal sépare les entrées du jeudi et du vendredi. l. 18–19 : le froid empêche d’écrire dans la chambre ; le lieu de rédaction de cette page n’est pas précisé.
 
 > **l.~4--19 :** Promenade à Rubempré et description de vallonnements et moulins, puis rangement de la chambre. Le froid empêche d’y écrire le lendemain. La durée de marche est réservée ; première reconnaissance et caractère crayeux des reliefs sont des précisions extérieures au texte.
 
@@ -7076,6 +7638,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Patronyme Croughton : préférence visuelle, identité civile non établie.; Nom ou qualité après génal : Volké[?], non établi..
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
+- **Réserves de l'apparat** : G; r; a; p; h; i; e;  ; e; x; a; c; t; e;  ; d; e;  ; l; a;  ; t; e; r; m; i; n; a; i; s; o; n;  ; s; u; s; c; r; i; t; e;  ; d; e;  ; L; i; g; n; e; s;  ; ;;  ; n; o; m;  ; d; u;  ; g; é; n; é; r; a; l;  ; l; .;  ; 2; 0; ..
 
 ```text
  1 | — Vendredi 9 (suite) —          Février 1917
@@ -7101,17 +7666,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | Village, rempli de troupes anglaises.
 ```
 
-- *l. 2* : **2 ds** *abbr. pro* dans. **2 Lieutt** *abbr. pro* Lieutenant.
-- *l. 6* : **6 lorry** *angl. in ms.*
-- *l. 8* : **8 ds** *abbr. pro* dans. **8 Cap. W.** *scil.* Capitaine Williams.
-- *l. 10* : **10 Sam.** *scil.* Samedi.
-- *l. 12* : **12 M.T.** *angl.* Motor Transport.
-- *l. 16* : **16 breakfast** *angl. in ms.*
-- *l. 20* : **20** *lect. incert. in ms.*
+- *l. 2* : **2** **ds** *dans* ; **Lieutt** *lieutenant*.
+- *l. 3* : **3** **fr.** *française, accordée avec Mission*.
+- *l. 6* : **6** **lorry** *angl.* Camion, anglais.
+- *l. 8* : **8** **Cap. W.** *capitaine Williams* ; **ds** *dans*.
+- *l. 10* : **10** **Sam.** *samedi* ; **Sam. 10.** Nouvelle entrée de journal, titre souligné et séparé du récit précédent par un espace.
+- *l. 12* : **12** **Lignes** *Lignes : développement déjà adopté dans le texte ; le manuscrit porte L suivi d’une courte terminaison suscrite* ; **M.T.** *Motor Transport : transport automobile, sigle militaire britannique*.
+- *l. 13* : **13** **at the end of the road** *angl.* Au bout de la route, anglais.
+- *l. 16* : **16** **breakfast** *angl.* Petit déjeuner, anglais.
+- *l. 20* : **20** **génal** *général* ; **[Volké ?]** Nom après génal de lecture incertaine ; Volké est une proposition graphique, sans identification certaine.
 
 * * *
 
-**l.~12--13 M.T. :** Abréviation de *Motor Transport*, appellation de l’A.S.C. attestée notamment par le *Supplement to the London Gazette*, 9 mars 1917, p.~2447. « at the end of the road » est écrit en anglais. **l.~7 :** Il écrit dans la salle du café de sa maison ; le poêle n’est pas mentionné. **l.~20 :** Nom ou qualité après « génal » non établi.
+l. 7 : la phrase elliptique « Écrit salle café maison où chambre » est conservée ; elle ne contient pas de référence à un poêle. l. 12 : le manuscrit abrège Lignes par L et une courte terminaison suscrite, déjà développée dans la transcription ; M.T. vaut Motor Transport, « transport automobile ». l. 13 : courte proposition entièrement en anglais, « au bout de la route ». l. 20 : génal est une contraction de général ; le nom qui suit reste réservé. Le rapprochement militaire évoqué dans le commentaire historique ne constitue pas une preuve de lecture du nom.
 
 > **l.~2--21 :** Croughton[?] a déjà une occurrence à Authie au Scan 109 ; la comparaison est nominative, non une identification civile. Combes apprend à Toutencourt qu’il sera administré par l’armée et payé les 3 et 18. Les paiements des Scans 156, 162 et 170 fournissent des rapprochements internes. Le niveau administratif antérieur et le numéro de parc automobile ne sont pas précisés.
 
@@ -7124,6 +7691,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Patronyme de Casteljau ; la fonction exacte de cet officier n’est pas donnée..
+
+- **Apparat révisé intégralement sur l'image** : 19 entrées contrôlées.
 
 ```text
  1 | Sam. 10 (suite)          Février 1917
@@ -7149,22 +7718,23 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | le dégel, et fin de l'hiver.
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 4* : **4 Lt** *abbr. pro* Lieutenant. **4 Lunché** *angl. in ms.*
-- *l. 5* : **5 qq** *abbr. pro* quelque(s). **5 cantonnemt** *abbr. pro* cantonnement.
-- *l. 6* : **6 ts** *abbr. pro* tous.
-- *l. 9* : **9 ds** *abbr. pro* dans.
-- *l. 10* : **10 refilling point** *angl. in ms.*
-- *l. 11* : **11 Cap.** *abbr. pro* Capitaine.
-- *l. 12* : **12 1/2** *scil.* demi / moitié.
-- *l. 13* : **13 Cap.** *abbr. pro* Capitaine.
-- *l. 17* : **17 Dim.** *scil.* Dimanche.
-- *l. 18* : **18 extrt** *abbr. pro* extrêmement.
-- *l. 19* : **19 Ds** *abbr. pro* Dans. **19 1/2 du jour** Milieu du jour, dans ce contexte ; ne pas développer isolément en demi-journée.
+- *l. 1* : **1** **Sam.** *samedi*.
+- *l. 3* : **3** **Cy** *Company : compagnie, anglais*.
+- *l. 4* : **4** **Lunché** *hybr.* Pris le repas de midi ; verbe français formé sur l’anglais lunch ; **mess** *angl.* Salle commune et service des repas des officiers, anglais ; **Lt** *lieutenant*.
+- *l. 5* : **5** **cantonnemt** *cantonnement* ; **qq** *quelques* ; **N.C.O's** *Non-Commissioned Officers : sous-officiers, anglais* ; **men** *angl.* Soldats, hommes de troupe, anglais.
+- *l. 6* : **6** **ts** *tous*.
+- *l. 9* : **9** **ds** *dans*.
+- *l. 10* : **10** **refilling point** *angl.* Point de réapprovisionnement ou de ravitaillement, anglais.
+- *l. 11* : **11** **Cap.** *capitaine*.
+- *l. 12* : **12** **miss. fr.** *mission française*.
+- *l. 13* : **13** **Cap.** *capitaine*.
+- *l. 17* : **17** **Dim.** *dimanche*.
+- *l. 18* : **18** **extrt** *extrêmement*.
+- *l. 19* : **19** **Ds** *Dans* ; **1/2 du jour** Milieu du jour, dans ce contexte ; cette fraction graphique ne désigne pas ici une durée d’une demi-journée.
 
 * * *
 
-**l.~3--10 :** Abréviations et expressions anglaises conservées : Cy (Company), N.C.O’s & men (sous-officiers et soldats), refilling point (point de ravitaillement). La fréquence du ravitaillement et les unités desservies ne sont pas précisées ici. **l.~19 :** « Ds le 1/2 du jour » renvoie au milieu de la journée dans la description du réchauffement.
+l. 3–5 : les formes militaires anglaises Cy et N.C.O’s sont développées Company, « compagnie », et Non-Commissioned Officers, « sous-officiers » ; men désigne les hommes de troupe. Lunché est une formation verbale française sur lunch. l. 10 : refilling point désigne un point de réapprovisionnement, sans précision sur les unités desservies. l. 12 : miss. fr. abrège mission française. l. 19 : 1/2 du jour signifie ici le milieu de la journée, à distinguer d’une durée d’une demi-journée. L’entrée Dim. 11 est placée après un espace et un tiret initial.
 
 > **l.~2--14 :** L’ancienne Cy d’Aveluy, Bradfield, Lovet, le refilling point et la Mission du 2e Corps à Senlis sont nommés. Le Scan 066 donne 152 Coy A.S.C., mais le rapprochement avec cette ancienne compagnie ne doit pas remplacer la formule autographe. Portée des canons, fonction de Casteljau et secteur opérationnel du corps ne sont pas indiqués.
 
@@ -7177,6 +7747,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Patronyme Romert.; Le millésime du rhum ne prouve ni provenance ni date d’acquisition..
+
+- **Apparat révisé intégralement sur l'image** : 3 entrées contrôlées.
+- **Réserves de l'apparat** : O; r; i; g; i; n; e;  ; d; e; s;  ; i; n; f; o; r; m; a; t; i; o; n; s;  ; s; u; r;  ; l; e;  ; p; a; t; r; i; m; o; i; n; e;  ; d; e;  ; M; .;  ; R; o; m; e; r; t;  ; n; o; n;  ; i; n; d; i; q; u; é; e; ..
 
 ```text
  1 | Dim. 11 —          — Février 1917 —
@@ -7201,15 +7774,13 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 20 | Chocolat : 60 c. — Biscuits Petit Beurre : 50 c. ]
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 8* : **8 s.** *abbr. pro* soir.
-- *l. 18* : **18** *in marg. cum unco* (comptes). **18 f.** *abbr. pro* franc(s).
-- *l. 19* : **19 Cartes ples** *abbr. pro* Cartes postales. **19 c.** *abbr. pro* centimes.
-- *l. 20* : **20 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Dim.** *dimanche*.
+- *l. 18* : **18** **[ Doullens** Bloc de dépenses au bas de la page, réuni par un grand crochet autographe à gauche ; le côté droit reste ouvert.
+- *l. 19* : **19** **ples** *postales, accordé avec Cartes*.
 
 * * *
 
-**l.~9--12 :** Le célibat, les trois générations et la fortune destinée à des étrangers sont des propos notés par Combes ; leur origine (information reçue, supposition ou jugement personnel) n’est pas explicitée. **l.~18--20 :** Encadré de dépenses : papeterie, cartes postales, chocolat et biscuits Petit Beurre.
+l. 10 : (1870) est une parenthèse autographe attachée au rhum ; cette date ne désigne pas celle de la visite. l. 9–12 : les propos sur le célibat, les trois générations et la destination de la fortune sont notés sans indication de leur source. l. 18–20 : bloc de comptes au bas de la page, dans un crochet autographe ouvert à droite ; Doullens est souligné. Le mot ples développe postales. Aucun compte en marge latérale n’est présent.
 
 > **l.~3--13 :** Tournée à Toutencourt, Doullens et Auxi-le-Château ; M. Romert offre rhum 1870 et kirsch Forêt-Noire. Le Scan 124 mentionne une précédente visite à Auxi, chez M. Renard : cette coïncidence de lieu ne démontre pas l’identité des deux noms. Le statut de propriétaire terrien et l’origine du rhum restent inconnus.
 
@@ -7223,6 +7794,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : La date de l’incident antérieur de Morlancourt doit être collationnée dans sa pièce, sans choix par calendrier..
 
+- **Apparat révisé intégralement sur l'image** : 6 entrées contrôlées.
+
 ```text
  1 | Lundi 12 —          Février 1917
  2 | Gelé nuit, mais bcp moins fort
@@ -7233,7 +7806,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
  7 | Repassé avec plaisir ds région qui m'est si familière
  8 | et ces villages où vécu heures bien vides & tristes.
  9 | Ciel mort. Des champs couverts de neige, s'élevait
-10 | buée grise.
+10 | une buée grise.
 11 | En approchant de Hérissart, vu nombreux
 12 | moulins à vent, détachant leurs ailes squelettiques
 13 | sur ciel gris.
@@ -7244,19 +7817,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | des toits.
 19 | Parcouru 1 peu village d'Hérissart. Semble
 20 | inhabité. Rues en pente. Silence funèbre.
-21 | [ 5 vues d'Amiens, cathédrale, achetées pour moi :
+21 | [ 5 vues d'Amiens, cathle, achetées pour moi :
 22 | 2 f. 50 ]
 ```
 
-- *l. 2* : **2 bcp** *abbr. pro* beaucoup.
-- *l. 7* : **7 ds** *abbr. pro* dans.
-- *l. 16* : **16 ds** *abbr. pro* dans.
-- *l. 21* : **21** *in marg. cum unco* (comptes).
-- *l. 22* : **22 f.** *abbr. pro* franc(s).
+- *l. 2* : **2** **bcp** *beaucoup*.
+- *l. 7* : **7** **ds** *dans*.
+- *l. 10* : **10** **une** Petit ajout sous la ligne précédente, à lire avant buée grise ; le mot manquait dans la transcription.
+- *l. 16* : **16** **ds** *dans*.
+- *l. 21* : **21** **[ 5 vues** Compte placé au pied de la page, précédé d’une équerre ou amorce de crochet autographe à gauche ; **cathle** *cathédrale*.
 
 * * *
 
-**l.~6--8 :** Combes reconnaît une région familière et des villages où il a vécu. La date d’un incident de Morlancourt relève d’une pièce antérieure ; la lecture « 24 mars 1916 » ne doit pas être affirmée ici sans sa collation. **l.~11--13 :** L’image des ailes squelettiques est autographe.
+l. 9–10 : une, ajouté en petit sous la ligne précédente, est rétabli avant « buée grise ». l. 21 : cathle est la forme abrégée autographe de cathédrale ; la transcription précédente l’avait développée sans le signaler. l. 21–22 : compte au pied de la page, précédé à gauche d’une équerre ; il ne s’agit pas d’une marge latérale. l. 6–8 : la familiarité des lieux et les heures vides et tristes sont écrites ; une date d’incident antérieur ne peut être déduite de cette seule page. l. 11–13 : la comparaison des ailes des moulins avec des squelettes appartient au texte.
 
 > **l.~4--22 :** Méaulte, Ville, Treux, Méricourt et Ribemont jalonnent la tournée ; Combes reconnaît des villages familiers et des heures vécues. Les lettres de 1916 documentent séparément un service dans cette région, sans établir un séjour continu dans chacun de ces villages. La minoterie est visitée, sans affectation militaire désignée ; cinq vues de la cathédrale d’Amiens sont achetées.
 
@@ -7269,6 +7842,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Toponyme après Authie à la ligne 16, lu Gouin avec réserve..
+
+- **Apparat révisé intégralement sur l'image** : 7 entrées contrôlées.
+- **Réserves de l'apparat** : L; e; c; t; u; r; e;  ; e; t;  ; l; o; c; a; l; i; s; a; t; i; o; n;  ; d; u;  ; g; r; o; u; p; e;  ; G; o; u; i; n;  ; l; .;  ; 1; 6; ..
 
 ```text
  1 | Mardi 13 —          Février 1917
@@ -7295,16 +7871,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | Obscurité presque complète. Froid de nouveau très vif.
 ```
 
-- *l. 9* : **9 extrt** *abbr. pro* extrêmement.
-- *l. 10* : **10 Merc.** *scil.* Mercredi.
-- *l. 15* : **15 breakfast** *angl. in ms.*
-- *l. 16* : **16 Gouin** *lect. incert. in ms.*
-- *l. 19* : **19 s.** *abbr. pro* soir. **19 tea** *angl. in ms.*
-- *l. 21* : **21 mervt** *abbr. pro* merveilleusement.
+- *l. 6* : **6** **P.** *Puchevillers, toponyme écrit à la ligne précédente*.
+- *l. 9* : **9** **extrt** *extrêmement*.
+- *l. 10* : **10** **Merc.** *mercredi*.
+- *l. 15* : **15** **breakfast** *angl.* Petit déjeuner, anglais.
+- *l. 16* : **16** **Gouin[?]** Toponyme ou nom de lieu de lecture incertaine ; aucun développement ni identification géographique assuré.
+- *l. 19* : **19** **tea** *angl.* Thé ou repas léger pris à l’heure du thé, anglais.
+- *l. 21* : **21** **mervt** *merveilleusement*.
 
 * * *
 
-**l.~11--12 :** Arabesques de glace sur les vitres ; rapprochement interne avec les « dessins de glace » du Scan #155. **l.~17 :** « prix exorbitants » est placé entre parenthèses. L’établissement, la clientèle et le contexte économique ne sont pas décrits.
+l. 6 : P. reprend Puchevillers de l. 5. l. 10 : l’entrée du mercredi est séparée de la précédente par un espace ; son titre est souligné. l. 11–12 : arabesques de glace sur les vitres, à rapprocher des dessins de glace de la vue 155. l. 16 : Gouin demeure une lecture réservée ; l’appareil ne transforme pas ce groupe en toponyme identifié. l. 17 : « prix exorbitants » est entre parenthèses autographes. l. 19 : tea est un emprunt anglais désignant le thé ou la collation correspondante.
 
 > **l.~5--20 :** Courses à Authie, Puchevillers, Gouin[?], Acheux et Toutencourt ; repas au café de l’Hôtel de Ville et rendez-vous avec M. Lefèvre. Le texte ne qualifie pas ce rendez-vous de service et n’identifie pas davantage Lefèvre. Le toponyme réservé n’est pas développé par itinéraire.
 
@@ -7317,6 +7894,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Roulé[?] ou Rôdé : groupe médian et initiale remaniés.; Commune de Beaucourt non identifiée..
+
+- **Apparat révisé intégralement sur l'image** : 6 entrées contrôlées.
+- **Réserves de l'apparat** : V; e; r; b; e;  ; l; .;  ; 1; 7;  ; :;  ; R; o; u; l; é;  ; o; u;  ; R; ô; d; é; ..
 
 ```text
  1 | Jeudi 15 —          Février 1917 —
@@ -7342,15 +7922,15 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | Après-midi, liberté entière.
 ```
 
-- *l. 3* : **3 Ds** *abbr. pro* Dans.
-- *l. 10* : **10 extrt** *abbr. pro* extrêmement. **10 mervt** *abbr. pro* merveilleusement.
-- *l. 15* : **15 ds** *abbr. pro* dans.
-- *l. 18* : **18 ds** *abbr. pro* dans.
-- *l. 17* : **17 [Roulé ?]** Lecture réservée ; Rôdé reste possible.
+- *l. 3* : **3** **Ds** *Dans*.
+- *l. 10* : **10** **extrt** *extrêmement* ; **mervt** *merveilleusement*.
+- *l. 15* : **15** **ds** *dans*.
+- *l. 17* : **17** **[Roulé ?]** Lecture réservée du verbe : l’initiale et le groupe médian sont remaniés ; Rôdé reste une possibilité.
+- *l. 18* : **18** **ds** *dans*.
 
 * * *
 
-**l.~8 grand costume :** Expression autographe à conserver. La description détaillée de la vareuse, des bottes et des éperons vient d’une autre source iconographique et ne décrit pas nécessairement la tenue de ce jour. **l.~17 :** Initiale remaniée et groupe médian peu distinct ; la lecture Roulé est retenue sous réserve, sans éliminer Rôdé.
+l. 8 : grand costume est une expression écrite en toutes lettres, non une abréviation ; elle ne permet pas de restituer les pièces de tenue de ce jour. l. 13 : entrée du vendredi, titre souligné et séparé de la précédente par un espace. l. 17 : initiale repassée et groupe médian peu distinct ; Roulé est retenu sous réserve, sans éliminer Rôdé. L’appareil n’attribue aucun texte antérieur précis aux reprises de plume.
 
 > **l.~4--19 :** Visite au maire en grand costume, puis recherche de paille et foin dans les fermes et au château de Beaucourt. Beaucourt-sur-l’Hallue est une possibilité renforcée par les vues sur Beaucourt et Montigny au Scan 183 ; la commune reste à établir par une pièce locale. La proximité ou la destruction d’un autre Beaucourt ne suffisent pas à rendre la lecture certaine.
 
@@ -7363,6 +7943,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Motif de la demande relative aux Anglais à Toulouse non donné..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
 
 ```text
  1 | Sam. 17 —          Février 1917
@@ -7392,19 +7974,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | solde : 68 f. 25 c. ]
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 5* : **5 correspce** *abbr. pro* correspondance.
-- *l. 9* : **9 Dim.** *scil.* Dimanche.
-- *l. 13* : **13 ds** *abbr. pro* dans.
-- *l. 14* : **14 ds** *abbr. pro* dans.
-- *l. 22* : **22 lorry** *angl. in ms.*
-- *l. 23* : **23 tt** *abbr. pro* tout.
-- *l. 24* : **24** *in marg. cum unco* (comptes).
-- *l. 25* : **25 f.** *abbr. pro* franc(s). **25 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Sam.** *samedi*.
+- *l. 5* : **5** **correspce** *correspondance*.
+- *l. 9* : **9** **Dim.** *dimanche*.
+- *l. 13* : **13** **ds** *dans*.
+- *l. 14* : **14** **Tempér.** *température* ; **ds** *dans*.
+- *l. 17* : **17** **fr.** *française, accordée avec Mission* ; **Vth** *cinquième ; chiffre romain V suivi d’une terminaison ordinale empruntée à l’anglais*.
+- *l. 22* : **22** **lorry** *angl.* Camion, anglais.
+- *l. 23* : **23** **tt** *tout*.
+- *l. 24* : **24** **[ A Toutencourt,** Compte écrit au bas à droite, après santé morale, réuni par des crochets autographes.
 
 * * *
 
-**l.~5 correspce :** Abréviation par contraction de correspondance. **l.~14--15 :** Il peut enfin rester dans sa chambre, quoique sans feu, après le dégel. Le mot enfin est autographe, sans qu’il soit nécessaire de lui attribuer une première fois absolue. **l.~24--25 :** Solde de 68 f 25 portée le 18 du mois ; rapprochement avec la règle notée au Scan #150.
+l. 5 : correspce contracte correspondance. l. 14 : Tempér. développe température ; enfin est écrit en toutes lettres et ne permet pas à lui seul d’affirmer une première fois absolue. l. 17 : fr. et Vth abrègent française et cinquième ; la terminaison anglaise de l’ordinal se combine avec le nom français Armée. l. 24–25 : la solde de 68 f 25 est portée dans un compte entre crochets autographes, au bas à droite, après le récit du 18. Ce montant peut être rapproché de la périodicité indiquée à la vue 150, sans en déduire un calcul absent.
 
 > **l.~17--25 :** Mission française de la Vth Armée à Toutencourt, demande sur le cantonnement d’Anglais à Toulouse, prône et solde 68 f 25 le 18. La décomposition en 13 jours à 5 f 25 est arithmétiquement possible mais n’est pas écrite ni fondée sur un tarif contrôlé. L’église est celle du village ; sa dédicace n’est pas donnée.
 
@@ -7417,6 +7999,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : État exact de la logeuse : malade, sans diagnostic..
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
 
 ```text
  1 | 19 Lundi — (En caisse : 225 f. 95)          Février 1917
@@ -7447,19 +8031,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 26 | et pour service chambre : en tout : 2 f. ]
 ```
 
-- *l. 1* : **1 f.** *abbr. pro* franc(s).
-- *l. 8* : **8 Cap.** *abbr. pro* Capitaine. **8 billets** *angl. in ms.*
-- *l. 10* : **10 Cap.** *abbr. pro* Capitaine.
-- *l. 13* : **13 1/2** *scil.* demi / moitié.
-- *l. 14* : **14 M.O.** *angl.* Medical Officer.
-- *l. 15* : **15** *in marg. cum unco* (comptes). **15 c.** *abbr. pro* centimes.
-- *l. 22* : **22 abst** *abbr. pro* absolument.
-- *l. 25* : **25** *in marg. cum unco* (comptes). **25 f.** *abbr. pro* franc(s).
-- *l. 26* : **26 f.** *abbr. pro* franc(s).
+- *l. 8* : **8** **Cap.** *capitaine* ; **billets** *angl.* Cantonnements ou logements militaires, dans l’usage britannique.
+- *l. 10* : **10** **Cap.** *capitaine*.
+- *l. 11* : **11** **office** *angl.* Bureau, anglais.
+- *l. 12* : **12** **floor** *angl.* Sol ou plancher, anglais ; ici le sol de briques.
+- *l. 13* : **13** **prop.re** *propriétaire ; il s’agit de la propriétaire du n° 104, reprise par elle l. 14*.
+- *l. 14* : **14** **M.O.** *Medical Officer : médecin militaire, anglais*.
+- *l. 15* : **15** **[ 1 hair cut : net : 30 c. ]** Petit compte placé à droite du titre 20 Mardi, précédé d’un crochet autographe ouvert vers la droite ; **hair cut** *angl.* Coupe de cheveux, anglais.
+- *l. 20* : **20** **office** *angl.* Bureau, anglais.
+- *l. 22* : **22** **abst** *absolument*.
+- *l. 25* : **25** **[ A Albertine** Compte au pied de la page, précédé d’un crochet autographe à gauche.
 
 * * *
 
-**l.~1 (En caisse : 225 f. 95) :** Pointage d'encaisse inséré directement dans l'en-tête après l'encaissement de la solde de la veille. **l.~12 briques du floor :** Hybridation franco-anglaise spontanée (*floor* pour « carrelage / sol »). **l.~14 M.O. :** Sigle militaire anglais pour *Medical Officer* (médecin militaire britannique).
+l. 1 : pointage d’encaisse entre parenthèses dans l’en-tête ; le rapport comptable exact avec la solde de la veille n’est pas calculé sur cette page. l. 12 : « briques du floor » associe le français et le mot anglais floor, sol. l. 13 : prop.re désigne la propriétaire du n° 104, comme le confirme le pronom elle l. 14 ; il ne faut pas développer propre. l. 14 : M.O. est le sigle anglais du médecin militaire. l. 15 : compte de coiffure à droite du titre du mardi, dans un crochet ouvert vers la droite ; hair cut est traduit coupe de cheveux, net restant le terme comptable français. l. 25–26 : autre compte au pied de la page, précédé d’un crochet à gauche.
 
 > **l.~7--26 :** Leonard annonce de nouveaux arrangements pour les billets ; Combes change de chambre, puis va chercher curé et M.O. pour la propriétaire malade du 104. L’écriture des comptes du 20 ne prouve pas qu’Albertine soit la domestique du logement quitté ou que les 2 f aient été réglés au moment du déménagement. Aucun diagnostic n’est indiqué.
 
@@ -7472,6 +8057,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Quantité des semelles non indiquée par une lecture assurée ; 1 pr retiré.; Le lien de l’achat avec l’humidité du logement n’est pas exprimé..
+
+- **Apparat révisé intégralement sur l'image** : 14 entrées contrôlées.
+- **Réserves de l'apparat** : D; é; v; e; l; o; p; p; e; m; e; n; t;  ; d; ’; e; x; t; r; a; .;  ; c; o; n; t; e; x; t; u; e; l; ,;  ; a; u; c; u; n; e;  ; f; o; r; m; e;  ; l; o; n; g; u; e;  ; é; c; r; i; t; e; ..
 
 ```text
  1 | 21 Merc. —          Février 1917
@@ -7503,18 +8091,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 27 | rangé paquets —
 ```
 
-- *l. 1* : **1 Merc.** *scil.* Mercredi.
-- *l. 6* : **6 as.** *abbr. pro* assez.
-- *l. 8* : **8 1/2** *scil.* demi / moitié. **8 lunch** *angl. in ms.*
-- *l. 9* : **9 abomles** *abbr. pro* abominables.
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 Mme** *abbr. pro* Madame.
-- *l. 13* : **13 f.** *abbr. pro* franc(s).
-- *l. 14* : **14 f.** *abbr. pro* franc(s). Le groupe «1pr» de l’ancienne transcription n’est pas visible.
-- *l. 20* : **20 tt** *abbr. pro* tout.
+- *l. 1* : **1** **Merc.** *mercredi*.
+- *l. 6* : **6** **as.** *assez*.
+- *l. 8* : **8** **lunch** *angl.* Repas de midi, anglais.
+- *l. 9* : **9** **abomles** *abominables*.
+- *l. 11* : **11** **[ A Doullens** Bloc comptable au milieu de la page, sous le récit du matin, réuni par un crochet autographe à gauche ; **Mme** *Madame*.
+- *l. 14* : **14** **de semelles liège** La ligne commence bien par de ; aucune quantité ni paire n’est lisible à gauche.
+- *l. 17* : **17** **extra.** *extraordinaire, accordé avec monotonie ; valeur contextuelle de cette forme abrégée*.
+- *l. 20* : **20** **tt** *tout* ; **office** *angl.* Bureau, anglais.
+- *l. 21* : **21** **proprios** *propriétaires ; forme familière tronquée, au pluriel* ; **etc.** *et cetera : et le reste*.
+- *l. 22* : **22** **=** même, dans encore le même temps.
+- *l. 26* : **26** **office** *angl.* Bureau, anglais.
 
 * * *
 
-**l.~7 :** Lecture rendent, à attaque re et sans descendante de g ; l’ancienne lecture gâtent est retirée. **l.~9 abomles :** Abréviation de abominables. **l.~14 :** La ligne visible commence « de semelles liège » ; l’espace à gauche ne porte pas le «1 pr» fourni par l’édition antérieure. La quantité n’est donc pas suppléée. Le motif de l’achat n’est pas indiqué. **l.~22 = :** Signe utilisé pour même.
+l. 7 : rendent est confirmé ; l’ancien gâtent n’est pas retenu. l. 9 : abomles développe abominables. l. 11–14 : bloc de comptes réuni par un grand crochet à gauche ; l. 14 commence « de semelles liège », sans le 1 pr ajouté par une transcription antérieure. L’appareil ne supplée aucune quantité. l. 17 : extra. est interprété extraordinaire, accordé avec monotonie. l. 20–21 : tt signifie tout, office bureau, proprios propriétaires. l. 22 : = remplace même. Des traits horizontaux séparent les entrées du 22 et du 23 ; les crochets des comptes sont réellement autographes.
 
 > **l.~11--12 :** Mandat de 42 f pour Mme Spagnol à Nice. Le télégramme du Scan 136 et les démarches relatives au panier de fleurs aux Scans 134/137 permettent un rapprochement, sans facture établissant l’objet exact du règlement. L’identification ancienne à la tante Thérèse est retirée ; celle-ci est associée aux Layral au Scan 142.
 
@@ -7527,6 +8118,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Titre et provenance du roman non donnés..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
+- **Réserves de l'apparat** : I; d; e; n; t; i; f; i; c; a; t; i; o; n;  ; d; u;  ; r; o; m; a; n;  ; a; n; g; l; a; i; s;  ; n; o; n;  ; é; t; a; b; l; i; e; ..
 
 ```text
  1 | 24 Samedi —          Fév. 1917
@@ -7556,21 +8150,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | pleine lune.
 ```
 
-- *l. 3* : **3 s/** *abbr. pro* sur.
-- *l. 6* : **6 Dim.** *scil.* Dimanche.
-- *l. 9* : **9 qq** *abbr. pro* quelque(s).
-- *l. 10* : **10 1ère** *scil.* première.
-- *l. 11* : **11 lunch** *angl. in ms.*
-- *l. 15* : **15 ns** *abbr. pro* nous. **15 absolt** *abbr. pro* absolument.
-- *l. 17* : **17 L.** *scil.* Lundi. **17 Cap. W.** *scil.* Capitaine Williams.
-- *l. 19* : **19 s.** *abbr. pro* soir.
-- *l. 20* : **20 1/2** *scil.* demi / moitié.
-- *l. 21* : **21 bcp** *abbr. pro* beaucoup. **21 English novel** *angl. in ms.*
-- *l. 22* : **22 ds** *abbr. pro* dans. **22 tea** *angl. in ms.*
+- *l. 1* : **1** **Fév.** *février*.
+- *l. 3* : **3** **s/** *sur*.
+- *l. 6* : **6** **Dim.** *dimanche*.
+- *l. 8* : **8** **100ne** *centaine*.
+- *l. 9* : **9** **qq** *quelques*.
+- *l. 11* : **11** **lunch** *angl.* Repas de midi, anglais.
+- *l. 15* : **15** **ns** *nous* ; **absolt** *absolument*.
+- *l. 17* : **17** **L.** *lundi* ; **Cap. W.** *capitaine Williams*.
+- *l. 18* : **18** **9h** Le chiffre 9 forme un groupe bouclé suivi du h suscrit, et non deux hampes 1 : lecture 9 heures.
+- *l. 20* : **20** **1/2 journée** Une demi-journée, durée pendant laquelle le soleil est agréable ; à distinguer de 1/2 jour signifiant ailleurs milieu du jour.
+- *l. 21* : **21** **bcp** *beaucoup* ; **English novel** *angl.* Roman anglais, anglais ; aucun titre n’est donné.
+- *l. 22* : **22** **tea** *angl.* Thé ou collation de l’heure du thé, anglais ; **ds** *dans*.
 
 * * *
 
-**l.~18 :** Le chiffre 9 est écrit d’un seul groupe bouclé suivi de h suscrit, non de deux hampes 1. **l.~21 :** Roman anglais sans titre ni origine indiquée. **l.~24--25 :** Pleine lune consignée ; aucune rectification astronomique silencieuse.
+l. 8 : 100ne développe centaine, non un nombre précis d’habitants. l. 18 : le chiffre de l’heure est 9, d’un groupe bouclé suivi du h suscrit, sans les deux hampes qu’exigerait 11. l. 20 : 1/2 journée désigne ici une durée, contrairement à 1/2 du jour de la vue 151. l. 21 : English novel désigne un roman anglais sans titre ni provenance indiqués. l. 24–25 : pleine lune est la notation autographe ; aucune rectification astronomique silencieuse n’est appliquée. Les trois journées sont séparées par des espaces et des titres soulignés.
 
 > **l.~17--21 :** Le 26 février, Williams part vers 9 h pour Senlis et Martinsart ; Combes écrit et lit un English novel. La tournée n’est pas liée dans le texte aux décrochages allemands. Les activités militaires contemporaines du secteur relèvent du contexte, sans prouver la mission de Williams.
 
@@ -7583,6 +8178,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Régiments et divisions des cavaliers non identifiés par l’auteur..
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
 
 ```text
  1 | 27 Ma. —          — Février 1917
@@ -7606,18 +8203,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | — Mess, pour février (depuis le 8) : 33 f. —
 ```
 
-- *l. 1* : **1 Ma.** *scil.* Mardi.
-- *l. 4* : **4 j'à** *abbr. pro* jusqu'à. **4 Capt. W.** *scil.* Captain Williams.
-- *l. 8* : **8 barbed wire** *angl. in ms.*
-- *l. 9* : **9 Merc.** *scil.* Mercredi.
-- *l. 10* : **10 commt** *abbr. pro* commencement.
-- *l. 12* : **12 lunch** *angl. in ms.*
-- *l. 14* : **14 tea** *angl. in ms.*
-- *l. 19* : **19 f.** *abbr. pro* franc(s).
+- *l. 1* : **1** **Ma.** *mardi*.
+- *l. 4* : **4** **Capt. W.** *Captain Williams : capitaine Williams* ; **tooth ache** *angl.* Mal de dents, anglais ; **j'à** *jusqu’à*.
+- *l. 8* : **8** **barbed wire** *angl.* Fil de fer barbelé, anglais.
+- *l. 9* : **9** **Merc.** *mercredi*.
+- *l. 10* : **10** **commt** *commencement*.
+- *l. 12* : **12** **lunch** *angl.* Repas de midi, anglais.
+- *l. 14* : **14** **tea** *angl.* Thé ou collation de l’heure du thé, anglais.
+- *l. 15* : **15** **plus.** *plusieurs*.
+- *l. 18* : **18** **etc.** *et cetera : et le reste*.
+- *l. 19* : **19** **Mess** *angl.* Repas et table commune des officiers, anglais ; ici le montant payé pour février.
 
 * * *
 
-**l.~4--5 :** La tooth ache du capitaine est suivie de « D’où journée entière de liberté » ; le lien est exprimé par Combes, tandis que l’intention ironique demeure une interprétation. **l.~8 barbed wire :** Fil de fer barbelé, expression anglaise conservée.
+l. 4 : Capt. W. reprend le capitaine Williams ; tooth ache est la formule anglaise mal de dents. La conséquence « D’où journée entière de liberté » est écrite, mais une intention ironique demeure interprétative. l. 8 : barbed wire signifie fil de fer barbelé. l. 15 : plus. est une abréviation de plusieurs devant régiments, sans rapport avec le signe + employé pour plus. l. 19 : compte isolé en bas de page introduit par un tiret, sans crochet autographe ; la parenthèse depuis le 8 est autographe.
 
 > **l.~7--19 :** Barbelés et tranchées sur la route de Toutencourt, puis plusieurs régiments de cavalerie indienne traversant Hérissart ; lances, turbans et chevaux sont décrits. Ni tranchées d’exercice, ni 4e/5e Divisions ne sont identifiées. Le compte porte 33 f depuis le 8 ; cette note n’établit pas la règle de calcul ni la date du règlement.
 
@@ -7630,6 +8229,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Graphie du patronyme Dubois.; Halo lunaire lu au crop ; ne pas conserver Halte dans le texte ou le commentaire..
+
+- **Apparat révisé intégralement sur l'image** : 4 entrées contrôlées.
 
 ```text
  1 | 1er Jeudi —          — Mars 1917 —
@@ -7655,13 +8256,14 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 21 | Après-midi, liberté entière.
 ```
 
-- *l. 1* : **1 1er** *scil.* premier.
-- *l. 4* : **4 lgts** *abbr. pro* longtemps.
-- *l. 5* : **5 ds** *abbr. pro* dans.
+- *l. 4* : **4** **lgts** *longtemps*.
+- *l. 5* : **5** **ds** *dans*.
+- *l. 12* : **12** **Mervx** *Merveilleux, accordé avec clair de lune*.
+- *l. 20* : **20** **Dr** *docteur*.
 
 * * *
 
-**l.~8--10 Aux carrefours :** Localisation des grands crucifix. **l.~14 Halo lunaire :** Lecture du manuscrit, vérifiée au grossissement. L’ancienne lecture « Halte lunaire » transformait un phénomène lumineux en arrêt du promeneur.
+l. 4 : lgts est longtemps, complément de causé. l. 8–10 : aux carrefours localise les grands crucifix, sans ajout de déterminants dans la syntaxe elliptique. l. 12 : Mervx développe merveilleux, adjectif de clair de lune, non merveilleusement. l. 14 : Halo lunaire est confirmé ; l’ancien Halte transformait un phénomène lumineux en arrêt du promeneur. l. 20 : Dr est la contraction usuelle de docteur, effectivement écrite avant Dubois.
 
 > **l.~3--20 :** Conversations avec le fils du maire vers Pont-Noyelles et avec le Dr Dubois à Montigny. Le Scan 119 nomme M. Dubois Paul, maire de Montigny ; c’est un parallèle utile, mais le prénom du père et l’identité du médecin ne sont pas donnés sur cette page.
 
@@ -7674,6 +8276,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Abréviation avant interprète, en Cte, à développer avec prudence.; Aucun règlement de solde ou ordre de relève joint à cette page..
+
+- **Apparat révisé intégralement sur l'image** : 20 entrées contrôlées.
+- **Réserves de l'apparat** : L; e; c; t; u; r; e;  ; e; t;  ; d; é; v; e; l; o; p; p; e; m; e; n; t;  ; d; u;  ; g; r; o; u; p; e;  ; e; n;  ; C; t; e;  ; a; v; a; n; t;  ; i; n; t; e; r; p; r; è; t; e;  ; ;;  ; é; v; e; n; t; u; e; l;  ; c; r; o; c; h; e; t;  ; e; x; t; r; ê; m; e; m; e; n; t;  ; p; â; l; e;  ; a; u; t; o; u; r;  ; d; e;  ; W; a; s; h; i; n; g;  ; n; o; n;  ; a; s; s; u; r; é; ..
 
 ```text
  1 | 3 Sam. —          — Mars 1917 —
@@ -7705,24 +8310,23 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 27 | Nuit, mervt ciel étoilé, pleine lune — superbe.
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 5* : **5 Town Major** *angl. in ms.*
-- *l. 7* : **7 qq** *abbr. pro* quelque(s).
-- *l. 8* : **8 lorry** *angl. in ms.*
-- *l. 9* : **9 ds** *abbr. pro* dans.
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 f.** *abbr. pro* franc(s).
-- *l. 12* : **12 f.** *abbr. pro* franc(s).
-- *l. 13* : **13 Dim.** *scil.* Dimanche.
-- *l. 14* : **14 ds** *abbr. pro* dans.
-- *l. 16* : **16 Cap.** *abbr. pro* Capitaine.
-- *l. 18* : **18** *in marg. cum unco* (comptes). **18 c.** *abbr. pro* centimes.
-- *l. 25* : **25 Cte** *lect. incert. in ms.* **25 off.** *abbr. pro* officier(s).
-- *l. 26* : **26 ns** *abbr. pro* nous. **26 Cap.** *abbr. pro* Capitaine.
-- *l. 27* : **27 mervt** *abbr. pro* merveilleusement.
+- *l. 1* : **1** **Sam.** *samedi*.
+- *l. 5* : **5** **etc.** *et cetera : et le reste* ; **Town Major's office** *angl.* Bureau de l’officier chargé de la place ou du cantonnement, anglais ; construction possessive en ’s.
+- *l. 7* : **7** **fr.** *française* ; **qq** *quelques*.
+- *l. 8* : **8** **lorry** *angl.* Camion, anglais.
+- *l. 9* : **9** **ds** *dans* ; **office** *angl.* Bureau, anglais.
+- *l. 11* : **11** **[ Toutencourt** Compte après le récit du samedi, réuni par un grand crochet autographe à gauche ; **fr.** *française*.
+- *l. 13* : **13** **Dim.** *dimanche*.
+- *l. 14* : **14** **ds** *dans*.
+- *l. 16* : **16** **Cap.** *capitaine*.
+- *l. 18* : **18** **Washing** *angl.* Blanchissage, anglais ; note comptable au crayon à droite de la fin du récit du dimanche ; **[ Washing : 60 c. ]** Note pâle au crayon, à droite ; aucun crochet autographe assuré autour de cette note.
+- *l. 25* : **25** **off.** *officier, singulier : un officier australien* ; **en Cte [?]** Groupe de lecture incertaine avant interprète ; le développement de Cte n’est pas établi.
+- *l. 26* : **26** **ns** *nous* ; **Cap.** *capitaine*.
+- *l. 27* : **27** **mervt** *merveilleusement*.
 
 * * *
 
-**l.~11--12 :** Retenue de 35 francs pour sept jours de permission, soit cinq francs par jour par simple division. La nature réglementaire de cette somme n’est pas précisée. **l.~25--26 :** Abréviation avant « interprète » lue provisoirement « en Cte » ; ne pas rétablir silencieusement « avec son interprète ». Le contentement de quitter le capitaine est explicite.
+l. 5 : Town Major’s office est une expression anglaise complète avec possessif, « bureau du commandant de place ». l. 11–12 : compte sous un grand crochet autographe à gauche ; la retenue notée est 35 francs pour sept jours, sans indication de sa nature réglementaire. l. 18 : Washing : 60 c. est une note pâle au crayon à droite de la fin du dimanche ; les crochets de transcription n’établissent pas un encadrement autographe. l. 25–26 : off. est singulier devant australien. Le groupe transcrit en Cte reste réservé : ne pas lui assigner un développement certain ni remplacer par avec son interprète. Le contentement de quitter le capitaine est explicite.
 
 > **l.~11--26 :** Solde 43 f 75 et retenue de 35 f pour sept jours de permission. L’addition donne 78 f 75 et la division 5 f par jour, sans qualifier cette retenue de réglementaire. La relève australienne annoncée reste sans numéro d’unité et l’abréviation avant interprète demeure réservée.
 
@@ -7736,6 +8340,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Patronymes Grauger et Raucoule ; seconde lecture nominative souhaitable.; Fonction du maréchal des logis non nommée..
 
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
+
 ```text
  1 | 6 Mardi —          — Mars 1917 —
  2 | Tout le jour, soufflé bise glaciale.
@@ -7748,7 +8354,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
  9 | Maral logis Grauger m'a conduit chz le Cap.
 10 | Raucoule, l. a demandé divers renseigts. Maral logis Grauger m'a promis
 11 | de me faire donner bon poste —
-12 | Fini journée au mess, en cie nouvel interprète.
+12 | Fini journée au mess, en cie nouvel intte.
 13 | [ A Doullens : papeterie : 3 f. + 1 f. 50
 14 | Cartes ples : 1 f. — 2 boîtes pastilles chlorate : 1 f.
 15 | Quête pour wounded : 50 c.
@@ -7765,20 +8371,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 26 | Temps funèbre.
 ```
 
-- *l. 4* : **4 off.** *abbr. pro* officier(s).
-- *l. 6* : **6 Cap. W.** *scil.* Capitaine Williams. **6 Cap.** *abbr. pro* Capitaine.
-- *l. 8* : **8 s.** *abbr. pro* soir.
-- *l. 9* : **9 Cap.** *abbr. pro* Capitaine. **9 Maral** *abbr. pro* Maréchal.
-- *l. 10* : **10 renseigts** *abbr. pro* renseignements. **10 Maral** *abbr. pro* Maréchal.
-- *l. 12* : **12 cie** *abbr. pro* compagnie. **12 mess** *angl. in ms.*
-- *l. 13* : **13** *in marg. cum unco* (comptes). **13 f.** *abbr. pro* franc(s).
-- *l. 14* : **14 Cartes ples** *abbr. pro* Cartes postales. **14 f.** *abbr. pro* franc(s).
-- *l. 15* : **15 c.** *abbr. pro* centimes. **15 wounded** *angl. in ms.*
-- *l. 25* : **25 ds** *abbr. pro* dans.
+- *l. 4* : **4** **off.** *officier, singulier : le nouvel officier australien*.
+- *l. 6* : **6** **Cap. W.** *capitaine Williams*.
+- *l. 8* : **8** **fr.** *française*.
+- *l. 9* : **9** **Maral** *maréchal, dans maréchal des logis ; des n’est pas écrit* ; **chz** *chez* ; **Cap.** *capitaine*.
+- *l. 10* : **10** **l. a** *lui a, selon la construction : le maréchal des logis a demandé des renseignements au capitaine* ; **renseigts** *renseignements* ; **Maral** *maréchal, dans maréchal des logis*.
+- *l. 12* : **12** **mess** *angl.* Salle commune et service des repas des officiers, anglais ; **cie** *compagnie, dans en compagnie du nouvel interprète ; le déterminant n’est pas écrit* ; **intte** *interprète*.
+- *l. 13* : **13** **[ A Doullens** Bloc comptable entre les récits du 6 et du 7, réuni par un grand crochet autographe à gauche.
+- *l. 14* : **14** **ples** *postales*.
+- *l. 15* : **15** **wounded** *angl.* Blessés, anglais.
+- *l. 25* : **25** **ds** *dans*.
 
 * * *
 
-**l.~4--7 :** Le jugement « plutôt vulgaire » porte sur l’officier australien ; « très sympathique » sur le nouvel interprète. Ces appréciations n’établissent pas une opposition générale entre Britanniques universitaires et officiers coloniaux. **l.~14--16 :** Le chlorate et la quête pour les wounded sont écrits.
+l. 4–7 : plutôt vulgaire qualifie l’officier australien ; très sympathique le nouvel interprète. Aucun contraste général entre catégories d’officiers n’est formulé. l. 9–10 : Maral logis est la forme elliptique de maréchal des logis ; des n’est pas ajouté au texte. chz et l. a développent chez et lui a ; renseigts signifie renseignements. l. 12 : le manuscrit abrège intte, forme rétablie à la place du développement silencieux interprète. l. 13–16 : bloc comptable précédé d’un crochet à gauche ; (Hôpital auxiliaire) est une parenthèse autographe rattachée à la quête pour les wounded, blessés.
 
 > **l.~4--16 :** Arrivée distincte d’un officier australien et d’un interprète, puis visite à Grauger et Raucoule et quête pour les blessés. Le nom Valet apparaît seulement le 8 mars avec un autre interprète, Evar[?], au Scan 164 ; il ne faut pas identifier automatiquement Valet à l’arrivant du 6. Raucoule n’est pas qualifié ici de chef de mission.
 
@@ -7791,6 +8397,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Nom Evar, final r incertain.; Sigle R.2 : expansion administrative à documenter.; Montant 18 f[?] du compte de mess ; second chiffre au contact de la ligne supérieure..
+
+- **Apparat révisé intégralement sur l'image** : 27 entrées contrôlées.
+- **Réserves de l'apparat** : N; o; m;  ; E; v; a; r;  ; ;;  ; v; a; l; e; u; r;  ; d; e;  ; R; .; 2;  ; ;;  ; f; i; n; a; l; e;  ; m; e; r; v; t;  ; o; u;  ; m; e; r; v; x;  ; ;;  ; m; o; n; t; a; n; t;  ; 1; 8;  ; f; r; a; n; c; s; ..
 
 ```text
  1 | 8 Jeudi —          — Mars 1917 —
@@ -7820,22 +8429,25 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | jusqu'à ce soir : [18 f. ?] — ]
 ```
 
-- *l. 6* : **6 Evar** *lect. incert. in ms.* **6 cie** *abbr. pro* compagnie.
-- *l. 7* : **7 intte** *abbr. pro* interprète.
-- *l. 8* : **8 Evar** *lect. incert. in ms.* **8 lorry** *angl. in ms.*
-- *l. 9* : **9 extrt** *abbr. pro* extrêmement. **9 kit** *angl. in ms.*
-- *l. 12* : **12 j'à** *abbr. pro* jusqu'à.
-- *l. 14* : **14 walk** *angl. in ms.*
-- *l. 15* : **15 qq** *abbr. pro* quelque(s). **15 mervt** *abbr. pro* merveilleusement.
-- *l. 18* : **18 ts** *abbr. pro* tous.
-- *l. 22* : **22 tt** *abbr. pro* tout.
-- *l. 23* : **23 siton** *abbr. pro* situation.
-- *l. 24* : **24** *in marg. cum unco* (comptes). **24 dinner** *angl. in ms.*
-- *l. 25* : **25** *lect. incert. in ms.*
+- *l. 6* : **6** **intte** *interprète* ; **Evar[?]** Lecture réservée du nom du premier interprète ; l’orthographe exacte n’est pas établie ; **cie** *compagnie*.
+- *l. 7* : **7** **intte** *interprète* ; **R.2** Groupe alphanumérique conservé sans développement assuré ; sa fonction administrative n’est pas explicitée ; **2nd australian division** *angl.* Deuxième division australienne, anglais ; ordinal 2nd, pour second.
+- *l. 8* : **8** **Evar[?]** Même nom réservé qu’à la ligne 6 ; **lorry** *angl.* Camion, anglais.
+- *l. 9* : **9** **kit** *angl.* Équipement ou paquetage personnel, anglais ; **extrt** *extrêmement*.
+- *l. 10* : **10** **fr.** *française*.
+- *l. 11* : **11** **logis...** Points autographes à la place d’un nom ou à la fin du groupe ; ils ne démontrent pas une lacune matérielle.
+- *l. 12* : **12** **av.** *avec* ; **cap.** *capitaine* ; **j'à** *jusqu’à*.
+- *l. 14* : **14** **walk** *angl.* Promenade ou marche, anglais.
+- *l. 15* : **15** **mervt** Finale épaissie : merveilleux, qualifiant Temps, paraît le développement contextuel ; une finale x reste possible. Ne pas imposer merveilleusement devant pleine lune ; **qq** *quelques*.
+- *l. 18* : **18** **ts** *tous*.
+- *l. 21* : **21** **office** *angl.* Bureau, anglais.
+- *l. 22* : **22** **tt** *tout*.
+- *l. 23* : **23** **siton** *situation*.
+- *l. 24* : **24** **[ Après dinner** Compte de mess au pied de la page, précédé d’un crochet autographe à gauche ; **dinner** *angl.* Dîner ou repas du soir, anglais ; **mess** *angl.* Table commune des officiers, anglais ; **cap. Wms** *capitaine Williams*.
+- *l. 25* : **25** **[18 f. ?]** Montant lu provisoirement 18 francs ; le second chiffre, au contact de la ligne précédente, conserve une réserve.
 
 * * *
 
-**l.~6--9 :** Deux interprètes sont distingués ; le premier, Evar[?], repart avec son kit. **l.~22--23 :** Tristesse et incertitude d’affectation sont explicites ; la crainte d’une unité combattante exposée n’est pas formulée. **l.~25 :** Montant relu provisoirement 18 f : second chiffre anguleux présentant deux mouvements/lobes, comparable aux 8 des Scans #148 et #156. Le contact avec la ligne supérieure empêche de lever toute réserve ; l’ancienne lecture 10 f n’est pas maintenue comme certaine.
+l. 6–9 : deux interprètes sont distingués ; le premier, Evar[?], repart avec son kit. R.2 est conservé sans développement administratif certain. l. 11 : les points après maréchal logis sont autographes ; ils ne constituent pas la preuve d’une perte matérielle. l. 15 : la contraction transcrite mervt présente une finale épaissie ; le développement merveilleux, adjectif de Temps en fin de l. 14, paraît plus approprié que merveilleusement. Une finale x reste possible. l. 22–23 : tristesse et incertitude d’affectation sont écrites, sans mention d’une unité combattante redoutée. l. 24–25 : compte au pied de la page, crochet à gauche ; Wms contracte Williams. Le montant reste 18 f sous réserve du second chiffre.
 
 > **l.~6--25 :** Valet est dit de la 2nd Australian Division ; R.2 est conservé sans expansion réglementaire. Ce rattachement d’un interprète ne prouve pas à lui seul la relève de tout un secteur par sa division. Le compte du 9 mars est relu[18 f?], sans maintenir les 10 f concurrents comme certains. L’implantation d’une base arrière précise demanderait une source militaire distincte.
 
@@ -7848,6 +8460,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Abréviation de situation à la ligne 7 ; lecture du développement et identité du nouveau capitaine non précisées..
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
 
 ```text
  1 | 10 Samedi —          Mars 17 —
@@ -7872,14 +8486,16 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 20 | à mon nouveau sort.
 ```
 
-- *l. 2* : **2 ts** *abbr. pro* tous. **2 breakfast** *angl. in ms.*
-- *l. 8* : **8 défintt** *abbr. pro* définitivement. **8 Cap.** *abbr. pro* Capitaine.
-- *l. 13* : **13 lgt** *abbr. pro* longtemps.
-- *l. 18* : **18 tt** *abbr. pro* tout.
+- *l. 2* : **2** **breakfast** *angl.* Petit déjeuner, anglais ; **ts** *tous*.
+- *l. 8* : **8** **Cap.** *capitaine* ; **nouvl** *nouveau* ; **défintt** *définitivement*.
+- *l. 12* : **12** **English** *angl.* Anglais, anglais ; désigne les personnes déjà connues de Combes.
+- *l. 13* : **13** **lgt** *longtemps*.
+- *l. 16* : **16** **office** *angl.* Bureau, anglais.
+- *l. 18* : **18** **tt** *tout*.
 
 * * *
 
-**l.~4--10 :** Mélancolie, souvenirs, incertitude du lendemain et situation précaire sont nommés. Le départ du capitaine vers 10 h est écrit ; « angoisse du déracinement » et un trimestre précis d’incompréhension relèvent d’une interprétation extérieure à cette page. **l.~18 :** Pénétré, avec deux accents et groupe tr final, distinct du pensif du Scan #164. La syntaxe sans préposition est conservée.
+l. 4–10 : mélancolie, souvenirs, incertitude et situation précaire sont nommés. Le départ du capitaine vers dix heures est écrit ; ni un trimestre précis d’incompréhension ni une angoisse du déracinement ne sont formulés. l. 8 : nouvl développe nouveau et défintt définitivement. l. 12–13 : English désigne les Anglais connus depuis longtemps, sans ajout de nom propre. l. 18 : pénétré est confirmé, distinct du pensif de la vue 164 ; l’absence de préposition avant mélancolie appartient à la syntaxe elliptique et ne constitue pas une abréviation.
 
 > **l.~4--20 :** Départ définitif des capitaines vers 10 h et journée sans fonctions, dans l’attente de l’affectation. Ni durée exacte du service sous Williams ni grades des English ne sont déterminés par cette entrée. La liberté du 10 et la démarche du 11 au Scan 166 se suivent ; cela ne constitue pas une durée administrative chronométrée de vingt-quatre heures.
 
@@ -7892,6 +8508,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Adresse blanche non complétée.; Nom Godard ajouté au crayon, mais motif de cet ajout non établi..
+
+- **Apparat révisé intégralement sur l'image** : 21 entrées contrôlées.
+- **Réserves de l'apparat** : R; a; i; s; o; n;  ; e; t;  ; c; h; r; o; n; o; l; o; g; i; e;  ; d; e;  ; l; ’; é; c; r; i; t; u; r; e;  ; a; u;  ; c; r; a; y; o; n;  ; d; u;  ; n; o; m;  ; G; o; d; a; r; d; ..
 
 ```text
  1 | Dim. 11.          — Mars 1917 —
@@ -7921,24 +8540,25 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | M'y trouve très bien. 2 Tables pour écrire —
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 2* : **2 1/2** *scil.* demi / moitié. **2 m.** *abbr. pro* matin.
-- *l. 3* : **3 ts** *abbr. pro* tous.
-- *l. 4* : **4 extrt** *abbr. pro* extrêmement.
-- *l. 7* : **7 m.** *abbr. pro* matin. **7 breakfast** *angl. in ms.*
-- *l. 8* : **8 Ds** *abbr. pro* Dans. **8 ts** *abbr. pro* tous.
-- *l. 9* : **9 mess** *angl. in ms.*
-- *l. 14* : **14 Purchase Board** *angl. in ms.*
-- *l. 15* : **15 Lieutt** *abbr. pro* Lieutenant. **15 interview** *angl. in ms.*
-- *l. 16* : **16 tt** *abbr. pro* tout. **16 off.** *abbr. pro* officier(s).
-- *l. 18* : **18 lorry** *angl. in ms.*
-- *l. 19* : **19 ts** *abbr. pro* tous.
-- *l. 23* : **23 ds** *abbr. pro* dans.
-- *l. 24* : **24 dinner** *angl. in ms.*
+- *l. 1* : **1** **Dim.** *dimanche*.
+- *l. 3* : **3** **ts** *tous*.
+- *l. 4* : **4** **extrt** *extrêmement* ; **Éclat clair** Lecture Éclat, avec hampe de l et barre de t ; la ponctuation séparant les notations est éditoriale.
+- *l. 6* : **6** **Bureau Board** *hybr.* Formulation mêlant bureau français et board anglais, conseil ou commission ; comparer Purchase Board l. 14.
+- *l. 7* : **7** **breakfast** *angl.* Petit déjeuner, anglais.
+- *l. 8* : **8** **Ds** *Dans* ; **ts** *tous*.
+- *l. 9* : **9** **mess** *angl.* Salle commune et service des repas, anglais.
+- *l. 11* : **11** **n°, rue** Deux emplacements laissés en blanc après n° et rue ; aucune adresse n’est suppléée.
+- *l. 14* : **14** **Purchase Board** *angl.* Commission ou service des achats, anglais.
+- *l. 15* : **15** **interview** *angl.* Entretien, anglais ; **Lieutt** *lieutenant* ; **Godard** Nom tracé au crayon après le grade ; l’ordre de rédaction et le motif de cette différence d’instrument ne sont pas établis.
+- *l. 16* : **16** **tt** *tout* ; **off.** *officier, singulier*.
+- *l. 18* : **18** **lorry** *angl.* Camion, anglais.
+- *l. 19* : **19** **ts** *tous* ; **billet** *angl.* Cantonnement ou logement militaire, dans l’usage britannique.
+- *l. 23* : **23** **ds** *dans*.
+- *l. 24* : **24** **dinner** *angl.* Dîner, anglais.
 
 * * *
 
-**l.~6 Bureau Board :** Formulation hybride autographe ; *Purchase Board* revient à la l.~14. Aucune biffure n’est visible sur « Bureau » dans la vue. **l.~9--11 :** Des blancs restent après n° et rue. **l.~15 Godard :** Nom au crayon, sans que l’image permette d’expliquer pourquoi il fut ajouté. **l.~25 :** Deux tables sont expressément comptées. **l.~4 :** Éclat est formé de e/cl/a/t, avec hampe de l et barre de t ; ce mot avait été réduit à très dans la base. La ponctuation séparant les notations reste éditoriale. **l.~25 :** Majuscule T de Tables conservée.
+l. 4 : Éclat est confirmé, avec hampe de l et barre de t ; la ponctuation séparant les notations est éditoriale. l. 6 : Bureau Board est une formulation hybride conservée ; aucun texte antérieur certain n’est restituable sur Bureau. l. 9–11 : deux emplacements restent en blanc après n° et rue, sans perte du support démontrée. l. 14 : Purchase Board est traduit commission ou service des achats. l. 15 : Godard est écrit au crayon ; cette différence ne prouve ni le moment ni la raison de sa rédaction. l. 25 : deux Tables sont expressément comptées, avec majuscule T.
 
 > **l.~12--25 :** La demande instante du Major Levy est le motif écrit du maintien au Purchase Board. Les Scans 091/093, 110 et 116 fournissent des occurrences antérieures de Levy, sans établir ici sa fonction officielle de chef. Godard est l’interlocuteur de Toutencourt ; la page ne le rattache pas au même service britannique que Wentworth ou Gilbert. Deux tables et deux fenêtres sont réparties entre 166 et 167.
 
@@ -7951,6 +8571,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Modèle précis des automobiles non indiqué..
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
+- **Réserves de l'apparat** : D; é; v; e; l; o; p; p; e; m; e; n; t;  ; d; ’; E; x; p; .;  ; F; .;  ; p; r; o; b; a; b; l; e;  ; d; ’; a; p; r; è; s;  ; l; ’; a; p; p; e; l; l; a; t; i; o; n;  ; m; i; l; i; t; a; i; r; e; ,;  ; n; o; n;  ; d; é; v; e; l; o; p; p; é;  ; e; n;  ; t; o; u; t; e; s;  ; l; e; t; t; r; e; s;  ; s; u; r;  ; c; e; t; t; e;  ; v; u; e; ..
 
 ```text
  1 | Dim. 11 (fin)          Mars 1917
@@ -7973,15 +8596,15 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 18 | Calvert's Tooth Powder : 1 f. 75 c. ]
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 6* : **6** *in marg. cum unco* (comptes). **6 c.** *abbr. pro* centimes.
-- *l. 7* : **7 m.** *abbr. pro* matin.
-- *l. 17* : **17** *in marg. cum unco* (comptes). **17 Canteen** *angl. in ms.*
-- *l. 18* : **18 f.** *abbr. pro* franc(s). **18 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Dim.** *dimanche*.
+- *l. 6* : **6** **tommy** *angl.* Soldat britannique, appellation familière anglaise ; **[ A Hérissart** Compte sous le récit du dimanche, précédé d’un crochet autographe à gauche.
+- *l. 11* : **11** **Toutencourt** Toponyme ajouté au-dessus de la ligne, avant Contay.
+- *l. 17* : **17** **[ Toutencourt** Compte isolé au pied de la page, précédé d’un crochet autographe à gauche ; **Exp. F.** *Expeditionary Force, force expéditionnaire : développement probable dans l’appellation de la cantine* ; **Canteen** *angl.* Cantine, anglais ; **2 tins of** *angl.* Deux boîtes de, anglais.
+- *l. 18* : **18** **Calvert's Tooth Powder** *angl.* Poudre dentifrice Calvert, anglais ; le nom de la marque est conservé.
 
 * * *
 
-**l.~2--3 :** Suite directe du Scan #166 : deux tables, puis deux fenêtres ; les impressions de calme, silence, rêverie et étude sont écrites. **l.~11 :** Toutencourt ajouté dans l’interligne supérieur. **l.~17--18 :** La note d’achat emploie l’anglais 2 tins of  Calvert’s Tooth Powder ; elle porte 1 f 75.
+l. 2–3 : suite du récit de la vue 166 : deux tables, puis deux fenêtres, impressions de calme et de silence. l. 6 : compte sous un crochet autographe à gauche ; tommy désigne familièrement un soldat britannique, sans identifier son unité. l. 11 : Toutencourt est ajouté dans l’interligne supérieur. l. 17–18 : second compte au pied de la page, sous un crochet à gauche. Exp. F. est développé probablement Expeditionary Force ; l’achat porte deux boîtes de poudre dentifrice Calvert, pour 1 f 75. L’anglais ne se réduit pas au seul mot Canteen.
 
 > **l.~12--14 :** La Wolseley est jugée moins confortable que la Vauxhall de Jimmie ; modèle et puissance restent inconnus. **l.~17--18 :** F. C. Calvert & Co., fabricant établi à Manchester, produisait notamment une poudre dentifrice au phénol ; voir \href{https://collection.sciencemuseumgroup.org.uk/people/cp60291/f-c-calvert-and-company}{Science Museum Group, notice F. C. Calvert and Company}. La page du carnet établit l’achat en cantine à Toutencourt, pas une distribution générale dans la B.E.F.
 
@@ -7994,6 +8617,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Mesnil-Martinsart identifié par un rapprochement prosopographique fortement étayé, sans complément autographe.; Divergence du lieu de naissance entre Debrie et BnF ; raison non établie.; Prénom Ernest et dates 1862/1888 du père à vérifier sur pièces ; formation du fils corrigée selon Debrie..
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
 
 ```text
  1 | Mardi 13 —          Mars 1917 —
@@ -8022,14 +8647,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | pataugé boue épaisse.
 ```
 
-- *l. 7* : **7 Mme** *abbr. pro* Madame. **7 tea** *angl. in ms.*
-- *l. 8* : **8 Normle Supre** *abbr. pro* Normale Supérieure.
-- *l. 12* : **12 mess** *angl. in ms.*
-- *l. 21* : **21 1/2** *scil.* demi / moitié.
+- *l. 5* : **5** **lt** *lieutenant*.
+- *l. 7* : **7** **tea** *angl.* Thé ou collation de l’heure du thé, anglais ; **Mme** *Madame*.
+- *l. 8* : **8** **Normle Supre** *Normale Supérieure, pour l’École normale supérieure*.
+- *l. 12* : **12** **office** *angl.* Bureau, anglais ; **mess** *angl.* Salle commune et service des repas, anglais ; **billet** *angl.* Cantonnement ou logement militaire, dans l’usage britannique.
+- *l. 13* : **13** **rue,** L’emplacement du nom de rue reste vide après rue ; ne pas suppléer une adresse.
+- *l. 14* : **14** **Ns** *Nous*.
+- *l. 21* : **21** **1/2 jour** Milieu du jour, dans l’opposition entre le froid du matin et de la fin de journée et le soleil de midi ; non une durée d’une demi-journée.
+- *l. 23* : **23** **etc. etc.** *et cetera, répété : et le reste* ; **Acheux Wood** *angl.* Bois d’Acheux, dans la dénomination anglaise.
 
 * * *
 
-**l.~7--8 :** Flutre, instituteurs et Normle Supre sont lisibles. Le rapprochement avec le père instituteur et le fils normalien devient fortement étayé par Debrie 1978 ; le complément Martinsart reste un apport prosopographique, non une addition à la transcription. **l.~12--15 :** Le nouveau mess est en face de la maison où il a sa chambre.
+l. 5 : lt développe lieutenant. l. 7–8 : Flutre, instituteurs et les contractions Normle Supre sont lisibles ; la notice familiale du fils normalien appartient au commentaire historique. Aucun complément Martinsart n’est ajouté au toponyme Mesnil écrit ici. l. 12–15 : office, mess et billet désignent le bureau, le service des repas et le logement ; un espace reste vide après rue. l. 21 : 1/2 jour signifie ici le milieu du jour, comme le montre l’opposition avec matin et fin journée. L’ancienne note demi/moitié était trop générale. l. 23 : Wood est traduit bois dans la dénomination anglaise Acheux Wood.
 
 > **l.~7--8 :** Le rapprochement avec Fortuné Flutre et son fils Louis-Fernand est fortement étayé : René Debrie, *Nécrologie*, *Revue de linguistique romane* 42 (1978), p. 238–240, nomme le père instituteur de Mesnil-Martinsart et situe la naissance du fils dans ce village le 21 juin 1892. Il indique admission à l’ENS en 1914, entrée en 1919 et agrégation en 1921, contre 1913/1920 du commentaire concurrent. La \href{https://catalogue.bnf.fr/ark:/12148/cb122063529}{notice BnF} donne Albert : divergence conservée, sans l’expliquer par une approximation de chef-lieu. L’identification du Mesnil du carnet est prosopographique ; le prénom Ernest, 1862 et 1888 restent à contrôler sur les pièces annoncées.
 
@@ -8042,6 +8671,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Fermoir : ferrure de sac, sans préciser la pièce.; Destination des troupes non donnée..
+
+- **Apparat révisé intégralement sur l'image** : 16 entrées contrôlées.
+- **Réserves de l'apparat** : L; e; c; t; u; r; e;  ; e; t;  ; c; o; n; s; t; r; u; c; t; i; o; n;  ; d; u;  ; p; e; t; i; t;  ; c; o; m; p; l; é; m; e; n; t;  ; e; t;  ; à;  ; s; o; i; e;  ; l; .;  ; 2; 2; ..
 
 ```text
  1 | Ven. 16          — Mars 1917 —
@@ -8068,18 +8700,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | et à soie ]
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 4* : **4 lunch** *angl. in ms.*
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 c.** *abbr. pro* centimes.
-- *l. 12* : **12 Sam.** *scil.* Samedi.
-- *l. 16* : **16 Lt** *abbr. pro* Lieutenant. **16 de =** *signum aequalitatis pro* de même.
-- *l. 17* : **17 bcp** *abbr. pro* beaucoup.
-- *l. 18* : **18 workshops** *angl. in ms.*
-- *l. 21* : **21** *in marg. cum unco* (comptes). **21 c. ples** *abbr. pro* cartes postales.
+- *l. 1* : **1** **Ven.** *vendredi*.
+- *l. 4* : **4** **Early lunch** *angl.* Repas de midi pris tôt, anglais.
+- *l. 7* : **7** **etc. etc.** *et cetera, répété : et le reste*.
+- *l. 11* : **11** **[ Blacksmith** Compte entre les deux journées, précédé d’un petit crochet autographe à gauche ; **Blacksmith** *angl.* Forgeron, anglais ; **répar.** *réparation ou réparations ; le nombre n’est pas marqué dans la contraction*.
+- *l. 12* : **12** **Sam.** *samedi*.
+- *l. 14* : **14** **id.** *idem, latin : de même, ici à pied comme à l’aller*.
+- *l. 16* : **16** **=** même ; retour de même, c’est-à-dire à pied ; **Lt.** *lieutenant*.
+- *l. 17* : **17** **bcp** *beaucoup*.
+- *l. 18* : **18** **Auto est aux workshops.** Courte indication interlinéaire au-dessus de la ligne suivante, entre le récit de la promenade et la mention des troupes ; **workshops** *angl.* Ateliers de réparation, anglais.
+- *l. 21* : **21** **[ A Toutencourt** Compte au pied de la page, précédé d’un crochet autographe à gauche ; **c. ples** *cartes postales*.
+- *l. 22* : **22** **et à soie** Petit complément sous la ligne du compte, de lecture et de construction peu assurées ; ne pas corriger en une catégorie commerciale certaine.
 
 * * *
 
-**l.~11 :** Blacksmith désigne le forgeron ; le compte porte « répar. à ferrure sac : 30 c ». Aucune pièce mécanique plus précise, telle qu’un fermoir, n’est nommée. **l.~18 :** La note sur l’auto aux workshops est interlinéaire ; les trajets à pied sont indiqués dans le récit.
+l. 4 : Early lunch précise un repas de midi pris tôt. l. 11 : compte entre les deux journées, petit crochet à gauche ; Blacksmith signifie forgeron, répar. réparation ou réparations. Le texte mentionne la ferrure du sac sans préciser un fermoir ou une pièce mécanique. l. 14 et 16 : id. et = ont une valeur de reprise, de même, ici à pied. l. 18 : la note sur l’auto aux workshops est effectivement interlinéaire. l. 21–22 : compte au pied de la page, crochet gauche ; le bref complément sous la ligne est conservé avec une réserve de lecture et de construction.
 
 > **l.~3--20 :** Tournée à Albert et Ribemont, puis marche avec Wentworth et passage de cavaliers au trot. Le contexte du repli allemand de mars peut éclairer ces mouvements ; la photographie ne donne ni unités, ni direction, ni mission de poursuite. Les seuls cavaliers indiens observés ici ne peuvent être distribués entre deux divisions par une coïncidence de date.
 
@@ -8092,6 +8727,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Abréviation de l’ordinaire dans l’itinéraire.; Aucune mention lisible délivré/relevé hier à ajouter après Achiet..
+
+- **Apparat révisé intégralement sur l'image** : 18 entrées contrôlées.
+- **Réserves de l'apparat** : D; é; v; e; l; o; p; p; e; m; e; n; t;  ; d; e;  ; q; .;  ; m; n; t; s;  ; ;;  ; c; o; n; t; r; a; c; t; i; o; n;  ; l; ’; o; r; d; i; n; a; i; r; e;  ; ;;  ; a; p; p; a; r; t; e; n; a; n; c; e;  ; d; u;  ; s; e; c; o; n; d;  ; o; f; f; i; c; i; e; r;  ; n; o; n;  ; e; x; p; l; i; c; i; t; é; e; ..
 
 ```text
  1 | Dim. 18. —          — Mars 1917 —
@@ -8122,22 +8760,22 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 26 | 2 off., qui m'ont donné renseigts très intéressants.
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche.
-- *l. 5* : **5 mnts** *abbr. pro* moments / minutes.
-- *l. 7* : **7 Lt** *abbr. pro* Lieutenant.
-- *l. 9* : **9 workshops** *angl. in ms.*
-- *l. 16* : **16** *in marg. cum unco* (comptes). **16 f.** *abbr. pro* franc(s).
-- *l. 17* : **17 Cartes ples** *abbr. pro* Cartes postales. **17 f.** *abbr. pro* franc(s).
-- *l. 20* : **20 off.** *abbr. pro* officier(s).
-- *l. 21* : **21** *lect. incert. in ms.*
-- *l. 23* : **23 off.** *abbr. pro* officier(s).
-- *l. 24* : **24 div** *abbr. pro* division.
-- *l. 25* : **25 Pt** *abbr. pro* Petit. **25 Achiet-le-Pt.** *scil.* Achiet-le-Petit.
-- *l. 26* : **26 renseigts** *abbr. pro* renseignements. **26 off.** *abbr. pro* officier(s).
+- *l. 1* : **1** **Dim.** *dimanche*.
+- *l. 5* : **5** **fr.** *française* ; **q. mnts** *quelques minutes, développement le plus probable ; moments n’est pas entièrement exclu par la contraction*.
+- *l. 7* : **7** **Lt** *lieutenant*.
+- *l. 9* : **9** **tjours** *toujours* ; **workshops** *angl.* Ateliers de réparation, anglais.
+- *l. 16* : **16** **[ A Toutencourt** Bloc de comptes entre les récits du dimanche et du lundi, dans un grand crochet autographe à gauche.
+- *l. 17* : **17** **ples** *postales* ; **Washing** *angl.* Blanchissage, anglais.
+- *l. 20* : **20** **off.** *officier, singulier*.
+- *l. 21* : **21** **l'ord[inaire ?]** Contraction de lecture réservée, probablement l’ordinaire ; le développement n’est pas entièrement assuré.
+- *l. 23* : **23** **off.** *officier, singulier* ; **63rd Div.** *63rd Division : soixante-troisième division, ordinal et sigle anglais*.
+- *l. 24* : **24** **naval div.** *naval division : division navale, anglais* ; **régt** *régiment*.
+- *l. 25* : **25** **Pt.** *Petit, dans Achiet-le-Petit*.
+- *l. 26* : **26** **off.** *officiers, pluriel après 2* ; **renseigts** *renseignements*.
 
 * * *
 
-**l.~16 Solde : 82 f. :** Solde de quinzaine versée le 18 mars à Toutencourt. **l.~23--26 off. 63rd Div., naval div., de passage... tranchées, Miraumont, Achiet-le-Pt. :** Témoignage oral direct recueilli auprès de deux officiers de la 63e Division revenant des secteurs de Miraumont et d'Achiet-le-Petit.
+l. 5 : q. mnts développe probablement quelques minutes ; la contraction seule ne permet pas d’exclure absolument moments. l. 16–17 : compte réunissant la solde de 82 francs, les cartes postales et le blanchissage, dans un crochet autographe à gauche. La date est le 18 ; le caractère réglementaire de quinzaine n’est pas écrit ici. l. 21 : développement ordinaire maintenu sous réserve. l. 23–26 : un officier de passage est explicitement rattaché à la 63rd Div., naval div. ; son régiment revient de Miraumont et Achiet-le-Petit. Fait parler ces 2 off. mentionne ensuite deux interlocuteurs : cela ne démontre pas qu’ils appartiennent tous deux à la 63e division. Les renseignements sont qualifiés de très intéressants sans contenu transcrit.
 
 > **l.~23--26 :** Le visiteur appartient à la 63rd Div., précisée naval div. ; son régiment revient des tranchées et les noms Miraumont et Achiet-le-Pt sont écrits. La marche vers Arras, un passage divisionnaire complet par Hérissart et une concordance absolue avec Jerrold ne sont pas établis par cette page ; aucun extrait contrôlé de cet historique n’est joint au commentaire concurrent.
 
@@ -8150,6 +8788,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Patronyme Houtteman[?], rapproché de 108, sans certitude nominative.; Rattachement divisionnaire et destination des 17th Lancers non écrits..
+
+- **Apparat révisé intégralement sur l'image** : 13 entrées contrôlées.
+- **Réserves de l'apparat** : O; r; t; h; o; g; r; a; p; h; e;  ; c; i; v; i; l; e;  ; e; t;  ; i; d; e; n; t; i; t; é;  ; d; e;  ; H; o; u; t; t; e; m; a; n;  ; ;;  ; d; i; v; i; s; i; o; n;  ; e; t;  ; d; e; s; t; i; n; a; t; i; o; n;  ; d; e; s;  ; c; a; v; a; l; i; e; r; s;  ; n; o; n;  ; i; n; d; i; q; u; é; e; s; ..
 
 ```text
  1 | 20 Mardi —          Mars 1917 —
@@ -8177,17 +8818,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | à g., champs couverts de neige.
 ```
 
-- *l. 2* : **2 ds** *abbr. pro* dans.
-- *l. 4* : **4 extrt** *abbr. pro* extrêmement.
-- *l. 7* : **7 Merc.** *scil.* Mercredi.
-- *l. 11* : **11 Houtteman** *lect. incert. in ms.*
-- *l. 14* : **14 moving** *angl. in ms.*
-- *l. 15* : **15 Death or Glory Boys** *angl. in ms.*
-- *l. 22* : **22 gde** *abbr. pro* grande.
+- *l. 2* : **2** **Lieut.** *lieutenant* ; **63rd Div.** *63rd Division : soixante-troisième division, ordinal et sigle anglais* ; **ds** *dans*.
+- *l. 4* : **4** **extrt** *extrêmement*.
+- *l. 7* : **7** **Merc.** *mercredi*.
+- *l. 11* : **11** **Farm** *angl.* Ferme, anglais, dans la dénomination Belle Église Farm ; **Houtteman[?]** Nom réservé, rapproché de la graphie de la vue 108 ; les deux hampes barrées et la finale améliorent la lecture sans assurer l’orthographe civile.
+- *l. 14* : **14** **moving** *angl.* En mouvement ou en déplacement, anglais ; qualifie les troupes encombrant les routes ; **cavrie** *cavalerie*.
+- *l. 15* : **15** **Death or Glory Boys** *angl.* Les gars de « la mort ou la gloire », traduction littérale du surnom anglais ; **17th Lancers** *angl.* 17e régiment de lanciers, anglais.
+- *l. 22* : **22** **gde** *grande*.
+- *l. 23* : **23** **g.** *gauche*.
 
 * * *
 
-**l.~11 :** Houtteman[?], par comparaison avec la graphie plus distincte du Scan #108 : deux hautes hampes voisines barrées, puis finale -eman/-man. Le rapprochement améliore la lecture sans établir une identité civile. Belle Église Farm est la formule écrite. **l.~13--15 :** Death or Glory Boys et 17th Lancers sont nommés ; aucune division ou destination n’est précisée.
+l. 2 : Lieut. et 63rd Div. sont développés lieutenant et soixante-troisième division. l. 11 : Houtteman[?] est rapproché de la graphie plus distincte de la vue 108, sans identification civile certaine ; le nom est souligné sur le cliché. Belle Église Farm est une dénomination mêlant toponyme français et anglais farm. l. 14–15 : cavrie développe cavalerie. La parenthèse Death or Glory Boys, 17th Lancers est autographe, avec une partie de l’indication tracée au crayon. Ces noms ne précisent pas la division ni la destination des cavaliers. l. 22–23 : gde et g. signifient grande et gauche.
 
 > **l.~11--15 :** Houtteman[?] est rapproché du nom du Scan 108. Les 17th Lancers et Death or Glory Boys sont explicitement nommés. Le \href{https://rlnymuseum.co.uk/royal-lancers/the-17th-lancers/}{musée des Royal Lancers} confirme leur déploiement en France en 1914 dans la 1st Indian Cavalry Division et le changement de brigade en 1918. Ce contexte ne permet pas d’identifier tous les régiments croisés en 1917 ; la composition détaillée de Sialkot et la numérotation 4th restent à vérifier sur la page de Becke citée.
 
@@ -8200,6 +8842,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : La motivation administrative des démarches pour le billet n’est pas donnée..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
+- **Réserves de l'apparat** : M; o; t; i; f;  ; p; r; é; c; i; s;  ; d; e; s;  ; d; é; m; a; r; c; h; e; s;  ; p; o; u; r;  ; c; o; n; s; e; r; v; e; r;  ; l; e;  ; b; i; l; l; e; t;  ; 2; 2; 0;  ; n; o; n;  ; i; n; d; i; q; u; é; ..
 
 ```text
  1 | 23 Ven. —          — Mars 1917 —
@@ -8227,18 +8872,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | Pas pris pardessus. Promenade fort agréable.
 ```
 
-- *l. 1* : **1 Ven.** *scil.* Vendredi.
-- *l. 6* : **6 workshops** *angl. in ms.*
-- *l. 11* : **11 Ds** *abbr. pro* Dans. **11 afternoon** *angl. in ms.*
-- *l. 14* : **14 Sam.** *scil.* Samedi.
-- *l. 18* : **18 j'à** *abbr. pro* jusqu'à.
-- *l. 19* : **19 sunset** *angl. in ms.*
-- *l. 20* : **20 D.** *scil.* Dimanche.
-- *l. 21* : **21 Ds** *abbr. pro* Dans.
+- *l. 1* : **1** **Ven.** *vendredi*.
+- *l. 6* : **6** **workshops** *angl.* Ateliers de réparation, anglais.
+- *l. 8* : **8** **office** *angl.* Bureau, anglais.
+- *l. 9* : **9** **billet** *angl.* Cantonnement ou logement militaire, dans l’usage britannique.
+- *l. 11* : **11** **Ds** *Dans* ; **afternoon** *angl.* Après-midi, anglais ; la répétition de sens avec dans la journée est conservée.
+- *l. 14* : **14** **Sam.** *samedi*.
+- *l. 18* : **18** **j'à** *jusqu’à*.
+- *l. 19* : **19** **sunset** *angl.* Coucher de soleil, anglais.
+- *l. 20* : **20** **D.** *dimanche*.
+- *l. 21* : **21** **Ds** *Dans*.
 
 * * *
 
-**l.~9--10 :** Démarches pour conserver le billet 220 ; le motif n’est pas explicité. Au Scan #166, la chambre possède deux tables, et deux fenêtres au Scan #167. **l.~11 afternoon :** Alternance franco-anglaise conservée.
+l. 9–10 : le numéro de billet 220 est entre parenthèses autographes, rejetées sous la fin de la ligne ; ce ne sont pas des crochets de compte. Les démarches pour conserver ce logement sont explicites, leur motif ne l’est pas. l. 11 : afternoon signifie après-midi ; l’alternance avec le français et la répétition de sens sont conservées. l. 19 : sunset signifie coucher de soleil. Les journées sont séparées par des espaces et des titres soulignés, sans règle horizontale entre chaque récit.
 
 > **l.~9--23 :** Démarches pour rester au billet 220, puis marches vers Rubempré et le chemin de Puchevillers. Le carnet écrit fait démarches, sans noter le résultat obtenu. Le rapprochement avec la chambre installée aux Scans 166/167 est direct ; sa qualification de chambre d’étude appartient au commentaire.
 
@@ -8251,6 +8898,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Patronyme Monin.; Motif du départ des troupes non explicité..
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
 
 ```text
  1 | 26 Lundi          Mars /17
@@ -8277,18 +8926,20 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | la brume —
 ```
 
-- *l. 2* : **2 Tt** *abbr. pro* Tout.
-- *l. 4* : **4 j. à** *abbr. pro* jusqu'à.
-- *l. 5* : **5 pr** *abbr. pro* pour. **5 Coy** *angl.* Company.
-- *l. 6* : **6 gd** *abbr. pro* grand.
-- *l. 14* : **14 affrt** *abbr. pro* affreusement.
-- *l. 17* : **17 Merc.** *scil.* Mercredi.
-- *l. 20* : **20 s/** *abbr. pro* sur.
-- *l. 21* : **21 ds** *abbr. pro* dans.
+- *l. 2* : **2** **Tt** *Tout*.
+- *l. 4* : **4** **j. à** *jusqu’à*.
+- *l. 5* : **5** **Coy** *Company : compagnie, anglais* ; **pr** *pour*.
+- *l. 6* : **6** **gd** *grand*.
+- *l. 7* : **7** **plus.** *plusieurs*.
+- *l. 14* : **14** **affrt** *affreusement*.
+- *l. 16* : **16** **presq** *presque* ; **presq** Petit mot ajouté sous la ligne, entre restés et sans troupes.
+- *l. 17* : **17** **Merc.** *mercredi*.
+- *l. 20* : **20** **s/** *sur*.
+- *l. 21* : **21** **ds** *dans*.
 
 * * *
 
-**l.~5--7 :** Monin traverse le village avec sa Coy ; Combes écrit l’avoir revu avec plaisir et trouvé « vieilli, enlaidi, usé ». Cette appréciation porte sur cet homme, sans diagnostic médical ou généralisation à tous les combattants.
+l. 5–7 : Coy développe Company, compagnie, et plus. plusieurs devant heures. Combes retrouve Monin avec plaisir puis le juge vieilli, enlaidi, usé ; aucune généralisation ni diagnostic médical ne doit être ajouté. l. 14 : affrt développe affreusement, adverbe de boueuses. l. 16 : presq est un ajout en petites lettres sous la ligne, entre restés et sans troupes ; il doit être pris en compte dans l’interprétation du départ des troupes. Les entrées du 27 et du 28 sont séparées par des espaces et leurs titres soulignés.
 
 > **l.~5--16 :** Monin traverse le village avec sa Coy pour une nuit ; le lendemain les troupes partent à l’aube et le village est presque sans troupes. Plusieurs vues suivantes signalent le calme, mais la page ne mesure pas un départ durable de toutes les unités de l’arrière-front et n’en établit pas la cause stratégique.
 
@@ -8301,6 +8952,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Aucune limite administrative de zone d’achat n’est donnée..
+
+- **Apparat révisé intégralement sur l'image** : 7 entrées contrôlées.
 
 ```text
  1 | 29 Jeudi          — Mars 1917 —
@@ -8330,14 +8983,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | J'aime ce calme & ce silence.
 ```
 
-- *l. 2* : **2 tt** *abbr. pro* tout.
-- *l. 9* : **9 Ven.** *scil.* Vendredi.
-- *l. 18* : **18 Sam.** *scil.* Samedi.
-- *l. 23* : **23 extrt** *abbr. pro* extrêmement.
+- *l. 2* : **2** **tt** *tout*.
+- *l. 9* : **9** **Ven.** *vendredi*.
+- *l. 14* : **14** **Molliens-au-B.** *Molliens-au-Bois*.
+- *l. 16* : **16** **Mervx** *Merveilleux, accordé avec ciel*.
+- *l. 18* : **18** **Sam.** *samedi*.
+- *l. 23* : **23** **extrt** *extrêmement*.
+- *l. 24* : **24** **tjours** *toujours*.
 
 * * *
 
-**l.~7--8 Calme délicieux / l.~17 État lyrique / l.~25 J'aime ce calme & ce silence :** Alors qu'en février le silence d'Hérissart sous la neige lui paraissait « funèbre » (Scan #153), le départ de la foule militaire à la fin mars transforme ce même silence en un « calme délicieux » propice à l'« état lyrique ».
+l. 14 : le nom de Molliens-au-Bois est abrégé Molliens-au-B. l. 16 : Mervx développe merveilleux, adjectif de ciel, non merveilleusement. l. 24 : tjours abrège toujours. l. 7–8, 17 et 25 : calme délicieux, état lyrique et l’amour du calme et du silence sont écrits ; leur opposition à la perception funèbre de février peut être commentée, mais une explication psychologique générale n’est pas un fait de lecture.
 
 > **l.~4--25 :** Tournées d’achat vers Puchevillers, Rubempré, Pierregot, Molliens-au-Bois et Rainneville ; le village paraît abandonné et le calme est apprécié. Les distances et cantons proposés dans le commentaire concurrent demandent une carte datée ; aucune limite administrative de zone d’achat n’est écrite.
 
@@ -8350,6 +9006,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Chiffres effacés au début de la note du mess ; aucun nombre de jours lisible..
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
+- **Réserves de l'apparat** : I; n; t; i; t; u; l; é;  ; i; n; i; t; i; a; l;  ; d; u;  ; c; o; m; p; t; e;  ; d; e;  ; m; e; s; s;  ; l; .;  ; 7;  ; :;  ; d; u;  ; o; u;  ; d; û; ,;  ; a; v; e; c;  ; i; n; t; e; r; v; a; l; l; e;  ; p; e; u;  ; d; i; s; t; i; n; c; t; ..
 
 ```text
  1 | 1er Dim. (Rameaux)          Avril 1917
@@ -8370,7 +9029,7 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 16 | [ Washing : 50 c. — — Clous souliers : 60 c. ]
 17 | 3 Mardi. — Matin & soir, courses en auto :
 18 | Toutencourt, (Me Bien aimé, notaire)
-19 | et Rubempré et Raincheval.
+19 | et Rubempré ⟦et Raincheval⟧.
 20 | Surtout matin, en descendant côte de Hérissart
 21 | admiré champs tout blancs de neige.
 22 | Après-midi, dégel rapide. Routes
@@ -8378,13 +9037,16 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | Temps redevenu plus doux.
 ```
 
-- *l. 1* : **1 Dim.** *scil.* Dimanche. **1 1er** *scil.* premier.
-- *l. 7* : **7** *in marg. cum unco* (comptes). **7 Gde** *abbr. pro* Grande.
-- *l. 16* : **16** *in marg. cum unco* (comptes). **16 c.** *abbr. pro* centimes.
+- *l. 1* : **1** **Dim.** *dimanche*.
+- *l. 7* : **7** **Gde** *Grande* ; **Mess** *angl.* Table et repas communs des officiers, anglais ; **[ Mess** Compte placé après le récit du premier avril, dans des crochets autographes à gauche et à droite ; **dû au 31 mars** Début d’intitulé pâle : du ou dû ; l’intervalle avant au 31 mars n’autorise pas à fixer le début d’une période.
+- *l. 11* : **11** **office** *angl.* Bureau, anglais.
+- *l. 16* : **16** **[ Washing** Compte sous le récit du lundi, précédé d’un crochet autographe à gauche ; **Washing** *angl.* Blanchissage, anglais.
+- *l. 18* : **18** **Me** *Maître, titre du notaire*.
+- *l. 19* : **19** **⟦et Raincheval⟧** Ces mots, encore lisibles, sont annulés par un long trait horizontal.
 
 * * *
 
-**l.~7 :** Note de mess avec le 31 mars et 27 f 50 ; début de la période peu net. Le texte ne permet pas de fixer vingt jours. **l.~18 :** Le notaire Bienaimé revient au Scan #178.
+l. 7 : Gde développe Grande devant fatigue. Le compte de mess est dans des crochets autographes ; le début pâle de l’intitulé reste du/dû, et l’intervalle avant au 31 mars ne fixe pas le début d’une période, encore moins vingt jours. l. 16 : autre compte sous un crochet à gauche ; Washing est le blanchissage. l. 18 : Me est le titre Maître, non une partie du nom Bien aimé ; l’ensemble est entre parenthèses autographes. l. 19 : et Raincheval, encore lisible, est barré par un long trait horizontal ; la rature absente de la transcription précédente est signalée.
 
 > **l.~1--23 :** Rameaux, neige locale et compte du mess au 31 mars pour 27 f 50. Le notaire Bienaimé est mentionné à Toutencourt le 3 avril et revient à Pâques au Scan 178. L’adresse de son étude et la nature comptable exacte de la quote-part ne sont pas indiquées.
 
@@ -8397,6 +9059,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Carnets de timbres : quantité non indiquée.; Monnaie britannique et statut du barbier non donnés..
+
+- **Apparat révisé intégralement sur l'image** : 9 entrées contrôlées.
 
 ```text
  1 | — Avril 1917 —
@@ -8420,17 +9084,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 19 | Nuit merve. Pleine lune, magnifique.
 ```
 
-- *l. 2* : **2 Merc.** *scil.* Mercredi.
-- *l. 4* : **4 pr** *abbr. pro* pour.
-- *l. 6* : **6 ds** *abbr. pro* dans.
-- *l. 8* : **8** *in marg. cum unco* (comptes). **8 f.** *abbr. pro* franc(s).
-- *l. 12* : **12 Ts** *abbr. pro* Tous.
-- *l. 15* : **15 sunset** *angl. in ms.*
-- *l. 19* : **19 merve** *abbr. pro* merveilleuse.
+- *l. 2* : **2** **Merc.** *mercredi*.
+- *l. 4* : **4** **pr** *pour*.
+- *l. 6* : **6** **ds** *dans*.
+- *l. 7* : **7** **jx** *journaux*.
+- *l. 8* : **8** **[ Hair cut** Compte entre les récits du mercredi et du jeudi, précédé d’un grand crochet autographe à gauche ; **Hair cut** *angl.* Coupe de cheveux, anglais.
+- *l. 12* : **12** **Ts** *Tous*.
+- *l. 15* : **15** **sunset** *angl.* Coucher de soleil, anglais.
+- *l. 19* : **19** **merve.** *merveilleuse, accordé avec Nuit*.
 
 * * *
 
-**l.~8 :** Hair cut : 30 c et Carnets de timbres : 4 f. Le carnet n’indique ni deux carnets, ni le statut militaire du barbier, ni une équivalence en pence.
+l. 7 : jx développe journaux, pluriel ; cette contraction manquait à l’ancien appareil. l. 8 : compte réuni par un crochet à gauche, sous le récit du mercredi. Hair cut est traduit coupe de cheveux ; le texte ne précise ni deux carnets de timbres ni le statut du barbier. Un long trait horizontal précède l’entrée Jeudi-Saint. l. 15 : sunset signifie coucher de soleil. l. 19 : merve. développe merveilleuse, adjectif de Nuit, sans lui donner une valeur adverbiale.
 
 > **l.~2--18 :** Tourmente de neige le 4 avril, tournée par Contay, Warloy et Varennes vers Acheux le 5, puis sermon de la Passion. Les villages paraissent déserts et sans troupes ; abandon militaire complet serait plus affirmatif que l’observation. La dédicace de l’église et la fonction d’exercice des tranchées ne sont pas écrites.
 
@@ -8443,6 +9108,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Qualité exacte du staff non définie.; Ponctuation fine après Levé tôt ; pas de minutes chiffrées à restituer..
+
+- **Apparat révisé intégralement sur l'image** : 17 entrées contrôlées.
+- **Réserves de l'apparat** : L; a; n; g; u; e;  ; e; t;  ; n; a; t; u; r; e;  ; e; x; a; c; t; e;  ; d; e; s;  ; p; a; m; p; h; l; e; t; s;  ; n; o; n;  ; é; t; a; b; l; i; e; s;  ; ;;  ; g; r; a; d; e;  ; d; u;  ; m; e; m; b; r; e;  ; d; u;  ; s; t; a; f; f;  ; n; o; n;  ; i; n; d; i; q; u; é; ..
 
 ```text
  1 | 6 Vendr. —          Avril 1917 —
@@ -8471,18 +9139,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 24 | Admiré paysage —
 ```
 
-- *l. 1* : **1 Vendr.** *scil.* Vendredi.
-- *l. 2* : **2 breakfast** *angl. in ms.*
-- *l. 4* : **4 H.Q.** *angl.* Headquarters.
-- *l. 8* : **8 H.Q.** *angl.* Headquarters.
-- *l. 10* : **10 off.** *abbr. pro* officier(s).
-- *l. 14* : **14 lgt** *abbr. pro* longtemps. **14 dinner** *angl. in ms.*
-- *l. 16* : **16** *in marg. cum unco* (comptes). **16 f.** *abbr. pro* franc(s).
-- *l. 17* : **17 Sam.** *scil.* Samedi. **17 gr.** *abbr. pro* grand.
+- *l. 1* : **1** **Vendr.** *vendredi*.
+- *l. 2* : **2** **Levé tôt** Levé, avec attaque bouclée du L, groupe e/v et finale accentuée ; ne pas lire Très sous la barre du titre ; **breakfast** *angl.* Petit déjeuner, anglais.
+- *l. 3* : **3** **staff** *angl.* Membre du personnel du bureau ou de l’état-major, anglais ; son grade n’est pas indiqué.
+- *l. 4* : **4** **fr.** *française* ; **Vth** *cinquième, ordinal mêlant chiffre romain et terminaison anglaise* ; **Army** *angl.* Armée, anglais ; **H.Q.** *Headquarters : quartier général, anglais*.
+- *l. 8* : **8** **H.Q.** *Headquarters : quartier général, anglais*.
+- *l. 10* : **10** **off.** *officier, singulier*.
+- *l. 14* : **14** **After dinner** *angl.* Après le dîner, anglais ; **lgt** *longtemps*.
+- *l. 15* : **15** **pamphlets** *angl.* Brochures ou opuscules, anglais possible dans ce contexte ; les titres et le contenu ne sont pas indiqués.
+- *l. 16* : **16** **[ Solde** Compte sous le récit du vendredi, précédé d’un crochet autographe à gauche.
+- *l. 17* : **17** **Sam.** *samedi* ; **gr.** *grand, devant froid*.
+- *l. 22* : **22** **Gdes** *Grandes*.
 
 * * *
 
-**l.~2 :** Levé tôt : grande attaque bouclée du L, petit groupe e/v, finale accentuée, comparables aux Levé des Scans #005 et #012. La barre de la date au-dessus avait favorisé la lecture Très. **l.~3--5 :** Staff du bureau de la Mission venu payer la solde ; son grade n’est pas précisé. **l.~14 :** After dinner est suivi d’une phrase française.
+l. 2 : Levé est confirmé par la grande attaque bouclée et la finale accentuée ; la barre du titre ne fait pas partie du mot. l. 3–5 : staff désigne ici un membre du personnel du bureau ; aucun grade n’est précisé. Vth Army H.Q. signifie quartier général de la cinquième armée. l. 14 : After dinner est une locution anglaise insérée dans une phrase française ; lgt développe longtemps. l. 15 : pamphlets peut avoir le sens anglais de brochures ou opuscules ; un contenu polémique ne peut être présumé. l. 16 : compte sous le récit, crochet autographe à gauche. l. 22 : Gdes développe Grandes devant rafales.
 
 > **l.~3--15 :** Staff du bureau de la Mission, Vth Army H.Q., venu payer la solde ; le départ du H.Q. et des troupes explique la tranquillité dans le récit. Le nouvel emplacement à Albert et le but opérationnel Bullecourt ne sont pas donnés. Conversation avec Wentworth sur l’Australie le soir : son identité reste distincte de Gilbert, dit de Jersey au Scan 179.
 
@@ -8495,6 +9166,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Beauquesne est un ajout visible, pas une déduction d’itinéraire..
+
+- **Apparat révisé intégralement sur l'image** : 6 entrées contrôlées.
 
 ```text
  1 | Pâques — 8 —          Avril 1917
@@ -8521,14 +9194,15 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | nouveau l'hiver, hélas!
 ```
 
-- *l. 2* : **2 mervt** *abbr. pro* merveilleusement. **2 1/2** *scil.* demi / moitié.
-- *l. 4* : **4 ds** *abbr. pro* dans.
-- *l. 8* : **8 s.** *abbr. pro* soir.
-- *l. 11* : **11 abst** *abbr. pro* absolument.
+- *l. 2* : **2** **1/2 après-midi** Une moitié de l’après-midi ; fraction désignant ici une durée, non le milieu du jour ; **mervt** *merveilleusement, adverbe de beau*.
+- *l. 4* : **4** **ds** *dans*.
+- *l. 7* : **7** **Beauquesne** Nom ajouté d’une écriture plus fine à droite de Rubempré, après un tiret.
+- *l. 11* : **11** **abst** *absolument*.
+- *l. 13* : **13** **Gdes** *Grandes*.
 
 * * *
 
-**l.~7 Beauquesne :** Ajouté d'une écriture plus fine à l'extrémité droite de la ligne. **l.~9 Visité famille Denis :** Première mention de la famille Denis à Hérissart, chez qui Hippolyte passera désormais plusieurs soirées amicales (voir Scans #180, #182, #183, #184).
+l. 2 : mervt développe merveilleusement devant beau ; 1/2 après-midi indique une durée. l. 7 : Beauquesne est ajouté d’une écriture plus fine à l’extrémité droite du parcours, après Rubempré. l. 9 : la visite à la famille Denis est explicitement nommée ; les soirées ultérieures sont recensées au commentaire historique, sans les transformer en contenu de cette ligne. l. 13 : Gdes développe Grandes devant averses.
 
 > **l.~1--22 :** Notaire Bienaimé à Toutencourt, tournée Harponville/Rubempré/Beauquesne et visite de la famille Denis le 8 avril. Visité ne prouve ni une première rencontre ni une soirée passée chez eux. Le mauvais temps des 9/10 est local ; un parallèle chronologique avec Arras ne démontre pas l’identité météorologique entre les lieux.
 
@@ -8541,6 +9215,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Portée de l’amitié avec Gilbert au-delà de cette première conversation.; Aucun rapport causal à Bullecourt établi par la page..
+
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
 
 ```text
  1 | Merc. 11 —          — Avril 1917 —
@@ -8570,19 +9246,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | de Jersey, il est très instruit et poète.
 ```
 
-- *l. 1* : **1 Merc.** *scil.* Mercredi.
-- *l. 5* : **5 lgt** *abbr. pro* longtemps.
-- *l. 9* : **9** *in marg. cum unco* (comptes). **9 f.** *abbr. pro* franc(s).
-- *l. 10* : **10 f.** *abbr. pro* franc(s). **10 canteen** *angl. in ms.*
-- *l. 11* : **11 Cartes ples** *abbr. pro* Cartes postales. **11 c.** *abbr. pro* centimes.
-- *l. 12* : **12 Tre** *abbr. pro* Teinture. **12 f.** *abbr. pro* franc(s).
-- *l. 13* : **13 f.** *abbr. pro* franc(s). **13 c.** *abbr. pro* centimes.
-- *l. 19* : **19 Ven.** *scil.* Vendredi.
-- *l. 24* : **24 Lt** *abbr. pro* Lieutenant. **24 long talk** *angl. in ms.*
+- *l. 1* : **1** **Merc.** *mercredi*.
+- *l. 5* : **5** **lgt** *longtemps*.
+- *l. 9* : **9** **[ A Doullens** Bloc de dépenses sous le récit du mercredi, réuni par un grand crochet autographe à gauche ; **(10 f. 50 + 14 f. = 24 f. 50)** Addition écrite et entourée d’un contour oblique ; le total 24 francs 50 n’est pas un calcul ajouté par l’éditeur.
+- *l. 10* : **10** **canteen** *angl.* Cantine, anglais ; mot placé entre parenthèses autographes.
+- *l. 11* : **11** **géog.** *géographiques* ; **ples** *postales*.
+- *l. 12* : **12** **Varia** *lat.* Diverses dépenses, latin : choses diverses ; **Tre** *Teinture, devant d’iode*.
+- *l. 19* : **19** **Ven.** *vendredi*.
+- *l. 24* : **24** **long talk** *angl.* Longue conversation, anglais ; **Secd Lt** *Second Lieutenant : sous-lieutenant, grade britannique*.
 
 * * *
 
-**l.~9--13 :** Encadré d’achats et montants : ceinture de cuir, cacao, cartes, semelles et produits de pharmacie ; le total de la ceinture est écrit 24 f 50. **l.~24--25 :** Long talk avec Secd Lt Gilbert, de Jersey, dit très instruit et poète. Cette conversation ouvre la série des mentions de Gilbert dans ces vues, sans définir à elle seule l’intensité ou la durée d’une amitié.
+l. 9–13 : bloc de dépenses sous un grand crochet à gauche. L’addition de la ceinture, 10 f 50 + 14 f = 24 f 50, est autographe et entourée d’un contour oblique. (canteen) et (Somme) sont des parenthèses écrites. géog. et ples développent géographiques et postales ; Tre est Teinture dans teinture d’iode. Varia est le latin choses diverses, ici diverses dépenses. l. 24–25 : long talk signifie longue conversation et Secd Lt sous-lieutenant ; Gilbert est dit de Jersey, instruit et poète. La seule mention ne permet pas de fixer l’intensité ou la durée d’une amitié.
 
 > **l.~3--25 :** Neige et achats du 11 avril, puis conversation avec Secd Lt Gilbert le 13, dit de Jersey, instruit et poète. Cette origine n’établit pas une langue maternelle française. Les rencontres continuent aux Scans 181, 185 et 186. Le contexte de Bullecourt du 11 avril est documenté par le \href{https://anzacportal.dva.gov.au/resources/1917-bapaume-and-bullecourt}{Department of Veterans’ Affairs} ; aucune causalité n’est démontrée avec la neige observée ici.
 
@@ -8595,6 +9270,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : La pluie d’Hérissart ne prouve pas celle du Chemin des Dames..
+
+- **Apparat révisé intégralement sur l'image** : 7 entrées contrôlées.
 
 ```text
  1 | 14 Sam.          — Avril 1917 —
@@ -8621,15 +9298,16 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | Fréchencourt & Rubempré.
 ```
 
-- *l. 1* : **1 Sam.** *scil.* Samedi.
-- *l. 6* : **6 Dim.** *scil.* Dimanche.
-- *l. 10* : **10** *in marg. cum unco* (comptes). **10 c.** *abbr. pro* centimes.
-- *l. 15* : **15 home** *angl. in ms.*
-- *l. 16* : **16 ds** *abbr. pro* dans.
+- *l. 1* : **1** **Sam.** *samedi*.
+- *l. 6* : **6** **Dim.** *dimanche*.
+- *l. 9* : **9** **office** *angl.* Bureau, anglais.
+- *l. 10* : **10** **[ Washing** Compte de blanchissage sous le dimanche, précédé d’une équerre autographe à gauche ; **Washing** *angl.* Blanchissage, anglais.
+- *l. 15* : **15** **home** *angl.* Au logement, chez soi, anglais employé adverbialement après Rentré.
+- *l. 16* : **16** **ds** *dans*.
 
 * * *
 
-**l.~14--15 :** Home est un emploi adverbial anglais dans une phrase française (« Rentré home »). Il désigne le retour au logement dans ce contexte ; le mot seul ne démontre pas un état affectif ou l’appropriation psychologique du billet.
+l. 9 : office désigne le bureau. l. 10 : compte isolé de blanchissage, précédé d’une équerre à gauche ; aucun crochet droit distinct n’est nécessaire pour reconnaître cette disposition. l. 14–16 : home est employé comme adverbe dans Rentré home, retour au logement. Le mot seul ne démontre ni une appropriation affective du cantonnement ni un état psychologique particulier. Les journées sont séparées par des espaces et des titres soulignés.
 
 > **l.~11--22 :** Très fortes pluies le 16 avril, soirée chez les Denis, retour home, puis neige et grêle le 17 et tournées à Fréchencourt et Rubempré. La coïncidence du 16 avec le Chemin des Dames fournit un repère chronologique, pas la preuve d’un même régime météorologique.
 
@@ -8642,6 +9320,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Ribemont souscrit : ajout d’étape ou correction de Buire non déterminé.; Causalité ou éventuel lapsus 1915 non démontré ; chiffre 5 conservé.; Stuck : immobilisation ; cause précise non indiquée..
+
+- **Apparat révisé intégralement sur l'image** : 8 entrées contrôlées.
+- **Réserves de l'apparat** : C; a; u; s; e;  ; m; é; c; a; n; i; q; u; e;  ; e; x; a; c; t; e;  ; d; e;  ; l; ’; i; m; m; o; b; i; l; i; s; a; t; i; o; n;  ; n; o; n;  ; i; n; d; i; q; u; é; e;  ; ;;  ; v; a; l; e; u; r;  ; a; f; f; e; c; t; i; v; e;  ; d; e;  ; Q; u; e; l; s;  ; t; y; p; e; s; !;  ; n; o; n;  ; e; x; p; l; i; c; i; t; é; e; ..
 
 ```text
  1 | 18 Merc. —          — Avril 1917 —
@@ -8668,14 +9349,17 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 22 | qui m'ont fait meilleur accueil —
 ```
 
-- *l. 1* : **1 Merc.** *scil.* Mercredi.
-- *l. 4* : **4 workshops** *angl. in ms.*
-- *l. 6* : **6 Qq** *abbr. pro* Quelque(s).
-- *l. 18* : **18 stuck** *angl. in ms.* Ribemont ajouté sous Buire, sans parenthèses autographes.
+- *l. 1* : **1** **Merc.** *mercredi*.
+- *l. 4* : **4** **workshops** *angl.* Ateliers de réparation, anglais.
+- *l. 6* : **6** **Qq** *Quelques*.
+- *l. 10* : **10** **1ers** *premiers, au pluriel après 3*.
+- *l. 11* : **11** **1915** Dernier chiffre 5 lisible ; la date autographe est conservée et ne doit pas être corrigée en 1916 sans preuve.
+- *l. 12* : **12** **Lieut.** *lieutenant*.
+- *l. 18* : **18** **Ribemont** Toponyme ajouté sous Buire, sans parenthèses autographes ; ne pas interpréter d’office cet ajout comme une substitution ; **stuck** *angl.* Coincés ou immobilisés, anglais ; le texte indique ensuite l’aide nécessaire pour dégager l’automobile.
 
 * * *
 
-**l.~11 juillet 1915 :** Le dernier chiffre est nettement un 5. Aucun « lapsus évident » ne peut être établi à partir de cette page ; la date est conservée, sans correction en 1916. **l.~18--20 stuck :** Immobilisation de l’automobile, dégagée avec l’aide d’Australiens. Le jugement « Quels types! » ne précise pas à lui seul s’il est admiratif, amusé ou ironique. **l.~18 :** Ribemont est ajouté sous Buire ; les parenthèses de la base étaient éditoriales. L’ajout est signalé sans l’interpréter comme une correction de toponyme.
+l. 6 : Qq développe Quelques devant averses. l. 10 : 1ers signifie premiers, au pluriel. l. 11 : la date est juillet 1915, dernier chiffre 5 net ; la page ne prouve aucun lapsus et n’autorise pas une correction en 1916. l. 18 : Ribemont est ajouté sous Buire, sans parenthèses ; l’ajout est signalé sans le transformer en remplacement de toponyme. stuck signifie coincés ou immobilisés ; le type exact d’immobilisation n’est pas décrit. l. 20 : Quels types! ne suffit pas à décider si le jugement est admiratif, amusé ou ironique.
 
 > **l.~8--22 :** Revue de Bresle, Lavieville, Hénencourt et date 1915 conservée ; soirée avec Gilbert, puis auto immobilisée à Buire et aidée par des Australiens, et accueil des Colart à Ribemont. Stuck ne précise pas le mécanisme de l’immobilisation ni la raison de la présence australienne. Ribemont est ajouté sous Buire, sans parenthèses autographes.
 
@@ -8688,6 +9372,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Mot après « gde carte » : lecture avec[?] à confirmer.; Bte Denis : prénom abrégé à identifier par sources familiales..
+
+- **Apparat révisé intégralement sur l'image** : 11 entrées contrôlées.
+- **Réserves de l'apparat** : D; é; v; e; l; o; p; p; e; m; e; n; t;  ; B; t; e;  ; p; r; o; b; a; b; l; e;  ; ;;  ; l; i; a; i; s; o; n;  ; a; p; r; è; s;  ; c; a; r; t; e;  ; ;;  ; i; d; e; n; t; i; t; é;  ; c; i; v; i; l; e;  ; d; e;  ; D; e; n; i; s;  ; n; o; n;  ; é; t; a; b; l; i; e;  ; p; a; r;  ; l; a;  ; c; o; n; t; r; a; c; t; i; o; n; ..
 
 ```text
  1 | 21 Samedi —          — Avril 1917 —
@@ -8719,17 +9406,18 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 27 | du côté d'Arras —
 ```
 
-- *l. 5* : **5 breakfast** *angl. in ms.*
-- *l. 11* : **11** *in marg. cum unco* (comptes). **11 f.** *abbr. pro* franc(s).
-- *l. 13* : **13 ds** *abbr. pro* dans. **13 f.** *abbr. pro* franc(s).
-- *l. 14* : **14 gde** *abbr. pro* grande. **14 cathle** *abbr. pro* cathédrale. **14 [avec ?]** Lecture non établie.
-- *l. 19* : **19 gd** *abbr. pro* grand.
-- *l. 22* : **22 anti-aircraft battery** *angl. in ms.*
-- *l. 25* : **25 tte** *abbr. pro* toute.
+- *l. 5* : **5** **breakfast** *angl.* Petit déjeuner, anglais.
+- *l. 11* : **11** **[ A Toutencourt** Bloc comptable entre les récits du samedi et du dimanche, réuni par un grand crochet autographe à gauche.
+- *l. 12* : **12** **Bte** *Probablement Baptiste, contraction usuelle de ce prénom ; la forme longue n’est pas écrite et l’identité civile reste distincte de ce développement*.
+- *l. 13* : **13** **ds** *dans*.
+- *l. 14* : **14** **gde** *grande* ; **[avec ?]** Liaison après carte de lecture non établie ; avec reste une proposition, sans exclure une autre construction ; **cathle** *cathédrale*.
+- *l. 19* : **19** **gd** *grand* ; **P.** *Pierregot, toponyme mentionné dans le parcours de la ligne précédente*.
+- *l. 22* : **22** **anti-aircraft battery** *angl.* Batterie antiaérienne, anglais.
+- *l. 25* : **25** **tte** *toute*.
 
 * * *
 
-**l.~12--14 :** Le guide d’A. Martin et une grande carte avec vue de la cathédrale sont portés au compte. La liaison après carte reste douteuse. La formule « pour ma cathédrale » n’est pas une lecture assurée et ne doit pas fonder une interprétation.
+l. 11–14 : comptes réunis par un grand crochet à gauche. Bte développe probablement Baptiste sans établir à lui seul une identité civile. Le texte porte A. Martin : Promenade ds Amiens et mentionne une grande carte, une vue de cathédrale et 2 f 75 ; la liaison après carte reste douteuse. Ni le titre bibliographique exact du guide ni la formule pour ma cathédrale ne doivent être imposés au texte à partir d’une identification extérieure. l. 19 : P. reprend Pierregot et gd développe grand devant moulin. l. 22 : anti-aircraft battery signifie batterie antiaérienne ; aucune unité n’est nommée.
 
 > **l.~2--27 :** Canonnade localisée du côté d’Arras ; l’association certaine à la préparation de la seconde bataille de la Scarpe demanderait le passage précis d’un journal d’opérations. Pour A. Martin, la \href{https://mediatheques.agglo-larochelle.fr/doc/SYRACUSE/199805/une-visite-a-amiens-par-alexis-martin}{notice patrimoniale de La Rochelle} donne *Une visite à Amiens*, Alexis Martin, Hennuyer, 1896 : rapprochement bibliographique possible, sans remplacer le titre Promenade ds Amiens écrit. Bte Denis n’est pas développé avec certitude en Baptiste.
 
@@ -8742,6 +9430,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Localisation exacte du métier à tisser non précisée.; Nom Mignot et prénom Louise ; leurs identités restent à documenter..
+
+- **Apparat révisé intégralement sur l'image** : 10 entrées contrôlées.
+- **Réserves de l'apparat** : L; i; e; n;  ; d; e;  ; L; o; u; i; s; e;  ; a; v; e; c;  ; M; m; e;  ; M; i; g; n; o; t;  ; n; o; n;  ; e; x; p; l; i; c; i; t; é;  ; p; a; r;  ; c; e; t; t; e;  ; p; a; r; e; n; t; h; è; s; e; ..
 
 ```text
  1 | 23 Lundi —          Avril 1917
@@ -8771,16 +9462,19 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 25 | Soirée passée chez la famille Denis, à Hérissart —
 ```
 
-- *l. 5* : **5 s/** *abbr. pro* sur.
-- *l. 6* : **6 sunset** *angl. in ms.*
-- *l. 9* : **9 Ds** *abbr. pro* Dans.
-- *l. 18* : **18 sunset** *angl. in ms.*
-- *l. 19* : **19 Merc.** *scil.* Mercredi.
-- *l. 23* : **23 Mme** *abbr. pro* Madame.
+- *l. 3* : **3** **Métier à tisser** Brève note après les deux localités ; les mots sont soulignés.
+- *l. 5* : **5** **s/** *sur*.
+- *l. 6* : **6** **sunset** *angl.* Coucher de soleil, anglais.
+- *l. 9* : **9** **Ds** *Dans*.
+- *l. 12* : **12** **Tempér.** *température*.
+- *l. 18* : **18** **sunset** *angl.* Coucher de soleil, anglais.
+- *l. 19* : **19** **Merc.** *mercredi*.
+- *l. 23* : **23** **chz** *chez* ; **Mme** *Madame*.
+- *l. 24* : **24** **(et Louise)** Complément entre parenthèses autographes, placé sous la fin de la ligne précédente.
 
 * * *
 
-**l.~3 Métier à tisser :** Note très brève après les deux localités ; aucun tisserand à domicile n’est nommé. **l.~8--18 :** Description autographe de la lumière, des bourgeons et des horizons violets.
+l. 3 : Métier à tisser est une note brève soulignée ; elle ne nomme aucun tisserand ni domicile. l. 12 : Tempér. abrège température. l. 8–18 : les descriptions de lumière, des bourgeons et des horizons sont autographes ; sunset est le coucher de soleil. l. 23–24 : chz développe chez et Mme Madame ; (et Louise) est une parenthèse autographe sous la fin de la mention de Mme Mignot, sans lien familial explicité ici.
 
 > **l.~3--25 :** Métier à tisser brièvement noté, sans qualificatif domestique ni production textile indiquée ; vues sur Beaucourt et Montigny, puis lecture chez Mme Mignot avec mention de Louise et soirée chez les Denis. Le lien mère-fille Mignot/Louise et les compléments des toponymes restent à documenter.
 
@@ -8793,6 +9487,8 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Identité de la famille Mortreux et profession non données dans la page..
+
+- **Apparat révisé intégralement sur l'image** : 4 entrées contrôlées.
 
 ```text
  1 | 26 Jeudi.          — Avril 1917 —
@@ -8813,13 +9509,14 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 16 | Soirée, chez les Denis, à Hérissart.
 ```
 
-- *l. 6* : **6 dug-outs** *angl. in ms.*
-- *l. 8* : **8 merveillet** *abbr. pro* merveilleusement.
-- *l. 9* : **9 Ven.** *scil.* Vendredi.
+- *l. 6* : **6** **dug-outs** *angl.* Abris creusés dans le sol, anglais militaire.
+- *l. 8* : **8** **merveillet** *merveilleusement, adverbe d’étoilée*.
+- *l. 9* : **9** **Ven.** *vendredi*.
+- *l. 11* : **11** **av.** *avec*.
 
 * * *
 
-**l.~6 :** Dug-outs, emprunt militaire britannique pour des abris creusés, conservé dans la transcription. La présence de craie, l’aménagement et la profondeur de ces abris ne sont pas décrits.
+l. 6 : dug-outs désigne des abris creusés dans le sol ; ni matériau, ni profondeur, ni aménagement ne sont décrits. l. 8 : merveillet est une contraction de merveilleusement, adverbe d’étoilée. l. 11 : av. abrège avec, omission de l’ancien appareil. l. 13–14 : la ponctuation reliant le retour à pied et l’auto continuant sur Varennes est éditoriale ; elle ne transforme pas la seconde proposition en phrase indépendante du manuscrit.
 
 > **l.~4--16 :** Tournées et promenade le long de dug-outs et tranchées ; visites à la famille Mortreux à Varennes et aux Denis. Ancienneté des abris, usage d’exercice des tranchées et profession des Mortreux ne sont pas précisés.
 
@@ -8833,9 +9530,12 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Raison du séjour de l’officier à Bournemouth non dite.; Le projet Cambrai ne prouve pas un départ exécuté..
 
+- **Apparat révisé intégralement sur l'image** : 12 entrées contrôlées.
+- **Réserves de l'apparat** : T; y; p; e;  ; p; r; é; c; i; s;  ; d; u;  ; w; a; t; e; r; -; c; a; r; t;  ; n; o; n;  ; i; n; d; i; q; u; é; ..
+
 ```text
  1 | 28 Samedi —          — Avril 1917 —
- 2 | Commencemt jour, temps couvert.
+ 2 | Commt jour, temps couvert.
  3 | Fin matin et tout le jour, très beau soleil.
  4 | Vers 5h 1/4, sortis en auto, course à Pierregot.
  5 | Off., retour de Bournemouth, m'a appris que
@@ -8859,19 +9559,21 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 23 | Nuit superbe, mervt étoilée et claire.
 ```
 
-- *l. 6* : **6 ns** *abbr. pro* nous.
-- *l. 7* : **7 bcp** *abbr. pro* beaucoup.
-- *l. 10* : **10 lunch** *angl. in ms.*
-- *l. 12* : **12 Dim.** *scil.* Dimanche.
-- *l. 16* : **16 lift** *angl. in ms.*
-- *l. 17* : **17 water-cart** *angl. in ms.*
-- *l. 19* : **19 Lt** *abbr. pro* Lieutenant. **19 cie** *abbr. pro* compagnie.
-- *l. 22* : **22 sunset** *angl. in ms.*
-- *l. 23* : **23 mervt** *abbr. pro* merveilleusement.
+- *l. 2* : **2** **Commt** *commencement ; la forme courte Commt est rétablie, du n’est pas écrit*.
+- *l. 5* : **5** **Off.** *Officier, singulier*.
+- *l. 6* : **6** **ns** *nous ; contraction répétée deux fois sur cette ligne*.
+- *l. 7* : **7** **bcp** *beaucoup*.
+- *l. 10* : **10** **lunch** *angl.* Repas de midi, anglais.
+- *l. 12* : **12** **Dim.** *dimanche*.
+- *l. 16* : **16** **lift** *angl.* Transport obtenu en chemin, anglais ; se faire prendre sur un véhicule.
+- *l. 17* : **17** **water-cart** *angl.* Voiture à eau, anglais ; le type et l’unité d’appartenance ne sont pas précisés.
+- *l. 19* : **19** **cie** *compagnie, dans en compagnie du lieutenant ; du n’est pas écrit* ; **Lt** *lieutenant*.
+- *l. 22* : **22** **sunset** *angl.* Coucher de soleil, anglais.
+- *l. 23* : **23** **mervt** *merveilleusement, adverbe d’étoilée et claire*.
 
 * * *
 
-**l.~7--9 :** Le regret annoncé porte sur les points de vue et panoramas d’Hérissart ; « c’est la guerre » termine la remarque. La valeur de havre de paix reste une interprétation de ces propos. **l.~16--17 :** Lift et water-cart sont des emprunts anglais : transport obtenu en chemin, sur une voiture à eau. Le type précis et l’unité propriétaire de cette voiture ne sont pas nommés.
+l. 2 : Commt est la forme courte autographe de commencement, rétablie à la place de Commencemt ; la syntaxe sans du est conservée. l. 5 : Off. est singulier ; l. 6 présente deux ns, développés nous. l. 7–9 : le regret porte sur les points de vue et panoramas d’Hérissart, suivi de c’est la guerre ; l’expression havre de paix serait interprétative. l. 16–17 : lift et water-cart sont traduits transport obtenu en chemin et voiture à eau, sans préciser un modèle ou une unité. l. 19 : cie abrège compagnie et Lt lieutenant ; aucun du n’est ajouté à la transcription.
 
 > **l.~4--21 :** L’officier revenu de Bournemouth annonce un projet de départ vers Cambrai ; le carnet ne le mène pas jusqu’à réalisation. Deux ressorts cassés, retour à pied puis lift sur water-cart, et conversation avec Gilbert sont écrits. Aucune permission, convalescence, unité propriétaire de la voiture ou mission de poursuite n’est indiquée.
 
@@ -8884,6 +9586,9 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 
 - **Révision du 15 octobre 2026** : collation ligne a ligne.
 - **Points ouverts** : Syntaxe elliptique de « auto chassé lapin sauvage » ; ne prouve pas un accident.; Le statut de dernière photographie ne prouve pas à lui seul la dernière page matérielle du carnet..
+
+- **Apparat révisé intégralement sur l'image** : 6 entrées contrôlées.
+- **Réserves de l'apparat** : I; n; t; é; g; r; a; l; i; t; é;  ; m; a; t; é; r; i; e; l; l; e;  ; d; u;  ; c; a; r; n; e; t;  ; n; o; n;  ; d; é; m; o; n; t; r; é; e;  ; p; a; r;  ; l; a;  ; s; e; u; l; e;  ; d; e; r; n; i; è; r; e;  ; p; h; o; t; o; g; r; a; p; h; i; e; ..
 
 ```text
  1 | 30 Lundi. —          Avril 1917 —
@@ -8905,15 +9610,14 @@ Relecture de la photographie entière et du recadrage natif du bas : le l haut, 
 17 | A Hénencourt, miroir de poche : 50 c. ]
 ```
 
-- *l. 7* : **7 Lt** *abbr. pro* Lieutenant. **7 cie** *abbr. pro* compagnie.
-- *l. 12* : **12 tea** *angl. in ms.*
-- *l. 15* : **15 mervt** *abbr. pro* merveilleusement.
-- *l. 16* : **16** *in marg. cum unco* (comptes). **16 c.** *abbr. pro* centimes.
-- *l. 17* : **17 c.** *abbr. pro* centimes.
+- *l. 7* : **7** **cie** *compagnie, dans en compagnie du lieutenant ; du n’est pas écrit* ; **Lt** *lieutenant*.
+- *l. 12* : **12** **tea-dinner** *angl.* Thé-dîner, repas du soir associé au thé, anglais ; traduire le composé entier.
+- *l. 15* : **15** **mervt** *merveilleusement, adverbe d’éclairée*.
+- *l. 16* : **16** **[ Washing** Deux comptes au pied de la page, après un grand espace, réunis par un crochet autographe à gauche ; **Washing** *angl.* Blanchissage, anglais.
 
 * * *
 
-**l.~9 Route, auto chassé lapin sauvage :** Lecture contrôlée au grossissement : « lapin sauvage » est visible. La syntaxe est elliptique ; aucun accident n’est explicitement décrit. **l.~1--17 :** Dernière photographie de la série disponible, datée du 30 avril 1917, date également portée sur la couverture. Cette concordance ne démontre pas à elle seule l’intégralité matérielle du carnet.
+l. 7 : cie et Lt développent compagnie et lieutenant ; l’absence de du relève de la syntaxe elliptique. l. 9 : lapin sauvage est confirmé ; le texte ne décrit pas expressément un accident ni une collision. l. 12 : tea-dinner est un composé anglais à expliquer dans son ensemble, non par une note sur tea seul. l. 15 : mervt développe merveilleusement, adverbe d’éclairée. l. 16–17 : comptes de blanchissage et de miroir au pied de la page, réunis par un grand crochet gauche. Cette dernière photographie est datée du 30 avril, comme la date finale de couverture ; cette concordance ne démontre pas l’intégralité matérielle du carnet.
 
 > **l.~3--17 :** Dernière photographie datée du 30 avril 1917, borne également inscrite sur la couverture. Les tournées et Gilbert appartiennent au récit ; la concordance ne démontre pas l’intégralité matérielle du carnet. Le mariage du 25 octobre 1917 est documenté séparément dans le dossier familial. La fiche militaire distingue ensuite le service et l’affectation des Andelys ; ces étapes ne datent pas cette vue.
 

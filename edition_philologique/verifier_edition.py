@@ -187,6 +187,69 @@ def check_records(records, checks):
             checks.require(by_num[91][key] == by_num[93][key], f'Photograph duplicate 091/093: different {key}')
 
 
+def check_apparatus(records, prior_records, checks):
+    """Check the new layer separately from the immutable earlier revision."""
+    from apparat_critique import DOSSIER, MANIFEST, validate_entries, render_notes, load_manifest
+    if not MANIFEST.exists():
+        return
+    try:
+        data = load_manifest()
+    except Exception as exc:
+        checks.require(False, f'Apparatus manifest: {exc}')
+        return
+    frozen = read_json(DOSSIER / 'base_edition.json', checks)
+    checks.require(prior_records == frozen, 'Apparatus: earlier edition no longer reproduces the frozen baseline')
+    patches, reviews = data.get('patches', []), data.get('reviews', [])
+    checks.ids([p.get('scan_num') for p in patches], 'Apparatus patches')
+    checks.ids([r.get('scan_num') for r in reviews], 'Apparatus image reviews')
+    source_patches, source_reviews = [], []
+    for source in data['proposal_files']:
+        proposal = read_json(DOSSIER / source['path'], checks)
+        if isinstance(proposal, dict):
+            source_patches.extend(proposal.get('patches', []))
+            source_reviews.extend(proposal.get('reviews', []))
+    checks.require(patches == sorted(source_patches, key=lambda p: p['scan_num']),
+                   'Apparatus: accepted patches differ from reviewed proposal files')
+    checks.require(reviews == sorted(source_reviews, key=lambda r: r['scan_num']),
+                   'Apparatus: accepted reviews differ from reviewed proposal files')
+    by_num = {r['scan_num']: r for r in records}
+    old = {r['scan_num']: r for r in prior_records}
+    for patch in patches:
+        n = patch['scan_num']
+        record = by_num[n]
+        checks.require(bool(patch.get('evidence')), f'Apparatus {n:03d}: evidence missing')
+        for key, value in patch['originals'].items():
+            checks.require(old[n].get(key) == value, f'Apparatus {n:03d}: original guard differs for {key}')
+        for key, value in patch['changes'].items():
+            checks.require(record.get(key) == value, f'Apparatus {n:03d}: accepted change differs for {key}')
+        entries = patch['entries']
+        try:
+            validate_entries(entries, record['lines'], n)
+        except ValueError as exc:
+            checks.require(False, str(exc))
+        checks.require(record.get('apparat_entries') == entries, f'Apparatus {n:03d}: structured entries differ')
+        checks.require(record.get('marginal_notes') == render_notes(entries), f'Apparatus {n:03d}: rendered notes differ or are truncated')
+        checks.require(record.get('apparat_evidence') == patch['evidence'], f'Apparatus {n:03d}: evidence differs')
+        for line_no, line in enumerate(record['lines'], 1):
+            # Editorial doubts and deletions need a corresponding anchored note.
+            # This checks coverage, not the philological interpretation itself.
+            for pattern, kind in [(r'⟦[^⟧]*⟧', 'rature'),
+                                  (r'\[[^\[\]]*(?:\?|illis|incertain|non établi)[^\[\]]*\]', 'lecture')]:
+                for match in re.finditer(pattern, line):
+                    if kind == 'lecture' and any(m.start() <= match.start() < m.end() for m in re.finditer(r'⟦[^⟧]*⟧', line)):
+                        continue
+                    accepted_kinds = (kind, 'ajout', 'rature') if 'biff' in match.group() else (kind, 'ajout')
+                    covered = any(e['line'] == line_no and e['kind'] in accepted_kinds and
+                                  any(m.start() < match.end() and m.end() > match.start()
+                                      for m in re.finditer(re.escape(e['lemma']), line)) for e in entries)
+                    checks.require(covered, f'Apparatus {n:03d}/{line_no}: {kind} marker lacks anchored entry: {match.group()}')
+    for review in reviews:
+        record = by_num[review['scan_num']]
+        checks.require(record.get('apparat_revision') == review, f"Apparatus {review['scan_num']:03d}: review differs")
+        checks.require(review.get('controlled_lines', review.get('checked_lines')) == list(range(1, len(record['lines'])+1)),
+                       f"Apparatus {review['scan_num']:03d}: incomplete line coverage")
+
+
 def check_exports(records, md_path, tex_path, checks):
     for path in (md_path, tex_path):
         if not checks.require(path.is_file(), f'Missing artifact: {path}'):
@@ -203,6 +266,10 @@ def check_exports(records, md_path, tex_path, checks):
                    'TeX spread photograph sequence differs from JSON')
     included = re.findall(r'\\includegraphics(?:\[[^\]]*\])?\s*\{\\facsimiledir/([^}]+)\}', tex)
     checks.require(included == [r['filename'] for r in records], 'TeX facsimile inclusion sequence differs from JSON')
+    from generate_edition import build_spread_latex
+    for record in records:
+        checks.require(build_spread_latex(record) in tex,
+                       f"TeX scan {record['scan_num']:03d}: complete current transcription/apparatus/commentary spread absent")
 
 
 def ascii_text(text):
@@ -225,6 +292,9 @@ def check_pdf(records, pdf_path, tolerance, checks):
     except Exception as exc:
         checks.require(False, f'Cannot open PDF: {exc}')
         return None
+    records_digest = hashlib.sha256(json.dumps(records, ensure_ascii=False, sort_keys=True).encode('utf-8')).hexdigest()
+    checks.require('edition-records-sha256:' + records_digest in (document.metadata.get('keywords') or ''),
+                   'PDF metadata: source records SHA-256 differs (PDF may precede current apparatus)')
     transcriptions, facsimiles = {}, {}
     page_texts = []
     for page_no, page in enumerate(document):
@@ -326,10 +396,12 @@ def main():
     if not isinstance(records, list) or not all(isinstance(r, dict) for r in records):
         checks.require(False, 'Export must be a list of record objects')
     else:
+        prior_records = None
         try:
             sys.path.insert(0, str(EDITION_DIR))
             builder = importlib.import_module('parse_all_186').build_all_186_records
             expected = builder()
+            prior_records = builder(apply_apparatus=False)
             checks.require(records == expected, 'JSON export differs from a fresh build_all_186_records()')
             if records != expected:
                 differing = [r.get('scan_num') for r, s in zip(records, expected) if r != s]
@@ -337,7 +409,9 @@ def main():
         except Exception as exc:
             checks.require(False, f'Fresh parser build failed (possible concurrent source change): {exc}')
         check_records(records, checks)
-        check_revision(records, args.revision, checks)
+        if prior_records is not None:
+            check_revision(prior_records, args.revision, checks)
+            check_apparatus(records, prior_records, checks)
         check_exports(records, args.markdown, args.tex, checks)
         pages = check_pdf(records, args.pdf, args.tolerance, checks)
         logs = args.log

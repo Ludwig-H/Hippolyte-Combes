@@ -4,6 +4,8 @@ Ce dépôt réunit les photographies du *Livre-Journal* d’Hippolyte Combes, da
 
 Après une première collation, une étude comparative de l’écriture a précédé une **seconde relecture intégrale des 186 vues**. Elle apporte des corrections aux lignes transcrites de **49 vues** et concilie les commentaires historiques des 186 vues avec le travail parallèle de l’autre développeur. L’atlas conserve **88 extraits natifs de 54 photographies**, ainsi qu’une concordance des tours de langue. Les lectures qui demeurent ouvertes restent explicitement signalées dans l’édition.
 
+La **révision intégrale de l’apparat critique** est documentée séparément dans le [dossier de contrôle](edition_philologique/apparat_critique_2026_10/README.md) : les 186 vues ont été contrôlées et portent 2 467 entrées à lemmes exacts, avec développements contextuels et réserves explicites. Neuf vues reçoivent aussi un ajustement des lignes. Le PDF adopte le format 185 × 270 mm pour maintenir le vis-à-vis avec l’apparat complet.
+
 ## Lire l’édition et ses réserves
 
 - [Édition en PDF](edition_philologique/carnet_hippolyte_combes.pdf), avec transcription et photographie en vis-à-vis, apparat marginal et commentaires.
@@ -33,13 +35,15 @@ Les modules [data_scans_001_074.py](edition_philologique/data_scans_001_074.py),
 
 Les propositions de la seconde passe sont réunies dans [relecture_integrale_2026_10/](edition_philologique/relecture_integrale_2026_10/), avec les états antérieurs archivés. [assembler_relecture.py](edition_philologique/assembler_relecture.py) les consolide avec la première passe dans `revision_2026_10/corrections_validees.json` et vérifie les empreintes des modules sources. [revision_philologique.py](edition_philologique/revision_philologique.py) applique cette couche de corrections en contrôlant les valeurs remplacées. Une modification concurrente de la base doit être conciliée avant un nouvel assemblage.
 
+[assembler_apparat.py](edition_philologique/assembler_apparat.py) consolide la nouvelle révision de l’apparat en conservant la couche précédente comme base gardée. L’ancien assembleur refuse de remplacer cette base une fois l’apparat appliqué.
+
 [parse_all_186.py](edition_philologique/parse_all_186.py) produit les exports JSON et Markdown ; [generate_edition.py](edition_philologique/generate_edition.py) produit le [LaTeX](edition_philologique/carnet_hippolyte_combes.tex), puis XeLaTeX compile le PDF. Ces exports sont générés : les corrections doivent rester traçables dans les données et propositions qui les alimentent.
 
 La reproduction demande Python avec `python-docx`, `Pillow` et `PyMuPDF`, ainsi qu’une installation TeX comprenant XeLaTeX et les paquets utilisés par le document. Depuis la racine du dépôt :
 
 ```bash
 python -m pip install python-docx Pillow PyMuPDF
-python edition_philologique/assembler_relecture.py
+python edition_philologique/assembler_apparat.py
 python edition_philologique/parse_all_186.py
 python edition_philologique/generate_edition.py
 cd edition_philologique

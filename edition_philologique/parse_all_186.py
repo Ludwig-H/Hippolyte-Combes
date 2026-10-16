@@ -657,7 +657,7 @@ def clean_line_and_extract_note(raw_line, line_no):
     return line, " ".join(dedup_notes)
 
 
-def build_all_186_records(apply_revision=True):
+def build_all_186_records(apply_revision=True, apply_apparatus=True):
     files = get_sorted_scan_filenames()
     docs = parse_docx_blocks() if any("lines" not in SCANS_001_074_META[n] for n in range(1, 75)) else []
 
@@ -742,6 +742,9 @@ def build_all_186_records(apply_revision=True):
     if apply_revision:
         from revision_philologique import apply_verified_corrections
         records = apply_verified_corrections(records, clean_line_and_extract_note)
+        if apply_apparatus:
+            from apparat_critique import apply_apparatus as apply_reviewed_apparatus
+            records = apply_reviewed_apparatus(records)
     return records
 
 
@@ -765,6 +768,13 @@ def export_transcriptions(records):
                 f.write(f"- **Révision du 15 octobre 2026** : {label}.\n")
                 if review.get("remaining_uncertainties"):
                     f.write("- **Points ouverts** : " + "; ".join(review["remaining_uncertainties"]) + ".\n")
+                f.write("\n")
+            if "apparat_revision" in r:
+                review = r["apparat_revision"]
+                count = len(r.get("apparat_entries", []))
+                f.write(f"- **Apparat révisé intégralement sur l'image** : {count} entrées contrôlées.\n")
+                if review.get("remaining_uncertainties"):
+                    f.write("- **Réserves de l'apparat** : " + "; ".join(review["remaining_uncertainties"]) + ".\n")
                 f.write("\n")
             f.write("```text\n")
             for idx, l in enumerate(r["lines"], 1):

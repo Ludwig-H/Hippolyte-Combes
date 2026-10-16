@@ -16,6 +16,7 @@ modeled on Louis Hauseux's edition of Aristophanes' Thesmophories:
 import os
 import re
 import json
+import hashlib
 from pathlib import Path
 
 ROOT = str(Path(__file__).resolve().parent.parent)
@@ -225,14 +226,14 @@ def build_spread_latex(rec):
     """
     Generates the exact two-page vis-à-vis LaTeX code for a single scan record:
     - Pure white page background, sober black horizontal rules (no colored boxes).
-    - Sized for the compact notebook format (155 x 225 mm, matching the original carnet proportions).
+    - Sized for the enlarged notebook format (185 x 270 mm, fitting the complete reviewed apparatus).
     - Even (left/verso) page: Diplomatic transcription + horizontally aligned marginal apparatus +
       two unnamed but clearly distinguished bottom commentary registers.
     - Odd (right/recto) page: Full-page facsimile image with archival metadata frame.
     """
     scan_num = rec["scan_num"]
     fname = rec["filename"]
-    fname_esc = fname.replace("_", "\\_")
+    fname_esc = fname.replace("_", "\\_\\allowbreak ")
     folio = sanitize_latex_fragment(rec["folio"])
     title = sanitize_latex_fragment(rec["title"])
     date_str = sanitize_latex_fragment(rec["date"])
@@ -249,7 +250,7 @@ def build_spread_latex(rec):
         return len(s.replace("{", "").replace("}", "").replace("$", ""))
 
     mnotes = dict(raw_mnotes)
-    for k in sorted(list(mnotes.keys())):
+    for k in ([] if 'apparat_entries' in rec else sorted(list(mnotes.keys()))):
         if k not in mnotes:
             continue
         span = 1
@@ -287,7 +288,9 @@ def build_spread_latex(rec):
         left_cell = f"{num_prefix}{line_font}\\strut {esc_l}\\strut"
         if idx in mnotes:
             mn = mnotes[idx]
-            right_cell = f"\\smash{{\\parbox[t]{{39mm}}{{\\fontsize{{6.3pt}}{{7.2pt}}\\selectfont\\raggedright\\color{{black!88}}{mn}}}}}"
+            note_box = f"\\parbox[t]{{55mm}}{{\\fontsize{{6.3pt}}{{7.2pt}}\\selectfont\\raggedright\\color{{black!88}}{mn}}}"
+            right_cell = (f"\\leavevmode\\fontsize{{6.3pt}}{{7.2pt}}\\selectfont\\raggedright\\arraybackslash\\color{{black!88}}{mn}"
+                          if 'apparat_entries' in rec else f"\\smash{{{note_box}}}")
         else:
             right_cell = ""
 
@@ -308,7 +311,7 @@ def build_spread_latex(rec):
 \\noindent\\rule{{\\textwidth}}{{0.35pt}}\\par\\vspace{{1.0mm}}
 % --- Corps de la transcription diplomatique et apparat marginal en prolongement ---
 {{\\renewcommand{{\\arraystretch}}{{{row_stretch}}}%
-\\noindent\\hspace*{{3.5mm}}\\begin{{tabular}}{{@{{}}p{{87mm}}@{{\\hspace{{3.5mm}}}}p{{39mm}}@{{}}}}
+\\noindent\\hspace*{{3.5mm}}\\begin{{tabular}}{{@{{}}p{{100mm}}@{{\\hspace{{3.5mm}}}}p{{55mm}}@{{}}}}
 {rows_joined}
 \\end{{tabular}}}}%
 \\par\\vspace*{{\\fill}}
@@ -332,7 +335,7 @@ def build_spread_latex(rec):
   }}\\par}}
 \\vspace*{{\\fill}}
 \\noindent\\rule{{\\textwidth}}{{0.35pt}}\\par\\vspace{{0.5mm}}
-\\noindent{{\\fontsize{{6pt}}{{7.1pt}}\\selectfont\\color{{darkgray}}\\textbf{{Source :}} Archives familiales Combes — Cliché numérique \\texttt{{{fname_esc}}} (Scan \\#{scan_num:03d}/186, {folio}). Haute définition : \\texttt{{scans\\_haute\\_qualite/{fname_esc}}} ; version allégée : \\texttt{{scans\\_compresses/{fname_esc}}}.}}
+\\noindent{{\\fontsize{{6pt}}{{7.1pt}}\\selectfont\\raggedright\\color{{darkgray}}\\textbf{{Source :}} Archives familiales Combes — Cliché numérique \\texttt{{{fname_esc}}} (Scan \\#{scan_num:03d}/186, {folio}). Haute définition : \\texttt{{scans\\_haute\\_qualite/\\allowbreak {fname_esc}}} ; version allégée : \\texttt{{scans\\_compresses/\\allowbreak {fname_esc}}}.\\par}}
 \\newpage
 """
     return tex
@@ -346,8 +349,8 @@ def generate_full_tex():
     preamble = r"""\documentclass[10pt,twoside,openany]{book}
 \usepackage{fontspec}
 \usepackage[french]{babel}
-% Format petit in-octavo / carnet (155 x 225 mm), proche du livre de poche et homothétique au carnet autographe (ratio ~0,69)
-\usepackage[paperwidth=155mm,paperheight=225mm,top=11mm,bottom=11mm,inner=12mm,outer=10mm,headheight=13.5pt,headsep=3.5mm,footskip=5mm]{geometry}
+% Format agrandi (185 x 270 mm) pour conserver apparat et commentaires en vis-à-vis (ratio ~0,69)
+\usepackage[paperwidth=185mm,paperheight=270mm,top=11mm,bottom=11mm,inner=12mm,outer=10mm,headheight=13.5pt,headsep=3.5mm,footskip=5mm]{geometry}
 \usepackage{graphicx}
 \usepackage{xcolor}
 \usepackage{amsmath,amssymb,amsfonts}
@@ -412,7 +415,7 @@ def generate_full_tex():
 \begin{document}
 
 % =============================================================================
-% 1. PREMIÈRE DE COUVERTURE (SOBRE SUR FOND BLANC PUR, FORMAT CARNET 155x225mm)
+% 1. PREMIÈRE DE COUVERTURE (SOBRE SUR FOND BLANC PUR, FORMAT CARNET AGRANDI 185x270mm)
 % =============================================================================
 \begin{titlepage}
 \thispagestyle{empty}
@@ -525,23 +528,24 @@ Le dossier photographique comprend \textbf{186 clichés numériques}, de \texttt
 
 Cette édition de travail résulte d'une première collation, puis d'une étude comparative de l'écriture suivie d'une seconde relecture intégrale des 186 vues. Un atlas de 88 extraits natifs, issus de 54 photographies, documente les comparaisons dans le dépôt ; cette seconde passe modifie les lignes transcrites de 49 vues. Elle conserve les doutes de lecture. Les observations ci-dessous décrivent des usages fréquents ; elles ne remplacent pas la vérification de chaque tracé.
 \begin{enumerate}
-  \item \textbf{Ductus et système abréviatif d'Hippolyte Combes.} L'écriture d'Hippolyte Combes est une cursive latine penchée, rapide et nerveuse, riche en abréviations par suspension et par lettres suscrites : \textit{ds} (\textit{dans}), \textit{pr} (\textit{pour}), \textit{s/} (\textit{sur}), \textit{j'à / j'au / j'aux} ou \textit{ju} (\textit{jusqu'à, jusqu'au, jusqu'aux}), \textit{lgt / lgs / longt} (\textit{longtemps}), \textit{tt / tte / ts} (\textit{tout, toute, tous}), \textit{tjs / tjours} (\textit{toujours}), \textit{qq} (\textit{quelques}), \textit{gd / gde / gds} (\textit{grand, grande, grands}), \textit{bp / bcp} (\textit{beaucoup}), \textit{cme} (\textit{comme}), \textit{chz} (\textit{chez}), ainsi que les finales adverbiales ou nominales suscrites (\textit{ext\textsuperscript{t}, merv\textsuperscript{t}, défint\textsuperscript{t}, admirab\textsuperscript{t}, appart\textsuperscript{t}, cantonnem\textsuperscript{t}, changem\textsuperscript{t}, propri\textsuperscript{re}, cath\textsuperscript{le}}). Les chiffres peuvent avoir une valeur lexicale : 1 pour un ou une, 1/2 pour demi ou, selon le contexte, milieu. Les signes $+$ et $=$ sont conservés ; leur développement est motivé dans la notice, et non imposé partout.
+  \item \textbf{Ductus et système abréviatif d'Hippolyte Combes.} L'écriture d'Hippolyte Combes est une cursive latine penchée, rapide et nerveuse, riche en abréviations par suspension et par lettres suscrites : \textit{ds} (\textit{dans}), \textit{pr} (\textit{pour} ou \textit{par}, selon la phrase), \textit{s/} (\textit{sur}), \textit{j'à / j'au / j'aux} ou \textit{ju} (\textit{jusqu'à, jusqu'au, jusqu'aux}), \textit{lgt / lgs / longt} (\textit{longtemps}), \textit{tt / tte / ts} (\textit{tout, toute, tous}), \textit{tjs / tjours} (\textit{toujours}), \textit{qq} (\textit{quelque} ou \textit{quelques}, selon la phrase), \textit{gd / gde / gds} (\textit{grand, grande, grands}), \textit{bp / bcp} (\textit{beaucoup}), \textit{cme} (\textit{comme}), \textit{chz} (\textit{chez}), ainsi que les finales adverbiales ou nominales suscrites (\textit{ext\textsuperscript{t}, merv\textsuperscript{t}, défin\textsuperscript{t}, admirab\textsuperscript{t}, appart\textsuperscript{t}, cantonnem\textsuperscript{t}, changem\textsuperscript{t}, propri\textsuperscript{re}, cath\textsuperscript{le}}). Les chiffres peuvent avoir une valeur lexicale : 1 pour un ou une, 1/2 pour demi ou, selon le contexte, milieu. Les signes $+$ et $=$ sont conservés ; leur développement est motivé dans la notice, et non imposé partout.
   \item \textbf{Esperluette et y.} Certains tracés cursifs de \texttt{\&} ressemblent à la lettre y. Leur valeur est examinée occurrence par occurrence, d'après la forme, la position et les parallèles de la main. Aucun remplacement global de y par et ou par \texttt{\&} n'est appliqué comme règle de lecture ; un signe non établi reste marqué.
   \item \textbf{Lectures et identifications vérifiées.} Curtis est lisible dans plusieurs entrées et apparaît aussi sous la contraction \textit{Ctis}. La vue \#016 porte la date du 10 août, mentionne Sailly-sur-la-Lys et rapporte une conversation avec un éclusier au sujet du général Maxse. À la vue \#142 (l.~6, Millau, 4 février 1917), la réinspection du cliché établit \texttt{visite à l'oncle \& tante Thérèse (Layral)}. L'annexe familiale identifie Thérèse Cartairade et son époux Charles Layrals, notaire à Millau, avec un s final dans cette source. Spagnol est cité ailleurs, à propos d'un télégramme à Nice et d'un règlement (vues \#136 et \#158) ; le métier de fleuriste demeure conjectural. Le rapprochement des Flutre de la vue \#168 avec la famille du romaniste Louis-Fernand Flutre repose sur la nécrologie de René Debrie (1978, p.~238--240), qui nomme son père Fortuné, instituteur au Mesnil-Martinsart. Debrie donne une naissance au Mesnil-Martinsart, tandis que la BnF (\texttt{cb122063529}) indique Albert ; cette divergence n'est pas expliquée par les documents consultés. Debrie distingue l'admission à l'ENS en 1914, l'entrée en 1919 et l'agrégation en 1921. Le second prénom Ernest, la naissance du père en 1862 et son installation en 1888 demandent encore une pièce directement contrôlable.
-  \item \textbf{Particularités de la séquence photographique.} Le cliché \#050 (\texttt{20251126\_\allowbreak 103019.jpg}, journée du 25 septembre 1916), omis dans le premier fichier Word, est restitué à sa place. Les clichés \#063 (5 octobre 1916) et \#064 (nuit du 4 au 5 octobre 1916), ainsi que les clichés \#112 (24 décembre 1916) et \#113 (23 décembre 1916), ont été photographiés dans l'ordre inverse de la chronologie. Enfin, les clichés \#091 (\texttt{20251126\_\allowbreak 104623.jpg}) et \#093 (\texttt{20251126\_\allowbreak 104648.jpg}) constituent deux prises de vue successives d'un même feuillet original (journées des 2 et 3 novembre 1916). Pour conserver une correspondance explicite avec les 186 fichiers JPEG des répertoires \texttt{scans\_\allowbreak haute\_\allowbreak qualite/} et \texttt{scans\_\allowbreak compresses/}, l'édition conserve la numérotation des vues (\texttt{Scan \#001} à \texttt{Scan \#186}). La désignation Vue identifie une photographie ; elle ne constitue pas une foliation matérielle. Les anciens numéros recto-verso calculés d'après l'ordre des fichiers n'ont pas valeur de constat codicologique.
+  \item \textbf{Particularités de la séquence photographique.} Le cliché \#050 (\texttt{20251126\_\allowbreak 103019.jpg}, journée du 25 septembre 1916), omis dans le premier fichier Word, est restitué à sa place. Les clichés \#063 (5 octobre 1916) et \#064 (nuit du 4 au 5 octobre 1916), ainsi que les clichés \#112 (22 et 24 décembre 1916) et \#113 (19 et 20 décembre 1916), ont été photographiés dans l'ordre inverse de la chronologie. Enfin, les clichés \#091 (\texttt{20251126\_\allowbreak 104623.jpg}) et \#093 (\texttt{20251126\_\allowbreak 104648.jpg}) constituent deux prises de vue successives d'un même feuillet original (journées des 2 et 3 novembre 1916). Pour conserver une correspondance explicite avec les 186 fichiers JPEG des répertoires \texttt{scans\_\allowbreak haute\_\allowbreak qualite/} et \texttt{scans\_\allowbreak compresses/}, l'édition conserve la numérotation des vues (\texttt{Scan \#001} à \texttt{Scan \#186}). La désignation Vue identifie une photographie ; elle ne constitue pas une foliation matérielle. Les anciens numéros recto-verso calculés d'après l'ordre des fichiers n'ont pas valeur de constat codicologique.
 \end{enumerate}
 
 \section{Principes de l'édition philologique en vis-à-vis}
 
-Inspirée des principes de l'édition philologique classique (sur le modèle de l'édition savante des \textit{Thesmophories} d'Aristophane), la présente édition adopte un format maniable (\texttt{155 $\times$ 225 mm}, proche du livre de poche et homothétique au carnet original), une typographie sobre en noir sur fond blanc pur et met en regard, sur chaque double page (du Scan \#001 au Scan \#186) :
+Inspirée des principes de l'édition philologique classique (sur le modèle de l'édition savante des \textit{Thesmophories} d'Aristophane), la présente édition adopte un format agrandi (\texttt{185 $\times$ 270 mm}, de proportions proches du carnet photographié), pour conserver l’apparat complet sur la page en regard du cliché, une typographie sobre en noir sur fond blanc pur et met en regard, sur chaque double page (du Scan \#001 au Scan \#186) :
 \begin{itemize}
   \item \textbf{Sur la page de gauche (page paire / verso) :}
     \begin{enumerate}
-      \item \textbf{La transcription de travail ligne à ligne}, cherchant à conserver la disposition matérielle, l'orthographe, les abréviations, la ponctuation et les crochets comptables \texttt{[ ... ]} du manuscrit. Les lignes sont numérotées de cinq en cinq dans la marge gauche (\texttt{5, 10, 15, 20, 25}). Les lectures proposées portent un point d'interrogation ; \texttt{[illis.]} signale une séquence non déchiffrée et les blancs ou additions sont décrits dans la notice. Les suppressions et ratures autographes sont placées entre doubles crochets droits ($[\![ \dots ]\!]$).
-      \item \textbf{L'apparat critique marginal}, composé en petits caractères dans la colonne de droite en regard immédiat et dans le prolongement horizontal exact de la ligne concernée : il développe les abréviations tachygraphiques (\textit{scil.}, \textit{abbr. pro}), signale les biffures du manuscrit ($[\![ \dots ]\!]$ \textit{del. in ms.}), identifie les emprunts lexicaux anglais (\textit{angl. in ms.}) ou latins (\textit{lat.}) et précise les particularités matérielles (\textit{in marg. cum unco}).
+      \item \textbf{La transcription de travail ligne à ligne}, cherchant à conserver l'orthographe, les abréviations et la ponctuation. Les lignes sont numérotées de cinq en cinq dans la marge gauche (\texttt{5, 10, 15, 20, 25}). Les crochets simples \texttt{[ ... ]} peuvent signaler une réserve éditoriale ou isoler un compte : leur présence dans la transcription ne prouve pas un crochet autographe ni une écriture en marge ; la disposition réellement observée est décrite dans l'apparat. Les lectures proposées portent un point d'interrogation ; \texttt{[illis.]} signale une séquence écrite non déchiffrée, sans impliquer une lacune matérielle. Les blancs, ajouts et suppressions sont signalés d'après la photographie ; les ratures autographes lisibles sont placées entre doubles crochets droits ($[\![ \dots ]\!]$). Aucun soulignement, exposant ou trait autographe n'est déduit d'une règle de remplacement appliquée au seul texte.
+      \item \textbf{L'apparat critique marginal}, entièrement repris à partir des photographies, est ancré sur un numéro de ligne et un lemme exact en gras. Les développements d'abréviation sont en italique, fléchis et expliqués selon la phrase ; les emprunts anglais (\textit{angl.}), latins (\textit{lat.}) ou hybrides (\textit{hybr.}) sont traduits selon leur emploi. Les ratures, ajouts, signes, réserves et particularités de disposition sont décrits explicitement. Toutes les entrées retenues sont rendues, sans plafond par ligne ni fusion entre lignes distinctes. Une ellipse syntaxique n'est pas traitée comme une abréviation ; une identité ou un développement conjectural reste donné comme tel.
+      \item \textbf{Unités et signes usuels.} \textit{etc.} abrège \textit{et cetera}. Dans les comptes, \textit{f} et \textit{fr} désignent les francs, \textit{c} les centimes ; dans les heures, \textit{h} ou \textit{H} désignent l'heure, \textit{m} le matin ou les minutes selon la notation, \textit{s} le soir. Les fractions horaires ordinaires se lisent sans développement local répétitif. L'esperluette \texttt{\&} vaut et ; le signe $+$ vaut plus ou une addition selon la phrase ou le compte. Le signe $=$ conserve sa valeur contextuelle : égalité comptable, reprise ou abréviation de même selon les occurrences. Une note locale précise les emplois ambigus, notamment \textit{1/2 jour} (milieu du jour), et les quantités dont l'unité n'est pas écrite. Ces conventions ne permettent pas d'attribuer à un montant une unité ou une opération absente du manuscrit.
       \item \textbf{En bas de page, deux registres de commentaires dépourvus d'intitulés répétitifs mais immédiatement distingués au premier coup d'œil par des filets horizontaux et un décrochement typographique franc :}
         \begin{itemize}
-          \item \textit{Le premier registre}, placé immédiatement sous le filet horizontal de pleine largeur (\texttt{0,5 pt}) et composé au fer à gauche sur toute la justification (\texttt{133 mm}), est consacré à la \textbf{critique interne du carnet} : analyse codicologique et paléographique, génétique des repentirs, syntaxe elliptique, bilinguisme franco-anglais, tenue des comptes et degrés de certitude des lectures.
+          \item \textit{Le premier registre}, placé immédiatement sous le filet horizontal de pleine largeur (\texttt{0,5 pt}) et composé au fer à gauche sur toute la justification (\texttt{163 mm}), est consacré à la \textbf{critique interne du carnet} : analyse codicologique et paléographique, génétique des repentirs, syntaxe elliptique, bilinguisme franco-anglais, tenue des comptes et degrés de certitude des lectures.
           \item \textit{Le second registre}, séparé du précédent par un filet horizontal court (\texttt{38 mm}, \texttt{0,4 pt}) et composé avec un retrait général de bloc de \texttt{5 mm} sur la gauche, est consacré à l'\textbf{élucidation historique, militaire, topographique et prosopographique} : références militaires et géographiques, localités et personnes mentionnées, avec distinction entre lecture, hypothèse d'identification et fait établi par une source extérieure.
         \end{itemize}
     \end{enumerate}
@@ -590,6 +594,8 @@ L'annotation historique repose sur le croisement méthodique des archives famili
 \par}
 """
 
+    records_digest = hashlib.sha256(json.dumps(records, ensure_ascii=False, sort_keys=True).encode('utf-8')).hexdigest()
+    preamble = preamble.replace(r'\begin{document}', r'\hypersetup{pdfkeywords={edition-records-sha256:' + records_digest + '}}\n' + r'\begin{document}', 1)
     body_parts = [preamble, "\n\\mainmatter\n\\renewcommand{\\thesection}{\\thechapter.\\arabic{section}}\n"]
 
     rec_by_num = {r["scan_num"]: r for r in records}
