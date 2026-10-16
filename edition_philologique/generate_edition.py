@@ -79,22 +79,23 @@ DIPLOMATIC_SUPERSCRIPT_PATTERNS = [
 DATE_PREFIX_RE = re.compile(
     r"^((?:—\s*)?(?:"
     r"Pâques\s*—\s*\d+\s*—"
-    r"|(?:1er|\d{1,2})\s+(?:Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|Mar\.?|Ma\.?|Merc\.?|Mer\.?|Me\.?|Jeu\.?|J\.?|Vendr\.?|Ven\.?|Ve\.?|V\.?|Sam\.?|S\.?|Dim\.?|D\.?|Lun\.?|L\.?)\.?(?:\s*\((?:suite|fin|Rameaux)\))?(?:\s*[—–-]\s*(?:Assompt\.|1917))?"
-    r"|(?:Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|Mar\.?|Ma\.?|Merc\.?|Mer\.?|Me\.?|Jeu\.?|J\.?|Vendr\.?|Ven\.?|Ve\.?|V\.?|Sam\.?|S\.?|Dim\.?|D\.?|Lun\.?|L\.?)\.?\s+(?:1er|\d{1,2})\.?(?:\s*\((?:suite|fin)\))?"
+    r"|—\s*Avril\s+1917\s*—"
+    r"|(?:1er|\d{1,2})\s+(?:Jeudi-Saint|Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche|Mar\.?|Ma\.?|Merc\.?|Mer\.?|Me\.?|Jeu\.?|J\.?|Vendr\.?|Ven\.?|Ve\.?|V\.?|Sam\.?|S\.?|Dim\.?|D\.?|Lun\.?|L\.?)\.?(?:\s*\((?:suite|fin|Rameaux)\))?(?:\s*[—–-]\s*(?:Assompt\.|1917))?"
+    r"|(?:Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche|Mar\.?|Ma\.?|Merc\.?|Mer\.?|Me\.?|Jeu\.?|J\.?|Vendr\.?|Ven\.?|Ve\.?|V\.?|Sam\.?|S\.?|Dim\.?|D\.?|Lun\.?|L\.?)\.?\s+(?:1er|\d{1,2})\.?(?:\s*\((?:suite|fin)\))?"
     r"))"
 )
 
 # Regex for mid-page new day entry (triggers a horizontal separator line \cline{1-1}):
 MIDPAGE_DAY_START_RE = re.compile(
     r"^(?:—\s*)?(?:"
-    r"(?:1er|\d{1,2})\s+(?:Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|Mar\.?|Ma\.?|Merc\.?|Mer\.?|Me\.?|Jeu\.?|J\.?|Vendr\.?|Ven\.?|Ve\.?|V\.?|Sam\.?|S\.?|Dim\.?|D\.?|Lun\.?|L\.?)\b"
-    r"|(?:Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|Mar\.?|Ma\.?|Merc\.?|Mer\.?|Me\.?|Jeu\.?|J\.?|Vendr\.?|Ven\.?|Ve\.?|V\.?|Sam\.?|S\.?|Dim\.?|D\.?|Lun\.?|L\.?)\.?\s+(?:1er|\d{1,2})\b"
+    r"(?:1er|\d{1,2})\s+(?:Jeudi-Saint|Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche|Mar\.?|Ma\.?|Merc\.?|Mer\.?|Me\.?|Jeu\.?|J\.?|Vendr\.?|Ven\.?|Ve\.?|V\.?|Sam\.?|S\.?|Dim\.?|D\.?|Lun\.?|L\.?)\b"
+    r"|(?:Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche|Mar\.?|Ma\.?|Merc\.?|Mer\.?|Me\.?|Jeu\.?|J\.?|Vendr\.?|Ven\.?|Ve\.?|V\.?|Sam\.?|S\.?|Dim\.?|D\.?|Lun\.?|L\.?)\.?\s+(?:1er|\d{1,2})\b"
     r")"
 )
 
 # Regex for bottom accounting / expense / footnote block (triggers \cline{1-1} before its first line):
 BOTTOM_ACCOUNTING_START_RE = re.compile(
-    r"^(?:\[\s|\(1\)|En\s+caisse\b|A\s+(?:Mme|M\.|Renescure|Hazebrouck|Bailleul|St-Pol|Saint-Pol|Amiens|Paris|Toulouse|Millau|Acheux|Doullens|Albert)\b|Laissé\s+à\s+Mme\b|Food\b|Lunch\b|Dîner\b|Dinner\b|Washing\b|Payé\s+à\b|Acheté\b|Dépenses\b|Timbres\b|Cartes\s+ples\b|C\.\s*ples\b|Ctes\s+ples\b|Tip\b|Groom\b|Bain\b|Coiffeur\b|Télégramme\b|Mandat\b)"
+    r"^(?:\[\s*|\(1\)|—\s*(?:En\s+caisse|Lunch|Dîner|Dinner|Washing|Payé|Acheté|Dépenses|Timbres|Cartes|Ctes|Tip|Groom|Bain|Coiffeur|Télégramme|Mandat|Donné|Reçu|Chocolat|Pâtisserie|Gâteaux)\b|En\s+caisse\b|A\s+(?:Mme|M\.|Renescure|Hazebrouck|Bailleul|St-Pol|Saint-Pol|Amiens|Paris|Toulouse|Millau|Acheux|Doullens|Albert)\b|Laissé\s+à\s+Mme\b|Food\b|Lunch\b|Dîner\b|Dinner\b|Washing\b|Payé\s+à\b|Acheté\b|Dépenses\b|Timbres\b|Cartes\s+ples\b|C\.\s*ples\b|Ctes\s+ples\b|Tip\b|Groom\b|Bain\b|Coiffeur\b|Télégramme\b|Mandat\b|Donné\b|Reçu\b|Pour\s+mon\b)"
 )
 
 
@@ -140,7 +141,7 @@ def escape_diplomatic_line(s: str, line_idx: int = 1, scan_num: int = 2) -> str:
     """
     Formats a diplomatic transcription line for LaTeX with authentic manuscript features:
     - Underlining (\\underline{...}) of cover title, date headers, right-aligned month/year
-      headers, and location subheadings in expense blocks;
+      headers, and location/thematic subheadings;
     - Raised right-aligned month/year header on Line 1 when preceded by narrative text;
     - Superscripts (\\textsuperscript{...}) for hours, ordinals, and abbreviated endings.
     """
@@ -163,16 +164,17 @@ def escape_diplomatic_line(s: str, line_idx: int = 1, scan_num: int = 2) -> str:
         rest_part = left_raw[len(date_part):]
         left_tex = f"\\underline{{{_escape_plain_segment(date_part)}}}{_escape_plain_segment(rest_part)}"
     else:
-        # Check for underlined location subheadings in accounting blocks
+        # Check for underlined location or thematic subheadings in accounting/narrative blocks
         m_loc = re.match(
-            r"^((?:\[\s*)?(?:A\s+(?:Renescure|Hazebrouck|Bailleul|Saint-Pol|St-Pol|Amiens|Paris|Toulouse|Millau|Doullens|Acheux)|En\s+caisse))\b(.*)$",
+            r"^((?:\[\s*(?:—\s*)?)?(?:A\s+(?:Renescure|Hazebrouck|Bailleul|Saint-Pol|St-Pol|Amiens|Paris|Toulouse|Millau|Doullens|Acheux)|Halles\s+Victor-Hugo|En\s+caisse|Invité|Métier\s+à\s+tisser))\b(.*)$",
             left_raw,
         )
         if m_loc:
             loc_part, rest_part = m_loc.group(1), m_loc.group(2)
-            if loc_part.startswith("["):
-                clean_loc = loc_part.lstrip("[ ").strip()
-                left_tex = f"[ \\underline{{{_escape_plain_segment(clean_loc)}}}{_escape_plain_segment(rest_part)}"
+            m_br = re.match(r"^(\[\s*(?:—\s*)?)(.*)$", loc_part)
+            if m_br:
+                prefix_br, clean_loc = m_br.group(1), m_br.group(2).strip()
+                left_tex = f"{_escape_plain_segment(prefix_br)}\\underline{{{_escape_plain_segment(clean_loc)}}}{_escape_plain_segment(rest_part)}"
             else:
                 left_tex = f"\\underline{{{_escape_plain_segment(loc_part)}}}{_escape_plain_segment(rest_part)}"
         else:
@@ -406,8 +408,9 @@ CHAPTERS = [
             "gel intense de janvier 1917, Hippolyte Combes accomplit chaque jour de longues tournées en automobile ou à cheval à travers toute la région "
             "entre Doullens, Albert et Amiens : Franvillers, Buire-sur-l'Ancre, Ribemont et Heilly (où il revoit avec émotion ses cantonnements de l'hiver "
             "1915–1916), Toutencourt (où il assiste le major Levy lors d'une réunion des réfugiés d'Englebelmer), Authie, Saint-Léger, Beauquesne, "
-            "Raincheval, Le Quesnoy, Contay, Vadencourt, Puchevillers, Hérissart et Rubempré. Après un réveillon de Noël au château d'Acheux (siège de "
-            "l'école de mortiers de la V\\textsuperscript{e} Armée) et les concerts des \\textit{13th Corps Archie Singers} à la \\textit{Y.M.C.A.}, il "
+            "Raincheval, Le Quesnoy, Contay, Vadencourt, Puchevillers, Hérissart et Rubempré. Après la pénible tournée de la veille de Noël à Louvencourt "
+            "avec le capitaine Williams, la fête de Noël au spectacle de music-hall de la \\textit{Y.M.C.A.} d'Acheux (qui succède aux concerts des "
+            "\\textit{13th Corps Archie Singers}) et la visite du château d'Acheux occupé par la \\textit{Fifth Army School of Mortars}, il "
             "rend visite le 9 janvier près d'Hédauville à ses amis de la 150\\textsuperscript{e} Compagnie A.S.C. (dont le lieutenant Morris) avant d'obtenir "
             "fin janvier son titre de permission pour le Midi."
         ),
@@ -536,8 +539,8 @@ def _should_insert_cline_before(lines: list[str], idx_1based: int, scan_num: int
     Determines whether Hippolyte Combes drew a horizontal separator stroke before
     line `idx_1based` (1-indexed) on `scan_num`:
     - Case A: A new dated daily entry starts in the middle of a page (`idx_1based >= 3`).
-    - Case B: The first line of the bottom accounting / expense / footnote block
-      at the foot of the page (`idx_1based >= max(4, len(lines) - 5)`).
+    - Case B: A mid-page or bottom bracketed accounting block (`[ ... ]`) or the first
+      line of the bottom accounting / expense / footnote block (`idx_1based >= max(4, len(lines) - 8)`).
     """
     if scan_num == 1 or idx_1based <= 2:
         return False
@@ -548,12 +551,22 @@ def _should_insert_cline_before(lines: list[str], idx_1based: int, scan_num: int
     if idx_1based >= 3 and MIDPAGE_DAY_START_RE.match(line):
         return True
 
-    # Case B: First line of the bottom accounting / footnote block
+    # Case B1: Bracketed accounting block `[ ...` anywhere from line 4 onwards
+    if idx_1based >= 4 and line.startswith("[") and not prev_line.startswith("["):
+        return True
+
+    # Case B2: First line of the bottom accounting / footnote block
     n_lines = len(lines)
-    if idx_1based >= max(4, n_lines - 5):
+    start_window = max(4, n_lines - 8)
+    if idx_1based >= start_window:
         if BOTTOM_ACCOUNTING_START_RE.match(line) and not BOTTOM_ACCOUNTING_START_RE.match(prev_line):
-            # Only insert if we haven't already inserted a cline in the last 2 lines
-            return True
+            # Ensure no earlier line in the bottom window already started an accounting block
+            already_started = any(
+                BOTTOM_ACCOUNTING_START_RE.match(lines[k].strip())
+                for k in range(start_window - 1, idx_1based - 1)
+            )
+            if not already_started:
+                return True
 
     return False
 

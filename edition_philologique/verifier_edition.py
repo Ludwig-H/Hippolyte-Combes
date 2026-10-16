@@ -118,31 +118,50 @@ def check_records(records: list[dict], checks: Checks):
                     f"Folio {n}: marginal note {key!r} still mentions previous misreading ('et non')",
                 )
                 checks.require(
+                    not re.search(r"ne pas lire|n'est pas soutenu|sont éditoriaux|premier document|cliché", value, re.I),
+                    f"Folio {n}: marginal note {key!r} still mentions discarded reading or cliché: {value!r}",
+                )
+                checks.require(
                     not re.search(r"\bvue\s+\d+", value, re.I),
                     f"Folio {n}: marginal note {key!r} still mentions a 'vue' number",
                 )
         for field in ("critique", "loci", "historique"):
             val = r.get(field, "")
             checks.require(
-                "scans_haute_qualite" not in val and "scans_compresses" not in val and "Cliché numérique" not in val,
-                f"Folio {n}: {field} mentions digitization folder or Cliché numérique",
+                "scans_haute_qualite" not in val
+                and "scans_compresses" not in val
+                and "cliché" not in val.lower(),
+                f"Folio {n}: {field} mentions digitization folder or cliché",
             )
             checks.require(
-                "module concurrent" not in val.lower() and "ancienne transcription" not in val.lower(),
+                "module concurrent" not in val.lower()
+                and "ancienne transcription" not in val.lower()
+                and "premier document de transcription" not in val.lower(),
                 f"Folio {n}: {field} mentions previous draft or module concurrent",
             )
             checks.require(
                 "le diariste" not in val.lower(),
                 f"Folio {n}: {field} uses 'le diariste' instead of 'Hippolyte Combes'",
             )
+            checks.require(
+                not re.search(
+                    r"saint\s+Hippolyte\s+Combes|Hippolyte\s+Combes\s+Flandrin|(?:Maria|Joséphine)\s+Hippolyte\s+Combes",
+                    val,
+                ),
+                f"Folio {n}: {field} contains corrupted name substitution",
+            )
+        checks.require(
+            "de eodem commorationis loco" not in r.get("loci", ""),
+            f"Folio {n}: loci uses generic fallback 'de eodem commorationis loco'",
+        )
 
     checks.require(
         30 <= non_empty_critique <= 60,
         f"Expected selective internal critical commentary on ~41 folios, got {non_empty_critique}",
     )
     checks.require(
-        non_empty_loci >= 180,
-        f"Expected Latin loci paralleli apparatus across almost all folios, got {non_empty_loci}",
+        non_empty_loci == 186,
+        f"Expected Latin loci paralleli apparatus on all 186 folios, got {non_empty_loci}",
     )
 
     by_num = {r.get("scan_num"): r for r in records}
