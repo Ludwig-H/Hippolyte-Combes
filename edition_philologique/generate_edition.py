@@ -658,7 +658,8 @@ def build_spread_latex(rec: dict) -> str:
         else:
             num_prefix = "\\leavevmode"
 
-        left_cell = f"{num_prefix}{line_font}\\strut {esc_l}\\strut"
+        top_strut = "\\rule{0pt}{2.45ex}" if cline_inserted_at == idx else ""
+        left_cell = f"{num_prefix}{line_font}\\strut{top_strut} {esc_l}\\strut"
         if idx in mnotes:
             mn = mnotes[idx]
             needed_mn_lines = max(1, (_vis_len(mn) + 30) // 31)
@@ -899,7 +900,7 @@ def generate_full_tex():
 
 \section{Destin d'un universitaire rouergat et toulousain auprès de l'Armée britannique (1876–1970)}
 
-L'acte de naissance n\textsuperscript{o}~395 du 16 août 1876 situe la naissance de \textbf{Marie Lucien Hippolyte Combes} à \textbf{Millau}, rue des Barris, le \textbf{14 août 1876}, fils de \textbf{François Augustin Hippolyte Combes} (1825–1899), avocat (lui-même fils de \textbf{François Combes}, 1789–1855, maître menuisier-ébéniste à Millau, et de \textbf{Madeleine Fabre-Hugou}, 1792–1863), et de \textbf{Marie Anaïs Alric} (1838–1907, fille de \textbf{Pierre Émile Alric}, 1798–1854, et de \textbf{Marie Bouquié}, 1804–1863), mariés à Millau le 22 juillet 1864. La fiche matricule porte la date du 22 août 1876 : les deux témoignages sont signalés sans harmonisation silencieuse. Les pièces d'état civil et la monographie familiale rédigée par son petit-fils \textbf{Pierre Combes} (fils du magistrat \textbf{Joseph Combes}, né en 1921, troisième des sept enfants d'Hippolyte et de Marguerite Combes) retracent ses études à l'Institution Sainte-Marie-des-Champs (Le Caousou) et à la Faculté des lettres de Toulouse (47, rue du Taur), son séjour de quatre années en Angleterre (Nottingham) et sa carrière de professeur d'anglais aux collèges de Saint-Yrieix et de Nogent-le-Rotrou (17, rue Saint-Hilaire), puis au lycée Ingres de Montauban jusqu'à sa retraite à Millau et son décès le \textbf{2 septembre 1970} à l'\textbf{Hôtel du Centre} à \textbf{Saint-Chély-d'Apcher} (Lozère), avant son inhumation au cimetière de Millau.
+L'acte de naissance n\textsuperscript{o}~395 du 16 août 1876 situe la naissance de \textbf{Marie Lucien Hippolyte Combes} à \textbf{Millau}, rue des Barris, le \textbf{14 août 1876}, fils de \textbf{François Augustin Hippolyte Combes} (1825–1899), avocat (lui-même fils de \textbf{François Combes}, 1789–1855, maître menuisier-ébéniste à Millau, et de \textbf{Madeleine Fabre-Hugou}, 1792–1863), et de \textbf{Marie Anaïs Alric} (1838–1907, fille de \textbf{Pierre Émile Alric}, 1798–1854, et de \textbf{Marie Bouquié}, 1804–1863), mariés à Millau le 22 juillet 1864. La fiche matricule porte la date du 22 août 1876 : les deux témoignages sont signalés sans harmonisation silencieuse. Les pièces d'état civil et la monographie familiale rédigée par son petit-fils \textbf{Pierre Combes} (fils du magistrat \textbf{Joseph Combes}, 1921–2021, troisième des sept enfants d'Hippolyte et de Marguerite Combes) retracent ses études à l'Institution Sainte-Marie-des-Champs (Le Caousou) et à la Faculté des lettres de Toulouse (47, rue du Taur), son séjour de quatre années en Angleterre (Nottingham) et sa carrière de professeur d'anglais aux collèges de Saint-Yrieix et de Nogent-le-Rotrou (17, rue Saint-Hilaire), puis au lycée Ingres de Montauban jusqu'à sa retraite à Millau et son décès le \textbf{2 septembre 1970} à l'\textbf{Hôtel du Centre} à \textbf{Saint-Chély-d'Apcher} (Lozère), avant son inhumation au cimetière de Millau.
 
 \begin{figure}[htbp]
   \centering

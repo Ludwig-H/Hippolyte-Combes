@@ -3396,7 +3396,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1--17 :** L'en-tête de la l.~1 réunit sur une même ligne la date soulignée (*Lundi 16*), un trait vertical de séparation, le début du récit (*Sur pied à 5h~1/2*) et le rappel du mois (*Oct /16*) rejeté à droite.
+**l.~1 :** L'en-tête de la l.~1 réunit sur une même ligne la date soulignée (*Lundi 16*), un trait vertical de séparation, le début du récit (*Sur pied à 5h~1/2*) et le rappel du mois (*Oct /16*) rejeté à droite.
 
 ***4** (*Beauval*) cf. supra fo 37 ro, infra fo 38 ro. — **7** (*Beauquesne*) cf. infra fo 49 ro, fo 56 ro, *et passim*. — **9** (*Puchevillers*) cf. infra fo 52 ro, fo 55 ro, *et passim*.*
 
@@ -4808,7 +4808,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~13--16 et 26 :** Le feuillet s'articule en deux journées (1er décembre, l.~1--16, avec bloc comptable entre crochets aux l.~13--16 ; 2 décembre, l.~17--26) séparées par un trait horizontal.
+**l.~1--26 :** Le feuillet s'articule en deux journées (1er décembre, l.~1--16, avec bloc comptable entre crochets aux l.~13--16 ; 2 décembre, l.~17--26) séparées par un trait horizontal.
 
 ***4** (*Buire*) cf. infra fo 90 vo, fo 91 ro. — **4** (*Franvillers*) cf. infra fo 58 vo. — **6** (*Ribemont*) cf. infra fo 76 vo, fo 84 vo.*
 

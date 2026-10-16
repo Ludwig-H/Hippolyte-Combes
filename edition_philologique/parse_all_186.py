@@ -123,7 +123,7 @@ SCAN_050_DATA = {
         "Temps superbe.",
         "Bientôt, cabas prêt à partir.",
         "Journée chaude tt [tout] en haut plateau.",
-        "Amené à Forceville avec Lt First, for green",
+        "Amené à Forceville avec Lt Ford, for green",
         "forage. Chaleur très forte.",
         "A midi enfin, monté sur le lourd wagon",
         "du convoi allant au railhead, puis cocher",
