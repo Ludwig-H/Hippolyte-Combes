@@ -740,11 +740,15 @@ def build_all_186_records(apply_revision=True, apply_apparatus=True):
         })
 
     if apply_revision:
+        import copy
+        baseline_records = copy.deepcopy(records)
         from revision_philologique import apply_verified_corrections
         records = apply_verified_corrections(records, clean_line_and_extract_note)
         if apply_apparatus:
             from apparat_critique import apply_apparatus as apply_reviewed_apparatus
             records = apply_reviewed_apparatus(records)
+            from commentaires_et_loci import enrichir_edition_philologique
+            records = enrichir_edition_philologique(records, baseline_records, clean_line_and_extract_note)
     return records
 
 
@@ -756,26 +760,12 @@ def export_transcriptions(records):
     md_path = os.path.join(ROOT, "transcriptions", "transcription_integrale_186_scans.md")
     with open(md_path, "w", encoding="utf-8") as f:
         f.write("# Édition diplomatique et critique intégrale du *Livre-Journal* d'Hippolyte Combes (25 juillet 1916 – 30 avril 1917)\n\n")
-        f.write("Ce document réunit la transcription diplomatique ligne à ligne, l'apparat critique marginal et le double commentaire (critique et historique) de la totalité des **186 scans** (`20251126_092853.jpg` à `20251126_111833.jpg`).\n\n---\n\n")
+        f.write("Ce document réunit la transcription diplomatique ligne à ligne, l'apparat critique marginal, l'apparat des *loci paralleli* et le commentaire critique et historique de la totalité des folios du carnet (`Couverture` et `Folio 1 recto` à `Folio 93 recto`).\n\n---\n\n")
         for r in records:
-            f.write(f"## Scan #{r['scan_num']:03d} — `{r['filename']}` — {r['folio']}\n")
+            f.write(f"## {r['folio']} — {r.get('mois_annee', '')}\n")
             f.write(f"- **Titre** : {r['title']}\n")
             f.write(f"- **Date** : {r['date']}\n")
             f.write(f"- **Lieu** : {r['lieu']}\n\n")
-            if "revision" in r:
-                review = r["revision"]
-                label = review["review_level"].replace("_", " ")
-                f.write(f"- **Révision du 15 octobre 2026** : {label}.\n")
-                if review.get("remaining_uncertainties"):
-                    f.write("- **Points ouverts** : " + "; ".join(review["remaining_uncertainties"]) + ".\n")
-                f.write("\n")
-            if "apparat_revision" in r:
-                review = r["apparat_revision"]
-                count = len(r.get("apparat_entries", []))
-                f.write(f"- **Apparat révisé intégralement sur l'image** : {count} entrées contrôlées.\n")
-                if review.get("remaining_uncertainties"):
-                    f.write("- **Réserves de l'apparat** : " + "; ".join(review["remaining_uncertainties"]) + ".\n")
-                f.write("\n")
             f.write("```text\n")
             for idx, l in enumerate(r["lines"], 1):
                 clean_md_line = l.replace("\\hfill", "        ")
@@ -787,12 +777,20 @@ def export_transcriptions(records):
                 v_clean = v_clean.replace("\\llbracket ", "⟦").replace("\\rrbracket\\", "⟧").replace("\\&", "&")
                 f.write(f"- *l. {k}* : {v_clean}\n")
             f.write("\n* * *\n\n")
-            c_clean = re.sub(r"\\textbf\{([^}]*)\}", r"**\1**", r["critique"])
-            c_clean = re.sub(r"\\textit\{([^}]*)\}", r"*\1*", c_clean)
-            c_clean = re.sub(r"\\texttt\{([^}]*)\}", r"`\1`", c_clean)
-            c_clean = re.sub(r"\\textsuperscript\{([^}]*)\}", r"\1", c_clean)
-            c_clean = c_clean.replace("\\&", "&").replace("\\#", "#").replace("\\_", "_")
-            f.write(f"{c_clean}\n\n")
+            if r.get("critique"):
+                c_clean = re.sub(r"\\textbf\{([^}]*)\}", r"**\1**", r["critique"])
+                c_clean = re.sub(r"\\textit\{([^}]*)\}", r"*\1*", c_clean)
+                c_clean = re.sub(r"\\texttt\{([^}]*)\}", r"`\1`", c_clean)
+                c_clean = re.sub(r"\\textsuperscript\{([^}]*)\}", r"\1", c_clean)
+                c_clean = c_clean.replace("\\&", "&").replace("\\#", "#").replace("\\_", "_")
+                f.write(f"{c_clean}\n\n")
+            if r.get("loci"):
+                l_clean = re.sub(r"\\textbf\{([^}]*)\}", r"**\1**", r["loci"])
+                l_clean = re.sub(r"\\textit\{([^}]*)\}", r"*\1*", l_clean)
+                l_clean = re.sub(r"\\textsuperscript\{([^}]*)\}", r"\1", l_clean)
+                l_clean = re.sub(r"\s*\(p\.~\\pageref\{[^}]+\}\)", "", l_clean)
+                l_clean = l_clean.replace("~", " ").replace("\\&", "&")
+                f.write(f"*{l_clean}*\n\n")
             h_clean = re.sub(r"\\textbf\{([^}]*)\}", r"**\1**", r["historique"])
             h_clean = re.sub(r"\\textit\{([^}]*)\}", r"*\1*", h_clean)
             h_clean = re.sub(r"\\texttt\{([^}]*)\}", r"`\1`", h_clean)
