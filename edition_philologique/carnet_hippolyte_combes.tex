@@ -67,7 +67,7 @@
 \setlength{\parskip}{0.25em}
 \setlength{\emergencystretch}{1.5em}
 
-\hypersetup{pdfkeywords={edition-records-sha256:d6bfd174a4e5f031657199a2c73edbbe62c310a33e439af1e15bbf1ab0fd449d}}
+\hypersetup{pdfkeywords={edition-records-sha256:d6bfd174a4e5f031657199a2c73edbbe62c310a33e439af1e15bbf1ab0fd449d;edition-cartography-sha256:54e5bed403696190e2409cd9d5e7955a4327a1c72baf99b509a016e44d96a114}}
 \begin{document}
 \pagenumbering{arabic}
 
@@ -130,7 +130,7 @@
   {\Huge $\mathfrak{Urtext}$}\\[14mm]
   \rule{45mm}{0.4pt}\\[6mm]
   {\footnotesize\textbf{Édition philologique, diplomatique et critique intégrale}}\\[1.5mm]
-  {\scriptsize accompagnée d'arbres généalogiques, de cartes vectorielles d'itinéraires,\\
+  {\scriptsize accompagnée d'arbres généalogiques, de cartes géographiques vectorielles,\\
   des lettres de guerre inédites (1916–1918), de l'état signalétique des services\\
   et d'un double index des personnes et des lieux}\par
   \vfill
@@ -183,74 +183,17 @@ Exempté dans sa jeunesse pour « faiblesse générale » (\textbf{classe 1896, 
   \item \textbf{Mariage, fin de campagne et carrière d'après-guerre.} Hippolyte Combes épouse \textbf{Marie Marguerite Calmels} (1892–1974) à Millau le \textbf{25 octobre 1917}. Affecté à l'École militaire préparatoire des Andelys comme professeur d'anglais le 24 novembre 1918, selon la rubrique des services de sa fiche matricule (nommé caporal le 4 décembre 1918), il est démobilisé le 7 février 1919 et nommé en 1920 professeur au lycée Ingres de Montauban.
 \end{itemize}
 
-\begin{center}
-\resizebox{0.98\textwidth}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  city/.style={circle, fill=black, inner sep=1.1pt},
-  hub/.style={circle, draw=bordeaux, fill=white, line width=0.7pt, inner sep=1.5pt},
-  lbl/.style={fill=white, fill opacity=1.0, text opacity=1, inner sep=1.0pt, rounded corners=0.8pt},
-  route/.style={draw=bordeaux, line width=0.65pt, ->, >=stealth},
-  perm/.style={draw=black!65, line width=0.55pt, dashed, ->, >=stealth}
-]
-% Cadre géographique schématique de la France
-\draw[black!50, line width=0.4pt, fill=black!2] (-78mm,-38mm) rectangle (78mm,38mm);
-% Silhouette schématique des côtes et frontières de la France (englobant largement les libellés)
-\draw[black!22, line width=0.4pt, fill=white]
-  (-18mm,36mm) -- (18mm,35mm) -- (62mm,26mm) -- (68mm,12mm) -- (62mm,-2mm)
-  -- (66mm,-16mm) -- (60mm,-28mm) -- (36mm,-35mm) -- (-14mm,-36mm) -- (-58mm,-33mm)
-  -- (-62mm,-14mm) -- (-66mm,4mm) -- (-72mm,14mm) -- (-56mm,22mm) -- (-42mm,31mm) -- cycle;
-
-% Nord / Pas-de-Calais / Somme
-\node[hub] (flandre) at (-8mm, 31mm) {};
-\node[lbl, right, xshift=1.8mm] at (flandre) {\textbf{1. Flandre \& Lys} (Lynde, Bailleul, Steenwerck, juill.–août 1916)};
-
-\node[hub] (ternois) at (-12mm, 25mm) {};
-\node[lbl, left, xshift=-1.8mm, align=right] at (ternois) {\textbf{2. Artois / Ternois}\\(Saint-Pol, Marquay, août–sept. 1916)};
-
-\node[hub] (somme) at (-9mm, 19.5mm) {};
-\node[lbl, right, xshift=1.8mm] at (somme) {\textbf{3. Front de la Somme} (Albert, Acheux, Hérissart, sept. 1916 – avr. 1917)};
-
-\node[city] (amiens) at (-13mm, 15mm) {};
-\node[lbl, left, xshift=-1.8mm] at (amiens) {Amiens};
-
-% Paris / Neuilly / Nogent
-\node[hub] (paris) at (-11mm, 8mm) {};
-\node[lbl, right, xshift=2.0mm, yshift=0.5mm] at (paris) {\textbf{Paris \& Neuilly-sur-Seine} (permissions)};
-\node[city] (nogent) at (-22mm, 4mm) {};
-\node[lbl, left, xshift=-1.8mm] at (nogent) {Nogent-le-Rotrou};
-\node[city] (andelys) at (-18mm, 11mm) {};
-\node[lbl, left, xshift=-1.8mm] at (andelys) {Les Andelys (1918)};
-
-% Massif central
-\node[city] (clermont) at (-1mm, -8mm) {};
-\node[lbl, right, xshift=1.8mm] at (clermont) {Clermont-Ferrand / Saint-Flour (retour févr. 1917)};
-
-% Midi : Toulouse, Montauban, Millau, Béziers
-\node[city] (montauban) at (-16mm, -19mm) {};
-\node[lbl, left, xshift=-1.8mm] at (montauban) {Montauban};
-\node[hub] (toulouse) at (-15mm, -26mm) {};
-\node[lbl, left, xshift=-1.8mm, align=right] at (toulouse) {\textbf{Toulouse}\\(sept.–oct. 1916 \& janv.–févr. 1917)};
-\node[hub] (millau) at (-2mm, -21mm) {};
-\node[lbl, right, xshift=1.8mm] at (millau) {\textbf{Millau} (berceau familial, févr. \& oct. 1917)};
-\node[city] (beziers) at (1mm, -29mm) {};
-\node[lbl, right, xshift=1.8mm] at (beziers) {Carcassonne \& Béziers (3 févr. 1917)};
-
-% Flèches d'itinéraires
-\draw[route] (flandre) -- (ternois);
-\draw[route] (ternois) -- (somme);
-\draw[perm] (somme) -- (amiens) -- (paris);
-\draw[perm] (paris) -- (montauban) -- (toulouse);
-\draw[perm] (toulouse) to[bend right=14] (beziers);
-\draw[perm] (beziers) to[bend right=12] (millau);
-\draw[perm] (millau) -- (clermont) -- (paris);
-
-% Rose des vents
-\draw[->, line width=0.5pt] (72mm, 24mm) -- (72mm, 32mm) node[above]{\textbf{N}};
-\end{tikzpicture}%
-}
-\par\vspace{0.8mm}{\scriptsize\textit{Carte générale.} Les théâtres d'opérations (Flandre, Artois, Somme) et les grands déplacements de permission d'Hippolyte Combes (1916–1917).}
-\end{center}
+\clearpage
+\phantomsection\label{carte:generale}
+\addcontentsline{toc}{section}{Carte générale : lieux de séjour et permissions}
+\noindent\rule{\textwidth}{0.5pt}\par\vspace{1mm}
+\noindent{\fontsize{9.5pt}{11pt}\selectfont\bfseries CARTE GÉNÉRALE}\par\vspace{1mm}
+\noindent{\small\itshape Lieux de séjour et déplacements attestés, juillet 1916 – avril 1917}\par
+\vfill
+\noindent\includegraphics[width=\textwidth,height=176mm,keepaspectratio]{cartographie/cartes/generale.pdf}\par
+\vfill
+\noindent{\scriptsize Les cartes sélectionnent les lieux attestés par le carnet. Les liaisons représentent une succession d'étapes ; elles ne restituent pas le tracé historique des routes ou des voies ferrées. Les lectures et localisations réservées sont signalées sur les cartes.}\par
+\clearpage
 
 
 \section{Présentation des protagonistes et arbres généalogiques}
@@ -447,97 +390,15 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 {\fontsize{7.1pt}{8.3pt}\selectfont La présence de Combes en Flandre intérieure s'inscrit dans l'histoire de la \textbf{18\textsuperscript{e} Division britannique} (\textit{18th Eastern Division}, commandée par Ivor Maxse), dont Nichols situe le séjour d'août 1916 devant Armentières (\textit{The 18th Division in the Great War}, Londres, Blackwood, 1922, p.~75). Sa lettre du 21 février 1916 mentionne une compagnie d'\textit{Army Service Corps} depuis août 1915 ; le carnet nommera la \textbf{152nd Company A.S.C.} le 6 octobre. Nichols distingue la 151st Company auprès de la 54th Brigade (p.~108) et la 152nd auprès de la 55th (p.~110). Dans ce contexte, Hippolyte Combes assure la liaison quotidienne entre les officiers britanniques d'approvisionnement (notamment le lieutenant Curtis), les municipalités et les exploitants agricoles flamands. Ses notes attentives sur le patrimoine architectural de la Flandre — l'église proposée Saint-Érasme de Sercus, les châteaux de Zuthove et de Philippe de Comines à Renescure, le beffroi et les pignons Renaissance de Bailleul, ou l'église néo-gothique Notre-Dame-des-Sept-Douleurs de La Croix-du-Bac — revêtent une valeur documentaire d'autant plus précieuse que plusieurs de ces édifices furent anéantis au printemps 1918 lors de la bataille de la Lys.\par}
 \vfill
 \newpage
-% --- Page de droite d'ouverture du chapitre : Carte vectorielle TikZ & Photographies d'archives ---
+% --- Page de droite d'ouverture du chapitre : Carte géographique vectorielle & Photographies d'archives ---
 \noindent\rule{\textwidth}{0.5pt}\par\vspace{0.6mm}
-\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont CARTE D'ITINÉRAIRE DU CHAPITRE I} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont JUILLET 1916 – AOÛT 1916}\par\vspace{0.25mm}
-\noindent{\fontsize{6.7pt}{7.8pt}\selectfont\textit{Déplacements, cantonnements et tournées d'Hippolyte Combes (Couverture (plat supérieur) à Folio 9 recto)}}\par\vspace{0.55mm}
-\noindent\rule{\textwidth}{0.35pt}\par\vspace{1.2mm}
-\begin{center}
-
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.6pt}{6.6pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  move/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth},
-  excur/.style={draw=black!65, line width=0.55pt, dashed, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.2pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Cours de la Lys et frontière belge
-\draw[river] (-75mm,-34mm) .. controls (-25mm,-31mm) and (10mm,-27mm) .. (55mm,-22mm)
-  node[pos=0.28, above, font=\fontsize{5.6pt}{6.4pt}\selectfont\itshape]{La Lys (canalisée)};
-\draw[black!45, dash pattern=on 3pt off 2pt, line width=0.5pt]
-  (18mm,46mm) -- (30mm,32mm) -- (45mm,17mm) -- (60mm,-2mm);
-\node[rotate=-43, above, font=\fontsize{5.4pt}{6.2pt}\selectfont, text=black!60] at (38mm,24mm) {\textit{Frontière franco-belge}};
-
-% Ligne de front (août 1916)
-\draw[bordeaux!80, line width=0.9pt, decorate, decoration={zigzag, segment length=4pt, amplitude=1pt}]
-  (66mm,16mm) -- (63mm,-18mm) -- (58mm,-44mm);
-\node[rotate=-83, font=\fontsize{5.5pt}{6.4pt}\selectfont, bordeaux] at (72mm,-14mm) {\textbf{Ligne de front (secteur d'Armentières–Fleurbaix)}};
-
-% Localités Flandre intérieure (Ouest)
-\node[loc] (renescure) at (-62mm, 12mm) {};
-\node[below, align=center] at (renescure) {\textbf{Renescure}\\(châteaux, 27 juill.)};
-
-\node[ptstep] (lynde) at (-44mm, 24mm) {};
-\node[above, align=center] at (lynde) {\textbf{1. Lynde}\\(25–28 juill.)};
-
-\node[loc] (sercus) at (-38mm, 6mm) {};
-\node[below, align=center] at (sercus) {\textbf{Sercus}\\(25 juill.)};
-
-\node[loc] (hazebrouck) at (-24mm, 22mm) {};
-\node[below, align=center, yshift=-0.8mm] at (hazebrouck) {\textbf{Hazebrouck}\\(27–28 juill.)};
-
-% Monts des Flandres
-\node[ptstep] (stjans) at (4mm, 24mm) {};
-\node[above left, align=center, xshift=4.0mm, yshift=1.2mm] at (stjans) {\textbf{2. Saint-Jans-Cappel}\\(28 juill. – 5 août)};
-
-\node[loc] (montnoir) at (22mm, 35mm) {};
-\node[above left, xshift=-1.2mm, yshift=0.5mm] at (montnoir) {Mont-Noir (29 juill.)};
-
-\node[ptstep] (bailleul) at (2mm, 8mm) {};
-\node[left, xshift=-1mm] at (bailleul) {\textbf{Bailleul} (30 juill. – 5 août)};
-
-% Vallée de la Lys
-\node[loc] (steenwerck) at (6mm, -8mm) {};
-\node[left, xshift=-1mm] at (steenwerck) {Steenwerck};
-
-\node[ptstep] (croixdubac) at (12mm, -16mm) {};
-\node[left, align=right, xshift=-1.8mm, yshift=-0.5mm] at (croixdubac) {\textbf{3. La Croix-du-Bac}\\(5–12 août)};
-
-\node[loc] (bacstmaur) at (16mm, -29mm) {};
-\node[below right, yshift=-0.3mm] at (bacstmaur) {\textbf{Bac-Saint-Maur} (\textit{refilling point})};
-
-\node[loc] (sailly) at (2mm, -34mm) {};
-\node[below, align=center] at (sailly) {\textbf{Sailly-sur-la-Lys}\\(écluse, 10 août)};
-
-\node[loc] (armentieres) at (42mm, -15mm) {};
-\node[above, align=center, xshift=1.0mm, yshift=1.4mm] at (armentieres) {\textbf{Armentières}\\(blanchisserie Barbry, 11 août)};
-
-% Flèches de déplacement principal et tournées
-\draw[excur] (lynde) -- (sercus);
-\draw[excur] (lynde) -- (renescure);
-\draw[move] (lynde) -- (hazebrouck) -- (stjans);
-\draw[excur] (stjans) -- (montnoir);
-\draw[move] (stjans) -- (bailleul) -- (steenwerck) -- (croixdubac);
-\draw[excur] (croixdubac) -- (bacstmaur);
-\draw[excur] (bacstmaur) -- (sailly);
-\draw[excur] (croixdubac) -- (armentieres);
-
-% Échelle et Nord
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 5\hfill 10 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}\phantomsection\label{carte:I}%
-}
-
-\end{center}
+\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont REPÈRES DU CHAPITRE I} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont JUILLET 1916 – AOÛT 1916}\par\vspace{0.25mm}
+{\centering
+\phantomsection\label{carte:I}
+\noindent\includegraphics[width=\textwidth,height=128mm,keepaspectratio]{cartographie/cartes/I.pdf}\par}
 \vfill
 \noindent\rule{\textwidth}{0.3pt}\par\vspace{1.2mm}
-\noindent\begin{center}
+{\centering
   \begin{minipage}[b]{0.46\textwidth}
     \centering
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
@@ -549,8 +410,7 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
     \fcolorbox{gray!55}{white}{\includegraphics[width=0.94\linewidth,height=28mm,keepaspectratio]{illustrations/toulon_artillerie_1915.jpg}}
     \par\vspace{0.6mm}{\fontsize{5.8pt}{6.7pt}\selectfont Hippolyte Combes au 10\textsuperscript{e} régiment d'artillerie à pied à Toulon (Saint-Jean-du-Var) au printemps 1915.}
-  \end{minipage}
-\end{center}
+  \end{minipage}\par}
 \vspace*{1mm}
 \newpage
 
@@ -1659,86 +1519,15 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 {\fontsize{7.1pt}{8.3pt}\selectfont Le déplacement de la \textbf{18\textsuperscript{e} Division britannique} de la Lys vers le Ternois puis vers le secteur de l'Ancre s'inscrit dans la préparation de la grande offensive de septembre 1916 : rattachée au \textit{II~Corps} (lieutenant-général Sir Claud Jacob) au sein de la \textit{Reserve Army} (future \textit{Fifth Army}) du général Sir Hubert Gough, la division s'entraîne sur les plateaux autour de Saint-Pol avant de monter en ligne devant Thiepval, qu'elle prendra d'assaut le 26 septembre 1916 (Nichols, \textit{op.~cit.}, p.~78–79, 81–92). Sur le plan linguistique, l'écriture quotidienne d'Hippolyte Combes témoigne d'une imprégnation croissante du vocabulaire militaire et logistique anglais (\textit{mess}, \textit{billet}, \textit{refilling point}, \textit{green forage}, \textit{horse-lines}, \textit{orderly N.C.O.}, \textit{on duty}, \textit{groom}, \textit{saddle soap}), tandis que ses méditations du 25 août dans le train de Saint-Pol font directement écho au pessimisme lucide de sa lettre confidentielle du 16 juin 1916 à sa sœur carmélite Françoise (Annexe~I, doc.~3).\par}
 \vfill
 \newpage
-% --- Page de droite d'ouverture du chapitre : Carte vectorielle TikZ & Photographies d'archives ---
+% --- Page de droite d'ouverture du chapitre : Carte géographique vectorielle & Photographies d'archives ---
 \noindent\rule{\textwidth}{0.5pt}\par\vspace{0.6mm}
-\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont CARTE D'ITINÉRAIRE DU CHAPITRE II} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont AOÛT 1916 – SEPTEMBRE 1916}\par\vspace{0.25mm}
-\noindent{\fontsize{6.7pt}{7.8pt}\selectfont\textit{Déplacements, cantonnements et tournées d'Hippolyte Combes (Folio 9 verso à Folio 24 verso)}}\par\vspace{0.55mm}
-\noindent\rule{\textwidth}{0.35pt}\par\vspace{1.2mm}
-\begin{center}
-
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  rail/.style={draw=black!80, line width=0.75pt, double distance=0.8pt, ->, >=stealth},
-  move/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth},
-  excur/.style={draw=black!65, line width=0.55pt, dashed, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.1pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Rivières : la Lys au nord, la Ternoise au centre, l'Authie au sud
-\draw[river] (-22mm,33mm) -- (46mm,37mm) node[pos=0.85, above]{\textit{La Lys}};
-\draw[river] (-64mm,5mm) .. controls (-30mm,4.5mm) and (-12mm,4mm) .. (8mm,3mm) node[right]{\textit{La Ternoise}};
-\draw[river] (-58mm,-18mm) .. controls (-20mm,-19mm) and (5mm,-20mm) .. (28mm,-22mm) node[right]{\textit{L'Authie}};
-
-% Ligne de front (Armentières - Arras - Thiepval)
-\draw[bordeaux!80, line width=0.85pt, dash pattern=on 4pt off 2pt]
-  (60mm,44mm) -- (54mm,16mm) -- (58mm,-6mm) -- (56mm,-44mm);
-\node[rotate=-86, font=\fontsize{5.5pt}{6.4pt}\selectfont, bordeaux] at (64mm,0mm) {\textbf{Ligne de front (Armentières – Arras – Thiepval)}};
-
-% Secteur 1 : Vallée de la Lys (13-25 août)
-\node[ptstep] (bailleul) at (-6mm, 41mm) {};
-\node[above] at (bailleul) {\textbf{1. Bailleul} (embarquement 25 août)};
-\node[loc] (croix) at (16mm, 34mm) {};
-\node[below right, align=left, yshift=-0.5mm] at (croix) {\textbf{La Croix-du-Bac}, Fleurbaix,\\Armentières (13–24 août)};
-\node[loc] (estaires) at (2mm, 28mm) {};
-\node[below left] at (estaires) {Estaires (23 août)};
-\node[loc] (hazebrouck) at (-30mm, 39mm) {};
-\node[above left] at (hazebrouck) {Hazebrouck};
-
-% Secteur 2 : Ternois / Artois (25 août - 9 sept.)
-\node[ptstep] (stpol) at (-24mm, 11mm) {};
-\node[left, xshift=-2.0mm, yshift=-0.5mm] at (stpol) {\textbf{Saint-Pol-sur-Ternoise} (25 août – 7 sept.)};
-\node[ptstep] (marquay) at (-8mm, 9mm) {};
-\node[above right, yshift=0.5mm] at (marquay) {\textbf{2. Marquay} (cantonnement, 25 août – 9 sept.)};
-\node[loc] (ligny) at (-10mm, -1.5mm) {};
-\node[left, xshift=-1.5mm, align=right] at (ligny) {Ligny-Saint-Flochel, Roëllecourt,\\Bailleul-aux-Cornailles};
-
-% Secteur 3 : Marche vers la Somme (9-24 sept.)
-\node[ptstep] (oppy) at (-2mm, -9mm) {};
-\node[right, xshift=1.5mm] at (oppy) {\textbf{3. Oppy / Beaudricourt} (9–10 sept.)};
-\node[ptstep] (lucheux) at (-12mm, -15.5mm) {};
-\node[left, xshift=-2.0mm, yshift=1.2mm] at (lucheux) {\textbf{4. Lucheux} (11 sept.)};
-\node[loc] (thievres) at (-2mm, -25mm) {};
-\node[right, xshift=1.5mm] at (thievres) {Thièvres};
-\node[ptstep] (raincheval) at (-10mm, -31mm) {};
-\node[left, xshift=-1.5mm] at (raincheval) {\textbf{5. Raincheval} (11–22 sept.)};
-\node[loc] (acheux) at (6mm, -34mm) {};
-\node[right, xshift=1.5mm] at (acheux) {\textbf{Acheux-en-Amiénois}};
-\node[ptstep] (forceville) at (10mm, -42mm) {};
-\node[below] at (forceville) {\textbf{6. Forceville} \& Hédauville (22–24 sept.)};
-
-% Trajets
-\draw[excur] (croix) -- (estaires);
-\draw[move] (croix) -- (bailleul);
-\draw[rail] (bailleul) -- (hazebrouck) to[bend right=16] node[pos=0.45, left, xshift=-1.2mm, font=\fontsize{5.4pt}{6.3pt}\selectfont]{\textit{Train militaire (25 août)}} (stpol);
-\draw[move] (stpol) -- (marquay);
-\draw[move] (marquay) -- (oppy) -- (lucheux) -- (thievres) -- (raincheval) -- (acheux) -- (forceville);
-
-% Échelle et Nord
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 10\hfill 20 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}\phantomsection\label{carte:II}%
-}
-
-\end{center}
+\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont REPÈRES DU CHAPITRE II} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont AOÛT 1916 – SEPTEMBRE 1916}\par\vspace{0.25mm}
+{\centering
+\phantomsection\label{carte:II}
+\noindent\includegraphics[width=\textwidth,height=128mm,keepaspectratio]{cartographie/cartes/II.pdf}\par}
 \vfill
 \noindent\rule{\textwidth}{0.3pt}\par\vspace{1.2mm}
-\noindent\begin{center}
+{\centering
   \begin{minipage}[b]{0.42\textwidth}
     \centering
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
@@ -1750,8 +1539,7 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
     \fcolorbox{gray!55}{white}{\includegraphics[width=0.94\linewidth,height=28mm,keepaspectratio]{illustrations/hippolyte_1897.jpg}}
     \par\vspace{0.6mm}{\fontsize{5.8pt}{6.7pt}\selectfont Hippolyte Combes jeune homme en 1897 (à l'âge de vingt et un ans), étudiant à Toulouse avant son séjour de quatre ans à Nottingham.}
-  \end{minipage}
-\end{center}
+  \end{minipage}\par}
 \vspace*{1mm}
 \newpage
 
@@ -3663,78 +3451,15 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 {\fontsize{7.1pt}{8.3pt}\selectfont Cette parenthèse civile au cœur de la guerre révèle l'ancrage intellectuel et familial d'Hippolyte Combes à Paris et à Toulouse. Les archives familiales de Millau et Montauban éclairent avec précision le cercle toulousain qui entoure sa fiancée \textbf{Marguerite Calmels} (1892–1974) : l'agent de change \textbf{Émile Crouzet} (1842–1921, \textit{M.~C\textsuperscript{zt}}), son épouse \textbf{Élisabeth Calmels} (tante paternelle de Marguerite) et leur fils l'\textbf{abbé Jean Crouzet}, futur curé de Notre-Dame de la Dalbade, ainsi que les cousines \textbf{Faure} installées rue d'Armenonville (numéro [?]6 réservé) à Neuilly-sur-Seine. Les achats en librairie du 26 septembre peuvent être rapprochés de la conférence ultérieure appréciée par Hippolyte Combes, donnée par \textbf{Ernest Zyromski} (\textit{L'Orgueil humain}, 1904), et documentent son intérêt pour \textbf{Maurice Maeterlinck} (\textit{Les Débris de la guerre}, 1916). Enfin, le f\textsuperscript{o}~33~r\textsuperscript{o} (6 octobre 1916) fournit la mention autographe décisive qui permet d'identifier formellement l'unité d'Hippolyte Combes au sein du \textit{18th Divisional Train} : la \textbf{152\textsuperscript{e} Compagnie A.S.C.} (\textit{152nd Company A.S.C.}). L'ordre de bataille de Thiepval chez Nichols place la 151st Company auprès de la 54th Brigade (p.~108) et la 152nd auprès de la 55th (p.~110).\par}
 \vfill
 \newpage
-% --- Page de droite d'ouverture du chapitre : Carte vectorielle TikZ & Photographies d'archives ---
+% --- Page de droite d'ouverture du chapitre : Carte géographique vectorielle & Photographies d'archives ---
 \noindent\rule{\textwidth}{0.5pt}\par\vspace{0.6mm}
-\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont CARTE D'ITINÉRAIRE DU CHAPITRE III} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont SEPTEMBRE 1916 – OCTOBRE 1916}\par\vspace{0.25mm}
-\noindent{\fontsize{6.7pt}{7.8pt}\selectfont\textit{Déplacements, cantonnements et tournées d'Hippolyte Combes (Folio 25 recto à Folio 33 recto)}}\par\vspace{0.55mm}
-\noindent\rule{\textwidth}{0.35pt}\par\vspace{1.2mm}
-\begin{center}
-
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  rail/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Partie gauche : Grand axe ferroviaire Somme - Paris - Toulouse (-80mm à -2mm)
-\node[font=\fontsize{6.1pt}{7.1pt}\selectfont\bfseries] at (-41mm, 44mm) {A. Trajet ferroviaire (25 sept. – 6 oct. 1916)};
-\node[ptstep] (acheux) at (-48mm, 35mm) {};
-\node[right, xshift=1.5mm] at (acheux) {\textbf{1. Forceville / Acheux} (25 sept.)};
-\node[loc] (amiens) at (-50mm, 24mm) {};
-\node[left, xshift=-1.5mm] at (amiens) {Amiens \& Creil};
-\node[ptstep] (paris) at (-48mm, 12mm) {};
-\node[left, xshift=-1.5mm, align=right] at (paris) {\textbf{2. Paris \& Neuilly}\\(26 sept. / 5 oct.)};
-\node[loc] (limoges) at (-50mm, -3mm) {};
-\node[left, xshift=-1.5mm] at (limoges) {Limoges, Brive, Cahors};
-\node[loc] (montauban) at (-48mm, -18mm) {};
-\node[left, xshift=-1.5mm] at (montauban) {Montauban};
-\node[ptstep] (toulouse) at (-46mm, -34mm) {};
-\node[right, xshift=2.2mm, yshift=-0.8mm] at (toulouse) {\textbf{3. Toulouse} (27 sept. – 4 oct.)};
-\node[ptstep] (canaples) at (-32mm, 23mm) {};
-\node[right, xshift=1.5mm, align=left] at (canaples) {\textbf{4. Doullens / Canaples}\\(6 oct.)};
-
-\draw[rail] (acheux) -- (amiens) -- (paris);
-\draw[rail] (paris) -- (limoges) -- (montauban) -- (toulouse);
-\draw[rail, dashed] (toulouse) to[bend right=22] node[pos=0.48, right, xshift=0.5mm, font=\fontsize{5.3pt}{6.2pt}\selectfont]{\textit{Retour (4–5 oct.)}} (paris);
-\draw[rail, dashed] (paris) to[bend right=12] (canaples);
-
-% Filet vertical de séparation
-\draw[black!40, line width=0.45pt] (-1mm,-46mm) -- (-1mm,46mm);
-
-% Partie droite : Plan vectoriel de Toulouse (0mm à 80mm)
-\node[font=\fontsize{6.1pt}{7.1pt}\selectfont\bfseries] at (40mm, 44mm) {B. Plan des lieux fréquentés à Toulouse};
-% La Garonne et le Canal du Midi
-\draw[black!35, line width=1.6pt] (5mm,-40mm) .. controls (12mm,-12mm) and (14mm,12mm) .. (5mm,36mm)
-  node[pos=0.18, right, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{La Garonne};
-\draw[black!45, line width=0.8pt] (50mm,38mm) .. controls (66mm,20mm) and (68mm,-6mm) .. (65mm,-36mm)
-  node[pos=0.42, right, font=\fontsize{5.4pt}{6.2pt}\selectfont\itshape]{Canal du Midi};
-
-\node[loc] (matabiau) at (54mm, 31mm) {};
-\node[left, xshift=-1.5mm] at (matabiau) {Gare Matabiau};
-\node[ptstep] (taur) at (16mm, 22mm) {};
-\node[right, xshift=1.2mm] at (taur) {\textbf{Rue du Taur} (n\textsuperscript{o}~47) \& St-Sernin};
-\node[loc] (capitole) at (16mm, 13mm) {};
-\node[right, xshift=1.2mm] at (capitole) {Capitole \& Place Esquirol};
-\node[ptstep] (pharaon) at (15mm, 4mm) {};
-\node[right, xshift=1.2mm] at (pharaon) {\textbf{Rue Pharaon} (famille Crouzet)};
-\node[ptstep] (stetienne) at (24mm, -5mm) {};
-\node[right, xshift=1.2mm] at (stetienne) {\textbf{Cathédrale Saint-Étienne}};
-\node[loc] (grandrond) at (34mm, -14mm) {};
-\node[left, xshift=-1.2mm] at (grandrond) {Grand-Rond};
-\node[loc] (stemarie) at (58mm, -23mm) {};
-\node[left, xshift=-1.5mm] at (stemarie) {\textbf{Ste-Marie-des-Champs}};
-\node[loc] (pechdavid) at (12mm, -34mm) {};
-\node[right, xshift=1.2mm] at (pechdavid) {\textbf{Pouvourville \& Pech-David} (28 sept.)};
-\end{tikzpicture}\phantomsection\label{carte:III}%
-}
-
-\end{center}
+\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont REPÈRES DU CHAPITRE III} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont SEPTEMBRE 1916 – OCTOBRE 1916}\par\vspace{0.25mm}
+{\centering
+\phantomsection\label{carte:III}
+\noindent\includegraphics[width=\textwidth,height=128mm,keepaspectratio]{cartographie/cartes/III.pdf}\par}
 \vfill
 \noindent\rule{\textwidth}{0.3pt}\par\vspace{1.2mm}
-\noindent\begin{center}
+{\centering
   \begin{minipage}[b]{0.42\textwidth}
     \centering
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
@@ -3746,8 +3471,7 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
     \fcolorbox{gray!55}{white}{\includegraphics[width=0.94\linewidth,height=28mm,keepaspectratio]{illustrations/maison_millau.jpg}}
     \par\vspace{0.6mm}{\fontsize{5.8pt}{6.7pt}\selectfont La demeure familiale de Millau (Aveyron), berceau de la famille Combes.}
-  \end{minipage}
-\end{center}
+  \end{minipage}\par}
 \vspace*{1mm}
 \newpage
 
@@ -4772,99 +4496,21 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 {\fontsize{7.1pt}{8.3pt}\selectfont Durant les mois d'octobre et de novembre 1916, tandis que les brigades de la \textbf{18\textsuperscript{e} Division britannique} livrent de rudes combats d'usure sous la pluie devant la redoute Schwaben, la tranchée Regina (\textit{Regina Trench}) et les hauteurs de l'Ancre (Nichols, \textit{op.~cit.}, chap.~VIII–IX), le \textit{18th Divisional Train}, commandé par le \textbf{lieutenant-colonel Daniel Charles Evans Grose, A.S.C.} (\texttt{Col.~Grose}, f\textsuperscript{o}~45~r\textsuperscript{o}), assure le ravitaillement quotidien des unités depuis ses bases de Warloy-Baillon et d'Albert. Le détachement d'Hippolyte Combes à \textbf{Acheux-en-Amiénois} le 2 novembre 1916 répond aux besoins considérables en paille et en foin de la cavalerie et des trains hippomobiles britanniques : rattaché aux services d'achats et de réquisitions (\textit{Foraging} et \textit{Army Purchase Board}, sous l'autorité du \textbf{major Levy}), il décrit les tournées de fourrage et le début du battage à Belle-Église et Arquèves, où la fermière belge est nommée Houtteman [?]. Combes négocie directement avec les maires et les cultivateurs de la Somme.\par}
 \vfill
 \newpage
-% --- Page de droite d'ouverture du chapitre : Carte vectorielle TikZ & Photographies d'archives ---
+% --- Page de droite d'ouverture du chapitre : Carte géographique vectorielle & Photographies d'archives ---
 \noindent\rule{\textwidth}{0.5pt}\par\vspace{0.6mm}
-\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont CARTE D'ITINÉRAIRE DU CHAPITRE IV} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont OCTOBRE 1916 – NOVEMBRE 1916}\par\vspace{0.25mm}
-\noindent{\fontsize{6.7pt}{7.8pt}\selectfont\textit{Déplacements, cantonnements et tournées d'Hippolyte Combes (Folio 33 verso à Folio 52 recto)}}\par\vspace{0.55mm}
-\noindent\rule{\textwidth}{0.35pt}\par\vspace{1.2mm}
-\begin{center}
-
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  move/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth},
-  excur/.style={draw=black!65, line width=0.55pt, dashed, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.2pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Vallée de l'Ancre (passant immédiatement à l'ouest d'Albert)
-\draw[river] (48mm,35mm) .. controls (40mm,10mm) and (31mm,-12mm) .. (22mm,-42mm)
-  node[pos=0.88, right, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{L'Ancre};
-
-% Ligne de front de l'Ancre (Thiepval - Beaumont-Hamel)
-\draw[bordeaux!80, line width=0.9pt, decorate, decoration={zigzag, segment length=4pt, amplitude=1pt}]
-  (58mm,42mm) -- (62mm,14mm) -- (66mm,-18mm);
-\node[rotate=-84, font=\fontsize{5.5pt}{6.4pt}\selectfont, bordeaux] at (70mm,12mm) {\textbf{Front de l'Ancre (Thiepval – Redoute Schwaben)}};
-
-% Cantonnement de repos dans le Ponthieu (6-15 oct.)
-\node[ptstep] (ribeaucourt) at (-60mm, 30mm) {};
-\node[above right] at (ribeaucourt) {\textbf{1. Ribeaucourt \& Barlette} (6–15 oct.)};
-\node[loc] (domqueur) at (-64mm, 14mm) {};
-\node[below, xshift=-2mm, yshift=-0.5mm] at (domqueur) {Domqueur (9 oct.)};
-\node[loc] (canaples) at (-44mm, 2mm) {};
-\node[left, xshift=-1.2mm] at (canaples) {Canaples (\textit{railhead}, 6 oct.)};
-
-% Marche vers Albert (15-17 oct.)
-\node[ptstep] (beauval) at (-26mm, 22mm) {};
-\node[above right, xshift=0.5mm, yshift=0.5mm] at (beauval) {\textbf{2. Beauval} (15–16 oct.)};
-\node[loc] (rubempre) at (-16mm, -15mm) {};
-\node[left, xshift=-1.2mm] at (rubempre) {Rubempré \& Septenville};
-\node[ptstep] (warloy) at (0mm, -16mm) {};
-\node[below left, xshift=2mm, yshift=-0.5mm] at (warloy) {\textbf{3. Warloy-Baillon} (16 oct.)};
-\node[loc] (senlis) at (16mm, -10mm) {};
-\node[below right, xshift=0.5mm, yshift=-0.5mm] at (senlis) {Senlis-le-Sec};
-
-% Secteur d'Albert (17-31 oct.)
-\node[ptstep] (bouzincourt) at (26mm, -2mm) {};
-\node[above left, xshift=-1.2mm, yshift=0.5mm] at (bouzincourt) {\textbf{4. Bouzincourt} (17–19 oct.)};
-\node[ptstep] (albert) at (38mm, -19mm) {};
-\node[below right, xshift=1.8mm, yshift=-0.3mm, align=left] at (albert) {\textbf{5. Albert (\textit{Brickfields})}\\(19–31 oct.)};
-\node[loc] (martinsart) at (47mm, 6mm) {};
-\node[right, xshift=1.2mm, align=left] at (martinsart) {Martinsart \&\\Aveluy};
-
-% Secteur d'Acheux (novembre 1916)
-\node[ptstep] (acheux) at (12mm, 22mm) {};
-\node[above right, xshift=1.5mm, yshift=0.5mm, align=left] at (acheux) {\textbf{6. Acheux-en-Amiénois}\\(2–30 nov.)};
-\node[loc] (varennes) at (14mm, 10mm) {};
-\node[below, xshift=-1.5mm, yshift=-0.5mm] at (varennes) {Varennes \& Léalvillers};
-\node[loc] (raincheval) at (-10mm, 11mm) {};
-\node[above, align=center, xshift=-1mm, yshift=0.6mm] at (raincheval) {Raincheval \&\\Arquèves};
-\node[loc] (louvencourt) at (10mm, 36mm) {};
-\node[above] at (louvencourt) {Louvencourt, Bertrancourt, Bus-lès-Artois};
-\node[loc] (herissart) at (-20mm, -4mm) {};
-\node[left, xshift=-1.5mm] at (herissart) {Hérissart \& Puchevillers};
-
-% Flèches d'itinéraires
-\draw[move] (canaples) -- (ribeaucourt);
-\draw[excur] (ribeaucourt) -- (domqueur);
-\draw[move] (ribeaucourt) -- (beauval) -- (warloy) -- (bouzincourt) -- (albert);
-\draw[move] (albert) .. controls (41mm, 4mm) and (33mm, 19mm) .. (acheux);
-\draw[excur] (acheux) -- (louvencourt);
-\draw[excur] (acheux) -- (raincheval);
-\draw[excur] (acheux) -- (varennes);
-\draw[excur] (acheux) -- (herissart);
-
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 5\hfill 10 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}\phantomsection\label{carte:IV}%
-}
-
-\end{center}
+\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont REPÈRES DU CHAPITRE IV} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont OCTOBRE 1916 – NOVEMBRE 1916}\par\vspace{0.25mm}
+{\centering
+\phantomsection\label{carte:IV}
+\noindent\includegraphics[width=\textwidth,height=128mm,keepaspectratio]{cartographie/cartes/IV.pdf}\par}
 \vfill
 \noindent\rule{\textwidth}{0.3pt}\par\vspace{1.2mm}
-\noindent\begin{center}
+{\centering
   \begin{minipage}[b]{0.76\textwidth}
     \centering
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
     \fcolorbox{gray!55}{white}{\includegraphics[width=0.94\linewidth,height=28mm,keepaspectratio]{illustrations/fiche_matricule.jpg}}
     \par\vspace{0.6mm}{\fontsize{5.8pt}{6.7pt}\selectfont Extrait du registre matricule d'Hippolyte Combes (classe 1896, matricule 911, bureau de recrutement de Toulouse) détaillant ses services auprès de la Mission militaire française attachée à l'Armée britannique (4 mai 1915 – 11 novembre 1918).}
-  \end{minipage}
-\end{center}
+  \end{minipage}\par}
 \vspace*{1mm}
 \newpage
 
@@ -7154,101 +6800,21 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 {\fontsize{7.1pt}{8.3pt}\selectfont Sur le plan militaire, cette période hivernale correspond à la réorganisation du dispositif britannique au nord de la Somme et de l'Ancre, avec l'extension du secteur de la \textbf{V\textsuperscript{e} Armée britannique} (\textit{Fifth Army}) et la relève progressive du XIII\textsuperscript{e} Corps par le \textbf{V\textsuperscript{e} Corps britannique} autour d'Acheux et de Toutencourt. La visite du 9 janvier 1917 au bivouac d'\textbf{Hédauville} (f\textsuperscript{o}~60~v\textsuperscript{o}) éclaire l'articulation interne du Train divisionnaire de la 18\textsuperscript{e} Division (\textit{18th Divisional Train}), qui réunissait les \textbf{150\textsuperscript{e}, 151\textsuperscript{e}, 152\textsuperscript{e} et 153\textsuperscript{e} Compagnies A.S.C.} (Nichols, \textit{The 18th Division in the Great War}, 1922, p.~107–110). Sur le plan humain, le portrait sans concession du jeune \textbf{capitaine Williams} met en lumière la condition délicate des universitaires français détachés comme interprètes auprès d'officiers subalternes britanniques beaucoup plus jeunes qu'eux.\par}
 \vfill
 \newpage
-% --- Page de droite d'ouverture du chapitre : Carte vectorielle TikZ & Photographies d'archives ---
+% --- Page de droite d'ouverture du chapitre : Carte géographique vectorielle & Photographies d'archives ---
 \noindent\rule{\textwidth}{0.5pt}\par\vspace{0.6mm}
-\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont CARTE D'ITINÉRAIRE DU CHAPITRE V} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont DÉCEMBRE 1916 – JANVIER 1917}\par\vspace{0.25mm}
-\noindent{\fontsize{6.7pt}{7.8pt}\selectfont\textit{Déplacements, cantonnements et tournées d'Hippolyte Combes (Folio 52 verso à Folio 63 verso)}}\par\vspace{0.55mm}
-\noindent\rule{\textwidth}{0.35pt}\par\vspace{1.2mm}
-\begin{center}
-
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  hub/.style={circle, draw=bordeaux, fill=white, line width=0.85pt, inner sep=1.8pt},
-  tour/.style={draw=bordeaux!85, line width=0.55pt, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.2pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Rivière l'Ancre (passant immédiatement à l'ouest d'Albert et de Buire)
-\draw[river] (62mm,36mm) .. controls (55mm,10mm) and (45mm,-14mm) .. (33mm,-42mm)
-  node[pos=0.12, right, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{L'Ancre};
-
-% Centre d'Acheux-en-Amiénois
-\node[hub] (acheux) at (0mm, 15mm) {};
-\node[above right, xshift=12mm, yshift=1.5mm, align=left] at (acheux) {\textbf{ACHEUX-EN-AMIÉNOIS}\\(\textit{centre des tournées})};
-
-% Nord et Nord-Ouest
-\node[loc] (authie) at (-4mm, 38mm) {};
-\node[above] at (authie) {\textbf{Authie} \& St-Léger (9 déc., 6 janv.)};
-\node[loc] (louvencourt) at (6mm, 28mm) {};
-\node[above, xshift=1mm, yshift=0.5mm] at (louvencourt) {\textbf{Louvencourt}};
-\node[loc] (bertrancourt) at (20mm, 31mm) {};
-\node[right, xshift=1.5mm] at (bertrancourt) {\textbf{Bertrancourt} \& Bus-lès-Artois};
-\node[loc] (beauquesne) at (-36mm, 26mm) {};
-\node[left, xshift=-1.2mm] at (beauquesne) {\textbf{Beauquesne} (20 déc., 5 janv.)};
-\node[loc] (quesnoy) at (-26mm, 16mm) {};
-\node[left, xshift=-1.2mm] at (quesnoy) {Ferme du Quesnoy};
-\node[loc] (raincheval) at (-22mm, 8mm) {};
-\node[left, xshift=-1.2mm] at (raincheval) {\textbf{Raincheval} (\textit{Army P. Board})};
-\node[loc] (arqueves) at (-14mm, 29mm) {};
-\node[above left, xshift=1mm, yshift=0.5mm] at (arqueves) {Arquèves (\textbf{Belle-Église})};
-
-% Est et Sud-Est (vers l'Ancre)
-\node[loc] (forceville) at (23mm, 13mm) {};
-\node[right, xshift=1.5mm, align=left] at (forceville) {Forceville \&\\\textbf{Englebelmer}};
-\node[loc] (lealvillers) at (9mm, 9mm) {};
-\node[right, xshift=1.5mm, yshift=0.5mm] at (lealvillers) {Léalvillers};
-\node[loc] (varennes) at (15mm, 4mm) {};
-\node[right, xshift=1.5mm, yshift=0.5mm] at (varennes) {Varennes};
-\node[loc] (hedauville) at (20mm, -2mm) {};
-\node[right, xshift=1.8mm, yshift=0.5mm, align=left] at (hedauville) {\textbf{Hédauville} (9 janv.,\\\textit{150th Co. A.S.C.})};
-\node[loc] (albert) at (49mm, -15mm) {};
-\node[right, xshift=1.8mm] at (albert) {\textbf{Albert} \& Bouzincourt};
-\node[loc] (buire) at (44mm, -28mm) {};
-\node[right, xshift=1.8mm, align=left] at (buire) {\textbf{Buire-sur-l'Ancre},\\Ribemont \& Heilly (1\textsuperscript{er} déc.)};
-\node[loc] (franvillers) at (12mm, -37mm) {};
-\node[below] at (franvillers) {\textbf{Franvillers}};
-
-% Sud et Sud-Ouest
-\node[loc] (puchevillers) at (-26mm, 0mm) {};
-\node[left, xshift=-1.2mm] at (puchevillers) {\textbf{Puchevillers}};
-\node[loc] (herissart) at (-28mm, -9mm) {};
-\node[left, xshift=-1.2mm] at (herissart) {\textbf{Hérissart}};
-\node[loc] (rubempre) at (-28mm, -20mm) {};
-\node[left, xshift=-1.2mm] at (rubempre) {\textbf{Rubempré} \& Septenville};
-\node[loc] (toutencourt) at (-4mm, -6mm) {};
-\node[below, align=center, xshift=-4.0mm, yshift=-0.6mm] at (toutencourt) {\textbf{Toutencourt}\\(Mission V\textsuperscript{e} Armée)};
-\node[loc] (harponville) at (11mm, -7mm) {};
-\node[right, xshift=1.2mm] at (harponville) {Harponville};
-\node[loc] (contay) at (12mm, -20mm) {};
-\node[below, align=center, yshift=-0.5mm] at (contay) {\textbf{Contay} \& Vadencourt};
-
-% Rayons des tournées quotidiennes
-\foreach \dest in {authie,louvencourt,bertrancourt,beauquesne,raincheval,arqueves,forceville,toutencourt,contay,puchevillers,herissart,rubempre} {
-  \draw[tour] (acheux) -- (\dest);
-}
-\draw[tour] (acheux) -- (lealvillers) -- (varennes) -- (hedauville) -- (albert) -- (buire) -- (franvillers);
-
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 4\hfill 8 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}\phantomsection\label{carte:V}%
-}
-
-\end{center}
+\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont REPÈRES DU CHAPITRE V} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont DÉCEMBRE 1916 – JANVIER 1917}\par\vspace{0.25mm}
+{\centering
+\phantomsection\label{carte:V}
+\noindent\includegraphics[width=\textwidth,height=128mm,keepaspectratio]{cartographie/cartes/V.pdf}\par}
 \vfill
 \noindent\rule{\textwidth}{0.3pt}\par\vspace{1.2mm}
-\noindent\begin{center}
+{\centering
   \begin{minipage}[b]{0.50\textwidth}
     \centering
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
     \fcolorbox{gray!55}{white}{\includegraphics[width=0.94\linewidth,height=28mm,keepaspectratio]{illustrations/camarades_ailly_1919.jpg}}
     \par\vspace{0.6mm}{\fontsize{5.8pt}{6.7pt}\selectfont Souvenir de camaraderie militaire sur le front de Picardie (carte-photo dédicacée à Hippolyte Combes, Ailly-sur-Noye, mai 1919). Collection familiale.}
-  \end{minipage}
-\end{center}
+  \end{minipage}\par}
 \vspace*{1mm}
 \newpage
 
@@ -8767,77 +8333,15 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 {\fontsize{7.1pt}{8.3pt}\selectfont Ce deuxième séjour dans le Midi unit pour la première fois dans le carnet les deux villes maîtresses de la vie d'Hippolyte Combes : \textbf{Toulouse}, ville de ses études universitaires et de la famille Crouzet, et \textbf{Millau}, berceau natal des familles Combes, Alric, Calmels et Cartairade, où sera célébré son mariage avec Marguerite Calmels le 25 octobre 1917. La collation directe du manuscrit avec les archives familiales étaye plusieurs identifications des parents visités à Millau les 4 et 5 février 1917 : au 10, rue Alfred-Guibert, les parents de Marguerite (le \textbf{D\textsuperscript{r} Gabriel Calmels} et \textbf{Valentine Cartairade}), son frère \textbf{Pierre Calmels}, ses sœurs \textbf{Madeleine Calmels} (épouse du \textbf{D\textsuperscript{r} Fernand Vincens}, mère de \textbf{Germaine} et \textbf{Robert Vincens}) et \textbf{Anne-Marie dite « Mimi » Calmels} (1888–1975, future épouse de l'avoué \textbf{Joseph Delcamps}), ainsi que son oncle et sa tante maternels \textbf{M\textsuperscript{e} Charles Layrals}, notaire à Millau, et \textbf{Thérèse Cartairade} (f\textsuperscript{o}~71~r\textsuperscript{o}, l.~6 : \texttt{visite à l'oncle \& tante Thérèse (Layral)}).\par}
 \vfill
 \newpage
-% --- Page de droite d'ouverture du chapitre : Carte vectorielle TikZ & Photographies d'archives ---
+% --- Page de droite d'ouverture du chapitre : Carte géographique vectorielle & Photographies d'archives ---
 \noindent\rule{\textwidth}{0.5pt}\par\vspace{0.6mm}
-\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont CARTE D'ITINÉRAIRE DU CHAPITRE VI} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont JANVIER 1917 – FÉVRIER 1917}\par\vspace{0.25mm}
-\noindent{\fontsize{6.7pt}{7.8pt}\selectfont\textit{Déplacements, cantonnements et tournées d'Hippolyte Combes (Folio 64 recto à Folio 73 recto)}}\par\vspace{0.55mm}
-\noindent\rule{\textwidth}{0.35pt}\par\vspace{1.2mm}
-\begin{center}
-
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  aller/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth},
-  retour/.style={draw=black!75, line width=0.65pt, dashed, ->, >=stealth}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Partie gauche : Boucle ferroviaire Amiens - Paris - Toulouse - Béziers - Millau - Clermont - Paris
-\node[font=\fontsize{6.1pt}{7.1pt}\selectfont\bfseries] at (-40mm, 44mm) {A. Boucle de la 2\textsuperscript{e} permission (26 janv. – 7 févr. 1917)};
-\node[ptstep] (amiens) at (-50mm, 36mm) {};
-\node[right, xshift=1.5mm] at (amiens) {\textbf{1. Acheux / Amiens} (26 janv.)};
-\node[ptstep] (paris) at (-50mm, 24mm) {};
-\node[right, xshift=1.5mm, align=left] at (paris) {\textbf{2. Paris \& Neuilly}\\(famille Faure, 27 janv.)};
-\node[ptstep] (toulouse) at (-57mm, -22mm) {};
-\node[left, xshift=-1.2mm, align=right] at (toulouse) {\textbf{3. Toulouse}\\(28 janv. – 3 févr.)};
-\node[loc] (carca) at (-42mm, -33mm) {};
-\node[below, align=center, yshift=-0.5mm] at (carca) {Carcassonne\\(Jean Crouzet)};
-\node[ptstep] (beziers) at (-19mm, -33mm) {};
-\node[below, align=center, yshift=-0.5mm] at (beziers) {\textbf{4. Béziers}\\(cath. St-Nazaire, 3 févr.)};
-\node[ptstep] (millau) at (-24mm, -16mm) {};
-\node[left, xshift=-1.5mm] at (millau) {\textbf{5. Millau} (3–5 févr.)};
-\node[loc] (stflour) at (-30mm, -4mm) {};
-\node[right, xshift=1.5mm] at (stflour) {St-Chély \& St-Flour};
-\node[ptstep] (clermont) at (-36mm, 8mm) {};
-\node[right, xshift=1.5mm, align=left] at (clermont) {\textbf{6. Brioude \& Clermont-F\textsuperscript{d}}\\(6 févr.)};
-
-\draw[aller] (amiens) -- (paris);
-\draw[aller] (paris) to[bend right=18] node[pos=0.48, left, xshift=-0.5mm]{\textit{Aller (27–28 janv.)}} (toulouse);
-\draw[aller] (toulouse) -- (carca) -- (beziers) -- (millau);
-\draw[retour] (millau) -- (stflour) -- (clermont) -- (paris) -- (amiens);
-
-% Filet vertical
-\draw[black!40, line width=0.45pt] (2mm,-46mm) -- (2mm,46mm);
-
-% Partie droite : Plan vectoriel de Millau (3mm à 80mm)
-\node[font=\fontsize{6.1pt}{7.1pt}\selectfont\bfseries] at (42mm, 44mm) {B. Lieux familiaux à Millau (3–5 févr. 1917)};
-% Le Tarn et la Dourbie (au sud et sud-est de la ville)
-\draw[black!35, line width=1.6pt] (12mm,-42mm) .. controls (34mm,-34mm) and (54mm,-26mm) .. (76mm,-16mm)
-  node[pos=0.72, above left, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{Le Tarn};
-\draw[black!35, line width=1.1pt] (48mm,-28mm) -- (76mm,-40mm)
-  node[pos=0.65, below left, font=\fontsize{5.4pt}{6.2pt}\selectfont\itshape]{La Dourbie};
-
-\node[loc] (cimetiere) at (12mm, 32mm) {};
-\node[right, xshift=1.5mm] at (cimetiere) {\textbf{Cimetière de Millau} (tombeaux familiaux, 5 févr.)};
-\node[loc] (gare_m) at (10mm, 23mm) {};
-\node[right, xshift=1.5mm] at (gare_m) {Gare de Millau (arrivée 3 févr., 22 h 30)};
-\node[loc] (mandarous) at (14mm, 14mm) {};
-\node[right, xshift=1.5mm] at (mandarous) {Place du Mandarous \& Bd de l'Ayrolle};
-\node[ptstep] (guibert) at (13mm, 5mm) {};
-\node[right, xshift=1.5mm] at (guibert) {\textbf{10, rue Alfred-Guibert} (maison Calmels)};
-\node[loc] (barris) at (12mm, -4mm) {};
-\node[right, xshift=1.5mm] at (barris) {\textbf{Rue des Barris} (maison natale Combes)};
-\node[ptstep] (layral_m) at (14mm, -13mm) {};
-\node[right, xshift=1.5mm] at (layral_m) {\textbf{Étude \& maison Layrals} (oncle \& tante Thérèse)};
-\end{tikzpicture}\phantomsection\label{carte:VI}%
-}
-
-\end{center}
+\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont REPÈRES DU CHAPITRE VI} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont JANVIER 1917 – FÉVRIER 1917}\par\vspace{0.25mm}
+{\centering
+\phantomsection\label{carte:VI}
+\noindent\includegraphics[width=\textwidth,height=128mm,keepaspectratio]{cartographie/cartes/VI.pdf}\par}
 \vfill
 \noindent\rule{\textwidth}{0.3pt}\par\vspace{1.2mm}
-\noindent\begin{center}
+{\centering
   \begin{minipage}[b]{0.50\textwidth}
     \centering
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
@@ -8849,8 +8353,7 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
     \fcolorbox{gray!55}{white}{\includegraphics[width=0.94\linewidth,height=28mm,keepaspectratio]{illustrations/menu_mariage_1917.jpg}}
     \par\vspace{0.6mm}{\fontsize{5.8pt}{6.7pt}\selectfont Menu du repas de noces d'Hippolyte Combes et Marguerite Calmels au 10, rue Alfred-Guibert à Millau (25 octobre 1917). Archives familiales.}
-  \end{minipage}
-\end{center}
+  \end{minipage}\par}
 \vspace*{1mm}
 \newpage
 
@@ -10013,95 +9516,15 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 {\fontsize{7.1pt}{8.3pt}\selectfont Ce dernier trimestre du \textit{Livre-Journal} offre un témoignage privilégié sur l'arrière-front de la Somme au moment du repli stratégique allemand vers la ligne Hindenburg (opération \textit{Alberich}, février–mars 1917) et des offensives alliées d'avril 1917 (batailles d'Arras, de la Scarpe et de Bullecourt). Trois rencontres majeures illustrent la richesse prosopographique et historique de ces pages : le 13 mars 1917 au \textbf{Mesnil-Martinsart} (f\textsuperscript{o}~84~r\textsuperscript{o}), la visite à l'instituteur \textbf{Fortuné Flutre} et à son épouse, parents du philologue romaniste \textbf{Louis-Fernand Flutre} (1892–1978, admis à l'École normale supérieure en 1914, agrégé en 1921 et auteur en 1955 des deux monographies de référence sur l'histoire et le parler picard du Mesnil-Martinsart ; R.~Debrie, \textit{Revue de linguistique romane}, 42, 1978, p.~238–240) ; les 19–21 mars (f\textsuperscript{o}~85~r\textsuperscript{o}–v\textsuperscript{o}), le passage d'un officier de la \textbf{63\textsuperscript{e} Division (\textit{Royal Naval Division})} et de cavaliers, dont les \textbf{17th Lancers}, rapprochables de la \textbf{4\textsuperscript{e} Division de cavalerie} (\textit{Sialkot Cavalry Brigade}, unissant les \textbf{17\textsuperscript{e} Lanciers britanniques} \textit{Death or Glory Boys} et les régiments de lanciers indiens) ; enfin, à partir du 13 avril (f\textsuperscript{o}~89~v\textsuperscript{o}), l'amitié intellectuelle nouée avec le \textbf{sous-lieutenant Gilbert}, originaire de l'île anglo-normande de \textbf{Jersey}, qui rend à Hippolyte Combes le goût des lettres et de la sérénité au seuil du printemps 1917.\par}
 \vfill
 \newpage
-% --- Page de droite d'ouverture du chapitre : Carte vectorielle TikZ & Photographies d'archives ---
+% --- Page de droite d'ouverture du chapitre : Carte géographique vectorielle & Photographies d'archives ---
 \noindent\rule{\textwidth}{0.5pt}\par\vspace{0.6mm}
-\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont CARTE D'ITINÉRAIRE DU CHAPITRE VII} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont FÉVRIER 1917 – AVRIL 1917}\par\vspace{0.25mm}
-\noindent{\fontsize{6.7pt}{7.8pt}\selectfont\textit{Déplacements, cantonnements et tournées d'Hippolyte Combes (Folio 73 verso à Folio 93 recto)}}\par\vspace{0.55mm}
-\noindent\rule{\textwidth}{0.35pt}\par\vspace{1.2mm}
-\begin{center}
-
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  hub/.style={circle, draw=bordeaux, fill=white, line width=0.85pt, inner sep=1.8pt},
-  tour/.style={draw=bordeaux!85, line width=0.55pt, ->, >=stealth},
-  advance/.style={draw=black!75, line width=0.65pt, dashed, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.2pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Rivières : l'Authie au nord, l'Ancre à l'est (légèrement à l'ouest de l'axe Albert-Miraumont)
-\draw[river] (-70mm,39mm) -- (12mm,35mm) node[right]{\textit{L'Authie}};
-\draw[river] (37mm,26mm) .. controls (33mm,8mm) and (29mm,-12mm) .. (23mm,-40mm) node[right]{\textit{L'Ancre}};
-
-% Centre d'Hérissart (Army Purchase Board)
-\node[hub] (herissart) at (-22mm, -2mm) {};
-\node[above left, xshift=-2.8mm, yshift=0.5mm, align=right] at (herissart) {\textbf{HÉRISSART}\\(\textit{Purchase Board})};
-
-% Nord-Ouest : Doullens, Auxi-le-Château, Candas
-\node[loc] (auxi) at (-58mm, 35mm) {};
-\node[below, align=center, xshift=-3mm, yshift=-0.8mm] at (auxi) {\textbf{Auxi-le-Château}\\(21 févr.)};
-\node[loc] (doullens) at (-32mm, 28mm) {};
-\node[above right, xshift=1mm, yshift=0.2mm] at (doullens) {\textbf{Doullens} (achats \& cantine)};
-\node[loc] (candas) at (-44mm, 16mm) {};
-\node[above left, xshift=1mm, yshift=0.5mm] at (candas) {Candas};
-\node[loc] (raincheval) at (-17mm, 17mm) {};
-\node[above, align=center, yshift=0.6mm] at (raincheval) {Raincheval \&\\Puchevillers};
-\node[loc] (acheux) at (4mm, 21mm) {};
-\node[above right, xshift=0.5mm] at (acheux) {Acheux \& Bertrancourt};
-
-% Ouest et Sud : Villers-Bocage, Talmas, Rubempré, Molliens, Beaucourt
-\node[loc] (talmas) at (-48mm, -10mm) {};
-\node[left, xshift=-1.2mm] at (talmas) {Talmas \& \textbf{Villers-Bocage}};
-\node[loc] (pierregot) at (-32mm, -16mm) {};
-\node[left, xshift=-1.2mm] at (pierregot) {Pierregot \& Mirvaux};
-\node[loc] (rubempre) at (-12mm, -21mm) {};
-\node[right, xshift=1.2mm, yshift=-0.5mm] at (rubempre) {\textbf{Rubempré}};
-\node[loc] (molliens) at (-26mm, -26mm) {};
-\node[left, xshift=-1.2mm] at (molliens) {Molliens-au-Bois};
-\node[loc] (beaucourt) at (-12mm, -33mm) {};
-\node[below, yshift=-0.5mm] at (beaucourt) {\textbf{Beaucourt-sur-l'Hallue} \& Montigny (16 févr.)};
-
-% Est : Toutencourt, Contay, Warloy, Senlis, Mesnil-Martinsart, Albert
-\node[loc] (toutencourt) at (-3mm, 8mm) {};
-\node[right, xshift=1.5mm, align=left] at (toutencourt) {\textbf{Toutencourt}\\(Mission V\textsuperscript{e} Armée)};
-\node[loc] (contay) at (6mm, -11mm) {};
-\node[below, align=center, xshift=-1mm, yshift=-0.8mm] at (contay) {\textbf{Contay} \&\\Warloy-Baillon};
-\node[loc] (senlis) at (1mm, -4.5mm) {};
-\node[right, xshift=1.5mm, align=left] at (senlis) {\textbf{Senlis-le-Sec}\\(\textit{17th Lancers}, 21 mars)};
-\node[loc] (mesnil) at (36mm, 1mm) {};
-\node[right, xshift=1.5mm, align=left] at (mesnil) {\textbf{Le Mesnil-Martinsart}\\(famille Flutre, 13 mars)};
-\node[loc] (albert) at (32mm, -18mm) {};
-\node[right, xshift=1.5mm, align=left] at (albert) {\textbf{Albert}, Aveluy \&\\Buire-sur-l'Ancre};
-
-% Nord-Est : Secteur du repli allemand (Miraumont, Achiet-le-Petit, Bapaume, Arras)
-\node[loc] (miraumont) at (40mm, 16mm) {};
-\node[right, xshift=1.5mm] at (miraumont) {\textbf{Miraumont}};
-\node[loc] (achiet) at (42mm, 27mm) {};
-\node[right, xshift=1.5mm, align=left] at (achiet) {\textbf{Achiet-le-Petit}\\(\textit{63rd Naval Div.}, 19 mars)};
-\node[loc] (arras) at (38mm, 39mm) {};
-\node[above, xshift=-2mm] at (arras) {\textbf{Vers Bapaume \& Arras} (canonnade, avr. 1917)};
-
-% Rayons et mouvements
-\foreach \dest in {doullens,candas,raincheval,acheux,toutencourt,senlis,mesnil,rubempre,pierregot,molliens,beaucourt,talmas} {
-  \draw[tour] (herissart) -- (\dest);
-}
-\draw[tour] (herissart) -- (contay) -- (albert);
-\draw[tour] (doullens) -- (auxi);
-\draw[advance] (albert) -- (mesnil) -- (miraumont) -- (achiet) -- (arras);
-
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 5\hfill 10 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}\phantomsection\label{carte:VII}%
-}
-
-\end{center}
+\noindent\textbf{\fontsize{6.8pt}{7.8pt}\selectfont REPÈRES DU CHAPITRE VII} \hfill \textbf{\fontsize{6.8pt}{7.8pt}\selectfont FÉVRIER 1917 – AVRIL 1917}\par\vspace{0.25mm}
+{\centering
+\phantomsection\label{carte:VII}
+\noindent\includegraphics[width=\textwidth,height=128mm,keepaspectratio]{cartographie/cartes/VII.pdf}\par}
 \vfill
 \noindent\rule{\textwidth}{0.3pt}\par\vspace{1.2mm}
-\noindent\begin{center}
+{\centering
   \begin{minipage}[b]{0.31\textwidth}
     \centering
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
@@ -10119,8 +9542,7 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
     \setlength{\fboxsep}{0.7mm}\setlength{\fboxrule}{0.4pt}%
     \fcolorbox{gray!55}{white}{\includegraphics[width=0.94\linewidth,height=28mm,keepaspectratio]{illustrations/hippolyte_cambridge_1930.jpg}}
     \par\vspace{0.6mm}{\fontsize{5.8pt}{6.7pt}\selectfont Hippolyte Combes en Angleterre (Cambridge, été 1930).}
-  \end{minipage}
-\end{center}
+  \end{minipage}\par}
 \vspace*{1mm}
 \newpage
 
@@ -13092,7 +12514,7 @@ Folio 93 recto & p.~\pageref{fol:186} & 30 avril 1917 & \textbf{Hérissart, Vade
 \noindent\hangindent=4.5mm\textbf{Alric, Marie Anaïs (1838–1907)}, mère d'Hippolyte Combes, épouse de François-Hippolyte Combes : \textit{Comm. :} f\textsuperscript{o}~66~r\textsuperscript{o} (p.~\pageref{fol:132}), f\textsuperscript{o}~70~v\textsuperscript{o} (p.~\pageref{fol:141}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Auriol}, joaillier à Toulouse : f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Backer, M\textsuperscript{me}}, logeuse d'Hippolyte Combes à Lynde (Nord) : f\textsuperscript{o}~1~r\textsuperscript{o} (p.~\pageref{fol:2}) \textit{(lect. inc.)}.\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Barbry, Émile}, industriel blanchisseur sur la Lys près d'Armentières : f\textsuperscript{o}~8~v\textsuperscript{o} (p.~\pageref{fol:17}), f\textsuperscript{o}~11~r\textsuperscript{o} (p.~\pageref{fol:22}), f\textsuperscript{o}~11~v\textsuperscript{o} (p.~\pageref{fol:23}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Barbry, Émile}, industriel blanchisseur sur la Lys près d'Armentières : f\textsuperscript{o}~8~v\textsuperscript{o} (p.~\pageref{fol:17}), f\textsuperscript{o}~11~r\textsuperscript{o} (p.~\pageref{fol:22}), f\textsuperscript{o}~11~v\textsuperscript{o} (p.~\pageref{fol:23}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Benoît-Joseph Labre, saint (1748–1783)}, pèlerin vénéré en l'église de Saint-Pol-sur-Ternoise : f\textsuperscript{o}~16~r\textsuperscript{o} (p.~\pageref{fol:32}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Bertin (famille)}, hôtes au château de Martinsart (Somme) : f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}) \textit{(lect. inc.)}.\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Bienaimé, M\textsuperscript{e}}, notaire à Toutencourt (Somme) : f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}) ; \textit{Comm. :} f\textsuperscript{o}~87~v\textsuperscript{o} (p.~\pageref{fol:175}).\par\vspace{0.55mm}
@@ -13100,7 +12522,7 @@ Folio 93 recto & p.~\pageref{fol:186} & 30 avril 1917 & \textbf{Hérissart, Vade
 \noindent\hangindent=4.5mm\textbf{Bradfield, Lieutenant}, officier britannique de la 152\textsuperscript{e} Compagnie A.S.C. : f\textsuperscript{o}~75~v\textsuperscript{o} (p.~\pageref{fol:151}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Brammas}, collègue interprète militaire : f\textsuperscript{o}~22~v\textsuperscript{o} (p.~\pageref{fol:45}) ; Organigramme III (p.~\pageref{genealogie:militaires}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Bresson, Capitaine}, officier de la Mission militaire française auprès de la V\textsuperscript{e} Armée à Toutencourt : f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}) ; Organigramme III (p.~\pageref{genealogie:militaires}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Calmels (famille)}, famille de Marguerite Calmels, dont ses parents Gabriel Calmels et Valentine Cartairade : f\textsuperscript{o}~27~r\textsuperscript{o} (p.~\pageref{fol:54}), f\textsuperscript{o}~30~r\textsuperscript{o} (p.~\pageref{fol:60}) ; \textit{Comm. :} f\textsuperscript{o}~9~v\textsuperscript{o} (p.~\pageref{fol:19}), f\textsuperscript{o}~27~v\textsuperscript{o} (p.~\pageref{fol:55}), f\textsuperscript{o}~28~r\textsuperscript{o} (p.~\pageref{fol:56}), f\textsuperscript{o}~29~r\textsuperscript{o} (p.~\pageref{fol:58}), f\textsuperscript{o}~29~v\textsuperscript{o} (p.~\pageref{fol:59}), f\textsuperscript{o}~32~r\textsuperscript{o} (p.~\pageref{fol:64}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}), f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}), f\textsuperscript{o}~67~r\textsuperscript{o} (p.~\pageref{fol:134}), f\textsuperscript{o}~68~r\textsuperscript{o} (p.~\pageref{fol:136}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}), f\textsuperscript{o}~70~v\textsuperscript{o} (p.~\pageref{fol:141}), f\textsuperscript{o}~71~r\textsuperscript{o} (p.~\pageref{fol:142}), f\textsuperscript{o}~71~v\textsuperscript{o} (p.~\pageref{fol:143}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Calmels (famille)}, famille de Marguerite Calmels, dont ses parents Gabriel Calmels et Valentine Cartairade : f\textsuperscript{o}~27~r\textsuperscript{o} (p.~\pageref{fol:54}), f\textsuperscript{o}~30~r\textsuperscript{o} (p.~\pageref{fol:60}) ; \textit{Comm. :} f\textsuperscript{o}~9~v\textsuperscript{o} (p.~\pageref{fol:19}), f\textsuperscript{o}~27~v\textsuperscript{o} (p.~\pageref{fol:55}), f\textsuperscript{o}~28~r\textsuperscript{o} (p.~\pageref{fol:56}), f\textsuperscript{o}~29~r\textsuperscript{o} (p.~\pageref{fol:58}), f\textsuperscript{o}~29~v\textsuperscript{o} (p.~\pageref{fol:59}), f\textsuperscript{o}~32~r\textsuperscript{o} (p.~\pageref{fol:64}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}), f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}), f\textsuperscript{o}~67~r\textsuperscript{o} (p.~\pageref{fol:134}), f\textsuperscript{o}~68~r\textsuperscript{o} (p.~\pageref{fol:136}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}), f\textsuperscript{o}~70~v\textsuperscript{o} (p.~\pageref{fol:141}), f\textsuperscript{o}~71~r\textsuperscript{o} (p.~\pageref{fol:142}), f\textsuperscript{o}~71~v\textsuperscript{o} (p.~\pageref{fol:143}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Calmels, Anne-Marie dite « Mimi » (1888–1975)}, sœur de Marguerite Calmels, future épouse de M\textsuperscript{e} Joseph Delcamps : f\textsuperscript{o}~71~r\textsuperscript{o} (p.~\pageref{fol:142}) ; Généalogie II (p.~\pageref{genealogie:calmels}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Calmels, Madeleine (1882–1961, \textit{Mad\textsuperscript{ne}})}, sœur aînée de Marguerite Calmels, épouse du D\textsuperscript{r} Fernand Vincens : f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}), f\textsuperscript{o}~67~r\textsuperscript{o} (p.~\pageref{fol:134}) ; \textit{Comm. :} f\textsuperscript{o}~70~v\textsuperscript{o} (p.~\pageref{fol:141}) ; Généalogie II (p.~\pageref{genealogie:calmels}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Calmels, Marie Marguerite (1892–1974, \textit{Marg\textsuperscript{te}}, \textit{M\textsuperscript{te}}, \textit{Gueïte})}, fiancée puis épouse d'Hippolyte Combes : f\textsuperscript{o}~1~r\textsuperscript{o} (p.~\pageref{fol:2}), f\textsuperscript{o}~3~r\textsuperscript{o} (p.~\pageref{fol:6}), f\textsuperscript{o}~9~v\textsuperscript{o} (p.~\pageref{fol:19}), f\textsuperscript{o}~27~r\textsuperscript{o} (p.~\pageref{fol:54}), f\textsuperscript{o}~27~v\textsuperscript{o} (p.~\pageref{fol:55}), f\textsuperscript{o}~28~r\textsuperscript{o} (p.~\pageref{fol:56}), f\textsuperscript{o}~28~v\textsuperscript{o} (p.~\pageref{fol:57}), f\textsuperscript{o}~29~r\textsuperscript{o} (p.~\pageref{fol:58}), f\textsuperscript{o}~29~v\textsuperscript{o} (p.~\pageref{fol:59}), f\textsuperscript{o}~30~r\textsuperscript{o} (p.~\pageref{fol:60}), f\textsuperscript{o}~31~r\textsuperscript{o} (p.~\pageref{fol:62}), f\textsuperscript{o}~32~r\textsuperscript{o} (p.~\pageref{fol:64}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~57~r\textsuperscript{o} (p.~\pageref{fol:114}), f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}), f\textsuperscript{o}~67~r\textsuperscript{o} (p.~\pageref{fol:134}), f\textsuperscript{o}~67~v\textsuperscript{o} (p.~\pageref{fol:135}), f\textsuperscript{o}~68~r\textsuperscript{o} (p.~\pageref{fol:136}), f\textsuperscript{o}~68~v\textsuperscript{o} (p.~\pageref{fol:137}), f\textsuperscript{o}~69~r\textsuperscript{o} (p.~\pageref{fol:138}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}), f\textsuperscript{o}~70~r\textsuperscript{o} (p.~\pageref{fol:140}), f\textsuperscript{o}~70~v\textsuperscript{o} (p.~\pageref{fol:141}), f\textsuperscript{o}~71~r\textsuperscript{o} (p.~\pageref{fol:142}), f\textsuperscript{o}~71~v\textsuperscript{o} (p.~\pageref{fol:143}) ; \textit{Comm. :} f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
@@ -13118,8 +12540,8 @@ Folio 93 recto & p.~\pageref{fol:186} & 30 avril 1917 & \textbf{Hérissart, Vade
 \noindent\hangindent=4.5mm\textbf{Connelly}, soldat britannique, ordonnance (\textit{groom}) d'Hippolyte Combes à la 152\textsuperscript{e} Compagnie A.S.C. : f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~19~v\textsuperscript{o} (p.~\pageref{fol:39}) \textit{(lect. inc.)}, f\textsuperscript{o}~20~v\textsuperscript{o} (p.~\pageref{fol:41}), f\textsuperscript{o}~22~v\textsuperscript{o} (p.~\pageref{fol:45}), f\textsuperscript{o}~37~r\textsuperscript{o} (p.~\pageref{fol:74}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Cordonnier}, interprète mentionné avec « R.F.A. », revu au bureau de la mission de la 2e division : f\textsuperscript{o}~46~r\textsuperscript{o} (p.~\pageref{fol:92}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Croughton, Lieutenant}, officier britannique du service automobile et des achats : f\textsuperscript{o}~54~v\textsuperscript{o} (p.~\pageref{fol:109}) \textit{(lect. inc.)}, f\textsuperscript{o}~75~r\textsuperscript{o} (p.~\pageref{fol:150}) ; Organigramme III (p.~\pageref{genealogie:militaires}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Crouzet (famille ; Émile, Élisabeth et Jean)}, famille toulousaine apparentée aux Calmels : f\textsuperscript{o}~27~r\textsuperscript{o} (p.~\pageref{fol:54}), f\textsuperscript{o}~27~v\textsuperscript{o} (p.~\pageref{fol:55}), f\textsuperscript{o}~31~r\textsuperscript{o} (p.~\pageref{fol:62}), f\textsuperscript{o}~32~r\textsuperscript{o} (p.~\pageref{fol:64}) ; \textit{Comm. :} f\textsuperscript{o}~29~v\textsuperscript{o} (p.~\pageref{fol:59}), f\textsuperscript{o}~66~r\textsuperscript{o} (p.~\pageref{fol:132}), f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}), f\textsuperscript{o}~68~r\textsuperscript{o} (p.~\pageref{fol:136}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Crouzet, Abbé Jean}, cousin germain de Marguerite Calmels, prêtre à Toulouse (futur curé de la Dalbade) : f\textsuperscript{o}~29~r\textsuperscript{o} (p.~\pageref{fol:58}), f\textsuperscript{o}~29~v\textsuperscript{o} (p.~\pageref{fol:59}), f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Crouzet (famille ; Émile, Élisabeth et Jean)}, famille toulousaine apparentée aux Calmels : f\textsuperscript{o}~27~r\textsuperscript{o} (p.~\pageref{fol:54}), f\textsuperscript{o}~27~v\textsuperscript{o} (p.~\pageref{fol:55}), f\textsuperscript{o}~31~r\textsuperscript{o} (p.~\pageref{fol:62}), f\textsuperscript{o}~32~r\textsuperscript{o} (p.~\pageref{fol:64}) ; \textit{Comm. :} f\textsuperscript{o}~29~v\textsuperscript{o} (p.~\pageref{fol:59}), f\textsuperscript{o}~66~r\textsuperscript{o} (p.~\pageref{fol:132}), f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}), f\textsuperscript{o}~68~r\textsuperscript{o} (p.~\pageref{fol:136}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}) ; Généalogie II (p.~\pageref{genealogie:calmels}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Crouzet, Abbé Jean}, cousin germain de Marguerite Calmels, prêtre à Toulouse (futur curé de la Dalbade) : f\textsuperscript{o}~29~r\textsuperscript{o} (p.~\pageref{fol:58}), f\textsuperscript{o}~29~v\textsuperscript{o} (p.~\pageref{fol:59}), f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}) ; Généalogie II (p.~\pageref{genealogie:calmels}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Cuisinier, M\textsuperscript{me}}, hôtesse rencontrée notamment à Louvencourt et Acheux : f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}) ; \textit{Comm. :} f\textsuperscript{o}~63~r\textsuperscript{o} (p.~\pageref{fol:126}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Curtis, Lieutenant (\textit{C\textsuperscript{tis}})}, officier britannique d'approvisionnement et de fourrage (18\textsuperscript{e} Division puis Acheux) : f\textsuperscript{o}~1~r\textsuperscript{o} (p.~\pageref{fol:2}), f\textsuperscript{o}~3~r\textsuperscript{o} (p.~\pageref{fol:6}), f\textsuperscript{o}~6~v\textsuperscript{o} (p.~\pageref{fol:13}), f\textsuperscript{o}~7~r\textsuperscript{o} (p.~\pageref{fol:14}), f\textsuperscript{o}~9~v\textsuperscript{o} (p.~\pageref{fol:19}), f\textsuperscript{o}~10~v\textsuperscript{o} (p.~\pageref{fol:21}), f\textsuperscript{o}~11~v\textsuperscript{o} (p.~\pageref{fol:23}), f\textsuperscript{o}~15~r\textsuperscript{o} (p.~\pageref{fol:30}), f\textsuperscript{o}~18~v\textsuperscript{o} (p.~\pageref{fol:37}), f\textsuperscript{o}~44~v\textsuperscript{o} (p.~\pageref{fol:89}), f\textsuperscript{o}~45~r\textsuperscript{o} (p.~\pageref{fol:90}), f\textsuperscript{o}~45~v\textsuperscript{o} (p.~\pageref{fol:91}), f\textsuperscript{o}~46~v\textsuperscript{o} (p.~\pageref{fol:93}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~48~v\textsuperscript{o} (p.~\pageref{fol:97}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}) ; \textit{Comm. :} f\textsuperscript{o}~11~r\textsuperscript{o} (p.~\pageref{fol:22}), f\textsuperscript{o}~43~v\textsuperscript{o} (p.~\pageref{fol:87}), f\textsuperscript{o}~82~v\textsuperscript{o} (p.~\pageref{fol:165}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Delille, M\textsuperscript{me}}, habitante d'Acheux-en-Amiénois (Somme) : f\textsuperscript{o}~73~v\textsuperscript{o} (p.~\pageref{fol:147}).\par\vspace{0.55mm}
@@ -13130,8 +12552,8 @@ Folio 93 recto & p.~\pageref{fol:186} & 30 avril 1917 & \textbf{Hérissart, Vade
 \noindent\hangindent=4.5mm\textbf{Dubois, Paul}, maire de Montigny-sur-l'Hallue (Somme) : f\textsuperscript{o}~59~v\textsuperscript{o} (p.~\pageref{fol:119}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Duchâteau, Victor \& famille}, famille logeant Hippolyte Combes près du camp des briqueteries à Albert : f\textsuperscript{o}~43~v\textsuperscript{o} (p.~\pageref{fol:87}), f\textsuperscript{o}~45~v\textsuperscript{o} (p.~\pageref{fol:91}), f\textsuperscript{o}~46~v\textsuperscript{o} (p.~\pageref{fol:93}) ; \textit{Comm. :} f\textsuperscript{o}~40~r\textsuperscript{o} (p.~\pageref{fol:80}), f\textsuperscript{o}~41~r\textsuperscript{o} (p.~\pageref{fol:82}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Dupuich, M.}, interprète militaire français détaché auprès du XIII\textsuperscript{e} Corps britannique à Candas : f\textsuperscript{o}~19~v\textsuperscript{o} (p.~\pageref{fol:39}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Faure, M\textsuperscript{me} \& ses enfants (Marguerite, Germaine, Marcel, Henri, André)}, famille visitée à Neuilly-sur-Seine ; parenté avec les Calmels rapprochée du dossier familial : f\textsuperscript{o}~65~v\textsuperscript{o} (p.~\pageref{fol:131}) ; \textit{Comm. :} f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Flutre, Fortuné \& Louis-Fernand (1892–1978)}, instituteur du Mesnil-Martinsart et son fils élève de l'École normale supérieure : f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Faure, M\textsuperscript{me} \& ses enfants (Marguerite, Germaine, Marcel, Henri, André)}, famille visitée à Neuilly-sur-Seine ; parenté avec les Calmels rapprochée du dossier familial : f\textsuperscript{o}~65~v\textsuperscript{o} (p.~\pageref{fol:131}) ; \textit{Comm. :} f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}) ; Généalogie II (p.~\pageref{genealogie:calmels}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Flutre, Fortuné \& Louis-Fernand (1892–1978)}, instituteur du Mesnil-Martinsart et son fils élève de l'École normale supérieure : f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}) ; Organigramme III (p.~\pageref{genealogie:militaires}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Ford, Capitaine E.~M.}, officier britannique du \textit{18th Divisional Train, A.S.C.}, décoré de la \textit{Military Cross} : f\textsuperscript{o}~25~r\textsuperscript{o} (p.~\pageref{fol:50}) ; Organigramme III (p.~\pageref{genealogie:militaires}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Gilbert, Second Lieutenant}, sous-lieutenant britannique originaire de Jersey, poète, attaché au \textit{Purchase Board} à Hérissart : f\textsuperscript{o}~89~v\textsuperscript{o} (p.~\pageref{fol:179}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~92~v\textsuperscript{o} (p.~\pageref{fol:185}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Godard, Lieutenant}, jeune officier britannique du \textit{Purchase Board} à Toutencourt et Hérissart : f\textsuperscript{o}~83~r\textsuperscript{o} (p.~\pageref{fol:166}) ; Organigramme III (p.~\pageref{genealogie:militaires}).\par\vspace{0.55mm}
@@ -13206,99 +12628,98 @@ Folio 93 recto & p.~\pageref{fol:186} & 30 avril 1917 & \textbf{Hérissart, Vade
 {\fontsize{7.0pt}{8.3pt}\selectfont
 \noindent Les renvois distinguent les attestations du carnet, les mentions du commentaire (\textit{Comm.}) et les documents imprimés. Les attestations du carnet donnent le folio éditorial du \textit{Livre-Journal} (\texttt{f\textsuperscript{o}~X~r\textsuperscript{o}/v\textsuperscript{o}}) et au numéro de page correspondant du présent volume (\texttt{p.~Y}). Les cartes et arbres citent leur propre page ; \textit{lect. inc.} signale une lecture réservée.\par\vspace{2.0mm}
 \noindent\hangindent=4.5mm\textbf{Abbeville (Somme)}, chef-lieu d'arrondissement de la Somme : f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Acheux-en-Amiénois (Somme)}, chef-lieu de canton de la Somme, gare (\textit{railhead} d'Acheux-Varennes), château et cantonnement d'Hippolyte Combes (nov. 1916 – févr. 1917) : f\textsuperscript{o}~21~v\textsuperscript{o} (p.~\pageref{fol:43}), f\textsuperscript{o}~22~v\textsuperscript{o} (p.~\pageref{fol:45}), f\textsuperscript{o}~23~r\textsuperscript{o} (p.~\pageref{fol:46}), f\textsuperscript{o}~24~r\textsuperscript{o} (p.~\pageref{fol:48}), f\textsuperscript{o}~24~v\textsuperscript{o} (p.~\pageref{fol:49}), f\textsuperscript{o}~25~r\textsuperscript{o} (p.~\pageref{fol:50}), f\textsuperscript{o}~43~v\textsuperscript{o} (p.~\pageref{fol:87}), f\textsuperscript{o}~44~v\textsuperscript{o} (p.~\pageref{fol:89}), f\textsuperscript{o}~45~r\textsuperscript{o} (p.~\pageref{fol:90}), f\textsuperscript{o}~45~v\textsuperscript{o} (p.~\pageref{fol:91}), f\textsuperscript{o}~46~v\textsuperscript{o} (p.~\pageref{fol:93}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~48~v\textsuperscript{o} (p.~\pageref{fol:97}), f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~51~v\textsuperscript{o} (p.~\pageref{fol:103}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~56~v\textsuperscript{o} (p.~\pageref{fol:113}), f\textsuperscript{o}~58~v\textsuperscript{o} (p.~\pageref{fol:117}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}), f\textsuperscript{o}~60~r\textsuperscript{o} (p.~\pageref{fol:120}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}), f\textsuperscript{o}~73~v\textsuperscript{o} (p.~\pageref{fol:147}), f\textsuperscript{o}~74~r\textsuperscript{o} (p.~\pageref{fol:148}), f\textsuperscript{o}~74~v\textsuperscript{o} (p.~\pageref{fol:149}), f\textsuperscript{o}~75~v\textsuperscript{o} (p.~\pageref{fol:151}), f\textsuperscript{o}~77~r\textsuperscript{o} (p.~\pageref{fol:154}), f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}) ; \textit{Comm. :} f\textsuperscript{o}~47~r\textsuperscript{o} (p.~\pageref{fol:94}), f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}), f\textsuperscript{o}~57~r\textsuperscript{o} (p.~\pageref{fol:114}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~63~v\textsuperscript{o} (p.~\pageref{fol:127}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre II (p.~\pageref{carte:II}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre VI (p.~\pageref{carte:VI}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Achiet-le-Petit (Pas-de-Calais)}, village au nord-est de Miraumont repris lors du repli allemand de mars 1917 : f\textsuperscript{o}~85~r\textsuperscript{o} (p.~\pageref{fol:170}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Albert (Somme)}, ville de la vallée de l'Ancre, basilique Notre-Dame de Brebières (\textit{Vierge penchée}) et bivouac des briqueteries (\textit{Brickfields}) : f\textsuperscript{o}~39~r\textsuperscript{o} (p.~\pageref{fol:78}), f\textsuperscript{o}~39~v\textsuperscript{o} (p.~\pageref{fol:79}), f\textsuperscript{o}~40~r\textsuperscript{o} (p.~\pageref{fol:80}), f\textsuperscript{o}~41~v\textsuperscript{o} (p.~\pageref{fol:83}), f\textsuperscript{o}~42~r\textsuperscript{o} (p.~\pageref{fol:84}), f\textsuperscript{o}~43~v\textsuperscript{o} (p.~\pageref{fol:87}), f\textsuperscript{o}~44~v\textsuperscript{o} (p.~\pageref{fol:89}), f\textsuperscript{o}~45~v\textsuperscript{o} (p.~\pageref{fol:91}), f\textsuperscript{o}~46~r\textsuperscript{o} (p.~\pageref{fol:92}), f\textsuperscript{o}~46~v\textsuperscript{o} (p.~\pageref{fol:93}), f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~50~r\textsuperscript{o} (p.~\pageref{fol:100}), f\textsuperscript{o}~82~r\textsuperscript{o} (p.~\pageref{fol:164}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}) ; \textit{Comm. :} f\textsuperscript{o}~37~r\textsuperscript{o} (p.~\pageref{fol:74}), f\textsuperscript{o}~37~v\textsuperscript{o} (p.~\pageref{fol:75}), f\textsuperscript{o}~38~v\textsuperscript{o} (p.~\pageref{fol:77}), f\textsuperscript{o}~41~r\textsuperscript{o} (p.~\pageref{fol:82}), f\textsuperscript{o}~42~v\textsuperscript{o} (p.~\pageref{fol:85}), f\textsuperscript{o}~43~r\textsuperscript{o} (p.~\pageref{fol:86}), f\textsuperscript{o}~45~r\textsuperscript{o} (p.~\pageref{fol:90}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~75~v\textsuperscript{o} (p.~\pageref{fol:151}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Amiens (Somme)}, préfecture de la Somme, cathédrale Notre-Dame et nœud ferroviaire des permissions : f\textsuperscript{o}~25~v\textsuperscript{o} (p.~\pageref{fol:51}), f\textsuperscript{o}~32~v\textsuperscript{o} (p.~\pageref{fol:65}), f\textsuperscript{o}~44~v\textsuperscript{o} (p.~\pageref{fol:89}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~59~v\textsuperscript{o} (p.~\pageref{fol:119}), f\textsuperscript{o}~63~r\textsuperscript{o} (p.~\pageref{fol:126}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}), f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}), f\textsuperscript{o}~74~r\textsuperscript{o} (p.~\pageref{fol:148}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}) ; \textit{Comm. :} f\textsuperscript{o}~37~r\textsuperscript{o} (p.~\pageref{fol:74}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~72~v\textsuperscript{o} (p.~\pageref{fol:145}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Ancre (vallée de l')}, affluent de la Somme traversant Miraumont, Albert, Aveluy, Buire, Ribemont et Heilly : f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}) ; \textit{Comm. :} f\textsuperscript{o}~19~v\textsuperscript{o} (p.~\pageref{fol:39}), f\textsuperscript{o}~36~v\textsuperscript{o} (p.~\pageref{fol:73}), f\textsuperscript{o}~37~v\textsuperscript{o} (p.~\pageref{fol:75}), f\textsuperscript{o}~41~r\textsuperscript{o} (p.~\pageref{fol:82}), f\textsuperscript{o}~43~r\textsuperscript{o} (p.~\pageref{fol:86}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~50~r\textsuperscript{o} (p.~\pageref{fol:100}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}), f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Acheux-en-Amiénois (Somme)}, chef-lieu de canton de la Somme, gare (\textit{railhead} d'Acheux-Varennes), château et cantonnement d'Hippolyte Combes (nov. 1916 – févr. 1917) : f\textsuperscript{o}~21~v\textsuperscript{o} (p.~\pageref{fol:43}), f\textsuperscript{o}~22~v\textsuperscript{o} (p.~\pageref{fol:45}), f\textsuperscript{o}~23~r\textsuperscript{o} (p.~\pageref{fol:46}), f\textsuperscript{o}~24~r\textsuperscript{o} (p.~\pageref{fol:48}), f\textsuperscript{o}~24~v\textsuperscript{o} (p.~\pageref{fol:49}), f\textsuperscript{o}~25~r\textsuperscript{o} (p.~\pageref{fol:50}), f\textsuperscript{o}~43~v\textsuperscript{o} (p.~\pageref{fol:87}), f\textsuperscript{o}~44~v\textsuperscript{o} (p.~\pageref{fol:89}), f\textsuperscript{o}~45~r\textsuperscript{o} (p.~\pageref{fol:90}), f\textsuperscript{o}~45~v\textsuperscript{o} (p.~\pageref{fol:91}), f\textsuperscript{o}~46~v\textsuperscript{o} (p.~\pageref{fol:93}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~48~v\textsuperscript{o} (p.~\pageref{fol:97}), f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~51~v\textsuperscript{o} (p.~\pageref{fol:103}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~56~v\textsuperscript{o} (p.~\pageref{fol:113}), f\textsuperscript{o}~58~v\textsuperscript{o} (p.~\pageref{fol:117}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}), f\textsuperscript{o}~60~r\textsuperscript{o} (p.~\pageref{fol:120}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}), f\textsuperscript{o}~73~v\textsuperscript{o} (p.~\pageref{fol:147}), f\textsuperscript{o}~74~r\textsuperscript{o} (p.~\pageref{fol:148}), f\textsuperscript{o}~74~v\textsuperscript{o} (p.~\pageref{fol:149}), f\textsuperscript{o}~75~v\textsuperscript{o} (p.~\pageref{fol:151}), f\textsuperscript{o}~77~r\textsuperscript{o} (p.~\pageref{fol:154}), f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}) ; \textit{Comm. :} f\textsuperscript{o}~47~r\textsuperscript{o} (p.~\pageref{fol:94}), f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}), f\textsuperscript{o}~57~r\textsuperscript{o} (p.~\pageref{fol:114}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~63~v\textsuperscript{o} (p.~\pageref{fol:127}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre II (p.~\pageref{carte:II}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VI (p.~\pageref{carte:VI}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Achiet-le-Petit (Pas-de-Calais)}, village au nord-est de Miraumont repris lors du repli allemand de mars 1917 : f\textsuperscript{o}~85~r\textsuperscript{o} (p.~\pageref{fol:170}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Albert (Somme)}, ville de la vallée de l'Ancre, basilique Notre-Dame de Brebières (\textit{Vierge penchée}) et bivouac des briqueteries (\textit{Brickfields}) : f\textsuperscript{o}~39~r\textsuperscript{o} (p.~\pageref{fol:78}), f\textsuperscript{o}~39~v\textsuperscript{o} (p.~\pageref{fol:79}), f\textsuperscript{o}~40~r\textsuperscript{o} (p.~\pageref{fol:80}), f\textsuperscript{o}~41~v\textsuperscript{o} (p.~\pageref{fol:83}), f\textsuperscript{o}~42~r\textsuperscript{o} (p.~\pageref{fol:84}), f\textsuperscript{o}~43~v\textsuperscript{o} (p.~\pageref{fol:87}), f\textsuperscript{o}~44~v\textsuperscript{o} (p.~\pageref{fol:89}), f\textsuperscript{o}~45~v\textsuperscript{o} (p.~\pageref{fol:91}), f\textsuperscript{o}~46~r\textsuperscript{o} (p.~\pageref{fol:92}), f\textsuperscript{o}~46~v\textsuperscript{o} (p.~\pageref{fol:93}), f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~50~r\textsuperscript{o} (p.~\pageref{fol:100}), f\textsuperscript{o}~82~r\textsuperscript{o} (p.~\pageref{fol:164}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}) ; \textit{Comm. :} f\textsuperscript{o}~37~r\textsuperscript{o} (p.~\pageref{fol:74}), f\textsuperscript{o}~37~v\textsuperscript{o} (p.~\pageref{fol:75}), f\textsuperscript{o}~38~v\textsuperscript{o} (p.~\pageref{fol:77}), f\textsuperscript{o}~41~r\textsuperscript{o} (p.~\pageref{fol:82}), f\textsuperscript{o}~42~v\textsuperscript{o} (p.~\pageref{fol:85}), f\textsuperscript{o}~43~r\textsuperscript{o} (p.~\pageref{fol:86}), f\textsuperscript{o}~45~r\textsuperscript{o} (p.~\pageref{fol:90}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~75~v\textsuperscript{o} (p.~\pageref{fol:151}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Amiens (Somme)}, préfecture de la Somme, cathédrale Notre-Dame et nœud ferroviaire des permissions : f\textsuperscript{o}~25~v\textsuperscript{o} (p.~\pageref{fol:51}), f\textsuperscript{o}~32~v\textsuperscript{o} (p.~\pageref{fol:65}), f\textsuperscript{o}~44~v\textsuperscript{o} (p.~\pageref{fol:89}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~59~v\textsuperscript{o} (p.~\pageref{fol:119}), f\textsuperscript{o}~63~r\textsuperscript{o} (p.~\pageref{fol:126}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}), f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}), f\textsuperscript{o}~74~r\textsuperscript{o} (p.~\pageref{fol:148}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}) ; \textit{Comm. :} f\textsuperscript{o}~37~r\textsuperscript{o} (p.~\pageref{fol:74}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~72~v\textsuperscript{o} (p.~\pageref{fol:145}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Ancre (vallée de l')}, affluent de la Somme traversant Miraumont, Albert, Aveluy, Buire, Ribemont et Heilly : f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}) ; \textit{Comm. :} f\textsuperscript{o}~19~v\textsuperscript{o} (p.~\pageref{fol:39}), f\textsuperscript{o}~36~v\textsuperscript{o} (p.~\pageref{fol:73}), f\textsuperscript{o}~37~v\textsuperscript{o} (p.~\pageref{fol:75}), f\textsuperscript{o}~41~r\textsuperscript{o} (p.~\pageref{fol:82}), f\textsuperscript{o}~43~r\textsuperscript{o} (p.~\pageref{fol:86}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~50~r\textsuperscript{o} (p.~\pageref{fol:100}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}), f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}) ; Carte du chapitre II (p.~\pageref{carte:II}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Antibes (Alpes-Maritimes)}, ville de la Côte d'Azur évoquée avec l'interprète Maurin : f\textsuperscript{o}~12~r\textsuperscript{o} (p.~\pageref{fol:24}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Armentières (Nord)}, ville industrielle linière sur la Lys, bombardée par l'artillerie allemande : f\textsuperscript{o}~8~v\textsuperscript{o} (p.~\pageref{fol:17}), f\textsuperscript{o}~9~v\textsuperscript{o} (p.~\pageref{fol:19}), f\textsuperscript{o}~11~r\textsuperscript{o} (p.~\pageref{fol:22}) ; \textit{Comm. :} f\textsuperscript{o}~1~r\textsuperscript{o} (p.~\pageref{fol:2}), f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~10~v\textsuperscript{o} (p.~\pageref{fol:21}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Arquèves \& ferme de Belle-Église (Somme)}, commune du canton d'Acheux et ancienne commanderie exploitée par la famille dont le nom est proposé Houtteman : f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~54~v\textsuperscript{o} (p.~\pageref{fol:109}) \textit{(del.)}, f\textsuperscript{o}~55~r\textsuperscript{o} (p.~\pageref{fol:110}), f\textsuperscript{o}~55~v\textsuperscript{o} (p.~\pageref{fol:111}), f\textsuperscript{o}~56~v\textsuperscript{o} (p.~\pageref{fol:113}), f\textsuperscript{o}~57~v\textsuperscript{o} (p.~\pageref{fol:115}), f\textsuperscript{o}~59~v\textsuperscript{o} (p.~\pageref{fol:119}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~62~v\textsuperscript{o} (p.~\pageref{fol:125}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~87~v\textsuperscript{o} (p.~\pageref{fol:175}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~89~v\textsuperscript{o} (p.~\pageref{fol:179}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Arras (Pas-de-Calais)}, préfecture du Pas-de-Calais et secteur de l'offensive britannique d'avril 1917 (bataille de la Scarpe) : f\textsuperscript{o}~16~r\textsuperscript{o} (p.~\pageref{fol:32}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}) ; \textit{Comm. :} f\textsuperscript{o}~20~r\textsuperscript{o} (p.~\pageref{fol:40}), f\textsuperscript{o}~54~v\textsuperscript{o} (p.~\pageref{fol:109}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}) ; Carte du chapitre II (p.~\pageref{carte:II}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Authie (Somme)}, village de la haute vallée de l'Authie au nord d'Acheux : f\textsuperscript{o}~50~r\textsuperscript{o} (p.~\pageref{fol:100}), f\textsuperscript{o}~51~r\textsuperscript{o} (p.~\pageref{fol:102}), f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}), f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~54~v\textsuperscript{o} (p.~\pageref{fol:109}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~77~r\textsuperscript{o} (p.~\pageref{fol:154}) ; \textit{Comm. :} f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~76~r\textsuperscript{o} (p.~\pageref{fol:152}) ; Carte du chapitre II (p.~\pageref{carte:II}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Armentières (Nord)}, ville industrielle linière sur la Lys, bombardée par l'artillerie allemande : f\textsuperscript{o}~8~v\textsuperscript{o} (p.~\pageref{fol:17}), f\textsuperscript{o}~9~v\textsuperscript{o} (p.~\pageref{fol:19}), f\textsuperscript{o}~11~r\textsuperscript{o} (p.~\pageref{fol:22}) ; \textit{Comm. :} f\textsuperscript{o}~1~r\textsuperscript{o} (p.~\pageref{fol:2}), f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~10~v\textsuperscript{o} (p.~\pageref{fol:21}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Arquèves \& ferme de Belle-Église (Somme)}, commune du canton d'Acheux et ancienne commanderie exploitée par la famille dont le nom est proposé Houtteman : f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~54~v\textsuperscript{o} (p.~\pageref{fol:109}) \textit{(del.)}, f\textsuperscript{o}~55~r\textsuperscript{o} (p.~\pageref{fol:110}), f\textsuperscript{o}~55~v\textsuperscript{o} (p.~\pageref{fol:111}), f\textsuperscript{o}~56~v\textsuperscript{o} (p.~\pageref{fol:113}), f\textsuperscript{o}~57~v\textsuperscript{o} (p.~\pageref{fol:115}), f\textsuperscript{o}~59~v\textsuperscript{o} (p.~\pageref{fol:119}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~62~v\textsuperscript{o} (p.~\pageref{fol:125}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~87~v\textsuperscript{o} (p.~\pageref{fol:175}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~89~v\textsuperscript{o} (p.~\pageref{fol:179}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Arras (Pas-de-Calais)}, préfecture du Pas-de-Calais et secteur de l'offensive britannique d'avril 1917 (bataille de la Scarpe) : f\textsuperscript{o}~16~r\textsuperscript{o} (p.~\pageref{fol:32}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}) ; \textit{Comm. :} f\textsuperscript{o}~20~r\textsuperscript{o} (p.~\pageref{fol:40}), f\textsuperscript{o}~54~v\textsuperscript{o} (p.~\pageref{fol:109}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Authie (Somme)}, village de la haute vallée de l'Authie au nord d'Acheux : f\textsuperscript{o}~50~r\textsuperscript{o} (p.~\pageref{fol:100}), f\textsuperscript{o}~51~r\textsuperscript{o} (p.~\pageref{fol:102}), f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}), f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~54~v\textsuperscript{o} (p.~\pageref{fol:109}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~77~r\textsuperscript{o} (p.~\pageref{fol:154}) ; \textit{Comm. :} f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~76~r\textsuperscript{o} (p.~\pageref{fol:152}) ; Carte du chapitre II (p.~\pageref{carte:II}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Auxi-le-Château (Pas-de-Calais)}, chef-lieu de canton sur l'Authie visité en tournée : f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~76~r\textsuperscript{o} (p.~\pageref{fol:152}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Aveluy (Somme)}, village et bois au nord d'Albert sur l'Ancre : f\textsuperscript{o}~41~r\textsuperscript{o} (p.~\pageref{fol:82}), f\textsuperscript{o}~75~v\textsuperscript{o} (p.~\pageref{fol:151}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Aveluy (Somme)}, village et bois au nord d'Albert sur l'Ancre : f\textsuperscript{o}~41~r\textsuperscript{o} (p.~\pageref{fol:82}), f\textsuperscript{o}~75~v\textsuperscript{o} (p.~\pageref{fol:151}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Bac-Saint-Maur (Pas-de-Calais)}, écart de Sailly-sur-la-Lys et écluse sur la Lys (\textit{refilling point}) : \textit{Comm. :} f\textsuperscript{o}~6~v\textsuperscript{o} (p.~\pageref{fol:13}), f\textsuperscript{o}~7~r\textsuperscript{o} (p.~\pageref{fol:14}), f\textsuperscript{o}~7~v\textsuperscript{o} (p.~\pageref{fol:15}), f\textsuperscript{o}~9~r\textsuperscript{o} (p.~\pageref{fol:18}), f\textsuperscript{o}~10~r\textsuperscript{o} (p.~\pageref{fol:20}), f\textsuperscript{o}~12~r\textsuperscript{o} (p.~\pageref{fol:24}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Bailleul (Nord)}, ville de Flandre flamingante au pied des Monts, Grand-Place, beffroi et gare d'embarquement : f\textsuperscript{o}~3~v\textsuperscript{o} (p.~\pageref{fol:7}), f\textsuperscript{o}~4~r\textsuperscript{o} (p.~\pageref{fol:8}), f\textsuperscript{o}~4~v\textsuperscript{o} (p.~\pageref{fol:9}), f\textsuperscript{o}~5~r\textsuperscript{o} (p.~\pageref{fol:10}), f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~13~v\textsuperscript{o} (p.~\pageref{fol:27}), f\textsuperscript{o}~14~r\textsuperscript{o} (p.~\pageref{fol:28}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Bailleul-aux-Cornailles (Pas-de-Calais)}, village du Ternois voisin de Marquay : f\textsuperscript{o}~14~v\textsuperscript{o} (p.~\pageref{fol:29}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Bailleul-aux-Cornailles (Pas-de-Calais)}, village du Ternois voisin de Marquay : f\textsuperscript{o}~14~v\textsuperscript{o} (p.~\pageref{fol:29}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Barlette (Somme)}, hameau de la commune de Ribeaucourt où cantonne la 152\textsuperscript{e} Compagnie A.S.C. : f\textsuperscript{o}~33~v\textsuperscript{o} (p.~\pageref{fol:67}), f\textsuperscript{o}~37~r\textsuperscript{o} (p.~\pageref{fol:74}) ; \textit{Comm. :} f\textsuperscript{o}~34~r\textsuperscript{o} (p.~\pageref{fol:68}), f\textsuperscript{o}~34~v\textsuperscript{o} (p.~\pageref{fol:69}), f\textsuperscript{o}~35~r\textsuperscript{o} (p.~\pageref{fol:70}), f\textsuperscript{o}~36~r\textsuperscript{o} (p.~\pageref{fol:72}) ; Carte du chapitre IV (p.~\pageref{carte:IV}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Bayencourt}, village donné dans le récit comme voisin d'Hébuterne et de Gommecourt : f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Beaucourt-sur-l'Hallue (Somme)}, village et château au sud d'Hérissart : f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~77~v\textsuperscript{o} (p.~\pageref{fol:155}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}) ; \textit{Comm. :} f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Beaucourt-sur-l'Hallue (Somme)}, village et château au sud d'Hérissart : f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~77~v\textsuperscript{o} (p.~\pageref{fol:155}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}) ; \textit{Comm. :} f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Beaudricourt \& hameau d'Oppy (Pas-de-Calais)}, commune et hameau du canton d'Avesnes-le-Comte, étape du 9–10 septembre 1916 : f\textsuperscript{o}~20~r\textsuperscript{o} (p.~\pageref{fol:40}), f\textsuperscript{o}~20~v\textsuperscript{o} (p.~\pageref{fol:41}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Beaumont-Hamel \& Beaumont-sur-Ancre (Somme)}, village et positions fortifiées du front de l'Ancre : f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~83~v\textsuperscript{o} (p.~\pageref{fol:167}) ; \textit{Comm. :} f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Beauquesne (Somme)}, bourg du canton de Doullens : f\textsuperscript{o}~37~v\textsuperscript{o} (p.~\pageref{fol:75}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~56~v\textsuperscript{o} (p.~\pageref{fol:113}), f\textsuperscript{o}~57~v\textsuperscript{o} (p.~\pageref{fol:115}), f\textsuperscript{o}~58~v\textsuperscript{o} (p.~\pageref{fol:117}), f\textsuperscript{o}~60~r\textsuperscript{o} (p.~\pageref{fol:120}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Beauquesne (Somme)}, bourg du canton de Doullens : f\textsuperscript{o}~37~v\textsuperscript{o} (p.~\pageref{fol:75}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~56~v\textsuperscript{o} (p.~\pageref{fol:113}), f\textsuperscript{o}~57~v\textsuperscript{o} (p.~\pageref{fol:115}), f\textsuperscript{o}~58~v\textsuperscript{o} (p.~\pageref{fol:117}), f\textsuperscript{o}~60~r\textsuperscript{o} (p.~\pageref{fol:120}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Beauval (Somme)}, bourg entre Doullens et Amiens, étape des 15–16 octobre 1916 : f\textsuperscript{o}~37~r\textsuperscript{o} (p.~\pageref{fol:74}), f\textsuperscript{o}~37~v\textsuperscript{o} (p.~\pageref{fol:75}), f\textsuperscript{o}~38~r\textsuperscript{o} (p.~\pageref{fol:76}) ; Carte du chapitre IV (p.~\pageref{carte:IV}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Bédarieux (Hérault)}, gare de bifurcation vers Millau sur la ligne des Causses : f\textsuperscript{o}~70~r\textsuperscript{o} (p.~\pageref{fol:140}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Bertrancourt (Somme)}, commune à l'est d'Acheux-en-Amiénois : f\textsuperscript{o}~46~r\textsuperscript{o} (p.~\pageref{fol:92}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Bédarieux (Hérault)}, gare de bifurcation vers Millau sur la ligne des Causses : f\textsuperscript{o}~70~r\textsuperscript{o} (p.~\pageref{fol:140}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Bertrancourt (Somme)}, commune à l'est d'Acheux-en-Amiénois : f\textsuperscript{o}~46~r\textsuperscript{o} (p.~\pageref{fol:92}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Béthune}, lieu où l'auteur dit avoir connu l'interprète Cordonnier : f\textsuperscript{o}~4~r\textsuperscript{o} (p.~\pageref{fol:8}), f\textsuperscript{o}~46~r\textsuperscript{o} (p.~\pageref{fol:92}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Béziers (Hérault)}, ville du Languedoc visitée avec Marguerite Calmels (cathédrale Saint-Nazaire et terrasse sur l'Orb) : f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}), f\textsuperscript{o}~70~r\textsuperscript{o} (p.~\pageref{fol:140}), f\textsuperscript{o}~71~v\textsuperscript{o} (p.~\pageref{fol:143}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Bouzincourt (Somme)}, village à l'ouest d'Albert où bivouaque la compagnie en octobre 1916 : f\textsuperscript{o}~38~v\textsuperscript{o} (p.~\pageref{fol:77}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}) ; \textit{Comm. :} f\textsuperscript{o}~39~r\textsuperscript{o} (p.~\pageref{fol:78}), f\textsuperscript{o}~39~v\textsuperscript{o} (p.~\pageref{fol:79}), f\textsuperscript{o}~40~r\textsuperscript{o} (p.~\pageref{fol:80}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Béziers (Hérault)}, ville du Languedoc visitée avec Marguerite Calmels (cathédrale Saint-Nazaire et terrasse sur l'Orb) : f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}), f\textsuperscript{o}~70~r\textsuperscript{o} (p.~\pageref{fol:140}), f\textsuperscript{o}~71~v\textsuperscript{o} (p.~\pageref{fol:143}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Bouzincourt (Somme)}, village à l'ouest d'Albert où bivouaque la compagnie en octobre 1916 : f\textsuperscript{o}~38~v\textsuperscript{o} (p.~\pageref{fol:77}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}) ; \textit{Comm. :} f\textsuperscript{o}~39~r\textsuperscript{o} (p.~\pageref{fol:78}), f\textsuperscript{o}~39~v\textsuperscript{o} (p.~\pageref{fol:79}), f\textsuperscript{o}~40~r\textsuperscript{o} (p.~\pageref{fol:80}) ; Carte du chapitre IV (p.~\pageref{carte:IV}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Bresle (Somme)}, village entre Warloy-Baillon et Albert : f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Brioude \& Arvant (Haute-Loire)}, gares de la ligne des Cévennes lors du retour de Millau en février 1917 : f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}), f\textsuperscript{o}~72~v\textsuperscript{o} (p.~\pageref{fol:145}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Buire-sur-l'Ancre (Somme)}, village de la vallée de l'Ancre en aval d'Albert : f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Bus-lès-Artois (Somme)}, commune au nord-est d'Acheux-en-Amiénois : f\textsuperscript{o}~46~r\textsuperscript{o} (p.~\pageref{fol:92}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Buire-sur-l'Ancre (Somme)}, village de la vallée de l'Ancre en aval d'Albert : f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Bus-lès-Artois (Somme)}, commune au nord-est d'Acheux-en-Amiénois : f\textsuperscript{o}~46~r\textsuperscript{o} (p.~\pageref{fol:92}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Cambrai (Nord)}, ville du Nord évoquée comme destination d'offensive au printemps 1917 : f\textsuperscript{o}~92~v\textsuperscript{o} (p.~\pageref{fol:185}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Canaples (Somme)}, commune et gare de ravitaillement (\textit{railhead}) au nord d'Amiens : f\textsuperscript{o}~33~r\textsuperscript{o} (p.~\pageref{fol:66}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre IV (p.~\pageref{carte:IV}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Candas (Somme)}, commune entre Doullens et Rubempré : f\textsuperscript{o}~83~v\textsuperscript{o} (p.~\pageref{fol:167}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Carcassonne (Aude)}, escale ferroviaire où Hippolyte Combes et Marguerite Calmels embrassent l'abbé Jean Crouzet : f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Canaples (Somme)}, commune et gare de ravitaillement (\textit{railhead}) au nord d'Amiens : f\textsuperscript{o}~33~r\textsuperscript{o} (p.~\pageref{fol:66}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre IV (p.~\pageref{carte:IV}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Candas (Somme)}, commune entre Doullens et Rubempré : f\textsuperscript{o}~83~v\textsuperscript{o} (p.~\pageref{fol:167}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Carcassonne (Aude)}, escale ferroviaire où Hippolyte Combes et Marguerite Calmels embrassent l'abbé Jean Crouzet : f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Charlet (café)}, café au premier étage duquel l'auteur est logé à son arrivée à Hérissart : f\textsuperscript{o}~73~v\textsuperscript{o} (p.~\pageref{fol:147}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Clermont-Ferrand (Puy-de-Dôme)}, étape ferroviaire du retour de Millau le 6 février 1917 : f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Clermont-Ferrand (Puy-de-Dôme)}, étape ferroviaire du retour de Millau le 6 février 1917 : f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Coigneux}, village décrit avec des toits squelettiques et des maisons privées de tuiles : f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Coisy (Somme)}, village au sud-ouest de Rubempré : f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Contay (Somme)}, village et château de la vallée de l'Hallue entre Toutencourt et Warloy : f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}) \textit{(lect. inc.)}, f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~80~v\textsuperscript{o} (p.~\pageref{fol:161}), f\textsuperscript{o}~83~v\textsuperscript{o} (p.~\pageref{fol:167}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}), f\textsuperscript{o}~92~v\textsuperscript{o} (p.~\pageref{fol:185}) ; \textit{Comm. :} f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Corbeil-Essonnes}, étape ferroviaire mentionnée avant l'arrivée à Paris : f\textsuperscript{o}~72~v\textsuperscript{o} (p.~\pageref{fol:145}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Creil (Oise)}, nœud ferroviaire entre Amiens et Paris : f\textsuperscript{o}~25~v\textsuperscript{o} (p.~\pageref{fol:51}) ; Carte du chapitre III (p.~\pageref{carte:III}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Domqueur (Somme)}, village du Ponthieu voisin de Ribeaucourt : Carte du chapitre IV (p.~\pageref{carte:IV}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Doullens (Somme)}, sous-préfecture de la Somme, église Notre-Dame, cantine militaire et commerces : f\textsuperscript{o}~25~v\textsuperscript{o} (p.~\pageref{fol:51}), f\textsuperscript{o}~32~v\textsuperscript{o} (p.~\pageref{fol:65}), f\textsuperscript{o}~33~r\textsuperscript{o} (p.~\pageref{fol:66}), f\textsuperscript{o}~33~v\textsuperscript{o} (p.~\pageref{fol:67}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~57~v\textsuperscript{o} (p.~\pageref{fol:115}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}), f\textsuperscript{o}~76~r\textsuperscript{o} (p.~\pageref{fol:152}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}), f\textsuperscript{o}~81~v\textsuperscript{o} (p.~\pageref{fol:163}), f\textsuperscript{o}~89~v\textsuperscript{o} (p.~\pageref{fol:179}) ; \textit{Comm. :} f\textsuperscript{o}~37~r\textsuperscript{o} (p.~\pageref{fol:74}), f\textsuperscript{o}~54~v\textsuperscript{o} (p.~\pageref{fol:109}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Contay (Somme)}, village et château de la vallée de l'Hallue entre Toutencourt et Warloy : f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}) \textit{(lect. inc.)}, f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~80~v\textsuperscript{o} (p.~\pageref{fol:161}), f\textsuperscript{o}~83~v\textsuperscript{o} (p.~\pageref{fol:167}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}), f\textsuperscript{o}~92~v\textsuperscript{o} (p.~\pageref{fol:185}) ; \textit{Comm. :} f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Corbeil-Essonnes}, étape ferroviaire mentionnée avant l'arrivée à Paris : f\textsuperscript{o}~72~v\textsuperscript{o} (p.~\pageref{fol:145}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Creil (Oise)}, nœud ferroviaire entre Amiens et Paris : f\textsuperscript{o}~25~v\textsuperscript{o} (p.~\pageref{fol:51}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Doullens (Somme)}, sous-préfecture de la Somme, église Notre-Dame, cantine militaire et commerces : f\textsuperscript{o}~25~v\textsuperscript{o} (p.~\pageref{fol:51}), f\textsuperscript{o}~32~v\textsuperscript{o} (p.~\pageref{fol:65}), f\textsuperscript{o}~33~r\textsuperscript{o} (p.~\pageref{fol:66}), f\textsuperscript{o}~33~v\textsuperscript{o} (p.~\pageref{fol:67}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~57~v\textsuperscript{o} (p.~\pageref{fol:115}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}), f\textsuperscript{o}~76~r\textsuperscript{o} (p.~\pageref{fol:152}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}), f\textsuperscript{o}~81~v\textsuperscript{o} (p.~\pageref{fol:163}), f\textsuperscript{o}~89~v\textsuperscript{o} (p.~\pageref{fol:179}) ; \textit{Comm. :} f\textsuperscript{o}~37~r\textsuperscript{o} (p.~\pageref{fol:74}), f\textsuperscript{o}~54~v\textsuperscript{o} (p.~\pageref{fol:109}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Englebelmer (Somme)}, village du front de l'Ancre évacué par ses habitants : f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~55~r\textsuperscript{o} (p.~\pageref{fol:110}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Erquinghem-Lys (Nord)}, commune de la vallée de la Lys en amont d'Armentières : f\textsuperscript{o}~11~r\textsuperscript{o} (p.~\pageref{fol:22}), f\textsuperscript{o}~12~r\textsuperscript{o} (p.~\pageref{fol:24}) ; \textit{Comm. :} f\textsuperscript{o}~8~v\textsuperscript{o} (p.~\pageref{fol:17}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Estaires (Nord)}, ville sur la Lys (église Saint-Vaast et hôtel de ville Renaissance détruits en 1918) : f\textsuperscript{o}~8~r\textsuperscript{o} (p.~\pageref{fol:16}), f\textsuperscript{o}~12~v\textsuperscript{o} (p.~\pageref{fol:25}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Flandre}, plaine flamande et Flandre intérieure traversées en juillet–août 1916 : f\textsuperscript{o}~1~r\textsuperscript{o} (p.~\pageref{fol:2}), f\textsuperscript{o}~26~r\textsuperscript{o} (p.~\pageref{fol:52}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Fleurbaix (Pas-de-Calais)}, village du front au sud d'Armentières : f\textsuperscript{o}~11~r\textsuperscript{o} (p.~\pageref{fol:22}) ; \textit{Comm. :} f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~10~v\textsuperscript{o} (p.~\pageref{fol:21}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Estaires (Nord)}, ville sur la Lys (église Saint-Vaast et hôtel de ville Renaissance détruits en 1918) : f\textsuperscript{o}~8~r\textsuperscript{o} (p.~\pageref{fol:16}), f\textsuperscript{o}~12~v\textsuperscript{o} (p.~\pageref{fol:25}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Flandre}, plaine flamande et Flandre intérieure traversées en juillet–août 1916 : f\textsuperscript{o}~1~r\textsuperscript{o} (p.~\pageref{fol:2}), f\textsuperscript{o}~26~r\textsuperscript{o} (p.~\pageref{fol:52}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Fleurbaix (Pas-de-Calais)}, village du front au sud d'Armentières : f\textsuperscript{o}~11~r\textsuperscript{o} (p.~\pageref{fol:22}) ; \textit{Comm. :} f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~10~v\textsuperscript{o} (p.~\pageref{fol:21}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Flixecourt}, destination d'une promenade du capitaine et de son ami : f\textsuperscript{o}~81~r\textsuperscript{o} (p.~\pageref{fol:162}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Forceville (Somme)}, village au sud-est d'Acheux-en-Amiénois, cantonnement de septembre 1916 : f\textsuperscript{o}~22~v\textsuperscript{o} (p.~\pageref{fol:45}), f\textsuperscript{o}~24~r\textsuperscript{o} (p.~\pageref{fol:48}), f\textsuperscript{o}~24~v\textsuperscript{o} (p.~\pageref{fol:49}), f\textsuperscript{o}~25~r\textsuperscript{o} (p.~\pageref{fol:50}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre II (p.~\pageref{carte:II}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Forceville (Somme)}, village au sud-est d'Acheux-en-Amiénois, cantonnement de septembre 1916 : f\textsuperscript{o}~22~v\textsuperscript{o} (p.~\pageref{fol:45}), f\textsuperscript{o}~24~r\textsuperscript{o} (p.~\pageref{fol:48}), f\textsuperscript{o}~24~v\textsuperscript{o} (p.~\pageref{fol:49}), f\textsuperscript{o}~25~r\textsuperscript{o} (p.~\pageref{fol:50}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Franvillers (Somme)}, commune sur la route d'Albert à Amiens : f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~58~v\textsuperscript{o} (p.~\pageref{fol:117}) ; \textit{Comm. :} f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Fréchencourt (Somme)}, village de la vallée de l'Hallue : f\textsuperscript{o}~78~v\textsuperscript{o} (p.~\pageref{fol:157}), f\textsuperscript{o}~80~v\textsuperscript{o} (p.~\pageref{fol:161}), f\textsuperscript{o}~81~r\textsuperscript{o} (p.~\pageref{fol:162}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~90~r\textsuperscript{o} (p.~\pageref{fol:180}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Gannat}, étape ferroviaire citée pendant le retour de permission : f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Gannat}, étape ferroviaire citée pendant le retour de permission : f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Gézaincourt}, gare où l'auteur attend longuement une correspondance : f\textsuperscript{o}~25~v\textsuperscript{o} (p.~\pageref{fol:51}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}) ; \textit{Comm. :} f\textsuperscript{o}~25~r\textsuperscript{o} (p.~\pageref{fol:50}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Gien}, étape ferroviaire citée pendant le retour de permission : f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Gien}, étape ferroviaire citée pendant le retour de permission : f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Gommecourt}, localité signalée avec la parenthèse « Boches » près de Bayencourt : f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Harponville (Somme)}, village entre Toutencourt et Warloy-Baillon : f\textsuperscript{o}~55~r\textsuperscript{o} (p.~\pageref{fol:110}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Harponville (Somme)}, village entre Toutencourt et Warloy-Baillon : f\textsuperscript{o}~55~r\textsuperscript{o} (p.~\pageref{fol:110}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Hazebrouck (Nord)}, sous-préfecture du Nord, église Saint-Éloi et nœud ferroviaire : f\textsuperscript{o}~2~r\textsuperscript{o} (p.~\pageref{fol:4}), f\textsuperscript{o}~2~v\textsuperscript{o} (p.~\pageref{fol:5}), f\textsuperscript{o}~4~r\textsuperscript{o} (p.~\pageref{fol:8}), f\textsuperscript{o}~8~r\textsuperscript{o} (p.~\pageref{fol:16}), f\textsuperscript{o}~13~v\textsuperscript{o} (p.~\pageref{fol:27}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Hébuterne (Pas-de-Calais)}, secteur du front au nord d'Acheux et de Serre : f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Hédauville (Somme)}, village entre Forceville et Warloy-Baillon (bivouac de la 150\textsuperscript{e} Compagnie A.S.C.) : f\textsuperscript{o}~22~v\textsuperscript{o} (p.~\pageref{fol:45}), f\textsuperscript{o}~38~v\textsuperscript{o} (p.~\pageref{fol:77}), f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre II (p.~\pageref{carte:II}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Heilly (Somme)}, village de la vallée de l'Ancre où Hippolyte Combes avait cantonné durant l'hiver 1915–1916 : f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}) ; \textit{Comm. :} f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Hédauville (Somme)}, village entre Forceville et Warloy-Baillon (bivouac de la 150\textsuperscript{e} Compagnie A.S.C.) : f\textsuperscript{o}~22~v\textsuperscript{o} (p.~\pageref{fol:45}), f\textsuperscript{o}~38~v\textsuperscript{o} (p.~\pageref{fol:77}), f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Heilly (Somme)}, village de la vallée de l'Ancre où Hippolyte Combes avait cantonné durant l'hiver 1915–1916 : f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}) ; \textit{Comm. :} f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Hénencourt (Somme)}, village et château entre Warloy-Baillon et Albert : f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Hérissart (Somme)}, commune du canton d'Acheux, siège du \textit{Purchase Board} et résidence d'Hippolyte Combes de février à avril 1917 (logements n\textsuperscript{os}~104, 220 et 216) : f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~51~v\textsuperscript{o} (p.~\pageref{fol:103}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~73~v\textsuperscript{o} (p.~\pageref{fol:147}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}), f\textsuperscript{o}~78~r\textsuperscript{o} (p.~\pageref{fol:156}), f\textsuperscript{o}~78~v\textsuperscript{o} (p.~\pageref{fol:157}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}), f\textsuperscript{o}~80~r\textsuperscript{o} (p.~\pageref{fol:160}), f\textsuperscript{o}~81~r\textsuperscript{o} (p.~\pageref{fol:162}), f\textsuperscript{o}~82~r\textsuperscript{o} (p.~\pageref{fol:164}), f\textsuperscript{o}~83~v\textsuperscript{o} (p.~\pageref{fol:167}), f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~87~v\textsuperscript{o} (p.~\pageref{fol:175}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}), f\textsuperscript{o}~92~v\textsuperscript{o} (p.~\pageref{fol:185}) ; \textit{Comm. :} f\textsuperscript{o}~74~r\textsuperscript{o} (p.~\pageref{fol:148}), f\textsuperscript{o}~74~v\textsuperscript{o} (p.~\pageref{fol:149}), f\textsuperscript{o}~77~v\textsuperscript{o} (p.~\pageref{fol:155}), f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~81~v\textsuperscript{o} (p.~\pageref{fol:163}), f\textsuperscript{o}~82~v\textsuperscript{o} (p.~\pageref{fol:165}), f\textsuperscript{o}~83~r\textsuperscript{o} (p.~\pageref{fol:166}), f\textsuperscript{o}~85~r\textsuperscript{o} (p.~\pageref{fol:170}), f\textsuperscript{o}~86~r\textsuperscript{o} (p.~\pageref{fol:172}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}), f\textsuperscript{o}~87~r\textsuperscript{o} (p.~\pageref{fol:174}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~90~r\textsuperscript{o} (p.~\pageref{fol:180}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Hérissart (Somme)}, commune du canton d'Acheux, siège du \textit{Purchase Board} et résidence d'Hippolyte Combes de février à avril 1917 (logements n\textsuperscript{os}~104, 220 et 216) : f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~51~v\textsuperscript{o} (p.~\pageref{fol:103}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~73~v\textsuperscript{o} (p.~\pageref{fol:147}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}), f\textsuperscript{o}~78~r\textsuperscript{o} (p.~\pageref{fol:156}), f\textsuperscript{o}~78~v\textsuperscript{o} (p.~\pageref{fol:157}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}), f\textsuperscript{o}~80~r\textsuperscript{o} (p.~\pageref{fol:160}), f\textsuperscript{o}~81~r\textsuperscript{o} (p.~\pageref{fol:162}), f\textsuperscript{o}~82~r\textsuperscript{o} (p.~\pageref{fol:164}), f\textsuperscript{o}~83~v\textsuperscript{o} (p.~\pageref{fol:167}), f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~87~v\textsuperscript{o} (p.~\pageref{fol:175}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}), f\textsuperscript{o}~92~v\textsuperscript{o} (p.~\pageref{fol:185}) ; \textit{Comm. :} f\textsuperscript{o}~74~r\textsuperscript{o} (p.~\pageref{fol:148}), f\textsuperscript{o}~74~v\textsuperscript{o} (p.~\pageref{fol:149}), f\textsuperscript{o}~77~v\textsuperscript{o} (p.~\pageref{fol:155}), f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~81~v\textsuperscript{o} (p.~\pageref{fol:163}), f\textsuperscript{o}~82~v\textsuperscript{o} (p.~\pageref{fol:165}), f\textsuperscript{o}~83~r\textsuperscript{o} (p.~\pageref{fol:166}), f\textsuperscript{o}~85~r\textsuperscript{o} (p.~\pageref{fol:170}), f\textsuperscript{o}~86~r\textsuperscript{o} (p.~\pageref{fol:172}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}), f\textsuperscript{o}~87~r\textsuperscript{o} (p.~\pageref{fol:174}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~90~r\textsuperscript{o} (p.~\pageref{fol:180}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Jersey (île anglo-normande)}, patrie du sous-lieutenant poète Gilbert : f\textsuperscript{o}~89~v\textsuperscript{o} (p.~\pageref{fol:179}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{La Croix-du-Bac (Steenwerck, Nord)}, hameau de la vallée de la Lys, église Notre-Dame-des-Sept-Douleurs et cantonnement d'août 1916 : f\textsuperscript{o}~5~r\textsuperscript{o} (p.~\pageref{fol:10}) ; \textit{Comm. :} f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~6~v\textsuperscript{o} (p.~\pageref{fol:13}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Lardenne \& Purpan-Ancely (Toulouse, Haute-Garonne)}, faubourg occidental de Toulouse et ruines de l'amphithéâtre gallo-romain : f\textsuperscript{o}~29~r\textsuperscript{o} (p.~\pageref{fol:58}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{La Croix-du-Bac (Steenwerck, Nord)}, hameau de la vallée de la Lys, église Notre-Dame-des-Sept-Douleurs et cantonnement d'août 1916 : f\textsuperscript{o}~5~r\textsuperscript{o} (p.~\pageref{fol:10}) ; \textit{Comm. :} f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~6~v\textsuperscript{o} (p.~\pageref{fol:13}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre I (p.~\pageref{carte:I}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Lardenne \& Purpan-Ancely (Toulouse, Haute-Garonne)}, faubourg occidental de Toulouse et ruines de l'amphithéâtre gallo-romain : f\textsuperscript{o}~29~r\textsuperscript{o} (p.~\pageref{fol:58}) ; Carte du chapitre III (p.~\pageref{carte:III}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Laviéville (Somme)}, village entre Warloy-Baillon et Albert : f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Le Mesnil-Martinsart (Somme)}, commune du canton d'Albert où enseignent M. et M\textsuperscript{me} Fortuné Flutre : f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Le Quesnoy (ferme, Somme)}, écart agricole entre Raincheval et Puchevillers : f\textsuperscript{o}~55~v\textsuperscript{o} (p.~\pageref{fol:111}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~56~v\textsuperscript{o} (p.~\pageref{fol:113}), f\textsuperscript{o}~57~v\textsuperscript{o} (p.~\pageref{fol:115}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Léalvillers (Somme)}, village immédiatement voisin d'Acheux-en-Amiénois : f\textsuperscript{o}~24~r\textsuperscript{o} (p.~\pageref{fol:48}), f\textsuperscript{o}~47~r\textsuperscript{o} (p.~\pageref{fol:94}), f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~48~v\textsuperscript{o} (p.~\pageref{fol:97}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}) ; \textit{Comm. :} f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Le Quesnoy (ferme, Somme)}, écart agricole entre Raincheval et Puchevillers : f\textsuperscript{o}~55~v\textsuperscript{o} (p.~\pageref{fol:111}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~56~v\textsuperscript{o} (p.~\pageref{fol:113}), f\textsuperscript{o}~57~v\textsuperscript{o} (p.~\pageref{fol:115}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Léalvillers (Somme)}, village immédiatement voisin d'Acheux-en-Amiénois : f\textsuperscript{o}~24~r\textsuperscript{o} (p.~\pageref{fol:48}), f\textsuperscript{o}~47~r\textsuperscript{o} (p.~\pageref{fol:94}), f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~48~v\textsuperscript{o} (p.~\pageref{fol:97}), f\textsuperscript{o}~50~v\textsuperscript{o} (p.~\pageref{fol:101}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}) ; \textit{Comm. :} f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Ligny-Saint-Flochel (Pas-de-Calais)}, village du Ternois à l'église gothique classée (XV\textsuperscript{e}–XVI\textsuperscript{e}~s.) : f\textsuperscript{o}~16~v\textsuperscript{o} (p.~\pageref{fol:33}), f\textsuperscript{o}~19~v\textsuperscript{o} (p.~\pageref{fol:39}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Louvencourt (Somme)}, commune au nord d'Acheux-en-Amiénois : f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~57~r\textsuperscript{o} (p.~\pageref{fol:114}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~63~r\textsuperscript{o} (p.~\pageref{fol:126}), f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Louvencourt (Somme)}, commune au nord d'Acheux-en-Amiénois : f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~53~v\textsuperscript{o} (p.~\pageref{fol:107}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~57~r\textsuperscript{o} (p.~\pageref{fol:114}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~63~r\textsuperscript{o} (p.~\pageref{fol:126}), f\textsuperscript{o}~73~r\textsuperscript{o} (p.~\pageref{fol:146}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Lucheux (Somme)}, bourg de la vallée de la Grouches (ruines du château des comtes de Saint-Pol et beffroi au chêne de Louis~XI) : f\textsuperscript{o}~20~v\textsuperscript{o} (p.~\pageref{fol:41}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Lynde (Nord)}, village de Flandre intérieure entre Renescure et Hazebrouck, premier cantonnement du carnet : f\textsuperscript{o}~2~v\textsuperscript{o} (p.~\pageref{fol:5}) ; \textit{Comm. :} f\textsuperscript{o}~1~v\textsuperscript{o} (p.~\pageref{fol:3}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Lynde (Nord)}, village de Flandre intérieure entre Renescure et Hazebrouck, premier cantonnement du carnet : f\textsuperscript{o}~2~v\textsuperscript{o} (p.~\pageref{fol:5}) ; \textit{Comm. :} f\textsuperscript{o}~1~v\textsuperscript{o} (p.~\pageref{fol:3}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Lys (vallée de la)}, rivière franco-belge canalisée entre Aire, Estaires, Sailly, Bac-Saint-Maur et Armentières : f\textsuperscript{o}~8~r\textsuperscript{o} (p.~\pageref{fol:16}), f\textsuperscript{o}~9~r\textsuperscript{o} (p.~\pageref{fol:18}), f\textsuperscript{o}~9~v\textsuperscript{o} (p.~\pageref{fol:19}) ; \textit{Comm. :} f\textsuperscript{o}~5~v\textsuperscript{o} (p.~\pageref{fol:11}), f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~7~v\textsuperscript{o} (p.~\pageref{fol:15}), f\textsuperscript{o}~12~v\textsuperscript{o} (p.~\pageref{fol:25}), f\textsuperscript{o}~13~v\textsuperscript{o} (p.~\pageref{fol:27}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Marquay (Pas-de-Calais)}, commune du Ternois, cantonnement de la compagnie du 25 août au 9 septembre 1916 : f\textsuperscript{o}~14~r\textsuperscript{o} (p.~\pageref{fol:28}), f\textsuperscript{o}~14~v\textsuperscript{o} (p.~\pageref{fol:29}), f\textsuperscript{o}~19~v\textsuperscript{o} (p.~\pageref{fol:39}) ; \textit{Comm. :} f\textsuperscript{o}~15~v\textsuperscript{o} (p.~\pageref{fol:31}), f\textsuperscript{o}~16~r\textsuperscript{o} (p.~\pageref{fol:32}), f\textsuperscript{o}~17~r\textsuperscript{o} (p.~\pageref{fol:34}), f\textsuperscript{o}~18~v\textsuperscript{o} (p.~\pageref{fol:37}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Marquay (Pas-de-Calais)}, commune du Ternois, cantonnement de la compagnie du 25 août au 9 septembre 1916 : f\textsuperscript{o}~14~r\textsuperscript{o} (p.~\pageref{fol:28}), f\textsuperscript{o}~14~v\textsuperscript{o} (p.~\pageref{fol:29}), f\textsuperscript{o}~19~v\textsuperscript{o} (p.~\pageref{fol:39}) ; \textit{Comm. :} f\textsuperscript{o}~15~v\textsuperscript{o} (p.~\pageref{fol:31}), f\textsuperscript{o}~16~r\textsuperscript{o} (p.~\pageref{fol:32}), f\textsuperscript{o}~17~r\textsuperscript{o} (p.~\pageref{fol:34}), f\textsuperscript{o}~18~v\textsuperscript{o} (p.~\pageref{fol:37}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Martinsart (Somme)}, hameau et château de la commune du Mesnil-Martinsart près d'Albert : f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~58~v\textsuperscript{o} (p.~\pageref{fol:117}), f\textsuperscript{o}~75~r\textsuperscript{o} (p.~\pageref{fol:150}), f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~84~r\textsuperscript{o} (p.~\pageref{fol:168}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Millau (Aveyron)}, ville natale d'Hippolyte Combes et de Marguerite Calmels (10, rue Alfred-Guibert ; rue des Barris ; cimetière) : f\textsuperscript{o}~69~r\textsuperscript{o} (p.~\pageref{fol:138}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}), f\textsuperscript{o}~70~r\textsuperscript{o} (p.~\pageref{fol:140}) ; \textit{Comm. :} Couverture (p.~\pageref{fol:1}), f\textsuperscript{o}~9~v\textsuperscript{o} (p.~\pageref{fol:19}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~66~r\textsuperscript{o} (p.~\pageref{fol:132}), f\textsuperscript{o}~70~v\textsuperscript{o} (p.~\pageref{fol:141}), f\textsuperscript{o}~71~r\textsuperscript{o} (p.~\pageref{fol:142}), f\textsuperscript{o}~71~v\textsuperscript{o} (p.~\pageref{fol:143}), f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Miraumont (Somme)}, village aux sources de l'Ancre évacué par l'armée allemande en février–mars 1917 : f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~85~r\textsuperscript{o} (p.~\pageref{fol:170}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Mirvaux (Somme)}, village voisin de Pierregot et Rubempré : f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}), f\textsuperscript{o}~92~v\textsuperscript{o} (p.~\pageref{fol:185}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Millau (Aveyron)}, ville natale d'Hippolyte Combes et de Marguerite Calmels (10, rue Alfred-Guibert ; rue des Barris ; cimetière) : f\textsuperscript{o}~69~r\textsuperscript{o} (p.~\pageref{fol:138}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}), f\textsuperscript{o}~70~r\textsuperscript{o} (p.~\pageref{fol:140}) ; \textit{Comm. :} Couverture (p.~\pageref{fol:1}), f\textsuperscript{o}~9~v\textsuperscript{o} (p.~\pageref{fol:19}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~66~r\textsuperscript{o} (p.~\pageref{fol:132}), f\textsuperscript{o}~70~v\textsuperscript{o} (p.~\pageref{fol:141}), f\textsuperscript{o}~71~r\textsuperscript{o} (p.~\pageref{fol:142}), f\textsuperscript{o}~71~v\textsuperscript{o} (p.~\pageref{fol:143}), f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Miraumont (Somme)}, village aux sources de l'Ancre évacué par l'armée allemande en février–mars 1917 : f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~85~r\textsuperscript{o} (p.~\pageref{fol:170}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Mirvaux (Somme)}, village voisin de Pierregot et Rubempré : f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}), f\textsuperscript{o}~92~v\textsuperscript{o} (p.~\pageref{fol:185}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Molliens-au-Bois (Somme)}, commune du canton de Villers-Bocage : f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}), f\textsuperscript{o}~83~v\textsuperscript{o} (p.~\pageref{fol:167}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~87~r\textsuperscript{o} (p.~\pageref{fol:174}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Mont-Noir (Nord)}, colline des Monts des Flandres au nord de Saint-Jans-Cappel : f\textsuperscript{o}~3~r\textsuperscript{o} (p.~\pageref{fol:6}) ; \textit{Comm. :} f\textsuperscript{o}~3~v\textsuperscript{o} (p.~\pageref{fol:7}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Montargis}, étape ferroviaire citée pendant le retour de permission : f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Montauban (Tarn-et-Garonne)}, ville traversée en train lors des permissions et futur poste d'Hippolyte Combes au lycée Ingres : Généalogie I (p.~\pageref{genealogie:combes}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre III (p.~\pageref{carte:III}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Montaudran}, village visité à pied, avec arrêt dans l'église et montée au clocher : f\textsuperscript{o}~28~v\textsuperscript{o} (p.~\pageref{fol:57}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Montargis}, étape ferroviaire citée pendant le retour de permission : f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Montauban (Tarn-et-Garonne)}, ville traversée en train lors des permissions et futur poste d'Hippolyte Combes au lycée Ingres : Généalogie I (p.~\pageref{genealogie:combes}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Montaudran}, village visité à pied, avec arrêt dans l'église et montée au clocher : f\textsuperscript{o}~28~v\textsuperscript{o} (p.~\pageref{fol:57}) ; Carte du chapitre III (p.~\pageref{carte:III}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Montigny-sur-l'Hallue (Somme)}, village voisin de Beaucourt-sur-l'Hallue : f\textsuperscript{o}~59~v\textsuperscript{o} (p.~\pageref{fol:119}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}), f\textsuperscript{o}~80~v\textsuperscript{o} (p.~\pageref{fol:161}), f\textsuperscript{o}~81~r\textsuperscript{o} (p.~\pageref{fol:162}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Monts-en-Ternois}, étape de cantonnement appelée « hameau » dans le carnet : f\textsuperscript{o}~19~v\textsuperscript{o} (p.~\pageref{fol:39}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Neuilly-sur-Seine (Hauts-de-Seine)}, résidence de la famille Faure (16, rue d'Armenonville) visitée lors des permissions : f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}) ; \textit{Comm. :} f\textsuperscript{o}~65~v\textsuperscript{o} (p.~\pageref{fol:131}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Monts-en-Ternois}, étape de cantonnement appelée « hameau » dans le carnet : f\textsuperscript{o}~19~v\textsuperscript{o} (p.~\pageref{fol:39}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Neuilly-sur-Seine (Hauts-de-Seine)}, résidence de la famille Faure (16, rue d'Armenonville) visitée lors des permissions : f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}) ; \textit{Comm. :} f\textsuperscript{o}~65~v\textsuperscript{o} (p.~\pageref{fol:131}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Nice (Alpes-Maritimes)}, ville d'où provient le panier de fleurs commandé chez M\textsuperscript{me} Spagnol : f\textsuperscript{o}~67~r\textsuperscript{o} (p.~\pageref{fol:134}), f\textsuperscript{o}~68~r\textsuperscript{o} (p.~\pageref{fol:136}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Nogent-le-Rotrou (Eure-et-Loir)}, ville du Perche où Hippolyte Combes enseignait au collège communal (17, rue Saint-Hilaire) : f\textsuperscript{o}~11~v\textsuperscript{o} (p.~\pageref{fol:23}), f\textsuperscript{o}~12~r\textsuperscript{o} (p.~\pageref{fol:24}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Ostreville (Pas-de-Calais)}, village du Ternois entre Marquay et Saint-Pol : f\textsuperscript{o}~16~r\textsuperscript{o} (p.~\pageref{fol:32}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Paris}, capitale traversée aux permissions de septembre–octobre 1916 et janvier–février 1917 (gare du Nord, gare d'Orsay, boulevard Saint-Germain, boulevard Saint-Michel, rue Saint-Jacques, Panthéon, église Saint-Vincent-de-Paul) : f\textsuperscript{o}~25~v\textsuperscript{o} (p.~\pageref{fol:51}), f\textsuperscript{o}~26~v\textsuperscript{o} (p.~\pageref{fol:53}), f\textsuperscript{o}~31~v\textsuperscript{o} (p.~\pageref{fol:63}), f\textsuperscript{o}~32~v\textsuperscript{o} (p.~\pageref{fol:65}) \textit{(del.)}, f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}), f\textsuperscript{o}~66~r\textsuperscript{o} (p.~\pageref{fol:132}), f\textsuperscript{o}~72~v\textsuperscript{o} (p.~\pageref{fol:145}), f\textsuperscript{o}~74~r\textsuperscript{o} (p.~\pageref{fol:148}) ; \textit{Comm. :} f\textsuperscript{o}~26~r\textsuperscript{o} (p.~\pageref{fol:52}), f\textsuperscript{o}~32~r\textsuperscript{o} (p.~\pageref{fol:64}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Paris}, capitale traversée aux permissions de septembre–octobre 1916 et janvier–février 1917 (gare du Nord, gare d'Orsay, boulevard Saint-Germain, boulevard Saint-Michel, rue Saint-Jacques, Panthéon, église Saint-Vincent-de-Paul) : f\textsuperscript{o}~25~v\textsuperscript{o} (p.~\pageref{fol:51}), f\textsuperscript{o}~26~v\textsuperscript{o} (p.~\pageref{fol:53}), f\textsuperscript{o}~31~v\textsuperscript{o} (p.~\pageref{fol:63}), f\textsuperscript{o}~32~v\textsuperscript{o} (p.~\pageref{fol:65}) \textit{(del.)}, f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~58~r\textsuperscript{o} (p.~\pageref{fol:116}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}), f\textsuperscript{o}~66~r\textsuperscript{o} (p.~\pageref{fol:132}), f\textsuperscript{o}~72~v\textsuperscript{o} (p.~\pageref{fol:145}), f\textsuperscript{o}~74~r\textsuperscript{o} (p.~\pageref{fol:148}) ; \textit{Comm. :} f\textsuperscript{o}~26~r\textsuperscript{o} (p.~\pageref{fol:52}), f\textsuperscript{o}~32~r\textsuperscript{o} (p.~\pageref{fol:64}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Pech-David \& Pouvourville (Toulouse, Haute-Garonne)}, coteaux dominant le sud de Toulouse et la Garonne : f\textsuperscript{o}~27~v\textsuperscript{o} (p.~\pageref{fol:55}) ; Carte du chapitre III (p.~\pageref{carte:III}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Pierregot (Somme)}, village à l'ouest de Rubempré : f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~78~v\textsuperscript{o} (p.~\pageref{fol:157}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~87~r\textsuperscript{o} (p.~\pageref{fol:174}), f\textsuperscript{o}~87~v\textsuperscript{o} (p.~\pageref{fol:175}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~90~r\textsuperscript{o} (p.~\pageref{fol:180}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}), f\textsuperscript{o}~92~v\textsuperscript{o} (p.~\pageref{fol:185}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Pont-à-Mousson}, ville où Boilly est dit professeur dans le carnet : f\textsuperscript{o}~65~r\textsuperscript{o} (p.~\pageref{fol:130}).\par\vspace{0.55mm}
@@ -13307,27 +12728,26 @@ Folio 93 recto & p.~\pageref{fol:186} & 30 avril 1917 & \textbf{Hérissart, Vade
 \noindent\hangindent=4.5mm\textbf{Ramecourt (Pas-de-Calais)}, commune et plateau à l'ouest de Saint-Pol-sur-Ternoise : f\textsuperscript{o}~16~r\textsuperscript{o} (p.~\pageref{fol:32}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Renescure (Nord)}, bourg de Flandre intérieure (château de Zuthove, château dit de Philippe de Comines et église Notre-Dame-de-l'Assomption) : f\textsuperscript{o}~2~r\textsuperscript{o} (p.~\pageref{fol:4}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Ribeaucourt (Somme)}, commune et château du Ponthieu où la compagnie prend son repos du 6 au 15 octobre 1916 : f\textsuperscript{o}~33~v\textsuperscript{o} (p.~\pageref{fol:67}), f\textsuperscript{o}~36~r\textsuperscript{o} (p.~\pageref{fol:72}) ; \textit{Comm. :} f\textsuperscript{o}~34~r\textsuperscript{o} (p.~\pageref{fol:68}), f\textsuperscript{o}~34~v\textsuperscript{o} (p.~\pageref{fol:69}), f\textsuperscript{o}~35~r\textsuperscript{o} (p.~\pageref{fol:70}), f\textsuperscript{o}~35~v\textsuperscript{o} (p.~\pageref{fol:71}), f\textsuperscript{o}~36~v\textsuperscript{o} (p.~\pageref{fol:73}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre IV (p.~\pageref{carte:IV}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Ribemont-sur-Ancre (Somme)}, village de la vallée de l'Ancre en aval d'Albert : f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Roëllecourt (Pas-de-Calais)}, village du Ternois entre Saint-Pol et Marquay : f\textsuperscript{o}~17~v\textsuperscript{o} (p.~\pageref{fol:35}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Ribemont-sur-Ancre (Somme)}, village de la vallée de l'Ancre en aval d'Albert : f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~76~v\textsuperscript{o} (p.~\pageref{fol:153}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Roëllecourt (Pas-de-Calais)}, village du Ternois entre Saint-Pol et Marquay : f\textsuperscript{o}~17~v\textsuperscript{o} (p.~\pageref{fol:35}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Roumanie}, royaume entré en guerre aux côtés des Alliés le 27 août 1916 : f\textsuperscript{o}~15~r\textsuperscript{o} (p.~\pageref{fol:30}), f\textsuperscript{o}~26~v\textsuperscript{o} (p.~\pageref{fol:53}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Rubempré \& Septenville (Somme)}, chef-lieu de commune et hameau voisins d'Hérissart : f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~60~r\textsuperscript{o} (p.~\pageref{fol:120}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~74~v\textsuperscript{o} (p.~\pageref{fol:149}), f\textsuperscript{o}~80~v\textsuperscript{o} (p.~\pageref{fol:161}), f\textsuperscript{o}~81~r\textsuperscript{o} (p.~\pageref{fol:162}), f\textsuperscript{o}~86~r\textsuperscript{o} (p.~\pageref{fol:172}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}), f\textsuperscript{o}~87~r\textsuperscript{o} (p.~\pageref{fol:174}), f\textsuperscript{o}~87~v\textsuperscript{o} (p.~\pageref{fol:175}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~90~r\textsuperscript{o} (p.~\pageref{fol:180}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Rubempré \& Septenville (Somme)}, chef-lieu de commune et hameau voisins d'Hérissart : f\textsuperscript{o}~47~v\textsuperscript{o} (p.~\pageref{fol:95}), f\textsuperscript{o}~52~r\textsuperscript{o} (p.~\pageref{fol:104}), f\textsuperscript{o}~53~r\textsuperscript{o} (p.~\pageref{fol:106}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~60~r\textsuperscript{o} (p.~\pageref{fol:120}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~74~v\textsuperscript{o} (p.~\pageref{fol:149}), f\textsuperscript{o}~80~v\textsuperscript{o} (p.~\pageref{fol:161}), f\textsuperscript{o}~81~r\textsuperscript{o} (p.~\pageref{fol:162}), f\textsuperscript{o}~86~r\textsuperscript{o} (p.~\pageref{fol:172}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}), f\textsuperscript{o}~87~r\textsuperscript{o} (p.~\pageref{fol:174}), f\textsuperscript{o}~87~v\textsuperscript{o} (p.~\pageref{fol:175}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~90~r\textsuperscript{o} (p.~\pageref{fol:180}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Sailly-sur-la-Lys (Pas-de-Calais)}, commune de la vallée de la Lys (pont, écluse et ruines de l'église Saint-Vaast) : f\textsuperscript{o}~8~r\textsuperscript{o} (p.~\pageref{fol:16}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Saint-Chély-d'Apcher (Lozère)}, ville de Lozère traversée sur la ligne des Causses (et où Hippolyte Combes décédera à l'Hôtel du Centre le 2 septembre 1970) : \textit{Comm. :} Couverture (p.~\pageref{fol:1}), f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Saint-Flour (Cantal)}, sous-préfecture du Cantal traversée sous la neige le 6 février 1917 : f\textsuperscript{o}~71~v\textsuperscript{o} (p.~\pageref{fol:143}) ; \textit{Comm. :} f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Saint-Jans-Cappel (Nord)}, village au pied du Mont-Noir où cantonne Hippolyte Combes du 28 juillet au 5 août 1916 : f\textsuperscript{o}~3~r\textsuperscript{o} (p.~\pageref{fol:6}) ; \textit{Comm. :} f\textsuperscript{o}~2~v\textsuperscript{o} (p.~\pageref{fol:5}), f\textsuperscript{o}~3~v\textsuperscript{o} (p.~\pageref{fol:7}), f\textsuperscript{o}~4~r\textsuperscript{o} (p.~\pageref{fol:8}), f\textsuperscript{o}~5~v\textsuperscript{o} (p.~\pageref{fol:11}), f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Saint-Léger-lès-Authie (Somme)}, village de la vallée de l'Authie : f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Saint-Chély-d'Apcher (Lozère)}, ville de Lozère traversée sur la ligne des Causses (et où Hippolyte Combes décédera à l'Hôtel du Centre le 2 septembre 1970) : \textit{Comm. :} Couverture (p.~\pageref{fol:1}), f\textsuperscript{o}~66~v\textsuperscript{o} (p.~\pageref{fol:133}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Saint-Flour (Cantal)}, sous-préfecture du Cantal traversée sous la neige le 6 février 1917 : f\textsuperscript{o}~71~v\textsuperscript{o} (p.~\pageref{fol:143}) ; \textit{Comm. :} f\textsuperscript{o}~72~r\textsuperscript{o} (p.~\pageref{fol:144}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Saint-Jans-Cappel (Nord)}, village au pied du Mont-Noir où cantonne Hippolyte Combes du 28 juillet au 5 août 1916 : f\textsuperscript{o}~3~r\textsuperscript{o} (p.~\pageref{fol:6}) ; \textit{Comm. :} f\textsuperscript{o}~2~v\textsuperscript{o} (p.~\pageref{fol:5}), f\textsuperscript{o}~3~v\textsuperscript{o} (p.~\pageref{fol:7}), f\textsuperscript{o}~4~r\textsuperscript{o} (p.~\pageref{fol:8}), f\textsuperscript{o}~5~v\textsuperscript{o} (p.~\pageref{fol:11}), f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Saint-Léger-lès-Authie (Somme)}, village de la vallée de l'Authie : f\textsuperscript{o}~54~r\textsuperscript{o} (p.~\pageref{fol:108}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~61~r\textsuperscript{o} (p.~\pageref{fol:122}), f\textsuperscript{o}~61~v\textsuperscript{o} (p.~\pageref{fol:123}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Saint-Michel-sur-Ternoise (Pas-de-Calais)}, village et église ancienne à l'est de Saint-Pol-sur-Ternoise : f\textsuperscript{o}~16~r\textsuperscript{o} (p.~\pageref{fol:32}), f\textsuperscript{o}~18~v\textsuperscript{o} (p.~\pageref{fol:37}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Saint-Pol-sur-Ternoise (Pas-de-Calais)}, sous-préfecture du Pas-de-Calais, gare de débarquement et église des Carmes (1697) : f\textsuperscript{o}~14~r\textsuperscript{o} (p.~\pageref{fol:28}), f\textsuperscript{o}~16~r\textsuperscript{o} (p.~\pageref{fol:32}), f\textsuperscript{o}~17~r\textsuperscript{o} (p.~\pageref{fol:34}), f\textsuperscript{o}~18~r\textsuperscript{o} (p.~\pageref{fol:36}), f\textsuperscript{o}~18~v\textsuperscript{o} (p.~\pageref{fol:37}) ; \textit{Comm. :} f\textsuperscript{o}~13~v\textsuperscript{o} (p.~\pageref{fol:27}), f\textsuperscript{o}~20~v\textsuperscript{o} (p.~\pageref{fol:41}), f\textsuperscript{o}~32~v\textsuperscript{o} (p.~\pageref{fol:65}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Senlis-le-Sec (Somme)}, village entre Warloy-Baillon et Bouzincourt : f\textsuperscript{o}~37~v\textsuperscript{o} (p.~\pageref{fol:75}), f\textsuperscript{o}~38~v\textsuperscript{o} (p.~\pageref{fol:77}), f\textsuperscript{o}~43~v\textsuperscript{o} (p.~\pageref{fol:87}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~55~r\textsuperscript{o} (p.~\pageref{fol:110}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~58~v\textsuperscript{o} (p.~\pageref{fol:117}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~75~v\textsuperscript{o} (p.~\pageref{fol:151}), f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Sercus (Nord)}, village de Flandre intérieure et église Saint-Érasme visités le 25 juillet 1916 : f\textsuperscript{o}~1~r\textsuperscript{o} (p.~\pageref{fol:2}) \textit{(lect. inc.)} ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Steenwerck (Nord)}, bourg de la plaine de la Lys, gare et église Saint-Jean-Baptiste : f\textsuperscript{o}~5~r\textsuperscript{o} (p.~\pageref{fol:10}), f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~12~r\textsuperscript{o} (p.~\pageref{fol:24}), f\textsuperscript{o}~13~r\textsuperscript{o} (p.~\pageref{fol:26}) ; \textit{Comm. :} f\textsuperscript{o}~7~v\textsuperscript{o} (p.~\pageref{fol:15}), f\textsuperscript{o}~10~r\textsuperscript{o} (p.~\pageref{fol:20}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Talmas (Somme)}, commune sur la route d'Amiens à Doullens : Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Terre-Cabade (cimetière)}, cimetière où l'auteur s'arrête devant les caveaux des Pères Jésuites et du P. Marie-Antoine : f\textsuperscript{o}~28~v\textsuperscript{o} (p.~\pageref{fol:57}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Steenwerck (Nord)}, bourg de la plaine de la Lys, gare et église Saint-Jean-Baptiste : f\textsuperscript{o}~5~r\textsuperscript{o} (p.~\pageref{fol:10}), f\textsuperscript{o}~6~r\textsuperscript{o} (p.~\pageref{fol:12}), f\textsuperscript{o}~12~r\textsuperscript{o} (p.~\pageref{fol:24}), f\textsuperscript{o}~13~r\textsuperscript{o} (p.~\pageref{fol:26}) ; \textit{Comm. :} f\textsuperscript{o}~7~v\textsuperscript{o} (p.~\pageref{fol:15}), f\textsuperscript{o}~10~r\textsuperscript{o} (p.~\pageref{fol:20}) ; Carte du chapitre I (p.~\pageref{carte:I}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Terre-Cabade (cimetière)}, cimetière où l'auteur s'arrête devant les caveaux des Pères Jésuites et du P. Marie-Antoine : f\textsuperscript{o}~28~v\textsuperscript{o} (p.~\pageref{fol:57}) ; Carte du chapitre III (p.~\pageref{carte:III}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Thièvres (Somme / Pas-de-Calais)}, village de la vallée de l'Authie entre Lucheux et Raincheval : f\textsuperscript{o}~20~v\textsuperscript{o} (p.~\pageref{fol:41}) ; Carte du chapitre II (p.~\pageref{carte:II}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Toulouse (Haute-Garonne)}, métropole languedocienne où séjournent Hippolyte Combes et Marguerite Calmels lors des deux permissions (rue du Taur, rue Pharaon, cathédrale Saint-Étienne, basilique Saint-Sernin, Daurade, Dalbade, Hôtel d'Assézat, Faculté des lettres, Sainte-Marie-des-Champs, Capitole, place Esquirol, marché Victor-Hugo, canal du Midi) : f\textsuperscript{o}~23~v\textsuperscript{o} (p.~\pageref{fol:47}), f\textsuperscript{o}~26~r\textsuperscript{o} (p.~\pageref{fol:52}), f\textsuperscript{o}~26~v\textsuperscript{o} (p.~\pageref{fol:53}), f\textsuperscript{o}~27~r\textsuperscript{o} (p.~\pageref{fol:54}), f\textsuperscript{o}~27~v\textsuperscript{o} (p.~\pageref{fol:55}), f\textsuperscript{o}~28~r\textsuperscript{o} (p.~\pageref{fol:56}), f\textsuperscript{o}~29~r\textsuperscript{o} (p.~\pageref{fol:58}), f\textsuperscript{o}~30~r\textsuperscript{o} (p.~\pageref{fol:60}), f\textsuperscript{o}~66~r\textsuperscript{o} (p.~\pageref{fol:132}), f\textsuperscript{o}~67~r\textsuperscript{o} (p.~\pageref{fol:134}), f\textsuperscript{o}~68~r\textsuperscript{o} (p.~\pageref{fol:136}), f\textsuperscript{o}~68~v\textsuperscript{o} (p.~\pageref{fol:137}), f\textsuperscript{o}~70~r\textsuperscript{o} (p.~\pageref{fol:140}), f\textsuperscript{o}~78~r\textsuperscript{o} (p.~\pageref{fol:156}) ; \textit{Comm. :} f\textsuperscript{o}~30~v\textsuperscript{o} (p.~\pageref{fol:61}), f\textsuperscript{o}~31~r\textsuperscript{o} (p.~\pageref{fol:62}), f\textsuperscript{o}~31~v\textsuperscript{o} (p.~\pageref{fol:63}), f\textsuperscript{o}~32~r\textsuperscript{o} (p.~\pageref{fol:64}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~69~r\textsuperscript{o} (p.~\pageref{fol:138}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Toulouse (Haute-Garonne)}, métropole languedocienne où séjournent Hippolyte Combes et Marguerite Calmels lors des deux permissions (rue du Taur, rue Pharaon, cathédrale Saint-Étienne, basilique Saint-Sernin, Daurade, Dalbade, Hôtel d'Assézat, Faculté des lettres, Sainte-Marie-des-Champs, Capitole, place Esquirol, marché Victor-Hugo, canal du Midi) : f\textsuperscript{o}~23~v\textsuperscript{o} (p.~\pageref{fol:47}), f\textsuperscript{o}~26~r\textsuperscript{o} (p.~\pageref{fol:52}), f\textsuperscript{o}~26~v\textsuperscript{o} (p.~\pageref{fol:53}), f\textsuperscript{o}~27~r\textsuperscript{o} (p.~\pageref{fol:54}), f\textsuperscript{o}~27~v\textsuperscript{o} (p.~\pageref{fol:55}), f\textsuperscript{o}~28~r\textsuperscript{o} (p.~\pageref{fol:56}), f\textsuperscript{o}~29~r\textsuperscript{o} (p.~\pageref{fol:58}), f\textsuperscript{o}~30~r\textsuperscript{o} (p.~\pageref{fol:60}), f\textsuperscript{o}~66~r\textsuperscript{o} (p.~\pageref{fol:132}), f\textsuperscript{o}~67~r\textsuperscript{o} (p.~\pageref{fol:134}), f\textsuperscript{o}~68~r\textsuperscript{o} (p.~\pageref{fol:136}), f\textsuperscript{o}~68~v\textsuperscript{o} (p.~\pageref{fol:137}), f\textsuperscript{o}~70~r\textsuperscript{o} (p.~\pageref{fol:140}), f\textsuperscript{o}~78~r\textsuperscript{o} (p.~\pageref{fol:156}) ; \textit{Comm. :} f\textsuperscript{o}~30~v\textsuperscript{o} (p.~\pageref{fol:61}), f\textsuperscript{o}~31~r\textsuperscript{o} (p.~\pageref{fol:62}), f\textsuperscript{o}~31~v\textsuperscript{o} (p.~\pageref{fol:63}), f\textsuperscript{o}~32~r\textsuperscript{o} (p.~\pageref{fol:64}), f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}), f\textsuperscript{o}~69~r\textsuperscript{o} (p.~\pageref{fol:138}), f\textsuperscript{o}~69~v\textsuperscript{o} (p.~\pageref{fol:139}), f\textsuperscript{o}~79~r\textsuperscript{o} (p.~\pageref{fol:158}) ; Généalogie I (p.~\pageref{genealogie:combes}) ; Généalogie II (p.~\pageref{genealogie:calmels}) ; Organigramme III (p.~\pageref{genealogie:militaires}) ; Prolégomènes, §~I (début p.~\pageref{proleg:biographie}) ; Carte générale (p.~\pageref{carte:generale}) ; Carte du chapitre III (p.~\pageref{carte:III}) ; Carte du chapitre VI (p.~\pageref{carte:VI}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Toutencourt (Somme)}, commune entre Raincheval et Contay, siège de la Mission militaire française auprès de la V\textsuperscript{e} Armée britannique : f\textsuperscript{o}~49~v\textsuperscript{o} (p.~\pageref{fol:99}), f\textsuperscript{o}~52~v\textsuperscript{o} (p.~\pageref{fol:105}), f\textsuperscript{o}~55~r\textsuperscript{o} (p.~\pageref{fol:110}), f\textsuperscript{o}~55~v\textsuperscript{o} (p.~\pageref{fol:111}), f\textsuperscript{o}~56~r\textsuperscript{o} (p.~\pageref{fol:112}), f\textsuperscript{o}~59~r\textsuperscript{o} (p.~\pageref{fol:118}), f\textsuperscript{o}~62~r\textsuperscript{o} (p.~\pageref{fol:124}), f\textsuperscript{o}~75~r\textsuperscript{o} (p.~\pageref{fol:150}), f\textsuperscript{o}~76~r\textsuperscript{o} (p.~\pageref{fol:152}), f\textsuperscript{o}~77~r\textsuperscript{o} (p.~\pageref{fol:154}), f\textsuperscript{o}~77~v\textsuperscript{o} (p.~\pageref{fol:155}), f\textsuperscript{o}~78~r\textsuperscript{o} (p.~\pageref{fol:156}), f\textsuperscript{o}~79~v\textsuperscript{o} (p.~\pageref{fol:159}), f\textsuperscript{o}~80~r\textsuperscript{o} (p.~\pageref{fol:160}), f\textsuperscript{o}~80~v\textsuperscript{o} (p.~\pageref{fol:161}), f\textsuperscript{o}~81~r\textsuperscript{o} (p.~\pageref{fol:162}), f\textsuperscript{o}~81~v\textsuperscript{o} (p.~\pageref{fol:163}), f\textsuperscript{o}~82~r\textsuperscript{o} (p.~\pageref{fol:164}), f\textsuperscript{o}~83~r\textsuperscript{o} (p.~\pageref{fol:166}), f\textsuperscript{o}~83~v\textsuperscript{o} (p.~\pageref{fol:167}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~r\textsuperscript{o} (p.~\pageref{fol:170}), f\textsuperscript{o}~87~r\textsuperscript{o} (p.~\pageref{fol:174}), f\textsuperscript{o}~87~v\textsuperscript{o} (p.~\pageref{fol:175}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~88~v\textsuperscript{o} (p.~\pageref{fol:177}), f\textsuperscript{o}~89~r\textsuperscript{o} (p.~\pageref{fol:178}), f\textsuperscript{o}~91~r\textsuperscript{o} (p.~\pageref{fol:182}), f\textsuperscript{o}~91~v\textsuperscript{o} (p.~\pageref{fol:183}) ; \textit{Comm. :} f\textsuperscript{o}~82~v\textsuperscript{o} (p.~\pageref{fol:165}), f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}) ; Carte du chapitre V (p.~\pageref{carte:V}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Vadencourt (Somme)}, village et château voisins de Contay : f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
-\noindent\hangindent=4.5mm\textbf{Varennes-en-Croix (Somme)}, commune voisine d'Acheux-en-Amiénois (famille Mortreux) : f\textsuperscript{o}~25~r\textsuperscript{o} (p.~\pageref{fol:50}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~48~v\textsuperscript{o} (p.~\pageref{fol:97}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}) ; \textit{Comm. :} f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre V (p.~\pageref{carte:V}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Vadencourt (Somme)}, village et château voisins de Contay : f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}).\par\vspace{0.55mm}
+\noindent\hangindent=4.5mm\textbf{Varennes-en-Croix (Somme)}, commune voisine d'Acheux-en-Amiénois (famille Mortreux) : f\textsuperscript{o}~25~r\textsuperscript{o} (p.~\pageref{fol:50}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~48~v\textsuperscript{o} (p.~\pageref{fol:97}), f\textsuperscript{o}~49~r\textsuperscript{o} (p.~\pageref{fol:98}), f\textsuperscript{o}~60~v\textsuperscript{o} (p.~\pageref{fol:121}), f\textsuperscript{o}~64~r\textsuperscript{o} (p.~\pageref{fol:128}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~92~r\textsuperscript{o} (p.~\pageref{fol:184}) ; \textit{Comm. :} f\textsuperscript{o}~64~v\textsuperscript{o} (p.~\pageref{fol:129}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Villers-Bocage (Somme)}, chef-lieu de canton entre Amiens et Doullens : f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; \textit{Comm. :} f\textsuperscript{o}~77~v\textsuperscript{o} (p.~\pageref{fol:155}), f\textsuperscript{o}~87~r\textsuperscript{o} (p.~\pageref{fol:174}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Warloy-Baillon (Somme)}, bourg entre Contay et Senlis-le-Sec : f\textsuperscript{o}~37~v\textsuperscript{o} (p.~\pageref{fol:75}), f\textsuperscript{o}~38~r\textsuperscript{o} (p.~\pageref{fol:76}), f\textsuperscript{o}~48~r\textsuperscript{o} (p.~\pageref{fol:96}), f\textsuperscript{o}~84~v\textsuperscript{o} (p.~\pageref{fol:169}), f\textsuperscript{o}~85~v\textsuperscript{o} (p.~\pageref{fol:171}), f\textsuperscript{o}~88~r\textsuperscript{o} (p.~\pageref{fol:176}), f\textsuperscript{o}~89~v\textsuperscript{o} (p.~\pageref{fol:179}), f\textsuperscript{o}~90~v\textsuperscript{o} (p.~\pageref{fol:181}), f\textsuperscript{o}~93~r\textsuperscript{o} (p.~\pageref{fol:186}) ; \textit{Comm. :} f\textsuperscript{o}~86~v\textsuperscript{o} (p.~\pageref{fol:173}) ; Carte du chapitre IV (p.~\pageref{carte:IV}) ; Carte du chapitre VII (p.~\pageref{carte:VII}).\par\vspace{0.55mm}
 \noindent\hangindent=4.5mm\textbf{Ypres (Belgique)}, ville martyre de Flandre occidentale (cartes postales acquises à Renescure) : f\textsuperscript{o}~2~r\textsuperscript{o} (p.~\pageref{fol:4}), f\textsuperscript{o}~4~v\textsuperscript{o} (p.~\pageref{fol:9}).\par\vspace{0.55mm}

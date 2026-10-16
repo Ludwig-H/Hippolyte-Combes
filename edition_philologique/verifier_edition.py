@@ -245,17 +245,144 @@ def check_exports(records: list[dict], md_path: Path, tex_path: Path, checks: Ch
         )
 
 
-    from cartes_et_index import build_indexes_latex
+    from cartes_et_index import MAP_IDS, build_indexes_latex
+    expected_maps = [f"cartographie/cartes/{map_id}.pdf" for map_id in MAP_IDS]
+    included_maps = re.findall(
+        r"\\includegraphics(?:\[[^\]]*\])?\s*\{(cartographie/cartes/[^}]+\.pdf)\}", tex)
+    checks.require(included_maps == expected_maps,
+                   f"TeX: huit cartes PDF requises dans l'ordre attendu ; reçu {included_maps!r}")
+    for map_id in MAP_IDS:
+        checks.require(tex.count(r'\label{carte:' + map_id + '}') == 1,
+                       f"TeX: ancre de carte {map_id} absente ou dupliquée")
+    checks.require(tex.count(r'\begin{tikzpicture}') == 3,
+                   "TeX: seuls les trois arbres doivent utiliser TikZ ; ancienne carte encore présente")
     context = tex.split('% CHAPITRE I ', 1)[0]
-    checks.require(build_indexes_latex(records, document_context=context) in tex,
-                   'TeX: index différents des attestations et commentaires courants')
+    try:
+        checks.require(build_indexes_latex(records, document_context=context) in tex,
+                       'TeX: index différents des attestations et commentaires courants')
+    except (OSError, ValueError, TypeError) as exc:
+        checks.require(False, f"TeX: index des cartes non vérifiable : {exc}")
 
 
 def ascii_text(text: str) -> str:
     return "".join(c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c))
 
 
-def check_pdf(records: list[dict], pdf_path: Path, tolerance: float, checks: Checks):
+
+def normalized_map_text(text: str) -> str:
+    """Ignore PDF line wrapping and punctuation variants, preserving letters."""
+    return ''.join(c for c in unicodedata.normalize('NFKC', text).casefold() if c.isalnum())
+
+
+def check_map_assets(checks: Checks):
+    """Check the eight geographical originals and their actual printed labels."""
+    from cartes_et_index import MAP_IDS, load_map_manifest, map_asset_path
+    try:
+        entries = load_map_manifest()
+    except (OSError, ValueError, TypeError) as exc:
+        checks.require(False, f"Manifeste cartographique : {exc}")
+        return []
+    try:
+        import pymupdf as fitz
+    except ImportError:
+        try:
+            import fitz
+        except ImportError:
+            checks.require(False, "Le contrôle des cartes PDF requiert PyMuPDF.")
+            return []
+    assets = []
+    paths, digests = [], []
+    for entry in entries:
+        map_id = entry['id']
+        path = map_asset_path(entry)
+        paths.append(path)
+        if not checks.require(path.is_file(), f"Carte {map_id}: PDF absent : {path}"):
+            continue
+        digest = sha256(path)
+        digests.append(digest)
+        checks.require(digest == entry['sha256'], f"Carte {map_id}: SHA-256 du PDF divergent du manifeste")
+        try:
+            with fitz.open(path) as source:
+                if not checks.require(len(source) == 1, f"Carte {map_id}: un PDF d'une seule page est requis"):
+                    continue
+                page = source[0]
+                text = page.get_text('text', clip=fitz.INFINITE_RECT())
+                checks.require(bool(page.get_drawings()), f"Carte {map_id}: contenu vectoriel absent")
+        except Exception as exc:
+            checks.require(False, f"Carte {map_id}: PDF illisible : {exc}")
+            continue
+        normalized = normalized_map_text(text)
+        checks.require(bool(normalized), f"Carte {map_id}: texte extractible absent")
+        printed = entry['printed_text']
+        for fragment in printed.splitlines():
+            needle = normalized_map_text(fragment)
+            if needle:
+                checks.require(needle in normalized,
+                               f"Carte {map_id}: printed_text contient un fragment absent du PDF : {fragment!r}")
+        place_ids = []
+        valid_places = []
+        for place in entry['places']:
+            if not checks.require(isinstance(place, dict), f"Carte {map_id}: lieu mal formé : {place!r}"):
+                continue
+            place_id, label = place.get('id'), place.get('label')
+            if not checks.require(isinstance(place_id, str) and bool(place_id.strip()),
+                                  f"Carte {map_id}: identifiant de lieu absent"):
+                continue
+            place_ids.append(place_id)
+            if not checks.require(isinstance(label, str) and bool(label.strip()),
+                                  f"Carte {map_id}, {place_id}: libellé absent"):
+                continue
+            needle = normalized_map_text(label)
+            checks.require(bool(needle) and needle in normalized,
+                           f"Carte {map_id}: libellé du lieu absent du PDF : {label!r}")
+            checks.require(bool(needle) and needle in normalized_map_text(printed),
+                           f"Carte {map_id}: libellé du lieu absent de printed_text : {label!r}")
+            for key, bound in [('lon', 180), ('lat', 90)]:
+                value = place.get(key)
+                numeric = isinstance(value, (int, float)) and not isinstance(value, bool)
+                checks.require(numeric and -bound <= value <= bound,
+                               f"Carte {map_id}, {label}: coordonnée {key} invalide : {value!r}")
+            valid_places.append(place)
+        checks.require(len(place_ids) == len(set(place_ids)), f"Carte {map_id}: lieux dupliqués dans places")
+        assets.append({'id': map_id, 'path': path, 'places': valid_places,
+                       'printed_text': printed, 'source_text': text})
+    checks.require(len(paths) == len(set(paths)) == len(MAP_IDS),
+                   "Cartes: huit chemins de PDF distincts sont requis")
+    checks.require(len(digests) == len(set(digests)) == len(MAP_IDS),
+                   "Cartes: huit PDF distincts et présents sont requis (empreintes SHA-256)")
+    return assets
+
+
+def check_embedded_maps(document, page_texts, assets, checks):
+    """Check each map's labels on its own page in the compiled edition."""
+    found_pages = []
+    for asset in assets:
+        map_id = asset['id']
+        marker = (r'^\s*CARTE GENERALE\s*$' if map_id == 'generale' else
+                  r'^\s*REPERES DU CHAPITRE ' + re.escape(map_id) + r'(?:\s|$)')
+        pages = [index for index, text in enumerate(page_texts)
+                 if re.search(marker, ascii_text(text), re.M)]
+        if not checks.require(len(pages) == 1,
+                              f"PDF: carte {map_id}, page propre absente ou répétée : {[p + 1 for p in pages]}"):
+            continue
+        page_no = pages[0]
+        found_pages.append(page_no)
+        normalized = normalized_map_text(page_texts[page_no])
+        for place in asset['places']:
+            checks.require(normalized_map_text(place['label']) in normalized,
+                           f"PDF page {page_no + 1}: carte {map_id}, lieu absent : {place['label']!r}")
+        for fragment in asset['printed_text'].splitlines():
+            needle = normalized_map_text(fragment)
+            if needle:
+                checks.require(needle in normalized,
+                               f"PDF page {page_no + 1}: texte de carte {map_id} absent : {fragment!r}")
+        checks.require(bool(document[page_no].get_drawings()),
+                       f"PDF page {page_no + 1}: carte {map_id}, tracés vectoriels absents")
+    checks.require(len(found_pages) == len(set(found_pages)) == 8,
+                   "PDF: les huit cartes doivent occuper huit pages distinctes")
+
+
+def check_pdf(records: list[dict], pdf_path: Path, tolerance: float, checks: Checks, map_assets=None):
     try:
         import pymupdf as fitz
     except ImportError:
@@ -276,6 +403,11 @@ def check_pdf(records: list[dict], pdf_path: Path, tolerance: float, checks: Che
     records_digest = hashlib.sha256(json.dumps(records, ensure_ascii=False, sort_keys=True).encode('utf-8')).hexdigest()
     checks.require('edition-records-sha256:' + records_digest in (document.metadata.get('keywords') or ''),
                    'PDF: empreinte des enregistrements absente ou périmée')
+    from cartes_et_index import MAP_MANIFEST
+    if MAP_MANIFEST.is_file():
+        checks.require('edition-cartography-sha256:' + sha256(MAP_MANIFEST)
+                       in (document.metadata.get('keywords') or ''),
+                       'PDF: empreinte du manifeste cartographique absente ou périmée')
     transcriptions: dict[int, int] = {}
     facsimiles: dict[int, int] = {}
     page_texts: list[str] = []
@@ -373,6 +505,7 @@ def check_pdf(records: list[dict], pdf_path: Path, tolerance: float, checks: Che
     checks.require("Arbre généalogique II" in full_pdf_text, "PDF: missing Arbre généalogique II")
     checks.require("Organigramme III" in full_pdf_text, "PDF: missing Organigramme III")
 
+    check_embedded_maps(document, page_texts, map_assets or [], checks)
     total = len(document)
     document.close()
     return total
@@ -421,9 +554,10 @@ def main():
             checks.require(records == expected, "JSON export differs from a fresh build_all_186_records()")
         except Exception as exc:
             checks.require(False, f"Fresh parser build failed: {exc}")
+        map_assets = check_map_assets(checks)
         check_records(records, checks)
         check_exports(records, args.markdown, args.tex, checks)
-        pages = check_pdf(records, args.pdf, args.tolerance, checks)
+        pages = check_pdf(records, args.pdf, args.tolerance, checks, map_assets)
         logs = args.log
         if logs is None:
             canonical = args.tex.with_suffix(".log")
@@ -440,7 +574,7 @@ def main():
     print(
         f"OK: 186 folios (Couverture + Folio 1 recto to Folio 93 recto); "
         f"JSON/Markdown/TeX consistent; 186 facing PDF pairs across {pages} pages; "
-        f"diplomatic layout, 3 bottom registers, 3 genealogical trees, 8 TikZ maps, and 2 Indexes verified; "
+        f"diplomatic layout, 3 bottom registers, 3 genealogical trees, 8 geographical vector PDF maps, and 2 Indexes verified; "
         f"0 Overfull boxes and 0 text overflows."
     )
     return 0

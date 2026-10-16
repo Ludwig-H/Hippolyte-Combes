@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-16",
+  "base_git": "87d9c4a0f9b0e0a36d3ce24c1122a4ecc006c6f7",
+  "pages_pdf": 424,
+  "paires_vis_a_vis": 186,
+  "cartes": 8,
+  "lieux_distincts": 82,
+  "points_dessines": 122,
+  "liaisons_documentees": 12,
+  "pages_cartes": {
+    "generale": 7,
+    "I": 13,
+    "II": 51,
+    "III": 115,
+    "IV": 151,
+    "V": 229,
+    "VI": 277,
+    "VII": 317
+  },
+  "validation_edition": "OK: 186 folios (Couverture + Folio 1 recto to Folio 93 recto); JSON/Markdown/TeX consistent; 186 facing PDF pairs across 424 pages; diplomatic layout, 3 bottom registers, 3 genealogical trees, 8 geographical vector PDF maps, and 2 Indexes verified; 0 Overfull boxes and 0 text overflows.",
+  "preservation": {
+    "trois_arbres_tikz_identiques": true,
+    "json_markdown_transcription_identiques": true,
+    "treize_illustrations_de_chapitre_conservees": true
+  },
+  "sha256": {
+    "edition_philologique/carnet_hippolyte_combes.pdf": "033ed132c8797eee3a6244ba194077c304d5ee02286db6e91bde784f37e4fcf8",
+    "edition_philologique/carnet_hippolyte_combes.tex": "3633d8a64ecf3a82c79dfcd97b15bab9985985560a830feac781e414a3bf882c",
+    "transcriptions/transcription_integrale_186_scans.json": "ee6f62e8abba93bb16fbb196ad9d8ba5812a113b017de711a08bcf0e98f43d46",
+    "transcriptions/transcription_integrale_186_scans.md": "964cc21e5f822f65debd715edf97f190386de66345410c7484802e21a4a30af4",
+    "edition_philologique/cartographie/cartes/manifest.json": "54e5bed403696190e2409cd9d5e7955a4327a1c72baf99b509a016e44d96a114",
+    "edition_philologique/cartographie/cartes.json": "40a5bd7a1199136fdf62f32f9e9131b19fe877a469eaf5fc99c21066a5653593",
+    "edition_philologique/cartographie/donnees/lieux.json": "1e0c1199ee921e756135b9f87fd90b9970b0cae3bc2b85bc3ddd4ee46b124a71",
+    "edition_philologique/cartographie/generer_cartes.py": "655ded53517cf082d66a66c38a4af8305abc1bda13083f85b6f9c6c1356b44cd",
+    "edition_philologique/cartographie/verifier_cartes.py": "13ca8382d6ee13f232e60086c996b91f0325e2719c8ab1094ebf15f6e882dd1f",
+    "edition_philologique/cartographie/verification/validation_cartes.json": "1c7ceaa93b90650f9c3256cfea2d78c3f8cba771770db8bdca8159bdce4f34da"
+  }
+}

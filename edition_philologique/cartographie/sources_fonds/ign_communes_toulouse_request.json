@@ -1,0 +1,15 @@
+{
+  "url": "https://data.geopf.fr/wfs/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=ADMINEXPRESS-COG.2026%3Acommune&outputFormat=application%2Fjson&srsName=EPSG%3A4326&count=5000&CQL_FILTER=BBOX%28geometrie%2C1.28%2C43.48%2C1.6%2C43.76%2C%27EPSG%3A4326%27%29",
+  "status": 200,
+  "bbox": [
+    1.28,
+    43.48,
+    1.6,
+    43.76
+  ],
+  "retrieved": "2026-10-16",
+  "numberMatched": 105,
+  "numberReturned": 105,
+  "source": "IGN ADMIN EXPRESS COG 2026, couche commune",
+  "licence": "Licence Ouverte / Etalab 2.0"
+}

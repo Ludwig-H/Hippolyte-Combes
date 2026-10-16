@@ -1,0 +1,4 @@
+{
+  "url": "https://data.geopf.fr/wfs/ows?service=WFS&version=2.0.0&request=GetFeature&outputFormat=application%2Fjson&srsName=EPSG%3A4326&count=1000&typeNames=BDTOPO_V3%3Acours_d_eau&CQL_FILTER=BBOX%28geometrie%2C1.4%2C49.7%2C3.3%2C51.2%2C%27EPSG%3A4326%27%29+AND+%28toponyme+ILIKE+%27%25Lys%25%27+OR+toponyme+ILIKE+%27%25Ternoise%25%27+OR+toponyme+ILIKE+%27%25Authie%25%27+OR+toponyme+ILIKE+%27%25Ancre%25%27+OR+toponyme+ILIKE+%27%25Hallue%25%27+OR+toponyme+ILIKE+%27%25Somme%25%27%29",
+  "status": 200
+}

@@ -1,0 +1,991 @@
+{
+  "59366": {
+    "id": "59366",
+    "name": "Lynde",
+    "longitude": 2.4194,
+    "latitude": 50.7133,
+    "insee": "59366",
+    "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Lynde"
+  },
+  "59568": {
+    "id": "59568",
+    "name": "Sercus",
+    "longitude": 2.4565,
+    "latitude": 50.7061,
+    "insee": "59568",
+    "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Sercus [?]"
+  },
+  "59497": {
+    "id": "59497",
+    "name": "Renescure",
+    "longitude": 2.3662,
+    "latitude": 50.7286,
+    "insee": "59497",
+    "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Renescure"
+  },
+  "59295": {
+    "id": "59295",
+    "name": "Hazebrouck",
+    "longitude": 2.5369,
+    "latitude": 50.7228,
+    "insee": "59295",
+    "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Hazebrouck"
+  },
+  "59535": {
+    "id": "59535",
+    "name": "Saint-Jans-Cappel",
+    "longitude": 2.7198,
+    "latitude": 50.7634,
+    "insee": "59535",
+    "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Saint-Jans-Cappel"
+  },
+  "59043": {
+    "id": "59043",
+    "name": "Bailleul",
+    "longitude": 2.7347,
+    "latitude": 50.7398,
+    "insee": "59043",
+    "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Bailleul"
+  },
+  "59581": {
+    "id": "59581",
+    "name": "Steenwerck",
+    "longitude": 2.7771,
+    "latitude": 50.7,
+    "insee": "59581",
+    "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Steenwerck"
+  },
+  "62736": {
+    "id": "62736",
+    "name": "Sailly-sur-la-Lys",
+    "longitude": 2.7694,
+    "latitude": 50.6582,
+    "insee": "62736",
+    "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Sailly-sur-la-Lys"
+  },
+  "62767": {
+    "id": "62767",
+    "name": "Saint-Pol-sur-Ternoise",
+    "longitude": 2.3364,
+    "latitude": 50.3812,
+    "insee": "62767",
+    "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Saint-Pol"
+  },
+  "62558": {
+    "id": "62558",
+    "name": "Marquay",
+    "longitude": 2.4188,
+    "latitude": 50.3834,
+    "insee": "62558",
+    "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Marquay"
+  },
+  "62590": {
+    "id": "62590",
+    "name": "Monts-en-Ternois",
+    "longitude": 2.3852,
+    "latitude": 50.3216,
+    "insee": "62590",
+    "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Monts-en-Ternois"
+  },
+  "62516": {
+    "id": "62516",
+    "name": "Lillers",
+    "longitude": 2.4815,
+    "latitude": 50.5633,
+    "insee": "62516",
+    "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Lillers"
+  },
+  "62514": {
+    "id": "62514",
+    "name": "Ligny-Saint-Flochel",
+    "longitude": 2.4282,
+    "latitude": 50.3586,
+    "insee": "62514",
+    "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Ligny-Saint-Flochel"
+  },
+  "80495": {
+    "id": "80495",
+    "name": "Lucheux",
+    "longitude": 2.4115,
+    "latitude": 50.1968,
+    "insee": "80495",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Lucheux"
+  },
+  "80756": {
+    "id": "80756",
+    "name": "Thièvres",
+    "longitude": 2.4543,
+    "latitude": 50.1267,
+    "insee": "80756",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Thièvres"
+  },
+  "80659": {
+    "id": "80659",
+    "name": "Raincheval",
+    "longitude": 2.4389,
+    "latitude": 50.0743,
+    "insee": "80659",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Raincheval"
+  },
+  "80329": {
+    "id": "80329",
+    "name": "Forceville",
+    "longitude": 2.5562,
+    "latitude": 50.0611,
+    "insee": "80329",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Forceville"
+  },
+  "80003": {
+    "id": "80003",
+    "name": "Acheux-en-Amiénois",
+    "longitude": 2.5332,
+    "latitude": 50.0725,
+    "insee": "80003",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Acheux"
+  },
+  "75056": {
+    "id": "75056",
+    "name": "Paris",
+    "longitude": 2.3525,
+    "latitude": 48.8564,
+    "insee": "75056",
+    "source": "https://geo.api.gouv.fr/communes?nom=Paris&codeDepartement=75&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Paris"
+  },
+  "80021": {
+    "id": "80021",
+    "name": "Amiens",
+    "longitude": 2.2957,
+    "latitude": 49.8941,
+    "insee": "80021",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Amiens"
+  },
+  "31555": {
+    "id": "31555",
+    "name": "Toulouse",
+    "longitude": 1.4442,
+    "latitude": 43.6046,
+    "insee": "31555",
+    "source": "https://geo.api.gouv.fr/departements/31/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Toulouse"
+  },
+  "12145": {
+    "id": "12145",
+    "name": "Millau",
+    "longitude": 3.0776,
+    "latitude": 44.1006,
+    "insee": "12145",
+    "source": "https://geo.api.gouv.fr/departements/12/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Millau"
+  },
+  "11069": {
+    "id": "11069",
+    "name": "Carcassonne",
+    "longitude": 2.3529,
+    "latitude": 43.2121,
+    "insee": "11069",
+    "source": "https://geo.api.gouv.fr/communes?nom=Carcassonne&codeDepartement=11&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Carcassonne"
+  },
+  "34032": {
+    "id": "34032",
+    "name": "Béziers",
+    "longitude": 3.2138,
+    "latitude": 43.343,
+    "insee": "34032",
+    "source": "https://geo.api.gouv.fr/communes?nom=B%C3%A9ziers&codeDepartement=34&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Béziers"
+  },
+  "34028": {
+    "id": "34028",
+    "name": "Bédarieux",
+    "longitude": 3.16,
+    "latitude": 43.6154,
+    "insee": "34028",
+    "source": "https://geo.api.gouv.fr/communes?nom=B%C3%A9darieux&codeDepartement=34&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Bédarieux"
+  },
+  "15187": {
+    "id": "15187",
+    "name": "Saint-Flour",
+    "longitude": 3.095,
+    "latitude": 45.033,
+    "insee": "15187",
+    "source": "https://geo.api.gouv.fr/communes?nom=Saint-Flour&codeDepartement=15&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Saint-Flour"
+  },
+  "43040": {
+    "id": "43040",
+    "name": "Brioude",
+    "longitude": 3.3861,
+    "latitude": 45.294,
+    "insee": "43040",
+    "source": "https://geo.api.gouv.fr/communes?nom=Brioude&codeDepartement=43&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Brioude"
+  },
+  "63113": {
+    "id": "63113",
+    "name": "Clermont-Ferrand",
+    "longitude": 3.0865,
+    "latitude": 45.7797,
+    "insee": "63113",
+    "source": "https://geo.api.gouv.fr/communes?nom=Clermont-Ferrand&codeDepartement=63&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Clermont-Ferrand"
+  },
+  "03118": {
+    "id": "03118",
+    "name": "Gannat",
+    "longitude": 3.1993,
+    "latitude": 46.1002,
+    "insee": "03118",
+    "source": "https://geo.api.gouv.fr/communes?nom=Gannat&codeDepartement=03&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Gannat"
+  },
+  "45155": {
+    "id": "45155",
+    "name": "Gien",
+    "longitude": 2.6248,
+    "latitude": 47.698,
+    "insee": "45155",
+    "source": "https://geo.api.gouv.fr/communes?nom=Gien&codeDepartement=45&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Gien"
+  },
+  "45208": {
+    "id": "45208",
+    "name": "Montargis",
+    "longitude": 2.7313,
+    "latitude": 47.998,
+    "insee": "45208",
+    "source": "https://geo.api.gouv.fr/communes?nom=Montargis&codeDepartement=45&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Montargis"
+  },
+  "91174": {
+    "id": "91174",
+    "name": "Corbeil-Essonnes",
+    "longitude": 2.4821,
+    "latitude": 48.6139,
+    "insee": "91174",
+    "source": "https://geo.api.gouv.fr/communes?nom=Corbeil-Essonnes&codeDepartement=91&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Corbeil-Essonnes"
+  },
+  "92051": {
+    "id": "92051",
+    "name": "Neuilly-sur-Seine",
+    "longitude": 2.2697,
+    "latitude": 48.8848,
+    "insee": "92051",
+    "source": "https://geo.api.gouv.fr/communes?nom=Neuilly-sur-Seine&codeDepartement=92&fields=nom%2Ccode%2Cmairie%2Ccentre%2CcodeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Neuilly-sur-Seine"
+  },
+  "31069": {
+    "id": "31069",
+    "name": "Blagnac",
+    "longitude": 1.3973,
+    "latitude": 43.6348,
+    "insee": "31069",
+    "source": "https://geo.api.gouv.fr/departements/31/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Blagnac"
+  },
+  "80166": {
+    "id": "80166",
+    "name": "Canaples",
+    "longitude": 2.2175,
+    "latitude": 50.0559,
+    "insee": "80166",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Canaples"
+  },
+  "80086": {
+    "id": "80086",
+    "name": "Bernaville",
+    "longitude": 2.1645,
+    "latitude": 50.1306,
+    "insee": "80086",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Bernaville"
+  },
+  "80642": {
+    "id": "80642",
+    "name": "Prouville",
+    "longitude": 2.1246,
+    "latitude": 50.1467,
+    "insee": "80642",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Prouville"
+  },
+  "80071": {
+    "id": "80071",
+    "name": "Beauval",
+    "longitude": 2.3299,
+    "latitude": 50.1061,
+    "insee": "80071",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Beauval"
+  },
+  "80070": {
+    "id": "80070",
+    "name": "Beauquesne",
+    "longitude": 2.392,
+    "latitude": 50.0832,
+    "insee": "80070",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Beauquesne"
+  },
+  "80645": {
+    "id": "80645",
+    "name": "Puchevillers",
+    "longitude": 2.4086,
+    "latitude": 50.0531,
+    "insee": "80645",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Puchevillers"
+  },
+  "80820": {
+    "id": "80820",
+    "name": "Warloy-Baillon",
+    "longitude": 2.5246,
+    "latitude": 50.0096,
+    "insee": "80820",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Warloy-Baillon"
+  },
+  "80733": {
+    "id": "80733",
+    "name": "Senlis-le-Sec",
+    "longitude": 2.578,
+    "latitude": 50.0263,
+    "insee": "80733",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Senlis-le-Sec"
+  },
+  "80129": {
+    "id": "80129",
+    "name": "Bouzincourt",
+    "longitude": 2.6099,
+    "latitude": 50.0267,
+    "insee": "80129",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Bouzincourt"
+  },
+  "80425": {
+    "id": "80425",
+    "name": "Hédauville",
+    "longitude": 2.5687,
+    "latitude": 50.0456,
+    "insee": "80425",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Hédauville"
+  },
+  "80016": {
+    "id": "80016",
+    "name": "Albert",
+    "longitude": 2.6518,
+    "latitude": 50.0012,
+    "insee": "80016",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Albert"
+  },
+  "80431": {
+    "id": "80431",
+    "name": "Hérissart",
+    "longitude": 2.4152,
+    "latitude": 50.0279,
+    "insee": "80431",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Hérissart"
+  },
+  "80766": {
+    "id": "80766",
+    "name": "Toutencourt",
+    "longitude": 2.4585,
+    "latitude": 50.0358,
+    "insee": "80766",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Toutencourt"
+  },
+  "80686": {
+    "id": "80686",
+    "name": "Rubempré",
+    "longitude": 2.3844,
+    "latitude": 50.0187,
+    "insee": "80686",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Rubempré"
+  },
+  "80493": {
+    "id": "80493",
+    "name": "Louvencourt",
+    "longitude": 2.4991,
+    "latitude": 50.0937,
+    "insee": "80493",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Louvencourt"
+  },
+  "80043": {
+    "id": "80043",
+    "name": "Authie",
+    "longitude": 2.4883,
+    "latitude": 50.1215,
+    "insee": "80043",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Authie"
+  },
+  "80705": {
+    "id": "80705",
+    "name": "Saint-Léger-lès-Authie",
+    "longitude": 2.5122,
+    "latitude": 50.1257,
+    "insee": "80705",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Saint-Léger-lès-Authie"
+  },
+  "80028": {
+    "id": "80028",
+    "name": "Arquèves",
+    "longitude": 2.4694,
+    "latitude": 50.0725,
+    "insee": "80028",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Arquèves"
+  },
+  "80266": {
+    "id": "80266",
+    "name": "Englebelmer",
+    "longitude": 2.609,
+    "latitude": 50.0597,
+    "insee": "80266",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Englebelmer"
+  },
+  "80350": {
+    "id": "80350",
+    "name": "Franvillers",
+    "longitude": 2.5077,
+    "latitude": 49.9663,
+    "insee": "80350",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Franvillers"
+  },
+  "80151": {
+    "id": "80151",
+    "name": "Buire-sur-l'Ancre",
+    "longitude": 2.5921,
+    "latitude": 49.9655,
+    "insee": "80151",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Buire-sur-l'Ancre"
+  },
+  "80253": {
+    "id": "80253",
+    "name": "Doullens",
+    "longitude": 2.3412,
+    "latitude": 50.1574,
+    "insee": "80253",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Doullens"
+  },
+  "62060": {
+    "id": "62060",
+    "name": "Auxi-le-Château",
+    "longitude": 2.1182,
+    "latitude": 50.2316,
+    "insee": "62060",
+    "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Auxi-le-Château"
+  },
+  "80207": {
+    "id": "80207",
+    "name": "Contay",
+    "longitude": 2.48,
+    "latitude": 50.004,
+    "insee": "80207",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Contay"
+  },
+  "80624": {
+    "id": "80624",
+    "name": "Pierregot",
+    "longitude": 2.3783,
+    "latitude": 50.002,
+    "insee": "80624",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Pierregot"
+  },
+  "80553": {
+    "id": "80553",
+    "name": "Molliens-au-Bois",
+    "longitude": 2.385,
+    "latitude": 49.9867,
+    "insee": "80553",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Molliens-au-Bois"
+  },
+  "80562": {
+    "id": "80562",
+    "name": "Montigny-sur-l'Hallue",
+    "longitude": 2.4451,
+    "latitude": 49.98,
+    "insee": "80562",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Montigny"
+  },
+  "80798": {
+    "id": "80798",
+    "name": "Villers-Bocage",
+    "longitude": 2.3197,
+    "latitude": 49.9975,
+    "insee": "80798",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Villers-Bocage"
+  },
+  "80671": {
+    "id": "80671",
+    "name": "Ribeaucourt",
+    "longitude": 2.115,
+    "latitude": 50.1179,
+    "insee": "80671",
+    "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+    "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917",
+    "label": "Ribeaucourt"
+  },
+  "croix_du_bac": {
+    "id": "croix_du_bac",
+    "label": "La Croix-du-Bac",
+    "longitude": 2.792133,
+    "latitude": 50.675304,
+    "type": [
+      "lieu-dit habité",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "59581"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Croix+du+Bac&index=poi&limit=8",
+    "source_record": "PAIHABIT0000000056581811",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Ne pas prendre la rue de la Croix-du-Bac située au nord du hameau ni le cimetière militaire au sud.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "bac_saint_maur": {
+    "id": "bac_saint_maur",
+    "label": "Bac-Saint-Maur",
+    "longitude": 2.793612,
+    "latitude": 50.660136,
+    "type": [
+      "quartier",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "62736"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Bac+Saint+Maur&index=poi&limit=8",
+    "source_record": "PAIHABIT0000000045822373",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Le lieu-dit habité est distingué du pont, de l’écluse et du château ; le carnet ne fixe pas exactement le refilling point.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "mont_noir": {
+    "id": "mont_noir",
+    "label": "Le Mont-Noir",
+    "longitude": 2.727754,
+    "latitude": 50.779533,
+    "type": [
+      "lieu-dit habité"
+    ],
+    "insee": [
+      "59535"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Mont+Noir&index=poi&limit=8",
+    "source_record": "PAIHABIT0000000056580794",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "Repère contemporain du hameau, non localisation de la ferme de 1916.",
+    "note": "Hameau cité au scan 006 ; le sommet est un objet géographique distinct à environ 400 m.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "oppy": {
+    "id": "oppy",
+    "label": "Oppy · hameau",
+    "longitude": 2.397407,
+    "latitude": 50.255351,
+    "type": [
+      "lieu-dit habité",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "62091"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Oppy+Beaudricourt&index=poi&limit=8",
+    "source_record": "PAIHABIT0000000045825279",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Identification administrative confirmée par Archives Pas-de-Calais, https://www.archivespasdecalais.fr/Recherche-par-commune/Lettre-B/Beaudricourt ; opposé à commune Oppy62639, 36km à ENE.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "barlette": {
+    "id": "barlette",
+    "label": "Barlette",
+    "longitude": 2.122117,
+    "latitude": 50.105713,
+    "type": [
+      "lieu-dit habité",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "80671"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Barlette+Ribeaucourt&index=poi&limit=8",
+    "source_record": "PAIHABIT0000000088355530",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Hameau au S de Ribeaucourt. Source historique Inventaire IA80009629 : https://inventaire-qualif.hautsdefrance.fr/dossier/IA80009629",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "belle_eglise": {
+    "id": "belle_eglise",
+    "label": "Belle-Église",
+    "longitude": 2.488505,
+    "latitude": 50.070856,
+    "type": [
+      "lieu-dit habité",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "80028"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Belle+Eglise+Arqu%C3%A8ves&index=poi&limit=8",
+    "source_record": "PAIHABIT0000000088355706",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Ferme à Arquèves. Ne pas fusionner avec le centre d’Arquèves situé environ1,4km à l’ouest.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "berguette_gare": {
+    "id": "berguette_gare",
+    "label": "Berguette · gare",
+    "longitude": 2.462862,
+    "latitude": 50.613965,
+    "type": [
+      "gare voyageurs et fret",
+      "transport",
+      "équipement de transport"
+    ],
+    "insee": [
+      "62473"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Gare+Berguette+Isbergues&index=poi&limit=10",
+    "source_record": "EQ_RESEA0000000045722532",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain de la gare ou du bourg ; implantation exacte des installations de 1916 non restituée",
+    "note": "Deux objets distincts : choisir la gare pour la carte de la liaison ferroviaire. Ne pas afficher deux étapes consécutives artificielles. La SNCF nomme la gare Berguette–Isbergues, identifiant87342279.",
+    "source_identification": "https://www.ter.sncf.com/hauts-de-france/se-deplacer/prochaines-arrivees/berguette-isbergues-87342279"
+  },
+  "purpan_amphitheatre": {
+    "id": "purpan_amphitheatre",
+    "label": "Purpan · amphithéâtre",
+    "longitude": 1.397724,
+    "latitude": 43.614804,
+    "type": [
+      "site archéologique",
+      "amphithéâtre antique"
+    ],
+    "insee": [
+      "31555"
+    ],
+    "source": "https://www.openstreetmap.org/api/0.6/way/95656275/full",
+    "source_record": "OSM way95656275 ; ref:mhs PA00094494",
+    "source_title": "OpenStreetMap, périmètre du site de Purpan-Ancely ; identification monumentale confirmée par ministère de la Culture",
+    "geometry_status": "repère situé à l’intérieur du périmètre archéologique ; moyenne des sommets du périmètre OSM, précision pertinente environ50m",
+    "source_identification": "https://pop.culture.gouv.fr/notice/merimee/PA00094494",
+    "note": "L’amphithéâtre est distinct de l’hôpital Purpan, de la station de tramway et du château. Coordonnées source à attribuer aux contributeurs OpenStreetMap (ODbL). Le repère porte sur le monument conservé, pas sur le point exact où Combes s’est arrêté."
+  },
+  "pech_david_coteau": {
+    "id": "pech_david_coteau",
+    "label": "Pech-David · coteau",
+    "longitude": 1.445767,
+    "latitude": 43.55847,
+    "type": [
+      "repère de coteau",
+      "point paysager municipal"
+    ],
+    "insee": [
+      "31555"
+    ],
+    "source": "https://metropole.toulouse.fr/sites/toulouse-fr/files/2025-12/pluih_2025_3d_annexe_6_liste_vim_et_fiches.pdf",
+    "source_title": "Toulouse Métropole, PLUi-H, annexe6, vues d’intérêt métropolitain, ficheVIM n°8",
+    "geometry_status": "point paysager des coteaux documenté dans le PLUi-H ; repère du secteur, pas localisation exacte de la promenade de1916, ni sommet géodésique",
+    "source_excerpt": "Vue depuis les coteaux de Pech-David vers l’Ouest. Latitude :43.558470 ; Longitude :1.445767.",
+    "note": "Peut porter un libellé de coteau, sans pictogramme de bâtiment ni affirmation de sommet atteint. Distinct du village de Pouvourville. Les coordonnées sont explicites dans le texte indexé du document municipal ; téléchargement intégral en erreur lors de cette passe.",
+    "source_context": "https://metropole.toulouse.fr/quartiers/rangueil-sauzelong-jules-julien-pech-david-pouvourville"
+  },
+  "matabiau": {
+    "id": "matabiau",
+    "label": "Matabiau",
+    "longitude": 1.453496,
+    "latitude": 43.611448,
+    "type": [
+      "gare voyageurs uniquement",
+      "transport",
+      "équipement de transport"
+    ],
+    "insee": [
+      "31555"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Gare+Matabiau+Toulouse&index=poi&limit=5",
+    "source_record": "EQ_RESEA0000000073015866",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "saint_sernin": {
+    "id": "saint_sernin",
+    "label": "Saint-Sernin",
+    "longitude": 1.442246,
+    "latitude": 43.608504,
+    "type": [
+      "culte chrétien",
+      "zone d'activité ou d'intérêt"
+    ],
+    "insee": [
+      "31555"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Basilique+Saint+Sernin+Toulouse&index=poi&limit=5",
+    "source_record": "SURFACTI0000000073016342",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "saint_etienne": {
+    "id": "saint_etienne",
+    "label": "Saint-Étienne",
+    "longitude": 1.450391,
+    "latitude": 43.599845,
+    "type": [
+      "culte chrétien",
+      "zone d'activité ou d'intérêt"
+    ],
+    "insee": [
+      "31555"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Cath%C3%A9drale+Saint+Etienne+Toulouse&index=poi&limit=5",
+    "source_record": "SURFACTI0000000073016353",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Identité monumentale confirmée POP IA31104738 ; distinct de Saint-Étienne de Montaudran.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "pouvourville": {
+    "id": "pouvourville",
+    "label": "Pouvourville",
+    "longitude": 1.455234,
+    "latitude": 43.548688,
+    "type": [
+      "lieu-dit habité",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "31555"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Pouvourville+Toulouse&index=poi&limit=5",
+    "source_record": "PAIHABIT0000000073090986",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Lieu-dit habité. Ne pas prendre le centroïde du vaste quartier Pech-David-Pouvourville, situé au bord de la Garonne loin du village.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "montaudran": {
+    "id": "montaudran",
+    "label": "Montaudran",
+    "longitude": 1.492937,
+    "latitude": 43.576455,
+    "type": [
+      "culte chrétien",
+      "zone d'activité ou d'intérêt"
+    ],
+    "insee": [
+      "31555"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=%C3%89glise+Montaudran+Toulouse&index=poi&limit=5",
+    "source_record": "SURFACTI0000000073016406",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Édifice attesté POP IA31126959 ; église du clocher du carnet, distinct de cathédrale du centre-ville.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "lardenne": {
+    "id": "lardenne",
+    "label": "Lardenne",
+    "longitude": 1.380704,
+    "latitude": 43.592422,
+    "type": [
+      "quartier",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "31555"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Lardenne+Toulouse&index=poi&limit=5",
+    "source_record": "PAIHABIT0000000073089807",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Repère du quartier, ne localise pas le point précis de promenade au bord du Touch.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "terre_cabade": {
+    "id": "terre_cabade",
+    "label": "Terre-Cabade",
+    "longitude": 1.462459,
+    "latitude": 43.607948,
+    "type": [
+      "cimetière"
+    ],
+    "insee": [
+      "31555"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Cimeti%C3%A8re+Terre+Cabade+Toulouse&index=poi&limit=5",
+    "source_record": "CIMETIER0000000073081839",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Repère du cimetière, ne localise pas une tombe.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "martinsart": {
+    "id": "martinsart",
+    "label": "Martinsart",
+    "longitude": 2.634021,
+    "latitude": 50.040313,
+    "type": [
+      "lieu-dit habité",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "80540"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Martinsart&index=poi&limit=8",
+    "source_record": "PAIHABIT0000000088355813",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
+    "note": "Hameau méridional ; distinct du Mesnil et du centre géométrique communal.",
+    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
+  },
+  "le_mesnil": {
+    "id": "le_mesnil",
+    "label": "Le Mesnil",
+    "longitude": 2.648321,
+    "latitude": 50.053615,
+    "type": [
+      "lieu-dit habité",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "80540"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=Le+Mesnil+Mesnil-Martinsart&index=poi&limit=8",
+    "source_record": "PAIHABIT0000000088355756",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère du bourg septentrional, distinct de Martinsart",
+    "note": "Le géocodeur nomme le bourg Mesnil-Martinsart ; correspondance au Mesnil à préciser dans la légende. Mairie API 2.6473,50.0538 confirme le bourg nord ; ne pas choisir centroïde2.64458,50.04508."
+  },
+  "la_boisselle": {
+    "id": "la_boisselle",
+    "label": "La Boisselle",
+    "longitude": 2.692895,
+    "latitude": 50.020038,
+    "type": [
+      "lieu-dit habité",
+      "zone d'habitation"
+    ],
+    "insee": [
+      "80615"
+    ],
+    "source": "https://data.geopf.fr/geocodage/search?q=La+Boisselle&index=poi&limit=8",
+    "source_record": "PAIHABIT0000000088355895",
+    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
+    "geometry_status": "repère du hameau La Boisselle au sud d’Ovillers ; ne désigne pas la totalité du territoire communal",
+    "note": "Ne pas sélectionner le lieu-dit non habité homonyme à Contay (80207), le cours d’eau homonyme du Loir-et-Cher, ni le centre administratif de la commune. Le point source choisi appartient bien à Ovillers-la-Boisselle (80615)."
+  }
+}

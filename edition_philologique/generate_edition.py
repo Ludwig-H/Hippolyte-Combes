@@ -17,10 +17,10 @@ modeled on Louis Hauseux's edition of Aristophanes' Thesmophories:
       3. Concise, pertinent historical commentary (indented by 5 mm)
   * Right page (odd/recto): Full-page facsimile image with folio and month/year
     header.
-- Prolégomènes with 3 TikZ genealogical trees, a general TikZ map, and explicit
+- Prolégomènes with 3 TikZ genealogical trees, a general geographic PDF map, and explicit
   justification of the arbitrary 7-chapter editorial division.
 - 7 chapters, each introduced by a 2-page spread (Left: longer analytical summary
-  and historical introduction; Right: detailed TikZ vector itinerary map and
+  and historical introduction; Right: geographically projected vector PDF map and
   archival illustrations).
 - Two comprehensive end-of-book indexes (Index des noms de personnes and Index
   des noms de lieux) referencing both notebook folio and PDF page number.
@@ -35,9 +35,11 @@ from cartes_et_index import (
     TIKZ_ARBRE_COMBES_ALRIC,
     TIKZ_ARBRE_CALMELS_ALLIANCES,
     TIKZ_ORGANIGRAMME_MILITAIRE,
-    TIKZ_CARTE_GENERALE,
-    TIKZ_CARTES_CHAPITRES,
+    CARTE_GENERALE,
+    CARTES_CHAPITRES,
     build_indexes_latex,
+    MAP_MANIFEST,
+    load_map_manifest,
 )
 
 ROOT = str(Path(__file__).resolve().parent.parent)
@@ -748,7 +750,7 @@ def generate_full_tex():
   {\Huge $\mathfrak{Urtext}$}\\[14mm]
   \rule{45mm}{0.4pt}\\[6mm]
   {\footnotesize\textbf{Édition philologique, diplomatique et critique intégrale}}\\[1.5mm]
-  {\scriptsize accompagnée d'arbres généalogiques, de cartes vectorielles d'itinéraires,\\
+  {\scriptsize accompagnée d'arbres généalogiques, de cartes géographiques vectorielles,\\
   des lettres de guerre inédites (1916–1918), de l'état signalétique des services\\
   et d'un double index des personnes et des lieux}\par
   \vfill
@@ -800,7 +802,7 @@ Exempté dans sa jeunesse pour « faiblesse générale » (\textbf{classe 1896, 
   \item \textbf{Du Train divisionnaire aux services d'achats et de réquisitions (\textit{Foraging} / \textit{Army Purchase Board}, juillet 1916 – avril 1917).} Le carnet suit les déplacements d'Hippolyte Combes en Flandre intérieure (Lynde, Sercus, Renescure, Hazebrouck, Saint-Jans-Cappel, Bailleul) et dans la vallée de la Lys (La Croix-du-Bac, Bac-Saint-Maur, Sailly-sur-la-Lys, Armentières, Fleurbaix, Estaires), puis son transfert ferroviaire du \textbf{25 août 1916} vers Marquay par Saint-Pol-sur-Ternoise (f\textsuperscript{o}~13~v\textsuperscript{o}–14~r\textsuperscript{o}, p.~\pageref{fol:27}–\pageref{fol:28}) et sa remontée à cheval vers la Somme (Oppy/Beaudricourt, Lucheux, Raincheval, Acheux, Forceville). Après la première permission décrite dans ce carnet, à Paris et Toulouse (25 septembre – 6 octobre 1916) et son séjour d'octobre autour de Ribeaucourt et d'Albert, Hippolyte Combes est affecté le 2 novembre 1916 au service des fourrages et réquisitions à \textbf{Acheux-en-Amiénois} puis à \textbf{Hérissart}, d'abord avec le lieutenant Curtis, puis avec le capitaine Williams (décembre 1916 – mars 1917). Le 11 mars 1917, il est maintenu à l'\textit{Army Purchase Board} sur la demande expresse du \textbf{major Levy} (f\textsuperscript{o}~83~r\textsuperscript{o}, p.~\pageref{fol:166}) et se lie d'amitié en avril 1917 avec le sous-lieutenant poète \textbf{Gilbert}, originaire de Jersey (f\textsuperscript{o}~89~v\textsuperscript{o}, p.~\pageref{fol:179}).
   \item \textbf{Mariage, fin de campagne et carrière d'après-guerre.} Hippolyte Combes épouse \textbf{Marie Marguerite Calmels} (1892–1974) à Millau le \textbf{25 octobre 1917}. Affecté à l'École militaire préparatoire des Andelys comme professeur d'anglais le 24 novembre 1918, selon la rubrique des services de sa fiche matricule (nommé caporal le 4 décembre 1918), il est démobilisé le 7 février 1919 et nommé en 1920 professeur au lycée Ingres de Montauban.
 \end{itemize}
-""" + TIKZ_CARTE_GENERALE + r"""
+""" + CARTE_GENERALE + r"""
 
 \section{Présentation des protagonistes et arbres généalogiques}
 
@@ -845,7 +847,10 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 """
 
     records_digest = hashlib.sha256(json.dumps(records, ensure_ascii=False, sort_keys=True).encode('utf-8')).hexdigest()
-    preamble = preamble.replace(r'\begin{document}', r'\hypersetup{pdfkeywords={edition-records-sha256:' + records_digest + '}}\n' + r'\begin{document}', 1)
+    load_map_manifest()  # Fail before exporting an edition with missing map attestations.
+    maps_digest = hashlib.sha256(MAP_MANIFEST.read_bytes()).hexdigest()
+    keywords = 'edition-records-sha256:' + records_digest + ';edition-cartography-sha256:' + maps_digest
+    preamble = preamble.replace(r'\begin{document}', r'\hypersetup{pdfkeywords={' + keywords + '}}\n' + r'\begin{document}', 1)
     body_parts = [preamble, "\n\\renewcommand{\\thesection}{\\thechapter.\\arabic{section}}\n"]
 
     rec_by_num = {r["scan_num"]: r for r in records}
@@ -876,11 +881,11 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
   \\end{{minipage}}"""
             )
         illus_joined = "\\hfill\n".join(illus_boxes)
-        ch_map_tikz = TIKZ_CARTES_CHAPITRES[ch_num]
+        ch_map_pdf = CARTES_CHAPITRES[ch_num]
 
         # Ouverture de chaque chapitre sur une double page en vis-à-vis (\cleardoubleevenpage) :
         # Page paire (gauche) = Titre du chapitre + Résumé analytique détaillé + Introduction historique et philologique
-        # Page impaire (droite) = Grande carte vectorielle TikZ des déplacements du chapitre + Illustrations d'archives
+        # Page impaire (droite) = Carte géographique vectorielle des lieux et déplacements attestés + Illustrations d'archives
         ch_tex = f"""
 % =============================================================================
 % CHAPITRE {ch_num} ({f_start.upper()} A {f_end.upper()})
@@ -900,19 +905,15 @@ Inspirée des principes de l'édition philologique classique (sur le modèle de 
 {{\\fontsize{{7.1pt}}{{8.3pt}}\\selectfont {ch_intro}\\par}}
 \\vfill
 \\newpage
-% --- Page de droite d'ouverture du chapitre : Carte vectorielle TikZ & Photographies d'archives ---
+% --- Page de droite d'ouverture du chapitre : Carte géographique vectorielle & Photographies d'archives ---
 \\noindent\\rule{{\\textwidth}}{{0.5pt}}\\par\\vspace{{0.6mm}}
-\\noindent\\textbf{{\\fontsize{{6.8pt}}{{7.8pt}}\\selectfont CARTE D'ITINÉRAIRE DU CHAPITRE {ch_num}}} \\hfill \\textbf{{\\fontsize{{6.8pt}}{{7.8pt}}\\selectfont {ch_period.upper()}}}\\par\\vspace{{0.25mm}}
-\\noindent{{\\fontsize{{6.7pt}}{{7.8pt}}\\selectfont\\textit{{Déplacements, cantonnements et tournées d'Hippolyte Combes ({f_start} à {f_end})}}}}\\par\\vspace{{0.55mm}}
-\\noindent\\rule{{\\textwidth}}{{0.35pt}}\\par\\vspace{{1.2mm}}
-\\begin{{center}}
-{ch_map_tikz}
-\\end{{center}}
+\\noindent\\textbf{{\\fontsize{{6.8pt}}{{7.8pt}}\\selectfont REPÈRES DU CHAPITRE {ch_num}}} \\hfill \\textbf{{\\fontsize{{6.8pt}}{{7.8pt}}\\selectfont {ch_period.upper()}}}\\par\\vspace{{0.25mm}}
+{{\\centering
+{ch_map_pdf}\\par}}
 \\vfill
 \\noindent\\rule{{\\textwidth}}{{0.3pt}}\\par\\vspace{{1.2mm}}
-\\noindent\\begin{{center}}
-{illus_joined}
-\\end{{center}}
+{{\\centering
+{illus_joined}\\par}}
 \\vspace*{{1mm}}
 \\newpage
 """

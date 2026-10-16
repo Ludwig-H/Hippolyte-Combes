@@ -7,12 +7,12 @@ Ce dépôt réunit les photographies du *Livre-Journal* d’Hippolyte Combes (**
 L’édition ([`edition_philologique/carnet_hippolyte_combes.pdf`](edition_philologique/carnet_hippolyte_combes.pdf), 424 pages au format maniable `155 × 225 mm` à pagination arabe continue depuis la page 1) présente successivement :
 
 1. **Prolégomènes scientifiques et historiques** :
-   - Biographie universitaire et militaire d’Hippolyte Combes (1876–1970) et **carte vectorielle générale (TikZ)** des théâtres d’opérations (Flandres, Artois, Somme) et des permissions (Paris, Toulouse, Millau).
+   - Biographie universitaire et militaire d’Hippolyte Combes (1876–1970) et **carte géographique vectorielle générale** des secteurs du carnet (Flandres, Artois, Somme) et des permissions (Paris, Toulouse, Millau).
    - **Trois arbres généalogiques et prosopographiques (TikZ)** présentant l’ensemble des protagonistes : (I) la famille Combes–Alric ; (II) la famille de sa fiancée Marguerite Calmels et ses alliances (branches Calmels, Cartairade, Crouzet, Vincens, Delcamps, Layrals et Faure) ; (III) l’entourage militaire et universitaire (officiers britanniques et français, collègues interprètes et universitaires).
    - **Étude codicologique et paléographique** du manuscrit (186 photographies ; `Couverture` et repérage éditorial de `Folio 1 recto` à `Folio 93 recto`, sans foliotation matérielle établie), justification explicite du caractère purement éditorial et arbitraire de la division en sept chapitres (fondée sur les grands déplacements géographiques d’Hippolyte Combes), et exposé des principes d’édition.
 2. **Sept chapitres introduits chacun par une double page d’ouverture** :
    - **Page de gauche (paire)** : résumé analytique détaillé du chapitre et introduction historique et philologique.
-   - **Page de droite (impaire)** : **carte vectorielle TikZ détaillée** de l’itinéraire, des cantonnements et des tournées d’Hippolyte Combes durant le chapitre, accompagnée de photographies d’archives.
+   - **Page de droite (impaire)** : **carte géographique vectorielle** des lieux et déplacements attestés d’Hippolyte Combes durant le chapitre, accompagnée de photographies d’archives.
 3. **Édition intégrale en vis-à-vis de la Couverture et des Folios 1 recto à 93 recto (186 doubles pages)** :
    - **En-tête courant** indiquant en permanence **le mois et l’année en cours** (*Juillet 1916* à *Avril 1917*) ainsi que le numéro de folio (`Folio X recto` ou `Folio X verso`).
    - **Page de gauche (paire / verso)** :
@@ -27,6 +27,8 @@ L’édition ([`edition_philologique/carnet_hippolyte_combes.pdf`](edition_philo
    - **Annexe I** : correspondance de guerre inédite et pièces justificatives (1916–1918).
    - **Annexe II** : état signalétique des services et table synoptique des folios (`Couverture` et `Folio 1 recto` à `Folio 93 recto`).
    - **Index des noms de personnes (*Index nominum*)** et **Index des noms de lieux (*Index locorum*)**, distinguant les attestations du carnet, les identifications du commentaire et les mentions des documents imprimés ; les attestations renvoient au folio éditorial (`f° X r°/v°`) et à la page du PDF (`p. Y`).
+
+Les [huit cartes refaites](edition_philologique/cartographie/README.md) reposent sur **82 lieux contrôlés**, des contours Natural Earth et des données IGN. La carte générale France–Belgique occupe une page entière. Les localités sont distinctes, les échelles métriques cohérentes et les 12 liaisons sélectionnées documentées par les scans. Les fonds actuels servent au repérage ; les localisations incertaines restent signalées. [Aperçu de la carte générale](edition_philologique/cartographie/cartes/generale.png).
 
 La [conciliation avec Gemini 4 Argon](edition_philologique/conciliation_argon_2026_10/README.md) documente les corrections complémentaires, les sources et les vérifications. Le [répertoire de l’écriture de Combes](edition_philologique/ecriture_combes/README.md) conserve les comparaisons paléographiques et leurs limites.
 

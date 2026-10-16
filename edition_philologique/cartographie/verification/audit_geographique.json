@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-16",
+  "scope": "8 cartes de cartes_et_index.py ; audit de la version antérieure à la refonte",
+  "source_principale": "https://geo.api.gouv.fr/decoupage-administratif/communes",
+  "method": "Lecture des coordonnées TikZ, comparaison avec mairies officielles (repères du bourg), géocodage IGN POI contrôlé par libellé/catégorie/code commune, sources patrimoniales ou archivistiques pour désambiguïser. Distances contrôle haversineWGS84approx, pas distances routières.",
+  "problems": [
+    {
+      "carte": "Toutes",
+      "severity": "avéré",
+      "issue": "Coordonnées de dessin en mm sans projection ni géoréférencement ; distances et orientations incohérentes sous barres d’échelle kilométriques.",
+      "action": "Refaire toutes les positions par transformation unique de coordonnées WGS84 ; barres calculées dans la projection ; aucun déplacement de points pour dégager une étiquette."
+    },
+    {
+      "carte": "Générale",
+      "severity": "avéré",
+      "issue": "Contour polygonal de France inventé ; Belgique non représentée géographiquement ; villes du Midi, Massif central et Nord placées librement.",
+      "action": "Fond territorial sourcé avec contour réel ; signaler fond moderne si frontières actuelles (frontière orientale différente en1916)."
+    },
+    {
+      "carte": "Générale, III, VI",
+      "severity": "avéré",
+      "issue": "Un point vaut plusieurs villes distinctes : Clermont/Saint-Flour, Carcassonne/Béziers, Amiens/Creil, Limoges/Brive/Cahors, Saint-Chély/Saint-Flour, Brioude/Clermont.",
+      "action": "Points distincts ou choix d’un lieu avec autres étapes dans la légende ; aucun point géographique double."
+    },
+    {
+      "carte": "I",
+      "severity": "avéré",
+      "issue": "Renescure dessiné au sud-ouest de Lynde alors qu’il est au nord-ouest ; Lynde–Renescure vaut4,12km environ, pas9km selon échelle du dessin.",
+      "action": "Reprojeter."
+    },
+    {
+      "carte": "I et II",
+      "severity": "non documenté",
+      "issue": "Frontière belge et ligne de front dessinées à main levée ; tracé de front daté août1916 ou multisection Armentières–Arras–Thiepval sans source militaire datée.",
+      "action": "Frontière moderne géométrique possible si explicite ; supprimer les fronts tant qu’une source datée et géoréférencée ne justifie pas le tracé."
+    },
+    {
+      "carte": "II",
+      "severity": "avéré",
+      "issue": "Saint-Pol et Marquay sont presque sur le même parallèle ; le dessin surestime leur distance (13,4km contre5,8km environ).",
+      "action": "Reprojeter ; conserver Marquay62558, pasMarquayDordogne."
+    },
+    {
+      "carte": "II",
+      "severity": "identification confirmée",
+      "issue": "Oppy est un hameau de Beaudricourt (62091), non la commune Oppy62639.",
+      "action": "Utiliser le point IGN du hameau 2.397407,50.255351.",
+      "source": "https://www.archivespasdecalais.fr/Recherche-par-commune/Lettre-B/Beaudricourt"
+    },
+    {
+      "carte": "II, IV, V, VII",
+      "severity": "avéré",
+      "issue": "Agrégations de villages séparés sous un point : Ligny/Roëllecourt/Bailleul-aux-Cornailles ; Ribeaucourt/Barlette ; Varennes/Léalvillers ; Martinsart/Aveluy ; Forceville/Englebelmer ; Bertrancourt/Bus ; Albert/Bouzincourt ; Contay/Warloy ; Raincheval/Puchevillers ; Talmas/Villers-Bocage.",
+      "action": "Dissocier les points affichés ou réduire la sélection."
+    },
+    {
+      "carte": "V",
+      "severity": "avéré",
+      "issue": "Léalvillers dessiné SE d’Acheux alors que SO ; Louvencourt NE alors que NO ; Arquèves NO alors que O ; Raincheval nettement S alors que presque même latitude.",
+      "action": "Positions officielles jointes."
+    },
+    {
+      "carte": "V",
+      "severity": "avéré",
+      "issue": "Ferme du Quesnoy dessinée au nord de Puchevillers ; le lieu-dit Le Quesnoy est au sud-est, dans Puchevillers.",
+      "action": "Utiliser repère IGN2.432466,50.048248, identification cohérente avec BRGM p35, réserve sur bâtiment précis."
+    },
+    {
+      "carte": "VII",
+      "severity": "avéré",
+      "issue": "Rubempré dessiné à l’est d’Hérissart alors qu’à l’ouest ; Senlis dessiné à l’ouest de Contay alors qu’à l’est.",
+      "action": "Reprojeter."
+    },
+    {
+      "carte": "VII",
+      "severity": "non documenté",
+      "issue": "Flèche Albert–Mesnil–Miraumont–Achiet–Bapaume/Arras suggère un parcours continu ou une avance ; elle mélange visites, contexte militaire et canonnade entendue.",
+      "action": "Distinguer lieux visités, lieux évoqués et contexte ; aucune liaison autobiographique non attestée."
+    },
+    {
+      "carte": "III",
+      "severity": "à réserver",
+      "issue": "Lieu Sainte-Marie-des-Champs préexiste au lycée1924 ; implantation historique CôtePavée attestée dès1878, mais équivalence exacte avec chapelle actuelle à établir.",
+      "action": "Mention localisable à l’échelle du quartier avec réserve, ou note hors plan ; aucune accusation d’anachronisme certaine."
+    },
+    {
+      "carte": "III",
+      "severity": "avéré",
+      "issue": "Pouvourville et Pech-David fusionnés ; Capitole/Esquirol fusionnés ; Garonne et Canal du Midi inventés graphiquement.",
+      "action": "Points géographiques distincts ; hydrographie issue d’un fond géoréférencé."
+    },
+    {
+      "carte": "VI",
+      "severity": "non documenté",
+      "issue": "Plan Millau attribue un emplacement arbitraire à l’étude Layrals et au cimetière non identifié ; géométrie Tarn/Dourbie approximative.",
+      "action": "Conserver seulement emplacements établis, documenter nature des sources et ne pas transformer mentions familiales en visite certaine."
+    }
+  ],
+  "distance_controls": [
+    {
+      "carte": "I",
+      "liaison": [
+        "Lynde",
+        "Renescure"
+      ],
+      "km_reels_bourgs_arrondis": 4.11,
+      "km_affiches_selon_barre_ancienne": 9.01,
+      "orientation_xy_ancienne": [
+        -18,
+        -12
+      ],
+      "ecart_longitude_latitude_reel": [
+        -0.0532,
+        0.0153
+      ]
+    },
+    {
+      "carte": "II",
+      "liaison": [
+        "Saint-Pol-sur-Ternoise",
+        "Marquay"
+      ],
+      "km_reels_bourgs_arrondis": 5.85,
+      "km_affiches_selon_barre_ancienne": 13.44,
+      "orientation_xy_ancienne": [
+        16,
+        -2
+      ],
+      "ecart_longitude_latitude_reel": [
+        0.0824,
+        0.0022
+      ]
+    },
+    {
+      "carte": "V",
+      "liaison": [
+        "Acheux-en-Amiénois",
+        "Léalvillers"
+      ],
+      "km_reels_bourgs_arrondis": 1.88,
+      "km_affiches_selon_barre_ancienne": 3.61,
+      "orientation_xy_ancienne": [
+        9,
+        -6
+      ],
+      "ecart_longitude_latitude_reel": [
+        -0.0232,
+        -0.0081
+      ]
+    },
+    {
+      "carte": "VII",
+      "liaison": [
+        "Hérissart",
+        "Rubempré"
+      ],
+      "km_reels_bourgs_arrondis": 2.43,
+      "km_affiches_selon_barre_ancienne": 8.95,
+      "orientation_xy_ancienne": [
+        10,
+        -19
+      ],
+      "ecart_longitude_latitude_reel": [
+        -0.0308,
+        -0.0092
+      ]
+    }
+  ],
+  "communes_file": "coordonnees_communes_verifiees.json",
+  "points_file": "hameaux_et_toulouse_verifies.json",
+  "homonymes_rejetes": [
+    {
+      "nom": "Bailleul",
+      "insee": "80051",
+      "codeDepartement": "80",
+      "point_type": "mairie contemporaine, repère du bourg ; ne localise pas le logement de 1916",
+      "longitude": 1.8504,
+      "latitude": 50.0289,
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          1.8547,
+          50.0248
+        ]
+      },
+      "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json"
+    },
+    {
+      "nom": "Oppy",
+      "insee": "62639",
+      "codeDepartement": "62",
+      "point_type": "mairie contemporaine, repère du bourg ; ne localise pas le logement de 1916",
+      "longitude": 2.8903,
+      "latitude": 50.3474,
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          2.89,
+          50.3486
+        ]
+      },
+      "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json"
+    },
+    {
+      "nom": "Varennes",
+      "insee": "31568",
+      "codeDepartement": "31",
+      "point_type": "mairie contemporaine, repère du bourg ; ne localise pas le logement de 1916",
+      "longitude": 1.688,
+      "latitude": 43.477,
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          1.6955,
+          43.4779
+        ]
+      },
+      "source": "https://geo.api.gouv.fr/departements/31/communes?fields=nom,code,centre,mairie,codeDepartement&format=json"
+    }
+  ],
+  "limitations": [
+    "Coordonnées contemporaines précises ne démontrent ni une adresse de1916 ni la visite au lieu.",
+    "Les liens entre étapes sont des liaisons indicatives, pas un réseau ferroviaire/routier historiquement restitué.",
+    "Les fronts militaires nécessitent une date et une source propre ; aucune donnée moderne ne les restitue.",
+    "Les mentions incertaines telles [Sercus ?] doivent conserver leur réserve sur les cartes."
+  ]
+}

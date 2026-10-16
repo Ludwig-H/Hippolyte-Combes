@@ -1,0 +1,26 @@
+{
+  "europe_countries.geojson": {
+    "sha256": "36d4449ffdf3ccf2008cf874af9aced1613ee420dcd254d1e71c9f133c8d2840",
+    "bytes": 599946
+  },
+  "hydro_nord.geojson": {
+    "sha256": "034928a3771d91ec62ad6c594188e362377feb64a48b49349f2051cc98c2848c",
+    "bytes": 116853
+  },
+  "hydro_toulouse.geojson": {
+    "sha256": "cb5d64cfc2ec54d810c26b0cd2cb158128c420dbec959ac9aa7bfbe26bd22b5f",
+    "bytes": 56969
+  },
+  "frontiere_franco_belge_lys.geojson": {
+    "sha256": "3fb3f4f63f229c9b5e9e1d3e0735b40dcc0ee6c138eddab6b30de2e04a829acb",
+    "bytes": 22312
+  },
+  "communes_nord.geojson": {
+    "sha256": "27dd6aaaed33a44b2be03d0e02a7d5bc5dc0a10fb1a338b77d65341212c50aa1",
+    "bytes": 1875304
+  },
+  "communes_toulouse.geojson": {
+    "sha256": "9e681610222a1e076257553ee07df873b6013e0f80853ac2eab373b5b8381cc4",
+    "bytes": 139289
+  }
+}

@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Arbres généalogiques vectoriels (TikZ), cartes d'itinéraires vectorielles (TikZ)
+Arbres généalogiques vectoriels (TikZ), cartes géographiques vectorielles (PDF)
 pour les Prolégomènes et les sept chapitres, et génération des deux index finaux
 (Index des noms de personnes et Index des noms de lieux) avec double référence
 au folio du carnet (f° X r°/v°) et à la page du PDF (p. \\pageref{fol:N}).
 """
 
 import re
+import json
+from pathlib import Path
 from commentaires_et_loci import folio_fr_ref
 
 
@@ -151,596 +153,71 @@ TIKZ_ORGANIGRAMME_MILITAIRE = r"""
 
 
 # =============================================================================
-# 2. CARTE GÉNÉRALE (PROLÉGOMÈNES) ET SEPT CARTES DE CHAPITRES EN TIKZ
+# 2. CARTES GÉOGRAPHIQUES VECTORIELLES ET LEURS ATTESTATIONS IMPRIMÉES
 # =============================================================================
 
-TIKZ_CARTE_GENERALE = r"""
-\begin{center}
-\resizebox{0.98\textwidth}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  city/.style={circle, fill=black, inner sep=1.1pt},
-  hub/.style={circle, draw=bordeaux, fill=white, line width=0.7pt, inner sep=1.5pt},
-  lbl/.style={fill=white, fill opacity=1.0, text opacity=1, inner sep=1.0pt, rounded corners=0.8pt},
-  route/.style={draw=bordeaux, line width=0.65pt, ->, >=stealth},
-  perm/.style={draw=black!65, line width=0.55pt, dashed, ->, >=stealth}
-]
-% Cadre géographique schématique de la France
-\draw[black!50, line width=0.4pt, fill=black!2] (-78mm,-38mm) rectangle (78mm,38mm);
-% Silhouette schématique des côtes et frontières de la France (englobant largement les libellés)
-\draw[black!22, line width=0.4pt, fill=white]
-  (-18mm,36mm) -- (18mm,35mm) -- (62mm,26mm) -- (68mm,12mm) -- (62mm,-2mm)
-  -- (66mm,-16mm) -- (60mm,-28mm) -- (36mm,-35mm) -- (-14mm,-36mm) -- (-58mm,-33mm)
-  -- (-62mm,-14mm) -- (-66mm,4mm) -- (-72mm,14mm) -- (-56mm,22mm) -- (-42mm,31mm) -- cycle;
+MAP_IDS = ("generale", "I", "II", "III", "IV", "V", "VI", "VII")
+MAP_DIR = Path(__file__).resolve().parent / "cartographie" / "cartes"
+MAP_MANIFEST = MAP_DIR / "manifest.json"
 
-% Nord / Pas-de-Calais / Somme
-\node[hub] (flandre) at (-8mm, 31mm) {};
-\node[lbl, right, xshift=1.8mm] at (flandre) {\textbf{1. Flandre \& Lys} (Lynde, Bailleul, Steenwerck, juill.–août 1916)};
 
-\node[hub] (ternois) at (-12mm, 25mm) {};
-\node[lbl, left, xshift=-1.8mm, align=right] at (ternois) {\textbf{2. Artois / Ternois}\\(Saint-Pol, Marquay, août–sept. 1916)};
+def map_asset_path(entry):
+    """Resolve one canonical map PDF without accepting a different asset."""
+    map_id = entry.get("id")
+    if map_id not in MAP_IDS:
+        raise ValueError(f"Identifiant de carte inconnu : {map_id!r}")
+    value = entry.get("pdf")
+    allowed = {f"{map_id}.pdf", f"cartographie/cartes/{map_id}.pdf"}
+    if value not in allowed:
+        raise ValueError(f"Carte {map_id}: chemin PDF attendu {map_id}.pdf, reçu {value!r}")
+    return MAP_DIR / f"{map_id}.pdf"
 
-\node[hub] (somme) at (-9mm, 19.5mm) {};
-\node[lbl, right, xshift=1.8mm] at (somme) {\textbf{3. Front de la Somme} (Albert, Acheux, Hérissart, sept. 1916 – avr. 1917)};
 
-\node[city] (amiens) at (-13mm, 15mm) {};
-\node[lbl, left, xshift=-1.8mm] at (amiens) {Amiens};
+def load_map_manifest():
+    """Read labels from the generated map, never from abandoned TikZ sketches."""
+    manifest = json.loads(MAP_MANIFEST.read_text(encoding="utf-8"))
+    entries = manifest.get("maps") if isinstance(manifest, dict) else None
+    if not isinstance(entries, list) or not all(isinstance(item, dict) for item in entries):
+        raise ValueError("Le manifeste cartographique doit contenir une liste maps.")
+    ids = [item.get("id") for item in entries]
+    if len(ids) != len(MAP_IDS) or len(set(ids)) != len(ids) or set(ids) != set(MAP_IDS):
+        raise ValueError(f"Huit cartes distinctes sont requises : {MAP_IDS!r}; reçu {ids!r}")
+    by_id = {item["id"]: item for item in entries}
+    for map_id in MAP_IDS:
+        item = by_id[map_id]
+        map_asset_path(item)
+        if not isinstance(item.get("printed_text"), str) or not item["printed_text"].strip():
+            raise ValueError(f"Carte {map_id}: printed_text doit reproduire le texte réellement imprimé.")
+        if not isinstance(item.get("sha256"), str) or not re.fullmatch(r"[0-9a-f]{64}", item["sha256"]):
+            raise ValueError(f"Carte {map_id}: empreinte SHA-256 absente ou mal formée.")
+        if not isinstance(item.get("places"), list) or not item["places"]:
+            raise ValueError(f"Carte {map_id}: liste places vide ou absente.")
+    return [by_id[map_id] for map_id in MAP_IDS]
 
-% Paris / Neuilly / Nogent
-\node[hub] (paris) at (-11mm, 8mm) {};
-\node[lbl, right, xshift=2.0mm, yshift=0.5mm] at (paris) {\textbf{Paris \& Neuilly-sur-Seine} (permissions)};
-\node[city] (nogent) at (-22mm, 4mm) {};
-\node[lbl, left, xshift=-1.8mm] at (nogent) {Nogent-le-Rotrou};
-\node[city] (andelys) at (-18mm, 11mm) {};
-\node[lbl, left, xshift=-1.8mm] at (andelys) {Les Andelys (1918)};
 
-% Massif central
-\node[city] (clermont) at (-1mm, -8mm) {};
-\node[lbl, right, xshift=1.8mm] at (clermont) {Clermont-Ferrand / Saint-Flour (retour févr. 1917)};
-
-% Midi : Toulouse, Montauban, Millau, Béziers
-\node[city] (montauban) at (-16mm, -19mm) {};
-\node[lbl, left, xshift=-1.8mm] at (montauban) {Montauban};
-\node[hub] (toulouse) at (-15mm, -26mm) {};
-\node[lbl, left, xshift=-1.8mm, align=right] at (toulouse) {\textbf{Toulouse}\\(sept.–oct. 1916 \& janv.–févr. 1917)};
-\node[hub] (millau) at (-2mm, -21mm) {};
-\node[lbl, right, xshift=1.8mm] at (millau) {\textbf{Millau} (berceau familial, févr. \& oct. 1917)};
-\node[city] (beziers) at (1mm, -29mm) {};
-\node[lbl, right, xshift=1.8mm] at (beziers) {Carcassonne \& Béziers (3 févr. 1917)};
-
-% Flèches d'itinéraires
-\draw[route] (flandre) -- (ternois);
-\draw[route] (ternois) -- (somme);
-\draw[perm] (somme) -- (amiens) -- (paris);
-\draw[perm] (paris) -- (montauban) -- (toulouse);
-\draw[perm] (toulouse) to[bend right=14] (beziers);
-\draw[perm] (beziers) to[bend right=12] (millau);
-\draw[perm] (millau) -- (clermont) -- (paris);
-
-% Rose des vents
-\draw[->, line width=0.5pt] (72mm, 24mm) -- (72mm, 32mm) node[above]{\textbf{N}};
-\end{tikzpicture}%
-}
-\par\vspace{0.8mm}{\scriptsize\textit{Carte générale.} Les théâtres d'opérations (Flandre, Artois, Somme) et les grands déplacements de permission d'Hippolyte Combes (1916–1917).}
-\end{center}
+CARTE_GENERALE = r"""
+\clearpage
+\phantomsection\label{carte:generale}
+\addcontentsline{toc}{section}{Carte générale : lieux de séjour et permissions}
+\noindent\rule{\textwidth}{0.5pt}\par\vspace{1mm}
+\noindent{\fontsize{9.5pt}{11pt}\selectfont\bfseries CARTE GÉNÉRALE}\par\vspace{1mm}
+\noindent{\small\itshape Lieux de séjour et déplacements attestés, juillet 1916 – avril 1917}\par
+\vfill
+\noindent\includegraphics[width=\textwidth,height=176mm,keepaspectratio]{cartographie/cartes/generale.pdf}\par
+\vfill
+\noindent{\scriptsize Les cartes sélectionnent les lieux attestés par le carnet. Les liaisons représentent une succession d'étapes ; elles ne restituent pas le tracé historique des routes ou des voies ferrées. Les lectures et localisations réservées sont signalées sur les cartes.}\par
+\clearpage
 """
 
-
-TIKZ_CARTES_CHAPITRES = {
-    "I": r"""
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.6pt}{6.6pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  move/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth},
-  excur/.style={draw=black!65, line width=0.55pt, dashed, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.2pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Cours de la Lys et frontière belge
-\draw[river] (-75mm,-34mm) .. controls (-25mm,-31mm) and (10mm,-27mm) .. (55mm,-22mm)
-  node[pos=0.28, above, font=\fontsize{5.6pt}{6.4pt}\selectfont\itshape]{La Lys (canalisée)};
-\draw[black!45, dash pattern=on 3pt off 2pt, line width=0.5pt]
-  (18mm,46mm) -- (30mm,32mm) -- (45mm,17mm) -- (60mm,-2mm);
-\node[rotate=-43, above, font=\fontsize{5.4pt}{6.2pt}\selectfont, text=black!60] at (38mm,24mm) {\textit{Frontière franco-belge}};
-
-% Ligne de front (août 1916)
-\draw[bordeaux!80, line width=0.9pt, decorate, decoration={zigzag, segment length=4pt, amplitude=1pt}]
-  (66mm,16mm) -- (63mm,-18mm) -- (58mm,-44mm);
-\node[rotate=-83, font=\fontsize{5.5pt}{6.4pt}\selectfont, bordeaux] at (72mm,-14mm) {\textbf{Ligne de front (secteur d'Armentières–Fleurbaix)}};
-
-% Localités Flandre intérieure (Ouest)
-\node[loc] (renescure) at (-62mm, 12mm) {};
-\node[below, align=center] at (renescure) {\textbf{Renescure}\\(châteaux, 27 juill.)};
-
-\node[ptstep] (lynde) at (-44mm, 24mm) {};
-\node[above, align=center] at (lynde) {\textbf{1. Lynde}\\(25–28 juill.)};
-
-\node[loc] (sercus) at (-38mm, 6mm) {};
-\node[below, align=center] at (sercus) {\textbf{Sercus}\\(25 juill.)};
-
-\node[loc] (hazebrouck) at (-24mm, 22mm) {};
-\node[below, align=center, yshift=-0.8mm] at (hazebrouck) {\textbf{Hazebrouck}\\(27–28 juill.)};
-
-% Monts des Flandres
-\node[ptstep] (stjans) at (4mm, 24mm) {};
-\node[above left, align=center, xshift=4.0mm, yshift=1.2mm] at (stjans) {\textbf{2. Saint-Jans-Cappel}\\(28 juill. – 5 août)};
-
-\node[loc] (montnoir) at (22mm, 35mm) {};
-\node[above left, xshift=-1.2mm, yshift=0.5mm] at (montnoir) {Mont-Noir (29 juill.)};
-
-\node[ptstep] (bailleul) at (2mm, 8mm) {};
-\node[left, xshift=-1mm] at (bailleul) {\textbf{Bailleul} (30 juill. – 5 août)};
-
-% Vallée de la Lys
-\node[loc] (steenwerck) at (6mm, -8mm) {};
-\node[left, xshift=-1mm] at (steenwerck) {Steenwerck};
-
-\node[ptstep] (croixdubac) at (12mm, -16mm) {};
-\node[left, align=right, xshift=-1.8mm, yshift=-0.5mm] at (croixdubac) {\textbf{3. La Croix-du-Bac}\\(5–12 août)};
-
-\node[loc] (bacstmaur) at (16mm, -29mm) {};
-\node[below right, yshift=-0.3mm] at (bacstmaur) {\textbf{Bac-Saint-Maur} (\textit{refilling point})};
-
-\node[loc] (sailly) at (2mm, -34mm) {};
-\node[below, align=center] at (sailly) {\textbf{Sailly-sur-la-Lys}\\(écluse, 10 août)};
-
-\node[loc] (armentieres) at (42mm, -15mm) {};
-\node[above, align=center, xshift=1.0mm, yshift=1.4mm] at (armentieres) {\textbf{Armentières}\\(blanchisserie Barbry, 11 août)};
-
-% Flèches de déplacement principal et tournées
-\draw[excur] (lynde) -- (sercus);
-\draw[excur] (lynde) -- (renescure);
-\draw[move] (lynde) -- (hazebrouck) -- (stjans);
-\draw[excur] (stjans) -- (montnoir);
-\draw[move] (stjans) -- (bailleul) -- (steenwerck) -- (croixdubac);
-\draw[excur] (croixdubac) -- (bacstmaur);
-\draw[excur] (bacstmaur) -- (sailly);
-\draw[excur] (croixdubac) -- (armentieres);
-
-% Échelle et Nord
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 5\hfill 10 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}%
-}
-""",
-    "II": r"""
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  rail/.style={draw=black!80, line width=0.75pt, double distance=0.8pt, ->, >=stealth},
-  move/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth},
-  excur/.style={draw=black!65, line width=0.55pt, dashed, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.1pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Rivières : la Lys au nord, la Ternoise au centre, l'Authie au sud
-\draw[river] (-22mm,33mm) -- (46mm,37mm) node[pos=0.85, above]{\textit{La Lys}};
-\draw[river] (-64mm,5mm) .. controls (-30mm,4.5mm) and (-12mm,4mm) .. (8mm,3mm) node[right]{\textit{La Ternoise}};
-\draw[river] (-58mm,-18mm) .. controls (-20mm,-19mm) and (5mm,-20mm) .. (28mm,-22mm) node[right]{\textit{L'Authie}};
-
-% Ligne de front (Armentières - Arras - Thiepval)
-\draw[bordeaux!80, line width=0.85pt, dash pattern=on 4pt off 2pt]
-  (60mm,44mm) -- (54mm,16mm) -- (58mm,-6mm) -- (56mm,-44mm);
-\node[rotate=-86, font=\fontsize{5.5pt}{6.4pt}\selectfont, bordeaux] at (64mm,0mm) {\textbf{Ligne de front (Armentières – Arras – Thiepval)}};
-
-% Secteur 1 : Vallée de la Lys (13-25 août)
-\node[ptstep] (bailleul) at (-6mm, 41mm) {};
-\node[above] at (bailleul) {\textbf{1. Bailleul} (embarquement 25 août)};
-\node[loc] (croix) at (16mm, 34mm) {};
-\node[below right, align=left, yshift=-0.5mm] at (croix) {\textbf{La Croix-du-Bac}, Fleurbaix,\\Armentières (13–24 août)};
-\node[loc] (estaires) at (2mm, 28mm) {};
-\node[below left] at (estaires) {Estaires (23 août)};
-\node[loc] (hazebrouck) at (-30mm, 39mm) {};
-\node[above left] at (hazebrouck) {Hazebrouck};
-
-% Secteur 2 : Ternois / Artois (25 août - 9 sept.)
-\node[ptstep] (stpol) at (-24mm, 11mm) {};
-\node[left, xshift=-2.0mm, yshift=-0.5mm] at (stpol) {\textbf{Saint-Pol-sur-Ternoise} (25 août – 7 sept.)};
-\node[ptstep] (marquay) at (-8mm, 9mm) {};
-\node[above right, yshift=0.5mm] at (marquay) {\textbf{2. Marquay} (cantonnement, 25 août – 9 sept.)};
-\node[loc] (ligny) at (-10mm, -1.5mm) {};
-\node[left, xshift=-1.5mm, align=right] at (ligny) {Ligny-Saint-Flochel, Roëllecourt,\\Bailleul-aux-Cornailles};
-
-% Secteur 3 : Marche vers la Somme (9-24 sept.)
-\node[ptstep] (oppy) at (-2mm, -9mm) {};
-\node[right, xshift=1.5mm] at (oppy) {\textbf{3. Oppy / Beaudricourt} (9–10 sept.)};
-\node[ptstep] (lucheux) at (-12mm, -15.5mm) {};
-\node[left, xshift=-2.0mm, yshift=1.2mm] at (lucheux) {\textbf{4. Lucheux} (11 sept.)};
-\node[loc] (thievres) at (-2mm, -25mm) {};
-\node[right, xshift=1.5mm] at (thievres) {Thièvres};
-\node[ptstep] (raincheval) at (-10mm, -31mm) {};
-\node[left, xshift=-1.5mm] at (raincheval) {\textbf{5. Raincheval} (11–22 sept.)};
-\node[loc] (acheux) at (6mm, -34mm) {};
-\node[right, xshift=1.5mm] at (acheux) {\textbf{Acheux-en-Amiénois}};
-\node[ptstep] (forceville) at (10mm, -42mm) {};
-\node[below] at (forceville) {\textbf{6. Forceville} \& Hédauville (22–24 sept.)};
-
-% Trajets
-\draw[excur] (croix) -- (estaires);
-\draw[move] (croix) -- (bailleul);
-\draw[rail] (bailleul) -- (hazebrouck) to[bend right=16] node[pos=0.45, left, xshift=-1.2mm, font=\fontsize{5.4pt}{6.3pt}\selectfont]{\textit{Train militaire (25 août)}} (stpol);
-\draw[move] (stpol) -- (marquay);
-\draw[move] (marquay) -- (oppy) -- (lucheux) -- (thievres) -- (raincheval) -- (acheux) -- (forceville);
-
-% Échelle et Nord
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 10\hfill 20 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}%
-}
-""",
-    "III": r"""
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  rail/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Partie gauche : Grand axe ferroviaire Somme - Paris - Toulouse (-80mm à -2mm)
-\node[font=\fontsize{6.1pt}{7.1pt}\selectfont\bfseries] at (-41mm, 44mm) {A. Trajet ferroviaire (25 sept. – 6 oct. 1916)};
-\node[ptstep] (acheux) at (-48mm, 35mm) {};
-\node[right, xshift=1.5mm] at (acheux) {\textbf{1. Forceville / Acheux} (25 sept.)};
-\node[loc] (amiens) at (-50mm, 24mm) {};
-\node[left, xshift=-1.5mm] at (amiens) {Amiens \& Creil};
-\node[ptstep] (paris) at (-48mm, 12mm) {};
-\node[left, xshift=-1.5mm, align=right] at (paris) {\textbf{2. Paris \& Neuilly}\\(26 sept. / 5 oct.)};
-\node[loc] (limoges) at (-50mm, -3mm) {};
-\node[left, xshift=-1.5mm] at (limoges) {Limoges, Brive, Cahors};
-\node[loc] (montauban) at (-48mm, -18mm) {};
-\node[left, xshift=-1.5mm] at (montauban) {Montauban};
-\node[ptstep] (toulouse) at (-46mm, -34mm) {};
-\node[right, xshift=2.2mm, yshift=-0.8mm] at (toulouse) {\textbf{3. Toulouse} (27 sept. – 4 oct.)};
-\node[ptstep] (canaples) at (-32mm, 23mm) {};
-\node[right, xshift=1.5mm, align=left] at (canaples) {\textbf{4. Doullens / Canaples}\\(6 oct.)};
-
-\draw[rail] (acheux) -- (amiens) -- (paris);
-\draw[rail] (paris) -- (limoges) -- (montauban) -- (toulouse);
-\draw[rail, dashed] (toulouse) to[bend right=22] node[pos=0.48, right, xshift=0.5mm, font=\fontsize{5.3pt}{6.2pt}\selectfont]{\textit{Retour (4–5 oct.)}} (paris);
-\draw[rail, dashed] (paris) to[bend right=12] (canaples);
-
-% Filet vertical de séparation
-\draw[black!40, line width=0.45pt] (-1mm,-46mm) -- (-1mm,46mm);
-
-% Partie droite : Plan vectoriel de Toulouse (0mm à 80mm)
-\node[font=\fontsize{6.1pt}{7.1pt}\selectfont\bfseries] at (40mm, 44mm) {B. Plan des lieux fréquentés à Toulouse};
-% La Garonne et le Canal du Midi
-\draw[black!35, line width=1.6pt] (5mm,-40mm) .. controls (12mm,-12mm) and (14mm,12mm) .. (5mm,36mm)
-  node[pos=0.18, right, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{La Garonne};
-\draw[black!45, line width=0.8pt] (50mm,38mm) .. controls (66mm,20mm) and (68mm,-6mm) .. (65mm,-36mm)
-  node[pos=0.42, right, font=\fontsize{5.4pt}{6.2pt}\selectfont\itshape]{Canal du Midi};
-
-\node[loc] (matabiau) at (54mm, 31mm) {};
-\node[left, xshift=-1.5mm] at (matabiau) {Gare Matabiau};
-\node[ptstep] (taur) at (16mm, 22mm) {};
-\node[right, xshift=1.2mm] at (taur) {\textbf{Rue du Taur} (n\textsuperscript{o}~47) \& St-Sernin};
-\node[loc] (capitole) at (16mm, 13mm) {};
-\node[right, xshift=1.2mm] at (capitole) {Capitole \& Place Esquirol};
-\node[ptstep] (pharaon) at (15mm, 4mm) {};
-\node[right, xshift=1.2mm] at (pharaon) {\textbf{Rue Pharaon} (famille Crouzet)};
-\node[ptstep] (stetienne) at (24mm, -5mm) {};
-\node[right, xshift=1.2mm] at (stetienne) {\textbf{Cathédrale Saint-Étienne}};
-\node[loc] (grandrond) at (34mm, -14mm) {};
-\node[left, xshift=-1.2mm] at (grandrond) {Grand-Rond};
-\node[loc] (stemarie) at (58mm, -23mm) {};
-\node[left, xshift=-1.5mm] at (stemarie) {\textbf{Ste-Marie-des-Champs}};
-\node[loc] (pechdavid) at (12mm, -34mm) {};
-\node[right, xshift=1.2mm] at (pechdavid) {\textbf{Pouvourville \& Pech-David} (28 sept.)};
-\end{tikzpicture}%
-}
-""",
-    "IV": r"""
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  move/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth},
-  excur/.style={draw=black!65, line width=0.55pt, dashed, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.2pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Vallée de l'Ancre (passant immédiatement à l'ouest d'Albert)
-\draw[river] (48mm,35mm) .. controls (40mm,10mm) and (31mm,-12mm) .. (22mm,-42mm)
-  node[pos=0.88, right, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{L'Ancre};
-
-% Ligne de front de l'Ancre (Thiepval - Beaumont-Hamel)
-\draw[bordeaux!80, line width=0.9pt, decorate, decoration={zigzag, segment length=4pt, amplitude=1pt}]
-  (58mm,42mm) -- (62mm,14mm) -- (66mm,-18mm);
-\node[rotate=-84, font=\fontsize{5.5pt}{6.4pt}\selectfont, bordeaux] at (70mm,12mm) {\textbf{Front de l'Ancre (Thiepval – Redoute Schwaben)}};
-
-% Cantonnement de repos dans le Ponthieu (6-15 oct.)
-\node[ptstep] (ribeaucourt) at (-60mm, 30mm) {};
-\node[above right] at (ribeaucourt) {\textbf{1. Ribeaucourt \& Barlette} (6–15 oct.)};
-\node[loc] (domqueur) at (-64mm, 14mm) {};
-\node[below, xshift=-2mm, yshift=-0.5mm] at (domqueur) {Domqueur (9 oct.)};
-\node[loc] (canaples) at (-44mm, 2mm) {};
-\node[left, xshift=-1.2mm] at (canaples) {Canaples (\textit{railhead}, 6 oct.)};
-
-% Marche vers Albert (15-17 oct.)
-\node[ptstep] (beauval) at (-26mm, 22mm) {};
-\node[above right, xshift=0.5mm, yshift=0.5mm] at (beauval) {\textbf{2. Beauval} (15–16 oct.)};
-\node[loc] (rubempre) at (-16mm, -15mm) {};
-\node[left, xshift=-1.2mm] at (rubempre) {Rubempré \& Septenville};
-\node[ptstep] (warloy) at (0mm, -16mm) {};
-\node[below left, xshift=2mm, yshift=-0.5mm] at (warloy) {\textbf{3. Warloy-Baillon} (16 oct.)};
-\node[loc] (senlis) at (16mm, -10mm) {};
-\node[below right, xshift=0.5mm, yshift=-0.5mm] at (senlis) {Senlis-le-Sec};
-
-% Secteur d'Albert (17-31 oct.)
-\node[ptstep] (bouzincourt) at (26mm, -2mm) {};
-\node[above left, xshift=-1.2mm, yshift=0.5mm] at (bouzincourt) {\textbf{4. Bouzincourt} (17–19 oct.)};
-\node[ptstep] (albert) at (38mm, -19mm) {};
-\node[below right, xshift=1.8mm, yshift=-0.3mm, align=left] at (albert) {\textbf{5. Albert (\textit{Brickfields})}\\(19–31 oct.)};
-\node[loc] (martinsart) at (47mm, 6mm) {};
-\node[right, xshift=1.2mm, align=left] at (martinsart) {Martinsart \&\\Aveluy};
-
-% Secteur d'Acheux (novembre 1916)
-\node[ptstep] (acheux) at (12mm, 22mm) {};
-\node[above right, xshift=1.5mm, yshift=0.5mm, align=left] at (acheux) {\textbf{6. Acheux-en-Amiénois}\\(2–30 nov.)};
-\node[loc] (varennes) at (14mm, 10mm) {};
-\node[below, xshift=-1.5mm, yshift=-0.5mm] at (varennes) {Varennes \& Léalvillers};
-\node[loc] (raincheval) at (-10mm, 11mm) {};
-\node[above, align=center, xshift=-1mm, yshift=0.6mm] at (raincheval) {Raincheval \&\\Arquèves};
-\node[loc] (louvencourt) at (10mm, 36mm) {};
-\node[above] at (louvencourt) {Louvencourt, Bertrancourt, Bus-lès-Artois};
-\node[loc] (herissart) at (-20mm, -4mm) {};
-\node[left, xshift=-1.5mm] at (herissart) {Hérissart \& Puchevillers};
-
-% Flèches d'itinéraires
-\draw[move] (canaples) -- (ribeaucourt);
-\draw[excur] (ribeaucourt) -- (domqueur);
-\draw[move] (ribeaucourt) -- (beauval) -- (warloy) -- (bouzincourt) -- (albert);
-\draw[move] (albert) .. controls (41mm, 4mm) and (33mm, 19mm) .. (acheux);
-\draw[excur] (acheux) -- (louvencourt);
-\draw[excur] (acheux) -- (raincheval);
-\draw[excur] (acheux) -- (varennes);
-\draw[excur] (acheux) -- (herissart);
-
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 5\hfill 10 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}%
-}
-""",
-    "V": r"""
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  hub/.style={circle, draw=bordeaux, fill=white, line width=0.85pt, inner sep=1.8pt},
-  tour/.style={draw=bordeaux!85, line width=0.55pt, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.2pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Rivière l'Ancre (passant immédiatement à l'ouest d'Albert et de Buire)
-\draw[river] (62mm,36mm) .. controls (55mm,10mm) and (45mm,-14mm) .. (33mm,-42mm)
-  node[pos=0.12, right, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{L'Ancre};
-
-% Centre d'Acheux-en-Amiénois
-\node[hub] (acheux) at (0mm, 15mm) {};
-\node[above right, xshift=12mm, yshift=1.5mm, align=left] at (acheux) {\textbf{ACHEUX-EN-AMIÉNOIS}\\(\textit{centre des tournées})};
-
-% Nord et Nord-Ouest
-\node[loc] (authie) at (-4mm, 38mm) {};
-\node[above] at (authie) {\textbf{Authie} \& St-Léger (9 déc., 6 janv.)};
-\node[loc] (louvencourt) at (6mm, 28mm) {};
-\node[above, xshift=1mm, yshift=0.5mm] at (louvencourt) {\textbf{Louvencourt}};
-\node[loc] (bertrancourt) at (20mm, 31mm) {};
-\node[right, xshift=1.5mm] at (bertrancourt) {\textbf{Bertrancourt} \& Bus-lès-Artois};
-\node[loc] (beauquesne) at (-36mm, 26mm) {};
-\node[left, xshift=-1.2mm] at (beauquesne) {\textbf{Beauquesne} (20 déc., 5 janv.)};
-\node[loc] (quesnoy) at (-26mm, 16mm) {};
-\node[left, xshift=-1.2mm] at (quesnoy) {Ferme du Quesnoy};
-\node[loc] (raincheval) at (-22mm, 8mm) {};
-\node[left, xshift=-1.2mm] at (raincheval) {\textbf{Raincheval} (\textit{Army P. Board})};
-\node[loc] (arqueves) at (-14mm, 29mm) {};
-\node[above left, xshift=1mm, yshift=0.5mm] at (arqueves) {Arquèves (\textbf{Belle-Église})};
-
-% Est et Sud-Est (vers l'Ancre)
-\node[loc] (forceville) at (23mm, 13mm) {};
-\node[right, xshift=1.5mm, align=left] at (forceville) {Forceville \&\\\textbf{Englebelmer}};
-\node[loc] (lealvillers) at (9mm, 9mm) {};
-\node[right, xshift=1.5mm, yshift=0.5mm] at (lealvillers) {Léalvillers};
-\node[loc] (varennes) at (15mm, 4mm) {};
-\node[right, xshift=1.5mm, yshift=0.5mm] at (varennes) {Varennes};
-\node[loc] (hedauville) at (20mm, -2mm) {};
-\node[right, xshift=1.8mm, yshift=0.5mm, align=left] at (hedauville) {\textbf{Hédauville} (9 janv.,\\\textit{150th Co. A.S.C.})};
-\node[loc] (albert) at (49mm, -15mm) {};
-\node[right, xshift=1.8mm] at (albert) {\textbf{Albert} \& Bouzincourt};
-\node[loc] (buire) at (44mm, -28mm) {};
-\node[right, xshift=1.8mm, align=left] at (buire) {\textbf{Buire-sur-l'Ancre},\\Ribemont \& Heilly (1\textsuperscript{er} déc.)};
-\node[loc] (franvillers) at (12mm, -37mm) {};
-\node[below] at (franvillers) {\textbf{Franvillers}};
-
-% Sud et Sud-Ouest
-\node[loc] (puchevillers) at (-26mm, 0mm) {};
-\node[left, xshift=-1.2mm] at (puchevillers) {\textbf{Puchevillers}};
-\node[loc] (herissart) at (-28mm, -9mm) {};
-\node[left, xshift=-1.2mm] at (herissart) {\textbf{Hérissart}};
-\node[loc] (rubempre) at (-28mm, -20mm) {};
-\node[left, xshift=-1.2mm] at (rubempre) {\textbf{Rubempré} \& Septenville};
-\node[loc] (toutencourt) at (-4mm, -6mm) {};
-\node[below, align=center, xshift=-4.0mm, yshift=-0.6mm] at (toutencourt) {\textbf{Toutencourt}\\(Mission V\textsuperscript{e} Armée)};
-\node[loc] (harponville) at (11mm, -7mm) {};
-\node[right, xshift=1.2mm] at (harponville) {Harponville};
-\node[loc] (contay) at (12mm, -20mm) {};
-\node[below, align=center, yshift=-0.5mm] at (contay) {\textbf{Contay} \& Vadencourt};
-
-% Rayons des tournées quotidiennes
-\foreach \dest in {authie,louvencourt,bertrancourt,beauquesne,raincheval,arqueves,forceville,toutencourt,contay,puchevillers,herissart,rubempre} {
-  \draw[tour] (acheux) -- (\dest);
-}
-\draw[tour] (acheux) -- (lealvillers) -- (varennes) -- (hedauville) -- (albert) -- (buire) -- (franvillers);
-
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 4\hfill 8 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}%
-}
-""",
-    "VI": r"""
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  ptstep/.style={circle, draw=bordeaux, fill=white, line width=0.8pt, inner sep=1.6pt},
-  aller/.style={draw=bordeaux, line width=0.8pt, ->, >=stealth},
-  retour/.style={draw=black!75, line width=0.65pt, dashed, ->, >=stealth}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Partie gauche : Boucle ferroviaire Amiens - Paris - Toulouse - Béziers - Millau - Clermont - Paris
-\node[font=\fontsize{6.1pt}{7.1pt}\selectfont\bfseries] at (-40mm, 44mm) {A. Boucle de la 2\textsuperscript{e} permission (26 janv. – 7 févr. 1917)};
-\node[ptstep] (amiens) at (-50mm, 36mm) {};
-\node[right, xshift=1.5mm] at (amiens) {\textbf{1. Acheux / Amiens} (26 janv.)};
-\node[ptstep] (paris) at (-50mm, 24mm) {};
-\node[right, xshift=1.5mm, align=left] at (paris) {\textbf{2. Paris \& Neuilly}\\(famille Faure, 27 janv.)};
-\node[ptstep] (toulouse) at (-57mm, -22mm) {};
-\node[left, xshift=-1.2mm, align=right] at (toulouse) {\textbf{3. Toulouse}\\(28 janv. – 3 févr.)};
-\node[loc] (carca) at (-42mm, -33mm) {};
-\node[below, align=center, yshift=-0.5mm] at (carca) {Carcassonne\\(Jean Crouzet)};
-\node[ptstep] (beziers) at (-19mm, -33mm) {};
-\node[below, align=center, yshift=-0.5mm] at (beziers) {\textbf{4. Béziers}\\(cath. St-Nazaire, 3 févr.)};
-\node[ptstep] (millau) at (-24mm, -16mm) {};
-\node[left, xshift=-1.5mm] at (millau) {\textbf{5. Millau} (3–5 févr.)};
-\node[loc] (stflour) at (-30mm, -4mm) {};
-\node[right, xshift=1.5mm] at (stflour) {St-Chély \& St-Flour};
-\node[ptstep] (clermont) at (-36mm, 8mm) {};
-\node[right, xshift=1.5mm, align=left] at (clermont) {\textbf{6. Brioude \& Clermont-F\textsuperscript{d}}\\(6 févr.)};
-
-\draw[aller] (amiens) -- (paris);
-\draw[aller] (paris) to[bend right=18] node[pos=0.48, left, xshift=-0.5mm]{\textit{Aller (27–28 janv.)}} (toulouse);
-\draw[aller] (toulouse) -- (carca) -- (beziers) -- (millau);
-\draw[retour] (millau) -- (stflour) -- (clermont) -- (paris) -- (amiens);
-
-% Filet vertical
-\draw[black!40, line width=0.45pt] (2mm,-46mm) -- (2mm,46mm);
-
-% Partie droite : Plan vectoriel de Millau (3mm à 80mm)
-\node[font=\fontsize{6.1pt}{7.1pt}\selectfont\bfseries] at (42mm, 44mm) {B. Lieux familiaux à Millau (3–5 févr. 1917)};
-% Le Tarn et la Dourbie (au sud et sud-est de la ville)
-\draw[black!35, line width=1.6pt] (12mm,-42mm) .. controls (34mm,-34mm) and (54mm,-26mm) .. (76mm,-16mm)
-  node[pos=0.72, above left, font=\fontsize{5.5pt}{6.3pt}\selectfont\itshape]{Le Tarn};
-\draw[black!35, line width=1.1pt] (48mm,-28mm) -- (76mm,-40mm)
-  node[pos=0.65, below left, font=\fontsize{5.4pt}{6.2pt}\selectfont\itshape]{La Dourbie};
-
-\node[loc] (cimetiere) at (12mm, 32mm) {};
-\node[right, xshift=1.5mm] at (cimetiere) {\textbf{Cimetière de Millau} (tombeaux familiaux, 5 févr.)};
-\node[loc] (gare_m) at (10mm, 23mm) {};
-\node[right, xshift=1.5mm] at (gare_m) {Gare de Millau (arrivée 3 févr., 22 h 30)};
-\node[loc] (mandarous) at (14mm, 14mm) {};
-\node[right, xshift=1.5mm] at (mandarous) {Place du Mandarous \& Bd de l'Ayrolle};
-\node[ptstep] (guibert) at (13mm, 5mm) {};
-\node[right, xshift=1.5mm] at (guibert) {\textbf{10, rue Alfred-Guibert} (maison Calmels)};
-\node[loc] (barris) at (12mm, -4mm) {};
-\node[right, xshift=1.5mm] at (barris) {\textbf{Rue des Barris} (maison natale Combes)};
-\node[ptstep] (layral_m) at (14mm, -13mm) {};
-\node[right, xshift=1.5mm] at (layral_m) {\textbf{Étude \& maison Layrals} (oncle \& tante Thérèse)};
-\end{tikzpicture}%
-}
-""",
-    "VII": r"""
-\resizebox{112mm}{!}{%
-\begin{tikzpicture}[
-  every node/.style={font=\fontsize{5.5pt}{6.5pt}\selectfont},
-  loc/.style={circle, fill=black, inner sep=1.2pt},
-  hub/.style={circle, draw=bordeaux, fill=white, line width=0.85pt, inner sep=1.8pt},
-  tour/.style={draw=bordeaux!85, line width=0.55pt, ->, >=stealth},
-  advance/.style={draw=black!75, line width=0.65pt, dashed, ->, >=stealth},
-  river/.style={draw=black!35, line width=1.2pt}
-]
-\draw[black!50, line width=0.45pt, fill=black!3] (-82mm,-50mm) rectangle (82mm,50mm);
-
-% Rivières : l'Authie au nord, l'Ancre à l'est (légèrement à l'ouest de l'axe Albert-Miraumont)
-\draw[river] (-70mm,39mm) -- (12mm,35mm) node[right]{\textit{L'Authie}};
-\draw[river] (37mm,26mm) .. controls (33mm,8mm) and (29mm,-12mm) .. (23mm,-40mm) node[right]{\textit{L'Ancre}};
-
-% Centre d'Hérissart (Army Purchase Board)
-\node[hub] (herissart) at (-22mm, -2mm) {};
-\node[above left, xshift=-2.8mm, yshift=0.5mm, align=right] at (herissart) {\textbf{HÉRISSART}\\(\textit{Purchase Board})};
-
-% Nord-Ouest : Doullens, Auxi-le-Château, Candas
-\node[loc] (auxi) at (-58mm, 35mm) {};
-\node[below, align=center, xshift=-3mm, yshift=-0.8mm] at (auxi) {\textbf{Auxi-le-Château}\\(21 févr.)};
-\node[loc] (doullens) at (-32mm, 28mm) {};
-\node[above right, xshift=1mm, yshift=0.2mm] at (doullens) {\textbf{Doullens} (achats \& cantine)};
-\node[loc] (candas) at (-44mm, 16mm) {};
-\node[above left, xshift=1mm, yshift=0.5mm] at (candas) {Candas};
-\node[loc] (raincheval) at (-17mm, 17mm) {};
-\node[above, align=center, yshift=0.6mm] at (raincheval) {Raincheval \&\\Puchevillers};
-\node[loc] (acheux) at (4mm, 21mm) {};
-\node[above right, xshift=0.5mm] at (acheux) {Acheux \& Bertrancourt};
-
-% Ouest et Sud : Villers-Bocage, Talmas, Rubempré, Molliens, Beaucourt
-\node[loc] (talmas) at (-48mm, -10mm) {};
-\node[left, xshift=-1.2mm] at (talmas) {Talmas \& \textbf{Villers-Bocage}};
-\node[loc] (pierregot) at (-32mm, -16mm) {};
-\node[left, xshift=-1.2mm] at (pierregot) {Pierregot \& Mirvaux};
-\node[loc] (rubempre) at (-12mm, -21mm) {};
-\node[right, xshift=1.2mm, yshift=-0.5mm] at (rubempre) {\textbf{Rubempré}};
-\node[loc] (molliens) at (-26mm, -26mm) {};
-\node[left, xshift=-1.2mm] at (molliens) {Molliens-au-Bois};
-\node[loc] (beaucourt) at (-12mm, -33mm) {};
-\node[below, yshift=-0.5mm] at (beaucourt) {\textbf{Beaucourt-sur-l'Hallue} \& Montigny (16 févr.)};
-
-% Est : Toutencourt, Contay, Warloy, Senlis, Mesnil-Martinsart, Albert
-\node[loc] (toutencourt) at (-3mm, 8mm) {};
-\node[right, xshift=1.5mm, align=left] at (toutencourt) {\textbf{Toutencourt}\\(Mission V\textsuperscript{e} Armée)};
-\node[loc] (contay) at (6mm, -11mm) {};
-\node[below, align=center, xshift=-1mm, yshift=-0.8mm] at (contay) {\textbf{Contay} \&\\Warloy-Baillon};
-\node[loc] (senlis) at (1mm, -4.5mm) {};
-\node[right, xshift=1.5mm, align=left] at (senlis) {\textbf{Senlis-le-Sec}\\(\textit{17th Lancers}, 21 mars)};
-\node[loc] (mesnil) at (36mm, 1mm) {};
-\node[right, xshift=1.5mm, align=left] at (mesnil) {\textbf{Le Mesnil-Martinsart}\\(famille Flutre, 13 mars)};
-\node[loc] (albert) at (32mm, -18mm) {};
-\node[right, xshift=1.5mm, align=left] at (albert) {\textbf{Albert}, Aveluy \&\\Buire-sur-l'Ancre};
-
-% Nord-Est : Secteur du repli allemand (Miraumont, Achiet-le-Petit, Bapaume, Arras)
-\node[loc] (miraumont) at (40mm, 16mm) {};
-\node[right, xshift=1.5mm] at (miraumont) {\textbf{Miraumont}};
-\node[loc] (achiet) at (42mm, 27mm) {};
-\node[right, xshift=1.5mm, align=left] at (achiet) {\textbf{Achiet-le-Petit}\\(\textit{63rd Naval Div.}, 19 mars)};
-\node[loc] (arras) at (38mm, 39mm) {};
-\node[above, xshift=-2mm] at (arras) {\textbf{Vers Bapaume \& Arras} (canonnade, avr. 1917)};
-
-% Rayons et mouvements
-\foreach \dest in {doullens,candas,raincheval,acheux,toutencourt,senlis,mesnil,rubempre,pierregot,molliens,beaucourt,talmas} {
-  \draw[tour] (herissart) -- (\dest);
-}
-\draw[tour] (herissart) -- (contay) -- (albert);
-\draw[tour] (doullens) -- (auxi);
-\draw[advance] (albert) -- (mesnil) -- (miraumont) -- (achiet) -- (arras);
-
-\draw[line width=0.6pt] (-74mm,-44mm) -- (-50mm,-44mm);
-\draw (-74mm,-45mm) -- (-74mm,-43mm) (-50mm,-45mm) -- (-50mm,-43mm);
-\node[above, text width=24mm] at (-62mm,-44mm) {0\hfill 5\hfill 10 km};
-\draw[->, line width=0.6pt] (72mm, 34mm) -- (72mm, 43mm) node[above]{\textbf{N}};
-\end{tikzpicture}%
-}
-""",
+CARTES_CHAPITRES = {
+    chapter: (r"\phantomsection\label{carte:" + chapter + "}\n"
+              + r"\noindent\includegraphics[width=\textwidth,height=128mm,keepaspectratio]{cartographie/cartes/"
+              + chapter + ".pdf}")
+    for chapter in MAP_IDS[1:]
 }
 
 
 # =============================================================================
-for _chapter, _map in list(TIKZ_CARTES_CHAPITRES.items()):
-    TIKZ_CARTES_CHAPITRES[_chapter] = _map.replace(r'\end{tikzpicture}', r'\end{tikzpicture}\phantomsection\label{carte:' + _chapter + '}', 1)
-
 # 3. INDEX DES NOMS DE PERSONNES (INDEX NOMINUM) & INDEX DES NOMS DE LIEUX (INDEX LOCORUM)
 # =============================================================================
 
@@ -985,8 +462,11 @@ def index_document_sources(document_context=""):
     if marker in document_context:
         biography = document_context[document_context.index(marker):].split(r'\section{Présentation', 1)[0]
         sources.append({'id': 'biographie', 'text': biography, 'reference': r'Prolégomènes, §~I (début p.~\pageref{proleg:biographie})'})
-    for chapter, source in TIKZ_CARTES_CHAPITRES.items():
-        sources.append({'id': 'carte:' + chapter, 'text': source, 'reference': 'Carte du chapitre ' + chapter + r' (p.~\pageref{carte:' + chapter + '})'})
+    for item in load_map_manifest():
+        map_id = item['id']
+        title = 'Carte générale' if map_id == 'generale' else 'Carte du chapitre ' + map_id
+        sources.append({'id': 'carte:' + map_id, 'text': item['printed_text'],
+                        'reference': title + r' (p.~\pageref{carte:' + map_id + '})'})
     return sources
 
 

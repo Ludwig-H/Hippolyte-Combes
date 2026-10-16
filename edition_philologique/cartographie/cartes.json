@@ -1,0 +1,699 @@
+[
+  {
+    "id": "generale",
+    "title": "Les lieux du carnet",
+    "period": "JUILLET 1916 — AVRIL 1917",
+    "panels": [
+      {
+        "places": [
+          "75056",
+          "80021",
+          "31555",
+          "12145",
+          "11069",
+          "34032",
+          "15187",
+          "63113"
+        ],
+        "box": [
+          0.03,
+          0.32,
+          0.94,
+          0.56
+        ],
+        "region": "national",
+        "extent": [
+          -5.4,
+          42.15,
+          8.25,
+          51.7
+        ],
+        "hubs": [
+          "75056",
+          "31555",
+          "12145"
+        ],
+        "title": null,
+        "routes": []
+      },
+      {
+        "places": [
+          "59366",
+          "59535",
+          "croix_du_bac",
+          "62558",
+          "80016",
+          "80003",
+          "80431"
+        ],
+        "box": [
+          0.05,
+          0.045,
+          0.44,
+          0.23
+        ],
+        "region": "nord",
+        "extent": null,
+        "hubs": [
+          "59366",
+          "62558",
+          "80003",
+          "80431"
+        ],
+        "title": "LE NORD DU CARNET",
+        "routes": [],
+        "label_font": 7.2,
+        "hydro_labels": false
+      }
+    ],
+    "notes": [
+      "France continentale et Belgique ; détail des cantonnements ci-dessous.",
+      "Les permissions relient le Nord, Paris, Toulouse et Millau."
+    ],
+    "legend": [],
+    "size_mm": [
+      160,
+      185
+    ]
+  },
+  {
+    "id": "I",
+    "title": "De la Flandre à la Lys",
+    "period": "25 JUILLET — 12 AOÛT 1916",
+    "panels": [
+      {
+        "places": [
+          "59366",
+          "59568",
+          "59497",
+          "59295",
+          "59535",
+          "59043",
+          "59581",
+          "croix_du_bac",
+          "bac_saint_maur",
+          "62736",
+          "mont_noir"
+        ],
+        "box": [
+          0.04,
+          0.22,
+          0.92,
+          0.65
+        ],
+        "region": "nord",
+        "extent": null,
+        "hubs": [
+          "59366",
+          "59535",
+          "croix_du_bac"
+        ],
+        "title": null,
+        "routes": [
+          {
+            "places": [
+              "59366",
+              "59295",
+              "59535"
+            ],
+            "label": "28 juillet · changement de secteur",
+            "scans": [
+              "005",
+              "006"
+            ],
+            "color": 0,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          },
+          {
+            "places": [
+              "59535",
+              "59043",
+              "croix_du_bac"
+            ],
+            "label": "5 août · vers La Croix-du-Bac",
+            "scans": [
+              "012"
+            ],
+            "color": 1,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Saint-Jans-Cappel : repère du secteur, ferme non localisée.",
+      "Sercus [?] : lecture incertaine du nom dans le carnet."
+    ],
+    "legend": [],
+    "size_mm": [
+      160,
+      160
+    ]
+  },
+  {
+    "id": "II",
+    "title": "De la Lys à la Somme",
+    "period": "13 AOÛT — 24 SEPTEMBRE 1916",
+    "panels": [
+      {
+        "places": [
+          "59043",
+          "59295",
+          "berguette_gare",
+          "62516",
+          "62767",
+          "62558",
+          "62514",
+          "62590",
+          "oppy",
+          "80495",
+          "80756",
+          "80659",
+          "80003",
+          "80329",
+          "croix_du_bac"
+        ],
+        "box": [
+          0.04,
+          0.22,
+          0.92,
+          0.65
+        ],
+        "region": "nord",
+        "extent": null,
+        "hubs": [
+          "59043",
+          "62558",
+          "80659",
+          "80329"
+        ],
+        "title": null,
+        "routes": [
+          {
+            "places": [
+              "59043",
+              "59295",
+              "berguette_gare",
+              "62516",
+              "62767",
+              "62558"
+            ],
+            "label": "25 août · train puis route après Saint-Pol",
+            "scans": [
+              "027",
+              "028"
+            ],
+            "color": 0,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          },
+          {
+            "places": [
+              "62558",
+              "62514",
+              "62590",
+              "oppy",
+              "80495",
+              "80756",
+              "80659"
+            ],
+            "label": "9–11 septembre · étapes vers la Somme",
+            "scans": [
+              "039",
+              "040",
+              "041"
+            ],
+            "color": 1,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Oppy est le hameau de Beaudricourt, dans le Ternois.",
+      "Monts : 9 sept. ; Oppy : 10 sept. ; Forceville : 23–24 sept."
+    ],
+    "legend": [],
+    "size_mm": [
+      160,
+      160
+    ]
+  },
+  {
+    "id": "III",
+    "title": "Les promenades toulousaines",
+    "period": "25 SEPTEMBRE — 6 OCTOBRE 1916",
+    "panels": [
+      {
+        "places": [
+          "31069",
+          "purpan_amphitheatre",
+          "lardenne",
+          "matabiau",
+          "saint_sernin",
+          "saint_etienne",
+          "terre_cabade",
+          "montaudran",
+          "pouvourville",
+          "pech_david_coteau"
+        ],
+        "box": [
+          0.04,
+          0.36,
+          0.92,
+          0.51
+        ],
+        "region": "toulouse",
+        "extent": null,
+        "hubs": [
+          "31069",
+          "saint_etienne",
+          "montaudran"
+        ],
+        "title": null,
+        "routes": [],
+        "offsets": {
+          "purpan_amphitheatre": [
+            -7,
+            8
+          ]
+        }
+      },
+      {
+        "places": [
+          "80021",
+          "75056",
+          "31555"
+        ],
+        "box": [
+          0.04,
+          0.115,
+          0.32,
+          0.215
+        ],
+        "region": "national",
+        "extent": [
+          -0.2,
+          43.1,
+          3.2,
+          50.25
+        ],
+        "hubs": [
+          "75056",
+          "31555"
+        ],
+        "title": "LA PERMISSION",
+        "routes": [
+          {
+            "places": [
+              "80021",
+              "75056",
+              "31555"
+            ],
+            "label": "25–27 sept. · principales étapes",
+            "scans": [
+              "050",
+              "051",
+              "053",
+              "054"
+            ],
+            "color": 0,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Sainte-Marie-des-Champs : Côte Pavée ; bâtiment de 1916",
+      "non localisé avec certitude, donc sans point sur ce plan.",
+      "Pech-David : repère du coteau ; promenade non retracée."
+    ],
+    "legend": [],
+    "size_mm": [
+      160,
+      160
+    ]
+  },
+  {
+    "id": "IV",
+    "title": "Cantonnements et fourrages",
+    "period": "6 OCTOBRE — 30 NOVEMBRE 1916",
+    "panels": [
+      {
+        "places": [
+          "barlette",
+          "80671",
+          "80166",
+          "80086",
+          "80642",
+          "80071",
+          "80070",
+          "80645",
+          "80820",
+          "80733",
+          "80129",
+          "80425",
+          "80016",
+          "80003",
+          "80659",
+          "80431",
+          "martinsart",
+          "la_boisselle"
+        ],
+        "box": [
+          0.04,
+          0.22,
+          0.92,
+          0.65
+        ],
+        "region": "nord",
+        "extent": null,
+        "hubs": [
+          "barlette",
+          "80071",
+          "80820",
+          "80016",
+          "80003"
+        ],
+        "title": null,
+        "routes": [
+          {
+            "places": [
+              "barlette",
+              "80071",
+              "80070",
+              "80645",
+              "80820",
+              "80733"
+            ],
+            "label": "15–17 octobre · principales étapes",
+            "scans": [
+              "074",
+              "075",
+              "077"
+            ],
+            "color": 0,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          },
+          {
+            "places": [
+              "80016",
+              "80003",
+              "80659"
+            ],
+            "label": "2 novembre · changement de cantonnement",
+            "scans": [
+              "089",
+              "090",
+              "091"
+            ],
+            "color": 1,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Camp des 17–18 octobre entre Bouzincourt et Hédauville :",
+      "emplacement exact inconnu ; aucun point de camp ajouté."
+    ],
+    "legend": [],
+    "size_mm": [
+      160,
+      160
+    ]
+  },
+  {
+    "id": "V",
+    "title": "Autour d’Acheux",
+    "period": "DÉCEMBRE 1916 — JANVIER 1917",
+    "panels": [
+      {
+        "places": [
+          "80003",
+          "80659",
+          "80493",
+          "80070",
+          "80766",
+          "80645",
+          "80686",
+          "80043",
+          "80705",
+          "80028",
+          "belle_eglise",
+          "80425",
+          "80266",
+          "80350",
+          "80151",
+          "80253"
+        ],
+        "box": [
+          0.04,
+          0.22,
+          0.92,
+          0.65
+        ],
+        "region": "nord",
+        "extent": null,
+        "hubs": [
+          "80003",
+          "80659",
+          "80766"
+        ],
+        "title": null,
+        "routes": [],
+        "offsets": {
+          "belle_eglise": [
+            0,
+            13
+          ],
+          "80028": [
+            0,
+            -13
+          ]
+        }
+      }
+    ],
+    "notes": [
+      "Sélection de lieux fréquentés lors des tournées et promenades.",
+      "Les visites ne forment pas un itinéraire continu."
+    ],
+    "legend": [],
+    "size_mm": [
+      160,
+      160
+    ]
+  },
+  {
+    "id": "VI",
+    "title": "La seconde permission",
+    "period": "26 JANVIER — 7 FÉVRIER 1917",
+    "panels": [
+      {
+        "places": [
+          "80003",
+          "80021",
+          "75056",
+          "92051",
+          "31555",
+          "11069",
+          "34032",
+          "34028",
+          "12145",
+          "15187",
+          "43040",
+          "63113",
+          "03118",
+          "45155",
+          "45208",
+          "91174"
+        ],
+        "box": [
+          0.04,
+          0.22,
+          0.92,
+          0.65
+        ],
+        "region": "national",
+        "extent": [
+          0.5,
+          42.7,
+          4.3,
+          50.5
+        ],
+        "hubs": [
+          "80003",
+          "75056",
+          "31555",
+          "12145"
+        ],
+        "title": null,
+        "routes": [
+          {
+            "places": [
+              "80003",
+              "80021",
+              "75056",
+              "31555"
+            ],
+            "label": "26–28 janvier · vers Toulouse",
+            "scans": [
+              "128",
+              "129",
+              "130",
+              "131",
+              "132"
+            ],
+            "color": 0,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          },
+          {
+            "places": [
+              "31555",
+              "11069",
+              "34032",
+              "34028",
+              "12145"
+            ],
+            "label": "3 février · vers Millau",
+            "scans": [
+              "139",
+              "140"
+            ],
+            "color": 1,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          },
+          {
+            "places": [
+              "12145",
+              "15187",
+              "43040",
+              "63113",
+              "03118",
+              "45155",
+              "45208",
+              "91174",
+              "75056",
+              "80021",
+              "80003"
+            ],
+            "label": "5–7 février · retour dans la Somme",
+            "scans": [
+              "143",
+              "144",
+              "145",
+              "146"
+            ],
+            "color": 2,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Principales étapes nommées ; les liaisons ne dessinent pas les rails.",
+      "Neuilly : excursion du 27 janvier depuis Paris."
+    ],
+    "legend": [],
+    "size_mm": [
+      160,
+      160
+    ]
+  },
+  {
+    "id": "VII",
+    "title": "Hérissart et le Purchase Board",
+    "period": "7 FÉVRIER — 30 AVRIL 1917",
+    "panels": [
+      {
+        "places": [
+          "80431",
+          "80766",
+          "80645",
+          "80686",
+          "80003",
+          "80016",
+          "80253",
+          "62060",
+          "80659",
+          "80207",
+          "80820",
+          "80733",
+          "le_mesnil",
+          "martinsart",
+          "80624",
+          "80553",
+          "80562",
+          "80798"
+        ],
+        "box": [
+          0.04,
+          0.22,
+          0.92,
+          0.65
+        ],
+        "region": "nord",
+        "extent": null,
+        "hubs": [
+          "80431",
+          "80766",
+          "80003",
+          "62060"
+        ],
+        "title": null,
+        "routes": [
+          {
+            "places": [
+              "80003",
+              "80659",
+              "80645",
+              "80431"
+            ],
+            "label": "7 février · installation à Hérissart",
+            "scans": [
+              "147"
+            ],
+            "color": 0,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          },
+          {
+            "places": [
+              "80431",
+              "80645",
+              "80624",
+              "80798"
+            ],
+            "label": "30 avril · tournée de l’après-midi",
+            "scans": [
+              "186"
+            ],
+            "color": 1,
+            "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+          }
+        ],
+        "offsets": {
+          "le_mesnil": [
+            8,
+            10
+          ],
+          "martinsart": [
+            -9,
+            -12
+          ],
+          "80733": [
+            0,
+            25
+          ]
+        }
+      }
+    ],
+    "notes": [
+      "Sélection des tournées personnelles attestées dans le carnet.",
+      "Aucun déplacement personnel vers Arras ou Bapaume n’est établi."
+    ],
+    "legend": [],
+    "size_mm": [
+      160,
+      160
+    ]
+  }
+]

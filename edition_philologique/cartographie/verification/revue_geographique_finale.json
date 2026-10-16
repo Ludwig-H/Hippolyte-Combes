@@ -1,0 +1,349 @@
+{
+  "date": "2026-10-16",
+  "scope": "Contrôle indépendant du catalogue effectivement utilisé, des liaisons chronologiques et des distinctions géographiques des huit cartes.",
+  "geographic_status": "Aucune divergence de coordonnées restante dans le catalogue utilisé ; réserves historiques maintenues.",
+  "catalogue": {
+    "used_count": 82,
+    "mairie_count": 63,
+    "special_count": 19,
+    "special_ign_count": 17,
+    "special_other_count": 2,
+    "unused_count": 0,
+    "candidate_repertoire_count": 3190,
+    "candidate_repertoire_status": "Archive de candidats : ses 3 190 entrées ne sont pas 3 190 lieux du carnet ni des cartes."
+  },
+  "sha256": {
+    "donnees/lieux.json": "1e0c1199ee921e756135b9f87fd90b9970b0cae3bc2b85bc3ddd4ee46b124a71",
+    "donnees/hameaux_et_toulouse_verifies.json": "0fdceae313a7969ac20599ae821a4e363789e8df41f2edfb41182917b3ccb955",
+    "donnees/repertoire_communes.json": "fec25e22675304310a3793c38d27877d30cc1f6e3520be8ddb7296cc95b6f212",
+    "cartes.json": "2b0dc2659063511937052f041ac804d9298cfdc8a5afcbc6db93f92193964a05"
+  },
+  "routes_checked_against_transcription": [
+    {
+      "carte": "I",
+      "places": [
+        "59366",
+        "59295",
+        "59535"
+      ],
+      "label": "28 juillet · changement de secteur",
+      "scans": [
+        "005",
+        "006"
+      ],
+      "color": 0,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "I",
+      "places": [
+        "59535",
+        "59043",
+        "croix_du_bac"
+      ],
+      "label": "5 août · vers La Croix-du-Bac",
+      "scans": [
+        "012"
+      ],
+      "color": 1,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "II",
+      "places": [
+        "59043",
+        "59295",
+        "berguette_gare",
+        "62516",
+        "62767",
+        "62558"
+      ],
+      "label": "25 août · train puis route après Saint-Pol",
+      "scans": [
+        "027",
+        "028"
+      ],
+      "color": 0,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "II",
+      "places": [
+        "62558",
+        "62514",
+        "62590",
+        "oppy",
+        "80495",
+        "80756",
+        "80659"
+      ],
+      "label": "9–11 septembre · étapes vers la Somme",
+      "scans": [
+        "039",
+        "040",
+        "041"
+      ],
+      "color": 1,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "III",
+      "places": [
+        "80021",
+        "75056",
+        "31555"
+      ],
+      "label": "25–27 sept. · principales étapes",
+      "scans": [
+        "050",
+        "051",
+        "053",
+        "054"
+      ],
+      "color": 0,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "IV",
+      "places": [
+        "barlette",
+        "80071",
+        "80070",
+        "80645",
+        "80820",
+        "80733"
+      ],
+      "label": "15–17 octobre · principales étapes",
+      "scans": [
+        "074",
+        "075",
+        "077"
+      ],
+      "color": 0,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "IV",
+      "places": [
+        "80016",
+        "80003",
+        "80659"
+      ],
+      "label": "2 novembre · changement de cantonnement",
+      "scans": [
+        "089",
+        "090",
+        "091"
+      ],
+      "color": 1,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "VI",
+      "places": [
+        "80003",
+        "80021",
+        "75056",
+        "31555"
+      ],
+      "label": "26–28 janvier · vers Toulouse",
+      "scans": [
+        "128",
+        "129",
+        "130",
+        "131",
+        "132"
+      ],
+      "color": 0,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "VI",
+      "places": [
+        "31555",
+        "11069",
+        "34032",
+        "34028",
+        "12145"
+      ],
+      "label": "3 février · vers Millau",
+      "scans": [
+        "139",
+        "140"
+      ],
+      "color": 1,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "VI",
+      "places": [
+        "12145",
+        "15187",
+        "43040",
+        "63113",
+        "03118",
+        "45155",
+        "45208",
+        "91174",
+        "75056",
+        "80021",
+        "80003"
+      ],
+      "label": "5–7 février · retour dans la Somme",
+      "scans": [
+        "143",
+        "144",
+        "145",
+        "146"
+      ],
+      "color": 2,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "VII",
+      "places": [
+        "80003",
+        "80659",
+        "80645",
+        "80431"
+      ],
+      "label": "7 février · installation à Hérissart",
+      "scans": [
+        "147"
+      ],
+      "color": 0,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    },
+    {
+      "carte": "VII",
+      "places": [
+        "80431",
+        "80645",
+        "80624",
+        "80798"
+      ],
+      "label": "30 avril · tournée de l’après-midi",
+      "scans": [
+        "186"
+      ],
+      "color": 1,
+      "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
+    }
+  ],
+  "transcription_sha256": "ee6f62e8abba93bb16fbb196ad9d8ba5812a113b017de711a08bcf0e98f43d46",
+  "cardinal_checks": [
+    {
+      "de": "59366",
+      "vers": "59497",
+      "direction": "NO",
+      "distance_km": 4.113,
+      "passed": true
+    },
+    {
+      "de": "80003",
+      "vers": "80470",
+      "direction": "SO",
+      "distance_km": 1.885,
+      "passed": true
+    },
+    {
+      "de": "80003",
+      "vers": "80493",
+      "direction": "NO",
+      "distance_km": 3.388,
+      "passed": true
+    },
+    {
+      "de": "80003",
+      "vers": "80028",
+      "direction": "O",
+      "distance_km": 4.553,
+      "passed": true
+    },
+    {
+      "de": "80431",
+      "vers": "80686",
+      "direction": "SO",
+      "distance_km": 2.427,
+      "passed": true
+    },
+    {
+      "de": "80207",
+      "vers": "80733",
+      "direction": "NE",
+      "distance_km": 7.428,
+      "passed": true
+    },
+    {
+      "de": "80645",
+      "vers": "quesnoy",
+      "direction": "SE",
+      "distance_km": 1.787,
+      "passed": true
+    },
+    {
+      "de": "martinsart",
+      "vers": "le_mesnil",
+      "direction": "NE",
+      "distance_km": 1.797,
+      "passed": true
+    },
+    {
+      "de": "62736",
+      "vers": "bac_saint_maur",
+      "direction": "NE",
+      "distance_km": 1.72,
+      "passed": true
+    }
+  ],
+  "corrections_from_independent_review": [
+    {
+      "carte": "I",
+      "correction": "Le Mont-Noir est le hameau nommé au scan 006, non le sommet voisin.",
+      "status": "corrigé dans les données"
+    },
+    {
+      "carte": "II",
+      "correction": "Le 25 août : train jusqu’à Saint-Pol puis route jusqu’à Marquay, scans 027–028.",
+      "status": "corrigé dans la légende"
+    },
+    {
+      "carte": "IV",
+      "correction": "Camp situé entre Bouzincourt et Hédauville dès le 17 octobre, puis séjour le 18, scans 077–079.",
+      "status": "corrigé dans la note"
+    },
+    {
+      "carte": "V",
+      "correction": "Raincheval et Toutencourt sont des repères de tournées, sans preuve de séjour principal pendant cette période.",
+      "status": "la légende est devenue Repère principal"
+    },
+    {
+      "carte": "I, II, générale",
+      "correction": "La frontière franco-belge régionale utilise la géométrie IGN ; le double contour Natural Earth à petite échelle a été retiré.",
+      "status": "contrôlé visuellement"
+    },
+    {
+      "carte": "générale, V, VII",
+      "correction": "Clarifier les lignes de rappel Acheux/Albert, Arquèves/Belle-Église et Le Mesnil/Martinsart.",
+      "status": "nouvelles positions examinées : encart général et VII clarifiés ; V exige encore de suivre les lignes de rappel, sans erreur de coordonnées"
+    }
+  ],
+  "reservations": [
+    "Le hameau Oppy de Beaudricourt est distingué de la commune d’Oppy près d’Arras.",
+    "La Boisselle est le lieu habité d’Ovillers-la-Boisselle, et non le lieu non habité homonyme de Contay.",
+    "Le Mesnil est au nord-est de Martinsart ; leurs points restent distincts.",
+    "Sercus est une lecture incertaine et porte [?] sur la carte.",
+    "Sainte-Marie-des-Champs n’a pas de point : bâtiment de 1916 non précisément établi.",
+    "Purpan représente l’amphithéâtre romain ; Pech-David le coteau, sans lieu précis de promenade.",
+    "Saint-Étienne cathédrale et Saint-Étienne de Montaudran sont deux édifices distincts.",
+    "Les repères modernes de localités ne localisent ni les logements ni les arrêts exacts de 1916.",
+    "Les liaisons ordonnées ne reconstituent pas les tracés routiers ou ferroviaires historiques.",
+    "Les limites et cours d’eau des fonds modernes ne sont pas une reconstitution du paysage de 1916."
+  ],
+  "visual_review_status": "Géométrie des huit PNG examinée ; trois ensembles de libellés revus après ajustement (générale, V, VII). Réserve mineure de lisibilité pour les deux lignes de rappel de V, sans erreur géographique.",
+  "visual_adjusted_png_sha256": {
+    "generale": "3f07ee37c58b87af2fc9e8fdc855bcff7bc671ce424f4389cbcacb4a8e2845ce",
+    "V": "16421dd08ef0a8e7aefd545fad1cba4236e8d8e22e4e09793cd958c69d4eae75",
+    "VII": "2d9d7261436bbcfb7acaf01b422bb1004c0e78c0aa80bc0c6a87818b30a11ba8"
+  }
+}

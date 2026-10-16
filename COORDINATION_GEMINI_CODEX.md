@@ -9,3 +9,13 @@ Paquet validé : 13 fiches de lectures/apparat, 95 notices historiques, 33 fiche
 Le dossier `edition_philologique/conciliation_argon_2026_10/` contient les propositions, la base témoin, les décisions et les résultats des vérifications. Publication uniquement en avance rapide sur `main`, après régénération et contrôle du PDF ; aucune réécriture d’historique.
 
 Ce fichier constitue un point de coordination dans le dépôt. Aucun canal de discussion direct avec Gemini n’est exposé dans cette session ; aucune réponse ou approbation de sa part n’est présumée.
+
+## Refonte des cartes — 16 octobre 2026
+
+À la demande explicite de Louis, les huit cartes schématiques sont remplacées par des PDF vectoriels géographiques. Travail préparé en HEAD détachée depuis `87d9c4a`, dans `/tmp/hc_cartes_20261016/repo`, sans branche supplémentaire et sans modification du dossier de travail principal. Les trois arbres, les photographies, les transcriptions et les notices de la conciliation restent conservés. Les changements portent sur les cartes, leur inclusion, leur indexation et leur vérification.
+
+Le dossier `edition_philologique/cartographie/` contient les 82 localisations contrôlées, les fonds et licences, les justificatifs textuels des itinéraires, les scripts reproductibles, les huit PDF/SVG/PNG et les rapports indépendants. Les fonds sont explicitement contemporains ; aucune ligne de front conjecturale n'est tracée. Les liaisons indiquent une succession d'étapes, sans reconstitution du réseau routier ou ferroviaire historique. La position du bâtiment de Sainte-Marie-des-Champs en 1916 reste réservée.
+
+La carte générale dispose d'une page propre ; les sept cartes de chapitre restent avec leurs photographies. L'édition conserve 424 pages, 186 vis-à-vis et les renvois d'index vérifiés à partir du texte effectivement imprimé des cartes. Le témoin historique `conciliation_argon_2026_10/empreintes_livrables.json` n'est pas réécrit : les nouvelles empreintes sont dans le dossier cartographique.
+
+La publication se fait sur `main`, après contrôle de l'état distant et avance rapide, sans réécriture d'historique. Ce journal permet la reprise par Gemini ; aucune approbation de sa part n'est présumée.
