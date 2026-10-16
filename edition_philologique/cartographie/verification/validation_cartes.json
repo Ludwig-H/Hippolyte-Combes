@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked_at_utc": "2026-10-16T15:21:32.230159+00:00",
+  "checked_at_utc": "2026-10-16T15:42:43.227394+00:00",
   "projection": "EPSG:2154",
   "maps": [
     {
@@ -111,7 +111,7 @@
         }
       ],
       "places_checked": 15,
-      "pdf_sha256": "5a4bc37c50b726e5cc8a40f5e2d0f8e96b8e31b83e6b8f52245a1eee245ff806",
+      "pdf_sha256": "874aec101c660532427c78dc2601cfcc10156907043f62b72bb2eb6c0de8b3c4",
       "printed_text_exact_match": true,
       "passed": true
     },
@@ -124,8 +124,8 @@
           "metres_per_mm_y": 161.0321910271202,
           "scale_length_metres": 5000,
           "physical_scale_line_verified": true,
-          "point_markers_verified": 10,
-          "labels_checked": 10
+          "point_markers_verified": 8,
+          "labels_checked": 8
         },
         {
           "number": 2,
@@ -151,8 +151,8 @@
           ]
         }
       ],
-      "places_checked": 13,
-      "pdf_sha256": "3f00fec3dcc9aa325c331237c8157d6313fa7a0829966e47d550559c1fa81351",
+      "places_checked": 11,
+      "pdf_sha256": "d8b9a82c1351423bc08ab81f307063d872d604661397bd5390bdfda3b15fea92",
       "printed_text_exact_match": true,
       "passed": true
     },
@@ -194,7 +194,7 @@
         }
       ],
       "places_checked": 18,
-      "pdf_sha256": "7320b551d60b3b9720f1e00cf6c0c129cb3b2558b2d36d92bb8cd82d3b2f90a9",
+      "pdf_sha256": "34a645cb6cec0d6ad00886c154e8fcc491ac86f53855cb8521da57ea5ecd4444",
       "printed_text_exact_match": true,
       "passed": true
     },
@@ -307,7 +307,7 @@
         }
       ],
       "places_checked": 18,
-      "pdf_sha256": "01d67b211d0d0bfc8a3d83a6bff379a95c9a5adea4aa268ff03304f944a1cdc3",
+      "pdf_sha256": "5d123d9d5894dfb5061e553660402c7d5234dfa7e9def07ca9acdf1ee48cdca2",
       "printed_text_exact_match": true,
       "passed": true
     }
@@ -319,27 +319,72 @@
     "Les collisions sont contrôlées sur les rectangles de sécurité des libellés et les cercles réels du PDF ; une alerte peut concerner les marges avant de toucher le texte. La revue visuelle complète le contrôle des fonds et liaisons."
   ],
   "notebook_citations_checked": 473,
-  "catalog_places_checked": 82,
-  "catalog_source_matches": 82,
-  "distinct_places_printed": 82,
-  "point_instances_checked": 122,
+  "place_chronology": {
+    "instances_checked": 120,
+    "statuses": {
+      "attested": 114,
+      "uncertain": 3,
+      "context": 3
+    },
+    "basis": "Contre-vérification de chaque lieu imprimé dans la transcription JSON actuelle ; pas de nouvelle collation photographique intégrale. Le composé Corbeil-Essonnes a été revu ponctuellement sur la photographie du scan 145.",
+    "chapter_ranges": {
+      "generale": [
+        1,
+        186
+      ],
+      "I": [
+        1,
+        18
+      ],
+      "II": [
+        19,
+        49
+      ],
+      "III": [
+        50,
+        66
+      ],
+      "IV": [
+        67,
+        104
+      ],
+      "V": [
+        105,
+        127
+      ],
+      "VI": [
+        128,
+        146
+      ],
+      "VII": [
+        147,
+        186
+      ]
+    }
+  },
+  "catalog_places_checked": 80,
+  "catalog_source_matches": 80,
+  "distinct_places_printed": 80,
+  "point_instances_checked": 120,
   "routes_checked": 12,
   "input_sha256": {
-    "donnees/lieux.json": "1e0c1199ee921e756135b9f87fd90b9970b0cae3bc2b85bc3ddd4ee46b124a71",
+    "donnees/lieux.json": "570189ecc4120dcdfc3a85247802d09d70026f9441c10d402f985014525e3340",
     "donnees/repertoire_communes.json": "fec25e22675304310a3793c38d27877d30cc1f6e3520be8ddb7296cc95b6f212",
     "donnees/hameaux_et_toulouse_verifies.json": "0fdceae313a7969ac20599ae821a4e363789e8df41f2edfb41182917b3ccb955",
-    "cartes.json": "40a5bd7a1199136fdf62f32f9e9131b19fe877a469eaf5fc99c21066a5653593",
-    "cartes/manifest.json": "54e5bed403696190e2409cd9d5e7955a4327a1c72baf99b509a016e44d96a114",
+    "cartes.json": "5a6d3d7d70c6db112aa5f7283f681830441f4042ad46fe77dedd79b4829cf448",
+    "cartes/manifest.json": "f229f9473d68cfee0d77c8e3a3f48b1906c89462b99ff385d5552d554504018c",
     "verification/audit_carnet.json": "1b323c81b2a3e64cd32a2ed24c4fa9de0d3e9adf0e96d580e015a9bb875f3e4e",
     "../../transcriptions/transcription_integrale_186_scans.json": "ee6f62e8abba93bb16fbb196ad9d8ba5812a113b017de711a08bcf0e98f43d46",
+    "verification/attestations_lieux.json": "1b96f789e176a70551f9243255bda9d5183b6191fdb1308a9e6c3220351312eb",
+    "../generate_edition.py": "672c1adbf1b703f6dc6b52b9ec983a49c1b2c8292d3783b42794e33360593917",
     "cartes/generale.pdf": "bb7c71eaf7c389343560cb4d093257a73e9d203f28087447fdc315d0dd21c61d",
     "cartes/I.pdf": "6beb59b366aadc87ed12f5c328230fc2eefa93dca9b2ae1af59ac17b9132b16a",
-    "cartes/II.pdf": "5a4bc37c50b726e5cc8a40f5e2d0f8e96b8e31b83e6b8f52245a1eee245ff806",
-    "cartes/III.pdf": "3f00fec3dcc9aa325c331237c8157d6313fa7a0829966e47d550559c1fa81351",
-    "cartes/IV.pdf": "7320b551d60b3b9720f1e00cf6c0c129cb3b2558b2d36d92bb8cd82d3b2f90a9",
+    "cartes/II.pdf": "874aec101c660532427c78dc2601cfcc10156907043f62b72bb2eb6c0de8b3c4",
+    "cartes/III.pdf": "d8b9a82c1351423bc08ab81f307063d872d604661397bd5390bdfda3b15fea92",
+    "cartes/IV.pdf": "34a645cb6cec0d6ad00886c154e8fcc491ac86f53855cb8521da57ea5ecd4444",
     "cartes/V.pdf": "cd06a8f718faf6496fad2eaac362b99d520cbeff4cd1412039ca829d9c7e7744",
     "cartes/VI.pdf": "e704cda36842e9099694340fc9af9efc11f32d237f32ae0e502a59c4773a9611",
-    "cartes/VII.pdf": "01d67b211d0d0bfc8a3d83a6bff379a95c9a5adea4aa268ff03304f944a1cdc3"
+    "cartes/VII.pdf": "5d123d9d5894dfb5061e553660402c7d5234dfa7e9def07ca9acdf1ee48cdca2"
   },
   "passed": true,
   "errors": []

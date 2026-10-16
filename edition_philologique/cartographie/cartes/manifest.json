@@ -551,8 +551,8 @@
     {
       "id": "II",
       "pdf": "II.pdf",
-      "sha256": "5a4bc37c50b726e5cc8a40f5e2d0f8e96b8e31b83e6b8f52245a1eee245ff806",
-      "printed_text": "Lys\nTernoise\nAuthie\nAncre\nSomme\nRaincheval\nForceville\nBailleul\nMarquay\nLigny-Saint-Flochel\nBerguette · gare\nMonts-en-Ternois\nLa Croix-du-Bac\nOppy · hameau\nHazebrouck\nSaint-Pol\nThièvres\nLillers\nLucheux\nAcheux\n20 km\nN\n13 AOÛT — 24 SEPTEMBRE 1916\nDe la Lys à la Somme\n25 août · train puis route après Saint-Pol\n9–11 septembre · étapes vers la Somme\nOppy est le hameau de Beaudricourt, dans le Ternois.\nMonts : 9 sept. ; Oppy : 10 sept. ; Forceville : 23–24 sept.\nLiaisons entre étapes ; tracé historique des voies non reconstitué.\nRepères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie\n",
+      "sha256": "874aec101c660532427c78dc2601cfcc10156907043f62b72bb2eb6c0de8b3c4",
+      "printed_text": "Lys\nTernoise\nAuthie\nAncre\nSomme\nRaincheval\nForceville\nBailleul\nMarquay\nLigny-Saint-Flochel\nBerguette · gare\nMonts-en-Ternois\nLa Croix-du-Bac †\nOppy · hameau\nHazebrouck\nSaint-Pol\nThièvres\nLillers\nLucheux\nAcheux\n20 km\nN\n13 AOÛT — 24 SEPTEMBRE 1916\nDe la Lys à la Somme\n25 août · train puis route après Saint-Pol\n9–11 septembre · étapes vers la Somme\nOppy est le hameau de Beaudricourt, dans le Ternois.\nMonts : 9 sept. ; Oppy : 10 sept. ; Forceville : 23–24 sept.\n† Cantonnement prolongé d’après la continuité du récit.\nLiaisons entre étapes ; tracé historique des voies non reconstitué.\nRepères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie\n",
       "places": [
         {
           "id": "80659",
@@ -675,15 +675,15 @@
         },
         {
           "id": "croix_du_bac",
-          "label": "La Croix-du-Bac",
+          "label": "La Croix-du-Bac †",
           "lon": 2.792133,
           "lat": 50.675304,
           "x_l93": 685280.9359886602,
           "y_l93": 7064291.985738573,
           "label_bbox_pixels": [
-            618.57,
+            618.31,
             729.14,
-            764.12,
+            779.38,
             759.33
           ],
           "label_overlap": 0,
@@ -874,20 +874,20 @@
     {
       "id": "III",
       "pdf": "III.pdf",
-      "sha256": "3f00fec3dcc9aa325c331237c8157d6313fa7a0829966e47d550559c1fa81351",
-      "printed_text": "Garonne\nCanal du Midi\nTouch\nPurpan · amphithéâtre\nSaint-Étienne\nMontaudran\nBlagnac\nPech-David · coteau\nSaint-Sernin\nTerre-Cabade\nPouvourville\nLardenne\nMatabiau\n5 km\nN\nLA PERMISSION\nToulouse\nParis\nAmiens\n200 km\nN\n25 SEPTEMBRE — 6 OCTOBRE 1916\nLes promenades toulousaines\nSainte-Marie-des-Champs : Côte Pavée ; bâtiment de 1916\nnon localisé avec certitude, donc sans point sur ce plan.\nPech-David : repère du coteau ; promenade non retracée.\nAmiens → Paris → Toulouse\n25–27 septembre · étapes principales\nLiaison schématique entre lieux géoréférencés.\nRepères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie\nPurpan : localisation OSM, site patrimonial PA00094494. Limites communales contemporaines.\n",
+      "sha256": "d8b9a82c1351423bc08ab81f307063d872d604661397bd5390bdfda3b15fea92",
+      "printed_text": "Garonne\nCanal du Midi\nTouch\nPurpan · ruines [?]\nSaint-Étienne\nMontaudran\nBlagnac\nPech-David · coteau\nTerre-Cabade\nPouvourville\nLardenne\n5 km\nN\nLA PERMISSION\nToulouse\nParis\nAmiens\n200 km\nN\n25 SEPTEMBRE — 6 OCTOBRE 1916\nLes promenades toulousaines\nSainte-Marie-des-Champs : Côte Pavée ; bâtiment de 1916\nnon localisé avec certitude, donc sans point sur ce plan.\nPech-David : repère du coteau ; promenade non retracée.\nPurpan : identification des ruines proposée.\nAmiens → Paris → Toulouse\n25–27 septembre · étapes principales\nLiaison schématique entre lieux géoréférencés.\nRepères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie\nPurpan : localisation OSM, site patrimonial PA00094494. Limites communales contemporaines.\n",
       "places": [
         {
           "id": "purpan_amphitheatre",
-          "label": "Purpan · amphithéâtre",
+          "label": "Purpan · ruines [?]",
           "lon": 1.397724,
           "lat": 43.614804,
           "x_l93": 570627.8373452468,
           "y_l93": 6280840.750311565,
           "label_bbox_pixels": [
-            157.26,
+            200.63,
             724.56,
-            371.12,
+            370.37,
             754.75
           ],
           "label_overlap": 0,
@@ -963,23 +963,6 @@
           "outside_pixels": 0
         },
         {
-          "id": "saint_sernin",
-          "label": "Saint-Sernin",
-          "lon": 1.442246,
-          "lat": 43.608504,
-          "x_l93": 574208.380750838,
-          "y_l93": 6280068.77685547,
-          "label_bbox_pixels": [
-            383.93,
-            648.3,
-            496.74,
-            678.49
-          ],
-          "label_overlap": 0,
-          "point_overlap": 0,
-          "outside_pixels": 0
-        },
-        {
           "id": "terre_cabade",
           "label": "Terre-Cabade",
           "lon": 1.462459,
@@ -1025,23 +1008,6 @@
             610.59,
             428.78,
             640.78
-          ],
-          "label_overlap": 0,
-          "point_overlap": 0,
-          "outside_pixels": 0
-        },
-        {
-          "id": "matabiau",
-          "label": "Matabiau",
-          "lon": 1.453496,
-          "lat": 43.611448,
-          "x_l93": 575123.1310158153,
-          "y_l93": 6280378.051665052,
-          "label_bbox_pixels": [
-            574.68,
-            705.97,
-            663.69,
-            736.16
           ],
           "label_overlap": 0,
           "point_overlap": 0,
@@ -1158,9 +1124,43 @@
     {
       "id": "IV",
       "pdf": "IV.pdf",
-      "sha256": "7320b551d60b3b9720f1e00cf6c0c129cb3b2558b2d36d92bb8cd82d3b2f90a9",
-      "printed_text": "Authie\nAncre\nHallue\nSomme\nWarloy-Baillon\nBarlette\nBeauval\nAlbert\nAcheux\nSenlis-le-Sec\nPuchevillers\nLa Boisselle\nRibeaucourt\nBouzincourt\nBernaville\nBeauquesne\nHédauville\nRaincheval\nMartinsart\nProuville\nHérissart\nCanaples\n10 km\nN\n6 OCTOBRE — 30 NOVEMBRE 1916\nCantonnements et fourrages\n15–17 octobre · principales étapes\n2 novembre · changement de cantonnement\nCamp des 17–18 octobre entre Bouzincourt et Hédauville :\nemplacement exact inconnu ; aucun point de camp ajouté.\nLiaisons entre étapes ; tracé historique des voies non reconstitué.\nRepères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie\n",
+      "sha256": "34a645cb6cec0d6ad00886c154e8fcc491ac86f53855cb8521da57ea5ecd4444",
+      "printed_text": "Authie\nAncre\nHallue\nSomme\nRibeaucourt †\nBernaville\nWarloy-Baillon\nBarlette\nBeauval\nAlbert\nAcheux\nSenlis-le-Sec\nPuchevillers\nLa Boisselle\nBouzincourt\nBeauquesne\nHédauville †\nRaincheval\nMartinsart\nProuville\nHérissart\nCanaples\n10 km\nN\n6 OCTOBRE — 30 NOVEMBRE 1916\nCantonnements et fourrages\n15–17 octobre · principales étapes\n2 novembre · changement de cantonnement\nCamp des 17–18 octobre entre Bouzincourt et Hédauville :\nemplacement exact inconnu ; aucun point de camp ajouté.\n† Repère de voisinage ; visite du bourg non attestée.\nLiaisons entre étapes ; tracé historique des voies non reconstitué.\nRepères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie\n",
       "places": [
+        {
+          "id": "80671",
+          "label": "Ribeaucourt †",
+          "lon": 2.115,
+          "lat": 50.1179,
+          "x_l93": 636638.4957109098,
+          "y_l93": 7002537.2209908515,
+          "label_bbox_pixels": [
+            179.11,
+            616.25,
+            309.52,
+            646.44
+          ],
+          "label_overlap": 0,
+          "point_overlap": 0,
+          "outside_pixels": 0
+        },
+        {
+          "id": "80086",
+          "label": "Bernaville",
+          "lon": 2.1645,
+          "lat": 50.1306,
+          "x_l93": 640197.2709290101,
+          "y_l93": 7003912.686350502,
+          "label_bbox_pixels": [
+            233.69,
+            648.03,
+            326.84,
+            678.23
+          ],
+          "label_overlap": 0,
+          "point_overlap": 0,
+          "outside_pixels": 0
+        },
         {
           "id": "80820",
           "label": "Warloy-Baillon",
@@ -1186,9 +1186,9 @@
           "x_l93": 637132.9291378515,
           "y_l93": 7001174.60810933,
           "label_bbox_pixels": [
-            187.88,
+            77.21,
             592.69,
-            274.82,
+            164.15,
             625.69
           ],
           "label_overlap": 0,
@@ -1298,23 +1298,6 @@
           "outside_pixels": 0
         },
         {
-          "id": "80671",
-          "label": "Ribeaucourt",
-          "lon": 2.115,
-          "lat": 50.1179,
-          "x_l93": 636638.4957109098,
-          "y_l93": 7002537.2209908515,
-          "label_bbox_pixels": [
-            45.61,
-            625.67,
-            160.49,
-            655.87
-          ],
-          "label_overlap": 0,
-          "point_overlap": 0,
-          "outside_pixels": 0
-        },
-        {
           "id": "80129",
           "label": "Bouzincourt",
           "lon": 2.6099,
@@ -1326,23 +1309,6 @@
             422.07,
             800.09,
             452.27
-          ],
-          "label_overlap": 0,
-          "point_overlap": 0,
-          "outside_pixels": 0
-        },
-        {
-          "id": "80086",
-          "label": "Bernaville",
-          "lon": 2.1645,
-          "lat": 50.1306,
-          "x_l93": 640197.2709290101,
-          "y_l93": 7003912.686350502,
-          "label_bbox_pixels": [
-            237.59,
-            638.61,
-            330.74,
-            668.8
           ],
           "label_overlap": 0,
           "point_overlap": 0,
@@ -1367,15 +1333,15 @@
         },
         {
           "id": "80425",
-          "label": "Hédauville",
+          "label": "Hédauville †",
           "lon": 2.5687,
           "lat": 50.0456,
           "x_l93": 669076.6472714123,
           "y_l93": 6994216.386851821,
           "label_bbox_pixels": [
-            703.07,
+            702.8,
             490.4,
-            802.43,
+            817.69,
             520.6
           ],
           "label_overlap": 0,
@@ -1407,9 +1373,9 @@
           "x_l93": 673757.2683184891,
           "y_l93": 6993604.100108814,
           "label_bbox_pixels": [
-            809.75,
+            829.75,
             471.02,
-            908.07,
+            928.07,
             501.22
           ],
           "label_overlap": 0,
@@ -2194,7 +2160,7 @@
     {
       "id": "VII",
       "pdf": "VII.pdf",
-      "sha256": "01d67b211d0d0bfc8a3d83a6bff379a95c9a5adea4aa268ff03304f944a1cdc3",
+      "sha256": "5d123d9d5894dfb5061e553660402c7d5234dfa7e9def07ca9acdf1ee48cdca2",
       "printed_text": "Authie\nAncre\nHallue\nSenlis-le-Sec\nMartinsart\nLe Mesnil\nAuxi-le-Château\nToutencourt\nHérissart\nAcheux\nMolliens-au-Bois\nWarloy-Baillon\nVillers-Bocage\nPuchevillers\nRaincheval\nPierregot\nRubempré\nDoullens\nMontigny\nAlbert\nContay\n10 km\nN\n7 FÉVRIER — 30 AVRIL 1917\nHérissart et le Purchase Board\n7 février · installation à Hérissart\n30 avril · tournée de l’après-midi\nSélection des tournées personnelles attestées dans le carnet.\nAucun déplacement personnel vers Arras ou Bapaume n’est établi.\nLiaisons entre étapes ; tracé historique des voies non reconstitué.\nRepères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie\n",
       "places": [
         {
@@ -2539,7 +2505,6 @@
         },
         {
           "places": [
-            "80431",
             "80645",
             "80624",
             "80798"

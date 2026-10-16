@@ -19,3 +19,9 @@ Le dossier `edition_philologique/cartographie/` contient les 82 localisations co
 La carte générale dispose d'une page propre ; les sept cartes de chapitre restent avec leurs photographies. L'édition conserve 424 pages, 186 vis-à-vis et les renvois d'index vérifiés à partir du texte effectivement imprimé des cartes. Le témoin historique `conciliation_argon_2026_10/empreintes_livrables.json` n'est pas réécrit : les nouvelles empreintes sont dans le dossier cartographique.
 
 La publication se fait sur `main`, après contrôle de l'état distant et avance rapide, sans réécriture d'historique. Ce journal permet la reprise par Gemini ; aucune approbation de sa part n'est présumée.
+
+### Correctif de chronologie des cartes après `6954da9`
+
+À la question de Louis sur l'exactitude « à tout point de vue », une contre-vérification a révélé que Saint-Sernin était placé dans la première permission alors que la visite relève de la seconde. Le contrôle géométrique et la vérification globale des citations ne détectaient pas l'appartenance chronologique de chaque point. Ce défaut est reconnu et corrigé ; Matabiau, nom inféré dans III, est également retiré. Les contextes et identifications proposés sont désormais explicités sur les cartes, et la tournée du 30 avril ne reçoit plus de départ implicite d'Hérissart.
+
+Le fichier `cartographie/verification/attestations_lieux.json` couvre les 120 points restants (80 lieux). Le validateur contrôle la période, les citations et les réserves imprimées pour chaque occurrence. Deux régressions reproduisent les défauts et confirment leur rejet. Les transcriptions restent inchangées : cette passe examine leurs attestations, sans prétendre à une nouvelle collation intégrale des images. La forme composée Corbeil-Essonnes a cependant été vérifiée ponctuellement sur l'autographe 145 et conservée. Les témoins de la livraison initiale restent identifiés comme tels.

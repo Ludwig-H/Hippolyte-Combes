@@ -20655,23 +20655,12 @@ z
 " style="fill: #934d4c; stroke: #934d4c; stroke-width: 0.65; stroke-linecap: round"/>
    </g>
    <g id="line2d_2">
-    <path d="M 242.480994 273.674418 
-L 239.007222 252.101491 
+    <path d="M 239.007222 252.101491 
 L 221.982908 295.662708 
 L 189.657844 299.243712 
 " clip-path="url(#pfec4aa92b1)" style="fill: none; stroke: #b08b43; stroke-opacity: 0.82; stroke-width: 1.05; stroke-linecap: square"/>
    </g>
    <g id="patch_13">
-    <path d="M 240.500944 261.377849 
-Q 240.361993 260.514932 240.338574 260.369495 
-" style="fill: none; stroke: #b08b43; stroke-width: 0.65; stroke-linecap: round"/>
-    <path d="M 239.53538 262.929745 
-L 240.338574 260.369495 
-L 241.904857 262.548201 
-z
-" style="fill: #b08b43; stroke: #b08b43; stroke-width: 0.65; stroke-linecap: round"/>
-   </g>
-   <g id="patch_14">
     <path d="M 228.57584 278.792946 
 Q 228.258629 279.604614 228.205947 279.739414 
 " style="fill: none; stroke: #b08b43; stroke-width: 0.65; stroke-linecap: round"/>
@@ -20681,7 +20670,7 @@ L 227.961876 277.067256
 z
 " style="fill: #b08b43; stroke: #b08b43; stroke-width: 0.65; stroke-linecap: round"/>
    </g>
-   <g id="patch_15">
+   <g id="patch_14">
     <path d="M 201.570135 297.924056 
 Q 201.270876 297.957208 201.69392 297.910343 
 " style="fill: none; stroke: #b08b43; stroke-width: 0.65; stroke-linecap: round"/>
@@ -20818,7 +20807,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <g id="patch_16">
+    <g id="patch_15">
      <path d="M 307.092412 256.642658 
 L 357.190099 256.642658 
 L 357.190099 244.585458 
@@ -20829,7 +20818,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: middle; fill: #263b43" x="332.141255" y="253.950858" transform="rotate(-0 332.141255 253.950858)">Senlis-le-Sec</text>
    </g>
    <g id="text_5">
-    <g id="patch_17">
+    <g id="patch_16">
      <path d="M 368.881453 269.815492 
 L 411.638235 269.815492 
 L 411.638235 257.758292 
@@ -20840,7 +20829,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="369.053453" y="267.123692" transform="rotate(-0 369.053453 267.123692)">Martinsart</text>
    </g>
    <g id="text_6">
-    <g id="patch_18">
+    <g id="patch_17">
      <path d="M 378.806472 248.477843 
 L 417.267284 248.477843 
 L 417.267284 236.420643 
@@ -20851,7 +20840,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="378.978472" y="245.786043" transform="rotate(-0 378.978472 245.786043)">Le Mesnil</text>
    </g>
    <g id="text_7">
-    <g id="patch_19">
+    <g id="patch_18">
      <path d="M 86.659227 104.568094 
 L 161.804883 104.568094 
 L 161.804883 91.389294 
@@ -20862,7 +20851,7 @@ z
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="86.847227" y="101.625894" transform="rotate(-0 86.847227 101.625894)">Auxi-le-Château</text>
    </g>
    <g id="text_8">
-    <g id="patch_20">
+    <g id="patch_19">
      <path d="M 204.17808 269.436857 
 L 262.321486 269.436857 
 L 262.321486 256.258057 
@@ -20873,7 +20862,7 @@ z
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="262.133486" y="266.494657" transform="rotate(-0 262.133486 266.494657)">Toutencourt</text>
    </g>
    <g id="text_9">
-    <g id="patch_21">
+    <g id="patch_20">
      <path d="M 246.535635 284.506458 
 L 290.163385 284.506458 
 L 290.163385 271.327658 
@@ -20884,7 +20873,7 @@ z
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="246.723635" y="281.564258" transform="rotate(-0 246.723635 281.564258)">Hérissart</text>
    </g>
    <g id="text_10">
-    <g id="patch_22">
+    <g id="patch_21">
      <path d="M 313.510782 242.562982 
 L 348.544876 242.562982 
 L 348.544876 229.384182 
@@ -20895,7 +20884,7 @@ z
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="313.698782" y="239.620782" transform="rotate(-0 313.698782 239.620782)">Acheux</text>
    </g>
    <g id="text_11">
-    <g id="patch_23">
+    <g id="patch_22">
      <path d="M 152.64765 314.800832 
 L 219.745119 314.800832 
 L 219.745119 302.743632 
@@ -20906,7 +20895,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="219.573119" y="312.109032" transform="rotate(-0 219.573119 312.109032)">Molliens-au-Bois</text>
    </g>
    <g id="text_12">
-    <g id="patch_24">
+    <g id="patch_23">
      <path d="M 308.470394 295.753652 
 L 367.008175 295.753652 
 L 367.008175 283.696452 
@@ -20917,7 +20906,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="308.642394" y="293.061852" transform="rotate(-0 308.642394 293.061852)">Warloy-Baillon</text>
    </g>
    <g id="text_13">
-    <g id="patch_25">
+    <g id="patch_24">
      <path d="M 128.250735 301.029671 
 L 185.587204 301.029671 
 L 185.587204 288.972471 
@@ -20928,7 +20917,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="185.415204" y="298.337871" transform="rotate(-0 185.415204 298.337871)">Villers-Bocage</text>
    </g>
    <g id="text_14">
-    <g id="patch_26">
+    <g id="patch_25">
      <path d="M 243.077863 253.88745 
 L 291.607394 253.88745 
 L 291.607394 241.83025 
@@ -20939,7 +20928,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="243.249863" y="251.19565" transform="rotate(-0 243.249863 251.19565)">Puchevillers</text>
    </g>
    <g id="text_15">
-    <g id="patch_27">
+    <g id="patch_26">
      <path d="M 206.405215 240.125356 
 L 249.988403 240.125356 
 L 249.988403 228.068156 
@@ -20950,7 +20939,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="249.816403" y="237.433556" transform="rotate(-0 249.816403 237.433556)">Raincheval</text>
    </g>
    <g id="text_16">
-    <g id="patch_28">
+    <g id="patch_27">
      <path d="M 227.810908 301.691308 
 L 265.805439 301.691308 
 L 265.805439 289.634108 
@@ -20961,7 +20950,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="227.982908" y="298.999508" transform="rotate(-0 227.982908 298.999508)">Pierregot</text>
    </g>
    <g id="text_17">
-    <g id="patch_29">
+    <g id="patch_28">
      <path d="M 176.919272 287.439825 
 L 219.627678 287.439825 
 L 219.627678 275.382625 
@@ -20972,7 +20961,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="219.455678" y="284.748025" transform="rotate(-0 219.455678 284.748025)">Rubempré</text>
    </g>
    <g id="text_18">
-    <g id="patch_30">
+    <g id="patch_29">
      <path d="M 208.475288 168.653595 
 L 244.337288 168.653595 
 L 244.337288 156.596395 
@@ -20983,7 +20972,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="208.647288" y="165.961795" transform="rotate(-0 208.647288 165.961795)">Doullens</text>
    </g>
    <g id="text_19">
-    <g id="patch_31">
+    <g id="patch_30">
      <path d="M 264.489539 320.774316 
 L 303.463664 320.774316 
 L 303.463664 308.717116 
@@ -20994,7 +20983,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="264.661539" y="318.082516" transform="rotate(-0 264.661539 318.082516)">Montigny</text>
    </g>
    <g id="text_20">
-    <g id="patch_32">
+    <g id="patch_31">
      <path d="M 380.302255 295.522746 
 L 405.156255 295.522746 
 L 405.156255 283.465546 
@@ -21005,7 +20994,7 @@ z
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="380.474255" y="292.830946" transform="rotate(-0 380.474255 292.830946)">Albert</text>
    </g>
    <g id="text_21">
-    <g id="patch_33">
+    <g id="patch_32">
      <path d="M 296.956946 281.29467 
 L 325.568071 281.29467 
 L 325.568071 269.23747 
@@ -21033,7 +21022,7 @@ L 122.058011 336.665197
    <g id="text_22">
     <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: middle; fill: #263b43" x="83.660817" y="330.928256" transform="rotate(-0 83.660817 330.928256)">10 km</text>
    </g>
-   <g id="patch_34">
+   <g id="patch_33">
     <path d="M 406.20069 98.235462 
 Q 406.228416 90.652673 406.253485 83.796601 
 " style="fill: none; stroke: #263b43; stroke-width: 0.65; stroke-linecap: round"/>

@@ -4457,13 +4457,13 @@ z
    <g id="text_13">
     <g id="patch_30">
      <path d="M 279.292303 124.666067 
-L 342.674303 124.666067 
-L 342.674303 112.608867 
+L 349.313772 124.666067 
+L 349.313772 112.608867 
 L 279.292303 112.608867 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="279.464303" y="121.974267" transform="rotate(-0 279.464303 121.974267)">La Croix-du-Bac</text>
+    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="279.464303" y="121.974267" transform="rotate(-0 279.464303 121.974267)">La Croix-du-Bac †</text>
    </g>
    <g id="text_14">
     <g id="patch_31">
@@ -4608,9 +4608,12 @@ L 40.818898 378.708661
    <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="400.47874" transform="rotate(-0 22.677165 400.47874)">Monts : 9 sept. ; Oppy : 10 sept. ; Forceville : 23–24 sept.</text>
   </g>
   <g id="text_29">
-   <text style="font-size: 6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="410.00315" transform="rotate(-0 22.677165 410.00315)">Liaisons entre étapes ; tracé historique des voies non reconstitué.</text>
+   <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="410.00315" transform="rotate(-0 22.677165 410.00315)">† Cantonnement prolongé d’après la continuité du récit.</text>
   </g>
   <g id="text_30">
+   <text style="font-size: 6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="419.527559" transform="rotate(-0 22.677165 419.527559)">Liaisons entre étapes ; tracé historique des voies non reconstitué.</text>
+  </g>
+  <g id="text_31">
    <text style="font-size: 5.7px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="437.669291" transform="rotate(-0 22.677165 437.669291)">Repères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie</text>
   </g>
  </g>

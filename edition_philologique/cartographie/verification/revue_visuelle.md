@@ -1,5 +1,6 @@
 # Revue visuelle finale des huit cartes
 
+**Témoin de la première livraison `6954da9`.** Les corrections postérieures et l’état actuel sont décrits dans [contre_verification_chronologique.md](contre_verification_chronologique.md).
 Revue indépendante effectuée le **16 octobre 2026**, sur les huit PNG définitifs et sur leurs pages composées dans le PDF de **424 pages**. Les images ont été ouvertes séparément. L'agent chargé de cette revue a préparé les fonds géographiques mais n'a pas modifié le générateur des cartes.
 
 ## Résultat

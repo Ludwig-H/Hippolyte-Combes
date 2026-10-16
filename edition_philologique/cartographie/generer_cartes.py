@@ -531,13 +531,13 @@ def render_map(m):
         x, y = 0.40, 0.30
         for i, line in enumerate(m["notes"]):
             fig.text(x, y - i * 0.022, line, fontsize=6.5, va="top")
-        fig.text(x, 0.205, "Amiens → Paris → Toulouse", fontsize=7, color=COLORS[0])
+        fig.text(x, 0.19, "Amiens → Paris → Toulouse", fontsize=7, color=COLORS[0])
         fig.text(
-            x, 0.18, "25–27 septembre · étapes principales", fontsize=6.4, color=MUTED
+            x, 0.16, "25–27 septembre · étapes principales", fontsize=6.4, color=MUTED
         )
         fig.text(
             x,
-            0.153,
+            0.133,
             "Liaison schématique entre lieux géoréférencés.",
             fontsize=6.2,
             color=MUTED,

@@ -22931,7 +22931,7 @@ z
    </g>
    <g id="line2d_3">
     <path d="M 347.133967 234.789599 
-L 364.385842 234.789599 
+L 373.385842 234.789599 
 " clip-path="url(#pcaf9eeccc7)" style="fill: none; stroke: #8a9693; stroke-width: 0.45; stroke-linecap: square"/>
    </g>
    <g id="PathCollection_1">
@@ -23052,6 +23052,28 @@ z
    </g>
    <g id="text_5">
     <g id="patch_18">
+     <path d="M 81.418551 175.467704 
+L 137.549676 175.467704 
+L 137.549676 163.410504 
+L 81.418551 163.410504 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="81.590551" y="172.775904" transform="rotate(-0 81.590551 172.775904)">Ribeaucourt †</text>
+   </g>
+   <g id="text_6">
+    <g id="patch_19">
+     <path d="M 105.695511 161.162808 
+L 146.045636 161.162808 
+L 146.045636 149.105608 
+L 105.695511 149.105608 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="105.867511" y="158.471008" transform="rotate(-0 105.867511 158.471008)">Bernaville</text>
+   </g>
+   <g id="text_7">
+    <g id="patch_20">
      <path d="M 215.08315 266.088009 
 L 283.77365 266.088009 
 L 283.77365 252.909209 
@@ -23061,19 +23083,19 @@ z
     </g>
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="283.58565" y="263.145809" transform="rotate(-0 283.58565 263.145809)">Warloy-Baillon</text>
    </g>
-   <g id="text_6">
-    <g id="patch_19">
-     <path d="M 85.019593 185.996736 
-L 123.796061 185.996736 
-L 123.796061 172.817936 
-L 85.019593 172.817936 
+   <g id="text_8">
+    <g id="patch_21">
+     <path d="M 34.619124 185.996736 
+L 73.395593 185.996736 
+L 73.395593 172.817936 
+L 34.619124 172.817936 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="85.207593" y="183.054536" transform="rotate(-0 85.207593 183.054536)">Barlette</text>
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="73.207593" y="183.054536" transform="rotate(-0 73.207593 183.054536)">Barlette</text>
    </g>
-   <g id="text_7">
-    <g id="patch_20">
+   <g id="text_9">
+    <g id="patch_22">
      <path d="M 193.872717 186.748498 
 L 231.86928 186.748498 
 L 231.86928 173.569698 
@@ -23083,8 +23105,8 @@ z
     </g>
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="194.060717" y="183.806298" transform="rotate(-0 194.060717 183.806298)">Beauval</text>
    </g>
-   <g id="text_8">
-    <g id="patch_21">
+   <g id="text_10">
+    <g id="patch_23">
      <path d="M 362.131652 273.27763 
 L 391.713746 273.27763 
 L 391.713746 260.09883 
@@ -23094,8 +23116,8 @@ z
     </g>
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="362.319652" y="270.33543" transform="rotate(-0 362.319652 270.33543)">Albert</text>
    </g>
-   <g id="text_9">
-    <g id="patch_22">
+   <g id="text_11">
+    <g id="patch_24">
      <path d="M 300.214427 214.883698 
 L 335.248521 214.883698 
 L 335.248521 201.704898 
@@ -23105,8 +23127,8 @@ z
     </g>
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="300.402427" y="211.941498" transform="rotate(-0 300.402427 211.941498)">Acheux</text>
    </g>
-   <g id="text_10">
-    <g id="patch_23">
+   <g id="text_12">
+    <g id="patch_25">
      <path d="M 263.518299 247.842263 
 L 313.615987 247.842263 
 L 313.615987 235.785063 
@@ -23116,8 +23138,8 @@ z
     </g>
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="313.443987" y="245.150463" transform="rotate(-0 313.443987 245.150463)">Senlis-le-Sec</text>
    </g>
-   <g id="text_11">
-    <g id="patch_24">
+   <g id="text_13">
+    <g id="patch_26">
      <path d="M 234.794003 229.686542 
 L 283.323535 229.686542 
 L 283.323535 217.629342 
@@ -23127,8 +23149,8 @@ z
     </g>
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="234.966003" y="226.994742" transform="rotate(-0 234.966003 226.994742)">Puchevillers</text>
    </g>
-   <g id="text_12">
-    <g id="patch_25">
+   <g id="text_14">
+    <g id="patch_27">
      <path d="M 383.780756 257.463485 
 L 431.0821 257.463485 
 L 431.0821 245.406285 
@@ -23138,19 +23160,8 @@ z
     </g>
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="383.952756" y="254.771685" transform="rotate(-0 383.952756 254.771685)">La Boisselle</text>
    </g>
-   <g id="text_13">
-    <g id="patch_26">
-     <path d="M 22.028254 171.225063 
-L 71.51991 171.225063 
-L 71.51991 159.167863 
-L 22.028254 159.167863 
-z
-" style="fill: #ffffff; opacity: 0.88"/>
-    </g>
-    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="71.34791" y="168.533263" transform="rotate(-0 71.34791 168.533263)">Ribeaucourt</text>
-   </g>
-   <g id="text_14">
-    <g id="patch_27">
+   <g id="text_15">
+    <g id="patch_28">
      <path d="M 309.762421 262.845186 
 L 359.09014 262.845186 
 L 359.09014 250.787986 
@@ -23159,17 +23170,6 @@ z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: middle; fill: #263b43" x="334.42628" y="260.153386" transform="rotate(-0 334.42628 260.153386)">Bouzincourt</text>
-   </g>
-   <g id="text_15">
-    <g id="patch_28">
-     <path d="M 107.452871 165.405449 
-L 147.802996 165.405449 
-L 147.802996 153.348249 
-L 107.452871 153.348249 
-z
-" style="fill: #ffffff; opacity: 0.88"/>
-    </g>
-    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="107.624871" y="162.713649" transform="rotate(-0 107.624871 162.713649)">Bernaville</text>
    </g>
    <g id="text_16">
     <g id="patch_29">
@@ -23185,13 +23185,13 @@ z
    <g id="text_17">
     <g id="patch_30">
      <path d="M 316.963394 232.096357 
-L 359.83305 232.096357 
-L 359.83305 220.039157 
+L 366.472519 232.096357 
+L 366.472519 220.039157 
 L 316.963394 220.039157 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="317.135394" y="229.404557" transform="rotate(-0 317.135394 229.404557)">Hédauville</text>
+    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="317.135394" y="229.404557" transform="rotate(-0 317.135394 229.404557)">Hédauville †</text>
    </g>
    <g id="text_18">
     <g id="patch_31">
@@ -23206,14 +23206,14 @@ z
    </g>
    <g id="text_19">
     <g id="patch_32">
-     <path d="M 364.961967 240.818199 
-L 407.718749 240.818199 
-L 407.718749 228.760999 
-L 364.961967 228.760999 
+     <path d="M 373.961967 240.818199 
+L 416.718749 240.818199 
+L 416.718749 228.760999 
+L 373.961967 228.760999 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="365.133967" y="238.126399" transform="rotate(-0 365.133967 238.126399)">Martinsart</text>
+    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="374.133967" y="238.126399" transform="rotate(-0 374.133967 238.126399)">Martinsart</text>
    </g>
    <g id="text_20">
     <g id="patch_33">
@@ -23314,9 +23314,12 @@ L 40.818898 378.708661
    <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="400.47874" transform="rotate(-0 22.677165 400.47874)">emplacement exact inconnu ; aucun point de camp ajouté.</text>
   </g>
   <g id="text_31">
-   <text style="font-size: 6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="410.00315" transform="rotate(-0 22.677165 410.00315)">Liaisons entre étapes ; tracé historique des voies non reconstitué.</text>
+   <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="410.00315" transform="rotate(-0 22.677165 410.00315)">† Repère de voisinage ; visite du bourg non attestée.</text>
   </g>
   <g id="text_32">
+   <text style="font-size: 6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="419.527559" transform="rotate(-0 22.677165 419.527559)">Liaisons entre étapes ; tracé historique des voies non reconstitué.</text>
+  </g>
+  <g id="text_33">
    <text style="font-size: 5.7px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="437.669291" transform="rotate(-0 22.677165 437.669291)">Repères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie</text>
   </g>
  </g>

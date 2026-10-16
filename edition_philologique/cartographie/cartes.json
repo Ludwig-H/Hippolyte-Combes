@@ -225,12 +225,16 @@
             "color": 1,
             "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
           }
-        ]
+        ],
+        "labels": {
+          "croix_du_bac": "La Croix-du-Bac †"
+        }
       }
     ],
     "notes": [
       "Oppy est le hameau de Beaudricourt, dans le Ternois.",
-      "Monts : 9 sept. ; Oppy : 10 sept. ; Forceville : 23–24 sept."
+      "Monts : 9 sept. ; Oppy : 10 sept. ; Forceville : 23–24 sept.",
+      "† Cantonnement prolongé d’après la continuité du récit."
     ],
     "legend": [],
     "size_mm": [
@@ -248,8 +252,6 @@
           "31069",
           "purpan_amphitheatre",
           "lardenne",
-          "matabiau",
-          "saint_sernin",
           "saint_etienne",
           "terre_cabade",
           "montaudran",
@@ -276,6 +278,9 @@
             -7,
             8
           ]
+        },
+        "labels": {
+          "purpan_amphitheatre": "Purpan · ruines [?]"
         }
       },
       {
@@ -325,7 +330,8 @@
     "notes": [
       "Sainte-Marie-des-Champs : Côte Pavée ; bâtiment de 1916",
       "non localisé avec certitude, donc sans point sur ce plan.",
-      "Pech-David : repère du coteau ; promenade non retracée."
+      "Pech-David : repère du coteau ; promenade non retracée.",
+      "Purpan : identification des ruines proposée."
     ],
     "legend": [],
     "size_mm": [
@@ -409,12 +415,27 @@
             "color": 1,
             "geometry": "Liaisons entre étapes ; tracé historique des voies non reconstitué."
           }
-        ]
+        ],
+        "labels": {
+          "80671": "Ribeaucourt †",
+          "80425": "Hédauville †"
+        },
+        "offsets": {
+          "80671": [
+            0,
+            23
+          ],
+          "80086": [
+            7,
+            3
+          ]
+        }
       }
     ],
     "notes": [
       "Camp des 17–18 octobre entre Bouzincourt et Hédauville :",
-      "emplacement exact inconnu ; aucun point de camp ajouté."
+      "emplacement exact inconnu ; aucun point de camp ajouté.",
+      "† Repère de voisinage ; visite du bourg non attestée."
     ],
     "legend": [],
     "size_mm": [
@@ -657,7 +678,6 @@
           },
           {
             "places": [
-              "80431",
               "80645",
               "80624",
               "80798"

@@ -1,0 +1,16 @@
+[
+  {
+    "case": "saint_sernin_mauvais_chapitre",
+    "rejected_as_expected": true,
+    "errors": [
+      "Attestation III/saint_sernin: aucune attestation dans la période du chapitre"
+    ]
+  },
+  {
+    "case": "contexte_sans_reserve_imprimee",
+    "rejected_as_expected": true,
+    "errors": [
+      "Attestation II/croix_du_bac: réserve non visible dans la carte"
+    ]
+  }
+]

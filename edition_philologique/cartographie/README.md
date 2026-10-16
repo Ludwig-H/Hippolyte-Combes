@@ -54,7 +54,7 @@ La simplification des cours d'eau et de la frontière locale utilise une toléra
 
 ## Choix éditoriaux et contrôle
 
-Le catalogue final `donnees/lieux.json` contient **82 lieux** : 63 repères de mairie et 19 points particuliers. `repertoire_communes.json` conserve les 3 190 candidats contrôlés, sans les confondre avec les lieux retenus. Les libellés abrégés « Acheux », « Saint-Pol » et « Montigny » renvoient respectivement à Acheux-en-Amiénois, Saint-Pol-sur-Ternoise et Montigny-sur-l'Hallue. Thièvres désigne le village partagé entre les deux communes actuelles, sans attribution administrative historique.
+Le catalogue final `donnees/lieux.json` contient **80 lieux** : 63 repères de mairie et 17 points particuliers. `repertoire_communes.json` conserve les 3 190 candidats contrôlés, sans les confondre avec les lieux retenus. Les libellés abrégés « Acheux », « Saint-Pol » et « Montigny » renvoient respectivement à Acheux-en-Amiénois, Saint-Pol-sur-Ternoise et Montigny-sur-l'Hallue. Thièvres désigne le village partagé entre les deux communes actuelles, sans attribution administrative historique.
 
 Les principaux correctifs concernent Oppy (hameau de Beaudricourt), Le Mont-Noir (hameau, distinct du sommet), les étapes de septembre, la première permission sans Neuilly, les villes distinctes du retour de Millau et la suppression des déplacements personnels non attestés vers Arras, Bapaume ou Miraumont. Le faux plan urbain de Millau est remplacé par la boucle de la seconde permission. Les lieux sont sélectionnés pour conserver une lecture à l'échelle du livre ; les cartes ne prétendent pas répertorier chaque mention du carnet.
 
@@ -65,3 +65,13 @@ Le fichier `cartes.json` relie chaque liaison à ses scans justificatifs. Les 12
 La mention générale « repères actuels » ne résout pas les localisations historiques : Sercus garde sa réserve de lecture, le logement proche de Saint-Jans-Cappel et le camp entre Bouzincourt et Hédauville ne reçoivent pas de point précis, et Sainte-Marie-des-Champs reste sans bâtiment attribué. Le repère Pech-David désigne un coteau, non le point exact atteint par Combes.
 
 Les fichiers `verification/audit_*` décrivent les défauts des anciennes cartes ; `revue_geographique_finale`, `revue_visuelle` et `validation_cartes` documentent la livraison corrigée.
+
+## Contre-vérification chronologique après la première livraison
+
+La première livraison (`6954da9`) contrôlait les coordonnées et les extraits des parcours, sans assurer pour chaque point son appartenance au chapitre. Cela a laissé Saint-Sernin sur la carte III, bien que sa visite soit attestée le 29 janvier 1917, pendant VI. La [contre-vérification](verification/contre_verification_chronologique.md) documente cette erreur, sa correction et les limites restantes.
+
+`verification/attestations_lieux.json` rattache désormais les **120 points imprimés (80 lieux distincts)** à des citations exactes : 114 occurrences attestées, trois repères contextuels et trois identifications réservées. Le contrôleur vérifie la couverture des points, les citations, la période du chapitre et la présence des réserves dans le PDF. Canaples est documenté à la jonction III/IV, le 6 octobre. Ce contrôle porte sur la transcription actuelle ; il ne constitue pas une nouvelle collation intégrale des photographies autographes.
+
+Saint-Sernin et le nom inféré Matabiau sont retirés de III ; Purpan est présenté comme une identification proposée des ruines. Les symboles † distinguent le cantonnement prolongé de La Croix-du-Bac en II et les repères de voisinage Ribeaucourt/Hédauville en IV. La liaison du 30 avril commence désormais à Puchevillers, première destination nommée ; le départ d'Hérissart n'est plus dessiné par inférence. Les deux défauts « lieu attesté dans un autre chapitre » et « contexte sans réserve imprimée » ont été reproduits et sont rejetés par le nouveau contrôle.
+
+Les rapports `revue_geographique_finale` et `revue_visuelle` restent les témoins de la première livraison ; la contre-vérification et `validation_cartes.json` décrivent l'état corrigé.

@@ -1,5 +1,6 @@
 # Revue géographique indépendante des huit cartes
 
+**Témoin de la première livraison `6954da9`.** Les corrections postérieures et l’état actuel sont décrits dans [contre_verification_chronologique.md](contre_verification_chronologique.md).
 Revue du 16 octobre 2026. Le contrôle porte sur **82 lieux effectivement utilisés** : **63 repères de mairies** issus de l’API officielle des communes et **19 points particuliers** (17 objets IGN, l’amphithéâtre de Purpan d’après son périmètre OSM et un repère paysager municipal de Pech-David). Le catalogue final ne contient aucun lieu inutilisé. Les **3 190 entrées** de `repertoire_communes.json` sont une archive de candidats, et non autant de lieux du carnet.
 
 Chaque coordonnée du catalogue a été comparée à la source sauvegardée correspondante : **aucune divergence restante**. Les empreintes des données contrôlées et les douze liaisons examinées sont archivées dans `revue_geographique_finale.json`.

@@ -3126,11 +3126,6 @@ z
     </g>
     <text style="font-style: italic; font-size: 6.8px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #6b989f" x="71.212913" y="208.775852" transform="rotate(-0 71.212913 208.775852)">Touch</text>
    </g>
-   <g id="line2d_1">
-    <path d="M 235.403191 142.287506 
-L 223.533644 148.221772 
-" clip-path="url(#p252b18c3b8)" style="fill: none; stroke: #8a9693; stroke-width: 0.45; stroke-linecap: square"/>
-   </g>
    <g id="PathCollection_1">
     <defs>
      <path id="m77f0cccc97" d="M 0 2.5 
@@ -3174,49 +3169,39 @@ z
    </g>
    <g id="PathCollection_4">
     <g clip-path="url(#p252b18c3b8)">
-     <use xlink:href="#m05cb139106" x="251.505517" y="136.843349" style="fill: #ffffff; stroke: #263b43; stroke-width: 0.8"/>
+     <use xlink:href="#m77f0cccc97" x="246.647178" y="159.452468" style="fill: #934d4c; stroke: #934d4c; stroke-width: 0.8"/>
     </g>
    </g>
    <g id="PathCollection_5">
     <g clip-path="url(#p252b18c3b8)">
-     <use xlink:href="#m05cb139106" x="235.403191" y="142.287506" style="fill: #ffffff; stroke: #263b43; stroke-width: 0.8"/>
+     <use xlink:href="#m05cb139106" x="264.11061" y="143.938198" style="fill: #ffffff; stroke: #263b43; stroke-width: 0.8"/>
     </g>
    </g>
    <g id="PathCollection_6">
     <g clip-path="url(#p252b18c3b8)">
-     <use xlink:href="#m77f0cccc97" x="246.647178" y="159.452468" style="fill: #934d4c; stroke: #934d4c; stroke-width: 0.8"/>
+     <use xlink:href="#m77f0cccc97" x="306.253604" y="206.375439" style="fill: #934d4c; stroke: #934d4c; stroke-width: 0.8"/>
     </g>
    </g>
    <g id="PathCollection_7">
     <g clip-path="url(#p252b18c3b8)">
-     <use xlink:href="#m05cb139106" x="264.11061" y="143.938198" style="fill: #ffffff; stroke: #263b43; stroke-width: 0.8"/>
-    </g>
-   </g>
-   <g id="PathCollection_8">
-    <g clip-path="url(#p252b18c3b8)">
-     <use xlink:href="#m77f0cccc97" x="306.253604" y="206.375439" style="fill: #934d4c; stroke: #934d4c; stroke-width: 0.8"/>
-    </g>
-   </g>
-   <g id="PathCollection_9">
-    <g clip-path="url(#p252b18c3b8)">
      <use xlink:href="#m05cb139106" x="251.573667" y="259.653543" style="fill: #ffffff; stroke: #263b43; stroke-width: 0.8"/>
     </g>
    </g>
-   <g id="PathCollection_10">
+   <g id="PathCollection_8">
     <g clip-path="url(#p252b18c3b8)">
      <use xlink:href="#m05cb139106" x="238.480938" y="240.254785" style="fill: #ffffff; stroke: #263b43; stroke-width: 0.8"/>
     </g>
    </g>
    <g id="text_4">
     <g id="patch_10">
-     <path d="M 73.814536 126.727076 
+     <path d="M 91.930974 126.727076 
 L 165.546974 126.727076 
 L 165.546974 114.669876 
-L 73.814536 114.669876 
+L 91.930974 114.669876 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="165.374974" y="124.035276" transform="rotate(-0 165.374974 124.035276)">Purpan · amphithéâtre</text>
+    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="165.374974" y="124.035276" transform="rotate(-0 165.374974 124.035276)">Purpan · ruines [?]</text>
    </g>
    <g id="text_5">
     <g id="patch_11">
@@ -3264,17 +3249,6 @@ z
    </g>
    <g id="text_9">
     <g id="patch_15">
-     <path d="M 173.578675 161.044028 
-L 222.847269 161.044028 
-L 222.847269 148.986828 
-L 173.578675 148.986828 
-z
-" style="fill: #ffffff; opacity: 0.88"/>
-    </g>
-    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="222.675269" y="158.352228" transform="rotate(-0 222.675269 158.352228)">Saint-Sernin</text>
-   </g>
-   <g id="text_10">
-    <g id="patch_16">
      <path d="M 269.93861 149.966798 
 L 324.37661 149.966798 
 L 324.37661 137.909598 
@@ -3284,8 +3258,8 @@ z
     </g>
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="270.11061" y="147.274998" transform="rotate(-0 270.11061 147.274998)">Terre-Cabade</text>
    </g>
-   <g id="text_11">
-    <g id="patch_17">
+   <g id="text_10">
+    <g id="patch_16">
      <path d="M 195.368479 265.682143 
 L 245.745667 265.682143 
 L 245.745667 253.624943 
@@ -3295,8 +3269,8 @@ z
     </g>
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="245.573667" y="262.990343" transform="rotate(-0 245.573667 262.990343)">Pouvourville</text>
    </g>
-   <g id="text_12">
-    <g id="patch_18">
+   <g id="text_11">
+    <g id="patch_17">
      <path d="M 153.117703 178.012419 
 L 191.792171 178.012419 
 L 191.792171 165.955219 
@@ -3306,36 +3280,25 @@ z
     </g>
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="153.289703" y="175.320619" transform="rotate(-0 153.289703 175.320619)">Lardenne</text>
    </g>
-   <g id="text_13">
-    <g id="patch_19">
-     <path d="M 259.111692 135.093774 
-L 297.654473 135.093774 
-L 297.654473 123.036574 
-L 259.111692 123.036574 
-z
-" style="fill: #ffffff; opacity: 0.88"/>
-    </g>
-    <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="259.283692" y="132.401974" transform="rotate(-0 259.283692 132.401974)">Matabiau</text>
-   </g>
-   <g id="line2d_2">
+   <g id="line2d_1">
     <path d="M 45.263622 279.858898 
 L 133.278498 279.858898 
 " clip-path="url(#p252b18c3b8)" style="fill: none; stroke: #263b43; stroke-width: 1.05; stroke-linecap: square"/>
    </g>
-   <g id="line2d_3">
+   <g id="line2d_2">
     <path d="M 45.263622 279.858898 
 L 45.263622 276.851906 
 " clip-path="url(#p252b18c3b8)" style="fill: none; stroke: #263b43; stroke-width: 0.7; stroke-linecap: square"/>
    </g>
-   <g id="line2d_4">
+   <g id="line2d_3">
     <path d="M 133.278498 279.858898 
 L 133.278498 276.851906 
 " clip-path="url(#p252b18c3b8)" style="fill: none; stroke: #263b43; stroke-width: 0.7; stroke-linecap: square"/>
    </g>
-   <g id="text_14">
+   <g id="text_12">
     <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: middle; fill: #263b43" x="89.27106" y="271.940413" transform="rotate(-0 89.27106 271.940413)">5 km</text>
    </g>
-   <g id="patch_20">
+   <g id="patch_18">
     <path d="M 406.229823 89.343453 
 Q 406.330297 83.827953 406.417536 79.039055 
 " style="fill: none; stroke: #263b43; stroke-width: 0.65; stroke-linecap: round"/>
@@ -3345,12 +3308,12 @@ L 407.766305 81.864089
 z
 " style="fill: #263b43; stroke: #263b43; stroke-width: 0.65; stroke-linecap: round"/>
    </g>
-   <g id="text_15">
+   <g id="text_13">
     <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: middle; fill: #263b43" x="406.53569" y="70.648539" transform="rotate(-0 406.53569 70.648539)">N</text>
    </g>
   </g>
   <g id="axes_2">
-   <g id="patch_21">
+   <g id="patch_19">
     <path d="M 18.141732 401.385827 
 L 163.275591 401.385827 
 L 163.275591 303.874016 
@@ -3358,7 +3321,7 @@ L 18.141732 303.874016
 z
 " style="fill: #e9f0f0"/>
    </g>
-   <g id="patch_22">
+   <g id="patch_20">
     <path d="M 115.41723 304.272012 
 L 115.578566 304.34483 
 L 115.64157 304.28071 
@@ -5670,7 +5633,7 @@ L 115.224931 303.874016
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f4f2e9; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_23">
+   <g id="patch_21">
     <path d="M 65.791193 361.990208 
 L 66.054135 362.168178 
 L 66.117981 362.294123 
@@ -5705,7 +5668,7 @@ L 65.697912 361.890253
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f4f2e9; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_24">
+   <g id="patch_22">
     <path d="M 64.815806 358.691961 
 L 63.93947 358.051321 
 L 63.407119 358.12282 
@@ -5739,7 +5702,7 @@ L 65.278734 358.813876
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f4f2e9; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_25">
+   <g id="patch_23">
     <path d="M 56.44093 350.809698 
 L 56.529212 350.990237 
 L 56.326271 350.89265 
@@ -5752,7 +5715,7 @@ L 56.277735 350.664477
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f4f2e9; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_26">
+   <g id="patch_24">
     <path d="M 57.81878 347.442785 
 L 57.913161 347.550068 
 L 57.945238 347.742796 
@@ -5776,7 +5739,7 @@ L 57.514473 347.255388
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f4f2e9; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_27">
+   <g id="patch_25">
     <path d="M 49.711726 341.928105 
 L 49.794944 342.039058 
 L 49.737004 342.288476 
@@ -5800,7 +5763,7 @@ L 49.435562 341.920052
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f4f2e9; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_28">
+   <g id="patch_26">
     <path d="M 33.206364 324.882804 
 L 33.264158 324.880379 
 L 33.253896 324.980855 
@@ -5818,7 +5781,7 @@ L 33.150092 324.783853
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f4f2e9; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_29">
+   <g id="patch_27">
     <path d="M 163.013661 337.436232 
 L 162.652349 337.382342 
 L 162.310785 337.409638 
@@ -6188,7 +6151,7 @@ L 163.275591 337.571194
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_30">
+   <g id="patch_28">
     <path d="M 132.711161 306.432335 
 L 132.799063 306.436613 
 L 132.69323 306.643802 
@@ -6349,7 +6312,7 @@ L 132.786299 305.860294
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_31">
+   <g id="patch_29">
     <path d="M 133.578945 303.883549 
 L 133.401553 303.976484 
 L 133.321375 304.111833 
@@ -6576,7 +6539,7 @@ L 133.608198 303.874016
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_32">
+   <g id="patch_30">
     <path d="M 58.159459 396.67341 
 L 58.434488 396.828764 
 L 58.547464 397.003745 
@@ -6843,7 +6806,7 @@ L 58.191432 396.223515
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_33">
+   <g id="patch_31">
     <path d="M 34.855216 304.008264 
 L 34.772871 304.01867 
 L 34.600897 303.967595 
@@ -6861,7 +6824,7 @@ L 34.96539 303.874016
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_34">
+   <g id="patch_32">
     <path d="M 24.389813 304.103913 
 L 24.34681 304.218476 
 L 24.254746 304.267701 
@@ -6872,7 +6835,7 @@ L 24.334509 303.969937
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_35">
+   <g id="patch_33">
     <path d="M 144.303666 362.694936 
 L 144.596857 362.739267 
 L 144.90522 362.717492 
@@ -7230,7 +7193,7 @@ L 144.077127 362.574842
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_36">
+   <g id="patch_34">
     <path d="M 162.924829 357.994795 
 L 162.771158 358.26859 
 L 162.747697 358.445971 
@@ -7667,7 +7630,7 @@ L 163.275591 357.715953
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_37">
+   <g id="patch_35">
     <path d="M 149.02996 391.614797 
 L 148.905857 391.797396 
 L 148.673185 391.792644 
@@ -7681,7 +7644,7 @@ L 149.211868 391.435417
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_38">
+   <g id="patch_36">
     <path d="M 61.025513 316.800553 
 L 61.005543 316.932077 
 L 61.115625 317.116149 
@@ -7721,7 +7684,7 @@ L 60.620318 316.5649
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_39">
+   <g id="patch_37">
     <path d="M 56.697543 312.775408 
 L 56.879115 312.71061 
 L 57.016405 312.84093 
@@ -7745,7 +7708,7 @@ L 56.499134 312.904312
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_40">
+   <g id="patch_38">
     <path d="M 58.242987 313.998402 
 L 58.059057 314.206791 
 L 58.01988 314.188065 
@@ -7757,7 +7720,7 @@ L 58.237304 313.82695
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_41">
+   <g id="patch_39">
     <path d="M 60.131671 310.104845 
 L 59.966051 310.265062 
 L 59.847954 310.324288 
@@ -7772,7 +7735,7 @@ L 60.136588 310.029859
 z
 " clip-path="url(#p5446ee03ab)" style="fill: #f6f6f0; stroke: #abb4ae; stroke-width: 0.55; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_42">
+   <g id="patch_40">
     <path d="M 57.484499 313.309758 
 L 57.401018 313.473414 
 L 57.398019 313.297684 
@@ -7783,36 +7746,36 @@ z
    </g>
    <g id="matplotlib.axis_3"/>
    <g id="matplotlib.axis_4"/>
-   <g id="patch_43">
+   <g id="patch_41">
     <path d="M 18.141732 401.385827 
 L 18.141732 303.874016 
 " style="fill: none; stroke: #c5cdc6; stroke-width: 0.45; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
-   <g id="patch_44">
+   <g id="patch_42">
     <path d="M 163.275591 401.385827 
 L 163.275591 303.874016 
 " style="fill: none; stroke: #c5cdc6; stroke-width: 0.45; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
-   <g id="patch_45">
+   <g id="patch_43">
     <path d="M 18.141732 401.385827 
 L 163.275591 401.385827 
 " style="fill: none; stroke: #c5cdc6; stroke-width: 0.45; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
-   <g id="patch_46">
+   <g id="patch_44">
     <path d="M 18.141732 303.874016 
 L 163.275591 303.874016 
 " style="fill: none; stroke: #c5cdc6; stroke-width: 0.45; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
-   <g id="text_16">
+   <g id="text_14">
     <text style="font-size: 6.8px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="18.141732" y="299.874016" transform="rotate(-0 18.141732 299.874016)">LA PERMISSION</text>
    </g>
-   <g id="line2d_5">
+   <g id="line2d_4">
     <path d="M 99.435579 309.246174 
 L 99.818416 323.335597 
 L 90.285466 394.391243 
 " clip-path="url(#p5446ee03ab)" style="fill: none; stroke: #934d4c; stroke-opacity: 0.82; stroke-width: 1.05; stroke-linecap: square"/>
    </g>
-   <g id="patch_47">
+   <g id="patch_45">
     <path d="M 99.653796 317.277145 
 Q 99.66911 317.840722 99.664684 317.677845 
 " style="fill: none; stroke: #934d4c; stroke-width: 0.65; stroke-linecap: round"/>
@@ -7822,7 +7785,7 @@ L 98.399938 315.311325
 z
 " style="fill: #934d4c; stroke: #934d4c; stroke-width: 0.65; stroke-linecap: round"/>
    </g>
-   <g id="patch_48">
+   <g id="patch_46">
     <path d="M 94.118383 365.821877 
 Q 94.003255 366.680006 93.984759 366.817866 
 " style="fill: none; stroke: #934d4c; stroke-width: 0.65; stroke-linecap: round"/>
@@ -7832,23 +7795,23 @@ L 93.114544 364.279614
 z
 " style="fill: #934d4c; stroke: #934d4c; stroke-width: 0.65; stroke-linecap: round"/>
    </g>
-   <g id="PathCollection_11">
+   <g id="PathCollection_9">
     <g clip-path="url(#p5446ee03ab)">
      <use xlink:href="#m05cb139106" x="99.435579" y="309.246174" style="fill: #ffffff; stroke: #263b43; stroke-width: 0.8"/>
     </g>
    </g>
-   <g id="PathCollection_12">
+   <g id="PathCollection_10">
     <g clip-path="url(#p5446ee03ab)">
      <use xlink:href="#m77f0cccc97" x="99.818416" y="323.335597" style="fill: #934d4c; stroke: #934d4c; stroke-width: 0.8"/>
     </g>
    </g>
-   <g id="PathCollection_13">
+   <g id="PathCollection_11">
     <g clip-path="url(#p5446ee03ab)">
      <use xlink:href="#m77f0cccc97" x="90.285466" y="394.391243" style="fill: #934d4c; stroke: #934d4c; stroke-width: 0.8"/>
     </g>
    </g>
-   <g id="text_17">
-    <g id="patch_49">
+   <g id="text_15">
+    <g id="patch_47">
      <path d="M 94.340107 396.738003 
 L 136.585763 396.738003 
 L 136.585763 383.559203 
@@ -7858,8 +7821,8 @@ z
     </g>
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="94.528107" y="393.795803" transform="rotate(-0 94.528107 393.795803)">Toulouse</text>
    </g>
-   <g id="text_18">
-    <g id="patch_50">
+   <g id="text_16">
+    <g id="patch_48">
      <path d="M 105.630416 329.924997 
 L 129.394791 329.924997 
 L 129.394791 316.746197 
@@ -7869,8 +7832,8 @@ z
     </g>
     <text style="font-weight: 700; font-size: 9.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="105.818416" y="326.982797" transform="rotate(-0 105.818416 326.982797)">Paris</text>
    </g>
-   <g id="text_19">
-    <g id="patch_51">
+   <g id="text_17">
+    <g id="patch_49">
      <path d="M 64.980064 319.517415 
 L 95.364939 319.517415 
 L 95.364939 307.460215 
@@ -7880,25 +7843,25 @@ z
     </g>
     <text style="font-size: 8.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: end; fill: #263b43" x="95.192939" y="316.825615" transform="rotate(-0 95.192939 316.825615)">Amiens</text>
    </g>
-   <g id="line2d_6">
+   <g id="line2d_5">
     <path d="M 27.575433 396.997795 
 L 51.977208 396.997795 
 " clip-path="url(#p5446ee03ab)" style="fill: none; stroke: #263b43; stroke-width: 1.05; stroke-linecap: square"/>
    </g>
-   <g id="line2d_7">
+   <g id="line2d_6">
     <path d="M 27.575433 396.997795 
 L 27.575433 395.730142 
 " clip-path="url(#p5446ee03ab)" style="fill: none; stroke: #263b43; stroke-width: 0.7; stroke-linecap: square"/>
    </g>
-   <g id="line2d_8">
+   <g id="line2d_7">
     <path d="M 51.977208 396.997795 
 L 51.977208 395.730142 
 " clip-path="url(#p5446ee03ab)" style="fill: none; stroke: #263b43; stroke-width: 0.7; stroke-linecap: square"/>
    </g>
-   <g id="text_20">
+   <g id="text_18">
     <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: middle; fill: #263b43" x="39.77632" y="392.557988" transform="rotate(-0 39.77632 392.557988)">200 km</text>
    </g>
-   <g id="patch_52">
+   <g id="patch_50">
     <path d="M 152.980857 315.527877 
 Q 152.901998 314.364004 152.872265 313.92519 
 " style="fill: none; stroke: #263b43; stroke-width: 0.65; stroke-linecap: round"/>
@@ -7908,43 +7871,46 @@ L 154.458346 316.624143
 z
 " style="fill: #263b43; stroke: #263b43; stroke-width: 0.65; stroke-linecap: round"/>
    </g>
-   <g id="text_21">
+   <g id="text_19">
     <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: middle; fill: #263b43" x="152.580627" y="307.716459" transform="rotate(-0 152.580627 307.716459)">N</text>
    </g>
   </g>
-  <g id="line2d_9">
+  <g id="line2d_8">
    <path d="M 20.409449 49.889764 
 L 433.133858 49.889764 
 " style="fill: none; stroke: #b8a87f; stroke-width: 0.7; stroke-linecap: square"/>
   </g>
-  <g id="text_22">
+  <g id="text_20">
    <text style="font-size: 7.2px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="20.409449" y="23.570816" transform="rotate(-0 20.409449 23.570816)">25 SEPTEMBRE — 6 OCTOBRE 1916</text>
   </g>
-  <g id="text_23">
+  <g id="text_21">
    <text style="font-size: 17.5px; font-family: 'EB Garamond'; text-anchor: start; fill: #263b43" x="20.409449" y="46.440748" transform="rotate(-0 20.409449 46.440748)">Les promenades toulousaines</text>
   </g>
-  <g id="text_24">
+  <g id="text_22">
    <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="181.417323" y="324.428815" transform="rotate(-0 181.417323 324.428815)">Sainte-Marie-des-Champs : Côte Pavée ; bâtiment de 1916</text>
   </g>
-  <g id="text_25">
+  <g id="text_23">
    <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="181.417323" y="334.406768" transform="rotate(-0 181.417323 334.406768)">non localisé avec certitude, donc sans point sur ce plan.</text>
   </g>
-  <g id="text_26">
+  <g id="text_24">
    <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="181.417323" y="344.38472" transform="rotate(-0 181.417323 344.38472)">Pech-David : repère du coteau ; promenade non retracée.</text>
   </g>
+  <g id="text_25">
+   <text style="font-size: 6.5px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #263b43" x="181.417323" y="354.362673" transform="rotate(-0 181.417323 354.362673)">Purpan : identification des ruines proposée.</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 7px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #934d4c" x="181.417323" y="367.370079" transform="rotate(-0 181.417323 367.370079)">Amiens → Paris → Toulouse</text>
+  </g>
   <g id="text_27">
-   <text style="font-size: 7px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #934d4c" x="181.417323" y="360.566929" transform="rotate(-0 181.417323 360.566929)">Amiens → Paris → Toulouse</text>
+   <text style="font-size: 6.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="181.417323" y="380.976378" transform="rotate(-0 181.417323 380.976378)">25–27 septembre · étapes principales</text>
   </g>
   <g id="text_28">
-   <text style="font-size: 6.4px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="181.417323" y="371.905512" transform="rotate(-0 181.417323 371.905512)">25–27 septembre · étapes principales</text>
+   <text style="font-size: 6.2px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="181.417323" y="393.222047" transform="rotate(-0 181.417323 393.222047)">Liaison schématique entre lieux géoréférencés.</text>
   </g>
   <g id="text_29">
-   <text style="font-size: 6.2px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="181.417323" y="384.151181" transform="rotate(-0 181.417323 384.151181)">Liaison schématique entre lieux géoréférencés.</text>
-  </g>
-  <g id="text_30">
    <text style="font-size: 5.7px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="437.669291" transform="rotate(-0 22.677165 437.669291)">Repères actuels · Lambert-93 · fonds Natural Earth / IGN · sources et réserves : dossier cartographie</text>
   </g>
-  <g id="text_31">
+  <g id="text_30">
    <text style="font-size: 5.6px; font-family: 'Noto Sans', 'DejaVu Sans'; text-anchor: start; fill: #677572" x="22.677165" y="447.193701" transform="rotate(-0 22.677165 447.193701)">Purpan : localisation OSM, site patrimonial PA00094494. Limites communales contemporaines.</text>
   </g>
  </g>

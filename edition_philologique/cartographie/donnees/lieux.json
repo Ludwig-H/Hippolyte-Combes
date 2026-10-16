@@ -800,45 +800,6 @@
     "note": "Peut porter un libellé de coteau, sans pictogramme de bâtiment ni affirmation de sommet atteint. Distinct du village de Pouvourville. Les coordonnées sont explicites dans le texte indexé du document municipal ; téléchargement intégral en erreur lors de cette passe.",
     "source_context": "https://metropole.toulouse.fr/quartiers/rangueil-sauzelong-jules-julien-pech-david-pouvourville"
   },
-  "matabiau": {
-    "id": "matabiau",
-    "label": "Matabiau",
-    "longitude": 1.453496,
-    "latitude": 43.611448,
-    "type": [
-      "gare voyageurs uniquement",
-      "transport",
-      "équipement de transport"
-    ],
-    "insee": [
-      "31555"
-    ],
-    "source": "https://data.geopf.fr/geocodage/search?q=Gare+Matabiau+Toulouse&index=poi&limit=5",
-    "source_record": "EQ_RESEA0000000073015866",
-    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
-    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
-    "note": "",
-    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
-  },
-  "saint_sernin": {
-    "id": "saint_sernin",
-    "label": "Saint-Sernin",
-    "longitude": 1.442246,
-    "latitude": 43.608504,
-    "type": [
-      "culte chrétien",
-      "zone d'activité ou d'intérêt"
-    ],
-    "insee": [
-      "31555"
-    ],
-    "source": "https://data.geopf.fr/geocodage/search?q=Basilique+Saint+Sernin+Toulouse&index=poi&limit=5",
-    "source_record": "SURFACTI0000000073016342",
-    "source_title": "IGN Géoplateforme, géocodage index des points d’intérêt BD TOPO",
-    "geometry_status": "repère contemporain du lieu-dit ou édifice, pas reconstitution parcellaire de 1916",
-    "note": "",
-    "attestation": "identification géographique ; attestation dans le carnet à vérifier séparément"
-  },
   "saint_etienne": {
     "id": "saint_etienne",
     "label": "Saint-Étienne",
