@@ -170,14 +170,37 @@ def check_records(records: list[dict], checks: Checks):
         f"Expected Latin loci paralleli apparatus on all 186 folios, got {non_empty_loci}",
     )
 
+    from apparat_critique import validate_entries, render_notes
+    from loci_verifies import validate_loci_entries
+    for record in records:
+        if record['scan_num'] != 1:
+            try:
+                validate_entries(record['apparat_entries'], record['lines'], record['scan_num'])
+                checks.require(record['marginal_notes'] == render_notes(record['apparat_entries']),
+                               f"Apparat {record['scan_num']:03d}: rendu incomplet ou divergent")
+            except (ValueError, KeyError) as exc:
+                checks.require(False, str(exc))
+        checks.require(record.get('foliotation_statut', '').startswith('Foliotation éditoriale'),
+                       f"Folio {record['scan_num']}: convention éditoriale non déclarée")
+    try:
+        validate_loci_entries(records)
+    except ValueError as exc:
+        checks.require(False, str(exc))
+    from conciliation_argon import load_manifest
+    accepted = load_manifest()
     by_num = {r.get("scan_num"): r for r in records}
+    for patch in accepted['patches']:
+        for field, value in patch['changes'].items():
+            checks.require(by_num[patch['scan_num']].get(field) == value,
+                           f"Conciliation {patch['scan_num']:03d}: {field} divergent")
     # Verify Folio 1 recto (scan_num == 2) Lines 1 and 2 specifically:
     f1r = by_num.get(2, {})
     f1r_lines = f1r.get("lines", [])
     checks.require(
-        len(f1r_lines) >= 2
-        and f1r_lines[0] == r"25 Ma. Levé dès 8 H m. Bien reposé \hfill Juillet 1916"
-        and f1r_lines[1] == "Courte nuit, pensé très vivement à Margte —",
+        len(f1r_lines) == 22
+        and f1r_lines[0] == r"25 Ma. \hfill Juillet 1916"
+        and f1r_lines[1] == r"Levé [dès ?] 8 H m. \hfill Bien reposé"
+        and f1r_lines[2] == "Toute nuit, pensé très vivement à Margte —",
         f"Folio 1 recto lines 1-2 do not match verified reading: {f1r_lines[:2]}",
     )
     if 91 in by_num and 93 in by_num:
@@ -222,6 +245,12 @@ def check_exports(records: list[dict], md_path: Path, tex_path: Path, checks: Ch
         )
 
 
+    from cartes_et_index import build_indexes_latex
+    context = tex.split('% CHAPITRE I ', 1)[0]
+    checks.require(build_indexes_latex(records, document_context=context) in tex,
+                   'TeX: index différents des attestations et commentaires courants')
+
+
 def ascii_text(text: str) -> str:
     return "".join(c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c))
 
@@ -244,6 +273,9 @@ def check_pdf(records: list[dict], pdf_path: Path, tolerance: float, checks: Che
         return None
 
     folio_to_num = {ascii_text(r["folio"].upper()): r["scan_num"] for r in records}
+    records_digest = hashlib.sha256(json.dumps(records, ensure_ascii=False, sort_keys=True).encode('utf-8')).hexdigest()
+    checks.require('edition-records-sha256:' + records_digest in (document.metadata.get('keywords') or ''),
+                   'PDF: empreinte des enregistrements absente ou périmée')
     transcriptions: dict[int, int] = {}
     facsimiles: dict[int, int] = {}
     page_texts: list[str] = []

@@ -49,3 +49,5 @@ La [vue048](lot_001_048/048_hutte_litiere.png) fournit un exemple de certitudes 
 `indexer_extraits.py` contrôle les rectangles de chaque lot, leur empreinte et l’égalité exacte des pixels des PNG avec les JPEG sources décodés. Il régénère l’index. Les extraits ne subissent ni redimensionnement, ni contraste, ni retouche. Ce contrôle matériel ne certifie pas leur déchiffrement.
 
 `construire_concordance.py` régénère l’index des tours à partir de l’état figé avant relecture. Pour ajouter une comparaison, conserver la photographie entière, les coordonnées du rectangle, la forme effectivement observée, les parallèles et la limite de l’identification. Les décisions éditoriales sont consignées séparément dans le dossier de relecture.
+
+Le [complément de conciliation avec Gemini 4 Argon](COMPLEMENT_ARGON_2026_10.md) précise les lectures et réserves réexaminées le 16 octobre 2026.

@@ -888,8 +888,13 @@ def enrichir_edition_philologique(records: list[dict], baseline_records: list[di
         # Commentaire historique resserré (Registre 3)
         r["historique"] = clean_and_condense_historique(raw_hist_by_num[n], n)
 
+    # Concilier les lectures et commentaires avant de calculer leurs renvois.
+    from conciliation_argon import apply_conciliation
+    records = apply_conciliation(records)
+
     # 2. Construire l'apparat latin des Loci Paralleli (Registre 2)
-    loci_map = build_loci_paralleli(records)
+    from loci_verifies import build_verified_loci
+    loci_map = build_verified_loci(records, LOCI_ENTITIES, folio_latin_ref)
     for r in records:
         r["loci"] = loci_map[r["scan_num"]]
 

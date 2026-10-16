@@ -1,0 +1,64 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "case": "idempotence",
+      "passed": true
+    },
+    {
+      "case": "vues_desordonnees",
+      "passed": true,
+      "rejection": "Conciliation : les 186 vues doivent être ordonnées sans doublon."
+    },
+    {
+      "case": "photographie_divergente",
+      "passed": true,
+      "rejection": "Conciliation 001 : photographie divergente."
+    },
+    {
+      "case": "apport_concurrent_divergent",
+      "passed": true,
+      "rejection": "Conciliation 002/lines : nouvel apport à concilier avant export."
+    },
+    {
+      "case": "preuve_absente",
+      "passed": true,
+      "rejection": "Conciliation 001 : preuve absente."
+    },
+    {
+      "case": "photographie_empreinte_divergente",
+      "passed": true,
+      "rejection": "Conciliation 001 : photographie modifiée."
+    },
+    {
+      "case": "correction_dupliquee",
+      "passed": true,
+      "rejection": "Conciliation : correction dupliquée ou vue inconnue."
+    },
+    {
+      "case": "champ_sans_garde",
+      "passed": true,
+      "rejection": "Conciliation 001 : champs sans garde ou non autorisés."
+    },
+    {
+      "case": "champ_non_autorise",
+      "passed": true,
+      "rejection": "Conciliation 001 : champs sans garde ou non autorisés."
+    },
+    {
+      "case": "base_temoin_modifiee",
+      "passed": true,
+      "rejection": "La base de conciliation avec Argon a été modifiée."
+    },
+    {
+      "case": "revision_parente_modifiee",
+      "passed": true,
+      "rejection": "La révision philologique parente a changé ; conciliation nécessaire."
+    },
+    {
+      "case": "proposition_modifiee",
+      "passed": true,
+      "rejection": "Proposition de conciliation modifiée : propositions_lectures.json"
+    }
+  ]
+}

@@ -23,6 +23,7 @@ TIKZ_ARBRE_COMBES_ALRIC = r"""
   hero/.style={draw=bordeaux, line width=0.8pt, fill=white, rounded corners=1.2pt, inner sep=2.6pt},
   edge/.style={draw=black!75, line width=0.4pt}
 ]
+\phantomsection\label{genealogie:combes}
 % Grands-parents
 \node[box, text width=32mm] (gp1) at (-48mm, 36mm) {\textbf{François Combes}\\(1789–1855)\\\textit{Maître menuisier-ébéniste à Millau}};
 \node[box, text width=32mm] (gm1) at (-8mm, 36mm) {\textbf{Madeleine Fabre-Hugou}\\(1792–1863)\\\textit{Millau}};
@@ -109,7 +110,7 @@ TIKZ_ARBRE_CALMELS_ALLIANCES = r"""
 
 % Branche Faure à Neuilly-sur-Seine
 \node[box, text width=124mm] (faure) at (2mm, -21.5mm) {\textbf{Branche cousine de Neuilly-sur-Seine (16, rue d'Armenonville) :} \textbf{M\textsuperscript{me} Faure} et ses cinq enfants : \textbf{Marguerite}, \textbf{Germaine}, \textbf{Marcel Faure} (en permission en janv. 1917), \textbf{Henri Faure} (aspirant) et \textbf{André Faure} (candidat à Polytechnique)};
-\end{tikzpicture}%
+\end{tikzpicture}\phantomsection\label{genealogie:calmels}%
 }
 \par\vspace{0.8mm}{\scriptsize\textit{Arbre généalogique II.} La famille Calmels–Cartairade et ses alliances à Millau, Toulouse et Neuilly-sur-Seine.}
 \end{center}
@@ -142,7 +143,7 @@ TIKZ_ORGANIGRAMME_MILITAIRE = r"""
 \draw[edge] (org_mid) -| (asc.north);
 \draw[edge] (org_mid) -- (forage.north);
 \draw[edge] (org_mid) -| (coll.north);
-\end{tikzpicture}%
+\end{tikzpicture}\phantomsection\label{genealogie:militaires}%
 }
 \par\vspace{0.8mm}{\scriptsize\textit{Organigramme III.} Cadre militaire britannique et français et réseau intellectuel d'Hippolyte Combes (1916–1917).}
 \end{center}
@@ -737,6 +738,9 @@ TIKZ_CARTES_CHAPITRES = {
 
 
 # =============================================================================
+for _chapter, _map in list(TIKZ_CARTES_CHAPITRES.items()):
+    TIKZ_CARTES_CHAPITRES[_chapter] = _map.replace(r'\end{tikzpicture}', r'\end{tikzpicture}\phantomsection\label{carte:' + _chapter + '}', 1)
+
 # 3. INDEX DES NOMS DE PERSONNES (INDEX NOMINUM) & INDEX DES NOMS DE LIEUX (INDEX LOCORUM)
 # =============================================================================
 
@@ -754,23 +758,23 @@ INDEX_PERSONNES_CATALOG = [
     ("Brammas", "collègue interprète militaire", r"\bBrammas\b", [45]),
     ("Bresson, Capitaine", "officier de la Mission militaire française auprès de la V\\textsuperscript{e} Armée à Toutencourt", r"\bBresson\b", [105]),
     ("Calmels, Anne-Marie dite « Mimi » (1888–1975)", "sœur de Marguerite Calmels, future épouse de M\\textsuperscript{e} Joseph Delcamps", r"\bMimi\b", [139, 141, 142, 143]),
-    ("Calmels, D\\textsuperscript{r} Gabriel (1852–1921) \\& Valentine Cartairade (1858–1943)", "parents de Marguerite Calmels au 10, rue Alfred-Guibert à Millau", r"\bCalmels\b", [54, 59, 60, 139, 141, 142, 143]),
+    ('Calmels (famille)', 'famille de Marguerite Calmels, dont ses parents Gabriel Calmels et Valentine Cartairade', '\\bCalmels\\b', [54, 59, 60, 139, 141, 142, 143]),
     ("Calmels, Madeleine (1882–1961, \\textit{Mad\\textsuperscript{ne}})", "sœur aînée de Marguerite Calmels, épouse du D\\textsuperscript{r} Fernand Vincens", r"\b(?:Madeleine|Madne)\b", [133, 134, 135, 141, 143]),
     ("Calmels, Marie Marguerite (1892–1974, \\textit{Marg\\textsuperscript{te}}, \\textit{M\\textsuperscript{te}}, \\textit{Gueïte})", "fiancée puis épouse d'Hippolyte Combes", r"\b(?:Margte|Marg\.|Mte|Marguerite|Gueïte|ma\s+Femme)\b", [2, 6, 19, 54, 55, 56, 57, 58, 59, 60, 62, 64, 112, 114, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143]),
     ("Calmels, Pierre", "frère de Marguerite Calmels à Millau", r"\bPierre\b", [139, 141, 143]),
-    ("Capron, M\\textsuperscript{me}", "propriétaire d'une batteuse agricole à Beauquesne (Somme)", r"\bCapron\b", [115, 120]),
-    ("Carluvant, M.", "maître tailleur et logeur d'Hippolyte Combes au n\\textsuperscript{o}~1, route de Léalvillers à Acheux", r"\bCarluvant\b", [94, 102, 118, 146, 147, 148]),
+    ('Capron, M\\textsuperscript{me}', 'personne mentionnée à propos d’une location de battage à Beauquesne', '\\bCapron\\b', [115, 120]),
+    ("Carluvant, M.", "tailleur et logeur d'Hippolyte Combes au n\\textsuperscript{o}~1, route de Léalvillers à Acheux", r"\bCarluvant\b", [94, 102, 118, 146, 147, 148]),
     ("Cliquennois, M\\textsuperscript{me}", "habitante de Steenwerck (Nord) chez qui Hippolyte Combes prend le café", r"\bCliquennois\b", [26]),
     ("Combes, François Augustin Hippolyte (1825–1899)", "avocat à Millau puis à Toulouse, père d'Hippolyte Combes", r"\bFrançois[\s-]+(?:Augustin\s+)?Hippolyte\s+Combes\b", [60, 143]),
     ("Combes, Françoise (1871–1942, \\textit{Sœur Marie de la Croix})", "sœur aînée d'Hippolyte Combes, carmélite à Périgueux", r"^\b$", []),
     ("Combes, Joséphine (1873–1914, \\textit{Joseph\\textsuperscript{e}})", "sœur d'Hippolyte Combes, décédée à Nogent-le-Rotrou en octobre 1914", r"\b(?:Josephe|Joséphine)\b", [57, 60]),
     ("Combes, Maria (1875–1903)", "sœur d'Hippolyte Combes, religieuse décédée à Carthage", r"^\b$", []),
-    ("Combes, Marie Lucien Hippolyte (1876–1970)", "auteur du \\textit{Livre-Journal}, professeur d'anglais et interprète auprès de l'Armée britannique (mention nominale autographe \\textit{Hipp\\textsuperscript{te}})", r"(?<!St\s)\bHippte\b", [1, 135]),
+    ('Combes, Marie Lucien Hippolyte (1876–1970)', "auteur du \\textit{Livre-Journal}, professeur d'anglais et interprète auprès de l'Armée britannique", '(?<!St\\s)\\bHippte\\b', [1, 135]),
     ("Connelly", "soldat britannique, ordonnance (\\textit{groom}) d'Hippolyte Combes à la 152\\textsuperscript{e} Compagnie A.S.C.", r"\bConnelly\b", [12, 39, 41, 45, 74]),
     ("Croughton, Lieutenant", "officier britannique du service automobile et des achats", r"\bCroughton\b", [109, 150]),
     ("Crouzet, Abbé Jean", "cousin germain de Marguerite Calmels, prêtre à Toulouse (futur curé de la Dalbade)", r"\bJean\b", [54, 58, 59, 60, 133, 139]),
-    ("Crouzet, Émile (1842–1921, \\textit{M.~C\\textsuperscript{zt}}, \\textit{Oncle}) \\& Élisabeth Calmels (\\textit{Tante})", "oncle et tante de Marguerite Calmels à Toulouse (rue du Taur et rue Pharaon)", r"\b(?:Crouzet|Czt\.?|Oncle|Tante)\b", [54, 55, 56, 58, 60, 62, 64, 132, 133, 137, 139]),
-    ("Cuisinier, M\\textsuperscript{me}", "commerçante et hôtesse à Acheux-en-Amiénois (Somme)", r"\bCuisinier\b", [112, 118, 126]),
+    ('Crouzet (famille ; Émile, Élisabeth et Jean)', 'famille toulousaine apparentée aux Calmels', '\\b(?:Crouzet|Czt\\.?)\\b', [54, 55, 56, 58, 60, 62, 64, 132, 133, 137, 139]),
+    ('Cuisinier, M\\textsuperscript{me}', 'hôtesse rencontrée notamment à Louvencourt et Acheux', '\\bCuisinier\\b', [112, 118, 126]),
     ("Curtis, Lieutenant (\\textit{C\\textsuperscript{tis}})", "officier britannique d'approvisionnement et de fourrage (18\\textsuperscript{e} Division puis Acheux)", r"\b(?:Curtis|Ctis)\b", [2, 6, 13, 14, 19, 21, 22, 23, 30, 37, 45, 74, 87, 89, 90, 91, 93, 96, 97, 101, 104, 105, 107]),
     ("Delille, M\\textsuperscript{me}", "habitante d'Acheux-en-Amiénois (Somme)", r"\bDelille\b", [147]),
     ("Delsol (dames)", "relations toulousaines visitées avec Marguerite Calmels", r"\bDelsol\b", [137]),
@@ -780,7 +784,7 @@ INDEX_PERSONNES_CATALOG = [
     ("Dubois, Paul", "maire de Montigny-sur-l'Hallue (Somme)", r"\bDubois\s+Paul\b", [119]),
     ("Duchâteau, Victor \\& famille", "famille logeant Hippolyte Combes près du camp des briqueteries à Albert", r"\bDuchâteau\b", [80, 82, 87, 91, 93]),
     ("Dupuich, M.", "interprète militaire français détaché auprès du XIII\\textsuperscript{e} Corps britannique à Candas", r"\bDupuich\b", [167]),
-    ("Faure, M\\textsuperscript{me} \\& ses enfants (Marguerite, Germaine, Marcel, Henri, André)", "cousines de Marguerite Calmels à Neuilly-sur-Seine (16, rue d'Armenonville)", r"\b(?:Faure|Marcel|André)\b", [52, 130, 131]),
+    ('Faure, M\\textsuperscript{me} \\& ses enfants (Marguerite, Germaine, Marcel, Henri, André)', 'famille visitée à Neuilly-sur-Seine ; parenté avec les Calmels rapprochée du dossier familial', '\\b(?:Faure|Marcel|André)\\b', [52, 130, 131]),
     ("Flutre, Fortuné \\& Louis-Fernand (1892–1978)", "instituteur du Mesnil-Martinsart et son fils élève de l'École normale supérieure", r"\bFlutre\b", [168]),
     ("Ford, Capitaine E.~M.", "officier britannique du \\textit{18th Divisional Train, A.S.C.}, décoré de la \\textit{Military Cross}", r"\bFord\b", [50, 76]),
     ("Gilbert, Second Lieutenant", "sous-lieutenant britannique originaire de Jersey, poète, attaché au \\textit{Purchase Board} à Hérissart", r"\bGilbert\b", [166, 179, 181, 185, 186]),
@@ -794,7 +798,7 @@ INDEX_PERSONNES_CATALOG = [
     ("Hancock", "militaire britannique mentionné lors de la marche vers Bailleul", r"\bHancock\b", [7]),
     ("Henriette", "amie de Marguerite Calmels à Toulouse", r"\bHenriette\b", [137, 138]),
     ("Hippolyte, saint", "martyr chrétien dont le reliquaire est conservé en l'église Saint-Jean-Baptiste de Steenwerck", r"\bSt\s+Hippte\b", [26]),
-    ("Houthouan (ou \\textit{Houtteman}), M. \\& M\\textsuperscript{me}", "exploitants agricoles belges de la ferme de Belle-Église à Arquèves (Somme)", r"\b(?:Houthouan|Houtteman)\b", [95, 108, 171]),
+    ("Houtteman (lecture réservée), M. \\& M\\textsuperscript{me}", "exploitants agricoles belges de la ferme de Belle-Église à Arquèves (Somme)", r"\b(?:Houthouan|Houtteman)\b", [95, 108, 171]),
     ("Hughes, Major", "officier supérieur britannique au \\textit{18th Divisional Train}", r"\bHughes\b", [90, 96]),
     ("Huguet, Capitaine (\\textit{Cap.~H.})", "officier de la Mission militaire française auprès du XIII\\textsuperscript{e} Corps à Acheux", r"\b(?:Huguet|Cap\.\s*H\.)\b", [94, 105, 123]),
     ("Imbert", "opticien à Paris", r"\bImbert\b", [116, 121, 122, 131]),
@@ -811,7 +815,7 @@ INDEX_PERSONNES_CATALOG = [
     ("Lovet, Capitaine", "officier britannique revu au \\textit{refilling point} près d'Albert", r"\bLovet\b", [151]),
     ("Maeterlinck, Maurice (1862–1949)", "écrivain belge, auteur du recueil \\textit{Les Débris de la guerre} (1916) acquis par Hippolyte Combes", r"\bMaeterlinck\b", [53]),
     ("Maria", "domestique au service de la famille Crouzet à Toulouse", r"\bMaria\b", [64]),
-    ("Marie", "domestique à Toulouse", r"\bMarie\b(?!\s+de\s+la\s+Croix)", [140]),
+    ("Marie", "personne recevant des étrennes à Toulouse", r"\bMarie\b(?!\s+de\s+la\s+Croix)", [140]),
     ("Martin, Alexis", "auteur du guide illustré \\textit{Une visite à Amiens} rapporté à Hippolyte Combes", r"\bAlexis\s+Martin\b", [182]),
     ("Maurin", "collègue interprète militaire dans la vallée de la Lys", r"\bMaurin\b", [13, 14, 19, 21, 24, 26]),
     ("Maxse, Major-General Sir Ivor (1862–1958)", "commandant la 18\\textsuperscript{e} Division britannique (\\textit{18th Eastern Division}) de 1914 à janvier 1917", r"\bMaxse\b", [16]),
@@ -827,11 +831,11 @@ INDEX_PERSONNES_CATALOG = [
     ("Pizzi, Lieutenant", "officier interprète chef du détachement français auprès de la 18\\textsuperscript{e} Division britannique", r"\bPizzi\b", [48, 85, 90, 92]),
     ("Raucoule", "collègue interprète militaire originaire du Midi", r"\bRaucoule\b", [88, 90, 163]),
     ("Renard, M.", "fournisseur de paille et de fourrage à Rubempré (Somme)", r"\bRenard\b", [124]),
-    ("Romert, M.", "propriétaire terrien à Auxi-le-Château (Pas-de-Calais)", r"\bRomert\b", [152]),
+    ('Romert, M.', 'personne visitée à Auxi-le-Château, décrite comme riche et aimable', '\\bRomert\\b', [152]),
     ("Schumacher", "adjudant interprète au bureau de la Mission française de la 18\\textsuperscript{e} Division", r"\bSchumacher\b", [23, 83]),
     ("Serpin", "sous-officier interprète à la Mission française", r"\bSerpin\b", [90]),
     ("Sorgues, M.", "directeur d'école à Varennes-en-Croix (Somme)", r"\bSorgues\b", [97]),
-    ("Spagnol, M\\textsuperscript{me}", "horticultrice-fleuriste à Nice ayant expédié un panier de fleurs à Toulouse", r"\bSpagnol\b", [134, 136, 158]),
+    ("Spagnol, M\\textsuperscript{me}", "personne mentionnée au sujet d’un panier de fleurs ; profession non établie", r"\bSpagnol\b", [134, 136, 158]),
     ("Testet, Henri", "pâtissier aux allées Lafayette à Toulouse", r"\bTestet\b", [136]),
     ("Trefcon, Capitaine", "officier français rencontré rue Sire-Firmin-Leroux à Amiens", r"\bTrefcon\b", [119]),
     ("Valet", "interprète militaire français rattaché à la 2\\textsuperscript{e} Division australienne à Hérissart", r"\bValet\b", [164, 166]),
@@ -855,7 +859,7 @@ INDEX_LIEUX_CATALOG = [
     ("Ancre (vallée de l')", "affluent de la Somme traversant Miraumont, Albert, Aveluy, Buire, Ribemont et Heilly", r"\bAncre\b", [99, 105, 153, 181]),
     ("Antibes (Alpes-Maritimes)", "ville de la Côte d'Azur évoquée avec l'interprète Maurin", r"\bAntibes\b", [24]),
     ("Armentières (Nord)", "ville industrielle linière sur la Lys, bombardée par l'artillerie allemande", r"\bArmentières\b", [17, 19, 21, 22]),
-    ("Arquèves \\& ferme de Belle-Église (Somme)", "commune du canton d'Acheux et ancienne commanderie exploitée par la famille Houthouan", r"\b(?:Arquèves|Belle[- ]Église)\b", [95, 108, 110, 111, 113, 125, 171, 179]),
+    ("Arquèves \\& ferme de Belle-Église (Somme)", "commune du canton d'Acheux et ancienne commanderie exploitée par la famille dont le nom est proposé Houtteman", r"\b(?:Arquèves|Belle[- ]Église)\b", [95, 108, 110, 111, 113, 125, 171, 179]),
     ("Arras (Pas-de-Calais)", "préfecture du Pas-de-Calais et secteur de l'offensive britannique d'avril 1917 (bataille de la Scarpe)", r"\bArras\b", [32, 118, 178, 182]),
     ("Authie (Somme)", "village de la haute vallée de l'Authie au nord d'Acheux", r"\bAuthie\b", [100, 102, 107, 108, 109, 112, 118, 121, 122, 154]),
     ("Auxi-le-Château (Pas-de-Calais)", "chef-lieu de canton sur l'Authie visité en tournée", r"\bAuxi-le-Château\b", [124, 152, 158]),
@@ -940,11 +944,11 @@ INDEX_LIEUX_CATALOG = [
     ("Roumanie", "royaume entré en guerre aux côtés des Alliés le 27 août 1916", r"\bRoumanie\b", [30, 53]),
     ("Rubempré \\& Septenville (Somme)", "chef-lieu de commune et hameau voisins d'Hérissart", r"\b(?:Rubempré|Septenville)\b", [95, 104, 106, 112, 120, 122, 124, 149, 161, 162, 172, 173, 174, 175, 177, 178, 180, 181, 184]),
     ("Sailly-sur-la-Lys (Pas-de-Calais)", "commune de la vallée de la Lys (pont, écluse et ruines de l'église Saint-Vaast)", r"\bSailly\b", [16]),
-    ("Saint-Chély-d'Apcher (Lozère)", "ville de Lozère traversée sur la ligne des Causses (et où Hippolyte Combes décédera à l'Hôtel du Centre le 2 septembre 1970)", r"\bSt-Chély\b", [1, 145]),
+    ("Saint-Chély-d'Apcher (Lozère)", "ville de Lozère traversée sur la ligne des Causses (et où Hippolyte Combes décédera à l'Hôtel du Centre le 2 septembre 1970)", r"\b(?:St|Saint)-Chély\b", [1, 145]),
     ("Saint-Flour (Cantal)", "sous-préfecture du Cantal traversée sous la neige le 6 février 1917", r"\bSt-Flour\b|\bSaint-Flour\b", [143, 144, 145]),
     ("Saint-Jans-Cappel (Nord)", "village au pied du Mont-Noir où cantonne Hippolyte Combes du 28 juillet au 5 août 1916", r"\b(?:St-Jans-Cappel|Saint-Jans-Cappel)\b", [5, 6, 7, 8, 10, 11, 12]),
     ("Saint-Léger-lès-Authie (Somme)", "village de la vallée de l'Authie", r"\bSt-Léger\b", [108, 109, 112, 121, 122, 123]),
-    ("Saint-Michel-sur-Ternoise (Pas-de-Calais)", "village et église ancienne à l'est de Saint-Pol-sur-Ternoise", r"(?<!Bvd\s)(?<!faubg\s)\bSt-Michel\b", [32, 37]),
+    ("Saint-Michel-sur-Ternoise (Pas-de-Calais)", "village et église ancienne à l'est de Saint-Pol-sur-Ternoise", r"\bSt[. -]+Michel[- ](?:s[- ]|sur[- ])Ternoise\b", [32, 37]),
     ("Saint-Pol-sur-Ternoise (Pas-de-Calais)", "sous-préfecture du Pas-de-Calais, gare de débarquement et église des Carmes (1697)", r"\b(?:St-Pol|Saint-Pol)\b", [27, 28, 32, 34, 36, 37]),
     ("Senlis-le-Sec (Somme)", "village entre Warloy-Baillon et Bouzincourt", r"\bSenlis\b", [75, 77, 87, 96, 110, 112, 117, 124, 151, 159, 169, 171, 181]),
     ("Sercus (Nord)", "village de Flandre intérieure et église Saint-Érasme visités le 25 juillet 1916", r"\bSercus\b", [2]),
@@ -971,7 +975,22 @@ def _collect_scans_for_entry(records: list[dict], regex_pat: str, explicit_scans
     return sorted(matched)
 
 
-def build_indexes_latex(records: list[dict]) -> str:
+def index_document_sources(document_context=""):
+    sources = [
+        {'id': 'genealogie_combes', 'text': TIKZ_ARBRE_COMBES_ALRIC, 'reference': r'Généalogie I (p.~\pageref{genealogie:combes})'},
+        {'id': 'genealogie_calmels', 'text': TIKZ_ARBRE_CALMELS_ALLIANCES, 'reference': r'Généalogie II (p.~\pageref{genealogie:calmels})'},
+        {'id': 'organigramme', 'text': TIKZ_ORGANIGRAMME_MILITAIRE, 'reference': r'Organigramme III (p.~\pageref{genealogie:militaires})'},
+    ]
+    marker = r'\section{Destin'
+    if marker in document_context:
+        biography = document_context[document_context.index(marker):].split(r'\section{Présentation', 1)[0]
+        sources.append({'id': 'biographie', 'text': biography, 'reference': r'Prolégomènes, §~I (début p.~\pageref{proleg:biographie})'})
+    for chapter, source in TIKZ_CARTES_CHAPITRES.items():
+        sources.append({'id': 'carte:' + chapter, 'text': source, 'reference': 'Carte du chapitre ' + chapter + r' (p.~\pageref{carte:' + chapter + '})'})
+    return sources
+
+
+def build_indexes_latex(records: list[dict], document_context: str = "") -> str:
     """
     Construit le code LaTeX des deux index finaux :
     1. Index des noms de personnes (Index nominum)
@@ -979,26 +998,25 @@ def build_indexes_latex(records: list[dict]) -> str:
     Chaque occurrence cite à la fois le folio du carnet (f° X r°/v°) et la page
     exacte du fichier PDF généré (p. \\pageref{fol:N}).
     """
-    person_items = []
-    for headword, desc, pat, explicit in INDEX_PERSONNES_CATALOG:
-        scans = _collect_scans_for_entry(records, pat, explicit)
-        if scans:
-            refs = ", ".join(folio_fr_ref(s) for s in scans)
-        else:
-            refs = r"Prolégomènes \& Annexe~I (p.~\pageref{annexe:doc1}--\pageref{annexe:doc5})"
-        person_items.append(
-            f"\\noindent\\hangindent=4.5mm\\textbf{{{headword}}}, {desc} : {refs}.\\par\\vspace{{0.55mm}}"
-        )
-
-    place_items = []
-    for headword, desc, pat, explicit in INDEX_LIEUX_CATALOG:
-        scans = _collect_scans_for_entry(records, pat, explicit)
-        if not scans:
-            continue
-        refs = ", ".join(folio_fr_ref(s) for s in scans)
-        place_items.append(
-            f"\\noindent\\hangindent=4.5mm\\textbf{{{headword}}}, {desc} : {refs}.\\par\\vspace{{0.55mm}}"
-        )
+    from index_verifie import collect_index_entries, index_reference_text, validate_index_entries
+    from index_complements import EXTRA_PERSONS, EXTRA_PLACES
+    document_sources = index_document_sources(document_context)
+    import unicodedata
+    def alphabetic(row):
+        return ''.join(c for c in unicodedata.normalize('NFKD', row[0]).casefold() if not unicodedata.combining(c))
+    people = collect_index_entries(records, sorted(INDEX_PERSONNES_CATALOG + EXTRA_PERSONS, key=alphabetic), 'personne', document_sources)
+    places = collect_index_entries(records, sorted(INDEX_LIEUX_CATALOG + EXTRA_PLACES, key=alphabetic), 'lieu', document_sources)
+    validate_index_entries(records, people + places, document_sources)
+    person_items, place_items = [], []
+    for entries, items in [(people, person_items), (places, place_items)]:
+        for entry in entries:
+            refs = index_reference_text(entry, folio_fr_ref)
+            if not refs and entry['headword'].startswith(('Combes, Françoise', 'Combes, Maria')):
+                refs = r'Généalogie I (p.~\pageref{genealogie:combes})'
+            if not refs:
+                continue
+            headword, desc = entry['headword'], entry['description']
+            items.append(f"\\noindent\\hangindent=4.5mm\\textbf{{{headword}}}, {desc} : {refs}.\\par\\vspace{{0.55mm}}")
 
     persons_joined = "\n".join(person_items)
     places_joined = "\n".join(place_items)
@@ -1014,7 +1032,7 @@ def build_indexes_latex(records: list[dict]) -> str:
 \\addcontentsline{{toc}}{{chapter}}{{Index des noms de personnes (\\textit{{Index nominum}})}}
 \\markboth{{Index des noms de personnes}}{{Index des noms de personnes}}
 {{\\fontsize{{7.0pt}}{{8.3pt}}\\selectfont
-\\noindent Chaque entrée renvoie simultanément à la foliotation du \\textit{{Livre-Journal}} (\\texttt{{f\\textsuperscript{{o}}~X~r\\textsuperscript{{o}}/v\\textsuperscript{{o}}}}) et à la pagination exacte de la présente édition (\\texttt{{p.~Y}}).\\par\\vspace{{2.0mm}}
+\\noindent Les renvois citent les noms effectivement présents dans le texte ; \\textit{{Comm.}} distingue les seules mentions du commentaire et \\textit{{lect. inc.}} une lecture réservée. Les attestations du carnet renvoient à la foliotation éditoriale du \\textit{{Livre-Journal}} (\\texttt{{f\\textsuperscript{{o}}~X~r\\textsuperscript{{o}}/v\\textsuperscript{{o}}}}) et à la pagination exacte de la présente édition (\\texttt{{p.~Y}}). Les renvois aux arbres, cartes et prolégomènes sont signalés séparément et donnent la page de ces documents.\\par\\vspace{{2.0mm}}
 {persons_joined}
 \\par}}
 
@@ -1025,7 +1043,7 @@ def build_indexes_latex(records: list[dict]) -> str:
 \\addcontentsline{{toc}}{{chapter}}{{Index des noms de lieux (\\textit{{Index locorum}})}}
 \\markboth{{Index des noms de lieux}}{{Index des noms de lieux}}
 {{\\fontsize{{7.0pt}}{{8.3pt}}\\selectfont
-\\noindent Chaque toponyme renvoie simultanément au folio du \\textit{{Livre-Journal}} (\\texttt{{f\\textsuperscript{{o}}~X~r\\textsuperscript{{o}}/v\\textsuperscript{{o}}}}) et au numéro de page correspondant du présent volume (\\texttt{{p.~Y}}).\\par\\vspace{{2.0mm}}
+\\noindent Les renvois distinguent les attestations du carnet, les mentions du commentaire (\\textit{{Comm.}}) et les documents imprimés. Les attestations du carnet donnent le folio éditorial du \\textit{{Livre-Journal}} (\\texttt{{f\\textsuperscript{{o}}~X~r\\textsuperscript{{o}}/v\\textsuperscript{{o}}}}) et au numéro de page correspondant du présent volume (\\texttt{{p.~Y}}). Les cartes et arbres citent leur propre page ; \\textit{{lect. inc.}} signale une lecture réservée.\\par\\vspace{{2.0mm}}
 {places_joined}
 \\par}}
 """

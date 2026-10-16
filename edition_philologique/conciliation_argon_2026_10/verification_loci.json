@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "corpus_sha256": "ee6f62e8abba93bb16fbb196ad9d8ba5812a113b017de711a08bcf0e98f43d46",
+  "module_sha256": "2c7ff39c38393537b9438ecebdcfc56b08de6f06a14635800fc748c045a8beff",
+  "totals": {
+    "scans": 186,
+    "entries": 453,
+    "targets": 852
+  },
+  "exact_anchors": 1305,
+  "negative_controls": [
+    {
+      "case": "lemme_source_absent",
+      "passed": true,
+      "rejection": "Source : lemme absent de la vue 001, ligne 3."
+    },
+    {
+      "case": "lemme_cible_absent",
+      "passed": true,
+      "rejection": "Cible : lemme absent de la vue 002, ligne 1."
+    },
+    {
+      "case": "ligne_zero",
+      "passed": true,
+      "rejection": "Source : numéro de vue ou de ligne invalide."
+    },
+    {
+      "case": "offset_depasse_ligne",
+      "passed": true,
+      "rejection": "Source : offsets inexacts pour 001, ligne 3."
+    },
+    {
+      "case": "offset_absent",
+      "passed": true,
+      "rejection": "Source : offsets inexacts pour 001, ligne 3."
+    },
+    {
+      "case": "direction_inversee",
+      "passed": true,
+      "rejection": "Vue 001 : direction du renvoi 002 incorrecte."
+    },
+    {
+      "case": "entite_cible_divergente",
+      "passed": true,
+      "rejection": "Vue 001 : cible d'une autre entité."
+    },
+    {
+      "case": "source_mauvaise_vue",
+      "passed": true,
+      "rejection": "Source : lemme absent de la vue 002, ligne 3."
+    },
+    {
+      "case": "cible_dupliquee",
+      "passed": true,
+      "rejection": "Vue 001 : cible répétée."
+    },
+    {
+      "case": "vue_manquante",
+      "passed": true,
+      "rejection": "Couverture des vues incomplète pour les loci."
+    },
+    {
+      "case": "attestation_editoriale",
+      "passed": true,
+      "rejection": "Source : statut d'attestation absent ou invalide."
+    },
+    {
+      "case": "reserve_du_rapprochement_effacee",
+      "passed": true,
+      "rejection": "Vue 012 : réserve perdue dans le rapprochement."
+    },
+    {
+      "case": "reserve_source_effacee",
+      "passed": true,
+      "rejection": "Source : doute autographe ou éditorial effacé pour 085, ligne 9."
+    },
+    {
+      "case": "rature_source_inversee",
+      "passed": true,
+      "rejection": "Source : statut de rature perdu pour 001, ligne 3."
+    }
+  ]
+}

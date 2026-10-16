@@ -4,6 +4,8 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 ---
 
+La foliotation est éditoriale et suit les photographies ; elle ne restitue pas une foliotation matérielle établie. Les folios 45 verso et 46 verso reproduisent la même page. Les lectures réservées restent signalées.
+
 ## Couverture (plat supérieur) — Juillet 1916 – Avril 1917
 - **Titre** : Couverture rouge à motif losangé et étiquette bleue autographe : Livre-Journal, du 25 juillet 1916 au 30 avril 1917
 - **Date** : 25 juillet 1916 – 30 avril 1917
@@ -25,64 +27,66 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--5 :** Plat supérieur du carnet revêtu d'un papier fort rouge gaufré à motif de losanges ; au centre, étiquette rectangulaire de papier bleu à pans coupés portant l'intitulé autographe en cinq lignes à l'encre noire, avec soulignement du titre et deux tirets séparateurs.
 
-***1** (*Livre - Journal*) cf. infra fo 1 ro, fo 93 ro. — **3** (*25 juillet 1916*) cf. infra fo 1 ro. — **4** (*30 avril 1917*) cf. infra fo 93 ro.*
+***3** (*25 juillet 1916*) terminus a quo cf. infra fo 1 ro, l. 1 (*25 Ma.*). — **4** (*30 avril 1917*) terminus ad quem cf. infra fo 93 ro, l. 1 (*30 Lundi.*).*
 
-> Les bornes chronologiques portées sur l'étiquette couvrent neuf mois de campagne d'**Hippolyte Combes** (né à Millau le 14 août 1876, décédé le 2 septembre 1970 à l'Hôtel du Centre à Saint-Chély-d'Apcher, Lozère) auprès du corps expéditionnaire britannique (*British Expeditionary Force*). Affecté depuis août 1915 à la **152e** Compagnie de l'*Army Service Corps* au sein du Train divisionnaire de la **18e** Division britannique (*18th Eastern Division*), Hippolyte Combes passe en novembre 1916 au service des achats et réquisitions de fourrage (*Foraging* puis *Army Purchase Board*) dans la Somme.
+> Les bornes chronologiques portées sur l'étiquette couvrent neuf mois du journal d'**Hippolyte Combes** (né à Millau le 14 août 1876, décédé le 2 septembre 1970 à l'Hôtel du Centre à Saint-Chély-d'Apcher, Lozère), interprète auprès de l'armée britannique. Sa lettre du 21 février 1916 mentionne une compagnie de l'*Army Service Corps* depuis août 1915, sans numéro. La **152nd Company A.S.C.** est nommée dans le carnet le 6 octobre 1916. Nichols (1922, p.~107–110) et *The Ringing World* (9 avril 1915, p.~184) documentent séparément son rattachement au *18th Divisional Train*. Le carnet décrit ensuite un service de fourrages puis nomme le *Purchase Board* en mars 1917.
 
 ---
 
 ## Folio 1 recto — Juillet 1916
-- **Titre** : Mardi 25 juillet 1916 — Lynde et Sercus : rassemblement avec le lieutenant Curtis devant l'église de Sercus et cantonnement de 36 officiers des Royal Fusiliers
+- **Titre** : Mardi 25 juillet 1916 — rassemblement avec le lieutenant Curtis devant l'église du village proposé Sercus et arrivée de 36 officiers des Royal Fusiliers
 - **Date** : Mardi 25 juillet 1916
-- **Lieu** : Lynde et Sercus (Nord)
+- **Lieu** : Sercus [?] (Nord) ; cantonnement proposé Lynde par rapprochement avec le 28 juillet
 
 ```text
- 1 | 25 Ma. Levé dès 8 H m. Bien reposé          Juillet 1916
- 2 | Courte nuit, pensé très vivement à Margte —
- 3 | Toujours même ciel gris et bas : ciel de
- 4 | Flandre. Beaux arbres élancés aux branches
- 5 | retombantes entourent pâturages ou champs
- 6 | d'avoine et de blé — épis très hauts & serrés
- 7 | Mélancolie éparse à travers atmosphère
- 8 | Matin, venu à pied, avec fantastique
- 9 | lieutt Curtis au village de Sercus, où notre
-10 | rassemblement se fait devant cimetière qui
-11 | entoure église très curieuse —
-12 | Après-midi : bien reposé chambre — quand
-13 | terminé déménagement sur le derrière, à
-14 | cause de l'arrivée 36 off. du R. Fusrs —
-15 | Visité longuement église village : remarqué
-16 | 2 rangs de statues (en plâtre, en bois) sous les
-17 | orgues
-18 | Vers 7 h 1/2 s., visite des dames du chateau
-19 | et les ai conduites au mess de mes off.
-20 | A Mme Backer, pour repas d'hier & 4 oeufs : 1 f 75
-21 | Varia : 75 c
+ 1 | 25 Ma.          Juillet 1916
+ 2 | Levé [dès ?] 8 H m.          Bien reposé
+ 3 | Toute nuit, pensé très vivement à Margte —
+ 4 | Toujours même ciel gris et bas : ciel de
+ 5 | Flandre. Beaux arbres élancés aux branches
+ 6 | retombantes entourent pâturages ou champs
+ 7 | d'avoine et de blé — épis très hauts & serrés
+ 8 | Mélancolie éparse à travers atmosphère
+ 9 | Matin, venu à pied, avec fantastique
+10 | lieutt Curtis au village de [Sercus ?], où notre
+11 | rassemblement se fait devant cimetière qui
+12 | entoure église très curieuse —
+13 | Après-midi : bien reposé chambre — quand
+14 | terminé déménagement sur le derrière, à
+15 | cause de l'arrivée 36 off. du R. Fusrs —
+16 | Visité longuement église village : remarqué
+17 | 2 rangs de statues (en plâtre, en bois) sous les
+18 | orgues
+19 | Vers 7 h 1/2 s., visite des dames du chateau
+20 | et les ai conduites au mess de mes off.
+21 | A Mme [Backer ?], pour repas d'hier & 4 oeufs : 1 f 75
+22 | Varia : 75 c
 ```
 
-- *l. 1* : **1** **Ma.** *mardi* ; **m.** *matin*.
-- *l. 2* : **2** **Margte** *Marguerite (Calmels)*.
-- *l. 9* : **9** **lieutt** *lieutenant*.
-- *l. 14* : **14** **off.** *officiers* ; **R. Fusrs** *angl.* Royal Fusiliers.
-- *l. 18* : **18** **1/2** *demi* ; **s.** *soir*.
-- *l. 19* : **19** **off.** *officiers* ; **mess** *angl.* popote des officiers.
-- *l. 20* : **20** **Mme** *Madame*.
-- *l. 21* : **21** **Varia** *lat.* dépenses diverses.
+- *l. 1* : **1** **Ma.** *mardi*.
+- *l. 2* : **2** **m.** *matin* ; **[dès ?]** liaison de lecture incertaine devant 8 H.
+- *l. 3* : **3** **Margte** *Marguerite (Calmels)*.
+- *l. 10* : **10** **lieutt** *lieutenant* ; **[Sercus ?]** toponyme de lecture proposée.
+- *l. 15* : **15** **off.** *officiers* ; **R. Fusrs** *angl.* Royal Fusiliers.
+- *l. 19* : **19** **1/2** *demi* ; **s.** *soir*.
+- *l. 20* : **20** **off.** *officiers* ; **mess** *angl.* popote des officiers.
+- *l. 21* : **21** **Mme** *Madame* ; **[Backer ?]** patronyme de lecture proposée ; lettres fortement encrées.
+- *l. 22* : **22** **Varia** *lat.* dépenses diverses.
 
 * * *
 
-**l.~1--21 :** Première page écrite du carnet, ouverte *in medias res* le mardi 25 juillet 1916. Hippolyte Combes place la date soulignée (*25 Ma.*) en tête de la l.~1 et le mois souligné (*Juillet 1916*) légèrement surélevé dans l'angle supérieur droit ; au bas du feuillet (l.~20--21), un trait horizontal sépare le journal proprement dit du relevé des dépenses.
+**l.~1--3 :** Date soulignée à gauche et mois à droite ; la notation du lever est portée sous cet en-tête. La l.~3 porte *Toute nuit, pensé très vivement à Margte*. **l.~2, 10 et 21 :** Les lectures *dès*, *Sercus* et *Backer* restent proposées. **l.~21--22 :** Un trait horizontal sépare le récit du relevé des dépenses, dans le corps de la page.
 
-***2** (*Margte*) cf. infra fo 3 ro, fo 9 vo, *et passim*, Appendicem I, doc. 5. — **9** (*Curtis*) cf. infra fo 3 ro, fo 6 vo, *et passim*. — **14** (*R. Fusrs*) cf. infra fo 1 vo, fo 37 vo.*
+***3** (*Margte*) cf. infra fo 3 ro, l. 12 (*Margte*); fo 9 vo, l. 4 (*Margte*). — **10** (*Curtis*) cf. infra fo 3 ro, l. 4 (*Curtis*); fo 6 vo, l. 4 (*Curtis*). — **15** (*R. Fusrs*) cf. infra fo 1 vo, l. 3 (*Royal Fusiliers*).*
 
-> Relevée de la Somme le 20 juillet 1916 après les combats du bois des Trônes, la **18e** Division britannique (*18th Eastern Division*, commandée par le major-général Sir Ivor Maxse) gagne la Flandre intérieure (Capt. G.~H.~F. Nichols, *The 18th Division in the Great War*, Londres, Blackwood, 1922, p.~81–85). L'église entourée de son cimetière à **Sercus** (Nord) est l'église **Saint-Érasme** (soubassements romans du XIIe~s., transformée en *hallekerke* à trois nefs au XVIe~s. ; Base Mérimée, `PA00107816`).
+> Le déplacement de Combes vers la Flandre s'inscrit dans l'histoire de la **18e Division britannique**, alors commandée par Ivor Maxse : Nichols situe son séjour d'août devant Armentières (*The 18th Division in the Great War*, 1922, p.~75). Le toponyme du carnet reste proposé **Sercus**, avec réserve. La notice de **Saint-Érasme de Sercus** décrit des soubassements du XIIe siècle et une transformation en hallekerque au XVIe siècle (Mérimée, `PA00107816`) ; elle offre un rapprochement architectural sans assurer la lecture du lieu.
 
 ---
 
 ## Folio 1 verso — Juillet 1916
-- **Titre** : Mercredi 26 juillet 1916 — Lynde : préparation de 36 chambres d'officiers, château de la brasserie et annonce d'un nouveau départ
+- **Titre** : Mercredi 26 juillet 1916 — Lynde (proposé) : recherche de 36 chambres d'officiers, château de la brasserie et annonce d'un nouveau départ
 - **Date** : Mercredi 26 juillet 1916
-- **Lieu** : Lynde (Nord)
+- **Lieu** : Lynde proposé (Nord) ; cantonnement non nommé dans cette entrée
 
 ```text
  1 | 26 Mer.          Juillet /16
@@ -122,16 +126,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~17 :** Un trait horizontal sépare au bas du feuillet le récit quotidien et le relevé comptable bilingue (*Food* / *Washing*).
 
-***3** (*Royal Fusiliers*) cf. supra fo 1 ro, infra fo 37 vo, fo 46 ro.*
+***3** (*Royal Fusiliers*) cf. supra fo 1 ro, l. 15 (*R. Fusrs*).*
 
-> À **Lynde** (Nord), Hippolyte Combes assiste le lieutenant Michel (*billeting officer*) pour préparer le cantonnement de 36 officiers des ***Royal Fusiliers*** (dont le 11e Bataillon appartient à la 54e Brigade de la 18e Division) avant l'ordre de départ pour la frontière belge.
+> Hippolyte Combes assiste le lieutenant Michel, *billeting officer*, pour la recherche de **36 chambres** destinées aux officiers des **Royal Fusiliers**. **Lynde** est un cantonnement proposé par comparaison avec le règlement du 28 juillet ; ce village et le numéro de bataillon ne sont pas écrits dans cette entrée. Le 11th Royal Fusiliers figure dans l'ordre de bataille de la 18e Division chez Nichols (1922, p.~108), ce qui fournit un rapprochement d'unité sans identifier ces visiteurs.
 
 ---
 
 ## Folio 2 recto — Juillet 1916
-- **Titre** : Jeudi 27 juillet 1916 — De Lynde à Renescure et Hazebrouck : châteaux du Moyen Âge, jardins potagers et achats de cartes postales d'Ypres et de Renescure
+- **Titre** : Jeudi 27 juillet 1916 — Renescure et Hazebrouck : châteaux du Moyen Âge, jardins potagers et achats de cartes postales d'Ypres et de Renescure
 - **Date** : Jeudi 27 juillet 1916
-- **Lieu** : Lynde, Renescure et Hazebrouck (Nord)
+- **Lieu** : Lynde (proposé), Renescure et Hazebrouck (Nord)
 
 ```text
  1 | 27 J.          Juillet /16
@@ -179,14 +183,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~18--25 :** Au bas du feuillet, le relevé des dépenses et de la solde est séparé du récit par un trait horizontal et subdivisé par deux sous-titres topographiques soulignés (*A Renescure*, *A Hazebrouck*).
 
-***10** (*Hazebrouck*) cf. infra fo 2 vo, fo 4 ro. — **20** (*Ypres*) cf. infra fo 4 vo. — **22** (*84 f.*) cf. infra fo 10 vo, fo 39 vo.*
+***10** (*Hazebrouck*) cf. infra fo 2 vo, l. 12 (*Hazebrouck*); fo 4 ro, l. 9 (*Hazebrouck*). — **20** (*Ypres*) cf. infra fo 4 vo, l. 19 (*Ypres*).*
 
-> À **Renescure** (Nord), les deux châteaux remarqués par Hippolyte Combes correspondent au **château de Zuthove** (demeure seigneuriale de briques entourée de douves, reconstruite à la fin du XVe~s. ; Base Mérimée, `PA00107784`) et au **château dit de Philippe de Comines** (ancienne motte castrale remaniée et transformée en mairie ; `PA00107783`), voisin de l'église-halle **Notre-Dame-de-l'Assomption**. À **Hazebrouck**, il visite l'église **Saint-Éloi** (XVIe~s.) et perçoit 84~francs de solde et indemnités auprès de la Mission française.
+> À **Renescure** (Nord), les deux châteaux remarqués par Hippolyte Combes peuvent être rapprochés du **château de Zuthove** (demeure seigneuriale de briques entourée de douves, reconstruite à la fin du XVe~s. ; Base Mérimée, `PA00107784`) et du **château dit de Philippe de Comines** (ancienne motte castrale remaniée et transformée en mairie ; `PA00107783`), voisin de l'église-halle **Notre-Dame-de-l'Assomption**. À **Hazebrouck**, il visite l'église **Saint-Éloi** (XVIe~s.) et perçoit 84~francs de solde et indemnités auprès de la Mission française.
 
 ---
 
 ## Folio 2 verso — Juillet 1916
-- **Titre** : Vendredi 28 juillet 1916 — Départ de Lynde (Mme Donze) et lente chevauchée sous la chaleur par Hazebrouck jusqu'à Saint-Jans-Cappel
+- **Titre** : Vendredi 28 juillet 1916 — Départ de Lynde (Mme Donze [?]) et lente chevauchée sous la chaleur par Hazebrouck jusqu'à Saint-Jans-Cappel
 - **Date** : Vendredi 28 juillet 1916
 - **Lieu** : De Lynde vers Saint-Jans-Cappel par Hazebrouck (Nord)
 
@@ -228,9 +232,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~20--23 :** Les quatre dernières lignes, consacrées au règlement de la logeuse de Lynde et aux frais de route, sont isolées du récit par un trait horizontal continu.
 
-***12** (*Hazebrouck*) cf. supra fo 2 ro, infra fo 4 ro, fo 8 ro. — **20** (*Lynde*) cf. supra fo 1 ro, fo 2 ro.*
+***12** (*Hazebrouck*) cf. supra fo 2 ro, l. 10 (*Hazebrouck*); infra fo 4 ro, l. 9 (*Hazebrouck*).*
 
-> Étape routière de huit heures (8~h~30 -- 16~h~30) transférant le train divisionnaire de la 18e Division depuis **Lynde** jusqu'aux abords de **Saint-Jans-Cappel** (Nord), au pied des monts des Flandres, en contournant le nœud ferroviaire d'Hazebrouck par les faubourgs.
+> Le trajet à cheval de Combes, noté de 8~h~30 à 16~h~30, conduit depuis **Lynde** jusqu'aux abords de **Saint-Jans-Cappel** (Nord), au pied des monts des Flandres, en contournant le nœud ferroviaire d'Hazebrouck par les faubourgs.
 
 ---
 
@@ -280,7 +284,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Curtis*) cf. supra fo 1 ro, infra fo 6 vo, fo 7 ro, *et passim*. — **4** (*fourrage*) cf. infra fo 3 vo, fo 4 vo, *et passim*. — **12** (*Margte*) cf. supra fo 1 ro, infra fo 9 vo, fo 27 ro, *et passim*.*
+***4** (*Curtis*) cf. supra fo 1 ro, l. 10 (*Curtis*); infra fo 6 vo, l. 4 (*Curtis*). — **12** (*Margte*) cf. supra fo 1 ro, l. 3 (*Margte*); infra fo 9 vo, l. 4 (*Margte*).*
 
 > Tournée d'achat et de pesée de fourrage avec le lieutenant **Curtis** à **Saint-Jans-Cappel** et au hameau du **Mont-Noir** (Nord, sur la frontière franco-belge), au cœur du bassin houblonnier flamand.
 
@@ -337,7 +341,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***20** (*Bailleul*) cf. infra fo 4 ro, fo 4 vo, *et passim*. — **24** (*green forage*) cf. supra fo 3 ro, infra fo 4 vo, fo 6 vo, *et passim*.*
+***20** (*Bailleul*) cf. infra fo 4 ro, l. 7 (*Bailleul*); fo 4 vo, l. 5 (*Bailleul*).*
 
 > Le dimanche 30 juillet 1916, Hippolyte Combes note la séparation traditionnelle des hommes et des femmes dans la nef de l'église **Saint-Jean-Baptiste de Saint-Jans-Cappel** (reconstruite aux XVIe et XVIIe~s. au pied du Mont-Noir) et remet 5~fr. de pourboire au maître-cuisinier (*headcook*) **Hancock**.
 
@@ -378,7 +382,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Bailleul*) cf. supra fo 3 vo, infra fo 4 vo, fo 5 ro, *et passim*. — **9** (*Hazebrouck*) cf. supra fo 2 ro, fo 2 vo, infra fo 8 ro, fo 13 vo.*
+***7** (*Bailleul*) cf. supra fo 3 vo, l. 20 (*Bailleul*); infra fo 4 vo, l. 5 (*Bailleul*). — **9** (*Hazebrouck*) cf. supra fo 2 vo, l. 12 (*Hazebrouck*); infra fo 8 ro, l. 18 (*Hazebrouck*).*
 
 > Située à 3~km au sud de Saint-Jans-Cappel, la ville de **Bailleul** (Nord) s'ordonnait autour de sa vaste Grand-Place flamande dominée par l'église **Saint-Vaast** et l'**Hôtel de Ville** à beffroi gothique (édifices détruits lors des combats d'avril 1918) ; la comparaison avec **Béthune** rappelle le séjour antérieur d'Hippolyte Combes en Artois.
 
@@ -432,7 +436,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--23 :** Ce feuillet réunit deux journées consécutives (mercredi 2 août, l.~1--12, et jeudi 3 août, l.~13--23) séparées par un trait horizontal à mi-page, chacune close par son relevé de dépenses.
 
-***5** (*Bailleul*) cf. supra fo 3 vo, fo 4 ro, infra fo 5 ro, fo 6 ro, *et passim*. — **5** (*fourrage*) cf. supra fo 3 ro, fo 3 vo, infra fo 6 vo, fo 9 ro, *et passim*. — **19** (*Ypres*) cf. supra fo 2 ro.*
+***5** (*Bailleul*) cf. supra fo 4 ro, l. 7 (*Bailleul*); infra fo 5 ro, l. 5 (*Bailleul*). — **19** (*Ypres*) cf. supra fo 2 ro, l. 20 (*Ypres*).*
 
 > Nouvelles promenades dans **Bailleul** (rues d'Ypres et de Lille, église Saint-Vaast). L'observation des **dentellières** travaillant en plein air devant leurs portes témoigne de l'industrie dentellière traditionnelle de Bailleul (école et fabriques de dentelle aux fuseaux actives depuis le XVIIe~s. jusqu'à la destruction de la ville au printemps 1918).
 
@@ -474,7 +478,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*La Croix-du-Bac*) cf. infra fo 6 ro, fo 6 vo. — **5** (*Bailleul*) cf. supra fo 3 vo, fo 4 vo, infra fo 6 ro, fo 13 vo, *et passim*. — **5** (*Steenwerck*) cf. infra fo 6 ro, fo 7 ro, *et passim*.*
+***5** (*Bailleul*) cf. supra fo 4 vo, l. 5 (*Bailleul*); infra fo 6 ro, l. 12 (*Bailleul*). — **5** (*Steenwerck*) cf. infra fo 6 ro, l. 15 (*Steenwerck*); fo 12 ro, l. 4 (*Steenwerck*).*
 
 > Chevauchée de 15~km par Bailleul et **Steenwerck** (dont la grande église paroissiale Saint-Jean-Baptiste est signalée aux l.~6--7) jusqu'au hameau de **La Croix-du-Bac** (commune de Steenwerck, Nord), siège du bureau de la Mission militaire française auprès de la 18e Division, où Hippolyte Combes perçoit sa solde et un rappel de supplément à compter du 1er juillet 1916.
 
@@ -508,7 +512,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*pâtures ferme où je loge*) cf. supra fo 2 vo, fo 5 ro. — **9** (*garret*) cf. supra fo 2 vo.*
+***9** (*garret*) de eadem re cf. supra fo 5 ro, l. 11 (*garret*); infra fo 7 ro, l. 12 (*chambre*).*
 
 > Dernière soirée à la ferme isolée de **Saint-Jans-Cappel** avant le déplacement du lendemain vers la vallée de la Lys: depuis sa mansarde (*garret*), Hippolyte Combes écoute la prière vespérale récitée en commun par la famille d'agriculteurs flamands.
 
@@ -560,7 +564,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***12** (*Bailleul*) cf. supra fo 3 vo, fo 5 ro, infra fo 13 vo, fo 14 ro, *et passim*. — **15** (*Steenwerck*) cf. supra fo 5 ro, infra fo 7 ro, fo 7 vo, *et passim*. — **23** (*Connelly*) cf. infra fo 19 vo, fo 20 vo.*
+***12** (*Bailleul*) cf. supra fo 5 ro, l. 5 (*Bailleul*); infra fo 13 vo, l. 4 (*Bailleul*). — **15** (*Steenwerck*) cf. supra fo 5 ro, l. 5 (*Steenwerck*); infra fo 12 ro, l. 4 (*Steenwerck*). — **23** (*Connelly*) similitudo lectionis, incertitudo nominis cf. infra fo 19 vo, l. 24 (*Connelly*); fo 20 vo, l. 20 (*Connelly*).*
 
 > Le samedi 5 août 1916, la compagnie de l'*Army Service Corps* (*A.S.C. men*) quitte Saint-Jans-Cappel par Bailleul pour descendre dans la plaine de la Lys et établir ses lignes de chevaux (*Horse-lines*) à l'entrée de **La Croix-du-Bac** (commune de Steenwerck), en arrière du secteur de Fleurbaix--Armentières que la 18e Division tient alors en ligne. Première mention nominale de son ordonnance britannique (*groom*) **Connelly**.
 
@@ -603,9 +607,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~15--17 :** Au bas du feuillet, un trait horizontal sépare du récit les trois lignes du compte d'achats auprès de la logeuse (*oeufs, lait & bière*) et de cartes postales.
 
-***4** (*Curtis*) cf. supra fo 1 ro, fo 3 ro, infra fo 7 ro, fo 9 vo, *et passim*. — **8** (*fourrage*) cf. supra fo 3 ro, fo 4 vo, infra fo 9 ro, fo 11 vo, *et passim*. — **11** (*Maurin*) cf. infra fo 7 ro, fo 9 vo, *et passim*.*
+***4** (*Curtis*) cf. supra fo 3 ro, l. 4 (*Curtis*); infra fo 7 ro, l. 2 (*Ctis*). — **11** (*Maurin*) cf. infra fo 7 ro, l. 14 (*Maurin*); fo 9 vo, l. 6 (*Maurin*).*
 
-> Le point de ravitaillement quotidien (*refilling point*) est établi sur la Lys canalisée près de l'écluse de **Bac-Saint-Maur** (Sailly-sur-la-Lys). Au hameau de **La Croix-du-Bac** (Steenwerck), l'église de briques rouges décrite par Hippolyte Combes est l'église néo-gothique **Notre-Dame-des-Sept-Douleurs**, bâtie en 1869–1870 par l'architecte lillois Charles Leroy (Base Mérimée, `IA59000348`).
+> Le *refilling point* est décrit sur la rive d'un canal près d'une écluse ; Combes continue ensuite seul à **Bac-Saint-Maur**. Ces deux étapes ne localisent pas exactement le point de ravitaillement à Bac-Saint-Maur. À **La Croix-du-Bac**, il décrit une église de briques rouges ; l'identification à Notre-Dame-des-Sept-Douleurs et sa datation demandent une référence patrimoniale propre.
 
 ---
 
@@ -645,7 +649,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Ctis*) cf. supra fo 1 ro, fo 6 vo, infra fo 9 vo, fo 10 vo, *et passim*. — **14** (*Maurin*) cf. supra fo 6 vo, infra fo 9 vo, fo 10 vo, *et passim*. — **15** (*cooking*) cf. infra fo 10 ro, fo 11 vo.*
+***2** (*Ctis*) cf. supra fo 6 vo, l. 4 (*Curtis*); infra fo 9 vo, l. 17 (*Curtis*). — **14** (*Maurin*) cf. supra fo 6 vo, l. 11 (*Maurin*); infra fo 9 vo, l. 6 (*Maurin*).*
 
 > Tandis qu'Hippolyte Combes et le lieutenant **Curtis** (*Ctis*) cherchent des logements (*billets*) et une salle de popote (*messroom*), la compagnie se déplace (*a shifté*) dès 9~h à l'autre extrémité du village; l'interprète s'installe au premier étage d'une maison située au-dessus du bureau de poste (*Post-office*) sur la route de Bac-Saint-Maur.
 
@@ -679,7 +683,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*nouvelle chambre*) cf. supra fo 7 ro, infra fo 10 ro. — **7** (*Food : eggs*) cf. supra fo 1 vo, infra fo 9 ro.*
+***3** (*chambre*) de eadem re cf. supra fo 7 ro, l. 12 (*chambre*); infra fo 8 vo, l. 15 (*chambre*). — **7** (*Food*) de eadem re cf. supra fo 6 vo, l. 15 (*oeufs*); infra fo 11 vo, l. 23 (*eggs*).*
 
 > Observation des conditions sanitaires et matérielles de l'été 1916 dans la basse plaine alluviale de la Lys (route de Bac-Saint-Maur à Steenwerck), sillonnée de fossés humides (*watergangs*) et de convois hippomobiles et automobiles soulevant la poussière.
 
@@ -723,16 +727,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--20 :** La page regroupe le récit de la promenade du jeudi 10 août le long de la Lys jusqu'à Sailly (l.~1--18), une notation isolée (*Les Australiens*, l.~19) et un relevé de dépenses au bas du feuillet (l.~20).
 
-***7** (*Lys*) cf. supra fo 6 vo, fo 7 vo, infra fo 8 vo, fo 9 ro, *et passim*. — **15** (*Maxse*) cf. . — **18** (*Hazebrouck*) cf. supra fo 2 ro, fo 4 ro, infra fo 13 vo.*
+***7** (*Lys*) cf. infra fo 9 ro, l. 6 (*Lys*); fo 9 vo, l. 8 (*Lys*). — **18** (*Estaires*) cf. infra fo 12 vo, l. 6 (*Estaires*). — **18** (*Hazebrouck*) cf. supra fo 4 ro, l. 9 (*Hazebrouck*); infra fo 13 vo, l. 9 (*Hazebrouck*).*
 
-> Promenade le long de la Lys jusqu'au pont de **Sailly-sur-la-Lys** (Pas-de-Calais), dont l'église Saint-Vaast avait été incendiée lors des combats d'octobre 1914. À l'écluse, Hippolyte Combes s'entretient avec l'éclusier au sujet du **major-général Sir Ivor Maxse** (1862–1958), commandant la **18e** Division britannique de 1914 à janvier 1917 ; la mention des *Australiens* fait écho à l'engagement des divisions de l'I~ et du II~ANZAC Corps dans le secteur voisin de Fromelles et d'Armentières en juillet–août 1916.
+> Promenade le long de la Lys jusqu'au pont de **Sailly-sur-la-Lys** (Pas-de-Calais), dont l'église Saint-Vaast avait été incendiée lors des combats d'octobre 1914. À l'écluse, Hippolyte Combes s'entretient avec l'éclusier au sujet du **major-général Sir Ivor Maxse** (1862–1958), commandant la **18e** Division britannique de 1914 à janvier 1917 . La mention isolée des *Australiens* ne permet pas d'identifier ici leur formation ni leurs mouvements.
 
 ---
 
 ## Folio 8 verso — Août 1916
-- **Titre** : Vendredi 11 août 1916 — Bombardement meurtrier autour de la grande blanchisserie Barbry à Steenwerck
+- **Titre** : Vendredi 11 août 1916 — Bombardement autour de la grande blanchisserie Barbry, à l'ouest d'Armentières
 - **Date** : Vendredi 11 août 1916
-- **Lieu** : Steenwerck / Erquinghem-Lys (Nord)
+- **Lieu** : Secteur à l'ouest d'Armentières (Nord) ; localisation précise de la blanchisserie Barbry non établie
 
 ```text
  1 | 11 Ven.          Aout / 16
@@ -768,9 +772,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~5--6 et 12 :** Dans le récit du bombardement d'Erquinghem, les mots les plus crus décrivant le sort du soldat touché (*décapité*, *bras emportés*, l.~6) et l'épithète initiale qualifiant l'insécurité (*perpétuelle*, l.~12) ont été biffés par Hippolyte Combes, mais demeurent partiellement déchiffrables sous la rature.
 
-***8** (*Barbry*) cf. infra fo 11 ro, fo 11 vo. — **17** (*Armentières*) cf. infra fo 9 vo, fo 10 vo.*
+***8** (*Barbry*) cf. infra fo 11 ro, l. 2 (*Barbry*); fo 11 vo, l. 6 (*Barbry*). — **17** (*Armentières*) cf. infra fo 9 vo, l. 18 (*Armentières*); fo 11 ro, l. 7 (*Armentières*).*
 
-> Le bombardement allemand du 11 août 1916 sur les abords d'**Armentières** touche un soldat britannique et endommage la **blanchisserie industrielle de fils et toiles Barbry**, établie en bordure de la Lys près du pont de Nieppe et dirigée par **Émile Barbry** (Base Mérimée, `IA59001501`). Aux l.~20–23, le passage raturé décrit la peine disciplinaire réglementaire britannique dite *Field Punishment No.~1* (*crucifixion*), consistant à attacher le condamné par les poignets et les chevilles à une roue de caisson.
+> Le 11 août 1916, Combes rapporte **40 ou 50 obus** autour de son cantonnement, dont des dommages à la blanchisserie **Barbry** à l'ouest d'Armentières. Les groupes raturés relatifs au soldat restent réservés. La page ne décrit aucune peine disciplinaire ; une histoire industrielle de la blanchisserie ou l'identification de son propriétaire à Émile Barbry demandent une attestation distincte.
 
 ---
 
@@ -808,7 +812,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Lys*) cf. supra fo 6 vo, fo 8 vo, infra fo 9 vo, fo 11 ro, *et passim*. — **9** (*luzerne*) cf. supra fo 3 ro, fo 6 vo, infra fo 11 vo, fo 15 ro, *et passim*.*
+***6** (*Lys*) cf. supra fo 8 ro, l. 7 (*Lys*); infra fo 9 vo, l. 8 (*Lys*).*
 
 > Après le bombardement de la veille, journée d'accalmie sur les berges gazonnées de la Lys canalisée près de l'écluse de Bac-Saint-Maur, au milieu des champs de luzerne et de blé mûr.
 
@@ -853,9 +857,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Margte*) cf. supra fo 1 ro, fo 3 ro, infra fo 27 ro, fo 27 vo, *et passim*, Appendicem I, doc. 5. — **6** (*Maurin*) cf. supra fo 6 vo, fo 7 ro, infra fo 10 vo, fo 12 ro, *et passim*. — **8** (*Lys*) cf. supra fo 6 vo, fo 9 ro, infra fo 11 ro, fo 11 vo, *et passim*.*
+***4** (*Margte*) cf. supra fo 3 ro, l. 12 (*Margte*); infra fo 27 ro, l. 11 (*Margte*). — **6** (*Maurin*) cf. supra fo 7 ro, l. 14 (*Maurin*); infra fo 10 vo, l. 8 (*Maurin*). — **8** (*Lys*) cf. supra fo 8 ro, l. 7 (*Lys*); fo 9 ro, l. 6 (*Lys*).*
 
-> Le dimanche 13 août 1916, l'absence de courrier de sa fiancée **Marguerite Calmels** (1892--1974) assombrit Hippolyte Combes; le lundi **14 août 1916** — jour du quarantième anniversaire d'Hippolyte Combes, né à Millau le 14 août 1876 — est marqué par une forte averse d'orage suivie d'une reconnaissance à cheval avec le lieutenant Curtis vers Armentières.
+> Le dimanche 13 août 1916, l'absence de courrier de sa fiancée **Marguerite Calmels** (1892--1974) assombrit Hippolyte Combes; le lundi **14 août 1916** — jour du quarantième anniversaire d'Hippolyte Combes, né à Millau le 14 août 1876 — est marqué par une forte averse d'orage suivie d'une course à cheval avec le lieutenant Curtis vers Armentières.
 
 ---
 
@@ -886,9 +890,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***11** (*cooking*) cf. supra fo 7 ro, infra fo 11 vo, fo 13 ro.*
+***5** (*chambre*) de eadem re cf. supra fo 9 ro, l. 15 (*chambre*); infra fo 11 vo, l. 8 (*chambre*). — **11** (*cooking*) de eadem re cf. supra fo 7 ro, l. 15 (*cooking*); infra fo 11 vo, l. 23 (*cooking*). — **11** (*lait*) de eadem re cf. supra fo 7 ro, l. 16 (*lait*); fo 9 ro, l. 14 (*lait*).*
 
-> Journée pluvieuse de la fête de l'Assomption (15 août 1916) passée dans sa chambre de la route de Bac-Saint-Maur (Steenwerck); le tarif hebdomadaire versé à sa logeuse pour la préparation des repas (*cooking*) et deux litres de lait s'élève à 5~francs.
+> Journée pluvieuse de la fête de l'Assomption (15 août 1916) passée dans sa chambre de la route de Bac-Saint-Maur (Steenwerck); le règlement versé à sa logeuse pour la préparation des repas (*cooking*) et deux litres de lait est de 5~francs, sans établir un tarif hebdomadaire uniforme.
 
 ---
 
@@ -935,7 +939,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--22 :** Deux entrées successives (vendredi 18 août, l.~1--12, et samedi 19 août, l.~13--22) séparées par un trait horizontal ; la phrase de la l.~22 se poursuit sans interruption en tête du fo~11~ro.
 
-***8** (*Maurin*) cf. supra fo 6 vo, fo 9 vo, infra fo 12 ro, fo 13 ro, *et passim*. — **12** (*84 f.*) cf. supra fo 2 ro, infra fo 39 vo, fo 56 vo. — **18** (*Curtis*) cf. supra fo 1 ro, fo 9 vo, infra fo 11 vo, fo 15 ro, *et passim*.*
+***8** (*Maurin*) cf. supra fo 9 vo, l. 6 (*Maurin*); infra fo 12 ro, l. 6 (*Maurin*). — **18** (*Curtis*) cf. supra fo 9 vo, l. 17 (*Curtis*); infra fo 11 vo, l. 4 (*Ctis*).*
 
 > Après avoir perçu le 18 août sa solde et son indemnité de fonctions (84~fr.), Hippolyte Combes accompagne à cheval le lieutenant Curtis le samedi 19 août à 14~h~30, sous des averses glaciales, dans la zone exposée immédiatement en arrière des tranchées de première ligne du secteur de **Fleurbaix** et d'**Armentières**.
 
@@ -988,9 +992,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1 :** La première ligne poursuit directement la phrase commencée au bas du fo~10~vo ; la mention de date (*19 Sam --*) est rejetée à l'extrémité droite de la ligne.
 
-***2** (*Barbry*) cf. supra fo 8 vo, infra fo 11 vo. — **3** (*Fleurbaix*) cf. supra fo 10 vo. — **7** (*Armentières*) cf. supra fo 8 vo, fo 10 vo.*
+***2** (*Barbry*) cf. supra fo 8 vo, l. 8 (*Barbry*); infra fo 11 vo, l. 6 (*Barbry*). — **7** (*Armentières*) cf. supra fo 8 vo, l. 17 (*Armentières*); fo 9 vo, l. 18 (*Armentières*). — **22** (*Erquinghem*) cf. infra fo 12 ro, l. 12 (*Erquinghem*).*
 
-> Suite directe de la chevauchée du 19 août 1916 avec le lieutenant Curtis: par la blanchisserie Barbry et **Fleurbaix** (Pas-de-Calais, village du front criblé d'obus), ils gagnent **Armentières** (Nord), grande cité linière évacuée en partie sous les bombardements allemands (dont l'église de briques rouges au clocher découronné et à la toiture abattue correspond à l'église **Saint-Vaast** ou **Notre-Dame du Sacré-Cœur** d'Armentières).
+> Suite directe de la chevauchée du 19 août 1916 avec le lieutenant Curtis: par la blanchisserie Barbry et **Fleurbaix** (Pas-de-Calais, village du front criblé d'obus), ils gagnent **Armentières** (Nord), grande cité linière évacuée en partie sous les bombardements allemands (dont l'église de briques rouges au clocher découronné et à la toiture abattue peut évoquer l'église **Saint-Vaast** ou **Notre-Dame du Sacré-Cœur** d'Armentières, sans identification assurée).
 
 ---
 
@@ -1043,9 +1047,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--24 :** Le feuillet réunit les journées du dimanche 20 août (l.~1--14) et du lundi 21 août (l.~15--24), séparées par un trait horizontal et closes par un relevé comptable entre crochets (l.~23--24).
 
-***4** (*Ctis*) cf. supra fo 1 ro, fo 10 vo, infra fo 15 ro, fo 18 vo, *et passim*. — **5** (*green forage*) cf. supra fo 3 ro, fo 9 ro, infra fo 15 ro, fo 15 vo, *et passim*. — **6** (*Barbry*) cf. supra fo 8 vo, fo 11 ro.*
+***4** (*Ctis*) cf. supra fo 10 vo, l. 18 (*Curtis*); infra fo 15 ro, l. 17 (*Curtis*). — **6** (*Barbry*) cf. supra fo 8 vo, l. 8 (*Barbry*); fo 11 ro, l. 2 (*Barbry*). — **7** (*Lupin*) similitudo lectionis, incertitudo nominis cf. infra fo 42 vo, l. 9 (*Lépin*); fo 45 ro, l. 7 (*Lépin*).*
 
-> Le dimanche 20 août 1916, Hippolyte Combes prend le café chez l'industriel blanchisseur **Émile Barbry** avec les adjudants interprètes français **Lupin** (ou *Liepin*/*Lépin*) et **Schumacher** — ce dernier déjà mentionné avec ironie dans la lettre d'Hippolyte Combes du 21 février 1916 comme ancien contremaître d'usine métallurgique l'ayant remplacé au secrétariat de la Mission française de la 18e Division (Annexe~I, doc.~1).
+> Le dimanche 20 août 1916, Hippolyte Combes prend le café chez le propriétaire **M. Barbry** avec les adjudants interprètes français **Lupin** (ou *Liepin*/*Lépin*) et **Schumacher** — Schumacher pouvant être rapproché, sous réserve de l'identité, de l'homme mentionné avec ironie dans la lettre d'Hippolyte Combes du 21 février 1916 comme ancien contremaître d'usine métallurgique l'ayant remplacé au secrétariat de la Mission française de la 18e Division (Annexe~I, doc.~1).
 
 ---
 
@@ -1089,7 +1093,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Steenwerck*) cf. supra fo 5 ro, fo 11 vo, infra fo 13 ro, fo 13 vo, *et passim*. — **6** (*Maurin*) cf. supra fo 6 vo, fo 10 vo, infra fo 13 ro, *et passim*. — **12** (*Erquinghem*) cf. supra fo 8 vo, fo 11 vo.*
+***4** (*Steenwerck*) cf. supra fo 6 ro, l. 15 (*Steenwerck*); infra fo 13 ro, l. 5 (*Steenwerck*). — **6** (*Maurin*) cf. supra fo 10 vo, l. 8 (*Maurin*); infra fo 13 ro, l. 8 (*Maurin*). — **12** (*Erquinghem*) cf. supra fo 11 ro, l. 22 (*Erquinghem*).*
 
 > Lors de cette rencontre à **Bac-Saint-Maur** avec son collègue méridional **Maurin**, l'expédition ferroviaire en petite vitesse d'un sac de 13~kg de linge personnel depuis la gare de **Steenwerck** (réseau du Nord) jusqu'à **Nogent-le-Rotrou** (Eure-et-Loir, réseau de l'État, où Hippolyte Combes résidait avant la guerre au 17, rue Saint-Hilaire comme professeur d'anglais au collège communal) illustre le fonctionnement du service des colis et bagages entre la zone des armées et l'intérieur (3~fr.~80 factage compris).
 
@@ -1138,7 +1142,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Estaires*) cf. supra fo 8 ro.*
+***6** (*Estaires*) cf. supra fo 8 ro, l. 18 (*Estaires*).*
 
 > À **Estaires** (Nord, sur la Lys), la description de l'église **Saint-Vaast** (chœur, stalles néo-gothiques et statuettes de bois sculpté dont saint Ambroise) et de l'**Hôtel de Ville** Renaissance (orné des armoiries de la ville au-dessus du perron) possède une valeur patrimoniale directe : ces deux édifices et leur mobilier furent intégralement anéantis lors de la bataille de la Lys en avril 1918.
 
@@ -1182,7 +1186,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Steenwerck*) cf. supra fo 5 ro, fo 12 ro, infra fo 13 vo, *et passim*. — **8** (*Maurin*) cf. supra fo 6 vo, fo 12 ro, *et passim*. — **17** (*cooking*) cf. supra fo 7 ro, fo 11 vo, infra fo 24 ro.*
+***5** (*Steenwerck*) cf. supra fo 6 ro, l. 15 (*Steenwerck*); fo 12 ro, l. 4 (*Steenwerck*). — **8** (*Maurin*) cf. supra fo 10 vo, l. 8 (*Maurin*); fo 12 ro, l. 6 (*Maurin*).*
 
 > À la veille du départ de la 18e Division vers l'Artois et la Somme, Hippolyte Combes entre dans l'église **Saint-Jean-Baptiste de Steenwerck** (édifice détruit lors de l'offensive allemande d'avril 1918) et y remarque un reliquaire de son saint patron, **saint Hippolyte**. Le soir, le soldat britannique **Fisher** transporte ses bagages sous la tente du bureau et Hippolyte Combes règle 4~fr. à sa logeuse **Mme Cliquennois**.
 
@@ -1223,9 +1227,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Bailleul*) cf. supra fo 3 vo, fo 6 ro, infra fo 14 ro, *et passim*. — **9** (*Hazebrouck*) cf. supra fo 2 ro, fo 8 ro.*
+***4** (*Bailleul*) cf. supra fo 6 ro, l. 12 (*Bailleul*); infra fo 14 ro, l. 2 (*Bailleul*). — **9** (*Hazebrouck*) cf. supra fo 4 ro, l. 9 (*Hazebrouck*); fo 8 ro, l. 18 (*Hazebrouck*).*
 
-> Le vendredi 25 août 1916, le train divisionnaire de la **18e** Division britannique quitte la vallée de la Lys: embarquée en gare de **Bailleul** à midi et demi, l'unité descend par la voie ferrée stratégique d'**Hazebrouck** (14~h), **Berguette** (14~h~30) et **Lillers** jusqu'à **Saint-Pol-sur-Ternoise** (Pas-de-Calais, 16~h~30), où la division se regroupe pour son entraînement avant de redescendre sur le front de la Somme (Nichols, *The 18th Division in the Great War*, 1922, p.~96).
+> Le vendredi 25 août 1916, le train divisionnaire de la **18e** Division britannique quitte la vallée de la Lys: embarquée en gare de **Bailleul** à midi et demi, l'unité descend par la voie ferrée stratégique d'**Hazebrouck** (14~h), **Berguette** (14~h~30) et **Lillers** jusqu'à **Saint-Pol-sur-Ternoise** (Pas-de-Calais, 16~h~30), où la division se regroupe pour son entraînement avant de redescendre sur le front de la Somme (Nichols, *The 18th Division in the Great War*, 1922, p.~75, 78).
 
 ---
 
@@ -1276,7 +1280,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--22 :** Feuillet de suite du vendredi 25 août 1916 (*Ven. 25 (suite)*) ; les réflexions personnelles des l.~6--8 sont ponctuées de tirets longs caractéristiques de l'écriture expressive d'Hippolyte Combes.
 
-***2** (*Bailleul*) cf. supra fo 3 vo, fo 13 vo, *et passim*. — **15** (*Marquay*) cf. infra fo 14 vo, fo 15 ro, *et passim*. — **22** (*St-Pol*) cf. supra fo 13 vo, infra fo 16 ro, fo 17 ro, *et passim*.*
+***2** (*Bailleul*) cf. supra fo 6 ro, l. 12 (*Bailleul*); fo 13 vo, l. 4 (*Bailleul*). — **15** (*Marquay*) cf. infra fo 14 vo, l. 9 (*Marquay*); fo 19 vo, l. 2 (*Marquay*). — **22** (*St-Pol*) cf. infra fo 16 ro, l. 3 (*St-Pol*); fo 17 ro, l. 13 (*St-Pol*).*
 
 > Ce feuillet complémentaire du 25 août 1916 livre une réflexion critique sur l'emprise morale de l'État en temps de guerre, en écho direct à la lettre confidentielle d'Hippolyte Combes à sa sœur carmélite Françoise du 16 juin 1916 (Annexe~I, doc.~3). Débarquée à Saint-Pol à 17~h sous une pluie battante, la compagnie gagne à 19~h le village de **Marquay** (Pas-de-Calais, à 6~km à l'est de Saint-Pol-sur-Ternoise), où elle cantonne jusqu'au 9 septembre.
 
@@ -1319,7 +1323,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***8** (*Bailleul-aux-Cornailles*) cf. infra fo 15 vo, fo 18 vo. — **9** (*Marquay*) cf. supra fo 14 ro, infra fo 15 ro, fo 15 vo, *et passim*.*
+***9** (*Marquay*) cf. supra fo 14 ro, l. 15 (*Marquay*); infra fo 19 vo, l. 2 (*Marquay*).*
 
 > Première promenade sur le plateau crayeux du Ternois jusqu'au village voisin de **Bailleul-aux-Cornailles** (Pas-de-Calais, à 2,5~km au nord-est de Marquay) et constat de l'insalubrité de sa chambrette de cantonnement à Marquay.
 
@@ -1365,7 +1369,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***9** (*fourrage*) cf. supra fo 3 ro, fo 11 vo, infra fo 15 vo, fo 19 ro, *et passim*. — **17** (*Curtis*) cf. supra fo 1 ro, fo 11 vo, infra fo 18 vo, fo 44 vo, *et passim*.*
+***17** (*Curtis*) cf. supra fo 11 vo, l. 4 (*Ctis*); infra fo 18 vo, l. 5 (*Ctis*).*
 
 > Entre les corvées de fourrage vert dans la boue avec le lieutenant Curtis et l'observation des moissons tardives d'Artois à la moissonneuse-lieuse, Hippolyte Combes consigne le mardi 29 août 1916 la confirmation de l'entrée en guerre du **royaume de Roumanie** aux côtés de l'Entente (déclaration de guerre à l'Autriche-Hongrie du dimanche **27 août 1916** au soir, suivie le 28 août de la déclaration de guerre de l'Allemagne à la Roumanie).
 
@@ -1374,7 +1378,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ## Folio 15 verso — Août 1916
 - **Titre** : Tempête de vent dans les grands arbres du voisinage et fourrage sous les ondées
 - **Date** : Mercredi 30 août 1916
-- **Lieu** : Marquay et Bailleul-aux-Cornailles (Pas-de-Calais)
+- **Lieu** : Marquay (par continuité du cantonnement ; Pas-de-Calais)
 
 ```text
  1 | 30 Me          Août 1916
@@ -1393,7 +1397,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***9** (*fourrage*) cf. supra fo 3 ro, fo 15 ro, infra fo 19 ro, fo 21 ro, *et passim*.*
+***9** (*fourrage*) de eadem re cf. supra fo 15 ro, l. 9 (*fourrage*); infra fo 19 ro, l. 4 (*green forage*). — **9** (*fourrage*) de eadem re cf. supra fo 15 ro, l. 9 (*fourrage*); infra fo 19 ro, l. 4 (*forage*).*
 
 > La tempête de la fin août 1916 sur les plateaux d'Artois (Marquay) n'interrompt pas le service quotidien d'achat et de coupe du fourrage vert (*green forage*) pour les chevaux du train divisionnaire.
 
@@ -1444,9 +1448,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*St-Pol*) cf. supra fo 13 vo, fo 14 ro, infra fo 17 ro, fo 18 ro, *et passim*, Appendicem I, doc. 5. — **7** (*Arras*) cf. infra fo 59 ro, fo 89 ro.*
+***3** (*St-Pol*) cf. supra fo 14 ro, l. 22 (*St-Pol*); infra fo 17 ro, l. 13 (*St-Pol*). — **6** (*St. Michel-s-Ternoise*) cf. infra fo 18 vo, l. 20 (*St. Michel-sur-Ternoise*). — **7** (*Arras*) cf. infra fo 59 ro, l. 6 (*Arras*); fo 91 ro, l. 3 (*Arras*).*
 
-> Descendu de Marquay à **Saint-Pol-sur-Ternoise** (Pas-de-Calais) par Ramecourt et Saint-Michel-sur-Ternoise, Hippolyte Combes visite l'ancienne chapelle conventuelle des **Carmes** (XVIIe~s., bâtie en briques rouges en 1697 et devenue église paroissiale Saint-Paul après la destruction de l'ancienne église au XVIe~s.), où une plaque commémore la nuit de prière passée en mars 1767 par saint **Benoît-Joseph Labre** (1748–1783).
+> De Marquay à **Saint-Pol-sur-Ternoise** par Ramecourt et Saint-Michel-sur-Ternoise, Combes visite une église et rapporte les millésimes **1697** et **1767**, ce dernier à propos de Benoît-Joseph Labre. L'identification à l'ancienne chapelle des Carmes et la date précise de son séjour demandent une source propre ; la notice Mérimée `PA00108426`, invoquée dans un état antérieur, concerne l'hôtel de ville de Saint-Venant.
 
 ---
 
@@ -1489,9 +1493,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Ligny*) cf. infra fo 19 vo.*
+***5** (*Ligny*) cf. infra fo 19 vo, l. 6 (*Ligny*).*
 
-> À **Ligny-Saint-Flochel** (Pas-de-Calais), les manœuvres observées en lisière des bois s'inscrivent dans l'entraînement tactique de la **18e** Division britannique avant son retour sur la Somme (Nichols, 1922, p.~86). L'église **Saint-Flochel** conserve un clocher de pierre des XVe–XVIe~siècles classé monument historique (Base Mérimée, `PA00108332`).
+> À **Ligny-Saint-Flochel** (Pas-de-Calais), les manœuvres observées en lisière des bois peuvent être rapprochées de l'entraînement tactique de la **18e** Division britannique avant son retour sur la Somme (Nichols, 1922, p.~78). L'église **Saint-Flochel** conserve un clocher de pierre des XVe–XVIe~siècles classé monument historique (Base Mérimée, `PA00108332`).
 
 ---
 
@@ -1542,9 +1546,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--21 :** Ce feuillet réunit le samedi 2 septembre (l.~1--11, clos par un relevé de blanchissage entre crochets aux l.~10--11) et le début du dimanche 3 septembre (l.~12--21), dont la suite et les comptes se trouvent au fo~18~ro.
 
-***13** (*St-Pol*) cf. supra fo 13 vo, fo 16 ro, infra fo 18 ro, fo 18 vo, *et passim*, Appendicem I, doc. 5.*
+***13** (*St-Pol*) cf. supra fo 16 ro, l. 3 (*St-Pol*); infra fo 18 ro, l. 6 (*Saint-Pol*).*
 
-> Deux journées au cantonnement de Marquay: corvée matinale du samedi 2 septembre dans les champs détrempés de rosée, et promenade dominicale à pied le 3 septembre jusqu'à **Saint-Pol-sur-Ternoise** par le plateau dominant la vallée de la Ternoise (les notes descriptives et les comptes de cette sortie du 3 septembre se poursuivent au).
+> Deux journées au cantonnement de Marquay: corvée matinale du samedi 2 septembre dans les champs détrempés de rosée, et promenade dominicale à pied le 3 septembre jusqu'à **Saint-Pol-sur-Ternoise** par le plateau dominant la vallée de la Ternoise (les notes descriptives et les comptes de cette sortie se poursuivent dans la vue 036).
 
 ---
 
@@ -1589,11 +1593,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1--22 :** Le fo~17~vo porte les entrées des lundi 4 (l.~1--10) et mardi 5 septembre 1916 (l.~11--22), tandis que le fo~18~ro contient la fin de l'entrée du dimanche 3 septembre : Hippolyte Combes a rédigé les journées des 4 et 5 septembre sur la page de gauche avant ou après avoir complété le compte du 3 septembre sur la page en regard.
+**l.~1--22 :** La vue 035 contient les entrées des lundi 4 (l.~1--10) et mardi 5 septembre 1916 (l.~11--22), tandis que la vue 036 contient la fin de l’entrée du dimanche 3 septembre. La séquence photographique ne suit donc pas ici l’ordre chronologique. Elle ne suffit pas à établir la disposition matérielle de ces pages ni l’ordre de leur rédaction.
 
-***22** (*78 f. 75*) cf. infra fo 23 ro, fo 34 vo.*
+***22** (*78 f 75*) de eadem re cf. infra fo 23 ro, l. 12 (*78 f 75*); fo 34 vo, l. 10 (*78 f 75*).*
 
-> Après avoir préparé ses bagages le 4 septembre 1916, Hippolyte Combes apprend le mardi 5 septembre par un sous-officier de service (*orderly N.C.O.*) que le départ de la 18e Division est différé de quelques jours ; l'après-midi, il se rend à pied sous l'averse à **Roëllecourt** (Pas-de-Calais), siège de la Mission militaire française, où il perçoit sa quinzaine de 78~fr.~75 (15 jours à 5~fr.~25).
+> Après avoir préparé ses bagages le 4 septembre 1916, Hippolyte Combes apprend le mardi 5 septembre par un sous-officier de service (*orderly N.C.O.*) que le départ de la 18e Division est différé de quelques jours ; l'après-midi, il se rend à pied sous l'averse à **Roëllecourt** (Pas-de-Calais), siège de la Mission militaire française, où il perçoit 78~fr.~75 de solde et indemnité, sans ventilation ni durée explicitement écrites.
 
 ---
 
@@ -1624,7 +1628,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--9 :** Fin du récit paysager (l.~1--5) et relevé des dépenses (l.~6--9) de la journée du dimanche 3 septembre 1916, faisant suite au fo~17~ro.
 
-***6** (*Saint-Pol*) cf. supra fo 13 vo, fo 17 ro, infra fo 18 vo, *et passim*, Appendicem I, doc. 5.*
+***6** (*Saint-Pol*) cf. supra fo 17 ro, l. 13 (*St-Pol*); infra fo 18 vo, l. 18 (*St-Pol*).*
 
 > Outre une boîte de savon anglais pour cuir de sellerie (*saddle soap*) et du chocolat Poulain achetés à **Saint-Pol-sur-Ternoise**, l'acquisition d'une **carte du département de la Somme** (70~c.) et d'une géographie du Pas-de-Calais (35~c.) annonce dès le 3 septembre la marche prochaine de la 18e Division du Ternois vers le front de la Somme.
 
@@ -1684,7 +1688,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Ctis*) cf. supra fo 1 ro, fo 15 ro, infra fo 44 vo, fo 45 ro, *et passim*. — **18** (*St-Pol*) cf. supra fo 13 vo, fo 18 ro, *et passim*. — **25** (*Hair cut*) cf. infra fo 43 ro, fo 60 ro.*
+***5** (*Ctis*) cf. supra fo 15 ro, l. 17 (*Curtis*); infra fo 44 vo, l. 22 (*Curtis*). — **18** (*St-Pol*) cf. supra fo 17 ro, l. 13 (*St-Pol*); fo 18 ro, l. 6 (*Saint-Pol*). — **20** (*St. Michel-sur-Ternoise*) cf. supra fo 16 ro, l. 6 (*St. Michel-s-Ternoise*).*
 
 > Le mercredi 6 septembre, visite de service avec le lieutenant Curtis chez une exploitante de Marquay, **Mme Vauchel**. Le jeudi 7 septembre, revenant à pied de Saint-Pol, Hippolyte Combes s'attarde dans le cimetière entourant l'église **Saint-Michel de Saint-Michel-sur-Ternoise** (Pas-de-Calais), édifice de pierre blanche reconstruit au XVIe~s. (chœur de 1591) et doté d'un clocher de pierre du XVIIIe~s..
 
@@ -1721,9 +1725,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Bedfords*) cf. infra fo 23 vo. — **4** (*green forage*) cf. supra fo 3 ro, fo 15 vo, infra fo 21 ro, fo 22 ro, *et passim*.*
+***4** (*Bedfords*) cf. infra fo 23 vo, l. 6 (*Bedfs*).*
 
-> Les deux fourgons (*waggons*) venus charger le fourrage vert derrière la ferme Collet appartiennent au ***Bedfordshire Regiment*** (*Bedfords*), dont le 7e Bataillon (*Service*) fait partie de la 54e Brigade de la **18e** Division britannique (Nichols, 1922, p.~86).
+> Les deux fourgons (*waggons*) venus charger le fourrage vert derrière la ferme Collet appartiennent au ***Bedfordshire Regiment*** (*Bedfords*), dont le 7e Bataillon (*Service*) fait partie de la 54e Brigade de la **18e** Division britannique (Nichols, 1922, p.~108). Le numéro de bataillon est un rapprochement d'ordre de bataille ; il n'est pas écrit dans cette entrée.
 
 ---
 
@@ -1774,9 +1778,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Marquay*) cf. supra fo 14 ro, fo 19 ro, *et passim*. — **6** (*Ligny*) cf. supra fo 16 vo. — **19** (*Cap. West*) cf. infra fo 21 ro, fo 24 ro.*
+***2** (*Marquay*) cf. supra fo 14 ro, l. 15 (*Marquay*); fo 14 vo, l. 9 (*Marquay*). — **6** (*Ligny*) cf. supra fo 16 vo, l. 5 (*Ligny*). — **19** (*Cap. West*) cf. infra fo 21 ro, l. 4 (*Cap. West*); fo 24 ro, l. 4 (*West*).*
 
-> Le samedi 9 septembre 1916 débute le mouvement par étapes de la **18e** Division britannique depuis le Ternois vers le front de l'Ancre: après le défilé des trois brigades d'infanterie de la division (53e, 54e et 55e Brigades) et le passage devant l'école de mortiers de tranchée (*trench mortar school*) sur le plateau de Ligny-Saint-Flochel, la compagnie fait étape à **Monts-en-Ternois** (Pas-de-Calais, à 6~km au sud de Marquay), où le **capitaine West** (officier de la *152nd Company A.S.C.*) invite Hippolyte Combes à dîner au mess des officiers.
+> Le samedi 9 septembre 1916 débute le mouvement par étapes de la **18e** Division britannique depuis le Ternois vers le front de l'Ancre: après le défilé des trois brigades d'infanterie de la division (leurs numéros ne sont pas donnés dans cette entrée) et le passage devant l'école de mortiers de tranchée (*trench mortar school*) sur le plateau de Ligny-Saint-Flochel, la compagnie fait étape à **Monts-en-Ternois** (Pas-de-Calais, à 6~km au sud de Marquay), où le **capitaine West** (rapprochable du Capt. E.~M. West, commandant la *152nd Company A.S.C.* chez Nichols, 1922, p.~110) invite Hippolyte Combes à dîner au mess des officiers.
 
 ---
 
@@ -1817,9 +1821,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***9** (*Oppy*) cf. infra fo 20 vo. — **16** (*Beaudricourt*) cf. infra fo 20 vo.*
+***9** (*Oppy*) cf. infra fo 20 vo, l. 3 (*Oppy*).*
 
-> Le hameau d'**Oppy** où cantonne la compagnie le 9 septembre 1916 est l'écart d'Oppy rattaché à la commune de **Beaudricourt** (Pas-de-Calais, canton d'Avesnes-le-Comte, à l'ouest d'Arras), où Hippolyte Combes se rend à pied le 10 septembre auprès du maire pour le service de cantonnement.
+> Le hameau d'**Oppy** où cantonne la compagnie le 10 septembre 1916 est l'écart d'Oppy rattaché à la commune de **Beaudricourt** (Pas-de-Calais, canton d'Avesnes-le-Comte, à l'ouest d'Arras), où Hippolyte Combes se rend à pied le 10 septembre auprès du maire pour le service de cantonnement.
 
 ---
 
@@ -1864,9 +1868,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Oppy*) cf. supra fo 20 ro. — **5** (*Raincheval*) cf. infra fo 21 ro, fo 21 vo, *et passim*. — **20** (*Connelly*) cf. supra fo 6 ro, fo 19 vo, infra fo 22 vo, fo 37 ro.*
+***3** (*Oppy*) cf. supra fo 20 ro, l. 9 (*Oppy*). — **5** (*Raincheval*) cf. infra fo 21 vo, l. 16 (*Raincheval*); fo 23 vo, l. 4 (*Raincheval*). — **20** (*Connelly*) similitudo lectionis, incertitudo nominis cf. supra fo 19 vo, l. 24 (*Connelly*); infra fo 22 vo, l. 22 (*Connelly*).*
 
-> Longue étape à cheval conduisant la colonne du Pas-de-Calais dans la Somme par **Lucheux**, **Thièvres** et **Raincheval**. À **Lucheux** (Somme), Hippolyte Combes remarque les ruines du château fort des comtes de Saint-Pol (XIIe–XIVe~s. ; Base Mérimée, `PA00116194`) et le beffroi abritant le chêne historique sous lequel la tradition locale situe la signature par **Louis~XI** de l'édit du 19 juin 1464 instituant la poste royale.
+> Longue étape à cheval conduisant la colonne du Pas-de-Calais dans la Somme par **Lucheux**, **Thièvres** et **Raincheval**. À **Lucheux** (Somme), Hippolyte Combes remarque les ruines du château fort des comtes de Saint-Pol (XIIe–XIVe~s. ; Base Mérimée, `PA00116194`) et le beffroi abritant le chêne historique sous lequel la tradition locale situe la signature par **Louis~XI** de l'édit du 19 juin 1464 instituant la poste royale. Cette ordonnance est apocryphe : Joseph Calmette le rappelle en 1941, p.~240, en renvoyant aux travaux de Zeller et Gandilhon de 1937–1938.
 
 ---
 
@@ -1919,7 +1923,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Cap. West*) cf. supra fo 19 vo, infra fo 24 ro. — **14** (*green forage*) cf. supra fo 3 ro, fo 19 ro, infra fo 22 ro, fo 24 vo, *et passim*.*
+***4** (*Cap. West*) cf. supra fo 19 vo, l. 19 (*Cap. West*); infra fo 24 ro, l. 4 (*West*).*
 
 > À **Raincheval** (Somme), le mardi 12 septembre 1916, le **capitaine West** (de la *152nd Company A.S.C.*) admet définitivement l'interprète français à la table du mess des officiers britanniques. Le lendemain 13 septembre, entre deux corvées de fourrage vert sur le plateau, Hippolyte Combes parcourt les allées du grand bois jouxtant le château de Raincheval.
 
@@ -1968,9 +1972,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Acheux*) cf. infra fo 22 vo, fo 23 ro, *et passim*. — **16** (*Raincheval*) cf. supra fo 20 vo, fo 21 ro, infra fo 22 ro, fo 22 vo, *et passim*. — **16** (*canteen*) cf. infra fo 33 vo, fo 59 ro, *et passim*.*
+***4** (*Acheux*) cf. infra fo 22 vo, l. 8 (*Acheux*); fo 23 ro, l. 8 (*Acheux*). — **16** (*canteen*) cf. infra fo 33 vo, l. 15 (*canteen*); fo 59 ro, l. 22 (*canteen*). — **16** (*Raincheval*) cf. supra fo 20 vo, l. 5 (*Raincheval*); infra fo 23 vo, l. 4 (*Raincheval*).*
 
-> Après une première visite le 14 septembre au bureau de la Mission française de la 18e Division dans le parc du château d'**Acheux-en-Amiénois**, Hippolyte Combes observe le 15 septembre près de Raincheval des exercices de grenades et de mortiers de tranchée et acquiert à la cantine britannique l'ouvrage de **Sir Max Aitken** (Lord Beaverbrook), *Canada in Flanders: The Official Story of the Canadian Expeditionary Force* (Londres, Hodder & Stoughton, 1916).
+> Après une première visite le 14 septembre au bureau de la Mission française de la 18e Division dans le parc du château d'**Acheux-en-Amiénois**, Hippolyte Combes observe le 15 septembre près de Raincheval des exercices de grenades et de mines selon les termes du carnet et acquiert à la cantine britannique l'ouvrage de **Sir Max Aitken** (Lord Beaverbrook), *Canada in Flanders: The Official Story of the Canadian Expeditionary Force* (Londres, Hodder & Stoughton, 1916), sans identifier l'exemplaire ni assurer le volume acheté.
 
 ---
 
@@ -2016,7 +2020,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*green forage*) cf. supra fo 3 ro, fo 21 ro, infra fo 24 vo, fo 25 ro, *et passim*.*
+***3** (*green forage*) de eadem re cf. supra fo 21 ro, l. 14 (*green forage*); infra fo 24 vo, l. 8 (*green forage*). — **3** (*forage*) de eadem re cf. supra fo 21 ro, l. 14 (*forage*); infra fo 24 vo, l. 8 (*forage*). — **19** (*Washing*) de eadem re cf. supra fo 17 ro, l. 10 (*Washing*); infra fo 37 ro, l. 14 (*washing*).*
 
 > Dimanche d'attente à **Raincheval**: promenades sous les chênes séculaires bordant le parc du château, visite avec un collègue chez un collectionneur âgé du village (faïences, pierres et médailles), et présence l'après-midi à un office religieux méthodiste (*Wesleyans*) célébré pour les soldats britanniques dans une salle faisant face à l'église Saint-Éloi de Raincheval.
 
@@ -2067,9 +2071,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Hédauville*) cf. infra fo 38 vo, fo 54 ro. — **8** (*Acheux*) cf. supra fo 21 vo, infra fo 23 ro, fo 24 ro, *et passim*. — **10** (*Forceville*) cf. infra fo 24 ro, fo 24 vo.*
+***7** (*Hédauville*) cf. infra fo 38 vo, l. 2 (*Hédauville*); fo 54 ro, l. 8 (*Hédauville*). — **8** (*Acheux*) cf. supra fo 21 vo, l. 4 (*Acheux*); infra fo 23 ro, l. 8 (*Acheux*). — **10** (*Forceville*) cf. infra fo 24 ro, l. 16 (*Forceville*); fo 24 vo, l. 8 (*Forceville*).*
 
-> Convoqué sous une pluie battante le 18 septembre 1916, Hippolyte Combes chevauche jusqu'à **Hédauville** puis par **Forceville** jusqu'à **Acheux-en-Amiénois**, où se trouvent toujours l'état-major (*H.Q.*) de la **18e** Division britannique et sa Mission française (la division prépare alors l'assaut de Thiepval du 26 septembre; Nichols, *op.~cit.*, p.~100).
+> Convoqué sous une pluie battante le 18 septembre 1916, Hippolyte Combes chevauche jusqu'à **Hédauville** puis par **Forceville** jusqu'à **Acheux-en-Amiénois**, où Combes apprend que se trouvent toujours l'état-major (*H.Q.*) de la **18e** Division britannique et sa Mission française (la division prépare alors l'assaut de Thiepval du 26 septembre; Nichols, *op.~cit.*, p.~78–79).
 
 ---
 
@@ -2102,14 +2106,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***8** (*Acheux*) cf. supra fo 21 vo, fo 22 vo, infra fo 24 ro, fo 24 vo, *et passim*. — **12** (*78 f. 75*) cf. supra fo 17 vo, infra fo 34 vo, fo 53 ro.*
+***8** (*Acheux*) cf. supra fo 22 vo, l. 8 (*Acheux*); infra fo 24 ro, l. 12 (*Acheux*).*
 
-> Profitant d'une accalmie après trois journées d'averses qui ont détrempé les chemins de la Somme, Hippolyte Combes se rend à cheval au bureau de la Mission française installé dans une baraque (*hutte*) sur la pelouse du château d'**Acheux-en-Amiénois** et y perçoit sa solde de quinzaine (78~fr.~75), à quatre jours de son départ en permission.
+> Profitant d'une accalmie après trois journées d'averses qui ont détrempé les chemins de la Somme, Hippolyte Combes se rend à cheval au bureau de la Mission française installé dans une baraque (*hutte*) sur la pelouse du château d'**Acheux-en-Amiénois** et y perçoit sa solde (78~fr.~75), sans période de paiement précisée, à quatre jours de son départ en permission.
 
 ---
 
 ## Folio 23 verso — Septembre 1916
-- **Titre** : Match de football des « Bedfs », annonce du départ (« we are moving demain ») et nuit sombre
+- **Titre** : Match de football près des « Bedfs », annonce du départ (« we are moving demain ») et nuit sombre
 - **Date** : Vendredi 22 septembre 1916
 - **Lieu** : Raincheval (Somme)
 
@@ -2142,15 +2146,15 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 10* : **10** **we are moving** *angl.* nous changeons de cantonnement.
 - *l. 11* : **11** **gde** *grande*.
 - *l. 15* : **15** **qq** *quelques* ; **stars** *angl.* étoiles.
-- *l. 16* : **16** **2 tins of coffee milk** *angl.* deux boîtes de lait concentré au café.
+- *l. 16* : **16** **2 tins of coffee milk** *angl.* deux boîtes de « coffee milk » ; préparation non précisée.
 - *l. 17* : **17** **[25 ?]** Petits chiffres du prix proposés, avec réserve.
 - *l. 18* : **18** **Eggs & food** *angl.* œufs et nourriture.
 
 * * *
 
-***4** (*Raincheval*) cf. supra fo 20 vo, fo 23 ro, infra fo 24 ro, fo 45 vo, *et passim*. — **6** (*Bedfs*) cf. supra fo 19 ro. — **10** (*Panton*) cf. infra fo 34 ro, fo 36 vo.*
+***4** (*Raincheval*) cf. supra fo 21 vo, l. 16 (*Raincheval*); infra fo 45 vo, l. 1 (*Raincheval*). — **6** (*Bedfs*) cf. supra fo 19 ro, l. 4 (*Bedfords*). — **10** (*Panton*) cf. infra fo 34 ro, l. 15 (*Cap. Panton*); fo 36 vo, l. 15 (*Cap. Pant.*).*
 
-> Informé des horaires de train à la gare de Raincheval en vue de sa permission du 25 septembre, Hippolyte Combes assiste à un match de football près des lignes de chevaux du **7e** Bataillon du *Bedfordshire Regiment* (*Bedfords*, 54e Brigade de la 18e Division), avant d'apprendre par le **capitaine Panton** (*152nd Company A.S.C.*) le départ de l'unité pour le lendemain.
+> Informé des horaires de train à la gare de Raincheval en vue de sa permission du 25 septembre, Hippolyte Combes assiste à un match de football près des lignes de chevaux des **Bedfords** (*Bedfordshire Regiment*), sans numéro de bataillon écrit, avant d'apprendre par le **capitaine Panton** (l'appartenance précise du capitaine n'est pas écrite ici) le départ de l'unité pour le lendemain.
 
 ---
 
@@ -2204,7 +2208,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*West*) cf. supra fo 19 vo, fo 21 ro. — **8** (*Léalvillers*) cf. infra fo 47 ro, fo 47 vo, *et passim*. — **9** (*Pizzi*) cf. infra fo 42 vo, fo 45 ro.*
+***4** (*West*) cf. supra fo 19 vo, l. 19 (*Cap. West*); fo 21 ro, l. 4 (*Cap. West*). — **8** (*Léalvillers*) cf. infra fo 47 ro, l. 7 (*Léalvillers*); fo 47 vo, l. 22 (*Léalvillers*). — **9** (*Pizzi*) cf. infra fo 42 vo, l. 9 (*Pizzi*); fo 45 ro, l. 8 (*Pizzi*).*
 
 > Le samedi 23 septembre 1916 — à trois jours de l'attaque de la 18e Division contre Thiepval —, la compagnie quitte Raincheval sous les ordres du **capitaine West** ; à hauteur de **Léalvillers**, le lieutenant interprète divisionnaire **Pizzi** apporte en automobile un contre-ordre qui dirige l'unité par la gare d'Acheux vers les coteaux de **Forceville**, où elle bivouaque en plein champ (*in the open*).
 
@@ -2255,7 +2259,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--21 :** Le feuillet est intégralement consacré à la journée du dimanche 24 septembre 1916 au camp d'Acheux, sans bloc comptable final, la page se refermant sur la notation auditive du canon grondant sur le front (l.~21).
 
-***8** (*Forceville*) cf. supra fo 22 vo, fo 24 ro, infra fo 25 ro, fo 48 ro. — **8** (*green forage*) cf. supra fo 3 ro, fo 22 ro, infra fo 25 ro, fo 35 vo, *et passim*. — **15** (*Acheux*) cf. supra fo 21 vo, fo 24 ro, infra fo 25 ro, fo 43 vo, *et passim*.*
+***8** (*Forceville*) cf. supra fo 24 ro, l. 16 (*Forceville*); infra fo 25 ro, l. 8 (*Forceville*). — **15** (*Acheux*) cf. supra fo 24 ro, l. 12 (*Acheux*); infra fo 25 ro, l. 12 (*Acheux-Varennes*).*
 
 > Au bivouac de **Forceville** le dimanche 24 septembre 1916, le grondement continu du canon entendu dans la nuit (l.~21) correspond au bombardement préparatoire franco-britannique précédant les offensives de **Morval--Combles** (25 septembre) et de la crête de **Thiepval** (26 septembre 1916, où s'engage la 18e Division).
 
@@ -2296,12 +2300,12 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 12* : **12** **chps** *champs* ; **j'à** *jusqu’à*.
 - *l. 13* : **13** **office** *angl.* bureau ; **R.T.O.** *Railway Transport Officer : officier chargé des transports ferroviaires*.
 - *l. 15* : **15** **lgt.** *longtemps* ; **ds** *dans* ; **compartimt** *compartiment*.
-- *l. 18* : **18** **groom** *angl.* ordonnance ; soldat chargé ici du service personnel.
+- *l. 18* : **18** **Tip** *angl.* pourboire ; **groom** *angl.* ordonnance ; soldat chargé ici du service personnel.
 - *l. 19* : **19** **Lunch** *angl.* déjeuner.
 
 * * *
 
-***8** (*Forceville*) cf. supra fo 22 vo, fo 24 vo, infra fo 48 ro. — **12** (*Acheux-Varennes*) cf. supra fo 21 vo, fo 24 vo, infra fo 43 vo, fo 44 vo, *et passim*. — **12** (*Varennes*) cf. infra fo 48 ro, fo 48 vo, *et passim*.*
+***8** (*Forceville*) cf. supra fo 24 vo, l. 8 (*Forceville*); infra fo 48 ro, l. 3 (*Forceville*). — **12** (*Acheux-Varennes*) cf. supra fo 24 vo, l. 15 (*Acheux*); infra fo 43 vo, l. 6 (*Acheux*). — **12** (*Varennes*) cf. infra fo 48 ro, l. 5 (*Varennes*); fo 48 vo, l. 11 (*Varennes*).*
 
 > Départ d'Hippolyte Combes pour sa première permission le lundi 25 septembre 1916 : après une corvée matinale de fourrage vert à Forceville avec le **lieutenant Ford**, il gagne à midi en fourgon la tête de ligne ferroviaire (*railhead*) d'**Acheux-Varennes**, confie ses bagages au bureau du *Railway Transport Officer* (*R.T.O.*) et prend à 18~h~40 le train départemental à voie métrique vers Gézaincourt.
 
@@ -2346,7 +2350,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***8** (*Doullens*) cf. infra fo 32 vo, fo 33 ro, *et passim*. — **9** (*Amiens*) cf. infra fo 32 vo, fo 44 vo, *et passim*. — **10** (*Paris*) cf. supra in tegumento, infra fo 26 ro, fo 26 vo, *et passim*.*
+***8** (*Doullens*) cf. infra fo 32 vo, l. 4 (*Doullens*); fo 33 ro, l. 3 (*Doullens*). — **9** (*Amiens*) cf. infra fo 32 vo, l. 2 (*Amiens*); fo 44 vo, l. 19 (*Amiens*). — **10** (*Paris*) cf. infra fo 32 vo, l. 6 (*Paris*), del.; fo 49 vo, l. 23 (*Paris*).*
 
 > Après la correspondance à la gare de bifurcation de **Gézaincourt** (au sud de Doullens) et le départ d'**Amiens** à 20~h dans le train de permissionnaires vers Paris, le convoi est pris au triage ferroviaire de **Longueau** (Somme) sous un raid nocturne d'avions allemands (désignés sous le terme générique de *Taubes*) combattus par les projecteurs et la défense contre avions.
 
@@ -2395,7 +2399,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--22 :** Première page consacrée à la journée parisienne du mardi 26 septembre 1916 (arrivée au Bourget, gare du Nord, gare d'Orsay et courses rive gauche), poursuivie au fo~26~vo.
 
-***17** (*Toulouse*) cf. supra in tegumento, fo 23 vo, infra fo 26 vo, fo 27 ro, *et passim*, Appendicem I, doc. 1 et 3.*
+***17** (*Toulouse*) cf. supra fo 23 vo, l. 13 (*Toulouse*); infra fo 26 vo, l. 13 (*Toulouse*).*
 
 > Débarqué à 6~h du matin à la gare militaire de triage du **Bourget**, Hippolyte Combes gagne la gare du Nord en tramway puis la **gare d'Orsay** (tête de ligne de la Compagnie du Paris-Orléans vers Toulouse) et le gouvernement militaire de Paris à l'**Hôtel des Invalides** pour obtenir l'autorisation de voyager à ses frais en train express (2e classe, au quart de tarif militaire), avant de parcourir la rive gauche (rue du Bac, Bon Marché, rue de Rennes, jardin du Luxembourg et librairie Armand Colin, 103 boulevard Saint-Michel).
 
@@ -2448,7 +2452,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~11--21 :** Seconde page du mardi 26 septembre 1916, occupée dans sa moitié inférieure par le tableau détaillé des achats et frais de transport effectués par Hippolyte Combes à Paris avant son départ pour Toulouse.
 
-***13** (*Toulouse*) cf. supra in tegumento, fo 26 ro, infra fo 27 ro, fo 27 vo, *et passim*, Appendicem I, doc. 1 et 3. — **15** (*Zyromski*) cf. infra fo 67 vo. — **16** (*Maeterlinck*) cf. .*
+***13** (*Toulouse*) cf. supra fo 26 ro, l. 17 (*Toulouse*); infra fo 27 ro, l. 3 (*Toulouse*). — **15** (*Zyromski*) cf. infra fo 67 vo, l. 10 (*Zyromski*).*
 
 > À la librairie Armand Colin (boulevard Saint-Michel), Hippolyte Combes acquiert deux ouvrages contemporains : l'essai d'**Ernest Zyromski** (1862–1933, professeur de littérature française à la Faculté des lettres de Toulouse), ***L'Orgueil humain*** (Armand Colin, 1904), et le recueil d'essais de guerre de **Maurice Maeterlinck**, ***Les Débris de la guerre*** (Fasquelle, Bibliothèque-Charpentier, 1916).
 
@@ -2489,9 +2493,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Toulouse*) cf. supra in tegumento, fo 26 vo, infra fo 27 vo, fo 28 ro, *et passim*, Appendicem I, doc. 1 et 3. — **7** (*Crouzet*) cf. infra fo 27 vo, fo 31 ro, *et passim*. — **11** (*Margte*) cf. supra fo 1 ro, fo 9 vo, infra fo 27 vo, fo 28 ro, *et passim*.*
+***3** (*Toulouse*) cf. supra fo 26 vo, l. 13 (*Toulouse*); infra fo 66 ro, l. 7 (*Toulouse*). — **7** (*Crouzet*) cf. infra fo 27 vo, l. 11 (*Czt.*); fo 31 ro, l. 18 (*Crouzet*). — **11** (*Margte*) cf. supra fo 9 vo, l. 4 (*Margte*); infra fo 27 vo, l. 6 (*Mte*).*
 
-> Arrivé à **Toulouse** pour sa première permission, Hippolyte Combes retrouve sa fiancée **Marguerite Calmels** (1892–1974) chez l'oncle et la tante de celle-ci, **Émile Crouzet** (1842–1921, agent de change à Toulouse) et **Élisabeth Calmels**, et revoit le pensionnat jésuite de **Sainte-Marie-des-Champs** (Le Caousou) où il avait accompli ses études secondaires.
+> Arrivé à **Toulouse** pendant sa permission, Hippolyte Combes retrouve les dames Calmels, les Crouzet et **Marguerite Calmels**. L'annexe familiale présente **Émile Crouzet** (1842–1921) et son épouse **Élisabeth Calmels** ; l'acte de naissance de Marguerite atteste Émile comme agent de change à Toulouse. Le carnet nomme **Sainte-Marie-des-Champs** ; cette mention ne permet pas d'en faire le pensionnat jésuite du Caousou où Combes aurait étudié.
 
 ---
 
@@ -2543,14 +2547,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Mte*) cf. supra fo 1 ro, fo 27 ro, infra fo 28 ro, fo 28 vo, *et passim*, Appendicem I, doc. 5. — **6** (*Ste-Marie*) cf. infra fo 66 ro, fo 66 vo, *et passim*. — **11** (*Czt*) cf. supra fo 27 ro, infra fo 31 ro, fo 32 ro, *et passim*.*
+***6** (*Ste-Marie*) cf. infra fo 66 ro, l. 21 (*Ste-Marie*); fo 66 vo, l. 5 (*Ste-Marie*). — **6** (*Mte*) cf. supra fo 27 ro, l. 11 (*Margte*); infra fo 28 ro, l. 6 (*Mte*). — **11** (*Czt.*) cf. supra fo 27 ro, l. 7 (*Crouzet*); infra fo 31 ro, l. 18 (*Crouzet*).*
 
-> Après avoir offert à Marguerite Calmels un bouquet acheté place Esquirol, Hippolyte Combes effectue avec elle, **Élisabeth Calmels-Crouzet** et **Émile Crouzet** (*M.~Czt*) une promenade sur les coteaux dominant la Garonne au sud de Toulouse, par l'église de **Pouvourville** et la crête de **Pech-David**.
+> Après avoir offert à Marguerite Calmels un bouquet acheté place Esquirol, Hippolyte Combes effectue avec elle, *Mme C.* et *M.~Czt*, ce dernier rapprochable d'Émile Crouzet, une promenade sur les coteaux dominant la Garonne au sud de Toulouse, par l'église de **Pouvourville** et la crête de **Pech-David**.
 
 ---
 
 ## Folio 28 recto — Septembre 1916
-- **Titre** : Vendredi 29 septembre 1916 — Visite à Mme de Labarthe, promenade avec sa fiancée Marguerite à Blagnac (ruines de l'amphithéâtre romain) et achat d'un sautoir en or chez Pfister (295 fr.)
+- **Titre** : Vendredi 29 septembre 1916 — Visite à Mme de Labarthe, promenade avec sa fiancée Marguerite par les ruines de Purpan puis Blagnac et achat d'un sautoir en or chez Pfister (295 fr.)
 - **Date** : Vendredi 29 septembre 1916
 - **Lieu** : Toulouse, Purpan, Blagnac et les Ponts-Jumeaux (Haute-Garonne)
 
@@ -2593,9 +2597,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Mme de Labarthe*) cf. infra fo 28 vo, fo 30 ro, *et passim*. — **6** (*Mte*) cf. supra fo 1 ro, fo 27 vo, infra fo 28 vo, fo 29 ro, *et passim*. — **20** (*Pfister*) cf. infra fo 68 vo, fo 69 ro.*
+***4** (*Mme de Labarthe*) cf. infra fo 28 vo, l. 3 (*Mme de Labarthe*); fo 30 ro, l. 12 (*Mme de Labarthe*). — **6** (*Mte*) cf. supra fo 27 vo, l. 6 (*Mte*); infra fo 28 vo, l. 7 (*Margte*). — **20** (*Pfister*) cf. infra fo 68 vo, l. 11 (*Pfister*); fo 69 ro, l. 11 (*Pfister*).*
 
-> Journée de fiançailles à **Toulouse** le vendredi 29 septembre 1916 : Hippolyte Combes offre à **Marguerite Calmels** — qu'il appelle déjà dans l'intimité du carnet *ma Femme*, un an avant leur mariage célébré à Millau le 25 octobre 1917 — un sautoir en or acquis 295~francs.
+> À **Toulouse** le vendredi 29 septembre 1916, Combes décrit sa proximité avec **Marguerite Calmels**, qu'il appelle *ma Femme* avant leur mariage du 25 octobre 1917. La promenade passe par Purpan, les Ruines, Blagnac et les Ponts Jumeaux. Le compte porte un **sautoir en or** chez Pfister, 300~fr. net 295~fr. ; cette entrée ne nomme pas sa destinataire et ne date pas une cérémonie de fiançailles.
 
 ---
 
@@ -2651,9 +2655,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Mme de Labarthe*) cf. supra fo 28 ro, infra fo 30 ro, fo 30 vo, *et passim*. — **7** (*Margte*) cf. supra fo 1 ro, fo 28 ro, infra fo 29 ro, fo 29 vo, *et passim*.*
+***3** (*Mme de Labarthe*) cf. supra fo 28 ro, l. 4 (*Mme de Labarthe*); infra fo 30 ro, l. 12 (*Mme de Labarthe*). — **7** (*Margte*) cf. supra fo 28 ro, l. 6 (*Mte*); infra fo 29 ro, l. 3 (*Mte*).*
 
-> Promenade toulousaine avec Marguerite Calmels le long des allées et du **canal du Midi** jusqu'au faubourg Saint-Étienne, rythmée par la sonnerie des cinq cloches de la cathédrale **Saint-Étienne de Toulouse**.
+> Le 30 septembre 1916, Combes et Marguerite se promènent à **Montaudran**, montent dans le clocher et font vibrer ses **cinq cloches**. Ils continuent au cimetière de **Terre-Cabade**, devant les caveaux des Jésuites et du père Marie-Antoine, puis échangent des serments au souvenir de *notre grand ami* et de Joséphine. Le récit familial propose le père d'Adhémar pour cet ami ; le carnet ne le nomme pas.
 
 ---
 
@@ -2693,9 +2697,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*St-Etienne*) cf. infra fo 30 ro. — **3** (*Mte*) cf. supra fo 1 ro, fo 28 vo, infra fo 29 vo, fo 30 ro, *et passim*. — **12** (*Jean*) cf. infra fo 29 vo, fo 66 vo.*
+***2** (*St-Etienne*) cf. infra fo 30 ro, l. 2 (*St-Etienne*). — **3** (*Mte*) cf. supra fo 28 vo, l. 7 (*Margte*); infra fo 29 vo, l. 8 (*Mte*). — **12** (*Jean*) similitudo lectionis cf. infra fo 29 vo, l. 17 (*Jean*); fo 66 vo, l. 8 (*Jean*).*
 
-> Dimanche 1er octobre 1916 à **Toulouse** : après la messe matinale à la cathédrale **Saint-Étienne**, Hippolyte Combes range sa bibliothèque personnelle dans son appartement toulousain avant une promenade vespérale au Grand-Rond avec Marguerite Calmels.
+> Dimanche 1er octobre 1916 à **Toulouse** : après la messe matinale à la cathédrale **Saint-Étienne**, Hippolyte Combes range sa bibliothèque personnelle dans son appartement toulousain avant le déjeuner à Sainte-Marie et une promenade à Lardenne puis au pont du Touch avec Marguerite Calmels.
 
 ---
 
@@ -2742,14 +2746,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***8** (*Mte*) cf. supra fo 1 ro, fo 29 ro, infra fo 30 ro, fo 31 ro, *et passim*, Appendicem I, doc. 5. — **17** (*Jean*) cf. supra fo 29 ro, infra fo 66 vo, fo 69 vo.*
+***8** (*Mte*) cf. supra fo 29 ro, l. 3 (*Mte*); infra fo 30 ro, l. 3 (*Margte*). — **17** (*Jean*) similitudo lectionis cf. supra fo 29 ro, l. 12 (*Jean*); infra fo 66 vo, l. 8 (*Jean*).*
 
-> Le lundi 2 octobre 1916, **Marguerite Calmels** et sa mère **Mme Valentine Calmels** visitent l'appartement toulousain d'Hippolyte Combes, puis tous trois se recueillent à la chapelle **Notre-Dame-de-Nazareth** (rue Pharaon, quartier des Carmes, sanctuaire familial des Combes à Toulouse) avant de remonter à la Côte Pavée, d'où Hippolyte Combes repart à 21~h~30 avec l'abbé **Jean Crouzet**.
+> Le lundi 2 octobre 1916, **Marguerite Calmels** et sa mère **Mme Valentine Calmels** visitent l'appartement toulousain d'Hippolyte Combes, puis tous trois se recueillent à la chapelle **Notre-Dame-de-Nazareth** (rue Pharaon, quartier des Carmes) avant de remonter à la Côte Pavée, d'où Hippolyte Combes repart à 21~h~30 avec Jean, rapprochable de l'abbé **Jean Crouzet** d'après l'annexe familiale.
 
 ---
 
 ## Folio 30 recto — Octobre 1916
-- **Titre** : Mardi 3 octobre 1916 — Messe à la cathédrale Saint-Étienne, déjeuner à l'Automate, promenade vers la route de Castanet et présentation de sa fiancée à Mme de Labarthe
+- **Titre** : Mardi 3 octobre 1916 — Messe à la cathédrale Saint-Étienne, déjeuner à l'Automate, promenade en tram et à pied et présentation de sa fiancée à Mme de Labarthe
 - **Date** : Mardi 3 octobre 1916
 - **Lieu** : Toulouse (Cathédrale Saint-Étienne, rue d'Alsace-Lorraine, marché Victor-Hugo, route de Castanet)
 
@@ -2787,14 +2791,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*St-Etienne*) cf. supra fo 29 ro. — **3** (*Margte*) cf. supra fo 1 ro, fo 29 vo, infra fo 31 ro, fo 32 ro, *et passim*. — **12** (*Mme de Labarthe*) cf. supra fo 28 ro, fo 28 vo, infra fo 30 vo, fo 67 vo, *et passim*.*
+***2** (*St-Etienne*) cf. supra fo 29 ro, l. 2 (*St-Etienne*). — **3** (*Margte*) cf. supra fo 29 vo, l. 8 (*Mte*); infra fo 31 ro, l. 8 (*Mte*). — **12** (*Mme de Labarthe*) cf. supra fo 28 vo, l. 3 (*Mme de Labarthe*); infra fo 30 vo, l. 8 (*Mme de Labarthe*).*
 
 > Après une messe anniversaire à la cathédrale **Saint-Étienne** pour une parente de la famille Calmels (*Mlle Calmels*), un passage au bar-restaurant automatique (*l'Automate*) et les courses au marché couvert de la place **Victor-Hugo** avec Mme Calmels et Marguerite, Hippolyte Combes conduit l'après-midi sa fiancée et sa future belle-mère par le tramway de la rue Saint-Joseph jusqu'à la propriété de sa grande amie **Mme de Labarthe**, à qui il présente officiellement Marguerite.
 
 ---
 
 ## Folio 30 verso — Octobre 1916
-- **Titre** : Règlement du tailleur Guiraud, du loyer semestriel à Mlle Guilhem et thé chez Mme de Labarthe
+- **Titre** : Règlement du tailleur Guiraud, du loyer semestriel à Mlle Guilhem et visite chez Mme de Labarthe
 - **Date** : Mardi 3 octobre 1916 (suite)
 - **Lieu** : Toulouse
 
@@ -2822,7 +2826,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--10 :** Feuillet associant un bilan des dépenses de la permission toulousaine du 3 octobre 1916 (tailleur Guiraud, loyer de Mlle~Guilhem, l.~2--7) et une brève notation mondaine sur la visite de la propriété de Mme~de Labarthe (l.~8--10).
 
-***8** (*Mme de Labarthe*) cf. supra fo 28 ro, fo 30 ro, infra fo 67 vo, fo 68 vo, *et passim*.*
+***8** (*Mme de Labarthe*) cf. supra fo 30 ro, l. 12 (*Mme de Labarthe*); infra fo 67 vo, l. 6 (*Mme de Labarthe*).*
 
 > Avant de quitter Toulouse, Hippolyte Combes règle 38~fr. à son tailleur **Guiraud** pour la façon et les fournitures de sa tunique militaire (plus 60~c. de doublure de satin) ainsi que 90~fr. à sa propriétaire **Mlle Guilhem** pour le loyer semestriel (juillet 1916 -- janvier 1917) de son appartement toulousain, où il conserve ses meubles et souvenirs de famille. Les trois dernières lignes (l.~8--10) complètent le récit de la visite de l'après-midi à la propriété de **Mme de Labarthe**.
 
@@ -2872,9 +2876,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***8** (*Mte*) cf. supra fo 1 ro, fo 30 ro, infra fo 32 ro, fo 56 ro, *et passim*, Appendicem I, doc. 5. — **18** (*Crouzet*) cf. supra fo 27 ro, fo 27 vo, infra fo 32 ro, fo 66 ro, *et passim*.*
+***8** (*Mte*) cf. supra fo 30 ro, l. 3 (*Margte*); infra fo 32 ro, l. 1 (*Mte*). — **18** (*Crouzet*) cf. supra fo 27 vo, l. 11 (*Czt.*); infra fo 32 ro, l. 13 (*Crouzet*).*
 
-> Dernière journée de la permission d'automne à Toulouse (mercredi 4 octobre 1916): après avoir fermé son appartement et pris un bain aux **Thermes du Languedoc**, Hippolyte Combes passe l'après-midi auprès de Marguerite dans le parc de Sainte-Marie, puis gagne le soir la **gare Matabiau** (cour de la Grande Vitesse, *G.V.*) accompagné de sa fiancée et de l'oncle **Émile Crouzet** (1842--1921). La phrase inachevée du bas de la page se poursuit directement en tête du (*... Mte* & moi, très émus..).
+> Dernière journée de la permission d'automne à Toulouse (mercredi 4 octobre 1916): après avoir fermé son appartement et pris un bain aux **Thermes du Languedoc**, Hippolyte Combes passe l'après-midi auprès de Marguerite dans le parc de Sainte-Marie, puis gagne le soir la **gare Matabiau** (cour de la Grande Vitesse, *G.V.*) accompagné de sa fiancée et de l'oncle **Émile Crouzet** (1842--1921). La phrase inachevée du bas de la page se poursuit directement en tête de la vue 064 (*... Mte* & moi, très émus..).
 
 ---
 
@@ -2916,11 +2920,11 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-**l.~1--19 :** Le fo~31~vo (journée du jeudi 5 octobre 1916 à Paris et retour vers le front) et le fo~32~ro (soirée du mercredi 4 octobre et nuit du 4 au 5 octobre dans l'express Toulouse--Paris) ont été photographiés ou rédigés dans l'ordre inverse de la chronologie.
+**l.~1--19 :** La vue 063 (jeudi 5 octobre 1916, Paris et retour vers le front) précède dans la séquence photographique la vue 064 (soirée du mercredi 4 octobre et nuit du 4 au 5 octobre dans l’express Toulouse--Paris). La cause de cet écart à l’ordre chronologique n’est pas établie.
 
-***1** (*Jeudi 5*) de ordine chronologico cf. infra fo 32 ro.*
+***1** (*Jeudi 5*) de ordine chronologico cf. infra fo 32 ro, l. 2 (*Mer. 4 Oct 16*). — **3** (*gare*) de eadem re cf. supra fo 31 ro, l. 5 (*gare*); infra fo 32 vo, l. 1 (*train*).*
 
-> En escale à Paris le jeudi 5 octobre 1916 entre la gare d'Orsay et la gare du Nord, Hippolyte Combes visite l'église basilicale **Saint-Vincent-de-Paul** (Xe~arr., bâtie par Jacques-Ignace Hittorff de 1824 à 1844 ; Base Mérimée, `PA00086489`), célèbre pour ses deux ordres superposés de colonnes ioniques et corinthiennes en stuc marbré brun et la grande frise peinte par **Hippolyte Flandrin** (1849–1853), puis écrit au salon de correspondance des **Grands Magasins du Louvre**.
+> En escale à Paris le jeudi 5 octobre 1916 entre la gare d'Orsay et la gare du Nord, Hippolyte Combes visite l'église basilicale **Saint-Vincent-de-Paul** (Xe~arr., commencée en 1824 sur les plans de Jean-Baptiste Lepère puis modifiée par Jacques-Ignace Hittorff, ouverte au culte en 1844 ; Base Mérimée, `PA00086489`), célèbre pour ses deux étages de colonnades et la grande frise peinte par **Hippolyte Flandrin** (1849–1853), puis écrit au salon de correspondance des **Grands Magasins du Louvre**.
 
 ---
 
@@ -2945,7 +2949,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 13 | Crouzet : 5 f –
 ```
 
-- *l. 1* : **1** **Mte** *Marguerite*.
+- *l. 1* : **1** **...** points de reprise éditoriaux ; le manuscrit commence directement par Mte ; **Mte** *Marguerite*.
 - *l. 2* : **2** **Mer.** *mercredi* ; **Oct** *octobre*.
 - *l. 7* : **7** **Ste** *Sainte*.
 - *l. 8* : **8** **Mte** *Marguerite*.
@@ -2955,7 +2959,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--13 :** Ce feuillet (fin de la journée du 4 octobre 1916 au départ de Toulouse, l.~1--6, et relevé des dépenses de la veille, l.~7--13) précède chronologiquement le fo~31~vo.
 
-***1** (*4 au 5 Oct.*) de ordine chronologico cf. supra fo 31 vo. — **1** (*Mte*) cf. supra fo 1 ro, fo 31 ro, infra fo 56 ro, fo 57 ro, *et passim*, Appendicem I, doc. 5. — **13** (*Crouzet*) cf. supra fo 27 ro, fo 31 ro, infra fo 66 ro, fo 66 vo, *et passim*.*
+***2** (*Mer. 4 Oct 16*) de ordine chronologico cf. supra fo 31 vo, l. 1 (*Jeudi 5*). — **1** (*Mte*) cf. supra fo 31 ro, l. 8 (*Mte*); infra fo 56 ro, l. 10 (*Mte*). — **13** (*Crouzet*) cf. supra fo 27 vo, l. 11 (*Czt.*); fo 31 ro, l. 18 (*Crouzet*).*
 
 > Pendant le trajet nocturne du 4 au 5 octobre 1916 de Toulouse-Matabiau à Paris-Orsay (billet militaire de 3e classe à 11~fr.~75), Hippolyte Combes récapitule ses dernières dépenses toulousaines, dont deux images pieuses de sainte Thérèse (40~c.), un bouquet pour Marguerite Calmels (1~fr.~70) et 5~fr. d'étrennes à **Maria**, domestique de la famille Crouzet à Sainte-Marie.
 
@@ -2983,7 +2987,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Amiens*) cf. supra fo 25 vo, infra fo 44 vo, fo 49 ro, *et passim*. — **4** (*Doullens*) cf. supra fo 25 vo, infra fo 33 ro, fo 33 vo, *et passim*. — **6** (*Paris*) cf. supra in tegumento, fo 32 ro, infra fo 49 vo, fo 58 ro, *et passim*.*
+***2** (*Amiens*) cf. supra fo 25 vo, l. 9 (*Amiens*); infra fo 44 vo, l. 19 (*Amiens*). — **4** (*Doullens*) cf. supra fo 25 vo, l. 8 (*Doullens*); infra fo 33 ro, l. 3 (*Doullens*). — **6** (*Paris*) verba deleta cf. supra fo 25 vo, l. 10 (*Paris*); infra fo 49 vo, l. 23 (*Paris*).*
 
 > Suite de la journée du jeudi 5 octobre 1916: parti de Paris-Nord à 13~h~15 pour **Amiens** (18~h), Hippolyte Combes reprend à 18~h~30 la ligne de Saint-Pol et débarque vers minuit en gare de **Doullens** (Somme), grand nœud ferroviaire d'arrière-front où il doit passer le reste de la nuit sur un banc de la salle d'attente.
 
@@ -3028,9 +3032,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Doullens*) cf. supra fo 25 vo, fo 32 vo, infra fo 33 vo, fo 49 ro, *et passim*. — **18** (*152 Coy*) cf. infra fo 45 vo, fo 46 ro, *et passim*.*
+***3** (*Doullens*) cf. supra fo 32 vo, l. 4 (*Doullens*); infra fo 33 vo, l. 14 (*Doullens*). — **18** (*152 Coy*) cf. infra fo 45 vo, l. 12 (*152 Coy*); fo 46 ro, l. 14 (*152 Coy*).*
 
-> Première mention explicite dans le carnet du numéro de l'unité britannique d'Hippolyte Combes : la **152e** Compagnie de l'*Army Service Corps* (*152nd Company A.S.C.*), rattachée au *18th Divisional Train* et chargée du ravitaillement de la **54e** Brigade d'infanterie de la 18e Division, qui vient de livrer la bataille de la crête de Thiepval (26–30 septembre 1916) et a établi sa tête de ligne ferroviaire (*railhead*) à **Canaples** (Somme).
+> Le 6 octobre, Combes trouve à **Canaples** les lorries de la *supply column* de la **54e Brigade**, puis écrit avoir retrouvé la **152nd Company A.S.C.**, première mention explicite de ce numéro dans le carnet. Cette succession ne prouve pas que la 152e ravitaille la 54e Brigade : dans l'ordre de bataille de Thiepval, Nichols (1922, p.~108, 110) place la **151st Company** auprès de la 54e Brigade et la **152nd Company**, sous le capitaine E.~M. West, auprès de la **55e Brigade**. Ces unités appartiennent au *18th Divisional Train*.
 
 ---
 
@@ -3067,7 +3071,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 6* : **6** **lunch** *angl.* déjeuner ; **lorry** *angl.* camion.
 - *l. 8* : **8** **Fse** *française*.
 - *l. 9* : **9** **billet** *angl.* logement de cantonnement ; **=** équivalence explicative : c’est-à-dire une grande chambre ; **gde** *grande*.
-- *l. 10* : **10** **chz** *chez* ; **Mme** *Madame* ; **Ve** Veuve (suivi d’un espace laissé en blanc).
+- *l. 10* : **10** **chz** *chez* ; **Mme** *Madame* ; **Ve** veuve, probablement ; aucun patronyme inscrit à sa suite.
 - *l. 14* : **14** **ples** *postales*.
 - *l. 15* : **15** **"** signe de répétition renvoyant à Doullens, à la ligne précédente ; **canteen** *angl.* cantine.
 - *l. 16* : **16** **ples** *postales*.
@@ -3076,9 +3080,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Ribeaucourt*) cf. infra fo 34 ro, fo 34 vo, *et passim*. — **3** (*Barlette*) cf. supra fo 33 ro, infra fo 34 ro, fo 34 vo, *et passim*. — **7** (*Bernaville*) cf. infra fo 34 vo.*
+***3** (*Barlette*) cf. infra fo 37 ro, l. 14 (*Barlette*). — **3** (*Ribeaucourt*) cf. infra fo 36 ro, l. 5 (*Ribeaucourt*). — **7** (*Bernaville*) cf. infra fo 34 vo, l. 6 (*Bernaville*).*
 
-> Tandis que les brigades de la 18e Division sont relevées après la prise de Thiepval, la **152e** Compagnie A.S.C. cantonne au repos du 6 au 15 octobre 1916 au hameau boisé de **Barlette** (commune de **Ribeaucourt**, Somme) ; Hippolyte Combes fait viser son titre de permission à la Mission française de **Bernaville** et remet un cadeau de 5~fr. au maréchal des logis-chef fourrier (*Quartermaster Sergeant*) **Tait**.
+> Tandis que les brigades de la 18e Division sont relevées après la prise de Thiepval, la **152e** Compagnie A.S.C. cantonne au repos du 6 au 15 octobre 1916 au hameau boisé de **Barlette** (commune de **Ribeaucourt**, Somme) ; Hippolyte Combes fait viser son titre de permission à la Mission française de **Bernaville** et remet un cadeau de 5~fr. au maréchal des logis-chef fourrier (*Quartermaster Sergeant*) **Tait [?]**, dont le patronyme reste proposé.
 
 ---
 
@@ -3119,9 +3123,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***15** (*Cap. Panton*) cf. supra fo 23 vo, infra fo 36 vo, fo 45 ro.*
+***15** (*Cap. Panton*) cf. supra fo 23 vo, l. 10 (*Panton*); infra fo 36 vo, l. 15 (*Cap. Pant.*).*
 
-> Installé dans l'ancien salon d'une maison entourée de vergers de pommiers et de grands bois à **Barlette** (Ribeaucourt), Hippolyte Combes règle au **capitaine Panton** (officier de la *152nd Company A.S.C.*, gérant de la popote des officiers) sa quote-part des frais de *mess* du mois de septembre (29~fr., soit environ 2~fr.~20 par jour depuis son admission permanente au mess le 12 septembre).
+> Installé dans l'ancien salon d'une maison entourée de vergers de pommiers et de grands bois à **Barlette** (Ribeaucourt), Hippolyte Combes règle au **capitaine Panton** (officier de la *152nd Company A.S.C.*) sa quote-part des frais de *mess* du mois de septembre (29~fr. ; le nombre de jours demeure laissé vide dans le compte).
 
 ---
 
@@ -3149,7 +3153,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Bernaville*) cf. supra fo 33 vo. — **10** (*78 f. 75*) cf. supra fo 17 vo, fo 23 ro, infra fo 53 ro, fo 60 ro.*
+***6** (*Bernaville*) cf. supra fo 33 vo, l. 7 (*Bernaville*).*
 
 > Marche dominicale aller et retour à travers le bocage du Ponthieu entre Barlette (Ribeaucourt) et **Bernaville** (Somme, à 5~km à l'est), où siège pendant la période de repos le bureau de la Mission française de la 18e Division, pour percevoir sa solde et son indemnité de quinzaine (78~fr.~75).
 
@@ -3195,7 +3199,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*forêt*) cf. infra fo 35 vo, fo 36 ro.*
+***4** (*pénétré forêt*) de eadem re cf. infra fo 35 vo, l. 9 (*lisière forêt*); fo 36 ro, l. 5 (*grand bois de Ribeaucourt*). — **14** (*mess*) de eadem re cf. supra fo 34 ro, l. 16 (*mess*); infra fo 37 ro, l. 3 (*mess*). — **20** (*chambre*) de eadem re cf. supra fo 34 ro, l. 11 (*chambre*); infra fo 37 ro, l. 13 (*chambre*).*
 
 > Journée de repos au cantonnement de Barlette: longue promenade solitaire sous les futaies centenaires du **bois de Ribeaucourt** (entre Ribeaucourt, Franqueville et Bernaville) et retour nocturne du mess sous la pleine lune d'octobre.
 
@@ -3240,7 +3244,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*fourragères*) cf. supra fo 3 ro, fo 25 ro, infra fo 36 ro, fo 36 vo, *et passim*. — **9** (*forêt*) cf. supra fo 35 ro, infra fo 36 ro.*
+***4** (*forage*) de eadem re cf. supra fo 25 ro, l. 9 (*forage*); infra fo 36 ro, l. 4 (*luzerne*). — **4** (*fourragères*) de eadem re cf. supra fo 24 vo, l. 8 (*green forage*); infra fo 36 ro, l. 4 (*luzerne*). — **9** (*lisière forêt*) de eadem re cf. supra fo 35 ro, l. 4 (*pénétré forêt*); infra fo 36 ro, l. 5 (*grand bois de Ribeaucourt*).*
 
 > Reprise du service quotidien de ravitaillement en fourrage vert (*green forage*) pour les attelages de la 152e Compagnie A.S.C., en lisière du bois de Ribeaucourt paré des couleurs d'automne.
 
@@ -3271,14 +3275,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*luzerne*) cf. supra fo 3 ro, fo 35 vo, infra fo 36 vo, fo 75 ro, *et passim*. — **5** (*Ribeaucourt*) cf. supra fo 33 vo, fo 35 vo, infra fo 36 vo, fo 37 ro, *et passim*. — **5** (*forêt*) cf. supra fo 35 ro, fo 35 vo.*
+***5** (*Ribeaucourt*) cf. supra fo 33 vo, l. 3 (*Ribeaucourt*).*
 
 > Corvée matinale de fourrage vert sous les averses d'octobre derrière le grand bois de **Ribeaucourt** (Somme), suivie d'une après-midi de liberté dans sa chambre de Barlette.
 
 ---
 
 ## Folio 36 verso — Octobre 1916
-- **Titre** : Conduite d'un « limber G.S. », symphonie du vent dans les bois et chevauchée à Prouville avec le capitaine Panton
+- **Titre** : Conduite d'un limber et de G.S. wagons, symphonie du vent dans les bois et chevauchée à Prouville avec le capitaine Panton
 - **Date** : Jeudi 12 et vendredi 13 octobre 1916
 - **Lieu** : Barlette, Ribeaucourt et Prouville (Somme)
 
@@ -3316,7 +3320,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*luzerne*) cf. supra fo 3 ro, fo 36 ro, infra fo 75 ro, fo 77 vo, *et passim*. — **15** (*Cap. Pant*) cf. supra fo 23 vo, fo 34 ro, infra fo 45 ro.*
+***15** (*Cap. Pant.*) cf. supra fo 34 ro, l. 15 (*Cap. Panton*); infra fo 45 ro, l. 6 (*Cap. Pant.*).*
 
 > Après avoir conduit le 12 octobre un avant-train articulé (*limber*) et des fourgons réglementaires à quatre roues de l'A.S.C. (*General Service wagons*) aux champs de luzerne de Ribeaucourt, Hippolyte Combes chevauche le vendredi 13 octobre avec le **capitaine Panton** jusqu'à **Prouville** (Somme) et apprend au dîner le départ prochain du train divisionnaire vers le front de l'Ancre.
 
@@ -3357,7 +3361,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~14--15 :** Au bas du récit de l'étape de Beauval, un trait horizontal sépare les deux dernières lignes consacrées aux menues dépenses de blanchissage (*washing & darning*), d'ordonnance et de cartes postales.
 
-***10** (*Beauval*) cf. infra fo 37 vo, fo 38 ro. — **14** (*Connelly*) cf. supra fo 6 ro, fo 22 vo. — **14** (*Barlette*) cf. supra fo 33 ro, fo 36 vo, *et passim*.*
+***10** (*Beauval*) cf. infra fo 37 vo, l. 4 (*Beauval*); fo 38 ro, l. 2 (*Beauval*). — **14** (*Barlette*) cf. supra fo 33 vo, l. 3 (*Barlette*). — **14** (*Connelly*) cf. supra fo 20 vo, l. 20 (*Connelly*); fo 22 vo, l. 22 (*Connelly*).*
 
 > Le dimanche 15 octobre 1916 débute la remontée en ligne du train divisionnaire de la **18e** Division britannique vers le secteur d'Albert et de la tranchée Regina: partie de Barlette à 11~h~15 sous les averses, la colonne fait étape à 15~h~30 dans le bourg industriel de **Beauval** (Somme, sur la route de Doullens à Amiens), encombré de troupes britanniques en mouvement.
 
@@ -3398,7 +3402,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1 :** L'en-tête de la l.~1 réunit sur une même ligne la date soulignée (*Lundi 16*), un trait vertical de séparation, le début du récit (*Sur pied à 5h~1/2*) et le rappel du mois (*Oct /16*) rejeté à droite.
 
-***4** (*Beauval*) cf. supra fo 37 ro, infra fo 38 ro. — **7** (*Beauquesne*) cf. infra fo 49 ro, fo 56 ro, *et passim*. — **9** (*Puchevillers*) cf. infra fo 52 ro, fo 55 ro, *et passim*.*
+***4** (*Beauval*) cf. supra fo 37 ro, l. 10 (*Beauval*); infra fo 38 ro, l. 2 (*Beauval*). — **7** (*Beauquesne*) cf. infra fo 49 ro, l. 7 (*Beauquesne*); fo 56 ro, l. 7 (*Beauquesne*). — **9** (*Puchevillers*) cf. infra fo 52 ro, l. 14 (*Puchevillers*); fo 55 ro, l. 12 (*Puchevillers*).*
 
 > Deuxième étape de concentration vers le front de l'Ancre (lundi 16 octobre 1916): en dix heures et demie de marche par **Beauquesne** et **Puchevillers** au milieu d'un flot continu de colonnes d'artillerie de campagne (*R.F.A.*), du train (*A.S.C.*) et de bataillons d'infanterie, la compagnie gagne **Warloy-Baillon** (Somme, à 7~km à l'ouest d'Albert), où elle bivouaque sous tentes en contrebas de la route de Senlis-le-Sec.
 
@@ -3435,9 +3439,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Beauval*) cf. supra fo 37 ro, fo 37 vo. — **3** (*Warloy*) cf. supra fo 37 vo, infra fo 48 ro, fo 84 vo, *et passim*.*
+***2** (*Beauval*) cf. supra fo 37 ro, l. 10 (*Beauval*); fo 37 vo, l. 4 (*Beauval*). — **3** (*Warloy*) cf. supra fo 37 vo, l. 13 (*Warloy-Baillon*); infra fo 48 ro, l. 5 (*Warloy*).*
 
-> Dans le village de **Warloy-Baillon** saturé de troupes et d'ambulances (*Field Ambulances*), Hippolyte Combes bivouaque pour la première fois sous la tente avec deux officiers par une nuit glaciale, avant le départ de la colonne le mardi 17 octobre à 10~h derrière les bataillons d'infanterie de la division (la suite de l'étape figure au).
+> Dans le village de **Warloy-Baillon** où la compagnie bivouaque, Hippolyte Combes bivouaque sous la tente avec deux officiers par une nuit glaciale, avant le départ de la colonne le mardi 17 octobre à 10~h derrière les bataillons d'infanterie de la division (la suite de l'étape figure dans la vue 077).
 
 ---
 
@@ -3466,7 +3470,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***1** (*Senlis*) cf. supra fo 37 vo, infra fo 43 vo, fo 48 ro, *et passim*. — **2** (*Hédauville*) cf. supra fo 22 vo, infra fo 54 ro, fo 60 vo. — **2** (*Bouzincourt*) cf. infra fo 39 ro, fo 39 vo, *et passim*.*
+***1** (*Senlis*) cf. supra fo 37 vo, l. 16 (*Senlis*); infra fo 43 vo, l. 7 (*Senlis*). — **2** (*Bouzincourt*) cf. infra fo 50 vo, l. 12 (*Bouzincourt*); fo 62 ro, l. 5 (*Bouzincourt*). — **2** (*Hédauville*) cf. supra fo 22 vo, l. 7 (*Hédauville*); infra fo 54 ro, l. 8 (*Hédauville*).*
 
 > Suite de l'étape du mardi 17 octobre 1916: dépassant **Senlis-le-Sec**, la 152e Compagnie A.S.C. s'établit en bivouac dans un champ défoncé à mi-chemin entre **Hédauville** et **Bouzincourt** (Somme, à 4~km au nord-ouest d'Albert), zone de déploiement logistique immédiat du IIe Corps britannique face à la crête de Thiepval.
 
@@ -3507,14 +3511,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Albert*) cf. infra fo 39 vo, fo 40 ro, *et passim*.*
+***6** (*Albert*) cf. infra fo 39 vo, l. 6 (*Albert*); fo 40 ro, l. 20 (*Albert*).*
 
-> Le mercredi 18 octobre 1916, profitant d'un camion de munitions depuis le bivouac de Bouzincourt, Hippolyte Combes découvre **Albert** (Somme) et s'arrête devant les ruines de la basilique de pèlerinage **Notre-Dame de Brebières** (édifice néo-byzantin de brique et de pierre élevé de 1885 à 1895 par l'architecte amiénois **Edmond Duthoit**, 1837–1889 ; Base Mérimée, `PA00116039`).
+> Le mercredi 18 octobre 1916, profitant d'un camion de munitions depuis le bivouac de Bouzincourt, Hippolyte Combes visite **Albert** (Somme) et s'arrête devant les ruines de la basilique de pèlerinage **Notre-Dame de Brebières** (édifice néo-byzantin de brique et de pierre construit entre 1884 et 1897 par l'architecte amiénois **Edmond Duthoit**, 1837–1889 ; Base Mérimée, `PA80000002`).
 
 ---
 
 ## Folio 39 verso — Octobre 1916
-- **Titre** : Le flot ininterrompu des convois vers Albert et la solde à la Mission
+- **Titre** : Le flot ininterrompu des convois vers Albert et le versement à la Mission
 - **Date** : 18 octobre 1916 (suite)
 - **Lieu** : Camp de Bouzincourt, Albert (Somme)
 
@@ -3528,7 +3532,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
  7 | | Albert, mission frse : 84 fr. —
 ```
 
-- *l. 1* : **1** **sur l.** sur laquelle.
+- *l. 1* : **1** **sur l.** sur laquelle, développement proposé.
 - *l. 2* : **2** **ttes** *toutes* ; **lorries** *angl.* camions.
 - *l. 3* : **3** **gde** *grande*.
 - *l. 4* : **4** **dinner** *angl.* dîner ; **off.** *officiers*.
@@ -3538,9 +3542,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Albert*) cf. supra fo 39 ro, infra fo 40 ro, fo 40 vo, *et passim*. — **7** (*84 f.*) cf. supra fo 2 ro, fo 10 vo, infra fo 56 vo, fo 62 vo.*
+***6** (*Albert*) cf. supra fo 39 ro, l. 6 (*Albert*); infra fo 40 ro, l. 20 (*Albert*).*
 
-> Sur la chaussée de Bouzincourt à **Albert** le 18 octobre 1916, Hippolyte Combes observe l'intensité du trafic logistique britannique (camions automobiles et caissons de munitions ravitaillant le IIe Corps en vue de l'attaque du 21 octobre sur la tranchée Regina) et perçoit 84~fr. de solde au bureau de la Mission française d'Albert.
+> Sur la chaussée de Bouzincourt à **Albert** le 18 octobre 1916, Hippolyte Combes observe l'intensité du trafic logistique britannique (camions automobiles et caissons de munitions ; l'attaque de Regina du 21 octobre fournit un contexte proche, sans identifier chaque convoi) et perçoit 84~fr., dont la nature n'est pas explicitée au bureau de la Mission française d'Albert.
 
 ---
 
@@ -3585,9 +3589,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***20** (*Albert*) cf. supra fo 39 ro, fo 39 vo, infra fo 40 vo, fo 41 ro, *et passim*.*
+***20** (*Albert*) cf. supra fo 39 vo, l. 6 (*Albert*); infra fo 41 vo, l. 16 (*Albert*).*
 
-> Le jeudi 19 octobre 1916, la 152e Compagnie A.S.C. quitte Bouzincourt pour le grand bivouac boueux du ***Brickfields Area*** (secteur des briqueteries à l'entrée nord-ouest d'**Albert**), tandis qu'Hippolyte Combes parvient à se loger à 300 ou 400~mètres du camp chez la famille **Victor Duchâteau**, sous le roulement continu de la préparation d'artillerie britannique.
+> Le jeudi 19 octobre 1916, la 152e Compagnie A.S.C. quitte Bouzincourt pour le grand bivouac boueux du ***Brickfields Area*** (secteur des briqueteries à l'entrée nord-ouest d'**Albert**), tandis qu'Hippolyte Combes parvient à se loger à 300 ou 400~mètres du camp dans une maison dont les occupants peuvent être rapprochés des Duchâteau nommés dans les vues 087 et 091, sous le roulement continu de la canonnade.
 
 ---
 
@@ -3629,9 +3633,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*bombardemt terrifiant*) cf. supra fo 40 ro, infra fo 41 ro, fo 44 ro. — **15** (*notre Coy*) cf. supra fo 33 ro, fo 40 ro.*
+***4** (*bombardemt*) de eadem re cf. supra fo 40 ro, l. 19 (*canonnade*); infra fo 41 vo, l. 8 (*bombardement*). — **10** (*mess-room*) de eadem re cf. supra fo 40 ro, l. 7 (*mess*); infra fo 41 vo, l. 14 (*mess*). — **12** (*chambrette*) de eadem re cf. supra fo 40 ro, l. 15 (*chambre*); infra fo 41 ro, l. 7 (*chambre*).*
 
-> Ce « bombardement terrifiant » observé le vendredi **20 octobre 1916** depuis la colline des briqueteries d'Albert correspond à la préparation d'artillerie finale précédant l'attaque générale lancée le lendemain **21 octobre 1916** à 12~h~06 par le **IIe** Corps britannique — dont fait partie la **18e** Division aux côtés des 25e et 39e Divisions et de la 4e Division canadienne — contre ***Regina Trench*** et ***Stuff Trench*** lors de la bataille des hauteurs de l'Ancre (Nichols, *The 18th Division in the Great War*, 1922, chap.~VIII, p.~124--132).
+> Le **20 octobre 1916**, Combes décrit un duel d'artillerie qui fait trembler portes et vitres, puis un horizon illuminé depuis la colline du camp. Ce spectacle précède l'attaque de **Regina Trench** du 21 octobre, attribuée par Nichols à la **53e Brigade** avec le 10th Essex et le 8th Norfolks (1922, p.~131). Le rapprochement chronologique est plausible ; il ne suffit pas à identifier tous les tirs. L'heure de 12~h~06 et la liste des divisions du IIe Corps ne sont pas établies par le passage cité.
 
 ---
 
@@ -3671,9 +3675,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Aveluy*) cf. infra fo 75 ro, fo 75 vo.*
+***6** (*Aveluy*) cf. infra fo 75 vo, l. 2 (*Aveluy*).*
 
-> Le samedi **21 octobre 1916** — jour même où les 53e et 55e Brigades de la 18e Division enlèvent d'assaut la partie orientale de *Regina Trench* au nord de Courcelette et de Thiepval —, Hippolyte Combes se rend au dépôt du matériel (*Army Ordnance Corps*) à **Aveluy** (Somme, à 2~km au nord d'Albert dans la vallée de l'Ancre), puis passe la soirée près du poêle avec le jeune **Abel Duchâteau**, fils cadet de son logeur d'Albert.
+> Le samedi **21 octobre 1916** — jour même où la 53e Brigade de la 18e Division enlève d'assaut la partie orientale de *Regina Trench* au nord de Courcelette et de Thiepval —, Hippolyte Combes se rend au dépôt du matériel (*Army Ordnance Corps*) à **Aveluy** (Somme, à 2~km au nord d'Albert dans la vallée de l'Ancre), puis passe la soirée près du poêle avec le jeune **Abel**, le plus jeune fils de la maison ; son rapprochement avec les Duchâteau nommés ailleurs demeure proposé.
 
 ---
 
@@ -3704,7 +3708,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ```
 
 - *l. 1* : **1** **Oct** *octobre*.
-- *l. 4* : **4** **1/2 jour** milieu du jour, vers midi.
+- *l. 4* : **4** **1/2 jour** milieu du jour possible ; notation 1/2 jour conservée.
 - *l. 5* : **5** **lunch** *angl.* déjeuner ; **lgts** *longtemps*.
 - *l. 8* : **8** **1914 [?]** millésime de lecture incertaine ; **horizle** *horizontale*.
 - *l. 10* : **10** **qq** *quelques*.
@@ -3717,9 +3721,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***10** (*Schumacher*) cf. supra fo 11 vo, Appendicem I, doc. 1. — **16** (*Albert*) cf. supra fo 39 ro, fo 41 ro, infra fo 42 ro, fo 42 vo, *et passim*.*
+***10** (*Schumacher*) cf. supra fo 11 vo, l. 7 (*Schumacher*). — **16** (*Albert*) cf. supra fo 40 ro, l. 20 (*Albert*); infra fo 42 ro, l. 6 (*Albert*).*
 
-> À **Albert** (Somme), Hippolyte Combes décrit la basilique **Notre-Dame de Brebières** (édifiée en briques rouges de 1885 à 1895 par l'architecte Edmond Duthoit), dont le dôme de 70~m frappé par les obus allemands en janvier 1915 retenait à l'horizontale la célèbre statue dorée de la **Vierge penchée** d'Albert Roze. L'adjudant interprète **Schumacher** lui annonce le projet ministériel de relève des jeunes interprètes de la réserve de l'armée territoriale (*R.A.T.*).
+> À **Albert** (Somme), Hippolyte Combes décrit la basilique **Notre-Dame de Brebières** (édifiée en briques rouges entre 1884 et 1897 par l'architecte Edmond Duthoit), dont le dôme de 70~m frappé par les obus allemands en janvier 1915 retenait à l'horizontale la célèbre statue dorée de la **Vierge penchée** d'Albert Roze. L'adjudant interprète **Schumacher** lui annonce le projet ministériel de relève des jeunes interprètes de la réserve de l'armée territoriale (*R.A.T.*).
 
 ---
 
@@ -3754,9 +3758,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Albert*) cf. supra fo 39 ro, fo 41 vo, infra fo 42 vo, fo 43 ro, *et passim*.*
+***6** (*Albert*) cf. supra fo 41 vo, l. 16 (*Albert*); infra fo 43 vo, l. 14 (*Albert*).*
 
-> Excursion en camion le 23 octobre 1916 jusqu'aux ruines de **La Boisselle** (Somme, à 3,5~km à l'est d'Albert sur la route de Bapaume), conquises en juillet 1916 : outre les profonds abris souterrains allemands creusés dans la craie (*german dug-outs*), l'« énorme cratère sur la droite » est le célèbre cratère de mine de **Lochnagar** (*Lochnagar Crater*), ouvert le **1er** juillet 1916 à 7~h~28 par l'explosion d'un fourneau britannique de 27~tonnes d'ammonal mis à feu par la *179th Tunnelling Company, Royal Engineers*.
+> Excursion en camion le 23 octobre 1916 jusqu'aux ruines de **La Boisselle** (Somme, à 3,5~km à l'est d'Albert sur la route de Bapaume), conquises en juillet 1916 : outre les profonds abris souterrains allemands creusés dans la craie (*german dug-outs*), l'« énorme cratère sur la droite » peut être rapproché du célèbre cratère de mine de **Lochnagar** (*Lochnagar Crater*), ouvert le **1er** juillet 1916 à 7~h~28 par l'explosion d'un fourneau britannique de 27~tonnes d'ammonal mis à feu par la *179th Tunnelling Company, Royal Engineers*.
 
 ---
 
@@ -3800,7 +3804,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***9** (*Lépin*) cf. supra fo 11 vo, infra fo 45 ro. — **9** (*Pizzi*) cf. supra fo 24 ro, infra fo 45 ro, fo 46 ro.*
+***9** (*Lépin*) similitudo lectionis, incertitudo nominis cf. supra fo 11 vo, l. 7 (*Lupin*); infra fo 45 ro, l. 7 (*Lépin*). — **9** (*Pizzi*) cf. supra fo 24 ro, l. 9 (*Pizzi*); infra fo 45 ro, l. 8 (*Pizzi*).*
 
 > Au bureau de la Mission française de la 18e Division à Albert, l'adjudant **Liepin** (ou *Lupin*/*Lépin*) et le lieutenant interprète chef de détachement **Pizzi** rassurent Hippolyte Combes (qui appartient à la classe 1896, âgée de quarante ans) : il n'est pas touché par le renvoi ministériel des jeunes classes de la réserve de l'armée territoriale (*R.A.T.*) dans les corps de troupe.
 
@@ -3852,9 +3856,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***11** (*Hair cut*) cf. supra fo 18 vo, infra fo 60 ro, fo 78 vo.*
+***8** (*chambrette*) de eadem re cf. supra fo 42 vo, l. 12 (*chambre*); infra fo 45 ro, l. 9 (*chambre*). — **11** (*Hair cut*) de eadem re cf. supra fo 18 vo, l. 25 (*Hair cut*); infra fo 60 ro, l. 13 (*Hair cut*). — **21** (*canonnade*) de eadem re cf. supra fo 42 vo, l. 13 (*canonnade*); infra fo 44 ro, l. 6 (*bombardée*).*
 
-> Les pluies persistantes de la dernière décade d'octobre 1916 transforment le plateau crayeux d'Albert en bourbier et imposent des reports successifs aux opérations de la *Reserve Army* (renommée *Fifth Army* le 30 octobre) sur l'Ancre. À la l.~11, Hippolyte Combes se fait couper les cheveux pour 50~c. par un soldat des ***Royal Fusiliers*** (*R.F.*, 18e Division).
+> Les pluies persistantes de la dernière décade d'octobre 1916 transforment le plateau crayeux d'Albert en bourbier et imposent des reports successifs aux opérations de la *Reserve Army* (renommée *Fifth Army* le 30 octobre) sur l'Ancre. À la l.~11, Hippolyte Combes se fait couper les cheveux pour 50~c. par un soldat dont le sigle reste proposé *R.E.*, sans exclure *R.F.*.
 
 ---
 
@@ -3906,9 +3910,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Acheux*) cf. supra fo 21 vo, fo 25 ro, infra fo 44 vo, fo 45 ro, *et passim*. — **7** (*Senlis*) cf. supra fo 37 vo, fo 38 vo, infra fo 48 ro, fo 55 ro, *et passim*. — **14** (*Albert*) cf. supra fo 39 ro, fo 43 ro, infra fo 44 ro, fo 44 vo, *et passim*.*
+***6** (*Acheux*) cf. supra fo 25 ro, l. 12 (*Acheux-Varennes*); infra fo 44 vo, l. 24 (*Acheux*). — **7** (*Senlis*) cf. supra fo 38 vo, l. 1 (*Senlis*); infra fo 48 ro, l. 5 (*Senlis*). — **14** (*Albert*) cf. supra fo 42 ro, l. 6 (*Albert*); infra fo 44 vo, l. 4 (*Albert*).*
 
-> La tournée en automobile du dimanche 29 octobre 1916 à **Acheux-en-Amiénois** et **Senlis-le-Sec** pour recenser les pailles et foins (*straw & hay*) disponibles préfigure le détachement permanent d'Hippolyte Combes et du lieutenant Curtis à Acheux quatre jours plus tard. Chez son logeur d'Albert, **Victor Duchâteau**, il écoute les récits de guerre du fils aîné de la maison, maréchal des logis d'artillerie dans l'armée belge.
+> La tournée en automobile du dimanche 29 octobre 1916 à **Acheux-en-Amiénois** et **Senlis-le-Sec** pour recenser les pailles et foins (*straw & hay*) disponibles précède le détachement d'Hippolyte Combes et du lieutenant Curtis à Acheux quatre jours plus tard. Dans la famille **Duchâteau**, à Albert, il écoute les récits de guerre du fils aîné de la maison, maréchal des logis d'artillerie dans l'armée belge.
 
 ---
 
@@ -3931,14 +3935,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*ville bombardée*) cf. supra fo 40 ro, fo 40 vo, infra fo 44 vo, fo 48 ro.*
+***6** (*bombardée*) de eadem re cf. supra fo 43 ro, l. 21 (*canonnade*); infra fo 48 vo, l. 19 (*bombardé*).*
 
-> Profitant de l'éclaircie du mardi 31 octobre 1916 qui rétablit l'observation aérienne et terrestre, l'artillerie allemande soumet toute la journée la ville et le nœud routier d'**Albert** à des tirs de harcèlement.
+> Le mardi **31 octobre 1916**, Combes associe une éclaircie après les rafales, une nuit étoilée et le bombardement de la ville pendant le jour entier. La page ne nomme ni l'artillerie responsable ni ses cibles ; elle ne démontre pas que le retour du soleil ait rétabli une observation aérienne causant ces tirs.
 
 ---
 
-## Folio 44 verso — Octobre 1916
-- **Titre** : Toussaint 1916 au cimetière dévasté d'Albert, prise d'armes écossaise et ordre de départ
+## Folio 44 verso — Novembre 1916
+- **Titre** : Toussaint 1916 au cimetière dévasté d'Albert, prise d'armes présidée par un général dit écossais et ordre de départ
 - **Date** : 1er novembre 1916
 - **Lieu** : Albert (Somme)
 
@@ -3985,7 +3989,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Albert*) cf. supra fo 39 ro, fo 44 ro, infra fo 45 ro, fo 45 vo, *et passim*. — **19** (*Amiens*) cf. supra fo 25 vo, fo 32 vo, infra fo 49 ro, fo 59 vo, *et passim*. — **22** (*Curtis*) cf. supra fo 1 ro, fo 18 vo, infra fo 45 ro, fo 45 vo, *et passim*.*
+***4** (*Albert*) cf. supra fo 43 vo, l. 14 (*Albert*); infra fo 45 vo, l. 9 (*Albert*). — **19** (*Amiens*) cf. supra fo 32 vo, l. 2 (*Amiens*); infra fo 49 ro, l. 25 (*Amiens*). — **22** (*Curtis*) cf. supra fo 18 vo, l. 5 (*Ctis*); infra fo 45 ro, l. 12 (*Curtis*).*
 
 > Le mercredi **1er** novembre 1916 (Toussaint), Hippolyte Combes décrit le cimetière civil d'Albert ravagé par les obus et le carré militaire britannique contigu (*Albert Communal Cemetery Extension*, ouvert en août 1915 ; notice CWGC), assiste à 15~h sur la place d'Albert à une remise de décorations aux combattants de la Somme, et apprend à 21~h par le lieutenant **Curtis** leur détachement au service des fourrages à **Acheux-en-Amiénois**.
 
@@ -4038,14 +4042,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~10--12 :** Au milieu du récit du départ d'Albert pour Acheux, Hippolyte Combes oppose en deux phrases nominales lapidaires la colère du major Hughes (*Major Hughes tempêté*) et la décision écrite du colonel Grose (*Col. Grose, signé ordre*).
 
-***6** (*Cap. Pant*) cf. supra fo 23 vo, fo 36 vo. — **7** (*Lépin*) cf. supra fo 11 vo, fo 42 vo. — **8** (*Pizzi*) cf. supra fo 24 ro, fo 42 vo, infra fo 46 ro.*
+***6** (*Cap. Pant.*) cf. supra fo 34 ro, l. 15 (*Cap. Panton*); fo 36 vo, l. 15 (*Cap. Pant.*). — **7** (*Lépin*) similitudo lectionis, incertitudo nominis cf. supra fo 11 vo, l. 7 (*Lupin*); fo 42 vo, l. 9 (*Lépin*). — **8** (*Pizzi*) cf. supra fo 42 vo, l. 9 (*Pizzi*); infra fo 46 ro, l. 15 (*Pizzi*).*
 
-> Le commandant du Train divisionnaire (*18th Divisional Train Office*) qui signe l'ordre détachant Hippolyte Combes au service du fourrage à Acheux-en-Amiénois est le **lieutenant-colonel Daniel Charles Evans Grose**, A.S.C. (`Col. Grose`), commandant le *18th Divisional Train* de 1915 à 1918 et décoré du *Distinguished Service Order* (*London Gazette*, 4 juin 1917, p.~5470 ; Nichols, 1922, p.~110).
+> Le commandant du Train divisionnaire (*18th Divisional Train Office*) qui signe l'ordre détachant Hippolyte Combes au service du fourrage à Acheux-en-Amiénois est le **lieutenant-colonel Daniel Charles Evans Grose**, A.S.C. (`Col. Grose`), attesté comme commandant du *18th Divisional Train* à Thiepval et décoré du *Distinguished Service Order* (*London Gazette*, 4 juin 1917, p.~5470 ; Nichols, 1922, p.~107).
 
 ---
 
 ## Folio 45 verso — Novembre 1916
-- **Titre** : Course nocturne à Raincheval et dernier aller-retour au camp d'Albert
+- **Titre** : Course nocturne à Raincheval et aller-retour au camp d'Albert
 - **Date** : 2 (soir) – 3 novembre 1916
 - **Lieu** : Acheux, Raincheval, Albert (Somme)
 
@@ -4085,9 +4089,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--17 :** Ce feuillet (fin de la journée du 2 novembre, l.~1--6, et journée du 3 novembre 1916, l.~7--17) figure deux fois dans la séquence photographique du carnet (voir fo~46~vo) ; la transcription diplomatique est maintenue à l'identique sur les deux doubles pages.
 
-***1--17** (*eadem pagina bis photographata*) cf. infra fo 46 vo. — **1** (*Raincheval*) cf. supra fo 20 vo, fo 24 ro, infra fo 46 vo, fo 48 vo, *et passim*. — **2** (*Major Levy*) cf. infra fo 46 vo, fo 55 ro.*
+***1** (*Après le dîner*) eadem pagina bis photographata cf. infra fo 46 vo, l. 1 (*Après le dîner*). — **1** (*Raincheval*) cf. supra fo 23 vo, l. 4 (*Raincheval*); infra fo 48 vo, l. 7 (*Raincheval*). — **2** (*Levy*) cf. infra fo 55 ro, l. 11 (*Levy*); fo 58 ro, l. 20 (*Levy*).*
 
-> Dès son arrivée à **Acheux-en-Amiénois** le 2 novembre 1916, Hippolyte Combes est présenté à Raincheval au **major Levy** (officier supérieur britannique dirigeant le service des achats et réquisitions d'armée). Le 3 novembre, il revient faire ses adieux au camp de la **152e** Compagnie A.S.C. et perçoit à Albert le reliquat de sa solde.
+> Dès son arrivée à **Acheux-en-Amiénois** le 2 novembre 1916, Hippolyte Combes est présenté à Raincheval au **major Levy** (le sigle D.O.S.T. reste non développé ici ; la vue 166 associera sa demande au maintien de Combes au Purchase Board). Le 3 novembre, il revient faire ses adieux au camp de la **152e** Compagnie A.S.C. et perçoit à Albert 58~fr.~75 à la Mission, après une retenue de 30~fr. pour six jours de permission.
 
 ---
 
@@ -4130,9 +4134,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Bertrancourt*) cf. infra fo 60 vo, fo 84 ro. — **9** (*Bus*) cf. infra fo 77 ro. — **11** (*R.F*) cf. supra fo 1 ro, fo 37 vo.*
+***2** (*Bertrancourt*) cf. infra fo 60 vo, l. 5 (*Bertrancourt*); fo 84 ro, l. 23 (*Bertrancourt*). — **14** (*Albert*) cf. supra fo 45 vo, l. 9 (*Albert*); infra fo 47 vo, l. 19 (*Albert*). — **14** (*152 Coy*) cf. supra fo 45 vo, l. 12 (*152 Coy*); infra fo 47 vo, l. 13 (*152 Coy*).*
 
-> Le samedi 4 novembre 1916, une course pour l'approvisionnement en pétrole (nécessaire aux moteurs des batteuses mécaniques) conduit Hippolyte Combes à **Bertrancourt** (Somme), au quartier général de la **2e** Division britannique (*2nd Division*, Ve Corps, engagée le 13 novembre à Beaumont-Hamel), où il retrouve son collègue interprète d'artillerie de campagne (*R.F.A.*) **Cordonnier**, connu lors d'un précédent séjour à **Béthune**.
+> Le samedi 4 novembre 1916, une course pour l'approvisionnement en pétrole (dont l'usage n'est pas précisé ici) conduit Hippolyte Combes à **Bertrancourt** (Somme), au quartier général de la **2e** Division britannique (*2nd Division* ; le lien avec les opérations du 13 novembre n'est pas écrit), où il retrouve son collègue interprète d'artillerie de campagne (*R.F.A.*) **Cordonnier**, connu lors d'un précédent séjour à **Béthune**.
 
 ---
 
@@ -4177,9 +4181,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--17 :** Reproduction de la même page manuscrite que le fo~45~vo (journées des 2 et 3 novembre 1916).
 
-***1--17** (*eadem pagina bis photographata*) cf. supra fo 45 vo. — **1** (*Raincheval*) cf. supra fo 20 vo, fo 45 vo, infra fo 48 vo, fo 49 ro, *et passim*. — **2** (*Major Levy*) cf. supra fo 45 vo, infra fo 55 ro, fo 58 ro.*
+***1** (*Après le dîner*) eadem pagina bis photographata cf. supra fo 45 vo, l. 1 (*Après le dîner*). — **1** (*Raincheval*) cf. supra fo 23 vo, l. 4 (*Raincheval*); infra fo 48 vo, l. 7 (*Raincheval*). — **2** (*Levy*) cf. infra fo 55 ro, l. 11 (*Levy*); fo 58 ro, l. 20 (*Levy*).*
 
-> À son arrivée à **Acheux-en-Amiénois** le 2 novembre 1916, Hippolyte Combes est présenté à Raincheval au **major Levy**, directeur du service des achats et réquisitions d'armée (*Army Purchase Board*), et règle le 3 novembre ses adieux au camp de la **152e** Compagnie A.S.C. ainsi que sa solde à Albert après la retenue réglementaire de six jours de permission.
+> Cette photographie reprend la **même page que la vue 091** : rencontre du **major Levy** à Raincheval, don de 5~fr. à Victor Duchâteau, puis compte de 58~fr.~75 à la Mission d'Albert avec retenue de 30~fr. pour six jours de permission. Le sigle D.O.S.T. reste non développé ; la demande de Levy pour le maintien au Purchase Board est attestée plus tard, à la vue 166. Aucun règlement général de solde n'est reproduit.
 
 ---
 
@@ -4224,9 +4228,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Léalvillers*) cf. supra fo 24 ro, infra fo 47 vo, fo 48 ro, *et passim*. — **15** (*Huguet*) cf. infra fo 61 vo.*
+***7** (*Léalvillers*) cf. supra fo 24 ro, l. 8 (*Léalvillers*); infra fo 47 vo, l. 22 (*Léalvillers*). — **15** (*Huguet*) cf. infra fo 61 vo, l. 7 (*Huguet*).*
 
-> Le dimanche 5 novembre 1916, Hippolyte Combes emménage au **no**~1 de la route de Léalvillers à **Acheux-en-Amiénois**, chez le maître tailleur **M.~Carluvant**, puis se présente à 18~h au **capitaine Huguet**, chef de la Mission militaire française auprès du **XIIIe** Corps britannique dans le secteur de la **Ve** Armée britannique (*Fifth Army*, nouveau nom donné le 30 octobre 1916 à la *Reserve Army* du général Sir Hubert Gough).
+> Le 5 novembre 1916, Combes quitte le billet 59 pour une chambre **no~1, route de Léalvillers**, à **Acheux-en-Amiénois**. Le propriétaire, dit sympathique, n'est pas nommé ; les mentions ultérieures permettent de proposer un rapprochement avec **Carluvant [?]**, tailleur. Le **capitaine Huguet** le reçoit au bureau de mission d'un corps dont le petit ajout reste illisible. La mention *Vth Army troops* est cohérente avec le nom Fifth Army adopté le 30 octobre, mais ne déchiffre pas le numéro du corps ni la fonction précise d'Huguet.
 
 ---
 
@@ -4275,9 +4279,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Arquèves*) cf. infra fo 53 ro, fo 54 ro, *et passim*. — **4** (*Belle-Église*) cf. infra fo 53 ro, fo 54 ro, *et passim*. — **6** (*Hérissart*) cf. infra fo 49 vo, fo 51 vo, *et passim*.*
+***3** (*Arquèves*) cf. infra fo 53 ro, l. 23 (*Arquèves*); fo 54 ro, l. 3 (*Arquèves*). — **4** (*Belle-Église*) cf. infra fo 53 ro, l. 23 (*Belle-Église*); fo 54 ro, l. 3 (*Belle-Église*). — **6** (*Hérissart*) cf. infra fo 49 vo, l. 20 (*Hérissart*); fo 51 vo, l. 22 (*Hérissart*).*
 
-> Première mention le 6 novembre 1916 de la **ferme de Belle-Église**, grand domaine agricole isolé de la commune d'**Arquèves** (Somme, ancienne commanderie templière puis hospitalière), exploitée par la famille belge **Houthouan**, où fonctionnent les batteuses à pétrole du service des fourrages ; le 7 novembre, Hippolyte Combes observe depuis Acheux le flot continu des troupes et convois de munitions montant vers la ligne de feu (*firing line*).
+> Première mention le 6 novembre 1916 de la **ferme de Belle-Église**, grand domaine agricole isolé de la commune d'**Arquèves** (Somme, ancienne commanderie templière puis hospitalière), dont l'exploitante est dite belge à la vue 108, avec le nom proposé **Houtteman [?]**. L'utilisation du pétrole pour des batteuses n'est pas explicitée ; le 7 novembre, Hippolyte Combes observe depuis Acheux le flot continu des troupes et convois de munitions montant vers la ligne de feu (*firing line*).
 
 ---
 
@@ -4326,14 +4330,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Curtis*) cf. supra fo 1 ro, fo 46 vo, infra fo 48 vo, fo 50 vo, *et passim*. — **3** (*Forceville*) cf. supra fo 22 vo, fo 25 ro. — **3** (*Major Hughes*) cf. supra fo 45 ro.*
+***3** (*Forceville*) cf. supra fo 24 vo, l. 8 (*Forceville*); fo 25 ro, l. 8 (*Forceville*). — **3** (*Hughes*) cf. supra fo 45 ro, l. 10 (*Hughes*). — **3** (*Curtis*) cf. supra fo 45 vo, l. 9 (*Curtis*); infra fo 48 vo, l. 4 (*Curtis*).*
 
 > Après une tournée à Forceville le 8 novembre avec le **major Hughes** (du *18th Divisional Train*) et le lieutenant Curtis, Hippolyte Combes profite de ses courses des 8 et 9 novembre vers Varennes et **Albert** pour prendre le thé à la baraque-mess (*mess-hut*) de son ancienne unité, la **152e** Compagnie A.S.C., tandis que le retour du temps clair sous la pleine lune du 9 novembre s'accompagne d'un bombardement sur Albert.
 
 ---
 
 ## Folio 48 verso — Novembre 1916
-- **Titre** : Courses à Raincheval et Varennes, rencontre de l'interprète Sorgues et bombardement d'Acheux
+- **Titre** : Courses à Raincheval et Varennes, rencontre de l'interprète Sorgues [?] et bombardement d'Acheux
 - **Date** : 10 – 11 novembre 1916
 - **Lieu** : Acheux, Raincheval, Léalvillers, Varennes (Somme)
 
@@ -4371,9 +4375,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Curtis*) cf. supra fo 1 ro, fo 48 ro, infra fo 50 vo, fo 52 ro, *et passim*. — **7** (*Raincheval*) cf. supra fo 20 vo, fo 46 vo, infra fo 49 ro, fo 49 vo, *et passim*. — **8** (*Léalvillers*) cf. supra fo 24 ro, fo 48 ro, infra fo 50 vo, fo 56 ro, *et passim*.*
+***4** (*Curtis*) cf. supra fo 48 ro, l. 3 (*Curtis*); infra fo 50 vo, l. 25 (*Curtis*). — **7** (*Raincheval*) cf. supra fo 45 vo, l. 1 (*Raincheval*); infra fo 49 ro, l. 17 (*Raincheval*). — **8** (*Léalvillers*) cf. supra fo 48 ro, l. 14 (*Léalvillers*); infra fo 50 vo, l. 24 (*Léalvillers*).*
 
-> Le samedi 11 novembre 1916, en allant régler un achat de paille auprès de la *B~Battery* d'une brigade de la *Royal Field Artillery* (*R.F.A.*) à **Varennes-en-Croix**, Hippolyte Combes rencontre son collègue interprète **M.~Sorgues**, professeur au lycée de Toulon (ville où Hippolyte Combes avait été incorporé au 10e~R.A.P. en mars 1915) ; le soir, l'artillerie allemande à longue portée contre-bat le carrefour et la gare d'**Acheux**.
+> Le 11 novembre 1916, en allant régler un achat de paille à **Varennes**, Combes rencontre l'interprète d'une batterie notée F.A./B Battery, dont un ajout est difficile. Cet homme est professeur au lycée de Toulon ; son patronyme reste réservé. Le soir, Combes rapporte le bombardement d'**Acheux** et le refuge à la cave, sans identifier l'origine des tirs, leur calibre ni leurs cibles.
 
 ---
 
@@ -4425,14 +4429,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Beauquesne*) cf. supra fo 37 vo, infra fo 56 ro, fo 56 vo, *et passim*. — **8** (*Varennes*) cf. supra fo 25 ro, fo 48 vo, infra fo 60 vo, fo 64 ro, *et passim*. — **8** (*Contay*) cf. infra fo 50 vo, fo 79 vo, *et passim*.*
+***7** (*Beauquesne*) cf. supra fo 37 vo, l. 7 (*Beauquesne*); infra fo 56 ro, l. 7 (*Beauquesne*). — **8** (*Varennes*) cf. supra fo 48 vo, l. 11 (*Varennes*); infra fo 60 vo, l. 18 (*Varennes*). — **8** (*Contay*) similitudo lectionis, incertitudo nominis cf. infra fo 50 vo, l. 13 (*Contay*); fo 79 vo, l. 4 (*Contay*).*
 
-> Témoignage direct sur le déclenchement de la **bataille de l'Ancre** (*Battle of the Ancre*, 13–18 novembre 1916) : le lundi **13 novembre 1916** à 5~h~45 et le mardi **14 novembre**, le **Ve** Corps britannique (51e *Highland Division* et 63e *Royal Naval Division*) prend d'assaut **Beaumont-Hamel** et **Beaucourt-sur-l'Ancre**, tandis que les ambulances traversent Acheux et que les tournées de fourrage mènent Hippolyte Combes à la foire de **Doullens** et à **Frévent** (église Saint-Hilaire).
+> Témoignage auditif dans le contexte du déclenchement de la **bataille de l'Ancre** (*Battle of the Ancre*, 13–18 novembre 1916) . L'assaut historique est distinct de ce que Combes entend depuis Acheux : le lundi **13 novembre 1916** à 5~h~45 et le mardi **14 novembre**, le **Ve** Corps britannique (51e *Highland Division* et 63e *Royal Naval Division*) prend d'assaut **Beaumont-Hamel** et **Beaucourt-sur-l'Ancre**, tandis que les ambulances traversent Acheux et que les tournées de fourrage mènent Hippolyte Combes à la foire de **Doullens** et à **Frévent** (église Saint-Hilaire).
 
 ---
 
 ## Folio 49 verso — Novembre 1916
-- **Titre** : Canonnade sur Beaucourt-sur-l'Ancre et déjeuner à Hérissart chez le lieutenant Walsh
+- **Titre** : Canonnade vers Beaumont-sur-Ancre et déjeuner à Hérissart chez le lieutenant Walsh
 - **Date** : 15 – 16 novembre 1916
 - **Lieu** : Acheux, Albert, Raincheval, Louvencourt, Toutencourt, Hérissart (Somme)
 
@@ -4476,9 +4480,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Albert*) cf. supra fo 39 ro, fo 48 ro, infra fo 50 ro, fo 82 ro, *et passim*. — **11** (*Acheux*) cf. supra fo 21 vo, fo 49 ro, infra fo 50 ro, fo 50 vo, *et passim*. — **19** (*Raincheval*) cf. supra fo 20 vo, fo 49 ro, infra fo 52 ro, fo 53 vo, *et passim*.*
+***6** (*Albert*) cf. supra fo 48 ro, l. 4 (*Albert*); infra fo 50 ro, l. 20 (*Albert*). — **11** (*Acheux*) cf. supra fo 48 vo, l. 18 (*Acheux*); infra fo 50 vo, l. 17 (*Acheux*). — **19** (*Raincheval*) cf. supra fo 49 ro, l. 17 (*Raincheval*); infra fo 52 ro, l. 13 (*Raincheval*).*
 
-> Les 15 et 16 novembre 1916, la canonnade qui ébranle les vitres d'Acheux répond aux combats de la **bataille de l'Ancre** devant **Beaumont-Hamel** et **Beaucourt-sur-l'Ancre** (condensés par Hippolyte Combes sous l'appellation *Beaumont s/ Ancre*). Le 16 novembre, en tournée par Raincheval, Louvencourt et Toutencourt, il déjeune à **Hérissart** chez le **lieutenant Walsh** avec l'interprète **M.~Deloney**, industriel du textile de la région parisienne.
+> Les 15 et 16 novembre 1916, la canonnade qui ébranle les vitres d'Acheux s'inscrit chronologiquement dans les combats de la **bataille de l'Ancre** devant **Beaumont-Hamel** et **Beaucourt-sur-l'Ancre** (le carnet écrit *Beaumont s/ Ancre*, sans expliciter une fusion de ces deux noms). Le 16 novembre, en tournée par Raincheval, Louvencourt et Toutencourt, il déjeune à **Hérissart** chez le **lieutenant Walsh** avec son interprète, probablement **M.~Deloney** nommé à la vue 103, industriel du textile de la région parisienne.
 
 ---
 
@@ -4530,16 +4534,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Authie*) cf. infra fo 51 ro, fo 53 vo, *et passim*. — **10** (*Y.M.C.A.*) cf. infra fo 57 ro, fo 58 ro, *et passim*. — **20** (*Albert*) cf. supra fo 39 ro, fo 49 vo, infra fo 82 ro, fo 84 vo, *et passim*.*
+***6** (*Authie*) cf. infra fo 51 ro, l. 21 (*Authie*); fo 53 vo, l. 3 (*Authie*). — **10** (*Y.M.C.A.*) cf. infra fo 57 ro, l. 13 (*Y.M.C.A.*); fo 58 ro, l. 10 (*Y.M.C.A.*). — **20** (*Albert*) cf. supra fo 49 vo, l. 6 (*Albert*); infra fo 82 ro, l. 8 (*Albert*).*
 
-> Après une tournée dans la vallée de l'Authie (**Authie**, **Orville**, **Amplier**) et une conférence sur la Russie au foyer de la *Y.M.C.A.* d'Acheux le 17 novembre, l'entrée du samedi **18 novembre 1916** consigne avec une exactitude remarquable le dernier grand assaut de l'**offensive de la Somme**: à l'aube du 18 novembre (6~h~10), au milieu de la première chute de neige de l'hiver, les **IIe** et V\textsuperscript{e Corps britanniques} (dont la 18e Division devant *Desire Trench*) attaquent vers Grandcourt et l'Ancre sous un barrage roulant d'artillerie qu'Hippolyte Combes compare à d'« énormes vagues déferlant sur rochers avec un bruit de tonnerre » (Nichols, *op.~cit.*, p.~136--145).
+> Après une tournée par **Authie**, **Orville** et **Amplier** et une conférence sur la Russie au foyer Y.M.C.A., Combes décrit à l'aube du **18 novembre 1916** une canonnade comparable à d'énormes vagues et la première neige qu'il note. La date est celle du dernier jour de la **bataille de l'Ancre** (13–18 novembre). Ce contexte ne permet pas d'attribuer avec certitude les sons à un barrage roulant, à une division ou à un horaire précis de l'assaut.
 
 ---
 
 ## Folio 50 verso — Novembre 1916
 - **Titre** : Défilé de troupes et de prisonniers allemands à Acheux, nuit à Englebelmer et friction avec Curtis
 - **Date** : 20 – 21 novembre 1916
-- **Lieu** : Acheux, Bouzincourt, Contay, Englebelmer, Léalvillers (Somme)
+- **Lieu** : Acheux, Bouzincourt, Contay [?], Englebelmer, Léalvillers (Somme)
 
 ```text
  1 | 20 Lundi —          Nov. /16
@@ -4588,14 +4592,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***12** (*Bouzincourt*) cf. supra fo 38 vo, fo 40 ro, infra fo 62 ro, *et passim*. — **13** (*Contay*) cf. supra fo 49 ro, infra fo 79 vo, fo 80 vo, *et passim*. — **17** (*Acheux*) cf. supra fo 21 vo, fo 50 ro, infra fo 51 ro, fo 51 vo, *et passim*.*
+***12** (*Bouzincourt*) cf. supra fo 38 vo, l. 2 (*Bouzincourt*); infra fo 62 ro, l. 5 (*Bouzincourt*). — **13** (*Contay*) similitudo lectionis, incertitudo nominis cf. supra fo 49 ro, l. 8 (*Contay*); infra fo 79 vo, l. 4 (*Contay*). — **17** (*Acheux*) cf. supra fo 49 vo, l. 11 (*Acheux*); infra fo 51 vo, l. 9 (*Acheux*).*
 
 > Au lendemain de la bataille de l'Ancre (13--18 novembre 1916, au cours de laquelle la Ve Armée britannique captura plus de 7~000 prisonniers allemands à Beaumont-Hamel, Saint-Pierre-Divion et Beaucourt), Hippolyte Combes observe depuis sa fenêtre d'Acheux la relève des bataillons descendant des tranchées et le passage des colonnes de prisonniers allemands évacués vers l'arrière.
 
 ---
 
 ## Folio 51 recto — Novembre 1916
-- **Titre** : Indisposition nocturne, couture de M. Carluvant et tournée à Amplier et Authie
+- **Titre** : Indisposition nocturne, couture de M. Carluvant [?] et tournée à Amplier et Authie
 - **Date** : 22 – 23 novembre 1916
 - **Lieu** : Acheux, Amplier, Authieule, Authie (Somme / Pas-de-Calais)
 
@@ -4639,9 +4643,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***21** (*Authie*) cf. supra fo 50 ro, infra fo 53 vo, fo 54 ro, *et passim*.*
+***21** (*Authie*) cf. supra fo 50 ro, l. 6 (*Authie*); infra fo 53 vo, l. 3 (*Authie*).*
 
-> Retenu le 22 novembre 1916 par une crise d'entérite, Hippolyte Combes mentionne pour la première fois par son nom et sa profession son logeur du no~1 route de Léalvillers à Acheux, le maître tailleur **M.~Carluvant** (qui retouche sa culotte militaire pour 75~c. et chez qui il logera jusqu'au 7 février 1917).
+> Le 22 novembre 1916, Combes décrit des troubles digestifs, avec une lecture réservée *Craint [?] dysenterie*. Il paie 75~c. à son propriétaire, tailleur, nommé **Carluvant [?]**, pour élargir une culotte neuve. Les vues 118 puis 146–148 donnent d'autres occurrences des logeurs ; cette continuité probable ne suffit pas à établir l'adresse et la durée exacte du bail. Le 23, Combes reprend ses courses vers Amplier, Authieule et Authie.
 
 ---
 
@@ -4695,14 +4699,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***9** (*Acheux*) cf. supra fo 21 vo, fo 51 ro, infra fo 52 ro, fo 52 vo, *et passim*. — **20** (*Lt Walsh*) cf. supra fo 49 vo, infra fo 53 ro, fo 60 ro. — **22** (*Hérissart*) cf. supra fo 47 vo, fo 49 vo, infra fo 52 ro, fo 53 ro, *et passim*.*
+***9** (*Acheux*) cf. supra fo 50 vo, l. 17 (*Acheux*); infra fo 52 ro, l. 19 (*Acheux*). — **20** (*Lt Walsh*) cf. supra fo 49 vo, l. 20 (*Lt Walsh*); infra fo 53 ro, l. 7 (*Walsh*). — **22** (*Hérissart*) cf. supra fo 49 vo, l. 20 (*Hérissart*); infra fo 52 ro, l. 22 (*Hérissart*).*
 
 > Le samedi 25 novembre 1916 au matin, un tir d'artillerie allemande à longue portée de plus de vingt-cinq obus frappe **Acheux-en-Amiénois** aux abords de la râperie/sucrerie et de la ferme Royer, faisant plusieurs tués et blessés ; le lendemain dimanche 26 novembre, Hippolyte Combes reçoit pour le thé le **lieutenant Walsh** et son interprète **M.~Deloney**, qu'il raccompagne à pied sur la route d'Hérissart.
 
 ---
 
 ## Folio 52 recto — Novembre 1916
-- **Titre** : Thé au château de Martinsart chez les Bertin et brouillard fantomatique sur la Somme
+- **Titre** : Thé au château de Martinsart chez les Bertin [?] et brouillard fantomatique sur la Somme
 - **Date** : 28 – 30 novembre 1916
 - **Lieu** : Acheux, Martinsart, Raincheval, Puchevillers, Rubempré, Septenville, Pierregot, Hérissart (Somme)
 
@@ -4749,9 +4753,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Martinsart*) cf. infra fo 52 vo, fo 58 vo, *et passim*. — **13** (*Raincheval*) cf. supra fo 20 vo, fo 49 vo, infra fo 53 vo, fo 54 ro, *et passim*. — **14** (*Puchevillers*) cf. supra fo 37 vo, infra fo 55 ro, fo 56 ro, *et passim*.*
+***4** (*Martinsart*) cf. infra fo 52 vo, l. 23 (*Martinsart*); fo 58 vo, l. 6 (*Martinsart*). — **13** (*Raincheval*) cf. supra fo 49 vo, l. 19 (*Raincheval*); infra fo 53 vo, l. 15 (*Raincheval*). — **14** (*Puchevillers*) cf. supra fo 37 vo, l. 9 (*Puchevillers*); infra fo 55 ro, l. 12 (*Puchevillers*).*
 
-> Le mardi 28 novembre 1916, une tournée conduit Hippolyte Combes au château de **Martinsart** (Somme, à 3,5~km au nord d'Albert, en arrière immédiat des batteries lourdes britanniques tirant vers l'Ancre), dont les propriétaires âgés seront peu après évacués à Franvillers ; les 29 et 30 novembre, les courses de fourrage s'étendent vers le sud-ouest jusqu'à **Rubempré**, **Septenville** et **Pierregot**.
+> Le mardi 28 novembre 1916, une tournée conduit Hippolyte Combes au château de **Martinsart** (Somme, à 3,5~km au nord d'Albert, en arrière immédiat des batteries lourdes britanniques tirant vers l'Ancre), dont les hôtes âgés peuvent être rapprochés des réfugiés de Martinsart revus à Franvillers le 30 décembre, sans identité démontrée ; les 29 et 30 novembre, les courses de fourrage s'étendent vers le sud-ouest jusqu'à **Rubempré**, **Septenville** et **Pierregot**.
 
 ---
 
@@ -4810,7 +4814,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--26 :** Le feuillet s'articule en deux journées (1er décembre, l.~1--16, avec bloc comptable entre crochets aux l.~13--16 ; 2 décembre, l.~17--26) séparées par un trait horizontal.
 
-***4** (*Buire*) cf. infra fo 90 vo, fo 91 ro. — **4** (*Franvillers*) cf. infra fo 58 vo. — **6** (*Ribemont*) cf. infra fo 76 vo, fo 84 vo.*
+***4** (*Franvillers*) cf. infra fo 58 vo, l. 4 (*Franvillers*). — **4** (*Buire*) cf. infra fo 90 vo, l. 18 (*Buire*); fo 91 ro, l. 8 (*Buire*). — **6** (*Ribemont*) cf. infra fo 76 vo, l. 6 (*Ribemont*); fo 84 vo, l. 8 (*Ribemont*).*
 
 > En se rendant à **Franvillers** et **Buire-sur-l'Ancre** le 1er décembre 1916, Hippolyte Combes revoit la vallée de **Ribemont-sur-Ancre** et **Heilly**, où il avait cantonné avec la 18e Division durant l'hiver 1915–1916. Le samedi 2 décembre survient à Acheux l'arrivée du jeune **capitaine Williams** (*Foraging Officer*), appelé à remplacer le lieutenant Curtis.
 
@@ -4863,7 +4867,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Walsh*) cf. supra fo 49 vo, fo 51 vo, infra fo 60 ro. — **7** (*Hérissart*) cf. supra fo 47 vo, fo 52 ro, infra fo 54 ro, fo 62 ro, *et passim*. — **16** (*Acheux*) cf. supra fo 21 vo, fo 52 vo, infra fo 53 vo, fo 54 ro, *et passim*.*
+***7** (*Hérissart*) cf. supra fo 52 ro, l. 22 (*Hérissart*); infra fo 54 ro, l. 16 (*Hérissart*). — **7** (*Walsh*) cf. supra fo 51 vo, l. 20 (*Lt Walsh*); infra fo 60 ro, l. 17 (*Lt Walsh*). — **16** (*Acheux*) cf. supra fo 52 vo, l. 9 (*Acheux*); infra fo 56 vo, l. 5 (*Acheux*).*
 
 > Le dimanche 3 décembre 1916, après un déjeuner à Hérissart chez le **lieutenant Walsh**, une longue tournée automobile entraîne Hippolyte Combes au sud de la Somme par **Corbie** et **Villers-Bretonneux** jusqu'à **Marcelcave** et **Warfusée-Abancourt** (commune de Lamotte-Warfusée, sur l'axe Amiens–Péronne), avant le paiement de sa quinzaine (78~fr.~75) à la Mission du XIIIe Corps à Acheux et les premières courses avec le **capitaine Williams** à Belle-Église et Louvencourt.
 
@@ -4908,7 +4912,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Authie*) cf. supra fo 50 ro, fo 51 ro, infra fo 54 ro, fo 54 vo, *et passim*. — **11** (*Curtis*) cf. supra fo 1 ro, fo 52 vo, *et passim*. — **12** (*152 Coy*) cf. supra fo 33 ro, fo 48 ro, *et passim*.*
+***3** (*Authie*) cf. supra fo 51 ro, l. 21 (*Authie*); infra fo 54 ro, l. 23 (*Authie*). — **11** (*Curtis*) cf. supra fo 52 ro, l. 25 (*Curtis*); fo 52 vo, l. 13 (*Curtis*). — **12** (*152 Coy*) cf. supra fo 47 vo, l. 13 (*152 Coy*); fo 48 ro, l. 19 (*152 Coy*).*
 
 > Après l'inspection le 5 décembre 1916 des villages dévastés de **Bayencourt** et **Coigneux** (en arrière immédiat des tranchées d'**Hébuterne** et du saillant de **Gommecourt**), le **lieutenant Curtis** quitte définitivement Acheux le 6 décembre pour réintégrer la **152e** Compagnie A.S.C., salué par Hippolyte Combes d'une épithète cinglante (*A brainless ass*), tandis que le jeune **capitaine Williams** lui confie avoir débuté avant la guerre comme petit employé de bureau (*office boy*) à 50~livres par an.
 
@@ -4963,16 +4967,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Arquèves*) cf. supra fo 47 vo, fo 53 ro, infra fo 55 vo, fo 57 vo, *et passim*. — **3** (*Belle-Église*) cf. supra fo 47 vo, fo 53 ro, infra fo 54 vo, fo 55 ro, *et passim*. — **5** (*Raincheval*) cf. supra fo 20 vo, fo 53 vo, infra fo 55 vo, fo 56 vo, *et passim*.*
+***3** (*Belle-Église*) cf. supra fo 53 ro, l. 23 (*Belle-Église*); infra fo 54 vo, l. 4 (*Belle-Église*), del.. — **3** (*Arquèves*) cf. supra fo 53 ro, l. 23 (*Arquèves*); infra fo 55 vo, l. 9 (*Arquèves*). — **5** (*Raincheval*) cf. supra fo 53 vo, l. 15 (*Raincheval*); infra fo 55 vo, l. 10 (*Raincheval*).*
 
-> Les 7 et 8 décembre 1916, Hippolyte Combes supervise la mise en route du battage mécanique de la paille à la ferme de **Belle-Église** (commune d'**Arquèves**), exploitée par une famille d'agriculteurs belges, **M. et Mme Houthouan**, et gagne par Hédauville le village d'**Englebelmer** (Somme, à 4~km des lignes de Beaumont-Hamel), entièrement évacué de sa population civile et occupé par l'artillerie britannique.
+> Les 7 et 8 décembre 1916, Combes se rend à **Belle-Église** et **Arquèves**. La fermière est dite belge et son nom reste proposé **Houtteman [?]**, par comparaison avec la vue 171. Le 8, il note qu'on a commencé à battre la paille, sans s'attribuer la direction des machines. À **Englebelmer**, atteint par Hédauville, il décrit un village presque sans habitants et des Anglais dans leurs cantonnements ; leur arme et les conditions de l'évacuation ne sont pas identifiées.
 
 ---
 
 ## Folio 54 verso — Décembre 1916
 - **Titre** : Randonnée pluvieuse jusqu'à Saulty et L'Arbret, autoritarisme de Williams et crise de dysenterie
 - **Date** : 9 – 11 décembre 1916
-- **Lieu** : Acheux, Belle-Église, Authie, Orville, Saulty, L'Arbret (Somme / Pas-de-Calais)
+- **Lieu** : Acheux, Belle-Église (biffé), Authie, Orville, Saulty, L'Arbret (Somme / Pas-de-Calais)
 
 ```text
  1 | 9 Samedi          Décbre 1916
@@ -5013,9 +5017,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Belle-Église*) cf. supra fo 47 vo, fo 54 ro, infra fo 55 ro, fo 55 vo, *et passim*. — **5** (*Authie*) cf. supra fo 50 ro, fo 54 ro, infra fo 56 ro, fo 59 ro, *et passim*. — **6** (*Lt Croughton*) cf. infra fo 75 ro.*
+***4** (*Belle-Église*) verba deleta cf. supra fo 54 ro, l. 3 (*Belle-Église*); infra fo 55 ro, l. 12 (*Belle-Église*). — **5** (*Authie*) cf. supra fo 54 ro, l. 23 (*Authie*); infra fo 56 ro, l. 15 (*Authie*). — **6** (*Croughton*) similitudo lectionis, incertitudo nominis cf. infra fo 75 ro, l. 2 (*Croughton*).*
 
-> Le samedi 9 décembre 1916, au cours d'une longue tournée jusqu'en Artois (**Orville**, **Saulty** et **L'Arbret**, Pas-de-Calais, sur la route de Doullens à Arras), Hippolyte Combes déjeune à **Authie** au mess de la 3e Compagnie du Train divisionnaire de la **31e** Division britannique (*No.~3 Company, 31st Divisional Train, A.S.C.*, c'est-à-dire la *280th Company A.S.C.*, rattachée au XIIIe Corps devant Serre–Hébuterne) avec le **lieutenant Croughton**.
+> Le samedi 9 décembre 1916, au cours d'une longue tournée jusqu'en Artois (**Orville**, **Saulty** et **L'Arbret**, Pas-de-Calais, sur la route de Doullens à Arras), Hippolyte Combes déjeune à **Authie** au mess de la 3e Compagnie du Train divisionnaire de la **31e** Division britannique (*No.~3 Company, 31st Divisional Train, A.S.C.* ; son équivalence avec la *280th Company* demande une source d'ordre de bataille contrôlée) avec le **lieutenant Croughton [?]**.
 
 ---
 
@@ -5063,9 +5067,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Senlis*) cf. supra fo 37 vo, fo 48 ro, infra fo 56 ro, fo 58 vo, *et passim*. — **10** (*Toutencourt*) cf. supra fo 49 vo, fo 52 vo, infra fo 55 vo, fo 56 ro, *et passim*. — **11** (*Major Levy*) cf. supra fo 45 vo, fo 46 vo, infra fo 58 ro, fo 83 ro.*
+***7** (*Senlis*) cf. supra fo 48 ro, l. 5 (*Senlis*); infra fo 56 ro, l. 3 (*Senlis*). — **10** (*Toutencourt*) cf. supra fo 52 vo, l. 7 (*Toutencourt*); infra fo 55 vo, l. 10 (*Toutencourt*). — **11** (*Levy*) cf. supra fo 45 vo, l. 2 (*Levy*); infra fo 58 ro, l. 20 (*Levy*).*
 
-> Le mercredi 13 décembre 1916 au matin, Hippolyte Combes assiste le **major Levy** (chef du service d'achats et réquisitions du secteur) lors d'une réunion officielle organisée à la mairie de **Toutencourt** avec les habitants évacués du village d'**Englebelmer** pour le règlement des récoltes et fourrages laissés dans leurs exploitations.
+> Le mercredi 13 décembre 1916 au matin, Hippolyte Combes assiste le **major Levy** (dont le mandat précis n'est pas exposé ici) lors d'une réunion officielle organisée à la mairie de **Toutencourt** avec les habitants évacués du village d'**Englebelmer** ; l'objet administratif de la réunion n'est pas donné.
 
 ---
 
@@ -5112,7 +5116,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***9** (*Arquèves*) cf. supra fo 47 vo, fo 54 ro, infra fo 57 vo, fo 60 vo, *et passim*. — **9** (*Belle-Église*) cf. supra fo 47 vo, fo 55 ro, infra fo 56 vo, fo 58 vo, *et passim*. — **10** (*Raincheval*) cf. supra fo 20 vo, fo 54 ro, infra fo 56 vo, fo 57 vo, *et passim*.*
+***9** (*Belle-Église*) cf. supra fo 55 ro, l. 12 (*Belle-Église*); infra fo 56 vo, l. 2 (*Belle-Église*). — **9** (*Arquèves*) cf. supra fo 54 ro, l. 3 (*Arquèves*); infra fo 57 vo, l. 3 (*Arquèves*). — **10** (*Raincheval*) cf. supra fo 54 ro, l. 5 (*Raincheval*); infra fo 56 vo, l. 3 (*Raincheval*).*
 
 > Les tournées des 17 et 18 décembre 1916 sur les routes défoncées relient les centres de battage d'**Arquèves** (**Belle-Église**), **Raincheval**, **Toutencourt** et la **ferme du Quesnoy** (écart agricole près de Raincheval et Puchevillers), tandis que s'accuse la mésentente morale entre l'universitaire de quarante ans et le jeune **capitaine Williams** (« un capitaine de 20 ans, présomptueux et vain »).
 
@@ -5121,7 +5125,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ## Folio 56 recto — Décembre 1916
 - **Titre** : Crise épistolaire avec Marguerite (« velléités de rupture ») et l'incident du « Bloody France ! »
 - **Date** : 22 – 24 décembre 1916
-- **Lieu** : Acheux, Senlis-le-Sec, Rubempré, Le Quesnoy, Léalvillers, Saint-Léger, Orville, Authie, Toutencourt, Puchevillers, Louvencourt (Somme)
+- **Lieu** : Acheux, Senlis-le-Sec, Rubempré, Quesnoy (identification non établie), Léalvillers, Saint-Léger, Orville, Authie, Toutencourt, Puchevillers, Louvencourt (Somme)
 
 ```text
  1 | 22 Ven.          Déc. 1916
@@ -5169,7 +5173,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--24 :** Le fo~56~ro (journées du vendredi 22 décembre, l.~1--11, et du dimanche 24 décembre 1916, l.~12--24) et le fo~56~vo (journées des 19 et 20 décembre 1916) se présentent dans l'ordre inverse de la chronologie.
 
-***1** (*22 Ven.*) de ordine chronologico cf. infra fo 56 vo. — **3** (*Senlis*) cf. supra fo 37 vo, fo 55 ro, infra fo 58 vo, fo 62 ro, *et passim*. — **4** (*Rubempré*) cf. supra fo 47 vo, fo 52 ro, infra fo 61 ro, fo 62 ro, *et passim*.*
+***1** (*22 Ven.*) de ordine chronologico cf. infra fo 56 vo, l. 1 (*19 Ma.*). — **3** (*Senlis*) cf. supra fo 55 ro, l. 7 (*Senlis*); infra fo 58 vo, l. 7 (*Senlis*). — **4** (*Rubempré*) cf. supra fo 52 ro, l. 14 (*Rubempré*); infra fo 61 ro, l. 24 (*Rubempré*).*
 
 > Ce feuillet des 22 et 24 décembre 1916 marque une double crise à la veille de Noël : sur le plan intime, une lettre de **Marguerite Calmels** datée du 17 décembre provoque chez Hippolyte Combes de vives appréhensions ; sur le plan militaire, lors d'une visite de service le 24 décembre chez l'exploitante **Mme Cuisinier** à **Louvencourt**, l'exclamation francophobe du **capitaine Williams** (*« Bloody France etc.! »*) indigne l'interprète, qui hésite à adresser un rapport officiel à la Mission française.
 
@@ -5178,7 +5182,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ## Folio 56 verso — Décembre 1916
 - **Titre** : Attente devant l'Army Purchase Board à Raincheval et grandes gelées d'avant Noël
 - **Date** : 19 – 20 décembre 1916
-- **Lieu** : Acheux, Belle-Église, Raincheval, Le Quesnoy, Beauquesne (Somme)
+- **Lieu** : Acheux, Belle-Église, Raincheval, Quesnoy (identification non établie), Beauquesne (Somme)
 
 ```text
  1 | 19 Ma. —          Décbre 1916 —
@@ -5221,7 +5225,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--21 :** Ce feuillet, qui réunit les entrées des mardi 19 (l.~1--11) et mercredi 20 décembre 1916 (l.~12--21) séparées par un trait horizontal, précède chronologiquement le fo~56~ro.
 
-***1** (*19 Ma.*) de ordine chronologico cf. supra fo 56 ro. — **2** (*Belle-Église*) cf. supra fo 47 vo, fo 55 vo, infra fo 58 vo, fo 59 vo, *et passim*. — **3** (*Raincheval*) cf. supra fo 20 vo, fo 55 vo, infra fo 57 vo, fo 58 ro, *et passim*.*
+***1** (*19 Ma.*) de ordine chronologico cf. supra fo 56 ro, l. 1 (*22 Ven.*). — **2** (*Belle-Église*) cf. supra fo 55 vo, l. 9 (*Belle-Église*); infra fo 59 vo, l. 6 (*Belle-Église*). — **3** (*Raincheval*) cf. supra fo 55 vo, l. 10 (*Raincheval*); infra fo 57 vo, l. 3 (*Raincheval*).*
 
 > À **Raincheval**, Hippolyte Combes attend devant le bureau de la commission d'achats de l'armée (***Army Purchase Board***) et perçoit sa solde bimensuelle (84~francs) au bureau de la Mission française du **XIIIe** Corps britannique.
 
@@ -5274,7 +5278,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Louvencourt*) cf. supra fo 49 vo, fo 56 ro, infra fo 58 ro, fo 59 ro, *et passim*. — **6** (*Margte*) cf. supra fo 1 ro, fo 56 ro, infra fo 66 vo, fo 67 ro, *et passim*. — **13** (*Y.M.C.A.*) cf. supra fo 50 ro, infra fo 58 ro, fo 58 vo, *et passim*.*
+***4** (*Louvencourt*) cf. supra fo 56 ro, l. 16 (*Louvencourt*); infra fo 58 ro, l. 21 (*Louvencourt*). — **6** (*Margte*) cf. supra fo 56 ro, l. 10 (*Mte*); infra fo 66 vo, l. 2 (*Margte*). — **13** (*Y.M.C.A.*) cf. supra fo 50 ro, l. 10 (*Y.M.C.A.*); infra fo 58 ro, l. 10 (*Y.M.C.A.*).*
 
 > Journée de Noël 1916 (**25 décembre 1916**) à **Acheux-en-Amiénois**: après une nuit d'insomnie partagée entre l'indignation causée par l'incident de Louvencourt avec le capitaine Williams et le trouble provoqué par la lettre de Marguerite du 17 décembre, Hippolyte Combes retrouve son équilibre moral dans sa chambre, assiste l'après-midi et le soir au spectacle de music-hall (*chansons comiques et saynètes*) donné au foyer de la ***Y.M.C.A.*** d'Acheux, et note le silence complet de l'artillerie dans la nuit étoilée.
 
@@ -5283,7 +5287,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ## Folio 57 verso — Décembre 1916
 - **Titre** : Location d'une machine à battre chez Mme Capron à Beauquesne et course rapide à Doullens
 - **Date** : 26 – 27 décembre 1916
-- **Lieu** : Acheux, Raincheval, Arquèves, Beauquesne, Le Quesnoy, Doullens (Somme)
+- **Lieu** : Acheux, Raincheval, Arquèves, Beauquesne, Quesnoy (identification non établie), Doullens (Somme)
 
 ```text
  1 | 26 Mardi          Décbre 1916.
@@ -5316,16 +5320,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Raincheval*) cf. supra fo 20 vo, fo 56 vo, infra fo 58 ro, fo 58 vo, *et passim*. — **3** (*Arquèves*) cf. supra fo 47 vo, fo 55 vo, infra fo 60 vo, fo 61 ro, *et passim*. — **5** (*Quesnoy*) cf. supra fo 55 vo, fo 56 vo, infra fo 58 ro, fo 59 ro, *et passim*.*
+***3** (*Raincheval*) cf. supra fo 56 vo, l. 3 (*Raincheval*); infra fo 58 ro, l. 20 (*Raincheval*). — **3** (*Arquèves*) cf. supra fo 55 vo, l. 9 (*Arquèves*); infra fo 60 vo, l. 14 (*Arquèves*). — **5** (*Beauquesne*) cf. supra fo 56 vo, l. 17 (*Beauquesne*); infra fo 58 vo, l. 17 (*Beauquesne*).*
 
-> Reprise des tournées dès le lendemain de Noël (26 décembre 1916) : entretien avec **M.~Guibet** à Raincheval et négociation à **Beauquesne** avec **Mme Capron** pour la location d'une batteuse mécanique (*machine à battre*) destinée au battage des pailles réquisitionnées par l'armée britannique.
+> Reprise des tournées dès le lendemain de Noël (26 décembre 1916) : passage à Raincheval puis entretien avec **M.~Guibet** à Arquèves et négociation à **Beauquesne** avec **Mme Capron** pour la location d'une batteuse mécanique (*machine à battre*) dont le contrat de battage réapparaît le 5 janvier à la vue 120, sans préciser ici réquisition ni propriété de la machine.
 
 ---
 
 ## Folio 58 recto — Décembre 1916
 - **Titre** : Concert des « 13th Corps Archie Singers » et tournée dans la voiture Sunbeam
 - **Date** : 28 – 29 décembre 1916
-- **Lieu** : Acheux, Léalvillers, Raincheval, Le Quesnoy, Louvencourt (Somme)
+- **Lieu** : Acheux, Léalvillers, Raincheval, Quesnoy (identification non établie), Louvencourt (Somme)
 
 ```text
  1 | 28 Jeudi          Décembre 1916
@@ -5370,9 +5374,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Léalvillers*) cf. supra fo 24 ro, fo 56 ro, infra fo 88 vo, *et passim*. — **10** (*Y.M.C.A.*) cf. supra fo 50 ro, fo 57 ro, infra fo 58 vo, fo 60 ro, *et passim*. — **15** (*Paris*) cf. supra in tegumento, fo 49 vo, infra fo 61 ro, fo 65 ro, *et passim*.*
+***7** (*Léalvillers*) cf. supra fo 56 ro, l. 6 (*Léalvillers*); infra fo 88 vo, l. 20 (*Léalvillers*). — **10** (*Y.M.C.A.*) cf. supra fo 57 ro, l. 13 (*Y.M.C.A.*); infra fo 58 vo, l. 22 (*Y.M.C.A.*). — **15** (*Paris*) cf. supra fo 49 vo, l. 23 (*Paris*); infra fo 61 ro, l. 10 (*Paris*).*
 
-> Soirée de Noël prolongée à Acheux le 28 décembre 1916 au foyer de la *Y.M.C.A.* par le concert de la troupe divisionnaire des ***13th Corps Archie Singers*** (groupe artistique formé par les batteries de défense contre aéronefs, familièrement appelées *Archies* dans l'argot militaire britannique). Le lendemain, tournée à Raincheval, Le Quesnoy et Louvencourt dans une automobile d'état-major *Sunbeam*.
+> Soirée de Noël prolongée à Acheux le 28 décembre 1916 au foyer de la *Y.M.C.A.* par le concert du groupe des ***13th Corps Archie Singers*** (ce nom ne suffit pas à établir une composition en artilleurs antiaériens, même si *Archie* possède cet emploi argotique). Le lendemain, tournée à Raincheval, Le Quesnoy et Louvencourt dans une automobile d'état-major *Sunbeam*.
 
 ---
 
@@ -5424,9 +5428,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Franvillers*) cf. supra fo 52 vo. — **6** (*Martinsart*) cf. supra fo 52 ro, fo 52 vo, infra fo 75 ro, fo 79 vo, *et passim*. — **7** (*Senlis*) cf. supra fo 37 vo, fo 56 ro, infra fo 62 ro, fo 75 vo, *et passim*.*
+***4** (*Franvillers*) cf. supra fo 52 vo, l. 4 (*Franvillers*). — **6** (*Martinsart*) cf. supra fo 52 vo, l. 23 (*Martinsart*); infra fo 75 ro, l. 16 (*Martinsart*). — **7** (*Senlis*) cf. supra fo 56 ro, l. 3 (*Senlis*); infra fo 62 ro, l. 5 (*Senlis*).*
 
-> Après avoir revu le 30 décembre 1916 à **Franvillers** les propriétaires âgés évacués du château de **Martinsart**, un nouvel éclat verbal du **capitaine Williams** à **Senlis-le-Sec** devant l'ordonnance provoque au retour à Acheux une mise au point ferme d'Hippolyte Combes : redoutant une plainte officielle auprès de la Mission française, le jeune officier lui présente ses excuses et garde tout le jour de la Saint-Sylvestre (31 décembre) une attitude contrite.
+> Après avoir revu le 30 décembre 1916 à **Franvillers** trois personnes âgées réfugiées de **Martinsart**, possiblement les hôtes du château de la vue 104, un nouvel éclat verbal du **capitaine Williams** à **Senlis-le-Sec** devant l'ordonnance provoque au retour à Acheux une mise au point ferme d'Hippolyte Combes : le jeune officier lui présente ses excuses et garde tout le jour de la Saint-Sylvestre (31 décembre) une attitude contrite.
 
 ---
 
@@ -5472,9 +5476,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--23 :** L'année nouvelle (*1917*) est mise en évidence dès l'en-tête souligné de la l.~1 (*1er* Lundi --- 1917 --- \hfill Janvier.) ; le feuillet regroupe les 1er (l.~1--10) et 2 janvier 1917 (l.~11--23).
 
-***4** (*Toutencourt*) cf. supra fo 49 vo, fo 56 ro, infra fo 62 ro, fo 75 ro, *et passim*. — **4** (*Quesnoy*) cf. supra fo 55 vo, fo 58 ro, *et passim*. — **5** (*Authie*) cf. supra fo 50 ro, fo 56 ro, infra fo 60 vo, fo 61 ro, *et passim*.*
+***4** (*Toutencourt*) cf. supra fo 56 ro, l. 16 (*Toutencourt*); infra fo 62 ro, l. 8 (*Toutencourt*). — **4** (*Quesnoy*) cf. supra fo 57 vo, l. 5 (*Quesnoy*); fo 58 ro, l. 20 (*Quesnoy*). — **5** (*Authie*) cf. supra fo 56 ro, l. 15 (*Authie*); infra fo 60 vo, l. 5 (*Authie*).*
 
-> Les 1er et 2 janvier 1917, le service des fourrages se poursuit sans trêve du Jour de l'An : tournée le lundi par **Authie** et **Pas-en-Artois** jusqu'à **Saulty** (Pas-de-Calais, sur la route de Doullens à Arras), et expertise contradictoire le mardi 2 janvier d'une machine agricole endommagée à la **ferme Cuisinier** à **Louvencourt**, tandis que le tailleur **M.~Carluvant** évoque un congé prochain de son logement d'Acheux.
+> Les 1er et 2 janvier 1917, le service des fourrages se poursuit sans trêve du Jour de l'An : tournée le lundi par **Authie** et **Pas-en-Artois** jusqu'à **Saulty** (Pas-de-Calais, sur la route de Doullens à Arras), et expertise le mardi 2 janvier d'une machine agricole endommagée à la **ferme Cuisinier** à **Louvencourt**, tandis que le tailleur **M.~Carluvant [?]** évoque un congé prochain de son logement d'Acheux.
 
 ---
 
@@ -5523,9 +5527,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Amiens*) cf. supra fo 25 vo, fo 49 ro, infra fo 63 ro, fo 64 vo, *et passim*. — **6** (*Belle-Église*) cf. supra fo 47 vo, fo 58 vo, infra fo 61 ro, fo 62 vo, *et passim*. — **6** (*Montigny*) cf. infra fo 61 vo, fo 79 ro, *et passim*.*
+***2** (*Amiens*) cf. supra fo 49 ro, l. 25 (*Amiens*); infra fo 63 ro, l. 18 (*Amiens*). — **6** (*Belle-Église*) cf. supra fo 56 vo, l. 2 (*Belle-Église*); infra fo 61 ro, l. 4 (*Belle-Église*). — **6** (*Montigny*) cf. infra fo 61 vo, l. 5 (*Montigny*); fo 79 ro, l. 25 (*Montigny*).*
 
-> Le mercredi 3 janvier 1917, en route vers **Amiens**, Hippolyte Combes s'arrête à **Montigny-sur-l'Hallue** (Somme) chez le maire **Paul Dubois**. À Amiens, après avoir garé l'automobile à l'**Hôtel de la Paix** (15, rue des Cordeliers), il rencontre le **capitaine Trefcon** rue **Sire-Firmin-Leroux** (au siège de la société de machines agricoles *La Semeuse*), puis visite la cathédrale **Notre-Dame d'Amiens** dont il achète cinq gravures.
+> Le mercredi 3 janvier 1917, en route vers **Amiens**, Hippolyte Combes s'arrête à **Montigny-sur-l'Hallue** (Somme) chez le maire **Paul Dubois**. À Amiens, après avoir garé l'automobile à l'**Hôtel de la Paix** (la rue reste blanche dans le carnet), il rencontre le **capitaine Trefcon** rue **Sire-Firmin-Leroux** (le carnet note *La Semeuse : instruments agricoles*, sans identifier un siège social), puis visite la cathédrale **Notre-Dame d'Amiens** dont il achète cinq gravures.
 
 ---
 
@@ -5578,9 +5582,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***11** (*Y.M.C.A.*) cf. supra fo 50 ro, fo 58 vo, infra fo 60 vo, fo 63 vo, *et passim*. — **13** (*Hair cut*) cf. supra fo 18 vo, fo 43 ro, infra fo 78 vo, fo 88 ro. — **17** (*Lt Walsh*) cf. supra fo 49 vo, fo 53 ro.*
+***11** (*Y.M.C.A.*) cf. supra fo 58 vo, l. 22 (*Y.M.C.A.*); infra fo 60 vo, l. 7 (*Y.M.C.A.*). — **17** (*Beauquesne*) cf. supra fo 58 vo, l. 17 (*Beauquesne*); infra fo 61 ro, l. 22 (*Beauquesne*). — **17** (*Lt Walsh*) cf. supra fo 51 vo, l. 20 (*Lt Walsh*); fo 53 ro, l. 7 (*Walsh*).*
 
-> Après un second concert des ***13th Corps Archie Singers*** au foyer de la Y.M.C.A. d'Acheux le 4 janvier 1917, la journée du vendredi 5 janvier mène Hippolyte Combes à la ferme Moulard à **Septenville** (Rubempré) puis à **Beauquesne**, où il déjeune au Café Continental avec le **lieutenant Walsh** et le **lieutenant Morris**, conclut avec **Mme Capron** le contrat de location de sa batteuse, et perçoit à Acheux sa quinzaine de 78~fr.~75 au bureau du XIIIe Corps.
+> Après un second concert des ***13th Corps Archie Singers*** au foyer de la Y.M.C.A. d'Acheux le 4 janvier 1917, la journée du vendredi 5 janvier mène Hippolyte Combes à la ferme Moulard à **Septenville** (Rubempré) puis à **Beauquesne**, où il déjeune au Café Continental avec le **lieutenant Walsh** et le **lieutenant Morris**, conclut avec **Mme Capron** un contrat de location de battage, et perçoit à Acheux 78~fr.~75 au bureau du XIIIe Corps.
 
 ---
 
@@ -5629,9 +5633,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Louvencourt*) cf. supra fo 49 vo, fo 59 ro, infra fo 61 ro, fo 61 vo, *et passim*. — **5** (*Bertrancourt*) cf. supra fo 46 ro, infra fo 84 ro. — **5** (*Authie*) cf. supra fo 50 ro, fo 59 ro, infra fo 61 ro, fo 77 ro, *et passim*.*
+***4** (*Louvencourt*) cf. supra fo 59 ro, l. 14 (*Louvencourt*); infra fo 61 ro, l. 20 (*Louvencourt*). — **5** (*Bertrancourt*) cf. supra fo 46 ro, l. 2 (*Bertrancourt*); infra fo 84 ro, l. 23 (*Bertrancourt*). — **5** (*Authie*) cf. supra fo 59 ro, l. 5 (*Authie*); infra fo 61 ro, l. 19 (*Authie*).*
 
-> Les mouvements de convois autour d'Acheux accompagnent l'extension du secteur du **Ve** Corps britannique dans la vallée de l'Ancre. À **Hédauville**, Hippolyte Combes rend visite le 9 janvier 1917 à la **150e** Compagnie de l'A.S.C. (*150th Company A.S.C.*, commandée par le major H.~G. Peachy), compagnie sœur de la 152e Compagnie au sein du *18th Divisional Train* (Maj. A.~F. Becke, *Order of Battle*, Part~3A, p.~81), où sert son ami le **lieutenant Morris**.
+> Des convois d'artillerie et d'A.S.C. encombrent les routes le 6 janvier ; leur rattachement à une extension de secteur n'est pas indiqué. À **Hédauville**, Hippolyte Combes rend visite le 9 janvier 1917 à la **150e** Compagnie de l'A.S.C. (*150th Company A.S.C.*, commandée par le major H.~G. Peachy), compagnie sœur de la 152e Compagnie au sein du *18th Divisional Train* (Nichols, *The 18th Division in the Great War*, 1922, p.~107–110), où sert son ami le **lieutenant Morris**.
 
 ---
 
@@ -5680,7 +5684,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Miraumont*) cf. infra fo 85 ro. — **4** (*Belle-Église*) cf. supra fo 47 vo, fo 59 vo, infra fo 62 vo, fo 85 vo, *et passim*. — **4** (*St-Léger*) cf. supra fo 54 ro, fo 60 vo, infra fo 61 vo.*
+***3** (*Miraumont*) cf. infra fo 85 ro, l. 25 (*Miraumont*). — **4** (*St-Léger*) cf. supra fo 60 vo, l. 14 (*St-Léger*); infra fo 61 vo, l. 13 (*St-Léger*). — **4** (*Belle-Église*) cf. supra fo 59 vo, l. 6 (*Belle-Église*); infra fo 62 vo, l. 4 (*Belle-Église*).*
 
 > La « très violente canonnade sur la ligne de Miraumont » notée le mercredi **10 janvier 1917** correspond aux opérations offensives menées sur l'Ancre les **10 et 11 janvier 1917** par le **Ve** Corps britannique (attaque de la 7e Division sur les tranchées allemandes dominant Beaumont-Hamel et le vallon de **Miraumont** ; *Official History, Military Operations France and Belgium, 1917*, vol.~I, p.~48–50) ; le même jour, Hippolyte Combes retrouve le **lieutenant Morris** à Belle-Église et expédie un mandat de 19~fr. à l'opticien parisien **Imbert**.
 
@@ -5730,7 +5734,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Beaucourt*) cf. supra fo 49 vo, infra fo 77 vo, fo 91 vo. — **5** (*Montigny*) cf. supra fo 59 vo, infra fo 79 ro, fo 80 vo, *et passim*. — **7** (*Huguet*) cf. supra fo 47 ro.*
+***4** (*Beaucourt*) cf. infra fo 77 vo, l. 18 (*Beaucourt*); fo 91 vo, l. 16 (*Beaucourt*). — **5** (*Montigny*) cf. supra fo 59 vo, l. 6 (*Montigny*); infra fo 79 ro, l. 25 (*Montigny*). — **7** (*Huguet*) cf. supra fo 47 ro, l. 15 (*Huguet*).*
 
 > Le samedi 13 janvier 1917, au bureau de la Mission française d'Acheux — désormais rattaché au **Ve** Corps britannique (commandé par le lieutenant-général E.~A. Fanshawe) qui a relevé le XIIIe Corps dans ce secteur —, le **capitaine Huguet** fixe définitivement au vendredi 26 janvier le départ d'Hippolyte Combes pour sa deuxième permission. Les 14 et 15 janvier sont marqués par d'abondantes chutes de neige sur la Picardie et une course à **Doullens**.
 
@@ -5782,7 +5786,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Senlis*) cf. supra fo 37 vo, fo 58 vo, infra fo 75 vo, fo 79 vo, *et passim*. — **5** (*Bouzincourt*) cf. supra fo 38 vo, fo 50 vo, *et passim*. — **5** (*Rubempré*) cf. supra fo 47 vo, fo 61 ro, infra fo 74 vo, fo 80 vo, *et passim*.*
+***5** (*Bouzincourt*) cf. supra fo 38 vo, l. 2 (*Bouzincourt*); fo 50 vo, l. 12 (*Bouzincourt*). — **5** (*Senlis*) cf. supra fo 58 vo, l. 7 (*Senlis*); infra fo 75 vo, l. 12 (*Senlis*). — **5** (*Rubempré*) cf. supra fo 61 ro, l. 24 (*Rubempré*); infra fo 74 vo, l. 4 (*Rubempré*).*
 
 > Après une tournée dans les fermes enneigées de Bouzincourt, Senlis-le-Sec et Rubempré le 16 janvier 1917, l'excursion du mercredi 17 janvier conduit Hippolyte Combes par Doullens jusqu'à **Auxi-le-Château** (Pas-de-Calais, dans la vallée de l'Authie), où son hôte **M.~Renard** le reçoit à déjeuner et lui présente sa collection d'objets d'art, dont un coffret en marqueterie de paille tressée acquis en 1858 au **bagne maritime de Toulon**.
 
@@ -5821,7 +5825,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Belle-Église*) cf. supra fo 47 vo, fo 61 ro, infra fo 85 vo, fo 87 vo, *et passim*. — **5** (*Raincheval*) cf. supra fo 20 vo, fo 61 vo, infra fo 73 vo, fo 77 vo, *et passim*. — **5** (*Puchevillers*) cf. supra fo 37 vo, fo 56 ro, infra fo 73 vo, fo 77 ro, *et passim*.*
+***4** (*Belle-Église*) cf. supra fo 61 ro, l. 4 (*Belle-Église*); infra fo 85 vo, l. 11 (*Belle Église*). — **5** (*Raincheval*) cf. supra fo 61 vo, l. 19 (*Raincheval*); infra fo 73 vo, l. 14 (*Raincheval*). — **5** (*Puchevillers*) cf. supra fo 56 ro, l. 16 (*Puchevillers*); infra fo 73 vo, l. 15 (*Puchevillers*).*
 
 > Sous la vague de froid polaire de la mi-janvier 1917 en Picardie, Hippolyte Combes poursuit les tournées quotidiennes de réquisition à Belle-Église, Raincheval et Puchevillers et perçoit sa solde bimensuelle (84~francs) au bureau de la Mission française du **Ve** Corps britannique.
 
@@ -5872,9 +5876,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***9** (*Louvencourt*) cf. supra fo 49 vo, fo 61 vo, infra fo 73 ro, *et passim*. — **14** (*Canteen*) cf. supra fo 21 vo, fo 59 ro, infra fo 83 vo, fo 89 vo, *et passim*. — **18** (*Amiens*) cf. supra fo 25 vo, fo 59 vo, infra fo 64 vo, fo 65 ro, *et passim*.*
+***9** (*Louvencourt*) cf. supra fo 61 vo, l. 12 (*Louvencourt*); infra fo 73 ro, l. 14 (*Louvencourt*). — **14** (*Canteen*) cf. supra fo 59 ro, l. 22 (*canteen*); infra fo 83 vo, l. 17 (*Exp. F. Canteen*). — **18** (*Amiens*) cf. supra fo 59 vo, l. 2 (*Amiens*); infra fo 64 vo, l. 2 (*Amiens*).*
 
-> Tandis que la vague de froid exceptionnelle de fin janvier 1917 (l'un des hivers les plus rigoureux du XXe~s. sur le front occidental) durcit la neige et couvre les vitres de givre, Hippolyte Combes se rend le dimanche 21 janvier à **Louvencourt** chez l'exploitante **Mme Cuisinier**, achète à la cantine britannique trois boîtes de graisse imperméabilisante pour brodequins (*Wren's Dubbin*) et prépare son départ en permission.
+> Tandis que la vague de froid exceptionnelle de fin janvier 1917 (les notations locales ne permettent pas de classer cet hiver à l'échelle du siècle) durcit la neige et couvre les vitres de givre, Hippolyte Combes se rend le dimanche 21 janvier à **Louvencourt** chez l'exploitante **Mme Cuis [?]**, probablement Cuisinier nommée aux vues 112 et 118, achète à la cantine britannique trois boîtes de graisse imperméabilisante pour brodequins (*Wren's Dubbin*) et prépare son départ en permission.
 
 ---
 
@@ -5920,9 +5924,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Y.M.C.A.*) cf. supra fo 50 ro, fo 60 vo, infra fo 65 ro, fo 73 ro, *et passim*.*
+***2** (*Y.M.C.A.*) cf. supra fo 60 vo, l. 7 (*Y.M.C.A.*); infra fo 65 ro, l. 8 (*Y.M.C.A.*).*
 
-> Après une conférence en anglais sur le Canada au foyer de la ***Y.M.C.A.*** d'Acheux le 23 janvier au soir, le gel nocturne des 24 et 25 janvier 1917 atteint une telle intensité que l'eau gèle dans le pot à eau et le seau de sa chambre. À la veille de partir en permission, Hippolyte Combes solde intégralement sa part de frais de *mess* pour les vingt-cinq premiers jours de janvier (79~fr.~10, soit 3~fr.~16 par jour).
+> Après une conférence sur le Canada au foyer de la ***Y.M.C.A.*** d'Acheux le 23 janvier au soir, le gel nocturne des 24 et 25 janvier 1917 atteint une telle intensité que l'eau gèle dans le pot à eau et le seau de sa chambre. À la veille de partir en permission, Hippolyte Combes note ses dépenses de *mess* pour janvier (79~fr.~10), sans période de vingt-cinq jours ni calcul quotidien écrits.
 
 ---
 
@@ -5970,7 +5974,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***10** (*Varennes*) cf. supra fo 25 ro, fo 60 vo, infra fo 88 ro, fo 92 ro, *et passim*. — **23** (*Doullens*) cf. supra fo 25 vo, fo 62 ro, infra fo 73 ro, fo 76 ro, *et passim*.*
+***10** (*Varennes*) cf. supra fo 60 vo, l. 18 (*Varennes*); infra fo 88 ro, l. 12 (*Varennes*). — **23** (*Doullens*) cf. supra fo 62 ro, l. 15 (*Doullens*); infra fo 73 ro, l. 9 (*Doullens*).*
 
 > Départ pour sa deuxième permission le vendredi 26 janvier 1917: embarqué après 15~h à la gare d'**Acheux-Varennes** sur le chemin de fer économique départemental de la Somme (ligne à voie métrique d'Albert à Doullens), Hippolyte Combes atteint à 16~h~30 la gare de correspondance de **Gézaincourt** (au sud de Doullens, sur la ligne de Saint-Pol à Amiens), où le retard de trois heures du train venant de Doullens l'oblige à attendre six heures dans une salle surchauffée bondée de permissionnaires avant de repartir à 22~h~30.
 
@@ -6000,7 +6004,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Amiens*) cf. supra fo 25 vo, fo 63 ro, infra fo 65 ro, fo 72 vo, *et passim*. — **5** (*Acheux*) cf. supra fo 21 vo, fo 64 ro, infra fo 73 ro, fo 73 vo, *et passim*.*
+***2** (*Amiens*) cf. supra fo 63 ro, l. 18 (*Amiens*); infra fo 65 ro, l. 3 (*Amiens*). — **5** (*Acheux*) cf. supra fo 60 ro, l. 24 (*Acheux*); infra fo 73 ro, l. 18 (*Acheux*).*
 
 > Suite de la nuit du 26 au 27 janvier 1917: parti d'Acheux-Varennes après 15~h, Hippolyte Combes n'atteint **Amiens** qu'à 2~h du matin. L'encadré financier consigne le poids de ses deux sacs enregistrés à Gézaincourt (27~kg) et son encaisse exacte au début de sa permission (**319~fr.~50**, qui lui servira à régler ses achats de voyage et de fiançailles à Paris, Toulouse et Millau).
 
@@ -6047,9 +6051,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Amiens*) cf. supra fo 25 vo, fo 64 vo, infra fo 72 vo, fo 73 ro, *et passim*. — **8** (*Y.M.C.A.*) cf. supra fo 50 ro, fo 63 vo, infra fo 73 ro, fo 74 ro, *et passim*. — **11** (*Paris*) cf. supra in tegumento, fo 61 ro, infra fo 65 vo, fo 66 ro, *et passim*.*
+***3** (*Amiens*) cf. supra fo 64 vo, l. 2 (*Amiens*); infra fo 73 ro, l. 5 (*Amiens*). — **8** (*Y.M.C.A.*) cf. supra fo 63 vo, l. 2 (*Y.M.C.A.*); infra fo 73 ro, l. 6 (*Y.M.C.A.*). — **11** (*Paris*) cf. supra fo 61 ro, l. 10 (*Paris*); infra fo 66 ro, l. 2 (*Paris*).*
 
-> En escale à Paris le samedi 27 janvier 1917 au matin, Hippolyte Combes se rend à **Neuilly-sur-Seine** pour rendre visite à la famille de **Mme Faure** (cousines de Marguerite Calmels).
+> En escale à Paris le samedi 27 janvier 1917 au matin, Hippolyte Combes se rend à **Neuilly-sur-Seine** pour rendre visite à la famille de **Mme Faure** (le degré de parenté avec les Calmels reste discuté dans l'annexe familiale).
 
 ---
 
@@ -6091,9 +6095,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Faure*) cf. Appendicem I, doc. 5. — **5** (*Germaine*) cf. infra fo 70 vo, fo 71 vo.*
+***14** (*gare*) de eadem re cf. supra fo 65 ro, l. 6 (*gare*); infra fo 66 ro, l. 15 (*gare*).*
 
-> Suite de la visite familiale du 27 janvier 1917 à **Neuilly-sur-Seine** chez **Mme Faure**, entourée de sa fille **Germaine** et de son fils **Marcel Faure** alors en permission, tandis que ses deux autres fils, **Henri** (aspirant d'infanterie) et **André** (candidat à l'École polytechnique), sont évoqués dans la conversation.
+> Suite de la visite familiale du 27 janvier 1917 à **Neuilly-sur-Seine** chez **Mme Faure**, entourée de sa fille **Germaine** et de son fils **Marcel Faure** présent au déjeuner, sans statut de permission indiqué, tandis que ses deux autres fils, **Henri** (aspirant, arme non précisée) et **André** (candidat à l'École polytechnique), sont évoqués dans la conversation.
 
 ---
 
@@ -6140,7 +6144,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--10 :** La première moitié de la page est entièrement dédiée au relevé des dépenses de voyage du samedi 27 janvier 1917 (Paris, gares du Nord et d'Orsay, billet pour Toulouse et achats au Bazar de l'Hôtel de Ville), avant le récit de l'arrivée à Toulouse le dimanche 28 janvier (l.~11--22).
 
-***2** (*Paris*) cf. supra in tegumento, fo 65 vo, infra fo 72 vo, fo 74 ro, *et passim*, Appendicem I, doc. 5. — **7** (*Toulouse*) cf. supra in tegumento, fo 65 vo, infra fo 66 vo, fo 67 ro, *et passim*. — **20** (*Oncle*) cf. supra fo 27 ro, fo 32 ro, infra fo 66 vo, fo 69 vo, *et passim*.*
+***2** (*Paris*) cf. supra fo 65 ro, l. 11 (*Paris*); infra fo 72 vo, l. 2 (*Paris*). — **7** (*Toulouse*) cf. supra fo 27 ro, l. 3 (*Toulouse*); infra fo 68 vo, l. 16 (*Toulouse*). — **21** (*Ste-Marie*) cf. supra fo 27 vo, l. 6 (*Ste-Marie*); infra fo 66 vo, l. 5 (*Ste-Marie*).*
 
 > En arrivant à la gare Matabiau de **Toulouse** le dimanche 28 janvier 1917 à 8~h~15, Hippolyte Combes évoque avec émotion sa mère **Marie Anaïs Alric** (née à Millau le 20 avril 1838, décédée à Toulouse en 1907) et ses sœurs disparues (**Maria Combes**, 1875–1903, et **Joséphine Combes**, 1873–1914) qui l'attendaient autrefois à la gare, puis reçoit dans son appartement la visite de l'oncle **Émile Crouzet** (1842–1921).
 
@@ -6181,9 +6185,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--15 :** Feuillet de suite du dimanche 28 janvier 1917 (*Dim. 28. (suite)*), intégralement consacré aux fiançailles officieuses avec Marguerite Calmels à la villa Sainte-Marie et clos par une unique ligne de frais de tramway entre crochets (l.~15).
 
-***2** (*Margte*) cf. supra fo 1 ro, fo 57 ro, infra fo 67 ro, fo 67 vo, *et passim*, Appendicem I, doc. 5. — **4** (*Tante*) cf. supra fo 27 ro, fo 66 ro, infra fo 69 vo, *et passim*. — **4** (*Madeleine*) cf. infra fo 67 ro.*
+***2** (*Margte*) cf. supra fo 57 ro, l. 6 (*Margte*); infra fo 67 ro, l. 10 (*Marg.*). — **4** (*Madeleine*) cf. infra fo 67 ro, l. 10 (*Madne*). — **5** (*Ste-Marie*) cf. supra fo 66 ro, l. 21 (*Ste-Marie*); infra fo 67 ro, l. 9 (*Ste-Marie*).*
 
-> Les retrouvailles chaleureuses du dimanche 28 janvier 1917 à Sainte-Marie dissipent entièrement le nuage épistolaire de la Noël : outre sa fiancée **Marguerite Calmels**, Hippolyte Combes retrouve **Élisabeth Crouzet née Calmels** (*Tante*), la sœur aînée de Marguerite, **Madeleine Calmels-Vincens** (1882–1961, épouse du Dr~Fernand Vincens de Saint-Chély-d'Apcher), ainsi qu'à 18~h~30 leur cousin l'abbé **Jean Crouzet**.
+> Les retrouvailles chaleureuses du dimanche 28 janvier 1917 à Sainte-Marie suivent les inquiétudes épistolaires de Noël, sans prouver leur effacement définitif : outre sa fiancée **Marguerite Calmels**, Hippolyte Combes retrouve *Tante*, rapprochable d'**Élisabeth Crouzet née Calmels**, la sœur aînée de Marguerite, **Madeleine Calmels-Vincens** (1882–1961, épouse du Dr~Fernand Vincens de Saint-Chély-d'Apcher), ainsi qu'à 18~h~30 Jean, rapprochable de l'abbé **Jean Crouzet**.
 
 ---
 
@@ -6232,7 +6236,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***9** (*Ste-Marie*) cf. supra fo 27 vo, fo 66 vo, infra fo 67 vo, fo 68 ro, *et passim*. — **10** (*Madne*) cf. supra fo 66 vo. — **23** (*Margte*) cf. supra fo 1 ro, fo 66 vo, infra fo 67 vo, fo 68 ro, *et passim*.*
+***9** (*Ste-Marie*) cf. supra fo 66 vo, l. 5 (*Ste-Marie*); infra fo 67 vo, l. 8 (*Ste-Marie*). — **10** (*Marg.*) cf. supra fo 66 vo, l. 2 (*Margte*); infra fo 67 vo, l. 15 (*Margte*). — **10** (*Madne*) cf. supra fo 66 vo, l. 4 (*Madeleine*).*
 
 > À **Toulouse** le 29 janvier 1917, Hippolyte Combes retire en gare Matabiau un panier de fleurs expédié de Nice pour Marguerite Calmels, visite avec elle et sa sœur aînée **Madeleine Calmels-Vincens** la basilique romane **Saint-Sernin** et ses cryptes (voisines de l'ancien domicile familial des Combes rue du Taur), puis parcourt les grands magasins du Capitole et la **Maison Universelle** fondée par **Antoine Labit** (1832–1912, père du voyageur et collectionneur Georges Labit).
 
@@ -6241,7 +6245,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ## Folio 67 verso — Janvier 1917
 - **Titre** : Visite à Mme de Labarthe et conférence d'Ernest Zyromski sur Maurice de Guérin
 - **Date** : 30 janvier 1917
-- **Lieu** : Toulouse (Faculté des Lettres, Sainte-Marie)
+- **Lieu** : Toulouse (Sainte-Marie ; lieu de la conférence non précisé)
 
 ```text
  1 | Mardi 30.          Janvier 1917 —
@@ -6282,9 +6286,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Mme de Labarthe*) cf. supra fo 28 ro, fo 30 vo, infra fo 68 vo, fo 69 ro, *et passim*. — **8** (*Ste-Marie*) cf. supra fo 27 vo, fo 67 ro, infra fo 68 ro, fo 68 vo, *et passim*. — **10** (*Zyromski*) cf. supra fo 26 vo.*
+***6** (*Mme de Labarthe*) cf. supra fo 30 vo, l. 8 (*Mme de Labarthe*); infra fo 68 vo, l. 4 (*Mme de Labarthe*). — **8** (*Ste-Marie*) cf. supra fo 67 ro, l. 9 (*Ste-Marie*); infra fo 68 ro, l. 11 (*Ste-Marie*). — **10** (*Zyromski*) cf. supra fo 26 vo, l. 15 (*Zyromski*).*
 
-> Journée toulousaine du 30 janvier 1917 : après une visite matinale à **Mme de Labarthe** et l'achat chez l'horloger-bijoutier **Pfister** (10, rue Gambetta, près de la place Esquirol et de la rue d'Alsace-Lorraine) d'une montre-bracelet en or (200~fr.) et de deux bagues, Hippolyte Combes assiste à 17~h avec Marguerite et Madeleine Calmels au cours public d'**Ernest Zyromski** (1862–1933) à la Faculté des lettres de Toulouse, consacré à **Maurice de Guérin** (1810–1839) et à l'influence de la Bretagne et de Lamennais (étude publiée dans *Maurice de Guérin*, Armand Colin, 1921).
+> Le 30 janvier 1917, après une visite à **Mme de Labarthe**, Combes assiste à une conférence de **Zyromski** sur **Maurice de Guérin**, la Bretagne et Lamennais, qu'il apprécie vivement. L'identification à **Ernest Zyromski** est soutenue par l'achat de *L'Orgueil humain* à la vue 053 et par la notice BnF de son *Maurice de Guérin* (A.~Colin, 1921). La page ne mentionne ni achat de montre ou de bagues, ni heure de 17~h, ni Faculté des lettres ; elle ne prouve pas que cette conférence soit reprise dans le livre de 1921.
 
 ---
 
@@ -6334,9 +6338,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~10 :** À la fin du récit de la halte à son appartement toulousain avec Marguerite, Hippolyte Combes a surchargé un mot demeuré incertain dans la proposition *Évité troubler qq [mot non établi] précieuses*.
 
-***4** (*Mte*) cf. supra fo 1 ro, fo 67 vo, infra fo 68 vo, fo 69 ro, *et passim*, Appendicem I, doc. 5. — **11** (*Ste-Marie*) cf. supra fo 27 vo, fo 67 vo, infra fo 68 vo, fo 69 ro, *et passim*. — **21** (*Spagnol*) cf. infra fo 79 ro.*
+***4** (*Mte*) cf. supra fo 67 vo, l. 15 (*Margte*); infra fo 68 vo, l. 6 (*Mte*). — **11** (*Ste-Marie*) cf. supra fo 67 vo, l. 8 (*Ste-Marie*); infra fo 68 vo, l. 7 (*Ste-Marie*). — **21** (*Spagnol*) cf. infra fo 79 ro, l. 12 (*Spagnol*).*
 
-> Promenade à **Toulouse** avec Marguerite Calmels le 31 janvier 1917 par le marché Victor-Hugo, la cour Renaissance de l'**Hôtel d'Assézat** (édifié à partir de 1555 sur les plans de Nicolas Bachelier), et les églises **Notre-Dame de la Daurade** et **Notre-Dame de la Dalbade** (dont le cousin Jean Crouzet deviendra curé), suivie au matin du 1er février d'une marche vers **Lardenne** et les ruines de l'amphithéâtre gallo-romain de **Purpan-Ancely** (Ier~s. apr. J.-C.).
+> Promenade à **Toulouse** avec Marguerite Calmels le 31 janvier 1917 par le marché Victor-Hugo, la cour Renaissance de l'**Hôtel d'Assézat** (édifié à partir de 1555 sur les plans de Nicolas Bachelier), et les églises **Notre-Dame de la Daurade** et **Notre-Dame de la Dalbade** (dont le cousin Jean Crouzet deviendra curé). Le télégramme à Mme Spagnol, Nice, peut être rapproché des démarches relatives au panier de fleurs des vues 134 et 137, sans établir son objet exact.
 
 ---
 
@@ -6384,9 +6388,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Mme de Labarthe*) cf. supra fo 28 ro, fo 67 vo, infra fo 69 ro, *et passim*. — **6** (*Mte*) cf. supra fo 1 ro, fo 68 ro, infra fo 69 ro, fo 69 vo, *et passim*. — **7** (*Ste-Marie*) cf. supra fo 27 vo, fo 68 ro, infra fo 69 ro, fo 69 vo, *et passim*.*
+***4** (*Mme de Labarthe*) cf. supra fo 67 vo, l. 6 (*Mme de Labarthe*); infra fo 69 ro, l. 7 (*Mme de Labarthe*). — **6** (*Mte*) cf. supra fo 68 ro, l. 4 (*Mte*); infra fo 69 ro, l. 8 (*Margte*). — **7** (*Ste-Marie*) cf. supra fo 68 ro, l. 11 (*Ste-Marie*); infra fo 69 ro, l. 9 (*Ste-Marie*).*
 
-> Le jeudi 1er février 1917 à Toulouse, après avoir salué **Mme de Labarthe** et ses voisines d'appartement les **dames Delsol**, Hippolyte Combes descend en ville avec **Henriette**, se recueille à la chapelle **Notre-Dame-de-Nazareth** en mémoire de ses parents et sœurs défunts et choisit chez l'horloger-bijoutier **Pfister** une montre en or pour Marguerite Calmels, avant de noter le soir, rue de Languedoc, son détachement définitif à l'égard de Toulouse.
+> Le jeudi 1er février 1917 à Toulouse, après avoir salué **Mme de Labarthe** et ses voisines d'appartement les **dames Delsol**, Hippolyte Combes descend en ville avec **Henriette**, se recueille à la chapelle **Notre-Dame-de-Nazareth** (le carnet écrit revu toute ma famille, sans identifier ici une commémoration des défunts) et choisit chez l'horloger-bijoutier **Pfister** une montre en or, sans destinataire nommé, avant de noter le soir, rue de Languedoc, son détachement à l'égard de Toulouse.
 
 ---
 
@@ -6432,9 +6436,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Mme de Labarthe*) cf. supra fo 28 ro, fo 68 vo, *et passim*. — **8** (*Margte*) cf. supra fo 1 ro, fo 68 vo, infra fo 69 vo, fo 70 ro, *et passim*. — **9** (*Ste-Marie*) cf. supra fo 27 vo, fo 68 vo, infra fo 69 vo, *et passim*.*
+***7** (*Mme de Labarthe*) cf. supra fo 67 vo, l. 6 (*Mme de Labarthe*); fo 68 vo, l. 4 (*Mme de Labarthe*). — **8** (*Margte*) cf. supra fo 68 vo, l. 6 (*Mte*); infra fo 69 vo, l. 5 (*Margte*). — **9** (*Ste-Marie*) cf. supra fo 68 vo, l. 7 (*Ste-Marie*); infra fo 69 vo, l. 6 (*Ste-Marie*).*
 
-> Dernière journée à Toulouse (vendredi 2 février 1917) : soins dentaires rue La Fayette chez le chirurgien-dentiste **M.~de Lersay**, visite d'adieu à **Mme de Labarthe** et à **Henriette**, et règlement chez l'horloger-bijoutier **Pfister** de la montre à remontoir en or mat de style Louis~XVI (105~fr.) destinée à être suspendue au sautoir en or offert à Marguerite Calmels lors de leurs fiançailles.
+> Dernière journée à Toulouse (vendredi 2 février 1917) : soins dentaires rue La Fayette chez le chirurgien-dentiste **M.~de Lersay**, visite d'adieu à **Mme de Labarthe** et à **Henriette**, et règlement chez l'horloger-bijoutier **Pfister** de la montre à remontoir en or mat de style Louis~XVI (105~fr.) avec un anneau pour attacher le pendentif au sautoir. Le rapprochement avec le sautoir acheté à la vue 056 est possible, sans destinataire ni identité de l'objet explicités.
 
 ---
 
@@ -6481,7 +6485,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Margte*) cf. supra fo 1 ro, fo 69 ro, infra fo 70 ro, fo 70 vo, *et passim*, Appendicem I, doc. 5. — **6** (*Ste-Marie*) cf. supra fo 27 vo, fo 69 ro, *et passim*. — **7** (*Oncle*) cf. supra fo 27 ro, fo 66 vo, *et passim*.*
+***5** (*Margte*) cf. supra fo 69 ro, l. 8 (*Margte*); infra fo 70 ro, l. 6 (*Margte*). — **6** (*Ste-Marie*) cf. supra fo 68 vo, l. 7 (*Ste-Marie*); fo 69 ro, l. 9 (*Ste-Marie*). — **9** (*Jean*) similitudo lectionis cf. supra fo 29 vo, l. 17 (*Jean*); fo 66 vo, l. 8 (*Jean*).*
 
 > Voyage ferroviaire du samedi 3 février 1917 de **Toulouse** à **Millau** en compagnie de Marguerite Calmels : salut en gare de Carcassonne au cousin l'**abbé Jean Crouzet**, halte à **Béziers** avec visite de l'ancienne cathédrale gothique **Saint-Nazaire** et de sa terrasse dominant l'Orb, puis arrivée nocturne en gare de Millau où les attend **Pierre Calmels**, frère de Marguerite.
 
@@ -6517,9 +6521,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--10 :** Page entièrement consacrée au relevé comptable des dépenses toulousaines et ferroviaires du samedi 3 février 1917 (dentiste M.~de Lersay, broche, étrennes à Marie, billets et buffet de Bédarieux), chaque poste étant introduit par un tiret cadratin.
 
-***5** (*Toulouse*) cf. supra in tegumento, fo 69 vo, infra fo 78 ro, *et passim*, Appendicem I, doc. 1 et 3. — **6** (*Margte*) cf. supra fo 1 ro, fo 69 vo, infra fo 70 vo, fo 71 ro, *et passim*. — **9** (*Millau*) cf. supra in tegumento, fo 69 vo, infra fo 70 vo, fo 71 ro, *et passim*.*
+***5** (*Toulouse*) cf. supra fo 68 vo, l. 16 (*Toulouse*); infra fo 78 ro, l. 19 (*Toulouse*). — **6** (*Margte*) cf. supra fo 69 vo, l. 5 (*Margte*); infra fo 70 vo, l. 19 (*Margte*). — **9** (*Millau*) cf. supra fo 69 ro, l. 17 (*Millau*); fo 69 vo, l. 16 (*Millau*).*
 
-> Relevé comptable de la journée de voyage du samedi 3 février 1917 : honoraires réduits du chirurgien-dentiste toulousain **M.~de Lersay** (25~fr. au lieu de 40~fr.), étrennes de 5~fr. à la domestique **Marie** à Toulouse, billet militaire au quart de tarif de Béziers à Millau (1~fr.~80 sur le réseau du Midi) et dîner des voyageurs au buffet de la gare de bifurcation de **Bédarieux** (Hérault, 7~fr.).
+> Relevé comptable de la journée de voyage du samedi 3 février 1917 : honoraires réduits du chirurgien-dentiste toulousain **M.~de Lersay** (25~fr. au lieu de 40~fr.), étrennes de 5~fr. à **Marie**, dont la fonction n'est pas précisée ici à Toulouse, billet noté à demi-place de Béziers à Millau (1~fr.~80 sur le réseau du Midi) et dépense au buffet de la gare de bifurcation de **Bédarieux** (Hérault, 7~fr.).
 
 ---
 
@@ -6563,7 +6567,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***15** (*Germaine*) cf. supra fo 65 vo, infra fo 71 vo. — **19** (*Margte*) cf. supra fo 1 ro, fo 70 ro, infra fo 71 ro, fo 71 vo, *et passim*.*
+***19** (*Margte*) cf. supra fo 70 ro, l. 6 (*Margte*); infra fo 71 ro, l. 3 (*Mte*).*
 
 > Première nuit d'Hippolyte Combes dans la demeure des Calmels au **10, rue Alfred-Guibert à Millau** (nuit du 3 au 4 février 1917) : le retour dans son « vallon natal » réveille le souvenir poignant de son père **François Augustin Hippolyte Combes** (avocat, 1825–1899), de sa mère **Marie Anaïs Alric** (1838–1907) et de ses sœurs défuntes **Maria** (1875–1903) et **Joséphine Combes** (1873–1914), tandis que dans la chambre voisine tousse la petite **Germaine Vincens** (fille du Dr~Fernand Vincens et de Madeleine Calmels).
 
@@ -6603,7 +6607,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Mte*) cf. supra fo 1 ro, fo 70 vo, infra fo 71 vo, *et passim*, Appendicem I, doc. 5.*
+***3** (*Mte*) cf. supra fo 70 vo, l. 19 (*Margte*); infra fo 71 vo, l. 4 (*Mte*).*
 
 > **Thérèse Cartairade** et son époux **Me**~Charles Layrals, notaire à Millau (parents du notaire Louis Layrals, \dag~1961, et du magistrat Jean Layrals, \dag~1947), auxquels Hippolyte Combes et Marguerite Calmels rendent visite le dimanche 4 février 1917 à 18~h~15, sont la tante et l'oncle maternels de Marguerite. **« Mimi »**, arrivée par le train de 18~h, est le surnom familial d'**Anne-Marie Calmels** (1888–1975), sœur de Marguerite et future épouse de l'avoué millavois **Joseph Delcamps**.
 
@@ -6641,13 +6645,13 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 9* : **9** **s.** *soir*.
 - *l. 12* : **12** **2e cl.** *deuxième classe*.
 - *l. 14* : **14** **ttes** *toutes*.
-- *l. 16* : **16** **s.** abréviation horaire (soir) employée ici après minuit 30.
+- *l. 16* : **16** **s.** signe transcrit s. ; soir proposé malgré la mention minuit 30.
 - *l. 17* : **17** **[ — Remboursé** Début d’un bloc de comptes placé au pied de la page, séparé du récit par un trait horizontal et réuni par un crochet à gauche ; **Mte** *Marguerite*.
 - *l. 18* : **18** **Gift** *angl.* Gratification ou pourboire ; **Mte** *Marguerite*.
 
 * * *
 
-***4** (*Mte*) cf. supra fo 1 ro, fo 71 ro, *et passim*, Appendicem I, doc. 5. — **10** (*Pierre*) cf. supra fo 69 vo. — **17** (*Vincens*) cf. supra fo 65 vo, fo 70 vo.*
+***4** (*Mte*) cf. supra fo 70 vo, l. 19 (*Margte*); fo 71 ro, l. 3 (*Mte*). — **10** (*Pierre*) similitudo lectionis cf. supra fo 69 vo, l. 17 (*Pierre*).*
 
 > Le lundi 5 février 1917 après-midi, Hippolyte Combes et Marguerite Calmels se recueillent au **cimetière de Millau** (où repose notamment François Augustin Hippolyte Combes, mort à Millau le 11 août 1899). Après avoir remboursé 6~fr. de cadeaux pour ses neveux par alliance **Germaine et Robert Vincens** et pris congé de **Pierre Calmels** en gare de Millau, Hippolyte Combes remonte par la ligne des Causses enneigée jusqu'à **Saint-Flour** (Cantal).
 
@@ -6689,7 +6693,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***8** (*Brioude*) cf. infra fo 72 vo.*
+***8** (*Brioude*) cf. infra fo 72 vo, l. 16 (*Brioude*).*
 
 > Voyage de retour de Millau vers Paris à travers le Massif central enneigé le mardi 6 février 1917: après une nuit glaciale d'attente en gare de **Saint-Flour**, Hippolyte Combes gagne par Neussargues et Arvant la gare de **Brioude** (Haute-Loire, 7~h~30), où il rejoint à 8~h~30 la grande ligne du **P.-L.-M.** (*Paris--Lyon--Méditerranée* par le Bourbonnais) et remonte vers Paris par **Clermont-Ferrand** (10~h), **Gannat** (11~h), **Gien** (15~h~45) et **Montargis** (16~h~20).
 
@@ -6726,7 +6730,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Paris*) cf. supra in tegumento, fo 66 ro, infra fo 74 ro, *et passim*, Appendicem I, doc. 5. — **16** (*Brioude*) cf. supra fo 72 ro.*
+***2** (*Paris*) cf. supra fo 66 ro, l. 2 (*Paris*); infra fo 74 ro, l. 7 (*Paris*). — **16** (*Brioude*) cf. supra fo 72 ro, l. 8 (*Brioude*).*
 
 > Suite de la journée du mardi 6 février 1917: arrivé par Corbeil-Essonnes à **Paris-Gare de Lyon** vers 18~h~30, Hippolyte Combes effectue en moins de trois quarts d'heure la correspondance par le métropolitain (ligne~1 jusqu'à **Bastille**, puis ligne~5 jusqu'à la **Gare du Nord**) pour monter dans le train militaire de 19~h~19 à destination d'Amiens.
 
@@ -6772,7 +6776,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Amiens*) cf. supra fo 25 vo, fo 72 vo, infra fo 74 ro, fo 76 vo, *et passim*. — **6** (*Y.M.C.A.*) cf. supra fo 50 ro, fo 65 ro, infra fo 74 ro, *et passim*. — **9** (*Doullens*) cf. supra fo 25 vo, fo 64 ro, infra fo 76 ro, fo 79 ro, *et passim*.*
+***5** (*Amiens*) cf. supra fo 65 ro, l. 3 (*Amiens*); infra fo 74 ro, l. 8 (*Amiens*). — **6** (*Y.M.C.A.*) cf. supra fo 65 ro, l. 8 (*Y.M.C.A.*); infra fo 74 ro, l. 8 (*Y.M.C.A.*). — **9** (*Doullens*) cf. supra fo 64 ro, l. 23 (*Doullens*); infra fo 76 ro, l. 4 (*Doullens*).*
 
 > Après une halte nocturne en gare d'**Amiens** (foyer de la Y.M.C.A. et salle d'attente de minuit 30 à 6~h~07), le train omnibus remontant vers Doullens et Acheux est survolé en gare de **Louvencourt** (Somme) par deux avions allemands de reconnaissance (*taubes*) encadrés par les flocons blancs des obus fusants de la défense contre avions britannique. Arrivé à **Acheux** à 13~h~30, Hippolyte Combes est reçu à déjeuner par ses logeurs du no~1 route de Léalvillers, le tailleur **M.~Carluvant** et son épouse.
 
@@ -6821,7 +6825,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--21 :** Deuxième des trois feuillets consacrés à la seule journée du mercredi 7 février 1917 (*Merc. 7 (suite)*), relatant le retour de permission à Acheux et le transfert immédiat en automobile vers Hérissart.
 
-***4** (*Acheux*) cf. supra fo 21 vo, fo 73 ro, infra fo 74 ro, fo 74 vo, *et passim*. — **4** (*Williams*) cf. supra fo 52 vo, fo 58 vo, infra fo 78 vo, fo 80 ro, *et passim*. — **5** (*Hérissart*) cf. supra fo 47 vo, fo 62 ro, infra fo 74 ro, fo 74 vo, *et passim*.*
+***4** (*Williams*) cf. supra fo 58 vo, l. 8 (*Williams*); infra fo 78 vo, l. 10 (*Williams*). — **4** (*Acheux*) cf. supra fo 73 ro, l. 18 (*Acheux*); infra fo 74 ro, l. 9 (*Acheux*). — **5** (*Hérissart*) cf. supra fo 62 ro, l. 8 (*Hérissart*); infra fo 76 vo, l. 11 (*Hérissart*).*
 
 > Le mercredi 7 février 1917 après-midi, rentrant de permission à Acheux où il déjeune une dernière fois chez ses logeurs **M. et Mme Carluvant**, Hippolyte Combes apprend par la postière **Mme Delille** et par un pli laissé à la Mission française que le bureau des fourrages du **capitaine Williams** est transféré à **Hérissart** (Somme), où le *Town Major* lui attribue le logement (*billet*) **no**~7b au premier étage du **café Charlet**, face à l'église Saint-Martin.
 
@@ -6869,7 +6873,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--19 :** Troisième et dernier feuillet de la journée du 7 février 1917 (*Merc. 7 (fin)*, l.~1--11, clos par un bloc comptable récapitulatif aux l.~7--11), suivi de l'entrée du jeudi 8 février (l.~12--19).
 
-***7** (*Paris*) cf. supra in tegumento, fo 72 vo, *et passim*, Appendicem I, doc. 5. — **8** (*Amiens*) cf. supra fo 25 vo, fo 73 ro, infra fo 76 vo, fo 85 vo, *et passim*. — **8** (*Y.M.C.A.*) cf. supra fo 50 ro, fo 73 ro, *et passim*.*
+***7** (*Paris*) cf. supra fo 66 ro, l. 2 (*Paris*); fo 72 vo, l. 2 (*Paris*). — **8** (*Amiens*) cf. supra fo 73 ro, l. 5 (*Amiens*); infra fo 76 vo, l. 21 (*Amiens*). — **8** (*Y.M.C.A.*) cf. supra fo 65 ro, l. 8 (*Y.M.C.A.*); fo 73 ro, l. 6 (*Y.M.C.A.*).*
 
 > Fin des comptes du mercredi 7 février 1917 et journée d'installation du jeudi 8 février à **Hérissart**, où le bureau et le *mess* du service des fourrages occupent le billet **no**~104 ; avant de quitter Acheux, Hippolyte Combes y a perçu sa quinzaine de 78~fr.~75 à la Mission française et laissé 5~fr. de gratification chez ses hôtes **M. et Mme Carluvant**.
 
@@ -6910,14 +6914,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Rubempré*) cf. supra fo 47 vo, fo 62 ro, infra fo 80 vo, fo 81 ro, *et passim*. — **7** (*Acheux*) cf. supra fo 21 vo, fo 74 ro, infra fo 75 vo, fo 77 ro, *et passim*.*
+***4** (*Rubempré*) cf. supra fo 62 ro, l. 5 (*Rubempré*); infra fo 80 vo, l. 3 (*Rubempré*). — **7** (*Acheux*) cf. supra fo 74 ro, l. 9 (*Acheux*); infra fo 75 vo, l. 14 (*Acheux*).*
 
 > Première reconnaissance pédestre le jeudi 8 février 1917 autour de son nouveau cantonnement d'**Hérissart** jusqu'au village voisin de **Rubempré** (Somme, à 3~km au sud), à travers les croupes crayeuses couronnées de moulins à vent de l'Amiénois, par un gel intense qui interdit d'écrire dans sa chambre sans feu le 9 février au matin.
 
 ---
 
 ## Folio 75 recto — Février 1917
-- **Titre** : Visite à la Mission de Toutencourt et course au bois d'Aveluy et Martinsart
+- **Titre** : Visite à la Mission de Toutencourt et course à Martinsart
 - **Date** : 9 (suite) – 10 février 1917 (matin)
 - **Lieu** : Hérissart, Toutencourt, Martinsart (Somme)
 
@@ -6957,9 +6961,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Lt Croughton*) cf. supra fo 54 vo. — **3** (*Toutencourt*) cf. supra fo 49 vo, fo 62 ro, infra fo 76 ro, fo 77 ro, *et passim*. — **9** (*paille & foin*) cf. supra fo 3 ro, fo 36 vo, infra fo 77 vo, fo 78 vo, *et passim*.*
+***2** (*Croughton*) similitudo lectionis, incertitudo nominis cf. supra fo 54 vo, l. 6 (*Croughton*). — **3** (*Toutencourt*) cf. supra fo 62 ro, l. 8 (*Toutencourt*); infra fo 76 ro, l. 3 (*Toutencourt*). — **16** (*Martinsart*) cf. supra fo 58 vo, l. 6 (*Martinsart*); infra fo 79 vo, l. 18 (*Martinsart*).*
 
-> Conduit le 9 février 1917 par le **lieutenant Croughton** au bureau de la Mission militaire française de la **Ve** Armée britannique (*Fifth Army*) à **Toutencourt**, Hippolyte Combes apprend qu'il relève désormais administrativement de la Mission d'armée, avec paiement de la solde à dates fixes les **3 et 18 de chaque mois**. Le lendemain, après un passage aux lignes du parc automobile (*Motor Transport*, *M.T. A.S.C.*), il se rend en tournée au château de **Martinsart**.
+> Conduit le 9 février 1917 par le **lieutenant Croughton [?]** au bureau de la Mission militaire française de la **Ve** Armée britannique (*Fifth Army*) à **Toutencourt**, Hippolyte Combes apprend qu'il relève désormais administrativement de la Mission d'armée, avec paiement de la solde à dates fixes les **3 et 18 de chaque mois**. Le lendemain, après un passage aux lignes du parc automobile (*Motor Transport*, *M.T. A.S.C.*), il se rend en tournée au château de **Martinsart**.
 
 ---
 
@@ -7008,7 +7012,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*Aveluy*) cf. supra fo 41 ro, fo 75 ro. — **12** (*Senlis*) cf. supra fo 37 vo, fo 62 ro, infra fo 79 vo, fo 84 vo, *et passim*. — **14** (*Acheux*) cf. supra fo 21 vo, fo 74 vo, infra fo 77 ro, fo 84 ro, *et passim*.*
+***2** (*Aveluy*) cf. supra fo 41 ro, l. 6 (*Aveluy*). — **12** (*Senlis*) cf. supra fo 62 ro, l. 5 (*Senlis*); infra fo 79 vo, l. 18 (*Senlis*). — **14** (*Acheux*) cf. supra fo 74 vo, l. 7 (*Acheux*); infra fo 77 ro, l. 16 (*Acheux*).*
 
 > Sur la route d'**Aveluy** (au nord d'Albert) le samedi 10 février 1917, Hippolyte Combes rend visite à son ancienne compagnie (***152nd Company A.S.C.*** du *18th Divisional Train*), campée à proximité des pièces britanniques de marine à longue portée (*naval guns*) camouflées sous des branchages : après avoir déjeuné avec le **lieutenant Bradfield** et salué au point de ravitaillement le **capitaine Lovet**, il s'arrête à **Senlis-le-Sec**, au bureau de la Mission française du **IIe** Corps britannique dirigé par le **capitaine de Casteljau**.
 
@@ -7048,7 +7052,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Toutencourt*) cf. supra fo 49 vo, fo 75 ro, infra fo 77 ro, fo 77 vo, *et passim*. — **4** (*Doullens*) cf. supra fo 25 vo, fo 73 ro, infra fo 79 ro, fo 81 vo, *et passim*. — **8** (*Auxi-le-Château*) cf. supra fo 62 ro, infra fo 79 ro.*
+***3** (*Toutencourt*) cf. supra fo 75 ro, l. 3 (*Toutencourt*); infra fo 77 ro, l. 18 (*Toutencourt*). — **4** (*Doullens*) cf. supra fo 73 ro, l. 9 (*Doullens*); infra fo 79 ro, l. 6 (*Doullens*). — **8** (*Auxi-le-Château*) cf. supra fo 62 ro, l. 15 (*Auxi-le-Château*); infra fo 79 ro, l. 5 (*Auxi-le-Château*).*
 
 > Longue tournée dominicale du 11 février 1917 par **Toutencourt** et **Doullens** jusqu'à **Auxi-le-Château** (Pas-de-Calais, dans la vallée de l'Authie), où Hippolyte Combes est reçu par un propriétaire terrien aisé, **M.~Romert**, qui lui sert un rhum millésimé de 1870 et du kirsch de la Forêt-Noire.
 
@@ -7057,7 +7061,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 ## Folio 76 verso — Février 1917
 - **Titre** : Visite de la minoterie de Méaulte et silhouettes des moulins d'Hérissart
 - **Date** : 12 février 1917
-- **Lieu** : Hérissart, Méaulte, Ville-sur-Ancre, Morlancourt, Ribemont (Somme)
+- **Lieu** : Hérissart, Méaulte, Ville-sur-Ancre, Treux, Méricourt, Ribemont (Somme)
 
 ```text
  1 | Lundi 12 —          Février 1917
@@ -7092,16 +7096,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Ribemont*) cf. supra fo 52 vo, infra fo 84 vo, fo 90 vo. — **11** (*Hérissart*) cf. supra fo 47 vo, fo 75 vo, infra fo 77 ro, fo 77 vo, *et passim*. — **21** (*Amiens*) cf. supra fo 25 vo, fo 74 ro, infra fo 85 vo, fo 91 ro, *et passim*.*
+***6** (*Ribemont*) cf. supra fo 52 vo, l. 6 (*Ribemont*); infra fo 84 vo, l. 8 (*Ribemont*). — **11** (*Hérissart*) cf. supra fo 73 vo, l. 5 (*Hérissart*); infra fo 78 ro, l. 22 (*Hérissart*). — **21** (*Amiens*) cf. supra fo 74 ro, l. 8 (*Amiens*); infra fo 85 vo, l. 22 (*Amiens*).*
 
 > Le lundi 12 février 1917, après l'inspection de la grande minoterie industrielle de **Méaulte** (au sud d'Albert sur l'Ancre), l'itinéraire de retour traverse **Ville-sur-Ancre**, **Treux**, **Méricourt-l'Abbé** et **Ribemont-sur-Ancre**: c'est dans ce secteur de la basse vallée de l'Ancre (entre Flesselles, Heilly, Ribemont et Morlancourt) qu'Hippolyte Combes avait vécu ses premiers mois de campagne avec la **18e** Division britannique d'août 1915 au printemps 1916.
 
 ---
 
 ## Folio 77 recto — Février 1917
-- **Titre** : Courses à Authie, Bus et Acheux : arabesques de givre et repas à l'Hôtel de Ville
+- **Titre** : Courses à Authie et Acheux : arabesques de givre et repas à l'Hôtel de Ville
 - **Date** : 13 – 14 février 1917
-- **Lieu** : Hérissart, Authie, Bus-lès-Artois, Gézaincourt, Acheux, Toutencourt (Somme)
+- **Lieu** : Hérissart, Authie, Puchevillers, Gouin [?], Acheux, Toutencourt (Somme)
 
 ```text
  1 | Mardi 13 —          Février 1917
@@ -7138,16 +7142,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Puchevillers*) cf. supra fo 37 vo, fo 73 vo, infra fo 77 vo, fo 79 ro, *et passim*. — **5** (*Authie*) cf. supra fo 50 ro, fo 61 ro, *et passim*. — **16** (*Acheux*) cf. supra fo 21 vo, fo 75 vo, infra fo 84 ro, fo 88 ro, *et passim*.*
+***5** (*Authie*) cf. supra fo 60 vo, l. 5 (*Authie*); fo 61 ro, l. 19 (*Authie*). — **5** (*Puchevillers*) cf. supra fo 73 vo, l. 15 (*Puchevillers*); infra fo 77 vo, l. 5 (*Puchevillers*). — **16** (*Acheux*) cf. supra fo 75 vo, l. 14 (*Acheux*); infra fo 84 ro, l. 22 (*Acheux*).*
 
 > Courses des 13 et 14 février 1917 vers **Puchevillers**, **Authie**, **Acheux-en-Amiénois** (où Hippolyte Combes déjeune comme client de passage au café de l'Hôtel de Ville) et **Toutencourt**, où il retourne à 18~h pour un rendez-vous de service avec **M.~Lefèvre**.
 
 ---
 
 ## Folio 77 verso — Février 1917
-- **Titre** : Visite à la mairie d'Hérissart et tournée au château de Beaucourt
+- **Titre** : Visite au maire d'Hérissart et tournée au château de Beaucourt
 - **Date** : 15 – 16 février 1917
-- **Lieu** : Hérissart, Toutencourt, Raincheval, Puchevillers, Beaucourt-en-Santerre / sur-l'Hallue (Somme)
+- **Lieu** : Hérissart, Toutencourt, Raincheval, Puchevillers, Beaucourt (commune à identifier ; Beaucourt-sur-l'Hallue proposé)
 
 ```text
  1 | Jeudi 15 —          Février 1917 —
@@ -7181,9 +7185,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Raincheval*) cf. supra fo 20 vo, fo 73 vo, infra fo 83 ro, fo 83 vo, *et passim*. — **4** (*Toutencourt*) cf. supra fo 49 vo, fo 77 ro, infra fo 78 ro, fo 79 vo, *et passim*. — **5** (*Puchevillers*) cf. supra fo 37 vo, fo 77 ro, infra fo 79 ro, fo 81 ro, *et passim*.*
+***4** (*Toutencourt*) cf. supra fo 77 ro, l. 18 (*Toutencourt*); infra fo 78 ro, l. 17 (*Toutencourt*). — **4** (*Raincheval*) cf. supra fo 73 vo, l. 14 (*Raincheval*); infra fo 83 ro, l. 10 (*Raincheval*). — **5** (*Puchevillers*) cf. supra fo 77 ro, l. 5 (*Puchevillers*); infra fo 79 ro, l. 9 (*Puchevillers*).*
 
-> Après une visite officielle en grande tenue au maire d'**Hérissart** le 15 février 1917, Hippolyte Combes parcourt le lendemain les fermes et le château de **Beaucourt-sur-l'Hallue** (Somme, canton de Villers-Bocage, à 7~km au sud d'Hérissart) pour l'achat de paille et de foin.
+> Après une visite officielle en grande tenue au maire d'**Hérissart** le 15 février 1917, Hippolyte Combes parcourt le lendemain les fermes et le château de **Beaucourt**, probablement Beaucourt-sur-l'Hallue (Somme, canton de Villers-Bocage, à 7~km au sud d'Hérissart) pour l'achat de paille et de foin.
 
 ---
 
@@ -7232,7 +7236,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***17** (*Toutencourt*) cf. supra fo 49 vo, fo 77 vo, infra fo 79 vo, fo 80 ro, *et passim*. — **19** (*Toulouse*) cf. supra in tegumento, fo 70 ro, *et passim*. — **22** (*Hérissart*) cf. supra fo 47 vo, fo 77 vo, infra fo 78 vo, fo 79 ro, *et passim*.*
+***17** (*Toutencourt*) cf. supra fo 77 vo, l. 4 (*Toutencourt*); infra fo 79 vo, l. 12 (*Toutencourt*). — **19** (*Toulouse*) cf. supra fo 68 vo, l. 16 (*Toulouse*); fo 70 ro, l. 5 (*Toulouse*). — **22** (*Hérissart*) cf. supra fo 76 vo, l. 11 (*Hérissart*); infra fo 78 vo, l. 25 (*Hérissart*).*
 
 > Le dimanche 18 février 1917, Hippolyte Combes se rend au bureau de la Mission française de la **Ve** Armée britannique (*Fifth Army*) à **Toutencourt**, où il perçoit 68~fr.~25 de solde (13 jours à 5~fr.~25), s'informe de l'existence éventuelle d'un détachement ou cantonnement britannique à **Toulouse** et assiste au prône dominical à l'église **Saint-Léger de Toutencourt**.
 
@@ -7287,9 +7291,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1 :** Exceptionnellement, Hippolyte Combes inscrit son solde disponible (*En caisse : 225 f. 95*) directement sur la première ligne d'en-tête entre la date soulignée (*19 Lundi*) et le mois (*Février 1917*).
 
-***10** (*Williams*) cf. supra fo 52 vo, fo 73 vo, infra fo 80 ro, fo 81 vo, *et passim*. — **15** (*Hair cut*) cf. supra fo 18 vo, fo 60 ro, infra fo 88 ro. — **21** (*Pierregot*) cf. supra fo 52 ro, infra fo 84 vo, fo 85 vo, *et passim*.*
+***10** (*Williams*) cf. supra fo 73 vo, l. 4 (*Williams*); infra fo 82 ro, l. 24 (*Wms*). — **21** (*Pierregot*) cf. supra fo 52 ro, l. 14 (*Pierregot*); infra fo 84 vo, l. 3 (*Pierregot*). — **25** (*Hérissart*) cf. supra fo 78 ro, l. 22 (*Hérissart*); infra fo 79 ro, l. 15 (*Hérissart*).*
 
-> Après une tournée dans la vallée de l'Hallue (**Fréchencourt** et **Bavelincourt**) le lundi 19 février 1917, le **capitaine Leonard** notifie une réorganisation des cantonnements qui oblige Hippolyte Combes à quitter sa chambre du no~7b (en réglant 2~fr. à la domestique **Albertine**) pour la pièce humide et glaciale du **no**~104 attenante au bureau ; le soir même, la propriétaire du no~104 étant tombée malade, il va quérir le curé d'Hérissart et le médecin militaire britannique (*Medical Officer*, *M.O.*).
+> Après une tournée dans la vallée de l'Hallue (**Fréchencourt** et **Bavelincourt**) le lundi 19 février 1917, le **capitaine Leonard** notifie une réorganisation des cantonnements qui oblige Hippolyte Combes à quitter sa chambre du no~7b (le compte distinct du 20 février porte 2~fr. à **Albertine** pour blanchissage et service de chambre) pour la pièce humide et glaciale du **no**~104 attenante au bureau ; le soir même, la propriétaire du no~104 étant tombée malade, il va quérir le curé d'Hérissart et le médecin militaire britannique (*Medical Officer*, *M.O.*).
 
 ---
 
@@ -7342,9 +7346,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Auxi-le-Château*) cf. supra fo 62 ro, fo 76 ro. — **6** (*Doullens*) cf. supra fo 25 vo, fo 76 ro, infra fo 81 vo, fo 89 vo, *et passim*. — **9** (*Puchevillers*) cf. supra fo 37 vo, fo 77 vo, infra fo 81 ro, fo 83 ro, *et passim*.*
+***5** (*Auxi-le-Château*) cf. supra fo 62 ro, l. 15 (*Auxi-le-Château*); fo 76 ro, l. 8 (*Auxi-le-Château*). — **6** (*Doullens*) cf. supra fo 76 ro, l. 4 (*Doullens*); infra fo 81 vo, l. 6 (*Doullens*). — **9** (*Puchevillers*) cf. supra fo 77 vo, l. 5 (*Puchevillers*); infra fo 81 ro, l. 5 (*Puchevillers*).*
 
-> Lors de sa halte du 21 février 1917 à **Doullens** au retour d'**Auxi-le-Château**, Hippolyte Combes expédie un mandat-poste de 42~francs à **Mme Spagnol** à **Nice** en règlement du panier de fleurs reçu en gare de Toulouse le 29 janvier pour Marguerite Calmels.
+> Lors de sa halte du 21 février 1917 à **Doullens** au retour d'**Auxi-le-Château**, Hippolyte Combes expédie un mandat-poste de 42~francs à **Mme Spagnol** à **Nice** probablement en rapport avec le panier de fleurs reçu en gare de Toulouse le 29 janvier pour Marguerite Calmels.
 
 ---
 
@@ -7396,7 +7400,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Contay*) cf. supra fo 49 ro, fo 50 vo, infra fo 80 vo, fo 83 vo, *et passim*. — **7** (*Mirvaux*) cf. infra fo 84 vo, fo 85 vo. — **12** (*Toutencourt*) cf. supra fo 49 vo, fo 78 ro, infra fo 80 ro, fo 80 vo, *et passim*.*
+***4** (*Contay*) similitudo lectionis, incertitudo nominis cf. supra fo 50 vo, l. 13 (*Contay*); infra fo 80 vo, l. 6 (*Contay*). — **7** (*Mirvaux*) cf. infra fo 84 vo, l. 3 (*Mirvaux*); fo 85 vo, l. 18 (*Mirvaux*). — **12** (*Toutencourt*) cf. supra fo 78 ro, l. 17 (*Toutencourt*); infra fo 80 ro, l. 7 (*Toutencourt*).*
 
 > Fin février 1917 autour d'**Hérissart** : après des promenades vers le moulin de la route de **Contay** et le village de **Mirvaux**, le capitaine Williams se rend seul le lundi 26 février dans le secteur avancé de **Senlis-le-Sec** et **Martinsart** (où les troupes britanniques suivent les premiers décrochages allemands dans la vallée de l'Ancre, 24–26 février 1917), laissant à Hippolyte Combes une journée de lecture et de correspondance.
 
@@ -7442,9 +7446,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Toutencourt*) cf. supra fo 49 vo, fo 79 vo, infra fo 80 vo, fo 81 ro, *et passim*. — **13** (*fourrage*) cf. supra fo 3 ro, fo 79 ro, infra fo 84 vo, fo 88 ro, *et passim*. — **16** (*Hérissart*) cf. supra fo 47 vo, fo 79 vo, infra fo 80 vo, fo 81 ro, *et passim*.*
+***7** (*Toutencourt*) cf. supra fo 79 vo, l. 12 (*Toutencourt*); infra fo 80 vo, l. 12 (*Toutencourt*). — **16** (*Hérissart*) cf. supra fo 79 ro, l. 15 (*Hérissart*); infra fo 81 ro, l. 9 (*Hérissart*).*
 
-> Les régiments de **cavalerie indienne** traversant **Hérissart** le 28 février 1917 appartiennent aux **4e** et 5\textsuperscript{e Divisions de cavalerie} (anciennes *1st* et *2nd Indian Cavalry Divisions* renommées en novembre 1916 au sein du *Cavalry Corps* de la B.E.F. ; Maj. A.~F. Becke, *Order of Battle*, Part~2A, p.~35–48).
+> Les régiments de **cavalerie indienne** traversant **Hérissart** le 28 février 1917 ne peuvent être attribués sur cette seule observation aux **4e** et 5\textsuperscript{e Divisions de cavalerie} (ces formations sont les anciennes *1st* et *2nd Indian Cavalry Divisions* renommées en novembre 1916 au sein du *Cavalry Corps* de la B.E.F. ; Maj. A.~F. Becke, *Order of Battle*, Part~2A, p.~35–48).
 
 ---
 
@@ -7484,7 +7488,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Rubempré*) cf. supra fo 47 vo, fo 74 vo, infra fo 81 ro, fo 86 ro, *et passim*. — **4** (*Montigny*) cf. supra fo 59 vo, fo 79 ro, infra fo 81 ro, fo 91 vo, *et passim*. — **6** (*Contay*) cf. supra fo 49 ro, fo 79 vo, infra fo 83 vo, fo 84 vo, *et passim*.*
+***3** (*Rubempré*) cf. supra fo 74 vo, l. 4 (*Rubempré*); infra fo 81 ro, l. 4 (*Rubempré*). — **4** (*Montigny*) cf. supra fo 79 ro, l. 25 (*Montigny*); infra fo 81 ro, l. 22 (*Montigny*). — **6** (*Contay*) cf. supra fo 79 vo, l. 4 (*Contay*); infra fo 83 vo, l. 11 (*Contay*).*
 
 > Les jeudi 1er et vendredi 2 mars 1917, les tournées d'achats mènent Hippolyte Combes au château de **Rubempré** puis dans la vallée de l'Hallue à **Fréchencourt** et **Montigny-sur-l'Hallue** (direction de **Pont-Noyelles**), où il s'entretient longuement avec le fils du maire **Paul Dubois** puis le lendemain avec le **docteur Dubois**.
 
@@ -7534,16 +7538,16 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 13* : **13** **Dim.** *dimanche*.
 - *l. 14* : **14** **ds** *dans*.
 - *l. 16* : **16** **Cap.** *capitaine*.
-- *l. 18* : **18** **Washing** *angl.* Blanchissage ; note comptable au crayon à droite de la fin du récit du dimanche ; **[ Washing : 60 c. ]** note tracée au crayon à droite.
+- *l. 18* : **18** **Washing** *angl.* Blanchissage ; note comptable au crayon à droite de la fin du récit du dimanche ; **[ Washing : 60 c. ]** note au crayon à droite ; aucun crochet autographe visible.
 - *l. 25* : **25** **off.** *officier, singulier : un officier australien* ; **en Cte [?]** Groupe de lecture incertaine avant interprète ; le développement de Cte n’est pas établi.
 - *l. 26* : **26** **ns** *nous* ; **Cap.** *capitaine*.
 - *l. 27* : **27** **mervt** *merveilleusement*.
 
 * * *
 
-***4** (*Rubempré*) cf. supra fo 47 vo, fo 80 vo, infra fo 86 ro, fo 86 vo, *et passim*. — **5** (*Puchevillers*) cf. supra fo 37 vo, fo 79 ro, infra fo 83 ro, fo 83 vo, *et passim*. — **7** (*Toutencourt*) cf. supra fo 49 vo, fo 80 vo, infra fo 81 vo, fo 82 ro, *et passim*.*
+***4** (*Rubempré*) cf. supra fo 80 vo, l. 3 (*Rubempré*); infra fo 86 ro, l. 17 (*Rubempré*). — **5** (*Puchevillers*) cf. supra fo 79 ro, l. 9 (*Puchevillers*); infra fo 83 ro, l. 18 (*Puchevillers*). — **7** (*Toutencourt*) cf. supra fo 80 vo, l. 12 (*Toutencourt*); infra fo 81 vo, l. 8 (*Toutencourt*).*
 
-> Le samedi 3 mars 1917, au bureau de la Mission de la Ve Armée à **Toutencourt**, Hippolyte Combes perçoit 43~fr.~75 net (quinzaine normale de 78~fr.~75 diminuée d'une retenue réglementaire de 35~fr., à raison de 5~fr. par jour, pour ses sept jours de permission de fin janvier–février) ; le lundi 5 mars, il apprend avec soulagement la relève prochaine du capitaine Williams par un officier australien de l'***I~Anzac Corps***.
+> Le samedi 3 mars 1917, au bureau de la Mission de la Ve Armée à **Toutencourt**, Hippolyte Combes perçoit 43~fr.~75 net (somme de 78~fr.~75 diminuée d'une retenue de 35~fr., à raison de 5~fr. par jour, pour ses sept jours de permission de fin janvier–février) ; le lundi 5 mars, il apprend avec soulagement la relève prochaine du capitaine Williams par un officier australien, sans rattachement d'unité donné ici.
 
 ---
 
@@ -7594,14 +7598,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Doullens*) cf. supra fo 25 vo, fo 79 ro, infra fo 89 vo, *et passim*. — **8** (*Toutencourt*) cf. supra fo 49 vo, fo 81 ro, infra fo 82 ro, fo 83 ro, *et passim*.*
+***6** (*Doullens*) cf. supra fo 79 ro, l. 6 (*Doullens*); infra fo 89 vo, l. 3 (*Doullens*). — **8** (*Toutencourt*) cf. supra fo 81 ro, l. 7 (*Toutencourt*); infra fo 82 ro, l. 11 (*Toutencourt*).*
 
-> À l'arrivée de l'officier australien et de son interprète **Valet** (de la *2nd Australian Division*) venus relever le poste d'Hérissart le mardi 6 mars 1917, Hippolyte Combes accompagne une dernière fois le capitaine Williams à **Doullens** (où il verse 50~c. à une quête pour les blessés d'un hôpital auxiliaire), puis se présente à 18~h au bureau de la Mission française de la Ve Armée à **Toutencourt**, auprès du **maréchal des logis Grauger** et du chef de mission, le **capitaine Raucoule**.
+> À l'arrivée de l'officier australien et d'un nouvel interprète, sans nom donné dans cette entrée, venus relever le poste d'Hérissart le mardi 6 mars 1917, Hippolyte Combes accompagne une dernière fois le capitaine Williams à **Doullens** (où il verse 50~c. à une quête pour les blessés d'un hôpital auxiliaire), puis se présente à 18~h au bureau de la Mission française de la Ve Armée à **Toutencourt**, auprès du **maréchal des logis Grauger** et du **capitaine Raucoule**.
 
 ---
 
 ## Folio 82 recto — Mars 1917
-- **Titre** : Tempête de neige de mars et départ de l'interprète Valet pour Albert
+- **Titre** : Tempête de neige de mars et départ de l'interprète Evar [?] pour Albert
 - **Date** : 8 – 9 mars 1917
 - **Lieu** : Hérissart, Toutencourt (Somme)
 
@@ -7638,10 +7642,10 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 8* : **8** **Evar[?]** Même nom réservé qu’à la ligne 6 ; **lorry** *angl.* Camion.
 - *l. 9* : **9** **kit** *angl.* Équipement ou paquetage personnel ; **extrt** *extrêmement*.
 - *l. 10* : **10** **fr.** *française*.
-- *l. 11* : **11** **logis...** points de suspension autographes tenant lieu de patronyme.
+- *l. 11* : **11** **logis...** points autographes après logis ; nom non fourni.
 - *l. 12* : **12** **av.** *avec* ; **cap.** *capitaine* ; **j'à** *jusqu’à*.
 - *l. 14* : **14** **walk** *angl.* Promenade ou marche.
-- *l. 15* : **15** **mervt** merveilleux ou merveilleusement (finale abrégée épaissie) ; **qq** *quelques*.
+- *l. 15* : **15** **mervt** merveilleux, probablement, qualifiant Temps ; finale x ou t incertaine ; **qq** *quelques*.
 - *l. 18* : **18** **ts** *tous*.
 - *l. 21* : **21** **office** *angl.* Bureau.
 - *l. 22* : **22** **tt** *tout*.
@@ -7651,7 +7655,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***7** (*Valet*) cf. infra fo 83 ro. — **8** (*Albert*) cf. supra fo 39 ro, fo 50 ro, infra fo 84 vo, fo 85 vo, *et passim*. — **11** (*Toutencourt*) cf. supra fo 49 vo, fo 81 vo, infra fo 83 ro, fo 83 vo, *et passim*.*
+***7** (*Valet*) cf. infra fo 83 ro, l. 21 (*Valet*). — **8** (*Albert*) cf. supra fo 50 ro, l. 20 (*Albert*); infra fo 84 vo, l. 4 (*Albert*). — **11** (*Toutencourt*) cf. supra fo 81 vo, l. 8 (*Toutencourt*); infra fo 83 ro, l. 8 (*Toutencourt*).*
 
 > L'interprète **Valet**, rencontré le 8 mars 1917 à Hérissart, est rattaché à la **2e** Division australienne (*2nd Australian Division*, unité de l'*I~Anzac Corps* alors engagée devant Bapaume). Le 9 mars au soir, Hippolyte Combes solde ses comptes de *mess* avec le **capitaine Williams** à la veille du départ de ce dernier.
 
@@ -7696,9 +7700,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--20 :** La page est entièrement occupée par la méditation du samedi 10 mars 1917 à Hérissart après le départ définitif du capitaine Williams (l.~8--9), sans aucune mention comptable au bas du feuillet.
 
-***8** (*Williams*) cf. supra fo 52 vo, fo 82 ro, *et passim*.*
+***8** (*Williams*) cf. supra fo 78 vo, l. 10 (*Williams*); fo 82 ro, l. 24 (*Wms*).*
 
-> Le samedi 10 mars 1917 à 10~h du matin s'achève le service d'Hippolyte Combes auprès du **capitaine Williams** (qui aura duré exactement trois mois et huit jours, du 2 décembre 1916 au 10 mars 1917). Resté vingt-quatre heures sans affectation à Hérissart avant de rejoindre le dépôt de la Mission française à Toutencourt, l'interprète fraternise avec les sous-officiers et soldats britanniques (*English*) du détachement.
+> Le samedi 10 mars 1917 à 10~h du matin s'achève le service d'Hippolyte Combes auprès du **capitaine Williams** (Williams était arrivé le 2 décembre, mais Curtis ne repart que le 6 : ces dates ne définissent pas une durée administrative exacte du service). Resté sans fonctions pendant la journée à Hérissart avant de rejoindre le dépôt de la Mission française à Toutencourt, l'interprète fraternise avec des Britanniques (*English*) du détachement.
 
 ---
 
@@ -7753,7 +7757,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***8** (*Toutencourt*) cf. supra fo 49 vo, fo 82 ro, infra fo 83 vo, fo 84 vo, *et passim*. — **10** (*Raincheval*) cf. supra fo 20 vo, fo 77 vo, infra fo 83 vo, fo 87 vo, *et passim*. — **13** (*Major Levy*) cf. supra fo 45 vo, fo 58 ro.*
+***8** (*Toutencourt*) cf. supra fo 82 ro, l. 11 (*Toutencourt*); infra fo 83 vo, l. 11 (*Toutencourt*). — **10** (*Raincheval*) cf. supra fo 77 vo, l. 4 (*Raincheval*); infra fo 83 vo, l. 16 (*Raincheval*). — **13** (*Levy*) cf. supra fo 55 ro, l. 11 (*Levy*); fo 58 ro, l. 20 (*Levy*).*
 
 > Le dimanche 11 mars 1917, au bureau de la Mission française de la Ve Armée à **Toutencourt**, Hippolyte Combes apprend que, sur la demande expresse du **major Levy**, il est maintenu à la commission d'achats de l'armée (***Army Purchase Board***) à **Hérissart**, où il s'installe dans le logement (*billet* no~220) laissé libre par l'interprète Valet.
 
@@ -7793,9 +7797,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Hérissart*) cf. supra fo 47 vo, fo 83 ro, infra fo 84 ro, fo 84 vo, *et passim*. — **11** (*Toutencourt*) cf. supra fo 49 vo, fo 83 ro, infra fo 84 vo, fo 85 ro, *et passim*. — **11** (*Contay*) cf. supra fo 49 ro, fo 80 vo, infra fo 84 vo, fo 85 vo, *et passim*.*
+***6** (*Hérissart*) cf. supra fo 82 ro, l. 12 (*Hérissart*); infra fo 84 ro, l. 6 (*Hérissart*). — **11** (*Toutencourt*) cf. supra fo 83 ro, l. 8 (*Toutencourt*); infra fo 84 vo, l. 14 (*Toutencourt*). — **11** (*Contay*) cf. supra fo 80 vo, l. 6 (*Contay*); infra fo 84 vo, l. 5 (*Contay*).*
 
-> Lors de la reprise des tournées de l'*Army Purchase Board* le lundi 12 mars 1917 (Toutencourt, Contay, Molliens-au-Bois, Puchevillers, Raincheval et **Candas**), la comparaison entre les deux automobiles militaires — l'ancienne **Vauxhall** d'état-major conduite par le chauffeur britannique **Jimmie** et la **Wolseley** conduite par un soldat australien — reflète le passage partiel des services de transport du secteur aux unités de l'***I~Anzac Corps***.
+> Lors de la reprise des tournées de l'*Army Purchase Board* le lundi 12 mars 1917 (Toutencourt, Contay, Molliens-au-Bois, Puchevillers, Raincheval et **Candas**), la comparaison entre les deux automobiles militaires — l'ancienne **Vauxhall** d'état-major conduite par le chauffeur britannique **Jimmie** et la **Wolseley** conduite par un soldat australien — établit les deux voitures et la nationalité australienne d'un chauffeur, sans démontrer un transfert organique des services à l'***I~Anzac Corps***.
 
 ---
 
@@ -7842,7 +7846,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Martinsart*) cf. supra fo 52 ro, fo 79 vo, *et passim*. — **6** (*Hérissart*) cf. supra fo 47 vo, fo 83 vo, infra fo 84 vo, fo 85 ro, *et passim*. — **16** (*Puchevillers*) cf. supra fo 37 vo, fo 83 vo, infra fo 84 vo, fo 85 ro, *et passim*.*
+***5** (*Martinsart*) cf. supra fo 75 ro, l. 16 (*Martinsart*); fo 79 vo, l. 18 (*Martinsart*). — **6** (*Hérissart*) cf. supra fo 83 vo, l. 6 (*Hérissart*); infra fo 84 vo, l. 11 (*Hérissart*). — **16** (*Puchevillers*) cf. supra fo 83 vo, l. 15 (*Puchevillers*); infra fo 84 vo, l. 15 (*Puchevillers*).*
 
 > Au **Mesnil-Martinsart** (Somme), Hippolyte Combes rend visite le 13 mars 1917 à son collègue de l'Instruction publique **Fortuné Flutre**, instituteur de la commune (auteur en 1899 d'une notice historique sur Le Mesnil-Martinsart), et à son épouse, parents du romaniste **Louis-Fernand Flutre** (1892–1978), admis à l'**École normale supérieure** en 1914 (entré en 1919 après la guerre, agrégé de grammaire en 1921, professeur à la Faculté des lettres de Lyon et auteur en 1955 de deux monographies historiques et linguistiques sur Le Mesnil-Martinsart ; R.~Debrie, *Revue de linguistique romane*, 42, 1978, p.~238–240).
 
@@ -7892,9 +7896,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Pierregot*) cf. supra fo 52 ro, fo 78 vo, infra fo 85 vo, fo 87 ro, *et passim*. — **3** (*Mirvaux*) cf. supra fo 79 vo, infra fo 85 vo, fo 91 vo. — **4** (*Albert*) cf. supra fo 39 ro, fo 82 ro, infra fo 85 vo, fo 90 vo, *et passim*.*
+***3** (*Mirvaux*) cf. supra fo 79 vo, l. 7 (*Mirvaux*); infra fo 85 vo, l. 18 (*Mirvaux*). — **3** (*Pierregot*) cf. supra fo 78 vo, l. 21 (*Pierregot*); infra fo 85 vo, l. 19 (*Pierregot*). — **4** (*Albert*) cf. supra fo 82 ro, l. 8 (*Albert*); infra fo 85 vo, l. 20 (*Albert*).*
 
-> Après avoir revu **Albert** (où cantonnent les troupes australiennes de l'*I~Anzac Corps*) et **Ribemont-sur-Ancre** le 16 mars 1917, Hippolyte Combes marche le samedi **17 mars 1917** jusqu'à Puchevillers avec son nouvel officier, le **lieutenant Wentworth**, tandis que des colonnes de **cavalerie indienne et britannique** (4e et 5e Divisions de cavalerie) traversent Hérissart au trot pour suivre le repli stratégique allemand sur la ligne Hindenburg (opération *Alberich*, prise de Bapaume le 17 mars).
+> Après avoir revu **Albert**, où sont cantonnées des troupes australiennes, et **Ribemont-sur-Ancre** le 16 mars 1917, Combes marche le samedi **17 mars** jusqu'à Puchevillers avec le **lieutenant Wentworth**. Des colonnes de **cavalerie indienne et britannique** traversent Hérissart au trot, sans numéros de divisions ni direction donnés. Le repli allemand vers la ligne Hindenburg (opération *Alberich*) et la prise de Bapaume le 17 mars fournissent un contexte, sans démontrer une mission de poursuite des cavaliers aperçus.
 
 ---
 
@@ -7947,7 +7951,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Toutencourt*) cf. supra fo 49 vo, fo 84 vo, infra fo 87 ro, fo 87 vo, *et passim*. — **8** (*Puchevillers*) cf. supra fo 37 vo, fo 84 vo, infra fo 85 vo, fo 86 ro, *et passim*. — **23** (*63rd Div*) cf. infra fo 85 vo.*
+***4** (*Toutencourt*) cf. supra fo 84 vo, l. 14 (*Toutencourt*); infra fo 87 ro, l. 19 (*Toutencourt*). — **8** (*Puchevillers*) cf. supra fo 84 vo, l. 15 (*Puchevillers*); infra fo 85 vo, l. 10 (*Puchevillers*). — **23** (*63rd Div*) cf. infra fo 85 vo, l. 2 (*63rd Div*).*
 
 > Dans la nuit du 19 au 20 mars 1917, Hippolyte Combes cède le lit de sa chambre d'Hérissart à un jeune lieutenant britannique de la **63e** Division (*63rd Royal Naval Division*), dont le bataillon vient d'être relevé des tranchées boueuses de **Miraumont** et d'**Achiet-le-Petit** au début du repli stratégique allemand sur la ligne Hindenburg (opération *Alberich*).
 
@@ -7995,7 +7999,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***2** (*63rd Div*) cf. supra fo 85 ro. — **10** (*Puchevillers*) cf. supra fo 37 vo, fo 85 ro, infra fo 86 ro, fo 86 vo, *et passim*. — **11** (*Arquèves*) cf. supra fo 47 vo, fo 61 ro, *et passim*.*
+***2** (*63rd Div*) cf. supra fo 85 ro, l. 23 (*63rd Div*). — **10** (*Puchevillers*) cf. supra fo 85 ro, l. 8 (*Puchevillers*); infra fo 86 ro, l. 18 (*Puchevillers*). — **11** (*Arquèves*) cf. supra fo 60 vo, l. 14 (*Arquèves*); fo 61 ro, l. 19 (*Arquèves*).*
 
 > En mars 1917, lors de la marche en avant suivant le repli allemand sur la ligne Hindenburg, le **17e** Lanciers britannique (*17th Duke of Cambridge's Own Lancers*, surnommé *Death or Glory Boys* d'après la devise de son insigne à tête de mort) formait l'unique régiment britannique de la *Sialkot Cavalry Brigade* au sein de la **4e** Division de cavalerie (ex-*1st Indian Cavalry Division*), aux côtés des lanciers indiens des *6th King Edward's Own Cavalry* et *19th Lancers (Fane's Horse)* (Maj. A.~F. Becke, *Order of Battle*, Part~2A, p.~35–40).
 
@@ -8045,9 +8049,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***17** (*Rubempré*) cf. supra fo 47 vo, fo 81 ro, infra fo 86 vo, fo 87 ro, *et passim*. — **18** (*Puchevillers*) cf. supra fo 37 vo, fo 85 vo, infra fo 86 vo, fo 87 ro, *et passim*.*
+***17** (*Rubempré*) cf. supra fo 81 ro, l. 4 (*Rubempré*); infra fo 86 vo, l. 12 (*Rubempré*). — **18** (*Puchevillers*) cf. supra fo 85 vo, l. 10 (*Puchevillers*); infra fo 86 vo, l. 13 (*Puchevillers*).*
 
-> Trois journées de fin mars 1917 (23–25 mars) à **Hérissart** : l'automobile du service étant en réparation aux ateliers (*workshops*), Hippolyte Combes obtient de conserver sa chambre d'étude du **billet no**~220 et effectue à pied ses courses vers **Rubempré** et **Puchevillers**.
+> Trois journées de fin mars 1917 (23–25 mars) à **Hérissart** : l'automobile du service étant en réparation aux ateliers (*workshops*), Hippolyte Combes fait des démarches pour conserver sa chambre d'étude du **billet no**~220 et effectue à pied ses courses vers **Rubempré** et **Puchevillers**.
 
 ---
 
@@ -8094,7 +8098,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***12** (*Rubempré*) cf. supra fo 47 vo, fo 86 ro, infra fo 87 ro, fo 87 vo, *et passim*. — **13** (*Puchevillers*) cf. supra fo 37 vo, fo 86 ro, infra fo 87 ro, fo 91 vo, *et passim*.*
+***12** (*Rubempré*) cf. supra fo 86 ro, l. 17 (*Rubempré*); infra fo 87 ro, l. 5 (*Rubempré*). — **13** (*Puchevillers*) cf. supra fo 86 ro, l. 18 (*Puchevillers*); infra fo 87 ro, l. 4 (*Puchevillers*).*
 
 > Après le passage à Hérissart de son camarade interprète **Monin** le lundi 26 mars 1917, toutes les unités cantonnées quittent le village dès l'aube du mardi **27 mars 1917** : à la suite du repli allemand sur la ligne Hindenburg et de la concentration des armées britanniques plus au nord pour l'offensive d'Arras, les villages de l'ancien arrière-front de l'Ancre (Hérissart, Acheux, Contay, Warloy, Toutencourt) se vident durablement de leurs troupes.
 
@@ -8143,7 +8147,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Puchevillers*) cf. supra fo 37 vo, fo 86 vo, infra fo 91 vo, fo 92 ro, *et passim*. — **5** (*Rubempré*) cf. supra fo 47 vo, fo 86 vo, infra fo 87 vo, fo 88 vo, *et passim*. — **14** (*Pierregot*) cf. supra fo 52 ro, fo 85 vo, infra fo 87 vo, fo 89 ro, *et passim*.*
+***4** (*Puchevillers*) cf. supra fo 86 vo, l. 13 (*Puchevillers*); infra fo 91 vo, l. 4 (*Puchevillers*). — **5** (*Rubempré*) cf. supra fo 86 vo, l. 12 (*Rubempré*); infra fo 87 vo, l. 19 (*Rubempré*). — **14** (*Pierregot*) cf. supra fo 85 vo, l. 19 (*Pierregot*); infra fo 87 vo, l. 6 (*Pierregot*).*
 
 > Du 29 au 31 mars 1917, tandis que les tournées d'achat de paille du *Purchase Board* rayonnent autour d'Hérissart jusqu'à **Pierregot**, **Molliens-au-Bois** et **Rainneville** (Somme, canton de Villers-Bocage, à 8~km au sud-ouest d'Hérissart), Hippolyte Combes savoure le silence et l'apaisement du village d'**Hérissart** désormais déserté par les troupes britanniques.
 
@@ -8190,7 +8194,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***5** (*Belle Église*) cf. supra fo 47 vo, fo 85 vo, infra fo 89 ro, fo 89 vo, *et passim*. — **6** (*Pierregot*) cf. supra fo 52 ro, fo 87 ro, infra fo 89 ro, fo 90 ro, *et passim*. — **18** (*Toutencourt*) cf. supra fo 49 vo, fo 87 ro, infra fo 88 ro, fo 88 vo, *et passim*.*
+***5** (*Belle Église*) cf. supra fo 85 vo, l. 11 (*Belle Église*); infra fo 89 ro, l. 14 (*Belle-Église*). — **6** (*Pierregot*) cf. supra fo 87 ro, l. 14 (*Pierregot*); infra fo 89 ro, l. 14 (*Pierregot*). — **18** (*Toutencourt*) cf. supra fo 87 ro, l. 19 (*Toutencourt*); infra fo 88 ro, l. 3 (*Toutencourt*).*
 
 > Le dimanche des Rameaux (**1er** avril 1917) et les 2–3 avril sont marqués par de fortes chutes de neige tardives sur les plateaux de la Somme ; après avoir arrêté le 1er avril sa quote-part des frais de *mess* de mars à 27~fr.~50, Hippolyte Combes se rend le mardi 3 avril à **Toutencourt** à l'étude de **Me**~Bienaimé, notaire de Toutencourt.
 
@@ -8234,14 +8238,14 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Toutencourt*) cf. supra fo 49 vo, fo 87 vo, infra fo 88 vo, fo 89 ro, *et passim*. — **5** (*fourrage*) cf. supra fo 3 ro, fo 84 vo, *et passim*. — **8** (*Hair cut*) cf. supra fo 18 vo, fo 78 vo.*
+***3** (*Toutencourt*) cf. supra fo 87 vo, l. 18 (*Toutencourt*); infra fo 88 vo, l. 3 (*Toutencourt*). — **11** (*Acheux*) cf. supra fo 84 ro, l. 22 (*Acheux*); infra fo 88 vo, l. 19 (*Acheux*). — **12** (*Contay*) cf. supra fo 85 vo, l. 12 (*Contay*); infra fo 88 vo, l. 19 (*Contay*).*
 
 > Après une tourmente de neige le mercredi 4 avril, le **Jeudi saint 5 avril 1917** offre une éclaircie printanière: traversant **Contay**, **Warloy-Baillon**, **Varennes-en-Croix** et **Acheux-en-Amiénois**, Hippolyte Combes constate l'abandon militaire complet de ces bourgs naguère fourmillants de troupes, puis assiste le soir au sermon de la Passion dans l'église Saint-Martin d'Hérissart.
 
 ---
 
 ## Folio 88 verso — Avril 1917
-- **Titre** : Vendredi Saint : solde au Q.G. de la Ve Armée à Toutencourt et causerie sur l'Australie
+- **Titre** : Vendredi Saint : paiement de la solde par un staff de la Mission de la Ve Armée et causerie sur l'Australie
 - **Date** : 6 – 7 avril 1917
 - **Lieu** : Hérissart, Toutencourt, Rubempré, Contay, Acheux, Léalvillers (Somme)
 
@@ -8274,28 +8278,28 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 1* : **1** **Vendr.** *vendredi*.
 - *l. 2* : **2** **breakfast** *angl.* Petit déjeuner.
-- *l. 3* : **3** **staff** *angl.* membre du personnel d’état-major.
+- *l. 3* : **3** **staff** *angl.* membre du personnel du bureau de la Mission française.
 - *l. 4* : **4** **fr.** *française* ; **Vth** *cinquième, ordinal mêlant chiffre romain et terminaison anglaise* ; **Army** *angl.* Armée ; **H.Q.** *Headquarters : quartier général*.
 - *l. 8* : **8** **H.Q.** *Headquarters : quartier général*.
 - *l. 10* : **10** **off.** *officier, singulier*.
 - *l. 14* : **14** **After dinner** *angl.* Après le dîner ; **lgt** *longtemps*.
-- *l. 15* : **15** **pamphlets** *angl.* brochures ou opuscules.
+- *l. 15* : **15** **pamphlets** *angl.* brochures ou opuscules ; emploi anglais possible.
 - *l. 16* : **16** **[ Solde** Compte sous le récit du vendredi, précédé d’un crochet autographe à gauche.
 - *l. 17* : **17** **Sam.** *samedi* ; **gr.** *grand, devant froid*.
 - *l. 22* : **22** **Gdes** *Grandes*.
 
 * * *
 
-***3** (*Toutencourt*) cf. supra fo 49 vo, fo 88 ro, infra fo 89 ro, fo 91 ro, *et passim*. — **9** (*Hérissart*) cf. supra fo 47 vo, fo 88 ro, infra fo 89 ro, fo 89 vo, *et passim*. — **10** (*Rubempré*) cf. supra fo 47 vo, fo 87 vo, infra fo 89 ro, fo 90 ro, *et passim*.*
+***3** (*Toutencourt*) cf. supra fo 88 ro, l. 3 (*Toutencourt*); infra fo 89 ro, l. 6 (*Toutencourt*). — **9** (*Hérissart*) cf. supra fo 88 ro, l. 15 (*Hérissart*); infra fo 91 ro, l. 22 (*Hérissart*). — **10** (*Rubempré*) cf. supra fo 87 vo, l. 19 (*Rubempré*); infra fo 89 ro, l. 7 (*Rubempré*).*
 
-> Le Vendredi saint **6 avril 1917**, Hippolyte Combes note que le quartier général de la **Ve** Armée britannique (*Fifth Army H.Q.* du général Sir Hubert Gough) et ses troupes ont quitté **Toutencourt** (l'état-major de la Ve Armée s'était en effet déplacé vers l'avant, à Albert, pour diriger les opérations devant la ligne Hindenburg et Bullecourt): un membre du personnel (*staff*) de la Mission française de la Ve Armée vient néanmoins à Toutencourt payer la quinzaine des interprètes (78~fr.~75).
+> Le Vendredi saint **6 avril 1917**, Hippolyte Combes note que le quartier général de la **Ve** Armée britannique (*Fifth Army H.Q.* du général Sir Hubert Gough) et ses troupes ont quitté **Toutencourt** (le nouvel emplacement de l'état-major et son objectif opérationnel ne sont pas donnés ici): un membre du personnel (*staff*) de la Mission française de la Ve Armée vient néanmoins à Toutencourt payer la solde des interprètes (78~fr.~75).
 
 ---
 
 ## Folio 89 recto — Avril 1917
-- **Titre** : Pâques 1917 à Hérissart et déclenchement de l'offensive d'Arras sous la neige
+- **Titre** : Pâques 1917 à Hérissart et retour du froid à l'époque de l'offensive d'Arras
 - **Date** : 8 – 10 avril 1917
-- **Lieu** : Hérissart, Toutencourt, Harponville, Rubempré, Pierregot, Belle-Église, Fréchencourt, Contay (Somme)
+- **Lieu** : Hérissart, Toutencourt, Harponville, Rubempré, Beauquesne, Pierregot, Belle-Église, Fréchencourt, Contay (Somme)
 
 ```text
  1 | Pâques — 8 —          Avril 1917
@@ -8330,9 +8334,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***6** (*Toutencourt*) cf. supra fo 49 vo, fo 88 vo, infra fo 91 ro, fo 91 vo, *et passim*. — **7** (*Rubempré*) cf. supra fo 47 vo, fo 88 vo, infra fo 90 ro, fo 90 vo, *et passim*. — **7** (*Harponville*) cf. supra fo 55 ro, infra fo 92 ro.*
+***6** (*Toutencourt*) cf. supra fo 88 vo, l. 3 (*Toutencourt*); infra fo 91 ro, l. 6 (*Toutencourt*). — **7** (*Harponville*) cf. supra fo 55 ro, l. 13 (*Harponville*); infra fo 92 ro, l. 10 (*Harponville*). — **7** (*Rubempré*) cf. supra fo 88 vo, l. 10 (*Rubempré*); infra fo 90 ro, l. 22 (*Rubempré*).*
 
-> Le dimanche de **Pâques 8 avril 1917**, après une visite matinale au notaire **Me**~Bienaimé à Toutencourt et une tournée à Harponville, Rubempré et Beauquesne, Hippolyte Combes passe pour la première fois la soirée à Hérissart chez la **famille Denis** (**Baptiste Denis** et les siens), dont le foyer amical deviendra son refuge régulier jusqu'à la fin d'avril.
+> Le dimanche de **Pâques 8 avril 1917**, après une visite matinale au notaire **Me**~Bienaimé à Toutencourt et une tournée à Harponville, Rubempré et Beauquesne, Hippolyte Combes rend visite à Hérissart à la **famille Denis** (le développement de Bte, écrit plus tard, en **Baptiste** reste proposé), dont le foyer amical deviendra son refuge régulier jusqu'à la fin d'avril.
 
 ---
 
@@ -8380,7 +8384,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Doullens*) cf. supra fo 25 vo, fo 81 vo, *et passim*. — **4** (*Warloy*) cf. supra fo 37 vo, fo 88 ro, infra fo 90 vo, fo 93 ro, *et passim*. — **10** (*canteen*) cf. supra fo 21 vo, fo 83 vo, *et passim*.*
+***3** (*Doullens*) cf. supra fo 79 ro, l. 6 (*Doullens*); fo 81 vo, l. 6 (*Doullens*). — **4** (*Warloy*) cf. supra fo 88 ro, l. 12 (*Warloy*); infra fo 90 vo, l. 9 (*Warloy*). — **10** (*canteen*) cf. supra fo 63 ro, l. 14 (*Canteen*); fo 83 vo, l. 17 (*Exp. F. Canteen*).*
 
 > Après la tempête de neige du 11 avril 1917 (jour de la première attaque anglo-australienne devant Bullecourt) et ses achats à **Doullens**, Hippolyte Combes noue le vendredi 13 avril une amitié intellectuelle avec le nouveau sous-lieutenant britannique du service des achats, le ***Second Lieutenant** Gilbert*, originaire de l'île anglo-normande de **Jersey**, francophone, cultivé et poète.
 
@@ -8425,7 +8429,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Pierregot*) cf. supra fo 52 ro, fo 89 ro, infra fo 91 ro, fo 91 vo, *et passim*. — **22** (*Rubempré*) cf. supra fo 47 vo, fo 89 ro, infra fo 90 vo, fo 92 ro, *et passim*.*
+***4** (*Pierregot*) cf. supra fo 89 ro, l. 14 (*Pierregot*); infra fo 91 ro, l. 19 (*Pierregot*). — **22** (*Rubempré*) cf. supra fo 89 ro, l. 7 (*Rubempré*); infra fo 90 vo, l. 16 (*Rubempré*).*
 
 > Les tournées des 14--17 avril 1917 se limitent aux villages proches d'Hérissart (**Pierregot**, **Fréchencourt**, **Rubempré**) sous les pluies torrentielles du lundi 16 avril (jour du déclenchement dans l'Aisne de l'offensive française du Chemin des Dames) et les giboulées de neige et de grêle du mardi 17 avril; le lundi soir, Hippolyte Combes veille chez ses amis d'Hérissart, la **famille Denis**.
 
@@ -8471,7 +8475,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***9** (*Warloy*) cf. supra fo 37 vo, fo 89 vo, infra fo 93 ro, *et passim*. — **9** (*Contay*) cf. supra fo 49 ro, fo 89 ro, infra fo 91 ro, fo 92 ro, *et passim*. — **12** (*Lt Gilbert*) cf. supra fo 89 vo, infra fo 92 vo, fo 93 ro.*
+***9** (*Warloy*) cf. supra fo 89 vo, l. 4 (*Warloy*); infra fo 93 ro, l. 5 (*Warloy*). — **9** (*Contay*) cf. supra fo 89 ro, l. 20 (*Contay*); infra fo 91 ro, l. 9 (*Contay*). — **12** (*Gilbert*) cf. supra fo 89 vo, l. 24 (*Gilbert*); infra fo 92 vo, l. 19 (*Gilbert*).*
 
 > Le jeudi 19 avril 1917, la tournée à **Bresle**, **Laviéville** et **Hénencourt** (Somme, à l'ouest d'Albert) fournit un repère autobiographique précieux : Hippolyte Combes n'était pas retourné dans ces trois villages depuis la **fin juillet 1915**, époque où la **18e** Division britannique, tout juste débarquée en France et rassemblée autour de Flesselles, venait prendre en charge le secteur d'Albert. Le lendemain 20 avril, son automobile embourbée (*stuck*) à **Buire-sur-l'Ancre** est dégagée par des soldats australiens avant une visite à la **famille Colart** à **Ribemont-sur-Ancre**.
 
@@ -8514,7 +8518,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 - *l. 5* : **5** **breakfast** *angl.* Petit déjeuner.
 - *l. 11* : **11** **[ A Toutencourt** Bloc comptable entre les récits du samedi et du dimanche, réuni par un grand crochet autographe à gauche.
-- *l. 12* : **12** **Bte** *Baptiste*.
+- *l. 12* : **12** **Bte** *Baptiste, probablement*.
 - *l. 13* : **13** **ds** *dans*.
 - *l. 14* : **14** **gde** *grande* ; **[avec ?]** préposition de lecture incertaine après carte ; **cathle** *cathédrale*.
 - *l. 19* : **19** **gd** *grand* ; **P.** *Pierregot, toponyme mentionné dans le parcours de la ligne précédente*.
@@ -8523,9 +8527,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Arras*) cf. supra fo 16 ro, fo 89 ro. — **6** (*Toutencourt*) cf. supra fo 49 vo, fo 89 ro, infra fo 91 vo, fo 93 ro, *et passim*. — **8** (*Albert*) cf. supra fo 39 ro, fo 90 vo, *et passim*.*
+***3** (*Arras*) cf. supra fo 16 ro, l. 7 (*Arras*); fo 59 ro, l. 6 (*Arras*). — **6** (*Toutencourt*) cf. supra fo 89 ro, l. 6 (*Toutencourt*); infra fo 91 vo, l. 3 (*Toutencourt*). — **8** (*Buire*) cf. supra fo 52 vo, l. 4 (*Buire*); fo 90 vo, l. 18 (*Buire*).*
 
-> La violente canonnade entendue les 21 et 22 avril 1917 au nord et au sud d'Arras correspond à la préparation d'artillerie britannique de la **seconde bataille de la Scarpe** (*Second Battle of the Scarpe*, déclenchée à l'aube du 23 avril 1917 sur la ligne Croisilles–Guémappe). Le guide rapporté d'Amiens par Baptiste Denis est l'ouvrage illustré d'**Alexis Martin**, *Une visite à Amiens* (Paris, Hennuyer, 1896).
+> Les 21 et 22 avril 1917, Combes localise une forte canonnade du côté d'**Arras**. Son rapprochement avec les préparatifs de la seconde bataille de la Scarpe, déclenchée le 23, reste une hypothèse de contexte. Le livre rapporté d'Amiens par **Bte Denis** est noté *A. Martin : Promenade ds Amiens* ; il peut être rapproché d'**Alexis Martin**, *Une visite à Amiens* (Hennuyer, 1896), catalogué à La Rochelle. Ce rapprochement ne restitue pas le titre du carnet ni ne développe avec certitude Bte en Baptiste.
 
 ---
 
@@ -8573,9 +8577,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***3** (*Toutencourt*) cf. supra fo 49 vo, fo 91 ro, infra fo 93 ro, *et passim*. — **3** (*Pierregot*) cf. supra fo 52 ro, fo 91 ro, infra fo 92 ro, fo 92 vo, *et passim*. — **4** (*Acheux*) cf. supra fo 21 vo, fo 88 vo, *et passim*.*
+***3** (*Toutencourt*) cf. supra fo 89 ro, l. 6 (*Toutencourt*); fo 91 ro, l. 6 (*Toutencourt*). — **3** (*Pierregot*) cf. supra fo 91 ro, l. 19 (*Pierregot*); infra fo 92 ro, l. 4 (*Pierregot*). — **4** (*Acheux*) cf. supra fo 88 ro, l. 11 (*Acheux*); fo 88 vo, l. 19 (*Acheux*).*
 
-> Journées des 23, 24 et 25 avril 1917 autour d'Hérissart: observation d'un métier à tisser domestique (survivance du tissage rural picard de la bonneterie et du velours d'Amiens), promenade vespérale sur le chemin de Mirvaux offrant une vue sur la vallée de l'Hallue (**Beaucourt-sur-l'Hallue** et **Montigny-sur-l'Hallue**), constat de l'abandon militaire d'**Acheux-en-Amiénois** le 25 avril, lecture chez **Mme Mignot** (et sa fille **Louise**) à **Pierregot** et veillée chez la **famille Denis**.
+> Journées des 23, 24 et 25 avril 1917 autour d'Hérissart: observation d'un métier à tisser, sans lieu domestique ni production textile précisés, promenade vespérale sur le chemin de Mirvaux offrant une vue sur la vallée de l'Hallue (**Beaucourt-sur-l'Hallue** et **Montigny-sur-l'Hallue**), constat de l'abandon militaire d'**Acheux-en-Amiénois** le 25 avril, lecture chez **Mme Mignot** (et **Louise**, sans lien de filiation donné) à **Pierregot** et veillée chez la **famille Denis**.
 
 ---
 
@@ -8610,9 +8614,9 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 * * *
 
-***4** (*Puchevillers*) cf. supra fo 37 vo, fo 91 vo, infra fo 93 ro, *et passim*. — **4** (*Contay*) cf. supra fo 49 ro, fo 91 ro, infra fo 92 vo, *et passim*. — **4** (*Pierregot*) cf. supra fo 52 ro, fo 91 vo, infra fo 92 vo, fo 93 ro, *et passim*.*
+***4** (*Contay*) cf. supra fo 91 ro, l. 9 (*Contay*); infra fo 92 vo, l. 14 (*Contay*). — **4** (*Puchevillers*) cf. supra fo 91 vo, l. 4 (*Puchevillers*); infra fo 93 ro, l. 8 (*Puchevillers*). — **4** (*Pierregot*) cf. supra fo 91 vo, l. 3 (*Pierregot*); infra fo 92 vo, l. 4 (*Pierregot*).*
 
-> Les jeudi 26 et vendredi 27 avril 1917, Hippolyte Combes poursuit ses tournées à **Contay**, **Puchevillers** (où il se promène le soir le long d'anciens abris souterrains, *dug-outs*, et tranchées d'exercice), **Pierregot**, **Harponville** et **Varennes-en-Croix**, où il rend visite à la **famille Mortreux**.
+> Les jeudi 26 et vendredi 27 avril 1917, Hippolyte Combes poursuit ses tournées à **Contay**, **Puchevillers** (où il se promène le soir le long d'abris souterrains, *dug-outs*, et tranchées, sans fonction d'exercice précisée), **Pierregot**, **Harponville** et **Varennes-en-Croix**, où il rend visite à la **famille Mortreux**.
 
 ---
 
@@ -8654,21 +8658,21 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 - *l. 10* : **10** **lunch** *angl.* Repas de midi.
 - *l. 12* : **12** **Dim.** *dimanche*.
 - *l. 16* : **16** **lift** *angl.* Transport obtenu en chemin ; se faire prendre sur un véhicule.
-- *l. 17* : **17** **water-cart** *angl.* voiture-citerne à eau.
+- *l. 17* : **17** **water-cart** *angl.* voiture à eau.
 - *l. 19* : **19** **cie** *compagnie* ; **Lt** *lieutenant*.
 - *l. 22* : **22** **sunset** *angl.* Coucher de soleil.
 - *l. 23* : **23** **mervt** *merveilleusement, adverbe d’étoilée et claire*.
 
 * * *
 
-***4** (*Pierregot*) cf. supra fo 52 ro, fo 92 ro, infra fo 93 ro, *et passim*. — **8** (*Hérissart*) cf. supra fo 47 vo, fo 92 ro, infra fo 93 ro, *et passim*. — **14** (*Contay*) cf. supra fo 49 ro, fo 92 ro, *et passim*.*
+***4** (*Pierregot*) cf. supra fo 92 ro, l. 4 (*Pierregot*); infra fo 93 ro, l. 8 (*Pierregot*). — **8** (*Hérissart*) cf. supra fo 91 vo, l. 25 (*Hérissart*); fo 92 ro, l. 16 (*Hérissart*). — **14** (*Contay*) cf. supra fo 91 ro, l. 9 (*Contay*); fo 92 ro, l. 4 (*Contay*).*
 
 > Le samedi 28 avril 1917, un officier britannique rentrant de la station balnéaire anglaise de **Bournemouth** annonce le déplacement prochain du service des achats vers le secteur de **Cambrai** (vers lequel le front britannique s'est avancé depuis le repli allemand de mars 1917). Le dimanche 29 avril, après un retour de Contay sur une voiture-citerne (*water-cart*) à la suite du bris de deux ressorts de l'automobile, Hippolyte Combes devise l'après-midi sur la route de Mirvaux avec son ami le sous-lieutenant jersiais **Gilbert**.
 
 ---
 
 ## Folio 93 recto — Avril 1917
-- **Titre** : Dernier folio du Livre-Journal : chaleur d'été, course à Villers-Bocage et nuit étoilée du 30 avril 1917
+- **Titre** : Dernière entrée datée conservée du Livre-Journal : chaleur d'été, course à Villers-Bocage et nuit étoilée du 30 avril 1917
 - **Date** : 30 avril 1917
 - **Lieu** : Hérissart, Vadencourt, Warloy, Hénencourt, Millencourt, Lavieville, Puchevillers, Pierregot, Villers-Bocage, Toutencourt (Somme)
 
@@ -8701,7 +8705,7 @@ Ce document réunit la transcription diplomatique ligne à ligne, l'apparat crit
 
 **l.~1--17 :** Dernier feuillet écrit du *Livre-Journal*, daté du lundi 30 avril 1917 (date qui correspond au *terminus ad quem* inscrit par Hippolyte Combes sur l'étiquette de la couverture) et clos par deux lignes de dépenses entre crochets (l.~16--17).
 
-***5** (*Warloy*) cf. supra fo 37 vo, fo 90 vo, *et passim*. — **7** (*Lt Gilbert*) cf. supra fo 89 vo, fo 92 vo. — **8** (*Puchevillers*) cf. supra fo 37 vo, fo 92 ro, *et passim*.*
+***5** (*Warloy*) cf. supra fo 89 vo, l. 4 (*Warloy*); fo 90 vo, l. 9 (*Warloy*). — **7** (*Gilbert*) cf. supra fo 90 vo, l. 12 (*Gilbert*); fo 92 vo, l. 19 (*Gilbert*). — **8** (*Puchevillers*) cf. supra fo 91 vo, l. 4 (*Puchevillers*); fo 92 ro, l. 4 (*Puchevillers*).*
 
 > Dernière entrée datée du *Livre-Journal* (**lundi 30 avril 1917**) : après une tournée matinale par **Vadencourt**, **Warloy-Baillon**, **Hénencourt**, **Millencourt** et **Laviéville**, Hippolyte Combes parcourt l'après-midi avec le **sous-lieutenant Gilbert** les villages de **Puchevillers**, **Pierregot** et **Villers-Bocage**. Six mois plus tard, le **25 octobre 1917**, il épousera **Marguerite Calmels** à Millau, avant de poursuivre son service d'interprète auprès de l'Armée britannique jusqu'à l'Armistice du 11 novembre 1918 (Annexe~I, doc.~5) et d'être nommé le 24 novembre 1918 professeur d'anglais à l'École militaire préparatoire des Andelys.
 

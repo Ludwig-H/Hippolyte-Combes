@@ -761,6 +761,7 @@ def export_transcriptions(records):
     with open(md_path, "w", encoding="utf-8") as f:
         f.write("# Édition diplomatique et critique intégrale du *Livre-Journal* d'Hippolyte Combes (25 juillet 1916 – 30 avril 1917)\n\n")
         f.write("Ce document réunit la transcription diplomatique ligne à ligne, l'apparat critique marginal, l'apparat des *loci paralleli* et le commentaire critique et historique de la totalité des folios du carnet (`Couverture` et `Folio 1 recto` à `Folio 93 recto`).\n\n---\n\n")
+        f.write("La foliotation est éditoriale et suit les photographies ; elle ne restitue pas une foliotation matérielle établie. Les folios 45 verso et 46 verso reproduisent la même page. Les lectures réservées restent signalées.\n\n")
         for r in records:
             f.write(f"## {r['folio']} — {r.get('mois_annee', '')}\n")
             f.write(f"- **Titre** : {r['title']}\n")

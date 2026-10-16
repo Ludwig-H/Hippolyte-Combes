@@ -1,0 +1,568 @@
+{
+  "date": "2026-10-16",
+  "source_file": "/tmp/hc_argon_codex/20261016T095303Z/edition_philologique/generate_edition.py",
+  "source_sha256": "c6c4fabcd59a9304099b5b7ed5326f14fc7fb61c65c753de1d08f82e3580b9c2",
+  "scope": "Propositions sur chaînes CHAPTERS à appliquer à la version vivante Gemini, sans retour à un ancien générateur. Numérotation et architecture des sept chapitres conservées.",
+  "chapter_proposals": [
+    {
+      "chapter_num": "I",
+      "field": "summary",
+      "original": "Après la couverture autographe qui fixe les bornes chronologiques du carnet (25 juillet 1916 – 30 avril 1917), le premier chapitre suit Hippolyte Combes durant trois semaines en Flandre intérieure et dans la plaine de la Lys (f\\textsuperscript{o}~1~r\\textsuperscript{o} à f\\textsuperscript{o}~9~r\\textsuperscript{o}). Cantonné d'abord à Lynde du 25 au 28 juillet, il accompagne à pied le lieutenant Curtis au rassemblement de Sercus, assiste le lieutenant Michel pour loger trente-six officiers des \\textit{Royal Fusiliers} et profite d'une matinée libre pour visiter les deux châteaux et l'église-halle de Renescure ainsi que la ville d'Hazebrouck. Le vendredi 28 juillet, une longue étape à cheval en tête du convoi le conduit au pied du Mont-Noir, à Saint-Jans-Cappel, d'où il rayonne jusqu'au 5 août pour les achats de fourrage vert et découvre avec admiration la Grand-Place, le beffroi et les dentellières de Bailleul. Le 5 août, la compagnie descend dans la vallée alluviale de la Lys et s'établit au hameau de La Croix-du-Bac (commune de Steenwerck), à proximité du point de ravitaillement quotidien (\\textit{refilling point}) de Bac-Saint-Maur. Entre la chaleur orageuse, la poussière des convois et les promenades le long de la Lys jusqu'à l'écluse de Sailly-sur-la-Lys (où il s'entretient avec l'éclusier au sujet du général Maxse), la guerre se rappelle brutalement le 11 août par le bombardement allemand de la blanchisserie Barbry aux portes d'Armentières et par la vision d'un soldat britannique soumis au supplice disciplinaire de la roue.",
+      "proposed": "Après la couverture autographe qui fixe les bornes chronologiques du carnet (25 juillet 1916 – 30 avril 1917), le premier chapitre suit Hippolyte Combes durant trois semaines en Flandre intérieure et dans la plaine de la Lys (f\\textsuperscript{o}~1~r\\textsuperscript{o} à f\\textsuperscript{o}~9~r\\textsuperscript{o}). Dans le cantonnement proposé Lynde pour les 25–28 juillet, il accompagne à pied le lieutenant Curtis au rassemblement dans le village proposé Sercus, assiste le lieutenant Michel pour rechercher trente-six chambres destinées aux officiers des \\textit{Royal Fusiliers} et profite d'une matinée libre pour visiter les deux châteaux et l'église-halle de Renescure ainsi que la ville d'Hazebrouck. Le vendredi 28 juillet, une longue étape à cheval en tête du convoi le conduit au pied du Mont-Noir, à Saint-Jans-Cappel, d'où il rayonne jusqu'au 5 août pour les achats de fourrage vert et découvre avec admiration la Grand-Place, le beffroi et les dentellières de Bailleul. Le 5 août, la compagnie descend dans la vallée alluviale de la Lys et s'établit au hameau de La Croix-du-Bac (commune de Steenwerck), à proximité du point de ravitaillement quotidien (\\textit{refilling point}) de Bac-Saint-Maur. Entre la chaleur orageuse, la poussière des convois et les promenades le long de la Lys jusqu'à l'écluse de Sailly-sur-la-Lys (où il s'entretient avec l'éclusier au sujet du général Maxse), la guerre se rappelle brutalement le 11 août par le bombardement allemand de la blanchisserie Barbry aux portes d'Armentières et par les ratures difficiles entourant la mention d'un soldat frappé.",
+      "replacements": [
+        {
+          "old": "et par la vision d'un soldat britannique soumis au supplice disciplinaire de la roue",
+          "new": "et par les ratures difficiles entourant la mention d'un soldat frappé"
+        },
+        {
+          "old": "Cantonné d'abord à Lynde du 25 au 28 juillet",
+          "new": "Dans le cantonnement proposé Lynde pour les 25–28 juillet"
+        },
+        {
+          "old": "au rassemblement de Sercus",
+          "new": "au rassemblement dans le village proposé Sercus"
+        },
+        {
+          "old": "pour loger trente-six officiers",
+          "new": "pour rechercher trente-six chambres destinées aux officiers"
+        }
+      ],
+      "reason": "La vue 017 ne décrit aucun supplice disciplinaire : les 17 lignes ont été contrôlées sur l'image native. La vue 003 donne 36 chambres, pas un décompte de 36 officiers ; Lynde/Sercus demeurent proposés.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-017"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-003"
+        },
+        {
+          "source": "scans_haute_qualite/20251126_093529.jpg"
+        }
+      ]
+    },
+    {
+      "chapter_num": "I",
+      "field": "intro",
+      "original": "Relevée du front de la Somme le 20 juillet 1916 après vingt jours de combats meurtriers au bois des Trônes et à Montauban-de-Picardie, la \\textbf{18\\textsuperscript{e} Division britannique} (\\textit{18th Eastern Division}, commandée par le major-général Sir Ivor Maxse) est transférée par voie ferrée en Flandre intérieure pour se reconstituer avant de relever les troupes australiennes dans le secteur d'Armentières et de Fleurbaix (Capt. G.~H.~F. Nichols, \\textit{The 18th Division in the Great War}, Londres, Blackwood, 1922, p.~81–85). Affecté depuis août 1915 à une compagnie du Train divisionnaire (la \\textbf{152\\textsuperscript{e} Compagnie de l'\\textit{Army Service Corps}}, chargée du ravitaillement de la 54\\textsuperscript{e} Brigade d'infanterie), Hippolyte Combes assure la liaison quotidienne entre les officiers britanniques d'approvisionnement (notamment le lieutenant Curtis), les municipalités et les exploitants agricoles flamands. Ses notes attentives sur le patrimoine architectural de la Flandre — l'église Saint-Érasme de Sercus, les châteaux de Zuthove et de Philippe de Comines à Renescure, le beffroi et les pignons Renaissance de Bailleul, ou l'église néo-gothique Notre-Dame-des-Sept-Douleurs de La Croix-du-Bac — revêtent une valeur documentaire d'autant plus précieuse que plusieurs de ces édifices furent anéantis au printemps 1918 lors de la bataille de la Lys.",
+      "proposed": "La présence de Combes en Flandre intérieure s'inscrit dans l'histoire de la \\textbf{18\\textsuperscript{e} Division britannique} (\\textit{18th Eastern Division}, commandée par Ivor Maxse), dont Nichols situe le séjour d'août 1916 devant Armentières (\\textit{The 18th Division in the Great War}, Londres, Blackwood, 1922, p.~75). Sa lettre du 21 février 1916 mentionne une compagnie d'\\textit{Army Service Corps} depuis août 1915 ; le carnet nommera la \\textbf{152nd Company A.S.C.} le 6 octobre. Nichols distingue la 151st Company auprès de la 54th Brigade (p.~108) et la 152nd auprès de la 55th (p.~110). Dans ce contexte, Hippolyte Combes assure la liaison quotidienne entre les officiers britanniques d'approvisionnement (notamment le lieutenant Curtis), les municipalités et les exploitants agricoles flamands. Ses notes attentives sur le patrimoine architectural de la Flandre — l'église proposée Saint-Érasme de Sercus, les châteaux de Zuthove et de Philippe de Comines à Renescure, le beffroi et les pignons Renaissance de Bailleul, ou l'église néo-gothique Notre-Dame-des-Sept-Douleurs de La Croix-du-Bac — revêtent une valeur documentaire d'autant plus précieuse que plusieurs de ces édifices furent anéantis au printemps 1918 lors de la bataille de la Lys.",
+      "replacements": [
+        {
+          "old": "Relevée du front de la Somme le 20 juillet 1916 après vingt jours de combats meurtriers au bois des Trônes et à Montauban-de-Picardie, la \\textbf{18\\textsuperscript{e} Division britannique} (\\textit{18th Eastern Division}, commandée par le major-général Sir Ivor Maxse) est transférée par voie ferrée en Flandre intérieure pour se reconstituer avant de relever les troupes australiennes dans le secteur d'Armentières et de Fleurbaix (Capt. G.~H.~F. Nichols, \\textit{The 18th Division in the Great War}, Londres, Blackwood, 1922, p.~81–85).",
+          "new": "La présence de Combes en Flandre intérieure s'inscrit dans l'histoire de la \\textbf{18\\textsuperscript{e} Division britannique} (\\textit{18th Eastern Division}, commandée par Ivor Maxse), dont Nichols situe le séjour d'août 1916 devant Armentières (\\textit{The 18th Division in the Great War}, Londres, Blackwood, 1922, p.~75)."
+        },
+        {
+          "old": "Affecté depuis août 1915 à une compagnie du Train divisionnaire (la \\textbf{152\\textsuperscript{e} Compagnie de l'\\textit{Army Service Corps}}, chargée du ravitaillement de la 54\\textsuperscript{e} Brigade d'infanterie),",
+          "new": "Sa lettre du 21 février 1916 mentionne une compagnie d'\\textit{Army Service Corps} depuis août 1915 ; le carnet nommera la \\textbf{152nd Company A.S.C.} le 6 octobre. Nichols distingue la 151st Company auprès de la 54th Brigade (p.~108) et la 152nd auprès de la 55th (p.~110). Dans ce contexte,"
+        },
+        {
+          "old": "l'église Saint-Érasme de Sercus",
+          "new": "l'église proposée Saint-Érasme de Sercus"
+        }
+      ],
+      "reason": "Date uniforme de relève non démontrée ; référence p. 81–85 sans rapport ; numéro de compagnie projeté sur août 1915 ; confusion de ravitaillement 152e/54e. Conserver le contexte militaire et patrimonial en qualifiant Sercus.",
+      "evidence": [
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-001"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-002"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-066"
+        }
+      ]
+    },
+    {
+      "chapter_num": "II",
+      "field": "summary",
+      "original": "Ce deuxième chapitre (f\\textsuperscript{o}~9~v\\textsuperscript{o} à f\\textsuperscript{o}~24~v\\textsuperscript{o}) retrace la transition de la vallée de la Lys vers les plateaux d'Artois puis vers l'arrière-front immédiat de la bataille de la Somme. Du 13 au 24 août, Hippolyte Combes célèbre son quarantième anniversaire (14 août 1916), effectue avec le lieutenant Curtis une reconnaissance à cheval sous les averses jusqu'aux villages ruinés de Fleurbaix et d'Armentières, partage le café chez l'industriel Émile Barbry avec ses collègues interprètes Lépin et Schumacher, expédie un sac de bagages vers sa maison de Nogent-le-Rotrou et visite l'église et l'hôtel de ville d'Estaires. Le vendredi 25 août, embarquée en gare de Bailleul, la compagnie gagne en train Saint-Pol-sur-Ternoise et cantonne durant deux semaines à Marquay (25 août – 9 septembre) : entre les corvées de fourrage vert (\\textit{green forage}) pour les fourgons des \\textit{Bedfords}, Hippolyte Combes note l'entrée en guerre de la Roumanie, explore les églises de Ligny-Saint-Flochel et de Saint-Michel-sur-Ternoise et flâne à plusieurs reprises dans Saint-Pol. Du 9 au 11 septembre, une marche par étapes à cheval achemine la division vers le sud par le hameau d'Oppy (Beaudricourt) et la cité médiévale de Lucheux jusqu'à Raincheval (11–22 septembre), où le capitaine West l'admet à la table du \\textit{mess} des officiers, avant le mouvement final vers Forceville (22–24 septembre) à la veille de l'assaut britannique contre Thiepval.",
+      "proposed": "Ce deuxième chapitre (f\\textsuperscript{o}~9~v\\textsuperscript{o} à f\\textsuperscript{o}~24~v\\textsuperscript{o}) retrace la transition de la vallée de la Lys vers les plateaux d'Artois puis vers l'arrière-front immédiat de la bataille de la Somme. Du 13 au 24 août, Hippolyte Combes écrit le jour de son quarantième anniversaire (14 août 1916), sans le signaler, effectue avec le lieutenant Curtis une course à cheval sous les averses jusqu'aux villages ruinés de Fleurbaix et d'Armentières, partage le café chez M.~Barbry avec ses collègues interprètes Lépin et Schumacher, expédie un sac de bagages vers sa maison de Nogent-le-Rotrou et visite l'église et l'hôtel de ville d'Estaires. Le vendredi 25 août, embarquée en gare de Bailleul, la compagnie gagne en train Saint-Pol-sur-Ternoise et cantonne durant deux semaines à Marquay (25 août – 9 septembre) : entre les corvées de fourrage vert (\\textit{green forage}) pour les fourgons des \\textit{Bedfords}, Hippolyte Combes note l'entrée en guerre de la Roumanie, explore les églises de Ligny-Saint-Flochel et de Saint-Michel-sur-Ternoise et flâne à plusieurs reprises dans Saint-Pol. Du 9 au 11 septembre, une marche par étapes à cheval achemine la division vers le sud par le hameau d'Oppy (Beaudricourt) et la cité médiévale de Lucheux jusqu'à Raincheval (11–23 septembre), où le capitaine West l'admet à la table du \\textit{mess} des officiers, avant le mouvement final vers Forceville (23–24 septembre) à la veille de l'assaut britannique contre Thiepval.",
+      "replacements": [
+        {
+          "old": "célèbre son quarantième anniversaire (14 août 1916)",
+          "new": "écrit le jour de son quarantième anniversaire (14 août 1916), sans le signaler"
+        },
+        {
+          "old": "une reconnaissance à cheval",
+          "new": "une course à cheval"
+        },
+        {
+          "old": "l'industriel Émile Barbry",
+          "new": "M.~Barbry"
+        },
+        {
+          "old": "Raincheval (11–22 septembre)",
+          "new": "Raincheval (11–23 septembre)"
+        },
+        {
+          "old": "Forceville (22–24 septembre)",
+          "new": "Forceville (23–24 septembre)"
+        }
+      ],
+      "reason": "Aucun anniversaire célébré ni mission de reconnaissance écrits. Barbry n'a pas de prénom attesté dans ce passage. Le départ de Raincheval vers Forceville est le 23 septembre.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-019"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-023"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-048"
+        }
+      ]
+    },
+    {
+      "chapter_num": "II",
+      "field": "intro",
+      "original": "Le déplacement de la \\textbf{18\\textsuperscript{e} Division britannique} de la Lys vers le Ternois puis vers le secteur de l'Ancre s'inscrit dans la préparation de la grande offensive de septembre 1916 : rattachée au \\textit{II~Corps} (lieutenant-général Sir Claud Jacob) au sein de la \\textit{Reserve Army} (future \\textit{Fifth Army}) du général Sir Hubert Gough, la division s'entraîne sur les plateaux autour de Saint-Pol avant de monter en ligne devant Thiepval, qu'elle prendra d'assaut le 26 septembre 1916 (Nichols, \\textit{op.~cit.}, p.~86–92). Sur le plan linguistique, l'écriture quotidienne d'Hippolyte Combes témoigne d'une imprégnation croissante du vocabulaire militaire et logistique anglais (\\textit{mess}, \\textit{billet}, \\textit{refilling point}, \\textit{green forage}, \\textit{horse-lines}, \\textit{orderly N.C.O.}, \\textit{on duty}, \\textit{groom}, \\textit{saddle soap}), tandis que ses méditations du 25 août dans le train de Saint-Pol font directement écho au pessimisme lucide de sa lettre confidentielle du 16 juin 1916 à sa sœur carmélite Françoise (Annexe~I, doc.~3).",
+      "proposed": "Le déplacement de la \\textbf{18\\textsuperscript{e} Division britannique} de la Lys vers le Ternois puis vers le secteur de l'Ancre s'inscrit dans la préparation de la grande offensive de septembre 1916 : rattachée au \\textit{II~Corps} (lieutenant-général Sir Claud Jacob) au sein de la \\textit{Reserve Army} (future \\textit{Fifth Army}) du général Sir Hubert Gough, la division s'entraîne sur les plateaux autour de Saint-Pol avant de monter en ligne devant Thiepval, qu'elle prendra d'assaut le 26 septembre 1916 (Nichols, \\textit{op.~cit.}, p.~78–79, 81–92). Sur le plan linguistique, l'écriture quotidienne d'Hippolyte Combes témoigne d'une imprégnation croissante du vocabulaire militaire et logistique anglais (\\textit{mess}, \\textit{billet}, \\textit{refilling point}, \\textit{green forage}, \\textit{horse-lines}, \\textit{orderly N.C.O.}, \\textit{on duty}, \\textit{groom}, \\textit{saddle soap}), tandis que ses méditations du 25 août dans le train de Saint-Pol font directement écho au pessimisme lucide de sa lettre confidentielle du 16 juin 1916 à sa sœur carmélite Françoise (Annexe~I, doc.~3).",
+      "replacements": [
+        {
+          "old": "p.~86–92",
+          "new": "p.~78–79, 81–92"
+        }
+      ],
+      "reason": "Ajouter les pages qui documentent réellement entraînement et rattachement au IIe Corps, en gardant les pages de l'assaut.",
+      "evidence": [
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        }
+      ]
+    },
+    {
+      "chapter_num": "III",
+      "field": "summary",
+      "original": "Le troisième chapitre (f\\textsuperscript{o}~25~r\\textsuperscript{o} à f\\textsuperscript{o}~33~r\\textsuperscript{o}) est entièrement consacré à la première permission du carnet, du 25 septembre au 6 octobre 1916. Quittant le plateau de Forceville le lundi 25 septembre sur un fourgon de ravitaillement jusqu'à la gare régulatrice (\\textit{railhead}) d'Acheux-Varennes, Hippolyte Combes gagne Amiens puis Paris à l'aube du 26 septembre. Après une visite matinale à Neuilly-sur-Seine chez les cousines Faure, un déjeuner au boulevard Saint-Germain et l'achat au Quartier latin d'ouvrages d'Ernest Zyromski et de Maurice Maeterlinck, il prend le soir même à la gare d'Orsay l'express de Toulouse. Du 27 septembre au 4 octobre, il vit huit journées lumineuses à Toulouse auprès de sa fiancée Marguerite Calmels, logée chez son oncle et sa tante Émile et Élisabeth Crouzet : promenades sur les coteaux de Pouvourville et de Pech-David, achat d'un sautoir en or de fiançailles (295~francs) le 29 septembre, flâneries le long du canal du Midi et au Grand-Rond, offices à la cathédrale Saint-Étienne et rangement de sa bibliothèque dans son appartement toulousain. Reparti le 4 octobre au soir par l'express de Paris (où il admire le 5 octobre l'église Saint-Vincent-de-Paul avant de reprendre le train du front à la gare du Nord), il rejoint le 6 octobre par Doullens et le \\textit{railhead} de Canaples la 152\\textsuperscript{e} Compagnie A.S.C.",
+      "proposed": "Le troisième chapitre (f\\textsuperscript{o}~25~r\\textsuperscript{o} à f\\textsuperscript{o}~33~r\\textsuperscript{o}) est entièrement consacré à la première permission du carnet, du 25 septembre au 6 octobre 1916. Quittant le plateau de Forceville le lundi 25 septembre sur un fourgon de ravitaillement jusqu'à la gare régulatrice (\\textit{railhead}) d'Acheux-Varennes, Hippolyte Combes gagne Amiens puis Paris à l'aube du 26 septembre. Après ses démarches entre les gares du Bourget, du Nord et d'Orsay, un passage aux Invalides et l'achat au Quartier latin d'ouvrages d'Ernest Zyromski et de Maurice Maeterlinck, il prend le soir même à la gare d'Orsay l'express de Toulouse. Du 27 septembre au 4 octobre, il vit huit journées lumineuses à Toulouse auprès de sa fiancée Marguerite Calmels, logée chez son oncle et sa tante Émile et Élisabeth Crouzet : promenades sur les coteaux de Pouvourville et de Pech-David, achat d'un sautoir en or (295~francs) le 29 septembre, sans destinataire nommé, promenades à Purpan, Blagnac, Montaudran, Terre-Cabade, Lardenne et au Touch, offices à la cathédrale Saint-Étienne et rangement de sa bibliothèque dans son appartement toulousain. Reparti le 4 octobre au soir par l'express de Paris (où il admire le 5 octobre l'église Saint-Vincent-de-Paul avant de reprendre le train du front à la gare du Nord), il rejoint le 6 octobre par Doullens et le \\textit{railhead} de Canaples la 152\\textsuperscript{e} Compagnie A.S.C.",
+      "replacements": [
+        {
+          "old": "Après une visite matinale à Neuilly-sur-Seine chez les cousines Faure, un déjeuner au boulevard Saint-Germain et l'achat au Quartier latin d'ouvrages d'Ernest Zyromski et de Maurice Maeterlinck",
+          "new": "Après ses démarches entre les gares du Bourget, du Nord et d'Orsay, un passage aux Invalides et l'achat au Quartier latin d'ouvrages d'Ernest Zyromski et de Maurice Maeterlinck"
+        },
+        {
+          "old": "achat d'un sautoir en or de fiançailles (295~francs) le 29 septembre",
+          "new": "achat d'un sautoir en or (295~francs) le 29 septembre, sans destinataire nommé"
+        },
+        {
+          "old": "flâneries le long du canal du Midi et au Grand-Rond",
+          "new": "promenades à Purpan, Blagnac, Montaudran, Terre-Cabade, Lardenne et au Touch"
+        }
+      ],
+      "reason": "La visite Faure est au 27 janvier, non au 26 septembre ; canal du Midi et Grand-Rond ne sont pas dans les vues 057–058 ; le sautoir n'est pas attribué à une destinataire.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-052"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-053"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-056"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-057"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-058"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-130"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-131"
+        }
+      ]
+    },
+    {
+      "chapter_num": "III",
+      "field": "intro",
+      "original": "Cette parenthèse civile au cœur de la guerre révèle l'ancrage intellectuel et familial d'Hippolyte Combes à Paris et à Toulouse. Les archives familiales de Millau et Montauban éclairent avec précision le cercle toulousain qui entoure sa fiancée \\textbf{Marguerite Calmels} (1892–1974) : l'agent de change \\textbf{Émile Crouzet} (1842–1921, \\textit{M.~C\\textsuperscript{zt}}), son épouse \\textbf{Élisabeth Calmels} (tante paternelle de Marguerite) et leur fils l'\\textbf{abbé Jean Crouzet}, futur curé de Notre-Dame de la Dalbade, ainsi que les cousines \\textbf{Faure} installées au 16, rue d'Armenonville à Neuilly-sur-Seine. Les achats en librairie du 26 septembre témoignent de la fidélité d'Hippolyte Combes à son ancien maître de la Faculté des lettres de Toulouse, \\textbf{Ernest Zyromski} (\\textit{L'Orgueil humain}, 1904), et de sa prédilection constante pour l'œuvre de \\textbf{Maurice Maeterlinck} (\\textit{Les Débris de la guerre}, 1916). Enfin, le f\\textsuperscript{o}~33~r\\textsuperscript{o} (6 octobre 1916) fournit la mention autographe décisive qui permet d'identifier formellement l'unité d'Hippolyte Combes au sein du \\textit{18th Divisional Train} : la \\textbf{152\\textsuperscript{e} Compagnie A.S.C.} (\\textit{152nd Company A.S.C.}), affectée au ravitaillement de la \\textbf{54\\textsuperscript{e} Brigade d'infanterie}.",
+      "proposed": "Cette parenthèse civile au cœur de la guerre révèle l'ancrage intellectuel et familial d'Hippolyte Combes à Paris et à Toulouse. Les archives familiales de Millau et Montauban éclairent avec précision le cercle toulousain qui entoure sa fiancée \\textbf{Marguerite Calmels} (1892–1974) : l'agent de change \\textbf{Émile Crouzet} (1842–1921, \\textit{M.~C\\textsuperscript{zt}}), son épouse \\textbf{Élisabeth Calmels} (tante paternelle de Marguerite) et leur fils l'\\textbf{abbé Jean Crouzet}, futur curé de Notre-Dame de la Dalbade, ainsi que les cousines \\textbf{Faure} installées rue d'Armenonville (numéro [?]6 réservé) à Neuilly-sur-Seine. Les achats en librairie du 26 septembre peuvent être rapprochés de la conférence ultérieure appréciée par Hippolyte Combes, donnée par \\textbf{Ernest Zyromski} (\\textit{L'Orgueil humain}, 1904), et documentent son intérêt pour \\textbf{Maurice Maeterlinck} (\\textit{Les Débris de la guerre}, 1916). Enfin, le f\\textsuperscript{o}~33~r\\textsuperscript{o} (6 octobre 1916) fournit la mention autographe décisive qui permet d'identifier formellement l'unité d'Hippolyte Combes au sein du \\textit{18th Divisional Train} : la \\textbf{152\\textsuperscript{e} Compagnie A.S.C.} (\\textit{152nd Company A.S.C.}). L'ordre de bataille de Thiepval chez Nichols place la 151st Company auprès de la 54th Brigade (p.~108) et la 152nd auprès de la 55th (p.~110).",
+      "replacements": [
+        {
+          "old": "installées au 16, rue d'Armenonville",
+          "new": "installées rue d'Armenonville (numéro [?]6 réservé)"
+        },
+        {
+          "old": "témoignent de la fidélité d'Hippolyte Combes à son ancien maître de la Faculté des lettres de Toulouse",
+          "new": "peuvent être rapprochés de la conférence ultérieure appréciée par Hippolyte Combes, donnée par"
+        },
+        {
+          "old": "et de sa prédilection constante pour l'œuvre de",
+          "new": "et documentent son intérêt pour"
+        },
+        {
+          "old": "(\\textit{152nd Company A.S.C.}), affectée au ravitaillement de la \\textbf{54\\textsuperscript{e} Brigade d'infanterie}",
+          "new": "(\\textit{152nd Company A.S.C.}). L'ordre de bataille de Thiepval chez Nichols place la 151st Company auprès de la 54th Brigade (p.~108) et la 152nd auprès de la 55th (p.~110)"
+        },
+        {
+          "old": "donnée par,",
+          "new": "donnée par"
+        }
+      ],
+      "reason": "Adresse réservée ; achat d'un livre ne prouve pas une prédilection constante ni une relation maître/élève ; 152e/54e contredit Nichols. Le réseau familial reste conservé.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-053"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-130"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-135"
+        },
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        }
+      ]
+    },
+    {
+      "chapter_num": "IV",
+      "field": "summary",
+      "original": "Le quatrième chapitre (f\\textsuperscript{o}~33~v\\textsuperscript{o} à f\\textsuperscript{o}~52~r\\textsuperscript{o}) couvre les deux mois d'octobre et de novembre 1916 sur le front de la Somme. Du 6 au 15 octobre, la 152\\textsuperscript{e} Compagnie A.S.C. jouit d'une semaine de repos dans les vergers du Ponthieu, à Ribeaucourt et au hameau de Barlette, où Hippolyte Combes visite le château de Ribeaucourt et le village voisin de Domqueur. Le 15 octobre, la colonne reprend la route du front par Beauval et Warloy-Baillon pour bivouaquer sous la tente dans la boue glaciale de Bouzincourt (17–19 octobre) puis du camp des briqueteries d'Albert (\\textit{Brickfields Area}, 19–31 octobre), où Hippolyte Combes trouve une chambre chez la famille Duchâteau, décrit avec émotion les ruines de la basilique Notre-Dame de Brebières et sa Vierge penchée, et rassure son statut d'interprète auprès du lieutenant Pizzi. Au début de novembre s'opère un tournant majeur dans son service : détaché le 2 novembre par le lieutenant-colonel Grose auprès du service des fourrages et achats d'armée (dirigé par le major Levy), il s'installe à Acheux-en-Amiénois chez le tailleur M.~Carluvant (n\\textsuperscript{o}~1, route de Léalvillers) et sillonne désormais en automobile ou à cheval les communes de l'arrière-front picard (Varennes, Léalvillers, Arquèves et la ferme de Belle-Église, Louvencourt, Bertrancourt, Bus-lès-Artois, Raincheval, Rubempré, Hérissart et le château de Martinsart).",
+      "proposed": "Le quatrième chapitre (f\\textsuperscript{o}~33~v\\textsuperscript{o} à f\\textsuperscript{o}~52~r\\textsuperscript{o}) couvre les deux mois d'octobre et de novembre 1916 sur le front de la Somme. Du 6 au 15 octobre, la 152\\textsuperscript{e} Compagnie A.S.C. cantonne dans les vergers du Ponthieu, à Ribeaucourt et au hameau de Barlette, où Hippolyte Combes mène des corvées de fourrage et se promène dans les bois. Le 15 octobre, la colonne reprend la route du front par Beauval et Warloy-Baillon pour bivouaquer sous la tente dans la boue glaciale de Bouzincourt (17–19 octobre) puis du camp des briqueteries d'Albert (\\textit{Brickfields Area}, 19–31 octobre), où Hippolyte Combes trouve une chambre chez la famille Duchâteau, décrit avec émotion les ruines de la basilique Notre-Dame de Brebières et sa Vierge penchée, et rassure son statut d'interprète auprès du lieutenant Pizzi. Au début de novembre s'opère un tournant majeur dans son service : détaché le 2 novembre par le lieutenant-colonel Grose auprès du service des fourrages et achats d'armée (la fonction précise du major Levy n'est pas exposée), il s'installe à Acheux-en-Amiénois dans une chambre n\\textsuperscript{o}~1, route de Léalvillers ; les occurrences suivantes permettent de rapprocher ses logeurs des Carluvant. Il sillonne désormais en automobile ou à cheval les communes de l'arrière-front picard (Varennes, Léalvillers, Arquèves et la ferme de Belle-Église, Louvencourt, Bertrancourt, Bus-lès-Artois, Raincheval, Rubempré, Hérissart et le château de Martinsart).",
+      "replacements": [
+        {
+          "old": "jouit d'une semaine de repos",
+          "new": "cantonne"
+        },
+        {
+          "old": "où Hippolyte Combes visite le château de Ribeaucourt et le village voisin de Domqueur",
+          "new": "où Hippolyte Combes mène des corvées de fourrage et se promène dans les bois"
+        },
+        {
+          "old": "(dirigé par le major Levy)",
+          "new": "(la fonction précise du major Levy n'est pas exposée)"
+        },
+        {
+          "old": "chez le tailleur M.~Carluvant (n\\textsuperscript{o}~1, route de Léalvillers)",
+          "new": "dans une chambre n\\textsuperscript{o}~1, route de Léalvillers ; les occurrences suivantes permettent de rapprocher ses logeurs des Carluvant"
+        },
+        {
+          "old": "des Carluvant et sillonne",
+          "new": "des Carluvant. Il sillonne"
+        }
+      ],
+      "reason": "Les corvées de fourrage se poursuivent durant le cantonnement ; château et Domqueur ne sont pas nommés. La fonction de Levy et l'identité immédiate du bailleur ne sont pas établies.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-071"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-072"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-073"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-091"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-094"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-102"
+        }
+      ]
+    },
+    {
+      "chapter_num": "IV",
+      "field": "intro",
+      "original": "Durant les mois d'octobre et de novembre 1916, tandis que les brigades de la \\textbf{18\\textsuperscript{e} Division britannique} livrent de rudes combats d'usure sous la pluie devant la redoute Schwaben, la tranchée Regina (\\textit{Regina Trench}) et les hauteurs de l'Ancre (Nichols, \\textit{op.~cit.}, chap.~VIII–IX), le \\textit{18th Divisional Train}, commandé par le \\textbf{lieutenant-colonel Daniel Charles Evans Grose, A.S.C.} (\\texttt{Col.~Grose}, f\\textsuperscript{o}~45~r\\textsuperscript{o}), assure le ravitaillement quotidien des unités depuis ses bases de Warloy-Baillon et d'Albert. Le détachement d'Hippolyte Combes à \\textbf{Acheux-en-Amiénois} le 2 novembre 1916 répond aux besoins considérables en paille et en foin de la cavalerie et des trains hippomobiles britanniques : rattaché aux services d'achats et de réquisitions (\\textit{Foraging} et \\textit{Army Purchase Board}, sous l'autorité du \\textbf{major Levy}), il contrôle les chantiers de battage mécanique (notamment à la commanderie de Belle-Église chez la famille belge Houthouan) et négocie directement avec les maires et les cultivateurs de la Somme.",
+      "proposed": "Durant les mois d'octobre et de novembre 1916, tandis que les brigades de la \\textbf{18\\textsuperscript{e} Division britannique} livrent de rudes combats d'usure sous la pluie devant la redoute Schwaben, la tranchée Regina (\\textit{Regina Trench}) et les hauteurs de l'Ancre (Nichols, \\textit{op.~cit.}, chap.~VIII–IX), le \\textit{18th Divisional Train}, commandé par le \\textbf{lieutenant-colonel Daniel Charles Evans Grose, A.S.C.} (\\texttt{Col.~Grose}, f\\textsuperscript{o}~45~r\\textsuperscript{o}), assure le ravitaillement quotidien des unités depuis ses bases de Warloy-Baillon et d'Albert. Le détachement d'Hippolyte Combes à \\textbf{Acheux-en-Amiénois} le 2 novembre 1916 répond aux besoins considérables en paille et en foin de la cavalerie et des trains hippomobiles britanniques : rattaché aux services d'achats et de réquisitions (\\textit{Foraging} et \\textit{Army Purchase Board}, sous l'autorité du \\textbf{major Levy}), il décrit les tournées de fourrage et le début du battage à Belle-Église et Arquèves, où la fermière belge est nommée Houtteman [?]. Combes négocie directement avec les maires et les cultivateurs de la Somme.",
+      "replacements": [
+        {
+          "old": "il contrôle les chantiers de battage mécanique (notamment à la commanderie de Belle-Église chez la famille belge Houthouan)",
+          "new": "il décrit les tournées de fourrage et le début du battage à Belle-Église et Arquèves, où la fermière belge est nommée Houtteman [?]"
+        },
+        {
+          "old": "Houtteman [?] et négocie",
+          "new": "Houtteman [?]. Combes négocie"
+        }
+      ],
+      "reason": "La page 108 ne confie pas à Combes la direction des machines ; le patronyme reste proposé Houtteman [?], par comparaison avec 171.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-108"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-171"
+        }
+      ]
+    },
+    {
+      "chapter_num": "V",
+      "field": "summary",
+      "original": "Le cinquième chapitre (f\\textsuperscript{o}~52~v\\textsuperscript{o} à f\\textsuperscript{o}~63~v\\textsuperscript{o}) relate le rude hiver 1916–1917 à Acheux-en-Amiénois, du 1\\textsuperscript{er} décembre 1916 au 25 janvier 1917. Dès le 2 décembre, le lieutenant Curtis est remplacé au service des fourrages par le très jeune capitaine Williams (\\textit{Foraging Officer}), dont le caractère brusque et l'inexpérience provoquent de vives tensions morales avec l'universitaire français de quarante ans. Malgré la boue liquide de décembre puis la neige et le gel intense de janvier 1917, Hippolyte Combes accomplit chaque jour de longues tournées en automobile ou à cheval à travers toute la région entre Doullens, Albert et Amiens : Franvillers, Buire-sur-l'Ancre, Ribemont et Heilly (où il revoit avec émotion ses cantonnements de l'hiver 1915–1916), Toutencourt (où il assiste le major Levy lors d'une réunion des réfugiés d'Englebelmer), Authie, Saint-Léger, Beauquesne, Raincheval, Le Quesnoy, Contay, Vadencourt, Puchevillers, Hérissart et Rubempré. Après la pénible tournée de la veille de Noël à Louvencourt avec le capitaine Williams, la fête de Noël au spectacle de music-hall de la \\textit{Y.M.C.A.} d'Acheux (qui succède aux concerts des \\textit{13th Corps Archie Singers}) et la visite du château d'Acheux occupé par la \\textit{Fifth Army School of Mortars}, il rend visite le 9 janvier près d'Hédauville à ses amis de la 150\\textsuperscript{e} Compagnie A.S.C. (dont le lieutenant Morris) avant d'obtenir fin janvier son titre de permission pour le Midi.",
+      "proposed": "Le cinquième chapitre (f\\textsuperscript{o}~52~v\\textsuperscript{o} à f\\textsuperscript{o}~63~v\\textsuperscript{o}) relate le rude hiver 1916–1917 à Acheux-en-Amiénois, du 1\\textsuperscript{er} décembre 1916 au 25 janvier 1917. Le 2 décembre, le très jeune capitaine Williams (\\textit{Foraging Officer}) arrive pour remplacer Curtis, qui repart le 6. Son caractère brusque et son inexpérience provoquent de vives tensions morales avec l'universitaire français de quarante ans. Malgré la boue liquide de décembre puis la neige et le gel intense de janvier 1917, Hippolyte Combes accomplit chaque jour de longues tournées en automobile ou à cheval à travers toute la région entre Doullens, Albert et Amiens : Franvillers, Buire-sur-l'Ancre, Ribemont et Heilly (où il revoit avec émotion ses cantonnements de l'hiver 1915–1916), Toutencourt (où il assiste le major Levy lors d'une réunion des réfugiés d'Englebelmer), Authie, Saint-Léger, Beauquesne, Raincheval, Le Quesnoy, Contay, Vadencourt, Puchevillers, Hérissart et Rubempré. Après la pénible tournée de la veille de Noël à Louvencourt avec le capitaine Williams, la fête de Noël au spectacle de music-hall de la \\textit{Y.M.C.A.} d'Acheux puis les concerts des \\textit{13th Corps Archie Singers}, les 28 décembre et 4 janvier, et la visite du château d'Acheux occupé par la \\textit{Fifth Army School of Mortars}, il rend visite le 9 janvier près d'Hédauville à ses amis de la 150\\textsuperscript{e} Compagnie A.S.C. (dont le lieutenant Morris) avant d'obtenir fin janvier son titre de permission pour le Midi.",
+      "replacements": [
+        {
+          "old": "Dès le 2 décembre, le lieutenant Curtis est remplacé au service des fourrages par le très jeune capitaine Williams (\\textit{Foraging Officer}), dont le caractère brusque et l'inexpérience provoquent de vives tensions morales avec l'universitaire français de quarante ans.",
+          "new": "Le 2 décembre, le très jeune capitaine Williams (\\textit{Foraging Officer}) arrive pour remplacer Curtis, qui repart le 6. Son caractère brusque et son inexpérience provoquent de vives tensions morales avec l'universitaire français de quarante ans."
+        },
+        {
+          "old": "la fête de Noël au spectacle de music-hall de la \\textit{Y.M.C.A.} d'Acheux (qui succède aux concerts des \\textit{13th Corps Archie Singers})",
+          "new": "la fête de Noël au spectacle de music-hall de la \\textit{Y.M.C.A.} d'Acheux puis les concerts des \\textit{13th Corps Archie Singers}, les 28 décembre et 4 janvier"
+        },
+        {
+          "old": "les 28 décembre et 4 janvier et la visite",
+          "new": "les 28 décembre et 4 janvier, et la visite"
+        }
+      ],
+      "reason": "Arrivée le 2 et départ de Curtis le 6 ne sont pas identiques ; les concerts du 28 décembre et du 4 janvier suivent Noël, ne le précèdent pas.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-105"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-107"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-114"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-116"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-120"
+        }
+      ]
+    },
+    {
+      "chapter_num": "V",
+      "field": "intro",
+      "original": "Sur le plan militaire, cette période hivernale correspond à la réorganisation du dispositif britannique au nord de la Somme et de l'Ancre, avec l'extension du secteur de la \\textbf{V\\textsuperscript{e} Armée britannique} (\\textit{Fifth Army}) et la relève progressive du XIII\\textsuperscript{e} Corps par le \\textbf{V\\textsuperscript{e} Corps britannique} autour d'Acheux et de Toutencourt. La visite du 9 janvier 1917 au bivouac d'\\textbf{Hédauville} (f\\textsuperscript{o}~60~v\\textsuperscript{o}) éclaire l'articulation interne du Train divisionnaire de la 18\\textsuperscript{e} Division (\\textit{18th Divisional Train}), qui réunissait les \\textbf{150\\textsuperscript{e}, 151\\textsuperscript{e}, 152\\textsuperscript{e} et 153\\textsuperscript{e} Compagnies A.S.C.} (Maj. A.~F. Becke, \\textit{Order of Battle of Divisions}, Part~3A, p.~81). Sur le plan humain, le portrait sans concession du jeune \\textbf{capitaine Williams} met en lumière la condition délicate des universitaires français détachés comme interprètes auprès d'officiers subalternes britanniques beaucoup plus jeunes qu'eux.",
+      "proposed": "Sur le plan militaire, cette période hivernale correspond à la réorganisation du dispositif britannique au nord de la Somme et de l'Ancre, avec l'extension du secteur de la \\textbf{V\\textsuperscript{e} Armée britannique} (\\textit{Fifth Army}) et la relève progressive du XIII\\textsuperscript{e} Corps par le \\textbf{V\\textsuperscript{e} Corps britannique} autour d'Acheux et de Toutencourt. La visite du 9 janvier 1917 au bivouac d'\\textbf{Hédauville} (f\\textsuperscript{o}~60~v\\textsuperscript{o}) éclaire l'articulation interne du Train divisionnaire de la 18\\textsuperscript{e} Division (\\textit{18th Divisional Train}), qui réunissait les \\textbf{150\\textsuperscript{e}, 151\\textsuperscript{e}, 152\\textsuperscript{e} et 153\\textsuperscript{e} Compagnies A.S.C.} (Nichols, \\textit{The 18th Division in the Great War}, 1922, p.~107–110). Sur le plan humain, le portrait sans concession du jeune \\textbf{capitaine Williams} met en lumière la condition délicate des universitaires français détachés comme interprètes auprès d'officiers subalternes britanniques beaucoup plus jeunes qu'eux.",
+      "replacements": [
+        {
+          "old": "(Maj. A.~F. Becke, \\textit{Order of Battle of Divisions}, Part~3A, p.~81)",
+          "new": "(Nichols, \\textit{The 18th Division in the Great War}, 1922, p.~107–110)"
+        }
+      ],
+      "reason": "Remplacer la référence Becke non contrôlée par le tableau contemporain vérifié dans le dépôt, qui conserve les quatre compagnies et Peachy/West.",
+      "evidence": [
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        }
+      ]
+    },
+    {
+      "chapter_num": "VI",
+      "field": "summary",
+      "original": "Le sixième chapitre (f\\textsuperscript{o}~64~r\\textsuperscript{o} à f\\textsuperscript{o}~73~r\\textsuperscript{o}) retrace la permission d'hiver d'Hippolyte Combes, du 26 janvier au 7 février 1917, par un froid exceptionnel. Parti d'Acheux le 26 janvier par Amiens, il fait escale le samedi 27 janvier à Neuilly-sur-Seine chez Mme Faure (où il s'entretient avec ses cousines Germaine et Marguerite et avec Marcel Faure en permission) avant de gagner Toulouse le dimanche 28 janvier. Durant six jours à Toulouse (28 janvier – 3 février), il retrouve Marguerite Calmels et sa sœur aînée Madeleine Calmels-Vincens, achète chez l'horloger Pfister la montre-bracelet en or et les bagues de fiançailles, visite avec elles la basilique Saint-Sernin et ses cryptes, les grands magasins du Capitole et la Maison Universelle d'Antoine Labit, assiste au cours public d'Ernest Zyromski sur Maurice de Guérin à la Faculté des lettres, parcourt l'Hôtel d'Assézat, la Daurade et la Dalbade et marche jusqu'à Lardenne. Le samedi 3 février, Hippolyte Combes et Marguerite Calmels voyagent ensemble en train vers Millau en saluant l'abbé Jean Crouzet à Carcassonne et en visitant la cathédrale Saint-Nazaire de Béziers. Accueilli au 10, rue Alfred-Guibert par la famille Calmels, Hippolyte Combes rend visite aux familles Vincens et Layrals (l'oncle Charles Layrals et la tante Thérèse), revoit la sœur de Marguerite, « Mimi », et se recueille au cimetière de Millau sur les tombes des siens avant un long voyage de retour à travers la Lozère, le Cantal et l'Auvergne enneigés (Saint-Chély-d'Apcher, Saint-Flour, Brioude, Clermont-Ferrand, Paris).",
+      "proposed": "Le sixième chapitre (f\\textsuperscript{o}~64~r\\textsuperscript{o} à f\\textsuperscript{o}~73~r\\textsuperscript{o}) retrace la permission d'hiver d'Hippolyte Combes, du 26 janvier au 7 février 1917, par un froid exceptionnel. Parti d'Acheux le 26 janvier par Amiens, il fait escale le samedi 27 janvier à Neuilly-sur-Seine chez Mme Faure (où il s'entretient avec Germaine et Marcel, présents au déjeuner, tandis qu'Henri et André sont absents) avant de gagner Toulouse le dimanche 28 janvier. Durant six jours à Toulouse (28 janvier – 3 février), il retrouve Marguerite Calmels et sa sœur aînée Madeleine Calmels-Vincens, choisit chez Pfister une montre en or et règle ensuite un remontoir de 105~francs, sans destinataire nommé, visite avec elles la basilique Saint-Sernin et ses cryptes, les grands magasins du Capitole et la Maison Universelle d'Antoine Labit, assiste à la conférence de Zyromski sur Maurice de Guérin, parcourt l'Hôtel d'Assézat, la Daurade et la Dalbade. Le samedi 3 février, Hippolyte Combes et Marguerite Calmels voyagent ensemble en train vers Millau en saluant l'abbé Jean Crouzet à Carcassonne et en visitant la cathédrale Saint-Nazaire de Béziers. Accueilli au 10, rue Alfred-Guibert par la famille Calmels, Hippolyte Combes rend visite aux familles Vincens et Layrals (l'oncle Charles Layrals et la tante Thérèse), revoit la sœur de Marguerite, « Mimi », et se rend au cimetière de Millau, sans caveau identifié, avant un long voyage de retour à travers la Lozère, le Cantal et l'Auvergne enneigés (Saint-Chély-d'Apcher, Saint-Flour, Brioude, Clermont-Ferrand, Paris).",
+      "replacements": [
+        {
+          "old": "ses cousines Germaine et Marguerite et avec Marcel Faure en permission",
+          "new": "Germaine et Marcel, présents au déjeuner, tandis qu'Henri et André sont absents"
+        },
+        {
+          "old": "achète chez l'horloger Pfister la montre-bracelet en or et les bagues de fiançailles",
+          "new": "choisit chez Pfister une montre en or et règle ensuite un remontoir de 105~francs, sans destinataire nommé"
+        },
+        {
+          "old": "assiste au cours public d'Ernest Zyromski sur Maurice de Guérin à la Faculté des lettres",
+          "new": "assiste à la conférence de Zyromski sur Maurice de Guérin"
+        },
+        {
+          "old": "et marche jusqu'à Lardenne",
+          "new": ""
+        },
+        {
+          "old": "se recueille au cimetière de Millau sur les tombes des siens",
+          "new": "se rend au cimetière de Millau, sans caveau identifié"
+        },
+        {
+          "old": "la Dalbade .",
+          "new": "la Dalbade."
+        },
+        {
+          "old": "sans caveau identifié avant",
+          "new": "sans caveau identifié, avant"
+        }
+      ],
+      "reason": "Germaine et Marcel seuls sont présents ; Marguerite de la lettre de 1918 n'est pas la visiteuse nommée en 1917 ; aucun statut de permission, montre-bracelet ni bagues. Lieu/horaire de la conférence et promenade à Lardenne sont ajoutés ; caveau non identifié.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-131"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-135"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-136"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-137"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-138"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-143"
+        },
+        {
+          "source": "https://www.ordredelaliberation.fr/fr/compagnons/marcel-faure"
+        }
+      ]
+    },
+    {
+      "chapter_num": "VI",
+      "field": "intro",
+      "original": "Ce deuxième séjour dans le Midi unit pour la première fois dans le carnet les deux villes maîtresses de la vie d'Hippolyte Combes : \\textbf{Toulouse}, ville de ses études universitaires et de la famille Crouzet, et \\textbf{Millau}, berceau natal des familles Combes, Alric, Calmels et Cartairade, où sera célébré son mariage avec Marguerite Calmels le 25 octobre 1917. La collation directe du manuscrit avec les archives familiales permet d'identifier avec certitude tous les parents visités à Millau les 4 et 5 février 1917 : au 10, rue Alfred-Guibert, les parents de Marguerite (le \\textbf{D\\textsuperscript{r} Gabriel Calmels} et \\textbf{Valentine Cartairade}), son frère \\textbf{Pierre Calmels}, ses sœurs \\textbf{Madeleine Calmels} (épouse du \\textbf{D\\textsuperscript{r} Fernand Vincens}, mère de \\textbf{Germaine} et \\textbf{Robert Vincens}) et \\textbf{Anne-Marie dite « Mimi » Calmels} (1888–1975, future épouse de l'avoué \\textbf{Joseph Delcamps}), ainsi que son oncle et sa tante maternels \\textbf{M\\textsuperscript{e} Charles Layrals}, notaire à Millau, et \\textbf{Thérèse Cartairade} (f\\textsuperscript{o}~71~r\\textsuperscript{o}, l.~6 : \\texttt{visite à l'oncle \\& tante Thérèse (Layral)}).",
+      "proposed": "Ce deuxième séjour dans le Midi unit pour la première fois dans le carnet les deux villes maîtresses de la vie d'Hippolyte Combes : \\textbf{Toulouse}, ville de ses études universitaires et de la famille Crouzet, et \\textbf{Millau}, berceau natal des familles Combes, Alric, Calmels et Cartairade, où sera célébré son mariage avec Marguerite Calmels le 25 octobre 1917. La collation directe du manuscrit avec les archives familiales étaye plusieurs identifications des parents visités à Millau les 4 et 5 février 1917 : au 10, rue Alfred-Guibert, les parents de Marguerite (le \\textbf{D\\textsuperscript{r} Gabriel Calmels} et \\textbf{Valentine Cartairade}), son frère \\textbf{Pierre Calmels}, ses sœurs \\textbf{Madeleine Calmels} (épouse du \\textbf{D\\textsuperscript{r} Fernand Vincens}, mère de \\textbf{Germaine} et \\textbf{Robert Vincens}) et \\textbf{Anne-Marie dite « Mimi » Calmels} (1888–1975, future épouse de l'avoué \\textbf{Joseph Delcamps}), ainsi que son oncle et sa tante maternels \\textbf{M\\textsuperscript{e} Charles Layrals}, notaire à Millau, et \\textbf{Thérèse Cartairade} (f\\textsuperscript{o}~71~r\\textsuperscript{o}, l.~6 : \\texttt{visite à l'oncle \\& tante Thérèse (Layral)}).",
+      "replacements": [
+        {
+          "old": "permet d'identifier avec certitude tous les parents visités",
+          "new": "étaye plusieurs identifications des parents visités"
+        }
+      ],
+      "reason": "Conserver tous les liens familiaux récents documentés, sans prétendre que chaque désignation abrégée est intégralement identifiée avec certitude.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-139"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-141"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-142"
+        }
+      ]
+    },
+    {
+      "chapter_num": "VII",
+      "field": "intro",
+      "original": "Ce dernier trimestre du \\textit{Livre-Journal} offre un témoignage privilégié sur l'arrière-front de la Somme au moment du repli stratégique allemand vers la ligne Hindenburg (opération \\textit{Alberich}, février–mars 1917) et des offensives alliées d'avril 1917 (batailles d'Arras, de la Scarpe et de Bullecourt). Trois rencontres majeures illustrent la richesse prosopographique et historique de ces pages : le 13 mars 1917 au \\textbf{Mesnil-Martinsart} (f\\textsuperscript{o}~84~r\\textsuperscript{o}), la visite à l'instituteur \\textbf{Fortuné Flutre} et à son épouse, parents du philologue romaniste \\textbf{Louis-Fernand Flutre} (1892–1978, admis à l'École normale supérieure en 1914, agrégé en 1921 et auteur en 1955 des deux monographies de référence sur l'histoire et le parler picard du Mesnil-Martinsart ; R.~Debrie, \\textit{Revue de linguistique romane}, 42, 1978, p.~238–240) ; les 19–21 mars (f\\textsuperscript{o}~85~r\\textsuperscript{o}–v\\textsuperscript{o}), le passage de la \\textbf{63\\textsuperscript{e} Division (\\textit{Royal Naval Division})} et de la \\textbf{4\\textsuperscript{e} Division de cavalerie} (\\textit{Sialkot Cavalry Brigade}, unissant les \\textbf{17\\textsuperscript{e} Lanciers britanniques} \\textit{Death or Glory Boys} et les régiments de lanciers indiens) ; enfin, à partir du 13 avril (f\\textsuperscript{o}~89~v\\textsuperscript{o}), l'amitié intellectuelle nouée avec le \\textbf{sous-lieutenant Gilbert}, originaire de l'île anglo-normande de \\textbf{Jersey}, qui rend à Hippolyte Combes le goût des lettres et de la sérénité au seuil du printemps 1917.",
+      "proposed": "Ce dernier trimestre du \\textit{Livre-Journal} offre un témoignage privilégié sur l'arrière-front de la Somme au moment du repli stratégique allemand vers la ligne Hindenburg (opération \\textit{Alberich}, février–mars 1917) et des offensives alliées d'avril 1917 (batailles d'Arras, de la Scarpe et de Bullecourt). Trois rencontres majeures illustrent la richesse prosopographique et historique de ces pages : le 13 mars 1917 au \\textbf{Mesnil-Martinsart} (f\\textsuperscript{o}~84~r\\textsuperscript{o}), la visite à l'instituteur \\textbf{Fortuné Flutre} et à son épouse, parents du philologue romaniste \\textbf{Louis-Fernand Flutre} (1892–1978, admis à l'École normale supérieure en 1914, agrégé en 1921 et auteur en 1955 des deux monographies de référence sur l'histoire et le parler picard du Mesnil-Martinsart ; R.~Debrie, \\textit{Revue de linguistique romane}, 42, 1978, p.~238–240) ; les 19–21 mars (f\\textsuperscript{o}~85~r\\textsuperscript{o}–v\\textsuperscript{o}), le passage d'un officier de la \\textbf{63\\textsuperscript{e} Division (\\textit{Royal Naval Division})} et de cavaliers, dont les \\textbf{17th Lancers}, rapprochables de la \\textbf{4\\textsuperscript{e} Division de cavalerie} (\\textit{Sialkot Cavalry Brigade}, unissant les \\textbf{17\\textsuperscript{e} Lanciers britanniques} \\textit{Death or Glory Boys} et les régiments de lanciers indiens) ; enfin, à partir du 13 avril (f\\textsuperscript{o}~89~v\\textsuperscript{o}), l'amitié intellectuelle nouée avec le \\textbf{sous-lieutenant Gilbert}, originaire de l'île anglo-normande de \\textbf{Jersey}, qui rend à Hippolyte Combes le goût des lettres et de la sérénité au seuil du printemps 1917.",
+      "replacements": [
+        {
+          "old": "le passage de la \\textbf{63\\textsuperscript{e} Division (\\textit{Royal Naval Division})} et de la \\textbf{4\\textsuperscript{e} Division de cavalerie}",
+          "new": "le passage d'un officier de la \\textbf{63\\textsuperscript{e} Division (\\textit{Royal Naval Division})} et de cavaliers, dont les \\textbf{17th Lancers}, rapprochables de la \\textbf{4\\textsuperscript{e} Division de cavalerie}"
+        }
+      ],
+      "reason": "Un seul officier de la 63e est nommé : la présence de toute la division ne découle pas de son logement. Le rattachement des lanciers reste un contexte d'ordre de bataille à contrôler. Les dates ENS 1914/1921 de Flutre sont conservées.",
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-170"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-171"
+        }
+      ]
+    }
+  ],
+  "other_generator_substrings": [
+    {
+      "old": "\\textbf{Depuis août 1915 : service dans la 152\\textsuperscript{e} Compagnie A.S.C. de la 18\\textsuperscript{e} Division britannique.}",
+      "new": "\\textbf{Depuis août 1915 : service dans une compagnie A.S.C. de la 18\\textsuperscript{e} Division britannique ; la 152nd est nommée dans le carnet le 6 octobre 1916.}",
+      "reason": "La lettre de février ne donne pas le numéro de compagnie.",
+      "source_line": 922,
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-001"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-066"
+        },
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        }
+      ]
+    },
+    {
+      "old": "et chargée du ravitaillement de la \\textit{54th Brigade}",
+      "new": "dont le lien avec la \\textit{54th Brigade} rencontrée à Canaples n'est pas établi par la page ; Nichols place la 152nd auprès de la 55th Brigade à Thiepval (p.~110)",
+      "reason": "Confusion unité/lorries rencontrés.",
+      "source_line": 922,
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-001"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-066"
+        },
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        }
+      ]
+    },
+    {
+      "old": "(à partir d'août 1915), puis des services d'approvisionnement",
+      "new": "(numéro attesté dans le carnet à partir du 6 octobre 1916 ; service dans une compagnie A.S.C. attesté depuis août 1915), puis des services d'approvisionnement",
+      "reason": "Même rétroprojection dans la notice de carrière.",
+      "source_line": 1228,
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-001"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-066"
+        },
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        }
+      ]
+    },
+    {
+      "old": "Après sa première permission à Paris et Toulouse",
+      "new": "Après la première permission décrite dans ce carnet, à Paris et Toulouse",
+      "reason": "Ne pas en faire la toute première permission personnelle.",
+      "source_line": 923,
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-001"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-066"
+        },
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        }
+      ]
+    },
+    {
+      "old": "comme professeur d'anglais le 24 novembre 1918",
+      "new": "comme professeur d'anglais le 24 novembre 1918, selon la rubrique des services de sa fiche matricule",
+      "reason": "La source donne dirigé/affecté, pas un arrêté de nomination.",
+      "source_line": 519,
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-001"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-066"
+        },
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        }
+      ]
+    },
+    {
+      "old": "Les pièces d'état civil et la monographie familiale rédigée par son petit-fils",
+      "new": "Les pièces d'état civil et la monographie familiale rédigée par son petit-fils",
+      "reason": "Point à contrôler séparément : l'assimilation Sainte-Marie-des-Champs/Le Caousou n'est pas fondée par la seule page 054 ; ne pas supprimer les données biographiques documentées sans lire le dossier familial.",
+      "source_line": 903,
+      "evidence": [
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-001"
+        },
+        {
+          "source": "edition_philologique/apparat_critique_2026_10/base_edition.json#scan-066"
+        },
+        {
+          "source": "https://archive.org/download/18thdivision-greatwar/18thDivisionGreatWar.pdf"
+        }
+      ]
+    }
+  ],
+  "preserve": [
+    "Nouvelles généalogies et document 8 : ne pas revenir à une ancienne version.",
+    "Flutre ENS1914 / entrée1919 / agrégation1921 : dates sûres déjà corrigées par Argon.",
+    "La visite Faure du 27 janvier est distincte de la lettre du 26 novembre 1918. Le document 8 familial peut être conservé comme source de parenté, sans y trouver automatiquement adresse, présence ou situation militaire de janvier 1917."
+  ]
+}

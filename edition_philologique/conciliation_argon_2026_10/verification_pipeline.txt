@@ -1,0 +1,1 @@
+OK: 186 folios (Couverture + Folio 1 recto to Folio 93 recto); JSON/Markdown/TeX consistent; 186 facing PDF pairs across 424 pages; diplomatic layout, 3 bottom registers, 3 genealogical trees, 8 TikZ maps, and 2 Indexes verified; 0 Overfull boxes and 0 text overflows.

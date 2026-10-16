@@ -1,0 +1,339 @@
+{
+  "module": "/tmp/hc_argon_codex/reconciliation_20261016/edition_philologique/index_verifie.py",
+  "module_sha256": "892ac2a9145d82a61f2d2367f1f81f1b1d51923183d86a9aa34d354a634bc0ae",
+  "corpus_sha256": "ee6f62e8abba93bb16fbb196ad9d8ba5812a113b017de711a08bcf0e98f43d46",
+  "scans": 186,
+  "index_entries": 232,
+  "validated_textual_occurrences": 1828,
+  "documentary_occurrences": 253,
+  "checks": [
+    {
+      "check": "Madeleine Calmels ne peut citer Madeleine Fabre-Hugou arbre I",
+      "result": "rejected_as_expected",
+      "reason": "Index : identité documentaire non établie pour cette vedette."
+    },
+    {
+      "check": "Pierre Calmels ne peut citer Pierre Émile Alric arbre I",
+      "result": "rejected_as_expected",
+      "reason": "Index : identité documentaire non établie pour cette vedette."
+    },
+    {
+      "check": "Jean Crouzet ne peut citer Jean Combes arbre I",
+      "result": "rejected_as_expected",
+      "reason": "Index : identité documentaire non établie pour cette vedette."
+    },
+    {
+      "check": "Maria domestique ne peut citer Maria Combes",
+      "result": "rejected_as_expected",
+      "reason": "Index : identité documentaire non établie pour cette vedette."
+    },
+    {
+      "check": "Marie des étrennes ne peut citer Marie Bouquié",
+      "result": "rejected_as_expected",
+      "reason": "Index : identité documentaire non établie pour cette vedette."
+    },
+    {
+      "check": "Vincens Fernand/Germaine/Robert ne peuvent citer P. Vincens arbre I",
+      "result": "rejected_as_expected",
+      "reason": "Index : identité documentaire non établie pour cette vedette."
+    },
+    {
+      "check": "Vincens ne peut citer une Germaine isolée de l’arbre II",
+      "result": "rejected_as_expected",
+      "reason": "Index : identité documentaire non établie pour cette vedette."
+    },
+    {
+      "check": "Prénoms isolés et Saint-Germain/Germain/Germaine ne créent pas un renvoi documentaire Faure",
+      "result": "pass"
+    },
+    {
+      "check": "Même Fernand Vincens dans une source I est rejeté : seule la source généalogie II est admise",
+      "result": "pass"
+    },
+    {
+      "check": "Ligne 0 rejetée",
+      "result": "rejected_as_expected",
+      "reason": "Index : ligne hors texte."
+    },
+    {
+      "check": "Offset négatif rejeté",
+      "result": "rejected_as_expected",
+      "reason": "Index : lemme ou position absent de son texte."
+    },
+    {
+      "check": "Offset de fin erroné rejeté",
+      "result": "rejected_as_expected",
+      "reason": "Index : lemme ou position absent de son texte."
+    },
+    {
+      "check": "Lemme vide rejeté",
+      "result": "rejected_as_expected",
+      "reason": "Index : lemme ou position absent de son texte."
+    },
+    {
+      "check": "Vue absente rejetée",
+      "result": "rejected_as_expected",
+      "reason": "Index : vue source absente."
+    },
+    {
+      "check": "Réserve de lecture effacée rejetée",
+      "result": "rejected_as_expected",
+      "reason": "Index : réserve ou rature effacée."
+    },
+    {
+      "check": "Statut de rature effacé rejeté",
+      "result": "rejected_as_expected",
+      "reason": "Index : réserve ou rature effacée."
+    },
+    {
+      "check": "Offset documentaire erroné rejeté",
+      "result": "rejected_as_expected",
+      "reason": "Index : position documentaire ou lemme non attesté."
+    },
+    {
+      "check": "Référence documentaire changée rejetée",
+      "result": "rejected_as_expected",
+      "reason": "Index : référence documentaire différente de sa source."
+    },
+    {
+      "check": "Source documentaire absente rejetée",
+      "result": "rejected_as_expected",
+      "reason": "Index : source documentaire absente."
+    },
+    {
+      "check": "Marie domestique ne peut citer Ste Marie de 054",
+      "result": "rejected_as_expected",
+      "reason": "Index : identité textuelle non établie pour cette vedette."
+    },
+    {
+      "check": "Tous les ancrages du corpus courant et tous les documents sont validés",
+      "result": "pass"
+    }
+  ],
+  "targeted_entries": [
+    {
+      "headword": "Calmels, Madeleine (1882–1961, \\textit{Mad\\textsuperscript{ne}})",
+      "documents": [
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Madeleine Calmels",
+          "start": 1681,
+          "end": 1698,
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        }
+      ]
+    },
+    {
+      "headword": "Calmels, Pierre",
+      "documents": [
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Pierre Calmels",
+          "start": 2143,
+          "end": 2157,
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        }
+      ]
+    },
+    {
+      "headword": "Crouzet, Abbé Jean",
+      "documents": [
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Jean Crouzet",
+          "start": 1183,
+          "end": 1195,
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        },
+        {
+          "source_id": "carte:VI",
+          "lemma": "Jean Crouzet",
+          "start": 1159,
+          "end": 1171,
+          "reference": "Carte du chapitre VI (p.~\\pageref{carte:VI})"
+        }
+      ]
+    },
+    {
+      "headword": "Faure, M\\textsuperscript{me} \\& ses enfants (Marguerite, Germaine, Marcel, Henri, André)",
+      "documents": [
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Faure",
+          "start": 2725,
+          "end": 2730,
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        },
+        {
+          "source_id": "carte:VI",
+          "lemma": "Faure",
+          "start": 884,
+          "end": 889,
+          "reference": "Carte du chapitre VI (p.~\\pageref{carte:VI})"
+        }
+      ]
+    },
+    {
+      "headword": "Maria",
+      "documents": []
+    },
+    {
+      "headword": "Marie",
+      "documents": []
+    },
+    {
+      "headword": "Vincens, D\\textsuperscript{r} Fernand, Germaine \\& Robert",
+      "documents": [
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Fernand Vincens",
+          "start": 1783,
+          "end": 1798,
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        }
+      ]
+    },
+    {
+      "headword": "Marie-Antoine (P.)",
+      "documents": []
+    }
+  ],
+  "removed_documentary_references": [
+    {
+      "headword": "Calmels, Madeleine (1882–1961, \\textit{Mad\\textsuperscript{ne}})",
+      "removed": [
+        {
+          "source_id": "genealogie_combes",
+          "lemma": "Madeleine",
+          "reference": "Généalogie I (p.~\\pageref{genealogie:combes})"
+        },
+        {
+          "source_id": "biographie",
+          "lemma": "Madeleine",
+          "reference": "Prolégomènes (p.~\\pageref{proleg:biographie})"
+        }
+      ],
+      "kept": [
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Madeleine Calmels",
+          "start": 1681,
+          "end": 1698,
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        }
+      ]
+    },
+    {
+      "headword": "Calmels, Pierre",
+      "removed": [
+        {
+          "source_id": "genealogie_combes",
+          "lemma": "Pierre",
+          "reference": "Généalogie I (p.~\\pageref{genealogie:combes})"
+        },
+        {
+          "source_id": "biographie",
+          "lemma": "Pierre",
+          "reference": "Prolégomènes (p.~\\pageref{proleg:biographie})"
+        }
+      ],
+      "kept": [
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Pierre Calmels",
+          "start": 2143,
+          "end": 2157,
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        }
+      ]
+    },
+    {
+      "headword": "Crouzet, Abbé Jean",
+      "removed": [
+        {
+          "source_id": "genealogie_combes",
+          "lemma": "Jean",
+          "reference": "Généalogie I (p.~\\pageref{genealogie:combes})"
+        },
+        {
+          "source_id": "biographie",
+          "lemma": "Jean",
+          "reference": "Prolégomènes (p.~\\pageref{proleg:biographie})"
+        }
+      ],
+      "kept": [
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Jean Crouzet",
+          "start": 1183,
+          "end": 1195,
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        },
+        {
+          "source_id": "carte:VI",
+          "lemma": "Jean Crouzet",
+          "start": 1159,
+          "end": 1171,
+          "reference": "Carte du chapitre VI (p.~\\pageref{carte:VI})"
+        }
+      ]
+    },
+    {
+      "headword": "Maria",
+      "removed": [
+        {
+          "source_id": "genealogie_combes",
+          "lemma": "Maria",
+          "reference": "Généalogie I (p.~\\pageref{genealogie:combes})"
+        }
+      ],
+      "kept": []
+    },
+    {
+      "headword": "Marie",
+      "removed": [
+        {
+          "source_id": "genealogie_combes",
+          "lemma": "Marie",
+          "reference": "Généalogie I (p.~\\pageref{genealogie:combes})"
+        },
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Marie",
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        },
+        {
+          "source_id": "biographie",
+          "lemma": "Marie",
+          "reference": "Prolégomènes (p.~\\pageref{proleg:biographie})"
+        },
+        {
+          "source_id": "carte:III",
+          "lemma": "Marie",
+          "reference": "Carte du chapitre III (p.~\\pageref{carte:III})"
+        }
+      ],
+      "kept": []
+    },
+    {
+      "headword": "Vincens, D\\textsuperscript{r} Fernand, Germaine \\& Robert",
+      "removed": [
+        {
+          "source_id": "genealogie_combes",
+          "lemma": "Vincens",
+          "reference": "Généalogie I (p.~\\pageref{genealogie:combes})"
+        }
+      ],
+      "kept": [
+        {
+          "source_id": "genealogie_calmels",
+          "lemma": "Fernand Vincens",
+          "start": 1783,
+          "end": 1798,
+          "reference": "Généalogie II (p.~\\pageref{genealogie:calmels})"
+        }
+      ]
+    }
+  ],
+  "limits": "Le validateur garantit les identités documentaires ciblées et l’intégrité des positions. Les liens familiaux du catalogue et des arbres restent des informations éditoriales ; aucune nouvelle recherche biographique effectuée. Pour Faure, les prénoms isolés ne suffisent jamais à créer un renvoi documentaire ; le patronyme Faure est requis."
+}
