@@ -1,0 +1,104 @@
+cliche: 17
+confiance: moyenne
+changements:
+- ligne: 2
+  avant: tempérre
+  apres: tempér^{re}
+  justification: après l'accent, finale re liée en z sous un trait de tête, légèrement au-dessus des autres lettres ; forme suscrite attestée (117 l. 13)
+  confiance: moyenne
+- ligne: 4
+  avant: parages
+  apres: parages.
+  justification: point rond net sur la ligne de base à droite du délié final (x ≈ 0,91)
+  confiance: moyenne
+- ligne: 5
+  avant: 'mètres : 1'
+  apres: mètres 1
+  justification: 'aucun deux-points : le seul tracé entre mètres et 1 est une fibre roux clair du papier, de teinte différente de l''encre ; les autres points sont des mouchetures de 2–3 px'
+  confiance: moyenne
+- ligne: 6
+  avant: soldat, ⟦décapité [?]⟧. — ⟦bras emportés [?]⟧
+  apres: soldat, \del{\inc{décapité}}. \del{\inc{bras emportés}} \trait
+  justification: aucun tiret entre les deux biffures (la seconde commence par une haste) ; un trait double prolonge la seconde jusqu'au bord droit
+  confiance: moyenne
+- ligne: 8
+  avant: Barbry, bcp de dégâts. Obus
+  apres: Barbry bp de dégâts. Obus
+  justification: aucune virgule après Barbry ; b et p liés sans c (piège bcp)
+  confiance: haute
+- ligne: 9
+  avant: l'herbe —
+  apres: l'herbe –
+  justification: tiret court (environ 0,017 de la largeur)
+  confiance: moyenne
+- ligne: 11
+  avant: bombardt. Énervement &
+  apres: bombard^{t}. Enervement et
+  justification: 't final suscrit et barré ; E sans accent ; e puis t haut à longue barre : et en toutes lettres, non esperluette'
+  confiance: haute
+- ligne: 12
+  avant: malaise — Insécurité ⟦perpétuelle [?]⟧ continuelle
+  apres: malaise – Insécurité \sur{\inc{relative}}{perpétuelle}
+  justification: 'un seul emplacement : perpétuelle, plus haut et plus fin, chevauche un mot sur la ligne de base, non biffé ; ce mot montre r à boucle d''attaque, e, l, a fermé, t, minimes, e à long délié : relative ; aucun ll de continuelle'
+  confiance: moyenne
+- ligne: 13
+  avant: 'Oeufs : 50 + 0.05. — —'
+  apres: '\ind oeufs : 50 + 0.05. –'
+  justification: o initial au module d'une minuscule ; un seul tiret court terminé en crochet ; ligne en retrait (x ≈ 0,13)
+  confiance: moyenne
+- ligne: 17
+  avant: ouest d'Armentières.
+  apres: ouest d Armentières \trait
+  justification: aucune apostrophe après le d ; aucun point ; le délié final se prolonge en double trait ondulé
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: \del{\inc{décapité}}
+  analyse: boucles serrées d'encre noir bleuté sur tout le mot ; émergent un d initial, un point d'i, une haste de t et l'accent de la finale (zoom [0 .21 .55 .27] ×3) ; lecture compatible mais invérifiable
+  alternatives:
+  - décapité
+  - \ill
+- ligne: 6
+  lemme: \del{\inc{bras emportés}}
+  analyse: biffure en boucles sur x ≈ 0,57–0,85 ; émergent une haste initiale (b), un jambage descendant (p) et une haste (t) ; longueur compatible avec deux mots
+  alternatives:
+  - bras emportés
+  - \ill[2]
+- ligne: 12
+  lemme: \sur{\inc{relative}}{perpétuelle}
+  analyse: 'zoom [.68 .465 1 .535] ×4 : mot inférieur noir sur la ligne de base (r à boucle d''attaque, e, l, a fermé, t, minimes, e à long délié plat) ; mot supérieur plus fin, aux e plus bruns, dont les deux p descendent dans le mot inférieur ; aucun trait de biffure ; l''ordre des encres n''est pas assuré (substitution ou ajout interlinéaire)'
+  alternatives:
+  - \sur{\inc{relative}}{perpétuelle}
+  - \sur{\ill}{perpétuelle}
+  - \sur{\inc{continuelle}}{perpétuelle}
+- ligne: 8
+  lemme: Barbry
+  analyse: B bouclé, a, r, b, r, puis délié ondulé sans descente pour le y (zoom [0 .30 .28 .35] ×3)
+  alternatives:
+  - Barbry
+  - Barbre
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources : JMO 7/Bedf (9 août), Banks & Chell 1924 p. 142, SIRENE (Barbry, rue de la Lys), Mérimée PA59000059 ; Bac-Saint-Maur est dans le Pas-de-Calais (corrigé dans « lieux ») ; soldat atteint non identifié ; usine Mahieu : PA59000059 (R5) ou IA00062810 (R7), R5 retenu.'
+  alternatives: []
+controle:
+- ligne: 12
+  avant: malaise – Insécurité \sur{\ill}{perpétuelle}
+  apres: malaise – Insécurité \sur{\inc{relative}}{perpétuelle}
+  justification: 'zoom ×4 : le mot couvert montre r, e, l, a fermé, t, minimes, e à délié, ce qui donne relative (déjà proposée en p1) ; perpétuelle a un tracé plus fin et des e plus bruns, non une encre plus noire ; apparat et critique corrigés'
+- ligne: 0
+  avant: apparat de 33 entrées (ponctuation, accents, dispositions rendues par le balisage)
+  apres: apparat de 15 entrées
+  justification: 'notes de ponctuation, d''accent, de graphie banale (Enervement, d Armentières) et de disposition déjà rendues par \sl et \trait supprimées ; lieux : Bac-Saint-Maur placé dans le Pas-de-Calais ; critique réduite à deux phrases'
+remarques: 'Ponctuation relue signe par signe en première lecture (points de parages et de dégâts ; fibre roux après mètres). Le lieu est déduit des pages voisines (015–018 : Bac-Saint-Maur, bords de la Lys). « très » (l. 16) est réduit à t + r + accent + délié, forme habituelle.'
+resume: Le vendredi 11 août 1916, la chaleur caniculaire reprend. L'après-midi, de 2 à 3 heures, 40 ou 50 obus tombent autour du cantonnement ; dans la maison du coin, à 50 mètres, un soldat est atteint (les mots décapité et bras emportés sont biffés). La grande blanchisserie Barbry subit beaucoup de dégâts et des obus non éclatés restent sur l'herbe. Combes descend à la cave pendant le bombardement et note son énervement, son malaise et une insécurité perpétuelle (mot écrit sur relative). Il inscrit 55 c d'œufs, puis note qu'il est question d'un nouveau départ dimanche et décrit une grande chambre à haute fenêtre, avec une vue étendue sur la campagne à l'ouest d'Armentières.
+noms:
+  personnes:
+  - forme: Barbry
+    ligne: 8
+    identite: propriétaire de la grande blanchisserie voisine (cf. 022 l. 2 ; M. Barbry, 023 l. 6)
+  lieux:
+  - forme: Armentières
+    ligne: 17
+    identite: Armentières (Nord)
+source: contrôle

@@ -1,0 +1,155 @@
+cliche: 167
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Dim. 11 (fin) \hfill Mars 1917
+  apres: D\sl{im. 11 (}Fin) \hfill Mar\sl{s 191}7
+  justification: F majuscule à barre de tête ; deux soulignements décalés mesurés sur le zoom (x .13–.31 et .76–.865).
+  confiance: moyenne
+- ligne: 3
+  avant: à rêverie & étude —
+  apres: à reverie & étude \trait
+  justification: aucun circonflexe sur rêverie ; le trait part sans levée de plume du e final.
+  confiance: moyenne
+- ligne: 5
+  avant: Après-midi, averses & brume.
+  apres: après-midi, averses & brume \trait
+  justification: a initial au module de la minuscule ; pas de point, délié final prolongé (x .62–.73) comme après « étude ».
+  confiance: moyenne
+- ligne: 6
+  avant: '[ A Hérissart, tommy m''a porté sacs : 50 c. ]'
+  apres: '[A Herissart, tommy \inc{aidé} \inc{porter} sacs : 50c'
+  justification: 'pas d''accent sur Herissart ; crochet ouvrant seul ; 50c sans point ; le mot après tommy (x .485–.58) = u ouvert (a) + i pointé + d à haste bouclée + e, puis accent détaché : aidé, et non m''a.'
+  confiance: moyenne
+- ligne: 7
+  avant: Lundi 12 — Levé 7h m. — Très bonne nuit.
+  apres: L\sl{undi} 12 — Levé 7^{h} m. — très bonne nuit.
+  justification: h nettement suscrit ; trait fin sous « undi » ; t initial bouclé sans barre de tête (cf. T de « Tout », l. 9).
+  confiance: moyenne
+- ligne: 11
+  avant: Matinée, courses à Toutencourt, Contay, Beaumont &
+  apres: \ind Matinée. courses, à \add{Toutencourt,} Contay, \inc{Beaucourt} &
+  justification: point rond après Matinée ; virgule après courses ; Toutencourt écrit au-dessus de la ligne ; après « Beau » un c puis o, deux jambages, petit r, t barré.
+  confiance: moyenne
+- ligne: 12
+  avant: Wolseley
+  apres: \inc{Wolsey}
+  justification: 'après le W : haute boucle (l), s, e, y ; pas de second e-l.'
+  confiance: moyenne
+- ligne: 13
+  avant: que la Vauxhall
+  apres: que le Vauxhall
+  justification: l bouclé suivi d'un e bouclé, aucune panse d'a.
+  confiance: haute
+- ligne: 14
+  avant: de Jimmie.
+  apres: de \inc{Jessie}.
+  justification: après le J, deux hautes boucles montantes, puis i pointé et e ; aucun jambage de m.
+  confiance: moyenne
+- ligne: 16
+  avant: Raincheval, Candas.
+  apres: Raincheval Candas.
+  justification: aucune virgule entre les deux noms.
+  confiance: moyenne
+- ligne: 17
+  avant: '[ Toutencourt : Exp. F. Canteen : 2 tins of'
+  apres: '\crochet{2}Toutencourt : Exp. F. Canteen : 2 tins of'
+  justification: grand crochet couvrant les deux lignes du compte.
+  confiance: haute
+- ligne: 18
+  avant: 'Calvert''s Tooth Powder : 1 f. 75 c. ]'
+  apres: 'Calvert''s Tooth Powder : 1^{f} 75c'
+  justification: f monétaire surélevé, sans point ; pas de crochet fermant.
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: favorables
+  analyse: 'mot serré contre le bord droit : f à longue descente, a, v, o, haute boucle (b ou l) et délié final ; aucune finale -les distincte.'
+  alternatives:
+  - favorable
+- ligne: 6
+  lemme: \inc{aidé} \inc{porter}
+  analyse: 'zoom [.46 .245 .62 .30] : deux jambages en u (a ouvert), un jambage surmonté d''un point (i), panse + haste bouclée haute (d), e à délié, puis court tiret détaché (accent). Pas de m à trois jambages ni d''apostrophe. « porter » : p, o, r, t barré, e à délié remontant (r final réduit) ; la barre au-dessus de « te » est celle du t. Style télégraphique (cf. « nouvelle maison » sans article).'
+  alternatives:
+  - m'a porté
+  - aide porte
+- ligne: 7
+  lemme: L\sl{undi}
+  analyse: trait très fin, plus clair, sous « undi » (x .07–.17, y .397), entre la date et « Achevé » ; plutôt soulignement que délié.
+  alternatives:
+  - Lundi (sans soulignement)
+- ligne: 11
+  lemme: Beaucourt
+  analyse: 'zoom [.56 .475 .86 .53] : B (ℓo), e, a, u, puis un c en crochet suivi d''un o, deux jambages, petit tracé (r), t barré. « Beaumont » demanderait trois jambages d''m puis o, n. Contexte : Beaucourt-sur-l''Hallue jouxte Contay et Molliens-au-Bois ; Beaumont-Hamel, sur l''ancien front, est hors de la tournée.'
+  alternatives:
+  - Beaumont
+- ligne: 12
+  lemme: Wolsey
+  analyse: W à deux jambages, haute boucle (l, ou o + l liés), s, e, y à descente vers la gauche ; graphie abrégée ou fautive de Wolseley.
+  alternatives:
+  - Wolseley
+  - Wlsey
+- ligne: 14
+  lemme: Jessie
+  analyse: J à grande boucle inférieure ; deux hastes bouclées hautes jointes (ss en aspect ll) ; point d'i ; e final en délié. Jimmie demanderait six jambages bas.
+  alternatives:
+  - Jimmie
+  - Jellie
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Beaumont revu sur l''image (voir l. 11) : la lecture Beaucourt est retenue sous \inc, ce qui lève l''invraisemblance géographique ; Jessie reste incertain ; la Vauxhall n''est nommée qu''ici dans les transcriptions.'
+  alternatives: []
+controle:
+- ligne: 5
+  avant: après-midi, averses & brume
+  apres: après-midi, averses & brume \trait
+  justification: délié final prolongé jusqu'à x ≈ .73, identique à celui d'« étude » (l. 3), balisé de même.
+- ligne: 6
+  avant: tommy m'a porté sacs
+  apres: tommy \inc{aidé} \inc{porter} sacs
+  justification: zoom ×3 [.46 .245 .62 .30] ; u ouvert + i pointé + d bouclé + e + accent détaché ; aucun m ni apostrophe.
+- ligne: 7
+  avant: — Très bonne nuit.
+  apres: — très bonne nuit.
+  justification: t initial bouclé au module des hastes, sans barre de tête (le T de « Tout » l. 9 en a une).
+- ligne: 11
+  avant: Contay, Beaumont &
+  apres: Contay, \inc{Beaucourt} &
+  justification: zoom ×3 [.56 .475 .86 .53] ; c + o après « Beau- », non m ; cohérence de l'itinéraire (vallée de l'Hallue).
+- ligne: 1
+  avant: 'apparat : note de disposition sur les soulignements ; l. 6 note graphie « Herissart »'
+  apres: notes supprimées
+  justification: le balisage rend les soulignements ; accent absent sans risque de méprise.
+remarques: 'Lexique à corriger : « Jimmie (167) » devient « Jessie [?] » ; « Beaumont (167) » devient « Beaucourt [?] » (Beaucourt-sur-l''Hallue) ; l. 6 « m''a porté » devient « aidé porter ».'
+resume: 'Fin du dimanche 11 mars 1917 : la nouvelle chambre, à deux fenêtres, est calme et propice à la rêverie et à l''étude ; matinée printanière, après-midi d''averses ; à Hérissart, un tommy l''a aidé à porter ses sacs (50 c). Lundi 12, levé à 7 h après une très bonne nuit, Hippolyte Combes achève de s''installer. Temps brumeux et pluie fine. Le matin, tournée à Toutencourt, Contay, Beaucourt (?) et Molliens-au-Bois dans une auto Wolseley conduite par un Australien, moins confortable que la Vauxhall de Jessie (?) ; l''après-midi, Puchevillers, Raincheval et Candas. Achat de poudre dentifrice Calvert''s à la cantine de Toutencourt.'
+noms:
+  personnes:
+  - forme: Jessie
+    ligne: 14
+    identite: propriétaire ou conducteur de la Vauxhall, non identifié (lu Jimmie auparavant)
+  lieux:
+  - forme: Herissart
+    ligne: 6
+    identite: Hérissart (Somme)
+  - forme: Toutencourt
+    ligne: 11
+    identite: Toutencourt (Somme)
+  - forme: Contay
+    ligne: 11
+    identite: Contay (Somme)
+  - forme: Beaucourt
+    ligne: 11
+    identite: Beaucourt-sur-l'Hallue (Somme), lecture incertaine (Beaumont auparavant)
+  - forme: Molliens-au-Bois
+    ligne: 12
+    identite: Molliens-au-Bois (Somme)
+  - forme: Puchevillers
+    ligne: 15
+    identite: Puchevillers (Somme)
+  - forme: Raincheval
+    ligne: 16
+    identite: Raincheval (Somme)
+  - forme: Candas
+    ligne: 16
+    identite: Candas (Somme)
+source: contrôle

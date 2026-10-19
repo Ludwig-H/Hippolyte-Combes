@@ -1,0 +1,166 @@
+cliche: 128
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 26 Vendredi — \hfill Janvier /17
+  apres: \sl{26 Vendredi} – \hfill \sl{Janvier /17}
+  justification: date et mois soulignés ; tiret court non souligné
+  confiance: haute
+- ligne: 2
+  avant: Levé 8h 30 m.
+  apres: \ind Levé 8^{H}30 m
+  justification: H suscrit, ligne en retrait, aucun point final
+  confiance: moyenne
+- ligne: 3
+  avant: Nuit extt froide, gelé très fort. 1/2 jour, soleil
+  apres: nuit extt froide, gelé très fort. \fr{1}{2} jour, soleil
+  justification: n initial minuscule ; demi empilé (1 sur 2)
+  confiance: haute
+- ligne: 4
+  avant: brillé et très vif éclat.
+  apres: brillé et très vif eclat
+  justification: aucun accent ni point visibles ; la barre du t se prolonge
+  confiance: moyenne
+- ligne: 7
+  avant: qui fait service poste.
+  apres: qui \inc{fait} service poste \trait
+  justification: mot noyé d'encre ; poste suivi d'un long trait de remplissage, sans point
+  confiance: moyenne
+- ligne: 8
+  avant: Après déjeuner, venu à pied station, vers 2h.
+  apres: \ind après déjeun, venu à pied station, vers 2^{H}
+  justification: a initial au module d'une minuscule ; mot arrêté à n avec délié prolongé ; H suscrit ; ligne en retrait
+  confiance: haute
+- ligne: 9
+  avant: 'Attendu patiemment départ train — installé 2e cl. [addition interlinéaire : compartiment]'
+  apres: Attendu patiemment départ train – installé 2 cl. \add{\inc{en} compartiment}
+  justification: le crochet après installé est l'accent décalé, aucun e suscrit après le 2 ; ajout précédé d'un mot court en ou un
+  confiance: moyenne
+- ligne: 12
+  avant: dont les particules, comme des grains de diamant,
+  apres: dont les particules, cme des grains de diam
+  justification: c + trait + e ; diam s'arrête au m plongeant, sans virgule
+  confiance: haute
+- ligne: 13
+  avant: étincellent sous les rayons solaires.
+  apres: etincellent sous les rayons solaires
+  justification: aucun accent, aucun point
+  confiance: moyenne
+- ligne: 16
+  avant: 1 interprète, monté compartt. Entré en
+  apres: \ind 1 interp^{te}, monté compart^{t}. Entré en
+  justification: te nettement suscrit après interp ; t final haut
+  confiance: haute
+- ligne: 17
+  avant: conversn & échangé nos impressions & jugements
+  apres: Conver^{\inc{it}}. echangé nos impressions & jugements
+  justification: C majuscule, finale suscrite (i pointé) suivie d'un point, aucun & entre les deux mots
+  confiance: moyenne
+- ligne: 18
+  avant: sur les English.
+  apres: \ind sur les English.
+  justification: léger retrait ; point net après English
+  confiance: haute
+- ligne: 19
+  avant: Enfin, train démarré après 3h s.
+  apres: \ind Enfin, train démarré après 3^{H} s. –
+  justification: H suscrit, s. réduit à un trait, tiret final
+  confiance: haute
+- ligne: 20
+  avant: A Gézaincourt, à 4h 30.
+  apres: A Gezaincourt, a 4^{H}30
+  justification: ni accent sur e ni sur a ; heure ajoutée d'une encre plus claire
+  confiance: moyenne
+- ligne: 21
+  avant: Là, dû attendre correspce, ds salle surchauffée,
+  apres: Là, dû attendre correspce, ds salle surchauff
+  justification: le mot s'arrête aux deux f au bord de la page ; le tracé au-dessous appartient à la l. 22
+  confiance: moyenne
+- ligne: 22
+  avant: au 1/2 de voyrs, soldats permissionnaires ou paysans, foule
+  apres: au \fr{1}{2} de voy^{rs}, soldats permiss^{re} ou paysans, \inc{foule}
+  justification: demi empilé ; finales suscrites ; dernier mot compressé
+  confiance: moyenne
+- ligne: 23
+  avant: très bruyante. Train de Doullens, 3 h. de
+  apres: très bruyante. Train de Doullens, 3^{H} de
+  justification: H suscrit au-dessus du 3
+  confiance: haute
+- ligne: 24
+  avant: retard. Quitté Gézaincourt, à 10h 30 s.
+  apres: retard. Quitté Gezaincourt, à 10^{H}30. s.
+  justification: H suscrit ; point entre 30 et s. ; accent sur à ; pas d'accent sur le e
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: 8^{H}30
+  analyse: après le H suscrit, un trait descendant en J (3 réduit ou second jambage du H prolongé) puis 0 ; le 3 n'est pas assuré
+  alternatives:
+  - 8^{H}20
+- ligne: 7
+  lemme: \inc{fait}
+  analyse: f à tête appuyée et pâté, puis minimes, haste haute et délié final ; a et i noyés
+  alternatives:
+  - faisait
+  - fait le
+- ligne: 9
+  lemme: \inc{en}
+  analyse: petit trait isolé puis deux minimes avant compartiment, écrit sous installé 2 cl.
+  alternatives:
+  - un
+- ligne: 17
+  lemme: Conver^{\inc{it}}
+  analyse: C-o-n-v-e-r sur la ligne ; suscrit i à point net, puis un trait recouvert par le jambage du p de interp^{te} (l. 16) ; point final
+  alternatives:
+  - Conver^{at}
+  - Conver^{i}
+- ligne: 20
+  lemme: 4^{H}30
+  analyse: chiffre ouvert à haste et petite boucle (4 en h), H en haste traversée, 3 en ʒ, 0 ; encre plus pâle
+  alternatives:
+  - 5^{H}30
+- ligne: 22
+  lemme: \inc{foule}
+  analyse: après la virgule, haste haute montant parallèle aux ff de surchauff, petite boucle et finale plongeante vers la l. 23
+  alternatives:
+  - -ée de surchauffée rejeté sous la ligne
+- ligne: 22
+  lemme: permiss^{re}
+  analyse: permiss suivi d'un long délié et d'une petite boucle suscrite surmontée d'un point
+  alternatives:
+  - permiss^{e}
+controle:
+- ligne: 8
+  avant: \ind Après déjeun, venu à pied station, vers 2^{H}
+  apres: \ind après déjeun, venu à pied station, vers 2^{H}
+  justification: a initial au module d'une minuscule, sans pointe ni agrandissement (comparer Attendu, l. 9)
+- ligne: 17
+  avant: Conver^{\inc{at}}.
+  apres: Conver^{\inc{it}}.
+  justification: le suscrit porte un point net au-dessus d'une minime (i) ; la lettre suivante est masquée par le jambage du p de la l. 16
+- ligne: 18
+  avant: \ind sur les English
+  apres: \ind sur les English.
+  justification: point rond net après English (zoom ×2)
+- ligne: 8
+  avant: (pas de note)
+  apres: 'apparat : 2^{H} = deux heures'
+  justification: abréviation horaire non relevée ; notes épurées des descriptions de tracé (l. 2, 7, 19, 22)
+remarques: 'Début du voyage de permission vers Toulouse (suite cliché 129 : arrivée à Amiens vers 2 h du matin). La gare de départ n''est pas nommée : sans doute Acheux (ou Acheux-Varennes), d''où le soleil frappe les vitres « du côté de Varennes ».'
+resume: Nuit très froide, forte gelée, soleil vif. Hippolyte Combes achève ses bagages, fait porter deux sacs à la gare par la voiture de la poste, puis gagne à pied la gare vers 2 h et s'installe en seconde classe. Il décrit la neige durcie scintillant au soleil et la buée de l'horizon, et converse avec un interprète sur les Anglais. Le train part après 3 h ; à Gézaincourt il attend la correspondance dans une salle surchauffée et bruyante ; le train de Doullens a trois heures de retard et il ne repart qu'à 10 h 30 du soir.
+noms:
+  personnes: []
+  lieux:
+  - forme: Varennes
+    ligne: 10
+    identite: Varennes (Somme), sur la ligne métrique Albert–Doullens
+  - forme: Gezaincourt
+    ligne: 20
+    identite: Gézaincourt (Somme)
+  - forme: Doullens
+    ligne: 23
+    identite: Doullens (Somme)
+  - forme: Gezaincourt
+    ligne: 24
+    identite: Gézaincourt (Somme)
+source: contrôle

@@ -1,0 +1,97 @@
+cliche: 64
+fichier: 20251126_103554.jpg
+date: Mercredi 4 octobre 1916 (soir et nuit) ; comptes du 4 octobre, notés le 5
+mois: Octobre 1916
+lieux: Toulouse (Haute-Garonne) ; Paris
+titre: Adieux à Marguerite, nuit en train vers Paris ; comptes du 4 octobre (billet, bain)
+transcription: |
+  Mt & moi, tres – \hfill \sl{Mer. 4} \hfill \sl{Oct 16}
+  émus. – .
+  Train, demarré vers 8^{H} s \trait
+  Voyage – toute la nuit – n'ai pu
+  m'assoupir 1 peu que sur le
+  matin.
+  \blanc{8}
+  \filet
+  Hier 2 images de S^{te} Thérèse. — : 40 c
+  & Fleurs pour Mte : 1 70
+  — Trams : 20, 10, 30 c
+  \ind Billet 3^{e} cl. p. Orsay : 11 75
+  \ind Bain, aux Thermes — : 90 + 10c
+  \ind Etrenne à Maria, bonne des
+  \ind[2] Crouzet : 5^{f} —
+apparat:
+- ligne: 1
+  lemme: Mt
+  type: abreviation
+  note: Marguerite (Calmels)
+- ligne: 1
+  lemme: Mt &
+  type: lecture
+  note: aucun e distinct avant l'esperluette ; lecture antérieure Mte, possible si l'e est fondu dans la boucle
+- ligne: 1
+  lemme: Mer. 4
+  type: abreviation
+  note: mercredi 4
+- ligne: 1
+  lemme: Oct 16
+  type: abreviation
+  note: octobre 1916
+- ligne: 3
+  lemme: 8^{H} s
+  type: abreviation
+  note: 8 heures du soir
+- ligne: 5
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 7
+  lemme: S^{te}
+  type: abreviation
+  note: Sainte
+- ligne: 7
+  lemme: 40 c
+  type: abreviation
+  note: 40 centimes
+- ligne: 8
+  lemme: Mte
+  type: abreviation
+  note: Marguerite
+- ligne: 8
+  lemme: 1 70
+  type: lecture
+  note: 1 franc 70 ; le crochet lu f suscrit est la tête du 7
+- ligne: 9
+  lemme: 30 c
+  type: abreviation
+  note: centimes
+- ligne: 10
+  lemme: 3^{e} cl.
+  type: abreviation
+  note: troisième classe
+- ligne: 10
+  lemme: p.
+  type: abreviation
+  note: pour
+- ligne: 10
+  lemme: 11 75
+  type: lecture
+  note: 11 francs 75 ; aucun f, le crochet est la tête du 7 et le 5 est à longue haste (lecture antérieure 11 f 75)
+- ligne: 11
+  lemme: 10c
+  type: abreviation
+  note: 10 centimes
+- ligne: 12
+  lemme: Maria
+  type: ajout
+  note: d'une encre pâle et d'une plume fine, au-dessus d'un trait foncé ; nom sans doute ajouté dans une place réservée
+- ligne: 13
+  lemme: 5^{f}
+  type: abreviation
+  note: 5 francs
+critique: 'Le feuillet a été photographié verso d''abord : cette page (f.~32 r\textsuperscript{o}) continue la dernière phrase du f.~31 v\textsuperscript{o} et précède le f.~32 v\textsuperscript{o}. Le récit s''arrête après six lignes et un blanc ; sous le filet, les comptes, à la même encre violette, sont introduits par « Hier » et portent sur le 4 octobre (bain aux Thermes, passage à la gare : f.~31 v\textsuperscript{o}), ce qui les date du 5.'
+historique: |
+  Le billet de 3\textsuperscript{e} classe pour Orsay, où le train arrive le 5 au matin (voir f.~32 v\textsuperscript{o}), coûte moins que celui de 2\textsuperscript{e} classe pris à l'aller, 15~F~15 au quart de place (voir f.~27 r\textsuperscript{o}) : sans doute est-il au même tarif, dû aux militaires en permission par les cahiers des charges des compagnies (Lafon 1922, p.~37). Le bain aux Thermes du Languedoc coûte 90~c, comme le 27 septembre (voir f.~27 v\textsuperscript{o}). Les « images de S\textsuperscript{te} Thérèse » sont peut-être celles de sœur Thérèse de l'Enfant-Jésus, carmélite de Lisieux, béatifiée seulement en 1923, dont médailles et gravures circulent alors parmi les soldats : un sergent en distribue à ses camarades en octobre 1916 (Archives du Carmel de Lisieux) ; il peut aussi s'agir de Thérèse d'Ávila, fêtée le 15 octobre. L'une et l'autre renvoient au Carmel, où Françoise, sœur aînée de Combes, est religieuse à Périgueux (tradition familiale). Les 5~F donnés à Maria, bonne des Crouzet (voir f.~31 v\textsuperscript{o}), égalent la gratification remise au \textit{headcook} de la compagnie (voir f.~3 v\textsuperscript{o}).
+sources:
+- Lafon, G., Les Chemins de fer français pendant la guerre, thèse de droit, Paris, A. Rousseau, 1922, p. 37.
+- Archives du Carmel de Lisieux, « Supplique des soldats envoyée au pape pour la béatification de Thérèse », archives.carmeldelisieux.fr, consulté le 18 oct. 2026.

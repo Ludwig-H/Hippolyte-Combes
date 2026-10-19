@@ -1,0 +1,109 @@
+cliche: 84
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Lundi 23 \hfill Oct. /16 / Levé très tard.
+  apres: \sl{Lundi 23} Levé très tard. \hfill \sl{oct. /16}
+  justification: « Levé très tard. » est écrit sur la ligne de date, entre le quantième et le mois ; « oct. » à initiale minuscule, avec point ; date et mois soulignés ; « très » réduit à la forme « hu » surmontée d'un trait
+  confiance: haute
+- ligne: 4
+  avant: off.
+  apres: offs.
+  justification: après ff, petit crochet final (s réduit), puis point en trait et virgule
+  confiance: moyenne
+- ligne: 6
+  avant: jusqu'à
+  apres: jusq à
+  justification: j-u-s-q puis simple délié horizontal ; ni u distinct ni apostrophe
+  confiance: moyenne
+- ligne: 6
+  avant: bivouac.
+  apres: bivouac
+  justification: aucun point après le c final
+  confiance: haute
+- ligne: 7
+  avant: sortes.
+  apres: sortes
+  justification: la barre du t se prolonge ; aucun point
+  confiance: moyenne
+- ligne: 8
+  avant: dug-outs.
+  apres: dug-out.
+  justification: zoom ×3 [.48 .325 .99 .375] ; après o-u, un seul t à haste haute et barre longue, sans le nœud du ts visible dans « dépôts » (l. 7) ; puis point rond
+  confiance: moyenne
+- ligne: 9
+  avant: aménagés.
+  apres: aménagés
+  justification: aucun point visible
+  confiance: moyenne
+- ligne: 10
+  avant: Énorme cratère s/ la droite.
+  apres: Immense cratère s/ la droite
+  justification: initiale I à long fût descendant, minimes de m, mm écrasés en trait horizontal, puis e-n-s-e (s descendant) à long délié ; aucun r ni o ; pas de point
+  confiance: moyenne
+- ligne: 11
+  avant: — —
+  apres: – –
+  justification: deux tirets courts, le second plus épais
+  confiance: moyenne
+- ligne: 12
+  avant: '[ — Cartes ples d''Albert : 70 c. ]'
+  apres: '— Cartes ples d''Albert : 70c.'
+  justification: aucun crochet ; tiret long en tête ; 70c accolés, point final
+  confiance: haute
+difficultes:
+- ligne: 4
+  lemme: offs.
+  analyse: o-f-f puis petite boucle montante (s réduit en crochet, ou e) ; point en court trait à mi-hauteur, puis virgule verticale
+  alternatives:
+  - off.
+  - offe
+- ligne: 4
+  lemme: avec
+  analyse: 'a fermé, v à deux minimes, e réduit, délié final : quatre éléments, d''où avec plutôt que av'
+  alternatives:
+  - av
+- ligne: 8
+  lemme: dug-out
+  analyse: o ouvert, u, t à haste haute et barre prolongée jusqu'au point ; aucun s final ni nœud de ts
+  alternatives:
+  - dug-outs
+- ligne: 10
+  lemme: Immense
+  analyse: grand I descendant sous la ligne, deux minimes, long trait horizontal (mm écrasés), e bouclé, n, s descendant, e final prolongé en long délié
+  alternatives:
+  - Fameuse
+- ligne: 12
+  lemme: ples
+  analyse: 'p à longue haste, l bouclé, es à hauteur d''œil : surélévation non nette, laissé à la ligne'
+  alternatives:
+  - p^{les}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Clé « lieux » corrigée en « La Boisselle, commune d''Ovillers-la-Boisselle (Somme) » (appliqué). « Immense » confirmé sur zoom. La lecture « sept cartes » pour 70 c n''a pas d''appui dans le texte : non retenue.'
+  alternatives: []
+controle:
+- ligne: 8
+  avant: Visité longuement german dug-outs. Ces
+  apres: Visité longuement german dug-out. Ces
+  justification: un seul t sans nœud de s final (comparer « dépôts », l. 7) ; « Ces abris » au pluriel n'impose pas le pluriel de l'anglais
+- ligne: 0
+  avant: 'lieux: Albert ; La Boisselle (Somme)'
+  apres: 'lieux: Albert ; La Boisselle, commune d''Ovillers-la-Boisselle (Somme)'
+  justification: remarque du commentateur historique
+- ligne: 6
+  avant: 'note: jusqu''(à) : q suivi d''un simple délié, sans apostrophe'
+  apres: 'note: jusqu'''
+  justification: apparat épuré (justification paléographique renvoyée aux changements)
+remarques: Le cratère « sur la droite » est vraisemblablement celui de Lochnagar (mine du 1er juillet 1916). Tuiles de la rangée 5 vides (grand blanc).
+resume: 'Lundi 23 octobre 1916, à Albert : levé très tard ; journée brumeuse mais moins froide. L''après-midi, Hippolyte Combes va en camion à La Boisselle avec deux de ses officiers. Autour d''Albert et jusqu''à l''horizon, troupes au bivouac, tentes innombrables et dépôts de toutes sortes. Il visite longuement un abri souterrain allemand, très habilement aménagé, et voit un immense cratère sur la droite ; impression funèbre de désolation. Seule dépense : cartes postales d''Albert, 70 c.'
+noms:
+  personnes: []
+  lieux:
+  - forme: La Boisselle
+    ligne: 5
+    identite: La Boisselle, commune d'Ovillers-la-Boisselle (Somme), ancien front de juillet 1916, grand cratère de mine (Lochnagar)
+  - forme: Albert
+    ligne: 5
+    identite: Albert (Somme)
+source: contrôle

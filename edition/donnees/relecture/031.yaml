@@ -1,0 +1,109 @@
+cliche: 31
+confiance: haute
+changements:
+- ligne: 1
+  avant: 30 Me \hfill Août 1916
+  apres: \sl{30 Me} \hfill Aout \sl{1916}
+  justification: Trait appuyé sous « 30 Me » ; second trait sous 1916 ; aucun circonflexe sur Aout (seule la barre du t).
+  confiance: haute
+- ligne: 2
+  avant: Tout le jour, pluie. et rafales
+  apres: \ind Tout le jour, pluie . et rafales
+  justification: Ligne en retrait ; point isolé détaché de « pluie » ; le petit trait suivant est l'attaque du e de « et ».
+  confiance: moyenne
+- ligne: 4
+  avant: côté
+  apres: coté
+  justification: o sans circonflexe (la barre au-dessus est celle du t) ; accent aigu décalé au-dessus de « de ».
+  confiance: haute
+- ligne: 7
+  avant: Matin & après-midi
+  apres: \ind Matin & après-midi
+  justification: Alinéa net (attaque de M à 0,07 de la largeur).
+  confiance: haute
+- ligne: 8
+  avant: détrempés
+  apres: detrempés
+  justification: Aucun accent sur le premier e (le trait au-dessus est la barre du t) ; accent final décalé sur le s.
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: \sl{1916}
+  analyse: 'Le trait sous 1916 (x ≈ .68–.90, y ≈ .065) part exactement du sommet du t de « et » (l. 2) et finit en crosse relevée sous le 6. Lecture retenue : soulignement du millésime (crosse typique des en-têtes ; le t de « et » n''a pas d''autre barre, il a pu s''y raccorder). Autre lecture : barre du t de « et » démesurément prolongée, 1916 non souligné.'
+  alternatives:
+  - Aout 1916
+- ligne: 2
+  lemme: pluie . et
+  analyse: 'Zoom ×3 : après « pluie », petit trait épais isolé (point), puis trait plus long descendant vers la droite (x ≈ .645–.665) qui touche l''attaque du e de « et ». Lecture retenue : attaque du e ; un tiret indépendant n''est pas exclu.'
+  alternatives:
+  - pluie . – et
+- ligne: 3
+  lemme: tourmente
+  analyse: Le tiret à point d'attaque, à droite de la finale, est la barre du dernier t (aucune autre barre pour ce t), décalée selon l'habitude ; le verbe au présent convient au sens.
+  alternatives:
+  - tourmenté
+- ligne: 3
+  lemme: grands
+  analyse: g-r-a-n-d puis petit crochet final ; s réduit, non e.
+  alternatives:
+  - grande
+- ligne: 3
+  lemme: arbres
+  analyse: a-r-b(aspect h)-r-e puis petit crochet final ; s réduit au crochet, peu marqué.
+  alternatives:
+  - arbre
+- ligne: 5
+  lemme: derrière
+  analyse: d-e-r-r-i-e sous un trait (accent et point), puis r terminé en délié pouvant valoir -e.
+  alternatives:
+  - derrier
+- ligne: 5
+  lemme: fermes
+  analyse: f à longue haste, e-r-m écrasés, puis finale plongeante en ʒ (s final) ; le e devant le s est absorbé.
+  alternatives:
+  - ferme
+- ligne: 6
+  lemme: effrayant
+  analyse: 'La barre du t final est prolongée loin à droite (jusqu''à 0,64 de la largeur) ; elle croise la haste du t : barre et non trait de remplissage.'
+  alternatives: []
+- ligne: 7
+  lemme: dépit
+  analyse: Petit trait au-dessus de l'attaque du p (x ≈ .72, y ≈ .275) — accent du é décalé à droite ou attaque haute du p ; leçon antérieure maintenue.
+  alternatives:
+  - depit
+- ligne: 7
+  lemme: '&'
+  analyse: Forme en Y à pied droit, tête fermée ; relie « Matin » et « après-midi ».
+  alternatives:
+  - y
+- ligne: 7
+  lemme: après-midi
+  analyse: Le trait d'union est réduit à un court trait épais à mi-hauteur (x ≈ .40).
+  alternatives: []
+- ligne: 8
+  lemme: très
+  analyse: t et r fondus (aspect « bu ») avec accent grave détaché ; forme réduite habituelle de « très ».
+  alternatives: []
+- ligne: 9
+  lemme: fourrage vert
+  analyse: Le trait après « fourrage » est le délié du e (sans levée de plume) ; le long trait après « vert » est la barre du t. Le petit « 1. » isolé en x ≈ .515, y ≈ .42, pâle, est un fantôme du verso.
+  alternatives: []
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Remarque d'ordre historique (JMO 7/Bedf, 30 août 1916 ; Falls 1933) sans incidence sur la lecture ; rien à vérifier sur l'image.
+  alternatives: []
+controle:
+- ligne: 1
+  avant: 'apparat disposition « \sl{1916} » : le trait, tiré sous 1916 seul, passe au-dessus de « et rafales » (l. 2)'
+  apres: (note supprimée ; doute sur le trait reporté dans difficultes)
+  justification: 'La transcription balisée suffit ; le trait part du sommet du t de « et » : soulignement probable, barre de t prolongée possible.'
+- ligne: 4
+  avant: 'apparat signe « (boqueteau » : parenthèse ouvrante jamais refermée'
+  apres: (note supprimée ; fait signalé dans critique)
+  justification: La transcription rend la parenthèse non refermée ; une phrase de critique suffit.
+remarques: 'Lieu (Marquay) déduit du contexte : arrivée à Marquay (028), départ (039).'
+resume: 'Mercredi 30 août 1916, à Marquay : pluie et rafales toute la journée. Le vent tourmente les grands arbres du voisinage (boqueteau de l''autre côté de la route, prairies derrière les fermes) avec un bruit effrayant. Matin et après-midi, malgré de très fortes ondées, Hippolyte Combes a dû aller dans les champs détrempés pour faire prendre du fourrage vert. La moitié inférieure de la page est restée blanche.'
+noms:
+  personnes: []
+  lieux: []
+source: contrôle

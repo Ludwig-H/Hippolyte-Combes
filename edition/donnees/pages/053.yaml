@@ -1,0 +1,146 @@
+cliche: 53
+fichier: 20251126_103131.jpg
+date: Mardi 26 septembre 1916
+mois: Septembre 1916
+lieux: Paris
+titre: 'Paris : Saint-Germain, Notre-Dame, Tour Saint-Jacques ; départ d''Orsay ; comptes du séjour'
+transcription: |
+  mardi – \sl{26} \hfill \sl{Sept 16}
+  Dejeun – B^{d} St-Germain
+  Reposé jardin Notre-Dame
+  Magasins de l'Hotel-de-Ville
+  \inc{Lgs} assis banc ds le square de la
+  tour St-Jacques – grd mouvt rue de
+  Rivoli. Animation ordin^{re}. —
+  \blanc{3}
+  Après diner, venu lentemt, par le
+  quais à gare d'Orsay
+  Depart train vers 8 H s
+  \filet
+  Tramway : Bourget - gare du nord : 50 c
+  Metro : 1 f   \inc{Envois} : 10 c, 1 f, 2 f, 2 f (\inc{Therese})
+  Billet 2e cl. Toulouse \fr{1}{4} place : 15^{f} \add{Coupe (chvx} 1 f
+  Christofle : 12^{f} 50, remise, une \ill : 10^{f}50
+  Zyromski : Lorgueil humain : 4^{f}. net : 3^{f}20
+  Maeterlinck : Les Debris : 3^{f}50. – Cirage : 25 c
+  Dejeun : 1^{f}60. – Diner : 1^{f}60. – C^{tes} p^{les} : 15 c
+  Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 couronne
+  Kepi (au Bon Marché : 8^{f}75. – Consigne : \inc{15 c}
+  Carte de Verdun : 50 c – \inc{Entretien} souliers : 30 c
+  Carte Roumanie : 30 c – \inc{Divers} : W.C : 15 c
+apparat:
+- ligne: 1
+  lemme: Sept 16
+  type: abreviation
+  note: septembre 1916
+- ligne: 2
+  lemme: Dejeun
+  type: abreviation
+  note: déjeuné
+- ligne: 2
+  lemme: B^{d} St-Germain
+  type: abreviation
+  note: boulevard Saint-Germain
+- ligne: 5
+  lemme: \inc{Lgs}
+  type: lecture
+  note: 'lgs (longtemps), L bouclé suivi de deux jambages descendants ; autre lecture : 1 H (une heure)'
+- ligne: 5
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 6
+  lemme: St-Jacques
+  type: abreviation
+  note: Saint-Jacques
+- ligne: 6
+  lemme: grd mouvt
+  type: abreviation
+  note: grand mouvement
+- ligne: 7
+  lemme: ordin^{re}
+  type: abreviation
+  note: ordinaire
+- ligne: 8
+  lemme: lentemt
+  type: abreviation
+  note: lentement
+- ligne: 8
+  lemme: par le
+  type: graphie
+  note: sic, pour « par les (quais) »
+- ligne: 10
+  lemme: 8 H s
+  type: abreviation
+  note: 8 heures du soir
+- ligne: 12
+  lemme: \inc{Envois}
+  type: lecture
+  note: 'Envois, finale en haute boucle (s) ; autre lecture : Envoi'
+- ligne: 12
+  lemme: (\inc{Therese})
+  type: lecture
+  note: 'Therese, initiale T à forte barre de tête ; autres lectures : Germaine, Thomas'
+- ligne: 13
+  lemme: 2e cl.
+  type: abreviation
+  note: deuxième classe
+- ligne: 13
+  lemme: \fr{1}{4} place
+  type: abreviation
+  note: quart de place (tarif militaire)
+- ligne: 13
+  lemme: \add{Coupe (chvx}
+  type: ajout
+  note: ajout interlinéaire d'un trait plus fin ; chvx = cheveux ; le 1 f qui suit en est le prix
+- ligne: 13
+  lemme: 15^{f}
+  type: lecture
+  note: 15 f ; la transcription antérieure lisait 15 f 15 en y joignant le prix de la coupe
+- ligne: 14
+  lemme: \ill
+  type: lecture
+  note: objet de la remise, mot de quatre à cinq jambages non résolu (montre ? mesure ?)
+- ligne: 14
+  lemme: 12^{f} 50
+  type: compte
+  note: 12 f 50, ramenés à 10 f 50 après remise
+- ligne: 17
+  lemme: Dejeun
+  type: abreviation
+  note: déjeuner
+- ligne: 17
+  lemme: C^{tes} p^{les}
+  type: abreviation
+  note: cartes postales
+- ligne: 18
+  lemme: artif^{lles}
+  type: abreviation
+  note: artificielles
+- ligne: 19
+  lemme: \inc{15 c}
+  type: lecture
+  note: 'montant serré au bord de la page, en forme de k ; autres lectures : 10 c, 1 c'
+- ligne: 20
+  lemme: \inc{Entretien}
+  type: lecture
+  note: lecture proposée, mot contracté (E, n, t suscrit, -rien)
+- ligne: 21
+  lemme: \inc{Divers}
+  type: lecture
+  note: initiale mal formée ; lecture proposée
+- ligne: 21
+  lemme: W.C
+  type: emprunt
+  note: 'water-closet : toilettes'
+critique: Encre violette. Le récit continue la journée commencée sur la page précédente (f.~26 v\textsuperscript{o}) ; après un blanc, les comptes placés sous le filet récapitulent tout le passage à Paris, du tramway du Bourget au départ d'Orsay.
+historique: |
+  Les « Magasins de l'Hôtel-de-Ville » sont le Bazar de l'Hôtel-de-Ville, 54--62, rue de Rivoli (Baedeker 1913, p.~52). Le billet à « \fr{1}{4} place » applique l'article~54 des cahiers des charges de 1859, qui réduit au quart de la taxe le prix payé par les militaires en permission (Lafon 1922, p.~37) ; le plein tarif Paris--Toulouse en 2\textsuperscript{e} classe était de 54~fr.~30 (Baedeker 1912, R.~39). Ernest Zyromski (1862--1933), professeur de littérature française à la faculté des lettres de Toulouse, avait publié \textit{L'Orgueil humain} chez Armand Colin en 1904 (BnF) ; le « net » de 3~f~20 suppose une remise de 20~\% ; Combes suivra son cours public le 30 janvier 1917 (voir f.~67 v\textsuperscript{o}). \textit{Les Débris de la guerre} de Maeterlinck (Fasquelle, 1916) est vendu au prix de la Bibliothèque-Charpentier. La carte de Roumanie suit l'actualité : entrée en guerre le 27 août 1916 (\textit{La Dépêche}, 29 août 1916, p.~1), la Roumanie subit à partir de ce 26 septembre la contre-offensive de Falkenhayn devant Hermannstadt (Wikipédia, « Battle of Nagyszeben »).
+sources:
+- Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, Baedeker, 1913, p. 52.
+- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, route 39.
+- Lafon, G., Les Chemins de fer français pendant la guerre, thèse de droit, Paris, A. Rousseau, 1922, p. 37.
+- BnF, notice d'autorité « Ernest Zyromski (1862-1933) », data.bnf.fr/12976861.
+- Maeterlinck, M., Les Débris de la guerre, Paris, Fasquelle, Bibliothèque-Charpentier, 1916.
+- La Dépêche (Toulouse), 29 août 1916, p. 1.
+- Wikipédia (en), « Battle of Nagyszeben (1916) », consulté en oct. 2026.

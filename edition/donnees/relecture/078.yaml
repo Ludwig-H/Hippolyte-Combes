@@ -1,0 +1,110 @@
+cliche: 78
+confiance: haute
+changements:
+- ligne: 1
+  avant: Merc. 18 \hfill Oct /16
+  apres: \sl{merc – 18} \hfill \sl{oct /16}
+  justification: m et o initiaux au module des minuscules (o à peine plus haut que le c), sans point ; tiret court lié au c ; les deux éléments de la date soulignés
+  confiance: haute
+- ligne: 2
+  avant: Dormi mess-tent — à l'autre extrémité,
+  apres: \ind[2] Dormi mess-tent – à l'autre extrémité
+  justification: ligne commencée après la date, sous son soulignement ; tiret court à mi-hauteur ; aucune virgule après extrémité
+  confiance: haute
+- ligne: 3
+  avant: Allongé sur 1 fauteuil de jardin!
+  apres: Allongé sur 1 fauteuil de jardin !
+  justification: le point rond après « de » est un pâté, non une ponctuation ; point d'exclamation détaché
+  confiance: haute
+- ligne: 4
+  avant: Nuit très froide —
+  apres: nuit très froide –
+  justification: n initial minuscule (deux jambages sans délié d'attaque) ; tiret court
+  confiance: moyenne
+- ligne: 5
+  avant: Après breakfast, eu a lift
+  apres: après breakfast. eu a lift
+  justification: a minuscule au module d'œil ; après breakfast un point rond, non un trait vertical de virgule
+  confiance: moyenne
+- ligne: 7
+  avant: Arrêté lgt devant
+  apres: arrêté lgs devant
+  justification: a minuscule après le point ; l + g + s terminal en crochet, aucune barre de t
+  confiance: haute
+- ligne: 9
+  avant: 'Parcouru qq rues : maisons vides et abandonnées.'
+  apres: Parcouru qq rues. maisons vides et abandonnees.
+  justification: point rond après rues ; aucun accent net sur le premier e final (le trait qui coupe la finale appartient au s réduit)
+  confiance: moyenne
+- ligne: 10
+  avant: Après-midi,
+  apres: après-midi,
+  justification: a minuscule identique à celui de la l. 5
+  confiance: moyenne
+- ligne: 11
+  avant: de = à notre camp.
+  apres: de = à notre camp
+  justification: aucun point après camp, seulement le long délié final du p
+  confiance: moyenne
+- ligne: 14
+  avant: camp et au-delà
+  apres: camp & au-delà
+  justification: 'signe à boucle pleine à gauche et haste montant à droite (forme « 4 » / « A ») : esperluette, non « et » en toutes lettres (comparer « et » l. 6, 9, 10)'
+  confiance: haute
+difficultes:
+- ligne: 7
+  lemme: basilique
+  analyse: 'b à haste non bouclée, a, s, i, l bouclé, i pointé, q descendant ; la finale se réduit à une petite boucle (e) prolongée par un long délié horizontal : -ue non tracé distinctement'
+  alternatives:
+  - Basilique
+- ligne: 6
+  lemme: Mission
+  analyse: 'long délié d''attaque montant de sous la ligne puis jambages : M du type « ʎu » (comparer « maisons » l. 9, sans attaque)'
+  alternatives:
+  - mission
+- ligne: 2
+  lemme: extrémité
+  analyse: accents masqués par le soulignement de la date qui passe au-dessus du mot
+  alternatives:
+  - extremite
+- ligne: 8
+  lemme: ravagée
+  analyse: aucun accent sur le premier e à sa place ; petit crochet isolé plus haut (x ≈ .13, y ≈ .455) entre les l. 7 et 8, pris pour l'accent décalé
+  alternatives:
+  - ravagee
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Le champ lieux suit la correction proposée (« camp entre Bouzincourt et Hédauville », non « près d'Albert ») ; l'image ne dit que « notre camp ». La Vierge penchée de la basilique est évoquée au cliché 083.
+  alternatives: []
+controle:
+- ligne: 1
+  avant: \sl{merc – 18} \hfill \sl{Oct /16}
+  apres: \sl{merc – 18} \hfill \sl{oct /16}
+  justification: zoom ×3 [.74 .02 .93 .11] ; o initial à peine plus haut que le c, sans forme de majuscule
+- ligne: 3
+  avant: les 2 cooks — Allongé
+  apres: les 2 cooks. — Allongé
+  justification: zoom ×3 [.02 .11 .34 .18] ; deux points superposés devant le tiret ; le supérieur, posé sur la ligne de base de « cooks » (y ≈ .158), est un point final ; l'inférieur (y ≈ .175) est le point du i de « froide »
+- ligne: 0
+  avant: 'lieux : Albert (Somme) ; camp de la compagnie près d''Albert'
+  apres: 'lieux : Camp de la compagnie, entre Bouzincourt et Hédauville ; Albert (Somme)'
+  justification: remarque du commentateur historique adoptée
+- ligne: 0
+  avant: apparat — lecture « lgs » détaillée ; « & » avec description du tracé ; critique mentionnant le pâté de la l. 3
+  apres: notes réduites au développement et à la lecture retenue ; pâté renvoyé aux changements
+  justification: épuration de l'apparat imprimé
+remarques: La phrase de la l. 14 se poursuit au cliché 079 (« sur l., nuit & jour, flot ininterrompu de véhicules »).
+resume: Le 18 octobre 1916, Hippolyte Combes a dormi dans la tente du mess, allongé sur un fauteuil de jardin, les deux cuisiniers à l'autre bout ; nuit très froide. Après le petit déjeuner, un camion chargé d'obus l'emmène à Albert, où il passe à la Mission française. Il erre en ville, s'arrête longuement devant la basilique ravagée par les obus et parcourt des rues aux maisons vides et abandonnées. L'après-midi il retourne à Albert en camion et revient de même au camp. Ciel couvert tout le jour, boue épaisse ; le soir, assis sur une caisse hors de son abri, il observe le camp et la route au-delà.
+noms:
+  personnes: []
+  lieux:
+  - forme: Albert
+    ligne: 6
+    identite: Albert (Somme)
+  - forme: Albert
+    ligne: 10
+    identite: Albert (Somme)
+  - forme: basilique
+    ligne: 7
+    identite: basilique Notre-Dame-de-Brebières, Albert
+source: contrôle

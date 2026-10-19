@@ -1,0 +1,110 @@
+cliche: 73
+fichier: 20251126_104011.jpg
+date: Jeudi 12 et vendredi 13 octobre 1916
+mois: Octobre 1916
+lieux: Barlette (Ribeaucourt) et Prouville (Somme)
+titre: Charrois dans la luzerne ; course à cheval à Prouville ; annonce du départ pour dimanche
+transcription: |
+  \sl{Jeudi 12} \hfill \sl{Oct^{b} /16}
+  \ind Temps pluvieux \trait
+  Après-midi, conduit limber & G.S.
+  wagons ds 1 gd champ où luzerne
+  coupée —
+  A l'aller & au retour, me suis
+  attardé ds bois : vent soufflant
+  en rafales produisait 1 bruit de
+  houle. – Resté lgs à écouter cette
+  symphonie très forte \trait
+  \blanc{2}
+  \filet
+  \sl{Ven. 13.} \hfill Tjours ciel bas et gris
+  de cendre. grosses nuées courent,
+  chassées par le vent \trait
+  \ind[2] Après-midi, course à
+  cheval av Cap. Pant au village de
+  Prouville, distant de 4 \inc{kils}..
+  \ind Soir, au diner, appris que ns
+  shifterons dimanche. Regret de partir !
+apparat:
+- ligne: 1
+  lemme: Oct^{b}
+  type: abreviation
+  note: octobre
+- ligne: 1
+  lemme: /16
+  type: abreviation
+  note: '1916'
+- ligne: 3
+  lemme: limber
+  type: emprunt
+  note: avant-train (de voiture ou de pièce)
+- ligne: 3
+  lemme: G.S.
+  type: abreviation
+  note: 'General Service ; G.S. wagons : chariots du service général'
+- ligne: 4
+  lemme: wagons
+  type: emprunt
+  note: chariots
+- ligne: 4
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 4
+  lemme: 1 gd
+  type: abreviation
+  note: un grand
+- ligne: 7
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 8
+  lemme: '1'
+  type: abreviation
+  note: un
+- ligne: 9
+  lemme: lgs
+  type: abreviation
+  note: longtemps
+- ligne: 11
+  lemme: Ven.
+  type: abreviation
+  note: vendredi
+- ligne: 11
+  lemme: Tjours
+  type: abreviation
+  note: toujours
+- ligne: 15
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 15
+  lemme: Cap.
+  type: abreviation
+  note: capitaine
+- ligne: 15
+  lemme: Pant
+  type: abreviation
+  note: nom abrégé ; « Panton » est une restitution, l'officier n'est pas identifié
+- ligne: 16
+  lemme: \inc{kils}
+  type: lecture
+  note: kilomètres ; lecture incertaine (k^{ils} ou kil. possibles) ; l'état antérieur lisait « k.. »
+- ligne: 17
+  lemme: ns
+  type: abreviation
+  note: nous
+- ligne: 18
+  lemme: shifterons
+  type: emprunt
+  note: changerons de cantonnement (anglais to shift, désinence française du futur)
+critique: Les deux journées sont séparées par un blanc et un filet. La date « Ven. 13. » est soulignée d'un trait fin, d'une encre plus pâle que le texte.
+historique: |
+  Le champ de luzerne coupée est sans doute celui des jours précédents, derrière le bois de Ribeaucourt (voir f.~36 v\textsuperscript{o}) : la luzerne compte parmi les fourrages verts (FSPB 1914, chap.~6, §~20), distribuables à la place d'une partie du foin (\textit{Veterinary Services} 1925, p.~566). Le \textit{limber} est peut-être le \textit{limbered G.S. wagon}, voiture articulée plus légère que le grand chariot du service général à quatre chevaux (FSPB 1914, chap.~5, §~5). Le « Cap. Pant » (voir f.~34 v\textsuperscript{o}) n'est pas identifié : la forme « Panton » des éditions antérieures restitue une abréviation, et aucun officier de ce nom ne figure dans l'A.S.C. (TNA, WO~339 et WO~374). Prouville abrite alors le 12th Middlesex, de la 54th Brigade (Wyrall, p.~319). Le départ annoncé au dîner suit de près les ordres : le 14 octobre, la division ouvre un QG avancé à Albert, la 53rd Brigade se prépare contre Regina Trench, qu'elle enlèvera le 21, et la 54th reçoit l'ordre de gagner Beauval (JMO 7/Bedf, 14 oct. 1916 ; Nichols 1922, p.~131).
+sources:
+- Field Service Pocket Book, 1914, London, HMSO, 1914, chap. 5, § 5, et chap. 6, « Forage », § 20.
+- Blenkinsop, L. J., et Rainey, J. W. (éd.), Veterinary Services (History of the Great War based on Official Documents), London, HMSO, 1925, p. 566.
+- The National Archives (Kew), Discovery, dossiers d'officiers, séries WO 339 et WO 374 (requête « Panton » et « Army Service Corps »).
+- Wyrall, E., The Die-Hards in the Great War. A History of the Duke of Cambridge's Own (Middlesex Regiment), vol. I, London, Harrison & Sons, [1926], p. 319.
+- 'Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).'
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 131.

@@ -1,0 +1,101 @@
+cliche: 43
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sept 16
+  apres: Sept^{r} /16
+  justification: petit r suscrit après le p barré, puis barre oblique longue avant 16
+  confiance: moyenne
+- ligne: 11
+  avant: To a batman
+  apres: to a batman
+  justification: t au module d'une minuscule, précédé d'un simple trait d'attaque
+  confiance: moyenne
+- ligne: 11
+  avant: poney
+  apres: pony
+  justification: p, deux minimes, y ; aucun e entre n et y
+  confiance: moyenne
+- ligne: 12
+  avant: matinée
+  apres: matinee
+  justification: aucun accent sur le premier e ; le trait au-dessus est la barre du t
+  confiance: moyenne
+- ligne: 14
+  avant: été
+  apres: ete
+  justification: aucun accent visible sur les deux e
+  confiance: moyenne
+- ligne: 15
+  avant: Après-midi
+  apres: après-midi
+  justification: a initial minuscule, panse fermée sans majuscule
+  confiance: haute
+- ligne: 18
+  avant: en face gare
+  apres: en face gare \trait
+  justification: délié final de gare prolongé en trait horizontal
+  confiance: haute
+- ligne: 20
+  avant: Canada in Flanders... 1f 25
+  apres: \inc{Cananda} in Flanders . – . 1^{f} 25 —
+  justification: minimes surnuméraires après Ca ; points de conduite point-tiret-point ; f suscrit en petite boucle ; tiret final
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: Sept^{r}
+  analyse: S bouclé, e, p à longue haste coupée d'une barre (t), puis petit crochet en r surélevé ; la barre suivante, plus longue et inclinée, est le / de /16 (contrôlé au zoom ×3)
+  alternatives:
+  - Sept /16
+- ligne: 7
+  lemme: Lereux
+  analyse: L en £, e, r pointu, puis quatre ou cinq minimes et une finale en s prolongée d'un long délié ; aucun trait croisé comparable au x d'Acheux (l. 4, 10), d'où le doute sur -x
+  alternatives:
+  - Lereus
+  - Lerens
+- ligne: 20
+  lemme: Cananda
+  analyse: 'C, a fermé, minimes, a, n, d bouclé, a + délié : la suite donne un n de trop pour Canada'
+  alternatives:
+  - Canada
+- ligne: 6
+  lemme: planches
+  analyse: planche + long délié horizontal appuyé, sans boucle ; vaut s comme dans la finale de Lereux, mais planche reste possible
+  alternatives:
+  - planche
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: '« mines de champs » vérifié au zoom ×2 (m-i-n-e-s, d-e, c-h-a-m-p-s) ; « 30 c. » : 3 puis 0 noyé d''encre, non 31 ; « 50c » : 5 à drapeau, 0 réduit, c. Lereux reste incertain et non identifié. Absence du 16 septembre signalée dans le registre critique.'
+  alternatives: []
+controle:
+- ligne: 0
+  avant: critique sans mention du 16 septembre
+  apres: ajout de la phrase sur l'absence d'entrée pour le samedi 16
+  justification: la page 044 s'ouvre sur « 17 Dim. » ; le 15 est un vendredi, le samedi 16 manque
+- ligne: 20
+  avant: lemme « Cananda in Flanders » (lecture) seul
+  apres: lecture sur « Cananda » + emprunt « in Flanders »
+  justification: le lemme ne reproduisait pas la ligne balisée ; traduction du tour anglais manquante
+- ligne: 7
+  avant: note de lecture paléographique détaillée
+  apres: note brève ; analyse renvoyée à difficultes
+  justification: épuration de l'apparat ; l'absence de croisement de x (comparé à Acheux) motive Lereus possible
+- ligne: 11
+  avant: note pony avec analyse des traits
+  apres: note brève (graphie anglaise)
+  justification: épuration de l'apparat
+remarques: 'Canada in Flanders : premier volume de l''histoire officielle du corps canadien par Max Aitken (lord Beaverbrook), 1916.'
+resume: Le jeudi 14 septembre 1916, après le déjeuner, Hippolyte Combes se rend à cheval à Acheux, où les bureaux de la Mission française sont installés dans le parc du château, en maisonnettes de toile et de planches ; il fait route avec Lereux et note le premier froid d'automne. Il dépense 30 c en cartes postales et 50 c pour une ordonnance qui a sellé son poney. Le vendredi 15, après une nuit froide, il va à travers champs à la cantine de la gare de Raincheval, où se tiennent des exercices de grenades et de mines ; il y achète Canada in Flanders (1 f 25).
+noms:
+  personnes:
+  - forme: Lereux
+    ligne: 7
+    identite: compagnon de route, sans doute interprète ou militaire français (lecture incertaine)
+  lieux:
+  - forme: Acheux
+    ligne: 4
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Raincheval
+    ligne: 16
+    identite: Raincheval (Somme), gare
+source: contrôle

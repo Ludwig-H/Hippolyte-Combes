@@ -1,0 +1,113 @@
+cliche: 51
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sept / 16
+  apres: \sl{Sept /16}
+  justification: 'trait appuyé terminé en crosse sous le mois et le millésime (y ≈ .085, x ≈ .66–.93), symétrique de celui de Lundi ; il effleure le haut de nettement détachés (l. 2) mais commence avant le n initial : soulignement de l''en-tête, non barre de t ni rature'
+  confiance: haute
+- ligne: 3
+  avant: 3H ½
+  apres: 3^{H} 1/
+  justification: H suscrit ; un seul trait oblique à crochet de tête (1/), sans 2 visible, au contraire de la l. 7
+  confiance: moyenne
+- ligne: 7
+  avant: Gézaincourt, vers 4H ½
+  apres: Gzaincourt, vers 4^{H}\fr{1}{2}
+  justification: G empâté suivi directement du z plongeant ; demi empilé (1 sur 2 couché) ; H suscrit
+  confiance: moyenne
+- ligne: 8
+  avant: 5 H ds le train
+  apres: 5^{H} ds train
+  justification: 'un seul mot entre 5H et train : d + finale verticale, même tracé que ds l. 15 ; aucun le'
+  confiance: haute
+- ligne: 9
+  avant: 8H s
+  apres: 8^{H} s
+  justification: H nettement au-dessus de la ligne
+  confiance: haute
+- ligne: 10
+  avant: permissionns
+  apres: \inc{permissrin}
+  justification: 'après ss : bosse, i pointé, deux jambages et délié ; pas de nn ni de s final visibles'
+  confiance: basse
+- ligne: 11
+  avant: 3e Cl., avec
+  apres: 3^{e} cl., av
+  justification: e suscrit ; c minuscule ; a + v arrondi sans e
+  confiance: haute
+- ligne: 15
+  avant: jeté bombes — obus
+  apres: jeté bombes obus
+  justification: le trait horizontal est le délié final de bombes, sans levée de plume
+  confiance: moyenne
+- ligne: 15
+  avant: Ciel fouillé
+  apres: Ciel fouillé.
+  justification: point appuyé après fouillé
+  confiance: haute
+- ligne: 17
+  avant: (en retard [?])
+  apres: (en route)
+  justification: r initial bouclé (aspect l), ou, t dont la barre se prolonge en grand arc formant la parenthèse fermante, e final
+  confiance: haute
+- ligne: 18
+  avant: Voyage tte la nuit
+  apres: Voyagé tte la nuit \trait
+  justification: accent décalé à droite après Voyage ; délié final de nuit prolongé
+  confiance: moyenne
+difficultes:
+- ligne: 3
+  lemme: 3^{H} 1/
+  analyse: 'zoom ×3 [.27 .11 .43 .165] : 3, H suscrit, puis un seul trait oblique à crochet de tête, un point à mi-hauteur, une virgule ; aucun 2 ni barre de fraction empilée'
+  alternatives:
+  - 3^{H}\fr{1}{2}
+  - 3^{H} 1
+- ligne: 7
+  lemme: Gzaincourt
+  analyse: G repassé (pâté) ; le z plongeant suit immédiatement ; un e pourrait être noyé dans le pâté
+  alternatives:
+  - Gezaincourt
+- ligne: 10
+  lemme: permissrin
+  analyse: p-e-r-m-i-ss (deux hastes descendantes), puis bosse (r ou i sans point), i pointé, deux jambages et délié final ; forme abrégée de permissionnaires
+  alternatives:
+  - permissionn
+  - permissres
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié sur l''image : l. 3 « 3^{H} 1/ » maintenu (aucun 2 tracé, sens « 3 h ½ » en apparat) ; l. 10 la finale ne montre ni nn ni res nets, \inc maintenu ; l. 15 « bombes obus » sans ponctuation sur l''image (délié final de bombes). Le raid sur Longueau n''est attesté que par le carnet.'
+  alternatives: []
+controle:
+- ligne: 1
+  avant: \sl{25 Lundi.} (Suite) \hfill Sept /16
+  apres: \sl{25 Lundi.} (Suite) \hfill \sl{Sept /16}
+  justification: 'zoom [.72 0 .96 .10] : le trait épais sous Sept /16, terminé en crosse à droite et commencé avant le n de nettement, est le soulignement de l''en-tête (même facture que sous Lundi), non une barre de t commune ni une rature ; difficulté l. 2 levée'
+- ligne: 0
+  avant: apparat avec justifications paléographiques (l. 1, 3, 7, 8, 10, 17)
+  apres: notes réduites à développement, lecture retenue et autre lecture
+  justification: épuration de l'apparat imprimé ; analyses conservées dans changements et difficultes ; entrée de difficulté « Très » (l. 16) supprimée, lecture sans doute
+remarques: Le départ en permission suit le 25 septembre ; la page suivante (052) commence au Bourget le 26.
+resume: 'Suite du 25 septembre 1916 : départ vers 3 h 1/2, voyage en train par beau temps. Changement de train à Gézaincourt vers 4 h 1/2, puis à 5 h dans le train venant de Doullens ; à Amiens vers 8 h du soir, montée dans le train des permissionnaires pour Paris, en troisième classe parmi des poilus. Après Amiens, au croisement de Longueau, le train est survolé par des Taubes qui lâchent des bombes ; obus dans les airs et projecteurs. Il ne descend pas à Creil et voyage toute la nuit.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Gzaincourt
+    ligne: 7
+    identite: Gézaincourt (Somme)
+  - forme: Doullens
+    ligne: 8
+    identite: Doullens (Somme)
+  - forme: Amiens
+    ligne: 9
+    identite: Amiens (Somme)
+  - forme: Paris
+    ligne: 10
+    identite: Paris
+  - forme: Longueau
+    ligne: 14
+    identite: Longueau (Somme), nœud ferroviaire près d'Amiens
+  - forme: Creil
+    ligne: 17
+    identite: Creil (Oise)
+source: contrôle

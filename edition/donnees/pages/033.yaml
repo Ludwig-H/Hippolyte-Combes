@@ -1,0 +1,97 @@
+cliche: 33
+fichier: 20251126_094310.jpg
+date: Vendredi 1er septembre 1916
+mois: Septembre 1916
+lieux: Marquay et Ligny-Saint-Flochel (Pas-de-Calais)
+titre: Promenade à Ligny-Saint-Flochel ; manœuvres anglaises ; l'église et son cimetière
+transcription: |
+  \sl{1^{er} V.} \hfill \sl{Sept^{bre} 1916}
+  \ind Matinée, temps variable \trait
+  Tout l'après-midi, qq rayons de soleil et puis
+  ciel couvert de nuages
+  Venu promener au village de Ligny-
+  Saint-Flochel, à 2 kil 5 — Route en pente longe
+  bois où régiments anglais faisaient les manœuvres
+  speciales
+  Visité un instant petite eglise du hameau SFl
+  est du XIIIe s., Clocher très curieux, octogonal,
+  avec b. pierres sculptées. Tout autour cimetière
+  village, où gazon & plantes cachent presque les
+  tombes \hfill . Y éprouvé impression
+  Melancolie penetrante — Ciel nuageux et
+  bas. Légère brise agitant ramures. Air doux.
+  \inc{Bon} s'arreter & reflechir
+  \blanc{1}
+  [ Tip au headcook : 5^{f} —
+  \blanc{1}
+  Jours se succedent monotones &
+  ternes
+  \ind Espoir départ prochain, lundi
+  \blanc{4}
+apparat:
+- ligne: 1
+  lemme: 1^{er} V.
+  type: abreviation
+  note: premier, vendredi
+- ligne: 1
+  lemme: Sept^{bre}
+  type: abreviation
+  note: septembre
+- ligne: 3
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 6
+  lemme: 2 kil 5
+  type: abreviation
+  note: deux kilomètres cinq (2,5 km)
+- ligne: 9
+  lemme: SFl
+  type: abreviation
+  note: Saint-Flochel
+- ligne: 9
+  lemme: SFl
+  type: lecture
+  note: S suivi d'un f descendant et d'un l, sans t ni point ; on lisait « St Fl. »
+- ligne: 10
+  lemme: XIIIe s.
+  type: abreviation
+  note: treizième siècle
+- ligne: 11
+  lemme: b.
+  type: abreviation
+  note: belles
+- ligne: 15
+  lemme: Air
+  type: lecture
+  note: mot empâté ; lecture probable, « Ah » moins vraisemblable
+- ligne: 16
+  lemme: \inc{Bon}
+  type: lecture
+  note: grande boucle initiale suivie de minimes ; « On » possible
+- ligne: 17
+  lemme: '[ Tip'
+  type: disposition
+  note: grand crochet à angles droits isolant ce poste de dépense
+- ligne: 17
+  lemme: Tip
+  type: emprunt
+  note: pourboire
+- ligne: 17
+  lemme: headcook
+  type: emprunt
+  note: chef cuisinier
+- ligne: 17
+  lemme: 5^{f}
+  type: abreviation
+  note: 5 francs
+critique: Encre noire, plus brune par endroits selon la charge de la plume ; le bas de la page est resté blanc.
+historique: |
+  Ligny-Saint-Flochel est à 2,7 km à vol d'oiseau de Marquay (OSM). Le clocher de l'église Saint-Flochel, classé monument historique en 1930, date des XV\textsuperscript{e}--XVI\textsuperscript{e} siècles et non du XIII\textsuperscript{e} (Mérimée PA00108332). Les « manœuvres speciales » sont l'instruction à l'attaque que la division reçoit trois semaines durant dans la zone de la Third Army (Nichols 1922, p. 78) : le 28 août, le 7th Bedfordshire s'est exercé à l'attaque sous bois au bois des Hérombus, à 2,2 km à l'est de Ligny (JMO 7/Bedf, 28 août 1916), peut-être le bois que longe la route ; à Chelers, le barrage roulant est figuré par des hommes portant des fanions bleus (Banks \& Chell 1924, p. 144-145). Le plateau de Ligny abritait aussi l'école de mortiers de tranchée de la Third Army, que George V avait visitée le 9 août 1916 (IWM Q 961). Le \textit{headcook} est sans doute Hancock, qui avait reçu 5 f le 31 juillet (voir f. 3 v\textsuperscript{o}). L'espoir d'un départ le lundi 4 devance les ordres : le transfert à la Reserve Army, fixé le 4 pour la nuit du 6 au 7, sera annulé le 5 (voir f. 18 v\textsuperscript{o}).
+sources:
+- Ministère de la Culture, base Mérimée, notice PA00108332 (Ligny-Saint-Flochel, église Saint-Flochel, clocher).
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 78.
+- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (transcription en ligne).'
+- Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., London, Gay & Hancock, 1924, p. 144-145.
+- 'Imperial War Museum, photographie Q 961 (Lt Ernest Brooks), 9 août 1916 : le roi à la Third Army Trench Mortar School de Ligny-Saint-Flochel.'
+- OpenStreetMap / Nominatim (distances à vol d'oiseau entre chefs-lieux).

@@ -1,0 +1,172 @@
+cliche: 171
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 20 Mardi — \hfill Mars 1917 —
+  apres: \sl{20 Mardi} \hfill \sl{Mars 1917} —
+  justification: date et mois soulignés ; aucun tiret après Mardi (point du i)
+  confiance: haute
+- ligne: 2
+  avant: Lieut. 63rd Div., couché ds lit
+  apres: \ind Lieut 63^{rd} div, couché \inc{ds} lit
+  justification: pas de point après Lieut ; rd suscrit ; d minuscule ; virgule seule après div ; ds peu net
+  confiance: moyenne
+- ligne: 3
+  avant: ma chambre. Parti avec son unité 8h matin.
+  apres: une chambre. Parti avec son unité 8^{h} matin
+  justification: u-n-e nets ; h suscrit ; aucun point final
+  confiance: haute
+- ligne: 4
+  avant: extrt
+  apres: extt
+  justification: e, x, t bouclé, t barré ; aucun r ; forme courante extt (015, 025, 127)
+  confiance: haute
+- ligne: 5
+  avant: neige, tombée à gros flocons.
+  apres: neige. tombé à gros flocons —
+  justification: point après neige ; un seul e accentué après b ; tiret long final
+  confiance: moyenne
+- ligne: 6
+  avant: Liberté entière, journée.
+  apres: \ind Liberté entière, journée
+  justification: aucun point final
+  confiance: moyenne
+- ligne: 7
+  avant: 21 Merc.
+  apres: 21 \sl{Merc.}
+  justification: le trait ne souligne que Merc.
+  confiance: haute
+- ligne: 8
+  avant: froide. Tout
+  apres: froide Tout
+  justification: aucun point visible après froide
+  confiance: moyenne
+- ligne: 11
+  avant: Arquèves. Belle Église Farm, M. Houtteman[?].
+  apres: Arqueves, Belle Eglise Farm, M. Houtteman —
+  justification: virgule après Arqueves, aucun accent visible ; E sans accent ; tiret final isolé
+  confiance: moyenne
+- ligne: 15
+  avant: 17th Lancers
+  apres: 17^{th} Lancers
+  justification: th nettement suscrit
+  confiance: haute
+- ligne: 16
+  avant: 22 Jeudi.
+  apres: 22 \sl{Jeudi}
+  justification: souligné ; le point est celui du i
+  confiance: haute
+- ligne: 17
+  avant: Matin & soir
+  apres: \ind matin & soir
+  justification: m initial minuscule (deux arches sans délié d'attaque), différent du M de la l. 10
+  confiance: moyenne
+- ligne: 18
+  avant: Matin, courses
+  apres: matin, courses
+  justification: même m minuscule ; pas de virgule après Mirvaux
+  confiance: moyenne
+- ligne: 20
+  avant: Albert. Très longuement
+  apres: Albert très longuement
+  justification: aucun point, t minuscule
+  confiance: haute
+- ligne: 21
+  avant: par obus.
+  apres: par obus \trait
+  justification: s final prolongé en long trait horizontal
+  confiance: haute
+- ligne: 22
+  avant: gde
+  apres: gd
+  justification: g + d bouclé, aucun e
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: \inc{ds}
+  analyse: 'contrôle (zoom ×3 [.30 .045 .80 .115]) : après couché, tiret court puis panse ouverte (ɔ), petite boucle, haute boucle (l) et t barré dont la barre se prolonge en soulignement de « Mars 1917 » ; d en ∂ abîmé + s réduit, puis lit à i noyé ; non tranché'
+  alternatives:
+  - d'1
+  - de
+- ligne: 5
+  lemme: tombé
+  analyse: 'contrôle (zoom ×3) : t, o, m, b bouclé, e et accent détaché ; aucun second e'
+  alternatives:
+  - tombée
+- ligne: 11
+  lemme: Houtteman
+  analyse: 'contrôle (zoom ×3 [.58 .41 1.0 .49]) : H à deux hastes, o-u, tt sous barre commune, puis e-m-a-n et finale relevée ; le trait horizontal au-dessous appartient à la l. 12 (au-dessus de Warloy) ; lecture retenue sans \inc, confirmée par 108'
+  alternatives:
+  - Houttemann
+- ligne: 14
+  lemme: cavrie
+  analyse: '« rie » un peu surélevé après cav, mais au module normal et sans base nettement au-dessus de la ligne de tête : laissé à la ligne'
+  alternatives:
+  - cav^{rie}
+- ligne: 17
+  lemme: matin
+  analyse: 'contrôle (zoom ×3) : initiale au module des minuscules, sans grand délié d''attaque, aux l. 17 et 18 ; à la l. 10 Matin a un long délié d''attaque (M)'
+  alternatives:
+  - Matin
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: '« Houtteman » vérifié sur l''image (lecture probable, cf. 108) ; « \inc{ds} » (l. 2) reste douteux. Sources du commentateur : OH 1917-I, JMO 7/Bedf, Fraser et Gibbons 1925, LLT.'
+  alternatives: []
+controle:
+- ligne: 2
+  avant: 'apparat \inc{ds} : d sans boucle nette précédé d''un trait, s réduit ; « d''1 » moins probable'
+  apres: 'apparat \inc{ds} : dans, lecture incertaine (tracé abîmé) ; autre lecture possible « d''1 »'
+  justification: justification paléographique déplacée dans difficultes ; lecture non tranchée au zoom ×3
+- ligne: 11
+  avant: 'apparat M. Houtteman (lecture) : analyse lettre à lettre et trait sous le nom'
+  apres: 'apparat M. (abréviation : Monsieur) + Houtteman (lecture probable, cf. 108)'
+  justification: abréviation M. non relevée ; le trait horizontal relève de la l. 12 (au-dessus de Warloy), non du nom ; note réduite
+- ligne: 22
+  avant: 'apparat gd : grande (sans e)'
+  apres: 'apparat gd : grande'
+  justification: remarque de graphie inutile au lecteur
+remarques: 'Lignes numérotées hors blanc : 1–6 (20 mars), 7–15 (21 mars), 16–23 (22 mars). Transcription de la première lecture confirmée par contrôle ; seul l''apparat a été épuré.'
+resume: Le 20 mars, un lieutenant de la 63rd (Royal Naval) Division, logé dans la chambre d'Hippolyte Combes, repart avec son unité à 8 heures ; nuit de vent violent, neige à gros flocons le matin, journée libre. Le 21, après une nuit très froide, course en auto à Puchevillers et Arquèves (ferme de Belle-Église, M. Houtteman), puis par Contay et Warloy jusqu'à Senlis ; routes encombrées de troupes, cavalerie indienne et anglaise (17th Lancers). Le 22, tourmentes de neige ; courses à Puchevillers, Mirvaux, Pierregot, Molliens-au-Bois, puis Senlis et Albert, où il regarde longuement les maisons touchées par les obus ; retour par la grande route d'Amiens entre des champs enneigés.
+noms:
+  personnes:
+  - forme: Lieut 63^{rd} div
+    ligne: 2
+    identite: lieutenant de la 63rd (Royal Naval) Division, logé chez Hippolyte Combes (cf. 170)
+  - forme: M. Houtteman
+    ligne: 11
+    identite: fermier de Belle-Église Farm, Arquèves (cf. Mme Houtteman, 108)
+  lieux:
+  - forme: Puchevillers
+    ligne: 10
+    identite: Puchevillers (Somme)
+  - forme: Arqueves
+    ligne: 11
+    identite: Arquèves (Somme)
+  - forme: Belle Eglise Farm
+    ligne: 11
+    identite: ferme de Belle-Église, près d'Arquèves (Somme)
+  - forme: Contay
+    ligne: 12
+    identite: Contay (Somme)
+  - forme: Warloy
+    ligne: 12
+    identite: Warloy-Baillon (Somme)
+  - forme: Senlis
+    ligne: 13
+    identite: Senlis-le-Sec (Somme)
+  - forme: Mirvaux
+    ligne: 18
+    identite: Mirvaux (Somme)
+  - forme: Pierregot
+    ligne: 19
+    identite: Pierregot (Somme)
+  - forme: Molliens-au-Bois
+    ligne: 19
+    identite: Molliens-au-Bois (Somme)
+  - forme: Albert
+    ligne: 20
+    identite: Albert (Somme)
+  - forme: Amiens
+    ligne: 22
+    identite: Amiens (Somme), grande route d'Albert à Amiens
+source: contrôle

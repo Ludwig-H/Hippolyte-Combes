@@ -1,0 +1,99 @@
+cliche: 178
+fichier: 20251126_111558.jpg
+date: Dimanche 8 – mardi 10 avril 1917 (Pâques)
+mois: Avril 1917
+lieux: Hérissart, Toutencourt, Harponville, Beauquesne et Fréchencourt (Somme)
+titre: Pâques ensoleillé, chez le notaire Bienaimé ; 9-10 avril, grêle, neige et routes défoncées
+transcription: |
+  \sl{Paque – 8 –} \hfill \sl{Avril 1917}
+  Matinée et \fr{1}{2} aprè-midi, temps \inc{merveillt} beau
+  ciel d'1 bleu foncé. arbres detachaint branches
+  encore sans feuilles ds l'air lumineux & limpide
+  Chaleur \inc{assez} forte
+  Matinée, à Toutencourt, chz notaire Bienaimé
+  aprè-midi, à Harponville & Rubempre — \addm{Beauquesne}
+  Rentré 5^{H}\fr{1}{2} s. alors ciel couvert, gros nuages
+  Fin journée maussade. Visité famille Denis.
+  Nuit très noire.
+  Promené 1 peu rues village abt desertes & mort
+  \blanc{1}
+  \sl{9 Lundi} – Temps très mauvais & froid vif
+  gdes averses, grêle et grésil. Rafales violentes
+  Courses matin & soir : Pierregot & Belle-Eglise
+  Routes etat lamentable. Auto rebondissant à cause
+  des trous route, commotions très fortes —
+  \blanc{1}
+  10 \sl{Mardi}. matinée orage, neige fine
+  tombée abondante. Giboulees et rafales
+  Eclaircies de soleil sans durée
+  Courses aprè-midi à Frechencourt & Contay
+  Temps très mauvais. Froid vif. Cest de
+  nouveau l'hiver, helas !
+apparat:
+- ligne: 1
+  lemme: Paque – 8 –
+  type: graphie
+  note: Pâques, dimanche 8 avril 1917
+- ligne: 2
+  lemme: \fr{1}{2} aprè-midi
+  type: abreviation
+  note: la moitié de l'après-midi
+- ligne: 2
+  lemme: merveillt
+  type: abreviation
+  note: merveilleusement ; lecture incertaine, « mervt » (transcription antérieure) ou « merveilt » possibles
+- ligne: 3
+  lemme: d'1
+  type: abreviation
+  note: d'un
+- ligne: 3
+  lemme: detachaint
+  type: graphie
+  note: détachaient
+- ligne: 4
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 5
+  lemme: assez
+  type: lecture
+  note: mot comprimé, lecture probable ; « assz » possible
+- ligne: 6
+  lemme: chz
+  type: abreviation
+  note: chez
+- ligne: 7
+  lemme: Beauquesne
+  type: ajout
+  note: ajouté à droite, après le tiret, d'une encre plus pâle et d'un module plus petit
+- ligne: 8
+  lemme: 5^{H}\fr{1}{2} s.
+  type: abreviation
+  note: cinq heures et demie du soir
+- ligne: 11
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 11
+  lemme: abt
+  type: abreviation
+  note: absolument
+- ligne: 11
+  lemme: mort
+  type: graphie
+  note: pour « mortes » ; aucune finale formée après le t (« mortes » dans la transcription antérieure)
+- ligne: 13
+  lemme: gdes
+  type: abreviation
+  note: grandes
+- ligne: 15
+  lemme: rebondissant
+  type: lecture
+  note: lecture nouvelle (a, deux jambages, t, sans point d'i) ; « rebondissait » antérieurement
+critique: Encre violette ; « Beauquesne » (l.~7) est ajouté après coup d'une encre plus pâle, grise-brune, d'un module plus petit. Un blanc d'une ligne précède chacune des journées du 9 et du 10.
+historique: |
+  Le temps noté est celui de l'histoire officielle : le 8, « belle journée après plusieurs jours humides et neigeux » ; le 9, matinée « ponctuée de grains de pluie, de grésil et de neige » ; le 10, temps « au moins aussi défavorable » (OH 1917-I, p.~168, 201, 245). Ce lundi 9 s'ouvre la bataille d'Arras, reportée du 8 au 9 (OH 1917-I, p.~182), et le Canadian Corps prend la crête de Vimy du 9 au 12 avril ; le carnet n'en dit rien. Le notaire de Toutencourt, déjà vu le 3 (voir f.~87 v\textsuperscript{o}), est M\textsuperscript{e} Jules Bienaimé, titulaire de l'étude de 1906 à 1933 (AD Somme, Espel 2018, p.~3--4). Beauquesne, où Combes avait négocié en décembre la location d'une batteuse (f.~57 v\textsuperscript{o}), avait abrité au château de Valvion le QG avancé de Haig pendant la bataille de la Somme (OH 1916-I, p.~304). Belle-Église et Fréchencourt étaient, le 1\textsuperscript{er} juillet 1916, des têtes de ligne pour les vivres (OH 1916-I, p.~274). La famille Denis, d'Hérissart, qu'il fréquentera tout le mois (f.~90 r\textsuperscript{o}), n'est pas identifiée.
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 168, 182, 201, 245.
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274, 304.
+- Archives départementales de la Somme, Fonds de l'Office notarial de Toutencourt, aujourd'hui Acheux-en-Amiénois (1729-1904). Répertoire méthodique détaillé, par A. Espel, Amiens, 2018, p. 3-4.

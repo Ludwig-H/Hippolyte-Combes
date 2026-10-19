@@ -1,0 +1,108 @@
+cliche: 83
+confiance: haute
+changements:
+- ligne: 1
+  avant: Dimanche 22. \hfill Oct /16
+  apres: \sl{Dimanche 22.} \hfill \sl{Oct^{b}/16}
+  justification: date et mois soulignés chacun d'un trait appuyé ; après Oct, petit b en h légèrement surélevé avant la barre de /16
+  confiance: haute
+- ligne: 4
+  avant: 1/2 jour, très beau soleil. Journée superbe.
+  apres: \fr{1}{2} jour, très beau soleil Journée superbe
+  justification: fraction empilée (1 barré au-dessus, 2 bouclé au-dessous) ; aucun point après soleil ni après superbe (délié final)
+  confiance: haute
+- ligne: 5
+  avant: lgts
+  apres: lgs
+  justification: l + g + s descendant, sans t ni barre
+  confiance: haute
+- ligne: 6
+  avant: murs de briques
+  apres: Murs de brique
+  justification: M à long délié d'attaque montant à hauteur de hampe après le point ; brique terminé par un long délié sans s
+  confiance: moyenne
+- ligne: 7
+  avant: si
+  apres: \inc{si}
+  justification: 'mot réduit à une petite boucle fermée et à un trait courbe détaché au-dessus à droite : lecture probable mais non assurée'
+  confiance: moyenne
+- ligne: 8
+  avant: 1914 [?]
+  apres: '1914'
+  justification: 1 à trait d'attaque (aspect ʌ), 9 bouclé, 1, 4 ouvert en h ; lecture sûre
+  confiance: haute
+- ligne: 12
+  avant: renvoyés régiments frs...
+  apres: renvoyés regiments frs. . .
+  justification: aucun accent sur le e de regiments ; après frs (s réduit à un trait vertical précédé d'un point d'attaque) un point, un point en petit trait, un point
+  confiance: moyenne
+- ligne: 13
+  avant: fin jour.
+  apres: fin jour
+  justification: aucun point après jour (le point au-dessus est celui de l'i de fin)
+  confiance: haute
+- ligne: 14
+  avant: 9h s.
+  apres: 9 H s.
+  justification: 'H à deux hastes et traverse, base au niveau de celle du 9 : à la ligne'
+  confiance: haute
+- ligne: 15
+  avant: noire.
+  apres: noire
+  justification: e final plongeant, sans point
+  confiance: haute
+- ligne: 18
+  avant: Ce soir, exceptt, calme absolu.
+  apres: \ind Ce soir, exceptt, calme absolu
+  justification: ligne en retrait ; absolu terminé par un long délié, sans point
+  confiance: haute
+difficultes:
+- ligne: 7
+  lemme: si
+  analyse: zoom ×3 [0 .25 .16 .30] — petite boucle fermée à délié droit (s réduit ?), puis, détaché au-dessus à droite, un trait courbe à tête épaisse ; le « à » de « à cause » (l. 15, [.38 .72 .62 .78]) porte exactement le même trait courbe, mais sur un a ouvert en c, sans boucle fermée ; aucun jambage d'i distinct ; le sens (façade si artistique) impose si
+  alternatives:
+  - à
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1071 caractères ; diocèse d''Amiens 2018, Mérimée PA80000002, Miles OH 1916-II p. 462 ; R1 F27 et R3 F17 (R.A.T.), renvois f. 12 r°, 43 r°, 52 v°. Écrit d''après p1, pas de p2. Combes date le bombardement de la tour de « 1914 », mais la Vierge s''est inclinée le 15 janvier 1915 : l''écart est signalé dans le commentaire. Son passage dans la R.A.T. au 1er novembre 1916 repose sur une lecture seulement probable de sa fiche matricule, d''où le « sans doute ». Contrôle p2 : « 1914 » est sûr sur l''image (aucune correction du chiffre) ; Schumacher lisible malgré un pâté sur -ch-.'
+  alternatives: []
+controle:
+- ligne: 7
+  avant: 'apparat \inc{si} : « à » moins probable ; difficulté : le à de la l. 15 a une forme différente'
+  apres: le trait courbe est identique à l'accent du « à » de la l. 15 ; seul le corps de lettre (boucle fermée / c ouvert) et le sens départagent ; \inc{si} maintenu, « très » écarté
+  justification: zooms ×3 [0 .25 .16 .30] et [.38 .72 .62 .78]
+- ligne: 7
+  avant: difficulté par / pour
+  apres: par (difficulté retirée)
+  justification: zoom ×3 [.80 .24 1.0 .30] — p + a ouvert + r et délié, trois éléments seulement après le p ; aucune boucle d'o
+- ligne: 10
+  avant: difficulté m'a / m'e
+  apres: m'a (difficulté retirée)
+  justification: zoom ×3 [.84 .37 1.0 .42] — m, crochet d'apostrophe lié à un a en ɔ, long délié ; le sens impose m'a
+- ligne: 16
+  avant: difficulté revenir / retenir
+  apres: revenir (difficulté retirée)
+  justification: zoom ×3 [.48 .76 .78 .81] — la haute boucle est un v agrandi, recoupé par le jambage plongeant de « nuit » (l. 15) ; aucune barre de t
+- ligne: 6
+  avant: 'apparat brique : note paléographique détaillée'
+  apres: note réduite à la leçon nouvelle (sans -s)
+  justification: zoom ×3 [.42 .20 .72 .26] — e final prolongé en délié, aucun s ; justification paléographique laissée dans changements
+- ligne: 17
+  avant: 'apparat billet : cantonnement, logement'
+  apres: 'anglais : cantonnement, logement'
+  justification: emprunt à l'anglais (billet, logement chez l'habitant) précisé
+remarques: La Vierge dorée du clocher d'Albert, frappée par un obus, pendait à l'horizontale depuis janvier 1915 ; Hippolyte Combes rattache le dommage au bombardement de 1914.
+resume: 'Dimanche 22 octobre 1916 à Albert : nuit de forte gelée, canonnade incessante, journée de beau soleil. L''après-midi, Hippolyte Combes s''arrête longuement devant l''église de briques rouges, dont la haute tour a été atteinte par les obus en 1914 et dont la Vierge, devenue horizontale, penche l''Enfant au-dessus de la place. Il rencontre des interprètes ; Schumacher lui apprend que les deux tiers des interprètes, jeunes territoriaux de la R.A.T., seront renvoyés dans des régiments français. Les canons se taisent le soir ; au retour du mess vers 9 heures, il se perd sur le plateau dans la nuit noire avant de retrouver son logement à Albert. Calme absolu, exceptionnellement, ce soir-là.'
+noms:
+  personnes:
+  - forme: Schumacher
+    ligne: 10
+    identite: adjudant, interprète militaire français
+  lieux:
+  - forme: église
+    ligne: 6
+    identite: basilique Notre-Dame-de-Brebières, Albert (Somme)
+  - forme: Albert
+    ligne: 16
+    identite: Albert (Somme)
+source: contrôle

@@ -1,0 +1,170 @@
+cliche: 116
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 28 Jeudi \hfill Décembre 1916
+  apres: 28 \sl{Jeudi} \hfill Decembre \sl{1916}
+  justification: seul Jeudi est souligné à gauche ; à droite le trait commence sous la fin du mois et couvre 1916 ; aucun accent sur Decembre
+  confiance: haute
+- ligne: 2
+  avant: Très fortt gelé nuit.
+  apres: \ind Très fort^{t} gelé nuit
+  justification: t final surélevé, barré ; ligne en retrait ; aucun point après nuit
+  confiance: moyenne
+- ligne: 4
+  avant: du côté d'Hébuterne.
+  apres: du coté d'Hebuterne \trait
+  justification: pas de circonflexe ni d'accent sur Hebuterne ; trait fin tiré après le mot
+  confiance: moyenne
+- ligne: 5
+  avant: Au matin, dégelé rapidt et bientôt
+  apres: \ind Au matin, dégelé rapid^{t} et bientot
+  justification: t suscrit net au-dessus de rapid ; la barre sur bientot est celle du t, sans circonflexe
+  confiance: haute
+- ligne: 6
+  avant: routes, redevenues affreust boueuses.
+  apres: routes, redevenues affreut boueuses
+  justification: 'zoom ×4 : a, ff, r, e, u puis t, aucun s ; pas de point final'
+  confiance: moyenne
+- ligne: 7
+  avant: Après breakfast, venu à pied à Léalvillers,
+  apres: \ind Après breakfast venu a pied à Lealvillers,
+  justification: pas de virgule après breakfast ; seul le second a porte l'accent ; aucun accent sur Lealvillers
+  confiance: moyenne
+- ligne: 8
+  avant: retour à pied. Promenade hygiénique.
+  apres: retour a pied. Promenade, hygiénique
+  justification: virgule (trait vertical) après Promenade ; a sans accent ; pas de point final
+  confiance: moyenne
+- ligne: 10
+  avant: A 6h s., concert au Y.M.C.A. hut. 13th
+  apres: A 6^{H} s., concert à Y.M.C.A-hut. 13th
+  justification: H suscrit ; a surmonté d'un accent, sans u ; tiret entre A et hut
+  confiance: haute
+- ligne: 11
+  avant: Corps Archie Singers. Chansons comiques
+  apres: corps Archie Singers. Chansons comiques
+  justification: c initial au module des minuscules
+  confiance: moyenne
+- ligne: 13
+  avant: '[ — Brown Boot Polish : 20 c'
+  apres: '\equerre{3}— Brown Boot Polish : 20c.'
+  justification: équerre (trait horizontal en tête, haste verticale) sur les trois lignes de compte
+  confiance: haute
+- ligne: 14
+  avant: '— Boîte recommandée à Imbert, opticien / Paris : 30 c'
+  apres: '— Boite recommandée – à Imbert, opticien : (puis l. 15 : 30c : … Paris)'
+  justification: 'tiret avant à ; deux-points après opticien ; 30c : et Paris sont sur la ligne de base de Concert'
+  confiance: moyenne
+- ligne: 16
+  avant: 29 Ve. Temps doux. Ciel couvert.
+  apres: \sl{29 Ve.} Temps doux – ciel couvert
+  justification: date soulignée ; tiret après doux ; ciel en minuscule
+  confiance: haute
+- ligne: 18
+  avant: Matinée, avec Sunbeam Car, du Major
+  apres: Matinée, avec Sunbeam Car, du major
+  justification: m initial minuscule
+  confiance: moyenne
+- ligne: 19
+  avant: Levy, course à Raincheval, Quesnoy &
+  apres: Levy, course à Raincheval, & Quesnoy,
+  justification: l'esperluette précède Quesnoy ; virgule en fin de ligne
+  confiance: haute
+- ligne: 21
+  avant: Rentré à 3h s.
+  apres: \ind Rentré à 3^{H} s.
+  justification: H suscrit au-dessus du 3
+  confiance: haute
+- ligne: 22
+  avant: Liberté entière fin après-midi.
+  apres: Liberté entiere fin après-midi
+  justification: la barre sur tie est celle du t, sans accent distinct ; pas de point
+  confiance: moyenne
+- ligne: 24
+  avant: chambre sans feu, et fenêtres ouvertes.
+  apres: chambre sans feu, et fenetres ouvertes
+  justification: pas de circonflexe, la barre est celle du t ; pas de point
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: affreut
+  analyse: a fermé, double haste de ff, r en pointe, e bouclé, u à deux jambages, t haut et barré ; aucune finale ʒ ni crochet de s avant le t (contrôle p2 sur la tuile t2d, confirmé)
+  alternatives:
+  - affreust
+- ligne: 7
+  lemme: Lealvillers
+  analyse: 'p2 (zoom ×3 [.74 .235 1.0 .29]) : L, e, a, l, v, i, ll, e, r puis long délié horizontal ; le s final n''est pas distinct (finale réduite) ; trait oblique séparé = virgule'
+  alternatives:
+  - Lealviller
+- ligne: 9
+  lemme: workshop
+  analyse: w o r k s h o p lisibles ; la finale après la boucle du p est un court délié, non un s plongeant
+  alternatives:
+  - workshops
+- ligne: 13
+  lemme: 20c.
+  analyse: 'p2 (zoom ×3 [.58 .465 .80 .525]) : un seul point à mi-hauteur après le c ; le tiret placé plus bas est l''accent du à de la ligne suivante'
+  alternatives:
+  - '20c :'
+- ligne: 14
+  lemme: 'Imbert, opticien :'
+  analyse: 'p2 (zoom ×3 [.62 .48 1.0 .585]) : I en J, m, b bouclé, e-r fondus en aspect a, t à longue barre ; petite virgule ; opticien très compressé (o, p, t, i, c, i, e, n) ; deux-points au bord droit'
+  alternatives:
+  - Imbat
+- ligne: 23
+  lemme: Tempérre
+  analyse: 'p2 (zoom ×3 [.03 .905 .27 .96]) : T, e, m, p (jambage), e, jambage descendant pointé (accent et r), r, e prolongé : forme tempérre'
+  alternatives:
+  - Tempére
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1098 caractères ; Falls 1940 (OH 1917-I, p. 66), dépêches de Haig (Boraston 1919, p. 66), Partridge 1937 (« Archie »), Yapp 1918, *London Gazette* suppl. 29585 (W. H. Levy), Grace''s Guide ; aucune opération n''est attestée vers Hébuterne le 28 décembre (recherche web sans résultat). « Quesnoy » est rapproché du lieu-dit Le Quesnoy de Puchevillers, à titre d''hypothèse. Contrôle p2 : Quesnoy (Q en grand 2, e, s, n, o, y) et Levy (zoom ×3) confirmés sur l''image.'
+  alternatives: []
+controle:
+- ligne: 7
+  avant: 'apparat graphie « Lealvillers » : Léalvillers (Somme)'
+  apres: note supprimée
+  justification: simple absence d'accent, la graphie n'égare pas ; l'identification reste dans noms
+- ligne: 11
+  avant: note de 13th couvrant « 13th corps Archie Singers »
+  apres: note 13th réduite à la traduction ; note d'emprunt propre pour « Archie Singers »
+  justification: chaque tour anglais reçoit sa traduction ; Archie (argot de l'artillerie antiaérienne) éclaire le nom de troupe
+- ligne: 14
+  avant: aucune note de lecture sur Imbert
+  apres: 'note lecture : e et r fondus (aspect Imbat) ; Imbert retenu'
+  justification: lecture réellement difficile (zoom ×3), à signaler au lecteur ; transcription inchangée
+- ligne: 13
+  avant: aucune note pour 20c.
+  apres: 'abréviation : 20 centimes'
+  justification: 'abréviation monétaire non développée dans la première lecture ; affreut : justification paléographique retirée de la note d''abréviation et mise en note de lecture brève'
+remarques: Lieu de résidence (Acheux) déduit du contexte des pages voisines.
+resume: Le 28 décembre 1916, après une nuit de forte gelée et une violente canonnade du côté d'Hébuterne, le dégel rend les routes boueuses. Hippolyte Combes va à pied à Léalvillers et en revient ; sa voiture étant à l'atelier, il a la journée libre et assiste le soir au concert des « 13th Corps Archie Singers » au foyer du Y.M.C.A. Il note l'achat de cirage, l'envoi d'une boîte recommandée à l'opticien Imbert à Paris et le prix du concert. Le 29, par temps doux, il fait le matin une tournée en voiture Sunbeam du major Levy à Raincheval, Le Quesnoy et Louvencourt, rentre à 3 heures et peut travailler fenêtres ouvertes.
+noms:
+  personnes:
+  - forme: Imbert
+    ligne: 14
+    identite: opticien à Paris
+  - forme: major Levy
+    ligne: 18
+    identite: Major Levy, du D.O.S.T. (officier britannique)
+  lieux:
+  - forme: Hebuterne
+    ligne: 4
+    identite: Hébuterne (Pas-de-Calais)
+  - forme: Lealvillers
+    ligne: 7
+    identite: Léalvillers (Somme)
+  - forme: Paris
+    ligne: 15
+    identite: Paris
+  - forme: Raincheval
+    ligne: 19
+    identite: Raincheval (Somme)
+  - forme: Quesnoy
+    ligne: 19
+    identite: Le Quesnoy, ferme ou hameau près de Raincheval (Somme), identification non établie
+  - forme: Louvencourt
+    ligne: 20
+    identite: Louvencourt (Somme)
+source: contrôle

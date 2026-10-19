@@ -1,0 +1,99 @@
+cliche: 73
+confiance: haute
+changements:
+- ligne: 1
+  avant: Octb / 16
+  apres: \sl{Oct^{b} /16}
+  justification: la panse du b est nettement au-dessus de la ligne de base de « Oc » ; date et mois soulignés
+  confiance: haute
+- ligne: 9
+  avant: houle.. –
+  apres: houle. –
+  justification: un seul point sur la ligne ; le second point, plus bas, est celui du i de « symphonie »
+  confiance: haute
+- ligne: 11
+  avant: Ven. 13.
+  apres: \sl{Ven. 13.}
+  justification: trait violet sous la date, appuyé à gauche, plus pâle à droite et terminé en crosse vers x ≈ .27, au-dessus de « de cendre »
+  confiance: moyenne
+- ligne: 15
+  avant: av. Cap. Pant.
+  apres: av Cap. Pant
+  justification: 'aucun point après av ni après Pant : la barre du t se prolonge vers « au » ; le point de Cap. est un court trait bas'
+  confiance: haute
+- ligne: 16
+  avant: 4 k..
+  apres: 4 \inc{kils}..
+  justification: après le 4 ouvert, k bouclé, petit tracé (i), haste barrée (l), finale brève (s) ; deux points ensuite
+  confiance: moyenne
+difficultes:
+- ligne: 16
+  lemme: 4 \inc{kils}..
+  analyse: 'zoom ×3 [.52 .85 .80 .91] : premier signe ouvert en h (4 ouvert, guide § 6) ; puis petit c ou i sans point, haste haute barrée (l, la barre peut appartenir au k), finale courte en r ou s ; deux points sur la ligne, le premier sous la boucle du g de « village ». Le k n''a pas de forme propre distincte : il peut être fondu avec le 4 ou avec le c'
+  alternatives:
+  - 4 kil..
+  - 4 k^{ils}..
+  - 4 kos..
+- ligne: 3
+  lemme: Après-midi
+  analyse: 'graphie réduite « Aprè- » : A pointu, p, r, e surmonté d''un accent grave, sans s distinct ; même forme l. 14 (trait d''union en point) ; transcrit selon l''usage établi des autres pages'
+  alternatives:
+  - Aprè-midi
+- ligne: 15
+  lemme: av
+  analyse: a + v arrondi en forme de « u », sans e ni point ; la forme se confond avec « au » (l. 6, l. 15) ; le contexte (course à cheval avec le capitaine) impose avec
+  alternatives:
+  - au
+- ligne: 15
+  lemme: Pant
+  analyse: 'zoom ×2 [.18 .805 .52 .865] : P à haste et boucle haute, repris (première passe plus pâle), puis a, n, t barré ; R + ent moins probable. Aucun point final'
+  alternatives:
+  - Rent
+- ligne: 9
+  lemme: lgs
+  analyse: l + g + s long descendant sous la ligne ; le trait horizontal voisin est l'accent de « Resté »
+  alternatives:
+  - lgt
+- ligne: 18
+  lemme: Regret de
+  analyse: 'zoom ×2 [.56 .945 .85 1.0] : entre « Regre » et « de » deux hastes, dont l''une est le jambage du q de « que » (l. 17) qui descend dans la ligne ; la barre du t les recouvre, d''où l''aspect « Regrett » ; le d de « de » a sa propre haste'
+  alternatives:
+  - Regrett de
+- ligne: 12
+  lemme: grosses
+  analyse: initiale à grande attaque haute et long jambage bouclé ; module de minuscule agrandie, sans forme propre de G
+  alternatives:
+  - Grosses
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: « Cap. Pant » est une abréviation ; « Panton » n'est qu'une restitution de l'édition antérieure, personnage non identifié (JMO 7/Bedf, Wyrall, Nichols consultés sans résultat) ; la note d'apparat le dit.
+  alternatives: []
+controle:
+- ligne: 15
+  avant: 'apparat Pant : Panton (capitaine britannique) ; sans point abréviatif'
+  apres: nom abrégé ; « Panton » est une restitution, l'officier n'est pas identifié
+  justification: suit la remarque du commentateur historique ; l'absence de point relève de la transcription, non de l'apparat
+- ligne: 16
+  avant: 'apparat \inc{kils} : description des traits'
+  apres: lecture retenue et alternatives seulement
+  justification: épuration de l'apparat imprimé ; l'analyse est reportée dans difficultes, vérifiée au zoom ×3
+- ligne: 1
+  avant: 'critique : soulignement pâle de « Ven. 13. »'
+  apres: critique vide
+  justification: le trait est de la même encre violette, seulement moins appuyé à droite ; détail sans intérêt pour le lecteur
+- ligne: 1
+  avant: 'apparat Oct^{b} : octobre ; b suscrit'
+  apres: octobre
+  justification: la suscription est rendue par le balisage
+remarques: Le cantonnement (Barlette, près de Ribeaucourt) est déduit des pages voisines ; la page ne le nomme pas.
+resume: Le jeudi 12 octobre 1916, par temps pluvieux, Hippolyte Combes conduit l'après-midi un limber et des G.S. wagons dans un grand champ de luzerne coupée. À l'aller et au retour, il s'attarde dans les bois pour écouter le vent en rafales, semblable au bruit de la houle. Le vendredi 13, sous un ciel bas et gris, il fait l'après-midi une course à cheval avec le capitaine « Pant » jusqu'au village de Prouville, à 4 kilomètres. Au dîner, il apprend que la compagnie changera de cantonnement le dimanche et regrette de partir.
+noms:
+  personnes:
+  - forme: Cap. Pant
+    ligne: 15
+    identite: capitaine britannique de la compagnie, nom abrégé (restitué « Panton »), non identifié
+  lieux:
+  - forme: Prouville
+    ligne: 16
+    identite: Prouville (Somme), près de Bernaville
+source: contrôle

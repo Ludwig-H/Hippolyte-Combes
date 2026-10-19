@@ -1,0 +1,123 @@
+cliche: 169
+fichier: 20251126_111321.jpg
+date: Vendredi 16 – samedi 17 mars 1917
+mois: Mars 1917
+lieux: Hérissart, Contay, Warloy-Baillon, Albert, Ribemont-sur-Ancre et Puchevillers (Somme)
+titre: Gel ; Albert et Ribemont ; à pied à Puchevillers avec le Lt Wentworth ; cavalerie
+transcription: |
+  Ven. \sl{16} \hfill — \sl{Mars 1917} —
+  \ind[2] Nuit trè froide. Gelé
+  dur. Au reveil, trouvé boue sechée.
+  \ind Matin, courses a Mirvaux & Pierregot
+  Early lunch terminé, venus à Albert, par
+  Contay-Warloy-Senlis. Revu av interet ville
+  d'Albert : maisons atteintes par obus, basilique
+  etc. etc. & troupes australiennes cantonnées.
+  Au retour, long arrêt à Ribemont. pour
+  acheter fourrage. Heureux de revoir ce village
+  où laissé connaissances trè sympathiques
+  \blanc{2}
+  [Blacksmith d'Herissart : repar à ferrure \inc{sac} : 30 c
+  \sl{Sam. 17 —}
+  \ind Trè belle journée. Soleil printanier.
+  Matinée, venu à pied & retour id. Toutencourt
+  apres-midi, promenade à pied à Puchevillers
+  & retour de \inc{=}, avec Lt. Wentworth. air si
+  chaud que sué bp \add{Auto aux workshops} Marche m'a fait bien.
+  \ind Troupes cavalerie indigène & anglaise
+  traversé village au trot – – –
+  \blanc{2}
+  [A Toutencourt c^{tes} p^{les} : 1^{f} + 15 c
+  \ind[3] et a soie)
+apparat:
+- ligne: 1
+  lemme: Ven.
+  type: abreviation
+  note: vendredi
+- ligne: 2
+  lemme: trè
+  type: abreviation
+  note: très
+- ligne: 5
+  lemme: Early lunch
+  type: emprunt
+  note: déjeuner pris tôt
+- ligne: 6
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 8
+  lemme: etc. etc.
+  type: abreviation
+  note: et cetera
+- ligne: 11
+  lemme: trè
+  type: abreviation
+  note: très
+- ligne: 12
+  lemme: Blacksmith
+  type: emprunt
+  note: forgeron
+- ligne: 12
+  lemme: repar
+  type: abreviation
+  note: réparation
+- ligne: 12
+  lemme: \inc{sac}
+  type: lecture
+  note: lecture probable (s montant, a, c) ; autre lecture possible bac
+- ligne: 12
+  lemme: 30 c
+  type: abreviation
+  note: 30 centimes
+- ligne: 13
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 14
+  lemme: Trè
+  type: abreviation
+  note: Très
+- ligne: 15
+  lemme: id.
+  type: abreviation
+  note: idem (retour à pied, comme l'aller)
+- ligne: 17
+  lemme: \inc{=}
+  type: lecture
+  note: signe = (même), soit retour à pied ; ou simple tiret
+- ligne: 17
+  lemme: Lt.
+  type: abreviation
+  note: lieutenant
+- ligne: 18
+  lemme: bp
+  type: abreviation
+  note: beaucoup
+- ligne: 18
+  lemme: Auto aux workshops
+  type: ajout
+  note: écrit petit dans l'interligne, sous « sué bp »
+- ligne: 18
+  lemme: workshops
+  type: emprunt
+  note: ateliers (de réparation)
+- ligne: 21
+  lemme: c^{tes} p^{les}
+  type: abreviation
+  note: cartes postales
+- ligne: 21
+  lemme: 1^{f} + 15 c
+  type: abreviation
+  note: 1 franc plus 15 centimes
+- ligne: 22
+  lemme: et a soie)
+  type: ajout
+  note: écrit petit sous « c^{tes} p^{les} » ; cartes postales, dont des cartes de soie
+critique: Encre violette ; « Albert » et la fin de « workshops » sont repassés d'une encre plus vive. « Auto aux workshops » est une note indépendante, écrite petit dans l'interligne. Rousseurs dans le haut de la page.
+historique: |
+  Le 16 mars est le premier « jour de marche » du repli allemand sur la ligne Hindenburg (plan \textit{Alberich} : OH 1917-I, p.~110--115) ; le 17, la 8th Australian Brigade entre dans Bapaume encore en feu (p.~131--132). Combes revoit Albert, quittée au début de novembre 1916 (voir f.~39~v\textsuperscript{o}) ; les Australiens qui y cantonnent relèvent du I Anzac Corps, passé à la Fifth Army le 15 février (p.~74). Ribemont-sur-Ancre appartient au pays où cantonnait la division à l'hiver 1915--1916 (Becke 1938, p.~83, n.~14), déjà revu le 1\textsuperscript{er} décembre et le 12 février (voir f.~52~v\textsuperscript{o} et 76~v\textsuperscript{o}). Les \textit{workshops} sont les ateliers du transport automobile de l'A.S.C. (Puckle 1917, p.~19--21) ; l'auto y est encore le 18 (f.~85~r\textsuperscript{o}). Le lieutenant Wentworth est sans doute l'officier australien arrivé le 6 mars (voir f.~81~v\textsuperscript{o}). La cavalerie « indigène » est indienne : le 17, la Lucknow Cavalry Brigade monte à Albert (OH 1917-I, p.~138), et les escadrons vus à Hérissart en sont peut-être. Les cartes « à soie » sont sans doute des cartes postales brodées.
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 74, 110-115, 131-132, 138.
+- 'Becke, A. F., Order of Battle of Divisions, Part 3A : New Army Divisions (9-26), London, HMSO, 1938, p. 83, n. 14.'
+- Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 19-21.

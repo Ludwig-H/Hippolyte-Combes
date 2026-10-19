@@ -1,0 +1,206 @@
+cliche: 126
+confiance: haute
+changements:
+- ligne: 1
+  avant: 20 Sam. \hfill — Janvier 1917
+  apres: 20 \sl{Sam.} \hfill — \sl{Janvier 1917} –
+  justification: soulignements nets sous Sam. et sous le mois (le J s'y prolonge) ; petit tiret après 1917
+  confiance: haute
+- ligne: 2
+  avant: Repos tout le jour.
+  apres: \ind[3] Repos tout le jour.
+  justification: note écrite en fort retrait (≈ 0,2 de la largeur), plus bas que la date
+  confiance: haute
+- ligne: 3
+  avant: lu — et toilette.
+  apres: lu \inc{à} toilette.
+  justification: petit a suivi d'un accent détaché haut à droite, même schéma que « à pied » (l. 11) et « à Amiens » (l. 18) ; aucun tiret avant
+  confiance: moyenne
+- ligne: 5
+  avant: encore tout blancs.
+  apres: encore tout blancs
+  justification: aucun point après le délié final
+  confiance: moyenne
+- ligne: 6
+  avant: Froid sec. Gelé très fortement.
+  apres: \ind Froid sec. Gelé très fortement
+  justification: ligne légèrement en retrait ; pas de point final
+  confiance: moyenne
+- ligne: 8
+  avant: 21 Dim. Nuit, gelé très fort. Froid sec.
+  apres: 21 \sl{Dim.} Nuit, gelé très fort. Froid sec –
+  justification: 'Dim. souligné ; après sec, aucun point : un tiret court au niveau de la ligne de base'
+  confiance: haute
+- ligne: 9
+  avant: j'à
+  apres: j-à
+  justification: trait d'union court, cf. guide § 8 n° 12
+  confiance: haute
+- ligne: 10
+  avant: Cuis[?]
+  apres: Cuis^{r}
+  justification: C, u, i, ſ long descendant, puis petit r nettement surélevé ; point abréviatif
+  confiance: haute
+- ligne: 11
+  avant: 2 kilog.
+  apres: 2 \inc{kil'g.}
+  justification: 'aucun o à la ligne : k, i, l, petit trait suscrit à crochet, g à boucle et longue descente, point'
+  confiance: moyenne
+- ligne: 14
+  avant: '[ — Canteen : Wren''s Dubbin : 3 tins : 30 c ]'
+  apres: '\ind[2] [— Canteen : Wren''s Dubbin : 3 tins : 30c'
+  justification: aucun crochet fermant ; ligne en retrait ; 30c sans espace
+  confiance: haute
+- ligne: 15
+  avant: Après-midi, liberté. Commencé préparatifs
+  apres: après-midi, liberté. Commencé preparatifs
+  justification: a initial au module d'une minuscule ; aucun accent sur preparatifs
+  confiance: moyenne
+- ligne: 16
+  avant: départ.
+  apres: départ
+  justification: le t se prolonge en long délié, sans point
+  confiance: moyenne
+- ligne: 17
+  avant: 23 Mardi | Hier & auj'd'hui, liberté entière.
+  apres: \sl{23 Mardi} [ Hier & aujdhui liberté entière
+  justification: trait oblique de soulignement sous la date ; crochet ouvrant ; aucune apostrophe, virgule ni point final
+  confiance: haute
+- ligne: 18
+  avant: Hier, Capne W., à Amiens — seul.
+  apres: \ind[3] Hier, Cap^{ne} W, à Amiens — seul.
+  justification: ligne en retrait sous le crochet ; finale de Cap suscrite en ondulation ; la virgule suit W directement, sans point
+  confiance: haute
+- ligne: 19
+  avant: Tempérre
+  apres: Tempér^{re}
+  justification: finale suscrite réduite à une ondulation
+  confiance: haute
+- ligne: 20
+  avant: complèt mates de glace.
+  apres: complèt^{t} mates de glace
+  justification: t suscrit en croix au-dessus de la ligne ; pas de point final
+  confiance: haute
+- ligne: 21
+  avant: 1/2 jour
+  apres: \fr{1}{2} jour
+  justification: '1 au-dessus d''une barre horizontale, 2 dessous : fraction empilée'
+  confiance: haute
+- ligne: 22
+  avant: Neige étincelle sous ses rayons.
+  apres: Neige etincelle sous ses rayons
+  justification: aucun accent sur le e initial (le trait vertical qui le précède est le jambage du f de « fond », l. 21) ; délié final sans point
+  confiance: moyenne
+difficultes:
+- ligne: 3
+  lemme: \inc{à}
+  analyse: 'petit a fermé lié à droite, puis tiret horizontal haut et à droite (accent détaché) : tracé identique à « à Amiens » l. 18 et « à pied » l. 11 ; ni boucle ni descente des & de la page (l. 4, 17, 19) ; « et » supposerait une haste de t absente'
+  alternatives:
+  - et
+  - '&'
+- ligne: 3
+  lemme: toilette
+  analyse: t initial bouclé, o, l haut, e, tt sous la barre (confondue avec le soulignement du mois qui passe au-dessus), e et délié remontant
+  alternatives: []
+- ligne: 9
+  lemme: Matinée
+  analyse: finale -née noyée dans un pâté d'encre ; le e final remonte en crosse
+  alternatives:
+  - Matin
+- ligne: 10
+  lemme: Cuis^{r}
+  analyse: C, u, i (point en tiret décalé), ſ long descendant, r surélevé surmonté d'un petit crochet, point
+  alternatives:
+  - Cuis^{er}
+- ligne: 11
+  lemme: \inc{kil'g.}
+  analyse: 'k bouclé, i pointé, l ; petit trait suscrit à crochet ; dernière lettre à boucle fermée et longue descente terminée en crochet à gauche, comme les g de « Neige » (l. 12, 22) et « glace » (l. 20), plus longue que le 9 de « 1917 » (l. 1) ; point bas. Sens attendu : kilomètres'
+  alternatives:
+  - kilog.
+  - kil^{o}g.
+  - kil 9
+- ligne: 16
+  lemme: départ
+  analyse: d et e noyés dans un pâté ; accent non vérifiable, conservé
+  alternatives:
+  - depart
+- ligne: 17
+  lemme: '['
+  analyse: trait vertical à peine incurvé, petit pied à droite, sans retour en tête ; limité à la hauteur de la l. 17, il s'arrête au-dessus du H de « Hier » (l. 18)
+  alternatives:
+  - (
+  - '|'
+- ligne: 17
+  lemme: entière
+  analyse: 'un seul trait horizontal au-dessus de -re : barre du t décalée ou accent grave'
+  alternatives:
+  - entiere
+- ligne: 18
+  lemme: Cap^{ne} W
+  analyse: Cap à p descendant, petite ondulation suscrite ; le trait qui suit W est la fin du jambage du j de « aujdhui » (l. 17), non une lettre
+  alternatives:
+  - Cap^{n} W
+- ligne: 19
+  lemme: Tempér^{re}
+  analyse: aucun accent distinct sur le e ; l'ondulation suscrite après r vaut abréviation (même tracé que Cap^{ne}, l. 18)
+  alternatives:
+  - Temper^{re}
+controle:
+- ligne: 2
+  avant: \ind[2] Repos tout le jour.
+  apres: \ind[3] Repos tout le jour.
+  justification: même retrait (≈ 0,2 de la largeur) que « Hier, Cap^{ne} W » (l. 18, \ind[3]) ; convention des notes de tête (002)
+- ligne: 8
+  avant: Froid sec. –
+  apres: Froid sec –
+  justification: 'zoom : aucun point après sec, seul un tiret court au niveau de la ligne de base'
+- ligne: 3
+  avant: 'apparat lecture : « on attendrait & (et) »'
+  apres: apparat lecture abrégé, comparaison avec « à Amiens » (l. 18)
+  justification: le tracé de « à Amiens » confirme la forme ; doute seulement sémantique, \inc{} maintenu
+- ligne: 6
+  avant: 'apparat « très » : forme réduite (aspect hu)'
+  apres: note supprimée
+  justification: 'mot transcrit en entier : justification paléographique, non imprimée'
+- ligne: 10
+  avant: Cuisinier (r suscrit) ; cf. Mme Cuisinier à Louvencourt (112, 118)
+  apres: Cuisinier (cf. 112, 118)
+  justification: le r suscrit est rendu par le balisage
+- ligne: 11
+  avant: 'note : lu antérieurement « kilog. »'
+  apres: 'note : autres lectures « kilog. » et « kil 9 » (2,9 km)'
+  justification: 033 porte « 2 kil 5 » (2,5 km) ; la dernière lettre a toutefois la forme des g de la page, plus longue que le 9 de 1917
+- ligne: 14
+  avant: 'apparat disposition : grand crochet descendant sous la ligne, non refermé'
+  apres: note supprimée
+  justification: le crochet ne couvre que la l. 14 ; « [ » dans le texte suffit (BALISAGE § 5)
+- ligne: 14
+  avant: ''
+  apres: 'apparat 30c : 30 centimes'
+  justification: abréviation non relevée
+- ligne: 17
+  avant: 'apparat disposition : crochet descendant jusqu''à la ligne suivante'
+  apres: note supprimée
+  justification: 'zoom : le crochet s''arrête au-dessus du H de « Hier » (l. 18) ; le retrait de la l. 18 est rendu par \ind[3]'
+- ligne: 18
+  avant: 'difficulté : trait après W = descente du & de la l. 17'
+  apres: trait après W = fin du jambage du j de « aujdhui »
+  justification: le & de la l. 17 est loin à gauche ; le j de aujdhui descend exactement sur W
+remarques: 'Le lundi 22 n''a pas d''entrée propre : il est résumé par « Hier » le 23. Distance de la l. 11 non tranchée (kilog. / kil 9).'
+resume: 'Samedi 20 janvier 1917 : repos toute la journée, à la chambre ou au bureau ; la neige ne fond pas et il gèle très fort. Dimanche 21 : Hippolyte Combes va en auto à Louvencourt voir Mme Cuisinier et en revient à pied, à sa demande, par une route durcie (environ 2 km) ; il achète à la cantine trois boîtes de graisse Wren''s Dubbin (30 c) et commence l''après-midi ses préparatifs de départ. Mardi 23 : liberté entière ce jour et la veille ; le lundi 22, le capitaine Williams est allé seul à Amiens. Température très basse, vitres couvertes de glace, neige étincelant au soleil de midi.'
+noms:
+  personnes:
+  - forme: Mme Cuis^{r}
+    ligne: 10
+    identite: Mme Cuisinier, de la ferme Cuisinier à Louvencourt (112, 118)
+  - forme: Cap^{ne} W
+    ligne: 18
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  lieux:
+  - forme: Louvencourt
+    ligne: 9
+    identite: Louvencourt (Somme)
+  - forme: Amiens
+    ligne: 18
+    identite: Amiens (Somme)
+source: contrôle

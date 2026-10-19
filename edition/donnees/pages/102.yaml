@@ -1,0 +1,131 @@
+cliche: 102
+fichier: 20251126_104903.jpg
+date: Mercredi 22 – jeudi 23 novembre 1916
+mois: Novembre 1916
+lieux: Acheux-en-Amiénois, Authieule et Authie (Somme) ; Amplier (Pas-de-Calais)
+titre: Diarrhée et diète ; culottes élargies par le logeur Carluvant ; course à Amplier et Authie
+transcription: |
+  \droite \sl{Novembre 1916} —
+  22 Me Hier soir, indigestion & dérangement
+  d'entrailles. Ni thé, ni souper. 7 selles
+  liquides. dans la nuit. dû me lever
+  Chaque fois
+  \inc{Auj'd'hui} léger mieux. Mais dysenterie
+  \inc{Nombreuses} selles \ill clair — 1 peu de
+  fièvre. Me suis menagé. Mangé très
+  peu – Fin jour, amélioration très sensible
+  – presque guéri –
+  \crochet{2}A propr^{e} M. \inc{Carluvant}, tailleur : 75c
+  (élargi culottes neuves par derrière
+  Nuit très noire – dès 5^{H} \fr{1}{2} s. — Rue
+  boueuse & impraticable
+  \filet
+  23 \sl{Jeudi}. Enfin 1 très belle journée.
+  \ind[2] mais temps 1 peu froid –
+  Sol Tjours spongieux & mou. seche
+  très lentement
+  matinée reposé \add{\inc{assis}} s/ lit du clerk à
+  l'office. Après-midi, course en auto
+  Amplier – Authieule et Authie – Rentré pour
+  le thé –
+  Nuit ext^{t} obscure. – Difficile marche rue
+  tout à fait rétabli légère indisposition
+  \equerre{1}Washing : 1 \inc{25}. —
+apparat:
+- ligne: 2
+  lemme: Me
+  type: abreviation
+  note: mercredi
+- ligne: 3
+  lemme: 7 selles
+  type: lecture
+  note: 7 à barre médiane, d'aspect + ; lecture de l'état antérieur maintenue
+- ligne: 6
+  lemme: \inc{Auj'd'hui}
+  type: lecture
+  note: mot noyé sous un pâté d'encre ; seuls j, d et hui se devinent
+- ligne: 6
+  lemme: Auj'd'hui
+  type: abreviation
+  note: aujourd'hui
+- ligne: 7
+  lemme: \inc{Nombreuses}
+  type: lecture
+  note: lecture nouvelle ; Nouvelles possible
+- ligne: 7
+  lemme: \ill
+  type: surcharge
+  note: mot repassé à l'encre épaisse sur un premier tracé ; jaune ? glaireuses ?
+- ligne: 7
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 11
+  lemme: propr^{e}
+  type: abreviation
+  note: propriétaire
+- ligne: 11
+  lemme: M.
+  type: abreviation
+  note: Monsieur
+- ligne: 11
+  lemme: \inc{Carluvant}
+  type: lecture
+  note: même nom en 118 et 146–148 ; Carlumont possible
+- ligne: 11
+  lemme: 75c
+  type: abreviation
+  note: 75 centimes
+- ligne: 13
+  lemme: 5^{H} \fr{1}{2} s.
+  type: abreviation
+  note: cinq heures et demie du soir ; s. réduit à un trait vertical
+- ligne: 15
+  lemme: Enfin 1 très
+  type: abreviation
+  note: 1 = une
+- ligne: 16
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 17
+  lemme: Tjours
+  type: abreviation
+  note: toujours
+- ligne: 19
+  lemme: \add{\inc{assis}}
+  type: ajout
+  note: mot écrit petit sous « reposé » ; aussi possible
+- ligne: 19
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 19
+  lemme: clerk
+  type: emprunt
+  note: commis, secrétaire du bureau
+- ligne: 20
+  lemme: l'office
+  type: emprunt
+  note: 'office : le bureau (de la compagnie)'
+- ligne: 23
+  lemme: ext^{t}
+  type: abreviation
+  note: extrêmement
+- ligne: 24
+  lemme: rétabli légère
+  type: lecture
+  note: après rétabli, boucle prolongée d'un long délié ; « rétabli de légère » possible
+- ligne: 25
+  lemme: Washing
+  type: emprunt
+  note: blanchissage
+- ligne: 25
+  lemme: 1 \inc{25}
+  type: compte
+  note: 1 franc 25 ; 5 en haute boucle descendante, sans f monétaire ; 1 2 f. possible
+critique: Encre noire virée au brun. Un mot de la description des selles est fortement repassé et un pâté d'encre couvre le début de la ligne précédente.
+historique: |
+  Le logeur-tailleur, dont le nom pourrait aussi se lire « Carlumont », est sans doute le propriétaire du n°~1, route de Léalvillers, où Combes loge depuis le 5 novembre (voir f.~47~r\textsuperscript{o}) ; il lui annoncera le 1\textsuperscript{er} janvier 1917 qu'il doit quitter la maison (f.~59~r\textsuperscript{o}) et lui offrira, avec sa femme, un déjeuner le 7 février (f.~73~r\textsuperscript{o}). Les 75~c de la retouche sont à comparer aux 38~f payés à Toulouse pour la façon d'une tunique (f.~31~r\textsuperscript{o}) ; la note de blanchissage, 1~f~25, est au plus haut de celles d'octobre 1916 à avril 1917, qui vont de 50~c à 1~f~25. La course du 23 mène vers le nord-ouest, dans la vallée de l'Authie : Amplier (Pas-de-Calais) est à une douzaine de kilomètres d'Acheux, Authieule aux portes de Doullens ; Authie avait abrité au 1\textsuperscript{er} juillet l'un des deux centres opératoires avancés de la bataille (OH 1916-I, p.~282). Il s'agit sans doute de prospecter la paille et le fourrage des fermes, objet de la mission de Combes depuis le 2 novembre.
+sources:
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 282.

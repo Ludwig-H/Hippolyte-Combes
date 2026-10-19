@@ -1,0 +1,88 @@
+cliche: 52
+fichier: 20251126_103109.jpg
+date: Mardi 26 septembre 1916
+mois: Septembre 1916
+lieux: Le Bourget (Seine-Saint-Denis) ; Paris
+titre: Descente au Bourget ; traversée de Paris, autorisation aux Invalides, billet pour Toulouse
+transcription: |
+  \sl{Mardi 26} \hfill \sl{Sept^{r} 16}
+  \ind Vers 6^{H} m. , encore nuit , dû descendre gare
+  du Bourget .
+  Suivi voies , \inc{j'que} bureau militre . Là
+  obtenu l'autorison de sortir et accompagné
+  par un planton j'à la porte \trait
+  du Bourget , sortie de la rue de Flandre ,
+  pris tramway qui m'a conduit j-à gare
+  du Nord . De là , par metro , arrivé
+  à station Tuileries . \add{changé au Chatelet} Traversé jardin et
+  Venu gare d'Orsay \trait
+  Me suis rendu à la place (hotel .
+  des Invalides , pr demande autorison de
+  voyager à mes frais en express Revenu
+  gare et pu enfin prendre billet de 2e cl
+  Toulouse \trait
+  Puis descendu rue du Bac \trait
+  Au Bon Marché
+  Rue de Rennes
+  \ind Jardin du Luxemb \trait
+  \ind Chz Colin
+apparat:
+- ligne: 1
+  lemme: Sept^{r} 16
+  type: abreviation
+  note: septembre 1916
+- ligne: 2
+  lemme: 6^{H} m.
+  type: abreviation
+  note: six heures du matin
+- ligne: 4
+  lemme: \inc{j'que}
+  type: lecture
+  note: 'jusque ; j, apostrophe puis un groupe u-e sans jambage de q ; autre lecture : j''ue'
+- ligne: 4
+  lemme: militre
+  type: abreviation
+  note: militaire
+- ligne: 5
+  lemme: autorison
+  type: abreviation
+  note: autorisation
+- ligne: 6
+  lemme: j'à
+  type: abreviation
+  note: jusqu'à
+- ligne: 8
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 10
+  lemme: \add{changé au Chatelet}
+  type: ajout
+  note: ajout interlinéaire, au-dessus de « Traversé jardin »
+- ligne: 13
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 13
+  lemme: autorison
+  type: abreviation
+  note: autorisation
+- ligne: 15
+  lemme: 2e cl
+  type: abreviation
+  note: deuxième classe
+- ligne: 20
+  lemme: Luxemb
+  type: abreviation
+  note: Luxembourg
+- ligne: 21
+  lemme: Chz
+  type: abreviation
+  note: chez
+critique: Encre violette. Les dernières lignes, courtes et décalées, dressent la liste des étapes de la promenade sur la rive gauche ; la journée se poursuit sur la page suivante (f.~27 r\textsuperscript{o}), qui en donne aussi les comptes.
+historique: |
+  Le Bourget est l'une des deux grandes gares régulatrices des armées françaises de la Somme (voir f.~26 r\textsuperscript{o}) : d'où le contrôle et le planton. Du Nord aux Tuileries, il emprunte les lignes~4 et~1 du métro. La gare d'Orsay, bâtie en 1898--1900 sur l'emplacement de l'ancienne Cour des comptes, prolonge depuis Austerlitz la ligne d'Orléans (Baedeker 1913, p.~305) ; on y prend les trains de Toulouse par Limoges, Brive, Cahors et Montauban (Baedeker 1912, R.~39). La « place (hotel . des Invalides » est sans doute le commandement de la place de Paris, le gouvernement militaire siégeant à l'hôtel des Invalides (Baedeker 1913, p.~263--264) ; l'autorisation de voyager « à mes frais en express » le dispensait vraisemblablement des trains réservés aux permissionnaires, mais le règlement n'a pas été retrouvé. Le Bon Marché occupe les n\textsuperscript{os}~131--137 de la rue du Bac (Baedeker 1913, p.~51) ; « Colin » est probablement la librairie Armand Colin, 103, boulevard Saint-Michel, au bord du Luxembourg (Zyromski 1921, titre).
+sources:
+- Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, Baedeker, 1913, p. 51, 263-264, 305.
+- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, route 39.
+- Zyromski, E., Maurice de Guérin, Paris, Librairie Armand Colin, 103, boulevard Saint-Michel, 1921, page de titre.

@@ -1,0 +1,160 @@
+cliche: 186
+confiance: haute
+changements:
+- ligne: 1
+  avant: 30 Lundi. — \hfill Avril 1917 —
+  apres: \sl{30 Lundi.} \hfill \sl{Avril 1917} —
+  justification: Aucun tiret après Lundi. (le trait haut est le point du i) ; trait pâle sous la date ; Avril 1917 souligné (attaque du A prolongée + trait sous il 1917).
+  confiance: haute
+- ligne: 2
+  avant: magnifique.
+  apres: magnifique
+  justification: Aucun point après le délié final.
+  confiance: moyenne
+- ligne: 4
+  avant: pardessus.
+  apres: pardessus \trait
+  justification: Long trait de remplissage à l'encre pâle, aucun point.
+  confiance: haute
+- ligne: 6
+  avant: Lavieville.
+  apres: Lavieville \trait
+  justification: Trait de remplissage, aucun point.
+  confiance: haute
+- ligne: 8
+  avant: Villers-Bocage.
+  apres: Villers-Bocage \trait
+  justification: Délié final prolongé jusqu'à la marge, aucun point.
+  confiance: haute
+- ligne: 9
+  avant: sauvage.
+  apres: sauvage \trait
+  justification: Délié final prolongé, aucun point.
+  confiance: haute
+- ligne: 7
+  avant: Lt
+  apres: L^{t}
+  justification: t nettement suscrit.
+  confiance: haute
+- ligne: 11
+  avant: d'œil
+  apres: d'oeil
+  justification: o et e séparés, sans ligature.
+  confiance: moyenne
+- ligne: 14
+  avant: heure.
+  apres: heure
+  justification: Aucun point après le délié final.
+  confiance: moyenne
+- ligne: 15
+  avant: éclairée, lune superbe.
+  apres: eclairée. lune superbe
+  justification: Pas d'accent sur l'e initial ; point rond net après eclairée ; aucun point final.
+  confiance: moyenne
+- ligne: 15
+  avant: mervt
+  apres: merv^{t}
+  justification: t suscrit, barre haute.
+  confiance: haute
+- ligne: 16
+  avant: '[ Washing : 50 c.'
+  apres: '\equerre{2}Washing : 50c.'
+  justification: 'Signe d''ouverture : trait horizontal en tête prolongé dans le W, puis fût vertical à gauche descendant sous la l. 17 : équerre, non crochet ; aucun crochet fermant.'
+  confiance: haute
+- ligne: 17
+  avant: 'A Hénencourt, miroir de poche : 50 c. ]'
+  apres: 'A Henencourt, miroir de poche : 50c'
+  justification: Aucun accent visible sur le premier e ; 50c suivi d'un long délié, sans point ni crochet fermant.
+  confiance: moyenne
+difficultes:
+- ligne: 10
+  lemme: arbres
+  analyse: a + r + b bouclé + r + e prolongé en long délié horizontal ; le s final n'est pas distinct, peut-être fondu dans le délié ; « Aux » impose le pluriel.
+  alternatives:
+  - arbre
+- ligne: 7
+  lemme: Après-midi
+  analyse: Initiale de la forme a agrandi précédée d'une haute attaque, plus petite que le A en 4 de la l. 12 ; retenue comme majuscule en tête de phrase.
+  alternatives:
+  - après-midi
+- ligne: 5
+  lemme: Hénencourt
+  analyse: H à deux hastes, e, puis tracé montant haut pris pour l'accent ; en l. 17, aucun accent visible.
+  alternatives:
+  - Henencourt
+- ligne: 15
+  lemme: lune
+  analyse: Haute boucle simple sur la ligne, identique au l de lapin (l. 9), non le L en £.
+  alternatives:
+  - Lune
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Remarque prise en compte en p2 ; identités Warloy-Baillon et Laviéville portées dans « noms » ; la forme écrite Lavieville est conservée dans la transcription et le résumé.
+  alternatives: []
+- ligne: 8
+  lemme: Puchevillers
+  analyse: Finale « -er » terminée par un crochet montant ; s final non distinct, réduit au crochet, comme souvent ; nom de lieu attesté sous la forme Puchevillers.
+  alternatives:
+  - Pucheviller
+- ligne: 17
+  lemme: Henencourt
+  analyse: H en deux I reliés par une traverse ; après « He », une haute boucle (b ou l apparent) fondue dans « n » ; aucun accent détaché au-dessus de l'e, contrairement au trait montant de la l. 5.
+  alternatives:
+  - Hénencourt
+controle:
+- ligne: 1
+  avant: 'apparat : disposition sur \sl{30 Lundi.}'
+  apres: note supprimée
+  justification: Le soulignement pâle (zoom 0 0 .30 .085) est rendu par \sl ; la balise suffit.
+- ligne: 15
+  avant: 'apparat : lecture « eclairée. lune »'
+  apres: note supprimée
+  justification: Accent absent, point et minuscule n'appellent pas de note ; lecture vérifiée au zoom (.40 .545 .75 .60), point rond net, l simple bouclé.
+- ligne: 12
+  avant: 'tea-dinner : dîner avec thé'
+  apres: 'tea-dinner : repas du soir tenant lieu de thé et de dîner'
+  justification: Traduction précisée.
+- ligne: 6
+  avant: 'identité : Lavieville (Somme)'
+  apres: 'identité : Laviéville (Somme)'
+  justification: Graphie officielle de la commune, selon la remarque du commentateur.
+- ligne: 0
+  avant: critique mentionnant le texte arrêté aux deux tiers et l'encre pâlissante
+  apres: critique abrégée
+  justification: Le texte finit vers y ≈ .58, non aux deux tiers ; les variations d'intensité de l'encre sont sans portée pour le lecteur.
+remarques: Dernier cliché ; aucune page suivante. Le soulignement pâle sous « 30 Lundi. » pourrait être une trace sans valeur ; retenu comme soulignement de la date.
+resume: 'Le lundi 30 avril 1917, temps magnifique et soleil ardent : Hippolyte Combes fait ses courses en auto sans pardessus. Le matin, il passe à Vadencourt, Warloy, Hénencourt, Millencourt et Lavieville ; l''après-midi, avec le lieutenant Gilbert, à Puchevillers, Pierregot et Villers-Bocage ; en route, l''auto chasse un lapin sauvage. Ciel bleu, bourgeons qui grossissent ; après le tea-dinner, il rentre dans sa chambre et se couche tôt, fatigué. Nuit très belle sous la lune. Dépenses : blanchissage et miroir de poche acheté à Hénencourt, 50 c chacun.'
+noms:
+  personnes:
+  - forme: L^{t} Gilbert
+    ligne: 7
+    identite: lieutenant britannique (second lieutenant), compagnon de tournée
+  lieux:
+  - forme: Vadencourt
+    ligne: 5
+    identite: Vadencourt (Somme)
+  - forme: Warloy
+    ligne: 5
+    identite: Warloy-Baillon (Somme)
+  - forme: Hénencourt
+    ligne: 5
+    identite: Hénencourt (Somme)
+  - forme: Millencourt
+    ligne: 6
+    identite: Millencourt (Somme)
+  - forme: Lavieville
+    ligne: 6
+    identite: Laviéville (Somme)
+  - forme: Puchevillers
+    ligne: 8
+    identite: Puchevillers (Somme)
+  - forme: Pierregot
+    ligne: 8
+    identite: Pierregot (Somme)
+  - forme: Villers-Bocage
+    ligne: 8
+    identite: Villers-Bocage (Somme)
+  - forme: Henencourt
+    ligne: 17
+    identite: Hénencourt (Somme)
+source: contrôle

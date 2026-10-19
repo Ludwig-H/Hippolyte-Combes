@@ -1,0 +1,118 @@
+cliche: 82
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Samedi 21 \hfill Oct /16
+  apres: Same\sl{di 21} \hfill \sl{Oct^{b}/16}
+  justification: soulignements visibles ; après Oct, petite boucle de b suscrite puis barre oblique avant 16
+  confiance: moyenne
+- ligne: 2
+  avant: Nuit très froide. Gelé fortement.
+  apres: nuit très froide. gelé fortement
+  justification: n et g initiaux minuscules ; aucun point après fortement
+  confiance: haute
+- ligne: 3
+  avant: réchauffe 1 peu température.
+  apres: rechauffé 1 peu température
+  justification: aucun accent sur le premier e ; accent posé après le e final ; pas de point final
+  confiance: moyenne
+- ligne: 4
+  avant: reconnaissance
+  apres: reconnaissce
+  justification: 'après ss, seulement c + e : finale contractée'
+  confiance: moyenne
+- ligne: 5
+  avant: le long
+  apres: la long
+  justification: l suivi d'un a à panse fermée et jambage (zoom p2 [0 .19 .22 .25])
+  confiance: haute
+- ligne: 6
+  avant: l'Ordonnance, Aveluy.
+  apres: l'ordonnance, Aveluy
+  justification: o minuscule ; aucun point final, seulement le délié prolongé
+  confiance: moyenne
+- ligne: 7
+  avant: Achevé
+  apres: achevé
+  justification: a au module des minuscules
+  confiance: moyenne
+- ligne: 11
+  avant: bivouac.
+  apres: bivouac
+  justification: pas de point visible
+  confiance: haute
+- ligne: 12
+  avant: piquant.
+  apres: piquant
+  justification: pas de point visible
+  confiance: haute
+- ligne: 14
+  avant: chambre, puis
+  apres: chambre \inc{&} puis
+  justification: le signe après chambre a un crochet de tête vers la droite et une petite boucle sur la ligne de base (forme ƒ/ρ du &), non le simple trait vertical des virgules de la page ; la longue descente au-dessous rejoint la hampe du b de « bas » (l. 15)
+  confiance: moyenne
+- ligne: 15
+  avant: lgts
+  apres: lgs
+  justification: l + g + s descendant, sans t (guide § 8, piège 2)
+  confiance: haute
+- ligne: 16
+  avant: Abel...
+  apres: Abel. – —
+  justification: point, tiret court, tiret long
+  confiance: haute
+- ligne: 17
+  avant: Canonnade tjrs très violente —
+  apres: Canonnade Tjours très violente \trait
+  justification: T à barre de tête et fût descendant (Tj), puis o, u et finale ; trait final tiré sans levée de plume
+  confiance: moyenne
+difficultes:
+- ligne: 4
+  lemme: reconnaissce
+  analyse: r-e-c-o-n-n-a-i (point déporté) - ss, puis deux petits tracés c + e avant le délié ; pas de -an- visible
+  alternatives:
+  - reconnaisse
+  - reconnaissance
+- ligne: 6
+  lemme: l'ordonnance
+  analyse: l, apostrophe, o-r, d bouclé, puis 7 à 8 minimes, c, e ; le nombre de minimes ne permet pas de trancher entre ordonnance et l'anglais Ordnance (dépôt de matériel), hypothèse du commentateur historique
+  alternatives:
+  - l'Ordnance
+  - l'Ordonnance
+- ligne: 6
+  lemme: Aveluy
+  analyse: A bouclé, v (deux minimes), e, l à haute boucle, puis u et finale y/s noyée dans un long délié horizontal ; Aveluy jouxte Albert
+  alternatives:
+  - Avelus
+- ligne: 14
+  lemme: \inc{&}
+  analyse: crochet de tête vers la droite, petite boucle sur la ligne de base ; la descente inférieure appartient sans doute au b de « bas » (l. 15)
+  alternatives:
+  - ','
+- ligne: 17
+  lemme: Tjours
+  analyse: haste à barre de tête descendant sous la ligne (T + j liés), puis o, u et finale ; « très » réduit à h + è
+  alternatives:
+  - Tous
+  - tjs
+controle:
+- ligne: 14
+  avant: le thé. Lu ds ma chambre, puis resté
+  apres: le thé. Lu ds ma chambre \inc{&} puis resté
+  justification: signe à crochet de tête et petite boucle (forme du &), distinct des virgules en simple trait de la page ; zoom [.55 .60 .88 .665]
+- ligne: 0
+  avant: apparat l. 1 « di 21 » (disposition)
+  apres: supprimé
+  justification: le balisage \sl{di 21} suffit ; note d'apparat sur la note « l'ordonnance » ajoutée (hypothèse Ordnance)
+remarques: La ville parcourue (l. 4) est Albert, d'après les pages voisines. Remarque du commentateur historique (Miles OH 1916-II p. 462-463, 543 ; R7 F59) — « l'ordonnance » peut désigner l'Ordnance britannique.
+resume: Nuit très froide et forte gelée, que le soleil adoucit un peu dans la journée. Le matin, Hippolyte Combes parcourt les rues aux maisons atteintes par les obus, puis va à l'ordonnance à Aveluy. L'après-midi, il achève de s'installer dans sa chambre et s'attarde sur le plateau où est dressé le camp, la colline étant couverte de troupes au bivouac. Le soir, il lit puis reste longtemps près de la cuisinière avec Abel, le plus jeune fils de la maison, tandis que la canonnade reste très violente.
+noms:
+  personnes:
+  - forme: Abel
+    ligne: 16
+    identite: plus jeune fils de la famille qui loge Hippolyte Combes à Albert
+  lieux:
+  - forme: Aveluy
+    ligne: 6
+    identite: Aveluy (Somme)
+source: contrôle

@@ -1,0 +1,138 @@
+cliche: 66
+confiance: haute
+changements:
+- ligne: 1
+  avant: Vendredi 6 \hfill Octb 1916
+  apres: \sl{Vendredi 6} \hfill \sl{Oct^{bre} 1916}
+  justification: les deux éléments de la date sont soulignés (trait de droite long, terminé en crosse) ; après Oct, b réduit à une boucle et finale ondulée, forme Oct^{bre} du guide (068)
+  confiance: moyenne
+- ligne: 2
+  avant: départ
+  apres: depart
+  justification: aucun accent sur le e ; la barre du t est tirée vers la droite
+  confiance: haute
+- ligne: 4
+  avant: Au
+  apres: au
+  justification: a au module d'une minuscule, sans pointe ni agrandissement
+  confiance: moyenne
+- ligne: 6
+  avant: désertes. qq magasins déjà
+  apres: desertes. qq magasins dejà
+  justification: aucun accent sur le premier e de desertes ni sur le e de deja ; le seul trait suscrit de dejà est au-dessus du a
+  confiance: moyenne
+- ligne: 7
+  avant: Entré église & y rêvé
+  apres: Entré eglise & y revé
+  justification: 'un seul trait d''accent entre Entre et eglise, rattaché à Entré ; revé : tiret aigu après le mot, pas de circonflexe'
+  confiance: moyenne
+- ligne: 8
+  avant: incessante —
+  apres: incessante \trait
+  justification: délié final du e prolongé sans levée de plume jusqu'au bord droit
+  confiance: haute
+- ligne: 9
+  avant: Parti de Doullens, train 7 H 25.
+  apres: Parti de Doullens train 7^{H} 25.
+  justification: aucune virgule après Doullens (le n final plonge) ; H suscrit à base nettement au-dessus du 7
+  confiance: haute
+- ligne: 10
+  avant: l'office
+  apres: l office
+  justification: aucune apostrophe entre l et office, alors que celle de l'R.T.O. est nette
+  confiance: moyenne
+- ligne: 12
+  avant: station,
+  apres: station.
+  justification: le prétendu signe de virgule est le n final plongeant ; la ponctuation réelle est un point en petit trait sur la ligne de base (x ≈ .68, y ≈ .48), avant me en minuscule
+  confiance: moyenne
+- ligne: 13
+  avant: informé – Coïncidence
+  apres: informé. – Coincidence
+  justification: point net sur la ligne après l'accent ; sur Coincidence deux points d'i distincts, pas de tréma
+  confiance: moyenne
+- ligne: 15
+  avant: brigade, encore
+  apres: brigade encore
+  justification: aucune virgule entre brigade et encore
+  confiance: haute
+- ligne: 16
+  avant: j'au
+  apres: j-au
+  justification: petit trait d'union horizontal lié à au, le point du j est au-dessus
+  confiance: haute
+- ligne: 18
+  avant: Coy. A.S.C.
+  apres: Coy. A.S.C
+  justification: pas de point après le C final (le bouton terminal appartient au trait du C)
+  confiance: moyenne
+- ligne: 19
+  avant: A 1H soir –
+  apres: A 1^{H} soir —
+  justification: H suscrit ; tiret long épaissi en massue
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: Oct^{bre}
+  analyse: O ouvert, c, t à longue haste, puis boucle haute (b) et finale ondulée en e ; aucune lettre r distincte ; lettres à peine surélevées
+  alternatives:
+  - Octb
+  - Oct^{be}
+- ligne: 4
+  lemme: petit
+  analyse: p, e réduit, t initial bouclé (aspect h), i dont le point est déporté à droite au-dessus de jour, t barré
+  alternatives:
+  - ptit
+- ligne: 6
+  lemme: desertes
+  analyse: d, e, s en z, e, r, t, e final suivi d'un crochet valant s ; le trait sur la fin est la barre du t
+  alternatives:
+  - deserte
+- ligne: 7
+  lemme: Entré eglise
+  analyse: un unique accent, posé entre les deux mots ; par le décalage habituel vers la droite il appartient à Entré
+  alternatives:
+  - Entre église
+- ligne: 12
+  lemme: station.
+  analyse: 'après le n plongeant, court trait oblique isolé sur la ligne de base : point en petit trait, non virgule (pas de trait vertical long)'
+  alternatives:
+  - station,
+- ligne: 14
+  lemme: 54^{e}
+  analyse: 5 à drapeau, 4 ouvert en h ; e suscrit nettement décalé à droite et haut, sous les de la ligne 13
+  alternatives:
+  - '54'
+- ligne: 18
+  lemme: Là
+  analyse: 'L en £ ; trait horizontal un peu au-dessus de l''œil, décalé à droite du a : accent grave déporté, de même forme que l''accent de à aux l. 7 et 12'
+  alternatives:
+  - La –
+controle:
+- ligne: 12
+  avant: station,
+  apres: station.
+  justification: 'zoom [.58 .44 .84 .50] : la queue sous le n est le n final plongeant ; ponctuation = point en petit trait oblique sur la ligne de base, me en minuscule comme après desertes. (l. 6)'
+- ligne: 13
+  avant: apparat lecture « informé. »
+  apres: supprimée
+  justification: 'simple point de ponctuation, sans difficulté de lecture : pas de note imprimée'
+- ligne: 1
+  avant: 'critique : bas de page (environ trois lignes) resté blanc'
+  apres: bas de page resté blanc
+  justification: l'étendue du blanc est rendue par \blanc{3}
+remarques: La 54e brigade d'infanterie appartient à la 18th Division, que la 152 Coy A.S.C. ravitaille.
+resume: Le vendredi 6 octobre 1916, Hippolyte Combes achève la nuit dans la salle des départs de la gare de Doullens, allongé sur un banc. Au petit jour il se promène dans la ville déserte et rêve dans l'église sous une pluie fine. Il prend le train de 7 h 25 ; le R.T.O. lui apprend que sa division s'est déplacée et que la gare de ravitaillement est Canaples. Descendu à Canaples, il trouve les camions de la 54e brigade, monte dans l'un d'eux jusqu'au point de ravitaillement de sa brigade et y retrouve la 152 Coy A.S.C., à 1 heure de l'après-midi.
+noms:
+  personnes: []
+  lieux:
+  - forme: Doullens
+    ligne: 3
+    identite: Doullens (Somme)
+  - forme: Doullens
+    ligne: 9
+    identite: Doullens (Somme)
+  - forme: Canaples
+    ligne: 11
+    identite: Canaples (Somme)
+source: contrôle

@@ -1,0 +1,79 @@
+cliche: 149
+fichier: 20251126_110659.jpg
+date: Jeudi 8 février 1917 (suite) ; vendredi 9 février 1917 (matin)
+mois: Février 1917
+lieux: Hérissart et Rubempré (Somme)
+titre: Grand gel ; promenade à pied jusqu'à Rubempré ; vendredi 9, nuit glaciale et matinée libre
+transcription: |
+  \sl{Jeudi 8 (suite)} \hfill Février 1917
+  Temps merv^{t} beau. Ciel bleu, soleil ardent
+  gelé très fort. Terre durcie j-à gde profondeur
+  après-midi, promenade à pied à Rubempré.
+  Rayons ardents faisaient etinceler neige durcie,
+  qui recouvrait champs – –
+  Région, moins banale qu'environs d'Acheux
+  vallonnements, petites hauteurs, couronnées de
+  moulins à vent.
+  \inc{2 h.} de marche.
+  1 h. ds ma chambre, où tt rangé et
+  terminé installation.
+  \ind Froid toujours très vif.
+  Couché vers 9^{H} s. – 1 peu de couture, lit
+  \filet
+  – \sl{Ven. 9} — Nuit toujours \inc{excessv^{t}} froide
+  gelé très fort. Ciel clair, pleine lune,
+  vif eclat
+  Matinée, liberté complète. Mais trop froid
+  pour pouvoir ecrire chambre
+apparat:
+- ligne: 2
+  lemme: merv^{t}
+  type: abreviation
+  note: merveilleusement
+- ligne: 3
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 3
+  lemme: gde
+  type: abreviation
+  note: grande
+- ligne: 10
+  lemme: \inc{2 h.}
+  type: lecture
+  note: deux heures ; chiffre bouclé et h à longue haste, lecture probable ; l'édition antérieure hésitait avec « 45 m »
+- ligne: 11
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 11
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 14
+  lemme: 9^{H} s.
+  type: abreviation
+  note: neuf heures du soir
+- ligne: 14
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 14
+  lemme: couture
+  type: lecture
+  note: c-o initial et t barré ; l'édition antérieure lisait « lecture »
+- ligne: 15
+  lemme: Ven.
+  type: abreviation
+  note: vendredi
+- ligne: 15
+  lemme: \inc{excessv^{t}}
+  type: abreviation
+  note: excessivement ; lettres médianes écrasées, autre lecture possible excess^{t}
+critique: Encre violette uniforme. La page poursuit sans rupture la journée du jeudi 8 commencée au f.~74 r\textsuperscript{o} ; un filet tiré sur toute la largeur la sépare de celle du vendredi 9.
+historique: |
+  La « Terre durcie j-à gde profondeur » rejoint presque mot pour mot la dépêche de Haig, pour qui la longue période de gel exceptionnel « avait gelé le sol à grande profondeur » jusqu'au dégel de la troisième semaine de février (Haig, \textit{Despatches}, p.~69--70). Rubempré (Somme) est à 2,5~km environ à l'ouest-sud-ouest d'Hérissart, où Combes s'est installé le 7 au soir (voir f.~73 v\textsuperscript{o}) ; il en connaissait déjà les fermes, visitées avec celles de Septenville pour les achats de paille (voir f.~61 r\textsuperscript{o}). Ce secteur de l'Amiénois sert alors de zone d'étape aux divisions qui montent vers l'Ancre : le 14 janvier, le 7th Bedfordshire de la 18th Division y cantonnait encore (« Rubempré Area ») avant de gagner le front (JMO 7/Bedf, janv. 1917). La « pleine lune » de la nuit du 8 au 9 avait eu lieu le 7 février (iCalendrier), et Combes l'avait vue briller à son arrivée à Hérissart (voir f.~73 v\textsuperscript{o}).
+sources:
+- Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), Londres et Toronto, J. M. Dent & Sons, 1919, p. 69-70 (dépêche du 31 mai 1917).
+- 'Bedfordshire Archives Service, X550/8/1/1701 : War Diary, 7th (Service) Battalion, Bedfordshire Regiment, janvier 1917.'
+- iCalendrier, « Calendrier lunaire février 1917 » (icalendrier.fr/calendrier-lunaire/fevrier-1917), consulté le 18 oct. 2026.

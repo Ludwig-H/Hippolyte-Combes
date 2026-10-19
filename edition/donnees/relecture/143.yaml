@@ -1,0 +1,164 @@
+cliche: 143
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Févr. /17
+  apres: Fév 17
+  justification: F, e, v terminé en crochet ; aucun r ni point ; le court trait au-dessus du 1 est son attaque détachée, non une barre oblique
+  confiance: moyenne
+- ligne: 3
+  avant: rêver gd chambre.
+  apres: rever g^{de} chambre
+  justification: aucun circonflexe ; d surélevé prolongé d'un crochet (e) ; pas de point final
+  confiance: moyenne
+- ligne: 4
+  avant: Après déjeuner, sorti av. Mte et ts 2
+  apres: après, dejeuner, sorti av Mte et ts 2
+  justification: a de module minuscule ; virgule basse après après ; seul le point du j sur dejeuner ; av sans point
+  confiance: moyenne
+- ligne: 6
+  avant: Décidé
+  apres: Decidé
+  justification: aucun accent sur le premier e ; accent final déporté après le mot
+  confiance: moyenne
+- ligne: 7
+  avant: qu'à 5h 33 soir.
+  apres: qu'à 5^{h}33 soir.
+  justification: h suscrit ; premier 3 petit et surélevé, second à la ligne, sans espace
+  confiance: moyenne
+- ligne: 8
+  avant: intimité.
+  apres: intimite.
+  justification: (contrôle p2) aucun accent au-dessus ni à droite du e final ; le trait au-dessus de « tim » est barre du t et points d'i
+  confiance: moyenne
+- ligne: 9
+  avant: vers 5h s. Adieux, déchirants.
+  apres: vers 5^{h} s. Adieux, dechirants
+  justification: h suscrit ; aucun accent sur dechirants ; pas de point final
+  confiance: moyenne
+- ligne: 10
+  avant: gare.
+  apres: gare
+  justification: long délié final, aucun point
+  confiance: haute
+- ligne: 11
+  avant: Béziers
+  apres: Beziers
+  justification: la marque au-dessus de la fin du mot est le point du i déporté
+  confiance: moyenne
+- ligne: 12
+  avant: 2e cl.
+  apres: 2 Cl.
+  justification: aucun e suscrit après le 2 bouclé ; grand C en arc, l à boucle basse fermée (aspect d), point net
+  confiance: moyenne
+- ligne: 13
+  avant: et départ 6h 15. —
+  apres: et depart 6^{h} 15. –
+  justification: aucun accent ; h suscrit ; tiret court
+  confiance: moyenne
+- ligne: 14
+  avant: Arrêt à ttes
+  apres: Arret à ttes
+  justification: aucun circonflexe au-dessus d'Arret
+  confiance: moyenne
+- ligne: 15
+  avant: Neige partout.
+  apres: neige partout –
+  justification: n de module minuscule ; tiret après partout
+  confiance: moyenne
+- ligne: 16
+  avant: minuit 30 s.
+  apres: minuit 30 s
+  justification: aucun point après le s réduit
+  confiance: haute
+- ligne: 17
+  avant: '[ — Remboursé à Mte cadeaux enfants Vincens : 6 f'
+  apres: '\crochet{2}Remboursé à Mte cadeaux enfants \inc{Vincens} : 6^{f}'
+  justification: grand crochet à deux pieds couvrant deux lignes ; f suscrit ; nom propre peu lisible (contrôle p2)
+  confiance: moyenne
+- ligne: 18
+  avant: 'Gift à la bonne de Mte : 3 f — ]'
+  apres: 'Gift à la bonne de Mte : 3^{f} —'
+  justification: f suscrit ; aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: Fév 17
+  analyse: F à boucle de tête, e, v en crochet ; court trait isolé au-dessus du 1 (attaque) ; 7 à barre médiane
+  alternatives:
+  - Fév '17
+  - Fév /17
+- ligne: 7
+  lemme: 5^{h}33
+  analyse: 5, petit h suscrit, petit 3 au même niveau, grand 3 en B à la ligne
+  alternatives:
+  - 5^{h3}3
+- ligne: 12
+  lemme: 2 Cl.
+  analyse: 2 bouclé (aspect ∂), grand arc montant (C), puis tracé à panse basse fermée et haste remontant à droite (l bouclé, aspect d), point net ; zoom [.70 .48 .90 .54]
+  alternatives:
+  - 2 cl.
+  - 2^{e} cl.
+- ligne: 14
+  lemme: ttes
+  analyse: deux hastes sous une barre commune, e, délié remontant (s réduit)
+  alternatives:
+  - tte
+- ligne: 16
+  lemme: 30 s
+  analyse: 3 en ʒ, 0 ouvert (aspect a), puis trait vertical à attaque et long délié (s réduit)
+  alternatives:
+  - 30 r
+- ligne: 17
+  lemme: \inc{Vincens}
+  analyse: 'zoom [.80 .84 1.0 .89] : long trait d''attaque et jambage (V), deux minimes, panse fermée (c + e fondus, aspect a), jambage surmonté d''un trait couché (point d''i déporté ou accent grave), s final plongeant ; « ens » non distinct'
+  alternatives:
+  - Vincès
+  - Vinas
+- ligne: 18
+  lemme: 3^{f}
+  analyse: chiffre à petite boucle de tête fermée et descente droite, sans grande boucle basse (3 plutôt que 8) ; f suscrit en crochet appuyé
+  alternatives:
+  - 8^{f}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: '« Pierre » (Pierre Calmels) et les enfants Vincens (Germaine et Robert) ne sont identifiés que par la tradition familiale ; Millau ne figure pas sur la page (lieu du séjour repris des pages précédentes) ; « 2 Cl. » (l. 12) : réglé en p2, sans e suscrit.'
+  alternatives: []
+controle:
+- ligne: 8
+  avant: intimité.
+  apres: intimite.
+  justification: aucun accent sur le e final ni déporté à sa droite ; la marque au-dessus de « tim » appartient au t et aux i (zoom [.25 .30 1.0 .35])
+- ligne: 12
+  avant: 2 \inc{Cl.}
+  apres: 2 Cl.
+  justification: grand C en arc puis l à boucle basse fermée, point net ; aucun e suscrit ; seule la casse reste discutable (note lecture)
+- ligne: 17
+  avant: Vincens
+  apres: \inc{Vincens}
+  justification: la finale « ens » n'est pas distincte (panse fermée, jambage à trait couché, s plongeant) ; lecture soutenue surtout par la tradition familiale
+- ligne: 0
+  avant: apparat avec analyses de tracé (ttes, 2 Cl., 30 s)
+  apres: notes épurées ; lecture ajoutée pour Vincens
+  justification: justifications paléographiques renvoyées à difficultes ; apparat imprimé réduit au développement et aux lectures douteuses
+remarques: Lieu du séjour (Millau) repris des pages précédentes, non nommé sur la page. Plusieurs marques prises pour des accents par l'état antérieur sont des points d'i déportés. Le 3 de la l. 18 a une tête fermée (aspect 8) ; 3 retenu.
+resume: 'Dernier jour du séjour auprès de Marguerite : lever à 6 heures, sortie à deux au cimetière après le déjeuner, départ fixé au train de 5 h 33. Hippolyte Combes quitte la maison vers 5 heures après des adieux déchirants ; Pierre l''attend à la gare. Le train venant de Béziers part avec un long retard à 6 h 15, en 2e classe, s''arrête à toutes les stations dans la neige et arrive à Saint-Flour à minuit 30. Comptes : remboursement à Marguerite des cadeaux faits aux enfants Vincens (6 f) et gratification à sa bonne (3 f).'
+noms:
+  personnes:
+  - forme: Mte
+    ligne: 4
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Pierre
+    ligne: 10
+    identite: Pierre Calmels selon la tradition familiale (non assuré par la page)
+  - forme: Vincens
+    ligne: 17
+    identite: famille dont Marguerite a gâté les enfants (Germaine et Robert selon la tradition familiale) ; lecture incertaine
+  lieux:
+  - forme: Beziers
+    ligne: 11
+    identite: Béziers (Hérault), origine du train
+  - forme: Saint-Flour
+    ligne: 16
+    identite: Saint-Flour (Cantal)
+source: contrôle

@@ -1,0 +1,184 @@
+cliche: 2
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 25 Ma. \hfill Juillet 1916
+  apres: \sl{25 Ma.} \hfill \sl{Juillet 1916}
+  justification: quantième et jour soulignés à gauche (trait issu de la haste du 5), mois et millésime soulignés à droite
+  confiance: haute
+- ligne: 2
+  avant: Levé [dès ?] 8 H m. \hfill Bien reposé
+  apres: \ind[3] Levé \inc{dès} 8^{H} m. \hfill Bien repose
+  justification: ligne propre sous l'en-tête, commencée à x ≈ 0,32 ; H suscrit à deux hastes et traverse ; aucun accent sur l'e final de repose
+  confiance: moyenne
+- ligne: 3
+  avant: Margte —
+  apres: Margte \trait
+  justification: le délié final de Margte se prolonge sans levée de plume en trait mince (aller et retour) jusqu'à x ≈ 0,95
+  confiance: moyenne
+- ligne: 4
+  avant: Toujours
+  apres: \ind Toujours
+  justification: 'T à x ≈ 0,07 contre 0,02–0,03 aux lignes voisines : alinéa après le trait de la l. 3'
+  confiance: moyenne
+- ligne: 5
+  avant: Flandre. Beaux
+  apres: Flandre Beaux
+  justification: 'aucun point : l''e final de Flandre s''allonge en délié horizontal'
+  confiance: haute
+- ligne: 7
+  avant: blé — épis
+  apres: blé – Epis
+  justification: tiret court et épais ; initiale bouclée haute de deux modules (E majuscule), sans accent
+  confiance: moyenne
+- ligne: 10
+  avant: lieutt
+  apres: lieut^{t}
+  justification: premier t à haste descendante, second t petit et nettement surélevé
+  confiance: moyenne
+- ligne: 12
+  avant: curieuse —
+  apres: curieuse \trait
+  justification: long trait ondulé tiré de l'e final jusqu'à x ≈ 0,75, sans levée de plume
+  confiance: moyenne
+- ligne: 13
+  avant: 'Après-midi : bien reposé chambre — quand'
+  apres: \ind Après-midi, bien reposé chambre – quand
+  justification: ligne en retrait ; après midi un seul trait vertical sur la ligne (virgule), le point au-dessus est celui de l'i ; tiret court
+  confiance: haute
+- ligne: 14
+  avant: derrière, à
+  apres: derrière à
+  justification: 'aucun signe sur la ligne : les deux traits hauts sont les accents de è et de à'
+  confiance: haute
+- ligne: 15
+  avant: R. Fusrs —
+  apres: R. Fus^{rs} –
+  justification: rs surélevé d'un demi-module ; tiret final court
+  confiance: moyenne
+- ligne: 16
+  avant: 'Visité longuement église village : remarqué'
+  apres: '\ind Visité longuement église village : remarqu\inc{é}'
+  justification: ligne en retrait ; le mot sort du cliché après qu, la finale n'est pas visible
+  confiance: moyenne
+- ligne: 19
+  avant: Vers 7 h 1/2 s.,
+  apres: \ind[2] Vers 7^{H} \fr{1}{2} s.,
+  justification: ligne en retrait (x ≈ 0,15) ; H suscrit ; fraction empilée (1 et barre au-dessus d'un 2 bouclé) ; s réduit à un trait vertical
+  confiance: haute
+- ligne: 21
+  avant: 1 f 75
+  apres: 1 \inc{f 75}
+  justification: 'le montant est coupé par le bord du cliché : seuls 1 et le début d''un signe plongeant sont visibles'
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: \inc{dès}
+  analyse: d à panse pleine et haste haute, deux jambages courts puis crochet qui ouvre la petite boucle du 8 ; aucun accent distinct ; Combes écrit ailleurs « Levé dès 7H ½ » (013, 029)
+  alternatives:
+  - dès
+  - des
+- ligne: 3
+  lemme: Toute
+  analyse: 'initiale : trait d''attaque montant, crochet de tête vers la droite, haste plongeant sous la ligne, soit le T de Toujours (l. 4) ; le C de Curtis (l. 10) est un arc ouvert qui ne descend pas ; puis o lié par le haut, u (deux jambages), montée vers le t (haste haute, barre commune avec e), e en boucle ; aucune bosse de r entre u et t'
+  alternatives:
+  - Toute
+  - Courte
+- ligne: 3
+  lemme: Margte
+  analyse: 'M, a, r, g nets ; t à haste descendant sous la ligne, e en boucle à peine plus haut que la ligne de base : surélévation non nette ; le jambage oblique qui traverse le mot est le p de repose (l. 2)'
+  alternatives:
+  - Margte
+  - Marg^{te}
+- ligne: 6
+  lemme: pâturages
+  analyse: 'deux traits horizontaux distincts : un circonflexe aplati au-dessus de a, décalé à droite, et la barre du t'
+  alternatives:
+  - pâturages
+- ligne: 8
+  lemme: atmosphère
+  analyse: 'long trait oblique de x ≈ 0,80 à 0,95 au-dessus de sphère, aboutissant au délié final : barre du t prolongée, non une biffure'
+  alternatives:
+  - atmosphère
+- ligne: 10
+  lemme: \inc{Sercus}
+  analyse: S montant et e nets ; le jambage du f de fantastique (l. 9) masque la 3e lettre ; puis c (ou a), u, s final plongeant ; Sercus (Nord) est voisin de Lynde (005) et d'Hazebrouck (004)
+  alternatives:
+  - Sercus
+  - Serques
+- ligne: 12
+  lemme: église
+  analyse: eg à l'encre pâle, glise repris à l'encre pleine ; trait fin montant au-dessus de g pouvant tenir lieu d'accent ; en l. 16, trait vertical entre e et g ; église conservé aux deux lignes
+  alternatives:
+  - église
+  - eglise
+- ligne: 15
+  lemme: '36'
+  analyse: 3 net ; 6 à boucle basse à peine fermée (aspect c)
+  alternatives:
+  - '36'
+- ligne: 20
+  lemme: off.
+  analyse: o puis un seul f à boucle haute, jambage presque effacé ; encre très pâle ; point à peine perceptible
+  alternatives:
+  - off.
+  - 'off'
+- ligne: 21
+  lemme: \inc{Backer}
+  analyse: initiale épaisse à boucle (B ou D), a ou e, c, k à nœud, e, r ; aucune autre occurrence
+  alternatives:
+  - Backer
+  - Becker
+  - Dacker
+- ligne: 21
+  lemme: 1 \inc{f 75}
+  analyse: 'après les deux-points : 1 à trait d''attaque, puis signe à tête crochue plongeant sous la ligne (f monétaire ou 7) ; le reste est hors du cliché'
+  alternatives:
+  - 1 f 75
+  - 1 75
+controle:
+- ligne: 2
+  avant: (l. 1) \sl{25 Ma.} Levé \inc{dès} 8^{H} m. Bien reposé \hfill \sl{Juillet 1916}
+  apres: (l. 1) \sl{25 Ma.} \hfill \sl{Juillet 1916} ; (l. 2) \ind[3] Levé \inc{dès} 8^{H} m. \hfill Bien repose
+  justification: la note a sa propre ligne de base (y ≈ 0,10 contre 0,05 pour l'en-tête), sous les deux soulignements ; Bien repose est écrit sous Juillet 1916 et ne peut le précéder sur la même ligne ; les lignes suivantes sont renumérotées (+1)
+- ligne: 2
+  avant: Bien reposé
+  apres: Bien repose
+  justification: 'aucun accent au-dessus de l''e final ni du délié (zoom ×4 : espace vide sous le soulignement) ; la première lecture notait cette absence sans la transcrire'
+- ligne: 3
+  avant: Courte nuit
+  apres: Toute nuit
+  justification: initiale à haste plongeante et crochet de tête, identique au T de Toujours (l. 4), sans l'arc ouvert du C (Curtis, l. 10) ; minimes réduits à o + u + liaison, sans r ; lecture de la transcription antérieure rétablie
+- ligne: 3
+  avant: Marg^{te}
+  apres: Margte
+  justification: 't (haste descendante) et e sur la ligne, comme le disait la note de la première lecture : surélévation non nette ; le long jambage qui traverse le mot est le p de repose (l. 2)'
+- ligne: 19
+  avant: 7^{h}
+  apres: 7^{H}
+  justification: même H suscrit à deux hastes et traverse qu'en 8^{H} (l. 2)
+- ligne: 1
+  avant: apparat de 41 notes ; critique de 6 phrases
+  apres: apparat de 21 notes ; critique de 3 phrases
+  justification: notes paléographiques supprimées (soulignements, accents absents de reposé et chateau, ponctuation, formes de &, E, 4, 6, Curtis, déménagement, traits de fin de ligne) et versées dans difficultes ; R. Fus^{rs} passe en abréviation ; notes Toute, Sercus, Backer et montant de la l. 21 abrégées
+remarques: 'Lignes renumérotées par rapport à la première lecture : la note du lever forme la l. 2 (22 lignes de texte). Le bord droit du feuillet sort du cliché : la fin de la l. 16 et le montant de la l. 21 ne peuvent être contrôlés ; « 75 » (l. 21) vient de la transcription antérieure. Les deux église (l. 12, 16), pâturages (l. 6) et atmosphère (l. 8) ont été contrôlés au zoom (accents, barre de t prolongée).'
+resume: 'Le mardi 25 juillet 1916, levé dès 8 h du matin et bien reposé, Hippolyte Combes note qu''il a pensé toute la nuit, très vivement, à Marguerite. Il décrit le ciel gris et bas de Flandre, les grands arbres aux branches retombantes autour des pâturages et des champs d''avoine et de blé, et la mélancolie de l''atmosphère. Le matin, il se rend à pied avec le lieutenant Curtis au village (Sercus, lecture proposée), où l''unité se rassemble devant le cimetière qui entoure une église très curieuse. L''après-midi, il se repose dans sa chambre après avoir déménagé sur l''arrière de son logement à cause de l''arrivée de 36 officiers des Royal Fusiliers, puis visite longuement l''église (deux rangs de statues de plâtre et de bois sous les orgues) ; vers 7 h ½ du soir, les dames du château lui rendent visite et il les conduit au mess de ses officiers. Comptes : repas de la veille et 4 œufs chez Mme Backer (montant coupé, 1 f 75 ?), divers 75 c.'
+noms:
+  personnes:
+  - forme: Margte
+    ligne: 3
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Curtis
+    ligne: 10
+    identite: lieutenant britannique de la compagnie d'Hippolyte Combes (152nd Company A.S.C.)
+  - forme: \inc{Backer}
+    ligne: 21
+    identite: Mme Backer, qui a fourni un repas et des œufs (lecture incertaine)
+  lieux:
+  - forme: Flandre
+    ligne: 5
+    identite: Flandre (région)
+  - forme: \inc{Sercus}
+    ligne: 10
+    identite: Sercus (Nord), près de Lynde et d'Hazebrouck, lecture proposée
+source: contrôle

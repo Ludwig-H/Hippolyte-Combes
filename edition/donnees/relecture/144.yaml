@@ -1,0 +1,131 @@
+cliche: 144
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Mardi 6. \hfill Février 1917
+  apres: \sl{– Mardi 6.} \hfill \sl{Fevrier 1917}
+  justification: Tiret court devant Mardi ; les deux éléments soulignés ; aucun accent sur le e de Fevrier (le trait sur le v est son attaque).
+  confiance: moyenne
+- ligne: 2
+  avant: Nuit extt froide. Temps très dur.
+  apres: Nuit extt froide Temps très dur.
+  justification: Aucun point après froide.
+  confiance: haute
+- ligne: 4
+  avant: compartiment 1re cl. train sur voie. Pieds gelés.
+  apres: compartiment 1^{ère} cl. train sur voie. Pieds gelés.
+  justification: Zoom [.25 .12 .50 .17] ×3 — après le 1, trois éléments (e, r, e) dont la base est nettement au-dessus de celle du c de cl., surmontés d'un trait d'accent décalé à droite.
+  confiance: moyenne
+- ligne: 5
+  avant: Partis enfin 5h 20. 15 m. de retard. En 2e cl.
+  apres: Partis enfin 5^{h}20. 15 m. de retard. \inc{En} 2^{e} cl.
+  justification: h suscrit collé au 20 ; En de forme ambiguë (aspect h).
+  confiance: moyenne
+- ligne: 6
+  avant: Voyagé av. qq permissionnaires et dames.
+  apres: voyagé av qq permissre et dames.
+  justification: v initial minuscule (≠ V de Voies l. 9) ; av sans point ; mot abrégé après ss, finale re à peine surélevée (pas de balise ^{}).
+  confiance: moyenne
+- ligne: 7
+  avant: Champs couverts neige.
+  apres: Champs couverte neige
+  justification: Zoom [0 .29 .58 .34] ×3 — finale t barré + e bouclé net, aucun s ; pas de point final (long délié de neige).
+  confiance: haute
+- ligne: 8
+  avant: A 7h 30, à Brioude. Correspce, gd retard.
+  apres: A 7^{H} 30, à Brioude. Corresp^{ce}, gd retard.
+  justification: H et finale ce suscrits.
+  confiance: haute
+- ligne: 9
+  avant: Voies, épaisse couche de neige.
+  apres: Voies, épaisse couche de neige
+  justification: Pas de point, long délié final.
+  confiance: haute
+- ligne: 10
+  avant: Quitté Brioude à 8h 30. Enfin dans un
+  apres: quitté Brioude à 8^{H} 30. enfin dans un
+  justification: q et e initiaux au module des minuscules (même e qu'enfin l. 5).
+  confiance: moyenne
+- ligne: 12
+  avant: Clermont, à 10h.
+  apres: \ind Clermont, à 10^{H}.
+  justification: Retrait ; H suscrit.
+  confiance: haute
+- ligne: 13
+  avant: Gannat, 11h.
+  apres: \ind Gannat, 11^{H}.
+  justification: Retrait ; H suscrit.
+  confiance: haute
+- ligne: 14
+  avant: Ciel bas & mat, se confondant à
+  apres: \ind ciel bas & mat., se confondant à
+  justification: c minuscule ; point à mi-hauteur puis virgule après mat (zoom [.28 .61 .52 .67]).
+  confiance: moyenne
+- ligne: 15
+  avant: l'horizon proche avec campagne feutrée de
+  apres: l'horizon proche av campagne feutrée de
+  justification: Zoom [.38 .66 .62 .71] ×3 — a + v puis long délié horizontal, sans e ni c distincts ; même forme que av l. 6 (guide, piège 4).
+  confiance: moyenne
+- ligne: 19
+  avant: A Gien, 3h 45. Montargis, 4h 20.
+  apres: A Gien, 3^{H} 45. \hfill Montargis, 4^{H}20
+  justification: H suscrits ; Montargis rejeté à droite ; pas de point final net.
+  confiance: haute
+difficultes:
+- ligne: 5
+  lemme: En
+  analyse: Zoom [.78 .19 .99 .25] ×3 — haste inclinée descendant de la ligne de tête, petite boucle à la base, puis une arche ; ni boucle d'E, ni forme ɑ + accent des « à » de la page (l. 8, 10, 12).
+  alternatives:
+  - à
+- ligne: 15
+  lemme: av
+  analyse: Trois attaques (a, v) puis long délié horizontal ; un délié peut valoir e, d'où « ave(c) » possible.
+  alternatives:
+  - avec
+- ligne: 16
+  lemme: serrés
+  analyse: s montant, e, rr, e, finale crochue montante, dont le crochet de tête peut être l'accent décalé.
+  alternatives:
+  - serres
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Contrôlé sur l'image ; « couverte » (l. 7) tranché, « permissre » (l. 6) admis comme abréviation ; reste incertain « En » (l. 5).
+  alternatives: []
+controle:
+- ligne: 4
+  avant: 1^{re} cl.
+  apres: 1^{ère} cl.
+  justification: Trois éléments suscrits (e, r, e) sous un trait d'accent décalé à droite (zoom [.25 .12 .50 .17] ×3).
+- ligne: 6
+  avant: \inc{permissre}
+  apres: permissre
+  justification: Lettres p-e-r-m-i-ss + re lisibles ; seule l'extension de l'abréviation reste à l'apparat.
+- ligne: 7
+  avant: \inc{couverte}
+  apres: couverte
+  justification: Finale te nette au zoom ×3 ; faute d'accord banale, note de lecture supprimée.
+- ligne: 15
+  avant: avec
+  apres: av
+  justification: Le mot s'arrête au v suivi d'un délié, comme av l. 6 (zoom [.38 .66 .62 .71] ×3).
+remarques: Encre violette. Interligne un peu plus large entre les l. 4 et 5.
+resume: Après une nuit très froide à Saint-Flour, passée en salle d'attente puis dans un compartiment de 1re classe garé sur la voie, Hippolyte Combes part à 5 h 20 en 2e classe avec des permissionnaires. Correspondance à Brioude (7 h 30), d'où il repart à 8 h 30 dans un express P.L.M. Clermont à 10 h, Gannat à 11 h ; ciel bas et neige continue sur la campagne. Gien à 3 h 45, Montargis à 4 h 20.
+noms:
+  personnes: []
+  lieux:
+  - forme: Brioude
+    ligne: 8
+    identite: Brioude (Haute-Loire)
+  - forme: Clermont
+    ligne: 12
+    identite: Clermont-Ferrand (Puy-de-Dôme)
+  - forme: Gannat
+    ligne: 13
+    identite: Gannat (Allier)
+  - forme: Gien
+    ligne: 19
+    identite: Gien (Loiret)
+  - forme: Montargis
+    ligne: 19
+    identite: Montargis (Loiret)
+source: contrôle

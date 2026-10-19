@@ -1,0 +1,138 @@
+cliche: 19
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 13 D – \hfill Aout 1916
+  apres: \sl{13 D –} \hfill \sl{Aout 1916}
+  justification: trait fin sous 13 D – ; long trait sous Aout 1916
+  confiance: haute
+- ligne: 2
+  avant: Soleil ardent
+  apres: \ind[2] Soleil ardent —
+  justification: ligne propre en retrait ; tiret appuyé isolé à droite de ardent (x .57-.62)
+  confiance: haute
+- ligne: 3
+  avant: Déception
+  apres: Deception
+  justification: aucun accent sur le premier e ; seul trait suscrit = barre du t (contrôlé au zoom ×3)
+  confiance: haute
+- ligne: 10
+  avant: Enfin, vers 1 H,
+  apres: – enfin, vers 1^{H},
+  justification: trait horizontal épais (x .05-.10, y .506) soudé à la tête d'un e minuscule ; h des heures à base surélevée
+  confiance: moyenne
+- ligne: 11
+  avant: l'air — et
+  apres: l'air – et
+  justification: tiret court ; le trait vertical après air est la virgule de la l. 10
+  confiance: moyenne
+- ligne: 14
+  avant: zébrer air de raies obliques, à
+  apres: zebrer l'air de raies obliques à
+  justification: pas d'accent sur zebrer ; boucle de l haute devant air ; aucune virgule après obliques
+  confiance: moyenne
+- ligne: 15
+  avant: écouter
+  apres: ecouter
+  justification: la boucle au-dessus du e initial est la queue du z de zebrer (l. 14) ; aucun accent propre
+  confiance: moyenne
+- ligne: 15
+  avant: crépiter
+  apres: crepiter
+  justification: aucun accent visible
+  confiance: moyenne
+- ligne: 16
+  avant: de ma fenêtre
+  apres: de ma fenetre \trait
+  justification: pas de circonflexe visible ; long délié tiré jusqu'à x .55
+  confiance: moyenne
+- ligne: 18
+  avant: ds la direction
+  apres: \inc{de} la direction
+  justification: ∂ suivi d'un petit élément montant, sans s plongeant ; boucle de e non distincte (encre noyée)
+  confiance: basse
+- ligne: 19
+  avant: 'Note de blanchissage : 50c'
+  apres: '\filet / Note de blanchissage : 50c \trait'
+  justification: filet de x .15 à .94 au-dessus de la ligne des comptes ; délié final du c prolongé
+  confiance: haute
+difficultes:
+- ligne: 6
+  lemme: Après
+  analyse: A pointu, p, r, e surmonté d'un accent en tiret ; s final non distinct, fondu dans le délié qui rejoint le trait d'union
+  alternatives:
+  - Aprè-midi
+- ligne: 9
+  lemme: nuages –
+  analyse: après nuage, haste montante (s en boucle haute) puis trait horizontal appuyé sur la ligne de base = tiret ; la croix d'un x n'apparaît pas
+  alternatives:
+  - nuageux
+- ligne: 10
+  lemme: – enfin
+  analyse: trait épais x .05-.10, y .506, à 0,015 sous la base de 14 ; soudé à la tête du e ; pourrait être le soulignement de la date (cf. l. 1)
+  alternatives:
+  - \sl{14} L – … / enfin
+  - Enfin
+- ligne: 10
+  lemme: très
+  analyse: forme réduite « hu » ; le tiret qui suit, au niveau de la ligne de tête, est l'accent grave décalé à droite, non un tiret
+  alternatives:
+  - très –
+- ligne: 15
+  lemme: ecouter
+  analyse: e, c à attaque haute, o, u, t, e, r ; la boucle supérieure appartient au z de zebrer
+  alternatives:
+  - écouter
+- ligne: 18
+  lemme: \inc{de}
+  analyse: ∂ à panse pleine, puis élément court montant vers la droite, sans boucle visible ni s plongeant ; comparer de l. 16 (e bouclé net)
+  alternatives:
+  - ds
+- ligne: 18
+  lemme: Armentières
+  analyse: A, r, m, e, n, t, i, e sous accent grave, r, e, délié final ; s non distinct ; pas d'apostrophe visible après d
+  alternatives:
+  - Armentière
+- ligne: 20
+  lemme: 15c
+  analyse: trait d'attaque montant (1) et haste descendante à drapeau (5 en ſ) fondus en un tracé ; 15 c comme au cliché 018
+  alternatives:
+  - 5c
+controle:
+- ligne: 15
+  avant: écouter
+  apres: ecouter
+  justification: zoom ×3 ; la boucle prise pour un accent ou une attaque est la queue du z de zebrer (l. 14) ; la page n'accentue ni Deception, zebrer, crepiter ni fenetre
+- ligne: 18
+  avant: de la direction
+  apres: \inc{de} la direction
+  justification: zoom ×3 ; second élément sans boucle de e visible, encre noyée ; ds (dans) non exclu ; apparat lecture ajoutée
+- ligne: 0
+  avant: 'lieux : Bac-Saint-Maur (Nord) ; direction d''Armentières (Nord)'
+  apres: 'lieux : La Croix-du-Bac (Steenwerck, Nord) ; bords de la Lys ; direction d''Armentières (Nord)'
+  justification: remarque du commentateur historique (cantonnement à La Croix-du-Bac ; Bac-Saint-Maur est en Pas-de-Calais) ; la page ne nomme pas le lieu
+- ligne: 11
+  avant: 'apparat signe « (colle » : parenthèse ouverte, non refermée'
+  apres: supprimée
+  justification: la transcription balisée rend déjà la parenthèse non refermée
+remarques: Le trait vertical entre air et – (l. 11) est la virgule de 1^{H}, (l. 10) ; le trait après mouille est la haste du f de forte. Le long trait vertical traversant rivière (l. 8) est la haste du p de promené (l. 7).
+resume: 'Dimanche 13 août 1916 : soleil ardent ; Hippolyte Combes est déçu de n''avoir reçu aucune lettre de Marguerite et passe la journée dans le pot-au-noir. L''après-midi, il retrouve Maurin et se promène avec lui dans la campagne le long de la Lys. Lundi 14 : ciel couvert ; vers une heure, une forte pluie rafraîchit l''air et colle la poussière des routes ; il regarde l''averse zébrer l''air et l''écoute crépiter sur sa vitre. Course à cheval avec le lieutenant Curtis en direction d''Armentières. Comptes : blanchissage 50 c, lait 15 c + 0,05.'
+noms:
+  personnes:
+  - forme: Margte
+    ligne: 4
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Maurin
+    ligne: 6
+    identite: Maurin, militaire ou interprète français
+  - forme: Curtis
+    ligne: 17
+    identite: lieutenant britannique de la compagnie d'Hippolyte Combes
+  lieux:
+  - forme: la Lys
+    ligne: 8
+    identite: la Lys, rivière (Nord, Pas-de-Calais)
+  - forme: Armentières
+    ligne: 18
+    identite: Armentières (Nord)
+source: contrôle

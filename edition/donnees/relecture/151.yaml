@@ -1,0 +1,140 @@
+cliche: 151
+confiance: haute
+changements:
+- ligne: 1
+  avant: Sam. 10 (suite) \hfill Février 1917
+  apres: \sl{Sam. 10} (suite) \hfill \sl{Février 1917}
+  justification: traits de soulignement sous la date et sous le mois
+  confiance: haute
+- ligne: 3
+  avant: dévasté, sous
+  apres: devasté sous
+  justification: pas d'accent sur le premier e ; la marque après le mot est l'accent du é final, non une virgule
+  confiance: moyenne
+- ligne: 4
+  avant: Lt Bradfield (très aimable).
+  apres: L^{t} Bradfield (très aimable
+  justification: t suscrit ; parenthèse non refermée, aucun point final
+  confiance: haute
+- ligne: 5
+  avant: cantonnemt
+  apres: cantonnem^{t}
+  justification: t final nettement suscrit
+  confiance: haute
+- ligne: 6
+  avant: Soleil brûlant. De
+  apres: Soleil brûlant – De
+  justification: tiret court à mi-hauteur après brûlant, non un point
+  confiance: haute
+- ligne: 11
+  avant: Cap. Lovet. Charmant.
+  apres: cap. \inc{Lovet}. Charmant
+  justification: c initial minuscule ; pas de point après Charmant (barre du t prolongée) ; nom douteux
+  confiance: moyenne
+- ligne: 12
+  avant: 3h 1/2
+  apres: 3^{H} \fr{1}{2}
+  justification: H suscrit, fraction empilée
+  confiance: haute
+- ligne: 13
+  avant: 2e corps, vu Cap. de Casteljau, énorme & bête.
+  apres: 2^{e} corps, vu cap. de \inc{Casteljau}, énorme & bête
+  justification: e suscrit ; cap. minuscule ; nom peu sûr ; aucun point final
+  confiance: moyenne
+- ligne: 14
+  avant: Passé par Acheux.
+  apres: Passé par Acheux \trait
+  justification: long délié prolongé après Acheux, pas de point
+  confiance: moyenne
+- ligne: 17
+  avant: Dim. 11 —
+  apres: \sl{Dim. 11} —
+  justification: trait de soulignement de la date, tiré bas, au-dessus de la l. 18
+  confiance: moyenne
+- ligne: 18
+  avant: extrt fort.
+  apres: extr^{t} fort.
+  justification: t suscrit
+  confiance: haute
+- ligne: 20
+  avant: température
+  apres: temperature
+  justification: aucun accent visible au zoom ×2 ; le trait au-dessus de « te » est le jambage du j de « jour » (l. 19)
+  confiance: moyenne
+- ligne: 21
+  avant: le dégel, et fin de l'hiver.
+  apres: le dégel, et fin de l'hiver \trait
+  justification: délié final prolongé, pas de point
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: côtés,
+  analyse: la barre du t, amorcée par un petit crochet au-dessus du o, peut contenir le circonflexe ; virgule = trait vertical court à mi-hauteur
+  alternatives:
+  - cotés,
+- ligne: 11
+  lemme: Lovet
+  analyse: L bouclé, o, deux attaques (v arrondi ou u), petite boucle (e), t barré ; zoom ×3 [0 .42 .32 .475]
+  alternatives:
+  - Louvet
+  - Lorot
+- ligne: 13
+  lemme: Casteljau
+  analyse: C à boucle de tête, a, s en r, t barré, e, l bouclé, puis lettre descendante à point (j ou y), finale u-i ou a-u écrasée ; zoom ×3 [.28 .495 .68 .555]
+  alternatives:
+  - Castelyau
+  - Casteljui
+- ligne: 20
+  lemme: sensiblement
+  analyse: finale -ment ou -mant indistincte (minimes) ; lecture de la langue retenue
+  alternatives:
+  - sensiblemant
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources : Nichols 1922 p. 139, OH 1917-I p. 69 et 75-82, TNA WO 339/44046 (Bradfield, hypothèse), FSPB 1914 (refilling point), LLT (QG du II Corps à Senlis depuis le 21 janvier 1917). « lieux » corrigé en p2 : le texte dit « route d''Aveluy », non le bois ; Hérissart n''est pas nommé sur la page. Lovet et Casteljau non identifiés.'
+  alternatives: []
+controle:
+- ligne: 4
+  avant: '(très aimable [apparat : signe, parenthèse non refermée]'
+  apres: note supprimée
+  justification: la transcription suffit (parenthèse non refermée laissée telle quelle)
+- ligne: 11
+  avant: cap. Lovet. Charmant
+  apres: cap. \inc{Lovet}. Charmant
+  justification: après L-o, deux attaques puis petite boucle ; Lovet et Louvet également possibles ; note de lecture ajoutée
+- ligne: 17
+  avant: '\sl{Dim. 11} [apparat : disposition]'
+  apres: note supprimée
+  justification: le balisage \sl suffit
+- ligne: 20
+  avant: température
+  apres: temperature
+  justification: aucun accent visible au zoom ; le trait au-dessus de « te » appartient au j de « jour » (l. 19)
+- ligne: 0
+  avant: 'lieux : Bois d''Aveluy, Senlis-le-Sec, Acheux, Hérissart (Somme)'
+  apres: 'lieux : Route d''Aveluy, Senlis-le-Sec, Acheux (Somme)'
+  justification: seuls les lieux nommés sur la page sont retenus
+remarques: 'Le soulignement de l. 1 commence sous « am. 10 » et celui du mois, tiré bas, court sous « ier 1917 » : rendus par \sl{Sam. 10} et \sl{Février 1917}.'
+resume: 'Suite du samedi 10 février 1917 : Hippolyte Combes poursuit en auto vers Aveluy, où son ancienne compagnie campe sous la tente dans un champ dévasté ; il déjeune au mess avec le lieutenant Bradfield, visite le cantonnement et cause avec sous-officiers et hommes. Ciel bleu, soleil brûlant, canons de marine camouflés, deux avions allemands canonnés. Au retour, arrêt au refilling point (capitaine Lovet), puis à la Mission française du 2e corps (capitaine de Casteljau, jugé énorme et bête) ; retour par Senlis et Acheux vers 3 h 1/2. Le dimanche 11, nuit très froide et gel, puis soleil de midi annonçant le dégel.'
+noms:
+  personnes:
+  - forme: Bradfield
+    ligne: 4
+    identite: lieutenant britannique de la 152nd Company A.S.C.
+  - forme: Lovet
+    ligne: 11
+    identite: capitaine rencontré au refilling point (lecture incertaine)
+  - forme: Casteljau
+    ligne: 13
+    identite: capitaine de la Mission française du 2e corps (lecture incertaine)
+  lieux:
+  - forme: Aveluy
+    ligne: 2
+    identite: Aveluy (Somme)
+  - forme: Senlis
+    ligne: 12
+    identite: Senlis-le-Sec (Somme)
+  - forme: Acheux
+    ligne: 14
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

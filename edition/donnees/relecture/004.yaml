@@ -1,0 +1,144 @@
+cliche: 4
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 27 J. \hfill Juillet /16
+  apres: \sl{27 J} \hfill \sl{Juillet /16}
+  justification: les deux éléments sont soulignés ; aucun point après J (le point visible est celui du i d'Aussitot)
+  confiance: haute
+- ligne: 2
+  avant: – Aussitôt
+  apres: Aussitot
+  justification: 'pas de tiret : le trait est la boucle basse du J de la date ; aucun circonflexe visible'
+  confiance: moyenne
+- ligne: 3
+  avant: à Renescure.
+  apres: à Renescure
+  justification: aucun point, seulement le délié final du e
+  confiance: moyenne
+- ligne: 4
+  avant: saturé de mélancolie.
+  apres: saturé de mélancolie
+  justification: pas de point ; le point à droite est celui du i d'intéressant (l. 5)
+  confiance: moyenne
+- ligne: 6
+  avant: châteaux M. Age
+  apres: chateaux M-Age
+  justification: aucun circonflexe ; signe court à mi-hauteur entre M et Age (trait d'union)
+  confiance: haute
+- ligne: 7
+  avant: château
+  apres: chateau
+  justification: aucun circonflexe
+  confiance: haute
+- ligne: 9
+  avant: lgt
+  apres: lgs
+  justification: l + g + s court, sans barre de t
+  confiance: haute
+- ligne: 10
+  avant: Hazebrouck
+  apres: Hazebrouck.
+  justification: k et point rejetés au bord droit, sous la ligne
+  confiance: haute
+- ligne: 13
+  avant: (avec Square à g.)
+  apres: (avec Square à g.
+  justification: parenthèse non refermée
+  confiance: haute
+- ligne: 14
+  avant: lgt
+  apres: lgs
+  justification: l bouclé, g descendant, s final ; aucune barre
+  confiance: haute
+- ligne: 15
+  avant: devant mon
+  apres: devant my
+  justification: m puis y à tête en V ouvert et descente terminée vers la gauche ; ni o ni n
+  confiance: haute
+- ligne: 17
+  avant: funèbre.
+  apres: funebre.
+  justification: aucun accent sur le e
+  confiance: moyenne
+- ligne: 18
+  avant: 'A Renescure : boîte de plumes : 1 f 50. —'
+  apres: '\sl{A Renescure} : boite de plumes : 1^{f}50. —'
+  justification: trait appuyé sous A Renescure ; pas de circonflexe ; f en petite boucle surélevée
+  confiance: moyenne
+- ligne: 19
+  avant: '2 carnets timbres-poste : 2 f + 2 f. —'
+  apres: '\ind[2] 2 carnets timbres-postes : 2^{f} + 2^{f}. —'
+  justification: s final plongeant après poste ; f suscrits ; ligne commencée au milieu de la page
+  confiance: moyenne
+- ligne: 20
+  avant: 'Cartes ples : d''Ypres : 1 f 20. – C. P. de Renescure : 60 c +'
+  apres: 'Cartes p^{les} : d Ypres : 1^{f}20. – C. P de Renescure : 60c +'
+  justification: les suscrit ; aucune apostrophe après d ; pas de point après P
+  confiance: moyenne
+- ligne: 21
+  avant: '\hfill C. ples (varia) : 50 c. — / A Hazebrouck : Solde : 84 fr. —'
+  apres: '\ind[2] Solde : 84 fr. — \hfill C. p^{les} (varia) : 50c. —'
+  justification: Solde est écrit au-dessus d'A Hazebrouck, sur la même ligne que C. ples (varia) ; aucun deux-points après Hazebrouck
+  confiance: moyenne
+- ligne: 22
+  avant: 'C. ples : 60 + 10 c – \hfill 1 cahier cartonné : 1 f 50'
+  apres: 'A Hazebrouck C. p^{les} : 60 + 10 c. – \hfill 1 cahier cartonné : 1^{f}50'
+  justification: C. ples suit A Hazebrouck sur la même ligne de base
+  confiance: moyenne
+- ligne: 23
+  avant: 'Cte d''Etat-major : 90 c. – \hfill 3 élastiq. de rechange'
+  apres: 'Cte d Etat-major : 90c. \hfill 3 \inc{elastiq} de rechange'
+  justification: pas d'apostrophe ni de tiret final ; aucun accent sur e, aucun point après la finale ; finale incertaine
+  confiance: basse
+difficultes:
+- ligne: 19
+  lemme: carnets timbres-postes
+  analyse: petite boucle fermée à queue horizontale, sous la ligne de base entre carnets et timbres, au-dessus du « 1 » de 1^{f}20 (l. 20) ; rattachée à ce montant comme f surélevé, mais la forme rappelle aussi une esperluette ; non tranché sur l'image (zoom ×3)
+  alternatives:
+  - carnets & timbres-postes
+- ligne: 22
+  lemme: A Hazebrouck
+  analyse: 'trait fin et gris au-dessus de « Cte d » (l. 23), très différent du soulignement appuyé d''A Renescure : non retenu comme soulignement'
+  alternatives:
+  - \sl{A Hazebrouck}
+- ligne: 23
+  lemme: elastiq
+  analyse: 'e, l, a ouvert (aspect n), s montant, t barré, i, puis finale plongeante bouclée vers la gauche : q sans boucle de retour attendu, s plongeant (ʒ) possible, d''où elastics'
+  alternatives:
+  - elastics
+- ligne: 21
+  lemme: Solde
+  analyse: 'remarque du commentateur historique vérifiée : Solde : 84 fr. commence au milieu de la page entre la ligne des cartes de Renescure et la rubrique A Hazebrouck ; le lieu du versement reste indécidable. La page ne nomme pas Lynde : le champ lieux s''en tient à Renescure et Hazebrouck'
+  alternatives: []
+controle:
+- ligne: 23
+  avant: 3 elastiq de rechange
+  apres: 3 \inc{elastiq} de rechange
+  justification: la finale plongeante bouclée vers la gauche (zoom ×3) convient aussi bien à un s plongeant (elastics) qu'à un q ; lecture marquée incertaine et note de lecture ajoutée
+- ligne: 19
+  avant: note « timbres-postes » seule ; signe entre carnets et timbres relégué aux difficultés
+  apres: note de lecture sur « carnets timbres-postes » signalant l'esperluette possible
+  justification: la boucle à queue horizontale, isolée entre les deux mots, n'est pas sûrement le f de 1^{f}20 ; le lecteur doit connaître l'autre lecture ; note de graphie timbres-postes supprimée (faute banale)
+- ligne: 20
+  avant: '1^{f}20 : note avec localisation du f entre carnets et timbres'
+  apres: 1 franc 20
+  justification: épuration de l'apparat (description de position déplacée dans difficultes)
+- ligne: 13
+  avant: à gauche ; parenthèse non refermée
+  apres: à gauche
+  justification: la parenthèse non refermée est rendue par la transcription
+resume: 'Le jeudi 27 juillet 1916, Hippolyte Combes va à pied à Renescure après le petit déjeuner, sous un temps gris. Il y visite deux châteaux du Moyen Âge (fossés, tours d''angle, donjon) et l''église à double nef. L''après-midi, il se rend à cheval à Hazebrouck (grande place, église, square). La soirée est mélancolique : il arpente l''allée des jardins potagers devant son cottage, dans le brouillard. Les comptes notent plumes, carnets de timbres, cartes postales, un cahier, une carte d''état-major, des élastiques de bretelles, et la solde de 84 francs.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Renescure
+    ligne: 3
+    identite: Renescure (Nord)
+  - forme: Hazebrouck.
+    ligne: 10
+    identite: Hazebrouck (Nord)
+  - forme: Ypres
+    ligne: 20
+    identite: Ypres (Belgique)
+source: contrôle

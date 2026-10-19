@@ -1,0 +1,163 @@
+cliche: 134
+confiance: haute
+changements:
+- ligne: 1
+  avant: — Janvier 1917 —
+  apres: — Janvier \sl{1917} —
+  justification: le trait appuyé ne couvre que le millésime ; « Lundi 29. » souligné
+  confiance: haute
+- ligne: 2
+  avant: Levé 7h 1/2.
+  apres: Levé 7^{H} \fr{1}{2}
+  justification: H suscrit en forme de petit 4 ; demi empilé (1, barre, 2 en ʒ) ; aucun point final
+  confiance: haute
+- ligne: 3
+  avant: Matin, temps
+  apres: matin, temps
+  justification: initiale minuscule nette
+  confiance: haute
+- ligne: 3
+  avant: soleil pâle.
+  apres: soleil pâle
+  justification: aucun point après pâle, le mot touche le bord
+  confiance: moyenne
+- ligne: 8
+  avant: ouverture et feuille
+  apres: ouverture, & feuille
+  justification: virgule verticale après ouverture ; signe unique en ƒ barré d'un long trait
+  confiance: moyenne
+- ligne: 9
+  avant: Ste-Marie.
+  apres: S^{te} Marie.
+  justification: te suscrit ; le trait sous te est le délié d'attaque du M
+  confiance: haute
+- ligne: 10
+  avant: Madne
+  apres: Mad^{ne}
+  justification: ne suscrit, nettement surélevé
+  confiance: haute
+- ligne: 14
+  avant: réveillée
+  apres: reveillée
+  justification: aucun accent sur le premier e ; seul accent au-dessus de la finale
+  confiance: moyenne
+- ligne: 15
+  avant: église romane.
+  apres: eglise romane \trait
+  justification: aucun accent sur l'e initial ; aucun point ; e final prolongé en long délié horizontal
+  confiance: moyenne
+- ligne: 16
+  avant: Magasins du Capitole & Labit.
+  apres: \ind Magasins du Capitole & Labit
+  justification: ligne en retrait ; aucun point final
+  confiance: haute
+- ligne: 17
+  avant: Remonté 1 peu Rue Alsace.
+  apres: Remonté 1 peu Rue Alsace
+  justification: aucun point final
+  confiance: haute
+- ligne: 19
+  avant: notre tram p. Côte Pavée.
+  apres: notre tram par Côte Pavée.
+  justification: p + a fermé + r, mot complet
+  confiance: haute
+- ligne: 20
+  avant: A 9h s., quitté, hélas! Ste-Marie.
+  apres: \ind A 9^{H} s., quitté, hélas! S^{te} Marie
+  justification: H suscrit ; te suscrit ; pas de point final ; retrait
+  confiance: haute
+- ligne: 21
+  avant: '[ — Trams : 10, 10, 10 c, 60, 10 c —'
+  apres: '\crochet{4}— Trams : 10, 10, 10c, 60, 10c ='
+  justification: grand crochet sur quatre lignes ; tiret épais en marge ; signe final à deux traits superposés
+  confiance: moyenne
+- ligne: 22
+  avant: 'boîte de 3 savonnettes : 2 f 90'
+  apres: boîte de 3 savonnettes – 2^{f} \inc{90}
+  justification: tiret (non deux-points) ; f suscrit ; chiffres minuscules au bord
+  confiance: moyenne
+- ligne: 23
+  avant: 'Margte : 2 f 25 c — Ctes ples : 30 c'
+  apres: 'Margte – 2^{f}25 – C^{tes} p^{les} : 30c'
+  justification: tiret court après Margte ; f en petite boucle suscrite entre 2 et 25 ; aucun c après 25 ; finales suscrites
+  confiance: moyenne
+- ligne: 24
+  avant: 1 f — ]
+  apres: 1^{f} —
+  justification: f suscrit ; aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 22
+  lemme: \inc{90}
+  analyse: 'zoom x3 [.84 .88 1.0 .93] : après le 2, haste montante terminée par une boucle haute (f suscrit ou 9), puis un petit ovale coupé par le bord de la page ; deux chiffres ne sont pas séparables avec certitude'
+  alternatives:
+  - 2^{f} 90
+  - 2,90
+  - 2^{f} 50
+- ligne: 23
+  lemme: 2^{f}25
+  analyse: 2 bouclé, petite boucle suscrite (f), 2, puis 5 en ſ à longue haste avec drapeau ; zoom [.55 .915 .78 .965]
+  alternatives:
+  - 2^{f} 2^{f}5
+- ligne: 16
+  lemme: Labit
+  analyse: L en ℒ, a fermé, b bouclé, i, t à long délié final (zoom [.60 .60 .95 .67]) ; Labit retenu
+  alternatives:
+  - Lobit
+controle:
+- ligne: 14
+  avant: réveillée
+  apres: reveillée
+  justification: 'zoom [.02 .52 .25 .60] : r, e sans accent, v, e, i pointé, ll, é, e ; seul accent, décalé à droite, au-dessus de la finale'
+- ligne: 15
+  avant: église
+  apres: eglise
+  justification: 'même zoom : e initial sans accent ; le point visible au-dessus appartient au i'
+- ligne: 1
+  avant: 'apparat : disposition « Lundi 29. »'
+  apres: supprimée
+  justification: le balisage \sl{} rend déjà le soulignement
+- ligne: 17
+  avant: 'apparat : graphie « Rue Alsace »'
+  apres: supprimée
+  justification: graphie non trompeuse ; identification portée dans noms.lieux
+- ligne: 10
+  avant: 'noms : Mad^{ne} = tante Madeleine'
+  apres: Madeleine (Calmels-Vincens ?), sœur aînée de Marguerite
+  justification: remarque du commentateur historique (f. 66 v°) ; résumé corrigé en conséquence
+remarques: 'Total implicite des trams : 10+10+10+60+10 = 1 f (non écrit). Commentateur historique : registre matricule classe 1896 (47, rue du Taur, près de Saint-Sernin) ; Mérimée PA31000123 pour Labit ; Mad^{ne} probablement Madeleine Calmels-Vincens, sœur aînée de Marguerite (f. 66 v°), non une tante.'
+resume: 'Le lundi 29 janvier 1917, Hippolyte Combes se lève à 7 h 30 dans sa chambre de Toulouse, allume un grand feu et goûte le confort retrouvé. À la gare, il se fait livrer non sans peine un panier de fleurs de Nice dont l''étiquette et la feuille postale ont disparu. L''après-midi, avec Marguerite et Madeleine, il visite longuement la basilique Saint-Sernin et ses cryptes, qui réveillent toute sa jeunesse, puis les magasins du Capitole et Labit et la rue d''Alsace. Le soir, après le tram de la Côte Pavée, il quitte Sainte-Marie à 9 heures. Comptes : tramways, savonnettes, brosse à dents pour Marguerite, cartes postales, entrée des cryptes.'
+noms:
+  personnes:
+  - forme: Marg.
+    ligne: 10
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Mad^{ne}
+    ligne: 10
+    identite: Madeleine (Calmels-Vincens ?), sœur aînée de Marguerite
+  - forme: Margte
+    ligne: 23
+    identite: Marguerite Calmels
+  lieux:
+  - forme: Nice
+    ligne: 7
+    identite: Nice (Alpes-Maritimes), provenance du panier de fleurs
+  - forme: S^{te} Marie
+    ligne: 9
+    identite: Sainte-Marie(-des-Champs), Toulouse, domicile de Marguerite
+  - forme: St-Sernin
+    ligne: 12
+    identite: basilique Saint-Sernin, Toulouse
+  - forme: Capitole
+    ligne: 16
+    identite: Capitole de Toulouse et ses magasins
+  - forme: Labit
+    ligne: 16
+    identite: Labit, Toulouse (musée Georges-Labit ou magasin ?)
+  - forme: Rue Alsace
+    ligne: 17
+    identite: rue d'Alsace-Lorraine, Toulouse
+  - forme: Côte Pavée
+    ligne: 19
+    identite: Côte Pavée, quartier de Toulouse
+source: contrôle

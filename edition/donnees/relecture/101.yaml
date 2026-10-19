@@ -1,0 +1,141 @@
+cliche: 101
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 20 Lundi — \hfill Nov. /16
+  apres: \sl{20 Lundi –} \hfill \sl{Nov – /16}
+  justification: tiret bas entre Nov et /16, aucun point ; deux soulignements
+  confiance: haute
+- ligne: 2
+  avant: Auj'd'hui
+  apres: Auj-dhui
+  justification: trait d'union bas après j, d en ∂ directement lié à hui ; pas d'apostrophe
+  confiance: moyenne
+- ligne: 4
+  avant: état
+  apres: etat
+  justification: aucun accent sur le e initial
+  confiance: moyenne
+- ligne: 7
+  avant: à côté.
+  apres: à cote
+  justification: seul un accent posé au-dessus du c (celui de à décalé) ; pas d'accent final, pas de point
+  confiance: moyenne
+- ligne: 8
+  avant: 'Mouvement inouï : lorries'
+  apres: Mouvement inouï. Lorries
+  justification: point après inouï, L majuscule bouclée
+  confiance: haute
+- ligne: 13
+  avant: Contay [?]
+  apres: \inc{Contay}
+  justification: balisage ; lettres compatibles
+  confiance: moyenne
+- ligne: 14
+  avant: Dû attendre
+  apres: Dû lattendre
+  justification: haste bouclée d'un l, montant au-dessus de l'œil, avant le a fermé de attendre ; aucune apostrophe
+  confiance: moyenne
+- ligne: 16
+  avant: ciel mervt étoilé... Nuit noire.
+  apres: ciel merv.^{t} étoilé ! . . Nuit noire
+  justification: point puis t surélevé ; point d'exclamation net après étoilé, puis deux points
+  confiance: haute
+- ligne: 17
+  avant: '[ — Cartes ples d''Acheux : 45 c. — Timbres : 2 f / Carnet : 60 c ]'
+  apres: '[ — Cartes ples d''Acheux : 45c . — Timbres : \inc{2 f} \add{Carnet \inc{60}}'
+  justification: Carnet est un ajout interlinéaire au-dessus de Timbres, non une ligne ; aucun crochet fermant ; aucun c lisible après le montant
+  confiance: moyenne
+- ligne: 19
+  avant: 1/2 jour
+  apres: \fr{1}{2} jour
+  justification: fraction empilée
+  confiance: haute
+- ligne: 23
+  avant: Léalvillers
+  apres: \inc{Lealvillers}
+  justification: pas d'accent ; finale réduite
+  confiance: moyenne
+- ligne: 24
+  avant: +tôt désobligeante
+  apres: +tot desobligeante
+  justification: ni circonflexe ni accent visibles
+  confiance: moyenne
+- ligne: 25
+  avant: contre lui.
+  apres: contre lui. –
+  justification: tiret final
+  confiance: haute
+difficultes:
+- ligne: 13
+  lemme: Contay
+  analyse: C à crochet de tête, petit o, n dont le second jambage se confond avec la haste du t, barre longue, a, y plongeant ; aucune autre lecture toponymique satisfaisante
+  alternatives:
+  - Cohtay
+- ligne: 14
+  lemme: lattendre
+  analyse: haste bouclée haute (l) liée à un a fermé, puis tt sous une barre commune, e, n, d, r, e ; sans doute « l'attendre » (attendre l'auto)
+  alternatives:
+  - attendre
+- ligne: 17
+  lemme: Carnet 60
+  analyse: Carnet net ; ensuite petite panse fermée avec haste montante (6 ?), longue haste descendante qui croise la ligne de Timbres (5 en ſ ?), o à long délié ; aucun c
+  alternatives:
+  - Carnet 50
+  - Carnet de 0
+- ligne: 17
+  lemme: 2 f
+  analyse: panse fermée en bas à gauche avec haste montante, puis trait vertical à crochet (f monétaire ou fin de la haste de l'ajout au-dessus) ; 2 bouclé, 4 fermé ou 6 possibles
+  alternatives:
+  - 4 f
+  - 6 f
+- ligne: 23
+  lemme: Lealvillers
+  analyse: L bouclé, e, a, l haut, v, i, ll, e, r ; s final absent ou fondu dans le r, puis point
+  alternatives:
+  - Lealviller
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Contay vérifié sur l''image : les lettres le soutiennent, mais le détour au sud-ouest entre Bouzincourt et Englebelmer reste surprenant, d''où \inc maintenu. Le montant des timbres reste incertain et ne se prête pas à un commentaire tarifaire.'
+  alternatives: []
+controle:
+- ligne: 14
+  avant: Dû attendre
+  apres: Dû lattendre
+  justification: zoom ×3 [.28 .48 .50 .53] ; haste bouclée d'un l avant le a, sans apostrophe ; sens « l'attendre » (l'auto)
+- ligne: 17
+  avant: \add{Carnet \inc{60 c}}
+  apres: \add{Carnet \inc{60}}
+  justification: zoom ×4 [.76 .545 1.0 .595] ; après le chiffre, o à long délié, aucun c ; alternative 50 (5 en ſ) notée
+- ligne: 17
+  avant: 'note : 2 bouclé suivi d''un f bref'
+  apres: 'note : autres lectures 4 f, 6 f'
+  justification: le premier signe est une panse fermée basse à haste montante (aspect d), compatible avec 4 fermé ou 6 autant qu'avec 2 bouclé ; le second trait peut appartenir à la haste de l'ajout
+- ligne: 0
+  avant: apparat avec analyses paléographiques (Auj-dhui, Contay, Lealvillers)
+  apres: notes brèves
+  justification: épuration de l'apparat ; analyses renvoyées à difficultes
+remarques: 'Encre noire. Ligne 10 : « ou » en marge, « des tranchées » écrit après un large blanc. Ligne 12 : la boucle haute sous « Bouzincourt » est la tête du f de « refuge » (l. 13).'
+resume: Le 20 novembre 1916, à Acheux, temps couvert et boue ; Hippolyte Combes regarde passer de sa fenêtre camions, voitures, troupes revenant des tranchées et colonnes de prisonniers allemands. L'après-midi, course en auto à Bouzincourt ; au retour, arrêt (à Contay ?) puis attente dans la nuit noire à Englebelmer le long des murs du château. Petites dépenses (cartes postales, timbres, carnet). Le 21, brouillard et routes boueuses ; l'après-midi, en camion à Léalvillers ; au retour, au bureau, remarque désobligeante de Curtis qui le fâche.
+noms:
+  personnes:
+  - forme: Curtis
+    ligne: 24
+    identite: lieutenant britannique de la compagnie
+  lieux:
+  - forme: Bouzincourt
+    ligne: 12
+    identite: Bouzincourt (Somme)
+  - forme: Contay
+    ligne: 13
+    identite: Contay (Somme), lecture incertaine
+  - forme: Englebelmer
+    ligne: 14
+    identite: Englebelmer (Somme)
+  - forme: Acheux
+    ligne: 17
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Lealvillers
+    ligne: 23
+    identite: Léalvillers (Somme)
+source: contrôle

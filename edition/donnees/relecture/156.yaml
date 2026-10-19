@@ -1,0 +1,133 @@
+cliche: 156
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 17 — \hfill Février 1917 / Dégel continué nuit et jour.
+  apres: \sl{Sam. 17} — Dégel continué \hfill \sl{Fevrier 1917} / nuit et jour.
+  justification: « Dégel continué » est écrit sur la ligne de date, entre « Sam. 17 — » et le mois ; aucun accent sur le e de Fevrier ; date et mois soulignés
+  confiance: haute
+- ligne: 3
+  avant: de + en + doux
+  apres: de + en doux
+  justification: un seul signe + (avant en) ; entre « en » et « doux » aucun tracé
+  confiance: haute
+- ligne: 4
+  avant: liberté
+  apres: liberte
+  justification: seule la longue barre du t couvre te ; aucun accent distinct (contraste l. 16 « liberté » avec accent net)
+  confiance: moyenne
+- ligne: 8
+  avant: Soirée, épais brouillard —
+  apres: \ind Soirée, epais brouillard –
+  justification: e initial d'epais sans accent ; tiret court après brouillard ; ligne en retrait
+  confiance: moyenne
+- ligne: 9
+  avant: Dim. 18. — Ciel resté brouillé, nuageux.
+  apres: \sl{Dim. 18.} — ciel resté brouillé nuages.
+  justification: c minuscule ; aucune virgule après brouillé ; n-u (quatre minimes) - a - g - e - s montant bouclé, aucune place pour -ux (contrôle p2)
+  confiance: moyenne
+- ligne: 14
+  avant: Tempér., bien adoucie.
+  apres: tempérre, bien adoucie.
+  justification: t initial minuscule ; après r accentué, crochet en 2 sur la ligne (finale -re), puis virgule ; forme tempérre attestée en 008, 015, 017, 116
+  confiance: moyenne
+- ligne: 17
+  avant: Mission fr. Vth Armée.
+  apres: mission fr^{se} V armée.
+  justification: m et a minuscules ; après fr un petit trait suscrit en ^ (finale abrégée), non un point ; V suivi directement de armée, sans th
+  confiance: moyenne
+- ligne: 19
+  avant: d'anglais, à Toulouse.
+  apres: d anglais, à Toulouse —
+  justification: aucune apostrophe visible entre d et anglais ; long tiret après Toulouse, pas de point
+  confiance: moyenne
+- ligne: 21
+  avant: partie cérémonie, entendu prône —
+  apres: partie ceremonie, entendu prône. —
+  justification: un seul accent, posé vers la fin du mot (au-dessus de -ie) ; petit point après prône puis tiret long
+  confiance: moyenne
+- ligne: 22
+  avant: Retour à Hérissart sur un lorry.
+  apres: \ind Retour à Herissart sur un lorry \trait
+  justification: aucun accent sur le e de Herissart ; long trait de remplissage tiré depuis lorry vers la marge
+  confiance: moyenne
+- ligne: 23
+  avant: Aujourd'hui, me suis tt à fait ressaisi.
+  apres: aujourdhui, me suis tt à fait ressaisi.
+  justification: a initial minuscule ; aucune apostrophe entre d et h
+  confiance: moyenne
+- ligne: 24
+  avant: 'parfaite santé morale. — [ A Toutencourt, / solde : 68 f. 25 c. ]'
+  apres: 'parfaite sante morale. — \hfill [A Toutencourt, / \droite solde : 68 f 25 c.]'
+  justification: crochets de deux lignes ; f sans point, lié au 2 ; point après c ; sur sante, seule la barre du t couvre -te, aucun accent (contrôle p2)
+  confiance: moyenne
+difficultes:
+- ligne: 9
+  lemme: nuages
+  analyse: quatre minimes (n-u), a, g à jambage bouclé, e, puis finale montante bouclée (s final) ; point final net ; aucun tracé pour -ux
+  alternatives:
+  - nuageux
+- ligne: 11
+  lemme: très
+  analyse: 't bouclé (aspect h) + r + e, barre horizontale au-dessus ; aucun s distinct : forme réduite « hu » habituelle de très'
+  alternatives:
+  - trè
+- ligne: 14
+  lemme: Puis enfin rester
+  analyse: 'P + u + i pointé + s ; rester : r-e-s-t (barre longue) - e + finale à deux jambages (r)'
+  alternatives:
+  - Pu enfin rester
+  - Puis enfin resté
+- ligne: 17
+  lemme: fr^{se} V armée
+  analyse: fr suivi d'un petit trait en ^ au-dessus de la ligne, puis grand V à long délié d'attaque, enchaîné à armée (accent final, point)
+  alternatives:
+  - fr. V armée
+- ligne: 18
+  lemme: renseignements
+  analyse: r-e-n-s-e-i-g puis environ sept minimes et deux e, finale ſt sous une barre ; forme compressée
+  alternatives:
+  - renseignemts
+- ligne: 24
+  lemme: sante
+  analyse: longue barre du t sur -te, sans accent distinct ; le point au-dessus du s est le pied de la virgule de la l. 23
+  alternatives:
+  - santé
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1078 caractères ; Nichols 1922 p. 140 ; OH 1917-I p. 103 ; 68 F 25 = 13 jours × 5 F 25 (calcul) ; renvois f. 75 v° (Boom Ravine), f. 52 v° et f. 75 r° (Mission, paie les 3 et 18), f. 63 v° (permission à Toulouse) ; le scan confirme la lecture « cantonnement d anglais, à Toulouse », contre la piste « concours » ou « cours » ; le but de cette démarche reste une hypothèse ; le vocable de l''église de Toutencourt (Saint-Léger, selon l''édition antérieure) n''a pas pu être vérifié et n''est pas repris.'
+  alternatives: []
+controle:
+- ligne: 9
+  avant: \inc{nuageux}
+  apres: nuages
+  justification: zoom ×3 [.58 .375 1.0 .44] ; n-u-a-g-e puis s final montant bouclé, aucun tracé pour u-x ; point final
+- ligne: 14
+  avant: \inc{tempérre}
+  apres: tempérre
+  justification: tuile t4g ; t-e-m-p-e-r, accent sur er, crochet en 2 (finale -re) sur la ligne, virgule ; forme attestée ailleurs, doute levé
+- ligne: 24
+  avant: parfaite santé morale
+  apres: parfaite sante morale
+  justification: zoom ×3 [.10 .925 .45 .99] ; seule la barre du t couvre -te, aucun accent ; même traitement que liberte l. 4
+remarques: Contrôle p2 sur les tuiles et huit zooms ×3 ; « renseignements » conservé (forme compressée, lettres finales confuses).
+resume: 'Samedi 17 février 1917 : le dégel continue, temps doux et pluvieux ; journée entière de liberté consacrée à la correspondance en retard, repos bienfaisant au physique et au moral ; brouillard le soir. Dimanche 18 : ciel brouillé, ondées, dégel rapide, routes transformées en fondrières ; Hippolyte Combes reste dans sa chambre sans feu. Le matin, à Toutencourt, il se rend à la Mission française de la Ve armée pour se renseigner sur un cantonnement « d''anglais » à Toulouse, puis assiste à une partie de l''office et au prône dans l''église du village. Retour à Hérissart en camion ; il se sent tout à fait ressaisi. Solde touchée à Toutencourt : 68 f 25.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Toutencourt
+    ligne: 17
+    identite: Toutencourt (Somme), siège de la Mission française auprès de la Ve armée britannique
+  - forme: Toulouse
+    ligne: 19
+    identite: Toulouse (Haute-Garonne)
+  - forme: Toutencourt
+    ligne: 20
+    identite: Toutencourt (Somme)
+  - forme: Herissart
+    ligne: 22
+    identite: Hérissart (Somme)
+  - forme: Toutencourt
+    ligne: 24
+    identite: Toutencourt (Somme)
+source: contrôle

@@ -1,0 +1,130 @@
+cliche: 18
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 12 Sam. \hfill Aout 1916
+  apres: 12 \sl{Sam.} \hfill Août \sl{1916}
+  justification: circonflexe en zigzag au-dessus de ou ; deux traits bas, l'un sous Sam. seul, l'autre sous 1916 seul
+  confiance: moyenne
+- ligne: 2
+  avant: Encore journée de chaleur caniculaire
+  apres: \ind Encore journée de chaleur caniculaire.
+  justification: ligne en retrait (x ≈ 0,15) ; point en coin sous la fin du délié, distinct du point du i
+  confiance: moyenne
+- ligne: 3
+  avant: sorti pour me
+  apres: sorti pr me
+  justification: 'p à longue haste, une seule bosse puis long délié : ni o ni u (cf. pr me, 026 l. 5)'
+  confiance: haute
+- ligne: 5
+  avant: le long rives
+  apres: le long rivière
+  justification: 'après le v, un jambage, un è dont l''accent est une barre décalée à droite, r et e avec délié : trop d''éléments pour rives ; la descente qui coupe le mot est le l d''éclusier (l. 6)'
+  confiance: moyenne
+- ligne: 6
+  avant: avec éclusier
+  apres: avec éclusier –
+  justification: tiret court isolé à x ≈ 0,956, y ≈ 0,27, entre la fin d'éclusier et berge (l. 7)
+  confiance: basse
+- ligne: 8
+  avant: d'ombre
+  apres: d ombre
+  justification: aucune apostrophe entre le d et l'o (zoom ×3)
+  confiance: moyenne
+- ligne: 9
+  avant: ⟦devant⟧ en face de champs
+  apres: \del{devant} \add{en face de} champs
+  justification: en face de est écrit dans l'interligne, au-dessus de devant et de champs ; -ant de devant couvert d'encre
+  confiance: moyenne
+- ligne: 10
+  avant: jaunis par soleil
+  apres: jaunis par soleil –
+  justification: tiret court (x ≈ 0,983–0,995) sur la ligne de base, au bord du feuillet
+  confiance: moyenne
+- ligne: 13
+  avant: clair –
+  apres: clair —
+  justification: tiret long (≈ 0,033 de la largeur), double des tirets courts de la page
+  confiance: moyenne
+- ligne: 14
+  avant: '½ litre lait : 15 c'
+  apres: '\ind[2] — \fr{1}{2} litre lait : 15c'
+  justification: long trait mince devant le compte ; ½ empilé ; c accolé au 5
+  confiance: haute
+- ligne: 15
+  avant: Après lunch, resté chambre à
+  apres: \ind après lunch, resté chambre à
+  justification: ligne en retrait (x ≈ 0,15), sous un filet partiel ; a initial au module d'une minuscule (zoom ×2), sans forme de majuscule
+  confiance: moyenne
+- ligne: 17
+  avant: air brulant, soleil torride
+  apres: air brulant, soleil torride \trait
+  justification: délié final de torride prolongé jusqu'à x ≈ 0,92
+  confiance: moyenne
+difficultes:
+- ligne: 5
+  lemme: rivière
+  analyse: r à attaque, i, v ; puis un jambage, une arche surmontée d'une longue barre décalée à droite (accent de è), r et e à long délié ; la descente qui croise le mot appartient au l d'éclusier (l. 6) ; une tache brune du verso touche la fin du mot ; rives n'emploie pas tous les tracés
+  alternatives:
+  - rivière
+  - rives
+- ligne: 6
+  lemme: éclusier –
+  analyse: tiret court isolé (y ≈ 0,27), à mi-distance des lignes de base d'éclusier (≈ 0,25) et de berge (≈ 0,30) ; le sens (fin de phrase avant puis continué) le rattache à la l. 6
+  alternatives:
+  - éclusier –
+  - berge –
+- ligne: 9
+  lemme: \add{en face de}
+  analyse: 'premier mot de l''ajout petit, en forme de h (haste oblique + arche, sans boucle d''e nette) : même tracé que de, l. 10 ; puis f long, a, c, haste du d de de et long délié ; « de face de » n''a pas de sens, en face de retenu'
+  alternatives:
+  - en face de
+  - de face de
+- ligne: 9
+  lemme: \del{devant}
+  analyse: seul -ant est couvert d'encre noire, dev reste intact ; l'ajout en face de remplace devant ; une simple reprise d'encre n'est pas exclue
+  alternatives:
+  - \del{devant}
+  - devant
+- ligne: 10
+  lemme: d'épis
+  analyse: première haste longue sans panse visible (d réduit ou l) ; apostrophe séparée ; é ; p descendant ; i pointé ; s final non distinct, recouvert par l'A d'Allongé (l. 11)
+  alternatives:
+  - d'épis
+  - d'épi
+- ligne: 16
+  lemme: s'éloigner
+  analyse: ſ, apostrophe, é, l bouclé, o, i pointé, g, n, e puis long délié horizontal valant -r (même finale réduite dans promener, l. 5)
+  alternatives:
+  - s'éloigner
+  - s'éloigne
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Traitée : Bac-Saint-Maur (hameau de Sailly-sur-la-Lys) est dans le Pas-de-Calais ; clé lieux corrigée. Les trois dernières lignes, sous le filet partiel, reviennent sur le début de l''après-midi.'
+  alternatives: []
+controle:
+- ligne: 15
+  avant: \ind Après lunch, resté chambre à
+  apres: \ind après lunch, resté chambre à
+  justification: a initial au module d'une minuscule (zoom .08 .815 .32 .885 ×2), sans pointe ni taille de majuscule ; guide § 5 et piège 24
+- ligne: 0
+  avant: 'lieux : … Bac-Saint-Maur (Nord)'
+  apres: 'lieux : … Bac-Saint-Maur (Pas-de-Calais)'
+  justification: Bac-Saint-Maur, hameau de Sailly-sur-la-Lys, est dans le Pas-de-Calais (remarque du commentateur historique)
+- ligne: 14
+  avant: '15c : type compte ; pas de note pour \fr{1}{2}'
+  apres: '15c et \fr{1}{2} : type abreviation (15 centimes ; demi)'
+  justification: aucune opération ni total ; abréviations de la table § 9–10
+- ligne: 0
+  avant: apparat de 31 entrées (dispositions, ponctuation, accents absents, lectures sûres)
+  apres: apparat de 11 entrées
+  justification: épuration selon la règle d'impression ; notes de disposition, graphies banales (d ombre, gouté, brulant) et lectures non douteuses retirées ; coordonnées sorties de critique ; vérifications par zooms (rivière, tiret l. 6, d ombre, ajout l. 9, d'épis, gouté, délicieux, soleil –, 15c, s'éloigner) confirmant la première lecture
+remarques: 'Les trois dernières lignes (après lunch…) reviennent sur le début de l''après-midi : ajout de fin de journée, séparé du compte par un filet partiel. L''éclusier est sans doute celui avec qui Combes a déjà causé la veille (016, écluse de la Lys).'
+resume: 'Le samedi 12 août 1916, la chaleur caniculaire continue. En fin d''après-midi, Combes sort se distraire : il se promène le long de la Lys, cause longuement avec l''éclusier, puis suit la berge gazonnée jusqu''à une oasis d''ombre, un champ de luzerne face à des champs de blé jaunis. Allongé sur le dos, il goûte un repos délicieux en regardant les nuages floconneux sur le ciel bleu clair. Il note un demi-litre de lait à 15 c. Trois lignes ajoutées sous un filet précisent qu''après le déjeuner il est resté dans sa chambre à lire, la chaleur rendant toute sortie impossible.'
+noms:
+  personnes: []
+  lieux:
+  - forme: la Lys
+    ligne: 6
+    identite: la Lys, rivière (Bac-Saint-Maur, Sailly-sur-la-Lys, Pas-de-Calais)
+source: contrôle

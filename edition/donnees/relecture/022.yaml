@@ -1,0 +1,142 @@
+cliche: 22
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: et galop à travers champs \hfill 19 Sam –
+  apres: galop à travers champs \hfill 19 \sl{Sam –}
+  justification: la ligne commence par galop (x ≈ 0,09) ; le et visible en bas à gauche est celui de la l. 2 ; trait sous Sam –
+  confiance: haute
+- ligne: 2
+  avant: j. à la blanchisserie Barbry
+  apres: j'à la blanchisserie Barbry –
+  justification: trait en goutte à hauteur des hampes entre j et à (apostrophe), ni point ni trait d'union ; tiret court après Barbry
+  confiance: moyenne
+- ligne: 4
+  avant: (tourné à dr.) et
+  apres: (tourné à dr. et
+  justification: après dr. un point seul, aucune parenthèse fermante
+  confiance: haute
+- ligne: 5
+  avant: ttes
+  apres: tte
+  justification: tt barrés, e prolongé d'un délié, aucun s
+  confiance: moyenne
+- ligne: 6
+  avant: obus. –
+  apres: obus – –
+  justification: deux traits courts à mi-hauteur, aucun point sur la ligne
+  confiance: moyenne
+- ligne: 7
+  avant: Continué ensuite sur Armentières / Arrivé par gare (l. est complt déserte)
+  apres: Continué ensuite sur Armentières – \add{Arrivé par gare (l. est complt déserte}
+  justification: Arrivé… est écrit plus petit et serré entre les l. 7 et 8 (ajout interlinéaire) ; tiret après Armentières ; aucune parenthèse fermante
+  confiance: moyenne
+- ligne: 9
+  avant: riche — très b. maisons
+  apres: riche – très b maisons
+  justification: tiret court ; aucun point après b
+  confiance: moyenne
+- ligne: 10
+  avant: 'bombardements : grands'
+  apres: bombardements grands
+  justification: pas de deux-points, seulement une tache grise du papier
+  confiance: haute
+- ligne: 11
+  avant: Vu, çà & là, de toits
+  apres: Vu \inc{çà} & la. de toits
+  justification: aucune virgule après Vu ; premier mot douteux ; la sans accent, point en coin ; le trait après toits est la barre du t final (contrôle p2)
+  confiance: moyenne
+- ligne: 14
+  avant: Église
+  apres: Eglise
+  justification: aucun accent sur l'E
+  confiance: haute
+- ligne: 15
+  avant: découronné
+  apres: découronné –
+  justification: trait détaché en crosse après le mot
+  confiance: moyenne
+- ligne: 17
+  avant: inoccupés,
+  apres: inoccupés
+  justification: le trait vertical à droite est la haste du t final de habitants, montée de la l. 18
+  confiance: moyenne
+- ligne: 18
+  avant: abandonnés par leurs habitants. / Écossais
+  apres: abandonnés par leurs habitants \add{Ecossais}
+  justification: aucun point après habitants ; Ecossais est un ajout d'une autre encre dans l'interligne, sans accent sur l'E
+  confiance: moyenne
+- ligne: 19
+  avant: Rentrés par Gde route
+  apres: Rentré par gd route
+  justification: g minuscule + d, aucun e ; Rentré sans s (contrôle p2)
+  confiance: moyenne
+- ligne: 20
+  avant: thé avec 1 off
+  apres: thé av 1 off
+  justification: deux éléments seulement (a + v arrondi), sans e ni délié
+  confiance: haute
+- ligne: 21
+  avant: Fin journée ensoleillée et / très belle.
+  apres: \ind[2] Fin journée Ensoleillée et \addm{très belle}
+  justification: très belle est sur la même ligne de base que Fin journée…, à gauche, dans le blanc de l'alinéa ; E initial à grande boucle ; aucun point final
+  confiance: haute
+difficultes:
+- ligne: 11
+  lemme: \inc{çà}
+  analyse: haste droite montant au-dessus de l'œil, arche, e, puis accent grave détaché ; tracé presque identique à celui de très (l. 9 « très b maisons ») ; aucune cédille. Le jambage du g de grands (l. 10) descend sur le &, qu'il rend confus. Le sens (çà & là) commande.
+  alternatives:
+  - çà
+  - là
+  - très
+- ligne: 7
+  lemme: (l.
+  analyse: trait court, légèrement courbe, sur la ligne après gare ; parenthèse ouvrante (même forme qu'à la l. 4) ou virgule courte
+  alternatives:
+  - (l.
+  - ', l.'
+- ligne: 18
+  lemme: \add{Ecossais}
+  analyse: ajout d'une encre plus brune, sous abandonnés par ; il peut gloser la description d'Armentières ou se rattacher à Rentré
+  alternatives:
+  - fin de la l. 18
+  - début de la l. 19
+controle:
+- ligne: 11
+  avant: de toits –
+  apres: de toits
+  justification: le trait court à droite croise la haste du t final de toits et se prolonge au-dessus du mot ; c'est la barre du t, non un tiret
+- ligne: 13
+  avant: mises à nu
+  apres: mises à nu –
+  justification: tiret court sur la ligne de base après nu (x ≈ 0,56–0,60, y ≈ 0,54), rien de la l. 14 à cet endroit ; l'état antérieur le portait
+- ligne: 19
+  avant: Rentrés
+  apres: Rentré
+  justification: le mot finit par e prolongé, l'accent est rejeté au-dessus de par ; aucun s ; singulier comme arrivé, dirigé
+- ligne: 11
+  avant: '\inc{çà} : haste haute suivie d''une panse et d''un accent grave'
+  apres: \inc{çà} maintenu, alternative très ajoutée
+  justification: le tracé est presque identique à très (l. 9) ; le & est brouillé par le jambage du g de grands (l. 10)
+- ligne: 0
+  avant: apparat de 37 entrées (ponctuation, majuscules, coordonnées)
+  apres: apparat épuré (21 entrées)
+  justification: notes de ponctuation, d'accent, de majuscule et de position supprimées selon la règle d'impression ; difficulté « remarque du commentateur » versée aux remarques
+remarques: Le tiret de remonté (l. 4) est l'accent de l'é, tiré long. Les points au-dessus de principaux (l. 8) sont les points de ses i. La remarque du commentateur historique (église rapprochée de Saint-Vaast d'Armentières, références Ellis, Bewsher, Palissy) ne touche pas la lecture et n'est pas reprise dans l'apparat.
+resume: 'Suite de la chevauchée du samedi 19 août (cf. 021) : galop à travers champs jusqu''à la blanchisserie Barbry, puis traversée de Fleurbaix, dont presque toutes les maisons ont reçu des obus. Combes gagne ensuite Armentières, où il arrive par la gare, complètement déserte, et parcourt les principaux quartiers d''une ville importante et riche : toits crevés, façades trouées, cloisons d''appartement mises à nu, église de briques rouges au clocher découronné, immeubles pour la plupart abandonnés par leurs habitants ; il ajoute plus tard le mot « Ecossais ». Retour par la grande route avec un arrêt à Erquinghem pour prendre le thé avec un officier des Sussex ; fin de journée ensoleillée et très belle.'
+noms:
+  personnes:
+  - forme: Barbry
+    ligne: 2
+    identite: blanchisserie Barbry (cf. M. Barbry, propriétaire de Combes, 023)
+  lieux:
+  - forme: Fleurbaix
+    ligne: 3
+    identite: Fleurbaix (Pas-de-Calais)
+  - forme: Armentières
+    ligne: 7
+    identite: Armentières (Nord)
+  - forme: Erquinghem
+    ligne: 20
+    identite: Erquinghem-Lys (Nord)
+source: contrôle

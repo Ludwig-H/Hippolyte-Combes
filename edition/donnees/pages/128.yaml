@@ -1,0 +1,152 @@
+cliche: 128
+fichier: 20251126_110048.jpg
+date: Vendredi 26 janvier 1917
+mois: Janvier 1917
+lieux: Acheux-en-Amiénois, Varennes et Gézaincourt (Somme)
+titre: Départ en permission par la gare d'Acheux-Varennes ; six heures d'attente à Gézaincourt
+transcription: |
+  \sl{26 Vendredi} – \hfill \sl{Janvier /17}
+  \ind Levé 8^{H}30 m
+  nuit extt froide, gelé très fort. \fr{1}{2} jour, soleil
+  brillé et très vif eclat
+  Matinée, achevé ranger mes affaires.
+  A midi, fait prendre à gare 2 sacs par voiture
+  qui \inc{fait} service poste \trait
+  \ind après déjeun, venu à pied station, vers 2^{H}
+  Attendu patiemment départ train – installé 2 cl. \add{\inc{en} compartiment}
+  Soleil brûlant s/ les vitres, du côté de Varennes
+  \ind Champs tt couverts couche neige durcie
+  dont les particules, cme des grains de diam
+  etincellent sous les rayons solaires
+  \ind A la ligne de l'horizon, légère buée
+  blanchâtre, confondant terre & ciel.
+  \ind 1 interp^{te}, monté compart^{t}. Entré en
+  Conver^{\inc{it}}. echangé nos impressions & jugements
+  \ind sur les English.
+  \ind Enfin, train démarré après 3^{H} s. –
+  A Gezaincourt, a 4^{H}30
+  Là, dû attendre correspce, ds salle surchauff
+  au \fr{1}{2} de voy^{rs}, soldats permiss^{re} ou paysans, \inc{foule}
+  très bruyante. Train de Doullens, 3^{H} de
+  retard. Quitté Gezaincourt, à 10^{H}30. s.
+apparat:
+- ligne: 1
+  lemme: /17
+  type: abreviation
+  note: '1917'
+- ligne: 2
+  lemme: 8^{H}30 m
+  type: abreviation
+  note: huit heures trente du matin
+- ligne: 3
+  lemme: extt
+  type: abreviation
+  note: extrêmement
+- ligne: 3
+  lemme: \fr{1}{2} jour
+  type: abreviation
+  note: midi, le milieu du jour
+- ligne: 7
+  lemme: \inc{fait}
+  type: lecture
+  note: 'f empâté suivi de minimes et d''une haste ; autres lectures : faisait, fait le'
+- ligne: 8
+  lemme: déjeun
+  type: abreviation
+  note: déjeuner
+- ligne: 8
+  lemme: 2^{H}
+  type: abreviation
+  note: deux heures
+- ligne: 9
+  lemme: cl.
+  type: abreviation
+  note: classe
+- ligne: 9
+  lemme: \add{\inc{en} compartiment}
+  type: ajout
+  note: 'écrit petit dans l''interligne inférieur, au bout de la ligne ; premier mot : en ou un'
+- ligne: 10
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 11
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 12
+  lemme: cme
+  type: abreviation
+  note: comme
+- ligne: 12
+  lemme: diam
+  type: abreviation
+  note: diamant
+- ligne: 16
+  lemme: 1 interp^{te}
+  type: abreviation
+  note: un interprète
+- ligne: 16
+  lemme: compart^{t}
+  type: abreviation
+  note: compartiment
+- ligne: 17
+  lemme: Conver^{\inc{it}}.
+  type: abreviation
+  note: 'conversation ; finale suscrite : i pointé, puis une lettre masquée (t ?) ; on lisait « conversn & »'
+- ligne: 18
+  lemme: English
+  type: emprunt
+  note: les Anglais
+- ligne: 19
+  lemme: 3^{H} s.
+  type: abreviation
+  note: trois heures du soir
+- ligne: 20
+  lemme: a 4^{H}30
+  type: ajout
+  note: à quatre heures trente ; heure ajoutée après coup, d'une encre plus claire
+- ligne: 21
+  lemme: correspce
+  type: abreviation
+  note: correspondance
+- ligne: 21
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 21
+  lemme: surchauff
+  type: abreviation
+  note: surchauffée (mot coupé au bord de la page)
+- ligne: 22
+  lemme: au \fr{1}{2} de
+  type: abreviation
+  note: au milieu de
+- ligne: 22
+  lemme: voy^{rs}
+  type: abreviation
+  note: voyageurs
+- ligne: 22
+  lemme: permiss^{re}
+  type: abreviation
+  note: permissionnaires
+- ligne: 22
+  lemme: \inc{foule}
+  type: lecture
+  note: mot serré contre le bord droit, lettres confondues ; lecture retenue d'après le sens
+- ligne: 23
+  lemme: 3^{H} de
+  type: abreviation
+  note: trois heures de (retard)
+- ligne: 24
+  lemme: 10^{H}30. s.
+  type: abreviation
+  note: dix heures trente du soir
+critique: Page d'une seule venue à l'encre violette. Le récit du voyage se poursuit sans interruption au verso, sous la mention « 26 (suite) ».
+historique: |
+  Le départ, fixé « definit au 26 » au bureau de la Mission du V Corps à Acheux (f.~61~v\textsuperscript{o}), suit l'itinéraire de la permission de septembre (voir f.~25~v\textsuperscript{o}). La gare d'Acheux-Varennes, entre les deux villages, appartient à la ligne à voie métrique d'Albert à Doullens des chemins de fer départementaux de la Somme, qui rejoint à Gézaincourt la ligne du Nord d'Amiens à Frévent (Wikipédia, « Chemins de fer départementaux de la Somme » ; OH 1916-I, p.~273). Varennes et Gézaincourt abritent alors des hôpitaux d'évacuation de la Fifth Army, trois et deux en novembre 1916 (OH 1916-II, p.~541). Le « train de Doullens » est celui de la ligne du Nord vers Amiens, où Combes n'arrive que vers 2~h du matin (f.~64~v\textsuperscript{o}). La forte gelée et la neige durcie sont celles de la vague de froid qui, commencée vers le 16 janvier 1917, dure jusqu'à la mi-février (Barbé 1917, p.~181-182). L'interprète rencontré dans le compartiment n'est pas nommé ; c'est peut-être l'un des deux qui accompagnent Combes à Amiens (f.~65~r\textsuperscript{o}).
+sources:
+- Wikipédia, « Chemins de fer départementaux de la Somme », § « Ligne d'Albert à Doullens », consulté le 17 oct. 2026.
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 541.
+- Barbé, G., « L'hiver 1916-1917 », Journal d'agriculture pratique, n. s., t. 30, 1917, p. 181-182.

@@ -1,0 +1,164 @@
+cliche: 110
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 12 Mardi \hfill Décbre 1916
+  apres: \sl{12 Mardi} \hfill Dec^{b} \sl{1916}
+  justification: deux soulignements nets (date à gauche, millésime seul à droite ; la boucle basse du D de Dec n'en est pas un) ; Dec sans accent, suivi d'un b surélevé sans -re distinct
+  confiance: haute
+- ligne: 3
+  avant: constipation, durant journée.
+  apres: constipation durant journée. .
+  justification: la descente après constipation est le n final plongeant, lié au mot ; après journée, deux points espacés à mi-hauteur (petit trait oblique puis point rond)
+  confiance: moyenne
+- ligne: 4
+  avant: Au réveil
+  apres: Au reveil
+  justification: aucun accent sur le premier e ; le tiret à droite de l'i est son point
+  confiance: moyenne
+- ligne: 5
+  avant: lgts
+  apres: lgs
+  justification: l + g + s montant, sans barre de t
+  confiance: haute
+- ligne: 6
+  avant: paysage — —
+  apres: paysage . — .
+  justification: 'trois signes à mi-hauteur : point allongé, tiret long, point rond'
+  confiance: moyenne
+- ligne: 8
+  avant: tt à fait
+  apres: tt a fait
+  justification: aucun accent sur l'a ; le trait à crochet qui le suit est l'attaque du f (voir difficultes)
+  confiance: moyenne
+- ligne: 9
+  avant: 13 Me. Brouillard & pluie. Routes, lamentables.
+  apres: \sl{13 Me –} Brouillard & pluie. Routes, lamentables
+  justification: après Me, court trait bas et non point ; date soulignée ; aucun point après lamentables, dont la finale atteint le bord
+  confiance: moyenne
+- ligne: 10
+  avant: mairie, meeting
+  apres: mairie meeting
+  justification: le trait oblique entre les deux mots est capillaire et brun clair (fibre du papier), sans rapport avec les virgules appuyées de la page
+  confiance: moyenne
+- ligne: 11
+  avant: réfugiés d'Englebelmer, Major Levy...
+  apres: refugiés d'Englebelmer, major Levy . . . .
+  justification: aucun accent sur le premier e ; m de major au module d'une minuscule, sans délié d'attaque ; quatre points espacés deux à deux
+  confiance: moyenne
+- ligne: 12
+  avant: Belle-Église
+  apres: Belle-Eglise
+  justification: aucun accent sur l'E ; le tiret au-dessus de is est le point de l'i
+  confiance: haute
+- ligne: 13
+  avant: Routes, très mauvaises.
+  apres: Routes, très mauvaises
+  justification: aucun point après mauvaises, dont le s final plonge au bord du cliché
+  confiance: moyenne
+- ligne: 14
+  avant: 14 J. Journée entière de liberté. Resté
+  apres: \sl{14 J.} Journée entière de liberte. Rest^{e}
+  justification: date soulignée ; liberte sans barre de t ni accent ; e final de Resté nettement surélevé, sans accent
+  confiance: moyenne
+- ligne: 15
+  avant: 'lgts ds ma chambre : écrit, lu, ou rangé mes'
+  apres: lgs ds ma chambre ecrit, lu, ou rangé mes
+  justification: lgs sans barre ; aucun deux-points après chambre ; ecrit sans accent
+  confiance: haute
+- ligne: 18
+  avant: Température, pas froide. Pu écrire ds ma
+  apres: Temperature, pas froide. Pu ecrire ds ma
+  justification: aucun accent sur Temperature ni sur ecrire (le trait oblique qui traverse ecrire est le jambage du p de pluie, l. 17)
+  confiance: moyenne
+- ligne: 21
+  avant: '[ — Essuie-mains : 90 c — ]'
+  apres: '\equerre{1}– Essui\inc{e-mains} : 90c —'
+  justification: signe d'ouverture en équerre (trait de tête + haste), non crochet ; aucun crochet fermant ; la fin du mot, sous Nuit, est coupée par le bord du cliché
+  confiance: moyenne
+difficultes:
+- ligne: 21
+  lemme: Essui\inc{e-mains}
+  analyse: 'À gauche de Nuit : trait de tête et haste (équerre), petit trait médian attaché à la haste (tiret), puis un tracé en croix très appuyé (E et ss écrasés), u, i pointé, délié montant (e) ; sous Nuit, trois ou quatre lettres coupées à mi-hauteur par le bord du cliché, puis deux-points, 90, c, tiret. Trait de tête + haste + trait médian pourraient former un E anguleux (aspect F), mais les E de la page (Englebelmer, Eglise) sont bouclés ; l''état antérieur lisait aussi un crochet et un tiret.'
+  alternatives:
+  - Essuie-mains
+  - Essuie-main
+- ligne: 14
+  lemme: Rest^{e}
+  analyse: 'R, e, s montant, t ; la boucle de l''e est portée à hauteur de la tête des minuscules, nettement au-dessus de la ligne de base, et se prolonge en un trait horizontal à sa base (délié final) ; rien au-dessus de la boucle : pas d''accent, à la différence de Resté (l. 5), où un trait surmonte té'
+  alternatives:
+  - Rest^{e}
+  - Rest^{é}
+  - Resté
+- ligne: 8
+  lemme: tt a fait
+  analyse: 'zoom x4 : a noir et appuyé, sans rien au-dessus ; à sa droite, un trait fin à crochet initial, à hauteur de la tête des minuscules, rejoint la haste du f et se prolonge au-delà en délié montant vers la boucle de tête : attaque du f, non accent (les accents de à, l. 5, 6, 7, 10, 12, sont posés au-dessus de l''a)'
+  alternatives:
+  - tt a fait
+  - tt à fait
+- ligne: 9
+  lemme: lamentables
+  analyse: 'après b : l haut, e en petite boucle, puis long délié terminé en crochet (s) ; la longue barre en tête est celle du t, reportée ; la hampe oblique qui coupe la finale vient du d de de (l. 10) ; l''adjectif s''accorde avec Routes ; à la l. 20, lamentablt n''a ni e ni délié après le t final'
+  alternatives:
+  - lamentables
+  - lamentabl^{t}
+- ligne: 3
+  lemme: journée. .
+  analyse: 'deux signes isolés à mi-hauteur après le délié : un court trait oblique puis un point rond, distants d''environ deux lettres ; aucun n''appartient aux lignes voisines (le point de l''i de Nuit, l. 2, est plus haut)'
+  alternatives:
+  - journée. .
+  - journée.
+- ligne: 11
+  lemme: refugiés
+  analyse: r d'attaque, e sans accent visible (la tête bouclée du f occupe l'interligne), f, u, g, i, é ; le trait d'accent final se prolonge et redescend en crochet, interprété comme s final réduit
+  alternatives:
+  - refugiés
+  - refugié
+controle:
+- ligne: 14
+  avant: Rest^{é}
+  apres: Rest^{e}
+  justification: 'zoom x4 : e final suscrit sans aucun accent au-dessus ; le trait horizontal qui le suit, au niveau de sa base, est son délié final et ne peut tenir lieu d''accent ; apparat : note graphie courte au lieu de la note de lecture'
+- ligne: 9
+  avant: 'apparat : Me (abreviation) ; 13 Me – (disposition, soulignement) ; lamentables (lecture et disposition)'
+  apres: 'apparat : Me – (abreviation : mercredi, point abréviatif réduit à un trait bas)'
+  justification: soulignement rendu par le balisage et décrit dans critique ; lamentables, conforme à l'état antérieur, n'appelle pas de note imprimée (analyse dans difficultes)
+- ligne: 1
+  avant: 'apparat : soulignement de 12 Mardi, Dec^{b} avec analyse du b, soulignement de 1916'
+  apres: 'apparat : Dec^{b} = décembre'
+  justification: les soulignements sont balisés et décrits dans critique ; analyse paléographique non imprimée
+- ligne: 2
+  avant: 'apparat : notes de lecture, graphie et signe sur très, constipation durant, journée. ., reveil, neige., ma, paysage . — ., liberté., tt a fait, mairie meeting, refugiés, d''Englebelmer, major, . . . ., Belle-Eglise, très mauvaises, liberte., chambre ecrit, ecrit, fine., Temperature, ecrire'
+  apres: notes supprimées
+  justification: accents absents, ponctuation, majuscules et justifications paléographiques ne s'impriment pas (règle de l'apparat) ; les justifications restent dans changements et difficultes
+- ligne: 21
+  avant: 'apparat : – Essui (disposition), Essuie-mains (lecture), 90c (compte)'
+  apres: 'apparat : Essui\inc{e-mains} (lecture, avec l''autre leçon possible)'
+  justification: l'équerre est rendue par le balisage ; 90c ne présente aucune difficulté de compte ; critique ramenée à trois phrases
+remarques: 'Ponctuation relue signe par signe ; plusieurs points de l''état antérieur ne sont pas sur l''image (après mauvaises, lamentables), d''autres sont fondus au bout du délié final (neige, liberte, fine). Accents absents : reveil, refugiés, Belle-Eglise, liberte (l. 14), Rest^{e}, ecrit, Temperature, ecrire, a de tt a fait. Le bas du compte (l. 21) est coupé par le bord du cliché : à contrôler sur l''original.'
+resume: 'Le mardi 12 décembre 1916, Combes, nettement mieux (levé deux fois dans la nuit, constipé dans la journée), trouve au réveil rues, toits et arbres couverts de neige et reste longtemps à sa fenêtre, côté devant puis côté derrière, à admirer le paysage ; course à Senlis le matin, liberté l''après-midi ; il se sent presque guéri. Le mercredi 13, par brouillard et pluie, il assiste le matin, à la mairie de Toutencourt, à une réunion de réfugiés d''Englebelmer avec le major Levy, puis va l''après-midi en auto, très secoué, à Belle-Église, Puchevillers et Harponville, par des routes très mauvaises. Le jeudi 14, journée entière de liberté : il reste longtemps dans sa chambre à écrire, lire ou ranger ses affaires ; ciel brumeux et pluie fine tout le jour, température assez douce pour écrire sans feu ; la nuit est extrêmement noire et les routes lamentablement sales. Dépense : un essuie-mains (lecture incertaine), 90 c.'
+noms:
+  personnes:
+  - forme: major Levy
+    ligne: 11
+    identite: Major Levy, officier britannique « of the D.O.S.T. » (cf. 091–166)
+  lieux:
+  - forme: Senlis
+    ligne: 7
+    identite: Senlis-le-Sec (Somme), au sud-est d'Acheux
+  - forme: Toutencourt
+    ligne: 10
+    identite: Toutencourt (Somme)
+  - forme: Englebelmer
+    ligne: 11
+    identite: Englebelmer (Somme), village de l'Ancre proche du front
+  - forme: Belle-Eglise
+    ligne: 12
+    identite: Belle-Église Farm (Somme ; cf. 108, 171)
+  - forme: Puchevillers
+    ligne: 12
+    identite: Puchevillers (Somme)
+  - forme: Harponville
+    ligne: 13
+    identite: Harponville (Somme)
+source: contrôle

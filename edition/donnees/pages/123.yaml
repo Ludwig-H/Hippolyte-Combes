@@ -1,0 +1,123 @@
+cliche: 123
+fichier: 20251126_105931.jpg
+date: Samedi 13 – lundi 15 janvier 1917
+mois: Janvier 1917
+lieux: Acheux-en-Amiénois, Beaucourt-sur-l'Hallue, Montigny-sur-l'Hallue et Doullens (Somme)
+titre: Départ en permission fixé au 26 ; neige sur les arbres ; course à Doullens
+transcription: |
+  \sl{13 Sam.} \hfill \sl{Janv. 17}
+  \ind Tout le jour, pluie fine et \add{(neige fondue)}
+  brouillard froid —
+  \ind Après-midi, course en auto à Beaucourt &
+  Montigny.
+  \ind Matin, au bureau mission V^{e} corps : Vu
+  cap. Huguet : mon départ fixé definit au 26 ct —
+  \blanc{1}
+  14 D. – Neige tombé à gros flocons durant
+  matinée entière. Toits & arbres recouverts couche
+  blanche. Branches ext^{t} jolies avec \inc{ce} leger
+  duvet – ainsi ouatées
+  \ind[2] Après-midi, course à Louvencourt et
+  à St-Léger –
+  \blanc{1}
+  \sl{15 L} Pluie fine, par intermittence
+  Course à Doullens. Paysages, asz pittoresq
+  au delà de Beauquesne – Champs couverts de
+  neige – Masses sombres des arbres. Arbres &
+  maisons de village se détachent davantage
+  au \fr{1}{2} du blanc (Raincheval). Brume monte
+  \ind 3 h. de liberté à Doullens visité ville.
+  arret église etc.
+  \equerre{2}— 2 douz. c^{tes} p^{les} : \inc{1^{f}} — \hfill — Lunch 1^{f}90
+  — 1 plaque chocolat : \inc{65} c
+apparat:
+- ligne: 1
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 1
+  lemme: Janv. 17
+  type: abreviation
+  note: janvier 1917
+- ligne: 2
+  lemme: (neige fondue)
+  type: ajout
+  note: ajout interlinéaire, sous « fine et »
+- ligne: 6
+  lemme: V^{e} corps
+  type: abreviation
+  note: cinquième corps (britannique)
+- ligne: 7
+  lemme: cap.
+  type: abreviation
+  note: capitaine
+- ligne: 7
+  lemme: definit
+  type: abreviation
+  note: définitivement
+- ligne: 7
+  lemme: ct
+  type: abreviation
+  note: courant (du mois)
+- ligne: 8
+  lemme: D.
+  type: abreviation
+  note: dimanche
+- ligne: 10
+  lemme: ext^{t}
+  type: abreviation
+  note: extrêmement
+- ligne: 10
+  lemme: \inc{ce}
+  type: lecture
+  note: mot bref en forme de a ; « ce » demandé par le sens
+- ligne: 13
+  lemme: St-Léger
+  type: abreviation
+  note: Saint-Léger(-lès-Authie)
+- ligne: 14
+  lemme: L
+  type: abreviation
+  note: lundi
+- ligne: 15
+  lemme: asz
+  type: abreviation
+  note: assez
+- ligne: 15
+  lemme: pittoresq
+  type: abreviation
+  note: pittoresques (mot suspendu en fin de ligne)
+- ligne: 19
+  lemme: au \fr{1}{2}
+  type: abreviation
+  note: au milieu
+- ligne: 20
+  lemme: 3 h.
+  type: abreviation
+  note: trois heures
+- ligne: 22
+  lemme: douz.
+  type: abreviation
+  note: douzaines
+- ligne: 22
+  lemme: c^{tes} p^{les}
+  type: abreviation
+  note: cartes postales
+- ligne: 22
+  lemme: \inc{1^{f}}
+  type: lecture
+  note: 1 f, chiffre suivi d'un crochet surélevé sous une longue barre ; on pourrait lire 1 5
+- ligne: 22
+  lemme: Lunch
+  type: emprunt
+  note: déjeuner
+- ligne: 23
+  lemme: \inc{65} c
+  type: lecture
+  note: '65 c : second chiffre à haute boucle et longue haste descendante (5 en ℓ), non un 0 ; ou 60 c'
+historique: |
+  Le « bureau mission V\textsuperscript{e} corps » est celui de la Mission française auprès du V Corps (lieutenant-général Fanshawe). Son QG est revenu de Doullens à Acheux la veille (LLT) : après l'opération du 11, le V Corps reprend au nord de l'Ancre le secteur du XIII Corps (OH 1917-I, p. 69), dont le bureau payait encore Combes le 5 janvier (f. 60 r\textsuperscript{o}). Le capitaine Huguet, qui l'avait convoqué le 5 novembre 1916 (f. 47 r\textsuperscript{o}), n'est pas identifié ; rien ne le rattache au général Victor Huguet, ancien chef de la Mission. Le départ « au 26 ct » est celui de la seconde permission : Combes quittera Acheux le vendredi 26 janvier et ne rentrera que le 7 février. La neige du 14 ouvre le grand gel, daté de ce jour par l'histoire officielle et long d'un mois (OH 1917-I, p. 66). Beaucourt et Montigny sont ceux de l'Hallue (voir f. 59 v\textsuperscript{o}). Les cartes postales reviennent à 4 c pièce, contre 10 c à Albert. Le chocolat ordinaire valait alors 3,23 F le kilo à l'économat d'une compagnie de chemins de fer (March 1925, p. 199–200).
+sources:
+- Baker, C., « The British V Corps in France and Flanders », The Long, Long Trail, https://www.longlongtrail.co.uk (copie Wayback du 5 août 2020).
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 66, 69.
+- March, L., Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 199–200.

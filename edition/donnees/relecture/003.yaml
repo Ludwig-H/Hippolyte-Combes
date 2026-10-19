@@ -1,0 +1,228 @@
+cliche: 3
+confiance: haute
+changements:
+- ligne: 1
+  avant: 26 Mer. \hfill Juillet /16
+  apres: \sl{26 mer} \hfill \sl{Juillet /16}
+  justification: 'deux soulignements appuyés ; m au module des minuscules (le M de Michel, l. 3, a une haste deux fois plus haute) ; aucun point après mer : la masse d''encre est la crosse du trait'
+  confiance: haute
+- ligne: 2
+  avant: De 9 H m. j'à 2 H 1/2 s., occupé
+  apres: \ind De 9^{h} m. jà 2^{h} \fr{1}{2} s, occupé
+  justification: ligne en retrait (x ≈ 0,085 contre 0,03) ; h suscrits ; ni apostrophe ni trait d'union entre j et à ; fraction empilée (1 oblique, barre, 2 bouclé au-dessous) ; s réduit à un 1 suivi d'une seule virgule
+  confiance: moyenne
+- ligne: 4
+  avant: d’ 1 extrémité
+  apres: d'1 extremité
+  justification: aucun accent sur le premier e ; seul le dernier en porte un
+  confiance: haute
+- ligne: 5
+  avant: environs -- pour
+  apres: environs – – pour
+  justification: deux tirets courts distincts
+  confiance: haute
+- ligne: 6
+  avant: d’off ⟦[illis.]⟧ – Libre enfin vers 2H, mais harassé
+  apres: d'off \del{\ill} – Libre enfin vers 2^{h}, mais harasse
+  justification: h suscrit ; aucun accent sur l'e final de harasse
+  confiance: haute
+- ligne: 8
+  avant: 'Tout l''après-midi : ds ma chambre et'
+  apres: \ind Tout l'après-midi, ds ma chambre et
+  justification: ligne en retrait ; un seul petit trait sur la ligne après midi ; le point plus haut, à gauche, est celui de l'i
+  confiance: haute
+- ligne: 10
+  avant: Diner pris, vers 9 H, resté lgt devant porte
+  apres: \ind Diner pris, vers 9^{h} resté lgs devant porte
+  justification: ligne en retrait ; h suscrit ; la petite trace entre h et resté est grise, en bordure d'une rousseur, non à l'encre ; l + g + s, sans barre de t
+  confiance: moyenne
+- ligne: 11
+  avant: église
+  apres: eglise
+  justification: aucun accent sur l'e initial
+  confiance: haute
+- ligne: 13
+  avant: — chateau de la brasserie — Ciel
+  apres: – château de la brasserie – Ciel
+  justification: 'tirets courts ; courte barre au-dessus de l''a, distincte de la longue barre du t posée sur eau : accent circonflexe'
+  confiance: moyenne
+- ligne: 14
+  avant: funèbre –
+  apres: funebre \trait
+  justification: aucun accent visible sur l'e (le jambage du g de la l. 12 passe au-dessus de b-r) ; l'e final se prolonge sans levée de plume en long trait jusqu'à x ≈ 0,86
+  confiance: moyenne
+- ligne: 15
+  avant: — appris avec regret que de nouveau changemt
+  apres: \ind – appris avec regret que de nouveau changem
+  justification: blanc d'une ligne au-dessus ; tiret court en retrait ; le mot finit par un m dont le dernier jambage plonge, sans t
+  confiance: moyenne
+- ligne: 17
+  avant: 'Food : 60 c. – – Washing : 1 f. –'
+  apres: '\ind[2] Food : 60c \hfill . — Washing : 1^{f} . –'
+  justification: ligne sous un filet, en retrait ; montants au crayon (60c sans espace ; 1 et f suscrit) ; à l'encre, point puis tiret long détachés de 60c par un blanc et collés à Washing, puis point et tiret court final
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: mer
+  analyse: m à trait d'attaque montant, jambages de la hauteur de l'e et de l'r ; aucun point, la masse d'encre à droite étant la crosse du soulignement
+  alternatives:
+  - mer
+  - Mer
+- ligne: 2
+  lemme: jà
+  analyse: 'j bouclé, a ouvert en u ; deux traits hauts : le premier au-dessus du début de l''a (point du j ou apostrophe), le second décalé à droite (accent) ; aucun trait d''union'
+  alternatives:
+  - jà
+  - j'à
+  - j-à
+- ligne: 2
+  lemme: 2^{h}
+  analyse: 'chiffre à tête ronde, descente incurvée et boucle fermée à la base : 2 bouclé (cf. 2^{h}, l. 6) ; une seule panse, ce qui écarte 3'
+  alternatives:
+  - 2^{h}
+  - 3^{h}
+- ligne: 2
+  lemme: \fr{1}{2} s,
+  analyse: 1 en long trait oblique recoupant une barre montante, 2 bouclé au-dessous (fraction empilée) ; puis trait court à crochet d'attaque (s du soir réduit, aspect 1) et virgule descendant sous la ligne
+  alternatives:
+  - \fr{1}{2} s,
+  - 1/2 s,
+- ligne: 5
+  lemme: chambres
+  analyse: c-h-a-m-b-r puis long délié horizontal recoupé d'un trait oblique montant ; aucune boucle d'e distincte ; le sens appelle chambres (36 officiers des Royal Fusiliers annoncés la veille, cliché 002)
+  alternatives:
+  - chambres
+  - chambrex
+- ligne: 6
+  lemme: d'off
+  analyse: d bouclé, haste mince bouclée montant au-dessus de l'œil, puis haste très appuyée descendant sous la ligne au contact de la rature ; o et apostrophe non distincts
+  alternatives:
+  - d'off
+  - d'of
+  - dff
+- ligne: 6
+  lemme: 2^{h},
+  analyse: la virgule, mince, prolonge vers le haut le jambage appuyé du f de faim (l. 7) ; elle pourrait être le haut de la boucle de ce f
+  alternatives:
+  - 2^{h},
+  - 2^{h}
+- ligne: 10
+  lemme: 9^{h} resté
+  analyse: 'petite trace en crochet entre h et resté, grise et pâle, en bordure d''une rousseur : non à l''encre'
+  alternatives:
+  - 9^{h} resté
+  - 9^{h}, resté
+- ligne: 12
+  lemme: grands
+  analyse: d bouclé suivi d'un court crochet final (s réduit) ; potagers au pluriel confirme
+  alternatives:
+  - grands
+  - grande
+- ligne: 13
+  lemme: la
+  analyse: l bouclé puis a ouvert en u, sans la boucle de l'e de de
+  alternatives:
+  - la
+  - le
+- ligne: 14
+  lemme: funebre
+  analyse: f-u-n-e-b-r-e sans accent visible ; le jambage du g de à g. (l. 12) traverse la ligne au-dessus de b-r
+  alternatives:
+  - funebre
+  - funèbre
+- ligne: 15
+  lemme: changem
+  analyse: c-h-a-n-g-e-m, trois jambages dont le dernier plonge loin sous la ligne près du bord ; aucune haste ni barre de t
+  alternatives:
+  - changem
+  - changem^{t}
+- ligne: 16
+  lemme: le 28 ct
+  analyse: 'le grand trait vertical devant le est le jambage du g de regret (l. 15) ; t barré dont le pied est à mi-hauteur de l''œil du c, module non réduit : surélévation non nette'
+  alternatives:
+  - le 28 ct
+  - le 28 c^{t}
+- ligne: 17
+  lemme: 1^{f}
+  analyse: 1 au crayon à trait d'attaque ; f réduit à une petite boucle grise en haut à droite (aspect c) ; le sens (blanchissage) impose le franc
+  alternatives:
+  - 1^{f}
+  - 1^{c}
+controle:
+- ligne: 1
+  avant: 'apparat : notes de disposition sur « 26 mer » et « Juillet /16 » ; descriptions de tracés sous « mer » et « /16 »'
+  apres: '« mer » : mercredi ; « /16 » : 1916'
+  justification: le balisage \sl{} rend les soulignements ; lecture mer (minuscule, sans point) confirmée au zoom ×3 ; justifications reportées dans difficultes
+- ligne: 2
+  avant: notes « jà », « \fr{1}{2} », « s, » chargées de descriptions de tracés
+  apres: 'développements seuls : jusqu''à ; et demie ; soir'
+  justification: lectures confirmées au zoom ×4 (2 bouclé, h suscrit, ½ empilé, s réduit en 1 puis virgule) ; analyses reportées dans difficultes
+- ligne: 3
+  avant: lemme « Royal Fusiliers. » ; note de Lt décrivant la barre du t
+  apres: 'lemme « Royal Fusiliers » avec traduction ; Lt : lieutenant ; billeting : billeting officer (l. 3–4)'
+  justification: lemme sans ponctuation ; la barre de t prolongée jusqu'au M de Michel (non une rature) est vérifiée et n'appelle pas de note imprimée
+- ligne: 4
+  avant: notes « officer. » (emprunt) et « extremité » (graphie) ; note de d'1 décrivant les tracés
+  apres: 'deux notes supprimées ; d''1 : d''une'
+  justification: officer est traduit avec billeting (l. 3) ; un accent absent ne s'annote pas
+- ligne: 5
+  avant: notes « – – » (signe) et « chambres » (lecture)
+  apres: supprimées
+  justification: le balisage suffit ; chambres, identique à l'état antérieur et sûr par le sens, n'est ni difficile ni nouveau (analyse gardée dans difficultes)
+- ligne: 6
+  avant: notes « – Libre » (signe) et « harasse » (graphie) ; d'off chargé d'une analyse ; aucune note pour 2^{h}
+  apres: 'd''off : d''officiers ; 2^{h} : heures (ajouté) ; les deux autres notes supprimées'
+  justification: chaque abréviation reçoit son développement ; tiret et accent absent n'appellent pas de note ; doute sur la virgule après 2^{h} consigné dans difficultes
+- ligne: 8
+  avant: note « l'après-midi, » (signe)
+  apres: supprimée
+  justification: virgule vérifiée au zoom (un seul petit trait sur la ligne) ; justification déjà dans changements
+- ligne: 10
+  avant: notes « Diner » (graphie) et « 9^{h} resté » (signe) ; aucune note pour 9^{h} ; lgs chargé d'une description
+  apres: '9^{h} : heures (ajouté) ; lgs : longtemps ; les deux autres notes supprimées'
+  justification: trace entre h et resté confirmée grise, hors encre ; accent absent non annoté
+- ligne: 11
+  avant: notes « eglise » (graphie) et « aux » (lecture) ; lemme « cottage, »
+  apres: 'deux notes supprimées ; lemme « cottage » : maisonnette'
+  justification: accent absent ; aux sûr ; deux-points après alentours confirmé au zoom ×4 (deux points obliques)
+- ligne: 12
+  avant: note de « à g. » décrivant le jambage du g
+  apres: '« à g. » : à gauche'
+  justification: le trajet du jambage est une observation paléographique, non imprimée
+- ligne: 13
+  avant: notes « – château » et « très » (lecture)
+  apres: supprimées
+  justification: lectures sûres ; la vérifié au zoom ×4 (a ouvert, sans boucle d'e)
+- ligne: 14
+  avant: notes « funebre » (graphie) et « funebre \trait » (disposition)
+  apres: supprimées
+  justification: accent absent ; la balise \trait suffit
+- ligne: 15
+  avant: notes « – appris » (disposition) et « avec » (lecture) ; changem chargé d'une description
+  apres: 'deux notes supprimées ; changem : changement'
+  justification: avec vérifié au zoom ×4 (a, v, e réduit et délié) ; le balisage rend le retrait et le blanc
+- ligne: 16
+  avant: notes « cantonnement, » (signe) et « 28 » (lecture) ; ct chargé d'une description
+  apres: 'deux notes supprimées ; ct : courant'
+  justification: lectures sûres ; le trait vertical devant le est le jambage du g de regret (l. 15), non une lettre ; t de ct non nettement suscrit
+- ligne: 17
+  avant: '\ind[2] Food : 60c . — \hfill Washing : 1^{f} . –'
+  apres: '\ind[2] Food : 60c \hfill . — Washing : 1^{f} . –'
+  justification: le blanc est entre 60c (fin x ≈ 0,39) et le point (x ≈ 0,49) ; le tiret long (x ≈ 0,51–0,56) touche presque Washing (x ≈ 0,58)
+- ligne: 17
+  avant: « 60c » et « 1^{f} » en type compte, avec mention du crayon ; note « 60c . — » (signe)
+  apres: '« 60c » : 60 centimes et « 1^{f} » : 1 franc (abreviation) ; crayon décrit dans critique ; note de signe supprimée'
+  justification: le type compte est réservé aux totaux faux et aux opérations implicites ; l'instrument relève du registre critique
+- ligne: 17
+  avant: critique de sept phrases (soulignements, blancs, rature, jambage du g, rousseurs)
+  apres: 'critique de deux phrases : encre, montants et trait au crayon'
+  justification: soulignements, blancs et rature sont rendus par le balisage et l'apparat ; le reste est d'ordre paléographique
+remarques: 'Transcription de la première lecture confirmée mot à mot ; seule la place du \hfill de la l. 17 change. Les 36 chambres répondent aux 36 officiers des Royal Fusiliers arrivés la veille (cliché 002). L''heure de fin varie dans la page : 2 h ½ (l. 2), puis « vers 2^{h} » (l. 6). La virgule après 2^{h} (l. 6) se confond peut-être avec le haut du f de faim (l. 7).'
+resume: 'Le mercredi 26 juillet 1916, de 9 h du matin à 2 h ½ de l''après-midi, Hippolyte Combes s''occupe du cantonnement des Royal Fusiliers : avec le lieutenant Michel, billeting officer, il parcourt le village d''un bout à l''autre et jusque dans les environs pour trouver 36 chambres d''officiers. Libre vers 2 h, harassé de fatigue et mourant de faim, il se repose tout l''après-midi dans sa chambre. Après le dîner, vers 9 h, il reste longtemps devant la porte de son cottage à regarder l''église de briques rouges, les grands potagers, les moutons et le château de la brasserie, sous un ciel très bas et gris, dans un silence et une solitude funèbres. Il apprend avec regret un nouveau changement de cantonnement, fixé au 28. Comptes : nourriture 60 c, blanchissage 1 f, montants portés au crayon.'
+noms:
+  personnes:
+  - forme: Michel
+    ligne: 3
+    identite: lieutenant britannique, billeting officer (officier de cantonnement) des Royal Fusiliers
+  lieux: []
+source: contrôle

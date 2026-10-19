@@ -1,0 +1,142 @@
+cliche: 90
+fichier: 20251126_104601.jpg
+date: Jeudi 2 novembre 1916
+mois: Novembre 1916
+lieux: Albert et Acheux-en-Amiénois (Somme)
+titre: Ordre écrit du colonel Grose ; départ d'Albert en auto sous la pluie ; installation à Acheux
+transcription: |
+  \sl{2 J.} — Levé 6^{h} m. En 1 h., \hfill \sl{Nov^{bre} /16}
+  ts paquets termines.
+  Monté au mess-hut. Là, au breakfast, a
+  l'idée de passer bureau mission avant partir.
+  Cap. Pant, approuvé.
+  au bureau, \inc{Lépin} et surtout Serpin, m'ont
+  conseillé demander ordre écrit, après \inc{avoir} vu Lt Pizzi
+  \ind allé trouver ds sa chambre Lt \inc{Pizzi}. —
+  me suis rendu au Train Office. Major Hughes
+  tempêté. \inc{Col.} Grose, signé ordre daccompagner
+  Lt Curtis. à Acheux \trait
+  \ind a 9^{h} \fr{1}{2} enfin auto venue me prendre
+  à mon billet 5 & ts mes bagages. Les
+  juché au kit de Lt. Curtis
+  \ind Pluie battante. Routes affreuse \trait
+  \ind Vers 11^{H}. – , arrivés à Acheux \trait
+  Vu Town-Major. Recherché billets & messroom
+  Installations provisoires.
+  Rues ville etat lamentable. ornières.
+  Tout l'apres-midi, perdu temps —
+apparat:
+- ligne: 1
+  lemme: J.
+  type: abreviation
+  note: jeudi
+- ligne: 1
+  lemme: 6^{h} m.
+  type: abreviation
+  note: six heures du matin
+- ligne: 1
+  lemme: 1 h.
+  type: abreviation
+  note: une heure
+- ligne: 1
+  lemme: Nov^{bre} /16
+  type: abreviation
+  note: novembre 1916
+- ligne: 2
+  lemme: ts
+  type: abreviation
+  note: tous (de même l. 13)
+- ligne: 3
+  lemme: mess-hut
+  type: emprunt
+  note: baraque du mess des officiers
+- ligne: 3
+  lemme: breakfast
+  type: emprunt
+  note: petit déjeuner
+- ligne: 3
+  lemme: a
+  type: lecture
+  note: « a » net sur l'image ; on attend « eu » (l'état antérieur lisait eu)
+- ligne: 5
+  lemme: Cap. Pant
+  type: abreviation
+  note: capitaine Panton
+- ligne: 6
+  lemme: \inc{Lépin}
+  type: lecture
+  note: 'L bouclé, lettre à haste descendante, minimes ; autres lectures : Lupin (cf. 023), Ligné'
+- ligne: 7
+  lemme: \inc{avoir}
+  type: lecture
+  note: mot bref terminé par un s plongeant (aspect « vus ») ; « avoir » abrégé non assuré
+- ligne: 7
+  lemme: Lt
+  type: abreviation
+  note: lieutenant (de même l. 8, 11 et 14)
+- ligne: 8
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 8
+  lemme: \inc{Pizzi}
+  type: lecture
+  note: Pizzi, comme l. 7 ; la boucle fermée après le P permet aussi Pozzi
+- ligne: 9
+  lemme: Train Office
+  type: emprunt
+  note: bureau du train (services de transport)
+- ligne: 10
+  lemme: \inc{Col.}
+  type: abreviation
+  note: colonel ; l'o n'est pas distinct
+- ligne: 12
+  lemme: 9^{h} \fr{1}{2}
+  type: abreviation
+  note: neuf heures et demie
+- ligne: 13
+  lemme: billet
+  type: emprunt
+  note: (angl. billet) logement chez l'habitant, cantonnement
+- ligne: 13
+  lemme: '5'
+  type: lecture
+  note: chiffre omis par l'état antérieur (numéro du billet ?)
+- ligne: 13
+  lemme: '&'
+  type: abreviation
+  note: et (de même l. 17)
+- ligne: 14
+  lemme: juché
+  type: lecture
+  note: lecture nouvelle ; l'état antérieur laissait le verbe illisible
+- ligne: 14
+  lemme: kit
+  type: emprunt
+  note: paquetage
+- ligne: 16
+  lemme: 11^{H}
+  type: abreviation
+  note: onze heures
+- ligne: 17
+  lemme: Town-Major
+  type: emprunt
+  note: major de la place (officier chargé des cantonnements)
+- ligne: 17
+  lemme: billets
+  type: emprunt
+  note: logements, cantonnements
+- ligne: 17
+  lemme: messroom
+  type: emprunt
+  note: salle du mess
+critique: Encre violette ; page pleine, sans comptes. Le récit du 2 novembre se poursuit en tête de la page suivante (« après le diner »).
+historique: |
+  Le « Col. Grose » est le lieutenant-colonel Daniel Charles Evans Grose, A.S.C., commandant du train de la 18th Division (Nichols 1922, p.~107), fait D.S.O. en juin 1917 (\textit{London Gazette}, 4 juin 1917, p.~5470). Le « Major Hughes », revu le 8 novembre (voir f.~48~r\textsuperscript{o}), est peut-être Herbert Francis Hughes, major temporaire de l'A.S.C. au 1\textsuperscript{er} mai 1916 (\textit{London Gazette}, suppl. 29585, p.~4941). Le Lt Pizzi est l'officier interprète de la division (lettre de Combes du 25 février 1916) ; l'adjudant « Lépin » (ailleurs « Lupin ») et Serpin, du bureau de la Mission, ne sont pas identifiés, non plus que le « Cap. Pant » de la compagnie. L'ordre est britannique, mais l'interprète doit aussi l'aval de la Mission. Acheux est depuis le 2 octobre le siège du QG du V Corps (Fanshawe), qui y reste jusqu'au 29 novembre (LLT), et une tête de ligne pour les vivres, au terminus de la voie normale venue de Candas (OH 1916-I, p.~273-274). Le \textit{Town Major} y répartit les logements entre les unités de passage (Fernand-Laurent 1917, p.~227).
+sources:
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 107.
+- Supplement to the London Gazette, n° 30111, 4 juin 1917, p. 5470 ; Supplement to the London Gazette, n° 29585, 17 mai 1916, p. 4941.
+- Lettre d'Hippolyte Combes à un capitaine, « Au front, le 25 février 1916 », copie autographe, archives familiales.
+- The Long, Long Trail, « The British V Corps in France and Flanders », https://web.archive.org/web/20200805133825/https://www.longlongtrail.co.uk/army/other-aspects-of-order-of-battle/the-british-corps-headquarters-in-france-and-flanders/the-british-v-corps-in-france-and-flanders/.
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273-274.
+- Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 227.

@@ -1,0 +1,130 @@
+cliche: 127
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 23 Ma. \hfill Janvier /17
+  apres: \sl{23 Ma} \hfill \sl{Janvier 17}
+  justification: 'aucun point après Ma ; pas de barre oblique : le 1 a son trait d''attaque ; date et mois soulignés'
+  confiance: haute
+- ligne: 2
+  avant: Soir, Y.M.C.A. hut,
+  apres: \ind Soir, Y.M.C.A hut,
+  justification: aucun point après le A ; ligne en retrait
+  confiance: moyenne
+- ligne: 3
+  avant: a very interesting lecture on Canada.
+  apres: a very interesting lecture on Canada
+  justification: pas de point final ; le trait vertical au-dessus de « on » est la virgule après « hut » de la l. 2
+  confiance: haute
+- ligne: 4
+  avant: 24 Mer. Nuit extt froide. Gelé très
+  apres: 24 \sl{Mer-} / \ind[2] Nuit ext^{t} froide gelé très
+  justification: la date est écrite sous la bosse du filet, plus haut que « Nuit », qui commence en retrait sur sa propre ligne ; t suscrit en croix ; g minuscule ; aucun point après froide (contrôle p2)
+  confiance: moyenne
+- ligne: 6
+  avant: fort. Vitres couvertes d'1 épaisse couche
+  apres: fort Vitres couvertes d'1 épaisse couche
+  justification: aucun point après fort (barre de t prolongée)
+  confiance: moyenne
+- ligne: 7
+  avant: de glace tte mate.
+  apres: de glace tte mate
+  justification: délié final, pas de point
+  confiance: moyenne
+- ligne: 8
+  avant: Au réveil, eau pot & seau gelée.
+  apres: \ind au réveil, eau pot & seau \inc{gelés}
+  justification: a initial minuscule ; finale plongeante barrée (s final en ʒ) plutôt que e ; pas de point
+  confiance: basse
+- ligne: 9
+  avant: 1/2 jour, soleil ardent.
+  apres: \fr{1}{2} jour soleil ardent
+  justification: fraction empilée ; ni virgule ni point
+  confiance: haute
+- ligne: 10
+  avant: Aujourd'hui encore, liberté complète.
+  apres: \ind aujourdhui encore liberté complète
+  justification: a minuscule, aucune apostrophe (le trait au-dessus est le point du j) ; la prétendue virgule est la hampe du f de « préparatifs » (l. 11)
+  confiance: moyenne
+- ligne: 11
+  avant: Terminé ts préparatifs départ.
+  apres: Terminé ts préparatifs départ
+  justification: barre de t prolongée, pas de point
+  confiance: moyenne
+- ligne: 12
+  avant: '[ — Washing : 70 c ]'
+  apres: \ind [ Washing — 70c
+  justification: crochet ouvrant seul, tiret entre Washing et le montant, aucun deux-points ni crochet fermant
+  confiance: haute
+- ligne: 13
+  avant: 25 Jeudi — Gelé extr. + fort. Vitres
+  apres: 25 \sl{Jeudi} – gelé extr. + fort. Vitres
+  justification: g minuscule, tiret court ; seul « Jeudi » est souligné
+  confiance: haute
+- ligne: 19
+  avant: faits pour partir demain 3h s.
+  apres: faits pour partir demain 3^{H} 1/2
+  justification: après le 3, petit H suscrit, puis 1 à trait d'attaque, barre oblique et 2 bouclé à pied horizontal
+  confiance: haute
+- ligne: 20
+  avant: '[ — Dépenses mess pour janvier = 79 f 10 ]'
+  apres: \ind [ — Dépenses mess pour janvier = 79^{f} 10
+  justification: f surélevé à tête prolongée au-dessus de 10 ; aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 8
+  lemme: \inc{gelés}
+  analyse: 'g bouclé, e, l, e, accent décalé au-dessus, puis haste descendant sous la ligne coupée d''une barre horizontale : s final plongeant plutôt qu''un e ; un second e avant la descente n''est pas exclu (gelées). Zoom ×3 p2 [.70 .31 1.0 .37] : non tranché'
+  alternatives:
+  - gelée
+  - gelées
+- ligne: 13
+  lemme: extr. +
+  analyse: 'e-x-t-r, point abréviatif en court trait bas, puis croix détachée surélevée : « + » (plus) ; confirmé p2 [.30 .57 .70 .63]'
+  alternatives:
+  - ext^{r}. ^{t}
+- ligne: 20
+  lemme: 79^{f} 10
+  analyse: 'petit trait en virgule en haut à droite du 0, détaché de la barre du f : sans doute fin de tracé, non un c suscrit (p2 [.78 .88 1.0 .94] ×3)'
+  alternatives:
+  - 79^{f} 10^{c}
+- ligne: 4
+  lemme: 24 \sl{Mer-}
+  analyse: 'date sous la bosse du filet, ligne de base ≈ 0,205 ; « Nuit » ≈ 0,235 à x 0,23 : traité comme ligne propre'
+  alternatives:
+  - 24 Mer- Nuit … sur une seule ligne
+- ligne: 12
+  lemme: 70c
+  analyse: 'premier chiffre : boucle de tête, trait vers la gauche, barre médiane, longue descente vers la gauche ; même tracé que le 7 de « 79 » (l. 20) : 7 plutôt qu''un 4 ouvert (p2 [.55 .505 .70 .565] ×4)'
+  alternatives:
+  - 40c
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié sur l''image (p2) : « gelés » (l. 8) reste incertain (« gelée », « gelées » possibles) ; 3^{H} 1/2 et 79^{f} 10 confirmés. Une note « critique » brève est désormais rédigée (p2).'
+  alternatives: []
+controle:
+- ligne: 5
+  avant: \ind[2] Nuit ext^{t} froide. gelé très
+  apres: \ind[2] Nuit ext^{t} froide gelé très
+  justification: 'zoom ×2 [.55 .19 .98 .25] : aucun point d''encre après froide (seule une moucheture du papier)'
+- ligne: 1
+  avant: (apparat) aucune note sur « Janvier 17 »
+  apres: 'note : janvier 1917'
+  justification: millésime abrégé, à développer comme toute abréviation
+- ligne: 20
+  avant: 79 francs 10 ; la tête du f se prolonge en barre au-dessus de 10
+  apres: 79 francs 10
+  justification: détail paléographique retiré de l'apparat imprimé (renvoyé aux difficultés)
+- ligne: 0
+  avant: critique vide
+  apres: une phrase de critique
+  justification: note brève utile au lecteur (clôture des comptes de janvier, départ annoncé)
+remarques: Lieu non nommé sur la page ; Acheux d'après le contexte (état antérieur).
+resume: 'Le mardi 23 au soir, Hippolyte Combes assiste au foyer du Y.M.C.A. à une conférence sur le Canada. Le 24, nuit extrêmement froide : vitres couvertes de glace, eau du pot et du seau gelée ; soleil ardent à midi ; journée libre, il termine ses préparatifs de départ (blanchissage 70 c). Le 25, gel encore plus fort, soleil sur la neige durcie, violent bombardement la nuit et le matin ; tout est prêt pour partir le lendemain à 3 h 1/2. Dépenses du mess pour janvier : 79 f 10.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Canada
+    ligne: 3
+    identite: Canada
+source: contrôle

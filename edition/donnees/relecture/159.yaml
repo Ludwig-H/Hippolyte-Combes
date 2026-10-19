@@ -1,0 +1,166 @@
+cliche: 159
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 24 Samedi — \hfill Fév. 1917
+  apres: 24 \sl{Samedi} \hfill \sl{Fév- 1917}
+  justification: aucun tiret après Samedi ; trait bas après Fév ; soulignements sous Samedi et sous Fév- 1917
+  confiance: haute
+- ligne: 5
+  avant: boueuse. Arrivé jusqu'au moulin —
+  apres: boueuse Arrivé jusqu'au moulin –
+  justification: le délié final de boueuse se termine en massue, sans point détaché ; tiret court final
+  confiance: moyenne
+- ligne: 7
+  avant: Matin, course
+  apres: matin course
+  justification: m initial minuscule, aucune virgule
+  confiance: haute
+- ligne: 8
+  avant: funèbres.
+  apres: funebre
+  justification: f-u-n-e-b-r + délié, ni s, ni accent, ni point (contrôlé au zoom ×3)
+  confiance: haute
+- ligne: 9
+  avant: Enfin, durant qq heures, soleil brille, ciel
+  apres: enfin, durant qq heure, soleil brille ciel
+  justification: e initial minuscule ; heure terminé par un délié sans s (zoom ×3) ; pas de virgule après brille
+  confiance: haute
+- ligne: 10
+  avant: proche.
+  apres: proche
+  justification: long délié final, aucun point
+  confiance: moyenne
+- ligne: 12
+  avant: Beau soleil, ciel bleu.
+  apres: Beau soleil ciel bleu
+  justification: aucune virgule ni point visibles
+  confiance: moyenne
+- ligne: 15
+  avant: exilés
+  apres: exilé
+  justification: e-x-i-l-é, point du i et accent rejetés à droite ; aucun s final
+  confiance: moyenne
+- ligne: 17
+  avant: 26 L. — Jour entier de liberté. Cap. W., seul
+  apres: \sl{26 L} — Jour entier de liberté. Cap. W^{–}, seul
+  justification: pas de point après L ; trait suscrit après W, non un point ; Jour écrit loin à droite, un peu plus bas
+  confiance: haute
+- ligne: 18
+  avant: vers 9h
+  apres: vers 11^{h}
+  justification: deux hastes parallèles précédées d'un trait d'attaque, h suscrit ; aucune boucle de 9
+  confiance: haute
+- ligne: 19
+  avant: qu'à 6h s.
+  apres: qu'à 6^{h} \inc{s} —
+  justification: h suscrit ; après lui une haste coupée d'un long trait horizontal
+  confiance: moyenne
+- ligne: 21
+  avant: Écrit bcp et lu English novel.
+  apres: Ecrit bp et lu English novel
+  justification: b + p sans c ; pas d'accent net sur E ; pas de point final
+  confiance: haute
+- ligne: 22
+  avant: Après tea
+  apres: après tea
+  justification: a initial minuscule
+  confiance: moyenne
+- ligne: 22
+  avant: '& ds les'
+  apres: '& \inc{ds} les'
+  justification: '∂ + petite boucle fermée : ds ou de'
+  confiance: moyenne
+- ligne: 23
+  avant: village.
+  apres: village \trait
+  justification: long trait tiré après le mot, aucun point
+  confiance: haute
+- ligne: 24
+  avant: après dîner, nuit étoilée
+  apres: après dîner. Nuit étoilée
+  justification: point net après dîner ; N à long délié d'attaque
+  confiance: moyenne
+- ligne: 25
+  avant: pleine lune.
+  apres: \ind pleine lune
+  justification: pas de point ; ligne en retrait au pied de page
+  confiance: haute
+difficultes:
+- ligne: 15
+  lemme: exilé
+  analyse: e, x en croix, i (point rejeté au-dessus de la fin du mot), l bouclé, e à accent détaché ; le mot s'arrête sur le délié, sans crochet ni descente de s
+  alternatives:
+  - exilés
+- ligne: 17
+  lemme: W^{–}
+  analyse: W à deux jambages épais, puis trait horizontal ondulé au-dessus de la ligne de tête (abréviatif, peut-être W^{m} réduit) ; virgule plus bas
+  alternatives:
+  - W.
+  - W^{m}
+- ligne: 17
+  lemme: Jour
+  analyse: Jour entier… commence vers x≈0,31 avec une base un peu plus basse que 26 L, au niveau du soulignement de la date ; rattaché à la ligne de la date (le tiret après L mène vers lui)
+  alternatives:
+  - ligne propre
+- ligne: 18
+  lemme: allé à
+  analyse: 'après allé, trait horizontal à hauteur de la ligne de tête puis a : vraisemblablement l''accent de à déplacé à gauche'
+  alternatives:
+  - allé – à
+- ligne: 19
+  lemme: \inc{s}
+  analyse: après 6 et petit h suscrit, haste verticale coupée par un trait horizontal qui se prolonge à droite ; s du soir réduit à un 1 (guide § 8, 26) suivi d'un tiret
+  alternatives:
+  - t
+  - —
+- ligne: 22
+  lemme: \inc{ds} les
+  analyse: ∂ à boucle arrière, petite boucle fermée en forme de e, trait de liaison, puis l et e prolongé en long délié (les, s absorbé) ; lettre à lettre « de le », d'où ds retenu pour le sens
+  alternatives:
+  - de le
+  - de la
+- ligne: 25
+  lemme: pleine lune
+  analyse: 'remarque du commentateur historique (la lune n''était pas pleine le 26 février 1917 : nouvelle lune le 21) ; vérifié sur l''image : p à longue haste, l, e, i, n, e ; l, u, n, e à long délié ; la lecture « pleine lune » est sûre, l''écart relève de Combes'
+  alternatives: []
+controle:
+- ligne: 15
+  avant: exilés
+  apres: exilé
+  justification: aucun s final au zoom ; le signe à droite du mot est le point du i et l'accent, rejetés à droite
+- ligne: 16
+  avant: 'apparat : hauteurs (graphie)'
+  apres: note supprimée
+  justification: l'ellipse « sur hauteurs » n'égare pas le lecteur ; règle d'épuration de l'apparat
+- ligne: 22
+  avant: \inc{ds} (note « lecture « de » possible »)
+  apres: \inc{ds} maintenu
+  justification: le tracé donne lettre à lettre d + boucle en e puis le à long délié ; ds retenu pour le sens, incertitude maintenue
+remarques: 'Ligne 17 : la date 26 L et Jour entier… pourraient former deux lignes ; on a suivi l''état antérieur. Lecture 11^{h} (non 9h) assurée. « pleine lune » lu sans doute possible, quoique la lune fût alors au premier croissant (nouvelle lune le 21 février 1917, selon le commentateur historique).'
+resume: 'Samedi 24 février 1917, journée entière inoccupée ; courte promenade sur la route de Contay, temps brumeux, route boueuse, jusqu''au moulin. Dimanche 25, course le matin à Mirvaux, hameau d''une centaine d''habitants ; quelques heures de soleil, première sensation de printemps ; promenade l''après-midi sur la route de Toutencourt ; le village où le service est « exilé » est perdu sur les hauteurs. Lundi 26, journée de liberté : le capitaine Williams part seul vers 11 h pour Senlis et Martinsart et ne rentre qu''à 6 h du soir ; Combes écrit beaucoup, lit un roman anglais, se promène autour du village ; nuit étoilée et pleine lune.'
+noms:
+  personnes:
+  - forme: Cap. W^{–}
+    ligne: 17
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  lieux:
+  - forme: Contay
+    ligne: 4
+    identite: Contay (Somme)
+  - forme: Mirvaux
+    ligne: 7
+    identite: Mirvaux (Somme)
+  - forme: Toutencourt
+    ligne: 12
+    identite: Toutencourt (Somme)
+  - forme: Village où ns sommes exilé
+    ligne: 15
+    identite: probablement Hérissart (Somme), cantonnement depuis le cliché 095
+  - forme: Senlis
+    ligne: 18
+    identite: Senlis-le-Sec (Somme)
+  - forme: Martinsart
+    ligne: 18
+    identite: Martinsart (Somme)
+source: contrôle

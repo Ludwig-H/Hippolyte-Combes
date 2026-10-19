@@ -1,0 +1,149 @@
+cliche: 90
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 2 J. — / Levé 6h m. En 1 h.,
+  apres: \sl{2 J.} — Levé 6^{h} m. En 1 h., \hfill \sl{Nov^{bre} /16}
+  justification: « Levé 6h m. En 1 h., » est écrit sur la ligne de date, entre le jour et le mois ; h suscrit ; date et mois soulignés
+  confiance: haute
+- ligne: 2
+  avant: terminés.
+  apres: termines.
+  justification: aucun accent sur l'e final, seul le point du i est visible
+  confiance: moyenne
+- ligne: 3
+  avant: eu
+  apres: a
+  justification: 'panse ovale fermée + un seul jambage + long délié : forme du a, pas de e bouclé ni de u à deux jambages'
+  confiance: moyenne
+- ligne: 5
+  avant: Pant.,
+  apres: Pant,
+  justification: le trait au-dessus du t est sa barre ; aucun point avant la virgule
+  confiance: moyenne
+- ligne: 6
+  avant: Au bureau, [Lépin ?]
+  apres: au bureau, \inc{Lépin}
+  justification: a initial au module des minuscules
+  confiance: haute
+- ligne: 10
+  avant: d'accompagner
+  apres: daccompagner
+  justification: aucune apostrophe visible après le d en ∂
+  confiance: moyenne
+- ligne: 11
+  avant: Curtis, à Acheux.
+  apres: Curtis. à Acheux \trait
+  justification: point rond sur la ligne de base, non virgule ; délié final prolongé en trait de remplissage
+  confiance: haute
+- ligne: 12
+  avant: A 9h 1/2, enfin, auto
+  apres: a 9^{h} \fr{1}{2} enfin auto
+  justification: a minuscule en retrait ; h suscrit ; demi empilé (aspect ʒ) ; aucune virgule
+  confiance: haute
+- ligne: 13
+  avant: billet & ts
+  apres: billet 5 & ts
+  justification: un 5 à drapeau entre billet et l'esperluette
+  confiance: haute
+- ligne: 14
+  avant: '[verbe illis.] [au ?] kit de Lt Curtis.'
+  apres: juché au kit de Lt. Curtis
+  justification: juché lettre à lettre ; au net ; point après Lt ; pas de point final
+  confiance: haute
+- ligne: 15
+  avant: Routes affreuses.
+  apres: Routes affreuse \trait
+  justification: la finale e se prolonge en long délié jusqu'au milieu de la ligne, sans s distinct
+  confiance: moyenne
+- ligne: 16
+  avant: Vers 11h —, arrivés à Acheux.
+  apres: \ind Vers 11^{H}. – , arrivés à Acheux \trait
+  justification: H suscrit, point, tiret court, virgule ; délié final prolongé
+  confiance: haute
+- ligne: 17
+  avant: Vu Town Major. Recherché billets & mess-room.
+  apres: Vu Town-Major. Recherché billets & messroom
+  justification: trait d'union entre Town et Major ; messroom sans trait d'union ; pas de point final
+  confiance: moyenne
+- ligne: 19
+  avant: état lamentable. Ornières.
+  apres: etat lamentable. ornières.
+  justification: pas d'accent sur le premier e ; o initial minuscule
+  confiance: moyenne
+- ligne: 20
+  avant: l'après-midi
+  apres: l'apres-midi
+  justification: aucun accent sur le e d'apres
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: Lépin
+  analyse: 'zoom [.28 .215 .46 .27] : L en grande boucle ; point rond au-dessus de la 2e lettre (i ou é) ; haste descendante droite sans boucle (p plutôt que g) ; trois ou quatre minimes ; signe courbe rejeté à droite (point du i ou accent). Lépin reste le plus probable.'
+  alternatives:
+  - Lupin
+  - Ligné
+- ligne: 7
+  lemme: avoir
+  analyse: 'après « après » : un mot de trois ou quatre minimes finissant en s plongeant (aspect « vus »), puis « vu » ; « Lt Pizzi » serré au bord droit, plus petit et plus pâle'
+  alternatives:
+  - vus
+- ligne: 8
+  lemme: Pizzi
+  analyse: 'zoom [.66 .30 .88 .36] : P bouclé, petite boucle fermée (o plutôt que i), zz descendants, i final avec un seul point rejeté à droite'
+  alternatives:
+  - Pozzi
+- ligne: 10
+  lemme: Col.
+  analyse: C, haste bouclée l, petit trait vertical surélevé (point abréviatif) ; l'o n'est pas distinct
+  alternatives:
+  - Cl.
+- ligne: 14
+  lemme: Lt.
+  analyse: L bouclé, tiret, lettre descendante, point (aspect « L-ſ. ») ; forme inhabituelle de Lt, laissée sans \inc vu le contexte (Lt Curtis, l. 11)
+  alternatives:
+  - L^{t}.
+- ligne: 17
+  lemme: billets
+  analyse: finale identique à celle de « billet » l. 13 (t et long délié) ; le s du pluriel n'est pas distinct ; leçon antérieure conservée
+  alternatives:
+  - billet
+controle:
+- ligne: 8
+  avant: Lt Pizzi. —
+  apres: Lt \inc{Pizzi}. —
+  justification: après le P, une petite boucle fermée (o plutôt que i) et un seul point, celui du i final ; Pozzi possible
+- ligne: 0
+  avant: apparat de la première lecture (notes paléographiques sur a, Lépin, Col., &, juché)
+  apres: notes abrégées ; Lupin ajouté comme alternative ; lecture Pizzi l. 8 ; critique sur l'ajout de « Lt Pizzi » l. 7
+  justification: épuration de l'apparat imprimé ; justifications renvoyées aux difficultés
+remarques: Page entière à l'encre violette, sans comptes ni filet. Le départ se fait d'Albert (cf. 089) ; le récit se poursuit au cl. 091.
+resume: Le 2 novembre 1916, Hippolyte Combes boucle ses paquets à Albert et, au breakfast, décide de passer au bureau de la Mission. Lépin et Serpin lui conseillent d'obtenir un ordre écrit ; après avoir vu le Lt Pizzi, il se rend au Train Office, où le major Hughes tempête, puis le colonel Grose signe l'ordre d'accompagner le Lt Curtis à Acheux. À 9 h 30, une auto le prend avec ses bagages juchés sur le kit de Curtis ; sous une pluie battante et par des routes affreuses, il arrive vers 11 h à Acheux. Il voit le Town Major, cherche billets et salle de mess, s'installe provisoirement et note l'état lamentable des rues.
+noms:
+  personnes:
+  - forme: Pant
+    ligne: 5
+    identite: capitaine Panton, officier britannique
+  - forme: Lépin
+    ligne: 6
+    identite: membre français de la Mission (lecture incertaine ; Lupin au cl. 023)
+  - forme: Serpin
+    ligne: 6
+    identite: militaire français de la Mission
+  - forme: Pizzi
+    ligne: 7
+    identite: lieutenant (lecture Pozzi possible)
+  - forme: Hughes
+    ligne: 9
+    identite: major britannique, Train Office
+  - forme: Grose
+    ligne: 10
+    identite: colonel britannique
+  - forme: Curtis
+    ligne: 11
+    identite: lieutenant britannique de la compagnie
+  lieux:
+  - forme: Acheux
+    ligne: 11
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

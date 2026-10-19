@@ -1,0 +1,74 @@
+cliche: 11
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Ve 4 —
+  apres: \sl{Ve 4} –
+  justification: trait de soulignement sous Ve 4 ; tiret court
+  confiance: haute
+- ligne: 6
+  avant: loin de la ville —
+  apres: loin, de la ville –
+  justification: virgule (trait descendant) après le n final de loin ; tiret court
+  confiance: moyenne
+- ligne: 8
+  avant: déjà
+  apres: deja
+  justification: aucun accent distinct ; le seul trait au-dessus de ja tient lieu de point du j
+  confiance: moyenne
+- ligne: 9
+  avant: garret, (où suis remonté), la
+  apres: garret (où suis remonté) la
+  justification: un seul signe après garret (parenthèse) et un seul après remonté ; pas de virgules distinctes
+  confiance: moyenne
+- ligne: 12
+  avant: monotone du père ; [gémt ?] en [patois flamand ?]
+  apres: monotone du père ( \inc{gémit} en \ill \inc{lug}
+  justification: parenthèse ouvrante, non point-virgule ; gémit g-é-m-i-t ; mot suivant noyé d'encre ; dernier mot l-u-g (p2), non flamand ni lang
+  confiance: basse
+difficultes:
+- ligne: 12
+  lemme: gémit
+  analyse: g à boucle inférieure longue, e haut, accent décalé au-dessus de l'ovale suivant ; ovale fermé puis deux minimes et un trait remontant, enfin t à haste haute appuyée ; gémit si l'ovale est la première minime d'un m, géant si c'est un a suivi de n
+  alternatives:
+  - géant
+- ligne: 12
+  lemme: \ill
+  analyse: jambage initial descendant à boucle étroite (p ou g), puis une boucle et des minimes ; le reste noyé dans un pâté, chevron en tête (barre de t ou circonflexe) ; lettres non comptables
+  alternatives:
+  - patois
+  - gutt.
+- ligne: 12
+  lemme: lug
+  analyse: 'zoom x3 [.87 .49 1.0 .59] : l bouclé haut sans descente sous la ligne (donc non f), puis deux minimes sans panse fermée (u, non an), g à grande boucle descendante ; aucun point net (trait isolé plus bas = tache) ; lug. = lugubre probable'
+  alternatives:
+  - lang
+  - langue
+- ligne: 9
+  lemme: remonté)
+  analyse: 'après le e accentué, courbe concave à droite descendant légèrement sous la ligne : parenthèse fermante mal formée ou virgule'
+  alternatives:
+  - remonté,
+- ligne: 10
+  lemme: j'entends
+  analyse: un trait vertical court précède le j (virgule après tombée, accolée au j) ; j à longue descente dans la l. 11 ; finale -nds réduite à un délié
+  alternatives: []
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Le flamand de la prière n''est qu''une hypothèse fondée sur la géographie (Saint-Jans-Cappel), non une lecture : ni « patois » ni « flamand » ne se lisent ; le dernier mot est lug (lugubre ?), non lang.'
+  alternatives: []
+controle:
+- ligne: 12
+  avant: \inc{lang}
+  apres: \inc{lug}
+  justification: deux minimes sans panse après le l (u, non an) ; g bouclé ; lug. = lugubre probable, qui convient à gémit
+- ligne: 12
+  avant: 'apparat : notes gémit, \ill, lang détaillées'
+  apres: notes brèves
+  justification: analyse lettre à lettre renvoyée dans difficultes ; note de signe l. 9 abrégée
+remarques: Fin de ligne 12 en partie illisible (pâté d'encre) ; moitié inférieure de la page blanche.
+resume: Le soir du vendredi 4 août, Hippolyte Combes s'assied et se promène dans les pâtures de la ferme où il loge, écoutant le vent dans les feuillages des grands arbres. Impression de solitude et d'abandon, loin de la ville ; sans le vert intense des frondaisons on se croirait déjà en automne. Remonté dans sa mansarde à la nuit tombée, il entend la famille du fermier dire en commun la prière du soir, menée par la voix grave et monotone du père ; la fin de la ligne, noyée d'encre, reste en partie illisible.
+noms:
+  personnes: []
+  lieux: []
+source: contrôle

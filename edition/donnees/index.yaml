@@ -1,0 +1,4519 @@
+personnes:
+- id: abel
+  nom: Abel
+  court: Abel
+  notice: plus jeune fils de la maison où loge Combes à Albert (famille Duchâteau ?)
+  formes: []
+  attestations:
+  - - 82
+    - 16
+- id: albertine
+  nom: Albertine
+  court: Albertine
+  notice: blanchisseuse à Hérissart
+  formes: []
+  attestations:
+  - - 157
+    - 25
+- id: ambroise
+  nom: Ambroise (saint)
+  court: saint Ambroise
+  notice: statuette de l'église d'Estaires
+  formes: []
+  attestations:
+  - - 25
+    - 9
+- id: auriol
+  nom: Auriol
+  court: Auriol
+  notice: joaillier à Toulouse ; lecture incertaine
+  formes: []
+  attestations:
+  - - 139
+    - 4
+- id: backer
+  nom: Backer (Mme)
+  court: Mme Backer
+  notice: a fourni repas et œufs ; lecture incertaine
+  formes: []
+  attestations:
+  - - 2
+    - 21
+- id: barbry
+  nom: Barbry
+  court: Barbry
+  notice: propriétaire d'une blanchisserie, logeur de Combes
+  formes: []
+  attestations:
+  - - 17
+    - 8
+  - - 22
+    - 2
+  - - 23
+    - 6
+- id: barning
+  nom: Barning
+  court: Barning
+  notice: militaire de la compagnie (?) ; lecture incertaine
+  formes: []
+  attestations:
+  - - 14
+    - 8
+- id: bienaime
+  nom: Bienaimé, Jules (notaire)
+  court: Me Bienaimé
+  notice: notaire à Toutencourt (1906--1933)
+  formes: []
+  attestations:
+  - - 175
+    - 19
+  - - 178
+    - 6
+- id: boilly
+  nom: Boilly
+  court: Boilly
+  notice: interprète, professeur à Pont-à-Mousson
+  formes: []
+  attestations:
+  - - 130
+    - 5
+- id: bonne_maman
+  nom: Bonne-Maman (?)
+  court: B. Mm
+  notice: « B. Mm », peut-être une grand-mère de Marguerite ; lecture incertaine
+  formes: []
+  attestations:
+  - - 60
+    - 9
+- id: bonny
+  nom: Bonny
+  court: Bonny
+  notice: destinataire d'un chapelet ; lecture incertaine
+  formes: []
+  attestations:
+  - - 59
+    - 19
+- id: bradfield
+  nom: Bradfield (lieutenant)
+  court: Bradfield
+  notice: officier britannique ; peut-être Godfrey Edward Bradfield, A.S.C.
+  formes: []
+  attestations:
+  - - 151
+    - 4
+- id: brammas
+  nom: Brammas
+  court: Brammas
+  notice: compagnon de route ; lecture incertaine (Drammas ?)
+  formes: []
+  attestations:
+  - - 45
+    - 12
+- id: bresson
+  nom: Bresson (capitaine)
+  court: Bresson
+  notice: officier de la Mission militaire française auprès de la Ve armée britannique
+  formes: []
+  attestations:
+  - - 105
+    - 8
+- id: calmels_mlle
+  nom: Calmels (Mlle)
+  court: Mlle Calmels
+  notice: défunte de la famille Calmels (messe anniversaire), non identifiée
+  formes: []
+  attestations:
+  - - 60
+    - 3
+- id: calmels_anne_marie
+  nom: Calmels, Anne-Marie, dite Mimi
+  court: Mimi
+  notice: sœur aînée de Marguerite Calmels (identification par la tradition familiale)
+  formes: []
+  attestations:
+  - - 142
+    - 9
+- id: calmels_marguerite
+  nom: Calmels, Marguerite
+  court: Marguerite
+  notice: Marie Marguerite Calmels (1892--1974), fiancée d'Hippolyte Combes ; désignée aussi « ma fiancée », « ma Femme »
+  formes: []
+  attestations:
+  - - 2
+    - 3
+  - - 6
+    - 12
+  - - 19
+    - 4
+  - - 54
+    - 6
+  - - 54
+    - 11
+  - - 55
+    - 6
+  - - 55
+    - 8
+  - - 56
+    - 6
+  - - 56
+    - 12
+  - - 57
+    - 7
+  - - 57
+    - 22
+  - - 58
+    - 3
+  - - 58
+    - 10
+  - - 59
+    - 8
+  - - 59
+    - 11
+  - - 59
+    - 12
+  - - 60
+    - 3
+  - - 60
+    - 4
+  - - 60
+    - 9
+  - - 60
+    - 13
+  - - 62
+    - 8
+  - - 62
+    - 14
+  - - 62
+    - 17
+  - - 64
+    - 1
+  - - 64
+    - 8
+  - - 112
+    - 10
+  - - 112
+    - 22
+  - - 114
+    - 6
+  - - 133
+    - 2
+  - - 133
+    - 6
+  - - 133
+    - 10
+  - - 134
+    - 10
+  - - 134
+    - 23
+  - - 135
+    - 15
+  - - 136
+    - 4
+  - - 137
+    - 6
+  - - 138
+    - 8
+  - - 139
+    - 5
+  - - 139
+    - 15
+  - - 139
+    - 20
+  - - 140
+    - 6
+  - - 141
+    - 19
+  - - 141
+    - 20
+  - - 142
+    - 3
+  - - 143
+    - 4
+  - - 143
+    - 17
+  - - 143
+    - 18
+- id: calmels_pierre
+  nom: Calmels, Pierre
+  court: Pierre
+  notice: frère de Marguerite Calmels (?), à Millau
+  formes: []
+  attestations:
+  - - 139
+    - 17
+  - - 143
+    - 10
+- id: calmels_mme
+  nom: Calmels, Valentine, née Cartairade
+  court: Mme Calmels
+  notice: mère de Marguerite ; « Mme C\textsuperscript{h} » (055) et « Mme Cl » (060), lecture incertaine
+  formes: []
+  attestations:
+  - - 54
+    - 6
+  - - 55
+    - 10
+  - - 60
+    - 4
+- id: capron
+  nom: Capron (Mme)
+  court: Mme Capron
+  notice: habitante de Beauquesne ; lecture incertaine (Caprin ?)
+  formes: []
+  attestations:
+  - - 115
+    - 6
+  - - 120
+    - 20
+- id: carluvant
+  nom: Carluvant (M. et Mme)
+  court: Carluvant
+  notice: tailleur, logeur de Combes à Acheux ; lecture incertaine (Carlumont ?)
+  formes: []
+  attestations:
+  - - 102
+    - 11
+  - - 118
+    - 8
+  - - 146
+    - 20
+  - - 147
+    - 9
+  - - 148
+    - 10
+- id: casteljau
+  nom: Casteljau (capitaine de)
+  court: Casteljau
+  notice: officier de la Mission militaire française auprès du II Corps britannique
+  formes: []
+  attestations:
+  - - 151
+    - 13
+- id: cliquennois
+  nom: Cliquennois (Mme)
+  court: Mme Cliquennois
+  notice: logeuse à Steenwerck
+  formes: []
+  attestations:
+  - - 26
+    - 17
+- id: colart
+  nom: Colart (famille)
+  court: Colart
+  notice: anciens hôtes de Combes à Ribemont
+  formes: []
+  attestations:
+  - - 181
+    - 20
+- id: colin
+  nom: Colin
+  court: Colin
+  notice: à Paris ; probablement la librairie Armand Colin, boulevard Saint-Michel
+  formes: []
+  attestations:
+  - - 52
+    - 21
+- id: combes_mere
+  nom: Combes (mère d'Hippolyte)
+  court: Maman
+  notice: mère d'Hippolyte Combes, défunte
+  formes: []
+  attestations:
+  - - 132
+    - 14
+  - - 141
+    - 10
+- id: combes_pere
+  nom: Combes (père d'Hippolyte)
+  court: Papa
+  notice: père d'Hippolyte Combes, défunt
+  formes: []
+  attestations:
+  - - 141
+    - 9
+- id: combes_soeurs
+  nom: Combes (sœurs d'Hippolyte)
+  court: ses sœurs
+  notice: sœurs d'Hippolyte Combes, dont Joséphine (\emph{voir} Combes, Joséphine)
+  formes: []
+  attestations:
+  - - 132
+    - 15
+  - - 141
+    - 10
+- id: combes_josephine
+  nom: Combes, Joséphine
+  court: Josèphe
+  notice: sœur d'Hippolyte Combes, morte en 1914
+  formes: []
+  attestations:
+  - - 57
+    - 23
+- id: connelly
+  nom: Connelly
+  court: Connelly
+  notice: groom (ordonnance) d'Hippolyte Combes à la 152nd Company A.S.C.
+  formes: []
+  attestations:
+  - - 12
+    - 23
+  - - 41
+    - 19
+  - - 45
+    - 22
+  - - 74
+    - 14
+- id: cordonnier
+  nom: Cordonnier
+  court: Cordonnier
+  notice: interprète militaire, auprès d'une unité de la R.F.A., connu à Béthune
+  formes: []
+  attestations:
+  - - 92
+    - 11
+- id: croughton
+  nom: Croughton (lieutenant)
+  court: Croughton
+  notice: officier britannique, du mess de la No.~3 Company du train divisionnaire
+  formes: []
+  attestations:
+  - - 109
+    - 6
+  - - 150
+    - 2
+- id: crouzet_famille
+  nom: Crouzet (famille)
+  court: les Crouzet
+  notice: famille d'Émile Crouzet, à Toulouse
+  formes: []
+  attestations:
+  - - 54
+    - 7
+  - - 64
+    - 13
+- id: crouzet_tante
+  nom: Crouzet (Mme Émile), née Calmels
+  court: tante
+  notice: « tante », sans doute Mme Émile Crouzet, née Calmels
+  formes: []
+  attestations:
+  - - 133
+    - 4
+- id: crouzet_emile
+  nom: Crouzet, Émile (oncle)
+  court: oncle Crouzet
+  notice: agent de change à Toulouse, oncle par alliance de Marguerite Calmels
+  formes: []
+  attestations:
+  - - 55
+    - 11
+  - - 62
+    - 18
+  - - 62
+    - 21
+  - - 132
+    - 20
+  - - 139
+    - 7
+- id: crouzet_jean
+  nom: Crouzet, Jean (abbé) ?
+  court: Jean
+  notice: « Jean », proche d'Hippolyte Combes, sans doute l'abbé Jean Crouzet
+  formes: []
+  attestations:
+  - - 58
+    - 12
+  - - 58
+    - 13
+  - - 59
+    - 17
+  - - 133
+    - 8
+  - - 139
+    - 9
+- id: cuisinier
+  nom: Cuisinier (Mme)
+  court: Mme Cuisinier
+  notice: fermière à Louvencourt
+  formes: []
+  attestations:
+  - - 112
+    - 17
+  - - 118
+    - 14
+  - - 126
+    - 10
+- id: curtis
+  nom: Curtis (lieutenant)
+  court: Curtis
+  notice: officier de la 152nd Company A.S.C. (18th Division)
+  formes: []
+  attestations:
+  - - 2
+    - 10
+  - - 6
+    - 4
+  - - 6
+    - 8
+  - - 13
+    - 4
+  - - 14
+    - 3
+  - - 19
+    - 17
+  - - 21
+    - 19
+  - - 23
+    - 4
+  - - 23
+    - 6
+  - - 30
+    - 17
+  - - 37
+    - 5
+  - - 89
+    - 22
+  - - 90
+    - 11
+  - - 90
+    - 14
+  - - 91
+    - 9
+  - - 96
+    - 2
+  - - 97
+    - 3
+  - - 101
+    - 24
+  - - 104
+    - 26
+  - - 105
+    - 13
+  - - 105
+    - 22
+  - - 105
+    - 23
+  - - 107
+    - 11
+  - - 107
+    - 13
+- id: delille
+  nom: Delille (Mme)
+  court: Mme Delille
+  notice: employée au guichet (de la poste ?) à Acheux
+  formes: []
+  attestations:
+  - - 147
+    - 3
+- id: deloney
+  nom: Deloney
+  court: Deloney
+  notice: interprète du lieutenant Walsh, directeur d'usine ; lecture incertaine
+  formes: []
+  attestations:
+  - - 103
+    - 20
+- id: delsol
+  nom: Delsol (dames)
+  court: dames Delsol
+  notice: voisines de Combes à Toulouse
+  formes: []
+  attestations:
+  - - 137
+    - 5
+- id: denis
+  nom: Denis (famille)
+  court: Denis
+  notice: famille d'Hérissart chez qui Combes passe ses soirées
+  formes: []
+  attestations:
+  - - 178
+    - 9
+  - - 180
+    - 14
+  - - 182
+    - 12
+  - - 183
+    - 24
+  - - 184
+    - 16
+- id: donse
+  nom: Donse (Mme)
+  court: Mme Donse
+  notice: logeuse de Combes à Lynde ; lecture incertaine (Donze, Douse ?)
+  formes: []
+  attestations:
+  - - 5
+    - 20
+- id: dubois_dr
+  nom: Dubois (docteur)
+  court: Dr Dubois
+  notice: de Montigny
+  formes: []
+  attestations:
+  - - 161
+    - 20
+- id: dubois_paul
+  nom: Dubois, Paul
+  court: Paul Dubois
+  notice: maire de Montigny
+  formes: []
+  attestations:
+  - - 119
+    - 7
+- id: duchateau
+  nom: Duchâteau (M.)
+  court: M. Duchâteau
+  notice: habitant d'Albert, père de Victor
+  formes: []
+  attestations:
+  - - 87
+    - 9
+- id: duchateau_victor
+  nom: Duchâteau, Victor
+  court: Victor Duchâteau
+  notice: fils aîné de M. Duchâteau, maréchal des logis dans l'artillerie belge
+  formes: []
+  attestations:
+  - - 91
+    - 4
+- id: dupuich
+  nom: Dupuich
+  court: Dupuich
+  notice: habitant de Marquay ; lecture incertaine (Dupuis ?)
+  formes: []
+  attestations:
+  - - 39
+    - 23
+- id: evar
+  nom: Evar
+  court: Evar
+  notice: interprète militaire ; lecture incertaine
+  formes: []
+  attestations:
+  - - 164
+    - 6
+  - - 164
+    - 8
+- id: faure_mme
+  nom: Faure (Mme)
+  court: Mme Faure
+  notice: demeurant à Neuilly-sur-Seine, rue d'Armenonville
+  formes: []
+  attestations:
+  - - 131
+    - 2
+- id: faure_andre
+  nom: Faure, André
+  court: André Faure
+  notice: fils de Mme Faure, préparant Polytechnique
+  formes: []
+  attestations:
+  - - 131
+    - 6
+- id: faure_germaine
+  nom: Faure, Germaine
+  court: Germaine Faure
+  notice: fille de Mme Faure (?)
+  formes: []
+  attestations:
+  - - 131
+    - 5
+- id: faure_henri
+  nom: Faure, Henri
+  court: Henri Faure
+  notice: fils de Mme Faure, aspirant
+  formes: []
+  attestations:
+  - - 131
+    - 6
+- id: faure_marcel
+  nom: Faure, Marcel
+  court: Marcel Faure
+  notice: fils de Mme Faure ; peut-être Marcel Faure (1906--1999)
+  formes: []
+  attestations:
+  - - 131
+    - 5
+- id: fisher
+  nom: Fisher
+  court: Fisher
+  notice: soldat de la 152nd Company A.S.C.
+  formes: []
+  attestations:
+  - - 26
+    - 9
+  - - 26
+    - 16
+- id: flutre
+  nom: Flutre (M. et Mme)
+  court: Flutre
+  notice: instituteurs au Mesnil, parents d'un élève de l'École normale supérieure (Louis-Fernand Flutre ?)
+  formes: []
+  attestations:
+  - - 168
+    - 8
+- id: ford
+  nom: Ford (lieutenant)
+  court: Ford
+  notice: officier de l'A.S.C. ; probablement Edward Maurice Ford
+  formes: []
+  attestations:
+  - - 50
+    - 8
+- id: gilbert
+  nom: Gilbert (sous-lieutenant)
+  court: Gilbert
+  notice: officier britannique originaire de Jersey, poète, collègue de Combes au Purchase Board
+  formes: []
+  attestations:
+  - - 179
+    - 23
+  - - 181
+    - 11
+  - - 185
+    - 19
+  - - 186
+    - 7
+- id: godare
+  nom: Godare (lieutenant)
+  court: Godare
+  notice: officier rencontré à Toutencourt ; lecture incertaine (Godard ?)
+  formes: []
+  attestations:
+  - - 166
+    - 15
+- id: granger
+  nom: Granger (maréchal des logis)
+  court: Granger
+  notice: de la Mission militaire française à Toutencourt ; lecture incertaine (Grauger ?)
+  formes: []
+  attestations:
+  - - 163
+    - 9
+  - - 163
+    - 11
+- id: grose
+  nom: Grose, Daniel Charles Evans (lieutenant-colonel)
+  court: Grose
+  notice: commandant le train de la 18th Division
+  formes: []
+  attestations:
+  - - 90
+    - 10
+- id: guerin
+  nom: Guérin, Maurice de
+  court: Maurice de Guérin
+  notice: poète (1810--1839)
+  formes: []
+  attestations:
+  - - 135
+    - 11
+- id: guerle
+  nom: Guerle (Mme)
+  court: Mme Guerle
+  notice: propriétaire d'une grange servant de cantonnement
+  formes: []
+  attestations:
+  - - 106
+    - 20
+- id: guetin
+  nom: Guetin (M.)
+  court: M. Guetin
+  notice: commerçant à Bailleul ; lecture incertaine
+  formes: []
+  attestations:
+  - - 8
+    - 16
+- id: guibet
+  nom: Guibet (M.)
+  court: M. Guibet
+  notice: habitant de Raincheval
+  formes: []
+  attestations:
+  - - 115
+    - 4
+  - - 121
+    - 16
+- id: guilhem
+  nom: Guilhem (Mlle)
+  court: Mlle Guilhem
+  notice: propriétaire de l'appartement de Combes à Toulouse
+  formes: []
+  attestations:
+  - - 61
+    - 4
+- id: guiraud
+  nom: Guiraud
+  court: Guiraud
+  notice: tailleur à Toulouse
+  formes: []
+  attestations:
+  - - 61
+    - 2
+- id: hancock
+  nom: Hancock
+  court: Hancock
+  notice: chef cuisinier (\textit{headcook}) du mess de la compagnie
+  formes: []
+  attestations:
+  - - 7
+    - 16
+- id: henriette
+  nom: Henriette
+  court: Henriette
+  notice: proche de la famille Calmels, à Toulouse
+  formes: []
+  attestations:
+  - - 137
+    - 8
+  - - 138
+    - 8
+- id: hippolyte
+  nom: Hippolyte (saint)
+  court: saint Hippolyte
+  notice: patron d'Hippolyte Combes ; relique à Steenwerck
+  formes: []
+  attestations:
+  - - 26
+    - 6
+- id: houtteman
+  nom: Houtteman (M. et Mme)
+  court: Houtteman
+  notice: fermiers belges de Belle-Église Farm, à Arquèves ; lecture incertaine
+  formes: []
+  attestations:
+  - - 108
+    - 6
+  - - 171
+    - 11
+- id: hughes
+  nom: Hughes (major)
+  court: Hughes
+  notice: officier britannique du \textit{Train Office} ; peut-être Herbert Francis Hughes, A.S.C.
+  formes: []
+  attestations:
+  - - 90
+    - 9
+  - - 96
+    - 2
+- id: huguet
+  nom: Huguet (capitaine)
+  court: Huguet
+  notice: officier de la Mission militaire française auprès du V Corps britannique
+  formes: []
+  attestations:
+  - - 94
+    - 15
+  - - 105
+    - 26
+  - - 123
+    - 7
+- id: imbert
+  nom: Imbert
+  court: Imbert
+  notice: opticien à Paris, boulevard Saint-Michel, mobilisé
+  formes: []
+  attestations:
+  - - 116
+    - 14
+  - - 121
+    - 24
+  - - 122
+    - 9
+  - - 131
+    - 10
+- id: jamet
+  nom: Jamet
+  court: Jamet
+  notice: interprète militaire
+  formes: []
+  attestations:
+  - - 92
+    - 7
+- id: jessie
+  nom: Jessie
+  court: Jessie
+  notice: lié à la voiture Vauxhall, non identifié ; lecture incertaine (Jimmie ?)
+  formes: []
+  attestations:
+  - - 167
+    - 14
+- id: labarthe
+  nom: Labarthe (Mme de)
+  court: Mme de Labarthe
+  notice: amie toulousaine d'Hippolyte Combes
+  formes: []
+  attestations:
+  - - 56
+    - 4
+  - - 57
+    - 3
+  - - 60
+    - 12
+  - - 61
+    - 8
+  - - 135
+    - 6
+  - - 137
+    - 4
+  - - 138
+    - 7
+- id: benoit_labre
+  nom: Labre, Benoît-Joseph (saint)
+  court: Benoît Labre
+  notice: (1748--1783), pèlerin mendiant, né à Amettes, alors bienheureux
+  formes: []
+  attestations:
+  - - 32
+    - 14
+- id: lamennais
+  nom: Lamennais, Félicité de
+  court: Lamennais
+  notice: écrivain (1782--1854)
+  formes: []
+  attestations:
+  - - 135
+    - 12
+- id: laudet
+  nom: Laudet (Mme)
+  court: Mme Laudet
+  notice: Toulousaine ; lecture incertaine (Lamolet ?)
+  formes: []
+  attestations:
+  - - 60
+    - 16
+- id: layrals_charles
+  nom: Layrals, Charles (oncle)
+  court: oncle Layrals
+  notice: notaire à Millau, oncle de Marguerite Calmels (identification par la tradition familiale)
+  formes: []
+  attestations:
+  - - 142
+    - 6
+- id: layrals_therese
+  nom: Layrals, Thérèse, née Cartairade (tante)
+  court: tante Thérèse
+  notice: tante de Marguerite Calmels, à Millau
+  formes: []
+  attestations:
+  - - 142
+    - 6
+- id: lefevre
+  nom: Lefèvre (M.)
+  court: M. Lefèvre
+  notice: rencontré à Toutencourt
+  formes: []
+  attestations:
+  - - 154
+    - 21
+- id: leonard
+  nom: Leonard (capitaine)
+  court: Leonard
+  notice: officier britannique ; peut-être Robert Marsh Leonard, A.S.C. (?)
+  formes: []
+  attestations:
+  - - 157
+    - 8
+- id: lepin
+  nom: Lépin ou Lupin (adjudant)
+  court: Lépin
+  notice: interprète de la Mission militaire française (18th Division) ; lecture incertaine
+  formes: []
+  attestations:
+  - - 23
+    - 7
+  - - 85
+    - 9
+  - - 90
+    - 6
+- id: lereux
+  nom: Lereux
+  court: Lereux
+  notice: compagnon de route, militaire ou interprète français ; lecture incertaine
+  formes: []
+  attestations:
+  - - 43
+    - 7
+- id: lersay
+  nom: Lersay (M. de)
+  court: M. de Lersay
+  notice: dentiste rue La Fayette, à Toulouse ; lecture incertaine (de Lezay ?)
+  formes: []
+  attestations:
+  - - 138
+    - 4
+  - - 140
+    - 2
+- id: levy
+  nom: Levy (major)
+  court: Levy
+  notice: officier britannique du D.O.S.T., chef du Purchase Board ; peut-être Walter Henry Levy, A.S.C.
+  formes: []
+  attestations:
+  - - 91
+    - 2
+  - - 110
+    - 11
+  - - 116
+    - 19
+  - - 166
+    - 13
+- id: louis_xi
+  nom: Louis XI, roi de France
+  court: Louis XI
+  notice: édit de 1464 sur les postes
+  formes: []
+  attestations:
+  - - 41
+    - 11
+- id: louise
+  nom: Louise
+  court: Louise
+  notice: de Pierregot, proche de Mme Mignot
+  formes: []
+  attestations:
+  - - 183
+    - 23
+- id: lovet
+  nom: Lovet (capitaine)
+  court: Lovet
+  notice: officier rencontré au \textit{refilling point} ; lecture incertaine
+  formes: []
+  attestations:
+  - - 151
+    - 11
+- id: maeterlinck
+  nom: Maeterlinck, Maurice
+  court: Maeterlinck
+  notice: écrivain belge, auteur des \textit{Débris de la guerre}
+  formes: []
+  attestations:
+  - - 53
+    - 16
+- id: maria
+  nom: Maria
+  court: Maria
+  notice: bonne de la famille Crouzet
+  formes: []
+  attestations:
+  - - 64
+    - 12
+- id: marie
+  nom: Marie
+  court: Marie
+  notice: domestique à Toulouse (Maria ?)
+  formes: []
+  attestations:
+  - - 140
+    - 7
+- id: marie_antoine
+  nom: Marie-Antoine (le Père)
+  court: P. Marie-Antoine
+  notice: Léon Clergue (1825--1907), capucin toulousain
+  formes: []
+  attestations:
+  - - 57
+    - 22
+- id: martin_alexis
+  nom: Martin, Alexis
+  court: A. Martin
+  notice: (1834--1904), auteur de guides, dont un sur Amiens
+  formes: []
+  attestations:
+  - - 182
+    - 13
+- id: maurin
+  nom: Maurin
+  court: Maurin
+  notice: interprète ou militaire français, originaire de Provence, camarade de Combes
+  formes: []
+  attestations:
+  - - 13
+    - 11
+  - - 14
+    - 15
+  - - 19
+    - 6
+  - - 21
+    - 8
+  - - 24
+    - 6
+  - - 24
+    - 9
+  - - 26
+    - 8
+- id: maxse
+  nom: Maxse, Ivor (général)
+  court: Maxse
+  notice: Major-General Frederick Ivor Maxse, commandant la 18th (Eastern) Division
+  formes: []
+  attestations:
+  - - 16
+    - 15
+- id: michel
+  nom: Michel (lieutenant)
+  court: Michel
+  notice: \textit{billeting officer} des Royal Fusiliers
+  formes: []
+  attestations:
+  - - 3
+    - 3
+- id: mignot
+  nom: Mignot (Mme)
+  court: Mme Mignot
+  notice: habitante de Pierregot ; lecture incertaine
+  formes: []
+  attestations:
+  - - 183
+    - 23
+- id: monin
+  nom: Monin
+  court: Monin
+  notice: camarade de Combes, interprète d'une compagnie de passage (?)
+  formes: []
+  attestations:
+  - - 173
+    - 5
+- id: morris
+  nom: Morris (lieutenant)
+  court: Morris
+  notice: officier britannique, de la 150th Company A.S.C. (?), ancien camarade de Combes
+  formes: []
+  attestations:
+  - - 120
+    - 17
+  - - 121
+    - 20
+  - - 122
+    - 5
+  - - 122
+    - 7
+- id: mortreux
+  nom: Mortreux (famille)
+  court: Mortreux
+  notice: famille de Varennes
+  formes: []
+  attestations:
+  - - 184
+    - 11
+- id: newton
+  nom: Newton (capitaine)
+  court: Newton
+  notice: officier britannique invité au déjeuner ; lecture incertaine
+  formes: []
+  attestations:
+  - - 49
+    - 11
+- id: panton
+  nom: Pant. (capitaine)
+  court: Pant.
+  notice: officier de la 152nd Company A.S.C., chef du mess ; nom abrégé (Panton ?)
+  formes: []
+  attestations:
+  - - 47
+    - 10
+  - - 68
+    - 15
+  - - 73
+    - 15
+  - - 90
+    - 5
+- id: pfister
+  nom: Pfister
+  court: Pfister
+  notice: horloger-bijoutier, place des Carmes, à Toulouse
+  formes: []
+  attestations:
+  - - 56
+    - 20
+  - - 137
+    - 10
+  - - 138
+    - 11
+- id: pizzi
+  nom: Pizzi (lieutenant)
+  court: Pizzi
+  notice: officier interprète de la Mission militaire française (18th Division) ; « Pozzi » en 092
+  formes: []
+  attestations:
+  - - 48
+    - 9
+  - - 85
+    - 9
+  - - 90
+    - 7
+  - - 90
+    - 8
+  - - 92
+    - 15
+- id: renard
+  nom: Renard (M.)
+  court: M. Renard
+  notice: habitant d'Auxi-le-Château, collectionneur d'objets d'art
+  formes: []
+  attestations:
+  - - 124
+    - 15
+  - - 124
+    - 18
+- id: renouleau
+  nom: Renouleau (capitaine)
+  court: Renouleau
+  notice: officier de la Mission militaire française à Toutencourt ; lecture incertaine (Raucoule ?)
+  formes: []
+  attestations:
+  - - 163
+    - 10
+- id: romert
+  nom: Romert (M.)
+  court: M. Romert
+  notice: habitant d'Auxi-le-Château
+  formes: []
+  attestations:
+  - - 152
+    - 9
+- id: schumacher
+  nom: Schumacher (adjudant)
+  court: Schumacher
+  notice: interprète militaire ; vraisemblablement le « Schuhmacher » de la 53rd Brigade
+  formes: []
+  attestations:
+  - - 23
+    - 7
+  - - 83
+    - 10
+- id: serpin
+  nom: Serpin
+  court: Serpin
+  notice: du bureau de la Mission militaire française (18th Division)
+  formes: []
+  attestations:
+  - - 90
+    - 6
+- id: sorgues
+  nom: Sorgues
+  court: Sorgues
+  notice: interprète d'une batterie, professeur au lycée de Toulon ; lecture incertaine (Forgues ?)
+  formes: []
+  attestations:
+  - - 97
+    - 15
+- id: spagnol
+  nom: Spagnol (Mme)
+  court: Mme Spagnol
+  notice: de Nice, expéditrice de fleurs
+  formes: []
+  attestations:
+  - - 136
+    - 21
+  - - 158
+    - 12
+- id: tait
+  nom: Tait (quartermaster sergeant)
+  court: Tait
+  notice: sous-officier de la 152nd Company A.S.C.
+  formes: []
+  attestations:
+  - - 67
+    - 18
+- id: terrier
+  nom: Terrier
+  court: Terrier
+  notice: fermier des environs de Bailleul ; lecture incertaine (Terrien, Texier ?)
+  formes: []
+  attestations:
+  - - 7
+    - 21
+- id: testet
+  nom: Testet, Henri
+  court: Testet
+  notice: commerçant (pâtissier ?) à Toulouse ; lecture incertaine
+  formes: []
+  attestations:
+  - - 136
+    - 19
+- id: therese
+  nom: Thérèse (?)
+  court: Thérèse
+  notice: destinataire d'un envoi (tante Thérèse Layrals ?) ; lecture incertaine
+  formes: []
+  attestations:
+  - - 53
+    - 12
+- id: therese_sainte
+  nom: Thérèse (sainte)
+  court: sainte Thérèse
+  notice: images pieuses
+  formes: []
+  attestations:
+  - - 64
+    - 7
+- id: trefton
+  nom: Trefton (capitaine)
+  court: Trefton
+  notice: rencontré à Amiens ; lecture incertaine (Trefcon ?)
+  formes: []
+  attestations:
+  - - 119
+    - 13
+- id: valet
+  nom: Valet
+  court: Valet
+  notice: interprète militaire de la 2nd Australian Division
+  formes: []
+  attestations:
+  - - 164
+    - 7
+  - - 164
+    - 9
+  - - 166
+    - 21
+- id: vali
+  nom: Vali (M. et Mme)
+  court: Vali
+  notice: châtelains de Martinsart ; lecture incertaine (Bertin ?)
+  formes: []
+  attestations:
+  - - 104
+    - 5
+- id: vauchel
+  nom: Vauchel (Mme)
+  court: Mme Vauchel
+  notice: propriétaire d'une ferme voisine du cantonnement
+  formes: []
+  attestations:
+  - - 37
+    - 7
+- id: vincens_famille
+  nom: Vincens (famille)
+  court: Vincens
+  notice: enfants de Madeleine Calmels et du Dr Fernand Vincens
+  formes: []
+  attestations:
+  - - 143
+    - 17
+- id: vincens_germaine
+  nom: Vincens, Germaine ?
+  court: Germaine
+  notice: enfant de la famille Calmels-Vincens, à Millau (?)
+  formes: []
+  attestations:
+  - - 141
+    - 15
+- id: vincens_madeleine
+  nom: Vincens, Madeleine, née Calmels ?
+  court: Madeleine
+  notice: sœur aînée de Marguerite Calmels (?)
+  formes: []
+  attestations:
+  - - 133
+    - 4
+  - - 134
+    - 10
+- id: votte
+  nom: Votté (général)
+  court: Votté
+  notice: reçu au château de Martinsart ; lecture incertaine (Volké ?)
+  formes: []
+  attestations:
+  - - 150
+    - 20
+- id: walsh
+  nom: Walsh (lieutenant)
+  court: Walsh
+  notice: officier britannique cantonné à Hérissart
+  formes: []
+  attestations:
+  - - 99
+    - 19
+  - - 103
+    - 20
+  - - 106
+    - 7
+  - - 106
+    - 25
+  - - 120
+    - 17
+- id: wentworth
+  nom: Wentworth (lieutenant)
+  court: Wentworth
+  notice: officier australien, collègue de Combes ; Henry Coates ou Fitzwilliam Wentworth (A.I.F.) ?
+  formes: []
+  attestations:
+  - - 169
+    - 17
+  - - 170
+    - 7
+  - - 177
+    - 15
+- id: west
+  nom: West, Edward Maurice (capitaine)
+  court: West
+  notice: commandant la 152nd Company A.S.C.
+  formes: []
+  attestations:
+  - - 39
+    - 19
+  - - 42
+    - 4
+  - - 48
+    - 4
+  - - 48
+    - 13
+- id: williams
+  nom: Williams (capitaine)
+  court: Williams
+  notice: officier britannique, chef d'Hippolyte Combes à partir de décembre 1916
+  formes: []
+  attestations:
+  - - 105
+    - 21
+  - - 106
+    - 26
+  - - 107
+    - 17
+  - - 108
+    - 4
+  - - 109
+    - 12
+  - - 112
+    - 18
+  - - 114
+    - 18
+  - - 117
+    - 8
+  - - 126
+    - 18
+  - - 147
+    - 4
+  - - 147
+    - 6
+  - - 150
+    - 8
+  - - 157
+    - 10
+  - - 159
+    - 17
+  - - 160
+    - 3
+  - - 163
+    - 6
+  - - 164
+    - 24
+  - - 165
+    - 8
+- id: zyromski
+  nom: Zyromski, Ernest
+  court: Zyromski
+  notice: Ernest Zyromski (1862--1933), professeur à la faculté des lettres de Toulouse, auteur de \textit{L'Orgueil humain}
+  formes: []
+  attestations:
+  - - 53
+    - 15
+  - - 135
+    - 10
+lieux:
+- id: abbeville
+  nom: Abbeville (Somme)
+  court: Abbeville
+  formes: []
+  attestations:
+  - - 181
+    - 11
+- id: acheux
+  nom: Acheux-en-Amiénois (Somme)
+  court: Acheux
+  formes: []
+  attestations:
+  - - 43
+    - 4
+  - - 43
+    - 10
+  - - 45
+    - 8
+  - - 45
+    - 10
+  - - 46
+    - 8
+  - - 46
+    - 12
+  - - 48
+    - 12
+  - - 48
+    - 22
+  - - 49
+    - 15
+  - - 50
+    - 12
+  - - 50
+    - 19
+  - - 87
+    - 6
+  - - 87
+    - 15
+  - - 89
+    - 24
+  - - 90
+    - 11
+  - - 90
+    - 16
+  - - 91
+    - 6
+  - - 91
+    - 14
+  - - 96
+    - 13
+  - - 97
+    - 17
+  - - 99
+    - 10
+  - - 101
+    - 17
+  - - 103
+    - 9
+  - - 103
+    - 21
+  - - 104
+    - 21
+  - - 104
+    - 24
+  - - 105
+    - 9
+  - - 105
+    - 14
+  - - 105
+    - 20
+  - - 106
+    - 16
+  - - 113
+    - 5
+  - - 117
+    - 8
+  - - 118
+    - 24
+  - - 120
+    - 24
+  - - 129
+    - 5
+  - - 146
+    - 18
+  - - 147
+    - 4
+  - - 147
+    - 12
+  - - 148
+    - 9
+  - - 149
+    - 7
+  - - 151
+    - 14
+  - - 154
+    - 17
+  - - 168
+    - 23
+  - - 168
+    - 24
+  - - 176
+    - 11
+  - - 177
+    - 19
+  - - 183
+    - 4
+  - - 183
+    - 21
+- id: acheux_cafe_hdv
+  nom: Acheux-en-Amiénois, café de l'Hôtel de Ville
+  court: café de l'Hôtel de Ville (Acheux)
+  formes: []
+  attestations:
+  - - 154
+    - 18
+- id: achiet_le_petit
+  nom: Achiet-le-Petit (Pas-de-Calais)
+  court: Achiet-le-Petit
+  formes: []
+  attestations:
+  - - 170
+    - 25
+- id: albert
+  nom: Albert (Somme)
+  court: Albert
+  formes: []
+  attestations:
+  - - 78
+    - 6
+  - - 78
+    - 10
+  - - 79
+    - 6
+  - - 79
+    - 7
+  - - 80
+    - 20
+  - - 83
+    - 16
+  - - 84
+    - 5
+  - - 84
+    - 12
+  - - 87
+    - 14
+  - - 89
+    - 4
+  - - 91
+    - 9
+  - - 91
+    - 16
+  - - 92
+    - 14
+  - - 95
+    - 19
+  - - 96
+    - 3
+  - - 96
+    - 14
+  - - 96
+    - 21
+  - - 99
+    - 5
+  - - 100
+    - 20
+  - - 100
+    - 25
+  - - 164
+    - 8
+  - - 169
+    - 5
+  - - 169
+    - 7
+  - - 171
+    - 20
+  - - 171
+    - 21
+  - - 181
+    - 17
+  - - 182
+    - 8
+- id: albert_basilique
+  nom: Albert, basilique Notre-Dame-de-Brebières
+  court: basilique d'Albert
+  notice: la « Vierge penchée » du clocher
+  formes: []
+  attestations:
+  - - 78
+    - 7
+  - - 83
+    - 6
+  - - 169
+    - 7
+- id: albert_briqueteries
+  nom: Albert, briqueteries
+  court: briqueteries d'Albert
+  notice: secteur des briqueteries (« brickfield area »)
+  formes: []
+  attestations:
+  - - 80
+    - 11
+- id: albert_route_amiens
+  nom: Albert, route d'Amiens
+  court: route d'Amiens (Albert)
+  formes: []
+  attestations:
+  - - 89
+    - 19
+- id: amiens
+  nom: Amiens (Somme)
+  court: Amiens
+  formes: []
+  attestations:
+  - - 51
+    - 9
+  - - 51
+    - 13
+  - - 65
+    - 3
+  - - 119
+    - 2
+  - - 119
+    - 9
+  - - 119
+    - 20
+  - - 126
+    - 18
+  - - 129
+    - 2
+  - - 130
+    - 3
+  - - 146
+    - 5
+  - - 148
+    - 8
+  - - 153
+    - 21
+  - - 171
+    - 22
+  - - 182
+    - 12
+- id: amiens_abri
+  nom: Amiens, Abri du Soldat
+  court: Abri du Soldat (Amiens)
+  notice: foyer pour militaires, boulevard d'Alsace-Lorraine
+  formes: []
+  attestations:
+  - - 130
+    - 6
+- id: amiens_bd_alsace
+  nom: Amiens, boulevard d'Alsace-Lorraine
+  court: bd d'Alsace-Lorraine (Amiens)
+  formes: []
+  attestations:
+  - - 130
+    - 7
+- id: amiens_cathedrale
+  nom: Amiens, cathédrale Notre-Dame
+  court: cathédrale d'Amiens
+  formes: []
+  attestations:
+  - - 119
+    - 15
+  - - 119
+    - 22
+  - - 153
+    - 21
+  - - 182
+    - 14
+- id: amiens_ymca
+  nom: Amiens, foyer Y.M.C.A. de la gare
+  court: Y.M.C.A. Hut (Amiens)
+  notice: baraque-foyer de la Young Men's Christian Association près de la gare
+  formes: []
+  attestations:
+  - - 130
+    - 8
+- id: amiens_hotel_paix
+  nom: Amiens, hôtel de la Paix
+  court: hôtel de la Paix (Amiens)
+  formes: []
+  attestations:
+  - - 119
+    - 11
+- id: amiens_sire_firmin
+  nom: Amiens, rue Sire-Firmin-Leroux
+  court: rue Sire-Firmin-Leroux
+  formes: []
+  attestations:
+  - - 119
+    - 13
+- id: amplier
+  nom: Amplier (Pas-de-Calais)
+  court: Amplier
+  formes: []
+  attestations:
+  - - 100
+    - 8
+  - - 102
+    - 21
+- id: antibes
+  nom: Antibes (Alpes-Maritimes)
+  court: Antibes
+  formes: []
+  attestations:
+  - - 24
+    - 10
+- id: larbret
+  nom: L'Arbret (Pas-de-Calais)
+  court: L'Arbret
+  notice: hameau et gare près de Saulty
+  formes: []
+  attestations:
+  - - 109
+    - 8
+- id: armentieres
+  nom: Armentières (Nord)
+  court: Armentières
+  formes: []
+  attestations:
+  - - 17
+    - 17
+  - - 19
+    - 18
+  - - 22
+    - 7
+- id: arqueves
+  nom: Arquèves (Somme)
+  court: Arquèves
+  formes: []
+  attestations:
+  - - 95
+    - 3
+  - - 106
+    - 23
+  - - 108
+    - 3
+  - - 108
+    - 27
+  - - 111
+    - 9
+  - - 115
+    - 3
+  - - 121
+    - 14
+  - - 122
+    - 19
+  - - 171
+    - 11
+- id: arras
+  nom: Arras (Pas-de-Calais)
+  court: Arras
+  formes: []
+  attestations:
+  - - 32
+    - 7
+  - - 118
+    - 6
+  - - 182
+    - 3
+  - - 182
+    - 26
+- id: artois
+  nom: Artois
+  court: Artois
+  notice: province, région de Saint-Pol et d'Arras
+  formes: []
+  attestations:
+  - - 28
+    - 17
+- id: australie
+  nom: Australie
+  court: Australie
+  formes: []
+  attestations:
+  - - 177
+    - 15
+- id: authie
+  nom: Authie (Somme)
+  court: Authie
+  formes: []
+  attestations:
+  - - 100
+    - 6
+  - - 102
+    - 21
+  - - 107
+    - 3
+  - - 109
+    - 5
+  - - 112
+    - 15
+  - - 112
+    - 24
+  - - 118
+    - 5
+  - - 121
+    - 5
+  - - 122
+    - 19
+  - - 154
+    - 6
+  - - 154
+    - 16
+- id: authieule
+  nom: Authieule (Somme)
+  court: Authieule
+  formes: []
+  attestations:
+  - - 102
+    - 21
+- id: auxi
+  nom: Auxi-le-Château (Pas-de-Calais)
+  court: Auxi-le-Château
+  formes: []
+  attestations:
+  - - 124
+    - 15
+  - - 152
+    - 8
+  - - 158
+    - 5
+- id: aveluy
+  nom: Aveluy (Somme)
+  court: Aveluy
+  formes: []
+  attestations:
+  - - 82
+    - 6
+  - - 151
+    - 2
+- id: bac_saint_maur
+  nom: Bac-Saint-Maur (Pas-de-Calais)
+  court: Bac-Saint-Maur
+  notice: hameau de Sailly-sur-la-Lys, sur la Lys
+  formes: []
+  attestations:
+  - - 13
+    - 9
+  - - 14
+    - 13
+  - - 24
+    - 7
+- id: bailleul
+  nom: Bailleul (Nord)
+  court: Bailleul
+  formes: []
+  attestations:
+  - - 7
+    - 20
+  - - 8
+    - 7
+  - - 8
+    - 15
+  - - 9
+    - 5
+  - - 9
+    - 11
+  - - 9
+    - 15
+  - - 9
+    - 18
+  - - 10
+    - 5
+  - - 12
+    - 12
+  - - 27
+    - 4
+  - - 28
+    - 2
+  - - 28
+    - 22
+- id: bailleul_aux_cornailles
+  nom: Bailleul-aux-Cornailles (Pas-de-Calais)
+  court: Bailleul-aux-Cornailles
+  formes: []
+  attestations:
+  - - 29
+    - 8
+- id: bailleul_saint_vaast
+  nom: Bailleul, église Saint-Vaast
+  court: Saint-Vaast (Bailleul)
+  formes: []
+  attestations:
+  - - 9
+    - 7
+  - - 9
+    - 21
+- id: bailleul_hdv
+  nom: Bailleul, hôtel de ville
+  court: hôtel de ville de Bailleul
+  formes: []
+  attestations:
+  - - 8
+    - 11
+  - - 9
+    - 7
+- id: bailleul_rue_ypres
+  nom: Bailleul, rue d'Ypres
+  court: rue d'Ypres (Bailleul)
+  formes: []
+  attestations:
+  - - 9
+    - 19
+- id: bailleul_rue_lille
+  nom: Bailleul, rue de Lille
+  court: rue de Lille (Bailleul)
+  formes: []
+  attestations:
+  - - 9
+    - 20
+- id: barlette
+  nom: Barlette (Somme)
+  court: Barlette
+  notice: écart près de Ribeaucourt ; cantonnement de la 152nd Company en octobre 1916
+  formes: []
+  attestations:
+  - - 67
+    - 3
+  - - 67
+    - 11
+  - - 67
+    - 17
+  - - 74
+    - 14
+- id: bavelincourt
+  nom: Bavelincourt (Somme)
+  court: Bavelincourt
+  formes: []
+  attestations:
+  - - 157
+    - 5
+- id: bayencourt
+  nom: Bayencourt (Somme)
+  court: Bayencourt
+  formes: []
+  attestations:
+  - - 107
+    - 4
+- id: beaucourt
+  nom: Beaucourt-sur-l'Hallue (Somme)
+  court: Beaucourt
+  notice: identification probable (plutôt que Beaucourt-sur-l'Ancre)
+  formes: []
+  attestations:
+  - - 123
+    - 4
+  - - 155
+    - 18
+  - - 167
+    - 11
+  - - 183
+    - 16
+- id: beaudricourt
+  nom: Beaudricourt (Pas-de-Calais)
+  court: Beaudricourt
+  formes: []
+  attestations:
+  - - 40
+    - 16
+- id: beaumont_hamel
+  nom: Beaumont-Hamel (Somme)
+  court: Beaumont-Hamel
+  notice: « Beaumont s/ Ancre »
+  formes: []
+  attestations:
+  - - 98
+    - 15
+  - - 99
+    - 3
+- id: beauquesne
+  nom: Beauquesne (Somme)
+  court: Beauquesne
+  formes: []
+  attestations:
+  - - 75
+    - 7
+  - - 98
+    - 7
+  - - 112
+    - 7
+  - - 113
+    - 17
+  - - 115
+    - 5
+  - - 115
+    - 6
+  - - 115
+    - 11
+  - - 117
+    - 17
+  - - 120
+    - 17
+  - - 122
+    - 22
+  - - 123
+    - 16
+  - - 178
+    - 7
+- id: beauquesne_continental
+  nom: Beauquesne, café Continental
+  court: café Continental (Beauquesne)
+  formes: []
+  attestations:
+  - - 120
+    - 18
+  - - 122
+    - 23
+- id: beauval
+  nom: Beauval (Somme)
+  court: Beauval
+  formes: []
+  attestations:
+  - - 74
+    - 10
+  - - 74
+    - 15
+  - - 75
+    - 4
+  - - 76
+    - 2
+- id: bedarieux
+  nom: Bédarieux (Hérault)
+  court: Bédarieux
+  formes: []
+  attestations:
+  - - 140
+    - 10
+- id: belle_eglise
+  nom: Belle-Église (ferme ; Somme)
+  court: Belle-Église
+  notice: ferme entre Arquèves et Louvencourt (« Belle Église Farm »), tenue par des fermiers belges ; commune de rattachement non établie
+  formes: []
+  attestations:
+  - - 95
+    - 4
+  - - 106
+    - 23
+  - - 108
+    - 3
+  - - 108
+    - 26
+  - - 110
+    - 12
+  - - 111
+    - 9
+  - - 113
+    - 2
+  - - 117
+    - 16
+  - - 118
+    - 18
+  - - 119
+    - 6
+  - - 122
+    - 4
+  - - 125
+    - 4
+  - - 171
+    - 11
+  - - 175
+    - 5
+  - - 178
+    - 14
+  - - 179
+    - 16
+- id: berguette
+  nom: Berguette (Pas-de-Calais)
+  court: Berguette
+  notice: hameau d'Isbergues
+  formes: []
+  attestations:
+  - - 27
+    - 10
+- id: bernaville
+  nom: Bernaville (Somme)
+  court: Bernaville
+  formes: []
+  attestations:
+  - - 67
+    - 7
+  - - 67
+    - 16
+  - - 69
+    - 6
+  - - 69
+    - 10
+- id: bertrancourt
+  nom: Bertrancourt (Somme)
+  court: Bertrancourt
+  formes: []
+  attestations:
+  - - 92
+    - 2
+  - - 121
+    - 5
+  - - 168
+    - 24
+- id: bethune
+  nom: Béthune (Pas-de-Calais)
+  court: Béthune
+  formes: []
+  attestations:
+  - - 8
+    - 10
+  - - 92
+    - 12
+- id: beziers
+  nom: Béziers (Hérault)
+  court: Béziers
+  formes: []
+  attestations:
+  - - 139
+    - 10
+  - - 139
+    - 13
+  - - 140
+    - 9
+  - - 143
+    - 11
+- id: beziers_cathedrale
+  nom: Béziers, cathédrale Saint-Nazaire
+  court: cathédrale de Béziers
+  formes: []
+  attestations:
+  - - 139
+    - 11
+- id: blagnac
+  nom: Blagnac (Haute-Garonne)
+  court: Blagnac
+  formes: []
+  attestations:
+  - - 56
+    - 13
+- id: la_boisselle
+  nom: La Boisselle (Somme)
+  court: La Boisselle
+  notice: hameau d'Ovillers-la-Boisselle, sur l'ancien front de juillet 1916
+  formes: []
+  attestations:
+  - - 84
+    - 5
+- id: boulogne
+  nom: Boulogne-sur-Mer (Pas-de-Calais)
+  court: Boulogne
+  formes: []
+  attestations:
+  - - 130
+    - 11
+- id: le_bourget
+  nom: Le Bourget (Seine)
+  court: Le Bourget
+  notice: gare régulatrice
+  formes: []
+  attestations:
+  - - 52
+    - 3
+  - - 52
+    - 7
+  - - 53
+    - 11
+- id: bournemouth
+  nom: Bournemouth (Angleterre)
+  court: Bournemouth
+  notice: station balnéaire du Hampshire (auj. Dorset)
+  formes: []
+  attestations:
+  - - 185
+    - 5
+- id: bouzincourt
+  nom: Bouzincourt (Somme)
+  court: Bouzincourt
+  formes: []
+  attestations:
+  - - 77
+    - 2
+  - - 101
+    - 12
+  - - 124
+    - 5
+- id: bresle
+  nom: Bresle (Somme)
+  court: Bresle
+  formes: []
+  attestations:
+  - - 181
+    - 7
+- id: bretagne
+  nom: Bretagne
+  court: Bretagne
+  formes: []
+  attestations:
+  - - 135
+    - 11
+- id: brioude
+  nom: Brioude (Haute-Loire)
+  court: Brioude
+  formes: []
+  attestations:
+  - - 144
+    - 8
+  - - 144
+    - 10
+  - - 145
+    - 16
+- id: buire
+  nom: Buire-sur-l'Ancre (Somme)
+  court: Buire
+  formes: []
+  attestations:
+  - - 105
+    - 4
+  - - 181
+    - 17
+  - - 181
+    - 18
+  - - 182
+    - 8
+- id: bus
+  nom: Bus-lès-Artois (Somme)
+  court: Bus-lès-Artois
+  formes: []
+  attestations:
+  - - 92
+    - 9
+- id: cambrai
+  nom: Cambrai (Nord)
+  court: Cambrai
+  formes: []
+  attestations:
+  - - 185
+    - 7
+- id: canada
+  nom: Canada
+  court: Canada
+  formes: []
+  attestations:
+  - - 127
+    - 3
+- id: canaples
+  nom: Canaples (Somme)
+  court: Canaples
+  formes: []
+  attestations:
+  - - 66
+    - 11
+- id: candas
+  nom: Candas (Somme)
+  court: Candas
+  formes: []
+  attestations:
+  - - 167
+    - 16
+- id: carcassonne
+  nom: Carcassonne (Aude)
+  court: Carcassonne
+  formes: []
+  attestations:
+  - - 139
+    - 9
+- id: castanet
+  nom: Castanet-Tolosan (Haute-Garonne) ?
+  court: Castanet
+  notice: lecture incertaine
+  formes: []
+  attestations:
+  - - 60
+    - 10
+- id: clermont
+  nom: Clermont-Ferrand (Puy-de-Dôme)
+  court: Clermont-Ferrand
+  formes: []
+  attestations:
+  - - 144
+    - 12
+- id: coigneux
+  nom: Coigneux (Somme)
+  court: Coigneux
+  formes: []
+  attestations:
+  - - 107
+    - 6
+- id: coisy
+  nom: Coisy (Somme)
+  court: Coisy
+  formes: []
+  attestations:
+  - - 95
+    - 6
+- id: contay
+  nom: Contay (Somme)
+  court: Contay
+  formes: []
+  attestations:
+  - - 98
+    - 8
+  - - 101
+    - 13
+  - - 159
+    - 4
+  - - 161
+    - 6
+  - - 167
+    - 11
+  - - 169
+    - 6
+  - - 171
+    - 12
+  - - 176
+    - 12
+  - - 177
+    - 19
+  - - 177
+    - 22
+  - - 178
+    - 20
+  - - 181
+    - 8
+  - - 182
+    - 9
+  - - 184
+    - 4
+  - - 184
+    - 10
+  - - 185
+    - 14
+- id: corbeil
+  nom: Corbeil-Essonnes (Seine-et-Oise, auj. Essonne)
+  court: Corbeil-Essonnes
+  formes: []
+  attestations:
+  - - 145
+    - 7
+- id: corbie
+  nom: Corbie (Somme)
+  court: Corbie
+  formes: []
+  attestations:
+  - - 106
+    - 9
+- id: couin
+  nom: Couin (Pas-de-Calais)
+  court: Couin
+  notice: lecture probable ; quartier général du XIIIe corps britannique en octobre–novembre 1916
+  formes: []
+  attestations:
+  - - 154
+    - 17
+- id: creil
+  nom: Creil (Oise)
+  court: Creil
+  formes: []
+  attestations:
+  - - 51
+    - 17
+- id: la_croix_du_bac
+  nom: La Croix-du-Bac (Nord)
+  court: La Croix-du-Bac
+  notice: hameau de Steenwerck
+  formes: []
+  attestations:
+  - - 10
+    - 2
+  - - 10
+    - 13
+  - - 12
+    - 12
+- id: doullens
+  nom: Doullens (Somme)
+  court: Doullens
+  formes: []
+  attestations:
+  - - 51
+    - 8
+  - - 65
+    - 5
+  - - 66
+    - 3
+  - - 66
+    - 9
+  - - 67
+    - 14
+  - - 98
+    - 17
+  - - 98
+    - 20
+  - - 115
+    - 12
+  - - 115
+    - 14
+  - - 123
+    - 15
+  - - 123
+    - 20
+  - - 124
+    - 15
+  - - 128
+    - 23
+  - - 146
+    - 9
+  - - 152
+    - 4
+  - - 152
+    - 18
+  - - 158
+    - 6
+  - - 158
+    - 8
+  - - 158
+    - 11
+  - - 158
+    - 13
+  - - 163
+    - 6
+  - - 163
+    - 14
+  - - 179
+    - 3
+  - - 179
+    - 9
+- id: englebelmer
+  nom: Englebelmer (Somme)
+  court: Englebelmer
+  formes: []
+  attestations:
+  - - 101
+    - 14
+  - - 108
+    - 7
+  - - 110
+    - 11
+- id: erquinghem
+  nom: Erquinghem-Lys (Nord)
+  court: Erquinghem-Lys
+  formes: []
+  attestations:
+  - - 22
+    - 20
+  - - 24
+    - 12
+- id: estaires
+  nom: Estaires (Nord)
+  court: Estaires
+  formes: []
+  attestations:
+  - - 16
+    - 18
+  - - 25
+    - 6
+  - - 25
+    - 20
+- id: estaires_hdv
+  nom: Estaires, hôtel de ville
+  court: hôtel de ville d'Estaires
+  formes: []
+  attestations:
+  - - 25
+    - 10
+- id: flandre
+  nom: Flandre
+  court: Flandre
+  notice: Flandre française (région d'Hazebrouck et de Bailleul)
+  formes: []
+  attestations:
+  - - 2
+    - 5
+- id: fleurbaix
+  nom: Fleurbaix (Pas-de-Calais)
+  court: Fleurbaix
+  formes: []
+  attestations:
+  - - 22
+    - 3
+- id: flixecourt
+  nom: Flixecourt (Somme)
+  court: Flixecourt
+  formes: []
+  attestations:
+  - - 162
+    - 17
+- id: forceville
+  nom: Forceville (Somme)
+  court: Forceville
+  formes: []
+  attestations:
+  - - 45
+    - 10
+  - - 48
+    - 16
+  - - 49
+    - 8
+  - - 50
+    - 8
+  - - 96
+    - 2
+- id: foret_noire
+  nom: Forêt-Noire (Allemagne)
+  court: Forêt-Noire
+  notice: provenance du kirsch
+  formes: []
+  attestations:
+  - - 152
+    - 10
+- id: france
+  nom: France
+  court: France
+  formes: []
+  attestations:
+  - - 112
+    - 18
+- id: franvillers
+  nom: Franvillers (Somme)
+  court: Franvillers
+  formes: []
+  attestations:
+  - - 105
+    - 4
+  - - 117
+    - 4
+- id: frechencourt
+  nom: Fréchencourt (Somme)
+  court: Fréchencourt
+  formes: []
+  attestations:
+  - - 157
+    - 5
+  - - 161
+    - 4
+  - - 162
+    - 22
+  - - 178
+    - 20
+  - - 180
+    - 22
+- id: frevent
+  nom: Frévent (Pas-de-Calais)
+  court: Frévent
+  formes: []
+  attestations:
+  - - 98
+    - 17
+  - - 98
+    - 21
+- id: frevent_hotel_amiens
+  nom: Frévent, hôtel d'Amiens ?
+  court: hôtel d'Amiens
+  notice: hôtel à l'enseigne « d'Amiens », à Frévent (ou à Doullens)
+  formes: []
+  attestations:
+  - - 98
+    - 25
+- id: gannat
+  nom: Gannat (Allier)
+  court: Gannat
+  formes: []
+  attestations:
+  - - 144
+    - 13
+- id: garonne
+  nom: Garonne (fleuve)
+  court: Garonne
+  formes: []
+  attestations:
+  - - 56
+    - 15
+- id: gezaincourt
+  nom: Gézaincourt (Somme)
+  court: Gézaincourt
+  notice: gare près de Doullens
+  formes: []
+  attestations:
+  - - 51
+    - 7
+  - - 128
+    - 20
+  - - 128
+    - 24
+  - - 129
+    - 7
+- id: gien
+  nom: Gien (Loiret)
+  court: Gien
+  formes: []
+  attestations:
+  - - 144
+    - 19
+- id: gommecourt
+  nom: Gommecourt (Pas-de-Calais)
+  court: Gommecourt
+  notice: alors dans les lignes allemandes
+  formes: []
+  attestations:
+  - - 107
+    - 5
+- id: harponville
+  nom: Harponville (Somme)
+  court: Harponville
+  formes: []
+  attestations:
+  - - 110
+    - 13
+  - - 178
+    - 7
+  - - 184
+    - 10
+- id: hazebrouck
+  nom: Hazebrouck (Nord)
+  court: Hazebrouck
+  formes: []
+  attestations:
+  - - 4
+    - 10
+  - - 4
+    - 22
+  - - 5
+    - 12
+  - - 8
+    - 9
+  - - 16
+    - 18
+  - - 27
+    - 9
+- id: hebuterne
+  nom: Hébuterne (Pas-de-Calais)
+  court: Hébuterne
+  formes: []
+  attestations:
+  - - 107
+    - 4
+  - - 116
+    - 4
+- id: hedauville
+  nom: Hédauville (Somme)
+  court: Hédauville
+  formes: []
+  attestations:
+  - - 45
+    - 7
+  - - 77
+    - 2
+  - - 108
+    - 8
+  - - 121
+    - 17
+- id: heilly
+  nom: Heilly (Somme)
+  court: Heilly
+  formes: []
+  attestations:
+  - - 105
+    - 6
+- id: henencourt
+  nom: Hénencourt (Somme)
+  court: Hénencourt
+  formes: []
+  attestations:
+  - - 181
+    - 8
+  - - 181
+    - 16
+  - - 186
+    - 5
+  - - 186
+    - 17
+- id: herissart
+  nom: Hérissart (Somme)
+  court: Hérissart
+  notice: cantonnement d'Hippolyte Combes à partir de novembre 1916
+  formes: []
+  attestations:
+  - - 95
+    - 6
+  - - 99
+    - 19
+  - - 103
+    - 22
+  - - 104
+    - 23
+  - - 106
+    - 7
+  - - 106
+    - 15
+  - - 108
+    - 16
+  - - 124
+    - 8
+  - - 147
+    - 5
+  - - 147
+    - 14
+  - - 153
+    - 11
+  - - 153
+    - 19
+  - - 156
+    - 22
+  - - 157
+    - 25
+  - - 158
+    - 15
+  - - 160
+    - 15
+  - - 162
+    - 9
+  - - 164
+    - 12
+  - - 167
+    - 6
+  - - 168
+    - 7
+  - - 169
+    - 12
+  - - 175
+    - 21
+  - - 176
+    - 15
+  - - 177
+    - 9
+  - - 182
+    - 21
+  - - 183
+    - 24
+  - - 184
+    - 16
+  - - 185
+    - 8
+  - - 185
+    - 16
+- id: herissart_chatelain
+  nom: Hérissart, café Châtelain ?
+  court: café Châtelain (Hérissart)
+  notice: nom de lecture incertaine
+  formes: []
+  attestations:
+  - - 147
+    - 18
+- id: jersey
+  nom: Jersey (îles Anglo-Normandes)
+  court: Jersey
+  formes: []
+  attestations:
+  - - 179
+    - 24
+- id: lauraguais
+  nom: Lauraguais
+  court: Lauraguais
+  notice: région au sud-est de Toulouse
+  formes: []
+  attestations:
+  - - 57
+    - 12
+- id: lavieville
+  nom: Laviéville (Somme)
+  court: Laviéville
+  formes: []
+  attestations:
+  - - 181
+    - 7
+  - - 186
+    - 6
+- id: lealvillers
+  nom: Léalvillers (Somme)
+  court: Léalvillers
+  formes: []
+  attestations:
+  - - 48
+    - 8
+  - - 94
+    - 7
+  - - 95
+    - 22
+  - - 96
+    - 13
+  - - 97
+    - 7
+  - - 101
+    - 23
+  - - 112
+    - 6
+  - - 116
+    - 7
+  - - 177
+    - 20
+- id: ligny
+  nom: Ligny-Saint-Flochel (Pas-de-Calais)
+  court: Ligny-Saint-Flochel
+  formes: []
+  attestations:
+  - - 33
+    - 5
+  - - 33
+    - 9
+  - - 39
+    - 6
+- id: lillers
+  nom: Lillers (Pas-de-Calais)
+  court: Lillers
+  formes: []
+  attestations:
+  - - 27
+    - 9
+- id: longueau
+  nom: Longueau (Somme)
+  court: Longueau
+  notice: nœud ferroviaire près d'Amiens
+  formes: []
+  attestations:
+  - - 51
+    - 14
+- id: louvencourt
+  nom: Louvencourt (Somme)
+  court: Louvencourt
+  formes: []
+  attestations:
+  - - 99
+    - 18
+  - - 106
+    - 23
+  - - 107
+    - 15
+  - - 112
+    - 16
+  - - 112
+    - 17
+  - - 114
+    - 4
+  - - 116
+    - 20
+  - - 118
+    - 14
+  - - 118
+    - 22
+  - - 121
+    - 4
+  - - 122
+    - 20
+  - - 122
+    - 21
+  - - 123
+    - 12
+  - - 126
+    - 9
+  - - 146
+    - 14
+- id: louvencourt_cuisinier
+  nom: Louvencourt, ferme Cuisinier
+  court: ferme Cuisinier
+  notice: ferme de Mme Cuisinier
+  formes: []
+  attestations:
+  - - 118
+    - 14
+- id: lucheux
+  nom: Lucheux (Somme)
+  court: Lucheux
+  formes: []
+  attestations:
+  - - 41
+    - 11
+- id: lynde
+  nom: Lynde (Nord)
+  court: Lynde
+  formes: []
+  attestations:
+  - - 5
+    - 20
+- id: lys
+  nom: Lys (rivière)
+  court: Lys
+  formes: []
+  attestations:
+  - - 18
+    - 6
+  - - 19
+    - 8
+- id: marcelcave
+  nom: Marcelcave (Somme)
+  court: Marcelcave
+  formes: []
+  attestations:
+  - - 106
+    - 8
+- id: marquay
+  nom: Marquay (Pas-de-Calais)
+  court: Marquay
+  notice: près de Saint-Pol-sur-Ternoise
+  formes: []
+  attestations:
+  - - 28
+    - 15
+  - - 29
+    - 9
+  - - 39
+    - 2
+  - - 39
+    - 23
+- id: marquay_collet
+  nom: Marquay, ferme Collet
+  court: ferme Collet
+  notice: ferme près de Marquay
+  formes: []
+  attestations:
+  - - 38
+    - 10
+- id: martinsart
+  nom: Martinsart (Somme)
+  court: Martinsart
+  formes: []
+  attestations:
+  - - 104
+    - 4
+  - - 105
+    - 23
+  - - 117
+    - 6
+  - - 150
+    - 16
+  - - 150
+    - 19
+  - - 159
+    - 18
+  - - 168
+    - 6
+- id: martinsart_chateau
+  nom: Martinsart, château
+  court: château de Martinsart
+  formes: []
+  attestations:
+  - - 150
+    - 19
+- id: meaulte
+  nom: Méaulte (Somme)
+  court: Méaulte
+  formes: []
+  attestations:
+  - - 153
+    - 4
+- id: mericourt
+  nom: Méricourt-l'Abbé (Somme)
+  court: Méricourt-l'Abbé
+  formes: []
+  attestations:
+  - - 153
+    - 6
+- id: mesnil
+  nom: Mesnil-Martinsart (Somme)
+  court: Mesnil
+  notice: '« au Mesnil » : village natal de Louis-Fernand Flutre, fils des instituteurs Flutre'
+  formes: []
+  attestations:
+  - - 168
+    - 9
+- id: millau
+  nom: Millau (Aveyron)
+  court: Millau
+  notice: ville natale de Marguerite Calmels
+  formes: []
+  attestations:
+  - - 138
+    - 17
+  - - 139
+    - 16
+  - - 140
+    - 9
+- id: millencourt
+  nom: Millencourt (Somme)
+  court: Millencourt
+  formes: []
+  attestations:
+  - - 182
+    - 8
+  - - 186
+    - 6
+- id: miraumont
+  nom: Miraumont (Somme)
+  court: Miraumont
+  formes: []
+  attestations:
+  - - 122
+    - 3
+  - - 170
+    - 25
+- id: mirvaux
+  nom: Mirvaux (Somme)
+  court: Mirvaux
+  formes: []
+  attestations:
+  - - 159
+    - 7
+  - - 169
+    - 4
+  - - 171
+    - 18
+  - - 183
+    - 15
+  - - 185
+    - 20
+- id: molliens
+  nom: Molliens-au-Bois (Somme)
+  court: Molliens-au-Bois
+  formes: []
+  attestations:
+  - - 158
+    - 23
+  - - 167
+    - 12
+  - - 171
+    - 19
+  - - 174
+    - 14
+  - - 182
+    - 18
+- id: mont_noir
+  nom: Mont-Noir (Nord)
+  court: Mont-Noir
+  notice: hauteur et hameau de Saint-Jans-Cappel
+  formes: []
+  attestations:
+  - - 6
+    - 5
+- id: montargis
+  nom: Montargis (Loiret)
+  court: Montargis
+  formes: []
+  attestations:
+  - - 144
+    - 19
+- id: montigny
+  nom: Montigny-sur-l'Hallue (Somme)
+  court: Montigny
+  formes: []
+  attestations:
+  - - 119
+    - 6
+  - - 123
+    - 5
+  - - 158
+    - 25
+  - - 161
+    - 4
+  - - 161
+    - 19
+  - - 162
+    - 22
+  - - 183
+    - 17
+- id: monts_en_ternois
+  nom: Monts-en-Ternois (Pas-de-Calais)
+  court: Monts-en-Ternois
+  formes: []
+  attestations:
+  - - 39
+    - 13
+- id: neuilly
+  nom: Neuilly-sur-Seine (Seine)
+  court: Neuilly
+  formes: []
+  attestations:
+  - - 130
+    - 20
+- id: neuilly_armenonville
+  nom: Neuilly-sur-Seine, rue d'Armenonville
+  court: rue d'Armenonville
+  formes: []
+  attestations:
+  - - 130
+    - 22
+- id: nice
+  nom: Nice (Alpes-Maritimes)
+  court: Nice
+  formes: []
+  attestations:
+  - - 134
+    - 7
+  - - 136
+    - 21
+  - - 158
+    - 12
+- id: nogent
+  nom: Nogent-le-Rotrou (Eure-et-Loir)
+  court: Nogent
+  notice: domicile d'Hippolyte Combes avant la guerre
+  formes: []
+  attestations:
+  - - 23
+    - 21
+  - - 24
+    - 13
+- id: oppy
+  nom: Oppy (Pas-de-Calais)
+  court: Oppy
+  notice: hameau de Beaudricourt
+  formes: []
+  attestations:
+  - - 40
+    - 9
+  - - 40
+    - 11
+  - - 41
+    - 3
+- id: orville
+  nom: Orville (Pas-de-Calais)
+  court: Orville
+  formes: []
+  attestations:
+  - - 100
+    - 8
+  - - 109
+    - 4
+  - - 109
+    - 7
+  - - 112
+    - 15
+- id: ostreville
+  nom: Ostreville (Pas-de-Calais)
+  court: Ostreville
+  formes: []
+  attestations:
+  - - 32
+    - 16
+- id: paris
+  nom: Paris
+  court: Paris
+  formes: []
+  attestations:
+  - - 51
+    - 10
+  - - 65
+    - 7
+  - - 99
+    - 22
+  - - 116
+    - 15
+  - - 122
+    - 10
+  - - 130
+    - 11
+  - - 130
+    - 16
+  - - 132
+    - 2
+  - - 145
+    - 2
+  - - 145
+    - 9
+  - - 148
+    - 7
+- id: paris_bastille
+  nom: Paris, Bastille (station de métro)
+  court: Bastille
+  formes: []
+  attestations:
+  - - 145
+    - 10
+- id: paris_bhv
+  nom: Paris, Bazar de l'Hôtel de Ville
+  court: Bazar de l'Hôtel de Ville
+  notice: grand magasin, rue de Rivoli
+  formes: []
+  attestations:
+  - - 53
+    - 4
+  - - 53
+    - 18
+  - - 131
+    - 12
+  - - 132
+    - 8
+- id: paris_bon_marche
+  nom: Paris, Bon Marché
+  court: Bon Marché
+  notice: grand magasin, rue de Sèvres
+  formes: []
+  attestations:
+  - - 52
+    - 18
+  - - 53
+    - 19
+- id: paris_bd_saint_germain
+  nom: Paris, boulevard Saint-Germain
+  court: boulevard Saint-Germain
+  formes: []
+  attestations:
+  - - 53
+    - 2
+- id: paris_bd_saint_michel
+  nom: Paris, boulevard Saint-Michel
+  court: boulevard Saint-Michel
+  formes: []
+  attestations:
+  - - 131
+    - 10
+- id: paris_chatelet
+  nom: Paris, Châtelet (station de métro)
+  court: Châtelet
+  formes: []
+  attestations:
+  - - 52
+    - 10
+  - - 63
+    - 5
+- id: paris_polytechnique
+  nom: Paris, École polytechnique
+  court: Polytechnique
+  formes: []
+  attestations:
+  - - 131
+    - 7
+- id: paris_saint_vincent
+  nom: Paris, église Saint-Vincent-de-Paul
+  court: Saint-Vincent-de-Paul
+  notice: Xe arrondissement
+  formes: []
+  attestations:
+  - - 63
+    - 9
+- id: paris_gare_orsay
+  nom: Paris, gare d'Orsay
+  court: gare d'Orsay
+  notice: tête de ligne du Paris-Orléans vers Toulouse
+  formes: []
+  attestations:
+  - - 52
+    - 11
+  - - 53
+    - 9
+  - - 63
+    - 3
+  - - 64
+    - 10
+  - - 130
+    - 17
+  - - 131
+    - 14
+  - - 132
+    - 3
+- id: paris_gare_lyon
+  nom: Paris, gare de Lyon
+  court: gare de Lyon
+  formes: []
+  attestations:
+  - - 145
+    - 10
+- id: paris_gare_nord
+  nom: Paris, gare du Nord
+  court: gare du Nord
+  formes: []
+  attestations:
+  - - 52
+    - 9
+  - - 53
+    - 11
+  - - 63
+    - 6
+  - - 63
+    - 7
+  - - 63
+    - 19
+  - - 130
+    - 16
+  - - 132
+    - 2
+  - - 145
+    - 11
+- id: paris_louvre
+  nom: Paris, Grands Magasins du Louvre
+  court: Magasins du Louvre
+  notice: grand magasin, rue de Rivoli
+  formes: []
+  attestations:
+  - - 63
+    - 14
+  - - 63
+    - 17
+- id: paris_invalides
+  nom: Paris, Invalides
+  court: Invalides
+  formes: []
+  attestations:
+  - - 52
+    - 13
+- id: paris_luxembourg
+  nom: Paris, jardin du Luxembourg
+  court: Luxembourg
+  formes: []
+  attestations:
+  - - 52
+    - 20
+- id: paris_christofle
+  nom: Paris, magasin Christofle
+  court: Christofle
+  notice: orfèvre
+  formes: []
+  attestations:
+  - - 53
+    - 14
+- id: paris_notre_dame
+  nom: Paris, Notre-Dame
+  court: Notre-Dame de Paris
+  formes: []
+  attestations:
+  - - 53
+    - 3
+- id: paris_porte_maillot
+  nom: Paris, Porte Maillot (station de métro)
+  court: Porte Maillot
+  notice: terminus de la ligne 1
+  formes: []
+  attestations:
+  - - 130
+    - 20
+- id: paris_rue_flandre
+  nom: Paris, rue de Flandre
+  court: rue de Flandre (Paris)
+  notice: XIXe arrondissement
+  formes: []
+  attestations:
+  - - 52
+    - 7
+- id: paris_rue_rennes
+  nom: Paris, rue de Rennes
+  court: rue de Rennes
+  formes: []
+  attestations:
+  - - 52
+    - 19
+- id: paris_rivoli
+  nom: Paris, rue de Rivoli
+  court: rue de Rivoli
+  formes: []
+  attestations:
+  - - 53
+    - 7
+  - - 131
+    - 13
+- id: paris_rue_bac
+  nom: Paris, rue du Bac
+  court: rue du Bac
+  formes: []
+  attestations:
+  - - 52
+    - 17
+- id: paris_rue_la_fayette
+  nom: Paris, rue La Fayette
+  court: rue La Fayette (Paris)
+  formes: []
+  attestations:
+  - - 63
+    - 8
+- id: paris_saint_jacques
+  nom: Paris, tour Saint-Jacques
+  court: tour Saint-Jacques
+  notice: square de la Tour-Saint-Jacques
+  formes: []
+  attestations:
+  - - 53
+    - 6
+- id: paris_tuileries
+  nom: Paris, Tuileries (station de métro)
+  court: Tuileries
+  notice: ligne 1 du métro
+  formes: []
+  attestations:
+  - - 52
+    - 10
+  - - 63
+    - 5
+  - - 130
+    - 20
+- id: pas_de_calais
+  nom: Pas-de-Calais (département)
+  court: Pas-de-Calais
+  formes: []
+  attestations:
+  - - 36
+    - 8
+- id: pas_en_artois
+  nom: Pas-en-Artois (Pas-de-Calais)
+  court: Pas-en-Artois
+  formes: []
+  attestations:
+  - - 118
+    - 6
+- id: pierregot
+  nom: Pierregot (Somme)
+  court: Pierregot
+  formes: []
+  attestations:
+  - - 104
+    - 15
+  - - 157
+    - 21
+  - - 169
+    - 4
+  - - 171
+    - 19
+  - - 174
+    - 14
+  - - 174
+    - 19
+  - - 175
+    - 6
+  - - 178
+    - 14
+  - - 180
+    - 4
+  - - 180
+    - 12
+  - - 182
+    - 19
+  - - 183
+    - 3
+  - - 183
+    - 13
+  - - 183
+    - 23
+  - - 184
+    - 4
+  - - 184
+    - 12
+  - - 185
+    - 4
+  - - 186
+    - 8
+- id: pont_a_mousson
+  nom: Pont-à-Mousson (Meurthe-et-Moselle)
+  court: Pont-à-Mousson
+  formes: []
+  attestations:
+  - - 130
+    - 5
+- id: pont_noyelles
+  nom: Pont-Noyelles (Somme)
+  court: Pont-Noyelles
+  formes: []
+  attestations:
+  - - 161
+    - 5
+- id: prouville
+  nom: Prouville (Somme)
+  court: Prouville
+  formes: []
+  attestations:
+  - - 73
+    - 16
+- id: provence
+  nom: Provence
+  court: Provence
+  formes: []
+  attestations:
+  - - 24
+    - 9
+- id: puchevillers
+  nom: Puchevillers (Somme)
+  court: Puchevillers
+  formes: []
+  attestations:
+  - - 75
+    - 9
+  - - 104
+    - 15
+  - - 110
+    - 12
+  - - 112
+    - 16
+  - - 125
+    - 5
+  - - 125
+    - 13
+  - - 147
+    - 15
+  - - 154
+    - 6
+  - - 154
+    - 7
+  - - 155
+    - 5
+  - - 158
+    - 9
+  - - 162
+    - 5
+  - - 162
+    - 23
+  - - 166
+    - 18
+  - - 167
+    - 15
+  - - 168
+    - 17
+  - - 169
+    - 16
+  - - 170
+    - 8
+  - - 170
+    - 20
+  - - 171
+    - 10
+  - - 171
+    - 18
+  - - 172
+    - 17
+  - - 173
+    - 13
+  - - 173
+    - 20
+  - - 174
+    - 4
+  - - 174
+    - 19
+  - - 183
+    - 4
+  - - 184
+    - 4
+  - - 184
+    - 6
+  - - 186
+    - 8
+- id: quesnoy
+  nom: Quesnoy (ferme du ; Somme) ?
+  court: ferme du Quesnoy
+  notice: écart des environs de Raincheval et de Beauquesne, non identifié avec certitude
+  formes: []
+  attestations:
+  - - 111
+    - 11
+  - - 112
+    - 4
+  - - 113
+    - 17
+  - - 115
+    - 5
+  - - 116
+    - 19
+  - - 118
+    - 4
+  - - 118
+    - 18
+- id: raincheval
+  nom: Raincheval (Somme)
+  court: Raincheval
+  formes: []
+  attestations:
+  - - 41
+    - 5
+  - - 41
+    - 12
+  - - 41
+    - 20
+  - - 41
+    - 21
+  - - 43
+    - 16
+  - - 43
+    - 19
+  - - 47
+    - 4
+  - - 91
+    - 1
+  - - 97
+    - 6
+  - - 98
+    - 17
+  - - 99
+    - 18
+  - - 104
+    - 14
+  - - 107
+    - 15
+  - - 108
+    - 5
+  - - 111
+    - 10
+  - - 113
+    - 3
+  - - 113
+    - 17
+  - - 115
+    - 3
+  - - 116
+    - 19
+  - - 117
+    - 17
+  - - 118
+    - 16
+  - - 121
+    - 14
+  - - 121
+    - 16
+  - - 122
+    - 22
+  - - 123
+    - 19
+  - - 125
+    - 5
+  - - 125
+    - 14
+  - - 147
+    - 14
+  - - 155
+    - 4
+  - - 167
+    - 16
+- id: raincheval_chateau
+  nom: Raincheval, château
+  court: château de Raincheval
+  formes: []
+  attestations:
+  - - 42
+    - 17
+  - - 44
+    - 10
+- id: rainneville
+  nom: Rainneville (Somme)
+  court: Rainneville
+  formes: []
+  attestations:
+  - - 174
+    - 20
+  - - 175
+    - 6
+- id: ramecourt
+  nom: Ramecourt (Pas-de-Calais)
+  court: Ramecourt
+  formes: []
+  attestations:
+  - - 32
+    - 5
+- id: renescure
+  nom: Renescure (Nord)
+  court: Renescure
+  formes: []
+  attestations:
+  - - 4
+    - 3
+  - - 4
+    - 18
+  - - 4
+    - 20
+- id: ribeaucourt
+  nom: Ribeaucourt (Somme)
+  court: Ribeaucourt
+  formes: []
+  attestations:
+  - - 67
+    - 3
+  - - 72
+    - 5
+- id: ribemont
+  nom: Ribemont-sur-Ancre (Somme)
+  court: Ribemont
+  formes: []
+  attestations:
+  - - 105
+    - 6
+  - - 153
+    - 6
+  - - 169
+    - 9
+  - - 181
+    - 17
+  - - 181
+    - 20
+- id: roellecourt
+  nom: Roëllecourt (Pas-de-Calais)
+  court: Roëllecourt
+  formes: []
+  attestations:
+  - - 35
+    - 4
+  - - 35
+    - 18
+- id: roumanie
+  nom: Roumanie
+  court: Roumanie
+  formes: []
+  attestations:
+  - - 30
+    - 23
+  - - 53
+    - 21
+- id: rubempre
+  nom: Rubempré (Somme)
+  court: Rubempré
+  formes: []
+  attestations:
+  - - 95
+    - 6
+  - - 104
+    - 15
+  - - 112
+    - 4
+  - - 122
+    - 24
+  - - 124
+    - 5
+  - - 149
+    - 4
+  - - 161
+    - 3
+  - - 162
+    - 4
+  - - 162
+    - 23
+  - - 172
+    - 16
+  - - 172
+    - 21
+  - - 173
+    - 12
+  - - 174
+    - 5
+  - - 174
+    - 18
+  - - 175
+    - 20
+  - - 177
+    - 10
+  - - 177
+    - 20
+  - - 178
+    - 7
+  - - 180
+    - 22
+  - - 181
+    - 15
+  - - 184
+    - 12
+  - - 184
+    - 13
+- id: russie
+  nom: Russie
+  court: Russie
+  formes: []
+  attestations:
+  - - 100
+    - 11
+- id: marquay_ryonval
+  nom: Ryonval (Pas-de-Calais) ?
+  court: Ryonval
+  notice: lieu-dit près de Marquay, lecture incertaine
+  formes: []
+  attestations:
+  - - 38
+    - 9
+- id: sailly
+  nom: Sailly-sur-la-Lys (Pas-de-Calais)
+  court: Sailly-sur-la-Lys
+  formes: []
+  attestations:
+  - - 16
+    - 7
+- id: saint_flour
+  nom: Saint-Flour (Cantal)
+  court: Saint-Flour
+  formes: []
+  attestations:
+  - - 143
+    - 16
+- id: saint_jans_cappel
+  nom: Saint-Jans-Cappel (Nord)
+  court: Saint-Jans-Cappel
+  formes: []
+  attestations:
+  - - 6
+    - 5
+  - - 6
+    - 18
+  - - 7
+    - 6
+  - - 12
+    - 20
+- id: saint_leger
+  nom: Saint-Léger-lès-Authie (Somme)
+  court: Saint-Léger
+  formes: []
+  attestations:
+  - - 108
+    - 24
+  - - 112
+    - 15
+  - - 121
+    - 14
+  - - 122
+    - 4
+  - - 122
+    - 21
+  - - 123
+    - 13
+- id: saint_michel_ternoise
+  nom: Saint-Michel-sur-Ternoise (Pas-de-Calais)
+  court: Saint-Michel-sur-Ternoise
+  formes: []
+  attestations:
+  - - 32
+    - 6
+  - - 37
+    - 20
+- id: saint_pol
+  nom: Saint-Pol-sur-Ternoise (Pas-de-Calais)
+  court: Saint-Pol
+  formes: []
+  attestations:
+  - - 27
+    - 10
+  - - 28
+    - 22
+  - - 32
+    - 3
+  - - 32
+    - 7
+  - - 32
+    - 18
+  - - 34
+    - 13
+  - - 34
+    - 17
+  - - 36
+    - 7
+  - - 37
+    - 18
+- id: saulty
+  nom: Saulty (Pas-de-Calais)
+  court: Saulty
+  formes: []
+  attestations:
+  - - 109
+    - 8
+  - - 118
+    - 5
+- id: senlis
+  nom: Senlis-le-Sec (Somme)
+  court: Senlis
+  formes: []
+  attestations:
+  - - 75
+    - 16
+  - - 77
+    - 1
+  - - 87
+    - 7
+  - - 96
+    - 4
+  - - 110
+    - 7
+  - - 112
+    - 3
+  - - 117
+    - 7
+  - - 124
+    - 5
+  - - 151
+    - 12
+  - - 159
+    - 18
+  - - 169
+    - 6
+  - - 171
+    - 13
+  - - 171
+    - 20
+  - - 181
+    - 15
+- id: septenville
+  nom: Septenville (Somme)
+  court: Septenville
+  notice: hameau de Rubempré
+  formes: []
+  attestations:
+  - - 104
+    - 15
+  - - 104
+    - 22
+  - - 106
+    - 7
+  - - 120
+    - 16
+  - - 122
+    - 24
+- id: septenville_moulard
+  nom: Septenville, ferme Moulard
+  court: ferme Moulard
+  formes: []
+  attestations:
+  - - 120
+    - 16
+- id: sercus
+  nom: Sercus (Nord) ?
+  court: Sercus
+  notice: lecture proposée
+  formes: []
+  attestations:
+  - - 2
+    - 10
+- id: somme
+  nom: Somme (département)
+  court: Somme
+  formes: []
+  attestations:
+  - - 36
+    - 8
+  - - 179
+    - 10
+- id: somme_bataille
+  nom: Somme, bataille de la
+  court: bataille de la Somme
+  notice: offensive franco-britannique de juillet–novembre 1916
+  formes: []
+  attestations:
+  - - 89
+    - 15
+- id: steenwerck
+  nom: Steenwerck (Nord)
+  court: Steenwerck
+  formes: []
+  attestations:
+  - - 10
+    - 5
+  - - 12
+    - 15
+  - - 23
+    - 22
+  - - 24
+    - 4
+  - - 24
+    - 14
+  - - 24
+    - 16
+  - - 26
+    - 5
+  - - 26
+    - 14
+- id: thievres
+  nom: Thièvres (Somme)
+  court: Thièvres
+  notice: village partagé entre la Somme et le Pas-de-Calais
+  formes: []
+  attestations:
+  - - 41
+    - 20
+- id: toulon
+  nom: Toulon (Var)
+  court: Toulon
+  formes: []
+  attestations:
+  - - 97
+    - 16
+  - - 124
+    - 21
+- id: toulouse
+  nom: Toulouse (Haute-Garonne)
+  court: Toulouse
+  formes: []
+  attestations:
+  - - 47
+    - 13
+  - - 52
+    - 16
+  - - 53
+    - 13
+  - - 54
+    - 3
+  - - 132
+    - 7
+  - - 132
+    - 13
+  - - 137
+    - 15
+  - - 138
+    - 16
+  - - 140
+    - 5
+  - - 156
+    - 19
+- id: tls_saint_sernin
+  nom: Toulouse, basilique Saint-Sernin
+  court: Saint-Sernin
+  formes: []
+  attestations:
+  - - 134
+    - 12
+  - - 134
+    - 24
+  - - 136
+    - 4
+- id: tls_capitole
+  nom: Toulouse, Capitole
+  court: Capitole
+  formes: []
+  attestations:
+  - - 60
+    - 7
+  - - 134
+    - 16
+  - - 134
+    - 18
+  - - 134
+    - 22
+  - - 137
+    - 6
+- id: tls_saint_etienne
+  nom: Toulouse, cathédrale Saint-Étienne
+  court: Saint-Étienne (Toulouse)
+  formes: []
+  attestations:
+  - - 58
+    - 2
+  - - 60
+    - 2
+  - - 60
+    - 4
+- id: tls_terre_cabade
+  nom: Toulouse, cimetière de Terre-Cabade
+  court: Terre-Cabade
+  formes: []
+  attestations:
+  - - 57
+    - 19
+- id: tls_cote_pavee
+  nom: Toulouse, Côte Pavée
+  court: Côte Pavée
+  notice: quartier de l'est de Toulouse
+  formes: []
+  attestations:
+  - - 54
+    - 10
+  - - 55
+    - 20
+  - - 59
+    - 16
+  - - 134
+    - 19
+- id: tls_gare
+  nom: Toulouse, gare Matabiau
+  court: gare de Toulouse
+  formes: []
+  attestations:
+  - - 62
+    - 14
+- id: tls_assezat
+  nom: Toulouse, hôtel d'Assézat
+  court: hôtel d'Assézat
+  formes: []
+  attestations:
+  - - 136
+    - 7
+- id: tls_lardenne
+  nom: Toulouse, Lardenne
+  court: Lardenne
+  notice: quartier de l'ouest de Toulouse
+  formes: []
+  attestations:
+  - - 58
+    - 7
+- id: tls_labit
+  nom: Toulouse, magasins Labit ?
+  court: Labit
+  notice: cité avec les magasins du Capitole ; identification incertaine
+  formes: []
+  attestations:
+  - - 134
+    - 16
+- id: tls_victor_hugo
+  nom: Toulouse, marché Victor-Hugo
+  court: marché Victor-Hugo
+  notice: halles
+  formes: []
+  attestations:
+  - - 60
+    - 6
+  - - 60
+    - 17
+  - - 136
+    - 5
+  - - 136
+    - 14
+- id: tls_montaudran
+  nom: Toulouse, Montaudran
+  court: Montaudran
+  notice: village, auj. quartier de Toulouse
+  formes: []
+  attestations:
+  - - 57
+    - 9
+- id: tls_nazareth
+  nom: Toulouse, Nazareth
+  court: Nazareth
+  notice: quartier et chapelle de Nazareth
+  formes: []
+  attestations:
+  - - 59
+    - 14
+  - - 137
+    - 9
+- id: tls_dalbade
+  nom: Toulouse, Notre-Dame de la Dalbade
+  court: la Dalbade
+  notice: église
+  formes: []
+  attestations:
+  - - 136
+    - 8
+- id: tls_daurade
+  nom: Toulouse, Notre-Dame de la Daurade
+  court: la Daurade
+  notice: basilique
+  formes: []
+  attestations:
+  - - 136
+    - 8
+- id: tls_pech_david
+  nom: Toulouse, Pech-David
+  court: Pech-David
+  notice: colline au sud de Toulouse
+  formes: []
+  attestations:
+  - - 55
+    - 16
+- id: tls_belfort
+  nom: Toulouse, place Belfort
+  court: place Belfort
+  formes: []
+  attestations:
+  - - 138
+    - 15
+- id: tls_esquirol
+  nom: Toulouse, place Esquirol
+  court: place Esquirol
+  formes: []
+  attestations:
+  - - 55
+    - 23
+  - - 56
+    - 9
+- id: tls_pont_touch
+  nom: Toulouse, pont du Touch
+  court: pont du Touch
+  formes: []
+  attestations:
+  - - 58
+    - 8
+- id: tls_ponts_jumeaux
+  nom: Toulouse, Ponts-Jumeaux
+  court: Ponts-Jumeaux
+  formes: []
+  attestations:
+  - - 56
+    - 17
+- id: tls_pouvourville
+  nom: Toulouse, Pouvourville
+  court: Pouvourville
+  notice: quartier du sud de Toulouse
+  formes: []
+  attestations:
+  - - 55
+    - 14
+- id: tls_purpan
+  nom: Toulouse, Purpan
+  court: Purpan
+  notice: quartier de l'ouest de Toulouse
+  formes: []
+  attestations:
+  - - 56
+    - 9
+- id: tls_recollets
+  nom: Toulouse, Récollets
+  court: Récollets
+  notice: carrefour des Récollets
+  formes: []
+  attestations:
+  - - 55
+    - 17
+- id: tls_automate
+  nom: Toulouse, restaurant L'Automate
+  court: L'Automate
+  formes: []
+  attestations:
+  - - 60
+    - 5
+  - - 60
+    - 18
+- id: tls_rue_alsace
+  nom: Toulouse, rue d'Alsace-Lorraine
+  court: rue d'Alsace-Lorraine
+  formes: []
+  attestations:
+  - - 56
+    - 18
+  - - 59
+    - 15
+  - - 60
+    - 5
+  - - 134
+    - 17
+- id: tls_rue_languedoc
+  nom: Toulouse, rue de Languedoc
+  court: rue de Languedoc
+  notice: domicile toulousain d'Hippolyte Combes (n° 24)
+  formes: []
+  attestations:
+  - - 137
+    - 13
+- id: tls_rue_la_fayette
+  nom: Toulouse, rue La Fayette
+  court: rue La Fayette (Toulouse)
+  formes: []
+  attestations:
+  - - 138
+    - 5
+- id: tls_rue_saint_joseph
+  nom: Toulouse, rue Saint-Joseph
+  court: rue Saint-Joseph
+  formes: []
+  attestations:
+  - - 60
+    - 10
+- id: tls_saint_agne
+  nom: Toulouse, Saint-Agne
+  court: Saint-Agne
+  notice: quartier et barrière de Saint-Agne
+  formes: []
+  attestations:
+  - - 55
+    - 12
+  - - 55
+    - 13
+  - - 55
+    - 18
+- id: tls_saint_joseph
+  nom: Toulouse, Saint-Joseph
+  court: Saint-Joseph
+  notice: quartier
+  formes: []
+  attestations:
+  - - 55
+    - 11
+- id: tls_saint_michel
+  nom: Toulouse, Saint-Michel
+  court: Saint-Michel (Toulouse)
+  notice: quartier
+  formes: []
+  attestations:
+  - - 132
+    - 17
+- id: tls_sainte_marie
+  nom: Toulouse, Sainte-Marie-des-Champs
+  court: Sainte-Marie
+  notice: maison de l'oncle Émile Crouzet, où séjournent Marguerite Calmels et sa mère ; ancien noviciat des jésuites, quartier de la Côte Pavée
+  formes: []
+  attestations:
+  - - 54
+    - 5
+  - - 55
+    - 6
+  - - 57
+    - 5
+  - - 58
+    - 6
+  - - 59
+    - 5
+  - - 62
+    - 7
+  - - 132
+    - 21
+  - - 133
+    - 5
+  - - 134
+    - 9
+  - - 134
+    - 20
+  - - 135
+    - 8
+  - - 136
+    - 11
+  - - 137
+    - 7
+  - - 137
+    - 12
+  - - 138
+    - 9
+  - - 139
+    - 6
+- id: tls_thermes
+  nom: Toulouse, Thermes du Languedoc
+  court: Thermes du Languedoc
+  notice: établissement de bains
+  formes: []
+  attestations:
+  - - 54
+    - 14
+  - - 62
+    - 5
+  - - 64
+    - 11
+- id: toutencourt
+  nom: Toutencourt (Somme)
+  court: Toutencourt
+  notice: siège de la Mission française auprès de la Ve armée britannique
+  formes: []
+  attestations:
+  - - 99
+    - 18
+  - - 105
+    - 7
+  - - 110
+    - 10
+  - - 111
+    - 10
+  - - 112
+    - 16
+  - - 118
+    - 4
+  - - 118
+    - 19
+  - - 124
+    - 8
+  - - 150
+    - 3
+  - - 152
+    - 3
+  - - 154
+    - 19
+  - - 155
+    - 4
+  - - 156
+    - 17
+  - - 156
+    - 20
+  - - 156
+    - 24
+  - - 159
+    - 12
+  - - 160
+    - 6
+  - - 160
+    - 11
+  - - 161
+    - 12
+  - - 162
+    - 7
+  - - 162
+    - 11
+  - - 163
+    - 8
+  - - 164
+    - 11
+  - - 164
+    - 13
+  - - 166
+    - 8
+  - - 166
+    - 17
+  - - 167
+    - 11
+  - - 167
+    - 17
+  - - 169
+    - 15
+  - - 169
+    - 21
+  - - 170
+    - 4
+  - - 170
+    - 16
+  - - 174
+    - 19
+  - - 175
+    - 19
+  - - 176
+    - 3
+  - - 177
+    - 3
+  - - 177
+    - 10
+  - - 177
+    - 20
+  - - 178
+    - 6
+  - - 182
+    - 6
+  - - 182
+    - 11
+  - - 182
+    - 18
+  - - 183
+    - 3
+  - - 183
+    - 13
+- id: toutencourt_rue_raincheval
+  nom: Toutencourt, rue de Raincheval
+  court: rue de Raincheval (Toutencourt)
+  formes: []
+  attestations:
+  - - 166
+    - 10
+- id: treux
+  nom: Treux (Somme)
+  court: Treux
+  formes: []
+  attestations:
+  - - 153
+    - 6
+- id: vadencourt
+  nom: Vadencourt (Somme)
+  court: Vadencourt
+  formes: []
+  attestations:
+  - - 186
+    - 5
+- id: varennes
+  nom: Varennes (Somme)
+  court: Varennes
+  formes: []
+  attestations:
+  - - 50
+    - 12
+  - - 96
+    - 4
+  - - 96
+    - 12
+  - - 97
+    - 10
+  - - 97
+    - 19
+  - - 98
+    - 8
+  - - 121
+    - 18
+  - - 128
+    - 10
+  - - 176
+    - 12
+  - - 184
+    - 10
+  - - 184
+    - 14
+- id: verdun
+  nom: Verdun (Meuse)
+  court: Verdun
+  formes: []
+  attestations:
+  - - 53
+    - 20
+- id: ville_sur_ancre
+  nom: Ville-sur-Ancre (Somme)
+  court: Ville-sur-Ancre
+  formes: []
+  attestations:
+  - - 153
+    - 6
+- id: villers_bocage
+  nom: Villers-Bocage (Somme)
+  court: Villers-Bocage
+  formes: []
+  attestations:
+  - - 186
+    - 8
+- id: villers_bretonneux
+  nom: Villers-Bretonneux (Somme)
+  court: Villers-Bretonneux
+  formes: []
+  attestations:
+  - - 106
+    - 9
+- id: warfusee
+  nom: Warfusée-Abancourt (Somme)
+  court: Warfusée-Abancourt
+  notice: auj. Lamotte-Warfusée
+  formes: []
+  attestations:
+  - - 106
+    - 10
+- id: warloy
+  nom: Warloy-Baillon (Somme)
+  court: Warloy
+  formes: []
+  attestations:
+  - - 75
+    - 13
+  - - 76
+    - 3
+  - - 96
+    - 4
+  - - 169
+    - 6
+  - - 171
+    - 12
+  - - 176
+    - 12
+  - - 179
+    - 4
+  - - 181
+    - 8
+  - - 181
+    - 16
+  - - 186
+    - 5
+- id: ypres
+  nom: Ypres (Belgique)
+  court: Ypres
+  formes: []
+  attestations:
+  - - 4
+    - 20

@@ -1,0 +1,157 @@
+cliche: 141
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Dim. 4 \hfill Févr. /17
+  apres: \sl{Dim. 4} \hfill \sl{Fevr '17}
+  justification: Date et mois soulignés ; Fevr sans accent ni point ; apostrophe courte et haute devant 17, non une barre oblique.
+  confiance: haute
+- ligne: 2
+  avant: '[Monté ?] chambre hier soir vers 11h 1/4.'
+  apres: \inc{Monté} \add{chambre} hier soir vers 11^{h} 1/4
+  justification: chambre est interlinéaire ; H suscrit ; 1 en haut, barre oblique, 4 en bas ; aucun point final.
+  confiance: moyenne
+- ligne: 3
+  avant: d'éteindre
+  apres: d'eteindre
+  justification: Aucun accent sur le premier e.
+  confiance: moyenne
+- ligne: 5
+  avant: éclat
+  apres: eclat
+  justification: Aucun accent visible.
+  confiance: moyenne
+- ligne: 6
+  avant: étoiles.
+  apres: etoiles
+  justification: Ni accent ni point visibles après le délié final.
+  confiance: moyenne
+- ligne: 7
+  avant: natal.
+  apres: natal
+  justification: La barre du t se prolonge ; aucun point.
+  confiance: moyenne
+- ligne: 8
+  avant: 1/2 h.,
+  apres: \fr{1}{2} h.,
+  justification: Fraction empilée (1 sur 2 bouclé), sans barre oblique.
+  confiance: haute
+- ligne: 10
+  avant: Maman, Sœurs — que
+  apres: Maman, Soeurs – que
+  justification: Tiret court ; o et e distincts.
+  confiance: moyenne
+- ligne: 11
+  avant: l'émotion
+  apres: l'emotion
+  justification: Aucun accent sur le e.
+  confiance: moyenne
+- ligne: 12
+  avant: sangloté.
+  apres: sanglote
+  justification: Aucun accent au-dessus ni à droite du e final (long délié) ; le point situé sous la ligne est celui de l'i d'« Insomnie ».
+  confiance: moyenne
+- ligne: 13
+  avant: Écouté
+  apres: Ecouté
+  justification: E majuscule sans accent.
+  confiance: moyenne
+- ligne: 17
+  avant: 7h.
+  apres: 7^{h}.
+  justification: h nettement suscrit.
+  confiance: haute
+- ligne: 18
+  avant: Impressions
+  apres: \ind Impressions
+  justification: La ligne commence en retrait.
+  confiance: moyenne
+- ligne: 19
+  avant: Déjeuné av. Margte.
+  apres: Dejeuné av Margte
+  justification: Pas d'accent sur le premier e ; av sans point ; te sur la ligne de base, suivi d'un long délié sans point.
+  confiance: moyenne
+- ligne: 20
+  avant: Mte m'a laissé vers 11h
+  apres: M^{te} m'a laissé vers 11^{h}
+  justification: Lettres suscrites.
+  confiance: haute
+- ligne: 21
+  avant: Alors
+  apres: alors
+  justification: a initial au module d'une minuscule, identique au a de « aller ».
+  confiance: moyenne
+- ligne: 22
+  avant: appartt
+  apres: appart^{t}
+  justification: Second t légèrement surélevé, barre longue montante.
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: Monté
+  analyse: 'Mot repassé à l''encre très épaisse, juste sous le soulignement de la date : attaque bouclée descendante (M à délié d''attaque ou Q), jambages, haste barrée (t), e final. Une première leçon (Quand ?) semble recouverte. Le sens (« Monté chambre hier soir ») et « monté chambre » de la l. 21 appuient Monté.'
+  alternatives:
+  - Remonté
+  - Quand (première leçon recouverte ?)
+- ligne: 1
+  lemme: \sl{Dim. 4}
+  analyse: 'Le trait épais qui frôle le haut du premier mot de la l. 2 part sous « Dim. » et s''arrête au pied de « chambre », à la même hauteur que le soulignement de « Fevr ''17 » : soulignement de la date, non rature.'
+  alternatives:
+  - rature du premier mot de la l. 2
+- ligne: 14
+  lemme: cheminée
+  analyse: c-h-e-m-i-n puis é à accent décalé et long délié final pouvant valoir -e.
+  alternatives:
+  - cheminé
+- ligne: 20
+  lemme: pour
+  analyse: 'p à longue haste puis deux éléments arrondis et r final crochu : pour écrit court plutôt que pr.'
+  alternatives:
+  - pr
+- ligne: 21
+  lemme: chambre
+  analyse: Mot écrit court (c-h-a-m-b, b ouvert en k, puis crochet final) ; on garde chambre, comme l. 15, plutôt qu'une abréviation chamb.
+  alternatives:
+  - chamb.
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Pleine lune le 7 févr. 1917 (Calendar-12) : la lune du 3–4 février était presque pleine ; rien à corriger dans la transcription. Aucun toponyme sur la page : Millau est déduit du contexte (140, 142).'
+  alternatives: []
+controle:
+- ligne: 2
+  avant: 11^{h} \fr{1}{4}
+  apres: 11^{h} 1/4
+  justification: Le 1 (petite haste après l'H suscrit) et le 4 sont séparés par une barre nettement oblique, non horizontale ; BALISAGE impose 1/4 dans ce cas. Note d'apparat corrigée.
+- ligne: 12
+  avant: sangloté.
+  apres: sanglote
+  justification: Zoom ×3, aucun accent sur le e final ; le point sous la ligne appartient à l'i d'« Insomnie » (l. 13).
+- ligne: 19
+  avant: Marg^{te}
+  apres: Margte
+  justification: Zoom ×2, te écrit sur la ligne de base, à la hauteur de Marg, puis long délié ; surélévation non nette.
+- ligne: 2
+  avant: 'apparat : fraction empilée à barre oblique ; ajout entre « Monté » et « hier »'
+  apres: notes abrégées (onze heures un quart ; lecture Monté / Remonté)
+  justification: Épuration de l'apparat ; détails paléographiques renvoyés aux difficultés.
+remarques: Lieu (Millau) déduit du contexte des clichés 140 (billet Béziers–Millau) et 142 ; aucun toponyme sur la page.
+resume: Dimanche 4 février 1917, à Millau, dans la maison natale. Monté se coucher vers 11 h 1/4, Hippolyte Combes ouvre le volet de fer et contemple le vallon sous la pleine lune. Assailli par le souvenir de ses parents et de ses sœurs, il sanglote, passe une nuit d'insomnie à écouter la pendule et la toux de Germaine dans la chambre voisine. Levé vers 7 h, il déjeune avec Marguerite, qui le laisse vers 11 h pour aller à la messe ; il rêve alors dans sa chambre ensoleillée.
+noms:
+  personnes:
+  - forme: Papa
+    ligne: 9
+    identite: père d'Hippolyte Combes (défunt)
+  - forme: Maman
+    ligne: 10
+    identite: mère d'Hippolyte Combes (défunte)
+  - forme: Germaine
+    ligne: 15
+    identite: Germaine, proche de la famille (cf. 131)
+  - forme: Margte
+    ligne: 19
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: M^{te}
+    ligne: 20
+    identite: Marguerite Calmels
+  lieux: []
+source: contrôle

@@ -1,0 +1,221 @@
+cliche: 5
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 28 Ve. \hfill Juillet / 16
+  apres: \sl{28 Ve.} \hfill \sl{Juillet /16}
+  justification: date et mois soulignés chacun d'un trait ; la barre oblique, détachée du t de Juillet, précède 16
+  confiance: haute
+- ligne: 2
+  avant: Hier soir, avant de me coucher,
+  apres: \ind[2] Hier soir, avant de me
+  justification: la ligne manuscrite, en retrait sous l'en-tête, s'arrête à me ; coucher ouvre la ligne suivante
+  confiance: haute
+- ligne: 3
+  avant: terminé presque entièrement mes paquets
+  apres: coucher, terminé presque entièrement mes paquets
+  justification: coupure des lignes rétablie ; virgule en trait courbe après coucher
+  confiance: haute
+- ligne: 4
+  avant: Nuit agitée – énervé
+  apres: Nuit agitée. enervé
+  justification: trait court et épais posé sur la ligne de base (point) ; aucun accent sur l'e initial d'enervé
+  confiance: moyenne
+- ligne: 5
+  avant: Levé vers 5h 1/2. Ciel
+  apres: Levé vers 5^{H} 20 Ciel
+  justification: H suscrit à deux hastes et traverse ; 2 bouclé et 0 sur la ligne, sans 1 ni barre de fraction ; aucun point avant Ciel
+  confiance: moyenne
+- ligne: 6
+  avant: gouttelettes. — Journée de mouvt. —
+  apres: gouttelettes. – Journée de mouv^{t}. –
+  justification: t de mouvt au-dessus de la ligne de base ; deux tirets courts
+  confiance: moyenne
+- ligne: 7
+  avant: Partis à 8h 1/2. Fait route à cheval, en tête
+  apres: Partis à 8^{h} 1/2 fait route à cheval, en tete
+  justification: 'h suscrit ; ni point ni & après 1/2 : la boucle est le jambage du g de gouttelettes (l. 6) ; f minuscule ; le tiret au-dessus de tete est celui de la l. 6'
+  confiance: moyenne
+- ligne: 11
+  avant: blé – aux
+  apres: blé. aux
+  justification: point rond, non tiret
+  confiance: moyenne
+- ligne: 12
+  avant: par les faubourgs
+  apres: par les faubourgs \trait
+  justification: long trait tiré après le s jusqu'à x ≈ 0,96
+  confiance: moyenne
+- ligne: 13
+  avant: Après-
+  apres: Après
+  justification: 'aucun trait d''union à mi-hauteur : le tiret haut est l''accent de è, décalé à droite'
+  confiance: moyenne
+- ligne: 14
+  avant: 'journée : chaleur'
+  apres: journée, chaleur
+  justification: un seul trait courbe (virgule), aucun deux-points
+  confiance: haute
+- ligne: 15
+  avant: Vers 4h 1/2,
+  apres: Vers 4^{H} 1/2,
+  justification: H suscrit à deux hastes et traverse ; fraction de même forme qu'en 006, l. 2
+  confiance: haute
+- ligne: 16
+  avant: gde prairie autour d' 1 ferme – Impossible trouver
+  apres: g^{de} prairie autour d'1 ferme – Impossible \inc{trouver}
+  justification: de suscrit après g ; apostrophe et 1 liés ; trouver noyé sous une tache d'encre
+  confiance: moyenne
+- ligne: 17
+  avant: chambre pour moi –
+  apres: chambre pour moi.
+  justification: point rond à mi-hauteur, distinct du point du i, non tiret
+  confiance: moyenne
+- ligne: 18
+  avant: Harassé de fatigue, suffoqué de chaleur
+  apres: \ind Harassé de fatigue, \inc{enfermé} de chaleur
+  justification: 'ligne en retrait ; le mot commence par e et deux jambages, puis une seule longue haste (f ou ſ) ; ni s initial, ni ff, ni q : suffoqué exclu'
+  confiance: moyenne
+- ligne: 19
+  avant: Besoin de repos extrême
+  apres: Besoin de repos extrême \trait
+  justification: délié final prolongé en long trait jusqu'à x ≈ 0,57
+  confiance: moyenne
+- ligne: 20
+  avant: Laissé à Mme [Donze ?], de Lynde (pour cuisine 2 f
+  apres: Laissé à M^{me} \inc{Donse}, de Lind, pour cuisine 2^{f} –
+  justification: me surélevé ; lettre haute montant au-dessus du filet (ſ plutôt que z) ; Lind sans y ni e ; virgule courbe, non parenthèse ; f suscrit et tiret après 2
+  confiance: basse
+- ligne: 21
+  avant: et 1 f pour oeufs & lait —
+  apres: et 1^{f} pour oeufs & lait —
+  justification: f suscrit après le 1
+  confiance: haute
+- ligne: 22
+  avant: 'Food (extra) : 10 c, 1 f, 1 f, 60 c. – \hfill Cartes ples : 10 c'
+  apres: '\ind Food (extra) : 10c, 1f, 1f, 60c. – \hfill Cartes ples : 10c'
+  justification: ligne en retrait ; chiffres et unités liés
+  confiance: moyenne
+- ligne: 23
+  avant: 'Tip au groom pour soigné poney : 1 f.'
+  apres: 'Tip au groom pour soigné pony : 1.^{f} –'
+  justification: pony sans e (p, o, n, y) ; point sur la ligne avant le f suscrit ; tiret mince sous le f
+  confiance: moyenne
+difficultes:
+- ligne: 4
+  lemme: agitée.
+  analyse: 'trait court et épais posé un peu sous la ligne de base, à x ≈ 0,29–0,30, entre agitée et enervé : point de la l. 4 plutôt que drapeau détaché du chiffre de la l. 5, qui en est séparé d''un demi-œil'
+  alternatives:
+  - agitée.
+  - agitée –
+  - agitée
+- ligne: 4
+  lemme: enervé
+  analyse: aucun tiret au-dessus de l'e initial ni du n ; la haste du p de presque (l. 3) s'arrête à gauche ; l'accent final est attaché en crochet
+  alternatives:
+  - enervé
+  - énervé
+- ligne: 5
+  lemme: 5^{H} 20
+  analyse: chiffre initial réduit à un ovale plein d'encre, relié par un délié à l'H suscrit (deux hastes et traverse) ; ni haste longue ni drapeau attaché ; une boucle basse ferait un 6 ; 2 bouclé et 0 ouvert nets, prolongés d'un délié ; aucune trace de 1 ni de barre ; le départ à 8 h 30 (l. 7) exclut 9
+  alternatives:
+  - 5^{H} 20
+  - 6^{H} 20
+- ligne: 7
+  lemme: tete
+  analyse: le seul tiret au-dessus du mot est à hauteur de la ligne de base de la l. 6, aligné sur son point (. –) ; aucun circonflexe
+  alternatives:
+  - tete
+  - tête
+- ligne: 11
+  lemme: blé.
+  analyse: aucun accent distinct au-dessus de l'e ; la haste du p de par (l. 10) aboutit juste au-dessus et peut le masquer ; blé conservé ; point rond net à mi-hauteur
+  alternatives:
+  - blé.
+  - ble.
+- ligne: 15
+  lemme: 4^{H} 1/2
+  analyse: 4 fermé (aspect d) ; H suscrit ; 1 oblique coupé d'une barre courte presque horizontale, 2 bouclé dessous à pied en croissant ; forme identique à celle de 006, l. 2, rendue 1/2 (guide § 6) ; une lecture empilée serait défendable
+  alternatives:
+  - 4^{H} 1/2
+  - 4^{H} \fr{1}{2}
+- ligne: 16
+  lemme: autour
+  analyse: r final réduit à un court trait descendant, à peine détaché du u (aspect de virgule) ; le sens impose autour
+  alternatives:
+  - autour
+- ligne: 16
+  lemme: \inc{trouver}
+  analyse: trait initial haut (t, ou jambage du g de voyage, l. 15), suite de jambages et trait final plongeant sous une large tache d'encre violette ; longueur compatible avec trouver ; aucune autre lettre lisible
+  alternatives:
+  - trouver
+- ligne: 18
+  lemme: \inc{enfermé}
+  analyse: e bouclé ; deux jambages (n) ; haste pleine montant au-dessous de la l. 17 et plongeant d'un œil sous la ligne (f ou ſ) ; e ; trait pointu (r) puis trois jambages pointus (m) ; é à accent détaché ; ferme (l. 16) a un rm arrondi ; enserré demanderait deux r seulement
+  alternatives:
+  - enfermé
+  - enserré
+  - enfiévré
+- ligne: 20
+  lemme: \inc{Donse}
+  analyse: 'D en ∂ à boucle haute coupée par le filet (L en £ non exclu : cf. Laissé, Lind) ; o ; deux jambages (n ou u) ; lettre haute dont la boucle monte au-dessus du filet et dont la haste descend sous la ligne jusqu''à la l. 21 (ſ) ; le z de Hazebrouck (l. 12) plonge sans monter ; e et délié final ; patronyme sans autre occurrence'
+  alternatives:
+  - Donse
+  - Douse
+  - Donze
+- ligne: 20
+  lemme: Lind
+  analyse: 'L à boucle haute coupée par le filet, trois jambages (i + n), d bouclé ; point de l''i absorbé par le filet ; ni descendante de y ni e final : graphie pour Lynde'
+  alternatives:
+  - Lind
+  - Lund
+- ligne: 23
+  lemme: 1.^{f} –
+  analyse: 'point sur la ligne après le 1 ; f suscrit à petite boucle de tête, haste courte et long crochet horizontal ; dessous, sur la ligne de base, trait mince et plus pâle, distinct du f : tiret, comme sous le f de 2^{f} – (l. 20)'
+  alternatives:
+  - 1.^{f} –
+  - 1.^{f}
+controle:
+- ligne: 16
+  avant: Impossible trouver
+  apres: Impossible \inc{trouver}
+  justification: 'le mot est noyé sous une tache d''encre violette (jambages et trait final seuls visibles) : mot noyé, donc lecture incertaine (guide, piège 23) ; la tache passe au registre critique'
+- ligne: 19
+  avant: Besoin de repos extrême
+  apres: Besoin de repos extrême \trait
+  justification: 'délié final prolongé en long trait jusqu''à x ≈ 0,57 : rendu par le balisage comme faubourgs (l. 12), selon le guide § 7, au lieu d''une note de disposition'
+- ligne: 20
+  avant: \inc{Donze}
+  apres: \inc{Donse}
+  justification: 'la 4e lettre monte au-dessus du filet avant de descendre : ſ plutôt que z, qui dans cette main plonge sans monter (Hazebrouck, l. 12) ; Donze reste en alternative'
+- ligne: 23
+  avant: 1.^{f}
+  apres: 1.^{f} –
+  justification: 'trait mince et pâle sur la ligne de base sous le f, distinct de la boucle et du crochet du f : tiret final, comme 2^{f} – (l. 20)'
+- ligne: 1
+  avant: 'apparat : note de disposition sur Juillet /16'
+  apres: 'apparat : /16 = 1916 ; disposition reportée au registre critique'
+  justification: abréviation du millésime non relevée ; la jonction du soulignement et de me relève du registre critique
+- ligne: 4
+  avant: 'apparat : notes de graphie sur enervé (l. 4), tete (l. 7), coté (l. 10)'
+  apres: notes supprimées
+  justification: 'accents absents : aucune note selon la règle de l''apparat'
+- ligne: 23
+  avant: 'apparat : groom = garçon d''écurie'
+  apres: 'apparat : groom = ordonnance chargée du cheval (palefrenier)'
+  justification: sens militaire britannique, conforme au lexique (groom = ordonnance)
+remarques: 'Apparat épuré : suppression des justifications paléographiques (ponctuation, formes de lettres, déliés), des notes d''accent absent et des notes de disposition rendues par le balisage ou reportées au registre critique (l. 2, 6, 15, 19). Les virgules de la page ont la forme d''un « ( » (l. 2, 3, 7, 14, 15, 20) : celle de la l. 20 n''est pas une parenthèse ouvrante. Les fractions des l. 7 et 15 sont rendues 1/2, comme en 006, l. 2.'
+resume: 'Le vendredi 28 juillet 1916, après avoir presque bouclé ses paquets la veille au soir et passé une nuit agitée, énervé par ces départs successifs, Combes se lève vers 5 h 20 sous une brume qui tombe en gouttelettes : c''est jour de mouvement. Parti à 8 h 30, il fait route à cheval en tête du convoi, lentement, par des routes sablonneuses bordées d''avoine et de blé aux épis très hauts, et contourne Hazebrouck par les faubourgs ; le soleil perce peu à peu et la chaleur devient intense l''après-midi. Vers 4 h 30, le convoi atteint une grande prairie autour d''une ferme ; faute de chambre, Combes doit se contenter d''un grenier, harassé de fatigue et accablé de chaleur. Ses comptes notent 2 f laissés pour la cuisine et 1 f pour œufs et lait à sa logeuse de Lynde (Mme Donse ?), des suppléments de nourriture, des cartes postales et 1 f de pourboire à l''ordonnance qui a soigné son poney.'
+noms:
+  personnes:
+  - forme: M^{me} \inc{Donse}
+    ligne: 20
+    identite: logeuse de Combes à Lynde ; patronyme incertain (Donse, Douse ou Donze)
+  lieux:
+  - forme: Hazebrouck
+    ligne: 12
+    identite: Hazebrouck (Nord)
+  - forme: Lind
+    ligne: 20
+    identite: Lynde (Nord), à l'ouest d'Hazebrouck
+source: contrôle

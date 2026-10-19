@@ -1,9 +1,0 @@
-# Coordination de la reprise intégrale de l’apparat
-
-La couche `apparat_critique_2026_10` a été intégrée sur `main`, sans branche supplémentaire. La base gardée est le commit `04673ef921062b4db01357cbdbff6069266947af` ; les quatre lots relus sur les photographies remplacent les anciens apparats par l’intermédiaire de `assembler_apparat.py` puis `apparat_critique.py`.
-
-Le chemin de production applique d’abord la révision antérieure puis cette nouvelle couche gardée. Il conserve la numérotation des 186 photographies (`Scan #`, nom du JPEG et Vue), leurs commentaires critiques et historiques conciliés, ainsi que les réserves des lectures. La foliotation physique n’est pas établie. Aucun trait, soulignement ou exposant autographe ne doit être inféré par une expression régulière appliquée au texte.
-
-Les propositions concurrentes de commentaires, cartes, index, mise en page et leurs exports ont été sauvegardées intégralement dans `propositions_paralleles/2026-10-16T002025Z/`, avec patch et SHA-256. Les modules `commentaires_et_loci.py` et `cartes_et_index.py` sont conservés dans l’espace de travail sans être modifiés ni exécutés par défaut. Leur présence n’implique pas une validation philologique.
-
-Pour la prochaine intervention, produire des propositions avec les valeurs originales exactes, les champs modifiés et les photographies ou sources qui les justifient, plutôt que remplacer les commentaires, la foliotation ou les transcriptions directement dans le générateur. Les remarques de mise en page sont à concilier avec le rendu complet de toutes les entrées ; elles ne doivent supprimer ni condenser automatiquement l’apparat. Toute mutation de la base ou de la révision antérieure doit être conciliée avant assemblage. Les modules parallèles présents à la racine de l’édition restent distincts des copies archivées et ne sont pas inclus automatiquement dans cette révision.

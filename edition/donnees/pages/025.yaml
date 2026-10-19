@@ -1,0 +1,115 @@
+cliche: 25
+fichier: 20251126_093955.jpg
+date: Mercredi 23 août 1916
+mois: Août 1916
+lieux: La Croix-du-Bac (Steenwerck) et Estaires (Nord)
+titre: 'Promenade à cheval à Estaires : église, hôtel de ville ; campagne plate et monotone'
+transcription: |
+  \sl{23 Merc} \hfill \sl{Aout /16}
+  \ind Temps couvert, matinée et surtout
+  fin journée – dès 6^{H} \inc{\fr{1}{2}}, cme 1 légère
+  brume répandue de \inc{e} lair –
+  \ind Après-midi, promenade à cheval
+  arrivé j-à Estaires. Visité longuement
+  cette petite ville, très animée x magasins
+  Très belle église (chœur, stalles ogivales
+  \ind et très artistiques statuettes en bois (S. Ambroise etc.)
+  Remarqué hotel de ville – écusson \add{armoiries}
+  peint mur au-dessus du perron –
+  \blanc{2}
+  De nouveau
+  Poussière routes dessechées –
+  \blanc{1}
+  Environs extt plats – & vulgaires –
+  aucun interet pittoresque
+  Campagne extt monotone & laide
+  Depense d'activité & fatigues physique
+  \ind \inc{ft} de bien à mon moral
+  Sensation d'équilibre & \inc{santé} parfaite
+  \crochet{2}\ind[2] C^{tes} p^{les} à Estaires : 35c
+  \fr{1}{4} livre bonbons chocolat : 75c –
+apparat:
+- ligne: 1
+  lemme: Merc
+  type: abreviation
+  note: mercredi
+- ligne: 1
+  lemme: /16
+  type: abreviation
+  note: '1916'
+- ligne: 3
+  lemme: 6^{H} \inc{\fr{1}{2}}
+  type: lecture
+  note: 6 heures et demie ; la fraction, minuscule, a l'aspect d'une petite croix.
+- ligne: 3
+  lemme: cme
+  type: abreviation
+  note: comme
+- ligne: 3
+  lemme: 1 légère
+  type: abreviation
+  note: une légère
+- ligne: 4
+  lemme: de \inc{e} lair
+  type: lecture
+  note: un e isolé entre « de » et « lair » (lettre commencée ?) ; sens « de l'air ».
+- ligne: 6
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 7
+  lemme: x magasins
+  type: signe
+  note: croix devant « magasins », sans doute pour « nombreux » (?).
+- ligne: 9
+  lemme: S.
+  type: abreviation
+  note: Saint
+- ligne: 9
+  lemme: etc.)
+  type: disposition
+  note: rejeté sous « Ambroise », au bout de la l. 10.
+- ligne: 10
+  lemme: \add{armoiries}
+  type: ajout
+  note: dans l'interligne, sous « écusson ».
+- ligne: 14
+  lemme: extt
+  type: abreviation
+  note: extrêmement
+- ligne: 15
+  lemme: pittoresque
+  type: ajout
+  note: d'une encre brune plus claire, ajouté après coup.
+- ligne: 16
+  lemme: extt
+  type: abreviation
+  note: extrêmement
+- ligne: 18
+  lemme: \inc{ft}
+  type: lecture
+  note: « fait » ; deux hastes sous une barre commune (ft ou ff) ; « font » possible.
+- ligne: 19
+  lemme: \inc{santé}
+  type: lecture
+  note: mot en partie couvert par l'E d'« Estaires » (l. 20) ; « toute » possible.
+- ligne: 19
+  lemme: parfaite
+  type: ajout
+  note: d'une encre brune plus claire, comme « pittoresque » (l. 15).
+- ligne: 20
+  lemme: C^{tes} p^{les}
+  type: abreviation
+  note: cartes postales
+- ligne: 21
+  lemme: \fr{1}{4}
+  type: abreviation
+  note: un quart
+critique: Encre noire virée au brun ; deux mots d'une encre brune plus claire montrent que la page a été relue et complétée après coup.
+historique: |
+  Estaires (Nord), sur la Lys, à 6 km à l'ouest de La Croix-du-Bac, est un bourg de l'arrière, occupé par la cavalerie française dès le 15 octobre 1914 ; il a abrité des ambulances, puis la 1st Australian Casualty Clearing Station (CWGC, Estaires Communal Cemetery). L'église Saint-Vaast que visite Combes est celle de 1858 (arch. Charles Leroy) ; l'hôtel de ville à l'écusson peint est l'édifice de style flamand bâti en 1600-1612. Tous deux disparaîtront avec la ville, prise le 10 avril 1918 pendant la bataille de la Lys et presque entièrement détruite, puis seront reconstruits par Georges Dumas en 1927-1930 (Wikipédia, « Estaires », à confirmer). Aucun n'est protégé au titre des monuments historiques (Mérimée, interrogation du 18 oct. 2026), et le mobilier décrit (stalles, statuette de saint Ambroise) n'est pas documenté. Le quart de livre de « bonbons chocolat » à 75 c met le kilo à 6 F, près du double du chocolat ordinaire, vendu 3,19 F le kilo à l'économat d'une compagnie de chemins de fer en juillet 1916 (March 1925, p. 199).
+sources:
+- CWGC, Estaires Communal Cemetery and Extension (fiche 26801), historique, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/26801/.
+- Wikipédia, art. « Estaires », consulté le 18 oct. 2026.
+- Ministère de la Culture, base Mérimée, export POP, interrogation du 18 oct. 2026 (aucune notice pour Estaires).
+- March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 199.

@@ -1,0 +1,151 @@
+cliche: 107
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 5 Mardi. \hfill Décbre 1916
+  apres: \sl{5 Mardi.} \hfill Dec^{bre} \sl{1916}
+  justification: trait appuyé sous 5 Mardi (x .07–.21, y .054), comme sous 6 merc ; Dec sans accent, bre surélevé ; seul 1916 souligné
+  confiance: moyenne
+- ligne: 2
+  avant: Matinée, liberté complète.
+  apres: Matinée, liberté complète \trait
+  justification: aucun point ; long délié horizontal prolongé après complète
+  confiance: haute
+- ligne: 3
+  avant: Après-midi
+  apres: après-midi
+  justification: a initial au module d'une minuscule
+  confiance: haute
+- ligne: 4
+  avant: près d'Hébuterne, à 3 kilomètres
+  apres: près \inc{d'}Hébuterne, à 3 kilometre
+  justification: d réduit à une haste sans panse visible ; aucun accent au-dessus du e de kilometre ; finale re, aucun s avant le bord
+  confiance: moyenne
+- ligne: 5
+  avant: Dépassé
+  apres: Depassé
+  justification: aucun accent sur le premier e, seul le é final en porte un
+  confiance: moyenne
+- ligne: 6
+  avant: dévastés. Obus non éclatés... Village de Coigneux,
+  apres: devastés. obus non éclatés ..– Village de \inc{Coigneux}
+  justification: pas d'accent initial visible ; o minuscule ; deux points suivis d'un tiret court ; finale du nom réduite ; pas de virgule
+  confiance: moyenne
+- ligne: 8
+  avant: suite de bombardement.
+  apres: suite de bombardement
+  justification: aucun point ; barre du t prolongée
+  confiance: haute
+- ligne: 10
+  avant: fine. Après dîner, adieux avec Lieutt
+  apres: fine Après diner, adieux avec Lieut^{t}
+  justification: aucun point après fine ; point du i, pas de circonflexe ; t final plus haut et plus grand
+  confiance: moyenne
+- ligne: 13
+  avant: 6 Merc. Levé 6h m. — Lt Curtis, parti vers
+  apres: \sl{6 merc} \hfill Levé 6^{h} m. \hfill Lt Curtis, parti vers
+  justification: m minuscule, aucun point, long soulignement ; h suscrit ; aucun tiret avant Lt ; trois groupes espacés
+  confiance: haute
+- ligne: 14
+  avant: 7h 1/2 m. — & sans laisser de regret — A brainless
+  apres: 7^{h} \inc{1/2} m — & sans laisser de regret – A brainless
+  justification: h suscrit ; fraction douteuse ; pas de point après m ; tiret court avant A
+  confiance: moyenne
+- ligne: 15
+  avant: ass. Matin, course
+  apres: ass — Matin, course
+  justification: ss final prolongé en tiret, pas de point
+  confiance: moyenne
+- ligne: 16
+  avant: etc.
+  apres: \droite etc
+  justification: sous Raincheval, au bout de la ligne ; pas de point
+  confiance: haute
+- ligne: 17
+  avant: Nouvel off., Cap. Williams, 20 ans! Après
+  apres: nouvel off., Cap. Williams, 20 ans ! après
+  justification: n initial au module d'une minuscule ; virgule en trait fin vertical après off.
+  confiance: moyenne
+- ligne: 18
+  avant: 'raconté : avant'
+  apres: raconté avant
+  justification: aucun deux-points sur l'image
+  confiance: haute
+- ligne: 19
+  avant: la guerre, était office boy à 50 £ a year.
+  apres: la guerre., Etait office boy à 50 £ a year
+  justification: point puis trait fin en virgule ; E majuscule bouclé sans accent, la marque au-dessus appartient au i
+  confiance: moyenne
+difficultes:
+- ligne: 4
+  lemme: d'
+  analyse: après près, haste épaisse droite sans panse visible (zoom .30 .11 .66 .17), puis trait fin incurvé (apostrophe) et H ; le sens impose d'
+  alternatives:
+  - l'
+- ligne: 6
+  lemme: Coigneux
+  analyse: C, o petit, i pointé, g bouclé, n, e, puis finale en jambage plongeant vers la gauche (aspect y ou z) ; aucun x en croix comme dans adieux l. 10 ; le toponyme réel impose Coigneux
+  alternatives:
+  - Coigney
+- ligne: 14
+  lemme: \inc{1/2}
+  analyse: après 7 et h suscrit, court trait vertical épais (1) puis longue oblique partant du soulignement de 6 merc et descendant jusqu'à ass (zoom ×3 0 .57 .25 .65) ; aucun 2 distinct avant m
+  alternatives:
+  - 1/
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Traitée : champ « lieux » ramené à (Somme), Hébuterne et Gommecourt étant seulement cités. Bayencourt est à 5,3 km de la mairie de Gommecourt alors que le carnet écrit « 3 kilometre » : le chiffre vise sans doute les premières lignes allemandes (voir /workspaces/hc_work/commentaire/107.yaml).'
+  alternatives: []
+controle:
+- ligne: 4
+  avant: à 3 kilomètre
+  apres: à 3 kilometre
+  justification: zoom .80 .10 1.0 .16 ; aucun accent au-dessus du e entre m et t, seule la haste crochue du t et sa barre longue
+- ligne: 0
+  avant: 'lieux : … (Somme, Pas-de-Calais)'
+  apres: 'lieux : … (Somme)'
+  justification: tous les lieux parcourus sont dans la Somme ; Hébuterne et Gommecourt seulement cités (remarque du commentateur)
+- ligne: 0
+  avant: apparat avec notes paléographiques détaillées (d', 1/2, etc, signe +)
+  apres: apparat épuré ; 7^{h} … m développé à part de la lecture de \inc{1/2} ; + classé en abréviation
+  justification: règle de l'apparat imprimé ; analyses conservées dans difficultes
+- ligne: 17
+  avant: off., (difficulté ouverte off. ( / off.)
+  apres: off., confirmé
+  justification: zoom .15 .69 .42 .76 ; trait fin vertical à crochet de tête, même forme que les virgules en trait de la page
+remarques: Bayencourt est dans la Somme (Hébuterne et Gommecourt dans le Pas-de-Calais) ; Bayencourt est à environ 5 km de Gommecourt, les « 3 kilometre » visent sans doute les lignes allemandes.
+resume: Le 5 décembre 1916, après une matinée libre, Hippolyte Combes pousse jusqu'à Authie puis Bayencourt, à 3 km de Gommecourt tenu par les Allemands, et traverse Coigneux, village aux toits squelettiques. Le soir, il fait ses adieux au lieutenant Curtis, qui rejoint la 152nd Company A.S.C. Le 6, Curtis part vers 7 h 30, sans regret de la part de Combes, qui le traite d'âne sans cervelle. Course le matin à Louvencourt et Raincheval. Le nouvel officier, le capitaine Williams, a 20 ans et raconte qu'il était office boy à 50 livres par an avant la guerre.
+noms:
+  personnes:
+  - forme: Curtis
+    ligne: 11
+    identite: lieutenant britannique, de la 152nd Company A.S.C.
+  - forme: Lt Curtis
+    ligne: 13
+    identite: lieutenant britannique
+  - forme: Cap. Williams
+    ligne: 17
+    identite: capitaine britannique, nouveau chef d'Hippolyte Combes
+  lieux:
+  - forme: Authie
+    ligne: 3
+    identite: Authie (Somme)
+  - forme: Bayencourt
+    ligne: 4
+    identite: Bayencourt (Somme)
+  - forme: Hébuterne
+    ligne: 4
+    identite: Hébuterne (Pas-de-Calais)
+  - forme: Gommecourt
+    ligne: 5
+    identite: Gommecourt (Pas-de-Calais), dans les lignes allemandes
+  - forme: Coigneux
+    ligne: 6
+    identite: Coigneux (Somme)
+  - forme: Louvencourt
+    ligne: 15
+    identite: Louvencourt (Somme)
+  - forme: Raincheval
+    ligne: 15
+    identite: Raincheval (Somme)
+source: contrôle

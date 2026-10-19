@@ -1,0 +1,105 @@
+cliche: 38
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 8 Ve. \hfill Septbre /16
+  apres: \sl{8 Ven.} \hfill \sl{Sept^{bre} /16}
+  justification: 'Ven. : n distinct après V-e, point final appuyé ; finale du mois suscrite ; les deux éléments soulignés'
+  confiance: haute
+- ligne: 5
+  avant: Après diner, soir, promené lgt
+  apres: après diner, soir, promené lgs
+  justification: a initial au module d'une minuscule ; l + g + s descendant, sans barre de t
+  confiance: haute
+- ligne: 7
+  avant: Clair de lune superbe
+  apres: clair de lune superbe
+  justification: petit c d'attaque à hauteur d'œil devant la haste bouclée du l
+  confiance: moyenne
+- ligne: 8
+  avant: silhouettés
+  apres: silhouettes
+  justification: aucun accent sur le e final ; s plongeant
+  confiance: haute
+- ligne: 9
+  avant: Ryonval
+  apres: \inc{Ryonval}
+  justification: fin du mot comprimée au bord droit
+  confiance: moyenne
+- ligne: 10
+  avant: derrière
+  apres: derriere
+  justification: aucun accent ; le trait au-dessus appartient au t de petit (l. 9)
+  confiance: haute
+- ligne: 11
+  avant: Joui délict du silence nuit.
+  apres: Joui delict du silence nuit
+  justification: aucun accent sur le e ; pas de point final, seulement la longue barre du t
+  confiance: haute
+- ligne: 12
+  avant: 60 c
+  apres: 65 c
+  justification: après le 6, haste à boucle de tête fermée descendant sous la ligne (5 en ℓ), aucun ovale de 0 ; confirmé au zoom ×3 (p2)
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: Sept^{bre}
+  analyse: S bouclé, e, p à longue haste ; finale suscrite en bosse + crochet (ondulation, cf. 068 Oct^{bre}) ; t non distinct, fondu dans la haste du p ; maintenu selon la convention du guide
+  alternatives:
+  - Sep^{re}
+  - Sept^{re}
+- ligne: 3
+  lemme: attendre
+  analyse: 'atte sous barre commune, n, d bouclé, puis deux minimes et délié : -re écrasé ; la forme graphique ressemble à attendu, mais la syntaxe (dû attendre … 2 wagons) impose attendre'
+  alternatives:
+  - attendu
+- ligne: 4
+  lemme: ':'
+  analyse: un seul point net, haut placé ; le point bas est invisible même au zoom ×3 ; deux-points conservé (valeur évidente avant l'anglais)
+  alternatives:
+  - .
+- ligne: 6
+  lemme: ds
+  analyse: d bouclé suivi d'un trait bref remontant (s réduit, non plongeant comme l. 10) ; graphiquement proche de de, le sens impose ds
+  alternatives:
+  - de
+- ligne: 9
+  lemme: Ryonval
+  analyse: 'zoom ×3 : grand R bouclé, y à longue descente, o, n nets ; puis une bosse (v ?) et une haste plongeante terminée par un pied horizontal (a-l comprimés au bord) ; non tranché'
+  alternatives:
+  - Ryonv.
+  - Ryonvl
+- ligne: 11
+  lemme: delict
+  analyse: d en ∂ (aspect 9), e, l bouclé ; i et c liés en nœud (aspect k), t à barre très longue
+  alternatives:
+  - delicᵗ
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Montant revu (p2, zoom ×3) : 65 c assuré (deux-points, 6, 5 en ℓ, c), non 60 c ; la comparaison avec l''achat à 60 c du 2 janvier 1917 ne vaut donc que comme ordre de grandeur. Ryonval reste incertain ; ni ce lieu ni la ferme Collet ne sont localisés.'
+  alternatives: []
+controle:
+- ligne: 12
+  avant: \inc{65} c
+  apres: 65 c
+  justification: 'zoom ×3 : deux-points, 6 à boucle basse, puis 5 en ℓ (haute boucle fermée, haste plongeante), c ; aucun ovale de 0 ni f monétaire possible (module trop grand, puis c)'
+- ligne: 12
+  avant: 'note lecture : 6 suivi d''un 5 à haute boucle fermée ; autre lecture : 60 (prix payé en 118)'
+  apres: 6 suivi d'un 5 à haute boucle ; la transcription antérieure lisait 60
+  justification: lecture assurée ; note réduite à la nouveauté par rapport à l'état antérieur
+- ligne: 9
+  avant: 'notes : mot repassé à l''encre et empâté, mais lisible ; aucune biffure / Ryon- net ; fin du mot serrée au bord de la page, jambage final plongeant'
+  apres: notes abrégées, détail paléographique renvoyé aux difficultés
+  justification: épuration de l'apparat
+remarques: 'Unité : Bedfords = Bedfordshire Regiment (54e brigade, 18th Division). Lieu de la journée déduit du cliché 039 (« Quitté Marquay »).'
+resume: 'Le vendredi 8 septembre 1916, à Marquay, Hippolyte Combes attend en vain tout l''après-midi deux wagons des Bedfords pour le fourrage vert. Après le dîner, il se promène longuement dans la campagne au clair de lune, les arbres se détachant nettement. Il s''attarde sur le petit chemin de Ryonval, dans la pâture derrière la ferme Collet, et goûte le silence de la nuit. Seule dépense : une boîte de poudre dentifrice, 65 centimes.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Ryonval
+    ligne: 9
+    identite: lieu-dit près de Marquay (Pas-de-Calais), lecture incertaine
+  - forme: ferme Collet
+    ligne: 10
+    identite: ferme près de Marquay (Pas-de-Calais)
+source: contrôle

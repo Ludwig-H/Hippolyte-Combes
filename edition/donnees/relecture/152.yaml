@@ -1,0 +1,139 @@
+cliche: 152
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Dim. 11 — \hfill — Février 1917 — / Tout le jour, en course.
+  apres: \sl{Dim. 11} — Tout le jour, \hfill — \sl{Février 1917} — / en course
+  justification: « Tout le jour, » est écrit sur la ligne de la date après le tiret ; date et mois soulignés ; T à barre de tête au module d'une minuscule
+  confiance: moyenne
+- ligne: 4
+  avant: Déjeuné à Doullens, où arrêt de 3 h.
+  apres: Dejeuné à Doullens, où arret de 3 h
+  justification: le tracé au-dessus du premier e est la boucle haute de l'e suivie du point du j ; pas de circonflexe sur arret ; pas de point après h
+  confiance: moyenne
+- ligne: 7
+  avant: Temps très beau.
+  apres: Temps très \inc{doux}
+  justification: 'haste unique sans panse fermée suivie de trois jambages et d''un x croisé : d-o-u-x ; un « beau » demanderait e et a fermés'
+  confiance: moyenne
+- ligne: 8
+  avant: Continué, 3h s., jusqu'à Auxi-le-Château.
+  apres: Continué, 3^{H} s., jusqu'à Auxi-le-Chateau
+  justification: H suscrit à deux hastes ; pas de circonflexe
+  confiance: haute
+- ligne: 9
+  avant: M'a offert
+  apres: Ma offert
+  justification: aucune apostrophe entre M et a
+  confiance: moyenne
+- ligne: 10
+  avant: Forêt Noire
+  apres: Foret Noire
+  justification: barre du t redoublée ; pas de circonflexe distinct
+  confiance: moyenne
+- ligne: 11
+  avant: célibataire, héritier
+  apres: celib^{re}, heritier
+  justification: abréviation célib + re suscrit ; pas d'accents
+  confiance: haute
+- ligne: 12
+  avant: générations, ... étrangers.
+  apres: generations, ... etrangers
+  justification: pas d'accents (le « ^ » sur generations est le point de l'i) ; pas de point final
+  confiance: moyenne
+- ligne: 15
+  avant: ciel étoilé mais sans lune.
+  apres: ciel etoilé (mais sans lune
+  justification: parenthèse ouvrante haute devant mais ; pas d'accent initial ; pas de point
+  confiance: moyenne
+- ligne: 18
+  avant: '[ Doullens : Papeterie : 2 f. 10. —'
+  apres: '\crochet{3}\sl{Doullens} : Papeterie : 2^{f}10. —'
+  justification: grand crochet à longs pieds sur trois lignes ; Doullens souligné ; f suscrit
+  confiance: haute
+- ligne: 19
+  avant: 'Cartes ples : 75 c.'
+  apres: 'Cartes p^{les} : 45'
+  justification: 4 fermé net, la haste oblique appartient au p de Papeterie ; aucun c après 45
+  confiance: haute
+- ligne: 20
+  avant: 'Chocolat : 60 c. — Biscuits Petit Beurre : 50 c. ]'
+  apres: 'Chocolat : 60c — Biscuits Petit Beurre : 50c'
+  justification: c collé, sans point ; aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 7
+  lemme: doux
+  analyse: haste haute non bouclée (d à panse noyée ou b en h), puis o + u, puis x à long trait croisé ; aucune panse fermée de a ; « beaux » serait agrammatical
+  alternatives:
+  - beau
+- ligne: 16
+  lemme: qu'il
+  analyse: après qu, petit crochet haut en c (apostrophe ou i réduit, sans point) puis l bouclé d'encre plus pâle
+  alternatives:
+  - qu'l
+- ligne: 10
+  lemme: Foret
+  analyse: au-dessus de e-t, deux traits horizontaux presque confondus (y ≈ .393 et .398) ; plus probablement barre du t reprise qu'un circonflexe aplati
+  alternatives:
+  - Forêt
+- ligne: 14
+  lemme: Commence
+  analyse: 'petit trait courbe détaché sous « nce » (x ≈ .36, y ≈ .625) ; cédille détachée (Commença) ou accent de la ligne 15 décalé à droite de « obscure » ; la finale est un e à délié, non un a : Commence retenu'
+  alternatives:
+  - Commença
+- ligne: 15
+  lemme: ', ciel'
+  analyse: le trait devant ciel, long et un peu courbe, ressemble à la parenthèse devant mais ; lu virgule (aucune fermante, sens)
+  alternatives:
+  - (ciel
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié sur l''image en seconde lecture : « doux » (l. 7) reste incertain (autre lecture : « beau ») ; M. Romert lu sans difficulté (R, o, m, e, r, t), non identifié ; Petit Beurre (LU) et kirsch de Forêt-Noire bien lus.'
+  alternatives: []
+controle:
+- ligne: 1
+  avant: apparat disposition « Tout le jour, »
+  apres: note supprimée
+  justification: la transcription balisée rend déjà la place de « Tout le jour, » et le retour à la ligne de « en course »
+- ligne: 15
+  avant: 'apparat signe « (mais » : parenthèse non refermée'
+  apres: note supprimée
+  justification: la transcription suffit (parenthèse non fermée transcrite telle quelle)
+- ligne: 4
+  avant: aucune note
+  apres: 'abreviation « 3 h » : trois heures'
+  justification: abréviation non annotée
+- ligne: 6
+  avant: aucune note
+  apres: 'abreviation « d''1 » : d''un'
+  justification: abréviation non annotée
+- ligne: 13
+  avant: aucune note
+  apres: 'abreviation « + en + » : plus en plus'
+  justification: abréviation non annotée
+- ligne: 20
+  avant: aucune note
+  apres: 'abreviation « 50c » : 50 centimes'
+  justification: abréviation non annotée ; notes doux, qu'il, 45 abrégées (traits paléographiques détaillés renvoyés à difficultes)
+remarques: Page commençant une nouvelle journée (et non suite du 10). Le crochet des comptes a des pieds horizontaux longs, presque un cadre ouvert à droite.
+resume: 'Dimanche 11 février 1917, Hippolyte Combes passe la journée en course : matinée à Toutencourt, déjeuner et arrêt de trois heures à Doullens, promenade solitaire le long d''un ruisseau. À 3 heures il repart pour Auxi-le-Château, où M. Romert, vieux célibataire héritier de trois générations, lui offre café, rhum de 1870 et kirsch de la Forêt-Noire. Au retour l''air devient glacial et il gèle durement ; nuit étoilée sans lune. Dépenses à Doullens : papeterie, cartes postales, chocolat, biscuits Petit Beurre.'
+noms:
+  personnes:
+  - forme: M. Romert
+    ligne: 9
+    identite: habitant d'Auxi-le-Château, vieux célibataire
+  lieux:
+  - forme: Toutencourt
+    ligne: 3
+    identite: Toutencourt (Somme)
+  - forme: Doullens
+    ligne: 4
+    identite: Doullens (Somme)
+  - forme: Auxi-le-Chateau
+    ligne: 8
+    identite: Auxi-le-Château (Pas-de-Calais)
+  - forme: Foret Noire
+    ligne: 10
+    identite: Forêt-Noire (Bade-Wurtemberg), provenance du kirsch
+source: contrôle

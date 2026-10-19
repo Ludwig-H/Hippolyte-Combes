@@ -1,0 +1,107 @@
+cliche: 40
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Dim. 10. \hfill Septbre 16
+  apres: \sl{Dim. 10.} \hfill \sl{Sept 16}
+  justification: 'Trait appuyé sous la date de gauche (x .125–.28) et sous le mois prolongé vers la gauche ; aucune finale -bre après Sept : la barre du t, longue, traverse le mot.'
+  confiance: moyenne
+- ligne: 2
+  avant: Très
+  apres: \ind Tres
+  justification: Aucun accent sur le e ; s final plongeant (ʒ) descendant entre les l. 2 et 3 ; ligne en retrait (x .14).
+  confiance: moyenne
+- ligne: 3
+  avant: rapprochés
+  apres: rapproché
+  justification: 'Après ch : e + délié puis accent détaché, sans s final.'
+  confiance: moyenne
+- ligne: 5
+  avant: 11H m
+  apres: 11^{H} m
+  justification: H petit, posé au niveau de la tête des chiffres.
+  confiance: haute
+- ligne: 6
+  avant: Voyage très agréable. –
+  apres: Voyage très agréable –
+  justification: Aucun point entre agréable et le tiret.
+  confiance: moyenne
+- ligne: 9
+  avant: A 1 H [s. ?],
+  apres: \ind A 1^{H} \inc{s}.,
+  justification: 'H suscrit après 1 ; puis haste isolée à trait d''attaque (aspect 1), point et virgule : s. du soir réduit à un 1 (guide, piège 26) ; ligne en retrait.'
+  confiance: moyenne
+- ligne: 10
+  avant: verdoyante.
+  apres: verdoyte.
+  justification: 'Après verdoy : seulement une haute boucle (t bouclé) et un e à long délié ; contraction.'
+  confiance: moyenne
+- ligne: 11
+  avant: coteau.
+  apres: cote.
+  justification: c, o, t bouclé, e puis long délié horizontal ; pas de minimes pour -au (comparer « coteaux » l. 7, plus long).
+  confiance: moyenne
+- ligne: 14
+  avant: Obligé
+  apres: \ind Obligé
+  justification: Ligne en retrait (x .135).
+  confiance: haute
+- ligne: 17
+  avant: mess off
+  apres: mes off
+  justification: m, e, puis un seul s final en crochet ; « mess » de la l. 14 a deux s nets.
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: \sl{Dim. 10.}
+  analyse: 'Le trait sous Dim. 10. touche à gauche le haut du T de Tres et à droite la haste du b de bonne : il peut s''agir de la barre de tête du T très prolongée ; sa longueur couvre exactement la date, d''où le soulignement.'
+  alternatives:
+  - Dim. 10. non souligné
+- ligne: 9
+  lemme: \inc{s}.
+  analyse: 'Après 1^{H} : haste oblique à trait d''attaque, haute comme un chiffre, puis un point bas et une virgule. Arrivée à 1 h de l''après-midi après départ à 11 h du matin.'
+  alternatives:
+  - '1'
+  - 1/ (fraction inachevée)
+- ligne: 10
+  lemme: verdoyte
+  analyse: v-e-r-d(∂)-o-y, puis haute boucle et e final prolongé ; aucune trace de -ante.
+  alternatives:
+  - verdoyante
+- ligne: 11
+  lemme: cote
+  analyse: La haste verticale suivie d'un point au-dessus de « De » vient du f de « fertiles » (l. 10) ; le point qui suit cote est la ponctuation.
+  alternatives:
+  - coteau
+  - côte
+- ligne: 17
+  lemme: 'off'
+  analyse: 'o, deux f à longues descentes, puis petite boucle et long délié montant : délié final ou s réduit.'
+  alternatives:
+  - offs
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Remarque du commentateur historique (Oppy, écart de Beaudricourt, non l''Oppy près d''Arras) : reprise dans « critique » ; rien à corriger sur l''image.'
+  alternatives: []
+- ligne: 11
+  lemme: en
+  analyse: La haste bouclée qui précède les deux jambages est la hampe du b de « b. » (l. 12) ; reste e + n peu distincts, « en » retenu par le sens.
+  alternatives:
+  - au
+controle:
+- ligne: 10
+  avant: régions
+  apres: regions
+  justification: Le crochet au-dessus du e est la fin du jambage d'un p de « Oppy » (l. 9), tracé continu depuis la ligne supérieure ; aucun accent propre.
+remarques: 'Encre noire virée au brun, homogène. Blancs plus larges avant les deux dernières lignes. Second contrôle : 1 intervention ; soulignement de « Dim. 10. » possiblement confondu avec la barre du T de « Tres ».'
+resume: Le dimanche 10 septembre 1916, Hippolyte Combes a dormi sur deux bancs de jardin rapprochés devant le four. Parti à 11 heures du matin par temps d'abord nuageux, il fait un voyage agréable à travers des paysages variés, des plaines aux hauteurs boisées, et arrive vers 1 heure à Oppy, hameau de six maisons situé en haut d'une côte, d'où la vue est belle. Il doit coucher au grenier de la ferme où est installé le mess. En fin d'après-midi, il va à pied à Beaudricourt, de service, chez le maire. Il prend tous ses repas au mess des officiers et se couche tôt.
+noms:
+  personnes: []
+  lieux:
+  - forme: Oppy
+    ligne: 9
+    identite: Oppy, hameau de Beaudricourt (Pas-de-Calais)
+  - forme: Beaudricourt
+    ligne: 16
+    identite: Beaudricourt (Pas-de-Calais)
+source: contrôle

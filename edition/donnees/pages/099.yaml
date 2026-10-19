@@ -1,0 +1,119 @@
+cliche: 99
+fichier: 20251126_104814.jpg
+date: Mercredi 15 et jeudi 16 novembre 1916
+mois: Novembre 1916
+lieux: Acheux-en-Amiénois, Albert, Raincheval, Louvencourt, Toutencourt et Hérissart (Somme)
+titre: Canonnade vers Beaumont ; Mission française à Albert ; déjeuner à Hérissart chez le Lt Walsh
+transcription: |
+  \sl{15 \inc{Me}} Toute la nuit, encore \hfill Nov^{bre} \sl{1916}
+  et durant journée, principt à l'aube très
+  violente canonnade vers Beaumont s/ Ancre \trait
+  \ind Très belle journée ensoleillée.
+  Matin, venu en auto à Albert Rentré de =
+  Passé au bureau mission fr^{se}. Rien de
+  nouveau me concernant
+  \ind Après-midi, liberté entière. Promené
+  village –
+  \blanc{1}
+  \crochet{2}Cartes ples : Acheux : 35c. — Journaux : 40c
+  Washing : 65c –
+  \filet
+  16 J – Matinée toujours très violent bombardt
+  \ind Vitres et fenêtres ne cessent pas de
+  trembler
+  \ind Soleil brillé journée entière. Gelé
+  fortt durant nuit. Bise froide.
+  \ind Matin & après-midi, en auto
+  Raincheval Louvencourt, Toutencourt etc.
+  Déjeuné à Hérissart chz Lt Walsh et
+  avec son interp^{te}. Fort apprécié ce dernier
+  M. \hfill , directeur d'1 usine
+  (\inc{tiss}) près Paris. Intelligent & distingué
+apparat:
+- ligne: 1
+  lemme: Me
+  type: abreviation
+  note: mercredi
+- ligne: 1
+  lemme: \inc{Me}
+  type: lecture
+  note: le 15 novembre 1916 est un mercredi, mais la seconde lettre, fermée, a l'aspect d'un a (Ma, mardi)
+- ligne: 1
+  lemme: Nov^{bre}
+  type: abreviation
+  note: novembre
+- ligne: 2
+  lemme: principt
+  type: abreviation
+  note: principalement
+- ligne: 3
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 5
+  lemme: de =
+  type: signe
+  note: '= : même (rentré de même, en auto)'
+- ligne: 6
+  lemme: fr^{se}
+  type: abreviation
+  note: française (Mission française auprès de l'armée britannique)
+- ligne: 10
+  lemme: Cartes
+  type: disposition
+  note: un tiret appuyé, dans la marge, précède le crochet
+- ligne: 10
+  lemme: Cartes ples
+  type: abreviation
+  note: cartes postales
+- ligne: 10
+  lemme: 35c.
+  type: abreviation
+  note: 35 centimes (de même 40c, l. 10, et 65c, l. 11)
+- ligne: 11
+  lemme: Washing
+  type: emprunt
+  note: blanchissage
+- ligne: 12
+  lemme: J
+  type: abreviation
+  note: jeudi
+- ligne: 12
+  lemme: bombardt
+  type: abreviation
+  note: bombardement
+- ligne: 16
+  lemme: fortt
+  type: abreviation
+  note: fortement
+- ligne: 19
+  lemme: chz
+  type: abreviation
+  note: chez
+- ligne: 19
+  lemme: Lt
+  type: abreviation
+  note: lieutenant
+- ligne: 20
+  lemme: interp^{te}
+  type: abreviation
+  note: interprète
+- ligne: 21
+  lemme: M.
+  type: abreviation
+  note: Monsieur ; le nom est laissé en blanc
+- ligne: 21
+  lemme: d'1
+  type: abreviation
+  note: d'une
+- ligne: 22
+  lemme: \inc{tiss}
+  type: lecture
+  note: 'deux hampes, i pointé, deux s hauts, sans finale : tiss(us) abrégé ? autre lecture : nom propre (Weiss ?)'
+critique: 'Encre gris-noir assez pâle pour la journée du mercredi 15 ; encre noire virée au brun, plus appuyée, pour les comptes du 15, le filet et la journée du jeudi 16 : les dépenses du 15 ont été portées avec le texte du 16.'
+historique: |
+  Les 15 et 16 novembre, la bataille de l'Ancre se poursuit à l'est de Beaumont-Hamel par des attaques contre Munich et Frankfort Trenches, encore aux mains allemandes le 16 (OH 1916-II, p.~510--512) ; la nouvelle première ligne, \textit{New Munich Trench}, a été creusée dans la nuit du 14 au 15 (CWGC). Le froid concorde avec l'histoire officielle (OH 1916-II, p.~513). Détaché à Acheux, Combes relève encore du bureau de la Mission française d'Albert, où il touchera sa solde le 18 (voir f.~48~r\textsuperscript{o} et 50~r\textsuperscript{o}) ; il en attend sans doute une décision sur son sort depuis l'annonce, en octobre, du renvoi d'une partie des interprètes (f.~42~r\textsuperscript{o}). Toutencourt est le siège du QG de la Fifth Army (Gough) depuis le 2 juillet 1916 (LLT) ; Hérissart, à 3~km à l'ouest, sera le poste de Combes à partir du 7 février 1917 (f.~74~r\textsuperscript{o}). Le lieutenant Walsh, revu jusqu'en janvier 1917, n'est pas identifié ; son interprète est nommé « M. Deloney » le 26 novembre (f.~51~v\textsuperscript{o}).
+sources:
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 510-513 (« another clear cold day », p. 513).
+- CWGC, New Munich Trench British Cemetery, Beaumont-Hamel, historique (cwgc.org, consulté le 17 oct. 2026).
+- Baker, C., The Long, Long Trail, « The British Fifth or Reserve Army 1916-1918 » (longlongtrail.co.uk, copie Wayback 2024).

@@ -1,0 +1,139 @@
+cliche: 92
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 4 \hfill Novbre /16
+  apres: \sl{Sam. 4} \hfill \sl{Nov^{b} /16}
+  justification: date et mois soulignés chacun d'un trait appuyé ; après Nov, un b suscrit lié à la barre de /16, sans finale -re visible
+  confiance: moyenne
+- ligne: 2
+  avant: Matin, dû me rendre à Bertrancourt.
+  apres: \ind Matin, dû me rendre à Bertrancourt
+  justification: 'ligne en retrait ; aucun point : la finale du t descend en long trait jusqu''à la ligne 3 (au-dessus de kil)'
+  confiance: haute
+- ligne: 3
+  avant: Venu à pied. Retour, s/ 1 lorry, 3 kil.
+  apres: Venu à pied. \add{au} Retour, s/ 1 lorry 3 kil
+  justification: '« au » écrit petit sous la ligne, entre le point après pied et le R majuscule de Retour : ajout ; aucune virgule après lorry ; le trait vertical après kil est le l, le trait épais voisin est la finale de Bertrancourt'
+  confiance: moyenne
+- ligne: 4
+  avant: Routes entt boueuses. Région plate.
+  apres: Routes entt boueuses Region plate
+  justification: pas de point après boueuses (long délié final) ni après plate ; aucun accent sur le e de Region
+  confiance: moyenne
+- ligne: 5
+  avant: Terres dévastées.
+  apres: Terres devastees.
+  justification: aucun accent visible au zoom
+  confiance: moyenne
+- ligne: 8
+  avant: de pétrole. Venu aux Divon Headquarters,
+  apres: de petrole Venu aux Div^{n} Headquarters,
+  justification: aucun accent ni point après petrole ; Div suivi d'un petit n surélevé, sans o distinct
+  confiance: moyenne
+- ligne: 10
+  avant: Au bureau mission fr. 2e division,
+  apres: au bureau mission fr. 2^{e} division
+  justification: a minuscule ; e suscrit ; aucune virgule après division
+  confiance: moyenne
+- ligne: 11
+  avant: R.F.A., que
+  apres: R.F.A –, que
+  justification: après A, un tiret court à mi-hauteur puis la virgule ; pas de point après A
+  confiance: moyenne
+- ligne: 12
+  avant: connu à Béthune.
+  apres: connu à Bethune.
+  justification: aucun accent sur le e
+  confiance: moyenne
+- ligne: 13
+  avant: Après lunch, sauté s/ 1 lorry et
+  apres: \ind Apres lunch, sauté s/ 1 lorry et
+  justification: alinéa ; aucun accent sur Apres
+  confiance: moyenne
+- ligne: 15
+  avant: Vu Lt Pizzi.
+  apres: Vu Lt Pozzi.
+  justification: la deuxième lettre est un o ovale fermé, lié par le haut, sans point ; le point du i est sur le dernier jambage
+  confiance: moyenne
+- ligne: 16
+  avant: Ciel noir. Pluie menaçante. Bois
+  apres: \ind Ciel noir. Pluie menacante. Bois
+  justification: léger retrait ; aucune cédille sous le c
+  confiance: moyenne
+- ligne: 18
+  avant: gelées d'automne. Routes, affrt boueuses.
+  apres: gelees d'\inc{automnes}. Routes, affr^{t} boueuses
+  justification: aucun accent sur gelees ; finale -es probable ; t suscrit ; aucun point final
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: '4'
+  analyse: 'trait montant puis petite boucle et crochet à droite, aspect « le » : forme ouverte du 4 ; confirmé par le calendrier (samedi 4 novembre 1916)'
+  alternatives: []
+- ligne: 3
+  lemme: \add{au}
+  analyse: a + u de module réduit, ligne de base plus basse que celle de Retour ; le point après pied et le R majuscule montrent que la phrase commençait à Retour
+  alternatives:
+  - Au Retour sans ajout
+- ligne: 8
+  lemme: Div^{n}
+  analyse: D en ∂, i (point déporté), v, puis un petit n surélevé ; aucun o distinct
+  alternatives:
+  - Div^{on}
+  - Divon
+- ligne: 15
+  lemme: Pozzi
+  analyse: P bouclé, o fermé, deux z plongeants, i pointé ; le o est sans ambiguïté sur ce cliché, mais le même lieutenant est lu Pizzi ailleurs
+  alternatives:
+  - Pizzi
+- ligne: 18
+  lemme: automnes
+  analyse: 'a, u, t barré, o, m-n en jambages, e, puis un trait distinct plongeant sous la ligne avant le point : s final plongeant (cf. ʒ final du guide) ; un simple délié de e reste concevable'
+  alternatives:
+  - automne
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Pozzi vérifié au zoom (P bouclé, o ovale fermé, zz plongeants, i pointé) : la page porte bien Pozzi ; l''harmonisation avec Pizzi (048, 085, 090) relève d''un contrôle de ces clichés, non de celui-ci.'
+  alternatives:
+  - Pizzi
+controle:
+- ligne: 18
+  avant: gelees d'\inc{automnes}.
+  apres: gelees d'automnes.
+  justification: 'zoom ×3 : après le e, un trait séparé plonge sous la ligne avant le point, forme du s final plongeant ; lecture tranchée, alternative automne laissée en difficultes'
+- ligne: 1
+  avant: 'apparat : 4 (lecture)'
+  apres: note supprimée
+  justification: '4 ouvert ordinaire, date confirmée par le calendrier : pas de difficulté réelle'
+- ligne: 9
+  avant: 'apparat : Bus (graphie)'
+  apres: note supprimée
+  justification: nom non déformé ; identification Bus-lès-Artois portée dans noms.lieux
+remarques: 'Pozzi/Pizzi : harmoniser avec 048, 085, 090 après contrôle de l''image.'
+resume: Samedi 4 novembre 1916. Le matin, Hippolyte Combes doit se rendre à pied à Bertrancourt et revient sur un camion (3 km), par des routes boueuses, dans une région plate et dévastée couverte de tentes, de huttes, de voitures et de caissons. Il y cherche l'interprète Jamet au sujet d'une question de pétrole, passe au quartier général de la division, à gauche de la route de Bus, et retrouve au bureau de la Mission française de la 2e division l'interprète Cordonnier (R.F.A.), connu à Béthune. Après le déjeuner, il regagne Albert en camion, passe à la 152nd Company puis au bureau de la Mission, où il voit le lieutenant Pozzi. Ciel noir, pluie menaçante, bois roussis par les gelées, routes affreusement boueuses.
+noms:
+  personnes:
+  - forme: Jamet
+    ligne: 7
+    identite: interprète militaire français
+  - forme: Cordonnier
+    ligne: 11
+    identite: interprète militaire français, auprès de la R.F.A., connu à Béthune
+  - forme: Pozzi
+    ligne: 15
+    identite: lieutenant de la Mission française à Albert (lu Pizzi ailleurs)
+  lieux:
+  - forme: Bertrancourt
+    ligne: 2
+    identite: Bertrancourt (Somme)
+  - forme: Bus
+    ligne: 9
+    identite: Bus-lès-Artois (Somme)
+  - forme: Bethune
+    ligne: 12
+    identite: Béthune (Pas-de-Calais)
+  - forme: Albert
+    ligne: 14
+    identite: Albert (Somme)
+source: contrôle

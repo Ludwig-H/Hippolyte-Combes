@@ -1,0 +1,122 @@
+cliche: 49
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Levé 7H ½ ... Sept 16
+  apres: Levé 7^{H} \fr{1}{2} ... \sl{Sept 16}
+  justification: H suscrit, demi empilé, date et mois soulignés ; pas de barre « / » avant 16 (barre du t prolongée)
+  confiance: haute
+- ligne: 5
+  avant: '[longeant ?]'
+  apres: derrière
+  justification: d bouclé initial, e, rr, i, ère ; accent en tiret décalé à droite
+  confiance: haute
+- ligne: 11
+  avant: Cap. Newton [?]
+  apres: cap \inc{Newton}
+  justification: c minuscule, p lié au N sans point
+  confiance: moyenne
+- ligne: 12
+  avant: ts mes [bagages ?]
+  apres: ts mes \ill \inc{bagages}
+  justification: un mot appuyé s'intercale entre mes et le dernier mot
+  confiance: moyenne
+- ligne: 13
+  avant: en 2 h. tout
+  apres: en 2 h., tout
+  justification: point bas après h puis petit trait vertical haut devant tout
+  confiance: moyenne
+- ligne: 15
+  avant: sur
+  apres: \inc{sur}
+  justification: le mot a l'aspect « au » ; sur par le sens
+  confiance: moyenne
+- ligne: 19
+  avant: hutte
+  apres: hutte \trait
+  justification: double trait incurvé après hutte
+  confiance: haute
+- ligne: 21
+  avant: Canon gronde
+  apres: Canon, grondé
+  justification: virgule en ( détachée devant g ; tiret d'accent au-dessus de la finale -de
+  confiance: moyenne
+difficultes:
+- ligne: 11
+  lemme: Newton
+  analyse: 'p2 (zoom [.27 .465 .52 .525] ×3) : cap = c, a fermé, p à haste descendante, sans point ; N à deux hastes (aspect tt), e, w ou u, haste sans barre, o, finale n à queue. Lecture non tranchée lettre à lettre.'
+  alternatives:
+  - Newson
+  - Newtown
+- ligne: 12
+  lemme: \ill \inc{bagages}
+  analyse: 'p2 (zoom [.76 .50 1.0 .575] ×4) : après ts (t à crochet) et mes, mot noyé d''encre (pâté, peut-être surcharge) : attaque fermée, haste, minimes, s plongeant. La grande boucle au-dessus du dernier mot est la descente du s de « suis » (l. 11), non une lettre ; le dernier mot commence par une petite boucle (b ?), a, une haste haute, a, minimes, g plongeant, e final en délié : « bagage(s) » imparfait, sans second jambage de g.'
+  alternatives:
+  - menus bagages
+  - mes bagages (dittographie)
+  - paquetage
+- ligne: 13
+  lemme: prêt
+  analyse: 'p2 : la barre du t final, doublée et prolongée vers la droite, n''est pas un \trait (même encre pâle, aucune levée distincte).'
+  alternatives: []
+- ligne: 15
+  lemme: sur
+  analyse: 'p2 (zoom [.55 .635 .95 .69] ×3) : panse fermée à hauteur d''œil + u, aucune boucle montante de s ; la graphie est « au », le sens impose « sur » (ou lapsus).'
+  alternatives:
+  - au
+- ligne: 16
+  lemme: l'église
+  analyse: l en C, un seul trait fin entre l et e (apostrophe, peut-être aussi accent), g, l bouclée, i pointé, se ; accent non assuré.
+  alternatives:
+  - l'eglise
+- ligne: 20
+  lemme: étoilée
+  analyse: 'p2 (zoom [.33 .885 .78 .94] ×3) : e initial sans accent propre ; le crochet couché en tête du t peut porter l''accent décalé ; finale ee écrasée.'
+  alternatives:
+  - etoilee
+  - étoilé
+- ligne: 21
+  lemme: grondé
+  analyse: tiret court au-dessus et à droite de la finale de gronde, indépendant du t de tout qui a sa barre
+  alternatives:
+  - gronde
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : Miles 1938 (OH 1916-II), p. 372 et 393-394, Nichols 1922, p. 79 ; « cap \inc{Newton} » non identifié (R7 F11), lecture incertaine, comme « \ill \inc{bagages} » (l. 12). Contrôle p2 : rien sur l''image ne permet de trancher davantage.'
+  alternatives: []
+controle:
+- ligne: 2
+  avant: (pas d'entrée pour 8^{H} et 11^{H})
+  apres: entrées d'abréviation 8^{H} et 11^{H}
+  justification: chaque abréviation doit être développée dans l'apparat
+- ligne: 13
+  avant: (pas d'entrée pour h.)
+  apres: entrée d'abréviation h. = heures
+  justification: abréviation non développée
+- ligne: 1
+  avant: 'note Sept 16 : la barre du t, prolongée, sert d''attaque au 1 (pas de « / »)'
+  apres: 'note Sept 16 : Septembre 1916'
+  justification: justification paléographique déplacée hors de l'apparat (changements)
+- ligne: 12
+  avant: 'note : mot appuyé (nus ? mes ?) puis mot à haste médiane ; « bagages » proposé'
+  apres: 'note : mot appuyé illisible, peut-être repris, puis « bagages » proposé ; « menus bagages » possible'
+  justification: la grande boucle au-dessus du dernier mot appartient au s de « suis » (l. 11) ; apparat allégé, analyse versée aux difficultés
+- ligne: 15
+  avant: 'note : s fermé en panse (aspect « au »), u, r étiré ; lecture par le sens'
+  apres: 'note : le mot a l''aspect de « au » ; « sur » retenu par le sens'
+  justification: zoom ×3 confirme panse fermée + u, sans s montant ; \inc{sur} maintenu
+remarques: Les en-têtes de phrase Après (l. 2, 10, 14) ont un a à peine agrandi ; majuscule conservée.
+resume: 'Dimanche 24 septembre 1916 au camp près d''Acheux : épais brouillard dissipé vers 11 h, puis chaleur. Hippolyte Combes achève sa hutte, plus spacieuse, derrière une haie d''aubépine, et va à pied à Forceville pour le fourrage vert. Après le déjeuner, où un capitaine (Newton ?) est invité, il prépare ses affaires en deux heures. Après le thé, il se promène à Acheux où une musique militaire joue sur la place, près de l''église et du château. Nuit étoilée ; le canon gronde tout le long du front.'
+noms:
+  personnes:
+  - forme: cap Newton
+    ligne: 11
+    identite: capitaine britannique invité au déjeuner (lecture incertaine)
+  lieux:
+  - forme: Forceville
+    ligne: 8
+    identite: Forceville (Somme)
+  - forme: Acheux
+    ligne: 15
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

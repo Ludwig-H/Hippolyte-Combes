@@ -1,0 +1,144 @@
+cliche: 170
+confiance: moyenne
+changements:
+- ligne: 5
+  avant: Mission fr.
+  apres: Mission F^{r}.
+  justification: F majuscule à barre, r suscrit en petite croix puis point
+  confiance: moyenne
+- ligne: 5
+  avant: q. mnts
+  apres: ql. mnts
+  justification: après le q, un l montant bouclé puis un trait bas avant mnts
+  confiance: moyenne
+- ligne: 6
+  avant: curé —
+  apres: curé. —
+  justification: point net au pied de l'é ; le trait vertical au-dessus est le jambage du g de village
+  confiance: haute
+- ligne: 9
+  avant: tjours
+  apres: Tjours
+  justification: haste haute barrée en tête, forme du T de Toutencourt
+  confiance: moyenne
+- ligne: 11
+  avant: ensemencés &
+  apres: ensemencés & \inc{à}
+  justification: après le &, panse et long trait horizontal suscrit = à
+  confiance: moyenne
+- ligne: 15
+  avant: mais fait grand bien.
+  apres: (mais fait grand bien.
+  justification: parenthèse ouvrante haute et fine devant mais (p2)
+  confiance: haute
+- ligne: 16
+  avant: 'Solde : 82 f. —'
+  apres: 'solde : 82^{f}. —'
+  justification: s initial minuscule ; f en boucle surélevée au-dessus de la fin du montant
+  confiance: moyenne
+- ligne: 17
+  avant: 'Cartes ples : 2 f. —'
+  apres: 'carte ples : 25c. —'
+  justification: c initial minuscule, pas de s final ; 2 bouclé puis 5 en ſ (drapeau de tête, haste sous la ligne), c contigu, point
+  confiance: moyenne
+- ligne: 17
+  avant: 'Washing : 80 c.'
+  apres: 'Washing : 80c —'
+  justification: c lié au 0, long délié puis tiret ; pas de point
+  confiance: haute
+- ligne: 18
+  avant: 19 Lundi. —
+  apres: 19 Lundi.
+  justification: le petit trait au-dessus du point est le point de l'i décalé ; pas de tiret
+  confiance: moyenne
+- ligne: 19
+  avant: entière
+  apres: entier^{t}
+  justification: petit t barré en croix au-dessus de la fin du mot
+  confiance: moyenne
+- ligne: 21
+  avant: l'ord[inaire ?]
+  apres: l'ord^{re}
+  justification: après le d, r et e surélevés
+  confiance: haute
+- ligne: 23
+  avant: 63rd Div.,
+  apres: 63^{rd} div.,
+  justification: rd suscrit ; d initial minuscule
+  confiance: moyenne
+- ligne: 26
+  avant: 2 off.,
+  apres: 2 offs,
+  justification: après off, point d'attaque et trait vertical = s final réduit, puis virgule
+  confiance: moyenne
+- ligne: 26
+  avant: intéressants.
+  apres: intéressants
+  justification: aucun point final
+  confiance: haute
+difficultes:
+- ligne: 5
+  lemme: ql. mnts
+  analyse: q à panse fermée et longue haste ; haste montante bouclée (l), sans descente ; trait bas (point abréviatif) ; m-n-t-s liés, s final en délié (zoom p2 [.85 .15 1 .20])
+  alternatives:
+  - q. mnts
+  - qq mnts
+- ligne: 11
+  lemme: \inc{à}
+  analyse: panse pleine d'encre d'où part un trait montant vers la droite prolongé en long trait horizontal ; le trait inférieur est la hampe d'ondulations (l. 12) ; à est le plus vraisemblable (« & à l'horizon lointain »)
+  alternatives:
+  - d'
+  - de
+- ligne: 17
+  lemme: 25c.
+  analyse: 2 bouclé ; ſ à drapeau de tête descendant sous la ligne = 5 (forme a), un f monétaire serait petit et haut ; c rond contigu ; point. Cf. 169, cartes postales à 15 c.
+  alternatives:
+  - 2 f c.
+- ligne: 19
+  lemme: entier^{t}
+  analyse: e-n-t-i-e-r liés ; au-dessus de la fin, petite croix (t suscrit) avant libre
+  alternatives:
+  - entière
+- ligne: 26
+  lemme: très
+  analyse: t bouclé, r, e ; s final fondu dans le délié
+  alternatives:
+  - tr.
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié en p2 : « 25c. » (cartes postales) confirmé sur l''image contre « 2 f. » ; le reste du commentaire (63rd (Royal Naval) Division, Miraumont, Achiet-le-Petit, Wentworth) est conforme à la lecture. Le curé de Toutencourt et l''unité de l''officier ne sont pas identifiés.'
+  alternatives: []
+controle:
+- ligne: 15
+  avant: \ind[2] mais fait grand bien.
+  apres: \ind[2] (mais fait grand bien.
+  justification: parenthèse ouvrante haute et fine nettement visible devant mais [.20 .505 .40 .54] ; non refermée (guide § 7)
+- ligne: 17
+  avant: 'carte ples : \inc{25 c.} —'
+  apres: 'carte ples : 25c. —'
+  justification: zoom [.05 .56 .42 .61], 5 en ſ à drapeau descendant sous la ligne, c contigu sans espace ; f monétaire exclu ; doute levé
+- ligne: 12
+  avant: 'apparat lecture : l initial noyé dans un pâté d''encre'
+  apres: 'apparat autre : l'' noyé dans un pâté d''encre'
+  justification: accident matériel, non une difficulté de lecture ; apparat épuré (coordonnées et détails paléographiques retirés des notes 82^{f}, entier^{t}, offs, 25c.)
+remarques: '63rd div., naval div. : 63rd (Royal Naval) Division.'
+resume: 'Dimanche 18 mars 1917 : matin pluvieux, après-midi ensoleillé. Le matin, Hippolyte Combes va à pied à la Mission française de Toutencourt, s''arrête à l''église et entend le prône du vieux curé ; l''après-midi, il accompagne le lieutenant Wentworth à Puchevillers à pied, l''auto étant en réparation, et contemple le paysage. Comptes : solde de 82 francs, cartes postales (25 c.), blanchissage (80 c.). Lundi 19 : temps couvert ; il cède un des deux lits à un officier de la 63rd (Royal Naval) Division, dont le régiment revient des tranchées de Miraumont et d''Achiet-le-Petit, et recueille des renseignements.'
+noms:
+  personnes:
+  - forme: Lt Wentworth
+    ligne: 7
+    identite: lieutenant australien, collègue d'Hippolyte Combes
+  lieux:
+  - forme: Toutencourt
+    ligne: 4
+    identite: Toutencourt (Somme)
+  - forme: Puchevillers
+    ligne: 8
+    identite: Puchevillers (Somme)
+  - forme: Miraumont
+    ligne: 25
+    identite: Miraumont (Somme)
+  - forme: Achiet-le-P^{t}.
+    ligne: 25
+    identite: Achiet-le-Petit (Pas-de-Calais)
+source: contrôle

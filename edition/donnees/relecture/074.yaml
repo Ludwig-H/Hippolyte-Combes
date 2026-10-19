@@ -1,0 +1,132 @@
+cliche: 74
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Oct / 16
+  apres: \sl{oct / 16}
+  justification: o initial au module des minuscules ; date et mois soulignés
+  confiance: haute
+- ligne: 2
+  avant: Ts
+  apres: \inc{Tot}
+  justification: 'T, petit élément à deux traits lié par le haut (o), puis t à longue barre : trois éléments, non T + s'
+  confiance: moyenne
+- ligne: 2
+  avant: 6 H 1/2
+  apres: 6^{H} \fr{1}{2}
+  justification: H suscrit ; demi empilé (1 au-dessus, 2 en ℓ)
+  confiance: haute
+- ligne: 3
+  avant: définitt (fin de l. 2)
+  apres: \hfill définitt sur la l. 3
+  justification: le mot est écrit sous « maison », à la hauteur de la l. 3, à droite
+  confiance: haute
+- ligne: 3
+  avant: lgt
+  apres: lgs
+  justification: l + g + s descendant, sans barre de t
+  confiance: haute
+- ligne: 4
+  avant: Ciel
+  apres: ciel
+  justification: c au module de l'i, sans boucle de tête
+  confiance: moyenne
+- ligne: 5
+  avant: Matinée
+  apres: matinée
+  justification: m minuscule à jambages, sans délié d'attaque de majuscule
+  confiance: moyenne
+- ligne: 6
+  avant: 11 H 15 m.
+  apres: 11^{H} 15 m.
+  justification: H nettement surélevé
+  confiance: haute
+- ligne: 8
+  avant: Arrêts
+  apres: Arrets
+  justification: aucun circonflexe visible (zoom [.00 .38 .14 .45])
+  confiance: haute
+- ligne: 10
+  avant: 3 H 1/2 s,
+  apres: 3^{H} \fr{1}{2} s,
+  justification: H suscrit, demi empilé ; s du soir réduit à un trait vertical (aspect 1), suivi d'une virgule longue
+  confiance: haute
+- ligne: 10
+  avant: Alors
+  apres: alors
+  justification: a minuscule (panse + jambage), à peine agrandi
+  confiance: moyenne
+- ligne: 11
+  avant: éclairci
+  apres: eclairci
+  justification: aucun accent sur l'e initial
+  confiance: moyenne
+- ligne: 14
+  avant: 1 f
+  apres: 1^{f}
+  justification: f monétaire suscrit
+  confiance: haute
+- ligne: 15
+  avant: ples
+  apres: p^{les}
+  justification: les écrit plus haut et plus petit après le p
+  confiance: moyenne
+- ligne: 15
+  avant: 15 c
+  apres: \inc{15} c
+  justification: le premier trait, en crochet montant de la ligne, peut être l'attaque du 5 en ſ plutôt qu'un 1 distinct
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: Tot
+  analyse: 'zoom [.34 .06 .43 .12] : T à crochet, petit élément à deux traits (o lié par le haut ou u), puis t dont la barre longue traverse ; aucun s. « Tôt paquets terminés » donne un sens acceptable ; « Tout » supposerait deux lettres entre T et t.'
+  alternatives:
+  - Tout
+  - Ts
+- ligne: 6
+  lemme: vers
+  analyse: 'zoom [.28 .27 .40 .33] : v à attaque, e, r, finale écrasée en délié ; s non distinct'
+  alternatives:
+  - ver
+  - sur
+- ligne: 9
+  lemme: Au delà de ,
+  analyse: le grand crochet en 6 dans le blanc est le jambage du g de « long » (l. 8) ; le crochet au-dessus de « delà » est le pied du f de « fréquents » ; seule une virgule précède « averses »
+  alternatives: []
+- ligne: 15
+  lemme: '15'
+  analyse: 'zoom [.43 .90 .53 .98] : trait en crochet partant du deux-points et remontant dans une haste longue à drapeau (5 en ſ) ; le crochet peut être un 1 lié ou la seule attaque du 5'
+  alternatives:
+  - 5 c
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources signalées (JMO 7/Bedf 15 oct., Wyrall p. 319, OH 1916-I p. 273, CWGC Beauval, Mérimée PA80000086, Fernand-Laurent 1917) : le nom de lieu laissé en blanc l. 9 n''est pas restitué ; « Tot » (l. 2) et « 15 » (l. 15) restent incertains après contrôle.'
+  alternatives: []
+controle:
+- ligne: 15
+  avant: 15 c
+  apres: \inc{15} c
+  justification: 'zoom [.43 .90 .53 .98] : le 1 n''est pas un trait séparé comme dans « Dim. 15 » (l. 1) ; il peut n''être que l''attaque du 5 en ſ ; note de lecture ajoutée (5 c possible)'
+- ligne: 2
+  avant: 'note de lecture : alternatives Ts, Tts'
+  apres: 'note de lecture : « Tôt », autre lecture « Tout »'
+  justification: 'zoom [.34 .06 .43 .12] : l''élément médian a deux traits (o ou u) ; aucune trace de s ; « Tts » écarté'
+- ligne: 10
+  avant: 'apparat : trois heures et demie du soir ; s réduit à un trait vertical (aspect 1)'
+  apres: 'apparat : trois heures et demie du soir'
+  justification: détail paléographique renvoyé aux changements (zoom [.29 .51 .43 .58] confirme le trait puis la virgule)
+remarques: Le nom de lieu laissé en blanc à la l. 9 n'a jamais été complété.
+resume: 'Hippolyte Combes se lève à 6 h 30, termine ses paquets et quitte définitivement son logement de Barlette. Après une matinée d''attente au mess, la colonne part vers 11 h 15 pour une lente chevauchée à travers une région paisible, sous de fortes averses. Arrivée à Beauval à 15 h 30, quand le ciel s''éclaircit ; la petite ville est remplie de troupes et il trouve une chambre en face du mess. Comptes : blanchissage et reprisage à Barlette, pourboire à Connelly, cartes postales à Beauval.'
+noms:
+  personnes:
+  - forme: Connelly
+    ligne: 14
+    identite: groom (ordonnance) d'Hippolyte Combes
+  lieux:
+  - forme: Beauval
+    ligne: 10
+    identite: Beauval (Somme)
+  - forme: Barlette
+    ligne: 14
+    identite: Barlette, près de Ribeaucourt (Somme)
+source: contrôle

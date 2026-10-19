@@ -1,0 +1,118 @@
+cliche: 35
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 4 L \hfill Sept 1916
+  apres: \sl{4 L} \hfill \sl{Sept 1916}
+  justification: Trait appuyé sous 4 L ; trait sous Sept 1916 (né du délié de pluie). Le trait au-dessus de Sept est la barre du t prolongée.
+  confiance: haute
+- ligne: 7
+  avant: 5H½
+  apres: 5 1/2
+  justification: Après 5, un 1 haut, une barre oblique et un 2 couché à long délié ; aucune H suscrite distincte.
+  confiance: moyenne
+- ligne: 8
+  avant: Me réjouis
+  apres: me Rejouis
+  justification: m minuscule de module courant ; R majuscule bouclé ; aucun accent sur le e.
+  confiance: haute
+- ligne: 11
+  avant: orderly
+  apres: \inc{orderly}
+  justification: 'Mot écrasé : deux minimes, d bouclé, e, haste, t/y barré ; lecture soutenue par N.C.O. à la ligne suivante.'
+  confiance: moyenne
+- ligne: 11
+  avant: prairie
+  apres: \inc{prairie}
+  justification: Lecture des traits maintenue mais le sens reste obscur.
+  confiance: moyenne
+- ligne: 15
+  avant: Et Toujours, même temps affreux –
+  apres: Et toujours, même temps affr. –
+  justification: 't initial minuscule ; le mot s''arrête après ff sur un r réduit prolongé en trait ondulé terminé par un point : forme abrégée.'
+  confiance: moyenne
+- ligne: 16
+  avant: Ciel couvert de nuages – Pluie intermittente
+  apres: ciel couvert de nuages – Pluie \sl{intermittente}
+  justification: c initial au module d'une minuscule ; trait net sous intermitt-.
+  confiance: moyenne
+- ligne: 20
+  avant: jusqu'à
+  apres: jusq à
+  justification: j, u, s long, q à longues descentes puis a accentué ; aucun u ni apostrophe entre q et à.
+  confiance: moyenne
+- ligne: 21
+  avant: 'Mission Fr.se : solde & Indemnité :'
+  apres: '\ind — Mission Fr.^{se} : solde & indemnité :'
+  justification: Tiret long en tête ; finale se suscrite, point sur la ligne sous elle ; i initial minuscule pointé.
+  confiance: haute
+- ligne: 22
+  avant: 78 f 75c
+  apres: \droite 78^{f} 75c
+  justification: Petit crochet suscrit entre 78 et 75 = f monétaire ; 7 à barre médiane, 5 en ſ ; montant rejeté à droite.
+  confiance: haute
+difficultes:
+- ligne: 7
+  lemme: 5 1/2
+  analyse: 5 à drapeau, puis un 1 haut, une barre oblique et un 2 couché prolongé d'un délié. Aucune H distincte (zoom ×3).
+  alternatives:
+  - 5^{h} 1/2
+  - 5 \fr{1}{2}
+- ligne: 11
+  lemme: prairie
+  analyse: p à haste longue (aspect f), r, a, i pointé, r, i pointé, e final appuyé, suivi d'une virgule recourbée (« < » au-dessus de retardé). Deux points d'i visibles, conformes à prairie ; sens peu clair (promenade au pré ?). pluie exclu par le nombre de lettres.
+  alternatives:
+  - frairie
+- ligne: 11
+  lemme: orderly
+  analyse: Deux minimes initiales (o-r réduits), d à boucle haute, e, haste, dernier trait barré horizontalement sans descente nette. Lecture appuyée sur N.C.O. ; ordely, orderl possibles.
+  alternatives:
+  - ordely
+- ligne: 12
+  lemme: départ
+  analyse: Lettres centrales empâtées (pâté d'encre, non rature) ; la barre du t traverse le début de retardé.
+  alternatives: []
+- ligne: 13
+  lemme: encore 8
+  analyse: Après encore, long délié puis un 8 dont la boucle haute est croisée par la descente du g de renseig (l. 12) ; 8 confirmé au zoom.
+  alternatives: []
+- ligne: 15
+  lemme: affr.
+  analyse: a, ff à longues hastes, petit trait montant (r) prolongé en trait ondulé horizontal terminé par un point. Abréviation certaine, développement affreux sûr par le sens.
+  alternatives:
+  - aff.
+  - affreux
+- ligne: 16
+  lemme: intermittente
+  analyse: 'Trait horizontal sous inter-mitt, à mi-distance de la ligne suivante, avant un blanc et une ligne en retrait : soulignement ou filet partiel.'
+  alternatives:
+  - \filet[d]{0.25}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'JMO 7/Bedf (ordre n° 28 du 4 sept., « Cancelled 5 a.m. 5.9.16 » ; ordre n° 29 du 8 sept.), R3 F9-F10 (quinzaine de 15 × 5 F 25 = 78,75, conforme au montant lu), OSM. « lieux » corrigé en Roëllecourt (graphie officielle) ; le carnet écrit Roellecourt sans tréma visible. Les « 8 jours » n''ont duré que quatre (départ le 9) : repris dans critique.'
+  alternatives: []
+controle:
+- ligne: 15
+  avant: \inc{affr.}
+  apres: affr.
+  justification: 'Zoom ×3 : a, ff et départ du r nets, fin en trait ondulé ponctué ; abréviation sûre, développement assuré par le sens.'
+- ligne: 0
+  avant: 'lieux : Marquay et Roellecourt'
+  apres: 'lieux : Marquay et Roëllecourt'
+  justification: Graphie officielle de la commune (remarque du commentateur) ; transcription inchangée.
+- ligne: 22
+  avant: 'apparat : 78 francs 75 centimes ; f réduit à un petit crochet suscrit'
+  apres: 'apparat : 78 francs 75 centimes, soit sans doute quinze jours à 5 f 25'
+  justification: 15 × 5,25 = 78,75, conforme à R3 ; détail paléographique déplacé dans changements.
+remarques: 'Le hameau quitté (l. 9) est sans doute Marquay, cantonnement des jours précédents. Le cliché 036 donne la fin du dimanche 3 septembre : ordre photographique non chronologique.'
+resume: 'Le lundi 4 septembre 1916, sous une pluie continuelle, Hippolyte Combes va le matin à Roëllecourt sur un chariot et revient à pied ; l''après-midi il fait lentement ses paquets, prêt à 5 heures et demie, heureux de quitter ce hameau obscur et boueux où il a été si mal logé. Le mardi 5, un sous-officier de service lui apprend que le départ est retardé ; il va se renseigner et reçoit la confirmation : encore huit jours à attendre. Le temps reste affreux ; l''après-midi il retourne à pied à Roëllecourt et rentre sous une pluie battante. Il note sa solde et son indemnité de la Mission française : 78 francs 75.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Roellecourt
+    ligne: 4
+    identite: Roëllecourt (Pas-de-Calais)
+  - forme: Roellecourt
+    ligne: 18
+    identite: Roëllecourt (Pas-de-Calais)
+source: contrôle

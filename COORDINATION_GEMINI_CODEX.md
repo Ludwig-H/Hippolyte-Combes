@@ -25,3 +25,12 @@ La publication se fait sur `main`, après contrôle de l'état distant et avance
 À la question de Louis sur l'exactitude « à tout point de vue », une contre-vérification a révélé que Saint-Sernin était placé dans la première permission alors que la visite relève de la seconde. Le contrôle géométrique et la vérification globale des citations ne détectaient pas l'appartenance chronologique de chaque point. Ce défaut est reconnu et corrigé ; Matabiau, nom inféré dans III, est également retiré. Les contextes et identifications proposés sont désormais explicités sur les cartes, et la tournée du 30 avril ne reçoit plus de départ implicite d'Hérissart.
 
 Le fichier `cartographie/verification/attestations_lieux.json` couvre les 120 points restants (80 lieux). Le validateur contrôle la période, les citations et les réserves imprimées pour chaque occurrence. Deux régressions reproduisent les défauts et confirment leur rejet. Les transcriptions restent inchangées : cette passe examine leurs attestations, sans prétendre à une nouvelle collation intégrale des images. La forme composée Corbeil-Essonnes a cependant été vérifiée ponctuellement sur l'autographe 145 et conservée. Les témoins de la livraison initiale restent identifiés comme tels.
+
+## Refonte complète de l'édition — 18-19 octobre 2026 (Claude)
+
+À la demande de Louis, l'édition a été entièrement refaite dans `edition/`, qui remplace `edition_philologique/` (conservée dans l'historique, étiquette `edition-philologique-2026-10`). Le titre ne porte plus « philologique » : *Livre-Journal. Texte diplomatique en regard des fac-similés, avec commentaire (critique & historique), cartes et illustrations*.
+
+- Ordre des feuillets restitué par la transparence de l'encre (93 feuillets reliés en tête ; `edition/donnees/codicologie.yaml`).
+- Relecture intégrale des 185 pages sur les photographies, en lecture puis contrôle indépendant, lettre à lettre dans les cas difficiles ; relevé par page dans `edition/donnees/relecture/`. Balisage diplomatique décrit dans `edition/BALISAGE.md`.
+- Commentaire historique refait page par page d'après huit dossiers de recherche (`edition/recherche/`) ; introductions générales et de chapitre, annexes (lettres relues sur les originaux, services, abréviations, glossaire, bibliographie), index et *loci paralleli* recalculés.
+- Générateur LaTeX neuf (`edition/src/`), format 160 × 226 mm, Libertinus ; cartes refaites (`edition/cartes/`) ; construction et vérifications : `edition/construire.sh`.

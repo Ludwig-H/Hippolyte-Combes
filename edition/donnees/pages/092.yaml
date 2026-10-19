@@ -1,0 +1,120 @@
+cliche: 92
+fichier: 20251126_104636.jpg
+date: Samedi 4 novembre 1916
+mois: Novembre 1916
+lieux: Acheux-en-Amiénois, Bertrancourt et Albert (Somme)
+titre: À pied à Bertrancourt (interprètes Jamet et Cordonnier) ; retour en camion à Albert
+transcription: |
+  \sl{Sam. 4} \hfill \sl{Nov^{b} /16}
+  \ind Matin, dû me rendre à Bertrancourt
+  Venu à pied. \add{au} Retour, s/ 1 lorry 3 kil
+  Routes entt boueuses Region plate
+  Terres devastees. Partout des tentes, des huttes,
+  des voitures, des caissons.
+  Recherché interprète Jamet, à propos question
+  de petrole Venu aux Div^{n} Headquarters,
+  tentes et huttes, à gauche route de Bus
+  au bureau mission fr. 2^{e} division
+  retrouvé interprète Cordonnier, R.F.A –, que
+  connu à Bethune.
+  \ind Apres lunch, sauté s/ 1 lorry et
+  retourné à Albert, à 152 Coy, puis au
+  bureau mission fr. Vu Lt Pozzi.
+  \ind Ciel noir. Pluie menacante. Bois
+  aux feuillages roussis et mordorés par les
+  gelees d'automnes. Routes, affr^{t} boueuses
+apparat:
+- ligne: 1
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 1
+  lemme: Nov^{b} /16
+  type: abreviation
+  note: novembre 1916
+- ligne: 3
+  lemme: \add{au}
+  type: ajout
+  note: « au » ajouté petit sous la ligne, entre « pied. » et « Retour »
+- ligne: 3
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 3
+  lemme: '1'
+  type: abreviation
+  note: un
+- ligne: 3
+  lemme: lorry
+  type: emprunt
+  note: camion
+- ligne: 3
+  lemme: kil
+  type: abreviation
+  note: kilomètres
+- ligne: 4
+  lemme: entt
+  type: abreviation
+  note: entièrement
+- ligne: 8
+  lemme: Div^{n}
+  type: abreviation
+  note: division
+- ligne: 8
+  lemme: Headquarters
+  type: emprunt
+  note: quartier général
+- ligne: 10
+  lemme: fr.
+  type: abreviation
+  note: française
+- ligne: 10
+  lemme: 2^{e}
+  type: abreviation
+  note: deuxième
+- ligne: 11
+  lemme: R.F.A
+  type: abreviation
+  note: 'Royal Field Artillery : artillerie de campagne britannique'
+- ligne: 13
+  lemme: lunch
+  type: emprunt
+  note: déjeuner
+- ligne: 13
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 13
+  lemme: lorry
+  type: emprunt
+  note: camion
+- ligne: 14
+  lemme: Coy
+  type: abreviation
+  note: 'Company : compagnie (152nd Company A.S.C.)'
+- ligne: 15
+  lemme: fr.
+  type: abreviation
+  note: française
+- ligne: 15
+  lemme: Lt
+  type: abreviation
+  note: lieutenant
+- ligne: 15
+  lemme: Pozzi
+  type: lecture
+  note: 'o fermé net après le P (transcription antérieure : Pizzi, forme lue aussi en 048, 085, 090)'
+- ligne: 18
+  lemme: automnes
+  type: lecture
+  note: 'pluriel : e puis s final plongeant (transcription antérieure : automne)'
+- ligne: 18
+  lemme: affr^{t}
+  type: abreviation
+  note: affreusement
+historique: |
+  Bertrancourt, à 3~km au nord-est d'Acheux, abrite des troupes du V Corps qui prépare l'attaque au nord de l'Ancre. La 2nd Division, l'une des quatre chargées du principal effort du 13 novembre (OH 1916-II, p.~477), y a sans doute le QG situé « à gauche route de Bus » (Bus-lès-Artois). Les tentes, huttes, voitures et caissons sont ceux de cette concentration, maintenue par une attaque « constamment remise mais jamais annulée » (OH 1916-II, p.~480). La « question de pétrole », qui le mène encore à Belle-Église le 6 (f.~47~v\textsuperscript{o}), porte peut-être sur l'essence, livrée en bidons de 2 ou 4 gallons (\textit{Statistics} 1922, p.~846). Ni Jamet ni Cordonnier, attaché à la \textit{Royal Field Artillery}, ne sont identifiés. La rencontre de Béthune suppose un service antérieur de Combes dans ce secteur ; la tradition familiale le place en 1915 au 1st Irish Guards, au repos à Béthune en juin-juillet (Kipling 1923). Le lieutenant de la Mission vu à Albert est sans doute l'officier interprète de la 18th Division (voir f.~45~v\textsuperscript{o}).
+sources:
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 477 et 480.
+- War Office, Statistics of the Military Effort of the British Empire during the Great War, 1914-1920, London, HMSO, 1922, p. 846.
+- Kipling, R., The Irish Guards in the Great War, vol. 1, London, Macmillan, 1923.

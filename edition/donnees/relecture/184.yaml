@@ -1,0 +1,152 @@
+cliche: 184
+confiance: haute
+changements:
+- ligne: 1
+  avant: 26 Jeudi.
+  apres: \sl{26 jeudi}
+  justification: j minuscule (point au-dessus de la haste) ; la marque à droite est le point du i, en tiret, à hauteur de tête ; soulignement sous 26 et jeudi
+  confiance: moyenne
+- ligne: 1
+  avant: — Avril 1917 —
+  apres: — \sl{Avril 1917} —
+  justification: trait appuyé sous Avril 1917 seul
+  confiance: haute
+- ligne: 2
+  avant: Matinée, temps nuageux.
+  apres: \ind Matinée, temps nuageux
+  justification: ligne en retrait ; aucun point, x final prolongé en délié montant
+  confiance: haute
+- ligne: 4
+  avant: Contay, Puchevillers & Pierregot.
+  apres: Contay. Puchevillers & Pierregot
+  justification: point rond net après Contay ; aucun point après Pierregot (barre du t)
+  confiance: haute
+- ligne: 5
+  avant: Après dîner
+  apres: Après diner
+  justification: simple point sur le i, pas de circonflexe
+  confiance: moyenne
+- ligne: 7
+  avant: de tranchées
+  apres: des tranchées
+  justification: après le e, petit crochet final (s réduit)
+  confiance: moyenne
+- ligne: 8
+  avant: Nuit merveillet étoilée —
+  apres: \ind Nuit merveillt etoilée –
+  justification: merveill + t (pas de e) ; aucun accent sur le premier e d'etoilée ; tiret court ; léger retrait
+  confiance: haute
+- ligne: 9
+  avant: 27 Ven.
+  apres: 27 \sl{Ven.}
+  justification: le trait terminé en crosse commence après 27
+  confiance: haute
+- ligne: 10
+  avant: \ind absent
+  apres: \ind Matin
+  justification: ligne en retrait
+  confiance: haute
+- ligne: 11
+  avant: av. plaisir
+  apres: av plaisir
+  justification: aucun point après av
+  confiance: haute
+- ligne: 12
+  avant: Rubempré. Rentré
+  apres: Rubempre Rentré
+  justification: pas d'accent sur le e final, prolongé en long délié ; aucun point
+  confiance: haute
+- ligne: 13
+  avant: Rubempré; l'auto
+  apres: Rubempré, l'auto
+  justification: virgule (trait vertical), non point-virgule
+  confiance: haute
+- ligne: 14
+  avant: sur Varennes.
+  apres: sur Varennes —
+  justification: tiret long épais en massue après Varennes, aucun point
+  confiance: haute
+- ligne: 16
+  avant: Soirée, chez les Denis
+  apres: \ind Soirée, chz les Denis
+  justification: c-h-z, z plongeant ; ligne en retrait ; pas de point final
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: jeudi
+  analyse: 'contrôle ×3 [0 0 .35 .06] : tiret au-dessus et à droite du i (son point) puis un point isolé à mi-hauteur, au-dessus de la ligne de base ; plutôt une moucheture ou un second point du i qu''une ponctuation'
+  alternatives:
+  - jeudi.
+- ligne: 7
+  lemme: des
+  analyse: d bouclé, e, puis un petit crochet descendant absent du « de » de la l. 6
+  alternatives:
+  - de
+- ligne: 11
+  lemme: Mortreux
+  analyse: 'contrôle ×3 [.45 .49 .90 .54] : M à long délié d''attaque, petite boucle fermée (o ou e), r en pointe, haste haute non barrée (t), r + e liés (aspect h), u, x final en très long trait ; Mortreux, patronyme picard courant, rend compte de tous les tracés'
+  alternatives:
+  - Mertreux
+- ligne: 13
+  lemme: l'auto
+  analyse: l bouclé, apostrophe en trait vertical haut, a, u, t barré, o réduit (aspect e)
+  alternatives: []
+- ligne: 14
+  lemme: Varennes —
+  analyse: 'contrôle [0 .66 .30 .71] : le trait épais suit le s sans levée de plume visible ; tiret en massue ou délié final prolongé, sans incidence sur le texte'
+  alternatives:
+  - sur Varennes \trait
+- ligne: 16
+  lemme: Hérissart
+  analyse: 'contrôle ×3 [.50 .74 .85 .79] : accent du à au-dessus du à ; un second trait court au-dessus de la seconde haste du H (accent du é, fondu dans le H) ; point du i ; ss en ff. Encre plus pâle, brunâtre, en fin de ligne (plume sèche)'
+  alternatives:
+  - Herissart
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1 049 caractères ; sources principales : OH 1916-I, p. 262, n. 1 (tranchées d''exercice, hypothèse R4 F62), LLT et CWGC (4th, 11th et 47th CCS à Varennes, village « déserté » en mai 1917), renvois f. 48 v°, 80 r°, 89 r°, 92 v°. Remarque : la lecture « Mortreux » est probable (autre lecture : Mertreux) ; famille non identifiée.'
+  alternatives: []
+controle:
+- ligne: 7
+  avant: 'apparat des : d, e et petit crochet final de s ; « de » possible'
+  apres: 'apparat des : s final réduit à un petit crochet ; « de » possible'
+  justification: note abrégée au trait décisif ; lecture « des » confirmée sur la tuile
+- ligne: 11
+  avant: 'apparat Mortreux : M, o, r, t, r, e, u et x final prolongé en long trait ; lecture probable'
+  apres: 'apparat Mortreux : lecture probable, x final prolongé en long trait ; « Mertreux » possible'
+  justification: analyse lettre à lettre renvoyée aux difficultés ; autre lecture ajoutée ; zoom ×3 confirme Mortreux comme lecture la plus économique
+- ligne: 16
+  avant: 'noms Denis : chez qui loge ou passe ses soirées'
+  apres: chez qui Hippolyte Combes passe ses soirées
+  justification: la page (et 183) n'atteste que des soirées chez les Denis, non le logement
+resume: Le jeudi 26 avril 1917, matinée nuageuse puis soleil ; courses à Contay, Puchevillers et Pierregot. Après le dîner, promenade par le petit chemin de Puchevillers le long d'abris et de tranchées, sous un ciel bleu ; nuit étoilée. Le vendredi 27, courses à Contay, Harponville et Varennes, où Hippolyte Combes revoit la famille Mortreux, puis à Pierregot et Rubempré ; il rentre seul à pied de Rubempré, l'auto continuant sur Varennes. Temps nuageux et un peu froid ; soirée chez les Denis à Hérissart.
+noms:
+  personnes:
+  - forme: Mortreux
+    ligne: 11
+    identite: famille de Varennes (Somme)
+  - forme: Denis
+    ligne: 16
+    identite: famille d'Hérissart, chez qui Hippolyte Combes passe ses soirées
+  lieux:
+  - forme: Contay
+    ligne: 4
+    identite: Contay (Somme)
+  - forme: Puchevillers
+    ligne: 4
+    identite: Puchevillers (Somme)
+  - forme: Pierregot
+    ligne: 4
+    identite: Pierregot (Somme)
+  - forme: Harponville
+    ligne: 10
+    identite: Harponville (Somme)
+  - forme: Varennes
+    ligne: 10
+    identite: Varennes (Somme)
+  - forme: Rubempre
+    ligne: 12
+    identite: Rubempré (Somme)
+  - forme: Hérissart
+    ligne: 16
+    identite: Hérissart (Somme)
+source: contrôle

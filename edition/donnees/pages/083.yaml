@@ -1,0 +1,98 @@
+cliche: 83
+fichier: 20251126_104346.jpg
+date: Dimanche 22 octobre 1916
+mois: Octobre 1916
+lieux: Albert (Somme)
+titre: Gel ; la Vierge penchée d'Albert ; Schumacher annonce le renvoi des interprètes R.A.T.
+transcription: |
+  \sl{Dimanche 22.} \hfill \sl{Oct^{b}/16}
+  \ind Encore cette nuit, gelé très dur.
+  Canonnade, pas cessé un instant.
+  \fr{1}{2} jour, très beau soleil Journée superbe
+  Après lunch, promené ville : resté lgs arrêté
+  devant église. Murs de brique rouges, façade
+  \inc{si} artistique, et haute tour, atteinte par
+  obus bombardement 1914. Vierge, horiz^{le},
+  penche Jésus bras ouverts au-dessus place
+  Rencontré qq interprètes. Schumacher m'a
+  appris que les 2/3 des interprètes, jeunes R.A.T.
+  seront renvoyés regiments frs. . .
+  \blanc{3}
+  Canons se sont tus fin jour
+  Au retour du mess, vers 9 H s., lost my way
+  sur le plateau, à cause nuit très noire
+  Dû errer passim avant revenir Albert
+  et retrouver mon billet
+  \ind Ce soir, exceptt, calme absolu
+apparat:
+- ligne: 1
+  lemme: Oct^{b}
+  type: abreviation
+  note: octobre
+- ligne: 4
+  lemme: \fr{1}{2} jour
+  type: abreviation
+  note: 'demi-jour : midi'
+- ligne: 5
+  lemme: lunch
+  type: emprunt
+  note: déjeuner
+- ligne: 5
+  lemme: lgs
+  type: abreviation
+  note: longtemps
+- ligne: 6
+  lemme: brique
+  type: lecture
+  note: sans -s final (« briques » lu antérieurement)
+- ligne: 7
+  lemme: \inc{si}
+  type: lecture
+  note: petite boucle surmontée d'un trait courbe ; « à », de même forme l. 15, possible mais sans sens ici
+- ligne: 8
+  lemme: horiz^{le}
+  type: abreviation
+  note: horizontale
+- ligne: 10
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 11
+  lemme: R.A.T.
+  type: abreviation
+  note: réserve de l'armée territoriale
+- ligne: 12
+  lemme: frs
+  type: abreviation
+  note: français
+- ligne: 14
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 14
+  lemme: 9 H s.
+  type: abreviation
+  note: 9 heures du soir
+- ligne: 14
+  lemme: lost my way
+  type: emprunt
+  note: perdu mon chemin
+- ligne: 16
+  lemme: passim
+  type: emprunt
+  note: 'latin : çà et là'
+- ligne: 17
+  lemme: billet
+  type: emprunt
+  note: 'anglais : cantonnement, logement'
+- ligne: 18
+  lemme: exceptt
+  type: abreviation
+  note: exceptionnellement
+critique: Un blanc d'environ trois lignes sépare la nouvelle donnée par Schumacher de la fin de la journée, écrite à la même encre violette.
+historique: |
+  La basilique Notre-Dame de Brebières a été élevée en briques sur les plans d'Edmond Duthoit (Mérimée PA80000002). Sa tour porte une statue dorée de la Vierge présentant l'Enfant, œuvre d'Albert Roze. Les obus l'ont atteinte non en 1914 mais en janvier 1915. Le 15 janvier, vers 15~h, la coupole vole en éclats et la statue s'incline, puis le soir, sous l'effet de la tempête, elle se couche à l'horizontale. Elle restera ainsi jusqu'au 16 avril 1918, où l'artillerie britannique l'abat (diocèse d'Amiens). L'adjudant interprète Schumacher est déjà nommé en août (voir f.~12~r\textsuperscript{o}). La R.A.T. est la réserve de l'armée territoriale. D'après sa fiche matricule, Combes doit sans doute y passer le 1er novembre 1916 : la mesure le touche donc directement. Le 24, on lui dira qu'il reste à la Mission (voir f.~43~r\textsuperscript{o}), mais la menace reparaît le 1er décembre (f.~52~v\textsuperscript{o}). Aucun texte de cette mesure n'a été retrouvé. Le calme du soir concorde avec la météo : beau temps le 22, puis une « brume épaisse » (OH 1916-II, p.~462).
+sources:
+- Diocèse d'Amiens, « Notre-Dame de Brebières ou la “Vierge penchée” », 13 mars 2018, amiens.catholique.fr.
+- Ministère de la Culture, base Mérimée, notice PA80000002 (basilique Notre-Dame de Brebières, Albert).
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 462.

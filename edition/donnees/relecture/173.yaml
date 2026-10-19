@@ -1,0 +1,129 @@
+cliche: 173
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 26 Lundi \hfill Mars /17
+  apres: 26 \sl{Lundi} \hfill \sl{Mars /17}
+  justification: Le trait souligne Lundi seul (pas 26) et le mois.
+  confiance: haute
+- ligne: 2
+  avant: intermittente
+  apres: intermitt^{te}
+  justification: intermitt sous barre commune, puis finale de deux lettres détachée et surélevée, suivie d'un point.
+  confiance: moyenne
+- ligne: 3
+  avant: cloaques
+  apres: cloaque
+  justification: c-l-o-a-q-u-e prolongé d'un long délié, sans s final, puis point isolé.
+  confiance: moyenne
+- ligne: 5
+  avant: traversé
+  apres: \inc{arrivé}
+  justification: La boucle à gauche est le jambage du g de « patauge » (l. 4) ; le mot ne commence ni par t ni par p.
+  confiance: basse
+- ligne: 5
+  avant: avec
+  apres: av
+  justification: a + v arrondi + délié horizontal, trois éléments seulement.
+  confiance: moyenne
+- ligne: 8
+  avant: 27 Mardi —
+  apres: \sl{27 mardi} –
+  justification: m initial minuscule ; trait sous 27 et mardi ; tiret court.
+  confiance: haute
+- ligne: 11
+  avant: 1 h.
+  apres: 1 h
+  justification: Aucun point après h ; le point visible est sous le 1.
+  confiance: moyenne
+- ligne: 12
+  avant: Matinée, course à pied, à Rubempré.
+  apres: matinée course à pied à Rubempré
+  justification: Aucune virgule ni point ; m initial au module des minuscules (contrôle p2).
+  confiance: moyenne
+- ligne: 16
+  avant: restés presq sans troupes. Village redevenu
+  apres: restés \add{presq} sans troupes. Village, redevenu
+  justification: presq écrit sous la ligne ; virgule nette après Village.
+  confiance: haute
+- ligne: 17
+  avant: 28 Merc. —
+  apres: 28 \sl{Merc.}
+  justification: Trait sous Merc. seul ; pas de tiret, seulement un point.
+  confiance: haute
+- ligne: 19
+  avant: assez
+  apres: assz
+  justification: a + deux hautes s + z plongeant, aucun e.
+  confiance: haute
+- ligne: 21
+  avant: funèbre
+  apres: funebre
+  justification: Aucun accent visible sur le e.
+  confiance: moyenne
+difficultes:
+- ligne: 5
+  lemme: \inc{arrivé}
+  analyse: 'Après Monin (x ≈ .235–.40, y ≈ .185) : a, r, r en c, i (point déporté à droite), v lié à e, accent déporté. La boucle descendante à l''attaque (x ≈ .21) est le g de patauge (l. 4) ; la haste montante voisine est le L de L''ai (l. 6). Pas de hautes boucles de ss comme dans « Passé » (l. 6) : « passé » exclu.'
+  alternatives:
+  - traversé
+  - venu
+- ligne: 7
+  lemme: \inc{usé}
+  analyse: Après la virgule, u puis une finale plongeante au bord droit, sans accent visible, puis un point.
+  alternatives:
+  - us.
+- ligne: 2
+  lemme: intermitt^{te}
+  analyse: 'Finale suscrite (x ≈ .60–.64, y ≈ .065) : petit trait vertical bouclé puis arche à queue ; aucune barre de t visible, d''où « en » possible ; développement identique.'
+  alternatives:
+  - intermitt^{en}
+- ligne: 16
+  lemme: très
+  analyse: t et r liés, è puis une finale réduite, sans s distinct.
+  alternatives:
+  - tr.
+- ligne: 20
+  lemme: après-midi
+  analyse: Le trait d'union est réduit à un point bas entre après et midi ; non noté.
+  alternatives:
+  - après.midi
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : JMO 7/Bedf (26-27 mars 1917), Nichols 1922 p. 166, LLT (QG du II Corps et de la Fifth Army, CCS), CWGC Puchevillers, OH 1917-I p. 151 ; Monin n''est pas identifié ; la lecture « arrivé » (l. 5) reste incertaine (contrôlée p2 : « passé » exclu, « traversé » non soutenu).'
+  alternatives: []
+controle:
+- ligne: 12
+  avant: \ind Matinée course à pied à Rubempré
+  apres: \ind matinée course à pied à Rubempré
+  justification: 'Zoom [0 .47 .25 .52] ×3 : initiale au module des minuscules, attaque courte, sans le long délié du M (cf. Monin l. 5).'
+- ligne: 2
+  avant: (aucune note de lecture)
+  apres: note lecture sur intermitt^{te}
+  justification: 'Zoom [.28 .05 .65 .10] ×3 : la finale suscrite n''a pas de barre de t ; « en » possible.'
+- ligne: 5
+  avant: note lecture détaillée sur \inc{arrivé}
+  apres: note brève ; analyse en difficultes
+  justification: 'Zoom [0 .155 .42 .21] ×3 : pas de ss bouclés, « passé » exclu ; lecture maintenue incertaine. Apparat épuré.'
+- ligne: 7
+  avant: note « mot très serré au bord droit de la page (u + finale réduite, point) »
+  apres: note brève avec alternative « us. »
+  justification: 'Zoom [.70 .22 1 .27] ×3 : u + finale plongeante, aucun accent visible ; \inc maintenu.'
+remarques: Le village de cantonnement (Hérissart, d'après les pages voisines) n'est pas nommé sur la page.
+resume: 'Le lundi 26 mars 1917, la pluie transforme les rues en cloaque. Monin passe au village avec sa compagnie pour y cantonner une nuit : Combes le revoit avec plaisir, mais le trouve vieilli et usé. Le 27, il y a des giboulées et de la neige. Combes court le matin à Rubempré, puis va à Puchevillers. Les troupes ont quitté le village à l''aube. Le 28, Combes est libre ; il fait froid, et il se promène en fin d''après-midi sur la route de Puchevillers.'
+noms:
+  personnes:
+  - forme: Monin
+    ligne: 5
+    identite: camarade d'Hippolyte Combes, officier d'une compagnie de passage
+  lieux:
+  - forme: Rubempré
+    ligne: 12
+    identite: Rubempré (Somme)
+  - forme: Puchevillers
+    ligne: 13
+    identite: Puchevillers (Somme)
+  - forme: Puchevillers
+    ligne: 20
+    identite: Puchevillers (Somme)
+source: contrôle

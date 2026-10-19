@@ -1,0 +1,107 @@
+cliche: 179
+fichier: 20251126_111614.jpg
+date: Mercredi 11 – vendredi 13 avril 1917
+mois: Avril 1917
+lieux: Hérissart, Doullens, Warloy-Baillon et Belle-Église (Arquèves, Somme)
+titre: Neige du 11 avril ; achats à Doullens ; dégel ; conversation avec le Lt Gilbert, de Jersey
+transcription: |
+  \sl{Merc 11} — \hfill — \sl{Avril 1917} —
+  nuit très froide
+  Matinée, course à Doullens.
+  après-midi, course à Warloy
+  Tout le jour et le soir davantage, neigé lgs
+  et abondamment. Routes, champs, toits, arbres étaient
+  blancs
+  nuit, rafales très violentes \trait
+  \crochet{3}A Doullens : ceinture cuir : 10^{f}50 + 14^{f} = 24^{f}50 – Boîte \add{(canteen)} de \inc{farine} : 1^{f}
+  2 Cahiers geog. (Somme) : 60.. — Cartes p^{les} : 60 c. + 10^{c} —
+  Varia : 1 f. — 2 semelles liège : 40 c. — Tre d'iode : 35
+  2 Boîte de chlorate potasse : 1^{f}. – 1 Boîte pastilles menthe : 75
+  \filet
+  12 \sl{Jeudi} : Nuit gelé un peu. Neige durcie.
+  Dans la journée, dégel fondu neige. Routes
+  transformées en marécages boueux \trait
+  Matinée, course à Belle-Eglise.
+  Après-midi, liberté entière —
+  \blanc{1}
+  \sl{13 Ven.} —
+  \ind[2] matinée, très beau temps, mais un peu
+  froid. Après-midi, ciel de nouveau nuageux
+  et pluie menaçante \trait
+  \ind Liberté entière tout le jour.
+  après-midi, long talk avec Sec^{d} Lt Gilbert,
+  de Jersey, il est très instruit et poète \trait
+apparat:
+- ligne: 1
+  lemme: Merc
+  type: abreviation
+  note: mercredi
+- ligne: 5
+  lemme: lgs
+  type: abreviation
+  note: longtemps
+- ligne: 9
+  lemme: 10^{f}50 + 14^{f} = 24^{f}50
+  type: disposition
+  note: addition écrite en oblique, vers le haut, dans un cartouche fermé qui empiète sur les l. 6–8
+- ligne: 9
+  lemme: (canteen)
+  type: emprunt
+  note: cantine ; ajouté au-dessus de « de farine »
+- ligne: 9
+  lemme: farine
+  type: lecture
+  note: 'lecture incertaine (initiale haute à longue descente) ; autres lectures : pain, fécule ; « cacao » (lecture antérieure) peu compatible'
+- ligne: 9
+  lemme: 1^{f}
+  type: disposition
+  note: prix écrit sous « farine », au-dessus de la fin de la l. 10
+- ligne: 10
+  lemme: Cahiers
+  type: lecture
+  note: lecture nouvelle ; antérieurement « Cartes »
+- ligne: 10
+  lemme: geog.
+  type: abreviation
+  note: géographiques
+- ligne: 10
+  lemme: 60..
+  type: abreviation
+  note: 60 centimes
+- ligne: 10
+  lemme: p^{les}
+  type: abreviation
+  note: postales
+- ligne: 11
+  lemme: Varia
+  type: emprunt
+  note: 'latin : dépenses diverses'
+- ligne: 11
+  lemme: Tre
+  type: abreviation
+  note: teinture
+- ligne: 18
+  lemme: Ven.
+  type: abreviation
+  note: vendredi
+- ligne: 23
+  lemme: long talk
+  type: emprunt
+  note: longue conversation
+- ligne: 23
+  lemme: Sec^{d} Lt
+  type: abreviation
+  note: 'Second Lieutenant : sous-lieutenant britannique'
+- ligne: 24
+  lemme: il
+  type: lecture
+  note: i réduit, son point rejeté après le l (aspect « l. »)
+critique: Encre violette uniforme. Les comptes de Doullens, ouverts par un grand crochet, sont séparés de la journée du 12 par un filet.
+historique: |
+  La neige du 11 avril tombe le matin même où la 4th Australian Division, appuyée de chars, attaque Bullecourt « sur un sol maintenant plus enneigé que la veille » ; l'histoire officielle juge une neige d'avril « rare en Picardie » (OH 1917-I, p.~161, 364). À Doullens, à une quinzaine de kilomètres au nord d'Hérissart, la boîte achetée « (canteen) » vient sans doute d'une succursale des \textit{Expeditionary Force Canteens}, qui vendaient les produits britanniques près du prix coûtant (Fernand-Laurent 1917, p.~82-83 ; Fortescue 1928, p.~52-53). Teinture d'iode et chlorate de potasse, alors employé en pastilles ou en gargarisme contre les maux de gorge, composent une pharmacie de campagne. Warloy abrite l'aérodrome du No.~4 Squadron du Royal Flying Corps (Jones 1931, app.~XII). Le \textit{Second Lieutenant} Gilbert, « de Jersey », qui reparaît jusqu'au 30 avril (f.~90 v\textsuperscript{o}, 92 v\textsuperscript{o}, 93 r\textsuperscript{o}), n'est pas identifié : cinq officiers de l'A.S.C. portent ce nom, aucun n'est relié à Jersey ni à une œuvre poétique (TNA, WO 339).
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 161, 361-364.
+- Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 82-83.
+- Fortescue, Sir J., A Short Account of Canteens in the British Army, Cambridge, Cambridge University Press, 1928, p. 52-53.
+- Jones, H. A., The War in the Air, vol. III, Oxford, Clarendon Press, 1931, appendice XII.
+- 'The National Archives (Kew), WO 339 : dossiers d''officiers de l''Army Service Corps nommés Gilbert (notices du catalogue).'

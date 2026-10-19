@@ -1,0 +1,158 @@
+cliche: 6
+fichier: 20251126_093204.jpg
+date: Samedi 29 juillet 1916
+mois: Juillet 1916
+lieux: Saint-Jans-Cappel et le Mont-Noir (Nord)
+titre: Fourrage avec Curtis à Saint-Jans-Cappel et au Mont-Noir ; houblonnières, ballons captifs
+transcription: |
+  \sl{Sam. 29} \hfill \sl{Juillet 16}
+  \ind Sur pied à 7^{H} 1/2 –
+  Breakfast à peine terminé, que ce fou de
+  Curtis venu me prendre — Sommes allé chercher fourrage
+  à St-Jans Cappel – et ds le hameau de Le \inc{Mont-Noir}
+  \ind Rencontré \inc{curieux} \inc{v.} \inc{ce} village et causé longt s/
+  la dernière attaque à l. notre division a pris part.
+  \ind Après-midi, ce fou de C^{tis} revenu me
+  prendre. \inc{De} 2 à 5^{H}, au plein soleil, ds 1 champ
+  où fait faucher & peser fourrage —
+  Oté veste & gilet – allongé s/ \inc{l'herbe} \del{\ill}
+  paysage et pensé lgt à Marg^{te}. —
+  \ind Région de plaines – de nombreuses houblonnières –
+  A l'horizon, ballons captifs. De temps à autre,
+  bombardement lointain –
+  \ind Ciel traversé d'avions anglais.
+  Après diner ; venu promener au village de
+  St Jans -cappel (1)
+  \filet
+  Payé à fermière où je loge pour 4 oeufs et
+  2 litres 1/2 de lait : 1^{f} 60. —
+  5 cartes ples : 50c. —
+  \blanc{2}
+  \filet
+  (1) maisons très basses – blancs rideaux aux
+  fenêtres –
+  \ind eglise au clocher eff^{l}
+apparat:
+- ligne: 1
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 1
+  lemme: Juillet 16
+  type: abreviation
+  note: juillet 1916
+- ligne: 2
+  lemme: 7^{H} 1/2
+  type: abreviation
+  note: sept heures et demie
+- ligne: 3
+  lemme: Breakfast
+  type: emprunt
+  note: petit déjeuner
+- ligne: 5
+  lemme: St
+  type: abreviation
+  note: Saint
+- ligne: 5
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 5
+  lemme: Mont-Noir
+  type: lecture
+  note: Mont- seul formé, la fin du mot réduite à un long délié ; Mont-N. possible
+- ligne: 6
+  lemme: curieux
+  type: lecture
+  note: début du mot masqué par le jambage du p de Cappel (l. 5) ; Leroux possible
+- ligne: 6
+  lemme: v.
+  type: lecture
+  note: v suivi d'une coche, puis a ou ce ; abréviation probable de vicaire (lecture antérieure « vicaire de ce »)
+- ligne: 6
+  lemme: longt
+  type: abreviation
+  note: longtemps
+- ligne: 6
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 7
+  lemme: l.
+  type: abreviation
+  note: laquelle
+- ligne: 8
+  lemme: C^{tis}
+  type: abreviation
+  note: Curtis
+- ligne: 9
+  lemme: De
+  type: lecture
+  note: mot noyé dans un pâté d'encre ; lecture appelée par « 2 à 5 »
+- ligne: 9
+  lemme: 5^{H}
+  type: abreviation
+  note: cinq heures
+- ligne: 9
+  lemme: ds 1 champ
+  type: abreviation
+  note: dans un champ
+- ligne: 11
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 11
+  lemme: l'herbe
+  type: lecture
+  note: mot à l'encre délavée, frotté avant séchage
+- ligne: 11
+  lemme: \del{\ill}
+  type: rature
+  note: mot entièrement noirci, illisible ; le sens appelle un verbe (regardé, contemplé ?)
+- ligne: 12
+  lemme: lgt
+  type: abreviation
+  note: longtemps
+- ligne: 12
+  lemme: Marg^{te}
+  type: abreviation
+  note: Marguerite
+- ligne: 18
+  lemme: St
+  type: abreviation
+  note: Saint
+- ligne: 18
+  lemme: (1)
+  type: disposition
+  note: appel de la note des l. 22-24, sous le filet du bas de la page
+- ligne: 20
+  lemme: 1/2
+  type: abreviation
+  note: et demi
+- ligne: 20
+  lemme: 1^{f} 60
+  type: abreviation
+  note: 1 franc 60
+- ligne: 21
+  lemme: cartes ples
+  type: abreviation
+  note: cartes postales
+- ligne: 21
+  lemme: 50c.
+  type: abreviation
+  note: 50 centimes
+- ligne: 24
+  lemme: eff^{l}
+  type: abreviation
+  note: effilé
+critique: 'La mention « St Jans -cappel (1) », serrée au-dessus du filet, et la dernière ligne de la note sont d''une encre plus pâle, brunâtre : ajouts probables. La note (1), décrivant le village, est séparée des comptes par un blanc et un filet.'
+historique: |
+  Le Mont-Noir, hameau de Saint-Jans-Cappel sur la frontière belge, à 1,8 km du village (OSM), avait été pris par le Cavalry Corps britannique le 13 octobre 1914 (CWGC, Mont Noir Military Cemetery). Le fourrage fauché et pesé est le fourrage vert (\textit{« rye grass, lucerne, sainfoin, clover »}) qui complète la ration de foin (FSPB 1914, chap. 6, « Forage », § 20) ; sur Curtis, voir f. 1 r\textsuperscript{o}. « La dernière attaque » est celle de la Somme : Montauban le 1\textsuperscript{er} juillet, puis le bois des Trônes, emporté par la 54th Brigade le 14 (Nichols 1922, p.~51--74) ; du 14 au 21 juillet, la division a perdu 129 officiers et 2~597 hommes (OH 1916-II, p.~107, n.~3). L'interlocuteur, peut-être un vicaire, n'est pas identifié. Les houblonnières sont propres au pied des monts de Flandre, culture « délicate et coûteuse » (Blanchard 1906, p.~359--360). Ballons et canonnade viennent sans doute du front de Wytschaete–Messines, à une douzaine de kilomètres à l'est, allemand jusqu'au 7 juin 1917 (CWGC). L'église est celle de la Décollation-de-Saint-Jean-Baptiste (Palissy).
+sources:
+- Commonwealth War Graves Commission, historiques des cimetières « Mont Noir Military Cemetery », « Wytschaete Military Cemetery » et « Messines Ridge British Cemetery ».
+- Field Service Pocket Book, 1914, Londres, HMSO, 1914, chap. 6, « Forage », § 20.
+- Nichols, G. H. F., The 18th Division in the Great War, Édimbourg–Londres, Blackwood, 1922, p. 51-74.
+- Miles, Wilfrid (comp.), Military Operations, France and Belgium, 1916, vol. II, Londres, Macmillan, 1938, p. 107, n. 3.
+- Blanchard, Raoul, La Flandre. Étude géographique de la plaine flamande en France, Belgique et Hollande, Paris, Armand Colin, 1906, p. 359-360.
+- Ministère de la Culture, base Palissy, objets mobiliers de la commune de Saint-Jans-Cappel.
+- OpenStreetMap / Nominatim, distances à vol d'oiseau entre chefs-lieux.

@@ -1,0 +1,139 @@
+cliche: 176
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: — Avril 1917 —
+  apres: \centre — \sl{Avril 1917} —
+  justification: trait appuyé sous « Avril 1917 » seulement ; ligne centrée
+  confiance: haute
+- ligne: 2
+  avant: 4 Merc. — Temps affreux. Matinée, tourmente
+  apres: 4 \sl{Merc.} — Temps affreux – matinée, tourmente
+  justification: trait de soulignement sous « Merc. » seul ; tiret court après affreux, pas de point ; m initial minuscule
+  confiance: haute
+- ligne: 4
+  avant: drus et serrés, allés de ferme en ferme, pr
+  apres: drus et serré, aller de ferme en ferme, pr
+  justification: 'serré : barre d''accent sur le e final, aucun s ; aller : a, deux l, e, r final en pointe, aucun accent'
+  confiance: moyenne
+- ligne: 5
+  avant: acheter fourrage.
+  apres: acheter fourrage
+  justification: long délié final, aucun point
+  confiance: haute
+- ligne: 6
+  avant: Après-midi, liberté entière. Écrit ds ma
+  apres: \ind Après-midi, liberté entière. Ecrit ds ma
+  justification: E sans accent ; ligne en retrait
+  confiance: haute
+- ligne: 7
+  avant: chambre et lu jx au bureau.
+  apres: chambre et lu jx au bureau
+  justification: aucun point final
+  confiance: haute
+- ligne: 8
+  avant: '[ Hair cut : 30 c. — — Carnets de timbres : 4 f. — ]'
+  apres: '[Hair cut : 90 c . . . . — Carnets de timbres : \inc{10^{f}} —'
+  justification: 9 à boucle fermée en haut et haste ; points de conduite ; 1 + 0 ouvert + signe suscrit ; aucun crochet fermant
+  confiance: moyenne
+- ligne: 9
+  avant: 5 Jeudi-Saint — Enfin, belle journée. Ciel bleu,
+  apres: 5 \sl{Jeudi-Saint} — Enfin, belle journée. Ciel bleu,
+  justification: trait sous Jeudi-Saint, issu de la descente du J ; le 5 hors du trait
+  confiance: haute
+- ligne: 10
+  avant: tout ensoleillé.
+  apres: \ind[2] tout ensoleillé
+  justification: le signe après é est l'accent, aucun point ; ligne fortement en retrait
+  confiance: haute
+- ligne: 11
+  avant: 'Après-midi, course en auto : Acheux, par'
+  apres: Après-midi, course en auto. Acheux, par
+  justification: point rond net après auto
+  confiance: haute
+- ligne: 12
+  avant: Contay-Warloy-Varennes. Ts ces villages, très calmes,
+  apres: Contay - Warloy - Varennes. Ts ces villages, très calmes
+  justification: tirets espacés ; long délié final, pas de virgule
+  confiance: moyenne
+- ligne: 13
+  avant: paraissent déserts, maintenant sans troupes.
+  apres: paraissent deserts, maintenant sans troupes
+  justification: aucun accent sur le premier e ; pas de point
+  confiance: moyenne
+- ligne: 14
+  avant: Dîner terminé, promenade habituelle, à
+  apres: Diner terminé, promenade habituelle à —
+  justification: pas de circonflexe ; pas de virgule ; tiret bas après à, distinct de l'accent placé plus haut
+  confiance: haute
+- ligne: 18
+  avant: Soir, église village, entendu prêche passion.
+  apres: \ind Soir, eglise village, entendu preche passion
+  justification: ni accent sur e initial ni circonflexe sur preche ; pas de point final
+  confiance: moyenne
+- ligne: 19
+  avant: Nuit merve. Pleine lune, magnifique.
+  apres: \ind Nuit merv^{se}. Pleine lune, magnifique —
+  justification: après merv, finale surélevée (s montant + e plongeant) ; tiret après magnifique
+  confiance: moyenne
+difficultes:
+- ligne: 8
+  lemme: 10^{f}
+  analyse: 'zoom ×3 [.72 .29 1.0 .345] : haste à trait d''attaque (1), ovale ouvert en haut (0), puis, surélevé à droite, une boucle basse dont la haste remonte et se recourbe à gauche (forme ∂) ; puis tiret. Le chiffre 10 est sûr ; l''unité est f monétaire (forme inhabituelle) ou d (pence)'
+  alternatives:
+  - 10^{d}
+- ligne: 13
+  lemme: deserts
+  analyse: d, e, s montant, e, r, t barré prolongé, finale en crochet (s réduit) ; « deserte » graphiquement possible, mais l'accord avec « villages » impose deserts
+  alternatives:
+  - deserte
+- ligne: 16
+  lemme: vue
+  analyse: attaque + deux jambages + e ; v et u indistincts ; le long trait montant de l'é de Contemplé est l'accent prolongé, non une rature de « derrière »
+  alternatives:
+  - une
+- ligne: 19
+  lemme: merv^{se}
+  analyse: m, e, r, v sur la ligne, puis haute boucle montante et finale plongeante, surélevées ; aucune croix (x exclu)
+  alternatives:
+  - merv^{le}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Contrôle p2 : « 90 c » confirmé (9 à boucle fermée, non 3) ; « 10 » confirmé (non 4), unité f probable mais d (pence) non exclu, d''où \inc. La comparaison avec les 30 c de février reste valable pour 90 c.'
+  alternatives: []
+controle:
+- ligne: 4
+  avant: drus et serré, \inc{aller} de ferme en ferme, pr
+  apres: drus et serré, aller de ferme en ferme, pr
+  justification: a, deux l bouclés, e, r final en pointe nets sur la tuile ; aucun accent ni s ; incertitude levée
+- ligne: 8
+  avant: 'Carnets de timbres : 10^{f} —'
+  apres: 'Carnets de timbres : \inc{10^{f}} —'
+  justification: le signe suscrit a la forme d'un d bouclé (∂) ; f probable, d (pence) non exclu
+- ligne: 8
+  avant: apparat « [Hair cut » (disposition), l. 9 Jeudi-Saint (autre), l. 14 « à — » (signe)
+  apres: notes supprimées
+  justification: la transcription balisée et la critique suffisent
+resume: 'Mercredi 4 avril 1917, par une tourmente de neige, Hippolyte Combes court à Toutencourt de ferme en ferme pour acheter du fourrage ; l''après-midi, libre, il écrit dans sa chambre et lit les journaux au bureau. Il note une coupe de cheveux (90 c) et des carnets de timbres (10 f ?). Le Jeudi saint 5 avril, belle journée ensoleillée : course en auto à Acheux par Contay, Warloy et Varennes, villages calmes et déserts sans troupes. Après le dîner, promenade près d''Hérissart, coucher de soleil derrière les cyprès du cimetière ; le soir, prêche de la Passion à l''église du village, nuit de pleine lune.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Toutencourt
+    ligne: 3
+    identite: Toutencourt (Somme)
+  - forme: Acheux
+    ligne: 11
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Contay
+    ligne: 12
+    identite: Contay (Somme)
+  - forme: Warloy
+    ligne: 12
+    identite: Warloy-Baillon (Somme)
+  - forme: Varennes
+    ligne: 12
+    identite: Varennes (Somme)
+  - forme: Hérissart
+    ligne: 15
+    identite: Hérissart (Somme)
+source: contrôle

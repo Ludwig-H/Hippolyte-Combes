@@ -1,0 +1,122 @@
+cliche: 140
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 3 — \hfill Févr. /17
+  apres: \sl{Sam. 3} — \hfill \sl{Fev. 17}
+  justification: F, e, v puis point, sans r ni accent ; pas de barre oblique devant 17 (simple attaque du 1) ; deux soulignements nets
+  confiance: haute
+- ligne: 2
+  avant: — Dentiste, M. de Lersay
+  apres: – Dentiste M. de Lersay
+  justification: aucune virgule après Dentiste ; tirets d'ouverture courts sur toute la page
+  confiance: moyenne
+- ligne: 3
+  avant: '40 f = net : 25 f —'
+  apres: '\inc{40}^{f} — net : 25 —'
+  justification: f suscrit après 40 ; un seul trait (le second trait du signe = est le tiret d'ouverture de la l. 4) ; aucun f après 25 (le trait au-dessus du 5 est son drapeau)
+  confiance: moyenne
+- ligne: 4
+  avant: '— Broche A.P.C. : 3 f'
+  apres: '\droite – Broche A.P.C : 3^{f}'
+  justification: ligne rejetée à droite ; aucun point après C (les deux points qui suivent forment le deux-points couché) ; f suscrit haut, au-dessus et à droite du 3
+  confiance: moyenne
+- ligne: 7
+  avant: 'Étrennes à Marie : 5 f —'
+  apres: 'Etrenne à Marie : 5^{f} —'
+  justification: le trait au-dessus de l'E est son attaque, continue avec la boucle de tête (pas d'accent détaché) ; le mot finit sur -nne et un long délié, sans s ; petit f suscrit en crochet après le 5
+  confiance: moyenne
+- ligne: 8
+  avant: 'déclassé en 2e : 1 f'
+  apres: 'declassé en 2^{e} : 1^{f} —'
+  justification: aucun accent sur le premier e (celui du é final est décalé au-dessus de en) ; e et f suscrits ; tiret final
+  confiance: haute
+- ligne: 9
+  avant: 'Béziers – Millau : 1 f 80'
+  apres: 'Béziers . Millau : 1 80'
+  justification: un tiret court (accent du é, décalé au-dessus du z) suivi d'un point distinct (celui du i) ; point, non tiret, entre les deux noms ; aucun f entre 1 et 80 (le 8 a une haute boucle supérieure)
+  confiance: moyenne
+- ligne: 10
+  avant: 'Bédarieux : 6 f 75 + 25 c'
+  apres: 'Bedarieux : 6 75 + 25c'
+  justification: 'pas d''accent ; après le 6, un 7 à barre de tête et barre médiane, un 5 bouclé, une croix +, un 2 fermé en d, un 5 en ſ : aucun f ; c collé à 25'
+  confiance: moyenne
+difficultes:
+- ligne: 3
+  lemme: '40'
+  analyse: 'panse fermée en bas à gauche, haste montant à droite (aspect d), puis 0 ovale et f suscrit en petite boucle ; même tracé que le 2 de 25c (l. 10) et de 2^{e} (l. 8), mais aussi forme du 4 fermé ; le 2 de 20c (l. 5) et de 25 (l. 3) est bouclé, d''une autre forme ; un prix brut de 20 f s''accorderait mal avec « net : 25 »'
+  alternatives:
+  - '20'
+- ligne: 2
+  lemme: Lersay
+  analyse: L bouclé haut, deux jambages (e, r), puis un s plongeant en ʒ dont la queue part vers la droite, a, y à longue descente ; la présence de deux éléments avant le ʒ favorise Lersay (ou Lerzay) contre Lezay ; nom lu de même en 138 selon la première lecture
+  alternatives:
+  - Lerzay
+  - Lezay
+- ligne: 4
+  lemme: A.P.C
+  analyse: 'lettre médiane : haste descendante et petite boucle de tête à droite (P), non la forme de l''S en L bouclé (cf. Supplément, l. 8) ; trois points abréviatifs nets après A et P, aucun après C'
+  alternatives:
+  - A.R.C
+- ligne: 8
+  lemme: m'être
+  analyse: 'apostrophe non distincte : la haute boucle qui précède le e de être peut la porter'
+  alternatives:
+  - m être
+- ligne: 9
+  lemme: Béziers
+  analyse: finale -ier suivie d'un crochet bref, lu s réduit
+  alternatives:
+  - Bézier
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Points vérifiés sur l''image : prix brut du dentiste toujours douteux (\inc{40}, 20 possible) ; « Lersay » maintenu (Lezay moins probable) ; « A.P.C » lu avec un P net, sigle non résolu ; « declassé en 2^{e} » est d''une lecture sûre, le sens (supplément pour passer en 2e classe) relève du commentaire.'
+  alternatives: []
+controle:
+- ligne: 7
+  avant: '– Étrenne à Marie : 5^{f} —'
+  apres: '– Etrenne à Marie : 5^{f} —'
+  justification: 'zoom ×3 : le trait oblique au-dessus de l''initiale se poursuit sans levée dans la boucle de tête de l''E bouclé ; aucun accent détaché'
+- ligne: 9
+  avant: Beziers
+  apres: Béziers
+  justification: 'zoom ×3 : au-dessus de « zi », un tiret court puis, à sa droite, un point distinct ; le tiret est l''accent du é (décalé sur la lettre suivante), le point celui du i'
+- ligne: 2
+  avant: (aucune note sur Lersay)
+  apres: 'note lecture : Lersay, autre lecture Lezay'
+  justification: question du commentateur ; deux éléments avant le s plongeant, d'où Lersay maintenu sans \inc
+- ligne: 4
+  avant: (montants f et c sans note)
+  apres: notes d'abréviation groupées sur 3^{f} (l. 4) et 20c (l. 5)
+  justification: chaque abréviation doit être développée ; regroupement pour éviter la répétition
+- ligne: 9
+  avant: 'note compte : 1 80 = 1 f 80, f non écrit'
+  apres: (supprimée)
+  justification: ni total faux ni opération implicite ; note inutile au lecteur
+remarques: Montants entiers avec f suscrit (l. 3, 4, 7, 8), montants à centimes sans f (l. 9, 10). Le prix brut du dentiste reste douteux (40 ou 20).
+resume: Suite des comptes du samedi 3 février 1917, jour du départ de Toulouse. Hippolyte Combes paie le dentiste M. de Lersay pour un grand nettoyage et trois plombages (prix net 25 f), une broche, des trams à Toulouse, l'enregistrement des bagages de Marguerite et des étrennes à Marie. Il note aussi un supplément pour avoir voyagé en 2e classe, un billet à demi-place de Béziers à Millau et un repas au buffet de Bédarieux. Un filet clôt la liste ; le reste de la page est blanc.
+noms:
+  personnes:
+  - forme: M. de Lersay
+    ligne: 2
+    identite: dentiste à Toulouse (cf. 138)
+  - forme: Margte
+    ligne: 6
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Marie
+    ligne: 7
+    identite: domestique, sans doute la bonne Maria (064)
+  lieux:
+  - forme: Toulouse
+    ligne: 5
+    identite: Toulouse (Haute-Garonne)
+  - forme: Béziers
+    ligne: 9
+    identite: Béziers (Hérault)
+  - forme: Millau
+    ligne: 9
+    identite: Millau (Aveyron)
+  - forme: Bedarieux
+    ligne: 10
+    identite: Bédarieux (Hérault)
+source: contrôle

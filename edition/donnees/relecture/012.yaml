@@ -1,0 +1,144 @@
+cliche: 12
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 5 \hfill Août 1916
+  apres: \sl{Sam. 5} \hfill Aout \sl{1916}
+  justification: Trait appuyé sous « Sam. 5 » prolongé jusque sous la l. 2 ; second trait sous 1916 seulement ; aucun circonflexe sur Aout.
+  confiance: haute
+- ligne: 2
+  avant: Levé vers 6H
+  apres: \ind Lev. vers 6^{H} –
+  justification: Mot réduit à L-e-v suivi d'un point bas, sans accent ; H nettement surélevé ; tiret court après ; ligne en retrait sous la date.
+  confiance: moyenne
+- ligne: 3
+  avant: Bientôt,
+  apres: Bientot,
+  justification: 'Aucun circonflexe : seule la longue barre du t passe au-dessus.'
+  confiance: moyenne
+- ligne: 4
+  avant: Porté moi-m. en 3 voy.,
+  apres: Porte moi-= en 3 voy.
+  justification: Aucun accent au-dessus ou à droite de Porte ; signe = après le trait d'union (guide § 7) ; un seul point après voy, pas de virgule.
+  confiance: haute
+- ligne: 5
+  avant: no 5 —
+  apres: no 5 –
+  justification: Tiret court, de la largeur d'une lettre ; o de no sur la ligne, non surélevé.
+  confiance: haute
+- ligne: 9
+  avant: se préparent
+  apres: se preparent
+  justification: Aucun accent visible sur le premier e.
+  confiance: moyenne
+- ligne: 10
+  avant: 2H.
+  apres: 2^{H}.
+  justification: H écrit petit au-dessus de la ligne de tête.
+  confiance: haute
+- ligne: 13
+  avant: 4H 1/2
+  apres: 4^{H} \fr{1}{2}
+  justification: H suscrit ; fraction empilée (1 en haut, petite barre, 2 dessous), non oblique.
+  confiance: haute
+- ligne: 18
+  avant: superbe
+  apres: superbe \trait
+  justification: Délié final prolongé en long trait horizontal vers la marge.
+  confiance: moyenne
+- ligne: 20
+  avant: St Jans-Cappel (pour oeufs,
+  apres: St Jans-Capel (pour oeufs, )
+  justification: Une seule descendante de p entre a et e ; trait fin oblique en bout de ligne, lu comme parenthèse fermante (aucune parenthèse après bière à la l. 21).
+  confiance: moyenne
+- ligne: 21
+  avant: 'lait & bière) : 1 f 60. et for washing : 3 f —'
+  apres: 'lait & bière : 1^{f} 60 et for washing : 3 —'
+  justification: Pas de parenthèse après bière ; petite boucle du f au-dessus de la ligne entre 1 et 60 ; aucun point après 60 ; aucun f après 3, seulement le long tiret.
+  confiance: moyenne
+- ligne: 22
+  avant: 'Consommations : 60 c (bière)'
+  apres: '\ind[2] Consommations : 60c (bière)'
+  justification: Ligne serrée dans l'interligne, en retrait ; c accolé au 0.
+  confiance: moyenne
+- ligne: 23
+  avant: 1f –
+  apres: 1 f —
+  justification: f sur la ligne, à longue descendante ; tiret long et épais en massue.
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: Lev. vers
+  analyse: 'Premier mot très encré, traversé par la haste du B de la ligne 3 : L bouclé, petite boucle e, v, puis un point bas (ponctuation ou accent déplacé). « vers » : v, e, r terminé en long délié plongeant qui vaut sans doute le s (comparer « vers » l. 13, s net).'
+  alternatives:
+  - Levé vers
+  - Lev. ver
+- ligne: 4
+  lemme: à l'office
+  analyse: 'Entre a et l un seul petit trait oblique, à hauteur d''œil : accent de à ou apostrophe de l'' ; aucun second signe. Même cas l. 14 (à l''entrée, où une petite panse précède le l).'
+  alternatives:
+  - à loffice
+  - a l'office
+- ligne: 15
+  lemme: Steenwerck
+  analyse: S en ſ barré avec le t, ee, n, w en deux arches, e, r, c, k à haute boucle avec nœud et jambe (aspect « he »), long délié final ; le nœud du k n'est pas un e final.
+  alternatives:
+  - Steenwercke
+- ligne: 20
+  lemme: oeufs, )
+  analyse: oeufs très encré (reprise d'encre), puis virgule et un trait fin oblique descendant, distinct de l'écriture, lu comme parenthèse fermante.
+  alternatives:
+  - oeufs,
+- ligne: 21
+  lemme: 'lait & bière : 1^{f} 60'
+  analyse: Entre lait et bière une petite boucle liée (& réduit) ; après bière un seul point net à mi-hauteur, le second point du deux-points peu visible ; f monétaire réduit à une petite boucle haute.
+  alternatives:
+  - lait e bière . 1^{f} 60
+- ligne: 23
+  lemme: 1 f —
+  analyse: Après les deux-points, haste du 1 recoupée par un f à longue descendante, sans surélévation nette ; tiret épais au-dessous à droite.
+  alternatives:
+  - 1^{f} —
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Remarque du commentateur historique : Connelly non identifié au-delà de son nom ; aucun lien établi entre les horse-lines et le cimetière de La Croix-du-Bac. Rien à imprimer.'
+  alternatives: []
+- ligne: 22
+  lemme: Consommations
+  analyse: 'Finale compressée (…matiſ) : -ons réduit ; lecture du mot certaine par le sens.'
+  alternatives:
+  - Consommatns
+controle:
+- ligne: 17
+  avant: en face de ma Coy
+  apres: en face de la Coy
+  justification: Le mot devant Coy commence par une haste haute bouclée (l), suivie d'un a ; aucune attaque de minimes de m (zoom .50 .67 1.0 .73).
+- ligne: 22
+  avant: (bière)
+  apres: (bière
+  justification: Le seul tracé après bière est la descente du g de washing (l. 21) ; aucune parenthèse fermante distincte.
+- ligne: 0
+  avant: apparat chargé
+  apres: apparat épuré
+  justification: Analyse paléographique retirée des notes Lev., Jans-Capel, oeufs ; note de lecture ajoutée pour la Coy ; critique rédigée.
+remarques: La forme « La Croix » / « du Bac » est coupée en fin de ligne (l. 12–13).
+resume: Le samedi 5 août 1916, Hippolyte Combes achève ses préparatifs à Saint-Jans-Cappel, porte ses sacs au bureau et les voit charger sur le wagon no 5. Sous un ciel couvert puis un soleil brûlant, le convoi part à 2 heures, passe par Bailleul et atteint La Croix-du-Bac vers 4 h 30. Les lignes des chevaux sont installées à l'entrée du village, côté Steenwerck ; il cherche des chambres pour les officiers et se loge en face de la compagnie. Les comptes notent la fermière de Saint-Jans-Cappel, le blanchissage, des consommations et un pourboire à Connelly, son ordonnance.
+noms:
+  personnes:
+  - forme: Connelly
+    ligne: 23
+    identite: ordonnance (groom) d'Hippolyte Combes
+  lieux:
+  - forme: Bailleul
+    ligne: 12
+    identite: Bailleul (Nord)
+  - forme: La Croix du Bac
+    ligne: 12
+    identite: La Croix-du-Bac, hameau de Steenwerck (Nord)
+  - forme: Steenwerck
+    ligne: 15
+    identite: Steenwerck (Nord)
+  - forme: St Jans-Capel
+    ligne: 20
+    identite: Saint-Jans-Cappel (Nord)
+source: contrôle

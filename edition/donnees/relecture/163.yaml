@@ -1,0 +1,157 @@
+cliche: 163
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 6 Mardi — \hfill — Mars 1917 —
+  apres: 6 \sl{mardi} \hfill — \sl{Mars 1917} —
+  justification: m initial au module d'une minuscule ; soulignements sous « mardi » et « Mars 1917 » seuls ; aucun tiret après mardi
+  confiance: haute
+- ligne: 2
+  avant: Tout le jour, soufflé bise glaciale.
+  apres: tout le jour, soufflé / bise glaciale. Ciel resté nuageux
+  justification: la ligne manuscrite s'arrête après « soufflé » ; t initial minuscule ; « Ciel resté nuageux » termine la l. 3
+  confiance: haute
+- ligne: 4
+  avant: Matinée, entière libre.
+  apres: matinée, entier^{t} libre.
+  justification: 't suscrit barré au-dessus de la finale : abréviation de entièrement ; initiale minuscule'
+  confiance: moyenne
+- ligne: 6
+  avant: Après-midi, venu à Doullens, avec Cap. W.
+  apres: après-midi, venu à Doullens, avec cap. W^{m} —
+  justification: m suscrit après W, c minuscule, tiret final à la marge
+  confiance: haute
+- ligne: 7
+  avant: très sympathique
+  apres: tr sympathique
+  justification: forme abrégée « tr » (aspect hu, barre de t), non le mot entier
+  confiance: moyenne
+- ligne: 8
+  avant: Vers 6h s., allé à pied Toutencourt, Mission fr.
+  apres: Vers 6^{H} s allé à pied Toutencourt, Mission f^{se}.
+  justification: H suscrit ; s réduit à un trait vertical sans ponctuation ; f + se suscrit
+  confiance: moyenne
+- ligne: 9
+  avant: Maral logis Grauger
+  apres: marl logis \inc{Granger}
+  justification: 'm-a-r + l bouclé, sans second a ; nom : r-a-n/u-g-e-r, la lecture Granger préférée, n et u indistincts'
+  confiance: moyenne
+- ligne: 10
+  avant: Raucoule, l. a demandé divers renseigts. Maral logis Grauger m'a promis
+  apres: \inc{Renouleau}, l'a demandé divers renseig^{ts}.
+  justification: la l. 10 s'arrête après renseig^{ts} ; apostrophe haute entre l et a ; ts suscrit ; nom relu en seconde lecture
+  confiance: basse
+- ligne: 13
+  avant: en cie nouvel intte.
+  apres: en cie nouvel intpte
+  justification: après int, une lettre descendante (p) puis te ; aucun point final
+  confiance: moyenne
+- ligne: 14
+  avant: '[ A Doullens : papeterie : 3 f. + 1 f. 50'
+  apres: '\crochet{3}A Doullens : papeterie : 3^{f} + 1^{f} 50'
+  justification: grand crochet sur trois lignes ; f suscrit au-dessus des chiffres
+  confiance: haute
+- ligne: 15
+  avant: 'Cartes ples : 1 f. —'
+  apres: 'Carte ple : 1fc. —'
+  justification: aucun s après Carte ni après ple ; 1, f bouclé, petite lettre ouverte (c), point
+  confiance: moyenne
+- ligne: 17
+  avant: (Hôpital auxiliaire) ]
+  apres: (Hôpital auxil^{re})
+  justification: mot abrégé auxil + re ; aucun crochet fermant
+  confiance: haute
+- ligne: 18
+  avant: 7 Mercredi.
+  apres: 7 \sl{Mercredi}
+  justification: trait sous Mercredi ; aucun point
+  confiance: haute
+- ligne: 20
+  avant: Préparé
+  apres: Preparé
+  justification: pas d'accent sur le premier e
+  confiance: moyenne
+- ligne: 23
+  avant: des
+  apres: \inc{des}
+  justification: s final non distinct
+  confiance: moyenne
+- ligne: 25
+  avant: vers 4h, autour
+  apres: vers 4^{H}, autour
+  justification: H suscrit à deux hastes
+  confiance: haute
+difficultes:
+- ligne: 10
+  lemme: Renouleau
+  analyse: 'zoom ×3 [.02 .285 .24 .335] : R à barre ; petite boucle fermée sans jambage (e plutôt que a) ; deux minimes (n) ; o fermé ; minime (u) ; puis une descente sous la ligne (x ≈ .15) et une haute boucle (x ≈ .18) qui coïncident avec le g de « logis » de la l. 9 ; finale de trois minimes (eau). Aucun c visible avant le o : Raucoule moins probable.'
+  alternatives:
+  - Raucoule
+  - Rancouleau
+  - Renoueau
+- ligne: 9
+  lemme: Granger
+  analyse: 'zooms l. 9 et l. 11 : initiale à longue retombée bouclée en bas à gauche (G ou S de cette main), puis petite lettre (r), minimes (a/u, n), g descendant, e, r final ; même tracé aux deux occurrences'
+  alternatives:
+  - Grauger
+  - Sranger
+- ligne: 13
+  lemme: intpte
+  analyse: i-n-t barré, peut-être un e, lettre à longue descente (p), puis t-e de petit module ; zoom mal cadré, lecture p1 conservée
+  alternatives:
+  - intepte
+  - interp^{te}
+- ligne: 15
+  lemme: 1fc.
+  analyse: 'zoom ×3 : 1 à trait d''attaque, f à haute boucle, petite lettre ouverte en c, point, puis tiret ; peut-être fr. avec r réduit'
+  alternatives:
+  - 1f.
+  - 1 fr.
+- ligne: 23
+  lemme: des
+  analyse: d bouclé + une arche + long délié final ; le s n'est pas distinct ; contexte « branches des arbres »
+  alternatives:
+  - du
+  - de
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Nicot, Schillinger et Ficat 1972 (SHD GR 17 N), CWGC Doullens, renvois aux f. 82 r°, 75 r°, 84 v° et 69 r° (chlorate). D''après le f. 82 r°, le « nouvel interprète » est peut-être « Evar » plutôt que Valet (R7 F51) : non nommé sur cette page. L''hôpital auxiliaire de Doullens n''est pas identifié. Seconde lecture : Raucoule → \inc{Renouleau}.'
+  alternatives: []
+controle:
+- ligne: 10
+  avant: \inc{Raucoule}
+  apres: \inc{Renouleau}
+  justification: 'zoom ×3 : deuxième lettre = petite boucle fermée sans jambage (e), puis n et o nets, aucun c ; la haute boucle médiane appartient au g de « logis » (l. 9)'
+- ligne: 15
+  avant: 1f.
+  apres: 1fc.
+  justification: une petite lettre ouverte (c) suit nettement le f avant le point
+- ligne: 23
+  avant: des
+  apres: \inc{des}
+  justification: le s n'est pas visible ; d + une arche + délié ; « du » possible
+- ligne: 0
+  avant: apparat p1
+  apres: apparat épuré et complété
+  justification: lecture d'entier^{t} fondue dans la note d'abréviation ; ajout des abréviations 1fc., 1^{f}, 50c, & ; notes de lecture abrégées sans analyse paléographique
+remarques: Lieu de cantonnement (Hérissart) non nommé sur la page.
+resume: 'Le 6 mars 1917, bise glaciale ; matinée libre ; arrivée d''un nouvel officier australien, jugé vulgaire, et d''un nouvel interprète, très sympathique. L''après-midi, Hippolyte Combes va à Doullens avec le capitaine Williams ; vers 6 h, il se rend à pied à la Mission française de Toutencourt, où un maréchal des logis (Granger ?) le conduit chez le capitaine Renouleau (?), qui l''interroge ; le maréchal des logis lui promet de lui faire donner un bon poste. Comptes : papeterie, carte postale, pastilles de chlorate, quête pour les blessés de l''hôpital auxiliaire. Le 7, inoccupé, il prépare ses paquets ; bise et rafales de tempête ; courte promenade et visite du cimetière du village.'
+noms:
+  personnes:
+  - forme: cap. W^{m}
+    ligne: 6
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  - forme: Granger
+    ligne: 9
+    identite: maréchal des logis de la Mission française à Toutencourt (lecture incertaine)
+  - forme: Renouleau
+    ligne: 10
+    identite: capitaine de la Mission française à Toutencourt (lecture incertaine ; autre lecture Raucoule)
+  lieux:
+  - forme: Doullens
+    ligne: 6
+    identite: Doullens (Somme)
+  - forme: Toutencourt
+    ligne: 8
+    identite: Toutencourt (Somme)
+source: contrôle

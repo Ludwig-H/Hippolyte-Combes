@@ -1,0 +1,112 @@
+cliche: 142
+fichier: 20251126_110422.jpg
+date: Dimanche 4 février 1917 (suite)
+mois: Février 1917
+lieux: Millau (Aveyron)
+titre: Après-midi avec Marguerite ; visite aux Layral ; soirée avec Mimi ; cloches du matin
+transcription: |
+  \sl{Dim. 4 (Suite)} \hfill \sl{Fev. '17}
+  plus clair & plus \inc{beau}
+  Tout l'après-midi, av M^{te}. Elle m'a
+  joué qq morceaux et chanté 1 peu.
+  a 6^{h}15, cedant aux instances de tous,
+  visite à l'oncle & \inc{tantes} Therèse (Layral)
+  \blanc{1}
+  Temp très sec. Rue deserte.
+  \blanc{1}
+  Après diner, prolongé causerie j-à
+  11^{h}30 – av Mimi, arrivée train 6^{h} –
+  \blanc{1}
+  Ds ma chambre, à 11^{h} \inc{40}.
+  ciel nuageux. Nuit très froide
+  \blanc{2}
+  – Ce Matin, en m'eveillant, charmé
+  par sonneries cloches, eglises et
+  chapelles ville. –
+  \droite (Cf. Journal)
+  \droite \sl{feuille} speciale)
+apparat:
+- ligne: 1
+  lemme: Dim.
+  type: abreviation
+  note: dimanche
+- ligne: 1
+  lemme: Fev.
+  type: abreviation
+  note: février
+- ligne: 1
+  lemme: '''17'
+  type: abreviation
+  note: '1917'
+- ligne: 2
+  lemme: beau
+  type: lecture
+  note: 'lecture retenue : b bouclé suivi de e, a, u ; autre lecture : gai (état antérieur)'
+- ligne: 3
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 3
+  lemme: M^{te}
+  type: abreviation
+  note: Marguerite
+- ligne: 4
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 4
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 5
+  lemme: 6^{h}15
+  type: abreviation
+  note: 6 heures 15
+- ligne: 6
+  lemme: tantes
+  type: lecture
+  note: 'finale en grande boucle fermée, lue s ; autre lecture : tante'
+- ligne: 7
+  lemme: Temp
+  type: graphie
+  note: temps
+- ligne: 8
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 9
+  lemme: 11^{h}30
+  type: abreviation
+  note: 11 heures 30
+- ligne: 9
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 9
+  lemme: 6^{h}
+  type: abreviation
+  note: 6 heures
+- ligne: 10
+  lemme: Ds
+  type: abreviation
+  note: dans
+- ligne: 10
+  lemme: 11^{h}
+  type: abreviation
+  note: 11 heures
+- ligne: 10
+  lemme: '40'
+  type: lecture
+  note: 'premier chiffre à panse basse fermée et haste à droite (4 fermé) ; autres lectures : 30, 50'
+- ligne: 15
+  lemme: Cf.
+  type: abreviation
+  note: confer, voir
+critique: 'Encre violette ; les premiers mots achèvent la phrase laissée en suspens au bas du f.~70~v\textsuperscript{o}. Le renvoi au « Journal », rejeté en bas à droite sur deux lignes, est d''un module plus grand et d''une encre plus sombre : ajout probablement postérieur.'
+historique: |
+  L'« oncle » et la « tante Thérèse » sont M\textsuperscript{e} Charles Layral (« Layrals » dans la tradition familiale), notaire à Millau, et son épouse Thérèse Cartairade, sœur de Valentine Cartairade, mère de Marguerite (faire-part de décès d'Émilie Noel, M\textsuperscript{me} Guillaume Cartairade, 1889 ; PC-Annexe). « Mimi » est sans doute Anne-Marie Calmels (1888–1975), sœur aînée de Marguerite, future épouse de l'avoué Joseph Delcamps (PC-Annexe). Le « Temp très sec » et la « nuit très froide » relèvent de la vague de froid qui, du 16 janvier au 16 février 1917 environ, s'étend jusqu'au littoral méditerranéen, avec −8,3~°C à Toulouse et −15,4~°C à Paris le 4 février (Barbé 1917, p.~181-182) ; la neige couvre encore la ligne des Causses au départ du 5 (f.~71~v\textsuperscript{o}). Les cloches du matin sont celles du dimanche de la Septuagésime (voir f.~70~v\textsuperscript{o}). Le « Journal » sur « feuille spéciale » est un écrit distinct du \textit{Livre-Journal}, non retrouvé : la plupart des papiers de Combes furent détruits en 1970-1971 (PC-Livre).
+sources:
+- Faire-part de décès d'Émilie Noel, Mme Guillaume Cartairade, Lisside (Gard), 4 mars 1889 (archives familiales).
+- Combes, Pierre, livre familial dactylographié, annexe généalogique (PC-Annexe), archives familiales.
+- Combes, Pierre, Une étude de la famille Combes de Castelnau-Pégayrols, dactylographie, version du 19 mars 2023 (PC-Livre), archives familiales.
+- Barbé, G., « L'hiver 1916-1917 », Journal d'agriculture pratique, nouvelle série, t. 30, 1917, p. 181-182.

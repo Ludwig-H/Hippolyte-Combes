@@ -1,0 +1,144 @@
+cliche: 10
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 4 Ve. Après qq hésitation, décidé \hfill Août 1916
+  apres: \sl{4 Ve.} Après qq hesitation, decidé \hfill Août \sl{1916}
+  justification: Soulignements visibles (sous la date à gauche, sous 1916 seul) ; aucun accent sur hesitation ni sur le premier e de decidé ; virgule (trait vertical sous la ligne) avant decidé.
+  confiance: haute
+- ligne: 2
+  avant: La Croix-du-Bac, où bureau
+  apres: La Croix du Bac, où \inc{bureau}
+  justification: 'Pas de traits d''union ; dernier mot : attaque un peu haute, minimes indistinctes, finale plongeante.'
+  confiance: moyenne
+- ligne: 3
+  avant: vers 10 H. Mis près
+  apres: \inc{vers} 10^{H} – mis près
+  justification: H nettement suscrit, aucun point ; tiret court devant mis, m minuscule ; premier mot d'aspect p.
+  confiance: moyenne
+- ligne: 4
+  avant: d' 1 h. 1/2 pour parcourir distance 15 Kils
+  apres: d'1 h. \fr{1}{2} pour parcourir distance 15 K^{ils}
+  justification: Fraction empilée ; ils suscrit après K.
+  confiance: haute
+- ligne: 5
+  avant: Steenwerck.
+  apres: Steenwerke
+  justification: Aucun c avant k, aucun point ; e final en long délié.
+  confiance: moyenne
+- ligne: 6
+  avant: gros village — autour
+  apres: gros village – — autour
+  justification: Petit tiret mince isolé avant le tiret long.
+  confiance: moyenne
+- ligne: 7
+  avant: église très gde —
+  apres: eglise très gde —
+  justification: Pas d'accent sur l'initiale.
+  confiance: haute
+- ligne: 8
+  avant: menaçant
+  apres: menacant
+  justification: Aucune queue sous le c.
+  confiance: moyenne
+- ligne: 11
+  avant: Tout l'après-midi et fin journée, reposé garret.
+  apres: Tout laprès-midi et fin journee, reposé garret.
+  justification: Aucune apostrophe entre l et a ; trait d'union réduit à un point à mi-hauteur ; pas d'accent sur journee.
+  confiance: moyenne
+- ligne: 12
+  avant: '[ — Touché au bureau mission, à'
+  apres: \equerre{1}\ind — Touché au bureau mission, à
+  justification: Équerre ⌜ en marge ; tiret bas devant Touché.
+  confiance: haute
+- ligne: 13
+  avant: 'La Croix-du-Bac : 80 f 30 c (y compris 8 f'
+  apres: 'La Croix du Bac : 80^{f} 30 c (y compris 8^{f} /'
+  justification: f monétaires en T au-dessus de la ligne ; long trait oblique en fin de ligne.
+  confiance: moyenne
+- ligne: 14
+  avant: supplément 1er juillet) —
+  apres: supplément 1 \inc{de} juillet / —
+  justification: Après le 1, d bouclé et e sur la ligne, rien de suscrit ; parenthèse rendue par un long trait oblique.
+  confiance: moyenne
+- ligne: 15
+  avant: Ferme autour de l. notre coy est cantonnée,
+  apres: \equerre{1}\ind Ferme autour de l. notre Coy est cantonnée
+  justification: Signe d'ouverture en ⌞ en marge ; C majuscule de Coy ; aucune virgule finale.
+  confiance: haute
+- ligne: 16
+  avant: isolée en rase campagne. Y gd calme et
+  apres: isolée en rase campagne. Y g^{d} calme et ,
+  justification: d suscrit ; trait oblique isolé sous la ligne après et.
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: bureau
+  analyse: 'Zoom ×3 [.78 .045 1.0 .105] : premier trait un peu plus haut que les minimes (b sans boucle), quatre ou cinq minimes, finale plongeant sous la ligne puis repartant à droite (u prolongé ou x). La l. 12 « bureau mission » appuie bureau.'
+  alternatives:
+  - bureaux
+- ligne: 3
+  lemme: vers
+  analyse: 'Zoom ×3 [.55 .08 .80 .13] : trait épais descendant sous la ligne, panse fermée, r prolongé en long délié ; ressemble au « par » de la l. 5, mais « par 10 H » est peu probable.'
+  alternatives:
+  - par
+- ligne: 5
+  lemme: Steenwerke
+  analyse: 'Zoom ×3 [.66 .145 .98 .195] : S-t-e-e-n, puis une haste montant bien au-dessus de l''œil (boucle de w ou b), e-r, k bouclé, e en délié. Lecture « Steenberke » graphiquement possible ; le nom est assuré par le contexte.'
+  alternatives:
+  - Steenberke
+- ligne: 13
+  lemme: 80^{f} 30
+  analyse: 'Zoom ×3 [.43 .54 .63 .595] : barre horizontale en T avec court fût à gauche (f suscrit) ; sous son extrémité droite, un trait vertical finissant en boucle pleine à gauche (3 réduit en J). Si la barre est le drapeau d''un 5, lire 50.'
+  alternatives:
+  - 80^{f} 50
+- ligne: 13
+  lemme: 8^{f}
+  analyse: 'Zoom ×3 [.84 .51 .99 .605] : 8 noyé d''encre, puis petit tracé en T terminé par une boucle (f monétaire, ou fr ?) ; au-dessus, l''à de la l. 12.'
+  alternatives:
+  - 8 fr
+- ligne: 14
+  lemme: 1 de
+  analyse: 'Zoom ×3 [.24 .595 .47 .65] : 1 droit, puis haste haute rejetée en arrière avec panse (d) et petit e lié ; rien de surélevé.'
+  alternatives:
+  - 1^{er}
+  - 1 le
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Points relevés vérifiés sur zooms : bureau, vers, Steenwerke, 80 f 30, 1 de juillet restent tels quels, avec leurs incertitudes (voir ci-dessus). Le supplément de 8 f reste inexpliqué ; l''attribution du bureau de la Mission à la 18th Division demeure une hypothèse (relève dans la nuit du 6 au 7 août).'
+  alternatives: []
+controle:
+- ligne: 1
+  avant: Après qq hesitation decidé
+  apres: Après qq hesitation, decidé
+  justification: Trait vertical descendant sous la ligne de base entre hesitation et decidé (x ≈ .537), sans lettre à pointer au-dessous ; virgule selon le guide § 7.
+- ligne: 13
+  avant: (aucune note sur 30)
+  apres: note de lecture « 50 possible »
+  justification: Montant ; la barre en T peut servir de f suscrit ou de drapeau de 5.
+- ligne: 15
+  avant: 'note disposition : signe en L'
+  apres: signe en ⌞
+  justification: Le second signe d'ouverture est l'inverse du premier (vertical en haut, horizontal en bas) ; la balise \equerre ne rend que ⌜, d'où la note.
+- ligne: 16
+  avant: notes « Y » (autre) et « et , » (signe)
+  apres: « Y » en abréviation ; note sur la virgule supprimée
+  justification: Ponctuation sans note selon la règle d'épuration ; Y = il y a est une abréviation.
+remarques: Le départ se fait de Saint-Jans-Cappel (cantonnement de la 152nd Company depuis 006). La fin de la page précédente (009) et le début de 011 (« Ve 4 — Avant & après diner ») encadrent la journée.
+resume: 'Le vendredi 4 août 1916, Hippolyte Combes se rend à cheval de son cantonnement à La Croix-du-Bac, au bureau de la mission française : une heure et demie pour une quinzaine de kilomètres, par Bailleul et Steenwerck, gros village à grande église. Ciel menaçant et quelques gouttes au retour, puis vent et soleil ardent. Il se repose l''après-midi dans sa mansarde. Au bureau de la mission il touche 80 f 30, dont 8 f de supplément de juillet. Il note que la ferme où est cantonnée sa compagnie est isolée en rase campagne, dans un grand calme.'
+noms:
+  personnes: []
+  lieux:
+  - forme: La Croix du Bac
+    ligne: 2
+    identite: La Croix-du-Bac, hameau de Steenwerck et Sailly-sur-la-Lys (Nord)
+  - forme: Bailleul
+    ligne: 5
+    identite: Bailleul (Nord)
+  - forme: Steenwerke
+    ligne: 5
+    identite: Steenwerck (Nord)
+  - forme: La Croix du Bac
+    ligne: 13
+    identite: La Croix-du-Bac (Nord)
+source: contrôle

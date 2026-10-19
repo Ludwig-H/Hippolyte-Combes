@@ -1,0 +1,74 @@
+cliche: 161
+fichier: 20251126_111048.jpg
+date: Jeudi 1er – vendredi 2 mars 1917
+mois: Mars 1917
+lieux: Hérissart, Rubempré, Montigny-sur-l'Hallue, Fréchencourt et Contay (Somme)
+titre: Tournée à Rubempré, Montigny et Fréchencourt ; clair de lune ; entretien avec le Dr Dubois
+transcription: |
+  1^{er} \sl{Jeudi}. \hfill — Ma\sl{rs 1917} —
+  \ind[2] Très belle journée.
+  Après-midi, course, en auto : Rubempré, au chateau
+  puis Montigny & Frechencourt. Causé \inc{lg} av le fils
+  du maire, ds ses champs ensoleillé vers Pont Noyelles
+  \ind Après le thé, promenade sur route de Contay.
+  Brume estompait horizons. Plateau, d'où belle
+  vue panoramique. Moulins à vent. Aux
+  carrefours, grands crucifix, cuivre et fer,
+  et élancés.
+  Soir, diner pris, ressorti encore. Cheminé le
+  long route de Toutencourt. Mervx clair de
+  lune — illuminait paysage. Ombre des arbres
+  projetées \inc{s/} le sol. Halo lunaire. Impression
+  de calme reposant & silence absolu \trait
+  \blanc{1}
+  \sl{2 Vendredi}. Matinée, brouillard. Vers milieu
+  jour, soleil, mais pâle. Temps redevenu
+  froid.
+  \ind Matin, venus à Montigny. Très longue
+  & intéressante conversation avec Dr. Dubois —
+  \ind Après-midi, liberté entière.
+apparat:
+- ligne: 1
+  lemme: 1^{er}
+  type: abreviation
+  note: premier
+- ligne: 3
+  lemme: course,
+  type: lecture
+  note: « course, » suivi d'une virgule ; antérieurement « courses »
+- ligne: 3
+  lemme: au chateau
+  type: lecture
+  note: « au » ; antérieurement « vu »
+- ligne: 4
+  lemme: \inc{lg}
+  type: abreviation
+  note: longtemps ; seuls l et g sont nets (lgs possible)
+- ligne: 4
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 5
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 12
+  lemme: Mervx
+  type: abreviation
+  note: merveilleux
+- ligne: 14
+  lemme: \inc{s/}
+  type: lecture
+  note: s/ (sur), signe réduit à un trait vertical sur une barre couchée ; « en » possible
+- ligne: 20
+  lemme: Dr.
+  type: abreviation
+  note: docteur
+critique: Encre violette. Un blanc d'environ une ligne et demie sépare les deux journées ; les taches brunes de la moitié inférieure de la page sont des maculatures, sans écriture.
+historique: |
+  La tournée du 1\textsuperscript{er} mars reprend les villages où le service d'achats cherche paille et fourrage depuis février : Rubempré, à l'ouest d'Hérissart, puis Montigny-sur-l'Hallue et Fréchencourt, dans la vallée de l'Hallue (voir f.~78~v\textsuperscript{o}). Fréchencourt était, au 1\textsuperscript{er} juillet 1916, tête de ligne pour les vivres sur la voie normale Daours--Contay posée au printemps dans la vallée (OH 1916-I, p.~273--274) ; Montigny avait logé en juillet le QG du III Corps (OH 1916-II, p.~147). Les champs « vers Pont Noyelles » sont ceux de la bataille de l'Hallue, livrée le 23 décembre 1870 par l'armée du Nord de Faidherbe aux troupes de Manteuffel. Le « fils du maire » n'est pas nommé ; Combes avait été reçu le 3 janvier par Paul Dubois, maire de Montigny (voir f.~59~v\textsuperscript{o}), et le « Dr. Dubois » du 2 mars est sans doute un parent, peut-être ce fils même. Au bout de la route de Contay, les 49th et 9th \textit{Casualty Clearing Stations} restent installées jusqu'en mars 1917 (CWGC).
+sources:
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273-274.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 147.
+- Wikipedia, « Battle of Hallue », consulté le 18 oct. 2026.
+- Commonwealth War Graves Commission, Contay British Cemetery, notice historique (cwgc.org).

@@ -1,0 +1,161 @@
+cliche: 172
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 23 Ven. — \hfill — Mars 1917 —
+  apres: \sl{23 Ven.} \hfill — \sl{Mars 1917} —
+  justification: aucun tiret après « Ven. » (point appuyé seul) ; soulignements de la date et du mois rendus
+  confiance: haute
+- ligne: 2
+  avant: Nuit, gelé très fort.
+  apres: nuit gelé très fort
+  justification: n initial à la hauteur d'œil, sans le grand délié d'attaque du N (cf. l. 12 et 13) ; aucune virgule ni point final
+  confiance: moyenne
+- ligne: 3
+  avant: couvertes de glace.
+  apres: couvertes de glace
+  justification: finale en délié, pas de point
+  confiance: haute
+- ligne: 4
+  avant: Froid très vif.
+  apres: Froid très vif
+  justification: pas de point après vif
+  confiance: haute
+- ligne: 5
+  avant: Très beau
+  apres: très beau
+  justification: t minuscule sans le crochet de tête du T (cf. « Tout », l. 14)
+  confiance: moyenne
+- ligne: 7
+  avant: liberté complète.
+  apres: liberté complète
+  justification: long délié final, pas de point
+  confiance: haute
+- ligne: 8
+  avant: Lu et écrit, office & chambre.
+  apres: Lu et ecrit, office & chamb
+  justification: aucun accent sur le e d'ecrit ; « chamb » suivi d'un délié en massue, sans -re
+  confiance: haute
+- ligne: 9
+  avant: (220). [ligne propre]
+  apres: au billet (220.
+  justification: « (220. » rejeté en bout de la l. 9, sous « billet » ; parenthèse non refermée
+  confiance: haute
+- ligne: 11
+  avant: un peu campagne.
+  apres: un peu campagne
+  justification: délié final, pas de point
+  confiance: haute
+- ligne: 12
+  avant: mais froide.
+  apres: mais froide \trait
+  justification: long trait fin tiré de froide vers la droite ; pas de point
+  confiance: haute
+- ligne: 13
+  avant: 24 Sam. — Nuit froide. Gelé assez fort!
+  apres: \sl{24 Sam.} – Nuit froide. Gelé assz fort!
+  justification: a + s montant + s court + z plongeant, aucun e entre s et z ; tiret court après Sam.
+  confiance: haute
+- ligne: 14
+  avant: soleil brille, très vif.
+  apres: soleil brille –, très vif.
+  justification: tiret court à hauteur d'œil après brille, puis virgule verticale
+  confiance: haute
+- ligne: 15
+  avant: Vent souffle avec violence.
+  apres: Vent souffle – avec violence \trait
+  justification: tiret détaché après souffle ; long trait jusqu'au bord droit après violence
+  confiance: haute
+- ligne: 17
+  avant: et j'à chemin Puchevillers —
+  apres: et j chemin Puchevillers
+  justification: un seul tracé j (ȝ descendant), aucun à ; finale de Puchevillers en délié
+  confiance: moyenne
+- ligne: 19
+  avant: 25 D. — Matin & soir, temps nuageux.
+  apres: \sl{25 D.} matin & soir, Temps nuageux \trait
+  justification: pas de tiret après D. ; m minuscule ; T à longue barre de tête ; x prolongé en long trait (p2)
+  confiance: moyenne
+- ligne: 20
+  avant: ciel bleu —
+  apres: ciel bleu – .
+  justification: tiret court puis point
+  confiance: moyenne
+- ligne: 21
+  avant: l'après-midi.
+  apres: 'l''après-midi :'
+  justification: deux points superposés en oblique après midi (p2)
+  confiance: moyenne
+- ligne: 22
+  avant: Promenade fort agréable.
+  apres: Promenade fort agreable
+  justification: aucun accent sur le e ; long délié final, pas de point
+  confiance: haute
+- ligne: 9
+  avant: Fait démarches
+  apres: Fait demarches
+  justification: aucun accent au-dessus de « dem » ni décalé à droite au zoom ×3 (p2)
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: gelé
+  analyse: pâté d'encre couvrant le début du mot (la hampe du f de « fenêtre », l. 3, y monte) ; « le » final net ; un accent peut être masqué par la crosse du soulignement de la date. Parallèle « Gelé assz fort » l. 13.
+  alternatives:
+  - gelé
+- ligne: 17
+  lemme: j
+  analyse: tracé unique en ȝ descendant, surmonté d'un petit crochet (point du j) ; le trait vertical au-dessus de « chemin » est le jambage du p d'« Après » (l. 16), non une apostrophe ; le n final de « chemin » plonge (aspect z).
+  alternatives:
+  - j'
+  - chemins
+- ligne: 10
+  lemme: Ds
+  analyse: D en ∂ suivi d'un petit crochet (s réduit) ; même tracé l. 20 ; « Ds la journée » attesté ailleurs.
+  alternatives:
+  - De
+- ligne: 12
+  lemme: étoilée
+  analyse: aucun accent visible, mais la zone est encombrée par les jambages de « campagne » (l. 11) ; leçon de p1 conservée.
+  alternatives:
+  - etoilee
+- ligne: 21
+  lemme: ':'
+  analyse: deux points nets, le supérieur entre les lignes 20 et 21, l'inférieur sur la ligne de base, en oblique comme l'écriture ; le point de la l. 20 (« – . ») est distinct, plus à gauche.
+  alternatives:
+  - .
+controle:
+- ligne: 9
+  avant: Fait démarches
+  apres: Fait demarches
+  justification: zone nette au-dessus de « dem » et des lettres suivantes au zoom ×3 ; aucun accent tracé
+- ligne: 19
+  avant: Temps nuageux
+  apres: Temps nuageux \trait
+  justification: le x final se prolonge en long trait jusque vers x ≈ 0,78, comme « froide \trait » l. 12
+- ligne: 21
+  avant: l'après-midi.
+  apres: 'l''après-midi :'
+  justification: deux points superposés en oblique au bout de la ligne (zoom ×3, [.55 .77 1.0 .84])
+- ligne: 2
+  avant: 'apparat : g initial noyé dans un pâté d''encre ; seuls « lé » restent nets'
+  apres: 'apparat : début du mot noyé dans un pâté d''encre ; « gelé » d''après la fin du mot et la l. 13'
+  justification: apparat épuré ; détail paléographique renvoyé aux difficultés
+- ligne: 17
+  avant: 'apparat : jusqu''au ; j seul (l''état antérieur lisait « j''à »)'
+  apres: 'apparat : jusqu''au'
+  justification: apparat épuré
+remarques: Encre violette uniforme ; « Superbe sunset. » (l. 18) plus pâle, plume qui s'épuise, sans indice d'ajout. Lieu de séjour (Hérissart) déduit du billet 220 (cliché 166), non nommé ici. Le numéro 220 est confirmé par le cliché 166 (« porté ts mes paquets au billet 220 »).
+resume: 'Vendredi 23 mars 1917 : forte gelée, vitres couvertes de glace, puis grand soleil et chants d''oiseaux ; l''auto est aux ateliers, Hippolyte Combes, libre, lit et écrit au bureau et dans sa chambre, fait des démarches pour garder son billet n° 220 et se promène dans la campagne. Samedi 24 : nuit froide, soleil vif, vent violent ; l''après-midi, marche à pied jusqu''à Rubempré et au chemin de Puchevillers ; superbe coucher de soleil. Dimanche 25 : temps nuageux matin et soir, soleil ardent dans la journée ; nouvelle course à pied à Rubempré, sans pardessus.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Rubempré
+    ligne: 16
+    identite: Rubempré (Somme)
+  - forme: Puchevillers
+    ligne: 17
+    identite: Puchevillers (Somme)
+  - forme: Rubempré
+    ligne: 21
+    identite: Rubempré (Somme)
+source: contrôle

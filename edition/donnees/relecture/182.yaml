@@ -1,0 +1,167 @@
+cliche: 182
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 21 Samedi — \hfill — Avril 1917 —
+  apres: 21 \sl{Samedi}–.
+  justification: date seule sur la l. 1, suivie d'un tiret court et d'un point ; le trait ne couvre que Samedi ; le mois est au niveau de la l. 2
+  confiance: moyenne
+- ligne: 2
+  avant: Toute nuit, violente canonnade
+  apres: \ind Toute nuit, violente canonnade — \hfill Avril \sl{1917} —
+  justification: ligne en léger retrait montant vers « Avril 1917 » ; trait sous 1917
+  confiance: moyenne
+- ligne: 4
+  avant: Encore assez belle journée. Temps doux, ciel couvert.
+  apres: \ind Encore assz belle journee. temps doux. ciel couvert
+  justification: a-s-s-z plongeant sans e ; pas d'accent sur journee ; t initial minuscule ; point après doux ; pas de point final
+  confiance: moyenne
+- ligne: 5
+  avant: Matin
+  apres: matin
+  justification: initiale minuscule
+  confiance: moyenne
+- ligne: 9
+  avant: acheter.
+  apres: acheter \trait
+  justification: délié final prolongé, sans point
+  confiance: haute
+- ligne: 11
+  avant: 78 f. 75 c.
+  apres: 78^{f} 75^{c}
+  justification: f et c suscrits, pas de points
+  confiance: haute
+- ligne: 12
+  avant: Bte
+  apres: B^{te}
+  justification: te surélevé
+  confiance: moyenne
+- ligne: 13
+  avant: 1 f. 75
+  apres: 1^{f} 75
+  justification: f suscrit barré, sans point
+  confiance: moyenne
+- ligne: 14
+  avant: '[avec ?] vue cathle : 2 f. 75 c. ]'
+  apres: '\inc{avec} vue cath^{le} : 2 75 c'
+  justification: le suscrit ; aucun f entre 2 et 75 (le crochet de tête appartient au 7) ; pas de crochet fermant
+  confiance: moyenne
+- ligne: 15
+  avant: 22 Dimanche —
+  apres: \sl{22 Dimanche}–
+  justification: trait appuyé sous la date ; tiret court
+  confiance: haute
+- ligne: 19
+  avant: gd moulin à vent route de P.,
+  apres: gd moulin, à vent route de Pierreg\inc{ot} \add{très intéressant}
+  justification: virgule après moulin ; le nom est écrit P-i-e-r-r-e-g, non abrégé en P. ; « très intéressant » est un ajout interlinéaire, non une ligne
+  confiance: moyenne
+- ligne: 21
+  avant: d'Hérissart
+  apres: d'\inc{Hessart}
+  justification: initiale bouclée, boucle e, deux s montants, -art ; aucun « ri » ni accent
+  confiance: moyenne
+- ligne: 23
+  avant: masses des bois rouillées
+  apres: masses du bois rouillés
+  justification: d + u = du ; finale de rouillés réduite à un délié
+  confiance: moyenne
+- ligne: 25
+  avant: ininterrompu,
+  apres: ininterrompu
+  justification: aucune virgule, seulement le délié du u
+  confiance: moyenne
+- ligne: 26
+  avant: d'Arras —
+  apres: d'Arras \trait
+  justification: délié final prolongé du s, sans levée de plume
+  confiance: moyenne
+difficultes:
+- ligne: 13
+  lemme: 1^{f} 75
+  analyse: entre le 1 et le 7, un trait descendant coupé d'une barre, à hauteur de tête ; il part de la boucle inférieure du D de Denis (l. 12), dont il pourrait n'être que le prolongement
+  alternatives:
+  - 1 75
+- ligne: 14
+  lemme: \inc{avec}
+  analyse: 'après la virgule : petite boucle basse à gauche, haste haute coupée d''un trait, seconde haste, puis -re/-ue et long délié ; aucun v arrondi net ; la forme rappelle aussi le & en « t bouclé »'
+  alternatives:
+  - être
+  - '& …'
+- ligne: 14
+  lemme: 2 75 c
+  analyse: 2 bouclé, puis 7 à barre de tête crochue et barre médiane, 5 à drapeau, c ; le crochet de tête lu f par la première lecture appartient au 7
+  alternatives:
+  - 2^{f} 75 c
+- ligne: 19
+  lemme: Pierreg\inc{ot}
+  analyse: P-i-e-r-r-e lisibles, g descendant, puis dans la marge un trait croisé (aspect « Je ») qui peut valoir -ot
+  alternatives:
+  - Pierreg
+- ligne: 21
+  lemme: \inc{Hessart}
+  analyse: 'relu au zoom ×3 (demande du commentateur) : crochet de tête retombant (H ou E bouclé), petite boucle e, deux s montants à haute boucle, a, r, t barré ; aucun « ri »'
+  alternatives:
+  - Hérissart
+  - Essart
+- ligne: 23
+  lemme: rouillés
+  analyse: r-o-u-i-l-l-e puis long délié, sans s ni accent visibles
+  alternatives:
+  - rouillées
+  - rouillé
+controle:
+- ligne: 1
+  avant: \sl{21 Samedi}–.
+  apres: 21 \sl{Samedi}–.
+  justification: le trait commence sous la toute fin du 1 et ne couvre que Samedi (zoom 0 0 .45 .07)
+- ligne: 14
+  avant: 2^{f} 75 c
+  apres: 2 75 c
+  justification: au zoom ×3, 2 bouclé puis 7 à tête crochue et barre médiane ; aucun f distinct (piège du f fantôme)
+- ligne: 0
+  avant: apparat avec justifications paléographiques (l. 13, 14, 19, 21)
+  apres: notes abrégées ; analyses renvoyées dans difficultes
+  justification: épuration de l'apparat imprimé
+remarques: Encre violette uniforme. Restent douteux le mot après « carte, » (l. 14), le f de « 1^{f} 75 » (l. 13) et la forme « Hessart » (l. 21).
+resume: 'Samedi 21 avril 1917, après une nuit de violente canonnade au sud d''Arras, Hippolyte Combes va à pied à Toutencourt toucher sa solde, puis fait en auto une tournée à Buire, Albert, Millencourt et Contay, cherchant vainement de la paille à acheter. Il note sa solde (78 f 75) et l''achat, rapporté d''Amiens par Baptiste (?) Denis, de « Promenade dans Amiens » d''A. Martin et d''une grande carte avec vue de la cathédrale. Le dimanche 22, belle journée froide : tournée à Toutencourt, Molliens-au-Bois et Pierregot, où il visite un grand moulin à vent. L''après-midi, promenade sur la route d''Hérissart, près d''une batterie antiaérienne ; canonnade ininterrompue vers Arras.'
+noms:
+  personnes:
+  - forme: B^{te} Denis
+    ligne: 12
+    identite: membre de la famille Denis, d'Hérissart (Baptiste ?)
+  - forme: A. Martin
+    ligne: 13
+    identite: Alexis Martin, auteur d'un guide d'Amiens (Promenade dans Amiens)
+  lieux:
+  - forme: Arras
+    ligne: 3
+    identite: Arras (Pas-de-Calais)
+  - forme: Toutencourt
+    ligne: 6
+    identite: Toutencourt (Somme)
+  - forme: Buire
+    ligne: 8
+    identite: Buire-sur-l'Ancre (Somme)
+  - forme: Albert
+    ligne: 8
+    identite: Albert (Somme)
+  - forme: Millencourt
+    ligne: 8
+    identite: Millencourt (Somme)
+  - forme: Contay
+    ligne: 9
+    identite: Contay (Somme)
+  - forme: Amiens
+    ligne: 12
+    identite: Amiens (Somme)
+  - forme: Molliens-au-Bois
+    ligne: 18
+    identite: Molliens-au-Bois (Somme)
+  - forme: Pierregot
+    ligne: 19
+    identite: Pierregot (Somme)
+  - forme: Hessart
+    ligne: 21
+    identite: Hérissart (Somme)
+source: contrôle

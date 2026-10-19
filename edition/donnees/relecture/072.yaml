@@ -1,0 +1,94 @@
+cliche: 72
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Mer. 11 \hfill Oct / 16
+  apres: \sl{Mer. 11} \hfill Oct^{bre} /16
+  justification: Trait appuyé sous « Mer. 11 » ; après le t de Oct, boucle haute (b) et ondulation descendante (-re) ; « /16 » sans espace, barre oblique longue.
+  confiance: haute
+- ligne: 2
+  avant: Matinée employée de =
+  apres: \ind Matinée employée d'1
+  justification: 'Après le d, petit crochet (apostrophe) relié à une haste descendante à trait d''attaque : forme « 4 » du chiffre 1 ; aucun double trait horizontal (=). Ligne en retrait.'
+  confiance: moyenne
+- ligne: 3
+  avant: manière qu'hier. Sous pluie battante,
+  apres: manière pareille. Sous pluie battante,
+  justification: Initiale p à jambage droit sans panse de q, a, r, e, i, deux hastes (ll), e en délié ; aucune boucle montante de h ni apostrophe. La longue haste qui coupe le mot descend du p de « employée » (l. 2). Cf. 042 « d'1 manière permanente ».
+  confiance: moyenne
+- ligne: 6
+  avant: Rentré billet, casque & cape tt ruisselants
+  apres: Rentré billet, casque & cape tt ruisselants.
+  justification: Point net sous la fin de « ruisselants », à la ligne de base.
+  confiance: moyenne
+- ligne: 8
+  avant: Tt le jour, ciel nuageux et temps
+  apres: \ind Tt le jour, ciel nuageux et temps
+  justification: Ligne commencée en retrait (x ≈ 0,10).
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: d'1
+  analyse: 'Zoom [.45 .035 .57 .095] ×3 : d à petit crochet montant (apostrophe), puis tracé en « 4 » ouvert en tête, haste descendant sous la ligne = 1 à trait d''attaque. Le même d à crochet sert pour « ds » l. 4, mais « ds 1 manière » est exclu par le sens ; « d''1 manière pareille » retenu.'
+  alternatives:
+  - de =
+  - ds 1
+- ligne: 3
+  lemme: pareille
+  analyse: 'Zoom [.10 .075 .38 .135] ×3 : p, puis minimes et boucles compatibles avec a-r-e-i, deux hastes parallèles (ll) coupées par la descente du p de « employée », e en délié. Lecture retenue pour le sens ; graphie compressée.'
+  alternatives:
+  - qu'hier
+  - pareil
+- ligne: 2
+  lemme: Matinée
+  analyse: 'Court trait horizontal sous « Mat » (zoom [.10 .075 .38 .135]), distinct du soulignement de la date (au-dessus de « Matinée », zoom [.08 .04 .26 .095]) ; non transcrit : trait de plume isolé.'
+  alternatives:
+  - \sl{Mat}inée
+- ligne: 8
+  lemme: nuageux
+  analyse: 'n-u-a-g-e puis délié horizontal terminé par une petite boucle : finale -ux écrasée (zoom [.36 .29 .80 .37] ×2).'
+  alternatives:
+  - nuage
+- ligne: 9
+  lemme: pluvieux
+  analyse: 'Zoom [0 .35 .36 .42] ×3 : p, l bouclé, trois minimes dont la dernière pointée, délié horizontal, puis grand x plongeant en boucle qui recoupe le délié. -vieu- réduit ; mot sûr par le sens (« temps pluvieux », cf. 073 « Temps pluvieux »). Suivent un point à la ligne de base et deux tirets.'
+  alternatives:
+  - pluix
+- ligne: 6
+  lemme: billet,
+  analyse: Virgule = court trait vertical à la ligne de base devant « casque » (zoom [.18 .185 .42 .245]) ; maintenue.
+  alternatives: []
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Lieux : Barlette, hameau de Franqueville, est le cantonnement des pages voisines (070–074) ; « Rentré billet » y renvoie, d''où « Barlette et bois de Ribeaucourt ». Sources citées par le commentateur (FSPB 1914, Inventaire Franqueville, Fernand-Laurent 1917, JMO 7/Bedf 11 oct. 1916) non vérifiables sur l''image.'
+  alternatives: []
+controle:
+- ligne: 0
+  avant: 'lieux: Ribeaucourt (Somme)'
+  apres: 'lieux: Barlette et bois de Ribeaucourt (Somme)'
+  justification: Le cantonnement (« billet ») est Barlette sur les pages 070–074 ; aligné sur 071 et 073.
+- ligne: 1
+  avant: 'apparat Oct^{bre} /16 : octobre 1916 ; finale -bre réduite à une boucle et une ondulation'
+  apres: 'apparat Oct^{bre} /16 : octobre 1916'
+  justification: Description paléographique retirée de l'apparat imprimé (reste dans « changements »).
+- ligne: 2
+  avant: 'apparat d''1 (lecture) : d''une : d, apostrophe, 1 à long trait d''attaque (aspect « 4 ») ; non « de = »'
+  apres: 'apparat d''1 (abreviation) : d''une ; (lecture) : lecture nouvelle ; on lisait « de = »'
+  justification: Développement séparé de la note de lecture ; justification détaillée renvoyée aux difficultés. Lecture confirmée au zoom ×3.
+- ligne: 3
+  avant: 'apparat pareille : p-a-r-e-i, ll, e prolongé ; la haste qui traverse le mot est le p de « employée » ; non « qu''hier »'
+  apres: 'apparat pareille : lecture nouvelle ; on lisait « qu''hier »'
+  justification: Apparat épuré ; lecture confirmée au zoom ×3 (aucune boucle de h ni apostrophe).
+- ligne: 9
+  avant: (aucune note)
+  apres: 'apparat pluvieux (lecture) : mot écrit très réduit (plu-i, délié, x final) ; sens assuré'
+  justification: Le mot porte trois minimes seulement ; le lecteur du fac-similé lirait « pluix ».
+remarques: 'Blanc de la moitié inférieure : la journée suivante (12 octobre) commence au cliché 073.'
+resume: 'Mercredi 11 octobre 1916. La matinée se passe comme la veille : sous une pluie battante, Hippolyte Combes doit conduire des wagons dans un champ de luzerne derrière le grand bois de Ribeaucourt. Il rentre au cantonnement, casque et cape ruisselants. Après-midi libre ; ciel nuageux et temps pluvieux toute la journée. La seconde moitié de la page est restée blanche sous un filet.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Ribeaucourt
+    ligne: 5
+    identite: Ribeaucourt (Somme)
+source: contrôle

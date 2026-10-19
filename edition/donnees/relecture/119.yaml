@@ -1,0 +1,168 @@
+cliche: 119
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 3 Mercredi \hfill — Janvier /17 —
+  apres: 3 \sl{Mercredi} \hfill — \sl{Janvier /17} —
+  justification: deux soulignements visibles sous le jour et sous Janvier /17
+  confiance: haute
+- ligne: 4
+  avant: +tôt
+  apres: +tot
+  justification: aucun circonflexe distinct au-dessus du o ; seule la barre longue du t
+  confiance: moyenne
+- ligne: 5
+  avant: Départ 9h m. 2 off., venus avec nous.
+  apres: Depart 9^{H} m. 2 \inc{offs}, venus avec nous \trait
+  justification: pas d'accent ; H suscrit ; après ff un petit crochet final, pas de point ; nous prolongé d'un long délié
+  confiance: moyenne
+- ligne: 7
+  avant: ch. M. Dubois Paul, maire — av. qui eu
+  apres: Chz M. Dubois Paul, maire – avec qui eu
+  justification: C-h-z avec z plongeant ; avec en quatre éléments ; tiret court
+  confiance: haute
+- ligne: 9
+  avant: Vers 11h, à Amiens.
+  apres: Vers 11^{h}, à Amiens.
+  justification: h nettement suscrit
+  confiance: haute
+- ligne: 11
+  avant: l'Hôtel de la Paix, rue — et dès lors,
+  apres: l'Hotel de la Paix, rue – et dès lors,
+  justification: pas de circonflexe visible ; blanc après rue puis tiret court
+  confiance: moyenne
+- ligne: 12
+  avant: j'à 3 h 1/2 s.
+  apres: j-à 3^{H} \fr{1}{2} s.
+  justification: trait d'union ; H suscrit ; fraction empilée en aspect ʒ
+  confiance: haute
+- ligne: 13
+  avant: Rencontré Cap. Trefcon
+  apres: Rencontré, Cap. \inc{Trefton}
+  justification: virgule verticale après Rencontré ; après le f, haste montant au-dessus de l'œil (t), non c
+  confiance: moyenne
+- ligne: 14
+  avant: etc.)
+  apres: etc –
+  justification: aucune parenthèse fermante ; tiret bas après etc
+  confiance: haute
+- ligne: 15
+  avant: Après déjeuner, visite à la cathle, y
+  apres: \ind Après dejeuner, visite à la cath^{le}, y
+  justification: le surélevé ; aucun accent sur le premier e de dejeuner (le point au-dessus est celui du j)
+  confiance: haute
+- ligne: 16
+  avant: heure... Admiré
+  apres: heure . . . Admiré
+  justification: trois points espacés
+  confiance: haute
+- ligne: 17
+  avant: vus. —
+  apres: vus . .
+  justification: deux points espacés, pas de tiret
+  confiance: moyenne
+- ligne: 19
+  avant: Repartis vers 4h s.
+  apres: Repartis vers 4^{H} s. –
+  justification: H suscrit ; s réduit à un trait (aspect 1) ; point et tiret
+  confiance: moyenne
+- ligne: 20
+  avant: '[ — Amiens : 12 ctes ples : 40 c + 10 c. Ctes ples : 20 c'
+  apres: '— \sl{Amiens} – 12 C^{te} ple : 40c. — +10 C^{te} ple : 20c'
+  justification: 'aucun crochet ; Amiens souligné ; pas de c après 10 : le C est l''initiale de C^{te} ; aucun s final visible'
+  confiance: moyenne
+- ligne: 21
+  avant: '3 boutons khaki : 40 c. — Déjeuner : 1 f 95 c —'
+  apres: '3 boutons khaki – : 40c. — \hfill Dejeuner : 1^{f} \inc{75} c —'
+  justification: aucun accent sur le e après D (le trait au-dessus est le point du j) ; f suscrit bouclé au-dessus du 1 ; barre de tête et diagonale du 7 au-dessus du pâté
+  confiance: moyenne
+- ligne: 22
+  avant: '5 gravures [ocre ?] cathédrale : 2 f 50 —'
+  apres: '5 gravures ocre cathedrale : 2^{f} 50 –'
+  justification: o-c-r-e lisible ; pas d'accent ; petit f suscrit
+  confiance: moyenne
+- ligne: 23
+  avant: '1 bonnet police drap bleu : 3 f 75 c ]'
+  apres: '1 bonnet police drap bleu : 3^{f} 75c'
+  justification: f suscrit ; aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 5
+  lemme: offs
+  analyse: o + deux f à longues hampes + petit crochet final en forme de e ouvert, suivi d'une virgule verticale ; crochet = s réduit ou point abréviatif
+  alternatives:
+  - off.
+  - offe
+- ligne: 13
+  lemme: Trefton
+  analyse: T à crochet, r, e, f à long jambage descendant, puis haste séparée montant au-dessus de l'œil (t, barre peu nette en tête), boucle (o ou a), n final ; un c n'aurait pas de haste
+  alternatives:
+  - Trefcon
+  - Treflon
+  - Treftan
+- ligne: 19
+  lemme: s.
+  analyse: après 4 et H suscrit, simple trait vertical (s du soir réduit, guide § 8 n° 26), puis point et tiret
+  alternatives:
+  - '1'
+- ligne: 21
+  lemme: 1^{f} 75
+  analyse: boucle suscrite à queue descendante vers la gauche au-dessus du 1 (f) ; barre horizontale et diagonale descendant dans le pâté (7) ; drapeau du 5 à droite ; aucune boucle de 9 au niveau des chiffres
+  alternatives:
+  - 1^{fr} 95
+- ligne: 3
+  lemme: le
+  analyse: l bouclé lié à un e, forme proche du & en ρ ; « tout le jour » retenu
+  alternatives:
+  - '&'
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources : Blackwood''s 1917 (F44), Michelin, Amiens 1919 (sacs de terre, Hôtel de la Paix, 15 rue Duméril, F49, probable), préface de Tessan dans Fernand-Laurent 1917 (F36). Montigny-sur-l''Hallue identifié de façon probable par le « Dr Dubois » du f. 80 v°. Le maire Paul Dubois, le capitaine (lu Trefton, antérieurement Trefcon) et la maison « La Semeuse » ne sont pas identifiés ; rechercher aussi la forme Trefton. Le carnet ne mentionne aucune visite antérieure de la cathédrale (« déjà vus » renvoie peut-être à un séjour d''avant-guerre).'
+  alternatives: []
+controle:
+- ligne: 13
+  avant: Rencontré, Cap. Trefcon rue Sire Firmin Leroux
+  apres: Rencontré, Cap. \inc{Trefton} rue Sire Firmin Leroux
+  justification: zoom ×3 [.40 .44 .58 .49] ; après le f, haste séparée montant au-dessus de l'œil, barre courte en tête (t) ; un c serait bas, sans haste
+- ligne: 15
+  avant: \ind Après déjeuner, visite à la cath^{le}, y
+  apres: \ind Après dejeuner, visite à la cath^{le}, y
+  justification: zoom ×3 [.18 .52 .40 .57] ; aucun accent sur le premier e ; le point visible est celui du j
+- ligne: 21
+  avant: '3 boutons khaki – : 40c. — \hfill Déjeuner : 1^{fr} \inc{95} c —'
+  apres: '3 boutons khaki – : 40c. — \hfill Dejeuner : 1^{f} \inc{75} c —'
+  justification: zooms ×3 [.55 .78 .80 .83] et [.80 .78 .96 .84] ; aucun accent après D (le trait est le point du j) ; boucle suscrite à queue gauche = f seul ; la barre horizontale et la diagonale qui plonge dans le pâté sont celles d'un 7 (cf. 3^{f} 75c, l. 23), pas de boucle de 9
+- ligne: 22
+  avant: 'apparat : cathedrale, encre plus pâle (type autre)'
+  apres: mention reportée dans critique
+  justification: changement d'encre à signaler dans critique (guide § 1) ; apparat épuré
+remarques: 'La Semeuse : maison d''instruments agricoles de la rue Sire-Firmin-Leroux. Montigny identifié par l''itinéraire vers Amiens (à confirmer).'
+resume: 'Le mercredi 3 janvier 1917, Hippolyte Combes fait une course en auto à Amiens avec deux officiers, par un temps couvert et doux. Arrêts à Belle-Église et à Montigny, chez le maire Paul Dubois, avec qui il a une conversation intéressante. Arrivé vers 11 heures, l''auto est garée dans la cour de l''Hôtel de la Paix ; libre jusqu''à 3 h 1/2, il rencontre le capitaine Trefton (lecture incertaine) rue Sire-Firmin-Leroux (La Semeuse, instruments agricoles), visite plus d''une heure la cathédrale et se promène dans le centre. Départ vers 4 heures ; comptes : cartes postales, boutons kaki, déjeuner, gravures de la cathédrale, bonnet de police.'
+noms:
+  personnes:
+  - forme: Dubois Paul
+    ligne: 7
+    identite: Paul Dubois, maire de Montigny (Somme)
+  - forme: Cap. Trefton
+    ligne: 13
+    identite: capitaine Trefton (lecture incertaine ; antérieurement Trefcon)
+  lieux:
+  - forme: Belle-Eglise
+    ligne: 6
+    identite: Belle-Église, Somme
+  - forme: Montigny
+    ligne: 6
+    identite: Montigny-sur-l'Hallue (Somme), probable
+  - forme: Amiens
+    ligne: 9
+    identite: Amiens (Somme)
+  - forme: l'Hotel de la Paix
+    ligne: 11
+    identite: Hôtel de la Paix, Amiens
+  - forme: rue Sire Firmin Leroux
+    ligne: 13
+    identite: rue Sire-Firmin-Leroux, Amiens
+  - forme: cath^{le}
+    ligne: 15
+    identite: cathédrale Notre-Dame d'Amiens
+source: contrôle

@@ -1,0 +1,140 @@
+cliche: 45
+fichier: 20251126_094726.jpg
+date: Lundi 18 septembre 1916
+mois: Septembre 1916
+lieux: Raincheval, Hédauville, Forceville et Acheux-en-Amiénois (Somme)
+titre: Sous l'averse, par Hédauville et Forceville, à la Mission d'Acheux ; malaise au retour
+transcription: |
+  \sl{18 Lundi} \hfill \sl{Septbr 1916}
+  \ind Tout le jour, pluie très forte
+  Reçu hier soir message ; obligé venir mission
+  fr^{se}. Malgré averses incessantes, parti
+  à cheval vers 1^{H} \fr{1}{2}. Tout l'après-midi par
+  monts & par vaux, sur routes boueuses
+  A Hédauville, appris que \inc{xviiie} divi, \inc{contr^{t}}
+  et pas quitte Acheux — Le HQ^{rs} divi reste \inc{m}
+  où elle etait \trait
+  \sur{\ill}{\inc{Reparti}} par Forceville à Acheux — où
+  enfin retrouvé mission fr de notre divi
+  Au retour, fait route en cie de \inc{Brammas}
+  Temps affreux. Cape traversée par la pluie
+  Habits trempés. Souliers remplis d'eau
+  En outre, derangt d'entrailles, depuis
+  qq jours, par suite changemt de regime
+  (mess d'offrs
+  \ind Rentré chambre, mal à l'aise. Selles
+  frequentes. Rendu enfin \sur{\ill}{repas} de midi
+  qui me chargeait l'estomac \trait
+  \ind Couché de b heure \trait
+  \blanc{2}
+  \filet
+  Tip à Connelly mon groom : 2^{f} —
+apparat:
+- ligne: 1
+  lemme: Septbr
+  type: abreviation
+  note: septembre
+- ligne: 4
+  lemme: fr^{se}
+  type: abreviation
+  note: française (mission française)
+- ligne: 5
+  lemme: 1^{H} \fr{1}{2}
+  type: abreviation
+  note: une heure et demie
+- ligne: 6
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 7
+  lemme: \inc{xviiie}
+  type: lecture
+  note: XVIIIe (18e division), en chiffres romains minuscules ; le nombre des jambages reste douteux (XVIIe)
+- ligne: 7
+  lemme: divi
+  type: abreviation
+  note: division
+- ligne: 7
+  lemme: \inc{contr^{t}}
+  type: lecture
+  note: contrairement ? ; autre lecture possible, contre-ordre
+- ligne: 8
+  lemme: HQ^{rs}
+  type: abreviation
+  note: 'Headquarters (anglais) : quartier général'
+- ligne: 8
+  lemme: divi
+  type: abreviation
+  note: division
+- ligne: 8
+  lemme: \inc{m}
+  type: lecture
+  note: m isolé en fin de ligne ; même abrégé, ou fin d'un mot de la l. 7 (contremandé ?)
+- ligne: 10
+  lemme: \sur{\ill}{\inc{Reparti}}
+  type: surcharge
+  note: mot récrit sur une première leçon illisible ; lecture Reparti, peut-être Repassé
+- ligne: 11
+  lemme: fr
+  type: abreviation
+  note: française
+- ligne: 11
+  lemme: divi
+  type: abreviation
+  note: division
+- ligne: 12
+  lemme: cie
+  type: abreviation
+  note: compagnie (en compagnie de)
+- ligne: 12
+  lemme: \inc{Brammas}
+  type: lecture
+  note: initiale B ou D, finale -s ou -r (Drammas, Drammar) ; personnage non identifié
+- ligne: 15
+  lemme: derangt
+  type: abreviation
+  note: dérangement
+- ligne: 16
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 16
+  lemme: changemt
+  type: abreviation
+  note: changement
+- ligne: 17
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 17
+  lemme: offrs
+  type: abreviation
+  note: officiers ; parenthèse ouvrante non refermée
+- ligne: 19
+  lemme: \sur{\ill}{repas}
+  type: surcharge
+  note: repas récrit sur une première leçon illisible
+- ligne: 21
+  lemme: b
+  type: abreviation
+  note: bonne (de bonne heure)
+- ligne: 22
+  lemme: Tip
+  type: emprunt
+  note: pourboire
+- ligne: 22
+  lemme: groom
+  type: emprunt
+  note: ordonnance (soldat attaché au service d'un officier)
+- ligne: 22
+  lemme: 2^{f}
+  type: abreviation
+  note: 2 francs
+critique: Encre violette, alors que la page précédente est à l'encre noire. Deux mots (l.~10 et 19) sont récrits à l'encre épaisse sur une première leçon.
+historique: |
+  Le message émane sans doute du bureau divisionnaire de la Mission, dont relèvent les interprètes des unités (voir f. 22 r\textsuperscript{o}). Combes le cherche d'abord à Hédauville, à 9,8 km de Raincheval, peut-être sur le bruit d'un déplacement du QG : celui-ci ne s'y installera que le 25 septembre, la veille de l'attaque de Thiepval, et y restera jusqu'au 6 octobre (Nichols 1922, p. 79). Hédauville est sur la route Contay–Englebelmer–Aveluy, presque la seule route proche du front praticable de jour comme de nuit (OH 1916-I, p. 271) ; Forceville et Acheux sont à 1,9 et 4 km de là. Le 7th Bedfordshire note ce jour un « Wet morning » et la visite du général Shoubridge, commandant la 54th Brigade (JMO 7/Bedf, 18 sept. 1916 ; Nichols 1922, p. 109). « Brammas » (lecture incertaine) n'est pas identifié. Le régime incriminé est celui du mess des officiers, partagé depuis le 12 (voir f. 21 v\textsuperscript{o}). Connelly, son palefrenier, avait reçu 1 f le 5 août et le 11 septembre (voir f. 6 r\textsuperscript{o} et 21 r\textsuperscript{o}) ; le pourboire double ce jour.
+sources:
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 79, 109.
+- Edmonds, J. E. (comp.), Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 271.
+- 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'
+- geo.api.gouv.fr, coordonnées des mairies (distances à vol d'oiseau).

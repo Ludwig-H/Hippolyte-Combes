@@ -1,0 +1,150 @@
+cliche: 63
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Octb / 16
+  apres: oct^{bre} /16
+  justification: o initial minuscule, finale bouclée puis ondulation (type 068 Oct^{bre}) ; barre oblique du millésime de même module que le 1, mais plus inclinée
+  confiance: moyenne
+- ligne: 2
+  avant: parut
+  apres: \inc{parut}
+  justification: après p et a, cinq jambages indistincts et un délié, aucune barre de t
+  confiance: moyenne
+- ligne: 3
+  avant: A 8H m., gare d'Orsay
+  apres: A 8^{h} m., gare d'Orsay \trait
+  justification: h nettement suscrit au-dessus du 8 ; long trait de remplissage après Orsay
+  confiance: haute
+- ligne: 5
+  avant: station métro Tuileries
+  apres: métro Tuileries
+  justification: « station » n'est pas en tête de la l. 5 mais en marge gauche, plus bas, devant « gare » (l. 6)
+  confiance: moyenne
+- ligne: 6
+  avant: gare du Nord
+  apres: \addm{station} gare du Nord
+  justification: 'voir l. 5 : la finale de « station » descend vers le g de gare'
+  confiance: moyenne
+- ligne: 9
+  avant: Egl St-Vincent
+  apres: \inc{egl St}-Vincent
+  justification: mot repassé et empâté ; initiale e minuscule, hampes de l, S, t barré
+  confiance: basse
+- ligne: 10
+  avant: Admiré
+  apres: admiré
+  justification: a de module ordinaire, sans forme de majuscule
+  confiance: moyenne
+- ligne: 15
+  avant: Corresp
+  apres: \inc{Correspce}
+  justification: 'après le p, petit c et e liés en finale (forme de la table : correspce)'
+  confiance: moyenne
+- ligne: 15
+  avant: lettres
+  apres: lettres \trait
+  justification: barre des tt prolongée en long trait épais jusqu'à la marge, non rature
+  confiance: moyenne
+- ligne: 16
+  avant: Soleil commence briller 1 peu
+  apres: Soleil \add{commence} brille, 1 peu
+  justification: « commence » est un ajout écrit petit sous la ligne ; « brille » sans r final, suivi d'une virgule appuyée
+  confiance: haute
+- ligne: 17
+  avant: arrêt au Louvre. Pas
+  apres: arret au Louvre. Pas
+  justification: aucun circonflexe visible
+  confiance: moyenne
+- ligne: 18
+  avant: déjeuner
+  apres: dejeuner
+  justification: aucun accent visible sur le premier e
+  confiance: moyenne
+- ligne: 19
+  avant: Dû revenir par métro à gare du Nord
+  apres: Dû revenir \add{par} metro a gare du Nord
+  justification: « par » écrit petit sous la ligne (ajout) ; ni accent sur metro ni sur a
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: Le
+  analyse: L à long pied horizontal ; le e semble absorbé dans le pied (délié)
+  alternatives:
+  - L
+- ligne: 2
+  lemme: parut
+  analyse: 'zoom ×2 [.05 .07 .70 .125] : p à haste longue, a fermé, puis cinq jambages anguleux finissant en délié ; aucune barre de t ; « parut » d''après le sens'
+  alternatives:
+  - paru
+  - parait
+- ligne: 9
+  lemme: egl St
+  analyse: 'zoom ×3 [.25 .395 .58 .45] : petite boucle e, groupe empâté à hampe et jambage (gl), point isolé (i ?), puis S haut et t barré liés au tiret ; « église » non exclu'
+  alternatives:
+  - Egl. St
+  - eglise St
+- ligne: 10
+  lemme: murales
+  analyse: 'zoom ×3 [.68 .43 1 .49] : trait courbe isolé, descendant sous la ligne, avant le m ; aspect de parenthèse ouvrante, mais sans emploi syntaxique : délié d''attaque du m, non transcrit'
+  alternatives:
+  - (murales
+- ligne: 12
+  lemme: marbre marron
+  analyse: 'zoom ×2 [.02 .53 .62 .595] : deux barres épaisses à hauteur d''œil, l''une prolongeant le e final de marbre, l''autre couvrant « mar » de marron ; la fin de marron et son délié restent intacts : reprises d''encre plutôt que rature'
+  alternatives:
+  - de marbre \del{marron}
+- ligne: 15
+  lemme: Correspce
+  analyse: 'zoom ×3 [.02 .665 .32 .725] : C ample, jambages (rr) sans o distinct, e, s descendant, p, puis c et e liés'
+  alternatives:
+  - Corresp
+  - Corresp^{ce}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Ordre des clichés : 063 (5 oct.) précède 064 (soir du 4 oct.) ; d''après la codicologie, 063 = f. 32 v°, 064 = f. 32 r° ; signalé dans le registre critique. Rue La Fayette ajoutée au champ lieux.'
+  alternatives: []
+controle:
+- ligne: 0
+  avant: apparat chargé de justifications paléographiques (l. 1, 2, 9, 15, 16)
+  apres: notes brèves ; justifications reportées dans difficultes
+  justification: épuration de l'apparat imprimé ; transcription vérifiée par zooms, aucune leçon modifiée
+- ligne: 9
+  avant: une seule note (abreviation) pour \inc{egl St}
+  apres: note d'abréviation + note de lecture (église St possible)
+  justification: point d'i isolé dans le groupe empâté ; « église » non exclu
+- ligne: 15
+  avant: une seule note (abreviation) pour \inc{Correspce}
+  apres: note d'abréviation + note de lecture (Corresp possible)
+  justification: finale c-e peu distincte
+- ligne: 0
+  avant: lieux sans rue La Fayette
+  apres: rue La Fayette ajoutée au champ lieux
+  justification: le lieu figure l. 8 et dans noms
+remarques: 'La page suivante (064) revient au soir du 4 octobre (départ de Toulouse) : ordre des clichés lié à la codicologie (verso photographié avant le recto).'
+resume: Le jeudi 5 octobre 1916 au matin, Hippolyte Combes arrive à la gare d'Orsay, gagne à pied sous une pluie fine le métro des Tuileries et change au Châtelet pour la gare du Nord, où il laisse ses paquets à la consigne. Il descend la rue La Fayette, se repose dans l'église Saint-Vincent-de-Paul, dont il admire les peintures murales et les colonnes de marbre, puis va aux Grands Magasins du Louvre, où il écrit deux lettres au salon de correspondance. La pluie cesse ; trop longtemps retenu au Louvre, il n'a pas le temps de déjeuner au restaurant et doit revenir en métro à la gare du Nord.
+noms:
+  personnes: []
+  lieux:
+  - forme: gare d'Orsay
+    ligne: 3
+    identite: gare d'Orsay, Paris
+  - forme: Tuileries
+    ligne: 5
+    identite: station de métro Tuileries, Paris
+  - forme: Chatelet
+    ligne: 5
+    identite: station de métro Châtelet, Paris
+  - forme: gare du Nord
+    ligne: 6
+    identite: gare du Nord, Paris
+  - forme: rue La Fayette
+    ligne: 8
+    identite: rue La Fayette, Paris
+  - forme: Vincent-de-Paul
+    ligne: 9
+    identite: église Saint-Vincent-de-Paul, Paris (Xe arr.)
+  - forme: Mag du Louvre
+    ligne: 13
+    identite: Grands Magasins du Louvre, rue de Rivoli, Paris
+source: contrôle

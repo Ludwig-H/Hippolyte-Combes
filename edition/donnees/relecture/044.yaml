@@ -1,0 +1,132 @@
+cliche: 44
+confiance: haute
+changements:
+- ligne: 2
+  avant: l'attente
+  apres: lattente
+  justification: l et a liés sans levée de plume ni trait d'apostrophe
+  confiance: moyenne
+- ligne: 3
+  avant: 'occupations :'
+  apres: occupations ,
+  justification: un seul trait vertical long (virgule à la manière de Combes), aucun second point
+  confiance: haute
+- ligne: 4
+  avant: champ de trèfle rouge.
+  apres: Champ de trefle rouge
+  justification: C initial à grande boucle de tête, au module de celui de Chênes (l. 11) ; aucun accent sur trefle ; aucun point après rouge
+  confiance: moyenne
+- ligne: 6
+  avant: '[Le/1/2 ?] jour'
+  apres: \fr{1}{2} jour
+  justification: '1 en haut, petite barre horizontale, 2 couché en ℓ au-dessous : demi empilé'
+  confiance: haute
+- ligne: 10
+  avant: château. Ombre fraîche & délicieuse.
+  apres: chateau. Ombre fraiche & delicieuse.
+  justification: aucun circonflexe ni accent visible ; teau repassé à l'encre, f de fraiche empâté
+  confiance: moyenne
+- ligne: 11
+  avant: gds arbres séculaires
+  apres: g^{ds} arbres seculaires
+  justification: ds nettement suscrit ; pas d'accent sur le premier e
+  confiance: haute
+- ligne: 12
+  avant: aux troncs énormes
+  apres: \inc{aux} troncs enormes
+  justification: pas d'accent sur l'initiale ; premier mot réduit à deux éléments (voir controle)
+  confiance: moyenne
+- ligne: 13
+  avant: intte [?] à la sortie église.
+  apres: int^{te} à la sortie eglise
+  justification: i, n, t à haute hampe puis te suscrit nettement ; eglise sans accent ; aucun point final
+  confiance: haute
+- ligne: 14
+  avant: et avec lui venu chez le petit vieux
+  apres: et av lui venu chz petit vieux
+  justification: le mot s'arrête au v (a + v arrondi, sans e ni c) ; chz = c réduit, h bouclé, z plongeant ; aucun le entre chz et petit
+  confiance: haute
+- ligne: 15
+  avant: faïences,
+  apres: faïences
+  justification: 'aucune virgule : le s final plonge sous la ligne'
+  confiance: moyenne
+- ligne: 16
+  avant: médailles
+  apres: medailles
+  justification: aucun accent sur le e
+  confiance: moyenne
+- ligne: 17
+  avant: church service (Wesleyans)
+  apres: church service (Wesleyans
+  justification: parenthèse ouvrante seule devant Wesleyans, écrit au-dessus de la fin de la ligne ; la fermante est après village (l. 18)
+  confiance: haute
+- ligne: 18
+  avant: en face église village
+  apres: en face eglise village)
+  justification: eglise sans accent ; longue parenthèse fermante détachée après village
+  confiance: haute
+- ligne: 19
+  avant: '— Washing : 1 f. —'
+  apres: '\ind — Washing : 1 \inc{f} —'
+  justification: 1 à l'encre violette ; seule une boucle ténue au-dessus à droite du 1 peut être un f suscrit ; tiret final ondulé ; aucun point
+  confiance: moyenne
+difficultes:
+- ligne: 14
+  lemme: av
+  analyse: 'zoom [.05 .56 .40 .61] : a aplati puis deux bosses arrondies, délié final aussitôt ; aucun élément pour -ec ; « au » n''a pas de sens devant lui'
+  alternatives:
+  - avec
+  - au
+- ligne: 12
+  lemme: \inc{aux}
+  analyse: 'zoom [.02 .44 .40 .49] : lettre ouverte en haut (a sans fermeture ou u) puis grande croix x ; deux éléments seulement, aux par le sens'
+  alternatives:
+  - ax
+  - ux
+- ligne: 15
+  lemme: faïences
+  analyse: 'zoom [.75 .60 1 .665] : petit signe ondulé au-dessus du groupe ie, tréma cursif plutôt que point d''i'
+  alternatives:
+  - faiences
+- ligne: 19
+  lemme: 1 \inc{f}
+  analyse: 'zoom ×3 rehaussé [.10 .87 .65 .95] : 1 violet distinct du jambage noir du f de face (l. 18) ; au-dessus à droite du 1, boucle très pâle en ʃ, puis tiret ondulé pâle : f monétaire suscrit très effacé, ou simple trace'
+  alternatives:
+  - 1 —
+  - 1^{f} —
+- ligne: 4
+  lemme: Champ
+  analyse: C à boucle de tête montant à la hauteur des hampes, comme dans Chênes (l. 11) ; peut n'être qu'un c d'attaque agrandi
+  alternatives:
+  - champ
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié sur l''image : l''interprète (int^{te}, l. 13) et le collectionneur (petit vieux, l. 14) ne sont pas nommés ; aucune dédicace d''église n''est écrite (eglise, l. 13 et 18), le Saint-Éloi de l''édition antérieure n''est donc pas repris. Sources du commentateur : JMO 7/Bedf 17 et 22 sept., Blackwood''s Magazine p. 933, Mérimée PA00116224 (château de 1719), Thompson 1990.'
+  alternatives: []
+controle:
+- ligne: 12
+  avant: aux troncs enormes
+  apres: \inc{aux} troncs enormes
+  justification: le premier mot ne montre que deux éléments (lettre ouverte + x) ; lecture par le sens, signalée comme incertaine
+- ligne: 4
+  avant: (pas de note)
+  apres: 'apparat : wagon, emprunt'
+  justification: chariot hippomobile de la compagnie, sens anglais de wagon et non le wagon de chemin de fer
+- ligne: 1
+  avant: 'Sept^{re} : septembre ; le trait qui souligne la date…'
+  apres: 'Sept^{re} : septembre'
+  justification: la disposition du trait est déjà dite à la l. 2 (départ) ; apparat épuré
+- ligne: 19
+  avant: 'note : trace ténue d''un f et tiret ondulé'
+  apres: 'note : boucle ténue au-dessus du 1'
+  justification: zoom rehaussé ; la boucle pâle est au-dessus à droite du 1, position du f monétaire suscrit ; \inc{f} maintenu
+remarques: Lieu déduit de la page précédente (cantine de la gare de Raincheval). La première lettre de « Après-midi » (l. 17) est empâtée d'une tache d'encre.
+resume: 'Dimanche 17 septembre 1916, à Raincheval, la compagnie attend toujours son départ ; Combes s''occupe du fourrage vert et doit conduire un chariot à un champ de trèfle rouge. Temps très beau, frais matin et soir, soleil brûlant à midi. Il se promène plusieurs fois par jour dans le grand bois proche des horse-lines, derrière le mur du château, aux grands chênes séculaires. Le matin, il rencontre un interprète à la sortie de l''église et l''accompagne chez un petit vieux collectionneur de faïences, pierres et médailles ; l''après-midi, il assiste à un culte wesleyen dans une petite salle en face de l''église. Blanchissage : 1 franc.'
+noms:
+  personnes: []
+  lieux:
+  - forme: chateau
+    ligne: 10
+    identite: château de Raincheval (Somme)
+source: contrôle

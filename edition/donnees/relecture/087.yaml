@@ -1,0 +1,201 @@
+cliche: 87
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 29 D. \hfill Octbre /16
+  apres: \sl{29 D.} \hfill \sl{Octbre /16}
+  justification: date et mois soulignés chacun d'un trait
+  confiance: haute
+- ligne: 2
+  avant: Durant tt le jour, au ciel, gros
+  apres: \ind[2] Durant tt le jour, au ciel, gros
+  justification: la ligne commence après « D. », en net retrait, une demi-interligne plus bas que la date (au niveau de son soulignement)
+  confiance: moyenne
+- ligne: 3
+  avant: Averses intermittentes
+  apres: 'Averses intermitt:'
+  justification: mot suspendu après tt barré, suivi de deux points superposés ; aucune finale -entes
+  confiance: haute
+- ligne: 4
+  avant: et tjrs, boue
+  apres: Et Tjours, boue
+  justification: E de haute taille ; T bouclé + j descendant + jambages (ours), cf. guide § 8 n° 3
+  confiance: moyenne
+- ligne: 5
+  avant: partout —
+  apres: partout –
+  justification: tiret court
+  confiance: moyenne
+- ligne: 6
+  avant: Après-midi, course en auto à Acheux
+  apres: \ind apres-midi, course en auto à Acheux
+  justification: a initial minuscule, aucun accent sur le e ; alinéa
+  confiance: moyenne
+- ligne: 7
+  avant: '& Senlis — enquête'
+  apres: Senlis – – enquête
+  justification: aucune esperluette devant le S en ſ ; deux tirets courts après Senlis
+  confiance: moyenne
+- ligne: 8
+  avant: disponibles — —
+  apres: disponibles – —
+  justification: un tiret court puis un long
+  confiance: moyenne
+- ligne: 9
+  avant: Fils aîné de M. Duchâteau, maral logis
+  apres: \ind Fils ainé de M. Duchateau, mal logis
+  justification: point sur le i (non circonflexe) ; aucun circonflexe sur le a de Duchateau ; alinéa ; m + a puis l détaché (contrôle p2)
+  confiance: moyenne
+- ligne: 12
+  avant: Écouté
+  apres: \inc{Écouté}
+  justification: mot empâté par une reprise d'encre, lettres indistinctes
+  confiance: basse
+- ligne: 13
+  avant: pris part.
+  apres: pris part
+  justification: 'aucun point : la barre du t final est seulement prolongée'
+  confiance: haute
+- ligne: 14
+  avant: '[ Cartes ples église d''Albert : 50 c'
+  apres: '\crochet{2}Cartes ples eglise d''Albert : 50c'
+  justification: grand crochet sur deux lignes ; eglise sans accent ; 50c lié
+  confiance: haute
+- ligne: 15
+  avant: 'Acheux, 2 cafés : 40 c ]'
+  apres: 'Acheux, 2 cafés : 40c'
+  justification: aucun crochet fermant à droite
+  confiance: haute
+- ligne: 16
+  avant: 30 L. — Matin
+  apres: 30 L – Matin
+  justification: aucun point après L ; tiret court et épais
+  confiance: moyenne
+- ligne: 17
+  avant: Après-midi, durant 3 h., pluie
+  apres: \ind[2] apres-midi, durant 3 h. pluie
+  justification: a minuscule sans accent ; point après h et aucune virgule ; fort retrait
+  confiance: moyenne
+- ligne: 19
+  avant: qui ns sert
+  apres: qui ns. sert
+  justification: point sur la ligne de base après ns (le point du i de qui est au-dessus)
+  confiance: moyenne
+- ligne: 20
+  avant: extrême.
+  apres: extrême
+  justification: long délié final, aucun point
+  confiance: haute
+- ligne: 21
+  avant: jaunes d'or,
+  apres: jaune \inc{vif}
+  justification: 'jaune terminé par un long délié ; mot suivant : jambage arrondi ouvert en bas + longue haste traversant la ligne, sans d ni virgule (contrôle p2 : « vif » plutôt que « or »)'
+  confiance: basse
+- ligne: 22
+  avant: à l'horizon.
+  apres: à l'horizon. –
+  justification: tiret court après le point
+  confiance: haute
+- ligne: 23
+  avant: Terrain détrempé
+  apres: Terrain detrempé
+  justification: aucun accent sur le premier e (le tiret au-dessus appartient à la l. 22) ; accent sur le e final
+  confiance: moyenne
+- ligne: 25
+  avant: averses.
+  apres: averses \trait
+  justification: trait épais tiré après averses, aucun point
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: 'intermitt:'
+  analyse: i (point haut) n t e r m i tt sous barre commune, puis deux points superposés
+  alternatives:
+  - intermitt.
+- ligne: 4
+  lemme: Tjours
+  analyse: T à boucle d'attaque, j à longue descente, puis o-u-r et s final en trait vertical (aspect tt) ; un point isolé entre Et et Tjours, à mi-hauteur, non transcrit (point du j déplacé ?)
+  alternatives:
+  - tjs
+- ligne: 7
+  lemme: Senlis
+  analyse: haste descendante bouclée à gauche au bas puis remontée liée à enlis ; S en ſ, sans tracé séparé pour &
+  alternatives:
+  - '& Senlis'
+- ligne: 9
+  lemme: mal
+  analyse: 'zoom [.64 .28 .97 .34] : trois jambages (m), a fermé à délié montant, puis l haut détaché posé sur la ligne de base ; aucun jambage ni a supplémentaire pour -ar-'
+  alternatives:
+  - maral
+- ligne: 11
+  lemme: homme,
+  analyse: 'trait fin et courbe après homme, de la hauteur d''œil à sous la ligne : position d''une virgule, non d''une parenthèse (qui monterait plus haut) ; homme écrit h-o + jambages écrasés'
+  alternatives:
+  - homme (blond
+- ligne: 12
+  lemme: Écouté
+  analyse: 'zoom ×3 rehaussé [.38 .395 .66 .45] : pâté d''encre foncée recouvrant un mot de 6–7 lettres ; boucle initiale, c, o, t, e devinés, peut-être une surcharge'
+  alternatives:
+  - Ecouté
+- ligne: 12
+  lemme: avec
+  analyse: a ouvert (aspect u) + v + e réduit + finale plongeante en ʒ prolongée ; le contexte (avec intérêt) tranche
+  alternatives:
+  - av
+- ligne: 21
+  lemme: vif
+  analyse: 'zoom [.72 .75 1.0 .83] : après le long délié de jaune, jambage double arrondi ouvert en bas (v, non o fermé), puis longue haste montant de sous la ligne jusqu''à la l. 20, tête épaissie (f) ; point du i non vu'
+  alternatives:
+  - or
+  - '&'
+  - d'or
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Lieux corrigés en « Albert ; Acheux-en-Amiénois ; Senlis-le-Sec (Somme) » (appliqué). Douteux contrôlés en p2 : l. 12 « Écouté » maintenu incertain ; l. 21 « or » remplacé par « vif » (incertain) ; absence d''esperluette devant Senlis maintenue. La nationalité belge de la famille Duchateau reste une hypothèse : seule l''armée du fils est dite belge. Fichier : /workspaces/hc_work/commentaire/087.yaml'
+  alternatives: []
+controle:
+- ligne: 9
+  avant: maral logis
+  apres: mal logis
+  justification: m + a puis l détaché sur la ligne de base ; aucun tracé pour -ar-
+- ligne: 21
+  avant: jaune \inc{or}
+  apres: jaune \inc{vif}
+  justification: jambage arrondi ouvert en bas (non un o fermé) puis haste traversant la ligne (f) ; toujours incertain
+- ligne: 23
+  avant: Terrain détrempé
+  apres: Terrain detrempé
+  justification: aucun accent sur le premier e ; le tiret au-dessus est celui de la fin de la l. 22
+- ligne: 0
+  avant: 'lieux : Albert, Acheux, Senlis-le-Sec (Somme)'
+  apres: 'lieux : Albert ; Acheux-en-Amiénois ; Senlis-le-Sec (Somme)'
+  justification: remarque du commentateur historique
+- ligne: 9
+  avant: 'identite : M. Duchâteau, civil d''Albert'
+  apres: 'identite : M. Duchâteau, non identifié'
+  justification: rien dans le texte ne le situe à Albert ; identification non établie
+- ligne: 0
+  avant: 'apparat : notes longues (intermitt:, Tjours, Senlis)'
+  apres: notes réduites au développement ou à la lecture
+  justification: épuration de l'apparat imprimé
+remarques: Le mot empâté de la l. 12 et le dernier mot de la l. 21 restent douteux. La l. 2 est placée sous la date, en retrait ; on peut aussi la tenir pour la suite de la l. 1.
+resume: Le dimanche 29 octobre, ciel lourd et averses, boue partout. L'après-midi, Hippolyte Combes va en auto à Acheux et Senlis enquêter sur la paille et le foin disponibles. Il rencontre le fils aîné de M. Duchateau, maréchal des logis d'artillerie dans l'armée belge, en permission, qui lui raconte les combats auxquels il a pris part. Le lundi 30, pluie torrentielle l'après-midi, qui le retient dans la cabane servant de mess ; vent de tempête et fortes averses toute la nuit.
+noms:
+  personnes:
+  - forme: M. Duchateau
+    ligne: 9
+    identite: M. Duchâteau, non identifié ; son fils aîné est maréchal des logis dans l'artillerie belge
+  lieux:
+  - forme: Acheux
+    ligne: 6
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Senlis
+    ligne: 7
+    identite: Senlis-le-Sec (Somme)
+  - forme: Albert
+    ligne: 14
+    identite: Albert (Somme)
+  - forme: Acheux
+    ligne: 15
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

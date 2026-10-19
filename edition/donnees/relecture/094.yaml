@@ -1,0 +1,156 @@
+cliche: 94
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Novbre /16
+  apres: \sl{Nov^{b} /16}
+  justification: Nov suivi d'un b suscrit à crochet, sans re ; mois souligné d'un long trait, comme Dim. 5
+  confiance: haute
+- ligne: 2
+  avant: soleil brille
+  apres: soleil brillé
+  justification: court trait d'accent posé à droite de la finale de brille
+  confiance: moyenne
+- ligne: 4
+  avant: Délogé
+  apres: Delogé
+  justification: aucun accent sur le premier e ; accent seulement sur la finale
+  confiance: moyenne
+- ligne: 5
+  avant: Town Major.
+  apres: Town-Major.
+  justification: trait d'union net entre Town et Major
+  confiance: haute
+- ligne: 6
+  avant: trouvé bientôt
+  apres: trouve bientot
+  justification: aucun accent ni circonflexe visibles sur les deux mots ; seule la barre du t
+  confiance: moyenne
+- ligne: 7
+  avant: préférable, no 1, route de Léalvillers.
+  apres: preferable, no 1, route de Lealvillers
+  justification: aucun accent visible ; pas de point final après le nom
+  confiance: moyenne
+- ligne: 8
+  avant: terminé déménagement
+  apres: terminé demenagement
+  justification: le point avant de appartient à terminé ; demenagement sans accents
+  confiance: moyenne
+- ligne: 10
+  avant: Après-midi, liberté entière.
+  apres: \ind[2] apres-midi, liberté entiere.
+  justification: retrait marqué ; a initial minuscule (module et forme d'un a) ; trait d'union réduit à un point ; pas d'accent sur apres ; le trait sur entiere est la barre du t
+  confiance: moyenne
+- ligne: 11
+  avant: Achevé
+  apres: achevé
+  justification: a initial au module d'une minuscule, ouvert, sans pointe
+  confiance: moyenne
+- ligne: 12
+  avant: proprre, très sympathique.
+  apres: propre, très sympathiq^{ue}
+  justification: p-r-o-p(descendant)-r-e, un seul r après le second p ; finale ue suscrite rejetée dans la marge droite ; pas de point
+  confiance: moyenne
+- ligne: 13
+  avant: A 6h soir, l'interprète de la Vth
+  apres: A 6H soir, l'interprete de la V^{th}
+  justification: H à deux hastes sur la ligne de base du 6 ; th surélevé après V ; pas d'accent sur interprete
+  confiance: moyenne
+- ligne: 14
+  avant: 'venu me chercher : Cap.'
+  apres: '\inc{venu} me chercher : cap'
+  justification: venu barré ou empâté d'un trait épais ; cap en minuscules, sans point
+  confiance: moyenne
+- ligne: 15
+  avant: du [ajout interl. illis.] corps
+  apres: du \add{\ill} corps
+  justification: balisage de l'ajout interlinéaire
+  confiance: haute
+- ligne: 16
+  avant: aussitôt bureau mission du corps.
+  apres: aussitot bureau mission du corps
+  justification: le trait au-dessus de aussitot est le point de l'i ; pas de point final visible
+  confiance: moyenne
+- ligne: 17
+  avant: Très bien reçu. — qq froid,
+  apres: \inc{Tt a fait} bien reçu — qq froid
+  justification: le premier mot porte une longue haste (f ou s long) suivie d'un a et d'un i pointé, ce qui s'accorde mal avec Très ; pas de point après reçu
+  confiance: basse
+- ligne: 19
+  avant: Dès 8h 1/2
+  apres: Des 8^{h} \fr{1}{2}
+  justification: h suscrit ; fraction empilée ; aucun accent sur Des
+  confiance: moyenne
+difficultes:
+- ligne: 15
+  lemme: \add{\ill}
+  analyse: 'petit groupe écrit dans l''interligne 14/15 (x ≈ .45–.51, y ≈ .74), au-dessus du blanc laissé entre du (x ≈ .37) et corps (x ≈ .53) : a ou u ouvert, puis a surmonté d''un crochet (aspect « aà »), finale en délié ; zoom rehaussé sans résultat. Le numéro du corps reste inconnu (remarque du commentateur historique : contrôlé, non résolu)'
+  alternatives:
+  - aa
+  - ad
+  - 2^{d}
+  - n^{re}
+- ligne: 17
+  lemme: \inc{Tt a fait}
+  analyse: T à crochet de tête, deux jambages, haste haute et descendante (f ou ſ), a, i pointé (point à x ≈ .045, y ≈ .85) ; pas de t final ; la haste descendant vers x ≈ .07 appartient au d de demande (l. 18). Ni Très (rien ne suit l's) ni Tt a fait (t médian invisible) n'emploient tous les tracés
+  alternatives:
+  - Très
+  - Tout fait
+- ligne: 17
+  lemme: bien
+  analyse: b à haste non bouclée et arche, ien écrasé ; la haste qui le traverse vient du d de « de » (l. 18) ; le point isolé à droite (x ≈ .27) est celui de l'i ; blanc taché ensuite jusqu'à reçu, sans trace d'écriture
+  alternatives:
+  - av
+- ligne: 14
+  lemme: \inc{venu}
+  analyse: v et e devinés sous un trait épais partant de la gauche, nu lisible ; biffure ou reprise d'encre ; sans ce mot la phrase n'a pas de verbe
+  alternatives:
+  - \del{venu}
+- ligne: 18
+  lemme: – demande
+  analyse: dans la marge, un point puis un court tiret devant demande ; le point peut être une goutte d'encre
+  alternatives:
+  - . – demande
+- ligne: 12
+  lemme: propre
+  analyse: 'finale en ovale fermé à jambage (aspect ra) : lue r + e ; l''état antérieur proprre supposait deux r'
+  alternatives:
+  - proprre
+- ligne: 8
+  lemme: Avant
+  analyse: A ouvrant la ligne, vant écrit plus petit et plus bas, sous le A, avec barre de t longue ; ajout probable à « A midi »
+  alternatives:
+  - A midi
+controle:
+- ligne: 10
+  avant: \ind[2] Apres-midi, liberté entiere.
+  apres: \ind[2] apres-midi, liberté entiere.
+  justification: a initial au module et à la forme d'une minuscule (zoom .0 .48 .40 .58)
+- ligne: 11
+  avant: Achevé de m'installer maison. Fait
+  apres: achevé de m'installer maison. Fait
+  justification: a initial minuscule, ouvert, même module que les lettres suivantes
+- ligne: 12
+  avant: proprre
+  apres: propre
+  justification: un seul r entre le p descendant et la finale (zoom rehaussé .38 .585 .62 .635)
+- ligne: 1
+  avant: 'apparat : Lealvillers (graphie), Des (lecture)'
+  apres: notes supprimées
+  justification: accent absent seulement ; règle de l'apparat épuré
+- ligne: 15
+  avant: 'critique : Encre violette. Taches brunes…'
+  apres: critique mentionnant le blanc entre du et corps et l'ajout
+  justification: le blanc (x ≈ .37–.53) explique la place de l'ajout interlinéaire
+remarques: Lieu (Acheux) déduit du contexte des pages voisines (093, 095).
+resume: 'Dimanche 5 novembre 1916 à Acheux. Délogé de son billet (n° 59) par le Town-Major, Hippolyte Combes trouve grâce à un commis une meilleure chambre au n° 1 de la route de Léalvillers et s''y installe avant midi. Après-midi libre ; il fait la connaissance de son propriétaire, très sympathique. À 6 heures du soir, l''interprète des Fifth Army troops vient le chercher : le capitaine Huguet, de la mission française du corps, désire le voir. Bien reçu, avec quelque froideur, il est interrogé sur divers renseignements ; dans sa chambre dès 8 h 30.'
+noms:
+  personnes:
+  - forme: Huguet
+    ligne: 15
+    identite: capitaine Huguet, Mission française du corps
+  lieux:
+  - forme: Lealvillers
+    ligne: 7
+    identite: Léalvillers (Somme)
+source: contrôle

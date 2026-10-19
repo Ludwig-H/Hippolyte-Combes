@@ -1,0 +1,87 @@
+cliche: 69
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Dim. 8. \hfill Octb 1916
+  apres: \sl{Dim. 8.} \hfill \sl{Oct^{bre} 1916}
+  justification: deux soulignements appuyés sous chaque élément ; Oct + b + délié final, finale réduite comme en 068
+  confiance: haute
+- ligne: 2
+  avant: Installation terminée...
+  apres: \ind Installation terminée . . .
+  justification: ligne en retrait sous la date ; trois points espacés
+  confiance: haute
+- ligne: 4
+  avant: Tout
+  apres: tout
+  justification: t initial au module des minuscules, aucune majuscule
+  confiance: haute
+- ligne: 5
+  avant: avec
+  apres: av
+  justification: a + v (pointe) + long délié descendant, aucun e ni c
+  confiance: haute
+- ligne: 7
+  avant: fse
+  apres: fr^{se}
+  justification: f à long jambage, r net, puis ondulation suscrite détachée
+  confiance: haute
+- ligne: 9
+  avant: boisé.
+  apres: boisé –
+  justification: court tiret horizontal à mi-hauteur, non un point
+  confiance: moyenne
+- ligne: 10
+  avant: 'indemnité : 78 f 75'
+  apres: 'indemnité .: \inc{78^{75}}'
+  justification: un point bas puis deux-points ; après 78, petit 7 (barre + courte diagonale) et 5 en ſ à drapeau bouclé, tous deux surélevés ; aucun f séparé ni 75 sur la ligne
+  confiance: moyenne
+difficultes:
+- ligne: 10
+  lemme: 78^{75}
+  analyse: 7 barré et 8 à la ligne ; au-dessus et à droite, petit 7 (barre + diagonale) au niveau de la tête, puis haste à boucle de tête ouverte à droite prolongée par un jambage descendant très loin sous la ligne (5 en ſ ou f monétaire). Contrôle p2 (zoom ×3 [.55 .85 1 .94]) confirme le petit 7 suscrit, qui exclut une simple lecture 78^{f} sans centimes ; la solde habituelle de 78 f 75 (035, 046, 106, 120) appuie 75.
+  alternatives:
+  - 78^{f}
+  - 78^{f} 75
+- ligne: 8
+  lemme: Aller
+  analyse: 'A, deux l, e puis long délié lié au & : le r est absorbé dans le délié (contrôle p2 zoom ×3 [.02 .33 .30 .39] : confirmé)'
+  alternatives:
+  - Alle
+- ligne: 9
+  lemme: '&'
+  analyse: forme proche du y (V à descente oblique), mais relie deux adjectifs (verdoyant & boisé) ; & retenu selon les critères du guide § 7
+  alternatives: []
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 861 caractères ; R3 F9-F10 (78 F 75 = 15 × 5 F 25, retenue de permission faite seulement le 3 nov.), OH 1916-II p. 451-452 et Nicholson 1962 p. 186 (échec canadien devant Regina Trench le 8 oct.), Nichols 1922 p. 131 ; transcription p1 : la lecture \inc{78^{75}} est appuyée par les montants récurrents. Les pages de Miles et de Nicholson viennent de l''article Wikipedia « Capture of Regina Trench », qui cite des réimpressions dont je n''ai pas vérifié la pagination. Le bureau de la Mission à Bernaville n''est pas localisé plus précisément : aucune source ne place à Bernaville le QG de la 18th Division. Contrôle p2 : rien sur la page ne touche aux opérations ; le montant reste \inc.'
+  alternatives: []
+controle:
+- ligne: 9
+  avant: 'apparat : très (graphie) — mot réduit à « hu » surmonté d''un accent'
+  apres: note supprimée
+  justification: forme cursive habituelle de « très » (guide § 4), qui ne peut égarer le lecteur de la transcription
+- ligne: 1
+  avant: 'apparat : Oct^{bre} — Octobre ; t bouclé (aspect f), b, finale réduite à un délié'
+  apres: 'apparat : Oct^{bre} — octobre'
+  justification: description paléographique retirée de l'apparat imprimé ; lecture confirmée au zoom ×3 [.70 0 1 .06]
+- ligne: 10
+  avant: 'apparat : \inc{78^{75}} — description des tracés'
+  apres: note de lecture brève (lecture retenue, appui, autre lecture)
+  justification: petit 7 suscrit confirmé au zoom ×3 ; détail paléographique renvoyé à difficultes
+- ligne: 0
+  avant: critique vide
+  apres: critique d'une phrase sur la disposition (blanc, compte en pied)
+  justification: disposition inhabituelle utile au lecteur
+remarques: Moitié inférieure de la page laissée blanche ; le compte est écrit en pied, sous un filet sur toute la largeur. Le village non nommé est Barlette, hameau de Ribeaucourt (cliché 068).
+resume: 'Dimanche de repos à Barlette, l''installation au nouveau cantonnement étant achevée : village paisible, ciel couvert de nuages chassés par un vent violent. L''après-midi, Hippolyte Combes se rend à pied, aller et retour, au bureau de la Mission française à Bernaville, sous de violentes rafales, à travers un pays verdoyant et boisé. Le compte du jour, sous un filet après un grand blanc, porte la solde et l''indemnité touchées à Bernaville (78 francs 75).'
+noms:
+  personnes: []
+  lieux:
+  - forme: Bernaville
+    ligne: 6
+    identite: Bernaville (Somme)
+  - forme: Bernaville
+    ligne: 10
+    identite: Bernaville (Somme)
+source: contrôle

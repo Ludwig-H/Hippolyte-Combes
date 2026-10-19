@@ -1,0 +1,85 @@
+cliche: 175
+fichier: 20251126_111503.jpg
+date: Dimanche 1er – mardi 3 avril 1917
+mois: Avril 1917
+lieux: Hérissart, Belle-Église (Arquèves), Pierregot, Rainneville et Toutencourt (Somme)
+titre: Rameaux sous la neige ; courses en auto ; notaire de Toutencourt ; dégel et marécages
+transcription: |
+  \sl{1^{er} Dim}. (Rameaux) \hfill \sl{Avril 1917}
+  \ind Temps mauvais & froid.
+  Averses torrentielles et même, soirée, neige à
+  gros flocons. Routes, état affreux
+  matin & soir, course en auto : Belle Eglise,
+  Pierregot, Rainneville
+  gde fatigue nerveuse \trait
+  \ind[2] [mess : du   au 31 mars : 27 50]
+  \sl{2 Lundi}. Nuit froide. au reveil, trouvé
+  \ind[2] sol durci. Fortement gelé.
+  Tout le jour, liberté complete \trait Resté matin
+  et soir, office, devant bon feu, à lire.
+  après-midi, durant plus de 2 heures,
+  neige à gros flocons.
+  Fin soirée, degel et fonte neige. Rues
+  noyées boue liquide \trait
+  \blanc{1}
+  [Washing : 50c. . — Clous souliers : 60c
+  \blanc{1}
+  \sl{3 mardi}. – Matin & soir, courses en auto
+  \ind[2] Toutencourt, (M^{e} Bien-aimé, notaire)
+  et Rubempré. \del{et Raincheval}
+  Surtout matin, en descendant cote de Herissart
+  admiré champs tout blancs de neige.
+  \ind après-midi, degel rapide. Routes
+  changées en marecages
+  \ind[2] Temps redevenu plus doux
+apparat:
+- ligne: 1
+  lemme: 1^{er} Dim
+  type: abreviation
+  note: premier dimanche (des Rameaux)
+- ligne: 5
+  lemme: course
+  type: lecture
+  note: un seul s avant le délié final ; la transcription antérieure lisait courses
+- ligne: 7
+  lemme: gde
+  type: abreviation
+  note: grande
+- ligne: 8
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 8
+  lemme: du   au
+  type: disposition
+  note: 'blanc laissé entre du et au : la date de départ du compte n''a pas été portée'
+- ligne: 8
+  lemme: 27 50
+  type: lecture
+  note: '27 (francs) 50, sans f : le trait haut est le drapeau du 5 ; la transcription antérieure lisait 27 f. 50'
+- ligne: 12
+  lemme: office
+  type: emprunt
+  note: bureau
+- ligne: 17
+  lemme: Washing
+  type: emprunt
+  note: blanchissage
+- ligne: 17
+  lemme: '[Washing'
+  type: disposition
+  note: crochet ouvrant haut, descendu dans le blanc qui suit la ligne
+- ligne: 19
+  lemme: M^{e}
+  type: abreviation
+  note: Maître (notaire)
+- ligne: 20
+  lemme: \del{et Raincheval}
+  type: rature
+  note: mots biffés d'un trait horizontal, encore lisibles
+historique: |
+  La neige des Rameaux et du 2 avril, une semaine avant Pâques (8 avril), est confirmée par l'histoire officielle : « une neige comme celle du début d'avril est rare en Picardie » ; le 2, la Fifth Army enlève sous ce temps Doignies, Louverval, Noreuil, Écoust, Croisilles et Hénin, avant-postes de la ligne Hindenburg (OH 1917-I, p.~159--161), et le QG du V Corps quitte Acheux pour Bihucourt (LLT). Belle-Église est le hameau d'Arquèves dont Combes fréquente la ferme (voir f.~85 v\textsuperscript{o}). Le compte du mess, dont la date de départ est restée en blanc, court sans doute depuis le règlement du 9 mars avec le capitaine Williams (f.~82 r\textsuperscript{o}) : 27 f 50 pour trois semaines environ, contre 79 f 10 pour janvier (f.~63 v\textsuperscript{o}). Le notaire de Toutencourt est M\textsuperscript{e} Jules Bienaimé, titulaire de l'étude de 1906 à 1933, d'une lignée de notaires établie au village depuis 1805 (AD Somme, Espel 2018, p.~3--4) ; la visite tient peut-être à un acte de vente de fourrage, comme le contrat de battage passé en janvier (f.~60 r\textsuperscript{o}).
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 159-161.
+- The Long, Long Trail (C. Baker), « The British V Corps in France and Flanders », copie Wayback d'août 2020.
+- Archives départementales de la Somme, Fonds de l'Office notarial de Toutencourt, aujourd'hui Acheux-en-Amiénois (1729-1904). Répertoire méthodique détaillé, par A. Espel, sous la dir. d'A. Lejeune, Amiens, 2018, p. 3-4.

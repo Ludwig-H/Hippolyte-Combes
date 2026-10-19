@@ -1,0 +1,88 @@
+cliche: 15
+confiance: haute
+changements:
+- ligne: 2
+  avant: tempérre extt
+  apres: tempér^{re} – ext^{t}
+  justification: court tiret isolé à mi-hauteur après la finale de tempér^{re} ; t final de ext nettement surélevé
+  confiance: haute
+- ligne: 3
+  avant: Bien reposé
+  apres: Bien, reposé
+  justification: virgule en petit arc détachée après le n final (cf. guide § 8, piège 25)
+  confiance: haute
+- ligne: 5
+  avant: liberté –
+  apres: liberté
+  justification: 'un seul trait oblique au-dessus et à droite du e final : accent décalé, non tiret'
+  confiance: moyenne
+- ligne: 6
+  avant: à
+  apres: \inc{à}
+  justification: deux traits horizontaux superposés, sans panse visible ; contexte « Resté chambre à me reposer »
+  confiance: moyenne
+- ligne: 10
+  avant: Resté
+  apres: Reste
+  justification: e final bouclé sans accent visible, à la différence de la l. 6
+  confiance: moyenne
+- ligne: 11
+  avant: poussiéreuses
+  apres: poussiéreuse
+  justification: le mot s'achève sur use + long délié, sans s final
+  confiance: moyenne
+- ligne: 12
+  avant: fenêtre ouverte —
+  apres: fenetre ouverte \trait
+  justification: le trait au-dessus du mot est la barre du t, sans circonflexe ; le trait final prolonge le e de ouverte sans levée de plume
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: \inc{à}
+  analyse: 'contrôle p2 (zoom [0 .185 .62 .23] ×2) : trait court épais et légèrement incurvé, haut et à gauche, puis trait plus long sur la ligne de base ; aucune panse, aucun accent distinct ; « = » (même) n''a pas de sens ici ; « à » retenu sous réserve'
+  alternatives:
+  - à
+  - '='
+- ligne: 11
+  lemme: poussiéreuse
+  analyse: 'contrôle p2 (zoom [.28 .70 .75 .755] ×2) : pou + ss en hautes boucles + i, é (trait montant fin au-dessus), r, e, u, s, e, puis long délié sans boucle de s ; le trait sous ss est la barre du t de fenetre (l. 12)'
+  alternatives:
+  - poussiéreuses
+- ligne: 13
+  lemme: dévoré
+  analyse: 'contrôle p2 (zoom ×3) : accent du é final net, décalé au-dessus de l''espace avant par ; le premier é est recoupé par le jambage du f de fenetre (l. 12), accent non isolable'
+  alternatives:
+  - devoré
+- ligne: 5
+  lemme: entière
+  analyse: barre du t très longue couvrant iere ; l'accent grave peut s'y confondre ou manquer
+  alternatives:
+  - entiere
+- ligne: 4
+  lemme: Achevé
+  analyse: 'contrôle p2 (zoom ×3) : finale en o ouvert prolongé d''un délié ; petit trait oblique détaché au-dessus, à droite, avant de : accent décalé'
+  alternatives:
+  - Acheve
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources signalées : JMO 7/Bedf juill.-août 1916 (chaleur ; 50 obus sur Armentières le 9 août), OH 1916-II pp. 544-545 (attaque par gaz de la nuit du 8 au 9 août au sud d''Ypres), Ellis [1920] p. 119, March 1925 p. 226. Le commentateur propose « La Croix-du-Bac (Steenwerck, Nord) » pour le lieu ; la page ne nomme aucun lieu : lieu de l''état antérieur conservé, à harmoniser avec 014 et 016.'
+  alternatives: []
+controle:
+- ligne: 2
+  avant: 'tempér^{re} : température ; finale re réduite à une boucle au-dessus de la ligne'
+  apres: 'tempér^{re} : température'
+  justification: apparat épuré, la description paléographique n'a pas à être imprimée
+- ligne: 6
+  avant: 'note de lecture sur \inc{à} : « a réduit à un trait sous son accent ; lecture « = » possible »'
+  apres: note brève (lecture retenue d'après le sens, autre aspect possible)
+  justification: zoom ×2 confirme l'absence de panse et d'accent distinct ; \inc{} maintenu
+- ligne: 0
+  avant: 'critique : « … ; encre noire. »'
+  apres: critique sans mention de l'encre
+  justification: encre homogène, sans ajout postérieur ; mention sans utilité pour le lecteur
+remarques: 'Lieu repris de l''état antérieur (cantonnement de Bac-Saint-Maur, route de Steenwerck) : aucun nom de lieu sur la page ; le commentateur historique propose La Croix-du-Bac (Steenwerck).'
+resume: 'Le mardi 8 août 1916, la chaleur reste extrême. Bien reposé dans sa nouvelle chambre, Hippolyte Combes achève de s''y installer et passe une journée entière de liberté à s''y reposer ; il note 50 c d''œufs pour sa nourriture. Le mercredi 9, sous une chaleur accablante, il reste le plus possible dans sa chambre : les routes sont si poussiéreuses qu''il ne peut tenir sa fenêtre ouverte. La nuit, il est dévoré par les moustiques.'
+noms:
+  personnes: []
+  lieux: []
+source: contrôle

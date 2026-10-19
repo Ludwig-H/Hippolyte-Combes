@@ -1,0 +1,84 @@
+cliche: 174
+fichier: 20251126_111452.jpg
+date: Jeudi 29 – samedi 31 mars 1917
+mois: Mars 1917
+lieux: Hérissart, Puchevillers, Rubempré, Molliens-au-Bois et Rainneville (Somme)
+titre: Giboulées, routes défoncées par les camions ; achats de paille ; Hérissart vide de troupes
+transcription: |
+  29 \sl{Jeudi} \hfill — \sl{Mars 1917} —
+  Temps moins froid. Mais, presque tt le jour,
+  ondées torrentielles
+  Matinée, courses en auto : Puchevillers &
+  Rubempré. Averses très fortes –
+  \ind Après-midi entière, liberté
+  Village parait abandonné. Plus de troupes.
+  Rues désertes. Calme délicieux —
+  \blanc{2}
+  \sl{30 Ven.}
+  Encore aujd'hui, giboulées saison. Averses très fortes,
+  un peu de neige, rafales violentes
+  Routes, etat lamentable, creusées de sillons
+  profonds par gros camions & lourds véhicules
+  Matinée, courses à Pierregot & Molliens-au-B
+  Après-midi, liberté complète
+  merv^{x} ciel étoilé, croissant lune brillant,
+  nuages très rapides. Etat lyrique. —
+  \blanc{1}
+  \sl{31 Sam.} – En course, matin & soir. Rubempré,
+  par Toutencourt & Puchevillers, Pierregot et
+  Rainneville – – acheté paille
+  Temps très mauvais. Surpris en route par
+  fortes averses, grèle – grelons, frappé nos
+  visages – Routes ext^{t} detrempées . – .
+  village tjours sans troupes, parait inhabite
+  \ind J'aime ce calme & ce silence
+apparat:
+- ligne: 2
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 6
+  lemme: Après-midi entière, liberté
+  type: ajout
+  note: ligne d'une encre plus pâle, serrée dans l'interligne, « liberté » remonté ; ajout probable
+- ligne: 9
+  lemme: Ven.
+  type: abreviation
+  note: vendredi
+- ligne: 10
+  lemme: aujd'hui
+  type: abreviation
+  note: aujourd'hui
+- ligne: 14
+  lemme: Molliens-au-B
+  type: abreviation
+  note: Molliens-au-Bois
+- ligne: 16
+  lemme: merv^{x}
+  type: abreviation
+  note: merveilleux
+- ligne: 18
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 19
+  lemme: Toutencourt & Puchevillers
+  type: lecture
+  note: esperluette omise par la transcription antérieure
+- ligne: 20
+  lemme: Rainneville
+  type: autre
+  note: initiale R noyée sous un pâté d'encre
+- ligne: 23
+  lemme: ext^{t}
+  type: abreviation
+  note: extrêmement
+- ligne: 24
+  lemme: tjours
+  type: abreviation
+  note: toujours
+critique: La ligne « Après-midi entière, liberté », d'une encre violette plus pâle et serrée dans l'interligne, paraît ajoutée après coup.
+historique: |
+  Le village « abandonné » est Hérissart, que les troupes ont quitté le 27 (voir f.~86 v\textsuperscript{o}). Les tournées du \textit{Purchase Board} se portent désormais vers le sud-ouest, sur les villages du plateau entre Hérissart et Villers-Bocage : Pierregot, Molliens-au-Bois et Rainneville, à 4–8 km (calcul de l'éditeur). La paille achetée le 31 à Rainneville répond à une demande accrue : pour préparer l'offensive d'Arras, on comptait « vider rapidement les granges en aidant les fermiers à battre leur grain et en achetant la paille pour l'armée » (OH 1917-I, p.~190). Les routes « creusées de sillons profonds » sont l'effet, décrit par l'histoire officielle, du dégel de mars sur un empierrement mince que « même les voitures légères crevaient » (OH 1917-I, p.~103). Le « croissant » du 30 au soir est celui d'une Lune nouvelle le 23 mars, proche de son premier quartier (calcul de l'éditeur).
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 103, 190.

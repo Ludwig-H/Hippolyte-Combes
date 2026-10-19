@@ -1,0 +1,114 @@
+cliche: 54
+fichier: 20251126_103146.jpg
+date: Mercredi 27 septembre 1916
+mois: Septembre 1916
+lieux: Toulouse (Haute-Garonne)
+titre: Arrivée à Toulouse ; déjeuner chez les Crouzet ; Marguerite revue à la Côte-Pavée
+transcription: |
+  \sl{27 mer.} \hfill Sept \sl{1916}
+  nuit passée \inc{ds} \inc{wag^{t}}. Dormi 1 peu
+  A 7^{H} 30 m. , arrivé a Toulouse
+  Pris tram et vers 8^{H}, ds mon appartement
+  A 11^{Hm} – monté à S^{te} Marie-des-Champs. Les dames
+  Calmels, pas e. arrivées, ne seront là que ce soir –
+  Déjeuné chz les Crouzet, ds la + gd intimité
+  Redescendu apres-midi en ville et fait courses
+  diverses
+  \blanc{2}
+  A 5^{H}, remonté Cote Pavée. Enfin, revu
+  Margte. Charmante de simplicité & de tendresse
+  confiante.
+  \blanc{7}
+  \filet
+  Trams : 10, 10, 20 c..
+  Bain, aux Thermes du Languedoc : 90 c – + 15 c
+  Cartes ples :
+apparat:
+- ligne: 1
+  lemme: mer.
+  type: abreviation
+  note: mercredi
+- ligne: 1
+  lemme: Sept
+  type: abreviation
+  note: septembre
+- ligne: 2
+  lemme: \inc{ds}
+  type: lecture
+  note: dans (?) ; mot sans la panse appuyée des autres ds de la page ; autre lecture possible « en »
+- ligne: 2
+  lemme: \inc{wag^{t}}
+  type: lecture
+  note: wagon (?) ; autres lectures possibles vag^{t}, voy^{t}
+- ligne: 2
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 3
+  lemme: 7^{H} 30 m.
+  type: abreviation
+  note: 7 heures 30 du matin
+- ligne: 4
+  lemme: 8^{H}
+  type: abreviation
+  note: 8 heures
+- ligne: 4
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 5
+  lemme: 11^{Hm}
+  type: abreviation
+  note: 11 heures du matin
+- ligne: 5
+  lemme: S^{te}
+  type: abreviation
+  note: Sainte
+- ligne: 6
+  lemme: e.
+  type: abreviation
+  note: encore
+- ligne: 7
+  lemme: chz
+  type: abreviation
+  note: chez
+- ligne: 7
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 7
+  lemme: + gd
+  type: abreviation
+  note: plus grande
+- ligne: 10
+  lemme: 5^{H}
+  type: abreviation
+  note: 5 heures
+- ligne: 11
+  lemme: Margte
+  type: abreviation
+  note: Marguerite (Calmels)
+- ligne: 11
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 14
+  lemme: 15 c
+  type: lecture
+  note: 15 c, le 5 à haute boucle suivi du c ; lecture antérieure hésitant avec « 1 f »
+- ligne: 15
+  lemme: ples
+  type: abreviation
+  note: postales
+critique: Le récit occupe le haut de la page ; les comptes, séparés par un long filet, sont rejetés au bas après un grand blanc, et le montant des cartes postales n'a pas été porté.
+historique: |
+  Parti d'Orsay vers 20~h (voir f.~27 r\textsuperscript{o}), Combes arrive en onze heures et demie, durée normale par Limoges et Montauban (Baedeker 1912, R.~39). Son appartement est rue de Languedoc, au n\textsuperscript{o}~24 (lettre du 25 nov. 1918). Sainte-Marie-des-Champs, à la Côte-Pavée, au terminus du tram parti du Capitole (Baedeker 1912, p.~298), porte le nom de l'ancien noviciat des jésuites (Burnichon 1916, p.~297--298) ; la presse y signale une « villa Sainte-Marie-des-Champs, Côte-Pavée (hors barrière) » (\textit{La Dépêche}, 27 juin 1914, p.~4), où logent probablement les Crouzet. Émile Crouzet (v.~1842--1926), ancien agent de change de Millau, et sa femme, sœur du docteur Gabriel Calmels, sont l'oncle et la tante de Marguerite (PC-2020, p.~106 ; \textit{L'Express du Midi}, 23 déc. 1926, p.~5) ; « les dames Calmels » sont Marguerite (voir f.~1 r\textsuperscript{o}) et sa mère, née Valentine Cartairade. Les Thermes du Languedoc sont au 1~bis de la même rue (\textit{Le Télégramme}, 31 mars 1911, p.~4). Le matin même, à 5~h~45, des compagnies du Bedfordshire Regiment achèvent la prise de Thiepval (OH 1916-II, p.~406--417).
+sources:
+- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, p. 298 et route 39.
+- Carte-lettre d'Hippolyte Combes à Marguerite, Paris, 25 novembre 1918 (archives familiales).
+- Burnichon, J., La Compagnie de Jésus en France. Histoire d'un siècle, 1814-1914, t. II, Paris, Beauchesne, 1916, p. 297-298.
+- La Dépêche (Toulouse), 27 juin 1914, p. 4.
+- Combes, P., étude familiale (arbres généalogiques), 2020, p. 106 (archives familiales).
+- L'Express du Midi (Toulouse), 23 décembre 1926, p. 5 (faire-part de décès d'Émile Crouzet).
+- Le Télégramme (Toulouse), 31 mars 1911, p. 4.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 406-417.

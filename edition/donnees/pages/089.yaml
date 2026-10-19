@@ -1,0 +1,127 @@
+cliche: 89
+fichier: 20251126_104547.jpg
+date: Mercredi 1er novembre 1916
+mois: Novembre 1916
+lieux: Albert (Somme)
+titre: 'Toussaint à Albert : cimetière dévasté, prise d''armes ; ordre de départ pour Acheux'
+transcription: |
+  1er Me. Toussaint. \hfill – \sl{Novembre 1916} –
+  \ind ciel bas et couleur de cendre.
+  Bise froide. Pluie menaçante –
+  \ind Matin, visite au cimetière d'Albert gros
+  nuages assombrissant l'air. Allées jonchées de
+  feuilles mortes. Tombes dévastées par obus. Pierres
+  brisées. Caveaux béants. Croix renversées au \fr{1}{2} de
+  pierres effondrées . . .
+  \ind à côté, champ tt rempli de croix blanches &
+  jaunes : anglais killed in action. –
+  \ind Après-midi, 3^{h}, place du monument
+  prise d'armes. Devant pl. bataillons rassemblés,
+  gen^{l} écossais épingle div. décorations s/ tuniques
+  de tommies & N.C.O's qui se sont distingués offensive
+  s/ la Somme. Pluie fine. Défilé admirable.
+  Derrière moi, jardin public, non entretenu.
+  Feuilles seches Arbres roussis par l'automne
+  \blanc{1}
+  \ind Soir, venu à Church meeting, route
+  d'Amiens. Rues de l'obscurité complète.
+  Ça et là, qq falots & lanternes de M.P.s
+  aux carrefours \trait
+  \ind[2] — A 9^{H} soir, L^{t} Curtis, venu m'apporter
+  ordres. Demain matin, devrai partir avec lui
+  à Acheux. Ns sommes détachés de la Coy Transport –
+apparat:
+- ligne: 1
+  lemme: 1er
+  type: abreviation
+  note: premier
+- ligne: 1
+  lemme: Me.
+  type: abreviation
+  note: mercredi
+- ligne: 7
+  lemme: au \fr{1}{2} de
+  type: abreviation
+  note: au milieu de
+- ligne: 9
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 10
+  lemme: killed in action
+  type: emprunt
+  note: tués au combat
+- ligne: 11
+  lemme: 3^{h}
+  type: abreviation
+  note: trois heures
+- ligne: 12
+  lemme: pl.
+  type: abreviation
+  note: plusieurs
+- ligne: 13
+  lemme: gen^{l}
+  type: abreviation
+  note: général
+- ligne: 13
+  lemme: gen^{l}
+  type: lecture
+  note: l suscrit après gen, aucun a ; la transcription antérieure lisait génal
+- ligne: 13
+  lemme: div.
+  type: abreviation
+  note: diverses
+- ligne: 13
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 14
+  lemme: tommies
+  type: emprunt
+  note: simples soldats britanniques (familier)
+- ligne: 14
+  lemme: N.C.O's
+  type: abreviation
+  note: 'Non-Commissioned Officers : sous-officiers'
+- ligne: 15
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 18
+  lemme: Church meeting
+  type: emprunt
+  note: office, réunion religieuse
+- ligne: 19
+  lemme: de
+  type: lecture
+  note: de, lettres nettes ; on attendrait ds (dans), leçon de la transcription antérieure
+- ligne: 20
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 20
+  lemme: M.P.s
+  type: abreviation
+  note: 'Military Police : police militaire britannique'
+- ligne: 22
+  lemme: 9^{H}
+  type: abreviation
+  note: neuf heures
+- ligne: 22
+  lemme: L^{t}
+  type: abreviation
+  note: lieutenant
+- ligne: 24
+  lemme: Ns
+  type: abreviation
+  note: nous
+- ligne: 24
+  lemme: Coy Transport
+  type: emprunt
+  note: compagnie du train (la 152nd Company A.S.C.)
+critique: Encre violette. Un blanc d'environ une ligne sépare l'après-midi du soir.
+historique: |
+  Le « champ » de croix contigu au cimetière communal d'Albert est son extension militaire britannique (\textit{Albert Communal Cemetery Extension}), ouverte en août 1915, surtout utilisée à partir de septembre 1916, quand les ambulances de campagne furent concentrées à Albert ; à partir de novembre 1916, la 5th Casualty Clearing Station l'utilise deux mois (CWGC). \textit{Killed in action}, « tué à l'ennemi », est une catégorie des listes de pertes britanniques. Le « gen\textsuperscript{l} écossais » n'est pas identifié. Le « jardin public », rue Jules-Ferry, remonte au jardin des archers loué par la ville au XV\textsuperscript{e} siècle ; recréé dans les années 1920, il est inscrit monument historique depuis le 16 février 2009 (Mérimée PA80000063). L'organisateur du \textit{Church meeting} de la route d'Amiens (aumônerie, Y.M.C.A., Church Army ?) est inconnu ; les \textit{M.P.s} sont les gendarmes de la \textit{Military Police}. L'ordre apporté par Curtis prolonge l'enquête sur la paille et le foin d'Acheux et de Senlis du 29 octobre (voir f.~44~r\textsuperscript{o}).
+sources:
+- Commonwealth War Graves Commission, « Albert Communal Cemetery Extension », notice historique, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/61300/albert-communal-cemetery-extension/.
+- Ministère de la Culture, base Mérimée, PA80000063, « Jardin public », Albert (Somme), inscription par arrêté du 16 février 2009.

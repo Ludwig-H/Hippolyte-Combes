@@ -1,0 +1,182 @@
+cliche: 183
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 23 Lundi — \hfill Avril 1917
+  apres: 23 \sl{Lundi} \hfill \sl{Avril 1917}
+  justification: Le trait sous l'en-tête commence sous le L et ne couvre pas 23 ; le tiret relevé après Lundi est le point du i décalé ; Avril 1917 souligné.
+  confiance: haute
+- ligne: 2
+  avant: Temps beau journée entière.
+  apres: \ind Temps beau journée entière
+  justification: Ligne en retrait ; aucun point après entière.
+  confiance: moyenne
+- ligne: 3
+  avant: Métier à tisser.
+  apres: Métiers \sl{à tisser}
+  justification: s final plongeant après Métier ; trait horizontal net sous « à tis », au-dessus de la fin de la l. 4 ; pas de point final.
+  confiance: moyenne
+- ligne: 6
+  avant: magnifique.
+  apres: magnifique \trait
+  justification: Long délié horizontal, aucun point.
+  confiance: haute
+- ligne: 8
+  avant: 24 Mardi — Vraie journée d'été.
+  apres: \sl{24 mardi} \hfill Vraie journée d'été
+  justification: m minuscule ; le soulignement couvre 24 et mardi ; texte rejeté après un blanc ; le petit tiret est le point du i ; aucun point après été (contrôle p2).
+  confiance: moyenne
+- ligne: 11
+  avant: vernissés
+  apres: vernisses
+  justification: Aucun accent visible sur le second e.
+  confiance: moyenne
+- ligne: 12
+  avant: Tempér.
+  apres: Tempér^{e}
+  justification: Après Tempér, boucle haute isolée au-dessus de la ligne, sans point.
+  confiance: moyenne
+- ligne: 12
+  avant: chaude.
+  apres: chaude \trait
+  justification: Délié final prolongé, sans point.
+  confiance: haute
+- ligne: 14
+  avant: Retour à 5h —
+  apres: Retour à 5^{h} —
+  justification: h suscrit nettement au-dessus de la ligne de base.
+  confiance: haute
+- ligne: 15
+  avant: Mirvaux,
+  apres: Mirvaux
+  justification: Aucune virgule ; x final prolongé.
+  confiance: moyenne
+- ligne: 16
+  avant: Beaucourt
+  apres: \inc{Beaucourt}
+  justification: Seuls B et a sont lisibles ; le reste est tassé dans la marge.
+  confiance: moyenne
+- ligne: 18
+  avant: Très beau sunset —
+  apres: Très beau sunset \trait
+  justification: Barre du t prolongée en long trait jusqu'à la marge.
+  confiance: haute
+- ligne: 21
+  avant: Acheux —
+  apres: Acheux –
+  justification: Tiret court.
+  confiance: moyenne
+- ligne: 22
+  avant: cantonnées.
+  apres: cantonnées —
+  justification: Tiret après le mot, pas de point.
+  confiance: moyenne
+- ligne: 23
+  avant: Lu chz Mme Mignot / (et Louise) (ligne séparée)
+  apres: Lu chz Mme \inc{Mignot} \add{(et Louise)}
+  justification: (et Louise) est un ajout écrit petit dans l'interligne sous le nom, pas une ligne d'écriture ; nom douteux (contrôle p2).
+  confiance: haute
+- ligne: 24
+  avant: chez
+  apres: chz
+  justification: c-h-z, z plongeant, sans e.
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: \sl{à tisser}
+  analyse: Trait horizontal fin sous « s à tis », plus haut que la fin de Puchevillers (l. 4) dont il est distinct ; soulignement probable de « à tisser ».
+  alternatives:
+  - trait de remplissage de la l. 4
+- ligne: 12
+  lemme: Tempér^{e}
+  analyse: T, e, m, p, e, r, puis boucle unique dressée au-dessus de la ligne (forme e ou l), reliée au r par un court délié.
+  alternatives:
+  - Tempér^{re}
+- ligne: 16
+  lemme: Beaucourt
+  analyse: Zoom ×4 [.80 .56 1.0 .60] — B bouclé net, a, puis une suite de jambages serrés descendant en biais contre la marge, sans jambage plongeant (ce qui défavorise Baizieux, dont le z descendrait). Beaucourt-sur-l'Hallue, au sud de Mirvaux, voisin de Montigny, convient.
+  alternatives:
+  - Baizieux
+- ligne: 17
+  lemme: bleuâtre
+  analyse: Zoom [.40 .58 1.0 .64] — b, l, e, u, â (circonflexe), t barré, e, puis point ; aucun s plongeant ni crochet final.
+  alternatives:
+  - bleuâtres (s réduit non visible)
+- ligne: 23
+  lemme: Lu
+  analyse: Zoom ×4 [.58 .835 .70 .89] — attaque en crochet, haste descendant sous la ligne, boucle basse refermée à gauche (L en £), puis deux jambages ; aucun accent, aucune boucle de h montante.
+  alternatives:
+  - Thé
+- ligne: 23
+  lemme: Mignot
+  analyse: Zoom ×3 [.72 .82 .99 .89] — M à long délié d'attaque, jambages (i dont le point est rejeté très à droite ; g ou q possible), u ou n, e bouclé, puis haute haste à boucle basse, sans barre ni o fermé visible ; la finale a l'aspect d'un l.
+  alternatives:
+  - Miquel
+  - Miguel
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1 048 caractères ; sources principales : LLT (QG du V Corps à Bihucourt le 2 avril ; 61st CCS à Puchevillers), Faidherbe 1871 (bataille de l''Hallue, 23 déc. 1870, de mémoire, non vérifiée en ligne), renvois f. 59 v°, 73 v°, 89 r°, 91 r° ; clé « lieux » corrigée (Acheux-en-Amiénois). Remarque : le tissage à domicile n''est donné que comme hypothèse, sans source. « \inc{Beaucourt} » est à confirmer (autre lecture possible : Baizieux), ainsi que « Lu » et « Mignot » (contrôle p2 : finale en l, Miquel/Miguel possibles ; 184 à comparer).'
+  alternatives: []
+controle:
+- ligne: 4
+  avant: Puchevillers —
+  apres: Puchevillers \trait
+  justification: Zoom [.55 .08 1.0 .12] — le trait horizontal part sans levée de plume de la dernière lettre ; délié final prolongé, non tiret.
+- ligne: 8
+  avant: d'été. Tout le jour,
+  apres: d'été Tout le jour,
+  justification: Zoom [.50 .27 .95 .32] — long délié final après été, aucun point entre le délié et Tout.
+- ligne: 17
+  avant: bleuâtres
+  apres: bleuâtre
+  justification: Zoom [.40 .58 1.0 .64] — le mot finit sur e suivi du point ; aucun s.
+- ligne: 20
+  avant: 1 peu froid
+  apres: 1 peu froid.
+  justification: Zoom ×3 [.75 .73 1.0 .79] — point net à droite du d, au niveau de la ligne de base, sans i voisin à qui le rattacher.
+- ligne: 23
+  avant: Mme Mignot
+  apres: Mme \inc{Mignot}
+  justification: Zoom ×3 [.72 .82 .99 .89] — finale à haute haste bouclée sans barre (l), ni o fermé visible ; Miquel ou Miguel possibles.
+- ligne: 0
+  avant: apparat Tempér^{e} et & (l. 13) avec justifications de forme ; « Lu » sans note
+  apres: notes réduites au développement ; notes de lecture ajoutées pour bleuâtre, Lu, Mignot
+  justification: Épuration de l'apparat imprimé ; les détails paléographiques passent dans difficultes.
+resume: 'Le lundi 23 avril 1917, beau temps : courses à Toutencourt et Pierregot le matin (mention de métiers à tisser), à Acheux et Puchevillers l''après-midi ; promenade vers le cimetière et beau coucher de soleil. Le 24, vraie journée d''été, ciel azur et bourgeons vernissés ; course à Toutencourt et Pierregot, puis promenade sur la route de Mirvaux avec vues sur Beaucourt et Montigny. Le 25, ciel couvert et ondées, temps refroidi ; Acheux est vide de troupes ; après-midi à Pierregot chez Mme Mignot (lecture douteuse) et Louise, soirée chez la famille Denis à Hérissart.'
+noms:
+  personnes:
+  - forme: Mme Mignot
+    ligne: 23
+    identite: habitante de Pierregot (nom de lecture douteuse)
+  - forme: Louise
+    ligne: 23
+    identite: proche de Mme Mignot (fille ?)
+  - forme: Denis
+    ligne: 24
+    identite: famille d'Hérissart
+  lieux:
+  - forme: Toutencourt
+    ligne: 3
+    identite: Toutencourt (Somme)
+  - forme: Pierregot
+    ligne: 3
+    identite: Pierregot (Somme)
+  - forme: Acheux
+    ligne: 4
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Puchevillers
+    ligne: 4
+    identite: Puchevillers (Somme)
+  - forme: Mirvaux
+    ligne: 15
+    identite: Mirvaux (Somme)
+  - forme: Beaucourt
+    ligne: 16
+    identite: Beaucourt-sur-l'Hallue (Somme)
+  - forme: Montigny
+    ligne: 17
+    identite: Montigny-sur-l'Hallue (Somme)
+  - forme: Hérissart
+    ligne: 24
+    identite: Hérissart (Somme)
+source: contrôle

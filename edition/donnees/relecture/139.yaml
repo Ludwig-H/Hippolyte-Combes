@@ -1,0 +1,174 @@
+cliche: 139
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Févr. /17
+  apres: Fevr. 17
+  justification: aucun accent sur le e ; aucune barre oblique devant 17 ; petit point après Fevr
+  confiance: moyenne
+- ligne: 2
+  avant: Levé 5h —
+  apres: \ind Levé 5^{H} –
+  justification: H nettement suscrit ; tiret court ; ligne en retrait
+  confiance: haute
+- ligne: 3
+  avant: Mis ordre ds mes affaires & caisses.
+  apres: mis ordre de mes affaires & caisses
+  justification: m initial minuscule ; d bouclé + e, sans s ; aucun point final (le trait à droite est la barre du t de « dentiste » à la ligne suivante)
+  confiance: haute
+- ligne: 4
+  avant: A 8h 1/2, ch. Auriol, joaillier, puis ch. dentiste.
+  apres: A 8^{H} \fr{1}{2}, chz \inc{Auriol}, joaillier, puis chz dentiste
+  justification: H suscrit ; demi empilé ; c-h-z à z plongeant, deux fois ; nom propre mal lisible ; pas de point final
+  confiance: moyenne
+- ligne: 5
+  avant: A 10h, quitté maison et rejoint Margte.
+  apres: A 10^{H}, quitté maison et rejoint Margte
+  justification: H suscrit ; pas de point final, seulement le long délié du e
+  confiance: haute
+- ligne: 6
+  avant: Partis de Ste-Marie, vers 11h 40.
+  apres: Partis de S^{te}-Marie, vers 11^{H} 40
+  justification: te suscrit et souligné ; H suscrit ; pas de point
+  confiance: haute
+- ligne: 7
+  avant: Oncle m'a accompagné gare.
+  apres: oncle m'a accompagnés gare
+  justification: o initial minuscule ; trait vertical isolé après l'é accentué, partant au-dessus de l'œil et s'arrêtant sur la ligne de base = s final réduit (une virgule descendrait sous la ligne) ; pas de point
+  confiance: moyenne
+- ligne: 10
+  avant: A Béziers, à 4h 1/2. Montés à pied ville
+  apres: A Béziers, à 4^{H} \fr{1}{2}. Montés à pied ville
+  justification: H suscrit ; demi empilé
+  confiance: haute
+- ligne: 11
+  avant: et visité rapidt cathle. Admiré panorama
+  apres: et visité rapid^{t} cath^{le}. Admiré panorama
+  justification: t et le surélevés ; point net après cath^{le}
+  confiance: haute
+- ligne: 13
+  avant: Repartis de Béziers à 5h 23, petit train,
+  apres: \ind Repartis de Béziers à 5^{H}23, petit train
+  justification: retrait ; H suscrit ; la virgule (long trait oblique) est avant « petit », aucune après « train »
+  confiance: haute
+- ligne: 14
+  avant: vieux wagons, pas de 2e —
+  apres: Vieux wagons, pas de 2\inc{ème} –
+  justification: V majuscule (premier jambage épais, aspect K) ; après le 2, e + m + finale sous un trait
+  confiance: moyenne
+- ligne: 15
+  avant: Délicieuse intimité s/ l'épaule de Mte.
+  apres: Delicieuse intimité s/ l'épaule de Mte
+  justification: aucun accent sur le premier e (les deux points appartiennent aux deux i) ; pas de point final
+  confiance: moyenne
+- ligne: 16
+  avant: A 10h 30, à Millau.
+  apres: A 10^{H} 30, à Millau.
+  justification: H suscrit ; blanc d'une ligne au-dessus
+  confiance: haute
+- ligne: 17
+  avant: Pierre à la gare nous attendait —
+  apres: \ind Pierre à la gare nous attendait –
+  justification: retrait ; tiret court
+  confiance: haute
+- ligne: 18
+  avant: Impression silence profond en débarquant
+  apres: Impression silence profond en debarquant
+  justification: aucun accent sur le e de « de- »
+  confiance: moyenne
+- ligne: 20
+  avant: A la maison de Mte, parents m'ont
+  apres: A la maison de Mte parents m'ont
+  justification: aucune virgule visible après Mte, seulement un blanc
+  confiance: moyenne
+- ligne: 23
+  avant: au 1er étage — —
+  apres: au 1er etage – —
+  justification: aucun accent sur le e initial (le trait au-dessus du mot est la barre du t) ; premier tiret court, second long
+  confiance: moyenne
+difficultes:
+- ligne: 4
+  lemme: Auriol
+  analyse: 'zoom [.26 .14 .66 .20] ×3 : attaque bouclée en tête (A en a agrandi ou D en ∂ ?), u ou e, r, petite minime sans point, c ou o ouvert, haste bouclée, e final en long délié ; aucune suite i-o nette ; le joaillier n''est pas nommé au cliché 140 (« Broche A.P.C. : 3 f »)'
+  alternatives:
+  - Auriole
+  - Aurièle
+- ligne: 7
+  lemme: accompagnés
+  analyse: 'accompa-g-n-é (accent net), puis trait vertical détaché, du haut de l''œil à la ligne de base, sans liaison avec « gare » : s final réduit (aspect 1) ; accord avec « nous » sous-entendu malgré m''a'
+  alternatives:
+  - accompagné
+- ligne: 8
+  lemme: '30'
+  analyse: 'zoom [.36 .30 .48 .36] ×3 : 3 réduit à un trait en J ; puis un petit ovale à hauteur d''œil entièrement noyé d''encre, que traverse en diagonale le jambage (g ou p) de « accompagnés » (l. 7) : la droite descend du haut à droite et ressort sous l''ovale vers la gauche, sans rupture de pente. La « haste » du prétendu 9 appartient donc à la ligne précédente ; reste un 0, comme dans l''état antérieur'
+  alternatives:
+  - '39'
+- ligne: 13
+  lemme: 5^{H}23
+  analyse: 5 à drapeau sur la ligne ; H petit, à deux hastes, posé haut ; 23 à hauteur du 5 ; le petit trait au-dessous du 2 est l'accent (ou trait abréviatif) de « ème » à la l. 14
+  alternatives:
+  - 5^{H} 23
+- ligne: 14
+  lemme: 2ème
+  analyse: 2 bouclé ; à mi-hauteur du 2, petite boucle e puis deux bosses (m) prolongées en long délié ; trait court au-dessus (accent grave ou trait abréviatif), tiret court plus bas à droite ; surélévation insuffisante pour baliser ^{}
+  alternatives:
+  - 2e
+  - 2^{e} cl.
+- ligne: 18
+  lemme: Impression
+  analyse: 'après i pointé et o, n final plongeant, comme dans « maison » (l. 5, l. 20) : pas de s net ; « Impressions » non exclu'
+  alternatives:
+  - Impressions
+controle:
+- ligne: 8
+  avant: Pris express midi \inc{39}. 15 m. de retard.
+  apres: Pris express midi 30. 15 m. de retard.
+  justification: la longue haste attribuée au 9 est le jambage d'une lettre de « accompagnés » (l. 7), qui traverse en ligne droite un 0 noyé d'encre ; retour à la leçon antérieure
+- ligne: 4
+  avant: 'note : initiale en a agrandi, u, r, puis une haste bouclée et une finale en e ; « Auriole » possible'
+  apres: 'note : lecture de l''état antérieur, conservée sous réserve ; « Auriole » possible'
+  justification: analyse lettre à lettre déplacée dans « difficultes » ; apparat épuré
+- ligne: 13
+  avant: 'difficultes : trait sous le 2 (marque de suscription)'
+  apres: 'difficultes : trait = accent ou trait abréviatif de « ème » (l. 14)'
+  justification: le trait est au-dessus de la finale de « 2ème », non rattaché à 23
+- ligne: 0
+  avant: 'critique : la fin des l. 14--15 et la l. 19'
+  apres: 'critique : la fin de la l. 15 et la l. 19'
+  justification: seule la fin de la l. 15 (« s/ l'épaule de Mte ») et « ville natale » sont nettement plus pâles
+remarques: 'Remarque du commentateur historique tranchée : l''express est bien « midi 30 » (12 h 30), conforme à l''état antérieur et à R6 F4/F6. « Auriol » reste non identifié et réservé ; « Jean » = abbé Jean Crouzet reste une identification probable.'
+resume: Samedi 3 février 1917, dernier jour du séjour à Toulouse. Levé à 5 h, Hippolyte Combes range ses affaires, passe chez un joaillier (Auriol ?) et chez le dentiste, puis rejoint Marguerite et part de Sainte-Marie vers 11 h 40 ; l'oncle les accompagne à la gare. Express de midi 30 (retard de 15 minutes) ; à Carcassonne il embrasse Jean ; à Béziers, à 4 h 30, montée à pied en ville, visite rapide de la cathédrale et panorama de la terrasse au soleil couchant. Petit train à 5 h 23, vieux wagons sans deuxième classe ; arrivée à Millau à 10 h 30, où Pierre les attend ; accueil très affectueux des parents de Marguerite.
+noms:
+  personnes:
+  - forme: Auriol
+    ligne: 4
+    identite: joaillier toulousain (lecture réservée)
+  - forme: Margte
+    ligne: 5
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: oncle
+    ligne: 7
+    identite: oncle toulousain non nommé (Crouzet ?)
+  - forme: Jean
+    ligne: 9
+    identite: Jean, proche d'Hippolyte Combes, à Carcassonne (l'abbé Jean Crouzet ?)
+  - forme: Pierre
+    ligne: 17
+    identite: Pierre, de la famille de Marguerite à Millau (non identifié)
+  - forme: Mte
+    ligne: 15
+    identite: Marguerite Calmels
+  lieux:
+  - forme: S^{te}-Marie
+    ligne: 6
+    identite: Sainte-Marie-des-Champs, Toulouse
+  - forme: Carcassonne
+    ligne: 9
+    identite: Carcassonne (Aude)
+  - forme: Béziers
+    ligne: 10
+    identite: Béziers (Hérault)
+  - forme: Millau
+    ligne: 16
+    identite: Millau (Aveyron), ville natale de Marguerite
+source: contrôle

@@ -1,0 +1,122 @@
+# Lignes de front schématiques : [longitude, latitude] WGS 84, du nord au sud.
+# Chaque sommet est placé entre une localité tenue par les Britanniques ou les Français (B/F) et une localité
+# tenue par l'armée allemande (A), d'après les tables sourcées des dossiers de recherche R4 (Somme, Ancre,
+# ligne Hindenburg) et R5 (Flandre). Précision de l'ordre de 0,5 à 1 km : ces tracés situent le front à
+# l'échelle des cartes du livre ; ils ne restituent pas les tranchées.
+# Abréviations des sources : OH = Official History, Military Operations, France and Belgium (1916-I, 1916-II,
+# 1917-I) ; Michelin = Guides illustrés Michelin des champs de bataille (The Somme, vol. 1 ; St-Quentin–Cambrai,
+# 1921) ; Edmonds 1938 = OH 1916-II ; CWGC = fiches des cimetières de la Commonwealth War Graves Commission.
+fronts:
+
+  flandre_artois_1916:
+    nom: Front de Flandre et d'Artois, été et automne 1916
+    couleur: '#9c2a1e'
+    points:
+    - [2.868, 50.897]   # canal de l'Yser à l'est de Boesinghe (B) ; crête de Pilckem (A) — CWGC Artillery Wood
+    - [2.905, 50.873]   # saillant d'Ypres, nord (Edmonds 1938, p. 544)
+    - [2.932, 50.846]   # à l'ouest de Hooge (A depuis le 6 juin 1916) — CWGC Hooge Crater
+    - [2.952, 50.835]   # bois du Sanctuaire, Mont-Sorrel (B après le 13 juin 1916)
+    - [2.930, 50.824]   # cote 60 (Zwarteleen) — Edmonds 1938, p. 545
+    - [2.885, 50.812]   # cratères de Saint-Éloi (A) — combats de mars–avril 1916
+    - [2.866, 50.787]   # à l'ouest de Wytschaete (A) ; Kemmel (B) — CWGC ; Edmonds 1938, p. 535
+    - [2.880, 50.760]   # à l'ouest de Messines (A, nov. 1914 – juin 1917) — CWGC Messines Ridge
+    - [2.905, 50.730]   # lisière est du bois de Ploegsteert (B) — Edmonds 1938, p. 134
+    - [2.922, 50.712]   # passage à niveau du Touquet (B) face à Frelinghien (A) — CWGC Le Touquet
+    - [2.930, 50.692]   # à l'est de Houplines (B) — Bewsher 1921, p. 88
+    - [2.925, 50.672]   # saillant de la voie ferrée Armentières–Lille ; La Chapelle-d'Armentières (B) — Bewsher 1921, p. 91
+    - [2.897, 50.640]   # devant Bois-Grenier (B) ; crête de Radinghem (A) — Shakespear 1921, pp. 17–18
+    - [2.838, 50.620]   # V.C. Corner, no man's land du 19 juillet 1916 (Fromelles) — CWGC
+    - [2.795, 50.612]   # Fauquissart, à l'est de Laventie (B) — Edmonds 1938, p. 121
+    - [2.795, 50.583]   # à l'est de Neuve-Chapelle (B depuis mars 1915) — CWGC
+    - [2.760, 50.566]   # saillant du Boar's Head (A) ; Richebourg (B) — CWGC St. Vaast Post
+    - [2.755, 50.543]   # à l'est de Festubert (B) — CWGC Brown's Road
+    - [2.770, 50.528]   # Givenchy-lès-la-Bassée (B)
+    - [2.768, 50.517]   # canal de La Bassée : Cuinchy (B), La Bassée (A) — CWGC Windy Corner
+    - [2.755, 50.505]   # devant Cambrin (B, à 800 m des tranchées) — CWGC Cambrin
+    - [2.795, 50.455]   # Loos (B depuis sept. 1915), cote 70 (A) — tracé indicatif
+    - [2.760, 50.392]   # Souchez (B), Givenchy-en-Gohelle (A) — crête de Vimy tenue par l'armée allemande
+    - [2.778, 50.357]   # Neuville-Saint-Vaast (B), Thélus (A) — limite First/Third Army « crête de Vimy » (R5, F49)
+    - [2.792, 50.326]   # Roclincourt (B)
+    - [2.8013, 50.2993] # faubourg de Blangy, que traversent les tranchées — OH 1917-I, p. 175
+    - [2.780, 50.270]   # entre Achicourt (B) et Beaurains (A) — OH 1917-I, p. 149
+    - [2.735, 50.235]   # devant Ficheux (A) — OH 1916-I, p. 310
+    - [2.712, 50.226]   # au nord de Blairville (A) — OH 1916-I, p. 310
+    - [2.6871, 50.2091] # Ransart, sur la ligne — R4, point A6
+    - [2.648, 50.173]   # entre Monchy-au-Bois (A, « saillant de Monchy ») et Hannescamps (B)
+    - [2.6357, 50.1455] # entre Foncquevillers (B) et la lisière ouest du bois de Gommecourt (A) — OH 1916-I, p. 455
+
+  somme_1916_07_01:
+    nom: Front au 1er juillet 1916
+    couleur: '#9c2a1e'
+    points:
+    - [2.6357, 50.1455] # Foncquevillers (B) / bois de Gommecourt (A) — OH 1916-I, p. 455
+    - [2.6450, 50.1240] # à l'est d'Hébuterne (B) — OH 1916-I, p. 41
+    - [2.6516, 50.0967] # route de Mailly-Maillet à Serre, entrée du no man's land — R4, point A13
+    - [2.6502, 50.0834] # redoute de Hawthorn (mine H3), première ligne allemande — R4, point A16
+    - [2.6560, 50.0720] # ravin en Y, devant Beaumont-Hamel (A)
+    - [2.6690, 50.0660] # l'Ancre entre Hamel (B) et Saint-Pierre-Divion (A) — OH 1916-I, p. 393
+    - [2.6800, 50.0520] # lisière est du bois de Thiepval (B), face à Thiepval (A) — OH 1916-I, p. 393, 395
+    - [2.6830, 50.0420] # saillant de Leipzig ; Authuille (B) — OH 1916-I, p. 400
+    - [2.6850, 50.0300] # devant Ovillers (A)
+    - [2.6880, 50.0230] # devant La Boisselle (A) — Michelin, The Somme, vol. 1, p. 36–37
+    - [2.7020, 50.0050] # bois de Bécourt (B) / Fricourt, le Tambour (A) — OH 1916-I, p. 349, 359
+    - [2.7400, 49.9920] # devant Mametz (A)
+    - [2.7600, 49.9900] # au-delà de Carnoy (B) — OH 1916-I, p. 320
+    - [2.7830, 49.9900] # Maricourt (B), jonction franco-britannique ; Montauban (A) — OH 1916-I, p. 253, 320
+    - [2.8050, 49.9650] # à l'ouest de Curlu (A), rive nord de la Somme — OH 1916-I, p. 248
+    - [2.8050, 49.9420] # à l'ouest de Frise (A), rive sud — Michelin, vol. 1, p. 70–74
+    - [2.7920, 49.8640] # vers Soyécourt, front d'attaque de la VIe Armée française — Michelin, vol. 1, p. 16
+
+  somme_1916_11_18:
+    nom: Front au 18 novembre 1916
+    couleur: '#9c2a1e'
+    points:
+    - [2.6357, 50.1455] # Foncquevillers / bois de Gommecourt, inchangé — OH 1917-I, p. 66
+    - [2.6450, 50.1240] # Hébuterne, inchangé
+    - [2.6516, 50.0967] # « Quadrilateral » (Heidenkopf), route de Serre ; Serre resté allemand — Haig, p. 50
+    - [2.6668, 50.0874] # entre New Munich Trench (B) et Frankfurt Trench (A) — OH 1917-I, p. 67–69
+    - [2.6970, 50.0830] # entre Beaucourt-sur-l'Ancre (B depuis le 14 nov.) et la ferme de Baillescourt (A) — OH 1916-II, p. 505
+    - [2.7030, 50.0780] # l'Ancre entre Beaucourt et Grandcourt (A) — OH 1917-I, p. 66
+    - [2.7200, 50.0700] # tranchées Desire et Regina — OH 1916-II, p. 514–517
+    - [2.7450, 50.0680] # au nord de Courcelette (B)
+    - [2.7850, 50.0760] # entre Le Sars (B) et la butte de Warlencourt (A) — OH 1916-II, p. 437
+    - [2.8500, 50.0650] # au nord-est de Gueudecourt (B)
+    - [2.8770, 50.0500] # entre Lesbœufs (B) et Le Transloy (A) — OH 1916-II, p. 373
+    - [2.9220, 50.0330] # abords nord de Sailly-Saillisel (F) — Michelin, vol. 1, p. 25
+    - [2.9300, 50.0150] # lisière ouest du bois de Saint-Pierre-Vaast (A)
+    - [2.9250, 50.0000] # Rancourt (F)
+    - [2.9330, 49.9830] # Bouchavesnes (F) — Michelin, vol. 1, p. 21–25
+    - [2.8900, 49.9500] # la Somme près d'Omiécourt, face à Cléry (F) — Michelin, vol. 1, p. 24–27
+    - [2.9200, 49.9250] # plateau de La Maisonnette, Biaches (F), face à Péronne
+    - [2.8780, 49.8970] # devant Barleux (A)
+    - [2.8650, 49.8700] # Belloy et Berny-en-Santerre (F)
+    - [2.8050, 49.8300] # devant Chaulnes (A) — Michelin, vol. 1, p. 26–27
+
+  hindenburg_1917:
+    nom: Ligne Hindenburg (Siegfriedstellung), occupée lors du repli allemand du 16 au 19 mars 1917
+    couleur: '#4a4a4a'
+    style: tirets
+    points:
+    - [2.8190, 50.2610] # Telegraph Hill, jonction avec l'ancien front — OH 1917-I, p. 175
+    - [2.8190, 50.2466] # Neuville-Vitasse (moitié est dans la ligne) — OH 1917-I, p. 151
+    - [2.8500, 50.2400] # devant Héninel — OH 1917-I, p. 206
+    - [2.9000, 50.2200] # crête de Fontaine-lès-Croisilles — OH 1917-I, p. 285
+    - [2.9292, 50.1930] # Bullecourt, dans la ligne — OH 1917-I, p. 140
+    - [2.9550, 50.1950] # rentrant Bullecourt–Quéant — OH 1917-I, p. 360
+    - [2.9822, 50.1803] # Quéant — OH 1917-I, p. 87, 93
+    - [3.0026, 50.1753] # Pronville — OH 1917-I, p. 147
+    - [3.0641, 50.1642] # Mœuvres, canal du Nord — Michelin, St-Quentin–Cambrai, p. 86
+    - [3.0853, 50.1106] # Havrincourt, coude du canal du Nord — OH 1917-I, p. 531
+    - [3.1400, 50.0850] # avant-postes de La Vacquerie
+    - [3.1995, 50.0603] # Banteux, canal de Saint-Quentin — OH 1917-I, p. 411–412, 531
+    - [3.2458, 50.0025] # Le Catelet — Michelin, St-Quentin–Cambrai, p. 98–101
+    - [3.2319, 49.9614] # Bellicourt, tunnel du canal
+    - [3.2431, 49.9224] # Bellenglise — Michelin, St-Quentin–Cambrai, p. 101–102
+    - [3.2600, 49.8600] # devant Saint-Quentin — OH 1917-I, p. 142
+    - [3.3673, 49.6612] # vers La Fère — OH 1917-I, p. 110
+
+composes:
+  # lignes continues formées de plusieurs tronçons (zones hachurées, cartes générales)
+  front_ouest_1916_07: [flandre_artois_1916, somme_1916_07_01]
+  front_ouest_1916_11: [flandre_artois_1916, somme_1916_11_18]
+  artois_somme_1916_11: [flandre_artois_1916, somme_1916_11_18]

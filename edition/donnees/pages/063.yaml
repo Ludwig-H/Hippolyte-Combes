@@ -1,0 +1,102 @@
+cliche: 63
+fichier: 20251126_103538.jpg
+date: Jeudi 5 octobre 1916
+mois: Octobre 1916
+lieux: Paris
+titre: 'Paris sous la pluie : gare d''Orsay, Saint-Vincent-de-Paul, Grands Magasins du Louvre'
+transcription: |
+  \sl{Jeudi 5} \hfill \sl{oct^{bre} /16}
+  Le jour \inc{parut} peu à peu
+  A 8^{h} m., gare d'Orsay \trait
+  Sous pluie fine & serrée, venu à pied
+  métro Tuileries. Changé au Chatelet pr
+  \addm{station} gare du Nord
+  Laissé paquets consigne gare du Nord
+  Descendu en flânant rue La Fayette
+  Entré et repos \inc{egl St}-Vincent-de-Paul.
+  admiré lentement peintures murales
+  et rangées superposées de belles colonnes
+  de marbre marron
+  Continué promenade j-aux Mag
+  du Louvre. Monté au salon de
+  \inc{Correspce} – et écrit 2 lettres \trait
+  Pluie cesse. Soleil \add{commence} brille, 1 peu
+  Trop long arret au Louvre. Pas
+  assez temps pr dejeuner restaurant
+  Dû revenir \add{par} metro a gare du Nord
+apparat:
+- ligne: 1
+  lemme: oct^{bre}
+  type: abreviation
+  note: octobre
+- ligne: 1
+  lemme: /16
+  type: abreviation
+  note: '1916'
+- ligne: 2
+  lemme: parut
+  type: lecture
+  note: fin du mot indistincte, sans barre de t ; autres lectures possibles « paru », « paraît »
+- ligne: 3
+  lemme: 8^{h} m.
+  type: abreviation
+  note: 8 heures du matin
+- ligne: 4
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 5
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 6
+  lemme: station
+  type: ajout
+  note: en marge gauche, devant « gare »
+- ligne: 9
+  lemme: egl St
+  type: abreviation
+  note: église Saint
+- ligne: 9
+  lemme: egl St
+  type: lecture
+  note: groupe repassé et noyé d'encre ; on peut aussi lire « église St »
+- ligne: 13
+  lemme: j-aux
+  type: abreviation
+  note: jusqu'aux
+- ligne: 13
+  lemme: Mag
+  type: abreviation
+  note: Magasins (Grands Magasins du Louvre)
+- ligne: 15
+  lemme: Correspce
+  type: abreviation
+  note: Correspondance (salon de correspondance du magasin)
+- ligne: 15
+  lemme: Correspce
+  type: lecture
+  note: finale peu distincte ; on peut aussi lire « Corresp »
+- ligne: 16
+  lemme: commence
+  type: ajout
+  note: écrit petit sous la ligne, entre « Soleil » et « brille », sans correction de « brille »
+- ligne: 16
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 18
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 19
+  lemme: par
+  type: ajout
+  note: écrit petit sous la ligne, entre « revenir » et « metro »
+critique: 'Le feuillet a été photographié verso d''abord : cette page (f.~32 v\textsuperscript{o}) fait suite au récit du soir du 4 octobre (f.~32 r\textsuperscript{o}). Encre violette ; plusieurs mots (l.~4, 11 et 12) ont été repassés et sont noyés d''encre.'
+historique: |
+  Combes arrive à la gare d'Orsay, terminus de la Compagnie d'Orléans, par le train de nuit parti de Toulouse vers 20 h (voir f.~32 r\textsuperscript{o}). Pour gagner la gare du Nord, il refait en sens inverse le trajet de l'aller (voir f.~26 v\textsuperscript{o}) : ligne 1 aux Tuileries, puis, au Châtelet, la ligne 4, ouverte le 21 avril 1908 de Châtelet à la porte de Clignancourt par la gare du Nord (RATP). L'église Saint-Vincent-de-Paul (X\textsuperscript{e} arr.), qui domine la rue La Fayette à peu de distance de la gare, fut commencée en 1824 par J.-B. Lepère, poursuivie par son gendre J.-I. Hittorff et ouverte au culte en 1844 ; ses deux étages de colonnades encadrent la grande frise peinte de la nef, « masterpiece of Hippolyte Flandrin », que le Baedeker date de 1850--1854 (Mérimée PA00086489 ; Baedeker 1913). Les Grands Magasins du Louvre occupaient, rue de Rivoli et place du Palais-Royal, l'immeuble faisant face au palais (Baedeker 1913, p.~51) ; le carnet atteste qu'ils offraient à leur clientèle un salon de correspondance.
+sources:
+- Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, K. Baedeker, 1913, p. 28-30, 51-52.
+- Ministère de la Culture, base Mérimée, notice PA00086489 (église Saint-Vincent-de-Paul, Paris Xe), consultée via monumentum.fr.
+- RATP, « Histoire de la ligne 4 », ratp.fr/decouvrir/patrimoine/histoire-metro-ligne-4, consulté le 18 oct. 2026.

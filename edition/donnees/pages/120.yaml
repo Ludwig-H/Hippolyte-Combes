@@ -1,0 +1,150 @@
+cliche: 120
+fichier: 20251126_105848.jpg
+date: Jeudi 4 – vendredi 5 janvier 1917
+mois: Janvier 1917
+lieux: Acheux-en-Amiénois, Septenville (Rubempré) et Beauquesne (Somme)
+titre: 'Repos et concert Y.M.C.A. à Acheux ; Septenville, Beauquesne : contrat de batteuse ; solde'
+transcription: |
+  4 \sl{Jeudi} \hfill — \sl{Janvier /17}
+  \ind[2] Tout le jour, repos
+  matinée, fortes ondées. après-midi, ciel s'est
+  éclairci et tout ensoleillé –
+  Nuit, merv^{x} clair de lune (entière) et
+  qq étoiles —
+  \ind Resté ds chambre, matin & surtout après-
+  midi, à ranger affaires, ou regarder \add{spectacle} mouvement
+  rue, très animé
+  \ind Soir concert des XIII corps Archie, à la
+  Y.M.C.A. Hut 2^{e} partie progro—, n^{os} excellents
+  chanteurs – duos très \inc{f.}
+  \crochet{2}— Hair cut : \inc{15}c
+  — Concert Y.M.C.A : 30c
+  \filet
+  5 \sl{Ven} – Tout le jour., en course
+  Septenville, ferme Moulard. —
+  Beauquesne : déjeuné av L^{t} Walsh, L^{t} Morris
+  & son interprète au Café Continental.
+  Puis passé contrat location batteuse a
+  Mme \inc{Capron}
+  \ind Rentré, nuit tombante. Merv^{x} clair
+  de lune. Routes boueuses co—e ruisselantes
+  de lumière —
+  \blanc{3}
+  \equerre{1}Bureau Mission F^{r} XIIIe Corps \inc{Achx} : 78^{f} 75
+apparat:
+- ligne: 5
+  lemme: merv^{x}
+  type: abreviation
+  note: merveilleux
+- ligne: 6
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 7
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 7
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 8
+  lemme: \add{spectacle} mouvement
+  type: ajout
+  note: « spectacle » écrit au-dessus de « mouvement », qu'il chevauche ; aucun des deux mots n'est biffé
+- ligne: 10
+  lemme: XIII corps Archie
+  type: emprunt
+  note: 'les « Archies », troupe de concert du XIIIe corps britannique (archie, argot militaire anglais : canon antiaérien)'
+- ligne: 11
+  lemme: Y.M.C.A. Hut
+  type: emprunt
+  note: baraque de la Young Men's Christian Association (foyer du soldat)
+- ligne: 11
+  lemme: 2^{e}
+  type: abreviation
+  note: deuxième
+- ligne: 11
+  lemme: progro—
+  type: abreviation
+  note: programme
+- ligne: 11
+  lemme: n^{os}
+  type: abreviation
+  note: nos
+- ligne: 12
+  lemme: très \inc{f.}
+  type: lecture
+  note: f à boucle de tête et long jambage, suivi d'un point ; mot abrégé non résolu ; s. possible ; lecture antérieure g.
+- ligne: 13
+  lemme: Hair cut
+  type: emprunt
+  note: coupe de cheveux
+- ligne: 13
+  lemme: \inc{15}c
+  type: lecture
+  note: 15 centimes ; 5 à boucle haute comme dans 78^{f} 75 ; 75 possible ; lectures antérieures 50 c, 1 fr
+- ligne: 14
+  lemme: Y.M.C.A
+  type: abreviation
+  note: Young Men's Christian Association
+- ligne: 15
+  lemme: Ven
+  type: abreviation
+  note: vendredi
+- ligne: 17
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 17
+  lemme: L^{t} Walsh, L^{t} Morris
+  type: abreviation
+  note: lieutenant (deux fois)
+- ligne: 18
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 19
+  lemme: batteuse a
+  type: lecture
+  note: batteuse, et non battage ; a (pour à) suivi d'un long trait ; lecture antérieure av.
+- ligne: 20
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 20
+  lemme: \inc{Capron}
+  type: lecture
+  note: Capron, comme au cliché 115 ; après le p, jambages sous un point d'i ; Capin ou Copin possibles
+- ligne: 21
+  lemme: Merv^{x}
+  type: abreviation
+  note: merveilleux
+- ligne: 22
+  lemme: co—e
+  type: abreviation
+  note: comme
+- ligne: 24
+  lemme: F^{r}
+  type: abreviation
+  note: française
+- ligne: 24
+  lemme: XIIIe
+  type: abreviation
+  note: treizième
+- ligne: 24
+  lemme: \inc{Achx}
+  type: abreviation
+  note: Acheux
+- ligne: 24
+  lemme: 78^{f} 75
+  type: abreviation
+  note: 78 francs 75
+critique: Les deux journées sont séparées par un filet ; la solde, inscrite au pied de la page après un blanc, est ouverte par une équerre. Quelques mots (« qq », « ds », début de « chanteurs ») sont repassés d'une encre plus épaisse.
+historique: |
+  Les « XIII Corps Archie », déjà entendus le 28 décembre (f.~58~r\textsuperscript{o}), sont vraisemblablement la troupe de chanteurs des batteries antiaériennes du XIII Corps : \textit{Archie} désigne depuis 1915, en argot militaire britannique, le canon antiaérien et ses servants (Partridge 1937, s.v.). Ce corps, à Acheux depuis le 29 novembre, partira pour Doullens le 12 janvier (LLT) : les 78~F~75 touchés au bureau de sa Mission sont son dernier versement à Combes, payé ensuite par le V Corps (f.~62~v\textsuperscript{o}). La somme vaut sans doute quinze jours à 5~F~25, comme les 84~F du 19 décembre en font seize (f.~56~r\textsuperscript{o}). La lune, dite « entière » le 4, ne sera pleine que le 8 (TheSkyLive). Beauquesne avait abrité depuis le 27 juin 1916 le QG avancé de Haig, au château de Valvion (OH 1916-I, p.~304). Le lieutenant Walsh, d'Hérissart, est connu depuis novembre (f.~49~v\textsuperscript{o}) ; Morris est sans doute l'officier de la 150th Company retrouvé le 9 (f.~60~v\textsuperscript{o}). Le contrat conclut l'affaire engagée le 26 décembre (f.~57~v\textsuperscript{o}).
+sources:
+- Partridge, E., A Dictionary of Slang and Unconventional English, London, Routledge, 1937, s.v. « Archie ».
+- Baker, C., The Long, Long Trail, « The British XIII Corps in France and Flanders » et « The British V Corps in France and Flanders » (longlongtrail.co.uk, consultés le 18 oct. 2026).
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 304.
+- TheSkyLive, « Moon Calendar 1917 » (theskylive.com/moon-calendar?year=1917), consulté le 18 oct. 2026.

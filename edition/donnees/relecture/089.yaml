@@ -1,0 +1,135 @@
+cliche: 89
+confiance: haute
+changements:
+- ligne: 1
+  avant: 1er Me. Toussaint. — Novembre 1916 —
+  apres: 1er Me. Toussaint. \hfill – \sl{Novembre 1916} –
+  justification: mois et millésime soulignés d'un trait appuyé ; deux tirets courts et épais encadrent le mois
+  confiance: haute
+- ligne: 2
+  avant: Ciel
+  apres: ciel
+  justification: 'initiale minuscule : petit c au module des minuscules'
+  confiance: moyenne
+- ligne: 4
+  avant: d'Albert. Gros
+  apres: d'Albert gros
+  justification: aucun point après Albert, dont le t finit en long délié ; g minuscule
+  confiance: haute
+- ligne: 7
+  avant: 1/2
+  apres: \fr{1}{2}
+  justification: fraction empilée (1 en haut, barre, 2 en dessous)
+  confiance: haute
+- ligne: 8
+  avant: effondrées...
+  apres: effondrées . . .
+  justification: trois points espacés, détachés du mot
+  confiance: haute
+- ligne: 9
+  avant: A côté
+  apres: à côté
+  justification: a au module minuscule suivi d'un accent détaché
+  confiance: moyenne
+- ligne: 10
+  avant: action —
+  apres: action. –
+  justification: point puis tiret court
+  confiance: haute
+- ligne: 11
+  avant: 3h
+  apres: 3^{h}
+  justification: h nettement surélevé
+  confiance: haute
+- ligne: 13
+  avant: génal
+  apres: gen^{l}
+  justification: g-e-n puis une seule lettre haute, détachée et surélevée (l) ; aucun a, aucun accent
+  confiance: moyenne
+- ligne: 17
+  avant: Feuilles sèches, arbres roussis par l'automne.
+  apres: Feuilles seches Arbres roussis par l'automne
+  justification: ni accent ni virgule ; blanc puis A agrandi ; pas de point final
+  confiance: moyenne
+- ligne: 19
+  avant: ds
+  apres: de
+  justification: d + boucle d'e + délié, aucun s ; confirmé au second contrôle
+  confiance: haute
+- ligne: 20
+  avant: Çà et là, qq falots & lanternes de M.P.'s
+  apres: Ça et là, qq falots & lanternes de M.P.s
+  justification: aucun accent sur Ça ; aucune apostrophe entre P. et le s final en trait vertical
+  confiance: moyenne
+- ligne: 21
+  avant: aux carrefours.
+  apres: aux carrefours \trait
+  justification: pas de point ; long délié tiré vers la droite
+  confiance: haute
+- ligne: 22
+  avant: A 9h soir, Lt Curtis
+  apres: \ind[2] — A 9^{H} soir, L^{t} Curtis
+  justification: long tiret d'attaque en retrait ; H et t surélevés
+  confiance: haute
+- ligne: 24
+  avant: Transport —
+  apres: Transport –
+  justification: tiret court lié au mot
+  confiance: moyenne
+difficultes:
+- ligne: 13
+  lemme: gen^{l}
+  analyse: g bouclé, e, n à deux jambages ; puis, après un petit blanc, une lettre à boucle haute dont la base est au-dessus de la ligne (l suscrit) ; écossais commence après un second blanc. Aucun a.
+  alternatives:
+  - génal
+  - gén^{al}
+- ligne: 19
+  lemme: de
+  analyse: 'Contrôle (zoom ×3 [.36 .76 .56 .81]) : d à haste rejetée en arrière puis e à boucle et délié final, même tracé que « de » l. 20 ; aucun s plongeant ni crochet. Lecture tranchée ; ds (dans) reste le sens attendu, d''où la note.'
+  alternatives:
+  - ds
+- ligne: 20
+  lemme: M.P.s
+  analyse: M, point, P (trait d'attaque haut détaché, haste, boucle), point, trait vertical (s final réduit) ; aucune apostrophe, à la différence de N.C.O's l. 14.
+  alternatives:
+  - M.P.'s
+- ligne: 1
+  lemme: –
+  analyse: après 1916, tache d'encre courte et épaisse, un peu allongée, symétrique du tiret qui précède Novembre.
+  alternatives:
+  - .
+- ligne: 17
+  lemme: Arbres
+  analyse: a agrandi à boucle d'attaque, plus haut que les minuscules voisines, après un blanc sans ponctuation.
+  alternatives:
+  - arbres
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'CWGC (Albert Communal Cemetery Extension), Mérimée PA80000063 (jardin public) ; le « gen^{l} écossais », les bataillons, la « place du monument » et l''organisateur du Church meeting ne sont pas identifiés. L. 19 : « de » vérifié au zoom, lettres nettes (sens attendu ds).'
+  alternatives: []
+controle:
+- ligne: 19
+  avant: Rues \inc{de} l'obscurité
+  apres: Rues de l'obscurité
+  justification: zoom ×3 [.36 .76 .56 .81] — d bouclé + e à boucle et délié, identique au « de » de la l. 20 ; aucun s ; incertitude levée, note de lecture conservée pour le sens (ds attendu).
+remarques: Encre violette. Un blanc d'environ une ligne sépare l'après-midi du soir.
+resume: 'Toussaint 1916 à Albert, par temps bas et froid. Le matin, Hippolyte Combes visite le cimetière d''Albert, ravagé par les obus, à côté d''un champ de croix de soldats anglais tués au combat. L''après-midi, place du monument, un général écossais décore devant plusieurs bataillons des soldats et sous-officiers distingués dans l''offensive de la Somme. Le soir, réunion religieuse route d''Amiens dans les rues obscures. À 9 heures, le lieutenant Curtis lui apporte l''ordre de partir avec lui le lendemain pour Acheux : ils sont détachés de la compagnie du train.'
+noms:
+  personnes:
+  - forme: Curtis
+    ligne: 22
+    identite: lieutenant britannique de la 152nd Company A.S.C.
+  lieux:
+  - forme: Albert
+    ligne: 4
+    identite: Albert (Somme)
+  - forme: Amiens
+    ligne: 19
+    identite: route d'Amiens, à Albert (Somme)
+  - forme: Somme
+    ligne: 15
+    identite: la Somme (offensive de 1916)
+  - forme: Acheux
+    ligne: 24
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

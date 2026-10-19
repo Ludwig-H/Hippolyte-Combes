@@ -1,0 +1,200 @@
+cliche: 158
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 21 Merc. — \hfill Février 1917 / Temps nuageux. Brume…
+  apres: \sl{21 Merc.} Temps nuageux \hfill \sl{Février 1917}
+  justification: « Temps nuageux » est écrit sur la ligne de la date, au-dessus de « Brume » ; aucun tiret après Merc.
+  confiance: haute
+- ligne: 2
+  avant: pénétrante. Bruine
+  apres: pénétrante Bruine
+  justification: Long délié final de pénétrante puis attaque du B ; aucun point.
+  confiance: moyenne
+- ligne: 3
+  avant: Dégel
+  apres: Degel
+  justification: Aucun accent sur le premier e.
+  confiance: moyenne
+- ligne: 4
+  avant: véritables. Très
+  apres: véritables Très
+  justification: Aucun point visible.
+  confiance: moyenne
+- ligne: 5
+  avant: Auxi-le-Château. Au-delà
+  apres: Auxi-le-Chateau. Audelà
+  justification: Pas de circonflexe visible ; Au et delà liés sans trait d'union.
+  confiance: moyenne
+- ligne: 6
+  avant: as. pittoresque, mais
+  apres: asz pittoresque mais
+  justification: a-s-z plongeant (forme asz) ; aucune virgule avant mais.
+  confiance: haute
+- ligne: 7
+  avant: rendent
+  apres: \inc{rendent}
+  justification: Forme contractée peu lisible.
+  confiance: moyenne
+- ligne: 8
+  avant: Arrêt à Doullens, 1h 1/2, pour lunch.
+  apres: Arret à Doullens, à 1^{H} \fr{1}{2} pour lunch
+  justification: Après la virgule, a ouvert + accent recourbé = à ; H suscrit, 2 sous une barre ; pas de circonflexe sur Arret ; aucune ponctuation finale.
+  confiance: moyenne
+- ligne: 9
+  avant: abomles.
+  apres: \inc{abomibles}
+  justification: On voit i pointé et deux hampes bouclées avant le délié, non la seule finale -les.
+  confiance: basse
+- ligne: 10
+  avant: détresse
+  apres: detresse
+  justification: Aucun accent.
+  confiance: moyenne
+- ligne: 11
+  avant: '[ A Doullens, mandat de 42 f.'
+  apres: \crochet{4}A Doullens, mandat de 42^{f}
+  justification: Grand crochet de quatre lignes, pied sous la l. 14 ; f suscrit sans point.
+  confiance: haute
+- ligne: 13
+  avant: 1 f. —
+  apres: 1^{f} —
+  justification: f suscrit ; le tiret est posé à droite, un peu plus bas.
+  confiance: haute
+- ligne: 14
+  avant: 'de semelles liège : 0 f. 80 ]'
+  apres: '\ind[3] de semelles liège : 0^{f}80'
+  justification: 'Ligne en retrait sous « : 2 oeufs » ; petit crochet en tête entre 0 et 8 ; le crochet est à gauche, aucun ] final.'
+  confiance: moyenne
+- ligne: 15
+  avant: Hérissart, village 1 peu
+  apres: Herissart, village à peu
+  justification: a + accent, non 1 ; aucun accent sur le e d'Herissart.
+  confiance: haute
+- ligne: 16
+  avant: plus désert, presque funèbre.
+  apres: près désert, presque funebre
+  justification: 'p-r-e accentué-s : près (à peu près) ; pas d''accent ni de point dans funebre.'
+  confiance: haute
+- ligne: 17
+  avant: extra.
+  apres: \inc{extre}
+  justification: e-x-t-r-e + long délié ; aucun a ni point.
+  confiance: moyenne
+- ligne: 21
+  avant: etc. —
+  apres: etc —
+  justification: Pas de point après etc.
+  confiance: moyenne
+- ligne: 22
+  avant: brouillard & boue.
+  apres: brouillard & bruine
+  justification: 'b-r-u-i (point)-n-e avec long délié : bruine, non boue.'
+  confiance: haute
+- ligne: 24
+  avant: fourrage. Petit
+  apres: fourrage Petit
+  justification: Aucun point visible.
+  confiance: moyenne
+- ligne: 25
+  avant: à côté de Montigny.
+  apres: à côt de Montigny
+  justification: c-o (accent)-t puis de ; aucun é final.
+  confiance: moyenne
+- ligne: 27
+  avant: rangé paquets —
+  apres: \ind rangé paquets —
+  justification: Ligne commencée en retrait.
+  confiance: moyenne
+difficultes:
+- ligne: 7
+  lemme: \inc{rendent}
+  analyse: r à boucle d'attaque, e ; le jambage plongeant qui traverse le mot est la queue du q de « pittoresque » (l. 6) ; puis d bouclé, hampe (t ?) et n en délié. Sens sûr (brouillard et pluie rendent paysages banals), forme non assurée.
+  alternatives:
+  - rendt
+  - rendent
+- ligne: 8
+  lemme: à 1^{H} \fr{1}{2}
+  analyse: Virgule, a ouvert + crochet montant (accent) ; 1, H surélevé, 2 au-dessous ; le 1 et la barre de la fraction se confondent avec des tracés descendant de la l. 7.
+  alternatives:
+  - de 1^{H} \fr{1}{2}
+  - à 1^{H} 2
+- ligne: 9
+  lemme: \inc{abomibles}
+  analyse: a, b, o, minimes (m), i pointé, deux hautes boucles, long délié remontant ; forme contractée d'abominables.
+  alternatives:
+  - abominbles
+  - abomles
+- ligne: 14
+  lemme: 0^{f}80
+  analyse: Le tiret au-dessus du 0 (précédé d'un point) termine la l. 13 ; entre 0 et 8, trait oblique court descendant vers la tête du 8, pris pour le f monétaire.
+  alternatives:
+  - 0'80
+  - '0.80'
+- ligne: 17
+  lemme: \inc{extre}
+  analyse: e, x en croix, t, r, puis lettre fermée en boucle haute (e surmonté d'un circonflexe fondu, ou a) et délié jusqu'au bord ; aucun point.
+  alternatives:
+  - extrê
+  - extra
+- ligne: 25
+  lemme: côt
+  analyse: c (ou e) bouclé, accent au-dessus, o ouvert (aspect a), t barré ; rien après le t.
+  alternatives:
+  - côté
+  - cat
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Points signalés vérifiés sur l''image (zooms x3) : « rendent » et « abomibles » restent incertains ; le reste de la note (sources, distances, champ lieux) ne relève pas de l''image.'
+  alternatives: []
+controle:
+- ligne: 8
+  avant: 'apparat : à 1^{H} \fr{1}{2} (lecture, note longue)'
+  apres: 'deux entrées : lecture « à » ; abréviation « une heure et demie »'
+  justification: Séparer la lecture nouvelle du développement ; épuration de la note.
+- ligne: 9
+  avant: 'apparat : \inc{abomibles} (lecture avec analyse lettre à lettre)'
+  apres: abréviation « abominables » + lecture brève
+  justification: Développement donné à part ; analyse paléographique renvoyée aux difficultés.
+- ligne: 16
+  avant: aucune entrée
+  apres: 'lecture : près, non « plus »'
+  justification: Lecture nouvelle par rapport à la transcription antérieure (p-r-e accentué-s vérifié au zoom .03 .54 .32 .60).
+- ligne: 22
+  avant: aucune entrée
+  apres: 'lecture : bruine, non « boue »'
+  justification: Lecture nouvelle par rapport à la transcription antérieure, vérifiée sur la tuile t6d.
+- ligne: 17
+  avant: '\inc{extre} : une seule entrée abreviation mêlant lecture'
+  apres: abréviation « extrême » + lecture brève (autre lecture extra)
+  justification: Finale bouclée en tête (zoom .72 .56 .97 .62) ; doute maintenu.
+remarques: Le tiret au-dessus du 0 (l. 14) termine la l. 13. Le petit crochet isolé vers x .20 y .50 (au-dessus de « Après-midi », l. 15) est un point d'i déporté de « midi », non une quantité devant « de semelles ».
+resume: Le 21 février 1917, par temps de brume, de bruine et de dégel, Hippolyte Combes va le matin à Auxi-le-Château ; il s'arrête à Doullens vers 1 h 30 pour déjeuner et rentre par Puchevillers sur des routes défoncées, avec un sentiment de solitude et de détresse morale. À Doullens, il envoie un mandat de 42 francs à Mme Spagnol, à Nice, et achète des œufs, un café et des semelles de liège. Le 22, journée monotone et libre au bureau ou avec ses propriétaires. Le 23, il cherche du fourrage à Molliens-au-Bois, près de Montigny, puis range ses paquets.
+noms:
+  personnes:
+  - forme: Spagnol
+    ligne: 12
+    identite: Mme Spagnol, de Nice, destinataire d'un mandat
+  lieux:
+  - forme: Auxi-le-Chateau
+    ligne: 5
+    identite: Auxi-le-Château (Pas-de-Calais)
+  - forme: Doullens
+    ligne: 6
+    identite: Doullens (Somme)
+  - forme: Puchevillers
+    ligne: 9
+    identite: Puchevillers (Somme)
+  - forme: Nice
+    ligne: 12
+    identite: Nice (Alpes-Maritimes)
+  - forme: Herissart
+    ligne: 15
+    identite: Hérissart (Somme)
+  - forme: Molliens-au-Bois
+    ligne: 23
+    identite: Molliens-au-Bois (Somme)
+  - forme: Montigny
+    ligne: 25
+    identite: Montigny-sur-l'Hallue (Somme)
+source: contrôle

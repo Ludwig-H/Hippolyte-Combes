@@ -1,0 +1,211 @@
+cliche: 99
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 15 Me. \hfill Novbre 1916 / Toute la nuit, encore,
+  apres: \sl{15 \inc{Me}} Toute la nuit, encore \hfill Nov^{bre} \sl{1916}
+  justification: la note est écrite sur la ligne de la date, entre celle-ci et le mois ; aucun point après Me ni virgule après encore ; bre suscrit ; date et millésime soulignés ; Me douteux (seconde lettre d'aspect a)
+  confiance: moyenne
+- ligne: 2
+  avant: et durant journée, principt à l'aube, très
+  apres: et durant journée, principt à l'aube très
+  justification: 'aucune virgule après l''aube : le crochet pris pour une virgule est la tête du A d''Ancre (l. 3), qui se prolonge dans sa jambe droite épaisse'
+  confiance: moyenne
+- ligne: 3
+  avant: violente canonnade vers Beaumont s/ Ancre.
+  apres: violente canonnade vers Beaumont s/ Ancre \trait
+  justification: 'aucun point : délié final prolongé jusqu''à la marge'
+  confiance: haute
+- ligne: 4
+  avant: Très belle journée ensoleillée.
+  apres: \ind Très belle journée ensoleillée.
+  justification: alinéa
+  confiance: haute
+- ligne: 5
+  avant: Matin, venu en auto à Albert. Rentré de =
+  apres: Matin, venu en auto à Albert Rentré de =
+  justification: aucun point après Albert, dont la barre du t file vers Rentré
+  confiance: moyenne
+- ligne: 6
+  avant: Passé au bureau mission frse. Rien de
+  apres: Passé au bureau mission fr^{se}. Rien de
+  justification: se suscrit
+  confiance: haute
+- ligne: 7
+  avant: nouveau me concernant.
+  apres: nouveau me concernant
+  justification: aucun point
+  confiance: moyenne
+- ligne: 9
+  avant: village —
+  apres: village –
+  justification: tiret court
+  confiance: moyenne
+- ligne: 10
+  avant: '[ Cartes ples : Acheux : 35 c. — Journaux : 40 c'
+  apres: '\crochet{2}Cartes ples : Acheux : 35c. — Journaux : 40c'
+  justification: grand crochet de deux lignes, précédé d'un tiret marginal ; c accolé aux chiffres
+  confiance: haute
+- ligne: 11
+  avant: 'Washing : 65 c — ]'
+  apres: 'Washing : 65c –'
+  justification: tiret court ; aucun crochet fermant
+  confiance: haute
+- ligne: 12
+  avant: 16 J. — Matinée, toujours très violent bombardemt.
+  apres: 16 J – Matinée toujours très violent bombardt
+  justification: petit tiret sans point après J ; aucune virgule après Matinée ; bombardt sans em (b-o-m-b-a-r-d-t) ; aucun point final
+  confiance: moyenne
+- ligne: 14
+  avant: trembler.
+  apres: trembler
+  justification: aucun point ; -er étiré en long trait
+  confiance: moyenne
+- ligne: 17
+  avant: 'Matin & après-midi, en auto :'
+  apres: \ind Matin & après-midi, en auto
+  justification: alinéa ; la barre prolongée du t d'auto, terminée en massue, n'est suivie d'aucun deux-points
+  confiance: haute
+- ligne: 18
+  avant: Raincheval, Louvencourt, Toutencourt etc.
+  apres: Raincheval Louvencourt, Toutencourt etc.
+  justification: aucune virgule après Raincheval (le crochet voisin est la tête du H d'Hérissart, l. 19) ; virgule en trait vertical à point après Louvencourt
+  confiance: moyenne
+- ligne: 19
+  avant: Déjeuné à Hérissart ch. Lt Walsh et
+  apres: Déjeuné à Hérissart chz Lt Walsh et
+  justification: c, h bouclé, z plongeant, sans point
+  confiance: haute
+- ligne: 20
+  avant: avec son interprète. Fort apprécié ce dernier
+  apres: avec son interp^{te}. Fort apprécié ce dernier
+  justification: 'mot abrégé : interp + te suscrit'
+  confiance: haute
+- ligne: 21
+  avant: M. [blanc], directeur d'1 usine
+  apres: M. \hfill , directeur d'1 usine
+  justification: blanc rendu par la disposition ; virgule en long trait au bout du blanc
+  confiance: moyenne
+- ligne: 22
+  avant: (tissus) près Paris. Intelligent & distingué.
+  apres: (\inc{tiss}) près Paris. Intelligent & distingué
+  justification: seules quatre ou cinq lettres avant la parenthèse fermante, sans finale -us ; lecture incertaine ; aucun point final
+  confiance: basse
+difficultes:
+- ligne: 1
+  lemme: \inc{Me}
+  analyse: 'M à long délié d''attaque et trois jambages, puis un ovale fermé à hauteur d''œil, refermé à droite par un jambage, et un délié : aspect d''un a ; l''e de « 22 Me » (102 l. 1) est une boucle plus haute qu''ovale. Le calendrier (15 novembre 1916 = mercredi ; 16 J, 17 Ven.) impose Me ; Ma serait un lapsus d''après le 14 Ma^{rdi} (098)'
+  alternatives:
+  - Me
+  - Ma
+- ligne: 5
+  lemme: de =
+  analyse: 'après Rentr- : petite boucle surmontée d''une crosse (é), puis une panse portant une haste oblique d''environ 1,5 œil (d) et une boucle (e), enfin deux traits superposés, le supérieur plus court (=) ; la première lecture ne voyait que Rentré =, mais ces tracés ne s''expliquent ni par l''accent ni par le délié'
+  alternatives:
+  - Rentré de =
+  - Rentré =
+- ligne: 10
+  lemme: Cartes ples
+  analyse: p à haste descendante, l haut, puis deux petits traits (e et s réduit) avant un long délié et le deux-points
+  alternatives:
+  - ples
+  - ple
+- ligne: 10
+  lemme: 'Journaux : 40c'
+  analyse: un seul point net après l'x, dont le second trait monte à hauteur du point supérieur ; 4 fermé (aspect ∂), 0 étroit, c à long délié
+  alternatives:
+  - 'Journaux : 40c'
+  - Journaux . 40c
+- ligne: 16
+  lemme: fortt
+  analyse: f, o, r, puis deux hastes épaisses sous une même barre longue ; la retombée du S de Soleil (l. 15) descend jusqu'au sommet de la seconde haste, qui pourrait lui appartenir (fort) ; le tracé épais plaide pour un second t (cf. fort^{t}, 100)
+  alternatives:
+  - fortt
+  - fort
+- ligne: 18
+  lemme: Raincheval Louvencourt,
+  analyse: après le l final de Raincheval, aucun trait jusqu'à Louvencourt, hors la tête du H d'Hérissart (l. 19) ; après Louvencourt, trait vertical à point, de la ligne de tête sous la ligne de base, au-dessus du L de Lt
+  alternatives:
+  - Raincheval Louvencourt,
+  - Raincheval, Louvencourt,
+- ligne: 22
+  lemme: \inc{tiss}
+  analyse: 'après la parenthèse : délié d''attaque et première hampe épaisse, seconde hampe portant à mi-hauteur un crochet vers la droite, jambage surmonté d''un point en tiret (i), deux hampes obliques (ss montants), puis la parenthèse fermante, épaisse en tête ; aucune finale -us. Les deux premières hampes font t (initial bouclé) ou W'
+  alternatives:
+  - tiss
+  - tissus
+  - Weiss
+  - Wiss
+- ligne: 14
+  lemme: trembler
+  analyse: 't barré, r, e, m, b et l bouclés, e, puis long trait horizontal terminé en crochet descendant : -er abrégé ou r final étiré'
+  alternatives:
+  - trembler
+  - tremble
+- ligne: 1
+  lemme: Toute
+  analyse: haste précédée d'un délié d'attaque, barre en tête (T à crochet), au module d'un t
+  alternatives:
+  - Toute
+  - toute
+controle:
+- ligne: 1
+  avant: \sl{15 Me}
+  apres: \sl{15 \inc{Me}}
+  justification: 'la seconde lettre, ovale fermé à jambage droit, a la forme d''un a (Ma) alors que le 15 novembre 1916 est un mercredi : doute signalé, Me retenu d''après le calendrier'
+- ligne: 2
+  avant: principt à l'aube, très
+  apres: principt à l'aube très
+  justification: la prétendue virgule est la tête du A d'Ancre (l. 3), continue avec sa jambe droite
+- ligne: 5
+  avant: Albert Rentré =
+  apres: Albert Rentré de =
+  justification: 'entre Rentré et le signe =, une panse à haste oblique (d) et une boucle (e) : de = (de même), comme l''état antérieur'
+- ligne: 10
+  avant: '\crochet{2}Cartes ple :'
+  apres: '\crochet{2}Cartes ples :'
+  justification: après le l, deux petits traits (e et s réduit) précèdent le délié final
+- ligne: 18
+  avant: Raincheval, Louvencourt,
+  apres: Raincheval Louvencourt,
+  justification: aucune virgule après Raincheval ; le seul tracé voisin est la tête du H d'Hérissart (l. 19)
+- ligne: 22
+  avant: (\inc{tissus})
+  apres: (\inc{tiss})
+  justification: 'aucune finale -us n''est écrite : on transcrit les lettres visibles, le développement et l''autre lecture (Weiss) vont dans l''apparat'
+remarques: 'La l. 1 réunit date, début du texte et mois (l''état antérieur en faisait deux lignes) : la numérotation est décalée d''une unité par rapport à l''état antérieur. Contrôle : apparat épuré (justifications paléographiques et notes de disposition redondantes avec le balisage supprimées) ; critique vidée, l''opposition de deux encres avancée par la première lecture n''étant pas vérifiable sur les tuiles (le point isolé sous bombardt, l. 12–13, est sans portée). Le tiret marginal qui précède le crochet (l. 10) ne peut être balisé devant \crochet, reconnu seulement en début de ligne par balisage.py : il est signalé dans l''apparat. Le bureau de la mission fr^{se} (l. 6) est celui de la Mission française auprès de l''armée britannique, à Albert.'
+resume: Le mercredi 15 novembre 1916, la canonnade reste très violente vers Beaumont-sur-Ancre, toute la nuit et le jour, surtout à l'aube, par une très belle journée ensoleillée. Le matin, Combes fait l'aller et retour en auto à Albert, où il passe au bureau de la Mission française sans y trouver de nouvelle le concernant ; l'après-midi, libre, il se promène au village et note ses menues dépenses (cartes postales d'Acheux, journaux, blanchissage). Le jeudi 16, le bombardement fait trembler vitres et fenêtres ; il a fortement gelé et la bise est froide malgré le soleil. En auto toute la journée (Raincheval, Louvencourt, Toutencourt), il déjeune à Hérissart chez le lieutenant Walsh avec l'interprète de celui-ci, directeur d'une usine près de Paris, homme intelligent et distingué dont il laisse le nom en blanc.
+noms:
+  personnes:
+  - forme: Lt Walsh
+    ligne: 19
+    identite: lieutenant britannique, cantonné à Hérissart (099–120)
+  - forme: M.
+    ligne: 21
+    identite: interprète du lieutenant Walsh, directeur d'une usine près de Paris ; nom laissé en blanc (peut-être Deloney, interprète du Lt Walsh au cliché 103)
+  lieux:
+  - forme: Beaumont s/ Ancre
+    ligne: 3
+    identite: Beaumont-Hamel (Somme), sur l'Ancre
+  - forme: Albert
+    ligne: 5
+    identite: Albert (Somme)
+  - forme: Acheux
+    ligne: 10
+    identite: Acheux-en-Amiénois (Somme), cantonnement d'Hippolyte Combes
+  - forme: Raincheval
+    ligne: 18
+    identite: Raincheval (Somme)
+  - forme: Louvencourt
+    ligne: 18
+    identite: Louvencourt (Somme)
+  - forme: Toutencourt
+    ligne: 18
+    identite: Toutencourt (Somme)
+  - forme: Hérissart
+    ligne: 19
+    identite: Hérissart (Somme)
+  - forme: Paris
+    ligne: 22
+    identite: Paris
+source: contrôle

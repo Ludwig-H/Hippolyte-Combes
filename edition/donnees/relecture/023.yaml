@@ -1,0 +1,149 @@
+cliche: 23
+confiance: moyenne
+changements:
+- ligne: 3
+  avant: 'Partie de l''après-midi : assez beau –'
+  apres: Partie de l'après-midi, asz beau –
+  justification: un seul trait vertical après midi (virgule) ; mot court a-s-z plongeant, abréviation asz
+  confiance: moyenne
+- ligne: 5
+  avant: green forage, puis, café et rhum chez
+  apres: green forage, puis café et rhum chz
+  justification: le trait avant et est l'accent de café décalé ; c-h + z plongeant, pas de e
+  confiance: haute
+- ligne: 6
+  avant: le propre, M. Barbry — y [illis.] amené
+  apres: le propre M. Barbry y C^{tis} amené
+  justification: C bouclé + tis surélevé (cf. l. 4 et guide piège 16) ; pas de virgule après propre ; le trait fin après Barbry est la queue du y
+  confiance: haute
+- ligne: 9
+  avant: Moral devenu excellent. Réagi contre
+  apres: Moral \inc{redevenu} excellent Réagi contre
+  justification: un e lié précède devenu ; aucun point après excellent
+  confiance: moyenne
+- ligne: 10
+  avant: dépression des jours précédents. Me [illis.]
+  apres: depression des jours précédents – Me \inc{fich} \ill
+  justification: aucun accent sur le premier e ; tiret bas avant Me ; f + c + h lisibles, sans biffure
+  confiance: basse
+- ligne: 11
+  avant: prépare déjà départ semaine prochaine
+  apres: \inc{Repare} déjà départ semaine prochaine
+  justification: majuscule de même forme que le R de Réagi, suivie de e-p-a-r-e ; pas de r supplémentaire
+  confiance: moyenne
+- ligne: 12
+  avant: 'de ma fenêtre : haute & large, découvre'
+  apres: de ma fenêtre ; haute & large, découvre
+  justification: point haut + virgule verticale, non deux points
+  confiance: moyenne
+- ligne: 13
+  avant: 'gd horizon : prairies, champs, boqueteaux'
+  apres: 'gd \inc{horizons} : prairies, champs, boqueteaux'
+  justification: 'après z : o, deux jambages et finale plongeante'
+  confiance: basse
+- ligne: 17
+  avant: Fin jour très belle mervx sunset, que
+  apres: Fin jour trè belle merv^{x} sunset, que
+  justification: t-r-e sans s finale ; trait haut détaché au-dessus du e (accent ou barre du t) ; x suscrit
+  confiance: moyenne
+- ligne: 19
+  avant: nuages frangés d'or étincelant
+  apres: nuages, frangés d'or etincelant
+  justification: virgule basse après nuages ; pas d'accent sur l'initiale, le trait est la barre du t
+  confiance: moyenne
+- ligne: 20
+  avant: Allégé mes bagages en
+  apres: Allége mes bagages en
+  justification: un seul accent, au-dessus du g ; finale sans accent
+  confiance: moyenne
+- ligne: 21
+  avant: expédiant 1 sac à Nogent.
+  apres: expédiant 1 sac à Nogent –
+  justification: tiret détaché après la barre du t, pas de point
+  confiance: moyenne
+- ligne: 23
+  avant: '[ — A Proprie : 5 f (cooking, washing, & eggs)'
+  apres: '\crochet{2}— A Proprie : 5^{f} (cooking, washing & 2 eggs)'
+  justification: crochet à deux pieds couvrant 2 lignes ; f suscrit ; 2 bouclé devant eggs (guide piège 9) ; pas de virgule après washing
+  confiance: haute
+- ligne: 24
+  avant: 'A mon groom : 2 f – Varia : 10 c –'
+  apres: 'A mon groom : 2 — \hfill Varia : 10c —'
+  justification: 'aucun f après le 2 : seul un tiret épais'
+  confiance: moyenne
+difficultes:
+- ligne: 10
+  lemme: Me \inc{fich} \ill
+  analyse: f à grande boucle de tête, petit c (ou e), h ; puis deux hastes épaisses parallèles reliées par une traverse oblique (aspect H), un point sous la seconde (aspect « ! ») ; le tiret à droite appartient à la l. 11. Aucune biffure.
+  alternatives:
+  - Me fiche !!
+  - Me fâche
+- ligne: 11
+  lemme: \inc{Repare}
+  analyse: trait d'attaque sur la ligne, haste, boucle haute et jambe (R), identique au R de Réagi l. 9 ; puis e, p descendant, a, r, e ; le sens attend Prépare.
+  alternatives:
+  - Prépare
+  - Répare
+- ligne: 9
+  lemme: \inc{redevenu}
+  analyse: après le l de Moral, un e lié (r initial réduit ou fondu dans la liaison) puis d bouclé, e, v, e, n, u.
+  alternatives:
+  - devenu
+- ligne: 13
+  lemme: \inc{horizons}
+  analyse: h-o-r-i-z, puis o, deux jambages et un trait final plongeant détaché du n.
+  alternatives:
+  - horizon
+- ligne: 17
+  lemme: trè
+  analyse: t, r en pointe, e ; trait horizontal détaché au-dessus du e, à hauteur de la barre du t ; rien après le e.
+  alternatives:
+  - tre
+  - très
+- ligne: 22
+  lemme: \inc{Steenwerk}
+  analyse: S-t-e-e-n-w, puis panse (e-r) et deux hastes (k) ; aucun c distinct ; 024 écrit Steenwerck.
+  alternatives:
+  - Steenwerck
+- ligne: 23
+  lemme: eggs)
+  analyse: 'dernier tracé recourbé montant à droite : parenthèse fermante ou finale de s ; le & est de la forme à drapeau.'
+  alternatives:
+  - eggs
+controle:
+- ligne: 17
+  avant: Fin jour très belle merv^{x} sunset, que
+  apres: Fin jour trè belle merv^{x} sunset, que
+  justification: zoom ×3 [0 .62 .40 .68] — t, r, e et trait haut détaché ; aucune s finale ; transcrire l'image, développement en apparat
+- ligne: 0
+  avant: 'lieux : Erquinghem-Lys et Steenwerck (Nord)'
+  apres: 'lieux : Steenwerck (Nord)'
+  justification: Erquinghem n'apparaît pas sur la page (remarque du commentateur) ; seul Steenwerck est un lieu où Hippolyte Combes se rend
+- ligne: 23
+  avant: 'apparat : « 2 eggs) » disposition, traduction incluse'
+  apres: 'apparat : emprunt « 2 eggs » (deux œufs) + disposition'
+  justification: chaque mot anglais doit avoir sa traduction propre ; difficulté « rature » retirée des alternatives de la l. 10 (aucune biffure)
+remarques: Fin de l. 10 non résolue ; les comptes de la l. 23 débordent sous la l. 24. Lieux réduit à Steenwerck (Erquinghem-Lys n'apparaît pas sur la page).
+resume: 'Dimanche 20 août 1916 : averses et éclaircies ; avec Curtis, Hippolyte Combes va aux champs chercher du fourrage vert, puis prend café et rhum chez le propriétaire, M. Barbry, où Curtis a amené les adjudants Lupin et Schumacher. Le moral est redevenu excellent ; il prépare le départ de la semaine suivante et décrit le paysage plat vu de sa fenêtre. Lundi 21 : belle journée et coucher de soleil frangé d''or ; il allège ses bagages en expédiant un sac à Nogent et se rend à cheval à Steenwerck. Comptes : 5 francs au propriétaire, 2 francs au groom, 10 centimes divers.'
+noms:
+  personnes:
+  - forme: C^{tis}
+    ligne: 4
+    identite: Curtis, lieutenant britannique de la compagnie
+  - forme: M. Barbry
+    ligne: 6
+    identite: Barbry, propriétaire du logement d'Hippolyte Combes
+  - forme: Lupin
+    ligne: 7
+    identite: adjudant français, non identifié
+  - forme: Schumacher
+    ligne: 7
+    identite: adjudant ; Schuhmacher chez Banks & Chell (1924), à vérifier
+  lieux:
+  - forme: Nogent
+    ligne: 21
+    identite: Nogent (destination d'un sac expédié)
+  - forme: Steenwerk
+    ligne: 22
+    identite: Steenwerck (Nord)
+source: contrôle

@@ -1,0 +1,131 @@
+cliche: 41
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sur pied, dès 5 H — \hfill Septbre /16
+  apres: Sur pied, \inc{dès} 5^{H} — \hfill \sl{Sept^{bre} /16}
+  justification: H et finale de Sept suscrits ; soulignements de la date ; « dès » douteux (d + deux minimes, accent détaché)
+  confiance: moyenne
+- ligne: 2
+  avant: dérangé sur matin
+  apres: \ind[2] Derangé sur matin
+  justification: initiale en ∂ de module majuscule, aucun accent sur le premier e ; ligne courte en retrait sous le soulignement de la date
+  confiance: moyenne
+- ligne: 5
+  avant: arrivés
+  apres: arrivé
+  justification: 'après le v : e + accent haut détaché, aucun s final'
+  confiance: haute
+- ligne: 6
+  avant: Aujd’hui
+  apres: aujd'hui
+  justification: a minuscule au module d'œil
+  confiance: moyenne
+- ligne: 7
+  avant: A 11H m.
+  apres: \inc{At} 11^{H} m.
+  justification: A pointu suivi d'un t à barre ; H suscrit
+  confiance: moyenne
+- ligne: 11
+  avant: Edit de Louis XI. 1464 / des postes (ligne propre)
+  apres: Edit de \inc{Ls} XI, \add{des postes} 1464
+  justification: 'Louis abrégé : L + trait plongeant ; « des postes » est un ajout sous la ligne, non une ligne ; virgule après XI'
+  confiance: moyenne
+- ligne: 12
+  avant: village aux
+  apres: village ( aux
+  justification: petit signe courbe en c entre village et aux
+  confiance: moyenne
+- ligne: 14
+  avant: troupes y
+  apres: troupes, y
+  justification: virgule verticale nette après troupes
+  confiance: haute
+- ligne: 17
+  avant: mais braves gens. Fille aînée, prête à accoucher
+  apres: ', mais braves gens. Fille ainée, prête à accoucher'
+  justification: virgule de pauvres rejetée en tête de ligne ; ainée sans circonflexe ; virgule verticale entre ainée et prête
+  confiance: moyenne
+- ligne: 18
+  avant: mangé tjs au mess off
+  apres: mangé tjs au mess off \trait
+  justification: délié final de off prolongé en long trait
+  confiance: haute
+- ligne: 19
+  avant: '[ — Tip au groom Connelly : 1 f –'
+  apres: '\crochet{3}— Tip au groom Connelly : 1^{f} —'
+  justification: grand crochet à pied couvrant trois lignes (Tip, Oeufs, cartes) ; f suscrit
+  confiance: haute
+- ligne: 21
+  avant: '6 cartes ples de Raincheval : 30 c'
+  apres: '6 cartes ples de Raincheval : 30 c \trait'
+  justification: délié du c prolongé jusqu'à la marge
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: dès 5^{H}
+  analyse: d en ∂, deux minimes (u ou es réduit), accent appuyé détaché au-dessus et à droite, séparé du drapeau du 5 (zoom ×3) ; dès ou du
+  alternatives:
+  - du 5^{H}
+- ligne: 7
+  lemme: At
+  analyse: A pointu, petite boucle de liaison, haute haste coupée d'une barre (t) ; la boucle pourrait appartenir à un b (angl. abt, about)
+  alternatives:
+  - A
+  - Abt
+- ligne: 11
+  lemme: Ls
+  analyse: L bouclé en ℒ, trait descendant sous la ligne (s plongeant ou i), crochet au-dessus à droite (point ou accent)
+  alternatives:
+  - Li
+- ligne: 12
+  lemme: (
+  analyse: signe en c à hauteur d'œil, différent des virgules verticales de la page (Raincheval, troupes, ainée) ; parenthèse ouvrante jamais refermée, comme ailleurs
+  alternatives:
+  - ','
+- ligne: 19
+  lemme: Connelly
+  analyse: C, petite boucle (o lu r), trois minimes, e, ll, y ; le tracé donne Crunelly ou Conelly, le nom est assuré par les autres clichés
+  alternatives:
+  - Conelly
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié sur l''image : « Connelly » est assuré par les autres clichés, non par le tracé (aspect Crunelly) ; le reste de la remarque (sources, Le Souich / Ivergny) ne relève pas de la lecture.'
+  alternatives: []
+controle:
+- ligne: 11
+  avant: Edit de \inc{Ls} XI. \add{des postes} 1464
+  apres: Edit de \inc{Ls} XI, \add{des postes} 1464
+  justification: après XI, un seul signe, vertical à tête appuyée et queue descendante (virgule), non un point ; le trait de rappel de l'ajout remonte vers lui
+- ligne: 12
+  avant: Raincheval, très gros village aux
+  apres: Raincheval, très gros village ( aux
+  justification: signe courbe en c entre village et aux, omis ; distinct des virgules verticales de la page
+- ligne: 0
+  avant: apparat de 21 entrées (dont disposition l. 2, signe l. 17, note historique l. 11)
+  apres: apparat épuré ; note historique reportée dans critique ; signe l. 12 ajouté
+  justification: notes de disposition redondantes avec le balisage ; justifications paléographiques reportées dans difficultes
+remarques: Le point après poussière (l. 6) est isolé à droite et pourrait être un point d'i de la ligne inférieure. Un accent isolé au-dessus de la fin de verdoyante (l. 10) n'a pas été transcrit. Le point après 7H (l. 3) est éloigné et pourrait venir de la ligne inférieure.
+resume: 'Lundi 11 septembre 1916, Hippolyte Combes quitte Oppy à 7 heures et chevauche toute la journée jusqu''à Raincheval, atteint après 3 heures du soir, souffrant de la poussière. Le soleil perce vers 11 heures. Il traverse des coteaux boisés et une vallée verdoyante, s''arrête à Lucheux, où il note l''édit des postes de Louis XI (1464). Raincheval, gros village mal entretenu, fourmille de troupes britanniques ; il loge chez une famille pauvre dont la fille aînée va accoucher. Comptes : pourboire au groom Connelly, œufs, cartes postales, bière.'
+noms:
+  personnes:
+  - forme: Ls XI
+    ligne: 11
+    identite: Louis XI, roi de France
+  - forme: Connelly
+    ligne: 19
+    identite: groom (ordonnance) britannique d'Hippolyte Combes
+  lieux:
+  - forme: Oppy
+    ligne: 3
+    identite: Oppy, hameau de Beaudricourt (Pas-de-Calais)
+  - forme: Raincheval
+    ligne: 5
+    identite: Raincheval (Somme)
+  - forme: Lucheux
+    ligne: 11
+    identite: Lucheux (Somme)
+  - forme: Thièvres
+    ligne: 20
+    identite: Thièvres (Pas-de-Calais / Somme)
+source: contrôle

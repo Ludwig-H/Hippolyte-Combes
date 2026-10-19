@@ -1,0 +1,191 @@
+cliche: 124
+confiance: moyenne
+changements:
+- ligne: 3
+  avant: mais sec.
+  apres: mais \inc{sec}
+  justification: seul « se » est visible, le reste est coupé par le bord du cliché ; aucun point visible.
+  confiance: moyenne
+- ligne: 4
+  avant: Après-midi
+  apres: aprè-midi
+  justification: a initial au module d'une minuscule ; après p, r et è accentué puis trait d'union bas, aucun s.
+  confiance: moyenne
+- ligne: 5
+  avant: Bouzincourt,
+  apres: Bouzincourt
+  justification: aucune virgule entre Bouzincourt et Senlis ; le trait au-dessus est le point du i.
+  confiance: moyenne
+- ligne: 6
+  avant: paille.
+  apres: paille
+  justification: aucun point après paille.
+  confiance: moyenne
+- ligne: 7
+  avant: Au retour
+  apres: au retour
+  justification: a initial ouvert, de la taille des minuscules suivantes.
+  confiance: moyenne
+- ligne: 8
+  avant: Hérissart
+  apres: Herissart
+  justification: aucun accent sur le e ; le seul point au-dessus est celui du i.
+  confiance: haute
+- ligne: 9
+  avant: 'encore couverts neige : gdes & mornes étendues'
+  apres: 'encore – couverte neige : g^{de} & mornes étendue'
+  justification: petit tiret après encore ; finale bouclée en e à couverte ; g suivi de de suscrit sans s ; étendue terminé par un délié horizontal sans s.
+  confiance: moyenne
+- ligne: 10
+  avant: blanches.
+  apres: blanches \trait
+  justification: délié final prolongé, pas de point.
+  confiance: haute
+- ligne: 11
+  avant: '[ — Ctes ples : 30 c. ]'
+  apres: '\ind[2] — C^{tes} p^{les} : 35 c'
+  justification: aucun crochet ; second chiffre = longue haste oblique descendante (5 en ſ), pas d'ovale ; finales suscrites.
+  confiance: moyenne
+- ligne: 13
+  avant: jardins, rues
+  apres: jardins rues
+  justification: aucune virgule entre jardins et rues (virgules nettes après toits et rues).
+  confiance: moyenne
+- ligne: 14
+  avant: j'à
+  apres: jà
+  justification: j + a ouvert surmonté d'un long trait (accent) ; pas d'apostrophe.
+  confiance: moyenne
+- ligne: 15
+  avant: ch. M. Renard. Jusqu'à
+  apres: chz M. Renard. \inc{Jusqà}
+  justification: 'c-h puis haste plongeante (z), sans point ; Jusqu''à abrégé : J, us, q, long accent, pas d''apostrophe.'
+  confiance: moyenne
+- ligne: 16
+  avant: Au-delà
+  apres: Au delà
+  justification: aucun trait d'union.
+  confiance: moyenne
+- ligne: 17
+  avant: boisés.
+  apres: boisés
+  justification: pas de point.
+  confiance: moyenne
+- ligne: 20
+  avant: notamt et surtout un coffret
+  apres: notam et surtout \inc{un} coffret
+  justification: après notam, un délié horizontal à hauteur de la ligne de base, sans haste de t ; le mot avant coffret a un premier trait haut et plongeant (1 ? le ?).
+  confiance: moyenne
+- ligne: 21
+  avant: Toulon.
+  apres: Toulon
+  justification: le long trait épais après Toulon est le délié final, pas de point.
+  confiance: moyenne
+- ligne: 22
+  avant: neige fine, tourmente
+  apres: neige fine \sl{tourmente} \ill
+  justification: pas de virgule après fine ; tourmente souligné d'un trait propre ; d bouclé coupé au bord droit après tourmente.
+  confiance: moyenne
+- ligne: 23
+  avant: rafales.
+  apres: rafales \trait
+  justification: délié final prolongé jusqu'au milieu de la page, sans point.
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: \inc{sec}
+  analyse: s montant bouclé, e à long délié qui file jusqu'au bord droit du cliché ; le c éventuel est hors champ (zoom [.82 .06 1.0 .12]).
+  alternatives:
+  - se…
+- ligne: 9
+  lemme: couverte
+  analyse: c-o-u-v-e-r-t + petite boucle fermée finale avec délié ; s réduit à un crochet possible.
+  alternatives:
+  - couverts
+- ligne: 11
+  lemme: 35 c
+  analyse: '3 à deux panses ; puis une longue haste oblique partant au-dessus de la ligne et descendant très bas, avec un léger drapeau de tête : 5 en ſ ; aucun ovale de 0 ; c final (zoom [.28 .32 .50 .40]).'
+  alternatives:
+  - 30 c
+- ligne: 15
+  lemme: \inc{Jusqà}
+  analyse: J à boucle inférieure, groupe us réduit (aspect y), q à haste, long trait au-dessus = accent ; mot serré, détail incertain (zoom [.72 .52 1.0 .59]).
+  alternatives:
+  - Jusqu'à
+  - Jusq.
+- ligne: 20
+  lemme: notam
+  analyse: n-o-t-a-m puis long trait horizontal à hauteur de la ligne de base, lié au e de « et » ; ce n'est pas une barre de t (trop bas) ni un t final (aucune haste).
+  alternatives:
+  - notamt
+- ligne: 20
+  lemme: \inc{un}
+  analyse: long trait oblique épais montant au-dessus de l'œil et descendant sous la ligne, puis arche et délié horizontal (zoom [.48 .72 .68 .78]) ; aspect « /n » ou « le ».
+  alternatives:
+  - '1'
+  - le
+- ligne: 22
+  lemme: \ill
+  analyse: après tourmente, un d bouclé (∂) coupé par le bord du cliché (zoom [.86 .79 1.0 .84]).
+  alternatives:
+  - de
+  - '&'
+- ligne: 22
+  lemme: fine
+  analyse: un trait horizontal court sous la fin de neige et le début de fine traverse le haut des f de rafales (l. 23) ; non tenu pour un soulignement, distinct du trait propre sous tourmente.
+  alternatives:
+  - \sl{fine}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Points demandés relus sur l''image : prix des cartes postales (35 c retenu, 30 c possible) et mot coupé après « tourmente » (d…, laissé illisible). M. Renard n''est pas identifié. Sources du commentaire : Nichols 1922, p. 139 ; JMO 7/Bedf de janv. 1917 ; Banks et Chell 1924, p. 172.'
+  alternatives: []
+controle:
+- ligne: 3
+  avant: mais sec
+  apres: mais \inc{sec}
+  justification: seul « se » est visible avant le bord du cliché ; le c n'est pas lisible.
+- ligne: 20
+  avant: notamt
+  apres: notam
+  justification: le trait après m est un délié à hauteur de la ligne de base, non une barre de t ; aucune haste de t final.
+- ligne: 20
+  avant: un coffret
+  apres: \inc{un} coffret
+  justification: premier trait haut et plongeant, inhabituel pour u ; 1 (chiffre) ou le possibles.
+- ligne: 0
+  avant: apparat et critique de la première lecture
+  apres: apparat épuré
+  justification: supprimé les notes « aprè-midi » (faute banale), « boisés » (disposition sans portée), « M. Renard » repassé (déjà dans critique) et la remarque sur les virgules ; ajouté M. (l. 18) ; mention du bord coupé (l. 3 et 22) portée dans la critique.
+remarques: Le bord droit du cliché coupe la fin des l. 3 et 22.
+resume: Le 16 janvier 1917, après une nuit de forte gelée, Hippolyte Combes fait en auto (Sunbeam) une tournée à Bouzincourt, Senlis et Rubempré, où il va de ferme en ferme chercher de la paille ; il revient par Hérissart à Toutencourt dans la campagne enneigée. Le 17, après une nuit de neige abondante, il passe la journée en course jusqu'à Auxi-le-Château, chez M. Renard, qui l'invite à déjeuner et lui montre ses objets d'art, notamment un coffret en paille acheté en 1858 au bagne de Toulon. Tourmente de neige le matin, dégel le soir.
+noms:
+  personnes:
+  - forme: M. Renard
+    ligne: 15
+    identite: habitant d'Auxi-le-Château, collectionneur d'objets d'art
+  lieux:
+  - forme: Bouzincourt
+    ligne: 5
+    identite: Bouzincourt (Somme)
+  - forme: Senlis
+    ligne: 5
+    identite: Senlis-le-Sec (Somme)
+  - forme: Rubempré
+    ligne: 5
+    identite: Rubempré (Somme)
+  - forme: Herissart
+    ligne: 8
+    identite: Hérissart (Somme)
+  - forme: Toutencourt
+    ligne: 8
+    identite: Toutencourt (Somme)
+  - forme: Auxi-le-Château
+    ligne: 15
+    identite: Auxi-le-Château (Pas-de-Calais)
+  - forme: Doullens
+    ligne: 15
+    identite: Doullens (Somme)
+  - forme: Toulon
+    ligne: 21
+    identite: Toulon (Var), bagne
+source: contrôle

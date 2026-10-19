@@ -1,0 +1,177 @@
+cliche: 137
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 1er Jeudi \hfill Février 1917 —
+  apres: 1^{er} \sl{Jeudi} \hfill \sl{Février 1917} —
+  justification: er suscrit ; soulignements visibles
+  confiance: haute
+- ligne: 3
+  avant: brillant.
+  apres: brillant
+  justification: aucun point, long délié final
+  confiance: moyenne
+- ligne: 4
+  avant: Matin, longue visite à Mme
+  apres: matin, longue visite à Mme
+  justification: m initial au module des minuscules
+  confiance: moyenne
+- ligne: 6
+  avant: 11h 1/2
+  apres: 11^{H} \fr{1}{2}
+  justification: H suscrit, fraction empilée
+  confiance: haute
+- ligne: 7
+  avant: Ste-Marie
+  apres: S^{te}-Marie
+  justification: te suscrit
+  confiance: haute
+- ligne: 8
+  avant: Après déjeuner, descendu ville av. Henriette.
+  apres: après déjeuner, descendu ville \inc{et.} av Henriette
+  justification: « et. » net entre ville et av ; av sans point ; a initial minuscule ; pas de point final
+  confiance: moyenne
+- ligne: 9
+  avant: Vers 4h 1/2, à gare, à propos panier fleurs / égaré. A Nazareth, revu tte ma famille.
+  apres: vers 4^{H} \fr{1}{2}, à \add{gare, à propos panier fleurs} Nazareth, revu \inc{tte} ma famille
+  justification: « Vers 4H½, à Nazareth, revu … famille » est sur une seule ligne de base ; « gare … fleurs » est dans l'interligne au-dessus de Nazareth ; aucun « égaré » sur l'image
+  confiance: moyenne
+- ligne: 10
+  avant: ch. Pfister.
+  apres: ch Pfister.
+  justification: pas de point après ch
+  confiance: moyenne
+- ligne: 11
+  avant: pas eu lieu.
+  apres: pas eu lieu –
+  justification: tiret court après lieu
+  confiance: moyenne
+- ligne: 12
+  avant: Ste-Marie —
+  apres: S^{te} Marie —
+  justification: te suscrit, sans trait d'union
+  confiance: moyenne
+- ligne: 13
+  avant: Vers 9h 1/2, à pied j'à rue de Languedoc.
+  apres: vers 9^{H} \fr{1}{2}, à pied j-à rue de Languedoc —
+  justification: H suscrit, fraction empilée, trait d'union court, tiret final
+  confiance: haute
+- ligne: 15
+  avant: complètt
+  apres: complet^{t}
+  justification: t final suscrit, accent non visible
+  confiance: moyenne
+- ligne: 17
+  avant: '[ — Trams : 30 c., 10 c., 20 c., 30 c.'
+  apres: '\equerre{4}Trams : 30c. , 10c. , 20c , 30c.'
+  justification: équerre (trait horizontal en tête, haste descendant jusqu'au bas) ; pas de tiret
+  confiance: haute
+- ligne: 18
+  avant: 'Food (boulanger) : 25 c'
+  apres: 'Food (\inc{boulangeon}) : 25c'
+  justification: finale -geon nette
+  confiance: moyenne
+- ligne: 19
+  avant: 3 f 25
+  apres: 3^{f} \inc{75}
+  justification: chiffre à barre de tête et haste plongeante, différent du 2 bouclé de la l. 18
+  confiance: basse
+- ligne: 20
+  avant: (12 œufs, 1/2 beurre, 1 boulanger) ]
+  apres: (12 œufs, \fr{1}{2} beurre, 1 \inc{boulangeon})
+  justification: fraction empilée ; même mot qu'à la l. 18 ; aucun crochet fermant
+  confiance: moyenne
+difficultes:
+- ligne: 9
+  lemme: gare, à propos panier fleurs
+  analyse: 'baseline à y≈.31, entre la l. 8 (y≈.28) et « vers 4H½, à Nazareth » (y≈.335) ; commence au-dessus de Nazareth, sans rien à sa gauche ; même encre et module : insertion dans l''interligne. L''état antérieur en faisait une ligne et ajoutait « égaré », non visible.'
+  alternatives:
+  - ligne propre « gare, à propos panier fleurs » insérée entre l. 8 et l. 9
+- ligne: 9
+  lemme: revu tte ma
+  analyse: 'après la virgule : r-e-v-u, puis un groupe à hampe (h ?) et un point, puis « ma » et une seconde suite m-a- à long délié avant famille ; les jambages de « propos » descendent dans le passage'
+  alternatives:
+  - revu ts ma
+  - revu ici ma
+- ligne: 18
+  lemme: boulangeon
+  analyse: b à haste non bouclée (aspect h), o-u (aspect w), un élément de plus (r ?), l bouclé, a, n, g bouclé, e, o, n final ; l. 20 même mot, point sur un jambage
+  alternatives:
+  - bourlangeon
+  - boulanger
+- ligne: 19
+  lemme: 3^{f} 75
+  analyse: 3 en ʒ ; petite boucle haute (f monétaire) ; barre de tête + haste longue sous la ligne (7, sans barre médiane visible) ; boucle ℓ terminée en crochet (5)
+  alternatives:
+  - 3 f 25
+  - 3 f 50
+- ligne: 20
+  lemme: \fr{1}{2}
+  analyse: haste courte, barre horizontale, dessous boucle en ℓ suivie d'un pied (2 bouclé) qui ressemble à « de »
+  alternatives:
+  - 1 de beurre
+  - \fr{1}{4} de beurre
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1 092 caractères ; Baedeker 1912 (p. 298), *L''Express du Midi* 31 janv. et 1er févr. 1917 (conférence Thellier de Poncheville), *Le Télégramme* 10 mars 1916 (chapelle de Nazareth), Pouvillon 1938, PC-Livre ; rédigé sur p1 (pas de p2). Lectures incertaines : « tte », « et. », « boulangeon ». Le sens de « revu tte ma famille » reste ouvert dans le commentaire.'
+  alternatives: []
+- ligne: 19
+  lemme: 3^{f} \inc{75}
+  analyse: 'second contrôle (zoom .78 .785 .94 .85) : après la boucle du f, barre de tête puis haste en V descendant sous la ligne, sans barre médiane ; le 2 de « 25c » (l. 18) a aussi un pied en V mais reste sur la ligne. 75 maintenu, 25 non exclu.'
+  alternatives:
+  - 3^{f} 25
+- ligne: 9
+  lemme: revu tte ma
+  analyse: 'second contrôle (zoom .46 .32 .80 .37) : après « revu », haste montante à boucle descendante (peut-être jambage intrus de « propos »), point, c + trois jambages, puis groupe a-l-l-e à long délié ; lecture non tranchée.'
+  alternatives:
+  - revu ts ma
+  - revu en ma
+controle:
+- ligne: 7
+  avant: Remontés ensemble tram S^{te}-Marie.
+  apres: Remontés ensemble tram S^{te}-marie.
+  justification: m initial au module des minuscules (zoom .66 .225 .92 .275), à comparer au grand M de « S^{te} Marie » l. 12
+- ligne: 8
+  avant: descendu ville \inc{et.} av Henriette
+  apres: descendu ville et. av Henriette
+  justification: 'zoom ×3 (.55 .255 .80 .305) : e bouclé, t barré, point appuyé, sans ambiguïté ; seul le sens reste obscur, signalé en apparat'
+- ligne: 1
+  avant: apparat disposition « Février 1917 »
+  apres: supprimée
+  justification: le balisage \sl suffit ; apparat épuré, notes d'abréviation ajoutées (1^{er}, S^{te} l. 12, c., f)
+remarques: Disposition des l. 8–9 à confirmer (ajout interlinéaire « gare… fleurs »). Le mot « boulangeon » (l. 18 et 20), désignant sans doute un pain ou une pâtisserie, reste à identifier.
+resume: 'Jeudi 1er février 1917 à Toulouse, par grand froid et soleil. Hippolyte Combes rend visite à Mme de Labarthe et aux dames Delsol, ses voisines, retrouve Marguerite et sa sœur au Capitole et remonte avec elles en tram à Sainte-Marie. L''après-midi, il descend en ville avec Henriette, passe à la gare pour un panier de fleurs, revoit sa famille à Nazareth et choisit une montre en or chez Pfister ; la conférence à la chapelle de l''archevêché n''a pas lieu. Le soir, marchant jusqu''à la rue de Languedoc dans la ville silencieuse, il se sent détaché de Toulouse et dit vouloir partir sans regret. Comptes : trams, nourriture, remboursement aux voisines (œufs, beurre).'
+noms:
+  personnes:
+  - forme: Mme de Labarthe
+    ligne: 4
+    identite: Mme de Labarthe, connaissance toulousaine
+  - forme: Delsol
+    ligne: 5
+    identite: dames Delsol, voisines à Sainte-Marie
+  - forme: Mte
+    ligne: 6
+    identite: Marguerite Calmels, fiancée
+  - forme: Henriette
+    ligne: 8
+    identite: Henriette, proche de la famille
+  - forme: Pfister
+    ligne: 10
+    identite: Pfister, bijoutier à Toulouse
+  lieux:
+  - forme: Capitole
+    ligne: 6
+    identite: Capitole, Toulouse
+  - forme: S^{te}-marie
+    ligne: 7
+    identite: Sainte-Marie(-des-Champs), Toulouse
+  - forme: Nazareth
+    ligne: 9
+    identite: Nazareth, quartier de Toulouse
+  - forme: rue de Languedoc
+    ligne: 13
+    identite: rue de Languedoc, Toulouse
+  - forme: Toulouse
+    ligne: 15
+    identite: Toulouse (Haute-Garonne)
+source: contrôle

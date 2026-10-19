@@ -1,0 +1,134 @@
+cliche: 33
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 1er V. \hfill Septbre 1916
+  apres: \sl{1^{er} V.} \hfill \sl{Sept^{bre} 1916}
+  justification: er nettement suscrit ; bre suscrit ; trait appuyé sous « 1er V. » et second trait sous « Sept^{bre} 1916 ».
+  confiance: haute
+- ligne: 2
+  avant: Matinée, temps variable
+  apres: \ind Matinée, temps variable \trait
+  justification: Ligne en retrait (attaque du M vers 0,12) ; long trait horizontal prolongeant « variable ».
+  confiance: haute
+- ligne: 8
+  avant: spéciales
+  apres: speciales
+  justification: Aucun accent visible sur le premier e.
+  confiance: moyenne
+- ligne: 9
+  avant: St Fl.
+  apres: SFl
+  justification: 'Trois tracés seulement : S bouclé, f (jambage sous la ligne), l ; ni t ni point (zoom ×3 [.86 .27 1.0 .32]).'
+  confiance: moyenne
+- ligne: 10
+  avant: est du XIIIe s. clocher
+  apres: est du XIIIe s., Clocher
+  justification: C de grand module ; trait vertical brun détaché entre le point et le C, de même forme que les virgules après « octogonal » et « village » (zoom ×3 [.14 .31 .40 .35]).
+  confiance: moyenne
+- ligne: 13
+  avant: tombes. — Y éprouvé impression
+  apres: tombes \hfill . Y éprouvé impression
+  justification: Grand blanc après « tombes », sans tiret ; point isolé devant Y, au milieu de la ligne.
+  confiance: moyenne
+- ligne: 14
+  avant: mélancolie pénétrante — Ciel
+  apres: Melancolie penetrante — Ciel
+  justification: M de grand module ; aucun accent visible (le trait au-dessus de « pene » est la barre du t).
+  confiance: moyenne
+- ligne: 16
+  avant: '[Bon/où ?] s''arrêter & réfléchir'
+  apres: \inc{Bon} s'arreter & reflechir
+  justification: Boucle fermée haute (B) + minimes ; aucun accent ni circonflexe visibles.
+  confiance: moyenne
+- ligne: 17
+  avant: '[ Tip au headcook : 5 f –'
+  apres: '[ Tip au headcook : 5^{f} —'
+  justification: f monétaire au-dessus de la ligne ; tiret long et appuyé.
+  confiance: haute
+- ligne: 18
+  avant: succèdent
+  apres: succedent
+  justification: Aucun accent sur le e ; la courbe après le t est la fin de sa barre.
+  confiance: moyenne
+- ligne: 20
+  avant: Espoir départ prochain, lundi
+  apres: \ind Espoir départ prochain, lundi
+  justification: Alinéa net (attaque vers 0,07).
+  confiance: haute
+difficultes:
+- ligne: 5
+  lemme: Ligny-
+  analyse: 'Trait horizontal à droite de « Ligny », à hauteur de sa ligne de base, qui se raccorde à la hampe du l de « longe » (l. 6) : trait d''union probable, mais il peut n''être que la tête de ce l (zoom ×2 [.76 .14 1.0 .20]).'
+  alternatives:
+  - Ligny
+- ligne: 6
+  lemme: longe
+  analyse: l-o-n-g, puis retour du jambage du g vers la droite ; le e final est absorbé dans ce délié.
+  alternatives:
+  - long
+- ligne: 7
+  lemme: faisaient
+  analyse: f-a-i-ſ-a-i-n-t ; le e de -aient n'est pas distinct dans les minimes.
+  alternatives:
+  - faisaint
+- ligne: 9
+  lemme: SFl
+  analyse: S (petite boucle de tête, descente, retour à droite), f à long jambage croisant le retour du S, l court à pied recourbé.
+  alternatives:
+  - St Fl.
+- ligne: 10
+  lemme: s., Clocher
+  analyse: e en C à hauteur des I ; s réduit à un trait vertical, puis point rond ; trait vertical brun isolé avant le C, lu virgule (forme des virgules de la page).
+  alternatives:
+  - s. Clocher
+- ligne: 13
+  lemme: impression
+  analyse: 'i-m-p-r-e-ſ puis cinq minimes, la dernière haute et pointée : -sion écrasé.'
+  alternatives:
+  - impressi
+- ligne: 14
+  lemme: penetrante —
+  analyse: Le « — » est la prolongation horizontale du e final, sans levée de plume ; il a valeur de séparation avant « Ciel ».
+  alternatives:
+  - penetrante \trait
+- ligne: 15
+  lemme: Air
+  analyse: A à barre, point d'i visible, i et r noyés dans un pâté triangulaire.
+  alternatives:
+  - Ah
+- ligne: 16
+  lemme: Bon
+  analyse: Boucle fermée de grand module à double contour (B en ℓo resserré ?), puis deux minimes dont la dernière plonge ; « On » ou « Ou » grammaticalement moins satisfaisants.
+  alternatives:
+  - 'On'
+  - Ou
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1138 caractères, dont environ 70 de balisage LaTeX ; Mérimée PA00108332, Nichols 1922 p. 78, JMO 7/Bedf (28 août 1916), Banks & Chell 1924 p. 144-145, IWM Q 961 ; le clocher est daté des XVe–XVIe s. par Mérimée contre « XIIIe s. » chez Combes ; le bois des Hérombus n''est qu''une hypothèse ; « Bon » (l. 16) et « Air » (l. 15) restent incertains. (Second contrôle : « XIIIe s. » est bien sur l''image ; la datation Mérimée n''a pas été vérifiée ici.)'
+  alternatives: []
+controle:
+- ligne: 10
+  avant: est du XIIIe s. Clocher
+  apres: est du XIIIe s., Clocher
+  justification: Trait vertical brun détaché devant le C, identique aux virgules de la page (après « octogonal », « village ») ; ce n'est pas l'attaque du C (zoom ×3 [.14 .31 .40 .35]).
+- ligne: 9
+  avant: 'apparat lecture : S bouclé, F à barre médiane descendant sous la ligne, l ; l''état antérieur lisait « St Fl. » (aucun t ni point visibles)'
+  apres: 'apparat lecture : S suivi d''un f descendant et d''un l, sans t ni point ; on lisait « St Fl. »'
+  justification: Note épurée ; le second tracé est un f minuscule à long jambage (zoom ×3), non un F à barre médiane.
+- ligne: 0
+  avant: 'critique : Encre noire ; « Melancolie penetrante » (l.~14) et la fin des l.~11--12 ont un ton plus brun, dû à la charge de la plume. Bas de page blanc.'
+  apres: 'critique : Encre noire, plus brune par endroits (l.~10, 14 et 20) selon la charge de la plume. Bas de page blanc.'
+  justification: Le ton brun touche surtout « , Clocher très curieux » (l. 10), « Melancolie penetrante » (l. 14) et « départ » (l. 20), non la fin des l. 11–12.
+remarques: Lieu de séjour (Marquay) d'après le contexte des pages voisines.
+resume: 'Vendredi 1er septembre 1916 : matinée variable, éclaircies l''après-midi puis ciel couvert. Hippolyte Combes se promène jusqu''à Ligny-Saint-Flochel, à 2,5 km, par une route en pente longeant un bois où des régiments anglais font des manœuvres. Il visite la petite église du XIIIe siècle, au clocher octogonal orné de pierres sculptées, entourée d''un cimetière où l''herbe cache les tombes, et en ressent une mélancolie pénétrante. Pourboire de 5 francs au chef cuisinier. Les jours se succèdent, monotones ; il espère un départ prochain, lundi.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Ligny-Saint-Flochel
+    ligne: 5
+    identite: Ligny-Saint-Flochel (Pas-de-Calais)
+  - forme: SFl
+    ligne: 9
+    identite: Saint-Flochel, hameau de Ligny-Saint-Flochel (Pas-de-Calais)
+source: contrôle

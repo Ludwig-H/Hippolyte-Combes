@@ -1,0 +1,139 @@
+cliche: 114
+fichier: 20251126_105239.jpg
+date: Lundi 25 décembre 1916
+mois: Décembre 1916
+lieux: Acheux-en-Amiénois (Somme)
+titre: 'Noël à Acheux : insomnie, perplexité après le propos du capitaine, concerts au Y.M.C.A.'
+transcription: |
+  \sl{25 Lundi.} \hfill \sl{Dec^{b} 1916}
+  Nuit mauvaise. Insomnie.
+  \inc{Tjours} sous l'impression propos fâcheux de
+  mon cap. à Louvencourt, hier après-midi
+  Dois je faire 1 rapport à Mission fr^{se} ? \inc{?!}
+  \ind Hanté aussi par lettre de Margte du
+  17 ct. Pires pensées traversent mon esprit. Ne
+  puis oublier. Cruelle perplexité. —
+  Temps affreux. Averses. Vent souffle en
+  tempête.
+  Journée de repos. Chambre . . .
+  Peu à peu, rasséréné & pris dessus.
+  Après-midi, ds la Y.M.C.A. hut, concert. chansons
+  comiques & saynètes – –
+  [— Washing : 80c.
+  Fin journée, retrouvé comp^{t} calme d'esprit
+  & parfait équilibre. —
+  Vers 9^{H} s., quitté Cap. William & regagné
+  chambre. Entré qq minutes Y.M.C.A hut
+  où concert recommencé –
+  Ciel merveillt étoilé.
+  Temps doux, pas froid –
+  gd silence nuit. Nul écho de canonnade
+  \blanc{2}
+apparat:
+- ligne: 1
+  lemme: Dec^{b}
+  type: abreviation
+  note: décembre
+- ligne: 3
+  lemme: Tjours
+  type: abreviation
+  note: toujours
+- ligne: 3
+  lemme: \inc{Tjours}
+  type: lecture
+  note: 'mot noyé dans un pâté d''encre (non biffé) : T et j lisibles, puis quatre lettres environ ; Tjs exclu par la longueur'
+- ligne: 4
+  lemme: cap.
+  type: abreviation
+  note: capitaine (Williams, cf. l. 18)
+- ligne: 5
+  lemme: 1 rapport
+  type: abreviation
+  note: un rapport
+- ligne: 5
+  lemme: fr^{se}
+  type: abreviation
+  note: française (Mission française auprès de l'armée britannique)
+- ligne: 5
+  lemme: \inc{?!}
+  type: lecture
+  note: 'lecture nouvelle : après le « ? », crochet en ʌ et trait droit hauts d''une ligne, leurs points sur la ligne de base ; autre lecture : « ni »'
+- ligne: 6
+  lemme: Margte
+  type: abreviation
+  note: Marguerite (Calmels)
+- ligne: 7
+  lemme: ct.
+  type: abreviation
+  note: courant (le 17 décembre)
+- ligne: 13
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 13
+  lemme: Y.M.C.A.
+  type: abreviation
+  note: Young Men's Christian Association (foyer du soldat)
+- ligne: 13
+  lemme: hut
+  type: emprunt
+  note: baraque
+- ligne: 15
+  lemme: '[—'
+  type: disposition
+  note: grand crochet ouvrant à pieds horizontaux, haut d'environ deux lignes ; le tiret part de sa haste
+- ligne: 15
+  lemme: Washing
+  type: emprunt
+  note: blanchissage
+- ligne: 15
+  lemme: 80c.
+  type: abreviation
+  note: 80 centimes
+- ligne: 16
+  lemme: comp^{t}
+  type: abreviation
+  note: complètement
+- ligne: 16
+  lemme: comp^{t}
+  type: lecture
+  note: 'lecture nouvelle (état antérieur : compl.) : t surélevé lié au p, sans l ni point'
+- ligne: 18
+  lemme: 9^{H} s.
+  type: abreviation
+  note: 9 heures du soir
+- ligne: 18
+  lemme: Cap.
+  type: abreviation
+  note: capitaine
+- ligne: 18
+  lemme: William
+  type: graphie
+  note: pour Williams
+- ligne: 19
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 19
+  lemme: Y.M.C.A
+  type: abreviation
+  note: Young Men's Christian Association
+- ligne: 19
+  lemme: hut
+  type: emprunt
+  note: baraque
+- ligne: 21
+  lemme: merveillt
+  type: abreviation
+  note: merveilleusement
+- ligne: 23
+  lemme: gd
+  type: abreviation
+  note: grand
+critique: Encre gris-noir virée au brun, homogène ; une seule journée, sans filet, et le bas de la page laissé blanc. Le premier mot de la l.~3 est noyé dans un pâté d'encre, sans être biffé.
+historique: |
+  Noël, que la page ne nomme pas, est un jour de repos à Acheux. Le « propos fâcheux » est le « Bloody France » de la veille, à Louvencourt (voir f.~56~v\textsuperscript{o}) ; la « Mission fr\textsuperscript{se} » est le bureau du XIII Corps à Acheux, où il touche sa solde (f.~56~r\textsuperscript{o}). Le carnet ne dit pas qu'un rapport ait été fait : après un nouveau mot « très regrettable » le 30, Combes choisit l'explication directe et obtient des excuses (f.~58~v\textsuperscript{o}). Le soir, la hutte de la Y.M.C.A. devenait salle de concert, pour des amateurs pris dans la troupe (Fernand-Laurent 1917, p.~94-95) ; l'entrée était en principe gratuite (Yapp 1918, chap.~IV), mais Combes paiera 30~c le 28 pour les « 13th Corps Archie Singers » (f.~58~r\textsuperscript{o}). Le silence de la nuit répond à l'arrêt des opérations que pluie et boue imposent depuis la mi-novembre (OH 1917-I, p.~65). La lettre de Marguerite du 17 ouvre une crise des fiançailles ignorée de la tradition familiale ; apaisée dès ce soir, elle s'efface à la permission de janvier (f.~66~v\textsuperscript{o}).
+sources:
+- Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, préface de F. de Tessan, Paris, Boivin, 1917, p. 94-95.
+- Yapp, A. K., The Romance of the Red Triangle, London, Hodder and Stoughton, 1918, chap. IV, « The Romance of Finance », p. 39-62.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 65.

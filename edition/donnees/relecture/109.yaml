@@ -1,0 +1,163 @@
+cliche: 109
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 9 Samedi \hfill Décbre 1916
+  apres: 9 \sl{Samedi} \hfill Decb \sl{1916}
+  justification: Samedi souligné ; mois réduit à Dec + b en forme de h, sans accent ; trait épais sous 1916 seul, terminé en crosse
+  confiance: moyenne
+- ligne: 3
+  avant: parfois averse.
+  apres: parfois averse \trait
+  justification: aucun point ; délié final prolongé jusqu'au jambage du p de pluie
+  confiance: haute
+- ligne: 4
+  avant: Partis en auto, vers 9h m. Venus à ⟦Belle-Église⟧ Orville.
+  apres: Partis en autos vers 9^{H} m. Venus à \del{Belle-Eglise} Orville
+  justification: finale en ʒ liée à l'o (s plongeant), pas de virgule ; H suscrit ; Eglise sans accent ; aucun point final
+  confiance: moyenne
+- ligne: 5
+  avant: no 3 Coy 31st Divon
+  apres: no 3 Coy 81^{st} div
+  justification: premier chiffre à deux boucles fermées (8), différent du 3 en ʒ de 'no 3' ; st suscrit ; div minuscule sans finale -on
+  confiance: moyenne
+- ligne: 6
+  avant: av. Lt Croughton [?].
+  apres: av \inc{1} Lt \inc{Croughton}
+  justification: la grande boucle en tête de ligne est le jambage du j de Déjeuné ; reste av + délié, sans point ; puis un signe en ʌ (1 à trait d'attaque) avant Lt ; aucun point final
+  confiance: moyenne
+- ligne: 8
+  avant: continué route j'à Saulty – L'Arbret —
+  apres: continué route j-à Saulty-Larbret —
+  justification: trait d'union court j-à ; Saulty-Larbret lié par un tiret court, sans apostrophe
+  confiance: haute
+- ligne: 9
+  avant: Rentrés nuit noire. Temps affreux.
+  apres: Rentrés nuit noire. Temps affreux \trait
+  justification: le second trait du x se prolonge en longue courbe, sans point
+  confiance: haute
+- ligne: 11
+  avant: suite et venu chambre. Extt [autoritaire ?]
+  apres: suite et venu chambre — Extremt \inc{Autoritaire}
+  justification: délié prolongé en tiret après chambre ; E-x-t-r-e-m + t ; puis grande initiale bouclée et deux hastes de t
+  confiance: basse
+- ligne: 12
+  avant: ce gosse de Williams... —
+  apres: \ind ce gosse de Williams . – —
+  justification: point, tiret court puis tiret long ; ligne en retrait
+  confiance: haute
+- ligne: 13
+  avant: 11 L. — Hier & auj'd'hui, inoccupé, mais
+  apres: 11 L – Hier & aujdhui, inoccupé, mais
+  justification: pas de point après L, tiret court ; aujdhui sans apostrophes visibles
+  confiance: haute
+- ligne: 15
+  avant: Tjrs temps affreux.
+  apres: Tjours temps affreux.
+  justification: jambages après le j (guide § 8, 3)
+  confiance: haute
+- ligne: 17
+  avant: Dysenterie
+  apres: Dyssenterie
+  justification: deux hautes boucles d's entre y et enterie
+  confiance: moyenne
+- ligne: 20
+  avant: ou au bureau...
+  apres: ou au bureau . – .
+  justification: point, tiret court, point
+  confiance: haute
+- ligne: 21
+  avant: '[ Tin of Wren''s Dubbin : 30 c ]'
+  apres: '\equerre{1}Tin of Wren''s Dubbin : 30c \trait'
+  justification: signe d'ouverture en ⌜ (trait de tête + jambage) ; aucun crochet fermant ; c prolongé en long délié
+  confiance: haute
+difficultes:
+- ligne: 4
+  lemme: \del{Belle-Eglise} Orville
+  analyse: 'Zoom ×3 [.55 .05 .99 .125] : Be- noyé sous une biffure épaisse, lle-Eglise en petit module montant au-dessus d''Orville (O ouvert, rv, ll très noirs). Les ll d''Orville semblent passer sur le g d''Eglise (Orville dernière écriture ?), mais Belle-Église est la ferme visitée la veille (cliché 108) et Orville revient l. 7. Le trait épais au-dessus est le soulignement de 1916, non la biffure. Ordre indécidable.'
+  alternatives:
+  - \sur{Orville}{Belle-Eglise}
+- ligne: 4
+  lemme: autos
+  analyse: 'Zoom ×3 : a-u-t-o puis s plongeant en ʒ lié à l''o ; pas de virgule.'
+  alternatives:
+  - auto,
+- ligne: 5
+  lemme: 81^{st}
+  analyse: 'Zoom ×3 [.68 .12 1.0 .175] : boucle basse fermée avec jour intérieur et boucle haute, tracé du 8 ; le 3 de no 3 est en ʒ ouvert. st suscrit net. Lapsus probable pour 31st (commentaire historique).'
+  alternatives:
+  - 31^{st}
+- ligne: 6
+  lemme: av \inc{1}
+  analyse: 'Zoom ×4 [.04 .165 .45 .21] : la boucle de tête vient du j de Déjeuné ; av + délié. Le signe suivant, isolé, trait montant puis haste épaisse avec petit crochet à gauche : 1 (un) ou a ; le n''a pas de boucle d''l.'
+  alternatives:
+  - le
+  - à
+- ligne: 6
+  lemme: \inc{Croughton}
+  analyse: 'Zoom ×4 : C en arc, r, a ou o, trois minimes (u + n ou m), longue descendante droite sans boucle de retour (g ou p), t haut barré, o, finale plongeante (n). Aucune haste d''h distincte : Crougton, Crampton (m + p) possibles. Croughton retenu par cohérence avec le cliché 150.'
+  alternatives:
+  - Crougton
+  - Crampton
+- ligne: 11
+  lemme: Extremt \inc{Autoritaire}
+  analyse: 'Zoom ×4 [.55 .335 1.0 .38] : E bouclé, x, t, r, e, m, t, petit trait (accent décalé ?) ; puis grande initiale bouclée, u, t, groupe comprimé, seconde haste de t, a, délié final. Lecture plausible mais non assurée.'
+  alternatives:
+  - hautain
+- ligne: 17
+  lemme: Dyssenterie
+  analyse: 'Zoom ×3 [.0 .655 .5 .72] : D, y descendant, deux hautes boucles montantes (ss), e, n, t barré long, e, r, i, e.'
+  alternatives:
+  - Dysenterie
+controle:
+- ligne: 1
+  avant: 'apparat Decb : décembre ; le b, en forme de h, n''est pas surélevé'
+  apres: 'apparat Decb : décembre'
+  justification: justification paléographique retirée de l'apparat imprimé ; transcription confirmée au zoom ×3
+- ligne: 4
+  avant: apparat rature avec renvoi à la l. 7
+  apres: note de rature abrégée ; doute sur l'ordre des écritures porté dans critique
+  justification: zoom ×3 confirme Belle-Eglise biffé sous Orville ; ordre toujours indécidable ; le trait épais au-dessus est le soulignement de 1916
+- ligne: 5
+  avant: 'apparat 81^{st} div : note historique sur le secteur d''Hébuterne'
+  apres: 'apparat 81^{st} : 8 net, lapsus probable pour 31st'
+  justification: 8 confirmé au zoom ×3 ; le contexte historique relève du commentaire
+- ligne: 6
+  avant: '\inc{Croughton} : C-r-o-u-g, haste, t barré, o, finale plongeante'
+  apres: '\inc{Croughton} : autre lecture possible Crampton'
+  justification: zoom ×4 sans haste d'h distincte ; la descendante droite sans boucle peut être un p précédé de m
+- ligne: 6
+  avant: '\inc{1} : note paléographique détaillée'
+  apres: '\inc{1} : note brève, autre lecture le'
+  justification: signe confirmé isolé avant Lt ; lecture inchangée
+- ligne: 0
+  avant: difficulté « remarque du commentateur historique »
+  apres: points vérifiés (81st, surcharge, Croughton, Autoritaire) et entrée retirée
+  justification: chaque point contrôlé au zoom ; lieux complétés selon le commentaire
+remarques: Ordre de la surcharge Belle-Eglise / Orville indécidable ; Croughton (ou Crampton) et Autoritaire restent incertains ; 81st probablement lapsus pour 31st.
+resume: 'Samedi 9 décembre 1916, sous la pluie, Hippolyte Combes part en auto vers 9 heures ; une destination (Belle-Église) est biffée et remplacée par Orville. Il déjeune à Authie au mess de la no 3 Company d''une division notée 81st (sans doute la 31st), avec un lieutenant Croughton (lecture incertaine), puis gagne Orville et pousse jusqu''à Saulty et L''Arbret, rentrant de nuit, trempé. Il se plaint du capitaine Williams. Le lundi 11, après deux jours inoccupés au bureau par un temps affreux, il souffre de dysenterie et ne mange rien. Compte : une boîte de graisse Wren''s Dubbin, 30 c.'
+noms:
+  personnes:
+  - forme: Croughton
+    ligne: 6
+    identite: lieutenant britannique (cf. cliché 150), lecture incertaine
+  - forme: Williams
+    ligne: 12
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  lieux:
+  - forme: Belle-Eglise
+    ligne: 4
+    identite: Belle-Église, ferme près de Louvencourt (Somme), biffé
+  - forme: Orville
+    ligne: 4
+    identite: Orville (Pas-de-Calais)
+  - forme: Authie
+    ligne: 5
+    identite: Authie (Somme)
+  - forme: Saulty
+    ligne: 8
+    identite: Saulty (Pas-de-Calais)
+  - forme: Larbret
+    ligne: 8
+    identite: L'Arbret (Pas-de-Calais)
+source: contrôle

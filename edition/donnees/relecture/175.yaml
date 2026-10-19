@@ -1,0 +1,178 @@
+cliche: 175
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 1er Dim. (Rameaux) \hfill Avril 1917
+  apres: \sl{1^{er} Dim}. (Rameaux) \hfill \sl{Avril 1917}
+  justification: er suscrit au-dessus de la base du 1 ; soulignements sous 1er Dim et sous Avril 1917
+  confiance: haute
+- ligne: 4
+  avant: état affreux.
+  apres: état affreux
+  justification: aucun point après le long délié du x
+  confiance: moyenne
+- ligne: 5
+  avant: 'Matin & soir, courses en auto : Belle Église,'
+  apres: 'matin & soir, course en auto : Belle Eglise,'
+  justification: m initial au module des minuscules ; cours- + e à long délié, un seul s ; E cursif sans accent, Belle relié à Eglise par le délié du e et non par un trait d'union
+  confiance: moyenne
+- ligne: 6
+  avant: Pierregot, Rainneville.
+  apres: Pierregot, Rainneville
+  justification: délié final prolongé, pas de point
+  confiance: moyenne
+- ligne: 7
+  avant: 'Gde fatigue nerveuse. [ Mess : dû au 31 mars : 27 f. 50 ]'
+  apres: 'gde fatigue nerveuse \trait / [mess : du  au 31 mars : 27 50]'
+  justification: g minuscule ; nerveuse prolongé d'un long trait sans point ; le compte du mess occupe une ligne propre, en retrait ; mess à m minuscule ; du sans accent (le trait au-dessus vient de nerveuse) ; blanc entre du et au ; pas de f entre 27 et 50, le trait haut est le drapeau du 5
+  confiance: haute
+- ligne: 9
+  avant: 2 Lundi. — Nuit froide. Au réveil, trouvé
+  apres: \sl{2 Lundi}. Nuit froide. au reveil, trouvé
+  justification: aucun tiret après Lundi, seulement un point ; a minuscule ; aucun accent sur reveil (seul le point du i)
+  confiance: moyenne
+- ligne: 11
+  avant: Tout le jour, liberté complète. Resté matin
+  apres: Tout le jour, liberté complete \trait Resté matin
+  justification: complete sans accent grave visible, prolongé d'un long trait au lieu du point
+  confiance: moyenne
+- ligne: 13
+  avant: Après-midi, durant plus de 2 heures,
+  apres: après-midi, durant plus de 2 heures,
+  justification: a initial minuscule
+  confiance: moyenne
+- ligne: 15
+  avant: Fin soirée, dégel et fonte neige. Rues
+  apres: Fin soirée, degel et fonte neige. Rues
+  justification: aucun accent sur degel ; le trait au-dessus est le jambage du f de flocons
+  confiance: moyenne
+- ligne: 16
+  avant: noyées boue liquide.
+  apres: noyées boue liquide \trait
+  justification: le d final se prolonge en long délié ; pas de point
+  confiance: moyenne
+- ligne: 17
+  avant: '[ Washing : 50 c. — — Clous souliers : 60 c. ]'
+  apres: '[Washing : 50c. . — Clous souliers : 60c'
+  justification: un seul tiret précédé d'un second point ; pas de crochet fermant ni de point après 60c
+  confiance: haute
+- ligne: 18
+  avant: '3 Mardi. — Matin & soir, courses en auto :'
+  apres: \sl{3 mardi}. – Matin & soir, courses en auto
+  justification: m minuscule, souligné ; tiret court ; pas de deux-points après auto (le trait est la barre du t)
+  confiance: moyenne
+- ligne: 19
+  avant: Toutencourt, (Me Bien aimé, notaire)
+  apres: \ind[2] Toutencourt, (M^{e} Bien-aimé, notaire)
+  justification: e suscrit après M ; trait d'union net devant aimé ; ligne en fort retrait
+  confiance: moyenne
+- ligne: 20
+  avant: et Rubempré ⟦et Raincheval⟧.
+  apres: et Rubempré. \del{et Raincheval}
+  justification: le point suit Rubempré, avant les mots biffés
+  confiance: haute
+- ligne: 21
+  avant: Surtout matin, en descendant côte de Hérissart
+  apres: Surtout matin, en descendant côte de Herissart
+  justification: H sans accent
+  confiance: moyenne
+- ligne: 23
+  avant: Après-midi, dégel rapide. Routes
+  apres: \ind après-midi, degel rapide. Routes
+  justification: a minuscule, retrait ; degel sans accent
+  confiance: moyenne
+- ligne: 24
+  avant: changées en marécages.
+  apres: changées en marecages
+  justification: aucun accent sur marecages, pas de point
+  confiance: moyenne
+- ligne: 25
+  avant: Temps redevenu plus doux.
+  apres: \ind[2] Temps redevenu plus doux
+  justification: pas de point ; ligne en retrait
+  confiance: moyenne
+- ligne: 21
+  avant: côte
+  apres: cote
+  justification: 'aucun circonflexe propre : le trait qui passe au-dessus de co est la barre du t de descendant, prolongée'
+  confiance: moyenne
+difficultes:
+- ligne: 3
+  lemme: Averses torrentielles
+  analyse: 'A-v-e-r-s-e puis long crochet final : le s final réduit à un crochet est possible ; torrentielles très chargé (t à longue barre, ll), peut-être repassé'
+  alternatives:
+  - Averse torrentielles
+- ligne: 7
+  lemme: gde
+  analyse: g, puis d en ∂ dont la sortie peut valoir e ; aucune surélévation nette
+  alternatives:
+  - gd
+- ligne: 10
+  lemme: Fortement gelé.
+  analyse: 'un trait vertical haut suit Fortement : virgule haute ou accent déplacé ; gelé porte son accent en fin de mot'
+  alternatives:
+  - Fortement, gelé.
+- ligne: 19
+  lemme: Toutencourt
+  analyse: début du mot repassé (aspect Toutz-), lecture assurée par les autres mentions de Toutencourt
+  alternatives: []
+- ligne: 21
+  lemme: descendant
+  analyse: 'd-e-s-c puis tracé dense avec une boucle descendante (aspect g) avant -hant : surcharge possible, mais aucune leçon antérieure lisible'
+  alternatives: []
+- ligne: 22
+  lemme: \trait
+  analyse: 'le long trait montant vers la droite part sous le point de neige., à hauteur de la tête de Routes (l. 23) et croise la hampe du t : barre de t de Routes prolongée, non trait de remplissage'
+  alternatives:
+  - neige. \trait
+- ligne: 25
+  lemme: plus
+  analyse: p à boucle d'attaque (aspect K), puis l-u-s
+  alternatives: []
+controle:
+- ligne: 21
+  avant: en descendant côte de Herissart
+  apres: en descendant cote de Herissart
+  justification: pas de circonflexe distinct sur o ; le trait au-dessus est la barre prolongée du t de descendant
+- ligne: 22
+  avant: blancs de neige. \trait
+  apres: blancs de neige.
+  justification: 'le trait commence sous et à gauche du point, à hauteur de la tête de Routes, et croise le t de ce mot : barre de t de Routes (l. 23) prolongée'
+- ligne: 5
+  avant: apparat graphie Belle Eglise
+  apres: (supprimée)
+  justification: graphie non trompeuse ; identification dans noms
+- ligne: 21
+  avant: apparat lecture descendant
+  apres: (supprimée)
+  justification: lecture assurée ; tracé chargé décrit dans difficultes
+remarques: 'Le blanc laissé entre « du » et « au » (l. 8) n''a pas de balise propre : il est signalé dans l''apparat.'
+resume: 'Dimanche des Rameaux 1er avril 1917 : temps froid, averses torrentielles puis neige le soir ; courses en auto à Belle-Église, Pierregot et Rainneville ; grande fatigue nerveuse ; compte du mess arrêté au 31 mars (27 francs 50). Le lundi 2, gel puis journée libre au bureau devant le feu, neige l''après-midi, dégel le soir ; blanchissage et clous de souliers. Le mardi 3, courses à Toutencourt (chez Me Bien-aimé, notaire) et Rubempré ; champs blancs de neige vus en descendant la côte d''Hérissart, puis dégel rapide et temps radouci.'
+noms:
+  personnes:
+  - forme: M^{e} Bien-aimé
+    ligne: 19
+    identite: notaire à Toutencourt (Somme)
+  lieux:
+  - forme: Belle Eglise
+    ligne: 5
+    identite: Belle-Église (ferme ou hameau), Somme
+  - forme: Pierregot
+    ligne: 6
+    identite: Pierregot (Somme)
+  - forme: Rainneville
+    ligne: 6
+    identite: Rainneville (Somme)
+  - forme: Toutencourt
+    ligne: 19
+    identite: Toutencourt (Somme)
+  - forme: Rubempré
+    ligne: 20
+    identite: Rubempré (Somme)
+  - forme: Raincheval
+    ligne: 20
+    identite: Raincheval (Somme), mot biffé
+  - forme: Herissart
+    ligne: 21
+    identite: Hérissart (Somme)
+source: contrôle

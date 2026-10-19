@@ -1,0 +1,153 @@
+cliche: 166
+confiance: moyenne
+changements:
+- ligne: 2
+  avant: Levé 6h 1/2 m.
+  apres: \ind Levé 6^{H}\fr{1}{2} m.
+  justification: H suscrit au-dessus d'une barre oblique et d'un 2 ; ligne en retrait
+  confiance: haute
+- ligne: 3
+  avant: Bientôt terminé ts mes paquets.
+  apres: Bientot terminé ts mes paquets
+  justification: aucun circonflexe ; le tiret après terminé est l'accent décalé ; aucun point final
+  confiance: moyenne
+- ligne: 4
+  avant: Temps extrt doux. Soleil pâle. Éclat clair.
+  apres: Temps extt doux. Soleil pale tiédit l'air
+  justification: ext + t barré, aucun r ; t-i-é-d-i-t puis l haut, second trait bouclé plus court (apostrophe), a-i-r, point du i décalé
+  confiance: haute
+- ligne: 5
+  avant: Maintenant, quitte sans regrets ce petit
+  apres: Maintenant, \inc{quitterai} sans regrets ce petit
+  justification: après quitte, un r et un i pointé serrés contre sans
+  confiance: moyenne
+- ligne: 6
+  avant: village & Bureau Board.
+  apres: village & Purchase Board.
+  justification: P bouclé en ∂ puis -urchase lisible, même mot qu'à la l. 14
+  confiance: haute
+- ligne: 7
+  avant: Après breakfast, 9h m., parti en auto pour
+  apres: Après breakfast, 9^{H} m. , parti \inc{en}. auto pour
+  justification: H suscrit ; point puis virgule ; en écrit comme un a et suivi d'un point
+  confiance: moyenne
+- ligne: 9
+  avant: sacs au mess des interprètes,
+  apres: sacs au mess des interprète, no , rue
+  justification: aucun s final à interprète ; la ligne se poursuit par no, un blanc, puis , rue
+  confiance: haute
+- ligne: 10
+  avant: de Raincheval, puis cherché gîte au camp,
+  apres: de Raincheval, puis cherché gite au camp,
+  justification: le trait devant g est l'accent de cherché ; aucun circonflexe sur i
+  confiance: moyenne
+- ligne: 11
+  avant: n°, rue
+  apres: no rue \trait
+  justification: aucune virgule ; rue décalé à droite, suivi d'un long trait
+  confiance: haute
+- ligne: 12
+  avant: Mais au bureau Mission, appris que,
+  apres: \ind Mais au bureau mission appris que,
+  justification: m minuscule ; aucune virgule après mission
+  confiance: moyenne
+- ligne: 13
+  avant: sur demande instante du Major Levy, je
+  apres: sur demande instante du major Levy, je
+  justification: m au module des minuscules ; le petit trait détaché devant lui se retrouve devant je et n'est pas une attaque de majuscule
+  confiance: moyenne
+- ligne: 15
+  avant: Long interview avec Lieutt Godard,
+  apres: Long interview avec Lieut^{t} \hfill \addm{\inc{Godare}}
+  justification: second t suscrit ; nom au crayon dans le blanc de droite, G-o-d-a-r-e, finale sans haste ; aucune virgule
+  confiance: moyenne
+- ligne: 16
+  avant: tt jeune off., charmant.
+  apres: tt jeune off^{r}, charmant.
+  justification: petit r suscrit après ff
+  confiance: haute
+- ligne: 20
+  avant: suis installé définitivement, après départ
+  apres: suis installé définitivement, après depart
+  justification: aucun accent sur le e de depart
+  confiance: moyenne
+- ligne: 24
+  avant: chambre. Y suis rentré aussitôt après dinner.
+  apres: chambre Y suis rentré aussitot après dinner.
+  justification: chambre terminé par un long délié sans point ; aucun circonflexe
+  confiance: moyenne
+- ligne: 25
+  avant: M'y trouve très bien. 2 Tables pour écrire —
+  apres: m'y trouve très bien. 2 Tables pour écrire —
+  justification: m initial minuscule, sans délié d'attaque
+  confiance: moyenne
+difficultes:
+- ligne: 4
+  lemme: tiédit l'air
+  analyse: t-i-é-d-i-t net (point du i, d en ∂, longue barre de t). Puis une haute boucle (l), une seconde boucle plus courte prise pour l'apostrophe, a-i-r et point du i reporté à droite. « clair » supposerait un c initial bouclé ; le sens retient l'air.
+  alternatives:
+  - tiédit clair
+- ligne: 5
+  lemme: quitterai
+  analyse: q-u-i-t-t-e sous une barre commune ; suivent un r montant et un i pointé collés à l'attaque de sans ; aucun a distinct.
+  alternatives:
+  - quitte
+  - quitterais
+- ligne: 7
+  lemme: en.
+  analyse: Petite panse fermée + jambage (aspect a), puis point sur la ligne ; aucune arche de n. Le trait au-dessus appartient au i de parti.
+  alternatives:
+  - à.
+  - a.
+- ligne: 15
+  lemme: Godare
+  analyse: Crayon. G bouclé descendant, o, d à haute haste, a, r, puis e bouclé à queue descendante, sans haste finale. La lettre à lettre donne Godare ; Godard reste possible (d final réduit).
+  alternatives:
+  - Godard
+- ligne: 21
+  lemme: Valet
+  analyse: V à long délié, petite panse fermée (a ou o), une seule boucle de l, e, t à longue barre ; même nom qu'en 164.
+  alternatives:
+  - Vallet
+  - Volet
+controle:
+- ligne: 13
+  avant: sur demande instante du Major Levy, je
+  apres: sur demande instante du major Levy, je
+  justification: m au module des minuscules ; le trait détaché qui précède se retrouve devant je (l. 13), ce n'est pas l'attaque d'un M
+- ligne: 15
+  avant: Long interview avec Lieut^{t} \hfill \addm{\inc{Godard}}
+  apres: Long interview avec Lieut^{t} \hfill \addm{\inc{Godare}}
+  justification: zoom ×3 [.68 .49 .98 .585] ; après d à haute haste, a-r-e bouclé à queue descendante, aucune haste finale ; Godard gardé en note
+- ligne: 0
+  avant: lieux Toutencourt ; Puchevillers ; résumé « mess des interprètes de Raincheval »
+  apres: lieux Hérissart ; Toutencourt ; Puchevillers ; résumé « mess des interprètes, rue de Raincheval »
+  justification: rue de Raincheval est une rue de Toutencourt (l. 9–10) ; billet 220 à Hérissart selon le commentateur historique et l'état antérieur
+- ligne: 0
+  avant: apparat avec analyses paléographiques (H, P en ∂, boucle et arche)
+  apres: notes d'apparat abrégées ; analyses renvoyées à difficultes
+  justification: épuration de l'apparat imprimé
+remarques: L'adresse laissée en blanc (l. 9 et 11) est celle du logement d'abord envisagé à Toutencourt ; le billet 220 est à Hérissart, siège du Purchase Board ; la suite de la journée se lit en 167 (« 2 fenêtres »).
+resume: Le dimanche 11 mars 1917, Hippolyte Combes termine ses paquets, résolu à quitter le village et le Purchase Board. Il part en auto pour Toutencourt, laisse ses sacs au mess des interprètes, rue de Raincheval, et cherche un logement au camp. Au bureau de la Mission, il apprend que le major Levy a demandé avec insistance qu'il reste au Purchase Board ; long entretien avec un jeune lieutenant (nom ajouté au crayon, Godare ou Godard). Revenu en camion jusqu'au tournant de Puchevillers, il s'installe définitivement au billet 220, après le départ de l'interprète Valet, et se trouve bien dans sa nouvelle chambre.
+noms:
+  personnes:
+  - forme: major Levy
+    ligne: 13
+    identite: major W. H. Levy, officier britannique chef du Purchase Board
+  - forme: Godare
+    ligne: 15
+    identite: lieutenant rencontré au bureau de la Mission à Toutencourt ; lecture incertaine (Godard ?)
+  - forme: Valet
+    ligne: 21
+    identite: interprète français (cf. 164)
+  lieux:
+  - forme: Toutencourt
+    ligne: 8
+    identite: Toutencourt (Somme)
+  - forme: Raincheval
+    ligne: 10
+    identite: rue de Raincheval, à Toutencourt (Somme)
+  - forme: Puchevillers
+    ligne: 18
+    identite: Puchevillers (Somme)
+source: contrôle

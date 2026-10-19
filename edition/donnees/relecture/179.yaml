@@ -1,0 +1,176 @@
+cliche: 179
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Merc. 11 — \hfill — Avril 1917 —
+  apres: \sl{Merc 11} — \hfill — \sl{Avril 1917} —
+  justification: aucun point après Merc ; soulignements de la date et du mois
+  confiance: haute
+- ligne: 2
+  avant: Nuit très froide.
+  apres: nuit très froide
+  justification: n au module des minuscules ; aucun point final
+  confiance: moyenne
+- ligne: 4
+  avant: Après-midi, course à Warloy.
+  apres: après-midi, course à Warloy
+  justification: a initial au module d'une minuscule ; aucun point
+  confiance: moyenne
+- ligne: 5
+  avant: lgt
+  apres: lgs
+  justification: l, g, puis s descendant sans barre (guide § 8, 2)
+  confiance: moyenne
+- ligne: 6
+  avant: arbres, étaient
+  apres: arbres étaient
+  justification: aucune virgule entre les deux mots
+  confiance: moyenne
+- ligne: 8
+  avant: Nuit, rafales très violentes.
+  apres: nuit, rafales très violentes \trait
+  justification: n minuscule ; trait final prolongé, pas de point
+  confiance: moyenne
+- ligne: 9
+  avant: '[ A Doullens : ceinture cuir : (10 f. 50 + 14 f. = 24 f. 50)'
+  apres: '\crochet{3}A Doullens : ceinture cuir : 10^{f}50 + 14^{f} = 24^{f}50 – Boîte \add{(canteen)} de \inc{farine} : 1^{f}'
+  justification: cartouche fermé, non parenthèses ; f suscrits ; l'article Boîte… et son prix appartiennent à cette ligne
+  confiance: moyenne
+- ligne: 9
+  avant: cacao
+  apres: \inc{farine}
+  justification: lettre haute bouclée à descendante (f) incompatible avec cacao
+  confiance: basse
+- ligne: 10
+  avant: '2 Cartes géog. (Somme) : 60 c. — Cartes ples : 60 c. + 10 c.'
+  apres: '2 Cahiers geog. (Somme) : 60.. — Cartes p^{les} : 60 c. + 10^{c} —'
+  justification: h bouclé haut, aucun t barré ; aucun accent sur le e de geog. ; deux points après 60 ; c de 10 suscrit
+  confiance: moyenne
+- ligne: 11
+  avant: 'Varia : 1 f. — — 2 semelles'
+  apres: 'Varia : 1 f. — 2 semelles'
+  justification: un seul tiret ; l'autre trait est la parenthèse de (Somme)
+  confiance: haute
+- ligne: 12
+  avant: '2 boîtes de chlorate potasse : 1 f. — 1 boîte pastilles menthe : 75 c. ]'
+  apres: '2 Boîte de chlorate potasse : 1^{f}. – 1 Boîte pastilles menthe : 75'
+  justification: B majuscule, aucun s final ; f suscrit ; pas de c lisible ni de crochet fermant
+  confiance: moyenne
+- ligne: 13
+  avant: 12 Jeudi. — Nuit gelé un peu. Neige durcie.
+  apres: '12 \sl{Jeudi} : Nuit gelé un peu. Neige durcie.'
+  justification: Jeudi souligné ; deux-points
+  confiance: moyenne
+- ligne: 16
+  avant: Belle-Église
+  apres: Belle-Eglise
+  justification: aucun accent sur E
+  confiance: moyenne
+- ligne: 18
+  avant: 13 Ven. —
+  apres: \sl{13 Ven.} —
+  justification: trait sous la date
+  confiance: haute
+- ligne: 19
+  avant: Matinée, très beau temps
+  apres: \ind[2] matinée, très beau temps
+  justification: fort retrait ; m minuscule
+  confiance: moyenne
+- ligne: 21
+  avant: et pluie menaçante.
+  apres: et pluie menaçante \trait
+  justification: long trait final, pas de point
+  confiance: moyenne
+- ligne: 23
+  avant: Après-midi, long talk avec Secd Lt Gilbert,
+  apres: après-midi, long talk avec Sec^{d} Lt Gilbert,
+  justification: a minuscule ; d suscrit
+  confiance: moyenne
+- ligne: 24
+  avant: poète.
+  apres: poète \trait
+  justification: long trait final
+  confiance: haute
+difficultes:
+- ligne: 9
+  lemme: farine
+  analyse: 'zoom ×3 [.62 .29 1.0 .36] : après « de », haute boucle à longue descente (f), a, r écrasé, i pointé, n, e réduit, deux-points ; cacao exclu par la lettre haute ; non tranché'
+  alternatives:
+  - pain
+  - fécule
+  - cacao
+- ligne: 10
+  lemme: Cahiers
+  analyse: 'zoom ×3 [0 .33 .32 .375] : C bouclé, a, h haut bouclé, i, e, r, s ; aucun t barré ; le trait montant au-dessus de geog. est le s plongeant de « Doullens » (l. 9), non un accent'
+  alternatives:
+  - Cartes
+- ligne: 11
+  lemme: 40 c.
+  analyse: 'zoom ×3 [.48 .365 .80 .41] : 4 fermé (aspect d), 0, c, point, tiret'
+  alternatives:
+  - 20 c.
+- ligne: 11
+  lemme: '35'
+  analyse: 'zoom ×3 [.78 .365 1.0 .41] : 3 net ; second chiffre au bord du papier, 5 à haste ou 6 à boucle basse ; c éventuel fondu dans la boucle'
+  alternatives:
+  - 36
+  - 35 c
+- ligne: 12
+  lemme: '75'
+  analyse: 'zoom ×3 [.78 .395 1.0 .44] : 7 barré puis 5 en ſ coupé par le bord ; aucun c visible'
+  alternatives:
+  - 75 c
+- ligne: 24
+  lemme: il
+  analyse: 'zoom ×3 [0 .925 .40 .985] : l bouclé suivi d''un point à mi-hauteur ; lu « il », i réduit à l''attaque, point rejeté à droite'
+  alternatives:
+  - l.
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: « farine » non tranché (cacao reste exclu par la lettre haute) ; « Cahiers » retenu sur l'image ; Belle-Église identifiée comme hameau d'Arquèves selon le commentateur ; Hérissart ajouté aux lieux comme cantonnement (non nommé sur la page).
+  alternatives: []
+controle:
+- ligne: 10
+  avant: géog.
+  apres: geog.
+  justification: aucun accent sur le e ; le trait montant au-dessus est le s plongeant de « Doullens » (l. 9)
+- ligne: 9
+  avant: apparat disposition « … empiète sur les l. 7–8 »
+  apres: « … empiète sur les l. 6–8 »
+  justification: le cartouche monte jusqu'à « étaient » (l. 6)
+- ligne: 13
+  avant: apparat graphie « Nuit gelé » ; l. 14 « dégel fondu neige »
+  apres: (notes supprimées)
+  justification: tours elliptiques intelligibles, hors du champ des notes de graphie
+- ligne: 24
+  avant: il (sans note)
+  apres: il + note de lecture
+  justification: le tracé a l'aspect « l. » ; lecture à signaler au lecteur
+- ligne: 9
+  avant: note de lecture farine (analyse lettre à lettre)
+  apres: note abrégée donnant les autres lectures
+  justification: épuration de l'apparat ; analyse reportée dans difficultes
+remarques: La ligne « 2 Boîte de chlorate… » est sous le pied du crochet, qui ne couvre que les trois premières lignes des comptes.
+resume: 'Le mercredi 11 avril 1917, après une nuit très froide, Hippolyte Combes fait une course à Doullens le matin et à Warloy l''après-midi ; il neige longtemps et abondamment, puis la nuit apporte de violentes rafales. Il note ses achats de Doullens : ceinture de cuir (24 f 50), boîte achetée à la cantine, cahiers de géographie de la Somme, cartes postales, semelles de liège, teinture d''iode, chlorate de potasse, pastilles de menthe. Le jeudi 12, la neige durcie fond au dégel et les routes deviennent des bourbiers ; course à Belle-Église le matin, liberté l''après-midi. Le vendredi 13, belle matinée froide puis ciel couvert ; journée libre et longue conversation avec le sous-lieutenant Gilbert, de Jersey, homme instruit et poète.'
+noms:
+  personnes:
+  - forme: Gilbert
+    ligne: 23
+    identite: sous-lieutenant britannique originaire de Jersey (non identifié)
+  lieux:
+  - forme: Doullens
+    ligne: 3
+    identite: Doullens (Somme)
+  - forme: Warloy
+    ligne: 4
+    identite: Warloy-Baillon (Somme)
+  - forme: Belle-Eglise
+    ligne: 16
+    identite: Belle-Église, hameau d'Arquèves (Somme)
+  - forme: Somme
+    ligne: 10
+    identite: département de la Somme
+  - forme: Jersey
+    ligne: 24
+    identite: île de Jersey (îles Anglo-Normandes)
+source: contrôle

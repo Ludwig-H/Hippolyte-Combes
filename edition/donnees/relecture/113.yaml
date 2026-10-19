@@ -1,0 +1,172 @@
+cliche: 113
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 19 Ma. — \hfill Décbre 1916 —
+  apres: \sl{19 Ma} \hfill — \sl{Dec^{bre} 1916} —
+  justification: pas de point ni de tiret après Ma (seul le soulignement) ; Dec sans accent, bre suscrit ; soulignements visibles sous la date et sous Dec^{bre} 1916
+  confiance: haute
+- ligne: 2
+  avant: Belle-Église,
+  apres: Belle. eglise,
+  justification: point bas après Belle, e initial minuscule sans accent
+  confiance: moyenne
+- ligne: 3
+  avant: lgts
+  apres: lgs
+  justification: l + g + s descendant, sans t
+  confiance: moyenne
+- ligne: 4
+  avant: Village tr. calme & désert. Froid ds auto.
+  apres: village \add{tr} calme \inc{& désert. Froid} ds auto –
+  justification: v minuscule ; tr écrit petit au-dessus de la ligne ; ds (∂ + s plongeant) et auto sûrs ; passage intermédiaire empâté ; tiret final, pas de point
+  confiance: moyenne
+- ligne: 6
+  avant: flocons.
+  apres: flocons
+  justification: aucun point
+  confiance: moyenne
+- ligne: 8
+  avant: propriétaires.
+  apres: \inc{propriétres}.
+  justification: 'forme contractée : propri + t barré + finale ra/res, accent décalé'
+  confiance: moyenne
+- ligne: 9
+  avant: '[ — Bureau mission, XIIIe c., touché'
+  apres: \crochet{3}\ind[2] — Bureau mission, XIIIe C. touché
+  justification: grand crochet à pieds couvrant trois lignes ; C de forme majuscule ; pas de virgule avant touché
+  confiance: moyenne
+- ligne: 11
+  avant: 'Cartes Christmas : 70 c. ]'
+  apres: '\ind Carte : christmas - - : 70c.'
+  justification: Carte sans s, deux-points après Carte, c initial de christmas au module minuscule, tirets de conduite ; pas de crochet fermant
+  confiance: moyenne
+- ligne: 12
+  avant: Nuit, gelé très fortt.
+  apres: Nuit, gelé tr fort^{t}.
+  justification: tr réduit (aspect hu) ; t final suscrit
+  confiance: haute
+- ligne: 13
+  avant: Froid sec et très pénétrant.
+  apres: \ind Froid sec et tr pénétrant
+  justification: tr réduit ; pas de point final (barre de t prolongée)
+  confiance: moyenne
+- ligne: 15
+  avant: jeté
+  apres: \inc{jetté}
+  justification: deux hampes après e
+  confiance: basse
+- ligne: 16
+  avant: que à
+  apres: qu à
+  justification: q + u puis a accentué ; aucun e visible
+  confiance: moyenne
+- ligne: 18
+  avant: étoiles très brillantes.
+  apres: étoiles tr brillantes.
+  justification: tr réduit
+  confiance: haute
+- ligne: 20
+  avant: Mais préfère mille fois ce gd froid
+  apres: mais préfère mille fois ce g^{d} froid
+  justification: m initial minuscule ; d suscrit ; la boucle avant mille est le jambage du f de fendre
+  confiance: moyenne
+- ligne: 21
+  avant: précédentes.
+  apres: précédentes
+  justification: pas de point, délié final prolongé
+  confiance: moyenne
+difficultes:
+- ligne: 4
+  lemme: \inc{& désert. Froid}
+  analyse: après village, « tr calme » écrit petit et surélevé au-dessus de tracés épais repassés (aspect ullk) ; puis mot à grande boucle initiale (F ou D), e/r, s/o, terminé par une boucle en ∂ ; puis ∂ + s plongeant (ds) et auto. Le dernier mot convient mieux à Froid (F bouclé, ∂ final) qu'à désert ; « & désert » devrait alors se trouver dans les tracés épais sous calme, ce qui n'est pas vérifiable trait à trait.
+  alternatives:
+  - calme désert ds auto
+  - calme & Froid ds auto
+  - \sur{\ill}{calme} Froid ds auto
+- ligne: 8
+  lemme: propriétres
+  analyse: p-r-o-p-r-i lisibles, puis t dont la barre revient sur le i, accent grave décalé, finale ra/res sur la ligne ; zoom sans gain
+  alternatives:
+  - propriét^{res}
+  - propriétaires
+- ligne: 9
+  lemme: touché
+  analyse: devant touché, grande croix grise pâle (crayon ?) sans liaison avec l'encre ; trait étranger, non transcrit
+  alternatives: []
+- ligne: 9
+  lemme: mission
+  analyse: m à trois jambages, ss en hampes, finale plongeante (n plongeant ou s final)
+  alternatives:
+  - missions
+- ligne: 10
+  lemme: 84 fr
+  analyse: deux-points, 8 bouclé, 4 ouvert, puis f/r en un tracé (aspect h), encre brune comme Solde etc
+  alternatives:
+  - 84 f
+- ligne: 11
+  lemme: 70c.
+  analyse: 7 à barre, 0 empâté (repassé), c, point ; avant le montant, deux tirets de conduite puis un point et deux-points
+  alternatives:
+  - \sur{?}{70}c.
+- ligne: 13
+  lemme: tr
+  analyse: tr réduit (aspect hu) suivi d'un accent grave isolé, qui peut valoir trè ou appartenir à pénétrant
+  alternatives:
+  - trè
+  - très
+- ligne: 15
+  lemme: jetté
+  analyse: J bouclé, e, deux hampes hautes non barrées (la barre de et ne les atteint pas), é ; le sens (moins jeté et moins secoué) impose jeté
+  alternatives:
+  - jeté
+  - jessé
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources : Puckle 1917, p. 28 (Purchase Board d''armée), OH 1917-I, p. 66 (XIII Corps), OH 1916-I, p. 304 (Beauquesne). Belle-Église est un hameau d''Arquèves (corrigé dans noms). « & désert. Froid » (l. 4) et « jetté » (l. 15) restent douteux après contrôle. La place du feuillet 56 (verso photographié d''abord) n''est pas vérifiable sur ce seul cliché ; non reprise dans la note critique.'
+  alternatives: []
+controle:
+- ligne: 1
+  avant: \sl{19 Ma}
+  apres: 19 \sl{Ma}
+  justification: le trait d'en-tête commence après le 9 et s'étend sous Ma seul
+- ligne: 4
+  avant: note d'apparat et analyse sur \inc{& désert. Froid}
+  apres: même leçon gardée, analyse précisée (dernier mot plutôt Froid, & désert sous les tracés repassés)
+  justification: zooms ×3 rehaussés ; boucle initiale + ∂ final suivis de ds
+- ligne: 10
+  avant: 'apparat ajout sur « : 84 fr » seul'
+  apres: 'apparat ajout sur « Solde etc : 84 fr », fr développé'
+  justification: Solde etc et le montant ont la même encre pâle
+- ligne: 2
+  avant: identite Belle-Église, ferme près de Bertrancourt
+  apres: Belle-Église, hameau d'Arquèves
+  justification: remarque du commentateur historique ; accordé avec l'apparat
+- ligne: 0
+  avant: apparat chargé de détails matériels (ondulation de bre, 0 empâté, place de tr)
+  apres: notes épurées
+  justification: détails non utiles au lecteur, conservés dans difficultes
+remarques: 'Lignes 1–2 : la date et 19 Ma sont sur une ligne haute, Matinée commence un demi-interligne plus bas. Le crochet du bloc de comptes commence au niveau du tiret de « — Bureau mission ». Le soulignement de l''en-tête gauche ne couvre que Ma.'
+resume: Le mardi 19 décembre 1916, Hippolyte Combes fait en auto une course à Belle-Église et à Raincheval, où il attend longtemps devant l'Army Purchase Board ; l'après-midi il reste au bureau et à son cantonnement d'Acheux sous une neige à gros flocons, puis passe la soirée avec ses propriétaires. Il touche sa solde (84 fr) au bureau de la Mission du XIIIe corps et achète une carte de Noël (70 c.). Le 20, après une nuit de forte gelée, il circule l'après-midi en auto, assis à l'avant, vers Raincheval, Quesnoy et Beauquesne. Il rentre à la nuit sous un ciel étoilé et préfère ce grand froid au brouillard et à la pluie des semaines précédentes.
+noms:
+  personnes: []
+  lieux:
+  - forme: Belle. eglise
+    ligne: 2
+    identite: Belle-Église, hameau d'Arquèves (Somme)
+  - forme: Raincheval
+    ligne: 3
+    identite: Raincheval (Somme)
+  - forme: Acheux
+    ligne: 5
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Raincheval
+    ligne: 17
+    identite: Raincheval (Somme)
+  - forme: Quesnoy
+    ligne: 17
+    identite: ferme du Quesnoy, près de Beauquesne (Somme) (identification non établie)
+  - forme: Beauquesne
+    ligne: 17
+    identite: Beauquesne (Somme)
+source: contrôle

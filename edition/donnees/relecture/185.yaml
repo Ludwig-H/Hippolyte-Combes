@@ -1,0 +1,178 @@
+cliche: 185
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 28 Samedi — \hfill — Avril 1917 —
+  apres: \sl{28 Samedi.} \hfill — \sl{Avril 1917} —
+  justification: point final après Samedi, aucun tiret ; les deux éléments sont soulignés
+  confiance: haute
+- ligne: 2
+  avant: Commt jour, temps couvert.
+  apres: \ind Comm^{t} jour, temps couvert
+  justification: t nettement suscrit ; pas de point final ; ligne en retrait sous le soulignement de la date
+  confiance: haute
+- ligne: 4
+  avant: Vers 5h 1/4, sortis en auto, course à Pierregot.
+  apres: \inc{Vers} 5^{h} 1/4, sortis en auto, course à Pierregot
+  justification: h suscrit ; pas de point final ; premier mot réduit
+  confiance: moyenne
+- ligne: 5
+  avant: Off., retour de Bournemouth, m'a appris que
+  apres: off., retour de \inc{Bournmth}, m'a appris que
+  justification: 'o initial minuscule ; le nom est abrégé : B, ou, rn/m, m, th'
+  confiance: moyenne
+- ligne: 6
+  avant: bientôt ns quitterons le village et ns irons à
+  apres: bientot ns quitterons le village et ns irons à
+  justification: aucun circonflexe
+  confiance: moyenne
+- ligne: 7
+  avant: bcp
+  apres: bp
+  justification: b + p liés, sans c
+  confiance: haute
+- ligne: 8
+  avant: 'des environs d''Hérissart :'
+  apres: des environs d'\inc{Hér^{t}}
+  justification: mot abrégé en H-é-r + crochet suscrit ; aucun deux-points
+  confiance: moyenne
+- ligne: 9
+  avant: c'est la guerre.
+  apres: \ind c'est la guerre
+  justification: pas de point, ligne en retrait
+  confiance: moyenne
+- ligne: 11
+  avant: en pleine campagne.
+  apres: en pleine campagne \trait
+  justification: long trait final, aucun point
+  confiance: haute
+- ligne: 13
+  avant: C'est enfin le printemps!
+  apres: C'est enfin le printemps !
+  justification: point d'exclamation détaché
+  confiance: haute
+- ligne: 14
+  avant: Matin, partis
+  apres: matin, partis
+  justification: m initial minuscule
+  confiance: moyenne
+- ligne: 15
+  avant: 'avarie : 2 ressorts cassés.'
+  apres: avarie 2 ressorts cassés.
+  justification: 'pas de deux-points : le trait voisin est le jambage du p de partis (l. 14)'
+  confiance: moyenne
+- ligne: 16
+  avant: Hérissart, d'abord à pied, puis lift sur 1
+  apres: Herissart, d'abord à pied, puis \inc{1} lift sur 1
+  justification: aucun accent sur le e ; deux traits verticaux avant lift
+  confiance: moyenne
+- ligne: 17
+  avant: water-cart.
+  apres: water-cart \trait
+  justification: trait de remplissage
+  confiance: haute
+- ligne: 19
+  avant: Lt Gilbert
+  apres: L^{t} Gilbert
+  justification: t suscrit
+  confiance: haute
+- ligne: 21
+  avant: de tout.
+  apres: de tout
+  justification: pas de point visible
+  confiance: moyenne
+- ligne: 22
+  avant: Fin jour magnifique. Beau sunset.
+  apres: Fin jour magnifique Beau sunset \trait
+  justification: délié final de magnifique, pas de point ; barre du t de sunset prolongée en trait de remplissage
+  confiance: moyenne
+- ligne: 23
+  avant: Nuit superbe, mervt étoilée et claire.
+  apres: Nuit superbe, merv^{t} étoilée et claire
+  justification: t suscrit ; pas de point (la longue barre du t de Nuit n'est pas un tiret)
+  confiance: haute
+difficultes:
+- ligne: 4
+  lemme: Vers
+  analyse: grand V épais suivi d'un n anguleux et d'un délié ; e, r, s non distincts
+  alternatives:
+  - V^{rs}
+  - Vn
+- ligne: 4
+  lemme: 1/4
+  analyse: 1 oblique puis 4 fermé surélevé à sa droite, sans barre séparée (zoom [0 .08 .32 .13])
+  alternatives:
+  - \fr{1}{4}
+- ligne: 5
+  lemme: Bournmth
+  analyse: B bouclé, petite boucle (o), groupe de minimes (ur/rn), m, puis t haut lié à h ; th net ; lettres médianes indistinctes
+  alternatives:
+  - Bornmth
+  - Bournemth
+- ligne: 8
+  lemme: d'Hér^{t}
+  analyse: pâté oblong (d noyé), apostrophe, H à deux hastes, accent, r, crochet suscrit (zoom [.78 .23 1 .29])
+  alternatives:
+  - l'Hér^{t}
+  - d'Hér.
+- ligne: 9
+  lemme: la
+  analyse: l + petite boucle ouverte, a ou e ; « la » retenu par le sens
+  alternatives:
+  - le
+- ligne: 16
+  lemme: puis 1
+  analyse: 'p, u, i pointé, puis deux traits verticaux parallèles liés en pied avant lift : s final réduit (aspect 1) + 1 (zoom [.40 .65 .82 .70])'
+  alternatives:
+  - puis lift
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Bournemouth était dans le Hampshire en 1917 (rattaché au Dorset en 1974) : corrigé dans « noms ». Cambrai restait allemand jusqu''au 9 octobre 1918 : l''annonce relève de la rumeur ou d''un projet (voir remarques).'
+  alternatives: []
+controle:
+- ligne: 1
+  avant: 'apparat : note de lecture sur « Samedi. »'
+  apres: note supprimée
+  justification: lecture sûre, la note ne décrivait qu'une forme de lettre
+- ligne: 15
+  avant: 'apparat : note de lecture sur « avarie 2 ressorts »'
+  apres: note supprimée
+  justification: question de ponctuation seulement, gardée dans « changements »
+- ligne: 5
+  avant: 'noms : Bournemouth (Dorset, Angleterre)'
+  apres: Bournemouth (Hampshire, Angleterre)
+  justification: rattachement au Dorset en 1974 seulement (remarque du commentateur historique)
+- ligne: 4
+  avant: 'apparat : 5^{h} 1/4 avec description du 4 surélevé ; Bournmth et d''Hér^{t} avec analyse des lettres'
+  apres: notes réduites au développement
+  justification: détails paléographiques renvoyés dans « difficultes »
+remarques: 'Cambrai était encore aux mains des Allemands en avril 1917 (jusqu''au 9 octobre 1918) : l''annonce rapportée relève de la rumeur ou d''un projet. Le « off. » de la l. 5 n''est pas nommé.'
+resume: 'Samedi 28 avril 1917, temps couvert puis beau soleil ; vers 5 h 1/4, course en auto à Pierregot. Un officier revenu de Bournemouth annonce que l''on quittera bientôt Hérissart pour Cambrai ; Hippolyte Combes regrettera les panoramas des environs. Après le déjeuner, promenade en pleine campagne. Dimanche 29, journée de printemps ; le matin, l''auto casse deux ressorts en arrivant à Contay : retour à Hérissart à pied, puis sur une voiture-citerne. L''après-midi, promenade sur la route de Mirvaux avec le lieutenant Gilbert, causerie assis sur un talus ; beau coucher de soleil, nuit étoilée.'
+noms:
+  personnes:
+  - forme: L^{t} Gilbert
+    ligne: 19
+    identite: sous-lieutenant britannique, collègue d'Hippolyte Combes au Purchase Board
+  lieux:
+  - forme: Pierregot
+    ligne: 4
+    identite: Pierregot (Somme)
+  - forme: Bournmth
+    ligne: 5
+    identite: Bournemouth (Hampshire, Angleterre)
+  - forme: Cambrai
+    ligne: 7
+    identite: Cambrai (Nord)
+  - forme: Hér^{t}
+    ligne: 8
+    identite: Hérissart (Somme)
+  - forme: Contay
+    ligne: 14
+    identite: Contay (Somme)
+  - forme: Herissart
+    ligne: 16
+    identite: Hérissart (Somme)
+  - forme: Mirvaux
+    ligne: 20
+    identite: Mirvaux (Somme)
+source: contrôle

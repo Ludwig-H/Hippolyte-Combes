@@ -1,0 +1,159 @@
+cliche: 42
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 12 mardi. \hfill Sept / 16
+  apres: \sl{12 mardi} \hfill \sl{Sept^{bre} /16}
+  justification: Deux soulignements nets ; finale suscrite ondulée après Sept ; pas de point après mardi.
+  confiance: haute
+- ligne: 2
+  avant: excte
+  apres: exc^{te}
+  justification: te surélevé après exc ; ligne en retrait.
+  confiance: haute
+- ligne: 3
+  avant: Déjeuné
+  apres: Dejeuné
+  justification: Seul l'accent final est tracé ; le point au-dessus du j appartient au j.
+  confiance: haute
+- ligne: 4
+  avant: Après-midi, Cap. West
+  apres: après-midi, cap. West
+  justification: a et c au module des minuscules.
+  confiance: moyenne
+- ligne: 5
+  avant: leur mess
+  apres: \inc{le} mess
+  justification: Seuls l + e et un délié ; aucun u ni r visibles.
+  confiance: moyenne
+- ligne: 6
+  avant: devant son insistance, [ai accepté / dû accepter ?]
+  apres: devant son insistance dû accepter \trait
+  justification: ∂ + u à barre (dû) puis accepter terminé en long délié ; pas de virgule après insistance.
+  confiance: haute
+- ligne: 7
+  avant: Dès le soir, membre du mess des off à
+  apres: Dès le soir membre du mess des offs à
+  justification: Pas de virgule visible ; s final après off.
+  confiance: moyenne
+- ligne: 8
+  avant: définitif
+  apres: definitif
+  justification: Aucun accent tracé.
+  confiance: moyenne
+- ligne: 10
+  avant: converser
+  apres: \inc{convers^{n}}
+  justification: Après convers, petit n détaché et surélevé avec point ; forme conversn attestée en 128.
+  confiance: moyenne
+- ligne: 12
+  avant: – Temps menaçant – (Matin & après-midi
+  apres: \ind – Temps menaçant – \hfill (Matin & après-midi
+  justification: Bloc à droite ouvert par une haute parenthèse sur trois lignes.
+  confiance: haute
+- ligne: 13
+  avant: sur les hauteurs for
+  apres: \droite sur les hauteurs fo
+  justification: Zoom ×3 [.85 .45 1.0 .50] — f bouclé puis o fermé, sans sortie ni jambage de r ; le mot s'arrête au bord de la page.
+  confiance: haute
+- ligne: 15
+  avant: 13 Me Temps couvert après-midi,
+  apres: \sl{13 Me} \hfill Temps couvert après-midi,
+  justification: Date soulignée, texte rejeté à droite.
+  confiance: haute
+- ligne: 17
+  avant: forêt
+  apres: foret
+  justification: Seule la barre du t, longue, passe au-dessus de l'e ; pas de circonflexe distinct.
+  confiance: moyenne
+- ligne: 19
+  avant: séculaires
+  apres: seculaires
+  justification: Aucun accent.
+  confiance: moyenne
+- ligne: 20
+  avant: angle droit.
+  apres: angle droit –
+  justification: Tiret épais après droit, non point.
+  confiance: moyenne
+- ligne: 21
+  avant: d'allées
+  apres: d'Allées
+  justification: A pointu majuscule comme dans Arbres (l. 19).
+  confiance: moyenne
+- ligne: 23
+  avant: pr 1ère fois, mess des offs
+  apres: et 1^{ère} fois, mess des offs
+  justification: e + t barré (guide § 8 n° 13) ; ère surélevé avec accent en barre.
+  confiance: haute
+difficultes:
+- ligne: 5
+  lemme: le
+  analyse: Zoom ×3 [.04 .175 .26 .22] — boucle de l, petit e, puis long délié horizontal vers mess ; aucune minime pour u ni bosse pour r. « à le mess » est peu naturel, d'où « leur » abrégé possible.
+  alternatives:
+  - leur
+- ligne: 6
+  lemme: insistance
+  analyse: i-n-s-i-s-t-a + finale serrée ; la barre au-dessus de la fin est la barre du t prolongée, non un tilde.
+  alternatives:
+  - insistce
+- ligne: 9
+  lemme: quelconque
+  analyse: q-u-e-l-c-o-n lisibles, la fin réduite à un long délié ; le trait en virgule devant le q vient de la ligne supérieure.
+  alternatives:
+  - quelconq
+- ligne: 10
+  lemme: convers^{n}
+  analyse: c-o-n-v-e-r-s puis petit jambage double détaché, plus haut, avec point ; « anglais » suivant est noyé sous un pâté d'encre, s final plongeant lisible.
+  alternatives:
+  - converser
+  - conversa
+- ligne: 13
+  lemme: fo
+  analyse: f bouclé + o fermé ; aucun r ; for (anglais) écourté, à lire avec green forage de la ligne suivante.
+  alternatives:
+  - for
+- ligne: 17
+  lemme: magnifique
+  analyse: magnifiq + long délié final valant -ue.
+  alternatives:
+  - magnifiq
+- ligne: 20
+  lemme: l'extré
+  analyse: Zoom ×3 [.78 .695 1.0 .735] — boucle de l, apostrophe, e, x, t à haute haste dont la barre file à droite en accent, r et e réduits.
+  alternatives:
+  - l'extrém.
+- ligne: 21
+  lemme: feuilles
+  analyse: feuill + e prolongé d'un long délié ; aucun s distinct, le délié peut le valoir.
+  alternatives:
+  - feuille
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Points vérifiés sur l''image : la mention du fourrage vert chevauche bien le filet (critique) ; « \inc{le} mess » (ou « leur ») et « convers^{n} » restent douteux. Sources signalées : Nichols 1922 p. 110 et 432, TNA WO 339/21191, Fernand-Laurent 1917 p. 64-65, Blackwood''s Magazine juin 1917 p. 933, Mérimée PA00116224, JMO 7/Bedf 12-13 sept. 1916.'
+  alternatives: []
+controle:
+- ligne: 13
+  avant: \droite sur les hauteurs \inc{for}
+  apres: \droite sur les hauteurs fo
+  justification: Zoom ×3 [.85 .45 1.0 .50] — f + o fermé sans aucun trait de r ; on transcrit l'image, « for » passe dans l'apparat (lecture).
+- ligne: 12
+  avant: (apparat sans entrée pour « & » de « (Matin & après-midi »)
+  apres: '& : et'
+  justification: Abréviation non relevée par la première lecture.
+- ligne: 3
+  avant: changement « Dejeuné » de confiance moyenne
+  apres: confiance haute
+  justification: Zoom ×3 [.04 .075 .22 .12] — aucun accent sur le premier e ; le point visible est celui du j.
+remarques: Le guide (§ 8 n° 13) confirme « et 1^{ère} fois » à la l. 23 ; vérifié au zoom.
+resume: 'Le 12 septembre 1916, reposé, Hippolyte Combes déjeune dans sa chambre ; l''après-midi, le capitaine West l''invite à faire partie de leur mess de façon permanente, et il doit accepter. Dès le soir il en est membre : cuisine quelconque, mais conversation anglaise et lieu où lire revues et journaux. Achats de fourrage vert sur les hauteurs. Le 13, temps couvert et averses ; il se promène dans la forêt à gauche du château, aux arbres séculaires et allées à angle droit, puis remonte au plateau pour le fourrage ; premier jour entier au mess des officiers.'
+noms:
+  personnes:
+  - forme: West
+    ligne: 4
+    identite: capitaine britannique (Cap. West)
+  lieux:
+  - forme: chateau
+    ligne: 17
+    identite: château de Raincheval (Somme)
+source: contrôle

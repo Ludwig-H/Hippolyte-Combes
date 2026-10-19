@@ -1,0 +1,219 @@
+cliche: 130
+confiance: moyenne
+changements:
+- ligne: 3
+  avant: Amiens, vers 2h matin.
+  apres: 2^{H} matin
+  justification: H suscrit ; aucun point après matin
+  confiance: haute
+- ligne: 5
+  avant: Boilly, est prof. à Pont-à-Mousson)
+  apres: Boilly, est prof. à Pont-à-Mousson),
+  justification: virgule (trait vertical descendant sous la ligne) après la parenthèse fermante, en bout de ligne
+  confiance: moyenne
+- ligne: 6
+  avant: sorti gare, et allé à l'Abri du Soldat,
+  apres: sorti gare, et allé à l'abri du soldat,
+  justification: a au module des minuscules ; s de soldat en boucle montante de minuscule, sans retombée
+  confiance: moyenne
+- ligne: 7
+  avant: Bvd Alsace-Lorraine. Aucune place.
+  apres: Bd Alsace-Lorraine. Aucune place
+  justification: deux lettres seulement (B, d) ; pas de point après place, finale prolongée
+  confiance: haute
+- ligne: 8
+  avant: Entré à la Y.M.C.A. Hut, à côté gare.
+  apres: Entré à la Y.M.C.A. Hut, à côté gare
+  justification: aucun point après gare
+  confiance: moyenne
+- ligne: 11
+  avant: de Boulogne-Paris. Froid très vif.
+  apres: de Boulogne-Paris. Froid très vif
+  justification: aucun point après vif, seulement la longue finale du f
+  confiance: moyenne
+- ligne: 12
+  avant: Enfin vers 5h 1/2 (2 h. de retard) train arrivé. Monté
+  apres: Enfin vers 5^{H} \fr{1}{2} \add{(2^{H} de retard)}, train arrivé. Monté
+  justification: 'H suscrits ; demi empilé ; la parenthèse, en petit module au-dessus de la ligne, surmonte exactement « train » : ajout ; virgule à la ligne de base sous 2^{H}'
+  confiance: moyenne
+- ligne: 13
+  avant: compartiment 2e cl., très confortable, mais
+  apres: compartiment 2e cl, très confortable, mais
+  justification: aucun point après cl, seule la virgule
+  confiance: moyenne
+- ligne: 16
+  avant: Paris, gare du Nord, vers 11h 15 m.
+  apres: Paris, gare du nord, vers 11^{H} 15 m
+  justification: n minuscule ; H suscrit ; pas de point après m
+  confiance: moyenne
+- ligne: 17
+  avant: Pris 1 fiacre et venu gare d'Orsay
+  apres: Pris 1 fiacre et venu gare de Orsay
+  justification: e bouclé net, lié au d ; seul un petit trait pointé au-dessus de l'O pourrait valoir apostrophe
+  confiance: moyenne
+- ligne: 18
+  avant: où billet et fait, en 10 minutes, enregistrer mes bagages.
+  apres: où billet et fait \add{en 10 minutes} enregistrer mes bagages
+  justification: « en 10 minutes » écrit au-dessus de la ligne, sans virgules ; la haste et la barre qui traversent 1 et 0 sont le s long et le t d'enregistrer
+  confiance: haute
+- ligne: 19
+  avant: Me suis rendu par le métro à
+  apres: \ind Me suis rendu par le metro à
+  justification: alinéa ; au-dessus du mot, seule la barre du t, aucun accent distinct
+  confiance: moyenne
+- ligne: 22
+  avant: rue d'Armenonville, no [?]6.
+  apres: rue d'Armenonville, no \inc{4}6
+  justification: 'premier chiffre empâté : boucle pleine avec haste montante à droite, forme du 4 fermé ; second chiffre 6 ; pas de point final'
+  confiance: basse
+- ligne: 23
+  avant: Maison luxueuse. Au 4e étage, à g.
+  apres: Maison luxueuse. Au 4^{e} etage, à g.
+  justification: e suscrit ; aucun accent distinct sur etage
+  confiance: moyenne
+difficultes:
+- ligne: 4
+  lemme: l'1,
+  analyse: après le l, long délié fin en ( (apostrophe, même forme que dans d'Armenonville, l. 22), petit crochet à mi-hauteur (1 réduit), puis long trait descendant sous la ligne (virgule)
+  alternatives:
+  - l',
+- ligne: 5
+  lemme: Boilly
+  analyse: B (aspect ℓo), puis deux jambages ouverts en haut (o ouvert, comme dans Boulogne l. 11), i au point décalé, ll, y ; entre B et ll, place pour deux lettres seulement
+  alternatives:
+  - Bailly
+  - Builly
+- ligne: 6
+  lemme: l'abri
+  analyse: l bouclé épais, puis long délié fin montant (apostrophe, cf. l. 22) qui se lie à l'a ; a au module des minuscules ; s de soldat en boucle montante, sans la retombée du S majuscule
+  alternatives:
+  - l'Abri du Soldat
+- ligne: 11
+  lemme: Boulogne-Paris.
+  analyse: trait d'union réduit à un point à mi-hauteur, comme dans Alsace-Lorraine (l. 7) ; Paris d'encre plus pâle (plume presque sèche, Froid de nouveau foncé)
+  alternatives:
+  - Boulogne. Paris.
+- ligne: 12
+  lemme: \add{(2^{H} de retard)},
+  analyse: ( courbe nette ; 2 bouclé ; H à deux hastes et traverse (aspect 1H) ; de ; retard ; ) = long délié fin oblique descendant jusqu'au début d'arrivé ; « de retard » est à l'aplomb de « train », donc écrit après coup au-dessus de la ligne ; sous 2^{H}, à la ligne de base, trait vertical descendant = virgule
+  alternatives:
+  - Enfin vers 5^{H} \fr{1}{2} (2^{H} de retard) train arrivé
+- ligne: 15
+  lemme: m'assoupir
+  analyse: apostrophe nette ; a, ss (deux boucles), o, u, p à longue haste, arche, i, puis r en pointe (montée puis redescente à la ligne de base) ; le point, décalé au-dessus du r, est celui du i ; tour « m'assoupir 1 peu » ailleurs dans le carnet
+  alternatives:
+  - m'assoupi
+- ligne: 16
+  lemme: 15 m
+  analyse: 1 à trait d'attaque, 5 en ſ à haute boucle descendant jusqu'à la l. 17, m réduit dont le dernier jambage plonge ; m. vaut matin après une heure ronde (11H m., 040–041), minutes ailleurs (7H 30 m., 054)
+  alternatives:
+  - 1/2
+- ligne: 17
+  lemme: de Orsay
+  analyse: 'd en ∂ et e bouclé liés, nets ; au-dessus de l''attaque de l''O, petit trait vertical pointé (aspect !), distinct de la haste du 5 et du jambage du m de la l. 16 : apostrophe ajoutée ou attaque de l''O'
+  alternatives:
+  - d'Orsay
+- ligne: 18
+  lemme: en 10 minutes
+  analyse: 1 à trait d'attaque ; la haste et la barre qui traversent ensuite sont le s long et le t d'enregistrer ; 0 ovale juste avant minutes
+  alternatives:
+  - en 15 minutes
+- ligne: 20
+  lemme: 'Neuilly :'
+  analyse: 'petit trait à mi-hauteur puis point sur la ligne, décalé à droite : deux-points peu net'
+  alternatives:
+  - Neuilly .
+- ligne: 22
+  lemme: \inc{4}6
+  analyse: 'premier chiffre : boucle pleine noyée d''encre, haste droite montant de son bord supérieur droit, sans tête ronde ni pied (4 fermé aspect d ; 8 à petite boucle ouverte ou 2 possibles) ; second chiffre : arc descendant, boucle basse refermée en son milieu (6), dont le pied touche le e suscrit de la l. 23'
+  alternatives:
+  - '26'
+  - '66'
+  - '86'
+- ligne: 23
+  lemme: 4^{e}
+  analyse: 4 ouvert en h ; e suscrit en arc ouvert, touchant le pied du 6 de la l. 22
+  alternatives:
+  - 4^{me}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Note du commentaire historique (état p1) : 1092 caractères ; Fernand-Laurent 1917, p. 92-93 (foyer Y.M.C.A. de la gare d''Amiens), Yapp 1918 (hypothèse de la « Joy » hut), La Dépêche du 28 janvier 1917, p. 2 (crise du charbon), Baedeker 1913, p. 28, Wikipédia « Ligne 1 du métro de Paris » ; Boilly et l''« abri du soldat » non identifiés. Après contrôle p2 : « m''assoupir » (r rétabli), « gare de Orsay » (sic, pour d''Orsay), numéro de la rue d''Armenonville 46 dont le premier chiffre reste douteux (2, 6 ou 8 possibles).'
+  alternatives: []
+controle:
+- ligne: 5
+  avant: Boilly, est prof. à Pont-à-Mousson)
+  apres: Boilly, est prof. à Pont-à-Mousson),
+  justification: 'après la parenthèse fermante, trait vertical descendant sous la ligne (x≈0,96 ; y≈0,18–0,20), distinct de la virgule de la l. 4 et de celle qui suit soldat (l. 6) : virgule'
+- ligne: 12
+  avant: Enfin vers 5^{H} \fr{1}{2} (2^{H} de retard) train arrivé. Monté
+  apres: Enfin vers 5^{H} \fr{1}{2} \add{(2^{H} de retard)}, train arrivé. Monté
+  justification: '« de retard » est écrit à l''aplomb de « train » : la parenthèse, en petit module au-dessus de la ligne, est insérée après coup (balise d''ajout au lieu d''une note de disposition) ; sous 2^{H}, à la ligne de base, trait vertical descendant = virgule ; la parenthèse fermante est le long délié fin qui descend vers arrivé'
+- ligne: 15
+  avant: Pu m'assoupi 1 peu.
+  apres: Pu m'assoupir 1 peu.
+  justification: 'après la haste du p, trois traits : arche, i, puis r en pointe redescendant à la ligne de base ; le point décalé au-dessus du r est celui du i ; même tour « m''assoupir 1 peu » ailleurs dans le carnet ; leçon de l''état antérieur rétablie, note de lecture supprimée'
+- ligne: 16
+  avant: 'note : onze heures quinze minutes'
+  apres: 'note : onze heures quinze (m : minutes ou matin)'
+  justification: 'm. après l''heure vaut matin dans 11H m. (027, 040, 041), minutes dans 7H 30 m. (054) : ne pas trancher'
+- ligne: 17
+  avant: Pris 1 fiacre et venu gare d'Orsay
+  apres: Pris 1 fiacre et venu gare de Orsay
+  justification: d en ∂ suivi d'un e bouclé net, lié ; seul un petit trait pointé au-dessus de l'O, détaché, pourrait valoir apostrophe ; note de lecture ajoutée
+- ligne: 22
+  avant: rue d'Armenonville, no \inc{46}
+  apres: rue d'Armenonville, no \inc{4}6
+  justification: seul le premier chiffre est douteux ; le second (arc ouvert en haut, boucle basse refermée) est un 6 ; 8 ajouté aux lectures possibles du premier
+- ligne: 6
+  avant: 'apparat : lecture « l''abri du soldat » (a et s au module des minuscules)'
+  apres: note supprimée
+  justification: 'simple absence de majuscules : pas de note imprimée ; analyse reportée dans difficultes'
+- ligne: 12
+  avant: 'apparat : disposition « (2^{H} de retard) »'
+  apres: 'apparat : ajout « (2^{H} de retard) » et abréviation 2^{H}'
+  justification: la balise d'ajout rend la disposition ; développement de 2^{H} manquant
+remarques: 'Suite au cliché 131 (appartement de Mme Faure, au 4e étage à gauche ; arrivée vers midi 30). Numéro de la rue d''Armenonville non assuré (premier chiffre noyé d''encre). « gare de Orsay » : leçon littérale, d''Orsay voulu. « Paris » (l. 11) d''encre plus pâle, sans doute plume presque sèche, non un ajout.'
+resume: Le train arrive enfin à Amiens vers 2 heures du matin. Avec deux interprètes, dont Boilly, professeur à Pont-à-Mousson, Hippolyte Combes sort de la gare, ne trouve aucune place à l'abri du soldat du boulevard Alsace-Lorraine, entre à la baraque Y.M.C.A. voisine de la gare, puis déambule des heures sur le quai, par un froid très vif, en attendant le train Boulogne-Paris, arrivé vers 5 h 30 avec deux heures de retard. Dans un compartiment de 2e classe confortable mais à l'air brûlant, il parvient à s'assoupir un peu. Arrivé gare du Nord vers 11 h 15, il gagne en fiacre la gare d'Orsay, où il prend son billet et fait enregistrer ses bagages en dix minutes, puis va en métro (Tuileries – Porte-Maillot) à Neuilly. Après cinq minutes de marche, il arrive rue d'Armenonville, dans une maison luxueuse, au 4e étage à gauche.
+noms:
+  personnes:
+  - forme: Boilly
+    ligne: 5
+    identite: interprète, professeur à Pont-à-Mousson (non identifié)
+  lieux:
+  - forme: Amiens
+    ligne: 3
+    identite: Amiens (Somme)
+  - forme: Pont-à-Mousson
+    ligne: 5
+    identite: Pont-à-Mousson (Meurthe-et-Moselle)
+  - forme: abri du soldat
+    ligne: 6
+    identite: Abri du Soldat, foyer pour militaires, boulevard d'Alsace-Lorraine, Amiens
+  - forme: Bd Alsace-Lorraine
+    ligne: 7
+    identite: boulevard d'Alsace-Lorraine, Amiens
+  - forme: Y.M.C.A. Hut
+    ligne: 8
+    identite: baraque-foyer de la Y.M.C.A. près de la gare d'Amiens
+  - forme: Boulogne-Paris
+    ligne: 11
+    identite: Boulogne-sur-Mer (Pas-de-Calais) ; Paris
+  - forme: gare du nord
+    ligne: 16
+    identite: gare du Nord, Paris
+  - forme: gare de Orsay
+    ligne: 17
+    identite: gare d'Orsay, Paris
+  - forme: Neuilly
+    ligne: 20
+    identite: Neuilly-sur-Seine (Seine)
+  - forme: Tuileries
+    ligne: 20
+    identite: station Tuileries, ligne 1 du métro, Paris
+  - forme: Porte-Maillot
+    ligne: 20
+    identite: station Porte Maillot, terminus de la ligne 1 du métro, Paris
+  - forme: rue d'Armenonville
+    ligne: 22
+    identite: rue d'Armenonville, Neuilly-sur-Seine
+source: contrôle

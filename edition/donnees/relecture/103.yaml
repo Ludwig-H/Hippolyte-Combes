@@ -1,0 +1,219 @@
+cliche: 103
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 25 \hfill Nov. /16 —
+  apres: \sl{Sam. 25} \hfill \sl{Nov /16 –}
+  justification: les deux éléments de la date sont soulignés ; aucun point après Nov ; tiret court
+  confiance: haute
+- ligne: 2
+  avant: Auj'd'hui, + encore que hier, pluie averse.
+  apres: Auj'hui, + encore que hier, pluie averse
+  justification: A-u-j + apostrophe + h-u-i, aucun d ; aucun point final
+  confiance: haute
+- ligne: 4
+  avant: j'à
+  apres: j-à
+  justification: trait d'union court entre j et à (guide § 8, 12)
+  confiance: moyenne
+- ligne: 5
+  avant: 1/2 jambe. C'est désespérant.
+  apres: \fr{1}{2} jambe. C'est desesperant.
+  justification: fraction empilée ; aucun accent visible sur les e de desesperant
+  confiance: moyenne
+- ligne: 6
+  avant: langui bureau,
+  apres: langui bureau
+  justification: aucune virgule après bureau, au bord de la page
+  confiance: moyenne
+- ligne: 8
+  avant: Triste vie.
+  apres: Triste vie
+  justification: aucun point après vie
+  confiance: moyenne
+- ligne: 9
+  avant: 25 obus
+  apres: 28 obus
+  justification: 'second chiffre : petite boucle haute fermée, croisement, boucle basse = 8 ; le 5 de « 25 » (l. 1) est une haute boucle à haste'
+  confiance: moyenne
+- ligne: 10
+  avant: Fme Royer.
+  apres: F^{me} Royer\add{\inc{fille}}.
+  justification: mot écrit petit sous Royer, omis antérieurement
+  confiance: basse
+- ligne: 12
+  avant: bruits énervants de la rue.
+  apres: bruits enervants de la rue
+  justification: pas d'accent sur le premier e ; pas de point final
+  confiance: moyenne
+- ligne: 13
+  avant: Dim. 26
+  apres: \sl{Dim. 26}
+  justification: date soulignée d'un long trait
+  confiance: haute
+- ligne: 14
+  avant: Toute la nuit
+  apres: \inc{Durant} la nuit
+  justification: 'seconde lecture : D en J descendant sous la ligne à gauche, puis u-r-a et t final dont la barre file jusqu''à « la » ; cf. « Durant » l. 6'
+  confiance: basse
+- ligne: 15
+  avant: d'eau.
+  apres: d'eau
+  justification: long délié final, pas de point
+  confiance: moyenne
+- ligne: 16
+  avant: 'lavées : 1/2 des chaussées,'
+  apres: lavées ; \fr{1}{2} des chaussées
+  justification: point-virgule ; fraction empilée
+  confiance: moyenne
+- ligne: 17
+  avant: côtés, profondes
+  apres: Cotés \inc{\fr{1}{2}}, profondes
+  justification: majuscule C, pas de circonflexe ; signe courbe terminé par un 2 barré après Cotés
+  confiance: basse
+- ligne: 18
+  avant: pluie cesse peu à peu
+  apres: pluie cesse peu à peu \trait
+  justification: long trait final jusqu'au bord
+  confiance: haute
+- ligne: 19
+  avant: sans ondée.
+  apres: sans ondée \trait
+  justification: grand trait courbe puis horizontal après ondée, pas de point
+  confiance: moyenne
+- ligne: 20
+  avant: interprète, M. Deloney,
+  apres: interpte M. \inc{Deloney},
+  justification: mot abrégé i-n-t-e-r-p-t-e ; pas de virgule avant M. ; nom lu lettre à lettre, finale douteuse
+  confiance: moyenne
+- ligne: 21
+  avant: à Acheux, thé
+  apres: à Ach thé
+  justification: seules les lettres A-c-h sont lisibles avant la descente de l'& de la ligne 20 ; pas de virgule
+  confiance: moyenne
+- ligne: 23
+  avant: longt en fr. Nuit très belle,
+  apres: longt en fr\inc{ç} \trait \hfill Nuit très belle,
+  justification: après fr, c à queue et long trait ; Nuit très belle rejeté à droite
+  confiance: basse
+- ligne: 24
+  avant: (magnift étoilée)
+  apres: \droite (magnif^{t} étoilée
+  justification: t surélevé barré ; aucune parenthèse fermante
+  confiance: moyenne
+difficultes:
+- ligne: 9
+  lemme: '28'
+  analyse: 2 bouclé, puis chiffre à petite boucle haute fermée, croisement et boucle basse ; diffère du 5 en haute boucle de « 25 » (l. 1) ; le x sous le chiffre appartient à la l. 10
+  alternatives:
+  - '25'
+- ligne: 10
+  lemme: F^{me}
+  analyse: F majuscule suivi d'un petit crochet bas (aspect r) ; m-e non distincts
+  alternatives:
+  - Fr
+  - F^{e}
+- ligne: 10
+  lemme: Royer
+  analyse: R, o, tête de y en V dont la descente plonge vers le mot interlinéaire, puis e-r réduits (aspect « Roud ») ; la haute haste à droite est la barre du s/ de la l. 9
+  alternatives:
+  - Rouel
+- ligne: 10
+  lemme: \add{\inc{fille}}
+  analyse: 'sous Royer : première lettre descendante (f, g ou descente du y de Royer), puis i, deux hautes boucles l-l, e final ; rattachement incertain'
+  alternatives:
+  - ville
+  - Gille
+  - -ille (fin de mot)
+- ligne: 11
+  lemme: impossible
+  analyse: i-m-p-o-s-s puis deux hautes boucles (b, l) et long délié courbe ; le i entre ss et b n'est pas distinct
+  alternatives:
+  - impossble
+- ligne: 14
+  lemme: \inc{Durant}
+  analyse: mot noirci, repassé ; première lettre à fût descendant terminé par un trait de base vers la gauche (D en J, comme l. 6), puis u, r, haute boucle, a, t final barré ; une surcharge de « Toute » n'est pas exclue
+  alternatives:
+  - Toute
+  - Tout
+- ligne: 17
+  lemme: \inc{\fr{1}{2}}
+  analyse: trait courbe partant de l'interligne sous l'& de la l. 16, distinct de la descente de l'&, terminé par un 2 barré ; un point isolé suit, puis une virgule
+  alternatives:
+  - signe de renvoi
+  - flèche
+- ligne: 20
+  lemme: \inc{Deloney}
+  analyse: D majuscule en J, e, l bouclé, o, n, e, puis c et lettre à panse fermée et queue (a ou q) ; pas de tête en V ouvert ; les hastes au-dessus viennent du d d'ondée (l. 19)
+  alternatives:
+  - Delonecq
+  - Deloncq
+- ligne: 21
+  lemme: cabane
+  analyse: c, a, b (haste), a, n-e réduits ; cf. 087 « la cabane qui ns sert de mess-room »
+  alternatives:
+  - cahute
+- ligne: 23
+  lemme: fr\inc{ç}
+  analyse: 'encre pâle : f, r, puis après un blanc c à queue descendante et long trait horizontal'
+  alternatives:
+  - fr. —
+  - frs
+- ligne: 23
+  lemme: Nuit très belle,
+  analyse: 'très réduit à h-u (forme usuelle) ; après belle, petit trait courbe au bord : virgule ou parenthèse'
+  alternatives:
+  - Nuit très belle (
+controle:
+- ligne: 14
+  avant: \ind[2] Toute la nuit
+  apres: \ind[2] \inc{Durant} la nuit
+  justification: 'zoom ×3 : fût initial descendant avec trait de base à gauche (D en J), t final barré dont la barre file vers « la » ; « Toute » finirait par e ; doute maintenu'
+- ligne: 14
+  avant: apparat disposition « Toute »
+  apres: apparat lecture « \inc{Durant} »
+  justification: la note de disposition devient une note de lecture
+- ligne: 1
+  avant: note « novembre 1916 ; la barre oblique porte un trait horizontal vers la gauche »
+  apres: note « novembre 1916 »
+  justification: 'épuration : détail paléographique sans utilité pour le lecteur'
+- ligne: 9
+  avant: (pas de note)
+  apres: apparat « + de » = plus de
+  justification: abréviation non développée dans la première lecture
+- ligne: 21
+  avant: note « Acheux ; la fin du mot est recouverte… »
+  apres: note « Acheux »
+  justification: épuration de l'apparat
+- ligne: 24
+  avant: apparat disposition « (magnif^{t} étoilée »
+  apres: supprimé
+  justification: le balisage (\droite, parenthèse non refermée) suffit
+- ligne: 20
+  avant: difficulté « finale en y ouvert »
+  apres: finale à panse fermée (a ou q), Delonecq possible
+  justification: 'zoom ×3 : aucune tête en V ; \inc{} maintenu faute de mieux'
+remarques: Mot interlinéaire sous « Royer » (l. 10), premier mot de la l. 14 et signe après « Cotés » (l. 17) restent douteux ; nom de l'interprète à confronter aux autres mentions.
+resume: 'Samedi 25 novembre 1916, à Acheux : pluie battante, routes et rues transformées en bourbiers ; Hippolyte Combes passe de longues heures inactif au bureau. Dans la matinée, plus de 28 obus tombent sur Acheux du côté de la sucrerie et de la ferme Royer, faisant plusieurs tués et blessés ; sa chambre est inhabitable à cause du froid et du bruit. Dimanche 26 : pluie toute la nuit et la matinée, chaussées couvertes de boue. Le lieutenant Walsh et son interprète, M. Deloney, viennent prendre le thé dans la cabane ; Combes les raccompagne à Hérissart et peut longuement parler français. Nuit étoilée.'
+noms:
+  personnes:
+  - forme: Royer
+    ligne: 10
+    identite: ferme Royer, à Acheux
+  - forme: Lt Walsh
+    ligne: 20
+    identite: lieutenant britannique
+  - forme: Deloney
+    ligne: 20
+    identite: interprète français du Lt Walsh (lecture incertaine)
+  lieux:
+  - forme: Acheux
+    ligne: 9
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Ach
+    ligne: 21
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Hérissart
+    ligne: 22
+    identite: Hérissart (Somme)
+source: contrôle

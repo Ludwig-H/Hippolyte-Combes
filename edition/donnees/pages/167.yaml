@@ -1,0 +1,98 @@
+cliche: 167
+fichier: 20251126_111251.jpg
+date: Dimanche 11 mars 1917 (fin) – lundi 12 mars 1917
+mois: Mars 1917
+lieux: Hérissart, Toutencourt, Contay, Beaucourt-sur-l'Hallue ?, Puchevillers et Candas (Somme)
+titre: Calme de la nouvelle chambre ; tournée en Wolseley de Toutencourt à Candas
+transcription: |
+  D\sl{im. 11 (}Fin) \hfill Mar\sl{s 191}7
+  2 fenêtres. Impressions de calme & silence, \inc{favorables}
+  à reverie & étude \trait
+  \ind Matinée, vrai printemps. Soleil très chaud.
+  après-midi, averses & brume \trait
+  \blanc{1}
+  [A Herissart, tommy \inc{aidé} \inc{porter} sacs : 50c
+  \filet
+  L\sl{undi} 12 — Levé 7^{h} m. — très bonne nuit.
+  Achevé de m'installer nouvelle maison. Y serai bien.
+  \ind Tout le jour, temps brumeux & par moments,
+  pluie fine
+  \ind Matinée. courses, à \add{Toutencourt,} Contay, \inc{Beaucourt} &
+  Molliens-au-Bois. Auto \inc{Wolsey}, conduite par
+  1 australien, moins confortable que le Vauxhall
+  de \inc{Jessie}.
+  \ind Tout l'après-midi, à Puchevillers, puis
+  Raincheval Candas.
+  \blanc{8}
+  \crochet{2}Toutencourt : Exp. F. Canteen : 2 tins of
+  Calvert's Tooth Powder : 1^{f} 75c
+apparat:
+- ligne: 1
+  lemme: Dim.
+  type: abreviation
+  note: Dimanche.
+- ligne: 2
+  lemme: favorables
+  type: lecture
+  note: Fin du mot serrée contre la marge ; « favorable » possible.
+- ligne: 6
+  lemme: tommy
+  type: emprunt
+  note: Soldat britannique (familier).
+- ligne: 6
+  lemme: \inc{aidé} \inc{porter}
+  type: lecture
+  note: 'Lecture nouvelle : « [m''a] aidé [à] porter [mes] sacs » ; aucun m visible ; antérieurement « m''a porté ».'
+- ligne: 7
+  lemme: 7^{h} m.
+  type: abreviation
+  note: 7 heures du matin.
+- ligne: 11
+  lemme: \add{Toutencourt,}
+  type: ajout
+  note: Ajouté au-dessus de la ligne, entre « à » et « Contay ».
+- ligne: 11
+  lemme: Beaucourt
+  type: lecture
+  note: 'Lecture nouvelle : c et o après « Beau- » ; Beaucourt-sur-l''Hallue, entre Contay et Molliens ; antérieurement « Beaumont ».'
+- ligne: 12
+  lemme: Wolsey
+  type: lecture
+  note: Pour Wolseley (marque automobile) ; aucun -el- médian visible.
+- ligne: 13
+  lemme: '1'
+  type: abreviation
+  note: un.
+- ligne: 13
+  lemme: que le Vauxhall
+  type: lecture
+  note: « le » (l + e, sans panse d'a) ; antérieurement « la ».
+- ligne: 14
+  lemme: Jessie
+  type: lecture
+  note: J puis deux hautes boucles (ss), i, e ; « Jellie » possible ; antérieurement « Jimmie ».
+- ligne: 17
+  lemme: Exp. F. Canteen
+  type: abreviation
+  note: 'Expeditionary Force Canteen : cantine du corps expéditionnaire britannique.'
+- ligne: 17
+  lemme: 2 tins of
+  type: emprunt
+  note: deux boîtes de.
+- ligne: 18
+  lemme: Calvert's Tooth Powder
+  type: emprunt
+  note: poudre dentifrice Calvert.
+- ligne: 18
+  lemme: 1^{f} 75c
+  type: abreviation
+  note: 1 franc 75 centimes.
+critique: Les premières lignes achèvent la journée du dimanche 11 commencée au recto. Encre violette ; le compte de la cantine de Toutencourt, isolé au pied de la page après un long blanc, est d'une encre plus noire et fut sans doute inscrit à part.
+historique: |
+  Maintenu au \textit{Purchase Board} à la demande du Major Levy (voir f.~83~r\textsuperscript{o}), Combes reprend ses tournées. « Beaumont », cité entre Contay et Molliens-au-Bois, ne peut guère être Beaumont-Hamel : peut-être faut-il lire un autre nom. Candas est l'origine de la voie normale Candas--Acheux construite au printemps 1916 (OH 1916-I, p.~273) et le siège du dépôt n\textsuperscript{o}~2 d'aviation du R.F.C. (Jones 1928, p.~198--199). Le chauffeur australien s'explique par le passage du I Anzac Corps à la Fifth Army le 15 février (OH 1917-I, p.~74). La Vauxhall type D était la voiture d'état-major ordinaire de l'armée britannique (Tattersfield 2021) ; « Jessie » (lecture incertaine) n'est pas identifié. C'est la seule mention explicite des \textit{Expeditionary Force Canteens}, qui vendaient les marques britanniques presque au prix coûtant (Fernand-Laurent 1917, p.~82--83) ; la boîte de Calvert's, payée 60~c à Louvencourt le 2 janvier (voir f.~59~r\textsuperscript{o}), revient ici à près de 88~c. Dans la nuit, les Allemands évacuent la ligne R.1 devant Bapaume (OH 1917-I, p.~107).
+sources:
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.
+- Jones, H. A., The War in the Air, vol. II, Oxford, Clarendon Press, 1928, p. 198-199.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 74, 107.
+- 'Tattersfield, D., « The workhorse of the staff : the Vauxhall D-Type staff car », Western Front Association, 9 janvier 2021 (westernfrontassociation.com).'
+- Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 82-83.

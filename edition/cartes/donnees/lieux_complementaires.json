@@ -1,0 +1,1497 @@
+{
+ "31568": {
+  "id": "31568",
+  "name": "Varennes",
+  "longitude": 1.688,
+  "latitude": 43.477,
+  "insee": "31568",
+  "source": "https://geo.api.gouv.fr/departements/31/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80047": {
+  "id": "80047",
+  "name": "Aveluy",
+  "longitude": 2.6596,
+  "latitude": 50.0236,
+  "insee": "80047",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80498": {
+  "id": "80498",
+  "name": "Mailly-Maillet",
+  "longitude": 2.605,
+  "latitude": 50.0768,
+  "insee": "80498",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80095": {
+  "id": "80095",
+  "name": "Bertrancourt",
+  "longitude": 2.5592,
+  "latitude": 50.0921,
+  "insee": "80095",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80470": {
+  "id": "80470",
+  "name": "Léalvillers",
+  "longitude": 2.51,
+  "latitude": 50.0644,
+  "insee": "80470",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80420": {
+  "id": "80420",
+  "name": "Harponville",
+  "longitude": 2.5007,
+  "latitude": 50.0366,
+  "insee": "80420",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80773": {
+  "id": "80773",
+  "name": "Vadencourt",
+  "longitude": 2.4888,
+  "latitude": 50.0079,
+  "insee": "80773",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80377": {
+  "id": "80377",
+  "name": "Gézaincourt",
+  "longitude": 2.3213,
+  "latitude": 50.139,
+  "insee": "80377",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59017": {
+  "id": "59017",
+  "name": "Armentières",
+  "longitude": 2.8825,
+  "latitude": 50.6867,
+  "insee": "59017",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59212": {
+  "id": "59212",
+  "name": "Estaires",
+  "longitude": 2.7219,
+  "latitude": 50.6445,
+  "insee": "59212",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59202": {
+  "id": "59202",
+  "name": "Erquinghem-Lys",
+  "longitude": 2.8458,
+  "latitude": 50.6783,
+  "insee": "59202",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62119": {
+  "id": "62119",
+  "name": "Béthune",
+  "longitude": 2.6386,
+  "latitude": 50.5307,
+  "insee": "62119",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62041": {
+  "id": "62041",
+  "name": "Arras",
+  "longitude": 2.7788,
+  "latitude": 50.2936,
+  "insee": "62041",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62080": {
+  "id": "62080",
+  "name": "Bapaume",
+  "longitude": 2.8496,
+  "latitude": 50.104,
+  "insee": "62080",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80620": {
+  "id": "80620",
+  "name": "Péronne",
+  "longitude": 2.9356,
+  "latitude": 49.93,
+  "insee": "80620",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80753": {
+  "id": "80753",
+  "name": "Thiepval",
+  "longitude": 2.6895,
+  "latitude": 50.0544,
+  "insee": "80753",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80069": {
+  "id": "80069",
+  "name": "Beaumont-Hamel",
+  "longitude": 2.6564,
+  "latitude": 50.0839,
+  "insee": "80069",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62422": {
+  "id": "62422",
+  "name": "Hébuterne",
+  "longitude": 2.6363,
+  "latitude": 50.1253,
+  "insee": "62422",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62375": {
+  "id": "62375",
+  "name": "Gommecourt",
+  "longitude": 2.644,
+  "latitude": 50.14,
+  "insee": "62375",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80640": {
+  "id": "80640",
+  "name": "Pozières",
+  "longitude": 2.7253,
+  "latitude": 50.0404,
+  "insee": "80640",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80216": {
+  "id": "80216",
+  "name": "Courcelette",
+  "longitude": 2.7444,
+  "latitude": 50.0579,
+  "insee": "80216",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62777": {
+  "id": "62777",
+  "name": "Le Sars",
+  "longitude": 2.7812,
+  "latitude": 50.0704,
+  "insee": "62777",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80549": {
+  "id": "80549",
+  "name": "Miraumont",
+  "longitude": 2.7299,
+  "latitude": 50.092,
+  "insee": "80549",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80384": {
+  "id": "80384",
+  "name": "Grandcourt",
+  "longitude": 2.7088,
+  "latitude": 50.0809,
+  "insee": "80384",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80065": {
+  "id": "80065",
+  "name": "Beaucourt-sur-l'Ancre",
+  "longitude": 2.686,
+  "latitude": 50.0802,
+  "insee": "80065",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62543": {
+  "id": "62543",
+  "name": "Mametz",
+  "longitude": 2.3217,
+  "latitude": 50.634,
+  "insee": "62543",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80366": {
+  "id": "80366",
+  "name": "Fricourt",
+  "longitude": 2.7167,
+  "latitude": 49.9989,
+  "insee": "80366",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80615": {
+  "id": "80615",
+  "name": "Ovillers-la-Boisselle",
+  "longitude": 2.6937,
+  "latitude": 50.0198,
+  "insee": "80615",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80206": {
+  "id": "80206",
+  "name": "Contalmaison",
+  "longitude": 2.7292,
+  "latitude": 50.0228,
+  "insee": "80206",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80490": {
+  "id": "80490",
+  "name": "Longueval",
+  "longitude": 2.8041,
+  "latitude": 50.0265,
+  "insee": "80490",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80401": {
+  "id": "80401",
+  "name": "Guillemont",
+  "longitude": 2.8254,
+  "latitude": 50.0137,
+  "insee": "80401",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80378": {
+  "id": "80378",
+  "name": "Ginchy",
+  "longitude": 2.8311,
+  "latitude": 50.0237,
+  "insee": "80378",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80204": {
+  "id": "80204",
+  "name": "Combles",
+  "longitude": 2.8646,
+  "latitude": 50.0097,
+  "insee": "80204",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80472": {
+  "id": "80472",
+  "name": "Lesbœufs",
+  "longitude": 2.8637,
+  "latitude": 50.0417,
+  "insee": "80472",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80397": {
+  "id": "80397",
+  "name": "Gueudecourt",
+  "longitude": 2.8415,
+  "latitude": 50.0592,
+  "insee": "80397",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62337": {
+  "id": "62337",
+  "name": "Flers",
+  "longitude": 2.2546,
+  "latitude": 50.3224,
+  "insee": "62337",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80695": {
+  "id": "80695",
+  "name": "Sailly-Saillisel",
+  "longitude": 2.9154,
+  "latitude": 50.0282,
+  "insee": "80695",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80115": {
+  "id": "80115",
+  "name": "Bouchavesnes-Bergen",
+  "longitude": 2.92,
+  "latitude": 49.9833,
+  "insee": "80115",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80199": {
+  "id": "80199",
+  "name": "Cléry-sur-Somme",
+  "longitude": 2.8845,
+  "latitude": 49.9566,
+  "insee": "80199",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80513": {
+  "id": "80513",
+  "name": "Maricourt",
+  "longitude": 2.7873,
+  "latitude": 49.9805,
+  "insee": "80513",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80560": {
+  "id": "80560",
+  "name": "Montauban-de-Picardie",
+  "longitude": 2.7783,
+  "latitude": 50.0064,
+  "insee": "80560",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80335": {
+  "id": "80335",
+  "name": "Foucaucourt-en-Santerre",
+  "longitude": 2.7746,
+  "latitude": 49.8743,
+  "insee": "80335",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80102": {
+  "id": "80102",
+  "name": "Biaches",
+  "longitude": 2.907,
+  "latitude": 49.924,
+  "insee": "80102",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80054": {
+  "id": "80054",
+  "name": "Barleux",
+  "longitude": 2.8915,
+  "latitude": 49.8961,
+  "insee": "80054",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80288": {
+  "id": "80288",
+  "name": "Estrées-Deniécourt",
+  "longitude": 2.8227,
+  "latitude": 49.875,
+  "insee": "80288",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80186": {
+  "id": "80186",
+  "name": "Chaulnes",
+  "longitude": 2.7988,
+  "latitude": 49.8187,
+  "insee": "80186",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80481": {
+  "id": "80481",
+  "name": "Lihons",
+  "longitude": 2.7669,
+  "latitude": 49.8236,
+  "insee": "80481",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62672": {
+  "id": "62672",
+  "name": "Puisieux",
+  "longitude": 2.6939,
+  "latitude": 50.1167,
+  "insee": "62672",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80451": {
+  "id": "80451",
+  "name": "Irles",
+  "longitude": 2.7531,
+  "latitude": 50.1003,
+  "insee": "80451",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62006": {
+  "id": "62006",
+  "name": "Achiet-le-Petit",
+  "longitude": 2.7513,
+  "latitude": 50.1228,
+  "insee": "62006",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62005": {
+  "id": "62005",
+  "name": "Achiet-le-Grand",
+  "longitude": 2.7844,
+  "latitude": 50.1321,
+  "insee": "62005",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62181": {
+  "id": "62181",
+  "name": "Bucquoy",
+  "longitude": 2.7089,
+  "latitude": 50.1404,
+  "insee": "62181",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62579": {
+  "id": "62579",
+  "name": "Monchy-au-Bois",
+  "longitude": 2.658,
+  "latitude": 50.1797,
+  "insee": "62579",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62689": {
+  "id": "62689",
+  "name": "Ransart",
+  "longitude": 2.6871,
+  "latitude": 50.2091,
+  "insee": "62689",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62135": {
+  "id": "62135",
+  "name": "Blairville",
+  "longitude": 2.7147,
+  "latitude": 50.2197,
+  "insee": "62135",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62099": {
+  "id": "62099",
+  "name": "Beaurains",
+  "longitude": 2.7885,
+  "latitude": 50.2634,
+  "insee": "62099",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62611": {
+  "id": "62611",
+  "name": "Neuville-Vitasse",
+  "longitude": 2.819,
+  "latitude": 50.2466,
+  "insee": "62611",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62259": {
+  "id": "62259",
+  "name": "Croisilles",
+  "longitude": 2.8785,
+  "latitude": 50.1999,
+  "insee": "62259",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62185": {
+  "id": "62185",
+  "name": "Bullecourt",
+  "longitude": 2.9292,
+  "latitude": 50.193,
+  "insee": "62185",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62673": {
+  "id": "62673",
+  "name": "Quéant",
+  "longitude": 2.9822,
+  "latitude": 50.1803,
+  "insee": "62673",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62440": {
+  "id": "62440",
+  "name": "Hermies",
+  "longitude": 3.0373,
+  "latitude": 50.1117,
+  "insee": "62440",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62421": {
+  "id": "62421",
+  "name": "Havrincourt",
+  "longitude": 3.0853,
+  "latitude": 50.1106,
+  "insee": "62421",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59500": {
+  "id": "59500",
+  "name": "Ribécourt-la-Tour",
+  "longitude": 3.129,
+  "latitude": 50.1114,
+  "insee": "59500",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59269": {
+  "id": "59269",
+  "name": "Gouzeaucourt",
+  "longitude": 3.1242,
+  "latitude": 50.0547,
+  "insee": "59269",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80271": {
+  "id": "80271",
+  "name": "Épehy",
+  "longitude": 3.1303,
+  "latitude": 50.0064,
+  "insee": "80271",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62861": {
+  "id": "62861",
+  "name": "Vimy",
+  "longitude": 2.8109,
+  "latitude": 50.3734,
+  "insee": "62861",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62498": {
+  "id": "62498",
+  "name": "Lens",
+  "longitude": 2.8319,
+  "latitude": 50.4288,
+  "insee": "62498",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62528": {
+  "id": "62528",
+  "name": "Loos-en-Gohelle",
+  "longitude": 2.7923,
+  "latitude": 50.4578,
+  "insee": "62528",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59051": {
+  "id": "59051",
+  "name": "La Bassée",
+  "longitude": 2.804,
+  "latitude": 50.5324,
+  "insee": "59051",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62330": {
+  "id": "62330",
+  "name": "Festubert",
+  "longitude": 2.7372,
+  "latitude": 50.5441,
+  "insee": "62330",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62606": {
+  "id": "62606",
+  "name": "Neuve-Chapelle",
+  "longitude": 2.7809,
+  "latitude": 50.5842,
+  "insee": "62606",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59257": {
+  "id": "59257",
+  "name": "Fromelles",
+  "longitude": 2.8537,
+  "latitude": 50.6058,
+  "insee": "59257",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62491": {
+  "id": "62491",
+  "name": "Laventie",
+  "longitude": 2.7719,
+  "latitude": 50.6284,
+  "insee": "62491",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62338": {
+  "id": "62338",
+  "name": "Fleurbaix",
+  "longitude": 2.8336,
+  "latitude": 50.6491,
+  "insee": "62338",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59088": {
+  "id": "59088",
+  "name": "Bois-Grenier",
+  "longitude": 2.8743,
+  "latitude": 50.6489,
+  "insee": "59088",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59317": {
+  "id": "59317",
+  "name": "Houplines",
+  "longitude": 2.9081,
+  "latitude": 50.689,
+  "insee": "59317",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59252": {
+  "id": "59252",
+  "name": "Frelinghien",
+  "longitude": 2.9322,
+  "latitude": 50.7114,
+  "insee": "59252",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59431": {
+  "id": "59431",
+  "name": "Nieppe",
+  "longitude": 2.838,
+  "latitude": 50.7049,
+  "insee": "59431",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59180": {
+  "id": "59180",
+  "name": "Le Doulieu",
+  "longitude": 2.7184,
+  "latitude": 50.6827,
+  "insee": "59180",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "31341": {
+  "id": "31341",
+  "name": "Merville",
+  "longitude": 1.2982,
+  "latitude": 43.7211,
+  "insee": "31341",
+  "source": "https://geo.api.gouv.fr/departements/31/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62014": {
+  "id": "62014",
+  "name": "Aire-sur-la-Lys",
+  "longitude": 2.3961,
+  "latitude": 50.6384,
+  "insee": "62014",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62765": {
+  "id": "62765",
+  "name": "Saint-Omer",
+  "longitude": 2.2536,
+  "latitude": 50.7519,
+  "insee": "62765",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59135": {
+  "id": "59135",
+  "name": "Cassel",
+  "longitude": 2.4858,
+  "latitude": 50.8002,
+  "insee": "59135",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59416": {
+  "id": "59416",
+  "name": "Morbecque",
+  "longitude": 2.5176,
+  "latitude": 50.6935,
+  "insee": "59416",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59578": {
+  "id": "59578",
+  "name": "Steenbecque",
+  "longitude": 2.4853,
+  "latitude": 50.6736,
+  "insee": "59578",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59634": {
+  "id": "59634",
+  "name": "Wallon-Cappel",
+  "longitude": 2.4741,
+  "latitude": 50.7263,
+  "insee": "59634",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59184": {
+  "id": "59184",
+  "name": "Ebblinghem",
+  "longitude": 2.4099,
+  "latitude": 50.7325,
+  "insee": "59184",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "59401": {
+  "id": "59401",
+  "name": "Méteren",
+  "longitude": 2.6905,
+  "latitude": 50.7405,
+  "insee": "59401",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62336": {
+  "id": "62336",
+  "name": "Fléchin",
+  "longitude": 2.2936,
+  "latitude": 50.5591,
+  "insee": "62336",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62361": {
+  "id": "62361",
+  "name": "Frévent",
+  "longitude": 2.293,
+  "latitude": 50.2784,
+  "insee": "62361",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62063": {
+  "id": "62063",
+  "name": "Avesnes-le-Comte",
+  "longitude": 2.5276,
+  "latitude": 50.2763,
+  "insee": "62063",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62091": {
+  "id": "62091",
+  "name": "Beaudricourt",
+  "longitude": 2.4082,
+  "latitude": 50.2486,
+  "insee": "62091",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62804": {
+  "id": "62804",
+  "name": "Sus-Saint-Léger",
+  "longitude": 2.433,
+  "latitude": 50.2391,
+  "insee": "62804",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62640": {
+  "id": "62640",
+  "name": "Orville",
+  "longitude": 2.4096,
+  "latitude": 50.1345,
+  "insee": "62640",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62030": {
+  "id": "62030",
+  "name": "Amplier",
+  "longitude": 2.3999,
+  "latitude": 50.1372,
+  "insee": "62030",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62404": {
+  "id": "62404",
+  "name": "Halloy",
+  "longitude": 2.4246,
+  "latitude": 50.158,
+  "insee": "62404",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80514": {
+  "id": "80514",
+  "name": "Marieux",
+  "longitude": 2.4436,
+  "latitude": 50.1068,
+  "insee": "80514",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80777": {
+  "id": "80777",
+  "name": "Vauchelles-lès-Authie",
+  "longitude": 2.4741,
+  "latitude": 50.0962,
+  "insee": "80777",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80153": {
+  "id": "80153",
+  "name": "Bus-lès-Artois",
+  "longitude": 2.5433,
+  "latitude": 50.1036,
+  "insee": "80153",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80203": {
+  "id": "80203",
+  "name": "Colincamps",
+  "longitude": 2.6026,
+  "latitude": 50.1001,
+  "insee": "80203",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80217": {
+  "id": "80217",
+  "name": "Courcelles-au-Bois",
+  "longitude": 2.5836,
+  "latitude": 50.1035,
+  "insee": "80217",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80038": {
+  "id": "80038",
+  "name": "Auchonvillers",
+  "longitude": 2.6311,
+  "latitude": 50.0805,
+  "insee": "80038",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80540": {
+  "id": "80540",
+  "name": "Mesnil-Martinsart",
+  "longitude": 2.6473,
+  "latitude": 50.0538,
+  "insee": "80540",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80547": {
+  "id": "80547",
+  "name": "Millencourt",
+  "longitude": 2.5875,
+  "latitude": 50.0011,
+  "insee": "80547",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80429": {
+  "id": "80429",
+  "name": "Hénencourt",
+  "longitude": 2.5645,
+  "latitude": 50.0029,
+  "insee": "80429",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80052": {
+  "id": "80052",
+  "name": "Baizieux",
+  "longitude": 2.5188,
+  "latitude": 49.9923,
+  "insee": "80052",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80672": {
+  "id": "80672",
+  "name": "Ribemont-sur-Ancre",
+  "longitude": 2.567,
+  "latitude": 49.9596,
+  "insee": "80672",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80426": {
+  "id": "80426",
+  "name": "Heilly",
+  "longitude": 2.5367,
+  "latitude": 49.9534,
+  "insee": "80426",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80212": {
+  "id": "80212",
+  "name": "Corbie",
+  "longitude": 2.512,
+  "latitude": 49.9077,
+  "insee": "80212",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80650": {
+  "id": "80650",
+  "name": "Querrieu",
+  "longitude": 2.4308,
+  "latitude": 49.9374,
+  "insee": "80650",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80056": {
+  "id": "80056",
+  "name": "Bavelincourt",
+  "longitude": 2.4534,
+  "latitude": 49.9863,
+  "insee": "80056",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80066": {
+  "id": "80066",
+  "name": "Beaucourt-sur-l'Hallue",
+  "longitude": 2.443,
+  "latitude": 49.9868,
+  "insee": "80066",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80351": {
+  "id": "80351",
+  "name": "Fréchencourt",
+  "longitude": 2.4429,
+  "latitude": 49.9654,
+  "insee": "80351",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80661": {
+  "id": "80661",
+  "name": "Rainneville",
+  "longitude": 2.357,
+  "latitude": 49.9711,
+  "insee": "80661",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80020": {
+  "id": "80020",
+  "name": "Allonville",
+  "longitude": 2.363,
+  "latitude": 49.9405,
+  "insee": "80020",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80639": {
+  "id": "80639",
+  "name": "Poulainville",
+  "longitude": 2.313,
+  "latitude": 49.9463,
+  "insee": "80639",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80092": {
+  "id": "80092",
+  "name": "Bertangles",
+  "longitude": 2.2953,
+  "latitude": 49.9683,
+  "insee": "80092",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80202": {
+  "id": "80202",
+  "name": "Coisy",
+  "longitude": 2.3274,
+  "latitude": 49.9601,
+  "insee": "80202",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80316": {
+  "id": "80316",
+  "name": "Flesselles",
+  "longitude": 2.2635,
+  "latitude": 50.0031,
+  "insee": "80316",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80584": {
+  "id": "80584",
+  "name": "Naours",
+  "longitude": 2.2754,
+  "latitude": 50.0356,
+  "insee": "80584",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80746": {
+  "id": "80746",
+  "name": "Talmas",
+  "longitude": 2.3265,
+  "latitude": 50.0305,
+  "insee": "80746",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80819": {
+  "id": "80819",
+  "name": "Wargnies",
+  "longitude": 2.2536,
+  "latitude": 50.0343,
+  "insee": "80819",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80423": {
+  "id": "80423",
+  "name": "Havernas",
+  "longitude": 2.2362,
+  "latitude": 50.0363,
+  "insee": "80423",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80168": {
+  "id": "80168",
+  "name": "Candas",
+  "longitude": 2.2587,
+  "latitude": 50.1062,
+  "insee": "80168",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80310": {
+  "id": "80310",
+  "name": "Fienvillers",
+  "longitude": 2.2285,
+  "latitude": 50.117,
+  "insee": "80310",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80241": {
+  "id": "80241",
+  "name": "Domart-en-Ponthieu",
+  "longitude": 2.1229,
+  "latitude": 50.0741,
+  "insee": "80241",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80711": {
+  "id": "80711",
+  "name": "Saint-Ouen",
+  "longitude": 2.1218,
+  "latitude": 50.0371,
+  "insee": "80711",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80318": {
+  "id": "80318",
+  "name": "Flixecourt",
+  "longitude": 2.0814,
+  "latitude": 50.0149,
+  "insee": "80318",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80427": {
+  "id": "80427",
+  "name": "Hem-Hardinval",
+  "longitude": 2.3033,
+  "latitude": 50.1628,
+  "insee": "80427",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80445": {
+  "id": "80445",
+  "name": "Humbercourt",
+  "longitude": 2.455,
+  "latitude": 50.2102,
+  "insee": "80445",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80392": {
+  "id": "80392",
+  "name": "Grouches-Luchuel",
+  "longitude": 2.3811,
+  "latitude": 50.1798,
+  "insee": "80392",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80122": {
+  "id": "80122",
+  "name": "Bouquemaison",
+  "longitude": 2.3372,
+  "latitude": 50.2119,
+  "insee": "80122",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62475": {
+  "id": "62475",
+  "name": "Ivergny",
+  "longitude": 2.3933,
+  "latitude": 50.2391,
+  "insee": "62475",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80369": {
+  "id": "80369",
+  "name": "Frohen-sur-Authie",
+  "longitude": 2.2057,
+  "latitude": 50.2011,
+  "insee": "80369",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80108": {
+  "id": "80108",
+  "name": "Boisbergues",
+  "longitude": 2.2299,
+  "latitude": 50.1563,
+  "insee": "80108",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80526": {
+  "id": "80526",
+  "name": "Le Meillard",
+  "longitude": 2.1943,
+  "latitude": 50.1693,
+  "insee": "80526",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80666": {
+  "id": "80666",
+  "name": "Remaisnil",
+  "longitude": 2.2439,
+  "latitude": 50.1994,
+  "insee": "80666",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80439": {
+  "id": "80439",
+  "name": "Heuzecourt",
+  "longitude": 2.1662,
+  "latitude": 50.1754,
+  "insee": "80439",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "62084": {
+  "id": "62084",
+  "name": "Barly",
+  "longitude": 2.5477,
+  "latitude": 50.2514,
+  "insee": "62084",
+  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80602": {
+  "id": "80602",
+  "name": "Occoches",
+  "longitude": 2.2692,
+  "latitude": 50.1744,
+  "insee": "80602",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80544": {
+  "id": "80544",
+  "name": "Mézerolles",
+  "longitude": 2.2358,
+  "latitude": 50.1874,
+  "insee": "80544",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80614": {
+  "id": "80614",
+  "name": "Outrebois",
+  "longitude": 2.2514,
+  "latitude": 50.1737,
+  "insee": "80614",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80113": {
+  "id": "80113",
+  "name": "Bonneville",
+  "longitude": 2.2479,
+  "latitude": 50.0832,
+  "insee": "80113",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80563": {
+  "id": "80563",
+  "name": "Montigny-les-Jongleurs",
+  "longitude": 2.1359,
+  "latitude": 50.181,
+  "insee": "80563",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80566": {
+  "id": "80566",
+  "name": "Fieffes-Montrelet",
+  "longitude": 2.2315,
+  "latitude": 50.0841,
+  "insee": "80566",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80089": {
+  "id": "80089",
+  "name": "Berneuil",
+  "longitude": 2.1716,
+  "latitude": 50.0945,
+  "insee": "80089",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80243": {
+  "id": "80243",
+  "name": "Domesmont",
+  "longitude": 2.1471,
+  "latitude": 50.1212,
+  "insee": "80243",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80381": {
+  "id": "80381",
+  "name": "Gorges",
+  "longitude": 2.1784,
+  "latitude": 50.1101,
+  "insee": "80381",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80697": {
+  "id": "80697",
+  "name": "Saint-Acheul",
+  "longitude": 2.1645,
+  "latitude": 50.19,
+  "insee": "80697",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "ypres": {
+  "id": "ypres",
+  "name": "Ypres (Ieper)",
+  "longitude": 2.8851,
+  "latitude": 50.8503,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "messines": {
+  "id": "messines",
+  "name": "Messines (Mesen)",
+  "longitude": 2.8975,
+  "latitude": 50.7656,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "ploegsteert": {
+  "id": "ploegsteert",
+  "name": "Ploegsteert",
+  "longitude": 2.882,
+  "latitude": 50.7254,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "kemmel": {
+  "id": "kemmel",
+  "name": "Kemmel",
+  "longitude": 2.8287,
+  "latitude": 50.7826,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "wytschaete": {
+  "id": "wytschaete",
+  "name": "Wytschaete (Wijtschate)",
+  "longitude": 2.8818,
+  "latitude": 50.7838,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "poperinge": {
+  "id": "poperinge",
+  "name": "Poperinge",
+  "longitude": 2.7251,
+  "latitude": 50.8551,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "zillebeke": {
+  "id": "zillebeke",
+  "name": "Zillebeke",
+  "longitude": 2.9223,
+  "latitude": 50.8353,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "boesinghe": {
+  "id": "boesinghe",
+  "name": "Boesinghe (Boezinge)",
+  "longitude": 2.8569,
+  "latitude": 50.893,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "langemark": {
+  "id": "langemark",
+  "name": "Langemark",
+  "longitude": 2.9184,
+  "latitude": 50.9131,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "dixmude": {
+  "id": "dixmude",
+  "name": "Dixmude (Diksmuide)",
+  "longitude": 2.8633,
+  "latitude": 51.0333,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "nieuport": {
+  "id": "nieuport",
+  "name": "Nieuport (Nieuwpoort)",
+  "longitude": 2.7533,
+  "latitude": 51.13,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "warneton": {
+  "id": "warneton",
+  "name": "Warneton (Waasten)",
+  "longitude": 2.95,
+  "latitude": 50.752,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "le_bizet": {
+  "id": "le_bizet",
+  "name": "Le Bizet",
+  "longitude": 2.8849,
+  "latitude": 50.7099,
+  "source": "coordonnées approximatives du centre (Wikipédia), repère cartographique",
+  "position_type": "centre de la localité (Belgique)"
+ },
+ "80468": {
+  "id": "80468",
+  "name": "Laviéville",
+  "longitude": 2.5766,
+  "latitude": 49.9903,
+  "insee": "80468",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "80505": {
+  "id": "80505",
+  "name": "Carnoy-Mametz",
+  "longitude": 2.7354,
+  "latitude": 49.9973,
+  "insee": "80505",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
+ },
+ "serre": {
+  "id": "serre",
+  "name": "Serre",
+  "longitude": 2.655,
+  "latitude": 50.11,
+  "source": "coordonnées approximatives (hameau ou commune hors répertoire), repère cartographique",
+  "position_type": "centre approximatif"
+ },
+ "st_pierre_divion": {
+  "id": "st_pierre_divion",
+  "name": "Saint-Pierre-Divion",
+  "longitude": 2.68,
+  "latitude": 50.064,
+  "source": "coordonnées approximatives (hameau ou commune hors répertoire), repère cartographique",
+  "position_type": "centre approximatif"
+ },
+ "saint_quentin": {
+  "id": "saint_quentin",
+  "name": "Saint-Quentin",
+  "longitude": 3.2876,
+  "latitude": 49.8467,
+  "source": "coordonnées approximatives (hameau ou commune hors répertoire), repère cartographique",
+  "position_type": "centre approximatif"
+ },
+ "bellicourt": {
+  "id": "bellicourt",
+  "name": "Bellicourt",
+  "longitude": 3.2333,
+  "latitude": 49.9547,
+  "source": "coordonnées approximatives (hameau ou commune hors répertoire), repère cartographique",
+  "position_type": "centre approximatif"
+ }
+}

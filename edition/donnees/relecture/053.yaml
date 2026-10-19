@@ -1,0 +1,225 @@
+cliche: 53
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Mardi 26 \hfill Sept 16
+  apres: mardi – \sl{26} \hfill \sl{Sept 16}
+  justification: m minuscule, tiret, soulignements visibles
+  confiance: haute
+- ligne: 2
+  avant: Déjeuné – Bd St-Germain
+  apres: Dejeun – B^{d} St-Germain
+  justification: pas d'accent ni de é final ; d suscrit
+  confiance: moyenne
+- ligne: 3
+  avant: Reposé – jardin Notre - Dame
+  apres: Reposé jardin Notre-Dame
+  justification: le seul trait entre Reposé et jardin est l'accent de é, haut et oblique, décalé à droite ; aucun tiret à mi-hauteur
+  confiance: moyenne
+- ligne: 5
+  avant: '[Lgt/1/2 h ?] assis'
+  apres: \inc{Lgs} assis
+  justification: L bouclé en £ suivi de deux hastes descendantes (g, s) ; aucun t barré ni fraction
+  confiance: moyenne
+- ligne: 6
+  avant: Tour St-Jacques — Gros mouvt de rue de
+  apres: tour St-Jacques – grd mouvt rue de
+  justification: g-r-d à haste bouclée (grand) ; aucun « de » entre mouvt et rue
+  confiance: haute
+- ligne: 7
+  avant: ordinre
+  apres: ordin^{re}
+  justification: finale suscrite
+  confiance: moyenne
+- ligne: 8
+  avant: par les
+  apres: par le
+  justification: l + e à long délié, sans s
+  confiance: moyenne
+- ligne: 10
+  avant: Départ train vers 8H S
+  apres: Depart train vers 8 H s
+  justification: pas d'accent ; H à la ligne ; s minuscule
+  confiance: haute
+- ligne: 11
+  avant: gare du Nord
+  apres: gare du nord
+  justification: n minuscule
+  confiance: haute
+- ligne: 12
+  avant: 'Métro : 1 f. — Envoi[s?] : 10 c, 1 f, 2 f. ([mot incertain])'
+  apres: 'Metro : 1 f   \inc{Envois} : 10 c, 1 f, 2 f, 2 f (\inc{Therese})'
+  justification: un second 2 f (2 bouclé + f) avant la parenthèse ; nom à initiale T barrée
+  confiance: moyenne
+- ligne: 13
+  avant: '1/4 place : 15 f 15 \hfill Coupe chvx : 1 f'
+  apres: '\fr{1}{4} place : 15^{f} \add{Coupe (chvx} 1 f'
+  justification: fraction empilée ; f suscrit après 15 ; Coupe chvx est un ajout interlinéaire dont le 1 f est le prix
+  confiance: moyenne
+- ligne: 14
+  avant: 'Christofle : 12 f 50, remise, une [mot illis.] : 10 f 50'
+  apres: 'Christofle : 12^{f} 50, remise, une \ill : 10^{f}50'
+  justification: f suscrits
+  confiance: moyenne
+- ligne: 15
+  avant: 'L''orgueil humain : 4 f : net : 3 f 20'
+  apres: 'Lorgueil humain : 4^{f}. net : 3^{f}20'
+  justification: pas d'apostrophe ; point après 4 f ; f suscrits
+  confiance: haute
+- ligne: 16
+  avant: 'Les Débris : 3 f 50. — Cirage'
+  apres: 'Les Debris : 3^{f}50. – Cirage'
+  justification: pas d'accent ; f suscrit
+  confiance: moyenne
+- ligne: 17
+  avant: 'Déjeuner : 1 f 50. — Dîner : 1 f 60.'
+  apres: 'Dejeun : 1^{f}60. – Diner : 1^{f}60.'
+  justification: forme abrégée Dejeun comme l. 2 ; 6 à boucle basse fermée dans les deux montants
+  confiance: moyenne
+- ligne: 18
+  avant: 'Hotel de Ville : 8 f 50'
+  apres: 'Hotel de Ville : 8^{f}50'
+  justification: f suscrit
+  confiance: haute
+- ligne: 19
+  avant: 'Képi : au Bon Marché : 8 f 75. — Consigne : 15 c'
+  apres: 'Kepi (au Bon Marché : 8^{f}75. – Consigne : \inc{15 c}'
+  justification: pas d'accent (le trait après Kepi est le point de l'i) ; parenthèse ouvrante ; montant de la consigne peu lisible au bord
+  confiance: moyenne
+- ligne: 20
+  avant: '[Entretien ?] souliers'
+  apres: \inc{Entretien} souliers
+  justification: balisage
+  confiance: basse
+- ligne: 21
+  avant: '[Divers ?] : W.C. : [15 c ?]'
+  apres: '\inc{Divers} : W.C : 15 c'
+  justification: 1 + 5 en ſ + c, comme 15 c l. 17
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: \sl{26}
+  analyse: le soulignement part sous la fin de mardi et court obliquement jusqu'après 26
+  alternatives:
+  - \sl{mardi – 26}
+- ligne: 3
+  lemme: Reposé jardin
+  analyse: un seul trait court, oblique, au-dessus de la ligne d'œil entre Repose et jardin, de même forme que l'accent de à (l. 9) et de Marché (l. 19) ; il vaut accent et non tiret
+  alternatives:
+  - Reposé – jardin
+- ligne: 5
+  lemme: \inc{Lgs}
+  analyse: boucle haute ouverte à gauche puis descente bouclée (L en £), suivie de deux hastes descendantes réunies au pied ; aucune barre ; banc est empâté d'encre, sans rature
+  alternatives:
+  - 1 H
+  - Lgt
+- ligne: 12
+  lemme: \inc{Therese}
+  analyse: 'initiale : haste et forte barre de tête comme le T de Tramway (l. 11) ; puis h et cinq ou six éléments ; descente finale et parenthèse fermante au bord droit ; trait plus fin'
+  alternatives:
+  - Germaine
+  - Thomas
+- ligne: 13
+  lemme: 15^{f} ... 1 f
+  analyse: 'après 15, petit signe suscrit (f) ; plus à droite 1 + haste à boucle de tête, de même forme que le f de « Metro : 1 f » (l. 12), sous la fin de l''ajout Coupe (chvx ; on pourrait lire ce dernier signe 5 en ℓ, d''où 15 f 15'
+  alternatives:
+  - 15^{f}15
+- ligne: 14
+  lemme: \ill
+  analyse: m + jambages (u/r) + m, signe suscrit (barre de t ou tilde) puis i pointé ; ni montre ni mesure ne rendent tous les traits
+  alternatives:
+  - montre
+  - mesure
+- ligne: 19
+  lemme: 8^{f}75
+  analyse: 'après 8, deux petits signes suscrits (f crochu, 7 barré), puis grande haste bouclée (5 en ſ) : 8 f 75 ; on pourrait lire 8^{75} f'
+  alternatives:
+  - 8^{75}f
+- ligne: 19
+  lemme: \inc{15 c}
+  analyse: au bord droit, un signe en k (haste + boucle) ; un second k plus petit à droite de 30 c (l. 20) appartient sans doute au même montant, écrit en travers faute de place
+  alternatives:
+  - 1 c
+  - 10 c
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Montant du billet : 15 f retenu (le 1 f suivant a la forme du f de la l. 12 et se place sous l''ajout Coupe (chvx, dont il est le prix) ; 15 f 15 reste possible et est signalé dans l''apparat. Therese, Envois et l''objet acheté chez Christofle restent incertains ; la destination de la couronne n''est pas dite par le carnet.'
+  alternatives: []
+controle:
+- ligne: 3
+  avant: Reposé – jardin Notre-Dame
+  apres: Reposé jardin Notre-Dame
+  justification: le trait lu tiret est haut, court et oblique, de la forme des accents de à (l. 9) et Marché (l. 19) ; c'est l'accent de é décalé à droite ; aucun autre trait entre les deux mots
+- ligne: 5
+  avant: 'apparat : banc (autre, pâté d''encre)'
+  apres: note supprimée, mentionnée dans difficultes
+  justification: pâté sans rature ; la transcription suffit
+- ligne: 13
+  avant: '15^{f} (lecture : 15 f, sans centimes)'
+  apres: 15^{f} confirmé
+  justification: le 1 f suivant a la même forme (1 + haste à boucle de tête) que le 1 f de la l. 12 et se place sous la fin de l'ajout Coupe (chvx
+- ligne: 15
+  avant: 'apparat : Lorgueil humain (autre) ; l. 16 Les Debris (autre)'
+  apres: identifications des livres reportées dans critique
+  justification: notes d'identification, non d'apparat
+- ligne: 17
+  avant: Dejeun sans note
+  apres: 'apparat : Dejeun = déjeuner'
+  justification: abréviation non développée à cette ligne
+remarques: 'Seconde lecture : l. 3 tiret supprimé (accent de Reposé) ; montant du billet (l. 13) tranché pour 15 f ; l. 12 Therese, l. 14 objet Christofle, l. 19 consigne et l. 20–21 intitulés restent incertains.'
+resume: 'Dernière journée de permission à Paris le mardi 26 septembre 1916 : déjeuner boulevard Saint-Germain, repos au jardin de Notre-Dame, magasins de l''Hôtel-de-Ville, longue halte au square de la Tour Saint-Jacques. Après le dîner, Hippolyte Combes gagne lentement la gare d''Orsay par les quais et part vers 8 heures du soir pour Toulouse. Les comptes détaillent transports, billet à quart de place, achats chez Christofle, livres de Zyromski et Maeterlinck, couronne de fleurs artificielles, képi au Bon Marché et cartes de Verdun et de Roumanie.'
+noms:
+  personnes:
+  - forme: Therese
+    ligne: 12
+    identite: destinataire d'un envoi (tante Thérèse ?), lecture incertaine
+  - forme: Zyromski
+    ligne: 15
+    identite: Ernest Zyromski, auteur de L'Orgueil humain
+  - forme: Maeterlinck
+    ligne: 16
+    identite: Maurice Maeterlinck, Les Débris de la guerre
+  lieux:
+  - forme: B^{d} St-Germain
+    ligne: 2
+    identite: boulevard Saint-Germain, Paris
+  - forme: Notre-Dame
+    ligne: 3
+    identite: Notre-Dame de Paris (jardin)
+  - forme: l'Hotel-de-Ville
+    ligne: 4
+    identite: magasins de l'Hôtel-de-Ville (BHV), Paris
+  - forme: St-Jacques
+    ligne: 6
+    identite: square de la Tour Saint-Jacques, Paris
+  - forme: Rivoli
+    ligne: 7
+    identite: rue de Rivoli, Paris
+  - forme: gare d'Orsay
+    ligne: 9
+    identite: gare d'Orsay, Paris
+  - forme: Bourget
+    ligne: 11
+    identite: Le Bourget (Seine)
+  - forme: gare du nord
+    ligne: 11
+    identite: gare du Nord, Paris
+  - forme: Toulouse
+    ligne: 13
+    identite: Toulouse (Haute-Garonne)
+  - forme: Christofle
+    ligne: 14
+    identite: magasin de l'orfèvre Christofle, Paris
+  - forme: Hotel de Ville
+    ligne: 18
+    identite: magasins de l'Hôtel-de-Ville (BHV), Paris
+  - forme: Bon Marché
+    ligne: 19
+    identite: grand magasin du Bon Marché, Paris
+  - forme: Verdun
+    ligne: 20
+    identite: Verdun (Meuse)
+  - forme: Roumanie
+    ligne: 21
+    identite: Roumanie
+source: contrôle

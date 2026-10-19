@@ -1,0 +1,160 @@
+cliche: 34
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Septbre 16
+  apres: Sepbr /16
+  justification: S-e-p à attaque haute, puis b bouclé et r à délié ; aucun t ni e ; barre oblique nette avant 16
+  confiance: moyenne
+- ligne: 2
+  avant: Matinée, ds les champs. Herbes
+  apres: Matinée, ds les champs – Herbes
+  justification: tiret court après champs, non un point
+  confiance: haute
+- ligne: 3
+  avant: souliers et eau
+  apres: souliers et \inc{l'eau}
+  justification: une haste bouclée précède e-a-u ; le mot est dans la ligne, non un ajout
+  confiance: moyenne
+- ligne: 4
+  avant: arrive j'à la peau. Terre friable ([boueuse ?])
+  apres: arrive j-à la peau. Terre friable (\inc{boueuse}
+  justification: trait d'union court entre j et à ; parenthèse non refermée
+  confiance: moyenne
+- ligne: 6
+  avant: Ciel
+  apres: \ind ciel
+  justification: c initial au module d'une minuscule ; léger retrait
+  confiance: moyenne
+- ligne: 8
+  avant: boqueteaux –
+  apres: boqueteaux — –
+  justification: long délié terminé en boucle, puis tiret séparé
+  confiance: haute
+- ligne: 9
+  avant: Après-midi
+  apres: Aprè-midi
+  justification: accent sur e puis trait d'union immédiat, aucun s
+  confiance: haute
+- ligne: 10
+  avant: '[ — Washing : 1 f \hfill — Varia : 10 c'
+  apres: '\crochet{2}\ind[2] — Washing : 1^{f} \hfill — Varia : 10c'
+  justification: crochet haut de deux lignes ; f suscrit à longue queue
+  confiance: haute
+- ligne: 11
+  avant: 1 handk) ]
+  apres: 1 handk^{ch} )
+  justification: deux petites lettres suscrites après handk ; parenthèse = grand trait descendant de Varia ; aucun crochet fermant
+  confiance: moyenne
+- ligne: 12
+  avant: 3 Dim. Malgré ciel menaçant
+  apres: \sl{3 Dim.} \hfill Malgré ciel menaçant,
+  justification: date soulignée ; cédille détachée sous le c ; virgule longue après t
+  confiance: haute
+- ligne: 16
+  avant: belle vue circulaire!
+  apres: belle vue circulaire ! –
+  justification: tiret après le point d'exclamation
+  confiance: moyenne
+- ligne: 17
+  avant: reposé lgt église — avant & après
+  apres: reposé lgs église – \add{avant & aprè} au \inc{repas}
+  justification: l-g-s sans t ; « avant & aprè » écrit petit au-dessus de la ligne ; la ligne continue par « au repas »
+  confiance: moyenne
+- ligne: 18
+  avant: plusies
+  apres: plusis
+  justification: p-l-u, deux minimes dont la seconde pointée, s plongeant ; même forme en 070
+  confiance: moyenne
+- ligne: 19
+  avant: petite ville banale
+  apres: petite ville banale — –
+  justification: délié prolongé puis tiret
+  confiance: moyenne
+- ligne: 20
+  avant: Au retour, grosses nuées encre ciel — [mot surchargé] orage
+  apres: Au Retour grosses nuées encre ciel – \add{annonçant} orage
+  justification: R majuscule bouclé ; pas de virgule ; « annonçant » écrit petit au-dessus d'orage
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: Sepbr
+  analyse: S bouclé, e, p à haste montant haut (aspect f), b à boucle, r terminé en délié vers la barre ; le délié pourrait valoir -e
+  alternatives:
+  - Septbr
+  - Sepbre
+- ligne: 2
+  lemme: ds les
+  analyse: ∂ + arche (s réduit) puis l + e + arche identique ; même finale pour les deux mots
+  alternatives:
+  - de le
+  - de la
+- ligne: 3
+  lemme: l'eau
+  analyse: 'après et barré : haste bouclée, e, a, u à finale plongeante jusqu''à la fin de la l. 4'
+  alternatives:
+  - eau
+  - trempe
+- ligne: 4
+  lemme: boueuse
+  analyse: ( puis b haut, suite de minimes et de boucles (o-u-e-u-s ?), finale en k puis délié
+  alternatives:
+  - bourrée
+  - beurrée
+- ligne: 11
+  lemme: handk^{ch}
+  analyse: après k, petite boucle puis haste bouclée suscrites
+  alternatives:
+  - handk^{ef}
+  - handk^{ck}
+- ligne: 17
+  lemme: repas
+  analyse: 'R bouclé, e, p descendant, a ou o, s plongeant ; avant : « au » (a + u)'
+  alternatives:
+  - repos
+  - ou repas
+- ligne: 18
+  lemme: plusis
+  analyse: p, l bouclé, u, minime, minime pointée, s plongeant
+  alternatives:
+  - plusrs
+- ligne: 4
+  lemme: boueuse (second contrôle)
+  analyse: 'zoom ×3 [.74 .13 1.0 .19] : ( puis b haut, deux à trois minimes, r, o fermé, e, haste finale bouclée (k/h) prolongée en long délié ; « boueuse » n''emploie pas la finale k ; aucune lecture plus sûre'
+  alternatives:
+  - bourrée
+  - beurrée
+- ligne: 17
+  lemme: au repas (second contrôle)
+  analyse: 'zoom ×3 [.58 .75 1.0 .815] : a + u net, puis grande haste bouclée (R), petite boucle, p descendant, finale plongeante ; a/o indécidable'
+  alternatives:
+  - au repos
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 935 caractères ; JMO 7/Bedf (Bedfordshire Archives X550/8/1/1609, 3 sept. 1916 : messe militaire, « Fine Day but wet evening »), March 1925, p. 211-212 (blanchissage), OSM ; les lectures « \inc{repas} » (l. 17 : « repos » possible) et « \inc{boueuse} » restent incertaines, et l''ajout « avant & aprè » a un point d''insertion douteux.'
+  alternatives: []
+controle:
+- ligne: 9
+  avant: note graphie « Aprè-midi »
+  apres: note supprimée
+  justification: faute banale (s omis), la forme n'égare pas le lecteur
+- ligne: 13
+  avant: aucune note pour j-à et St-Pol
+  apres: abréviations j-à (jusqu'à) et St-Pol (Saint-Pol) l. 13, St-Pol l. 17
+  justification: chaque abréviation doit être développée dans l'apparat
+- ligne: 1
+  avant: note « septembre 1916 ; aucun t visible entre p et b »
+  apres: septembre 1916
+  justification: justification paléographique renvoyée aux changements ; zoom ×2 confirme S-e-p, haste bouclée, r, barre oblique, 16
+remarques: Encre noire virée au brun ; « lgs » (l. 17) et le tiret de « — Varia » d'une encre plus pâle. Tache brune en pied de page.
+resume: Le samedi 2 septembre, Hippolyte Combes passe la matinée dans les champs détrempés de rosée, sous un ciel couvert, et a l'après-midi libre ; il note une dépense de blanchissage (une chemise, un gilet, une paire de chaussettes, un mouchoir) et 10 centimes de divers. Le dimanche 3, malgré un ciel menaçant, il va à pied jusqu'à Saint-Pol, grisé par le grand air et la vue circulaire du plateau. Il se repose longuement à l'église, parcourt les rues de la petite ville banale et rentre avant la pluie.
+noms:
+  personnes: []
+  lieux:
+  - forme: St-Pol
+    ligne: 13
+    identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
+  - forme: St-Pol
+    ligne: 17
+    identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
+source: contrôle

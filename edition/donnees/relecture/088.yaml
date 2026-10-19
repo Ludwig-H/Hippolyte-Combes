@@ -1,0 +1,61 @@
+cliche: 88
+confiance: haute
+changements:
+- ligne: 1
+  avant: 31 Ma. \hfill Oct. /16
+  apres: \sl{31 Ma} \hfill \sl{Oct – /16}
+  justification: Aucun point après Ma ni après Oct ; trait appuyé sous 31 Ma (tiré bas, à hauteur de la l. 2) et long trait sous Oct – /16 ; tiret court à mi-hauteur devant la barre oblique.
+  confiance: haute
+- ligne: 2
+  avant: Matin, rafales peu à peu chassé
+  apres: \ind Matin, rafales peu à peu chassé
+  justification: La ligne commence vers x = 0,21, après le soulignement de la date.
+  confiance: moyenne
+- ligne: 4
+  avant: journée
+  apres: journee
+  justification: Aucun accent au-dessus des deux e finals (zoom x3 et x4) ; le trait horizontal en tête du dernier e est son délié de sortie, lié à la lettre.
+  confiance: moyenne
+- ligne: 6
+  avant: Durant jour entier, ville bombardée.
+  apres: \ind Durant jour entier ; ville bombardee.
+  justification: 'Point net au-dessus de la virgule : point-virgule ; ligne en retrait (x = 0,10) ; aucun accent détaché sur le dernier e de bombardee (zoom x4).'
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: Oct – /16
+  analyse: 'Court trait horizontal à mi-hauteur (x ≈ 0,86, y ≈ 0,03) touchant la barre oblique ; la barre se prolonge nettement au-dessous jusqu''au soulignement, donc ce trait n''est pas son attaque : tiret court.'
+  alternatives:
+  - Oct /16
+- ligne: 1
+  lemme: \sl{31 Ma}
+  analyse: 'Le trait est tiré plus bas que la date, au niveau de la ligne de base de Matin, mais centré sous 31 Ma et arrêté avant Matin : soulignement de la date.'
+  alternatives:
+  - 31 Ma ——— Matin
+- ligne: 6
+  lemme: bombardee.
+  analyse: Le dernier e remonte en une haute boucle (x ≈ 0,99, y ≈ 0,165), plus haute que le e précédent, sans accent détaché ; on pourrait y voir un accent lié au délié. Point réduit à un court trait bas.
+  alternatives:
+  - bombardée.
+controle:
+- ligne: 1
+  avant: \sl{31 Ma} \hfill \sl{Oct /16}
+  apres: \sl{31 Ma} \hfill \sl{Oct – /16}
+  justification: Le trait horizontal à mi-hauteur coupe la barre oblique, qui descend au-dessous jusqu'au soulignement ; ce n'est pas un trait d'attaque mais un tiret court.
+- ligne: 6
+  avant: \ind Durant jour entier ; ville bombardée.
+  apres: \ind Durant jour entier ; ville bombardee.
+  justification: Aucun accent détaché au-dessus ni à droite du dernier e (zoom x4) ; la haute boucle finale est le délié du e. Lecture alignée sur journee l. 4.
+- ligne: 1
+  avant: 'apparat : Oct /16 = octobre 1916'
+  apres: 'apparat : Oct = octobre ; /16 = 1916'
+  justification: Lemmes ramenés à des passages exacts de la ligne après ajout du tiret ; remarque du commentateur historique (note de travail) retirée des difficultés.
+remarques: 'Page courte : six lignes en haut, puis blanc jusqu''au bas de la page (rousseurs et transparence du verso). Construction elliptique l. 2 (« rafales peu à peu chassé nuages ») : auxiliaire non écrit.'
+resume: Mardi 31 octobre 1916, à Albert. Le matin, les rafales chassent peu à peu les nuages ; l'après-midi, le soleil reparaît enfin et la journée finit belle, suivie d'une nuit étoilée. Pendant toute la journée, la ville est bombardée. Le reste de la page est resté blanc.
+noms:
+  personnes: []
+  lieux:
+  - forme: ville
+    ligne: 6
+    identite: Albert (Somme), d'après le contexte des pages voisines
+source: contrôle

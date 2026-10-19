@@ -1,0 +1,203 @@
+cliche: 57
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Septb /16
+  apres: \sl{30 Samedi.} \hfill \sl{Septb /16}
+  justification: soulignements des deux éléments de la date, nets sur l'image
+  confiance: haute
+- ligne: 2
+  avant: temps pluvieux. Fines ondées qui durent peu.
+  apres: temps \inc{pluvx}. Fine ondée qui dure peu
+  justification: 'pluvx : p, l, jambages, x final sous un point ; Fine sans s, dure suivi directement de peu ; aucun point final'
+  confiance: moyenne
+- ligne: 3
+  avant: Matin, venu voir ... au 12.. Ai
+  apres: Matin – venu voi ... au 12.. \inc{A}
+  justification: tiret court après Matin ; voi sans r (contrôle p2) ; A pointu sans i visible
+  confiance: moyenne
+- ligne: 4
+  avant: attachement profond. –
+  apres: attachemt profond.. –
+  justification: mot contracté, finale t sous barre longue ; deux points après profond
+  confiance: moyenne
+- ligne: 5
+  avant: 11H 1/2 —
+  apres: 11^{H} \fr{1}{2} –
+  justification: H suscrit ; fraction empilée (2 sous la barre) ; tiret court
+  confiance: haute
+- ligne: 6
+  avant: tête à tête délicieux
+  apres: tête à-tête \inc{delicieux}
+  justification: trait d'union net entre à et tête ; délicieux écrasé, sans accent visible (contrôle p2)
+  confiance: moyenne
+- ligne: 7
+  avant: avec Margte..
+  apres: av Margte.. –
+  justification: mot arrêté au v ; tiret après les points
+  confiance: moyenne
+- ligne: 8
+  avant: Après midi
+  apres: Après-midi
+  justification: trait d'union visible
+  confiance: moyenne
+- ligne: 9
+  avant: l'église
+  apres: l'eglise
+  justification: aucun accent visible sur e
+  confiance: moyenne
+- ligne: 11
+  avant: presque 1 échelle
+  apres: presque 1 echelle
+  justification: aucun accent sur e
+  confiance: moyenne
+- ligne: 14
+  avant: clochers de villages s/ l'horizon. – Ciel tout
+  apres: clochers de village, à l'horizon – — Ciel tout
+  justification: aucun s final à village (empâté) ; trait vertical = virgule, puis a + accent grave = à ; deux tirets
+  confiance: moyenne
+- ligne: 15
+  avant: noirs.
+  apres: noirs –
+  justification: tiret bas après noirs
+  confiance: moyenne
+- ligne: 17
+  avant: 'mélodieux — [ajout marginal : p. Rem ?]'
+  apres: mélodieux – p. \inc{Remq} &
+  justification: même module et même ligne que le texte, non un ajout marginal ; & final net (forme ρ)
+  confiance: basse
+- ligne: 18
+  avant: Continué
+  apres: \ind Continué
+  justification: ligne en retrait
+  confiance: moyenne
+- ligne: 21
+  avant: Venu devant
+  apres: \inc{Venus} devant
+  justification: après V-e-n-u, trait final montant isolé (s réduit, aspect 1) ; sujet pluriel Margte & moi (contrôle p2)
+  confiance: moyenne
+- ligne: 22
+  avant: échangé
+  apres: echangé
+  justification: pas d'accent initial ; pâté sur -hang-
+  confiance: moyenne
+- ligne: 23
+  avant: Josephe
+  apres: Josèphe
+  justification: accent posé au-dessus de -ph-, décalé à droite selon l'usage
+  confiance: moyenne
+- ligne: 25
+  avant: cesse bientôt
+  apres: cessé bientot
+  justification: accent au-dessus de la finale de cesse ; bientot sans circonflexe, barre de t prolongée
+  confiance: moyenne
+- ligne: 27
+  avant: 'Tram : 20 c. — Sweets & cakes : 3 f — Bière & limonade : 80 c.'
+  apres: 'Tram : 20c. – Sweets & cakes : 3f – Bière & \add{limonade} 0.80c.'
+  justification: limonade écrit au-dessus de la ligne ; montant 0.80c. (zéro et point visibles) ; pas de deux-points avant le montant
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: pluvx
+  analyse: p à haste longue, l bouclé, jambages, point, x final en croix ; trop court pour pluvieux en toutes lettres
+  alternatives:
+  - pluvieux
+  - pluvix
+- ligne: 3
+  lemme: A
+  analyse: 'zoom ×3 [.68 .07 1.0 .12] : petite boucle à gauche sur la ligne, haste montant à droite puis redescendant, barre horizontale débordant à droite ; aucun i ni point. Forme intermédiaire entre A pointu et & en « 4 » ; le sens attend Ai ou &'
+  alternatives:
+  - Ai
+  - '&'
+- ligne: 6
+  lemme: delicieux
+  analyse: 'zoom [.55 .17 1.0 .23] : ∂-e-l (boucle)-i-c, un jambage pointé et une finale en x/s très réduite ; aucun accent sur le premier e'
+  alternatives:
+  - delicis
+- ligne: 9
+  lemme: ds
+  analyse: d en ∂ suivi d'un crochet final bas (s réduit) ; aspect de
+  alternatives:
+  - de
+- ligne: 13
+  lemme: d'arbres
+  analyse: 'zoom [.68 .43 1.0 .54] : d bouclé en bout de l. 13, puis -arbres en petit au-dessus de tout (l. 14), s final en virgule descendant'
+  alternatives:
+  - de
+- ligne: 17
+  lemme: p. Remq
+  analyse: 'zoom ×3 [.58 .585 1.0 .645] : p en ρ avec point au pied, R majuscule net, e, trois jambages, lettre descendante en V, jambage et délié, trait bas détaché ; puis & isolé (forme ρ). Ni Remarque ni Remercié ne rendent tous les tracés'
+  alternatives:
+  - p. Remy
+  - p. Rem.
+- ligne: 19
+  lemme: Cabade
+  analyse: 'zoom [0 .66 .36 .72] : C majuscule, panse fermée suivie d''une pointe (a + jambage, aspect or), b bouclé, a, d, e ; nom attesté Terre-Cabade'
+  alternatives:
+  - Corbade
+- ligne: 21
+  lemme: Venus
+  analyse: 'zoom [0 .735 .45 .785] : V à boucle, e, n, u, puis un trait vertical montant détaché, non employé par Venu ; s final réduit (guide § 4, s 4)'
+  alternatives:
+  - Venu
+- ligne: 21
+  lemme: du
+  analyse: petit mot final de la ligne en ∂ + délié, aspect de
+  alternatives:
+  - de
+- ligne: 23
+  lemme: Josèphe
+  analyse: 'zoom [.50 .80 1.0 .855] : J bouclé, o, s, e sous un accent, p à longue haste, h ?, finale écrasée ; Josephe/Josèphe indécidable pour l''accent'
+  alternatives:
+  - Josephe
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources citées : Wikipédia (Montaudran, Terre-Cabade : tombeau Bergès en temple antique), L''Express du Midi 11 févr. 1907 et 18 sept. 1914, Le Télégramme 23 nov. 1912. Département ajouté à « lieux » (p2). L. 17 toujours non déchiffrée.'
+  alternatives: []
+controle:
+- ligne: 3
+  avant: venu voir Mme
+  apres: venu voi Mme
+  justification: 'zoom [.12 .07 .48 .115] : v, o, i pointé, puis espace ; aucun tracé pour r'
+- ligne: 6
+  avant: délicieux
+  apres: \inc{delicieux}
+  justification: aucun accent visible sur le premier e ; mot écrasé, lecture non assurée lettre à lettre
+- ligne: 21
+  avant: Venu
+  apres: \inc{Venus}
+  justification: trait final montant détaché après u, sans emploi dans Venu ; accord avec Margte & moi
+- ligne: 0
+  avant: 'lieux : Toulouse (Sainte-Marie, …)'
+  apres: 'lieux : Toulouse, Haute-Garonne (Sainte-Marie, …)'
+  justification: département demandé par le commentateur historique
+remarques: 'L. 17 : la fin de ligne (p. Remq &) reste à déchiffrer ; le & semble enchaîner sur Continué (l. 18). Le tombeau « imité d''un temple grec » (l. 19–20) est peut-être le tombeau Bergès (à vérifier).'
+resume: 'Le samedi 30 septembre 1916, à Toulouse, temps pluvieux. Le matin, Hippolyte Combes rend visite à Mme de Labarthe, pour qui il a un attachement profond, puis monte à Sainte-Marie vers 11 h 30 et passe quelques minutes en tête-à-tête avec Marguerite. L''après-midi, promenade à pied à Montaudran : il monte au clocher de l''église, admire la plaine du Lauraguais et fait sonner les cinq cloches. Au cimetière de Terre-Cabade, devant le caveau des Pères jésuites et celui du P. Marie-Antoine, Marguerite et lui échangent des serments, en souvenir de leur grand ami et de Josèphe. Dépenses : tram, confiseries et gâteaux, bière et limonade.'
+noms:
+  personnes:
+  - forme: Mme de Labarthe
+    ligne: 3
+    identite: amie toulousaine d'Hippolyte Combes
+  - forme: Margte
+    ligne: 7
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: P. Marie-Antoine
+    ligne: 22
+    identite: le Père Marie-Antoine (Léon Clergue, 1825–1907), capucin toulousain
+  - forme: Josèphe
+    ligne: 23
+    identite: personne non identifiée, proche commune (défunte ?)
+  lieux:
+  - forme: Ste Marie
+    ligne: 5
+    identite: Sainte-Marie(-des-Champs), Toulouse, demeure de Marguerite Calmels
+  - forme: Montaudran
+    ligne: 9
+    identite: Montaudran, village (auj. quartier) de Toulouse
+  - forme: Lauraguais
+    ligne: 12
+    identite: Lauraguais, région au sud-est de Toulouse
+  - forme: Terre-Cabade
+    ligne: 19
+    identite: cimetière de Terre-Cabade, Toulouse
+source: contrôle

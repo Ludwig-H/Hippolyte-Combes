@@ -1,0 +1,109 @@
+cliche: 24
+fichier: 20251126_093941.jpg
+date: Mardi 22 août 1916
+mois: Août 1916
+lieux: La Croix-du-Bac (Steenwerck, Nord) ; Bac-Saint-Maur (Sailly-sur-la-Lys, Pas-de-Calais)
+titre: À pied à Steenwerck ; bière avec Maurin à Bac-Saint-Maur ; sac de linge expédié à Nogent
+transcription: |
+  \sl{22 Ma} \hfill \sl{Aout /16}
+  \ind Ciel nuageux – s'est tt à fait eclairci
+  après-midi et très beau soleil
+  \ind Venu à pied à Steenwerk : 55 m.
+  Promenade lente, très agréable
+  \ind Vers 5^{H}\fr{1}{2}, retrouvé Maurin, et allés
+  ensemble à Bac St-Maur. En savourant
+  bonne bière ds coquette salle à manger
+  chz 1 charcutier, causé Provence. Maurin
+  m'a decrit avec lyrisme beautés d'Antibes
+  \ind[2] Magnifique sunset
+  \filet[c]{0.22}
+  — Fait expédier par 1 comm^{re} d'Erquinghem
+  \crochet{6}1 sac linge à Nogent, par gare de
+  Steenwerck : 13 kos ; 3^{f}80 ; factage à l'arrivée
+  compris (40c). – Emballage au départ : 50c —
+  \ind Cartes ples à Steenwerck : 30c
+  Varia : 10c
+  \ind[2] Bain : 1^{25}
+apparat:
+- ligne: 1
+  lemme: Ma
+  type: abreviation
+  note: mardi
+- ligne: 1
+  lemme: /16
+  type: abreviation
+  note: '1916'
+- ligne: 2
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 4
+  lemme: Steenwerk
+  type: lecture
+  note: sans c (Steenwerck l. 14 et 16), comme en 023 ; l'état antérieur lisait « Steenwerck »
+- ligne: 4
+  lemme: 55 m.
+  type: abreviation
+  note: 55 minutes
+- ligne: 6
+  lemme: 5^{H}\fr{1}{2}
+  type: abreviation
+  note: 5 heures et demie
+- ligne: 7
+  lemme: St-Maur
+  type: abreviation
+  note: Saint-Maur (Bac-Saint-Maur)
+- ligne: 8
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 9
+  lemme: chz 1
+  type: abreviation
+  note: chez un
+- ligne: 10
+  lemme: avec
+  type: lecture
+  note: mot écrit en entier, sans point ; l'état antérieur lisait « av. »
+- ligne: 11
+  lemme: sunset
+  type: emprunt
+  note: coucher de soleil
+- ligne: 12
+  lemme: par 1
+  type: abreviation
+  note: par un
+- ligne: 12
+  lemme: comm^{re}
+  type: abreviation
+  note: commissionnaire
+- ligne: 14
+  lemme: kos
+  type: abreviation
+  note: kilos
+- ligne: 14
+  lemme: 3^{f}80
+  type: abreviation
+  note: 3 francs 80
+- ligne: 15
+  lemme: 40c
+  type: abreviation
+  note: 40 centimes (de même 50c, 30c, 10c)
+- ligne: 16
+  lemme: ples
+  type: abreviation
+  note: (cartes) postales
+- ligne: 17
+  lemme: Varia
+  type: emprunt
+  note: (latin) divers
+- ligne: 18
+  lemme: 1^{25}
+  type: lecture
+  note: 1 franc 25 ; « 25 » surélevé, le 5 à très longue haste bouclée, sans f monétaire ; l'état antérieur lisait « 1 f 25 »
+critique: 'Le trait oblique qui sépare le récit des comptes, la haste du crochet, le montant « 3 f 80 » et les mots « à l''arrivée » sont d''une encre brune plus pâle : complément sans doute porté après coup, quand le prix fut connu. Le bas de la page est resté blanc.'
+historique: |
+  Le bourg de Steenwerck est à 3 km à vol d'oiseau de La Croix-du-Bac, ce qui s'accorde avec les « 55 m. » de marche ; sa gare est sur la ligne de Lille à Hazebrouck par Armentières et Bailleul. Bac-Saint-Maur, hameau de Sailly-sur-la-Lys, sur l'autre rive de la Lys, est la tête de ligne des vivres du secteur (voir f. 9 r\textsuperscript{o}). Maurin, collègue interprète sans doute provençal (voir f. 7 r\textsuperscript{o}), n'est pas identifié. Le sac part pour Nogent-le-Rotrou (voir f. 12 r\textsuperscript{o}) ; le factage est le port à domicile depuis la gare d'arrivée. Le bain à 1 f 25 est plus cher que ceux que Combes paiera à Toulouse en permission, 90 c aux Thermes du Languedoc et 1 f place Belfort (voir f. 27 v\textsuperscript{o} et 69 r\textsuperscript{o}). Vers le 22 août, la 34th Division, revenue de la Somme, reprend le front de la 18th Division, de « Chard's farm » sur la route de Lille jusqu'au saillant de Bridoux inclus, et son état-major retrouve « their old quarters in Croix du Bac » (Shakespear 1921, pp. 74-75) : c'est la relève qui précède le départ du 25 août.
+sources:
+- Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], p. 119-120.
+- Shakespear, J., The Thirty-Fourth Division, 1915–1919. The Story of its Career from Ripon to the Rhine, Londres, H. F. & G. Witherby, 1921, p. 74-75.

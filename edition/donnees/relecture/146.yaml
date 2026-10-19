@@ -1,0 +1,133 @@
+cliche: 146
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Merc. 7 — \hfill Février 1917
+  apres: \sl{Merc. 7} – \hfill \sl{Février 1917}
+  justification: trait appuyé sous Merc. 7 et sous le mois ; tiret court après la date
+  confiance: haute
+- ligne: 4
+  avant: Gelé très dur.
+  apres: gelé très dur.
+  justification: g minuscule à boucle, au module des minuscules, écrit un peu au-dessus de la ligne
+  confiance: haute
+- ligne: 5
+  avant: A minuit 30, à Amiens.
+  apres: a minuit \add{30}, à Amiens.
+  justification: a initial minuscule ; « 30 » est écrit petit sous « uit », non sur la ligne
+  confiance: haute
+- ligne: 8
+  avant: absolt bondée.
+  apres: absol^{t} comble
+  justification: t de absolt nettement suscrit ; le mot suivant commence par c + o + m, puis haste de b et l, e final plongeant ; aucun b initial ni d ; pas de point
+  confiance: moyenne
+- ligne: 9
+  avant: 6h 7 m.
+  apres: 6^{H} 7m
+  justification: H à deux hastes suscrit après le 6 ; m lié au 7, terminé en long délié, sans point
+  confiance: haute
+- ligne: 10
+  avant: Arrêts
+  apres: Arrets
+  justification: 'aucun circonflexe distinct : le trait au-dessus du mot est la barre du t'
+  confiance: moyenne
+- ligne: 12
+  avant: très brillant.
+  apres: très brillant
+  justification: aucun point après brillant
+  confiance: moyenne
+- ligne: 13
+  avant: Ciel d'1
+  apres: ciel \inc{d'1}
+  justification: c initial minuscule ; d de forme insolite (aspect « et »)
+  confiance: moyenne
+- ligne: 16
+  avant: dessus voie.
+  apres: -dessus voie.
+  justification: court trait d'union répété en tête de ligne, en plus de celui de « au- »
+  confiance: haute
+- ligne: 17
+  avant: taches blanches.
+  apres: taches blanches
+  justification: le s final se prolonge en long délié horizontal, sans point
+  confiance: haute
+- ligne: 18
+  avant: vers 1h 1/2 s.
+  apres: vers 1^{H} \fr{1}{2}
+  justification: 'H suscrit ; fraction empilée (1 barré au-dessus, 2 en ℓ couché) ; aucun « s. » : le trait oblique à droite est la hampe du b de « billet »'
+  confiance: haute
+- ligne: 19
+  avant: Me suis rendu à pied ancien billet.
+  apres: me suis rendu à pied ancien billet
+  justification: m initial minuscule ; pas de point après billet
+  confiance: haute
+- ligne: 22
+  avant: sorti.
+  apres: sorti,
+  justification: 'après le i (point en tiret au-dessus), petite masse terminée en queue sous la ligne : virgule plutôt que point'
+  confiance: moyenne
+difficultes:
+- ligne: 8
+  lemme: comble
+  analyse: c d'attaque, o lié, m, haste de b puis l, e final plongeant sous la ligne (aspect « cmll » suivi d'une queue) ; zoom ×3 confirme, aucun b initial ni d (contre « bondée ») ; le sens concorde
+  alternatives:
+  - combles
+- ligne: 13
+  lemme: d'1
+  analyse: 'zoom ×3 : petit c suivi d''une haste courte coupée d''un trait (aspect « ct », « et »), puis 1 à longue boucle d''attaque (aspect « 4 ») : d à panse noyée + apostrophe + 1 ; « et 1 » ne donne pas de sens'
+  alternatives:
+  - et 1
+- ligne: 13
+  lemme: pâle
+  analyse: p, a, l, e, puis un arc en ɛ détaché, pris pour le circonflexe décalé à droite
+  alternatives:
+  - pale
+- ligne: 20
+  lemme: Carluvant
+  analyse: 'zoom ×3 : grand C bouclé, a ouvert, r, l bouclé à base empâtée, puis trois ou quatre minimes (u + v ?), une boucle (a ou o), n, t barré ; compatible avec Carluvant (u + v à boucle + a), retenu en 102 et 118 ; la lecture « Carlumont » (7 occurrences en première lecture) reste possible'
+  alternatives:
+  - Carlumont
+  - Corlemont
+- ligne: 22
+  lemme: sorti,
+  analyse: 'zoom ×3 : petite masse d''encre à queue descendante sous la ligne, à droite du i ; la page suivante reprend par « En me rendant »'
+  alternatives:
+  - sorti.
+controle:
+- ligne: 1
+  avant: 'apparat Merc. : mercredi ; le point est réduit à un court trait bas'
+  apres: 'apparat Merc. : mercredi'
+  justification: détail de disposition sans utilité pour le lecteur
+- ligne: 14
+  avant: 'apparat « 2 » (lecture) : chiffre empâté'
+  apres: note supprimée
+  justification: chiffre lisible (zoom ×2), aucune difficulté réelle
+- ligne: 20
+  avant: apparat sans note pour « M. » et « & »
+  apres: notes abreviation Monsieur, et
+  justification: chaque abréviation reçoit son développement
+- ligne: 18
+  avant: 'changement : trait vertical à droite = queue du 2'
+  apres: trait oblique = hampe du b de « billet » (l. 19)
+  justification: zoom ×2 sur la fraction ; transcription inchangée
+remarques: Retour de permission (Toulouse, Paris) ; suite de la journée au cliché 147.
+resume: Nuit de voyage vers le front dans un compartiment surchauffé et bondé, par un froid très vif. Arrivé à Amiens à minuit 30, Hippolyte Combes se repose une heure au foyer Y.M.C.A., attend deux heures dans la salle d'attente comble, puis prend le train de Doullens à 6 h 7. À la gare de Louvencourt, il voit deux Taubes évoluer dans le ciel bleu sous les éclatements d'obus. Arrivé à Acheux vers 1 h 1/2, il regagne à pied son ancien cantonnement, où les Carluvant lui offrent un déjeuner sommaire.
+noms:
+  personnes:
+  - forme: Carluvant
+    ligne: 20
+    identite: M. et Mme Carluvant, logeurs d'Hippolyte Combes à Acheux
+  lieux:
+  - forme: Amiens
+    ligne: 5
+    identite: Amiens (Somme)
+  - forme: Doullens
+    ligne: 9
+    identite: Doullens (Somme)
+  - forme: Louvencourt
+    ligne: 14
+    identite: Louvencourt (Somme)
+  - forme: Acheux
+    ligne: 18
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

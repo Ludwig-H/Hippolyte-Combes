@@ -1,0 +1,144 @@
+cliche: 68
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 7. \hfill Octbre 1916
+  apres: \sl{Sam. 7.} \hfill \sl{Oct^{bre} 1916}
+  justification: deux traits de soulignement décalés à droite sous chaque élément ; finale de Oct réduite à une ondulation suscrite
+  confiance: haute
+- ligne: 2
+  avant: Bonne nuit
+  apres: \ind Bonne nuit
+  justification: attaque à x≈.09 contre .04–.06 pour les lignes suivantes, comme l. 10
+  confiance: moyenne
+- ligne: 3
+  avant: 6H 1/2
+  apres: 6^{h} \fr{1}{2}
+  justification: petit h surélevé après le 6, puis fraction empilée en ʒ descendant
+  confiance: haute
+- ligne: 3
+  avant: Ouvert
+  apres: \inc{Ouvert}
+  justification: 'aucun t net : O bouclé, minimes, e final et trait court suscrit pareil à l''accent de « commencé »'
+  confiance: moyenne
+- ligne: 6
+  avant: tourmentés
+  apres: tourmentées
+  justification: après le t, deux boucles d'e distinctes puis le s final ; la barre au-dessus est celle du t, décalée
+  confiance: moyenne
+- ligne: 7
+  avant: – On
+  apres: . On
+  justification: point rond appuyé à la marge, non un tiret
+  confiance: haute
+- ligne: 8
+  avant: Tout le jour
+  apres: \ind Tout le jour
+  justification: retrait net (x≈.13)
+  confiance: haute
+- ligne: 10
+  avant: Me plais
+  apres: \ind Me plais
+  justification: retrait (x≈.09)
+  confiance: moyenne
+- ligne: 11
+  avant: gde
+  apres: g^{de}
+  justification: après le g, haste et arche surélevées (d ouvert + e)
+  confiance: moyenne
+- ligne: 11
+  avant: C'était
+  apres: C'etait
+  justification: aucun accent sur l'e ; le trait au-dessus appartient au A de « Ai » (l. 10)
+  confiance: moyenne
+- ligne: 13
+  avant: ac
+  apres: av
+  justification: a + v arrondi lié à droite (guide § 8, piège 4)
+  confiance: moyenne
+- ligne: 14
+  avant: chargés
+  apres: chargé
+  justification: l'é accentué termine le mot ; aucun s
+  confiance: haute
+- ligne: 14
+  avant: gds
+  apres: gd
+  justification: g + d à haste bouclée, aucun s avant « bois »
+  confiance: moyenne
+- ligne: 15
+  avant: Cap. Panton
+  apres: Cap. Pant
+  justification: P, a, n, t barré, puis un seul délié plongeant vers la l. 16 ; aucune lettre o ni n (contrôle p2)
+  confiance: moyenne
+- ligne: 15
+  avant: dépenses
+  apres: depenses
+  justification: aucun accent visible sur le premier e
+  confiance: moyenne
+- ligne: 16
+  avant: septbre
+  apres: sept
+  justification: s long, e, p descendant, t à grande barre ; aucune finale suscrite lisible
+  confiance: moyenne
+- ligne: 16
+  avant: 29 f —
+  apres: 29^{f} —
+  justification: f monétaire en petite boucle surélevée après le 9
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: Ouvert
+  analyse: O à boucle d'attaque, u, v, puis r/e et long délié ; trait court oblique au-dessus de la fin, identique à l'accent de « commencé » ; aucune hampe de t (zoom ×3 [.75 .07 1.0 .125]). Le sens (ouvert les sacs) impose Ouvert ; la graphie seule donnerait « Ouvré ».
+  alternatives:
+  - Ouvré
+  - Ouvert
+- ligne: 3
+  lemme: m'installer
+  analyse: m isolé puis « installer » dont l'i a une boucle d'attaque (aspect e) ; aucune apostrophe distincte
+  alternatives:
+  - m installer
+- ligne: 6
+  lemme: plaintivt
+  analyse: p, l, a, minimes avec point d'i, puis deux hastes (la seconde barrée) ; iv mal distinct des minimes
+  alternatives:
+  - plaintt
+  - plaint^{t}
+- ligne: 15
+  lemme: Pant
+  analyse: 'zoom ×3 [.05 .83 .52 .88] : P à haste et boucle, a, n, t à barre longue ; ensuite un trait remonte puis plonge jusqu''à la l. 16 (aspect y) ; aucune lettre o, n identifiable. Abréviation Pant. connue ailleurs (ABREVIATIONS § 11). Remarque du commentateur historique (Panton absent de WO 339, Jones, War in the Air II) : sans effet sur la lecture ; le nom reste une restitution.'
+  alternatives:
+  - Panty
+  - Pant[on]
+- ligne: 16
+  lemme: sept
+  analyse: 'après le p, deux traits hauts : t bouclé puis haste barrée ; une finale « b » n''est pas exclue'
+  alternatives:
+  - sept^{b}
+- ligne: 16
+  lemme: en
+  analyse: e à boucle pleine d'encre puis n ; aspect « an »
+  alternatives:
+  - an
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Jones, The War in the Air II (1928), p. 300-301 (fort vent d''ouest du 7 oct., prise du Sars) ; TNA WO 339/374 (aucun Panton dans l''A.S.C.). Le manuscrit porte « Pant » suivi d''un délié : la forme développée Panton reste une restitution (vérifié en p2).'
+  alternatives: []
+controle:
+- ligne: 15
+  avant: Au Cap. Panton payé
+  apres: Au Cap. Pant payé
+  justification: après « Pant » (t barré), un seul délié plongeant vers la l. 16, sans o ni n ; abréviation développée dans l'apparat
+- ligne: 15
+  avant: 'apparat : (aucune entrée pour le nom)'
+  apres: 'apparat : Pant → Panton'
+  justification: forme abrégée attestée ailleurs (Pant.) ; restitution signalée
+remarques: 'Lieu déduit du contexte (067 : arrivée à Barlette) ; aucun toponyme sur la page.'
+resume: 'Première journée complète au cantonnement de Barlette. Nuit de tempête : averses et rafales font bruire arbres et arbustes devant la maison, comme au bord de la mer ; pluie et bourrasques tout le jour. Hippolyte Combes s''installe et se plaît dans son billet, une grande chambre haute de plafond, ancien salon d''une vieille grand-mère très sympathique ; devant la maison, une pâture plantée de pommiers chargés de fruits, au-delà de grands bois. Il règle au capitaine « Pant[on] » sa part des dépenses du mess de septembre : 29 francs.'
+noms:
+  personnes:
+  - forme: Pant
+    ligne: 15
+    identite: capitaine britannique (Panton ?), chef du mess de la compagnie
+  lieux: []
+source: contrôle

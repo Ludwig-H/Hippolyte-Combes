@@ -1,0 +1,132 @@
+cliche: 139
+fichier: 20251126_110338.jpg
+date: Samedi 3 février 1917
+mois: Février 1917
+lieux: Toulouse (Haute-Garonne) ; Carcassonne (Aude) ; Béziers (Hérault) ; Millau (Aveyron)
+titre: Départ de Toulouse avec Marguerite ; Carcassonne, cathédrale de Béziers, arrivée à Millau
+transcription: |
+  \sl{Sam. 3} \hfill \sl{Fevr. 17}
+  \ind Levé 5^{H} –
+  mis ordre de mes affaires & caisses
+  A 8^{H} \fr{1}{2}, chz \inc{Auriol}, joaillier, puis chz dentiste
+  A 10^{H}, quitté maison et rejoint Margte
+  Partis de S^{te}-Marie, vers 11^{H} 40
+  oncle m'a accompagnés gare
+  Pris express midi 30. 15 m. de retard.
+  A Carcassonne, pu embrasser Jean
+  A Béziers, à 4^{H} \fr{1}{2}. Montés à pied ville
+  et visité rapid^{t} cath^{le}. Admiré panorama
+  terrasse. Plaine, rivière et soleil couchant
+  \ind Repartis de Béziers à 5^{H}23, petit train
+  Vieux wagons, pas de 2\inc{ème} –
+  Delicieuse intimité s/ l'épaule de Mte
+  \blanc{1}
+  A 10^{H} 30, à Millau.
+  \ind Pierre à la gare nous attendait –
+  Impression silence profond en debarquant
+  ville natale
+  A la maison de Mte parents m'ont
+  fait accueil très affectueux
+  On m'a donné 1 des + belles chambres,
+  au 1er etage – —
+apparat:
+- ligne: 1
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 1
+  lemme: Fevr. 17
+  type: abreviation
+  note: février 1917
+- ligne: 2
+  lemme: 5^{H}
+  type: abreviation
+  note: 5 heures
+- ligne: 4
+  lemme: 8^{H} \fr{1}{2}
+  type: abreviation
+  note: 8 heures et demie
+- ligne: 4
+  lemme: chz
+  type: abreviation
+  note: chez (deux occurrences)
+- ligne: 4
+  lemme: \inc{Auriol}
+  type: lecture
+  note: lecture de l'état antérieur, conservée sous réserve ; « Auriole » possible
+- ligne: 5
+  lemme: Margte
+  type: abreviation
+  note: Marguerite (Calmels)
+- ligne: 6
+  lemme: S^{te}-Marie
+  type: abreviation
+  note: Sainte-Marie(-des-Champs), quartier de Toulouse
+- ligne: 6
+  lemme: 11^{H} 40
+  type: abreviation
+  note: 11 heures 40
+- ligne: 7
+  lemme: accompagnés
+  type: lecture
+  note: s final réduit à un trait vertical après l'é ; « accompagné » selon l'état antérieur
+- ligne: 8
+  lemme: midi 30
+  type: lecture
+  note: 0 noyé d'encre et traversé par un jambage de la ligne précédente, d'où l'aspect d'un 9
+- ligne: 8
+  lemme: 15 m.
+  type: abreviation
+  note: 15 minutes
+- ligne: 10
+  lemme: 4^{H} \fr{1}{2}
+  type: abreviation
+  note: 4 heures et demie
+- ligne: 11
+  lemme: rapid^{t}
+  type: abreviation
+  note: rapidement
+- ligne: 11
+  lemme: cath^{le}
+  type: abreviation
+  note: cathédrale (Saint-Nazaire de Béziers)
+- ligne: 13
+  lemme: 5^{H}23
+  type: abreviation
+  note: 5 heures 23
+- ligne: 14
+  lemme: 2\inc{ème}
+  type: lecture
+  note: deuxième (classe) ; finale brève sous un trait, « 2e » possible
+- ligne: 15
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 15
+  lemme: Mte
+  type: abreviation
+  note: Marguerite
+- ligne: 16
+  lemme: 10^{H} 30
+  type: abreviation
+  note: 10 heures 30
+- ligne: 20
+  lemme: Mte
+  type: abreviation
+  note: Marguerite
+- ligne: 22
+  lemme: 1 des + belles
+  type: abreviation
+  note: une des plus belles
+- ligne: 23
+  lemme: 1er
+  type: abreviation
+  note: premier
+critique: Encre violette. La fin des l. 14-15 et les mots « ville natale » sont d'un trait plus pâle et plus fin, comme à plume presque sèche ; un blanc d'une ligne sépare le voyage de l'arrivée à Millau. Les comptes de la journée sont reportés au recto suivant.
+historique: |
+  L'« oncle » qui les accompagne à la gare est sans doute Émile Crouzet, chez qui Marguerite loge à Sainte-Marie (voir f.~27~v\textsuperscript{o}). Jean est vraisemblablement son fils, l'abbé Jean Crouzet, vicaire à Saint-Étienne de Toulouse (voir f.~29~v\textsuperscript{o}) ; sa présence à Carcassonne reste inexpliquée. À Béziers, la « cath\textsuperscript{le} » est l'ancienne cathédrale Saint-Nazaire (XII\textsuperscript{e}-XIV\textsuperscript{e} s.), en partie fortifiée, dont la terrasse domine l'Orb et la plaine (Baedeker 1914, p.~107). Le « petit train » de 17~h~23 suit la ligne des Causses, de Béziers à Neussargues (Compagnie du Midi), par Bédarieux, où les voyageurs dînent au buffet (f.~70~r\textsuperscript{o}), et Tournemire (Baedeker 1914, p.~282-287). Pierre Calmels (1884-1924), médecin, frère de Marguerite, les attend à Millau, ville où Combes est né le 14 août 1876 (acte n\textsuperscript{o}~395). La « maison de Mte » est celle que le Dr Gabriel Calmels (1852-1921) a bâtie au 10, rue Alfred-Guibert, où sera servi le repas de noces du 25 octobre 1917 (PC-Annexe).
+sources:
+- Baedeker, K., Southern France including Corsica, 6e éd., Leipzig, Baedeker, 1914, p. 106-107 et 282-287.
+- Acte de naissance de Marie Lucien Hippolyte Combes, Millau, n° 395, 16 août 1876 (archives familiales).
+- Combes, P., annexe du livre familial dactylographié (Combes-annexe) et arbre généalogique (2020), p. 106 (archives familiales).
+- Le Télégramme (Toulouse), 5 févr. 1915, p. 2 (abbé Crouzet, Rosalis, ark:/12148/bd6t53865791z).

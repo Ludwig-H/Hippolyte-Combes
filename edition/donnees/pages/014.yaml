@@ -1,0 +1,120 @@
+cliche: 14
+fichier: 20251126_093426.jpg
+date: Lundi 7 août 1916
+mois: Août 1916
+lieux: La Croix-du-Bac (Steenwerck, Nord)
+titre: Recherche de billets avec Curtis ; la compagnie déménage ; chambre au-dessus de la poste
+transcription: |
+  \sl{Lundi 7 –} \hfill Aout 1916
+  \ind Chaleur accablante
+  Toute matinée, avec cet idiot de C^{tis}, cherché
+  nouvx billets et messroom pour mes offs
+  \addm{\ill} Libre, avant midi – mais alors harasse
+  de fatigue –
+  \ind Quand venu prendre mes rations, trouvé
+  Coy partie. \inc{Barning} m'a appris que tte la Coy
+  \ind shifté ce matin, à 9^{H} – Damn !
+  \inc{Trouvée} à l'autre extrêmité village –
+  \ind Dû aussi changer de Quartier Je
+  suis installé maison au dessus Postoffice
+  route de Bac St Maur, avec g^{de} chambre
+  au 1^{er} etage. Y couché dès ce soir
+  \ind Terminé journée avec Maurin
+  \blanc{3}
+  \filet
+  \ind Payé à ma propre : cooking : 1^{f}
+  \ind Oeufs & lait : 75 c \hfill (2 days)
+  \ind 1 litre bière : 30c
+apparat:
+- ligne: 3
+  lemme: C^{tis}
+  type: abreviation
+  note: Curtis (lieutenant britannique)
+- ligne: 4
+  lemme: nouvx
+  type: abreviation
+  note: nouveaux
+- ligne: 4
+  lemme: billets
+  type: emprunt
+  note: logements de cantonnement
+- ligne: 4
+  lemme: messroom
+  type: emprunt
+  note: salle du mess (popote des officiers)
+- ligne: 4
+  lemme: offs
+  type: abreviation
+  note: officiers
+- ligne: 5
+  lemme: \addm{\ill}
+  type: lecture
+  note: signe pâteux en marge gauche ; peut-être « tr. » (très), ou simple pâté
+- ligne: 8
+  lemme: Coy
+  type: abreviation
+  note: Company, compagnie
+- ligne: 8
+  lemme: \inc{Barning}
+  type: lecture
+  note: lecture incertaine ; aussi Banning, Bonning
+- ligne: 8
+  lemme: tte
+  type: abreviation
+  note: toute
+- ligne: 9
+  lemme: shifté
+  type: emprunt
+  note: changé de cantonnement (angl. to shift) ; sans auxiliaire, contre l'état antérieur « a shifté »
+- ligne: 9
+  lemme: 9^{H}
+  type: abreviation
+  note: 9 heures
+- ligne: 9
+  lemme: Damn !
+  type: emprunt
+  note: 'juron : « Bon sang ! »'
+- ligne: 10
+  lemme: \inc{Trouvée}
+  type: lecture
+  note: lecture probable, mot illisible dans l'état antérieur ; aussi Trouvé ; « à » écrit sous le mot
+- ligne: 12
+  lemme: Postoffice
+  type: emprunt
+  note: bureau de poste
+- ligne: 13
+  lemme: St
+  type: abreviation
+  note: Saint
+- ligne: 13
+  lemme: g^{de}
+  type: abreviation
+  note: grande
+- ligne: 14
+  lemme: 1^{er}
+  type: abreviation
+  note: premier
+- ligne: 16
+  lemme: propre
+  type: abreviation
+  note: propriétaire
+- ligne: 16
+  lemme: cooking
+  type: emprunt
+  note: cuisine
+- ligne: 16
+  lemme: 1^{f}
+  type: abreviation
+  note: 1 franc
+- ligne: 17
+  lemme: (2 days)
+  type: emprunt
+  note: pour deux jours ; écrit à droite, sous « cooking »
+critique: Encre noire virée au brun. Un blanc d'environ trois lignes précède le filet qui sépare les comptes du récit.
+historique: |
+  La compagnie change de cantonnement le matin où la 54th Brigade achève, dans la nuit du 6 au 7 août, de relever les Néo-Zélandais sur la route d'Armentières à Lille (JMO 7/Bedf, 6-7 août 1916) ; le même jour, le 10th Essex s'installe en soutien à Erquinghem (Banks \& Chell 1924, p. 142). Chercher des \textit{billets} et un \textit{messroom} est la besogne ordinaire de l'interprète : selon Fernand-Laurent, le détachement de cantonnement se compose « d'un officier, de l'interprète et de deux caporaux », et l'habitant reçoit, d'après le décret de 1877, 1 F par nuit et par lit d'officier (Fernand-Laurent 1917, pp. 225-234). « Barning » n'est pas identifié. La route de Bac-Saint-Maur descend du village vers le pont de la Lys (voir f. 7 r\textsuperscript{o}) ; le « Postoffice » peut être la poste civile ou un bureau de poste militaire britannique. Le litre de bière à 30 c coûte moins qu'à l'économat d'une compagnie de chemins de fer en juillet 1916 (0,44 F ; March 1925, p. 182) ; le « cooking » payé à la propriétaire rémunère sans doute la cuisson des rations touchées à la compagnie.
+sources:
+- Bedfordshire Archives Service, X550/8/1/1608, War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916.
+- Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., Londres, Gay & Hancock, 1924, p. 142.
+- Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, pp. 225-234.
+- March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 182.

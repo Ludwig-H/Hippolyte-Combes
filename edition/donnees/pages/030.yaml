@@ -1,0 +1,94 @@
+cliche: 30
+fichier: 20251126_094215.jpg
+date: Lundi 28 et mardi 29 août 1916
+mois: Août 1916
+lieux: Marquay (Pas-de-Calais)
+titre: Giboulées et boue ; fourrage vert avec Curtis ; orage ; la Roumanie entre en guerre
+transcription: |
+  28 Lundi. \hfill Aout 1916
+  \ind Aujd'hui encore, giboulées & eclairci —
+  Cme au mois de mars
+  Surtout matinée, très fortes ondées. Routes
+  detrempées, cloaques de boue. Impossible
+  de faire longues promenades aux environs
+  On ne sort que par necessite
+  Matin & soir, dû aller champs pour \inc{green}
+  fourrage \trait
+  \ind Fin après-midi, très beau soleil.
+  Aucun confort. Jamais + mal logé
+  Vie vegetative deprimante & abrutissante
+  \ind[2] Diné tot. puis promené ds la campagne
+  Regardé paysans travailler champs – machine
+  moissonneuses-lieuses – j-aux dernières lueurs jour
+  \filet
+  29 \sl{Ma} Matin & soir, dû accompagner
+  cet idiot de Curt^{is} – à travers champs
+  – malgré pluie & boue – fourrage —
+  \ind Après-midi, très violent orage
+  Cour de la ferme, transformée en mare
+  \ind[2] Longues heures de mélancolie
+  et d'ennui —
+  Confirmations nouvelle (Roumanie declare \inc{guerre}
+  comme \inc{soeur} neo-\inc{latine} \trait
+apparat:
+- ligne: 2
+  lemme: Aujd'hui
+  type: abreviation
+  note: aujourd'hui
+- ligne: 2
+  lemme: eclairci —
+  type: lecture
+  note: le mot s'arrête sur l'i, la finale se perdant dans le tiret ; antérieurement « éclaircies »
+- ligne: 3
+  lemme: Cme
+  type: abreviation
+  note: comme
+- ligne: 8
+  lemme: \inc{green}
+  type: lecture
+  note: mot très réduit (g initial, finale haute prolongée en délié) ; lecture retenue d'après le sens, gr^{d} n'est pas exclu
+- ligne: 8
+  lemme: \inc{green}
+  type: emprunt
+  note: vert (green fourrage, fourrage vert)
+- ligne: 11
+  lemme: +
+  type: abreviation
+  note: plus
+- ligne: 13
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 15
+  lemme: moissonneuses-lieuses
+  type: lecture
+  note: pluriel aux deux mots (antérieurement moissonneuse-lieuse)
+- ligne: 15
+  lemme: j-aux
+  type: abreviation
+  note: jusqu'aux
+- ligne: 16
+  lemme: Ma
+  type: abreviation
+  note: mardi
+- ligne: 17
+  lemme: Curt^{is}
+  type: abreviation
+  note: Curtis (lieutenant)
+- ligne: 23
+  lemme: \inc{guerre}
+  type: lecture
+  note: mot très resserré en fin de ligne, lu d'après le sens ; g^{re} possible
+- ligne: 24
+  lemme: comme \inc{soeur} neo-\inc{latine}
+  type: lecture
+  note: lecture nouvelle et peu sûre (antérieurement « [illis.] grecque etc. ») ; neo-lat. possible
+critique: Un filet sépare les journées du 28 et du 29. « et d'ennui » est écrit dans la marge gauche, entre les l.~21 et 23 ; les deux dernières lignes, serrées contre le bord inférieur du feuillet, sont d'une lecture difficile, et la parenthèse ouverte avant « Roumanie » n'est pas refermée.
+historique: |
+  Le temps concorde avec le journal des Bedfords : 28 août, « Heavy showers at times » ; 29 août, « Heavy thunderstorm, men got very wet » (JMO 7/Bedf) ; à Chelers, le 10th Essex essuie au retour d'un exercice d'attaque derrière un barrage figuré « the heaviest thunderstorm we experienced in 1916 » (Banks \& Chell 1924, p. 145). Le 28, la brigade s'exerce à l'attaque sous bois au bois des Hérombus, sur Averdoingt, à 4 km au sud-est de Marquay (JMO 7/Bedf ; localisation OSM). Le « green fourrage » est le fourrage vert réglementaire des chevaux (voir f. 9 v\textsuperscript{o}). Le lieutenant Curtis, chargé du fourrage, reste non identifié (onze officiers de l'A.S.C. de ce nom : TNA, WO 339) ; voir f. 3 r\textsuperscript{o}. La Roumanie a déclaré la guerre à l'Autriche-Hongrie le dimanche 27 août ; l'Allemagne lui déclare la guerre le 28, la Turquie le 30, la Bulgarie le 1er septembre (Falls 1933, p. 139). En Angleterre, les journaux du soir l'annoncent dès le 28 (Henson, journal, 28 août 1916), d'où sans doute les « confirmations » du 29.
+sources:
+- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (transcription en ligne).'
+- Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., London, Gay & Hancock, 1924, p. 145.
+- 'The National Archives (Kew), WO 339 : dossiers d''officiers, recherche « Curtis » « Army Service Corps ».'
+- Falls, Cyril (comp.), Military Operations, Macedonia, vol. I, London, HMSO, 1933, p. 139.
+- Henson, Herbert Hensley, Journals, vol. 20, p. 424, 28 août 1916, Durham University (henson.durham.ac.uk/journals/16-08-28), consulté le 18 oct. 2026.

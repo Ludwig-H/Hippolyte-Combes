@@ -1,0 +1,142 @@
+cliche: 109
+fichier: 20251126_105057.jpg
+date: Samedi 9 – lundi 11 décembre 1916
+mois: Décembre 1916
+lieux: Acheux-en-Amiénois et Authie (Somme) ; Orville et Saulty (Pas-de-Calais)
+titre: Sous la pluie, d'Authie à Saulty-L'Arbret ; « ce gosse de Williams » ; dysenterie le 11
+transcription: |
+  9 \sl{Samedi} \hfill Decb \sl{1916}
+  \ind Tout le jour, pluie, et \trait
+  parfois averse \trait
+  Partis en autos vers 9^{H} m. Venus à \del{Belle-Eglise} Orville
+  Déjeuné à Authie, au mess de no 3 Coy 81^{st} div
+  av \inc{1} Lt \inc{Croughton}
+  \ind Après déjeuner, venus à Orville, puis
+  continué route j-à Saulty-Larbret —
+  Rentrés nuit noire. Temps affreux \trait
+  \ind Très fatigué et tout mouillé. Mangé de
+  suite et venu chambre — Extremt \inc{Autoritaire}
+  \ind ce gosse de Williams . – —
+  \filet
+  11 L – Hier & aujdhui, inoccupé, mais
+  resté office matin & soir
+  Tjours temps affreux. Pluie & boue
+  Nuit de dimanche à lundi, mauvaise
+  digestion. Dyssenterie durant tte journée
+  de lundi. N'ai pris aucun aliment. —
+  \ind Tt le jour, langui ds ma chambre
+  ou au bureau . – .
+  \blanc{2}
+  \equerre{1}Tin of Wren's Dubbin : 30c \trait
+apparat:
+- ligne: 1
+  lemme: Decb
+  type: abreviation
+  note: décembre
+- ligne: 4
+  lemme: 9^{H} m.
+  type: abreviation
+  note: 9 heures du matin
+- ligne: 4
+  lemme: \del{Belle-Eglise} Orville
+  type: rature
+  note: Belle-Eglise biffé, Orville écrit à travers ; l'ordre des deux écritures n'est pas assuré
+- ligne: 5
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 5
+  lemme: 'no'
+  type: abreviation
+  note: numéro
+- ligne: 5
+  lemme: Coy
+  type: abreviation
+  note: Company, compagnie britannique
+- ligne: 5
+  lemme: 81^{st}
+  type: lecture
+  note: 8 net, non 3 ; sans doute lapsus pour 31st (Division)
+- ligne: 5
+  lemme: div
+  type: abreviation
+  note: division
+- ligne: 6
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 6
+  lemme: \inc{1}
+  type: lecture
+  note: 1 (un), signe bref avant Lt, omis jusqu'ici ; autre lecture possible le
+- ligne: 6
+  lemme: Lt
+  type: abreviation
+  note: lieutenant
+- ligne: 6
+  lemme: \inc{Croughton}
+  type: lecture
+  note: aucune haste d'h distincte entre la descendante et le t ; autre lecture possible Crampton
+- ligne: 8
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 8
+  lemme: Saulty-Larbret
+  type: graphie
+  note: Saulty et L'Arbret (Pas-de-Calais)
+- ligne: 11
+  lemme: Extremt
+  type: abreviation
+  note: Extrêmement
+- ligne: 11
+  lemme: \inc{Autoritaire}
+  type: lecture
+  note: initiale bouclée et deux t visibles, milieu comprimé ; lecture non assurée
+- ligne: 13
+  lemme: L
+  type: abreviation
+  note: lundi
+- ligne: 13
+  lemme: aujdhui
+  type: abreviation
+  note: aujourd'hui
+- ligne: 14
+  lemme: office
+  type: emprunt
+  note: bureau
+- ligne: 15
+  lemme: Tjours
+  type: abreviation
+  note: Toujours
+- ligne: 17
+  lemme: Dyssenterie
+  type: lecture
+  note: deux s montants après le y ; on lisait Dysenterie
+- ligne: 17
+  lemme: tte
+  type: abreviation
+  note: toute
+- ligne: 19
+  lemme: Tt
+  type: abreviation
+  note: Tout
+- ligne: 19
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 21
+  lemme: Tin of Wren's Dubbin
+  type: emprunt
+  note: boîte de graisse pour cuir, marque Wren's
+critique: 'Le dimanche 10 n''a pas d''entrée propre : un filet sépare le 9 du 11, et la journée de la veille est résumée dans celle du lundi. La ligne de compte du bas de page, isolée après un blanc, est ouverte par une équerre.'
+historique: |
+  La « no 3 Coy » est une compagnie du train divisionnaire de la 31st Division, que Combes écrit « 81st » : lapsus probable, aucune division britannique ne portant ce numéro. Elle tient le secteur d'Hébuterne (OH 1917-I, p.~66 ; voir f.~53~v\textsuperscript{o}) ; son train compte en France les compagnies 221, 222, 223 et 279 de l'A.S.C. (LLT). Le lieutenant Croughton, dans l'auto duquel Combes circulera le 9 février 1917 (voir f.~75~r\textsuperscript{o}), n'est pas identifié (un homonyme de la \textit{London Gazette} sert dans les volontaires de Londres : LG suppl. 29787, 18 oct. 1916, p.~10039). Saulty et L'Arbret (Pas-de-Calais) bordent la route Doullens--Arras, à 13~km de Doullens et 22~km d'Arras ; près de la halte de Warlincourt, les 20th et 43rd CCS soignent les blessés de juin 1916 à mai 1917 (CWGC, Warlincourt Halte British Cemetery) : on est à l'arrière de la Third Army, dont le front commence à Hébuterne (Miles 1938, p.~543, n.~3). Le \textit{dubbin} est une graisse pour le cuir (Clifton et Grimaux 1883) ; la marque Wren's, de Northampton, date de 1889 (Ward 2022).
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.
+- Baker, C., The Long, Long Trail, « 31st Division » (longlongtrail.co.uk, consulté le 18 oct. 2026).
+- Supplement to the London Gazette, n° 29787, 18 octobre 1916, p. 10039.
+- Commonwealth War Graves Commission, notice historique « Warlincourt Halte British Cemetery, Saulty » (cwgc.org).
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 543, n. 3.
+- Clifton, E., et Grimaux, A., Nouveau dictionnaire anglais-français, Paris, Garnier, 1883, s.v. « Dubbing ».
+- Ward, G., « Wren's Shoe Polish and Northampton », Miscellanea Edintone, 2022 (mis à jour en 2024).

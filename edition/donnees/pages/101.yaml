@@ -1,0 +1,134 @@
+cliche: 101
+fichier: 20251126_104849.jpg
+date: Lundi 20 et mardi 21 novembre 1916
+mois: Novembre 1916
+lieux: Acheux-en-Amiénois, Bouzincourt, Contay ? et Englebelmer (Somme)
+titre: Boue et convois à Acheux ; nuit noire à Englebelmer ; remarque blessante de Curtis
+transcription: |
+  \sl{20 Lundi –} \hfill \sl{Nov – /16}
+  \ind Auj-dhui, comme hier, ciel nuageux. Fines
+  ondées, matin & soir
+  Rues & routes etat lamentable, couvertes
+  de boue glissante & épaisse.
+  \ind Ts les jours, passe des heures à regarder rue –
+  debout devant fenêtre chambre ou assis s/ lit à cote
+  Mouvement inouï. Lorries, wagons, cars etc etc
+  Et défilé incessant de troupes revenant de l'avant –
+  ou des tranchées –
+  \ind Souvent aussi, cortèges de prisonniers allemands
+  Après-midi, longue course en auto : Bouzincourt
+  au retour, arrêt à \inc{Contay}. Nuit noire. Cherché refuge
+  à Englebelmer. Dû lattendre ds obscurité profonde : le long
+  hauts murs du château. Boue épaisse . – –
+  \ind Au retour, ciel merv.^{t} étoilé ! . . Nuit noire
+  [ — Cartes ples d'Acheux : 45c . — Timbres : \inc{2 f} \add{Carnet \inc{60}}
+  \filet
+  \sl{21 Ma –} Épais brouillard matin & soir
+  \fr{1}{2} jour, soleil brillé 1 peu
+  Routes etat lamentable. Couche profonde
+  de boue liquide. Humidité pénétrante
+  \ind Matin, libre. Après-midi, s/ lorry
+  à \inc{Lealvillers}. Au retour, office, remarque
+  +tot desobligeante de Curtis : fâché
+  contre lui. –
+apparat:
+- ligne: 1
+  lemme: Nov – /16
+  type: abreviation
+  note: novembre 1916
+- ligne: 2
+  lemme: Auj-dhui
+  type: abreviation
+  note: aujourd'hui
+- ligne: 6
+  lemme: Ts
+  type: abreviation
+  note: tous
+- ligne: 7
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 8
+  lemme: Lorries
+  type: emprunt
+  note: camions
+- ligne: 8
+  lemme: wagons
+  type: emprunt
+  note: chariots, voitures attelées
+- ligne: 8
+  lemme: cars
+  type: emprunt
+  note: automobiles
+- ligne: 13
+  lemme: \inc{Contay}
+  type: lecture
+  note: lecture probable (C, o, n, t barré, a, y) ; le détour par Contay surprend sur ce trajet
+- ligne: 14
+  lemme: lattendre
+  type: lecture
+  note: l'attendre (sans apostrophe) ; l initial bouclé net ; on lisait « attendre »
+- ligne: 14
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 15
+  lemme: Boue épaisse
+  type: disposition
+  note: écrit un peu au-dessus de la ligne, dans le blanc laissé après « château »
+- ligne: 16
+  lemme: merv.^{t}
+  type: abreviation
+  note: merveilleusement
+- ligne: 17
+  lemme: Cartes ples
+  type: abreviation
+  note: cartes postales
+- ligne: 17
+  lemme: \inc{2 f}
+  type: lecture
+  note: lecture probable, chiffre bouclé suivi d'un f ; autres lectures possibles 4 f, 6 f
+- ligne: 17
+  lemme: Carnet \inc{60}
+  type: ajout
+  note: ajouté au-dessus de « Timbres » ; montant serré, lecture incertaine (60 ou 50)
+- ligne: 18
+  lemme: Ma
+  type: abreviation
+  note: mardi
+- ligne: 19
+  lemme: \fr{1}{2} jour
+  type: abreviation
+  note: demi-jour, milieu du jour
+- ligne: 19
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 22
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 22
+  lemme: lorry
+  type: emprunt
+  note: camion
+- ligne: 23
+  lemme: \inc{Lealvillers}
+  type: lecture
+  note: Léalvillers ; s final non distinct (Lealviller)
+- ligne: 23
+  lemme: office
+  type: emprunt
+  note: bureau
+- ligne: 24
+  lemme: +tot
+  type: abreviation
+  note: plutôt
+critique: Encre noire. Dans la phrase sur les troupes revenant de l'avant, « ou » est rejeté en marge et « des tranchées » écrit après un large blanc ; le relevé de dépenses du 20, ouvert par un crochet, n'est pas refermé.
+historique: |
+  Les « cortèges de prisonniers allemands » sont ceux de la bataille de l'Ancre (13--18 novembre), qui en a fait « plus de 7 200, dont 149 officiers » (Haig 1919, p.~51) ; le « défilé incessant de troupes revenant de l'avant » répond aux relèves qui la suivent : la 63rd Division est relevée par la 37th à partir du 14 au soir, la 51st par la 32nd le 17 (OH 1916-II, p.~507, 513). Bouzincourt, à 7,5~km au sud-est, est alors un poste d'ambulances (CWGC). Englebelmer, à 5,5~km à l'est, est sur la route Contay--Hédauville--Englebelmer--Martinsart, presque la seule utilisable de jour comme de nuit près du front (OH 1916-I, p.~271) ; poste d'ambulances encore exposé aux obus à l'automne 1916 (CWGC), il est bientôt presque vide d'habitants (voir f.~54~r\textsuperscript{o}). Contay, gare de munitions et siège de deux hôpitaux d'évacuation (OH 1916-I, p.~273--274 ; CWGC), imposerait un détour de 8~km au sud-ouest : la lecture reste douteuse. Le lieutenant Curtis, jugé très durement dès l'été, sera remplacé le 2 décembre par le capitaine Williams (voir f.~52~v\textsuperscript{o}).
+sources:
+- Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), London, Dent, 1919, p. 51.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 507, 513.
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 271, 273-274.
+- Commonwealth War Graves Commission, notices historiques « Bouzincourt Communal Cemetery Extension », « Englebelmer Communal Cemetery Extension » et « Contay British Cemetery » (cwgc.org).

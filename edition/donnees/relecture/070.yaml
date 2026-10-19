@@ -1,0 +1,116 @@
+cliche: 70
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Lundi 9 \hfill Oct – / 16
+  apres: \sl{Lundi 9} \hfill Oct– \sl{/16}
+  justification: trait appuyé sous Lundi 9 ; tiret collé à Oct ; trait sous /16
+  confiance: haute
+- ligne: 2
+  avant: Tout le jour, ciel assombri gros nuages
+  apres: \ind Tout le jour, ciel assombri gros nuages
+  justification: ligne nettement en retrait sous la date
+  confiance: haute
+- ligne: 6
+  avant: jonchés
+  apres: jonché
+  justification: aucun s après l'é accentué, le mot suivant « de » commence aussitôt
+  confiance: moyenne
+- ligne: 6
+  avant: rouillées.
+  apres: \inc{rouillés}.
+  justification: 'après la double boucle : un seul e (signe au-dessus) puis s plongeant ; pas de second e ; i non assuré'
+  confiance: basse
+- ligne: 10
+  avant: lgt
+  apres: lgs
+  justification: l bouclé + g + s descendant, sans barre de t
+  confiance: moyenne
+- ligne: 13
+  avant: feuillues
+  apres: feuillues \trait
+  justification: long trait horizontal tiré après le mot
+  confiance: haute
+- ligne: 14
+  avant: Le soir, en revenant du mess,
+  apres: \ind Le soir, en revenant du mess,
+  justification: alinéa
+  confiance: haute
+- ligne: 15
+  avant: 'admiré ciel [mervt ?] éclairé par lune [ajout interl. : pleine].'
+  apres: admiré ciel mervt eclairé par \add{pleine} lune.
+  justification: m-e-r-v-t net, t barré sur la ligne ; aucun accent sur l'e initial d'eclairé ; « pleine » sous « lune »
+  confiance: moyenne
+- ligne: 16
+  avant: çà et là.
+  apres: ca et là
+  justification: ni cédille ni accent sur ca ; grand accent recourbé sur là ; pas de point
+  confiance: moyenne
+- ligne: 17
+  avant: details
+  apres: détails
+  justification: accent net sur le premier e
+  confiance: haute
+- ligne: 19
+  avant: \ind[2] Me plais infinimt
+  apres: \ind Me plais infinit
+  justification: i-n-f-i-n-i-t, aucun m avant le t
+  confiance: haute
+- ligne: 20
+  avant: salon.
+  apres: salon
+  justification: long délié final, pas de point
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: et
+  analyse: 'après le t de « et », deux traits verticaux courts recoupés par la barre du t (aspect #) : t repris ou départ de plume ; non transcrit'
+  alternatives:
+  - ett
+- ligne: 6
+  lemme: rouillés
+  analyse: r-o-u, puis deux hautes boucles (ll, ou ss en ll/ff comme dans « bruissement » l. 11), e surmonté d'un seul signe (accent ou point d'i décalé), s plongeant, point ; aucune minime sûre pour l'i
+  alternatives:
+  - rousses
+  - rouillées
+- ligne: 7
+  lemme: enchevêtrt
+  analyse: e-n-c-h-e-v, puis crochet en 7 (circonflexe ou t à barre crochue), puis t haut barré
+  alternatives:
+  - enchevêtt
+- ligne: 9
+  lemme: plusis
+  analyse: p-l-u puis deux minimes pointues, point d'i décalé, s final plongeant
+  alternatives:
+  - plusrs
+controle:
+- ligne: 6
+  avant: rouillés.
+  apres: \inc{rouillés}.
+  justification: zoom ×3 [.74 .17 1.0 .24] ; aucune minime d'i nette avant la double boucle, un seul signe suscrit ; « rousses » (ss en ll) également compatible
+- ligne: 6
+  avant: 'apparat : notes « et » (signe) et « jonché … rouillés » (accord)'
+  apres: notes supprimées ; note de lecture sur « rouillés »
+  justification: trait parasite sans sens et accord omis (faute banale) ne relèvent pas de l'apparat imprimé ; analyse gardée dans difficultes
+- ligne: 15
+  avant: 'difficulté : « lune. » ou « lune ! »'
+  apres: lune. (inchangé)
+  justification: zoom ×2 [.55 .53 1.0 .62] ; le trait oblique descend depuis la ligne de « mess » (sa virgule) et le point est isolé à droite de « lune », non sous le trait
+- ligne: 16
+  avant: 'apparat : graphie « ca et là » = çà et là'
+  apres: note supprimée
+  justification: accent et cédille absents, cas banal
+- ligne: 4
+  avant: ''
+  apres: 'apparat : « à 1 » = à une ; l. 20 « 1 vrai » = un vrai'
+  justification: le 1 mis pour un/une est une abréviation de la table (§ 3)
+- ligne: 0
+  avant: 'lieux : Barlette et forêt de Ribeaucourt (Somme)'
+  apres: 'lieux : Barlette (Somme) et forêt voisine'
+  justification: ni le nom de la forêt ni celui de la commune ne figurent sur la page ; rattachement communal signalé par le commentateur non vérifiable ici
+remarques: Aucun nom de lieu sur la page ; le cantonnement de Barlette est déduit des pages voisines (cl. 067). La forêt n'est pas nommée.
+resume: 'Journée sombre, ciel couleur de plomb. L''après-midi, Hippolyte Combes pénètre dans une forêt qui longe la route : sentiers boueux jonchés de feuilles, taillis enchevêtrés, arbres plusieurs fois séculaires ; il y reste longtemps à écouter le vent dans les branches. Le soir, en revenant du mess, il admire le ciel éclairé par la lune et la campagne aux détails bien découpés. Il se plaît beaucoup dans sa grande chambre, « un vrai salon ».'
+noms:
+  personnes: []
+  lieux: []
+source: contrôle

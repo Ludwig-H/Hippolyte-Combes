@@ -1,0 +1,184 @@
+cliche: 28
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Ven. 25 (suite) \hfill Août 1916
+  apres: \sl{Ven 25 (suite)} \hfill Aout \sl{1916}
+  justification: aucun point après Ven ; trait sous la date ; Aout sans circonflexe ; trait long sous 1916 (la barre du t d'Aout est prolongée jusqu'au millésime)
+  confiance: moyenne
+- ligne: 2
+  avant: 1H
+  apres: 1^{H}
+  justification: H nettement surélevé
+  confiance: haute
+- ligne: 3
+  avant: joué
+  apres: \inc{jouée}
+  justification: après jou, deux petites boucles et un point (accent)
+  confiance: basse
+- ligne: 4
+  avant: harmonica
+  apres: \inc{harmonique}
+  justification: jambage descendant long (q) avant la finale u-e prolongée
+  confiance: basse
+- ligne: 5
+  avant: nuées … blanchâtres
+  apres: nuees … blanchatres
+  justification: aucun accent ni circonflexe visible
+  confiance: moyenne
+- ligne: 6
+  avant: Réflexions amères. L'Etat [illis.] mobiliser nos
+  apres: Reflexions amères. L'Etat \inc{et} bien mobilisé nos
+  justification: Reflexions sans accent ; e + t barré ; bien ; m à attaque descendante, o, b, i, l, i, s réduit, é accentué
+  confiance: moyenne
+- ligne: 7
+  avant: corps, [illis.] a encore p. notre intellge
+  apres: corps, il a encore \inc{p.} notre intellige
+  justification: i pointé + l court avant a ; i visible entre ll et g
+  confiance: moyenne
+- ligne: 9
+  avant: Ciel de + en + bas & nuageux
+  apres: \ind[2] Ciel de + en + bas & nuag \trait
+  justification: ligne en retrait marqué ; le mot s'arrête après g et se prolonge en long trait
+  confiance: haute
+- ligne: 11
+  avant: qui me caresse visage délicieust
+  apres: qui ns caresse visage delicieus^{t}
+  justification: deux jambages + s plongeant ; t suscrit ; aucun accent sur delicieus
+  confiance: moyenne
+- ligne: 12
+  avant: bise
+  apres: brise
+  justification: deux jambages après b (r + i), même tracé que brise l. 10
+  confiance: moyenne
+- ligne: 13
+  avant: ferrée –
+  apres: ferrée \hfill –
+  justification: tiret isolé à droite
+  confiance: haute
+- ligne: 14
+  avant: j’à la peau.
+  apres: j-à la peau \trait
+  justification: trait d'union bas ; aucun point, long trait final
+  confiance: haute
+- ligne: 15
+  avant: 7H
+  apres: 7^{H}
+  justification: H surélevé
+  confiance: haute
+- ligne: 17
+  avant: d'Artois
+  apres: d Artois
+  justification: aucune apostrophe entre d et A
+  confiance: moyenne
+- ligne: 18
+  avant: à côté de
+  apres: à cote de
+  justification: un seul accent, décalé à droite de a ; aucun signe sur cote
+  confiance: moyenne
+- ligne: 19
+  avant: celui du [illis.] d'office
+  apres: celui du \inc{vx} \inc{g} d'office
+  justification: u/v + croix, puis boucle fermée à haste (g)
+  confiance: basse
+- ligne: 20
+  avant: Invité à diner par offs mess
+  apres: \sl{Invité} à diner par offrs \sl{mess} \trait
+  justification: Invité et mess soulignés ; r et s en pointe après ff ; long trait final
+  confiance: moyenne
+- ligne: 21
+  avant: 'Tip au groom : 1 f'
+  apres: '\ind Tip au groom : \inc{1}'
+  justification: ligne en retrait ; montant réduit à un 1 à long trait d'attaque, sans f visible
+  confiance: basse
+- ligne: 22
+  avant: '75 c. – St-Pol : 1 f'
+  apres: '75c. – St-Pol : 1^{f} \trait'
+  justification: c accolé ; f surélevé en boucle prolongé d'un long trait
+  confiance: moyenne
+difficultes:
+- ligne: 3
+  lemme: jouée
+  analyse: 'j à longue boucle, o, u, puis deux petites boucles (aspect ci) et un point au-dessus : jouée (accord avec musique)'
+  alternatives:
+  - joué
+- ligne: 4
+  lemme: harmonique
+  analyse: h, a, r/m, o, n, i (point), q à long jambage descendant, finale u-e en long délié ; aucun c-a final
+  alternatives:
+  - harmonica
+- ligne: 6
+  lemme: et
+  analyse: 'e bouclé + haste barrée : et, ou & de forme « t bouclé » ; le sens attend a ou est'
+  alternatives:
+  - '&'
+  - est
+- ligne: 7
+  lemme: p.
+  analyse: haste descendante, point en tête à droite, point abréviatif après
+  alternatives:
+  - pris
+  - j.
+- ligne: 19
+  lemme: vx g
+  analyse: 'après du : u/v puis croix à long bras montant (x), puis boucle fermée à haste (aspect 9) ; d''office suit'
+  alternatives:
+  - vieux garçon
+  - N.C.O.
+- ligne: 21
+  lemme: '1'
+  analyse: après groom et un point de deux-points, haste oblique précédée d'un trait d'attaque fin (1) ; le trait parallèle à droite amorce le soulignement de mess
+  alternatives:
+  - 1 f
+- ligne: 22
+  lemme: 75c
+  analyse: 7 à barre médiane fondu avec un 5 à drapeau, aspect « Ac » ; c petit accolé
+  alternatives:
+  - 45c
+controle:
+- ligne: 6
+  avant: \inc{mobilisé}
+  apres: mobilisé
+  justification: zoom ×4 [.66 .225 .93 .27] ; m à attaque descendante, o, b, i, l, i, s réduit, é ; chaque tracé employé ; la haste brune intruse vient du & de la l. 5
+- ligne: 11
+  avant: \inc{ns}
+  apres: ns
+  justification: zoom ×3 [0 .44 .35 .49] ; deux jambages attaqués en n puis s plongeant, aucun troisième jambage
+- ligne: 12
+  avant: \inc{brise}
+  apres: brise
+  justification: zoom ×3 [.72 .495 1.0 .545] ; deux jambages après b, même tracé que brise l. 10
+- ligne: 18
+  avant: à côté de
+  apres: à cote de
+  justification: zoom ×3 [.68 .80 1.0 .845] ; un seul accent, au-dessus du c, décalé depuis a ; aucun circonflexe ni accent sur cote
+- ligne: 20
+  avant: \inc{offrs}
+  apres: offrs
+  justification: zoom ×4 [.54 .875 .70 .945] ; ff, r et s en pointe à l'encre plus pâle, nets
+- ligne: 21
+  avant: \inc{1^{f}}
+  apres: \inc{1}
+  justification: zoom ×4 [.54 .875 .70 .945] ; 1 à trait d'attaque sur la ligne 21 ; le second trait est l'amorce du soulignement de mess ; aucun f visible
+- ligne: 1
+  avant: 'apparat : note disposition sur Aout \sl{1916}'
+  apres: supprimée
+  justification: le balisage suffit
+remarques: 'L. 16 : « haut d''1 plateau » d''une encre plus appuyée (plume rechargée). L. 6 (et), 7 (p.), 19 (vx g) et 21 (montant) restent incertaines.'
+resume: 'Suite du vendredi 25 août 1916. En gare de Bailleul vers 1 heure, puis dans le train, Hippolyte Combes écoute des tommies jouer une musique d''harmonica monotone sous un ciel pommelé et note des réflexions amères sur l''État qui a mobilisé les corps et prend encore l''intelligence et le cœur. Le ciel se charge, l''orage menace, une brise agite les tilleuls le long de la voie ; la pluie le trempe jusqu''à la peau. Vers 7 heures, il arrive à Marquay, hameau perché sur un plateau d''Artois, où il trouve à grand-peine une chambrette exiguë partagée avec un autre occupant ; il est invité à dîner au mess des officiers. Comptes : pourboire au groom, nourriture à Bailleul et à Saint-Pol.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Bailleul
+    ligne: 2
+    identite: Bailleul (Nord)
+  - forme: Marquay
+    ligne: 15
+    identite: Marquay (Pas-de-Calais), près de Saint-Pol
+  - forme: Artois
+    ligne: 17
+    identite: Artois
+  - forme: St-Pol
+    ligne: 22
+    identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
+source: contrôle

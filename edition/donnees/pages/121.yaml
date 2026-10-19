@@ -1,0 +1,132 @@
+cliche: 121
+fichier: 20251126_105908.jpg
+date: Samedi 6 – mardi 9 janvier 1917
+mois: Janvier 1917
+lieux: Acheux-en-Amiénois, Louvencourt, Bertrancourt, Authie, Raincheval et Hédauville (Somme)
+titre: Courses en auto autour d'Acheux ; routes encombrées ; la 150th Company à Hédauville
+transcription: |
+  6 \sl{Sam} \hfill Janv. \sl{1917}
+  \ind Très belle journée ensoleillée,
+  mais 1 peu froide
+  \ind Matinée course en auto à Louvencourt,
+  Bertrancourt et Authie
+  Après-midi, liberté entière —
+  Soir, au concert Y.M.C.A. Programme
+  des 2 fois precédentes. Chants du \inc{jour}. —
+  \ind Matinée, routes encombrées : deplacement
+  de troupe, convois d'artillerie, de A.S.C. etc
+  \blanc{1}
+  \ind — Washing : 70. — \hfill Concert Y.M.C.A : 30c
+  \blanc{2}
+  \sl{9 Ma} —
+  \ind[2] Hier & avant-hier, courses en auto
+  matin & soir, Arquèves, Raincheval, St. \inc{Leg}
+  \ind aujourdhui, pareillement. Matinée
+  vu M. Guibet, à Raincheval...
+  \ind Après-midi, à Hedauville, route de
+  Varennes, où retrouvé 150 Coy, 18^{th} div^{on}
+  ds 1 terrain fangeux, à 50 m. de la route
+  \ind Morris, était out riding —
+  Temps + froid, neigé 1 peu, puis pluie
+  fine — Toute la nuit & durant journée
+  très violente canonnade
+  \ind — Avis de réception pour Imbert : 15c —
+apparat:
+- ligne: 1
+  lemme: Sam
+  type: abreviation
+  note: samedi
+- ligne: 1
+  lemme: Janv.
+  type: abreviation
+  note: janvier
+- ligne: 2
+  lemme: ensoleillée,
+  type: lecture
+  note: virgule à attaque crochue (aspect 7), non un chiffre
+- ligne: 3
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 7
+  lemme: Y.M.C.A.
+  type: abreviation
+  note: Young Men's Christian Association (foyer du soldat)
+- ligne: 8
+  lemme: \inc{jour}
+  type: lecture
+  note: lecture probable (j bouclé suivi de minimes) ; « juin », graphiquement possible, n'a pas de sens
+- ligne: 10
+  lemme: A.S.C.
+  type: abreviation
+  note: Army Service Corps (train des équipages britannique)
+- ligne: 10
+  lemme: etc
+  type: abreviation
+  note: et cetera
+- ligne: 11
+  lemme: Washing
+  type: emprunt
+  note: blanchissage
+- ligne: 11
+  lemme: '70.'
+  type: compte
+  note: 'montant sans unité : 70 centimes'
+- ligne: 11
+  lemme: 30c
+  type: abreviation
+  note: 30 centimes
+- ligne: 12
+  lemme: Ma
+  type: abreviation
+  note: mardi
+- ligne: 14
+  lemme: St. \inc{Leg}
+  type: abreviation
+  note: Saint-Léger(-lès-Authie) ; fin du mot écrasée au bord de la page
+- ligne: 16
+  lemme: M.
+  type: abreviation
+  note: Monsieur
+- ligne: 18
+  lemme: retrouvé
+  type: lecture
+  note: mot repassé d'une encre très chargée, non biffé
+- ligne: 18
+  lemme: Coy
+  type: abreviation
+  note: Company (compagnie britannique)
+- ligne: 18
+  lemme: 18^{th} div^{on}
+  type: abreviation
+  note: 18th Division (dix-huitième division britannique)
+- ligne: 19
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 19
+  lemme: 50 m.
+  type: abreviation
+  note: 50 mètres
+- ligne: 20
+  lemme: out riding
+  type: emprunt
+  note: sorti à cheval
+- ligne: 21
+  lemme: +
+  type: abreviation
+  note: plus
+- ligne: 22
+  lemme: la nuit
+  type: lecture
+  note: '« la » noyé d''encre, « nuit » sous une longue barre de t : non biffés'
+- ligne: 24
+  lemme: 15c
+  type: abreviation
+  note: 15 centimes
+critique: Encre noire. Les comptes du 6 sont isolés entre deux blancs ; les journées des 7 et 8 ne sont pas tenues, l'entrée du 9 les résumant.
+historique: |
+  Les routes encombrées du 6 annoncent les relèves des 7-21 janvier, où l'artillerie relevante monte avant l'infanterie (OH 1917-I, p.~66) : au nord de l'Ancre, le V Corps reprend le secteur du XIII, la 32nd Division relevant la 3rd le 9 et la 19th la 31st le 11 ; au sud, les 2nd et 18th Divisions remplacent les 51st et 61st (OH 1917-I, p.~69-70). La 18th, au repos près d'Abbeville, revient le 16 (Nichols 1922, p.~139) : la 150th Company de son train, campée le 9 à Hédauville, la devance sans doute. Morris, vu le 5 (f.~60~r\textsuperscript{o}), y sert vraisemblablement ; Combes l'appelle « mon vieux Morris » le lendemain (f.~61~r\textsuperscript{o}). La « très violente canonnade » est le bombardement de dix-huit heures qui précède l'attaque de « The Triangle », à l'est de Beaumont-Hamel, lancée le 10 à 2~h au clair de lune, puis le feu entretenu sur tout le front de la Fifth Army jusqu'à la prise de Munich Trench le 11 (OH 1917-I, p.~67-69). L'avis de réception est celui de la boîte recommandée envoyée le 28 décembre à l'opticien Imbert (f.~58~r\textsuperscript{o}).
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66-70.
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 139.

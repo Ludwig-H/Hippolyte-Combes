@@ -1,0 +1,141 @@
+cliche: 108
+fichier: 20251126_105046.jpg
+date: Jeudi 7 – vendredi 8 décembre 1916
+mois: Décembre 1916
+lieux: Acheux-en-Amiénois, Belle-Église (Arquèves), Englebelmer et Saint-Léger-lès-Authie (Somme)
+titre: Belle-Église, Englebelmer désert sous le canon ; le 8, Saint-Léger et premier battage
+transcription: |
+  7 \sl{Jeudi} – \hfill — \sl{Dec^{bre} 1916} —
+  \ind[2] Matin & après-midi en
+  auto. – Matin, à Belle-Eglise, arqueves
+  où dû attendre lgs retour du cap. W^{m},
+  qui allé j-à Raincheval. Amusé par les
+  enfants de la fermière belge, Mme \inc{Houtteman}
+  \ind Après-midi, venus à Englebelmer, par
+  Hedauville, Resté près d'1 h. ds ce village
+  à peu près désert : plus d'habitants. Rien
+  que des anglais, qui restent ds leurs cantonnts
+  Attendu lgs en auto, devant ferme où le
+  Town Major et \inc{la} Daily Mail. a peu de
+  distance, Canons anglais ne cessaient point
+  de tonner : après coup, vibrations metalliques
+  répercutées à travers l'espace – cme gémisst
+  \ind Diné seul, off. allé à Hérissart Rentré
+  tot ds ma chambre – Rue silencieuse
+  Canonnade, intermittente
+  \ind Brume épaisse s'étend de + en +
+  \sl{8 Ve}
+  \ind[2] Tjs même temps. Ciel caché par
+  brouillard. Bruine intermittente – Routes, état
+  affreux,
+  \ind Matinée, course à St-Leger-le-Authie,
+  sous la pluie
+  \ind Après-midi, ferme de Belle-Eglise, puis
+  arqueves : on a commencé à battre paille
+apparat:
+- ligne: 1
+  lemme: Dec^{bre}
+  type: abreviation
+  note: décembre
+- ligne: 2
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 3
+  lemme: arqueves
+  type: graphie
+  note: Arquèves (Somme)
+- ligne: 4
+  lemme: lgs
+  type: abreviation
+  note: longtemps
+- ligne: 4
+  lemme: cap. W^{m}
+  type: abreviation
+  note: capitaine Williams
+- ligne: 5
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 6
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 6
+  lemme: \inc{Houtteman}
+  type: lecture
+  note: initiale H et double t nets, finale noyée de jambages ; Houttemann possible
+- ligne: 8
+  lemme: d'1 h.
+  type: abreviation
+  note: d'une heure
+- ligne: 8
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 10
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 10
+  lemme: cantonnts
+  type: abreviation
+  note: cantonnements
+- ligne: 11
+  lemme: lgs
+  type: abreviation
+  note: longtemps
+- ligne: 12
+  lemme: Town Major
+  type: emprunt
+  note: major de la place, officier chargé du cantonnement
+- ligne: 12
+  lemme: \inc{la}
+  type: lecture
+  note: même tracé que « la » l. 6 ; « le » possible
+- ligne: 12
+  lemme: Daily Mail
+  type: emprunt
+  note: quotidien londonien
+- ligne: 15
+  lemme: cme
+  type: abreviation
+  note: comme
+- ligne: 15
+  lemme: gémisst
+  type: abreviation
+  note: gémissement
+- ligne: 16
+  lemme: off.
+  type: abreviation
+  note: officier
+- ligne: 17
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 19
+  lemme: de + en +
+  type: abreviation
+  note: de plus en plus
+- ligne: 20
+  lemme: Ve
+  type: abreviation
+  note: vendredi
+- ligne: 21
+  lemme: Tjs
+  type: abreviation
+  note: toujours
+- ligne: 24
+  lemme: St
+  type: abreviation
+  note: Saint
+- ligne: 24
+  lemme: St-Leger-le-Authie
+  type: graphie
+  note: Saint-Léger-lès-Authie (Somme)
+critique: La date du 8 occupe une ligne propre, soulignée d'un trait appuyé, sans filet de séparation avec la journée précédente ; le texte reprend en retrait sous ce trait.
+historique: |
+  La ferme de Belle-Église, hameau d'Arquèves, ancienne tête de ligne de ravitaillement (voir f.~53~r\textsuperscript{o}), est tenue par une fermière belge ; « M. Houtteman » y est noté en mars 1917 (voir f.~85~v\textsuperscript{o}). Englebelmer, sur la route Hédauville--Martinsart (voir f.~50~v\textsuperscript{o}), est un poste d'ambulances dont l'extension du cimetière communal, ouverte en octobre 1916, sera fermée en mars 1917 (CWGC) ; ses habitants évacués se réuniront le 13 décembre à la mairie de Toutencourt avec le major Levy (voir f.~55~r\textsuperscript{o}). Le \textit{Town Major} est l'officier chargé des cantonnements du village (voir f.~45~v\textsuperscript{o}) ; le sens de la \textit{Daily Mail} logée dans la même ferme n'est pas éclairci. Le battage commencé le 8 à Arquèves est l'ouvrage propre du \textit{purchase board} d'armée, qui « administers a number of baling and threshing machines » et vise une réserve de quelque 3~000 tonnes de paille pressée (Puckle 1917, p.~28). Un contrat de battage suivra le 26 décembre (voir f.~57~v\textsuperscript{o}).
+sources:
+- Commonwealth War Graves Commission, notice historique « Englebelmer Communal Cemetery Extension » (cwgc.org).
+- Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 28.

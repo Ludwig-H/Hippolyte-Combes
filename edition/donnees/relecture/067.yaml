@@ -1,0 +1,138 @@
+cliche: 67
+confiance: haute
+changements:
+- ligne: 1
+  avant: Oct / 16
+  apres: \sl{oct^{bre} /16}
+  justification: o initial minuscule ; après le t, ondulation suscrite à longue queue (finale -bre, cf. 068) ; date soulignée
+  confiance: moyenne
+- ligne: 4
+  avant: Population très
+  apres: Population, très
+  justification: virgule nette (trait vertical court) avant très au zoom
+  confiance: haute
+- ligne: 5
+  avant: pittoresque
+  apres: pittoresque \trait
+  justification: délié final prolongé jusqu'à la marge
+  confiance: haute
+- ligne: 9
+  avant: Bientôt
+  apres: Bientot
+  justification: aucun circonflexe sur l'o au zoom
+  confiance: haute
+- ligne: 10
+  avant: chz Mme Ve —
+  apres: chz Mme Ve – —
+  justification: deux tirets successifs, court puis long, laissant la place du nom
+  confiance: haute
+- ligne: 11
+  avant: Barlette
+  apres: Barlette \trait
+  justification: trait tiré après le mot jusqu'à la marge
+  confiance: haute
+- ligne: 13
+  avant: spacieuse
+  apres: spacieuse \trait
+  justification: délié final prolongé
+  confiance: haute
+- ligne: 15
+  avant: 'canteen : 20, 20, 20, 20 c'
+  apres: canteen. 20, 20, 20, 20c
+  justification: un seul point à mi-hauteur après canteen ; 20c sans espace
+  confiance: moyenne
+- ligne: 17
+  avant: 'lorry : 1f'
+  apres: lorry — 1^{f} –
+  justification: long tiret ondulé (non deux-points) avant le montant ; f suscrit au-dessus de la ligne, suivi d'un court tiret
+  confiance: haute
+- ligne: 18
+  avant: 5 fr. –
+  apres: 5 fr. —
+  justification: tiret long et appuyé après le montant
+  confiance: haute
+- ligne: 18
+  avant: Q.M.S.
+  apres: Q.M.S
+  justification: (p2) aucun point entre le S long et le T de Tait au zoom ×3 [.20 .93 .62 1.0]
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: oct^{bre}
+  analyse: 'o ouvert, c, t avec sa petite barre, puis tracé distinct montant en bosse au-dessus de la ligne et prolongé en long trait horizontal : finale suscrite réduite (p2 : confirmé au zoom ×3)'
+  alternatives:
+  - oct^{r}
+  - oct (barre de t prolongée)
+- ligne: 7
+  lemme: visé
+  analyse: 'v à attaque en x, trois minimes (v + i ?), point en court tiret au-dessus, ſ long descendant ; aucune boucle d''e après le ſ (p2 : zoom ×3 [.45 .29 .70 .36])'
+  alternatives:
+  - vuis
+  - visa
+- ligne: 10
+  lemme: Ve
+  analyse: long délié d'attaque, premier jambage épais (V en K), petit v ou second bras, e bouclé à queue plongeante ; la haste qui monte à droite appartient au g de gde (l. 9) ; peut-être Vve
+  alternatives:
+  - V^{ve}
+  - Vve
+- ligne: 14
+  lemme: 'ples:'
+  analyse: 'un point à mi-hauteur et un second plus bas : deux-points couché'
+  alternatives:
+  - ples.
+- ligne: 15
+  lemme: 20c
+  analyse: 2 bouclé puis 0 ouvert (aspect u) fondu dans un long délié qui vaut c
+  alternatives:
+  - '20'
+- ligne: 18
+  lemme: Tait
+  analyse: T en crochet (aspect k), a noyé dans un pâté, i pointé (point en virgule à droite), t final dont la haste monte jusqu'à la l. 17 ; nom attesté seulement ici
+  alternatives:
+  - Taït
+  - Thait
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Inventaire Hauts-de-France IA80009826 (hameau de Barlette, 29 habitants en 1906, anciennement rattaché à Franqueville), JMO 7/Bedf oct. 1916, Fortescue 1928, Fernand-Laurent 1917, FSPB 1914. L''identification de la logeuse « Mme Ve » et du Q.M.S. « Tait » reste non établie ; la mention du « prix coûtant » vient de Fernand-Laurent (p. 82-83), non de Fortescue. Vérification p2 : rien sur l''image ne permet de compléter ces deux noms.'
+  alternatives: []
+controle:
+- ligne: 18
+  avant: Q.M.S.
+  apres: Q.M.S
+  justification: aucun point visible après le S long, qui enchaîne directement sur le T de Tait (zoom ×3)
+- ligne: 15
+  avant: 'lemme 20c, type lecture : 2 bouclé, 0 ouvert et c fondus dans un long délié ; total des quatre achats : 80 c'
+  apres: 'lemme 20, 20, 20, 20c, type compte : quatre achats de 20 c, soit 80 c'
+  justification: apparat épuré ; la description du tracé passe dans difficultes, l'addition implicite relève du type compte
+- ligne: 10
+  avant: Ve – —, type lecture
+  apres: Ve – —, type abreviation
+  justification: la note donne un développement (veuve ?) et non une lecture disputée ; tracé contrôlé au zoom, la haste montante appartient au g de gde
+- ligne: 6
+  avant: lunch,
+  apres: lunch,
+  justification: difficulte levée ; la virgule (trait vertical) recoupe la barre du t de « et » (l. 7), d'où l'aspect de croix
+remarques: La fin de la page précédente (066) mentionne l'arrivée au refilling point et la 152 Coy. A.S.C. vers 1 h du soir ; la page suivante (068) commence au samedi 7.
+resume: 'Le 6 octobre 1916, la compagnie d''Hippolyte Combes cantonne au hameau de Barlette, près de Ribeaucourt : quelques maisons, population sympathique, région boisée et pittoresque. Après le déjeuner, il gagne Bernaville en camion et fait viser son titre de permission au bureau de la Mission française. Il trouve une grande chambre chez une veuve dont le nom est laissé en blanc, à 900 mètres de Barlette, sommairement meublée mais belle et spacieuse. Comptes : cartes postales à Doullens et Bernaville, achats à la cantine, pourboire au conducteur du camion, gratification au Q.M.S. Tait.'
+noms:
+  personnes:
+  - forme: Mme Ve
+    ligne: 10
+    identite: logeuse d'Hippolyte Combes près de Barlette, veuve (?), nom laissé en blanc
+  - forme: Tait
+    ligne: 18
+    identite: Quartermaster Sergeant de la 152nd Company A.S.C.
+  lieux:
+  - forme: Barlette
+    ligne: 3
+    identite: hameau près de Ribeaucourt (Somme)
+  - forme: Ribeaucourt
+    ligne: 3
+    identite: Ribeaucourt (Somme)
+  - forme: Bernaville
+    ligne: 7
+    identite: Bernaville (Somme)
+  - forme: Doullens
+    ligne: 14
+    identite: Doullens (Somme)
+source: contrôle

@@ -1,0 +1,108 @@
+cliche: 131
+fichier: 20251126_110135.jpg
+date: Samedi 27 janvier 1917 (suite)
+mois: Janvier 1917
+lieux: Neuilly-sur-Seine (Hauts-de-Seine) ; Paris
+titre: Déjeuner chez Mme Faure à Neuilly ; achats à Paris ; départ de la gare d'Orsay
+transcription: |
+  \sl{Sam. 27} (suite) \hfill Janv 1917
+  au 4^{e} ét., à g., appart^{t} de Mme Faure
+  y arrivé, vers midi \inc{30} —
+  accueil très affectueux
+  Dejeuné en famille Mlle Germaine & Marcel
+  presents. Les 2 autres fils, Henri, aspirant, et André,
+  preparant Poly^{te}, absents
+  Causé longuement, après repas
+  Vers 4^{H} s., pris congé.
+  Par métro, venu sur B^{d} St-Michel, chz Imbert.
+  mobilisé. Vu son remplacant
+  Magasins de l'Hotel de Ville, plusrs achats
+  Remonté rue de Rivoli. Diné restaurant &
+  A 7^{H} s., gare d Orsay
+  Descendu quais. Installé compartt bien
+  chauffé
+  Depart train vers 7^{H} 50 s. Qq soldats .
+  air très chaud.
+  Peu à peu, me suis assoupi
+  \blanc{6}
+apparat:
+- ligne: 1
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 1
+  lemme: Janv
+  type: abreviation
+  note: janvier
+- ligne: 2
+  lemme: 4^{e} ét.
+  type: abreviation
+  note: quatrième étage
+- ligne: 2
+  lemme: à g.
+  type: abreviation
+  note: à gauche
+- ligne: 2
+  lemme: appart^{t}
+  type: abreviation
+  note: appartement
+- ligne: 2
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 3
+  lemme: midi \inc{30}
+  type: lecture
+  note: '« midi 30 » (midi et demi) : 3 net, 0 réduit à un grand trait courbe ouvert ; autre lecture possible : 3/4'
+- ligne: 5
+  lemme: Mlle
+  type: abreviation
+  note: Mademoiselle
+- ligne: 7
+  lemme: Poly^{te}
+  type: abreviation
+  note: Polytechnique (l'École) ; finale réduite à une ondulation suscrite
+- ligne: 9
+  lemme: 4^{H} s.
+  type: abreviation
+  note: quatre heures du soir
+- ligne: 10
+  lemme: B^{d} St-Michel
+  type: abreviation
+  note: boulevard Saint-Michel
+- ligne: 10
+  lemme: chz
+  type: abreviation
+  note: chez
+- ligne: 11
+  lemme: remplacant
+  type: lecture
+  note: remplaçant (sans cédille), retenu par le sens ; le tracé admet aussi « remplacemt » (remplacement)
+- ligne: 12
+  lemme: plusrs
+  type: abreviation
+  note: plusieurs
+- ligne: 14
+  lemme: 7^{H} s.
+  type: abreviation
+  note: sept heures du soir
+- ligne: 15
+  lemme: compartt
+  type: abreviation
+  note: compartiment
+- ligne: 17
+  lemme: 7^{H} 50 s.
+  type: abreviation
+  note: sept heures cinquante du soir
+- ligne: 17
+  lemme: Qq
+  type: abreviation
+  note: quelques
+critique: Encre violette. Le récit s'arrête au premier tiers inférieur de la page, dont le reste est laissé blanc ; les comptes de la journée sont reportés en tête du feuillet suivant (f. 66 r\textsuperscript{o}).
+historique: |
+  « Mme Faure » est sans doute Marguerite Barnerot (1874–1954), veuve de Camille Faure (1861–1910), polytechnicien et ingénieur des Ponts et Chaussées originaire de Marvejols, apparentée aux Calmels par les Fabry de Millau (P. Combes, étude familiale, p. 107). Marcel, dix ans, est très probablement Marcel Faure (1906–1999), élevé à Neuilly où sa mère s'était installée, futur administrateur colonial, combattant de Bir-Hakeim et compagnon de la Libération (Ordre de la Libération). L'aspirant Henri, né en 1895, aurait été « tué à la guerre » le 11 juin 1918 (tradition familiale, non vérifiée) ; André (1898–1963) prépare l'École de son père. Imbert est l'opticien auquel Combes avait confié son pince-nez (voir f. 58 r\textsuperscript{o} et 61 r\textsuperscript{o}). Les « Magasins de l'Hôtel de Ville » sont le Bazar de l'Hôtel-de-Ville, 54-62, rue de Rivoli (Baedeker 1913, p. 51–52) ; les achats sont détaillés f. 66 r\textsuperscript{o}. La gare d'Orsay, terminus de la Compagnie du Paris-Orléans, avait été inaugurée en 1900 (musée d'Orsay).
+sources:
+- Combes, Pierre, étude familiale (arbres Calmels et Fabry–Barnerot–Faure), dactylographie, 2020–2021, p. 106–107.
+- Ordre de la Libération, notice « Marcel Faure », https://www.ordredelaliberation.fr/fr/compagnons/marcel-faure.
+- Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, Baedeker, 1913, p. 51–52.
+- Musée d'Orsay, « Histoire du musée », https://www.musee-orsay.fr/fr/articles/histoire-du-musee-60.

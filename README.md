@@ -1,60 +1,42 @@
-# Hippolyte Combes (1876–1970) — Livre-Journal de campagne (1916–1917)
+# Hippolyte Combes (1876–1970) — *Livre-Journal* (25 juillet 1916 – 30 avril 1917)
 
-Ce dépôt réunit les photographies du *Livre-Journal* d’Hippolyte Combes (**25 juillet 1916 – 30 avril 1917**), son édition philologique, diplomatique et critique intégrale en vis-à-vis, ainsi que les archives familiales et militaires associées. Né à Millau le **14 août 1876** selon son acte de naissance (n° 395) et décédé le **2 septembre 1970** à l’**Hôtel du Centre** à **Saint-Chély-d’Apcher** (Lozère), **Hippolyte Combes** est professeur d’anglais et interprète militaire auprès de l’Armée britannique (*152nd Company A.S.C.* de la *18th Eastern Division*, puis services d’approvisionnement et d’achats des XIIIe et Ve Corps).
+Ce dépôt réunit les photographies du *Livre-Journal* d'Hippolyte Combes, son édition, et les archives familiales et militaires qui l'éclairent. Professeur d'anglais, Hippolyte Combes (Millau, 14 août 1876 – Saint-Chély-d'Apcher, 2 septembre 1970) servit de 1915 à 1918 comme interprète militaire auprès de l'armée britannique. Son carnet suit, du 25 juillet 1916 au 30 avril 1917, la 152nd Company de l'Army Service Corps (train de la 18th (Eastern) Division) de la Flandre à la Somme, puis le service des achats de paille et de fourrage à Acheux et à Hérissart, avec deux permissions à Paris, Toulouse et Millau.
 
-## Architecture de l’édition philologique et diplomatique en vis-à-vis
+## L'édition
 
-L’édition ([`edition_philologique/carnet_hippolyte_combes.pdf`](edition_philologique/carnet_hippolyte_combes.pdf), 424 pages au format maniable `155 × 225 mm` à pagination arabe continue depuis la page 1) présente successivement :
+**[`edition/livre_journal.pdf`](edition/livre_journal.pdf)** — Hippolyte Combes, *Livre-Journal, 25 juillet 1916 – 30 avril 1917. Texte diplomatique en regard des fac-similés, avec commentaire (critique & historique), cartes et illustrations*, édition établie par Louis Hauseux, 2026 (493 pages, 160 × 226 mm, Libertinus Serif).
+**[`edition/livret_A4.pdf`](edition/livret_A4.pdf)** — la même édition imposée en 31 cahiers de 16 pages, pour l'impression en livret sur feuilles A4 (recto verso, retournement sur le bord court, échelle 92,5 % ; ou 100 % sur SRA4).
 
-1. **Prolégomènes scientifiques et historiques** :
-   - Biographie universitaire et militaire d’Hippolyte Combes (1876–1970) et **carte géographique vectorielle générale** des secteurs du carnet (Flandres, Artois, Somme) et des permissions (Paris, Toulouse, Millau).
-   - **Trois arbres généalogiques et prosopographiques (TikZ)** présentant l’ensemble des protagonistes : (I) la famille Combes–Alric ; (II) la famille de sa fiancée Marguerite Calmels et ses alliances (branches Calmels, Cartairade, Crouzet, Vincens, Delcamps, Layrals et Faure) ; (III) l’entourage militaire et universitaire (officiers britanniques et français, collègues interprètes et universitaires).
-   - **Étude codicologique et paléographique** du manuscrit (186 photographies ; `Couverture` et repérage éditorial de `Folio 1 recto` à `Folio 93 recto`, sans foliotation matérielle établie), justification explicite du caractère purement éditorial et arbitraire de la division en sept chapitres (fondée sur les grands déplacements géographiques d’Hippolyte Combes), et exposé des principes d’édition.
-2. **Sept chapitres introduits chacun par une double page d’ouverture** :
-   - **Page de gauche (paire)** : résumé analytique détaillé du chapitre et introduction historique et philologique.
-   - **Page de droite (impaire)** : **carte géographique vectorielle** des lieux et déplacements attestés d’Hippolyte Combes durant le chapitre, accompagnée de photographies d’archives.
-3. **Édition intégrale en vis-à-vis de la Couverture et des Folios 1 recto à 93 recto (186 doubles pages)** :
-   - **En-tête courant** indiquant en permanence **le mois et l’année en cours** (*Juillet 1916* à *Avril 1917*) ainsi que le numéro de folio (`Folio X recto` ou `Folio X verso`).
-   - **Page de gauche (paire / verso)** :
-     - **Transcription diplomatique** conservant les lignes et les lectures du témoin, avec conventions typographiques explicites pour les soulignements des dates, les rappels de mois/année et les sous-titres de lieux dans les relevés de dépenses (`\underline{...}`), traits horizontaux de séparation entre deux journées ou au-dessus du bloc comptable (`\cline{1-1}`), lettres suscrites (`8\textsuperscript{H}`, `Marg\textsuperscript{te}`, `lieut\textsuperscript{t}`, `R. Fus\textsuperscript{rs}`, etc.), crochets comptables `[ ... ]` et numérotation marginale de 5 en 5 lignes.
-     - **Apparat critique marginal** composé dans le prolongement horizontal exact de chaque ligne annotée.
-     - **En bas de page, jusqu’à trois registres dépourvus d’intitulés répétitifs mais immédiatement distingués par des filets horizontaux et un décrochement typographique franc** :
-       1. *Premier registre (commentaire critique interne, au fer à gauche, présent uniquement lorsque des remarques codicologiques ou structurelles excèdent l’apparat marginal)* ;
-       2. *Deuxième registre (apparat des **loci paralleli** en latin, au fer à gauche, renvoyant simultanément au folio du carnet `f° X r°/v°` et à la page exacte du PDF `p. Y`)* ;
-       3. *Troisième registre (commentaire historique concis et dense, composé avec un retrait général de `5 mm` sur la gauche)*.
-   - **Page de droite (impaire / recto)** : **fac-similé photographique complet** du folio manuscrit correspondant en regard immédiat de sa transcription.
-4. **Annexes documentaires et double index final** :
-   - **Annexe I** : correspondance de guerre inédite et pièces justificatives (1916–1918).
-   - **Annexe II** : état signalétique des services et table synoptique des folios (`Couverture` et `Folio 1 recto` à `Folio 93 recto`).
-   - **Index des noms de personnes (*Index nominum*)** et **Index des noms de lieux (*Index locorum*)**, distinguant les attestations du carnet, les identifications du commentaire et les mentions des documents imprimés ; les attestations renvoient au folio éditorial (`f° X r°/v°`) et à la page du PDF (`p. Y`).
+- **Introduction** : biographie d'Hippolyte Combes, avec arbres généalogiques et photographies de famille ; un interprète français dans l'armée britannique (Mission militaire française, solde, 18th Division et son train, ravitaillement, cadre militaire, météorologie du carnet) ; description matérielle du carnet (petit carnet dont les feuillets, reliés en tête, sont aujourd'hui libres) et restitution de l'ordre des feuillets ; l'écriture et la langue du carnet, avec une planche paléographique ; principes de l'édition ; cartes générales.
+- **Sept chapitres** (division éditoriale), chacun ouvert par une carte en regard de son introduction (le carnet, le contexte), avec des photographies d'époque.
+- **Chaque page du carnet sur une double page** : à droite, le fac-similé ; à gauche, la transcription diplomatique ligne à ligne (soulignements, lettres suscrites, traits, crochets, accolades et équerres sur plusieurs lignes, ratures, ajouts et surcharges), l'apparat critique en marge, aligné sur les lignes, et trois registres en bas de page : remarques critiques, renvois internes (*loci paralleli*, en latin), commentaire historique sourcé.
+- **Annexes** : lettres et pièces de guerre (1916–1918), transcrites intégralement avec un fac-similé ; état signalétique et des services ; abréviations du carnet ; glossaire des termes anglais et militaires ; sources et bibliographie ; sources des illustrations ; concordance des feuillets et des clichés ; index des personnes (132 entrées) et des lieux (248 entrées).
 
-Les [huit cartes refaites](edition_philologique/cartographie/README.md) reposent sur **80 lieux contrôlés**, des contours Natural Earth et des données IGN. La carte générale France–Belgique occupe une page entière. Les localités sont distinctes, les échelles métriques cohérentes et les 12 liaisons sélectionnées documentées. Une [contre-vérification chronologique](edition_philologique/cartographie/verification/contre_verification_chronologique.md) rattache chaque point à ses passages justificatifs et distingue les repères contextuels. Les fonds actuels servent au repérage ; les localisations incertaines restent signalées. [Aperçu de la carte générale](edition_philologique/cartographie/cartes/generale.png).
+Exports : [`transcriptions/livre_journal_transcription.md`](transcriptions/livre_journal_transcription.md) (transcription lisible, dans l'ordre restitué) et [`transcriptions/livre_journal_donnees.json`](transcriptions/livre_journal_donnees.json) (données complètes de chaque page : transcription balisée, apparat, registres, sources).
 
-La [conciliation avec Gemini 4 Argon](edition_philologique/conciliation_argon_2026_10/README.md) documente les corrections complémentaires, les sources et les vérifications. Le [répertoire de l’écriture de Combes](edition_philologique/ecriture_combes/README.md) conserve les comparaisons paléographiques et leurs limites.
+## Méthode
 
-## Consulter et compiler l’édition
+- **Codicologie.** Les 186 photographies (26 novembre 2025) ont été remises dans l'ordre de lecture par l'étude de la transparence de l'encre : les deux faces d'un feuillet se superposent par une symétrie haut-bas, preuve que les feuillets étaient reliés en tête. Le carnet compte 93 feuillets ; trois ont été photographiés verso d'abord (ff. 18, 32, 56), une page l'a été deux fois (clichés 091 et 093), six pages sont écrites en travers.
+- **Lecture.** Chaque page (3 711 lignes) a été relue intégralement sur les photographies en haute définition, en deux temps : une lecture lettre à lettre, puis un contrôle par un second lecteur, qui a vérifié au zoom les passages difficiles, les noms, les chiffres et les remarques des commentateurs. La relecture apporte 2 566 changements à la transcription antérieure (mots, chiffres, ponctuation, accents, disposition) ; 351 lectures restent signalées comme incertaines. Le relevé page par page des changements, des difficultés analysées lettre à lettre et des interventions du contrôle est conservé dans [`edition/donnees/relecture/`](edition/donnees/relecture/). Le guide de l'écriture d'Hippolyte Combes établi pour cette relecture est dans [`edition/ecriture/`](edition/ecriture/).
+- **Recherches.** Huit dossiers sourcés (biographie ; 18th Division et son train ; interprètes et Mission militaire française ; Somme et Ancre ; Flandre et Artois ; permissions ; personnes ; culture matérielle) fondent les introductions et le commentaire : [`edition/recherche/`](edition/recherche/).
+- Ce travail a été conduit avec l'assistance de modèles d'intelligence artificielle, sous la direction de l'éditeur. Les lectures douteuses et les identifications incertaines sont signalées comme telles.
 
-- [Édition complète en PDF (`edition_philologique/carnet_hippolyte_combes.pdf`)](edition_philologique/carnet_hippolyte_combes.pdf)
-- [Source LaTeX générée (`edition_philologique/carnet_hippolyte_combes.tex`)](edition_philologique/carnet_hippolyte_combes.tex)
-- [Transcription diplomatique en Markdown (`transcriptions/transcription_integrale_186_scans.md`)](transcriptions/transcription_integrale_186_scans.md)
-- [Base structurée JSON (`transcriptions/transcription_integrale_186_scans.json`)](transcriptions/transcription_integrale_186_scans.json)
+## Compiler l'édition
 
-Pour régénérer les exports, recompiler l’édition PDF (en deux passes XeLaTeX pour résoudre toutes les références croisées `\pageref{fol:N}`) et exécuter le script de vérification :
+Prérequis : XeLaTeX (TeX Live), polices Libertinus ; Python 3 avec `pyyaml`, `pillow`, `numpy`, `matplotlib`, `shapely`, `pyproj`, `tifffile` et `imagecodecs` (cartes), `pymupdf` (vérifications).
 
 ```bash
-python3 edition_philologique/parse_all_186.py
-python3 edition_philologique/generate_edition.py
-cd edition_philologique
-xelatex -halt-on-error -interaction=nonstopmode carnet_hippolyte_combes.tex
-xelatex -halt-on-error -interaction=nonstopmode carnet_hippolyte_combes.tex
-cd ..
-python3 edition_philologique/verifier_edition.py
+edition/construire.sh      # fac-similés, cartes, planche, crédits, source LaTeX, PDF (3 passes), livret A4, exports, vérifications
 ```
+
+Les données éditoriales sont dans [`edition/donnees/`](edition/donnees/) : une page du carnet = un fichier YAML (`pages/NNN.yaml` : transcription balisée, apparat, registres), ordre et foliotation (`codicologie.yaml`), chapitres, index. Le balisage est décrit dans [`edition/BALISAGE.md`](edition/BALISAGE.md). Le générateur et la mise en page sont dans [`edition/src/`](edition/src/), les textes (introductions, annexes) dans [`edition/textes/`](edition/textes/), les cartes dans [`edition/cartes/`](edition/cartes/), les illustrations et leurs sources dans [`edition/illustrations/`](edition/illustrations/).
 
 ## Dossiers du dépôt
 
-- [`edition_philologique/`](edition_philologique/) : code source Python et LaTeX de l’édition philologique (`parse_all_186.py`, `commentaires_et_loci.py`, `cartes_et_index.py`, `generate_edition.py`, `verifier_edition.py`), illustrations et dossiers de collation.
-- [`transcriptions/`](transcriptions/) : exports JSON et Markdown des 186 photographies et témoins de travail.
-- [`scans_haute_qualite/`](scans_haute_qualite/) et [`scans_compresses/`](scans_compresses/) : clichés numériques haute résolution et clichés optimisés du manuscrit original.
-- [`archives_militaires/`](archives_militaires/) : fiche matricule, parcours, photographies et correspondance de guerre (1916–1918).
-- [`biographie_et_famille/`](biographie_et_famille/) : notices familiales, actes d’état civil, documents de carrière et portraits.
+- [`edition/`](edition/) : l'édition (PDF, sources, données, textes, cartes, illustrations, dossiers de recherche, guide de l'écriture).
+- [`transcriptions/`](transcriptions/) : exports de la transcription ; transcriptions antérieures et itinéraire (documents Word et PDF).
+- [`scans_haute_qualite/`](scans_haute_qualite/) et [`scans_compresses/`](scans_compresses/) : photographies du carnet, numérotées dans l'ordre de la prise de vue (concordance avec les feuillets dans l'édition et dans `edition/donnees/codicologie.yaml`).
+- [`archives_militaires/`](archives_militaires/) : registre matricule, parcours, photographies, lettres de guerre.
+- [`biographie_et_famille/`](biographie_et_famille/) : biographie par Pierre Combes, état civil, portraits, correspondance familiale.
+
+L'édition précédente (`edition_philologique/`, octobre 2026) est conservée dans l'historique du dépôt, à l'étiquette [`edition-philologique-2026-10`](../../tree/edition-philologique-2026-10).

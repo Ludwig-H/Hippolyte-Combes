@@ -1,0 +1,138 @@
+cliche: 47
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 22 Ve – ... Sept / 16
+  apres: 22 \sl{Ve –} ... \sl{Sept /16}
+  justification: trait arqué sous « Ve – » (entre l. 1 et 2) ; mois souligné d'un long trait ; « /16 » à barre oblique
+  confiance: moyenne
+- ligne: 2
+  avant: '[t./1/2 ?]'
+  apres: \fr{1}{2}
+  justification: '1 en tête, petite barre, 2 bouclé dessous : fraction empilée (cf. guide § 8, piège 6)'
+  confiance: haute
+- ligne: 2
+  avant: intense.
+  apres: intense –
+  justification: court trait bas après intense, non un point rond
+  confiance: moyenne
+- ligne: 3
+  avant: Après-midi, promené j'à
+  apres: Apres-midi, promené j-à
+  justification: aucun accent visible sur le e d'Apres ; trait d'union court entre j et à
+  confiance: moyenne
+- ligne: 5
+  avant: Au retour,
+  apres: Au retour
+  justification: le trait au-dessus entre retour et assisté est l'accent du « à » de la l. 6 ; pas de virgule
+  confiance: moyenne
+- ligne: 7
+  avant: vif, & blancs
+  apres: vif, " blancs
+  justification: après la virgule de vif, deux petits crochets ouverts à hauteur d'œil, forme d'idem, sans haste ni boucle d'esperluette
+  confiance: moyenne
+- ligne: 9
+  avant: Cap.
+  apres: cap
+  justification: c minuscule à petit crochet, p à longue haste, aucun point
+  confiance: moyenne
+- ligne: 10
+  avant: Panton
+  apres: Pant
+  justification: P, a, n, t barré ; le mot s'arrête au t, aucune suite on
+  confiance: haute
+- ligne: 11
+  avant: déception
+  apres: deception
+  justification: aucun accent sur le premier e
+  confiance: moyenne
+- ligne: 12
+  avant: Dernière nuit chambre,
+  apres: Dernière nuit, chambre,
+  justification: virgule descendante nette après nuit
+  confiance: moyenne
+- ligne: 13
+  avant: voyage à Toulouse
+  apres: voyage a Toul\trait
+  justification: T à crochet de tête, o, u, l, puis long trait horizontal ; « a » sans accent (p2)
+  confiance: haute
+- ligne: 16
+  avant: '[ — 2 tins'
+  apres: \filet[g]{0.15} / 2 tins
+  justification: 'trait horizontal appuyé, au-dessus du 2, isolé : filet partiel ouvrant les comptes, non crochet'
+  confiance: haute
+- ligne: 17
+  avant: 3 f [25 ?]
+  apres: \inc{3^{f}}
+  justification: après le 3, un seul petit signe suscrit bouclé ; la grande boucle à droite est la tête du f de la l. 18 ; aucun 25
+  confiance: moyenne
+- ligne: 18
+  avant: 1 f 10 — ]
+  apres: 1 f 10 —
+  justification: aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: \sl{Ve –}
+  analyse: trait arqué fin entre les l. 1 et 2, de x≈.07 à .17, sous Ve et le tiret, ne couvrant pas 22 ; pris pour le soulignement de la date, décalé vers le bas
+  alternatives:
+  - \sl{22 Ve} –
+  - 22 Ve – (trait parasite)
+- ligne: 7
+  lemme: '"'
+  analyse: 'trois petits crochets entre vif et blancs (x≈.47–.56) : le premier, plus bas, virgule ; les deux suivants = signe d''idem pour maillots ; « blancs » : finale réduite à un crochet, s non assuré'
+  alternatives:
+  - vif " " blancs
+  - vif, " blanc
+- ligne: 9
+  lemme: chateau cap
+  analyse: 'deux traits horizontaux au-dessus du mot : l''un au-dessus du a (x≈.67), l''autre au-dessus de la finale (x≈.80, y≈.335), l''un accent circonflexe décalé, l''autre barre de t décalée ; aucune virgule avant cap (le trait descendant x≈.86 est la haste du d de « demain », l. 10)'
+  alternatives:
+  - château cap
+  - chateau — cap
+- ligne: 17
+  lemme: 3^{f}
+  analyse: 'zoom ×3 [.40 .885 .58 .965] : après le 3, petit tracé en S (boucle de tête, panse ouverte) suscrit, dont le délié descend vers la droite jusqu''à la tête du f de la l. 18 ; forme compatible avec un f monétaire bouclé comme avec un 5'
+  alternatives:
+  - 3^{5}
+  - 3 f 5
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Le manuscrit porte seulement « Pant » : le développement Panton suit la table des abréviations (Pant. = capitaine Panton, cf. autres clichés) ; il est donné dans l''apparat comme développement, non comme leçon. La somme « 3 f » de la l. 17 reste douteuse (lecture en \inc).'
+  alternatives: []
+controle:
+- ligne: 5
+  avant: Au retour assisté match de football
+  apres: Au retour assisté match de football –
+  justification: petit tiret net contre la marge droite (x≈.985, y≈.215), à hauteur de la ligne de football
+- ligne: 9
+  avant: chateau, cap
+  apres: chateau cap
+  justification: aucune virgule ; le trait descendant pris pour elle est la haste du d de « demain » (l. 10) ; le trait au-dessus de la finale est un accent ou une barre de t décalés
+- ligne: 13
+  avant: voyage à Toul\trait
+  apres: voyage a Toul\trait
+  justification: a ouvert sans accent ; le trait au-dessus de « voyage » est la virgule de la l. 12, celui au-dessus de Toul le crochet de tête du T
+- ligne: 15
+  avant: Nuit très sombre — qq
+  apres: Nuit très sombre\trait qq
+  justification: le long trait horizontal prolonge sans levée de plume la finale de sombre (zoom ×3), délié prolongé, non tiret
+remarques: Le départ du 25 désigne la permission pour Toulouse (séjour 055–064). Le chateau est le logement de la compagnie près de Raincheval.
+resume: 'Le vendredi 22 septembre 1916, par un temps splendide et un soleil ardent, Hippolyte Combes va à pied jusqu''à la station de Raincheval s''informer des horaires des trains. Au retour, il assiste à un match de football sur une prairie près des lignes de chevaux des Bedfords. En passant devant le château, il apprend du capitaine Panton que l''unité part le lendemain : grande déception. Dernière nuit dans sa chambre ; il songe à ses paquets et au voyage à Toulouse, départ le 25. Comptes : boîtes de lait au café à la cantine, œufs et nourriture.'
+noms:
+  personnes:
+  - forme: cap / Pant
+    ligne: 9
+    identite: capitaine Panton, officier britannique
+  lieux:
+  - forme: Raincheval
+    ligne: 4
+    identite: Raincheval (Somme)
+  - forme: Toul
+    ligne: 13
+    identite: Toulouse (Haute-Garonne)
+  unites:
+  - forme: the Bedfs
+    ligne: 6
+    identite: Bedfordshire Regiment (bataillon de la 18th Division)
+source: contrôle

@@ -1,0 +1,152 @@
+cliche: 14
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Lundi 7 – \hfill Chaleur accablante Aout 1916
+  apres: \sl{Lundi 7 –} \hfill Aout 1916 / \ind Chaleur accablante
+  justification: la note de tête est sur une ligne propre en retrait sous la date soulignée
+  confiance: haute
+- ligne: 3
+  avant: Ctis
+  apres: C^{tis}
+  justification: tis réduit et surélevé après le C
+  confiance: moyenne
+- ligne: 4
+  avant: nouveaux ... off.
+  apres: nouvx ... offs
+  justification: n-o-u-v puis x en croix ; off + s final plongeant, sans point
+  confiance: moyenne
+- ligne: 5
+  avant: Libre
+  apres: \addm{\ill} Libre
+  justification: signe pâteux en marge gauche non rendu
+  confiance: moyenne
+- ligne: 5
+  avant: harassé
+  apres: harasse
+  justification: aucun accent visible sur la finale
+  confiance: moyenne
+- ligne: 7
+  avant: 'rations : trouvé'
+  apres: rations, trouvé
+  justification: trait vertical long surmonté d'un point (virgule), non deux-points
+  confiance: moyenne
+- ligne: 8
+  avant: '[Barning ?]'
+  apres: \inc{Barning}
+  justification: forme balisée
+  confiance: basse
+- ligne: 9
+  avant: a shifté
+  apres: shifté
+  justification: aucun a devant le s montant ; la haste à gauche est le p de « partie »
+  confiance: moyenne
+- ligne: 10
+  avant: '[illis.] à l''autre extrémité village'
+  apres: \inc{Trouvée} à l'autre extrêmité village –
+  justification: T barré net, rou + finale descendante ; circonflexe visible sur extr-ê-mité, accent final décalé devant village
+  confiance: basse
+- ligne: 11
+  avant: Dû aussi changer de quartier.
+  apres: Dû aussi changer de Quartier Je
+  justification: Q majuscule (même forme que Quand) ; J à point + e en fin de ligne, la phrase continue « suis installé »
+  confiance: moyenne
+- ligne: 12
+  avant: Suis installé maison au-dessus Post-office,
+  apres: suis installé maison au dessus Postoffice
+  justification: s minuscule ; ni trait d'union ni virgule visibles
+  confiance: moyenne
+- ligne: 14
+  avant: au 1er étage. Y couché dès ce soir.
+  apres: au 1^{er} etage. Y couché dès ce soir
+  justification: er surélevé ; aucun accent sur e initial ; pas de point final
+  confiance: moyenne
+- ligne: 16
+  avant: 1 f
+  apres: 1^{f}
+  justification: f en crochet au niveau des hampes
+  confiance: moyenne
+- ligne: 17
+  avant: 75 c (2 jours)
+  apres: 75 c \hfill (2 days)
+  justification: (2 + d + pâté + y + s, en anglais, à droite
+  confiance: haute
+- ligne: 18
+  avant: 30 c
+  apres: 30c
+  justification: 0 et c liés
+  confiance: moyenne
+difficultes:
+- ligne: 5
+  lemme: \addm{\ill}
+  analyse: 'en marge, à gauche de L de Libre : haste pâteuse + arche (aspect hu), noyée d''encre'
+  alternatives:
+  - tr. (très)
+  - pâté
+- ligne: 8
+  lemme: Barning
+  analyse: B à haste bouclée, panse ouverte (a ou o), 4–5 minimes indistinctes, g à jambage long
+  alternatives:
+  - Banning
+  - Bonning
+- ligne: 9
+  lemme: shifté
+  analyse: s montant (aspect l), h, i, f descendant, t, é ; accent décalé au-dessus de « ce »
+  alternatives:
+  - a shifté
+- ligne: 10
+  lemme: Trouvée
+  analyse: attaque pâteuse prolongée d'une barre (T), r, o, u, puis v/y et finale descendante ; « à » écrit plus bas avant l'autre
+  alternatives:
+  - Trouvé
+  - Logée
+- ligne: 7
+  lemme: rations,
+  analyse: trait vertical long, petit point au sommet
+  alternatives:
+  - rations ;
+  - 'rations :'
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1094 caractères ; JMO 7/Bedf 6-7 août (relève des Néo-Zélandais), Banks & Chell 1924 p. 142, Fernand-Laurent 1917 pp. 225-234 (cantonnement, indemnité du décret de 1877), March 1925 p. 182 ; transcription p1 seulement. Lieux corrigés en « La Croix-du-Bac (Steenwerck, Nord) ». « Barning » reste de lecture douteuse et non identifié ; le « Postoffice » non plus (poste civile ou bureau de poste militaire britannique).'
+  alternatives: []
+- ligne: 9
+  lemme: 9^{H}
+  analyse: 'zoom [.58 .29 .72 .35] : H en « lt », base à peine au-dessus de celle de la panse du 9 ; surélévation faible, suscrit conservé (guide § 6 cite ce passage)'
+  alternatives:
+  - 9 H
+- ligne: 8
+  lemme: Coy
+  analyse: le jambage du y (boucle fermée vers la gauche, aspect 0) descend jusqu'après « Damn ! » de la l. 9 ; ce n'est pas un signe de la l. 9
+  alternatives: []
+controle:
+- ligne: 0
+  avant: 'lieux : Steenwerck, route de Bac-Saint-Maur (Nord)'
+  apres: La Croix-du-Bac (Steenwerck), route de Bac-Saint-Maur (Nord)
+  justification: localisation corrigée par la remarque du commentateur historique (JMO 7/Bedf)
+- ligne: 17
+  avant: pour deux jours ; écrit au-dessus de la ligne, sous « cooking »
+  apres: pour deux jours ; écrit à droite, sous « cooking »
+  justification: 'note contradictoire ; zoom [.50 .83 .90 .90] : (2 days) est sur la l. 17, à droite, sous cooking'
+- ligne: 10
+  avant: note de lecture Trouvée avec description des traits
+  apres: note abrégée (lecture probable, alternative Trouvé)
+  justification: épuration de l'apparat ; zoom [0 .33 .20 .41] confirme T à barre + rou + finale descendante, sans trancher entre Trouvée et Trouvé
+remarques: Encre noire virée au brun. Grand blanc de trois lignes avant le filet des comptes.
+resume: 'Lundi 7 août 1916, par une chaleur accablante, Hippolyte Combes passe la matinée avec Curtis à chercher de nouveaux cantonnements et un mess pour les officiers. Venu chercher ses rations, il trouve la compagnie partie : elle a changé de cantonnement à 9 heures et s''est installée à l''autre extrémité du village. Il change lui aussi de logement et prend une grande chambre au premier étage d''une maison au-dessus du bureau de poste, route de Bac-Saint-Maur. Il finit la journée avec Maurin. Comptes : cuisine, oeufs et lait pour deux jours, bière.'
+noms:
+  personnes:
+  - forme: C^{tis}
+    ligne: 3
+    identite: lieutenant Curtis, officier britannique de la compagnie
+  - forme: Barning
+    ligne: 8
+    identite: non identifié (militaire de la compagnie ?)
+  - forme: Maurin
+    ligne: 15
+    identite: interprète ou militaire français
+  lieux:
+  - forme: Bac St Maur
+    ligne: 13
+    identite: Bac-Saint-Maur (Nord)
+source: contrôle

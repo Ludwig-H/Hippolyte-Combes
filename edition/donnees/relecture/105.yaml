@@ -1,0 +1,151 @@
+cliche: 105
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 1er Ven. \hfill Décembre 1916
+  apres: \sl{1^{er} Ven.} \hfill Décembre 1916
+  justification: date soulignée d'un trait appuyé ; er suscrit ; le mois n'est pas souligné (le trait sous « office & billet » est la barre du t de billet)
+  confiance: haute
+- ligne: 8
+  avant: frse, Ve armée, Cap. Bresson.
+  apres: f^{se} \inc{V^{e}} armée, cap. Bresson
+  justification: signe du numéro d'armée peu distinct, au-dessus de la ligne ; virgule (trait vertical) avant cap.
+  confiance: moyenne
+- ligne: 10
+  avant: M.F., XIIIe corps
+  apres: M. F^{se} XIII^{e} corps
+  justification: F suivi de se suscrit ; pas de virgule
+  confiance: haute
+- ligne: 13
+  avant: '[ — A Curtis, pour ma part de'
+  apres: \crochet{2}\ind[2] A Curtis, pour ma part de
+  justification: grand crochet en marge sur deux lignes ; le tiret lu avant A est l'accent de « dépenses »
+  confiance: haute
+- ligne: 14
+  avant: 'dépenses du mess, à Acheux : 40 f'
+  apres: 'dépenses du mess à Acheux : 70'
+  justification: 7 à tête crochue barré au milieu ; pas de f ; la virgule supposée est le jambage du p de « pour »
+  confiance: moyenne
+- ligne: 15
+  avant: (novembre) | Tin of black
+  apres: \ind[2] (novembre) Tin of black
+  justification: la haste est la parenthèse fermante de novembre
+  confiance: haute
+- ligne: 16
+  avant: '(Nugget) boot polish : 30 c ]'
+  apres: '\ind[2] (Nugget) boot polish : 30c'
+  justification: aucun crochet fermant ; la haste qui traverse le montant est la tête du f de « froid » (l. 18)
+  confiance: haute
+- ligne: 17
+  avant: 2 Samedi.
+  apres: \sl{2 Samedi}
+  justification: le point est celui du i ; date soulignée
+  confiance: haute
+- ligne: 18
+  avant: fortt. Temps sec & froid.
+  apres: fortt Temps sec & froid
+  justification: aucun point visible ; « très » réduit à « hu » + accent
+  confiance: moyenne
+- ligne: 20
+  avant: Tout le jour, resté à Acheux.
+  apres: \ind Tout le jour, resté à Acheux \trait
+  justification: trait de remplissage après Acheux
+  confiance: haute
+- ligne: 21
+  avant: Vers 4h après-midi, Cap. Williams, arrivé tout
+  apres: Vers \inc{1}^{h} après-midi, Cap. Williams, arrivé \add{tout} \inc{Mess} \add{\inc{large}}
+  justification: chiffre en simple haste ; « tout » interlinéaire ; un mot sur la ligne et un autre en dessous, que l'état antérieur avait remplacés par « jeune, mince »
+  confiance: basse
+- ligne: 22
+  avant: jeune, mince. Il vient remplacer Lt Curtis. Étonnement profond.
+  apres: Il vient remplacer Lt Curtis. Etonnement profond
+  justification: la ligne commence par Il ; E sans accent ; pas de point final
+  confiance: haute
+- ligne: 23
+  avant: A son retour, tant
+  apres: A son retour, (tant
+  justification: petite parenthèse ouvrante devant tant, refermée l. 24
+  confiance: moyenne
+- ligne: 24
+  avant: découragé — que faire?
+  apres: découragé — que faire)
+  justification: grande parenthèse fermante, aucun point d'interrogation
+  confiance: haute
+- ligne: 25
+  avant: Soir, venu au bureau mission &
+  apres: \ind Soir, venu au bureau mission y
+  justification: tête en V ouvert, descente vers la gauche ; précède le verbe vu
+  confiance: haute
+difficultes:
+- ligne: 21
+  lemme: \inc{Mess}
+  analyse: M à attaque longue, deux ou trois minimes, puis deux longues hastes en ſ montant et descendant ; aucun e net. Au-dessus « tout » précédé d'un tiret (t bouclé, o, u, t barré) ; au-dessous un mot l-a-r-g-e à g descendant. Le sens de l'ensemble reste obscur (zoom x3 [.66 .72 1.0 .80]).
+  alternatives:
+  - Miss
+  - mince
+  - jeune
+- ligne: 21
+  lemme: \inc{1}^{h}
+  analyse: un seul trait vertical légèrement incurvé en pied, sans boucle fermée ni barre ; h suscrit net (zoom x3 [0 .76 .26 .815])
+  alternatives:
+  - 4^{h}
+- ligne: 8
+  lemme: \inc{V^{e}}
+  analyse: au-dessus de « armée » ; long délié montant de sous la ligne à une tête bouclée (forme possible du 5 en ſ ou d'un V à attaque), puis e et un ou deux jambages suscrits (peut-être ^{me}) ; zoom x3 [.44 .25 .86 .32]. Ve et 5e reviennent au même (Fifth Army, QG à Toutencourt).
+  alternatives:
+  - 5^{e}
+  - 5^{me}
+- ligne: 14
+  lemme: '70'
+  analyse: tête crochue et barre médiane longue (7) ; 0 haut et penché, terminé par un délié horizontal vers la marge ; aucun f (zoom x3 [.78 .51 1.0 .59])
+  alternatives:
+  - '40'
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1070 caractères ; sources : OH 1916-II p. 541, Becke 1938 p. 83 n. 14, LLT (Fifth Army, V et XIII Corps), registre matricule n° 911 ; transcription p1 seulement. Le mot en fin de l. 21 est lu « tout Mess large » (douteux), alors que R7 et l''édition antérieure citent « tout jeune, mince » : je ne l''ai pas cité. Le mess est noté 70, et non les 40 f donnés par R8. Le « régiment d''origine » est rendu par « sans doute le 10e d''artillerie » d''après le registre matricule, non d''après R3 : son « 10e régiment d''artillerie à pied » ne date que de décembre 1918. La note sur le cirage Nugget a été retirée pour tenir dans la longueur. — Contrôle p2 : 70 confirmé ; la fin de la l. 21 reste douteuse, ne pas citer « tout jeune, mince ».'
+  alternatives: []
+controle:
+- ligne: 0
+  avant: apparat l. 13 (disposition « A Curtis ») et l. 23 (signe « (tant »)
+  apres: supprimés
+  justification: le balisage \crochet{2} et les parenthèses de la transcription suffisent ; notes de lecture abrégées, coordonnées et analyses renvoyées aux difficultés
+- ligne: 26
+  avant: capitaine H(uguet ?), de la Mission française
+  apres: capitaine H., non identifié
+  justification: identification non fondée sur la page ; conjecture laissée dans « noms »
+remarques: Le mot de la fin de la l. 21 et celui qui est écrit au-dessous restent douteux ; le numéro d'armée de la l. 8 (V ou 5) aussi.
+resume: 'Le 1er décembre, matinée perdue au bureau ; après un déjeuner pris tôt, Hippolyte Combes va en auto à Franvillers et Buire-sur-Ancre, revoit avec plaisir la région de Ribemont-Heilly et, au retour, passe au bureau de la Mission française de la Ve armée à Toutencourt (cap. Bresson). À Acheux, un message le fait se présenter à la Mission française du XIIIe corps, qui le prend en charge ; il envisage de réintégrer son régiment d''origine. Comptes : sa part du mess de novembre à Curtis et une boîte de cirage. Le 2, gel très fort ; resté à Acheux, il voit arriver vers 1 h le capitaine Williams, qui vient remplacer Curtis, au grand étonnement de celui-ci. Le soir, il voit le cap. H. au bureau de la mission.'
+noms:
+  personnes:
+  - forme: Bresson
+    ligne: 8
+    identite: capitaine Bresson, Mission française de la Ve armée
+  - forme: Curtis
+    ligne: 13
+    identite: lieutenant britannique, de la compagnie d'Hippolyte Combes
+  - forme: Williams
+    ligne: 21
+    identite: capitaine britannique, successeur de Curtis
+  - forme: Cap. H.
+    ligne: 26
+    identite: capitaine H., Mission française (non identifié ; Huguet ?)
+  lieux:
+  - forme: Franvillers
+    ligne: 4
+    identite: Franvillers (Somme)
+  - forme: Buire s/ Ancre
+    ligne: 4
+    identite: Buire-sur-l'Ancre (Somme)
+  - forme: Ribemont-Heilly
+    ligne: 6
+    identite: Ribemont-sur-Ancre et Heilly (Somme)
+  - forme: Toutencourt
+    ligne: 7
+    identite: Toutencourt (Somme)
+  - forme: Acheux
+    ligne: 9
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Martinsart
+    ligne: 23
+    identite: Martinsart (Somme)
+source: contrôle

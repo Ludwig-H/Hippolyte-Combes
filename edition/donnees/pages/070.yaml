@@ -1,0 +1,110 @@
+cliche: 70
+fichier: 20251126_103857.jpg
+date: Lundi 9 octobre 1916
+mois: Octobre 1916
+lieux: Barlette (Ribeaucourt, Somme)
+titre: Promenade en forêt près de Barlette ; ciel de lune au retour du mess ; une belle chambre
+transcription: |
+  \sl{Lundi 9} \hfill Oct– \sl{/16}
+  \ind Tout le jour, ciel assombri gros nuages
+  couleur de plomb
+  Après-midi, pénétré forêt qui s'étend à 1
+  faible distance de la route et parallelt –
+  Sentiers encore boueux et jonché de feuilles \inc{rouillés}.
+  Feuillages épais & verts. Ds les taillis, enchevêtrt
+  d'arbustes & de lianes. Des troncs énormes
+  s'élèvent très haut, arbres plusis fois
+  séculaires. Resté lgs ds cet océan de
+  verdure. Ecouté, ravi, le bruissement
+  du vent à travers les branches
+  feuillues \trait
+  \ind Le soir, en revenant du mess,
+  admiré ciel mervt eclairé par \add{pleine} lune.
+  qq étoiles, ca et là Campagne curieuse
+  à regarder les moindres détails, bien
+  détachés –
+  \ind Me plais infinit ds ma gde et
+  belle chambre, 1 vrai salon
+apparat:
+- ligne: 1
+  lemme: Oct
+  type: abreviation
+  note: octobre
+- ligne: 1
+  lemme: /16
+  type: abreviation
+  note: '1916'
+- ligne: 4
+  lemme: à 1
+  type: abreviation
+  note: à une
+- ligne: 5
+  lemme: parallelt
+  type: abreviation
+  note: parallèlement
+- ligne: 6
+  lemme: rouillés
+  type: lecture
+  note: lecture incertaine (double boucle haute, un seul signe au-dessus) ; « rousses » possible
+- ligne: 7
+  lemme: Ds
+  type: abreviation
+  note: Dans
+- ligne: 7
+  lemme: enchevêtrt
+  type: abreviation
+  note: enchevêtrement
+- ligne: 9
+  lemme: s'élèvent
+  type: surcharge
+  note: mot repassé par-dessus une première leçon illisible
+- ligne: 9
+  lemme: plusis
+  type: abreviation
+  note: plusieurs
+- ligne: 10
+  lemme: lgs
+  type: abreviation
+  note: longtemps
+- ligne: 10
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 14
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 15
+  lemme: mervt
+  type: abreviation
+  note: merveilleusement
+- ligne: 15
+  lemme: pleine
+  type: ajout
+  note: dans l'interligne inférieur, sous « lune »
+- ligne: 16
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 19
+  lemme: infinit
+  type: abreviation
+  note: infiniment
+- ligne: 19
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 19
+  lemme: gde
+  type: abreviation
+  note: grande
+- ligne: 20
+  lemme: 1 vrai
+  type: abreviation
+  note: un vrai
+historique: |
+  En 1916, Barlette, où cantonne la compagnie, dépend encore de la commune de Franqueville ; il n'a été rattaché à Ribeaucourt qu'au XX\textsuperscript{e} siècle (Inventaire, hameau de Barlette). Le hameau touche au grand massif du bois de Ribeaucourt, prolongé par le bois Monsieur-de-Berny, partie nord de l'ancien bois de Martaineville, acquise vers 1830 par Jean-Charles de Berny (Inventaire, village de Franqueville) : c'est sans doute la « forêt » que Combes parcourt. Le mess est celui des officiers de la compagnie, dont il est membre permanent depuis le 12 septembre (voir f.~21 v\textsuperscript{o}). La pleine lune tomba le 11 octobre 1916 vers 7 h (temps universel) : le 9 au soir, la lune, gibbeuse, était à un jour et demi du plein (calendrier lunaire 1916). La « gde et belle chambre » est le \textit{billet} trouvé le 6 octobre chez « Mme Ve — », à 900 m de Barlette, ancien salon d'une maison tenue par une « vieille gd-mère » (voir f.~34 r\textsuperscript{o} et v\textsuperscript{o}).
+sources:
+- Région Hauts-de-France, Inventaire général du patrimoine culturel, dossier « Hameau de Barlette » (Ribeaucourt), inventaire.hautsdefrance.fr, IA80009826.
+- Région Hauts-de-France, Inventaire général du patrimoine culturel, dossier « Le village de Franqueville », inventaire.hautsdefrance.fr.
+- Calendar-12.com, « 1916 Moon Phases » (pleine lune du 11 octobre 1916, 06 h 59 UTC), consulté en octobre 2026.

@@ -1,0 +1,99 @@
+cliche: 160
+fichier: 20251126_111035.jpg
+date: Mardi 27 – mercredi 28 février 1917
+mois: Février 1917
+lieux: Hérissart et Toutencourt (Somme)
+titre: Rage de dents du capitaine Williams ; fourrage à Toutencourt ; cavalerie indienne
+transcription: |
+  27 \sl{Ma}. Même temps, très couvert \hfill — \sl{Fevrier 1917}
+  Tout le jour ciel nuageux – Air asz doux
+  Cap^{t} W., tooth ache, au lit j-à 1^{h} après-midi.
+  D'où journée entière de liberté
+  après-midi, courte promenade petite route
+  de Toutencourt. Champs couverts de réseaux de
+  barbed wire & creusés de tranchées –
+  \blanc{3}
+  \filet
+  \sl{28 Merc.} – Temps 1 peu froid, mais très
+  beau. C'est le commt du printemps
+  \ind matinée, liberté
+  après lunch, à Toutencourt., pour trouver
+  fourrage & paille –
+  \ind après tea, promenade environs.
+  Matinée, plus. régiments de cavalerie
+  indienne, traversé village d'Hérissart. Ces
+  \inc{hindoues}, très curieux à regarder. Beaux
+  chevaux. lances, à letrier. turbans etc.
+  — Mess, pour fevrier (depuis le 8) : 33^{f} –
+apparat:
+- ligne: 1
+  lemme: Ma
+  type: abreviation
+  note: mardi
+- ligne: 2
+  lemme: asz
+  type: abreviation
+  note: assez
+- ligne: 3
+  lemme: Cap^{t} W.
+  type: abreviation
+  note: Captain Williams, le capitaine Williams
+- ligne: 3
+  lemme: tooth ache
+  type: emprunt
+  note: mal de dents
+- ligne: 3
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 3
+  lemme: 1^{h}
+  type: abreviation
+  note: une heure
+- ligne: 7
+  lemme: barbed wire
+  type: emprunt
+  note: fil de fer barbelé
+- ligne: 8
+  lemme: Merc.
+  type: abreviation
+  note: mercredi
+- ligne: 9
+  lemme: commt
+  type: abreviation
+  note: commencement
+- ligne: 11
+  lemme: lunch
+  type: emprunt
+  note: déjeuner
+- ligne: 13
+  lemme: tea
+  type: emprunt
+  note: thé
+- ligne: 14
+  lemme: plus.
+  type: abreviation
+  note: plusieurs
+- ligne: 16
+  lemme: \inc{hindoues}
+  type: lecture
+  note: boucle d'e visible avant le s final ; autre lecture possible, hindous
+- ligne: 17
+  lemme: etc.
+  type: abreviation
+  note: et cetera
+- ligne: 18
+  lemme: Mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 18
+  lemme: 33^{f}
+  type: abreviation
+  note: 33 francs
+critique: Encre violette. La notice du 27 s'arrête au tiers supérieur de la page ; un blanc d'environ trois lignes la sépare de celle du 28, ouverte par un filet en escalier.
+historique: |
+  Toutencourt, à moins de 5~km à l'est d'Hérissart, abrite encore le QG de la Fifth Army et sa Mission française (voir f.~52 v\textsuperscript{o} et f.~73 v\textsuperscript{o}). Les champs « couverts de réseaux de \textit{barbed wire} \& creusés de tranchées » sont peut-être les terrains d'exercice où, avant le 1er juillet 1916, les tranchées ennemies avaient été réellement creusées, au grand dépit des cultivateurs (OH 1916-I, p.~262, n.~1) ; il peut aussi s'agir de lignes de défense arrière. Les « régiments de cavalerie indienne » appartiennent sans doute à la 4th ou à la 5th Cavalry Division, anciennes 1st et 2nd Indian Cavalry Divisions renommées en novembre 1916 (LLT) ; le Cavalry Corps avait hiverné près de la côte, entre la Canche et la Bresle, pour économiser le transport du fourrage (OH 1917-I, p.~64), et ces divisions suivront le repli allemand à partir du 14 mars (LLT). La part de mess, 33~francs pour les vingt et un jours passés à Hérissart depuis le 8, revient à 1,57~F par jour, contre 79~F~10 pour janvier (f.~63 v\textsuperscript{o}).
+sources:
+- 'Edmonds, J. E. (comp.), Military Operations, France and Belgium, 1916, vol. I, Sir Douglas Haig''s Command to the 1st July : Battle of the Somme, Londres, Macmillan, 1932, p. 262, n. 1.'
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 64.
+- The Long, Long Trail (C. Baker), « 1st Indian Cavalry Division (later 4th Cavalry Division) », copie Wayback du 8 mai 2023, et « 2nd Indian Cavalry Division (later 5th Cavalry Division) », consulté le 18 oct. 2026.

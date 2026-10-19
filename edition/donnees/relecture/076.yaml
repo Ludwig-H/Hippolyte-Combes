@@ -1,0 +1,108 @@
+cliche: 76
+confiance: haute
+changements:
+- ligne: 1
+  avant: 16 Lundi \hfill Oct /16
+  apres: 16 \sl{Lundi} \hfill \sl{Oct /16}
+  justification: Lundi souligné d'un trait appuyé (le 16 hors du trait) ; Oct /16 souligné d'un long trait terminé en massue.
+  confiance: haute
+- ligne: 2
+  avant: '[ A Beauval, room : 1 f — groom : 1 f'
+  apres: 'A Beauval, room : 1^{f} – \hfill Groom : 1^{f}'
+  justification: Aucun crochet d'ouverture ; f monétaires suscrits ; G majuscule bouclé de Groom, en colonne de droite ; tiret court.
+  confiance: haute
+- ligne: 3
+  avant: 'A Warloy, ctes ples : 25 c — ]'
+  apres: 'A Warloy, ctes ples : \inc{25} c –'
+  justification: Aucun crochet fermant ; tiret court ; trait de clôture à droite rendu par un filet partiel ; montant douteux.
+  confiance: moyenne
+- ligne: 5
+  avant: Couché sous tente, à côté 2 off.
+  apres: \ind Couché sous tente, à coté 2 offs
+  justification: Ligne en retrait ; aucun circonflexe sur le o de coté ; après ff un s final en crochet, aucun point.
+  confiance: moyenne
+- ligne: 6
+  avant: Nuit très froide.
+  apres: Nuit très froide
+  justification: Aucun point après le long délié final de froide.
+  confiance: haute
+- ligne: 7
+  avant: Sensations nouvelles bivouac jour et nuit constant.
+  apres: Sensations nouvelles bivouac jour et nuit constant –
+  justification: Petit tiret détaché après constant, non un point.
+  confiance: haute
+- ligne: 8
+  avant: Levé vers 6h m. Au ciel bleu pâle, 1/2 lune argent
+  apres: Levé vers 6^{H} m. Au ciel bleu pâle, \fr{1}{2} lune argent
+  justification: H suscrit en « tt » barré ; fraction empilée (1, barre, 2 bouclé).
+  confiance: haute
+- ligne: 10
+  avant: Régiments d'infrie, partis d'abord —
+  apres: Regiments d'infrie, partis d'abord –
+  justification: Aucun accent visible sur le premier e ; après le long délié final du d, petit tiret détaché.
+  confiance: moyenne
+- ligne: 11
+  avant: En route, à 10h m. —
+  apres: En route, à 10^{H} m –
+  justification: H nettement suscrit au-dessus du 0 ; aucun point après m (le crochet sous le m est l'accent de encombrées, l. 12) ; tiret court.
+  confiance: moyenne
+- ligne: 12
+  avant: Routes tjrs encombrées et sillonnées convois de tte
+  apres: Routes tjs encombrées et sillonnées convoi de tte
+  justification: 'tjs : j + s, aucun r ; convoi s''arrête sur le i pointé, sans s.'
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: \inc{25} c
+  analyse: 'Zoom ×3 [.43 .14 .54 .24] : à gauche une boucle pleine reliée par une courbe montante au milieu d''une longue haste descendant sous la ligne, coiffée d''un drapeau bouclé à droite (5 en ſ) ; puis c et tiret. La boucle de gauche peut être un 2 réduit (25) ou l''attaque du 5 (5 c). Aucun critère décisif.'
+  alternatives:
+  - 5 c
+- ligne: 5
+  lemme: offs
+  analyse: 'Zoom ×3 [.52 .35 .68 .47] : o, deux longues hastes (ff), puis un tracé montant à hauteur d''œil, redescendant et finissant en crochet vers la droite (s final réduit) ; le petit trait plus à droite est une fibre, non un point.'
+  alternatives:
+  - off.
+  - offr
+- ligne: 6
+  lemme: très
+  analyse: t bouclé (aspect h) + r, e, puis haste barrée ; forme réduite habituelle de très.
+  alternatives:
+  - tres
+- ligne: 8
+  lemme: Levé
+  analyse: L bouclé, e, v, e, accent tracé en trait montant puis horizontal lié au mot (aspect t).
+  alternatives:
+  - Levet
+controle:
+- ligne: 3
+  avant: 'A Warloy, ctes ples : 25 c –'
+  apres: 'A Warloy, ctes ples : \inc{25} c –'
+  justification: Le premier tracé peut être un 2 réduit ou l'attaque d'un 5 seul ; doute non levé au zoom ×3, \inc et note de lecture.
+- ligne: 5
+  avant: \ind Couché sous tente, à coté 2 off.
+  apres: \ind Couché sous tente, à coté 2 offs
+  justification: Après ff, un tracé net en crochet (s final) ; aucun point d'abréviation sur l'image.
+- ligne: 11
+  avant: En route, à 10^{H} m. –
+  apres: En route, à 10^{H} m –
+  justification: Le crochet sous le m (x .388, y .777) est l'accent de encombrées (l. 12), non un point.
+- ligne: 2
+  avant: 'apparat : Groom = ordonnance ; note de disposition sur le trait oblique'
+  apres: 'apparat : Groom = palefrenier ; note de disposition supprimée'
+  justification: Correction demandée par le commentateur historique (groom = palefrenier d'un officier monté) ; le filet partiel balisé suffit à rendre le trait.
+- ligne: 0
+  avant: 'lieux : Beauval ; Warloy-Baillon ; camp près de la route de Senlis (Somme)'
+  apres: 'lieux : Beauval ; Warloy-Baillon (Somme)'
+  justification: La route de Senlis n'est pas nommée sur la page (cliché 075) ; réduction conforme à la remarque du commentateur.
+remarques: 'Le trait oblique sous « Groom : 1^{f} » (x .74–.88, y .17–.19) est rendu par un filet partiel entre les l. 2 et 3. Le camp du 16 au soir (route de Senlis, cliché 075) est à Warloy-Baillon. Remarque du commentateur : le nom du groom (Connelly ?) n''est pas sur la page ; non imprimé.'
+resume: 'Comptes du lundi 16 octobre 1916 : chambre à Beauval et pourboire au groom, cartes postales à Warloy. Le mardi 17, Hippolyte Combes a couché sous la tente à côté de deux officiers, par une nuit très froide, et note la nouveauté du bivouac. Levé vers 6 h sous une demi-lune argentée, il voit le camp s''animer ; les régiments d''infanterie partent d''abord, sa colonne se met en route à 10 h. Les routes sont encombrées de convois de toute sorte.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Beauval
+    ligne: 2
+    identite: Beauval (Somme)
+  - forme: Warloy
+    ligne: 3
+    identite: Warloy-Baillon (Somme)
+source: contrôle

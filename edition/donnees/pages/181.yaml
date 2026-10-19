@@ -1,0 +1,83 @@
+cliche: 181
+fichier: 20251126_111644.jpg
+date: Mercredi 18 – vendredi 20 avril 1917
+mois: Avril 1917
+lieux: Hérissart, Bresle, Laviéville, Hénencourt, Albert et Buire-sur-l'Ancre (Somme)
+titre: Auto aux ateliers ; Bresle, Laviéville, Hénencourt revus ; embourbés à Buire ; les Colart
+transcription: |
+  \sl{18 merc} \hfill — Avril \sl{1917} —
+  \ind Tout le jour, pluie fine.
+  Routes, état lamentable.
+  notre auto, aux Workshops. Repos complet
+  \blanc{2}
+  \sl{19 Jeudi} Tout le jour, ciel couvert. Qq averses.
+  Temps très doux, presque tiède.
+  Après-midi, courses en auto. Bresle, Lavieville,
+  Henencourt, Warloy et Contay. Revu avec plaisir
+  les 3 1ers villages, où pas retourné depuis fin
+  juillet 1915. Aujourdhui, vides et déserts.
+  \ind Lieu^{t} Gilbert, retour d'Abbeville, venu passer soirée
+  avec nous. Charmant causeur, très intéressant
+  \blanc{1}
+  20 \sl{Vendredi}. Enfin, assz belle journée. ciel
+  resté couvert, mais temps très doux, même chaud
+  Matinée, course à Rubempré, Senlis et
+  Warloy. Après-midi, venus à Henencourt
+  Albert et Buire \add{Ribemont}. Au retour, stuck, à la
+  sortie du village de Buire. Aidés par des
+  australiens, à dégager l'auto. Quels types!
+  \ind A Ribemont revu avec plaisir les Colart—
+  qui m'ont fait meilleur accueil —
+apparat:
+- ligne: 1
+  lemme: merc
+  type: abreviation
+  note: mercredi
+- ligne: 4
+  lemme: Workshops
+  type: emprunt
+  note: ateliers (de réparation des véhicules)
+- ligne: 5
+  lemme: Qq
+  type: abreviation
+  note: quelques
+- ligne: 7
+  lemme: courses
+  type: lecture
+  note: s final plongeant, lié au e ; la transcription antérieure portait déjà « courses »
+- ligne: 9
+  lemme: 1ers
+  type: abreviation
+  note: premiers
+- ligne: 10
+  lemme: '1915'
+  type: lecture
+  note: 5 à drapeau, sans boucle basse de 6 ; non « 1916 »
+- ligne: 11
+  lemme: Lieu^{t}
+  type: abreviation
+  note: lieutenant
+- ligne: 13
+  lemme: assz
+  type: abreviation
+  note: assez
+- ligne: 17
+  lemme: Ribemont
+  type: ajout
+  note: écrit en petit sous « et Buire », dans l'interligne inférieur
+- ligne: 17
+  lemme: stuck
+  type: emprunt
+  note: embourbés, immobilisés
+critique: Encre violette uniforme.
+historique: |
+  Bresle, Laviéville et Hénencourt, à l'ouest d'Albert, avaient servi de cantonnements pendant la bataille de la Somme (23rd Division en septembre 1916 : OH 1916-II, p.~301) ; Laviéville porte encore l'aérodrome du No.~3 Squadron (Jones 1931, app.~XII). La date « fin juillet 1915 », bien lisible, surprend : concentrée le 30 juillet 1915 près de Flesselles, la 18th Division n'entre dans le secteur d'Albert qu'en août (Becke 1938, p.~84 ; Nichols 1922, p.~15-16), tandis qu'elle quitta la Somme le 21 juillet 1916 en embarquant à Edgehill, entre Buire et Dernancourt (JMO 7/Bedf, 21 juill. 1916) ; souvenir peut-être approximatif. Abbeville, d'où revient Gilbert (voir f.~89 v\textsuperscript{o}), est le siège du QG des \textit{Lines of Communication} (Maurois 1920, p.~ix). Albert abrite depuis le 28 mars le QG de la Fifth Army (LLT) ; les Australiens de Buire relèvent du I Anzac Corps (OH 1917-I, p.~74). Ribemont, où la division cantonnait à l'hiver 1915-1916 (Becke 1938, p.~83, n.~14), avait déjà réjoui Combes le 16 mars (f.~84 v\textsuperscript{o}) ; les Colart ne sont pas identifiés.
+sources:
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, Londres, Macmillan, 1938, p. 301.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 74.
+- Jones, H. A., The War in the Air, vol. III, Oxford, Clarendon Press, 1931, appendice XII.
+- Becke, A. F., Order of Battle of Divisions, part 3A, New Army Divisions (9-26), Londres, HMSO, 1938, p. 83-84.
+- Nichols, G. H. F., The 18th Division in the Great War, Édimbourg et Londres, W. Blackwood & Sons, 1922, p. 15-16.
+- 'Bedfordshire Archives Service, X550/8/1/1607 : War Diary du 7th (Service) Battalion, Bedfordshire Regiment, juillet 1916.'
+- Maurois, A., « Biographical Introduction », The Silence of Colonel Bramble, trad. T. Wake, Londres et New York, John Lane, 1920, p. viii-ix.
+- The Long, Long Trail (C. Baker), « The British Fifth or Reserve Army 1916-1918 », copie Wayback du 23 juil. 2024.

@@ -1,0 +1,170 @@
+cliche: 7
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Dim. 30. \hfill Juillet 1916
+  apres: \sl{Dim – 30.} \hfill Juillet \sl{1916}
+  justification: après Dim, trait bas et appuyé, non point rond (zoom [.04 0 .26 .065]) ; date soulignée d'un trait terminé en crosse ; à droite, trait sous le seul millésime
+  confiance: moyenne
+- ligne: 3
+  avant: crasseuse – Rats
+  apres: crasseuse. Rats
+  justification: 'signe rond et appuyé, sans allongement (zoom [.20 .06 .42 .10]) : point, non tiret'
+  confiance: moyenne
+- ligne: 7
+  avant: Eglise archi-comble. Hoes à d., fem. à g.
+  apres: Eglise archi-comble Hoes à d. fem. à g.
+  justification: 'aucun point après comble : le point sous la ligne est celui du i d''Assis (l. 8) ; après d, un point bas et aucune virgule (zooms [.17 .175 .56 .235] et [.48 .175 1 .235])'
+  confiance: haute
+- ligne: 9
+  avant: à mon aise
+  apres: à mon aise.
+  justification: point détaché sous la fin du délié d'aise ; le tiret plus bas est le point du i de dormi (l. 10) (zoom [.85 .24 1 .31])
+  confiance: moyenne
+- ligne: 10
+  avant: l'après-midi
+  apres: l'après.midi
+  justification: petit point posé sur la ligne entre après et midi, non trait d'union (comparer Après-midi, l. 22)
+  confiance: moyenne
+- ligne: 11
+  avant: lu, et écrit –
+  apres: lu et ecrit –
+  justification: aucune virgule (le trait au-dessous est l'apostrophe de D'une, l. 12) ; la haute boucle devant ecrit est la descendante du g de grenier (l. 10) ; e initial sans accent (zoom [.02 .30 .38 .35])
+  confiance: haute
+- ligne: 12
+  avant: regardé la campagne
+  apres: regardé \inc{les} campagne
+  justification: l haut puis seconde haste verticale propre à la ligne, sans panse d'a (zoom [.74 .345 .90 .39])
+  confiance: basse
+- ligne: 13
+  avant: – plaines fertiles, entrecoupées de boqueteaux
+  apres: – plaine fertile, entrecoupée de boqueteaux
+  justification: 'plaine : e et délié, recoupé par la haste du f de fenêtre (l. 12) ; fertile et entrecoupée finissent par e et délié, sans s (zooms [0 .375 .36 .425] et [.50 .375 .68 .425])'
+  confiance: haute
+- ligne: 15
+  avant: estompé de rose –
+  apres: estompé de rose – —
+  justification: après le tiret court, long trait mince isolé (x ≈ 0,51–0,62)
+  confiance: haute
+- ligne: 16
+  avant: 'headcook : 5 f –'
+  apres: 'headcook : 5^{f} –'
+  justification: f barré, écrit au-dessus de la ligne de base du 5
+  confiance: haute
+- ligne: 19
+  avant: 'mes off. : au'
+  apres: 'mes off : au'
+  justification: deux points superposés seulement (zoom [.62 .615 .80 .69]) ; le point inférieur est sur la ligne de base de la l. 19, loin du i de Bailleul
+  confiance: moyenne
+- ligne: 21
+  avant: chez fermier [Terrien ?] –
+  apres: chz fermier \inc{Terrier} – —
+  justification: c-h-z sans e ; finale du nom en boucle et jambage unique, comme -ier dans fermier (zooms [.31 .685 .60 .735] et [.10 .695 .32 .74]) ; tiret court puis tiret long
+  confiance: moyenne
+- ligne: 26
+  avant: à ma ferme – Sur
+  apres: à ma ferme. – Sur
+  justification: point net après ferme, avant le tiret
+  confiance: moyenne
+difficultes:
+- ligne: 21
+  lemme: \inc{Terrier}
+  analyse: 'T à crochet de tête et longue haste ; e ; r pointu ; lettre en croix (second r ou x) ; i, point déporté à droite ; boucle fermée pleine d''encre, un seul jambage et court délié. La même séquence forme -ier dans fermier (même ligne) et grenier (l. 10), qui prennent l''aspect « ia » ; -ien demanderait deux jambages (sauf n final réduit). Si r et croix ne font qu''un x : Texier. Aucune autre occurrence du nom dans les transcriptions.'
+  alternatives:
+  - Terrier
+  - Texier
+  - Terria
+  - Terrien
+- ligne: 12
+  lemme: \inc{les}
+  analyse: 'entre regardé (dont l''accent est posé au-dessus) et campagne : l haut bouclé, petite boucle, puis seconde haste verticale jusqu''à la ligne de base, propre à la l. 12 (ni hampe de la l. 13, ni accent) ; aucune panse fermée d''a. Les traits portent les (ou ls), le sens attend la.'
+  alternatives:
+  - les
+  - la
+- ligne: 6
+  lemme: Jans Cappel
+  analyse: le court trait horizontal entre Jans et Cappel, au niveau de la ligne de base, se prolonge sans levée de plume dans la haste du f de fem. (l. 7), qu'il coiffe en forme de 7 (zoom [.60 .15 .97 .215]) ; pas de trait d'union autonome, à la différence de St-Jans
+  alternatives:
+  - St-Jans Cappel
+  - St-Jans-Cappel
+- ligne: 1
+  lemme: Juillet \sl{1916}
+  analyse: 'le trait part, mince, sous la fin de Juillet (x ≈ 0,80) et s''appuie sous 1916 jusqu''à x ≈ 0,97, au sommet des hampes de tte (l. 2) : soulignement du millésime (guide § 3), qui sert peut-être aussi de barre à tte'
+  alternatives: []
+- ligne: 18
+  lemme: \sl{Lundi 31.}
+  analyse: le trait commence sous le d de Lundi et finit en crosse après 31. ; soulignement de la date, comme en l. 1
+  alternatives: []
+- ligne: 8
+  lemme: ruisseau
+  analyse: 'la grande boucle descendante qui croise la fin du mot est le jambage du g de à g. (l. 7), recoupé par le délié final : pas de x'
+  alternatives:
+  - ruisseau
+  - ruisseaux
+- ligne: 4
+  lemme: éveillé
+  analyse: 'trait fin sur l''attaque du v : accent de l''e initial ou attaque du v ; leçon de l''état antérieur maintenue'
+  alternatives:
+  - éveillé
+  - eveillé
+- ligne: 25
+  lemme: attenant
+  analyse: fin de mot serrée contre le bord, sous une longue barre de t ; aucun s final visible
+  alternatives:
+  - attenant
+  - attenants
+controle:
+- ligne: 6
+  avant: houblonnières au village de St-Jans-Cappel.
+  apres: houblonnières au village de St-Jans Cappel.
+  justification: 'zoom [.60 .15 .97 .215] : le trait pris pour un trait d''union entre Jans et Cappel est la tête du f de fem. (l. 7), tracée en 7 sans levée de plume avec sa haste ; retour à l''état antérieur ; note d''apparat « Jans-Cappel » supprimée'
+- ligne: 12
+  avant: regardé la campagne
+  apres: regardé \inc{les} campagne
+  justification: 'zoom [.74 .345 .90 .39] : après le l, seconde haste verticale (s final réduit, aspect l) et aucune panse d''a ; la, qu''attend le sens, n''est pas porté par les traits ; note de lecture ajoutée'
+- ligne: 21
+  avant: \inc{Terrien}
+  apres: \inc{Terrier}
+  justification: 'zooms [.31 .685 .60 .735] et [.10 .695 .32 .74] : la finale (boucle fermée, un seul jambage, délié) reproduit la finale -ier de fermier, même ligne, et de grenier (l. 10) ; -ien exigerait deux jambages ; Texier reste possible ; note de lecture et noms mis à jour'
+- ligne: 27
+  avant: à vent, tournent sans cesse
+  apres: \ind à vent, tournent sans cesse
+  justification: la ligne commence à x ≈ 0,09 contre 0,04 pour la l. 26, retrait comparable à celui de la l. 5
+- ligne: 13
+  avant: 'apparat : aucune note'
+  apres: 'apparat : lecture « plaine fertile, entrecoupée »'
+  justification: lecture nouvelle par rapport à l'état antérieur (pluriel), vérifiée par zooms
+- ligne: 1
+  avant: 'apparat : signe « après Dim, petit trait bas et appuyé (même tracé que le trait d''union d''au-dessus, l. 3) tenant lieu de point abréviatif ; l''état antérieur lit Dim. » ; disposition « 1916 » (position du trait)'
+  apres: signe « trait bas tenant lieu de point abréviatif » ; note de disposition supprimée
+  justification: 'guide § 7 : décrire le point abréviatif réduit à un trait ; le soulignement est rendu par le balisage, sa discussion passe en difficultes'
+- ligne: 0
+  avant: 'apparat : notes de lecture, de signe ou de disposition sur une, crasseuse., comble Hoes, points de à d., fem. et à g., aise., après.midi, lu et, ecrit (accent absent), houblonnières. (mot repassé), rose – —, off :, extrême (trait), ferme. –'
+  apres: notes supprimées ; analyses en changements, difficultes, remarques et critique
+  justification: ponctuation, accent absent et disposition sont rendus par la transcription balisée ; l'apparat imprimé ne garde que développements, traductions et lectures nouvelles ou douteuses
+- ligne: 0
+  avant: notes « Saint (t non surélevé) », « 5 francs (f suscrit barré) », « chez (c-h-z, sans e) »
+  apres: « Saint », « 5 francs », « chez »
+  justification: notes ramenées au seul développement
+- ligne: 0
+  avant: critique en quatre phrases (dont les empiètements des hampes)
+  apres: critique en trois phrases ; empiètements en remarques
+  justification: registre critique limité à 1–3 phrases
+remarques: 'Ponctuation relue signe par signe : plusieurs points appartiennent à une autre ligne (point du i d''Assis sous comble, l. 7 ; point du i de dormi près d''aise, l. 9). Hampes et descendantes empiètent sur les lignes voisines : tête du f de fem. (l. 7) entre Jans et Cappel (l. 6) ; g de à g. (l. 7) croisant la fin de ruisseau (l. 8) ; g de grenier (l. 10) devant ecrit (l. 11) ; f de fermière (l. 17) traversant le filet. Le retrait de la l. 27 (x ≈ 0,09 contre 0,04 à la l. 26) est marqué bien que la phrase continue. Confirmés par zooms : crasseuse., archi-comble Hoes, aise., lu et, off :, plaine fertile, 75c (7 à barre médiane).'
+resume: Le dimanche 30 juillet 1916, après une nuit troublée par les rats sur une paillasse crasseuse, Hippolyte Combes gagne à pied, à travers les houblonnières, l'église comble de Saint-Jans-Cappel (hommes à droite, femmes à gauche), puis lit et rumine assis sur un petit pont. Il passe l'après-midi au grenier à dormir, lire et écrire, et contemple d'une fenêtre la plaine fertile, semée de boqueteaux et de houblonnières, sous un ciel qui rosit. Il note 5 f de pourboire au chef cuisinier Hancock et 75 c à la fermière pour du lait et de la bière. Le lundi 31, par une chaleur accablante, il va le matin en auto avec ses officiers au point de ravitaillement, à Bailleul, puis chez un fermier au nom incertain (Terrier ?) ; l'après-midi, en plein soleil, il doit conduire un chariot aux champs pour le fourrage vert. Le soir, il s'assied dans les champs voisins de sa ferme, face aux moulins à vent d'une crête boisée.
+noms:
+  personnes:
+  - forme: Hancock
+    ligne: 16
+    identite: chef cuisinier (headcook) du mess de la compagnie britannique
+  - forme: \inc{Terrier}
+    ligne: 21
+    identite: 'fermier des environs de Bailleul (lecture incertaine : Terrier, Texier ou Terrien)'
+  lieux:
+  - forme: St-Jans Cappel
+    ligne: 6
+    identite: Saint-Jans-Cappel (Nord)
+  - forme: Bailleul
+    ligne: 20
+    identite: Bailleul (Nord)
+source: contrôle

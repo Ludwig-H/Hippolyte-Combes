@@ -1,0 +1,193 @@
+cliche: 138
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 2 Vendredi. \hfill Février 1917 —
+  apres: 2 \sl{Vendredi}.
+  justification: trait appuyé sous « Vendredi » seul ; « Février 1917 — » appartient à la l. 2 (même ligne de base que le tiret qui suit « froid. »), la ligne montant vers la droite
+  confiance: moyenne
+- ligne: 2
+  avant: Tjrs même temps, très froid. —
+  apres: Tjours même temps, très froid. — \hfill Février 1917 —
+  justification: T-j-o-u-r + s plongeant, jambages nets après le j ; mois reporté de la l. 1 (voir ci-dessus)
+  confiance: haute
+- ligne: 3
+  avant: Neigé abondamment durant matinée.
+  apres: Neige abondamment durant matinee
+  justification: aucun accent sur les e finaux, aucun point final
+  confiance: moyenne
+- ligne: 4
+  avant: ch.
+  apres: chz
+  justification: c-h-z, z plongeant, sans point
+  confiance: haute
+- ligne: 5
+  avant: rue La Fayette
+  apres: rue \inc{La} Fayette
+  justification: l bouclé bas puis lettre ouverte prolongée d'un délié, sans panse fermée ni jambage de a ; forme plus proche d'un e
+  confiance: moyenne
+- ligne: 6
+  avant: opératrice.
+  apres: opératrice
+  justification: long délié final, pas de point
+  confiance: moyenne
+- ligne: 8
+  avant: 'ch. Henriette : y retrouvé Margte etc.'
+  apres: 'chz Henriette : y retrouvé Marg^{te} \inc{&c}'
+  justification: chz à z plongeant ; te surélevé ; le dernier mot est une boucle + haste montante puis une panse ronde à long délié, sans e initial ni point
+  confiance: moyenne
+- ligne: 9
+  avant: Ste-Marie, vers 10h s.
+  apres: S^{te}-Marie, vers 10^{h} s.
+  justification: te et h nettement suscrits
+  confiance: haute
+- ligne: 11
+  avant: '[ — Ch. Pfister,'
+  apres: \crochet{5}chz Pfister,
+  justification: grand crochet en marge (bras horizontal en tête, pris pour un tiret), chz minuscule à z plongeant
+  confiance: haute
+- ligne: 12
+  avant: pendentif
+  apres: pendantif
+  justification: après le d, panse fermée de a liée au n
+  confiance: haute
+- ligne: 13
+  avant: 1 boîte
+  apres: \inc{1} boite
+  justification: chiffre douteux (boucle basse à gauche, haste montante) ; pas de circonflexe distinct
+  confiance: moyenne
+- ligne: 14
+  avant: '1 f 30 c. — Trams : 20 c., 10 c'
+  apres: '1^{f} 30c – Trams : 20c – , 10c'
+  justification: f suscrit au-dessus de l'intervalle 1-30 ; après 30c et après 20c, même petit tiret à mi-hauteur, puis virgule longue après 20c
+  confiance: moyenne
+- ligne: 15
+  avant: 1 f — ]
+  apres: 1^{f} —
+  justification: f suscrit ; pas de crochet fermant
+  confiance: haute
+- ligne: 16
+  avant: Tls
+  apres: Tl^{s}
+  justification: s final monté au-dessus de la ligne avec délié de tête
+  confiance: moyenne
+- ligne: 17
+  avant: Millau... Aurais préféré
+  apres: Millau. . . . Aurais preferé
+  justification: quatre points espacés ; un seul accent, sur le dernier e
+  confiance: moyenne
+- ligne: 18
+  avant: lgts
+  apres: lgs
+  justification: l + g + s descendant, sans t
+  confiance: haute
+- ligne: 19
+  avant: appartt
+  apres: appart^{t}
+  justification: t final nettement suscrit
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: Février 1917
+  analyse: ligne de base de « Février » (y ≈ .05) au niveau du tiret épais qui suit « froid. » ; « Vendredi » est à y ≈ .03 ; la l. 2 monte vers la droite ; non souligné (le trait sous-jacent est la barre du t de « matinee »)
+  alternatives:
+  - en-tête de la l. 1
+- ligne: 3
+  lemme: Neige
+  analyse: initiale à long trait d'attaque, plus haute que le e suivant ; minuscule possible
+  alternatives:
+  - neige
+- ligne: 4
+  lemme: Lersay
+  analyse: L bouclé, e, r pointu, s, a fermé, y à descente ; aucun z plongeant au milieu du mot, ce qui écarte « Lezay »
+  alternatives:
+  - Lezay
+- ligne: 5
+  lemme: La
+  analyse: l bouclé bas, puis petite lettre ouverte prolongée d'un délié (aspect e) ; la boucle au-dessus est la descente du & de la l. 4 ; « La » imposé par le nom de la rue
+  alternatives:
+  - Le
+- ligne: 8
+  lemme: '&c'
+  analyse: petite boucle à gauche + haste montant vers la droite (∂ ou & en « 4 »), puis panse ronde apparemment fermée prolongée d'un long délié (o ou c) ; lettre à lettre « do » est possible, mais le sens appelle « &c »
+  alternatives:
+  - do
+  - etc
+- ligne: 13
+  lemme: '1'
+  analyse: boucle fermée basse à gauche, haste montant à droite puis redescendant ; forme d'un d (cf. « de » en fin de ligne) ou d'un 1 à boucle d'attaque ; aucun e après
+  alternatives:
+  - d'
+  - '&'
+- ligne: 13
+  lemme: boite
+  analyse: dernière lettre fermée, d'aspect a ; barre du t longue et légèrement ondulée (circonflexe possible)
+  alternatives:
+  - boita
+  - boîte
+- ligne: 16
+  lemme: Tl^{s}
+  analyse: T à tête crochue, l bouclé, puis s montant (aspect b) posé haut, terminé par un délié horizontal
+  alternatives:
+  - Tls
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: '*La Dépêche* 2 févr. 1917 (« Neiges et glaces ») ; Barbé 1917 (p. 182). Nom du dentiste vérifié sur l''image : « Lersay » (pas de z). Bains de la place Belfort et dentiste non identifiés.'
+  alternatives: []
+controle:
+- ligne: 1
+  avant: 2 \sl{Vendredi}. \hfill Février 1917 —
+  apres: 2 \sl{Vendredi}.
+  justification: zoom [.62 0 1.0 .10] — « Février 1917 — » est sur la ligne de base de la l. 2, au niveau du tiret épais après « froid. », non sur celle de « Vendredi »
+- ligne: 2
+  avant: Tjours même temps, très froid. —
+  apres: Tjours même temps, très froid. — \hfill Février 1917 —
+  justification: report du mois à sa ligne réelle ; note de disposition ajoutée
+- ligne: 5
+  avant: rue La Fayette
+  apres: rue \inc{La} Fayette
+  justification: zoom [.03 .12 .20 .165] — la seconde lettre est ouverte, sans panse fermée de a ; « La » retenu pour le sens
+- ligne: 14
+  avant: 20c. , 10c
+  apres: 20c – , 10c
+  justification: zoom [.55 .52 1.0 .575] — après 20c, petit tiret horizontal à mi-hauteur identique à celui qui suit 30c, non un point
+- ligne: 12
+  avant: 'apparat : pendantif, graphie, pour « pendentif »'
+  apres: 'apparat : pendantif, lecture'
+  justification: faute banale, mais lecture nouvelle par rapport à l'état antérieur ; zoom [.80 .44 1.0 .50] confirme le a
+remarques: Restent incertains le « &c » de la l. 8, le « 1 » de la l. 13 et l'article « La » de la l. 5.
+resume: 'Vendredi 2 février 1917, à Toulouse : froid persistant, neige abondante le matin. Matin et soir, Hippolyte Combes est soigné chez le dentiste M. de Lersay, rue La Fayette, par une jeune opératrice ; l''après-midi, il rend visite à Mme de Labarthe puis retrouve Marguerite chez Henriette, et redescend à pied de Sainte-Marie vers 10 heures du soir. Il achète chez Pfister un remontoir en or mat Louis XVI (105 fr.) et note quelques menues dépenses (pastilles de chlorate de potasse, trams, bain place Belfort). Il regrette de quitter Toulouse et son appartement pour trois jours à Millau.'
+noms:
+  personnes:
+  - forme: M. de Lersay
+    ligne: 4
+    identite: dentiste, rue La Fayette à Toulouse
+  - forme: Mme de Labarthe
+    ligne: 7
+    identite: connaissance toulousaine
+  - forme: Henriette
+    ligne: 8
+    identite: proche de Marguerite Calmels, demeurant à Sainte-Marie
+  - forme: Marg^{te}
+    ligne: 8
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Pfister
+    ligne: 11
+    identite: bijoutier à Toulouse
+  lieux:
+  - forme: rue La Fayette
+    ligne: 5
+    identite: rue de Toulouse
+  - forme: S^{te}-Marie
+    ligne: 9
+    identite: Sainte-Marie, lieu de Toulouse ou de ses abords (non identifié avec certitude)
+  - forme: Place Belfort
+    ligne: 15
+    identite: place de Toulouse
+  - forme: Tl^{s}
+    ligne: 16
+    identite: Toulouse (Haute-Garonne)
+  - forme: Millau
+    ligne: 17
+    identite: Millau (Aveyron)
+source: contrôle

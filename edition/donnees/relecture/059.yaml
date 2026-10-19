@@ -1,0 +1,157 @@
+cliche: 59
+confiance: moyenne
+changements:
+- ligne: 6
+  avant: déjeuner
+  apres: dejeun
+  justification: le mot s'arrête sur un n plongeant suivi d'une virgule détachée ; aucun accent sur le premier e
+  confiance: haute
+- ligne: 7
+  avant: tête à tête avec
+  apres: tête à tête av
+  justification: 'a + v + long délié : trois éléments seulement (guide, piège 4)'
+  confiance: moyenne
+- ligne: 8
+  avant: Mte —
+  apres: M^{te} –
+  justification: te surélevé ; tiret court posé sur la ligne de base
+  confiance: moyenne
+- ligne: 9
+  avant: moi...
+  apres: moi . – –
+  justification: un point puis deux tirets courts
+  confiance: moyenne
+- ligne: 10
+  avant: 4 H s. Diverses
+  apres: 4^{H} s diverses
+  justification: H suscrit ; s à long délié sans point ; d minuscule en ∂
+  confiance: moyenne
+- ligne: 11
+  avant: 5 H
+  apres: 5^{H}
+  justification: H suscrit net
+  confiance: haute
+- ligne: 12
+  avant: à mon appartt
+  apres: ds mon appartt
+  justification: haste haute du d et s plongeant, aucun accent (guide, piège 15) ; vérifié au zoom ×3
+  confiance: haute
+- ligne: 14
+  avant: A Chapelle Nazareth — à 6 H [1/2 / s. ?]
+  apres: à Chapelle Nazareth – à 6^{H} \inc{\fr{1}{2}} \trait
+  justification: a minuscule accentué en tête ; tiret court ; H suscrit ; signe en Z prolongé d'un long trait
+  confiance: moyenne
+- ligne: 16
+  avant: Côte-Pavée
+  apres: Cote-Pavée
+  justification: aucun circonflexe visible sur le o
+  confiance: moyenne
+- ligne: 17
+  avant: A 9 H 30, av. Jean, partis —
+  apres: A 9^{H} 30, avec Jean, partis \trait
+  justification: H suscrit ; quatre éléments a-v-e-c, pas de point ; trait de remplissage
+  confiance: moyenne
+- ligne: 18
+  avant: étoilée — Air doux & [parfumé ?]
+  apres: étoilée – Air doux – & \inc{parfumé}
+  justification: tirets courts avant Air et après doux
+  confiance: moyenne
+- ligne: 19
+  avant: 'Trams : 10, 10, 30 – – Chapelet pr. Bne Maman : 1 f 25'
+  apres: 'Trams : 10, 10, 30 \hfill – — Chapelet pr. \inc{Bonny}. / \droite 1.25'
+  justification: un seul mot B-o-n-n-…-y suivi d'un point, pas de « Maman » ; montant 1.25 sous la ligne, sans f ni deux-points
+  confiance: moyenne
+- ligne: 3
+  avant: mélancolique
+  apres: melancolique
+  justification: aucun accent sur le premier e
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: tjs
+  analyse: 'après cme, haste plongeant vers la gauche avec petit crochet (j), puis tracé en 7 : barre de t et s descendant ; aucun jambage après le j, donc pas Tjours'
+  alternatives:
+  - ft
+  - Tjs
+- ligne: 4
+  lemme: ds
+  analyse: '∂ suivi d''une petite boucle prolongée : même tracé que « ds le petit » (l. 6), où « de » est exclu'
+  alternatives:
+  - de
+- ligne: 8
+  lemme: deviner
+  analyse: d, e, v en forme de t, i (point décalé à droite), n, finale plongeante en j pour er
+  alternatives:
+  - deviné
+- ligne: 11
+  lemme: chz
+  analyse: c, h bouclé, arche puis petite boucle et descente en ʒ ; un e distinct n'est pas assuré
+  alternatives:
+  - chez
+- ligne: 14
+  lemme: \fr{1}{2}
+  analyse: 'après 6 : H suscrit en Ƭ ; de la barre part un trait horizontal qui redescend en diagonale vers la gauche puis repart en long trait à droite (forme Z) ; pas de 1 distinct au-dessus'
+  alternatives:
+  - s.
+  - simple paraphe
+- ligne: 15
+  lemme: Ts 3
+  analyse: deux hampes unies par une barre (Ts, cf. piège 14), puis 3 à deux panses
+  alternatives:
+  - Ts
+- ligne: 18
+  lemme: parfumé
+  analyse: '& en 9 (tête fermée, descente oblique à gauche) ; puis haute boucle (p à attaque haute), a, r, seconde haute boucle (f), u, finale e allongée ; m non distinct'
+  alternatives:
+  - l'arbre
+- ligne: 19
+  lemme: Bonny
+  analyse: B à grande boucle et panse basse, o, quatre minimes environ, point ou tiret au-dessus, longue descente bouclée vers la gauche (y ou j), point final
+  alternatives:
+  - Bonniy
+  - Bonnij
+  - Bonne M.
+- ligne: 20
+  lemme: '1.25'
+  analyse: 1 à trait d'attaque, 2 empâté, 5 en ſ à longue haste ; aucun f monétaire
+  alternatives:
+  - 1 25
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1099 caractères ; sources principales : Mérimée PA00094499 (chapelle Notre-Dame-de-Nazareth, 4 rue Philippe-Féral, et non rue Pharaon), *Le Télégramme* 1916 et 1917, Baedeker 1912, acte de naissance de Marguerite (1892), *PC-Annexe* et *PC-Livre* ; renvoi à f. 33 v° pour le transport de la 54th Brigade vers Candas ; transcription p1 seulement : « Bonny » (l. 19) contredit l''ancienne lecture « Bne Maman », à revoir sur le manuscrit en même temps que « B. Mm » au f. 30 v°.'
+  alternatives: []
+controle:
+- ligne: 12
+  avant: \inc{ds} mon appartt
+  apres: ds mon appartt
+  justification: 'zoom ×3 [.06 .60 .20 .66] : ∂ à haste haute puis s descendant sous la ligne, aucun accent ; lecture assurée, \inc levé'
+remarques: 'Le montant 1.25 est compté comme l. 20 (\droite) : il est écrit sous « pr. Bonny ».'
+resume: 'Lundi 2 octobre 1916 à Toulouse, par un temps splendide. Hippolyte Combes passe la matinée dans son appartement, puis monte à Sainte-Marie vers 11 h 30 ; avant et après le déjeuner, long tête-à-tête avec Marguerite dans le petit salon. Redescendu vers 4 h, il reçoit à 5 h la visite de Marguerite et de sa mère ; chapelle de Nazareth vers 6 h 30, promenade rue d''Alsace, puis retour en tram à la Côte-Pavée. Départ à 9 h 30 avec Jean par une belle nuit étoilée. Dépenses : trams et un chapelet (1 f 25).'
+noms:
+  personnes:
+  - forme: M^{te}
+    ligne: 8
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Marg^{te}
+    ligne: 11
+    identite: Marguerite Calmels
+  - forme: Jean
+    ligne: 17
+    identite: Jean, proche d'Hippolyte Combes
+  - forme: Bonny
+    ligne: 19
+    identite: destinataire du chapelet, non identifié (lecture incertaine)
+  lieux:
+  - forme: S^{te} Marie
+    ligne: 5
+    identite: Sainte-Marie-des-Champs, Toulouse
+  - forme: Chapelle Nazareth
+    ligne: 14
+    identite: chapelle de Nazareth, Toulouse
+  - forme: rue Alsace
+    ligne: 15
+    identite: rue d'Alsace-Lorraine, Toulouse
+  - forme: Cote-Pavée
+    ligne: 16
+    identite: la Côte Pavée, quartier de Toulouse
+source: contrôle

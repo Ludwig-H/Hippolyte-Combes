@@ -1,0 +1,148 @@
+cliche: 60
+fichier: 20251126_103335.jpg
+date: Mardi 3 octobre 1916
+mois: Octobre 1916
+lieux: Toulouse et Castanet-Tolosan ? (Haute-Garonne)
+titre: Messe anniversaire pour Mlle Calmels ; marché Victor-Hugo ; visite à Mme de Labarthe
+transcription: |
+  3 \sl{Ma} \hfill Temps mervt beau \hfill \sl{Octobre /16}
+  Matin à St-Etienne, messe annivre pour
+  Mlle Calmels. A coté de Margte
+  en sortant cathle, parlé av Mme \inc{Cl} & Margte
+  rue Alsace et déjeuné à l'Automate
+  Fait \sl{ensemble} marché à Victor. Hugo
+  Separes devant magasins Capitole
+  Rentré pr qq visites & arrangt appartt
+  après déjeuner, venus av B. \inc{Mm} & Mte à
+  \inc{Castanet}. Pris tram rue de St Joseph
+  et descendus à terminus. Continué, route à
+  pied. Mme de Labarthe, charmante
+  Présenté ma Fiancée —
+  Revenus à pied. Promenade très agreable
+  Soir, vers 8^{H}, pris tram & venu voir
+  Mme \inc{Laudet} – – —
+  \blanc{2}
+  \filet
+  Trams : 20, 30 \hfill Marche V. Hugo :
+  Automate : 30 + 20 c \hfill fruits : 80 c Gatx : \inc{6}
+apparat:
+- ligne: 1
+  lemme: Ma
+  type: abreviation
+  note: mardi
+- ligne: 1
+  lemme: mervt
+  type: abreviation
+  note: merveilleusement
+- ligne: 1
+  lemme: /16
+  type: abreviation
+  note: '1916'
+- ligne: 2
+  lemme: St-Etienne
+  type: abreviation
+  note: Saint-Étienne, la cathédrale de Toulouse
+- ligne: 2
+  lemme: annivre
+  type: abreviation
+  note: anniversaire
+- ligne: 3
+  lemme: Mlle
+  type: abreviation
+  note: Mademoiselle
+- ligne: 3
+  lemme: Margte
+  type: abreviation
+  note: Marguerite (Calmels)
+- ligne: 4
+  lemme: cathle
+  type: abreviation
+  note: cathédrale
+- ligne: 4
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 4
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 4
+  lemme: \inc{Cl}
+  type: lecture
+  note: 'C suivi d''un petit l bouclé, sans point : sans doute Calmels abrégé ; autre lecture : C.'
+- ligne: 4
+  lemme: Margte
+  type: abreviation
+  note: Marguerite
+- ligne: 8
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 8
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 8
+  lemme: arrangt
+  type: abreviation
+  note: arrangement
+- ligne: 8
+  lemme: appartt
+  type: abreviation
+  note: appartement
+- ligne: 9
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 9
+  lemme: B. \inc{Mm}
+  type: lecture
+  note: 'B. net, M recoupé par un jambage de la ligne 8, m bref : sans doute Bonne-Maman (cf. 059) ; autre lecture : B. Mme'
+- ligne: 9
+  lemme: Mte
+  type: abreviation
+  note: Marguerite
+- ligne: 10
+  lemme: \inc{Castanet}
+  type: lecture
+  note: 'C, a, haste montante, jambages, t barré, e : lecture probable, non assurée ; autres lectures : Cabatel, Cobattel'
+- ligne: 10
+  lemme: St
+  type: abreviation
+  note: Saint
+- ligne: 12
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 15
+  lemme: 8^{H}
+  type: abreviation
+  note: 8 heures
+- ligne: 16
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 16
+  lemme: \inc{Laudet}
+  type: lecture
+  note: 'L, a, minimes, panse et haste (d ou ol), e, t barré ; autre lecture : Lamolet'
+- ligne: 17
+  lemme: V.
+  type: abreviation
+  note: Victor (marché Victor-Hugo)
+- ligne: 18
+  lemme: Gatx
+  type: abreviation
+  note: gâteaux
+- ligne: 18
+  lemme: \inc{6}
+  type: lecture
+  note: 'chiffre à boucle basse fermée, sans unité : 6 ; autres lectures : 3, 8'
+critique: Encre violette. Les comptes, séparés du récit par un filet terminé en pointe de flèche, sont disposés en deux colonnes ; la journée se poursuit sur la page suivante (f.~31 r\textsuperscript{o}), où d'autres dépenses précèdent une note sur la propriété de Mme de Labarthe.
+historique: |
+  La « Mlle Calmels » de la messe anniversaire n'appartient pas à la fratrie de Marguerite (\textit{PC-Annexe}) ; ce pourrait être Anne Calmels, sœur du Dr Gabriel Calmels, « célibataire, esprit religieux » (Combes 2020, p.~106). Sur l'abbé Crouzet, vicaire à la cathédrale, voir f.~29 v\textsuperscript{o}. Le marché couvert de la place Victor-Hugo, halle métallique de Joseph Galinier (1890--1892), est le plus grand des marchés couverts de 1892 (Office de tourisme de Toulouse). Les « magasins Capitole » sont les grands magasins « Au Capitole » (\textit{La Dépêche}, 8 août 1917, p.~3) ; « l'Automate », rue d'Alsace-Lorraine, n'a pas été identifié. Si la lecture « Castanet » est juste, le tram est celui de la ligne suburbaine Esquirol--Saint-Agne--Castanet (Wikipédia, « Ancien tramway de Toulouse »). Mme de Labarthe, « gde amie » visitée les 29 et 30 septembre (voir f.~28 v\textsuperscript{o}), n'est pas identifiée. « B. Mm », peut-être « Bonne-Maman », désigne sans doute Mme Calmels, nommée « Mme Cl » le matin. Mme « Laudet » (?) reste inconnue.
+sources:
+- Combes, P., étude familiale « Famille Combes » (2020), scan 2021, p. 106 ; livre familial dactylographié, annexe généalogique (Combes-annexe), archives familiales.
+- Office de tourisme de Toulouse, notice « Marché couvert Victor Hugo », toulouse-tourisme.com, consultée le 18 oct. 2026.
+- La Dépêche, 8 août 1917, p. 3, Rosalis, Bibliothèque de Toulouse.
+- Wikipédia, « Ancien tramway de Toulouse » (d'après C. Lacombe et P. Malterre, Omnibus, tramways et autobus de Toulouse, éd. du Cabri, 1983), consulté le 18 oct. 2026.

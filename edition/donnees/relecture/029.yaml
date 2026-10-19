@@ -1,0 +1,87 @@
+cliche: 29
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 26 – \hfill Août / 16
+  apres: \sl{Sam. 26 –} \hfill \sl{Aout/16}
+  justification: aucun circonflexe sur le u (la barre du t passe au-dessus) ; barre oblique serrée contre 16 ; deux soulignements nets
+  confiance: haute
+- ligne: 3
+  avant: aux murs moisis... \hfill Levé dès 7H 1/2
+  apres: ax murs moisis ... \hfill Levé dès 7H \fr{1}{2}
+  justification: a fermé lié directement au x en croix, sans minimes de u ; demi empilé (petite haste, trait de tête, panse descendante en ʒ), sans barre oblique
+  confiance: moyenne
+- ligne: 15
+  avant: d'églises
+  apres: d'eglises
+  justification: aucun accent visible sur le e (point au-dessus du mot = point du i)
+  confiance: moyenne
+- ligne: 17
+  avant: sur la route de.. – à
+  apres: sur le route de – – à
+  justification: l bouclé + e à boucle ouverte et délié, sans panse fermée de a, même tracé que « le vent » l. 12 ; après « de », deux tirets courts à mi-hauteur
+  confiance: moyenne
+- ligne: 18
+  avant: sunset
+  apres: sunset \trait
+  justification: barre du t prolongée en long trait jusqu'au bord droit
+  confiance: haute
+- ligne: 19
+  avant: installat°
+  apres: install°
+  justification: le mot s'arrête sur deux l bouclés ; la barre courte est celle du t ; suscrit en forme de 9
+  confiance: moyenne
+- ligne: 21
+  avant: quelle [torture ?]!
+  apres: quelle torture!
+  justification: t barré, o, r, t, u, r, e lisibles, puis point d'exclamation
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: 7H \fr{1}{2}
+  analyse: 'groupe surélevé au-dessus de « dès » (zoom .66 .09 .88 .14 ×3) : 7 à barre, H à deux hastes et traverse, puis courte haste, trait de tête vers la droite et panse descendante recourbée à gauche ; pas de pied net de 2 : ½ empilé (guide § 6, aspect ʒ) ou 5'
+  alternatives:
+  - 7H5
+- ligne: 18
+  lemme: l.
+  analyse: haute boucle ouverte suivie d'un point net ; « à l'horizon de laquelle (la route) très beau sunset »
+  alternatives:
+  - l'O. (l'ouest)
+- ligne: 19
+  lemme: install°
+  analyse: i, n, s, t barré, a, l, l ; suscrit petit en forme de 9 (boucle + haste), valant -ation
+  alternatives:
+  - installat°
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'JMO 7/Bedf (ordre n° 26 et journal du 26 août), Fernand-Laurent 1917 p. 225-234 (indemnités de logement, loi de 1877) : rien à reporter dans la transcription. Le nom de la route laissé en blanc (l. 17) est signalé dans l''apparat.'
+  alternatives: []
+controle:
+- ligne: 3
+  avant: aux
+  apres: ax
+  justification: zoom .00 .08 .14 .135 ×3 — panse de a refermée par son jambage, puis directement le x en croix ; aucune minime de u
+- ligne: 3
+  avant: 7H \fr{1}{2} (abreviation)
+  apres: 7H \fr{1}{2} (lecture, alternative 7H5)
+  justification: le signe final n'a pas de pied de 2 net ; lecture maintenue d'après le guide, l'alternative est signalée au lecteur
+- ligne: 17
+  avant: \inc{le}
+  apres: le
+  justification: zoom .18 .69 .35 .75 ×3 — l bouclé puis e à boucle ouverte et long délié, aucune panse fermée de a ; lecture sûre, la faute est d'auteur (note graphie)
+- ligne: 0
+  avant: 'critique : « de Marquay » d''une encre plus pâle, ajouté après coup'
+  apres: critique vide
+  justification: la même encre brune pâle touche « Cornailles », « kilomètres » et « moissonnés » (tuiles t3g, t3d) ; variation de trempage, non ajout
+remarques: 'Encre brune plus pâle sur « Cornailles », « kilomètres de Marquay », « moissonnés » : simple appauvrissement de la plume entre deux trempages, non un ajout ; la note de critique de la première lecture est retirée.'
+resume: 'Samedi 26 août 1916, à Marquay. Hippolyte Combes a bien dormi malgré une chambrette étroite aux murs moisis et s''est levé à 7 h 30. Après une matinée de fortes ondées, la pluie cesse l''après-midi ; il se promène jusqu''au village de Bailleul-aux-Cornailles, à 2 ou 3 km, par une route entre blés moissonnés et avoines, sur un plateau dominant bois et clochers. Avant un dîner tardif, il assiste à un beau coucher de soleil sur une route. Il se plaint de son logement : enfants atteints de coqueluche, maison sale et moisie.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Bailleul-aux-Cornailles
+    ligne: 8
+    identite: Bailleul-aux-Cornailles (Pas-de-Calais)
+  - forme: Marquay
+    ligne: 9
+    identite: Marquay (Pas-de-Calais)
+source: contrôle

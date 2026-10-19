@@ -1,0 +1,123 @@
+cliche: 148
+confiance: haute
+changements:
+- ligne: 1
+  avant: Merc. 7 (fin)
+  apres: merc– 7 (fin)
+  justification: m initial au module des minuscules, tiret court après merc, aucun point ; date et mois soulignés
+  confiance: haute
+- ligne: 1
+  avant: Février
+  apres: Fevrier
+  justification: aucun accent détaché au-dessus du e ; seul le point du i est visible
+  confiance: moyenne
+- ligne: 2
+  avant: n°
+  apres: 'no'
+  justification: le o est sur la ligne, au module du n
+  confiance: moyenne
+- ligne: 4
+  avant: 9h.
+  apres: 9^{H}
+  justification: H suscrit en U à haste descendante ; pas de point final
+  confiance: haute
+- ligne: 5
+  avant: épaisse
+  apres: epaisse
+  justification: aucun accent sur le e initial
+  confiance: moyenne
+- ligne: 6
+  avant: extrt
+  apres: extt
+  justification: e, x en croix, t bouclé, t barré ; aucun r ; forme extt des autres pages
+  confiance: moyenne
+- ligne: 7
+  avant: 1 f.
+  apres: 15 c.
+  justification: après le 1, haste longue à drapeau (5 en ſ) puis c et point ; 15 c est le prix du métro ailleurs (065, 132)
+  confiance: haute
+- ligne: 9
+  avant: fr.
+  apres: fr^{se}
+  justification: après fr, petit trait ondulé surélevé, non un point ; la virgule est dessous
+  confiance: moyenne
+- ligne: 11
+  avant: 'mon lunch et room : 5 f.'
+  apres: 'mon lunch : 5 f. / et varia'
+  justification: 'sous lunch, deux mots plus petits : et (e bouclé + t barré) et varia (v, a, r, i, a final en délié) ; aucun double o ni m'
+  confiance: haute
+- ligne: 17
+  avant: sur
+  apres: \inc{sur}
+  justification: 'mot noyé d''encre traversé d''un trait horizontal : pâté ou biffure'
+  confiance: moyenne
+- ligne: 17
+  avant: fenêtres
+  apres: fenetres
+  justification: le trait long au-dessus est la barre du t ; pas de circonflexe distinct
+  confiance: moyenne
+difficultes:
+- ligne: 7
+  lemme: 15 c.
+  analyse: 1 court à trait d'attaque ; haste très haute bouclée en tête vers la droite, descendant sous la ligne (5 en ſ) ; c ; point. Même tracé que « 15 c » de la l. 8 (zoom [.55 .35 .85 .41]), où le f suscrit du « 1^{f} » est une petite boucle distincte. Confirmé en p2.
+  alternatives:
+  - 1 f. c.
+- ligne: 10
+  lemme: Carluvant
+  analyse: C à boucle, a petit lié au r, l à haute boucle, deux jambages, ovale lié par le haut (o plutôt que a), n, t barré à queue plongeante (zoom [.28 .42 .66 .49]). Forme Carluvant majoritaire dans les autres pages (37 occurrences) ; Carluvont 2 fois.
+  alternatives:
+  - Carluvont
+  - Carlnont
+- ligne: 17
+  lemme: sur
+  analyse: haste montante (s initial), jambages écrasés sous un pâté, trait horizontal appuyé partant à gauche de l'attaque (zoom [0 .80 .45 .85]) ; sens « Soleil sur mes fenetres » attendu ; biffure ou simple reprise d'encre indécidable.
+  alternatives:
+  - \del{sur}
+- ligne: 4
+  lemme: 9^{H}
+  analyse: H suscrit en U dont la seconde haste descend jusqu'à la ligne de base ; non une fraction 1/2.
+  alternatives:
+  - 9 \fr{1}{2}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié sur l''image en p2 : « 15 c » (métro) et « et varia » confirmés ; le dîner à Paris n''a pas de montant propre. La solde de 78 f 75 = 15 × 5 f 25 (calcul du commentateur, repris brièvement dans critique).'
+  alternatives: []
+controle:
+- ligne: 2
+  avant: 'apparat « no » : numéro (o sur la ligne)'
+  apres: 'apparat « no » : numéro'
+  justification: précision de position inutile au lecteur, la transcription la rend déjà
+- ligne: 7
+  avant: note de lecture « 15 c. » avec description des traits
+  apres: note brève renvoyant au même tracé l. 8
+  justification: épuration de l'apparat ; lecture 15 c confirmée sur zoom (même 5 en ſ qu'à la l. 8)
+- ligne: 9
+  avant: 'apparat 78^{f}75 : « 78 francs 75 ; f suscrit au-dessus de 75 »'
+  apres: 'apparat 78^{f}75 : « 78 francs 75 »'
+  justification: la balise rend la suscription ; note épurée
+- ligne: 10
+  avant: note de lecture Carluvant avec analyse lettre à lettre
+  apres: note brève (forme des pages voisines ; o possible)
+  justification: analyse renvoyée aux difficultés ; ovale lié par le haut, Carluvont reste possible
+- ligne: 0
+  avant: critique sans mention de la solde
+  apres: critique signalant 78 f 75 = quinze jours à 5 f 25
+  justification: remarque du commentateur historique, arithmétiquement exacte (15 × 5,25 = 78,75)
+remarques: Le no 104 est le cantonnement du bureau et du mess (à Hérissart, d'après 147). Les comptes concernent le retour de permission (Paris – Amiens – Acheux).
+resume: 'Fin du mercredi 7 février 1917 à Hérissart : bureau et mess installés au n° 104, installation médiocre ; retour à la chambre vers 9 heures, vitres couvertes de gelée, froid rigoureux. Comptes du voyage de retour : métro à Paris, Y.M.C.A. d''Amiens, solde de la Mission française touchée à Acheux (78 f 75), gratification de 5 f aux Carluvant pour le déjeuner et divers. Jeudi 8 : excellente nuit dans un lit confortable, lever vers 8 heures au soleil, petit déjeuner au mess, journée entièrement libre.'
+noms:
+  personnes:
+  - forme: Carluvant
+    ligne: 10
+    identite: logeurs d'Hippolyte Combes (M. et Mme Carluvant, tailleur)
+  lieux:
+  - forme: Paris
+    ligne: 7
+    identite: Paris
+  - forme: Amiens
+    ligne: 8
+    identite: Amiens (Somme)
+  - forme: Acheux
+    ligne: 9
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

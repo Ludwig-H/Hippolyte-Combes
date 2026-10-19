@@ -1,0 +1,141 @@
+cliche: 96
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 8 Me. \hfill Novbre 1916 / Matin, course en
+  apres: \sl{8 me} matin course en \hfill \sl{Novbre 1916}
+  justification: « matin course en » est écrit au bout du soulignement de la date, sur la même ligne que « Novbre 1916 » ; me en minuscules sans point ; matin en minuscule, sans virgule ; soulignements
+  confiance: haute
+- ligne: 2
+  avant: Major Hughes & Curtis.
+  apres: major \inc{Hughs} & Curtis
+  justification: m initial minuscule ; après Hugh une seule petite lettre ronde à jambage, pas de e ; pas de point final
+  confiance: moyenne
+- ligne: 6
+  avant: frse et demandé
+  apres: fr^{se} et demander
+  justification: finale suscrite en ondulation au-dessus de fr ; demand- suivi de e et d'un r pointu montant, lié, aucun accent détaché (contrôle zoom x2)
+  confiance: haute
+- ligne: 7
+  avant: renseignements.
+  apres: renseignements
+  justification: long délié final, aucun point
+  confiance: haute
+- ligne: 8
+  avant: Retourné s/ 1 lorry.
+  apres: Retourné s/ 1 lorry \trait
+  justification: la queue du y se prolonge en long trait vers la droite ; pas de point
+  confiance: haute
+- ligne: 9
+  avant: 9 J. Matin & soir
+  apres: \sl{9 J.} matin & soir
+  justification: date soulignée d'un trait appuyé ; matin en minuscule ; & en forme de Y à pied droit reliant matin et soir
+  confiance: haute
+- ligne: 10
+  avant: 1/2 jour
+  apres: \fr{1}{2} jour
+  justification: 'fraction empilée : 1 au-dessus d''une barre, 2 bouclé dessous (zoom x3)'
+  confiance: haute
+- ligne: 13
+  avant: par Léalvillers — et dû revenir par Acheux,
+  apres: par Lealvillers – et dû revenir, par Acheux
+  justification: aucun accent sur le e ; virgule après revenir ; la marque au-dessus de la fin d'Acheux est la virgule de Varennes (l. 12)
+  confiance: haute
+- ligne: 14
+  avant: puis continuer j. à Albert.
+  apres: Puis continue j-à Albert \trait
+  justification: P majuscule ; -ue lié au j sans r ; petit trait (presque un point) entre j et à ; long trait après Albert
+  confiance: moyenne
+- ligne: 19
+  avant: marécage. Alors, ciel
+  apres: marécage — Alors, ciel
+  justification: long tiret appuyé après marécage, aucun point ; accent de marécage posé sur le c
+  confiance: haute
+- ligne: 20
+  avant: éclairci, qq étoiles, pleine lune magnifique.
+  apres: eclairci, qq etoiles, pleine lune magnifique
+  justification: aucun accent sur les e initiaux (le trait au-dessus d'eclairci est le point du i) ; pas de point
+  confiance: moyenne
+- ligne: 21
+  avant: Bombardement commence sur Albert.
+  apres: \ind Bombardement commence sur Albert \trait
+  justification: ligne en retrait ; long trait après Albert, pas de point
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: Hughs
+  analyse: H à deux hastes, u, g bouclé, h, puis une seule petite boucle fermée prolongée d'un jambage (aspect a) ; pas de boucle de e ; zoom x3 [.70 .06 .90 .11] ne tranche pas entre s réduit et a
+  alternatives:
+  - Hughes
+  - Hugha
+- ligne: 14
+  lemme: continue
+  analyse: c-o-n-t-i-n-u-e, l'e lié directement au j ; aucune bosse de r ni accent (zoom x2)
+  alternatives:
+  - continuer
+  - continué
+- ligne: 17
+  lemme: mess-hut
+  analyse: 'la 2e lettre de hut a un second jambage qui plonge vers la gauche sous la ligne (aspect y : « hyt ») ; sans doute u dont la liaison vers le t a dérapé ; non noté'
+  alternatives:
+  - hyt
+- ligne: 20
+  lemme: magnifique
+  analyse: m-a-g-n-i-f-i-q puis long délié final sans boucle, valant -ue
+  alternatives:
+  - magnifiq
+- ligne: 5
+  lemme: Délicieuse
+  analyse: 'un seul trait au-dessus de « lic » : point d''i ou accent décalé ; l''accent est gardé ; finale -euse en boucle plongeante'
+  alternatives:
+  - Delicieuse
+controle:
+- ligne: 6
+  avant: \inc{demander}
+  apres: demander
+  justification: 'zoom x2 [.58 .21 1.0 .26] : e puis r pointu montant lié, aucun accent détaché ; la lecture est assurée, note de lecture conservée car nouvelle par rapport à « demandé »'
+- ligne: 2
+  avant: (pas de note)
+  apres: 'major : emprunt, grade britannique'
+  justification: mot anglais (rang de l'armée britannique), à traduire pour le lecteur
+- ligne: 6
+  avant: 'fr^{se} : française ; finale suscrite réduite à une ondulation'
+  apres: 'fr^{se} : française'
+  justification: 'épuration de l''apparat : la description du tracé n''est pas utile au lecteur'
+- ligne: 0
+  avant: 'critique : … Blanc d''environ deux lignes entre les deux journées.'
+  apres: phrase supprimée
+  justification: le blanc est déjà rendu par \blanc{2}
+remarques: Le 2 de « 152 » (l. 18) est à peine surélevé, non balisé.
+resume: Le mercredi 8 novembre, Hippolyte Combes fait une course en auto à Forceville avec le major Hughes et Curtis, puis l'après-midi se rend en auto à Albert par Varennes, Warloy et Senlis ; il va au bureau de la Mission française demander des renseignements et rentre sur un camion. Le jeudi 9, temps couvert, un peu de soleil vers midi. L'après-midi, course en auto à Varennes par Léalvillers, retour par Acheux puis jusqu'à Albert sur des routes très boueuses. Il reste prendre le thé au mess-hut de la 152 Coy, sur un plateau changé en marécage ; le ciel s'éclaircit sous la pleine lune et un bombardement commence sur Albert.
+noms:
+  personnes:
+  - forme: Hughs
+    ligne: 2
+    identite: major Hughes, Train Office britannique
+  - forme: Curtis
+    ligne: 2
+    identite: lieutenant britannique de la 152nd Company A.S.C.
+  lieux:
+  - forme: Forceville
+    ligne: 2
+    identite: Forceville (Somme)
+  - forme: Albert
+    ligne: 3
+    identite: Albert (Somme)
+  - forme: Varennes
+    ligne: 4
+    identite: Varennes (Somme)
+  - forme: Warloy
+    ligne: 4
+    identite: Warloy-Baillon (Somme)
+  - forme: Senlis
+    ligne: 4
+    identite: Senlis-le-Sec (Somme)
+  - forme: Lealvillers
+    ligne: 13
+    identite: Léalvillers (Somme)
+  - forme: Acheux
+    ligne: 13
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

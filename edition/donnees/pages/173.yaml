@@ -1,0 +1,118 @@
+cliche: 173
+fichier: 20251126_111439.jpg
+date: Lundi 26 – mercredi 28 mars 1917
+mois: Mars 1917
+lieux: Hérissart, Rubempré et Puchevillers (Somme)
+titre: Passage de Monin et de sa compagnie ; giboulées et neige ; les troupes quittent Hérissart
+transcription: |
+  26 \sl{Lundi} \hfill \sl{Mars /17}
+  \ind Tt jour, pluie, intermitt^{te}. Rues & routes,
+  état lamentable, transformées en cloaque.
+  On patauge boue j. à la cheville
+  \ind Monin \inc{arrivé} village av sa Coy pr cantonner
+  une nuit. L'ai revu avec gd plaisir. Passé ensemble
+  plus. heures, après-midi. L'ai trouvé vieilli, enlaidi, \inc{usé}.
+  \blanc{2}
+  \sl{27 mardi} –
+  \ind[2] Giboulées. Tour à tour averses et chutes
+  abondantes de neige. Fin après-midi,
+  gros flocons durant 1 h
+  \ind matinée course à pied à Rubempré
+  après-midi, venus à Puchevillers. Routes détrempées
+  affrt boueuses \trait
+  \ind Troupes quitté village à l'aube. Tout le jour,
+  restés \add{presq} sans troupes. Village, redevenu très calme. —
+  \blanc{1}
+  28 \sl{Merc.}
+  \ind Liberté, tout le jour.
+  Froid assz vif. Pluie & neige, intermittentes \trait
+  Fin après-midi, promenade s/ route de Puchevillers
+  Temps funebre. Ciel nuageux. Horizon, noyé ds
+  la brume —
+apparat:
+- ligne: 1
+  lemme: Mars /17
+  type: abreviation
+  note: mars 1917
+- ligne: 2
+  lemme: Tt
+  type: abreviation
+  note: tout
+- ligne: 2
+  lemme: intermitt^{te}
+  type: abreviation
+  note: intermittente
+- ligne: 2
+  lemme: intermitt^{te}
+  type: lecture
+  note: finale suscrite de deux lettres, lue te ; en possible
+- ligne: 4
+  lemme: j. à
+  type: abreviation
+  note: jusqu'à
+- ligne: 5
+  lemme: \inc{arrivé}
+  type: lecture
+  note: lecture incertaine ; la transcription antérieure portait « traversé »
+- ligne: 5
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 5
+  lemme: Coy
+  type: emprunt
+  note: 'Company : compagnie'
+- ligne: 5
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 6
+  lemme: gd
+  type: abreviation
+  note: grand
+- ligne: 7
+  lemme: plus.
+  type: abreviation
+  note: plusieurs
+- ligne: 7
+  lemme: \inc{usé}
+  type: lecture
+  note: mot serré au bord de la page ; « us. » possible
+- ligne: 14
+  lemme: affrt
+  type: abreviation
+  note: affreusement
+- ligne: 16
+  lemme: \add{presq}
+  type: ajout
+  note: écrit sous la ligne, entre « restés » et « sans »
+- ligne: 16
+  lemme: presq
+  type: abreviation
+  note: presque
+- ligne: 17
+  lemme: Merc.
+  type: abreviation
+  note: mercredi
+- ligne: 19
+  lemme: assz
+  type: abreviation
+  note: assez
+- ligne: 20
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 21
+  lemme: ds
+  type: abreviation
+  note: dans
+historique: |
+  Monin, que Combes revoit « avec gd plaisir » et dont il note « sa Coy », n'est pas identifié ; c'est sans doute, comme lui, un interprète attaché à une compagnie britannique de passage. Ce même 26 mars, la 18th Division, que Combes a quittée le 2 novembre, embarque à Saleux pour un mois de repos dans la région d'Aire et d'Hazebrouck (JMO 7/Bedf, 26-27 mars 1917 ; Nichols 1922, p.~166). Le départ des troupes d'Hérissart à l'aube du 27 accompagne le glissement des états-majors vers l'est et le nord : le 27, le QG du II Corps quitte Senlis pour Pernes ; le 28, celui de la Fifth Army quitte Toutencourt, à 3 km, pour Albert (LLT). Les hôpitaux d'évacuation suivent : à Puchevillers, les 3rd et 44th CCS, présentes depuis 1916, s'en vont en mars et la 61st (South Midland) CCS n'y reste que jusqu'en mai (LLT ; CWGC). Les rues « transformées en cloaque » répondent aux routes « presque ruinées après la mi-mars » par le trafic et l'alternance du gel et du dégel (OH 1917-I, p.~151).
+sources:
+- Bedfordshire Archives Service, War Diary, 7th (Service) Battalion Bedfordshire Regiment, mars 1917 (JMO 7/Bedf).
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 166.
+- The Long, Long Trail (C. Baker), « The British II Corps in France and Flanders », copie Wayback du 6 nov. 2024.
+- The Long, Long Trail (C. Baker), « The British Fifth or Reserve Army 1916-1918 », copie Wayback du 23 juil. 2024.
+- The Long, Long Trail (C. Baker), « Locations of British Casualty Clearing Stations », copie Wayback du 13 janv. 2018.
+- Commonwealth War Graves Commission, Puchevillers British Cemetery, notice historique (consultée le 17 oct. 2026).
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 151.

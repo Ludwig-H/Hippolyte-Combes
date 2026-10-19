@@ -1,0 +1,189 @@
+cliche: 57
+fichier: 20251126_103247.jpg
+date: Samedi 30 septembre 1916
+mois: Septembre 1916
+lieux: Toulouse (Haute-Garonne)
+titre: Clocher de Montaudran et ses cinq cloches ; serments au cimetière de Terre-Cabade
+transcription: |
+  \sl{30 Samedi.} \hfill \sl{Septb /16}
+  \ind Tout le jour, temps \inc{pluvx}. Fine ondée qui dure peu
+  Matin – venu voi Mme de Labarthe, au 12.. \inc{A}
+  pour cette amie, attachemt profond.. –
+  Monté à Ste Marie vers 11^{H} \fr{1}{2} –
+  Dans petit salon, qq minutes de tête à-tête \inc{delicieux}
+  av Margte.. –
+  Après-midi, promenade à pied au village
+  de Montaudran. Reposé ds l'eglise. Monté à la
+  tribune puis au clocher, par escalier très
+  raide & très étroit, presque 1 echelle. Là-haut,
+  très b. vue panoramique de la plaine du Lauraguais
+  Paysage nullement banal. Verdure & lignes d'arbres
+  clochers de village, à l'horizon – — Ciel tout
+  couvert de nuages noirs –
+  Fait vibrer chacune des 5 cloches d'airain – –
+  Sons différents & très mélodieux – p. \inc{Remq} &
+  \ind Continué promenade j-au Cimetière de
+  Terre-Cabade. Admiré tombeau imité d'un
+  temple grec
+  \inc{Venus} devant caveau des P.P. Jésuites & celui du
+  P. Marie-Antoine. Margte & moi, echangé serments
+  profondt émus au souvenir de notre gd ami & de Josèphe
+  Retour du cimetière à pied par rues & chemins de
+  traverse – Pluie cessé bientot & soleil couché
+  \ind horizon nuageux
+  \filet
+  Tram : 20c. – Sweets & cakes : 3f – Bière & \add{limonade} 0.80c.
+apparat:
+- ligne: 1
+  lemme: Septb /16
+  type: abreviation
+  note: septembre 1916
+- ligne: 2
+  lemme: pluvx
+  type: lecture
+  note: pluvieux, forme abrégée non assurée ; état antérieur pluvieux en toutes lettres
+- ligne: 2
+  lemme: Fine ondée qui dure peu
+  type: lecture
+  note: singulier sur l'image ; état antérieur Fines ondées qui durent peu
+- ligne: 3
+  lemme: voi
+  type: graphie
+  note: pour voir (r omis)
+- ligne: 3
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 3
+  lemme: A
+  type: lecture
+  note: lettre isolée, sans i ; on attend Ai (j'ai) ; autre lecture possible &
+- ligne: 4
+  lemme: attachemt
+  type: abreviation
+  note: attachement
+- ligne: 5
+  lemme: Ste
+  type: abreviation
+  note: Sainte
+- ligne: 5
+  lemme: 11^{H} \fr{1}{2}
+  type: abreviation
+  note: onze heures et demie
+- ligne: 6
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 6
+  lemme: delicieux
+  type: lecture
+  note: délicieux, mot très écrasé (d-e-l-i-c + finale en x) ; autre lecture délicis
+- ligne: 7
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 7
+  lemme: Margte
+  type: abreviation
+  note: Marguerite
+- ligne: 9
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 11
+  lemme: '1'
+  type: abreviation
+  note: une
+- ligne: 12
+  lemme: b.
+  type: abreviation
+  note: belle
+- ligne: 13
+  lemme: d'arbres
+  type: disposition
+  note: fin du mot rejetée en petit dans la marge droite, au-dessus de tout (l. 14)
+- ligne: 14
+  lemme: village, à l'horizon
+  type: lecture
+  note: état antérieur villages s/ l'horizon
+- ligne: 17
+  lemme: p. Remq
+  type: lecture
+  note: lecture non assurée (p. Remy, p. Rem.) ; sens obscur
+- ligne: 18
+  lemme: j-au
+  type: abreviation
+  note: jusqu'au
+- ligne: 19
+  lemme: Terre-Cabade
+  type: graphie
+  note: cimetière de Terre-Cabade, à Toulouse ; le second élément a l'aspect Corbade
+- ligne: 21
+  lemme: Venus
+  type: lecture
+  note: s final en trait vertical, accordé avec Margte & moi ; état antérieur Venu
+- ligne: 21
+  lemme: P.P.
+  type: abreviation
+  note: Pères
+- ligne: 22
+  lemme: P.
+  type: abreviation
+  note: Père
+- ligne: 22
+  lemme: Margte
+  type: abreviation
+  note: Marguerite
+- ligne: 22
+  lemme: echangé
+  type: signe
+  note: milieu du mot noyé sous un pâté d'encre, non une rature
+- ligne: 23
+  lemme: profondt
+  type: abreviation
+  note: profondément
+- ligne: 23
+  lemme: gd
+  type: abreviation
+  note: grand
+- ligne: 25
+  lemme: cessé
+  type: lecture
+  note: accent sur la finale (la pluie a cessé) ; état antérieur cesse
+- ligne: 26
+  lemme: horizon nuageux
+  type: disposition
+  note: écrit plus petit sous la l. 25 et traversé par le filet qui précède le compte
+- ligne: 27
+  lemme: 20c.
+  type: abreviation
+  note: vingt centimes
+- ligne: 27
+  lemme: Sweets
+  type: emprunt
+  note: confiseries
+- ligne: 27
+  lemme: cakes
+  type: emprunt
+  note: gâteaux
+- ligne: 27
+  lemme: 3f
+  type: abreviation
+  note: trois francs
+- ligne: 27
+  lemme: limonade
+  type: ajout
+  note: écrit au-dessus de la ligne, le montant au-dessous, en bout de ligne
+- ligne: 27
+  lemme: 0.80c.
+  type: abreviation
+  note: quatre-vingts centimes
+critique: Encre violette.
+historique: |
+  Sur Mme de Labarthe, voir f.~28 v\textsuperscript{o}. Montaudran, paroisse rattachée à Toulouse avant 1794, voisine de la Côte-Pavée (voir f.~27 v\textsuperscript{o}), a une église Saint-Étienne d'origine médiévale, remaniée en 1696 (Wikipédia). Le cimetière de Terre-Cabade, ouvert en 1840 sur le coteau de Jolimont, garde le tombeau d'Aristide Bergès (1835--1904), « en forme de temple antique » (Wikipédia) : peut-être celui que décrit Combes. Le capucin Marie-Antoine, mort en février 1907, y fut porté devant « plus de cinq mille personnes » (\textit{L'Express du Midi}, 11 févr. 1907, p.~2). « Josèphe » est Joséphine Combes, sœur aînée de Combes, morte en octobre 1914 selon la tradition familiale (PC-Bio). Le « grand ami » est très probablement le P. Alfred d'Adhémar de Cransac, supérieur des jésuites de Toulouse en 1912 (\textit{Le Télégramme}, 23 nov. 1912, p.~3), mort le 16 septembre 1914 (\textit{L'Express du Midi}, 18 sept. 1914, p.~2), dont la photographie fut épinglée sur la robe mortuaire de Joséphine (PC-Bio) ; son inhumation au caveau des jésuites reste une hypothèse.
+sources:
+- Wikipédia, art. « Montaudran » et « Cimetière de Terre-Cabade », consultés le 18 oct. 2026.
+- L'Express du Midi (Toulouse), 11 févr. 1907, p. 2 (obsèques du P. Marie-Antoine) (Rosalis, ark:/12148/bpt6k53687164).
+- L'Express du Midi (Toulouse), 18 sept. 1914, p. 2 (faire-part du P. Alfred d'Adhémar de Cransac) et 19 sept. 1914, p. 2 (obsèques) (Rosalis, ark:/12148/bpt6k53841631, bpt6k5384164f).
+- Le Télégramme (Toulouse), 23 nov. 1912, p. 3.
+- Combes, Pierre, « Mon grand-père Hippolyte Combes (et ses sœurs) », biographie familiale dactylographiée, s. d.

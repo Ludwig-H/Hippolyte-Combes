@@ -1,0 +1,189 @@
+cliche: 111
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 15 Vendredi — \hfill Décbre 1916
+  apres: \sl{15 Vendr} – \hfill Déc.^{b} \sl{1916}
+  justification: après le d bouclé, un seul crochet (r) ; tiret court ; à droite D en J, e, c sous un accent en croissant, point bas, petite haste à pied (b suscrit) ; soulignements sous 15 Vendr et sous 1916 (tiré bas, depuis le point de Déc.)
+  confiance: moyenne
+- ligne: 2
+  avant: Neigé 1 peu durant nuit.
+  apres: \ind neigé 1 peu durant nuit.
+  justification: n initial au module des minuscules ; ligne commencée à x ≈ 0,09 contre 0,04–0,05
+  confiance: moyenne
+- ligne: 3
+  avant: chaussées, recouvertes [addition interlinéaire illis.]
+  apres: chaussees, recouvertes \add{\inc{ruisseaux}}
+  justification: 'aucun accent sur chaussees ; sous recouvertes : r, u, i, s long descendant, e, a fermé, croix finale (x)'
+  confiance: basse
+- ligne: 4
+  avant: couche de boue liquide.
+  apres: couche de boue liquide
+  justification: long délié final, aucun point
+  confiance: moyenne
+- ligne: 5
+  avant: Pas quitté
+  apres: \ind Pas quitté
+  justification: ligne commencée à x ≈ 0,09
+  confiance: moyenne
+- ligne: 6
+  avant: lgts
+  apres: lgs
+  justification: l bouclé puis g et s pris dans le jambage du q de quitté (l. 5) ; aucune barre de t
+  confiance: moyenne
+- ligne: 7
+  avant: bcp
+  apres: bp
+  justification: b et p liés, aucun c (piège 1 du guide)
+  confiance: haute
+- ligne: 8
+  avant: 18 L. — Auj'd'hui, comme hier,
+  apres: \sl{18 L.} – Aujd'hui, come hier,
+  justification: 'date soulignée ; tiret court ; la boucle entre j et d est la haste rejetée en arrière du d, non une apostrophe ; une seule apostrophe après le d ; come : c, o, trois jambages, e'
+  confiance: moyenne
+- ligne: 9
+  avant: en auto à Belle-Église, Arquèves,
+  apres: \ind[4] en auto à Belle Eglise, Arquèves,
+  justification: ligne commencée à x ≈ 0,25, après le soulignement de 18 L. ; le délié final de Belle se relève sans trait d'union ; E sans accent
+  confiance: haute
+- ligne: 11
+  avant: Quesnoy.
+  apres: Quesnoy
+  justification: la descente du y se retourne en délié horizontal ; aucun point
+  confiance: moyenne
+- ligne: 12
+  avant: Sur les routes, très mauvais état, voiture
+  apres: Sur les routes en très mauvais etat, voiture
+  justification: aucune virgule après routes ; en petit et pâle entre routes et très ; la crosse au-dessus de etat est liée à la haste du premier t
+  confiance: moyenne
+- ligne: 13
+  avant: 'ressaute : on est'
+  apres: ressaute. On est
+  justification: un seul point bas après ressaute ; O plus haut que le n
+  confiance: moyenne
+- ligne: 14
+  avant: d'1 côté et d'autre. Fatigue extrême.
+  apres: de côté et d'autre. Fatigue extrême
+  justification: d bouclé puis e en boucle ouverte, sans apostrophe ni 1 ; extrême finit en long délié sans point
+  confiance: moyenne
+- ligne: 15
+  avant: Tjrs même temps, ciel brumeux,
+  apres: \ind Tjours même temps, ciel brumeux
+  justification: jambages o-u-r-s après le j (piège 3) ; ligne en retrait ; aucune virgule après le paraphe du x
+  confiance: haute
+- ligne: 16
+  avant: chaussées luisantes de boue liquide.
+  apres: chaussees luisantes de boue liquide
+  justification: aucun accent sur chaussees ; aucun point après liquide
+  confiance: moyenne
+- ligne: 18
+  avant: cheville.
+  apres: cheville
+  justification: aucun point après le délié final
+  confiance: moyenne
+- ligne: 19
+  avant: Jours se suivent
+  apres: \ind[2] Jours se suivent
+  justification: ligne commencée à x ≈ 0,14
+  confiance: haute
+- ligne: 20
+  avant: Occupations
+  apres: occupations
+  justification: o initial de la hauteur du c qui suit
+  confiance: moyenne
+- ligne: 21
+  avant: off. — 1 cap. de 20 ans, présomptueux & vain —
+  apres: off. ( 1 cap. de 20 ans, présomptueux & vain )
+  justification: 'traits fins, incurvés ou obliques, hauts et descendant sous la ligne : parenthèses encadrant l''incise, non des tirets'
+  confiance: moyenne
+- ligne: 23
+  avant: '[ — Cartes ples : 25 c ]'
+  apres: '\ind — Cartes ples : 25c'
+  justification: un tiret long à crochet final ouvre le compte ; aucun crochet ; rien après le long délié du c
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: \add{\inc{ruisseaux}}
+  analyse: 'mot écrit sous recouvertes, au niveau de la l. 4, même encre : délié d''attaque et pointe (r ou v), deux jambages (u ou i + s), jambage droit descendant sans boucle, à tête en V (s long, q ou g : les g de village et Fatigue sont aussi sans boucle sur cette page), petite boucle (e), panse fermée à jambage (a plutôt que u), croix finale (x) ; -eaux s''accorde mieux aux traits que -ueux, mais aucune lecture n''est satisfaisante pour le sens (ni accord avec couche ni place claire dans la phrase)'
+  alternatives:
+  - ruisseaux
+  - rugueux
+  - visqueux
+  - visqueuse
+- ligne: 1
+  lemme: Déc.^{b}
+  analyse: 'après le D en J et l''e plein, croissant épais au-dessus du c (accent décalé) ; point bas ; petite haste montante à pied tourné à droite, au-dessus de l''œil : b suscrit pour -bre (même forme qu''en 110)'
+  alternatives:
+  - Déc.^{b}
+  - Déc.^{bre}
+- ligne: 6
+  lemme: lgs
+  analyse: l bouclé net ; la suite est recouverte par le jambage épais du q de quitté (l. 5) ; un second jambage plus fin et une descente sous la ligne (g) ; ni barre ni t visibles
+  alternatives:
+  - lgs
+  - lgt
+- ligne: 12
+  lemme: en
+  analyse: 'e et n en traits fins, encre plus pâle, base un peu plus basse que celle de routes et de très, dans un blanc étroit : ajout probable, une reprise de plume n''est pas exclue'
+  alternatives:
+  - en (ajouté)
+  - en
+- ligne: 14
+  lemme: côté
+  analyse: 'court trait horizontal à gauche du sommet du t, sans le traverser : circonflexe décalé plutôt que barre du t ; accent de l''é final non distinct dans le long délié'
+  alternatives:
+  - côté
+  - coté
+- ligne: 20
+  lemme: de mon
+  analyse: 'le trait vertical entre de et mon prolonge la descente oblique de l''& de la l. 19 ; mon : m, o, n final plongeant sous la ligne ; d''un écarté'
+  alternatives:
+  - de mon
+  - d'un
+- ligne: 21
+  lemme: ( 1 cap.
+  analyse: 'après off. et son point, deux traits fins incurvés : le premier, plus court, parenthèse ouvrante ; le second, plus haut, 1 (un) sans trait d''attaque ; après vain, trait oblique isolé descendant sous la ligne : parenthèse fermante'
+  alternatives:
+  - ( 1 cap.
+  - 1 cap.
+controle:
+- ligne: 3
+  avant: recouvertes \add{\inc{rugueux}}
+  apres: recouvertes \add{\inc{ruisseaux}}
+  justification: 'après le jambage descendant, petite boucle (e) puis panse fermée à jambage (a) et croix finale : -eaux plutôt que -ueux ; le jambage droit sans boucle convient à un s long (cf. Mais, l. 2) ; doute maintenu, rugueux et visqueux en alternatives'
+- ligne: 1
+  avant: apparat de 49 notes (justifications paléographiques, accents absents, ponctuation, disposition déjà rendue par le balisage)
+  apres: 'apparat de 24 notes : abréviations, emprunt, ajouts, lectures nouvelles ou incertaines'
+  justification: épuration selon la règle de l'apparat imprimé ; analyses reportées dans changements et difficultes, état matériel (pâté, encre pâlie, soulignement tiré bas) dans critique
+- ligne: 21
+  avant: notes signe sur ( 1 cap. et vain ) ; 1 non développé
+  apres: une note lecture sur les parenthèses (tirets de l'état antérieur) ; 1 cap. développé en un capitaine
+  justification: lecture nouvelle par rapport à l'état antérieur ; le 1 mis pour un se développe
+- ligne: 21
+  avant: noms.personnes vide ; capitaine rattaché à Williams par hypothèse (cf. 109)
+  apres: 'Williams identifié (cf. 107 : nouvel off., Cap. Williams, 20 ans)'
+  justification: le cliché 107 donne l'âge de vingt ans au nouvel officier de Combes
+remarques: Le capitaine de vingt ans (l. 21) est le capitaine Williams, présenté en 107 comme « nouvel off., Cap. Williams, 20 ans ». Le mot écrit sous recouvertes (l. 3) reste indécis entre ruisseaux, rugueux et visqueux ; la première lecture proposait rugueux.
+resume: 'Le vendredi 15 décembre 1916, après un peu de neige dans la nuit, une pluie fine a tout fait fondre dans la matinée et les chaussées sont couvertes de boue liquide ; Combes ne quitte pas le village, reste longtemps au bureau devant le brasero ou dans sa chambre et lit beaucoup pour se distraire. Le lundi 18, comme la veille, il fait en auto des courses à Belle-Église, Arquèves, Raincheval, Toutencourt et à la ferme du Quesnoy ; sur des routes en très mauvais état la voiture ressaute, on est jeté de côté et d''autre, d''où une fatigue extrême. Le temps reste brumeux, les chaussées luisantes de boue, et l''on patauge par endroits jusqu''à la cheville. Les journées se suivent, monotones, et Combes trouve peu agréable la société de son officier, un capitaine de vingt ans présomptueux et vain (le capitaine Williams, cf. 107). Dépense : cartes postales, 25 c.'
+noms:
+  personnes:
+  - forme: cap.
+    ligne: 21
+    identite: capitaine Williams, officier de Combes depuis début décembre 1916, âgé de vingt ans (cf. 107)
+  lieux:
+  - forme: Belle Eglise
+    ligne: 9
+    identite: Belle-Église (Somme), ferme d'Arquèves (cf. 109)
+  - forme: Arquèves
+    ligne: 9
+    identite: Arquèves (Somme)
+  - forme: Raincheval
+    ligne: 10
+    identite: Raincheval (Somme)
+  - forme: Toutencourt
+    ligne: 10
+    identite: Toutencourt (Somme)
+  - forme: Quesnoy
+    ligne: 11
+    identite: ferme du Quesnoy (Somme), non localisée avec certitude ; revient en 112, 113, 115, 116, 118
+source: contrôle

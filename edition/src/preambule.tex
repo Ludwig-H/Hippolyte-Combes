@@ -1,0 +1,391 @@
+% !TEX program = xelatex
+% Préambule de l'édition du Livre-Journal d'Hippolyte Combes (généré par edition/src/generer.py)
+\documentclass[10pt,twoside,openany]{book}
+\usepackage[paperwidth=160mm,paperheight=226mm,inner=10.5mm,outer=8.5mm,top=7.5mm,bottom=8.5mm,
+            includehead,headheight=10pt,headsep=2.6mm,nofoot]{geometry}
+\usepackage{fontspec}
+\setmainfont{LibertinusSerif}[
+  Extension = .otf,
+  UprightFont = *-Regular,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold,
+  BoldItalicFont = *-BoldItalic,
+  Ligatures = {Common, Historic, TeX},
+  Numbers = OldStyle,
+  SmallCapsFeatures = {Letters=SmallCaps}
+]
+\setsansfont{LibertinusSans}[
+  Extension = .otf,
+  UprightFont = *-Regular,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold
+]
+% Transcription diplomatique : sans ligatures historiques, chiffres alignés
+\newfontfamily\LJpolice{LibertinusSerif}[
+  Extension = .otf,
+  UprightFont = *-Regular,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold,
+  BoldItalicFont = *-BoldItalic,
+  Ligatures = {Common, TeX},
+  Numbers = Lining
+]
+\newfontfamily\LJchiffres{LibertinusSerif}[
+  Extension = .otf, UprightFont = *-Regular, BoldFont = *-Bold, Numbers = Lining]
+\usepackage[french]{babel}
+\frenchsetup{StandardItemLabels=true}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage[table]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{decorations.pathreplacing,calc,positioning,arrows.meta}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{array,booktabs,longtable,multicol}
+\usepackage{enumitem}
+\usepackage{xparse}
+\usepackage[hyphens]{url}
+\usepackage{metalogo}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=black!70!red,
+  pdfauthor={Louis Hauseux (éd.)},
+  pdftitle={Hippolyte Combes, Livre-Journal (25 juillet 1916 – 30 avril 1917). Édition avec fac-similés, commentaire critique et historique, et illustrations}}
+
+\definecolor{LJgris}{gray}{0.35}
+\definecolor{LJfilet}{gray}{0.55}
+\definecolor{LJencre}{gray}{0.05}
+
+\setlength{\parindent}{1.1em}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
+\frenchspacing
+\widowpenalty=10000 \clubpenalty=10000
+
+% ---------------------------------------------------------------------------
+% Titres
+% ---------------------------------------------------------------------------
+\titleformat{\chapter}[display]{\normalfont\centering}
+  {\small\scshape\MakeLowercase{\chaptertitlename}~\Roman{chapter}}{2mm}
+  {\Large\scshape}[\vspace{1mm}\rule{18mm}{0.4pt}]
+\titlespacing*{\chapter}{0pt}{0mm}{6mm}
+\titleformat{\section}{\normalfont\large\scshape}{\thesection.}{0.6em}{}
+\titleformat{\subsection}{\normalfont\itshape}{}{0em}{}
+\titlespacing*{\section}{0pt}{4mm}{2mm}
+\titlespacing*{\subsection}{0pt}{3mm}{1mm}
+\renewcommand{\thechapter}{\Roman{chapter}}
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\makeatletter
+\renewcommand*\l@chapter[2]{%
+  \ifnum \c@tocdepth >\m@ne
+    \addpenalty{-\@highpenalty}%
+    \vskip 1.0em \@plus\p@
+    \setlength\@tempdima{2.2em}%
+    \begingroup
+      \parindent \z@ \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode \bfseries
+      \advance\leftskip\@tempdima
+      \hskip -\leftskip
+      #1\nobreak\hfil
+      \nobreak\hb@xt@\@pnumwidth{\hss #2\kern-\p@\kern\p@}\par
+      \penalty\@highpenalty
+    \endgroup
+  \fi}
+\makeatother
+\setcounter{secnumdepth}{1}
+
+% ---------------------------------------------------------------------------
+% En-têtes courants
+% ---------------------------------------------------------------------------
+\newcommand{\LJmois}{}
+\newcommand{\LJfolio}{}
+\newcommand{\LJtitrecourant}{\textsc{Hippolyte Combes} — \textit{Livre-Journal}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\footnotesize\LJchiffres\thepage\hfill\LJtitrecourant\hfill\LJmois}
+\fancyhead[RO]{\footnotesize\LJmois\hfill\LJfolio\hfill\LJchiffres\thepage}
+\renewcommand{\headrulewidth}{0.3pt}
+\fancypagestyle{plain}{\fancyhf{}\fancyhead[LE,RO]{\footnotesize\LJchiffres\thepage}\renewcommand{\headrulewidth}{0pt}}
+\fancypagestyle{vide}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}}
+
+% saut vers une page paire (gauche), pour garantir le vis-à-vis
+\newcommand{\LJpagepaire}{\clearpage\ifodd\value{page}\hbox{}\thispagestyle{vide}\newpage\fi}
+\newcommand{\LJpageimpaire}{\clearpage\ifodd\value{page}\else\hbox{}\thispagestyle{vide}\newpage\fi}
+
+% ---------------------------------------------------------------------------
+% Signes diplomatiques (en ligne)
+% ---------------------------------------------------------------------------
+\newlength{\LJsoul}
+\newcommand{\LJsl}[1]{\setbox0\hbox{#1}\rlap{\rule[-0.32ex]{\wd0}{0.42pt}}\box0\relax}
+\newcommand{\LJsll}[1]{\setbox0\hbox{#1}\rlap{\rule[-0.32ex]{\wd0}{0.42pt}}\rlap{\rule[-0.62ex]{\wd0}{0.42pt}}\box0\relax}
+\newcommand{\LJsup}[1]{\textsuperscript{#1}}
+\newcommand{\LJdel}[1]{\setbox0\hbox{#1}\rlap{\rule[0.55ex]{\wd0}{0.5pt}}\box0\relax}
+\newcommand{\LJsur}[1]{#1}
+\newcommand{\LJadd}[1]{\textsuperscript{\textbackslash{}#1/}}
+\newcommand{\LJaddm}[1]{\textsuperscript{\textbackslash{}#1/}}
+\newcommand{\LJinc}[1]{#1\kern0.06em\textsuperscript{\textup{\color{LJgris}?}}}
+\NewDocumentCommand{\LJill}{m}{[\textit{\ifx\relax#1\relax illis.\else #1~mots illis.\fi}]}
+\newcommand{\LJlac}{[\textit{lacune}]}
+\newcommand{\LJtrait}{\leaders\hbox{\rule[0.48ex]{1pt}{0.42pt}}\hfill\kern0.2em}
+\newcommand{\LJfrac}[2]{\textsuperscript{#1}\kern-0.05em/\kern-0.05em\textsubscript{#2}}
+
+% ---------------------------------------------------------------------------
+% Double page : transcription (page paire) / fac-similé (page impaire)
+% ---------------------------------------------------------------------------
+\newlength{\LJcol}       \setlength{\LJcol}{88mm}   % colonne de transcription
+\newlength{\LJgap}       \setlength{\LJgap}{4mm}  % gouttière
+\newlength{\LJappw}                                 % colonne d'apparat
+\newlength{\LJpitch}                                % interligne de la transcription
+\newlength{\LJappsep}    \setlength{\LJappsep}{0.9pt}
+\newdimen\LJappcur
+\newbox\LJboxT \newbox\LJboxA \newbox\LJboxP \newbox\LJboxN
+\newcount\LJessai
+\newcommand{\LJtaille}{}
+\newcommand{\LJlabelcourant}{}
+\newcommand{\LJpoliceapp}{}
+\newcommand{\LJpolicereg}{}
+
+% Jeux de tailles, du plus grand au plus petit : <transcription>/<interligne> ; apparat ; registres
+\newcommand{\LJjeu}[1]{%
+  \ifcase#1\or
+    \renewcommand{\LJtaille}{\fontsize{11pt}{13.8pt}\selectfont}\setlength{\LJpitch}{13.8pt}%
+    \renewcommand{\LJpoliceapp}{\fontsize{8.2pt}{9.6pt}\selectfont}%
+    \renewcommand{\LJpolicereg}{\fontsize{8.6pt}{10.4pt}\selectfont}%
+  \or
+    \renewcommand{\LJtaille}{\fontsize{10.5pt}{13.1pt}\selectfont}\setlength{\LJpitch}{13.1pt}%
+    \renewcommand{\LJpoliceapp}{\fontsize{8pt}{9.3pt}\selectfont}%
+    \renewcommand{\LJpolicereg}{\fontsize{8.4pt}{10.1pt}\selectfont}%
+  \or
+    \renewcommand{\LJtaille}{\fontsize{10pt}{12.5pt}\selectfont}\setlength{\LJpitch}{12.5pt}%
+    \renewcommand{\LJpoliceapp}{\fontsize{7.8pt}{9.1pt}\selectfont}%
+    \renewcommand{\LJpolicereg}{\fontsize{8.2pt}{9.8pt}\selectfont}%
+  \or
+    \renewcommand{\LJtaille}{\fontsize{9.5pt}{11.9pt}\selectfont}\setlength{\LJpitch}{11.9pt}%
+    \renewcommand{\LJpoliceapp}{\fontsize{7.6pt}{8.8pt}\selectfont}%
+    \renewcommand{\LJpolicereg}{\fontsize{8pt}{9.5pt}\selectfont}%
+  \or
+    \renewcommand{\LJtaille}{\fontsize{9pt}{11.2pt}\selectfont}\setlength{\LJpitch}{11.2pt}%
+    \renewcommand{\LJpoliceapp}{\fontsize{7.3pt}{8.5pt}\selectfont}%
+    \renewcommand{\LJpolicereg}{\fontsize{7.7pt}{9.2pt}\selectfont}%
+  \or
+    \renewcommand{\LJtaille}{\fontsize{8.6pt}{10.6pt}\selectfont}\setlength{\LJpitch}{10.6pt}%
+    \renewcommand{\LJpoliceapp}{\fontsize{7.1pt}{8.2pt}\selectfont}%
+    \renewcommand{\LJpolicereg}{\fontsize{7.4pt}{8.8pt}\selectfont}%
+  \or
+    \renewcommand{\LJtaille}{\fontsize{8.2pt}{10pt}\selectfont}\setlength{\LJpitch}{10pt}%
+    \renewcommand{\LJpoliceapp}{\fontsize{6.9pt}{7.9pt}\selectfont}%
+    \renewcommand{\LJpolicereg}{\fontsize{7.1pt}{8.4pt}\selectfont}%
+  \or
+    \renewcommand{\LJtaille}{\fontsize{7.8pt}{9.5pt}\selectfont}\setlength{\LJpitch}{9.5pt}%
+    \renewcommand{\LJpoliceapp}{\fontsize{6.7pt}{7.6pt}\selectfont}%
+    \renewcommand{\LJpolicereg}{\fontsize{6.9pt}{8.1pt}\selectfont}%
+  \or
+    \renewcommand{\LJtaille}{\fontsize{7.4pt}{9pt}\selectfont}\setlength{\LJpitch}{9pt}%
+    \renewcommand{\LJpoliceapp}{\fontsize{6.5pt}{7.3pt}\selectfont}%
+    \renewcommand{\LJpolicereg}{\fontsize{6.7pt}{7.8pt}\selectfont}%
+  \else\LJjeu{9}\fi}
+\newcommand{\LJnbjeux}{9}
+
+% Rangées de la colonne de transcription. Hauteur d'une ligne de texte = \LJpitch (contenu « écrasé »
+% pour que la géométrie reste exacte : la position verticale de chaque ligne est connue du générateur).
+% #1 numéro (vide si non imprimé) ; #2 retrait (em) ; #3 alignement g/c/d ; #4 signes (TikZ) ; #5 texte
+\newcommand{\LJnum}[1]{\llap{\LJchiffres\fontsize{6pt}{6pt}\selectfont\color{LJgris}#1\hspace{5.2mm}}}
+\newcommand{\LJt}[5]{%
+  \setbox\LJboxN\hbox{\LJtaille\LJpolice\NoAutoSpacing\hskip#2em\relax#5}%
+  \ifdim\wd\LJboxN>\LJcol \setbox\LJboxN\hbox{\resizebox{\LJcol}{!}{\box\LJboxN}}\fi
+  \hbox to \LJcol{\vrule height 0.76\LJpitch depth 0.24\LJpitch width 0pt\LJnum{#1}#4%
+    \if#3g\else\hfil\fi\smash{\box\LJboxN}\if#3d\else\hfil\fi}}
+% Ligne contenant \hfill : la boîte occupe toute la largeur
+\newcommand{\LJtp}[5]{%
+  \setbox\LJboxN\hbox{\LJtaille\LJpolice\NoAutoSpacing\hskip#2em\relax#5}%
+  \ifdim\wd\LJboxN>\LJcol
+    \setbox\LJboxN\hbox{\resizebox{\LJcol}{!}{\box\LJboxN}}%
+  \else
+    \setbox\LJboxN\hbox to \LJcol{\LJtaille\LJpolice\NoAutoSpacing\hskip#2em\relax#5}%
+  \fi
+  \hbox to \LJcol{\vrule height 0.76\LJpitch depth 0.24\LJpitch width 0pt\LJnum{#1}#4\smash{\box\LJboxN}\hss}}
+% Filet : #1 position g/c/d ; #2 fraction de la largeur
+\newcommand{\LJf}[2]{%
+  \hbox to \LJcol{\vrule height 0.28\LJpitch depth 0.22\LJpitch width 0pt
+    \if#1c\hfil\fi\if#1d\hfil\fi
+    \color{LJencre}\rule[0.04\LJpitch]{#2\LJcol}{0.5pt}%
+    \if#1c\hfil\fi\if#1g\hfil\fi}}
+% Blanc : #1 = nombre de lignes
+\newcommand{\LJb}[1]{\hbox to \LJcol{\vrule height #1\LJpitch depth 0pt width 0pt\hfil}}
+
+% Signes couvrant plusieurs lignes (dessinés en surimpression) ; #1 = hauteur totale en interlignes
+\newcommand{\LJcrochet}[1]{\rlap{\begin{tikzpicture}[overlay,line width=0.5pt,color=LJencre]
+  \draw (-0.6mm,0.74\LJpitch) -- ++(-0.9mm,0) -- ($(-1.5mm,-#1\LJpitch+0.74\LJpitch+0.06\LJpitch)$) -- ++(0.9mm,0);
+  \end{tikzpicture}}}
+\newcommand{\LJcrochetd}[1]{\rlap{\hskip\LJcol\begin{tikzpicture}[overlay,line width=0.5pt,color=LJencre]
+  \draw (0.6mm,0.74\LJpitch) -- ++(0.9mm,0) -- ($(1.5mm,-#1\LJpitch+0.74\LJpitch+0.06\LJpitch)$) -- ++(-0.9mm,0);
+  \end{tikzpicture}}}
+\newcommand{\LJbarre}[1]{\rlap{\begin{tikzpicture}[overlay,line width=0.5pt,color=LJencre]
+  \draw (-1.2mm,0.74\LJpitch) -- ($(-1.2mm,-#1\LJpitch+0.74\LJpitch+0.06\LJpitch)$);
+  \end{tikzpicture}}}
+\newcommand{\LJequerre}[1]{\rlap{\begin{tikzpicture}[overlay,line width=0.5pt,color=LJencre]
+  \draw (0.2mm,0.74\LJpitch) -- (-1.4mm,0.74\LJpitch) -- ($(-1.4mm,-#1\LJpitch+0.74\LJpitch+0.06\LJpitch)$);
+  \end{tikzpicture}}}
+\newcommand{\LJequerred}[1]{\rlap{\hskip\LJcol\begin{tikzpicture}[overlay,line width=0.5pt,color=LJencre]
+  \draw (-0.2mm,0.74\LJpitch) -- (1.4mm,0.74\LJpitch) -- ($(1.4mm,-#1\LJpitch+0.74\LJpitch+0.06\LJpitch)$);
+  \end{tikzpicture}}}
+\newcommand{\LJaccoladeg}[1]{\rlap{\begin{tikzpicture}[overlay,line width=0.45pt,color=LJencre]
+  \draw[decorate,decoration={brace,amplitude=1.1mm}] ($(-0.7mm,-#1\LJpitch+0.74\LJpitch+0.06\LJpitch)$) -- (-0.7mm,0.74\LJpitch);
+  \end{tikzpicture}}}
+\NewDocumentCommand{\LJaccolade}{mm}{\rlap{\hskip\LJcol\begin{tikzpicture}[overlay,line width=0.45pt,color=LJencre]
+  \draw[decorate,decoration={brace,amplitude=1.1mm}] (0.7mm,0.74\LJpitch) -- ($(0.7mm,-#1\LJpitch+0.74\LJpitch+0.06\LJpitch)$)
+    node[midway,right=1.4mm,inner sep=0pt,font=\LJtaille\LJpolice,color=black]{#2};
+  \end{tikzpicture}}}
+
+% Apparat marginal : chaque note est placée à la hauteur de sa ligne (#1, en interlignes, ligne de base),
+% ou plus bas si la note précédente occupe encore la place.
+\newcommand{\LJapp}[2]{%
+  \setbox\LJboxN\vtop{\hsize\LJappw\LJpoliceapp\raggedright\hyphenpenalty=600
+    \leftskip=1.2em\parindent=-1.2em\strut#2\strut\par}%
+  \dimen2=#1\LJpitch
+  \dimen4=\dimexpr\LJappcur+\ht\LJboxN\relax
+  \ifdim\dimen2<\dimen4 \dimen2=\dimen4 \fi
+  \vskip\dimexpr\dimen2-\ht\LJboxN-\LJappcur\relax
+  \dimen6=\dp\LJboxN
+  \box\LJboxN
+  \global\LJappcur=\dimexpr\dimen2+\dimen6+\LJappsep\relax
+  \vskip\LJappsep}
+
+% Corps d'une page de transcription ; #1 en-tête ; #2 rangées ; #3 notes d'apparat ; #4 registres
+\newcommand{\LJcorps}[4]{%
+  \setlength{\LJappw}{\dimexpr\textwidth-\LJcol-\LJgap\relax}%
+  #1\par
+  \setbox\LJboxT\vtop{\offinterlineskip\hrule height 0pt #2}%
+  \global\LJappcur=0pt
+  \setbox\LJboxA\vtop{\offinterlineskip\hrule height 0pt #3}%
+  \noindent\hbox{\box\LJboxT\hskip\LJgap\box\LJboxA}\par
+  \vspace{2.2mm plus 1fill}
+  {\LJpolicereg #4}\par}
+
+\newif\ifLJtrop
+\newif\ifLJencore
+\newlength{\LJpitchbase}
+\newcount\LJdil
+\newcommand{\LJpagetranscription}[4]{%
+  \LJessai=0
+  \loop
+    \advance\LJessai by 1
+    \LJjeu{\the\LJessai}%
+    \setbox\LJboxP\vbox{\hsize\textwidth\LJcorps{#1}{#2}{#3}{#4}}%
+    \LJtropfalse
+    \ifdim\dimexpr\ht\LJboxP+\dp\LJboxP\relax>\textheight \ifnum\LJessai<\LJnbjeux\relax \LJtroptrue\fi\fi
+  \ifLJtrop\repeat
+  \typeout{LJJEU \LJlabelcourant\space \the\LJessai\space \the\dimexpr\ht\LJboxP+\dp\LJboxP\relax\space \the\textheight}%
+  % Dilatation de l'interligne (par pas de 4 %, jusqu'à +28 %) pour remplir la page sans changer de corps
+  \setlength{\LJpitchbase}{\LJpitch}\LJdil=100 \LJencoretrue
+  \loop
+    \advance\LJdil by 4
+    \setlength{\LJpitch}{\dimexpr\LJpitchbase*\LJdil/100\relax}%
+    \setbox\LJboxP\vbox{\hsize\textwidth\LJcorps{#1}{#2}{#3}{#4}}%
+    \ifdim\dimexpr\ht\LJboxP+\dp\LJboxP\relax>\textheight
+      \advance\LJdil by -4 \LJencorefalse
+    \else\ifnum\LJdil>124 \LJencorefalse\fi\fi
+  \ifLJencore\repeat
+  \setlength{\LJpitch}{\dimexpr\LJpitchbase*\LJdil/100\relax}%
+  \typeout{LJDIL \LJlabelcourant\space \the\LJdil}%
+  \vbox to \textheight{\hsize\textwidth\LJcorps{#1}{#2}{#3}{#4}}%
+  \newpage}
+
+% En-tête de la page de transcription
+% #1 feuillet (ex. « f. 18 r° ») ; #2 cliché (non affiché) ; #3 date ; #4 lieux ; #5 sommaire
+\newcommand{\LJentete}[5]{%
+  \noindent{\small\scshape #1}\quad{\small #3}\par
+  \ifx\relax#4\relax\else\noindent{\footnotesize\itshape #4}\par\fi
+  \ifx\relax#5\relax\else\noindent{\footnotesize\color{LJgris}#5}\par\fi
+  \vspace{0.6mm}\noindent{\color{LJgris}\rule{\textwidth}{0.35pt}}\par\vspace{1.4mm}}
+
+% Registres du bas de page (sans intitulés, séparés par des filets)
+\newcommand{\LJdebutreg}{\noindent{\color{LJgris}\rule{\textwidth}{0.35pt}}\par\vspace{0.7mm}}
+\newcommand{\LJsepreg}[1]{\par\vspace{0.6mm}\noindent{\color{LJgris}\rule{#1}{0.3pt}}\par\vspace{0.5mm}}
+\newcommand{\LJregcritique}[1]{\noindent #1\par}
+\newcommand{\LJregloci}[1]{\noindent #1\par}
+\newcommand{\LJreghistoire}[1]{{\leftskip=4mm\noindent #1\par}}
+
+% Page de fac-similé (pleine page ; la légende figure dans l'en-tête courant) ; #1 fichier image
+\newcommand{\LJfacsimile}[1]{%
+  \vbox to \textheight{\hsize\textwidth\vfil
+    \centerline{\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{#1}}%
+    \vfil}%
+  \newpage}
+% Fac-similé d'une page écrite en travers : image pivotée pour occuper la page (lire en tournant le livre)
+\newcommand{\LJfacsimilepaysage}[1]{%
+  \vbox to \textheight{\hsize\textwidth\vfil
+    \centerline{\includegraphics[angle=90,width=\textwidth,height=\textheight,keepaspectratio]{#1}}%
+    \vfil}%
+  \newpage}
+
+% ---------------------------------------------------------------------------
+% Chapitres (division éditoriale)
+% ---------------------------------------------------------------------------
+\newcommand{\LJchapitre}[3]{%
+  \LJpageimpaire
+  \renewcommand{\LJmois}{#3}\renewcommand{\LJfolio}{Chapitre~#1}%
+  \chapter{#2}%
+  \begin{center}\small\itshape #3\end{center}\vspace{1mm}}
+% Ouverture de chapitre (page paire, en regard du début de l'introduction) : #1 numéro ; #2 titre ; #3 période ;
+% #4 carte (PDF) ; #5 illustrations sous la carte
+\newcommand{\LJouverture}[5]{%
+  \LJpagepaire
+  \renewcommand{\LJmois}{#3}\renewcommand{\LJfolio}{Chapitre~#1}%
+  \thispagestyle{plain}%
+  \refstepcounter{chapter}\phantomsection
+  \addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#2}%
+  \begin{center}
+    {\small\scshape chapitre~#1}\par\vspace{0.8mm}
+    {\Large\scshape #2}\par\vspace{0.8mm}
+    {\small\itshape #3}\par
+  \end{center}\vspace{-1mm}
+  \noindent\includegraphics[width=\textwidth]{#4}\par
+  \vfill
+  \noindent #5\par
+  \clearpage}
+% Photographie légendée (dans une ouverture ou une page d'illustration) ; #1 largeur ; #2 fichier ; #3 légende
+\newcommand{\LJphoto}[3]{%
+  \begin{minipage}[b]{#1}\centering
+    \includegraphics[width=\linewidth,height=44mm,keepaspectratio]{#2}\par\vspace{0.8mm}
+    {\scriptsize\raggedright #3\par}
+  \end{minipage}}
+% Fin d'une introduction : si la page suivante est impaire (la double page de transcription ne pourrait pas
+% commencer), elle reçoit l'illustration #1 au lieu de rester blanche.
+\newcommand{\LJfinintro}[1]{\clearpage\ifodd\value{page}\thispagestyle{plain}\vspace*{\fill}#1\vspace*{\fill}\clearpage\fi}
+
+% Transcription d'une lettre en annexe (paragraphes de l'original ; police de la transcription)
+\newenvironment{LJlettre}{\par\vspace{1mm}\begingroup\LJpolice\small
+  \setlength{\leftskip}{4mm}\setlength{\rightskip}{2mm plus 1fil}\setlength{\parindent}{1.2em}%
+  \setlength{\parskip}{0.4mm}\emergencystretch=2em}{\par\endgroup\vspace{1mm}}
+
+% ---------------------------------------------------------------------------
+% Index
+% ---------------------------------------------------------------------------
+\newcommand{\LJindex}[2]{%
+  \clearpage\renewcommand{\LJmois}{Index}\renewcommand{\LJfolio}{#1}%
+  \chapter*{#1}\addcontentsline{toc}{chapter}{#1}%
+  {\footnotesize\setlength{\parindent}{0pt}\setlength{\parskip}{0.6pt}%
+   \begin{multicols}{2}\raggedright #2\end{multicols}}}
+\newcommand{\LJentree}[2]{\hangindent=1em\hangafter=1 #1 : {\LJchiffres #2}\par}
+
+% ---------------------------------------------------------------------------
+% Table de concordance des feuillets et des clichés
+% ---------------------------------------------------------------------------
+\newcommand{\LJtableconcordance}[2]{%
+  \clearpage\renewcommand{\LJmois}{Annexe}\renewcommand{\LJfolio}{Concordance des feuillets et des clichés}%
+  \chapter*{Concordance des feuillets et des clichés}\addcontentsline{toc}{chapter}{Concordance des feuillets et des clichés}%
+  {\footnotesize Feuillet et face restitués dans l'ordre de lecture ; numéro du cliché ;
+  date(s) de la page ; page de la présente édition. \textit{inv.} : feuillet photographié verso d'abord ;
+  \textit{trav.} : page écrite en travers ; \textit{seule face} : l'autre face du feuillet n'a pas été photographiée. #2\par}
+  \vspace{2mm}
+  {\fontsize{7.4pt}{8.8pt}\selectfont\LJchiffres
+  \setlength{\tabcolsep}{4pt}
+  \begin{longtable}{@{}l r p{72mm} r l@{}}
+  \toprule
+  \textbf{Feuillet} & \textbf{Cliché} & \textbf{Date} & \textbf{Page} & \\
+  \midrule\endhead
+  \bottomrule\endfoot
+  #1
+  \end{longtable}}}

@@ -1,0 +1,133 @@
+cliche: 125
+confiance: haute
+changements:
+- ligne: 1
+  avant: 18 Jeudi Matin (canonnade) — \hfill Janvier /17
+  apres: 18 \sl{Jeudi} Matin (Canonnade — \hfill \sl{Janvier '17}
+  justification: C majuscule net ; parenthèse non refermée, suivie d'un tiret ; trait court en apostrophe devant 17 (non /) ; soulignés sous Jeudi seul et sous Janvier '17
+  confiance: haute
+- ligne: 2
+  avant: Temps froid. Neige
+  apres: \ind Temps froid. Neige,
+  justification: ligne en retrait ; trait oblique détaché après le délié de Neige (virgule)
+  confiance: moyenne
+- ligne: 3
+  avant: restée s/ toits & champs.
+  apres: restée s/ toits & champs
+  justification: aucun point, seulement le long délié final de champs
+  confiance: moyenne
+- ligne: 4
+  avant: Belle-Église,
+  apres: Belle-église
+  justification: é au module d'une minuscule, accent posé au-dessus ; pas de virgule
+  confiance: moyenne
+- ligne: 6
+  avant: se confondaient à l'horizon
+  apres: se \inc{confondent} à l'horizon
+  justification: zoom x3 [.08 .18 .32 .235] ; après le d bouclé, une petite boucle (e), deux jambages (n) et le t barré ; aucun point d'i, place insuffisante pour -aient
+  confiance: moyenne
+- ligne: 7
+  avant: Légère
+  apres: Legère
+  justification: un seul accent, tiret posé au-dessus de la fin du mot (è)
+  confiance: moyenne
+- ligne: 8
+  avant: Après-midi, liberté entière.
+  apres: \ind Après-midi, liberté entière –
+  justification: retrait ; tiret court après entière
+  confiance: haute
+- ligne: 10
+  avant: Ciel mat & bas. Tempérre, pas froide.
+  apres: \ind ciel mat & bas. Tempér^{re}, pas froide
+  justification: c initial au module des minuscules ; finale -re surélevée réduite à une ondulation ; virgule nette ; pas de point final
+  confiance: moyenne
+- ligne: 11
+  avant: Neige pas encore fondue. Toits, arbres et
+  apres: Neige pas encore fondue Toits, arbres et
+  justification: aucun point entre fondue et Toits, seulement le délié final
+  confiance: moyenne
+- ligne: 12
+  avant: champs tout blancs.
+  apres: champs tout blancs
+  justification: pas de point
+  confiance: moyenne
+- ligne: 13
+  avant: Après-midi, course à Puchevillers, par
+  apres: \ind Après-midi, course à Puchevillers. par
+  justification: point rond à mi-hauteur, non virgule
+  confiance: moyenne
+- ligne: 15
+  avant: ds les champs. Buée grise s'élève à l'horizon.
+  apres: – ds les champs, Buée grise s'élève à l'horizon
+  justification: tiret court en marge gauche ; après champs, trait vertical crochu (virgule) ; pas de point final
+  confiance: moyenne
+- ligne: 16
+  avant: Froid pénétrant. Il gèle déjà très fort.
+  apres: Froid pénetrant. Il gele dejà très fort
+  justification: un seul accent dans pénetrant, aucun sur gele, un seul tiret d'accent sur -jà ; très en forme réduite « hu » surmontée de l'accent
+  confiance: moyenne
+- ligne: 17
+  avant: '[ — Matin, au bureau mission'
+  apres: \ind[2] — Matin, au bureau Mission
+  justification: aucun crochet sur l'image ; M à long délié d'attaque montant à hauteur des hampes
+  confiance: moyenne
+- ligne: 18
+  avant: 'Ve corps, solde : 84 fr. — ]'
+  apres: 'Ve corps, solde : 84 fr —'
+  justification: aucun point après fr, aucun crochet
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: restée
+  analyse: r, e, deux hastes (s et t sous barre commune), e accentué puis petit e/délié ; restée plus probable que resté
+  alternatives:
+  - resté
+- ligne: 6
+  lemme: \inc{confondent}
+  analyse: c-o-n-f (jambage long) -o-n-d (boucle) puis une petite boucle, deux jambages et t barré ; aucun point d'i visible ; le présent convient au style des notes, l'imparfait de l'état antérieur reste possible si les jambages sont très comprimés
+  alternatives:
+  - confondaient
+- ligne: 15
+  lemme: s'élève à l'horizon
+  analyse: 'pâté ou reprise d''encre couvrant s''é- et presque tout horizon ; visibles : haste du l, -ève ; à, l'' + boucle de h, point d''i, fin en jambage'
+  alternatives: []
+- ligne: 18
+  lemme: '84'
+  analyse: 8 à l'encre pâle, plus fin (plume presque sèche, comme « lde » de solde) ; 4 ouvert en L, crochet final, à l'encre rechargée, suivi de fr ; petit point entre les deux chiffres, sans doute une moucheture
+  alternatives: []
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1080 caractères ; sources principales : OH 1916-I p. 274 et OH 1917-I p. 66 et 69 (Edmonds 1932, Falls 1940), LLT (CCS de Puchevillers, QG du V Corps à Acheux le 12 janv.), Barbé 1917 ; aucune version p2, rédigé d''après p1. J''ai corrigé « lieux » en « Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval, Puchevillers (Somme) ». Le lien entre la canonnade du 18 et les attaques de la 11th Division à l''ouest de la route Beaucourt–Puisieux reste une hypothèse (« peut-être ») : la date exacte de ces attaques n''a pas pu être confirmée sur le web. — Relecture p2 : l''image ne dit rien de la provenance de la canonnade (« Matin (Canonnade — ») ; le mot « confondaient » de p1 devient « confondent » (incertain), ce que le commentaire doit suivre s''il cite la phrase.'
+  alternatives: []
+controle:
+- ligne: 6
+  avant: se confondaient à l'horizon rapproché avec ciel
+  apres: se \inc{confondent} à l'horizon rapproché avec ciel
+  justification: zoom x3 ; après le d, une seule boucle, deux jambages et le t, aucun point d'i ; « -aient » n'a pas la place ; incertitude gardée
+- ligne: 10
+  avant: \ind Ciel mat & bas. Tempér^{re}, pas froide
+  apres: \ind ciel mat & bas. Tempér^{re}, pas froide
+  justification: le c initial a la hauteur du i et du e voisins, sans boucle de tête de majuscule
+- ligne: 0
+  avant: 'critique : Encre noire. …'
+  apres: critique sans mention de la couleur d'encre ; ajout de l'encre pâle du 8 et de « lde »
+  justification: sur la vue l'encre paraît violet foncé, non noire ; la couleur n'étant pas sûre sur la photographie, ne pas l'imprimer ; la pâleur du 8 s'explique par la plume épuisée, non par un ajout
+- ligne: 0
+  avant: apparat de p1 (notes signe, autre, lecture « très », détail paléographique sur 84)
+  apres: notes supprimées ou abrégées ; note de lecture ajoutée pour confondent
+  justification: parenthèse non refermée et forme « hu » de très sont usuelles ; glose de « bureau Mission » renvoyée aux remarques ; détails de tracé hors de l'apparat
+remarques: 'Ve corps : Ve corps d''armée britannique (V Corps) ; « bureau Mission » : bureau de la Mission française auprès de ce corps.'
+resume: 'Jeudi 18 janvier 1917 : canonnade le matin, temps froid, la neige reste sur les toits et les champs. Le matin, course en auto à Belle-Église, Raincheval et Puchevillers ; les plaines blanches se confondent avec le ciel mat. Après-midi libre. Vendredi 19 : ciel bas, neige non fondue, nouvelle course à Puchevillers par Raincheval ; neige cristallisée, buée grise, il gèle fort. Le matin, au bureau de la Mission du Ve corps, il touche sa solde de 84 francs.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Belle-église
+    ligne: 4
+    identite: ferme de Belle-Église, près d'Arquèves (Somme)
+  - forme: Raincheval
+    ligne: 5
+    identite: Raincheval (Somme)
+  - forme: Puchevillers
+    ligne: 5
+    identite: Puchevillers (Somme)
+source: contrôle

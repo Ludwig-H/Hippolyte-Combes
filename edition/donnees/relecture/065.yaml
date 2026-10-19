@@ -1,0 +1,113 @@
+cliche: 65
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Parti train 1 H 15 s (espéré [groupe abrégé illis.] à 10 H 45 matin)
+  apres: Parti train 1^{H}15 s \inc{(} (espéré \add{il y \inc{en}} à 10^{H}\inc{45}
+  justification: H suscrits ; signe en crochet pointé entre s et la parenthèse ; groupe interlinéaire il (i pointé, l) + y en V + e empâté prolongé d'un délié ; le 4 de 45 n'est pas distinct ; « matin ) » forme une ligne propre
+  confiance: moyenne
+- ligne: 2
+  avant: (fin de la l. 1)
+  apres: \droite matin )
+  justification: « matin ) » est écrit sous « 10 H 45 », contre la marge droite
+  confiance: haute
+- ligne: 3
+  avant: A Amiens, à 6 H s —
+  apres: a Amiens , à 6^{H} s —
+  justification: a initial au module d'une minuscule, sans accent ; virgule détachée (trait vertical) ; H suscrit
+  confiance: haute
+- ligne: 4
+  avant: Départ à 6 H 30 s
+  apres: Depart à 6^{H}30 s —
+  justification: aucun accent sur le e ; H suscrit ; après le s, tiret épais terminé en massue
+  confiance: haute
+- ligne: 5
+  avant: A Doullens, vers minuit
+  apres: à Doullens , vers minuit
+  justification: a minuscule surmonté d'un long accent horizontal ; virgule détachée
+  confiance: haute
+- ligne: 6
+  avant: Dû coucher gare —
+  apres: Dû coucher gare \trait
+  justification: délié final de gare prolongé sans levée de plume
+  confiance: moyenne
+- ligne: 7
+  avant: '⟦Paris⟧ Métro : 15 c, 15 c'
+  apres: '\add{Paris} Métro : 15c, 15 c'
+  justification: 'Paris n''est pas barré : le filet passe au-dessus, le trait oblique dessous est l''attaque du M de Métro ; mot écrit petit, surélevé'
+  confiance: haute
+- ligne: 8
+  avant: 'Food... : 25 c, 25 c, 50 c., Drink : 10 c.'
+  apres: 'Food ... : 25c, 25c, 50c , \hfill Drink : 10, c'
+  justification: virgule (et non point) après 50c ; blanc avant Drink ; après 10, trait plongeant puis c détaché, sans point final
+  confiance: moyenne
+- ligne: 9
+  avant: 'Consigne : 10 c'
+  apres: 'Consigne : 10c \trait'
+  justification: c prolongé d'un long délié effilé jusqu'au milieu de la page
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: s \inc{(}
+  analyse: 'après 15 : court trait d''attaque montant qui recoupe une haste brève (aspect +), forme identique au s (soir) de la l. 4, mais sans le tiret ; puis crochet à tête recourbée, descendant en arc, surmonté d''un point placé à la hauteur des hampes (ce n''est donc pas un point abréviatif) ; enfin la vraie parenthèse ouvrante, haute et fine, devant espéré. Parallèles : « 1H s. » (039), « 8 H s — » (064).'
+  alternatives:
+  - s. (
+  - s ((
+- ligne: 1
+  lemme: il y \inc{en}
+  analyse: 'petit module, au-dessus de la fin de espéré : i pointé + l haut ; y à tête en V et longue descente à gauche ; puis e empâté (en V plein) relié à un jambage pointu et à un long délié horizontal vers la droite, n non formé. Le crochet sous ce groupe peut être l''accent du à de la ligne (gros a empâté). La haute haste isolée à droite (x≈0,91) pourrait être le t d''un « eût ».'
+  alternatives:
+  - il y eût
+  - il y eu
+- ligne: 1
+  lemme: 10^{H}\inc{45}
+  analyse: 1 à trait d'attaque ; 0 en petite boucle prolongée d'une longue queue (aspect ρ), qui rejoint presque le t de matin ; puis un H à deux hastes, sur le module des chiffres, dont la traverse déborde à droite, surmonté d'une haute haste oblique isolée ; 5 à drapeau et panse ouverte. Le 4 ne se lit que si la haute haste et la traverse débordante forment un 4 ouvert lié au H ; 9 exclu (le 1 est net).
+  alternatives:
+  - 10^{H}5
+- ligne: 7
+  lemme: \add{Paris}
+  analyse: 'P à haste descendante, a, r, i, s final remontant ; le filet part à gauche du P et frôle le haut des lettres sans les traverser ; le long trait oblique montant passe nettement sous le mot et s''achève dans le premier jambage du M : attaque du M, non biffure.'
+  alternatives:
+  - \del{Paris}
+- ligne: 8
+  lemme: 10, c
+  analyse: 1 appuyé + 0 ouvert en haut ; puis trait en arc, haut de 0,021 (plus que les c de la ligne, 0,012–0,015) et plongeant sous la ligne comme les virgules de Food ; après un blanc, petit c en crochet à courte queue, de la forme du c de 15 c (l. 7) et de 10c (l. 9).
+  alternatives:
+  - 10c c
+  - 10c —
+controle:
+- ligne: 1
+  avant: Parti train 1^{H}15 \inc{s} \inc{(} (espéré \add{il y \inc{en}} à 10^{H}45
+  apres: Parti train 1^{H}15 s \inc{(} (espéré \add{il y \inc{en}} à 10^{H}\inc{45}
+  justification: 's assuré : même tracé (attaque recoupant une haste brève) que le s de la l. 4 ; en revanche le 4 de 45 n''est pas formé distinctement (haute haste isolée au-dessus du H à traverse débordante)'
+- ligne: 7
+  avant: '\del{Paris} Métro : 15c, 15 c'
+  apres: '\add{Paris} Métro : 15c, 15 c'
+  justification: 'Paris n''est pas barré : le trait oblique passe sous le mot et se termine dans le M de Métro (long délié d''attaque) ; le filet frôle le haut des lettres'
+- ligne: 8
+  avant: 'Food ... : 25c, 25c, 50c , \hfill Drink : 10 c'
+  apres: 'Food ... : 25c, 25c, 50c , \hfill Drink : 10, c'
+  justification: 'deux signes après 10 : un trait plongeant de la forme des virgules, puis un c détaché ; la transcription « 10 c » en omettait un'
+- ligne: 9
+  avant: 'Consigne : 10c —'
+  apres: 'Consigne : 10c \trait'
+  justification: long délié effilé, sans levée de plume, issu du c (les tirets des l. 3–4, épais et en massue, sont conservés)
+- ligne: 2
+  avant: 'apparat : note de disposition sur « matin ) »'
+  apres: (supprimée)
+  justification: la balise \droite rend la disposition ; notes de lecture sur s et sur 10 c refondues
+remarques: Page en grande partie blanche, encre violette homogène. Point d'encre isolé entre les l. 5 et 6, sous « vers », sans valeur. Transparence du verso (taches brunes) sans texte lisible.
+resume: 'Suite du jeudi 5 octobre 1916, au retour de la permission passée à Toulouse : Hippolyte Combes quitte Paris par le train de 1 h 15 de l''après-midi, alors qu''il avait espéré en trouver un à 10 h 45 du matin (lecture incertaine). Il arrive à Amiens à 6 h du soir, en repart à 6 h 30 et n''atteint Doullens que vers minuit ; il doit coucher à la gare. Les comptes, sous un filet, notent à Paris deux billets de métro (15 c chacun), puis de la nourriture (25 c, 25 c, 50 c), une boisson (10 c) et la consigne (10 c).'
+noms:
+  personnes: []
+  lieux:
+  - forme: Paris
+    ligne: 7
+    identite: Paris
+  - forme: Amiens
+    ligne: 3
+    identite: Amiens (Somme)
+  - forme: Doullens
+    ligne: 5
+    identite: Doullens (Somme)
+source: contrôle

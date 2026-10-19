@@ -1,0 +1,250 @@
+cliche: 98
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Dim. 12. \hfill Novembre 1916
+  apres: \sl{Dim. 12.} \hfill \sl{Novembre 1916}
+  justification: les deux éléments de la date sont soulignés
+  confiance: haute
+- ligne: 2
+  avant: Assez belle journée. Matin & soir, brouillard.
+  apres: \ind assz belle journée. Matin & soir, brouillard
+  justification: premier mot écrit petit, abrégé (a, deux s hauts, z plongeant), initiale minuscule, en retrait sous le soulignement de la date ; aucun point après brouillard
+  confiance: haute
+- ligne: 3
+  avant: pétri de sillons
+  apres: pétri & sillons
+  justification: 'petite boucle à gauche puis haste montant à droite et plongeant sous la ligne : tracé de l''esperluette ; ni haste de d rejetée en arrière, ni e'
+  confiance: moyenne
+- ligne: 4
+  avant: véhicules qui
+  apres: véhicules \add{lourds} qui
+  justification: 'petit mot omis, glissé dans l''interligne au-dessus de la fin de véhicules : l, o, u, r en pointe, d, s'
+  confiance: moyenne
+- ligne: 5
+  avant: le labourent.
+  apres: le labourent
+  justification: délié final prolongé, aucun point
+  confiance: haute
+- ligne: 6
+  avant: Matin, liberté complète.
+  apres: \ind Matin, liberté complète –
+  justification: après le long délié de l'e final, petit tiret détaché, non point ; ligne en léger retrait
+  confiance: moyenne
+- ligne: 7
+  avant: Après-midi, course en auto à Beauquesne
+  apres: \ind Après-midi, Course en auto à Beauq\lac
+  justification: 'C de Course de module double ; le mot atteint le bord droit du cliché : seuls B-e-a-u et une lettre à haste descendante sont visibles'
+  confiance: moyenne
+- ligne: 9
+  avant: 'peu à peu. Paysage anglais : arbres étriqués,'
+  apres: peu à peu. Paysage anglais. Arbre étriqués
+  justification: point rond après anglais ; A agrandi ; Arbre terminé par e + délié plat, sans s ; aucune virgule après étriqués
+  confiance: moyenne
+- ligne: 10
+  avant: feuillages jaunes, marron semant la route.
+  apres: Feuillages jaune marron semant la route
+  justification: F majuscule bouclé ; jaune + délié, sans s ni virgule ; aucun point final
+  confiance: moyenne
+- ligne: 11
+  avant: '[ Journal semaine : 40 c'
+  apres: '\crochet{2}Journal semaine : 40 c'
+  justification: grand crochet à deux pieds couvrant les deux lignes de comptes
+  confiance: haute
+- ligne: 12
+  avant: 'Casque peint khaki : 1 f — ]'
+  apres: 'Casque peint khaki : 1^{f} —'
+  justification: f suscrit ; aucun crochet fermant
+  confiance: haute
+- ligne: 13
+  avant: 14 Ma. — Tout hier
+  apres: \sl{14 Ma^{rdi}} — Tout hier
+  justification: rdi suscrit après Ma, sans point ; date soulignée
+  confiance: haute
+- ligne: 14
+  avant: qu'auj'd'hui, très fort bombardemt — du
+  apres: \ind qu'auj'dhui, très fort bombardt — du
+  justification: un seul petit trait vertical, entre j et d ; bombardt sans em ; ligne en retrait
+  confiance: moyenne
+- ligne: 15
+  avant: côté de Beaumont. Vu passer nbx blessés
+  apres: Côté de Beaumont Vu passer de x blessés
+  justification: C de module double ; pas de point (barre du t prolongée) ; d + e puis une croix isolée, ni n ni b
+  confiance: haute
+- ligne: 16
+  avant: ⟦[autos ?]⟧
+  apres: \del{\inc{autos}}
+  justification: mot noyé sous l'encre, lecture conservée comme conjecture
+  confiance: basse
+- ligne: 17
+  avant: Courses à Raincheval
+  apres: \ind Courses à Raincheval
+  justification: alinéa (x ≈ 0,08)
+  confiance: haute
+- ligne: 18
+  avant: Partis 8h 1/2 m., rentrés 5h soir.
+  apres: Partis 8^{h} \fr{1}{2} m., rentrés 5^{h} soir.
+  justification: h suscrits ; demie en fraction empilée (1 sur un 2 couché)
+  confiance: haute
+- ligne: 19
+  avant: Ciel nuageux — pluie menacé tt le jour.
+  apres: ciel nuageux – pluie menacé tt le jour.
+  justification: c initial au module d'une minuscule ; tiret court
+  confiance: moyenne
+- ligne: 21
+  avant: A Frévent, promené passim. — Petite
+  apres: \ind A Frévent, promené passim — Petite
+  justification: aucun point après passim ; ligne en léger retrait
+  confiance: moyenne
+- ligne: 22
+  avant: 'ville assez coquette : belle église, [carillonne ?] 1/4 d''h, usine,'
+  apres: ville assz coquette belle église, \inc{catéchismes} & un \inc{carillon} —
+  justification: pas de deux-points (les traits entre coquette et belle sont le jambage du p de promené et la virgule de Frévent) ; après église, un mot c-a-t-é-c-h…-mes, une esperluette, un, puis un petit mot c-a + minimes, puis un tiret ; ni fraction, ni d'h, ni usine sur l'image
+  confiance: basse
+- ligne: 23
+  avant: '— Boutons simili-cuir : 4 f 75 (10 gds 0.40, 3 petits 0.25 —'
+  apres: '— Boutons simili-cuir : 4^{f} 75 (10 \add{0.40} \inc{gd}, 3 \add{0.25} petit\lac'
+  justification: f suscrit ; prix unitaires écrits au-dessus des articles ; gd sans s ; fin de ligne hors champ ; le tiret de l'état antérieur appartient à la l. 22
+  confiance: moyenne
+- ligne: 24
+  avant: 'Cartes ples : 40 c, 1 f 50 et 10 c'
+  apres: '\crochet{2}Cartes ple : 40c – 1 50 et 10c'
+  justification: crochet à gauche des l. 24–25 ; ple sans s ; petit tiret, non virgule ; aucun f entre 1 et 50
+  confiance: moyenne
+- ligne: 25
+  avant: 'Déjeuner à l''hôtel d''Amiens, ma part : 7 fr. ]'
+  apres: 'Déjeuner à l''hôtel d''Amiens, ma part : 7 fr'
+  justification: délié final prolongé, ni point ni crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 7
+  lemme: Beauq\lac
+  analyse: 'zoom ×3,5 [.84 .215 1.0 .28] : B bouclé (boucle haute + panse), e, a, puis deux éléments arrondis (u à sommets ronds, ou c + o), enfin une lettre à tête ouverte et haste descendante oblique (q, y ou g) qui touche le bord du cliché. Beauquesne suppose u + q, Beaucourt c-o-u sans descendante ; l''itinéraire par Varennes et Contay (au sud d''Acheux) conduit plus naturellement à Beaucourt-sur-l''Hallue, mais les traits favorisent q'
+  alternatives:
+  - Beauquesne
+  - Beaucourt
+- ligne: 4
+  lemme: \add{lourds}
+  analyse: 'zoom ×3,5 [.80 .105 .96 .145] : petit module dans l''interligne ; l sans boucle, o lié par le haut, u, r réduit à une pointe détachée, d à haste montante bouclée, s final plongeant ; le gros jambage violet qui traverse le mot est le s long de sillons (l. 3) ; cf. 174 « lourds véhicules »'
+  alternatives:
+  - lourds
+- ligne: 22
+  lemme: \inc{catéchismes}
+  analyse: 'zooms ×3 et ×4 [.60 .835 .76 .875] : c ; a à jambage ; haste haute sans boucle (t, barre reportée à droite) ; petite boucle (é) ; c court sous la barre ; h à haute boucle ; arche puis cinq minimes, point d''i déporté au-dessus du m ; e ; s long final. Ni ll ni nn : carillonne exclu ; catéchumènes demanderait un second e'
+  alternatives:
+  - catéchismes
+  - catéchumènes
+- ligne: 22
+  lemme: \inc{carillon}
+  analyse: 'zoom ×4 [.83 .832 .96 .862] : précédé de un (surmonté d''un trait isolé) ; mot de petit module, plus haut que la ligne : c, a, cinq minimes, délié final, point d''i loin à droite ; aucune haste pour ll ni boucle d''o nette ; carillon suppose des l réduits à des minimes ; camion s''accorde mieux au compte des minimes mais non au sens'
+  alternatives:
+  - carillon
+  - camion
+  - canon
+- ligne: 23
+  lemme: \inc{gd}
+  analyse: g à longue boucle inférieure puis panse fermée à jambage (aspect a) ; la haste du d ne se distingue pas (elle se confondrait avec le dernier 0 de 0.40 suscrit) ; aucun s
+  alternatives:
+  - gd
+  - gds
+  - ga
+- ligne: 16
+  lemme: \del{\inc{autos}}
+  analyse: 'zoom [.48 .63 .70 .685] : mot entièrement noyé sous l''encre et traversé par le jambage du p de passer (l. 15) ; on devine une panse initiale (a), des minimes, une haste haute vers la fin ; un trait horizontal le relie à l''esperluette'
+  alternatives:
+  - autos
+  - ambul.
+  - \ill
+- ligne: 13
+  lemme: '14'
+  analyse: 'zoom [0 .53 .20 .60] : 1 à long trait d''attaque partant de la marge ; le 4, très empâté, a sa haste montée au-dessus du filet ; mardi 14 confirmé par Dim. 12 et hier = 13'
+  alternatives:
+  - '14'
+  - \sur{13}{14}
+- ligne: 14
+  lemme: qu'auj'dhui
+  analyse: apostrophe en virgule couchée après qu ; entre j et d, un petit trait vertical (apostrophe ou point du j) ; aucun signe entre d et h. La virgule après hui (x ≈ 0,40) est un trait distinct de la haste du t de Beaumont (x ≈ 0,415), zoom [.30 .58 .50 .64]
+  alternatives:
+  - qu'auj'dhui
+  - qu'aujdhui
+- ligne: 3
+  lemme: pétri & sillons
+  analyse: 'zoom [.66 .08 1.0 .15] : petite boucle fermée à hauteur d''œil puis haste montant à droite et plongeant jusqu''à la l. 4 : forme « 4 » de l''esperluette, sans e ; « pétri de sillons » serait plus attendu (cf. 174 « creusées de sillons ») mais n''est pas écrit'
+  alternatives:
+  - '&'
+  - de
+- ligne: 9
+  lemme: Arbre
+  analyse: 'zoom [.52 .30 1.0 .37] : A, r, b, r, e puis long délié plat, sans crochet ni boucle de s ; même finale pour jaune (l. 10), alors que Feuillages et étriqués ont un s visible'
+  alternatives:
+  - Arbre
+  - Arbres
+controle:
+- ligne: 4
+  avant: véhicules \add{\inc{lourds}} qui
+  apres: véhicules \add{lourds} qui
+  justification: 'zoom ×3,5 : l, o lié par le haut, u, r en pointe détachée, d bouclé, s final se lisent tous ; le jambage qui traverse le mot est le s long de sillons ; incertitude levée'
+- ligne: 7
+  avant: 'note autre : Beauquesne, seuls B-e-a-u-q visibles'
+  apres: 'note lecture : Beauquesne probable, Beaucourt(-sur-l''Hallue) possible'
+  justification: entre Beau et la lettre descendante, deux éléments arrondis (u ou c + o) ; l'itinéraire par Varennes et Contay mène naturellement à Beaucourt-sur-l'Hallue ; la fin du mot est hors champ, la lecture ne peut être assurée
+- ligne: 22
+  avant: '\inc{carillon} : c, a, r, minimes, point d''i déporté ; conjectural'
+  apres: '\inc{carillon} maintenu ; note : sans ll distincts, camion ou canon possibles'
+  justification: 'zoom ×4 : c, a, cinq minimes, délié final, point d''i ; aucune haste pour ll : la proposition est conservée faute de mieux, avec ses concurrentes'
+- ligne: 22
+  avant: 'note : analyse lettre à lettre de catéchismes'
+  apres: 'note brève : lettres lues, catéchumènes possible, carillonne exclu'
+  justification: 'zooms ×3 et ×4 : analyse confirmée (c-a-t-é-c-h, minimes, e, s long) ; détail renvoyé dans difficultes'
+- ligne: 14
+  avant: 'note : virgule détachée près de très'
+  apres: virgule maintenue, note supprimée
+  justification: 'zoom : le trait (x ≈ 0,40) est distinct de la haste du t de Beaumont (x ≈ 0,415) ; c''est bien une virgule, que la transcription rend'
+- ligne: 18
+  avant: \fr{1}{2} (note lecture), m., (note abreviation + virgule)
+  apres: '\fr{1}{2} : et demie ; m. : matin'
+  justification: développements donnés en abreviation, sans description du tracé
+- ligne: 24
+  avant: 1 50 et 10c (note compte, sans développement)
+  apres: '1 50 et 10c (disposition) : 1 franc 50 et 10 centimes, encre plus pâle ; 40c développé'
+  justification: développements manquants ajoutés
+- ligne: 1
+  avant: 69 notes d'apparat ; critique de 6 phrases
+  apres: 37 notes ; critique de 2 phrases
+  justification: 'suppression des justifications paléographiques (ponctuation absente, accents, formes de lettres, soulignements, débordements de hampes : l. 1, 2, 3, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 19, 21, 22, 24, 25) ; ces analyses restent dans changements et difficultes'
+remarques: 'La fin des l. 7 et 23 sort du cliché : la destination de la course du 12 (Beauquesne, ou Beaucourt-sur-l''Hallue que l''itinéraire par Varennes et Contay rendrait plus naturel) et la fin de petit(s) ne peuvent être tranchées que sur l''original ou un cliché complet. Les l. 21–23 sont très chargées (jambage du p de promené et virgule de Frévent descendus dans la l. 22 ; prix unitaires de la l. 23 logés sous la l. 22). Le mot après église et le petit mot après un (l. 22) restent conjecturaux ; « carillonne 1/4 d''h, usine » (lecture antérieure) n''est pas porté par les traits.'
+resume: 'Le dimanche 12 novembre 1916, journée assez belle entre le brouillard du matin et celui du soir ; le sol mou est labouré par les innombrables véhicules lourds. Matinée libre ; l''après-midi, course en auto par Varennes et Contay vers Beauquesne (nom coupé par la photographie), dans un paysage « anglais » d''arbres étriqués et de feuillages jaunes. Dépenses : journal de la semaine (40 c), casque peint kaki (1 f). Le mardi 14, Combes note le très fort bombardement de la veille et du jour du côté de Beaumont et le passage de nombreux blessés en fourgons et en voitures. Tournée à Raincheval, Doullens (grande foire) et Frévent, de 8 h 1/2 à 5 h, sous un ciel menaçant : Frévent est une petite ville coquette à belle église ; il y achète des boutons simili-cuir et des cartes postales et déjeune à l''hôtel d''Amiens (7 fr pour sa part).'
+noms:
+  personnes: []
+  lieux:
+  - forme: Beauq\lac
+    ligne: 7
+    identite: Beauquesne (Somme), lecture probable ; Beaucourt-sur-l'Hallue (Somme), au sud-ouest de Contay, possible
+  - forme: Varennes
+    ligne: 8
+    identite: Varennes (Somme), au sud d'Acheux
+  - forme: Contay
+    ligne: 8
+    identite: Contay (Somme)
+  - forme: Beaumont
+    ligne: 15
+    identite: 'Beaumont-Hamel (Somme), sur l''Ancre : bataille de l''Ancre (13–18 novembre 1916)'
+  - forme: Raincheval
+    ligne: 17
+    identite: Raincheval (Somme)
+  - forme: Doullens
+    ligne: 17
+    identite: Doullens (Somme)
+  - forme: Frévent
+    ligne: 17
+    identite: Frévent (Pas-de-Calais)
+  - forme: Doullens
+    ligne: 20
+    identite: Doullens (Somme)
+  - forme: Frévent
+    ligne: 21
+    identite: Frévent (Pas-de-Calais)
+  - forme: l'hôtel d'Amiens
+    ligne: 25
+    identite: hôtel à l'enseigne « d'Amiens », à Frévent ou à Doullens
+source: contrôle

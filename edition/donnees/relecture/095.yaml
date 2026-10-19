@@ -1,0 +1,160 @@
+cliche: 95
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Lundi 6 \hfill Nov. /16
+  apres: \sl{Lundi 6} \hfill \sl{Nov. /16}
+  justification: date et mois soulignés chacun d'un trait appuyé
+  confiance: haute
+- ligne: 2
+  avant: averses.
+  apres: averses
+  justification: aucun point après le s final plongeant
+  confiance: moyenne
+- ligne: 3
+  avant: j'à Arquèves,
+  apres: j-à Arqueves,
+  justification: trait d'union court entre j et à ; aucun accent visible sur le e de Arqueves
+  confiance: moyenne
+- ligne: 4
+  avant: Belle-Église, pour 1 question de pétrole.
+  apres: Belle Eglise, pour 1 question de petrole
+  justification: pas de trait d'union, E en ʒ sans accent ; petrole sans accent ; pas de point final
+  confiance: moyenne
+- ligne: 6
+  avant: Hérissart
+  apres: Herissart
+  justification: aucun accent visible sur le e
+  confiance: moyenne
+- ligne: 7
+  avant: Achat de paille et foin. Partis vers 1h 1/2,
+  apres: Achat de paille et foin \hfill Partis vers 1^{h} \fr{1}{2}
+  justification: pas de point après foin ; h suscrit ; fraction empilée (1 sur barre, 2 en ʒ) ; pas de virgule
+  confiance: moyenne
+- ligne: 8
+  avant: rentrés seulement sur 6 h. Giboulées
+  apres: rentrés seulement \inc{vers} 6 h \hfill giboulées
+  justification: le mot commence par un v d'attaque sans la haute boucle du s initial (la haste visible est le jambage du f de foin) ; g minuscule à giboulées ; pas de point
+  confiance: moyenne
+- ligne: 12
+  avant: mortes.
+  apres: mortes \trait
+  justification: délié final prolongé jusqu'à la marge, pas de point
+  confiance: haute
+- ligne: 13
+  avant: Regrette d'avoir quitté 152 Coy. Cherche
+  apres: \ind Regrette d'avoir quitté 152 Coy. \hfill Cherche
+  justification: alinéa ; Cherche rejeté à droite
+  confiance: haute
+- ligne: 14
+  avant: 18e Divon & ma Coy.
+  apres: 18^{ie} divon & ma Coy
+  justification: suscrit à deux éléments après 18 ; d minuscule en ∂ ; pas de point final
+  confiance: moyenne
+- ligne: 15
+  avant: Mardi 7
+  apres: \sl{mardi 7}
+  justification: m minuscule sans délié d'attaque de majuscule ; date soulignée
+  confiance: haute
+- ligne: 17
+  avant: ornières profondes.
+  apres: ornières profonde
+  justification: le mot s'achève sur -de suivi d'un délié, sans s ni point
+  confiance: haute
+- ligne: 18
+  avant: Ni matin
+  apres: ni matin
+  justification: n minuscule au module des autres lettres
+  confiance: moyenne
+- ligne: 20
+  avant: rentré billet.
+  apres: rentré \inc{à} billet.
+  justification: petit signe en forme de & suscrit après rentré, non relevé
+  confiance: basse
+- ligne: 21
+  avant: mouvement
+  apres: mouvements
+  justification: finale t + s bouclé visible
+  confiance: moyenne
+- ligne: 22
+  avant: (route de Léalvillers).
+  apres: (route de \inc{Lealvillo} ( ).
+  justification: nom à l'encre pâle se terminant par -llo, suivi de deux parenthèses pâles
+  confiance: basse
+difficultes:
+- ligne: 8
+  lemme: vers
+  analyse: premier élément = attaque de v sans boucle haute ; puis e, r à finale prolongée ; la haste qui traverse le mot vient du f de foin (l. 7)
+  alternatives:
+  - sur
+- ligne: 14
+  lemme: 18^{ie}
+  analyse: après le 8, petit trait montant puis boucle d'e, au-dessus de la ligne de base
+  alternatives:
+  - 18^{e}
+  - 18^{me}
+- ligne: 20
+  lemme: à
+  analyse: 'délié montant du é de rentré vers une petite boucle à gauche et une haste barrée, au-dessus de la ligne : forme du & mis pour à (cf. guide § 7, 097)'
+  alternatives:
+  - '&'
+  - accent de rentré en fioriture
+- ligne: 22
+  lemme: Lealvillo
+  analyse: L bouclé, e, a, l, v, i, l, l, puis o fermé ; encre brun pâle ; ensuite « ( » et « ) » fins à la même encre, puis point
+  alternatives:
+  - Lealvillers
+  - Lealville
+- ligne: 21
+  lemme: la
+  analyse: haute boucle puis a ouvert ; l'hypothèse ma est exclue par l'absence de jambages
+  alternatives:
+  - sa
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1 049 caractères ; sources : OH 1916-I p. 274, OH 1916-II p. 462 et 480, Statistics 1922 p. 846, Fernand-Laurent/Tessan 1917 p. XIV, Puckle 1917 p. 28 ; pas de p2, rédigé sur la p1. Le nom de Léalvillers (« Lealvillo ( ) ») et les mots à l''encre pâle restent à contrôler sur l''original. La fiche « commanderie templière » de Belle-Église donnée par l''édition antérieure n''a pas été retrouvée et n''est pas reprise. — Seconde lecture : nom relu L-e-a-l + haste bouclée + élément court + ll + o ; Léalvillers retenu en identification, la forme graphique reste incertaine.'
+  alternatives: []
+controle:
+- ligne: 3
+  avant: notes graphie « Arqueves », « Belle Eglise » (l. 4), « Herissart » (l. 6)
+  apres: notes supprimées
+  justification: accent ou trait d'union absents seulement ; identification conservée dans noms.lieux et le résumé
+- ligne: 15
+  avant: note graphie « mardi 7 » (initiale minuscule)
+  apres: note supprimée
+  justification: 'majuscule absente : pas de note selon la règle d''apparat'
+- ligne: 19
+  avant: critique sans mention d'Albert
+  apres: l. 19 « Albert » ajouté à la liste des mots à l'encre pâle
+  justification: 't5d et zoom [.45 .70 .75 .755] : Albert d''un gris-brun nettement plus clair que « fatigué » et « faire »'
+- ligne: 14
+  avant: 18^{ie} type lecture
+  apres: type abreviation, alternative e mentionnée
+  justification: 'zoom [.5 .46 1 .56] : petit trait montant puis boucle d''e suscrits, lecture ie acceptable ; le développement prime'
+remarques: 'Les mots à l''encre pâle (l. 11–13, 22) mériteraient un contrôle sur l''original pour décider s''il s''agit d''ajouts dans des blancs réservés. Seconde lecture : vers (l. 8), à (l. 20), Lealvillo (l. 22) confirmés comme incertains après zoom ; « or » (l. 11, encre pâle, forme u + n barré) et le point après « Coy » (l. 13, peut-être point d''i de « divon ») restent à contrôler sur l''original.'
+resume: Le lundi 6 novembre 1916, par temps de rafales et d'averses, Hippolyte Combes va à pied et en camion à la ferme de Belle-Église, à Arquèves, pour une question de pétrole, puis fait l'après-midi une longue course en auto vers Coisy par Hérissart et Rubempré pour acheter paille et foin, au milieu de bois aux couleurs d'automne. Il regrette d'avoir quitté la 152nd Company et cherche le moyen de rester à la 18th Division. Le mardi 7, sous la pluie et sans rien à faire, il renonce à aller à Albert faute de camion et observe de sa fenêtre le flot ininterrompu de véhicules et de troupes sur la route de Léalvillers.
+noms:
+  personnes: []
+  lieux:
+  - forme: Arqueves
+    ligne: 3
+    identite: Arquèves (Somme)
+  - forme: Belle Eglise
+    ligne: 4
+    identite: ferme de Belle-Église, Arquèves (Somme)
+  - forme: Coisy
+    ligne: 6
+    identite: Coisy (Somme)
+  - forme: Herissart
+    ligne: 6
+    identite: Hérissart (Somme)
+  - forme: Rubempré
+    ligne: 6
+    identite: Rubempré (Somme)
+  - forme: Albert
+    ligne: 19
+    identite: Albert (Somme)
+  - forme: Lealvillo
+    ligne: 22
+    identite: Léalvillers (Somme)
+source: contrôle

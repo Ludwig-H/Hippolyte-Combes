@@ -1,0 +1,113 @@
+cliche: 46
+confiance: haute
+changements:
+- ligne: 1
+  avant: 21 J. \hfill Septbre /16
+  apres: 21 \sl{J.} \hfill \sl{Sept^{bre} /16}
+  justification: trait appuyé partant du pied du J sous J. ; long soulignement sous Sept... /16 ; finale -bre réduite à un trait
+  confiance: haute
+- ligne: 2
+  avant: Ts ces derniers jours
+  apres: \ind[2] Ts ces derniers jours
+  justification: ligne commencée vers x = .19, retrait plus marqué que les alinéas suivants (x = .10–.13)
+  confiance: haute
+- ligne: 4
+  avant: Enfin ce matin, malgré temps
+  apres: \ind Enfin, \inc{ce} matin, malgré temps
+  justification: virgule (trait vertical) après Enfin ; ce noyé dans un pâté
+  confiance: moyenne
+- ligne: 7
+  avant: soleil brille un peu
+  apres: soleil brille un peu \trait
+  justification: délié final de peu prolongé jusque vers x = .58
+  confiance: moyenne
+- ligne: 10
+  avant: A 4H ½, retour – et sans avoir été mouillé
+  apres: A 4^{H} \fr{1}{2}, retour – et sans \inc{avoir} été mouillé
+  justification: H à deux hastes posé plus haut que le 4 ; demi empilé, 2 bouclé sous la barre ; avoir réduit à a-v-i-haste descendante
+  confiance: moyenne
+- ligne: 11
+  avant: Fin journée, assez belle
+  apres: \ind Fin journée, assez belle \trait
+  justification: long délié appuyé terminé en massue après belle
+  confiance: moyenne
+- ligne: 12
+  avant: 'A Acheux : solde : 78 f 75 c'
+  apres: '\ind A Acheux : solde : 78.75 c'
+  justification: point décimal entre 78 et 75 ; le prétendu f est le 5 en ſ, drapeau bouclé sur le filet, haste descendant sous la ligne 13 (GUIDE § 8, piège 7)
+  confiance: haute
+- ligne: 13
+  avant: '— cartes ples : 0.25 c.'
+  apres: '\ind[2] — Cartes ples : 0.25 c.'
+  justification: C majuscule net à grande boucle ; tiret sous Acheux, Cartes sous solde ; les finales de ples restent sur la ligne
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: transformées
+  analyse: trans-f puis -orm- réduit à un trait ondulé horizontal avant -ées accentué ; mot cursif écrasé, non abréviation marquée
+  alternatives: []
+- ligne: 4
+  lemme: ce
+  analyse: pâté d'encre (zoom ×3) ; panse épaisse de c, petite boucle d'e et délié dépassant à droite ; la syntaxe (Enfin, ce matin) confirme
+  alternatives:
+  - ce
+- ligne: 6
+  lemme: Après
+  analyse: A pointu, p, r, e surmonté d'un accent long, s final réduit à un petit crochet montant
+  alternatives:
+  - Aprè
+- ligne: 6
+  lemme: tjs
+  analyse: haste descendante bouclée coupée en tête d'une barre (t + j fondus), puis s en 3
+  alternatives:
+  - ts
+- ligne: 9
+  lemme: mission
+  analyse: m, i pointé, ss hauts, i pointé, n final plongeant ; aucun o distinct
+  alternatives:
+  - missin
+- ligne: 10
+  lemme: avoir
+  analyse: zoom ×3 ; petite panse fermée avec haste à peine montante (a, voire d), deux minimes (v ou u), i pointé, puis haste descendant loin sous la ligne sans boucle (r plongeant ?) ; seule « avoir » donne un sens
+  alternatives:
+  - avr
+  - avij
+- ligne: 12
+  lemme: Acheux
+  analyse: A pointu, c, h bouclé, une ou deux minimes, puis long trait horizontal terminé en crochet (finale -eux écrasée) ; l. 8 écrit Acheux en entier
+  alternatives:
+  - Ach.
+- ligne: 13
+  lemme: Cartes
+  analyse: C, a, r, t, puis une finale en a fermé qui vaut -es (e + s en crochet)
+  alternatives:
+  - Carte
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié : 15 × 5 f 25 = 78 f 75 (quinzaine de solde, hypothèse du commentateur reprise prudemment dans « critique ») ; lectures « ce » (l. 4) et « avoir » (l. 10) restent incertaines après zoom ×3.'
+  alternatives: []
+controle:
+- ligne: 5
+  avant: 'apparat lecture « menaçant » : mena- repassé à l''encre épaisse, cédille visible'
+  apres: note supprimée
+  justification: lecture sûre (zoom ×3) ; simple reprise d'encre sans biffure, sans intérêt pour le lecteur
+- ligne: 12
+  avant: 'apparat compte « 78.75 c » : 78 francs 75 ; le 5, à longue haste, descend jusque sous la ligne suivante'
+  apres: une note abreviation (78 francs 75 centimes) et une note lecture brève signalant la lecture nouvelle
+  justification: développement et changement de lecture distingués ; détail du tracé renvoyé à « changements »
+- ligne: 0
+  avant: 'critique : Encre violette. Blancs d''environ trois et quatre lignes autour de « Fin journée » ; comptes sous un filet'
+  apres: critique abrégée, complétée par l'équivalence 78 f 75 = quinze jours à 5 f 25
+  justification: calcul vérifié (remarque du commentateur) ; utile au lecteur pour interpréter la solde
+remarques: Le cantonnement d'où part Hippolyte Combes n'est pas nommé sur la page (Raincheval d'après le cliché 047). La haste du 5 de 78.75 traverse la ligne 13 entre le 2 et le 5 de 0.25.
+resume: 'Jeudi 21 septembre 1916. Après plusieurs jours d''averses qui ont défoncé les routes, la pluie épargne la matinée ; l''après-midi le ciel reste nuageux avec un peu de soleil. Hippolyte Combes se rend à cheval à Acheux, au bureau de la Mission française installé dans une hutte sur la pelouse du château, et rentre vers 4 heures et demie sans être mouillé. Il note une fin de journée assez belle. Comptes : solde touchée à Acheux, 78 francs 75 ; cartes postales, 25 centimes.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Acheux
+    ligne: 8
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Acheux
+    ligne: 12
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

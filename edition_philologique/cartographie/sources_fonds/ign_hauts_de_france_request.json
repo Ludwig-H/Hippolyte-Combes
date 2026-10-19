@@ -1,4 +1,0 @@
-{
-  "url": "https://data.geopf.fr/wfs/ows?service=WFS&version=2.0.0&request=GetFeature&outputFormat=application%2Fjson&srsName=EPSG%3A4326&count=20&typeNames=ADMINEXPRESS-COG.2026%3Aregion&CQL_FILTER=code_insee%3D%2732%27",
-  "status": 200
-}

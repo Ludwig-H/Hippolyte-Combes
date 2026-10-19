@@ -1,0 +1,141 @@
+cliche: 52
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Mardi 26 \hfill Sept 16
+  apres: \sl{Mardi 26} \hfill \sl{Sept^{r} 16}
+  justification: trait appuyé sous Mardi 26 et long trait sous Sept 16 ; petit r surélevé après le p barré ; pas de barre oblique avant 16
+  confiance: haute
+- ligne: 2
+  avant: Vers 6H m., encore nuit, dû descendre gare
+  apres: \ind Vers 6^{H} m. , encore nuit , dû descendre gare
+  justification: H suscrit (aspect lt) ; point après m puis virgule ; virgule détachée avant dû ; ligne en retrait (x ≈ 0,13)
+  confiance: haute
+- ligne: 4
+  avant: Suivi voies j'que bureau militre. Là
+  apres: Suivi voies , \inc{j'que} bureau militre . Là
+  justification: virgule (trait vertical) après voies ; le groupe après j ne montre pas de q net
+  confiance: moyenne
+- ligne: 7
+  avant: Du Bourget, sortie de la rue de Flandre
+  apres: du Bourget , sortie de la rue de Flandre ,
+  justification: d au même module que du (l. 3), le trait qui le précède est le jambage du p de par ; virgule finale après Flandre
+  confiance: moyenne
+- ligne: 9
+  avant: du Nord. De là, par métro, arrivé
+  apres: du Nord . De là , par metro , arrivé
+  justification: aucun accent sur le e de metro (la barre au-dessus est celle du t) ; virgules détachées
+  confiance: moyenne
+- ligne: 10
+  avant: à Station Tuileries. (changé au Chatelet) / Traversé jardin et
+  apres: à station Tuileries . \add{changé au Chatelet} Traversé jardin et
+  justification: « Traversé jardin et » est sur la même ligne que Tuileries ; « changé au Chatelet » est un ajout interlinéaire au-dessus, sans parenthèses ; s initial minuscule
+  confiance: haute
+- ligne: 12
+  avant: Me suis rendu à la Place (Hotel)
+  apres: Me suis rendu à la place (hotel .
+  justification: p et h minuscules ; parenthèse non refermée ; point après hotel
+  confiance: moyenne
+- ligne: 15
+  avant: gare et pu enfin prendre billet de 2e cl.
+  apres: gare et pu enfin prendre billet de 2e cl
+  justification: aucun point, l prolongé en délié
+  confiance: moyenne
+- ligne: 16
+  avant: Toulouse
+  apres: Toulouse \trait
+  justification: long délié horizontal prolongé
+  confiance: moyenne
+- ligne: 20
+  avant: Jardin du Luxembourg
+  apres: \ind Jardin du Luxemb \trait
+  justification: 'L, u, x, e, m, b puis long trait plongeant vers la droite : mot abrégé'
+  confiance: haute
+- ligne: 21
+  avant: Chez Colin
+  apres: \ind Chz Colin
+  justification: C, h, z plongeant, sans e
+  confiance: haute
+difficultes:
+- ligne: 4
+  lemme: j'que
+  analyse: 'après la virgule : j à point, puis point haut décalé (apostrophe ?) et un groupe u-e sans jambage descendant net ; q réduit possible ; contrôle p2 (zoom ×3) : j pointé, point d''apostrophe au-dessus, u à deux attaques et e final, aucune descendante ; le point isolé sous le mot appartient à la ligne 5'
+  alternatives:
+  - j'ue
+  - jusque
+- ligne: 5
+  lemme: autorison
+  analyse: a-u-t (barre longue)-o-r-i-s haut bouclé puis finale brève en n ; le point d'i est rejeté à droite ; même forme l. 13 (autris + finale en i pointé)
+  alternatives:
+  - autorisn
+  - autoris^{on}
+- ligne: 6
+  lemme: j'à
+  analyse: j à crosse, a ouvert en u, trait courbe haut à gauche de l'a (apostrophe ou accent) ; pas de trait d'union visible, contrairement à l. 8
+  alternatives:
+  - jà
+  - j-à
+- ligne: 7
+  lemme: sortie
+  analyse: s bouclé haut, o-r confondus, t, i (point décalé), e ; aspect « estte »
+  alternatives:
+  - sorti
+- ligne: 1
+  lemme: Mardi
+  analyse: M au module d'une minuscule mais à long délié d'attaque, conforme au M de l'auteur
+  alternatives:
+  - mardi
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1 051 caractères ; Lafon 1922 (renvoi au f. 26 r°), Baedeker 1913 (Invalides, Orsay, Bon Marché), Baedeker 1912, Zyromski 1921 (adresse de Colin) ; écrit d''après p1, faute de p2 ; la clé « lieux » ajoute le département (« Le Bourget (Seine) ») ; je n''ai pas trouvé le règlement sur l''autorisation de voyager « à mes frais en express », que le texte présente donc comme une hypothèse ; la lecture « j''que » (l. 4) reste incertaine.'
+  alternatives: []
+controle:
+- ligne: 11
+  avant: Venu gare d'Orsay
+  apres: Venu gare d'Orsay \trait
+  justification: le jambage du y de Orsay se prolonge en un long trait horizontal jusqu'à x ≈ 0,62 (zoom [.12 .42 .65 .49])
+remarques: '« place (hotel . des Invalides » : la Place = le commandement de la place de Paris, à l''hôtel des Invalides.'
+resume: Arrivé de nuit au Bourget vers 6 heures, Hippolyte Combes suit les voies jusqu'au bureau militaire, obtient l'autorisation de sortir et gagne en tramway la gare du Nord, puis en métro les Tuileries (changement au Châtelet). Il traverse le jardin jusqu'à la gare d'Orsay, se rend à la place des Invalides pour demander l'autorisation de voyager à ses frais en express, puis prend un billet de 2e classe pour Toulouse. Il descend ensuite la rue du Bac, passe au Bon Marché, rue de Rennes, au jardin du Luxembourg et chez Colin.
+noms:
+  personnes:
+  - forme: Colin
+    ligne: 21
+    identite: non identifié (commerce ou personne)
+  lieux:
+  - forme: Bourget
+    ligne: 3
+    identite: Le Bourget (Seine), gare
+  - forme: rue de Flandre
+    ligne: 7
+    identite: rue de Flandre, Paris (XIXe)
+  - forme: gare du Nord
+    ligne: 9
+    identite: gare du Nord, Paris
+  - forme: Tuileries
+    ligne: 10
+    identite: station de métro Tuileries, Paris
+  - forme: Chatelet
+    ligne: 10
+    identite: station Châtelet, Paris
+  - forme: Orsay
+    ligne: 11
+    identite: gare d'Orsay, Paris
+  - forme: Invalides
+    ligne: 13
+    identite: place (hôtel) des Invalides, Paris
+  - forme: Toulouse
+    ligne: 16
+    identite: Toulouse (Haute-Garonne)
+  - forme: rue du Bac
+    ligne: 17
+    identite: rue du Bac, Paris
+  - forme: Bon Marché
+    ligne: 18
+    identite: grand magasin du Bon Marché, Paris
+  - forme: Rue de Rennes
+    ligne: 19
+    identite: rue de Rennes, Paris
+  - forme: Luxemb
+    ligne: 20
+    identite: jardin du Luxembourg, Paris
+source: contrôle

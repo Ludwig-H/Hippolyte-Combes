@@ -1,0 +1,191 @@
+cliche: 13
+confiance: haute
+changements:
+- ligne: 1
+  avant: Dim. 6. \hfill Aout 1916
+  apres: \sl{Dim – 6.} \hfill Aout \sl{1916}
+  justification: après Dim, court trait à mi-hauteur et non point ; Dim – 6. souligné d'un trait appuyé (x 0,04–0,30) ; trait distinct, plus bas, sous 1916 seul (x 0,755–0,905), Aout non souligné
+  confiance: moyenne
+- ligne: 2
+  avant: Levé dès 7H ½ –
+  apres: \ind Levé dès 7^{H} \fr{1}{2} –
+  justification: H à deux hastes et traverse nettement au-dessus de la ligne du 7 ; demi empilé (1 en haut, barre oblique, 2 en ʒ dessous), forme de 049 ; ligne en retrait (x 0,09 contre 0,04)
+  confiance: haute
+- ligne: 3
+  avant: Temps magnifique
+  apres: Temps magnifique \trait
+  justification: délié final prolongé en long trait jusqu'à x ≈ 0,47
+  confiance: haute
+- ligne: 6
+  avant: au refilling point, sur rive canal (près
+  apres: au refilling point, sur rive canal & près
+  justification: 'petite boucle fermée à gauche, haste montant à droite puis redescendant sous la ligne, crochet final vers la droite : forme « 4 » de l''esperluette (guide § 7) ; le jambage du p de pied (l. 5) traverse le signe ; une parenthèse serait un arc fin sans boucle'
+  confiance: haute
+- ligne: 7
+  avant: d'écluse — Parcouru campagne à la
+  apres: d'écluse – Promené campagne à la
+  justification: 'P bouclé, r, o, m, e, n, é avec accent : aucun c ni -uru ; tiret court'
+  confiance: haute
+- ligne: 8
+  avant: recherche fourrage
+  apres: recherche fourrage \trait
+  justification: le délié final se prolonge en long trait ondulé jusqu'à x ≈ 0,55
+  confiance: haute
+- ligne: 9
+  avant: Seul, continué j.au village Bac St-Maur
+  apres: Seul, continué j-au village. Bac St-Maur
+  justification: trait d'union court et bas entre j et au ; point rond sur la ligne de base après village (x ≈ 0,674), distinct du point du i d'usine (l. 10), posé au-dessus de ce i
+  confiance: moyenne
+- ligne: 10
+  avant: '& visité église, à côté usine'
+  apres: '& visité eglise, à côté usine'
+  justification: aucun accent au-dessus de l'e initial ni du g suivant ; le trait qui monte au-dessus d'eglise est le jambage du t de continué (l. 9)
+  confiance: moyenne
+- ligne: 12
+  avant: Avec lui, assis sur l’herbe, écouté
+  apres: Avec lui, assis sur l'herbe, ecouté
+  justification: aucun accent détaché sur l'e initial ; seul l'é final porte un accent en crochet
+  confiance: moyenne
+- ligne: 13
+  avant: musique militre anglse –
+  apres: musique mil^{re} anglse —
+  justification: m, i, l puis re nettement suscrit, sans -it ; après anglse, tiret long en massue
+  confiance: haute
+- ligne: 15
+  avant: '— Payé à ma propre : oeufs, lait &'
+  apres: '\ind Payé à ma prop^{re} : oeufs, lait &'
+  justification: aucun tiret avant Payé (seul le filet passe au-dessus) ; prop sur la ligne, re suscrit ; ligne en retrait
+  confiance: moyenne
+- ligne: 17
+  avant: '— Ctes ples : 10 c'
+  apres: '\ind — C^{tes} p^{les} : 10 c'
+  justification: es de tes et de les, de module réduit, posés au sommet de l'œil, environ un œil au-dessus de la ligne de base de 10 c et du pied du C ; tiret initial à x ≈ 0,095, en retrait
+  confiance: moyenne
+difficultes:
+- ligne: 5
+  lemme: Venu
+  analyse: 'premier jambage épais montant à environ 1,5 œil, au-dessus de enu : forme du V majuscule (guide § 5), en milieu de phrase comme souvent'
+  alternatives:
+  - Venu
+  - venu
+- ligne: 6
+  lemme: '& près'
+  analyse: 'signe : petite boucle fermée en bas à gauche, montée à droite, retombée sous la ligne finie en crochet vers la droite ; le long jambage du p de pied (l. 5) le croise. près : p à haste longue, r, e, accent grave nettement détaché au-dessus du s final réduit à un crochet prolongé d''un délié'
+  alternatives:
+  - '& près'
+  - (près
+- ligne: 9
+  lemme: village.
+  analyse: point rond appuyé (x ≈ 0,674, y ≈ 0,337) au niveau bas de l'œil, comme les points de 6. et de Maurin. ; le i d'usine (l. 10) a son propre point (x ≈ 0,58) ; le sens admettrait aussi « j-au village Bac St-Maur »
+  alternatives:
+  - village.
+  - village
+- ligne: 10
+  lemme: usine
+  analyse: u à deux jambages, s réduit, i pointé, n en partie masqué par le jambage bouclé du g de village (l. 9), e en boucle prolongé d'un long délié ; même mot en 098 et 099
+  alternatives:
+  - usine
+- ligne: 10
+  lemme: côté
+  analyse: aucun circonflexe isolé au-dessus de l'o ; la tête fourchue du t paraît porter le circonflexe décalé à droite (guide § 1) ; é final à accent en crochet
+  alternatives:
+  - côté
+  - coté
+- ligne: 12
+  lemme: ecouté
+  analyse: e initial ouvert sans accent détaché ; le c a une haute attaque qui pourrait englober un accent lié, sans certitude
+  alternatives:
+  - ecouté
+  - écouté
+- ligne: 15
+  lemme: 'prop^{re} : oeufs'
+  analyse: 'p, r, o, p (jambage) sur la ligne ; au-dessus, à droite, r et e aplati en vague, surmontés d''un petit point (point abréviatif ?) ; deux-points : point supérieur net (x ≈ 0,64), l''inférieur confondu avec la boucle du l de lait (l. 16) qui monte jusqu''à la ligne'
+  alternatives:
+  - 'prop^{re} : oeufs'
+  - 'propr^{e} : oeufs'
+- ligne: 16
+  lemme: 90c.. — 1
+  analyse: 'deux points côte à côte à mi-hauteur du c ; le tiret rejoint le 1 à mi-hauteur, il n''est donc pas le trait d''attaque du 1 (qui part du sommet) ; 25 : 2 bouclé, 5 en ſ à drapeau, même forme que le 5 de 0.05'
+  alternatives:
+  - 90c.. — 1
+  - 90c. — 1
+controle:
+- ligne: 1
+  avant: 'apparat : notes « 1916 » (disposition), « Aout » (graphie) ; signe « Dim – 6. » détaillé'
+  apres: notes 1916 et Aout supprimées ; signe réduit à « Dim – » (point abréviatif en trait)
+  justification: le soulignement est rendu par le balisage ; aucune note pour un accent absent
+- ligne: 2
+  avant: 'apparat : « Levé dès » (lecture) ; « \fr{1}{2} » (signe, description du tracé)'
+  apres: 'note « Levé dès » supprimée ; « \fr{1}{2} » : abreviation « et demie »'
+  justification: 'justifications paléographiques non imprimées (accents de Levé dès contrôlés : rien à signaler)'
+- ligne: 3
+  avant: 'apparat : « magnifique \trait » (disposition)'
+  apres: supprimée
+  justification: le balisage \trait suffit
+- ligne: 5
+  avant: 'apparat : « Venu » (lecture, V majuscule)'
+  apres: supprimée ; analyse portée en difficultes
+  justification: aucune note imprimée pour une majuscule ; V majuscule vérifié au zoom
+- ligne: 6
+  avant: 'apparat « & près » : description complète du tracé'
+  apres: 'note brève : forme retenue, croisement du p de pied, lecture antérieure « (près »'
+  justification: lecture & confirmée au zoom ×3,5 (boucle d'attaque, haste montante puis descendante) ; le jambage du p de pied (l. 5), non signalé, traverse le signe
+- ligne: 7
+  avant: 'apparat : « d''écluse – » (signe), « à la » (lecture), « Promené » (analyse lettre à lettre)'
+  apres: 'notes d''écluse et à la supprimées ; Promené : note brève citant « Parcouru »'
+  justification: tiret et accent rendus par la transcription ; Promené confirmé au zoom
+- ligne: 8
+  avant: 'apparat : « fourrage \trait » (disposition)'
+  apres: supprimée
+  justification: le balisage \trait suffit
+- ligne: 9
+  avant: 'noms.lieux : Bac St-Maur = Bac-Saint-Maur (Nord) ; difficulté « ligne 0 » (remarque historique)'
+  apres: Bac-Saint-Maur, hameau de Sailly-sur-la-Lys (Pas-de-Calais) ; remarque historique réduite et portée en remarques ; lieux d'en-tête corrigés
+  justification: Sailly-sur-la-Lys est du Pas-de-Calais, La Croix-du-Bac (Steenwerck) du Nord ; une remarque historique n'est pas une difficulté de lecture
+- ligne: 9
+  avant: 'apparat « village. » : description du point'
+  apres: note brève citant la leçon antérieure « village Bac St-Maur »
+  justification: point confirmé au zoom sur la ligne de base de la l. 9 ; le point du i d'usine est au-dessus de ce i (x ≈ 0,58)
+- ligne: 10
+  avant: 'apparat : « visité » (lecture), « eglise » (graphie), « à côté » (lecture)'
+  apres: supprimées ; côté et usine contrôlés et analysés en difficultes
+  justification: formes lisibles, accent absent sans note ; le circonflexe de côté paraît porté par la tête fourchue du t, donc côté maintenu
+- ligne: 12
+  avant: 'apparat : « ecouté » (graphie)'
+  apres: supprimée
+  justification: aucune note pour un accent absent ; doute sur un accent lié au c consigné en difficultes
+- ligne: 13
+  avant: 'apparat : « anglse — » (signe)'
+  apres: supprimée
+  justification: le tiret long est transcrit
+- ligne: 14
+  avant: 'apparat : « Installation » (lecture)'
+  apres: supprimée
+  justification: lecture sûre, simple description du tracé
+- ligne: 16
+  avant: 'apparat : « — 1 litre » (signe) ; compte « 25 + 0.05 » sans total'
+  apres: 'note du tiret supprimée ; compte : 25 c + 5 c, soit 30 c'
+  justification: tiret transcrit ; il rejoint le 1 à mi-hauteur (zoom), ce n'est pas un trait d'attaque ; opération implicite explicitée
+- ligne: 17
+  avant: 'apparat : « C^{tes} p^{les} » (tes et les suscrits) ; « 10 c » (délié sous le 0)'
+  apres: notes réduites au développement
+  justification: surélévation de tes et les vérifiée par mesure (environ un œil au-dessus de la ligne de 10 c) ; le délié du c est sans valeur
+- ligne: 0
+  avant: 'critique : description longue (retraits, tache, empiètements des hampes)'
+  apres: critique ramenée à l'encre et à la disposition d'ensemble
+  justification: retraits, blanc et filet sont rendus par le balisage ; les empiètements relèvent des difficultes
+remarques: 'Bac-Saint-Maur, hameau de Sailly-sur-la-Lys (Pas-de-Calais), fait face à La Croix-du-Bac (Steenwerck, Nord) sur la Lys canalisée : le « canal » et l''« écluse » des l. 6–7 sont probablement la Lys et son écluse de Bac-Saint-Maur. Accents contrôlés : eglise et l''e initial d''ecouté sans accent visible ; le circonflexe de côté paraît posé sur le t.'
+resume: 'Dimanche 6 août 1916, levé à 7 h 1/2 par un temps magnifique, Combes a à peine fini son petit déjeuner que le lieutenant Curtis vient le chercher : ils vont à pied au refilling point, sur la rive du canal près d''une écluse, puis parcourent la campagne à la recherche de fourrage. Seul, Combes pousse jusqu''au village de Bac-Saint-Maur, dont il visite l''église, voisine d''une usine. L''après-midi, il retrouve Maurin et écoute avec lui, assis sur l''herbe, une musique militaire anglaise ; il note que son installation n''est que provisoire. Comptes : à sa logeuse, œufs, lait et bière, 90 c ; un litre de lait, 25 c + 5 c ; cartes postales, 10 c.'
+noms:
+  personnes:
+  - forme: Curtis
+    ligne: 4
+    identite: lieutenant britannique de la compagnie de Combes (152nd Company A.S.C.)
+  - forme: Maurin
+    ligne: 11
+    identite: Français (militaire ou interprète) du secteur, compagnon de Combes (013–026)
+  lieux:
+  - forme: Bac St-Maur
+    ligne: 9
+    identite: Bac-Saint-Maur, hameau de Sailly-sur-la-Lys (Pas-de-Calais), sur la Lys
+source: contrôle

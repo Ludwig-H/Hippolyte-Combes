@@ -1,0 +1,119 @@
+cliche: 91
+fichier: 20251126_104623.jpg
+date: Jeudi 2 novembre 1916 (suite) ; vendredi 3 novembre 1916
+mois: Novembre 1916
+lieux: Acheux-en-Amiénois, Raincheval et Albert (Somme)
+titre: Visite au major Levy à Raincheval ; aller-retour à Albert ; solde de la Mission
+transcription: |
+  après le diner, \add{course} en auto à Raincheval.
+  Vu major Levy, of the D.O.S.T.
+  Nuit très noire. — Couché assz tard
+  \crochet{3}Donné à Victor Duchateau : 5^{f} —
+  Mess, octobre : 47^{f} 70
+  Acheux : c^{tes} p^{les} : 15 c
+  \filet
+  \sl{3 Ve} matin, ciel couvert, 1 peu de soleil
+  \ind[2] l'après-midi
+  Partis en auto avec L^{t} Curtis. Resté à Albert
+  et revenu seul s/ 1 lorry \trait Routes
+  mauvaises et sillonnées de vehicules divers
+  Revenu au camp, 152 Coy et au
+  bureau mission.
+  \ind après lunch, 2^{H} 30, Acheux
+  passé journée ds ma chambre. — au bureau
+  \blanc{2}
+  — Mission, Albert : 58^{f} 75 (30^{f} retenus pour
+  \droite 6 jours de permission)
+apparat:
+- ligne: 1
+  lemme: \add{course}
+  type: ajout
+  note: « course » écrit au-dessus de « en auto »
+- ligne: 2
+  lemme: of the
+  type: emprunt
+  note: de la
+- ligne: 2
+  lemme: D.O.S.T.
+  type: abreviation
+  note: 'sigle non attesté ; sans doute D.D.S.T. : Deputy Director of Supplies and Transport (directeur adjoint du ravitaillement et des transports)'
+- ligne: 3
+  lemme: assz
+  type: abreviation
+  note: assez
+- ligne: 4
+  lemme: 5^{f}
+  type: abreviation
+  note: francs
+- ligne: 5
+  lemme: Mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 5
+  lemme: 47^{f} 70
+  type: abreviation
+  note: 47 francs 70
+- ligne: 6
+  lemme: c^{tes} p^{les}
+  type: abreviation
+  note: cartes postales
+- ligne: 6
+  lemme: 15 c
+  type: abreviation
+  note: centimes
+- ligne: 7
+  lemme: Ve
+  type: abreviation
+  note: vendredi
+- ligne: 7
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 9
+  lemme: L^{t}
+  type: abreviation
+  note: lieutenant
+- ligne: 10
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 10
+  lemme: 1 lorry
+  type: abreviation
+  note: un (camion)
+- ligne: 10
+  lemme: lorry
+  type: emprunt
+  note: camion
+- ligne: 12
+  lemme: Coy
+  type: abreviation
+  note: 'Company : compagnie'
+- ligne: 14
+  lemme: lunch
+  type: emprunt
+  note: déjeuner
+- ligne: 14
+  lemme: 2^{H} 30
+  type: abreviation
+  note: 2 heures 30
+- ligne: 15
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 16
+  lemme: 58^{f} 75
+  type: abreviation
+  note: 58 francs 75
+- ligne: 16
+  lemme: 30^{f}
+  type: abreviation
+  note: 30 francs
+critique: Encre violette. Les deux journées sont séparées par un filet ; les comptes du 2 novembre sont réunis par un grand crochet, ceux du 3 rejetés au bas de la page après un blanc, et un pâté d'encre violette marque la fin de l'avant-dernier alinéa. Le cliché 093 est une seconde prise de vue de cette page.
+historique: |
+  Le soir de son arrivée à Acheux (voir f.~45~v\textsuperscript{o}), Combes va à Raincheval, à 7~km à l'ouest, où siégera l'« Army P. Board » (f.~56~r\textsuperscript{o}). Le major Levy, qui obtiendra son maintien au \textit{Purchase Board} en mars 1917 (f.~83~r\textsuperscript{o}), est sans doute Walter Henry Levy, de l'A.S.C., major temporaire depuis le 1\textsuperscript{er} mai 1916 (\textit{London Gazette}, suppl. 29585, p.~4941). « D.O.S.T. », sigle non attesté, abrège peut-être « D. of S. and T. », \textit{Director of Supplies and Transport} (Puckle 1917, p.~26), dont relèvent les \textit{purchase boards} (ibid., p.~8). Le 3, Haig autorise Gough à remettre indéfiniment l'attaque de l'Ancre (OH 1916-II, p.~462). Les 30~F retenus sont sans doute l'indemnité, à 5~F par jour, des six jours pleins de la permission de fin septembre (\textit{Bulletin des armées}, 22 mars 1916 ; voir f.~34~r\textsuperscript{o}). Victor Duchateau, fils aîné du logeur d'Albert, est maréchal des logis dans l'artillerie belge (f.~44~r\textsuperscript{o}).
+sources:
+- Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 8 et 26.
+- Supplement to the London Gazette, n° 29585, 17 mai 1916, p. 4941.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 462.
+- Bulletin des armées de la République, 2e année, n° 186, 22 mars 1916, p. 2 (« Les permissions »).

@@ -1,0 +1,124 @@
+cliche: 22
+fichier: 20251126_093857.jpg
+date: Samedi 19 août 1916 (suite)
+mois: Août 1916
+lieux: Fleurbaix (Pas-de-Calais) ; Armentières et Erquinghem-Lys (Nord)
+titre: Fleurbaix et Armentières bombardées ; thé à Erquinghem avec un officier des Sussex
+transcription: |
+  galop à travers champs \hfill 19 \sl{Sam –}
+  et arrivé j'à la blanchisserie Barbry –
+  Puis dirigé sur Fleurbaix. Au centre du
+  village (tourné à dr. et remonté lentement rue
+  dont presque tte les maisons ont reçu des
+  obus – –
+  \blanc{1.5}
+  Continué ensuite sur Armentières – \add{Arrivé par gare (l. est complt déserte}
+  Parcouru principaux quartiers.
+  Ville importante, riche – très b maisons
+  Effets des bombardements grands
+  dommages. Vu \inc{çà} & la. de toits
+  crevés, de façades trouées, cloisons
+  d'appartement mises à nu –
+  Eglise à briques rouges, sur 1 place
+  très atteinte. Clocher découronné –
+  Toiture abattue
+  La + des immeubles inoccupés
+  abandonnés par leurs habitants \add{Ecossais}
+  Rentré par gd route – Arrêté à
+  Erquinghem et thé av 1 off des Sussex
+  \ind[2] Fin journée Ensoleillée et \addm{très belle}
+apparat:
+- ligne: 1
+  lemme: galop à travers champs
+  type: disposition
+  note: suite de la phrase commencée au bas du cliché 021 (« Longue chevauchée zone exposée, derrière ligne de feu »)
+- ligne: 1
+  lemme: Sam
+  type: abreviation
+  note: samedi
+- ligne: 2
+  lemme: j'à
+  type: abreviation
+  note: jusqu'à
+- ligne: 4
+  lemme: dr.
+  type: abreviation
+  note: droite
+- ligne: 5
+  lemme: tte
+  type: abreviation
+  note: toutes (sans s)
+- ligne: 7
+  lemme: Arrivé par gare (l. est complt déserte
+  type: ajout
+  note: ajout interlinéaire d'un module plus petit, sous Continué ensuite sur Armentières ; parenthèse non refermée
+- ligne: 7
+  lemme: l.
+  type: abreviation
+  note: laquelle
+- ligne: 7
+  lemme: complt
+  type: abreviation
+  note: complètement
+- ligne: 9
+  lemme: b
+  type: abreviation
+  note: belles
+- ligne: 11
+  lemme: \inc{çà}
+  type: lecture
+  note: çà retenu pour le sens (çà & là) ; le tracé, haste haute puis e et accent, rappelle aussi là ou très
+- ligne: 11
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 14
+  lemme: '1'
+  type: abreviation
+  note: une
+- ligne: 17
+  lemme: La +
+  type: abreviation
+  note: la plupart
+- ligne: 18
+  lemme: Ecossais
+  type: ajout
+  note: mot ajouté après coup dans l'interligne, d'une encre plus brune ; rattachement incertain (troupes écossaises vues à Armentières ?)
+- ligne: 19
+  lemme: Rentré
+  type: lecture
+  note: sans s final (lu antérieurement Rentrés)
+- ligne: 19
+  lemme: gd
+  type: abreviation
+  note: grande
+- ligne: 20
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 20
+  lemme: '1'
+  type: abreviation
+  note: un
+- ligne: 20
+  lemme: 'off'
+  type: abreviation
+  note: officier
+- ligne: 20
+  lemme: Sussex
+  type: emprunt
+  note: le Royal Sussex Regiment, régiment d'infanterie britannique
+- ligne: 21
+  lemme: très belle
+  type: disposition
+  note: fin de la phrase, écrite faute de place à gauche de la ligne, dans le blanc de l'alinéa
+critique: 'La page continue sans rupture la chevauchée commencée au bas du f. 11 r\textsuperscript{o} ; le rappel « 19 Sam – » occupe en tête la place du mois. Deux ajouts interlinéaires : « Arrivé par gare… », d''un module plus petit, et « Ecossais », d''une encre plus brune et plus claire, sans doute postérieur. Faute de place, « très belle » est écrit au début de la dernière ligne, dans le blanc de l''alinéa.'
+historique: |
+  La blanchisserie Barbry est sans doute à Sailly-sur-la-Lys (voir f. 9 r\textsuperscript{o}). Fleurbaix (Pas-de-Calais), « about a mile behind the line » (Ellis [1920], p. 75), est derrière le secteur que tient encore la 5th Australian Division (ibid., p. 117). Armentières (Nord), à « about two miles from the front line » (ibid., p. 128), reste pourtant habitée « by civilian inhabitants in large numbers », et l'artillerie allemande vise surtout la ville et Houplines (Bewsher 1921, pp. 87-88). L'église de briques est vraisemblablement Saint-Vaast, peinte en ruines par F. Ch. Baude en 1919 (Palissy PM59007232) et rebâtie par L.-M. Cordonnier en 1929. Les « Ecossais » sont les Highlanders de la 152nd Brigade (51st Division), cantonnés en ville depuis les 15-16 août (Bewsher 1921, p. 87). Erquinghem-Lys, « the westerly suburb of Armentières », abrite les bataillons de soutien de la division (Banks \& Chell 1924, p. 142) ; l'officier des Sussex appartient sans doute au 8th Royal Sussex, bataillon de pionniers de la 18th Division (LLT).
+sources:
+- Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], p. 75, 117, 128.
+- Bewsher, F. W., The History of the 51st (Highland) Division, 1914–1918, Édimbourg–Londres, W. Blackwood & Sons, 1921, p. 87-88.
+- Ministère de la Culture, base Palissy, notice PM59007232 (F. Ch. Baude, Vue de l'église Saint-Vaast d'Armentières après les combats de la Première Guerre mondiale, 1919, hôtel de ville d'Armentières).
+- 'Ville d''Armentières, circuit du patrimoine, « Richesses architecturales : l''église Saint-Vaast, la reconstruction » (Cirkwi, point d''intérêt 2443051).'
+- Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., Londres, Gay & Hancock, 1924, p. 142.
+- Baker, C., The Long, Long Trail, « 18th (Eastern) Division » (état archivé du 9 févr. 2017).

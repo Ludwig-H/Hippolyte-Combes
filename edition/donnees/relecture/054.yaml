@@ -1,0 +1,109 @@
+cliche: 54
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 27 Mer. \hfill Sept 1916
+  apres: \sl{27 mer.} \hfill Sept \sl{1916}
+  justification: m initial au module des minuscules ; trait appuyé sous « 27 mer. » ; à droite, le trait commence sous la fin de Sept et souligne 1916
+  confiance: moyenne
+- ligne: 2
+  avant: ds [wagt ?]
+  apres: \inc{ds} \inc{wag^{t}}
+  justification: lecture conservée mais douteuse ; t final haut, barre crochue
+  confiance: basse
+- ligne: 3
+  avant: à Toulouse
+  apres: a Toulouse
+  justification: le trait avant le a est l'accent d'arrivé ; aucun accent propre sur le a (contrôlé au zoom ×2)
+  confiance: haute
+- ligne: 5
+  avant: A 11H m. —
+  apres: A 11^{Hm} –
+  justification: H et m tous deux surélevés au-dessus de la base des 11 ; suivi d'un court tiret à mi-hauteur, pas de point
+  confiance: moyenne
+- ligne: 7
+  avant: + gde intimité —
+  apres: + gd intimité
+  justification: gd sans e (d sur la ligne, zoom ×3 [.55 .21 .75 .275]) ; le long trait en fin de ligne est la barre du t d'intimité, non un tiret
+  confiance: haute
+- ligne: 8
+  avant: après-midi
+  apres: apres-midi
+  justification: aucun accent visible sur apres (zoom ×3 [.24 .27 .45 .33])
+  confiance: haute
+- ligne: 14
+  avant: 90 c + [15 c / 1 f ?]
+  apres: 90 c – + 15 c
+  justification: court tiret entre c et + ; 1 court, puis 5 de type ℓ (haute boucle fermée, descente sous la ligne) suivi d'un c en crochet à longue queue ; un f monétaire serait petit et haut et ne serait pas suivi de c
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: \inc{ds}
+  analyse: haste fine et haute penchée, redescente puis arche (aspect h), petite boucle (e), i à point coiffé ; les ds des l. 4 et 7 ont une panse noircie que ce mot n'a pas ; panse noyée possible (aspect l + arche = ds) ; zoom ×3 [.27 .035 .47 .11] ne tranche pas
+  alternatives:
+  - en
+  - bien (?)
+- ligne: 2
+  lemme: \inc{wag^{t}}
+  analyse: attaque recourbée et minimes (v, w ou u), a fermé (ou o), g ou y à longue boucle descendante, haste suscrite barrée terminée en crochet ; nombre de minimes insuffisant pour un w net
+  alternatives:
+  - vag^{t}
+  - voy^{t}
+- ligne: 14
+  lemme: 15 c
+  analyse: 'après + : un 1 court à pied recourbé, puis une haste qui monte de sous la ligne jusqu''au-dessus des hampes, se referme en boucle et redescend (5 en ℓ) ; enfin un c en crochet à longue queue horizontale ; zoom ×3 [.76 .88 1.0 .96]'
+  alternatives:
+  - 1 f
+- ligne: 14
+  lemme: aux
+  analyse: a, u, finale en boucle fermée à queue montante, sans croix nette ; lu x selon l'usage
+  alternatives:
+  - auz
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Référence complète de l''OH 1916-II (Miles 1938) à rétablir dans « sources ». Sur l''image : « ds wag^{t} » (l. 2) reste incertain ; le supplément du bain est lu 15 c (l. 14) ; le montant des cartes postales n''est pas porté (l. 15, rien après les deux-points).'
+  alternatives: []
+controle:
+- ligne: 14
+  avant: 90 c – + \inc{15} c
+  apres: 90 c – + 15 c
+  justification: 5 en ℓ (haute boucle fermée) suivi d'un c, conforme au guide § 6 ; un f monétaire serait petit et haut ; lecture tranchée, note d'apparat conservée
+- ligne: 1
+  avant: 'note Sept : septembre ; la barre du t se termine en crochet, sans lettres suscrites'
+  apres: 'note Sept : septembre'
+  justification: apparat épuré, description paléographique retirée
+- ligne: 2
+  avant: notes de lecture détaillées sur \inc{ds} et \inc{wag^{t}}
+  apres: notes brèves avec lectures possibles ; ajout de l'abréviation « 1 peu »
+  justification: apparat épuré ; analyses conservées dans difficultes
+- ligne: 3
+  avant: 7^{H}
+  apres: 7^{H} 30 m.
+  justification: abréviation m. (matin) non développée dans la première lecture
+remarques: 'Ligne 15 : le montant des cartes postales n''a pas été porté.'
+resume: 'Après une nuit passée en train, Hippolyte Combes arrive à Toulouse à 7 h 30 et gagne son appartement en tram. À 11 h il monte à Sainte-Marie-des-Champs : les dames Calmels ne doivent arriver que le soir ; il déjeune chez les Crouzet, dans la plus grande intimité, puis fait des courses en ville. À 5 h il remonte à la Côte Pavée et revoit enfin Marguerite, « charmante de simplicité & de tendresse confiante ». Comptes : trams, bain aux Thermes du Languedoc, cartes postales (montant laissé en blanc).'
+noms:
+  personnes:
+  - forme: Les dames Calmels
+    ligne: 5
+    identite: Marguerite Calmels et sa mère
+  - forme: les Crouzet
+    ligne: 7
+    identite: famille de l'oncle Crouzet, à Toulouse
+  - forme: Margte
+    ligne: 11
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  lieux:
+  - forme: Toulouse
+    ligne: 3
+    identite: Toulouse (Haute-Garonne)
+  - forme: S^{te} Marie-des-Champs
+    ligne: 5
+    identite: Sainte-Marie-des-Champs, quartier de Toulouse
+  - forme: Cote Pavée
+    ligne: 10
+    identite: Côte Pavée, quartier de Toulouse
+  - forme: Thermes du Languedoc
+    ligne: 14
+    identite: établissement de bains à Toulouse
+source: contrôle

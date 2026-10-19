@@ -1,0 +1,149 @@
+cliche: 142
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Dim. 4 (suite) \hfill Fév. /17
+  apres: \sl{Dim. 4 (Suite)} \hfill \sl{Fev. '17}
+  justification: deux soulignements nets (le premier part sous « m. » et finit en crosse) ; S majuscule ; aucun accent sur Fev ; trait court et vertical avant 17, non la barre oblique habituelle
+  confiance: haute
+- ligne: 2
+  avant: plus gai.
+  apres: plus \inc{beau}
+  justification: après l'initiale trois éléments e, a, u et un long délié, sans point final ; la haste qui descend dans la l. 3 rejoint le d de midi
+  confiance: moyenne
+- ligne: 3
+  avant: av. Mte.
+  apres: av M^{te}.
+  justification: pas de point après av ; te nettement surélevé
+  confiance: haute
+- ligne: 5
+  avant: A 6h 15, cédant
+  apres: a 6^{h}15, cedant
+  justification: a minuscule sans accent ; h légèrement surélevé ; 5 en ſ à boucle de tête ; aucun accent sur cedant
+  confiance: haute
+- ligne: 6
+  avant: tante Thérèse (Layral).
+  apres: \inc{tantes} Therèse (Layral)
+  justification: une grande boucle fermée suit le petit e de tante ; seul accent visible sur le second e de Therèse ; trait descendant final = parenthèse fermante
+  confiance: moyenne
+- ligne: 7
+  avant: Temps très sec. Rue déserte.
+  apres: Temp très sec. Rue deserte.
+  justification: aucun s après le p descendant ; « très » réduit (aspect hu) ; aucun accent sur deserte
+  confiance: moyenne
+- ligne: 8
+  avant: Après dîner, prolongé causerie j'à
+  apres: Après diner, prolongé causerie j-à
+  justification: point simple sur i ; j lié à à (trait d'union selon l'usage du carnet)
+  confiance: haute
+- ligne: 9
+  avant: 11h 30 — av. Mimi, arrivée train 6h.
+  apres: 11^{h}30 – av Mimi, arrivée train 6^{h} –
+  justification: h suscrits ; tiret court ; pas de point après av ; trait court au pied de 6h, non un point
+  confiance: haute
+- ligne: 10
+  avant: à 11h 40.
+  apres: à 11^{h} \inc{40}.
+  justification: premier chiffre en forme de d (panse basse fermée à gauche, haste montant à droite, tête touchée par la traverse du H) = 4 fermé ; il diffère nettement du 3 à deux panses de la l. 9
+  confiance: basse
+- ligne: 11
+  avant: Ciel nuageux. Nuit très froide.
+  apres: ciel nuageux. Nuit très froide
+  justification: c initial minuscule ; aucun point après froide
+  confiance: haute
+- ligne: 12
+  avant: Ce matin, en m'éveillant, charmé
+  apres: – Ce Matin, en m'eveillant, charmé
+  justification: tiret en massue isolé au pied de la ligne devant Ce ; M à long délié d'attaque ; aucun accent sur eveillant
+  confiance: moyenne
+- ligne: 13
+  avant: églises
+  apres: eglises
+  justification: aucun accent visible
+  confiance: haute
+- ligne: 14
+  avant: chapelles ville —
+  apres: chapelles ville. –
+  justification: point après ville puis tiret court
+  confiance: haute
+- ligne: 15
+  avant: (Cf. Journal, feuille spéciale)
+  apres: \droite (Cf. Journal) / \droite \sl{feuille} speciale)
+  justification: le renvoi tient sur deux lignes ; grande parenthèse fermante après Journal ; trait appuyé sous -uille prolongé sous le s de speciale ; aucun accent sur speciale
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: beau
+  analyse: attaque montante, petite panse à hauteur d'oeil, boucle haute ; puis e, a fermé, u et long délié horizontal. La haste très longue qui descend jusqu'à la l. 3 se prolonge dans le d de midi (même axe, x ≈ .51). Le sens (« Soleil rendait appart. plus clair & plus beau ») convient ; « gai » n'emploie pas les trois éléments après l'initiale. Contrôle p2 (zoom .33 .05 .68 .12) confirme e-a-u.
+  alternatives:
+  - gai
+- ligne: 6
+  lemme: tantes
+  analyse: t-a-n-t sous une longue barre, petit crochet de e, puis grande boucle fermée remontant au-dessus de l'oeil, séparée du T de Therèse par un blanc. Si le petit crochet n'est que la liaison du t, la grande boucle serait un e final agrandi (« tante »), attendu grammaticalement.
+  alternatives:
+  - tante
+- ligne: 6
+  lemme: Layral
+  analyse: L bouclé, a, y descendant, puis r-a-l serrés ; trait descendant détaché avec point au pied = parenthèse fermante (zoom .82 .23 1.0 .33).
+  alternatives:
+  - Layrol
+- ligne: 10
+  lemme: '40'
+  analyse: 'zoom .66 .55 .84 .61 ×3 : H suscrit à deux hastes, traverse prolongée jusqu''à la tête du chiffre suivant ; celui-ci = panse fermée en bas à gauche + haste droite montant à droite (aspect d, 4 fermé du guide § 6) ; puis 0 ; point. Le 3 de la l. 9 a deux panses, absentes ici. La traverse pourrait être un drapeau de 5 (5 en ſ), d''où 50 ; 30 (3 réduit en J) reste possible.'
+  alternatives:
+  - '30'
+  - '50'
+- ligne: 12
+  lemme: – Ce
+  analyse: trait épais horizontal, détaché, au pied de la ligne devant un C à crochet de tête et arc ouvert ; pourrait être le trait de base d'un L en £ (« Le Matin »), mais il ne porte pas la lettre suivante.
+  alternatives:
+  - Le Matin
+- ligne: 16
+  lemme: feuille speciale
+  analyse: petit trait vertical haut entre feuille et speciale, dans le prolongement de la grande parenthèse de la l. 15 (fin de cette parenthèse après levée de plume) ou virgule ; non transcrit.
+  alternatives:
+  - feuille, speciale
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources : faire-part de 1889 (graphie « Layral »), PC-Annexe (« Layrals »), PC-Livre, Barbé 1917 (vague de froid, −8,3 °C à Toulouse le 4 févr.). Restent douteux « beau » (ou « gai »), « tantes » (ou « tante ») et l''heure 11 h 40 (ou 30, 50). Le « Journal, feuille spéciale » est un écrit distinct, non retrouvé.'
+  alternatives: []
+controle:
+- ligne: 10
+  avant: à 11^{h} \inc{30}.
+  apres: à 11^{h} \inc{40}.
+  justification: le chiffre a la forme d'un d (panse basse fermée, haste à droite) = 4 fermé ; rien du 3 à deux panses de la l. 9 ; retour à la lecture antérieure, toujours incertaine
+- ligne: 10
+  avant: (pas d'entrée pour 11^{h})
+  apres: 11^{h} abreviation « 11 heures »
+  justification: abréviation non relevée dans l'apparat
+- ligne: 1
+  avant: apparat disposition (soulignement de « Dim. 4 (Suite) ») ; note paléographique sur '17
+  apres: supprimés ou réduits
+  justification: le balisage \sl{} suffit ; justification paléographique renvoyée dans « changements »
+- ligne: 7
+  avant: apparat abreviation « très » (forme réduite)
+  apres: supprimé
+  justification: le mot est transcrit en toutes lettres ; remarque purement paléographique
+- ligne: 16
+  avant: apparat disposition \sl{feuille}
+  apres: supprimé
+  justification: le balisage suffit
+- ligne: 2
+  avant: notes de lecture l. 2, 6, 10 détaillées (traits, coordonnées)
+  apres: notes brèves (lecture retenue, autre lecture)
+  justification: épuration de l'apparat imprimé ; détails conservés dans « difficultes »
+remarques: Lieu repris de l'état antérieur (Millau), non nommé sur la page. Le renvoi « Cf. Journal, feuille spéciale » suppose un écrit séparé.
+resume: Suite du dimanche 4 février 1917. Hippolyte Combes passe l'après-midi avec Marguerite, qui lui joue quelques morceaux et chante un peu. À 6 h 15, cédant aux instances de tous, il rend visite à l'oncle et à la tante Thérèse (Layral) ; temps très sec, rue déserte. Après le dîner, la causerie se prolonge jusqu'à 11 h 30 avec Mimi, arrivée par le train de 6 h ; il regagne sa chambre vers 11 h 40. Le matin, au réveil, il a été charmé par les sonneries des cloches des églises et chapelles de la ville (renvoi à un « Journal », feuille spéciale).
+noms:
+  personnes:
+  - forme: M^{te}
+    ligne: 3
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Therèse (Layral)
+    ligne: 6
+    identite: tante Thérèse Layral, avec l'oncle
+  - forme: Mimi
+    ligne: 9
+    identite: proche de la famille, arrivée par le train de 6 h
+  lieux: []
+source: contrôle

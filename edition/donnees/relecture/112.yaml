@@ -1,0 +1,216 @@
+cliche: 112
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 22 Ven. \hfill Déc. 1916
+  apres: \sl{22 Ven.} \hfill \sl{Dec 1916}
+  justification: Trait appuyé sous 22 Ven. ; trait long sous la date de droite, décalé vers la droite (x .72-.86, y .085) ; aucun accent ni point à Dec, finale en crochet.
+  confiance: moyenne
+- ligne: 2
+  avant: Dégel rapide.
+  apres: Degel rapide.
+  justification: Aucun accent sur le premier e.
+  confiance: moyenne
+- ligne: 3
+  avant: Pluie fine. Matinée, à Senlis.
+  apres: Pluie fine matinée, à Senlis.
+  justification: 'Aucun point après fine : le e se prolonge en long délié ; m initial minuscule.'
+  confiance: haute
+- ligne: 4
+  avant: Après-midi
+  apres: Aprè-midi
+  justification: A p r + e surmonté d'un trait, sans s.
+  confiance: moyenne
+- ligne: 5
+  avant: par horloger de
+  apres: par horloger à
+  justification: En bout de ligne, a + long accent (ā) placé entre Quesnoy et horloger ; aucun d ni e.
+  confiance: haute
+- ligne: 6
+  avant: Léalvillers.
+  apres: Lealvillers.
+  justification: Aucun accent visible sur le e.
+  confiance: moyenne
+- ligne: 7
+  avant: Soir, Cap. allé dîner à Beauquesne. Rentré
+  apres: Soir Cap. allé diner à Beauquesne Rentré
+  justification: Ni virgule après Soir, ni point après Beauquesne (long délié) ; diner sans circonflexe.
+  confiance: moyenne
+- ligne: 8
+  avant: + tôt billet.
+  apres: \inc{+} tot billet.
+  justification: Signe épais à pied bouclé + petit trait à droite, forme inhabituelle du + ; tot sans circonflexe.
+  confiance: moyenne
+- ligne: 9
+  avant: '[ — Lorgnon : 20 c. ]'
+  apres: '\equerre{1}— Lorgnon : 20c.'
+  justification: Équerre en marge (trait horizontal puis vertical descendant jusqu'à la l. 10), tiret séparé ; aucun crochet fermant.
+  confiance: haute
+- ligne: 10
+  avant: Lettre de Mte, m'a bcp déplu. Très affecté.
+  apres: Lettre de M^{te} m'a bp deplu. Très affecte
+  justification: te surélevé ; aucune virgule ; b + p liés sans c ; ni accent à deplu ni à affecte ; pas de point final.
+  confiance: moyenne
+- ligne: 11
+  avant: le passé & appréhensions pour l'avenir.
+  apres: le passe & appréhensions pour l'avenir
+  justification: Le e de passe se prolonge en délié jusqu'à & ; pas de point final.
+  confiance: moyenne
+- ligne: 12
+  avant: 24 D. — Tjrs même temps.
+  apres: 24 D \hfill Tjours même temps.
+  justification: 'Ni point ni tiret après D ; texte commencé loin à droite ; Tjours : j suivi de jambages et s.'
+  confiance: haute
+- ligne: 13
+  avant: violentes rafales de vent.
+  apres: violentes rafale de vent
+  justification: r-a-f-a-l-e sans s final ; pas de point.
+  confiance: moyenne
+- ligne: 14
+  avant: en course. Matinée
+  apres: en course Matinée
+  justification: 'Contrôle p2 (zoom .45 .53 .85 .58) : aucun point entre le délié final de course et Matinée.'
+  confiance: haute
+- ligne: 15
+  avant: à St-Léger & Orville & Authie. Après-midi
+  apres: à St-Leger + Orville & Authie. Aprè-midi
+  justification: Croix droite détachée entre Leger et Orville, distincte du & en boucle devant Authie ; Leger sans accent.
+  confiance: haute
+- ligne: 16
+  avant: Puchevillers etc. — Toutencourt etc.
+  apres: Puchevillers etc — Toutencourt etc
+  justification: Aucun point après etc ; le second etc serré contre la marge.
+  confiance: moyenne
+- ligne: 17
+  avant: ch. Mme Cuisinier
+  apres: chz M^{me} Cuisinier
+  justification: c-h-z plongeant ; finale de M^{me} surélevée.
+  confiance: haute
+- ligne: 18
+  avant: 'du Cap. W. : « Bloody France etc.! »'
+  apres: 'du cap. W^{m} : « Bloody France etc. ! —'
+  justification: c minuscule ; m suscrit après W ; aucun guillemet fermant, tiret haut après le !.
+  confiance: moyenne
+- ligne: 22
+  avant: du 17 ct. — Velléités de
+  apres: du 17 ct — — velleités de
+  justification: Deux tirets courts ; v minuscule ; aucun accent net sur le premier e.
+  confiance: moyenne
+- ligne: 23
+  avant: gdes appréhensions pour l'avenir.
+  apres: gdes apprehensions pour l'avenir
+  justification: Aucun accent ni point final.
+  confiance: moyenne
+- ligne: 24
+  avant: '[ — Authie : 2 œufs s/ plat : 70 c. — Cartes ples : 30 c ]'
+  apres: '\equerre{1}— Authie : 2 oeufs s/plat : 70c. — Cartes p^{les} : 30c'
+  justification: Équerre en marge descendant jusqu'au bas de la page ; les de p^{les} surélevé ; aucun crochet fermant.
+  confiance: haute
+difficultes:
+- ligne: 8
+  lemme: \inc{+}
+  analyse: Haste très épaisse, descendant sous la ligne et bouclée à gauche, suivie à droite d'un court trait oblique (aspect y') ; aucune traverse nette. Le sens (Rentré plus tôt au billet) appuie +. Contrôle p2 (zoom .06 .24 .30 .30 ×3) sans décision meilleure.
+  alternatives:
+  - y
+  - '&'
+- ligne: 1
+  lemme: \sl{Dec 1916}
+  analyse: Le trait sous la date de droite est bas (y .08) et décalé vers la droite ; même décalage et même crosse d'attaque que le soulignement de 22 Ven. ; il ne tient à aucun mot de la l. 3.
+  alternatives:
+  - Dec \sl{1916}
+- ligne: 13
+  lemme: rafale
+  analyse: Contrôle p2 (zoom ×3) - l bouclé puis e terminé par une courte remontée, sans s plongeant ni crochet final.
+  alternatives:
+  - rafales
+- ligne: 23
+  lemme: gdes
+  analyse: g, d bouclé, e prolongé en délié terminé par un petit crochet montant, qui peut valoir s ; l'accord avec apprehensions appuie gdes.
+  alternatives:
+  - gde
+- ligne: 4
+  lemme: '&'
+  analyse: Contrôle p2 (zoom .58 .11 .72 .16 ×3) - forme « t bouclé » de l'esperluette (petite boucle basse, haste barrée), non la croix détachée du + de la l. 15.
+  alternatives: []
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Quesnoy (l. 4) - sans doute le lieu-dit « le Quesnoy » entre Rubempré et Puchevillers (IGN, à confirmer) ; Orville est dans le Pas-de-Calais (clé lieux corrigée). Les deux formes signalées (\inc{+} tot, l. 8 ; rafale, l. 13) ont été contrôlées en p2.
+  alternatives: []
+controle:
+- ligne: 14
+  avant: Dehors tte la journée, en course. Matinée
+  apres: Dehors tte la journée, en course Matinée
+  justification: Zoom .45 .53 .85 .58 - aucun point entre course (délié final) et Matinée.
+- ligne: 3
+  avant: apparat signe « fine matinée » ; note lecture « mauvaises » mentionnant l'encre
+  apres: note signe supprimée (rendue par la transcription) ; note lecture abrégée, l'encre reste dans critique
+  justification: Épuration de l'apparat.
+- ligne: 4
+  avant: apparat graphie « Quesnoy »
+  apres: supprimée ; identification renvoyée à noms.lieux (lieu-dit, à confirmer)
+  justification: Graphie non trompeuse ; remarque du commentateur.
+- ligne: 13
+  avant: aucune note
+  apres: note lecture « rafale » (singulier, nouvelle par rapport à l'état antérieur)
+  justification: Zoom ×3 - aucun s final.
+- ligne: 0
+  avant: lieux ... Orville ... (Somme)
+  apres: Orville (Pas-de-Calais) séparé dans la clé lieux
+  justification: Remarque du commentateur historique.
+remarques: 'Le cliché 112 (22 et 24 déc.) précède le cliché 113 (19 déc.) : ordre des feuillets inverse de la chronologie. Aucune entrée pour le 23.'
+resume: Le vendredi 22 décembre 1916, par le dégel et la pluie, Hippolyte Combes va le matin à Senlis, l'après-midi à Rubempré et au Quesnoy, et fait réparer son lorgnon chez un horloger de Léalvillers ; le capitaine dîne à Beauquesne. Une lettre de Marguerite l'a fort contrarié. Le dimanche 24, sous les averses et les rafales, il court Saint-Léger, Orville, Authie, Louvencourt, Puchevillers et Toutencourt. À Louvencourt, chez Mme Cuisinier, le capitaine Williams lâche « Bloody France », propos qu'il hésite à signaler à la Mission française. Déprimé depuis la lettre de Marguerite du 17, il évoque des velléités de rupture.
+noms:
+  personnes:
+  - forme: Cap.
+    ligne: 7
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  - forme: M^{te}
+    ligne: 10
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: M^{me} Cuisinier
+    ligne: 17
+    identite: habitante de Louvencourt
+  - forme: cap. W^{m}
+    ligne: 18
+    identite: capitaine Williams
+  - forme: M^{te}
+    ligne: 22
+    identite: Marguerite Calmels
+  lieux:
+  - forme: Senlis
+    ligne: 3
+    identite: Senlis-le-Sec (Somme)
+  - forme: Rubempré
+    ligne: 4
+    identite: Rubempré (Somme)
+  - forme: Quesnoy
+    ligne: 4
+    identite: le Quesnoy, lieu-dit entre Rubempré et Puchevillers (Somme), identification à confirmer
+  - forme: Lealvillers
+    ligne: 6
+    identite: Léalvillers (Somme)
+  - forme: Beauquesne
+    ligne: 7
+    identite: Beauquesne (Somme)
+  - forme: St-Leger
+    ligne: 15
+    identite: Saint-Léger-lès-Authie (Somme)
+  - forme: Orville
+    ligne: 15
+    identite: Orville (Pas-de-Calais)
+  - forme: Authie
+    ligne: 15
+    identite: Authie (Somme)
+  - forme: Louvencourt
+    ligne: 16
+    identite: Louvencourt (Somme)
+  - forme: Puchevillers
+    ligne: 16
+    identite: Puchevillers (Somme)
+  - forme: Toutencourt
+    ligne: 16
+    identite: Toutencourt (Somme)
+  - forme: French Mission
+    ligne: 20
+    identite: Mission française auprès de l'armée britannique
+source: contrôle

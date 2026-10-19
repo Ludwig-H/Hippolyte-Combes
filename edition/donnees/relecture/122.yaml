@@ -1,0 +1,196 @@
+cliche: 122
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 10 Me. \hfill — Janvier 1917 —
+  apres: \sl{10 Me} \hfill — \sl{Janvier 1917} —
+  justification: aucun point après Me ; trait long sous 10 Me et sous Janvier 1917 seulement
+  confiance: haute
+- ligne: 2
+  avant: matinée,
+  apres: matinée
+  justification: le trait sous la fin du mot est la queue du J de Janvier
+  confiance: moyenne
+- ligne: 3
+  avant: Miraumont.
+  apres: Miraumt
+  justification: M-i-r-a-u-m puis t à longue barre ; ni -on- ni point (vérifié au zoom en p2)
+  confiance: haute
+- ligne: 4
+  avant: Belle-Église,
+  apres: Belle-Eglise,
+  justification: E sans accent ; la virgule est le long trait vertical en marge droite
+  confiance: haute
+- ligne: 5
+  avant: enfin, mon vieux Morris!
+  apres: enfin mon vieux Morris.
+  justification: aucune virgule après enfin ; Morris suivi d'un point ; le trait au-dessus à droite est la virgule de la l. 4
+  confiance: moyenne
+- ligne: 10
+  avant: réparation pince-nez et pour
+  apres: réparatn pince-nez et pour,
+  justification: après t une seule minime puis finale plongeante ; long trait vertical en marge droite (virgule)
+  confiance: moyenne
+- ligne: 11
+  avant: '1 neuf d''après ordonnance : 19 fr. ]'
+  apres: '1 neuf (d''après ordonnance : 19 fr.'
+  justification: parenthèse fine et haute devant d'après ; aucun crochet fermant
+  confiance: moyenne
+- ligne: 12
+  avant: 11 J. — Neige & pluie fine, presque tt le jour.
+  apres: \sl{11 J} – Neige & pluie fine, presque tt le jour
+  justification: souligné coupé par le jambage du J ; pas de point ; tiret court ; pas de point final
+  confiance: haute
+- ligne: 13
+  avant: A whole day off —
+  apres: \ind a whole day, off —
+  justification: a au module d'une minuscule ; virgule nette après day
+  confiance: moyenne
+- ligne: 14
+  avant: Mis à jour correspondance en arriéré.
+  apres: Mis à jour correspce \inc{moult} en arriéré.
+  justification: 'deux mots séparés : forme abrégée corresp- puis m-o-u + haute haste + t'
+  confiance: moyenne
+- ligne: 15
+  avant: Soir, dîné seul. Rentré tôt chambre.
+  apres: Soir, diné \del{seul}. Rentré tot chambre
+  justification: seul barré d'un trait appuyé (confirmé au zoom) ; pas de circonflexe sur tot ni de point final
+  confiance: moyenne
+- ligne: 16
+  avant: 12 Ve. Durant nuit, neigé encore.
+  apres: \sl{12 Ve}. Durant nuit, neigé encore
+  justification: souligné sous 12 Ve ; pas de point final
+  confiance: haute
+- ligne: 17
+  avant: 'Toute matinée, averses et giboulées :'
+  apres: \ind – Toute matinée, averses et giboulées,
+  justification: tiret avant Toute ; signe final en crochet plongeant = virgule, non deux-points
+  confiance: moyenne
+- ligne: 20
+  avant: plateaux de Louvencourt.
+  apres: plateaux de Louvencourt
+  justification: barre du t prolongée, pas de point
+  confiance: moyenne
+- ligne: 22
+  avant: où déjeuné au
+  apres: où dejeuné au
+  justification: aucun accent sur le premier e
+  confiance: moyenne
+- ligne: 23
+  avant: Café Continental.
+  apres: Café Continental
+  justification: pas de point, seulement le délié final
+  confiance: moyenne
+- ligne: 25
+  avant: Rentré vers 6h, nuit noire.
+  apres: Rentré vers 6^{h}, nuit noire.
+  justification: H suscrit
+  confiance: haute
+difficultes:
+- ligne: 14
+  lemme: moult
+  analyse: 'zoom ×3 rehaussé (p2) : trois minimes (m), o fermé, u, puis une haute haste oblique montant bien au-dessus de la ligne, enfin un court trait médian (barre de t ?) ; encre pâle ; aucun v net, mais la lettre entre u et la haste reste indistincte'
+  alternatives:
+  - mouvt
+  - moment
+- ligne: 14
+  lemme: correspce
+  analyse: c-o-r-e-s-p puis finale réduite (ce lu le) ; forme correspce attestée en 128, 144, 156
+  alternatives:
+  - correspondce
+- ligne: 16
+  lemme: neigé
+  analyse: arc fin et haut détaché après le e final, plus grand qu'un accent ordinaire ; lu accent décalé (il a neigé), la syntaxe l'appuie ; pourrait être une virgule ou une parenthèse ouvrante non refermée
+  alternatives:
+  - neige, encore
+  - neige (encore
+- ligne: 13
+  lemme: 'off'
+  analyse: o très réduit, fondu dans l'attaque du premier f (au zoom p2, deux f seulement nettement visibles)
+  alternatives:
+  - ff
+- ligne: 18
+  lemme: neige.
+  analyse: point après neige non confirmé au zoom ; maintenu d'après la première lecture
+  alternatives:
+  - neige
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Morris n''est pas identifié (camarade britannique d''une autre compagnie ?) ; Belle-Église : lieu-dit près de Bertrancourt (Somme) selon p1, Arquèves selon R4 — à trancher sur carte.'
+  alternatives: []
+controle:
+- ligne: 9
+  avant: apparat disposition « [ — Mandat-poste » (crochet d'une ligne)
+  apres: note supprimée
+  justification: le crochet d'une ligne est rendu par « [ » dans la transcription
+- ligne: 11
+  avant: apparat signe « (d'après » (parenthèse non refermée)
+  apres: note supprimée ; ajout de l'abréviation fr. = francs
+  justification: la transcription rend la parenthèse ; fr. n'était pas développé
+- ligne: 21
+  avant: St-Léger sans note
+  apres: abréviation St-Léger = Saint-Léger(-lès-Authie)
+  justification: chaque abréviation doit être développée
+- ligne: 14
+  avant: note de lecture avec analyse lettre à lettre
+  apres: note brève (mot nouveau, autre lecture mouvt)
+  justification: épuration de l'apparat ; l'analyse va dans difficultes
+- ligne: 0
+  avant: critique mentionnant les virgules en marge (l. 4, 10, 17, 21)
+  apres: critique réduite à la reprise de plume
+  justification: remarque paléographique sans utilité pour le lecteur imprimé
+- ligne: 5
+  avant: Morris, lieutenant britannique
+  apres: Morris, ancien camarade non identifié
+  justification: grade et nationalité non attestés sur la page
+remarques: Les arcs fins en forme de « ( » servent tantôt de virgule (l. 21), tantôt d'accent (l. 15, 16), tantôt de parenthèse (l. 11).
+resume: Le 10 janvier 1917, canonnade toute la nuit sur Miraumont ; course en auto à Saint-Léger et Belle-Église, où Hippolyte Combes retrouve son vieux camarade Morris, qui lui rend visite l'après-midi. Il envoie un mandat de 19 fr. à l'opticien Imbert pour réparer son pince-nez et en faire un neuf. Le 11, journée de repos sous la neige, consacrée au courrier en retard. Le 12, pris par une tempête de grésil entre Authie, Arquèves et Louvencourt, il fait ses tournées (Louvencourt, Saint-Léger, Raincheval, Beauquesne, où il déjeune au Café Continental, Septenville, Rubempré) et rentre vers 6 h.
+noms:
+  personnes:
+  - forme: Morris
+    ligne: 5
+    identite: ancien camarade d'Hippolyte Combes, non identifié
+  - forme: Imbert
+    ligne: 9
+    identite: opticien à Paris
+  lieux:
+  - forme: Miraumt
+    ligne: 3
+    identite: Miraumont (Somme)
+  - forme: St-Léger
+    ligne: 4
+    identite: Saint-Léger-lès-Authie (Somme)
+  - forme: Belle-Eglise
+    ligne: 4
+    identite: Belle-Église, lieu-dit près de Bertrancourt (Somme)
+  - forme: Paris
+    ligne: 10
+    identite: Paris
+  - forme: Authie
+    ligne: 19
+    identite: Authie (Somme)
+  - forme: Arquèves
+    ligne: 19
+    identite: Arquèves (Somme)
+  - forme: Louvencourt
+    ligne: 20
+    identite: Louvencourt (Somme)
+  - forme: St-Léger
+    ligne: 21
+    identite: Saint-Léger-lès-Authie (Somme)
+  - forme: Raincheval
+    ligne: 22
+    identite: Raincheval (Somme)
+  - forme: Beauquesne
+    ligne: 22
+    identite: Beauquesne (Somme)
+  - forme: Café Continental
+    ligne: 23
+    identite: café de Beauquesne
+  - forme: Septenville
+    ligne: 24
+    identite: Septenville, hameau de Rubempré (Somme)
+  - forme: Rubempré
+    ligne: 24
+    identite: Rubempré (Somme)
+source: contrôle

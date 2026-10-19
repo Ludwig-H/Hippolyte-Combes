@@ -1,0 +1,144 @@
+cliche: 50
+fichier: 20251126_103019.jpg
+date: Lundi 25 septembre 1916
+mois: Septembre 1916
+lieux: Forceville et Acheux-en-Amiénois (Somme)
+titre: Fourrage vert à Forceville avec le lieutenant Ford ; départ en permission, Acheux-Varennes
+transcription: |
+  \sl{25 L} \hfill \sl{Sept /16}
+  \ind[2] Vers 7^{H}, sur pied.
+  Au firmament bleuissant, léger croissant lunaire
+  et 2 étoiles très brillantes —
+  Temps superbe
+  Bientot, entiert pret à partir
+  Promené champs tt en haut plateau
+  Dû venir à Forceville avec Lt Ford, for green
+  forage Chaleur très forte
+  à midi enfin, monté sur le dernier wagon
+  du convoy allant au railhead, puis continué
+  à travers chps j à station d'Acheux-Varennes
+  Laissé mes colis à Office de l'R.T.O. & venu
+  village déjeuné.
+  Puis attendu lgt. ds mon compartimt petit
+  train départemental en gare —
+  chaleur intense
+  \blanc{4}
+  \equerre{2}Tip à mon groom : 2^{f} — Biscuits.
+  Lunch à Acheux : 1^{f} 50 \hfill 0.50c
+apparat:
+- ligne: 1
+  lemme: L
+  type: abreviation
+  note: lundi
+- ligne: 1
+  lemme: Sept /16
+  type: abreviation
+  note: septembre 1916
+- ligne: 2
+  lemme: 7^{H}
+  type: abreviation
+  note: 7 heures
+- ligne: 6
+  lemme: entiert
+  type: abreviation
+  note: entièrement
+- ligne: 7
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 8
+  lemme: avec
+  type: lecture
+  note: forme pleine (a, v, e et délié final) ; lu antérieurement « av. »
+- ligne: 8
+  lemme: Lt
+  type: abreviation
+  note: lieutenant
+- ligne: 8
+  lemme: for green
+  type: emprunt
+  note: pour du (fourrage) vert ; l'expression « for green forage » se poursuit à la ligne suivante
+- ligne: 9
+  lemme: forage
+  type: emprunt
+  note: fourrage
+- ligne: 11
+  lemme: convoy
+  type: emprunt
+  note: convoi
+- ligne: 11
+  lemme: railhead
+  type: emprunt
+  note: tête de ligne, gare de ravitaillement
+- ligne: 12
+  lemme: chps
+  type: abreviation
+  note: champs
+- ligne: 12
+  lemme: j à
+  type: abreviation
+  note: jusqu'à
+- ligne: 13
+  lemme: Office
+  type: emprunt
+  note: bureau
+- ligne: 13
+  lemme: à Office
+  type: lecture
+  note: O majuscule, sans article ni apostrophe ; lu antérieurement « à l'office »
+- ligne: 13
+  lemme: R.T.O.
+  type: abreviation
+  note: Railway Transport Officer, commissaire militaire de gare
+- ligne: 13
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 15
+  lemme: lgt.
+  type: abreviation
+  note: longtemps
+- ligne: 15
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 15
+  lemme: compartimt
+  type: abreviation
+  note: compartiment
+- ligne: 18
+  lemme: Tip
+  type: emprunt
+  note: pourboire
+- ligne: 18
+  lemme: groom
+  type: emprunt
+  note: palefrenier, soldat chargé de son cheval
+- ligne: 18
+  lemme: 2^{f}
+  type: abreviation
+  note: 2 francs
+- ligne: 19
+  lemme: Lunch
+  type: emprunt
+  note: déjeuner
+- ligne: 19
+  lemme: 1^{f} 50
+  type: abreviation
+  note: 1 franc 50
+- ligne: 19
+  lemme: 0.50c
+  type: disposition
+  note: 50 centimes, montant des biscuits (l. 18), écrit sous « Biscuits. »
+critique: Encre violette. Les comptes sont rejetés au pied de la page après un blanc ; le récit de la journée se poursuit sur la page suivante (f.~26 r\textsuperscript{o}).
+historique: |
+  Le croissant précède de deux jours la nouvelle lune du 27 (Espenak) ; les « 2 étoiles » sont très probablement Vénus et Jupiter (calcul de l'éditeur). Le « Lt Ford » est sans doute Edward Maurice Ford (né en 1882), \textit{2nd Lieutenant} de l'A.S.C. en 1915, qui « served in France with the 18th Divisional Train », capitaine et M.C. en 1917--1918 (Nichols 1922, p.~432 ; Spink, lot 188). Le convoi va à Acheux, tête de ligne des vivres (OH 1916-I, p.~273--274). La gare d'Acheux-Varennes est celle de la voie métrique d'Albert à Doullens qui rejoint la ligne du Nord à Gézaincourt (Wikipédia, « Chemins de fer départementaux de la Somme ») ; le \textit{R.T.O.}, \textit{Railway Transport Officer}, y tient le rôle du commissaire militaire de gare (\textit{Dictionary} 1919, s.v. « Commissaire »). Le \textit{groom} est sans doute Connelly (voir f.~6 r\textsuperscript{o}). Ce jour, « fine and sunny », la Fourth Army prend Morval et Lesbœufs (OH 1916-II, p.~373) et la 54th Brigade monte au bois de Thiepval, qu'elle attaque le 26 à 12 h 35 (JMO 7/Bedf, 25 sept. 1916 ; Nichols 1922, p.~81).
+sources:
+- 'Espenak, F., Six Millennium Catalog of Phases of the Moon, table « Phases of the Moon : 1901 to 2000 », astropixels.com ; positions de Vénus et de Jupiter calculées avec PyEphem 4.2.1 pour Forceville au lever du soleil.'
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 79, 81, 432.
+- 'Spink, Orders, Decorations and Medals e-Auction 3 (vente 21102), lot 188 : « A Great War M.C. group of four awarded to Captain E. M. Ford, Royal Army Service Corps » (spink.com/lot/21102000188).'
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273-274.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 373.
+- Wikipédia, « Chemins de fer départementaux de la Somme », § « Ligne d'Albert à Doullens », consulté le 17 oct. 2026.
+- French-English Dictionary of Military Terms and of Other Terms Useful to Officers, Londres, HMSO, 1919, s.v. « Commissaire ».
+- 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (cité « JMO 7/Bedf »), 25 sept.'

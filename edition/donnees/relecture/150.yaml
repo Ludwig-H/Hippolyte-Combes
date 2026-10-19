@@ -1,0 +1,140 @@
+cliche: 150
+confiance: moyenne
+changements:
+- ligne: 2
+  avant: Lieutt
+  apres: Lieut^{t}
+  justification: Lieu + t sur la ligne + t suscrit dont la barre se prolonge jusqu'au-dessus de « Croughton »
+  confiance: haute
+- ligne: 3
+  avant: 'fr. : appris'
+  apres: fr^{e}, appris
+  justification: 'après fr, petit crochet suscrit (finale) ; au-dessous, une seule virgule verticale : pas de deux-points'
+  confiance: moyenne
+- ligne: 7
+  avant: Écrit
+  apres: Ecrit
+  justification: aucun accent sur l'E initial
+  confiance: moyenne
+- ligne: 8
+  avant: 6h s., avec Cap. W.,
+  apres: 6^{h} s ; avec Cap. W^{m},
+  justification: h suscrit ; s du soir réduit à un trait vertical, suivi d'un point haut et d'une virgule ; W suivi d'un m suscrit (cf. cap. W^{m}, 112)
+  confiance: moyenne
+- ligne: 11
+  avant: Sur pied dès 7h.
+  apres: \ind[2] Sur pied dès 7^{h}.
+  justification: ligne en retrait sous la date ; h suscrit
+  confiance: haute
+- ligne: 12
+  avant: Lignes
+  apres: \inc{L^{ns}}
+  justification: 'le mot n''est pas écrit en entier : L bouclé + lettres suscrites (jambage arqué, finale verticale)'
+  confiance: moyenne
+- ligne: 14
+  avant: Nuit & matinée, froid vif, très pénétrant.
+  apres: nuit & matinée, froid vif. très penetrant
+  justification: n initial au module des minuscules ; point (non virgule) après vif ; aucun accent sur penetrant ; pas de point final
+  confiance: moyenne
+- ligne: 15
+  avant: Gelé toujours très fort.
+  apres: gelé toujrs très fort
+  justification: 'g au module minuscule ; après j un seul jambage puis s plongeant : forme abrégée'
+  confiance: moyenne
+- ligne: 17
+  avant: côtés, champs
+  apres: cotes, champs
+  justification: aucun circonflexe ni accent visibles, seule la barre du t ; virgule haute avant champs (contrôle p2)
+  confiance: moyenne
+- ligne: 18
+  avant: lève
+  apres: leve
+  justification: aucun accent sur le premier e
+  confiance: moyenne
+- ligne: 19
+  avant: Au château
+  apres: au chateau
+  justification: a au module minuscule ; pas de circonflexe
+  confiance: moyenne
+- ligne: 20
+  avant: génal [Volké ?]
+  apres: gal \inc{Votté}
+  justification: g + al, sans é ni n ; nom relu en p2 (tt barré) et toujours incertain
+  confiance: moyenne
+- ligne: 21
+  avant: Village
+  apres: village
+  justification: v initial au module minuscule
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: \sl{9 (suite)}
+  analyse: 'le trait part sous la fin de Vendredi (di) et s''arrête sous (s ; pas de soulignement sous Février 1917 : le long trait sous la date du mois est la barre du t suscrit de Lieut^{t}'
+  alternatives:
+  - \sl{Vendredi 9 (suite)}
+- ligne: 11
+  lemme: dès
+  analyse: d bouclé, deux jambages (e + s réduits), trait horizontal détaché au-dessus à droite (accent) ; « Dû » de la l. 12 porte au contraire un vrai circonflexe ; l'expression « Sur pied dès 6H » (062) appuie dès
+  alternatives:
+  - du
+- ligne: 12
+  lemme: L^{ns}
+  analyse: L en ℒ (grande boucle haute, boucle basse, pied), puis, suscrits, une boucle ou un jambage arqué (g ou n) et une finale verticale (s réduit) ; zoom ×3 sans décision
+  alternatives:
+  - L^{es}
+  - L^{gn}
+  - Lignes
+- ligne: 15
+  lemme: toujrs
+  analyse: t barré, o, u, j à longue descente pointé, un jambage, s plongeant
+  alternatives:
+  - toujs
+  - toujis
+- ligne: 20
+  lemme: Votté
+  analyse: V à long délié, o, deux hastes droites sans boucle (donc t plutôt que l bouclé) reliées par une barre transversale à mi-hauteur, e lié au délié final ; accent en croissant posé à droite ; la barre peut aussi être le nœud d'un k (Volké) ou un ss en « ll »
+  alternatives:
+  - Volké
+  - Vollé
+  - Vossé
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Le général n'a pas été identifié (ni sous Volké ni sous Votté), le Lt Croughton non plus ; Martinsart (aujourd'hui Mesnil-Martinsart). Calendrier de solde (3 et 18 du mois) à rapprocher des f. 78 r°, 81 r° et 85 r°.
+  alternatives: []
+controle:
+- ligne: 17
+  avant: Des 2 cotes champs couverts
+  apres: Des 2 cotes, champs couverts
+  justification: petit trait vertical haut devant champs, même forme que la virgule devant partis (l. 16) ; zoom ×3
+- ligne: 20
+  avant: \inc{Volké}
+  apres: \inc{Votté}
+  justification: deux hastes sans boucle coupées d'une barre transversale (tt) ; aucun nœud de k distinct ; incertitude maintenue
+- ligne: 0
+  avant: apparat (très graphie ; notes paléographiques sur fr^{e}, s, Volké)
+  apres: apparat épuré ; ajout des abréviations omises (ds l. 8, & l. 14, 7^{h}, 6^{h} s)
+  justification: règle d'épuration de l'apparat imprimé ; « très » réduit à « hu » est la forme courante
+remarques: La suite (151) mentionne le Lt Bradfield et la route d'Aveluy.
+resume: L'après-midi du vendredi 9 février 1917, Hippolyte Combes va à Toutencourt dans l'auto du lieutenant Croughton ; au bureau de la Mission française, il apprend qu'il sera désormais administré par l'armée et payé les 3 et 18 de chaque mois. Il rentre en camion, écrit dans la salle du café de sa maison, puis parcourt les fermes le soir avec le capitaine Williams pour acheter paille et foin. Le samedi 10, levé à 7 heures, il doit aller aussitôt aux lignes du Motor Transport ; froid vif et gel. Après le petit déjeuner, il part en auto pour Martinsart par des routes en pente entre des champs couverts de neige durcie ; au château, il est reçu par un général très aimable ; le village est rempli de troupes anglaises.
+noms:
+  personnes:
+  - forme: Croughton
+    ligne: 2
+    identite: lieutenant britannique
+  - forme: Cap. W^{m}
+    ligne: 8
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  - forme: Votté
+    ligne: 20
+    identite: général reçu au château de Martinsart (lecture incertaine, non identifié)
+  lieux:
+  - forme: Toutencourt
+    ligne: 3
+    identite: Toutencourt (Somme)
+  - forme: Martinsart
+    ligne: 16
+    identite: Martinsart (Somme)
+  - forme: Martinsart
+    ligne: 19
+    identite: Martinsart (Somme)
+source: contrôle

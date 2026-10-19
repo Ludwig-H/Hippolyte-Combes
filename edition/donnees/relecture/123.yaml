@@ -1,0 +1,183 @@
+cliche: 123
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Janv. /17
+  apres: \sl{Janv. 17}
+  justification: le petit trait devant 17 est le trait d'attaque du 1, non une barre de millésime ; mois et millésime soulignés ; date de gauche soulignée aussi
+  confiance: haute
+- ligne: 2
+  avant: (neige fondue)
+  apres: \add{(neige fondue)}
+  justification: écrit dans l'interligne, sous « fine et »
+  confiance: haute
+- ligne: 6
+  avant: 'Ve corps : vu'
+  apres: 'V^{e} corps : Vu'
+  justification: e suscrit ; V de « Vu » au module majuscule, identique au V de V^{e}
+  confiance: moyenne
+- ligne: 7
+  avant: Cap. Huguet; mon départ fixé défint
+  apres: 'cap. Huguet : mon départ fixé definit'
+  justification: c minuscule ; deux-points nets après Huguet ; deux points d'i dans d-e-f-i-n-i-t, sans accent visible sur le e
+  confiance: moyenne
+- ligne: 8
+  avant: 14 D. Neige
+  apres: 14 D. – Neige
+  justification: point abréviatif suivi d'un court tiret bas
+  confiance: moyenne
+- ligne: 10
+  avant: extt jolies avec ce léger
+  apres: ext^{t} jolies avec \inc{ce} leger
+  justification: t final haut ; le mot bref a la forme d'un a fermé ; aucun accent visible sur leger
+  confiance: moyenne
+- ligne: 11
+  avant: duvet — ainsi ouatées.
+  apres: duvet – ainsi ouatées
+  justification: tiret court ; aucun point final
+  confiance: moyenne
+- ligne: 12
+  avant: courses
+  apres: course
+  justification: même finale qu'à la l. 4 (s + e + délié), pas de second s
+  confiance: moyenne
+- ligne: 13
+  avant: à St-Léger.
+  apres: à St-Léger –
+  justification: tiret après le nom
+  confiance: haute
+- ligne: 14
+  avant: 15 L. Pluie fine, par intermittence.
+  apres: \sl{15 L} Pluie fine, par intermittence
+  justification: date soulignée, sans point ; finale prolongée sans point
+  confiance: haute
+- ligne: 15
+  avant: pittoresques
+  apres: pittoresq
+  justification: le mot s'arrête sur le q à la marge droite
+  confiance: haute
+- ligne: 16
+  avant: au-delà de Beauquesne. Champs
+  apres: au delà de Beauquesne – Champs
+  justification: pas de trait d'union ; tiret, non point, avant Champs
+  confiance: haute
+- ligne: 17
+  avant: neige. Masses
+  apres: neige – Masses
+  justification: tiret après neige
+  confiance: haute
+- ligne: 19
+  avant: au 1/2 du blanc
+  apres: au \fr{1}{2} du blanc
+  justification: fraction empilée (1, barre, 2 bouclé)
+  confiance: haute
+- ligne: 20
+  avant: 'Doullens : visité ville,'
+  apres: Doullens visité ville.
+  justification: aucun deux-points ; point rond en fin de ligne
+  confiance: haute
+- ligne: 21
+  avant: arrêt église
+  apres: arret église
+  justification: aucun circonflexe ; le trait au-dessus du e d'église est la barre du t prolongée (ou l'accent d'église)
+  confiance: moyenne
+- ligne: 22
+  avant: '[ — 2 douz. ctes ples : 1 f. — Lunch : 1 f 90'
+  apres: '\equerre{2}— 2 douz. c^{tes} p^{les} : 1^{f} — \hfill — Lunch 1^{f}90'
+  justification: équerre ⌜ sur deux lignes ; f monétaire haut sous une longue barre ; aucun deux-points après Lunch ; f et 90 suscrits
+  confiance: moyenne
+- ligne: 23
+  avant: '— 1 plaque chocolat : 60 c — ]'
+  apres: '— 1 plaque chocolat : \inc{60} c'
+  justification: aucun crochet fermant ; le long délié du c n'est pas un tiret distinct
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: au bureau
+  analyse: a + u, avec un trait parasite (jambage du y de Montigny, l. 5) ; pas de x
+  alternatives:
+  - aux
+- ligne: 7
+  lemme: definit
+  analyse: 'd bouclé, e, f à longue descente, i (point), n, i (point), grand t barré qui recoupe le « : » de la l. 6'
+  alternatives:
+  - défint
+  - définit
+- ligne: 8
+  lemme: tombé
+  analyse: t-o-m-b-e ; l'accent est une crosse détachée en forme de s au-dessus de la fin du mot
+  alternatives:
+  - tombée
+  - tombés
+- ligne: 10
+  lemme: ce
+  analyse: panse ovale fermée à jambage court, forme du a ; le c initial semble fondu dans la panse
+  alternatives:
+  - a
+  - '1'
+- ligne: 10
+  lemme: Branches
+  analyse: B-r-a-n-c-h-e + long délié, comme « blanche » ; le s final n'est pas distinct
+  alternatives:
+  - Branche
+- ligne: 22
+  lemme: 1^{f} —
+  analyse: 1 à longue haste, puis petit f en ſ crochu à gauche, haut, coiffé d'une barre épaisse prolongée à droite (barre du f et tiret)
+  alternatives:
+  - 1 f. —
+  - '15'
+- ligne: 22
+  lemme: Lunch 1^{f}90
+  analyse: L-u-n-c-h, petite boucle (fin du h ou é ?), 1, puis f et 90 petits et surélevés
+  alternatives:
+  - Lunché 1^{f}90
+  - 'Lunch : 1 f 90'
+- ligne: 23
+  lemme: '65'
+  analyse: 6 à boucle basse fermée ; puis tracé haut bouclé dont la haste descend nettement sous la ligne vers la gauche (5 en ℓ ou f), sans commune mesure avec les petits 0 ovales de « 90 » (l. 22) ; puis c à long délié
+  alternatives:
+  - '60'
+  - 6 f
+controle:
+- ligne: 23
+  avant: \inc{60} c
+  apres: \inc{65} c
+  justification: 'zoom x3 [.55 .92 .82 .99] : le second chiffre est une haute boucle à longue haste descendant sous la ligne, forme du 5 bouclé (guide § 6, 5 b) ; le 0 de l''auteur est un petit ovale à hauteur d''œil (cf. 90, l. 22) ; 60 reste possible'
+- ligne: 22
+  avant: 1^{f} —
+  apres: \inc{1^{f}} —
+  justification: 'zoom x3 [.58 .87 .82 .95] : après le 1, crochet en J surélevé sous une barre épaisse ; ni boucle de tête de f ni panse de 5 ; 1 f (24 cartes à environ 4 c) reste la lecture la plus probable, 1 5 possible'
+- ligne: 2
+  avant: 'apparat (neige fondue) : note de position détaillée'
+  apres: note abrégée
+  justification: épuration de l'apparat ; ajout d'une abréviation omise (3 h., l. 20) et de la note de lecture l. 22
+remarques: Le départ fixé au 26 est vraisemblablement celui de la permission (cf. clichés suivants). Total des comptes non porté.
+resume: 'Samedi 13 janvier 1917 : pluie fine, neige fondue et brouillard ; course en auto l''après-midi à Beaucourt et Montigny. Le matin, au bureau de la Mission française du Ve corps, le capitaine Huguet a fixé définitivement son départ au 26 courant. Dimanche 14 : neige à gros flocons toute la matinée ; toits et arbres couverts d''un léger duvet ; courses à Louvencourt et Saint-Léger. Lundi 15 : course à Doullens par Beauquesne et Raincheval, paysages de neige ; trois heures de liberté pour visiter la ville et l''église. Comptes : cartes postales, déjeuner, chocolat.'
+noms:
+  personnes:
+  - forme: Huguet
+    ligne: 7
+    identite: capitaine Huguet, Mission française auprès du Ve corps britannique
+  lieux:
+  - forme: Beaucourt
+    ligne: 4
+    identite: Beaucourt-sur-l'Hallue (Somme)
+  - forme: Montigny
+    ligne: 5
+    identite: Montigny-sur-l'Hallue (Somme)
+  - forme: Louvencourt
+    ligne: 12
+    identite: Louvencourt (Somme)
+  - forme: St-Léger
+    ligne: 13
+    identite: Saint-Léger-lès-Authie (Somme)
+  - forme: Doullens
+    ligne: 15
+    identite: Doullens (Somme)
+  - forme: Beauquesne
+    ligne: 16
+    identite: Beauquesne (Somme)
+  - forme: Raincheval
+    ligne: 19
+    identite: Raincheval (Somme)
+source: contrôle

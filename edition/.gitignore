@@ -1,0 +1,9 @@
+fac-similes/
+*.aux
+*.log
+*.out
+*.toc
+livre_journal.tex
+livret_A4.tex
+*.synctex.gz
+__pycache__/

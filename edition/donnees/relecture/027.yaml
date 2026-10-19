@@ -1,0 +1,158 @@
+cliche: 27
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Ven. 25 \hfill Août 1916
+  apres: \sl{Ven. 25} \hfill Aout \sl{1916}
+  justification: date soulignée ; seul 1916 est souligné à droite ; aucun circonflexe sur Aout
+  confiance: haute
+- ligne: 2
+  avant: 8H m.. –
+  apres: 8^{H} m. –
+  justification: H suscrit ; un seul point puis un tiret
+  confiance: haute
+- ligne: 3
+  avant: peu à peu. devint
+  apres: peu à peu – \inc{devint}
+  justification: court tiret à mi-hauteur, non un point ; tracé du verbe compact (d + va + n + finale descendante)
+  confiance: moyenne
+- ligne: 4
+  avant: A 11H m. – à
+  apres: A 11^{H} m – à
+  justification: H suscrit ; un seul court trait après m
+  confiance: moyenne
+- ligne: 5
+  avant: chevaux
+  apres: \inc{chevx}
+  justification: chev + petite boucle seulement, puis l'esperluette ; mot abrégé
+  confiance: moyenne
+- ligne: 6
+  avant: à midi ½.
+  apres: à midi \fr{1}{2}.
+  justification: fraction empilée
+  confiance: haute
+- ligne: 7
+  avant: Train démarre v. 1H 1/2
+  apres: Train démarré vers 1^{H}\fr{1}{2}
+  justification: accent sur la finale ; vers écrit (v + e + r + finale) ; H suscrit et fraction empilée serrée
+  confiance: moyenne
+- ligne: 8
+  avant: plusies gares imptes sans arrêt
+  apres: plusis gares imptes sans arret
+  justification: p-l-u-s-i (point) -s descendant, pas de e ; aucun circonflexe sur arret
+  confiance: moyenne
+- ligne: 9
+  avant: 'A Lillers, vers 2H [45 ?] \hfill Hazebrouck : 2H'
+  apres: 'A Lillers, vers 2^{H}45 \hfill Hazebrouck : 2^{H}'
+  justification: 4 fermé (aspect d) et 5 en ſ à longue haste ; H suscrits
+  confiance: haute
+- ligne: 10
+  avant: 'A St. Pol : à 4H 30 s. \hfill Berguette : 2H30'
+  apres: 'A St-Pol, à 4^{H}30 s. \hfill Berguette : 2^{H}30'
+  justification: trait d'union bas entre St et Pol ; virgule (trait vertical) et non deux-points ; H suscrits
+  confiance: haute
+- ligne: 11
+  avant: Pris route à 5H – d'abord bruine,
+  apres: Pris route à 5^{H} – d'abord bruine,
+  justification: H suscrit
+  confiance: haute
+- ligne: 12
+  avant: puis pluie battante
+  apres: puis pluie battante \trait
+  justification: délié final tiré loin vers la droite
+  confiance: moyenne
+- ligne: 13
+  avant: Pays pittoresque. Ce
+  apres: \ind Pays pittoresque Ce
+  justification: alinéa ; aucun point, seulement le long délié final
+  confiance: haute
+- ligne: 16
+  avant: comme au printemps. Si champs n'étaient
+  apres: cme au printemps. Si champs \inc{n'était}
+  justification: comme abrégé cme ; après l'apostrophe é-t-a puis deux jambages et t final barré, trop peu pour -aient ; lecture laissée incertaine
+  confiance: moyenne
+- ligne: 18
+  avant: être
+  apres: etre
+  justification: le trait au-dessus est la barre du t prolongée, sans circonflexe
+  confiance: moyenne
+- ligne: 19
+  avant: à la fin de l'été
+  apres: à la fin de l'été \trait
+  justification: long délié horizontal en fin de journée
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: devint
+  analyse: d en ∂ à haute haste, groupe « va », n à deux jambages, finale descendante recourbée à gauche ; aucun point de i net
+  alternatives:
+  - devient
+- ligne: 5
+  lemme: chevx
+  analyse: c-h-e-v nets, puis un délié bas formant une petite boucle anguleuse qui remonte vers la boucle de l'esperluette ; pas de a ni de u distincts
+  alternatives:
+  - chevaux
+  - chev
+- ligne: 7
+  lemme: 1^{H}\fr{1}{2}
+  analyse: 1 + H suscrit dont la haste droite sert de numérateur ; 2 bouclé couché dessous, pied long
+  alternatives:
+  - 1^{H} 2
+- ligne: 8
+  lemme: plusis
+  analyse: p, l haut, u (deux jambages), s montant, i pointé, s long descendant
+  alternatives:
+  - plusrs
+  - plusies
+- ligne: 8
+  lemme: imptes
+  analyse: trait d'attaque + i pointé, m réduit à deux bosses, p descendant recourbé (aspect q), t haut à barre décalée, es réduit (aspect « cinq lis »)
+  alternatives: []
+- ligne: 15
+  lemme: fraîches
+  analyse: f, r, a, puis un tracé haut descendant en Z sous la ligne (î ?), c-h-e-s ; aucun circonflexe net
+  alternatives:
+  - fraiches
+- ligne: 16
+  lemme: n'était
+  analyse: n (aspect a), apostrophe, é + t bouclé, a, deux jambages, t final barré ; la syntaxe appelle « n'étaient », le tracé est trop court
+  alternatives:
+  - n'étaient
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifiée : clé « lieux » corrigée (Hazebrouck dans le Nord, Berguette commune d''Isbergues) ; le départ de La Croix-du-Bac n''est pas sur la page. Lectures incertaines maintenues : « devint », « chevx », « n''était ».'
+  alternatives: []
+controle:
+- ligne: 16
+  avant: Si champs n'était
+  apres: Si champs \inc{n'était}
+  justification: entre a et le t final, deux jambages seulement ; ni « ait » ni « aient » ne s'impose sur le tracé, la syntaxe favorise « n'étaient »
+- ligne: 9
+  avant: 'critique : colonne de droite à l''encre brune, ajout postérieur'
+  apres: 'critique : ajout probable, la teinte brune reparaissant là où la plume se vide (l. 11, l. 19)'
+  justification: « 'abord bruine, » et « de l'été » sont dans le fil du texte et pourtant bruns ; la couleur seule ne prouve pas l'ajout
+- ligne: 0
+  avant: 'lieux : Bailleul (Nord) ; Hazebrouck, Berguette, Lillers ; Saint-Pol-sur-Ternoise (Pas-de-Calais)'
+  apres: 'lieux : Bailleul, Hazebrouck (Nord) ; Berguette, Lillers, Saint-Pol-sur-Ternoise (Pas-de-Calais)'
+  justification: Hazebrouck est dans le Nord (remarque du commentateur)
+remarques: Le contexte suivant (028) revient sur l'attente en gare de Bailleul vers 1 h, ce qui confirme l'heure de départ du train (l. 7).
+resume: 'Vendredi 25 août 1916 : départ à cheval vers 8 h, arrivée à Bailleul à 11 h ; embarquement des chevaux et des voitures terminé à midi et demi. Le train part vers 1 h 30 et passe sans arrêt par Hazebrouck (2 h), Berguette (2 h 30), Lillers (2 h 45), avant d''arriver à Saint-Pol à 4 h 30. Départ par la route à 5 h sous la bruine puis une pluie battante. Combes note le changement de paysage : pays boisé et pittoresque, verdure printanière, gerbes en meules.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Bailleul
+    ligne: 4
+    identite: Bailleul (Nord)
+  - forme: Lillers
+    ligne: 9
+    identite: Lillers (Pas-de-Calais)
+  - forme: Hazebrouck
+    ligne: 9
+    identite: Hazebrouck (Nord)
+  - forme: St-Pol
+    ligne: 10
+    identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
+  - forme: Berguette
+    ligne: 10
+    identite: Berguette, commune d'Isbergues (Pas-de-Calais)
+source: contrôle

@@ -1,0 +1,154 @@
+cliche: 67
+fichier: 20251126_103816.jpg
+date: Vendredi 6 octobre 1916
+mois: Octobre 1916
+lieux: Barlette (Ribeaucourt) et Bernaville (Somme)
+titre: Cantonnement à Barlette, près de Ribeaucourt ; permission visée à Bernaville ; billet
+transcription: |
+  \sl{Ven. 6} \hfill \sl{oct^{bre} /16}
+  Ma Coy, cantonnée au hameau
+  de Barlette, près de Ribeaucourt
+  qq maisons. Population, très symphe
+  Région très boisée, extt pittoresque \trait
+  Après lunch, venu sur 1 lorry
+  à Bernaville et visé mon titre de
+  permission au bureau de la Mission Fse
+  \blanc{1}
+  Bientot trouvé 1 billet = gde
+  chambre, chz Mme Ve – —
+  à 900 mètres de Barlette \trait
+  Ameublement très sommaire, mais
+  chambre très belle & spacieuse \trait
+  \blanc{2}
+  \filet
+  A Doullens, Cartes ples: 50 c
+  \ind A ", canteen. 20, 20, 20, 20c
+  A Bernaville, cartes ples: 10c
+  A Barlette : Tip au driver du lorry — 1^{f} –
+  \ind Gift au Q.M.S Tait : 5 fr. —
+apparat:
+- ligne: 1
+  lemme: Ven.
+  type: abreviation
+  note: vendredi
+- ligne: 1
+  lemme: oct^{bre}
+  type: abreviation
+  note: octobre (finale suscrite réduite à une ondulation)
+- ligne: 1
+  lemme: /16
+  type: abreviation
+  note: '1916'
+- ligne: 2
+  lemme: Coy
+  type: abreviation
+  note: 'Company : compagnie (la 152nd Company A.S.C.)'
+- ligne: 4
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 4
+  lemme: symphe
+  type: abreviation
+  note: sympathique
+- ligne: 5
+  lemme: extt
+  type: abreviation
+  note: extrêmement
+- ligne: 6
+  lemme: lunch
+  type: emprunt
+  note: déjeuner
+- ligne: 6
+  lemme: lorry
+  type: emprunt
+  note: camion
+- ligne: 7
+  lemme: visé
+  type: lecture
+  note: lecture retenue d'après le contexte, l'e final n'étant marqué que par un trait suscrit ; autre lecture possible visa
+- ligne: 8
+  lemme: Fse
+  type: abreviation
+  note: française
+- ligne: 9
+  lemme: billet
+  type: emprunt
+  note: 'angl. billet : logement chez l''habitant'
+- ligne: 9
+  lemme: gde
+  type: abreviation
+  note: grande
+- ligne: 10
+  lemme: chz
+  type: abreviation
+  note: chez
+- ligne: 10
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 10
+  lemme: Ve – —
+  type: abreviation
+  note: veuve (?) ; les deux tirets tiennent la place du nom, laissé en blanc
+- ligne: 14
+  lemme: ples
+  type: abreviation
+  note: postales
+- ligne: 15
+  lemme: '"'
+  type: signe
+  note: 'idem : à Doullens'
+- ligne: 15
+  lemme: canteen
+  type: emprunt
+  note: cantine
+- ligne: 15
+  lemme: 20, 20, 20, 20c
+  type: compte
+  note: quatre achats de 20 c, soit 80 c (total non porté)
+- ligne: 16
+  lemme: ples
+  type: abreviation
+  note: postales
+- ligne: 17
+  lemme: Tip
+  type: emprunt
+  note: pourboire
+- ligne: 17
+  lemme: driver
+  type: emprunt
+  note: conducteur
+- ligne: 17
+  lemme: lorry
+  type: emprunt
+  note: camion
+- ligne: 17
+  lemme: 1^{f}
+  type: abreviation
+  note: 1 franc
+- ligne: 18
+  lemme: Gift
+  type: emprunt
+  note: gratification
+- ligne: 18
+  lemme: Q.M.S
+  type: abreviation
+  note: 'Quartermaster Sergeant : sergent fourrier'
+- ligne: 18
+  lemme: Tait
+  type: lecture
+  note: lecture probable, l'a étant noyé dans un pâté ; autre lecture possible Taït
+- ligne: 18
+  lemme: fr.
+  type: abreviation
+  note: francs
+critique: Suite de la journée du 6 octobre commencée f.~33 v\textsuperscript{o}. Page d'une seule venue à l'encre violette ; un filet sépare le récit des comptes, au bas de la page.
+historique: |
+  Barlette, hameau au sud de Ribeaucourt (Somme), ne comptait que 29 habitants en 1906 ; il relevait autrefois de Franqueville et n'a été rattaché à Ribeaucourt qu'au XX\textsuperscript{e} siècle (Inventaire Hauts-de-France, IA80009826). La 152nd Coy y cantonne pendant le repos de la division (voir f.~33 v\textsuperscript{o}), à quelques kilomètres des bataillons de la 54th Brigade, logés à Vacquerie, Gorges et Prouville (JMO 7/Bedf, oct. 1916). À Bernaville, le bureau de la Mission française auprès de la 18th Division (à Acheux en septembre : voir f.~23 v\textsuperscript{o}) vise le titre du permissionnaire ; il retiendra le 3 novembre 30~F pour six jours d'absence (f.~46 r\textsuperscript{o}). La « canteen » de Doullens est sans doute une succursale des \textit{Expeditionary Force Canteens} (Fortescue 1928, p.~52--53), qui vendaient « à un prix sensiblement voisin du prix coûtant » (Fernand-Laurent 1917, p.~82--83). Le \textit{Quartermaster-Serjeant} Tait, sous-officier chargé des vivres et du matériel de la compagnie (FSPB 1914), n'est pas identifié.
+sources:
+- Inventaire général du patrimoine culturel, Région Hauts-de-France, dossier IA80009826, « Hameau de Barlette » (Ribeaucourt), 2010, inventaire.hautsdefrance.fr.
+- 'Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).'
+- Fortescue, Sir J. W., A Short Account of Canteens in the British Army, Cambridge, Cambridge University Press, 1928, p. 52-53.
+- Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 82-83.
+- Field Service Pocket Book, 1914, London, HMSO, 1914, « Abbreviations ».

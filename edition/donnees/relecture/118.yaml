@@ -1,0 +1,232 @@
+cliche: 118
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 1er Lundi — 1917 — \hfill Janvier.
+  apres: 1^{er} \sl{Lundi} \hfill — \sl{1917} — \hfill \sl{Janvier} –
+  justification: er plus petit, dans le haut du 1 ; traits sous Lundi, 1917 et Janvier ; millésime centré ; après Janvier petit trait bas détaché, non point
+  confiance: moyenne
+- ligne: 2
+  avant: Temps pluvieux, brumeux, mais très doux.
+  apres: \ind[2] Temps pluvieux, brumeux, mais très doux –
+  justification: ligne en retrait (≈0,10 de la largeur) ; après le délié du x, tiret détaché (zoom), non point
+  confiance: moyenne
+- ligne: 3
+  avant: On ne croirait jamais être au milieu de l'hiver.
+  apres: On ne croirait jamais être au milieu de l'hiver
+  justification: le délié du r final finit à la marge sans aucun point
+  confiance: haute
+- ligne: 6
+  avant: '& Pas. gde route d''Arras. Ondée très fine &'
+  apres: '& Pas. gd Route d''Arras. Ondée très fine &'
+  justification: après le d de gd (panse au niveau de celle du g), rien avant le R de Route ; R majuscule à haste séparée et grande boucle
+  confiance: haute
+- ligne: 7
+  avant: intermittente.
+  apres: intermittente –
+  justification: petit trait horizontal détaché après le mot, non point
+  confiance: moyenne
+- ligne: 8
+  avant: M. Carluvant m'a annoncé qu'il devra quitter
+  apres: M. Carluvant, m'a annoncé qu'il devra quitter
+  justification: 'trait vertical isolé entre le t barré du nom et m''a : virgule'
+  confiance: haute
+- ligne: 9
+  avant: 'maison ds qq jours : ⟦nouveau⟧ proprire tient à s''y'
+  apres: 'maison ds qq jours : \del{\ill} proprie tient à s''y'
+  justification: 'mot biffé entièrement noirci (zoom ×4 : aucune lettre identifiable) ; après propr, levée de plume, i pointé puis e à boucle : pas de second r'
+  confiance: moyenne
+- ligne: 10
+  avant: installer. Regrette de partir d'ici. Chambre chaude.
+  apres: installer. Regrette de partir d'ici. Chambre chaude –
+  justification: 'zoom ×4 : l''e finit en massue, puis un trait plus mince, détaché, va jusqu''au bord ; le trait oblique qui traverse chaude est le jambage du y de s''y (l. 9)'
+  confiance: moyenne
+- ligne: 12
+  avant: Ciel nuageux. Pluie menaçante.
+  apres: \ind[2] ciel nuageux. Pluie menaçante
+  justification: ligne en retrait ; c initial sans la boucle de tête des C de la page (Carluvant, Chambre, Cuisinier) ; aucun point après menaçante
+  confiance: moyenne
+- ligne: 13
+  avant: Temps doux, presque chaud.
+  apres: Temps doux presque chaud.
+  justification: 'le trait vertical entre doux et presque prolonge le jambage du g de nuageux (l. 12) : pas de virgule'
+  confiance: haute
+- ligne: 15
+  avant: expertise machine endommagée etc. &
+  apres: expertise machine endommagée etc – &
+  justification: après etc, petit trait horizontal à mi-hauteur, non point rond
+  confiance: moyenne
+- ligne: 16
+  avant: puis à Raincheval.
+  apres: puis à Raincheval
+  justification: aucun point après le délié du l final
+  confiance: haute
+- ligne: 17
+  avant: Après-midi, course en auto à
+  apres: \ind Après-midi, course en auto à
+  justification: début de ligne nettement à droite des lignes voisines
+  confiance: moyenne
+- ligne: 18
+  avant: Belle-Eglise, Ferme du Quesnoy
+  apres: Belle-Eglise Farm, ferme du Quesnoy
+  justification: aucune virgule après Eglise ; mot distinct F barré + a fermé + r + m (Farm), virgule détachée, puis ferme en minuscule
+  confiance: haute
+- ligne: 19
+  avant: '& Toutencourt.'
+  apres: '& Toutencourt'
+  justification: la longue barre du t final n'est suivie d'aucun point
+  confiance: haute
+- ligne: 20
+  avant: Rentré 6h s., très fatigué pr plusieurs
+  apres: Rentré 6^{h} s., très fatigué par Plusieurs
+  justification: h suscrit ; p + a fermé + r (par), écrit petit et bas ; P majuscule à boucle haute, sans jambage sous la ligne
+  confiance: haute
+- ligne: 21
+  avant: heures d'auto.
+  apres: heures d'auto . – .
+  justification: 'trois signes espacés après le mot : point, tiret, petit point'
+  confiance: haute
+- ligne: 22
+  avant: '[ A Louvencourt canteen : Calvert Tooth Powder : 60 c.'
+  apres: '\crochet{3}— A Louvencourt canteen : / \ind[4] Calvert Tooth Powder : 60 \inc{c}'
+  justification: deux lignes manuscrites ; grand crochet à pieds horizontaux sur trois lignes ; tiret long en tête ; aucun point après 60 ; c douteux (peut-être tête du f de la l. 24)
+  confiance: moyenne
+- ligne: 24
+  avant: 'Acheux : new boots, nails on : 1 f 50 ]'
+  apres: '– Acheux : new boots, nails on : 1^{f} —'
+  justification: 'tiret court en tête ; f haussé et barré après 1, puis tiret long épais ; aucun 50 : à droite, seulement des traits bruns diffus en miroir (transparence du verso) ; aucun crochet fermant'
+  confiance: moyenne
+difficultes:
+- ligne: 5
+  lemme: Saulty,
+  analyse: après Saulty, trait vertical qui descend vers la l. 6 ; les deux hastes voisines plus bas appartiennent à très (l. 6) et le pied horizontal au p de par ; lu virgule
+  alternatives:
+  - Saulty,
+  - Saulty
+- ligne: 5
+  lemme: Après-midi
+  analyse: s final non distinct (è suivi d'un simple délié), de même l. 17 ; transcrit selon la forme habituelle
+  alternatives:
+  - Après-midi
+  - Aprè-midi
+- ligne: 8
+  lemme: Carluvant
+  analyse: 'zoom ×4 : C, a, r, l bouclé, deux jambages (u), v à boucle, a, n, t à longue barre ; le trait descendant sous le u rejoint la hampe du d de ds (l. 9), qui monte en arrière ; 102 l. 11 donne Carluvant ou Carlugant'
+  alternatives:
+  - Carluvant
+  - Carlyvant
+- ligne: 9
+  lemme: \del{\ill} proprie
+  analyse: 'mot biffé de huit à dix lettres basses, entièrement noirci ; un léger relief au milieu, sans forme identifiable ; proprie : p-r-o-p-r, levée de plume, i à point net, e à boucle (non o fermé par le haut)'
+  alternatives:
+  - \del{nouveau} proprie
+  - \del{\ill} proprio
+- ligne: 10
+  lemme: chaude –
+  analyse: l'e se termine en massue ; le trait suivant, plus mince et plus brun, en est séparé par une petite interruption et va jusqu'au bord de la page
+  alternatives:
+  - chaude –
+  - chaude \trait
+- ligne: 12
+  lemme: ciel
+  analyse: c initial à peine plus haut qu'un c courant, sans boucle de tête, alors que les C majuscules de la page ont une petite boucle et un grand arc
+  alternatives:
+  - ciel
+  - Ciel
+- ligne: 14
+  lemme: à
+  analyse: a à queue descendante (aspect ą) qui traverse machine (l. 15) ; accent en court trait plat au-dessus, décalé à droite ; non &
+  alternatives:
+  - à
+  - '&'
+- ligne: 15
+  lemme: machine
+  analyse: les deux premiers jambages, plus maigres et plus pâles, appartiennent au m ; la haste qui monte au-dessus de ch est la queue du à de la l. 14
+  alternatives:
+  - machine
+- ligne: 18
+  lemme: Farm,
+  analyse: F à boucle de tête, barre de tête et barre médiane ; lettre suivante à panse fermée et court jambage (a, non e bouclé comme dans ferme) ; r, m, délié final sans boucle d'e
+  alternatives:
+  - Farm
+  - Ferme
+- ligne: 20
+  lemme: par Plusieurs
+  analyse: 'par plus petit et plus bas que la ligne, serré entre fatigué et Plusieurs ; le P de Plusieurs a une boucle haute et ne descend pas sous la ligne (majuscule) : texte primitif probable très fatigué Plusieurs heures d''auto'
+  alternatives:
+  - par Plusieurs
+  - par plusieurs
+- ligne: 23
+  lemme: 60 \inc{c}
+  analyse: 'zoom ×4 : après 60, crochet à petite boucle de tête, un peu haut pour un c, dont la descente rejoint sans levée visible la barre épaisse et le jambage du f suscrit de la l. 24 ; soit c de 60 c touchant un petit f, soit tête d''un grand f haussé'
+  alternatives:
+  - 60 c
+  - '60'
+controle:
+- ligne: 23
+  avant: '\ind[4] Calvert Tooth Powder : 60 c'
+  apres: '\ind[4] Calvert Tooth Powder : 60 \inc{c}'
+  justification: 'zoom ×4 : le crochet lu c, à petite boucle de tête et un peu haut, descend sans levée visible jusqu''à la barre et au jambage du f suscrit de la l. 24, dont il peut être la tête ; doute non résolu, signalé'
+- ligne: 22
+  avant: \blanc{1}
+  apres: \blanc{1.5}
+  justification: l'intervalle entre heures d'auto et A Louvencourt (≈0,10 de la hauteur, 2,5 interlignes) égale ou dépasse celui qui sépare les deux journées (\blanc{1.5})
+- ligne: 8
+  avant: 'note : C-a-r-l, un jambage descendant sous la 5e lettre (u ou y)'
+  apres: 'note : C-a-r-l-u-v-a-n-t ; le trait descendant est la hampe du d de ds (l. 9)'
+  justification: 'zoom ×4 : deux jambages simples après le l ; le trait qui descend se prolonge jusqu''au d de ds, dont il est la hampe ; lecture Carluvant confirmée sur cette page, Carlyvant moins probable'
+- ligne: 1
+  avant: apparat de 44 notes
+  apres: apparat de 18 notes
+  justification: supprimées les notes de justification paléographique, de ponctuation (points, tirets, virgules), de majuscule et de disposition déjà rendues par le balisage (l. 1–3, 5–7, 10–14, 16–19, 21–22, 24) ; ajoutées des notes de lecture brèves pour les leçons nouvelles ou douteuses (Farm, proprie, 60 \inc{c}, 1^{f} —) ; critique ramenée à trois phrases
+remarques: 'Contrôle (p2) : lecture de la première lecture confirmée ligne à ligne sur les tuiles et par deux séries de zooms (×2,5 et ×4) ; seule leçon rendue douteuse, le c de 60 c (l. 23). Ponctuation : plusieurs fins de phrase sont de petits traits détachés (l. 1, 2, 7, 10, 15), transcrits par un tiret court ; les points isolés voisins appartiennent souvent à une autre ligne (point du i de croirait, l. 3, entre Temps et pluvieux). Le nom Carluvant reste à confronter aux autres occurrences (102, 146–148).'
+resume: 'Le lundi 1er janvier 1917, par un temps pluvieux et brumeux mais si doux qu''on ne se croirait pas en hiver, Combes fait le matin une course en auto à Toutencourt et au Quesnoy, puis l''après-midi se rend à Saulty par Authie, Pas-en-Artois et la grande route d''Arras, sous une ondée fine et intermittente. M. Carluvant, son logeur, lui annonce qu''il devra quitter la maison sous peu, le propriétaire tenant à s''y installer ; Combes regrette de partir et de perdre sa chambre chaude. Le mardi 2, ciel nuageux et temps doux, presque chaud : le matin, à la ferme Cuisinier de Louvencourt, il expertise une machine endommagée, puis passe à Raincheval ; l''après-midi, il va en auto à Belle-Église Farm, à la ferme du Quesnoy et à Toutencourt, et rentre à 6 h du soir, très fatigué par plusieurs heures de voiture. Dépenses : poudre dentifrice Calvert à la cantine de Louvencourt (60 c), cloutage de bottes neuves à Acheux (1 f).'
+noms:
+  personnes:
+  - forme: Carluvant
+    ligne: 8
+    identite: logeur d'Hippolyte Combes à Acheux, tailleur (cf. 102, 146–148) ; lecture du nom non assurée
+  - forme: Cuisinier
+    ligne: 14
+    identite: exploitants de la ferme Cuisinier à Louvencourt (Mme Cuisinier, cf. 112, 126)
+  lieux:
+  - forme: Toutencourt
+    ligne: 4
+    identite: Toutencourt (Somme)
+  - forme: Quesnoy
+    ligne: 4
+    identite: ferme du Quesnoy (Somme), vers Toutencourt et Raincheval ; écart non identifié avec certitude
+  - forme: Saulty
+    ligne: 5
+    identite: Saulty (Pas-de-Calais), sur la route Doullens–Arras
+  - forme: Authie
+    ligne: 5
+    identite: Authie (Somme)
+  - forme: Pas.
+    ligne: 6
+    identite: Pas-en-Artois (Pas-de-Calais)
+  - forme: Arras
+    ligne: 6
+    identite: Arras (Pas-de-Calais) ; la grande route d'Arras (Doullens–Arras)
+  - forme: Louvencourt
+    ligne: 14
+    identite: Louvencourt (Somme)
+  - forme: Raincheval
+    ligne: 16
+    identite: Raincheval (Somme)
+  - forme: Belle-Eglise Farm
+    ligne: 18
+    identite: ferme de Belle-Église (Somme)
+  - forme: Quesnoy
+    ligne: 18
+    identite: ferme du Quesnoy (Somme)
+  - forme: Toutencourt
+    ligne: 19
+    identite: Toutencourt (Somme)
+  - forme: Louvencourt
+    ligne: 22
+    identite: Louvencourt (Somme), cantine britannique
+  - forme: Acheux
+    ligne: 24
+    identite: Acheux-en-Amiénois (Somme), cantonnement d'Hippolyte Combes
+source: contrôle

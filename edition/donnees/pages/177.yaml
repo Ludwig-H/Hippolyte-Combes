@@ -1,0 +1,100 @@
+cliche: 177
+fichier: 20251126_111537.jpg
+date: Vendredi 6 avril 1917 – samedi 7 avril 1917
+mois: Avril 1917
+lieux: Hérissart, Toutencourt, Rubempré, Contay et Acheux-en-Amiénois (Somme)
+titre: 'Vendredi saint : solde payée à Toutencourt déserté ; soirée avec Wentworth ; froid du 7'
+transcription: |
+  6 \sl{Vendr.} — \hfill \sl{Avril 1917} —
+  \ind Levé tot après breakfast,
+  conduit en auto à Toutencourt. 1 staff du bureau
+  de la Mission, fr, Vth army H.Q., venu nous payer
+  solde
+  \ind Temps très beau. Délicieux promener rues ensoleillées
+  de ce petit village aujd'hui si tranquille, depuis
+  départ H.Q. et troupes
+  \ind Revenu en auto à Hérissart. En reparti
+  avec off pour Toutencourt & Rubempré. Au retour
+  ciel nuageux. Bientôt bruine.
+  \ind Tout l'après-midi, liberté entière. Averses
+  \inc{courtes} discontinues
+  \ind After dinner, devant poêle rouge, causé lgs
+  de l'\sl{Australie} avec M. Wentworth et lu pamphlets
+  \blanc{1}
+  [Solde : 78^{f} 75 c. —
+  \ind 7 \sl{Sam.} — Temps gr froid. ciel resté
+  couvert. gros nuages. Vent violent
+  \ind matinée, courses à Contay. Acheux &
+  retour par route Léalvillers–Toutencourt & Rubempré
+  \ind Après-midi, liberté
+  Promené seul route Contay. g^{ds} rafales
+  vent froid m'ont fait rentrer tot
+  \ind Admiré paysage \trait
+apparat:
+- ligne: 1
+  lemme: Vendr.
+  type: abreviation
+  note: vendredi (Vendredi saint)
+- ligne: 2
+  lemme: breakfast
+  type: emprunt
+  note: petit déjeuner
+- ligne: 3
+  lemme: staff
+  type: emprunt
+  note: membre du personnel (d'état-major)
+- ligne: 4
+  lemme: fr
+  type: abreviation
+  note: française
+- ligne: 4
+  lemme: Vth army H.Q.
+  type: emprunt
+  note: quartier général de la Ve armée (britannique)
+- ligne: 7
+  lemme: aujd'hui
+  type: abreviation
+  note: aujourd'hui
+- ligne: 8
+  lemme: H.Q.
+  type: abreviation
+  note: 'Headquarters : quartier général'
+- ligne: 10
+  lemme: 'off'
+  type: abreviation
+  note: officier
+- ligne: 13
+  lemme: courtes
+  type: lecture
+  note: 'lecture retenue : c-o-u-r + finale plongeante, sans barre de t ; « cours » possible'
+- ligne: 14
+  lemme: After dinner
+  type: emprunt
+  note: après le dîner
+- ligne: 14
+  lemme: lgs
+  type: abreviation
+  note: longtemps
+- ligne: 15
+  lemme: pamphlets
+  type: emprunt
+  note: brochures
+- ligne: 17
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 17
+  lemme: gr
+  type: abreviation
+  note: grand
+- ligne: 22
+  lemme: g^{ds}
+  type: abreviation
+  note: grandes
+critique: Encre violette homogène ; quelques taches brunes, sans perte de texte. La journée du 7 s'achève sur « Admiré paysage », dont le délié se prolonge en trait, au-dessus d'un bas de page resté blanc.
+historique: |
+  Ce Vendredi saint, 6 avril 1917, les États-Unis déclarent la guerre à l'Allemagne (OH 1916-II, p.~531, n.~4). Toutencourt, QG de Gough depuis le 2 juillet 1916, est « si tranquille » parce que le quartier général de la Fifth Army s'est transporté à Albert le 28 mars (LLT) ; le bureau de la Mission française auprès de cette armée l'a suivi et envoie l'un des siens payer les interprètes restés à l'arrière. Les 78 f 75 sont le montant le plus fréquent des paiements du carnet, sans doute une quinzaine de quinze jours à 5 f 25 (voir f.~2 r\textsuperscript{o}). M. Wentworth, nommé « Lt » les 17 et 18 mars (f.~84 v\textsuperscript{o}--85 r\textsuperscript{o}), est sans doute l'officier australien arrivé le 6 mars pour remplacer le capitaine Williams (f.~81 r\textsuperscript{o}--v\textsuperscript{o}) ; deux officiers de l'A.I.F. conviennent sans qu'on puisse choisir : Henry Coates Wentworth, du train de la 2nd Australian Division, et Fitzwilliam Wentworth, éleveur du Queensland rattaché au 26th Battalion (\textit{AIF Project}).
+sources:
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 531, n. 4.
+- The Long, Long Trail (C. Baker), « The British Fifth or Reserve Army 1916-1918 », copie Wayback du 23 juil. 2024.
+- UNSW Canberra, The AIF Project, notices Henry Coates Wentworth (pid 318876) et Fitzwilliam Wentworth (pid 318872, 318873).

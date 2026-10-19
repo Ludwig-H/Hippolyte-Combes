@@ -1,0 +1,178 @@
+cliche: 6
+confiance: moyenne
+changements:
+- ligne: 4
+  avant: Sommes allés
+  apres: Sommes allé
+  justification: le mot finit sur l'accent de é, sans s
+  confiance: haute
+- ligne: 5
+  avant: Mont-Noir
+  apres: \inc{Mont-Noir}
+  justification: seul Mont- est formé ; la suite est un long délié dans la marge
+  confiance: moyenne
+- ligne: 6
+  avant: curieux vicaire de ce village
+  apres: \inc{curieux} \inc{v.} \inc{ce} village
+  justification: 'deux mots seulement entre curieux et village : v + coche, puis a ou ce ; début de curieux masqué par le p de Cappel'
+  confiance: moyenne
+- ligne: 8
+  avant: Ctis, revenu
+  apres: C^{tis} revenu
+  justification: le trait vertical pointé après C^{tis} est la hampe du l de soleil (l. 9) et le point de son i, non une virgule ; tis suscrit
+  confiance: moyenne
+- ligne: 9
+  avant: prendre. De 2 à 5 H, au plein
+  apres: prendre. \inc{De} 2 à 5^{H}, au plein
+  justification: De noyé dans un pâté ; H suscrit
+  confiance: moyenne
+- ligne: 11
+  avant: allongé s/ l’herbe – ⟦[illis.]⟧
+  apres: allongé s/ \inc{l'herbe} \del{\ill}
+  justification: pas de tiret entre l'herbe et la rature ; l'herbe est délavé
+  confiance: moyenne
+- ligne: 12
+  avant: Margte.
+  apres: Marg^{te}. —
+  justification: te suscrit ; tiret fin à droite du point
+  confiance: moyenne
+- ligne: 13
+  avant: plaines, de nombreuses houblonnières
+  apres: plaines – de nombreuses houblonnières –
+  justification: deux tirets courts sur la ligne de base, pas de virgule
+  confiance: moyenne
+- ligne: 14
+  avant: De temps à autre
+  apres: De temps à autre,
+  justification: virgule verticale après autre
+  confiance: moyenne
+- ligne: 17
+  avant: 'Après diner :'
+  apres: Après diner ;
+  justification: 'point au-dessus d''un trait courbe : point-virgule, non deux-points'
+  confiance: moyenne
+- ligne: 18
+  avant: St-Jans-Cappel (1)
+  apres: St Jans -cappel (1)
+  justification: pas de trait après St ; tiret isolé devant cappel, c minuscule
+  confiance: moyenne
+- ligne: 20
+  avant: 1 f 60
+  apres: 1^{f} 60
+  justification: f monétaire suscrit
+  confiance: haute
+- ligne: 21
+  avant: 50 c.
+  apres: 50c.
+  justification: c lié au 0
+  confiance: haute
+- ligne: 24
+  avant: église au clocher effilé
+  apres: eglise au clocher eff^{l}
+  justification: 'aucun accent sur le e initial ; mot abrégé : eff + l suscrit terminé en délié'
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: '16'
+  analyse: 1 en trait court, puis un ovale fermé dont la haste est enroulée à l'intérieur (zoom ×3) ; 6 plutôt que 0, 1916 attendu
+  alternatives:
+  - '10'
+- ligne: 5
+  lemme: Le Mont-Noir
+  analyse: Le en £ (aspect « the ») ; Mon + t à longue descente, puis un trait final couché jusqu'au bord de la page, sans lettres de Noir distinctes
+  alternatives:
+  - du Mont-Noir
+  - Mont-N.
+- ligne: 6
+  lemme: curieux
+  analyse: le jambage épais du p de Cappel (l. 5) recouvre l'initiale ; à sa droite on lit une boucle e, r, o/v, u, x, ordre qui convient mal à -rieux (r avant e) ; aucun point d'i visible
+  alternatives:
+  - Leroux
+- ligne: 6
+  lemme: v. ce
+  analyse: deux minimes (v ou u) suivis d'une coche haute, puis un a fermé à jambage, qui peut être un ce lié ; la construction appelle un nom (vicaire, curé)
+  alternatives:
+  - vic. de ce
+  - à ce
+  - v. à
+- ligne: 9
+  lemme: De
+  analyse: pâté d'encre triangulaire plein entre prendre. et 2 ; aucune lettre distincte
+  alternatives:
+  - pâté sans mot
+- ligne: 11
+  lemme: l'herbe
+  analyse: 'l bouclé, h, er, b bouclé, e : lettres reconnaissables sous l''encre violette délavée'
+  alternatives: []
+- ligne: 11
+  lemme: \del{\ill}
+  analyse: un mot entièrement noirci, hastes et un jambage médian dépassant de la tache ; biffure par surcharge ou pâté accidentel ; le sens (allongé s/ l'herbe … paysage) appelle un verbe
+  alternatives:
+  - regardé
+  - contemplé
+- ligne: 12
+  lemme: lgt
+  analyse: l, g bouclé, puis haste sous l'accent de à ; forme lgt retenue par le guide pour cette page
+  alternatives:
+  - lgs
+- ligne: 17
+  lemme: venu
+  analyse: finale du mot en ʒ plongeant, qui peut être un s final
+  alternatives:
+  - venus
+- ligne: 19
+  lemme: '4'
+  analyse: 4 fermé en d, aspect « Le » ; 4 œufs + 2 l 1/2 de lait = 1 f 60 vraisemblable
+  alternatives:
+  - '2'
+- ligne: 24
+  lemme: eff^{l}
+  analyse: e, f, f, puis un l bouclé surélevé prolongé d'un long délié (valeur -é)
+  alternatives:
+  - eff^{le}
+  - effilé
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Points vérifiés en seconde lecture : « v. ce » (l. 6) reste incertain, et le mot qui précède (curieux ou Leroux) aussi ; l''interlocuteur peut être un vicaire. Le millésime se lit 16 (6 à haste enroulée).'
+  alternatives: []
+controle:
+- ligne: 6
+  avant: Rencontré curieux \inc{v.}
+  apres: Rencontré \inc{curieux} \inc{v.}
+  justification: l'initiale est masquée par le jambage du p de Cappel ; les lettres visibles (e, r, o/v, u, x) s'accordent mal avec -rieux ; Leroux possible
+- ligne: 1
+  avant: 'apparat : note « le 6 a l''aspect d''un 0 »'
+  apres: 'apparat : juillet 1916'
+  justification: au zoom ×3 le 6 montre sa haste enroulée dans la panse ; remarque de graphie inutile au lecteur, renvoyée aux difficultés
+- ligne: 9
+  avant: 'apparat : 1 → un'
+  apres: 'apparat : ds 1 champ → dans un champ'
+  justification: lemme plus sûr (le chiffre 1 seul apparaît aussi dans 1/2 ailleurs sur la page) ; développement regroupé
+- ligne: 11
+  avant: 'apparat : note longue sur la coulure'
+  apres: note brève, verbe attendu
+  justification: épuration de l'apparat ; la coulure va dans remarques
+remarques: Le pâté de la l. 11 laisse une coulure sur la droite de la l. 12. Le début de la l. 6 est recouvert par le jambage du p de Cappel.
+resume: Le samedi 29 juillet 1916, dès le petit déjeuner, le lieutenant Curtis emmène Hippolyte Combes chercher du fourrage à Saint-Jans-Cappel et au hameau du Mont-Noir, où il rencontre un homme du village (peut-être un vicaire) avec qui il parle de la dernière attaque de la division. L'après-midi, de 2 à 5 heures, il fait faucher et peser du fourrage dans un champ, allongé dans l'herbe et pensant à Marguerite. Il décrit la plaine couverte de houblonnières, les ballons captifs, le bombardement lointain et les avions anglais, puis se promène le soir à Saint-Jans-Cappel, dont il note en bas de page les maisons basses et l'église au clocher effilé. Il paie à sa logeuse 4 œufs et 2 litres et demi de lait (1 f 60) et 5 cartes postales (50 c).
+noms:
+  personnes:
+  - forme: Curtis
+    ligne: 4
+    identite: lieutenant britannique de la compagnie d'Hippolyte Combes
+  - forme: C^{tis}
+    ligne: 8
+    identite: Curtis
+  - forme: Marg^{te}
+    ligne: 12
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  lieux:
+  - forme: St-Jans Cappel
+    ligne: 5
+    identite: Saint-Jans-Cappel (Nord)
+  - forme: Le Mont-Noir
+    ligne: 5
+    identite: Mont-Noir, hameau de Saint-Jans-Cappel (Nord)
+  - forme: St Jans -cappel
+    ligne: 18
+    identite: Saint-Jans-Cappel (Nord)
+source: contrôle

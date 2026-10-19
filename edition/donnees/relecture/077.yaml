@@ -1,0 +1,87 @@
+cliche: 77
+confiance: haute
+changements:
+- ligne: 1
+  avant: dévasté, 1/2 route
+  apres: devasté, \fr{1}{2} route
+  justification: aucun accent sur le premier e ; fraction empilée (1, petite barre, 2 en ℓ couché)
+  confiance: haute
+- ligne: 2
+  avant: Hédauville. Lieu laissé
+  apres: Hedauville — Rien laissé
+  justification: pas d'accent sur le e de Hedauville ; long trait épais prolongeant le e ; R bouclé, i pointé décalé, e, n final plongeant
+  confiance: moyenne
+- ligne: 3
+  avant: installation sommaire,
+  apres: installations sommaires
+  justification: les deux mots se terminent par un s plongeant en ʒ ; aucune virgule en fin de ligne
+  confiance: moyenne
+- ligne: 4
+  avant: ménagé
+  apres: Ménagé
+  justification: long délié d'attaque montant à hauteur de hampe (M) ; la boucle au-dessus appartient au j de sejourné (l. 3)
+  confiance: moyenne
+- ligne: 7
+  avant: plu à verse. Froid pénétrant
+  apres: plu averse — Froid pénétrant \trait
+  justification: a lié au v sans accent ; long délié final au lieu d'un point ; barre du t de pénétrant prolongée jusque près de la marge
+  confiance: haute
+- ligne: 9
+  avant: 17 Mardi \hfill Oct /16
+  apres: \sl{17 mardi} \hfill \sl{oct 16}
+  justification: m et o minuscules ; les deux éléments soulignés ; un seul grand trait oblique entre la barre du t et le 6
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: Rien
+  analyse: haste bouclée (aspect l) suivie d'un jambage en arche, point décalé sur le e, e plein, n dont le dernier jambage plonge en long délié ; lieu exigerait un u final remontant ; confirmé au zoom ×2,5
+  alternatives:
+  - Lieu
+- ligne: 3
+  lemme: sejourné
+  analyse: s montant, e, j à longue descente ; le seul signe au-dessus est un point rond posé à droite du j (son point), non un tiret d'accent comme ceux de Dépassé ou Ménagé ; accent final en long trait courbe
+  alternatives:
+  - séjourné
+- ligne: 4
+  lemme: pour
+  analyse: p à longue haste, puis deux minimes (o et u fondus) et r final plongeant ; plus développé que la forme pr
+  alternatives:
+  - pr
+- ligne: 7
+  lemme: pénétrant
+  analyse: accents peu distincts (petit arc au-dessus du premier n, renflement au départ de la barre du t) ; leçon de l'état antérieur conservée
+  alternatives:
+  - penetrant
+- ligne: 9
+  lemme: oct 16
+  analyse: la barre du t rejoint un grand trait oblique, seul tracé avant le 6 ; 1 à haste longue ou barre de /16 sans 1
+  alternatives:
+  - oct /6
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources citées (LLT II Corps, OH 1916-I p. 271, Nichols p. 79, CWGC Bouzincourt, JMO 7/Bedf 17 oct., OH 1916-II p. 444) : la pluie de la nuit du 17 concorde avec « Tte la nuit, plu averse » ; rien à corriger dans la transcription.'
+  alternatives: []
+controle:
+- ligne: 3
+  avant: séjourné
+  apres: sejourné
+  justification: au-dessus du premier e, aucun tiret d'accent ; le point rond décalé à droite est celui du j (zoom ×2,5)
+- ligne: 9
+  avant: \sl{17 mardi} \hfill \sl{oct 16}
+  apres: \sl{17 mardi} \hfill \sl{oct 16}
+  justification: transcription inchangée ; note de lecture ajoutée à l'apparat pour 16 (un seul trait oblique, autre lecture /6)
+remarques: La date « 17 mardi / oct 16 » au pied de la page reprend le jour du récit (commencé au cliché 076) ; la page suivante (078) s'ouvre sur « Merc. 18 ».
+resume: Suite du 17 octobre 1916. Après Senlis, Hippolyte Combes et sa compagnie campent dans un champ dévasté à mi-chemin entre Bouzincourt et Hédauville, où leurs prédécesseurs n'ont rien laissé. Il doit improviser une installation sommaire et aménager une sorte de hutte ouverte pour abriter ses sacs. Il couche dans la tente du mess, sur un fauteuil de toile ; il pleut à verse toute la nuit, le froid est pénétrant et il n'y a aucun confort. La date du jour est portée au pied de la page.
+noms:
+  personnes: []
+  lieux:
+  - forme: Senlis
+    ligne: 1
+    identite: Senlis-le-Sec (Somme)
+  - forme: Bouzincourt
+    ligne: 2
+    identite: Bouzincourt (Somme)
+  - forme: Hedauville
+    ligne: 2
+    identite: Hédauville (Somme)
+source: contrôle

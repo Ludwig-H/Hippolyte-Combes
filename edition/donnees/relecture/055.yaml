@@ -1,0 +1,186 @@
+cliche: 55
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 28 Jeudi. \hfill Sept 16
+  apres: \sl{28 Jeudi.} \hfill \sl{Sept^{bre} /16}
+  justification: Soulignements nets ; finale bre suscrite après Sept ; barre oblique fondue avec le 1 de 16.
+  confiance: moyenne
+- ligne: 2
+  avant: appartt — Pris
+  apres: appart^{t} Pris
+  justification: Le trait oblique après appart est le t suscrit prolongé ; le trait horizontal au-dessus est le soulignement de Sept, non un tiret.
+  confiance: moyenne
+- ligne: 5
+  avant: p moi
+  apres: \inc{ds} moi
+  justification: Signe à haste plongeante barrée, comparable au d+s ; 059 « s'éveiller ... ds mon esprit ».
+  confiance: basse
+- ligne: 6
+  avant: Ste-Marie, vers 11 H 1/2
+  apres: S^{te} Marie, vers 11^{H} \fr{1}{2}
+  justification: te et H suscrits ; fraction empilée ; aucun trait d'union.
+  confiance: haute
+- ligne: 7
+  avant: délicates.
+  apres: delicates \trait
+  justification: Aucun accent visible ; long trait final, pas de point.
+  confiance: moyenne
+- ligne: 10
+  avant: Après déjeun., promenade en cie Mme C. et
+  apres: \ind Après déjeun, promenade en cie Mme \inc{C^{h}} et
+  justification: Ligne en retrait ; virgule après déjeun ; après le C, un h suscrit (boucle + arche), non un point.
+  confiance: moyenne
+- ligne: 11
+  avant: M. Czt. Descendu à pied côte vers St Joseph
+  apres: M. C^{zt}. Descendu à pied cote vers S^{t} Joseph
+  justification: zt suscrit ; pas de circonflexe sur cote ; t de St surélevé.
+  confiance: moyenne
+- ligne: 12
+  avant: arrivé j'à la barrière St-Agne. De là, pris trams
+  apres: arrivé j-à la barrière St-Agne \inc{Là} pris tram
+  justification: 'Après Agne, un L en ℒ (boucle basse, haste) + a + accent : Là, non « De là » ; tram sans s final ; ni point ni virgule.'
+  confiance: moyenne
+- ligne: 13
+  avant: j-à St-Agne. Remonté
+  apres: j-à St-Agne Remonté
+  justification: Aucun point après Agne (long délié).
+  confiance: moyenne
+- ligne: 14
+  avant: Pouvourville, église —
+  apres: Pouvourville eglise –
+  justification: Ni virgule ni accent visibles ; tiret court.
+  confiance: moyenne
+- ligne: 16
+  avant: j'au carref.
+  apres: j-au carref
+  justification: Trait d'union ; pas de point visible après le f plongeant.
+  confiance: moyenne
+- ligne: 17
+  avant: Récollets et Caserne
+  apres: Recollets et Caserne \trait
+  justification: Pas d'accent ; long trait de remplissage.
+  confiance: moyenne
+- ligne: 18
+  avant: Allé prendre trams à la barrière St-Agne
+  apres: \ind Allé prendre trams à la barrière St-Agne \trait
+  justification: Retrait et long trait final jusqu'à la marge.
+  confiance: haute
+- ligne: 19
+  avant: Exc.te après-midi.
+  apres: Exc^{te} après-midi.
+  justification: Pas de point dans l'abréviation ; te surélevé.
+  confiance: moyenne
+- ligne: 20
+  avant: Vers 9 H 30 s, redescendu
+  apres: Vers 9^{H} 30 s, redescendu
+  justification: H nettement suscrit.
+  confiance: haute
+- ligne: 23
+  avant: 'Bouquet (place Esquirol) : 3 f —'
+  apres: 'Bouquet (place Esquirol : 3^{f} —'
+  justification: 'Pas de parenthèse fermante : le trait plongeant est la descente du f de la l. 22 ; f surélevé à drapeau.'
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: Sept^{bre} /16
+  analyse: S-e-p (jambage traversant le soulignement), haste haute (t ou b) portant re suscrit ; avant 16 deux traits obliques fondus (barre + 1).
+  alternatives:
+  - Sept^{re} /16
+  - Sept /16
+- ligne: 5
+  lemme: \inc{&}
+  analyse: 'Crochet de tête, barre médiane terminée en crochet, haste plongeant sous la ligne : même tracé que le & de la l. 22 (forme ƒ) ; le ds de la l. 2 (∂ + s) est tout autre. Sens attendu « en moi » : lapsus probable.'
+  alternatives:
+  - en
+  - ds
+  - pr
+- ligne: 5
+  lemme: s'éveiller
+  analyse: s initial réduit à un trait ; une seule marque au-dessus de l'e, apostrophe ou accent.
+  alternatives:
+  - séveiller
+  - s'eveiller
+- ligne: 8
+  lemme: Mêmes
+  analyse: 'M-e-m puis long délié et point à mi-hauteur : -es abrégé (délié = e, point = s réduit).'
+  alternatives:
+  - 'Même :'
+  - Même .
+- ligne: 10
+  lemme: \inc{C^{h}}
+  analyse: 'Grand C puis, surélevés, boucle haute et arche terminée par un pied à droite : h ; un ls (Calmels) supposerait un s final non visible.'
+  alternatives:
+  - C^{ls}
+  - C.
+- ligne: 12
+  lemme: \inc{Là}
+  analyse: Boucle basse à gauche, haste montante (L en ℒ), a, accent long décalé vers la droite.
+  alternatives:
+  - De là
+  - dà
+- ligne: 14
+  lemme: Pouvourville
+  analyse: P à boucle réduite (aspect L), ou-v-ou-r-v-i-ll-e à délié long.
+  alternatives:
+  - Louvourville
+- ligne: 22
+  lemme: 1 f
+  analyse: 1 droit puis f à haute boucle dont la descente plonge jusqu'à la l. 23 après Esquirol.
+  alternatives:
+  - 1^{f}
+controle:
+- ligne: 5
+  avant: s'éveiller \inc{ds} moi
+  apres: s'éveiller \inc{&} moi
+  justification: 'Zoom ×3 [.17 .16 .42 .205] : crochet de tête, barre médiane, haste plongeante = forme ƒ du & (l. 22 « raisins & grenades ») ; aucun ∂ ni s comme dans le ds de la l. 2 [.30 .045 .50 .08]. Le sens appelle « en » : lapsus, d''où \inc maintenu.'
+- ligne: 0
+  avant: apparat chargé de justifications paléographiques
+  apres: notes réduites au développement ou à la lecture retenue
+  justification: 'Épuration : appart^{t}, 9^{H} 30 s, C^{h}, Là, Esquirol ; ajout des abréviations manquantes (St-Agne l. 13, 20c, 10 c.).'
+- ligne: 0
+  avant: critique vide ; Crouzet « oncle d’Hippolyte Combes »
+  apres: critique d’une phrase ; Crouzet oncle par alliance de Marguerite
+  justification: Remarque du commentateur historique intégrée ; entrée de commentateur retirée des difficultés.
+remarques: 'Restent incertains : l. 5 (& / en), l. 10 (Mme C^{h}, non identifiée), l. 12 (Là).'
+resume: 'Jeudi 28 septembre 1916, à Toulouse. Hippolyte Combes s''attarde dans son appartement à ranger ses affaires, laissant s''éveiller des souvenirs du passé. Vers 11 h 30 il monte à Sainte-Marie et apporte à Marguerite un joli bouquet ; il la trouve toujours simple, affectueuse et charmante. L''après-midi, promenade avec Mme C^{h} et M. Crouzet : descente à pied vers Saint-Joseph, tram jusqu''à Saint-Agne, montée à Pouvourville, crête de Pech-David jusqu''au carrefour des Récollets, retour en tram ; le soir, il redescend à pied la Côte Pavée. Comptes : trams, fruits (raisins et grenades), bouquet de la place Esquirol.'
+noms:
+  personnes:
+  - forme: M^{te}
+    ligne: 6
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Mme C^{h}
+    ligne: 10
+    identite: dame non identifiée (Mme Calmels ?)
+  - forme: M. C^{zt}
+    ligne: 11
+    identite: M. Crouzet, oncle par alliance de Marguerite Calmels
+  lieux:
+  - forme: S^{te} Marie
+    ligne: 6
+    identite: Sainte-Marie-des-Champs, Toulouse
+  - forme: S^{t} Joseph
+    ligne: 11
+    identite: quartier Saint-Joseph, Toulouse
+  - forme: barrière St-Agne
+    ligne: 12
+    identite: barrière de Saint-Agne, Toulouse
+  - forme: St-Agne
+    ligne: 13
+    identite: Saint-Agne, Toulouse
+  - forme: Pouvourville
+    ligne: 14
+    identite: Pouvourville, quartier de Toulouse
+  - forme: Pech David
+    ligne: 16
+    identite: colline de Pech-David, Toulouse
+  - forme: Recollets
+    ligne: 17
+    identite: carrefour des Récollets, Toulouse
+  - forme: Cote Pavée
+    ligne: 20
+    identite: Côte Pavée, Toulouse
+  - forme: place Esquirol
+    ligne: 23
+    identite: place Esquirol, Toulouse
+source: contrôle

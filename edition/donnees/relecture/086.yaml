@@ -1,0 +1,150 @@
+cliche: 86
+confiance: haute
+changements:
+- ligne: 1
+  avant: Jeudi 26 \hfill Oct. /16
+  apres: \sl{Jeudi 26} \hfill oct. /16
+  justification: date soulignée d'un trait appuyé ; o initial minuscule, point après oct
+  confiance: haute
+- ligne: 2
+  avant: Même temps. Ciel tjrs couvert de nuages.
+  apres: \ind Meme temps. Ciel tjs couvert de nuages
+  justification: aucun circonflexe (le trait au-dessus est le soulignement de la date) ; t + j + s plongeant, pas de r ; pas de point final ; léger retrait
+  confiance: haute
+- ligne: 3
+  avant: Plateau
+  apres: Plateaux
+  justification: 'zoom x4 [.55 .085 .72 .135] : P bouclé, l haut (montant jusqu''à la ligne 2), a, t barré, e, a, u, finale plongeante en ʒ sans boucle de s'
+  confiance: moyenne
+- ligne: 4
+  avant: Lacs de boue.
+  apres: Lacs de boue —
+  justification: tiret isolé sur la ligne de base après boue, aucun point
+  confiance: haute
+- ligne: 5
+  avant: Humidité pénétrante
+  apres: Humidite penetrante
+  justification: aucun accent visible
+  confiance: moyenne
+- ligne: 10
+  avant: très violente, mais ne dure pas.
+  apres: \ind[2] tres violente, mais ne dure pas
+  justification: ligne commencée en retrait ; aucun accent ni point final
+  confiance: moyenne
+- ligne: 11
+  avant: '[ — Hair cut, par un [R.E. ?] : 50 c ]'
+  apres: '[ — Hair cut, par un R.F. : 50c'
+  justification: 'second sigle : haste à pied horizontal, boucle de tête à droite, barre médiane = F ; pas de crochet fermant'
+  confiance: moyenne
+- ligne: 12
+  avant: Sam. 28 — Encore temps pluvieux —
+  apres: \ind[3] Encore temps pluvieux —
+  justification: la date et le tiret qui la suit sont sur la ligne de base de « Tjours gros nuages »
+  confiance: moyenne
+- ligne: 13
+  avant: Tjrs gros nuages.
+  apres: \sl{Sam. 28} — Tjours gros nuages
+  justification: T + j + jambages ours ; pas de point
+  confiance: haute
+- ligne: 14
+  avant: Boue épaisse où l'on s'enlise.
+  apres: Boue epaisse ou l'on s'enlise .
+  justification: pas d'accents ; point détaché
+  confiance: moyenne
+- ligne: 15
+  avant: auj'd'hui
+  apres: auj'dhui
+  justification: une seule apostrophe, suscrite après j ; d lié à hui (vérifié au zoom x3)
+  confiance: haute
+- ligne: 18
+  avant: côtés
+  apres: cotés
+  justification: aucun circonflexe sur o ; trait sur la finale = accent de é
+  confiance: moyenne
+- ligne: 19
+  avant: arrêt devant église.
+  apres: arret devant eglise.
+  justification: aucun circonflexe ni accent, seulement la barre de t
+  confiance: moyenne
+- ligne: 20
+  avant: Aucune
+  apres: Aucune \trait
+  justification: délié tiré jusqu'à la marge
+  confiance: haute
+- ligne: 21
+  avant: Silence complet
+  apres: Silence complet \trait
+  justification: barre du t prolongée en long trait jusqu'à la marge
+  confiance: moyenne
+- ligne: 22
+  avant: '[ Cartes ples : 75 c ]'
+  apres: '[ Cartes ples : 75c'
+  justification: pas de crochet fermant ; c collé au 5
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: ds
+  analyse: 'zoom x4 [.17 .09 .31 .135] : panse noyée + haste haute (d), puis crochet montant-descendant sans boucle = s réduit, non e ; la syntaxe exclut de'
+  alternatives:
+  - de
+- ligne: 3
+  lemme: Plateaux
+  analyse: la deuxième lettre est haute (l), ce qui exclut Hauteurs ; finale en ʒ plongeant, lue x (Plateaus non exclu graphiquement)
+  alternatives:
+  - Plateau
+- ligne: 6
+  lemme: interprète
+  analyse: i n t (barre longue) e p, haute boucle (r), e, t, e en délié ; mot très ramassé
+  alternatives:
+  - interpte
+- ligne: 7
+  lemme: ttes mes
+  analyse: deux hampes à barre commune (tt), e + s réduit, m, e, s plongeant ; aspect « Hama »
+  alternatives:
+  - tes mes
+- ligne: 7
+  lemme: ds
+  analyse: la haste qui traverse le mot est le jambage du p d'interprète (l. 6) ; reste d bouclé + s
+  alternatives: []
+- ligne: 11
+  lemme: R.F.
+  analyse: 'zoom x4 [.72 .37 .94 .43] : R à jambe oblique ; second sigle = haste verticale à pied horizontal, boucle de tête ouverte à droite, barre médiane à droite : F cursif ; E serait bouclé (ℰ) ; le point final est net'
+  alternatives:
+  - R.E.
+- ligne: 22
+  lemme: l'horizon
+  analyse: l bouclé (aspect e) séparé de horizon ; apostrophe non distincte, peut-être fondue dans l'attaque du h
+  alternatives:
+  - l horizon
+- ligne: 22
+  lemme: ':'
+  analyse: deux-points peu net (point bas visible, point haut confondu avec la tête du 7) ; zoom de contrôle hors champ
+  alternatives:
+  - .
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'sigle R.F./R.E. tranché en p2 : R.F. (F cursif à barre médiane, sans les boucles du E de Combes) ; le commentaire (/workspaces/hc_work/commentaire/086.yaml) peut s''en tenir à Royal Fusiliers (11th Bn, 54th Bde, 18th Division), en signalant que l''état antérieur lisait R.E.'
+  alternatives: []
+controle:
+- ligne: 6
+  avant: 'apparat comme : graphie, « les deux m réduits à un trait horizontal entre o et e »'
+  apres: 'apparat comme : abreviation, « écrit co–e, les deux m remplacés par un trait »'
+  justification: le trait suscrit tient lieu des m ; c'est une abréviation par signe, non une graphie fautive
+- ligne: 10
+  avant: 'apparat tres : graphie, « très, réduit à t + boucle + jambages »'
+  apres: (note supprimée)
+  justification: accent absent = faute banale, à ne pas noter ; la description du tracé n'a pas sa place dans l'apparat imprimé
+- ligne: 11
+  avant: R.F. (lecture de confiance moyenne, contestée par le commentateur)
+  apres: R.F. (confirmé)
+  justification: 'zoom x4 : haste à pied, boucle de tête et barre médiane à droite = F ; aucune boucle de E'
+- ligne: 3
+  avant: Plateaux (confiance moyenne ; Hauteurs envisagé)
+  apres: Plateaux (confirmé)
+  justification: 'zoom x4 : la deuxième lettre monte haut (l), ce qui exclut Hauteurs'
+remarques: 'Unité R.F. = probablement Royal Fusiliers (11th Bn, 54th Brigade, 18th Division). L''église d''Albert : basilique Notre-Dame-de-Brebières (Vierge penchée), non nommée.'
+resume: 'Jeudi 26 octobre 1916 : temps couvert et averses, plateaux et routes impraticables, lacs de boue et humidité pénétrante. Sans occupation d''interprète, Hippolyte Combes se retire dans sa chambrette ; nuits calmes, violente canonnade matinale de courte durée ; coupe de cheveux par un Royal Fusilier (50 c). Samedi 28 : pluie et boue persistent ; les matins du 27 et du 28, il descend en ville, parcourt les rues aux maisons vides et endommagées par les obus et s''arrête longuement devant l''église. Journée et nuit calmes, silence complet à l''horizon ; cartes postales (75 c).'
+noms:
+  personnes: []
+  lieux: []
+source: contrôle

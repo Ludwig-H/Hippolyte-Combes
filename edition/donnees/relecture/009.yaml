@@ -1,0 +1,144 @@
+cliche: 9
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 2 Me – Encore très b. journée. \hfill Aout / 16
+  apres: 2 Me – Encore très b. journee. \hfill \sl{Aout /16}
+  justification: 'trait appuyé sous « Aout /16 » seulement (le trait en crosse sous Me est la barre du t de Matinée, l. 2) ; aucun accent sur la finale de journee (zoom ×3 : rien au-dessus de -ee, le point en tête est celui du j)'
+  confiance: moyenne
+- ligne: 5
+  avant: j'à Bailleul.
+  apres: J-à Bailleul.
+  justification: J à haute boucle de tête, sans point, suivi d'un court trait d'union sur la ligne de base ; aucune apostrophe
+  confiance: haute
+- ligne: 7
+  avant: Place et hotel de ville
+  apres: Place – et hotel de ville
+  justification: court tiret isolé à mi-hauteur entre Place et et, distinct du point rond qui suit St-Vaast
+  confiance: haute
+- ligne: 11
+  avant: '— A Bailleul : ctes ples : 20 c. — Chemise : 5 f 50'
+  apres: '\ind[2] — A Bailleul : ctes ples : 20c. – Chemise : \inc{1^{f} 75c}'
+  justification: 'ligne en retrait (x ≈ 0,15) ; après 20c, point réduit à un trait puis tiret court ; montant : 1 à trait d''attaque et petite boucle barrée (f suscrit) au-dessus du deux-points, plus bas longue diagonale à crochet de tête et barre médiane (7), puis 5 et c ; aucun 5 initial ni 50 visibles'
+  confiance: moyenne
+- ligne: 12
+  avant: '2m 40 de galon noir pr lorgnons : 35c.. Drink'
+  apres: '2m. 40 de galon noir pr. lorgnons : 35c. – Drink'
+  justification: point bas après m et après pr ; après 35c, un point rond puis un petit tiret, non deux points
+  confiance: moyenne
+- ligne: 13
+  avant: 3 J – \hfill Même tempér., vraiment estivale
+  apres: 3 J – Même tempér^{re}, vraiment estivale
+  justification: 'la note suit la date sans être rejetée à droite ; après le r (surmonté de l''accent du é, décalé), trait ondulé à attaque bouclée posé au sommet de l''œil, nettement au-dessus de la ligne de base : finale -re réduite (cf. 008, 015, 017) ; aucun point avant la virgule'
+  confiance: moyenne
+- ligne: 14
+  avant: Après-midi, venu de nouveau promener
+  apres: \ind après-midi, venu de nouveau promener
+  justification: a minuscule au module de l'œil (comparer l'A pointu de la l. 4) ; ligne en retrait (x ≈ 0,09)
+  confiance: moyenne
+- ligne: 18
+  avant: Parcouru ds ts les sens ville de B.
+  apres: \ind Parcouru ds ts les sens ville de B
+  justification: aucun point après B, dont le trait horizontal est le délié final ; ligne en retrait (x ≈ 0,07)
+  confiance: moyenne
+- ligne: 19
+  avant: rue d’Ypres. rue
+  apres: rue d'Ypres, rue
+  justification: 'petit trait vertical courbe descendant sous la ligne de base après Ypres : virgule, non point'
+  confiance: moyenne
+- ligne: 23
+  avant: '— Ctes ples : 40 c. — Drink : 10 c —'
+  apres: '\ind[2] — Ctes ples : 40c. – Drink : 10c —'
+  justification: après 40c, point réduit à un trait puis tiret court ; ligne en retrait (x ≈ 0,19)
+  confiance: moyenne
+difficultes:
+- ligne: 11
+  lemme: \inc{1^{f} 75c}
+  analyse: 'montant serré contre le bord droit sur deux niveaux : en haut (y ≈ 0,39–0,40), haste de 1 précédée d''un trait d''attaque (aspect ʌ), puis petite boucle prolongée d''un trait horizontal (f suscrit) ; deux-points juste sous le 1 ; plus bas, longue diagonale descendant dans la l. 12, crochet de tête à droite, barre médiane (7), puis jambage et c ouvert (5c) ; un point isolé au-dessus de la boucle (y ≈ 0,386) reste sans emploi ; prix bas pour une chemise, mais aucun tracé ne porte 5 f 50'
+  alternatives:
+  - 1^{f} 75c
+  - 5 f 50
+  - 75c
+- ligne: 10
+  lemme: \del{\ill}
+  analyse: après le délié de ouvrage, mot d'environ huit lettres (d initial en ∂ ?, hautes boucles répétées, e, s, t barré ?) surchargé de boucles serrées et fermé par deux longs traits divergents ; les boucles de biffure masquent les lettres (délicat ? hypothèse sans appui suffisant)
+  alternatives: []
+- ligne: 1
+  lemme: /16
+  analyse: deux traits obliques de même longueur et de même pente avant le 6 (aspect « 116 ») ; la barre de « /16 » est d'ordinaire plus longue et plus couchée (090), mais un millésime 116 est exclu
+  alternatives:
+  - /16
+  - '116'
+- ligne: 1
+  lemme: journee
+  analyse: j pointé, ourn en minimes, puis deux e, le second prolongé en long délié ; aucun accent au-dessus ni à droite de la finale (seule une fibre claire du papier vers x ≈ 0,71) ; point final isolé sur la ligne de base
+  alternatives:
+  - journée
+- ligne: 13
+  lemme: tempér^{re}
+  analyse: 't barré, e, m, p à longue haste, é, r réduit à un jambage sous l''accent décalé ; puis trait ondulé à petite attaque bouclée, au sommet de l''œil, dont le pied reste à 0,6–0,8 œil au-dessus de la ligne de base : finale suscrite réduite'
+  alternatives:
+  - tempér
+  - tempér^{e}
+- ligne: 22
+  lemme: loge
+  analyse: l à haute boucle et o en fin de ligne ; le jambage du g descend sans lever de plume jusqu'au niveau de la l. 23, s'y referme en boucle à pied horizontal et porte l'e final (aspect « Le » à droite de « 10c — ») ; ce n'est pas un montant de la l. 23
+  alternatives: []
+- ligne: 5
+  lemme: J-à
+  analyse: 'J à grande boucle de tête et longue descente ; le point à mi-hauteur à gauche de la haste n''est ni le point d''un j (il serait au-dessus et à droite) ni une ponctuation : tache'
+  alternatives:
+  - j-à
+controle:
+- ligne: 1
+  avant: 2 Me – Encore très b. journée. \hfill \sl{Aout /16}
+  apres: 2 Me – Encore très b. journee. \hfill \sl{Aout /16}
+  justification: 'zoom ×3 : aucun accent sur la finale ; accent absent transcrit tel quel (guide § 2.5)'
+- ligne: 13
+  avant: 3 J – Même tempér, vraiment estivale
+  apres: 3 J – Même tempér^{re}, vraiment estivale
+  justification: 'trait ondulé final nettement au-dessus de la ligne de base (zoom ×3,5) : finale -re suscrite réduite, comme en 008, 015, 017 ; apparat : température'
+- ligne: 1
+  avant: 'apparat : notes « 2 Me » (disposition), « très » (lecture), « Aout » (graphie), justification paléographique de « /16 »'
+  apres: supprimées ; /16 = 1916
+  justification: 'épuration : justifications paléographiques et accent absent hors apparat imprimé (reportés dans difficultes)'
+- ligne: 2
+  avant: 'apparat : notes de lecture sur Matinée, Après-midi (virgule), Place –, hotel, Très, ouvrage, Chemise, 3 J –, après-midi, promener, à pied, d''Ypres'
+  apres: supprimées
+  justification: 'lectures non difficiles, signes déjà rendus par la transcription ou accents absents : aucune note imprimée nécessaire'
+- ligne: 12
+  avant: '10, 10c : note de disposition (virgule, c sous la ligne)'
+  apres: '10, 10c : 10 et 10 centimes (deux consommations)'
+  justification: développement utile au lecteur au lieu d'une description du tracé
+- ligne: 22
+  avant: (aucune note)
+  apres: 'loge : disposition (g et e final descendus au niveau de la l. 23)'
+  justification: le « Le » visible à droite de « 10c — » (l. 23) est la fin de loge, tracée sans lever de plume ; à ne pas lire comme un montant
+- ligne: 4
+  avant: '1 wagon : 1 = un'
+  apres: '1 wagon : un wagon (chariot du train)'
+  justification: développement complet et sens militaire du mot (waggon)
+remarques: 'Le montant de la chemise (l. 11) reste douteux : la lecture 1 f 75 c, reprise de la première lecture (comparaison avec 007 l. 17 « 75c » et 008 « 1^{f} 20c »), n''a pu être recontrôlée sur ces pages. Le petit point avant le J de « J-à » (l. 5) et celui qui précède « champs » (l. 16) sont des taches. Les signes en fin de l. 23 (« Le ») appartiennent à « loge » (l. 22).'
+resume: Le mercredi 2 août, encore une belle journée, Combes passe sa matinée libre assis dans l'herbe du camp ; l'après-midi, il conduit un chariot au fourrage, puis gagne Bailleul à pied et revisite à loisir l'église Saint-Vaast, la place et l'hôtel de ville. Au retour, il s'attarde devant des dentellières qui travaillent dans la rue devant leurs maisons, émerveillé par leur ouvrage. Il note cartes postales, une chemise, du galon noir pour lorgnons et des boissons. Le jeudi 3, par une chaleur estivale, il retourne à pied à Bailleul en s'arrêtant à l'ombre le long des champs d'avoine et de blé, parcourt la ville en tous sens (belles maisons rue d'Ypres et rue de Lille), se repose à Saint-Vaast, puis s'assied au fond du jardin de la ferme où il loge.
+noms:
+  personnes: []
+  lieux:
+  - forme: Bailleul
+    ligne: 5
+    identite: Bailleul (Nord)
+  - forme: St-Vaast
+    ligne: 7
+    identite: église Saint-Vaast de Bailleul
+  - forme: B
+    ligne: 18
+    identite: Bailleul (Nord)
+  - forme: rue d'Ypres
+    ligne: 19
+    identite: rue d'Ypres, à Bailleul
+  - forme: de Lille
+    ligne: 20
+    identite: rue de Lille, à Bailleul
+  - forme: St Vaast
+    ligne: 21
+    identite: église Saint-Vaast de Bailleul
+source: contrôle

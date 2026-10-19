@@ -1,0 +1,119 @@
+cliche: 86
+fichier: 20251126_104440.jpg
+date: Jeudi 26 et samedi 28 octobre 1916
+mois: Octobre 1916
+lieux: Albert (Somme)
+titre: Pluie et boue, sans emploi d'interprète ; promenades dans Albert vidée ; silence du front
+transcription: |
+  \sl{Jeudi 26} \hfill oct. /16
+  \ind Meme temps. Ciel tjs couvert de nuages
+  Averses, ds la journée. Plateaux et routes,
+  absolt impraticables. Lacs de boue —
+  Humidite penetrante pieds & jambes
+  Aucune occupation comme interprète. Libre
+  de ttes mes heures. Me retire ds ma
+  chambrette & y rumine à mon aise.
+  Nuits assez calmes. Canonnade s/ le matin
+  \ind[2] tres violente, mais ne dure pas
+  [ — Hair cut, par un R.F. : 50c
+  \blanc{1}
+  \filet
+  \ind[3] Encore temps pluvieux —
+  \sl{Sam. 28} — Tjours gros nuages
+  Boue epaisse ou l'on s'enlise .
+  \ind Matin, hier & auj'dhui, descendu
+  en ville, malgré mauvais état routes &
+  rues. Promené lentement passim. De ts
+  cotés, maisons vides et endommagées par
+  obus. Long arret devant eglise.
+  \ind Journée & nuit entt calmes. Aucune \trait
+  canonnade — Silence complet \trait
+  à l'horizon — [ Cartes ples : 75c
+apparat:
+- ligne: 1
+  lemme: oct. /16
+  type: abreviation
+  note: octobre 1916
+- ligne: 2
+  lemme: tjs
+  type: abreviation
+  note: toujours
+- ligne: 3
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 3
+  lemme: Plateaux
+  type: lecture
+  note: P, l haut, a, t barré, finale -x ; l'état antérieur lisait « Plateau »
+- ligne: 4
+  lemme: absolt
+  type: abreviation
+  note: absolument
+- ligne: 6
+  lemme: comme
+  type: abreviation
+  note: écrit « co–e », les deux m remplacés par un trait
+- ligne: 7
+  lemme: ttes
+  type: abreviation
+  note: toutes
+- ligne: 7
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 9
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 11
+  lemme: '['
+  type: disposition
+  note: grand crochet ouvrant, descendant dans le blanc qui suit
+- ligne: 11
+  lemme: Hair cut
+  type: emprunt
+  note: coupe de cheveux
+- ligne: 11
+  lemme: R.F.
+  type: lecture
+  note: F à boucle de tête et barre médiane, sans doute Royal Fusiliers ; l'état antérieur proposait R.E. (Royal Engineers)
+- ligne: 12
+  lemme: Encore temps pluvieux —
+  type: disposition
+  note: écrit au-dessus de la ligne de la date, à droite ; lire « Sam. 28 — Encore temps pluvieux — Tjours gros nuages »
+- ligne: 13
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 13
+  lemme: Tjours
+  type: abreviation
+  note: Toujours
+- ligne: 15
+  lemme: auj'dhui
+  type: abreviation
+  note: aujourd'hui
+- ligne: 17
+  lemme: passim
+  type: emprunt
+  note: 'latin : çà et là'
+- ligne: 17
+  lemme: ts
+  type: abreviation
+  note: tous
+- ligne: 20
+  lemme: entt
+  type: abreviation
+  note: entièrement
+- ligne: 22
+  lemme: ples
+  type: abreviation
+  note: (cartes) postales
+critique: La date du samedi 28 est alignée sur « Tjours gros nuages », la mention « Encore temps pluvieux » étant écrite plus haut, à sa droite. La fin de la page, plus pâle, est écrite d'une plume moins chargée.
+historique: |
+  Ces journées sont celles où, dit l'histoire officielle, les troupes, « froides et souvent mouillées jusqu'aux os », attendent une attaque « constamment remise mais jamais annulée » (OH 1916-II, p.~480). Le 7th Bedfordshire, relevé de Regina Trench le 25, cantonne à Albert et prépare l'attaque de la 54th Brigade sur Petit-Miraumont, remise de jour en jour « by weather » (JMO 7/Bedf, 26--31 oct. 1916). L'interprète, chargé surtout des rapports avec les habitants, n'a guère d'emploi dans une ville vidée de sa population (voir f.~39~v\textsuperscript{o}). Le « R.F. » qui lui coupe les cheveux est sans doute un homme du 11th Royal Fusiliers, autre bataillon de la brigade (Becke 1938, p.~82). La lecture « R.E. », proposée ailleurs, en ferait un sapeur du génie. La coupe coûte 50~c, comme en septembre (f.~19~r\textsuperscript{o}) ; elle ne coûtera plus que 30~c au printemps 1917 (f.~78~v\textsuperscript{o}, 88~r\textsuperscript{o}). L'église est la basilique Notre-Dame de Brebières et sa Vierge penchée (voir f.~42~r\textsuperscript{o}).
+sources:
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 480.
+- 'Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).'
+- 'Becke, A. F., Order of Battle of Divisions, Part 3A : New Army Divisions (9-26), London, HMSO, 1938, p. 82.'

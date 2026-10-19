@@ -1,0 +1,127 @@
+cliche: 116
+fichier: 20251126_105400.jpg
+date: Jeudi 28 – vendredi 29 décembre 1916
+mois: Décembre 1916
+lieux: Acheux-en-Amiénois, Léalvillers, Raincheval et Louvencourt (Somme)
+titre: Canonnade vers Hébuterne ; concert des « Archie Singers » au Y.M.C.A. ; Sunbeam de Levy
+transcription: |
+  28 \sl{Jeudi} \hfill Decembre \sl{1916}
+  \ind Très fort^{t} gelé nuit
+  Toute nuit & matinée, très violente canonnade
+  du coté d'Hebuterne \trait
+  \ind Au matin, dégelé rapid^{t} et bientot
+  routes, redevenues affreut boueuses
+  \ind Après breakfast venu a pied à Lealvillers,
+  retour a pied. Promenade, hygiénique
+  \ind[2] Tout jour, liberté : car in workshop
+  A 6^{H} s., concert à Y.M.C.A-hut. 13th
+  corps Archie Singers. Chansons comiques
+  & pantomimes
+  \equerre{3}— Brown Boot Polish : 20c.
+  — Boite recommandée – à Imbert, opticien :
+  Concert Y.M.C.A : 30c \hfill 30c : \hfill Paris
+  \filet
+  \sl{29 Ve.} Temps doux – ciel couvert
+  Pluie fine –
+  Matinée, avec Sunbeam Car, du major
+  Levy, course à Raincheval, & Quesnoy,
+  Louvencourt
+  \ind Rentré à 3^{H} s.
+  Liberté entiere fin après-midi
+  \ind Tempérre printanière On pt travailler
+  chambre sans feu, et fenetres ouvertes
+apparat:
+- ligne: 2
+  lemme: fort^{t}
+  type: abreviation
+  note: fortement
+- ligne: 5
+  lemme: rapid^{t}
+  type: abreviation
+  note: rapidement
+- ligne: 6
+  lemme: affreut
+  type: abreviation
+  note: affreusement
+- ligne: 6
+  lemme: affreut
+  type: lecture
+  note: t final sans s (lecture antérieure affreust)
+- ligne: 7
+  lemme: breakfast
+  type: emprunt
+  note: petit déjeuner
+- ligne: 9
+  lemme: car in workshop
+  type: emprunt
+  note: voiture à l'atelier (en réparation)
+- ligne: 10
+  lemme: 6^{H} s.
+  type: abreviation
+  note: six heures du soir
+- ligne: 10
+  lemme: Y.M.C.A-hut
+  type: emprunt
+  note: baraque de la Young Men's Christian Association (foyer du soldat)
+- ligne: 10
+  lemme: 13th
+  type: emprunt
+  note: treizième (le 13th corps est le XIIIe corps d'armée britannique)
+- ligne: 11
+  lemme: Archie Singers
+  type: emprunt
+  note: les chanteurs « Archie », nom de la troupe (Archie, surnom argotique de l'artillerie antiaérienne)
+- ligne: 13
+  lemme: Brown Boot Polish
+  type: emprunt
+  note: cirage brun pour chaussures
+- ligne: 13
+  lemme: 20c.
+  type: abreviation
+  note: 20 centimes
+- ligne: 14
+  lemme: Imbert
+  type: lecture
+  note: e et r fondus (aspect Imbat) ; Imbert retenu
+- ligne: 14
+  lemme: Imbert, opticien
+  type: disposition
+  note: 'écrit au-dessus de « 30c : » ; « Paris », sous « opticien », achève l''adresse'
+- ligne: 15
+  lemme: '30c : \hfill Paris'
+  type: disposition
+  note: montant de la boîte recommandée et fin de l'adresse d'Imbert, sur la ligne de « Concert »
+- ligne: 15
+  lemme: Y.M.C.A
+  type: abreviation
+  note: Young Men's Christian Association (foyer du soldat)
+- ligne: 16
+  lemme: Ve.
+  type: abreviation
+  note: vendredi
+- ligne: 18
+  lemme: Sunbeam Car
+  type: emprunt
+  note: voiture de marque Sunbeam
+- ligne: 21
+  lemme: 3^{H} s.
+  type: abreviation
+  note: trois heures du soir (de l'après-midi)
+- ligne: 23
+  lemme: Tempérre
+  type: abreviation
+  note: température
+- ligne: 23
+  lemme: pt
+  type: abreviation
+  note: peut
+critique: Les comptes du 28 décembre, ouverts par une équerre, sont fermés par un filet tiré sur toute la largeur, qui sépare les deux journées ; le montant de la boîte recommandée et la fin de l'adresse (« Paris ») sont rejetés sur la ligne du concert.
+historique: |
+  La canonnade « du coté d'Hebuterne » vient du secteur de la 31st Division, gauche du XIII Corps (OH 1917-I, p.~66) ; aucune opération n'y est signalée, l'effort de décembre portant sur « l'amélioration de nos tranchées et des routes » (Haig 1919, p.~66). Les « 13th corps Archie Singers » sont sans doute la troupe de concert des batteries antiaériennes du corps, \textit{Archie} désignant en argot le canon antiaérien et ses servants (Partridge 1937) ; ils reviennent le 4 janvier (voir f.~60~r\textsuperscript{o}). L'entrée payante (30~c) surprend : la Y.M.C.A. disait ses concerts gratuits (Yapp 1918, chap.~IV). La boîte envoyée à Imbert, opticien du boulevard Saint-Michel (f.~65~v\textsuperscript{o}), contenait sans doute le pince-nez dont Combes paiera la réparation le 10 janvier (f.~61~r\textsuperscript{o}). Le Major Levy est peut-être Walter Henry Levy, major temporaire de l'A.S.C. (\textit{London Gazette}, suppl. 29585, p.~4941) ; Sunbeam est une marque de Wolverhampton (Grace's Guide). Le « Quesnoy » est peut-être le lieu-dit Le Quesnoy, à Puchevillers, où une ferme porte ce nom.
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.
+- Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), London, Dent, 1919, p. 66 (dépêche du 31 mai 1917).
+- Partridge, E., A Dictionary of Slang and Unconventional English, London, Routledge, 1937, s.v. « Archie ».
+- Yapp, A. K., The Romance of the Red Triangle, London, Hodder and Stoughton, 1918, chap. IV, p. 39-62.
+- The London Gazette, suppl. 29585, 17 mai 1916, p. 4941.
+- Grace's Guide to British Industrial History, « Sunbeam Motor Car Co » (gracesguide.co.uk).

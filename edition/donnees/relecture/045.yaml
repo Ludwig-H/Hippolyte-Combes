@@ -1,0 +1,152 @@
+cliche: 45
+confiance: moyenne
+changements:
+- ligne: 3
+  avant: 'message : obligé'
+  apres: message ; obligé
+  justification: 'point net au-dessus d''un trait vertical : point-virgule'
+  confiance: moyenne
+- ligne: 4
+  avant: frse
+  apres: fr^{se}
+  justification: finale suscrite réduite à un trait au-dessus de fr
+  confiance: haute
+- ligne: 5
+  avant: 1H ½. Toute
+  apres: 1^{H} \fr{1}{2}. Tout
+  justification: H suscrit en forme de 4, fraction empilée (petit 1, barre, 2 en ℓ) ; Tout sans e final, t barré
+  confiance: haute
+- ligne: 7
+  avant: appris [groupe abrégé] divon, contrt
+  apres: appris que \inc{xviiie} divi, \inc{contr^{t}}
+  justification: 'que lisible ; groupe en croix + v + jambages = chiffre romain (minuscules) ; divi : d, i, v, i pointé'
+  confiance: moyenne
+- ligne: 8
+  avant: '[bruit ?], pas quitté Acheux — Le H.Q. 18e divon reste'
+  apres: et pas quitte Acheux — Le HQ^{rs} divi reste \inc{m}
+  justification: et lié net en tête de ligne ; HQ sans points suivi d'une finale suscrite rs, aucun 18e ; m isolé en fin de ligne
+  confiance: moyenne
+- ligne: 9
+  avant: où elle était.
+  apres: où elle etait \trait
+  justification: pas d'accent ni de point ; long trait final
+  confiance: moyenne
+- ligne: 10
+  avant: '[mot surchargé]'
+  apres: \sur{\ill}{\inc{Reparti}}
+  justification: R, e, p descendant, longue barre de t, finale prolongée
+  confiance: basse
+- ligne: 11
+  avant: mission frse de notre divon —
+  apres: mission fr de notre divi
+  justification: fr sans finale ; le trait à droite est le point de l'i ou l'accent de où (l. 10)
+  confiance: moyenne
+- ligne: 12
+  avant: Brammas
+  apres: \inc{Brammas}
+  justification: initiale ambiguë B/D
+  confiance: moyenne
+- ligne: 15
+  avant: dérangt
+  apres: derangt
+  justification: aucun accent visible
+  confiance: moyenne
+- ligne: 16
+  avant: régime
+  apres: regime
+  justification: aucun accent visible
+  confiance: moyenne
+- ligne: 17
+  avant: (mess d'offs
+  apres: (mess d'offrs
+  justification: r anguleux net avant la finale ondulée
+  confiance: moyenne
+- ligne: 19
+  avant: fréquentes. Rendu enfin repas
+  apres: frequentes. Rendu enfin \sur{\ill}{repas}
+  justification: pas d'accent ; repas empâté sur une première leçon
+  confiance: moyenne
+- ligne: 21
+  avant: b. heure
+  apres: b heure \trait
+  justification: b lié sans point ; long délié final
+  confiance: moyenne
+- ligne: 22
+  avant: 2 f –
+  apres: 2^{f} —
+  justification: f suscrit sur le filet ; tiret long
+  confiance: haute
+difficultes:
+- ligne: 7
+  lemme: xviiie
+  analyse: 'zoom [.40 .235 .80 .29] : croix (x), v, deux ou trois jambages, puis e détaché avant divi, le tout au module des minuscules ; le contexte (18e division) favorise xviii'
+  alternatives:
+  - xviie
+  - mvt de
+- ligne: 7
+  lemme: contr^{t}
+  analyse: 'zoom [.75 .24 1.0 .32] : c-o-n-t-r puis haste bouclée et arche surmontée d''un accent ; contrairement mal lié à « et pas quitte » (l. 8)'
+  alternatives:
+  - contrd (contre-ordre)
+  - contremandé avec le m de la l. 8
+- ligne: 8
+  lemme: m
+  analyse: m de module normal au bord droit, un peu au-dessus de la ligne de base de reste ; non tranché
+  alternatives:
+  - fin de contrem- (l. 7)
+  - même abrégé
+- ligne: 10
+  lemme: Reparti
+  analyse: 'zoom [0 .335 .30 .395] : mot noyé d''encre, récrit ; R d''attaque, p descendant, barre de t longue, finale en délié ; lettres médianes illisibles'
+  alternatives:
+  - Repassé
+  - Retourné
+- ligne: 12
+  lemme: Brammas
+  analyse: 'zoom [.55 .40 1.0 .455] : initiale à fût vertical et boucle basse fermée sur la ligne (plutôt forme de D que de B), r, a, deux m, a, puis crochet montant et long délié non plongeant (s réduit ou r)'
+  alternatives:
+  - Drammas
+  - Drammar
+- ligne: 21
+  lemme: heure
+  analyse: h, e, u visibles, puis long délié jusqu'au milieu de la page
+  alternatives:
+  - heu
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1081 caractères ; Nichols 1922 p. 79 et 109, OH 1916-I p. 271, JMO 7/Bedf 18 sept. (« Wet morning », visite du général Shoubridge), geo.api.gouv.fr ; travail fait sur p1. Les l. 7-8 restent incertaines (« \inc{xviiie} divi, \inc{contr^{t}} », « \inc{m} ») : le commentaire ne retient que ce qui est sûr, à savoir que le QG et la Mission sont toujours à Acheux. « Brammas » (initiale B ou D) n''est pas identifié.'
+  alternatives: []
+controle:
+- ligne: 7
+  avant: \inc{XVIIIe}
+  apres: \inc{xviiie}
+  justification: le chiffre romain est écrit au module des minuscules (croix x, v, jambages, e) ; on transcrit l'image
+- ligne: 12
+  avant: 'note : initiale en D bouclé, lisible aussi Drammas'
+  apres: 'note : initiale B ou D, finale -s ou -r (Drammas, Drammar)'
+  justification: la finale ne plonge pas sous la ligne (crochet montant puis délié) ; -r reste possible ; Brammas conservé faute de trait décisif
+- ligne: 0
+  avant: notes d'apparat avec détails paléographiques (fr^{se}, HQ^{rs}, 2^{f}, xviiie) ; divi l. 8 sans note
+  apres: notes épurées ; divi l. 8 ajouté
+  justification: apparat imprimé réduit au développement ou à la lecture ; justifications renvoyées aux champs non imprimés
+remarques: 'L. 7–9 : syntaxe elliptique ; le sens exact (contre-ordre ou contrairement aux bruits) reste à confirmer.'
+resume: Pluie battante toute la journée. Rappelé à la Mission française par un message reçu la veille, Hippolyte Combes part à cheval vers 13 h 30 par des routes boueuses. À Hédauville il apprend que la 18e division n'a pas quitté Acheux et que son quartier général reste en place ; il gagne Acheux par Forceville et y retrouve la mission française de la division. Retour avec Brammas (lecture incertaine), trempé ; dérangement intestinal attribué au régime du mess des officiers ; couché tôt. Pourboire de 2 francs à son ordonnance Connelly.
+noms:
+  personnes:
+  - forme: Brammas
+    ligne: 12
+    identite: compagnon de route, peut-être de la mission (lecture incertaine, aussi Drammas, Drammar)
+  - forme: Connelly
+    ligne: 22
+    identite: groom (ordonnance) britannique d'Hippolyte Combes
+  lieux:
+  - forme: Hédauville
+    ligne: 7
+    identite: Hédauville (Somme)
+  - forme: Acheux
+    ligne: 8
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Forceville
+    ligne: 10
+    identite: Forceville (Somme)
+source: contrôle

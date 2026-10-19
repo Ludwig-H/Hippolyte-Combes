@@ -1,0 +1,97 @@
+cliche: 61
+fichier: 20251126_103455.jpg
+date: Mardi 3 octobre 1916
+mois: Octobre 1916
+lieux: Toulouse (Haute-Garonne)
+titre: 'Comptes : tailleur Guiraud, semestre à Mlle Guilhem ; la propriété de Mme de Labarthe'
+transcription: |
+  \sl{3 Ma} \hfill \sl{Oct^{bre} 1916}
+  – Payé à Guiraud, pour façon
+  & fournitures tunique — 38^{f}
+  – Semestre à Mlle Guilh : 90^{f} –
+  \ind[2] (Juillet \add{1916} – Janvier 1917)
+  – Cie Française : 20 cm doublure satin : 60c
+  – Fleurs : 1^{f} 10
+  \filet
+  Delicieux ds la proprieté de Mme de Labarthe
+  Elle ns a fait visiter maison.
+  Simplicite & abandon charmants
+  \blanc{12}
+apparat:
+- ligne: 1
+  lemme: Ma
+  type: abreviation
+  note: mardi
+- ligne: 1
+  lemme: Oct^{bre}
+  type: abreviation
+  note: octobre
+- ligne: 3
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 3
+  lemme: 38^{f}
+  type: abreviation
+  note: 38 francs
+- ligne: 4
+  lemme: Mlle
+  type: abreviation
+  note: Mademoiselle
+- ligne: 4
+  lemme: Guilh
+  type: abreviation
+  note: Guilhem
+- ligne: 4
+  lemme: 90^{f}
+  type: abreviation
+  note: 90 francs
+- ligne: 5
+  lemme: \add{1916}
+  type: ajout
+  note: millésime écrit petit sous « Juillet »
+- ligne: 6
+  lemme: Cie
+  type: abreviation
+  note: Compagnie (nom de magasin)
+- ligne: 6
+  lemme: Française
+  type: lecture
+  note: 'lecture probable : F réduit à une haste, ç plongeant ; Franç^{se} possible'
+- ligne: 6
+  lemme: cm
+  type: abreviation
+  note: centimètres
+- ligne: 6
+  lemme: 60c
+  type: abreviation
+  note: 60 centimes
+- ligne: 7
+  lemme: 1^{f} 10
+  type: abreviation
+  note: 1 franc 10
+- ligne: 8
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 8
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 9
+  lemme: ns
+  type: abreviation
+  note: nous
+- ligne: 10
+  lemme: '&'
+  type: abreviation
+  note: et
+critique: Seul le tiers supérieur de la page est écrit, à l'encre violette ; le reste est blanc. Les trois lignes placées sous le filet reviennent sur la visite de l'après-midi chez Mme de Labarthe, racontée f.~30 v\textsuperscript{o}.
+historique: |
+  La « tunique » est sans doute celle de la tenue d'interprète : les interprètes étaient alors habillés de kaki, une tête de sphinx au collet (Tessan, dans Fernand-Laurent 1917, p.~XII--XIII ; Whittem et Long 1917, p.~130) ; Combes avait acheté un képi à Paris le 26 septembre (voir f.~27 r\textsuperscript{o}). Les 38~F de façon et de fournitures valent quatre à cinq journées d'un tailleur d'habits parisien, payé 8,50~F par jour en 1916 (March 1925, p.~264). Guiraud et la « Cie Française » ne sont pas identifiés. Le « semestre » versé à Mlle Guilhem est le loyer de l'appartement du 24, rue de Languedoc, conservé pendant la guerre (lettre du 25 nov. 1918) : 15~F par mois, quand la pension complète d'un ouvrier célibataire coûtait une centaine de francs en Haute-Garonne (March 1925, p.~237--238). Mme de Labarthe, « gde amie » (voir f.~28 v\textsuperscript{o}), est sans doute la mère du « docteur de L— » d'une lettre du 16 juin 1916 ; si la lecture « Castanet » est juste (voir f.~30 v\textsuperscript{o}), sa propriété était au-delà du terminus du tramway de Castanet (Wikipédia, « Ancien tramway de Toulouse »).
+sources:
+- Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, p. XII-XIII.
+- Whittem, A. F., et Long, P. W., French for Soldiers, Cambridge (Mass.), Harvard University Press, 1917, p. 130.
+- March, L., Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 237-238, 264.
+- Combes, H., carte-lettre à Marguerite Calmels, Paris, 25 novembre 1918 (archives familiales).
+- Wikipédia, « Ancien tramway de Toulouse » (d'après C. Lacombe et P. Malterre, Omnibus, tramways et autobus de Toulouse, éd. du Cabri, 1983), consulté le 18 oct. 2026.

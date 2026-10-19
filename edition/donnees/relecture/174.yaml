@@ -1,0 +1,168 @@
+cliche: 174
+confiance: haute
+changements:
+- ligne: 3
+  avant: ondées torrentielles.
+  apres: ondées torrentielles
+  justification: aucun point en fin de ligne
+  confiance: haute
+- ligne: 5
+  avant: Rubempré. Averses très fortes.
+  apres: Rubempré. Averses très fortes –
+  justification: court tiret détaché après « fortes », pas de point
+  confiance: haute
+- ligne: 6
+  avant: Après-midi entière, liberté.
+  apres: \ind Après-midi entière, liberté
+  justification: ligne en retrait, sans point final, encre plus pâle
+  confiance: haute
+- ligne: 7
+  avant: paraît
+  apres: parait
+  justification: i sans point ni circonflexe sous la barre commune du t
+  confiance: moyenne
+- ligne: 10
+  avant: Encore aujourd'hui, giboulées, saison.
+  apres: Encore aujd'hui, giboulées saison.
+  justification: forme contractée a-u-j-d (boucle du d) + hui ; aucune virgule après giboulées
+  confiance: haute
+- ligne: 11
+  avant: violentes.
+  apres: violentes
+  justification: pas de point
+  confiance: haute
+- ligne: 13
+  avant: véhicules.
+  apres: véhicules
+  justification: pas de point, long délié final
+  confiance: haute
+- ligne: 14
+  avant: Molliens-au-B.
+  apres: Molliens-au-B
+  justification: le B se termine par un long délié horizontal, aucun point
+  confiance: haute
+- ligne: 15
+  avant: complète.
+  apres: complète
+  justification: pas de point ; délié final prolongé
+  confiance: haute
+- ligne: 16
+  avant: Mervx ciel étoilé
+  apres: merv^{x} ciel étoilé
+  justification: m initial au module des minuscules ; x petit et surélevé
+  confiance: moyenne
+- ligne: 17
+  avant: État lyrique — —
+  apres: Etat lyrique. —
+  justification: E majuscule sans accent ; point appuyé puis tiret long
+  confiance: haute
+- ligne: 18
+  avant: '31 Sam. — En course, matin & soir : Rubempré,'
+  apres: \sl{31 Sam.} – En course, matin & soir. Rubempré,
+  justification: tiret court ; point (non deux-points) après soir
+  confiance: haute
+- ligne: 19
+  avant: par Toutencourt, Puchevillers, Pierregot et
+  apres: par Toutencourt & Puchevillers, Pierregot et
+  justification: esperluette en ρ, haste descendant dans la l. 20
+  confiance: haute
+- ligne: 20
+  avant: Rainneville — Acheté paille.
+  apres: Rainneville – – acheté paille
+  justification: deux tirets courts ; a initial au module des minuscules ; pas de point
+  confiance: moyenne
+- ligne: 22
+  avant: grêle — grêlons
+  apres: grèle – grelons
+  justification: accent grave décalé sur le premier e de grèle ; aucun accent sur grelons
+  confiance: moyenne
+- ligne: 23
+  avant: visages — Routes extrt détrempées — —
+  apres: visages – Routes ext^{t} detrempées . – .
+  justification: t final de ext surélevé ; d initial sans accent ; suite point, tiret court, point
+  confiance: moyenne
+- ligne: 24
+  avant: Village tjours sans troupes, paraît inhabité.
+  apres: village tjours sans troupes, parait inhabite
+  justification: v initial minuscule, sans accent ni point final ; long délié final
+  confiance: moyenne
+- ligne: 25
+  avant: J'aime ce calme & ce silence.
+  apres: \ind J'aime ce calme & ce silence
+  justification: ligne en retrait, pas de point
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: \sl{Mars 1917}
+  analyse: le long trait sous « Mars 1917 » rejoint la barre du tt de la l. 2 ; il couvre exactement le mois et le millésime, retenu comme soulignement
+  alternatives:
+  - barre de tt prolongée
+- ligne: 10
+  lemme: saison
+  analyse: s-a-i-s-o-n, n final plongeant puis point
+  alternatives:
+  - saisons
+- ligne: 12
+  lemme: etat
+  analyse: e initial bas, sans aucun accent visible au zoom ×3 (cf. « Etat » l. 17)
+  alternatives:
+  - état
+- ligne: 18
+  lemme: \sl{31 Sam.}
+  analyse: le soulignement commence sous le 1 (x ≈ .05) et finit au-delà de Sam ; retenu sur le quantième et le jour
+  alternatives:
+  - 31 \sl{Sam.}
+- ligne: 23
+  lemme: . – .
+  analyse: point, tiret court, point ; petite coche au-dessus venant du p de frappé (l. 22)
+  alternatives:
+  - – – –
+controle:
+- ligne: 1
+  avant: \sl{29 Jeudi}
+  apres: 29 \sl{Jeudi}
+  justification: le soulignement part du pied du J, après la descente du 9 ; le point au-dessus est celui du i
+- ligne: 12
+  avant: état
+  apres: etat
+  justification: aucun accent au-dessus du e au zoom ×3
+- ligne: 16
+  avant: etoilé
+  apres: étoilé
+  justification: accent détaché, décalé au-dessus du t, distinct de la haste du t
+- ligne: 22
+  avant: grele
+  apres: grèle
+  justification: trait oblique descendant vers la droite au-dessus du premier e (accent grave)
+- ligne: 10
+  avant: 'apparat : lecture « giboulées saison » (absence de virgule)'
+  apres: note supprimée
+  justification: simple ponctuation, sans difficulté de lecture
+- ligne: 14
+  avant: 'apparat : Molliens-au-Bois ; le B se prolonge en long délié, sans point'
+  apres: Molliens-au-Bois
+  justification: justification paléographique renvoyée aux changements
+remarques: Le village non nommé (l. 7, 24) est Hérissart, cantonnement depuis mi-mars (cliché 168).
+resume: Le jeudi 29 mars 1917, temps moins froid mais ondées torrentielles ; le matin, courses en auto à Puchevillers et Rubempré ; après-midi libre. Le village paraît abandonné, sans troupes, et Hippolyte Combes goûte ce calme. Le 30, giboulées, neige et rafales ; routes défoncées par les camions ; courses à Pierregot et Molliens-au-Bois, puis ciel étoilé et croissant de lune. Le 31, courses à Rubempré par Toutencourt, Puchevillers, Pierregot et Rainneville, achat de paille sous la grêle ; il aime le calme et le silence du village désert.
+noms:
+  personnes: []
+  lieux:
+  - forme: Puchevillers
+    ligne: 4
+    identite: Puchevillers (Somme)
+  - forme: Rubempré
+    ligne: 5
+    identite: Rubempré (Somme)
+  - forme: Pierregot
+    ligne: 14
+    identite: Pierregot (Somme)
+  - forme: Molliens-au-B
+    ligne: 14
+    identite: Molliens-au-Bois (Somme)
+  - forme: Toutencourt
+    ligne: 19
+    identite: Toutencourt (Somme)
+  - forme: Rainneville
+    ligne: 20
+    identite: Rainneville (Somme)
+source: contrôle

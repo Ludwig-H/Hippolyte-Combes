@@ -1,0 +1,115 @@
+cliche: 182
+fichier: 20251126_111702.jpg
+date: Samedi 21 – dimanche 22 avril 1917
+mois: Avril 1917
+lieux: Hérissart, Toutencourt, Buire-sur-l'Ancre, Albert, Millencourt et Pierregot (Somme)
+titre: Canonnade vers Arras ; dernière solde à Toutencourt ; guide d'Amiens ; moulin de Pierregot
+transcription: |
+  21 \sl{Samedi}–.
+  \ind Toute nuit, violente canonnade — \hfill Avril \sl{1917} —
+  sud d'Arras.
+  \ind Encore assz belle journee. temps doux. ciel couvert
+  matin, avant breakfast, venu à pied, en 40 m.,
+  à Toutencourt, pour toucher solde. Dû revenir à
+  pied.
+  Course en auto à Buire, Albert & Millencourt,
+  Contay. Cherché vainement paille à acheter \trait
+  Après-midi, liberté entière.
+  \blanc{1}
+  \crochet{4}A Toutencourt : solde : 78^{f} 75^{c}
+  Fait porter d'Amiens, par B^{te} Denis :
+  A. Martin : Promenade ds Amiens : 1^{f} 75
+  et gde carte, \inc{avec} vue cath^{le} : 2 75 c
+  \blanc{1}
+  \sl{22 Dimanche}–
+  \ind[3] Enfin, très belle journée. Soleil
+  mais vent très froid.
+  Matinée, course à Toutencourt, Molliens-au-Bois
+  et Pierregot. — Visité gd moulin, à vent route de Pierreg\inc{ot} \add{très intéressant}
+  Après-midi, liberté. Promenade agréable
+  sur la route d'\inc{Hessart}, anti-aircraft battery.
+  Très pittoresques points de vue : lointains bleuâtres,
+  masses du bois rouillés —
+  \blanc{1}
+  Durant jour, et surtout tte la nuit, roulement
+  ininterrompu violente canonnade vers le nord,
+  du côté d'Arras \trait
+apparat:
+- ligne: 4
+  lemme: assz
+  type: abreviation
+  note: assez
+- ligne: 5
+  lemme: breakfast
+  type: emprunt
+  note: petit déjeuner
+- ligne: 5
+  lemme: m.
+  type: abreviation
+  note: minutes
+- ligne: 11
+  lemme: 78^{f} 75^{c}
+  type: abreviation
+  note: 78 francs 75 centimes
+- ligne: 12
+  lemme: B^{te}
+  type: abreviation
+  note: Baptiste (?)
+- ligne: 13
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 13
+  lemme: 1^{f} 75
+  type: lecture
+  note: 1 franc 75 ; le f suscrit se confond avec le pied du D de « Denis », « 1 75 » possible
+- ligne: 14
+  lemme: gde
+  type: abreviation
+  note: grande
+- ligne: 14
+  lemme: \inc{avec}
+  type: lecture
+  note: lecture retenue d'après le sens ; tracé proche de « être »
+- ligne: 14
+  lemme: cath^{le}
+  type: abreviation
+  note: cathédrale
+- ligne: 14
+  lemme: 2 75 c
+  type: lecture
+  note: 2 francs 75 centimes ; aucun f entre 2 et 75 (lecture antérieure « 2 f. 75 c. »)
+- ligne: 19
+  lemme: gd
+  type: abreviation
+  note: grand
+- ligne: 19
+  lemme: Pierreg\inc{ot}
+  type: lecture
+  note: Pierregot ; finale réduite à un trait dans la marge
+- ligne: 19
+  lemme: \add{très intéressant}
+  type: ajout
+  note: écrit petit dans l'interligne, sous la fin de la ligne
+- ligne: 21
+  lemme: d'\inc{Hessart}
+  type: lecture
+  note: Hérissart (Somme), écrit sans « ri » ; « Essart » possible
+- ligne: 21
+  lemme: anti-aircraft battery
+  type: emprunt
+  note: batterie antiaérienne
+- ligne: 23
+  lemme: rouillés
+  type: lecture
+  note: finale réduite à un long délié ; « rouillées » possible
+- ligne: 24
+  lemme: tte
+  type: abreviation
+  note: toute
+critique: Encre violette uniforme.
+historique: |
+  La canonnade des nuits du 21 et du 22, entendue d'Hérissart à quelque 39~km d'Arras, est sans doute la préparation d'artillerie de la deuxième bataille de la Scarpe : la Third Army attaque le 23 à 4~h~45 sur une quinzaine de kilomètres, de Croisilles, au sud-est d'Arras, à Gavrelle (OH 1917-I, p.~378 sq.). Les 78~f~75 touchés à Toutencourt, à 3~km d'Hérissart, sont le dernier des dix-neuf versements de solde notés dans le carnet, soit quinze jours à 5~f~25 (voir f.~88 v\textsuperscript{o}). La paille introuvable tient peut-être à l'épuisement des réserves des fermes à la fin de l'hiver. Le guide d'« A. Martin » est vraisemblablement celui d'Alexis Martin (1834-1904), \textit{Une visite à Amiens}, Paris, Hennuyer, 1896, dont Combes cite le titre de façon approximative (BnF) ; à 2~f~75, la « gde carte » est bien plus chère qu'une carte postale. « B\textsuperscript{te} Denis » appartient sans doute à la famille d'Hérissart chez qui Combes passe ses soirées (voir f.~89 r\textsuperscript{o}). Sur l'\textit{anti-aircraft}, l'« Archie » des Britanniques, voir f.~73 r\textsuperscript{o}.
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 378 sq.
+- Martin, A., Une visite à Amiens. Historique. La ville haute, la ville basse, les faubourgs. Hommes célèbres nés en Picardie, Paris, A. Hennuyer, 1896 (BnF, notice de la réédition La Vague verte, 2016, ark:/12148/cb450737666).

@@ -1,0 +1,206 @@
+cliche: 115
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 26 Mardi \hfill Décbre 1916.
+  apres: 26 \sl{mardi} \hfill Déc^{bre} \sl{1916}.
+  justification: m au module d'une minuscule, attaque courte ; un trait sous mardi seul, un autre sous 1916 seul ; bre suscrit
+  confiance: haute
+- ligne: 2
+  avant: Temps de pluie & brouillard.
+  apres: \ind Temps de pluie & brouillard
+  justification: 'ligne en retrait sous la date ; aucun point : après le d, sa haste rejetée en arrière croise le trait d''attaque du D de Déc (l. 1) et le délié final s''achève sans levée de plume'
+  confiance: moyenne
+- ligne: 4
+  avant: M. Guibet...
+  apres: M – Guibet – . .
+  justification: après M, court trait à mi-hauteur ; après le nom, un trait puis deux points, à mi-hauteur
+  confiance: moyenne
+- ligne: 5
+  avant: Quesnoy etc.
+  apres: Quesnoy etc
+  justification: aucun point après le c, qui touche le bord droit
+  confiance: moyenne
+- ligne: 6
+  avant: A Beauquesne, charmante Mme Capron,
+  apres: A Beauquesne, charmante Mme \inc{Capron},
+  justification: 'après le p, minimes sous un point d''i, sans o visible : nom incertain'
+  confiance: moyenne
+- ligne: 7
+  avant: à propos location machine à battre.
+  apres: à propos location machine à battre
+  justification: le trait qui suit est la barre des tt prolongée ; aucun point
+  confiance: moyenne
+- ligne: 8
+  avant: Rentrés à 6h. Fatigue extrême — Couché tôt.
+  apres: Rentrés à 6^{H}. Fatigue extrême – Couché tot
+  justification: 'H suscrit à deux hastes ; tiret court ; un seul trait au-dessus de Couché tot, qui est l''accent du é décalé à droite : aucun circonflexe ; la barre du dernier t file vers le bord, sans point'
+  confiance: moyenne
+- ligne: 9
+  avant: 27 Merc.
+  apres: 27 \sl{Merc.}
+  justification: trait appuyé sous Merc., partant du pied du 7
+  confiance: haute
+- ligne: 10
+  avant: Enfin, très belle journée. Revu soleil.
+  apres: \ind Enfin, très belle journée. Revu soleil. —
+  justification: ligne en alinéa (retrait ≈ 0,10) ; après le point, tiret long au bord
+  confiance: moyenne
+- ligne: 12
+  avant: continué j'à Doullens, mais resté
+  apres: Continué j-à Doullens, mais resté
+  justification: C à boucle de tête et grand arc, plus haut que les minuscules (cf. c de course, l. 11) ; trait d'union court entre j et à, sans apostrophe
+  confiance: moyenne
+- ligne: 13
+  avant: 20 m. à peine ds cette ville (hélas!).
+  apres: 20 m – à peine ds cette ville (hélas!
+  justification: court trait à mi-hauteur après m ; ni parenthèse fermante ni point après le point d'exclamation
+  confiance: haute
+- ligne: 14
+  avant: '[ A Doullens : 1 ramette papier à l. : 1 f 25 c'
+  apres: '\equerre{3}A Doullens : 1 ramette papier à l – : 1^{f} 25 c'
+  justification: signe d'ouverture en équerre (trait horizontal puis trait vertical jusqu'au bas du feuillet) ; court trait après l ; f suscrit
+  confiance: moyenne
+- ligne: 16
+  avant: 'Cartes ples : 55 c ]'
+  apres: 'Cartes ples : 55 c'
+  justification: aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 6
+  lemme: Beauquesne, charmante
+  analyse: 'trait presque vertical de y ≈ 0,203 à 0,265 entre Beauquesne et charmante, coudé à la ligne de base de la l. 6 (y ≈ 0,22), où deux tracés se rejoignent : en haut, segment d''environ un œil à crochet de tête et queue vers la gauche, du module et de la position des virgules des l. 3 et 5 ; en bas, haste du t de location (l. 7), déjà longue de 2,6 œils. D''un seul tracé, la haste mesurerait 3,7 œils, plus que toute autre sur la page. Virgule de l''état antérieur rétablie'
+  alternatives:
+  - Beauquesne, charmante
+  - Beauquesne charmante
+- ligne: 6
+  lemme: \inc{Capron}
+  analyse: C bouclé ; a fermé à jambage, lié par le bas ; p à longue haste descendante ; ensuite deux minimes liées en u, une troisième sous un point d'i en tiret (x ≈ 0,885, y ≈ 0,195), tracé de gauche à droite et séparé de la queue du y de Quesnoy ; n final en délié ; aucun o fermé visible. Le point oriente vers Caprin ; Capron, nom picard courant et leçon de l'état antérieur, reste possible si r et o sont réduits à deux minimes. Même graphie en 120 l. 20
+  alternatives:
+  - Capron
+  - Caprin
+  - Capin
+- ligne: 4
+  lemme: Guibet
+  analyse: G bouclé descendant ; trois minimes (u, i) ; point d'i en tiret à gauche de la haste suivante ; b en forme de h (haste bouclée et arche) ; e ; t barré. Aucune place pour un c entre i et b, ce qui exclut Guichet ; même nom en 121 l. 16, à Raincheval
+  alternatives:
+  - Guibet
+  - Guihet
+- ligne: 2
+  lemme: brouillard
+  analyse: 'la figure en x qui suit est le d en ∂, dont la haste rejetée en arrière croise le trait d''attaque du D de Déc (l. 1) ; le délié final se relève sans levée de plume : aucun point'
+  alternatives:
+  - brouillard
+  - brouillard.
+- ligne: 8
+  lemme: Couché tot
+  analyse: 'un seul trait au-dessus, à droite du é de Couché et au-dessus du premier t : accent de Couché décalé à droite, selon l''usage du scripteur ; un circonflexe de l''o serait décalé à gauche, contre cet usage'
+  alternatives:
+  - Couché tot
+  - Couché tôt
+- ligne: 12
+  lemme: resté
+  analyse: barre du t prolongée au-dessus du e final, épaissie à son départ, sans accent distinct ; resté conservé (accord des deux lectures et de la syntaxe), l'accent pouvant se confondre avec la barre
+  alternatives:
+  - resté
+  - reste
+- ligne: 14
+  lemme: 1 ramette
+  analyse: 'trait d''attaque oblique montant haut, puis haste descendante (aspect ʌ), lié à la suite du mot : 1 à attaque, ou boucle d''attaque du r initial ; le compte (1 ramette, 2 paquets) appuie le chiffre'
+  alternatives:
+  - 1 ramette
+  - ramette
+- ligne: 14
+  lemme: 1^{f} 25 c
+  analyse: 1 à attaque ; 2 à tête ronde et boucle basse ; au-dessus, f à tête bouclée et barre, non relié à la haste suivante ; 5 en longue haste oblique descendant sous la ligne ; c sous la ligne, au bord. Le prix d'une ramette exclut 12 f 5
+  alternatives:
+  - 1^{f} 25 c
+  - 125 c
+controle:
+- ligne: 2
+  avant: Temps de pluie & brouillard
+  apres: \ind Temps de pluie & brouillard
+  justification: 'retrait net (≈ 0,07 de la largeur) par rapport à Matin et M (l. 3–4) : note de temps sur une ligne propre sous la date, à baliser plutôt qu''à décrire en apparat ; notes « Temps » (disposition) et « brouillard » (lecture) supprimées'
+- ligne: 6
+  avant: A Beauquesne charmante
+  apres: A Beauquesne, charmante
+  justification: 'zoom ×4 : le long trait est fait de deux tracés joints à la ligne de base de la l. 6, une virgule de même module que celles des l. 3 et 5 au-dessus de la haste du t de location ; la suppression de la virgule n''est pas justifiée par les traits ; note de lecture correspondante supprimée'
+- ligne: 6
+  avant: 'note \inc{Capron} : description lettre à lettre'
+  apres: note brève donnant les lectures possibles (Caprin, Capin)
+  justification: 'zoom ×4 : point d''i en tiret confirmé, aucun o fermé ; \inc maintenu, analyse renvoyée aux difficultés ; identité et remarques précisées'
+- ligne: 1
+  avant: notes mardi (graphie), 26 \sl{mardi} et \sl{1916}. (disposition), Déc^{bre} détaillée
+  apres: seule note Déc^{bre}, abrégée
+  justification: minuscule et soulignements rendus par le balisage ; justifications paléographiques hors apparat
+- ligne: 3
+  avant: note lecture Arquèves
+  apres: supprimée
+  justification: lecture sûre, conforme à l'état antérieur
+- ligne: 4
+  avant: notes M –, Guibet (lecture), Guibet – . . détaillées
+  apres: notes M – et Guibet – . . abrégées ; note Guibet supprimée
+  justification: Guibet vérifié au zoom ×4 (trois minimes, b en h, pas de c), conforme à l'état antérieur ; analyse en difficultés
+- ligne: 7
+  avant: notes lecture location et battre
+  apres: supprimées
+  justification: justifications paléographiques sans difficulté de lecture
+- ligne: 8
+  avant: notes Fatigue extrême (lecture), tot (graphie), 6^{H} détaillée
+  apres: seule note 6^{H} = 6 heures
+  justification: 'accent absent et délié final : pas de note imprimée ; tot vérifié au zoom (un seul trait, accent de Couché)'
+- ligne: 10
+  avant: notes Enfin (disposition) et soleil. — (signe)
+  apres: supprimées
+  justification: alinéa et tiret rendus par le balisage
+- ligne: 12
+  avant: note graphie Continué
+  apres: supprimée
+  justification: 'majuscule : pas de note'
+- ligne: 13
+  avant: note signe (hélas!
+  apres: supprimée
+  justification: parenthèse non refermée et point d'exclamation transcrits tels quels ; vérifiés au zoom ×3
+- ligne: 14
+  avant: notes A Doullens (équerre), 1 ramette (1 = une), 1^{f} 25 c détaillée
+  apres: notes supprimées sauf à l – et 1^{f} 25 c, abrégée
+  justification: équerre balisée ; 1 est ici le nombre d'un compte ; montant vérifié au zoom ×3
+- ligne: 15
+  avant: notes gdes et 45 + 45 c détaillées
+  apres: 'gdes = grandes ; 45 + 45 c : opération implicite (90 c)'
+  justification: description des tracés hors apparat ; règle du type compte
+- ligne: 16
+  avant: 'lemme ples : postales'
+  apres: 'lemme Cartes ples : cartes postales'
+  justification: développement de l'expression entière
+- ligne: 1
+  avant: critique de six phrases, avec coordonnées et remarques paléographiques
+  apres: critique de trois phrases (encre, disposition, tache)
+  justification: registre critique limité à la disposition d'ensemble, à l'encre et à l'état matériel
+remarques: La location de la batteuse aboutit au contrat passé avec la même Mme Capron le 5 janvier 1917 (cliché 120) ; M. Guibet est revu à Raincheval le 9 janvier (cliché 121). Le nom Capron, écrit de même en 120 avec un point d'i, reste incertain.
+resume: 'Le mardi 26 décembre 1916, par la pluie et le brouillard, Combes se rend le matin à Raincheval et à Arquèves, où il voit M. Guibet, puis l''après-midi à Beauquesne et au Quesnoy. À Beauquesne, il voit la « charmante » Mme Capron (nom incertain) au sujet de la location d''une machine à battre. Rentré à 6 heures, extrêmement fatigué, il se couche tôt. Le mercredi 27, enfin une très belle journée ensoleillée : course à Beauquesne le matin, puis à Doullens, où il ne reste qu''à peine vingt minutes, à son regret. Il y achète une ramette de papier à lettres (1 f 25), deux paquets de grandes enveloppes (45 + 45 c) et des cartes postales (55 c).'
+noms:
+  personnes:
+  - forme: Guibet
+    ligne: 4
+    identite: M. Guibet, de Raincheval, revu le 9 janvier 1917 (cliché 121)
+  - forme: \inc{Capron}
+    ligne: 6
+    identite: 'Mme Capron (lecture incertaine : Caprin ?), de Beauquesne, avec qui Combes passe le 5 janvier 1917 un contrat de location de batteuse (cliché 120)'
+  lieux:
+  - forme: Raincheval
+    ligne: 3
+    identite: Raincheval (Somme)
+  - forme: Arquèves
+    ligne: 3
+    identite: Arquèves (Somme)
+  - forme: Beauquesne
+    ligne: 5
+    identite: Beauquesne (Somme) ; aussi l. 6 et 11
+  - forme: Quesnoy
+    ligne: 5
+    identite: le Quesnoy, écart des environs de Beauquesne (cf. la ferme du Quesnoy ailleurs dans le journal ; identification non établie)
+  - forme: Doullens
+    ligne: 12
+    identite: Doullens (Somme) ; aussi l. 14
+source: contrôle

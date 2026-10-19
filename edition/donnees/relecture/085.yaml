@@ -1,0 +1,115 @@
+cliche: 85
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Mardi 24 \hfill Oct. /16
+  apres: \sl{mardi 24} \hfill \sl{Oct /16}
+  justification: m initial au module des minuscules (même forme que matin l. 8, merc. l. 14) ; aucun point après Oct ; date et mois soulignés
+  confiance: haute
+- ligne: 3
+  avant: averses fines tombent sans
+  apres: \add{\inc{tombent}} averses fines sans
+  justification: le mot est écrit petit dans l'interligne, au-dessus de « averses », non sur la ligne après « fines »
+  confiance: moyenne
+- ligne: 4
+  avant: discontinuer.
+  apres: discontinuer
+  justification: long délié final du r, sans levée de plume ni point
+  confiance: moyenne
+- ligne: 5
+  avant: j'à
+  apres: j-à
+  justification: trait d'union court entre j et à
+  confiance: haute
+- ligne: 6
+  avant: s'étend
+  apres: s'étend.
+  justification: point net sur la ligne après étend
+  confiance: haute
+- ligne: 8
+  avant: Matin, venu mission frse
+  apres: matin, venu mission F^{se}
+  justification: m au module des minuscules ; F majuscule à barre, finale -se surélevée
+  confiance: moyenne
+- ligne: 9
+  avant: '[Lépin ?] & Lt ... quitterai'
+  apres: Lepin & L^{t} ... \inc{quitter}
+  justification: L-e-p-i-n lisible lettre à lettre, sans accent ; t de Lt surélevé ; quitter s'arrête sur -er
+  confiance: moyenne
+- ligne: 11
+  avant: Vers 11h m.,
+  apres: Vers 11^{H} m,
+  justification: H suscrit à deux hastes ; aucun point après m, seulement la virgule
+  confiance: haute
+- ligne: 14
+  avant: Merc. 25 | Tjrs
+  apres: \sl{merc. 25} Tjours
+  justification: date encadrée (filet, soulignement, trait oblique) ; Tjours en toutes lettres après le j (guide § 8, piège 3)
+  confiance: haute
+- ligne: 19
+  avant: écris
+  apres: ecris
+  justification: aucun accent sur le e initial
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: tombent
+  analyse: 'interligne au-dessus de averses (zoom [.43 .045 .58 .105]) : t, o, jambages (m), haute haste (b), puis un seul élément bref ; le tiret qui suit est celui de la l. 2, la grande boucle en S descendante paraît être le s médian montant de averses ; -nt non visible'
+  alternatives:
+  - tombe
+  - tombées
+  - tombent
+- ligne: 9
+  lemme: quitter
+  analyse: q à haste droite, u, i pointé, haute haste barrée (t, peut-être tt sous une barre commune), petit e, finale r en crochet ; aucune trace de -ai (zoom [.80 .32 1.0 .395])
+  alternatives:
+  - quiter
+  - quitterai
+- ligne: 8
+  lemme: F^{se}
+  analyse: 'deux hastes reliées par une barre (F, ou F + r), puis finale suscrite : petit crochet et e (zoom [.55 .30 .72 .365])'
+  alternatives:
+  - Fr^{se}
+  - Fr^{e}
+- ligne: 18
+  lemme: ma
+  analyse: jambages de m puis a ouvert prolongé en long délié horizontal ; la descente sous le mot appartient au V de Vie (l. 19)
+  alternatives:
+  - mon
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Nom de l''adjudant fixé sur l''image : Lepin (L, e, p, i pointé, n ; aucune minime pour Liepin, aucun accent ; zoom [0 .34 .20 .40]). Formes divergentes ailleurs : Lupin (023), Lépin (090). Fichier : /workspaces/hc_work/commentaire/085.yaml'
+  alternatives: []
+controle:
+- ligne: 9
+  avant: \inc{Lepin}
+  apres: Lepin
+  justification: zoom [0 .34 .20 .40] — L bouclé, une seule petite boucle (e), p à longue haste, i pointé, n plongeant ; aucune minime supplémentaire pour Liepin, aucun accent
+- ligne: 9
+  avant: \inc{quitterai}
+  apres: \inc{quitter}
+  justification: zoom [.80 .32 1.0 .395] — le mot finit sur -er en crochet, sans -ai ; transcrire ce qui est écrit, le développement va dans l'apparat
+- ligne: 1
+  avant: 'apparat : mardi (graphie de l''initiale)'
+  apres: note supprimée
+  justification: majuscule banale, aucune note selon la règle
+- ligne: 6
+  avant: 'apparat : (aucune note)'
+  apres: 'de + en + : de plus en plus ; & (l. 9) : et'
+  justification: abréviations non relevées par la première lecture
+- ligne: 3
+  avant: 'note : t-o-m-b lisibles, finale noyée'
+  apres: note réduite à la lecture retenue et aux autres lectures
+  justification: le trait suivant b est un seul élément ; tombe, tombées restent possibles
+remarques: 'Lieu (Albert) déduit du contexte (cliché 084 : cartes postales d''Albert). Le nom de l''adjudant est à harmoniser avec 023 et 090 dans l''index.'
+resume: 'Mardi 24 octobre 1916, à Albert : pluie toute la nuit, averses fines toute la matinée, boue jusqu''à la cheville et brume qui masque la vue à 30 ou 40 mètres. Au bureau de la Mission française, l''adjudant Lepin et le lieutenant Pizzi lui apprennent qu''il ne quittera pas la Mission. Vers 11 heures, quelques obus tombent sur une prairie à 400 ou 500 mètres de sa chambre ; nuit calme. Mercredi 25 : même temps pluvieux mais doux, terrain du bivouac changé en fondrière ; libre, il lit et écrit dans sa chambrette, vie d''une extrême monotonie.'
+noms:
+  personnes:
+  - forme: Lepin
+    ligne: 9
+    identite: adjudant de la Mission française (Lupin en 023, Lépin en 090)
+  - forme: Pizzi
+    ligne: 9
+    identite: lieutenant (Lt Pizzi, 048–092)
+  lieux: []
+source: contrôle

@@ -1,0 +1,156 @@
+cliche: 153
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Lundi 12 — \hfill Février 1917
+  apres: \sl{Lundi 12 —} \hfill Février \sl{1917}
+  justification: trait sous Lundi 12 — ; trait sous 1917 seul
+  confiance: haute
+- ligne: 2
+  avant: bcp
+  apres: bp
+  justification: b + p liés, aucun c (guide § 8, 1)
+  confiance: haute
+- ligne: 4
+  avant: Visité en détail
+  apres: Visité \inc{entiert}
+  justification: 'après en : haste de t barrée, i-e serrés, t final barré à descente ; aucun d en ∂ ni -ail'
+  confiance: moyenne
+- ligne: 5
+  avant: magnifique minoterie.
+  apres: magnifique minoterie
+  justification: aucun point après minoterie
+  confiance: moyenne
+- ligne: 6
+  avant: Treux & Méricourt. Ribemont.
+  apres: Treux & Mericourt – Ribemont
+  justification: pas d'accent sur le e ; tiret court entre les deux noms ; aucun point final
+  confiance: moyenne
+- ligne: 8
+  avant: '& ces villages où vécu heures bien vides & tristes.'
+  apres: Et ces villages où vecu heures bien vide & triste.
+  justification: E bouclé suivi d'un t ; accent unique appartenant à où ; aucune s finale
+  confiance: moyenne
+- ligne: 9
+  avant: Ciel mort.
+  apres: ciel mort.
+  justification: c minuscule au module de l'oeil
+  confiance: haute
+- ligne: 10
+  avant: une buée grise.
+  apres: \add{une} buée grise.
+  justification: une écrit dans l'interligne
+  confiance: haute
+- ligne: 11
+  avant: vu
+  apres: \inc{v.}
+  justification: un seul tracé suivi d'un point, pas de u
+  confiance: basse
+- ligne: 13
+  avant: sur ciel gris.
+  apres: sur ciel gris
+  justification: le point isolé est le point du i de gris décalé
+  confiance: basse
+- ligne: 14
+  avant: Après-midi, liberté.
+  apres: \ind après-midi, liberté
+  justification: a minuscule ; aucun point final
+  confiance: moyenne
+- ligne: 15
+  avant: 2 h. dans
+  apres: 2h. dans
+  justification: h lié au chiffre, sur la ligne
+  confiance: moyenne
+- ligne: 17
+  avant: Dégel très rapide. Croûtes
+  apres: Degel très rapide. Croute
+  justification: aucun accent visible ; finale e à crochet sans s
+  confiance: moyenne
+- ligne: 20
+  avant: Silence funèbre.
+  apres: Silence funebre
+  justification: pas d'accent ni de point final ; finale en long délié
+  confiance: moyenne
+- ligne: 21
+  avant: '[ 5 vues d''Amiens, cathle, achetées pour moi :'
+  apres: '\equerre{2}5 vues d''Amiens, cathle, achetées pour moi :'
+  justification: trait horizontal sur 5 vues puis haste verticale jusqu'au niveau du montant
+  confiance: haute
+- ligne: 22
+  avant: 2 f. 50 ]
+  apres: \droite 2^{f}50
+  justification: f suscrit en petite boucle entre 2 et 50 ; aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 4
+  lemme: entiert
+  analyse: 'zoom x3 [.82 .15 .99 .215] : e et n nets ; haste haute (t ou l) ; petite panse ; t final haut barré à descente. Ni ∂ de d ni -ail. Lecture par le sens.'
+  alternatives:
+  - en détail
+  - entièt
+- ligne: 11
+  lemme: v.
+  analyse: 'zoom x3 [.58 .44 .72 .50] : panse fermée basse à gauche, haste montant haut vers la droite (aspect d cursif), puis point net. Pas de u. Le sens impose vu ou vis.'
+  alternatives:
+  - vu
+  - d.
+- ligne: 12
+  lemme: leur
+  analyse: 'zoom x3 [.55 .48 .70 .535] : l bouclé, e, u (deux minimes), r terminé par un trait montant ; aucune s plongeante ni crochet final.'
+  alternatives:
+  - leurs
+- ligne: 3
+  lemme: précédent
+  analyse: 'zoom x2 [.08 .11 .45 .16] : p-r-é-c-é-d-e-n-t, t final à longue barre ; aucune s.'
+  alternatives:
+  - précédents
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: La minoterie de Méaulte n'a pas été identifiée ; lectures « entiert » (l. 4) et « v. » (l. 11) restent incertaines après contrôle.
+  alternatives: []
+controle:
+- ligne: 3
+  avant: que jours précédents.
+  apres: que jours précédent.
+  justification: aucune s après le t final barré (zoom x2)
+- ligne: 12
+  avant: leurs ailes
+  apres: leur ailes
+  justification: l-e-u-r, trait final montant, aucune s (zoom x3)
+- ligne: 6
+  avant: 'apparat : Ville, Mericourt (graphie)'
+  apres: notes supprimées
+  justification: identification portée dans noms ; graphie non trompeuse
+- ligne: 19
+  avant: 'apparat : Hérissart (autre, reprise d''encre)'
+  apres: note supprimée
+  justification: reprise sans leçon inférieure, sans intérêt pour le lecteur
+resume: 'Lundi 12 février 1917. Le gel faiblit. Course en auto jusqu''à Méaulte, où Hippolyte Combes visite une minoterie, retour par Ville-sur-Ancre, Treux, Méricourt et Ribemont, région familière où il a vécu des heures tristes. En approchant d''Hérissart, il voit des moulins à vent sur un ciel gris. L''après-midi, libre, il s''installe dans sa chambrette ; dégel rapide ; le village d''Hérissart semble inhabité. Compte : 5 vues d''Amiens, 2 f 50.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Méaulte
+    ligne: 4
+    identite: Méaulte (Somme)
+  - forme: Ville
+    ligne: 6
+    identite: Ville-sur-Ancre (Somme)
+  - forme: Treux
+    ligne: 6
+    identite: Treux (Somme)
+  - forme: Mericourt
+    ligne: 6
+    identite: Méricourt-l'Abbé (Somme)
+  - forme: Ribemont
+    ligne: 6
+    identite: Ribemont-sur-Ancre (Somme)
+  - forme: Hérissart
+    ligne: 11
+    identite: Hérissart (Somme)
+  - forme: Hérissart
+    ligne: 19
+    identite: Hérissart (Somme)
+  - forme: Amiens
+    ligne: 21
+    identite: Amiens (Somme)
+source: contrôle

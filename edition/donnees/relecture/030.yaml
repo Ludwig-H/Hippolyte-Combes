@@ -1,0 +1,127 @@
+cliche: 30
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 28 Lundi. \hfill Août 1916
+  apres: 28 Lundi. \hfill Aout 1916
+  justification: aucun circonflexe sur le u ; la longue barre est celle du t ; ni la date ni le mois ne sont soulignés
+  confiance: haute
+- ligne: 2
+  avant: Aujourd’hui encore, giboulées & éclaircies –
+  apres: \ind Aujd'hui encore, giboulées & eclairci —
+  justification: forme abrégée A-u-j-d + hui sous une longue barre ; « eclairci » sans accent, s'arrête sur l'i, suivi d'un long tiret ; ligne en léger retrait
+  confiance: moyenne
+- ligne: 3
+  avant: comme au mois de mars
+  apres: Cme au mois de mars
+  justification: C + m + long délié ; la haste qui surmonte le m est le j de la ligne 2
+  confiance: haute
+- ligne: 5
+  avant: détrempées
+  apres: detrempées
+  justification: aucun accent sur le premier e
+  confiance: moyenne
+- ligne: 7
+  avant: nécessité
+  apres: necessite
+  justification: aucun accent visible sur les e ; finale -te en délié
+  confiance: moyenne
+- ligne: 12
+  avant: Vie végétative déprimante
+  apres: Vie vegetative deprimante
+  justification: aucun accent tracé
+  confiance: moyenne
+- ligne: 13
+  avant: Dîné tôt.
+  apres: \ind[2] Diné tot.
+  justification: pas de circonflexe ; ligne en retrait marqué
+  confiance: moyenne
+- ligne: 15
+  avant: moissonneuse-lieuse
+  apres: moissonneuses-lieuses
+  justification: les deux mots se terminent par -es (s final remontant)
+  confiance: moyenne
+- ligne: 16
+  avant: 29 Ma
+  apres: 29 \sl{Ma}
+  justification: trait appuyé sous Ma seulement
+  confiance: haute
+- ligne: 17
+  avant: Curtis — A travers
+  apres: Curt^{is} – à travers
+  justification: C-u-r-t puis -is nettement suscrit ; à minuscule avec accent ; tiret court
+  confiance: haute
+- ligne: 23
+  avant: déclare
+  apres: declare
+  justification: aucun accent
+  confiance: moyenne
+- ligne: 24
+  avant: '[illis.] grecque [?] etc. [?]'
+  apres: comme \inc{soeur} neo-\inc{latine} \trait
+  justification: 'la haste traversant le premier mot est le f de Confirmations, celle du troisième le ll de nouvelle ; restent c-o-m-m-e, s-o-e-(ur), n-e-o, trait d''union, l-a-t + long délié ; sens : la Roumanie, sœur latine de la France'
+  confiance: basse
+difficultes:
+- ligne: 8
+  lemme: \inc{green}
+  analyse: 'zoom [.72 .26 1.0 .32] : g à boucle, deux minimes surmontées d''un point ou accent, puis haste haute prolongée en long délié ; aucune double e lisible ; « green » tient au sens et à la tradition antérieure'
+  alternatives:
+  - gr^{d}
+  - gr^{n}
+- ligne: 11
+  lemme: mal
+  analyse: long délié d'attaque, a, jambage, l ; aspect « saul » ; seule lecture compatible avec le sens
+  alternatives: []
+- ligne: 15
+  lemme: lueurs jour
+  analyse: 'petit crochet sous la ligne entre lueurs et jour [.70 .55 1.0 .60] : attaque du j ou virgule ; non transcrit'
+  alternatives:
+  - lueurs, jour
+- ligne: 22
+  lemme: et d'ennui —
+  analyse: écrit à la marge gauche entre les l. 21 et 23, suite de la l. 21 ; tiret d'encre plus pâle
+  alternatives: []
+- ligne: 23
+  lemme: \inc{guerre}
+  analyse: 'zoom [.65 .91 1.0 .975] : après declar(e), haste descendante (g ou p) puis jambage à crochet descendant ; mot écrasé contre le bord droit ; tache grise (maculage) au-dessus'
+  alternatives:
+  - g^{re}
+- ligne: 24
+  lemme: comme soeur neo-latine
+  analyse: 'zooms [.10 .945 .50 1.0] et [.40 .945 .80 1.0] : c-o-m-m-e net ; « soeur » = s-o-c/e-e sans finale distincte ; n-e-o + trait ; le dernier mot, sous la parenthèse de la l. 23, montre deux ou trois jambages (aspect « nr ») prolongés en long délié sous Roumanie ; la parenthèse n''est pas refermée'
+  alternatives:
+  - comme sœur neo-lat.
+  - contre Autr…
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources : JMO 7/Bedf (28-29 août), Banks & Chell 1924 p. 145, Falls 1933 p. 139, journal de Henson du 28 août 1916 (la presse anglaise du soir annonce dès le 28 l''entrée en guerre de la Roumanie). La l. 24 reste peu sûre ; l''hypothèse d''une nouvelle « grecque » (état antérieur) n''est pas soutenue par les traits ; à revoir sur l''original.'
+  alternatives: []
+controle:
+- ligne: 8
+  avant: Matin & soir, dû aller champs pour green
+  apres: Matin & soir, dû aller champs pour \inc{green}
+  justification: les traits ne donnent ni les deux e ni un n net (g, deux minimes accentuées, haste haute + délié) ; lecture conservée pour le sens, marquée incertaine
+- ligne: 23
+  avant: Confirmations nouvelle (Roumanie declare guerre
+  apres: Confirmations nouvelle (Roumanie declare \inc{guerre}
+  justification: la première lecture la donnait elle-même « appuyée sur le sens » ; mot écrasé au bord droit, g^{re} possible
+- ligne: 4
+  avant: 'apparat : très (lecture, tracé réduit aspect « hu »)'
+  apres: note supprimée
+  justification: forme courante de « très » dans le carnet, sans difficulté pour le lecteur
+- ligne: 11
+  avant: 'apparat : —'
+  apres: '+ : abreviation, plus'
+  justification: signe abréviatif à développer
+remarques: Lieu non nommé sur la page (Marquay d'après l'état antérieur). Ligne 24 et fin de la ligne 23 à revoir sur l'original.
+resume: Le 28 août, giboulées et éclaircies comme en mars, routes changées en cloaques ; Hippolyte Combes doit aller matin et soir aux champs pour le fourrage vert. Il se plaint de son logement et d'une vie végétative déprimante, puis regarde le soir des paysans moissonner à la machine. Le 29, il accompagne encore matin et soir le lieutenant Curtis à travers champs, sous la pluie ; violent orage l'après-midi, la cour de la ferme devient une mare. Il note la confirmation de l'entrée en guerre de la Roumanie, « sœur néo-latine ».
+noms:
+  personnes:
+  - forme: Curt^{is}
+    ligne: 17
+    identite: lieutenant Curtis, de la 152nd Company A.S.C.
+  lieux:
+  - forme: Roumanie
+    ligne: 23
+    identite: Roumanie, entrée en guerre le 27 août 1916
+source: contrôle

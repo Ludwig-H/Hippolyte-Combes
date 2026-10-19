@@ -1,0 +1,135 @@
+cliche: 24
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 22 Ma \hfill Aout / 16
+  apres: \sl{22 Ma} \hfill \sl{Aout /16}
+  justification: trait appuyé sous « Ma » ; long trait sous « Aout /16 », distinct de la barre du t de « fait » (l. 2) qu'il croise
+  confiance: haute
+- ligne: 2
+  avant: éclairci
+  apres: eclairci
+  justification: aucun accent sur le premier e
+  confiance: moyenne
+- ligne: 4
+  avant: Steenwerck
+  apres: Steenwerk
+  justification: 'après w : r puis k bouclé, aucun c ; cf. 023 l. 22 Steenwerk'
+  confiance: moyenne
+- ligne: 6
+  avant: Vers 5H ½
+  apres: Vers 5^{H}\fr{1}{2}
+  justification: H suscrit et demi empilé (1 sur 2) au-dessus de la ligne
+  confiance: haute
+- ligne: 10
+  avant: m'a décrit av. lyrisme beautés d'Antibes.
+  apres: m'a decrit avec lyrisme beautés d'Antibes
+  justification: pas d'accent visible sur decrit (d repassé, pâté) ; avec à quatre éléments ; pas de point final, seulement le long délié du s
+  confiance: moyenne
+- ligne: 12
+  avant: commre
+  apres: comm^{re}
+  justification: finale petite et surélevée, précédée d'un point
+  confiance: moyenne
+- ligne: 14
+  avant: 13 kgs; 3f 80;
+  apres: 13 kos ; 3^{f}80 ;
+  justification: k bouclé, o, s sans jambage de g ; f monétaire petit et haut entre 3 et 80
+  confiance: moyenne
+- ligne: 15
+  avant: 50c
+  apres: 50c —
+  justification: tiret long isolé en bout de ligne
+  confiance: haute
+- ligne: 18
+  avant: 'Bain : 1 f 25'
+  apres: 'Bain : 1^{25}'
+  justification: après le 1, un 2 surélevé dont le pied se prolonge en une très longue haste bouclée (5 en ſ) ; pas de f distinct
+  confiance: moyenne
+- ligne: 11
+  avant: (aucun)
+  apres: \filet[c]{0.22}
+  justification: trait oblique fin d'encre brune de x .43 à .65, sous « sunset » et au-dessus de « par 1 comm », séparant récit et comptes
+  confiance: moyenne
+difficultes:
+- ligne: 3
+  lemme: après-midi
+  analyse: a, p, r, e surmonté d'un long accent, s fondu ; entre « après » et « midi » un point bas tient lieu de trait d'union
+  alternatives:
+  - après. midi
+- ligne: 12
+  lemme: comm^{re}
+  analyse: c, o, m, m puis un point et une finale surélevée en forme de z (r + e) ; le point pourrait être celui d'un i (commis)
+  alternatives:
+  - commis
+- ligne: 14
+  lemme: Steenwerck
+  analyse: w, e, r puis k ; le c n'est pas net, conservé d'après la l. 16 où il est visible
+  alternatives:
+  - Steenwerk
+- ligne: 16
+  lemme: Cartes ples
+  analyse: C, a, r, t barré, e ; s fondu dans la liaison vers le p ; p, l, e + délié pour ples, sur la ligne
+  alternatives:
+  - Carte ples
+- ligne: 18
+  lemme: 1^{25}
+  analyse: 1 à trait d'attaque ; 2 surélevé (tête barrée à deux boutons, pied horizontal) prolongé en grande boucle montante puis haste descendant très bas (5 en ſ, ou f monétaire)
+  alternatives:
+  - 1^{f}25
+  - 1 25
+controle:
+- ligne: 0
+  avant: 'lieux : Steenwerck et Bac-Saint-Maur (Nord)'
+  apres: 'lieux : Steenwerck (Nord) et Bac-Saint-Maur (Pas-de-Calais)'
+  justification: Bac-Saint-Maur dépend de Sailly-sur-la-Lys (Pas-de-Calais), comme l'indiquait déjà le champ noms
+- ligne: 13
+  avant: 'noms : Nogent (sans doute Nogent-sur-Marne)'
+  apres: 'noms : Nogent-le-Rotrou (Eure-et-Loir), selon le commentaire historique'
+  justification: correction demandée par le commentateur historique ; non vérifiable sur l'image
+- ligne: 4
+  avant: (aucune note ; « 55 m. » non développé)
+  apres: 'apparat : Steenwerk (lecture, nouvelle par rapport à l''état antérieur) ; 55 m. = minutes'
+  justification: lecture vérifiée au zoom (r puis k bouclé, aucun c entre eux) ; abréviation omise
+- ligne: 13
+  avant: 'apparat disposition : description du crochet'
+  apres: (note supprimée)
+  justification: \crochet{6} suffit ; pied au niveau de « Bain » vérifié ; encre pâle signalée dans critique
+- ligne: 12
+  avant: 'comm^{re} : commissionnaire (lecture « commis » non exclue)'
+  apres: 'comm^{re} : commissionnaire'
+  justification: apparat épuré ; l'alternative reste dans difficultes
+- ligne: 14
+  avant: 3^{f}80 (confiance moyenne)
+  apres: 3^{f}80 (confirmé)
+  justification: zoom ×3 — 3 sur la ligne, petit f monétaire en boucle surélevé, puis 8 et 0 d'encre pâle
+remarques: Steenwerk (l. 4) et Steenwerck (l. 14, 16) coexistent sur la page. Le montant du bain (l. 18) reste à confronter avec d'autres « 1 f 25 ». Remarque du commentateur historique (renvois Shakespear 1921, Ellis [1920], prix des bains) à reprendre dans le commentaire, non dans l'apparat.
+resume: Mardi 22 août 1916. Le ciel nuageux s'éclaircit l'après-midi. Hippolyte Combes va à pied à Steenwerck (55 minutes) ; vers 5 h 30 il retrouve Maurin et tous deux vont au Bac-Saint-Maur boire une bière chez un charcutier, en parlant de la Provence et d'Antibes. Il fait expédier par un commissionnaire d'Erquinghem un sac de linge à Nogent par la gare de Steenwerck (13 kilos, 3 f 80) et note ses menues dépenses (emballage, cartes postales, divers, bain à 1 f 25).
+noms:
+  personnes:
+  - forme: Maurin
+    ligne: 6
+    identite: militaire ou interprète français, camarade d'Hippolyte Combes
+  lieux:
+  - forme: Steenwerk
+    ligne: 4
+    identite: Steenwerck (Nord)
+  - forme: Bac St-Maur
+    ligne: 7
+    identite: Bac-Saint-Maur, hameau de Sailly-sur-la-Lys (Pas-de-Calais)
+  - forme: Provence
+    ligne: 9
+    identite: Provence
+  - forme: Antibes
+    ligne: 10
+    identite: Antibes (Alpes-Maritimes)
+  - forme: Erquinghem
+    ligne: 12
+    identite: Erquinghem-Lys (Nord)
+  - forme: Nogent
+    ligne: 13
+    identite: Nogent-le-Rotrou (Eure-et-Loir), selon le commentaire historique
+  - forme: Steenwerck
+    ligne: 14
+    identite: Steenwerck (Nord)
+source: contrôle

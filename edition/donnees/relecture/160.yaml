@@ -1,0 +1,136 @@
+cliche: 160
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 27 Ma. — \hfill — Février 1917
+  apres: 27 \sl{Ma}. Même temps, très couvert \hfill — \sl{Fevrier 1917}
+  justification: « Même temps, très couvert » est écrit sur la ligne de date ; le trait appuyé ne souligne que « Ma » ; aucun accent sur le e de Fevrier ; trait fin montant sous « Fevrier 1917 » (x ≈ 0,74–0,98, y ≈ 0,055–0,066)
+  confiance: moyenne
+- ligne: 2
+  avant: Tout le jour, ciel nuageux. / Air assez doux.
+  apres: Tout le jour ciel nuageux – Air asz doux
+  justification: « Air asz doux » est sur la même ligne, après un tiret court ; abréviation asz (s + z plongeant) ; aucune virgule après jour ni point après nuageux
+  confiance: haute
+- ligne: 3
+  avant: Capt. W., tooth ache, au lit j'à 1h après-midi.
+  apres: Cap^{t} W., tooth ache, au lit j-à 1^{h} après-midi.
+  justification: finale de Capt surélevée, sans point ; trait d'union court j-à ; h suscrit après le 1
+  confiance: haute
+- ligne: 4
+  avant: D'où journée entière de liberté.
+  apres: D'où journée entière de liberté
+  justification: aucun point final, le mot s'achève en délié
+  confiance: moyenne
+- ligne: 5
+  avant: Après-midi, courte promenade petite route
+  apres: après-midi, courte promenade petite route
+  justification: a initial au module des minuscules, sans pointe
+  confiance: moyenne
+- ligne: 7
+  avant: barbed wire & creusés de tranchées —
+  apres: barbed wire & creusés de tranchées –
+  justification: tiret court détaché après le délié final
+  confiance: haute
+- ligne: 8
+  avant: 28 Merc. — Temps 1 peu froid, mais très
+  apres: \sl{28 Merc.} – Temps 1 peu froid, mais très
+  justification: trait appuyé sous « 28 Merc. » ; tiret court
+  confiance: haute
+- ligne: 10
+  avant: Matinée, liberté.
+  apres: \ind matinée, liberté
+  justification: m initial minuscule, en léger retrait ; pas de point, long délié final
+  confiance: moyenne
+- ligne: 11
+  avant: Après lunch, à Toutencourt, pour trouver
+  apres: après lunch, à Toutencourt., pour trouver
+  justification: a minuscule ; point rond à mi-hauteur après Toutencourt puis virgule
+  confiance: moyenne
+- ligne: 13
+  avant: Après tea, promenade environs.
+  apres: \ind après tea, promenade environs.
+  justification: a minuscule ; ligne en retrait
+  confiance: moyenne
+- ligne: 16
+  avant: hindous, très curieux à regarder. Beaux
+  apres: \inc{hindoues}, très curieux à regarder. Beaux
+  justification: petite boucle d'e entre le u et le s final
+  confiance: basse
+- ligne: 17
+  avant: chevaux, lances, à l'étrier, turbans etc.
+  apres: chevaux. lances, à letrier. turbans etc.
+  justification: points ronds sur la ligne après chevaux et letrier ; l bouclé lié directement à l'e, sans apostrophe ; aucun accent distinct
+  confiance: moyenne
+- ligne: 18
+  avant: '— Mess, pour février (depuis le 8) : 33 f. —'
+  apres: '— Mess, pour fevrier (depuis le 8) : 33^{f} –'
+  justification: f monétaire suscrit en petit crochet après 33, tiret court bas ; aucun accent sur fevrier
+  confiance: haute
+difficultes:
+- ligne: 16
+  lemme: hindoues
+  analyse: h bouclé, i pointé, n, d en ∂, o fermé, u, petite boucle d'e, s final montant (zoom ×3 [0 .725 .24 .785]) ; la boucle peut n'être qu'une liaison u-s
+  alternatives:
+  - hindous
+- ligne: 1
+  lemme: Fevrier 1917
+  analyse: trait fin et montant de x ≈ 0,74 à 0,98, y ≈ 0,055–0,066, sous le mois et le millésime, au-dessus de « asz doux » sans toucher la l. 2 ; lu comme soulignement du mois (usage des en-têtes), plus léger que celui de « Ma »
+  alternatives:
+  - — Fevrier 1917 (trait parasite)
+- ligne: 3
+  lemme: Cap^{t}
+  analyse: après Ca, p à haste haute, puis une haste montante terminée en crochet à droite au niveau de tête (aspect ʳ) ; t suscrit probable, n suscrit (Capt^{n}) non exclu ; le développement ne change pas
+  alternatives:
+  - Capt^{n}
+- ligne: 17
+  lemme: letrier
+  analyse: le petit a au-dessus du mot appartient à « à regarder » (l. 16) ; l bouclé lié directement à l'e, aucune apostrophe ; accent non discernable sous la barre de t
+  alternatives:
+  - l'étrier
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources : OH 1916-I p. 262 n. 1 (tranchées d''exercice, hypothèse), OH 1917-I p. 64 (Cavalry Corps près de la côte), LLT (4th et 5th Cavalry Divisions, anciennes divisions indiennes) ; passage des régiments indiens le 28 février non daté par les sources, attribution probable ; mess de 33 F = environ 1,57 F par jour pour 21 jours.'
+  alternatives: []
+controle:
+- ligne: 1
+  avant: — Fevrier 1917
+  apres: — \sl{Fevrier 1917}
+  justification: trait fin montant sous le mois et le millésime (x ≈ 0,74–0,98), conforme à l'usage des en-têtes ; il ne touche pas la l. 2
+- ligne: 2
+  avant: Tout le jour  ciel nuageux
+  apres: Tout le jour ciel nuageux
+  justification: double espace sans valeur diplomatique
+- ligne: 17
+  avant: à l'étrier.
+  apres: à letrier.
+  justification: zooms ×3 et ×5 — l bouclé lié directement à l'e, aucune apostrophe ; accent non visible ; ne pas normaliser
+- ligne: 3
+  avant: 'note j-à : jusqu''à ; l''accent de à est posé à droite, en tiret'
+  apres: 'note j-à : jusqu''à'
+  justification: épuration de l'apparat (détail paléographique)
+- ligne: 17
+  avant: (pas de note)
+  apres: 'etc. : et cetera'
+  justification: abréviation non annotée
+- ligne: 16
+  avant: note longue h-i-n-d-o-u…
+  apres: note brève, lecture retenue et autre lecture
+  justification: épuration de l'apparat ; analyse reportée dans difficultes
+remarques: Cavalerie indienne non identifiée par l'auteur.
+resume: 'Mardi 27 février 1917, temps couvert et doux : le capitaine Williams, souffrant des dents, garde le lit jusqu''à une heure, d''où une journée de liberté ; promenade sur la petite route de Toutencourt, entre champs de barbelés et de tranchées. Mercredi 28, temps frais mais beau, « commencement du printemps » ; l''après-midi, recherche de fourrage et de paille à Toutencourt. Le matin, plusieurs régiments de cavalerie indienne ont traversé Hérissart (chevaux, lances, turbans). Mess de février depuis le 8 : 33 francs.'
+noms:
+  personnes:
+  - forme: Cap^{t} W.
+    ligne: 3
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  lieux:
+  - forme: Toutencourt
+    ligne: 6
+    identite: Toutencourt (Somme)
+  - forme: Toutencourt
+    ligne: 11
+    identite: Toutencourt (Somme)
+  - forme: Hérissart
+    ligne: 15
+    identite: Hérissart (Somme)
+source: contrôle

@@ -1,0 +1,130 @@
+cliche: 56
+fichier: 20251126_103227.jpg
+date: Vendredi 29 septembre 1916
+mois: Septembre 1916
+lieux: Toulouse et Blagnac (Haute-Garonne)
+titre: Visite à Mme de Labarthe ; Purpan et Blagnac avec Marguerite ; sautoir en or chez Pfister
+transcription: |
+  29 \sl{Ve.} \hfill \sl{Sept /16}
+  \ind Tout le jour, ciel nuageux.
+  Fin après-midi, courte averse \trait
+  Matin, venu voir Mme de Labarthe : gde amie
+  affectueuse & attachée.
+  Marché déjeuné Restaurant du Chge – et retrouvé M^{te}
+  Affection réciproque de + en + profonde. Intimité
+  tjs + g^{de} –
+  Après-\inc{repas}, course en tram. Esquirol – Purpan
+  Longue halte aux Ruines. Assis côte à côte
+  sur reste de pilier, doux epanchts & baisers intimes
+  av ma Femme –
+  Continué à pied j-à Blagnac. Reposé ds
+  la chapelle du monastère.
+  allé ensuite prairie au bord de la Garonne
+  Assis sur l'herbe haute, en face petite grève
+  Venus à pied j-aux Ponts Jumeaux, d'où pris
+  tram j-à \inc{rue} Alsace. —
+  \blanc{3}
+  — Trams : 20c, 40c, 60c, 40, 40c —
+  Chz Pfister, sautoir en or — ; 300^{f} net 295^{f}
+  Remboursé à mes \inc{nièces} (oeufs, beurre etc.) : 2 \inc{75}
+  Fruits : 25c + 55c. — Fleurs : 25c
+apparat:
+- ligne: 1
+  lemme: Ve.
+  type: abreviation
+  note: vendredi
+- ligne: 1
+  lemme: Sept /16
+  type: abreviation
+  note: septembre 1916
+- ligne: 4
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 4
+  lemme: gde
+  type: abreviation
+  note: grande
+- ligne: 6
+  lemme: Chge
+  type: abreviation
+  note: Change (Restaurant du Change)
+- ligne: 6
+  lemme: M^{te}
+  type: abreviation
+  note: Marguerite
+- ligne: 8
+  lemme: tjs
+  type: abreviation
+  note: toujours
+- ligne: 8
+  lemme: g^{de}
+  type: abreviation
+  note: grande
+- ligne: 9
+  lemme: Après-\inc{repas}
+  type: lecture
+  note: « rep » lisible, fin du mot sous un pâté ; antérieurement « Après-midi »
+- ligne: 11
+  lemme: epanchts
+  type: abreviation
+  note: épanchements
+- ligne: 12
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 13
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 13
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 17
+  lemme: j-aux
+  type: abreviation
+  note: jusqu'aux
+- ligne: 18
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 18
+  lemme: \inc{rue} Alsace
+  type: lecture
+  note: 'rue (d''Alsace-Lorraine) : jambages sans hampe ; antérieurement « pl. »'
+- ligne: 19
+  lemme: 20c
+  type: abreviation
+  note: 20 centimes (de même 40c, 60c)
+- ligne: 20
+  lemme: Chz
+  type: abreviation
+  note: chez
+- ligne: 20
+  lemme: 300^{f}
+  type: abreviation
+  note: 300 francs (de même 295^{f})
+- ligne: 21
+  lemme: \inc{nièces}
+  type: lecture
+  note: 'lecture conjecturale, le mot a l''aspect « manes » ; autres possibilités : amies, mamies'
+- ligne: 21
+  lemme: 2 \inc{75}
+  type: lecture
+  note: 2 f 75 (francs) probable ; le f monétaire n'est pas distinct ; antérieurement « 2 f 75 »
+- ligne: 22
+  lemme: 25c + 55c
+  type: lecture
+  note: '25 c, non « 2 f » : 5 en boucle haute suivi de c ; de même « Fleurs : 25c »'
+critique: Encre violette ; un second pâté touche « Assis » et « côte » (l.~10). Le récit s'arrête après « Alsace », trois lignes environ au-dessus des comptes.
+historique: |
+  Mme de Labarthe est très probablement la mère de l'ami que nomme la lettre du 16 juin 1916, « le docteur de L--, dont la mère m'est tant dévouée ». Combes appelle déjà Marguerite « ma Femme ». La ligne Esquirol -- Purpan -- Blagnac (7,4~km ; Wikipédia) dessert les « Ruines », l'amphithéâtre gallo-romain de Purpan-Ancely, du I\textsuperscript{er} siècle, seul édifice antique de Toulouse conservé dans son ensemble (Office de tourisme de Toulouse). La « chapelle du monastère » de Blagnac est vraisemblablement celle des cisterciennes établies en 1852 sur le domaine de Maniban (Daraux 2002). Des Ponts-Jumeaux, la ligne de l'allée Lafayette (Baedeker 1912, p.~298) ramène vers la rue d'Alsace-Lorraine. Pfister était horloger-bijoutier au 24, place des Carmes, angle de la rue de Languedoc (\textit{L'Express du Midi}, 25 déc. 1911, p.~3) ; le sautoir, sans doute pour Marguerite, coûte près de quatre quinzaines de solde (voir f.~23 v\textsuperscript{o}). La lecture « nièces » reste douteuse : la tradition familiale ne connaît pas de nièce à Combes (PC-Bio).
+sources:
+- Combes, H., lettre « Au front, vendredi 16 juin 1916 », 4 p. (archives familiales, lettres de guerre).
+- Office de tourisme de Toulouse, « Amphithéâtre romain de Purpan et thermes d'Ancely », toulouse-tourisme.com, consulté le 18 oct. 2026.
+- Wikipédia, art. « Ancien tramway de Toulouse », consulté en oct. 2026.
+- Daraux, J.-P., « L'œuvre de Louis Mazetier (1888-1952) au monastère de Blagnac », L'Auta, janvier 2002 (Rosalis, ark:/12148/bpt6k9610682g).
+- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, p. 298.
+- L'Express du Midi (Toulouse), 25 déc. 1911, p. 3 (publicité Pfister) (Rosalis, ark:/12148/bpt6k5383179k).
+- Combes, Pierre, « Mon grand-père Hippolyte Combes (et ses sœurs) », biographie familiale dactylographiée, s. d.

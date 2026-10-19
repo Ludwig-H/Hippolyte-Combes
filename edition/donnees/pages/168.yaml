@@ -1,0 +1,101 @@
+cliche: 168
+fichier: 20251126_111309.jpg
+date: Mardi 13 – jeudi 15 mars 1917
+mois: Mars 1917
+lieux: Hérissart, Mesnil-Martinsart, Puchevillers, Acheux-en-Amiénois et Bertrancourt (Somme)
+titre: 'Seul à Hérissart : visite aux instituteurs Flutre ; office et mess au billet 216 ; boue'
+transcription: |
+  \sl{Mardi 13 –} \hfill \sl{Mars 1917 –}
+  \ind Température douce. Tout le
+  jour, ciel nuageux. Soleil brille
+  très peu. Routes, horriblement boueuses. On patauge
+  en pleine fange —
+  \ind Mon l^{t}, dû se rendre à Martinsart. Resté seul à
+  Herissart. Liberté entière. –
+  \ind Après tea, visite à M. & Mme Flutre, instituteurs,
+  au Mesnil. \inc{Avait} le fils, eleve de Norm^{le} Sup^{re}
+  \sl{Mercredi 14.} —
+  \ind[2] Matinée, pluie fine persistante.
+  Rues & routes detrempées, boue epaisse.
+  Deménagé office et mess au billet 216,
+  rue , tout en face de ma maison
+  où j'ai ma chambre Ns sommes 1000 fois
+  mieux dans notre nouvelle installation.
+  \ind Après-midi, course à Puchevillers ; allé
+  de ferme en ferme, à propos de paille.
+  \ind Fin jour, soleil brille un peu et dissipe
+  nuages \trait
+  – \sl{Jeudi 15}. – Froid piquant matin & fin journée
+  \fr{1}{2} jour, soleil brille 1 peu, mais vent glacial.
+  \ind Matin & après-midi, courses à Acheux,
+  & \inc{Bertrancourt} etc. etc. A acheux Wood,
+  pataugé boue epaisse.
+apparat:
+- ligne: 6
+  lemme: l^{t}
+  type: abreviation
+  note: lieutenant
+- ligne: 8
+  lemme: tea
+  type: emprunt
+  note: thé
+- ligne: 8
+  lemme: M. & Mme
+  type: abreviation
+  note: Monsieur et Madame
+- ligne: 9
+  lemme: \inc{Avait}
+  type: lecture
+  note: 'lecture retenue : A initial, minimes, t barré ; Ayant possible ; l''état antérieur lisait « Ont »'
+- ligne: 9
+  lemme: Norm^{le} Sup^{re}
+  type: abreviation
+  note: (École) normale supérieure
+- ligne: 13
+  lemme: office
+  type: emprunt
+  note: bureau
+- ligne: 13
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 13
+  lemme: billet
+  type: emprunt
+  note: (angl.) cantonnement, logement militaire
+- ligne: 14
+  lemme: rue
+  type: disposition
+  note: blanc laissé pour le nom de la rue, jamais rempli
+- ligne: 15
+  lemme: Ns
+  type: abreviation
+  note: Nous
+- ligne: 22
+  lemme: \fr{1}{2} jour
+  type: abreviation
+  note: 'demi-jour : le milieu du jour'
+- ligne: 22
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 24
+  lemme: \inc{Bertrancourt}
+  type: lecture
+  note: 'lecture retenue : B, e, minimes écrasés, -court ; Beaucourt possible'
+- ligne: 24
+  lemme: etc. etc.
+  type: abreviation
+  note: et cetera
+- ligne: 24
+  lemme: acheux Wood
+  type: emprunt
+  note: bois d'Acheux
+critique: Encre violette ; « detrempées » (l.~12) et « boue epaisse » (dernière ligne) sont d'une encre plus pâle. Un blanc a été ménagé pour le nom de la rue du billet 216, jamais rempli.
+historique: |
+  Martinsart, où se rend le lieutenant (sans doute l'officier australien arrivé le 6 mars : voir f.~81~v\textsuperscript{o}), est un hameau de Mesnil-Martinsart, à 4~km au nord d'Albert, proche du front jusqu'en septembre 1916 (CWGC ; voir f.~75~r\textsuperscript{o}). Les Flutre étaient instituteurs au Mesnil ; resté sans voiture, Combes les voit peut-être à Hérissart ou alentour, où ils se seraient réfugiés. Leur fils est très probablement Louis-Fernand Flutre, né au Mesnil le 21 juin 1892, ancien élève de l'École normale supérieure, agrégé, professeur à la Faculté des lettres de Lyon, qui publiera en 1955 \textit{Le Parler picard de Mesnil-Martinsart} et un essai d'histoire locale sur le village (Wikidata Q559663 ; BnF) ; son année d'entrée à l'École n'a pu être vérifiée. Le \textit{billet}~216 est un logement numéroté du cantonnement, sur la liste du \textit{Town Major} (Fernand-Laurent 1917, p.~227) ; Combes loge depuis le 11 au billet~220 (voir f.~83~r\textsuperscript{o}). Après la mi-mars, gel, dégel et trafic ont « presque ruiné » les routes (OH 1917-I, p.~151).
+sources:
+- Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).
+- Wikidata, Q559663 (Louis-Fernand Flutre) ; BnF, notice de Flutre, L.-F., Le Parler picard de Mesnil-Martinsart (Somme), Genève, Droz / Lille, Giard, 1955.
+- Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 227.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 151.

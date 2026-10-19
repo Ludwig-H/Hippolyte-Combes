@@ -1,0 +1,105 @@
+cliche: 75
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Lundi 16 — | Sur pied à 5h 1/2 — Très bonne nuit. Oct /16
+  apres: Lundi 16 – | Sur pied à 5^{H} \fr{1}{2} – Très bonne nuit. \hfill \sl{oct/16}
+  justification: H suscrit des heures ; fraction empilée ; o initial au module du c ; trait appuyé sous oct/16 (y≈.13), qui ne peut appartenir à admirable (aucun t)
+  confiance: moyenne
+- ligne: 2
+  avant: De ma fenêtre, pu contempler pleine lune — admirable —
+  apres: De ma fenetre, pu contempler pleine lune – admirable !
+  justification: aucun circonflexe sur le e ; après admirable, haste oblique terminée par un point détaché (!)
+  confiance: haute
+- ligne: 4
+  avant: Quitté Beauval à 7h 30 m.
+  apres: \ind Quitté Beauval à 7^{H}30 m.
+  justification: H suscrit nettement au-dessus de la ligne ; ligne en retrait
+  confiance: haute
+- ligne: 5
+  avant: à côté du
+  apres: a coté du
+  justification: aucun accent sur a ni circonflexe sur o ; trait d'accent après la finale de cote
+  confiance: moyenne
+- ligne: 8
+  avant: environnante
+  apres: environnant
+  justification: le mot finit par un t barré dans un pâté ; pas de e
+  confiance: moyenne
+- ligne: 10
+  avant: Matinée, air glacial, vent pénétrant
+  apres: matinée, air glacial, vent penetrant
+  justification: initiale minuscule ; aucun accent sur penetrant
+  confiance: haute
+- ligne: 12
+  avant: infantry battalions
+  apres: infantry battalions !
+  justification: haste verticale à point inférieur en bord droit entre l. 11 et 12, de même forme que le ! de la l. 2
+  confiance: basse
+- ligne: 13
+  avant: Vers 6h s., enfin atteint Warloy-Baillon. Village
+  apres: \ind Vers 6^{H} s. enfin atteint Warloy. Baillon. Village
+  justification: H suscrit ; pas de virgule après s. (tache brune non encrée) ; point, non trait d'union, entre Warloy et Baillon
+  confiance: haute
+- ligne: 14
+  avant: vraie fourmilière de tommies.
+  apres: vraie fourmilière de tommies. – .
+  justification: après le point, un tiret court puis un second point
+  confiance: haute
+difficultes:
+- ligne: 5
+  lemme: partie
+  analyse: p à haste longue, a ouvert, r, t, puis e bouclé sous une barre de t ; i fondu dans la liaison t-e ; pas de s final
+  alternatives:
+  - parti
+  - parte
+- ligne: 11
+  lemme: route
+  analyse: r-o-u-t-e traversé par une longue descente oblique (virgule ou jambage de la l. 10) ; barre du t couchée à droite ; trait fin et pâle ensuite, peut-être une virgule, non transcrit
+  alternatives:
+  - route,
+  - routes
+- ligne: 12
+  lemme: battalions !
+  analyse: b-a-tt-a-l-i-o-n-s très encré, peut-être repassé, la barre du t d'infantry le traverse ; un tracé arrondi (fin de marche, l. 11) puis un ! en bord de page entre les deux lignes
+  alternatives:
+  - battalions
+  - en marche !
+controle:
+- ligne: 1
+  avant: \sl{Oct^{bre}/16}
+  apres: \sl{oct/16}
+  justification: le prétendu suscrit est la barre du t, qui se prolonge en crochet et enchaîne la barre oblique de /16 ; o initial de même module que le c (minuscule)
+- ligne: 1
+  avant: 'apparat : ''|'' signe'
+  apres: note supprimée
+  justification: le trait vertical est rendu par la transcription ; note inutile au lecteur
+- ligne: 13
+  avant: 'apparat : Warloy. Baillon. signe'
+  apres: note supprimée
+  justification: graphie non trompeuse ; la forme du nom est donnée dans l'index des lieux
+- ligne: 0
+  avant: critique avec pâté de la l. 8
+  apres: critique sur l'encre et la phase de la lune
+  justification: le pâté est déjà signalé à la l. 8 ; la remarque du commentateur sur la lune est utile au lecteur
+remarques: 'Commentateur historique : JMO 7/Bedf (16 oct.), OH 1916-I p. 274, 282, 304, OH 1916-II p. 463 ; pleine lune le 11 octobre 1916, « ½ lune » notée le 17 (cliché suivant).'
+resume: Lever à 5 h 30 après une bonne nuit ; de sa fenêtre, Hippolyte Combes a contemplé la lune. Départ de Beauval à 7 h 30 avec la colonne et le convoi, depuis la colline près du cimetière, par Beauquesne et le plateau ; halte au-delà de Puchevillers par un air glacial. La route est encombrée d'unités en marche (convois de l'A.S.C., R.F.A., infanterie). Arrivée vers 18 h à Warloy-Baillon, village plein de soldats britanniques ; campement sous tentes dans un champ en contrebas de la route de Senlis ; visite à la brasserie et retrouvailles avec des amis.
+noms:
+  personnes: []
+  lieux:
+  - forme: Beauval
+    ligne: 4
+    identite: Beauval (Somme)
+  - forme: Beauquesne
+    ligne: 7
+    identite: Beauquesne (Somme)
+  - forme: Puchevillers
+    ligne: 9
+    identite: Puchevillers (Somme)
+  - forme: Warloy. Baillon
+    ligne: 13
+    identite: Warloy-Baillon (Somme)
+  - forme: Senlis
+    ligne: 16
+    identite: Senlis-le-Sec (Somme)
+source: contrôle

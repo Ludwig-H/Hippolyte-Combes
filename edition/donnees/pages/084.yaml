@@ -1,0 +1,73 @@
+cliche: 84
+fichier: 20251126_104400.jpg
+date: Lundi 23 octobre 1916
+mois: Octobre 1916
+lieux: Albert et La Boisselle (Ovillers-la-Boisselle, Somme)
+titre: 'En camion à La Boisselle : bivouacs, abris allemands, cratère de Lochnagar'
+transcription: |
+  \sl{Lundi 23} Levé très tard. \hfill \sl{oct. /16}
+  Tout le jour, temps brumeux, mais moins
+  froid.
+  Après-midi, avec 2 de mes offs., venu
+  s/ 1 lorry à La Boisselle. Environs d'Albert
+  et jusq à l'horizon, troupes au bivouac
+  Tentes innombrables et dépôts de ttes sortes
+  Visité longuement german dug-out. Ces
+  abris souterrains, très habilement aménagés
+  Immense cratère s/ la droite
+  Impression funèbre et désolation – –
+  \blanc{8}
+  — Cartes ples d'Albert : 70c.
+apparat:
+- ligne: 1
+  lemme: oct. /16
+  type: abreviation
+  note: octobre 1916
+- ligne: 4
+  lemme: offs.
+  type: abreviation
+  note: officiers
+- ligne: 5
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 5
+  lemme: 1 lorry
+  type: emprunt
+  note: un camion
+- ligne: 6
+  lemme: jusq
+  type: abreviation
+  note: jusqu'
+- ligne: 7
+  lemme: ttes
+  type: abreviation
+  note: toutes
+- ligne: 8
+  lemme: german dug-out
+  type: emprunt
+  note: abri souterrain allemand
+- ligne: 8
+  lemme: dug-out
+  type: lecture
+  note: dug-out, sans s final visible ; lu antérieurement « dug-outs »
+- ligne: 10
+  lemme: Immense
+  type: lecture
+  note: Immense ; lu antérieurement « Énorme »
+- ligne: 10
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 12
+  lemme: ples
+  type: abreviation
+  note: postales
+critique: Le compte de dépenses est isolé au bas de la page, après un blanc d'environ huit lignes ; il est à la même encre violette que le texte.
+historique: |
+  La Boisselle, hameau d'Ovillers-la-Boisselle (Somme), est à 3,5~km au nord-est d'Albert, sur la route de Bapaume. Le front y était fixé depuis octobre 1914 et la guerre des mines y faisait rage (Michelin 1919, p.~36--37). Le 1er juillet 1916, la 34th Division l'attaque sans le prendre. La 19th (Western) Division nettoie le village le 4 juillet (CWGC, Gordon Dump Cemetery). Les \textit{dug-outs} visités sont les abris profonds de l'ancienne première ligne allemande. L'« immense cratère s/ la droite » est celui de la mine de Lochnagar : 60~000 livres d'ammonal, mises à feu le 1er juillet à 7~h~28. Elles laissent un cratère de 90 yards de diamètre et de 70 pieds de profondeur (OH 1916-I, p.~375, 380). Le guide Michelin note de même que « le plus grand cratère est sur la droite » de la route (Michelin 1919, p.~36--37). Le cratère est classé monument historique (Mérimée PA80000004). À Albert, les cartes postales coûtent 10~c pièce (f.~50~r\textsuperscript{o}) : la dépense de 70~c correspond sans doute à sept cartes.
+sources:
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 375, 380.
+- Michelin, The Somme, vol. 1, The First Battle of the Somme (1916-1917), Clermont-Ferrand, Michelin, 1919, p. 36-37.
+- Commonwealth War Graves Commission, Gordon Dump Cemetery, Ovillers-La Boisselle, notice historique (cwgc.org).
+- Ministère de la Culture, base Mérimée, notice PA80000004 (trou de mine de La Boisselle).

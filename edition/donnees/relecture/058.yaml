@@ -1,0 +1,151 @@
+cliche: 58
+confiance: moyenne
+changements:
+- ligne: 2
+  avant: St-Etienne
+  apres: St. Etienne
+  justification: aucun trait d'union ; un court trait à mi-hauteur après le t, rendu par un point abréviatif
+  confiance: moyenne
+- ligne: 3
+  avant: '[curé ?]'
+  apres: \inc{curé}
+  justification: balisage de l'incertitude conforme ; tracé c-u-r-é avec accent décalé
+  confiance: moyenne
+- ligne: 3
+  avant: 8 H
+  apres: 8^{H}
+  justification: petit H nettement au-dessus de la ligne de base du 8
+  confiance: haute
+- ligne: 3
+  avant: Mte
+  apres: M^{te}
+  justification: te placé haut contre le M
+  confiance: moyenne
+- ligne: 4
+  avant: livres
+  apres: choses
+  justification: 'c, h bouclé, o, s, e, s final : aucune hampe de l ni v'
+  confiance: haute
+- ligne: 6
+  avant: Monté
+  apres: monté
+  justification: initiale au module d'une minuscule, sans délié d'attaque haut du M de Matin
+  confiance: moyenne
+- ligne: 6
+  avant: Ste
+  apres: S^{te}
+  justification: te écrit en haut du S, au-dessus de la ligne de base de Marie
+  confiance: moyenne
+- ligne: 6
+  avant: tr
+  apres: trè
+  justification: t (aspect h), r, puis e surmonté d'un accent grave net
+  confiance: haute
+- ligne: 10
+  avant: avec
+  apres: av
+  justification: a + deux minimes + long délié, même forme que l. 13 (exemple du guide, piège 4)
+  confiance: moyenne
+- ligne: 10
+  avant: Mte
+  apres: M^{te}
+  justification: te nettement surélevé, point après
+  confiance: haute
+- ligne: 13
+  avant: 7 H 30
+  apres: 9^{H} 30
+  justification: 'boucle fermée en tête rattachée à une haste droite descendante, sans barre médiane : 9 ; H suscrit'
+  confiance: haute
+- ligne: 13
+  avant: av.
+  apres: av
+  justification: aucun point après le v
+  confiance: haute
+- ligne: 14
+  avant: 20 c. 40 c, 80, 30 c
+  apres: 20c. 40c, 80, 80c
+  justification: le dernier montant a la même boucle double que le 80 précédent ; c accolé aux chiffres
+  confiance: moyenne
+- ligne: 15
+  avant: 20 c
+  apres: 20c
+  justification: c accolé
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: curé
+  analyse: 'après messe : petit c, u à deux jambages, un jambage (r ?), e final surmonté d''un accent posé haut ; aucune hampe (exclut lue, dite) ; sens peu clair (messe du curé ?); zoom ×3 : petit c, deux minimes, une minime, e sous accent ; aucune hampe ; reste douteux'
+  alternatives:
+  - cuné
+  - \ill
+- ligne: 7
+  lemme: venu
+  analyse: v, e, quatre minimes (n, u) et délié final montant ; pourrait cacher un s réduit (venus, avec M^{te})
+  alternatives:
+  - venus
+- ligne: 8
+  lemme: De
+  analyse: initiale en ∂ serrée, e peu distinct
+  alternatives:
+  - D'
+- ligne: 10
+  lemme: Tjs
+  analyse: T à barre crochue, j à longue descente, petit trait final (s réduit) ; le point est celui du j, décalé à droite
+  alternatives:
+  - Tji
+- ligne: 1
+  lemme: D.
+  analyse: point abréviatif réduit à un court trait à mi-hauteur
+  alternatives:
+  - D –
+- ligne: 13
+  lemme: Redescendus
+  analyse: après le d (∂), une arche puis un long délié terminé par un petit crochet ; s final non distinct, le délié peut le valoir ; pluriel cohérent avec « av Jean »
+  alternatives:
+  - Redescendu
+- ligne: 14
+  lemme: 40c
+  analyse: 'petite boucle basse à gauche et haste montante pointue, sans tête ronde ni pied : 4 fermé (aspect d), non 2 bouclé comme le premier montant'
+  alternatives:
+  - 20c
+controle:
+- ligne: 10
+  avant: (apparat) & et M^{te} non annotés
+  apres: entrées abréviation & = et, M^{te} = Marguerite
+  justification: 'règle : chaque abréviation annotée'
+- ligne: 11
+  avant: (apparat) & non annoté
+  apres: entrée abréviation & = et
+  justification: 'règle : chaque abréviation annotée'
+- ligne: 14
+  avant: (apparat) centimes non annotés
+  apres: entrées 20c. (l. 14) et 20c (l. 15)
+  justification: abréviation c = centimes ; montants vérifiés au zoom ×4 (20, 40, 80, 80)
+- ligne: 0
+  avant: notes d'apparat longues (curé, choses, 9^{H} 30, 80c, trè)
+  apres: notes réduites à la lecture retenue et à l'autre lecture
+  justification: épuration de l'apparat imprimé ; justifications paléographiques laissées dans changements/difficultes
+remarques: 'Petit trait isolé au bord droit vers y = 0,515 (tache ou amorce), sans valeur textuelle. Le soulignement de l''en-tête de droite court sous Octobre et le début de /16. Contrôle p2 : 9^{H} (boucle fermée + haste, H suscrit), et (l. 7), 40c, M^{te} surélevé, Tjs (s réduit à un trait) confirmés au zoom ; l''identification de Jean à l''abbé Crouzet reste une hypothèse du commentateur.'
+resume: 'Dimanche 1er octobre 1916 à Toulouse : messe à la cathédrale Saint-Étienne à l''autel paroissial, Marguerite à ses côtés. Matinée à ranger ses affaires dans son appartement, puis déjeuner à Sainte-Marie. L''après-midi, tram jusqu''à Lardenne puis marche jusqu''au pont du Touch ; longue causerie avec Marguerite assis dans l''herbe au bord de la rivière. Au retour il trouve Jean à la maison et redescend avec lui en tram à 9 h 30. Dépenses de tram et de confiseries.'
+noms:
+  personnes:
+  - forme: M^{te}
+    ligne: 3
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Jean
+    ligne: 12
+    identite: Jean, proche d'Hippolyte Combes (peut-être l'abbé Jean Crouzet, vicaire à la cathédrale)
+  lieux:
+  - forme: St. Etienne
+    ligne: 2
+    identite: cathédrale Saint-Étienne, Toulouse
+  - forme: S^{te} Marie
+    ligne: 6
+    identite: Sainte-Marie-des-Champs, Toulouse
+  - forme: Lardenne
+    ligne: 7
+    identite: Lardenne, quartier ouest de Toulouse
+  - forme: pont du Touch
+    ligne: 8
+    identite: pont sur le Touch, Toulouse
+source: contrôle

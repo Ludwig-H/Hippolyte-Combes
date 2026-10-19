@@ -1,0 +1,144 @@
+cliche: 165
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 10 Samedi — \hfill Mars 17 —
+  apres: \sl{10 Samedi} — \hfill — \sl{Mars 17} —
+  justification: trait sous « 10 Samedi » et sous « Mars 17 » ; tiret court à gauche de Mars, un peu sous la ligne de tête
+  confiance: haute
+- ligne: 3
+  avant: paquets, sanglé valise.
+  apres: paquets, sanglé, valise.
+  justification: trait vertical (virgule) entre sanglé et valise ; point net après valise
+  confiance: moyenne
+- ligne: 4
+  avant: Étrange sensation de mélancolie,
+  apres: Etrange sensation de melancolie,
+  justification: aucun accent visible sur E initial ni sur le e de mel-
+  confiance: moyenne
+- ligne: 6
+  avant: affluent de ces derniers
+  apres: affluent de ce 6 derniers
+  justification: haste incurvée descendant à gauche, refermée par une boucle basse, isolée entre ce et derniers (x ≈ .78–.82, y ≈ .17–.20)
+  confiance: moyenne
+- ligne: 7
+  avant: lendemain, & situation précaire.
+  apres: lendemain. & situation precaire
+  justification: point rond après lendemain ; aucun accent ni point final sur precaire
+  confiance: moyenne
+- ligne: 8
+  avant: Cap. nouvl, Williams, partis défintt vers
+  apres: Cap. \inc{monté}, William, partis definit^{t} vers
+  justification: deuxième mot sans l bouclé, t barré ; William sans s ; t final de definit surélevé
+  confiance: basse
+- ligne: 9
+  avant: 10h matin
+  apres: 10^{H} matin
+  justification: petit H au-dessus de la ligne de base
+  confiance: haute
+- ligne: 12
+  avant: chambre. Fraternisé
+  apres: chambre – Fraternisé
+  justification: petit tiret horizontal à mi-hauteur, non un point
+  confiance: moyenne
+- ligne: 14
+  avant: Ciel nuageux. Temps
+  apres: ciel nuageux – Temps
+  justification: c initial au module des minuscules ; tiret court après nuageux
+  confiance: moyenne
+- ligne: 15
+  avant: Fin journée, très calme.
+  apres: Fin journée, très calme
+  justification: aucun point, finale en long délié
+  confiance: moyenne
+- ligne: 16
+  avant: Reposé, écrit, lu, dans l'office.
+  apres: Reposé, ecrit, lu, dans l'office
+  justification: aucun accent sur le e initial de ecrit ; pas de point final
+  confiance: moyenne
+- ligne: 17
+  avant: Temps maussade, bruine & boue.
+  apres: Temps mauvais, bruine & boue
+  justification: m-a-u-v-a-i + s final vertical, aucune double hampe ni d bouclé
+  confiance: haute
+- ligne: 18
+  avant: Matinée, tt pénétré mélancolie.
+  apres: matinée, tt penché melancolie
+  justification: m initial minuscule ; p, e, n, c, h bouclé, é à accent rejeté (zoom .18 .56 .62 .64 ×3) ; aucun accent sur mel-
+  confiance: moyenne
+- ligne: 19
+  avant: Mais ce soir, pris mon parti, et résigné
+  apres: Mais ce soir, pris \add{mon} parti – et résigné
+  justification: « mon » écrit petit au-dessus de la ligne ; tiret court après parti
+  confiance: haute
+- ligne: 20
+  avant: à mon nouveau sort.
+  apres: à mon nouveau sort
+  justification: pas de point, barre du t prolongée
+  confiance: moyenne
+difficultes:
+- ligne: 4
+  lemme: sensation
+  analyse: finale -tion réduite à t-i puis boucle descendante (même forme dans affectation l. 5 et situation l. 7) ; transcrit en toutes lettres
+  alternatives:
+  - sensat°
+- ligne: 6
+  lemme: ce 6
+  analyse: '« ce » : c + e, délié final sans s ; puis tracé isolé à boucle basse fermée et tête incurvée (6) ; un s final détaché de « ces » est moins probable (aucune liaison)'
+  alternatives:
+  - ces
+- ligne: 7
+  lemme: '&'
+  analyse: deux petits points après le & (forme ƒ à drapeau) avant situation ; non transcrits (points d'attaque ou bavure probables)
+  alternatives: []
+- ligne: 8
+  lemme: monté
+  analyse: long délié d'attaque montant de la ligne de base (m ou M), environ six à sept jambages, t sans boucle sous une barre épaisse, finale en é ; aucun l bouclé ; la virgule qui suit et le pluriel « partis » laissent penser à une énumération (le capitaine, un autre homme, William) ; sens non établi
+  alternatives:
+  - nouvl
+  - muté
+  - nom propre (Mounté, Monti)
+- ligne: 8
+  lemme: partis
+  analyse: p, a, r, t, i puis petite boucle épaisse (s final réduit)
+  alternatives:
+  - parti
+- ligne: 9
+  lemme: archi-
+  analyse: a, r, c, h, i (point en chevron), puis trait d'union haut ; la haste qui traverse est le s plongeant de vers (l. 8)
+  alternatives: []
+- ligne: 18
+  lemme: penché
+  analyse: p à longue haste, e, n (petite coche au-dessus, peut-être accent), c, h à haute boucle, é à accent rejeté à droite ; ni t barré ni r, ce qui exclut pénétré
+  alternatives:
+  - pénché
+  - pénétré
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Le deuxième mot de la phrase sur le départ du capitaine reste non résolu ; « ce 6 derniers mois » retenu après contrôle (le séjour à la compagnie dure en fait près de huit mois, depuis juillet 1916).
+  alternatives: []
+controle:
+- ligne: 18
+  avant: matinée, tt \inc{pénétré} melancolie
+  apres: matinée, tt penché melancolie
+  justification: au zoom ×3, après p-e-n viennent un c et un h à haute boucle, sans t barré ni r ; la lecture alternative de la première lecture est retenue
+- ligne: 8
+  avant: 'apparat : William = le capitaine Williams'
+  apres: 'apparat : sans doute le capitaine Williams'
+  justification: la virgule après le mot douteux et le pluriel « partis » suggèrent une énumération ; identification gardée prudente
+- ligne: 0
+  avant: critique « Encre violette sur toute la page ; … »
+  apres: critique réduite au changement de module et au blanc final
+  justification: l'encre violette est la norme de la période (131–184) ; apparat épuré (notes de lecture abrégées, sans analyse des traits)
+remarques: Mot 2 de la l. 8 non résolu (monté / nouvl / nom propre). Bas de page blanc, taches de rouille.
+resume: 'Le samedi 10 mars 1917, à Hérissart, Hippolyte Combes achève ses paquets avant le petit déjeuner et éprouve une étrange mélancolie à l''idée de quitter le village et de changer d''affectation ; les souvenirs des six derniers mois affluent. Le capitaine Williams part définitivement vers 10 heures : Combes se retrouve sans fonctions. Il obtient de rester un jour de plus au village et à la ferme, où il a une belle chambre, et fraternise avec les Anglais qu''il connaît depuis longtemps. Ciel nuageux, temps très doux, puis temps mauvais, bruine et boue ; il se repose, écrit et lit dans le bureau. Penché à la mélancolie le matin, il se résigne le soir à son nouveau sort.'
+noms:
+  personnes:
+  - forme: William
+    ligne: 8
+    identite: sans doute le capitaine Williams, chef de la compagnie d'Hippolyte Combes
+  lieux:
+  - forme: village
+    ligne: 5
+    identite: Hérissart (Somme)
+source: contrôle

@@ -1,0 +1,144 @@
+cliche: 91
+confiance: haute
+changements:
+- ligne: 1
+  avant: Après le dîner, course en auto à Raincheval.
+  apres: après le diner, \add{course} en auto à Raincheval.
+  justification: a initial au module d'une minuscule ; le trait au-dessus de diner est le point de l'i (même forme que les autres points en tiret) ; course est interlinéaire
+  confiance: moyenne
+- ligne: 3
+  avant: Nuit très noire. — Couché assez tard.
+  apres: Nuit très noire. — Couché assz tard
+  justification: a + deux hautes boucles (ss) + z plongeant, sans e ; aucun point après tard
+  confiance: haute
+- ligne: 4
+  avant: '[ Donné à Victor Duchâteau : 5 f —'
+  apres: '\crochet{3}Donné à Victor Duchateau : 5^{f} —'
+  justification: grand crochet sur trois lignes ; une seule barre au-dessus de -au, qui est la barre du t décalée (pas d'accent circonflexe distinct) ; f monétaire suscrit à droite du 5
+  confiance: moyenne
+- ligne: 5
+  avant: 'Mess, octobre : 47 f 70'
+  apres: 'Mess, octobre : 47^{f} 70'
+  justification: f en crochet surélevé entre 47 et 70
+  confiance: haute
+- ligne: 6
+  avant: 'Acheux : ctes ples : 15 c ]'
+  apres: 'Acheux : c^{tes} p^{les} : 15 c'
+  justification: finales -tes, -les légèrement surélevées (forme vérifiée ailleurs) ; aucun crochet fermant
+  confiance: moyenne
+- ligne: 7
+  avant: 3 Ve. Matin, ciel couvert, 1 peu de soleil
+  apres: \sl{3 Ve} matin, ciel couvert, 1 peu de soleil
+  justification: date soulignée d'un long trait ; pas de point après Ve ; m de matin au module d'une minuscule
+  confiance: moyenne
+- ligne: 9
+  avant: Lt Curtis
+  apres: L^{t} Curtis
+  justification: t nettement surélevé
+  confiance: haute
+- ligne: 10
+  avant: et revenu seul s/ 1 lorry. Routes
+  apres: et revenu seul s/ 1 lorry \trait Routes
+  justification: 'pas de point : la queue du y se prolonge en long trait jusqu''à Routes'
+  confiance: haute
+- ligne: 11
+  avant: véhicules
+  apres: vehicules
+  justification: aucun accent sur le premier e (le trait au-dessus appartient à la ligne précédente)
+  confiance: moyenne
+- ligne: 14
+  avant: Après lunch, 2h 30, Acheux.
+  apres: \ind après lunch, 2^{H} 30, Acheux
+  justification: alinéa ; a minuscule ; H suscrit ; pas de point final
+  confiance: moyenne
+- ligne: 15
+  avant: Passé journée ds ma chambre — au bureau.
+  apres: passé journée ds ma chambre. — au bureau
+  justification: p minuscule ; point puis tiret après chambre ; rien après bureau
+  confiance: moyenne
+- ligne: 16
+  avant: '[ — Mission, Albert : 58 f 75 (30 f retenus pour'
+  apres: '— Mission, Albert : 58^{f} 75 (30^{f} retenus pour'
+  justification: aucun crochet ; f suscrits (mieux visibles sur 093)
+  confiance: haute
+- ligne: 17
+  avant: 6 jours de permission) ]
+  apres: \droite 6 jours de permission)
+  justification: ligne rejetée à droite ; pas de crochet
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: assz
+  analyse: 'contrôlé au zoom ×3 (091 [.60 .10 .78 .17]) : a fermé, deux s montants en haute boucle, puis z qui part à droite et plonge sous la ligne ; aucun e entre ss et z'
+  alternatives:
+  - assez
+- ligne: 4
+  lemme: Duchateau
+  analyse: 'contrôlé au zoom ×3 (091 [.43 .16 .72 .22]) : D en ∂, u, c, h bouclé, a, t (haste), e, a, u ; la seule barre horizontale, au-dessus de -au, est celle du t décalée à droite ; aucun circonflexe distinct'
+  alternatives:
+  - Duchâteau
+- ligne: 6
+  lemme: 15 c
+  analyse: 'contrôlé sur 091 et 093 ([.64 .23 .86 .31]) : 1 à trait d''attaque, puis 5 en ℓ (haute boucle fermée, longue descente sous la ligne), puis c allongé ; aucun f'
+  alternatives:
+  - 1^{f} c
+- ligne: 6
+  lemme: c^{tes} p^{les}
+  analyse: 'finales -tes et -les à peine surélevées (zoom 091 [.38 .23 .66 .31]) : forme suscrite gardée par cohérence avec la table des abréviations ; « c tes ples » à la ligne serait aussi défendable'
+  alternatives:
+  - c tes ples
+- ligne: 13
+  lemme: mission
+  analyse: 'contrôlé au zoom ×3 (091 [.22 .61 .46 .68]) : initiale à boucle d''attaque à peine plus haute que les minimes, sans le haut délié du M de Mission l. 16'
+  alternatives:
+  - Mission
+- ligne: 16
+  lemme: 58^{f} 75
+  analyse: 'contrôlé sur 091 et 093 ([.46 .86 .68 .95]) : petit f bouclé surélevé au-dessus du 7, 7 à barre de tête et barre médiane, boucle fermée du 5 en ℓ accrochée à la barre médiane, puis la grande parenthèse ouvrante'
+  alternatives:
+  - 58^{f} 7
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1046 caractères ; sources : Puckle 1917 (p. 8, 26), London Gazette suppl. 29585 (W. H. Levy, candidat probable mais pas prouvé), OH 1916-II p. 462, Bulletin des armées du 22 mars 1916 ; pas de p2, rédigé sur p1. « D.O.S.T. » est bien lu sur l''image et le sigle n''est attesté nulle part ; je le donne comme l''abréviation possible de « D. of S. and T. ». J''ai corrigé « lieux » en « Acheux-en-Amiénois, Raincheval, Albert (Somme) ». Le cliché 093 est un doublon de cette page (f. 46 r°). — Contrôle p2 : quatre lettres capitales séparées par des points, D en ∂, O, S, T : lecture D.O.S.T. confirmée ; aucun autre point du commentaire ne touche la lecture.'
+  alternatives: []
+controle:
+- ligne: 2
+  avant: 'of the : du (service)'
+  apres: 'of the : de la'
+  justification: traduction accordée au sigle féminin (la D.O.S.T., direction)
+- ligne: 7
+  avant: (pas de note)
+  apres: '1 peu : un peu'
+  justification: le chiffre 1 mis pour l'article est une abréviation de la table ; note manquante
+- ligne: 10
+  avant: '\trait : queue du y de « lorry » prolongée…'
+  apres: '(note supprimée) ; ajout de « 1 lorry : un (camion) »'
+  justification: la balise \trait rend seule la disposition ; note d'abréviation du 1 manquante
+- ligne: 16
+  avant: '58^{f} 75 : 58 francs 75 ; f suscrit au-dessus du 7, 5 en boucle (ℓ)'
+  apres: '58^{f} 75 : 58 francs 75'
+  justification: description paléographique retirée de l'apparat imprimé (portée dans difficultes)
+remarques: Le cliché 093 est une seconde prise de vue de la même page (même cadrage). 093 est un peu plus net et mieux contrasté (boucles du f suscrit et du 7 de 58^{f} 75, l. 16, mieux détachées) ; 091 reste entièrement lisible et aucune lecture ne diffère entre les deux prises.
+resume: 'Le soir du jeudi 2 novembre 1916, après le dîner, Hippolyte Combes va en auto à Raincheval voir le major Levy, de la D.O.S.T., et se couche tard par une nuit très noire ; il note un don de 5 francs à Victor Duchateau, le mess d''octobre (47 f 70) et des cartes postales à Acheux. Le vendredi 3, par ciel couvert, il part en auto avec le lieutenant Curtis, reste à Albert et revient seul sur un camion par des routes mauvaises et encombrées de véhicules. Il repasse au camp, à la 152 Coy et au bureau de la Mission, puis rentre à Acheux à 2 h 30 et passe la journée dans sa chambre et au bureau. En bas de page : solde de la Mission à Albert, 58 f 75, dont 30 francs retenus pour six jours de permission.'
+noms:
+  personnes:
+  - forme: major Levy
+    ligne: 2
+    identite: Major Levy, officier britannique « of the D.O.S.T. »
+  - forme: Victor Duchateau
+    ligne: 4
+    identite: Victor Duchâteau, maréchal des logis, fils de M. Duchâteau (cf. 087)
+  - forme: Curtis
+    ligne: 9
+    identite: lieutenant britannique de la 152nd Company A.S.C.
+  lieux:
+  - forme: Raincheval
+    ligne: 1
+    identite: Raincheval (Somme)
+  - forme: Acheux
+    ligne: 6
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Albert
+    ligne: 9
+    identite: Albert (Somme)
+source: contrôle

@@ -1,0 +1,141 @@
+cliche: 133
+confiance: haute
+changements:
+- ligne: 1
+  avant: Dim. 28. (suite) — Janv. /17 —
+  apres: \sl{Dim. 28.} (suite) \hfill \sl{Janv. /17 =}
+  justification: Pas de tiret avant Janv. ; deux traits superposés après 17 ; trait sous Dim. 28. et long trait sous Janv. /17.
+  confiance: haute
+- ligne: 2
+  avant: m'attendait. Accueil
+  apres: m'attendait, Accueil
+  justification: Après attendait, virgule descendante, non point.
+  confiance: moyenne
+- ligne: 3
+  avant: charmante.
+  apres: charmante
+  justification: Long délié final, aucun point.
+  confiance: haute
+- ligne: 4
+  avant: Vu Tante & Madeleine.
+  apres: Vu tante & Madeleine
+  justification: t initial à haste simple sans barre de tête (même forme que tendre l. 3) ; Madelein- prolongé en délié, sans point.
+  confiance: moyenne
+- ligne: 6
+  avant: tête-à-tête av. Margte
+  apres: tete à-tête avec Marg^{te}
+  justification: Premier tete sans accent ni trait d'union avant à ; mot de quatre éléments (avec) sans point ; te suscrit.
+  confiance: moyenne
+- ligne: 7
+  avant: le petit salon.
+  apres: le petit salon
+  justification: Aucun point.
+  confiance: haute
+- ligne: 8
+  avant: 6h 1/2 et dîné avec nous.
+  apres: 6^{H}\fr{1}{2} et diné avec nous
+  justification: H suscrit à deux hastes et traverse, ½ empilé (aspect tz) ; accent aigu décalé sur diné, pas de circonflexe ; pas de point.
+  confiance: haute
+- ligne: 9
+  avant: à 9h s. Aucun tram.
+  apres: à 9 \fr{1}{2}. Aucun tram
+  justification: 'Après le 9 : haste du 1 puis 2 couché en z, comme le ½ de la l. 8 ; aucun s. ; point après la fraction, aucun après tram.'
+  confiance: haute
+- ligne: 10
+  avant: charme,
+  apres: charme
+  justification: Le e final plonge vers la ligne suivante ; pas de virgule visible.
+  confiance: moyenne
+- ligne: 11
+  avant: au possible.
+  apres: au possible
+  justification: Aucun point.
+  confiance: moyenne
+- ligne: 12
+  avant: infinie.
+  apres: infinie
+  justification: Aucun point.
+  confiance: moyenne
+- ligne: 14
+  avant: divers.
+  apres: divers
+  justification: Aucun point.
+  confiance: haute
+- ligne: 15
+  avant: '[ — Trams : 10 c, 10 c — ]'
+  apres: '\ind — Trams : 10c, 10c –'
+  justification: Aucun crochet ; ligne en retrait sous un blanc ; c accolé au chiffre ; tiret final court.
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: /17 =
+  analyse: 'Zoom ×3 : court trait oblique haut avant 17 (barre du millésime, raccourcie, aspect apostrophe) ; après le 7, trait court en haut (y ≈ .03) et trait plus long en bas (y ≈ .05), détachés : signe = confirmé.'
+  alternatives:
+  - '''17 ='
+- ligne: 1
+  lemme: (suite)
+  analyse: La parenthèse fermante a un crochet en tête et un crochet au pied (aspect ]) ; rendue par ).
+  alternatives:
+  - (suite]
+- ligne: 2
+  lemme: m'attendait
+  analyse: m réduit à des minimes peu distinctes (aspect n), apostrophe haute verticale avant a ; le trait souligné de Janv. /17 traverse le haut du mot. Le sens impose m'.
+  alternatives:
+  - n'attendait
+- ligne: 6
+  lemme: d'intime
+  analyse: Boucle fermée en haut à droite et haste oblique descendant sous la ligne vers la gauche (forme ρ de l'esperluette) ; la syntaxe impose d'.
+  alternatives:
+  - '& intime'
+- ligne: 9
+  lemme: Redescendu
+  analyse: R et d initiaux repassés d'une encre très chargée (reprise d'encre, non rature lisible) ; R, d en ∂, s montant, c, e, n, d, u ; le premier e est fondu.
+  alternatives:
+  - Rdescendu
+- ligne: 9
+  lemme: 9 \fr{1}{2}
+  analyse: 'Zoom ×3 [.52 .285 .80 .33] : 9 à boucle fermée et longue haste ; puis haste fine du 1 et 2 en z, identique au ½ de la l. 8 ; aucune traverse d''H ; point après.'
+  alternatives:
+  - 9^{h}\fr{1}{2}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Clé « lieux » précisée (Sainte-Marie-des-Champs, Côte-Pavée) : reprise. « Madeleine » et « Jean » (l''abbé Jean Crouzet) donnés comme probables : identités laissées au conditionnel dans « noms ». Lectures « 9 \fr{1}{2} » (l. 9) et « = » après « /17 » (l. 1) confirmées au zoom.'
+  alternatives: []
+controle:
+- ligne: 6
+  avant: 'apparat : avec (lecture : a, v, e et délié : avec, non av.)'
+  apres: entrée supprimée
+  justification: Lecture sans difficulté ; la forme pleine avec est notée dans changements.
+- ligne: 6
+  avant: d'intime (sans note d'apparat)
+  apres: 'apparat lecture : d'' imposé par le sens ; forme d''esperluette'
+  justification: 'Zoom ×2,5 [.0 .185 .62 .245] : boucle haute et descente oblique sous la ligne, forme ρ de l''&. Lecture réellement ambiguë, à signaler au lecteur.'
+- ligne: 9
+  avant: '9 \fr{1}{2} — note : 1 et 2 couché, sans H suscrit ; non « 9 h s. »'
+  apres: note abrégée, sans justification paléographique
+  justification: Lecture confirmée au zoom ×3 ; justification déplacée dans difficultes.
+- ligne: 0
+  avant: 'lieux : Toulouse (Haute-Garonne), Sainte-Marie ; Jean : proche d''Hippolyte Combes (frère ?)'
+  apres: 'lieux : Sainte-Marie-des-Champs, Côte-Pavée ; Jean : probablement l''abbé Jean Crouzet'
+  justification: Précisions du commentateur historique, gardées au conditionnel.
+remarques: Lectures de la l. 1 (=) et de la l. 9 (9 ½) confirmées au zoom ; l. 6, d'intime a la forme d'une esperluette, tranché par le sens.
+resume: 'Suite du dimanche 28 janvier 1917 à Toulouse. Marguerite attendait Hippolyte Combes sur la porte et l''accueille tendrement ; il voit la tante et Madeleine. Il passe la journée à Sainte-Marie, en tête-à-tête avec Marguerite dans le petit salon ; Jean monte à six heures et demie et dîne avec eux. Hippolyte redescend seul à pied à neuf heures et demie, faute de tram, et note la simplicité, le charme et l''affection de Marguerite. Seule dépense : deux tickets de tram à 10 c.'
+noms:
+  personnes:
+  - forme: Marg^{te}
+    ligne: 2
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: tante
+    ligne: 4
+    identite: tante (de Marguerite ?) à Sainte-Marie
+  - forme: Madeleine
+    ligne: 4
+    identite: Madeleine, de la famille de Marguerite (probable ; cf. 134)
+  - forme: Jean
+    ligne: 8
+    identite: Jean, probablement l'abbé Jean Crouzet
+  lieux:
+  - forme: S^{te}-Marie
+    ligne: 5
+    identite: Sainte-Marie(-des-Champs), demeure de la famille Calmels à Toulouse (Côte-Pavée)
+source: contrôle

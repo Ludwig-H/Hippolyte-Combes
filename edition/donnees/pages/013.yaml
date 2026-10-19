@@ -1,0 +1,114 @@
+cliche: 13
+fichier: 20251126_093412.jpg
+date: Dimanche 6 août 1916
+mois: Août 1916
+lieux: La Croix-du-Bac (Steenwerck, Nord) ; Bac-Saint-Maur (Sailly-sur-la-Lys, Pas-de-Calais)
+titre: Au refilling point avec Curtis ; église et usine de Bac-Saint-Maur ; musique avec Maurin
+transcription: |
+  \sl{Dim – 6.} \hfill Aout \sl{1916}
+  \ind Levé dès 7^{H} \fr{1}{2} –
+  Temps magnifique \trait
+  Breakfast terminé à peine, que Lt Curtis
+  Venu me prendre – Ensemble allés à pied
+  au refilling point, sur rive canal & près
+  d'écluse – Promené campagne à la
+  recherche fourrage \trait
+  Seul, continué j-au village. Bac St-Maur
+  & visité eglise, à côté usine
+  \ind Après-midi, retrouvé Maurin.
+  Avec lui, assis sur l'herbe, ecouté
+  musique mil^{re} anglse —
+  \ind Installation provisoire où je suis
+  \blanc{5}
+  \filet
+  \ind Payé à ma prop^{re} : oeufs, lait &
+  bière : 90c.. — 1 litre lait : 25 + 0.05 —
+  \ind — C^{tes} p^{les} : 10 c
+apparat:
+- ligne: 1
+  lemme: Dim
+  type: abreviation
+  note: dimanche
+- ligne: 1
+  lemme: Dim –
+  type: signe
+  note: court trait à mi-hauteur tenant lieu de point abréviatif
+- ligne: 2
+  lemme: 7^{H}
+  type: abreviation
+  note: heures
+- ligne: 2
+  lemme: \fr{1}{2}
+  type: abreviation
+  note: et demie
+- ligne: 4
+  lemme: Breakfast
+  type: emprunt
+  note: petit déjeuner
+- ligne: 4
+  lemme: Lt
+  type: abreviation
+  note: lieutenant
+- ligne: 6
+  lemme: refilling point
+  type: emprunt
+  note: point de ravitaillement des convois
+- ligne: 6
+  lemme: '& près'
+  type: lecture
+  note: esperluette à boucle d'attaque, croisée par le jambage du p de pied (l. 5) ; la transcription antérieure lisait « (près »
+- ligne: 7
+  lemme: Promené
+  type: lecture
+  note: P bouclé et finale -né accentuée nets ; non « Parcouru » (transcription antérieure)
+- ligne: 9
+  lemme: j-au
+  type: abreviation
+  note: jusqu'au
+- ligne: 9
+  lemme: village.
+  type: lecture
+  note: point net sur la ligne après village ; la transcription antérieure liait « village Bac St-Maur »
+- ligne: 9
+  lemme: St
+  type: abreviation
+  note: Saint
+- ligne: 13
+  lemme: mil^{re}
+  type: abreviation
+  note: militaire
+- ligne: 13
+  lemme: anglse
+  type: abreviation
+  note: anglaise
+- ligne: 15
+  lemme: prop^{re}
+  type: abreviation
+  note: propriétaire (la logeuse)
+- ligne: 16
+  lemme: 90c..
+  type: abreviation
+  note: 90 centimes
+- ligne: 16
+  lemme: 25 + 0.05
+  type: compte
+  note: 25 c + 5 c, soit 30 c (total non porté)
+- ligne: 17
+  lemme: C^{tes} p^{les}
+  type: abreviation
+  note: cartes postales
+- ligne: 17
+  lemme: 10 c
+  type: abreviation
+  note: 10 centimes
+critique: Encre noire virée au brun. Le récit occupe la moitié supérieure de la page ; après un blanc d'environ cinq lignes, un filet presque pleine largeur isole les trois lignes de comptes. Le verso du f. 6, entre le 5 et le 6 août, n'a pas été photographié.
+historique: |
+  Le \textit{refilling point} « sur rive canal \& près d'écluse » est sans doute au bord de la Lys canalisée, dont l'écluse et le barrage de Bac-Saint-Maur sont à 1,6 km de La Croix-du-Bac (CanalPlan ; voir f. 8 v\textsuperscript{o}). En secteur stabilisé, les camions de la \textit{supply column} vont jusque dans la zone de chaque brigade, où l'on place ces points (FSPB 1914, p. 175). Bac-Saint-Maur, hameau de Sailly-sur-la-Lys, est alors la tête de ligne des vivres du secteur (« the Railhead for supplies was Bac St. Maur » : Ellis [1920], pp. 119-120). L'« usine » voisine de l'église est peut-être la linerie que les Britanniques appellent « Edwards's Linen Factory » (CWGC, Trois Arbres Cemetery), ou la « factory » des postes de secours australiens de Fromelles (Bean 1941, p. 437, n.). La nuit suivante, la 54th Brigade relève les Néo-Zélandais devant Armentières (JMO 7/Bedf, 6-7 août 1916). Maurin, sans doute un collègue interprète, reste non identifié. Le lait à 25 c le litre, prix de ferme, vaut la moitié du maximum parisien de février 1917 (March 1925, p. 183).
+sources:
+- Bedfordshire Archives Service, X550/8/1/1608, War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916.
+- Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], pp. 119-120.
+- Bean, C. E. W., The Australian Imperial Force in France, 1916 (Official History of Australia in the War of 1914-1918, vol. III), 12e éd., Sydney, Angus & Robertson, 1941, p. 437.
+- Commonwealth War Graves Commission, Trois Arbres Cemetery, Steenwerck, historique.
+- Field Service Pocket Book, 1914, Londres, HMSO, 1914, chap. 6, « Supply », § 7, p. 175.
+- CanalPlan AC, « Lys », https://canalplan.co.uk/waterway/zuwi (consulté le 18 oct. 2026).
+- March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, pp. 182-183.

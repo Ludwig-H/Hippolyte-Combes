@@ -1,0 +1,211 @@
+cliche: 131
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 27 (suite) \hfill Janv. 1917
+  apres: \sl{Sam. 27} (suite) \hfill Janv 1917
+  justification: trait appuyé sous « Sam. 27 » seulement ; aucun point après Janv ; mois non souligné
+  confiance: haute
+- ligne: 2
+  avant: au 4e ét., à g., appartt de Mme Faure.
+  apres: au 4^{e} ét., à g., appart^{t} de Mme Faure
+  justification: e et t nettement suscrits ; aucun point après Faure, qui finit sur un long délié
+  confiance: haute
+- ligne: 3
+  avant: Y arrivé, vers midi 30 —
+  apres: y arrivé, vers midi \inc{30} —
+  justification: y au module d'une minuscule ; après le 3, une grande courbe ouverte, plus haute que le 3, lue 0 sans certitude
+  confiance: moyenne
+- ligne: 4
+  avant: Accueil très affectueux.
+  apres: accueil très affectueux
+  justification: a initial au module minuscule ; mot final terminé en délié, sans point
+  confiance: moyenne
+- ligne: 5
+  avant: Déjeuné en famille. Mlle Germaine & Marcel
+  apres: Dejeuné en famille Mlle Germaine & Marcel
+  justification: aucun accent sur le premier e (le point au-dessus est celui du j) ; aucun point après famille
+  confiance: moyenne
+- ligne: 6
+  avant: présents. Les 2 autres fils, Henri, aspirant, et André,
+  apres: presents. Les 2 autres fils, Henri, aspirant, et André,
+  justification: 'aucun accent : le trait au-dessus du premier e est la fin du jambage du j de « Dejeuné » (l. 5)'
+  confiance: moyenne
+- ligne: 7
+  avant: préparant Polyte, absents.
+  apres: preparant Poly^{te}, absents
+  justification: le crochet au-dessus du premier e est l'attaque haute du p, continue avec sa haste (même tracé dans « Depart », l. 17) ; ondulation suscrite après Poly ; pas de point final
+  confiance: moyenne
+- ligne: 8
+  avant: Causé longuement, après repas.
+  apres: Causé longuement, après repas
+  justification: repas finit sur un long délié, sans point
+  confiance: moyenne
+- ligne: 9
+  avant: Vers 4h s., pris congé.
+  apres: Vers 4^{H} s., pris congé.
+  justification: H suscrit, à base nettement au-dessus de celle du 4
+  confiance: haute
+- ligne: 10
+  avant: Par métro, venu sur Bvd St-Michel, ch. Imbert,
+  apres: Par métro, venu sur B^{d} St-Michel, chz Imbert.
+  justification: B suivi d'un d surélevé, sans v ; c + h + z plongeant ; point net après Imbert
+  confiance: haute
+- ligne: 11
+  avant: mobilisé. Vu son remplaçant.
+  apres: mobilisé. Vu son remplacant
+  justification: aucune cédille sous le c (la courbe sous « ce » est l'attaque du V de « Ville », l. 12) ; pas de point final
+  confiance: moyenne
+- ligne: 12
+  avant: Magasins de l'Hôtel de Ville, plusrs achats.
+  apres: Magasins de l'Hotel de Ville, plusrs achats
+  justification: aucun circonflexe distinct sur le o ; pas de point après achats
+  confiance: moyenne
+- ligne: 13
+  avant: Remonté rue de Rivoli. Dîné restaurant &
+  apres: Remonté rue de Rivoli. Diné restaurant &
+  justification: point rond sur le i, sans circonflexe
+  confiance: moyenne
+- ligne: 14
+  avant: à 7h s., gare d'Orsay.
+  apres: A 7^{H} s., gare d Orsay
+  justification: A majuscule pointu « en 4 », sans accent ; H suscrit ; aucune apostrophe entre d et Orsay (le long trait voisin est l'attaque du R de « Rivoli », l. 13) ; pas de point final
+  confiance: moyenne
+- ligne: 16
+  avant: chauffé.
+  apres: chauffé
+  justification: le mot finit sur l'accent prolongé, sans point
+  confiance: moyenne
+- ligne: 17
+  avant: Départ train vers 7h 50 s. Qq soldats —
+  apres: Depart train vers 7^{H} 50 s. Qq soldats .
+  justification: le trait au-dessus du e est l'attaque haute du p ; H suscrit ; après soldats, un petit point allongé, isolé, non un tiret long
+  confiance: moyenne
+- ligne: 18
+  avant: Air très chaud.
+  apres: air très chaud.
+  justification: a au module minuscule, sans pointe
+  confiance: moyenne
+- ligne: 19
+  avant: Peu à peu, me suis assoupi.
+  apres: Peu à peu, me suis assoupi
+  justification: le mot finit sur une crosse, sans point
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: Mme
+  analyse: 'M (délié d''attaque et deux jambages), puis e et long délié tiré jusqu''au F, sur la ligne de base : aucune surélévation nette ; transcrit Mme selon l''usage de l''édition'
+  alternatives:
+  - M^{me}
+  - Me
+- ligne: 3
+  lemme: midi \inc{30}
+  analyse: '3 net à panse descendante ; puis grande courbe ouverte à droite, de la hauteur des hampes jusque sous la ligne, plus haute que le 3, lue 0 ; enfin, détaché, un petit trait montant, un court jambage et un long trait horizontal terminé en massue : tiret. 3/4 supposerait une barre oblique et un 4, que les traits ne montrent pas nettement ; la forme de 139 l. 8 (« midi 3? ») est différente et n''aide pas'
+  alternatives:
+  - 3/4
+- ligne: 11
+  lemme: remplacant
+  analyse: rempl + a fermé + c sans cédille + boucle de type e (a réduit ?) + deux ou trois jambages + t dont la barre file loin à droite ; les deux hampes descendantes de « St » (l. 10) traversent la fin du mot. « remplacemt » est graphiquement possible ; le sens (Imbert mobilisé, remplacé au magasin) appelle remplaçant
+  alternatives:
+  - remplacem^{t}
+- ligne: 12
+  lemme: plusrs
+  analyse: p + l bouclé + jambages + s final plongeant ; un point au-dessus de la fin du mot pourrait signaler un i (plusirs) ; forme du tableau des abréviations retenue
+  alternatives:
+  - plusirs
+- ligne: 12
+  lemme: achats
+  analyse: 'le long trait montant sous « acha » est la barre du premier t de « restaurant » (l. 13), tirée à hauteur de la tête du t et décalée vers la droite ; le second t a sa propre barre : pas de soulignement'
+  alternatives:
+  - \sl{achats}
+- ligne: 13
+  lemme: Remonté
+  analyse: R + e + m à premier jambage haut (aspect l) + o + n + t barré + é ; le long trait oblique qui traverse le mot est le jambage du g de « Magasins » (l. 12)
+  alternatives:
+  - Retourné
+- ligne: 13
+  lemme: '&'
+  analyse: 'tête en V ouvert (forme de y), mais une barre horizontale coupe la descente : critère de l''esperluette ; le signe relie « Diné restaurant » et « A 7^{H} s. »'
+  alternatives:
+  - y
+- ligne: 15
+  lemme: Installé
+  analyse: 'après le e final, boucle et petit bras au-dessus de la hauteur d''x : accent de é tracé en crochet, non « ds » ni « & »'
+  alternatives:
+  - Installé ds
+controle:
+- ligne: 2
+  avant: appart^{t} de M^{me} Faure
+  apres: appart^{t} de Mme Faure
+  justification: 'aucune surélévation nette : M, e et long délié sur la ligne de base ; note d''apparat réduite à « Madame »'
+- ligne: 7
+  avant: préparant Poly^{te}, absents
+  apres: preparant Poly^{te}, absents
+  justification: le crochet pris pour un accent est l'attaque haute du p, continue avec sa haste (même tracé dans « Depart », l. 17) ; aucun accent
+- ligne: 11
+  avant: mobilisé. Vu son remplaçant
+  apres: mobilisé. Vu son remplacant
+  justification: aucune cédille visible (la courbe sous « ce » est l'attaque du V de « Ville », l. 12) ; note de lecture ajoutée à l'apparat, remplacemt restant graphiquement possible
+- ligne: 14
+  avant: A 7^{H} s. gare d'Orsay
+  apres: A 7^{H} s., gare d Orsay
+  justification: 'virgule sous le point de s., même disposition qu''à la l. 9 ; aucune apostrophe entre d et Orsay : le long trait voisin est l''attaque du R de « Rivoli » (l. 13)'
+- ligne: 1
+  avant: 'apparat : note « signe » sur 1917 (7 à pied bouclé)'
+  apres: note supprimée
+  justification: justification paléographique sans utilité pour le lecteur
+- ligne: 9
+  avant: 'apparat : « quatre heures du soir ; s. réduit à un trait »'
+  apres: 'apparat : « quatre heures du soir »'
+  justification: détail paléographique retiré de l'apparat imprimé
+- ligne: 13
+  avant: 'apparat : note « lecture » sur &'
+  apres: note supprimée ; analyse conservée dans difficultes
+  justification: forme tranchée par la barre qui coupe la descente (critère de l'esperluette) ; leçon identique à l'état antérieur
+- ligne: 3
+  avant: 'apparat : « 3 net, puis un grand trait courbe ouvert (0 ?) ; autre lecture possible : 3/4 »'
+  apres: 'apparat : « midi 30 » (midi et demi) avec la même réserve, reformulée'
+  justification: la note doit donner d'abord la leçon retenue et son sens
+- ligne: 8
+  avant: 'changements : entrées des l. 8, 12 et 16 absentes'
+  apres: entrées ajoutées (points finals omis, Hôtel → Hotel)
+  justification: toutes les différences avec la transcription antérieure doivent figurer dans changements
+remarques: 'Comptes du 27 janvier au cliché 132 ; le carnet reprend ensuite à Toulouse. Remarque du commentateur historique (p1, reportée ici) : la mort d''Henri Faure le 11 juin 1918 ne repose que sur la tradition familiale et reste à vérifier.'
+resume: Suite du samedi 27 janvier 1917, à Paris. Hippolyte Combes arrive vers midi et demi (heure incertaine) chez Mme Faure, au quatrième étage d'un immeuble de Neuilly, où il est accueilli très affectueusement ; il déjeune en famille avec Mlle Germaine et Marcel, les deux autres fils, Henri, aspirant, et André, qui prépare Polytechnique, étant absents. Vers 4 heures, il prend congé et gagne en métro le boulevard Saint-Michel, chez l'opticien Imbert, mobilisé, dont il voit le remplaçant, puis fait plusieurs achats aux magasins de l'Hôtel de Ville. Il remonte la rue de Rivoli, dîne au restaurant et se rend à 7 heures à la gare d'Orsay. Installé dans un compartiment surchauffé où voyagent quelques soldats, il part vers 7 h 50 et s'assoupit peu à peu.
+noms:
+  personnes:
+  - forme: Mme Faure
+    ligne: 2
+    identite: Mme Faure, demeurant à Neuilly-sur-Seine (rue d'Armenonville, cf. cliché 130)
+  - forme: Germaine
+    ligne: 5
+    identite: Mlle Germaine Faure, sans doute fille de Mme Faure
+  - forme: Marcel
+    ligne: 5
+    identite: Marcel Faure, fils de Mme Faure
+  - forme: Henri
+    ligne: 6
+    identite: Henri Faure, fils de Mme Faure, aspirant
+  - forme: André
+    ligne: 6
+    identite: André Faure, fils de Mme Faure, préparant Polytechnique
+  - forme: Imbert
+    ligne: 10
+    identite: Imbert, opticien du boulevard Saint-Michel (clichés 116–130), mobilisé
+  lieux:
+  - forme: Poly^{te}
+    ligne: 7
+    identite: École polytechnique, Paris
+  - forme: B^{d} St-Michel
+    ligne: 10
+    identite: boulevard Saint-Michel, Paris
+  - forme: l'Hotel de Ville
+    ligne: 12
+    identite: magasins du Bazar de l'Hôtel de Ville, rue de Rivoli, Paris
+  - forme: rue de Rivoli
+    ligne: 13
+    identite: rue de Rivoli, Paris
+  - forme: gare d Orsay
+    ligne: 14
+    identite: gare d'Orsay, Paris (Compagnie du Paris-Orléans)
+source: contrôle

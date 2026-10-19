@@ -1,0 +1,197 @@
+cliche: 56
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 29 Ve.
+  apres: 29 \sl{Ve.}
+  justification: le soulignement commence après 29 et ne couvre que Ve.
+  confiance: haute
+- ligne: 1
+  avant: Sept / 16
+  apres: \sl{Sept /16}
+  justification: trait appuyé sous tout le mois
+  confiance: haute
+- ligne: 3
+  avant: courte averse
+  apres: courte averse \trait
+  justification: délié final prolongé en trait horizontal jusqu'à x≈.67
+  confiance: moyenne
+- ligne: 4
+  avant: Labarthe. gde amie
+  apres: 'Labarthe : gde amie'
+  justification: deux points superposés nets
+  confiance: haute
+- ligne: 6
+  avant: Marché — déjeuné restaurant
+  apres: Marché déjeuné Restaurant
+  justification: le trait après Marché est haut, à hauteur d'accent (é) ; R initial à haste et boucle haute
+  confiance: moyenne
+- ligne: 6
+  avant: Mte
+  apres: M^{te}
+  justification: te nettement surélevé
+  confiance: haute
+- ligne: 8
+  avant: tjs + gde —
+  apres: tjs + g^{de} –
+  justification: de surélevé ; tiret court
+  confiance: moyenne
+- ligne: 9
+  avant: Après-midi
+  apres: Après-\inc{repas}
+  justification: 'après le trait d''union : e bouclé puis p à jambage descendant, fin noyée dans un pâté ; aucun d ni point d''i'
+  confiance: moyenne
+- ligne: 11
+  avant: épanchts
+  apres: epanchts
+  justification: aucun accent visible au-dessus ni à droite du e
+  confiance: moyenne
+- ligne: 12
+  avant: av. ma Femme —
+  apres: av ma Femme –
+  justification: pas de point après av
+  confiance: haute
+- ligne: 13
+  avant: j'à
+  apres: j-à
+  justification: trait d'union court (guide § 8, 12)
+  confiance: haute
+- ligne: 15
+  avant: Allé
+  apres: allé
+  justification: a au module des minuscules
+  confiance: moyenne
+- ligne: 17
+  avant: j'aux
+  apres: j-aux
+  justification: trait d'union court
+  confiance: haute
+- ligne: 18
+  avant: tram j'à pl. Alsace. —
+  apres: tram j-à \inc{rue} Alsace. —
+  justification: 'mot à jambages sans hampe ni point : ni p ni l ; rue d''Alsace-Lorraine'
+  confiance: moyenne
+- ligne: 19
+  avant: '— Trams : 20 c, 40 c, 60 c, 40, 40 c –'
+  apres: '— Trams : 20c, 40c, 60c, 40, 40c —'
+  justification: c accolés aux chiffres ; tiret final long
+  confiance: haute
+- ligne: 20
+  avant: 'sautoir en or — : 300 f net 295 f'
+  apres: sautoir en or — ; 300^{f} net 295^{f}
+  justification: point sur trait descendant (;) ; f suscrits
+  confiance: moyenne
+- ligne: 21
+  avant: 2 f 75
+  apres: 2 \inc{75}
+  justification: aucun f monétaire distinct ; chiffre appuyé (7) puis 5 en ſ à drapeau
+  confiance: basse
+- ligne: 22
+  avant: 'Fruits : 2f + 55 c. – Fleurs : 2 f'
+  apres: 'Fruits : 25c + 55c. — Fleurs : 25c'
+  justification: 5 en ℓ posé sur la ligne suivi de c (piège 7 du guide) ; même tracé dans Fleurs
+  confiance: moyenne
+difficultes:
+- ligne: 9
+  lemme: Après-\inc{repas}
+  analyse: Apr + è (accent) + s vertical + trait d'union ; puis r bref, e bouclé, p à long jambage ; la fin (as) est recouverte d'un pâté violet
+  alternatives:
+  - Après-midi
+- ligne: 9
+  lemme: course
+  analyse: 'c-ou-r-s (haute boucle)-e puis petit crochet et délié : le crochet peut être un s final réduit'
+  alternatives:
+  - courses
+- ligne: 18
+  lemme: \inc{rue}
+  analyse: 'trois à quatre jambages courts et un e final, aucune hampe : exclut pl.'
+  alternatives:
+  - pl.
+  - av
+- ligne: 20
+  lemme: ;
+  analyse: point haut puis trait vertical descendant sous la ligne
+  alternatives:
+  - ':'
+- ligne: 21
+  lemme: \inc{nièces}
+  analyse: 'attaque brève, trois jambages, panse, deux jambages, e, s : aspect « manes » ; ni point d''i ni accent nets'
+  alternatives:
+  - manes
+  - mamies
+  - amies
+- ligne: 21
+  lemme: 2 \inc{75}
+  analyse: 2 bouclé, chiffre appuyé à barre (7 ou f ?), longue haste montant à droite avec crochet de tête (5 en ſ) ; un trait horizontal au-dessus peut appartenir au 295 de la ligne précédente
+  alternatives:
+  - 2 f 75
+  - 2^{f} 75
+- ligne: 22
+  lemme: 25c
+  analyse: 2 bouclé, haute boucle fermée posée sur la ligne, c ; f monétaire serait petit et surélevé
+  alternatives:
+  - 2f
+  - 2^{f}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Remarque du commentateur historique : la tradition familiale ne connaît pas de nièce à Combes ; « nièces » (l. 21) reste une conjecture héritée de l''état antérieur (aspect « manes » sur l''image) ; clé « lieux » proposée : « Toulouse et Blagnac (Haute-Garonne) ».'
+  alternatives: []
+- ligne: 1
+  lemme: Sept /16
+  analyse: après p, haste haute (t) suivie d'un petit crochet qui pourrait être un b réduit (Sept^{b}, cf. 057 « Septb /16 »), puis barre oblique ; la barre horizontale relie t et /
+  alternatives:
+  - Sept^{b} /16
+controle:
+- ligne: 3
+  avant: 'apparat : note « lecture » sur « averse \trait »'
+  apres: note supprimée
+  justification: disposition déjà rendue par \trait ; note sans utilité pour le lecteur
+- ligne: 6
+  avant: 'apparat : note « lecture » sur « Marché » (accent, non tiret)'
+  apres: note supprimée
+  justification: 'justification paléographique, déjà dans « changements » ; zoom ×2 : trait court au-dessus, accent confirmé'
+- ligne: 19
+  avant: pas de note pour « 20c »
+  apres: 'abreviation : 20 centimes'
+  justification: abréviation monétaire non développée
+- ligne: 20
+  avant: pas de note pour « 300^{f} »
+  apres: 'abreviation : 300 francs'
+  justification: 'abréviation monétaire non développée ; zoom ×3 : f suscrits confirmés sur 300 et 295'
+- ligne: 21
+  avant: notes de lecture longues (nièces, 2 75)
+  apres: notes abrégées donnant lecture retenue et alternatives
+  justification: 'zoom ×3 : mot après « mes » d''aspect « manes », sans point d''i, accent ni c nets ; montant : 2 bouclé, chiffre à barre de tête (7 ou f), longue haste à crochet (5 en ſ) — incertitude maintenue'
+remarques: 'Seconde lecture : zooms ×3 sur l. 1, 9, 10, 11, 18, 20, 21, 22 ; transcription de la première lecture confirmée ; apparat épuré.'
+resume: 'Vendredi 29 septembre 1916 à Toulouse, ciel nuageux et courte averse. Le matin, Hippolyte Combes rend visite à Mme de Labarthe, puis, après le marché et un déjeuner au restaurant du Change, retrouve Marguerite. L''après-midi, ils prennent le tram de la place Esquirol à Purpan, s''arrêtent longuement aux ruines, gagnent Blagnac à pied (halte dans la chapelle du monastère, prairie au bord de la Garonne) et reviennent par les Ponts-Jumeaux. Comptes : trams, sautoir en or chez Pfister (300 f, net 295 f), remboursements, fruits et fleurs.'
+noms:
+  personnes:
+  - forme: Mme de Labarthe
+    ligne: 4
+    identite: amie toulousaine d'Hippolyte Combes
+  - forme: M^{te}
+    ligne: 6
+    identite: Marguerite Calmels, sa fiancée
+  - forme: Pfister
+    ligne: 20
+    identite: bijoutier à Toulouse
+  lieux:
+  - forme: Esquirol
+    ligne: 9
+    identite: place Esquirol, Toulouse
+  - forme: Purpan
+    ligne: 9
+    identite: Purpan, Toulouse (Haute-Garonne)
+  - forme: Blagnac
+    ligne: 13
+    identite: Blagnac (Haute-Garonne)
+  - forme: Garonne
+    ligne: 15
+    identite: la Garonne
+  - forme: Ponts Jumeaux
+    ligne: 17
+    identite: Ponts-Jumeaux, Toulouse
+  - forme: Alsace
+    ligne: 18
+    identite: rue d'Alsace-Lorraine, Toulouse
+source: contrôle

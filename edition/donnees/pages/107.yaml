@@ -1,0 +1,123 @@
+cliche: 107
+fichier: 20251126_105017.jpg
+date: Mardi 5 – mercredi 6 décembre 1916
+mois: Décembre 1916
+lieux: Acheux-en-Amiénois, Authie, Bayencourt, Coigneux et Louvencourt (Somme)
+titre: Authie, Bayencourt et Coigneux dévastés ; départ de Curtis ; le capitaine Williams, 20 ans
+transcription: |
+  \sl{5 Mardi.} \hfill Dec^{bre} \sl{1916}
+  Matinée, liberté complète \trait
+  après-midi, course à Authie, puis à
+  Bayencourt, près \inc{d'}Hébuterne, à 3 kilometre
+  de Gommecourt (Boches). Depassé le village. Champs
+  devastés. obus non éclatés ..– Village de \inc{Coigneux}
+  bp de toits squelettiques, + de tuiles, à la
+  suite de bombardement
+  \ind Brume épaisse et, par moments, pluie
+  fine Après diner, adieux avec Lieut^{t}
+  Curtis qui doit repartir, demain matin, pour
+  rejoindre la 152 Coy A.S.C.
+  \blanc{1}
+  \sl{6 merc} \hfill Levé 6^{h} m. \hfill Lt Curtis, parti vers
+  7^{h} \inc{1/2} m — & sans laisser de regret – A brainless
+  ass — Matin, course à Louvencourt, Raincheval
+  \droite etc
+  nouvel off., Cap. Williams, 20 ans ! après
+  repas soir, s'est 1 peu raconté avant
+  la guerre., Etait office boy à 50 £ a year
+  \blanc{4}
+apparat:
+- ligne: 1
+  lemme: Dec^{bre}
+  type: abreviation
+  note: décembre
+- ligne: 4
+  lemme: \inc{d'}
+  type: lecture
+  note: d' retenu (haste seule, sans panse visible, puis apostrophe fine) ; aspect l'
+- ligne: 6
+  lemme: \inc{Coigneux}
+  type: lecture
+  note: Coigneux (Somme) ; finale réduite à un jambage plongeant, sans x net ; aspect Coigney
+- ligne: 7
+  lemme: bp
+  type: abreviation
+  note: beaucoup
+- ligne: 7
+  lemme: + de tuiles
+  type: abreviation
+  note: plus de tuiles
+- ligne: 10
+  lemme: Lieut^{t}
+  type: abreviation
+  note: lieutenant
+- ligne: 12
+  lemme: Coy
+  type: abreviation
+  note: Company, compagnie britannique
+- ligne: 12
+  lemme: A.S.C.
+  type: abreviation
+  note: Army Service Corps (train des équipages britannique)
+- ligne: 13
+  lemme: merc
+  type: abreviation
+  note: mercredi
+- ligne: 13
+  lemme: 6^{h} m.
+  type: abreviation
+  note: 6 heures du matin
+- ligne: 13
+  lemme: Lt
+  type: abreviation
+  note: lieutenant
+- ligne: 14
+  lemme: 7^{h} \inc{1/2} m
+  type: abreviation
+  note: 7 heures et demie du matin
+- ligne: 14
+  lemme: \inc{1/2}
+  type: lecture
+  note: un 1 suivi d'une longue oblique, sans 2 distinct ; autre lecture 1/
+- ligne: 14
+  lemme: A brainless
+  type: emprunt
+  note: un âne sans cervelle (avec ass, l. 15)
+- ligne: 15
+  lemme: ass
+  type: emprunt
+  note: âne
+- ligne: 16
+  lemme: etc
+  type: abreviation
+  note: et cetera
+- ligne: 17
+  lemme: off.
+  type: abreviation
+  note: officier
+- ligne: 17
+  lemme: Cap.
+  type: abreviation
+  note: capitaine
+- ligne: 18
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 19
+  lemme: office boy
+  type: emprunt
+  note: petit employé de bureau
+- ligne: 19
+  lemme: a year
+  type: emprunt
+  note: par an (50 livres sterling par an)
+critique: Encre noire virée au brun ; quelques apostrophes et virgules, surtout dans la journée du 6, sont d'un trait plus fin et plus pâle, peut-être ajoutées après coup. Le bas de la page est resté blanc ; on y devine le report de l'encre de la page en regard.
+historique: |
+  Bayencourt et Coigneux (Somme) sont à l'arrière immédiat du saillant de Gommecourt (Pas-de-Calais), tenu par les Allemands jusqu'au 27 février 1917 (CWGC, Gommecourt Wood New Cemetery). Bayencourt est à 5,3~km de la mairie de Gommecourt (geo.api.gouv.fr) : les « 3 kilomètre » valent sans doute pour les premières lignes allemandes. Le secteur d'Hébuterne est alors tenu par la 31st Division, à la gauche du XIII Corps (OH 1917-I, p.~66). Curtis, détaché avec lui à Acheux depuis le 2 novembre (voir f.~45~v\textsuperscript{o}), rejoint la 152nd Company alors que la 18th Division, relevée par la 61st, est au repos dans la région d'Abbeville (Nichols 1922, p.~136, 139) : le 7th Bedfordshire est à Millencourt-en-Ponthieu le 1\textsuperscript{er} décembre, à Domvast à partir du 14 (JMO 7/Bedf, déc. 1916). Les « 50 £ a year » du capitaine Williams, arrivé le 2 (voir f.~52~v\textsuperscript{o}), font environ 1~260~F à la parité-or de 25,22~F la livre (March 1925, p.~141), moins de 3,50~F par jour, quand la solde de Combes atteint 78~F~75 par quinzaine (voir f.~53~r\textsuperscript{o}).
+sources:
+- Commonwealth War Graves Commission, notice historique « Gommecourt Wood New Cemetery » (cwgc.org).
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 136, 139.
+- 'Bedfordshire Archives Service, X550/8/1/1612 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, décembre 1916 (transcription en ligne).'
+- March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 141.
+- geo.api.gouv.fr, coordonnées des mairies (distances à vol d'oiseau).

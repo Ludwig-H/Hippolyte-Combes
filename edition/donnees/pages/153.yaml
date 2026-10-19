@@ -1,0 +1,100 @@
+cliche: 153
+fichier: 20251126_110804.jpg
+date: Lundi 12 février 1917
+mois: Février 1917
+lieux: Hérissart, Méaulte, Ville-sur-Ancre, Treux, Méricourt-l'Abbé et Ribemont-sur-Ancre (Somme)
+titre: 'Lundi 12 : minoterie de Méaulte, retour par la basse vallée de l''Ancre ; Hérissart, dégel'
+transcription: |
+  \sl{Lundi 12 —} \hfill Février \sl{1917}
+  \ind Gelé nuit, mais bp moins fort
+  que jours précédent.
+  Course en auto. Venus à Méaulte. Visité \inc{entiert}
+  magnifique minoterie
+  Retour par Ville, Treux & Mericourt – Ribemont
+  Repassé avec plaisir ds région qui m'est si familière
+  Et ces villages où vecu heures bien vide & triste.
+  ciel mort. Des champs couverts de neige, s'élevait
+  \add{une} buée grise.
+  \ind En approchant de Hérissart, \inc{v.} nombreux
+  moulins à vent, détachant leur ailes squelettiques
+  sur ciel gris
+  \ind après-midi, liberté
+  2h. dans ma chambrette. Achevé de m'installer
+  & rangé affaires ds mon sac.
+  Degel très rapide. Croute de glace tombant
+  des toits.
+  \ind Parcouru 1 peu village d'Hérissart. Semble
+  inhabité. Rues en pente. Silence funebre
+  \blanc{1}
+  \equerre{2}5 vues d'Amiens, cathle, achetées pour moi :
+  \droite 2^{f}50
+apparat:
+- ligne: 2
+  lemme: bp
+  type: abreviation
+  note: beaucoup
+- ligne: 3
+  lemme: précédent
+  type: lecture
+  note: sans s final (précédents attendu)
+- ligne: 4
+  lemme: \inc{entiert}
+  type: abreviation
+  note: entièrement (lecture incertaine) ; « en détail », lu jusqu'ici, ne s'accorde pas aux traits
+- ligne: 7
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 8
+  lemme: vide & triste
+  type: lecture
+  note: sans s finales (vides & tristes attendu)
+- ligne: 10
+  lemme: \add{une}
+  type: ajout
+  note: ajouté dans l'interligne supérieur
+- ligne: 11
+  lemme: \inc{v.}
+  type: lecture
+  note: vu, abrégé en un seul tracé suivi d'un point ; d. possible
+- ligne: 12
+  lemme: leur
+  type: lecture
+  note: sans s final (leurs attendu)
+- ligne: 15
+  lemme: 2h.
+  type: abreviation
+  note: deux heures
+- ligne: 16
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 17
+  lemme: Croute
+  type: lecture
+  note: singulier sur l'image ; Croûtes lu jusqu'ici
+- ligne: 19
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 20
+  lemme: funebre
+  type: lecture
+  note: finale -re réduite à un long délié
+- ligne: 21
+  lemme: cathle
+  type: abreviation
+  note: cathédrale
+- ligne: 22
+  lemme: 2^{f}50
+  type: abreviation
+  note: 2 francs 50
+critique: Encre violette homogène. Le compte final, séparé du texte par un blanc, est ouvert par une équerre ; le montant est rejeté à droite.
+historique: |
+  Méaulte, au sud immédiat d'Albert, tenu par les Britanniques depuis 1915, garde les trois quarts de ses habitants (CWGC). En février 1916, menacés d'évacuation, ceux-ci avaient adressé une supplique à George V, peut-être à l'instigation d'un interprète de la 18th Division (Nichols 1922, p.~31). La minoterie n'est pas identifiée. Le retour suit la basse Ancre : Méricourt-l'Abbé était tête de ligne pour les vivres et le génie le 1er juillet 1916 (OH 1916-I, p.~274). C'est le pays de la division à l'hiver 1915--1916 (QG à Heilly dès le 19 août 1915 : Nichols 1922, p.~15--16 ; Ribemont en février 1916 : Becke 1938, p.~83, n.~14), où Combes servait depuis août 1915 (lettre du 21 févr. 1916). À Hérissart, siège du \textit{Purchase Board} depuis le 7 février (voir f.~73 v\textsuperscript{o}), le dégel est passager : le gel nocturne reprend jusqu'au 16 (voir f.~77 v\textsuperscript{o} ; OH 1917-I, p.~76). Les cinq vues d'Amiens, à 50 c pièce, coûtent le prix des cinq gravures de la cathédrale achetées le 3 janvier (voir f.~59 v\textsuperscript{o}), cinq à dix fois une carte postale.
+sources:
+- Commonwealth War Graves Commission, Meaulte Military Cemetery, notice historique (cwgc.org).
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, W. Blackwood & Sons, 1922, p. 15-16, 31.
+- 'Becke, A. F., Order of Battle of Divisions, Part 3A : New Army Divisions (9-26), London, HMSO, 1938, p. 83, n. 14.'
+- Edmonds, J. E. (comp.), Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 76.

@@ -1,0 +1,95 @@
+cliche: 75
+fichier: 20251126_104057.jpg
+date: Lundi 16 octobre 1916
+mois: Octobre 1916
+lieux: Beauval, Beauquesne, Puchevillers et Warloy-Baillon (Somme)
+titre: De Beauval à Warloy-Baillon par Beauquesne et Puchevillers, routes encombrées de troupes
+transcription: |
+  Lundi 16 – | Sur pied à 5^{H} \fr{1}{2} – Très bonne nuit. \hfill \sl{oct/16}
+  De ma fenetre, pu contempler pleine lune – admirable !
+  Ciel très beau
+  \ind Quitté Beauval à 7^{H}30 m.
+  Colonne, convoi, partie de la colline où campé – a coté du
+  cimetière.
+  Passé par Beauquesne
+  monté plateau dominant village & contrée environnant
+  Fait halte au-delà de Puchevillers
+  matinée, air glacial, vent penetrant
+  \ind Tout le long route, très nombreuses unités en marche
+  convois d'A.S.C., R.F.A. etc. etc. & infantry battalions !
+  \ind Vers 6^{H} s. enfin atteint Warloy. Baillon. Village
+  vraie fourmilière de tommies. – .
+  Campés sous tentes, ds 1 champ, en contrebas de la
+  route de Senlis.
+  \ind[2] Visité ds la brasserie et revu amis.
+apparat:
+- ligne: 1
+  lemme: 5^{H} \fr{1}{2}
+  type: abreviation
+  note: cinq heures et demie
+- ligne: 1
+  lemme: oct/16
+  type: abreviation
+  note: octobre 1916
+- ligne: 4
+  lemme: 7^{H}30 m.
+  type: abreviation
+  note: sept heures trente du matin
+- ligne: 5
+  lemme: partie
+  type: lecture
+  note: e final net sous la barre du t ; on attendrait « partis »
+- ligne: 8
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 8
+  lemme: environnant
+  type: lecture
+  note: le mot s'achève sur un t pris dans un pâté, sans e (antérieurement « environnante »)
+- ligne: 12
+  lemme: A.S.C.
+  type: abreviation
+  note: Army Service Corps, train des équipages britannique
+- ligne: 12
+  lemme: R.F.A.
+  type: abreviation
+  note: Royal Field Artillery, artillerie de campagne britannique
+- ligne: 12
+  lemme: etc. etc.
+  type: abreviation
+  note: et cetera
+- ligne: 12
+  lemme: infantry battalions
+  type: emprunt
+  note: bataillons d'infanterie
+- ligne: 12
+  lemme: battalions !
+  type: lecture
+  note: mot très chargé d'encre, traversé par la barre prolongée du t d'infantry ; le « ! », en bord de page, pourrait clore la l. 11
+- ligne: 13
+  lemme: 6^{H} s.
+  type: abreviation
+  note: six heures du soir
+- ligne: 14
+  lemme: tommies
+  type: emprunt
+  note: soldats britanniques (familier)
+- ligne: 15
+  lemme: ds 1
+  type: abreviation
+  note: dans un
+- ligne: 17
+  lemme: ds
+  type: abreviation
+  note: dans
+critique: Page écrite en travers du carnet, d'une seule encre violette. Les comptes de la journée sont portés en tête du f.~38 v\textsuperscript{o}.
+historique: |
+  À Beauval, la colonne campait sur la colline, près du cimetière communal où les hôpitaux d'évacuation inhumaient leurs morts (CWGC). L'itinéraire est celui de la 54th Brigade, qui marche ce jour-là treize milles jusqu'au bois de Vadencourt, près de Warloy (JMO 7/Bedf, 16 oct. 1916). Il passe par Beauquesne, où Haig a son QG avancé au château de Valvion depuis le 27 juin 1916 (OH 1916-I, p.~304), puis Puchevillers, tête de ligne des munitions et siège des 3rd et 44th Casualty Clearing Stations (OH 1916-I, p.~274 ; CWGC). Warloy-Baillon a reçu avant le 1\textsuperscript{er} juillet les ambulances de campagne et un centre opératoire avancé (OH 1916-I, p.~282) ; la plupart des 1~331 tombes de l'extension du cimetière datent de juillet à novembre 1916 (CWGC). La route de Senlis mène à Senlis-le-Sec, QG du II Corps depuis le 24 juillet (LLT). Ce corps prépare l'attaque de Regina et de Stuff Trenches, lancée le 21 octobre (OH 1916-II, p.~463), d'où l'encombrement des routes. La pleine lune datait du 11 octobre ; le 17, Combes note une demi-lune (f.~38 v\textsuperscript{o}).
+sources:
+- Commonwealth War Graves Commission, notices « Beauval Communal Cemetery », « Puchevillers British Cemetery » et « Warloy-Baillon Communal Cemetery Extension » (cwgc.org).
+- 'Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).'
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274, 282, 304.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 463.
+- Baker, C., The Long, Long Trail, « The British II Corps in France and Flanders » (copie Wayback Machine du 6 novembre 2024).
+- Calendar-12, « Dates of Moon Phases in 1916 Year » (calendar-12.com/moon_phases/1916).

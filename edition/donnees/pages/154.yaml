@@ -1,0 +1,91 @@
+cliche: 154
+fichier: 20251126_110831.jpg
+date: Mardi 13 et mercredi 14 février 1917
+mois: Février 1917
+lieux: Hérissart, Puchevillers, Authie et Acheux-en-Amiénois (Somme) ; Couin (Pas-de-Calais)
+titre: '13-14 février : Authie par Puchevillers ; tournée Authie, Couin, Acheux ; M. Lefèvre'
+transcription: |
+  \sl{mardi 13 –} \hfill \sl{Fevrier 1917}
+  \ind[2] Nuit un peu moins
+  froide. Très peu gelé.
+  \ind Tout le jour, ciel bas, nuageux \trait
+  Matinée, dégel commencé, asz rapide
+  Course à Authie, par Puchevillers. Sur les
+  hauteurs de P.^{v}, bise glaciale, paupières,
+  ruisselantes
+  \ind après-midi, liberté entière
+  Nuit, extt noire. Moins froid.
+  \blanc{1}
+  \sl{merc. 14.}
+  \ind nuit, gelé encore. Au réveil, trouvé mes
+  vitres embellies d'arabesques magnifiques
+  Journée, beau soleil fait en plusrs endroits
+  fondre glace & neige
+  \ind Après breakfast, partis en auto. Authie
+  \inc{Couin} et Acheux, où pris repas au café
+  de l'Hotel de ville (prix exorbitants)
+  \ind Au retour, arret à Toutencourt. Y revenus
+  après tea, vers 6^{h} \fr{1}{2}; pour rencontrer
+  M. Lefevre
+  \ind Nuit mervt etoilée, mais sans lune.
+  Obscurité presque complète. Froid de nouveau très vif
+apparat:
+- ligne: 5
+  lemme: asz
+  type: abreviation
+  note: assez
+- ligne: 7
+  lemme: P.^{v}
+  type: abreviation
+  note: Puchevillers (nommé à la ligne précédente)
+- ligne: 10
+  lemme: extt
+  type: abreviation
+  note: extrêmement
+- ligne: 11
+  lemme: merc.
+  type: abreviation
+  note: mercredi
+- ligne: 14
+  lemme: plusrs
+  type: abreviation
+  note: plusieurs
+- ligne: 15
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 16
+  lemme: breakfast
+  type: emprunt
+  note: petit déjeuner
+- ligne: 17
+  lemme: Couin
+  type: lecture
+  note: 'lecture probable (village voisin d''Authie) ; l''initiale à arc descendant a l''aspect d''un G : ant. « Gouin »'
+- ligne: 20
+  lemme: tea
+  type: emprunt
+  note: thé
+- ligne: 20
+  lemme: 6^{h} \fr{1}{2}
+  type: abreviation
+  note: six heures et demie
+- ligne: 20
+  lemme: 6^{h} \fr{1}{2}
+  type: lecture
+  note: h suscrit et fraction empilée ; ant. « 6h s. »
+- ligne: 21
+  lemme: M.
+  type: abreviation
+  note: Monsieur
+- ligne: 22
+  lemme: mervt
+  type: abreviation
+  note: merveilleusement
+historique: |
+  Puchevillers, au nord d'Hérissart, abrite les hôpitaux d'évacuation n\textsuperscript{os} 3 et 44 jusqu'en mars 1917 (LLT). Authie (Somme), où Combes avait déjeuné le 9 décembre au mess d'une compagnie du train de la 31st Division (voir f.~54 v\textsuperscript{o}), avait accueilli en juillet 1916 un centre opératoire avancé (OH 1916-I, p.~282). Couin (Pas-de-Calais), si la lecture est bonne, avait été le QG du XIII Corps du 4 octobre au 29 novembre 1916 ; Acheux-en-Amiénois, quitté par Combes le 7 février (voir f.~73 v\textsuperscript{o}), est de nouveau, depuis le 12 janvier, celui du V Corps (LLT). Les « prix exorbitants » de l'Hôtel de ville tiennent sans doute à l'afflux des officiers britanniques dans ces bourgs d'état-major. M.~Lefèvre, rencontré à Toutencourt, QG de la Fifth Army (voir f.~75 r\textsuperscript{o}), n'est pas identifié. Le gel du 14 est l'un des derniers : le dégel commence le 16 (OH 1917-I, p.~76 ; Haig, \textit{Despatches}, p.~69--70).
+sources:
+- Baker, C., The Long, Long Trail, « Locations of British Casualty Clearing Stations » (copie Wayback du 13 janvier 2018), « The British XIII Corps in France and Flanders » et « The British V Corps in France and Flanders » (longlongtrail.co.uk, consultés le 18 oct. 2026).
+- Edmonds, J. E. (comp.), Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 282.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 76.
+- Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), London, Dent, 1919, p. 69-70 (dépêche du 31 mai 1917).

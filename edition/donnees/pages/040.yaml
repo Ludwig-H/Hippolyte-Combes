@@ -1,0 +1,100 @@
+cliche: 40
+fichier: 20251126_094600.jpg
+date: Dimanche 10 septembre 1916
+mois: Septembre 1916
+lieux: Monts-en-Ternois et Oppy (Beaudricourt, Pas-de-Calais)
+titre: Nuit devant le four ; étape au hameau d'Oppy ; service chez le maire de Beaudricourt
+transcription: |
+  \sl{Dim. 10.} \hfill \sl{Sept 16}
+  \ind Tres bonne nuit couché s/ 2 bancs de
+  jardin rapproché – devant le four –
+  Temps d'abord nuageux
+  Partis à 11^{H} m
+  Voyage très agréable – paysages très
+  variés – d'abord plaines. puis coteaux
+  et peu à peu hauteurs boisées.
+  \ind A 1^{H} \inc{s}., arrivés à Oppy
+  Campagne verdoyte. regions fertiles.
+  Oppy, situé tt en haut cote. De ce
+  plateau, très b. vue. Ptit hameau
+  de 6 maisons.
+  \ind Obligé coucher grenier ferme où mess.
+  Fin après-midi, venu à pied à
+  Beaudricourt, on duty, chz le maire
+  \blanc{1}
+  Tout jour, mangé au mes off
+  \blanc{1}
+  Couché tôt
+apparat:
+- ligne: 1
+  lemme: Dim.
+  type: abreviation
+  note: Dimanche
+- ligne: 1
+  lemme: Sept 16
+  type: abreviation
+  note: septembre 1916
+- ligne: 2
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 3
+  lemme: rapproché
+  type: lecture
+  note: au singulier, sans s final (lecture antérieure « rapprochés »)
+- ligne: 5
+  lemme: 11^{H} m
+  type: abreviation
+  note: onze heures du matin
+- ligne: 9
+  lemme: \inc{s}.
+  type: lecture
+  note: 's. (soir) réduit à une haste ; autre lecture : 1, ou fraction inachevée'
+- ligne: 9
+  lemme: 1^{H}
+  type: abreviation
+  note: une heure
+- ligne: 10
+  lemme: verdoyte
+  type: abreviation
+  note: verdoyante
+- ligne: 11
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 11
+  lemme: cote
+  type: lecture
+  note: côte ; lecture antérieure « coteau »
+- ligne: 12
+  lemme: b.
+  type: abreviation
+  note: belle
+- ligne: 12
+  lemme: Ptit
+  type: abreviation
+  note: Petit
+- ligne: 14
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 16
+  lemme: on duty
+  type: emprunt
+  note: de service
+- ligne: 16
+  lemme: chz
+  type: abreviation
+  note: chez
+- ligne: 17
+  lemme: mes off
+  type: emprunt
+  note: mess (un seul s) des officiers ; off = officiers
+critique: Encre noire virée au brun, homogène sur toute la page. Le récit de la nuit reprend celui de la veille (f. 20 r\textsuperscript{o}), dont la page est la suite immédiate.
+historique: |
+  Oppy, « hameau de 6 maisons », est un écart de la commune de Beaudricourt (Pas-de-Calais), à 7,4 km à vol d'oiseau de Monts-en-Ternois (OSM) ; rien à voir avec l'Oppy des environs d'Arras, alors dans les lignes allemandes. Les deux bancs « devant le four » sont ceux de la ferme-monastère de Monts-en-Ternois (voir f. 20 r\textsuperscript{o}). Ce 10 septembre, la 54th Brigade gagne la zone de Sus-Saint-Léger par Houvin-Houvigneul, Estrée-Wamin et Beaudricourt, le 7th Bedfordshire cantonnant à Ivergny ; les voitures de vivres marchent avec la « 152nd Company Divisional Train », et à minuit la division passe à la Reserve Army (JMO 7/Bedf, 10 sept. 1916). Le service « chz le maire » est celui du cantonnement : le maire est l'intermédiaire légal du logement des troupes et des réquisitions (loi du 3 juillet 1877), et le cantonnement est « une des principales besognes de l'interprète » (Fernand-Laurent 1917, p. 225-234). Combes, invité au mess par le capitaine West la veille, y prend tous ses repas avant d'en devenir membre le 12 (voir f. 21 v\textsuperscript{o}).
+sources:
+- 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916, ordres d''opérations n° 29-31 (transcription en ligne).'
+- Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 225-234.
+- Loi du 3 juillet 1877 relative aux réquisitions militaires.
+- OpenStreetMap / Nominatim (Oppy, Beaudricourt ; distances à vol d'oiseau).

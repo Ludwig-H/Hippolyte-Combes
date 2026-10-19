@@ -1,0 +1,80 @@
+cliche: 18
+fichier: 20251126_093544.jpg
+date: Samedi 12 août 1916
+mois: Août 1916
+lieux: La Croix-du-Bac (Steenwerck, Nord) ; Bac-Saint-Maur (Sailly-sur-la-Lys, Pas-de-Calais)
+titre: Chaleur ; promenade sur la berge de la Lys, repos dans une luzerne face aux blés mûrs
+transcription: |
+  12 \sl{Sam.} \hfill Août \sl{1916}
+  \ind Encore journée de chaleur caniculaire.
+  Fin après-midi, sorti pr me
+  distraire –
+  Venu promener le long rivière
+  la Lys. Causé lgs avec éclusier –
+  puis continué route sur berge
+  gazonnée — Trouvé oasis d ombre
+  champ de luzerne, \del{devant} \add{en face de} champs
+  d'épis de blé tout jaunis par soleil –
+  Allongé s/ le dos, gouté repos
+  délicieux – admirant nuages floconneux
+  collés s/ ciel bleu clair —
+  \blanc{2.5}
+  \ind[2] — \fr{1}{2} litre lait : 15c
+  \blanc{1}
+  \filet[g]{0.33}
+  \ind après lunch, resté chambre à
+  lire – impossible s'éloigner
+  air brulant, soleil torride \trait
+apparat:
+- ligne: 1
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 3
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 5
+  lemme: rivière
+  type: lecture
+  note: rivière, accent et finale -re visibles (antérieurement rives)
+- ligne: 6
+  lemme: lgs
+  type: abreviation
+  note: longtemps
+- ligne: 9
+  lemme: \del{devant}
+  type: rature
+  note: devant biffé, la finale -ant noyée d'encre
+- ligne: 9
+  lemme: \add{en face de}
+  type: ajout
+  note: dans l'interligne, au-dessus de devant, qu'il remplace
+- ligne: 11
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 13
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 14
+  lemme: \fr{1}{2}
+  type: abreviation
+  note: demi
+- ligne: 14
+  lemme: 15c
+  type: abreviation
+  note: 15 centimes
+- ligne: 15
+  lemme: lunch
+  type: emprunt
+  note: déjeuner
+critique: 'Les trois dernières lignes, séparées du compte par un filet partiel, reviennent sur le début de l''après-midi : ajout de fin de journée. Taches brunes diffuses autour de la ligne de compte.'
+historique: |
+  La Lys sépare ici le Nord (Steenwerck, rive nord) du Pas-de-Calais (Sailly-sur-la-Lys, rive sud) ; l'éclusier est sans doute celui de Bac-Saint-Maur, avec qui Combes a déjà causé l'avant-veille (voir f. 8 v\textsuperscript{o}). La luzerne est l'une des plantes du fourrage vert réglementaire des chevaux britanniques (« rye grass, lucerne, sainfoin, clover » : FSPB 1914, chap. 6, § 20), que Combes fait couper et payer aux cultivateurs pour compléter la ration de foin. Ce samedi, le front reste calme devant le 7th Bedfordshire (JMO 7/Bedf, 12 août 1916), tandis que la 53rd Brigade, dont on n'a pas besoin à Erquinghem, gagne un camp de tentes au pied du Mont de Lille, au sud de Bailleul (Banks \& Chell 1924, p. 143). Le demi-litre de lait à 15 c met le litre à 30 c, contre 25 c le 6 août (voir f. 7 r\textsuperscript{o}) : prix de ferme, bien au-dessous des 50 c que la préfecture de police fixera comme prix maximal du litre à Paris en février 1917 (March 1925, p. 182-183).
+sources:
+- Field Service Pocket Book, 1914, London, HMSO, 1914, chap. 6, « Forage », § 20.
+- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (transcription en ligne).'
+- Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., London, Gay & Hancock, 1924, p. 143.
+- March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 182-183.

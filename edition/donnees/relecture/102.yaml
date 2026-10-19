@@ -1,0 +1,184 @@
+cliche: 102
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 22 Mer. \hfill Novembre 1916 —
+  apres: \droite \sl{Novembre 1916} — (ligne propre)
+  justification: le mois, souligné, est nettement au-dessus de la ligne 22 Me Hier soir (base .034 contre .043–.066)
+  confiance: haute
+- ligne: 2
+  avant: 22 Mer. / Hier soir, indigestion
+  apres: 22 Me Hier soir, indigestion
+  justification: M + e suivi d'un long délié, aucun r ; Hier soir sur la même ligne que la date
+  confiance: haute
+- ligne: 4
+  avant: liquides, dans la nuit. Dû me lever
+  apres: liquides. dans la nuit. dû me lever
+  justification: point après liquides ; d en ∂ de même module que dans
+  confiance: moyenne
+- ligne: 5
+  avant: chaque fois
+  apres: Chaque fois
+  justification: C majuscule à boucle de tête et grand arc
+  confiance: haute
+- ligne: 6
+  avant: Auj'd'hui, léger mieux. [Craint ?] dysenterie
+  apres: \inc{Auj'd'hui} léger mieux. Mais dysenterie
+  justification: M à long délié, a, i pointé, s ; pas de virgule visible après le pâté
+  confiance: haute
+- ligne: 7
+  avant: '[illis.] selles [mot repassé illis.] clair[s ?] — 1 peu de'
+  apres: \inc{Nombreuses} selles \ill clair — 1 peu de
+  justification: N-o-m-b(aspect h)-r-e-u-s-e-s ; clair sans s final
+  confiance: moyenne
+- ligne: 8
+  avant: Me suis ménagé.
+  apres: Me suis menagé.
+  justification: seul l'accent final, décalé à droite, est visible
+  confiance: moyenne
+- ligne: 11
+  avant: '[ A proprre M. Carluvant [?], tailleur : 75 c'
+  apres: '\crochet{2}A propr^{e} M. \inc{Carluvant}, tailleur : 75c'
+  justification: grand crochet sur deux lignes ; e suscrit surmonté d'un tilde ; 75c lié
+  confiance: haute
+- ligne: 12
+  avant: (élargi culottes neuves par derrière) ]
+  apres: (élargi culottes neuves par derrière
+  justification: parenthèse non refermée ; la finale de derrière plonge sans parenthèse
+  confiance: haute
+- ligne: 13
+  avant: dès 5h 1/2 s. — Rue
+  apres: dès 5^{H} \fr{1}{2} s. — Rue
+  justification: H suscrit, demi empilé (1 sur 2 en ℓ)
+  confiance: haute
+- ligne: 15
+  avant: 23 Jeudi. Enfin, 1 très belle journée.
+  apres: 23 \sl{Jeudi}. Enfin 1 très belle journée.
+  justification: seul Jeudi est souligné (trait en crosse) ; aucune virgule après Enfin
+  confiance: haute
+- ligne: 16
+  avant: Mais temps 1 peu froid.
+  apres: \ind[2] mais temps 1 peu froid –
+  justification: m minuscule, ligne en retrait, tiret final
+  confiance: haute
+- ligne: 17
+  avant: 'Sol tjrs spongieux & mou : sèche'
+  apres: Sol Tjours spongieux & mou. seche
+  justification: T + j + ours ; point unique après mou ; pas d'accent sur seche
+  confiance: moyenne
+- ligne: 19
+  avant: Matinée, reposé s/ lit du clerk à
+  apres: matinée reposé \add{\inc{assis}} s/ lit du clerk à
+  justification: m minuscule, pas de virgule ; petit mot assis écrit sous reposé
+  confiance: moyenne
+- ligne: 21
+  avant: Authie. Rentré pour
+  apres: Authie – Rentré pour
+  justification: tiret bas, non point
+  confiance: moyenne
+- ligne: 22
+  avant: le thé.
+  apres: le thé –
+  justification: tiret
+  confiance: moyenne
+- ligne: 23
+  avant: Nuit, extt obscure. Difficile marche rue.
+  apres: Nuit ext^{t} obscure. – Difficile marche rue
+  justification: un seul t, barré, surélevé ; point puis tiret après obscure
+  confiance: moyenne
+- ligne: 24
+  avant: Tout à fait rétabli légère indisposition.
+  apres: tout à fait rétabli légère indisposition
+  justification: t initial minuscule ; aucun point final
+  confiance: moyenne
+- ligne: 25
+  avant: '[ Washing : 1 f 25 — ]'
+  apres: '\equerre{1}Washing : 1 \inc{25}. —'
+  justification: équerre ⌜ (trait horizontal et descente à gauche) ; aucun f entre 1 et 2
+  confiance: moyenne
+difficultes:
+- ligne: 3
+  lemme: '7'
+  analyse: croix à haste oblique et barre médiane ; la tête se perd dans le jambage du g de dérangement ; même tracé que le 7 de 75c (l. 11) ; le contexte (chaque fois) appuie un nombre
+  alternatives:
+  - +
+- ligne: 6
+  lemme: Auj'd'hui
+  analyse: gros pâté ; on distingue une descente de j, une apostrophe, la boucle d'un d et hui pointé
+  alternatives:
+  - aujd'hui
+- ligne: 7
+  lemme: Nombreuses
+  analyse: N à délié, o fermé haut (aspect y), m écrasé, b en h, r, e, u, s, e, s final allongé
+  alternatives:
+  - Nouvelles
+- ligne: 7
+  lemme: \ill
+  analyse: 'mot repassé : boucle haute claire puis descente vers la gauche (j ou g), point d''i, haste haute, deux ou trois minimes, e final à long délié'
+  alternatives:
+  - jaunes
+  - glaireuses
+  - jaunâtres
+- ligne: 11
+  lemme: Carluvant
+  analyse: C bouclé, a/r, l haut, u, n, lettre à descente sous la ligne, n, t à longue barre
+  alternatives:
+  - Carlugant
+- ligne: 19
+  lemme: assis
+  analyse: a, deux s montants, i, s final bref ; écrit sous reposé, rattachement à la l. 19 probable
+  alternatives:
+  - assise
+- ligne: 24
+  lemme: rétabli légère indisposition
+  analyse: après rétabli, une boucle et un long trait horizontal (délié ou de ?) ; devant indisposition, un grand trait en V (finale de légère ou d'/l')
+  alternatives:
+  - rétabli de légère indisposition
+  - rétabli – légère l'indisposition
+- ligne: 25
+  lemme: '25'
+  analyse: 1 épais ; 2 bouclé à pied horizontal ; haute boucle descendant sous la ligne (5 en ℓ ou f) puis point et tiret ; les blanchissages valent ailleurs 50 c à 1 f
+  alternatives:
+  - 1 2 f.
+  - 12 f.
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Carluvant maintenu sous réserve, conforme à 118 (p2) ; Carlumont possible (zoom x3 : C, a/r, l, jambages, lettre descendante incertaine, n, t barré). Clé lieux présente. Heure d''été hors sujet pour la transcription.'
+  alternatives:
+  - Carlumont
+- ligne: 19
+  lemme: assis
+  analyse: 'zoom x3 : a ouvert, deux ou trois jambages, haste haute, point à droite ; assis (s montants) ou aussi'
+  alternatives:
+  - aussi
+controle:
+- ligne: 1
+  avant: 'apparat : note de disposition sur Novembre 1916'
+  apres: note supprimée
+  justification: \droite et \sl rendent la disposition
+- ligne: 24
+  avant: pas de note
+  apres: note lecture sur rétabli légère
+  justification: 'zoom x3 : après rétabli, boucle (e ou d) et long délié passant sous légère ; le grand trait en V devant indisposition est la descente des ff de Difficile (l. 23), non une apostrophe'
+- ligne: 25
+  avant: 1 \inc{25} (note sans alternative)
+  apres: 1 \inc{25}, alternative 1 2 f. dans l'apparat
+  justification: 'zoom x3 : 1, 2 bouclé, haute boucle fermée descendant loin sous la ligne (5 en ℓ ou f), point, tiret ; les blanchissages valent 50c à 1 f ailleurs'
+remarques: Lieu de séjour (Acheux) repris de l'état antérieur, non nommé sur la page.
+resume: 'Le 22, Hippolyte Combes souffre d''indigestion et de diarrhée (sept selles dans la nuit), craint la dysenterie, se ménage et va mieux le soir. Il paie 75 c à son propriétaire, M. Carluvant, tailleur, pour avoir élargi ses culottes neuves. La nuit est très noire dès 5 h ½ et la rue boueuse. Le 23, belle journée froide : repos le matin sur le lit du clerk au bureau, l''après-midi course en auto à Amplier, Authieule et Authie. Blanchissage : 1 f 25.'
+noms:
+  personnes:
+  - forme: Carluvant
+    ligne: 11
+    identite: tailleur, propriétaire du logement d'Hippolyte Combes (lecture réservée)
+  lieux:
+  - forme: Amplier
+    ligne: 21
+    identite: Amplier (Pas-de-Calais)
+  - forme: Authieule
+    ligne: 21
+    identite: Authieule (Somme)
+  - forme: Authie
+    ligne: 21
+    identite: Authie (Somme)
+source: contrôle

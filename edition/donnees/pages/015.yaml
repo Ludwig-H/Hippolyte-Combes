@@ -1,0 +1,69 @@
+cliche: 15
+fichier: 20251126_093455.jpg
+date: Mardi 8 et mercredi 9 août 1916
+mois: Août 1916
+lieux: La Croix-du-Bac (Steenwerck, Nord)
+titre: Canicule ; repos dans la nouvelle chambre ; routes poussiéreuses et moustiques
+transcription: |
+  \sl{Mardi 8.} \hfill \sl{Aout 1916} –
+  \ind[2] Tjours tempér^{re} – ext^{t} chaude —
+  Bien, reposé nouvelle chambre \trait
+  Achevé de m'installer et le mieux possible
+  Journée entière de liberté
+  Resté chambre \inc{à} me reposer \trait
+  \blanc{5}
+  \filet
+  \ind Food : eggs : 50 c
+  \blanc{1}
+  \filet
+  \sl{mercredi 9.}
+  \ind[2] Encore chal^{r} accablante \trait
+  Reste le + possible ds ma chambre
+  \ind Routes si poussiéreuse que impossible
+  tenir ma fenetre ouverte \trait
+  \ind Nuit, dévoré par les moustiques
+apparat:
+- ligne: 2
+  lemme: Tjours
+  type: abreviation
+  note: toujours
+- ligne: 2
+  lemme: tempér^{re}
+  type: abreviation
+  note: température
+- ligne: 2
+  lemme: ext^{t}
+  type: abreviation
+  note: extrêmement
+- ligne: 6
+  lemme: \inc{à}
+  type: lecture
+  note: 'signe réduit à deux traits superposés, sans panse : « à » d''après le sens ; aspect du signe « = »'
+- ligne: 7
+  lemme: Food
+  type: emprunt
+  note: nourriture
+- ligne: 7
+  lemme: eggs
+  type: emprunt
+  note: œufs
+- ligne: 9
+  lemme: chal^{r}
+  type: abreviation
+  note: chaleur
+- ligne: 10
+  lemme: +
+  type: abreviation
+  note: plus
+- ligne: 10
+  lemme: ds
+  type: abreviation
+  note: dans
+critique: 'Encre noire. Deux journées sur la même page : un blanc d''environ cinq lignes et deux filets, qui encadrent l''unique ligne de comptes du 8 août, les séparent ; le 9 août n''a pas de comptes.'
+historique: |
+  La chaleur notée par Combes est celle du journal du 7th Bedfordshire, qui porte « Fine hot day » du 29 juillet au 4 août et encore le 10 août (JMO 7/Bedf, juill.-août 1916). Le mercredi 9, que Combes passe enfermé, « about 50 heavy shells » tombent sur Armentières, à 6,5 km de là (JMO 7/Bedf, 9 août 1916) ; dans la nuit du 8 au 9, au sud d'Ypres, les Allemands lancent contre le VIII Corps la seule attaque par gaz notable de l'été et de l'automne sur le front britannique, ressentie jusqu'à Poperinghe (OH 1916-II, pp. 544-545). La poussière vient sans doute des convois de la route de Bac-Saint-Maur, qui mène à la tête de ligne des vivres du secteur (voir f. 7 r\textsuperscript{o}). Les moustiques tiennent à la basse plaine de la Lys, gorgée d'eau : derrière Fleurbaix, la Layes coule à 12 pieds au-dessus de la Lys, et le génie australien dut abaisser en 1916 la nappe du secteur avant de 2 pieds 6 pouces par un drainage gradué (Ellis [1920], p. 119). Les œufs, achetés 50 c le 8 août, ont vu leur prix urbain monter à l'indice 172 en août 1916 (base 1914 = 100 : March 1925, p. 226).
+sources:
+- Bedfordshire Archives Service, X550/8/1/1607b et 1608, War Diary, 7th (Service) Battalion Bedfordshire Regiment, juillet-août 1916.
+- Miles, Wilfrid, Military Operations, France and Belgium, 1916, vol. II, Londres, Macmillan, 1938, pp. 544-545.
+- Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], p. 119.
+- March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 226.

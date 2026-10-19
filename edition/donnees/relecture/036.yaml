@@ -1,0 +1,90 @@
+cliche: 36
+confiance: moyenne
+changements:
+- ligne: 2
+  avant: Champs d'avoine non encore
+  apres: Champs d'avoine non encore \trait
+  justification: Le délié final de « encore » est tiré jusqu'à la marge ; le trait fin qui coupe « non encore » est un pli ou une réglure du papier, non une rature.
+  confiance: moyenne
+- ligne: 5
+  avant: de la brise. –
+  apres: de la brise –
+  justification: Aucun point entre « brise » et le tiret.
+  confiance: haute
+- ligne: 6
+  avant: (absente)
+  apres: \inc{3} \ill . 1/2h – 60
+  justification: Ligne au crayon gris à droite, au-dessus et en partie sous le filet, omise par l'état antérieur.
+  confiance: moyenne
+- ligne: 7
+  avant: 'A Saint-Pol : ctes ples : 30 c. + [2 f / 25 c ?]'
+  apres: '\sl{A Saint-Pol} : ctes p^{les} : 30 c \hfill + \inc{5}'
+  justification: Trait sous « A Saint-Pol », commencé avant le A ; « les » de p^{les} nettement surélevé ; après la croix, un seul signe, haste descendante à boucle de tête, de même forme que le 5 de « 35 ».
+  confiance: moyenne
+- ligne: 8
+  avant: 'Carte du dépt Somme : 70 c. \hfill Géog. du Pas de Calais : 35 c'
+  apres: 'Carte du dep^{t} Somme : 70 c \add{Géog. du Pas de Calais : \inc{35}}'
+  justification: Aucun accent sur dep ; t surélevé ; l'article Géog. est écrit dans l'interligne au-dessus de « 70 c », non en seconde colonne ; aucun c après 35.
+  confiance: moyenne
+- ligne: 9
+  avant: 1 f 50
+  apres: 1^{f} 50
+  justification: f monétaire petit et surélevé entre 1 et 50.
+  confiance: haute
+- ligne: 10
+  avant: '1 éponge : 60 c. – – 1/4 livre choc Poulain : 1f'
+  apres: '1 Eponge : 60 – – — 1/4 livre choc^{t} Poulain : \inc{f}'
+  justification: E bouclé initial, sans accent ; après 60, deux petits traits puis un tiret long, aucun c ; t surélevé après choc ; au bord droit, un seul tracé pâle.
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: \inc{3} \ill . 1/2h – 60
+  analyse: 'Crayon gris : premier chiffre à petite boucle haute fermée et grande boucle basse (8 aussi probable que 3) ; mot à haste initiale, o, minimes, jambage descendant sous le filet (long ?) ; point ; 1/2 suivi d''un h ; tiret ; 60, puis un tracé en < au bord, peut-être c.'
+  alternatives:
+  - 8 \ill . 1/2h – 60 c
+  - 3 long . 1/2h – 60
+- ligne: 7
+  lemme: + \inc{5}
+  analyse: Croix nette à l'encre noire, puis tracé brun pâle ; point d'attaque en haut, descente oblique sous la ligne, boucle de tête à droite ; même forme que le second chiffre de « 35 » (l. 8) et que le dernier signe de la l. 10.
+  alternatives:
+  - + f
+  - + 5 c
+- ligne: 8
+  lemme: \inc{35}
+  analyse: 3 net, puis signe en ſ à boucle, encre pâle ; aucun c.
+  alternatives:
+  - 3 f
+- ligne: 10
+  lemme: \inc{f}
+  analyse: Après le deux-points, tracé pâle long et oblique, boucle à mi-hauteur à droite, coupé par le bord de la photographie ; aucun 1 distinct.
+  alternatives:
+  - 1f
+  - '5'
+controle:
+- ligne: 0
+  avant: 'date « complément, écrit après le 4 » ; critique : page écrite à la suite de celle du lundi 4 (035)'
+  apres: 'date « (suite) » ; critique : recto du f. 18, avant la page du lundi 4'
+  justification: codicologie.yaml (edition/donnees) place 036 au f. 18 r° (ordre 34) et 035 au f. 18 v° ; seul le verso a été photographié le premier. La page 034 contenait déjà le début du dimanche 3.
+- ligne: 6
+  avant: 3 \ill . 1/2h – 60
+  apres: \inc{3} \ill . 1/2h – 60
+  justification: Zoom ×3 [.55 .79 1.0 .865] ; premier chiffre à boucle haute fermée, aussi proche d'un 8 que d'un 3.
+- ligne: 10
+  avant: 'apparat : Poulain, type autre (marque de chocolat)'
+  apres: (note supprimée)
+  justification: Épuration de l'apparat ; le nom de marque se lit tel quel, l'identification va dans le résumé.
+remarques: Ligne au crayon (l. 6) et signes pâles des l. 7, 8 et 10 (5 en ſ ou f) à revoir sur l'original ; ils se valent mutuellement.
+resume: 'Suite de la journée du dimanche 3 septembre 1916 : Hippolyte Combes note les champs d''avoine encore sur pied, tout jaunes, qui bruissent sous la brise. Le reste de la page est blanc jusqu''aux comptes, précédés d''une ligne au crayon en partie illisible. Les achats faits à Saint-Pol comprennent des cartes postales, une carte du département de la Somme, une Géographie du Pas-de-Calais, du savon de sellerie, une éponge et un quart de livre de chocolat Poulain.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Saint-Pol
+    ligne: 7
+    identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
+  - forme: Somme
+    ligne: 8
+    identite: département de la Somme
+  - forme: Pas de Calais
+    ligne: 8
+    identite: département du Pas-de-Calais
+source: contrôle

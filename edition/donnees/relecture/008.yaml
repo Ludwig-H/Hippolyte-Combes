@@ -1,0 +1,120 @@
+cliche: 8
+confiance: moyenne
+changements:
+- ligne: 3
+  avant: 1/2
+  apres: \fr{1}{2}
+  justification: 'fraction empilée : 1, petite barre, 2 dessous'
+  confiance: haute
+- ligne: 6
+  avant: ménagé installation sommaire.
+  apres: menagé installation sommaire
+  justification: aucun accent sur le premier e ; accent seulement sur la finale ; pas de point après sommaire
+  confiance: moyenne
+- ligne: 10
+  avant: '& de Béthune Parcouru'
+  apres: '& de Bethune — Parcouru'
+  justification: pas d'accent sur le e ; long tiret épais après le nom
+  confiance: haute
+- ligne: 11
+  avant: église & hotel de ville
+  apres: eglise & hotel de ville \ill
+  justification: e initial sans accent ; groupe de traits en fin de ligne non rendu par l'état antérieur
+  confiance: moyenne
+- ligne: 12
+  avant: Retour vers 6 H. — Chaleur accablante —
+  apres: Retour vers 6^{H} – – Chaleur accablante \trait
+  justification: H surélevé, deux tirets courts, long trait de remplissage final
+  confiance: haute
+- ligne: 13
+  avant: 'lait et bière : hier'
+  apres: lait et bière . hier
+  justification: un seul point avant hier
+  confiance: moyenne
+- ligne: 14
+  avant: et aujourd’hui
+  apres: et aujourd hui
+  justification: zoom ×2 [.05 .505 .40 .55] et tuile t4g ; blanc entre aujourd et hui, aucune apostrophe visible
+  confiance: moyenne
+- ligne: 15
+  avant: 'cartes ples : 50 c., 60 c., 0.10 varia'
+  apres: cartes ples . 50c ., 60c ., 0.10 varia
+  justification: point à mi-hauteur avant 50c, point puis virgule après chaque montant
+  confiance: moyenne
+- ligne: 16
+  avant: '" : 4 cartes cuivre M. [Guétin ?] : 1 f 20 c'
+  apres: '" : 4 \inc{pattes} cuivre M. \inc{guetin} : 1^{f} 20c'
+  justification: initiale p à longue haste, non c ; nom à g minuscule bouclé, sans accent ; f monétaire suscrit en petite boucle
+  confiance: moyenne
+difficultes:
+- ligne: 16
+  lemme: pattes
+  analyse: 'zoom ×3 [.22 .58 .62 .635] : p à haste descendante, a, deux hastes sous une longue barre commune (tt), e, finale en crochet qui ressemble plus à r qu''à s (comparer cuivre). « pattes » (fixations de cuivre) ou « patter[es] » = patères abrégé ; les deux conviennent à l''installation du grenier. Le signe précédent est un 4 fermé (4 × 30 c = 1 f 20), non &.'
+  alternatives:
+  - patères
+  - patter
+- ligne: 16
+  lemme: guetin
+  analyse: 'zoom ×3 [.58 .55 1.0 .635] : g minuscule à boucle inférieure, u, e, haste haute (t) dont la barre court au-dessus des lettres suivantes, puis une arche et un jambage terminés en délié. Aucun accent. Le module du g ne permet pas une majuscule.'
+  alternatives:
+  - Guethin
+  - Guetu
+- ligne: 11
+  lemme: de ville \ill
+  analyse: 'zoom ×3 [.58 .34 1.0 .39] : après hotel, ∂ réduit (de), v, deux boucles hautes, a/e (ville), puis deux nouvelles boucles hautes, a et long délié jusqu''à la marge. Aucune lecture sûre ; « la » ou « là » possibles, redoublement de « lle » non exclu.'
+  alternatives:
+  - la
+  - là
+- ligne: 9
+  lemme: assez
+  analyse: a, s court, e, z plongeant ; un seul s apparent (forme proche de l'abréviation asz).
+  alternatives:
+  - asez
+  - asz
+- ligne: 2
+  lemme: asphyxiante
+  analyse: 'zoom ×2 [.50 .04 1.0 .095] : a, s descendant, haste (p/h), i pointé, e, x en croix, a, n, t, e ; le y attendu n''est pas net, la forme peut être « asphixante » ; lecture courante conservée.'
+  alternatives:
+  - asphixante
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: R8 lisait « cartes cuivre » (cartes en héliogravure) ; la lecture « pattes » écarte cette hypothèse. M. Guetin n'est pas identifié.
+  alternatives: []
+controle:
+- ligne: 14
+  avant: et aujourd'hui
+  apres: et aujourd hui
+  justification: blanc entre aujourd et hui, aucune apostrophe sur l'image (zoom ×2)
+- ligne: 16
+  avant: M. \inc{Guetin}
+  apres: M. \inc{guetin}
+  justification: g de forme minuscule (panse + boucle inférieure), au module des minuscules voisines
+- ligne: 10
+  avant: apparat graphie « Bethune »
+  apres: supprimée
+  justification: accent absent seulement, nom reconnaissable
+- ligne: 16
+  avant: '"'' : signe'
+  apres: '"'' : abreviation, M. ajouté'
+  justification: idem et M. sont des abréviations de la table ; apparat épuré des remarques matérielles (encre empâtée, fraction empilée, finales réduites, position de varia)
+remarques: Le lieu de cantonnement (ferme près de Saint-Jans-Cappel) est déduit du contexte des pages voisines.
+resume: Le mardi 1er août 1916, la chaleur reste accablante et Hippolyte Combes, libre toute la journée, s'installe sommairement dans sa mansarde. L'après-midi, il se rend à pied à Bailleul (une demi-heure de trajet), parcourt les rues principales et regarde longuement l'église et l'hôtel de ville, comparant la place à celles d'Hazebrouck et de Béthune. Il rentre vers 6 heures. Ses comptes notent le lait et la bière payés à la fermière, des cartes postales et quatre pièces de cuivre achetées à Bailleul chez un M. Guetin (lecture incertaine).
+noms:
+  personnes:
+  - forme: M. \inc{guetin}
+    ligne: 16
+    identite: commerçant de Bailleul (lecture incertaine)
+  lieux:
+  - forme: Bailleul
+    ligne: 7
+    identite: Bailleul (Nord)
+  - forme: Bailleul
+    ligne: 15
+    identite: Bailleul (Nord)
+  - forme: Hazebrouck
+    ligne: 9
+    identite: Hazebrouck (Nord)
+  - forme: Bethune
+    ligne: 10
+    identite: Béthune (Pas-de-Calais)
+source: contrôle

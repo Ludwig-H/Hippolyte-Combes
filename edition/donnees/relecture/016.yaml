@@ -1,0 +1,153 @@
+cliche: 16
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 10 Jeudi. \hfill Aout / 16 –
+  apres: 10 \sl{Jeudi.} \hfill Aout /16 –
+  justification: trait de soulignement partant de la boucle du J sous tout le mot ; le trait entre Aout et 16 est la barre du t prolongée jusqu'au /
+  confiance: haute
+- ligne: 2
+  avant: matinée et partie soirée
+  apres: matinée \del{et partie} soirée
+  justification: 'trait horizontal mince et rectiligne commençant à gauche du e de « et » et finissant contre le s de « soirée » : rature, non barre de t'
+  confiance: moyenne
+- ligne: 4
+  avant: agréable
+  apres: agreable
+  justification: aucun accent visible sur le e
+  confiance: moyenne
+- ligne: 5
+  avant: légèrt
+  apres: \inc{lgt}
+  justification: seuls l, g descendant et t barré se distinguent, sans voyelles intermédiaires ; mot repassé à l'encre noire
+  confiance: basse
+- ligne: 7
+  avant: ⟦Maur⟧ Sailly
+  apres: \sur{Maur}{Sailly}
+  justification: « Maur » à l'encre n'est pas biffé ; « Sailly » au crayon gris est écrit sur lui, non à la suite
+  confiance: haute
+- ligne: 8
+  avant: kilm.
+  apres: \inc{kilom.}
+  justification: 'après k et i : l court, o/a, jambage descendant (m), puis point haut en virgule'
+  confiance: moyenne
+- ligne: 9
+  avant: brûlée par les Boches
+  apres: brulée par les \inc{Boches}
+  justification: pas de circonflexe sur le u ; Boches repassé et noyé
+  confiance: moyenne
+- ligne: 13
+  avant: Arrêté à écluse
+  apres: Arreté à ecluse
+  justification: aucun circonflexe sur le premier e d'Arreté ; aucun accent sur le e initial d'ecluse (grand e bouclé)
+  confiance: moyenne
+- ligne: 14
+  avant: lgt av. l'éclusier de notre gal
+  apres: lgt avec l'eclusier de notre genl
+  justification: a + v + e + c en long délié, sans point ; g-e-n (deux jambages) puis grand l bouclé remontant vers la l. 13
+  confiance: moyenne
+- ligne: 17
+  avant: fenêtre
+  apres: fenêtre –
+  justification: petit tiret détaché après le mot
+  confiance: haute
+- ligne: 18
+  avant: Estaires
+  apres: Estaire
+  justification: le e final se prolonge en délié jusqu'au &, sans s
+  confiance: moyenne
+- ligne: 20
+  avant: 'Ctes ples : 1 f. — Lait : 50 c'
+  apres: '\ind C^{tes} p^{les} : 1 fr — Lait : 50 c \trait'
+  justification: 'finales -tes, -les surélevées ; après 1 : f oblique sans boucle puis petit r, puis tiret ondulé détaché ; le c de 50 c se prolonge jusqu''à la marge ; ligne en retrait sous le filet'
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: et partie
+  analyse: trait continu de x≈.62 à .90 au niveau des têtes de lettres, débordant à gauche du e de « et » et jusque sur « soirée » ; zoom ×2 confirme une rature, non une barre de t
+  alternatives:
+  - matinée et partie soirée (barre de t prolongée)
+- ligne: 5
+  lemme: lgt
+  analyse: boucle haute (l), jambage descendant (g), t à barre longue ; empâtement noir ; même forme qu'à la l. 14 (longtemps), mais « légèrement » convient mieux à « pluie fine »
+  alternatives:
+  - légèrt
+  - lgs
+- ligne: 8
+  lemme: kilom.
+  analyse: k à haste bouclée, i à point en tiret, l bref, o, m à finale descendante, point en virgule haute
+  alternatives:
+  - kilm.
+  - kilo.
+- ligne: 9
+  lemme: Boches
+  analyse: B haut, o, c, h à haste ; finale plongeante (s ?) noyée dans la reprise d'encre (zoom ×3 [.78 .32 1 .40])
+  alternatives:
+  - Boch.
+  - Bochs
+- ligne: 14
+  lemme: genl
+  analyse: g à boucle, e, n à deux jambages, puis l très haut bouclé à x≈.95 entre les l. 13 et 14 (zoom ×3)
+  alternatives:
+  - gal
+  - génl
+- ligne: 17
+  lemme: soleil
+  analyse: s-o-l-e-i (point du i net) puis la haste épaisse du T de « Très » descend jusqu'à la l. 18 ; aucune boucle de l distincte (zoom ×3 [0 .68 .30 .74])
+  alternatives:
+  - solei
+- ligne: 20
+  lemme: 1 fr
+  analyse: 1 appuyé, puis trait oblique long à crochet de tête (f sans boucle) et petit r ; tiret ondulé détaché
+  alternatives:
+  - 1 f
+  - 1^{f} r
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Le commentateur lit « causé … de notre genl en chef, Maxse » comme « parlé de Maxse » : retenu (causer de = parler de), le résumé est corrigé. La Croix-du-Bac n''est pas nommée sur la page : non ajoutée aux lieux. Estaires et Hazebrouck figurent dans « noms ».'
+  alternatives: []
+controle:
+- ligne: 17
+  avant: soleil
+  apres: \inc{soleil}
+  justification: aucune boucle de l final distincte de la haste du T de « Très » qui traverse la ligne
+- ligne: 5
+  avant: 'apparat : « sans doute pour légèrement (le sens exclut longtemps) »'
+  apres: 'apparat : longtemps ou légèrement'
+  justification: lgt vaut longtemps à la l. 14 et dans la table ; le sens ne l'exclut pas, seul il favorise légèrement
+- ligne: 14
+  avant: 'résumé : « cause longuement avec l''éclusier du général Maxse »'
+  apres: 'résumé : « cause longuement avec l''éclusier de « notre général en chef », Maxse »'
+  justification: suit la remarque du commentateur ; « de » peut valoir « au sujet de », le résumé ne tranche plus en faveur d'un éclusier attaché au général
+- ligne: 18
+  avant: (pas d'entrée)
+  apres: 'apparat : & = et'
+  justification: chaque abréviation reçoit son développement
+- ligne: 0
+  avant: apparat et critique détaillés
+  apres: notes épurées
+  justification: justifications paléographiques retirées de l'apparat (rature l. 2, surcharge l. 7, genl l. 14)
+remarques: Le crayon de « Sailly » (l. 7) est sans doute une correction postérieure. Plusieurs reprises à l'encre noire sur fond d'encre brune. « causé … de notre genl » s'entend « parlé de notre général ».
+resume: 'Jeudi 10 août 1916 : pluie fine et intermittente, agréable pour marcher le long des routes arrosées. L''après-midi, Hippolyte Combes va à pied jusqu''au village de Sailly-sur-la-Lys, à 3 ou 4 km, sans dépasser le pont ; il remarque l''église brûlée par les Allemands, dont il ne reste que les murs et le haut clocher. Au retour, le long des berges de la Lys, il s''arrête à l''écluse et cause longuement avec l''éclusier de « notre général en chef », Maxse. Il contemple de sa fenêtre un beau coucher de soleil vers Estaires et Hazebrouck ; note isolée sur les Australiens. Dépenses : cartes postales 1 franc, lait 50 centimes.'
+noms:
+  personnes:
+  - forme: Maxse
+    ligne: 15
+    identite: général Ivor Maxse, commandant la 18th Division britannique
+  - forme: Les Australiens
+    ligne: 19
+    identite: troupes australiennes du secteur de Fleurbaix–Sailly
+  lieux:
+  - forme: Maur
+    ligne: 7
+    identite: Bac-Saint-Maur (Pas-de-Calais), leçon surchargée
+  - forme: Sailly s/ la Lys
+    ligne: 7
+    identite: Sailly-sur-la-Lys (Pas-de-Calais)
+  - forme: Estaire
+    ligne: 18
+    identite: Estaires (Nord)
+  - forme: Hazebrouck
+    ligne: 18
+    identite: Hazebrouck (Nord)
+source: contrôle

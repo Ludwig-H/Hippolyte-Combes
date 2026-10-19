@@ -1,0 +1,157 @@
+cliche: 114
+confiance: haute
+changements:
+- ligne: 1
+  avant: 25 Lundi. \hfill Décbre 1916
+  apres: \sl{25 Lundi.} \hfill \sl{Dec^{b} 1916}
+  justification: après Dec, un seul b en forme de h, nettement surélevé (base au-dessus de celle du c), sans re ; aucun accent sur l'e (le point au-dessus du c est une impureté du papier) ; les deux parties sont soulignées
+  confiance: haute
+- ligne: 3
+  avant: Tjrs
+  apres: \inc{Tjours}
+  justification: Tjrs n'existe pas chez Combes ; sous le pâté, T à barre et j descendant, puis quatre bosses de lettres (ours) ; sous suit en minuscule, le mot appartient donc à la phrase et n'est pas biffé
+  confiance: moyenne
+- ligne: 4
+  avant: hier après-midi.
+  apres: hier après-midi
+  justification: rien sur la ligne de base après midi ; le point au-dessus est celui de l'i ; le « ? » et les signes voisins appartiennent à la l. 5
+  confiance: haute
+- ligne: 5
+  avant: Dois-je faire 1 rapport à Mission frse?
+  apres: Dois je faire 1 rapport à Mission fr^{se} ? \inc{?!}
+  justification: 'aucun trait d''union entre Dois et je ; s et e nettement suscrits après fr ; après le « ? », deux signes que l''état antérieur omettait (crochet en ʌ et trait droit, points sur la ligne de base) : « ?! »'
+  confiance: moyenne
+- ligne: 13
+  avant: 'concert : chansons'
+  apres: concert. chansons
+  justification: un seul point rond sur la ligne de base, rien au-dessus (zoom ×2,5)
+  confiance: haute
+- ligne: 14
+  avant: saynètes — —
+  apres: saynètes – –
+  justification: deux traits courts (≈ 0,02 et 0,008 de la largeur) contre ≈ 0,05 pour les tirets longs de la page (l. 8, 17)
+  confiance: moyenne
+- ligne: 15
+  avant: '[ — Washing : 80 c. ]'
+  apres: '[— Washing : 80c.'
+  justification: le tiret part de la haste du crochet ; c accolé au 0 ; point à mi-hauteur ; aucun crochet fermant
+  confiance: haute
+- ligne: 16
+  avant: compl.
+  apres: comp^{t}
+  justification: c, o ouvert, m, p à longue haste, puis liaison montant à un t barré dont le pied reste au-dessus de la ligne ; ni boucle d'l ni point
+  confiance: haute
+- ligne: 17
+  avant: équilibre.
+  apres: équilibre. —
+  justification: après le point, tiret long net à mi-hauteur (x ≈ 0,54–0,57)
+  confiance: haute
+- ligne: 18
+  avant: Vers 9h s., quitté Cap. Williams
+  apres: Vers 9^{H} s., quitté Cap. William
+  justification: H à deux hastes et traverse, au-dessus de la panse du 9 ; s du soir réduit à un trait (aspect 1) ; le nom finit sur m prolongé en long délié horizontal, sans crochet ni boucle de s
+  confiance: haute
+- ligne: 19
+  avant: Y.M.C.A. hut
+  apres: Y.M.C.A hut
+  justification: aucun point après A ; la boucle mince entre A et hut est le jambage du premier g de regagné (l. 18), et la haste au-dessus de hut celui du second g
+  confiance: haute
+- ligne: 20
+  avant: recommencé.
+  apres: recommencé –
+  justification: trait horizontal (≈ 0,013 de la largeur) au niveau de la ligne de base, plus long que les points de la page ; la grande boucle intermédiaire est le jambage de l'Y de la l. 19
+  confiance: moyenne
+- ligne: 22
+  avant: froid —
+  apres: froid –
+  justification: trait court (≈ 0,02 de la largeur) à mi-hauteur
+  confiance: moyenne
+- ligne: 23
+  avant: Gd silence, nuit. Nul écho de canonnade.
+  apres: gd silence nuit. Nul écho de canonnade
+  justification: g minuscule (panse à hauteur d'œil, long jambage bouclé) ; le délié de silence se recourbe sans levée de plume et le petit trait avant nuit est l'attaque du n ; aucun point après canonnade
+  confiance: moyenne
+difficultes:
+- ligne: 5
+  lemme: \inc{?!}
+  analyse: 'zoom ×3 [.86 .10 1.0 .18] : premier « ? » (crochet soudé au bas du d de midi, longue tige, point à x ≈ 0,893, y ≈ 0,158) ; puis crochet épais en ʌ (x ≈ 0,943–0,96, y ≈ 0,123–0,137) et trait droit à attaque appuyée (x ≈ 0,971–0,981, y ≈ 0,121–0,145) ; points à (0,932 ; 0,159) et (0,955 ; 0,168), chacun en bas à gauche de son trait comme le veut la pente de l''écriture, sur la ligne de base de la l. 5. Trois traits, trois points : « ? ?! ». La lecture « ni » laisse les points sans emploi et ne donne aucun sens'
+  alternatives:
+  - ?!
+  - ni
+- ligne: 3
+  lemme: \inc{Tjours}
+  analyse: 'pâté couvrant le mot ; contour : T à barre de tête, j descendant sous la ligne, puis quatre bosses sur la longueur de sous ; Tjs serait deux fois plus court ; guide § 8, piège 23'
+  alternatives:
+  - Tjours
+  - Tjs
+- ligne: 16
+  lemme: comp^{t}
+  analyse: 'c, o ouvert (aspect r), m, p à longue haste, puis t barré dont le pied est ≈ 0,5 œil au-dessus de la ligne ; aucune boucle d''l : un l confondu avec la haste du t n''est pas tout à fait exclu'
+  alternatives:
+  - comp^{t}
+  - compl^{t}
+- ligne: 18
+  lemme: William
+  analyse: C majuscule de Cap. (deux fois la hauteur de l'a, contre cap. minuscule à la l. 4) ; W, i, ll, i, a, m, puis long délié horizontal sans crochet ni boucle de s ; ailleurs Williams, Cap. W., W^{m}
+  alternatives:
+  - William
+  - Williams
+- ligne: 1
+  lemme: Dec^{b}
+  analyse: D, e, c à tête crochue (aspect ε), b en h dont l'arche finit en crochet, base nettement au-dessus de celle du c ; aucune ondulation finale qui vaudrait re (cf. Dec^{bre} ailleurs)
+  alternatives:
+  - Dec^{b}
+  - Dec^{bre}
+- ligne: 21
+  lemme: étoilé.
+  analyse: après l'accent décalé de l'é, petit point à mi-hauteur (x ≈ 0,515, y ≈ 0,798), plus fin que les autres points de la page
+  alternatives:
+  - étoilé.
+  - étoilé
+controle:
+- ligne: 5
+  avant: '? \ill'
+  apres: '? \inc{?!}'
+  justification: 'zoom ×3 : trois traits (crochet du « ? », crochet en ʌ, trait droit) et trois points sur la ligne de base de la l. 5, chaque point en bas à gauche de son trait selon la pente ; le « point en tête » du trait droit est son attaque ; « ? ?! » emploie tous les tracés, « ni » non'
+- ligne: 3
+  avant: une note lecture unique (développement et analyse mêlés)
+  apres: note abreviation « toujours » + note lecture brève
+  justification: développement séparé de la justification ; détail du contour reporté dans difficultes
+- ligne: 1
+  avant: notes disposition sur les soulignements ; remarque sur l'accent absent de Dec^{b}
+  apres: supprimées
+  justification: le balisage \sl{} rend les soulignements ; un accent absent ne reçoit pas de note
+- ligne: 3
+  avant: notes lecture sur l'impression, fâcheux (l. 3), après-midi (l. 4), Dois je (l. 5), du (l. 6) ; disposition Hanté (l. 6)
+  apres: supprimées
+  justification: justifications paléographiques sans difficulté réelle ; l'alinéa est rendu par \ind
+- ligne: 8
+  avant: notes signe ou lecture sur la ponctuation (l. 8, 11, 13, 14, 17, 20, 22, 23) ; précisions graphiques dans les notes de Margte, ct., fr^{se}, comp^{t}, 9^{H} s., William, Y.M.C.A, merveillt, gd
+  apres: supprimées ou réduites au développement
+  justification: la transcription balisée rend les signes ; les justifications vont dans changements et difficultes
+- ligne: 16
+  avant: 'comp^{t} : note abreviation seule'
+  apres: note abreviation + note lecture brève
+  justification: lecture nouvelle par rapport à l'état antérieur (compl.)
+- ligne: 19
+  avant: changement Y.M.C.A. → Y.M.C.A non consigné
+  apres: consigné dans changements
+  justification: divergence réelle avec l'état antérieur, vérifiée au zoom
+remarques: 'Le propos du capitaine est la « gaffe » du 24 décembre à Louvencourt (cliché 112 : « Bloody France etc. ! », hésitation à la rapporter à la French Mission). Les trois points au-dessus de « du » (l. 6) sont ceux des signes finaux de la l. 5, non des points d''i.'
+resume: Le lundi 25 décembre 1916, jour de Noël que la page ne nomme pas, Hippolyte Combes sort d'une nuit d'insomnie, toujours sous le coup du propos fâcheux tenu la veille à Louvencourt par son capitaine (Williams), et se demande s'il doit en faire rapport à la Mission française ; une lettre de Marguerite du 17 le hante aussi. Par un temps affreux (averses, vent de tempête), il passe une journée de repos dans sa chambre et se rassérène peu à peu. L'après-midi, il assiste dans la baraque du Y.M.C.A. à un concert de chansons comiques et de saynètes ; il note 80 c de blanchissage. Le soir, ayant retrouvé calme et équilibre, il quitte vers 9 h le capitaine Williams et regagne sa chambre, entrant quelques minutes au Y.M.C.A., où le concert a repris ; ciel étoilé, temps doux, grand silence de la nuit sans écho de canonnade.
+noms:
+  personnes:
+  - forme: cap.
+    ligne: 4
+    identite: 'le capitaine Williams, chef britannique de Combes (sa « gaffe » du 24 décembre chez Mme Cuisinier à Louvencourt : « Bloody France », cliché 112)'
+  - forme: Margte
+    ligne: 6
+    identite: Marguerite Calmels, fiancée de Combes
+  - forme: Cap. William
+    ligne: 18
+    identite: le capitaine Williams
+  lieux:
+  - forme: Louvencourt
+    ligne: 4
+    identite: Louvencourt (Somme)
+source: contrôle

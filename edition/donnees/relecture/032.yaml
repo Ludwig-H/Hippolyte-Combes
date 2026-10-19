@@ -1,0 +1,185 @@
+cliche: 32
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 31 J. – Enfin, belle journée. – \hfill Aout / 16
+  apres: 31 \sl{J} – Enfin, belle journée – \hfill \sl{Aout/16}
+  justification: aucun point après J ni après journée ; J et le millésime soulignés ; la virgule au-dessus de « ardent – transformé » appartient à la l. 1 (après Enfin)
+  confiance: haute
+- ligne: 2
+  avant: transformt
+  apres: transformé
+  justification: après form, e final surmonté d'une barre horizontale = accent, identique à celles de Remarqué (l. 12) et Rentré (l. 16) ; aucun t
+  confiance: moyenne
+- ligne: 5
+  avant: Ramecourt
+  apres: \inc{Ramecourt}
+  justification: 'p2 : lettres médianes écrasées (R + deux minimes + tracé en y + c, u, n, t) ; lecture appuyée par la topographie seulement'
+  confiance: moyenne
+- ligne: 6
+  avant: St. Michel-s-Ternoise. puis
+  apres: St-Michel-de-Ternoize – puis
+  justification: 'trait bas après St ; tiret avant puis. p2 : le mot entre les traits d''union a exactement le tracé du « de » de « village de » (∂ à panse basse + e) ; z à barre de tête horizontale, non un s'
+  confiance: moyenne
+- ligne: 7
+  avant: gde route Arras. St. Pol.
+  apres: g^{d}-route – Arras. St-Pol.
+  justification: g suivi d'un petit d surélevé, sans e, puis trait d'union ; tiret bas devant Arras
+  confiance: haute
+- ligne: 9
+  avant: sous-préf[re ?] de 5000 habts
+  apres: sous-pref^{re} de de – 5000 hab^{ts}
+  justification: re suscrit après pref (aucun accent visible) ; deux « de » distincts ; tiret haut détaché du 5 (qui a son propre drapeau) ; ts surélevé après hab
+  confiance: moyenne
+- ligne: 10
+  avant: gde
+  apres: gd-place
+  justification: g + d bouclé, sans e, relié à place par un trait de base
+  confiance: moyenne
+- ligne: 12
+  avant: (1697). –
+  apres: (1697 –
+  justification: parenthèse ouvrante seule (en O), aucun point, tiret bas après 7
+  confiance: haute
+- ligne: 13
+  avant: rappelant que
+  apres: rappelant que —
+  justification: tiret long isolé à droite après que
+  confiance: haute
+- ligne: 14
+  avant: bienh Benoît Labre – passa
+  apres: bienh^{x} Benoît Labre \inc{y} passa
+  justification: 'x en croix surélevé après bienh ; avant passa, point puis trait horizontal retombant sous la ligne, non un tiret : y (Labre y passa la nuit)'
+  confiance: moyenne
+- ligne: 15
+  avant: ds cette = église
+  apres: \inc{ds} cette = eglise \trait
+  justification: le mot a l'aspect de « de » ; e initial sans accent ; long trait final
+  confiance: moyenne
+- ligne: 18
+  avant: '12 ctes ples : 50 c — Varia : [10/40 ?] c'
+  apres: 'A Saint-Pol : 12 ctes ples : 50c — \hfill Varia : \inc{10}c'
+  justification: 1 à trait d'attaque + trait haut étroit ; pas de panse de 4 comparable au 40 de la l. 20 ; A à la même marge que Carte (pas d'alinéa)
+  confiance: basse
+- ligne: 19
+  avant: 0 f [50 ?]
+  apres: 0\sur{5}{8}0
+  justification: aucun f ; 8 très appuyé sur un chiffre à drapeau en tête (5 ?), suivi de 0 ; le montant est répété 080 au-dessous
+  confiance: moyenne
+- ligne: 20
+  avant: '\hfill [compte ajouté : 0.80]'
+  apres: \hfill \addm{080}
+  justification: 'trait en équerre (L) puis 080, encre plus pâle et plume fine, sous le montant de la l. 19 : récriture en clair, non un total (le total serait au moins 2 f 40)'
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: 31 J
+  analyse: le trait de soulignement part sous le 1 et couvre J ; un petit tiret haut suit J ; Enfin à E bouclé
+  alternatives:
+  - \sl{31 J}
+- ligne: 3
+  lemme: Après-midi
+  analyse: Apr + è (accent en pâté) puis trait d'union ; le s final n'est pas distinct, peut-être fondu dans la boucle de l'e
+  alternatives:
+  - Aprè-midi
+- ligne: 5
+  lemme: Ramecourt
+  analyse: 'zoom ×3 : R bouclé, deux minimes (a ouvert ?), tracé en y (m écrasé ?), puis c, u, n, t ; aucune hampe de l, ce qui exclut Roëllecourt proposé par le commentateur ; Ramecourt (contigu à Saint-Pol au sud) reste la lecture la plus économique'
+  alternatives:
+  - Ravecourt
+- ligne: 6
+  lemme: de
+  analyse: tracé identique au « de » de « village de » sur la même ligne (∂ à panse basse + e) ; un s montant (sur) n'aurait pas de panse ; probable lapsus pour sur
+  alternatives:
+  - s
+- ligne: 6
+  lemme: Ternoize
+  analyse: après Ternoi, z à barre de tête horizontale et descente oblique, puis e ; aucune forme de s du guide
+  alternatives:
+  - Ternoise
+- ligne: 9
+  lemme: de de – 5000
+  analyse: premier de petit, second plus grand ; le tiret haut est séparé du 5, qui porte son propre drapeau
+  alternatives:
+  - de de 5000
+- ligne: 12
+  lemme: intérieur
+  analyse: longue barre du t couvrant -erie- ; l'accent peut y être fondu
+  alternatives:
+  - interieur
+- ligne: 14
+  lemme: y
+  analyse: point haut, puis trait horizontal qui retombe verticalement sous la ligne ; forme réduite du y
+  alternatives:
+  - –
+  - à
+- ligne: 15
+  lemme: ds
+  analyse: '∂ suivi d''un petit crochet à délié : même aspect que de ; « dans » exigé par le sens'
+  alternatives:
+  - de
+- ligne: 18
+  lemme: '10'
+  analyse: 'zoom ×3 : 1 à long trait d''attaque, puis trait haut et étroit lié en bas, montant au-dessus de l''œil (non un 0 rond comme dans 50c, 70c) ; un 4 ouvert (diagonale + haste) est possible ; aucune somme pour trancher'
+  alternatives:
+  - '4'
+  - '11'
+  - '40'
+- ligne: 19
+  lemme: 0\sur{5}{8}0
+  analyse: 0 net, puis chiffre noyé d'encre à petite boucle haute (8) recouvrant un chiffre à drapeau horizontal en tête (5 ?), puis 0 en crosse
+  alternatives:
+  - 0 80
+  - 0 50
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Roëllecourt proposé à la place de Ramecourt : exclu par l''image (aucune hampe de l). L''église est datée de 1682 par Mérimée contre « 1697 » chez Combes (chiffres nets sur l''image) ; le passage de Labre en mars 1767 (chiffres nets) n''est attesté nulle part ailleurs ; « Varia : 10c » reste douteux.'
+  alternatives: []
+controle:
+- ligne: 5
+  avant: Ramecourt
+  apres: \inc{Ramecourt}
+  justification: lettres médianes écrasées (R + deux minimes + tracé en y + court) ; Roëllecourt exclu (aucune hampe de l), mais la lecture n'est pas assurée lettre à lettre
+- ligne: 6
+  avant: St-Michel-s-Ternoise
+  apres: St-Michel-de-Ternoize
+  justification: 'zoom ×3 : le mot entre les traits d''union a le tracé exact du « de » de « village de » (∂ + e), non un s ; la lettre après Ternoi est un z à barre de tête horizontale'
+- ligne: 9
+  avant: de de 5000
+  apres: de de – 5000
+  justification: tiret haut nettement séparé du 5, qui a son propre drapeau
+- ligne: 18
+  avant: \ind A Saint-Pol
+  apres: A Saint-Pol
+  justification: A aligné sur le C de Carte (l. 19) et de Cartes (l. 20) ; aucun alinéa
+- ligne: 18
+  avant: 1 à trait d'attaque suivi d'un trait haut et étroit (0 écrasé ?) ; 40 possible
+  apres: 1 à trait d'attaque suivi d'un trait haut et étroit ; 4 ouvert ou 11 possibles
+  justification: le second tracé monte au-dessus de l'œil et n'a rien du 0 rond de 50c ou 70c ; \inc{10} maintenu
+remarques: Pas de total des comptes. Fantômes du verso visibles au bas de la page.
+resume: Le 31 août 1916, par une belle journée enfin ensoleillée, Hippolyte Combes va à pied jusqu'à Saint-Pol par le plateau de Ramecourt et Saint-Michel-sur-Ternoise, puis par la grand-route d'Arras. Il décrit la petite sous-préfecture de 5000 habitants, ses rues en pente et l'église de briques rouges de style hollandais (1697), où une plaque rappelle que Benoît Labre y passa une nuit en prière en mars 1767. Il rentre par Ostreville, ragaillardi par la course. Il note ses achats de cartes postales et une carte du département.
+noms:
+  personnes:
+  - forme: Benoît Labre
+    ligne: 14
+    identite: saint Benoît-Joseph Labre (1748-1783), pèlerin mendiant né à Amettes, près de Saint-Pol
+  lieux:
+  - forme: St-Pol
+    ligne: 3
+    identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
+  - forme: Ramecourt
+    ligne: 5
+    identite: Ramecourt (Pas-de-Calais)
+  - forme: St-Michel-de-Ternoize
+    ligne: 6
+    identite: Saint-Michel-sur-Ternoise (Pas-de-Calais)
+  - forme: Arras
+    ligne: 7
+    identite: Arras (Pas-de-Calais)
+  - forme: Ostreville
+    ligne: 16
+    identite: Ostreville (Pas-de-Calais)
+  - forme: Saint-Pol
+    ligne: 18
+    identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
+source: contrôle

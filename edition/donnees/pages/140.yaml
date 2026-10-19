@@ -1,0 +1,94 @@
+cliche: 140
+fichier: 20251126_110353.jpg
+date: 'Samedi 3 février 1917 (suite : comptes)'
+mois: Février 1917
+lieux: Toulouse (Haute-Garonne) ; Béziers et Bédarieux (Hérault) ; Millau (Aveyron)
+titre: 'Comptes du 3 février 1917 : dentiste, étrennes, trams, billets et buffet de Bédarieux'
+transcription: |
+  \sl{Sam. 3} — \hfill \sl{Fev. 17}
+  – Dentiste M. de Lersay, 1 grand nettoyage
+  et 3 plombages : \inc{40}^{f} — net : 25 —
+  \droite – Broche A.P.C : 3^{f}
+  – Trams à Toulouse : 20c., + 20c
+  – Enregt bagages de Margte : 10c
+  – Etrenne à Marie : 5^{f} —
+  – Supplément pour m'être declassé en 2^{e} : 1^{f} —
+  – Billet \fr{1}{2} pl. Béziers . Millau : 1 80
+  – Buffet de Bedarieux : 6 75 + 25c
+  \filet
+  \blanc{10}
+apparat:
+- ligne: 1
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 1
+  lemme: Fev.
+  type: abreviation
+  note: février
+- ligne: 1
+  lemme: '17'
+  type: abreviation
+  note: '1917'
+- ligne: 2
+  lemme: M.
+  type: abreviation
+  note: Monsieur
+- ligne: 2
+  lemme: Lersay
+  type: lecture
+  note: 'Lersay, comme en 138 ; le s plonge sous la ligne ; autre lecture : Lezay'
+- ligne: 3
+  lemme: '40'
+  type: lecture
+  note: 'premier chiffre fermé, de même forme que le 2 de 25c (l. 10) ; 40 retenu, le prix net étant de 25 ; autre lecture : 20'
+- ligne: 3
+  lemme: 'net : 25'
+  type: compte
+  note: prix net payé, 25 f
+- ligne: 4
+  lemme: 3^{f}
+  type: abreviation
+  note: 3 francs ; de même 40^{f} (l. 3), 5^{f} (l. 7), 1^{f} (l. 8)
+- ligne: 4
+  lemme: A.P.C
+  type: abreviation
+  note: sigle non résolu
+- ligne: 4
+  lemme: '– Broche A.P.C : 3^{f}'
+  type: disposition
+  note: ligne serrée dans la moitié droite, entre les l. 3 et 5
+- ligne: 5
+  lemme: Trams
+  type: abreviation
+  note: tramways
+- ligne: 5
+  lemme: 20c
+  type: abreviation
+  note: 20 centimes ; de même 10c (l. 6), 25c (l. 10)
+- ligne: 6
+  lemme: Enregt
+  type: abreviation
+  note: enregistrement
+- ligne: 6
+  lemme: Margte
+  type: abreviation
+  note: Marguerite
+- ligne: 8
+  lemme: 2^{e}
+  type: abreviation
+  note: deuxième (classe)
+- ligne: 9
+  lemme: \fr{1}{2} pl.
+  type: abreviation
+  note: demi-place
+- ligne: 10
+  lemme: 6 75 + 25c
+  type: compte
+  note: 6 f 75 + 25 c, soit 7 f
+critique: Page de comptes à l'encre violette, qui clôt la journée du 3 février commencée au f.~69~v\textsuperscript{o} ; chaque poste est ouvert par un court tiret, la ligne de la broche est serrée à droite entre les deux lignes voisines. Un filet sur toute la largeur ferme la liste ; le bas de la page est resté blanc.
+historique: |
+  Le dentiste « M. de Lersay », qui a soigné Combes la veille rue La Fayette (f.~69~r\textsuperscript{o}), n'est pas identifié (« de Lezay » ?) ; le motif de la réduction à 25 f « net » n'est pas dit. « Marie », gratifiée au départ de Sainte-Marie, est sans doute la bonne des Crouzet, nommée « Maria » en octobre (f.~32~r\textsuperscript{o}). Permissionnaire, Combes paie un tarif réduit, comme le quart de place de septembre 1916 (f.~27~r\textsuperscript{o} ; Lafon 1922, p.~37) : pour quelque 120~km, le billet « 1/2 pl. » de Béziers à Millau (1 f 80) reste très en deçà du plein tarif, que le Baedeker fixe à 18 f 50 en 3\textsuperscript{e} classe pour les 374~km de Clermont à Béziers (Baedeker 1914, p.~282). Le sens du « supplément » pour s'être « declassé en 2\textsuperscript{e} » demeure incertain, le « petit train » de Béziers n'ayant « pas de 2ème » (f.~69~v\textsuperscript{o}). Sur la ligne des Causses, Bédarieux avait un « Hôt. Terminus \& Buffet » (Baedeker 1914, p.~287) : les 7 f paient sans doute le dîner des deux voyageurs, partis de Béziers à 17~h~23.
+sources:
+- Baedeker, K., Southern France including Corsica. Handbook for Travellers, 6e éd., Leipzig, K. Baedeker, 1914, R. 38, p. 282 et 287.
+- Lafon, G., Les Chemins de fer français pendant la guerre, thèse de droit, Paris, A. Rousseau, 1922, p. 37.

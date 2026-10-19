@@ -1,0 +1,93 @@
+cliche: 71
+fichier: 20251126_103913.jpg
+date: Mardi 10 octobre 1916
+mois: Octobre 1916
+lieux: Barlette (Ribeaucourt, Somme)
+titre: Chargement de luzerne (green forage) en lisière des bois d'automne ; nuit de pleine lune
+transcription: |
+  \sl{Mardi 10} \hfill Oct^{bre} \sl{1916}
+  \ind[2] Enfin, très belle journée.
+  matin & après-midi, occupé pour green
+  forage. Conduit fourragères ds les
+  champs. Tout en surveillant le
+  chargement, assis s/ 1 botte de
+  luzerne – et rempli yeux vue
+  des bois. Devant moi, à qq 40 ou 50
+  mètres, lisière foret arbres
+  massés les 1 à côté des autres
+  très belles teintes que le soleil rendait
+  + eclatantes et qui se détachaient
+  sur le ciel bleu –
+  \ind[2] Comme ts les soirs, nuit
+  merveilleuse. Lune pleine
+  brillant d'1 vive lueur, ds l'immensité
+  firmament. qq rares étoiles
+  gde paix épandue \trait
+apparat:
+- ligne: 1
+  lemme: Oct^{bre}
+  type: abreviation
+  note: octobre (finale suscrite réduite à une ondulation)
+- ligne: 3
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 3
+  lemme: green
+  type: emprunt
+  note: 'green forage (l. 3-4) : fourrage vert'
+- ligne: 4
+  lemme: forage
+  type: emprunt
+  note: angl. forage, fourrage (suite de green forage)
+- ligne: 4
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 6
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 6
+  lemme: 1 botte
+  type: abreviation
+  note: une botte
+- ligne: 8
+  lemme: qq
+  type: abreviation
+  note: quelque (environ)
+- ligne: 10
+  lemme: les 1
+  type: abreviation
+  note: les uns
+- ligne: 12
+  lemme: +
+  type: abreviation
+  note: plus
+- ligne: 14
+  lemme: ts
+  type: abreviation
+  note: tous
+- ligne: 16
+  lemme: d'1
+  type: abreviation
+  note: d'une
+- ligne: 16
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 17
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 18
+  lemme: gde
+  type: abreviation
+  note: grande
+historique: |
+  Le \textit{green forage} est la ration d'appoint des chevaux : le \textit{Field Service Pocket Book} range la luzerne parmi les « green foods », avec le ray-grass, le sainfoin et le trèfle (FSPB 1914, chap.~6, « Forage », § 20), et le fourrage vert pouvait être distribué « in lieu of part of the hay ration » (\textit{Veterinary Services} 1925, p.~566). Combes en a déjà conduit la récolte à Saint-Jans-Cappel et à Raincheval (voir f.~3 v\textsuperscript{o} et 22 v\textsuperscript{o}) ; la luzerne était sans doute payée aux cultivateurs. Les « fourragères » sont sans doute les voitures de la compagnie, \textit{limber} et \textit{G.S. wagons} que Combes nomme le 12 (voir f.~37 r\textsuperscript{o}). La lisière boisée est celle du massif du bois de Ribeaucourt et du bois Monsieur-de-Berny, contre lequel s'adosse Barlette (voir f.~35 v\textsuperscript{o}). La « très belle journée » suit les bourrasques des 7 et 8 octobre (voir f.~34 v\textsuperscript{o}). La pleine lune tomba le 11 octobre 1916 vers 7 h, temps universel (calendrier lunaire 1916).
+sources:
+- Field Service Pocket Book, 1914, London, HMSO, 1914, chap. 6, « Forage », § 20.
+- Blenkinsop, L. J., et Rainey, J. W. (éd.), Veterinary Services (History of the Great War based on Official Documents), London, HMSO, 1925, p. 566.
+- Région Hauts-de-France, Inventaire général du patrimoine culturel, dossier « Le village de Franqueville », inventaire.hautsdefrance.fr.
+- Calendar-12.com, « 1916 Moon Phases » (pleine lune du 11 octobre 1916, 06 h 59 UTC), consulté en octobre 2026.

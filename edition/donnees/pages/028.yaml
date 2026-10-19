@@ -1,0 +1,163 @@
+cliche: 28
+fichier: 20251126_094058.jpg
+date: Vendredi 25 août 1916 (suite)
+mois: Août 1916
+lieux: Bailleul (Nord) ; Saint-Pol-sur-Ternoise et Marquay (Pas-de-Calais)
+titre: 'Suite du 25 août : réflexions dans le train ; arrivée trempé à Marquay, dîner au mess'
+transcription: |
+  \sl{Ven 25 (suite)} \hfill Aout \sl{1916}
+  En gare de Bailleul, vers 1^{H} – ds le
+  train, \inc{jouée} par tommies, musique
+  d'\inc{harmonique}, monotone & banal
+  sous le ciel pommelé de nuees grises & blanchatres
+  Reflexions amères. L'Etat \inc{et} bien mobilisé nos
+  corps, il a encore \inc{p.} notre intellige, notre
+  cœur \trait
+  \ind[2] Ciel de + en + bas & nuag \trait
+  orage menaçant. 1 légère brise souffle
+  qui ns caresse visage delicieus^{t}. Bruit
+  doux de feuillages froissés par la brise de
+  tilleuls en bordure voie ferrée \hfill –
+  \ind Pluie nous a trempé j-à la peau \trait
+  Vers 7^{H} enfin, arrivé à Marquay
+  petit hameau perdu en haut d'1 plateau
+  d Artois. Avec bp de peine, pu trouver
+  chambrette exiguë où coucherai lit à cote de
+  celui du \inc{vx} \inc{g} d'office
+  \sl{Invité} à diner par offrs \sl{mess} \trait
+  \ind Tip au groom : \inc{1}
+  Food : Bailleul : 75c. – St-Pol : 1^{f} \trait
+apparat:
+- ligne: 1
+  lemme: Ven
+  type: abreviation
+  note: vendredi
+- ligne: 2
+  lemme: 1^{H}
+  type: abreviation
+  note: 1 heure
+- ligne: 2
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 3
+  lemme: \inc{jouée}
+  type: lecture
+  note: jouée (accordé à musique) ; joué (lecture antérieure) possible
+- ligne: 3
+  lemme: tommies
+  type: emprunt
+  note: soldats britanniques
+- ligne: 4
+  lemme: d'\inc{harmonique}
+  type: lecture
+  note: harmonique (pour harmonica ?) ; lettre descendante (q) avant la finale ; harmonica (lecture antérieure) possible
+- ligne: 4
+  lemme: '&'
+  type: abreviation
+  note: et (de même l. 5 et 9)
+- ligne: 6
+  lemme: \inc{et}
+  type: lecture
+  note: e + t barré, ou & ; le sens attend « a » (L'État a bien mobilisé)
+- ligne: 6
+  lemme: mobilisé
+  type: lecture
+  note: lecture nouvelle (groupe jusqu'ici non lu)
+- ligne: 7
+  lemme: \inc{p.}
+  type: lecture
+  note: p. (pris ?) ; développement incertain
+- ligne: 7
+  lemme: intellige
+  type: abreviation
+  note: intelligence
+- ligne: 9
+  lemme: de + en +
+  type: abreviation
+  note: de plus en plus
+- ligne: 9
+  lemme: nuag
+  type: abreviation
+  note: nuageux
+- ligne: 10
+  lemme: '1'
+  type: abreviation
+  note: une
+- ligne: 11
+  lemme: ns
+  type: abreviation
+  note: nous ; me (lecture antérieure) écarté
+- ligne: 11
+  lemme: delicieus^{t}
+  type: abreviation
+  note: délicieusement
+- ligne: 12
+  lemme: brise
+  type: lecture
+  note: brise, comme l. 10 ; bise (lecture antérieure) possible
+- ligne: 14
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 15
+  lemme: 7^{H}
+  type: abreviation
+  note: 7 heures
+- ligne: 16
+  lemme: d'1
+  type: abreviation
+  note: d'un
+- ligne: 17
+  lemme: bp
+  type: abreviation
+  note: beaucoup
+- ligne: 19
+  lemme: \inc{vx} \inc{g}
+  type: lecture
+  note: vx (vieux) g(arçon) d'office ? ; groupe non résolu
+- ligne: 20
+  lemme: offrs
+  type: abreviation
+  note: officiers
+- ligne: 20
+  lemme: \sl{mess}
+  type: emprunt
+  note: popote des officiers
+- ligne: 21
+  lemme: Tip
+  type: emprunt
+  note: pourboire
+- ligne: 21
+  lemme: groom
+  type: emprunt
+  note: valet, ordonnance
+- ligne: 21
+  lemme: \inc{1}
+  type: lecture
+  note: 1 (franc) ; aucun f distinct ; 1 f (lecture antérieure)
+- ligne: 22
+  lemme: Food
+  type: emprunt
+  note: nourriture
+- ligne: 22
+  lemme: 75c.
+  type: lecture
+  note: 75 centimes ; chiffres fondus, 45 possible
+- ligne: 22
+  lemme: St-Pol
+  type: abreviation
+  note: Saint-Pol
+- ligne: 22
+  lemme: 1^{f}
+  type: abreviation
+  note: 1 franc
+critique: 'La page poursuit le récit du 25 août commencé au recto : elle revient sur le trajet en train, déjà noté par ses seuls horaires (f. 14 r\textsuperscript{o}), et le conduit jusqu''à l''arrivée à Marquay. Les mots « haut d''1 plateau » (l.~16) sont d''une encre plus appuyée, sans doute après recharge de la plume.'
+historique: |
+  L'infanterie de la 54th Brigade avait gagné Saint-Pol par le rail dans la nuit du 24 au 25 ; chevaux et voitures suivent l'après-midi (JMO 7/Bedf, ordre n° 26, 23 août 1916). Marquay, « petit hameau » pour Combes, est une commune du Ternois à 6 km à l'est de Saint-Pol-sur-Ternoise ; elle forme avec La Thieuloye (QG de brigade), Orlencourt et Bailleul-aux-Cornailles la zone de cantonnement de la brigade (ibid.), et le 12th Middlesex y loge jusqu'au 9 septembre (Wyrall [1926], p. 309). C'est l'arrière de la Third Army, qui tient le front d'Hébuterne à Vimy (Miles 1938, p. 543, n. 3) ; la division y fait « three weeks' battle training » avant de regagner la Somme (Nichols 1922, p. 78). Les « réflexions amères » sur l'État qui, après les corps, prend l'intelligence et le cœur font écho, plus sobrement, à la lettre du 16 juin 1916 à sa sœur, très probablement la carmélite Françoise : « Toutes ces abstractions : gloire, honneur etc. quel tas de blagues ! » (archives familiales). Le \textit{groom} est l'ordonnance chargée de son cheval, sans doute Connelly (pourboires de 1 ou 2 F).
+sources:
+- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916, ordre d''opérations n° 26 du 23 août (transcription en ligne).'
+- Wyrall, Everard, The Die-Hards in the Great War, vol. I, London, Harrison & Sons, [1926], p. 309.
+- Miles, Wilfrid (comp.), Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 543, n. 3.
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh-London, Blackwood, 1922, p. 78.
+- Lettre d'Hippolyte Combes à sa sœur [Françoise], « Au front, vendredi 16 juin 1916 », 4 p., archives de la famille Combes.

@@ -1,0 +1,116 @@
+cliche: 21
+fichier: 20251126_093843.jpg
+date: Vendredi 18 et samedi 19 août 1916
+mois: Août 1916
+lieux: La Croix-du-Bac (Steenwerck, Nord)
+titre: Giboulées ; solde de 84 F ; chevauchée avec Curtis dans la zone exposée derrière le front
+transcription: |
+  \sl{18 Ve.} \hfill – \sl{Aout /16} –
+  \ind[2] Depuis 2 ou 3 jours, vraies giboulées,
+  cme en mars – Averses prolongées, puis éclaircies
+  et soleil reparait
+  Hier après-midi, au refilling point et ds 1
+  champ de trefle, surpris par la pluie et
+  mouillé j-à la peau –
+  Fin journée, asz belle. Venu retrouver Maurin,
+  promené ensemble et assis, pour causer
+  sur l herbe sèche, près des lignes de ma
+  Coy. \hfill Vers 7^{H} 1/2 orage
+  \crochet{2}\ind[2] – Solde & indemnité de fonctions :
+  \droite 84 fr.
+  \blanc{2}
+  \filet
+  19 S. – Plu tte nuit –
+  Dès 8^{H} matin, pluie torrentielle. Routes
+  détrempées. Température rafraichie délic.^{t} \trait
+  Toute matinée et \inc{commt} après-midi,
+  averses très fortes – comme grêle.
+  \ind Vers 2^{H} 30, ce crétin de Curtis venu
+  me prendre : dû l'accompagner
+  à cheval, \inc{&} cette fois sur un bon poney.
+  \ind Longue chevauchée zone \trait
+  exposée, derrière ligne de feu
+apparat:
+- ligne: 1
+  lemme: Ve.
+  type: abreviation
+  note: vendredi
+- ligne: 1
+  lemme: /16
+  type: abreviation
+  note: '1916'
+- ligne: 3
+  lemme: cme
+  type: abreviation
+  note: comme
+- ligne: 5
+  lemme: refilling point
+  type: emprunt
+  note: point de ravitaillement (des convois)
+- ligne: 5
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 5
+  lemme: '1'
+  type: abreviation
+  note: un
+- ligne: 7
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 8
+  lemme: asz
+  type: abreviation
+  note: assez
+- ligne: 11
+  lemme: Coy.
+  type: abreviation
+  note: Company (compagnie britannique)
+- ligne: 11
+  lemme: 7^{H} 1/2
+  type: abreviation
+  note: 7 heures et demie
+- ligne: 12
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 13
+  lemme: 84 fr.
+  type: abreviation
+  note: 84 francs
+- ligne: 14
+  lemme: S.
+  type: abreviation
+  note: samedi
+- ligne: 14
+  lemme: tte
+  type: abreviation
+  note: toute
+- ligne: 15
+  lemme: 8^{H}
+  type: abreviation
+  note: 8 heures
+- ligne: 16
+  lemme: délic.^{t}
+  type: abreviation
+  note: délicieusement
+- ligne: 17
+  lemme: \inc{commt}
+  type: lecture
+  note: commencement (de l'après-midi) ; sens sûr, lettres mal formées ; autre lecture possible commct
+- ligne: 19
+  lemme: 2^{H} 30
+  type: abreviation
+  note: 2 heures 30
+- ligne: 21
+  lemme: \inc{&}
+  type: lecture
+  note: et ; signe en forme de 1 précédé d'un long délié ; on a lu aussi « – & »
+critique: Encre noire virée au brun. Les deux journées sont séparées par un filet pleine largeur ; sous le compte du 18, que borde un grand crochet, un blanc d'environ deux lignes. Les 16 et 17 août n'ont pas d'entrée, la journée du 18 revenant sur la veille (« Hier après-midi ») ; la chevauchée du 19 se poursuit au f. 11 v\textsuperscript{o}.
+historique: |
+  Le \textit{refilling point} est sans doute toujours celui du bord de la Lys, près de l'écluse de Bac-Saint-Maur (voir f. 7 r\textsuperscript{o}) ; le champ de trèfle est celui où l'on coupe le fourrage vert, que le règlement range avec le ray-grass, la luzerne et le sainfoin parmi les « green foods » (FSPB 1914, chap. 6, § 20). Les 84 F, même somme que le 27 juillet (voir f. 2 r\textsuperscript{o}), suivent le rythme des paies de quinzaine, plus tard fixées aux 3 et 18 du mois ; c'est la seule fois que le carnet nomme les deux éléments, solde et indemnité, dont aucun texte retrouvé ne donne le détail. Le 18, la 54th Brigade est au camp de La Motte, en forêt de Nieppe, pour s'exercer au combat sous bois, et son journal note de fortes pluies nocturnes (JMO 7/Bedf, 18-21 août 1916). La « zone exposée » du 19 est la bande de 2 à 4 km entre la Lys et le front de Bois-Grenier : Fleurbaix, que Combes traverse (f. 11 v\textsuperscript{o}), est « about a mile behind the line » (Ellis [1920], p. 75). Le lieutenant Curtis n'est pas identifié.
+sources:
+- Field Service Pocket Book, 1914, Londres, HMSO, 1914, chap. 6, « Forage », § 20.
+- Bedfordshire Archives Service, X550/8/1/1608, War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (JMO 7/Bedf).
+- Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], p. 75.

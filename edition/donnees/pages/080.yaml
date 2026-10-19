@@ -1,0 +1,103 @@
+cliche: 80
+fichier: 20251126_104235.jpg
+date: Jeudi 19 octobre 1916
+mois: Octobre 1916
+lieux: Bouzincourt, Hédauville et Albert (Somme)
+titre: Pluie torrentielle ; la compagnie gagne le brickfield area d'Albert ; chambre en ville
+transcription: |
+  \sl{Jeudi 19} \hfill \sl{Oct^{bre}/16}
+  \centre Levé 6^{H}
+  Reveillé par orage \trait
+  Tte nuit, pluie torrentielle. Durant tte
+  matinée, averses n'ont pas cessé. Sol
+  detrempé, impraticable \trait
+  abrité sous tente verte du mess ,
+  attendu depart \trait
+  Tout ruisselant d'eau .
+  Quitté camp vers 11^{H}. Monté s/ 1 wagon
+  Vers 1^{H}, arrivé au brickfield area,
+  où ns devons bivouaquer \trait
+  Tentes et abris, dressés ds la boue et
+  sous pluie battante \trait
+  \ind Reussi par trouver petite chambre \inc{ds}
+  maison rue voisine, à qq 3 ou 400 mètres
+  du camp. Y installé.
+  \ind Toute nuit, bruit ininterrompu \trait
+  très forte canonnade \trait
+  \ind — Cartes ples d'Albert : 20c
+apparat:
+- ligne: 1
+  lemme: Oct^{bre}/16
+  type: abreviation
+  note: octobre 1916 ; finale du mois réduite à une ondulation
+- ligne: 2
+  lemme: Levé 6^{H}
+  type: disposition
+  note: note écrite dans l'interligne, sous la date, au-dessus de la fin de la l. 3
+- ligne: 2
+  lemme: 6^{H}
+  type: abreviation
+  note: 6 heures
+- ligne: 4
+  lemme: Tte
+  type: abreviation
+  note: Toute
+- ligne: 4
+  lemme: tte
+  type: abreviation
+  note: toute
+- ligne: 7
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 10
+  lemme: 11^{H}
+  type: abreviation
+  note: 11 heures
+- ligne: 10
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 10
+  lemme: 1 wagon
+  type: abreviation
+  note: un wagon
+- ligne: 11
+  lemme: 1^{H}
+  type: abreviation
+  note: 1 heure
+- ligne: 11
+  lemme: brickfield area
+  type: emprunt
+  note: secteur des briqueteries
+- ligne: 12
+  lemme: ns
+  type: abreviation
+  note: nous
+- ligne: 13
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 15
+  lemme: \inc{ds}
+  type: lecture
+  note: « ds » (dans), tracé voisin de « ds » l. 13 ; lecture « à » possible
+- ligne: 16
+  lemme: qq
+  type: abreviation
+  note: quelque (environ)
+- ligne: 17
+  lemme: installé.
+  type: lecture
+  note: 'point final, non « ! » : le trait vertical au-dessus est le jambage de « qq » (l. 16)'
+- ligne: 20
+  lemme: Cartes ples
+  type: abreviation
+  note: cartes postales
+critique: Page d'une seule venue à l'encre violette ; une petite tache d'encre touche « Cartes » à la dernière ligne.
+historique: |
+  L'orage et la pluie de la nuit du 18 au 19 sont ceux qui, ce matin-là à 9~h~45, font reporter de 24 heures par la Fifth Army l'attaque de Regina et Stuff Trenches. Un message de 13~h~30 la fixe au 21 octobre et l'opération principale sur l'Ancre au 25 (OH 1916-II, p.~461). Le même 19 octobre, le 7th Bedfordshire, bataillon de la 54th Brigade que sert la compagnie, quitte Bouzincourt pour Albert (JMO 7/Bedf, 17--19 oct. 1916). Le \textit{wagon} sur lequel monte Combes est sans doute une voiture hippomobile de la compagnie (\textit{G.S. wagon}), non un train. Le \textit{brickfield area} est sans doute les \textit{Brickfields}, anciennes briqueteries de la sortie nord d'Albert, en direction d'Aveluy, devenues en 1916 une vaste zone de bivouac. Bouzincourt est à 3~km à l'ouest-nord-ouest de ce camp (journal d'A. Linfoot, 58th Field Ambulance, notes des 8--9 nov. 1916). La chambre trouvée dans une rue voisine est l'une des maisons d'Albert laissées vides par leurs habitants (voir f.~39~v\textsuperscript{o}).
+sources:
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 461.
+- 'Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).'
+- Linfoot, A., journal de guerre (58th Field Ambulance, R.A.M.C.), édition annotée en ligne, arthurlinfoot.org.uk, entrées du 23 oct. au 9 nov. 1916, consultée le 18 oct. 2026.

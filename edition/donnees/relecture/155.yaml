@@ -1,0 +1,132 @@
+cliche: 155
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Jeudi 15 — \hfill Février 1917 —
+  apres: \sl{Jeudi 15} – \hfill Fevrier \sl{1917} –
+  justification: Trait appuyé tiré bas sous « udi 15 » et sous « 1917 » ; tirets courts ; aucun accent sur le e de Fevrier (seul le point de l'i)
+  confiance: moyenne
+- ligne: 2
+  avant: Gelé nuit.
+  apres: \ind[2] gelé nuit.
+  justification: g initial minuscule ; note placée en fort retrait (x ≈ 0,30) entre l. 1 et l. 3
+  confiance: haute
+- ligne: 7
+  avant: écrit
+  apres: ecrit
+  justification: aucun accent sur le e ; le trait qui précède est la virgule
+  confiance: moyenne
+- ligne: 9
+  avant: sympathique.
+  apres: sympathique
+  justification: finale en long délié, aucun point
+  confiance: moyenne
+- ligne: 10
+  avant: Nuit extrt belle
+  apres: nuit ext belle
+  justification: n initial minuscule ; abréviation e-x-t (un seul t, barre longue), pas de r
+  confiance: moyenne
+- ligne: 12
+  avant: glace.
+  apres: glace
+  justification: délié final, aucun point
+  confiance: moyenne
+- ligne: 13
+  avant: Vendredi 16 — Au réveil
+  apres: \sl{Vendredi 16} – Au reveil
+  justification: date soulignée d'un trait appuyé (y ≈ 0,567, x 0,09–0,36) ; aucun accent sur reveil au zoom
+  confiance: moyenne
+- ligne: 16
+  avant: rapide.
+  apres: rapide
+  justification: délié final prolongé, aucun point
+  confiance: moyenne
+- ligne: 17
+  avant: auto. [Roulé ?]
+  apres: auto, \inc{Resté}
+  justification: virgule descendante sous la fin de « auto » ; mot relu au zoom ×3 (voir controle)
+  confiance: basse
+- ligne: 19
+  avant: château
+  apres: chateau
+  justification: aucun circonflexe ; seule la longue barre du t couvre le mot
+  confiance: moyenne
+- ligne: 20
+  avant: nuageux.
+  apres: nuageux
+  justification: le point au-dessus de la fin du mot est celui de l'i de « liberté » (l. 21), placé juste au-dessus de cette lettre
+  confiance: moyenne
+difficultes:
+- ligne: 17
+  lemme: Resté
+  analyse: 'Au zoom ×3 [.74 .655 .90 .72] : R à boucle empâtée ; petite arche (e ouvert ?) ; longue haste partant du haut (x ≈ 0,80) et plongeant vers la gauche sous la ligne = s long ; haste droite sans boucle ni barre (t) ; e final, accent rejeté au-dessus du 2. Aucune trace des deux jambages d''un u : « Roulé » mal appuyé ; aucun d bouclé : « Rôdé » exclu. Le sens (« Resté 2 ou 3 h. ds le village ») convient.'
+  alternatives:
+  - Roulé
+  - Rouslé
+- ligne: 10
+  lemme: ext
+  analyse: e, x en croix, t dont la barre longue court jusqu'au-dessus du b de belle ; ni r ni second t ; t sur la ligne, non suscrit.
+  alternatives:
+  - ext^{t}
+  - extt
+- ligne: 8
+  lemme: Grand
+  analyse: G à boucle montante haute (environ deux fois la hauteur des minuscules), descente bouclée sous la ligne ; un g minuscule (gelé l. 2, glace l. 12) ne monte pas ainsi. Majuscule retenue.
+  alternatives:
+  - grand
+- ligne: 8
+  lemme: le
+  analyse: 'l puis e ouvert à long délié, sans panse fermée : lu le.'
+  alternatives:
+  - la
+- ligne: 15
+  lemme: Mais
+  analyse: initiale au module d'un m, premier jambage un peu surélevé, sans délié d'attaque ; majuscule conservée, douteuse.
+  alternatives:
+  - mais
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Beaucourt identifié comme Beaucourt-sur-l''Hallue (château vers 1750, Inventaire Hauts-de-France IA80000292), à une dizaine de kilomètres d''Hérissart : identification probable, retenue dans « lieux » et « noms ».'
+  alternatives: []
+controle:
+- ligne: 8
+  avant: promené village, grand costume.
+  apres: promené village Grand costume.
+  justification: 'zoom ×3 [.24 .26 .56 .32] : aucune virgule, le délié final de village se relève et s''arrête ; G à boucle montante haute, de module majuscule'
+- ligne: 10
+  avant: mervt étoilée.
+  apres: mervt etoilée.
+  justification: 'zoom ×3 [.66 .32 .92 .38] : aucun accent sur le e initial (le trait voisin est la barre du t de mervt) ; seul accent, rejeté après le mot, pour la finale'
+- ligne: 17
+  avant: auto. \inc{Roulé}
+  apres: auto, \inc{Resté}
+  justification: 'zoom ×2–×3 [.56 .655 .92 .72] : virgule verticale descendante après auto ; R, arche, s long plongeant, t sans barre, é : Resté, plus conforme aux traits et au sens que Roulé'
+- ligne: 18
+  avant: 'noms : Beaucourt ligne 17'
+  apres: 'noms : Beaucourt ligne 18'
+  justification: Beaucourt est écrit à la l. 18
+- ligne: 19
+  avant: paille & foin
+  apres: paille & foin.
+  justification: 'zoom ×3 [.80 .75 1.0 .80] : point d''i au-dessus du mot, et point distinct sur la ligne de base après foin'
+remarques: 'Village de cantonnement (l. 8) : Hérissart d''après les pages voisines. Ligne 13 : la date et « Au reveil » sur la même ligne, sans rejet à droite.'
+resume: 'Jeudi 15 février 1917 : nuit de gel, beau soleil ; le matin, courses à Toutencourt, Raincheval et Puchevillers ; l''après-midi, il écrit dans sa chambre puis se promène au village en grande tenue et voit le maire, population sympathique. Nuit très belle et étoilée, gel persistant, rues en pente couvertes de glace. Vendredi 16 : vitres givrées au réveil, puis radoucissement et dégel rapide. Matinée en auto : il reste deux ou trois heures dans le village de Beaucourt, fermes et château, à la recherche de paille et de foin ; après-midi libre.'
+noms:
+  personnes:
+  - forme: maire
+    ligne: 9
+    identite: maire d'Hérissart (non nommé)
+  lieux:
+  - forme: Toutencourt
+    ligne: 4
+    identite: Toutencourt (Somme)
+  - forme: Raincheval
+    ligne: 4
+    identite: Raincheval (Somme)
+  - forme: Puchevillers
+    ligne: 5
+    identite: Puchevillers (Somme)
+  - forme: Beaucourt
+    ligne: 18
+    identite: Beaucourt-sur-l'Hallue (Somme), probable
+source: contrôle

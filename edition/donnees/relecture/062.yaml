@@ -1,0 +1,152 @@
+cliche: 62
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Mer. 4 \hfill Octbre 16
+  apres: \sl{mer- 4} \hfill \sl{Octbr/16}
+  justification: m initial minuscule suivi d'un tiret, non d'un point ; b suivi d'un seul crochet (r), barre oblique avant 16 ; les deux éléments soulignés
+  confiance: haute
+- ligne: 2
+  avant: Sur pied dès 6H. –
+  apres: \ind[2] Sur pied dès 6^{H} –
+  justification: H surélevé ; aucun point après H ; ligne en retrait
+  confiance: haute
+- ligne: 3
+  avant: Lentement préparé départ. Enlevé & rentré
+  apres: Lentement preparé depart Enlevé & rentré
+  justification: aucun accent sur le premier e de preparé ni sur depart ; pas de point après depart
+  confiance: moyenne
+- ligne: 5
+  avant: Venu gare. puis aux Thermes du Languedoc
+  apres: Venu gare, puis aux. Thermes du \inc{Langdc}
+  justification: virgule verticale après gare, point bas après aux ; le mot final se réduit à L-a-n-g-d + petite c/e
+  confiance: moyenne
+- ligne: 6
+  avant: A 11 H m., quitté
+  apres: A 11^{H} m. , quitté
+  justification: H surélevé (base au-dessus de celle des chiffres, contrôlé au zoom) ; point puis virgule séparés
+  confiance: haute
+- ligne: 7
+  avant: Ste Marie –
+  apres: S^{te} Marie –
+  justification: te en tête, petit module
+  confiance: moyenne
+- ligne: 9
+  avant: Longs tête à tête très fort intimes.
+  apres: Longs tete-a-tete très fort intimes.
+  justification: aucun circonflexe visible ; traits d'union entre les éléments
+  confiance: moyenne
+- ligne: 11
+  avant: avec les enfants
+  apres: avec des enfants
+  justification: initiale à haste rejetée en arrière (∂)
+  confiance: haute
+- ligne: 13
+  avant: Diner à 6 H [1/2 ?]
+  apres: Diner à 6^{H} \inc{\fr{1}{2}}
+  justification: H surélevé ; signe bref vertical à crochet bas compatible avec ½ empilé ou s.
+  confiance: basse
+- ligne: 14
+  avant: Mte, voulu
+  apres: M^{te} voulu
+  justification: aucune virgule après M^{te}
+  confiance: haute
+- ligne: 15
+  avant: '[groupe surchargé illis.]'
+  apres: \inc{Alle} – Gare – \inc{venu} – \ill \inc{puis}
+  justification: Gare (G bouclé) entre deux tirets lisible ; venu probable ; pâté sur le p de puis, précédé d'un trait épais et d'un trait fin
+  confiance: basse
+- ligne: 17
+  avant: Puis ressorti salle d'attente. Avec Mte
+  apres: Puis resorti salle d'attente. Avec M^{te}
+  justification: un seul s (petit, sans boucle haute) entre e et o ; le signe en chevron est le point du i
+  confiance: moyenne
+- ligne: 18
+  avant: '& oncle Crouzet. promené au dehors'
+  apres: '& oncle Crouzet , promené au dehors'
+  justification: trait vertical (virgule), non point
+  confiance: moyenne
+- ligne: 20
+  avant: Enfin, dû ns séparer, par
+  apres: \ind Enfin, dû ns separe, par
+  justification: pas d'accent sur se ; finale -re + délié, pas de r distinct ; léger retrait
+  confiance: moyenne
+- ligne: 21
+  avant: ménagement pour l'oncle —
+  apres: ménagement pour l'oncle \trait
+  justification: le e final se prolonge en long délié jusqu'à la marge, sans levée de plume
+  confiance: moyenne
+difficultes:
+- ligne: 5
+  lemme: Langdc
+  analyse: L bouclé, a, n (2 jambages), g bouclé, d à haste haute, petite c ou e finale tombant sous la ligne au bord de la page ; aucun u ni o visible ; cf. 054 l. 14 « Thermes du Languedoc »
+  alternatives:
+  - Langde
+  - Languedoc
+- ligne: 13
+  lemme: \fr{1}{2}
+  analyse: 'après 6^{H} (et un petit arc sous le H), haste montante puis crochet couché vers la droite à la ligne de base (aspect b, h) : demie empilée sans barre visible, ou s. du soir réduit'
+  alternatives:
+  - s.
+  - 1/2
+- ligne: 15
+  lemme: Alle – Gare – venu – ? puis
+  analyse: premier mot très empâté (A + deux boucles hautes + e, aucun accent visible) ; tiret ; Gare à G bouclé ; tiret ; v-e-n-u à finale plongeante ; tiret bas ; trait épais vertical puis trait fin oblique (1, &, s/ ?) ; pâté noyant le p (jambage visible) ; u-i-s net
+  alternatives:
+  - Allé
+  - '&'
+  - Depuis
+- ligne: 16
+  lemme: compartiment
+  analyse: c-o-m-p-a-r-t puis jambages et boucle avant n-t ; aucun point d'i net entre t et m (un trait au-dessus de la finale peut être ce point décalé)
+  alternatives:
+  - compartment
+- ligne: 17
+  lemme: resorti
+  analyse: r-e-s-o-r-t-i, un seul s sans boucle haute ; chevron au-dessus = point du i
+  alternatives:
+  - ressorti
+- ligne: 19
+  lemme: cour
+  analyse: initiale en long trait montant de sous la ligne jusqu'au-dessus de l'œil, sans boucle de tête (c d'attaque ou f/j ?), o, u, r + délié ; le sens (cour de G.V.) impose cour
+  alternatives:
+  - jour
+  - four
+controle:
+- ligne: 15
+  avant: \inc{Allé} – Gare – \inc{venu} – \ill \inc{puis}
+  apres: \inc{Alle} – Gare – \inc{venu} – \ill \inc{puis}
+  justification: aucun accent visible sur le premier mot (zoom ×3) ; note d'apparat requalifiée en lecture (empâtement, non surcharge)
+- ligne: 17
+  avant: Puis ressorti salle d'attente. Avec M^{te}
+  apres: Puis resorti salle d'attente. Avec M^{te}
+  justification: un seul s entre e et o (zoom), aucune boucle haute ni double tracé
+- ligne: 9
+  avant: 'apparat : très (lecture), lgt (« t barré net »), Langdc (justification paléographique)'
+  apres: notes supprimées ou réduites au développement
+  justification: épuration de l'apparat imprimé (forme hu de très connue ; justifications renvoyées aux difficultés)
+- ligne: 8
+  avant: apparat sans tt (l. 8) ni M^{te} (l. 14, 17)
+  apres: abréviations ajoutées à l'apparat
+  justification: chaque abréviation reçoit son développement
+remarques: 'La page suivante (063) s''ouvre le jeudi 5 à Paris, gare d''Orsay : départ par le train de nuit.'
+resume: 'Le mercredi 4 octobre 1916, dernier jour de permission à Toulouse, Hippolyte Combes range l''appartement, passe à la gare puis aux Thermes du Languedoc. Il quitte la maison à 11 heures et passe l''après-midi à Sainte-Marie avec Marguerite : longs tête-à-tête, promenade dans le parc, jeux avec des enfants. Après le dîner, Marguerite tient à l''accompagner à la gare avec l''oncle Crouzet ; il choisit un coin de compartiment puis se promène avec eux le long des trottoirs de la cour de grande vitesse, avant une séparation abrégée par égard pour l''oncle.'
+noms:
+  personnes:
+  - forme: M^{te}
+    ligne: 8
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Crouzet
+    ligne: 18
+    identite: oncle Crouzet (de Marguerite ?), Toulouse
+  lieux:
+  - forme: Thermes du \inc{Langdc}
+    ligne: 5
+    identite: Thermes du Languedoc, bains, Toulouse
+  - forme: S^{te} Marie
+    ligne: 7
+    identite: Sainte-Marie(-des-Champs), Toulouse
+  - forme: gare
+    ligne: 14
+    identite: gare de Toulouse (Matabiau)
+source: contrôle

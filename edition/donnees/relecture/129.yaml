@@ -1,0 +1,133 @@
+cliche: 129
+confiance: haute
+changements:
+- ligne: 1
+  avant: Ven. 26 (suite) \hfill Janvier 1917
+  apres: Ven. \sl{26 (suite)} \hfill \sl{Janvier 1917}
+  justification: traits de soulignement sous « 26 (suite) » et sous « Janvier 1917 » (de « vier » au 3e chiffre) ; « Ven. » non souligné
+  confiance: haute
+- ligne: 2
+  avant: Arrivé Amiens vers 2h m.
+  apres: Arrivé Amiens vers 2^{H} m
+  justification: H à deux hastes et traverse, base nettement au-dessus de celle du 2 ; aucun point après m
+  confiance: haute
+- ligne: 3
+  avant: Froid pénétrant — gelé très dur.
+  apres: Froid penetrant — gelé très dur
+  justification: aucun accent distinct sur penetrant ; pas de point final
+  confiance: moyenne
+- ligne: 4
+  avant: Au ciel sombre, qq étoiles très brillantes.
+  apres: au ciel sombre, qq etoiles très brillantes
+  justification: a au module des minuscules ; pas d'accent sur etoiles (le haut trait qui traverse l'e initial est le jambage du g de « gelé », l. 3 ; le trait horizontal au-dessus de « oi » est la barre du t) ; pas de point final
+  confiance: moyenne
+- ligne: 5
+  avant: '[ — Voiturier, à Acheux : 1 f'
+  apres: '\crochet{5}\crochet{3}— Voiturier, à Acheux : \hfill 1^{f}'
+  justification: grand crochet du cadre (l. 5–9) et petit crochet emboîté (l. 5–7) ; f monétaire suscrit
+  confiance: haute
+- ligne: 6
+  avant: (2 sacs à la gare)
+  apres: \ind[2] (2 sacs à la gare
+  justification: 'pas de parenthèse fermante : le délié final de « gare » s''achève en pointe'
+  confiance: haute
+- ligne: 7
+  avant: '— A Gézaincourt : enregt bag. : 10 c'
+  apres: 'A Gezaincourt : enregt bag. : \hfill 10c'
+  justification: le trait devant A est le pied du petit crochet ; le trait arqué au-dessus de l'e est la tête du G, non un accent ; 10c serré
+  confiance: moyenne
+- ligne: 8
+  avant: (27 kg. — 2 sacs)
+  apres: \droite 27 kos. – 2 sacs
+  justification: ni parenthèses ; k, o, s final réduit, aucun g plongeant ; point à mi-hauteur puis tiret court
+  confiance: moyenne
+- ligne: 9
+  avant: 'En caisse, ce matin : 319 f 50 c ]'
+  apres: 'En caisse, ce matin : 319^{f} 50c'
+  justification: f suscrit au-dessus de l'intervalle 9–5 ; pas de crochet fermant (le cadre se ferme par un filet)
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: (suite)
+  analyse: parenthèse ouvrante haute et fine ; la finale de « suite » remonte puis redescend obliquement en parenthèse fermante liée au mot ; le point de « Ven. » est posé à mi-hauteur juste avant 26
+  alternatives:
+  - (suite
+- ligne: 3
+  lemme: penetrant
+  analyse: p à haste longue, e, n (second jambage relevé en crochet, peut-être l'accent du premier é), e ouvert en c, t bouclé et r liés (aspect h), a, n, t ; la barre commune part au-dessus de l'a, coupe le t final et se prolonge jusqu'à x≈.47 ; formule « Froid pénétrant » fréquente dans le carnet (075, 077, 081, 113, 125, 150)
+  alternatives:
+  - penchant
+- ligne: 3
+  lemme: gelé
+  analyse: g, e, l bouclé, e ; l'accent (crochet puis trait plat) est posé après l'e final, au-delà du mot, donc sur cet e ; un è décalé d'une lettre (« gèle ») tomberait au-dessus du l ou de l'e final
+  alternatives:
+  - gèle
+- ligne: 4
+  lemme: sombre
+  analyse: s montant (aspect d), o ouvert, m, b et r liés en h, e final en délié
+  alternatives: []
+- ligne: 4
+  lemme: etoiles
+  analyse: boucle de l'e initial traversée par le jambage du g de « gelé » (l. 3), d'où l'aspect d'une majuscule ; t, o, i, l, e, s ; barre du t décalée au-dessus de « oi » ; aucun accent
+  alternatives:
+  - Etoiles
+  - étoiles
+- ligne: 7
+  lemme: Gezaincourt
+  analyse: 'G : tête en arc au-dessus de l''e et haste plongeante bouclée ; e, z plongeant, a, i (point décalé), n, c, o, u, r, t'
+  alternatives:
+  - Gézaincourt
+- ligne: 8
+  lemme: kos.
+  analyse: 'k : haste et jambe oblique liée à l''o ; o ; s final réduit en crochet ; le jambage de « bag » (l. 7) descend à gauche et la haste du f suscrit de 319 (l. 9) remonte sous le k ; petit point rond à mi-hauteur (x≈.83) avant le tiret, comme le point de « Ven. » (l. 1), peut-être simple attaque de plume'
+  alternatives:
+  - kos
+  - kgs
+controle:
+- ligne: 8
+  avant: \droite 27 kos – 2 sacs
+  apres: \droite 27 kos. – 2 sacs
+  justification: point rond net à mi-hauteur entre kos et le tiret, distinct de lui (même disposition que le point de « Ven. », l. 1) ; analyse et réserve dans difficultes
+- ligne: 3
+  avant: 'apparat : une note « signe » détaillée (barre du t tirée jusqu''au milieu de la ligne)'
+  apres: note « signe » abrégée ; note « lecture » ajoutée sur penetrant
+  justification: 'le mot a l''aspect de « penchant » : la lecture repose sur t et r liés en h, à signaler au lecteur ; détail de position superflu'
+- ligne: 5
+  avant: 'apparat : note « disposition » sur les deux crochets emboîtés'
+  apres: note supprimée
+  justification: le balisage \crochet{5}\crochet{3} et la critique rendent le cadre
+- ligne: 6
+  avant: 'note « disposition » : ligne plus petite, glissée sous « Voiturier, à »'
+  apres: note étendue à la l. 8, de même module réduit
+  justification: les l. 6 et 8 sont toutes deux serrées dans l'interligne, en écriture plus petite
+- ligne: 8
+  avant: 'notes : lecture « k bouclé + o + finale courte » ; abréviation sur « kos »'
+  apres: note lecture brève avec le parallèle de 024 (« 13 kos ») ; abréviation sur « kos. »
+  justification: justification paléographique renvoyée dans difficultes ; lemme ajusté au point ajouté
+- ligne: 9
+  avant: 'note : 319 francs 50 centimes ; f suscrit au-dessus de l''intervalle 9–5'
+  apres: 'note : 319 francs 50 centimes'
+  justification: 'position du f : détail paléographique, renvoyé dans changements'
+- ligne: 7
+  avant: 'difficultes : entrée « ligne 0 » (remarque du commentateur historique)'
+  apres: entrée supprimée ; substance reportée dans remarques ; entrées ajoutées pour gelé, etoiles, Gezaincourt et kos.
+  justification: note de travail, non paléographique ; contrôles faits sur zooms
+- ligne: 5
+  avant: 'critique : « double filet au pied »'
+  apres: 'critique : « filet au pied doublé à droite d''un second trait » ; encre violette et petit crochet mentionnés'
+  justification: le filet du pied est un long trait que prolonge, plus bas et en chevauchement, un second segment à droite
+remarques: Le cliché 130 reprend le récit de l'arrivée à Amiens à la date du samedi 27. Selon le commentaire historique joint à la première lecture (Baedeker 1913, p. xiii, à vérifier), 30 kg de bagages voyageaient en franchise moyennant un droit d'enregistrement de 10 c, ce qui s'accorde avec les 27 kilos et les 10 c des l. 7–8.
+resume: 'Suite de la journée du vendredi 26 janvier 1917 : parti de Gézaincourt à 22 h 30 (cliché 128), Hippolyte Combes arrive à Amiens vers deux heures du matin, par un froid pénétrant et une forte gelée, sous un ciel sombre où brillent quelques étoiles. Dans un compte encadré, il note 1 franc payé au voiturier d''Acheux pour porter deux sacs à la gare, puis 10 centimes d''enregistrement des bagages à Gézaincourt (deux sacs, 27 kilos). Il inscrit aussi l''état de sa caisse « ce matin » : 319 francs 50. Le reste de la page est blanc.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Amiens
+    ligne: 2
+    identite: Amiens (Somme)
+  - forme: Acheux
+    ligne: 5
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Gezaincourt
+    ligne: 7
+    identite: Gézaincourt (Somme), gare près de Doullens
+source: contrôle

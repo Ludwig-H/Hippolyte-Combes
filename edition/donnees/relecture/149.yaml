@@ -1,0 +1,128 @@
+cliche: 149
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Jeudi 8 (suite) \hfill Février 1917
+  apres: \sl{Jeudi 8 (suite)} \hfill Février 1917
+  justification: trait appuyé terminé en crosse sous « di 8 (sui » ; mois non souligné
+  confiance: haute
+- ligne: 2
+  avant: mervt
+  apres: merv^{t}
+  justification: t nettement surélevé, barre longue
+  confiance: haute
+- ligne: 3
+  avant: Gelé très fort. Terre durcie, j'à
+  apres: gelé très fort. Terre durcie j-à
+  justification: g initial au module d'une minuscule (même forme qu'à la l. 16) ; aucune virgule après durcie ; trait d'union court après j
+  confiance: moyenne
+- ligne: 4
+  avant: Après-midi
+  apres: après-midi
+  justification: a initial au module d'une minuscule, sans pointe
+  confiance: moyenne
+- ligne: 5
+  avant: étinceler
+  apres: etinceler
+  justification: aucun accent sur l'e initial (le point visible est celui du i)
+  confiance: moyenne
+- ligne: 6
+  avant: qui recouvrait champs.
+  apres: qui recouvrait champs – –
+  justification: deux courts traits horizontaux séparés, non un point
+  confiance: moyenne
+- ligne: 7
+  avant: 'd''Acheux :'
+  apres: d'Acheux
+  justification: aucun deux-points après Acheux, qui touche le bord
+  confiance: moyenne
+- ligne: 10
+  avant: '[durée incertaine] de marche.'
+  apres: \inc{2 h.} de marche.
+  justification: 2 bouclé, h à haste bouclée, point
+  confiance: basse
+- ligne: 14
+  avant: 9h s. — 1 peu de lecture
+  apres: 9^{H} s. – 1 peu de couture
+  justification: 'H suscrit ; tiret court ; mot commençant par c-o, t barré au milieu : couture'
+  confiance: haute
+- ligne: 15
+  avant: Ven. 9 — Nuit toujours excessvt froide.
+  apres: – \sl{Ven. 9} — Nuit toujours \inc{excessv^{t}} froide
+  justification: tiret avant Ven., soulignement de Ven. 9 ; t suscrit ; pas de point final
+  confiance: moyenne
+- ligne: 16
+  avant: Gelé très fort.
+  apres: gelé très fort.
+  justification: g initial minuscule, panse au module d'œil, sans majuscule
+  confiance: moyenne
+- ligne: 17
+  avant: vif éclat.
+  apres: vif eclat
+  justification: aucun accent, aucun point
+  confiance: moyenne
+- ligne: 19
+  avant: pour pouvoir écrire chambre.
+  apres: pour pouvoir ecrire chambre
+  justification: pas d'accent sur e initial ; finale en long délié, sans point
+  confiance: moyenne
+difficultes:
+- ligne: 10
+  lemme: \inc{2 h.}
+  analyse: petite boucle basse à gauche montant à droite (2 bouclé ou ∂), puis haste haute bouclée descendant sous la ligne et arche à deux minimes (h), point appuyé ; aucun 4 ni 5 ; l'arche pourrait aussi être un u (h^{u}?)
+  alternatives:
+  - d h.
+  - 2^{h}
+- ligne: 15
+  lemme: excessv^{t}
+  analyse: zoom ×3 [.58 .66 .82 .715] ; e + x en croix, c, grande boucle (e ou s montant), trait descendant (s ou v), t suscrit sous longue barre ; aucun v distinct
+  alternatives:
+  - exces^{t}
+  - excess^{t}
+- ligne: 18
+  lemme: froid
+  analyse: f, r, o empâté, i pointé puis descente finale au bord droit ; d réduit à ce délié ou hors champ
+  alternatives:
+  - froi
+- ligne: 3
+  lemme: profondeur
+  analyse: profonde + eu et finale réduite à un trait plongeant au bord droit (zoom [.78 .12 1 .17])
+  alternatives:
+  - profonden
+- ligne: 19
+  lemme: chambre
+  analyse: le trait oblique isolé devant « chambre » est le jambage du p de « complète » (l. 18), non une lettre ou un accent
+  alternatives: []
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 955 caractères ; sources : Haig, *Despatches* p. 69-70 (gel « à grande profondeur »), JMO 7/Bedf janv. 1917 (« Rubempré Area »), iCalendrier (pleine lune du 7 février 1917) ; la durée « 2 h. » (l. 10) reste incertaine après contrôle p2. Rubempré est à environ 2,5 km à l''ouest-sud-ouest d''Hérissart, et non à 3 km au sud comme le dit l''édition antérieure (point géographique, hors image).'
+  alternatives: []
+controle:
+- ligne: 3
+  avant: Gelé très fort.
+  apres: gelé très fort.
+  justification: g initial au module d'une minuscule, même forme qu'à la l. 16 ; aucune majuscule
+- ligne: 16
+  avant: Gelé très fort.
+  apres: gelé très fort.
+  justification: zoom ×3 [0 .74 .30 .78] ; g minuscule à panse au module d'œil
+- ligne: 6
+  avant: 'apparat : signe « – – »'
+  apres: note supprimée
+  justification: la transcription balisée rend les deux traits ; note superflue
+- ligne: 10
+  avant: 'note de lecture : analyse du tracé (2 bouclé, h, point)'
+  apres: note brève (lecture retenue, alternative de l'édition antérieure)
+  justification: épuration de l'apparat ; l'analyse paléographique reste dans difficultes
+remarques: Contrôle p2 sur zooms ×3 ; « couture » (l. 14) et 9^{H} confirmés ; « 2 h. » (l. 10) et excessv^{t} (l. 15) restent incertains.
+resume: 'Suite du jeudi 8 février 1917 : temps merveilleux, ciel bleu, soleil ardent, gel profond. L''après-midi, promenade à pied jusqu''à Rubempré sur la neige durcie, dans un paysage vallonné couronné de moulins, moins banal que les environs d''Acheux. Hippolyte Combes achève de ranger sa chambre et de s''installer ; froid très vif, un peu de couture avant le coucher vers 9 h. Vendredi 9 : nuit excessivement froide, ciel clair et pleine lune ; matinée libre, mais trop froid pour écrire dans sa chambre.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Rubempré
+    ligne: 4
+    identite: Rubempré (Somme)
+  - forme: Acheux
+    ligne: 7
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

@@ -1,0 +1,157 @@
+cliche: 161
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 1er Jeudi — \hfill — Mars 1917 —
+  apres: 1^{er} \sl{Jeudi}. \hfill — Ma\sl{rs 1917} —
+  justification: er surélevé ; Jeudi souligné, suivi du point du i en tiret puis d'un point ; aucun tiret après Jeudi ; soulignement de rs 1917
+  confiance: haute
+- ligne: 3
+  avant: courses en auto
+  apres: course, en auto
+  justification: après course, trait vertical détaché, descendant sous la ligne, de même forme que la virgule après midi
+  confiance: moyenne
+- ligne: 3
+  avant: vu château,
+  apres: au chateau
+  justification: première lettre à panse fermée (a), puis u et délié ; pas d'accent circonflexe ; pas de virgule finale, seulement le délié du u
+  confiance: moyenne
+- ligne: 4
+  avant: Fréchencourt. Causé lgts avec
+  apres: Frechencourt. Causé \inc{lg} av
+  justification: 'pas d''accent sur le e ; l bouclé + g sans t ni s distincts ; av : a + v + délié, sans e ni c'
+  confiance: moyenne
+- ligne: 5
+  avant: ensoleillés, vers Pont-Noyelles.
+  apres: ensoleillé vers Pont Noyelles
+  justification: é final suivi de son accent seul, aucun s ni virgule ; pas de trait d'union ; aucun point final
+  confiance: moyenne
+- ligne: 10
+  avant: élancés.
+  apres: et élancés.
+  justification: petit « et » (e + t barré) en marge gauche, devant élancés
+  confiance: haute
+- ligne: 11
+  avant: dîner
+  apres: diner
+  justification: aucun circonflexe visible ; accent non restitué
+  confiance: moyenne
+- ligne: 13
+  avant: lune illuminant
+  apres: lune — illuminait
+  justification: long tiret appuyé après lune ; ai + point du i décalé avant le t final
+  confiance: haute
+- ligne: 14
+  avant: projetée sur le sol
+  apres: projetées \inc{s/} le sol
+  justification: après projetée, finale plongeante (s en ʒ) ; « sur » abrégé en court trait vertical sur une barre couchée
+  confiance: moyenne
+- ligne: 15
+  avant: silence absolu.
+  apres: silence absolu \trait
+  justification: délié final du u prolongé jusqu'à la marge, aucun point
+  confiance: haute
+- ligne: 16
+  avant: 2 Vendredi. — Matinée
+  apres: \sl{2 Vendredi}. Matinée
+  justification: long trait sous la date ; pas de tiret
+  confiance: haute
+- ligne: 20
+  avant: Dr Dubois
+  apres: Dr. Dubois
+  justification: point net après Dr
+  confiance: haute
+difficultes:
+- ligne: 4
+  lemme: \inc{lg}
+  analyse: après l'accent de Causé, l haut bouclé, g à panse et longue descente ; aucun s ni t lisible avant le a de av (zoom ×3 [.52 .09 1 .14])
+  alternatives:
+  - lgs
+- ligne: 4
+  lemme: Frechencourt
+  analyse: F, r, e, boucle haute de h (c fondu), puis e/a, n/u, c, o, u, r, t ; minimes indistinctes ; le toponyme impose Fréchencourt
+  alternatives:
+  - Frehancourt
+- ligne: 5
+  lemme: ds
+  analyse: haste rabattue vers le bas à gauche, panse au pied (d en ∂ rapide), puis crochet du s final ; le trait courbe sous « vers » est la hampe du t de « route » (l. 6), non un soulignement
+  alternatives:
+  - de
+- ligne: 5
+  lemme: Pont Noyelles
+  analyse: P, o, n, t barré ; N haut, o, y descendant, e, puis ll + finale écrasée contre la marge
+  alternatives:
+  - Pont Noyelle
+- ligne: 14
+  lemme: projetées
+  analyse: p, r, o, j (boucle basse jusqu'à la l. 15), e, t, é, e + descente plongeante
+  alternatives:
+  - projetée
+- ligne: 14
+  lemme: \inc{s/}
+  analyse: court trait vertical montant d'une barre horizontale épaisse terminée en crochet, sans boucle ni minime (zoom ×3 [0 .43 .45 .49]) ; le sens impose « sur »
+  alternatives:
+  - sur
+  - en
+- ligne: 15
+  lemme: de
+  analyse: d bouclé puis e en partie couvert par la boucle basse du j de projetées (l. 14)
+  alternatives:
+  - d'1
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Clé « lieux » mise à jour (Montigny-sur-l'Hallue, Pont-Noyelles ajouté ; Hérissart, cantonnement de la page précédente, absent de la page, retiré). Le texte ne dit pas si le « fils du maire » est de Montigny ou de Fréchencourt ; tout lien avec le Dr Dubois reste une hypothèse du commentaire.
+  alternatives: []
+controle:
+- ligne: 0
+  avant: 'lieux : Hérissart, Rubempré, Montigny, Fréchencourt, Contay, Toutencourt (Somme)'
+  apres: 'lieux : Rubempré, Montigny-sur-l''Hallue, Fréchencourt, Pont-Noyelles, Contay, Toutencourt (Somme)'
+  justification: Hérissart n'est pas nommé sur la page ; Pont-Noyelles l'est (l. 5) ; Montigny identifié
+- ligne: 1
+  avant: apparat disposition « Ma\sl{rs 1917} »
+  apres: note supprimée
+  justification: le balisage rend déjà le soulignement partiel, vérifié au zoom (trait commençant sous le r)
+- ligne: 4
+  avant: apparat graphie « Frechencourt »
+  apres: note supprimée
+  justification: seul l'accent manque, graphie qui n'égare pas ; analyse conservée dans difficultes
+- ligne: 5
+  avant: apparat graphie « Pont Noyelles »
+  apres: note supprimée
+  justification: seul le trait d'union manque ; nom reconnaissable
+- ligne: 16
+  avant: apparat disposition « \sl{2 Vendredi} »
+  apres: note supprimée
+  justification: le balisage suffit ; le trait est bien sous la date, au ras de la l. 17
+resume: 'Le jeudi 1er mars 1917, très belle journée : Hippolyte Combes va l''après-midi en auto à Rubempré, au château, puis à Montigny et à Fréchencourt, où il cause avec le fils du maire dans ses champs vers Pont-Noyelles. Après le thé, promenade sur la route de Contay : brume, plateau à large vue, moulins, grands crucifix aux carrefours. Le soir, il marche sur la route de Toutencourt sous un clair de lune avec halo, dans le calme et le silence. Le vendredi 2, brouillard puis soleil pâle et retour du froid ; le matin, longue conversation à Montigny avec le Dr Dubois ; l''après-midi est libre.'
+noms:
+  personnes:
+  - forme: fils du maire
+    ligne: 4
+    identite: fils du maire de Fréchencourt (ou de Montigny), non nommé
+  - forme: Dr. Dubois
+    ligne: 20
+    identite: docteur Dubois, de Montigny
+  lieux:
+  - forme: Rubempré
+    ligne: 3
+    identite: Rubempré (Somme)
+  - forme: Montigny
+    ligne: 4
+    identite: Montigny-sur-l'Hallue (Somme)
+  - forme: Frechencourt
+    ligne: 4
+    identite: Fréchencourt (Somme)
+  - forme: Pont Noyelles
+    ligne: 5
+    identite: Pont-Noyelles (Somme)
+  - forme: Contay
+    ligne: 6
+    identite: Contay (Somme)
+  - forme: Toutencourt
+    ligne: 12
+    identite: Toutencourt (Somme)
+  - forme: Montigny
+    ligne: 19
+    identite: Montigny-sur-l'Hallue (Somme)
+source: contrôle

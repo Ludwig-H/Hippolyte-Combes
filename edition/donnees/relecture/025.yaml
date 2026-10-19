@@ -1,0 +1,119 @@
+cliche: 25
+confiance: moyenne
+changements:
+- ligne: 3
+  avant: Dès 6H 1/2,
+  apres: dès 6^{H} \inc{\fr{1}{2}},
+  justification: d minuscule ; H suscrit à base haute ; fraction minuscule en forme de croix, non oblique
+  confiance: moyenne
+- ligne: 4
+  avant: ds l'air. –
+  apres: de \inc{e} lair –
+  justification: d∂ + e net ; puis un e isolé (l'accent apparent est la virgule de la l. 3) ; aucune apostrophe ni point après lair
+  confiance: moyenne
+- ligne: 7
+  avant: '& x magasins'
+  apres: x magasins
+  justification: aucun & entre animée et x ; le trait vertical est le jambage de « longuement » (l. 6)
+  confiance: haute
+- ligne: 11
+  avant: au dessus
+  apres: au-dessus
+  justification: trait d'union net entre au et dessus
+  confiance: haute
+- ligne: 13
+  avant: desséchées.
+  apres: dessechées –
+  justification: pas d'accent sur le e après ss ; tiret final, non point
+  confiance: haute
+- ligne: 15
+  avant: intérêt pittoresque.
+  apres: interet pittoresque
+  justification: aucun accent visible ; pas de point final
+  confiance: moyenne
+- ligne: 16
+  avant: laide.
+  apres: laide
+  justification: pas de point final
+  confiance: moyenne
+- ligne: 17
+  avant: Dépense ... physiques
+  apres: Depense ... physique
+  justification: le trait au-dessus du p est son attaque haute ; physique sans s, finale en long délié
+  confiance: moyenne
+- ligne: 18
+  avant: ft [?] ... moral —
+  apres: \inc{ft} ... moral
+  justification: après moral, simple délié final, pas de tiret
+  confiance: moyenne
+- ligne: 19
+  avant: santé
+  apres: \inc{santé}
+  justification: tracé ambigu (aspect « toute »), finale recouverte par l'E d'Estaires (l. 20)
+  confiance: basse
+- ligne: 20
+  avant: Ctes ples, à
+  apres: C^{tes} p^{les} à
+  justification: finales suscrites ; le trait vertical avant à est son accent, pas de virgule
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: \inc{\fr{1}{2}}
+  analyse: après 6 et H suscrit (aspect K) une petite croix à hauteur d'œil, sans barre empilée lisible ; « et demie » attendu par le sens
+  alternatives:
+  - 1/2
+  - x
+- ligne: 4
+  lemme: \inc{e}
+  analyse: de (∂ + e), puis petite boucle d'e isolée (le trait au-dessus est la virgule de la l. 3), puis l bouclé + a + i + r plongeant
+  alternatives:
+  - de l'air
+- ligne: 7
+  lemme: x magasins
+  analyse: grande croix nette, sans boucle ni tête fermée, détachée de animée
+  alternatives:
+  - nombreux magasins
+- ligne: 18
+  lemme: \inc{ft}
+  analyse: deux hastes à tête, barre commune ; ni o ni n
+  alternatives:
+  - ff
+  - font
+- ligne: 19
+  lemme: \inc{santé}
+  analyse: attaque haute barrée (s montant sous une barre de t couvrant le mot, ou t), panse (a ou o), deux minimes, t, e couvert par l'E d'Estaires
+  alternatives:
+  - toute
+- ligne: 21
+  lemme: 75c
+  analyse: petit 7 à barre de tête, longue haste à crochet de tête (5 en ſ), c ; le trait brun qui croise est le jambage du f de « parfaite »
+  alternatives:
+  - 7c
+controle:
+- ligne: 3
+  avant: 6^{H} \fr{1}{2}
+  apres: 6^{H} \inc{\fr{1}{2}}
+  justification: au zoom ×3, simple croix à hauteur d'œil, aucune barre ni chiffre empilé distinct ; lecture par le sens seulement
+- ligne: 8
+  avant: église chœur
+  apres: église (chœur
+  justification: trait fin et haut, détaché, montant au-dessus de l'œil et descendant sous la ligne, distinct de la tête du c ; parenthèse ouvrante non refermée, comme le note l'état antérieur
+- ligne: 0
+  avant: apparat (disposition l. 9, l. 20 ; changement l. 8)
+  apres: supprimés
+  justification: écriture serrée de la l. 9 et crochet des comptes rendus par le balisage ; changement l. 8 annulé
+remarques: 'Seconde lecture : points signalés par le commentateur historique vérifiés sur l''image (l. 4, 18, 19) ; les incertitudes demeurent. Le crochet des comptes a un long trait de tête au niveau de la l. 20 et un pied sous la l. 21. Les traits bruns qui croisent les montants des l. 20–21 appartiennent à « parfaite » (l. 19).'
+resume: 'Temps couvert le matin et en fin de journée, brume légère dès 6 h 30. L''après-midi, Hippolyte Combes pousse à cheval jusqu''à Estaires, petite ville animée et commerçante, dont il visite l''église (chœur, stalles ogivales, statuettes en bois, saint Ambroise) et remarque l''écusson peint au-dessus du perron de l''hôtel de ville. Routes poussiéreuses, campagne plate, monotone et sans pittoresque ; l''exercice physique lui fait du bien au moral. Dépenses : cartes postales et chocolat.'
+noms:
+  personnes:
+  - forme: S. Ambroise
+    ligne: 9
+    identite: saint Ambroise (statue de l'église d'Estaires)
+  lieux:
+  - forme: Estaires
+    ligne: 6
+    identite: Estaires (Nord)
+  - forme: Estaires
+    ligne: 20
+    identite: Estaires (Nord)
+source: contrôle

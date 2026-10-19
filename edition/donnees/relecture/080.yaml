@@ -1,0 +1,128 @@
+cliche: 80
+confiance: haute
+changements:
+- ligne: 1
+  avant: Jeudi 19 \hfill Oct /16
+  apres: \sl{Jeudi 19} \hfill \sl{Oct^{bre}/16}
+  justification: soulignements des deux éléments ; ondulation suscrite après Oct
+  confiance: haute
+- ligne: 2
+  avant: Levé 6h
+  apres: \centre Levé 6^{H}
+  justification: H suscrit ; note placée au milieu de la ligne, entre la date et la l. 3
+  confiance: haute
+- ligne: 3
+  avant: Réveillé par orage
+  apres: Reveillé par orage \trait
+  justification: aucun accent sur le premier e ; long délié final après orage
+  confiance: haute
+- ligne: 6
+  avant: détrempé, impraticable
+  apres: detrempé, impraticable \trait
+  justification: pas d'accent sur le premier e ; délié prolongé
+  confiance: moyenne
+- ligne: 7
+  avant: Abrité sous tente verte du mess,
+  apres: abrité sous tente verte du mess ,
+  justification: a initial au module d'une minuscule ; virgule détachée loin à droite
+  confiance: moyenne
+- ligne: 8
+  avant: attendu départ
+  apres: attendu depart \trait
+  justification: le trait au-dessus de « part » est la barre du t prolongée, aucun accent distinct
+  confiance: moyenne
+- ligne: 9
+  avant: Tout ruisselant d'eau.
+  apres: Tout ruisselant d'eau .
+  justification: point isolé loin après eau
+  confiance: haute
+- ligne: 10
+  avant: Quitté camp vers 11h. Monté s/ 1 wagon.
+  apres: Quitté camp vers 11^{H}. Monté s/ 1 wagon
+  justification: H suscrit ; aucun point après wagon
+  confiance: haute
+- ligne: 15
+  avant: Réussi par trouver petite chambre ds
+  apres: \ind Reussi par trouver petite chambre \inc{ds}
+  justification: alinéa ; pas d'accent sur e ; dernier mot de forme insolite
+  confiance: moyenne
+- ligne: 17
+  avant: du camp. Y installé!
+  apres: du camp. Y installé.
+  justification: le trait vertical est le jambage du second q de qq (l. 16) ; seul le point appartient à la ligne
+  confiance: moyenne
+- ligne: 18
+  avant: Toute nuit, bruit ininterrompu
+  apres: \ind Toute nuit, bruit ininterrompu \trait
+  justification: alinéa net ; délié final prolongé
+  confiance: haute
+- ligne: 20
+  avant: '[ — Cartes ples d''Albert : 20 c ]'
+  apres: '\ind — Cartes ples d''Albert : 20c'
+  justification: aucun crochet sur l'image ; long tiret d'attaque ; c accolé au 20
+  confiance: haute
+difficultes:
+- ligne: 15
+  lemme: \inc{ds}
+  analyse: 'trait vertical descendant sous la ligne (aspect 1 ou virgule), puis haste montante bouclée en panse ouverte (aspect a ou ∂), surmontée d''un trait horizontal détaché vers la droite (accent ou barre). Le ∂s de la l. 13 a une autre forme (haste haute + s). Le sens (« petite chambre dans maison rue voisine ») appelle ds. Contrôle p2 (zoom x3 [.86 .645 1.0 .70]) : haste oblique détachée puis panse ouverte à queue montante, barre horizontale au-dessus à droite ; même schéma que « ds » l. 13 (haste détachée + panse à queue), ce qui renforce ds sans l''assurer.'
+  alternatives:
+  - à
+  - ', là'
+- ligne: 16
+  lemme: voisine
+  analyse: v-o-i-s (haut, aspect k)-i (point)-n prolongé par un délié sans boucle, qui peut valoir -e
+  alternatives:
+  - voisin
+- ligne: 10
+  lemme: s/ 1
+  analyse: 'trois traits : un 1 à attaque (ſ), une longue barre oblique, un trait court (1 = un) avant wagon'
+  alternatives:
+  - s/
+- ligne: 13
+  lemme: dressés
+  analyse: d-r-e-s-s-e puis trait vertical descendant (s final réduit), accent posé au-dessus de ce dernier trait
+  alternatives:
+  - dressé
+- ligne: 20
+  lemme: Albert
+  analyse: a de grand module précédé de l'apostrophe ; majuscule retenue par cohérence avec 079
+  alternatives:
+  - albert
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1018 caractères ; OH 1916-II p. 461 (report de 24 h, 9 h 45), JMO 7/Bedf (17-19 oct.), journal annoté en ligne d''A. Linfoot (les Brickfields, sortie nord d''Albert vers Aveluy, à 3 km à l''est-sud-est de Bouzincourt) ; la clé « lieux » est corrigée pour ajouter le camp de départ. Je n''ai pas repris le rapprochement avec les Duchâteau proposé par l''édition antérieure : il n''est pas vérifié. Le « wagon » est sans doute une voiture hippomobile de la compagnie (hypothèse). Lecture « ds » (l. 15) toujours incertaine. Pas de p2. Contrôle p2 : la page ne nomme pas le camp de départ ; « lieux » laissé à Albert / brickfields ; l''hypothèse du fourgon hippomobile passe dans « critique » avec « sans doute ».'
+  alternatives: []
+- ligne: 17
+  lemme: installé.
+  analyse: 'Contrôle p2 (zoom x2 [.30 .73 .75 .80]) : le jambage du second q de « qq » (l. 16) descend jusqu''au-dessus du point ; aucun trait propre à la l. 17. Y initial à peine plus haut que les minuscules : majuscule gardée.'
+  alternatives:
+  - installé!
+controle:
+- ligne: 1
+  avant: 'apparat Oct^{bre} : octobre ; finale suscrite réduite à une ondulation'
+  apres: 'apparat Oct^{bre}/16 : octobre 1916'
+  justification: millésime abrégé développé dans la même note
+- ligne: 15
+  avant: note lecture avec description du tracé
+  apres: 'note brève : ds, comparaison avec l. 13, alternative à'
+  justification: 'zoom x3 : même schéma que ds l. 13 ; description paléographique renvoyée à difficultes'
+- ligne: 20
+  avant: 'lemme ples : postales'
+  apres: 'lemme Cartes ples : cartes postales'
+  justification: développement de la locution entière
+- ligne: 0
+  avant: 'critique : encre seule'
+  apres: 'critique : encre + « wagon » probable fourgon hippomobile'
+  justification: remarque du commentateur historique, donnée comme hypothèse
+remarques: 'Transcription p1 confirmée sur l''image (Levé 6^{H}, installé., Toute, très, d''Albert contrôlés). Seul doute : dernier mot de la l. 15 (ds ?). Camp de départ non nommé sur la page.'
+resume: 'Le jeudi 19 octobre 1916, Hippolyte Combes est réveillé à 6 heures par l''orage ; la pluie torrentielle a duré toute la nuit et la matinée, rendant le sol impraticable. Abrité sous la tente du mess, il attend le départ, quitte le camp vers 11 heures sur un wagon et arrive vers 1 heure au secteur des briqueteries (brickfield area) d''Albert, où l''on doit bivouaquer sous la pluie dans la boue. Il trouve une petite chambre dans une maison d''une rue voisine, à trois ou quatre cents mètres du camp, et s''y installe. Toute la nuit, canonnade très forte et ininterrompue. Dépense : cartes postales d''Albert, 20 centimes.'
+noms:
+  personnes: []
+  lieux:
+  - forme: brickfield area
+    ligne: 11
+    identite: secteur des briqueteries d'Albert (Somme)
+  - forme: Albert
+    ligne: 20
+    identite: Albert (Somme)
+source: contrôle

@@ -1,0 +1,109 @@
+cliche: 132
+fichier: 20251126_110149.jpg
+date: Samedi 27 (comptes) et dimanche 28 janvier 1917
+mois: Janvier 1917
+lieux: Paris ; Toulouse (Haute-Garonne)
+titre: Comptes du 27 janvier à Paris ; arrivée à Toulouse le 28, visite de l'oncle Émile
+transcription: |
+  Sam \sl{– 27} \hfill \sl{Janv. /17}
+  \sl{Paris}. gare du nord. Facteur : 20c
+  \ind Gare d Orsay : 10c. \hfill Carte ples : 10c
+  \ind Enregt 2 colis, 2f 40 : 10c
+  \ind Fiacre \inc{taxametre} : 1^{f}45 + 30c = 1 75c
+  \ind Métro : 15, 15c \hfill Diner : 1^{f}95 + 10c
+  \ind Billet pour Toulouse : 11^{f} 15c
+  Magasins Hotel de Ville : 1 brosse à cheveux : 3^{f}95
+  \ind Brosse à souliers : 65c. — Peigne fin : \inc{15}c
+  \ind Peigne ord^{re} : 95c. — Cirage noir : 50c
+  \filet
+  \sl{Dimanche 28}
+  \ind Voyage, terminé sans incidents \trait
+  En approchant de Toulouse, souvrs jeunesse
+  revenus en foule esprit. Cru revoir mère et
+  \inc{sœurs}, m'attendant, cme autrefois, gare
+  Vers 8^{H}15 arrivée
+  Retiré 2 bagages. Pris tram St-Michel
+  Matinée, ds mon appartt, à ranger
+  affaires.
+  \ind oncle Émile, venu me surprendre à 10^{H}\fr{1}{2}
+  a midi, enfin, à Ste-Marie – Dû
+  attendre tram 30m. angle musee
+  \filet[d]{0.7}
+apparat:
+- ligne: 1
+  lemme: Sam
+  type: abreviation
+  note: samedi
+- ligne: 1
+  lemme: Janv. /17
+  type: abreviation
+  note: janvier 1917
+- ligne: 3
+  lemme: Carte ples
+  type: abreviation
+  note: cartes postales
+- ligne: 4
+  lemme: Enregt
+  type: abreviation
+  note: enregistrement
+- ligne: 5
+  lemme: \inc{taxametre}
+  type: lecture
+  note: pour « taximètre » ; aucun i après le x, « taximètre » possible
+- ligne: 5
+  lemme: = 1 75c
+  type: compte
+  note: 1 f 45 + 30 c = 1 f 75
+- ligne: 9
+  lemme: \inc{15}c
+  type: lecture
+  note: 15 c retenu, la haste se mêlant au 5 de la ligne précédente ; « 1 f 25 » ou « 5 c » possibles
+- ligne: 10
+  lemme: ord^{re}
+  type: abreviation
+  note: ordinaire
+- ligne: 13
+  lemme: souvrs
+  type: abreviation
+  note: souvenirs
+- ligne: 15
+  lemme: \inc{sœurs}
+  type: lecture
+  note: s, e, u puis long délié ; « sœur » possible
+- ligne: 15
+  lemme: cme
+  type: abreviation
+  note: comme
+- ligne: 17
+  lemme: St-Michel
+  type: abreviation
+  note: Saint-Michel (quartier de Toulouse)
+- ligne: 18
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 18
+  lemme: appartt
+  type: abreviation
+  note: appartement
+- ligne: 20
+  lemme: 10^{H}\fr{1}{2}
+  type: lecture
+  note: H suscrit, la demie réduite à un trait en ʌ sous l’H
+- ligne: 21
+  lemme: Ste-Marie
+  type: abreviation
+  note: Sainte-Marie
+- ligne: 22
+  lemme: 30m.
+  type: abreviation
+  note: 30 minutes
+critique: Les comptes du samedi 27, qui n'avaient pas trouvé place au verso précédent, occupent le haut de la page ; un filet les sépare du récit du dimanche 28, qui se poursuit au verso (f. 66 v\textsuperscript{o}).
+historique: |
+  Le billet de 11 f 15 est payé au quart de place militaire (Lafon 1922, p. 37 ; voir f. 27 r\textsuperscript{o}) : il est proche du billet de 3\textsuperscript{e} classe du retour d'octobre (11 f 75, f. 32 r\textsuperscript{o}), quand le plein tarif de 3\textsuperscript{e} Paris – Toulouse était de 35 fr. 40 en 1912 (Baedeker 1912, R. 39). À Matabiau, Combes prend la ligne de la gare à la place Saint-Michel (Baedeker 1912, p. 298), proche de son appartement de la rue de Languedoc ; l'« angle musee » est sans doute celui du musée des Augustins, où il attend le tram du Capitole pour la Côte-Pavée ; la presse dénonce alors « la crise des tramways électriques » (\textit{Le Télégramme}, 30 janv. 1917, p. 3). Les morts évoqués sont sa mère, Anaïs Alric, morte à Toulouse en 1907, et ses sœurs Maria (Carthage, 1903) et Joséphine (Nogent-le-Rotrou, octobre 1914, selon la tradition familiale). L'oncle Émile est Émile Crouzet (v. 1842–1926), mari de la tante paternelle de Marguerite (\textit{L'Express du Midi}, 23 déc. 1926) ; sur Sainte-Marie, voir f. 27 v\textsuperscript{o}.
+sources:
+- Lafon, G., Les Chemins de fer français pendant la guerre, thèse de droit, Paris, A. Rousseau, 1922, p. 37.
+- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, R. 39 et p. 298.
+- Le Télégramme (Toulouse), 30 janvier 1917, p. 3.
+- L'Express du Midi (Toulouse), 23 décembre 1926, p. 5 (faire-part d'Émile Crouzet).
+- Combes, Pierre, biographie familiale d'Hippolyte Combes, dactylographie, s. d.

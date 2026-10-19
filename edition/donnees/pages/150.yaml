@@ -1,0 +1,121 @@
+cliche: 150
+fichier: 20251126_110726.jpg
+date: Vendredi 9 (suite) – samedi 10 février 1917
+mois: Février 1917
+lieux: Hérissart, Toutencourt et Martinsart (Mesnil-Martinsart, Somme)
+titre: 'Toutencourt : solde désormais payée par l''armée ; fermes ; samedi 10, Martinsart'
+transcription: |
+  —Vendredi \sl{9 (suite)} — \hfill Février 1917
+  \ind Après-midi, ds l'auto du Lieut^{t} Croughton,
+  venu à Toutencourt. Bureau Mission fr^{e}, appris
+  que désormais serai administré par l'armée et
+  payé les 3 et 18 de chaque mois.
+  Retour sur 1 lorry.
+  Ecrit salle café maison où chambre
+  Vers 6^{h} s ; avec Cap. W^{m}, ds les fermes
+  pour acheter paille & foin.
+  \blanc{1}
+  \sl{Sam. 10}.
+  \ind[2] Sur pied dès 7^{h}.
+  Dû sortir aussitôt pour aller aux \inc{L^{ns}} de M.T.,
+  at the end of the road.
+  nuit & matinée, froid vif. très penetrant
+  gelé toujrs très fort
+  \ind Après le breakfast, partis en auto à Martinsart
+  Dévalé routes en pente. Des 2 cotes, champs couverts
+  de neige durcie. Soleil se leve, de + en + chaud
+  \ind au chateau de Martinsart, reçus par
+  un gal \inc{Votté}, très aimable
+  village, rempli de troupes anglaises
+apparat:
+- ligne: 2
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 2
+  lemme: Lieut^{t}
+  type: abreviation
+  note: lieutenant
+- ligne: 3
+  lemme: fr^{e}
+  type: abreviation
+  note: française
+- ligne: 6
+  lemme: '1'
+  type: abreviation
+  note: un
+- ligne: 6
+  lemme: lorry
+  type: emprunt
+  note: camion
+- ligne: 8
+  lemme: 6^{h} s
+  type: abreviation
+  note: six heures du soir
+- ligne: 8
+  lemme: Cap. W^{m}
+  type: abreviation
+  note: capitaine Williams
+- ligne: 8
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 9
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 10
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 11
+  lemme: dès
+  type: lecture
+  note: accent réduit à un trait horizontal ; « du » graphiquement possible
+- ligne: 11
+  lemme: 7^{h}
+  type: abreviation
+  note: sept heures
+- ligne: 12
+  lemme: L^{ns}
+  type: lecture
+  note: lignes (angl. lines, cantonnement) ; L suivi d'une finale suscrite, abréviation incertaine
+- ligne: 12
+  lemme: M.T.
+  type: abreviation
+  note: Motor Transport, transport automobile (britannique)
+- ligne: 13
+  lemme: at the end of the road
+  type: emprunt
+  note: au bout de la route
+- ligne: 14
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 15
+  lemme: toujrs
+  type: abreviation
+  note: toujours
+- ligne: 16
+  lemme: breakfast
+  type: emprunt
+  note: petit déjeuner
+- ligne: 18
+  lemme: de + en +
+  type: abreviation
+  note: de plus en plus
+- ligne: 20
+  lemme: gal
+  type: abreviation
+  note: général
+- ligne: 20
+  lemme: Votté
+  type: lecture
+  note: deux hastes sans boucle coupées d'une barre (tt) ; Volké (lecture antérieure), Vossé possibles ; non identifié
+critique: Pâté d'encre sur la fin de « (suite) », en tête de page. Les derniers mots (« rempli de troupes anglaises ») sont d'une encre violette plus pâle, la plume s'épuisant ; la tournée du samedi se poursuit au verso.
+historique: |
+  Toutencourt, à 3~km à l'est d'Hérissart, abrite du 2 juillet 1916 au 28 mars 1917 le QG de la Fifth Army (LLT) et sa Mission française (voir f.~52 v\textsuperscript{o}). Payé jusque-là par la Mission de corps d'Acheux, encore le 7 février (voir f.~74 r\textsuperscript{o}), Combes relève désormais, sans doute comme le \textit{Purchase Board} auquel il est détaché, de l'armée ; le calendrier sera tenu : 18 février, 3 et 18 mars (voir f.~78 r\textsuperscript{o}, 81 r\textsuperscript{o}, 85 r\textsuperscript{o}). Le lieutenant Croughton, rencontré le 9 décembre au mess d'une compagnie du train de la 31st Division (voir f.~54 v\textsuperscript{o}), n'est pas identifié. Martinsart, à 4~km au nord d'Albert, était proche du front jusqu'en septembre 1916 (CWGC) ; en février 1917, la 54th Brigade loge dans les baraques du bois voisin (JMO 7/Bedf, févr. 1917). Combes avait pris le thé au château le 28 novembre (voir f.~52 r\textsuperscript{o}) ; le général « Volké » n'est pas identifié.
+sources:
+- The Long, Long Trail (C. Baker), « The British Fifth or Reserve Army 1916-1918 », copie Wayback du 23 juil. 2024.
+- Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).
+- 'Bedfordshire Archives Service, X550/8/1/1702 : War Diary, 7th (Service) Battalion, Bedfordshire Regiment, février 1917.'

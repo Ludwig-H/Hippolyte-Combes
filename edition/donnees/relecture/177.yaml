@@ -1,0 +1,177 @@
+cliche: 177
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 6 Vendr. — \hfill Avril 1917 —
+  apres: 6 \sl{Vendr.} — \hfill \sl{Avril 1917} —
+  justification: soulignements nets sous Vendr. et sous Avril 1917 (trait terminé en crosse)
+  confiance: haute
+- ligne: 2
+  avant: Levé tôt. Après breakfast,
+  apres: Levé tot après breakfast,
+  justification: aucun circonflexe ni point visibles après tot (longue barre de t) ; a initial minuscule, accent posé sur apres
+  confiance: moyenne
+- ligne: 4
+  avant: de la Mission fr., Vth Army H.Q., venu nous payer
+  apres: de la Mission, fr, Vth army H.Q., venu nous payer
+  justification: virgule (trait vertical) après Mission et après fr ; a minuscule de army
+  confiance: moyenne
+- ligne: 7
+  avant: aujourd'hui
+  apres: aujd'hui
+  justification: forme abrégée a-u-j-d bouclé, apostrophe, hui
+  confiance: haute
+- ligne: 8
+  avant: départ H.Q. et troupes.
+  apres: départ H.Q. et troupes
+  justification: aucun point final ; délié de troupes prolongé
+  confiance: moyenne
+- ligne: 10
+  avant: avec off. pour
+  apres: avec off pour
+  justification: pas de point après off
+  confiance: moyenne
+- ligne: 10
+  avant: Au retour,
+  apres: Au retour
+  justification: aucune virgule visible
+  confiance: moyenne
+- ligne: 13
+  avant: courtes, discontinues.
+  apres: \inc{courtes} discontinues
+  justification: lettres c-o-u-r + finale plongeante, aucune barre de t ; pas de point final
+  confiance: basse
+- ligne: 14
+  avant: lgt
+  apres: lgs
+  justification: l + g + s descendant sans barre (guide § 8, n° 2)
+  confiance: haute
+- ligne: 15
+  avant: de l'Australie avec M. Wentworth et lu pamphlets.
+  apres: de l'\sl{Australie} avec M. Wentworth et lu pamphlets
+  justification: trait horizontal appuyé sous Australie ; pas de point final
+  confiance: moyenne
+- ligne: 16
+  avant: '[ Solde : 78 f. 75 c. — ]'
+  apres: '[Solde : 78^{f} 75 c. —'
+  justification: f suscrit en crochet au-dessus entre 8 et 7, sans point ; crochet ouvrant seul, aucun crochet fermant
+  confiance: haute
+- ligne: 17
+  avant: 7 Sam. — Temps gr. froid. Ciel resté
+  apres: 7 \sl{Sam.} — Temps gr froid. ciel resté
+  justification: Sam. souligné ; pas de point après gr ; c minuscule de ciel
+  confiance: moyenne
+- ligne: 18
+  avant: couvert, gros nuages. Vent violent.
+  apres: couvert. gros nuages. Vent violent
+  justification: point net après couvert ; pas de point final (délié prolongé)
+  confiance: haute
+- ligne: 19
+  avant: Matinée, courses à Contay, Acheux &
+  apres: matinée, courses à Contay. Acheux &
+  justification: point après Contay
+  confiance: moyenne
+- ligne: 20
+  avant: Léalvillers-Toutencourt & Rubempré.
+  apres: Léalvillers–Toutencourt & Rubempré
+  justification: tiret séparé, pas de point final
+  confiance: moyenne
+- ligne: 21
+  avant: Après-midi, liberté.
+  apres: Après-midi, liberté
+  justification: finale en crochet, pas de point
+  confiance: moyenne
+- ligne: 22
+  avant: Gdes rafales
+  apres: g^{ds} rafales
+  justification: g minuscule suivi de lettres suscrites (haste de d + délié de s)
+  confiance: moyenne
+- ligne: 23
+  avant: rentrer tôt.
+  apres: rentrer tot
+  justification: barre de t prolongée, aucun circonflexe distinct ni point
+  confiance: moyenne
+- ligne: 24
+  avant: Admiré paysage —
+  apres: Admiré paysage \trait
+  justification: délié final de paysage tiré sans levée de plume
+  confiance: moyenne
+difficultes:
+- ligne: 13
+  lemme: courtes
+  analyse: c, o, u (deux minimes), r, puis finale descendante en ʒ ; aucune barre de t visible ; le sens impose courtes ; pas de virgule après le mot (zoom ×3)
+  alternatives:
+  - cours
+  - courts
+- ligne: 16
+  lemme: '75'
+  analyse: '7 barré puis haste haute bouclée descendant sous la ligne : 5 en ℓ ; la boucle au-dessus de l''intervalle 8/7 est le f monétaire suscrit'
+  alternatives:
+  - 7f
+- ligne: 17
+  lemme: gr
+  analyse: g bouclé suivi d'un petit r dont la tête forme une traverse ; pas de d
+  alternatives:
+  - gd
+- ligne: 22
+  lemme: g^{ds}
+  analyse: g plongeant, puis au-dessus de la ligne une haste montante (d) et un délié horizontal (s ou es)
+  alternatives:
+  - g^{des}
+  - Gdes
+- ligne: 15
+  lemme: \sl{Australie}
+  analyse: trait horizontal sous le milieu du mot, à l'écart de la ligne suivante (blanc avant le compte)
+  alternatives:
+  - trait parasite
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1 035 caractères ; LLT Fifth Army (QG à Albert le 28 mars 1917), Miles OH 1916-II p. 531 n. 4 (entrée en guerre des États-Unis le 6 avril), AIF Project pour les deux Wentworth possibles, aucun des deux prouvé ; Léalvillers ajouté aux lieux. Remarque sur la transcription : p1 lit « lgs » (longtemps), alors que R7 et R8 citent « lgt ». La lecture « courtes » est incertaine (\inc).'
+  alternatives: []
+controle:
+- ligne: 13
+  avant: \inc{courtes}, discontinues
+  apres: \inc{courtes} discontinues
+  justification: 'zoom x3 [.02 .40 .30 .45] : aucune virgule entre les deux mots ; le seul trait descendant est la finale plongeante du mot douteux'
+- ligne: 19
+  avant: \ind Matinée, courses
+  apres: \ind matinée, courses
+  justification: initiale au module des minuscules (m à attaque basse), contre le M haut de Mission l. 4
+- ligne: 15
+  avant: (pas de note)
+  apres: 'pamphlets : emprunt, brochures'
+  justification: mot pris au sens anglais (brochures), non au sens français d'écrit polémique
+- ligne: 16
+  avant: notes disposition [Solde et compte 78^{f} 75 c.
+  apres: supprimées
+  justification: 'le crochet est rendu par « [ » ; montant sans total ni opération : rien à signaler à l''impression'
+remarques: Encre violette homogène ; taches brunes sans perte de texte ; bas de page blanc.
+resume: 'Vendredi saint 6 avril 1917 : Combes est conduit en auto à Toutencourt, où un membre du personnel du bureau de la Mission française du Q.G. de la Ve armée vient payer la solde (78 f 75). Il goûte les rues ensoleillées du village tranquille depuis le départ du Q.G. et des troupes, revient à Hérissart, repart avec l''officier pour Toutencourt et Rubempré ; bruine au retour, après-midi libre avec averses. Le soir, il cause longuement de l''Australie avec Wentworth devant le poêle et lit des brochures. Samedi 7 : grand froid, vent violent ; courses à Contay et Acheux, retour par Léalvillers, Toutencourt et Rubempré ; promenade sur la route de Contay écourtée par les rafales.'
+noms:
+  personnes:
+  - forme: Wentworth
+    ligne: 15
+    identite: lieutenant australien
+  lieux:
+  - forme: Toutencourt
+    ligne: 3
+    identite: Toutencourt (Somme)
+  - forme: Hérissart
+    ligne: 9
+    identite: Hérissart (Somme)
+  - forme: Rubempré
+    ligne: 10
+    identite: Rubempré (Somme)
+  - forme: Australie
+    ligne: 15
+    identite: Australie
+  - forme: Contay
+    ligne: 19
+    identite: Contay (Somme)
+  - forme: Acheux
+    ligne: 19
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Léalvillers
+    ligne: 20
+    identite: Léalvillers (Somme)
+source: contrôle

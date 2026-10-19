@@ -1,0 +1,170 @@
+cliche: 48
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam 23 \hfill Sept 16
+  apres: \sl{Sam 23} \hfill \sl{Sept^{bre} /16}
+  justification: soulignements nets ; t de Sept suivi d'une ondulation suscrite prolongée ; barre oblique avant 16
+  confiance: haute
+- ligne: 2
+  avant: Très
+  apres: très
+  justification: t initial minuscule, même module que les lettres suivantes
+  confiance: moyenne
+- ligne: 3
+  avant: 6H ½
+  apres: 6^{H} \fr{1}{2}
+  justification: H surélevé ; demi empilé
+  confiance: haute
+- ligne: 4
+  avant: 7H ½, Cap West
+  apres: 7^{H} \fr{1}{2}, cap West
+  justification: H suscrit au-dessus du 7 ; c initial minuscule
+  confiance: haute
+- ligne: 5
+  avant: 9H 30
+  apres: 9^{H} 30
+  justification: petit H suscrit
+  confiance: haute
+- ligne: 8
+  avant: Léalvillers
+  apres: Lealviller
+  justification: aucun accent ; la finale s'arrête sur un r prolongé en délié, sans s distinct
+  confiance: moyenne
+- ligne: 9
+  avant: av.
+  apres: \inc{avec}
+  justification: quatre éléments et aucun point ; le délié final est coupé d'un trait vertical
+  confiance: basse
+- ligne: 10
+  avant: champs à
+  apres: champ à
+  justification: p final à queue retournée, sans s ; le trait vertical à droite est la descente de « message » (l. 9), le tiret haut l'accent de à
+  confiance: moyenne
+- ligne: 11
+  avant: coté
+  apres: \inc{coté}
+  justification: tracé serré et ambigu en début de ligne
+  confiance: basse
+- ligne: 12
+  avant: j. à
+  apres: j.à
+  justification: point bas, sans espace, entre j et a
+  confiance: moyenne
+- ligne: 13
+  avant: Cap. West, vers 2 H 1/2, m'a rejoint et aussitôt
+  apres: Cap West vers 2^{H} \fr{1}{2}, m a rejoint et aussitot
+  justification: aucun point après Cap ni virgule après West ; H suscrit, demi empilé ; aucune apostrophe entre m et a ; aucun circonflexe
+  confiance: moyenne
+- ligne: 14
+  avant: tte Coy file. –
+  apres: tt Coy filé. –
+  justification: deux hastes sous une barre, aucun e ; accent de filé rejeté à droite
+  confiance: moyenne
+- ligne: 15
+  avant: Revenus route gare j'au
+  apres: \inc{Revenus} route gare \inc{jau}
+  justification: la haste haute qui traverse le mot est la descente du y de « Coy » (l. 14) ; restent R, e, v, minimes, finale en crochet ; jau sans apostrophe, finale bouclée ambiguë (a-u ou u-s)
+  confiance: basse
+- ligne: 18
+  avant: coteau.
+  apres: coteau
+  justification: aucun point visible
+  confiance: moyenne
+- ligne: 20
+  avant: '[bâche ?]'
+  apres: bache
+  justification: b, a, c, h haut, e en délié ; sans circonflexe
+  confiance: moyenne
+- ligne: 22
+  avant: 'A Mme — propre à Acheux : 1 f (cooking'
+  apres: \equerre{2}A M^{me} — \inc{propri} d'Acheux. 1 (Cooking
+  justification: me suscrit ; après prop un i pointé puis d en ∂ et apostrophe fondue dans la boucle d'attaque de l'A ; point après Acheux ; aucun f après 1 ; C initial grand
+  confiance: basse
+- ligne: 23
+  avant: '[ Carte du Petit Journal : 60 c —'
+  apres: 'Carte du Petit Journal : 60 c —'
+  justification: le signe est une équerre (trait horizontal puis vertical), portée sur la l. 22
+  confiance: haute
+difficultes:
+- ligne: 9
+  lemme: \inc{avec}
+  analyse: haste haute, v arrondi, petite boucle d'e, délié horizontal recoupé par un trait vertical descendant sous la ligne (non issu de la l. 10)
+  alternatives:
+  - av +
+  - av
+  - '&'
+- ligne: 11
+  lemme: \inc{coté}
+  analyse: c court, o, haste bouclée (t initial en l), e, trait final haut ; aucun accent visible ; le « à » qui précède est en fin de l. 10
+  alternatives:
+  - colet
+- ligne: 15
+  lemme: \inc{Revenus}
+  analyse: R ; e ; v en c bouclé ; la haste haute est la descente du y de Coy (l. 14), qui se prolonge sans rupture ; puis minimes (n, u) et finale en crochet sous un tiret (s réduit ou accent)
+  alternatives:
+  - Retourné
+  - Retournés
+- ligne: 15
+  lemme: \inc{jau}
+  analyse: j pointé, premier jambage épais (panse d'a écrasée ?), minime, finale bouclée revenant à gauche
+  alternatives:
+  - jus
+  - j'au
+- ligne: 22
+  lemme: \inc{propri}
+  analyse: p, r, o (minimes), p à haste longue, i pointé ; puis d bouclé en ∂ ; la boucle d'attaque de l'A vaut apostrophe ; aucun r distinct entre p et i
+  alternatives:
+  - propre
+  - propi
+- ligne: 22
+  lemme: 1 (Cooking
+  analyse: 'petit crochet haut après 1 : parenthèse (ou f monétaire suscrit réduit)'
+  alternatives:
+  - 1^{f} Cooking
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sources : JMO 7/Bedf (23 sept. 1916), Nichols 1922 (p. 110, capitaine E. M. West), OH 1916-I et II, lettre du 21 février 1916 (Pizzi). Raincheval ajouté aux lieux (village quitté, cf. 047). La ligne « A Mme propri d''Acheux » reste obscure.'
+  alternatives: []
+controle:
+- ligne: 13
+  avant: Cap West, vers
+  apres: Cap West vers
+  justification: aucune virgule entre West et vers (blanc net) ; seule la virgule avant m a est visible
+- ligne: 15
+  avant: \inc{Retourné}
+  apres: \inc{Revenus}
+  justification: la haste haute prise pour un t est la descente du y de « Coy » (l. 14), continue sur le zoom [0 .59 .30 .70] ; les tracés restants conviennent à Revenus
+- ligne: 15
+  avant: jau
+  apres: \inc{jau}
+  justification: finale bouclée revenant à gauche, compatible avec u-s ; a fermé non assuré
+- ligne: 4
+  avant: (pas de note)
+  apres: 7^{H} \fr{1}{2} abréviation
+  justification: heure non développée dans l'apparat de p1
+- ligne: 22
+  avant: note compte englobant Cooking
+  apres: note emprunt distincte pour Cooking
+  justification: chaque mot anglais reçoit sa traduction
+remarques: Le grand trait vertical à l'extrême droite de la l. 10 est la descente de « message » (l. 9) ; la haste qui traverse le premier mot de la l. 15 est la descente du y de « Coy » (l. 14). Le village quitté (l. 6) est celui du cliché 047 (Raincheval).
+resume: 'Le 23 septembre 1916, par un temps superbe, la compagnie quitte son cantonnement à 9 h 30 ; près du garage de Léalvillers, Pizzi arrive en auto avec un message qui oblige à rebrousser chemin et à attendre dans un champ près du refilling point. Hippolyte Combes gagne seul à cheval la gare d''Acheux ; le capitaine West l''y rejoint vers 14 h 30 et toute la compagnie repart. On cantonne en plein air au flanc d''un coteau, au tournant de la route de Forceville ; il s''installe une hutte garnie d''une épaisse bâche verte. Dépenses : propriétaire d''Acheux (cuisine), une carte du Petit Journal.'
+noms:
+  personnes:
+  - forme: West
+    ligne: 4
+    identite: capitaine E. M. West, commandant la compagnie d'Hippolyte Combes
+  - forme: Pizzi
+    ligne: 9
+    identite: officier britannique
+  lieux:
+  - forme: Lealviller
+    ligne: 8
+    identite: Léalvillers (Somme)
+  - forme: Acheux
+    ligne: 12
+    identite: Acheux-en-Amiénois (Somme), gare
+  - forme: Forceville
+    ligne: 16
+    identite: Forceville (Somme)
+source: contrôle

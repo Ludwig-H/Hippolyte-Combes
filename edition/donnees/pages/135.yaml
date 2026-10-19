@@ -1,0 +1,122 @@
+cliche: 135
+fichier: 20251126_110233.jpg
+date: Mardi 30 janvier 1917
+mois: Janvier 1917
+lieux: Toulouse (Haute-Garonne)
+titre: 'Toulouse : repos au coin du feu ; visite à Mme de Labarthe ; cours de Zyromski sur Guérin'
+transcription: |
+  \sl{Mardi 30}. \hfill \sl{Janvier} 1917 —
+  \ind Levé 7^{h} m. Allumé gd feu
+  chambre. Me suis prelassé s/ fauteuil. Joui
+  de mon bien-être & repos de l'heure présente
+  Evoqué passé sans melancolie
+  Matin, visite à Mme de Labarthe. L'ai
+  revue av un plaisir extrême
+  Monté, cme d'habitude, à S^{te} Marie pour
+  dejeuner
+  \ind Après-midi, assisté confer^{ce} de M. Zyromski
+  sur Maurice de Guerin (Influence de la Bretagne
+  & de Lamennais). Admirab^{t} écrite. Passages
+  remarquables pr fond et forme. Vrai
+  regal littéraire.
+  \ind Fini journée en cie de Margte —
+  \blanc{5}
+  \crochet{5}Cartes ples : 10c.
+  — 1 ramette papier velin : 1^{f} 25 \add{(moyen format)}
+  2 paquets d'enveloppes : .80c.
+  Trams : 10c. 60c, 10c.
+  Le Miroir de Modes (no de janvier) : 1^{f} —
+apparat:
+- ligne: 2
+  lemme: 7^{h} m.
+  type: abreviation
+  note: 7 heures du matin
+- ligne: 2
+  lemme: gd
+  type: abreviation
+  note: grand
+- ligne: 3
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 6
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 7
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 8
+  lemme: cme
+  type: abreviation
+  note: comme
+- ligne: 8
+  lemme: S^{te} Marie
+  type: abreviation
+  note: Sainte-Marie(-des-Champs), à Toulouse
+- ligne: 10
+  lemme: confer^{ce}
+  type: abreviation
+  note: conférence
+- ligne: 10
+  lemme: M.
+  type: abreviation
+  note: Monsieur
+- ligne: 12
+  lemme: Admirab^{t}
+  type: abreviation
+  note: Admirablement
+- ligne: 13
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 13
+  lemme: pr
+  type: ajout
+  note: écrit petit après coup, serré entre « remarquables » et « fond » ; omis par la transcription antérieure
+- ligne: 15
+  lemme: cie
+  type: abreviation
+  note: compagnie
+- ligne: 15
+  lemme: Margte
+  type: abreviation
+  note: Marguerite
+- ligne: 16
+  lemme: Cartes ples
+  type: abreviation
+  note: cartes postales
+- ligne: 17
+  lemme: 1^{f} 25
+  type: abreviation
+  note: 1 franc 25
+- ligne: 17
+  lemme: (moyen format)
+  type: ajout
+  note: 'écrit petit sous « velin : 1 f 25 », au-dessus de la ligne suivante'
+- ligne: 19
+  lemme: Trams
+  type: abreviation
+  note: tramways
+- ligne: 20
+  lemme: Le Miroir de Modes
+  type: lecture
+  note: « de », sans s ; le périodique s'intitule Le Miroir des modes
+- ligne: 20
+  lemme: 'no'
+  type: abreviation
+  note: numéro
+- ligne: 20
+  lemme: 1^{f}
+  type: abreviation
+  note: 1 franc
+critique: Encre violette. Un blanc d'environ cinq lignes sépare le journal des comptes, que réunit un grand crochet.
+historique: |
+  Sur Mme de Labarthe, « gde amie affectueuse \& attachée », voir f.~28 v\textsuperscript{o}. La « conférence » est une leçon du cours public de littérature française d'Ernest Zyromski (1862--1933), professeur à la Faculté des lettres de Toulouse et mainteneur des Jeux floraux, dont Combes avait acheté \textit{L'Orgueil humain} à Paris (voir f.~27 r\textsuperscript{o}). La presse l'annonce pour « mardi 30 janvier, à 5 heures », sur « M. de Guérin : Le séjour en Bretagne et l'influence de Lamennais » (\textit{Le Télégramme}, 30 janv. 1917, p.~3), et en publie le compte rendu sous le titre « Maurice de Guérin à la Chênaie » (\textit{L'Express du Midi}, 1\textsuperscript{er} févr. 1917, p.~3). Le cours aboutit au \textit{Maurice de Guérin} de 1921, dont le chapitre VI traite de « l'influence de la terre bretonne et l'action de Lamennais » (Zyromski 1921, p.~113--114). \textit{Le Miroir des modes} est un mensuel de mode publié à Paris par la maison américaine Butterick (BnF), sans doute acheté pour Marguerite.
+sources:
+- Le Télégramme (Toulouse), 30 janv. 1917, p. 3, « Cours et conférences » (Rosalis, Bibliothèque de Toulouse, ark:/12148/bd6t538665156).
+- L'Express du Midi (Toulouse), 1er févr. 1917, p. 3, « Cours et conférences » (Rosalis, ark:/12148/bpt6k53850274).
+- Zyromski, E., Maurice de Guérin, Paris, Armand Colin, 1921, chap. VI, p. 113-114.
+- BnF, notice d'autorité « Ernest Zyromski (1862-1933) », data.bnf.fr/12976861.
+- BnF, catalogue général, « [Miroir des modes] », Paris, Butterick, 1902-1934, ark:/12148/cb34387442t.

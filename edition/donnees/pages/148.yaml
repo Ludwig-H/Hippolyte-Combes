@@ -1,0 +1,116 @@
+cliche: 148
+fichier: 20251126_110646.jpg
+date: Mercredi 7 février 1917 (fin) – jeudi 8 février 1917
+mois: Février 1917
+lieux: Hérissart (Somme)
+titre: Bureau et mess au n° 104 d'Hérissart ; comptes du retour ; jeudi 8, journée libre
+transcription: |
+  \sl{merc– 7 (fin)} \hfill \sl{Fevrier 1917}
+  notre bureau & mess, au no 104, mauvaise
+  installation
+  apres diner, retourné chambre vers 9^{H}
+  Vitres recouvertes très epaisse gelée glacée
+  Froid extt rigoureux \trait
+  \blanc{1}
+  \crochet{6}Diner à Paris, metro : 15 c.
+  Amiens, Y.M.C.A : 1^{f} 15 c
+  Touché solde Mission fr^{se}, Acheux : 78^{f}75
+  Gift aux Carluvant, pour
+  \ind[3] mon lunch : 5 f.
+  \ind[4] et varia
+  \filet
+  \sl{Jeudi 8.}
+  \ind Très bonne nuit. Bien reposé. Lit
+  très confortable
+  \ind Levé vers 8^{H} –
+  Soleil \inc{sur} mes fenetres
+  Descendu à l'office & mess. Excellent
+  breakfast
+  Tout le jour, liberté entière –
+apparat:
+- ligne: 1
+  lemme: merc–
+  type: abreviation
+  note: mercredi
+- ligne: 2
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 2
+  lemme: 'no'
+  type: abreviation
+  note: numéro
+- ligne: 4
+  lemme: 9^{H}
+  type: abreviation
+  note: 9 heures
+- ligne: 6
+  lemme: extt
+  type: abreviation
+  note: extrêmement
+- ligne: 7
+  lemme: 15 c.
+  type: lecture
+  note: 15 centimes, le 5 à longue haste comme à la ligne suivante ; antérieurement lu « 1 f. »
+- ligne: 8
+  lemme: Y.M.C.A
+  type: abreviation
+  note: Young Men's Christian Association (foyer du soldat)
+- ligne: 8
+  lemme: 1^{f} 15 c
+  type: abreviation
+  note: 1 franc 15 centimes
+- ligne: 9
+  lemme: fr^{se}
+  type: abreviation
+  note: française (finale réduite à une ondulation suscrite)
+- ligne: 9
+  lemme: 78^{f}75
+  type: abreviation
+  note: 78 francs 75
+- ligne: 10
+  lemme: Gift
+  type: emprunt
+  note: gratification
+- ligne: 10
+  lemme: Carluvant
+  type: lecture
+  note: forme des pages voisines ; l'avant-dernière voyelle peut se lire o (« Carluvont »)
+- ligne: 11
+  lemme: lunch
+  type: emprunt
+  note: déjeuner
+- ligne: 12
+  lemme: et varia
+  type: ajout
+  note: écrit plus petit sous « lunch », rattaché au poste de 5 f. ; antérieurement lu « et room »
+- ligne: 12
+  lemme: varia
+  type: emprunt
+  note: divers (latin)
+- ligne: 16
+  lemme: 8^{H}
+  type: abreviation
+  note: 8 heures
+- ligne: 17
+  lemme: sur
+  type: lecture
+  note: mot empâté et traversé d'un trait ; « sur » probable, peut-être biffé
+- ligne: 18
+  lemme: office
+  type: emprunt
+  note: bureau
+- ligne: 18
+  lemme: mess
+  type: emprunt
+  note: popote, table commune des officiers
+- ligne: 19
+  lemme: breakfast
+  type: emprunt
+  note: petit déjeuner
+critique: Les comptes du retour de permission sont ouverts par un grand crochet ; un filet sépare les deux journées. La dernière ligne, d'une encre plus pâle, achève la page.
+historique: |
+  Le n°~104 est, comme le billet n°~59 d'Acheux (f.~45~v\textsuperscript{o}), un numéro de cantonnement attribué par le \textit{Town Major} ; sa propriétaire reparaît le 19 février (f.~78~v\textsuperscript{o}). Le métro parisien coûte 15~c en seconde classe, tarif de 1900 à 1919 (Hérodote) ; sur le foyer de la Y.M.C.A. d'Amiens, qui servait la nuit thé et gâteaux « pour une somme modique » (Fernand-Laurent 1917, p.~92-93), voir f.~65~r\textsuperscript{o}. Les 78~f~75 de la Mission française font quinze jours à 5~f~25, la quinzaine de seize jours étant payée 84~f (19 décembre et 19 janvier : f.~56~r\textsuperscript{o} et 62~v\textsuperscript{o} ; calcul) : la solde de la première quinzaine de février est donc versée entière, et la retenue des sept jours de permission (35~f) n'interviendra que le 3 mars (f.~81~r\textsuperscript{o}). Le \textit{gift} de 5~f paie le « déjeuner sommaire » offert le jour même par les Carluvant (f.~73~r\textsuperscript{o}). La quote-part de mess de février sera comptée « depuis le 8 » (f.~80~r\textsuperscript{o}).
+sources:
+- 'Hérodote.net, « 19 juillet 1900 : inauguration du métro de Paris » (herodote.net), consulté le 18 oct. 2026.'
+- Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 92-93.

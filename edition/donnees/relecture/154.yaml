@@ -1,0 +1,178 @@
+cliche: 154
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Mardi 13 — \hfill Février 1917
+  apres: \sl{mardi 13 –} \hfill \sl{Fevrier 1917}
+  justification: m initial minuscule à long délié ; tiret court ; aucun accent sur Fevrier ; trait sous la date terminé en crosse vers « Nuit », trait sous Fevrier 1917
+  confiance: moyenne
+- ligne: 2
+  avant: Nuit un peu moins froide. Très peu gelé.
+  apres: \ind[2] Nuit un peu moins / froide. Très peu gelé.
+  justification: 'la phrase commence en retrait sous la date et se poursuit sur la ligne suivante : deux lignes manuscrites'
+  confiance: haute
+- ligne: 4
+  avant: Tout le jour, ciel bas, nuageux.
+  apres: \ind Tout le jour, ciel bas, nuageux \trait
+  justification: retrait ; long trait montant jusqu'à x≈.80, sans point
+  confiance: haute
+- ligne: 5
+  avant: assez rapide.
+  apres: asz rapide
+  justification: a + s + z plongeant, aucune autre lettre ; délié final de rapide sans point
+  confiance: haute
+- ligne: 7
+  avant: de P.,
+  apres: de P.^{v},
+  justification: P, point sur la ligne, puis petit v nettement suscrit, puis virgule
+  confiance: haute
+- ligne: 10
+  avant: Nuit extrt noire.
+  apres: Nuit, extt noire.
+  justification: virgule avant le mot ; e-x-t-t, aucun r
+  confiance: haute
+- ligne: 11
+  avant: Merc. 14.
+  apres: \sl{merc. 14.}
+  justification: m minuscule ; trait de soulignement sous la date
+  confiance: haute
+- ligne: 12
+  avant: Nuit, gelé encore.
+  apres: \ind nuit, gelé encore.
+  justification: n minuscule, en retrait
+  confiance: haute
+- ligne: 14
+  avant: plusieurs
+  apres: plusrs
+  justification: p-l-u-s puis r et s plongeant, aucun i-e-u
+  confiance: moyenne
+- ligne: 15
+  avant: neige.
+  apres: neige
+  justification: long délié final, pas de point
+  confiance: moyenne
+- ligne: 16
+  avant: 'partis en auto : Authie,'
+  apres: partis en auto. Authie
+  justification: un seul point à mi-hauteur après auto ; aucune virgule après Authie (le trait à droite est la hampe du f de café) ; tiret sur le e = point du i décalé
+  confiance: haute
+- ligne: 17
+  avant: Gouin[?]
+  apres: \inc{Couin}
+  justification: ouin net ; l'initiale (boucle de tête, grand arc descendant) convient à C comme à G ; Couin est voisin d'Authie et d'Acheux
+  confiance: moyenne
+- ligne: 18
+  avant: de l'Hôtel de Ville
+  apres: de l'Hotel de ville
+  justification: aucun circonflexe ; v initial au module des minuscules
+  confiance: moyenne
+- ligne: 19
+  avant: arrêt
+  apres: arret
+  justification: la croix au-dessus du mot est le x de « prix » (l. 18) qui descend ; aucun circonflexe propre à arret
+  confiance: moyenne
+- ligne: 20
+  avant: vers 6h s.,
+  apres: vers 6^{h} \fr{1}{2};
+  justification: petit h suscrit à deux hastes, puis 2 bouclé sous une barre (fraction empilée) ; point puis virgule avant pour
+  confiance: moyenne
+- ligne: 21
+  avant: M. Lefèvre.
+  apres: M. Lefevre
+  justification: aucun accent visible ; long délié final, pas de point
+  confiance: moyenne
+- ligne: 22
+  avant: Nuit mervt étoilée,
+  apres: \ind Nuit mervt etoilée,
+  justification: retrait ; pas d'accent sur le e initial (accent seulement sur la finale)
+  confiance: moyenne
+- ligne: 23
+  avant: très vif.
+  apres: très vif
+  justification: aucun point après vif, à la limite de la page
+  confiance: moyenne
+difficultes:
+- ligne: 3
+  lemme: Très
+  analyse: 'T à crochet, r, puis lettre réduite en u surmontée d''un long trait (accent) : forme abrégée habituelle de très'
+  alternatives: []
+- ligne: 13
+  lemme: d'arabesques
+  analyse: la première lettre est une haste épaisse sans panse visible (d à panse noyée, aspect l)
+  alternatives:
+  - l'arabesques
+- ligne: 13
+  lemme: magnifiques
+  analyse: que suivi d'un long délié terminé par un crochet relevé, pris pour s final réduit (accord avec arabesques)
+  alternatives:
+  - magnifique
+- ligne: 8
+  lemme: ruisselantes
+  analyse: ss en forme de tt ; finale -te terminée par un petit crochet (s réduit)
+  alternatives:
+  - ruisselante
+- ligne: 17
+  lemme: Couin
+  analyse: 'zoom ×3 : boucle de tête puis trait qui descend nettement sous la ligne et se referme à gauche (aspect G, plus bas que le C de « Course », l. 6) ; puis o, u, i pointé, n. Gouin inconnu dans le secteur ; Couin (Pas-de-Calais) est à quelques kilomètres d''Authie, sur la route d''Acheux'
+  alternatives:
+  - Gouin
+- ligne: 20
+  lemme: 6^{h} \fr{1}{2};
+  analyse: 'zoom ×3 : après 6, deux petites hastes reliées en tête (h suscrit), barre prolongée au-dessus d''un 2 bouclé ; puis un trait vertical isolé, légèrement surélevé (numérateur 1 déporté ou virgule), enfin point et virgule superposés'
+  alternatives:
+  - 6^{H} 2
+  - 6^{h} 1/2
+- ligne: 21
+  lemme: Lefevre
+  analyse: L bouclé, e, f à longue haste, e, v, r, e prolongé en long délié ; aucun accent
+  alternatives:
+  - Lefèvre
+- ligne: 23
+  lemme: complète
+  analyse: le tracé au-dessus de « te » se confond avec la boucle du t et les jambages de la l. 22 ; accent non assuré
+  alternatives:
+  - complete
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Couin retenu (lecture probable, réserve dans l'apparat) ; clé « lieux » corrigée selon la remarque ; M. Lefèvre non identifié ; critique rédigée sur le toponyme.
+  alternatives: []
+controle:
+- ligne: 19
+  avant: arrêt
+  apres: arret
+  justification: la croix prise pour un circonflexe est le x de « prix » (l. 18), dont la seconde branche descend sur la l. 19 ; aucun accent propre au mot
+- ligne: 20
+  avant: note d'apparat unique (développement + « lu 6 h s. auparavant »)
+  apres: note abreviation + note lecture distinctes
+  justification: séparer développement et lecture nouvelle selon la règle de l'apparat ; note M. ajoutée (l. 21)
+- ligne: 0
+  avant: 'lieux : Hérissart, Authie, Puchevillers, Couin, Acheux, Toutencourt (Somme et Pas-de-Calais)'
+  apres: 'lieux : Hérissart, Puchevillers, Authie, Acheux-en-Amiénois, Toutencourt (Somme) ; Couin (Pas-de-Calais)'
+  justification: correction demandée par la remarque du commentateur historique ; critique rédigée
+remarques: Cantonnement à Hérissart (cf. 153). Seconde lecture faite sur zooms ×3 (Couin, 6^{h} ½, arret, ponctuation finale).
+resume: 'Mardi 13 février 1917 : nuit moins froide, dégel ; course à Authie par Puchevillers sous une bise glaciale, après-midi libre. Mercredi 14 : gel nocturne, vitres couvertes d''arabesques de givre ; beau soleil. Après le petit déjeuner, tournée en auto à Authie, Couin et Acheux, repas au café de l''Hôtel de Ville à prix exorbitants ; arrêt à Toutencourt au retour, puis nouvelle visite vers six heures et demie pour rencontrer M. Lefèvre. Nuit étoilée sans lune, froid vif.'
+noms:
+  personnes:
+  - forme: M. Lefevre
+    ligne: 21
+    identite: M. Lefèvre, rencontré à Toutencourt (non identifié)
+  lieux:
+  - forme: Authie
+    ligne: 6
+    identite: Authie (Somme)
+  - forme: Puchevillers
+    ligne: 6
+    identite: Puchevillers (Somme)
+  - forme: P.^{v}
+    ligne: 7
+    identite: Puchevillers (Somme)
+  - forme: Couin
+    ligne: 17
+    identite: Couin (Pas-de-Calais), lecture probable
+  - forme: Acheux
+    ligne: 17
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Toutencourt
+    ligne: 19
+    identite: Toutencourt (Somme)
+source: contrôle

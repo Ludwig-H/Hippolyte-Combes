@@ -1,0 +1,96 @@
+cliche: 156
+fichier: 20251126_110930.jpg
+date: Samedi 17 – dimanche 18 février 1917
+mois: Février 1917
+lieux: Hérissart et Toutencourt (Somme)
+titre: 'Dégel et repos ; dimanche à Toutencourt : Mission française, solde, messe'
+transcription: |
+  \sl{Sam. 17} — Dégel continué \hfill \sl{Fevrier 1917}
+  nuit et jour. Bruine, matinée.
+  Temps redevient de + en doux. Pluvieux.
+  \ind Journée entière de liberte. Liquidé
+  correspce en retard.
+  \ind Ce repos m'a fait grand bien,
+  au physique & encore plus au moral.
+  \ind Soirée, epais brouillard –
+  \blanc{2}
+  \sl{Dim. 18.} — ciel resté brouillé nuages.
+  \ind[2] Fines ondées de courte durée.
+  Dégel continue, très rapide
+  Routes, de nouveau transformées en
+  fondrières. On patauge ds boue liquide
+  tempérre, bien adoucie. Puis enfin rester ds
+  ma chambre, quoique sans feu
+  \ind Jour entier de liberté
+  Matin, à Toutencourt, mission fr^{se} V armée.
+  Demandé renseignements au sujet cantonnement
+  d anglais, à Toulouse —
+  \ind Eglise du village de Toutencourt. Assisté
+  partie ceremonie, entendu prône. —
+  \ind Retour à Herissart sur un lorry \trait
+  aujourdhui, me suis tt à fait ressaisi. Retrouvé
+  parfaite sante morale. — \hfill [A Toutencourt,
+  \droite solde : 68 f 25 c.]
+apparat:
+- ligne: 1
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 3
+  lemme: de + en doux
+  type: lecture
+  note: un seul + (de plus en plus doux) ; l'état antérieur lisait « de + en + doux »
+- ligne: 5
+  lemme: correspce
+  type: abreviation
+  note: correspondance
+- ligne: 9
+  lemme: Dim.
+  type: abreviation
+  note: dimanche
+- ligne: 9
+  lemme: nuages
+  type: lecture
+  note: finale en s montant après -age, sans -ux ; l'état antérieur lisait « nuageux »
+- ligne: 13
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 14
+  lemme: tempérre
+  type: abreviation
+  note: température (l'état antérieur lisait « Tempér. »)
+- ligne: 14
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 17
+  lemme: fr^{se}
+  type: abreviation
+  note: française ; finale réduite à un trait suscrit
+- ligne: 17
+  lemme: V armée
+  type: abreviation
+  note: Ve armée (britannique)
+- ligne: 22
+  lemme: lorry
+  type: emprunt
+  note: camion
+- ligne: 23
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 24
+  lemme: '[A Toutencourt,'
+  type: disposition
+  note: crochets hauts de deux lignes encadrant la mention du solde, en bas à droite
+- ligne: 25
+  lemme: 68 f 25 c.
+  type: abreviation
+  note: 68 francs 25 centimes
+critique: Encre violette uniforme ; un pâté couvre en partie « plus » (l.~7). La solde touchée à Toutencourt est notée en bas à droite, entre deux grands crochets.
+historique: |
+  Le samedi 17, que Combes passe au repos, la 18th Division attaque à Boom Ravine dans la boue du dégel (voir f.~75~v\textsuperscript{o}) ; son historien tient ce jour pour « the first day of the thaw » (Nichols 1922, p.~140). Les « fondrières » du 18 rejoignent le constat officiel : sur les routes de l'arrière, même les voitures légères crèvent la mince croûte d'empierrement, et il faut fermer des routes et délivrer des passes aux camions (OH 1917-I, p.~103). À Toutencourt, le bureau de la Mission française de la Fifth Army (voir f.~52~v\textsuperscript{o}) paie la solde à la date annoncée le 9 février, les 3 et 18 de chaque mois (voir f.~75~r\textsuperscript{o}) ; les 68~F~25 font treize jours à 5~F~25 (calcul de l'éditeur). Le renseignement demandé sur un « cantonnement d anglais, à Toulouse » n'est pas expliqué : peut-être Combes s'enquiert-il d'un poste auprès de troupes britanniques dans la ville où il a son domicile et où vit sa fiancée (voir f.~63~v\textsuperscript{o} et suiv.). Le prône est l'instruction faite en chaire par le curé pendant la grand-messe.
+sources:
+- Nichols, G. H. F., The 18th Division in the Great War, Édimbourg et Londres, W. Blackwood & Sons, 1922, p. 140.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 103.

@@ -1,0 +1,128 @@
+cliche: 26
+fichier: 20251126_094019.jpg
+date: Jeudi 24 août 1916
+mois: Août 1916
+lieux: La Croix-du-Bac (Steenwerck, Nord)
+titre: Relique de saint Hippolyte à Steenwerck ; Maurin revu ; bagages portés à l'office
+transcription: |
+  \sl{Jeudi 24} \hfill Aout \sl{1916}
+  Matinée temps nuageux –
+  après-midi vent eclairci ciel & brillé très
+  chaud soleil.
+  \ind Venu à pied à Steenwerck. Entré \add{eglise} pr me
+  reposer 1 peu & y découvert relique d St Hippte,
+  mon patron !
+  \ind Revu Maurin & causé av lui longuement
+  Vers 7^{H}, Fisher venu prendre ts mes sacs
+  et les a portés sous la tente d l'office
+  ds \inc{la} champ \trait
+  \ind Impression de melancolie au moment
+  de m'eloigner de ce village pour toujours.
+  \blanc{4}
+  \filet
+  Steenwerck : ctes ples : 1 \inc{fr}. – \hfill Varia : 1 \inc{fr}
+  Matin, réparation à 1 soulier : 40c
+  Tip à Fisher : 50 c
+  Donné à Mme Cliquennois, pr cooking
+  \inc{washing} et divers : 4 fr. —
+apparat:
+- ligne: 3
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 5
+  lemme: \add{eglise}
+  type: ajout
+  note: Ajout interlinéaire au-dessus de Entré pr.
+- ligne: 5
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 6
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 6
+  lemme: d St Hippte
+  type: abreviation
+  note: de Saint Hippolyte
+- ligne: 8
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 9
+  lemme: 7^{H}
+  type: abreviation
+  note: 7 heures
+- ligne: 9
+  lemme: ts
+  type: abreviation
+  note: tous
+- ligne: 10
+  lemme: d l'office
+  type: abreviation
+  note: de l'office
+- ligne: 10
+  lemme: office
+  type: emprunt
+  note: angl. office, bureau (de la compagnie)
+- ligne: 11
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 11
+  lemme: \inc{la}
+  type: lecture
+  note: l suivi d'une lettre ouverte, comme « la tente » (l. 10) ; on attendrait le.
+- ligne: 14
+  lemme: ctes ples
+  type: abreviation
+  note: cartes postales
+- ligne: 14
+  lemme: 1 \inc{fr}.
+  type: lecture
+  note: 1 franc ; le r a ici la forme d'un petit c crochu, d'où la lecture 1 f c. (de même après Varia).
+- ligne: 14
+  lemme: Varia
+  type: emprunt
+  note: (latin) divers
+- ligne: 15
+  lemme: 40c
+  type: abreviation
+  note: 40 centimes
+- ligne: 16
+  lemme: Tip
+  type: emprunt
+  note: pourboire
+- ligne: 17
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 17
+  lemme: Cliquennois
+  type: lecture
+  note: Minimes indistinctes après Cliqu- ; lu aussi Cliquenois.
+- ligne: 17
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 17
+  lemme: cooking
+  type: emprunt
+  note: cuisine
+- ligne: 18
+  lemme: \inc{washing}
+  type: emprunt
+  note: blanchissage ; mot très réduit (sh en ch comme au f. 023), lu aussi séchage.
+- ligne: 18
+  lemme: fr.
+  type: abreviation
+  note: francs
+critique: Toute la page, récit et comptes, est d'une même encre noire.
+historique: |
+  Steenwerck (Nord), presque intact jusque-là, sera pris le 10 avril 1918 et restera allemand jusqu'en octobre (CWGC, Le Grand Beaumart). L'église, dédiée à la Décollation de saint Jean-Baptiste, disparaîtra dans ces combats et sera reconstruite en 1928 (Mérimée PA59000231 ; voir f. 5 r\textsuperscript{o}) ; de l'ancien édifice ne subsistent que des fonts de 1567 et un chapiteau (Palissy PM59003991-3992). La relique de saint Hippolyte, martyr romain fêté le 13 août, la veille de l'anniversaire de Combes (né le 14 août 1876), n'est pas documentée. Maurin est le collègue interprète, sans doute provençal, que Combes fréquente depuis le 6 août (voir f. 6 v\textsuperscript{o}) ; Fisher, soldat de la compagnie, reste inconnu. Mme Cliquennois est sans doute la propriétaire de son logement de La Croix-du-Bac (voir f. 10 r\textsuperscript{o} et 12 r\textsuperscript{o}). Le soir même, le 7th Bedfordshire quitte Erquinghem à 18 h 30 pour la gare de Bailleul (Beds War Diary, 24 août 1916) ; la compagnie suit le lendemain (voir f. 14 r\textsuperscript{o}).
+sources:
+- CWGC, Le Grand Beaumart British Cemetery, Steenwerck (fiche 20802), historique.
+- Ministère de la Culture, base Mérimée, PA59000231 (église Saint-Jean-Baptiste, Steenwerck).
+- Ministère de la Culture, base Palissy, PM59003991 et PM59003992 (Steenwerck, fonts baptismaux ; chapiteau et fût de colonne).
+- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (Beds War Diary), 24 août.'

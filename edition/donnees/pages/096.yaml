@@ -1,0 +1,115 @@
+cliche: 96
+fichier: 20251126_104728.jpg
+date: Mercredi 8 – jeudi 9 novembre 1916
+mois: Novembre 1916
+lieux: Acheux-en-Amiénois, Forceville, Albert, Varennes et Warloy-Baillon (Somme)
+titre: En auto à Forceville, Albert, Varennes ; thé au mess de la 152 Coy ; Albert bombardé
+transcription: |
+  \sl{8 me} matin course en \hfill \sl{Novbre 1916}
+  auto à Forceville – avec major \inc{Hughs} & Curtis
+  \ind Après lunch, venu en auto à Albert – en
+  passant par Varennes – Warloy – Senlis.
+  Soleil, brillé 1 peu. Délicieuse promenade
+  \ind Venu bureau mission fr^{se} et demander
+  renseignements
+  Retourné s/ 1 lorry \trait
+  \blanc{2}
+  \sl{9 J.} matin & soir, temps couvert
+  \ind \fr{1}{2} jour, enfin, soleil brillé – durant
+  qq heures
+  \ind Après-midi, course en auto à Varennes,
+  par Lealvillers – et dû revenir, par Acheux
+  Puis continue j-à Albert \trait
+  Campagne ensoleillée – mais routes
+  affreust boueuses
+  \ind Resté pour le thé au mess-hut
+  de la 152 Coy, s/ plateau au sol
+  transformé en marécage — Alors, ciel
+  eclairci, qq etoiles, pleine lune magnifique
+  \ind Bombardement commence sur Albert \trait
+apparat:
+- ligne: 1
+  lemme: me
+  type: abreviation
+  note: mercredi
+- ligne: 1
+  lemme: Novbre
+  type: abreviation
+  note: novembre
+- ligne: 2
+  lemme: major
+  type: emprunt
+  note: 'grade britannique : commandant'
+- ligne: 2
+  lemme: Hughs
+  type: lecture
+  note: une seule lettre après Hugh (s réduit ou a) ; le major Hughes (cf. cliché 090) ; autre lecture Hugha
+- ligne: 3
+  lemme: lunch
+  type: emprunt
+  note: déjeuner
+- ligne: 6
+  lemme: fr^{se}
+  type: abreviation
+  note: française
+- ligne: 6
+  lemme: demander
+  type: lecture
+  note: finale -er nette, sans accent ; lecture antérieure demandé
+- ligne: 8
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 8
+  lemme: lorry
+  type: emprunt
+  note: camion
+- ligne: 9
+  lemme: J.
+  type: abreviation
+  note: jeudi
+- ligne: 10
+  lemme: \fr{1}{2} jour
+  type: abreviation
+  note: 'demi-jour : vers midi'
+- ligne: 11
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 14
+  lemme: continue
+  type: lecture
+  note: aucun r après -ue ; lecture antérieure continuer
+- ligne: 14
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 16
+  lemme: affreust
+  type: abreviation
+  note: affreusement
+- ligne: 17
+  lemme: mess-hut
+  type: emprunt
+  note: baraque du mess
+- ligne: 18
+  lemme: Coy
+  type: abreviation
+  note: Company, compagnie britannique (152nd Company A.S.C.)
+- ligne: 18
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 20
+  lemme: qq
+  type: abreviation
+  note: quelques
+critique: Encre violette ; « à Albert – en » et « commence » sont d'une encre plus pâle, la plume se vidant. Un blanc d'environ deux lignes sépare les deux journées.
+historique: |
+  Forceville, à 2~km à l'est d'Acheux, abrite alors des brigades de la 51st (Highland) Division, dont la 152nd partira le 12 au soir pour l'assaut de Beaumont-Hamel (OH 1916-II, p.~480-491). Sur le major Hughes, voir f.~45~v\textsuperscript{o}. La route d'Albert traverse Varennes, où sont installés depuis octobre les 4th et 11th \textit{Casualty Clearing Stations} (LLT), et Senlis-le-Sec, QG du II Corps (LLT). Combes relève encore du bureau de la Mission d'Albert, qui le paie le 18 (f.~50~r\textsuperscript{o}), jusqu'à sa prise en charge au XIII Corps le 1\textsuperscript{er} décembre (f.~52~v\textsuperscript{o}). La 152 Coy cantonne toujours sur le plateau d'Albert : la division tient le secteur de Regina Trench, d'où la 55th Brigade attaquera Desire Trench le 18 (Nichols 1922, p.~133-136). La pleine lune tombe le 9 à 20~h~18 TU (Espenak). Le bombardement d'Albert, comme ceux des 24 et 31 octobre (voir f.~44~v\textsuperscript{o}), dément le guide Michelin, qui la dit hors de portée dès octobre 1916 (Michelin 1919, p.~31-35).
+sources:
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 480-491.
+- Baker, C., The Long, Long Trail, « Locations of British Casualty Clearing Stations » (copie Wayback Machine du 13 janvier 2018) et « The British II Corps in France and Flanders » (copie Wayback Machine du 6 novembre 2024).
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 133-136.
+- 'Espenak, F., Six Millennium Catalog of Phases of the Moon, table « Phases of the Moon : 1901 to 2000 » (astropixels.com).'
+- Michelin, The Somme, vol. 1, The First Battle of the Somme (1916-1917), Clermont-Ferrand, Michelin, 1919, p. 31-35.

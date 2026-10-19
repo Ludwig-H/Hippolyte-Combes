@@ -1,0 +1,133 @@
+cliche: 50
+confiance: haute
+changements:
+- ligne: 2
+  avant: Vers 7 H, sur pied.
+  apres: Vers 7^{H}, sur pied.
+  justification: H nettement suscrit, base au-dessus de la tête du 7 ; ligne en retrait sous la date
+  confiance: haute
+- ligne: 5
+  avant: Temps superbe.
+  apres: Temps superbe
+  justification: long délié final de superbe, sans point
+  confiance: haute
+- ligne: 6
+  avant: Bientôt, entiert prêt à partir.
+  apres: Bientot, entiert pret à partir
+  justification: ni circonflexe sur o ni sur e ; pas de point final
+  confiance: moyenne
+- ligne: 7
+  avant: Promené champs tt en haut plateau.
+  apres: Promené champs tt en haut plateau
+  justification: pas de point après le délié de plateau
+  confiance: haute
+- ligne: 8
+  avant: av.
+  apres: avec
+  justification: 'a + v arrondi + e réduit + long délié, aucun point : forme pleine selon le guide (piège 4)'
+  confiance: moyenne
+- ligne: 9
+  avant: forage. Chaleur très forte.
+  apres: forage Chaleur très forte
+  justification: délié final de forage sans point ; pas de point après forte
+  confiance: haute
+- ligne: 10
+  avant: A midi
+  apres: à midi
+  justification: a au module minuscule, accent en arc décalé au-dessus
+  confiance: moyenne
+- ligne: 12
+  avant: j'à station
+  apres: j à station
+  justification: j bouclé puis a à accent ondulé ; ni apostrophe ni trait d'union
+  confiance: moyenne
+- ligne: 13
+  avant: à l'office
+  apres: à Office
+  justification: après l'accent de à, grande boucle ouverte d'O majuscule puis ffice (deux ſ) ; aucun l ni apostrophe
+  confiance: moyenne
+- ligne: 14
+  avant: village, déjeuné.
+  apres: village déjeuné.
+  justification: aucune virgule après le délié de village
+  confiance: moyenne
+- ligne: 18
+  avant: '[ Tip à mon groom : 2 f — Biscuits : 0.50 c'
+  apres: '\equerre{2}Tip à mon groom : 2^{f} — Biscuits.'
+  justification: signe d'ouverture en équerre ; f suscrit ; un seul point après Biscuits ; montant 0.50c écrit à la ligne suivante
+  confiance: haute
+- ligne: 19
+  avant: 'Lunch à Acheux : 1 f 50 ]'
+  apres: 'Lunch à Acheux : 1^{f} 50 \hfill 0.50c'
+  justification: aucun crochet fermant ; f suscrit ; 0.50c sous Biscuits
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: Sept /16
+  analyse: barre du t de Sept prolongée en crochet puis reliée à la barre oblique de /16 (aspect 7) ; puis 16 (zoom [.58 .02 .82 .08])
+  alternatives:
+  - Sept^{r} /16
+- ligne: 3
+  lemme: léger
+  analyse: l (croisé par la descente du p de Sept), e, puis trait haut bouclé au-dessus du g, sans emploi comme lettre (« lelger » impossible) ; accent lié et décalé à droite, selon l'usage de la main (zoom [.50 .07 .75 .12])
+  alternatives:
+  - leger
+- ligne: 13
+  lemme: Office
+  analyse: grande boucle ouverte et large (O majuscule), trop large pour un l ; puis deux ſ longs, i, c, e ; l'arc au-dessus à gauche est l'accent de à (zoom [.15 .50 .50 .555])
+  alternatives:
+  - l'office
+- ligne: 14
+  lemme: déjeuné.
+  analyse: point isolé vers x ≈ .38, y ≈ .567, au-dessus de lgt de la l. 15 ; aucun i voisin à gauche sur la l. 15, donc retenu comme point final de la l. 14
+  alternatives:
+  - déjeuné
+- ligne: 15
+  lemme: lgt.
+  analyse: l, g plongeant, puis haste barrée à droite (t) et point net (zoom [.12 .58 .55 .635]) ; pas de s descendant
+  alternatives:
+  - lgs.
+- ligne: 19
+  lemme: 1^{f} 50
+  analyse: après le 1, boucle du f suscrit distincte du pied du 2 de la l. 18 ; 5 à haste et drapeau, puis 0 (zoom [.55 .91 .80 .97])
+  alternatives:
+  - 1 50
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Nichols 1922, p. 81 et 432, Spink lot 188 (Ford), OH 1916-I, p. 273-274, OH 1916-II, p. 373, voie métrique Albert–Doullens, JMO 7/Bedf (25 sept.) ; clé « lieux » corrigée en p2 (Acheux-Varennes est la gare, la commune est Acheux-en-Amiénois) ; l. 12 « chps j à » = champs jusqu'à (vérifié) ; Ford identifié comme probable.
+  alternatives: []
+controle:
+- ligne: 3
+  avant: leger
+  apres: léger
+  justification: trait haut bouclé au-dessus du g, entre e et g, sans emploi comme lettre ; accent lié décalé à droite (retour à la leçon antérieure)
+- ligne: 0
+  avant: 'lieux : Forceville ; Acheux-Varennes (Somme)'
+  apres: 'lieux : Forceville ; Acheux-en-Amiénois (Somme)'
+  justification: Acheux-Varennes est le nom de la gare, la commune est Acheux-en-Amiénois (remarque du commentateur)
+- ligne: 18
+  avant: 'groom : ordonnance'
+  apres: 'groom : palefrenier, soldat chargé de son cheval'
+  justification: sens propre de groom dans l'armée britannique ; Combes, interprète monté, disposait d'un cheval
+- ligne: 0
+  avant: apparat chargé de justifications (Sept /16, j à, Office, 0.50c)
+  apres: notes brèves ; lecture « à Office » séparée de l'emprunt ; critique allégée du détail du soulignement
+  justification: épuration de l'apparat imprimé
+remarques: Le texte se poursuit au cliché 051 (« 25 Lundi. (Suite) »).
+resume: 'Lundi 25 septembre 1916. Debout vers 7 heures sous un ciel où brillent encore le croissant de lune et deux étoiles, Hippolyte Combes est prêt à partir en permission. Il doit encore aller à Forceville avec le lieutenant Ford pour du fourrage vert. À midi, il monte sur le dernier wagon du convoi allant à la gare de ravitaillement, puis gagne à travers champs la gare d''Acheux-Varennes, dépose ses colis au bureau du R.T.O., déjeune au village et attend longtemps dans son compartiment du petit train départemental, par une chaleur intense. Comptes : pourboire au palefrenier, biscuits, déjeuner.'
+noms:
+  personnes:
+  - forme: Lt Ford
+    ligne: 8
+    identite: lieutenant britannique, probablement de la 152nd Company A.S.C. (18th Division)
+  lieux:
+  - forme: Forceville
+    ligne: 8
+    identite: Forceville (Somme)
+  - forme: Acheux-Varennes
+    ligne: 12
+    identite: gare d'Acheux-Varennes, sur la voie métrique Albert–Doullens, à Acheux-en-Amiénois (Somme)
+  - forme: Acheux
+    ligne: 19
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

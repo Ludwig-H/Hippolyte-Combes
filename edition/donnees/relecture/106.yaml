@@ -1,0 +1,192 @@
+cliche: 106
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 3 Dim. — \hfill Décbre 1916
+  apres: 3 \sl{Dim.} \hfill — \sl{Décbre 1916}
+  justification: le tiret long précède Décbre à droite ; Dim. et Décbre 1916 soulignés
+  confiance: haute
+- ligne: 2
+  avant: Nuit très froide. Gelé
+  apres: \ind Nuit très froide Gelé
+  justification: aucun point après froide ; ligne en retrait
+  confiance: moyenne
+- ligne: 3
+  avant: précédente.
+  apres: précédente
+  justification: long délié final, pas de point
+  confiance: moyenne
+- ligne: 5
+  avant: 8h 1/2 m. et rentrés seulement à 6h 1/2 s.
+  apres: 8^{h} \fr{1}{2} m. et rentrés seulement a 6^{h} \fr{1}{2} s —
+  justification: h suscrits, fractions empilées ; a sans accent ; s réduit à une haste, suivi d'un tiret
+  confiance: moyenne
+- ligne: 6
+  avant: 'matin & soir :'
+  apres: matin & soir
+  justification: aucun deux-points après soir
+  confiance: moyenne
+- ligne: 7
+  avant: Septenville et Hérissart. Déjeuné ch. Lieutt Walsh.
+  apres: Septenville et Herissart. Déjeuné chz Lieut^{t} Walsh
+  justification: aucun accent sur le e de Herissart ; ch + z plongeant ; second t surélevé ; pas de point final
+  confiance: moyenne
+- ligne: 8
+  avant: venus j'à Marcelcave. Passé
+  apres: venus j-à Marcelcave Passé
+  justification: trait d'union court entre j et à ; pas de point
+  confiance: haute
+- ligne: 9
+  avant: à Corbie et Villers-Bretonneux.
+  apres: à Corbie et Villers-Bretonneux
+  justification: long délié final, pas de point
+  confiance: moyenne
+- ligne: 12
+  avant: au 1/2 des champs...
+  apres: au \fr{1}{2} des champs.
+  justification: fraction empilée en ʒ ; un seul point, les autres sont les points d'i de ruminer
+  confiance: moyenne
+- ligne: 14
+  avant: observer à loisir...
+  apres: observer à loisir . – .
+  justification: point, tiret court, point
+  confiance: moyenne
+- ligne: 15
+  avant: '[ — A Hérissart, 2 bocks : 30 c'
+  apres: '\crochet{3}\ind – A Herissart, 2 bocks : 30 c'
+  justification: grand crochet de trois lignes ; tiret court ; pas d'accent
+  confiance: haute
+- ligne: 16
+  avant: Au bureau mission XIIIe corps, Acheux,
+  apres: Au bureau mission XIII^{e} corps, Acheux.
+  justification: e suscrit ; point après Acheux
+  confiance: haute
+- ligne: 17
+  avant: 'touché solde : 78 f 75 c (prochaine, le 17) ]'
+  apres: 'touché solde : 78^{f} 75 c \hfill (prochaine, le 17)'
+  justification: aucun crochet fermant ; f suscrit réduit ; 75 enchevêtré avec XIII
+  confiance: moyenne
+- ligne: 18
+  avant: 4 L. Matinée
+  apres: 4 \sl{L} Matinée
+  justification: filet au-dessus ; seul L souligné, sans point
+  confiance: haute
+- ligne: 23
+  avant: ferme de Belle-Église (Arquèves) et à Louvencourt.
+  apres: ferme de Belle Église (Arqueves et à Louvencourt
+  justification: pas de trait d'union ; aucun accent sur Arqueves ; finale en s vertical, parenthèse non refermée
+  confiance: moyenne
+- ligne: 25
+  avant: invités à dîner.
+  apres: invités à diner
+  justification: i pointé sans circonflexe ; pas de point
+  confiance: moyenne
+- ligne: 26
+  avant: Capt. Williams, charmant et de tt à tt sympathique.
+  apres: Capt. Williams (charmant et de + en + sympathique
+  justification: 'parenthèse ouvrante haute devant charmant ; deux croix détachées encadrant « en » : de plus en plus'
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: très
+  analyse: t bouclé + r + e coiffé d'un trait (accent) ; s final absorbé, forme réduite habituelle (aspect hu)
+  alternatives:
+  - tr.
+- ligne: 8
+  lemme: Marcelcave
+  analyse: 'Marcel net ; cave plus bas, recouvert par un long trait horizontal parti du l : délié final prolongé plutôt que biffure (Marcel seul n''a pas de sens ici)'
+  alternatives:
+  - Marcel\del{cave}
+- ligne: 10
+  lemme: Abancourt
+  analyse: A majuscule, haste bouclée (b), seconde haste plus courte, descente en y (n plongeant ?), puis court net ; le toponyme Warfusée-Abancourt s'impose
+  alternatives:
+  - Ablancourt
+- ligne: 17
+  lemme: 78^{f} 75 c
+  analyse: 'zoom ×3 [.18 .53 .64 .605] : 78 à la ligne ; au-dessus à droite un tracé en ʒ (fin plongeante de mission) puis une petite boucle liée par un trait (f suscrit) ; sous XIII, deux hastes descendantes : 7 à barre médiane et 5 en ſ à drapeau ; puis c. 75 confirmé (solde identique 78.75 au 046)'
+  alternatives:
+  - 78^{f} 30 c
+- ligne: 20
+  lemme: Guerle
+  analyse: G bouclé descendant, minimes (uer), haute boucle (l), e final plongeant ; lecture plausible, nom non identifié
+  alternatives:
+  - Guesle
+- ligne: 23
+  lemme: (Arqueves
+  analyse: 'finale en trait vertical à pied, aspect ] : s final réduit plutôt que parenthèse fermante'
+  alternatives:
+  - (Arqueve)
+  - (Arqueves)
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Solde « 78 f 75 c » revue au zoom : 75 confirmé (7 barré, 5 en ſ), \inc levé. Le battage de la paille à Belle-Église (8 décembre, f. 54 r°) ne concerne pas cette page. Champ lieux conforme (Lamotte-Warfusée, Belle-Église sur la commune d''Arquèves, Septenville).'
+  alternatives: []
+controle:
+- ligne: 17
+  avant: 'touché solde : 78^{f} \inc{75} c \hfill (prochaine, le 17)'
+  apres: 'touché solde : 78^{f} 75 c \hfill (prochaine, le 17)'
+  justification: zoom ×3 [.18 .53 .64 .605] ; 7 à barre médiane et 5 en ſ nets sous XIII ; le ʒ voisin est la fin de mission ; solde identique 78.75 au 046
+- ligne: 15
+  avant: apparat « – A Herissart » disposition ; « bocks » emprunt
+  apres: notes supprimées
+  justification: le crochet est rendu par \crochet{3} ; bock est un mot français usuel, non un emprunt anglais
+- ligne: 2
+  avant: pas de note sur « 1 peu » (l. 2 et 21)
+  apres: abreviation « un peu »
+  justification: 1 mis pour un, selon la table des abréviations
+- ligne: 11
+  avant: difficulté « enveloppé » (alternative enveloppe)
+  apres: difficulté supprimée
+  justification: accent net décalé à droite ; participe elliptique cohérent avec Gelé, brillé, dégelé
+remarques: 'Montant de la l. 17 lu 78^{f} 75 c sans \inc : 7 barré et 5 en ſ visibles sous XIII ; le f suscrit (petite boucle) reste le point le moins net. « enveloppé » (l. 11) est un participe elliptique (a enveloppé les choses), comme « Gelé », « brillé » : aucune note.'
+resume: 'Le dimanche 3 décembre 1916, après une nuit très froide, Hippolyte Combes fait en auto de longues courses, de 8 h 30 du matin à 6 h 30 du soir : Septenville et Hérissart le matin, déjeuner chez le lieutenant Walsh, puis Marcelcave l''après-midi par Corbie et Villers-Bretonneux, retour par Warfusée-Abancourt. Une brume glaciale enveloppe tout ; il note les moulins squelettiques au milieu des champs et le loisir de ruminer et d''observer. Comptes : deux bocks à Hérissart et la solde (78 f 75) touchée au bureau de la Mission du XIIIe corps à Acheux, la prochaine le 17. Le lundi 4, dégel et routes boueuses ; matinée dans la grange de Mme Guerle, puis courses en auto à la ferme de Belle-Église (Arquèves) et à Louvencourt. Le soir, le lieutenant Walsh et son interprète sont invités à dîner ; le capitaine Williams est de plus en plus sympathique.'
+noms:
+  personnes:
+  - forme: Lieut^{t} Walsh
+    ligne: 7
+    identite: lieutenant britannique Walsh
+  - forme: Mme Guerle
+    ligne: 20
+    identite: civile, propriétaire d'une grange (cantonnement)
+  - forme: Lt Walsh
+    ligne: 25
+    identite: lieutenant britannique Walsh
+  - forme: Capt. Williams
+    ligne: 26
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  lieux:
+  - forme: Septenville
+    ligne: 7
+    identite: Septenville (Somme)
+  - forme: Herissart
+    ligne: 7
+    identite: Hérissart (Somme)
+  - forme: Marcelcave
+    ligne: 8
+    identite: Marcelcave (Somme)
+  - forme: Corbie
+    ligne: 9
+    identite: Corbie (Somme)
+  - forme: Villers-Bretonneux
+    ligne: 9
+    identite: Villers-Bretonneux (Somme)
+  - forme: Warfusée-Abancourt
+    ligne: 10
+    identite: Warfusée-Abancourt, auj. Lamotte-Warfusée (Somme)
+  - forme: Herissart
+    ligne: 15
+    identite: Hérissart (Somme)
+  - forme: Acheux
+    ligne: 16
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Belle Église
+    ligne: 23
+    identite: ferme de Belle-Église, près d'Arquèves (Somme)
+  - forme: Arqueves
+    ligne: 23
+    identite: Arquèves (Somme)
+  - forme: Louvencourt
+    ligne: 23
+    identite: Louvencourt (Somme)
+source: contrôle

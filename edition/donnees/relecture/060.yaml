@@ -1,0 +1,194 @@
+cliche: 60
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 3 Ma \hfill Temps mervt beau \hfill Octobre /16
+  apres: 3 \sl{Ma} \hfill Temps mervt beau \hfill \sl{Octobre /16}
+  justification: Le trait sous la date ne couvre que Ma ; mois et millésime soulignés.
+  confiance: haute
+- ligne: 2
+  avant: Matin, à
+  apres: Matin à
+  justification: Aucune virgule après Matin ; la marque vue est l'accent de à, posé à gauche.
+  confiance: moyenne
+- ligne: 4
+  avant: En sortant
+  apres: en sortant
+  justification: Initiale au module d'une minuscule.
+  confiance: moyenne
+- ligne: 4
+  avant: av. Mme C. & Margte
+  apres: av Mme \inc{Cl} & Margte
+  justification: av sans point ; après C une petite boucle haute distincte du & en ρ ; aucun point.
+  confiance: moyenne
+- ligne: 6
+  avant: Victor Hugo
+  apres: Victor. Hugo
+  justification: Point détaché entre les deux mots.
+  confiance: moyenne
+- ligne: 7
+  avant: Séparés
+  apres: Separes
+  justification: Aucun accent sûr sur les e.
+  confiance: moyenne
+- ligne: 9
+  avant: Après déjeuner, venus [groupe abrégé illis.]
+  apres: après déjeuner, venus av B. \inc{Mm} & Mte à
+  justification: Initiale de après au module d'une minuscule (accent décalé au-dessus du s) ; av, B. avec point net, M recoupé par un jambage de la l. 8, m, & en ρ plongeant dans la l. 10, Mte, à.
+  confiance: moyenne
+- ligne: 10
+  avant: '[Castanet/cravate ?]'
+  apres: \inc{Castanet}
+  justification: Majuscule C nette, haste montante et t barré ; cravate exclu par le C et la syntaxe (venus … à).
+  confiance: basse
+- ligne: 11
+  avant: Continué route
+  apres: Continué, route
+  justification: Virgule en trait oblique de même forme que celle de la l. 12.
+  confiance: moyenne
+- ligne: 12
+  avant: charmante.
+  apres: charmante
+  justification: Pas de point final ; long délié.
+  confiance: haute
+- ligne: 14
+  avant: agréable
+  apres: agreable
+  justification: Aucun accent visible.
+  confiance: moyenne
+- ligne: 16
+  avant: Mme [Laudet/Lamolet ?].. —
+  apres: Mme \inc{Laudet} – – —
+  justification: Panse + haste = d ou ol ; trois tirets croissants ; la seconde haste sous la barre finale est le jambage du p de pris (l. 15).
+  confiance: basse
+- ligne: 17
+  avant: 'Marché V. Hugo :'
+  apres: 'Marche V. Hugo :'
+  justification: Aucun accent sur le e final.
+  confiance: moyenne
+- ligne: 18
+  avant: 'fruits : 80 c. Gâteaux : 3 f'
+  apres: 'fruits : 80 c Gatx : \inc{6}'
+  justification: Gat + x plongeant sous une longue barre ; dernier chiffre incertain, sans f ; pâté après 80 c.
+  confiance: basse
+difficultes:
+- ligne: 1
+  lemme: mervt
+  analyse: 'm, e, r, v (deux jambages), t haut barré dont la base reste sur la ligne : pas de suscription (zoom ×3).'
+  alternatives:
+  - merv^{t}
+- ligne: 2
+  lemme: annivre
+  analyse: a, n, n, i, v, puis jambage et délié = re ; le point visible au-dessus de la fin est celui du i, décalé à droite.
+  alternatives:
+  - annivi
+- ligne: 4
+  lemme: Cl
+  analyse: Grand C ; petite boucle montant à hauteur de hampe (l) ; puis & en ρ à longue haste plongeante.
+  alternatives:
+  - C.
+  - Ch
+- ligne: 6
+  lemme: ensemble
+  analyse: Trait épais sous le début du mot seulement (en) ; soulignement retenu (cf. guide), mais il pourrait s'agir d'un accent de Separes (l. 7) décalé.
+  alternatives:
+  - ensemble
+- ligne: 7
+  lemme: Separes
+  analyse: Petit trait isolé au-dessus de l'attaque du p, qui peut être l'accent du premier e ou l'attaque haute du p.
+  alternatives:
+  - Sépares
+  - Séparés
+- ligne: 9
+  lemme: B. Mm
+  analyse: 'B en ℓo avec point ; M recoupé par le g de arrangt (l. 8) ; m bref ; grande boucle fermée en haut et haste vers la gauche plongeant dans la l. 10 : &.'
+  alternatives:
+  - B. Mme
+  - Bne Maman
+- ligne: 10
+  lemme: Castanet
+  analyse: C majuscule à grand arc ; petite panse ; haste montante (l ou s) ; deux ou trois minimes ; t barré d'une longue barre qui couvre aussi une seconde haste bouclée ; e final. La séquence s-t de Castanet n'est pas nette ; tt possible.
+  alternatives:
+  - Cobattel
+  - Cabatel
+- ligne: 16
+  lemme: Laudet
+  analyse: L en ℒ ; quatre à cinq minimes (a + u ou a + m) ; panse fermée + haste inclinée à droite (d ou ol) ; e ; t barré. Le second trait sous la barre est le jambage du p de pris.
+  alternatives:
+  - Lamolet
+- ligne: 18
+  lemme: '6'
+  analyse: Petite tête ouverte, grande boucle basse fermée ; comparer au 8 de 80, de même dessin.
+  alternatives:
+  - '3'
+  - '8'
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié sur l''image : Castanet, B. Mm et Laudet restent incertains (voir ci-dessus) ; lieux limité à Toulouse, Castanet(-Tolosan) n''étant qu''une lecture probable ; l''Automate, Mme de Labarthe et Mme Laudet restent non identifiées.'
+  alternatives: []
+controle:
+- ligne: 9
+  avant: Après déjeuner
+  apres: après déjeuner
+  justification: Initiale au module d'une minuscule, sans forme de A majuscule ; même traitement que en sortant (l. 4) ; accent de è décalé au-dessus du s.
+- ligne: 6
+  avant: apparat graphie « Victor. Hugo » (point au lieu du trait d'union)
+  apres: note supprimée
+  justification: Ponctuation seule ; l'identification du marché est donnée par noms.lieux et par la note sur V. (l. 17).
+- ligne: 18
+  avant: apparat autre « 80 c » (pâté)
+  apres: note supprimée ; pâté mentionné dans changements
+  justification: Simple pâté d'encre, sans incidence sur la lecture.
+- ligne: 18
+  avant: '\inc{6} : autre lecture 3'
+  apres: '\inc{6} : autres lectures 3, 8'
+  justification: La grande boucle basse fermée surmontée d'une petite tête reproduit aussi le 8 de 80 sur la même ligne.
+- ligne: 16
+  avant: 'Laudet : une seconde haste sous la barre peut faire tt'
+  apres: t simple
+  justification: La seconde haste est le jambage du p de pris (l. 15), qui descend dans la ligne.
+remarques: Mme écrit Mm + délié aux l. 4, 12, 16 (transcrit Mme). Le long délié de Capitole remonte jusqu'à Hugo (l. 6). Le tiret final de la l. 13 est d'encre plus pâle.
+resume: À Toulouse, Hippolyte Combes assiste le matin à la cathédrale Saint-Étienne à une messe anniversaire pour Mlle Calmels, à côté de Marguerite. Il fait le marché Victor-Hugo avec Marguerite et sa mère, déjeune à l'Automate, puis fait des visites et arrange son appartement. L'après-midi, il va avec Bonne-Maman (?) et Marguerite à Castanet (?), en tram de la rue Saint-Joseph jusqu'au terminus puis à pied, chez Mme de Labarthe, à qui il présente sa fiancée. Le soir, il rend visite à Mme Laudet (?). Comptes de trams, de l'Automate et du marché.
+noms:
+  personnes:
+  - forme: Mlle Calmels
+    ligne: 3
+    identite: parente défunte de Marguerite Calmels (messe anniversaire)
+  - forme: Margte
+    ligne: 3
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: Mme Cl
+    ligne: 4
+    identite: Mme Calmels, mère de Marguerite (?)
+  - forme: B. Mm
+    ligne: 9
+    identite: Bonne-Maman, grand-mère de Marguerite (?)
+  - forme: Mme de Labarthe
+    ligne: 12
+    identite: amie toulousaine d'Hippolyte Combes
+  - forme: Mme Laudet
+    ligne: 16
+    identite: Toulousaine non identifiée (lecture incertaine)
+  lieux:
+  - forme: St-Etienne
+    ligne: 2
+    identite: cathédrale Saint-Étienne, Toulouse
+  - forme: rue Alsace
+    ligne: 5
+    identite: rue d'Alsace-Lorraine, Toulouse
+  - forme: l'Automate
+    ligne: 5
+    identite: restaurant L'Automate, Toulouse
+  - forme: Victor. Hugo
+    ligne: 6
+    identite: marché Victor-Hugo, Toulouse
+  - forme: Capitole
+    ligne: 7
+    identite: place du Capitole, Toulouse
+  - forme: Castanet
+    ligne: 10
+    identite: Castanet(-Tolosan) (Haute-Garonne) (lecture incertaine)
+  - forme: rue de St Joseph
+    ligne: 10
+    identite: rue Saint-Joseph, Toulouse
+source: contrôle

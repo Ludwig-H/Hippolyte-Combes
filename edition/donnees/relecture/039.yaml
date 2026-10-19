@@ -1,0 +1,137 @@
+cliche: 39
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 9. \hfill Sept / 16
+  apres: \sl{Sam} – 9. \hfill \sl{Sept /16}
+  justification: trait court entre jour et quantième, point après le 9 ; soulignement sous Sam seul et sous Sept /16
+  confiance: haute
+- ligne: 2
+  avant: 9 H ½
+  apres: 9 H \fr{1}{2}
+  justification: fraction empilée (2 couché) sous la barre du soulignement de la date
+  confiance: moyenne
+- ligne: 6
+  avant: Ligny - St Flochel
+  apres: Ligny - St-Flochel
+  justification: tiret net entre St et Flochel
+  confiance: haute
+- ligne: 11
+  avant: '[Peu/Flots ?] de poussière route[s?]'
+  apres: \inc{Lots} de poussière route
+  justification: L bouclé initial semblable à celui de Ligny ; aucune marque de pluriel après route
+  confiance: moyenne
+- ligne: 12
+  avant: Vers 1H s., terminé 1ère étape, au
+  apres: \ind Vers 1^{H} s., terminé 1ère étape , au
+  justification: H nettement surélevé ; ligne en retrait
+  confiance: haute
+- ligne: 13
+  avant: hameau de Monts-en-Ternois.
+  apres: hameau de Monts-en-Ternois
+  justification: aucun point final visible, seul le point du i
+  confiance: moyenne
+- ligne: 14
+  avant: ds gde ferme, à l'[entrée ?] du
+  apres: ds g^{de} ferme , à l'\inc{entrée} du
+  justification: de suscrit après g ; entrée reste douteux
+  confiance: moyenne
+- ligne: 17
+  avant: Impression de calme reposant jardin
+  apres: \ind Impression de calme reposant jardin
+  justification: alinéa
+  confiance: haute
+- ligne: 19
+  avant: Invité par Cap. West à messer av. offs
+  apres: \ind Invité par Cap. West à messer avec offs
+  justification: 'a, v, e réduit, délié : quatre éléments, sans point ; alinéa'
+  confiance: haute
+- ligne: 20
+  avant: Et le soir
+  apres: et le soir
+  justification: initiale minuscule
+  confiance: moyenne
+- ligne: 21
+  avant: ds la laiterie
+  apres: ds la \inc{laiterie}
+  justification: nombre de jambages après le t mal assuré
+  confiance: moyenne
+- ligne: 23
+  avant: — Donné 3 f à M. Dupuich à Marquay —
+  apres: — donné 3 f à M. \inc{Dupuich} à Marquay —
+  justification: d minuscule en ∂ ; nom propre douteux
+  confiance: moyenne
+- ligne: 24
+  avant: '& 1 tip au groom [Connelly ?] —'
+  apres: '& 1 tip au \inc{chevaux} —'
+  justification: un seul mot après au, finale en x croisé, aucun g ni second mot ; encre pâle
+  confiance: basse
+difficultes:
+- ligne: 2
+  lemme: 9 H \fr{1}{2}
+  analyse: '9 à boucle et haste ; H à deux hastes à la ligne ; boucle couchée au-dessus de la barre de soulignement de la date, queue descendant à gauche : ½ empilé, en partie masqué par le soulignement (zoom ×3 [.55 .04 .80 .10])'
+  alternatives:
+  - 9^{H} \fr{1}{2}
+  - 9 H 1/2
+- ligne: 11
+  lemme: Lots
+  analyse: 'zoom ×3 [0 .455 .20 .51] : L en £, petit o ouvert (aspect u), haste sans barre et s plongeant (aspect y) ; pas de F ni de P ; anglicisme « lots of » plausible chez Combes'
+  alternatives:
+  - Los
+  - Lot
+- ligne: 14
+  lemme: entrée
+  analyse: 'zoom ×4 [.62 .565 .85 .62] : après l''apostrophe brune, boucle fermée pleine (e ou o), deux jambages, haste haute qui ne descend guère sous la ligne (t plutôt que ſ), haute boucle (r), finale ; le point au-dessus est celui du i de Ternois ; aucun accent'
+  alternatives:
+  - extré
+  - ouest
+- ligne: 21
+  lemme: laiterie
+  analyse: 'zoom ×3 [.80 .875 1.0 .935] : l, a fermé, i pointé, t dont la barre est reportée sur la fin du mot, arche, deux jambages, e final'
+  alternatives:
+  - laitrie
+- ligne: 23
+  lemme: Dupuich
+  analyse: 'zoom ×4 [.40 .935 .62 .985] : D en ∂, u, jambage descendant (p), u, puis un a apparent (ic lié ?) et une haute boucle finale sans arche nette (h ou s montant) ; point décalé à droite = point du i ; la boucle au-dessus du a est le jambage du g de jardin'
+  alternatives:
+  - Dupuis
+- ligne: 24
+  lemme: chevaux
+  analyse: 'zooms ×4 [.05 .96 .40 1.0] et [.35 .96 .70 1.0] : encre pâle, bas des lettres rogné ; & en ε, 1, tip (t, i, p sans jambage visible), au (ou va), puis mot de sept éléments terminé par un x croisé net ; initiale c-h douteuse ; « au chevaux » syntaxiquement gênant'
+  alternatives:
+  - cheveux
+  - groom
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifiée sur l''image : la l. 24 n''offre ni g ni double o, ni second mot après au ; « groom Connelly » (cf. f. 21 r°) ne peut être retenu, la lecture « chevaux » reste incertaine. Lots, entrée, laiterie, Dupuich maintenus en \inc avec alternatives.'
+  alternatives: []
+controle:
+- ligne: 0
+  avant: 'apparat : notes l. 1 (« seul le jour est souligné »), l. 2 (description de la fraction), l. 23 M. (« encre plus pâle »), notes de lecture l. 11, 14, 21, 23, 24 avec analyse lettre à lettre'
+  apres: notes ramenées au développement ou à la lecture retenue + alternatives ; analyse paléographique laissée dans « difficultes »
+  justification: épuration de l'apparat imprimé ; la transcription de la première lecture est confirmée sur l'image sans changement
+- ligne: 14
+  avant: 'alternatives : extré, orée'
+  apres: 'alternatives : extré, ouest'
+  justification: la première lettre est une boucle fermée (e ou o) suivie de deux jambages, compatible avec ouest ; orée n'a pas de r après la boucle
+remarques: La l. 22 « excellente nuit. » passe au-dessus d'un long tiret de tête de la l. 23, qui n'est pas un soulignement.
+resume: 'Le samedi 9 septembre 1916, la compagnie quitte Marquay vers 9 h 30 après le défilé de trois brigades de la division. Chevauchée lente par Ligny-Saint-Flochel et un plateau où se trouve une école de mortiers de tranchée, avec vue panoramique ; beau temps, poussière sur la route. Vers 13 h, fin de la première étape au hameau de Monts-en-Ternois : cantonnement dans une grande ferme, ancien monastère, avec jardin fleuri. Invité par le capitaine West à prendre ses repas au mess des officiers, Hippolyte Combes dort sur deux bancs de jardin. Il note 3 francs donnés à M. Dupuich à Marquay et un pourboire.'
+noms:
+  personnes:
+  - forme: Cap. West
+    ligne: 19
+    identite: capitaine britannique
+  - forme: Dupuich
+    ligne: 23
+    identite: logeur (?) de Marquay ; lecture incertaine (Dupuis ?)
+  lieux:
+  - forme: Marquay
+    ligne: 2
+    identite: Marquay (Pas-de-Calais)
+  - forme: Ligny - St-Flochel
+    ligne: 6
+    identite: Ligny-Saint-Flochel (Pas-de-Calais)
+  - forme: Monts-en-Ternois
+    ligne: 13
+    identite: Monts-en-Ternois (Pas-de-Calais)
+source: contrôle

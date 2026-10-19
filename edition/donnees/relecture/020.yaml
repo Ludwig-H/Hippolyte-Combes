@@ -1,0 +1,99 @@
+cliche: 20
+confiance: haute
+changements:
+- ligne: 1
+  avant: 15 Ma – Assompt. \hfill Aout / 16
+  apres: 15 \sl{ma – \inc{Assomptn}.} \hfill \sl{Aout /16}
+  justification: m minuscule ; après le t barré, un jambage puis un trait plongeant en ʒ avant le point ; deux soulignements sous « ma – Assompt… » et sous « Aout /16 » ; « /16 » sans espace
+  confiance: moyenne
+- ligne: 2
+  avant: 'après-midi :'
+  apres: après-midi ;
+  justification: 'point en haut puis trait oblique descendant sous la ligne : point-virgule'
+  confiance: moyenne
+- ligne: 5
+  avant: 'chambre. Large pièce : très'
+  apres: chambre Large pièce ; très
+  justification: chambre s'achève par un long délié sans point ; après pièce, point et crochet descendant (point-virgule), non deux-points
+  confiance: moyenne
+- ligne: 7
+  avant: sans cesse
+  apres: sans cesse \trait
+  justification: délié final prolongé jusqu'à la marge
+  confiance: haute
+- ligne: 8
+  avant: Presque ts les matins
+  apres: Presque ts ces matins
+  justification: 'le mot n''a pas de hampe : c + e + s final'
+  confiance: haute
+- ligne: 9
+  avant: épais brouillards
+  apres: épais brouillards \trait
+  justification: long trait horizontal après brouillards
+  confiance: haute
+- ligne: 10
+  avant: — Donné à ma propre, pour
+  apres: — donné à ma propri pour
+  justification: 'd au module des minuscules ; propri : p-r-o-p-r-i avec point au-dessus, pas de e final ni de virgule'
+  confiance: moyenne
+- ligne: 11
+  avant: 5 f —
+  apres: 5^{f} —
+  justification: f monétaire en petite boucle au-dessus de la ligne, tiret au-dessous
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: Assomptn
+  analyse: 'Zoom ×3 [.27 0 .54 .065] : A, ss en minimes, o, m, p descendant, t à barre longue, puis un court jambage et un tracé en ʒ plongeant sous la ligne, enfin un point détaché. Jambage + ʒ = n final plongeant (guide § 4) ; le signe ° (-ion) reste possible. Le développement (Assomption) n''est pas en cause.'
+  alternatives:
+  - Assompt°
+  - Assomptiō
+- ligne: 3
+  lemme: Routes
+  analyse: R, o, u, t, puis boucle fermée (es réduit, aspect a) ; le pluriel est appuyé par détrempées. Confirmé au zoom.
+  alternatives:
+  - Route
+- ligne: 4
+  lemme: partie journée
+  analyse: 'partie : e final fermé en o sous la barre du t (aspect partiō) ; journée : j, o, u-r-n en minimes, e accentué, délié final. Confirmé au zoom.'
+  alternatives:
+  - partiō
+- ligne: 5
+  lemme: ;
+  analyse: Après pièce, point détaché puis petit crochet descendant (zoom [.60 .185 .96 .25]) ; le point au-dessus de pièce appartient à son i.
+  alternatives:
+  - ','
+- ligne: 8
+  lemme: ts
+  analyse: Un trait descendant (ſ) puis un t barré ; même tracé que ts/tt (guide § 8, 14) ; la syntaxe impose tous.
+  alternatives:
+  - tt
+- ligne: 9
+  lemme: épais
+  analyse: Court trait horizontal au-dessus de la jonction e-p, détaché de l'œil du e et décalé à droite (accent posé après coup) ; point du i décalé à droite.
+  alternatives:
+  - epais
+- ligne: 10
+  lemme: propri
+  analyse: 'p, r, o, p, r, puis un jambage et un long délié ; point net haut au-dessus de la finale : i ; aucun e final. Cf. 023 Proprie.'
+  alternatives:
+  - propre
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Le commentateur dit avoir corrigé « lieux » (La Croix-du-Bac, Steenwerck, Nord) d''après Bewsher 1921 et le JMO ; la page ne nomme aucun lieu, ce point ne se vérifie pas sur l''image et relève du commentaire. Son estimation du coût du cooking (environ 4 F 50, déduite des prix du lait des jours précédents) n''est pas imprimée dans l''apparat : la page ne donne que le total de 5 f.'
+  alternatives: []
+controle:
+- ligne: 1
+  avant: 'apparat : Assomptn (abreviation) « Assomption ; finale réduite à un trait plongeant (n ?), lecture incertaine (aussi Assompt°) »'
+  apres: 'deux entrées : abreviation « Assomption » ; lecture « finale en jambage plongeant, lue n ; aussi Assompt° »'
+  justification: Développement et doute de lecture séparés ; \inc maintenu, le zoom ×3 montrant jambage + ʒ sans trancher entre n et °.
+- ligne: 10
+  avant: 'apparat : propri (abreviation) seule'
+  apres: ajout d'une note lecture « i pointé, sans e final ; non « propre » »
+  justification: Lecture nouvelle par rapport à la transcription antérieure (propre), confirmée au zoom [.38 .72 .75 .78].
+remarques: Un grand blanc sépare les sept premières lignes des quatre dernières ; les deux dernières notes, précédées d'un tiret, ont pu être écrites plus tard. Relecture p2 confirme la première lecture ligne à ligne.
+resume: Le mardi 15 août 1916, jour de l'Assomption, de fortes ondées tombent toute la matinée et une partie de l'après-midi ; les routes sont détrempées. Hippolyte Combes reste une partie de la journée dans sa chambre, une grande pièce très haute de plafond, à la fenêtre de laquelle il se tient sans cesse. Il note que presque tous les matins, à l'aube, il y a d'épais brouillards. Il paie 5 francs à sa propriétaire pour la cuisine de la semaine précédente et deux litres de lait.
+noms:
+  personnes: []
+  lieux: []
+source: contrôle

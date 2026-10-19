@@ -1,0 +1,141 @@
+cliche: 100
+fichier: 20251126_104831.jpg
+date: Vendredi 17 – samedi 18 novembre 1916
+mois: Novembre 1916
+lieux: Acheux-en-Amiénois, Authie et Albert (Somme) ; Orville et Amplier (Pas-de-Calais)
+titre: Gel, tournée à Authie, Orville, Amplier ; conférence sur la Russie ; canonnade, neige
+transcription: |
+  \sl{17 Ven.} \hfill \sl{Nov^{bre} –16}
+  \ind[2] Nuit gelé très
+  fortt Sol, durci. Vitres, couvertes d'arabesques
+  \fr{1}{2} jour, soleil brillé, mais bise glaciale
+  soufflé et soulevé routes nuages de poussière
+  \ind Toute matinée, roulé en auto. Authie,
+  coquet bourg au fond d'1 vallon —
+  Orville et Amplier – Sites assez \inc{j.}
+  Après-midi, liberté complète
+  A 6^{H} s, venu hut de Y.M.C.A. et entendu
+  conférence s/ Russie – –
+  \ind Comme ts les soirs précédents, nuit noire
+  bombardement très violent ds le lointain
+  \filet
+  \sl{18 Sam.} Durant tte nuit & + fort^{t} encore
+  \ind[2] aux 1^{ère} heures jour, très violente
+  canonnade, ds le lointain. Fenêtres & portes,
+  vibrant sans arret Obus eclatent à coups
+  de + en + précipités : on dirait énormes vagues
+  déferlant s/ rochers av 1 bruit de tonnerre
+  \ind[2] Matinée, venu à Albert. aller &
+  retour, sur 1 lorry – –
+  \ind Neige tombé matin — 1^{ère} neige,
+  mais peu à peu, fondue sous pluie fine
+  Routes détrempées, vraies fondrières
+  \equerre{1}\equerred{1}— Albert : solde : 88 \inc{fr} — 3 C^{tes} p^{les} : 30 c
+apparat:
+- ligne: 1
+  lemme: Ven.
+  type: abreviation
+  note: vendredi
+- ligne: 1
+  lemme: Nov^{bre} –16
+  type: abreviation
+  note: novembre 1916
+- ligne: 3
+  lemme: fortt
+  type: abreviation
+  note: fortement
+- ligne: 4
+  lemme: \fr{1}{2} jour
+  type: abreviation
+  note: demi-jour, la mi-journée
+- ligne: 7
+  lemme: d'1
+  type: abreviation
+  note: d'un
+- ligne: 8
+  lemme: \inc{j.}
+  type: lecture
+  note: jolis ? une seule lettre à haute boucle descendante, suivie d'un point ; on lirait aussi « ef. »
+- ligne: 10
+  lemme: 6^{H} s
+  type: abreviation
+  note: 6 heures du soir
+- ligne: 10
+  lemme: hut
+  type: emprunt
+  note: baraque
+- ligne: 10
+  lemme: Y.M.C.A.
+  type: abreviation
+  note: Young Men's Christian Association (foyer du soldat)
+- ligne: 11
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 11
+  lemme: Russie
+  type: lecture
+  note: Russie, finale -ie pointée ; non « Russia »
+- ligne: 12
+  lemme: ts
+  type: abreviation
+  note: tous
+- ligne: 13
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 14
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 14
+  lemme: tte
+  type: abreviation
+  note: toute
+- ligne: 14
+  lemme: '& + fort^{t}'
+  type: abreviation
+  note: et plus fortement
+- ligne: 15
+  lemme: 1^{ère}
+  type: abreviation
+  note: premières
+- ligne: 16
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 18
+  lemme: de + en +
+  type: abreviation
+  note: de plus en plus
+- ligne: 19
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 19
+  lemme: av 1
+  type: abreviation
+  note: avec un
+- ligne: 21
+  lemme: 1 lorry
+  type: emprunt
+  note: un camion
+- ligne: 22
+  lemme: 1^{ère}
+  type: abreviation
+  note: première
+- ligne: 25
+  lemme: 88 \inc{fr}
+  type: lecture
+  note: 88 fr (francs) ? tracé confus après 88 ; on lirait aussi « 88 f »
+- ligne: 25
+  lemme: C^{tes} p^{les}
+  type: abreviation
+  note: cartes postales
+critique: Le compte final est enfermé entre deux équerres, la fermante prolongeant le délié de « fondrières ».
+historique: |
+  Le 17 est « une autre journée claire et froide » ; dans la nuit tombe la première neige de l'hiver, et l'assaut final des II et V Corps part le 18 à 6~h~10 « dans un tourbillon de grésil qui se changea ensuite en pluie » (OH 1916-II, p.~513--514) : c'est la neige « fondue sous pluie fine » du carnet. Au sud de l'Ancre, la 55th Brigade de la 18th Division, l'ancienne division de Combes, attaque \textit{Desire Trench} aux côtés de la 4th Canadian Division ; deux compagnies du 7th Queen's et du 7th Buffs y sont anéanties, faute de liaison avec la 19th Division (Nichols 1922, p.~133--136 ; OH 1916-II, p.~514--519). Le 18 novembre est la date officielle de la fin des batailles de la Somme (OH 1916-II, p.~xliv); rien ne permet d'attribuer à ce seul secteur la canonnade entendue d'Acheux. La Y.M.C.A. consacrait de fortes sommes aux \textit{lectures} et n'en faisait pas payer l'entrée dans ses huttes (Yapp 1918, chap.~IV). Les 88~F de la solde ne sont pas un multiple des 5,25~F par jour des autres versements (voir f.~40~r\textsuperscript{o}) : rappel ou rajustement inexpliqué.
+sources:
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. xliv, 513-519.
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 133-136.
+- Yapp, A. K., The Romance of the Red Triangle, London, Hodder and Stoughton, 1918, chap. IV.

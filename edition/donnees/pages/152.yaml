@@ -1,0 +1,90 @@
+cliche: 152
+fichier: 20251126_110753.jpg
+date: Dimanche 11 février 1917
+mois: Février 1917
+lieux: Hérissart, Toutencourt et Doullens (Somme) ; Auxi-le-Château (Pas-de-Calais)
+titre: 'Dimanche 11 : Toutencourt, Doullens, Auxi-le-Château chez M. Romert ; gel au retour'
+transcription: |
+  \sl{Dim. 11} — Tout le jour, \hfill — \sl{Février 1917} —
+  en course
+  Matinée, à Toutencourt
+  Dejeuné à Doullens, où arret de 3 h
+  Promenade solitaire à travers campagne, autour
+  de la ville, le long d'1 petit ruisseau
+  Temps très \inc{doux}
+  Continué, 3^{H} s., jusqu'à Auxi-le-Chateau
+  Vu M. Romert. Ma offert café et excellent
+  rhum (1870) et kirsch Foret Noire. Causé de
+  tout un peu. Vieux celib^{re}, heritier de 3
+  generations, laissera fortune à des etrangers
+  Au retour, soleil disparu, air de + en +
+  glacé. Commence à geler très durement
+  Nuit obscure, ciel etoilé (mais sans lune
+  Il semble pourtant qu'il fasse un peu
+  moins froid.
+  \blanc{2}
+  \crochet{3}\sl{Doullens} : Papeterie : 2^{f}10. —
+  Cartes p^{les} : 45
+  Chocolat : 60c — Biscuits Petit Beurre : 50c
+apparat:
+- ligne: 1
+  lemme: Dim.
+  type: abreviation
+  note: dimanche
+- ligne: 4
+  lemme: 3 h
+  type: abreviation
+  note: trois heures
+- ligne: 6
+  lemme: d'1
+  type: abreviation
+  note: d'un
+- ligne: 7
+  lemme: doux
+  type: lecture
+  note: 'lecture retenue : haste sans panse fermée, o-u, x croisé ; autre lecture possible : beau (ancienne transcription)'
+- ligne: 8
+  lemme: 3^{H} s.
+  type: abreviation
+  note: trois heures du soir
+- ligne: 11
+  lemme: celib^{re}
+  type: abreviation
+  note: célibataire
+- ligne: 13
+  lemme: + en +
+  type: abreviation
+  note: plus en plus
+- ligne: 16
+  lemme: qu'il
+  type: lecture
+  note: 'i réduit à un petit crochet devant l ; lecture possible : qu''l'
+- ligne: 18
+  lemme: 2^{f}10
+  type: abreviation
+  note: 2 francs 10
+- ligne: 19
+  lemme: p^{les}
+  type: abreviation
+  note: postales
+- ligne: 19
+  lemme: '45'
+  type: lecture
+  note: 'lecture nouvelle : 45 (centimes), non 75 c ; le trait oblique devant le 4 appartient à « Papeterie »'
+- ligne: 20
+  lemme: 60c
+  type: abreviation
+  note: 60 centimes
+- ligne: 20
+  lemme: 50c
+  type: abreviation
+  note: 50 centimes
+critique: Encre violette ; tache d'encre en haut de la page. La journée du dimanche 11, amorcée au bas du f.~75 v\textsuperscript{o}, est reprise ici sous une nouvelle date. Les comptes, séparés du texte par un blanc, sont enfermés à gauche par un grand crochet à longs pieds horizontaux.
+historique: |
+  La course passe par Toutencourt, QG de la Fifth Army (voir f.~75 r\textsuperscript{o}), puis par Doullens, où siège depuis le 12 janvier 1917 le QG du XIII Corps (LLT) et où se trouvent la citadelle, hôpital militaire français, et des hôpitaux britanniques (CWGC ; OH 1916-II, p.~541). Auxi-le-Château (Pas-de-Calais) est à une vingtaine de kilomètres en aval sur l'Authie ; Combes y était venu le 17 janvier chez M.~Renard (voir f.~62 r\textsuperscript{o}). M.~Romert n'est pas identifié. Le kirsch de Forêt-Noire, eau-de-vie badoise, vient sans doute d'une cave d'avant-guerre. Le froid vif du retour appartient au grand gel commencé vers le 14 janvier, qui ne cède que le 16 février (OH 1917-I, p.~66, 76). Dans les comptes, le chocolat est au même prix qu'à Doullens le 15 janvier (voir f.~61 v\textsuperscript{o}) ; le Petit Beurre est le biscuit mis au point à Nantes en 1886 par Louis Lefèvre-Utile, dont la forme et la marque sont déposées en 1888 (Musée d'histoire de Nantes).
+sources:
+- Baker, C., The Long, Long Trail, « The British XIII Corps in France and Flanders » (longlongtrail.co.uk, consulté le 18 oct. 2026).
+- Commonwealth War Graves Commission, Doullens Communal Cemetery Extension No. 1, notice historique (cwgc.org).
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 541.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66, 76.
+- Château des ducs de Bretagne – Musée d'histoire de Nantes, « LU, a Nantes story », exposition en ligne, Google Arts & Culture (https://artsandculture.google.com/exhibit/lu-a-nantes-story/YwJSmyHH3im9Kg).

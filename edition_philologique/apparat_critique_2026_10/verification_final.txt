@@ -1,2 +1,0 @@
-OK: 186 records and reviews; matching source/proposal hashes; JSON/Markdown/TeX consistent; 186 facing PDF pairs across 412 pages; correct JPEGs and captions; no detected text overflow.
-Limit: artifact consistency is verified, not philological certainty or factual accuracy of historical notes.

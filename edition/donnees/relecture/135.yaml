@@ -1,0 +1,147 @@
+cliche: 135
+confiance: haute
+changements:
+- ligne: 1
+  avant: Mardi 30. \hfill Janvier 1917 —
+  apres: \sl{Mardi 30}. \hfill \sl{Janvier} 1917 —
+  justification: deux traits appuyés sous la date et sous le mois (celui-ci décalé, sous « nvier », s'arrêtant devant 1917)
+  confiance: haute
+- ligne: 2
+  avant: 7h m.
+  apres: 7^{h} m.
+  justification: h nettement suscrit après le 7
+  confiance: haute
+- ligne: 3
+  avant: prélassé
+  apres: prelassé
+  justification: aucun accent sur le premier e ; trait final sur é seulement
+  confiance: moyenne
+- ligne: 5
+  avant: Évoqué passé sans mélancolie.
+  apres: Evoqué passé sans melancolie
+  justification: E bouclé sans accent ; rien au-dessus de « me » ; le tiret haut après le mot est le point du i de « colie », non un point final
+  confiance: moyenne
+- ligne: 7
+  avant: av. un plaisir extrême.
+  apres: av un plaisir extrême
+  justification: av sans point ; extrême terminé par un long délié, sans point
+  confiance: haute
+- ligne: 8
+  avant: Ste-Marie
+  apres: S^{te} Marie
+  justification: te suscrit souligné d'un petit trait ; aucun trait d'union
+  confiance: haute
+- ligne: 9
+  avant: déjeuner.
+  apres: dejeuner
+  justification: ni accent ni point visibles
+  confiance: haute
+- ligne: 10
+  avant: conférce
+  apres: confer^{ce}
+  justification: ce suscrit, petit, au-dessus de la ligne ; pas d'accent sur e
+  confiance: haute
+- ligne: 11
+  avant: Guérin
+  apres: Guerin
+  justification: pas d'accent visible au-dessus du e (G empâté)
+  confiance: moyenne
+- ligne: 12
+  avant: Admirablt
+  apres: Admirab^{t}
+  justification: petit t en croix surélevé après le mot, aucun l
+  confiance: haute
+- ligne: 13
+  avant: remarquables fond
+  apres: remarquables pr fond
+  justification: petit « pr » (p bouclé + r) ajouté entre remarquables et fond, omis
+  confiance: haute
+- ligne: 14
+  avant: régal
+  apres: regal
+  justification: pas d'accent
+  confiance: moyenne
+- ligne: 16
+  avant: '[ — Cartes ples : 10 c.'
+  apres: '\crochet{5}Cartes ples : 10c.'
+  justification: grand crochet à deux pieds couvrant les cinq lignes ; pas de tiret devant Cartes (le tiret est devant 1 ramette)
+  confiance: haute
+- ligne: 17
+  avant: '— 1 ramette papier vélin : 1 f 25'
+  apres: '— 1 ramette papier velin : 1^{f} 25 \add{(moyen format)}'
+  justification: f monétaire suscrit, 2 bouclé, 5 en ℓ ; pas d'accent sur velin ; (moyen format) est un ajout sous la ligne, non une ligne
+  confiance: moyenne
+- ligne: 18
+  avant: 80 c.
+  apres: .80c.
+  justification: deux-points suivis d'un point bas devant 80
+  confiance: moyenne
+- ligne: 19
+  avant: 'Trams : 10 c, 60 c, 10 c.'
+  apres: 'Trams : 10c. 60c, 10c.'
+  justification: point après le premier 10c ; virgule après 60c ; les autres traits sont l'attaque de Modes et des tracés de la ligne suivante
+  confiance: moyenne
+- ligne: 20
+  avant: 'Le Miroir des Modes (no de janvier) : 1 f — ]'
+  apres: 'Le Miroir de Modes (no de janvier) : 1^{f} —'
+  justification: de sans s ; f suscrit en croix au-dessus et à droite du 1 ; le crochet est rendu par \crochet
+  confiance: moyenne
+difficultes:
+- ligne: 12
+  lemme: Admirab^{t}
+  analyse: A ɑ, d bouclé, puis lettres médianes écrasées (m, i pointé) avant le t en croix surélevé ; « rab » non distinct, forme connue ailleurs (admirab^{t}) ; sens sûr
+  alternatives:
+  - Admi^{t}
+- ligne: 18
+  lemme: d'enveloppes
+  analyse: 'cursive écrasée : une seule descendante de p visible, o non distinct (aspect « envelpes ») ; mot sûr, graphie transcrite normalement'
+  alternatives:
+  - d'envelopes
+- ligne: 17
+  lemme: 1^{f} 25
+  analyse: après le 1, f suscrit barré précédé d'une boucle d'attaque ; au-dessous un 2 bouclé et une haute boucle en ℓ (5) ; la parenthèse fermante à droite appartient à (moyen format)
+  alternatives: []
+controle:
+- ligne: 5
+  avant: Evoqué passé sans mélancolie.
+  apres: Evoqué passé sans melancolie
+  justification: zoom ×2 [0 .16 .80 .20] — aucun accent sur « me » ; le petit tiret haut à droite est le point décalé du i de « colie », non un point final
+- ligne: 13
+  avant: remarquables \add{\inc{pr}} fond
+  apres: remarquables pr fond
+  justification: zoom ×3 [.27 .45 .42 .51] — p bouclé et r nets, lecture sûre ; le mot est serré dans la ligne, un peu sous la base, non interlinéaire ; apparat « lecture » remplacé par une note « ajout »
+- ligne: 8
+  avant: cme
+  apres: cme
+  justification: zoom ×3 [.20 .27 .36 .32] — virgule, c, m à trois jambages, e à long délié ; aucune panse d'o ; difficulté levée
+- ligne: 0
+  avant: critique mentionnant le soulignement décalé du mois
+  apres: critique réduite à l'encre et au crochet des comptes
+  justification: le soulignement est rendu par la transcription balisée
+remarques: 'Le Miroir des modes : périodique de mode (numéro de janvier 1917).'
+resume: 'Mardi 30 janvier 1917, à Toulouse. Lever à 7 heures, grand feu dans la chambre, moment de repos et d''évocation sereine du passé. Le matin, visite à Mme de Labarthe ; déjeuner à Sainte-Marie comme d''habitude. L''après-midi, conférence de M. Zyromski sur Maurice de Guérin (influence de la Bretagne et de Lamennais), jugée admirablement écrite ; soirée avec Marguerite. Comptes : cartes postales, papier vélin, enveloppes, tramways, Le Miroir des modes de janvier.'
+noms:
+  personnes:
+  - forme: Mme de Labarthe
+    ligne: 6
+    identite: Mme de Labarthe, relation toulousaine
+  - forme: M. Zyromski
+    ligne: 10
+    identite: Ernest Zyromski, professeur à la faculté des lettres de Toulouse
+  - forme: Maurice de Guerin
+    ligne: 11
+    identite: Maurice de Guérin (1810–1839), poète
+  - forme: Lamennais
+    ligne: 12
+    identite: Félicité de Lamennais (1782–1854)
+  - forme: Margte
+    ligne: 15
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  lieux:
+  - forme: S^{te} Marie
+    ligne: 8
+    identite: Sainte-Marie-des-Champs, Toulouse
+  - forme: Bretagne
+    ligne: 11
+    identite: Bretagne
+source: contrôle

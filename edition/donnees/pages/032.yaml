@@ -1,0 +1,161 @@
+cliche: 32
+fichier: 20251126_094250.jpg
+date: Jeudi 31 août 1916
+mois: Août 1916
+lieux: Marquay, Ramecourt ?, Saint-Michel-sur-Ternoise et Saint-Pol-sur-Ternoise (Pas-de-Calais)
+titre: Marche jusqu'à Saint-Pol ; l'église des Carmes et la plaque de Benoît Labre ; cartes
+transcription: |
+  31 \sl{J} – Enfin, belle journée – \hfill \sl{Aout/16}
+  Soleil ardent transformé paysages & humeurs
+  Après-midi, promenade à pied j-à St-Pol.
+  Au départ, coupé à travers champs, en
+  haut plateau de \inc{Ramecourt} & arrivé au
+  village de St-Michel-de-Ternoize – puis
+  suivi g^{d}-route – Arras. St-Pol.
+  \ind Au fond vallon, s'étend cette petite
+  sous-pref^{re} de de – 5000 hab^{ts}
+  Rues en pente aboutissant à gd-place
+  Eglise briques rouges, style hollandais,
+  (1697 – Remarqué intérieur plaque
+  marbre s/1 pilier : rappelant que —
+  \ind mars 1767 le bienh^{x} Benoît Labre \inc{y} passa
+  la nuit en prière \inc{ds} cette = eglise \trait
+  \blanc{1}
+  Rentré par Ostreville \trait
+  Course m'a fait bp de bien
+  \blanc{1}
+  \filet
+  A Saint-Pol : 12 ctes ples : 50c — \hfill Varia : \inc{10}c
+  Carte du départt : 70c. — \hfill Div. cartes ples : 0\sur{5}{8}0
+  Cartes ples militaires : 40c. — \hfill \addm{080}
+apparat:
+- ligne: 1
+  lemme: J
+  type: abreviation
+  note: jeudi
+- ligne: 1
+  lemme: Aout/16
+  type: abreviation
+  note: août 1916
+- ligne: 2
+  lemme: transformé
+  type: lecture
+  note: finale é (accent en barre) ; l'état antérieur lisait « transformt »
+- ligne: 3
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 3
+  lemme: St-Pol
+  type: abreviation
+  note: Saint-Pol(-sur-Ternoise)
+- ligne: 5
+  lemme: \inc{Ramecourt}
+  type: lecture
+  note: R initial et finale -court nets, lettres médianes écrasées ; Roëllecourt exclu (aucune hampe de l)
+- ligne: 6
+  lemme: St-Michel
+  type: abreviation
+  note: Saint-Michel(-sur-Ternoise)
+- ligne: 6
+  lemme: de-Ternoize
+  type: lecture
+  note: « de », même tracé que le « de » qui précède St ; on attendrait s (sur)
+- ligne: 6
+  lemme: Ternoize
+  type: graphie
+  note: pour Ternoise
+- ligne: 7
+  lemme: g^{d}-route
+  type: abreviation
+  note: grand-route
+- ligne: 7
+  lemme: St-Pol
+  type: abreviation
+  note: Saint-Pol (la grand-route d'Arras à Saint-Pol)
+- ligne: 9
+  lemme: sous-pref^{re}
+  type: abreviation
+  note: sous-préfecture
+- ligne: 9
+  lemme: de de
+  type: graphie
+  note: « de » répété
+- ligne: 9
+  lemme: hab^{ts}
+  type: abreviation
+  note: habitants
+- ligne: 10
+  lemme: gd-place
+  type: abreviation
+  note: grand-place
+- ligne: 13
+  lemme: s/1
+  type: abreviation
+  note: sur un
+- ligne: 14
+  lemme: bienh^{x}
+  type: abreviation
+  note: bienheureux
+- ligne: 14
+  lemme: \inc{y}
+  type: lecture
+  note: y réduit à un point et un trait retombant sous la ligne ; un tiret possible
+- ligne: 15
+  lemme: \inc{ds}
+  type: abreviation
+  note: dans ; la finale réduite donne au mot l'aspect de « de »
+- ligne: 15
+  lemme: '='
+  type: abreviation
+  note: même (dans cette même église)
+- ligne: 17
+  lemme: bp
+  type: abreviation
+  note: beaucoup
+- ligne: 18
+  lemme: ctes ples
+  type: abreviation
+  note: cartes postales
+- ligne: 18
+  lemme: Varia
+  type: emprunt
+  note: 'latin : divers'
+- ligne: 18
+  lemme: \inc{10}c
+  type: lecture
+  note: 1 à trait d'attaque suivi d'un trait haut et étroit ; 4 ouvert ou 11 possibles
+- ligne: 19
+  lemme: départt
+  type: abreviation
+  note: département
+- ligne: 19
+  lemme: Div.
+  type: abreviation
+  note: diverses
+- ligne: 19
+  lemme: ples
+  type: abreviation
+  note: postales
+- ligne: 19
+  lemme: 0\sur{5}{8}0
+  type: surcharge
+  note: 8 récrit sur un chiffre à drapeau (5 ?) ; lire 0 f 80
+- ligne: 20
+  lemme: ples
+  type: abreviation
+  note: postales
+- ligne: 20
+  lemme: \addm{080}
+  type: ajout
+  note: « 080 », d'une encre plus pâle, précédé d'un trait en équerre, sous le montant surchargé de la l. 19
+critique: Encre noire virée au brun ; un filet sépare les comptes du récit. L'écriture du verso transparaît au bas de la page.
+historique: |
+  Ramecourt, au sud-ouest de Saint-Pol, est à l'opposé de Saint-Michel-sur-Ternoise et de la grand-route d'Arras, par où Combes arrive de l'est : Roëllecourt, sur cette route à 2,9 km de Marquay, conviendrait mieux (OSM). Saint-Pol comptait 4 243 habitants en 1911 (Cassini/EHESS). L'église est l'ancienne chapelle des Carmes, devenue paroissiale, datée de 1682 et non de 1697 (Mérimée PA00108424) ; bombardée en 1943--1944, elle a fait place à l'actuelle église Saint-Paul (Palissy PM62001934). Benoît-Joseph Labre, né à Amettes en 1748, fut canonisé le 8 décembre 1881 : la plaque qui le dit « bienh\textsuperscript{x} » date sans doute d'entre sa béatification (1860) et cette date ; revenu à Amettes en novembre 1766, il chercha deux ans durant à entrer chez les chartreux ou à la Trappe (Delany 1907), mais son passage à Saint-Pol en mars 1767 n'est pas attesté ailleurs. Ce « \textit{Fine day} », la 54th Brigade s'exerce à l'aube à l'attaque de deux lignes de tranchées devant les commandants du corps et de la division (JMO 7/Bedf, 31 août 1916). À la douzaine, la carte postale revient à 4 c, contre 10 c en Flandre (voir f. 3 r\textsuperscript{o}).
+sources:
+- Ministère de la Culture, base Mérimée, notice PA00108424 (Saint-Pol-sur-Ternoise, église).
+- Ministère de la Culture, base Palissy, notice PM62001934 (Saint-Pol-sur-Ternoise, orgue).
+- Delany, Joseph F., « St. Benedict Joseph Labre », The Catholic Encyclopedia, vol. 2, New York, Robert Appleton Company, 1907.
+- Des villages de Cassini aux communes d'aujourd'hui (EHESS), Saint-Pol-sur-Ternoise, recensement de 1911 (consulté par l'intermédiaire de Wikipédia).
+- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (transcription en ligne).'
+- OpenStreetMap / Nominatim (distances à vol d'oiseau entre chefs-lieux).

@@ -1,0 +1,186 @@
+cliche: 121
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 6 Sam. \hfill Janv. 1917
+  apres: 6 \sl{Sam} \hfill Janv. \sl{1917}
+  justification: aucun point après Sam ; le trait souligne seulement « Sam » à gauche et « 1917 » à droite
+  confiance: haute
+- ligne: 2
+  avant: Très belle journée, ensoleillée
+  apres: Très belle journée ensoleillée,
+  justification: aucune virgule entre journée et ensoleillée ; signe en 7 après ensoleillée = virgule
+  confiance: moyenne
+- ligne: 3
+  avant: mais 1 peu froide.
+  apres: mais 1 peu froide
+  justification: délié final prolongé, pas de point
+  confiance: moyenne
+- ligne: 4
+  avant: 'Matinée, course en auto : Louvencourt,'
+  apres: Matinée course en auto à Louvencourt,
+  justification: pas de virgule après Matinée ; devant Louvencourt, a en ɔ surmonté d'un accent détaché = à, non deux-points
+  confiance: haute
+- ligne: 5
+  avant: Bertrancourt et Authie.
+  apres: Bertrancourt et Authie
+  justification: pas de point visible
+  confiance: moyenne
+- ligne: 8
+  avant: des 2 fois précédentes. Chants du jour. —
+  apres: des 2 fois precédentes. Chants du \inc{jour}. —
+  justification: un seul accent, décalé au-dessus du d (second é) ; « jour » douteux (minimes + point haut)
+  confiance: moyenne
+- ligne: 9
+  avant: 'Matinée, routes encombrées : déplacement'
+  apres: '\ind Matinée, routes encombrées : deplacement'
+  justification: aucun accent sur le premier e de deplacement ; ligne en retrait
+  confiance: moyenne
+- ligne: 10
+  avant: 'de troupes : convois d''artillerie, de A.S.C. etc.'
+  apres: de troupe, convois d'artillerie, de A.S.C. etc
+  justification: troupe + point bas puis virgule verticale ; pas de s ni de deux-points ; etc sans point
+  confiance: moyenne
+- ligne: 11
+  avant: '[ — Washing : 70 c. — Concert Y.M.C.A. : 30 c ]'
+  apres: '\ind — Washing : 70. — \hfill Concert Y.M.C.A : 30c'
+  justification: aucun crochet ; 70 sans c, suivi d'un point ; deux colonnes
+  confiance: haute
+- ligne: 12
+  avant: 9 Ma. —
+  apres: \sl{9 Ma} —
+  justification: date soulignée, sans point
+  confiance: haute
+- ligne: 14
+  avant: St-Léger.
+  apres: St. \inc{Leg}
+  justification: St suivi d'un point ; L bouclé, e, g, puis finale plongeante au bord de la page ; accent non visible
+  confiance: moyenne
+- ligne: 15
+  avant: Aujourd'hui, pareillement. Matinée,
+  apres: aujourdhui, pareillement. Matinée
+  justification: initiale minuscule, pas d'apostrophe, pas de virgule finale
+  confiance: haute
+- ligne: 17
+  avant: Après-midi, à Hédauville, route de
+  apres: Après-midi, à Hedauville, route de
+  justification: aucun accent sur le e de Hedauville
+  confiance: moyenne
+- ligne: 18
+  avant: Varennes, où retrouvé 150 Coy, 18th Divon
+  apres: Varennes, où retrouvé 150 Coy, 18^{th} div^{on}
+  justification: th et on suscrits ; d minuscule
+  confiance: moyenne
+- ligne: 24
+  avant: '[ — Avis de réception pour Imbert : 15 c — ]'
+  apres: '\ind — Avis de réception pour Imbert : 15c —'
+  justification: aucun crochet ; ligne en retrait
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: ensoleillée,
+  analyse: 'signe isolé en 7 (crochet en tête, longue diagonale) entre ensoleillée et Janv. (zoom [.58 .02 .72 .10]) ; aucune barre médiane, alors que le 7 de 1917 en porte une : virgule à attaque crochue'
+  alternatives:
+  - 7 (chiffre isolé, sans emploi)
+- ligne: 7
+  lemme: Programme
+  analyse: 'P r o g r a puis deux bosses et e prolongé en long délié : mm écrasé'
+  alternatives:
+  - Programe
+- ligne: 8
+  lemme: jour
+  analyse: 'p2 [.55 .19 .99 .275] : la lettre initiale part de la ligne de tête et descend en boucle fermée à gauche (j, non ſ) ; suivent deux minimes ouvertes, une minime pointée, une finale ; le point peut être celui du j décalé à droite (jour) ou d''un i (juin)'
+  alternatives:
+  - juin
+  - soir (si ſ long, peu probable)
+- ligne: 10
+  lemme: troupe,
+  analyse: t bouclé, r, o, u, p descendant, e ; point bas net après l'e puis, ~0,05 plus loin, trait vertical = virgule ; trop éloigné pour un s final réduit
+  alternatives:
+  - troupes,
+  - troupe.,
+- ligne: 14
+  lemme: Leg
+  analyse: 'p2 [.80 .54 1.0 .63] : L bouclé, e, g à boucle, puis un trait qui plonge au bord droit et se termine par un petit o ; aucune lettre nettement suscrite : -er écrasé ou délié'
+  alternatives:
+  - Leg^{r}
+  - Léger
+- ligne: 16
+  lemme: Guibet
+  analyse: 'p2 [0 .625 .48 .685] : G en J, u, puis haste bouclée (b), e, t barré ; le i se confond avec les minimes du u (pas de point visible)'
+  alternatives:
+  - Gubet
+- ligne: 18
+  lemme: div^{on}
+  analyse: d bouclé, i, v ; au-dessus petit o surmonté d'un trait, puis un ʒ descendant au bord droit (n final ?) ; le « ( » avant Coy est la virgule de la l. 17
+  alternatives:
+  - div^{o}
+- ligne: 20
+  lemme: était
+  analyse: la longue haste qui traverse le mot est le jambage du f de « fangeux » (l. 19) ; restent e t a i t sous une barre longue
+  alternatives: []
+- ligne: 22
+  lemme: la nuit
+  analyse: la noyé d'encre ; barre de t de « nuit » tirée jusqu'au & ; le trait fin oblique part de « Toute » ; lecture non biffée (Toute la nuit, cf. 122 l. 2)
+  alternatives:
+  - \del{la} nuit
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1080 caractères ; sources principales : OH 1917-I (Falls 1940) p. 66-70 (relèves, F58 ; Triangle et Munich Trench, F59), Nichols 1922 p. 139 (retour de la 18th Division le 16 janvier) ; écrit d''après p1 (pas de p2). « lieux » corrigé : Varennes ajouté, Acheux-en-Amiénois. Le rattachement de Morris à la 150th Company est vraisemblable mais pas établi (R7 F20). L''ancien commentaire attribuait la compagnie au major Peachy, ce qui n''est vrai que pour septembre 1916 ; je ne l''ai pas repris. Lectures douteuses : « St. Leg^{r} », « jour » (l. 8), « div^{on} ». — p2 : « St. \inc{Leg} » (sans r suscrit), « \inc{jour} » maintenu, div^{on} et Morris confirmés ; « 150 Coy » net.'
+  alternatives: []
+controle:
+- ligne: 14
+  avant: St. \inc{Leg^{r}}
+  apres: St. \inc{Leg}
+  justification: après le g, le trait plonge au bord de la page et finit par un petit o ; aucune lettre nettement surélevée
+- ligne: 15
+  avant: 'apparat graphie « aujourdhui » : aujourd''hui, sans apostrophe'
+  apres: note supprimée
+  justification: apostrophe absente = faute banale, le mot reste reconnaissable
+- ligne: 16
+  avant: M. sans note
+  apres: 'apparat abreviation « M. » : Monsieur'
+  justification: abréviation non relevée ; de même ajout de etc (l. 10), 30c (l. 11), 50 m. (l. 19), 15c (l. 24)
+- ligne: 8
+  avant: note lecture « \inc{jour} » avec analyse des tracés
+  apres: note abrégée ; juin écarté par le sens
+  justification: j confirmé (descente bouclée depuis la ligne de tête, non ſ) ; incertitude maintenue entre jour et juin
+remarques: Les journées des 7 et 8 ne sont pas tenues ; l'entrée du 9 les résume (« Hier & avant-hier »).
+resume: 'Samedi 6 janvier 1917, belle journée froide : le matin, course en auto à Louvencourt, Bertrancourt et Authie, l''après-midi libre, le soir concert Y.M.C.A. au programme répété ; routes encombrées par des mouvements de troupes, d''artillerie et d''A.S.C. Comptes : blanchissage et concert. Mardi 9 : depuis l''avant-veille, courses en auto matin et soir vers Arquèves, Raincheval et Saint-Léger ; visite à M. Guibet à Raincheval, puis l''après-midi à Hédauville, où il retrouve la 150th Company de la 18th Division dans un terrain fangeux ; Morris était sorti à cheval. Froid, neige puis pluie fine, très violente canonnade jour et nuit ; avis de réception pour Imbert.'
+noms:
+  personnes:
+  - forme: M. Guibet
+    ligne: 16
+    identite: habitant de Raincheval (fournisseur ?)
+  - forme: Morris
+    ligne: 20
+    identite: lieutenant britannique, 150th Company A.S.C. (18th Division)
+  - forme: Imbert
+    ligne: 24
+    identite: Imbert, opticien à Paris
+  lieux:
+  - forme: Louvencourt
+    ligne: 4
+    identite: Louvencourt (Somme)
+  - forme: Bertrancourt
+    ligne: 5
+    identite: Bertrancourt (Somme)
+  - forme: Authie
+    ligne: 5
+    identite: Authie (Somme)
+  - forme: Arquèves
+    ligne: 14
+    identite: Arquèves (Somme)
+  - forme: Raincheval
+    ligne: 14
+    identite: Raincheval (Somme)
+  - forme: St. Leg
+    ligne: 14
+    identite: Saint-Léger-lès-Authie (Somme)
+  - forme: Hedauville
+    ligne: 17
+    identite: Hédauville (Somme)
+  - forme: Varennes
+    ligne: 18
+    identite: Varennes (Somme)
+source: contrôle

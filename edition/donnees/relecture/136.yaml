@@ -1,0 +1,189 @@
+cliche: 136
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Mercredi 31. — \hfill Janvier 1917
+  apres: \sl{Mercredi 31.} — \hfill \sl{Janvier 1917}
+  justification: deux soulignements appuyés visibles sous le quantième et sous le mois
+  confiance: haute
+- ligne: 2
+  avant: neigé
+  apres: neige
+  justification: aucun accent visible sur le e final (le soulignement de Janvier passe au-dessus)
+  confiance: moyenne
+- ligne: 4
+  avant: Matinée, venu rejoindre Mte p. son tram à St-Ser.
+  apres: matinée, venu rejoindre M^{te} p \inc{su} tram à St Ser.
+  justification: m initial minuscule ; aucun point après p ; mot suivant à deux éléments (s montant + u), sans o ; pas de trait d'union entre St et Ser
+  confiance: moyenne
+- ligne: 5
+  avant: vers 10h.
+  apres: ver 10^{h}.
+  justification: v-e-r sans s final ; h suscrit en croix
+  confiance: haute
+- ligne: 7
+  avant: Hôtel d'Assézat,
+  apres: Hotel d'asezat,
+  justification: pas de circonflexe ; a initial au module minuscule, un seul s, pas d'accent
+  confiance: moyenne
+- ligne: 9
+  avant: appartt ... longues
+  apres: appart^{t} ... long^{ues}
+  justification: t final haut ; finale -ues relevée en petit contre le bord
+  confiance: moyenne
+- ligne: 10
+  avant: Évité troubler qq [mot non établi] précieuses.
+  apres: Evité troubler qq \inc{grandes} precieuses
+  justification: E sans accent ; g-r-a-n-d-e-s lisible ; aucun accent sur precieuses ; pas de point final
+  confiance: moyenne
+- ligne: 11
+  avant: A Ste-Marie, vers 6h 1/2. Retour à pied, vers
+  apres: A S^{te} Marie, ver 6^{h}\fr{1}{2}. Retour à pied, ver
+  justification: e de Ste relevé ; ver sans s (deux fois) ; h suscrit ; demi empilé
+  confiance: moyenne
+- ligne: 12
+  avant: Légers
+  apres: Legers
+  justification: aucun accent visible
+  confiance: moyenne
+- ligne: 14
+  avant: '[ — Halles Victor-Hugo : gigot d''agneau : 5 f'
+  apres: '\crochet{8}\ind Halles Victor Hugo : Gigot d''agneau : 5^{f} —'
+  justification: grand crochet couvrant huit lignes, aucun tiret initial ; G majuscule ; f suscrit et tiret final
+  confiance: haute
+- ligne: 15
+  avant: 90 c
+  apres: 90.c —
+  justification: point entre 90 et c, c prolongé par un tiret
+  confiance: moyenne
+- ligne: 16
+  avant: '1/2 beurre : 60 c. — Boîte sardines : 2 f'
+  apres: '1/2 beurre : 60c. — Boite sardines : 2^{f} —'
+  justification: 1/2 à barre oblique ; pas de circonflexe ; f suscrit en petite boucle ; tiret final
+  confiance: moyenne
+- ligne: 17
+  avant: 'Gâteaux : 20 c. — 1 livre de dattes : 1 f — id. de'
+  apres: 'gâteaux : 20c. — 1 livre de dattes : 1^{f} — id. de'
+  justification: g minuscule ; f suscrit (pâté)
+  confiance: moyenne
+- ligne: 18
+  avant: 'figues : 1 f. — Gâteau aux noix : 1 f 25 c'
+  apres: 'figues : 1^{f} — gâteau aux noix : 1^{f} 25 c —'
+  justification: g minuscule ; f suscrits, le second au-dessus du 2 ; tiret final
+  confiance: moyenne
+- ligne: 19
+  avant: 'Gâteaux des allées : 1 f 10 chez Henri Testet [?]'
+  apres: 'gâteau des allées : 1 \inc{90}. — chz Henri \inc{Testet}'
+  justification: singulier, g minuscule ; deuxième chiffre = 9 à haste longue (pas de f ni de 1) ; chz (c-h-z plongeant)
+  confiance: moyenne
+- ligne: 21
+  avant: 'Télégramme à Mme Spagnol, Nice : 2 f — ]'
+  apres: 'Télegramme à Mme Spagnol, Nice : 2^{f} —'
+  justification: un seul accent ; f suscrit ; aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 4
+  lemme: \inc{p su}
+  analyse: 'après M^{te} (M, t bouclé, e en arc relevé) : p à panse fermée et longue descente ; puis trait d''attaque montant (s) et deux jambages (u ou n) ; aucun o ; le premier signe (boucle fermée en haut, haste oblique vers la gauche) a la forme ρ du & , qui vaut parfois « à »'
+  alternatives:
+  - p. son
+  - à son
+  - pr son
+- ligne: 10
+  lemme: Evité troubler qq grandes
+  analyse: 'E bouclé, v en boucle (aspect b), i, t barré, é ; troubler : t à barre basse, o, u, b, l, e, r ; mot suivant : g, r, a, deux jambages, haste bouclée en arrière (d), e, s ; le nom attendu après précieuses manque ; p2 : g-r-a-n-d-e-s confirmé (d en ∂) ; troubler : initiale bouclée barrée, possible « doubler »'
+  alternatives:
+  - gravures
+  - doubler
+- ligne: 15
+  lemme: 90. —
+  analyse: 'p2 : le trait oblique qui prolonge le tiret est le jambage du g d''agneau (l. 14) ; aucun c distinct'
+  alternatives:
+  - 90.c —
+- ligne: 16
+  lemme: \inc{2^{f}}
+  analyse: 'petit 2 bouclé et f en boucle à haste montante, écrits au-dessus du niveau de la ligne ; le pâté en X au-dessous appartient au 1^{f} de la l. 17 ; p2 : le premier chiffre (boucle fermée en haut, haste descendant dans le pâté) ressemble au 9 de la l. 15 ; le pâté en X peut être un montant biffé'
+  alternatives:
+  - \inc{9^{f}}
+  - \sur{1}{2}
+- ligne: 18
+  lemme: 1^{f} 25 c
+  analyse: 1, puis f suscrit (boucle et barre) au-dessus du 2 bouclé, 5 en ſ à drapeau ; petit crochet (c) en tête du tiret final
+  alternatives:
+  - 1 25 —
+- ligne: 19
+  lemme: 1 \inc{90}
+  analyse: 1, puis tracé à crochet ouvert en tête et longue haste (9 ou f sans boucle), puis 0, point, tiret
+  alternatives:
+  - 1 f 0
+  - 1 f 10
+- ligne: 19
+  lemme: \inc{Henri} \inc{Testet}
+  analyse: 'Henri : H, e, n, i, finale plongeante bouclée (i + z ?, ou y) ; Testet : T, e, s montant, t barré, e, finale à queue ; p2 : finale de Testet en croix (r ou x), sans barre de t propre'
+  alternatives:
+  - Henry
+  - Tester
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1035 caractères ; Barbé 1917 p. 182, Archives municipales de Toulouse (halle Victor-Hugo, 1890–1892, Galinier), Baedeker 1912 p. 303–305, Office de tourisme de Toulouse (Dalbade : tympan Virebent 1878, effondrement du clocher le 11 avril 1926) ; transcription p1 : la l. 10 (« qq \inc{grandes} precieuses ») reste obscure ; « Henri \inc{Testet} » et « gâteau des allées » ne sont pas identifiés ; rien n''établit l''objet exact du télégramme à Mme Spagnol, mais le commentaire le rapporte « sans doute » au panier de fleurs (f. 67 r°, f. 68 v°).'
+  alternatives: []
+controle:
+- ligne: 4
+  avant: p \inc{su}
+  apres: \inc{p su}
+  justification: premier signe à panse fermée et haste oblique vers la gauche, forme du & (= à) aussi bien que p ; doute étendu aux deux mots
+- ligne: 10
+  avant: \inc{grandes}
+  apres: grandes
+  justification: 'zoom x3 : g, r, a, n, d en ∂, e, s ; toutes les lettres employées'
+- ligne: 15
+  avant: 90.c —
+  apres: 90. —
+  justification: le prétendu c est l'extrémité du jambage du g d'agneau (l. 14) qui rejoint le tiret
+- ligne: 16
+  avant: 2^{f}
+  apres: \inc{2^{f}}
+  justification: le premier chiffre a la forme du 9 de la l. 15 et sa haste plonge dans le pâté en X ; lecture non assurée
+- ligne: 19
+  avant: Henri
+  apres: \inc{Henri}
+  justification: 'finale plongeante en ʒ, sans point d''i visible : Henri ou Henry'
+remarques: La l. 10 « Evité troubler qq grandes precieuses » est elliptique ; « précieuses » semble nom (dames). Montant de la l. 16 incertain (2 f ou 9…).
+resume: 'Le mercredi 31 janvier 1917, à Toulouse, la nuit a gelé très fort ; dans la journée il neige un peu et souffle une bise glaciale. Le matin, Combes rejoint Marguerite à son tram à Saint-Sernin vers 10 h ; ils font ensemble le marché Victor-Hugo. L''après-midi, ils descendent en ville, se promènent par des rues abritées et visitent l''hôtel d''Assézat, la Daurade et la Dalbade, puis se reposent deux heures à son appartement. Il la ramène à Sainte-Marie vers 6 h ½ et rentre à pied vers 9 h sous de légers flocons. Comptes : achats aux halles Victor-Hugo (gigot, fromages, beurre, sardines, dattes, figues, gâteaux), trams et télégramme à Mme Spagnol, à Nice.'
+noms:
+  personnes:
+  - forme: M^{te}
+    ligne: 4
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: \inc{Henri} \inc{Testet}
+    ligne: 19
+    identite: commerçant (pâtissier ?) toulousain, non identifié
+  - forme: Mme Spagnol
+    ligne: 21
+    identite: correspondante à Nice
+  lieux:
+  - forme: St Ser.
+    ligne: 4
+    identite: Saint-Sernin, Toulouse
+  - forme: V. Hugo
+    ligne: 5
+    identite: marché (halles) Victor-Hugo, Toulouse
+  - forme: Hotel d'asezat
+    ligne: 7
+    identite: hôtel d'Assézat, Toulouse
+  - forme: Daurade
+    ligne: 8
+    identite: église Notre-Dame de la Daurade, Toulouse
+  - forme: Dalbade
+    ligne: 8
+    identite: église Notre-Dame de la Dalbade, Toulouse
+  - forme: S^{te} Marie
+    ligne: 11
+    identite: Sainte-Marie-des-Champs, Toulouse
+  - forme: Halles Victor Hugo
+    ligne: 14
+    identite: halles Victor-Hugo, Toulouse
+  - forme: Nice
+    ligne: 21
+    identite: Nice (Alpes-Maritimes)
+source: contrôle

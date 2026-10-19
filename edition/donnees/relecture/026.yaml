@@ -1,0 +1,148 @@
+cliche: 26
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Jeudi 24 \hfill Août 1916
+  apres: \sl{Jeudi 24} \hfill Aout \sl{1916}
+  justification: Date et millésime soulignés ; le trait de droite ne couvre que 1916 ; aucun circonflexe sur Aout.
+  confiance: haute
+- ligne: 3
+  avant: Après-midi, vent éclairci
+  apres: après-midi vent eclairci
+  justification: a au module d'une minuscule ; le trait haut après midi est le point du i, non une virgule ; pas d'accent sur eclairci.
+  confiance: moyenne
+- ligne: 5
+  avant: église
+  apres: \add{eglise}
+  justification: Ajout interlinéaire sans accent visible.
+  confiance: moyenne
+- ligne: 6
+  avant: de St Hippte
+  apres: d St Hippte
+  justification: d bouclé enchaîné directement sur le S, sans boucle de e (même réduction qu'en l. 10 « d l'office »).
+  confiance: moyenne
+- ligne: 7
+  avant: mon patron!
+  apres: mon patron !
+  justification: Point d'exclamation nettement détaché du mot.
+  confiance: haute
+- ligne: 8
+  avant: avec lui, longuement
+  apres: av lui longuement
+  justification: Le mot s'arrête au v arrondi ; aucune virgule.
+  confiance: haute
+- ligne: 9
+  avant: Vers 7 H,
+  apres: Vers 7^{H},
+  justification: H petit, base à la hauteur de tête du 7.
+  confiance: haute
+- ligne: 10
+  avant: de l'office
+  apres: d l'office
+  justification: d bouclé suivi directement de la haste du l, sans e.
+  confiance: moyenne
+- ligne: 11
+  avant: ds le champ —
+  apres: ds \inc{la} champ \trait
+  justification: l + lettre ouverte identique à « la tente » (l. 10) ; le trait final part du p sans levée de plume.
+  confiance: moyenne
+- ligne: 12
+  avant: mélancolie, au moment
+  apres: melancolie au moment
+  justification: Ni accent ni virgule visibles.
+  confiance: moyenne
+- ligne: 13
+  avant: m'éloigner
+  apres: m'eloigner
+  justification: Le seul signe au-dessus est l'apostrophe, avant le e.
+  confiance: moyenne
+- ligne: 14
+  avant: '1 f. — Varia : 1 f'
+  apres: '1 \inc{fr}. – \hfill Varia : 1 \inc{fr}'
+  justification: Après chaque f un petit c crochu (r probable) ; tiret court ; Varia rejeté à droite.
+  confiance: moyenne
+- ligne: 18
+  avant: washing
+  apres: \inc{washing}
+  justification: Mot très réduit (aspect « Le chagg ») ; au f. 023 (cooking, washing) le même mot s'écrit « machnig », sh en ch, ce qui soutient washing.
+  confiance: basse
+difficultes:
+- ligne: 3
+  lemme: eclairci
+  analyse: e, c, l, a, i, r, c, i ; deux hastes venues de nuageux (l. 2) traversent le mot ; aucun accent propre.
+  alternatives:
+  - éclairci
+- ligne: 4
+  lemme: chaud
+  analyse: c initial agrandi avec crochet de tête ; pris pour une minuscule, la phrase continuant.
+  alternatives:
+  - Chaud
+- ligne: 5
+  lemme: Steenwerck
+  analyse: S, t barré, ee, minimes indistinctes, finale k ; « er » très réduit (aspect Steenwck), même tracé l. 14 ; forme du lexique conservée.
+  alternatives:
+  - Steenwerk
+- ligne: 6
+  lemme: d St
+  analyse: Zoom ×3 [.55 .175 1 .235] - petite panse et haste du d, puis attaque du S sans boucle intermédiaire.
+  alternatives:
+  - de St
+- ligne: 11
+  lemme: la
+  analyse: l + lettre ouverte à deux jambages, identique à la l. 10 (la tente) ; un e serait une boucle.
+  alternatives:
+  - le
+- ligne: 14
+  lemme: fr
+  analyse: f bouclé haut, puis petit c ouvert à crochet de tête, sous la ligne de tête (ici et après Varia) ; le r de « 4 fr. » (l. 18) est en bosse, d'où le doute.
+  alternatives:
+  - f
+  - f c
+- ligne: 17
+  lemme: Cliquennois
+  analyse: C bouclé, l, i, q à jambage, u, puis 4–6 minimes, o, i (point décalé), s final vertical.
+  alternatives:
+  - Cliquenois
+- ligne: 18
+  lemme: washing
+  analyse: Zoom ×3 [0 .915 .4 .98] - trait d'attaque fin montant, e/u, c, h bouclé, a, deux descentes (g g). Lecture séchage (s initial montant en l, e, c, h, a, g, e plongeant) emploie tous les tracés ; washing s'appuie sur le parallèle du f. 023 (cooking, washing, sh écrit ch) et sur le sens.
+  alternatives:
+  - séchage
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'La relique de saint Hippolyte n''est documentée nulle part. Maurin, Fisher et Mme Cliquennois ne sont pas identifiés ; Mme Cliquennois est sans doute la logeuse, à qui Combes paie la cuisine (voir f. 023 « A Proprie : cooking, washing »). Lectures incertaines : « la champ », « washing ».'
+  alternatives: []
+controle:
+- ligne: 6
+  avant: relique de St Hippte,
+  apres: relique d St Hippte,
+  justification: d enchaîné directement sur le S, sans e (même réduction qu'en l. 10) ; apparat ajusté (de Saint Hippolyte).
+- ligne: 17
+  avant: (pas de note pour pr)
+  apres: 'pr : pour'
+  justification: Abréviation non relevée par la première lecture.
+- ligne: 18
+  avant: 'note : mot très réduit (w, s en crochet, -ing en a + g)'
+  apres: 'note : sh en ch comme au f. 023, lu aussi séchage'
+  justification: Comparaison avec 023 (washing écrit machnig) ; séchage, alternative littérale, signalée ; \inc maintenu.
+remarques: Blanc d'environ quatre lignes avant le filet des comptes ; même encre noire pour toute la page.
+resume: 'Jeudi 24 août 1916, temps nuageux le matin puis chaud soleil. Hippolyte Combes va à pied à Steenwerck, entre à l''église et y découvre une relique de saint Hippolyte, son patron. Il revoit Maurin ; vers 7 heures, Fisher porte ses sacs sous la tente de l''office. Mélancolie de quitter le village pour toujours. Comptes : cartes postales, réparation d''un soulier, pourboire à Fisher, 4 fr. à Mme Cliquennois pour cuisine et blanchissage.'
+noms:
+  personnes:
+  - forme: St Hippte
+    ligne: 6
+    identite: saint Hippolyte, patron d'Hippolyte Combes
+  - forme: Maurin
+    ligne: 8
+    identite: militaire français (interprète ?)
+  - forme: Fisher
+    ligne: 9
+    identite: soldat britannique de la compagnie
+  - forme: Mme Cliquennois
+    ligne: 17
+    identite: logeuse à Steenwerck
+  lieux:
+  - forme: Steenwerck
+    ligne: 5
+    identite: Steenwerck (Nord)
+source: contrôle

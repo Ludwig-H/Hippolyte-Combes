@@ -1,0 +1,146 @@
+cliche: 100
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 17 Ven. \hfill Novbre -16
+  apres: \sl{17 Ven.} \hfill \sl{Nov^{bre} –16}
+  justification: date et mois soulignés ; finale bre suscrite en ondulation
+  confiance: haute
+- ligne: 3
+  avant: fortt. Sol
+  apres: fortt Sol
+  justification: aucun point après fortt
+  confiance: moyenne
+- ligne: 4
+  avant: 1/2 jour, soleil brillé, mais
+  apres: \fr{1}{2} jour, soleil brillé, mais
+  justification: fraction empilée ; « mais » très encré, non biffé
+  confiance: haute
+- ligne: 5
+  avant: routes, nuages de poussière.
+  apres: routes nuages de poussière
+  justification: ni virgule après routes (le trait vertical au-dessus de « soulevé » est la virgule de la l. 4 ; celui sous « nuages » est la virgule de la l. 6), ni point final
+  confiance: moyenne
+- ligne: 8
+  avant: Orville et Amplier. — Sites assez jolis.
+  apres: Orville et Amplier – Sites assez \inc{j.}
+  justification: pas de point après Amplier, tiret court ; mot final réduit à une lettre à longue boucle descendante suivie d'un point
+  confiance: moyenne
+- ligne: 9
+  avant: Après-midi, liberté complète.
+  apres: Après-midi, liberté complète
+  justification: délié final prolongé, sans point ; A initial plus haut que l'œil, accent sur re
+  confiance: moyenne
+- ligne: 10
+  avant: A 6h s., venu
+  apres: A 6^{H} s, venu
+  justification: H suscrit à deux hastes ; s du soir (attaque appuyée puis haute boucle) suivi d'une virgule
+  confiance: haute
+- ligne: 11
+  avant: conférence s/ Russia — —
+  apres: conférence s/ Russie – –
+  justification: finale -ie avec point du i bien visible ; deux tirets courts
+  confiance: haute
+- ligne: 12
+  avant: nuit noire.
+  apres: nuit noire
+  justification: pas de point
+  confiance: moyenne
+- ligne: 13
+  avant: Bombardement très violent ds le lointain.
+  apres: bombardement très violent ds le lointain
+  justification: initiale au module des autres b du mot ; pas de point avant le filet
+  confiance: moyenne
+- ligne: 14
+  avant: 18 Sam. Durant tte nuit & + fort encore
+  apres: \sl{18 Sam.} Durant tte nuit & + fort^{t} encore
+  justification: date soulignée (trait tiré bas) ; seconde haste surélevée et barrée après fort
+  confiance: moyenne
+- ligne: 15
+  avant: aux 1ères heures jour
+  apres: \ind[2] aux 1^{ère} heures jour
+  justification: ère surélevé, aucune s finale distincte
+  confiance: moyenne
+- ligne: 17
+  avant: vibrant sans arrêt. Obus éclatent
+  apres: vibrant sans arret Obus eclatent
+  justification: ni circonflexe ni point ; e initial sans accent
+  confiance: moyenne
+- ligne: 19
+  avant: rochers avec 1 bruit
+  apres: rochers av 1 bruit
+  justification: a + v + délié, le mot s'arrête au v
+  confiance: moyenne
+- ligne: 22
+  avant: matin — 1ère neige,
+  apres: matin — 1^{ère} neige,
+  justification: ère nettement surélevé
+  confiance: haute
+- ligne: 25
+  avant: '[ — Albert : solde : 88 f — 3 ctes ples : 30 c ]'
+  apres: '\equerre{1}\equerred{1}— Albert : solde : 88 \inc{fr} — 3 C^{tes} p^{les} : 30 c'
+  justification: équerres ⌜ et ⌝ ; après 88 tracé composite ; tes et les surélevés
+  confiance: moyenne
+difficultes:
+- ligne: 8
+  lemme: \inc{j.}
+  analyse: zoom ×3 [.66 .28 .86 .35] — crochet d'attaque appuyé à hauteur d'œil, haute boucle montante à droite puis long jambage plongeant sous la ligne, point à droite ; court tiret au-dessus à gauche (point du j décalé ou tiret de la l. 7) ; aucune trace de o ni de l
+  alternatives:
+  - jol.
+  - ef.
+- ligne: 14
+  lemme: fort^{t}
+  analyse: zoom ×3 [.76 .53 1.0 .59] — f bouclé, o, r, t barré ; puis seconde haste plus haute, épaisse, barrée d'un trait oblique, juste avant encore
+  alternatives:
+  - fort
+- ligne: 15
+  lemme: 1^{ère}
+  analyse: zoom ×3 — 1 haut, puis e-r-e petits au-dessus de la ligne, délié final sans crochet d's ; le gros trait à gauche est le soulignement de la date
+  alternatives:
+  - 1^{ères}
+- ligne: 17
+  lemme: vibrant
+  analyse: 'zoom ×2 — v, i, b (aspect f), r, a, une seule minime, t barré long : n réduit à une minime ou i ; le participe s''accorde au style de la page (sujet pluriel)'
+  alternatives:
+  - vibrait
+- ligne: 25
+  lemme: 88 \inc{fr}
+  analyse: 'zoom ×3 [.38 .93 .60 1.0] — après 88 : petite croix haute, puis boucle fermée appuyée à gauche reliée à un long trait qui monte en boucle à droite et plonge sous la ligne, puis tiret ; f (tête bouclée + jambage) précédé d''une attaque, la boucle de tête pouvant valoir r ; le même montant (« 88 fr. ») revient au cliché 117'
+  alternatives:
+  - 88 f
+  - 88 + 4 f
+- ligne: 25
+  lemme: 30 c
+  analyse: 'zoom ×3 [.60 .93 1.0 1.0] — chiffre en ʒ à tête plate, la barre de tête liée à la panse (pas de drapeau détaché de 5) ; 3 cartes à 10 c ; séparateur : deux points décalés'
+  alternatives:
+  - 50 c
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié sur l''image : « Russie » (finale -ie pointée), non « Russia ». Restent incertains « j. » (l. 8) et « 88 fr » (l. 25) ; « 30 c » préféré à « 50 c ». La baraque Y.M.C.A. est sans doute à Acheux, mais le texte ne le dit pas.'
+  alternatives: []
+controle:
+- ligne: 5
+  avant: soufflé et soulevé routes, nuages de poussière
+  apres: soufflé et soulevé routes nuages de poussière
+  justification: zoom ×3 [.30 .18 .62 .235] — aucune virgule entre routes et nuages ; les traits voisins sont la virgule de « brillé, » (l. 4) et celle de « matinée, » (l. 6)
+remarques: Ligne 2 « Nuit gelé très » écrite sous le soulignement de la date, entre la date et le mois, traitée comme ligne propre (l. 25 pour les comptes).
+resume: Le vendredi 17 novembre 1916, après une nuit de forte gelée, Hippolyte Combes parcourt en auto Authie, Orville et Amplier sous une bise glaciale ; libre l'après-midi, il assiste à 6 heures du soir à une conférence sur la Russie dans la baraque du Y.M.C.A. Toute la nuit et à l'aube du samedi 18, une très violente canonnade lointaine fait vibrer portes et fenêtres. Le matin il fait l'aller-retour à Albert en camion ; la première neige tombe puis fond sous la pluie, et les routes deviennent des fondrières. À Albert, il touche sa solde (88 francs) et achète trois cartes postales.
+noms:
+  personnes: []
+  lieux:
+  - forme: Authie
+    ligne: 6
+    identite: Authie (Somme)
+  - forme: Orville
+    ligne: 8
+    identite: Orville (Pas-de-Calais)
+  - forme: Amplier
+    ligne: 8
+    identite: Amplier (Pas-de-Calais)
+  - forme: Russie
+    ligne: 11
+    identite: Russie (sujet de la conférence)
+  - forme: Albert
+    ligne: 20
+    identite: Albert (Somme)
+source: contrôle

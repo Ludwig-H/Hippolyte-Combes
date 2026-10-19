@@ -1,0 +1,132 @@
+cliche: 62
+fichier: 20251126_103514.jpg
+date: Mercredi 4 octobre 1916
+mois: Octobre 1916
+lieux: Toulouse (Haute-Garonne)
+titre: 'Dernier jour à Toulouse : Thermes, Sainte-Marie avec Marguerite, adieux à la gare'
+transcription: |
+  \sl{mer- 4} \hfill \sl{Octbr/16}
+  \ind[2] Sur pied dès 6^{H} –
+  Lentement preparé depart Enlevé & rentré
+  rideaux – mis tt en ordre ds l'appartt
+  Venu gare, puis aux. Thermes du \inc{Langdc}
+  A 11^{H} m. , quitté maison. Monté à
+  S^{te} Marie –
+  Passé tt l'après-midi en cie de M^{te}
+  Longs tete-a-tete très fort intimes.
+  Promené au fond du parc. Joué
+  avec des enfants
+  Puis causé lgt, assis sous gd arbre
+  Diner à 6^{H} \inc{\fr{1}{2}}
+  M^{te} voulu absolt m'accompagner gare
+  \inc{Alle} – Gare – \inc{venu} – \ill \inc{puis}
+  & choisi coin ds 1 compartiment
+  Puis resorti salle d'attente. Avec M^{te}
+  & oncle Crouzet , promené au dehors
+  le long trottoirs cour de G.V.
+  \ind Enfin, dû ns separe, par
+  ménagement pour l'oncle \trait
+apparat:
+- ligne: 1
+  lemme: mer-
+  type: abreviation
+  note: mercredi
+- ligne: 1
+  lemme: Octbr/16
+  type: abreviation
+  note: octobre 1916
+- ligne: 2
+  lemme: 6^{H}
+  type: abreviation
+  note: six heures
+- ligne: 4
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 4
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 4
+  lemme: appartt
+  type: abreviation
+  note: appartement
+- ligne: 5
+  lemme: \inc{Langdc}
+  type: abreviation
+  note: Languedoc (Thermes du Languedoc, établissement de bains de Toulouse)
+- ligne: 6
+  lemme: 11^{H} m.
+  type: abreviation
+  note: onze heures du matin
+- ligne: 7
+  lemme: S^{te} Marie
+  type: abreviation
+  note: Sainte-Marie(-des-Champs)
+- ligne: 8
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 8
+  lemme: cie
+  type: abreviation
+  note: compagnie
+- ligne: 8
+  lemme: M^{te}
+  type: abreviation
+  note: Marguerite
+- ligne: 11
+  lemme: des enfants
+  type: lecture
+  note: des (d bouclé), non « les »
+- ligne: 12
+  lemme: lgt
+  type: abreviation
+  note: longtemps
+- ligne: 12
+  lemme: gd
+  type: abreviation
+  note: grand
+- ligne: 13
+  lemme: \inc{\fr{1}{2}}
+  type: lecture
+  note: demie probable ; « s. » (soir) possible
+- ligne: 14
+  lemme: M^{te}
+  type: abreviation
+  note: Marguerite
+- ligne: 14
+  lemme: absolt
+  type: abreviation
+  note: absolument
+- ligne: 15
+  lemme: \inc{Alle} – Gare – \inc{venu} – \ill \inc{puis}
+  type: lecture
+  note: ligne empâtée ; Gare sûr, Alle, venu et puis probables ; signe bref illisible (1, & ?) avant puis
+- ligne: 16
+  lemme: ds 1
+  type: abreviation
+  note: dans un
+- ligne: 17
+  lemme: M^{te}
+  type: abreviation
+  note: Marguerite
+- ligne: 19
+  lemme: G.V.
+  type: abreviation
+  note: grande vitesse (cour de la gare)
+- ligne: 20
+  lemme: ns
+  type: abreviation
+  note: nous
+- ligne: 20
+  lemme: separe
+  type: lecture
+  note: séparer ; le délié final tient lieu de r
+critique: Encre violette. La l.~15 a été repassée et en partie empâtée, ce qui en rend la lecture incertaine. La dernière phrase se poursuit en tête du f.~32 r\textsuperscript{o} (« Mt \& moi, tres -- […] émus. »).
+historique: |
+  Le passage matinal à la gare est sans doute celui de l'achat du billet de 3\textsuperscript{e} classe pour Orsay, porté dans les comptes du lendemain (voir f.~32 r\textsuperscript{o}). Les Thermes du Languedoc, au 1 bis de la rue de Languedoc, sont dans la rue même de l'appartement (\textit{Le Télégramme}, 31 mars 1911, p.~4) ; Combes y avait déjà pris un bain le 27 septembre (voir f.~27 v\textsuperscript{o}). Sainte-Marie-des-Champs, maison des Crouzet sur les coteaux de la Côte-Pavée, porte le nom de l'ancien noviciat des jésuites, maison « entourée d'un vaste jardin » (Burnichon 1916, p.~297--298 ; voir f.~27 v\textsuperscript{o}). L'oncle est Émile Crouzet (v. 1842 -- 1926), ancien agent de change à Millau, mari d'Élisabeth Calmels, tante paternelle de Marguerite (\textit{Le Télégramme}, 24 déc. 1926) : son âge, 74 ans environ, explique sans doute le « ménagement ». La gare Matabiau, de la Compagnie du Midi, avait été reconstruite en 1903--1905 sur les plans de Marius Toudoire (Mérimée PA00094527) ; la cour « de G.V. » est celle du service de la grande vitesse (bagages, messageries).
+sources:
+- Le Télégramme (Toulouse), 31 mars 1911, p. 4 ; 24 déc. 1926, p. 4 (Rosalis, Bibliothèque de Toulouse).
+- Burnichon, J., La Compagnie de Jésus en France. Histoire d'un siècle, 1814-1914, t. II, Paris, Beauchesne, 1916, p. 297-298.
+- Ministère de la Culture, base Mérimée, notice PA00094527 (gare de Toulouse-Matabiau), consultée via monumentum.fr ; Wikipédia, « Toulouse-Matabiau station », consulté le 18 oct. 2026.

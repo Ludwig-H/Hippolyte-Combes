@@ -1,0 +1,196 @@
+cliche: 157
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: '19 Lundi — (En caisse : 225 f. 95) \hfill Février 1917'
+  apres: '19 \sl{Lundi}. ( En caisse: 225^{f}95) \hfill \sl{Février 1917}'
+  justification: point (non tiret) après Lundi souligné ; f monétaire suscrit en petite boucle entre 225 et 95 ; trait appuyé sous Février 1917, posé bas
+  confiance: haute
+- ligne: 2
+  avant: Tout le jour, temps couvert.
+  apres: \ind Tout le jour, temps couvert
+  justification: alinéa ; aucun point final
+  confiance: haute
+- ligne: 3
+  avant: Petites ondées intermittentes.
+  apres: Petites ondées intermittentes
+  justification: délié final prolongé, aucun point
+  confiance: haute
+- ligne: 8
+  avant: Cap. Leonard
+  apres: cap^{e} \inc{Leonard}
+  justification: c minuscule ; lettre suscrite bouclée après cap, sans point ; nom lu lettre à lettre mais finale ambiguë
+  confiance: moyenne
+- ligne: 9
+  avant: Le soir même, vers 7h, déménagé du 7b
+  apres: \ind Le soir même, vers 7^{h}, déménagé du 7b
+  justification: alinéa ; h suscrit en deux petits traits
+  confiance: haute
+- ligne: 10
+  avant: Cap. Williams
+  apres: cap Williams
+  justification: c minuscule, aucun point après le p
+  confiance: moyenne
+- ligne: 11
+  avant: côté office
+  apres: coté office
+  justification: aucun circonflexe sur le o ; le tiret avant office est l'accent de é, décalé
+  confiance: moyenne
+- ligne: 12
+  avant: ruissellent d'eau.
+  apres: ruissellent d'eau
+  justification: long délié final, pas de point
+  confiance: haute
+- ligne: 13
+  avant: Vers 9h 1/2, prop.re du n° 104
+  apres: \ind Vers 9^{H} \fr{1}{2}, prop^{re} du no 104
+  justification: H suscrit suivi d'une demie empilée ; « re » séparé de prop et surélevé ; n et o sur la ligne
+  confiance: moyenne
+- ligne: 14
+  avant: M.O.
+  apres: M.O ?
+  justification: après le O, un signe haut en forme de point d'interrogation, sans point abréviatif
+  confiance: moyenne
+- ligne: 15
+  avant: '20 Mardi. — [ 1 hair cut : net : 30 c. ]'
+  apres: '20 \sl{Mardi}. \hfill [ Hair cut : net. 30c'
+  justification: H à deux hastes et traverse (pas de 1 isolé) ; un seul point à mi-hauteur après net ; crochet ouvrant seul
+  confiance: moyenne
+- ligne: 16
+  avant: Assez bien dormi nouvelle chambre. Mais,
+  apres: \ind assez bien dormi nouvelle chambre Mais
+  justification: a initial au module des minuscules ; ni point après chambre ni virgule après Mais
+  confiance: moyenne
+- ligne: 19
+  avant: Obligé
+  apres: obligé
+  justification: o au module d'une minuscule, sans forme de majuscule
+  confiance: moyenne
+- ligne: 20
+  avant: dans notre office.
+  apres: dans notre office
+  justification: délié final, pas de point
+  confiance: haute
+- ligne: 21
+  avant: Matin, à Pierregot
+  apres: \ind Matin, à Pierregot
+  justification: alinéa
+  confiance: haute
+- ligne: 23
+  avant: boueuse & impraticable.
+  apres: boueuse & impraticable
+  justification: long délié final, pas de point
+  confiance: haute
+- ligne: 24
+  avant: Après-midi, liberté.
+  apres: \ind Après-midi, liberté
+  justification: alinéa ; délié final
+  confiance: haute
+- ligne: 25
+  avant: '[ A Albertine (Hérissart) : 1 f. 70 blanchissage,'
+  apres: '\crochet{2}A Albertine ( à Hérissart : 1 70 blanchissage'
+  justification: grand crochet sur deux lignes ; parenthèse ouvrante courbe avant « à » accentué, non refermée ; pas de f entre 1 et 70 ; pas de virgule finale
+  confiance: moyenne
+- ligne: 26
+  avant: 'et pour service chambre : en tout : 2 f. ]'
+  apres: '\ind et pour service chambre ; en tout : 2 fr'
+  justification: point-virgule (point bas + trait) ; fr lisible ; aucun crochet fermant
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: En caisse
+  analyse: 'un trait fin et pâle court sous « caisse: », gris, plus pâle que l''encre : rayure ou trait de crayon plutôt que soulignement ; non transcrit'
+  alternatives:
+  - \sl{caisse:}
+- ligne: 1
+  lemme: \sl{Février 1917}
+  analyse: le trait, posé bas, va du milieu de Février au 1 de 17 ; le 7 final à pied relevé a l'aspect d'un 2 (forme connue)
+  alternatives:
+  - Février \sl{1917}
+- ligne: 8
+  lemme: cap^{e} \inc{Leonard}
+  analyse: 'c-a-p puis petite boucle haute ouverte (e suscrit ?) ; nom : L en £, puis minimes peu distinctes, finale montant en boucle puis plongeant (∂ ou f)'
+  alternatives:
+  - cap^{t}
+  - Leonarf
+  - Lemard
+- ligne: 10
+  lemme: cap
+  analyse: le jambage du p revient vers la droite en crochet montant ; pas de point ; s final réduit possible
+  alternatives:
+  - caps
+- ligne: 13
+  lemme: Vers
+  analyse: V-e-r puis long délié horizontal, sans boucle de s ; même forme à la l. 9 (vers 7^{h}) ; s réduit au délié, gardé
+  alternatives:
+  - Ver
+- ligne: 13
+  lemme: no 104
+  analyse: u-o puis 1, 0 et 4 ouvert en k ; le o n'est pas surélevé
+  alternatives:
+  - n^{o} 104
+- ligne: 14
+  lemme: M.O ?
+  analyse: M, point médian, O ; puis crochet haut en ? ; sous lui, deux petits traits « - - » (point du ? et tache ?) ; le trait courbe avant « et » est l'accent décalé de curé
+  alternatives:
+  - M.O.
+  - M.O's
+- ligne: 15
+  lemme: Hair
+  analyse: première haste à crochet de tête et pied, reliée par une traverse médiane à une seconde haste bouclée ; même H que dans Hérissart (l. 25) ; aucun 1 séparé
+  alternatives:
+  - 1 Hair
+- ligne: 18
+  lemme: durant
+  analyse: ∂, u, r, a, puis finale réduite en crochet ; -nt écrasé
+  alternatives:
+  - dans
+- ligne: 25
+  lemme: Albertine ( à
+  analyse: après Albertine, petit trait courbe ouvert à droite, au module de l'œil, sans descente sous la ligne (la virgule de Combes est un trait vertical) ; parenthèse non refermée
+  alternatives:
+  - Albertine, à
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'OH 1916-I p. 273-274 (voie de l''Hallue, tête de ligne de Fréchencourt) ; TNA WO 374/41729 (Leonard, hypothèse fragile) ; Fernand-Laurent 1917 p. 227 (le Town Major et les billets) ; renvois f. 52 v°, f. 73 v°, f. 82 v° ; « Leonard » reste incertain sur l''image ; Combes s''installe dans l''ancienne chambre de Williams, et le n° 104 est le logement d''une autre logeuse (confirmé : prop^{re} du no 104).'
+  alternatives: []
+controle:
+- ligne: 13
+  avant: propre
+  apres: prop^{re}
+  justification: « re » détaché de prop et surélevé (base à hauteur de la tête de op) ; abréviation de propriétaire, que « propre » rendait méconnaissable
+- ligne: 15
+  avant: '[ 1 Hair cut : net : 30c'
+  apres: '[ Hair cut : net. 30c'
+  justification: le « 1 » est la première haste de l'H (traverse médiane la reliant à la seconde, même tracé que l'H de Hérissart l. 25) ; après net, un seul point à mi-hauteur, non deux-points
+- ligne: 25
+  avant: Albertine, à
+  apres: Albertine ( à
+  justification: trait courbe ouvert à droite, au module de l'œil, sans descente sous la ligne ; la virgule de la page (l. 24 après midi) est un trait vertical descendant
+remarques: Le compte « Hair cut » (l. 15) est un peu plus haut que « 20 Mardi » mais sur la même ligne d'écriture ; le crochet descend sous la ligne.
+resume: 'Le lundi 19 février 1917, par temps couvert et ondées, Hippolyte Combes explore Fréchencourt et Bavelincourt pour trouver paille et foin ; il note un solde de caisse de 225 f 95. Au thé, un capitaine (Leonard ?) lui annonce de nouveaux arrangements de logement : le soir il quitte le 7b pour l''ancienne chambre du capitaine Williams, près du bureau, très froide et ruisselante d''humidité. Vers 9 h 30, la propriétaire du n° 104 tombe malade ; il va chercher le curé et le médecin militaire. Le mardi 20, il ne peut rester dans sa chambre humide et passe la journée au bureau ; le matin, il cherche paille et foin dans les fermes de Pierregot par des routes impraticables. Comptes : coupe de cheveux, blanchissage et service de chambre payés à Albertine, à Hérissart.'
+noms:
+  personnes:
+  - forme: Leonard
+    ligne: 8
+    identite: capitaine britannique (lecture incertaine)
+  - forme: Williams
+    ligne: 10
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  - forme: Albertine
+    ligne: 25
+    identite: blanchisseuse à Hérissart
+  lieux:
+  - forme: Fréchencourt
+    ligne: 5
+    identite: Fréchencourt (Somme)
+  - forme: Bavelincourt
+    ligne: 5
+    identite: Bavelincourt (Somme)
+  - forme: Pierregot
+    ligne: 21
+    identite: Pierregot (Somme)
+  - forme: Hérissart
+    ligne: 25
+    identite: Hérissart (Somme)
+source: contrôle

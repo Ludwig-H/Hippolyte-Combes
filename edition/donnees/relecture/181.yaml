@@ -1,0 +1,154 @@
+cliche: 181
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 18 Merc. — \hfill — Avril 1917 —
+  apres: \sl{18 merc} \hfill — Avril \sl{1917} —
+  justification: m initial minuscule, aucun point ; soulignement sous 18 merc ; à droite seul 1917 est souligné
+  confiance: haute
+- ligne: 4
+  avant: Notre auto, aux workshops. Repos complet.
+  apres: notre auto, aux Workshops. Repos complet
+  justification: n initial minuscule à long trait d'attaque ; W majuscule ; aucun point final
+  confiance: moyenne
+- ligne: 5
+  avant: 19 Jeudi. / Tout le jour, ciel couvert.
+  apres: \sl{19 Jeudi} Tout le jour, ciel couvert.
+  justification: « Tout le jour » commence sur la ligne de la date ; une seule ligne manuscrite
+  confiance: moyenne
+- ligne: 7
+  avant: 'courses en auto :'
+  apres: courses en auto.
+  justification: un seul point après auto
+  confiance: moyenne
+- ligne: 10
+  avant: Aujourd'hui
+  apres: Aujourdhui
+  justification: aucune apostrophe entre d et h ; le trait au-dessus est le jambage du p de « pas » (l. 9)
+  confiance: moyenne
+- ligne: 12
+  avant: très intéressant.
+  apres: très intéressant
+  justification: long délié final, pas de point
+  confiance: moyenne
+- ligne: 13
+  avant: 20 Vendredi. — Enfin, assez belle journée. Ciel
+  apres: 20 \sl{Vendredi}. Enfin, assz belle journée. ciel
+  justification: le trait ne souligne que Vendredi ; pas de tiret ; assz sans e ; c initial minuscule
+  confiance: moyenne
+- ligne: 14
+  avant: même chaud.
+  apres: même chaud
+  justification: pas de point final
+  confiance: moyenne
+- ligne: 16
+  avant: venus à Hénencourt,
+  apres: venus à Henencourt
+  justification: aucun accent ; le trait vertical après le t est la hampe du l de « la » (l. 17), non une virgule
+  confiance: moyenne
+- ligne: 17
+  avant: 'Albert et Buire [ajout souscrit : Ribemont].'
+  apres: Albert et Buire \add{Ribemont}.
+  justification: balisage de l'ajout interlinéaire
+  confiance: haute
+- ligne: 20
+  avant: A Ribemont, revu avec plaisir les Colart,
+  apres: \ind A Ribemont revu avec plaisir les Colart—
+  justification: la grande boucle après Ribemont est la tête du f de « fait » (l. 21) ; tiret attaché au t final de Colart, pas de virgule ; ligne en retrait
+  confiance: moyenne
+difficultes:
+- ligne: 10
+  lemme: '1915'
+  analyse: 1-9-1 nets ; dernier chiffre à haste et drapeau de tête prolongé en tiret, pied crochu, sans boucle basse fermée (forme du 5 en ſ) ; vérifié au zoom ×3 [.12 .43 .30 .50]
+  alternatives:
+  - '1916'
+- ligne: 7
+  lemme: courses
+  analyse: c-o-u-r-s-e puis long trait plongeant attaché au e (s final en ʒ) ; le q de « presque » (l. 6) s'arrête bien au-dessus, sans contact ; zoom [.26 .30 .46 .365]
+  alternatives:
+  - course
+- ligne: 13
+  lemme: assz
+  analyse: a fermé, deux s montants, finale plongeante en z ; pas de e distinct
+  alternatives:
+  - asz
+  - assez
+- ligne: 20
+  lemme: A Ribemont revu
+  analyse: boucle haute fermée puis haste oblique vers la gauche entre Ribemont et revu, descendant jusqu'au-dessus de « fait » (l. 21), dont le f n'a pas d'autre tête ; lue comme tête de ce f ; à défaut, virgule à boucle ou &
+  alternatives:
+  - A Ribemont, revu
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: « fin juillet 1915 » se lit nettement (contrôlé ici) ; la discordance avec la chronologie de la division relève du commentaire. Champ « lieux » normalisé (Laviéville, Senlis-le-Sec, Ribemont-sur-Ancre, Warloy-Baillon).
+  alternatives: []
+controle:
+- ligne: 7
+  avant: course en auto.
+  apres: courses en auto.
+  justification: le trait plongeant est attaché au e de course (s final en ʒ) ; le q de presque (l. 6) s'arrête au-dessus sans contact (zoom ×3)
+- ligne: 10
+  avant: Aujourd'hui
+  apres: Aujourdhui
+  justification: aucune apostrophe entre d et h au zoom ; le trait supérieur appartient au p de « pas » (l. 9)
+- ligne: 16
+  avant: venus à Henencourt,
+  apres: venus à Henencourt
+  justification: la prétendue virgule est la hampe du l de « la » (l. 17), décalée à droite par l'inclinaison
+- ligne: 19
+  avant: lauto
+  apres: l'auto
+  justification: fin trait vertical isolé entre la boucle du l et le a (zoom ×3), forme habituelle de l'apostrophe
+- ligne: 20
+  avant: A Ribemont, revu
+  apres: A Ribemont revu
+  justification: la grande boucle après Ribemont est la tête du f de « fait » (l. 21), qui n'en a pas d'autre ; aucune virgule propre
+- ligne: 0
+  avant: apparat l. 8 graphie « Henencourt » ; notes de lecture l. 7 et l. 10 détaillées
+  apres: note graphie supprimée (simple accent absent) ; notes de lecture abrégées ; critique complétée sur 1915
+  justification: épuration de l'apparat selon la règle
+remarques: '« les 3 1ers villages » : Bresle, Laviéville, Hénencourt.'
+resume: Le 18 avril, pluie fine toute la journée ; routes en état lamentable ; l'auto est aux ateliers, repos complet. Le 19, ciel couvert et temps doux ; tournée en auto à Bresle, Laviéville, Hénencourt, Warloy et Contay, villages revus vides et déserts, où il n'était pas retourné depuis fin juillet 1915 ; le lieutenant Gilbert, revenu d'Abbeville, passe la soirée avec eux. Le 20, assez belle journée ; courses à Rubempré, Senlis, Warloy, puis Hénencourt, Albert, Buire et Ribemont. L'auto s'embourbe à la sortie de Buire et des Australiens aident à la dégager ; à Ribemont, il revoit les Colart, qui lui font meilleur accueil.
+noms:
+  personnes:
+  - forme: Gilbert
+    ligne: 11
+    identite: lieutenant (Second Lieutenant) britannique
+  - forme: Colart
+    ligne: 20
+    identite: famille de Ribemont, anciens hôtes
+  lieux:
+  - forme: Bresle
+    ligne: 7
+    identite: Bresle (Somme)
+  - forme: Lavieville
+    ligne: 7
+    identite: Laviéville (Somme)
+  - forme: Henencourt
+    ligne: 8
+    identite: Hénencourt (Somme)
+  - forme: Warloy
+    ligne: 8
+    identite: Warloy-Baillon (Somme)
+  - forme: Contay
+    ligne: 8
+    identite: Contay (Somme)
+  - forme: Abbeville
+    ligne: 11
+    identite: Abbeville (Somme)
+  - forme: Rubempré
+    ligne: 15
+    identite: Rubempré (Somme)
+  - forme: Senlis
+    ligne: 15
+    identite: Senlis-le-Sec (Somme)
+  - forme: Albert
+    ligne: 17
+    identite: Albert (Somme)
+  - forme: Buire
+    ligne: 17
+    identite: Buire-sur-l'Ancre (Somme)
+  - forme: Ribemont
+    ligne: 17
+    identite: Ribemont-sur-Ancre (Somme)
+source: contrôle

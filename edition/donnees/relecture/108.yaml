@@ -1,0 +1,199 @@
+cliche: 108
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 7 Jeudi — — Décbre 1916 —
+  apres: 7 \sl{Jeudi} – \hfill — \sl{Dec^{bre} 1916} —
+  justification: soulignements de Jeudi et du mois ; c descendant, bre surélevé ; aucun accent sur le e (le point au-dessus est sur la haste du D)
+  confiance: moyenne
+- ligne: 2
+  avant: Matin & après-midi, en
+  apres: Matin & après-midi en
+  justification: aucune virgule après midi ; en écrit petit au-dessus de la fin de ligne
+  confiance: moyenne
+- ligne: 3
+  avant: Belle-Église, Arquèves,
+  apres: Belle-Eglise, arqueves
+  justification: initiale minuscule, aucun accent visible, pas de virgule finale
+  confiance: moyenne
+- ligne: 4
+  avant: lgts retour du Cap. W.,
+  apres: lgs retour du cap. W^{m},
+  justification: l-g-s sans t ; cap minuscule ; m suscrit après W, comme en 112
+  confiance: haute
+- ligne: 5
+  avant: j'à
+  apres: j-à
+  justification: trait d'union court
+  confiance: haute
+- ligne: 6
+  avant: Mme Houtteman [?].
+  apres: Mme \inc{Houtteman}
+  justification: aucun point final ; nom toujours incertain
+  confiance: moyenne
+- ligne: 8
+  avant: Hédauville. Resté
+  apres: Hedauville, Resté
+  justification: délié final de e plongeant en virgule ; aucun accent visible sur le e
+  confiance: moyenne
+- ligne: 10
+  avant: que des Anglais, qui restent ds leurs cantonnements.
+  apres: que des anglais, qui restent ds leurs cantonnts
+  justification: a minuscule ; mot contracté coupé au bord (c-a-n-t-o-n-n + t-s), aucun point
+  confiance: moyenne
+- ligne: 11
+  avant: lgts
+  apres: lgs
+  justification: même tracé qu'à la l. 4
+  confiance: haute
+- ligne: 12
+  avant: et le Daily Mail. A peu de
+  apres: et \inc{la} Daily Mail. a peu de
+  justification: seconde lettre en u ouvert comme dans « la » l. 6 ; a initial au module minuscule
+  confiance: moyenne
+- ligne: 13
+  avant: canons
+  apres: Canons
+  justification: C bouclé de majuscule, identique à Canonnade l. 18
+  confiance: moyenne
+- ligne: 14
+  avant: métalliques
+  apres: metalliques
+  justification: aucun accent sur le e
+  confiance: moyenne
+- ligne: 15
+  avant: comme gémissement.
+  apres: cme gémisst
+  justification: c + me ; gémiss + t final, mot contracté ; aucun point
+  confiance: moyenne
+- ligne: 16
+  avant: 'Dîné seul : off. allé à Hérissart. Rentré'
+  apres: Diné seul, off. allé à Hérissart Rentré
+  justification: virgule verticale après seul ; pas de circonflexe ; aucun point après Hérissart
+  confiance: moyenne
+- ligne: 17
+  avant: tôt ds ma chambre. — Rue silencieuse.
+  apres: tot ds ma chambre – Rue silencieuse
+  justification: aucun circonflexe ni point visible ; tiret court
+  confiance: moyenne
+- ligne: 20
+  avant: 8 Ve. Tjrs même temps. Ciel caché par
+  apres: \sl{8 Ve} / \ind[2] Tjs même temps. Ciel caché par
+  justification: date sur une ligne propre soulignée ; le texte reprend sous le trait ; T-j + s réduit à un trait
+  confiance: haute
+- ligne: 22
+  avant: Bruine intermittente. Routes, état
+  apres: Bruine intermittente – Routes, état
+  justification: tiret après le long délié d'intermittente, aucun point
+  confiance: moyenne
+- ligne: 23
+  avant: affreux.
+  apres: affreux,
+  justification: trait vertical après le mot = virgule
+  confiance: faible
+- ligne: 24
+  avant: St-Léger-lès-Authie,
+  apres: St-Leger-le-Authie,
+  justification: -le- sans s ni accent ; Leger sans accent
+  confiance: moyenne
+- ligne: 26
+  avant: Belle-Église
+  apres: Belle-Eglise
+  justification: aucun accent
+  confiance: moyenne
+- ligne: 27
+  avant: 'Arquèves : on a commencé à battre paille.'
+  apres: 'arqueves : on a commencé à battre paille'
+  justification: a minuscule, aucun accent, aucun point final
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: Houtteman
+  analyse: H à deux hastes, o-u ramassés, deux t sous une barre commune, e, puis cinq ou six minimes plongeant au bord droit (m-a-n, peut-être m-a-n-n) ; la forme « M. Houtteman » du f. 85 v° appuie la lecture
+  alternatives:
+  - Houttemann
+  - Hautteman
+- ligne: 9
+  lemme: 'désert : plus'
+  analyse: 'trait vertical haut + point bas (aspect « ! ») ; même signe après « distance » l. 13 et entre « Après » et « midi » l. 26, où il ne peut être qu''un trait d''union : signe de ponctuation polyvalent ; lu deux-points'
+  alternatives:
+  - désert ! plus
+- ligne: 12
+  lemme: la
+  analyse: l bouclé + lettre en u ouvert, comme « la fermière » l. 6 ; « le » aurait une boucle d'e
+  alternatives:
+  - le
+- ligne: 15
+  lemme: cme gémisst
+  analyse: c isolé puis m-e liés ; g suivi d'une boucle haute (e), accent, minimes, ss, t final ; lecture tenue pour sûre par le sens
+  alternatives:
+  - comme gémiss…
+- ligne: 24
+  lemme: le-Authie
+  analyse: après « le », petit crochet bas avant le A ; trait d'union comme dans Belle-Eglise l. 3, ou s final réduit à un crochet (« les Authie ») ; zoom [.45 .86 .97 .91]
+  alternatives:
+  - les Authie
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Sens de « la Daily Mail » logée dans la ferme du Town Major non éclairci (bureau ou dépôt du journal ?). Fichier : /workspaces/hc_work/commentaire/108.yaml'
+  alternatives: []
+controle:
+- ligne: 2
+  avant: (aucune note sur &)
+  apres: '& : abreviation, et'
+  justification: toute abréviation reçoit son développement
+- ligne: 4
+  avant: 'cap. W^{m} : capitaine Williams ; m suscrit après le W'
+  apres: 'cap. W^{m} : capitaine Williams'
+  justification: détail paléographique retiré de l'apparat imprimé
+- ligne: 12
+  avant: '\inc{la} Daily Mail : lecture, avec glose du journal'
+  apres: \inc{la} (lecture) et Daily Mail (emprunt) en deux notes
+  justification: séparer la lecture incertaine de la traduction de l'emprunt
+- ligne: 24
+  avant: (aucune note sur St)
+  apres: 'St : abreviation, Saint'
+  justification: abréviation non développée ; crochet après « le » vérifié (trait d'union probable, s réduit possible) et consigné dans difficultes
+- ligne: 0
+  avant: 'critique : description de la ligne de date du 8'
+  apres: critique abrégée (date en marge, trait tenant lieu de filet)
+  justification: transcription inchangée après contrôle des points douteux (Jeudi, Dec^{bre}, ponctuation l. 9 et 13, la, cantonnts, cme gémisst, Hérissart, St-Leger-le-Authie, Après-midi l. 26)
+remarques: 'Daily Mail (l. 12) : sans doute le dépôt ou le bureau du journal anglais logé dans la même ferme que le Town Major ; sens non éclairci.'
+resume: 'Le jeudi 7 décembre 1916, Combes passe la journée en auto. Le matin, à Belle-Église (Arquèves), il attend longtemps le capitaine Williams parti jusqu''à Raincheval et s''amuse des enfants de la fermière belge, Mme Houtteman (?). L''après-midi, par Hédauville, il gagne Englebelmer, village presque désert où ne restent que les troupes anglaises ; il attend devant la ferme qui abrite le Town Major, tandis que tonnent les canons anglais. Le soir, il dîne seul, l''officier étant à Hérissart. Le vendredi 8, sous la brume et la bruine, routes affreuses : course à Saint-Léger-lès-Authie le matin, puis ferme de Belle-Église et Arquèves, où l''on a commencé à battre la paille.'
+noms:
+  personnes:
+  - forme: cap. W^{m}
+    ligne: 4
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  - forme: Mme \inc{Houtteman}
+    ligne: 6
+    identite: fermière belge de Belle-Église (lecture incertaine)
+  lieux:
+  - forme: Belle-Eglise
+    ligne: 3
+    identite: Belle-Église, ferme près d'Arquèves (Somme)
+  - forme: arqueves
+    ligne: 3
+    identite: Arquèves (Somme)
+  - forme: Raincheval
+    ligne: 5
+    identite: Raincheval (Somme)
+  - forme: Englebelmer
+    ligne: 7
+    identite: Englebelmer (Somme)
+  - forme: Hedauville
+    ligne: 8
+    identite: Hédauville (Somme)
+  - forme: Hérissart
+    ligne: 16
+    identite: Hérissart (Somme)
+  - forme: St-Leger-le-Authie
+    ligne: 24
+    identite: Saint-Léger-lès-Authie (Somme)
+  - forme: Belle-Eglise
+    ligne: 26
+    identite: Belle-Église, ferme près d'Arquèves (Somme)
+  - forme: arqueves
+    ligne: 27
+    identite: Arquèves (Somme)
+source: contrôle

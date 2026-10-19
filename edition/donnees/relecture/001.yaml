@@ -1,0 +1,70 @@
+cliche: 1
+confiance: haute
+changements:
+- ligne: 1
+  avant: —
+  apres: \filet[c]{0.19}
+  justification: 'trait isolé et centré (x ≈ 0,40–0,59, y ≈ 0,47), à plus d''un interligne sous la ligne de base du titre et sans contact avec lui : séparateur, ligne technique non numérotée, et non soulignement du titre comme le disait le commentaire antérieur'
+  confiance: haute
+- ligne: 3
+  avant: au 30 avril 1917
+  apres: Au 30 avril 1917
+  justification: 'initiale en a agrandi (ɑ), haute d''environ 1,7 fois le u qui suit et l''a d''avril (zoom [.06 .58 .40 .70]) : majuscule, en pendant au D de Du à la ligne précédente'
+  confiance: haute
+- ligne: 3
+  avant: —
+  apres: \filet[c]{0.40}
+  justification: 'long trait isolé (x ≈ 0,27–0,68, y ≈ 0,76), centré sous la dernière ligne, qu''il ferme ; il s''amincit vers la droite : ligne technique non numérotée'
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: Livre - Journal
+  analyse: 'L en ℒ (boucle haute, descente, boucle basse, trait de base portant l''i pointé), v à petit nœud de tête, r en pointe, e bouclé à long délié ; tiret court et épais isolé entre deux blancs (x ≈ 0,45–0,48) ; J à boucle de tête et grande boucle inférieure descendant vers y ≈ 0,43, puis o, u, r, n, a et l bouclé haut : tous les tracés sont employés'
+  alternatives: []
+- ligne: 2
+  lemme: Du 25
+  analyse: D en J (attaque haute, fût descendant, boucle inférieure filant à gauche) suivi d'un u à deux jambages ; 2 bouclé (tête ronde, boucle fermée à la base) ; 5 à drapeau horizontal et panse ouverte. Concorde avec l'en-tête du cliché 002 (25 Ma., Juillet 1916)
+  alternatives: []
+- ligne: 2
+  lemme: juillet
+  analyse: 'j et i pointés, deux l bouclés, e, t à haste haute dont la barre se prolonge jusque devant 1916 : simple barre de t, ni soulignement ni tiret'
+  alternatives: []
+- ligne: 3
+  lemme: avril
+  analyse: 'a fermé, v (jambage puis remontée à petit nœud), r en pointe, i pointé, l bouclé haut : chaque tracé est employé ; « avil » laisserait un tracé sans emploi'
+  alternatives: []
+- ligne: 3
+  lemme: '1917'
+  analyse: '1 à long trait d''attaque, 9 à boucle fermée et haste descendante, 1, puis 7 à crochet de tête, diagonale descendant sous la ligne et finissant en crosse, barre médiane ondulée (forme constante du 7 en 1917). Concorde avec la dernière entrée (cliché 186 : 30 Lundi, Avril 1917)'
+  alternatives: []
+controle:
+- ligne: 1
+  avant: 'apparat : signe « trait d''union court et épais, isolé entre deux espaces » ; disposition « titre centré ; … court trait isolé et centré : séparateur, non soulignement »'
+  apres: notes supprimées
+  justification: le balisage (\centre, tiret entre deux espaces, \filet[c]{0.19}) rend déjà la page ; la discussion du soulignement reste dans changements
+- ligne: 2
+  avant: 'apparat : lecture « Du » (D en J) ; lecture « 25 » (2 bouclé) ; signe « juillet » (barre du t prolongée)'
+  apres: notes supprimées ; analyses reportées en difficultes
+  justification: justifications paléographiques d'une lecture sans difficulté, exclues de l'apparat imprimé ; lectures confirmées par zooms
+- ligne: 3
+  avant: 'apparat : lecture « Au » ; lecture « 1917 » (7 à barre médiane) ; disposition « long trait isolé et centré »'
+  apres: notes supprimées ; analyses reportées en changements et difficultes
+  justification: une majuscule ne reçoit pas de note imprimée ; le 7 ne fait pas difficulté ; le trait final est rendu par \filet[c]{0.40}
+- ligne: 0
+  avant: 'critique : papier rouge « déchiré à l''angle supérieur droit », couvrant « environ le quart de la hauteur »'
+  apres: « écorché à son angle inférieur droit » ; « le cinquième supérieur »
+  justification: 'zoom [.84 .10 1 .25] : l''arrachement, qui découvre un fond gris fibreux, est au bord droit entre y ≈ 0,14 et 0,21, à l''angle inférieur de la bande rouge et non à l''angle du plat ; la bande rouge s''arrête vers y ≈ 0,21–0,23'
+- ligne: 0
+  avant: critique en cinq phrases
+  apres: critique en deux phrases ; détails matériels et discussion du commentaire antérieur en remarques
+  justification: registre critique limité à 1–3 phrases ; encre contrôlée par mesure de couleur sur la vue (violet très foncé)
+- ligne: 0
+  avant: resume sans contrôle des bornes
+  apres: bornes rapprochées des clichés 002 et 186 ; sens du terme livre-journal
+  justification: 'transcriptions antérieures : 002 = mardi 25 juillet 1916, 186 = 30 avril 1917 (lundi)'
+remarques: 'Le commentaire antérieur décrit une étiquette bleue « au centre », « à pans coupés », une encre noire et un soulignement du titre. Sur le cliché, le papier bleu couvre tout le plat sous la bande rouge, jusqu''aux bords (angles seulement émoussés) ; l''encre, mesurée sur la vue (pixels les plus sombres ≈ RVB 38/33/94 contre 23/67/136 pour le papier), tire sur le violet ; le trait sous le titre en est séparé par plus d''un interligne. La bande rouge est faite de deux pièces qui se recouvrent (raccord vertical vers x ≈ 0,38 ; bord inférieur en gradins entre x ≈ 0,38 et 0,54) et porte une tache sombre vers x ≈ 0,61–0,88, y ≈ 0,06–0,10. L''homogénéité d''encre et de module des trois lignes laisse supposer une inscription d''un seul jet, donc au plus tôt du 30 avril 1917, sans que rien l''assure : la date de l''inscription reste indéterminée.'
+resume: 'Plat supérieur du carnet : papier rouge gaufré à losanges en haut, du côté de la reliure, papier bleu au-dessous. Combes y a écrit l''intitulé « Livre - Journal » et les bornes du carnet, « Du 25 juillet 1916 / Au 30 avril 1917 », en trois lignes centrées, séparées par un court trait et closes par un trait plus long. Ces bornes sont celles de la première entrée (cliché 002, mardi 25 juillet 1916) et de la dernière (cliché 186, lundi 30 avril 1917). L''écriture, plus grande et plus posée que celle du journal, en garde les formes (D en J, 2 bouclé, 7 à barre médiane). Le livre-journal est le registre où le commerçant inscrit ses opérations jour par jour ; le carnet tient de même, jour après jour, le récit et les comptes de dépenses.'
+noms:
+  personnes: []
+  lieux: []
+source: contrôle

@@ -1,0 +1,109 @@
+cliche: 51
+fichier: 20251126_103036.jpg
+date: Lundi 25 septembre 1916 (suite)
+mois: Septembre 1916
+lieux: Acheux-en-Amiénois, Gézaincourt, Amiens et Longueau (Somme)
+titre: 'En permission : Gézaincourt, Amiens ; avions allemands sur Longueau ; nuit en train'
+transcription: |
+  \sl{25 Lundi.} (Suite) \hfill \sl{Sept /16}
+  au ciel bleu, qq nuages, nettement détachés.
+  Enfin, vers 3^{H} 1/, départ
+  Doucement bercé par mouvement train. Et caresse
+  brise légère
+  Verdures étincelantes de lumière. Bois ensoleillés.
+  A Gzaincourt, vers 4^{H}\fr{1}{2}, changé train.
+  Reparti à 5^{H} ds train venant de Doullens
+  A Amiens, vers 8^{H} s
+  Monté train de \inc{permissrin} pr Paris. Compartimt
+  de 3^{e} cl., av grossiers poilus, barbus & sales
+  Roulé tte nuit
+  Après avoir quitté Amiens, et au croisement
+  de Longueau, survolé par des Taubes qui
+  jeté bombes obus ds les airs. Ciel fouillé.
+  par les projecteurs. Très beau spectacle
+  \blanc{4}
+  Pas descendu à Creil (en route)
+  Voyagé tte la nuit \trait
+apparat:
+- ligne: 1
+  lemme: Sept /16
+  type: abreviation
+  note: septembre 1916
+- ligne: 2
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 3
+  lemme: 3^{H} 1/
+  type: abreviation
+  note: 3 heures et demie ; du demi, seuls le 1 et la barre sont tracés
+- ligne: 7
+  lemme: Gzaincourt
+  type: lecture
+  note: 'Gézaincourt ; aucun e visible après le G empâté (état antérieur : Gézaincourt)'
+- ligne: 7
+  lemme: 4^{H}\fr{1}{2}
+  type: abreviation
+  note: 4 heures et demie
+- ligne: 8
+  lemme: 5^{H}
+  type: abreviation
+  note: 5 heures
+- ligne: 8
+  lemme: ds train
+  type: abreviation
+  note: 'dans [le] train ; sans article (état antérieur : ds le train)'
+- ligne: 9
+  lemme: 8^{H} s
+  type: abreviation
+  note: 8 heures du soir
+- ligne: 10
+  lemme: \inc{permissrin}
+  type: lecture
+  note: 'permissionnaires, abrégé ; finale incertaine après ss (autre lecture : permissres)'
+- ligne: 10
+  lemme: pr
+  type: abreviation
+  note: pour
+- ligne: 10
+  lemme: Compartimt
+  type: abreviation
+  note: Compartiment
+- ligne: 11
+  lemme: 3^{e} cl.
+  type: abreviation
+  note: troisième classe
+- ligne: 11
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 11
+  lemme: '&'
+  type: abreviation
+  note: et
+- ligne: 12
+  lemme: tte
+  type: abreviation
+  note: toute
+- ligne: 14
+  lemme: Taubes
+  type: emprunt
+  note: 'allemand Taube, « colombe » : avions allemands'
+- ligne: 15
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 17
+  lemme: (en route)
+  type: lecture
+  note: lecture nouvelle ; état antérieur « (en retard [?]) »
+- ligne: 18
+  lemme: tte
+  type: abreviation
+  note: toute
+critique: Suite du 25 septembre commencé sur la page précédente (f.~25 v\textsuperscript{o}). Encre violette uniforme ; après la l.~16, environ quatre lignes laissées en blanc, puis deux lignes au bas de la page qui appartiennent à la nuit du 25 au 26.
+historique: |
+  Le « petit train départemental » mène Combes à Gézaincourt, au sud-ouest de Doullens, où la voie métrique rejoint la ligne du Nord (voir f.~25 v\textsuperscript{o}). Les trains spéciaux de permissionnaires circulent depuis l'automne 1915 ; le seul réseau du Nord en fait rouler 11 800 en 1916 (Lafon 1922, p.~105, 153). À Paris, il prendra un billet de deuxième classe à quart de place (voir f.~27 r\textsuperscript{o}). Longueau, au sud-est d'Amiens, est le nœud de la ligne Creil--Clermont--Longueau, grande artère du front de la Somme (Lafon 1922, p.~115). « Taube », nom du monoplan allemand du début de la guerre, désigne alors tout avion allemand (Fraser et Gibbons 1925, s.v.) ; les obus « ds les airs » et les projecteurs sont ceux de la défense antiaérienne. Ce raid nocturne n'a pas été retrouvé dans les sources consultées. Creil et Le Bourget sont les deux grandes gares régulatrices des armées françaises de la Somme (Lafon 1922, p.~99, 115) ; c'est au Bourget que Combes devra descendre au matin (voir f.~26 v\textsuperscript{o}).
+sources:
+- Lafon, G., Les Chemins de fer français pendant la guerre, thèse de droit, Paris, A. Rousseau, 1922, p. 99, 105, 115, 153.
+- Fraser, E., et Gibbons, J., Soldier and Sailor Words and Phrases, London, Routledge, 1925, s.v. « Taube ».

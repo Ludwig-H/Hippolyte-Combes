@@ -1,0 +1,182 @@
+cliche: 132
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Sam. 27 \hfill Janv. /17
+  apres: Sam \sl{– 27} \hfill \sl{Janv. /17}
+  justification: point réduit à un court tiret ; le trait ne souligne que « – 27 » ; Janv. /17 souligné
+  confiance: haute
+- ligne: 2
+  avant: Paris. Gare du Nord.
+  apres: \sl{Paris}. gare du nord.
+  justification: Paris souligné ; g et n minuscules
+  confiance: haute
+- ligne: 3
+  avant: 'Gare d''Orsay : 10 c. | Cartes ples : 10 c'
+  apres: 'Gare d Orsay : 10c. \hfill Carte ples : 10c'
+  justification: aucune apostrophe ; Carte sans s
+  confiance: moyenne
+- ligne: 5
+  avant: 'Fiacre taximètre : 1 f 45 + 30 c = 1 f 75 c'
+  apres: 'Fiacre \inc{taxametre} : 1^{f}45 + 30c = 1 75c'
+  justification: a après x, aucun accent ; f suscrit après le premier 1, aucun f au total ; signe = à deux traits (corrigé en p2)
+  confiance: moyenne
+- ligne: 6
+  avant: 'Dîner : 1 f 95 + 10 c'
+  apres: 'Diner : 1^{f}95 + 10c'
+  justification: pas de circonflexe ; f suscrit
+  confiance: haute
+- ligne: 7
+  avant: 11 f 15 c
+  apres: 11^{f} 15c
+  justification: f suscrit
+  confiance: haute
+- ligne: 8
+  avant: 'Magasins Hôtel de Ville : 1 brosse à cheveux : 3 f 95'
+  apres: 'Magasins Hotel de Ville : 1 brosse à cheveux : 3^{f}95'
+  justification: pas de circonflexe ; f suscrit
+  confiance: haute
+- ligne: 9
+  avant: 'Peigne fin : 1 f 25 c'
+  apres: 'Peigne fin : \inc{15}c'
+  justification: 'montant confus ; p2 : ni 2 ni f visibles'
+  confiance: basse
+- ligne: 10
+  avant: Peigne ordre
+  apres: Peigne ord^{re}
+  justification: re surélevé après ord
+  confiance: moyenne
+- ligne: 12
+  avant: incidents.
+  apres: incidents \trait
+  justification: pas de point ; long délié jusqu'à la marge
+  confiance: haute
+- ligne: 13
+  avant: souvenirs
+  apres: souvrs
+  justification: s-o-u-v-r + s plongeant, aucun jambage pour -eni-
+  confiance: moyenne
+- ligne: 15
+  avant: sœurs, ... gare.
+  apres: \inc{sœurs}, ... gare
+  justification: seu + délié ; aucun point après gare
+  confiance: moyenne
+- ligne: 16
+  avant: Vers 8h 15, arrivée.
+  apres: Vers 8^{H}15 arrivée
+  justification: H suscrit (aspect 41), ni virgule ni point
+  confiance: moyenne
+- ligne: 17
+  avant: St-Michel.
+  apres: St-Michel
+  justification: pas de point final
+  confiance: haute
+- ligne: 20
+  avant: Oncle Émile, venu me surprendre à 10h 1/2.
+  apres: oncle Émile, venu me surprendre à 10^{H}\fr{1}{2}
+  justification: o au module des minuscules ; H suscrit et fraction empilée ; pas de point
+  confiance: moyenne
+- ligne: 21
+  avant: A midi, enfin, à Ste-Marie. Dû
+  apres: a midi, enfin, à Ste-Marie – Dû
+  justification: a minuscule ; trait bas au lieu d'un point
+  confiance: moyenne
+- ligne: 22
+  avant: musée.
+  apres: musee
+  justification: pas d'accent ni de point visibles ; filet partiel sous la ligne
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: /17
+  analyse: court trait épais isolé en tête, à gauche du 1 ; c'est la barre du millésime, très réduite
+  alternatives:
+  - '17'
+- ligne: 5
+  lemme: taxametre
+  analyse: t bouclé (aspect l), a, petit s/x, a, m, e, t barré, r réduit, e ; aucun i après x
+  alternatives:
+  - taximètre
+  - taxamètre
+- ligne: 9
+  lemme: 15c
+  analyse: 1 en ʌ (trait d’attaque + haste), puis longue haste oblique qui est la descente du 5 de 3^{f}95 (l. 8) ou un 5 en ſ propre à la l. 9, puis c ; aucun 2
+  alternatives:
+  - 1^{f}25c
+  - 5c
+  - 1c
+- ligne: 13
+  lemme: souvrs
+  analyse: s montant (aspect d), o, u, v ou r pointu, petite minime, s final plongeant ; un point décalé au-dessus de l’avant-dernier jambage permettrait « souvis »
+  alternatives:
+  - souvenirs
+- ligne: 15
+  lemme: sœurs
+  analyse: s montant (aspect h), e, u, puis long délié horizontal sans r ni s distincts
+  alternatives:
+  - seurs
+- ligne: 16
+  lemme: 8^{H}15
+  analyse: 8, puis petit H en « 41 » au-dessus de la ligne, puis 5 en ſ ; le 1 de 15 peut se confondre avec la seconde haste de l'H
+  alternatives:
+  - 8^{H}5
+- ligne: 20
+  lemme: 10^{H}\fr{1}{2}
+  analyse: au-dessus, deux hastes à traverse (H) ; dessous, un trait en ʌ lu comme la demie empilée
+  alternatives:
+  - 10^{H} 1/2
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1081 caractères ; sources : Lafon 1922 (p. 37, quart de place), Baedeker Sud-Ouest 1912 (R. 39, p. 298), *Le Télégramme* du 30 janv. 1917, *L''Express du Midi* du 23 déc. 1926, biographie familiale ; seule p1 existe. Le billet de 11 f 15 est seulement rapproché du billet de 3e classe du retour d''octobre (11 f 75) : la classe n''est pas écrite. L''« angle musee » est donné comme sans doute le musée des Augustins. Lectures incertaines dans p1 : « taxametre » (l. 5), « 1^{f}25c » (l. 9), « sœurs » (l. 15). Contrôle p2 : l. 9 relue « 15c » (incertain) ; l. 5 et l. 15 maintenues incertaines.'
+  alternatives: []
+controle:
+- ligne: 5
+  avant: 30c — 1 75c
+  apres: 30c = 1 75c
+  justification: 'deux traits superposés (le second plus court, x≈.85–.88, y≈.19) : signe égal, non tiret simple'
+- ligne: 9
+  avant: \inc{1^{f}25}c
+  apres: \inc{15}c
+  justification: 'zoom [.85 .33 1 .40] x3 : 1 en ʌ à trait d’attaque, puis longue haste oblique prolongeant le 5 de 3^{f}95 (l. 8), puis c ; ni 2 ni f suscrit visibles ; « 1 c » (haste attribuée à la l. 8) ou « 5c » restent possibles'
+- ligne: 16
+  avant: note disposition « ligne serrée entre les l. 16 et 18 »
+  apres: (supprimée)
+  justification: renvoi de lignes erroné (l. 15 et 17) et disposition rendue par la transcription
+- ligne: 20
+  avant: lemme 10^{H}
+  apres: lemme 10^{H}\fr{1}{2}
+  justification: 'le lemme doit couvrir la demie discutée ; lecture confirmée au zoom [.84 .85 1 .93] : 10, H suscrit à deux hastes, dessous trait en ʌ'
+- ligne: 1
+  avant: note « barre du millésime réduite à un court trait »
+  apres: janvier 1917
+  justification: détail paléographique hors apparat ; le court trait vertical avant 17 est confirmé (zoom [.58 0 .85 .07])
+remarques: 'Lignes comptées : 22 lignes de texte (l. 16 « Vers 8H15 arrivée » serrée entre deux lignes, traitée comme ligne propre). P2 : signe = rétabli l. 5 ; montant du peigne fin relu 15 c (incertain).'
+resume: 'Samedi 27 janvier 1917 : comptes du voyage de Paris (facteur à la gare du Nord, gare d''Orsay, enregistrement de deux colis, fiacre, métro, dîner, billet pour Toulouse) et achats aux magasins de l''Hôtel de Ville (brosses, peignes, cirage). Dimanche 28 : le voyage s''achève sans incident ; en approchant de Toulouse, Hippolyte Combes croit revoir sa mère et ses sœurs l''attendant à la gare. Arrivé vers 8 h 15, il retire deux bagages, prend le tram de Saint-Michel et range ses affaires dans son appartement. L''oncle Émile vient le surprendre à 10 h 1/2 ; à midi il se rend à Sainte-Marie, après avoir attendu le tram trente minutes à l''angle du musée.'
+noms:
+  personnes:
+  - forme: oncle Émile
+    ligne: 20
+    identite: oncle d'Hippolyte Combes, à Toulouse
+  lieux:
+  - forme: Paris
+    ligne: 2
+    identite: Paris
+  - forme: gare du nord
+    ligne: 2
+    identite: gare du Nord, Paris
+  - forme: Gare d Orsay
+    ligne: 3
+    identite: gare d'Orsay, Paris
+  - forme: Magasins Hotel de Ville
+    ligne: 8
+    identite: Bazar de l'Hôtel de Ville, Paris
+  - forme: Toulouse
+    ligne: 7
+    identite: Toulouse (Haute-Garonne)
+  - forme: St-Michel
+    ligne: 17
+    identite: quartier Saint-Michel, Toulouse
+  - forme: Ste-Marie
+    ligne: 21
+    identite: Sainte-Marie-des-Champs, Toulouse
+source: contrôle

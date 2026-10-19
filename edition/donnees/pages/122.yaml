@@ -1,0 +1,117 @@
+cliche: 122
+fichier: 20251126_105920.jpg
+date: Mercredi 10 – vendredi 12 janvier 1917
+mois: Janvier 1917
+lieux: Acheux-en-Amiénois, Saint-Léger-lès-Authie, Authie, Beauquesne et Rubempré (Somme)
+titre: Canonnade sur Miraumont ; retrouvailles avec Morris ; grésil et tournées d'achats
+transcription: |
+  \sl{10 Me} \hfill — \sl{Janvier 1917} —
+  \ind Toute la nuit & matinée
+  très violente canonnade s/ ligne de Miraumt
+  \ind Course en auto à St-Léger & Belle-Eglise,
+  où rencontré, enfin mon vieux Morris.
+  \ind Après-midi, liberté entière. Visite de
+  Morris à mon billet. Causé de tt 1 peu
+  \ind Temps froid, neige & pluie glaciale
+  [ — Mandat-poste à Imbert, opticien
+  Paris, pour réparatn pince-nez et pour,
+  1 neuf (d'après ordonnance : 19 fr.
+  \blanc{1}
+  \sl{11 J} – Neige & pluie fine, presque tt le jour
+  \ind a whole day, off —
+  Mis à jour correspce \inc{moult} en arriéré.
+  Soir, diné \del{seul}. Rentré tot chambre
+  \blanc{1}
+  \sl{12 Ve}. Durant nuit, neigé encore
+  \ind – Toute matinée, averses et giboulées,
+  grésil & neige. Surpris par tempête au
+  retour d'Authie & sur la route d'Arquèves,
+  plateaux de Louvencourt
+  \ind Courses en auto : Louvencourt, St-Léger
+  Raincheval, Beauquesne, où dejeuné au
+  Café Continental
+  \ind Après-midi, à Septenville & Rubempré
+  Rentré vers 6^{h}, nuit noire.
+apparat:
+- ligne: 1
+  lemme: Me
+  type: abreviation
+  note: mercredi
+- ligne: 3
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 3
+  lemme: Miraumt
+  type: abreviation
+  note: Miraumont (Somme)
+- ligne: 4
+  lemme: St-Léger
+  type: abreviation
+  note: Saint-Léger(-lès-Authie)
+- ligne: 7
+  lemme: billet
+  type: emprunt
+  note: angl. billet, cantonnement, logement chez l'habitant
+- ligne: 7
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 7
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 10
+  lemme: réparatn
+  type: abreviation
+  note: réparation
+- ligne: 11
+  lemme: 1 neuf
+  type: abreviation
+  note: un neuf
+- ligne: 11
+  lemme: fr.
+  type: abreviation
+  note: francs
+- ligne: 12
+  lemme: J
+  type: abreviation
+  note: jeudi
+- ligne: 12
+  lemme: tt
+  type: abreviation
+  note: tout
+- ligne: 13
+  lemme: a whole day, off
+  type: emprunt
+  note: une journée entière de repos
+- ligne: 14
+  lemme: correspce
+  type: abreviation
+  note: correspondance
+- ligne: 14
+  lemme: \inc{moult}
+  type: lecture
+  note: mot nouveau, absent de la transcription antérieure ; m-o-u puis haute haste et t ; autre lecture possible mouvt
+- ligne: 15
+  lemme: \del{seul}
+  type: rature
+  note: « seul » biffé
+- ligne: 16
+  lemme: Ve
+  type: abreviation
+  note: vendredi
+- ligne: 21
+  lemme: St-Léger
+  type: abreviation
+  note: Saint-Léger(-lès-Authie)
+- ligne: 25
+  lemme: 6^{h}
+  type: abreviation
+  note: six heures
+critique: Encre noire virée au brun ; « Causé de tt 1 peu » et la fin de la ligne « Mis à jour correspce moult en arriéré » sont d'une encre plus pâle et brunâtre, sans doute après une reprise de plume.
+historique: |
+  La « très violente canonnade », déjà notée le 9 (voir f. 60 v\textsuperscript{o}), prépare deux petites opérations du XIII Corps au nord de l'Ancre. Le 10 janvier à 2 h, après dix-huit heures de bombardement, le 2/Border (7th Division) attaque le \textit{Triangle}, à 1 000 yards à l'est de Beaumont-Hamel. Le 11, la 91st Brigade prend \textit{Munich Trench} ; le bombardement lourd avait été « maintenu pendant les deux jours précédents » sur tout le front de la Fifth Army (OH 1917-I, p. 67–69). Manqué la veille à Hédauville (« out riding »), Morris est sans doute un officier de la 150th Company du train de la 18th Division ; son identité n'est pas établie. Belle-Église avait été tête de ligne pour les vivres en juillet 1916 (OH 1916-I, p. 274). Imbert est l'opticien du boulevard Saint-Michel, à qui Combes avait expédié une boîte recommandée fin décembre (f. 58 r\textsuperscript{o}). Le 27 janvier, il passera chez lui et le trouvera mobilisé (f. 65 v\textsuperscript{o}). Au Café Continental de Beauquesne, Combes avait déjeuné le 5 avec Walsh et Morris (f. 60 r\textsuperscript{o}).
+sources:
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 67–69.
+- 'Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Sir Douglas Haig''s Command to the 1st July : Battle of the Somme, Londres, Macmillan, 1932, p. 274.'

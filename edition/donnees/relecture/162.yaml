@@ -1,0 +1,212 @@
+cliche: 162
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 3 Sam. — \hfill — Mars 1917 —
+  apres: 3 \sl{Sam.} \hfill — \sl{Mars 1917} —
+  justification: aucun tiret après Sam. ; soulignements de Sam. et de Mars 1917
+  confiance: haute
+- ligne: 2
+  avant: Matin & soir, brouillard glacial. Ciel resté
+  apres: matin & soir, brouillard
+  justification: la ligne s'arrête après brouillard ; m initial minuscule
+  confiance: haute
+- ligne: 3
+  avant: voilé de brume tout le jour.
+  apres: glacial. ciel resté voilé de brume tout le jour.
+  justification: découpage des lignes ; c minuscule
+  confiance: haute
+- ligne: 4
+  avant: de 9h 30 à 1h
+  apres: de 9^{H}30 à 1^{H}
+  justification: H suscrits nets
+  confiance: haute
+- ligne: 5
+  avant: (paille etc.), &
+  apres: (paille ...etc. / &
+  justification: points et tiret de suspension avant etc. ; long trait oblique au lieu de parenthèse et virgule
+  confiance: moyenne
+- ligne: 7
+  avant: Mission fr.
+  apres: mission fr^{se}
+  justification: m sans attaque haute ; lettres suscrites après fr
+  confiance: moyenne
+- ligne: 9
+  avant: office, Hérissart, à lire
+  apres: office. Herissart. à lire
+  justification: points nets après office et Herissart ; pas d'accent sur le e
+  confiance: haute
+- ligne: 10
+  avant: ou à écrire.
+  apres: ou à ecrire
+  justification: pas d'accent ni de point visibles
+  confiance: moyenne
+- ligne: 11
+  avant: '[ Toutencourt, Mission fr. : 43 f. 75 (retenue'
+  apres: '\crochet{2}Toutencourt : Mission fr^{se} : 43^{f} 75 (retenue'
+  justification: grand crochet de deux lignes ; deux-points après Toutencourt ; f suscrit ; lettres suscrites après fr
+  confiance: haute
+- ligne: 12
+  avant: de 35 f. pour 7 jours de permission) ]
+  apres: de 35 fr. pour 7 jours de permission
+  justification: fr. sur l'image ; ni parenthèse fermante ni crochet
+  confiance: haute
+- ligne: 13
+  avant: 4 Dim. — Nuit, gelé un peu.
+  apres: 4 \sl{Dim.} Nuit, gelé un peu
+  justification: aucun tiret ni point final
+  confiance: haute
+- ligne: 15
+  avant: soleil chaud.
+  apres: soleil \del{\ill} chaud.
+  justification: mot biffé avant chaud omis par l'état antérieur
+  confiance: haute
+- ligne: 16
+  avant: Cap. & son ami
+  apres: Cap & son ami
+  justification: pas de point après Cap
+  confiance: moyenne
+- ligne: 17
+  avant: Aussi, liberté entière,
+  apres: aussi, liberté entière.
+  justification: a minuscule ; point isolé en fin de ligne
+  confiance: moyenne
+- ligne: 18
+  avant: '[ Washing : 60 c. ]'
+  apres: 'Washing : 60c'
+  justification: ni crochets ni point au crayon
+  confiance: haute
+- ligne: 19
+  avant: 5 Lundi. — Au réveil, épaisse
+  apres: 5 \sl{Lundi.} – au reveil, epaisse
+  justification: tiret court ; a au module d'une minuscule ; aucun accent visible
+  confiance: moyenne
+- ligne: 22
+  avant: Matin, course à Montigny & à Fréchencourt.
+  apres: matin, course à Montigny & à Frechencourt
+  justification: m minuscule ; pas d'accent ni de point
+  confiance: moyenne
+- ligne: 23
+  avant: Au
+  apres: au
+  justification: a au module d'une minuscule
+  confiance: moyenne
+- ligne: 25
+  avant: off. australien, en Cte [?]
+  apres: off^{r} australien, au \ill
+  justification: 'a fermé puis u : au, non en ; lettre suscrite après off ; dernier mot non résolu, aucun C'
+  confiance: moyenne
+- ligne: 26
+  avant: interprète, pour ns remplacer. Très content de quitter le Cap.
+  apres: \inc{interprète}, pour ns remplacer. Très content de quitter le Cap
+  justification: premier mot recouvert ; pas de point visible en bout de ligne
+  confiance: moyenne
+- ligne: 27
+  avant: Nuit, mervt ciel étoilé, pleine lune — superbe.
+  apres: nuit, merv^{t} ciel etoilé, pleine lune — superbe!
+  justification: n minuscule ; t suscrit ; e initial sans accent ; trait vertical final = point d'exclamation
+  confiance: moyenne
+difficultes:
+- ligne: 5
+  lemme: '...etc. /'
+  analyse: après paille, deux points, un tiret court et un point, puis etc. et un point ; ensuite un long trait droit oblique descendant sous la ligne, sans courbure, différent du ( de la l. 11
+  alternatives:
+  - )
+  - ','
+- ligne: 7
+  lemme: fr^{se}
+  analyse: f-r puis petit groupe suscrit surmonté d'un trait, même forme qu'à la l. 11
+  alternatives:
+  - fr^{çaise}
+  - fr.
+- ligne: 14
+  lemme: vif.
+  analyse: v puis jambage (i), f à longue descente ; le point du i est décalé au-dessus du blanc avant Mais
+  alternatives:
+  - nf.
+- ligne: 15
+  lemme: \del{\ill}
+  analyse: mot de 3 ou 4 lettres (aspect s.tt, ett) entièrement noirci par une biffure appuyée
+  alternatives:
+  - \del{très}
+  - \del{assez}
+- ligne: 21
+  lemme: blanche
+  analyse: blanch suivi d'un délié final tombant à droite, valant -e
+  alternatives:
+  - blanch
+- ligne: 24
+  lemme: 500 m.
+  analyse: 5 à drapeau puis deux petits ovales, m et point
+  alternatives:
+  - 300 m.
+- ligne: 25
+  lemme: \ill
+  analyse: 'au bout de la ligne, au contact du bord : haste haute oblique puis jambage descendant vers la gauche (aspect ly ou tq) ; un seul signe ou deux lettres, sans point'
+  alternatives:
+  - lieu
+  - titre
+  - l^{t}
+  - '&'
+- ligne: 26
+  lemme: \inc{interprète}
+  analyse: i initial pointé, puis lettres recouvertes par les jambages de Appris (l. 25) ; finale -ète avec virgule
+  alternatives: []
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1095 caractères ; Cronier 2013 p. 18 et 32, Falls OH 1917-I p. 74 et 104, Sassoon 1930 (école de la Fourth Army à Flixecourt, attestée pour le printemps 1916 seulement), renvois aux f. 75 r°, 54 r° et 84 v° ; lecture p1. La fin de la l. 25 (« au \ill ») n''est pas résolue. La décomposition 15 × 5 f 25 reste une hypothèse (R3 F10).'
+  alternatives: []
+controle:
+- ligne: 16
+  avant: 'apparat : ballade, graphie, pour balade'
+  apres: note supprimée
+  justification: faute banale, graphie usuelle à l'époque ; règle d'épuration
+- ligne: 18
+  avant: 'apparat : Washing : 60c, ajout au crayon'
+  apres: 'Washing (emprunt : blanchissage) ; 60c (abréviation : 60 centimes)'
+  justification: 'emprunt et abréviation non glosés ; l''usage du crayon est dit dans critique ; lecture Washing : 60c confirmée sur t5d'
+- ligne: 24
+  avant: 500 m. sans note
+  apres: 'apparat : 500 m., abréviation, 500 mètres'
+  justification: abréviation non développée ; 5 à drapeau et deux 0 confirmés au zoom
+- ligne: 25
+  avant: 'notes : off^{r} ... lettres en partie noyées ; au \ill ... aspect ly, tq ... « Cte » exclu'
+  apres: notes abrégées, sans analyse paléographique
+  justification: 'épuration de l''apparat ; zoom x3 [.70 .88 1.0 .94] : « au » net, puis haste et jambage croisé au bord, toujours non résolu (ly, ty, l^{t})'
+- ligne: 0
+  avant: critique décrivant crochet et filet
+  apres: critique limitée au crayon et au chevauchement des l. 25-26
+  justification: crochet et filet sont rendus par le balisage
+remarques: Fin de l. 25 non résolue malgré zoom ×4 (bord du cliché). Majuscules initiales de Matin/matin, au/Au, Après décidées au module.
+resume: Le samedi 3 mars 1917, par brouillard glacial, Hippolyte Combes achète paille et fourrage à Rubempré et Puchevillers, passe au bureau du Town Major, puis va à pied à Toutencourt (Mission française, fermes) et rentre en camion à Hérissart. Il note à la Mission française de Toutencourt une somme de 43 f 75, avec une retenue de 35 f pour sept jours de permission. Le dimanche 4, gel et beau soleil ; le capitaine part en promenade à Flixecourt et lui laisse la journée libre. Le lundi 5, la neige couvre routes et toits ; tournées à Montigny, Fréchencourt, Rubempré et Puchevillers. Il apprend l'arrivée prochaine d'un officier australien qui doit les remplacer, et se réjouit de quitter le capitaine.
+noms:
+  personnes:
+  - forme: Cap
+    ligne: 16
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  - forme: off^{r} australien
+    ligne: 25
+    identite: officier australien, sans doute le Lt Wentworth (169–177)
+  lieux:
+  - forme: Rubempré
+    ligne: 4
+    identite: Rubempré (Somme)
+  - forme: Puchevillers
+    ligne: 5
+    identite: Puchevillers (Somme)
+  - forme: Toutencourt
+    ligne: 7
+    identite: Toutencourt (Somme)
+  - forme: Herissart
+    ligne: 9
+    identite: Hérissart (Somme)
+  - forme: Flixecourt
+    ligne: 17
+    identite: Flixecourt (Somme)
+  - forme: Montigny
+    ligne: 22
+    identite: Montigny-sur-l'Hallue (Somme)
+  - forme: Frechencourt
+    ligne: 22
+    identite: Fréchencourt (Somme)
+source: contrôle

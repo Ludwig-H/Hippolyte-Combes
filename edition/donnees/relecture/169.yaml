@@ -1,0 +1,199 @@
+cliche: 169
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Ven. 16 \hfill — Mars 1917 —
+  apres: Ven. \sl{16} \hfill — \sl{Mars 1917} —
+  justification: soulignements sous 16 (le trait commence au point de Ven.) et sous Mars 1917 seuls
+  confiance: haute
+- ligne: 2
+  avant: Nuit très froide. Gelé dur. Au réveil trouvé boue séchée.
+  apres: \ind[2] Nuit trè froide. Gelé / dur. Au reveil, trouvé boue sechée.
+  justification: la note est écrite sous la date, en retrait, à hauteur du soulignement ; « dur. » commence la ligne suivante ; « très » réduit à t-r-e accentué sans s
+  confiance: haute
+- ligne: 3
+  avant: Au réveil trouvé boue séchée.
+  apres: Au reveil, trouvé boue sechée.
+  justification: virgule (trait vertical) après reveil ; aucun accent sur le premier e de reveil ni de sechée
+  confiance: moyenne
+- ligne: 4
+  avant: courses à Mirvaux
+  apres: courses a Mirvaux
+  justification: aucun accent au-dessus du a ; pas de point final après Pierregot
+  confiance: moyenne
+- ligne: 6
+  avant: Revu avec intérêt
+  apres: Revu av interet
+  justification: deux éléments seulement (a + v) ; pas d'accents visibles, seule la longue barre du t final
+  confiance: moyenne
+- ligne: 9
+  avant: Ribemont, pour
+  apres: Ribemont. pour
+  justification: point rond sur la ligne, non virgule
+  confiance: moyenne
+- ligne: 11
+  avant: très sympathiques
+  apres: trè sympathiques
+  justification: t-r-e surmonté d'un accent, sans s
+  confiance: haute
+- ligne: 12
+  avant: '[ Blacksmith d''Hérissart : répar. à ferrure sac : 30 c. ]'
+  apres: '[Blacksmith d''Herissart : repar à ferrure \inc{sac} : 30 c'
+  justification: aucun accent sur Herissart ni repar ; pas de point après repar ni après c ; aucun crochet fermant ; sac douteux (contrôle p2)
+  confiance: moyenne
+- ligne: 13
+  avant: Sam. 17 —
+  apres: \sl{Sam. 17 —}
+  justification: long trait sous la date et le tiret
+  confiance: haute
+- ligne: 14
+  avant: Très belle
+  apres: Trè belle
+  justification: T bouclé, r, e accentué, aucun s
+  confiance: haute
+- ligne: 16
+  avant: Après-midi
+  apres: apres-midi
+  justification: aucun accent sur le e, s final plongeant ; a initial au module d'une minuscule (contrôle p2)
+  confiance: moyenne
+- ligne: 17
+  avant: de =, avec Lt. Wentworth. Air si
+  apres: de \inc{=}, avec Lt. Wentworth. air si
+  justification: a initial minuscule ; le second trait du = se confond avec le pied du p de promenade
+  confiance: moyenne
+- ligne: 18
+  avant: chaud que sué bcp. Marche m'a fait bien.
+  apres: chaud que sué bp \add{Auto aux workshops} Marche m'a fait bien.
+  justification: b + p liés, sans c ni point ; la note interlinéaire est rattachée à la ligne
+  confiance: haute
+- ligne: 18
+  avant: Auto est aux workshops.
+  apres: \add{Auto aux workshops}
+  justification: aucun « est » entre Auto et aux ; ajout interlinéaire écrit petit, non une ligne
+  confiance: moyenne
+- ligne: 20
+  avant: au trot — — —
+  apres: au trot – – –
+  justification: trois tirets courts, le premier presque un point
+  confiance: moyenne
+- ligne: 21
+  avant: '[ A Toutencourt : c. ples : 1 f. + 15 c.'
+  apres: '[A Toutencourt c^{tes} p^{les} : 1^{f} + 15 c'
+  justification: pas de deux-points après Toutencourt (barre du t prolongée) ; finales tes et les suscrites ; f monétaire suscrit au-dessus du 1 ; pas de point final
+  confiance: haute
+- ligne: 22
+  avant: et à soie ]
+  apres: \ind[3] et a soie)
+  justification: ligne écrite petit sous c^{tes} p^{les}, fermée par une parenthèse ; aucun accent visible sur le a (contrôle p2)
+  confiance: moyenne
+difficultes:
+- ligne: 2
+  lemme: Gelé
+  analyse: après le point, grande boucle descendante (G) suivie de l et e accentué ; le e médian est absorbé dans la liaison ; sens assuré (Gelé dur)
+  alternatives:
+  - glé
+- ligne: 7
+  lemme: d'Albert
+  analyse: d en ∂ noyé d'encre, apostrophe nette ; Albert repassé et empâté, lettres a-l-b-e-r-t reconnaissables
+  alternatives: []
+- ligne: 11
+  lemme: où
+  analyse: o-u liés, trait d'accent posé à gauche au-dessus ; aspect d'un a accentué ; le sens impose où
+  alternatives:
+  - à
+- ligne: 12
+  lemme: sac
+  analyse: première lettre haute, oblique, sans boucle nette (s montant, b ou l possibles), puis a et c ; deux-points, 30 et c bas ; le sens (ferrure de sac ?) reste obscur
+  alternatives:
+  - bac
+  - lac
+- ligne: 17
+  lemme: '='
+  analyse: 'trait horizontal net sur la ligne de base après de ; au-dessus, court trait horizontal soudé au bas du jambage du p de promenade : soit second trait du signe =, soit crochet du jambage ; le sens (retour de même = à pied, cf. l. 15 retour id.) appuie ='
+  alternatives:
+  - –
+- ligne: 17
+  lemme: avec
+  analyse: a fermé suivi de quatre éléments (v, e, c, délié), à la différence de av l. 6 (a + v seulement)
+  alternatives:
+  - av
+- ligne: 18
+  lemme: Auto aux workshops
+  analyse: Auto sous que-sué ; aux (o-u-x en croix) sous bp ; workshops, fin repassée d'une encre violette plus vive ; aucun est lisible entre Auto et aux (seule la hampe du b de bp traverse)
+  alternatives:
+  - Auto est aux workshops
+- ligne: 19
+  lemme: indigène
+  analyse: accent non contrôlable, la zone étant traversée par l'encre de l'ajout workshops
+  alternatives:
+  - indigene
+- ligne: 22
+  lemme: a soie
+  analyse: a petit sans accent visible, juste sous le c de c^{tes} (un accent pourrait y être noyé) ; soie = s montant, o, i à point en chevron, e ; sens probable cartes postales brodées sur soie
+  alternatives:
+  - à soie
+  - à suie
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1150 caractères environ (LaTeX compris) ; OH 1917-I p. 74, 110-115, 131-132, 138 ; Becke 1938 p. 83 n. 14 ; Puckle 1917 p. 19-21 ; lieux complété (Contay, Warloy-Baillon, Senlis-le-Sec). L''identification des cavaliers à la Lucknow Cavalry Brigade et celle de Wentworth à l''officier australien arrivé le 6 mars restent des hypothèses. Les cartes « à soie » sont prises pour des cartes postales brodées, sans source. Aucune version p2 n''existait pour ces trois pages pendant mon travail : tout est rédigé d''après p1.'
+  alternatives: []
+controle:
+- ligne: 12
+  avant: ferrure sac
+  apres: ferrure \inc{sac}
+  justification: première lettre haute sans boucle nette, s montant non assuré (b, l possibles) ; sens obscur
+- ligne: 16
+  avant: Apres-midi
+  apres: apres-midi
+  justification: a initial au module et à la forme d'une minuscule, à la différence du A de « Au retour » (l. 9)
+- ligne: 22
+  avant: et à soie)
+  apres: et a soie)
+  justification: aucun accent visible sur le petit a au zoom ×3
+- ligne: 12
+  avant: notes de disposition [Blacksmith et « second etc. empâté »
+  apres: supprimées ; notes de lecture sac et d'abréviation 30 c ajoutées
+  justification: épuration de l'apparat (le crochet est rendu par le balisage) ; centimes non développés
+- ligne: 17
+  avant: notes de lecture, ajout et emprunt longues ou interprétatives
+  apres: notes abrégées ; identification de Wentworth donnée comme hypothèse ; lieux complété (Contay, Warloy-Baillon, Senlis-le-Sec)
+  justification: apparat imprimé bref ; suite à la remarque du commentateur historique
+remarques: La basilique d'Albert (Notre-Dame de Brebières) est celle de la Vierge penchée.
+resume: 'Vendredi 16 mars 1917 : nuit de gel ; courses à Mirvaux et Pierregot, puis, après un déjeuner pris tôt, voyage à Albert par Contay, Warloy et Senlis : maisons atteintes par les obus, basilique, troupes australiennes cantonnées. Au retour, long arrêt à Ribemont pour acheter du fourrage, où Hippolyte Combes retrouve des connaissances. Compte du forgeron d''Hérissart. Samedi 17 : belle journée printanière ; aller-retour à pied à Toutencourt le matin, promenade à pied à Puchevillers l''après-midi avec le Lt Wentworth ; l''auto est aux ateliers ; passage de cavalerie indigène et anglaise au trot. Achat de cartes postales, dont des cartes de soie, à Toutencourt.'
+noms:
+  personnes:
+  - forme: Wentworth
+    ligne: 17
+    identite: lieutenant Wentworth (peut-être l'officier australien arrivé le 6 mars ; non établi)
+  lieux:
+  - forme: Mirvaux
+    ligne: 4
+    identite: Mirvaux (Somme)
+  - forme: Pierregot
+    ligne: 4
+    identite: Pierregot (Somme)
+  - forme: Albert
+    ligne: 5
+    identite: Albert (Somme)
+  - forme: Contay
+    ligne: 6
+    identite: Contay (Somme)
+  - forme: Warloy
+    ligne: 6
+    identite: Warloy-Baillon (Somme)
+  - forme: Senlis
+    ligne: 6
+    identite: Senlis-le-Sec (Somme)
+  - forme: Ribemont
+    ligne: 9
+    identite: Ribemont-sur-Ancre (Somme)
+  - forme: Herissart
+    ligne: 12
+    identite: Hérissart (Somme)
+  - forme: Toutencourt
+    ligne: 15
+    identite: Toutencourt (Somme)
+  - forme: Puchevillers
+    ligne: 16
+    identite: Puchevillers (Somme)
+source: contrôle

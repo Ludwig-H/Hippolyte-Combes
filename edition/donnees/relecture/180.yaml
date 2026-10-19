@@ -1,0 +1,145 @@
+cliche: 180
+confiance: haute
+changements:
+- ligne: 1
+  avant: 14 Sam. \hfill — Avril 1917 —
+  apres: \sl{14 Sam.} \hfill — \sl{Avril 1917} —
+  justification: trait appuyé sous « 14 Sam. » ; trait oblique sous « Avril 1917 », tirets hors du soulignement
+  confiance: haute
+- ligne: 2
+  avant: Enfin, très belle journée. Température se réchauffe,
+  apres: \ind Enfin, très belle journée,
+  justification: la ligne s'arrête après « journée » suivi d'une virgule ; retrait sous la date
+  confiance: haute
+- ligne: 3
+  avant: soleil ardent.
+  apres: temperature se rechauffe, soleil ardent
+  justification: une seule ligne manuscrite ; t initial minuscule, aucun accent ; pas de point après ardent
+  confiance: haute
+- ligne: 6
+  avant: 15 Dim. — Pluie fine et tiède.
+  apres: \sl{15 Dim.} – Pluie fine et tiède
+  justification: date soulignée ; tiret court ; le e de tiède finit en long délié, sans point
+  confiance: haute
+- ligne: 8
+  avant: Matin & soir, repos complet.
+  apres: Matin & soir, repos absolu.
+  justification: a, b bouclé, s montant, o, l, u ; la haste qui recoupe la fin appartient au f de « froid » (l. 7)
+  confiance: haute
+- ligne: 9
+  avant: Resté plusieurs heures à office, à lire —
+  apres: Resté plusieurs heures à Office, à lire. —
+  justification: O majuscule nettement plus grand ; point après lire avant le tiret
+  confiance: haute
+- ligne: 10
+  avant: '[ Washing : 60 c. — ]'
+  apres: '\equerre{1}Washing : 60c. —'
+  justification: équerre autographe sur une ligne, sans crochet fermant ; 60c lié
+  confiance: haute
+- ligne: 11
+  avant: 16 Lundi.
+  apres: \sl{16 Lundi.}
+  justification: long trait appuyé sous la date
+  confiance: haute
+- ligne: 12
+  avant: Après-midi, course à Pierregot.
+  apres: \ind Après-midi, course à Pierregot
+  justification: retrait ; barre du t final prolongée, aucun point
+  confiance: haute
+- ligne: 14
+  avant: Passé soirée chez la famille Denis. Rentré
+  apres: Passé soirée chz la famille Denis. Rentré
+  justification: c-h + z plongeant, sans e
+  confiance: haute
+- ligne: 17
+  avant: 17 Mardi. — Temps toujours affreux. Averses
+  apres: \sl{17 Mardi.} \hfill Temps toujours affreux. Averses
+  justification: date soulignée ; pas de tiret avant « Temps »
+  confiance: haute
+- ligne: 18
+  avant: intermittentes. Après-midi, neige et grêle,
+  apres: intermittentes. Après-midi neige et grêle
+  justification: le tracé avant « neige » est le jambage du second f de « affreux » (l. 17) ; le signe recourbé haut après grêle est l'accent déporté, non une virgule
+  confiance: moyenne
+- ligne: 19
+  avant: tour à tour. Froid de plus en plus vif.
+  apres: tour à tour. Froid de plus en plus vif –
+  justification: le point en tête du f est le point du i déporté ; tiret court seul après vif
+  confiance: moyenne
+- ligne: 20
+  avant: C'est de nouveau l'hiver —
+  apres: \ind C'est de nouveau l'hiver \trait
+  justification: retrait ; le r final se prolonge en long délié sans levée de plume
+  confiance: haute
+- ligne: 22
+  avant: Fréchencourt & Rubempré.
+  apres: \ind Frechencourt & Rubempré
+  justification: retrait ; aucun accent sur le premier e ; pas de point final
+  confiance: moyenne
+difficultes:
+- ligne: 13
+  lemme: fortes
+  analyse: f, o, r, t, e ; finale en petite boucle refermée qui peut porter le s (accord avec « pluies », dont le s plonge en ʒ)
+  alternatives:
+  - forte
+- ligne: 16
+  lemme: ds
+  analyse: d en ∂ suivi d'un crochet montant sans boucle d'e (s final réduit)
+  alternatives:
+  - de
+- ligne: 17
+  lemme: Mardi
+  analyse: initiale au module des minuscules, mais avec le délié d'attaque montant des M de « Matin » (l. 4, 8, 21) ; M retenu par cohérence
+  alternatives:
+  - mardi
+- ligne: 18
+  lemme: grêle
+  analyse: petit signe recourbé au-dessus et à droite du mot, au niveau des hampes ; accent déporté plutôt que virgule
+  alternatives:
+  - grêle,
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: le résumé disait « repos complet » alors que la transcription porte « repos absolu » ; résumé corrigé. Références externes (Offenstadt 2004, renvois de folios) non vérifiables sur l'image, laissées hors de l'édition.
+  alternatives: []
+controle:
+- ligne: 18
+  avant: intermittentes. Après-midi neige et grêle,
+  apres: intermittentes. Après-midi neige et grêle
+  justification: le signe après grêle est haut, recourbé, au niveau des hampes (zoom x3) ; accent déporté, aucune virgule
+- ligne: 19
+  avant: tour à tour. Froid de plus en plus vif. –
+  apres: tour à tour. Froid de plus en plus vif –
+  justification: le seul point visible est en tête du f, point du i déporté ; aucun point sur la ligne de base avant le tiret
+- ligne: 22
+  avant: 'apparat graphie « Frechencourt » : Fréchencourt (Somme)'
+  apres: note supprimée
+  justification: accent absent seulement ; l'identification figure dans noms.lieux
+- ligne: 8
+  avant: 'apparat lecture : justification paléographique détaillée (jambage du f de froid)'
+  apres: note brève signalant la lecture nouvelle
+  justification: règle d'épuration de l'apparat
+- ligne: 0
+  avant: 'critique : « les quatre dernières lignes (journée du 17, depuis « C''est de nouveau ») d''un violet plus clair » ; résumé « repos complet »'
+  apres: 'critique : encre plus claire à partir de « l''hiver » (l. 20) ; résumé « repos absolu »'
+  justification: sur l'image « C'est de nouveau » est de la même encre que les lignes précédentes, l'éclaircissement commence à « l'hiver » ; résumé aligné sur la transcription
+remarques: Lieu de cantonnement (Hérissart) déduit des pages voisines ; non nommé sur la page.
+resume: 'Samedi 14 avril 1917, enfin une belle journée, chaude et ensoleillée ; Hippolyte Combes fait une course à Pierregot l''après-midi. Dimanche 15, pluie fine, averses et froid ; repos absolu et lecture au bureau ; blanchissage 60 c. Lundi 16, course à Pierregot, fortes pluies ; soirée chez la famille Denis et retour sous une pluie torrentielle dans la nuit noire. Mardi 17, averses, neige et grêle, froid croissant : « C''est de nouveau l''hiver » ; courses en auto à Fréchencourt et Rubempré.'
+noms:
+  personnes:
+  - forme: Denis
+    ligne: 14
+    identite: famille Denis, civils (hôtes) du cantonnement d'Hérissart
+  lieux:
+  - forme: Pierregot
+    ligne: 4
+    identite: Pierregot (Somme)
+  - forme: Pierregot
+    ligne: 12
+    identite: Pierregot (Somme)
+  - forme: Frechencourt
+    ligne: 22
+    identite: Fréchencourt (Somme)
+  - forme: Rubempré
+    ligne: 22
+    identite: Rubempré (Somme)
+source: contrôle

@@ -1,0 +1,107 @@
+cliche: 79
+confiance: haute
+changements:
+- ligne: 1
+  avant: véhicules
+  apres: vehicules
+  justification: aucun accent visible sur le e
+  confiance: haute
+- ligne: 2
+  avant: etc.
+  apres: etc .
+  justification: le point est détaché du c, après un intervalle
+  confiance: moyenne
+- ligne: 4
+  avant: off.
+  apres: offs
+  justification: pas de point ; après les deux f, un trait final (s réduit)
+  confiance: moyenne
+- ligne: 5
+  avant: —
+  apres: –
+  justification: trait court et isolé après tent
+  confiance: haute
+- ligne: 6
+  avant: Merc. 18
+  apres: merc-\sl{18}
+  justification: initiale minuscule, tiret court sans point entre merc et 18 ; trait de soulignement sous 18
+  confiance: haute
+- ligne: 6
+  avant: 40 c
+  apres: 40c
+  justification: c lié au 0, sans espace
+  confiance: moyenne
+- ligne: 6
+  avant: Oct /16
+  apres: \sl{Oct 16}
+  justification: 'pas de barre oblique : le trait horizontal est la barre du t prolongée ; date soulignée d''un trait épais'
+  confiance: haute
+- ligne: 7
+  avant: 84 fr. —
+  apres: 84 fr – —
+  justification: après fr, un trait court à mi-hauteur, non un point, puis un tiret long en massue
+  confiance: moyenne
+- ligne: 6
+  avant: '| Albert'
+  apres: \barre{2} (entre la date et Albert)
+  justification: trait vertical unique couvrant les deux lignes du compte
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: sur
+  analyse: zoom ×3 [.02 0 .22 .08] ſ long puis deux jambages terminés par un délié remontant (r réduit) ; lecture sur retenue, cohérente avec la fin de 078 (« au-delà route »)
+  alternatives:
+  - su
+- ligne: 2
+  lemme: ttes
+  analyse: zoom ×3 [.02 .07 .22 .14] deux t sous une barre commune, e, puis finale remontante (s réduit) ; accord avec sortes
+  alternatives:
+  - tte
+- ligne: 4
+  lemme: offs
+  analyse: zoom ×2 [.30 .30 .62 .38] deux hastes de f descendantes, petit crochet d'attaque à gauche (o absorbé), trait final montant (s en aspect 1)
+  alternatives:
+  - 'off'
+- ligne: 6
+  lemme: merc-
+  analyse: zoom ×3 [0 .84 .2 .95] m, e et r fondus (aspect « mac »), c ; le tiret se termine par un petit point avant 18 ; 18 octobre 1916 est bien un mercredi
+  alternatives: []
+- ligne: 6
+  lemme: ples
+  analyse: zoom ×2 [.30 .85 .65 .92] p à haste longue, l, e, finale en long délié, à la hauteur de la ligne ; pas de surélévation nette
+  alternatives:
+  - p^{les}
+- ligne: 6
+  lemme: Oct 16
+  analyse: zoom ×3 [.82 .86 .99 .97] o ouvert de grand module, c, t dont la barre court jusqu'au 1 ; position entre les l. 6 et 7, rattachée à la ligne de la date
+  alternatives:
+  - oct 16
+- ligne: 7
+  lemme: 84 fr
+  analyse: remarque du commentateur historique (solde de quinzaine, 16 × 5,25 F, et localisation du camp entre Bouzincourt et Hédauville) reprise prudemment dans « critique » et « lieux » ; rien sur l'image ne précise la nature du paiement
+  alternatives: []
+controle:
+- ligne: 0
+  avant: 'lieux : Camp près d''Albert (Somme)'
+  apres: 'lieux : Camp entre Bouzincourt et Hédauville, près d''Albert (Somme)'
+  justification: localisation précisée selon la remarque du commentateur historique (carnet f. 39 r°)
+- ligne: 7
+  avant: 'titre, résumé : versement de 84 fr à la Mission'
+  apres: 84 fr inscrits sous « mission frse », peut-être solde perçue
+  justification: rien n'indique un versement ; montant compatible avec une quinzaine de solde (hypothèse signalée dans « critique »)
+- ligne: 0
+  avant: apparat de 19 notes
+  apres: apparat de 17 notes
+  justification: 'épuration : supprimées les notes de disposition sur \sl{18} et de signe sur « – — » (rendues par la transcription) ; notes offs, merc-, Oct 16, frse réduites au développement'
+remarques: La fin de la page 078 (« au-delà route ») amène « sur l[aquelle] » en tête de page.
+resume: 'Suite du mercredi 18 octobre 1916. Depuis son camp près d''Albert, Hippolyte Combes observe sur la route, nuit et jour, un flot ininterrompu de véhicules, camions et caissons de munitions, aussi animé qu''une grande artère de capitale. Après le dîner, les officiers partis, il se retrouve enfin seul dans la tente du mess. Au pied de la page, le compte du 18 : cartes postales à Albert (40 c) et 84 francs inscrits sous « mission française » à Albert, sans doute la solde perçue.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Albert
+    ligne: 6
+    identite: Albert (Somme)
+  - forme: Albert
+    ligne: 7
+    identite: Albert (Somme)
+source: contrôle

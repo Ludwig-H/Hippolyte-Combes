@@ -1,0 +1,184 @@
+cliche: 164
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 8 Jeudi —
+  apres: \sl{8 Jeudi}
+  justification: Trait appuyé sous Jeudi prolongé à gauche sous le 8 ; aucun tiret après Jeudi.
+  confiance: haute
+- ligne: 2
+  avant: Nuit très froide. Gelé fort!
+  apres: Nuit tre froide. Gelé fort — \hfill \sl{Mars 1917} —
+  justification: très abrégé en t-r-e ; le point sous fort est le point d'i de « neige » (l. 3) ; le mois, souligné, est sur la ligne de « fort », précédé d'un tiret.
+  confiance: moyenne
+- ligne: 4
+  avant: Ciel
+  apres: ciel
+  justification: c initial minuscule.
+  confiance: moyenne
+- ligne: 7
+  avant: 2nd
+  apres: 2^{nd}
+  justification: nd suscrit au-dessus du 2.
+  confiance: haute
+- ligne: 9
+  avant: extrt sympathique
+  apres: \inc{est} sympathique
+  justification: Aucun r ; e + s montant bouclé + t barré.
+  confiance: moyenne
+- ligne: 10
+  avant: Mission fr.
+  apres: Mission fr^{se},
+  justification: Suscrit en ʒ à droite de fr, puis virgule à la ligne.
+  confiance: moyenne
+- ligne: 11
+  avant: logis..., m'a dit
+  apres: logis . – – , m'a dit
+  justification: Un point puis deux tirets courts, non trois points.
+  confiance: haute
+- ligne: 12
+  avant: av. mon cap. Hérissart j'à
+  apres: avec mon cap Hérissart j-à
+  justification: avec à quatre éléments sans point ; aucun point après cap ; trait d'union après j.
+  confiance: moyenne
+- ligne: 14
+  avant: Très agréable walk sur route très sèche. Temps
+  apres: Tre agréable walk sur route tre sèche, Temps
+  justification: très abrégé comme l. 2 ; virgule (trait vertical courbe) et non point avant Temps.
+  confiance: moyenne
+- ligne: 15
+  avant: mervt
+  apres: \inc{mervx}
+  justification: Finale formée de deux traits croisés, haute ; accord avec Temps.
+  confiance: moyenne
+- ligne: 15
+  avant: étoiles.
+  apres: étoiles
+  justification: Aucun point après le délié final.
+  confiance: moyenne
+- ligne: 16
+  avant: 9 Vendredi. — Nuit, moins
+  apres: \sl{9 Vendredi.} — Nuit, moins
+  justification: Long trait sous 9 Vendredi, recourbé au bout.
+  confiance: haute
+- ligne: 17
+  avant: Éveillé
+  apres: Eveillé
+  justification: Aucun accent sur E.
+  confiance: moyenne
+- ligne: 18
+  avant: Matinée, fait ts préparatifs départ.
+  apres: matinée, fait ts preparatifs départ —
+  justification: m minuscule ; pas d'accents sur preparatifs ; tiret après départ.
+  confiance: moyenne
+- ligne: 22
+  avant: tt pensif, tristesse, changement
+  apres: tt pensif tristesse, changement
+  justification: Aucune virgule entre pensif et tristesse.
+  confiance: moyenne
+- ligne: 23
+  avant: siton
+  apres: sit^{on}
+  justification: Finale suscrite (boucle + n réduit).
+  confiance: haute
+- ligne: 24
+  avant: '[ Après dinner, réglé comptes mess avec cap. Wms'
+  apres: \equerre{2}Après dinner, réglé comptes mess avec cap W^{m}
+  justification: Équerre (trait horizontal en tête, trait vertical à gauche sur deux lignes) ; m suscrit après W, aucun s ; pas de point après cap.
+  confiance: moyenne
+- ligne: 25
+  avant: 'jusqu''à ce soir : [18 f. ?] — ]'
+  apres: 'jusqu''à ce soir : \inc{18} f. —'
+  justification: Aucun crochet fermant ; montant gardé 18 avec réserve.
+  confiance: moyenne
+difficultes:
+- ligne: 6
+  lemme: Evar
+  analyse: E bouclé, petit v, a ouvert surmonté d'un trait haut (l. 6 seulement), finale r ou n prolongée ; même forme l. 8 sans le trait haut.
+  alternatives:
+  - Evan
+  - Eval
+- ligne: 6
+  lemme: en
+  analyse: Ovale ouvert (aspect a) puis petite bosse ; e à boucle ouverte + n réduit ; l'idiome « en cie de » est fréquent dans le journal.
+  alternatives:
+  - av
+  - au
+- ligne: 6
+  lemme: d'1
+  analyse: Après d, un seul trait vertical courbe sur la ligne, point au-dessus ; 1 avec apostrophe fondue dans le d.
+  alternatives:
+  - d'
+- ligne: 9
+  lemme: est
+  analyse: e bouclé, haute boucle montante (s), t à barre longue ; pas de grande croix.
+  alternatives:
+  - ext
+- ligne: 10
+  lemme: fr^{se}
+  analyse: f à drapeau de tête, petit r en 2 au-dessous du drapeau, suscrit en ʒ à droite, virgule à la ligne ; cf. 163 « Mission f^{se} ».
+  alternatives:
+  - fr^{e}
+  - F^{se}
+- ligne: 15
+  lemme: mervx
+  analyse: 'm-e-r-v puis haste haute recoupée par un trait montant et un délié long vers la droite. Contrôle p2 : croix nette, lecture retenue sans réserve.'
+  alternatives:
+  - merv^{t}
+- ligne: 22
+  lemme: pensif tristesse
+  analyse: 'pensif : p, e, n, s, i à point en ^, f long, délié ; tristesse : t bouclé, r, i, s montant, t-e, ss réduits, e prolongé, barre de t décalée à droite.'
+  alternatives:
+  - pensif triste
+- ligne: 25
+  lemme: '18'
+  analyse: 1 à long trait d'attaque ; puis boucle basse fermée et haste remontante qui redescend (petite boucle haute ouverte = 8, ou 6 en d). Le chiffre a la forme « d » (boucle basse, haste à droite), que le guide donne aussi au 4 fermé.
+  alternatives:
+  - '16'
+  - '14'
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1067 caractères ; sources principales : OH 1917-I p. 74 (le I Anzac Corps rattaché à la Fifth Army le 15 févr.), LLT (QG de Toutencourt), Fernand-Laurent 1917 p. 27 (dépôt des interprètes) ; seule la lecture p1 existe. « Evar » (ou Evan), « R.2 » et le montant du mess (18 ou 16 f) restent incertains, et le nom du maréchal des logis est laissé en blanc dans le carnet. Je n''ai pas ajouté de clé lieux.'
+  alternatives: []
+- ligne: 7
+  lemme: R.2
+  analyse: R à haste et jambe, 2 bouclé ; aucun point net entre R et 2 (un point isolé avant R). Gardé tel quel.
+  alternatives:
+  - R2
+controle:
+- ligne: 15
+  avant: \inc{mervx}
+  apres: mervx
+  justification: 'Zoom ×3 : haste haute recoupée par un trait descendant à droite (x), long délié ; aucun t. Réserve levée.'
+- ligne: 25
+  avant: 'apparat : 18 ou 16'
+  apres: 'apparat : 18 ; 14 ou 16 possibles'
+  justification: 'Le second chiffre a l''aspect d (boucle basse, haste à droite) : 4 fermé aussi plausible que 6 ; \inc maintenu.'
+- ligne: 0
+  avant: apparat chargé de justifications paléographiques (3^{H} s., fr^{se})
+  apres: notes réduites au développement
+  justification: Épure de l'apparat imprimé.
+remarques: 'Ligne 21 : « office » d''une encre plus pâle (plume moins chargée).'
+resume: 'Jeudi 8 mars 1917 à Hérissart : nuit très froide, neige à gros flocons le matin. Vers 3 h, l''interprète Evar revient avec un autre interprète, Valet, de la 2e division australienne, puis repart pour Albert en camion avec son paquetage. À la Mission française de Toutencourt, un maréchal des logis lui dit de rester avec son capitaine à Hérissart jusqu''au départ de celui-ci, puis de se rendre au dépôt de Toutencourt. Vendredi 9 : neige toute la journée, préparatifs de départ, tristesse et incertitude sur la nouvelle affectation ; le soir, règlement des comptes de mess avec le capitaine Williams.'
+noms:
+  personnes:
+  - forme: Evar
+    ligne: 6
+    identite: interprète français (lecture réservée)
+  - forme: Valet
+    ligne: 7
+    identite: interprète français de la 2e division australienne
+  - forme: cap W^{m}
+    ligne: 24
+    identite: capitaine Williams
+  lieux:
+  - forme: Albert
+    ligne: 8
+    identite: Albert (Somme)
+  - forme: Toutencourt
+    ligne: 11
+    identite: Toutencourt (Somme), Mission française
+  - forme: Hérissart
+    ligne: 12
+    identite: Hérissart (Somme)
+source: contrôle

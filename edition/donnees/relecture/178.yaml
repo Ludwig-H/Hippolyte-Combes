@@ -1,0 +1,172 @@
+cliche: 178
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Pâques — 8 — \hfill Avril 1917
+  apres: \sl{Paque – 8 –} \hfill \sl{Avril 1917}
+  justification: P-a-q-u-e sans accent ni s ; tirets courts ; soulignements des deux éléments (le trait de gauche finit en crosse remontante, non une parenthèse)
+  confiance: haute
+- ligne: 2
+  avant: Matinée et 1/2 après-midi, temps mervt beau.
+  apres: Matinée et \fr{1}{2} aprè-midi, temps \inc{merveillt} beau
+  justification: fraction empilée ; a-p-r-e accentué sans s ; mot long après temps (plus de minimes que mervt, double boucle avant le t barré) ; pas de point final
+  confiance: moyenne
+- ligne: 3
+  avant: Ciel d'1 bleu foncé. Arbres détachaient branches
+  apres: ciel d'1 bleu foncé. arbres detachaint branches
+  justification: 'c et a initiaux minuscules ; d-e-t sans accent ; après h : a, i pointé, n, t, aucun e'
+  confiance: haute
+- ligne: 5
+  avant: Chaleur assez forte.
+  apres: Chaleur \inc{assez} forte
+  justification: mot comprimé, pas de point final
+  confiance: moyenne
+- ligne: 6
+  avant: Matinée, à Toutencourt, chez notaire Bienaimé.
+  apres: Matinée, à Toutencourt, chz notaire Bienaimé
+  justification: c-h-z plongeant ; pas de point final
+  confiance: haute
+- ligne: 7
+  avant: Après-midi, à Harponville & Rubempré — Beauquesne.
+  apres: aprè-midi, à Harponville & Rubempre — \addm{Beauquesne}
+  justification: a minuscule, sans s ; aucun accent sur Rubempre ; Beauquesne ajouté d'une autre encre
+  confiance: moyenne
+- ligne: 8
+  avant: Rentrés 5h s. Alors ciel couvert, gros nuages.
+  apres: Rentré 5^{H}\fr{1}{2} s. alors ciel couvert, gros nuages
+  justification: r-e accentué sans s ; H suscrit à deux hastes puis demi empilé (aspect 3) avant le s. réduit à un 1 ; alors à a minuscule
+  confiance: haute
+- ligne: 11
+  avant: Promené 1 peu rues village abst désertes & mortes.
+  apres: Promené 1 peu rues village abt desertes & mort
+  justification: a-b-t barré, sans s ; aucun accent sur desertes ; m-o-r-t seul formé, barre du t prolongée sans lettre (contrôle p2)
+  confiance: moyenne
+- ligne: 12
+  avant: 9 Lundi. — Temps très mauvais & froid vif.
+  apres: \sl{9 Lundi} – Temps très mauvais & froid vif
+  justification: soulignement sous 9 Lundi ; pas de point après Lundi (point de l'i) ; tiret court ; pas de point final
+  confiance: haute
+- ligne: 13
+  avant: Gdes averses, grêle et grésil. Rafales violentes.
+  apres: gdes averses, grêle et grésil. Rafales violentes
+  justification: g minuscule à boucle ; pas de point final
+  confiance: haute
+- ligne: 14
+  avant: 'Courses matin & soir : Pierregot & Belle-Église.'
+  apres: 'Courses matin & soir : Pierregot & Belle-Eglise'
+  justification: E sans accent ; le point en haut à droite est celui de l'i
+  confiance: haute
+- ligne: 15
+  avant: Routes état lamentable. Auto rebondissait à cause
+  apres: Routes etat lamentable. Auto rebondissant à cause
+  justification: etat sans accent ; finale -ssa + deux jambages + t barré, sans point d'i (\inc levé en p2)
+  confiance: moyenne
+- ligne: 17
+  avant: 10 Mardi. — Matinée orage, neige fine
+  apres: 10 \sl{Mardi}. matinée orage, neige fine
+  justification: soulignement sous Mardi seul ; point bas ; m minuscule ; aucun tiret
+  confiance: haute
+- ligne: 18
+  avant: tombée abondante. Giboulées et rafales.
+  apres: tombée abondante. Giboulees et rafales
+  justification: aucun accent net sur Giboulees ; pas de point final
+  confiance: moyenne
+- ligne: 19
+  avant: Éclaircies de soleil sans durée.
+  apres: Eclaircies de soleil sans durée
+  justification: E sans accent ; pas de point
+  confiance: haute
+- ligne: 20
+  avant: Courses après-midi à Fréchencourt & Contay.
+  apres: Courses aprè-midi à Frechencourt & Contay
+  justification: aprè sans s ; Frechencourt sans accent
+  confiance: haute
+- ligne: 21
+  avant: Temps très mauvais. Froid vif. C'est de
+  apres: Temps très mauvais. Froid vif. Cest de
+  justification: aucune apostrophe entre C et e (la boucle intérieure est la tête du C)
+  confiance: moyenne
+- ligne: 22
+  avant: nouveau l'hiver, hélas!
+  apres: nouveau l'hiver, helas !
+  justification: h-e-l-a-s sans accent ; point d'exclamation détaché
+  confiance: haute
+difficultes:
+- ligne: 2
+  lemme: merveillt
+  analyse: 'zoom ×3 [.55 .055 .80 .105] : m (3 jambages), e, r, v, e, puis un tracé à boucle (d ou l) et un t à longue barre ; plus long que mervt (060, 149) ; le détail entre v et t reste indécis'
+  alternatives:
+  - mervt
+  - merveilt
+- ligne: 5
+  lemme: assez
+  analyse: 'zoom ×3 [.05 .16 .30 .215] : a à attaque haute, s long descendant sous la ligne, e surmonté d''un trait (accent ou liaison), finale brève en crochet'
+  alternatives:
+  - assz
+- ligne: 11
+  lemme: mort
+  analyse: 'zoom ×3 [.80 .33 1.0 .39] : m-o-r-t net ; la barre du t se prolonge à droite sans lettre distincte ni boucle de s ; « mortes » attendu par l''accord, d''où la note'
+  alternatives:
+  - mortes
+- ligne: 15
+  lemme: rebondissant
+  analyse: 'zoom ×3 [.55 .53 1.0 .59] : r initial à grande boucle (aspect L), e, b, o, n, d, i, ss, a, deux jambages, t barré ; aucun point d''i après a ; le point en haut à droite appartient à Eglise (l. 14)'
+  alternatives:
+  - rebondissait
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Beauquesne : ajout d''une autre encre, confirmé (balisé \addm, noté dans l''apparat et la critique). Belle-Église : ferme ou lieu-dit, commune non établie (Arquèves ? Bertrancourt ?) ; identité laissée prudente dans noms. Famille Denis non identifiée.'
+  alternatives: []
+controle:
+- ligne: 11
+  avant: '& \inc{mortes}'
+  apres: '& mort'
+  justification: seul m-o-r-t est tracé ; la barre prolongée du t n'est pas une finale ; transcrire l'image et renvoyer « mortes » à l'apparat
+- ligne: 15
+  avant: Auto \inc{rebondissant}
+  apres: Auto rebondissant
+  justification: a + deux jambages + t barré, aucun point d'i ; lecture tenue, la note de lecture suffit
+- ligne: 0
+  avant: apparat de 18 notes
+  apres: apparat de 15 notes
+  justification: supprimé les notes Bienaimé (autre, renvoyé à noms), Frechencourt et Cest (accent ou apostrophe absents), et la crosse du soulignement l. 1 ; notes raccourcies, analyses lettre à lettre renvoyées à difficultes
+- ligne: 0
+  avant: critique avec mention des blancs
+  apres: critique limitée à l'encre et à l'ajout
+  justification: les blancs sont rendus par le balisage
+remarques: 'Village non nommé l. 11 : Hérissart, cantonnement d''Hippolyte Combes à cette date.'
+resume: 'Le jour de Pâques, 8 avril 1917, beau temps et chaleur ; le matin Hippolyte Combes va chez le notaire Bienaimé à Toutencourt, l''après-midi à Harponville, Rubempré et Beauquesne. Rentré à 5 h 30, il visite la famille Denis et se promène dans les rues désertes du village. Le 9, mauvais temps, grêle et grésil ; courses à Pierregot et Belle-Église sur des routes défoncées. Le 10, orage et neige, giboulées ; courses à Fréchencourt et Contay : retour de l''hiver.'
+noms:
+  personnes:
+  - forme: Bienaimé
+    ligne: 6
+    identite: Me Bienaimé, notaire à Toutencourt
+  - forme: Denis
+    ligne: 9
+    identite: famille Denis, d'Hérissart (non identifiée)
+  lieux:
+  - forme: Toutencourt
+    ligne: 6
+    identite: Toutencourt (Somme)
+  - forme: Harponville
+    ligne: 7
+    identite: Harponville (Somme)
+  - forme: Rubempre
+    ligne: 7
+    identite: Rubempré (Somme)
+  - forme: Beauquesne
+    ligne: 7
+    identite: Beauquesne (Somme)
+  - forme: Pierregot
+    ligne: 14
+    identite: Pierregot (Somme)
+  - forme: Belle-Eglise
+    ligne: 14
+    identite: Belle-Église (ferme ou lieu-dit de la Somme, commune non établie)
+  - forme: Frechencourt
+    ligne: 20
+    identite: Fréchencourt (Somme)
+  - forme: Contay
+    ligne: 20
+    identite: Contay (Somme)
+source: contrôle

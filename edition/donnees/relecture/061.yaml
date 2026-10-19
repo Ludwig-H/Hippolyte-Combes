@@ -1,0 +1,106 @@
+cliche: 61
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 3 Ma \hfill Octbre 1916
+  apres: \sl{3 Ma} \hfill \sl{Oct^{bre} 1916}
+  justification: Les deux éléments de la date sont soulignés ; finale -bre suscrite en ondulation au-dessus du t.
+  confiance: haute
+- ligne: 3
+  avant: 'tunique : 38 f'
+  apres: tunique — 38^{f}
+  justification: Un tiret long, non un deux-points, précède le montant ; f monétaire suscrit à droite du 8.
+  confiance: haute
+- ligne: 4
+  avant: 'Mlle Guilhem : 90 f –'
+  apres: 'Mlle Guilh : 90^{f} –'
+  justification: 'Après le h bouclé, aucune lettre distincte : un long délié horizontal va jusqu''au deux-points ; f monétaire tracé haut, en croix.'
+  confiance: moyenne
+- ligne: 5
+  avant: (Juillet [1916 ajouté sous la ligne] — Janvier 1917)
+  apres: (Juillet \add{1916} – Janvier 1917)
+  justification: Le signe précédant 1916 est la boucle inférieure du J de Juillet ; tiret court lié entre Juillet et Janvier.
+  confiance: haute
+- ligne: 6
+  avant: '— Cie [?] Française : 20 cm doublure satin : 60 c'
+  apres: '– Cie Française : 20 cm doublure satin : 60c'
+  justification: C + i pointé + e lisibles ; tiret court ; c collé au 60, un peu sous la ligne.
+  confiance: moyenne
+- ligne: 7
+  avant: 1f 10
+  apres: 1^{f} 10
+  justification: f monétaire nettement surélevé au-dessus du 1.
+  confiance: haute
+- ligne: 8
+  avant: Délicieux ds la propriété
+  apres: Delicieux ds la proprieté
+  justification: Aucun accent sur le e de Delicieux ni sur le premier e de propriete (le trait au-dessus de -et- est la barre du t prolongée avec le point du i) ; court accent détaché, décalé au-dessus de la liaison vers « de », pour le e final.
+  confiance: moyenne
+- ligne: 10
+  avant: Simplicité
+  apres: Simplicite
+  justification: Aucun accent visible sur le e final ; le seul point est celui du second i.
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: Ma
+  analyse: 'M à délié d''attaque et deux jambages, puis un second groupe en arches terminé par un crochet remontant : a ouvert plutôt que m ; le 3 octobre 1916 est un mardi. Le trait de soulignement, double et arqué, commence sous la queue du 3.'
+  alternatives:
+  - Mar
+- ligne: 4
+  lemme: Mlle
+  analyse: 'M, une haute boucle de l (un second l peut être fondu dans la même boucle), puis petit e et délié : la forme abrégée Mle n''est pas exclue ; le développement est le même.'
+  alternatives:
+  - Mle
+- ligne: 4
+  lemme: Guilh
+  analyse: 'G en J, u, i, l, h bouclé, puis long délié horizontal sans minimes distinctes jusqu''au deux-points : -em absorbé dans le délié.'
+  alternatives:
+  - Guilhem
+- ligne: 6
+  lemme: Française
+  analyse: haste droite (F réduit) avec point à droite, minimes r-a-n, ç à boucle plongeante sous la ligne, puis a-i (point décalé en tiret) et finale -se écrasée ; lecture conforme au contexte commercial.
+  alternatives:
+  - Franç^{se}
+- ligne: 8
+  lemme: proprieté
+  analyse: 'p-r-o-p-r-i-e-t, barre de t prolongée (avec le point du i), petit e final, puis court tiret isolé à hauteur d''accent avant le d de « de » : accent décalé du é final plutôt que liaison.'
+  alternatives:
+  - propriete
+  - propriété
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: Guiraud, la « Cie Française » et Mme de Labarthe ne sont pas identifiés. La propriété près de Castanet repose sur la lecture « Castanet » de 060, peu sûre ; rien sur cette page ne nomme le lieu.
+  alternatives: []
+controle:
+- ligne: 8
+  avant: propriete
+  apres: proprieté
+  justification: 'Zoom ×3 [.35 .32 .75 .37] : court tiret isolé à hauteur d''accent après le e final, distinct de la barre du t et de la hampe du d ; accent décalé à droite selon l''habitude du scripteur.'
+- ligne: 1
+  avant: 'apparat Oct^{bre} : octobre ; finale suscrite réduite à une ondulation'
+  apres: 'apparat Oct^{bre} : octobre'
+  justification: Épuration de l'apparat imprimé (description du tracé renvoyée aux changements).
+- ligne: 4
+  avant: 'apparat Guilh : Guilhem ; la finale se réduit à un long délié horizontal'
+  apres: 'apparat Guilh : Guilhem'
+  justification: Épuration de l'apparat imprimé.
+- ligne: 6
+  avant: 'apparat Française : F à tête réduite, ç plongeant, finale -aise écrasée'
+  apres: 'apparat Française : F réduit à une haste, ç plongeant ; Franç^{se} possible'
+  justification: Note de lecture ramenée au trait décisif et à l'autre lecture possible ; lecture vérifiée au zoom ×3 [.03 .21 .45 .275].
+remarques: Commerce « Cie Française » non identifié ; la page suivante (062) ouvre le mercredi 4 octobre.
+resume: Le 3 octobre 1916, à Toulouse, Hippolyte Combes règle le tailleur Guiraud pour la façon et les fournitures d'une tunique (38 f) et paie à Mlle Guilhem le semestre de juillet 1916 à janvier 1917 (90 f). Il achète 20 cm de doublure de satin à la Compagnie Française et des fleurs. Il note ensuite le charme de la propriété de Mme de Labarthe, qui leur a fait visiter sa maison avec simplicité et abandon.
+noms:
+  personnes:
+  - forme: Guiraud
+    ligne: 2
+    identite: tailleur à Toulouse
+  - forme: Mlle Guilh
+    ligne: 4
+    identite: Mlle Guilhem, logeuse d'Hippolyte Combes à Toulouse
+  - forme: Mme de Labarthe
+    ligne: 8
+    identite: Mme de Labarthe, relation toulousaine
+  lieux: []
+source: contrôle

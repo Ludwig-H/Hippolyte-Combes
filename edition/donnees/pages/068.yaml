@@ -1,0 +1,120 @@
+cliche: 68
+fichier: 20251126_103828.jpg
+date: Samedi 7 octobre 1916
+mois: Octobre 1916
+lieux: Barlette (Ribeaucourt, Somme)
+titre: Nuit de tempête ; installation dans un ancien salon à Barlette ; part du mess de septembre
+transcription: |
+  \sl{Sam. 7.} \hfill \sl{Oct^{bre} 1916}
+  \ind Bonne nuit de repos s/ lit improvisé.
+  Levé vers 6^{h} \fr{1}{2} et commencé à m'installer. \inc{Ouvert} sacs
+  Durant nuit, averses torrentielles et rafales.
+  Les arbres et les arbustes, en face maison,
+  tourmentées par le vent, bruissaient plaintivt
+  . On se serait cru près de la mer.
+  \ind Tout le jour, pluie et bourrasques
+  ciel couvert de gros nuages – –
+  \ind Me plais bp ds mon billet. Ai très
+  g^{de} chambre, haute de plafond. C'etait le
+  salon — vieille gd-mère, extt sympathique
+  Devant maison, pâture av pommiers
+  chargé de fruit Au delà, gd bois. –
+  \blanc{4}
+  \filet
+  Au Cap. Pant payé ma part depenses
+  mess en sept, pour – – jours : 29^{f} —
+apparat:
+- ligne: 1
+  lemme: Sam.
+  type: abreviation
+  note: samedi
+- ligne: 1
+  lemme: Oct^{bre}
+  type: abreviation
+  note: octobre
+- ligne: 2
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 3
+  lemme: 6^{h} \fr{1}{2}
+  type: abreviation
+  note: six heures et demie
+- ligne: 3
+  lemme: \inc{Ouvert}
+  type: lecture
+  note: aucun t visible, un trait suscrit en tient lieu ; « Ouvré » possible
+- ligne: 6
+  lemme: tourmentées
+  type: lecture
+  note: deux e avant le s final (accord fautif) ; lu auparavant « tourmentés »
+- ligne: 6
+  lemme: plaintivt
+  type: abreviation
+  note: plaintivement
+- ligne: 10
+  lemme: bp
+  type: abreviation
+  note: beaucoup
+- ligne: 10
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 10
+  lemme: billet
+  type: emprunt
+  note: angl. billet, logement chez l'habitant (cantonnement)
+- ligne: 11
+  lemme: g^{de}
+  type: abreviation
+  note: grande
+- ligne: 12
+  lemme: gd-mère
+  type: abreviation
+  note: grand-mère
+- ligne: 12
+  lemme: extt
+  type: abreviation
+  note: extrêmement
+- ligne: 13
+  lemme: av
+  type: abreviation
+  note: avec
+- ligne: 14
+  lemme: chargé
+  type: lecture
+  note: sans s ; lu auparavant « chargés »
+- ligne: 14
+  lemme: gd
+  type: abreviation
+  note: grands
+- ligne: 15
+  lemme: Cap.
+  type: abreviation
+  note: capitaine
+- ligne: 15
+  lemme: Pant
+  type: abreviation
+  note: Panton ; le t se prolonge en un long délié plongeant ; lu auparavant « Panton »
+- ligne: 16
+  lemme: mess
+  type: emprunt
+  note: table commune des officiers, popote
+- ligne: 16
+  lemme: sept
+  type: abreviation
+  note: septembre
+- ligne: 16
+  lemme: – –
+  type: signe
+  note: tirets autographes ; le nombre de jours n'est pas porté
+- ligne: 16
+  lemme: 29^{f}
+  type: abreviation
+  note: francs
+critique: Le compte des dépenses de mess est rejeté au bas de la page, sous un filet, après un blanc ; le nombre de jours, laissé en blanc, n'a jamais été complété.
+historique: |
+  La tempête de la nuit du 6 au 7 octobre et les bourrasques du jour accompagnent l'attaque de la Fourth Army sur les crêtes du Transloy, où la 23rd Division prend Le Sars le 7 : le vent d'ouest était si fort que les avions du Royal Flying Corps devaient virer face au vent pour observer (Jones 1928, p.~300--301). La « vieille gd-mère » dont l'ancien salon sert de \textit{billet} est sans doute la logeuse laissée sans nom au f.~34 r\textsuperscript{o}. Le capitaine à qui Combes règle le mess n'est pas identifié : le carnet porte « Pant » suivi d'une finale peu lisible, comme au f.~24 r\textsuperscript{o}, et aucun officier de l'A.S.C. nommé Panton ne figure dans les dossiers d'officiers des Archives nationales britanniques (TNA, WO 339 et WO 374) ; il pourrait tenir les comptes du mess. Admis au mess des officiers de la compagnie le 12 septembre (f.~21 v\textsuperscript{o}), parti en permission le 25 (f.~25 v\textsuperscript{o}), Combes y a pris ses repas une quinzaine de jours : 29~F font environ 2~F par jour, contre 47~F~70 pour octobre (f.~46 r\textsuperscript{o}) (calcul).
+sources:
+- Jones, H. A., The War in the Air, vol. II, Oxford, Clarendon Press, 1928, p. 300-301.
+- The National Archives (Kew), Discovery, dossiers d'officiers WO 339 et WO 374, recherche « Panton » et « Army Service Corps ».

@@ -1,0 +1,402 @@
+# Définition des cartes (projection Lambert-93). Emprise : [lon_min, lat_min, lon_max, lat_max] en degrés.
+# lieux : lieux attestés par le carnet (rang 1 = séjour principal, 2 = étape ou lieu fréquenté, 3 = lieu cité) ;
+#         « date » s'imprime sous le nom ; dx/dy = décalage de l'étiquette en mm ; ha = alignement (left/right/center).
+# contexte : repères sans lien direct avec le carnet (localités du front, villes), en gris.
+# fronts : lignes de donnees/fronts.yaml ; zone_allemande : front à l'est duquel la zone tenue par l'armée allemande est hachurée.
+cartes:
+
+- id: generale_france
+  surtitre: Juillet 1916 – avril 1917
+  titre: Les lieux du Livre-Journal
+  relief: national
+  pays: true
+  emprise: [-2.2, 42.6, 6.4, 51.3]
+  taille_mm: [141, 196]
+  legende_mm: 22
+  echelle_km: 200
+  couches_eau: [ne_fleuves_france.geojson]
+  cours_deau: [Seine, Loire, Garonne, Tarn, Rhône, Somme, Allier, Dordogne, Lot, Marne, Oise, Yonne, Aude, Hérault, Orb, Aveyron, Escaut, Schelde, Lys]
+  noms_cours_deau: [Seine, Loire, Garonne, Tarn, Rhône, Allier, Dordogne, Somme]
+  pos_cours_deau:
+    Somme: [1.85, 50.08]
+    Seine: [1.35, 49.30]
+    Loire: [0.55, 47.38]
+    Allier: [3.30, 46.55]
+    Garonne: [0.35, 44.40]
+    Dordogne: [0.60, 44.85]
+    Tarn: [2.15, 43.92]
+    Rhône: [4.75, 44.60]
+  taille_eau: 6.0
+  fronts:
+  - {id: flandre_artois_1916, epaisseur: 1.2}
+  - {id: artois_somme_1916_11, epaisseur: 1.2}
+  lieux:
+  - {id: '75056', rang: 1, etiquette: Paris}
+  - {id: '80021', rang: 2, ha: right, va: top, dy: -0.6}
+  - {id: '80003', rang: 1, etiquette: Acheux}
+  - {id: '59535', rang: 2, etiquette: Saint-Jans-Cappel, ha: right}
+  - {id: '31555', rang: 1, ha: right}
+  - {id: '12145', rang: 1}
+  - {id: '11069', rang: 3, va: top, dy: -0.8}
+  - {id: '34032', rang: 3, va: top, dy: -0.6}
+  - {id: '34028', rang: 3, ha: right}
+  - {id: '15187', rang: 3, ha: right}
+  - {id: '43040', rang: 3}
+  - {id: '63113', rang: 3, ha: right}
+  - {id: '03118', rang: 3}
+  - {id: '45155', rang: 3, ha: right}
+  - {id: '45208', rang: 3}
+  textes:
+  - {pos: [-0.8, 46.2], texte: 'Océan Atlantique', taille: 7, couleur: '#6f8796'}
+  - {pos: [4.6, 42.9], texte: 'Mer Méditerranée', taille: 7, couleur: '#6f8796'}
+  - {pos: [4.5, 50.6], texte: 'BELGIQUE', taille: 6.5, style: normal}
+  - {pos: [6.55, 49.65], texte: 'ALLEMAGNE', taille: 6.5, style: normal}
+  - {pos: [2.3, 47.0], texte: 'FRANCE', taille: 9, style: normal, couleur: '#8a8a8a'}
+  legende:
+  - {type: point, texte: 'Lieux de séjour ; cercles : étapes et lieux cités ; frontières actuelles'}
+  - {type: ligne, texte: 'Front occidental à la fin de 1916 (tracé schématique, de Flandre à la Somme)', epaisseur: 1.2}
+  sources: "Fond : relief ombré Natural Earth (Gray Earth, domaine public), fleuves et frontières Natural Earth 1:10 m ; projection Lambert-93."
+
+- id: generale_nord
+  surtitre: De la Flandre à la Somme
+  titre: Le théâtre britannique du carnet
+  emprise: [1.95, 49.85, 3.05, 50.92]
+  taille_mm: [141, 196]
+  legende_mm: 30
+  echelle_km: 20
+  exageration: 6
+  frontiere: true
+  cours_deau: [Somme, Ancre, Hallue, Authie, Lys, Ternoise, Canche, Scarpe, Escaut, Deûle, Lawe, Clarence, Nièvre, Yser]
+  noms_cours_deau: [Somme, Ancre, Authie, Lys, Ternoise, Canche, Scarpe]
+  pos_cours_deau:
+    Canche: [2.15, 50.36]
+    Authie: [2.18, 50.25]
+    Somme: [2.10, 49.98]
+    Ancre: [2.63, 50.03]
+  zone_allemande: front_ouest_1916_11
+  fronts:
+  - {id: flandre_artois_1916, epaisseur: 1.4, etiquette: 'front de 1916', etiquette_pos: [2.97, 50.60], rotation: 70}
+  - {id: artois_somme_1916_11, epaisseur: 1.4}
+  - {id: hindenburg_1917, epaisseur: 1.1, etiquette: 'ligne Hindenburg (mars 1917)', etiquette_pos: [2.84, 50.27], ha: right}
+  contexte:
+  - {id: ypres, etiquette: Ypres}
+  - {id: Armentières}
+  - {id: Arras}
+  - {id: Bapaume}
+  - {id: Béthune, ha: right, dx: -0.9}
+  - {id: Saint-Omer, ha: right, dx: -0.9}
+  lieux:
+  - {id: '59366', rang: 1, ha: right, date: '25–28 juil.'}
+  - {id: '59295', rang: 3}
+  - {id: '59535', rang: 1, etiquette: Saint-Jans-Cappel, ha: right, date: '28 juil. – 4 août'}
+  - {id: croix_du_bac, rang: 1, date: '5–25 août'}
+  - {id: '62767', rang: 2, etiquette: Saint-Pol, ha: right}
+  - {id: '62558', rang: 1, date: '25 août – 8 sept.'}
+  - {id: '80495', rang: 3}
+  - {id: '80659', rang: 2, ha: right, date: '11–23 sept.', va: top, dx: -1.1, dy: -0.3}
+  - {id: '80671', rang: 2, ha: right, date: 'oct.'}
+  - {id: '80016', rang: 1, date: '19 oct. – 1er nov.', va: top, dy: -0.8}
+  - {id: '80003', rang: 1, etiquette: Acheux, date: 'nov. 1916 – févr. 1917', ha: left, va: bottom, dx: 0.4, dy: 1.4}
+  - {id: '80431', rang: 1, ha: right, date: 'févr. – avr. 1917', va: top, dy: -0.8}
+  - {id: '80253', rang: 3, ha: right, dx: -1.1}
+  - {id: '80021', rang: 2}
+  legende:
+  - {type: point, texte: "Principaux cantonnements d'Hippolyte Combes (repère du bourg) et dates de séjour"}
+  - {type: ligne, texte: "Front de Flandre et d'Artois en 1916, front de la Somme au 18 novembre 1916 (tracés schématiques)", epaisseur: 1.4}
+  - {type: ligne, texte: "Ligne Hindenburg, sur laquelle l'armée allemande se replie en mars 1917", epaisseur: 1.1, couleur: '#4a4a4a', dashes: [4, 2]}
+
+- id: I
+  titre_imprime: false
+  surtitre: Chapitre I — 25 juillet – 12 août 1916
+  titre: De la Flandre intérieure à la Lys
+  emprise: [2.30, 50.62, 2.98, 50.81]
+  taille_mm: [141, 122]
+  legende_mm: 26
+  echelle_km: 5
+  exageration: 8
+  frontiere: true
+  nord_pos: [0.05, 0.90]
+  cours_deau: [Lys, Becque de Steenwerck, Méteren Becque, Bourre, Deûle]
+  noms_cours_deau: [Lys]
+  pos_cours_deau:
+    Lys: [2.62, 50.635]
+  zone_allemande: front_ouest_1916_11
+  fronts:
+  - {id: flandre_artois_1916, epaisseur: 1.5, etiquette: 'front (été 1916)', etiquette_pos: [2.952, 50.700], rotation: 75}
+  contexte:
+  - {id: Armentières}
+  - {id: kemmel, etiquette: Kemmel}
+  - {id: Nieppe}
+  - {id: Estaires, ha: right, dx: -0.9}
+  lieux:
+  - {id: '59366', rang: 1, date: '25–28 juil.', ha: right}
+  - {id: '59568', rang: 3, etiquette: 'Sercus ?', va: top, dy: -0.8}
+  - {id: '59497', rang: 3, ha: right}
+  - {id: '59295', rang: 2, va: top, dy: -0.6}
+  - {id: '59535', rang: 1, etiquette: Saint-Jans-Cappel, date: '28 juil. – 4 août', ha: right, va: bottom, dx: -1.3, dy: 0.4}
+  - {id: mont_noir, rang: 3, ha: left, va: bottom, dx: 1.2, dy: 0.6}
+  - {id: '59043', rang: 2, ha: left, va: top, dy: -0.3}
+  - {id: '59581', rang: 3}
+  - {id: croix_du_bac, rang: 1, date: 'dès le 5 août', ha: right, va: bottom, dy: 0.3}
+  - {id: bac_saint_maur, rang: 3, va: top, dy: -0.7, ha: left, dx: 1.2}
+  - {id: '62736', rang: 3, ha: right, va: top, dy: -0.7, dx: -1.2}
+  itineraires:
+  - {lieux: ['59366', '59295', '59535'], courbure: 0.05}
+  - {lieux: ['59535', '59043', croix_du_bac], courbure: 0.08}
+  legende:
+  - {type: point, texte: 'Cantonnements successifs (le point désigne le bourg, non la ferme occupée)'}
+  - {type: fleche, texte: 'Changements de secteur : 28 juillet (Lynde → Saint-Jans-Cappel), 5 août (→ La Croix-du-Bac)'}
+  - {type: ligne, texte: "Front de l'été 1916 et zone tenue par l'armée allemande (tracé schématique)", epaisseur: 1.5}
+
+- id: II
+  titre_imprime: false
+  surtitre: Chapitre II — 13 août – 24 septembre 1916
+  titre: De la Lys à la Somme
+  emprise: [2.05, 50.00, 2.98, 50.76]
+  taille_mm: [141, 122]
+  legende_mm: 26
+  echelle_km: 10
+  exageration: 6
+  cours_deau: [Lys, Ternoise, Canche, Authie, Ancre, Somme, Scarpe, Lawe, Clarence]
+  noms_cours_deau: [Lys, Ternoise, Canche, Authie]
+  pos_cours_deau:
+    Canche: [2.16, 50.35]
+    Ternoise: [2.20, 50.41]
+    Authie: [2.20, 50.24]
+  fronts:
+  - {id: flandre_artois_1916, epaisseur: 1.3}
+  - {id: somme_1916_07_01, epaisseur: 1.0, style: pointille}
+  contexte:
+  - {id: Arras}
+  - {id: Béthune}
+  - {id: Doullens, ha: right, dx: -1.0}
+  lieux:
+  - {id: croix_du_bac, rang: 2, ha: right, etiquette: La Croix-du-Bac}
+  - {id: '59043', rang: 3}
+  - {id: '59295', rang: 3, ha: right, va: top, dy: -0.4}
+  - {id: berguette_gare, rang: 3, etiquette: Berguette (gare), ha: right}
+  - {id: '62516', rang: 3}
+  - {id: '62767', rang: 2, etiquette: Saint-Pol, ha: right, date: 25 août}
+  - {id: '62558', rang: 1, date: '25 août – 8 sept.'}
+  - {id: '62514', rang: 3, va: top, dy: -0.8}
+  - {id: '62590', rang: 3, ha: right, date: 9 sept.}
+  - {id: oppy, rang: 3, etiquette: Oppy, date: 10 sept., ha: right, va: top, dy: -0.4}
+  - {id: '80495', rang: 3}
+  - {id: '80756', rang: 3}
+  - {id: '80659', rang: 1, date: '11–23 sept.', ha: right}
+  - {id: '80329', rang: 3, va: top, dy: -0.9, dx: 1.2}
+  - {id: '80003', rang: 2, etiquette: Acheux, va: bottom, dy: 0.7, dx: 1.2}
+  itineraires:
+  - {lieux: [croix_du_bac, '59043', '59295', berguette_gare, '62516', '62767', '62558'], courbure: 0.05}
+  - {lieux: ['62558', '62514', '62590', oppy, '80495', '80756', '80659'], courbure: 0.05, couleur: '#7a5a2a'}
+  legende:
+  - {type: fleche, texte: "25 août : de La Croix-du-Bac au Ternois, par le train jusqu'à Saint-Pol"}
+  - {type: fleche, couleur: '#7a5a2a', texte: '9–11 septembre : étapes à cheval de Marquay à Raincheval'}
+  - {type: ligne, texte: "Front de Flandre et d'Artois (été 1916) ; front de la Somme au 1er juillet 1916, en pointillé", epaisseur: 1.3}
+
+- id: III
+  titre_imprime: false
+  surtitre: Chapitre III — 25 septembre – 6 octobre 1916
+  titre: La première permission à Toulouse
+  emprise: [1.33, 43.52, 1.56, 43.66]
+  taille_mm: [141, 122]
+  legende_mm: 24
+  echelle_km: 2
+  exageration: 5
+  couches_eau: [hydro_toulouse.geojson]
+  noms_cours_deau: [Garonne, Canal du Midi, Touch]
+  pos_cours_deau:
+    Garonne: [1.418, 43.545]
+    Canal du Midi: [1.472, 43.575]
+    Touch: [1.358, 43.575]
+  lieux:
+  - {id: '31555', rang: 1, etiquette: Toulouse (Capitole), ha: right, dx: -1.5, dy: 0.2}
+  - {id: '31069', rang: 2}
+  - {id: purpan_amphitheatre, rang: 3, etiquette: Purpan (ruines), ha: right}
+  - {id: lardenne, rang: 3, ha: right, va: bottom, dy: 0.6}
+  - {id: saint_etienne, rang: 3, etiquette: Saint-Étienne, va: top, dy: -0.6, dx: 1.3}
+  - {id: terre_cabade, rang: 3, etiquette: Terre-Cabade, va: bottom, dy: 0.3, dx: 1.3}
+  - {id: montaudran, rang: 3}
+  - {id: pouvourville, rang: 3}
+  - {id: pech_david_coteau, rang: 3, etiquette: Pech-David, ha: right}
+  legende:
+  - {type: point, texte: 'Lieux des promenades toulousaines cités par le carnet (repères actuels)'}
+  notes:
+  - 'Voyage : Acheux-Varennes (25 sept.), Paris (26 sept.), Toulouse (27 sept.) ; retour par Paris (4–5 oct.).'
+  sources: "Fond : relief d'après Copernicus DEM GLO-30 (© DLR e.V. 2010-2014 et © Airbus Defence and Space GmbH 2014-2018, programme Copernicus), cours d'eau et canaux IGN BD TOPO (Licence Ouverte 2.0) ; projection Lambert-93."
+
+- id: IV
+  titre_imprime: false
+  surtitre: Chapitre IV — 6 octobre – 30 novembre 1916
+  titre: L'automne sur l'Ancre
+  emprise: [1.96, 49.88, 2.96, 50.22]
+  taille_mm: [141, 122]
+  legende_mm: 26
+  echelle_km: 10
+  exageration: 7
+  zone_allemande: artois_somme_1916_11
+  cours_deau: [Somme, Ancre, Hallue, Authie, Nièvre]
+  pos_cours_deau:
+    Somme: [2.15, 49.94]
+    Authie: [2.25, 50.19]
+    Hallue: [2.42, 49.97]
+  fronts:
+  - {id: somme_1916_07_01, style: pointille, epaisseur: 1.0}
+  - {id: artois_somme_1916_11, epaisseur: 1.6, etiquette: 'front du 18 nov. 1916', etiquette_pos: [2.80, 50.093]}
+  contexte:
+  - {id: Thiepval}
+  - {id: Beaumont-Hamel}
+  - {id: Pozières}
+  - {id: Bapaume}
+  - {id: Corbie}
+  - {id: martinsart, etiquette: Martinsart, ha: left, va: bottom, dx: 0.9, dy: 0.5}
+  lieux:
+  - {id: '80671', rang: 2, ha: right, date: '6–14 oct.'}
+  - {id: '80086', rang: 3}
+  - {id: '80071', rang: 2, date: 15 oct.}
+  - {id: '80070', rang: 3}
+  - {id: '80645', rang: 3}
+  - {id: '80820', rang: 2, ha: left, date: 16 oct., va: top, dx: 0.2, dy: -1.1}
+  - {id: '80733', rang: 3, ha: right, va: bottom, dx: -1.0, dy: 0.4}
+  - {id: '80129', rang: 2, etiquette: 'Bouzincourt (camp)', date: '17–18 oct.', ha: left, va: top, dx: 1.0, dy: -0.4}
+  - {id: '80425', rang: 2, ha: right, va: center, dx: -1.2}
+  - {id: '80016', rang: 1, etiquette: 'Albert (briqueteries)', date: '19 oct. – 1er nov.', ha: left, va: top, dx: 1.3, dy: -0.7}
+  - {id: '80003', rang: 1, etiquette: Acheux, date: dès le 2 nov., ha: left, va: bottom, dy: 0.4}
+  - {id: '80659', rang: 3, ha: right}
+  - {id: '80253', rang: 2}
+  - {id: '80021', rang: 2}
+  - {id: '80207', rang: 3, ha: right, va: center, dx: -1.2, dy: -0.2}
+  itineraires:
+  - {lieux: ['80671', '80071', '80820', '80129', '80016', '80003'], courbures: [0.08, 0.08, 0.22, 0.15, -0.25]}
+  legende:
+  - {type: point, texte: 'Séjours principaux : camp des briqueteries d’Albert, puis Acheux ; les points désignent le bourg'}
+  - {type: fleche, texte: 'Étapes successives attestées par le carnet (15 oct. – 2 nov. 1916) ; liaisons schématiques'}
+  - {type: ligne, texte: 'Front au 18 novembre 1916, fin de la bataille de la Somme ; zone allemande hachurée (tracé schématique)', epaisseur: 1.6}
+  - {type: ligne, texte: 'Front au 1er juillet 1916 (tracé schématique)', epaisseur: 1.0, dashes: [1.2, 1.4]}
+
+- id: V
+  titre_imprime: false
+  surtitre: Chapitre V — 1er décembre 1916 – 25 janvier 1917
+  titre: L'hiver à Acheux-en-Amiénois
+  emprise: [2.28, 49.99, 2.78, 50.21]
+  taille_mm: [141, 122]
+  legende_mm: 24
+  echelle_km: 5
+  exageration: 8
+  zone_allemande: artois_somme_1916_11
+  cours_deau: [Ancre, Hallue, Authie]
+  fronts:
+  - {id: artois_somme_1916_11, epaisseur: 1.5, etiquette: "front de l'hiver 1916–1917", etiquette_pos: [2.70, 50.15], rotation: -70}
+  contexte:
+  - {id: Beaumont-Hamel}
+  - {id: Thiepval}
+  - {id: Mailly-Maillet}
+  - {id: Bertrancourt}
+  lieux:
+  - {id: '80003', rang: 1, etiquette: Acheux}
+  - {id: '80659', rang: 2, ha: right, dx: -1.3}
+  - {id: '80493', rang: 2}
+  - {id: '80070', rang: 3, ha: right}
+  - {id: '80766', rang: 2}
+  - {id: '80645', rang: 3, ha: right}
+  - {id: '80686', rang: 3, ha: right}
+  - {id: '80043', rang: 3}
+  - {id: '80705', rang: 3, etiquette: Saint-Léger}
+  - {id: '80028', rang: 3, ha: center, va: top, dx: 0.0, dy: -0.9}
+  - {id: belle_eglise, rang: 3, etiquette: Belle-Église, va: top, dy: -0.8}
+  - {id: '80425', rang: 3}
+  - {id: '80266', rang: 3}
+  legende:
+  - {type: point, texte: "Acheux et les villages des tournées d'achats et des promenades (repères des bourgs)"}
+  - {type: ligne, texte: "Front de l'hiver 1916–1917 ; zone tenue par l'armée allemande (tracé schématique)", epaisseur: 1.5}
+
+- id: VI
+  titre_imprime: false
+  surtitre: Chapitre VI — 26 janvier – 7 février 1917
+  titre: La seconde permission
+  relief: national
+  pays: true
+  emprise: [0.2, 42.9, 4.6, 50.25]
+  taille_mm: [141, 122]
+  legende_mm: 26
+  echelle_km: 100
+  couches_eau: [ne_fleuves_france.geojson]
+  cours_deau: [Seine, Loire, Garonne, Tarn, Allier, Dordogne, Lot, Somme, Aude, Orb, Aveyron, Marne, Oise, Yonne]
+  noms_cours_deau: [Seine, Loire, Garonne, Tarn, Allier]
+  pos_cours_deau:
+    Seine: [1.35, 49.30]
+    Loire: [0.95, 47.42]
+    Allier: [3.28, 46.60]
+    Garonne: [0.75, 44.15]
+    Tarn: [2.15, 43.92]
+  lieux:
+  - {id: '80003', rang: 2, etiquette: Acheux}
+  - {id: '80021', rang: 3, ha: right}
+  - {id: '75056', rang: 1, etiquette: Paris, ha: right}
+  - {id: '31555', rang: 1, ha: right}
+  - {id: '12145', rang: 1}
+  - {id: '11069', rang: 3, ha: right, va: top, dy: -0.6}
+  - {id: '34032', rang: 3, va: top, dy: -0.6}
+  - {id: '34028', rang: 3}
+  - {id: '15187', rang: 3, ha: right}
+  - {id: '43040', rang: 3}
+  - {id: '63113', rang: 3, ha: right}
+  - {id: '03118', rang: 3}
+  - {id: '45155', rang: 3, ha: right}
+  - {id: '45208', rang: 3}
+  - {id: '91174', rang: 3, ha: right}
+  itineraires:
+  - {lieux: ['80003', '80021', '75056', '31555'], courbure: 0.06}
+  - {lieux: ['31555', '11069', '34032', '34028', '12145'], courbure: 0.05, couleur: '#7a5a2a'}
+  - {lieux: ['12145', '15187', '43040', '63113', '03118', '45155', '45208', '91174', '75056'], courbure: 0.04, couleur: '#4d6b3a'}
+  legende:
+  - {type: fleche, texte: "26–28 janvier : d'Acheux à Toulouse par Amiens et Paris"}
+  - {type: fleche, couleur: '#7a5a2a', texte: '3 février : de Toulouse à Millau par Carcassonne, Béziers et Bédarieux'}
+  - {type: fleche, couleur: '#4d6b3a', texte: '5–7 février : retour par Saint-Flour, Clermont-Ferrand, Gien et Paris'}
+  notes:
+  - 'Les flèches relient les étapes nommées ; elles ne restituent pas le tracé des voies ferrées.'
+  sources: "Fond : relief ombré Natural Earth (Gray Earth, domaine public), fleuves Natural Earth 1:10 m ; projection Lambert-93."
+
+- id: VII
+  titre_imprime: false
+  surtitre: Chapitre VII — 7 février – 30 avril 1917
+  titre: Hérissart et le printemps de 1917
+  emprise: [2.18, 49.93, 2.98, 50.24]
+  taille_mm: [141, 122]
+  legende_mm: 28
+  echelle_km: 10
+  exageration: 7
+  zone_allemande: artois_somme_1916_11
+  cours_deau: [Somme, Ancre, Hallue, Authie]
+  pos_cours_deau:
+    Somme: [2.75, 49.94]
+    Ancre: [2.62, 50.04]
+  fronts:
+  - {id: artois_somme_1916_11, epaisseur: 1.4, etiquette: "front de l'hiver 1916–1917", etiquette_pos: [2.81, 50.093]}
+  - {id: hindenburg_1917, epaisseur: 1.1}
+  contexte:
+  - {id: Bapaume}
+  - {id: Doullens}
+  - {id: Amiens}
+  lieux:
+  - {id: '80431', rang: 1, ha: right}
+  - {id: '80766', rang: 2}
+  - {id: '80645', rang: 2, ha: right}
+  - {id: '80686', rang: 3, ha: right}
+  - {id: '80624', rang: 3}
+  - {id: '80553', rang: 3, ha: right}
+  - {id: '80562', rang: 3}
+  - {id: '80798', rang: 3, ha: right}
+  - {id: '80207', rang: 2}
+  - {id: '80820', rang: 3}
+  - {id: '80659', rang: 3, ha: right}
+  - {id: '80003', rang: 2, etiquette: Acheux}
+  - {id: '80733', rang: 3}
+  - {id: '80016', rang: 2}
+  itineraires:
+  - {lieux: ['80003', '80659', '80645', '80431'], courbure: 0.05}
+  legende:
+  - {type: point, texte: 'Hérissart, siège du Purchase Board, et les villages des tournées'}
+  - {type: fleche, texte: '7 février : installation à Hérissart'}
+  - {type: ligne, texte: "Front de l'hiver 1916–1917 ; la zone hachurée est évacuée par l'armée allemande en mars 1917", epaisseur: 1.4}
+  - {type: ligne, texte: 'Ligne Hindenburg (mars 1917)', epaisseur: 1.1, couleur: '#4a4a4a', dashes: [4, 2]}

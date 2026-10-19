@@ -1,0 +1,126 @@
+cliche: 64
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: '... Mte & moi, très'
+  apres: Mt & moi, tres – \hfill \sl{Mer. 4} \hfill \sl{Oct 16}
+  justification: la date soulignée est sur la ligne 1 (y≈.035), non sur la l. 2 ; pas de points de reprise ; t de Mt suivi directement de l'esperluette, aucun e distinct ; aucun accent sur tres, le petit trait horizontal à mi-hauteur après le mot est un tiret
+  confiance: moyenne
+- ligne: 2
+  avant: émus.. – \hfill Mer. 4 Oct 16
+  apres: émus. – .
+  justification: 'après émus : point, tiret court, point ; la date appartient à la l. 1'
+  confiance: haute
+- ligne: 3
+  avant: Train, démarré vers 8 H s —
+  apres: Train, demarré vers 8^{H} s \trait
+  justification: aucun accent sur le premier e (seul l'é final en porte) ; H surélevé, base à mi-hauteur du 8 ; s réduit à un jambage prolongé sans levée de plume en long délié
+  confiance: moyenne
+- ligne: 4
+  avant: Voyage – toute la nuit. – n'ai pu
+  apres: Voyage – toute la nuit – n'ai pu
+  justification: après nuit, tiret seul, aucun point
+  confiance: haute
+- ligne: 7
+  avant: 'Hier 2 images de Ste Thérèse — : 40 c'
+  apres: 'Hier 2 images de S^{te} Thérèse. — : 40 c'
+  justification: te nettement suscrit ; point après Thérèse avant le tiret ondulé
+  confiance: haute
+- ligne: 8
+  avant: '& Fleurs pour Mte : 1f 70'
+  apres: '& Fleurs pour Mte : 1 70'
+  justification: le petit crochet haut entre 1 et 7 se prolonge dans la diagonale du 7 (tête crochue ʔ, même tracé qu'au 7 de la l. 10) ; aucun f distinct
+  confiance: moyenne
+- ligne: 10
+  avant: 'Billet 3e cl. p. Orsay : 11 f 75'
+  apres: '\ind Billet 3^{e} cl. p. Orsay : 11 75'
+  justification: e surélevé après le 3 ; 7 complet (tête crochue reliée à la diagonale, courte barre médiane) puis 5 en ſ à boucle de tête et longue haste descendante ; aucun f ; lignes 10-12 en retrait sous Trams
+  confiance: moyenne
+- ligne: 11
+  avant: 'Bain, aux Thermes – : 90 + 10c'
+  apres: '\ind Bain, aux Thermes — : 90 + 10c'
+  justification: tiret long ondulé
+  confiance: haute
+- ligne: 13
+  avant: 'Crouzet : 5 f –'
+  apres: '\ind[2] Crouzet : 5^{f} —'
+  justification: f en petit crochet haut après le 5 ; tiret long en massue sous la ligne ; Crouzet en fort retrait
+  confiance: moyenne
+difficultes:
+- ligne: 1
+  lemme: Mt &
+  analyse: 'M en ʎu, t haut barré, base du t arrondie puis boucle fermée en haut à droite et haste descendant vers la gauche sous la ligne : & de forme ρ ; aucun e séparé, mais il peut être fondu dans la base du t (cf. Mte l. 8, t + e en « lo »)'
+  alternatives:
+  - Mte &
+- ligne: 1
+  lemme: Mer. 4
+  analyse: après Mer. un tracé en ∂ (4 fermé) suivi d'un petit tracé en e ou c à hauteur d'œil, non suscrit, peut-être simple fin du 4 ; 4 octobre 1916 est bien un mercredi
+  alternatives:
+  - Mer. 4e
+- ligne: 5
+  lemme: le
+  analyse: l bouclé puis lettre ouverte et pointue, sans panse fermée ; e attendu par le sens (sur le matin)
+  alternatives:
+  - la
+- ligne: 8
+  lemme: 1 70
+  analyse: 'crochet haut détaché du 1, relié à la diagonale du 7 : tête crochue du 7 ; un f suscrit réduit à ce crochet reste possible'
+  alternatives:
+  - 1^{f} 70
+- ligne: 12
+  lemme: Maria
+  analyse: 'Mari- (et peut-être -a) à l''encre violette pâle et plume fine, légèrement au-dessus de la ligne, sur un long trait horizontal foncé partant de à ; puis boucle foncée et long délié jusqu''à la virgule : soit place réservée par un trait et remplie après coup, soit plume sèche reprise sur le -a final'
+  alternatives:
+  - \add{Maria}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Les comptes « Hier » portent sur le 4 octobre (bain aux Thermes, billet pour Orsay) et ont été écrits le 5, après la nuit en train : date et critique corrigées en ce sens. Lafon 1922 (quart de place) et images de sœur Thérèse distribuées aux soldats en 1916 : contexte non imprimé.'
+  alternatives: []
+controle:
+- ligne: 8
+  avant: '& Fleurs pour Mte : 1^{f} 70'
+  apres: '& Fleurs pour Mte : 1 70'
+  justification: le crochet pris pour un f suscrit se prolonge dans la diagonale du 7 (tête crochue, même tracé qu'en l. 10) ; aucun f distinct
+- ligne: 10
+  avant: '\ind Billet 3^{e} cl. p. Orsay : 11^{f} 75'
+  apres: '\ind Billet 3^{e} cl. p. Orsay : 11 75'
+  justification: 'zoom ×3 : tête crochue reliée au 7, courte barre médiane, puis 5 en ſ à longue haste ; aucun f'
+- ligne: 12
+  avant: apparat Maria, type autre (Mari- pâle, -a repris)
+  apres: apparat Maria, type ajout
+  justification: Mari- pâle et fin posé au-dessus d'un long trait foncé issu de à ; place réservée remplie après coup plus probable qu'une simple reprise de plume
+- ligne: 0
+  avant: 'date : comptes du 3 octobre ; critique : dépenses de la veille à Toulouse'
+  apres: 'date : comptes du 4 octobre, notés le 5'
+  justification: « Hier » écrit après la nuit en train ; billet pour Orsay et bain du jour du départ
+- ligne: 0
+  avant: apparat Thermes (autre), notes paléographiques sur Mer. 4, 1^{f} 70, 11^{f} 75
+  apres: notes supprimées ou abrégées ; abréviations c (centimes) ajoutées
+  justification: épuration de l'apparat imprimé ; identification des Thermes conservée dans noms
+remarques: Le cliché 063 (Louvre, gare du Nord) semble postérieur dans la chronologie (5 octobre, à Paris) ; 065 enchaîne sur le départ vers Amiens et Doullens.
+resume: 'Fin des adieux à Marguerite le mercredi 4 octobre 1916 : tous deux très émus. Le train part vers 8 heures du soir ; voyage de toute la nuit, Hippolyte Combes ne parvient à s''assoupir qu''au matin. La moitié de la page reste blanche. Sous un filet, les dépenses de la veille (4 octobre) : images de sainte Thérèse, fleurs pour Marguerite, trams, billet de 3e classe pour Paris-Orsay (11 f 75), bain aux Thermes, étrennes à Maria, la bonne des Crouzet.'
+noms:
+  personnes:
+  - forme: Mt
+    ligne: 1
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
+  - forme: S^{te} Thérèse
+    ligne: 7
+    identite: sainte Thérèse (images pieuses)
+  - forme: Mte
+    ligne: 8
+    identite: Marguerite Calmels
+  - forme: Maria
+    ligne: 12
+    identite: Maria, bonne de la famille Crouzet
+  - forme: Crouzet
+    ligne: 13
+    identite: famille de l'oncle Crouzet, à Toulouse
+  lieux:
+  - forme: Orsay
+    ligne: 10
+    identite: gare d'Orsay (Paris)
+  - forme: Thermes
+    ligne: 11
+    identite: Thermes du Languedoc, établissement de bains (Toulouse)
+source: contrôle

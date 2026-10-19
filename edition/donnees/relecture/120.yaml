@@ -1,0 +1,175 @@
+cliche: 120
+confiance: moyenne
+changements:
+- ligne: 2
+  avant: Tout le jour, repos.
+  apres: \ind[2] Tout le jour, repos
+  justification: ligne propre sous la date, en retrait ; aucun point après repos
+  confiance: moyenne
+- ligne: 3
+  avant: Matinée, fortes ondées. Après-midi
+  apres: matinée, fortes ondées. après-midi
+  justification: m et a au module des minuscules
+  confiance: moyenne
+- ligne: 4
+  avant: éclairci et tout ensoleillé.
+  apres: éclairci et tout ensoleillé –
+  justification: court tiret à x≈.61 après ensoleillé
+  confiance: moyenne
+- ligne: 5
+  avant: mervx
+  apres: merv^{x}
+  justification: x en petite croix surélevée
+  confiance: haute
+- ligne: 8
+  avant: regarder spectacle
+  apres: regarder \add{spectacle} mouvement
+  justification: 'sur la ligne : mouvement ; spectacle écrit au-dessus, chevauchant, non biffé'
+  confiance: haute
+- ligne: 9
+  avant: rue, très animé.
+  apres: rue, très animé
+  justification: aucun point après animé, seulement l'accent
+  confiance: moyenne
+- ligne: 10
+  avant: Soir, concert des XIII Corps Archie
+  apres: \ind Soir concert des XIII corps Archie
+  justification: pas de virgule après Soir ; c minuscule de corps ; alinéa
+  confiance: moyenne
+- ligne: 11
+  avant: hut. 2e partie programme, nos
+  apres: Hut 2^{e} partie progro—, n^{os}
+  justification: H en haste traversée ; programme abrégé (p-r-o-g-r-o + long trait) ; os surélevé
+  confiance: moyenne
+- ligne: 12
+  avant: duos très g.
+  apres: duos très \inc{f.}
+  justification: 'boucle de tête au-dessus de l''œil et long jambage sans boucle inférieure : f, non g'
+  confiance: basse
+- ligne: 13
+  avant: '[ — Hair cut : 50 c'
+  apres: '\crochet{2}— Hair cut : \inc{15}c'
+  justification: 'grand crochet sur deux lignes ; montant : haste sans barre de tête (1), haste à boucle haute descendant longuement (5, même tracé que dans 78 f 75), c final à tête pleine et long délié (comme 30c)'
+  confiance: basse
+- ligne: 15
+  avant: 5 Ven. — Tout le jour, en course.
+  apres: 5 \sl{Ven} – Tout le jour., en course
+  justification: Ven souligné, tiret court ; point puis virgule après jour
+  confiance: moyenne
+- ligne: 17
+  avant: av. Lt Walsh, Lt Morris
+  apres: av L^{t} Walsh, L^{t} Morris
+  justification: t suscrit net ; av sans point
+  confiance: haute
+- ligne: 19
+  avant: contrat location battage av.
+  apres: contrat location batteuse a
+  justification: b-a-tt-euse ; mot final réduit à un a suivi d'un délié
+  confiance: moyenne
+- ligne: 20
+  avant: Mme Capron.
+  apres: Mme \inc{Capron}
+  justification: après p, jambages sous un point d'i, aucun o visible ; même cas qu'en 115
+  confiance: moyenne
+- ligne: 22
+  avant: comme
+  apres: co—e
+  justification: co + long trait + e
+  confiance: haute
+- ligne: 24
+  avant: '[ Bureau Mission fse XIIIe Corps Acheux : 78 f 75 ]'
+  apres: '\equerre{1}Bureau Mission F^{r} XIIIe Corps \inc{Achx} : 78^{f} 75'
+  justification: équerre (trait de tête et haste à gauche), aucun crochet fermant ; F majuscule puis r surélevé prolongé d'un long trait ; Acheux abrégé ; f monétaire petit et haut
+  confiance: moyenne
+difficultes:
+- ligne: 8
+  lemme: \add{spectacle} mouvement
+  analyse: mouvement sur la ligne de base, spectacle au-dessus et le chevauchant ; ordre d'écriture indécidable
+  alternatives:
+  - \sur{mouvement}{spectacle}
+- ligne: 12
+  lemme: \inc{f.}
+  analyse: après très (hu), un trait montant de sous la ligne jusqu'à une boucle de tête haute, puis jambage descendant jusqu'à la l. 13 (x≈.43) ; point détaché à droite
+  alternatives:
+  - g.
+  - s.
+- ligne: 13
+  lemme: \inc{15}c
+  analyse: 'zoom [.46 .39 .66 .46] : premier chiffre = haste épaisse sans barre de tête, petit trait à gauche à mi-hauteur (attaque du 1 ou barre médiane d''un 7) ; second = boucle haute fermée et long jambage descendant (forme du 5 de « 75 », l. 24, et non f, dont aucune trace de c ou r après) ; c à tête pleine et délié comme 30c. Les autres coupes de cheveux du carnet coûtent 30 à 90 c : 75 c reste possible'
+  alternatives:
+  - 75c
+  - 1 fr
+  - 50 c
+- ligne: 20
+  lemme: \inc{Capron}
+  analyse: C bouclé, petite boucle (o ou a), p long, puis jambages terminés en crochet, point d'i au-dessus ; aucun r ni o distinct après le p ; même aspect au cliché 115
+  alternatives:
+  - Capin
+  - Copin
+- ligne: 24
+  lemme: F^{r}
+  analyse: 'zoom [.38 .91 .52 .98] : F en boîte, puis pointe de r montant au niveau de la barre de tête, prolongée d''un long trait horizontal ; point au-dessus = point d''i de Mission'
+  alternatives:
+  - F^{se}
+  - Fr^{se}
+- ligne: 24
+  lemme: \inc{Achx}
+  analyse: A haut, c, h bouclé, puis petite boucle sur la ligne coiffée d'un trait horizontal (x ou abréviation de -eux)
+  alternatives:
+  - Acheux
+  - Ach^{x}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: le commentaire citait encore « 50 c » pour la coupe de cheveux ; la lecture retenue est désormais \inc{15}c (75 c possible). « Capron » et « très \inc{f.} » restent douteux.
+  alternatives: []
+controle:
+- ligne: 11
+  avant: progr\inc{o}—
+  apres: progro—
+  justification: o fermé, lié par le haut, net au zoom [.56 .32 .76 .375] ; le doute n'est pas justifié
+- ligne: 13
+  avant: 1 \inc{fr}
+  apres: \inc{15}c
+  justification: la haste à boucle haute a exactement la forme du 5 de « 75 » (l. 24) ; la finale est le c à tête pleine et long délié de « 30c », non un r ; premier chiffre sans barre de tête
+- ligne: 15
+  avant: Tout le jour, en course
+  apres: Tout le jour., en course
+  justification: 'zoom [.36 .535 .50 .585] : point rond sur la ligne puis virgule verticale'
+- ligne: 24
+  avant: F^{se}
+  apres: F^{r}
+  justification: une seule lettre surélevée, en pointe de r, prolongée d'un long trait ; aucune boucle de s ni de e
+- ligne: 24
+  avant: 78^{f} 75 (type compte)
+  apres: 78^{f} 75 (type abreviation)
+  justification: aucun total ni opération ; la note ne fait que développer l'abréviation monétaire ; apparat épuré (notes de forme supprimées, Mme séparé de Capron)
+remarques: Montant de la coupe de cheveux (l. 13) et nom de Mme Capron (l. 20 ; cf. 115) à confronter avec les autres pages.
+resume: 'Le jeudi 4 janvier 1917, Combes reste au repos dans sa chambre à Acheux, à ranger ses affaires et à regarder l''animation de la rue ; matinée de fortes ondées, après-midi ensoleillé, nuit de clair de lune. Le soir, concert des « XIII Corps Archie » à la baraque de la Y.M.C.A. Dépenses : coupe de cheveux (15 c, lecture incertaine) et concert (30 c). Le vendredi 5, en course toute la journée : ferme Moulard à Septenville, puis déjeuner à Beauquesne, au Café Continental, avec les lieutenants Walsh et Morris et l''interprète de ce dernier ; il passe un contrat de location de batteuse avec Mme Capron et rentre à la nuit tombante par des routes boueuses sous la lune. En bas de page : 78 f 75 au bureau de la Mission française du XIIIe corps à Acheux.'
+noms:
+  personnes:
+  - forme: L^{t} Walsh
+    ligne: 17
+    identite: lieutenant britannique
+  - forme: L^{t} Morris
+    ligne: 17
+    identite: lieutenant britannique
+  - forme: Mme \inc{Capron}
+    ligne: 20
+    identite: habitante de Beauquesne, propriétaire d'une batteuse (cf. 115)
+  - forme: Moulard
+    ligne: 16
+    identite: ferme Moulard, Septenville
+  lieux:
+  - forme: Septenville
+    ligne: 16
+    identite: Septenville (Somme), hameau de Rubempré
+  - forme: Beauquesne
+    ligne: 17
+    identite: Beauquesne (Somme)
+  - forme: Café Continental
+    ligne: 18
+    identite: café de Beauquesne
+  - forme: \inc{Achx}
+    ligne: 24
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

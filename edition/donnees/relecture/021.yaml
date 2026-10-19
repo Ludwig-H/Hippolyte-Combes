@@ -1,0 +1,159 @@
+cliche: 21
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 18 Ve. \hfill – Aout / 16 –
+  apres: \sl{18 Ve.} \hfill – \sl{Aout /16} –
+  justification: trait appuyé sous 8 Ve. ; trait mince brun sous Aout /16, à la place habituelle du soulignement du mois (cf. 020) ; « /16 » sans espace
+  confiance: moyenne
+- ligne: 3
+  avant: comme en mars
+  apres: cme en mars
+  justification: 'c, petit v, trait plat, e : forme abrégée identique à 025 l. 3 ; comme en toutes lettres (l. 18) montre cinq lettres distinctes'
+  confiance: haute
+- ligne: 3
+  avant: prolongées. Puis éclaircies
+  apres: prolongées, puis éclaircies
+  justification: le prétendu P est la boucle fermée du jambage du g de giboulées (l. 2) ; p minuscule ; virgule courte sur la ligne
+  confiance: haute
+- ligne: 4
+  avant: reparaît
+  apres: reparait
+  justification: aucun signe au-dessus de ai ni du t
+  confiance: moyenne
+- ligne: 6
+  avant: trèfle
+  apres: trefle
+  justification: aucun accent visible sur le e ; la tête du f monte dans la ligne supérieure
+  confiance: moyenne
+- ligne: 7
+  avant: j. à
+  apres: j-à
+  justification: trait d'union court entre j et à, pas de point
+  confiance: haute
+- ligne: 8
+  avant: assez
+  apres: asz
+  justification: 'trois éléments : a ouvert, s, z plongeant'
+  confiance: haute
+- ligne: 10
+  avant: l'herbe
+  apres: l herbe
+  justification: aucune apostrophe entre le l et le h
+  confiance: moyenne
+- ligne: 11
+  avant: Vers 7 H 1/2 orage
+  apres: Vers 7^{H} 1/2 orage
+  justification: base de l'H nettement au-dessus de celle du 7 ; barre oblique brune fine, 2 bouclé abaissé
+  confiance: haute
+- ligne: 12
+  avant: '[ – Solde & indemnité de fonctions : 84 fr.'
+  apres: '\crochet{2}\ind[2] – Solde & indemnité de fonctions : / \droite 84 fr.'
+  justification: le montant est écrit sous fonctions, sur une ligne propre ; le grand crochet (y ≈ 0,38–0,50) couvre les deux lignes et descend dans le blanc
+  confiance: haute
+- ligne: 14
+  avant: 19 S. — Plu tte nuit —
+  apres: 19 S. – Plu tte nuit –
+  justification: deux tirets courts ; date non soulignée, le filet passe au-dessus
+  confiance: haute
+- ligne: 15
+  avant: Dès 8 H matin
+  apres: Dès 8^{H} matin
+  justification: H suscrit
+  confiance: haute
+- ligne: 16
+  avant: délict.
+  apres: délic.^{t} \trait
+  justification: point sur la ligne après le c, t suscrit ensuite, puis trait bas jusqu'au bord
+  confiance: moyenne
+- ligne: 17
+  avant: 'commt après-midi :'
+  apres: \inc{commt} après-midi,
+  justification: lettres de l'abréviation mal assurées (voir difficultés) ; une seule virgule basse, la marque haute est le point de l'i
+  confiance: moyenne
+- ligne: 18
+  avant: fortes — comme
+  apres: fortes – comme
+  justification: tiret court
+  confiance: haute
+- ligne: 19
+  avant: Vers 2 H 30
+  apres: \ind Vers 2^{H} 30
+  justification: alinéa ; H plus petit, base surélevée ; le grand trait oblique qui suit est le jambage du f de fortes (l. 18)
+  confiance: moyenne
+- ligne: 21
+  avant: à cheval, – & cette fois
+  apres: à cheval, \inc{&} cette fois
+  justification: le prétendu tiret est le délié d'attaque, continu, d'un seul signe en λ
+  confiance: moyenne
+- ligne: 22
+  avant: Longue chevauchée zone
+  apres: \ind Longue chevauchée zone \trait
+  justification: alinéa ; délié final de zone prolongé jusqu'à la marge
+  confiance: haute
+difficultes:
+- ligne: 17
+  lemme: \inc{commt}
+  analyse: 'contrôle ×3 : boucle initiale (c+o liés, aspect a), puis environ quatre minimes au lieu des six attendus pour mm, petite boucle (c ou e), t à longue barre ; « avant » ne rend pas compte de l''ordre des tracés ni du sens ; 043 l. 14 écrit comm + t suscrit ; le sens (commencement de l''après-midi, Curtis arrivant à 2 h 30) est sûr, non le détail des lettres'
+  alternatives:
+  - commt
+  - commct
+  - commet
+- ligne: 21
+  lemme: \inc{&}
+  analyse: 'contrôle ×3 : long délié fin presque horizontal partant de la gauche, montant sans levée de plume dans une haste épaisse qui redescend sous la ligne (aspect 1 à long trait d''attaque, cf. guide § 6) ; point isolé au-dessus-gauche, sans emploi ; le sens impose et'
+  alternatives:
+  - '&'
+  - – &
+  - '1'
+- ligne: 1
+  lemme: \sl{Aout /16}
+  analyse: 'contrôle ×2,5 : trait mince brun (même encre que les deux tirets encadrant la date), sous Aout et la barre, au-dessus de vraies giboulées ; aucun t ni hampe à rattacher sur la l. 2 : soulignement retenu'
+  alternatives:
+  - \sl{Aout /16}
+  - Aout /16
+- ligne: 18
+  lemme: grêle.
+  analyse: 'après le e final, délié fin et brun incurvé (aspect « ( »), séparé du mot, puis point appuyé : ni s final (grêle au singulier par le sens) ni parenthèse attestée ; non transcrit'
+  alternatives:
+  - grêle.
+  - grêles.
+- ligne: 16
+  lemme: rafraichie
+  analyse: 'contrôle ×2,5 : au-dessus de l''i, simple point en petit trait vertical, comme les autres points d''i ; aucun circonflexe en barre plate (cf. dû l. 20, grêle l. 18)'
+  alternatives:
+  - rafraichie
+  - rafraîchie
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Suggère de corriger « lieux » en La Croix-du-Bac et arrières du front de Bois-Grenier (Nord) et de Fleurbaix (Pas-de-Calais), et de signaler l''absence d''entrée pour les 16 et 17 août. Lieux non modifiés : la page ne nomme aucun lieu (Fleurbaix n''apparaît qu''en 022) ; l''absence des 16–17 août (020 = 15 août) est signalée dans « critique ».'
+  alternatives: []
+controle:
+- ligne: 16
+  avant: Température rafraîchie délic.^{t} \trait
+  apres: Température rafraichie délic.^{t} \trait
+  justification: au-dessus de l'i, simple point d'i ; aucun circonflexe (zoom ×2,5)
+- ligne: 1
+  avant: apparat de disposition, graphie et lecture (Aout, reparait, trefle, l herbe, giboulées, prolongées, sèche, après-midi, très, grêle, dû, sur, poney, crochet, délié d'orage, trait de zone)
+  apres: supprimé
+  justification: épuration de l'apparat imprimé (accents, apostrophes, ponctuation, dispositions rendues par le balisage, coordonnées) ; observations conservées dans changements et difficultes
+- ligne: 17
+  avant: '\inc{commt} type abreviation : commencement (de l'') ; tracé incertain, voir difficultés'
+  apres: \inc{commt} type lecture, avec la lecture alternative
+  justification: lecture incertaine vérifiée (×3) ; « avant », suggéré par l'aspect, écarté par l'ordre des tracés et le sens
+- ligne: 0
+  avant: 'critique : description des encres et jambages avec coordonnées'
+  apres: critique brève (encres, lacune des 16–17 août, suite en 022)
+  justification: pas de coordonnées dans le registre imprimé ; remarque du commentateur sur les 16–17 août vérifiée par la date de 020 (15 août)
+remarques: Petit point isolé devant Longue (l. 22), sans valeur de ponctuation (repos de plume). Le récit de la chevauchée se poursuit au cliché 022.
+resume: 'Le vendredi 18 août, Combes note que depuis deux ou trois jours se succèdent de vraies giboulées, comme en mars : averses prolongées, puis éclaircies. La veille après-midi, au refilling point et dans un champ de trèfle, il a été surpris par la pluie et trempé. En fin de journée, il retrouve Maurin et cause avec lui sur l''herbe sèche près des lignes de sa compagnie ; vers 7 h 1/2, orage. Il inscrit 84 fr. de solde et d''indemnité de fonctions. Le samedi 19, après une nuit et une matinée de pluie torrentielle, le lieutenant Curtis, qu''il traite de crétin, vient le chercher vers 2 h 30 : il doit l''accompagner à cheval, cette fois sur un bon poney, pour une longue chevauchée en zone exposée derrière la ligne de feu.'
+noms:
+  personnes:
+  - forme: Maurin
+    ligne: 8
+    identite: camarade français de Combes, souvent retrouvé en fin de journée (013, 019, 024)
+  - forme: Curtis
+    ligne: 19
+    identite: lieutenant britannique de la compagnie
+  lieux: []
+source: contrôle

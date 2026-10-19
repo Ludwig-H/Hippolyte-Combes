@@ -1,0 +1,133 @@
+cliche: 145
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Mardi 6 (suite) \hfill Févr. /17
+  apres: \sl{mardi 6} (suite) \hfill \sl{Fev. 17}
+  justification: m initial minuscule ; trait épais sous « di 6 » ; à droite F, e, v puis point et 17, sans r ni barre oblique ; trait sous « v. 17 »
+  confiance: haute
+- ligne: 2
+  avant: Paris, bcp
+  apres: Paris bp
+  justification: le trait descendant après Paris est le s final plongeant, aucune virgule ; b + p liés sans c
+  confiance: haute
+- ligne: 3
+  avant: gelées.
+  apres: gelees.
+  justification: aucun accent visible sur les e
+  confiance: moyenne
+- ligne: 6
+  avant: très froide.
+  apres: très froide
+  justification: la finale de froide se prolonge en délié recourbé, sans point
+  confiance: moyenne
+- ligne: 7
+  avant: Corbeil-Essonnes, 5h 50 s. L'obscurité
+  apres: Corbeil-Essonne, 5^{H} 50 s. L'obscurite
+  justification: Essonne finit par e en délié, sans s ; H nettement suscrit ; le trait au-dessus de « ite » est la barre du t, aucun accent distinct
+  confiance: moyenne
+- ligne: 8
+  avant: très vite.
+  apres: très vite
+  justification: vite finit en long délié, sans point
+  confiance: moyenne
+- ligne: 9
+  avant: 6h 30 s. —
+  apres: 6^{H} 30 s. –
+  justification: H suscrit ; tiret court
+  confiance: haute
+- ligne: 10
+  avant: métro
+  apres: metro
+  justification: aucun accent sur le e
+  confiance: moyenne
+- ligne: 12
+  avant: 7h 19. En 1re cl., avec type de
+  apres: 7^{H} 19. 2^{e} cl., un \inc{tas de}
+  justification: 'premier signe = 2 bouclé (boucle basse fermée, pied horizontal) avec petit e suscrit ; le trait montant suivant est l''attaque du c de cl. ; « un » = quatre jambages et délié, pas de panse de a ; mot suivant : t sans barre, a ouvert, s long descendant, puis d et e'
+  confiance: basse
+- ligne: 13
+  avant: à observer et
+  apres: à observer & \inc{à}
+  justification: esperluette en ℓ (boucle haute, haste oblique) ; puis petit a surmonté d'un long trait, sans doute « à » devant écouter
+  confiance: basse
+- ligne: 14
+  avant: écouter.
+  apres: ecouter.
+  justification: aucun accent sur le e initial
+  confiance: moyenne
+- ligne: 16
+  avant: '[ — Brioude, buffet, varia : 60 c ]'
+  apres: '— Brioude, buffet, varia : 60c'
+  justification: aucun crochet ; 60c lié
+  confiance: haute
+difficultes:
+- ligne: 12
+  lemme: tas de
+  analyse: 'après « un » : haste haute sans barre (t ou l), panse ouverte en V (a ou y), haste descendante sans boucle (s long ou p), puis d en ∂ et e lié ; « type de » exigerait un y à crochet gauche et un p suivi de e, puis un de distinct.'
+  alternatives:
+  - type de
+  - typ de
+- ligne: 13
+  lemme: soldats
+  analyse: s initial montant (aspect l), o, l, d (panse + haste bouclée, aspect oh), a, t barré, s final réduit.
+  alternatives: []
+- ligne: 13
+  lemme: à
+  analyse: 'après l''esperluette : point d''attaque, petite panse ouverte, long trait horizontal tiré au-dessus vers la droite ; peut être un « à » à long accent ou un début de mot repris à la ligne suivante.'
+  alternatives:
+  - le
+  - é
+- ligne: 4
+  lemme: brillé
+  analyse: petite marque au-dessus de la finale, prise pour l'accent.
+  alternatives:
+  - brille
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1 067 caractères ; sources : Wikipédia (lignes Villeneuve-Saint-Georges – Montargis et 5 du métro, Corbeil-Essonnes), Baedeker 1913 (p. 28), La Dépêche du 30 janv. 1917 ; p2 absente, p1 utilisée. La clé « lieux » est corrigée : Corbeil était alors une commune de Seine-et-Oise, réunie à Essonnes en 1951. Le passage par Malesherbes est seulement probable. La lecture « 2e cl. » (l. 12) contredit le « 1re cl. » de la notice F7 du dossier R6 et reste à confirmer. Contrairement à la remarque de la p1, la dépense de Brioude se rapporte à la correspondance du matin même (f. 72 r°).'
+  alternatives: []
+- ligne: 12
+  lemme: tas de
+  analyse: 'p2 (zoom x3 [.68 .46 1.0 .54]) : haste haute sans barre, panse en V à longue descente (a + s long, ou y), puis panse et haste rejetée (d) finie en délié (e) ; « tas de soldats » le plus naturel ; aucune barre de t visible, d''où le maintien de \inc.'
+  alternatives:
+  - type de
+  - lot de
+- ligne: 13
+  lemme: à
+  analyse: 'p2 (zoom x3 [.55 .51 .95 .575]) : après le & en ℓ, point d''attaque, petite panse ouverte (aspect ie), long trait horizontal au-dessus ; « & à ecouter » attendu par la syntaxe, mais le tracé n''a pas la forme des autres « à » de la page.'
+  alternatives:
+  - le
+controle:
+- ligne: 12
+  avant: \inc{2^{e}} cl.
+  apres: 2^{e} cl.
+  justification: 'zoom x3 [.50 .47 .72 .535] : 2 bouclé net (tête, boucle basse, pied horizontal) puis petit e suscrit ; la haste qui suit, montant de sous la ligne, est l''attaque du c initial de cl. (guide § 4 c) ; aucun 1 ni r : incertitude levée ; apparat ramené à une note brève'
+- ligne: 7
+  avant: 5 heures 50 du soir ; s. réduit à un trait
+  apres: 5 heures 50 du soir
+  justification: 'apparat épuré : détail paléographique retiré de la note imprimée'
+remarques: 'La dépense de Brioude se rapporte sans doute à une étape antérieure du trajet de retour (ligne de Nîmes à Clermont), non à la remontée Gien–Paris. L. 12 : « 2e cl. » confirmé sur l''image en p2 (contre « 1re cl. » de l''état antérieur et de la notice F7, à corriger).'
+resume: 'Suite du voyage de retour de permission, le mardi 6 février 1917. En remontant vers Paris, la neige diminue, le sol est durci par le gel et la nuit s''annonce très froide. Passage à Corbeil-Essonnes à 5 h 50 du soir, arrivée à Paris vers 6 h 30. Hippolyte Combes prend le métro de la gare de Lyon, change à Bastille et gagne la gare du Nord à temps pour le train de 7 h 19, où il observe des soldats ; il roule toute la nuit. Dépense notée : buffet de Brioude, 60 c.'
+noms:
+  personnes: []
+  lieux:
+  - forme: Paris
+    ligne: 2
+    identite: Paris
+  - forme: Corbeil-Essonne
+    ligne: 7
+    identite: Corbeil-Essonnes (Seine-et-Oise, auj. Essonne)
+  - forme: gare Lyon
+    ligne: 10
+    identite: gare de Lyon, Paris
+  - forme: Bastille
+    ligne: 10
+    identite: station de métro Bastille, Paris
+  - forme: gare Nord
+    ligne: 11
+    identite: gare du Nord, Paris
+  - forme: Brioude
+    ligne: 16
+    identite: Brioude (Haute-Loire)
+source: contrôle

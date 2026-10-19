@@ -1,0 +1,100 @@
+cliche: 81
+confiance: haute
+changements:
+- ligne: 1
+  avant: Vendredi 20 \hfill Oct /16
+  apres: \sl{Vendredi 20} \hfill \sl{Oct^{bre}/16}
+  justification: soulignements nets sous les deux éléments ; après Oct un crochet lié à la barre oblique (finale -bre réduite, cf. 080)
+  confiance: moyenne
+- ligne: 2
+  avant: brille 1 peu, mais
+  apres: brillé 1 peu. mais
+  justification: trait d'accent posé après le e final, distinct du point de l'i ; point rond sur la ligne après peu, aucune virgule
+  confiance: moyenne
+- ligne: 3
+  avant: tjrs épaisse
+  apres: tjs epaisse
+  justification: t barré, j à longue boucle, s descendant, aucun r ; aucun accent sur le e initial d'epaisse (le trait haut est l'attaque du p)
+  confiance: haute
+- ligne: 4
+  avant: bombardemt
+  apres: bombard^{t}
+  justification: le mot s'arrête au d ; t suscrit nettement au-dessus de la ligne, aucun em
+  confiance: haute
+- ligne: 5
+  avant: kilomètres. Duel d'artillerie formidable.
+  apres: kilometres. Duel d'artillerie formidable
+  justification: aucun accent visible sur le e ; aucun point après formidable, terminé en long délié
+  confiance: moyenne
+- ligne: 6
+  avant: tremblent continuellement.
+  apres: tremblant continuellement
+  justification: panse de a fermée avant -nt (zoom x3) ; aucun point final
+  confiance: haute
+- ligne: 7
+  avant: énerver.
+  apres: enerver
+  justification: aucun accent sur le e initial (la tache verte n'est pas de l'encre) ; aucun point
+  confiance: haute
+- ligne: 16
+  avant: 'à g. :'
+  apres: 'à g. :'
+  justification: la haste en J qui avait fait douter est la queue du y de Coy (l. 15) ; reste une boucle de a et un long accent horizontal
+  confiance: moyenne
+- ligne: 17
+  avant: les éclairs
+  apres: les eclairs
+  justification: aucun accent sur le e initial ; le seul point au-dessus du mot est celui de l'i, décalé à droite
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: Oct^{bre}/16
+  analyse: O ouvert, c, t barré ; puis petit crochet en tête d'une longue barre oblique descendant vers la gauche (aspect 4 ou y) ; 16 net
+  alternatives:
+  - Oct /16
+  - Oct^{b}/16
+- ligne: 2
+  lemme: brillé
+  analyse: b, r, i (point au-dessus du ll), l, l, e ; trait court oblique au-dessus et à droite du e final, à la place d'un accent
+  alternatives:
+  - brille
+- ligne: 16
+  lemme: à
+  analyse: 'zoom [0 .69 .21 .76] x3 : la longue haste descend de « Coy » (l. 15, x≈.06 y≈.69) et finit en boucle à gauche sur la ligne 16 ; la boucle basse sert de panse au a, le trait horizontal (x≈.035-.067, y≈.714) est l''accent'
+  alternatives:
+  - A
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1009 caractères ; OH 1916-II p. 462-463 (météo du 20, attaque du 21 à 12 h 06, 200 pièces lourdes), Nichols 1922 p. 131 (53rd Brigade, prisonniers) ; registre critique vide (aucune remarque dans p1). La distance au front (« quelques kilomètres au nord-est ») vient de la géographie générale et n''a pas de source. Pas de p2.'
+  alternatives: []
+controle:
+- ligne: 3
+  avant: épaisse
+  apres: epaisse
+  justification: zoom [.44 .09 .65 .14] x3 ; aucun accent détaché au-dessus du e, le trait haut est l'attaque du p
+- ligne: 16
+  avant: \inc{à} g.
+  apres: à g.
+  justification: zoom [0 .69 .21 .76] x3 ; la haste en J est la queue du y de Coy (l. 15) ; boucle de a et long accent reconnaissables
+- ligne: 17
+  avant: éclairs
+  apres: eclairs
+  justification: zoom [.08 .74 .24 .80] x3 ; aucun accent sur le e, seul le point de l'i décalé à droite
+- ligne: 2
+  avant: 'apparat : peu. (lecture, point net)'
+  apres: note supprimée
+  justification: ponctuation banale, pas de note imprimée
+- ligne: 15
+  avant: 'apparat : très (lecture, forme réduite)'
+  apres: note supprimée
+  justification: forme réduite habituelle, lecture sûre
+- ligne: 6
+  avant: tremblant (sans note)
+  apres: 'apparat : note de lecture ajoutée'
+  justification: zoom [.36 .21 .58 .26] x3 confirme tremblant ; leçon nouvelle par rapport à « tremblent »
+remarques: Page entièrement à l'encre violette, d'une seule main et d'un seul jet. Lieu (Albert, brickfield area) déduit du cliché 080. Seconde lecture (p2) faite ; critique laissé vide, faute d'élément vérifiable sur la page.
+resume: Le soleil reparaît un peu, mais la bise est glaciale et la boue reste épaisse. Toute la journée, un bombardement terrifiant à quelques kilomètres fait trembler vitres et portes et empêche de dormir. Hippolyte Combes monte prendre ses repas sur le plateau voisin, où le mess est installé dans une cahute de caisses de munitions vides, et s'organise dans sa chambrette. La nuit, du haut de la colline où bivouaque la compagnie, il voit à gauche l'horizon illuminé par les éclairs des canons, dont la canonnade ne cesse pas.
+noms:
+  personnes: []
+  lieux: []
+source: contrôle

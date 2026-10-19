@@ -1,0 +1,97 @@
+cliche: 81
+fichier: 20251126_104314.jpg
+date: Vendredi 20 octobre 1916
+mois: Octobre 1916
+lieux: Albert (Somme)
+titre: Duel d'artillerie avant Regina Trench ; mess dans une cahute de caisses ; horizon embrasé
+transcription: |
+  \sl{Vendredi 20} \hfill \sl{Oct^{bre}/16}
+  \ind[2] Enfin, soleil brillé 1 peu. mais bise
+  glaciale. Boue tjs epaisse et liquide
+  \ind Tt jour, bombard^{t} terrifiant à qq
+  kilometres. Duel d'artillerie formidable
+  Vitres et portes tremblant continuellement
+  Grondement canons finit par enerver
+  Sommeil, impossible
+  \ind Monté pour mes repas plateau voisin
+  où mess-room ds 1 petite cahute faite
+  avec des caisses vides de munitions.
+  \ind Me suis vite organisé ds ma chambrette
+  \ind Temps froid pénétrant.
+  \ind Nuit, du haut colline où notre
+  Coy bivouaque, très impressionnant spectacle
+  à g. : horizon tout illuminé par
+  les eclairs d'innombrables bouches à feu.
+  \ind Canonnade ne cesse pas et, par
+  moments, d'1 intensité et violence
+  extrême \trait
+apparat:
+- ligne: 1
+  lemme: Oct^{bre}/16
+  type: abreviation
+  note: octobre 1916 ; finale -bre réduite à un crochet lié à la barre oblique
+- ligne: 2
+  lemme: brillé
+  type: lecture
+  note: pour « brille » ; accent net après le e final (transcription antérieure « brille »)
+- ligne: 2
+  lemme: 1 peu
+  type: abreviation
+  note: un peu
+- ligne: 3
+  lemme: tjs
+  type: abreviation
+  note: toujours
+- ligne: 4
+  lemme: Tt
+  type: abreviation
+  note: Tout
+- ligne: 4
+  lemme: bombard^{t}
+  type: abreviation
+  note: bombardement
+- ligne: 4
+  lemme: qq
+  type: abreviation
+  note: quelques
+- ligne: 6
+  lemme: tremblant
+  type: lecture
+  note: a net avant -nt ; non « tremblent » (transcription antérieure)
+- ligne: 10
+  lemme: mess-room
+  type: emprunt
+  note: salle du mess, où les officiers prennent leurs repas
+- ligne: 10
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 10
+  lemme: 1 petite
+  type: abreviation
+  note: une petite
+- ligne: 12
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 15
+  lemme: Coy
+  type: abreviation
+  note: 'Company : compagnie (la 152nd Company A.S.C.)'
+- ligne: 16
+  lemme: à g.
+  type: abreviation
+  note: à gauche
+- ligne: 16
+  lemme: à
+  type: lecture
+  note: a réduit à une boucle surmontée d'un long accent, recoupé par la queue du y de « Coy »
+- ligne: 19
+  lemme: d'1
+  type: abreviation
+  note: d'une
+historique: |
+  Le soleil et la « bise glaciale » du 20 concordent avec l'histoire officielle : « un jour de pluie fut suivi de soleil le 20, quand un grand vent sécha un peu la boue » (OH 1916-II, p.~462). Le « duel d'artillerie formidable » est la préparation de l'attaque que le II Corps lance le lendemain, 21 octobre, à 12~h~06, sur Regina et Stuff Trenches, sur près de 5~000 yards. Elle est appuyée par 200 pièces lourdes et l'artillerie de campagne de sept divisions (OH 1916-II, p.~463). L'infanterie des 4th Canadian, 18th, 25th et 39th Divisions y prend part. Dans la 18th Division, la 53rd Brigade (10th Essex, 8th Norfolk) enlève sa part de Regina Trench : 250 Allemands sont tués, 6 officiers et 309 hommes faits prisonniers (Nichols 1922, p.~131). Ces tranchées courent sur la crête au nord de Courcelette et de Thiepval, à quelques kilomètres au nord-est du camp. La « colline » et le « plateau voisin » sont ceux des briqueteries au nord d'Albert, où bivouaque la compagnie (voir f.~40~v\textsuperscript{o}).
+sources:
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 462-463.
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 131.

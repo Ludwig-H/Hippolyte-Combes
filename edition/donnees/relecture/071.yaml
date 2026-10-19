@@ -1,0 +1,93 @@
+cliche: 71
+confiance: haute
+changements:
+- ligne: 1
+  avant: Mardi 10 \hfill Oct 1916
+  apres: \sl{Mardi 10} \hfill Oct^{bre} \sl{1916}
+  justification: Mardi 10 souligné d'un trait appuyé ; à droite, le trait (x .79-.95) ne couvre que 1916 ; après le t de Oct, trait remontant terminé par une ondulation horizontale suscrite, forme Oct^{bre} de 068-070
+  confiance: moyenne
+- ligne: 2
+  avant: Enfin, très belle journée.
+  apres: \ind[2] Enfin, très belle journée.
+  justification: ligne commencée vers x .17
+  confiance: haute
+- ligne: 3
+  avant: Matin & après-midi, occupé pour green
+  apres: matin & après-midi, occupé pour green
+  justification: initiale au module des minuscules, sans le long délié d'attaque du M
+  confiance: haute
+- ligne: 9
+  avant: mètres, lisière forêt arbres
+  apres: mètres, lisière foret arbres
+  justification: aucun circonflexe sur foret ; seule la longue barre du t surmonte le mot
+  confiance: haute
+- ligne: 12
+  avant: + éclatantes et qui se détachaient
+  apres: + eclatantes et qui se détachaient
+  justification: aucun accent visible au-dessus de l'e initial, la boucle du l seule s'élève
+  confiance: moyenne
+- ligne: 14
+  avant: Comme ts les soirs, nuit
+  apres: \ind[2] Comme ts les soirs, nuit
+  justification: alinéa marqué (x .16)
+  confiance: haute
+- ligne: 18
+  avant: gde paix épandue ——————
+  apres: gde paix épandue \trait
+  justification: trait de remplissage isolé jusqu'à la marge (guide, 071 [.74 .80 .92 .835])
+  confiance: haute
+difficultes:
+- ligne: 1
+  lemme: Oct^{bre}
+  analyse: O en boucle ouverte, c réduit à un point épais, t à longue haste montante prolongée en une courte ondulation horizontale terminée en crochet descendant (zoom ×3 [.70 0 .88 .07]) ; aucune lettre b ou r distincte
+  alternatives:
+  - Oct
+  - Oct^{b}
+- ligne: 10
+  lemme: côté
+  analyse: c, o, t surmonté d'un crochet (circonflexe décalé à droite ?), e final prolongé en délié montant (accent fondu ?)
+  alternatives:
+  - coté
+  - cotè
+- ligne: 11
+  lemme: rendait
+  analyse: r à bosse, e ouvert (aspect a), n plongeant (aspect y), d à haste bouclée (aspect h), a, i pointé, t barré (zoom ×3 [.78 .44 1.0 .49]) ; graphie apparente « rayhait », sens sûr
+  alternatives: []
+- ligne: 12
+  lemme: détachaient
+  analyse: d en ∂ fondu avec la barre du t en forme de Z (zoom ×3 [.72 .50 1.0 .545]) ; le crochet d'attaque du d peut porter l'accent ; on garde la leçon de la première lecture
+  alternatives:
+  - detachaient
+- ligne: 16
+  lemme: l'immensité
+  analyse: première lettre en ε basse, apostrophe en petit trait au-dessus, longue haste, i pointé, mm, e, n, s, i pointé, finale en délié (zoom ×3 [.75 .70 1.0 .75]) ; la forme ε pourrait faire lire « él'immensité », le sens impose l'immensité
+  alternatives: []
+- ligne: 17
+  lemme: étoiles
+  analyse: trace très fine au-dessus de l'e initial (accent probable), l et t hauts liés (zoom ×3 [.55 .75 .85 .80])
+  alternatives:
+  - etoiles
+- ligne: 18
+  lemme: épandue
+  analyse: au-dessus de l'e initial, crochet rattaché au jambage du second q de qq (l. 17) ; accent possible mais confondu avec ce jambage (zoom ×3 [.38 .79 .70 .85])
+  alternatives:
+  - epandue
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié : rien sur l''image ne modifie le lieu ni la datation ; aucun nom propre sur la page.'
+  alternatives: []
+controle:
+- ligne: 4
+  avant: 'apparat forage : fin de green forage, fourrage vert'
+  apres: 'apparat forage : angl. forage, fourrage (suite de green forage)'
+  justification: note d'emprunt précisée (forage est le mot anglais pour fourrage)
+- ligne: 11
+  avant: apparat lecture « rendait » (analyse des traits)
+  apres: note supprimée de l'apparat, analyse conservée dans difficultes
+  justification: lecture sûre par le sens et déjà donnée par la transcription antérieure ; détail paléographique non imprimable
+remarques: 'Lieu repris de l''état antérieur (Barlette, bois de Ribeaucourt) : aucun nom de lieu sur la page.'
+resume: Mardi 10 octobre 1916, enfin une très belle journée. Matin et après-midi, Hippolyte Combes s'occupe de fourrage vert et conduit les fourragères dans les champs. Assis sur une botte de luzerne pendant le chargement, il contemple la lisière de la forêt à 40 ou 50 mètres, arbres aux teintes que le soleil rend plus éclatantes sur le ciel bleu. Le soir, nuit merveilleuse de pleine lune, quelques rares étoiles, grande paix.
+noms:
+  personnes: []
+  lieux: []
+source: contrôle

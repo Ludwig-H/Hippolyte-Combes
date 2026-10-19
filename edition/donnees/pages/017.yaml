@@ -1,0 +1,97 @@
+cliche: 17
+fichier: 20251126_093529.jpg
+date: Vendredi 11 août 1916
+mois: Août 1916
+lieux: La Croix-du-Bac (Steenwerck, Nord)
+titre: Une heure d'obus autour du cantonnement et de la blanchisserie Barbry ; abri à la cave
+transcription: |
+  \sl{11 Ven.} \hfill \sl{Aout /16}
+  \ind[2] De nouveau tempér^{re} caniculaire.
+  Après-midi, de 2 à 3, 40 ou 50 obus
+  tombés autour de nos parages.
+  Maison du coin, à 50 mètres 1
+  soldat, \del{\inc{décapité}}. \del{\inc{bras emportés}} \trait
+  \ind A la gde blanchisserie
+  Barbry bp de dégâts. Obus
+  non éclatés, encore s/ l'herbe –
+  \ind Descendus cave pendant le
+  bombard^{t}. Enervement et
+  malaise – Insécurité \sur{\inc{relative}}{perpétuelle}
+  \blanc{2}
+  \filet
+  \ind oeufs : 50 + 0.05. –
+  \blanc{1}
+  \filet
+  \ind Question nouveau départ dimanche
+  gde chambre, haute fenêtre, belle
+  vue campagne très étendue
+  ouest d Armentières \trait
+apparat:
+- ligne: 1
+  lemme: Ven.
+  type: abreviation
+  note: vendredi
+- ligne: 1
+  lemme: Aout /16
+  type: abreviation
+  note: août 1916
+- ligne: 2
+  lemme: tempér^{re}
+  type: abreviation
+  note: température
+- ligne: 5
+  lemme: '1'
+  type: abreviation
+  note: un
+- ligne: 6
+  lemme: \del{\inc{décapité}}
+  type: rature
+  note: mot biffé de boucles serrées ; lecture probable, seuls d initial et finale -té restent visibles
+- ligne: 6
+  lemme: \del{\inc{bras emportés}}
+  type: rature
+  note: deux mots biffés de boucles ; lecture probable (b initial, p, t visibles), suivie d'un trait jusqu'au bord
+- ligne: 7
+  lemme: gde
+  type: abreviation
+  note: grande
+- ligne: 8
+  lemme: Barbry
+  type: lecture
+  note: y final réduit à un délié ; même nom en 022 et 023 (M. Barbry)
+- ligne: 8
+  lemme: bp
+  type: abreviation
+  note: beaucoup
+- ligne: 9
+  lemme: s/
+  type: abreviation
+  note: sur
+- ligne: 11
+  lemme: bombard^{t}
+  type: abreviation
+  note: bombardement
+- ligne: 11
+  lemme: et
+  type: lecture
+  note: et en toutes lettres (et non &)
+- ligne: 12
+  lemme: \sur{\inc{relative}}{perpétuelle}
+  type: surcharge
+  note: perpétuelle écrit plus haut, d'un tracé plus fin, sur relative (lecture probable) non biffé ; autre lecture du mot couvert, continuelle, moins conforme aux traits
+- ligne: 13
+  lemme: 50 + 0.05.
+  type: compte
+  note: 50 c + 5 c = 55 c
+- ligne: 15
+  lemme: gde
+  type: abreviation
+  note: grande
+critique: Les deux biffures de la l.~6, d'une encre noir bleuté distincte, sont peut-être postérieures à la rédaction. Les quatre dernières lignes, isolées entre le filet des comptes et un double trait ondulé, forment une note à part.
+historique: |
+  Le bombardement touche l'arrière d'un secteur réputé calme : le 9 août, « about 50 heavy shells » étaient tombés sur Armentières (JMO 7/Bedf, 9 août 1916), et le 10th Essex note que le QG divisionnaire, « a few miles back » d'Erquinghem, « received some attention from enemy artillery » (Banks \& Chell 1924, p. 142) ; ce QG n'est pas localisé. Le soldat atteint dans la « maison du coin » n'est pas identifié. La « gde blanchisserie Barbry » se rattache sans doute aux blanchisseurs Barbry de la rue de la Lys à Sailly-sur-la-Lys, entre le bourg et Bac-Saint-Maur, à 1,5 km environ de La Croix-du-Bac (répertoire SIRENE ; R5, F63) ; Combes y repasse le 19 août et prend café et rhum chez « M. Barbry » le 20 (voir f. 11 v\textsuperscript{o} et f. 12 r\textsuperscript{o}). Ces usines de blanchiment des fils et toiles de lin jalonnaient la Lys, telle l'usine Mahieu d'Erquinghem-Lys, « partiellement détruite » pendant la guerre (Mérimée PA59000059). Le « nouveau départ dimanche » (13 août) n'eut pas lieu : la compagnie ne quitte les bords de la Lys que le 25 août.
+sources:
+- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (transcription en ligne).'
+- Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., London, Gay & Hancock, 1924, p. 142.
+- INSEE, répertoire SIRENE (annuaire-entreprises.data.gouv.fr), établissements Barbry, rue de la Lys, Sailly-sur-la-Lys, consulté le 18 oct. 2026.
+- Ministère de la Culture, base Mérimée, notice PA59000059 (ancienne usine de blanchiment Mahieu, Erquinghem-Lys).

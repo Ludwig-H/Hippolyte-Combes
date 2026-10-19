@@ -1,0 +1,159 @@
+cliche: 168
+confiance: moyenne
+changements:
+- ligne: 2
+  avant: Température douce. Tout le jour, ciel nuageux.
+  apres: Température douce. Tout le / jour, ciel nuageux. Soleil brille
+  justification: 'coupure des lignes rétablie : « Tout le » termine la l. 2, « Soleil brille » la l. 3'
+  confiance: haute
+- ligne: 6
+  avant: Mon lt
+  apres: Mon l^{t}
+  justification: t nettement suscrit
+  confiance: haute
+- ligne: 7
+  avant: Hérissart. Liberté entière.
+  apres: Herissart. Liberté entière. –
+  justification: aucun accent sur le e ; tiret après le point
+  confiance: moyenne
+- ligne: 9
+  avant: Ont le fils, élève de Normle Supre.
+  apres: \inc{Avait} le fils, eleve de Norm^{le} Sup^{re}
+  justification: le mot commence par un A pointu suivi de v, a, i, t ; ni O ni n ; finales suscrites ; pas d'accents ni de point visibles
+  confiance: moyenne
+- ligne: 10
+  avant: Mercredi 14. —
+  apres: \sl{Mercredi 14.} —
+  justification: long soulignement sous la date
+  confiance: haute
+- ligne: 12
+  avant: détrempées, boue épaisse
+  apres: detrempées, boue epaisse
+  justification: aucun accent visible sur les e initiaux
+  confiance: moyenne
+- ligne: 13
+  avant: Déménagé
+  apres: Deménagé
+  justification: seul le deuxième e (au-dessus de n, décalé) porte un accent
+  confiance: moyenne
+- ligne: 14
+  avant: rue, tout en face
+  apres: rue , tout en face
+  justification: grand blanc entre rue et la virgule
+  confiance: haute
+- ligne: 15
+  avant: chambre. Ns
+  apres: chambre Ns
+  justification: délié final de chambre, aucun point
+  confiance: moyenne
+- ligne: 17
+  avant: Puchevillers; allé
+  apres: Puchevillers ; allé
+  justification: point-virgule détaché
+  confiance: haute
+- ligne: 20
+  avant: nuages.
+  apres: nuages \trait
+  justification: long trait tiré après nuages, pas de point
+  confiance: haute
+- ligne: 21
+  avant: — Jeudi 15. —
+  apres: – \sl{Jeudi 15}. –
+  justification: tirets courts, date soulignée
+  confiance: haute
+- ligne: 22
+  avant: 1/2 jour
+  apres: \fr{1}{2} jour
+  justification: fraction empilée
+  confiance: haute
+- ligne: 24
+  avant: '& Bertrancourt etc. etc. A Acheux Wood'
+  apres: '& \inc{Bertrancourt} etc. etc. A acheux Wood'
+  justification: nom écrasé ; second acheux à initiale minuscule
+  confiance: moyenne
+- ligne: 25
+  avant: pataugé boue épaisse.
+  apres: pataugé boue epaisse.
+  justification: pas d'accent visible
+  confiance: moyenne
+difficultes:
+- ligne: 9
+  lemme: Avait
+  analyse: haste montante à boucle de tête (A pointu), arrondi v, a fermé, i (point déporté), t à barre ; aucune descente
+  alternatives:
+  - Ayant
+  - Ont
+- ligne: 9
+  lemme: Norm^{le}
+  analyse: N à attaque, o, r peu distinct, m ; « le » nettement suscrit
+  alternatives:
+  - Nom^{le}
+- ligne: 24
+  lemme: Bertrancourt
+  analyse: B bouclé, e, lettre descendante (r ou z), série de minimes (ra n ?), c, o, u, r, t à barre longue ; le contexte (Acheux) appuie Bertrancourt
+  alternatives:
+  - Beaucourt
+  - Beauquesne
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Remarque historique contrôlée : la glose de p1 sur l^{t} (capitaine Williams) a été supprimée, Williams étant parti le 10 mars ; l''identité du lieutenant reste à établir. « Avait le fils » contrôlé au zoom : A initial, v ou y, minimes, t barré ; une descente sous la 2e lettre appartient au « 1 » de « 14 » ; Ayant reste possible. Mesnil = Mesnil-Martinsart, hypothèse.'
+  alternatives: []
+controle:
+- ligne: 6
+  avant: 'note : lieutenant (le capitaine Williams ou son adjoint)'
+  apres: 'note : lieutenant'
+  justification: Williams parti le 10 mars ; identité non établie, glose retirée
+- ligne: 8
+  avant: lemme Mme
+  apres: lemme M. & Mme
+  justification: M. aussi abréviation ; une seule note
+- ligne: 9
+  avant: 'note Avait : A pointu, v, a, i, t barré ; aucune descente…'
+  apres: note brève, Ayant possible
+  justification: 'zoom ×3 : 2e lettre en V, descente voisine due au 1 de « 14 » ; Ayant non exclu'
+- ligne: 10
+  avant: note disposition sur le soulignement de Mercredi 14
+  apres: supprimée
+  justification: le balisage \sl suffit
+- ligne: 21
+  avant: note disposition sur Jeudi 15
+  apres: supprimée
+  justification: le balisage suffit
+- ligne: 22
+  avant: —
+  apres: abréviation « 1 peu » = un peu
+  justification: abréviation non relevée
+- ligne: 24
+  avant: note Bertrancourt détaillée
+  apres: note brève
+  justification: 'zoom ×3 : B, e, trait descendant, ~4 minimes, court barré ; Beaucourt (a-u) compatible, Bertrancourt appuyé par le contexte (Acheux)'
+remarques: Le soulignement de « Mercredi 14 » est tiré assez bas, au-dessus de « Matinée ».
+resume: Le 13 mars, temps doux et nuageux, routes boueuses ; le lieutenant étant parti à Martinsart, Hippolyte Combes reste seul à Hérissart et rend visite après le thé à M. et Mme Flutre, instituteurs, dont le fils est élève de l'École normale supérieure. Le 14, sous la pluie, l'office et le mess sont transférés au billet 216, en face de sa maison ; l'après-midi, il fait la tournée des fermes de Puchevillers pour la paille. Le 15, froid piquant et vent glacial ; courses à Acheux et Bertrancourt, et à Acheux Wood dans une boue épaisse.
+noms:
+  personnes:
+  - forme: Flutre
+    ligne: 8
+    identite: M. et Mme Flutre, instituteurs
+  lieux:
+  - forme: Martinsart
+    ligne: 6
+    identite: Martinsart (Somme)
+  - forme: Herissart
+    ligne: 7
+    identite: Hérissart (Somme)
+  - forme: Mesnil
+    ligne: 9
+    identite: Le Mesnil-Martinsart (Somme), probablement
+  - forme: Puchevillers
+    ligne: 17
+    identite: Puchevillers (Somme)
+  - forme: Acheux
+    ligne: 23
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Bertrancourt
+    ligne: 24
+    identite: Bertrancourt (Somme)
+  - forme: acheux Wood
+    ligne: 24
+    identite: bois d'Acheux (Somme)
+source: contrôle

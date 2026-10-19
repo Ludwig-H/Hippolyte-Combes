@@ -1,0 +1,174 @@
+cliche: 104
+confiance: moyenne
+changements:
+- ligne: 2
+  avant: 'Tjrs même temps : brouillard & pluie.'
+  apres: '\ind[2] Tjours même temps : brouillard & pluie.'
+  justification: 'T barré, j pointé, o, jambages, s plongeant : Tjours ; ligne propre en retrait sous le soulignement de la date'
+  confiance: haute
+- ligne: 3
+  avant: Routes, état lamentable. Matin, rien à faire.
+  apres: Routes, état \del{lamentable} matin, \inc{rendormi}
+  justification: '« lamentable » nettement biffé ; m initial minuscule ; le dernier mot n''a ni « rien » ni « à faire » : r, en, d bouclé, o, r, m, point d''i'
+  confiance: moyenne
+- ligne: 4
+  avant: Après-midi
+  apres: après-midi
+  justification: a initial au module d'une minuscule
+  confiance: moyenne
+- ligne: 5
+  avant: Château, reçu aimablt par M. & Mme Bertin [?],
+  apres: Chateau, reçu aimablt par M. & M \inc{Vali};
+  justification: pas de circonflexe ; Madame écrit M seul ; nom commençant par V-a (guide § 8, piège 28) ; point-virgule (point au-dessus d'une virgule)
+  confiance: moyenne
+- ligne: 6
+  avant: av.
+  apres: av
+  justification: a + v, aucun point
+  confiance: haute
+- ligne: 8
+  avant: terrains défoncés.
+  apres: terrains défoncés \trait
+  justification: délié final prolongé jusqu'à la marge, sans point
+  confiance: haute
+- ligne: 11
+  avant: à l'horizon — canonnade.
+  apres: à l'horizon - canonnade \trait
+  justification: tiret court ; délié final de canonnade prolongé et recourbé
+  confiance: haute
+- ligne: 12
+  avant: 29 Me. Matin, très épais brouillard.
+  apres: \sl{29 Me} / \ind Matin, très épais brouillard
+  justification: 'Matin écrit sous le soulignement de la date, en retrait : deux lignes'
+  confiance: haute
+- ligne: 14
+  avant: Après-midi
+  apres: après-midi
+  justification: a initial minuscule
+  confiance: moyenne
+- ligne: 17
+  avant: paysage. Arbres, fantomatiques au 1/2 des champs.
+  apres: paysage. arbres, fantomatiques au \fr{1}{2} des champs —
+  justification: fraction empilée (1, barre, 2 bouclé) ; tiret épais final ; a minuscule
+  confiance: haute
+- ligne: 18
+  avant: 'Moulins à (vent) / [ — Washing : 70 c — ]'
+  apres: '\droite Moulins à / \ind[2] — Washing : 70 c — \hfill (vent)'
+  justification: aucun crochet autour du compte ; « (vent) » à droite, à la hauteur du compte
+  confiance: haute
+- ligne: 20
+  avant: 30 J. — Matinée, à Acheux. Temps couvert / & brouillard.
+  apres: \sl{30 J} — \hfill Temps couvert / \ind[2] matinée, à Acheux - \hfill & brouillard
+  justification: coupure réelle des lignes ; m minuscule ; tiret court après Acheux
+  confiance: haute
+- ligne: 23
+  avant: aller. Au retour, arrêt à Hérissart. Y pris thé.
+  apres: \addm{aller} Au retour. arret à Herissart. Y pris thé
+  justification: aller serré dans la marge gauche ; point après retour ; ni circonflexe ni accent
+  confiance: haute
+- ligne: 24
+  avant: 7h s.
+  apres: 7^{H} s
+  justification: H suscrit à deux hastes ; s sans point
+  confiance: haute
+- ligne: 25
+  avant: dîné 1ère fois
+  apres: diné 1^{re} fois
+  justification: pas de circonflexe ; finale suscrite
+  confiance: moyenne
+- ligne: 26
+  avant: 79 C, chambre du Lt Curtis.
+  apres: 49 C, chambre du L^{t} Curtis.
+  justification: premier chiffre en 4 ouvert (aspect k), sans barre de tête ni barre médiane, différent des 7 de la page ; t suscrit
+  confiance: moyenne
+difficultes:
+- ligne: 3
+  lemme: rendormi
+  analyse: 'après « matin, » : petit r d''attaque, e, n, d en ∂ dont la boucle remonte, o ouvert, r bouclé, m, long délié, point décalé à droite ; la haste qui traverse le début du mot descend du & de « brouillard & pluie » (l. 2), et une boucle haute vient du p de « pluie »'
+  alternatives:
+  - endormi
+  - rien à faire (état antérieur, non porté par les traits)
+- ligne: 5
+  lemme: Vali
+  analyse: V à premier jambage épais, a fermé, haste moins haute que le V puis arche (l ou h), dernier jambage en crochet ; point au-dessus d'une virgule = point-virgule ; « Bertin » exclu (aucun B, aucun t barré)
+  alternatives:
+  - Vahi
+  - Valin
+  - Vah
+- ligne: 9
+  lemme: ttes
+  analyse: t, t sous barre commune, e, crochet final remontant = s réduit ; le trait vertical qui suit est le jambage du p de « plates » (l. 8)
+  alternatives:
+  - tte
+- ligne: 13
+  lemme: brouillard
+  analyse: mot repassé d'une encre plus appuyée ; une boucle plus pâle du premier tracé reste visible en tête ; même mot
+  alternatives: []
+- ligne: 17
+  lemme: arbres
+  analyse: a au module d'une minuscule ; r, b, r, e, long délié final pouvant valoir s
+  alternatives:
+  - arbre
+- ligne: 26
+  lemme: de
+  analyse: 'après chambre : d en ∂ à haste bouclée puis une seule boucle d''e prolongée, sans les deux jambages d''un u ; même tracé que « de » l. 9 et « des » l. 17'
+  alternatives:
+  - du
+- ligne: 26
+  lemme: 49 C
+  analyse: 'premier chiffre : haste avec boucle à droite (4 ouvert, aspect k) ; les 7 de la page (70 c, 7^{H}) ont barre de tête et barre médiane, absentes ici ; 9 net'
+  alternatives:
+  - 79 C
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1070 caractères ; sources : CWGC (Martinsart British Cemetery), OH 1916-I p. 276 n., LLT (QG du V et du XIII Corps) ; transcription p1 seulement, aucun p2 n''est apparu. Le nom des châtelains de Martinsart (« Vali », lu « Bertin » par l''édition antérieure) n''est pas identifié, et une recherche web n''a rien donné. Le champ lieux est corrigé : Martinsart est un hameau de Mesnil-Martinsart, Septenville un hameau de Rubempré.'
+  alternatives: []
+controle:
+- ligne: 26
+  avant: 49 C, chambre du L^{t} Curtis.
+  apres: 49 C, chambre de L^{t} Curtis.
+  justification: zoom ×3 [0 .93 .45 .985] ; ∂ + e unique, aucun jambage de u ; comparé à « de » l. 9
+- ligne: 20
+  avant: apparat disposition « Temps couvert » (note sur deux lignes)
+  apres: note supprimée
+  justification: la transcription (\hfill sur l. 20 et 21) rend déjà la disposition
+- ligne: 3
+  avant: notes d'apparat détaillées (lecture rendormi, Vali, 49 C, Nov^{bre}, rature)
+  apres: notes abrégées
+  justification: épuration ; analyses conservées dans difficultes ; rendormi (zoom ×3 [.72 .065 1 .12]) et Vali (zoom ×3 [.55 .13 1 .19]) confirmés comme incertains, sans meilleure lecture
+remarques: Encre noire virée au brun, homogène ; « brouillard » (l. 13) repassé. Le nom des châtelains de Martinsart reste à confronter à d'autres occurrences.
+resume: Le 28 novembre, brouillard et pluie, routes en mauvais état ; l'après-midi, course en auto à Martinsart, où Hippolyte Combes est reçu au château par M. et Mme Val… [?] et prend le thé ; gros canons en action tout près, convois, éclairs à l'horizon au retour. Le 29, épais brouillard ; tournée en auto par Raincheval, Puchevillers, Rubempré, Septenville et Pierregot dans un paysage enseveli ; blanchissage 70 c. Le 30, matinée à Acheux, l'après-midi course à Septenville, thé à Hérissart au retour ; le soir, premier dîner au nouveau mess, chambre du lieutenant Curtis.
+noms:
+  personnes:
+  - forme: M. & M Vali
+    ligne: 5
+    identite: propriétaires du château de Martinsart (nom de lecture incertaine ; lu « Bertin » par l'état antérieur)
+  - forme: L^{t} Curtis
+    ligne: 26
+    identite: lieutenant britannique de la compagnie d'Hippolyte Combes
+  lieux:
+  - forme: Martinsart
+    ligne: 4
+    identite: Martinsart (Somme)
+  - forme: Raincheval
+    ligne: 14
+    identite: Raincheval (Somme)
+  - forme: Puchevillers
+    ligne: 15
+    identite: Puchevillers (Somme)
+  - forme: Rubempré
+    ligne: 15
+    identite: Rubempré (Somme)
+  - forme: Septenville
+    ligne: 15
+    identite: Septenville, hameau de Rubempré (Somme)
+  - forme: Pierregot
+    ligne: 15
+    identite: Pierregot (Somme)
+  - forme: Acheux
+    ligne: 21
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Herissart
+    ligne: 23
+    identite: Hérissart (Somme)
+source: contrôle

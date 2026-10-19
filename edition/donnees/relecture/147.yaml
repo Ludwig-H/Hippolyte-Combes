@@ -1,0 +1,169 @@
+cliche: 147
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Merc. 7 (suite) \hfill Février 1917
+  apres: Merc. \sl{7 (suite)} \hfill \sl{Février 1917}
+  justification: soulignements visibles sous 7 (suite) et sous la fin de Février et 19
+  confiance: haute
+- ligne: 5
+  avant: pour ⟦...⟧ Hérissart. Venu aussitôt Mission
+  apres: pour \del{\ill}Hérissart Venu aussitot Mission
+  justification: pâté couvrant des lettres ; aucun point après Hérissart, seulement la barre du t ; aucun circonflexe
+  confiance: moyenne
+- ligne: 6
+  avant: où trouvé un mot du Cap. W.
+  apres: où trouvé un mot du cap W^{m}
+  justification: c minuscule, aucun point après cap ; crochet suscrit après W, non un point
+  confiance: moyenne
+- ligne: 8
+  avant: annoncer mon arrivée.
+  apres: annoncer mon arrivée
+  justification: aucun point
+  confiance: moyenne
+- ligne: 9
+  avant: Rentré chez les Carluvant, auxquels annoncé mon
+  apres: Rentré chz les Carluvant, auxquels annoncé m\lac
+  justification: c-h-z à z plongeant ; après le m, pâté jusqu'à la marge
+  confiance: haute
+- ligne: 10
+  avant: départ. Atterrés. Fait en hâte mes paquets. Attendu
+  apres: Atterrés. Fait en hâte mes paquets. Attendu
+  justification: la ligne commence par Atterrés ; départ n'est écrit nulle part en clair
+  confiance: haute
+- ligne: 11
+  avant: l'auto, qui arrivée vers 4h 1/2.
+  apres: l'auto, qui arrivée vers \sur{\ill}{4}^{h} \fr{1}{2}
+  justification: chiffre repassé ; h suscrit en deux hastes ; fraction empilée ; aucun point
+  confiance: moyenne
+- ligne: 12
+  avant: Quitté village
+  apres: Quitte village
+  justification: aucun accent visible
+  confiance: moyenne
+- ligne: 13
+  avant: avec 1 serrement de cœur — —
+  apres: avec 1 serrement de cœur – –
+  justification: deux tirets courts
+  confiance: moyenne
+- ligne: 15
+  avant: '& Puchevillers.'
+  apres: '& Puchevillers'
+  justification: long délié final, aucun point
+  confiance: moyenne
+- ligne: 16
+  avant: Bise glaciale. Froid intense.
+  apres: \ind Bise glaciale Froid intense
+  justification: aucun point, seulement des déliés finaux ; ligne en retrait
+  confiance: moyenne
+- ligne: 17
+  avant: petite chambre, n° 7b,
+  apres: petite chamb, no 7b,
+  justification: le mot s'arrête au b, suivi d'une virgule ; o non suscrit
+  confiance: haute
+- ligne: 18
+  avant: 1er étage café Charlet, angle rue.
+  apres: 1^{er} etage café \inc{Chatelain}, angle rue.
+  justification: crochet suscrit après 1 ; aucun accent sur etage ; nom de neuf lettres à deux hampes, point d'i après le mot (p2 ; p1 lisait Chalelton)
+  confiance: basse
+- ligne: 19
+  avant: fenêtre, as. belle vue sur la place et église.
+  apres: fenetre, asz belle vue sur la place et eglise
+  justification: a-s-z plongeant, pas de point ; aucun circonflexe ni accent aigu ; pas de point final
+  confiance: moyenne
+- ligne: 20
+  avant: Pleine lune brillait entre gds arbres.
+  apres: \ind Pleine lune brillait entre gds arbres.
+  justification: ligne en retrait ; point net après arbres
+  confiance: haute
+- ligne: 21
+  avant: Changement plutôt pénible d'habitudes.
+  apres: Changement plutot penible d'habitudes
+  justification: aucun accent visible ; paraphe final et non point
+  confiance: moyenne
+difficultes:
+- ligne: 5
+  lemme: \del{\ill}
+  analyse: sous le pâté se devinent deux ou trois hampes (H, t ?) ; Hérissart reprend ensuite en clair
+  alternatives:
+  - Hé
+  - Her
+- ligne: 9
+  lemme: m\lac
+  analyse: a-n-n-o-n-c-é net, puis m et un pâté qui descend jusqu'à la ligne suivante ; place pour « on », guère pour « départ »
+  alternatives:
+  - mon
+  - mon dép.
+- ligne: 11
+  lemme: \sur{\ill}{4}^{h}
+  analyse: chiffre très chargé d'encre, forme finale de 4 fermé ; tracé antérieur indistinct
+  alternatives:
+  - '5'
+  - '3'
+- ligne: 18
+  lemme: \inc{Chatelain}
+  analyse: C bouclé, h, a, première hampe non barrée, e, seconde hampe portant une barre (barre de t décalée à droite selon l'usage du scripteur), panse ronde (a ou o), minimes et long délié ; point isolé à hauteur d'œil juste après le mot, qui ne s'explique que par un i ; d'où Chatelain plutôt que Chalelton
+  alternatives:
+  - Chalelton
+  - Chatelin
+  - Charleton
+- ligne: 18
+  lemme: 1^{er}
+  analyse: après 1, petit crochet bouclé à peine relevé, puis e-t-a-g-e ; peut-être r seul
+  alternatives:
+  - 1^{r}
+  - 1^{e}
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1 029 caractères ; sources : OH 1916-I p. 304, Long, Long Trail (QG de la Fifth Army à Toutencourt, hôpitaux d''évacuation de Puchevillers), Palissy PM80005288 (église Saint-Martin, Hérissart) ; seule la lecture p1 existe. Le nom du café se lit « Chalelton », lecture incertaine, et non « Charlet » comme dans la lecture antérieure et R7 F2. Mme Delille et le capitaine Williams ne sont pas identifiés. Le « Mme Delille, postière » de l''édition antérieure n''est pas attesté. (p2 : nom du café relu \inc{Chatelain}, voir ci-dessus.)'
+  alternatives: []
+controle:
+- ligne: 18
+  avant: \inc{Chalelton}
+  apres: \inc{Chatelain}
+  justification: point isolé à hauteur d'œil juste après le mot, qui suppose un i dans la finale (-ain) ; barre posée sur la seconde hampe = barre décalée du t (première hampe) ; Chalelton n'est pas un nom attesté
+- ligne: 19
+  avant: la place et église
+  apres: la place et eglise
+  justification: aucun accent au-dessus du e initial ni de la lettre suivante (zoom ×3)
+- ligne: 20
+  avant: entre gds arbres
+  apres: entre gds arbres.
+  justification: point rond net sur la ligne de base, détaché après arbres
+- ligne: 0
+  avant: apparat p1 (notes de Mme, cap W^{m}, 1^{er}, m\lac, Chalelton)
+  apres: notes réduites au développement ou à la lecture
+  justification: épuration de l'apparat imprimé (descriptions de tracés renvoyées aux champs non imprimés) ; critique allégée
+remarques: Le nom du café (l. 18) reste à confronter avec d'autres occurrences à Hérissart (148 sqq.) ; le lexique porte « café Charlet (147) », lecture non confirmée ; p1 lisait Chalelton, p2 Chatelain (point d'i après le mot).
+resume: En se rendant au bureau, Hippolyte Combes apprend de Mme Delille que le capitaine Williams a quitté Acheux pour Hérissart. À la Mission française, il trouve un mot du capitaine et lui téléphone. De retour chez les Carluvant, atterrés, il fait ses paquets ; l'auto arrive vers 4 h 1/2 et l'emmène à Hérissart par Raincheval et Puchevillers, sous une bise glaciale. Le Town Major lui donne une petite chambre au premier étage d'un café d'angle, avec vue sur la place et l'église.
+noms:
+  personnes:
+  - forme: Mme Delille
+    ligne: 3
+    identite: employée du guichet (poste ?) à Acheux
+  - forme: Cap. Williams
+    ligne: 4
+    identite: capitaine britannique, chef d'Hippolyte Combes
+  - forme: cap W^{m}
+    ligne: 6
+    identite: capitaine Williams
+  - forme: Carluvant
+    ligne: 9
+    identite: logeurs d'Hippolyte Combes à Acheux
+  lieux:
+  - forme: Acheux
+    ligne: 4
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Hérissart
+    ligne: 5
+    identite: Hérissart (Somme)
+  - forme: Raincheval
+    ligne: 14
+    identite: Raincheval (Somme)
+  - forme: Puchevillers
+    ligne: 15
+    identite: Puchevillers (Somme)
+  - forme: café \inc{Chatelain}
+    ligne: 18
+    identite: café de Hérissart, nom incertain
+source: contrôle

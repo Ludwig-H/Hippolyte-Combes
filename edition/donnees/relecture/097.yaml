@@ -1,0 +1,149 @@
+cliche: 97
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: Ven. 10 \hfill Novembre 1916 / Très belle journée. Chaud
+  apres: \sl{Ven– 10} Très belle journée. Chaud \hfill \sl{Novembre 1916}
+  justification: Une seule ligne manuscrite (même ligne de base) ; trait court après Ven ; date et mois soulignés.
+  confiance: haute
+- ligne: 3
+  avant: Matinée
+  apres: matinée
+  justification: Initiale minuscule, ligne en retrait.
+  confiance: haute
+- ligne: 4
+  avant: écrit, réfléchi
+  apres: écrit réfléchi
+  justification: Aucune virgule entre les deux mots ; les traits visibles sont les hampes des ll de « nouvelle » (l. 5). Confirmé au zoom [.20 .105 .65 .15].
+  confiance: haute
+- ligne: 5
+  avant: nouvelle.
+  apres: nouvelle —
+  justification: Pas de point ; tiret détaché après le délié final.
+  confiance: moyenne
+- ligne: 8
+  avant: les détails
+  apres: le – détails
+  justification: « le » à délié final, puis tiret horizontal isolé à mi-hauteur, sans s (zoom [.50 .24 .85 .285]).
+  confiance: moyenne
+- ligne: 8
+  avant: paysage.
+  apres: paysage \trait
+  justification: Délié final prolongé jusqu'à la marge, aucun point.
+  confiance: haute
+- ligne: 9
+  avant: lune.
+  apres: lune \trait
+  justification: Délié final prolongé, aucun point.
+  confiance: haute
+- ligne: 10
+  avant: Sam. 11 — Matin
+  apres: \sl{Sam. 11}– matin
+  justification: Soulignement sous la date ; tiret court ; m initial minuscule, mot rejeté après un blanc.
+  confiance: haute
+- ligne: 12
+  avant: Pour trouver, [addition interlinéaire illis.] Batt[suscrit illis.] F.A.
+  apres: Pour trouver, \add{\inc{Venu voir}} Batt^{t} F.A–
+  justification: Ajout lisible V-e-n-u v-o-i-r sous « Pour trouver » ; t suscrit barré après Batt ; tiret, non point, après A.
+  confiance: moyenne
+- ligne: 14
+  avant: enfonçaient
+  apres: enfoncaient
+  justification: Aucune cédille sous le c.
+  confiance: moyenne
+- ligne: 14
+  avant: Affreux.
+  apres: Affreux
+  justification: Pas de point ; seul le long second trait du x.
+  confiance: moyenne
+- ligne: 16
+  avant: au lycée de Toulon.
+  apres: au lycée de Toulon
+  justification: « au » en marge, « lycée de Toulon » rejeté vers la droite ; pas de point.
+  confiance: haute
+- ligne: 17
+  avant: Soir, à repas
+  apres: Soir, & repas
+  justification: Le signe a la forme de l'esperluette en t bouclé (haste barrée, boucle basse), sans a ni accent ; confirmé au zoom ×3 [0 .725 .42 .785].
+  confiance: haute
+- ligne: 18
+  avant: Réfugiés cave.
+  apres: Refugiés cave
+  justification: Pas d'accent sur le premier e ; mot soudé à « cave » ; pas de point.
+  confiance: moyenne
+- ligne: 19
+  avant: '[ — Ctes ples, à Varennes : 75 c — ]'
+  apres: '[– C^{tes} p^{les}. à Varennes : 75 c —'
+  justification: Suscrits nets ; point (non virgule) après p^{les} ; aucun crochet fermant.
+  confiance: haute
+difficultes:
+- ligne: 3
+  lemme: en l'absence
+  analyse: « en » écrit en a-e serrés (même forme que « en auto », l. 6), suivi d'un e bouclé lié au l ; lecture du sens retenue.
+  alternatives:
+  - a l'absence
+- ligne: 7
+  lemme: Léalvillers
+  analyse: L-é-a repassés en masse d'encre, -villers net ; correction probable d'une première graphie, illisible.
+  alternatives: []
+- ligne: 12
+  lemme: Venu voir
+  analyse: 'Petit module, ligne de base ≈ .555, au-dessous de celle de « Pour trouver » et de « Batt » (≈ .54) : V à délié d''attaque, -enu en quatre minimes ; v-o-i-r. Variante non biffée de « Pour trouver » ; l''ordre des deux leçons n''est pas établi.'
+  alternatives:
+  - Venir voir
+- ligne: 15
+  lemme: Sorgues
+  analyse: Initiale haute bouclée sans barre ni descente sous la ligne (S en L, comme « Sam. » l. 10 ; F exclu), o, r, g plongeant, u, puis deux boucles écrasées et long délié ; finale -es non assurée.
+  alternatives:
+  - Lorgues
+  - Sorgue
+- ligne: 15
+  lemme: prof.
+  analyse: p long, r, o, f à tête bouclée, puis trait arqué remontant ; pas de point net.
+  alternatives:
+  - prof
+- ligne: 19
+  lemme: 75 c
+  analyse: 7 à tête crochue, 5 en ſ à drapeau en tête descendant sous la ligne ; pas de pied bouclé de 2.
+  alternatives:
+  - 25 c
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'Vérifié sur l''image : « Forgues » est écarté (initiale sans barre de tête ni descente, forme du S de « Sam. ») ; le signe de la l. 17 est bien une esperluette. Le bombardement d''Acheux du 11 n''est attesté par aucune source consultée ; l''interprète n''est pas identifié.'
+  alternatives: []
+controle:
+- ligne: 12
+  avant: 'apparat : écrit petit dans l''interligne inférieur, au début de la ligne, sous « Pour trouver » ; non biffé ; lecture incertaine'
+  apres: 'apparat : écrit petit sous « Pour trouver », non biffé ; variante de cette leçon ; « Venir voir » possible'
+  justification: Note épurée ; la place exacte (ligne de base ≈ .555, sous « Pour trouver ») va dans « difficultes ».
+- ligne: 15
+  avant: 'difficultes : alternatives Lorgues, Sorguee ; commentateur : Forgues possible'
+  apres: alternatives Lorgues, Sorgue ; Forgues écarté
+  justification: Zoom [.58 .61 1.0 .675] ; l'initiale n'a ni barre de tête ni descente sous la ligne (F exclu) et a la forme du S de « Sam. » ; « Sorguee » n'est pas un nom plausible, la finale écrasée admet -e ou -es.
+remarques: 'Ajout « Venu voir » (l. 12) non biffé, sous « Pour trouver », de même petit module : l''ordre des deux leçons reste ouvert. Nom de l''interprète (l. 15) non identifié.'
+resume: 'Vendredi 10 novembre 1916 : belle journée ensoleillée ; matinée au bureau en l''absence du lieutenant Curtis et du commis, à lire, écrire et réfléchir près du feu ; l''après-midi, courses en auto à Raincheval et Léalvillers dans la campagne ensoleillée ; nuit de pleine lune. Samedi 11 : à pied à Varennes pour un achat de paille ; pour trouver une batterie d''artillerie (B Battery), marche dans un terrain détrempé. L''interprète de cette unité, M. Sorgues (?), est professeur au lycée de Toulon. Le soir, au repas, sifflement d''obus : Acheux bombardé à intervalles rapprochés, refuge à la cave. Achat de cartes postales à Varennes (75 c).'
+noms:
+  personnes:
+  - forme: Curtis
+    ligne: 3
+    identite: lieutenant britannique, de la 152nd Company A.S.C.
+  - forme: Sorgues
+    ligne: 15
+    identite: interprète français de la batterie, professeur au lycée de Toulon (lecture incertaine)
+  lieux:
+  - forme: Raincheval
+    ligne: 6
+    identite: Raincheval (Somme)
+  - forme: Léalvillers
+    ligne: 7
+    identite: Léalvillers (Somme)
+  - forme: Varennes
+    ligne: 10
+    identite: Varennes (Somme)
+  - forme: Toulon
+    ligne: 16
+    identite: Toulon (Var)
+  - forme: Acheux
+    ligne: 17
+    identite: Acheux-en-Amiénois (Somme)
+source: contrôle

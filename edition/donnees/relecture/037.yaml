@@ -1,0 +1,156 @@
+cliche: 37
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 6 Me Enfin beau temps. – \hfill Septbre 1916
+  apres: \sl{6 Me} Enfin beau temps. – \hfill \sl{Septbre 1916}
+  justification: date et mois soulignés chacun d'un trait
+  confiance: haute
+- ligne: 4
+  avant: '[Bain ?]'
+  apres: Bain
+  justification: B, a, i, n nets ; pas de point visible après arbres, conservé sans point
+  confiance: moyenne
+- ligne: 5
+  avant: 6 H s., ... Ctis
+  apres: 6^{H} s., ... C^{tis}
+  justification: H et tis nettement suscrits
+  confiance: haute
+- ligne: 6
+  avant: voisinage. Y
+  apres: voisinage Y
+  justification: aucun point ; le trait est le délié final de voisinage (contrôle p2)
+  confiance: moyenne
+- ligne: 7
+  avant: propre
+  apres: propri
+  justification: p-r-o-p-r-i avec point en tiret ; pas de e final
+  confiance: moyenne
+- ligne: 8
+  avant: admirabt
+  apres: admir^{t}.
+  justification: a-d-m-i-r puis courte descente, point, t suscrit barré loin à droite ; pas de b
+  confiance: moyenne
+- ligne: 10
+  avant: distraction —
+  apres: distraction \trait
+  justification: long délié ondulé jusqu'aux trois quarts de la ligne
+  confiance: haute
+- ligne: 12
+  avant: Sitôt après-déjeun, parti campagne. Marché
+  apres: \inc{Sitôt} Après-dejeun. parti campagne. marché
+  justification: A majuscule en 4 ; aucun accent sur dejeun ; m initial minuscule ; premier mot serré en marge
+  confiance: moyenne
+- ligne: 16
+  avant: Soleil ardent
+  apres: Soleil ardent \trait
+  justification: trait épais tiré après ardent
+  confiance: haute
+- ligne: 17
+  avant: '[1/2 ?] longue[s?] heure[s?]'
+  apres: \fr{1}{2} longue heure
+  justification: signe empilé identique à celui de la l. 22 ; heure sans s
+  confiance: moyenne
+- ligne: 18
+  avant: briques. rues
+  apres: briques, rues
+  justification: virgule verticale avant rues
+  confiance: moyenne
+- ligne: 21
+  avant: '[ifs/arbres ?]'
+  apres: \inc{ifs}
+  justification: trop court pour arbres ; f descendant et s réduit
+  confiance: basse
+- ligne: 22
+  avant: 1/2
+  apres: \fr{1}{2}
+  justification: fraction empilée, non oblique
+  confiance: haute
+- ligne: 24
+  avant: intéressant
+  apres: (ligne supprimée)
+  justification: 'aucune ligne « intéressant » sur l''image : la l. 24 commence par le mot biffé'
+  confiance: moyenne
+- ligne: 24
+  avant: '[groupe biffé illis.] allée de pins \hfill [ Ctes ples : 1 f. — Hair cut : 50 c'
+  apres: '\del{\ill} \inc{Puis} \hfill [ C^{tes} p^{les} : \inc{15 c}. – Hair cut – 50 c'
+  justification: le mot biffé et « Puis » sont sur la ligne du premier poste ; « allée de pins » est dessous, à la ligne de Consommations ; montant 1-5-c
+  confiance: moyenne
+difficultes:
+- ligne: 12
+  lemme: Sitôt
+  analyse: S bouclé en L, petite boucle, haste bouclée, t barré ; mot écrit serré à gauche de la descente du J, peut-être ajouté avant Après capitalisé
+  alternatives:
+  - Lait
+- ligne: 8
+  lemme: admir^{t}.
+  analyse: après ad-m-i-r, une descente sous la ligne (ab réduit ?), point, puis t suscrit à barre longue
+  alternatives:
+  - admirab^{t}.
+- ligne: 15
+  lemme: champs
+  analyse: c, h bouclé, a, minimes, descente recourbée à gauche réunissant p et s
+  alternatives:
+  - champ
+- ligne: 17
+  lemme: cette
+  analyse: c-e-t lié directement au p de petite ; la finale -te est absorbée
+  alternatives:
+  - cet
+- ligne: 21
+  lemme: ifs
+  analyse: 'p2 : deux minimes, haste montante et descendante, finale en L à long trait de base ; ifs probable, ormes possible'
+  alternatives:
+  - ormes
+- ligne: 24
+  lemme: Puis
+  analyse: lettre initiale bouclée (P ou L), u, i dont le point est un pâté à gauche, s plongeant dont le trait se prolonge sous pins
+  alternatives:
+  - Lui
+  - pins
+- ligne: 24
+  lemme: 15 c
+  analyse: 1 court, haste haute à drapeau (5 en ſ), petit c, point, tiret
+  alternatives:
+  - 1 f
+  - 1^{f}
+- ligne: 25
+  lemme: '50'
+  analyse: chiffre bouclé puis o et c sur le délié de Consommations ; 5 ou 2 bouclé
+  alternatives:
+  - '20'
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'À vérifier sur l''image : 1096 caractères ; JMO 7/Bedf (sept. 1916, X550/8/1/1609, vérifié en ligne pour le 5 au 9 sept.), Mérimée, OSM ; aucune version p2, rédigé sur p1. Lectures « Sitôt », « ifs », « Puis » et « 15 c » douteuses. La phrase sur le clocher reste en suspens après « est ». Rien dans les sources sur l''église de Saint-Michel : les dates de l''édition antérieure (chœur de 1591, clocher du XVIIIe s.) sont écartées. Clé « lieux » omise : la forme de p1 est exacte.'
+  alternatives: []
+controle:
+- ligne: 6
+  avant: voisinage — Y
+  apres: voisinage Y
+  justification: le prétendu tiret est le délié final de voisinage, tracé sans lever la plume (zoom .20 .21 .60 .245)
+- ligne: 25
+  avant: (pas de note)
+  apres: note de lecture pour \inc{50}
+  justification: tout \inc{} doit avoir son entrée d'apparat ; 5 en ℓ sans pied, 2 bouclé non exclu
+- ligne: 21
+  avant: note « minimes suivies d'un f… »
+  apres: lecture incertaine ; autre lecture possible, ormes
+  justification: apparat épuré ; deux minimes puis haste et finale en L, ifs non assuré
+remarques: 'Bas de page confus : la phrase « dont le clocher ... est » reste sans attribut, le mot qui suivait étant biffé ; « allée de pins », d''encre plus pâle, pourrait se rattacher à « Puis ». Montants des comptes à revoir.'
+resume: 'Le mercredi 6 septembre 1916, le beau temps revient : Hippolyte Combes passe deux heures assis à l''ombre dans une pâture puis, à six heures du soir, accompagne le lieutenant Curtis à une ferme voisine où Mme Vauchel, propriétaire intelligente, les accueille fort bien ; il dit languir dans ce trou perdu et sale. Le jeudi 7, après le déjeuner, il part en campagne, fait halte près de calvaires, d''un bois et de champs d''avoine. Il passe une longue demi-heure à Saint-Pol (maisons de brique, rues en pente vers la grande place et l''église), puis revient par Saint-Michel-sur-Ternoise, dont il visite le petit cimetière envahi d''herbes autour de l''église au clocher octogonal. Il note cartes postales, coupe de cheveux et consommations.'
+noms:
+  personnes:
+  - forme: C^{tis}
+    ligne: 5
+    identite: lieutenant Curtis, de la 152nd Company A.S.C.
+  - forme: M^{me} Vauchel
+    ligne: 7
+    identite: propriétaire d'une ferme voisine du cantonnement
+  lieux:
+  - forme: St-Pol
+    ligne: 18
+    identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
+  - forme: St. Michel-sur-Ternoise
+    ligne: 20
+    identite: Saint-Michel-sur-Ternoise (Pas-de-Calais)
+source: contrôle

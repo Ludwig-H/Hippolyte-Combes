@@ -1,0 +1,98 @@
+cliche: 115
+fichier: 20251126_105252.jpg
+date: Mardi 26 et mercredi 27 décembre 1916
+mois: Décembre 1916
+lieux: Acheux-en-Amiénois, Raincheval, Arquèves, Beauquesne et Doullens (Somme)
+titre: 'Raincheval, Arquèves, Beauquesne : location d''une batteuse ; vingt minutes à Doullens'
+transcription: |
+  26 \sl{mardi} \hfill Déc^{bre} \sl{1916}.
+  \ind Temps de pluie & brouillard
+  Matin, à Raincheval & Arquèves, vu
+  M – Guibet – . .
+  Après-midi, à Beauquesne, Quesnoy etc
+  A Beauquesne, charmante Mme \inc{Capron},
+  à propos location machine à battre
+  Rentrés à 6^{H}. Fatigue extrême – Couché tot
+  \blanc{3}
+  27 \sl{Merc.}
+  \ind Enfin, très belle journée. Revu soleil. —
+  Matinée, course à Beauquesne. Puis
+  Continué j-à Doullens, mais resté
+  20 m – à peine ds cette ville (hélas!
+  \blanc{6}
+  \equerre{3}A Doullens : 1 ramette papier à l – : 1^{f} 25 c
+  2 paquets gdes enveloppes : 45 + 45 c
+  Cartes ples : 55 c
+apparat:
+- ligne: 1
+  lemme: Déc^{bre}
+  type: abreviation
+  note: décembre ; bre réduit à une ondulation suscrite, sous un long trait
+- ligne: 4
+  lemme: M –
+  type: abreviation
+  note: Monsieur ; point abréviatif réduit à un court trait
+- ligne: 4
+  lemme: Guibet – . .
+  type: signe
+  note: points de suspension, le premier en forme de trait
+- ligne: 5
+  lemme: etc
+  type: abreviation
+  note: et cetera
+- ligne: 6
+  lemme: Mme
+  type: abreviation
+  note: Madame
+- ligne: 6
+  lemme: \inc{Capron}
+  type: lecture
+  note: C, a, p sûrs ; la suite (minimes sous un point d'i, n final) admet aussi Caprin ou Capin ; même graphie en 120
+- ligne: 8
+  lemme: 6^{H}
+  type: abreviation
+  note: 6 heures
+- ligne: 9
+  lemme: Merc.
+  type: abreviation
+  note: mercredi
+- ligne: 12
+  lemme: j-à
+  type: abreviation
+  note: jusqu'à
+- ligne: 13
+  lemme: 20 m –
+  type: abreviation
+  note: 20 minutes ; point abréviatif réduit à un court trait
+- ligne: 13
+  lemme: ds
+  type: abreviation
+  note: dans
+- ligne: 14
+  lemme: à l –
+  type: abreviation
+  note: à lettres ; point abréviatif réduit à un court trait
+- ligne: 14
+  lemme: 1^{f} 25 c
+  type: abreviation
+  note: 1 franc 25 centimes ; f suscrit placé au-dessus du 25
+- ligne: 15
+  lemme: gdes
+  type: abreviation
+  note: grandes
+- ligne: 15
+  lemme: 45 + 45 c
+  type: compte
+  note: deux paquets à 45 centimes, soit 90 c ; aucun total
+- ligne: 16
+  lemme: Cartes ples
+  type: abreviation
+  note: cartes postales
+critique: Encre gris-noir virée au brun, homogène ; les quantièmes 26 et 27 sont d'un trait plus épais que le texte. Un blanc d'environ trois lignes sépare les deux journées, et les comptes de Doullens, ouverts par une équerre, sont rejetés en bas de page sous un blanc de six lignes.
+historique: |
+  Raincheval abrite l'\textit{Army Purchase Board} du major Levy (voir f.~56~r\textsuperscript{o}) ; M. Guibet, que Combes y revoit le 9 janvier (f.~60~v\textsuperscript{o}), n'est pas identifié. Le Quesnoy est sans doute l'écart de ce nom à Puchevillers (voir f.~56~v\textsuperscript{o}). La démarche auprès de Mme Capron, de Beauquesne (lecture du nom incertaine), aboutit au contrat de location du 5 janvier (f.~60~r\textsuperscript{o}) ; un battage avait commencé à Arquèves le 8 décembre (f.~54~r\textsuperscript{o}). Le \textit{purchase board} de chaque armée administrait presses et batteuses pour constituer des réserves de paille, fourrage d'appoint et litière des cantonnements (Puckle 1917, p.~28), au moment où la ration d'avoine des chevaux tombait à 6 livres (OH 1917-I, p.~65-66). Doullens est depuis le 29 novembre le siège du QG du V Corps (LLT, V Corps). La ramette de papier à lettres coûte le même prix qu'à Toulouse fin janvier (f.~67~v\textsuperscript{o}), alors que la Y.M.C.A. donnait papier et enveloppes dans ses huttes (Yapp 1918, chap.~IV).
+sources:
+- Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 28.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 65-66.
+- The Long, Long Trail, « The British V Corps in France and Flanders », https://web.archive.org/web/20200805133825/https://www.longlongtrail.co.uk/army/other-aspects-of-order-of-battle/the-british-corps-headquarters-in-france-and-flanders/the-british-v-corps-in-france-and-flanders/.
+- Yapp, A. K., The Romance of the Red Triangle, London, Hodder and Stoughton, 1918, chap. IV, « The Romance of Finance », p. 39-62.

@@ -1,0 +1,193 @@
+cliche: 117
+confiance: moyenne
+changements:
+- ligne: 1
+  avant: 30 Sam. \hfill Décbre /16
+  apres: 30 \sl{Sam.} \hfill \sl{Dec^{bre} /16}
+  justification: soulignements visibles ; D-e-c + ondulation suscrite, aucun accent
+  confiance: haute
+- ligne: 2
+  avant: torrentielle.
+  apres: torrentielle
+  justification: aucun point après le délié final
+  confiance: moyenne
+- ligne: 3
+  avant: Température ... Air tiède.
+  apres: Temperature ... Air tiède
+  justification: pas d'accent sur le premier e ; pas de point final
+  confiance: moyenne
+- ligne: 4
+  avant: Matinée,
+  apres: Matinée
+  justification: aucune virgule entre Matinée et course (contrôle p2)
+  confiance: moyenne
+- ligne: 5
+  avant: débonnaires, originaux
+  apres: débonnaire originaux,
+  justification: le mot finit par -re + long délié, sans s ; aucune virgule après, virgule après originaux
+  confiance: moyenne
+- ligne: 6
+  avant: extt sympathiques, réfugiés
+  apres: extrêm^{t} sympathiques, refugiés
+  justification: circonflexe et m visibles, t suscrit ; accent visible seulement sur le second e de refugiés
+  confiance: haute
+- ligne: 8
+  avant: Cap.
+  apres: cap.
+  justification: c initial minuscule
+  confiance: haute
+- ligne: 9
+  avant: M'a fait des
+  apres: Il a fait des
+  justification: deux hautes hastes (I puis l) suivies d'un a, précédées du point de fin de phrase ; pas les jambages d'un M
+  confiance: haute
+- ligne: 11
+  avant: entt
+  apres: entiert
+  justification: e-n-t-i-e-r + t barré
+  confiance: haute
+- ligne: 12
+  avant: '[ — Clous ... : 1 f 60 ]'
+  apres: '\ind[2] — Clous ... : 1^{f} 60'
+  justification: aucun crochet ; f suscrit au-dessus du 6
+  confiance: haute
+- ligne: 13
+  avant: 31 Dim. Tempérre +tôt chaude, et pluie
+  apres: 31 \sl{Dim.} \hfill Tempér^{re} +tot. chaude, et pluie
+  justification: soulignement ; finale -re réduite à un trait ; + bouclé puis t en l, o, t barré ; point avant chaude ; aucun circonflexe
+  confiance: moyenne
+- ligne: 14
+  avant: intermittente.
+  apres: intermittente
+  justification: pas de point
+  confiance: moyenne
+- ligne: 15
+  avant: Matinée, ds
+  apres: \ind matinée, ds
+  justification: m initial de module minuscule ; retrait
+  confiance: moyenne
+- ligne: 16
+  avant: Aussitôt ... Belle-
+  apres: Aussitot ... Belle
+  justification: seule la barre du t, pas de circonflexe ; délié final de Belle sans trait d'union distinct
+  confiance: moyenne
+- ligne: 17
+  avant: Église, Raincheval & Beauquesne.
+  apres: Eglise, Raincheval & Beauquesne
+  justification: pas d'accent sur E ; pas de point final
+  confiance: moyenne
+- ligne: 18
+  avant: lointains.
+  apres: lointains
+  justification: pas de point
+  confiance: moyenne
+- ligne: 20
+  avant: contrite. Parle à peine (paraît
+  apres: contrite – Parle à \inc{peine} paraît
+  justification: tiret court à mi-hauteur ; aucune parenthèse devant paraît ; peine incertain (p, e, deux jambages)
+  confiance: moyenne
+- ligne: 21
+  avant: en face. (déprimé)
+  apres: en face \trait \add{très} (déprimé
+  justification: long délié après face ; très (forme réduite hu) écrit au-dessus de (déprimé ; parenthèse non refermée
+  confiance: moyenne
+- ligne: 22
+  avant: Y.M.C.A. hut, assisté 1/2 séance —
+  apres: \ind Soir, Y.M.C.A hut, assisté \fr{1}{2} séance. —
+  justification: pas de point après A ; fraction empilée ; point après séance
+  confiance: moyenne
+- ligne: 23
+  avant: '[ — Dépenses mess : 45 f + 10 f + 1 f + 22 fr. —'
+  apres: '\crochet{2}— Dépenses mess : 45^{f} + 10^{f} + 1^{f} + 22 fr —'
+  justification: grand crochet sur deux lignes ; f suscrits ; pas de point après fr
+  confiance: haute
+- ligne: 24
+  avant: = 88 fr. — ]
+  apres: \droite = 88 fr. —
+  justification: total rejeté à droite, sous le crochet
+  confiance: haute
+difficultes:
+- ligne: 5
+  lemme: débonnaire
+  analyse: d en ∂ empâté, é, b, o, n n, a, i, r, e + long délié horizontal ; aucune boucle ni crochet de s final
+  alternatives:
+  - débonnaires
+- ligne: 8
+  lemme: Acheux
+  analyse: A, c, h, e puis long trait horizontal montant tenant lieu de -ux ; nom certain par le contexte (cantonnement)
+  alternatives:
+  - Ache
+- ligne: 20
+  lemme: \inc{peine}
+  analyse: p, e, deux jambages (u ou in sans point), finale absorbée par le p de paraît, écrit petit et serré en bout de ligne
+  alternatives:
+  - peu
+- ligne: 21
+  lemme: \add{très}
+  analyse: 'petit mot au-dessus de (déprimé : haste bouclée + u + délié, forme réduite de très attestée l. 8–9'
+  alternatives:
+  - lui
+- ligne: 23
+  lemme: 45^{f}
+  analyse: premier chiffre fermé (4 en d), non 5 bouclé ; la somme des postes (78) ne donne pas 88
+  alternatives:
+  - 55^{f}
+- ligne: 24
+  lemme: = 88 fr. —
+  analyse: = et 88 à l'encre noire (même encre que 45, 10, 1) ; 22, fr (l. 23) et fr. (l. 24) violets, la haste du f de fr. remontant à travers le 22 ; le total noir a donc précédé le dernier poste violet
+  alternatives: []
+- ligne: 0
+  lemme: remarque du commentateur historique
+  analyse: 'CWGC (Martinsart British Cemetery), LLT (QG du IV Corps à Senlis-le-Sec, 1er déc. 1916 – 21 janv. 1917), renvois aux f. 52 r°/v°, 53 r°/v°, 56 v°, 57 r° ; « lieux » : Senlis-le-Sec, Belle-Église rattachée à Arquèves ; total faux (78 F et non 88). Contrôle p2 : « Il a fait des » confirmé ; l''encre violette ne touche que 22 et les deux fr., non le total 88 (noir).'
+  alternatives: []
+controle:
+- ligne: 4
+  avant: Matinée,
+  apres: Matinée
+  justification: aucune virgule visible entre Matinée (accent posé à droite) et course au zoom ×3
+- ligne: 5
+  avant: débonnaire, originaux,
+  apres: débonnaire originaux,
+  justification: le délié final de débonnaire file vers originaux sans virgule ; seule virgule après originaux
+- ligne: 8
+  avant: Acheux (sans note)
+  apres: Acheux + note lecture
+  justification: seul Ache est formé, la finale est un long trait ; lecture assurée par le contexte, signalée en apparat
+- ligne: 24
+  avant: 'critique : total au moins en partie à l''encre violette'
+  apres: 'critique : = 88 noir ; 22 et les deux fr. violets'
+  justification: au zoom rehaussé, = et 88 ont l'encre noire des autres postes ; seuls 22, fr et fr. sont violets
+- ligne: 0
+  avant: apparat Senlis (graphie), Belle (disposition), paraît (ajout)
+  apres: notes supprimées
+  justification: identification déjà dans noms ; coupure de ligne et écriture serrée rendues par la transcription
+remarques: Encre violette pour 22 et les deux fr. seulement ; = 88 à l'encre noire ; 45 conservé malgré le total faux.
+resume: 'Le samedi 30 décembre, après une nuit de pluie torrentielle et par une douceur exceptionnelle, Hippolyte Combes va en Sunbeam à Franvillers, où il revoit trois vieux réfugiés de Martinsart. À Senlis, le capitaine Williams lui adresse devant l''ordonnance un mot très regrettable ; à Acheux, explication calme mais ferme : le capitaine s''excuse et le supplie de ne pas le quitter. Le dimanche 31, après une matinée dans sa chambre, course en auto à Belle-Église, Raincheval et Beauquesne ; le capitaine, gêné et contrit, ose à peine lui parler. Le soir, demi-séance au foyer Y.M.C.A. ; compte des dépenses du mess (total de 88 francs, faux).'
+noms:
+  personnes:
+  - forme: Williams
+    ligne: 8
+    identite: capitaine Williams, chef d'Hippolyte Combes
+  lieux:
+  - forme: Franvillers
+    ligne: 4
+    identite: Franvillers (Somme)
+  - forme: Martinsart
+    ligne: 6
+    identite: Martinsart (Somme)
+  - forme: Senlis
+    ligne: 7
+    identite: Senlis-le-Sec (Somme)
+  - forme: Acheux
+    ligne: 8
+    identite: Acheux-en-Amiénois (Somme)
+  - forme: Belle
+    ligne: 16
+    identite: Belle-Église, ferme près de Bertrancourt (Somme)
+  - forme: Raincheval
+    ligne: 17
+    identite: Raincheval (Somme)
+  - forme: Beauquesne
+    ligne: 17
+    identite: Beauquesne (Somme)
+source: contrôle
