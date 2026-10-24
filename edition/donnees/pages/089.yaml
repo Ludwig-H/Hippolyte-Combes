@@ -66,7 +66,7 @@ apparat:
 - ligne: 13
   lemme: gen^{l}
   type: lecture
-  note: l suscrit après gen, aucun a ; la transcription antérieure lisait génal
+  note: l suscrit après gen, aucun a
 - ligne: 13
   lemme: div.
   type: abreviation
@@ -94,7 +94,7 @@ apparat:
 - ligne: 19
   lemme: de
   type: lecture
-  note: de, lettres nettes ; on attendrait ds (dans), leçon de la transcription antérieure
+  note: de, lettres nettes ; on attendrait ds (dans)
 - ligne: 20
   lemme: qq
   type: abreviation

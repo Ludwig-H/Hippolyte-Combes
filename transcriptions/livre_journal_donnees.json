@@ -144,7 +144,7 @@
     "ligne": 21,
     "lemme": "1 \\inc{f 75}",
     "type": "compte",
-    "note": "montant coupé par le bord du cliché : seuls 1 et un signe plongeant (f ou 7) sont visibles ; 75 d'après la transcription antérieure"
+    "note": "montant coupé par le bord du cliché : seuls 1 et un signe plongeant (f ou 7) sont visibles (1 f 75 probable)"
    },
    {
     "ligne": 22,
@@ -439,7 +439,7 @@
     "ligne": 15,
     "lemme": "devant my",
     "type": "lecture",
-    "note": "my (m suivi d'un y à descente vers la gauche) ; on lisait « mon »"
+    "note": "my (m suivi d'un y à descente vers la gauche)"
    },
    {
     "ligne": 16,
@@ -584,7 +584,7 @@
     "ligne": 5,
     "lemme": "5^{H} 20",
     "type": "lecture",
-    "note": "chiffre des heures noyé d'encre, lu 5 (6 possible) ; 20 net, sans fraction (transcription antérieure : 5 h 1/2)"
+    "note": "chiffre des heures noyé d'encre, lu 5 (6 possible) ; 20 net, sans fraction"
    },
    {
     "ligne": 6,
@@ -638,7 +638,7 @@
     "ligne": 18,
     "lemme": "\\inc{enfermé}",
     "type": "lecture",
-    "note": "e, n, f (ou ſ) à longue haste, e, r et m réduits, é ; autre lecture : enserré ; suffoqué (transcription antérieure) exclu : ni ff ni q"
+    "note": "e, n, f (ou ſ) à longue haste, e, r et m réduits, é ; autre lecture : enserré"
    },
    {
     "ligne": 20,
@@ -650,7 +650,7 @@
     "ligne": 20,
     "lemme": "\\inc{Donse}",
     "type": "lecture",
-    "note": "D, o, n ou u, puis une lettre haute qui monte au-dessus du filet (ſ plutôt que z, qui ne monte pas), e ; autres lectures : Douse, Donze (transcription antérieure)"
+    "note": "D, o, n ou u, puis une lettre haute qui monte au-dessus du filet (ſ plutôt que z, qui ne monte pas), e ; autres lectures : Douse, Donze"
    },
    {
     "ligne": 20,
@@ -798,7 +798,7 @@
     "ligne": 6,
     "lemme": "v.",
     "type": "lecture",
-    "note": "v suivi d'une coche, puis a ou ce ; abréviation probable de vicaire (lecture antérieure « vicaire de ce »)"
+    "note": "v suivi d'une coche, puis a ou ce ; abréviation probable de vicaire"
    },
    {
     "ligne": 6,
@@ -1022,7 +1022,7 @@
     "ligne": 13,
     "lemme": "plaine fertile, entrecoupée",
     "type": "lecture",
-    "note": "singulier : finales en e et délié, sans s ; l'état antérieur lit plaines fertiles, entrecoupées"
+    "note": "singulier : finales en e et délié, sans s"
    },
    {
     "ligne": 16,
@@ -1070,7 +1070,7 @@
     "ligne": 21,
     "lemme": "\\inc{Terrier}",
     "type": "lecture",
-    "note": "T, e, r, lettre en croix, i, puis boucle et un seul jambage, comme la finale de fermier : Terrier ; possibles Texier, Terria ; l'état antérieur lit Terrien"
+    "note": "T, e, r, lettre en croix, i, puis boucle et un seul jambage, comme la finale de fermier : Terrier ; possibles Texier, Terria, Terrien"
    },
    {
     "ligne": 23,
@@ -1207,7 +1207,7 @@
     "ligne": 16,
     "lemme": "\\inc{pattes}",
     "type": "lecture",
-    "note": "p, a, tt sous une barre, e, finale en crochet ; « patter[es] » pour patères possible ; l'état antérieur lisait « cartes »"
+    "note": "p, a, tt sous une barre, e, finale en crochet ; « patter[es] » pour patères possible"
    },
    {
     "ligne": 16,
@@ -1337,7 +1337,7 @@
     "ligne": 11,
     "lemme": "\\inc{1^{f} 75c}",
     "type": "lecture",
-    "note": "1 franc 75 centimes ? montant serré contre le bord sur deux niveaux (1 f au-dessus du deux-points, 75c plus bas) ; état antérieur : 5 f 50"
+    "note": "1 franc 75 centimes ? montant serré contre le bord sur deux niveaux (1 f au-dessus du deux-points, 75c plus bas)"
    },
    {
     "ligne": 12,
@@ -1564,7 +1564,7 @@
     "ligne": 14,
     "lemme": "1 \\inc{de}",
     "type": "lecture",
-    "note": "d bouclé et e sur la ligne ; « 1^{er} » de la transcription antérieure sans appui"
+    "note": "d bouclé et e sur la ligne"
    },
    {
     "ligne": 14,
@@ -1672,7 +1672,7 @@
     "ligne": 12,
     "lemme": "\\inc{lug}",
     "type": "lecture",
-    "note": "l, deux minimes (u), g bouclé : sans doute lug. pour lugubre ; antérieurement lu lang (langue)"
+    "note": "l, deux minimes (u), g bouclé : sans doute lug. pour lugubre"
    }
   ],
   "critique": "Encre noire virée au brun ; « la » et « le » de la l. 6 sont repassés. L'entrée s'interrompt à la fin de la l. 12 ; la moitié inférieure de la page est restée blanche et le samedi 5 août commence au f. 6 r\\textsuperscript{o}.",
@@ -1924,13 +1924,13 @@
     "ligne": 6,
     "lemme": "& près",
     "type": "lecture",
-    "note": "esperluette à boucle d'attaque, croisée par le jambage du p de pied (l. 5) ; la transcription antérieure lisait « (près »"
+    "note": "esperluette à boucle d'attaque, croisée par le jambage du p de pied (l. 5)"
    },
    {
     "ligne": 7,
     "lemme": "Promené",
     "type": "lecture",
-    "note": "P bouclé et finale -né accentuée nets ; non « Parcouru » (transcription antérieure)"
+    "note": "P bouclé et finale -né accentuée nets"
    },
    {
     "ligne": 9,
@@ -1942,7 +1942,7 @@
     "ligne": 9,
     "lemme": "village.",
     "type": "lecture",
-    "note": "point net sur la ligne après village ; la transcription antérieure liait « village Bac St-Maur »"
+    "note": "point net sur la ligne après village"
    },
    {
     "ligne": 9,
@@ -2076,7 +2076,7 @@
     "ligne": 9,
     "lemme": "shifté",
     "type": "emprunt",
-    "note": "changé de cantonnement (angl. to shift) ; sans auxiliaire, contre l'état antérieur « a shifté »"
+    "note": "changé de cantonnement (angl. to shift) ; sans auxiliaire"
    },
    {
     "ligne": 9,
@@ -2094,7 +2094,7 @@
     "ligne": 10,
     "lemme": "\\inc{Trouvée}",
     "type": "lecture",
-    "note": "lecture probable, mot illisible dans l'état antérieur ; aussi Trouvé ; « à » écrit sous le mot"
+    "note": "lecture probable ; aussi Trouvé ; « à » écrit sous le mot"
    },
    {
     "ligne": 12,
@@ -2266,7 +2266,7 @@
     "ligne": 5,
     "lemme": "lgt",
     "type": "lecture",
-    "note": "l, g, t barré, mot repassé ; abréviation de « longtemps » ou, pour le sens, de « légèrement » (lecture antérieure « légèrt »)"
+    "note": "l, g, t barré, mot repassé ; abréviation de « longtemps » ou, pour le sens, de « légèrement » (« légèrt » possible)"
    },
    {
     "ligne": 7,
@@ -2284,7 +2284,7 @@
     "ligne": 8,
     "lemme": "kilom.",
     "type": "abreviation",
-    "note": "kilomètres ; lecture antérieure « kilm. »"
+    "note": "kilomètres (« kilm. » possible)"
    },
    {
     "ligne": 9,
@@ -2302,7 +2302,7 @@
     "ligne": 14,
     "lemme": "genl",
     "type": "abreviation",
-    "note": "général (lecture antérieure « gal »)"
+    "note": "général (« gal » possible)"
    },
    {
     "ligne": 15,
@@ -2416,7 +2416,7 @@
     "ligne": 8,
     "lemme": "Barbry",
     "type": "lecture",
-    "note": "y final réduit à un délié ; même nom en 022 et 023 (M. Barbry)"
+    "note": "y final réduit à un délié ; même nom aux f. 11 v° et 12 r° (M. Barbry)"
    },
    {
     "ligne": 8,
@@ -2499,7 +2499,7 @@
     "ligne": 5,
     "lemme": "rivière",
     "type": "lecture",
-    "note": "rivière, accent et finale -re visibles (antérieurement rives)"
+    "note": "rivière, accent et finale -re visibles"
    },
    {
     "ligne": 6,
@@ -2600,7 +2600,7 @@
     "ligne": 10,
     "lemme": "– enfin",
     "type": "lecture",
-    "note": "tiret d'attaque et e minuscule ; le trait pourrait aussi souligner « 14 » ; lecture antérieure « Enfin »"
+    "note": "tiret d'attaque et e minuscule ; le trait pourrait aussi souligner « 14 »"
    },
    {
     "ligne": 10,
@@ -2612,7 +2612,7 @@
     "ligne": 14,
     "lemme": "l'air",
     "type": "lecture",
-    "note": "l bouclé devant « air », comme à la l. 11 ; lecture antérieure « air »"
+    "note": "l bouclé devant « air », comme à la l. 11"
    },
    {
     "ligne": 15,
@@ -2897,7 +2897,7 @@
     "ligne": 1,
     "lemme": "galop à travers champs",
     "type": "disposition",
-    "note": "suite de la phrase commencée au bas du cliché 021 (« Longue chevauchée zone exposée, derrière ligne de feu »)"
+    "note": "suite de la phrase commencée au bas du f. 11 r° (« Longue chevauchée zone exposée, derrière ligne de feu »)"
    },
    {
     "ligne": 1,
@@ -2981,7 +2981,7 @@
     "ligne": 19,
     "lemme": "Rentré",
     "type": "lecture",
-    "note": "sans s final (lu antérieurement Rentrés)"
+    "note": "sans s final"
    },
    {
     "ligne": 19,
@@ -3263,7 +3263,7 @@
     "ligne": 4,
     "lemme": "Steenwerk",
     "type": "lecture",
-    "note": "sans c (Steenwerck l. 14 et 16), comme en 023 ; l'état antérieur lisait « Steenwerck »"
+    "note": "sans c (Steenwerck l. 14 et 16), comme au f. 12 r°"
    },
    {
     "ligne": 4,
@@ -3299,7 +3299,7 @@
     "ligne": 10,
     "lemme": "avec",
     "type": "lecture",
-    "note": "mot écrit en entier, sans point ; l'état antérieur lisait « av. »"
+    "note": "mot écrit en entier, sans point"
    },
    {
     "ligne": 11,
@@ -3353,7 +3353,7 @@
     "ligne": 18,
     "lemme": "1^{25}",
     "type": "lecture",
-    "note": "1 franc 25 ; « 25 » surélevé, le 5 à très longue haste bouclée, sans f monétaire ; l'état antérieur lisait « 1 f 25 »"
+    "note": "1 franc 25 ; « 25 » surélevé, le 5 à très longue haste bouclée, sans f monétaire"
    }
   ],
   "critique": "Le trait oblique qui sépare le récit des comptes, la haste du crochet, le montant « 3 f 80 » et les mots « à l'arrivée » sont d'une encre brune plus pâle : complément sans doute porté après coup, quand le prix fut connu. Le bas de la page est resté blanc.",
@@ -3822,7 +3822,7 @@
     "ligne": 3,
     "lemme": "\\inc{jouée}",
     "type": "lecture",
-    "note": "jouée (accordé à musique) ; joué (lecture antérieure) possible"
+    "note": "jouée (accordé à musique) ; joué possible"
    },
    {
     "ligne": 3,
@@ -3834,7 +3834,7 @@
     "ligne": 4,
     "lemme": "d'\\inc{harmonique}",
     "type": "lecture",
-    "note": "harmonique (pour harmonica ?) ; lettre descendante (q) avant la finale ; harmonica (lecture antérieure) possible"
+    "note": "harmonique (pour harmonica ?) ; lettre descendante (q) avant la finale ; harmonica possible"
    },
    {
     "ligne": 4,
@@ -3852,7 +3852,7 @@
     "ligne": 6,
     "lemme": "mobilisé",
     "type": "lecture",
-    "note": "lecture nouvelle (groupe jusqu'ici non lu)"
+    "note": "tracé rapide en fin de groupe"
    },
    {
     "ligne": 7,
@@ -3888,7 +3888,7 @@
     "ligne": 11,
     "lemme": "ns",
     "type": "abreviation",
-    "note": "nous ; me (lecture antérieure) écarté"
+    "note": "nous (n et s liés)"
    },
    {
     "ligne": 11,
@@ -3900,7 +3900,7 @@
     "ligne": 12,
     "lemme": "brise",
     "type": "lecture",
-    "note": "brise, comme l. 10 ; bise (lecture antérieure) possible"
+    "note": "brise, comme l. 10 ; bise possible"
    },
    {
     "ligne": 14,
@@ -3960,7 +3960,7 @@
     "ligne": 21,
     "lemme": "\\inc{1}",
     "type": "lecture",
-    "note": "1 (franc) ; aucun f distinct ; 1 f (lecture antérieure)"
+    "note": "1 (franc) ; aucun f distinct"
    },
    {
     "ligne": 22,
@@ -4095,7 +4095,7 @@
     "ligne": 2,
     "lemme": "eclairci —",
     "type": "lecture",
-    "note": "le mot s'arrête sur l'i, la finale se perdant dans le tiret ; antérieurement « éclaircies »"
+    "note": "le mot s'arrête sur l'i, la finale se perdant dans le tiret"
    },
    {
     "ligne": 3,
@@ -4131,7 +4131,7 @@
     "ligne": 15,
     "lemme": "moissonneuses-lieuses",
     "type": "lecture",
-    "note": "pluriel aux deux mots (antérieurement moissonneuse-lieuse)"
+    "note": "pluriel aux deux mots"
    },
    {
     "ligne": 15,
@@ -4161,7 +4161,7 @@
     "ligne": 24,
     "lemme": "comme \\inc{soeur} neo-\\inc{latine}",
     "type": "lecture",
-    "note": "lecture nouvelle et peu sûre (antérieurement « [illis.] grecque etc. ») ; neo-lat. possible"
+    "note": "lecture peu sûre ; neo-lat. possible"
    }
   ],
   "critique": "Un filet sépare les journées du 28 et du 29. « et d'ennui » est écrit dans la marge gauche, entre les l.~21 et 23 ; les deux dernières lignes, serrées contre le bord inférieur du feuillet, sont d'une lecture difficile, et la parenthèse ouverte avant « Roumanie » n'est pas refermée.",
@@ -4230,7 +4230,7 @@
     "ligne": 2,
     "lemme": "transformé",
     "type": "lecture",
-    "note": "finale é (accent en barre) ; l'état antérieur lisait « transformt »"
+    "note": "finale é (accent en barre)"
    },
    {
     "ligne": 3,
@@ -4453,7 +4453,7 @@
     "ligne": 9,
     "lemme": "SFl",
     "type": "lecture",
-    "note": "S suivi d'un f descendant et d'un l, sans t ni point ; on lisait « St Fl. »"
+    "note": "S suivi d'un f descendant et d'un l, sans t ni point (Saint-Pol)"
    },
    {
     "ligne": 10,
@@ -4852,7 +4852,7 @@
     "ligne": 7,
     "lemme": "5 1/2",
     "type": "lecture",
-    "note": "5 heures et demie ; aucune H visible (lu jusqu'ici 5H½)"
+    "note": "5 heures et demie ; aucune H visible"
    },
    {
     "ligne": 9,
@@ -5155,7 +5155,7 @@
     "ligne": 24,
     "lemme": "\\inc{15 c}",
     "type": "lecture",
-    "note": "lecture incertaine ; l'état antérieur lisait « 1 f. »"
+    "note": "lecture incertaine (« 1 f. » possible)"
    },
    {
     "ligne": 25,
@@ -5267,7 +5267,7 @@
     "ligne": 12,
     "lemme": "65",
     "type": "lecture",
-    "note": "6 suivi d'un 5 à haute boucle ; la transcription antérieure lisait 60"
+    "note": "6 suivi d'un 5 à haute boucle"
    }
   ],
   "critique": "La dépense est isolée tout au bas de la page, après un large blanc.",
@@ -5344,7 +5344,7 @@
     "ligne": 11,
     "lemme": "\\inc{Lots}",
     "type": "lecture",
-    "note": "Lots (de l'anglais lots of, « beaucoup de »), L initial net ; la transcription antérieure hésitait entre Peu et Flots"
+    "note": "Lots (de l'anglais lots of, « beaucoup de »), L initial net (Flots moins probable)"
    },
    {
     "ligne": 12,
@@ -5440,7 +5440,7 @@
     "ligne": 24,
     "lemme": "\\inc{chevaux}",
     "type": "lecture",
-    "note": "chevaux, finale en x nette, début du mot douteux ; la transcription antérieure lisait « groom [Connelly ?] »"
+    "note": "chevaux, finale en x nette, début du mot douteux"
    }
   ],
   "critique": "La dernière ligne, d'une encre plus pâle et brunâtre, semble ajoutée après coup ; elle est en partie rognée au bas du feuillet.",
@@ -5487,7 +5487,7 @@
     "ligne": 3,
     "lemme": "rapproché",
     "type": "lecture",
-    "note": "au singulier, sans s final (lecture antérieure « rapprochés »)"
+    "note": "au singulier, sans s final"
    },
    {
     "ligne": 5,
@@ -5523,7 +5523,7 @@
     "ligne": 11,
     "lemme": "cote",
     "type": "lecture",
-    "note": "côte ; lecture antérieure « coteau »"
+    "note": "côte, sans suffixe -au"
    },
    {
     "ligne": 12,
@@ -5618,7 +5618,7 @@
     "ligne": 5,
     "lemme": "arrivé",
     "type": "lecture",
-    "note": "aucun s final (transcription antérieure « arrivés »)"
+    "note": "aucun s final"
    },
    {
     "ligne": 6,
@@ -6121,7 +6121,7 @@
     "ligne": 6,
     "lemme": "\\fr{1}{2} jour",
     "type": "lecture",
-    "note": "demi-jour, c'est-à-dire midi ; demi empilé, que l'état antérieur hésitait à lire « Le »"
+    "note": "demi-jour, c'est-à-dire midi ; fraction 1/2 empilée"
    },
    {
     "ligne": 7,
@@ -6169,7 +6169,7 @@
     "ligne": 14,
     "lemme": "chz",
     "type": "abreviation",
-    "note": "chez ; aucun article ensuite (l'état antérieur lisait « chez le »)"
+    "note": "chez ; aucun article ensuite"
    },
    {
     "ligne": 17,
@@ -6461,7 +6461,7 @@
     "ligne": 12,
     "lemme": "78.75 c",
     "type": "lecture",
-    "note": "lecture nouvelle ; la longue haste est celle du 5, non un f (et non « 78 f 75 c »)"
+    "note": "la longue haste est celle du 5, non un f"
    },
    {
     "ligne": 13,
@@ -6619,7 +6619,7 @@
    }
   ],
   "critique": "Encre violette. Le récit du jour occupe le haut de la page ; après un blanc, une ligne isolée note la nuit, puis les comptes, sous un court filet à gauche, sont serrés au pied de la page.",
-  "historique": "La « station de Raincheval » est la gare Raincheval-Arquèves de la voie métrique Albert--Doullens, dont Combes connaît déjà la cantine (f. 22 r\\textsuperscript{o} ; CFD Somme). Les « Bedfs » sont le 7th Bedfordshire, de la 54th Brigade que ravitaille la 152nd Coy, cantonné à Raincheval depuis le 11 septembre ; ce jour-là, son journal note : « Received orders to move on 23rd inst. time uncertain » (JMO 7/Bedf, 22 sept. 1916) : l'annonce du « cap Pant » suit cet ordre de quelques heures. L'officier n'est pas identifié : la forme « Panton » des lectures antérieures n'est pas assurée et ne correspond à aucun officier de l'A.S.C. parmi les dossiers d'officiers des National Archives (TNA, WO 339). Le château devant lequel passe Combes est sans doute celui de Raincheval, de 1719 (Mérimée PA00116224). La permission annoncée, « départ le 25 », lui donnera sept jours pleins à Toulouse, du 27 septembre au 4 octobre (f. 27 v\\textsuperscript{o}--32 r\\textsuperscript{o}) : c'est la durée réglementaire des permissions à partir du 1\\textsuperscript{er} octobre 1916 (Cronier 2013, p.~18 et 32).\n",
+  "historique": "La « station de Raincheval » est la gare Raincheval-Arquèves de la voie métrique Albert--Doullens, dont Combes connaît déjà la cantine (f. 22 r\\textsuperscript{o} ; CFD Somme). Les « Bedfs » sont le 7th Bedfordshire, de la 54th Brigade que ravitaille la 152nd Coy, cantonné à Raincheval depuis le 11 septembre ; ce jour-là, son journal note : « Received orders to move on 23rd inst. time uncertain » (JMO 7/Bedf, 22 sept. 1916) : l'annonce du « cap Pant » suit cet ordre de quelques heures. L'officier n'est pas identifié : la forme « Panton » parfois conjecturée n'est pas assurée et ne correspond à aucun officier de l'A.S.C. parmi les dossiers d'officiers des National Archives (TNA, WO 339). Le château devant lequel passe Combes est sans doute celui de Raincheval, de 1719 (Mérimée PA00116224). La permission annoncée, « départ le 25 », lui donnera sept jours pleins à Toulouse, du 27 septembre au 4 octobre (f. 27 v\\textsuperscript{o}--32 r\\textsuperscript{o}) : c'est la durée réglementaire des permissions à partir du 1\\textsuperscript{er} octobre 1916 (Cronier 2013, p.~18 et 32).\n",
   "sources": [
    "Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).",
    "Wikipédia, « Chemins de fer départementaux de la Somme », § « Ligne d'Albert à Doullens » (consulté le 17 oct. 2026).",
@@ -6747,7 +6747,7 @@
     "ligne": 15,
     "lemme": "\\inc{Revenus}",
     "type": "lecture",
-    "note": "revenus, lecture antérieure maintenue ; Retourné possible"
+    "note": "revenus ; Retourné possible"
    },
    {
     "ligne": 15,
@@ -6873,7 +6873,7 @@
     "ligne": 5,
     "lemme": "derrière",
     "type": "lecture",
-    "note": "lecture nouvelle (d bouclé initial, rr, accent décalé) ; on lisait « longeant »"
+    "note": "d bouclé initial, rr, accent décalé"
    },
    {
     "ligne": 7,
@@ -6963,7 +6963,7 @@
     "ligne": 21,
     "lemme": "Canon, grondé",
     "type": "lecture",
-    "note": "virgule et accent nets ; on lisait « Canon gronde »"
+    "note": "virgule et accent nets"
    }
   ],
   "critique": "Encre violette ; la journée occupe toute la page, sans compte. « et haute » (l.~6), « était prêt » (l.~13) et le double trait de la l.~19 sont d'un tracé plus fin et plus pâle, peut-être repris après coup.",
@@ -7020,7 +7020,7 @@
     "ligne": 8,
     "lemme": "avec",
     "type": "lecture",
-    "note": "forme pleine (a, v, e et délié final) ; lu antérieurement « av. »"
+    "note": "forme pleine (a, v, e et délié final)"
    },
    {
     "ligne": 8,
@@ -7074,7 +7074,7 @@
     "ligne": 13,
     "lemme": "à Office",
     "type": "lecture",
-    "note": "O majuscule, sans article ni apostrophe ; lu antérieurement « à l'office »"
+    "note": "O majuscule, sans article ni apostrophe"
    },
    {
     "ligne": 13,
@@ -7191,7 +7191,7 @@
     "ligne": 7,
     "lemme": "Gzaincourt",
     "type": "lecture",
-    "note": "Gézaincourt ; aucun e visible après le G empâté (état antérieur : Gézaincourt)"
+    "note": "Gézaincourt ; aucun e visible après le G empâté"
    },
    {
     "ligne": 7,
@@ -7209,7 +7209,7 @@
     "ligne": 8,
     "lemme": "ds train",
     "type": "abreviation",
-    "note": "dans [le] train ; sans article (état antérieur : ds le train)"
+    "note": "dans [le] train ; sans article"
    },
    {
     "ligne": 9,
@@ -7275,7 +7275,7 @@
     "ligne": 17,
     "lemme": "(en route)",
     "type": "lecture",
-    "note": "lecture nouvelle ; état antérieur « (en retard [?]) »"
+    "note": "entre parenthèses ; « (en retard) » moins probable"
    },
    {
     "ligne": 18,
@@ -7504,7 +7504,7 @@
     "ligne": 13,
     "lemme": "15^{f}",
     "type": "lecture",
-    "note": "15 f ; la transcription antérieure lisait 15 f 15 en y joignant le prix de la coupe"
+    "note": "15 f (distinct du prix de la coupe qui suit)"
    },
    {
     "ligne": 14,
@@ -7692,7 +7692,7 @@
     "ligne": 14,
     "lemme": "15 c",
     "type": "lecture",
-    "note": "15 c, le 5 à haute boucle suivi du c ; lecture antérieure hésitant avec « 1 f »"
+    "note": "15 c, le 5 à haute boucle suivi du c (« 1 f » moins probable)"
    },
    {
     "ligne": 15,
@@ -7983,7 +7983,7 @@
     "ligne": 9,
     "lemme": "Après-\\inc{repas}",
     "type": "lecture",
-    "note": "« rep » lisible, fin du mot sous un pâté ; antérieurement « Après-midi »"
+    "note": "« rep » lisible, fin du mot sous un pâté"
    },
    {
     "ligne": 11,
@@ -8025,7 +8025,7 @@
     "ligne": 18,
     "lemme": "\\inc{rue} Alsace",
     "type": "lecture",
-    "note": "rue (d'Alsace-Lorraine) : jambages sans hampe ; antérieurement « pl. »"
+    "note": "rue (d'Alsace-Lorraine) : jambages sans hampe"
    },
    {
     "ligne": 19,
@@ -8055,7 +8055,7 @@
     "ligne": 21,
     "lemme": "2 \\inc{75}",
     "type": "lecture",
-    "note": "2 f 75 (francs) probable ; le f monétaire n'est pas distinct ; antérieurement « 2 f 75 »"
+    "note": "2 f 75 (francs) probable ; le f monétaire n'est pas distinct"
    },
    {
     "ligne": 22,
@@ -8099,13 +8099,13 @@
     "ligne": 2,
     "lemme": "pluvx",
     "type": "lecture",
-    "note": "pluvieux, forme abrégée non assurée ; état antérieur pluvieux en toutes lettres"
+    "note": "pluvieux, finale abrégée"
    },
    {
     "ligne": 2,
     "lemme": "Fine ondée qui dure peu",
     "type": "lecture",
-    "note": "singulier sur l'image ; état antérieur Fines ondées qui durent peu"
+    "note": "singulier sur le manuscrit"
    },
    {
     "ligne": 3,
@@ -8195,7 +8195,7 @@
     "ligne": 14,
     "lemme": "village, à l'horizon",
     "type": "lecture",
-    "note": "état antérieur villages s/ l'horizon"
+    "note": "village au singulier, suivi d'une virgule et de « à l'horizon »"
    },
    {
     "ligne": 17,
@@ -8219,7 +8219,7 @@
     "ligne": 21,
     "lemme": "Venus",
     "type": "lecture",
-    "note": "s final en trait vertical, accordé avec Margte & moi ; état antérieur Venu"
+    "note": "s final en trait vertical, accordé avec Margte & moi"
    },
    {
     "ligne": 21,
@@ -8261,7 +8261,7 @@
     "ligne": 25,
     "lemme": "cessé",
     "type": "lecture",
-    "note": "accent sur la finale (la pluie a cessé) ; état antérieur cesse"
+    "note": "accent sur la finale (la pluie a cessé)"
    },
    {
     "ligne": 26,
@@ -8381,7 +8381,7 @@
     "ligne": 4,
     "lemme": "choses",
     "type": "lecture",
-    "note": "lecture nouvelle ; et non « livres »"
+    "note": "c, h, o, s, e, s nets"
    },
    {
     "ligne": 5,
@@ -8453,7 +8453,7 @@
     "ligne": 13,
     "lemme": "9^{H} 30",
     "type": "lecture",
-    "note": "9 heures 30 ; lecture nouvelle, et non « 7 H 30 »"
+    "note": "9 heures 30 (boucle du 9 fermée en tête)"
    },
    {
     "ligne": 13,
@@ -8471,7 +8471,7 @@
     "ligne": 14,
     "lemme": "80c",
     "type": "lecture",
-    "note": "80 centimes ; lecture nouvelle, et non « 30 c »"
+    "note": "80 centimes (8 à double boucle)"
    },
    {
     "ligne": 15,
@@ -8617,7 +8617,7 @@
     "ligne": 12,
     "lemme": "ds",
     "type": "lecture",
-    "note": "dans ; d en ∂ puis s plongeant, sans accent ; lecture antérieure « à »"
+    "note": "dans ; d en ∂ puis s plongeant, sans accent"
    },
    {
     "ligne": 12,
@@ -8671,7 +8671,7 @@
     "ligne": 19,
     "lemme": "Bonny",
     "type": "lecture",
-    "note": "prénom ou diminutif douteux (B, o, minimes, y à longue descente) ; lecture antérieure « Bne Maman », exclue"
+    "note": "prénom ou diminutif douteux (B, o, minimes, y à longue descente)"
    },
    {
     "ligne": 20,
@@ -9196,7 +9196,7 @@
     "ligne": 1,
     "lemme": "Mt &",
     "type": "lecture",
-    "note": "aucun e distinct avant l'esperluette ; lecture antérieure Mte, possible si l'e est fondu dans la boucle"
+    "note": "aucun e distinct avant l'esperluette ; Mte possible si l'e est fondu dans la boucle"
    },
    {
     "ligne": 1,
@@ -9268,7 +9268,7 @@
     "ligne": 10,
     "lemme": "11 75",
     "type": "lecture",
-    "note": "11 francs 75 ; aucun f, le crochet est la tête du 7 et le 5 est à longue haste (lecture antérieure 11 f 75)"
+    "note": "11 francs 75 ; aucun f, le crochet est la tête du 7 et le 5 est à longue haste"
    },
    {
     "ligne": 11,
@@ -10176,7 +10176,7 @@
     "note": "un vrai"
    }
   ],
-  "critique": "Encre violette ; surcharge à la l.~9 sur « s'élèvent » et addition « pleine » dans l'interligne inférieur à la l.~15.",
+  "critique": "Encre violette homogène, d'un tracé posé et régulier, sans relevé de dépenses au bas de la page.",
   "historique": "En 1916, Barlette, où cantonne la compagnie, dépend encore de la commune de Franqueville ; il n'a été rattaché à Ribeaucourt qu'au XX\\textsuperscript{e} siècle (Inventaire, hameau de Barlette). Le hameau touche au grand massif du bois de Ribeaucourt, prolongé par le bois Monsieur-de-Berny, partie nord de l'ancien bois de Martaineville, acquise vers 1830 par Jean-Charles de Berny (Inventaire, village de Franqueville) : c'est sans doute la « forêt » que Combes parcourt. Le mess est celui des officiers de la compagnie, dont il est membre permanent depuis le 12 septembre (voir f.~21 v\\textsuperscript{o}). La pleine lune tomba le 11 octobre 1916 vers 7 h (temps universel) : le 9 au soir, la lune, gibbeuse, était à un jour et demi du plein (calendrier lunaire 1916). La « gde et belle chambre » est le \\textit{billet} trouvé le 6 octobre chez « Mme Ve — », à 900 m de Barlette, ancien salon d'une maison tenue par une « vieille gd-mère » (voir f.~34 r\\textsuperscript{o} et v\\textsuperscript{o}).\n",
   "sources": [
    "Région Hauts-de-France, Inventaire général du patrimoine culturel, dossier « Hameau de Barlette » (Ribeaucourt), inventaire.hautsdefrance.fr, IA80009826.",
@@ -10332,13 +10332,13 @@
     "ligne": 2,
     "lemme": "d'1",
     "type": "lecture",
-    "note": "lecture nouvelle (1 à trait d'attaque) ; on lisait « de = »"
+    "note": "1 à trait d'attaque après d'"
    },
    {
     "ligne": 3,
     "lemme": "pareille",
     "type": "lecture",
-    "note": "lecture nouvelle ; on lisait « qu'hier »"
+    "note": "p, a, r, e, i, ll, e nets"
    },
    {
     "ligne": 4,
@@ -10493,7 +10493,7 @@
     "ligne": 16,
     "lemme": "\\inc{kils}",
     "type": "lecture",
-    "note": "kilomètres ; lecture incertaine (k^{ils} ou kil. possibles) ; l'état antérieur lisait « k.. »"
+    "note": "kilomètres ; lecture incertaine (k^{ils} ou kil. possibles)"
    },
    {
     "ligne": 17,
@@ -10509,7 +10509,7 @@
    }
   ],
   "critique": "Les deux journées sont séparées par un blanc et un filet. La date « Ven. 13. » est soulignée d'un trait fin, d'une encre plus pâle que le texte.",
-  "historique": "Le champ de luzerne coupée est sans doute celui des jours précédents, derrière le bois de Ribeaucourt (voir f.~36 v\\textsuperscript{o}) : la luzerne compte parmi les fourrages verts (FSPB 1914, chap.~6, §~20), distribuables à la place d'une partie du foin (\\textit{Veterinary Services} 1925, p.~566). Le \\textit{limber} est peut-être le \\textit{limbered G.S. wagon}, voiture articulée plus légère que le grand chariot du service général à quatre chevaux (FSPB 1914, chap.~5, §~5). Le « Cap. Pant » (voir f.~34 v\\textsuperscript{o}) n'est pas identifié : la forme « Panton » des éditions antérieures restitue une abréviation, et aucun officier de ce nom ne figure dans l'A.S.C. (TNA, WO~339 et WO~374). Prouville abrite alors le 12th Middlesex, de la 54th Brigade (Wyrall, p.~319). Le départ annoncé au dîner suit de près les ordres : le 14 octobre, la division ouvre un QG avancé à Albert, la 53rd Brigade se prépare contre Regina Trench, qu'elle enlèvera le 21, et la 54th reçoit l'ordre de gagner Beauval (JMO 7/Bedf, 14 oct. 1916 ; Nichols 1922, p.~131).\n",
+  "historique": "Le champ de luzerne coupée est sans doute celui des jours précédents, derrière le bois de Ribeaucourt (voir f.~36 v\\textsuperscript{o}) : la luzerne compte parmi les fourrages verts (FSPB 1914, chap.~6, §~20), distribuables à la place d'une partie du foin (\\textit{Veterinary Services} 1925, p.~566). Le \\textit{limber} est peut-être le \\textit{limbered G.S. wagon}, voiture articulée plus légère que le grand chariot du service général à quatre chevaux (FSPB 1914, chap.~5, §~5). Le « Cap. Pant » (voir f.~34 v\\textsuperscript{o}) n'est pas identifié : la forme « Panton » parfois conjecturée restitue une abréviation, et aucun officier de ce nom ne figure dans l'A.S.C. (TNA, WO~339 et WO~374). Prouville abrite alors le 12th Middlesex, de la 54th Brigade (Wyrall, p.~319). Le départ annoncé au dîner suit de près les ordres : le 14 octobre, la division ouvre un QG avancé à Albert, la 53rd Brigade se prépare contre Regina Trench, qu'elle enlèvera le 21, et la 54th reçoit l'ordre de gagner Beauval (JMO 7/Bedf, 14 oct. 1916 ; Nichols 1922, p.~131).\n",
   "sources": [
    "Field Service Pocket Book, 1914, London, HMSO, 1914, chap. 5, § 5, et chap. 6, « Forage », § 20.",
    "Blenkinsop, L. J., et Rainey, J. W. (éd.), Veterinary Services (History of the Great War based on Official Documents), London, HMSO, 1925, p. 566.",
@@ -10554,7 +10554,7 @@
     "ligne": 2,
     "lemme": "Tot",
     "type": "lecture",
-    "note": "« Tôt » (T, o, t barré, sans s) ; lecture possible « Tout » ; lecture antérieure « Ts » (tous)"
+    "note": "« Tôt » (T, o, t barré, sans s) ; lecture possible « Tout »"
    },
    {
     "ligne": 3,
@@ -10707,7 +10707,7 @@
     "ligne": 8,
     "lemme": "environnant",
     "type": "lecture",
-    "note": "le mot s'achève sur un t pris dans un pâté, sans e (antérieurement « environnante »)"
+    "note": "le mot s'achève sur un t pris dans un pâté, sans e"
    },
    {
     "ligne": 12,
@@ -10840,7 +10840,7 @@
     "ligne": 5,
     "lemme": "offs",
     "type": "lecture",
-    "note": "s final en crochet après ff, sans point ; antérieurement « off. »"
+    "note": "s final en crochet après ff, sans point"
    },
    {
     "ligne": 8,
@@ -10882,7 +10882,7 @@
     "ligne": 12,
     "lemme": "convoi",
     "type": "lecture",
-    "note": "sans s final ; antérieurement « convois »"
+    "note": "sans s final"
    },
    {
     "ligne": 12,
@@ -11093,7 +11093,7 @@
     "ligne": 7,
     "lemme": "lgs",
     "type": "lecture",
-    "note": "lgs, sans t barré ; lu antérieurement « lgt »"
+    "note": "lgs, sans t barré (longtemps)"
    },
    {
     "ligne": 9,
@@ -11422,7 +11422,7 @@
     "ligne": 2,
     "lemme": "brillé",
     "type": "lecture",
-    "note": "pour « brille » ; accent net après le e final (transcription antérieure « brille »)"
+    "note": "pour « brille » ; accent net après le e final"
    },
    {
     "ligne": 2,
@@ -11458,7 +11458,7 @@
     "ligne": 6,
     "lemme": "tremblant",
     "type": "lecture",
-    "note": "a net avant -nt ; non « tremblent » (transcription antérieure)"
+    "note": "a net avant -nt"
    },
    {
     "ligne": 10,
@@ -11673,7 +11673,7 @@
     "ligne": 6,
     "lemme": "brique",
     "type": "lecture",
-    "note": "sans -s final (« briques » lu antérieurement)"
+    "note": "sans -s final"
    },
    {
     "ligne": 7,
@@ -11809,13 +11809,13 @@
     "ligne": 8,
     "lemme": "dug-out",
     "type": "lecture",
-    "note": "dug-out, sans s final visible ; lu antérieurement « dug-outs »"
+    "note": "dug-out, sans s final visible"
    },
    {
     "ligne": 10,
     "lemme": "Immense",
     "type": "lecture",
-    "note": "Immense ; lu antérieurement « Énorme »"
+    "note": "I majuscule et double m nets"
    },
    {
     "ligne": 10,
@@ -11886,7 +11886,7 @@
     "ligne": 9,
     "lemme": "Lepin",
     "type": "lecture",
-    "note": "Lepin, sans accent ; le même adjudant est écrit Lupin en 023 et Lépin en 090"
+    "note": "Lepin, sans accent ; le même adjudant est écrit Lupin au f. 12 r° et Lépin au f. 45 v°"
    },
    {
     "ligne": 9,
@@ -12004,7 +12004,7 @@
     "ligne": 3,
     "lemme": "Plateaux",
     "type": "lecture",
-    "note": "P, l haut, a, t barré, finale -x ; l'état antérieur lisait « Plateau »"
+    "note": "P, l haut, a, t barré, finale -x"
    },
    {
     "ligne": 4,
@@ -12052,7 +12052,7 @@
     "ligne": 11,
     "lemme": "R.F.",
     "type": "lecture",
-    "note": "F à boucle de tête et barre médiane, sans doute Royal Fusiliers ; l'état antérieur proposait R.E. (Royal Engineers)"
+    "note": "F à boucle de tête et barre médiane, sans doute Royal Fusiliers (R.E. moins probable)"
    },
    {
     "ligne": 12,
@@ -12158,7 +12158,7 @@
     "ligne": 7,
     "lemme": "Senlis",
     "type": "lecture",
-    "note": "aucune esperluette devant le S initial (lecture antérieure : « & Senlis »)"
+    "note": "aucune esperluette devant le S initial"
    },
    {
     "ligne": 7,
@@ -12182,7 +12182,7 @@
     "ligne": 9,
     "lemme": "mal",
     "type": "lecture",
-    "note": "m, a, puis l détaché : aucune lettre pour -ar- (lecture antérieure : « maral »)"
+    "note": "m, a, puis l détaché : aucune lettre pour -ar-"
    },
    {
     "ligne": 10,
@@ -12266,7 +12266,7 @@
     "ligne": 21,
     "lemme": "vif",
     "type": "lecture",
-    "note": "jambage arrondi puis longue haste montant au-dessus et descendant sous la ligne ; « or » ou « & » possibles (lecture antérieure : « jaunes d'or, »)"
+    "note": "jambage arrondi puis longue haste montant au-dessus et descendant sous la ligne ; « or » ou « & » possibles"
    }
   ],
   "critique": "Les deux dépenses du 29 sont réunies par un grand crochet, et un filet sépare les deux journées. À la l.~12, une reprise d'encre violette empâte le mot qui suit « sympathique. ».",
@@ -12386,7 +12386,7 @@
     "ligne": 13,
     "lemme": "gen^{l}",
     "type": "lecture",
-    "note": "l suscrit après gen, aucun a ; la transcription antérieure lisait génal"
+    "note": "l suscrit après gen, aucun a"
    },
    {
     "ligne": 13,
@@ -12428,7 +12428,7 @@
     "ligne": 19,
     "lemme": "de",
     "type": "lecture",
-    "note": "de, lettres nettes ; on attendrait ds (dans), leçon de la transcription antérieure"
+    "note": "de, lettres nettes ; on attendrait ds (dans)"
    },
    {
     "ligne": 20,
@@ -12533,7 +12533,7 @@
     "ligne": 3,
     "lemme": "a",
     "type": "lecture",
-    "note": "« a » net sur l'image ; on attend « eu » (l'état antérieur lisait eu)"
+    "note": "« a » net sur le manuscrit ; on attend « eu »"
    },
    {
     "ligne": 5,
@@ -12599,7 +12599,7 @@
     "ligne": 13,
     "lemme": "5",
     "type": "lecture",
-    "note": "chiffre omis par l'état antérieur (numéro du billet ?)"
+    "note": "numéro du billet ?"
    },
    {
     "ligne": 13,
@@ -12611,7 +12611,7 @@
     "ligne": 14,
     "lemme": "juché",
     "type": "lecture",
-    "note": "lecture nouvelle ; l'état antérieur laissait le verbe illisible"
+    "note": "j, u, c, h, é discernables malgré le tracé serré"
    },
    {
     "ligne": 14,
@@ -12935,13 +12935,13 @@
     "ligne": 15,
     "lemme": "Pozzi",
     "type": "lecture",
-    "note": "o fermé net après le P (transcription antérieure : Pizzi, forme lue aussi en 048, 085, 090)"
+    "note": "o fermé net après le P (pour Pizzi, cf. f. 24 v°, 43 r°, 45 v°)"
    },
    {
     "ligne": 18,
     "lemme": "automnes",
     "type": "lecture",
-    "note": "pluriel : e puis s final plongeant (transcription antérieure : automne)"
+    "note": "pluriel : e puis s final plongeant"
    },
    {
     "ligne": 18,
@@ -12950,7 +12950,7 @@
     "note": "affreusement"
    }
   ],
-  "critique": "Encre violette régulière ; l'addition « au » à la l.~3 est inscrite en module réduit dans l'interligne inférieur.",
+  "critique": "Encre violette régulière ; le relevé des dépenses du jour est porté au bas de la page, sous un filet.",
   "historique": "Bertrancourt, à 3~km au nord-est d'Acheux, abrite des troupes du V Corps qui prépare l'attaque au nord de l'Ancre. La 2nd Division, l'une des quatre chargées du principal effort du 13 novembre (OH 1916-II, p.~477), y a sans doute le QG situé « à gauche route de Bus » (Bus-lès-Artois). Les tentes, huttes, voitures et caissons sont ceux de cette concentration, maintenue par une attaque « constamment remise mais jamais annulée » (OH 1916-II, p.~480). La « question de pétrole », qui le mène encore à Belle-Église le 6 (f.~47~v\\textsuperscript{o}), porte peut-être sur l'essence, livrée en bidons de 2 ou 4 gallons (\\textit{Statistics} 1922, p.~846). Ni Jamet ni Cordonnier, attaché à la \\textit{Royal Field Artillery}, ne sont identifiés. La rencontre de Béthune renvoie au service de Combes en mai–juillet 1915 auprès du \\textit{1\\textsuperscript{st} Battalion, Irish Guards} (alors rattaché à la \\textit{4\\textsuperscript{th} Guards Brigade} de cette même \\textit{2\\textsuperscript{nd} Division}), désormais formellement attesté de sa main par les chapitres~\\textsc{v} et~\\textsc{vi} du plan de ses \\textit{Feuillets de Route} (\\textit{« Avec les 1\\textsuperscript{st} Irish. Guards »}, \\textit{« La veille d'une g\\textsuperscript{de} attaque (Mai 1915) »}, en annexe ; Kipling 1923, p.~63–95). Le lieutenant de la Mission vu à Albert est sans doute l'officier interprète de la 18th Division (voir f.~45~v\\textsuperscript{o}).\n",
   "sources": [
    "Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 477 et 480.",
@@ -13303,7 +13303,7 @@
     "ligne": 2,
     "lemme": "Hughs",
     "type": "lecture",
-    "note": "une seule lettre après Hugh (s réduit ou a) ; le major Hughes (cf. cliché 090) ; autre lecture Hugha"
+    "note": "une seule lettre après Hugh (s réduit ou a) ; le major Hughes (cf. f. 45 v°) ; autre lecture Hugha"
    },
    {
     "ligne": 3,
@@ -13321,7 +13321,7 @@
     "ligne": 6,
     "lemme": "demander",
     "type": "lecture",
-    "note": "finale -er nette, sans accent ; lecture antérieure demandé"
+    "note": "finale -er nette, sans accent"
    },
    {
     "ligne": 8,
@@ -13357,7 +13357,7 @@
     "ligne": 14,
     "lemme": "continue",
     "type": "lecture",
-    "note": "aucun r après -ue ; lecture antérieure continuer"
+    "note": "aucun r après -ue"
    },
    {
     "ligne": 14,
@@ -13571,7 +13571,7 @@
     "ligne": 3,
     "lemme": "pétri & sillons",
     "type": "lecture",
-    "note": "esperluette nette (petite boucle, haste plongeante) ; la lecture antérieure donnait de"
+    "note": "esperluette nette (petite boucle, haste plongeante)"
    },
    {
     "ligne": 4,
@@ -13643,7 +13643,7 @@
     "ligne": 15,
     "lemme": "de x",
     "type": "abreviation",
-    "note": "x : nombre indéterminé, « de nombreux » (la lecture antérieure donnait nbx)"
+    "note": "x : nombre indéterminé (« de nombreux »)"
    },
    {
     "ligne": 16,
@@ -13709,7 +13709,7 @@
     "ligne": 22,
     "lemme": "\\inc{catéchismes}",
     "type": "lecture",
-    "note": "c, a, t, é, c, h, minimes, e, s long ; catéchumènes possible ; la lecture antérieure carillonne n'est pas portée par les traits"
+    "note": "c, a, t, é, c, h, minimes, e, s long ; catéchumènes possible"
    },
    {
     "ligne": 22,
@@ -14166,7 +14166,7 @@
     "ligne": 14,
     "lemme": "lattendre",
     "type": "lecture",
-    "note": "l'attendre (sans apostrophe) ; l initial bouclé net ; on lisait « attendre »"
+    "note": "l'attendre (sans apostrophe) ; l initial bouclé net"
    },
    {
     "ligne": 14,
@@ -14285,7 +14285,7 @@
     "ligne": 3,
     "lemme": "7 selles",
     "type": "lecture",
-    "note": "7 à barre médiane, d'aspect + ; lecture de l'état antérieur maintenue"
+    "note": "7 à barre médiane, d'aspect +"
    },
    {
     "ligne": 6,
@@ -14303,7 +14303,7 @@
     "ligne": 7,
     "lemme": "\\inc{Nombreuses}",
     "type": "lecture",
-    "note": "lecture nouvelle ; Nouvelles possible"
+    "note": "lecture incertaine ; Nouvelles possible"
    },
    {
     "ligne": 7,
@@ -14333,7 +14333,7 @@
     "ligne": 11,
     "lemme": "\\inc{Carluvant}",
     "type": "lecture",
-    "note": "même nom en 118 et 146–148 ; Carlumont possible"
+    "note": "même nom aux f. 59 r° et 73 r°–74 r° ; Carlumont possible"
    },
    {
     "ligne": 11,
@@ -14449,7 +14449,7 @@
     "ligne": 2,
     "lemme": "Auj'hui",
     "type": "abreviation",
-    "note": "aujourd'hui ; lecture nouvelle (antérieurement « Auj'd'hui »)"
+    "note": "aujourd'hui (sans d médian)"
    },
    {
     "ligne": 2,
@@ -14485,7 +14485,7 @@
     "ligne": 9,
     "lemme": "28",
     "type": "lecture",
-    "note": "second chiffre à deux boucles : 8 ; antérieurement 25"
+    "note": "second chiffre à deux boucles : 8 (25 moins probable)"
    },
    {
     "ligne": 9,
@@ -14527,7 +14527,7 @@
     "ligne": 14,
     "lemme": "\\inc{Durant}",
     "type": "lecture",
-    "note": "mot repassé à l'encre épaisse, traversé par le soulignement de la date ; D descendant et t barré final ; antérieurement « Toute »"
+    "note": "mot repassé à l'encre épaisse, traversé par le soulignement de la date ; D descendant et t barré final (« Toute » moins probable)"
    },
    {
     "ligne": 17,
@@ -14749,13 +14749,13 @@
     "ligne": 26,
     "lemme": "49 C",
     "type": "lecture",
-    "note": "4 ouvert, non 7 (lu « 79 C » antérieurement) ; désignation d'un local"
+    "note": "4 ouvert (79 C moins probable) ; désignation d'un local"
    },
    {
     "ligne": 26,
     "lemme": "de",
     "type": "lecture",
-    "note": "d bouclé suivi d'un seul e, sans jambages de u ; lu « du » antérieurement"
+    "note": "d bouclé suivi d'un seul e, sans jambages de u"
    },
    {
     "ligne": 26,
@@ -14765,7 +14765,7 @@
    }
   ],
   "critique": "Encre noire virée au brun, homogène sur toute la page ; le mot « brouillard » du 29 novembre a été repassé d'une encre plus appuyée, la boucle du premier tracé restant visible.",
-  "historique": "Martinsart, hameau de la commune de Mesnil-Martinsart, à 4~km au nord d'Albert et à 8~km au sud-est d'Acheux, était « proche de la ligne de front jusqu'en septembre 1916 » (CWGC) ; au printemps de 1916, des voies de 60~cm en partaient vers le bois d'Aveluy (OH 1916-I, p.~276, n.), et les batteries lourdes y tirent encore vers l'Ancre au lendemain de la bataille du 13–18 novembre. Les châtelains, dont le nom reste douteux (« Vali » ; l'édition antérieure lisait « Bertin »), ne sont pas identifiés ; Combes reviendra au château le 10 février 1917 (voir f.~75~r\\textsuperscript{o}). La tournée du 29 conduit, à 12–15~km au sud-ouest d'Acheux, aux villages du plateau entre Puchevillers et l'Hallue, champ des achats de paille et de fourrage ; Septenville est un hameau de Rubempré. Le même 29 novembre, le QG du V Corps quitte Acheux pour Doullens et celui du XIII Corps le remplace (LLT ; voir f.~52~v\\textsuperscript{o}). Le thé pris à Hérissart le 30 l'est peut-être chez le lieutenant Walsh, qui y réside (voir f.~49~v\\textsuperscript{o}, 51~v\\textsuperscript{o}).\n",
+  "historique": "Martinsart, hameau de la commune de Mesnil-Martinsart, à 4~km au nord d'Albert et à 8~km au sud-est d'Acheux, était « proche de la ligne de front jusqu'en septembre 1916 » (CWGC) ; au printemps de 1916, des voies de 60~cm en partaient vers le bois d'Aveluy (OH 1916-I, p.~276, n.), et les batteries lourdes y tirent encore vers l'Ancre au lendemain de la bataille du 13–18 novembre. Les châtelains, dont le nom reste douteux (« Vali » ou « Bertin »), ne sont pas identifiés ; Combes reviendra au château le 10 février 1917 (voir f.~75~r\\textsuperscript{o}). La tournée du 29 conduit, à 12–15~km au sud-ouest d'Acheux, aux villages du plateau entre Puchevillers et l'Hallue, champ des achats de paille et de fourrage ; Septenville est un hameau de Rubempré. Le même 29 novembre, le QG du V Corps quitte Acheux pour Doullens et celui du XIII Corps le remplace (LLT ; voir f.~52~v\\textsuperscript{o}). Le thé pris à Hérissart le 30 l'est peut-être chez le lieutenant Walsh, qui y réside (voir f.~49~v\\textsuperscript{o}, 51~v\\textsuperscript{o}).\n",
   "sources": [
    "Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).",
    "Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 276, n.",
@@ -14874,7 +14874,7 @@
     "ligne": 14,
     "lemme": "70",
     "type": "lecture",
-    "note": "70 (7 barré au milieu), sans f ; non 40 f, lecture antérieure"
+    "note": "70 (7 barré au milieu), sans f"
    },
    {
     "ligne": 15,
@@ -14922,7 +14922,7 @@
     "ligne": 21,
     "lemme": "\\add{tout} \\inc{Mess} \\add{\\inc{large}}",
     "type": "lecture",
-    "note": "fin de ligne serrée, « tout » au-dessus, « large » au-dessous ; lecture douteuse (Miss ?) ; l'état antérieur lisait « tout jeune, mince »"
+    "note": "fin de ligne serrée, « tout » au-dessus, « large » au-dessous ; lecture douteuse (Miss ?)"
    },
    {
     "ligne": 22,
@@ -14940,7 +14940,7 @@
     "ligne": 25,
     "lemme": "y",
     "type": "lecture",
-    "note": "y (« y vu »), non &, lecture antérieure"
+    "note": "y (« y vu »), haste descendante bouclée"
    },
    {
     "ligne": 26,
@@ -15059,7 +15059,7 @@
     "ligne": 17,
     "lemme": "78^{f} 75 c",
     "type": "lecture",
-    "note": "78 francs 75 ; f réduit à une petite boucle suscrite, 75 mêlé au XIII de la ligne précédente ; même solde au cliché 046"
+    "note": "78 francs 75 ; f réduit à une petite boucle suscrite, 75 mêlé au XIII de la ligne précédente ; même solde au f. 23 v°"
    },
    {
     "ligne": 17,
@@ -15113,7 +15113,7 @@
     "ligne": 26,
     "lemme": "de + en +",
     "type": "lecture",
-    "note": "de plus en plus ; deux croix détachées (anc. « de tt à tt »)"
+    "note": "de plus en plus ; deux croix détachées"
    }
   ],
   "critique": "Encre noire virée au brun. Les comptes du 3 décembre sont ouverts par un grand crochet et séparés de la journée du 4 par un long filet partant du milieu de la page.",
@@ -15518,7 +15518,7 @@
     "ligne": 6,
     "lemme": "\\inc{1}",
     "type": "lecture",
-    "note": "1 (un), signe bref avant Lt, omis jusqu'ici ; autre lecture possible le"
+    "note": "1 (un), signe bref avant Lt ; autre lecture possible le"
    },
    {
     "ligne": 6,
@@ -15584,7 +15584,7 @@
     "ligne": 17,
     "lemme": "Dyssenterie",
     "type": "lecture",
-    "note": "deux s montants après le y ; on lisait Dysenterie"
+    "note": "deux s montants après le y"
    },
    {
     "ligne": 17,
@@ -15842,7 +15842,7 @@
     "ligne": 14,
     "lemme": "de côté",
     "type": "lecture",
-    "note": "d et e, sans apostrophe ni 1 (l'état antérieur lisait d'1 côté)"
+    "note": "d et e, sans apostrophe ni 1"
    },
    {
     "ligne": 15,
@@ -15872,7 +15872,7 @@
     "ligne": 21,
     "lemme": "( 1 cap.",
     "type": "lecture",
-    "note": "parenthèse ouvrante, et fermante après vain : traits fins et hauts, non les tirets de l'état antérieur"
+    "note": "parenthèse ouvrante, et fermante après vain : traits fins et hauts"
    },
    {
     "ligne": 21,
@@ -15958,7 +15958,7 @@
     "ligne": 4,
     "lemme": "\\inc{& désert. Froid}",
     "type": "lecture",
-    "note": "passage repassé et empâté ; lecture de l'état antérieur, Froid plus probable que désert pour le dernier mot"
+    "note": "passage repassé et empâté ; Froid plus probable que désert pour le dernier mot"
    },
    {
     "ligne": 4,
@@ -16310,7 +16310,7 @@
     "ligne": 5,
     "lemme": "\\inc{?!}",
     "type": "lecture",
-    "note": "lecture nouvelle : après le « ? », crochet en ʌ et trait droit hauts d'une ligne, leurs points sur la ligne de base ; autre lecture : « ni »"
+    "note": "après le « ? », crochet en ʌ et trait droit hauts d'une ligne, leurs points sur la ligne de base ; autre lecture : « ni »"
    },
    {
     "ligne": 6,
@@ -16370,7 +16370,7 @@
     "ligne": 16,
     "lemme": "comp^{t}",
     "type": "lecture",
-    "note": "lecture nouvelle (état antérieur : compl.) : t surélevé lié au p, sans l ni point"
+    "note": "t surélevé lié au p, sans l ni point (compl. moins probable)"
    },
    {
     "ligne": 18,
@@ -16476,7 +16476,7 @@
     "ligne": 6,
     "lemme": "\\inc{Capron}",
     "type": "lecture",
-    "note": "C, a, p sûrs ; la suite (minimes sous un point d'i, n final) admet aussi Caprin ou Capin ; même graphie en 120"
+    "note": "C, a, p sûrs ; la suite (minimes sous un point d'i, n final) admet aussi Caprin ou Capin ; même graphie au f. 60 r°"
    },
    {
     "ligne": 8,
@@ -16583,7 +16583,7 @@
     "ligne": 6,
     "lemme": "affreut",
     "type": "lecture",
-    "note": "t final sans s (lecture antérieure affreust)"
+    "note": "t final sans s"
    },
    {
     "ligne": 7,
@@ -16764,7 +16764,7 @@
     "ligne": 9,
     "lemme": "Il a fait des",
     "type": "lecture",
-    "note": "Il a, non M'a (transcription antérieure)"
+    "note": "Il a, initiale I suivie de l"
    },
    {
     "ligne": 11,
@@ -16936,7 +16936,7 @@
     "ligne": 9,
     "lemme": "\\del{\\ill}",
     "type": "rature",
-    "note": "mot d'environ huit lettres noyé sous un zigzag serré ; nouveau (état antérieur) possible, invérifiable"
+    "note": "mot d'environ huit lettres noyé sous un zigzag serré ; « nouveau » possible, invérifiable"
    },
    {
     "ligne": 9,
@@ -16954,7 +16954,7 @@
     "ligne": 18,
     "lemme": "Farm",
     "type": "emprunt",
-    "note": "ferme (Belle-Eglise Farm : ferme de Belle-Église) ; mot omis par l'état antérieur"
+    "note": "ferme (Belle-Eglise Farm : ferme de Belle-Église)"
    },
    {
     "ligne": 20,
@@ -16996,7 +16996,7 @@
     "ligne": 24,
     "lemme": "1^{f} —",
     "type": "lecture",
-    "note": "1 franc, puis tiret ; aucun 50 (état antérieur) : les traces brunes à droite sont la transparence du verso"
+    "note": "1 franc, puis tiret : les traces brunes à droite sont la transparence du verso"
    }
   ],
   "critique": "Encre noire virée au brun, homogène, y compris le petit « par » inséré après coup entre « fatigué » et « Plusieurs ». Les deux journées ne sont séparées que par un blanc ; les comptes, sous un grand crochet, réunissent des achats des deux jours.",
@@ -17091,7 +17091,7 @@
     "ligne": 13,
     "lemme": "\\inc{Trefton}",
     "type": "lecture",
-    "note": "après le f, une haste montante (t) et non un c bas ; lecture antérieure Trefcon"
+    "note": "après le f, une haste montante (t) et non un c bas (pour Trefcon)"
    },
    {
     "ligne": 15,
@@ -17133,7 +17133,7 @@
     "ligne": 21,
     "lemme": "1^{f} \\inc{75} c",
     "type": "lecture",
-    "note": "1 franc 75 ; chiffres noyés dans un pâté, barre et diagonale du 7 visibles ; lecture antérieure 1 f 95"
+    "note": "1 franc 75 ; chiffres noyés dans un pâté, barre et diagonale du 7 visibles (1 f 95 moins probable)"
    },
    {
     "ligne": 22,
@@ -17233,7 +17233,7 @@
     "ligne": 12,
     "lemme": "très \\inc{f.}",
     "type": "lecture",
-    "note": "f à boucle de tête et long jambage, suivi d'un point ; mot abrégé non résolu ; s. possible ; lecture antérieure g."
+    "note": "f à boucle de tête et long jambage, suivi d'un point ; mot abrégé non résolu ; s. ou g. possibles"
    },
    {
     "ligne": 13,
@@ -17245,7 +17245,7 @@
     "ligne": 13,
     "lemme": "\\inc{15}c",
     "type": "lecture",
-    "note": "15 centimes ; 5 à boucle haute comme dans 78^{f} 75 ; 75 possible ; lectures antérieures 50 c, 1 fr"
+    "note": "15 centimes ; 5 à boucle haute comme dans 78^{f} 75 ; 75 possible"
    },
    {
     "ligne": 14,
@@ -17281,7 +17281,7 @@
     "ligne": 19,
     "lemme": "batteuse a",
     "type": "lecture",
-    "note": "batteuse, et non battage ; a (pour à) suivi d'un long trait ; lecture antérieure av."
+    "note": "batteuse, et non battage ; a (pour à) suivi d'un long trait (av. possible)"
    },
    {
     "ligne": 20,
@@ -17293,7 +17293,7 @@
     "ligne": 20,
     "lemme": "\\inc{Capron}",
     "type": "lecture",
-    "note": "Capron, comme au cliché 115 ; après le p, jambages sous un point d'i ; Capin ou Copin possibles"
+    "note": "Capron, comme au f. 57 v° ; après le p, jambages sous un point d'i ; Capin ou Copin possibles"
    },
    {
     "ligne": 21,
@@ -17601,7 +17601,7 @@
     "ligne": 14,
     "lemme": "\\inc{moult}",
     "type": "lecture",
-    "note": "mot nouveau, absent de la transcription antérieure ; m-o-u puis haute haste et t ; autre lecture possible mouvt"
+    "note": "m-o-u puis haute haste et t ; autre lecture possible mouvt"
    },
    {
     "ligne": 15,
@@ -17775,7 +17775,7 @@
     "note": "65 c : second chiffre à haute boucle et longue haste descendante (5 en ℓ), non un 0 ; ou 60 c"
    }
   ],
-  "critique": "Encre noire virée au brun ; addition interlinéaire « (neige fondue) » à la l.~2, et comptes du 15 janvier encadrés d'une équerre au bas de la page.",
+  "critique": "Encre noire virée au brun ; les comptes du 15 janvier sont isolés au bas de la page par un filet en équerre.",
   "historique": "Le « bureau mission V\\textsuperscript{e} corps » est celui de la Mission française auprès du V Corps (lieutenant-général Fanshawe). Son QG est revenu de Doullens à Acheux la veille (LLT) : après l'opération du 11, le V Corps reprend au nord de l'Ancre le secteur du XIII Corps (OH 1917-I, p. 69), dont le bureau payait encore Combes le 5 janvier (f. 60 r\\textsuperscript{o}). Le capitaine Huguet, qui l'avait convoqué le 5 novembre 1916 (f. 47 r\\textsuperscript{o}), n'est pas identifié ; rien ne le rattache au général Victor Huguet, ancien chef de la Mission. Le départ « au 26 ct » est celui de la seconde permission : Combes quittera Acheux le vendredi 26 janvier et ne rentrera que le 7 février. La neige du 14 ouvre le grand gel, daté de ce jour par l'histoire officielle et long d'un mois (OH 1917-I, p. 66). Beaucourt et Montigny sont ceux de l'Hallue (voir f. 59 v\\textsuperscript{o}). Les cartes postales reviennent à 4 c pièce, contre 10 c à Albert. Le chocolat ordinaire valait alors 3,23 F le kilo à l'économat d'une compagnie de chemins de fer (March 1925, p. 199–200).\n",
   "sources": [
    "Baker, C., « The British V Corps in France and Flanders », The Long, Long Trail, https://www.longlongtrail.co.uk (copie Wayback du 5 août 2020).",
@@ -17824,7 +17824,7 @@
     "ligne": 9,
     "lemme": "couverte",
     "type": "lecture",
-    "note": "finale en e ; « couverts » possible (lecture antérieure)."
+    "note": "finale en e ; « couverts » possible."
    },
    {
     "ligne": 9,
@@ -17848,7 +17848,7 @@
     "ligne": 11,
     "lemme": "35 c",
     "type": "lecture",
-    "note": "5 à longue haste oblique, sans ovale de 0 ; lecture antérieure « 30 c »."
+    "note": "5 à longue haste oblique, sans ovale de 0."
    },
    {
     "ligne": 12,
@@ -17908,7 +17908,7 @@
     "ligne": 20,
     "lemme": "notam",
     "type": "abreviation",
-    "note": "notamment (suspension prolongée d'un délié ; lecture antérieure « notamt »)"
+    "note": "notamment (suspension prolongée d'un délié ; « notamt » possible)"
    },
    {
     "ligne": 20,
@@ -18254,7 +18254,7 @@
     "ligne": 19,
     "lemme": "3^{H} 1/2",
     "type": "lecture",
-    "note": "trois heures et demie ; lecture nouvelle, non « 3h s. »"
+    "note": "trois heures et demie (fraction 1/2 après 3^{H})"
    },
    {
     "ligne": 20,
@@ -18383,7 +18383,7 @@
     "ligne": 17,
     "lemme": "Conver^{\\inc{it}}.",
     "type": "abreviation",
-    "note": "conversation ; finale suscrite : i pointé, puis une lettre masquée (t ?) ; on lisait « conversn & »"
+    "note": "conversation ; finale suscrite : i pointé, puis une lettre masquée (t ?)"
    },
    {
     "ligne": 18,
@@ -18544,7 +18544,7 @@
     "ligne": 8,
     "lemme": "27 kos.",
     "type": "lecture",
-    "note": "k, o, s final réduit, comme en 024 (« 13 kos ») ; antérieurement « kg. »"
+    "note": "k, o, s final réduit, comme au f. 12 v° (« 13 kos »)"
    },
    {
     "ligne": 8,
@@ -18672,7 +18672,7 @@
     "ligne": 17,
     "lemme": "de Orsay",
     "type": "lecture",
-    "note": "e net, lié au d ; petit trait pointé au-dessus de l'O (apostrophe ?) ; pour gare d'Orsay, leçon de l'état antérieur"
+    "note": "e net, lié au d ; petit trait pointé au-dessus de l'O (apostrophe ?) ; pour gare d'Orsay"
    },
    {
     "ligne": 18,
@@ -19043,7 +19043,7 @@
     "ligne": 9,
     "lemme": "9 \\fr{1}{2}",
     "type": "lecture",
-    "note": "neuf heures et demie, sans h ; non « 9 h s. » (transcription antérieure)."
+    "note": "neuf heures et demie, sans h."
    },
    {
     "ligne": 10,
@@ -19102,7 +19102,7 @@
     "ligne": 8,
     "lemme": "&",
     "type": "lecture",
-    "note": "esperluette (et) ; « et » dans la transcription antérieure"
+    "note": "esperluette (et)"
    },
    {
     "ligne": 9,
@@ -19138,7 +19138,7 @@
     "ligne": 19,
     "lemme": "par",
     "type": "lecture",
-    "note": "en toutes lettres ; « p. » dans la transcription antérieure"
+    "note": "en toutes lettres"
    },
    {
     "ligne": 20,
@@ -19287,7 +19287,7 @@
     "ligne": 13,
     "lemme": "pr",
     "type": "ajout",
-    "note": "écrit petit après coup, serré entre « remarquables » et « fond » ; omis par la transcription antérieure"
+    "note": "écrit petit après coup, serré entre « remarquables » et « fond »"
    },
    {
     "ligne": 15,
@@ -19443,7 +19443,7 @@
     "ligne": 10,
     "lemme": "grandes precieuses",
     "type": "lecture",
-    "note": "lecture nouvelle (mot non établi jusqu'ici) ; « précieuses » pris comme nom"
+    "note": "« précieuses » pris comme nom"
    },
    {
     "ligne": 11,
@@ -19604,7 +19604,7 @@
     "ligne": 8,
     "lemme": "et.",
     "type": "lecture",
-    "note": "e, t barré et point nets, omis par la transcription antérieure ; sens obscur"
+    "note": "e, t barré et point nets ; sens obscur"
    },
    {
     "ligne": 8,
@@ -19694,7 +19694,7 @@
     "ligne": 19,
     "lemme": "75",
     "type": "lecture",
-    "note": "chiffre à barre de tête descendant sous la ligne (7), puis 5 ; 25 possible, lu par la transcription antérieure"
+    "note": "chiffre à barre de tête descendant sous la ligne (7), puis 5 ; 25 possible"
    },
    {
     "ligne": 20,
@@ -19791,7 +19791,7 @@
     "ligne": 8,
     "lemme": "&c",
     "type": "lecture",
-    "note": "« &c » (et cetera), lecture incertaine ; on peut aussi lire « do » ; l'état antérieur donnait « etc. »"
+    "note": "« &c » (et cetera), lecture incertaine ; on peut aussi lire « do » ou « etc. »"
    },
    {
     "ligne": 9,
@@ -19821,7 +19821,7 @@
     "ligne": 12,
     "lemme": "pendantif",
     "type": "lecture",
-    "note": "« pendantif » (pour pendentif), a net après le d ; l'état antérieur lisait « pendentif »"
+    "note": "« pendantif » (pour pendentif), a net après le d"
    },
    {
     "ligne": 13,
@@ -19932,7 +19932,7 @@
     "ligne": 4,
     "lemme": "\\inc{Auriol}",
     "type": "lecture",
-    "note": "lecture de l'état antérieur, conservée sous réserve ; « Auriole » possible"
+    "note": "lecture incertaine ; « Auriole » possible"
    },
    {
     "ligne": 5,
@@ -19956,7 +19956,7 @@
     "ligne": 7,
     "lemme": "accompagnés",
     "type": "lecture",
-    "note": "s final réduit à un trait vertical après l'é ; « accompagné » selon l'état antérieur"
+    "note": "s final réduit à un trait vertical après l'é (« accompagné » possible)"
    },
    {
     "ligne": 8,
@@ -20087,7 +20087,7 @@
     "ligne": 2,
     "lemme": "Lersay",
     "type": "lecture",
-    "note": "Lersay, comme en 138 ; le s plonge sous la ligne ; autre lecture : Lezay"
+    "note": "Lersay, comme au f. 69 r° ; le s plonge sous la ligne ; autre lecture : Lezay"
    },
    {
     "ligne": 3,
@@ -20312,7 +20312,7 @@
     "ligne": 2,
     "lemme": "beau",
     "type": "lecture",
-    "note": "lecture retenue : b bouclé suivi de e, a, u ; autre lecture : gai (état antérieur)"
+    "note": "lecture retenue : b bouclé suivi de e, a, u ; autre lecture : gai"
    },
    {
     "ligne": 3,
@@ -20485,7 +20485,7 @@
     "ligne": 12,
     "lemme": "2 Cl.",
     "type": "lecture",
-    "note": "lecture nouvelle (antérieurement 2e cl.) ; aucun e suscrit après le 2 ; autre lecture possible 2 cl."
+    "note": "aucun e suscrit après le 2 ; autre lecture possible 2 cl."
    },
    {
     "ligne": 13,
@@ -20580,7 +20580,7 @@
     "ligne": 4,
     "lemme": "1^{ère}",
     "type": "lecture",
-    "note": "Finale ère suscrite surmontée de son accent ; la transcription antérieure portait « 1re »."
+    "note": "Finale ère suscrite surmontée de son accent."
    },
    {
     "ligne": 5,
@@ -20682,7 +20682,7 @@
     "ligne": 15,
     "lemme": "av",
     "type": "lecture",
-    "note": "Le mot s'arrête au v, suivi d'un long délié ; la transcription antérieure portait « avec »."
+    "note": "Le mot s'arrête au v, suivi d'un long délié (pour « avec »)."
    },
    {
     "ligne": 19,
@@ -20698,7 +20698,7 @@
    }
   ],
   "critique": "Un interligne un peu plus large sépare la nuit à Saint-Flour du départ du matin.",
-  "historique": "De Saint-Flour, Combes ne repasse pas par Neussargues, comme l'a écrit une notice antérieure : il gagne directement Brioude (Haute-Loire) par la ligne de la Margeride (Saint-Flour – Beaumont-Lauriat – Brioude), concédée au P.L.M. en 1905 et ouverte en juin 1910, itinéraire que le Baedeker indique pour aller de Clermont à Béziers (Baedeker 1914, p.~282 ; Inventaire général Auvergne-Rhône-Alpes). À Brioude, sur la ligne de Nîmes à Clermont, il prend l'express de Paris par la ligne du Bourbonnais : Clermont-Ferrand, Riom, Gannat, Saint-Germain-des-Fossés, Nevers (Baedeker 1914, p.~216-217), puis Gien et Montargis (Loiret) ; il dépense 60~c au buffet de Brioude pendant l'heure de correspondance (f.~72~v\\textsuperscript{o}). La nuit « extt froide » et les « pieds gelés » répondent aux minima de cette vague de froid : −18,5~°C à Clermont-Ferrand le 30 janvier, −15,4~°C à Paris le 4 février (Barbé 1917, p.~182). Les « permissionnaires » sont sans doute des soldats regagnant le front, comme lui, au terme d'une permission.\n",
+  "historique": "De Saint-Flour, Combes ne repasse pas par Neussargues : il gagne directement Brioude (Haute-Loire) par la ligne de la Margeride (Saint-Flour – Beaumont-Lauriat – Brioude), concédée au P.L.M. en 1905 et ouverte en juin 1910, itinéraire que le Baedeker indique pour aller de Clermont à Béziers (Baedeker 1914, p.~282 ; Inventaire général Auvergne-Rhône-Alpes). À Brioude, sur la ligne de Nîmes à Clermont, il prend l'express de Paris par la ligne du Bourbonnais : Clermont-Ferrand, Riom, Gannat, Saint-Germain-des-Fossés, Nevers (Baedeker 1914, p.~216-217), puis Gien et Montargis (Loiret) ; il dépense 60~c au buffet de Brioude pendant l'heure de correspondance (f.~72~v\\textsuperscript{o}). La nuit « extt froide » et les « pieds gelés » répondent aux minima de cette vague de froid : −18,5~°C à Clermont-Ferrand le 30 janvier, −15,4~°C à Paris le 4 février (Barbé 1917, p.~182). Les « permissionnaires » sont sans doute des soldats regagnant le front, comme lui, au terme d'une permission.\n",
   "sources": [
    "Baedeker, K., Southern France including Corsica. Handbook for Travellers, 6e éd., Leipzig, K. Baedeker, 1914, p. 216-217, 282.",
    "Inventaire général du patrimoine culturel, Région Auvergne-Rhône-Alpes, dossier « Ligne Brioude – Saint-Flour » (patrimoine.auvergnerhonealpes.fr).",
@@ -20764,7 +20764,7 @@
     "ligne": 12,
     "lemme": "2^{e}",
     "type": "lecture",
-    "note": "lecture nouvelle : 2 bouclé et e suscrit ; l'état antérieur lisait « 1re »"
+    "note": "2 bouclé et e suscrit"
    },
    {
     "ligne": 12,
@@ -20788,7 +20788,7 @@
     "ligne": 13,
     "lemme": "à",
     "type": "lecture",
-    "note": "lecture incertaine : a sous un long trait ; omis par l'état antérieur"
+    "note": "lecture incertaine : a sous un long trait"
    },
    {
     "ligne": 16,
@@ -20878,7 +20878,7 @@
     "ligne": 8,
     "lemme": "comble",
     "type": "lecture",
-    "note": "lecture retenue (c, o, m, b, l, e plongeant) ; la transcription antérieure portait « bondée »"
+    "note": "lecture retenue (c, o, m, b, l, e plongeant)"
    },
    {
     "ligne": 9,
@@ -21061,7 +21061,7 @@
    }
   ],
   "critique": "Deux pâtés d'encre couvrent le début de « Hérissart » (l.~5) et la fin de la l.~9 ; le nom « Delille » est repassé. La page s'achève sur un long paraphe montant.",
-  "historique": "Ni Mme Delille, dont le « guichet » n'est pas précisé (poste, boutique ?), ni le capitaine Williams, venu le 2 décembre remplacer Curtis (f.~52~v\\textsuperscript{o}), ne sont identifiés. Le bureau de la Mission française d'Acheux, celui du V Corps depuis la mi-janvier (f.~61~v\\textsuperscript{o}), sert de relais de messages et de téléphone aux interprètes isolés. Hérissart (Somme), à une dizaine de kilomètres au sud-ouest d'Acheux, n'est qu'à 3~km de Toutencourt, QG de la Fifth Army jusqu'au 28 mars 1917 (OH 1916-I, p.~304 ; LLT), où siège aussi le bureau de la Mission de la V\\textsuperscript{e} Armée (f.~52~v\\textsuperscript{o}). L'auto passe par Raincheval, où se tenait en décembre l'\\textit{Army Purchase Board} (f.~56~r\\textsuperscript{o}), et par Puchevillers, siège de deux hôpitaux d'évacuation jusqu'en mars 1917 (LLT). Le café « Chalelton » (lecture incertaine ; « Charlet » dans la transcription antérieure) n'est pas identifié ; l'église, visible de sa fenêtre, est dédiée à saint Martin (Palissy PM80005288).\n",
+  "historique": "Ni Mme Delille, dont le « guichet » n'est pas précisé (poste, boutique ?), ni le capitaine Williams, venu le 2 décembre remplacer Curtis (f.~52~v\\textsuperscript{o}), ne sont identifiés. Le bureau de la Mission française d'Acheux, celui du V Corps depuis la mi-janvier (f.~61~v\\textsuperscript{o}), sert de relais de messages et de téléphone aux interprètes isolés. Hérissart (Somme), à une dizaine de kilomètres au sud-ouest d'Acheux, n'est qu'à 3~km de Toutencourt, QG de la Fifth Army jusqu'au 28 mars 1917 (OH 1916-I, p.~304 ; LLT), où siège aussi le bureau de la Mission de la V\\textsuperscript{e} Armée (f.~52~v\\textsuperscript{o}). L'auto passe par Raincheval, où se tenait en décembre l'\\textit{Army Purchase Board} (f.~56~r\\textsuperscript{o}), et par Puchevillers, siège de deux hôpitaux d'évacuation jusqu'en mars 1917 (LLT). Le café « Chalelton » (lecture incertaine ; « Charlet » possible) n'est pas identifié ; l'église, visible de sa fenêtre, est dédiée à saint Martin (Palissy PM80005288).\n",
   "sources": [
    "Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 304.",
    "Baker, C., The Long, Long Trail, « The British Fifth or Reserve Army 1916-1918 » et « Locations of British Casualty Clearing Stations » (longlongtrail.co.uk, copies Wayback 2018 et 2024).",
@@ -21115,7 +21115,7 @@
     "ligne": 7,
     "lemme": "15 c.",
     "type": "lecture",
-    "note": "15 centimes, le 5 à longue haste comme à la ligne suivante ; antérieurement lu « 1 f. »"
+    "note": "15 centimes, le 5 à longue haste comme à la ligne suivante"
    },
    {
     "ligne": 8,
@@ -21163,7 +21163,7 @@
     "ligne": 12,
     "lemme": "et varia",
     "type": "ajout",
-    "note": "écrit plus petit sous « lunch », rattaché au poste de 5 f. ; antérieurement lu « et room »"
+    "note": "écrit plus petit sous « lunch », rattaché au poste de 5 f."
    },
    {
     "ligne": 12,
@@ -21244,7 +21244,7 @@
     "ligne": 10,
     "lemme": "\\inc{2 h.}",
     "type": "lecture",
-    "note": "deux heures ; chiffre bouclé et h à longue haste, lecture probable ; l'édition antérieure hésitait avec « 45 m »"
+    "note": "deux heures ; chiffre bouclé et h à longue haste, lecture probable (« 45 m » moins probable)"
    },
    {
     "ligne": 11,
@@ -21274,7 +21274,7 @@
     "ligne": 14,
     "lemme": "couture",
     "type": "lecture",
-    "note": "c-o initial et t barré ; l'édition antérieure lisait « lecture »"
+    "note": "c-o initial et t barré"
    },
    {
     "ligne": 15,
@@ -21434,7 +21434,7 @@
     "ligne": 20,
     "lemme": "Votté",
     "type": "lecture",
-    "note": "deux hastes sans boucle coupées d'une barre (tt) ; Volké (lecture antérieure), Vossé possibles ; non identifié"
+    "note": "deux hastes sans boucle coupées d'une barre (tt) ; Volké, Vossé possibles ; non identifié"
    }
   ],
   "critique": "Pâté d'encre sur la fin de « (suite) », en tête de page. Les derniers mots (« rempli de troupes anglaises ») sont d'une encre violette plus pâle, la plume s'épuisant ; la tournée du samedi se poursuit au verso.",
@@ -21684,7 +21684,7 @@
     "ligne": 19,
     "lemme": "45",
     "type": "lecture",
-    "note": "lecture nouvelle : 45 (centimes), non 75 c ; le trait oblique devant le 4 appartient à « Papeterie »"
+    "note": "45 (centimes) ; le trait oblique devant le 4 appartient à « Papeterie »"
    },
    {
     "ligne": 20,
@@ -21738,7 +21738,7 @@
     "ligne": 4,
     "lemme": "\\inc{entiert}",
     "type": "abreviation",
-    "note": "entièrement (lecture incertaine) ; « en détail », lu jusqu'ici, ne s'accorde pas aux traits"
+    "note": "entièrement (lecture incertaine)"
    },
    {
     "ligne": 7,
@@ -21786,7 +21786,7 @@
     "ligne": 17,
     "lemme": "Croute",
     "type": "lecture",
-    "note": "singulier sur l'image ; Croûtes lu jusqu'ici"
+    "note": "singulier sur le manuscrit"
    },
    {
     "ligne": 19,
@@ -21983,7 +21983,7 @@
     "ligne": 17,
     "lemme": "Resté",
     "type": "lecture",
-    "note": "lecture retenue (s long descendant, t sans barre, é) ; l'état antérieur lisait « Roulé »."
+    "note": "lecture retenue (s long descendant, t sans barre, é ; « Roulé » moins probable)."
    },
    {
     "ligne": 18,
@@ -22037,7 +22037,7 @@
     "ligne": 3,
     "lemme": "de + en doux",
     "type": "lecture",
-    "note": "un seul + (de plus en plus doux) ; l'état antérieur lisait « de + en + doux »"
+    "note": "un seul + (pour « de + en + doux »)"
    },
    {
     "ligne": 5,
@@ -22055,7 +22055,7 @@
     "ligne": 9,
     "lemme": "nuages",
     "type": "lecture",
-    "note": "finale en s montant après -age, sans -ux ; l'état antérieur lisait « nuageux »"
+    "note": "finale en s montant après -age, sans -ux"
    },
    {
     "ligne": 13,
@@ -22067,7 +22067,7 @@
     "ligne": 14,
     "lemme": "tempérre",
     "type": "abreviation",
-    "note": "température (l'état antérieur lisait « Tempér. »)"
+    "note": "température (finale -re suscrite)"
    },
    {
     "ligne": 14,
@@ -22196,7 +22196,7 @@
     "ligne": 13,
     "lemme": "prop^{re}",
     "type": "abreviation",
-    "note": "propriétaire (la logeuse du n° 104) ; finale -re suscrite, lue antérieurement « propre »"
+    "note": "propriétaire (la logeuse du n° 104) ; finale -re suscrite"
    },
    {
     "ligne": 13,
@@ -22302,7 +22302,7 @@
     "ligne": 8,
     "lemme": "à 1^{H}",
     "type": "lecture",
-    "note": "« à » (a ouvert et accent), absent de la transcription antérieure."
+    "note": "« à » (a ouvert et accent)."
    },
    {
     "ligne": 8,
@@ -22362,13 +22362,13 @@
     "ligne": 15,
     "lemme": "à peu",
     "type": "lecture",
-    "note": "a et accent, non « 1 peu » (transcription antérieure)."
+    "note": "a et accent (et non « 1 peu »)."
    },
    {
     "ligne": 16,
     "lemme": "près",
     "type": "lecture",
-    "note": "à peu près ; non « plus » (transcription antérieure)."
+    "note": "à peu près."
    },
    {
     "ligne": 17,
@@ -22422,7 +22422,7 @@
     "ligne": 22,
     "lemme": "bruine",
     "type": "lecture",
-    "note": "b, r, u, i pointé, n, e ; non « boue » (transcription antérieure)."
+    "note": "b, r, u, i pointé, n, e."
    },
    {
     "ligne": 24,
@@ -22499,7 +22499,7 @@
     "ligne": 8,
     "lemme": "funebre",
     "type": "lecture",
-    "note": "funebre, sans s ni accent ; l'état antérieur lisait « funèbres »"
+    "note": "funebre, sans s ni accent"
    },
    {
     "ligne": 9,
@@ -22529,7 +22529,7 @@
     "ligne": 15,
     "lemme": "exilé",
     "type": "lecture",
-    "note": "exilé, sans s final ; l'état antérieur lisait « exilés »"
+    "note": "exilé, sans s final"
    },
    {
     "ligne": 15,
@@ -22553,7 +22553,7 @@
     "ligne": 18,
     "lemme": "11^{h}",
     "type": "lecture",
-    "note": "11 heures ; non « 9 h » (état antérieur)"
+    "note": "11 heures (deux traits verticaux nets)"
    },
    {
     "ligne": 19,
@@ -22749,13 +22749,13 @@
     "ligne": 3,
     "lemme": "course,",
     "type": "lecture",
-    "note": "« course, » suivi d'une virgule ; antérieurement « courses »"
+    "note": "« course, » au singulier, suivi d'une virgule"
    },
    {
     "ligne": 3,
     "lemme": "au chateau",
     "type": "lecture",
-    "note": "« au » ; antérieurement « vu »"
+    "note": "« au » (a initial ouvert)"
    },
    {
     "ligne": 4,
@@ -22952,7 +22952,7 @@
     "ligne": 25,
     "lemme": "au \\ill",
     "type": "lecture",
-    "note": "« au » sûr ; le mot suivant, au bord de la page, reste illisible ; « en Cte » de la lecture antérieure écarté"
+    "note": "« au » sûr ; le mot suivant, au bord de la page, reste illisible"
    },
    {
     "ligne": 26,
@@ -23265,7 +23265,7 @@
     "ligne": 9,
     "lemme": "\\inc{est}",
     "type": "lecture",
-    "note": "est (e, s montant, t barré) ; ext (extrêmement) possible ; transcription antérieure : extrt."
+    "note": "est (e, s montant, t barré) ; ext (extrêmement) possible."
    },
    {
     "ligne": 10,
@@ -23313,7 +23313,7 @@
     "ligne": 15,
     "lemme": "mervx",
     "type": "lecture",
-    "note": "merveilleux ; finale en x croisé (transcription antérieure : mervt)."
+    "note": "merveilleux ; finale en x croisé."
    },
    {
     "ligne": 15,
@@ -23555,7 +23555,7 @@
     "ligne": 4,
     "lemme": "tiédit l'air",
     "type": "lecture",
-    "note": "lecture nouvelle (anc. « Éclat clair ») ; tiédit clair possible"
+    "note": "tracé rapide ; tiédit clair possible"
    },
    {
     "ligne": 5,
@@ -23567,7 +23567,7 @@
     "ligne": 6,
     "lemme": "Purchase Board",
     "type": "lecture",
-    "note": "lecture nouvelle (anc. « Bureau Board »), même mot qu'à la l. 14"
+    "note": "même mot qu'à la l. 14"
    },
    {
     "ligne": 6,
@@ -23739,7 +23739,7 @@
     "ligne": 6,
     "lemme": "\\inc{aidé} \\inc{porter}",
     "type": "lecture",
-    "note": "Lecture nouvelle : « [m'a] aidé [à] porter [mes] sacs » ; aucun m visible ; antérieurement « m'a porté »."
+    "note": "« [m'a] aidé [à] porter [mes] sacs » ; aucun m visible."
    },
    {
     "ligne": 7,
@@ -23757,7 +23757,7 @@
     "ligne": 11,
     "lemme": "Beaucourt",
     "type": "lecture",
-    "note": "Lecture nouvelle : c et o après « Beau- » ; Beaucourt-sur-l'Hallue, entre Contay et Molliens ; antérieurement « Beaumont »."
+    "note": "c et o après « Beau- » (Beaucourt-sur-l'Hallue, entre Contay et Molliens)."
    },
    {
     "ligne": 12,
@@ -23775,13 +23775,13 @@
     "ligne": 13,
     "lemme": "que le Vauxhall",
     "type": "lecture",
-    "note": "« le » (l + e, sans panse d'a) ; antérieurement « la »."
+    "note": "« le » (l + e, sans panse d'a)."
    },
    {
     "ligne": 14,
     "lemme": "Jessie",
     "type": "lecture",
-    "note": "J puis deux hautes boucles (ss), i, e ; « Jellie » possible ; antérieurement « Jimmie »."
+    "note": "J puis deux hautes boucles (ss), i, e ; « Jellie » possible."
    },
    {
     "ligne": 17,
@@ -23853,7 +23853,7 @@
     "ligne": 9,
     "lemme": "\\inc{Avait}",
     "type": "lecture",
-    "note": "lecture retenue : A initial, minimes, t barré ; Ayant possible ; l'état antérieur lisait « Ont »"
+    "note": "lecture retenue : A initial, minimes, t barré ; Ayant possible"
    },
    {
     "ligne": 9,
@@ -24114,7 +24114,7 @@
     "ligne": 5,
     "lemme": "ql.",
     "type": "lecture",
-    "note": "q suivi d'un l bouclé ; « q. » dans la transcription antérieure"
+    "note": "q suivi d'un l bouclé"
    },
    {
     "ligne": 7,
@@ -24138,7 +24138,7 @@
     "ligne": 11,
     "lemme": "\\inc{à}",
     "type": "lecture",
-    "note": "a surmonté d'un long trait (accent) ; omis jusqu'ici ; d' moins probable"
+    "note": "a surmonté d'un long trait (accent) ; d' moins probable"
    },
    {
     "ligne": 12,
@@ -24174,7 +24174,7 @@
     "ligne": 17,
     "lemme": "25c.",
     "type": "lecture",
-    "note": "25 centimes ; 5 à haste descendante suivi de c ; « 2 f. » dans la transcription antérieure"
+    "note": "25 centimes ; 5 à haste descendante suivi de c"
    },
    {
     "ligne": 17,
@@ -24292,7 +24292,7 @@
     "ligne": 3,
     "lemme": "une chambre",
     "type": "lecture",
-    "note": "une, non « ma » (transcription antérieure)"
+    "note": "une (u, n, e liés)"
    },
    {
     "ligne": 3,
@@ -24423,7 +24423,7 @@
     "ligne": 9,
     "lemme": "billet",
     "type": "emprunt",
-    "note": "logement militaire chez l'habitant (cf. cliché 166, « billet 220 »)"
+    "note": "logement militaire chez l'habitant (cf. f. 83 r°, « billet 220 »)"
    },
    {
     "ligne": 9,
@@ -24534,7 +24534,7 @@
     "ligne": 5,
     "lemme": "\\inc{arrivé}",
     "type": "lecture",
-    "note": "lecture incertaine ; la transcription antérieure portait « traversé »"
+    "note": "lecture incertaine (« traversé » possible)"
    },
    {
     "ligne": 5,
@@ -24615,7 +24615,7 @@
     "note": "dans"
    }
   ],
-  "critique": "Encre violette homogène ; l'adverbe « presq » à la l.~16 est ajouté sous la ligne.",
+  "critique": "Encre violette homogène, d'un tracé régulier ; les deux entrées des 22 et 23 mars sont séparées par un filet, avec un court relevé de dépenses en pied.",
   "historique": "Monin, que Combes revoit « avec gd plaisir » et dont il note « sa Coy », n'est pas identifié ; c'est sans doute, comme lui, un interprète attaché à une compagnie britannique de passage. Ce même 26 mars, la 18th Division, que Combes a quittée le 2 novembre, embarque à Saleux pour un mois de repos dans la région d'Aire et d'Hazebrouck (JMO 7/Bedf, 26-27 mars 1917 ; Nichols 1922, p.~166). Le départ des troupes d'Hérissart à l'aube du 27 accompagne le glissement des états-majors vers l'est et le nord : le 27, le QG du II Corps quitte Senlis pour Pernes ; le 28, celui de la Fifth Army quitte Toutencourt, à 3 km, pour Albert (LLT). Les hôpitaux d'évacuation suivent : à Puchevillers, les 3rd et 44th CCS, présentes depuis 1916, s'en vont en mars et la 61st (South Midland) CCS n'y reste que jusqu'en mai (LLT ; CWGC). Les rues « transformées en cloaque » répondent aux routes « presque ruinées après la mi-mars » par le trafic et l'alternance du gel et du dégel (OH 1917-I, p.~151).\n",
   "sources": [
    "Bedfordshire Archives Service, War Diary, 7th (Service) Battalion Bedfordshire Regiment, mars 1917 (JMO 7/Bedf).",
@@ -24686,7 +24686,7 @@
     "ligne": 19,
     "lemme": "Toutencourt & Puchevillers",
     "type": "lecture",
-    "note": "esperluette omise par la transcription antérieure"
+    "note": "esperluette réduite entre les deux noms"
    },
    {
     "ligne": 20,
@@ -24736,7 +24736,7 @@
     "ligne": 5,
     "lemme": "course",
     "type": "lecture",
-    "note": "un seul s avant le délié final ; la transcription antérieure lisait courses"
+    "note": "un seul s avant le délié final"
    },
    {
     "ligne": 7,
@@ -24760,7 +24760,7 @@
     "ligne": 8,
     "lemme": "27 50",
     "type": "lecture",
-    "note": "27 (francs) 50, sans f : le trait haut est le drapeau du 5 ; la transcription antérieure lisait 27 f. 50"
+    "note": "27 (francs) 50, sans f : le trait haut est le drapeau du 5"
    },
    {
     "ligne": 12,
@@ -24793,7 +24793,7 @@
     "note": "mots biffés d'un trait horizontal, encore lisibles"
    }
   ],
-  "critique": "Encre violette homogène ; dans le compte du mess (l.~8), le quantième initial après « du » a été laissé en blanc ; à la l.~20, « et Raincheval » est biffé d'un trait horizontal.",
+  "critique": "Encre violette homogène ; dans le compte du mess (l.~8), le quantième initial après « du » a été laissé en blanc et n'a pas été complété.",
   "historique": "La neige des Rameaux et du 2 avril, une semaine avant Pâques (8 avril), est confirmée par l'histoire officielle : « une neige comme celle du début d'avril est rare en Picardie » ; le 2, la Fifth Army enlève sous ce temps Doignies, Louverval, Noreuil, Écoust, Croisilles et Hénin, avant-postes de la ligne Hindenburg (OH 1917-I, p.~159--161), et le QG du V Corps quitte Acheux pour Bihucourt (LLT). Belle-Église est le hameau d'Arquèves dont Combes fréquente la ferme (voir f.~85 v\\textsuperscript{o}). Le compte du mess, dont la date de départ est restée en blanc, court sans doute depuis le règlement du 9 mars avec le capitaine Williams (f.~82 r\\textsuperscript{o}) : 27 f 50 pour trois semaines environ, contre 79 f 10 pour janvier (f.~63 v\\textsuperscript{o}). Le notaire de Toutencourt est M\\textsuperscript{e} Jules Bienaimé, titulaire de l'étude de 1906 à 1933, d'une lignée de notaires établie au village depuis 1805 (AD Somme, Espel 2018, p.~3--4) ; la visite tient peut-être à un acte de vente de fourrage, comme le contrat de battage passé en janvier (f.~60 r\\textsuperscript{o}).\n",
   "sources": [
    "Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 159-161.",
@@ -24824,7 +24824,7 @@
     "ligne": 4,
     "lemme": "aller",
     "type": "lecture",
-    "note": "infinitif, sans accent ni s final ; lecture antérieure « allés »"
+    "note": "infinitif, sans accent ni s final"
    },
    {
     "ligne": 4,
@@ -24854,13 +24854,13 @@
     "ligne": 8,
     "lemme": "90 c",
     "type": "lecture",
-    "note": "9 à boucle fermée et haste ; lecture antérieure « 30 c. »"
+    "note": "9 à boucle fermée et haste"
    },
    {
     "ligne": 8,
     "lemme": "\\inc{10^{f}}",
     "type": "lecture",
-    "note": "10 net, signe suscrit en forme de d bouclé ; 10 f probable, 10 d (pence) possible ; lecture antérieure « 4 f. »"
+    "note": "10 net, signe suscrit en forme de d bouclé ; 10 f probable, 10 d (pence) possible"
    },
    {
     "ligne": 12,
@@ -25029,7 +25029,7 @@
     "ligne": 2,
     "lemme": "merveillt",
     "type": "abreviation",
-    "note": "merveilleusement ; lecture incertaine, « mervt » (transcription antérieure) ou « merveilt » possibles"
+    "note": "merveilleusement ; lecture incertaine, « mervt » ou « merveilt » possibles"
    },
    {
     "ligne": 3,
@@ -25089,7 +25089,7 @@
     "ligne": 11,
     "lemme": "mort",
     "type": "graphie",
-    "note": "pour « mortes » ; aucune finale formée après le t (« mortes » dans la transcription antérieure)"
+    "note": "pour « mortes » ; aucune finale formée après le t"
    },
    {
     "ligne": 13,
@@ -25101,7 +25101,7 @@
     "ligne": 15,
     "lemme": "rebondissant",
     "type": "lecture",
-    "note": "lecture nouvelle (a, deux jambages, t, sans point d'i) ; « rebondissait » antérieurement"
+    "note": "a, deux jambages, t, sans point d'i (« rebondissait » moins probable)"
    }
   ],
   "critique": "Encre violette ; « Beauquesne » (l.~7) est ajouté après coup d'une encre plus pâle, grise-brune, d'un module plus petit. Un blanc d'une ligne précède chacune des journées du 9 et du 10.",
@@ -25153,7 +25153,7 @@
     "ligne": 9,
     "lemme": "farine",
     "type": "lecture",
-    "note": "lecture incertaine (initiale haute à longue descente) ; autres lectures : pain, fécule ; « cacao » (lecture antérieure) peu compatible"
+    "note": "lecture incertaine (initiale haute à longue descente) ; autres lectures : pain, fécule"
    },
    {
     "ligne": 9,
@@ -25165,7 +25165,7 @@
     "ligne": 10,
     "lemme": "Cahiers",
     "type": "lecture",
-    "note": "lecture nouvelle ; antérieurement « Cartes »"
+    "note": "h médian à haute boucle et finale -iers (« Cartes » moins probable)"
    },
    {
     "ligne": 10,
@@ -25261,7 +25261,7 @@
     "ligne": 8,
     "lemme": "repos absolu",
     "type": "lecture",
-    "note": "lecture nouvelle (a-b-s-o-l-u distincts) ; la transcription antérieure portait « complet »"
+    "note": "a-b-s-o-l-u distincts"
    },
    {
     "ligne": 9,
@@ -25341,7 +25341,7 @@
     "ligne": 7,
     "lemme": "courses",
     "type": "lecture",
-    "note": "s final plongeant, lié au e ; la transcription antérieure portait déjà « courses »"
+    "note": "s final plongeant, lié au e"
    },
    {
     "ligne": 9,
@@ -25470,7 +25470,7 @@
     "ligne": 14,
     "lemme": "2 75 c",
     "type": "lecture",
-    "note": "2 francs 75 centimes ; aucun f entre 2 et 75 (lecture antérieure « 2 f. 75 c. »)"
+    "note": "2 francs 75 centimes ; aucun f entre 2 et 75"
    },
    {
     "ligne": 19,
@@ -25593,7 +25593,7 @@
     "ligne": 17,
     "lemme": "bleuâtre",
     "type": "lecture",
-    "note": "sans s final visible (transcription antérieure « bleuâtres »)"
+    "note": "sans s final visible"
    },
    {
     "ligne": 18,

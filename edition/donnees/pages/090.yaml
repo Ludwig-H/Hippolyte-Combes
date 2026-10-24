@@ -57,7 +57,7 @@ apparat:
 - ligne: 3
   lemme: a
   type: lecture
-  note: « a » net sur l'image ; on attend « eu » (l'état antérieur lisait eu)
+  note: « a » net sur le manuscrit ; on attend « eu »
 - ligne: 5
   lemme: Cap. Pant
   type: abreviation
@@ -101,7 +101,7 @@ apparat:
 - ligne: 13
   lemme: '5'
   type: lecture
-  note: chiffre omis par l'état antérieur (numéro du billet ?)
+  note: numéro du billet ?
 - ligne: 13
   lemme: '&'
   type: abreviation
@@ -109,7 +109,7 @@ apparat:
 - ligne: 14
   lemme: juché
   type: lecture
-  note: lecture nouvelle ; l'état antérieur laissait le verbe illisible
+  note: j, u, c, h, é discernables malgré le tracé serré
 - ligne: 14
   lemme: kit
   type: emprunt

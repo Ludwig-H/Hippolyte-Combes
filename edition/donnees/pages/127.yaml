@@ -99,7 +99,7 @@ apparat:
 - ligne: 19
   lemme: 3^{H} 1/2
   type: lecture
-  note: trois heures et demie ; lecture nouvelle, non « 3h s. »
+  note: trois heures et demie (fraction 1/2 après 3^{H})
 - ligne: 20
   lemme: mess
   type: emprunt

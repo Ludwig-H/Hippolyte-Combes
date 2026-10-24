@@ -41,11 +41,11 @@ apparat:
 - ligne: 2
   lemme: pluvx
   type: lecture
-  note: pluvieux, forme abrégée non assurée ; état antérieur pluvieux en toutes lettres
+  note: pluvieux, finale abrégée
 - ligne: 2
   lemme: Fine ondée qui dure peu
   type: lecture
-  note: singulier sur l'image ; état antérieur Fines ondées qui durent peu
+  note: singulier sur le manuscrit
 - ligne: 3
   lemme: voi
   type: graphie
@@ -105,7 +105,7 @@ apparat:
 - ligne: 14
   lemme: village, à l'horizon
   type: lecture
-  note: état antérieur villages s/ l'horizon
+  note: village au singulier, suivi d'une virgule et de « à l'horizon »
 - ligne: 17
   lemme: p. Remq
   type: lecture
@@ -121,7 +121,7 @@ apparat:
 - ligne: 21
   lemme: Venus
   type: lecture
-  note: s final en trait vertical, accordé avec Margte & moi ; état antérieur Venu
+  note: s final en trait vertical, accordé avec Margte & moi
 - ligne: 21
   lemme: P.P.
   type: abreviation
@@ -149,7 +149,7 @@ apparat:
 - ligne: 25
   lemme: cessé
   type: lecture
-  note: accent sur la finale (la pluie a cessé) ; état antérieur cesse
+  note: accent sur la finale (la pluie a cessé)
 - ligne: 26
   lemme: horizon nuageux
   type: disposition

@@ -42,7 +42,7 @@ apparat:
 - ligne: 5
   lemme: lgt
   type: lecture
-  note: l, g, t barré, mot repassé ; abréviation de « longtemps » ou, pour le sens, de « légèrement » (lecture antérieure « légèrt »)
+  note: l, g, t barré, mot repassé ; abréviation de « longtemps » ou, pour le sens, de « légèrement » (« légèrt » possible)
 - ligne: 7
   lemme: Sailly
   type: surcharge
@@ -54,7 +54,7 @@ apparat:
 - ligne: 8
   lemme: kilom.
   type: abreviation
-  note: kilomètres ; lecture antérieure « kilm. »
+  note: kilomètres (« kilm. » possible)
 - ligne: 9
   lemme: Boches
   type: lecture
@@ -66,7 +66,7 @@ apparat:
 - ligne: 14
   lemme: genl
   type: abreviation
-  note: général (lecture antérieure « gal »)
+  note: général (« gal » possible)
 - ligne: 15
   lemme: etc
   type: abreviation

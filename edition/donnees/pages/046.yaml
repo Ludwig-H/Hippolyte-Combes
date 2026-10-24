@@ -65,7 +65,7 @@ apparat:
 - ligne: 12
   lemme: 78.75 c
   type: lecture
-  note: lecture nouvelle ; la longue haste est celle du 5, non un f (et non « 78 f 75 c »)
+  note: la longue haste est celle du 5, non un f
 - ligne: 13
   lemme: ples
   type: abreviation

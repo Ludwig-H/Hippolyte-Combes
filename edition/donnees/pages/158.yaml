@@ -52,7 +52,7 @@ apparat:
 - ligne: 8
   lemme: à 1^{H}
   type: lecture
-  note: « à » (a ouvert et accent), absent de la transcription antérieure.
+  note: « à » (a ouvert et accent).
 - ligne: 8
   lemme: 1^{H} \fr{1}{2}
   type: abreviation
@@ -92,11 +92,11 @@ apparat:
 - ligne: 15
   lemme: à peu
   type: lecture
-  note: a et accent, non « 1 peu » (transcription antérieure).
+  note: a et accent (et non « 1 peu »).
 - ligne: 16
   lemme: près
   type: lecture
-  note: à peu près ; non « plus » (transcription antérieure).
+  note: à peu près.
 - ligne: 17
   lemme: d'1
   type: abreviation
@@ -132,7 +132,7 @@ apparat:
 - ligne: 22
   lemme: bruine
   type: lecture
-  note: b, r, u, i pointé, n, e ; non « boue » (transcription antérieure).
+  note: b, r, u, i pointé, n, e.
 - ligne: 24
   lemme: d'1
   type: abreviation

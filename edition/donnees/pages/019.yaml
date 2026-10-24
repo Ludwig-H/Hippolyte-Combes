@@ -48,7 +48,7 @@ apparat:
 - ligne: 10
   lemme: – enfin
   type: lecture
-  note: tiret d'attaque et e minuscule ; le trait pourrait aussi souligner « 14 » ; lecture antérieure « Enfin »
+  note: tiret d'attaque et e minuscule ; le trait pourrait aussi souligner « 14 »
 - ligne: 10
   lemme: 1^{H}
   type: abreviation
@@ -56,7 +56,7 @@ apparat:
 - ligne: 14
   lemme: l'air
   type: lecture
-  note: l bouclé devant « air », comme à la l. 11 ; lecture antérieure « air »
+  note: l bouclé devant « air », comme à la l. 11
 - ligne: 15
   lemme: s/
   type: abreviation

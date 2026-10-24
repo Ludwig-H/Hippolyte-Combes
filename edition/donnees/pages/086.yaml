@@ -45,7 +45,7 @@ apparat:
 - ligne: 3
   lemme: Plateaux
   type: lecture
-  note: P, l haut, a, t barré, finale -x ; l'état antérieur lisait « Plateau »
+  note: P, l haut, a, t barré, finale -x
 - ligne: 4
   lemme: absolt
   type: abreviation
@@ -77,7 +77,7 @@ apparat:
 - ligne: 11
   lemme: R.F.
   type: lecture
-  note: F à boucle de tête et barre médiane, sans doute Royal Fusiliers ; l'état antérieur proposait R.E. (Royal Engineers)
+  note: F à boucle de tête et barre médiane, sans doute Royal Fusiliers (R.E. moins probable)
 - ligne: 12
   lemme: Encore temps pluvieux —
   type: disposition

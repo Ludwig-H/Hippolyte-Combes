@@ -39,7 +39,7 @@ apparat:
 - ligne: 3
   lemme: 7 selles
   type: lecture
-  note: 7 à barre médiane, d'aspect + ; lecture de l'état antérieur maintenue
+  note: 7 à barre médiane, d'aspect +
 - ligne: 6
   lemme: \inc{Auj'd'hui}
   type: lecture
@@ -51,7 +51,7 @@ apparat:
 - ligne: 7
   lemme: \inc{Nombreuses}
   type: lecture
-  note: lecture nouvelle ; Nouvelles possible
+  note: lecture incertaine ; Nouvelles possible
 - ligne: 7
   lemme: \ill
   type: surcharge
@@ -71,7 +71,7 @@ apparat:
 - ligne: 11
   lemme: \inc{Carluvant}
   type: lecture
-  note: même nom en 118 et 146–148 ; Carlumont possible
+  note: même nom aux f. 59 r° et 73 r°–74 r° ; Carlumont possible
 - ligne: 11
   lemme: 75c
   type: abreviation

@@ -100,7 +100,7 @@ apparat:
 - ligne: 15
   lemme: \inc{Revenus}
   type: lecture
-  note: revenus, lecture antérieure maintenue ; Retourné possible
+  note: revenus ; Retourné possible
 - ligne: 15
   lemme: \inc{jau}
   type: abreviation

@@ -77,7 +77,7 @@ apparat:
 - ligne: 13
   lemme: \inc{Trefton}
   type: lecture
-  note: après le f, une haste montante (t) et non un c bas ; lecture antérieure Trefcon
+  note: après le f, une haste montante (t) et non un c bas (pour Trefcon)
 - ligne: 15
   lemme: cath^{le}
   type: abreviation
@@ -105,7 +105,7 @@ apparat:
 - ligne: 21
   lemme: 1^{f} \inc{75} c
   type: lecture
-  note: 1 franc 75 ; chiffres noyés dans un pâté, barre et diagonale du 7 visibles ; lecture antérieure 1 f 95
+  note: 1 franc 75 ; chiffres noyés dans un pâté, barre et diagonale du 7 visibles (1 f 95 moins probable)
 - ligne: 22
   lemme: 2^{f} 50
   type: abreviation

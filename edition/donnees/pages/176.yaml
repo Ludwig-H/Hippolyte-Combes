@@ -34,7 +34,7 @@ apparat:
 - ligne: 4
   lemme: aller
   type: lecture
-  note: infinitif, sans accent ni s final ; lecture antérieure « allés »
+  note: infinitif, sans accent ni s final
 - ligne: 4
   lemme: pr
   type: abreviation
@@ -54,11 +54,11 @@ apparat:
 - ligne: 8
   lemme: 90 c
   type: lecture
-  note: 9 à boucle fermée et haste ; lecture antérieure « 30 c. »
+  note: 9 à boucle fermée et haste
 - ligne: 8
   lemme: \inc{10^{f}}
   type: lecture
-  note: 10 net, signe suscrit en forme de d bouclé ; 10 f probable, 10 d (pence) possible ; lecture antérieure « 4 f. »
+  note: 10 net, signe suscrit en forme de d bouclé ; 10 f probable, 10 d (pence) possible
 - ligne: 12
   lemme: Ts
   type: abreviation

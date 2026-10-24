@@ -89,7 +89,7 @@ apparat:
 - ligne: 13
   lemme: plaine fertile, entrecoupée
   type: lecture
-  note: 'singulier : finales en e et délié, sans s ; l''état antérieur lit plaines fertiles, entrecoupées'
+  note: 'singulier : finales en e et délié, sans s'
 - ligne: 16
   lemme: Tip
   type: emprunt
@@ -121,7 +121,7 @@ apparat:
 - ligne: 21
   lemme: \inc{Terrier}
   type: lecture
-  note: 'T, e, r, lettre en croix, i, puis boucle et un seul jambage, comme la finale de fermier : Terrier ; possibles Texier, Terria ; l''état antérieur lit Terrien'
+  note: 'T, e, r, lettre en croix, i, puis boucle et un seul jambage, comme la finale de fermier : Terrier ; possibles Texier, Terria, Terrien'
 - ligne: 23
   lemme: '1'
   type: abreviation

@@ -51,7 +51,7 @@ apparat:
 - ligne: 9
   lemme: farine
   type: lecture
-  note: 'lecture incertaine (initiale haute à longue descente) ; autres lectures : pain, fécule ; « cacao » (lecture antérieure) peu compatible'
+  note: 'lecture incertaine (initiale haute à longue descente) ; autres lectures : pain, fécule'
 - ligne: 9
   lemme: 1^{f}
   type: disposition
@@ -59,7 +59,7 @@ apparat:
 - ligne: 10
   lemme: Cahiers
   type: lecture
-  note: lecture nouvelle ; antérieurement « Cartes »
+  note: h médian à haute boucle et finale -iers (« Cartes » moins probable)
 - ligne: 10
   lemme: geog.
   type: abreviation

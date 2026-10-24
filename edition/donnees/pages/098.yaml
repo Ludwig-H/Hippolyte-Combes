@@ -44,7 +44,7 @@ apparat:
 - ligne: 3
   lemme: pétri & sillons
   type: lecture
-  note: esperluette nette (petite boucle, haste plongeante) ; la lecture antérieure donnait de
+  note: esperluette nette (petite boucle, haste plongeante)
 - ligne: 4
   lemme: \add{lourds}
   type: ajout
@@ -92,7 +92,7 @@ apparat:
 - ligne: 15
   lemme: de x
   type: abreviation
-  note: 'x : nombre indéterminé, « de nombreux » (la lecture antérieure donnait nbx)'
+  note: 'x : nombre indéterminé (« de nombreux »)'
 - ligne: 16
   lemme: s/
   type: abreviation
@@ -136,7 +136,7 @@ apparat:
 - ligne: 22
   lemme: \inc{catéchismes}
   type: lecture
-  note: c, a, t, é, c, h, minimes, e, s long ; catéchumènes possible ; la lecture antérieure carillonne n'est pas portée par les traits
+  note: c, a, t, é, c, h, minimes, e, s long ; catéchumènes possible
 - ligne: 22
   lemme: \inc{carillon}
   type: lecture

@@ -33,7 +33,7 @@ apparat:
 - ligne: 2
   lemme: brillé
   type: lecture
-  note: pour « brille » ; accent net après le e final (transcription antérieure « brille »)
+  note: pour « brille » ; accent net après le e final
 - ligne: 2
   lemme: 1 peu
   type: abreviation
@@ -57,7 +57,7 @@ apparat:
 - ligne: 6
   lemme: tremblant
   type: lecture
-  note: a net avant -nt ; non « tremblent » (transcription antérieure)
+  note: a net avant -nt
 - ligne: 10
   lemme: mess-room
   type: emprunt

@@ -56,7 +56,7 @@ apparat:
 - ligne: 5
   lemme: offs
   type: lecture
-  note: s final en crochet après ff, sans point ; antérieurement « off. »
+  note: s final en crochet après ff, sans point
 - ligne: 8
   lemme: 6^{H} m.
   type: abreviation
@@ -84,7 +84,7 @@ apparat:
 - ligne: 12
   lemme: convoi
   type: lecture
-  note: sans s final ; antérieurement « convois »
+  note: sans s final
 - ligne: 12
   lemme: tte
   type: abreviation

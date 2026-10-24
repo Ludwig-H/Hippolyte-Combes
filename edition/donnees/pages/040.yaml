@@ -41,7 +41,7 @@ apparat:
 - ligne: 3
   lemme: rapproché
   type: lecture
-  note: au singulier, sans s final (lecture antérieure « rapprochés »)
+  note: au singulier, sans s final
 - ligne: 5
   lemme: 11^{H} m
   type: abreviation
@@ -65,7 +65,7 @@ apparat:
 - ligne: 11
   lemme: cote
   type: lecture
-  note: côte ; lecture antérieure « coteau »
+  note: côte, sans suffixe -au
 - ligne: 12
   lemme: b.
   type: abreviation

@@ -44,7 +44,7 @@ apparat:
 - ligne: 6
   lemme: brique
   type: lecture
-  note: sans -s final (« briques » lu antérieurement)
+  note: sans -s final
 - ligne: 7
   lemme: \inc{si}
   type: lecture

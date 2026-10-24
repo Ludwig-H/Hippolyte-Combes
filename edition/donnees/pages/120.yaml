@@ -75,7 +75,7 @@ apparat:
 - ligne: 12
   lemme: très \inc{f.}
   type: lecture
-  note: f à boucle de tête et long jambage, suivi d'un point ; mot abrégé non résolu ; s. possible ; lecture antérieure g.
+  note: f à boucle de tête et long jambage, suivi d'un point ; mot abrégé non résolu ; s. ou g. possibles
 - ligne: 13
   lemme: Hair cut
   type: emprunt
@@ -83,7 +83,7 @@ apparat:
 - ligne: 13
   lemme: \inc{15}c
   type: lecture
-  note: 15 centimes ; 5 à boucle haute comme dans 78^{f} 75 ; 75 possible ; lectures antérieures 50 c, 1 fr
+  note: 15 centimes ; 5 à boucle haute comme dans 78^{f} 75 ; 75 possible
 - ligne: 14
   lemme: Y.M.C.A
   type: abreviation
@@ -107,7 +107,7 @@ apparat:
 - ligne: 19
   lemme: batteuse a
   type: lecture
-  note: batteuse, et non battage ; a (pour à) suivi d'un long trait ; lecture antérieure av.
+  note: batteuse, et non battage ; a (pour à) suivi d'un long trait (av. possible)
 - ligne: 20
   lemme: Mme
   type: abreviation
@@ -115,7 +115,7 @@ apparat:
 - ligne: 20
   lemme: \inc{Capron}
   type: lecture
-  note: Capron, comme au cliché 115 ; après le p, jambages sous un point d'i ; Capin ou Copin possibles
+  note: Capron, comme au f. 57 v° ; après le p, jambages sous un point d'i ; Capin ou Copin possibles
 - ligne: 21
   lemme: Merv^{x}
   type: abreviation

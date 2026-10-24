@@ -70,7 +70,7 @@ apparat:
 - ligne: 8
   lemme: '&c'
   type: lecture
-  note: « &c » (et cetera), lecture incertaine ; on peut aussi lire « do » ; l'état antérieur donnait « etc. »
+  note: « &c » (et cetera), lecture incertaine ; on peut aussi lire « do » ou « etc. »
 - ligne: 9
   lemme: S^{te}
   type: abreviation
@@ -90,7 +90,7 @@ apparat:
 - ligne: 12
   lemme: pendantif
   type: lecture
-  note: « pendantif » (pour pendentif), a net après le d ; l'état antérieur lisait « pendentif »
+  note: « pendantif » (pour pendentif), a net après le d
 - ligne: 13
   lemme: free
   type: emprunt

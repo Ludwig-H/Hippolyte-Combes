@@ -43,7 +43,7 @@ apparat:
 - ligne: 2
   lemme: Auj'hui
   type: abreviation
-  note: aujourd'hui ; lecture nouvelle (antérieurement « Auj'd'hui »)
+  note: aujourd'hui (sans d médian)
 - ligne: 2
   lemme: + encore
   type: abreviation
@@ -67,7 +67,7 @@ apparat:
 - ligne: 9
   lemme: '28'
   type: lecture
-  note: 'second chiffre à deux boucles : 8 ; antérieurement 25'
+  note: 'second chiffre à deux boucles : 8 (25 moins probable)'
 - ligne: 9
   lemme: s/
   type: abreviation
@@ -95,7 +95,7 @@ apparat:
 - ligne: 14
   lemme: \inc{Durant}
   type: lecture
-  note: mot repassé à l'encre épaisse, traversé par le soulignement de la date ; D descendant et t barré final ; antérieurement « Toute »
+  note: mot repassé à l'encre épaisse, traversé par le soulignement de la date ; D descendant et t barré final (« Toute » moins probable)
 - ligne: 17
   lemme: \inc{\fr{1}{2}}
   type: lecture

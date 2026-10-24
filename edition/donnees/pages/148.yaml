@@ -51,7 +51,7 @@ apparat:
 - ligne: 7
   lemme: 15 c.
   type: lecture
-  note: 15 centimes, le 5 à longue haste comme à la ligne suivante ; antérieurement lu « 1 f. »
+  note: 15 centimes, le 5 à longue haste comme à la ligne suivante
 - ligne: 8
   lemme: Y.M.C.A
   type: abreviation
@@ -83,7 +83,7 @@ apparat:
 - ligne: 12
   lemme: et varia
   type: ajout
-  note: écrit plus petit sous « lunch », rattaché au poste de 5 f. ; antérieurement lu « et room »
+  note: écrit plus petit sous « lunch », rattaché au poste de 5 f.
 - ligne: 12
   lemme: varia
   type: emprunt

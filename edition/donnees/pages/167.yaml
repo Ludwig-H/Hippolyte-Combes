@@ -42,7 +42,7 @@ apparat:
 - ligne: 6
   lemme: \inc{aidé} \inc{porter}
   type: lecture
-  note: 'Lecture nouvelle : « [m''a] aidé [à] porter [mes] sacs » ; aucun m visible ; antérieurement « m''a porté ».'
+  note: '« [m''a] aidé [à] porter [mes] sacs » ; aucun m visible.'
 - ligne: 7
   lemme: 7^{h} m.
   type: abreviation
@@ -54,7 +54,7 @@ apparat:
 - ligne: 11
   lemme: Beaucourt
   type: lecture
-  note: 'Lecture nouvelle : c et o après « Beau- » ; Beaucourt-sur-l''Hallue, entre Contay et Molliens ; antérieurement « Beaumont ».'
+  note: 'c et o après « Beau- » (Beaucourt-sur-l''Hallue, entre Contay et Molliens).'
 - ligne: 12
   lemme: Wolsey
   type: lecture
@@ -66,11 +66,11 @@ apparat:
 - ligne: 13
   lemme: que le Vauxhall
   type: lecture
-  note: « le » (l + e, sans panse d'a) ; antérieurement « la ».
+  note: « le » (l + e, sans panse d'a).
 - ligne: 14
   lemme: Jessie
   type: lecture
-  note: J puis deux hautes boucles (ss), i, e ; « Jellie » possible ; antérieurement « Jimmie ».
+  note: J puis deux hautes boucles (ss), i, e ; « Jellie » possible.
 - ligne: 17
   lemme: Exp. F. Canteen
   type: abreviation

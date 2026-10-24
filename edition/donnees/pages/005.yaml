@@ -50,7 +50,7 @@ apparat:
 - ligne: 5
   lemme: 5^{H} 20
   type: lecture
-  note: 'chiffre des heures noyé d''encre, lu 5 (6 possible) ; 20 net, sans fraction (transcription antérieure : 5 h 1/2)'
+  note: 'chiffre des heures noyé d''encre, lu 5 (6 possible) ; 20 net, sans fraction'
 - ligne: 6
   lemme: mouv^{t}
   type: abreviation
@@ -86,7 +86,7 @@ apparat:
 - ligne: 18
   lemme: \inc{enfermé}
   type: lecture
-  note: 'e, n, f (ou ſ) à longue haste, e, r et m réduits, é ; autre lecture : enserré ; suffoqué (transcription antérieure) exclu : ni ff ni q'
+  note: 'e, n, f (ou ſ) à longue haste, e, r et m réduits, é ; autre lecture : enserré'
 - ligne: 20
   lemme: M^{me}
   type: abreviation
@@ -94,7 +94,7 @@ apparat:
 - ligne: 20
   lemme: \inc{Donse}
   type: lecture
-  note: 'D, o, n ou u, puis une lettre haute qui monte au-dessus du filet (ſ plutôt que z, qui ne monte pas), e ; autres lectures : Douse, Donze (transcription antérieure)'
+  note: 'D, o, n ou u, puis une lettre haute qui monte au-dessus du filet (ſ plutôt que z, qui ne monte pas), e ; autres lectures : Douse, Donze'
 - ligne: 20
   lemme: Lind
   type: graphie

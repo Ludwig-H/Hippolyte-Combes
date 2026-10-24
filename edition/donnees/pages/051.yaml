@@ -40,7 +40,7 @@ apparat:
 - ligne: 7
   lemme: Gzaincourt
   type: lecture
-  note: 'Gézaincourt ; aucun e visible après le G empâté (état antérieur : Gézaincourt)'
+  note: 'Gézaincourt ; aucun e visible après le G empâté'
 - ligne: 7
   lemme: 4^{H}\fr{1}{2}
   type: abreviation
@@ -52,7 +52,7 @@ apparat:
 - ligne: 8
   lemme: ds train
   type: abreviation
-  note: 'dans [le] train ; sans article (état antérieur : ds le train)'
+  note: 'dans [le] train ; sans article'
 - ligne: 9
   lemme: 8^{H} s
   type: abreviation
@@ -96,7 +96,7 @@ apparat:
 - ligne: 17
   lemme: (en route)
   type: lecture
-  note: lecture nouvelle ; état antérieur « (en retard [?]) »
+  note: entre parenthèses ; « (en retard) » moins probable
 - ligne: 18
   lemme: tte
   type: abreviation

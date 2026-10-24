@@ -90,7 +90,7 @@ apparat:
 - ligne: 14
   lemme: de côté
   type: lecture
-  note: d et e, sans apostrophe ni 1 (l'état antérieur lisait d'1 côté)
+  note: d et e, sans apostrophe ni 1
 - ligne: 15
   lemme: Tjours
   type: abreviation
@@ -110,7 +110,7 @@ apparat:
 - ligne: 21
   lemme: ( 1 cap.
   type: lecture
-  note: 'parenthèse ouvrante, et fermante après vain : traits fins et hauts, non les tirets de l''état antérieur'
+  note: 'parenthèse ouvrante, et fermante après vain : traits fins et hauts'
 - ligne: 21
   lemme: 1 cap.
   type: abreviation

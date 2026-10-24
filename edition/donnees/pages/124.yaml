@@ -52,7 +52,7 @@ apparat:
 - ligne: 9
   lemme: couverte
   type: lecture
-  note: finale en e ; « couverts » possible (lecture antérieure).
+  note: finale en e ; « couverts » possible.
 - ligne: 9
   lemme: g^{de}
   type: abreviation
@@ -68,7 +68,7 @@ apparat:
 - ligne: 11
   lemme: 35 c
   type: lecture
-  note: 5 à longue haste oblique, sans ovale de 0 ; lecture antérieure « 30 c ».
+  note: 5 à longue haste oblique, sans ovale de 0.
 - ligne: 12
   lemme: Merc
   type: abreviation
@@ -108,7 +108,7 @@ apparat:
 - ligne: 20
   lemme: notam
   type: abreviation
-  note: notamment (suspension prolongée d'un délié ; lecture antérieure « notamt »)
+  note: notamment (suspension prolongée d'un délié ; « notamt » possible)
 - ligne: 20
   lemme: \inc{un}
   type: lecture

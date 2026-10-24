@@ -68,7 +68,7 @@ apparat:
 - ligne: 6
   lemme: \inc{1}
   type: lecture
-  note: 1 (un), signe bref avant Lt, omis jusqu'ici ; autre lecture possible le
+  note: 1 (un), signe bref avant Lt ; autre lecture possible le
 - ligne: 6
   lemme: Lt
   type: abreviation
@@ -112,7 +112,7 @@ apparat:
 - ligne: 17
   lemme: Dyssenterie
   type: lecture
-  note: deux s montants après le y ; on lisait Dysenterie
+  note: deux s montants après le y
 - ligne: 17
   lemme: tte
   type: abreviation

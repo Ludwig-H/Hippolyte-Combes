@@ -46,7 +46,7 @@ apparat:
 - ligne: 8
   lemme: '&'
   type: lecture
-  note: esperluette (et) ; « et » dans la transcription antérieure
+  note: esperluette (et)
 - ligne: 9
   lemme: S^{te} Marie
   type: abreviation
@@ -70,7 +70,7 @@ apparat:
 - ligne: 19
   lemme: par
   type: lecture
-  note: en toutes lettres ; « p. » dans la transcription antérieure
+  note: en toutes lettres
 - ligne: 20
   lemme: 9^{H} s.
   type: abreviation

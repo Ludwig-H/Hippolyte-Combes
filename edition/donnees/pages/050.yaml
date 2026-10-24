@@ -49,7 +49,7 @@ apparat:
 - ligne: 8
   lemme: avec
   type: lecture
-  note: forme pleine (a, v, e et délié final) ; lu antérieurement « av. »
+  note: forme pleine (a, v, e et délié final)
 - ligne: 8
   lemme: Lt
   type: abreviation
@@ -85,7 +85,7 @@ apparat:
 - ligne: 13
   lemme: à Office
   type: lecture
-  note: O majuscule, sans article ni apostrophe ; lu antérieurement « à l'office »
+  note: O majuscule, sans article ni apostrophe
 - ligne: 13
   lemme: R.T.O.
   type: abreviation

@@ -28,7 +28,7 @@ apparat:
 - ligne: 1
   lemme: Mt &
   type: lecture
-  note: aucun e distinct avant l'esperluette ; lecture antérieure Mte, possible si l'e est fondu dans la boucle
+  note: aucun e distinct avant l'esperluette ; Mte possible si l'e est fondu dans la boucle
 - ligne: 1
   lemme: Mer. 4
   type: abreviation
@@ -76,7 +76,7 @@ apparat:
 - ligne: 10
   lemme: 11 75
   type: lecture
-  note: 11 francs 75 ; aucun f, le crochet est la tête du 7 et le 5 est à longue haste (lecture antérieure 11 f 75)
+  note: 11 francs 75 ; aucun f, le crochet est la tête du 7 et le 5 est à longue haste
 - ligne: 11
   lemme: 10c
   type: abreviation

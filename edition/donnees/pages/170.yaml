@@ -48,7 +48,7 @@ apparat:
 - ligne: 5
   lemme: ql.
   type: lecture
-  note: q suivi d'un l bouclé ; « q. » dans la transcription antérieure
+  note: q suivi d'un l bouclé
 - ligne: 7
   lemme: Lt
   type: abreviation
@@ -64,7 +64,7 @@ apparat:
 - ligne: 11
   lemme: \inc{à}
   type: lecture
-  note: a surmonté d'un long trait (accent) ; omis jusqu'ici ; d' moins probable
+  note: a surmonté d'un long trait (accent) ; d' moins probable
 - ligne: 12
   lemme: l'horizon
   type: autre
@@ -88,7 +88,7 @@ apparat:
 - ligne: 17
   lemme: 25c.
   type: lecture
-  note: 25 centimes ; 5 à haste descendante suivi de c ; « 2 f. » dans la transcription antérieure
+  note: 25 centimes ; 5 à haste descendante suivi de c
 - ligne: 17
   lemme: Washing
   type: emprunt

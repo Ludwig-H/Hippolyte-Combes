@@ -91,7 +91,7 @@ apparat:
 - ligne: 14
   lemme: '70'
   type: lecture
-  note: 70 (7 barré au milieu), sans f ; non 40 f, lecture antérieure
+  note: 70 (7 barré au milieu), sans f
 - ligne: 15
   lemme: Tin of black
   type: emprunt
@@ -123,7 +123,7 @@ apparat:
 - ligne: 21
   lemme: \add{tout} \inc{Mess} \add{\inc{large}}
   type: lecture
-  note: fin de ligne serrée, « tout » au-dessus, « large » au-dessous ; lecture douteuse (Miss ?) ; l'état antérieur lisait « tout jeune, mince »
+  note: fin de ligne serrée, « tout » au-dessus, « large » au-dessous ; lecture douteuse (Miss ?)
 - ligne: 22
   lemme: Lt
   type: abreviation
@@ -135,7 +135,7 @@ apparat:
 - ligne: 25
   lemme: y
   type: lecture
-  note: y (« y vu »), non &, lecture antérieure
+  note: y (« y vu »), haste descendante bouclée
 - ligne: 26
   lemme: Cap. H.
   type: abreviation

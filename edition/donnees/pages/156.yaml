@@ -39,7 +39,7 @@ apparat:
 - ligne: 3
   lemme: de + en doux
   type: lecture
-  note: un seul + (de plus en plus doux) ; l'état antérieur lisait « de + en + doux »
+  note: un seul + (pour « de + en + doux »)
 - ligne: 5
   lemme: correspce
   type: abreviation
@@ -51,7 +51,7 @@ apparat:
 - ligne: 9
   lemme: nuages
   type: lecture
-  note: finale en s montant après -age, sans -ux ; l'état antérieur lisait « nuageux »
+  note: finale en s montant après -age, sans -ux
 - ligne: 13
   lemme: ds
   type: abreviation
@@ -59,7 +59,7 @@ apparat:
 - ligne: 14
   lemme: tempérre
   type: abreviation
-  note: température (l'état antérieur lisait « Tempér. »)
+  note: température (finale -re suscrite)
 - ligne: 14
   lemme: ds
   type: abreviation

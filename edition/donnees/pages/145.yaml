@@ -54,7 +54,7 @@ apparat:
 - ligne: 12
   lemme: 2^{e}
   type: lecture
-  note: 'lecture nouvelle : 2 bouclé et e suscrit ; l''état antérieur lisait « 1re »'
+  note: '2 bouclé et e suscrit'
 - ligne: 12
   lemme: cl.
   type: abreviation
@@ -70,7 +70,7 @@ apparat:
 - ligne: 13
   lemme: à
   type: lecture
-  note: 'lecture incertaine : a sous un long trait ; omis par l''état antérieur'
+  note: 'lecture incertaine : a sous un long trait'
 - ligne: 16
   lemme: varia
   type: emprunt

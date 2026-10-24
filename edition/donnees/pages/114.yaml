@@ -57,7 +57,7 @@ apparat:
 - ligne: 5
   lemme: \inc{?!}
   type: lecture
-  note: 'lecture nouvelle : après le « ? », crochet en ʌ et trait droit hauts d''une ligne, leurs points sur la ligne de base ; autre lecture : « ni »'
+  note: 'après le « ? », crochet en ʌ et trait droit hauts d''une ligne, leurs points sur la ligne de base ; autre lecture : « ni »'
 - ligne: 6
   lemme: Margte
   type: abreviation
@@ -97,7 +97,7 @@ apparat:
 - ligne: 16
   lemme: comp^{t}
   type: lecture
-  note: 'lecture nouvelle (état antérieur : compl.) : t surélevé lié au p, sans l ni point'
+  note: 't surélevé lié au p, sans l ni point (compl. moins probable)'
 - ligne: 18
   lemme: 9^{H} s.
   type: abreviation

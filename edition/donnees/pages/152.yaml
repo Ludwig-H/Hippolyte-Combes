@@ -70,7 +70,7 @@ apparat:
 - ligne: 19
   lemme: '45'
   type: lecture
-  note: 'lecture nouvelle : 45 (centimes), non 75 c ; le trait oblique devant le 4 appartient à « Papeterie »'
+  note: '45 (centimes) ; le trait oblique devant le 4 appartient à « Papeterie »'
 - ligne: 20
   lemme: 60c
   type: abreviation

@@ -79,7 +79,7 @@ apparat:
 - ligne: 9
   lemme: \inc{est}
   type: lecture
-  note: 'est (e, s montant, t barré) ; ext (extrêmement) possible ; transcription antérieure : extrt.'
+  note: 'est (e, s montant, t barré) ; ext (extrêmement) possible.'
 - ligne: 10
   lemme: fr^{se}
   type: abreviation
@@ -111,7 +111,7 @@ apparat:
 - ligne: 15
   lemme: mervx
   type: lecture
-  note: 'merveilleux ; finale en x croisé (transcription antérieure : mervt).'
+  note: 'merveilleux ; finale en x croisé.'
 - ligne: 15
   lemme: qq
   type: abreviation

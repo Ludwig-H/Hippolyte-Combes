@@ -100,7 +100,7 @@ apparat:
 - ligne: 12
   lemme: ds
   type: lecture
-  note: dans ; d en ∂ puis s plongeant, sans accent ; lecture antérieure « à »
+  note: dans ; d en ∂ puis s plongeant, sans accent
 - ligne: 12
   lemme: appartt
   type: abreviation
@@ -136,7 +136,7 @@ apparat:
 - ligne: 19
   lemme: Bonny
   type: lecture
-  note: prénom ou diminutif douteux (B, o, minimes, y à longue descente) ; lecture antérieure « Bne Maman », exclue
+  note: prénom ou diminutif douteux (B, o, minimes, y à longue descente)
 - ligne: 20
   lemme: '1.25'
   type: compte

@@ -50,7 +50,7 @@ apparat:
 - ligne: 8
   lemme: et.
   type: lecture
-  note: e, t barré et point nets, omis par la transcription antérieure ; sens obscur
+  note: e, t barré et point nets ; sens obscur
 - ligne: 8
   lemme: av
   type: abreviation
@@ -110,7 +110,7 @@ apparat:
 - ligne: 19
   lemme: '75'
   type: lecture
-  note: chiffre à barre de tête descendant sous la ligne (7), puis 5 ; 25 possible, lu par la transcription antérieure
+  note: chiffre à barre de tête descendant sous la ligne (7), puis 5 ; 25 possible
 - ligne: 20
   lemme: \fr{1}{2} beurre
   type: lecture

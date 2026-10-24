@@ -62,7 +62,7 @@ apparat:
 - ligne: 6
   lemme: \fr{1}{2} jour
   type: lecture
-  note: demi-jour, c'est-à-dire midi ; demi empilé, que l'état antérieur hésitait à lire « Le »
+  note: demi-jour, c'est-à-dire midi ; fraction 1/2 empilée
 - ligne: 7
   lemme: pl.
   type: abreviation
@@ -94,7 +94,7 @@ apparat:
 - ligne: 14
   lemme: chz
   type: abreviation
-  note: chez ; aucun article ensuite (l'état antérieur lisait « chez le »)
+  note: chez ; aucun article ensuite
 - ligne: 17
   lemme: church service
   type: emprunt

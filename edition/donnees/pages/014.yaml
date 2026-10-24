@@ -65,7 +65,7 @@ apparat:
 - ligne: 9
   lemme: shifté
   type: emprunt
-  note: changé de cantonnement (angl. to shift) ; sans auxiliaire, contre l'état antérieur « a shifté »
+  note: changé de cantonnement (angl. to shift) ; sans auxiliaire
 - ligne: 9
   lemme: 9^{H}
   type: abreviation
@@ -77,7 +77,7 @@ apparat:
 - ligne: 10
   lemme: \inc{Trouvée}
   type: lecture
-  note: lecture probable, mot illisible dans l'état antérieur ; aussi Trouvé ; « à » écrit sous le mot
+  note: lecture probable ; aussi Trouvé ; « à » écrit sous le mot
 - ligne: 12
   lemme: Postoffice
   type: emprunt

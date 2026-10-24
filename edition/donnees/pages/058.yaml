@@ -59,7 +59,7 @@ apparat:
 - ligne: 4
   lemme: choses
   type: lecture
-  note: lecture nouvelle ; et non « livres »
+  note: c, h, o, s, e, s nets
 - ligne: 5
   lemme: '&'
   type: abreviation
@@ -107,7 +107,7 @@ apparat:
 - ligne: 13
   lemme: 9^{H} 30
   type: lecture
-  note: 9 heures 30 ; lecture nouvelle, et non « 7 H 30 »
+  note: 9 heures 30 (boucle du 9 fermée en tête)
 - ligne: 13
   lemme: av
   type: abreviation
@@ -119,7 +119,7 @@ apparat:
 - ligne: 14
   lemme: 80c
   type: lecture
-  note: 80 centimes ; lecture nouvelle, et non « 30 c »
+  note: 80 centimes (8 à double boucle)
 - ligne: 15
   lemme: Sweets
   type: emprunt

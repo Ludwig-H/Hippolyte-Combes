@@ -33,11 +33,11 @@ apparat:
 - ligne: 2
   lemme: d'1
   type: lecture
-  note: lecture nouvelle (1 à trait d'attaque) ; on lisait « de = »
+  note: 1 à trait d'attaque après d'
 - ligne: 3
   lemme: pareille
   type: lecture
-  note: lecture nouvelle ; on lisait « qu'hier »
+  note: p, a, r, e, i, ll, e nets
 - ligne: 4
   lemme: ds
   type: abreviation

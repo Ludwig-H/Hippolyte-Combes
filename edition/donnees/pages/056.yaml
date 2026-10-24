@@ -64,7 +64,7 @@ apparat:
 - ligne: 9
   lemme: Après-\inc{repas}
   type: lecture
-  note: « rep » lisible, fin du mot sous un pâté ; antérieurement « Après-midi »
+  note: « rep » lisible, fin du mot sous un pâté
 - ligne: 11
   lemme: epanchts
   type: abreviation
@@ -92,7 +92,7 @@ apparat:
 - ligne: 18
   lemme: \inc{rue} Alsace
   type: lecture
-  note: 'rue (d''Alsace-Lorraine) : jambages sans hampe ; antérieurement « pl. »'
+  note: 'rue (d''Alsace-Lorraine) : jambages sans hampe'
 - ligne: 19
   lemme: 20c
   type: abreviation
@@ -112,7 +112,7 @@ apparat:
 - ligne: 21
   lemme: 2 \inc{75}
   type: lecture
-  note: 2 f 75 (francs) probable ; le f monétaire n'est pas distinct ; antérieurement « 2 f 75 »
+  note: 2 f 75 (francs) probable ; le f monétaire n'est pas distinct
 - ligne: 22
   lemme: 25c + 55c
   type: lecture

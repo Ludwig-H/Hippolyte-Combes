@@ -35,11 +35,11 @@ apparat:
 - ligne: 3
   lemme: course,
   type: lecture
-  note: « course, » suivi d'une virgule ; antérieurement « courses »
+  note: « course, » au singulier, suivi d'une virgule
 - ligne: 3
   lemme: au chateau
   type: lecture
-  note: « au » ; antérieurement « vu »
+  note: « au » (a initial ouvert)
 - ligne: 4
   lemme: \inc{lg}
   type: abreviation

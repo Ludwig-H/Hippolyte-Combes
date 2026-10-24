@@ -53,7 +53,7 @@ apparat:
 - ligne: 4
   lemme: \inc{Auriol}
   type: lecture
-  note: lecture de l'état antérieur, conservée sous réserve ; « Auriole » possible
+  note: lecture incertaine ; « Auriole » possible
 - ligne: 5
   lemme: Margte
   type: abreviation
@@ -69,7 +69,7 @@ apparat:
 - ligne: 7
   lemme: accompagnés
   type: lecture
-  note: s final réduit à un trait vertical après l'é ; « accompagné » selon l'état antérieur
+  note: s final réduit à un trait vertical après l'é (« accompagné » possible)
 - ligne: 8
   lemme: midi 30
   type: lecture

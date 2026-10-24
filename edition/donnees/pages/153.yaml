@@ -40,7 +40,7 @@ apparat:
 - ligne: 4
   lemme: \inc{entiert}
   type: abreviation
-  note: entièrement (lecture incertaine) ; « en détail », lu jusqu'ici, ne s'accorde pas aux traits
+  note: entièrement (lecture incertaine)
 - ligne: 7
   lemme: ds
   type: abreviation
@@ -72,7 +72,7 @@ apparat:
 - ligne: 17
   lemme: Croute
   type: lecture
-  note: singulier sur l'image ; Croûtes lu jusqu'ici
+  note: singulier sur le manuscrit
 - ligne: 19
   lemme: 1 peu
   type: abreviation

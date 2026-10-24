@@ -37,7 +37,7 @@ apparat:
 - ligne: 4
   lemme: 1^{ère}
   type: lecture
-  note: Finale ère suscrite surmontée de son accent ; la transcription antérieure portait « 1re ».
+  note: Finale ère suscrite surmontée de son accent.
 - ligne: 5
   lemme: 5^{h}20
   type: abreviation
@@ -105,7 +105,7 @@ apparat:
 - ligne: 15
   lemme: av
   type: lecture
-  note: Le mot s'arrête au v, suivi d'un long délié ; la transcription antérieure portait « avec ».
+  note: Le mot s'arrête au v, suivi d'un long délié (pour « avec »).
 - ligne: 19
   lemme: 3^{H} 45
   type: abreviation
@@ -116,7 +116,7 @@ apparat:
   note: 4 heures 20
 critique: Un interligne un peu plus large sépare la nuit à Saint-Flour du départ du matin.
 historique: |
-  De Saint-Flour, Combes ne repasse pas par Neussargues, comme l'a écrit une notice antérieure : il gagne directement Brioude (Haute-Loire) par la ligne de la Margeride (Saint-Flour – Beaumont-Lauriat – Brioude), concédée au P.L.M. en 1905 et ouverte en juin 1910, itinéraire que le Baedeker indique pour aller de Clermont à Béziers (Baedeker 1914, p.~282 ; Inventaire général Auvergne-Rhône-Alpes). À Brioude, sur la ligne de Nîmes à Clermont, il prend l'express de Paris par la ligne du Bourbonnais : Clermont-Ferrand, Riom, Gannat, Saint-Germain-des-Fossés, Nevers (Baedeker 1914, p.~216-217), puis Gien et Montargis (Loiret) ; il dépense 60~c au buffet de Brioude pendant l'heure de correspondance (f.~72~v\textsuperscript{o}). La nuit « extt froide » et les « pieds gelés » répondent aux minima de cette vague de froid : −18,5~°C à Clermont-Ferrand le 30 janvier, −15,4~°C à Paris le 4 février (Barbé 1917, p.~182). Les « permissionnaires » sont sans doute des soldats regagnant le front, comme lui, au terme d'une permission.
+  De Saint-Flour, Combes ne repasse pas par Neussargues : il gagne directement Brioude (Haute-Loire) par la ligne de la Margeride (Saint-Flour – Beaumont-Lauriat – Brioude), concédée au P.L.M. en 1905 et ouverte en juin 1910, itinéraire que le Baedeker indique pour aller de Clermont à Béziers (Baedeker 1914, p.~282 ; Inventaire général Auvergne-Rhône-Alpes). À Brioude, sur la ligne de Nîmes à Clermont, il prend l'express de Paris par la ligne du Bourbonnais : Clermont-Ferrand, Riom, Gannat, Saint-Germain-des-Fossés, Nevers (Baedeker 1914, p.~216-217), puis Gien et Montargis (Loiret) ; il dépense 60~c au buffet de Brioude pendant l'heure de correspondance (f.~72~v\textsuperscript{o}). La nuit « extt froide » et les « pieds gelés » répondent aux minima de cette vague de froid : −18,5~°C à Clermont-Ferrand le 30 janvier, −15,4~°C à Paris le 4 février (Barbé 1917, p.~182). Les « permissionnaires » sont sans doute des soldats regagnant le front, comme lui, au terme d'une permission.
 sources:
 - Baedeker, K., Southern France including Corsica. Handbook for Travellers, 6e éd., Leipzig, K. Baedeker, 1914, p. 216-217, 282.
 - Inventaire général du patrimoine culturel, Région Auvergne-Rhône-Alpes, dossier « Ligne Brioude – Saint-Flour » (patrimoine.auvergnerhonealpes.fr).

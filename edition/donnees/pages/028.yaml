@@ -43,7 +43,7 @@ apparat:
 - ligne: 3
   lemme: \inc{jouée}
   type: lecture
-  note: jouée (accordé à musique) ; joué (lecture antérieure) possible
+  note: jouée (accordé à musique) ; joué possible
 - ligne: 3
   lemme: tommies
   type: emprunt
@@ -51,7 +51,7 @@ apparat:
 - ligne: 4
   lemme: d'\inc{harmonique}
   type: lecture
-  note: harmonique (pour harmonica ?) ; lettre descendante (q) avant la finale ; harmonica (lecture antérieure) possible
+  note: harmonique (pour harmonica ?) ; lettre descendante (q) avant la finale ; harmonica possible
 - ligne: 4
   lemme: '&'
   type: abreviation
@@ -63,7 +63,7 @@ apparat:
 - ligne: 6
   lemme: mobilisé
   type: lecture
-  note: lecture nouvelle (groupe jusqu'ici non lu)
+  note: tracé rapide en fin de groupe
 - ligne: 7
   lemme: \inc{p.}
   type: lecture
@@ -87,7 +87,7 @@ apparat:
 - ligne: 11
   lemme: ns
   type: abreviation
-  note: nous ; me (lecture antérieure) écarté
+  note: nous (n et s liés)
 - ligne: 11
   lemme: delicieus^{t}
   type: abreviation
@@ -95,7 +95,7 @@ apparat:
 - ligne: 12
   lemme: brise
   type: lecture
-  note: brise, comme l. 10 ; bise (lecture antérieure) possible
+  note: brise, comme l. 10 ; bise possible
 - ligne: 14
   lemme: j-à
   type: abreviation
@@ -135,7 +135,7 @@ apparat:
 - ligne: 21
   lemme: \inc{1}
   type: lecture
-  note: 1 (franc) ; aucun f distinct ; 1 f (lecture antérieure)
+  note: 1 (franc) ; aucun f distinct
 - ligne: 22
   lemme: Food
   type: emprunt

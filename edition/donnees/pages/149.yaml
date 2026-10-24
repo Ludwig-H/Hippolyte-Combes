@@ -41,7 +41,7 @@ apparat:
 - ligne: 10
   lemme: \inc{2 h.}
   type: lecture
-  note: deux heures ; chiffre bouclé et h à longue haste, lecture probable ; l'édition antérieure hésitait avec « 45 m »
+  note: deux heures ; chiffre bouclé et h à longue haste, lecture probable (« 45 m » moins probable)
 - ligne: 11
   lemme: ds
   type: abreviation
@@ -61,7 +61,7 @@ apparat:
 - ligne: 14
   lemme: couture
   type: lecture
-  note: c-o initial et t barré ; l'édition antérieure lisait « lecture »
+  note: c-o initial et t barré
 - ligne: 15
   lemme: Ven.
   type: abreviation

@@ -55,7 +55,7 @@ apparat:
 - ligne: 8
   lemme: funebre
   type: lecture
-  note: funebre, sans s ni accent ; l'état antérieur lisait « funèbres »
+  note: funebre, sans s ni accent
 - ligne: 9
   lemme: qq
   type: abreviation
@@ -75,7 +75,7 @@ apparat:
 - ligne: 15
   lemme: exilé
   type: lecture
-  note: exilé, sans s final ; l'état antérieur lisait « exilés »
+  note: exilé, sans s final
 - ligne: 15
   lemme: absolt
   type: abreviation
@@ -91,7 +91,7 @@ apparat:
 - ligne: 18
   lemme: 11^{h}
   type: lecture
-  note: 11 heures ; non « 9 h » (état antérieur)
+  note: 11 heures (deux traits verticaux nets)
 - ligne: 19
   lemme: 6^{h}
   type: abreviation
