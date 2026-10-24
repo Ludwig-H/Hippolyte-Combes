@@ -60,7 +60,7 @@
     "ligne": 3,
     "lemme": "Toute",
     "type": "lecture",
-    "note": "T à crochet de tête et haste plongeante, comme dans Toujours (l. 4) ; on a lu aussi Courte"
+    "note": "T à crochet de tête et haste plongeante, comme dans Toujours (l. 4)"
    },
    {
     "ligne": 3,
@@ -159,7 +159,7 @@
     "note": "75 centimes"
    }
   ],
-  "critique": "Première page écrite du carnet, à l'encre violette ; la fin de la ligne « mess de mes off. » est d'une encre plus pâle, les comptes, sous le filet, d'un violet plus foncé. Le bord droit du feuillet est hors champ : la fin de « remarqué » et le montant payé à Mme Backer ne peuvent être contrôlés.",
+  "critique": "Première page écrite du carnet, à l'encre violette ; la fin de la ligne « mess de mes off. » est d'une encre plus pâle, les comptes, sous le filet, d'un violet plus foncé. Le bord droit du feuillet est légèrement coupé par le cadrage.",
   "historique": "« Marg\\textsuperscript{te} » est Marguerite Calmels (Millau, 1892-1974), fille du docteur Gabriel Calmels (acte de naissance ; INSEE), qu'Hippolyte Combes épousera à Millau le 25 octobre 1917 (menu du mariage). Sercus est à 2,7 km de Lynde, où Hippolyte Combes loge sans doute (voir f. 2 v\\textsuperscript{o}) ; l'« église très curieuse » serait Saint-Érasme, église-halle (\\textit{hallekerque}) du XVI\\textsuperscript{e} siècle sur soubassements du XII\\textsuperscript{e}, au clocher classé en 1913 (Mérimée PA00107816). Les « 2 rangs de statues » visités l'après-midi sont vraisemblablement le jubé du XV\\textsuperscript{e} siècle de Saint-Vaast de Lynde, reporté en 1695 au fond de la nef, « sous les orgues » (Palissy PM59000995). Les « 36 off. » sont très probablement ceux du 11th Royal Fusiliers, de la 54th Brigade (Nichols 1922, p. 109), au repos autour de Wallon-Cappel, à 4 km (Beds War Diary, juill. 1916). Les deux villages restaient « en majorité germaniques », flamandophones (Blanchard 1906, p. 483). Jusqu'à son admission au mess (voir f. 21 v\\textsuperscript{o}), Hippolyte Combes paie ses repas à ses logeuses.\n",
   "sources": [
    "Acte de naissance de Marie Marguerite Calmels, Millau, 16 avril 1892 (archives familiales) ; fichier INSEE des personnes décédées (via matchID), décès du 19 mars 1974 à Millau.",
@@ -270,12 +270,6 @@
    },
    {
     "ligne": 6,
-    "lemme": "\\del{\\ill}",
-    "type": "rature",
-    "note": "un ou deux mots biffés de boucles d'encre serrées, illisibles"
-   },
-   {
-    "ligne": 6,
     "lemme": "2^{h}",
     "type": "abreviation",
     "note": "heures"
@@ -347,7 +341,7 @@
     "note": "1 franc"
    }
   ],
-  "critique": "Encre violette ; un blanc d'une ligne isole l'annonce du départ du 28, un blanc de deux lignes la sépare du filet des comptes. Dans la ligne des comptes, les libellés et la ponctuation sont à l'encre, les montants ajoutés au crayon dans les blancs laissés à cet effet. Un ou deux mots sont biffés de boucles serrées après « d'off ».",
+  "critique": "Encre violette ; un blanc d'une ligne isole l'annonce du départ du 28, un blanc de deux lignes la sépare du filet des comptes. Dans la ligne des comptes, les libellés et la ponctuation sont à l'encre, les montants ajoutés au crayon dans les blancs laissés à cet effet.",
   "historique": "Les 36 chambres sont pour les officiers des Royal Fusiliers arrivés la veille (voir f. 1 r\\textsuperscript{o}). Le cantonnement était « une des principales besognes de l'interprète » : un officier, l'interprète et deux caporaux précédaient l'unité, et l'habitant recevait 1 F par nuit et par lit d'officier, selon le « Décret de 1877 » (Fernand-Laurent 1917, p. 225-234). Le lieutenant Michel n'est pas identifié. Lynde avait déjà logé, début juillet, l'état-major de l'artillerie de la 5th Australian Division (Ellis [1920], p. 66-67). Le même jour, à Wallon-Cappel, Maxse félicite le 7th Bedfordshire de la prise de la Pommiers Redoubt, le 1\\textsuperscript{er} juillet (Beds War Diary, 26 juill. 1916). Le « changem de cantonnement » du 28 est la marche de la 54th Brigade vers Bailleul par Hazebrouck (ibid., 28 juill. 1916 ; voir f. 2 v\\textsuperscript{o}). Le « château de la brasserie » n'est pas identifié. Le \\textit{Washing} reparaît jusqu'à la dernière page (f. 93 r\\textsuperscript{o}).\n",
   "sources": [
    "Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, p. 225-234.",
@@ -1316,12 +1310,6 @@
     "note": "finale -ières descendue le long du bord droit"
    },
    {
-    "ligne": 10,
-    "lemme": "\\del{\\ill}",
-    "type": "rature",
-    "note": "mot biffé de boucles serrées et barré de deux longs traits ; illisible"
-   },
-   {
     "ligne": 11,
     "lemme": "ctes ples",
     "type": "abreviation",
@@ -1800,7 +1788,7 @@
     "ligne": 17,
     "lemme": "la Coy",
     "type": "lecture",
-    "note": "« la » (haste haute devant a), non « ma » ; la compagnie"
+    "note": "« la » (haste haute devant a) ; la compagnie"
    },
    {
     "ligne": 17,
@@ -2251,12 +2239,6 @@
     "note": "1916"
    },
    {
-    "ligne": 2,
-    "lemme": "et partie",
-    "type": "rature",
-    "note": "biffé d'un trait continu ; premier jet « matinée et partie soirée »"
-   },
-   {
     "ligne": 3,
     "lemme": "&",
     "type": "abreviation",
@@ -2348,7 +2330,7 @@
    }
   ],
   "critique": "Encre brune, plusieurs mots repassés à l'encre noire épaisse ; la correction au crayon de la l.~7 est peut-être postérieure. La mention « Les Australiens », isolée en retrait au bas de l'entrée, précède le filet et la ligne de comptes.",
-  "historique": "À Sailly-sur-la-Lys, à 2,5 km de La Croix-du-Bac (R5, F61), l'église « was burnt during the open fighting of October 1914 », le village restant ensuite « comparatively untouched » jusqu'au 9 avril 1918 (CWGC, Sailly-sur-la-Lys Churchyard) ; Hippolyte Combes attribue l'incendie aux « Boches ». L'écluse est sans doute celle de Bac-Saint-Maur, en aval de Sailly (aujourd'hui écluse et barrage n\\textsuperscript{o} 5 : Canalplan), près de laquelle se tenait le \\textit{refilling point} (voir f. 7 r\\textsuperscript{o}). « Causé … de notre genl en chef, Maxse » vaut sans doute « parlé de » : le Major-General Ivor Maxse commande la division jusqu'au 15 janvier 1917 (Becke 1938, p. 79) et avait inspecté la brigade le 26 juillet (voir f. 1 v\\textsuperscript{o}). « Les Australiens » sont ceux de la 5th Australian Division, saignée à Fromelles les 19-20 juillet (5 533 pertes : Miles 1938, p. 133, n. 2) restée en ligne jusqu'à la mi-octobre ; l'une de ses brigades cantonne à Sailly et y a son école de grenadiers et son « Empire Theatre » (Ellis [1920], p. 75, 117, 120-121).\n",
+  "historique": "À Sailly-sur-la-Lys, à 2,5 km de La Croix-du-Bac, l'église « was burnt during the open fighting of October 1914 », le village restant ensuite « comparatively untouched » jusqu'au 9 avril 1918 (CWGC, Sailly-sur-la-Lys Churchyard) ; Hippolyte Combes attribue l'incendie aux « Boches ». L'écluse est sans doute celle de Bac-Saint-Maur, en aval de Sailly (aujourd'hui écluse et barrage n\\textsuperscript{o} 5 : Canalplan), près de laquelle se tenait le \\textit{refilling point} (voir f. 7 r\\textsuperscript{o}). « Causé … de notre genl en chef, Maxse » vaut sans doute « parlé de » : le Major-General Ivor Maxse commande la division jusqu'au 15 janvier 1917 (Becke 1938, p. 79) et avait inspecté la brigade le 26 juillet (voir f. 1 v\\textsuperscript{o}). « Les Australiens » sont ceux de la 5th Australian Division, saignée à Fromelles les 19-20 juillet (5 533 pertes : Miles 1938, p. 133, n. 2) restée en ligne jusqu'à la mi-octobre ; l'une de ses brigades cantonne à Sailly et y a son école de grenadiers et son « Empire Theatre » (Ellis [1920], p. 75, 117, 120-121).\n",
   "sources": [
    "CWGC, Sailly-sur-la-Lys Churchyard, historique du cimetière (fiche 18800), https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/18800/.",
    "Canalplan AC, fiche de voie navigable (Lys : « Ecluse 5 et barrage de Bac-Saint-Maur »), https://canalplan.co.uk/waterway/zuwi, consultée le 18 oct. 2026.",
@@ -2462,7 +2444,7 @@
    }
   ],
   "critique": "Les deux biffures de la l.~6, d'une encre noir bleuté distincte, sont peut-être postérieures à la rédaction. Les quatre dernières lignes, isolées entre le filet des comptes et un double trait ondulé, forment une note à part.",
-  "historique": "Le bombardement touche l'arrière d'un secteur réputé calme : le 9 août, « about 50 heavy shells » étaient tombés sur Armentières (JMO 7/Bedf, 9 août 1916), et le 10th Essex note que le QG divisionnaire, « a few miles back » d'Erquinghem, « received some attention from enemy artillery » (Banks \\& Chell 1924, p. 142) ; ce QG n'est pas localisé. Le soldat atteint dans la « maison du coin » n'est pas identifié. La « gde blanchisserie Barbry » se rattache sans doute aux blanchisseurs Barbry de la rue de la Lys à Sailly-sur-la-Lys, entre le bourg et Bac-Saint-Maur, à 1,5 km environ de La Croix-du-Bac (répertoire SIRENE ; R5, F63) ; Hippolyte Combes y repasse le 19 août et prend café et rhum chez « M. Barbry » le 20 (voir f. 11 v\\textsuperscript{o} et f. 12 r\\textsuperscript{o}). Ces usines de blanchiment des fils et toiles de lin jalonnaient la Lys, telle l'usine Mahieu d'Erquinghem-Lys, « partiellement détruite » pendant la guerre (Mérimée PA59000059). Le « nouveau départ dimanche » (13 août) n'eut pas lieu : la compagnie ne quitte les bords de la Lys que le 25 août.\n",
+  "historique": "Le bombardement touche l'arrière d'un secteur réputé calme : le 9 août, « about 50 heavy shells » étaient tombés sur Armentières (JMO 7/Bedf, 9 août 1916), et le 10th Essex note que le QG divisionnaire, « a few miles back » d'Erquinghem, « received some attention from enemy artillery » (Banks \\& Chell 1924, p. 142) ; ce QG n'est pas localisé. Le soldat atteint dans la « maison du coin » n'est pas identifié. La « gde blanchisserie Barbry » se rattache sans doute aux blanchisseurs Barbry de la rue de la Lys à Sailly-sur-la-Lys, entre le bourg et Bac-Saint-Maur, à 1,5 km environ de La Croix-du-Bac (répertoire SIRENE) ; Hippolyte Combes y repasse le 19 août et prend café et rhum chez « M. Barbry » le 20 (voir f. 11 v\\textsuperscript{o} et f. 12 r\\textsuperscript{o}). Ces usines de blanchiment des fils et toiles de lin jalonnaient la Lys, telle l'usine Mahieu d'Erquinghem-Lys, « partiellement détruite » pendant la guerre (Mérimée PA59000059). Le « nouveau départ dimanche » (13 août) n'eut pas lieu : la compagnie ne quitte les bords de la Lys que le 25 août.\n",
   "sources": [
    "Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (transcription en ligne).",
    "Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., London, Gay & Hancock, 1924, p. 142.",
@@ -2506,18 +2488,6 @@
     "lemme": "lgs",
     "type": "abreviation",
     "note": "longtemps"
-   },
-   {
-    "ligne": 9,
-    "lemme": "\\del{devant}",
-    "type": "rature",
-    "note": "devant biffé, la finale -ant noyée d'encre"
-   },
-   {
-    "ligne": 9,
-    "lemme": "\\add{en face de}",
-    "type": "ajout",
-    "note": "dans l'interligne, au-dessus de devant, qu'il remplace"
    },
    {
     "ligne": 11,
@@ -2703,7 +2673,7 @@
     "ligne": 8,
     "lemme": "ces",
     "type": "lecture",
-    "note": "ces (mot sans hampe), non « les »"
+    "note": "ces (mot sans hampe)"
    },
    {
     "ligne": 10,
@@ -2715,7 +2685,7 @@
     "ligne": 10,
     "lemme": "propri",
     "type": "lecture",
-    "note": "i pointé, sans e final ; non « propre »"
+    "note": "i pointé, sans e final"
    },
    {
     "ligne": 11,
@@ -2869,7 +2839,7 @@
     "ligne": 21,
     "lemme": "\\inc{&}",
     "type": "lecture",
-    "note": "et ; signe en forme de 1 précédé d'un long délié ; on a lu aussi « – & »"
+    "note": "et ; signe en forme de 1 précédé d'un long délié"
    }
   ],
   "critique": "Encre noire virée au brun. Les deux journées sont séparées par un filet pleine largeur ; sous le compte du 18, que borde un grand crochet, un blanc d'environ deux lignes. Les 16 et 17 août n'ont pas d'entrée, la journée du 18 revenant sur la veille (« Hier après-midi ») ; la chevauchée du 19 se poursuit au f. 11 v\\textsuperscript{o}.",
@@ -2926,8 +2896,8 @@
    {
     "ligne": 7,
     "lemme": "Arrivé par gare (l. est complt déserte",
-    "type": "ajout",
-    "note": "ajout interlinéaire d'un module plus petit, sous Continué ensuite sur Armentières ; parenthèse non refermée"
+    "type": "disposition",
+    "note": "parenthèse non refermée"
    },
    {
     "ligne": 7,
@@ -2975,7 +2945,7 @@
     "ligne": 18,
     "lemme": "Ecossais",
     "type": "ajout",
-    "note": "mot ajouté après coup dans l'interligne, d'une encre plus brune ; rattachement incertain (troupes écossaises vues à Armentières ?)"
+    "note": "d'une encre plus brune ; rattachement incertain (troupes écossaises vues à Armentières ?)"
    },
    {
     "ligne": 19,
@@ -3020,7 +2990,7 @@
     "note": "fin de la phrase, écrite faute de place à gauche de la ligne, dans le blanc de l'alinéa"
    }
   ],
-  "critique": "La page continue sans rupture la chevauchée commencée au bas du f. 11 r\\textsuperscript{o} ; le rappel « 19 Sam – » occupe en tête la place du mois. Deux ajouts interlinéaires : « Arrivé par gare… », d'un module plus petit, et « Ecossais », d'une encre plus brune et plus claire, sans doute postérieur. Faute de place, « très belle » est écrit au début de la dernière ligne, dans le blanc de l'alinéa.",
+  "critique": "En tête de la page, le rappel « 19 Sam – » occupe la place du mois.",
   "historique": "La blanchisserie Barbry est sans doute à Sailly-sur-la-Lys (voir f. 9 r\\textsuperscript{o}). Fleurbaix (Pas-de-Calais), « about a mile behind the line » (Ellis [1920], p. 75), est derrière le secteur que tient encore la 5th Australian Division (ibid., p. 117). Armentières (Nord), à « about two miles from the front line » (ibid., p. 128), reste pourtant habitée « by civilian inhabitants in large numbers », et l'artillerie allemande vise surtout la ville et Houplines (Bewsher 1921, pp. 87-88). L'église de briques est vraisemblablement Saint-Vaast, peinte en ruines par F. Ch. Baude en 1919 (Palissy PM59007232) et rebâtie par L.-M. Cordonnier en 1929. Les « Ecossais » sont les Highlanders de la 152nd Brigade (51st Division), cantonnés en ville depuis les 15-16 août (Bewsher 1921, p. 87). Erquinghem-Lys, « the westerly suburb of Armentières », abrite les bataillons de soutien de la division (Banks \\& Chell 1924, p. 142) ; l'officier des Sussex appartient sans doute au 8th Royal Sussex, bataillon de pionniers de la 18th Division (LLT).\n",
   "sources": [
    "Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], p. 75, 117, 128.",
@@ -3096,7 +3066,7 @@
     "ligne": 6,
     "lemme": "C^{tis}",
     "type": "lecture",
-    "note": "Curtis, même forme qu'à la l. 4 ; lu auparavant comme une rature illisible"
+    "note": "Curtis, même forme qu'à la l. 4"
    },
    {
     "ligne": 9,
@@ -3437,12 +3407,6 @@
     "note": "rejeté sous « Ambroise », au bout de la l. 10."
    },
    {
-    "ligne": 10,
-    "lemme": "\\add{armoiries}",
-    "type": "ajout",
-    "note": "dans l'interligne, sous « écusson »."
-   },
-   {
     "ligne": 14,
     "lemme": "extt",
     "type": "abreviation",
@@ -3518,12 +3482,6 @@
     "lemme": "&",
     "type": "abreviation",
     "note": "et"
-   },
-   {
-    "ligne": 5,
-    "lemme": "\\add{eglise}",
-    "type": "ajout",
-    "note": "Ajout interlinéaire au-dessus de Entré pr."
    },
    {
     "ligne": 5,
@@ -3643,7 +3601,7 @@
     "ligne": 18,
     "lemme": "\\inc{washing}",
     "type": "emprunt",
-    "note": "blanchissage ; mot très réduit (sh en ch comme au f. 023), lu aussi séchage."
+    "note": "blanchissage ; mot très réduit (sh en ch comme au f. 12 r°), lu aussi séchage."
    },
    {
     "ligne": 18,
@@ -3714,7 +3672,7 @@
     "ligne": 7,
     "lemme": "démarré",
     "type": "lecture",
-    "note": "accent sur la finale ; non « démarre »"
+    "note": "accent sur la finale"
    },
    {
     "ligne": 7,
@@ -3738,7 +3696,7 @@
     "ligne": 9,
     "lemme": "2^{H}45",
     "type": "lecture",
-    "note": "deux heures quarante-cinq ; minutes lues pour la première fois (4 fermé, 5 à longue haste)"
+    "note": "deux heures quarante-cinq (4 fermé, 5 à longue haste)"
    },
    {
     "ligne": 9,
@@ -4664,7 +4622,7 @@
     "ligne": 17,
     "lemme": "\\add{avant & aprè}",
     "type": "ajout",
-    "note": "ajout interlinéaire au-dessus de « – au repas » ; point d'insertion incertain"
+    "note": "point d'insertion incertain ; lire « après »"
    },
    {
     "ligne": 17,
@@ -4677,12 +4635,6 @@
     "lemme": "plusis",
     "type": "abreviation",
     "note": "plusieurs"
-   },
-   {
-    "ligne": 20,
-    "lemme": "\\add{annonçant}",
-    "type": "ajout",
-    "note": "ajout interlinéaire au-dessus de « orage »"
    }
   ],
   "critique": "Encre noire virée au brun. Le compte du samedi, ouvert par un grand crochet, est séparé de la journée du dimanche par un filet ; le récit du dimanche 3 se poursuit au recto suivant (f. 18 r\\textsuperscript{o}) par les champs d'avoine et les achats faits à Saint-Pol.",
@@ -4758,7 +4710,7 @@
     "ligne": 8,
     "lemme": "Géog. du Pas de Calais : \\inc{35}",
     "type": "ajout",
-    "note": "Ajout dans l'interligne, au-dessus de « 70 c », d'une encre plus pâle ; second chiffre de même forme qu'à la l.~7"
+    "note": "d'une encre plus pâle ; second chiffre de même forme qu'à la l.~7"
    },
    {
     "ligne": 9,
@@ -4788,10 +4740,10 @@
     "ligne": 10,
     "lemme": "\\inc{f}",
     "type": "lecture",
-    "note": "Un seul tracé pâle, coupé par le bord de la photographie (f, ou 5 en ſ) ; on avait lu « 1f »"
+    "note": "Un seul tracé pâle, coupé par le bord de la photographie (f, ou 5 en ſ)"
    }
   ],
-  "critique": "Recto du f. 18 : la page continue la journée du dimanche 3 (f. 17 v\\textsuperscript{o}) et précède celle du lundi 4, au verso, qui a été photographié le premier. Sous cinq lignes de récit, un grand blanc, puis une ligne au crayon en partie illisible au-dessus du filet ; dans les comptes, plusieurs chiffres et la mention ajoutée de la « Géog. du Pas de Calais » sont d'une encre plus pâle, peut-être portés après coup.",
+  "critique": "Recto du f. 18 : la page continue la journée du dimanche 3 (f. 17 v\\textsuperscript{o}) et précède celle du lundi 4, au verso, qui a été photographié le premier. Sous cinq lignes de récit, un grand blanc, puis une ligne au crayon en partie illisible au-dessus du filet ; dans les comptes, plusieurs chiffres sont d'une encre plus pâle, peut-être portés après coup.",
   "historique": "La carte du département de la Somme, payée le même prix que la « Carte du départt » du 31 août (voir f. 16 v\\textsuperscript{o}), est achetée la veille du jour où l'ordre d'opérations n° 28 transfère la division à la Reserve Army, sur la Somme (JMO 7/Bedf, 4 sept. 1916) : la destination était donc connue, ou pressentie ; la compagnie entrera dans ce département le 11, à Raincheval (voir f. 21 r\\textsuperscript{o}). Le \\textit{saddle soap} est le savon de sellerie qui entretient le cuir des selles et des harnais : Hippolyte Combes suit la compagnie à cheval (« très lente chevauchée », f. 20 r\\textsuperscript{o}) et paiera le 14 un \\textit{batman} pour seller son poney (voir f. 22 r\\textsuperscript{o}). Le chocolat Poulain est la marque lancée en 1848 par le Blésois Victor-Auguste Poulain (Ville de Blois 2015) ; si le quart de livre coûte bien 1 f, il revient à 8 F le kilo, quand le chocolat ordinaire valait 3,19 F à l'économat d'une grande compagnie de chemins de fer en juillet 1916 (March 1925, p. 199-200).\n",
   "sources": [
    "Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916, ordre d'opérations n° 28 du 4 septembre (transcription en ligne).",
@@ -5129,21 +5081,9 @@
    },
    {
     "ligne": 24,
-    "lemme": "\\del{\\ill}",
-    "type": "rature",
-    "note": "mot fortement biffé, illisible"
-   },
-   {
-    "ligne": 24,
     "lemme": "\\inc{Puis}",
     "type": "lecture",
     "note": "lecture incertaine ; autre lecture possible, Lui"
-   },
-   {
-    "ligne": 24,
-    "lemme": "[",
-    "type": "disposition",
-    "note": "crochet ouvrant haut de deux lignes devant les postes du compte"
    },
    {
     "ligne": 24,
@@ -5171,7 +5111,7 @@
    }
   ],
   "critique": "Les deux postes du compte et les mots « allée de pins », d'une encre plus brune et plus pâle que le texte, ont été ajoutés après coup au bas de la page, sous la phrase sur le clocher de Saint-Michel, restée en suspens après « est ».",
-  "historique": "Le beau temps revenu concorde avec le journal des Bedfords, qui note « \\textit{Fine weather} » les 6 et 7 septembre après un 5 « \\textit{Wet weather} » (JMO 7/Bedf, 5--7 sept. 1916). Après l'annulation du départ (voir f. 18 v\\textsuperscript{o}), la 54th Brigade s'exerce au creusement intensif, à la construction rapide d'abris enterrés et à suivre un barrage ; le 6, les commandants du corps et de la division suivent une démonstration de « \\textit{rapid construction of shelters} » (ibid.). Mme Vauchel, propriétaire d'une ferme voisine chez qui Hippolyte Combes accompagne Curtis, sans doute pour un achat de fourrage vert (voir f. 9 v\\textsuperscript{o}), n'est pas identifiée. Le 7, la promenade mène à Saint-Pol (6,1 km de Marquay ; voir f. 16 v\\textsuperscript{o}) et revient par Saint-Michel-sur-Ternoise (4,6 km ; OSM). L'église de Saint-Michel n'est pas protégée au titre des monuments historiques (Mérimée) : les datations naguère avancées pour l'édifice restent sans source. La coupe de cheveux à 50 c est le prix qu'Hippolyte Combes paiera encore à Albert en octobre (voir f. 43 v\\textsuperscript{o}).\n",
+  "historique": "Le beau temps revenu concorde avec le journal des Bedfords, qui note « \\textit{Fine weather} » les 6 et 7 septembre après un 5 « \\textit{Wet weather} » (JMO 7/Bedf, 5--7 sept. 1916). Après l'annulation du départ (voir f. 18 v\\textsuperscript{o}), la 54th Brigade s'exerce au creusement intensif, à la construction rapide d'abris enterrés et à suivre un barrage ; le 6, les commandants du corps et de la division suivent une démonstration de « \\textit{rapid construction of shelters} » (ibid.). Mme Vauchel, propriétaire d'une ferme voisine chez qui Hippolyte Combes accompagne Curtis, sans doute pour un achat de fourrage vert (voir f. 9 v\\textsuperscript{o}), n'est pas identifiée. Le 7, la promenade mène à Saint-Pol (6,1 km de Marquay ; voir f. 16 v\\textsuperscript{o}) et revient par Saint-Michel-sur-Ternoise (4,6 km ; OSM). L'église de Saint-Michel n'est pas protégée au titre des monuments historiques (Mérimée). La coupe de cheveux à 50 c est le prix qu'Hippolyte Combes paiera encore à Albert en octobre (voir f. 43 v\\textsuperscript{o}).\n",
   "sources": [
    "Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).",
    "Ministère de la Culture, base Mérimée (aucune notice pour Saint-Michel-sur-Ternoise, interrogation du 18 oct. 2026).",
@@ -5648,7 +5588,7 @@
     "ligne": 11,
     "lemme": "des postes",
     "type": "ajout",
-    "note": "ajout écrit petit sous « Ls XI, », d'une encre plus pâle"
+    "note": "d'une encre plus pâle"
    },
    {
     "ligne": 12,
@@ -5723,7 +5663,7 @@
     "note": "soit 60 c (bière et, sans doute, consigne de la bouteille)"
    }
   ],
-  "critique": "Encre noire virée au brun ; les l.~9--10 sont très chargées d'encre. La ligne de Lucheux et l'ajout « des postes » sont d'une encre plus brune et plus pâle, sans doute écrits à part.",
+  "critique": "Encre noire virée au brun ; les l.~9--10 sont très chargées d'encre. La ligne de Lucheux est d'une encre plus brune et plus pâle, sans doute écrite à part.",
   "historique": "D'Oppy, la colonne descend sur Lucheux (Somme), à 6,6 km (OSM), et passe ainsi du Pas-de-Calais dans la Somme. Lucheux garde son château, son beffroi, porte de ville, et l'église Saint-Léger, tous protégés (Mérimée PA00116194, PA00116193, PA00116195). L'« Edit de Ls XI » est l'édit dit de Luxies, daté du 19 juin 1464, longtemps tenu pour l'acte fondateur de la poste royale, mais dont l'authenticité est contestée depuis 1937 (Zeller 1946, p. 338, n. 3). Thièvres est un village coupé par l'Authie entre deux communes homonymes, du Pas-de-Calais et de la Somme (OSM). L'infanterie de la brigade va en autobus du Souich à Halloy, puis à pied par Thièvres et Marieux ; le 7th Bedfordshire atteint Raincheval à 14 h 15 (JMO 7/Bedf, 11 sept. 1916), dans la zone « O » de la Reserve Army. Les œufs reviennent à 16,7 et 17,5 c pièce, un peu moins que la douzaine à 2,40 F d'une coopérative parisienne en juillet 1916 (March 1925, p. 188) ; la bière coûte 50 c le litre contre 30 c en Flandre (voir f. 7 v\\textsuperscript{o}), les 10 c ajoutés étant peut-être la consigne.\n",
   "sources": [
    "Ministère de la Culture, base Mérimée, notices PA00116194 (château), PA00116193 (beffroi) et PA00116195 (église Saint-Léger) de Lucheux.",
@@ -5792,7 +5732,7 @@
     "ligne": 6,
     "lemme": "dû accepter",
     "type": "lecture",
-    "note": "d + u surmonté d'une barre ; non « ai accepté »"
+    "note": "d + u surmonté d'une barre"
    },
    {
     "ligne": 7,
@@ -5888,7 +5828,7 @@
     "ligne": 23,
     "lemme": "et",
     "type": "lecture",
-    "note": "e + t barré ; non « pr »"
+    "note": "e + t barré"
    },
    {
     "ligne": 23,
@@ -5985,7 +5925,7 @@
     "ligne": 11,
     "lemme": "pony",
     "type": "lecture",
-    "note": "graphie anglaise, sans e (non « poney »)"
+    "note": "poney (graphie anglaise, sans e)"
    },
    {
     "ligne": 12,
@@ -6375,7 +6315,7 @@
     "note": "2 francs"
    }
   ],
-  "critique": "Encre violette, alors que la page précédente est à l'encre noire. Deux mots (l.~10 et 19) sont récrits à l'encre épaisse sur une première leçon.",
+  "critique": "Encre violette, alors que la page précédente est à l'encre noire.",
   "historique": "Le message émane sans doute du bureau divisionnaire de la Mission, dont relèvent les interprètes des unités (voir f. 22 r\\textsuperscript{o}). Hippolyte Combes le cherche d'abord à Hédauville, à 9,8 km de Raincheval, peut-être sur le bruit d'un déplacement du QG : celui-ci ne s'y installera que le 25 septembre, la veille de l'attaque de Thiepval, et y restera jusqu'au 6 octobre (Nichols 1922, p. 79). Hédauville est sur la route Contay–Englebelmer–Aveluy, presque la seule route proche du front praticable de jour comme de nuit (OH 1916-I, p. 271) ; Forceville et Acheux sont à 1,9 et 4 km de là. Le 7th Bedfordshire note ce jour un « Wet morning » et la visite du général Shoubridge, commandant la 54th Brigade (JMO 7/Bedf, 18 sept. 1916 ; Nichols 1922, p. 109). « Brammas » (lecture incertaine) n'est pas identifié. Le régime incriminé est celui du mess des officiers, partagé depuis le 12 (voir f. 21 v\\textsuperscript{o}). Connelly, son palefrenier, avait reçu 1 f le 5 août et le 11 septembre (voir f. 6 r\\textsuperscript{o} et 21 r\\textsuperscript{o}) ; le pourboire double ce jour.\n",
   "sources": [
    "Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 79, 109.",
@@ -6519,7 +6459,7 @@
     "ligne": 2,
     "lemme": "\\fr{1}{2} jour",
     "type": "lecture",
-    "note": "demi-jour, à mi-journée (?) ; fraction empilée, lue autrefois « t. »"
+    "note": "demi-jour, à mi-journée (?) ; fraction empilée"
    },
    {
     "ligne": 3,
@@ -6549,7 +6489,7 @@
     "ligne": 7,
     "lemme": "\"",
     "type": "signe",
-    "note": "idem (maillots) ; lu autrefois « & »"
+    "note": "idem (maillots)"
    },
    {
     "ligne": 9,
@@ -6699,7 +6639,7 @@
     "ligne": 9,
     "lemme": "\\inc{avec}",
     "type": "lecture",
-    "note": "avec (v, e réduit, délié recoupé d'un trait vertical) ; lu av. auparavant ; « av + » possible"
+    "note": "avec (v, e réduit, délié recoupé d'un trait vertical) ; « av + » possible"
    },
    {
     "ligne": 11,
@@ -6771,7 +6711,7 @@
     "ligne": 20,
     "lemme": "bache",
     "type": "lecture",
-    "note": "bâche ; lecture douteuse auparavant"
+    "note": "bâche"
    },
    {
     "ligne": 21,
@@ -6789,7 +6729,7 @@
     "ligne": 22,
     "lemme": "\\inc{propri}",
     "type": "abreviation",
-    "note": "propriétaire ; lu « propre à » auparavant"
+    "note": "propriétaire"
    },
    {
     "ligne": 22,
@@ -6810,7 +6750,7 @@
     "note": "ligne écrite petit, serrée au-dessus de la suivante ; l'équerre ouvre les deux lignes de compte"
    }
   ],
-  "critique": "Encre violette uniforme, page d'une seule venue. Les deux lignes de comptes sont serrées au pied de la page, la première, d'un module réduit, logée au-dessus de la seconde.",
+  "critique": "Encre violette uniforme, page d'une seule venue. Les deux lignes de comptes sont serrées au pied de la page.",
   "historique": "La compagnie part avec la 54th Brigade, qui monte vers Thiepval : le 7th Bedfordshire quitte Raincheval à 9 h et gagne Varennes à midi par Arquèves, Léalvillers et Acheux ; le QG de brigade est à Hédauville (JMO 7/Bedf, 23 sept. 1916). Le « cap West » est le capitaine E. M. West, commandant de la 152nd Coy (Nichols 1922, p.~110 ; voir f. 21 v\\textsuperscript{o}). Le lieutenant Pizzi, qu'Hippolyte Combes louait dans sa lettre du 25 février 1916 comme « l'officier interprète de la 18e division » (en annexe, p.~\\pageref{annexe:doc1}), transmet les ordres aux interprètes des unités, sans identité civile établie. Le \\textit{refilling point} est le lieu où les camions de la \\textit{supply column} remettent vivres et fourrage aux voitures du train (voir f. 33 v\\textsuperscript{o}). La gare d'Acheux est le terminus de la voie normale Candas--Acheux ouverte en 1916, tête de ligne des vivres et du matériel du génie (OH 1916-I, p.~273--274). Ce même 23 septembre s'ouvre la préparation d'artillerie de l'attaque de Thiepval (OH 1916-II, p.~393--394) ; la division relève la 49th dans la nuit du 24 au 25 (ibid., p.~394).\n",
   "sources": [
    "Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).",
@@ -7347,12 +7287,6 @@
     "note": "jusqu'à"
    },
    {
-    "ligne": 10,
-    "lemme": "\\add{changé au Chatelet}",
-    "type": "ajout",
-    "note": "ajout interlinéaire, au-dessus de « Traversé jardin »"
-   },
-   {
     "ligne": 13,
     "lemme": "pr",
     "type": "abreviation",
@@ -7496,9 +7430,9 @@
    },
    {
     "ligne": 13,
-    "lemme": "\\add{Coupe (chvx}",
-    "type": "ajout",
-    "note": "ajout interlinéaire d'un trait plus fin ; chvx = cheveux ; le 1 f qui suit en est le prix"
+    "lemme": "chvx",
+    "type": "abreviation",
+    "note": "cheveux ; le 1 f qui suit est le prix de la coupe"
    },
    {
     "ligne": 13,
@@ -7749,7 +7683,7 @@
     "ligne": 5,
     "lemme": "\\inc{&} moi",
     "type": "lecture",
-    "note": "forme du & (cf. l. 3 et 22), sans doute lapsus pour « en » ; on a lu « p » ; « ds » possible"
+    "note": "forme du & (cf. l. 3 et 22), sans doute lapsus pour « en » ; « ds » possible"
    },
    {
     "ligne": 6,
@@ -7797,7 +7731,7 @@
     "ligne": 10,
     "lemme": "\\inc{C^{h}}",
     "type": "lecture",
-    "note": "C suivi d'un h surélevé ; on a lu « C. » ; « C^{ls} » (Calmels) moins probable"
+    "note": "C suivi d'un h surélevé ; « C^{ls} » (Calmels) moins probable"
    },
    {
     "ligne": 11,
@@ -7827,7 +7761,7 @@
     "ligne": 12,
     "lemme": "\\inc{Là} pris tram",
     "type": "lecture",
-    "note": "« Là » (L bouclé, a, accent) ; on a lu « De là, pris trams »"
+    "note": "« Là » (L bouclé, a, accent)"
    },
    {
     "ligne": 13,
@@ -8061,7 +7995,7 @@
     "ligne": 22,
     "lemme": "25c + 55c",
     "type": "lecture",
-    "note": "25 c, non « 2 f » : 5 en boucle haute suivi de c ; de même « Fleurs : 25c »"
+    "note": "25 centimes : 5 en boucle haute suivi de c ; de même « Fleurs : 25c »"
    }
   ],
   "critique": "Encre violette ; un second pâté touche « Assis » et « côte » (l.~10). Le récit s'arrête après « Alsace », trois lignes environ au-dessus des comptes.",
@@ -8292,12 +8226,6 @@
     "lemme": "3f",
     "type": "abreviation",
     "note": "trois francs"
-   },
-   {
-    "ligne": 27,
-    "lemme": "limonade",
-    "type": "ajout",
-    "note": "écrit au-dessus de la ligne, le montant au-dessous, en bout de ligne"
    },
    {
     "ligne": 27,
@@ -8680,11 +8608,11 @@
     "note": "1 franc 25, prix du chapelet, écrit sous la ligne"
    }
   ],
-  "critique": "Encre violette. La ligne de la chapelle de Nazareth, serrée contre la précédente, a peut-être été ajoutée après coup ; le prix du chapelet est porté sous la dernière ligne, à droite.",
-  "historique": "« Sa mère » est Valentine Cartairade (1858--1943), épouse du Dr Gabriel Calmels, médecin à Millau (acte de naissance de Marguerite, Millau, 1892 ; \\textit{PC-Annexe}). La chapelle Notre-Dame-de-Nazareth, 4, rue Philippe-Féral, à deux pas de l'appartement d'Hippolyte Combes, est un édifice du XV\\textsuperscript{e} siècle très remanié au XVI\\textsuperscript{e}, bâti par des parlementaires qui en eurent l'usage jusqu'en 1789 et rendu au culte en 1800 (Mérimée PA00094499) ; on y célébrait pendant la guerre messes anniversaires et services pour les morts (\\textit{Le Télégramme}, 10 mars 1916, p.~4 ; 3 juill. 1917, p.~2). La rue d'Alsace-Lorraine est l'artère commerçante ; le tram de la Côte-Pavée part du Capitole (Baedeker 1912, p.~298, 300). Sur Jean, voir f.~29 v\\textsuperscript{o}. « Bonny » (?), destinataire du chapelet, se lisait auparavant « B\\textsuperscript{ne} Maman » : peut-être Mme Calmels elle-même, grand-mère des enfants Vincens (\\textit{PC-Livre} ; voir f.~30 v\\textsuperscript{o}). Ce jour, la 54th Brigade quitte Acheux en chemin de fer pour Candas (voir f.~33 v\\textsuperscript{o}).\n",
+  "critique": "Encre violette. La ligne de la chapelle de Nazareth, serrée contre la précédente, a peut-être été ajoutée après coup.",
+  "historique": "« Sa mère » est Valentine Cartairade (1858--1943), épouse du Dr Gabriel Calmels, médecin à Millau (acte de naissance de Marguerite, Millau, 1892 ; \\textit{PC-Annexe}). La chapelle Notre-Dame-de-Nazareth, 4, rue Philippe-Féral, à deux pas de l'appartement d'Hippolyte Combes, est un édifice du XV\\textsuperscript{e} siècle très remanié au XVI\\textsuperscript{e}, bâti par des parlementaires qui en eurent l'usage jusqu'en 1789 et rendu au culte en 1800 (Mérimée PA00094499) ; on y célébrait pendant la guerre messes anniversaires et services pour les morts (\\textit{Le Télégramme}, 10 mars 1916, p.~4 ; 3 juill. 1917, p.~2). La rue d'Alsace-Lorraine est l'artère commerçante ; le tram de la Côte-Pavée part du Capitole (Baedeker 1912, p.~298, 300). Sur Jean, voir f.~29 v\\textsuperscript{o}. Le destinataire du chapelet (« Bonny », diminutif non identifié) demeure incertain. Ce jour, la 54th Brigade quitte Acheux en chemin de fer pour Candas (voir f.~33 v\\textsuperscript{o}).\n",
   "sources": [
    "Acte de naissance de Marie Marguerite Calmels, Millau, n° 137, 16 avril 1892 (archives familiales).",
-   "Combes, P., livre familial dactylographié et annexe généalogique (Combes-1 à Combes-4, Combes-annexe), archives familiales.",
+   "Combes, P., livre familial dactylographié et annexe généalogique (PC-Livre, PC-Annexe), archives familiales.",
    "Ministère de la Culture, base Mérimée, notice PA00094499 (chapelle Notre-Dame-de-Nazareth, Toulouse), pop.culture.gouv.fr, consultée le 18 oct. 2026.",
    "Le Télégramme, 10 mars 1916, p. 4 (ark:/12148/bd6t53866190s) ; 3 juillet 1917, p. 2 (ark:/12148/bd6t53866670r), Rosalis, Bibliothèque de Toulouse.",
    "Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, K. Baedeker, 1912, p. 298, 300."
@@ -8809,7 +8737,7 @@
     "ligne": 9,
     "lemme": "B. \\inc{Mm}",
     "type": "lecture",
-    "note": "B. net, M recoupé par un jambage de la ligne 8, m bref : sans doute Bonne-Maman (cf. 059) ; autre lecture : B. Mme"
+    "note": "B. net, M recoupé par un jambage de la ligne 8, m bref : sans doute Bonne-Maman (cf. f. 30 r°) ; autre lecture : B. Mme"
    },
    {
     "ligne": 9,
@@ -8875,7 +8803,7 @@
   "critique": "Encre violette. Les comptes, séparés du récit par un filet terminé en pointe de flèche, sont disposés en deux colonnes ; la journée se poursuit sur la page suivante (f.~31 r\\textsuperscript{o}), où d'autres dépenses précèdent une note sur la propriété de Mme de Labarthe.",
   "historique": "La « Mlle Calmels » de la messe anniversaire n'appartient pas à la fratrie de Marguerite (\\textit{PC-Annexe}) ; ce pourrait être Anne Calmels, sœur du Dr Gabriel Calmels, « célibataire, esprit religieux » (Combes 2020, p.~106). Sur l'abbé Crouzet, vicaire à la cathédrale, voir f.~29 v\\textsuperscript{o}. Le marché couvert de la place Victor-Hugo, halle métallique de Joseph Galinier (1890--1892), est le plus grand des marchés couverts de 1892 (Office de tourisme de Toulouse). Les « magasins Capitole » sont les grands magasins « Au Capitole » (\\textit{La Dépêche}, 8 août 1917, p.~3) ; « l'Automate », rue d'Alsace-Lorraine, n'a pas été identifié. Si la lecture « Castanet » est juste, le tram est celui de la ligne suburbaine Esquirol--Saint-Agne--Castanet (Wikipédia, « Ancien tramway de Toulouse »). Mme de Labarthe, « gde amie » visitée les 29 et 30 septembre (voir f.~28 v\\textsuperscript{o}), n'est pas identifiée. « B. Mm », peut-être « Bonne-Maman », désigne sans doute Mme Calmels, nommée « Mme Cl » le matin. Mme « Laudet » (?) reste inconnue.\n",
   "sources": [
-   "Combes, P., étude familiale « Famille Combes » (2020-2021), p. 106 ; livre familial dactylographié, annexe généalogique (Combes-annexe), archives familiales.",
+   "Combes, P., étude familiale « Famille Combes » (2020-2021), p. 106 ; livre familial dactylographié, annexe généalogique (PC-Annexe), archives familiales.",
    "Office de tourisme de Toulouse, notice « Marché couvert Victor Hugo », toulouse-tourisme.com, consultée le 18 oct. 2026.",
    "La Dépêche, 8 août 1917, p. 3, Rosalis, Bibliothèque de Toulouse.",
    "Wikipédia, « Ancien tramway de Toulouse » (d'après C. Lacombe et P. Malterre, Omnibus, tramways et autobus de Toulouse, éd. du Cabri, 1983), consulté le 18 oct. 2026."
@@ -8935,12 +8863,6 @@
     "lemme": "90^{f}",
     "type": "abreviation",
     "note": "90 francs"
-   },
-   {
-    "ligne": 5,
-    "lemme": "\\add{1916}",
-    "type": "ajout",
-    "note": "millésime écrit petit sous « Juillet »"
    },
    {
     "ligne": 6,
@@ -9096,7 +9018,7 @@
     "ligne": 11,
     "lemme": "des enfants",
     "type": "lecture",
-    "note": "des (d bouclé), non « les »"
+    "note": "des (d bouclé)"
    },
    {
     "ligne": 12,
@@ -9391,7 +9313,7 @@
     "ligne": 16,
     "lemme": "commence",
     "type": "ajout",
-    "note": "écrit petit sous la ligne, entre « Soleil » et « brille », sans correction de « brille »"
+    "note": "ajouté sans correction de « brille »"
    },
    {
     "ligne": 16,
@@ -9404,12 +9326,6 @@
     "lemme": "pr",
     "type": "abreviation",
     "note": "pour"
-   },
-   {
-    "ligne": 19,
-    "lemme": "par",
-    "type": "ajout",
-    "note": "écrit petit sous la ligne, entre « revenir » et « metro »"
    }
   ],
   "critique": "Le feuillet a été photographié verso d'abord : cette page (f.~32 v\\textsuperscript{o}) fait suite au récit du soir du 4 octobre (f.~32 r\\textsuperscript{o}). Encre violette ; plusieurs mots (l.~4, 11 et 12) ont été repassés et sont noyés d'encre.",
@@ -9447,9 +9363,9 @@
    },
    {
     "ligne": 1,
-    "lemme": "il y \\inc{en}",
-    "type": "ajout",
-    "note": "ajouté au-dessus de la ligne, entre « espéré » et « à » ; « en » : e empâté, jambage et long délié ; « eût » possible"
+    "lemme": "\\inc{en}",
+    "type": "lecture",
+    "note": "e empâté, jambage et long délié ; « eût » possible"
    },
    {
     "ligne": 1,
@@ -9474,12 +9390,6 @@
     "lemme": "6^{H}30 s",
     "type": "abreviation",
     "note": "6 heures 30 (du) soir"
-   },
-   {
-    "ligne": 7,
-    "lemme": "\\add{Paris}",
-    "type": "ajout",
-    "note": "écrit petit en tête du compte, entre le filet et le long trait d'attaque du M de « Métro » ; non barré"
    },
    {
     "ligne": 8,
@@ -9890,7 +9800,7 @@
     "ligne": 6,
     "lemme": "tourmentées",
     "type": "lecture",
-    "note": "deux e avant le s final (accord fautif) ; lu auparavant « tourmentés »"
+    "note": "deux e avant le s final (accord fautif)"
    },
    {
     "ligne": 6,
@@ -9944,7 +9854,7 @@
     "ligne": 14,
     "lemme": "chargé",
     "type": "lecture",
-    "note": "sans s ; lu auparavant « chargés »"
+    "note": "sans s"
    },
    {
     "ligne": 14,
@@ -9962,7 +9872,7 @@
     "ligne": 15,
     "lemme": "Pant",
     "type": "abreviation",
-    "note": "Panton ; le t se prolonge en un long délié plongeant ; lu auparavant « Panton »"
+    "note": "Panton ; le t se prolonge en un long délié plongeant"
    },
    {
     "ligne": 16,
@@ -10138,12 +10048,6 @@
     "lemme": "mervt",
     "type": "abreviation",
     "note": "merveilleusement"
-   },
-   {
-    "ligne": 15,
-    "lemme": "pleine",
-    "type": "ajout",
-    "note": "dans l'interligne inférieur, sous « lune »"
    },
    {
     "ligne": 16,
@@ -10942,7 +10846,7 @@
     "ligne": 2,
     "lemme": "Rien",
     "type": "lecture",
-    "note": "R bouclé et n final plongeant ; non « Lieu »"
+    "note": "R bouclé et n final plongeant"
    },
    {
     "ligne": 3,
@@ -10954,7 +10858,7 @@
     "ligne": 3,
     "lemme": "installations sommaires",
     "type": "lecture",
-    "note": "pluriel, s final plongeant aux deux mots ; non « installation sommaire »"
+    "note": "pluriel, s final plongeant aux deux mots"
    },
    {
     "ligne": 6,
@@ -11382,7 +11286,7 @@
     "ligne": 17,
     "lemme": "installé.",
     "type": "lecture",
-    "note": "point final, non « ! » : le trait vertical au-dessus est le jambage de « qq » (l. 16)"
+    "note": "point final : le trait vertical au-dessus est le jambage de « qq » (l. 16)"
    },
    {
     "ligne": 20,
@@ -11557,7 +11461,7 @@
     "ligne": 5,
     "lemme": "la long rues",
     "type": "lecture",
-    "note": "« la » (a fermé), non « le » ; comprendre « le long des rues »"
+    "note": "« la » (a fermé) ; comprendre « le long des rues »"
    },
    {
     "ligne": 6,
@@ -11860,9 +11764,9 @@
    },
    {
     "ligne": 3,
-    "lemme": "\\add{\\inc{tombent}}",
-    "type": "ajout",
-    "note": "mot ajouté au-dessus de « averses » ; seul tomb- est sûr (autres lectures possibles tombe, tombées)"
+    "lemme": "\\inc{tombent}",
+    "type": "lecture",
+    "note": "seul tomb- est sûr (autres lectures possibles : tombe, tombées)"
    },
    {
     "ligne": 5,
@@ -12104,7 +12008,7 @@
    }
   ],
   "critique": "La date du samedi 28 est alignée sur « Tjours gros nuages », la mention « Encore temps pluvieux » étant écrite plus haut, à sa droite. La fin de la page, plus pâle, est écrite d'une plume moins chargée.",
-  "historique": "Ces journées sont celles où, dit l'histoire officielle, les troupes, « froides et souvent mouillées jusqu'aux os », attendent une attaque « constamment remise mais jamais annulée » (OH 1916-II, p.~480). Le 7th Bedfordshire, relevé de Regina Trench le 25, cantonne à Albert et prépare l'attaque de la 54th Brigade sur Petit-Miraumont, remise de jour en jour « by weather » (JMO 7/Bedf, 26--31 oct. 1916). L'interprète, chargé surtout des rapports avec les habitants, n'a guère d'emploi dans une ville vidée de sa population (voir f.~39~v\\textsuperscript{o}). Le « R.F. » qui lui coupe les cheveux est sans doute un homme du 11th Royal Fusiliers, autre bataillon de la brigade (Becke 1938, p.~82). La lecture « R.E. », proposée ailleurs, en ferait un sapeur du génie. La coupe coûte 50~c, comme en septembre (f.~19~r\\textsuperscript{o}) ; elle ne coûtera plus que 30~c au printemps 1917 (f.~78~v\\textsuperscript{o}, 88~r\\textsuperscript{o}). L'église est la basilique Notre-Dame de Brebières et sa Vierge penchée (voir f.~42~r\\textsuperscript{o}).\n",
+  "historique": "Ces journées sont celles où, dit l'histoire officielle, les troupes, « froides et souvent mouillées jusqu'aux os », attendent une attaque « constamment remise mais jamais annulée » (OH 1916-II, p.~480). Le 7th Bedfordshire, relevé de Regina Trench le 25, cantonne à Albert et prépare l'attaque de la 54th Brigade sur Petit-Miraumont, remise de jour en jour « by weather » (JMO 7/Bedf, 26--31 oct. 1916). L'interprète, chargé surtout des rapports avec les habitants, n'a guère d'emploi dans une ville vidée de sa population (voir f.~39~v\\textsuperscript{o}). Le « R.F. » qui lui coupe les cheveux est sans doute un homme du 11th Royal Fusiliers, autre bataillon de la brigade (Becke 1938, p.~82). Si l'on lit « R.E. », il s'agirait d'un sapeur du génie (\\textit{Royal Engineers}). La coupe coûte 50~c, comme en septembre (f.~19~r\\textsuperscript{o}) ; elle ne coûtera plus que 30~c au printemps 1917 (f.~78~v\\textsuperscript{o}, 88~r\\textsuperscript{o}). L'église est la basilique Notre-Dame de Brebières et sa Vierge penchée (voir f.~42~r\\textsuperscript{o}).\n",
   "sources": [
    "Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 480.",
    "Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).",
@@ -12545,7 +12449,7 @@
     "ligne": 6,
     "lemme": "\\inc{Lépin}",
     "type": "lecture",
-    "note": "L bouclé, lettre à haste descendante, minimes ; autres lectures : Lupin (cf. 023), Ligné"
+    "note": "L bouclé, lettre à haste descendante, minimes ; autres lectures : Lupin (cf. f. 12 r°), Ligné"
    },
    {
     "ligne": 7,
@@ -12668,12 +12572,6 @@
   "titre": "Visite au major Levy à Raincheval ; aller-retour à Albert ; solde de la Mission",
   "transcription": "après le diner, \\add{course} en auto à Raincheval.\nVu major Levy, of the D.O.S.T.\nNuit très noire. — Couché assz tard\n\\crochet{3}Donné à Victor Duchateau : 5^{f} —\nMess, octobre : 47^{f} 70\nAcheux : c^{tes} p^{les} : 15 c\n\\filet\n\\sl{3 Ve} matin, ciel couvert, 1 peu de soleil\n\\ind[2] l'après-midi\nPartis en auto avec L^{t} Curtis. Resté à Albert\net revenu seul s/ 1 lorry \\trait Routes\nmauvaises et sillonnées de vehicules divers\nRevenu au camp, 152 Coy et au\nbureau mission.\n\\ind après lunch, 2^{H} 30, Acheux\npassé journée ds ma chambre. — au bureau\n\\blanc{2}\n— Mission, Albert : 58^{f} 75 (30^{f} retenus pour\n\\droite 6 jours de permission)\n",
   "apparat": [
-   {
-    "ligne": 1,
-    "lemme": "\\add{course}",
-    "type": "ajout",
-    "note": "« course » écrit au-dessus de « en auto »"
-   },
    {
     "ligne": 2,
     "lemme": "of the",
@@ -12831,12 +12729,6 @@
    },
    {
     "ligne": 3,
-    "lemme": "\\add{au}",
-    "type": "ajout",
-    "note": "« au » ajouté petit sous la ligne, entre « pied. » et « Retour »"
-   },
-   {
-    "ligne": 3,
     "lemme": "s/",
     "type": "abreviation",
     "note": "sur"
@@ -12987,7 +12879,7 @@
     "ligne": 2,
     "lemme": "brillé",
     "type": "lecture",
-    "note": "court trait d'accent après la finale ; on a lu brille"
+    "note": "court trait d'accent après la finale"
    },
    {
     "ligne": 4,
@@ -13035,7 +12927,7 @@
     "ligne": 12,
     "lemme": "propre",
     "type": "abreviation",
-    "note": "propriétaire ; on a lu proprre"
+    "note": "propriétaire"
    },
    {
     "ligne": 12,
@@ -13076,14 +12968,14 @@
    {
     "ligne": 15,
     "lemme": "\\add{\\ill}",
-    "type": "ajout",
-    "note": "court mot (aspect « aà ») écrit dans l'interligne au-dessus du blanc laissé entre du et corps, non déchiffré"
+    "type": "lecture",
+    "note": "court tracé d'aspect « aà »"
    },
    {
     "ligne": 17,
     "lemme": "\\inc{Tt a fait}",
     "type": "lecture",
-    "note": "tout à fait (lecture incertaine) ; on a lu Très"
+    "note": "tout à fait (lecture incertaine)"
    },
    {
     "ligne": 17,
@@ -13258,7 +13150,7 @@
     "note": "ligne de feu"
    }
   ],
-  "critique": "Encre violette. Quelques mots d'une encre plus pâle, brunâtre (« or — », « mortes », « 152 Coy », le nom de Léalvillers et la parenthèse vide qui le suit) paraissent écrits ou repassés après coup, peut-être dans des blancs réservés.",
+  "critique": "Encre violette. Quelques mots d'une encre plus pâle, brunâtre (« or — », « mortes », « 152 Coy ») paraissent écrits ou repassés après coup, peut-être dans des blancs réservés.",
   "historique": "Belle-Église, hameau d'Arquèves à 3~km à l'ouest d'Acheux, était en juillet 1916 une tête de ligne des vivres (OH 1916-I, p.~274) ; la ferme, tenue par une fermière belge, verra en décembre des battages pour l'armée (f.~54~r\\textsuperscript{o}). La « question de pétrole » (voir f.~46~v\\textsuperscript{o}) porte peut-être sur l'essence, livrée en bidons emballés en caisses (\\textit{Statistics} 1922, p.~846). À Coisy, au nord d'Amiens, a lieu le premier achat de paille et de foin noté : l'interprète « sert d'intermédiaire pour les approvisionnements ou les réquisitions de paille et de foin » (Tessan, dans Fernand-Laurent 1917, p.~XIV) ; la paille complète le fourrage et sert de couchage, à 4 livres par homme et par semaine en hiver (Puckle 1917, p.~28). Le flot du 7, route de Léalvillers (voir f.~47~r\\textsuperscript{o}), accompagne la préparation de l'attaque de l'Ancre, « constamment remise mais jamais annulée » (OH 1916-II, p.~480), que Gough décide le 8 au soir de lancer si la pluie ne reprend pas (ibid., p.~462) ; elle part le 13.\n",
   "sources": [
    "Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274.",
@@ -13574,12 +13466,6 @@
     "note": "esperluette nette (petite boucle, haste plongeante)"
    },
    {
-    "ligne": 4,
-    "lemme": "\\add{lourds}",
-    "type": "ajout",
-    "note": "mot ajouté dans l'interligne, au-dessus de la fin de véhicules"
-   },
-   {
     "ligne": 7,
     "lemme": "Beauq\\lac",
     "type": "lecture",
@@ -13653,12 +13539,6 @@
    },
    {
     "ligne": 16,
-    "lemme": "\\del{\\inc{autos}}",
-    "type": "rature",
-    "note": "mot biffé, noyé sous l'encre ; autos conjectural"
-   },
-   {
-    "ligne": 16,
     "lemme": "cars",
     "type": "emprunt",
     "note": "voitures automobiles (anglais cars)"
@@ -13725,9 +13605,9 @@
    },
    {
     "ligne": 23,
-    "lemme": "\\add{0.40}",
-    "type": "ajout",
-    "note": "prix unitaire écrit au-dessus de 10"
+    "lemme": "0.40",
+    "type": "compte",
+    "note": "prix unitaire (40 centimes)"
    },
    {
     "ligne": 23,
@@ -13737,9 +13617,9 @@
    },
    {
     "ligne": 23,
-    "lemme": "\\add{0.25}",
-    "type": "ajout",
-    "note": "prix unitaire écrit au-dessus de 3"
+    "lemme": "0.25",
+    "type": "compte",
+    "note": "prix unitaire (25 centimes)"
    },
    {
     "ligne": 23,
@@ -14006,7 +13886,7 @@
     "ligne": 11,
     "lemme": "Russie",
     "type": "lecture",
-    "note": "Russie, finale -ie pointée ; non « Russia »"
+    "note": "Russie (finale -ie pointée)"
    },
    {
     "ligne": 12,
@@ -14200,9 +14080,9 @@
    },
    {
     "ligne": 17,
-    "lemme": "Carnet \\inc{60}",
-    "type": "ajout",
-    "note": "ajouté au-dessus de « Timbres » ; montant serré, lecture incertaine (60 ou 50)"
+    "lemme": "\\inc{60}",
+    "type": "lecture",
+    "note": "montant serré, lecture incertaine (60 ou 50)"
    },
    {
     "ligne": 18,
@@ -14367,9 +14247,9 @@
    },
    {
     "ligne": 19,
-    "lemme": "\\add{\\inc{assis}}",
-    "type": "ajout",
-    "note": "mot écrit petit sous « reposé » ; aussi possible"
+    "lemme": "\\inc{assis}",
+    "type": "lecture",
+    "note": "« aussi » possible"
    },
    {
     "ligne": 19,
@@ -14414,7 +14294,7 @@
     "note": "1 franc 25 ; 5 en haute boucle descendante, sans f monétaire ; 1 2 f. possible"
    }
   ],
-  "critique": "Encre noire virée au brun. Un mot de la description des selles est fortement repassé et un pâté d'encre couvre le début de la ligne précédente.",
+  "critique": "Encre noire virée au brun.",
   "historique": "Le logeur-tailleur, dont le nom pourrait aussi se lire « Carlumont », est sans doute le propriétaire du n°~1, route de Léalvillers, où Hippolyte Combes loge depuis le 5 novembre (voir f.~47~r\\textsuperscript{o}) ; il lui annoncera le 1\\textsuperscript{er} janvier 1917 qu'il doit quitter la maison (f.~59~r\\textsuperscript{o}) et lui offrira, avec sa femme, un déjeuner le 7 février (f.~73~r\\textsuperscript{o}). Les 75~c de la retouche sont à comparer aux 38~f payés à Toulouse pour la façon d'une tunique (f.~31~r\\textsuperscript{o}) ; la note de blanchissage, 1~f~25, est au plus haut de celles d'octobre 1916 à avril 1917, qui vont de 50~c à 1~f~25. La course du 23 mène vers le nord-ouest, dans la vallée de l'Authie : Amplier (Pas-de-Calais) est à une douzaine de kilomètres d'Acheux, Authieule aux portes de Doullens ; Authie avait abrité au 1\\textsuperscript{er} juillet l'un des deux centres opératoires avancés de la bataille (OH 1916-I, p.~282). Il s'agit sans doute de prospecter la paille et le fourrage des fermes, objet de la mission d'Hippolyte Combes depuis le 2 novembre.\n",
   "sources": [
    "Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 282."
@@ -14501,9 +14381,9 @@
    },
    {
     "ligne": 10,
-    "lemme": "\\add{\\inc{fille}}",
-    "type": "ajout",
-    "note": "mot écrit petit sous « Royer » ; lecture incertaine (ville ?)"
+    "lemme": "\\inc{fille}",
+    "type": "lecture",
+    "note": "« ville » possible"
    },
    {
     "ligne": 10,
@@ -14633,15 +14513,9 @@
    },
    {
     "ligne": 3,
-    "lemme": "\\del{lamentable}",
-    "type": "rature",
-    "note": "« lamentable » biffé"
-   },
-   {
-    "ligne": 3,
     "lemme": "\\inc{rendormi}",
     "type": "lecture",
-    "note": "lecture retenue rendormi (non « rien à faire ») ; autre lecture : endormi"
+    "note": "lecture retenue rendormi ; autre lecture : endormi"
    },
    {
     "ligne": 5,
@@ -14665,7 +14539,7 @@
     "ligne": 5,
     "lemme": "\\inc{Vali}",
     "type": "lecture",
-    "note": "nom commençant par V-a, non « Bertin » ; autres lectures : Vahi, Valin"
+    "note": "nom commençant par V-a ; autres lectures : Vahi, Valin"
    },
    {
     "ligne": 6,
@@ -14910,7 +14784,7 @@
     "ligne": 21,
     "lemme": "\\inc{1}^{h}",
     "type": "lecture",
-    "note": "1 heure (chiffre en simple haste) ; on a lu aussi 4 h"
+    "note": "1 heure (chiffre en simple haste)"
    },
    {
     "ligne": 21,
@@ -15781,12 +15655,6 @@
    {
     "ligne": 3,
     "lemme": "ruisseaux",
-    "type": "ajout",
-    "note": "mot écrit sous recouvertes, dans le blanc de droite de la l. 4"
-   },
-   {
-    "ligne": 3,
-    "lemme": "ruisseaux",
     "type": "lecture",
     "note": "lecture incertaine (r, u, i, s long descendant, e, a, x final) ; autres lectures possibles : rugueux, visqueux"
    },
@@ -15950,9 +15818,9 @@
    },
    {
     "ligne": 4,
-    "lemme": "\\add{tr}",
-    "type": "ajout",
-    "note": "tr (très) ajouté au-dessus de la ligne"
+    "lemme": "tr",
+    "type": "abreviation",
+    "note": "très"
    },
    {
     "ligne": 4,
@@ -16057,7 +15925,7 @@
     "note": "grand"
    }
   ],
-  "critique": "Le feuillet 56 a été photographié verso d'abord : ce recto fait suite au f.~55~v\\textsuperscript{o}. Dans le compte du 19, ouvert par un grand crochet, « Solde etc » et le montant sont d'une encre brune plus pâle, sans doute portés après coup ; un filet sépare la journée du 20.",
+  "critique": "Le feuillet 56 a été photographié verso d'abord : ce recto fait suite au f.~55~v\\textsuperscript{o}. Le compte du 19 est ouvert par un grand crochet et séparé par un filet de la journée du 20.",
   "historique": "L'« Army P. Board » est l'\\textit{Army Purchase Board} du major Levy, à Raincheval (voir f.~46~r\\textsuperscript{o}) : chaque armée avait le sien, qui achetait paille et fourrages, gérait presses et batteuses et devait constituer, si le pays le permettait, une réserve d'environ 3~000 tonnes de paille pressée (Puckle 1917, p.~28). Le bureau de la Mission « XIIIe C. » d'Acheux est celui du XIII Corps de Congreve, qui tient la gauche de la Fifth Army (OH 1917-I, p.~66) et a pris Hippolyte Combes en charge le 1\\textsuperscript{er} décembre (voir f.~52~v\\textsuperscript{o}). Annoncés pour le 17 (f.~53~r\\textsuperscript{o}), les 84~F font seize jours à 5,25~F (voir f.~40~r\\textsuperscript{o}). La carte de Noël, à 70~c, coûte sept à quatorze fois une carte postale, payée 5 ou 10~c ailleurs dans le carnet (f.~50~r\\textsuperscript{o}). Beauquesne avait reçu en juin 1916 le QG avancé de Haig, au château de Valvion (OH 1916-I, p.~304) ; Hippolyte Combes y traitera le 26 avec Mme Capron de la location d'une batteuse (f.~57~v\\textsuperscript{o}). Sur la ferme du Quesnoy, voir f.~55~v\\textsuperscript{o}.\n",
   "sources": [
    "Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 28.",
@@ -16106,7 +15974,7 @@
     "ligne": 5,
     "lemme": "à",
     "type": "lecture",
-    "note": "« à » rejeté en bout de ligne (non « de »)"
+    "note": "« à » rejeté en bout de ligne"
    },
    {
     "ligne": 7,
@@ -16154,7 +16022,7 @@
     "ligne": 13,
     "lemme": "rafale",
     "type": "lecture",
-    "note": "singulier, sans s final (non « rafales »)"
+    "note": "singulier, sans s final"
    },
    {
     "ligne": 14,
@@ -16421,7 +16289,7 @@
     "note": "grand"
    }
   ],
-  "critique": "Encre gris-noir virée au brun, homogène ; une seule journée, sans filet, et le bas de la page laissé blanc. Le premier mot de la l.~3 est noyé dans un pâté d'encre, sans être biffé.",
+  "critique": "Encre gris-noir virée au brun, homogène ; une seule journée, sans filet, et le bas de la page laissé blanc.",
   "historique": "Noël, que la page ne nomme pas, est un jour de repos à Acheux. Le « propos fâcheux » est le « Bloody France » de la veille, à Louvencourt (voir f.~56~v\\textsuperscript{o}) ; la « Mission fr\\textsuperscript{se} » est le bureau du XIII Corps à Acheux, où il touche sa solde (f.~56~r\\textsuperscript{o}). Le carnet ne dit pas qu'un rapport ait été fait : après un nouveau mot « très regrettable » le 30, Hippolyte Combes choisit l'explication directe et obtient des excuses (f.~58~v\\textsuperscript{o}). Le soir, la hutte de la Y.M.C.A. devenait salle de concert, pour des amateurs pris dans la troupe (Fernand-Laurent 1917, p.~94-95) ; l'entrée était en principe gratuite (Yapp 1918, chap.~IV), mais Hippolyte Combes paiera 30~c le 28 pour les « 13th Corps Archie Singers » (f.~58~r\\textsuperscript{o}). Le silence de la nuit répond à l'arrêt des opérations que pluie et boue imposent depuis la mi-novembre (OH 1917-I, p.~65). La lettre de Marguerite du 17 ouvre une crise des fiançailles ignorée de la tradition familiale ; apaisée dès ce soir, elle s'efface à la permission de janvier (f.~66~v\\textsuperscript{o}).\n",
   "sources": [
    "Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, préface de F. de Tessan, Paris, Boivin, 1917, p. 94-95.",
@@ -16822,9 +16690,9 @@
    },
    {
     "ligne": 21,
-    "lemme": "\\add{très} (déprimé",
-    "type": "ajout",
-    "note": "très au-dessus de (déprimé, écrit dans le blanc à droite ; parenthèse non refermée"
+    "lemme": "(déprimé",
+    "type": "disposition",
+    "note": "écrit dans le blanc à droite ; parenthèse non refermée"
    },
    {
     "ligne": 22,
@@ -16869,7 +16737,7 @@
     "note": "total faux : 45 + 10 + 1 + 22 = 78 fr"
    }
   ],
-  "critique": "Un filet sépare les deux journées. Le dernier poste du compte de mess (« 22 fr ») et le total sont, au moins en partie, d'une encre violette, ajoutés après coup à une page écrite à l'encre noire ; « paraît », « très » et « (déprimé » sont serrés en fin de ligne et dans le blanc de droite.",
+  "critique": "Page écrite à l'encre noire ; un filet sépare les deux journées.",
   "historique": "Hippolyte Combes est passé le 1\\textsuperscript{er} décembre à Franvillers, à 12~km au sud d'Acheux (voir f.~52~v\\textsuperscript{o}) ; le « trio de vieux », non identifié, vient de Martinsart, resté « proche de la ligne de front jusqu'en septembre 1916 » (CWGC ; voir f.~52~r\\textsuperscript{o}). Senlis-le-Sec abrite alors le QG du IV Corps (1\\textsuperscript{er} déc. 1916 – 21 janv. 1917 : LLT). Le « mot très regrettable » de Williams, capitaine de vingt ans, ancien \\textit{office boy} (f.~53~v\\textsuperscript{o}), suit de six jours la « gaffe » du 24 décembre chez Mme Cuisinier, à Louvencourt (« Bloody France etc. ! »), qu'Hippolyte Combes hésitait à signaler à la Mission (f.~56~v\\textsuperscript{o}, 57~r\\textsuperscript{o}) ; la prière « de ne pas le quitter » suggère que l'interprète a parlé de partir. Pour Belle-Église, voir f.~53~r\\textsuperscript{o}. Les quatre postes du mess font 78~F, non 88 : l'erreur porte sur les ajouts à l'encre violette. Même corrigée, la dépense absorbe près de la moitié des 162,75~F touchés par Hippolyte Combes en décembre (calcul de l'éditeur, d'après le carnet).\n",
   "sources": [
    "Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).",
@@ -16935,8 +16803,8 @@
    {
     "ligne": 9,
     "lemme": "\\del{\\ill}",
-    "type": "rature",
-    "note": "mot d'environ huit lettres noyé sous un zigzag serré ; « nouveau » possible, invérifiable"
+    "type": "lecture",
+    "note": "« nouveau » possible"
    },
    {
     "ligne": 9,
@@ -16999,7 +16867,7 @@
     "note": "1 franc, puis tiret : les traces brunes à droite sont la transparence du verso"
    }
   ],
-  "critique": "Encre noire virée au brun, homogène, y compris le petit « par » inséré après coup entre « fatigué » et « Plusieurs ». Les deux journées ne sont séparées que par un blanc ; les comptes, sous un grand crochet, réunissent des achats des deux jours.",
+  "critique": "Encre noire virée au brun, homogène. Les deux journées ne sont séparées que par un blanc ; les comptes, sous un grand crochet, réunissent des achats des deux jours.",
   "historique": "La douceur concorde avec l'histoire officielle : le temps s'améliore au début de janvier et le gel ne s'installe que le 14 (OH 1917-I, p.~66). La course de l'après-midi, par Authie (voir f.~54~v\\textsuperscript{o}) et Pas-en-Artois, gagne Saulty, sur la grande route de Doullens à Arras, à l'arrière du front de la Third Army (Miles 1938, p.~543, n.~3). Le logeur-tailleur Carluvant [?] (f.~47~r\\textsuperscript{o}, 51~r\\textsuperscript{o}) n'est sans doute que locataire ; Hippolyte Combes loge encore chez lui le 7 février, quand il part pour Hérissart (f.~73~r\\textsuperscript{o}). La ferme Cuisinier de Louvencourt est celle de la « gaffe » de Williams (f.~56~v\\textsuperscript{o}) ; l'« expertise » prépare peut-être une indemnité. Pour Belle-Église et le Quesnoy, voir f.~53~r\\textsuperscript{o}, 58~r\\textsuperscript{o}. La poudre phéniquée de Calvert, de Manchester, eut vers 1906 « the largest sale of any dentifrice in the world » (Grace's Guide). Les « nails on » du 2 janvier suivent de trois jours les clous posés aux bottes (f.~58~v\\textsuperscript{o}).\n",
   "sources": [
    "Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.",
@@ -17121,7 +16989,7 @@
     "ligne": 20,
     "lemme": "+10 C^{te} ple : 20c",
     "type": "lecture",
-    "note": "dix cartes postales de plus pour 20 c ; « +10 » écrit haut, au-dessus du tiret (non « 10 c. »)"
+    "note": "dix cartes postales de plus pour 20 c ; « +10 » écrit haut, au-dessus du tiret"
    },
    {
     "ligne": 21,
@@ -17604,12 +17472,6 @@
     "note": "m-o-u puis haute haste et t ; autre lecture possible mouvt"
    },
    {
-    "ligne": 15,
-    "lemme": "\\del{seul}",
-    "type": "rature",
-    "note": "« seul » biffé"
-   },
-   {
     "ligne": 16,
     "lemme": "Ve",
     "type": "abreviation",
@@ -17659,12 +17521,6 @@
     "lemme": "Janv. 17",
     "type": "abreviation",
     "note": "janvier 1917"
-   },
-   {
-    "ligne": 2,
-    "lemme": "(neige fondue)",
-    "type": "ajout",
-    "note": "ajout interlinéaire, sous « fine et »"
    },
    {
     "ligne": 6,
@@ -17969,7 +17825,7 @@
     "ligne": 6,
     "lemme": "\\inc{confondent}",
     "type": "lecture",
-    "note": "une seule boucle et deux jambages entre le d et le t, sans point d'i ; on a lu « confondaient »"
+    "note": "une seule boucle et deux jambages entre le d et le t, sans point d'i"
    },
    {
     "ligne": 10,
@@ -18065,13 +17921,13 @@
     "ligne": 10,
     "lemme": "Cuis^{r}",
     "type": "abreviation",
-    "note": "Cuisinier (cf. 112, 118)"
+    "note": "Cuisinier (cf. f. 56 v°, 59 r°)"
    },
    {
     "ligne": 11,
     "lemme": "\\inc{kil'g.}",
     "type": "lecture",
-    "note": "kilomètres ; petit trait suscrit après l, puis g (ou 9) à longue descente ; autres lectures : « kilog. », « kil 9 » (2,9 km, cf. 033 « 2 kil 5 »)"
+    "note": "kilomètres ; petit trait suscrit après l, puis g (ou 9) à longue descente ; autres lectures : « kilog. », « kil 9 » (2,9 km, cf. f. 17 r° « 2 kil 5 »)"
    },
    {
     "ligne": 14,
@@ -18339,9 +18195,9 @@
    },
    {
     "ligne": 9,
-    "lemme": "\\add{\\inc{en} compartiment}",
-    "type": "ajout",
-    "note": "écrit petit dans l'interligne inférieur, au bout de la ligne ; premier mot : en ou un"
+    "lemme": "\\inc{en}",
+    "type": "lecture",
+    "note": "en ou un"
    },
    {
     "ligne": 10,
@@ -18634,9 +18490,9 @@
    },
    {
     "ligne": 12,
-    "lemme": "(2^{H} de retard)",
-    "type": "ajout",
-    "note": "ajout interlinéaire en petit module, au-dessus de «, train »"
+    "lemme": "2^{H}",
+    "type": "abreviation",
+    "note": "deux heures"
    },
    {
     "ligne": 12,
@@ -18673,12 +18529,6 @@
     "lemme": "de Orsay",
     "type": "lecture",
     "note": "e net, lié au d ; petit trait pointé au-dessus de l'O (apostrophe ?) ; pour gare d'Orsay"
-   },
-   {
-    "ligne": 18,
-    "lemme": "en 10 minutes",
-    "type": "ajout",
-    "note": "ajout interlinéaire au-dessus de « enregistrer »"
    },
    {
     "ligne": 18,
@@ -19314,12 +19164,6 @@
     "note": "1 franc 25"
    },
    {
-    "ligne": 17,
-    "lemme": "(moyen format)",
-    "type": "ajout",
-    "note": "écrit petit sous « velin : 1 f 25 », au-dessus de la ligne suivante"
-   },
-   {
     "ligne": 19,
     "lemme": "Trams",
     "type": "abreviation",
@@ -19515,7 +19359,7 @@
     "ligne": 19,
     "lemme": "1 \\inc{90}.",
     "type": "lecture",
-    "note": "1 franc 90 ; non « 1 f 10 »"
+    "note": "1 franc 90"
    },
    {
     "ligne": 19,
@@ -19620,12 +19464,6 @@
    },
    {
     "ligne": 9,
-    "lemme": "gare, à propos panier fleurs",
-    "type": "ajout",
-    "note": "écrit dans l'interligne, au-dessus de « Nazareth »"
-   },
-   {
-    "ligne": 9,
     "lemme": "tte",
     "type": "abreviation",
     "note": "toute ; lecture incertaine, tracés serrés sous les jambages de la ligne supérieure (ts possible)"
@@ -19682,7 +19520,7 @@
     "ligne": 18,
     "lemme": "boulangeon",
     "type": "lecture",
-    "note": "finale -geon nette (non « boulanger ») ; un jambage de plus après ou : bourlangeon possible ; même mot l. 20"
+    "note": "finale -geon nette ; un jambage de plus après ou : bourlangeon possible ; même mot l. 20"
    },
    {
     "ligne": 19,
@@ -20042,7 +19880,7 @@
   "sources": [
    "Baedeker, K., Southern France including Corsica, 6e éd., Leipzig, Baedeker, 1914, p. 106-107 et 282-287.",
    "Acte de naissance de Marie Lucien Hippolyte Combes, Millau, n° 395, 16 août 1876 (archives familiales).",
-   "Combes, P., annexe du livre familial dactylographié (Combes-annexe) et arbre généalogique (2020), p. 106 (archives familiales).",
+   "Combes, P., annexe du livre familial dactylographié (PC-Annexe) et arbre généalogique (2020), p. 106 (archives familiales).",
    "Le Télégramme (Toulouse), 5 févr. 1915, p. 2 (abbé Crouzet, Rosalis, ark:/12148/bd6t53865791z)."
   ]
  },
@@ -20202,12 +20040,6 @@
    },
    {
     "ligne": 2,
-    "lemme": "\\add{chambre}",
-    "type": "ajout",
-    "note": "Ajouté au-dessus de la ligne, entre le premier mot et « hier »"
-   },
-   {
-    "ligne": 2,
     "lemme": "11^{h} 1/4",
     "type": "abreviation",
     "note": "onze heures un quart"
@@ -20267,7 +20099,7 @@
     "note": "appartement"
    }
   ],
-  "critique": "Encre violette. Le mot « chambre » est ajouté dans l'interligne au-dessus de la deuxième ligne, dont le premier mot, repassé à l'encre épaisse, reste douteux. La dernière phrase se poursuit en tête du f.~71~r\\textsuperscript{o}.",
+  "critique": "Encre violette. La dernière phrase se poursuit en tête du f.~71~r\\textsuperscript{o}.",
   "historique": "Première nuit d'Hippolyte Combes dans la maison Calmels, que la tradition familiale situe au 10, rue Alfred-Guibert et que bâtit le D\\textsuperscript{r} Gabriel Calmels (1852–1921), médecin à Millau (acte de naissance de Marguerite, 1892 ; PC-Annexe). La « pleine lune » n'atteindra son plein que le 7 février, à 3~h~28 (Calendar-12). Le « vallon natal » ravive les deuils : son père, l'avocat Hippolyte Combes, est mort à Millau le 11 août 1899, sa mère, Anaïs Alric, à Toulouse en 1907 ; Maria, religieuse missionnaire, est morte à Carthage le 19 novembre 1903, et Joséphine, qui tenait son ménage, à Nogent-le-Rotrou en octobre 1914 ; seule Françoise vit encore, carmélite à Périgueux (PC-Livre ; PC-Bio). Les parents et Joséphine reposent au caveau Combes, où il se rend le lendemain avec Marguerite (f.~71~v\\textsuperscript{o}). « Germaine » est sans doute Germaine Vincens, nièce de Marguerite, fille de Madeleine Calmels et du D\\textsuperscript{r} Fernand Vincens, âgée de six ans au mariage (PC-Bio). La messe est celle du dimanche de la Septuagésime, Pâques tombant le 8 avril 1917.\n",
   "sources": [
    "Acte de naissance de Marie Marguerite Calmels, état civil de Millau (Aveyron), 16 avril 1892 (archives familiales).",
@@ -20839,12 +20671,6 @@
     "note": "plus (de plus en plus vif)"
    },
    {
-    "ligne": 5,
-    "lemme": "30",
-    "type": "ajout",
-    "note": "écrit en petit module sous « minuit »"
-   },
-   {
     "ligne": 6,
     "lemme": "Y.M.C.A.",
     "type": "abreviation",
@@ -21045,7 +20871,7 @@
     "ligne": 18,
     "lemme": "\\inc{Chatelain}",
     "type": "lecture",
-    "note": "lecture incertaine, appuyée sur le point d'i posé après le nom ; autre lecture Chalelton ; non « Charlet »"
+    "note": "lecture incertaine, appuyée sur le point d'i posé après le nom ; autre lecture : Chalelton"
    },
    {
     "ligne": 19,
@@ -21060,7 +20886,7 @@
     "note": "grands"
    }
   ],
-  "critique": "Deux pâtés d'encre couvrent le début de « Hérissart » (l.~5) et la fin de la l.~9 ; le nom « Delille » est repassé. La page s'achève sur un long paraphe montant.",
+  "critique": "Le nom « Delille » est repassé. La page s'achève sur un long paraphe montant.",
   "historique": "Ni Mme Delille, dont le « guichet » n'est pas précisé (poste, boutique ?), ni le capitaine Williams, venu le 2 décembre remplacer Curtis (f.~52~v\\textsuperscript{o}), ne sont identifiés. Le bureau de la Mission française d'Acheux, celui du V Corps depuis la mi-janvier (f.~61~v\\textsuperscript{o}), sert de relais de messages et de téléphone aux interprètes isolés. Hérissart (Somme), à une dizaine de kilomètres au sud-ouest d'Acheux, n'est qu'à 3~km de Toutencourt, QG de la Fifth Army jusqu'au 28 mars 1917 (OH 1916-I, p.~304 ; LLT), où siège aussi le bureau de la Mission de la V\\textsuperscript{e} Armée (f.~52~v\\textsuperscript{o}). L'auto passe par Raincheval, où se tenait en décembre l'\\textit{Army Purchase Board} (f.~56~r\\textsuperscript{o}), et par Puchevillers, siège de deux hôpitaux d'évacuation jusqu'en mars 1917 (LLT). Le café « Chalelton » (lecture incertaine ; « Charlet » possible) n'est pas identifié ; l'église, visible de sa fenêtre, est dédiée à saint Martin (Palissy PM80005288).\n",
   "sources": [
    "Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 304.",
@@ -21642,7 +21468,7 @@
     "ligne": 7,
     "lemme": "doux",
     "type": "lecture",
-    "note": "lecture retenue : haste sans panse fermée, o-u, x croisé ; autre lecture possible : beau (ancienne transcription)"
+    "note": "lecture retenue : haste sans panse fermée, o-u, x croisé ; autre lecture possible : beau"
    },
    {
     "ligne": 8,
@@ -21751,12 +21577,6 @@
     "lemme": "vide & triste",
     "type": "lecture",
     "note": "sans s finales (vides & tristes attendu)"
-   },
-   {
-    "ligne": 10,
-    "lemme": "\\add{une}",
-    "type": "ajout",
-    "note": "ajouté dans l'interligne supérieur"
    },
    {
     "ligne": 11,
@@ -22112,7 +21932,7 @@
     "note": "68 francs 25 centimes"
    }
   ],
-  "critique": "Encre violette uniforme ; un pâté couvre en partie « plus » (l.~7). La solde touchée à Toutencourt est notée en bas à droite, entre deux grands crochets.",
+  "critique": "Encre violette uniforme ; un pâté couvre en partie « plus » (l.~7).",
   "historique": "Le samedi 17, qu'Hippolyte Combes passe au repos, la 18th Division attaque à Boom Ravine dans la boue du dégel (voir f.~75~v\\textsuperscript{o}) ; son historien tient ce jour pour « the first day of the thaw » (Nichols 1922, p.~140). Les « fondrières » du 18 rejoignent le constat officiel : sur les routes de l'arrière, même les voitures légères crèvent la mince croûte d'empierrement, et il faut fermer des routes et délivrer des passes aux camions (OH 1917-I, p.~103). À Toutencourt, le bureau de la Mission française de la Fifth Army (voir f.~52~v\\textsuperscript{o}) paie la solde à la date annoncée le 9 février, les 3 et 18 de chaque mois (voir f.~75~r\\textsuperscript{o}) ; les 68~F~25 font treize jours à 5~F~25 (calcul de l'éditeur). Le renseignement demandé sur un « cantonnement d anglais, à Toulouse » n'est pas expliqué : peut-être Hippolyte Combes s'enquiert-il d'un poste auprès de troupes britanniques dans la ville où il a son domicile et où vit sa fiancée (voir f.~63~v\\textsuperscript{o} et suiv.). Le prône est l'instruction faite en chaire par le curé pendant la grand-messe.\n",
   "sources": [
    "Nichols, G. H. F., The 18th Division in the Great War, Édimbourg et Londres, W. Blackwood & Sons, 1922, p. 140.",
@@ -22226,7 +22046,7 @@
     "ligne": 15,
     "lemme": "Hair",
     "type": "lecture",
-    "note": "H à deux hastes reliées par une traverse, comme dans Hérissart (l. 25) ; la première haste avait été lue « 1 »"
+    "note": "H à deux hastes reliées par une traverse, comme dans Hérissart (l. 25)"
    },
    {
     "ligne": 15,
@@ -22362,7 +22182,7 @@
     "ligne": 15,
     "lemme": "à peu",
     "type": "lecture",
-    "note": "a et accent (et non « 1 peu »)."
+    "note": "a et accent."
    },
    {
     "ligne": 16,
@@ -22913,12 +22733,6 @@
     "note": "dans"
    },
    {
-    "ligne": 15,
-    "lemme": "\\del{\\ill}",
-    "type": "rature",
-    "note": "mot court noyé sous la biffure"
-   },
-   {
     "ligne": 16,
     "lemme": "Cap",
     "type": "abreviation",
@@ -23004,7 +22818,7 @@
     "ligne": 4,
     "lemme": "entier^{t}",
     "type": "abreviation",
-    "note": "entièrement (t suscrit barré ; non « entière »)"
+    "note": "entièrement (t suscrit barré)"
    },
    {
     "ligne": 4,
@@ -23413,7 +23227,7 @@
     "ligne": 6,
     "lemme": "6",
     "type": "lecture",
-    "note": "chiffre 6 (boucle basse fermée), isolé entre « ce » et « derniers » ; lu auparavant « ces derniers »"
+    "note": "chiffre 6 (boucle basse fermée), isolé entre « ce » et « derniers »"
    },
    {
     "ligne": 7,
@@ -23431,7 +23245,7 @@
     "ligne": 8,
     "lemme": "monté",
     "type": "lecture",
-    "note": "lecture douteuse (attaque de m, jambages, t barré) ; peut-être un nom propre ; lu auparavant « nouvl »"
+    "note": "lecture douteuse (attaque de m, jambages, t barré) ; peut-être un nom propre"
    },
    {
     "ligne": 8,
@@ -23477,12 +23291,6 @@
    },
    {
     "ligne": 17,
-    "lemme": "mauvais",
-    "type": "lecture",
-    "note": "lu auparavant « maussade »"
-   },
-   {
-    "ligne": 17,
     "lemme": "&",
     "type": "abreviation",
     "note": "et"
@@ -23497,13 +23305,7 @@
     "ligne": 18,
     "lemme": "penché",
     "type": "lecture",
-    "note": "c puis h bouclé, sans t barré ni r ; lu auparavant « pénétré »"
-   },
-   {
-    "ligne": 19,
-    "lemme": "mon",
-    "type": "ajout",
-    "note": "au-dessus de la ligne, entre « pris » et « parti »"
+    "note": "c puis h bouclé, sans t barré ni r"
    }
   ],
   "critique": "Encre violette sur toute la page ; les trois dernières lignes, d'un module nettement plus grand, ont sans doute été écrites le soir. Le bas du feuillet, taché de rouille, est resté blanc.",
@@ -23696,7 +23498,7 @@
     "note": "dîner"
    }
   ],
-  "critique": "Encre violette ; seul le nom du lieutenant Godard est ajouté au crayon, dans le blanc de droite. Les numéros des deux adresses de Toutencourt, et le nom de la seconde rue, sont restés en blanc. La journée se poursuit au verso.",
+  "critique": "Encre violette. La journée se poursuit au verso.",
   "historique": "Hippolyte Combes se croit appelé à quitter le \\textit{Purchase Board} d'Hérissart pour le dépôt de Toutencourt (voir f.~82 r\\textsuperscript{o}). La « demande instante » du major Levy, sans doute Walter Henry Levy, major temporaire de l'A.S.C. (voir f.~46 r\\textsuperscript{o}), montre que le chef britannique peut obtenir de la Mission, qui affecte les interprètes, le maintien de celui qu'il apprécie. Le \\textit{purchase board} d'armée achète paille et fourrage, fait battre et botteler et constitue des réserves (Puckle 1917, p.~28) ; celui de la Fifth Army siégeait en décembre à Raincheval (voir f.~56 r\\textsuperscript{o}). La rue de Raincheval est à Toutencourt, QG de la Fifth Army (LLT). Le lieutenant Godard, peut-être de la Mission, n'est pas identifié. Le billet 220, libéré par l'interprète Valet (voir f.~82 r\\textsuperscript{o}), est à Hérissart, où un \\textit{tommy} porte les sacs (voir f.~83 v\\textsuperscript{o}). Hippolyte Combes y servira « mon l\\textsuperscript{t} », sans doute l'Australien Wentworth (voir f.~84 r\\textsuperscript{o}--v\\textsuperscript{o}).\n",
   "sources": [
    "Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 28.",
@@ -23746,12 +23548,6 @@
     "lemme": "7^{h} m.",
     "type": "abreviation",
     "note": "7 heures du matin."
-   },
-   {
-    "ligne": 11,
-    "lemme": "\\add{Toutencourt,}",
-    "type": "ajout",
-    "note": "Ajouté au-dessus de la ligne, entre « à » et « Contay »."
    },
    {
     "ligne": 11,
@@ -23922,7 +23718,7 @@
     "note": "bois d'Acheux"
    }
   ],
-  "critique": "Encre violette ; « detrempées » (l.~12) et « boue epaisse » (dernière ligne) sont d'une encre plus pâle. Un blanc a été ménagé pour le nom de la rue du billet 216, jamais rempli.",
+  "critique": "Encre violette ; « detrempées » (l.~12) et « boue epaisse » (dernière ligne) sont d'une encre plus pâle.",
   "historique": "Martinsart, où se rend le lieutenant (sans doute l'officier australien arrivé le 6 mars : voir f.~81~v\\textsuperscript{o}), est un hameau de Mesnil-Martinsart, à 4~km au nord d'Albert, proche du front jusqu'en septembre 1916 (CWGC ; voir f.~75~r\\textsuperscript{o}). Les Flutre étaient instituteurs au Mesnil ; resté sans voiture, Hippolyte Combes les voit peut-être à Hérissart ou alentour, où ils se seraient réfugiés. Leur fils est très probablement Louis-Fernand Flutre, né au Mesnil le 21 juin 1892, ancien élève de l'École normale supérieure, agrégé, professeur à la Faculté des lettres de Lyon, qui publiera en 1955 \\textit{Le Parler picard de Mesnil-Martinsart} et un essai d'histoire locale sur le village (Wikidata Q559663 ; BnF) ; son année d'entrée à l'École n'a pu être vérifiée. Le \\textit{billet}~216 est un logement numéroté du cantonnement, sur la liste du \\textit{Town Major} (Fernand-Laurent 1917, p.~227) ; Hippolyte Combes loge depuis le 11 au billet~220 (voir f.~83~r\\textsuperscript{o}). Après la mi-mars, gel, dégel et trafic ont « presque ruiné » les routes (OH 1917-I, p.~151).\n",
   "sources": [
    "Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).",
@@ -24042,12 +23838,6 @@
    },
    {
     "ligne": 18,
-    "lemme": "Auto aux workshops",
-    "type": "ajout",
-    "note": "écrit petit dans l'interligne, sous « sué bp »"
-   },
-   {
-    "ligne": 18,
     "lemme": "workshops",
     "type": "emprunt",
     "note": "ateliers (de réparation)"
@@ -24071,7 +23861,7 @@
     "note": "écrit petit sous « c^{tes} p^{les} » ; cartes postales, dont des cartes de soie"
    }
   ],
-  "critique": "Encre violette ; « Albert » et la fin de « workshops » sont repassés d'une encre plus vive. « Auto aux workshops » est une note indépendante, écrite petit dans l'interligne. Rousseurs dans le haut de la page.",
+  "critique": "Encre violette ; « Albert » et la fin de « workshops » sont repassés d'une encre plus vive. Rousseurs dans le haut de la page.",
   "historique": "Le 16 mars est le premier « jour de marche » du repli allemand sur la ligne Hindenburg (plan \\textit{Alberich} : OH 1917-I, p.~110--115) ; le 17, la 8th Australian Brigade entre dans Bapaume encore en feu (p.~131--132). Hippolyte Combes revoit Albert, quittée au début de novembre 1916 (voir f.~39~v\\textsuperscript{o}) ; les Australiens qui y cantonnent relèvent du I Anzac Corps, passé à la Fifth Army le 15 février (p.~74). Ribemont-sur-Ancre appartient au pays où cantonnait la division à l'hiver 1915--1916 (Becke 1938, p.~83, n.~14), déjà revu le 1\\textsuperscript{er} décembre et le 12 février (voir f.~52~v\\textsuperscript{o} et 76~v\\textsuperscript{o}). Les \\textit{workshops} sont les ateliers du transport automobile de l'A.S.C. (Puckle 1917, p.~19--21) ; l'auto y est encore le 18 (f.~85~r\\textsuperscript{o}). Le lieutenant Wentworth est sans doute l'officier australien arrivé le 6 mars (voir f.~81~v\\textsuperscript{o}). La cavalerie « indigène » est indienne : le 17, la Lucknow Cavalry Brigade monte à Albert (OH 1917-I, p.~138), et les escadrons vus à Hérissart en sont peut-être. Les cartes « à soie » sont sans doute des cartes postales brodées.\n",
   "sources": [
    "Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 74, 110-115, 131-132, 138.",
@@ -24328,7 +24118,7 @@
     "ligne": 11,
     "lemme": "Houtteman",
     "type": "lecture",
-    "note": "lecture probable ; cf. Mme Houtteman (108) ; « Houttemann » possible"
+    "note": "lecture probable ; cf. Mme Houtteman (f. 54 r°) ; « Houttemann » possible"
    },
    {
     "ligne": 14,
@@ -24580,9 +24370,9 @@
    },
    {
     "ligne": 16,
-    "lemme": "\\add{presq}",
-    "type": "ajout",
-    "note": "écrit sous la ligne, entre « restés » et « sans »"
+    "lemme": "presq",
+    "type": "abreviation",
+    "note": "presque"
    },
    {
     "ligne": 16,
@@ -24707,7 +24497,6 @@
     "note": "toujours"
    }
   ],
-  "critique": "La ligne « Après-midi entière, liberté », d'une encre violette plus pâle et serrée dans l'interligne, paraît ajoutée après coup.",
   "historique": "Le village « abandonné » est Hérissart, que les troupes ont quitté le 27 (voir f.~86 v\\textsuperscript{o}). Les tournées du \\textit{Purchase Board} se portent désormais vers le sud-ouest, sur les villages du plateau entre Hérissart et Villers-Bocage : Pierregot, Molliens-au-Bois et Rainneville, à 4–8 km (calcul de l'éditeur). La paille achetée le 31 à Rainneville répond à une demande accrue : pour préparer l'offensive d'Arras, on comptait « vider rapidement les granges en aidant les fermiers à battre leur grain et en achetant la paille pour l'armée » (OH 1917-I, p.~190). Les routes « creusées de sillons profonds » sont l'effet, décrit par l'histoire officielle, du dégel de mars sur un empierrement mince que « même les voitures légères crevaient » (OH 1917-I, p.~103). Le « croissant » du 30 au soir est celui d'une Lune nouvelle le 23 mars, proche de son premier quartier (calcul de l'éditeur).\n",
   "sources": [
    "Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 103, 190."
@@ -24775,25 +24564,13 @@
     "note": "blanchissage"
    },
    {
-    "ligne": 17,
-    "lemme": "[Washing",
-    "type": "disposition",
-    "note": "crochet ouvrant haut, descendu dans le blanc qui suit la ligne"
-   },
-   {
     "ligne": 19,
     "lemme": "M^{e}",
     "type": "abreviation",
     "note": "Maître (notaire)"
-   },
-   {
-    "ligne": 20,
-    "lemme": "\\del{et Raincheval}",
-    "type": "rature",
-    "note": "mots biffés d'un trait horizontal, encore lisibles"
    }
   ],
-  "critique": "Encre violette homogène ; dans le compte du mess (l.~8), le quantième initial après « du » a été laissé en blanc et n'a pas été complété.",
+  "critique": "Encre violette homogène.",
   "historique": "La neige des Rameaux et du 2 avril, une semaine avant Pâques (8 avril), est confirmée par l'histoire officielle : « une neige comme celle du début d'avril est rare en Picardie » ; le 2, la Fifth Army enlève sous ce temps Doignies, Louverval, Noreuil, Écoust, Croisilles et Hénin, avant-postes de la ligne Hindenburg (OH 1917-I, p.~159--161), et le QG du V Corps quitte Acheux pour Bihucourt (LLT). Belle-Église est le hameau d'Arquèves dont Hippolyte Combes fréquente la ferme (voir f.~85 v\\textsuperscript{o}). Le compte du mess, dont la date de départ est restée en blanc, court sans doute depuis le règlement du 9 mars avec le capitaine Williams (f.~82 r\\textsuperscript{o}) : 27 f 50 pour trois semaines environ, contre 79 f 10 pour janvier (f.~63 v\\textsuperscript{o}). Le notaire de Toutencourt est M\\textsuperscript{e} Jules Bienaimé, titulaire de l'étude de 1906 à 1933, d'une lignée de notaires établie au village depuis 1805 (AD Somme, Espel 2018, p.~3--4) ; la visite tient peut-être à un acte de vente de fourrage, comme le contrat de battage passé en janvier (f.~60 r\\textsuperscript{o}).\n",
   "sources": [
    "Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 159-161.",
@@ -25104,7 +24881,7 @@
     "note": "a, deux jambages, t, sans point d'i (« rebondissait » moins probable)"
    }
   ],
-  "critique": "Encre violette ; « Beauquesne » (l.~7) est ajouté après coup d'une encre plus pâle, grise-brune, d'un module plus petit. Un blanc d'une ligne précède chacune des journées du 9 et du 10.",
+  "critique": "Encre violette ; un blanc d'une ligne précède chacune des journées du 9 et du 10.",
   "historique": "Le temps noté est celui de l'histoire officielle : le 8, « belle journée après plusieurs jours humides et neigeux » ; le 9, matinée « ponctuée de grains de pluie, de grésil et de neige » ; le 10, temps « au moins aussi défavorable » (OH 1917-I, p.~168, 201, 245). Ce lundi 9 s'ouvre la bataille d'Arras, reportée du 8 au 9 (OH 1917-I, p.~182), et le Canadian Corps prend la crête de Vimy du 9 au 12 avril ; le carnet n'en dit rien. Le notaire de Toutencourt, déjà vu le 3 (voir f.~87 v\\textsuperscript{o}), est M\\textsuperscript{e} Jules Bienaimé, titulaire de l'étude de 1906 à 1933 (AD Somme, Espel 2018, p.~3--4). Beauquesne, où Hippolyte Combes avait négocié en décembre la location d'une batteuse (f.~57 v\\textsuperscript{o}), avait abrité au château de Valvion le QG avancé de Haig pendant la bataille de la Somme (OH 1916-I, p.~304). Belle-Église et Fréchencourt étaient, le 1\\textsuperscript{er} juillet 1916, des têtes de ligne pour les vivres (OH 1916-I, p.~274). La famille Denis, d'Hérissart, qu'il fréquentera tout le mois (f.~90 r\\textsuperscript{o}), n'est pas identifiée.\n",
   "sources": [
    "Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 168, 182, 201, 245.",
@@ -25147,7 +24924,7 @@
     "ligne": 9,
     "lemme": "(canteen)",
     "type": "emprunt",
-    "note": "cantine ; ajouté au-dessus de « de farine »"
+    "note": "cantine"
    },
    {
     "ligne": 9,
@@ -25353,7 +25130,7 @@
     "ligne": 10,
     "lemme": "1915",
     "type": "lecture",
-    "note": "5 à drapeau, sans boucle basse de 6 ; non « 1916 »"
+    "note": "5 à drapeau, sans boucle basse de 6"
    },
    {
     "ligne": 11,
@@ -25366,12 +25143,6 @@
     "lemme": "assz",
     "type": "abreviation",
     "note": "assez"
-   },
-   {
-    "ligne": 17,
-    "lemme": "Ribemont",
-    "type": "ajout",
-    "note": "écrit en petit sous « et Buire », dans l'interligne inférieur"
    },
    {
     "ligne": 17,
@@ -25483,12 +25254,6 @@
     "lemme": "Pierreg\\inc{ot}",
     "type": "lecture",
     "note": "Pierregot ; finale réduite à un trait dans la marge"
-   },
-   {
-    "ligne": 19,
-    "lemme": "\\add{très intéressant}",
-    "type": "ajout",
-    "note": "écrit petit dans l'interligne, sous la fin de la ligne"
    },
    {
     "ligne": 21,
@@ -25636,12 +25401,6 @@
     "lemme": "\\inc{Mignot}",
     "type": "lecture",
     "note": "M, jambages, puis haute haste bouclée sans barre (l plutôt que t) ; Miquel ou Miguel possibles"
-   },
-   {
-    "ligne": 23,
-    "lemme": "\\add{(et Louise)}",
-    "type": "ajout",
-    "note": "écrit petit dans l'interligne, sous le nom précédent"
    },
    {
     "ligne": 24,
