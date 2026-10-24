@@ -54,7 +54,7 @@ changements:
 - ligne: 13
   avant: Routes, très mauvaises.
   apres: Routes, très mauvaises
-  justification: aucun point après mauvaises, dont le s final plonge au bord du cliché
+  justification: aucun point après mauvaises, dont le s final plonge au bord de la photographie
   confiance: moyenne
 - ligne: 14
   avant: 14 J. Journée entière de liberté. Resté
@@ -74,12 +74,12 @@ changements:
 - ligne: 21
   avant: '[ — Essuie-mains : 90 c — ]'
   apres: '\equerre{1}– Essui\inc{e-mains} : 90c —'
-  justification: signe d'ouverture en équerre (trait de tête + haste), non crochet ; aucun crochet fermant ; la fin du mot, sous Nuit, est coupée par le bord du cliché
+  justification: signe d'ouverture en équerre (trait de tête + haste), non crochet ; aucun crochet fermant ; la fin du mot, sous Nuit, est coupée par le bord de la photographie
   confiance: moyenne
 difficultes:
 - ligne: 21
   lemme: Essui\inc{e-mains}
-  analyse: 'À gauche de Nuit : trait de tête et haste (équerre), petit trait médian attaché à la haste (tiret), puis un tracé en croix très appuyé (E et ss écrasés), u, i pointé, délié montant (e) ; sous Nuit, trois ou quatre lettres coupées à mi-hauteur par le bord du cliché, puis deux-points, 90, c, tiret. Trait de tête + haste + trait médian pourraient former un E anguleux (aspect F), mais les E de la page (Englebelmer, Eglise) sont bouclés ; l''état antérieur lisait aussi un crochet et un tiret.'
+  analyse: 'À gauche de Nuit : trait de tête et haste (équerre), petit trait médian attaché à la haste (tiret), puis un tracé en croix très appuyé (E et ss écrasés), u, i pointé, délié montant (e) ; sous Nuit, trois ou quatre lettres coupées à mi-hauteur par le bord de la photographie, puis deux-points, 90, c, tiret. Trait de tête + haste + trait médian pourraient former un E anguleux (aspect F), mais les E de la page (Englebelmer, Eglise) sont bouclés ; l''état antérieur lisait aussi un crochet et un tiret.'
   alternatives:
   - Essuie-mains
   - Essuie-main
@@ -135,8 +135,8 @@ controle:
   avant: 'apparat : – Essui (disposition), Essuie-mains (lecture), 90c (compte)'
   apres: 'apparat : Essui\inc{e-mains} (lecture, avec l''autre leçon possible)'
   justification: l'équerre est rendue par le balisage ; 90c ne présente aucune difficulté de compte ; critique ramenée à trois phrases
-remarques: 'Ponctuation relue signe par signe ; plusieurs points de l''état antérieur ne sont pas sur l''image (après mauvaises, lamentables), d''autres sont fondus au bout du délié final (neige, liberte, fine). Accents absents : reveil, refugiés, Belle-Eglise, liberte (l. 14), Rest^{e}, ecrit, Temperature, ecrire, a de tt a fait. Le bas du compte (l. 21) est coupé par le bord du cliché : à contrôler sur l''original.'
-resume: 'Le mardi 12 décembre 1916, Combes, nettement mieux (levé deux fois dans la nuit, constipé dans la journée), trouve au réveil rues, toits et arbres couverts de neige et reste longtemps à sa fenêtre, côté devant puis côté derrière, à admirer le paysage ; course à Senlis le matin, liberté l''après-midi ; il se sent presque guéri. Le mercredi 13, par brouillard et pluie, il assiste le matin, à la mairie de Toutencourt, à une réunion de réfugiés d''Englebelmer avec le major Levy, puis va l''après-midi en auto, très secoué, à Belle-Église, Puchevillers et Harponville, par des routes très mauvaises. Le jeudi 14, journée entière de liberté : il reste longtemps dans sa chambre à écrire, lire ou ranger ses affaires ; ciel brumeux et pluie fine tout le jour, température assez douce pour écrire sans feu ; la nuit est extrêmement noire et les routes lamentablement sales. Dépense : un essuie-mains (lecture incertaine), 90 c.'
+remarques: 'Ponctuation relue signe par signe ; plusieurs points de l''état antérieur ne sont pas sur l''image (après mauvaises, lamentables), d''autres sont fondus au bout du délié final (neige, liberte, fine). Accents absents : reveil, refugiés, Belle-Eglise, liberte (l. 14), Rest^{e}, ecrit, Temperature, ecrire, a de tt a fait. Le bas du compte (l. 21) est coupé par le bord de la photographie : à contrôler sur l''original.'
+resume: 'Le mardi 12 décembre 1916, Hippolyte Combes, nettement mieux (levé deux fois dans la nuit, constipé dans la journée), trouve au réveil rues, toits et arbres couverts de neige et reste longtemps à sa fenêtre, côté devant puis côté derrière, à admirer le paysage ; course à Senlis le matin, liberté l''après-midi ; il se sent presque guéri. Le mercredi 13, par brouillard et pluie, il assiste le matin, à la mairie de Toutencourt, à une réunion de réfugiés d''Englebelmer avec le major Levy, puis va l''après-midi en auto, très secoué, à Belle-Église, Puchevillers et Harponville, par des routes très mauvaises. Le jeudi 14, journée entière de liberté : il reste longtemps dans sa chambre à écrire, lire ou ranger ses affaires ; ciel brumeux et pluie fine tout le jour, température assez douce pour écrire sans feu ; la nuit est extrêmement noire et les routes lamentablement sales. Dépense : un essuie-mains (lecture incertaine), 90 c.'
 noms:
   personnes:
   - forme: major Levy

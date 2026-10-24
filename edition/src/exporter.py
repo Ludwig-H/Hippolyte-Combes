@@ -103,7 +103,7 @@ def main() -> None:
     for c in lecture:
         n = c["cliche"]
         p = charger(EDITION / "donnees" / "pages" / f"{n:03d}.yaml")
-        md += [f"## {folio(c)} — {p.get('date', '')} (cliché {n:03d})", ""]
+        md += [f"## {folio(c)} — {p.get('date', '')}", ""]
         if p.get("lieux"):
             md += [f"*{p['lieux']}*", ""]
         lignes = []

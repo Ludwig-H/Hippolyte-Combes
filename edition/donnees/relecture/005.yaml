@@ -205,12 +205,12 @@ controle:
   apres: 'apparat : groom = ordonnance chargée du cheval (palefrenier)'
   justification: sens militaire britannique, conforme au lexique (groom = ordonnance)
 remarques: 'Apparat épuré : suppression des justifications paléographiques (ponctuation, formes de lettres, déliés), des notes d''accent absent et des notes de disposition rendues par le balisage ou reportées au registre critique (l. 2, 6, 15, 19). Les virgules de la page ont la forme d''un « ( » (l. 2, 3, 7, 14, 15, 20) : celle de la l. 20 n''est pas une parenthèse ouvrante. Les fractions des l. 7 et 15 sont rendues 1/2, comme en 006, l. 2.'
-resume: 'Le vendredi 28 juillet 1916, après avoir presque bouclé ses paquets la veille au soir et passé une nuit agitée, énervé par ces départs successifs, Combes se lève vers 5 h 20 sous une brume qui tombe en gouttelettes : c''est jour de mouvement. Parti à 8 h 30, il fait route à cheval en tête du convoi, lentement, par des routes sablonneuses bordées d''avoine et de blé aux épis très hauts, et contourne Hazebrouck par les faubourgs ; le soleil perce peu à peu et la chaleur devient intense l''après-midi. Vers 4 h 30, le convoi atteint une grande prairie autour d''une ferme ; faute de chambre, Combes doit se contenter d''un grenier, harassé de fatigue et accablé de chaleur. Ses comptes notent 2 f laissés pour la cuisine et 1 f pour œufs et lait à sa logeuse de Lynde (Mme Donse ?), des suppléments de nourriture, des cartes postales et 1 f de pourboire à l''ordonnance qui a soigné son poney.'
+resume: 'Le vendredi 28 juillet 1916, après avoir presque bouclé ses paquets la veille au soir et passé une nuit agitée, énervé par ces départs successifs, Hippolyte Combes se lève vers 5 h 20 sous une brume qui tombe en gouttelettes : c''est jour de mouvement. Parti à 8 h 30, il fait route à cheval en tête du convoi, lentement, par des routes sablonneuses bordées d''avoine et de blé aux épis très hauts, et contourne Hazebrouck par les faubourgs ; le soleil perce peu à peu et la chaleur devient intense l''après-midi. Vers 4 h 30, le convoi atteint une grande prairie autour d''une ferme ; faute de chambre, Hippolyte Combes doit se contenter d''un grenier, harassé de fatigue et accablé de chaleur. Ses comptes notent 2 f laissés pour la cuisine et 1 f pour œufs et lait à sa logeuse de Lynde (Mme Donse ?), des suppléments de nourriture, des cartes postales et 1 f de pourboire à l''ordonnance qui a soigné son poney.'
 noms:
   personnes:
   - forme: M^{me} \inc{Donse}
     ligne: 20
-    identite: logeuse de Combes à Lynde ; patronyme incertain (Donse, Douse ou Donze)
+    identite: logeuse d'Hippolyte Combes à Lynde ; patronyme incertain (Donse, Douse ou Donze)
   lieux:
   - forme: Hazebrouck
     ligne: 12

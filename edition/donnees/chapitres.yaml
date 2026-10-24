@@ -1,4 +1,4 @@
-# Division éditoriale en chapitres (le carnet n'en comporte aucune) : premier cliché de chaque chapitre dans l'ordre de lecture.
+# Division éditoriale en chapitres (le carnet n'en comporte aucune) : première page de chaque chapitre dans l'ordre de lecture.
 # illustrations : photographies placées sous la carte de la page d'ouverture ; illustration_fin : image pleine page
 # placée à la fin de l'introduction du chapitre si une page impaire doit être remplie avant la première double page.
 chapitres:
@@ -67,7 +67,7 @@ chapitres:
   periode: 26 janvier – 7 février 1917
   illustrations:
   - fichier: illustrations/epoque/toulouse_saint_sernin_autochrome_1916.jpg
-    legende: Toulouse, la basilique Saint-Sernin, que Combes visite le 29 janvier 1917 (autochrome, 28 avril 1916 ; musée départemental Albert-Kahn).
+    legende: Toulouse, la basilique Saint-Sernin, qu'Hippolyte Combes visite le 29 janvier 1917 (autochrome, 28 avril 1916 ; musée départemental Albert-Kahn).
   - fichier: illustrations/epoque/millau_tarn_moulin_du_pont_vieux_avant_1914.jpg
     legende: Millau, le Tarn et le moulin du Pont-Vieux (avant 1914 ; Gallica-BnF).
   illustration_fin:

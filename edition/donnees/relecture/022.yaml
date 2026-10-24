@@ -123,12 +123,12 @@ controle:
   apres: apparat épuré (21 entrées)
   justification: notes de ponctuation, d'accent, de majuscule et de position supprimées selon la règle d'impression ; difficulté « remarque du commentateur » versée aux remarques
 remarques: Le tiret de remonté (l. 4) est l'accent de l'é, tiré long. Les points au-dessus de principaux (l. 8) sont les points de ses i. La remarque du commentateur historique (église rapprochée de Saint-Vaast d'Armentières, références Ellis, Bewsher, Palissy) ne touche pas la lecture et n'est pas reprise dans l'apparat.
-resume: 'Suite de la chevauchée du samedi 19 août (cf. 021) : galop à travers champs jusqu''à la blanchisserie Barbry, puis traversée de Fleurbaix, dont presque toutes les maisons ont reçu des obus. Combes gagne ensuite Armentières, où il arrive par la gare, complètement déserte, et parcourt les principaux quartiers d''une ville importante et riche : toits crevés, façades trouées, cloisons d''appartement mises à nu, église de briques rouges au clocher découronné, immeubles pour la plupart abandonnés par leurs habitants ; il ajoute plus tard le mot « Ecossais ». Retour par la grande route avec un arrêt à Erquinghem pour prendre le thé avec un officier des Sussex ; fin de journée ensoleillée et très belle.'
+resume: 'Suite de la chevauchée du samedi 19 août (cf. 021) : galop à travers champs jusqu''à la blanchisserie Barbry, puis traversée de Fleurbaix, dont presque toutes les maisons ont reçu des obus. Hippolyte Combes gagne ensuite Armentières, où il arrive par la gare, complètement déserte, et parcourt les principaux quartiers d''une ville importante et riche : toits crevés, façades trouées, cloisons d''appartement mises à nu, église de briques rouges au clocher découronné, immeubles pour la plupart abandonnés par leurs habitants ; il ajoute plus tard le mot « Ecossais ». Retour par la grande route avec un arrêt à Erquinghem pour prendre le thé avec un officier des Sussex ; fin de journée ensoleillée et très belle.'
 noms:
   personnes:
   - forme: Barbry
     ligne: 2
-    identite: blanchisserie Barbry (cf. M. Barbry, propriétaire de Combes, 023)
+    identite: blanchisserie Barbry (cf. M. Barbry, propriétaire d'Hippolyte Combes, 023)
   lieux:
   - forme: Fleurbaix
     ligne: 3

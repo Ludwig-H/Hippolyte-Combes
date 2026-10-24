@@ -177,16 +177,16 @@ controle:
   avant: critique de six phrases, avec coordonnées et remarques paléographiques
   apres: critique de trois phrases (encre, disposition, tache)
   justification: registre critique limité à la disposition d'ensemble, à l'encre et à l'état matériel
-remarques: La location de la batteuse aboutit au contrat passé avec la même Mme Capron le 5 janvier 1917 (cliché 120) ; M. Guibet est revu à Raincheval le 9 janvier (cliché 121). Le nom Capron, écrit de même en 120 avec un point d'i, reste incertain.
-resume: 'Le mardi 26 décembre 1916, par la pluie et le brouillard, Combes se rend le matin à Raincheval et à Arquèves, où il voit M. Guibet, puis l''après-midi à Beauquesne et au Quesnoy. À Beauquesne, il voit la « charmante » Mme Capron (nom incertain) au sujet de la location d''une machine à battre. Rentré à 6 heures, extrêmement fatigué, il se couche tôt. Le mercredi 27, enfin une très belle journée ensoleillée : course à Beauquesne le matin, puis à Doullens, où il ne reste qu''à peine vingt minutes, à son regret. Il y achète une ramette de papier à lettres (1 f 25), deux paquets de grandes enveloppes (45 + 45 c) et des cartes postales (55 c).'
+remarques: La location de la batteuse aboutit au contrat passé avec la même Mme Capron le 5 janvier 1917 (f. 60 r°) ; M. Guibet est revu à Raincheval le 9 janvier (f. 60 v°). Le nom Capron, écrit de même en 120 avec un point d'i, reste incertain.
+resume: 'Le mardi 26 décembre 1916, par la pluie et le brouillard, Hippolyte Combes se rend le matin à Raincheval et à Arquèves, où il voit M. Guibet, puis l''après-midi à Beauquesne et au Quesnoy. À Beauquesne, il voit la « charmante » Mme Capron (nom incertain) au sujet de la location d''une machine à battre. Rentré à 6 heures, extrêmement fatigué, il se couche tôt. Le mercredi 27, enfin une très belle journée ensoleillée : course à Beauquesne le matin, puis à Doullens, où il ne reste qu''à peine vingt minutes, à son regret. Il y achète une ramette de papier à lettres (1 f 25), deux paquets de grandes enveloppes (45 + 45 c) et des cartes postales (55 c).'
 noms:
   personnes:
   - forme: Guibet
     ligne: 4
-    identite: M. Guibet, de Raincheval, revu le 9 janvier 1917 (cliché 121)
+    identite: M. Guibet, de Raincheval, revu le 9 janvier 1917 (f. 60 v°)
   - forme: \inc{Capron}
     ligne: 6
-    identite: 'Mme Capron (lecture incertaine : Caprin ?), de Beauquesne, avec qui Combes passe le 5 janvier 1917 un contrat de location de batteuse (cliché 120)'
+    identite: 'Mme Capron (lecture incertaine : Caprin ?), de Beauquesne, avec qui Hippolyte Combes passe le 5 janvier 1917 un contrat de location de batteuse (f. 60 r°)'
   lieux:
   - forme: Raincheval
     ligne: 3

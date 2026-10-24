@@ -372,20 +372,20 @@
 \newcommand{\LJentree}[2]{\hangindent=1em\hangafter=1 #1 : {\LJchiffres #2}\par}
 
 % ---------------------------------------------------------------------------
-% Table de concordance des feuillets et des clichés
+% Table de concordance des feuillets et des pages
 % ---------------------------------------------------------------------------
 \newcommand{\LJtableconcordance}[2]{%
-  \clearpage\renewcommand{\LJmois}{Annexe}\renewcommand{\LJfolio}{Concordance des feuillets et des clichés}%
-  \chapter*{Concordance des feuillets et des clichés}\addcontentsline{toc}{chapter}{Concordance des feuillets et des clichés}%
-  {\footnotesize Feuillet et face restitués dans l'ordre de lecture ; numéro du cliché ;
+  \clearpage\renewcommand{\LJmois}{Annexe}\renewcommand{\LJfolio}{Concordance des feuillets et des pages}%
+  \chapter*{Concordance des feuillets et des pages}\addcontentsline{toc}{chapter}{Concordance des feuillets et des pages}%
+  {\footnotesize Feuillet et face restitués dans l'ordre de lecture ;
   date(s) de la page ; page de la présente édition. \textit{inv.} : feuillet photographié verso d'abord ;
-  \textit{trav.} : page écrite en travers ; \textit{seule face} : l'autre face du feuillet n'a pas été photographiée. #2\par}
+  \textit{trav.} : page écrite en travers ; \textit{seule face} : l'autre face du feuillet est restée blanche.#2\par}
   \vspace{2mm}
   {\fontsize{7.4pt}{8.8pt}\selectfont\LJchiffres
   \setlength{\tabcolsep}{4pt}
-  \begin{longtable}{@{}l r p{72mm} r l@{}}
+  \begin{longtable}{@{}l p{82mm} r l@{}}
   \toprule
-  \textbf{Feuillet} & \textbf{Cliché} & \textbf{Date} & \textbf{Page} & \\
+  \textbf{Feuillet} & \textbf{Date} & \textbf{Page} & \\
   \midrule\endhead
   \bottomrule\endfoot
   #1

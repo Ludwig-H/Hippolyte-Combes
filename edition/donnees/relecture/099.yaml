@@ -174,7 +174,7 @@ controle:
   apres: (\inc{tiss})
   justification: 'aucune finale -us n''est écrite : on transcrit les lettres visibles, le développement et l''autre lecture (Weiss) vont dans l''apparat'
 remarques: 'La l. 1 réunit date, début du texte et mois (l''état antérieur en faisait deux lignes) : la numérotation est décalée d''une unité par rapport à l''état antérieur. Contrôle : apparat épuré (justifications paléographiques et notes de disposition redondantes avec le balisage supprimées) ; critique vidée, l''opposition de deux encres avancée par la première lecture n''étant pas vérifiable sur les tuiles (le point isolé sous bombardt, l. 12–13, est sans portée). Le tiret marginal qui précède le crochet (l. 10) ne peut être balisé devant \crochet, reconnu seulement en début de ligne par balisage.py : il est signalé dans l''apparat. Le bureau de la mission fr^{se} (l. 6) est celui de la Mission française auprès de l''armée britannique, à Albert.'
-resume: Le mercredi 15 novembre 1916, la canonnade reste très violente vers Beaumont-sur-Ancre, toute la nuit et le jour, surtout à l'aube, par une très belle journée ensoleillée. Le matin, Combes fait l'aller et retour en auto à Albert, où il passe au bureau de la Mission française sans y trouver de nouvelle le concernant ; l'après-midi, libre, il se promène au village et note ses menues dépenses (cartes postales d'Acheux, journaux, blanchissage). Le jeudi 16, le bombardement fait trembler vitres et fenêtres ; il a fortement gelé et la bise est froide malgré le soleil. En auto toute la journée (Raincheval, Louvencourt, Toutencourt), il déjeune à Hérissart chez le lieutenant Walsh avec l'interprète de celui-ci, directeur d'une usine près de Paris, homme intelligent et distingué dont il laisse le nom en blanc.
+resume: Le mercredi 15 novembre 1916, la canonnade reste très violente vers Beaumont-sur-Ancre, toute la nuit et le jour, surtout à l'aube, par une très belle journée ensoleillée. Le matin, Hippolyte Combes fait l'aller et retour en auto à Albert, où il passe au bureau de la Mission française sans y trouver de nouvelle le concernant ; l'après-midi, libre, il se promène au village et note ses menues dépenses (cartes postales d'Acheux, journaux, blanchissage). Le jeudi 16, le bombardement fait trembler vitres et fenêtres ; il a fortement gelé et la bise est froide malgré le soleil. En auto toute la journée (Raincheval, Louvencourt, Toutencourt), il déjeune à Hérissart chez le lieutenant Walsh avec l'interprète de celui-ci, directeur d'une usine près de Paris, homme intelligent et distingué dont il laisse le nom en blanc.
 noms:
   personnes:
   - forme: Lt Walsh
@@ -182,7 +182,7 @@ noms:
     identite: lieutenant britannique, cantonné à Hérissart (099–120)
   - forme: M.
     ligne: 21
-    identite: interprète du lieutenant Walsh, directeur d'une usine près de Paris ; nom laissé en blanc (peut-être Deloney, interprète du Lt Walsh au cliché 103)
+    identite: interprète du lieutenant Walsh, directeur d'une usine près de Paris ; nom laissé en blanc (peut-être Deloney, interprète du Lt Walsh au f. 51 v°)
   lieux:
   - forme: Beaumont s/ Ancre
     ligne: 3

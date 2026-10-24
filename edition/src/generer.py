@@ -67,7 +67,7 @@ def image_fac(cliche: int, dossier: str) -> str:
 
 
 def table_concordance(codico: list[dict], pages: dict) -> str:
-    """Table des feuillets : ordre de lecture, feuillet et face, cliché, date, page."""
+    """Table des feuillets : ordre de lecture, feuillet et face, date, page."""
     lignes = []
     for c in sorted(codico, key=lambda c: (c["ordre"] is None, c["ordre"] if c["ordre"] is not None else c["cliche"])):
         n = c["cliche"]
@@ -81,15 +81,12 @@ def table_concordance(codico: list[dict], pages: dict) -> str:
             rem.append("trav.")
         if "Seule face" in (c.get("remarque") or ""):
             rem.append("seule face")
-        lignes.append(r"%s & %03d & %s & \pageref{cl%03d} & %s \\" % (
-            folio(c["feuillet"], c["face"]), n, gabarit.echapper(p.get("date", "")), n, ", ".join(rem)))
-    doublons = [c for c in codico if c["statut"] == "doublon"]
-    note = " ".join(r"Le cliché %03d est une seconde prise de vue de la page du cliché %s." % (
-        c["cliche"], c["remarque"].split("cliché ")[-1].rstrip(".")) for c in doublons)
+        lignes.append(r"%s & %s & \pageref{cl%03d} & %s \\" % (
+            folio(c["feuillet"], c["face"]), gabarit.echapper(p.get("date", "")), n, ", ".join(rem)))
     return "\n".join([
         r"\LJtableconcordance{%",
         "\n".join(lignes),
-        "}{%s}" % note,
+        "}{}",
     ])
 
 

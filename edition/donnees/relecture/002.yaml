@@ -59,7 +59,7 @@ changements:
 - ligne: 16
   avant: 'Visité longuement église village : remarqué'
   apres: '\ind Visité longuement église village : remarqu\inc{é}'
-  justification: ligne en retrait ; le mot sort du cliché après qu, la finale n'est pas visible
+  justification: ligne en retrait ; le mot sort de la photographie après qu, la finale n'est pas visible
   confiance: moyenne
 - ligne: 19
   avant: Vers 7 h 1/2 s.,
@@ -69,12 +69,12 @@ changements:
 - ligne: 21
   avant: 1 f 75
   apres: 1 \inc{f 75}
-  justification: 'le montant est coupé par le bord du cliché : seuls 1 et le début d''un signe plongeant sont visibles'
+  justification: 'le montant est coupé par le bord de la photographie : seuls 1 et le début d''un signe plongeant sont visibles'
   confiance: moyenne
 difficultes:
 - ligne: 2
   lemme: \inc{dès}
-  analyse: d à panse pleine et haste haute, deux jambages courts puis crochet qui ouvre la petite boucle du 8 ; aucun accent distinct ; Combes écrit ailleurs « Levé dès 7H ½ » (013, 029)
+  analyse: d à panse pleine et haste haute, deux jambages courts puis crochet qui ouvre la petite boucle du 8 ; aucun accent distinct ; Hippolyte Combes écrit ailleurs « Levé dès 7H ½ » (013, 029)
   alternatives:
   - dès
   - des
@@ -132,7 +132,7 @@ difficultes:
   - Dacker
 - ligne: 21
   lemme: 1 \inc{f 75}
-  analyse: 'après les deux-points : 1 à trait d''attaque, puis signe à tête crochue plongeant sous la ligne (f monétaire ou 7) ; le reste est hors du cliché'
+  analyse: 'après les deux-points : 1 à trait d''attaque, puis signe à tête crochue plongeant sous la ligne (f monétaire ou 7) ; le reste est hors de la photographie'
   alternatives:
   - 1 f 75
   - 1 75
@@ -161,7 +161,7 @@ controle:
   avant: apparat de 41 notes ; critique de 6 phrases
   apres: apparat de 21 notes ; critique de 3 phrases
   justification: notes paléographiques supprimées (soulignements, accents absents de reposé et chateau, ponctuation, formes de &, E, 4, 6, Curtis, déménagement, traits de fin de ligne) et versées dans difficultes ; R. Fus^{rs} passe en abréviation ; notes Toute, Sercus, Backer et montant de la l. 21 abrégées
-remarques: 'Lignes renumérotées par rapport à la première lecture : la note du lever forme la l. 2 (22 lignes de texte). Le bord droit du feuillet sort du cliché : la fin de la l. 16 et le montant de la l. 21 ne peuvent être contrôlés ; « 75 » (l. 21) vient de la transcription antérieure. Les deux église (l. 12, 16), pâturages (l. 6) et atmosphère (l. 8) ont été contrôlés au zoom (accents, barre de t prolongée).'
+remarques: 'Lignes renumérotées par rapport à la première lecture : la note du lever forme la l. 2 (22 lignes de texte). Le bord droit du feuillet sort de la photographie : la fin de la l. 16 et le montant de la l. 21 ne peuvent être contrôlés ; « 75 » (l. 21) vient de la transcription antérieure. Les deux église (l. 12, 16), pâturages (l. 6) et atmosphère (l. 8) ont été contrôlés au zoom (accents, barre de t prolongée).'
 resume: 'Le mardi 25 juillet 1916, levé dès 8 h du matin et bien reposé, Hippolyte Combes note qu''il a pensé toute la nuit, très vivement, à Marguerite. Il décrit le ciel gris et bas de Flandre, les grands arbres aux branches retombantes autour des pâturages et des champs d''avoine et de blé, et la mélancolie de l''atmosphère. Le matin, il se rend à pied avec le lieutenant Curtis au village (Sercus, lecture proposée), où l''unité se rassemble devant le cimetière qui entoure une église très curieuse. L''après-midi, il se repose dans sa chambre après avoir déménagé sur l''arrière de son logement à cause de l''arrivée de 36 officiers des Royal Fusiliers, puis visite longuement l''église (deux rangs de statues de plâtre et de bois sous les orgues) ; vers 7 h ½ du soir, les dames du château lui rendent visite et il les conduit au mess de ses officiers. Comptes : repas de la veille et 4 œufs chez Mme Backer (montant coupé, 1 f 75 ?), divers 75 c.'
 noms:
   personnes:

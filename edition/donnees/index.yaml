@@ -2,7 +2,7 @@ personnes:
 - id: abel
   nom: Abel
   court: Abel
-  notice: plus jeune fils de la maison où loge Combes à Albert (famille Duchâteau ?)
+  notice: plus jeune fils de la maison où loge Hippolyte Combes à Albert (famille Duchâteau ?)
   formes: []
   attestations:
   - - 82
@@ -42,7 +42,7 @@ personnes:
 - id: barbry
   nom: Barbry
   court: Barbry
-  notice: propriétaire d'une blanchisserie, logeur de Combes
+  notice: propriétaire d'une blanchisserie, logeur d'Hippolyte Combes
   formes: []
   attestations:
   - - 17
@@ -268,7 +268,7 @@ personnes:
 - id: carluvant
   nom: Carluvant (M. et Mme)
   court: Carluvant
-  notice: tailleur, logeur de Combes à Acheux ; lecture incertaine (Carlumont ?)
+  notice: tailleur, logeur d'Hippolyte Combes à Acheux ; lecture incertaine (Carlumont ?)
   formes: []
   attestations:
   - - 102
@@ -300,7 +300,7 @@ personnes:
 - id: colart
   nom: Colart (famille)
   court: Colart
-  notice: anciens hôtes de Combes à Ribemont
+  notice: anciens hôtes d'Hippolyte Combes à Ribemont
   formes: []
   attestations:
   - - 181
@@ -516,7 +516,7 @@ personnes:
 - id: delsol
   nom: Delsol (dames)
   court: dames Delsol
-  notice: voisines de Combes à Toulouse
+  notice: voisines d'Hippolyte Combes à Toulouse
   formes: []
   attestations:
   - - 137
@@ -524,7 +524,7 @@ personnes:
 - id: denis
   nom: Denis (famille)
   court: Denis
-  notice: famille d'Hérissart chez qui Combes passe ses soirées
+  notice: famille d'Hérissart chez qui Hippolyte Combes passe ses soirées
   formes: []
   attestations:
   - - 178
@@ -540,7 +540,7 @@ personnes:
 - id: donse
   nom: Donse (Mme)
   court: Mme Donse
-  notice: logeuse de Combes à Lynde ; lecture incertaine (Donze, Douse ?)
+  notice: logeuse d'Hippolyte Combes à Lynde ; lecture incertaine (Donze, Douse ?)
   formes: []
   attestations:
   - - 5
@@ -664,7 +664,7 @@ personnes:
 - id: gilbert
   nom: Gilbert (sous-lieutenant)
   court: Gilbert
-  notice: officier britannique originaire de Jersey, poète, collègue de Combes au Purchase Board
+  notice: officier britannique originaire de Jersey, poète, collègue d'Hippolyte Combes au Purchase Board
   formes: []
   attestations:
   - - 179
@@ -738,7 +738,7 @@ personnes:
 - id: guilhem
   nom: Guilhem (Mlle)
   court: Mlle Guilhem
-  notice: propriétaire de l'appartement de Combes à Toulouse
+  notice: propriétaire de l'appartement d'Hippolyte Combes à Toulouse
   formes: []
   attestations:
   - - 61
@@ -1026,7 +1026,7 @@ personnes:
 - id: maurin
   nom: Maurin
   court: Maurin
-  notice: interprète ou militaire français, originaire de Provence, camarade de Combes
+  notice: interprète ou militaire français, originaire de Provence, camarade d'Hippolyte Combes
   formes: []
   attestations:
   - - 13
@@ -1070,7 +1070,7 @@ personnes:
 - id: monin
   nom: Monin
   court: Monin
-  notice: camarade de Combes, interprète d'une compagnie de passage (?)
+  notice: camarade d'Hippolyte Combes, interprète d'une compagnie de passage (?)
   formes: []
   attestations:
   - - 173
@@ -1078,7 +1078,7 @@ personnes:
 - id: morris
   nom: Morris (lieutenant)
   court: Morris
-  notice: officier britannique, de la 150th Company A.S.C. (?), ancien camarade de Combes
+  notice: officier britannique, de la 150th Company A.S.C. (?), ancien camarade d'Hippolyte Combes
   formes: []
   attestations:
   - - 120
@@ -1338,7 +1338,7 @@ personnes:
 - id: wentworth
   nom: Wentworth (lieutenant)
   court: Wentworth
-  notice: officier australien, collègue de Combes ; Henry Coates ou Fitzwilliam Wentworth (A.I.F.) ?
+  notice: officier australien, collègue d'Hippolyte Combes ; Henry Coates ou Fitzwilliam Wentworth (A.I.F.) ?
   formes: []
   attestations:
   - - 169

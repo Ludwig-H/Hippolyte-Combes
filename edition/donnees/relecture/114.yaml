@@ -9,7 +9,7 @@ changements:
 - ligne: 3
   avant: Tjrs
   apres: \inc{Tjours}
-  justification: Tjrs n'existe pas chez Combes ; sous le pâté, T à barre et j descendant, puis quatre bosses de lettres (ours) ; sous suit en minuscule, le mot appartient donc à la phrase et n'est pas biffé
+  justification: Tjrs n'existe pas chez Hippolyte Combes ; sous le pâté, T à barre et j descendant, puis quatre bosses de lettres (ours) ; sous suit en minuscule, le mot appartient donc à la phrase et n'est pas biffé
   confiance: moyenne
 - ligne: 4
   avant: hier après-midi.
@@ -137,16 +137,16 @@ controle:
   avant: changement Y.M.C.A. → Y.M.C.A non consigné
   apres: consigné dans changements
   justification: divergence réelle avec l'état antérieur, vérifiée au zoom
-remarques: 'Le propos du capitaine est la « gaffe » du 24 décembre à Louvencourt (cliché 112 : « Bloody France etc. ! », hésitation à la rapporter à la French Mission). Les trois points au-dessus de « du » (l. 6) sont ceux des signes finaux de la l. 5, non des points d''i.'
+remarques: 'Le propos du capitaine est la « gaffe » du 24 décembre à Louvencourt (f. 56 v° : « Bloody France etc. ! », hésitation à la rapporter à la French Mission). Les trois points au-dessus de « du » (l. 6) sont ceux des signes finaux de la l. 5, non des points d''i.'
 resume: Le lundi 25 décembre 1916, jour de Noël que la page ne nomme pas, Hippolyte Combes sort d'une nuit d'insomnie, toujours sous le coup du propos fâcheux tenu la veille à Louvencourt par son capitaine (Williams), et se demande s'il doit en faire rapport à la Mission française ; une lettre de Marguerite du 17 le hante aussi. Par un temps affreux (averses, vent de tempête), il passe une journée de repos dans sa chambre et se rassérène peu à peu. L'après-midi, il assiste dans la baraque du Y.M.C.A. à un concert de chansons comiques et de saynètes ; il note 80 c de blanchissage. Le soir, ayant retrouvé calme et équilibre, il quitte vers 9 h le capitaine Williams et regagne sa chambre, entrant quelques minutes au Y.M.C.A., où le concert a repris ; ciel étoilé, temps doux, grand silence de la nuit sans écho de canonnade.
 noms:
   personnes:
   - forme: cap.
     ligne: 4
-    identite: 'le capitaine Williams, chef britannique de Combes (sa « gaffe » du 24 décembre chez Mme Cuisinier à Louvencourt : « Bloody France », cliché 112)'
+    identite: 'le capitaine Williams, chef britannique d''Hippolyte Combes (sa « gaffe » du 24 décembre chez Mme Cuisinier à Louvencourt : « Bloody France », f. 56 v°)'
   - forme: Margte
     ligne: 6
-    identite: Marguerite Calmels, fiancée de Combes
+    identite: Marguerite Calmels, fiancée d'Hippolyte Combes
   - forme: Cap. William
     ligne: 18
     identite: le capitaine Williams

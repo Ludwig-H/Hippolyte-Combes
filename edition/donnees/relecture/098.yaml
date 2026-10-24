@@ -34,7 +34,7 @@ changements:
 - ligne: 7
   avant: Après-midi, course en auto à Beauquesne
   apres: \ind Après-midi, Course en auto à Beauq\lac
-  justification: 'C de Course de module double ; le mot atteint le bord droit du cliché : seuls B-e-a-u et une lettre à haste descendante sont visibles'
+  justification: 'C de Course de module double ; le mot atteint le bord droit de la photographie : seuls B-e-a-u et une lettre à haste descendante sont visibles'
   confiance: moyenne
 - ligne: 9
   avant: 'peu à peu. Paysage anglais : arbres étriqués,'
@@ -119,7 +119,7 @@ changements:
 difficultes:
 - ligne: 7
   lemme: Beauq\lac
-  analyse: 'zoom ×3,5 [.84 .215 1.0 .28] : B bouclé (boucle haute + panse), e, a, puis deux éléments arrondis (u à sommets ronds, ou c + o), enfin une lettre à tête ouverte et haste descendante oblique (q, y ou g) qui touche le bord du cliché. Beauquesne suppose u + q, Beaucourt c-o-u sans descendante ; l''itinéraire par Varennes et Contay (au sud d''Acheux) conduit plus naturellement à Beaucourt-sur-l''Hallue, mais les traits favorisent q'
+  analyse: 'zoom ×3,5 [.84 .215 1.0 .28] : B bouclé (boucle haute + panse), e, a, puis deux éléments arrondis (u à sommets ronds, ou c + o), enfin une lettre à tête ouverte et haste descendante oblique (q, y ou g) qui touche le bord de la photographie. Beauquesne suppose u + q, Beaucourt c-o-u sans descendante ; l''itinéraire par Varennes et Contay (au sud d''Acheux) conduit plus naturellement à Beaucourt-sur-l''Hallue, mais les traits favorisent q'
   alternatives:
   - Beauquesne
   - Beaucourt
@@ -212,8 +212,8 @@ controle:
   avant: 69 notes d'apparat ; critique de 6 phrases
   apres: 37 notes ; critique de 2 phrases
   justification: 'suppression des justifications paléographiques (ponctuation absente, accents, formes de lettres, soulignements, débordements de hampes : l. 1, 2, 3, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 19, 21, 22, 24, 25) ; ces analyses restent dans changements et difficultes'
-remarques: 'La fin des l. 7 et 23 sort du cliché : la destination de la course du 12 (Beauquesne, ou Beaucourt-sur-l''Hallue que l''itinéraire par Varennes et Contay rendrait plus naturel) et la fin de petit(s) ne peuvent être tranchées que sur l''original ou un cliché complet. Les l. 21–23 sont très chargées (jambage du p de promené et virgule de Frévent descendus dans la l. 22 ; prix unitaires de la l. 23 logés sous la l. 22). Le mot après église et le petit mot après un (l. 22) restent conjecturaux ; « carillonne 1/4 d''h, usine » (lecture antérieure) n''est pas porté par les traits.'
-resume: 'Le dimanche 12 novembre 1916, journée assez belle entre le brouillard du matin et celui du soir ; le sol mou est labouré par les innombrables véhicules lourds. Matinée libre ; l''après-midi, course en auto par Varennes et Contay vers Beauquesne (nom coupé par la photographie), dans un paysage « anglais » d''arbres étriqués et de feuillages jaunes. Dépenses : journal de la semaine (40 c), casque peint kaki (1 f). Le mardi 14, Combes note le très fort bombardement de la veille et du jour du côté de Beaumont et le passage de nombreux blessés en fourgons et en voitures. Tournée à Raincheval, Doullens (grande foire) et Frévent, de 8 h 1/2 à 5 h, sous un ciel menaçant : Frévent est une petite ville coquette à belle église ; il y achète des boutons simili-cuir et des cartes postales et déjeune à l''hôtel d''Amiens (7 fr pour sa part).'
+remarques: 'La fin des l. 7 et 23 sort de la photographie : la destination de la course du 12 (Beauquesne, ou Beaucourt-sur-l''Hallue que l''itinéraire par Varennes et Contay rendrait plus naturel) et la fin de petit(s) ne peuvent être tranchées que sur l''original ou un cliché complet. Les l. 21–23 sont très chargées (jambage du p de promené et virgule de Frévent descendus dans la l. 22 ; prix unitaires de la l. 23 logés sous la l. 22). Le mot après église et le petit mot après un (l. 22) restent conjecturaux ; « carillonne 1/4 d''h, usine » (lecture antérieure) n''est pas porté par les traits.'
+resume: 'Le dimanche 12 novembre 1916, journée assez belle entre le brouillard du matin et celui du soir ; le sol mou est labouré par les innombrables véhicules lourds. Matinée libre ; l''après-midi, course en auto par Varennes et Contay vers Beauquesne (nom coupé par la photographie), dans un paysage « anglais » d''arbres étriqués et de feuillages jaunes. Dépenses : journal de la semaine (40 c), casque peint kaki (1 f). Le mardi 14, Hippolyte Combes note le très fort bombardement de la veille et du jour du côté de Beaumont et le passage de nombreux blessés en fourgons et en voitures. Tournée à Raincheval, Doullens (grande foire) et Frévent, de 8 h 1/2 à 5 h, sous un ciel menaçant : Frévent est une petite ville coquette à belle église ; il y achète des boutons simili-cuir et des cartes postales et déjeune à l''hôtel d''Amiens (7 fr pour sa part).'
 noms:
   personnes: []
   lieux:

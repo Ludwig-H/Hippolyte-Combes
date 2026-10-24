@@ -9,7 +9,7 @@ changements:
 - ligne: 3
   avant: 'occupations :'
   apres: occupations ,
-  justification: un seul trait vertical long (virgule à la manière de Combes), aucun second point
+  justification: un seul trait vertical long (virgule à la manière d'Hippolyte Combes), aucun second point
   confiance: haute
 - ligne: 4
   avant: champ de trèfle rouge.
@@ -122,7 +122,7 @@ controle:
   apres: 'note : boucle ténue au-dessus du 1'
   justification: zoom rehaussé ; la boucle pâle est au-dessus à droite du 1, position du f monétaire suscrit ; \inc{f} maintenu
 remarques: Lieu déduit de la page précédente (cantine de la gare de Raincheval). La première lettre de « Après-midi » (l. 17) est empâtée d'une tache d'encre.
-resume: 'Dimanche 17 septembre 1916, à Raincheval, la compagnie attend toujours son départ ; Combes s''occupe du fourrage vert et doit conduire un chariot à un champ de trèfle rouge. Temps très beau, frais matin et soir, soleil brûlant à midi. Il se promène plusieurs fois par jour dans le grand bois proche des horse-lines, derrière le mur du château, aux grands chênes séculaires. Le matin, il rencontre un interprète à la sortie de l''église et l''accompagne chez un petit vieux collectionneur de faïences, pierres et médailles ; l''après-midi, il assiste à un culte wesleyen dans une petite salle en face de l''église. Blanchissage : 1 franc.'
+resume: 'Dimanche 17 septembre 1916, à Raincheval, la compagnie attend toujours son départ ; Hippolyte Combes s''occupe du fourrage vert et doit conduire un chariot à un champ de trèfle rouge. Temps très beau, frais matin et soir, soleil brûlant à midi. Il se promène plusieurs fois par jour dans le grand bois proche des horse-lines, derrière le mur du château, aux grands chênes séculaires. Le matin, il rencontre un interprète à la sortie de l''église et l''accompagne chez un petit vieux collectionneur de faïences, pierres et médailles ; l''après-midi, il assiste à un culte wesleyen dans une petite salle en face de l''église. Blanchissage : 1 franc.'
 noms:
   personnes: []
   lieux:

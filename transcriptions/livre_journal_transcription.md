@@ -2,7 +2,7 @@
 
 Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés en tête ; voir l'introduction de l'édition). Conventions : <ins>souligné</ins>, <sup>suscrit</sup>, <del>biffé</del>, \ajout/, [?] lecture incertaine, [illis.] mot illisible ; les lignes du carnet sont conservées. L'apparat et les commentaires figurent dans l'édition imprimée (`edition/livre_journal.pdf`) et dans `livre_journal_donnees.json`.
 
-## couverture — Couverture : du 25 juillet 1916 au 30 avril 1917 (cliché 001)
+## couverture — Couverture : du 25 juillet 1916 au 30 avril 1917
 
 <pre>
   1  Livre - Journal
@@ -12,7 +12,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
      ————————————
 </pre>
 
-## f. 1 r° — Mardi 25 juillet 1916 (cliché 002)
+## f. 1 r° — Mardi 25 juillet 1916
 
 *Lynde et Sercus ? (Nord)*
 
@@ -42,7 +42,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  Varia : 75 c
 </pre>
 
-## f. 1 v° — Mercredi 26 juillet 1916 (cliché 003)
+## f. 1 v° — Mercredi 26 juillet 1916
 
 *Lynde (Nord)*
 
@@ -69,7 +69,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17          Food : 60c      . — Washing : 1<sup>f</sup> . –
 </pre>
 
-## f. 2 r° — Jeudi 27 juillet 1916 (cliché 004)
+## f. 2 r° — Jeudi 27 juillet 1916
 
 *Lynde, Renescure et Hazebrouck (Nord)*
 
@@ -102,7 +102,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  (bretelles) : 65c —
 </pre>
 
-## f. 2 v° — Vendredi 28 juillet 1916 (cliché 005)
+## f. 2 v° — Vendredi 28 juillet 1916
 
 *Lynde, Hazebrouck et Saint-Jans-Cappel (Nord)*
 
@@ -134,7 +134,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  Tip au groom pour soigné pony : 1.<sup>f</sup> –
 </pre>
 
-## f. 3 r° — Samedi 29 juillet 1916 (cliché 006)
+## f. 3 r° — Samedi 29 juillet 1916
 
 *Saint-Jans-Cappel et le Mont-Noir (Nord)*
 
@@ -168,7 +168,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24      eglise au clocher eff<sup>l</sup>
 </pre>
 
-## f. 3 v° — Dimanche 30 et lundi 31 juillet 1916 (cliché 007)
+## f. 3 v° — Dimanche 30 et lundi 31 juillet 1916
 
 *Saint-Jans-Cappel et Bailleul (Nord)*
 
@@ -203,7 +203,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  27      à vent, tournent sans cesse
 </pre>
 
-## f. 4 r° — Mardi 1er août 1916 (cliché 008)
+## f. 4 r° — Mardi 1er août 1916
 
 *Saint-Jans-Cappel et Bailleul (Nord)*
 
@@ -230,7 +230,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 4 v° — Mercredi 2 et jeudi 3 août 1916 (cliché 009)
+## f. 4 v° — Mercredi 2 et jeudi 3 août 1916
 
 *Saint-Jans-Cappel et Bailleul (Nord)*
 
@@ -262,7 +262,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23          — Ctes ples : 40c. – Drink : 10c —
 </pre>
 
-## f. 5 r° — Vendredi 4 août 1916 (cliché 010)
+## f. 5 r° — Vendredi 4 août 1916
 
 *Saint-Jans-Cappel, Bailleul, Steenwerck et La Croix-du-Bac (Nord)*
 
@@ -288,7 +288,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  silence —
 </pre>
 
-## f. 5 v° — Vendredi 4 août 1916 (soir) (cliché 011)
+## f. 5 v° — Vendredi 4 août 1916 (soir)
 
 *Saint-Jans-Cappel (Nord)*
 
@@ -308,7 +308,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 6 r° — Samedi 5 août 1916 (cliché 012)
+## f. 6 r° — Samedi 5 août 1916
 
 *Saint-Jans-Cappel, Bailleul et La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -340,7 +340,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  A Connelly, mon groom : 1 f —
 </pre>
 
-## f. 7 r° — Dimanche 6 août 1916 (cliché 013)
+## f. 7 r° — Dimanche 6 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord) ; Bac-Saint-Maur (Sailly-sur-la-Lys, Pas-de-Calais)*
 
@@ -366,7 +366,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17      — C<sup>tes</sup> p<sup>les</sup> : 10 c
 </pre>
 
-## f. 7 v° — Lundi 7 août 1916 (cliché 014)
+## f. 7 v° — Lundi 7 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -393,7 +393,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18      1 litre bière : 30c
 </pre>
 
-## f. 8 r° — Mardi 8 et mercredi 9 août 1916 (cliché 015)
+## f. 8 r° — Mardi 8 et mercredi 9 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -417,7 +417,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  13      Nuit, dévoré par les moustiques
 </pre>
 
-## f. 8 v° — Jeudi 10 août 1916 (cliché 016)
+## f. 8 v° — Jeudi 10 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord) ; Sailly-sur-la-Lys (Pas-de-Calais)*
 
@@ -445,7 +445,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20      C<sup>tes</sup> p<sup>les</sup> : 1 fr — Lait : 50 c  ——
 </pre>
 
-## f. 9 r° — Vendredi 11 août 1916 (cliché 017)
+## f. 9 r° — Vendredi 11 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -473,7 +473,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  ouest d Armentières  ——
 </pre>
 
-## f. 9 v° — Samedi 12 août 1916 (cliché 018)
+## f. 9 v° — Samedi 12 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord) ; Bac-Saint-Maur (Sailly-sur-la-Lys, Pas-de-Calais)*
 
@@ -500,7 +500,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  air brulant, soleil torride  ——
 </pre>
 
-## f. 10 r° — Dimanche 13 et lundi 14 août 1916 (cliché 019)
+## f. 10 r° — Dimanche 13 et lundi 14 août 1916
 
 *La Croix-du-Bac (Steenwerck) et Armentières (Nord)*
 
@@ -530,7 +530,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  Lait : 15c + 0.05
 </pre>
 
-## f. 10 v° — Mardi 15 août 1916 (Assomption) (cliché 020)
+## f. 10 v° — Mardi 15 août 1916 (Assomption)
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -550,7 +550,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 11 r° — Vendredi 18 et samedi 19 août 1916 (cliché 021)
+## f. 11 r° — Vendredi 18 et samedi 19 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -582,7 +582,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  exposée, derrière ligne de feu
 </pre>
 
-## f. 11 v° — Samedi 19 août 1916 (suite) (cliché 022)
+## f. 11 v° — Samedi 19 août 1916 (suite)
 
 *Fleurbaix (Pas-de-Calais) ; Armentières et Erquinghem-Lys (Nord)*
 
@@ -611,7 +611,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21          Fin journée Ensoleillée et \très belle/ (en marge)
 </pre>
 
-## f. 12 r° — Dimanche 20 et lundi 21 août 1916 (cliché 023)
+## f. 12 r° — Dimanche 20 et lundi 21 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -643,7 +643,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  A mon groom : 2 —      Varia : 10c —
 </pre>
 
-## f. 12 v° — Mardi 22 août 1916 (cliché 024)
+## f. 12 v° — Mardi 22 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord) ; Bac-Saint-Maur (Sailly-sur-la-Lys, Pas-de-Calais)*
 
@@ -669,7 +669,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18          Bain : 1<sup>25</sup>
 </pre>
 
-## f. 13 r° — Mercredi 23 août 1916 (cliché 025)
+## f. 13 r° — Mercredi 23 août 1916
 
 *La Croix-du-Bac (Steenwerck) et Estaires (Nord)*
 
@@ -699,7 +699,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  1/4 livre bonbons chocolat : 75c –
 </pre>
 
-## f. 13 v° — Jeudi 24 août 1916 (cliché 026)
+## f. 13 v° — Jeudi 24 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -726,7 +726,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  washing [?] et divers : 4 fr. —
 </pre>
 
-## f. 14 r° — Vendredi 25 août 1916 (cliché 027)
+## f. 14 r° — Vendredi 25 août 1916
 
 *La Croix-du-Bac (Steenwerck) et Bailleul (Nord) ; Saint-Pol-sur-Ternoise (Pas-de-Calais)*
 
@@ -753,7 +753,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19  à la fin de l'été  ——
 </pre>
 
-## f. 14 v° — Vendredi 25 août 1916 (suite) (cliché 028)
+## f. 14 v° — Vendredi 25 août 1916 (suite)
 
 *Bailleul (Nord) ; Saint-Pol-sur-Ternoise et Marquay (Pas-de-Calais)*
 
@@ -782,7 +782,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  Food : Bailleul : 75c. – St-Pol : 1<sup>f</sup>  ——
 </pre>
 
-## f. 15 r° — Samedi 26 août 1916 (cliché 029)
+## f. 15 r° — Samedi 26 août 1916
 
 *Marquay et Bailleul-aux-Cornailles (Pas-de-Calais)*
 
@@ -810,7 +810,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  tenue, sale, moisie – quelle torture!
 </pre>
 
-## f. 15 v° — Lundi 28 et mardi 29 août 1916 (cliché 030)
+## f. 15 v° — Lundi 28 et mardi 29 août 1916
 
 *Marquay (Pas-de-Calais)*
 
@@ -842,7 +842,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  comme soeur [?] neo-latine [?]  ——
 </pre>
 
-## f. 16 r° — Mercredi 30 août 1916 (cliché 031)
+## f. 16 r° — Mercredi 30 août 1916
 
 *Marquay (Pas-de-Calais)*
 
@@ -859,7 +859,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 16 v° — Jeudi 31 août 1916 (cliché 032)
+## f. 16 v° — Jeudi 31 août 1916
 
 *Marquay, Ramecourt ?, Saint-Michel-sur-Ternoise et Saint-Pol-sur-Ternoise (Pas-de-Calais)*
 
@@ -889,7 +889,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  Cartes ples militaires : 40c. —      \080/ (en marge)
 </pre>
 
-## f. 17 r° — Vendredi 1er septembre 1916 (cliché 033)
+## f. 17 r° — Vendredi 1er septembre 1916
 
 *Marquay et Ligny-Saint-Flochel (Pas-de-Calais)*
 
@@ -919,7 +919,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 17 v° — Samedi 2 et dimanche 3 septembre 1916 (cliché 034)
+## f. 17 v° — Samedi 2 et dimanche 3 septembre 1916
 
 *Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)*
 
@@ -949,7 +949,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  Rentré avant pluie —
 </pre>
 
-## f. 18 r° — Dimanche 3 septembre 1916 (suite) (cliché 036)
+## f. 18 r° — Dimanche 3 septembre 1916 (suite)
 
 *Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)*
 
@@ -968,7 +968,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  10  1 Eponge : 60 – – — 1/4 livre choc<sup>t</sup> Poulain : f [?]
 </pre>
 
-## f. 18 v° — Lundi 4 et mardi 5 septembre 1916 (cliché 035)
+## f. 18 v° — Lundi 4 et mardi 5 septembre 1916
 
 *Marquay et Roëllecourt (Pas-de-Calais)*
 
@@ -999,7 +999,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  78<sup>f</sup> 75c
 </pre>
 
-## f. 19 r° — Mercredi 6 et jeudi 7 septembre 1916 (cliché 037)
+## f. 19 r° — Mercredi 6 et jeudi 7 septembre 1916
 
 *Marquay, Saint-Pol-sur-Ternoise et Saint-Michel-sur-Ternoise (Pas-de-Calais)*
 
@@ -1033,7 +1033,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  allée de pins      Consommations : 50 [?] c
 </pre>
 
-## f. 19 v° — Vendredi 8 septembre 1916 (cliché 038)
+## f. 19 v° — Vendredi 8 septembre 1916
 
 *Marquay (Pas-de-Calais)*
 
@@ -1054,7 +1054,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  12  — Box of tooth powder : 65 c
 </pre>
 
-## f. 20 r° — Samedi 9 septembre 1916 (cliché 039)
+## f. 20 r° — Samedi 9 septembre 1916
 
 *Marquay, Ligny-Saint-Flochel et Monts-en-Ternois (Pas-de-Calais)*
 
@@ -1085,7 +1085,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  & 1 tip au chevaux [?] —
 </pre>
 
-## f. 20 v° — Dimanche 10 septembre 1916 (cliché 040)
+## f. 20 v° — Dimanche 10 septembre 1916
 
 *Monts-en-Ternois et Oppy (Beaudricourt, Pas-de-Calais)*
 
@@ -1112,7 +1112,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  Couché tôt
 </pre>
 
-## f. 21 r° — Lundi 11 septembre 1916 (cliché 041)
+## f. 21 r° — Lundi 11 septembre 1916
 
 *Oppy (Beaudricourt, Pas-de-Calais) ; Lucheux, Thièvres et Raincheval (Somme)*
 
@@ -1143,7 +1143,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  1 litre bière : 50 + 10 c –
 </pre>
 
-## f. 21 v° — Mardi 12 et mercredi 13 septembre 1916 (cliché 042)
+## f. 21 v° — Mardi 12 et mercredi 13 septembre 1916
 
 *Raincheval (Somme)*
 
@@ -1175,7 +1175,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  Tout le jour, et 1<sup>ère</sup> fois, mess des offs
 </pre>
 
-## f. 22 r° — Jeudi 14 et vendredi 15 septembre 1916 (cliché 043)
+## f. 22 r° — Jeudi 14 et vendredi 15 septembre 1916
 
 *Raincheval et Acheux-en-Amiénois (Somme)*
 
@@ -1206,7 +1206,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20          Cananda [?] in Flanders . – . 1<sup>f</sup> 25 —
 </pre>
 
-## f. 22 v° — Dimanche 17 septembre 1916 (cliché 044)
+## f. 22 v° — Dimanche 17 septembre 1916
 
 *Raincheval (Somme)*
 
@@ -1234,7 +1234,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19      — Washing : 1 f [?] —
 </pre>
 
-## f. 23 r° — Lundi 18 septembre 1916 (cliché 045)
+## f. 23 r° — Lundi 18 septembre 1916
 
 *Raincheval, Hédauville, Forceville et Acheux-en-Amiénois (Somme)*
 
@@ -1265,7 +1265,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  Tip à Connelly mon groom : 2<sup>f</sup> —
 </pre>
 
-## f. 23 v° — Jeudi 21 septembre 1916 (cliché 046)
+## f. 23 v° — Jeudi 21 septembre 1916
 
 *Raincheval et Acheux-en-Amiénois (Somme)*
 
@@ -1288,7 +1288,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  13          — Cartes ples : 0.25 c.
 </pre>
 
-## f. 24 r° — Vendredi 22 septembre 1916 (cliché 047)
+## f. 24 r° — Vendredi 22 septembre 1916
 
 *Raincheval (Somme)*
 
@@ -1315,7 +1315,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18      Eggs & food : 1 f 10 —
 </pre>
 
-## f. 24 v° — Samedi 23 septembre 1916 (cliché 048)
+## f. 24 v° — Samedi 23 septembre 1916
 
 *Raincheval, Léalvillers, Acheux-en-Amiénois et Forceville (Somme)*
 
@@ -1345,7 +1345,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  Carte du Petit Journal : 60 c —
 </pre>
 
-## f. 25 r° — Dimanche 24 septembre 1916 (cliché 049)
+## f. 25 r° — Dimanche 24 septembre 1916
 
 *Forceville et Acheux-en-Amiénois (Somme)*
 
@@ -1374,7 +1374,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  Canon, grondé tout le long du front
 </pre>
 
-## f. 25 v° — Lundi 25 septembre 1916 (cliché 050)
+## f. 25 v° — Lundi 25 septembre 1916
 
 *Forceville et Acheux-en-Amiénois (Somme)*
 
@@ -1401,7 +1401,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19  Lunch à Acheux : 1<sup>f</sup> 50      0.50c
 </pre>
 
-## f. 26 r° — Lundi 25 septembre 1916 (suite) (cliché 051)
+## f. 26 r° — Lundi 25 septembre 1916 (suite)
 
 *Acheux-en-Amiénois, Gézaincourt, Amiens et Longueau (Somme)*
 
@@ -1427,7 +1427,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  Voyagé tte la nuit  ——
 </pre>
 
-## f. 26 v° — Mardi 26 septembre 1916 (cliché 052)
+## f. 26 v° — Mardi 26 septembre 1916
 
 *Le Bourget (Seine-Saint-Denis) ; Paris*
 
@@ -1455,7 +1455,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21      Chz Colin
 </pre>
 
-## f. 27 r° — Mardi 26 septembre 1916 (cliché 053)
+## f. 27 r° — Mardi 26 septembre 1916
 
 *Paris*
 
@@ -1485,7 +1485,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  Carte Roumanie : 30 c – Divers [?] : W.C : 15 c
 </pre>
 
-## f. 27 v° — Mercredi 27 septembre 1916 (cliché 054)
+## f. 27 v° — Mercredi 27 septembre 1916
 
 *Toulouse (Haute-Garonne)*
 
@@ -1510,7 +1510,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  15  Cartes ples :
 </pre>
 
-## f. 28 r° — Jeudi 28 septembre 1916 (cliché 055)
+## f. 28 r° — Jeudi 28 septembre 1916
 
 *Toulouse (Haute-Garonne)*
 
@@ -1541,7 +1541,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  Bouquet (place Esquirol : 3<sup>f</sup> —
 </pre>
 
-## f. 28 v° — Vendredi 29 septembre 1916 (cliché 056)
+## f. 28 v° — Vendredi 29 septembre 1916
 
 *Toulouse et Blagnac (Haute-Garonne)*
 
@@ -1571,7 +1571,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  Fruits : 25c + 55c. — Fleurs : 25c
 </pre>
 
-## f. 29 r° — Samedi 30 septembre 1916 (cliché 057)
+## f. 29 r° — Samedi 30 septembre 1916
 
 *Toulouse (Haute-Garonne)*
 
@@ -1606,7 +1606,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  27  Tram : 20c. – Sweets & cakes : 3f – Bière & \limonade/ 0.80c.
 </pre>
 
-## f. 29 v° — Dimanche 1er octobre 1916 (cliché 058)
+## f. 29 v° — Dimanche 1er octobre 1916
 
 *Toulouse (Haute-Garonne)*
 
@@ -1631,7 +1631,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  15      Sweets : 20c
 </pre>
 
-## f. 30 r° — Lundi 2 octobre 1916 (cliché 059)
+## f. 30 r° — Lundi 2 octobre 1916
 
 *Toulouse (Haute-Garonne)*
 
@@ -1661,7 +1661,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  1.25
 </pre>
 
-## f. 30 v° — Mardi 3 octobre 1916 (cliché 060)
+## f. 30 v° — Mardi 3 octobre 1916
 
 *Toulouse et Castanet-Tolosan ? (Haute-Garonne)*
 
@@ -1688,7 +1688,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  Automate : 30 + 20 c      fruits : 80 c Gatx : 6 [?]
 </pre>
 
-## f. 31 r° — Mardi 3 octobre 1916 (cliché 061)
+## f. 31 r° — Mardi 3 octobre 1916
 
 *Toulouse (Haute-Garonne)*
 
@@ -1707,7 +1707,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 31 v° — Mercredi 4 octobre 1916 (cliché 062)
+## f. 31 v° — Mercredi 4 octobre 1916
 
 *Toulouse (Haute-Garonne)*
 
@@ -1735,7 +1735,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  ménagement pour l'oncle  ——
 </pre>
 
-## f. 32 r° — Mercredi 4 octobre 1916 (soir et nuit) ; comptes du 4 octobre, notés le 5 (cliché 064)
+## f. 32 r° — Mercredi 4 octobre 1916 (soir et nuit) ; comptes du 4 octobre, notés le 5
 
 *Toulouse (Haute-Garonne) ; Paris*
 
@@ -1757,7 +1757,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  13          Crouzet : 5<sup>f</sup> —
 </pre>
 
-## f. 32 v° — Jeudi 5 octobre 1916 (cliché 063)
+## f. 32 v° — Jeudi 5 octobre 1916
 
 *Paris*
 
@@ -1783,7 +1783,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19  Dû revenir \par/ metro a gare du Nord
 </pre>
 
-## f. 33 r° — Jeudi 5 octobre 1916 (suite) (cliché 065)
+## f. 33 r° — Jeudi 5 octobre 1916 (suite)
 
 *Paris ; Amiens et Doullens (Somme)*
 
@@ -1803,7 +1803,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   9  Consigne : 10c  ——
 </pre>
 
-## f. 33 v° — Vendredi 6 octobre 1916 (matin) (cliché 066)
+## f. 33 v° — Vendredi 6 octobre 1916 (matin)
 
 *Doullens, Canaples et Barlette (Ribeaucourt, Somme)*
 
@@ -1830,7 +1830,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 34 r° — Vendredi 6 octobre 1916 (cliché 067)
+## f. 34 r° — Vendredi 6 octobre 1916
 
 *Barlette (Ribeaucourt) et Bernaville (Somme)*
 
@@ -1858,7 +1858,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18      Gift au Q.M.S Tait : 5 fr. —
 </pre>
 
-## f. 34 v° — Samedi 7 octobre 1916 (cliché 068)
+## f. 34 v° — Samedi 7 octobre 1916
 
 *Barlette (Ribeaucourt, Somme)*
 
@@ -1883,7 +1883,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  16  mess en sept, pour – – jours : 29<sup>f</sup> —
 </pre>
 
-## f. 35 r° — Dimanche 8 octobre 1916 (cliché 069)
+## f. 35 r° — Dimanche 8 octobre 1916
 
 *Barlette (Ribeaucourt) et Bernaville (Somme)*
 
@@ -1902,7 +1902,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  10  A Bernaville, solde & indemnité .: 78<sup>75</sup> [?]
 </pre>
 
-## f. 35 v° — Lundi 9 octobre 1916 (cliché 070)
+## f. 35 v° — Lundi 9 octobre 1916
 
 *Barlette (Ribeaucourt, Somme)*
 
@@ -1929,7 +1929,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  belle chambre, 1 vrai salon
 </pre>
 
-## f. 36 r° — Mardi 10 octobre 1916 (cliché 071)
+## f. 36 r° — Mardi 10 octobre 1916
 
 *Barlette (Ribeaucourt, Somme)*
 
@@ -1954,7 +1954,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  gde paix épandue  ——
 </pre>
 
-## f. 36 v° — Mercredi 11 octobre 1916 (cliché 072)
+## f. 36 v° — Mercredi 11 octobre 1916
 
 *Barlette (Ribeaucourt, Somme)*
 
@@ -1973,7 +1973,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 37 r° — Jeudi 12 et vendredi 13 octobre 1916 (cliché 073)
+## f. 37 r° — Jeudi 12 et vendredi 13 octobre 1916
 
 *Barlette (Ribeaucourt) et Prouville (Somme)*
 
@@ -2000,7 +2000,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  shifterons dimanche. Regret de partir !
 </pre>
 
-## f. 37 v° — Dimanche 15 octobre 1916 (cliché 074)
+## f. 37 v° — Dimanche 15 octobre 1916
 
 *Barlette (Ribeaucourt) et Beauval (Somme)*
 
@@ -2024,7 +2024,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  15  Cartes p<sup>les</sup> à Beauval : 15 [?] c
 </pre>
 
-## f. 38 r° — Lundi 16 octobre 1916 (cliché 075)
+## f. 38 r° — Lundi 16 octobre 1916
 
 *Beauval, Beauquesne, Puchevillers et Warloy-Baillon (Somme)*
 
@@ -2048,7 +2048,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17          Visité ds la brasserie et revu amis.
 </pre>
 
-## f. 38 v° — Lundi 16 – mardi 17 octobre 1916 (cliché 076)
+## f. 38 v° — Lundi 16 – mardi 17 octobre 1916
 
 *Beauval et Warloy-Baillon (Somme)*
 
@@ -2070,7 +2070,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  13  sorte
 </pre>
 
-## f. 39 r° — Mardi 17 octobre 1916 (suite) (cliché 077)
+## f. 39 r° — Mardi 17 octobre 1916 (suite)
 
 *Warloy-Baillon, Senlis-le-Sec, Bouzincourt et Hédauville (Somme)*
 
@@ -2087,7 +2087,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   9  <ins>17 mardi</ins>      <ins>oct 16</ins>
 </pre>
 
-## f. 39 v° — Mercredi 18 octobre 1916 (cliché 078)
+## f. 39 v° — Mercredi 18 octobre 1916
 
 *Bouzincourt, Hédauville et Albert (Somme)*
 
@@ -2108,7 +2108,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  14  1 caisse, regardé à loisir camp & au-delà route
 </pre>
 
-## f. 40 r° — Mercredi 18 octobre 1916 (suite) (cliché 079)
+## f. 40 r° — Mercredi 18 octobre 1916 (suite)
 
 *Bouzincourt, Hédauville et Albert (Somme)*
 
@@ -2125,7 +2125,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   7  Albert, mission frse : 84 fr – —
 </pre>
 
-## f. 40 v° — Jeudi 19 octobre 1916 (cliché 080)
+## f. 40 v° — Jeudi 19 octobre 1916
 
 *Bouzincourt, Hédauville et Albert (Somme)*
 
@@ -2152,7 +2152,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20      — Cartes ples d'Albert : 20c
 </pre>
 
-## f. 41 r° — Vendredi 20 octobre 1916 (cliché 081)
+## f. 41 r° — Vendredi 20 octobre 1916
 
 *Albert (Somme)*
 
@@ -2179,7 +2179,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  extrême  ——
 </pre>
 
-## f. 41 v° — Samedi 21 octobre 1916 (cliché 082)
+## f. 41 v° — Samedi 21 octobre 1916
 
 *Albert et Aveluy (Somme)*
 
@@ -2204,7 +2204,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 42 r° — Dimanche 22 octobre 1916 (cliché 083)
+## f. 42 r° — Dimanche 22 octobre 1916
 
 *Albert (Somme)*
 
@@ -2230,7 +2230,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18      Ce soir, exceptt, calme absolu
 </pre>
 
-## f. 42 v° — Lundi 23 octobre 1916 (cliché 084)
+## f. 42 v° — Lundi 23 octobre 1916
 
 *Albert et La Boisselle (Ovillers-la-Boisselle, Somme)*
 
@@ -2250,7 +2250,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  12  — Cartes ples d'Albert : 70c.
 </pre>
 
-## f. 43 r° — Mardi 24 et mercredi 25 octobre 1916 (cliché 085)
+## f. 43 r° — Mardi 24 et mercredi 25 octobre 1916
 
 *Albert (Somme)*
 
@@ -2278,7 +2278,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  d'1 extrême monotonie —
 </pre>
 
-## f. 43 v° — Jeudi 26 et samedi 28 octobre 1916 (cliché 086)
+## f. 43 v° — Jeudi 26 et samedi 28 octobre 1916
 
 *Albert (Somme)*
 
@@ -2309,7 +2309,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  à l'horizon — [ Cartes ples : 75c
 </pre>
 
-## f. 44 r° — Dimanche 29 – lundi 30 octobre 1916 (cliché 087)
+## f. 44 r° — Dimanche 29 – lundi 30 octobre 1916
 
 *Albert, Acheux-en-Amiénois et Senlis-le-Sec (Somme)*
 
@@ -2343,7 +2343,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  et très fortes averses  ——
 </pre>
 
-## f. 44 v° — Mardi 31 octobre 1916 (cliché 088)
+## f. 44 v° — Mardi 31 octobre 1916
 
 *Albert (Somme)*
 
@@ -2357,7 +2357,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 45 r° — Mercredi 1er novembre 1916 (cliché 089)
+## f. 45 r° — Mercredi 1er novembre 1916
 
 *Albert (Somme)*
 
@@ -2389,7 +2389,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  à Acheux. Ns sommes détachés de la Coy Transport –
 </pre>
 
-## f. 45 v° — Jeudi 2 novembre 1916 (cliché 090)
+## f. 45 v° — Jeudi 2 novembre 1916
 
 *Albert et Acheux-en-Amiénois (Somme)*
 
@@ -2416,7 +2416,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  Tout l'apres-midi, perdu temps —
 </pre>
 
-## f. 46 r° — Jeudi 2 novembre 1916 (suite) ; vendredi 3 novembre 1916 (cliché 091)
+## f. 46 r° — Jeudi 2 novembre 1916 (suite) ; vendredi 3 novembre 1916
 
 *Acheux-en-Amiénois, Raincheval et Albert (Somme)*
 
@@ -2442,7 +2442,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  6 jours de permission)
 </pre>
 
-## f. 46 v° — Samedi 4 novembre 1916 (cliché 092)
+## f. 46 v° — Samedi 4 novembre 1916
 
 *Acheux-en-Amiénois, Bertrancourt et Albert (Somme)*
 
@@ -2467,7 +2467,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  gelees d'automnes. Routes, affr<sup>t</sup> boueuses
 </pre>
 
-## f. 47 r° — Dimanche 5 novembre 1916 (cliché 094)
+## f. 47 r° — Dimanche 5 novembre 1916
 
 *Acheux-en-Amiénois (Somme)*
 
@@ -2493,7 +2493,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19      Des 8<sup>h</sup> 1/2, ds ma chambre  ——
 </pre>
 
-## f. 47 v° — Lundi 6 – mardi 7 novembre 1916 (cliché 095)
+## f. 47 v° — Lundi 6 – mardi 7 novembre 1916
 
 *Acheux-en-Amiénois, Belle-Église (Arquèves), Hérissart, Rubempré et Coisy (Somme)*
 
@@ -2526,7 +2526,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  de troupes allant au repos ou se rendant firing line
 </pre>
 
-## f. 48 r° — Mercredi 8 – jeudi 9 novembre 1916 (cliché 096)
+## f. 48 r° — Mercredi 8 – jeudi 9 novembre 1916
 
 *Acheux-en-Amiénois, Forceville, Albert, Varennes et Warloy-Baillon (Somme)*
 
@@ -2555,7 +2555,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21      Bombardement commence sur Albert  ——
 </pre>
 
-## f. 48 v° — Vendredi 10 – samedi 11 novembre 1916 (cliché 097)
+## f. 48 v° — Vendredi 10 – samedi 11 novembre 1916
 
 *Acheux-en-Amiénois, Raincheval, Léalvillers et Varennes (Somme)*
 
@@ -2584,7 +2584,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 49 r° — Dimanche 12 et mardi 14 novembre 1916 (cliché 098)
+## f. 49 r° — Dimanche 12 et mardi 14 novembre 1916
 
 *Acheux-en-Amiénois, Contay, Beauquesne ? et Doullens (Somme) ; Frévent (Pas-de-Calais)*
 
@@ -2618,7 +2618,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  Déjeuner à l'hôtel d'Amiens, ma part : 7 fr
 </pre>
 
-## f. 49 v° — Mercredi 15 et jeudi 16 novembre 1916 (cliché 099)
+## f. 49 v° — Mercredi 15 et jeudi 16 novembre 1916
 
 *Acheux-en-Amiénois, Albert, Raincheval, Louvencourt, Toutencourt et Hérissart (Somme)*
 
@@ -2649,7 +2649,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  (tiss [?]) près Paris. Intelligent & distingué
 </pre>
 
-## f. 50 r° — Vendredi 17 – samedi 18 novembre 1916 (cliché 100)
+## f. 50 r° — Vendredi 17 – samedi 18 novembre 1916
 
 *Acheux-en-Amiénois, Authie et Albert (Somme) ; Orville et Amplier (Pas-de-Calais)*
 
@@ -2682,7 +2682,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  — Albert : solde : 88 fr [?] — 3 C<sup>tes</sup> p<sup>les</sup> : 30 c
 </pre>
 
-## f. 50 v° — Lundi 20 et mardi 21 novembre 1916 (cliché 101)
+## f. 50 v° — Lundi 20 et mardi 21 novembre 1916
 
 *Acheux-en-Amiénois, Bouzincourt, Contay ? et Englebelmer (Somme)*
 
@@ -2715,7 +2715,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  contre lui. –
 </pre>
 
-## f. 51 r° — Mercredi 22 – jeudi 23 novembre 1916 (cliché 102)
+## f. 51 r° — Mercredi 22 – jeudi 23 novembre 1916
 
 *Acheux-en-Amiénois, Authieule et Authie (Somme) ; Amplier (Pas-de-Calais)*
 
@@ -2748,7 +2748,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  Washing : 1 25 [?]. —
 </pre>
 
-## f. 51 v° — Samedi 25 – dimanche 26 novembre 1916 (cliché 103)
+## f. 51 v° — Samedi 25 – dimanche 26 novembre 1916
 
 *Acheux-en-Amiénois et Hérissart (Somme)*
 
@@ -2781,7 +2781,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  (magnif<sup>t</sup> étoilée
 </pre>
 
-## f. 52 r° — Mardi 28 – jeudi 30 novembre 1916 (cliché 104)
+## f. 52 r° — Mardi 28 – jeudi 30 novembre 1916
 
 *Acheux-en-Amiénois, Martinsart (Mesnil-Martinsart), Raincheval et Hérissart (Somme)*
 
@@ -2815,7 +2815,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  26  49 C, chambre de L<sup>t</sup> Curtis.
 </pre>
 
-## f. 52 v° — Vendredi 1er – samedi 2 décembre 1916 (cliché 105)
+## f. 52 v° — Vendredi 1er – samedi 2 décembre 1916
 
 *Acheux-en-Amiénois, Franvillers, Buire-sur-l'Ancre et Toutencourt (Somme)*
 
@@ -2848,7 +2848,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  26          vu Cap. H.
 </pre>
 
-## f. 53 r° — Dimanche 3 – lundi 4 décembre 1916 (cliché 106)
+## f. 53 r° — Dimanche 3 – lundi 4 décembre 1916
 
 *Acheux-en-Amiénois, Corbie, Marcelcave et Belle-Église (Arquèves, Somme)*
 
@@ -2882,7 +2882,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  26  Capt. Williams (charmant et de + en + sympathique
 </pre>
 
-## f. 53 v° — Mardi 5 – mercredi 6 décembre 1916 (cliché 107)
+## f. 53 v° — Mardi 5 – mercredi 6 décembre 1916
 
 *Acheux-en-Amiénois, Authie, Bayencourt, Coigneux et Louvencourt (Somme)*
 
@@ -2910,7 +2910,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 54 r° — Jeudi 7 – vendredi 8 décembre 1916 (cliché 108)
+## f. 54 r° — Jeudi 7 – vendredi 8 décembre 1916
 
 *Acheux-en-Amiénois, Belle-Église (Arquèves), Englebelmer et Saint-Léger-lès-Authie (Somme)*
 
@@ -2944,7 +2944,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  27  arqueves : on a commencé à battre paille
 </pre>
 
-## f. 54 v° — Samedi 9 – lundi 11 décembre 1916 (cliché 109)
+## f. 54 v° — Samedi 9 – lundi 11 décembre 1916
 
 *Acheux-en-Amiénois et Authie (Somme) ; Orville et Saulty (Pas-de-Calais)*
 
@@ -2974,7 +2974,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  Tin of Wren's Dubbin : 30c  ——
 </pre>
 
-## f. 55 r° — Mardi 12 – jeudi 14 décembre 1916 (cliché 110)
+## f. 55 r° — Mardi 12 – jeudi 14 décembre 1916
 
 *Acheux-en-Amiénois, Senlis-le-Sec, Toutencourt, Puchevillers et Harponville (Somme)*
 
@@ -3005,7 +3005,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  – Essuie-mains [?] : 90c —
 </pre>
 
-## f. 55 v° — Vendredi 15 et lundi 18 décembre 1916 (cliché 111)
+## f. 55 v° — Vendredi 15 et lundi 18 décembre 1916
 
 *Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval et Puchevillers (Somme)*
 
@@ -3037,7 +3037,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23      — Cartes ples : 25c
 </pre>
 
-## f. 56 r° — Mardi 19 – mercredi 20 décembre 1916 (cliché 113)
+## f. 56 r° — Mardi 19 – mercredi 20 décembre 1916
 
 *Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval et Beauquesne (Somme)*
 
@@ -3068,7 +3068,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  brouillard et pluie des semaines précédentes
 </pre>
 
-## f. 56 v° — Vendredi 22 et dimanche 24 décembre 1916 (cliché 112)
+## f. 56 v° — Vendredi 22 et dimanche 24 décembre 1916
 
 *Acheux-en-Amiénois, Senlis-le-Sec, Beauquesne et Authie (Somme) ; Orville (Pas-de-Calais)*
 
@@ -3100,7 +3100,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  — Authie : 2 oeufs s/plat : 70c. — Cartes p<sup>les</sup> : 30c
 </pre>
 
-## f. 57 r° — Lundi 25 décembre 1916 (cliché 114)
+## f. 57 r° — Lundi 25 décembre 1916
 
 *Acheux-en-Amiénois (Somme)*
 
@@ -3131,7 +3131,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 57 v° — Mardi 26 et mercredi 27 décembre 1916 (cliché 115)
+## f. 57 v° — Mardi 26 et mercredi 27 décembre 1916
 
 *Acheux-en-Amiénois, Raincheval, Arquèves, Beauquesne et Doullens (Somme)*
 
@@ -3156,7 +3156,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  16  Cartes ples : 55 c
 </pre>
 
-## f. 58 r° — Jeudi 28 – vendredi 29 décembre 1916 (cliché 116)
+## f. 58 r° — Jeudi 28 – vendredi 29 décembre 1916
 
 *Acheux-en-Amiénois, Léalvillers, Raincheval et Louvencourt (Somme)*
 
@@ -3188,7 +3188,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  chambre sans feu, et fenetres ouvertes
 </pre>
 
-## f. 58 v° — Samedi 30 et dimanche 31 décembre 1916 (cliché 117)
+## f. 58 v° — Samedi 30 et dimanche 31 décembre 1916
 
 *Acheux-en-Amiénois, Franvillers, Senlis-le-Sec, Raincheval et Beauquesne (Somme)*
 
@@ -3220,7 +3220,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  = 88 fr. —
 </pre>
 
-## f. 59 r° — Lundi 1er et mardi 2 janvier 1917 (cliché 118)
+## f. 59 r° — Lundi 1er et mardi 2 janvier 1917
 
 *Acheux-en-Amiénois, Toutencourt et Authie (Somme) ; Saulty (Pas-de-Calais)*
 
@@ -3253,7 +3253,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  – Acheux : new boots, nails on : 1<sup>f</sup> —
 </pre>
 
-## f. 59 v° — Mercredi 3 janvier 1917 (cliché 119)
+## f. 59 v° — Mercredi 3 janvier 1917
 
 *Acheux-en-Amiénois, Belle-Église (Arquèves), Montigny-sur-l'Hallue et Amiens (Somme)*
 
@@ -3284,7 +3284,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  1 bonnet police drap bleu : 3<sup>f</sup> 75c
 </pre>
 
-## f. 60 r° — Jeudi 4 – vendredi 5 janvier 1917 (cliché 120)
+## f. 60 r° — Jeudi 4 – vendredi 5 janvier 1917
 
 *Acheux-en-Amiénois, Septenville (Rubempré) et Beauquesne (Somme)*
 
@@ -3317,7 +3317,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  Bureau Mission F<sup>r</sup> XIIIe Corps Achx [?] : 78<sup>f</sup> 75
 </pre>
 
-## f. 60 v° — Samedi 6 – mardi 9 janvier 1917 (cliché 121)
+## f. 60 v° — Samedi 6 – mardi 9 janvier 1917
 
 *Acheux-en-Amiénois, Louvencourt, Bertrancourt, Authie, Raincheval et Hédauville (Somme)*
 
@@ -3350,7 +3350,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24      — Avis de réception pour Imbert : 15c —
 </pre>
 
-## f. 61 r° — Mercredi 10 – vendredi 12 janvier 1917 (cliché 122)
+## f. 61 r° — Mercredi 10 – vendredi 12 janvier 1917
 
 *Acheux-en-Amiénois, Saint-Léger-lès-Authie, Authie, Beauquesne et Rubempré (Somme)*
 
@@ -3384,7 +3384,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  Rentré vers 6<sup>h</sup>, nuit noire.
 </pre>
 
-## f. 61 v° — Samedi 13 – lundi 15 janvier 1917 (cliché 123)
+## f. 61 v° — Samedi 13 – lundi 15 janvier 1917
 
 *Acheux-en-Amiénois, Beaucourt-sur-l'Hallue, Montigny-sur-l'Hallue et Doullens (Somme)*
 
@@ -3416,7 +3416,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  — 1 plaque chocolat : 65 [?] c
 </pre>
 
-## f. 62 r° — Mardi 16 – mercredi 17 janvier 1917 (cliché 124)
+## f. 62 r° — Mardi 16 – mercredi 17 janvier 1917
 
 *Acheux-en-Amiénois, Rubempré et Doullens (Somme) ; Auxi-le-Château (Pas-de-Calais)*
 
@@ -3450,7 +3450,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  et dégel commencé —
 </pre>
 
-## f. 62 v° — Jeudi 18 et vendredi 19 janvier 1917 (cliché 125)
+## f. 62 v° — Jeudi 18 et vendredi 19 janvier 1917
 
 *Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval et Puchevillers (Somme)*
 
@@ -3478,7 +3478,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 63 r° — Samedi 20 – mardi 23 janvier 1917 (cliché 126)
+## f. 63 r° — Samedi 20 – mardi 23 janvier 1917
 
 *Acheux-en-Amiénois et Louvencourt (Somme)*
 
@@ -3509,7 +3509,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  soleil. Neige etincelle sous ses rayons
 </pre>
 
-## f. 63 v° — Mardi 23 (soir) – jeudi 25 janvier 1917 (cliché 127)
+## f. 63 v° — Mardi 23 (soir) – jeudi 25 janvier 1917
 
 *Acheux-en-Amiénois (Somme)*
 
@@ -3538,7 +3538,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20      [ — Dépenses mess pour janvier = 79<sup>f</sup> 10
 </pre>
 
-## f. 64 r° — Vendredi 26 janvier 1917 (cliché 128)
+## f. 64 r° — Vendredi 26 janvier 1917
 
 *Acheux-en-Amiénois, Varennes et Gézaincourt (Somme)*
 
@@ -3569,7 +3569,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  retard. Quitté Gezaincourt, à 10<sup>H</sup>30. s.
 </pre>
 
-## f. 64 v° — Vendredi 26 janvier 1917 (suite, nuit du 26 au 27) (cliché 129)
+## f. 64 v° — Vendredi 26 janvier 1917 (suite, nuit du 26 au 27)
 
 *Gézaincourt et Amiens (Somme)*
 
@@ -3589,7 +3589,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 65 r° — Samedi 27 janvier 1917 (cliché 130)
+## f. 65 r° — Samedi 27 janvier 1917
 
 *Amiens (Somme) ; Paris ; Neuilly-sur-Seine (Hauts-de-Seine)*
 
@@ -3619,7 +3619,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  Maison luxueuse. Au 4<sup>e</sup> etage, à g.
 </pre>
 
-## f. 65 v° — Samedi 27 janvier 1917 (suite) (cliché 131)
+## f. 65 v° — Samedi 27 janvier 1917 (suite)
 
 *Neuilly-sur-Seine (Hauts-de-Seine) ; Paris*
 
@@ -3646,7 +3646,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 66 r° — Samedi 27 (comptes) et dimanche 28 janvier 1917 (cliché 132)
+## f. 66 r° — Samedi 27 (comptes) et dimanche 28 janvier 1917
 
 *Paris ; Toulouse (Haute-Garonne)*
 
@@ -3677,7 +3677,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
      ————————————
 </pre>
 
-## f. 66 v° — Dimanche 28 janvier 1917 (suite) (cliché 133)
+## f. 66 v° — Dimanche 28 janvier 1917 (suite)
 
 *Toulouse (Haute-Garonne)*
 
@@ -3700,7 +3700,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  15      — Trams : 10c, 10c –
 </pre>
 
-## f. 67 r° — Lundi 29 janvier 1917 (cliché 134)
+## f. 67 r° — Lundi 29 janvier 1917
 
 *Toulouse (Haute-Garonne)*
 
@@ -3732,7 +3732,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  Cartes pour visiter cryptes de St-Sernin : 1<sup>f</sup> —
 </pre>
 
-## f. 67 v° — Mardi 30 janvier 1917 (cliché 135)
+## f. 67 v° — Mardi 30 janvier 1917
 
 *Toulouse (Haute-Garonne)*
 
@@ -3760,7 +3760,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  Le Miroir de Modes (no de janvier) : 1<sup>f</sup> —
 </pre>
 
-## f. 68 r° — Mercredi 31 janvier 1917 (cliché 136)
+## f. 68 r° — Mercredi 31 janvier 1917
 
 *Toulouse (Haute-Garonne)*
 
@@ -3788,7 +3788,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  Télegramme à Mme Spagnol, Nice : 2<sup>f</sup> —
 </pre>
 
-## f. 68 v° — Jeudi 1er février 1917 (cliché 137)
+## f. 68 v° — Jeudi 1er février 1917
 
 *Toulouse (Haute-Garonne)*
 
@@ -3816,7 +3816,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  (12 œufs, 1/2 beurre, 1 boulangeon [?])
 </pre>
 
-## f. 69 r° — Vendredi 2 février 1917 (cliché 138)
+## f. 69 r° — Vendredi 2 février 1917
 
 *Toulouse (Haute-Garonne)*
 
@@ -3844,7 +3844,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19  appart<sup>t</sup>, rempli de souvenirs.
 </pre>
 
-## f. 69 v° — Samedi 3 février 1917 (cliché 139)
+## f. 69 v° — Samedi 3 février 1917
 
 *Toulouse (Haute-Garonne) ; Carcassonne (Aude) ; Béziers (Hérault) ; Millau (Aveyron)*
 
@@ -3875,7 +3875,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  au 1er etage – —
 </pre>
 
-## f. 70 r° — Samedi 3 février 1917 (suite : comptes) (cliché 140)
+## f. 70 r° — Samedi 3 février 1917 (suite : comptes)
 
 *Toulouse (Haute-Garonne) ; Béziers et Bédarieux (Hérault) ; Millau (Aveyron)*
 
@@ -3894,7 +3894,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 70 v° — Dimanche 4 février 1917 (cliché 141)
+## f. 70 v° — Dimanche 4 février 1917
 
 *Millau (Aveyron)*
 
@@ -3923,7 +3923,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  à mon aise. Soleil rendait appart<sup>t</sup>
 </pre>
 
-## f. 71 r° — Dimanche 4 février 1917 (suite) (cliché 142)
+## f. 71 r° — Dimanche 4 février 1917 (suite)
 
 *Millau (Aveyron)*
 
@@ -3950,7 +3950,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  16  <ins>feuille</ins> speciale)
 </pre>
 
-## f. 71 v° — Lundi 5 février 1917 (cliché 143)
+## f. 71 v° — Lundi 5 février 1917
 
 *Millau (Aveyron) ; Saint-Flour (Cantal)*
 
@@ -3978,7 +3978,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  Gift à la bonne de Mte : 3<sup>f</sup> —
 </pre>
 
-## f. 72 r° — Mardi 6 février 1917 (cliché 144)
+## f. 72 r° — Mardi 6 février 1917
 
 *Saint-Flour (Cantal) ; Brioude (Haute-Loire) ; Clermont-Ferrand (Puy-de-Dôme)*
 
@@ -4005,7 +4005,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19  A Gien, 3<sup>H</sup> 45.      Montargis, 4<sup>H</sup>20
 </pre>
 
-## f. 72 v° — Mardi 6 février 1917 (suite) (cliché 145)
+## f. 72 v° — Mardi 6 février 1917 (suite)
 
 *Corbeil-Essonnes (Essonne) ; Paris*
 
@@ -4029,7 +4029,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  16  — Brioude, buffet, varia : 60c
 </pre>
 
-## f. 73 r° — Mercredi 7 février 1917 (cliché 146)
+## f. 73 r° — Mercredi 7 février 1917
 
 *Amiens, Doullens, Louvencourt et Acheux-en-Amiénois (Somme)*
 
@@ -4058,7 +4058,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  Après m'être rasé, lavé, brossé, sorti,
 </pre>
 
-## f. 73 v° — Mercredi 7 février 1917 (suite) (cliché 147)
+## f. 73 v° — Mercredi 7 février 1917 (suite)
 
 *Acheux-en-Amiénois et Hérissart (Somme)*
 
@@ -4086,7 +4086,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  Changement plutot penible d'habitudes
 </pre>
 
-## f. 74 r° — Mercredi 7 février 1917 (fin) – jeudi 8 février 1917 (cliché 148)
+## f. 74 r° — Mercredi 7 février 1917 (fin) – jeudi 8 février 1917
 
 *Hérissart (Somme)*
 
@@ -4115,7 +4115,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  Tout le jour, liberté entière –
 </pre>
 
-## f. 74 v° — Jeudi 8 février 1917 (suite) ; vendredi 9 février 1917 (matin) (cliché 149)
+## f. 74 v° — Jeudi 8 février 1917 (suite) ; vendredi 9 février 1917 (matin)
 
 *Hérissart et Rubempré (Somme)*
 
@@ -4142,7 +4142,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19  pour pouvoir ecrire chambre
 </pre>
 
-## f. 75 r° — Vendredi 9 (suite) – samedi 10 février 1917 (cliché 150)
+## f. 75 r° — Vendredi 9 (suite) – samedi 10 février 1917
 
 *Hérissart, Toutencourt et Martinsart (Mesnil-Martinsart, Somme)*
 
@@ -4171,7 +4171,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  village, rempli de troupes anglaises
 </pre>
 
-## f. 75 v° — Samedi 10 février 1917 (suite) – dimanche 11 février 1917 (cliché 151)
+## f. 75 v° — Samedi 10 février 1917 (suite) – dimanche 11 février 1917
 
 *Hérissart, Aveluy, Senlis-le-Sec et Acheux-en-Amiénois (Somme)*
 
@@ -4200,7 +4200,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  le dégel, et fin de l'hiver  ——
 </pre>
 
-## f. 76 r° — Dimanche 11 février 1917 (cliché 152)
+## f. 76 r° — Dimanche 11 février 1917
 
 *Hérissart, Toutencourt et Doullens (Somme) ; Auxi-le-Château (Pas-de-Calais)*
 
@@ -4228,7 +4228,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  Chocolat : 60c — Biscuits Petit Beurre : 50c
 </pre>
 
-## f. 76 v° — Lundi 12 février 1917 (cliché 153)
+## f. 76 v° — Lundi 12 février 1917
 
 *Hérissart, Méaulte, Ville-sur-Ancre, Treux, Méricourt-l'Abbé et Ribemont-sur-Ancre (Somme)*
 
@@ -4258,7 +4258,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  2<sup>f</sup>50
 </pre>
 
-## f. 77 r° — Mardi 13 et mercredi 14 février 1917 (cliché 154)
+## f. 77 r° — Mardi 13 et mercredi 14 février 1917
 
 *Hérissart, Puchevillers, Authie et Acheux-en-Amiénois (Somme) ; Couin (Pas-de-Calais)*
 
@@ -4289,7 +4289,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  Obscurité presque complète. Froid de nouveau très vif
 </pre>
 
-## f. 77 v° — Jeudi 15 – vendredi 16 février 1917 (cliché 155)
+## f. 77 v° — Jeudi 15 – vendredi 16 février 1917
 
 *Hérissart, Toutencourt, Raincheval et Beaucourt-sur-l'Hallue (Somme)*
 
@@ -4318,7 +4318,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  Après-midi, liberté entière
 </pre>
 
-## f. 78 r° — Samedi 17 – dimanche 18 février 1917 (cliché 156)
+## f. 78 r° — Samedi 17 – dimanche 18 février 1917
 
 *Hérissart et Toutencourt (Somme)*
 
@@ -4351,7 +4351,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  solde : 68 f 25 c.]
 </pre>
 
-## f. 78 v° — Lundi 19 – mardi 20 février 1917 (cliché 157)
+## f. 78 v° — Lundi 19 – mardi 20 février 1917
 
 *Hérissart, Fréchencourt, Bavelincourt et Pierregot (Somme)*
 
@@ -4384,7 +4384,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  26      et pour service chambre ; en tout : 2 fr
 </pre>
 
-## f. 79 r° — Mercredi 21 – vendredi 23 février 1917 (cliché 158)
+## f. 79 r° — Mercredi 21 – vendredi 23 février 1917
 
 *Hérissart, Doullens et Molliens-au-Bois (Somme) ; Auxi-le-Château (Pas-de-Calais)*
 
@@ -4422,7 +4422,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  27      rangé paquets —
 </pre>
 
-## f. 79 v° — Samedi 24 – lundi 26 février 1917 (cliché 159)
+## f. 79 v° — Samedi 24 – lundi 26 février 1917
 
 *Hérissart, Contay, Mirvaux et Toutencourt (Somme)*
 
@@ -4455,7 +4455,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25      pleine lune
 </pre>
 
-## f. 80 r° — Mardi 27 – mercredi 28 février 1917 (cliché 160)
+## f. 80 r° — Mardi 27 – mercredi 28 février 1917
 
 *Hérissart et Toutencourt (Somme)*
 
@@ -4482,7 +4482,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  — Mess, pour fevrier (depuis le 8) : 33<sup>f</sup> –
 </pre>
 
-## f. 80 v° — Jeudi 1er – vendredi 2 mars 1917 (cliché 161)
+## f. 80 v° — Jeudi 1er – vendredi 2 mars 1917
 
 *Hérissart, Rubempré, Montigny-sur-l'Hallue, Fréchencourt et Contay (Somme)*
 
@@ -4511,7 +4511,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21      Après-midi, liberté entière.
 </pre>
 
-## f. 81 r° — Samedi 3 – lundi 5 mars 1917 (cliché 162)
+## f. 81 r° — Samedi 3 – lundi 5 mars 1917
 
 *Hérissart, Rubempré, Puchevillers et Toutencourt (Somme)*
 
@@ -4546,7 +4546,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  27      nuit, merv<sup>t</sup> ciel etoilé, pleine lune — superbe!
 </pre>
 
-## f. 81 v° — Mardi 6 – mercredi 7 mars 1917 (cliché 163)
+## f. 81 v° — Mardi 6 – mercredi 7 mars 1917
 
 *Hérissart, Doullens et Toutencourt (Somme)*
 
@@ -4581,7 +4581,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  27      Temps funèbre
 </pre>
 
-## f. 82 r° — Jeudi 8 – vendredi 9 mars 1917 (cliché 164)
+## f. 82 r° — Jeudi 8 – vendredi 9 mars 1917
 
 *Hérissart et Toutencourt (Somme)*
 
@@ -4614,7 +4614,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  jusqu'à ce soir : 18 [?] f. —
 </pre>
 
-## f. 82 v° — Samedi 10 mars 1917 (cliché 165)
+## f. 82 v° — Samedi 10 mars 1917
 
 *Hérissart (Somme)*
 
@@ -4642,7 +4642,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 83 r° — Dimanche 11 mars 1917 (cliché 166)
+## f. 83 r° — Dimanche 11 mars 1917
 
 *Hérissart, Toutencourt et Puchevillers (Somme)*
 
@@ -4674,7 +4674,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  m'y trouve très bien. 2 Tables pour écrire —
 </pre>
 
-## f. 83 v° — Dimanche 11 mars 1917 (fin) – lundi 12 mars 1917 (cliché 167)
+## f. 83 v° — Dimanche 11 mars 1917 (fin) – lundi 12 mars 1917
 
 *Hérissart, Toutencourt, Contay, Beaucourt-sur-l'Hallue ?, Puchevillers et Candas (Somme)*
 
@@ -4702,7 +4702,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  Calvert's Tooth Powder : 1<sup>f</sup> 75c
 </pre>
 
-## f. 84 r° — Mardi 13 – jeudi 15 mars 1917 (cliché 168)
+## f. 84 r° — Mardi 13 – jeudi 15 mars 1917
 
 *Hérissart, Mesnil-Martinsart, Puchevillers, Acheux-en-Amiénois et Bertrancourt (Somme)*
 
@@ -4734,7 +4734,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  pataugé boue epaisse.
 </pre>
 
-## f. 84 v° — Vendredi 16 – samedi 17 mars 1917 (cliché 169)
+## f. 84 v° — Vendredi 16 – samedi 17 mars 1917
 
 *Hérissart, Contay, Warloy-Baillon, Albert, Ribemont-sur-Ancre et Puchevillers (Somme)*
 
@@ -4765,7 +4765,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22              et a soie)
 </pre>
 
-## f. 85 r° — Dimanche 18 – lundi 19 mars 1917 (cliché 170)
+## f. 85 r° — Dimanche 18 – lundi 19 mars 1917
 
 *Hérissart, Toutencourt et Puchevillers (Somme)*
 
@@ -4799,7 +4799,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  26  2 offs, qui m'ont donné renseigts très intéressants
 </pre>
 
-## f. 85 v° — Mardi 20 – jeudi 22 mars 1917 (cliché 171)
+## f. 85 v° — Mardi 20 – jeudi 22 mars 1917
 
 *Hérissart, Puchevillers, Contay, Warloy-Baillon, Senlis-le-Sec et Albert (Somme)*
 
@@ -4830,7 +4830,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  à g., champs couverts de neige
 </pre>
 
-## f. 86 r° — Vendredi 23 – dimanche 25 mars 1917 (cliché 172)
+## f. 86 r° — Vendredi 23 – dimanche 25 mars 1917
 
 *Hérissart, Rubempré et Puchevillers (Somme)*
 
@@ -4861,7 +4861,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  Pas pris pardessus. Promenade fort agreable
 </pre>
 
-## f. 86 v° — Lundi 26 – mercredi 28 mars 1917 (cliché 173)
+## f. 86 v° — Lundi 26 – mercredi 28 mars 1917
 
 *Hérissart, Rubempré et Puchevillers (Somme)*
 
@@ -4892,7 +4892,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  la brume —
 </pre>
 
-## f. 87 r° — Jeudi 29 – samedi 31 mars 1917 (cliché 174)
+## f. 87 r° — Jeudi 29 – samedi 31 mars 1917
 
 *Hérissart, Puchevillers, Rubempré, Molliens-au-Bois et Rainneville (Somme)*
 
@@ -4926,7 +4926,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25      J'aime ce calme & ce silence
 </pre>
 
-## f. 87 v° — Dimanche 1er – mardi 3 avril 1917 (cliché 175)
+## f. 87 v° — Dimanche 1er – mardi 3 avril 1917
 
 *Hérissart, Belle-Église (Arquèves), Pierregot, Rainneville et Toutencourt (Somme)*
 
@@ -4960,7 +4960,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25          Temps redevenu plus doux
 </pre>
 
-## f. 88 r° — Mercredi 4 – jeudi 5 avril 1917 (Jeudi saint) (cliché 176)
+## f. 88 r° — Mercredi 4 – jeudi 5 avril 1917 (Jeudi saint)
 
 *Hérissart, Toutencourt, Acheux-en-Amiénois, Contay et Warloy-Baillon (Somme)*
 
@@ -4988,7 +4988,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19      Nuit merv<sup>se</sup>. Pleine lune, magnifique —
 </pre>
 
-## f. 88 v° — Vendredi 6 avril 1917 – samedi 7 avril 1917 (cliché 177)
+## f. 88 v° — Vendredi 6 avril 1917 – samedi 7 avril 1917
 
 *Hérissart, Toutencourt, Rubempré, Contay et Acheux-en-Amiénois (Somme)*
 
@@ -5020,7 +5020,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24      Admiré paysage  ——
 </pre>
 
-## f. 89 r° — Dimanche 8 – mardi 10 avril 1917 (Pâques) (cliché 178)
+## f. 89 r° — Dimanche 8 – mardi 10 avril 1917 (Pâques)
 
 *Hérissart, Toutencourt, Harponville, Beauquesne et Fréchencourt (Somme)*
 
@@ -5051,7 +5051,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  nouveau l'hiver, helas !
 </pre>
 
-## f. 89 v° — Mercredi 11 – vendredi 13 avril 1917 (cliché 179)
+## f. 89 v° — Mercredi 11 – vendredi 13 avril 1917
 
 *Hérissart, Doullens, Warloy-Baillon et Belle-Église (Arquèves, Somme)*
 
@@ -5084,7 +5084,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  de Jersey, il est très instruit et poète  ——
 </pre>
 
-## f. 90 r° — Samedi 14 – mardi 17 avril 1917 (cliché 180)
+## f. 90 r° — Samedi 14 – mardi 17 avril 1917
 
 *Hérissart, Pierregot, Fréchencourt et Rubempré (Somme)*
 
@@ -5117,7 +5117,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22      Frechencourt & Rubempré
 </pre>
 
-## f. 90 v° — Mercredi 18 – vendredi 20 avril 1917 (cliché 181)
+## f. 90 v° — Mercredi 18 – vendredi 20 avril 1917
 
 *Hérissart, Bresle, Laviéville, Hénencourt, Albert et Buire-sur-l'Ancre (Somme)*
 
@@ -5147,7 +5147,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  qui m'ont fait meilleur accueil —
 </pre>
 
-## f. 91 r° — Samedi 21 – dimanche 22 avril 1917 (cliché 182)
+## f. 91 r° — Samedi 21 – dimanche 22 avril 1917
 
 *Hérissart, Toutencourt, Buire-sur-l'Ancre, Albert, Millencourt et Pierregot (Somme)*
 
@@ -5183,7 +5183,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  26  du côté d'Arras  ——
 </pre>
 
-## f. 91 v° — Lundi 23 – mercredi 25 avril 1917 (cliché 183)
+## f. 91 v° — Lundi 23 – mercredi 25 avril 1917
 
 *Hérissart, Toutencourt, Pierregot, Acheux-en-Amiénois et Mirvaux (Somme)*
 
@@ -5216,7 +5216,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  Soirée passée chz la famille Denis, à Hérissart —
 </pre>
 
-## f. 92 r° — Jeudi 26 – vendredi 27 avril 1917 (cliché 184)
+## f. 92 r° — Jeudi 26 – vendredi 27 avril 1917
 
 *Hérissart, Contay, Puchevillers, Pierregot, Varennes et Rubempré (Somme)*
 
@@ -5241,7 +5241,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 92 v° — Samedi 28 – dimanche 29 avril 1917 (cliché 185)
+## f. 92 v° — Samedi 28 – dimanche 29 avril 1917
 
 *Hérissart, Pierregot, Contay et Mirvaux (Somme)*
 
@@ -5272,7 +5272,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  Nuit superbe, merv<sup>t</sup> étoilée et claire
 </pre>
 
-## f. 93 r° — Lundi 30 avril 1917 (cliché 186)
+## f. 93 r° — Lundi 30 avril 1917
 
 *Hérissart, Warloy-Baillon, Hénencourt, Millencourt, Laviéville et Villers-Bocage (Somme)*
 
