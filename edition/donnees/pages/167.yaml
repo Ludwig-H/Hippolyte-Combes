@@ -48,10 +48,6 @@ apparat:
   type: abreviation
   note: 7 heures du matin.
 - ligne: 11
-  lemme: \add{Toutencourt,}
-  type: ajout
-  note: Ajouté au-dessus de la ligne, entre « à » et « Contay ».
-- ligne: 11
   lemme: Beaucourt
   type: lecture
   note: 'c et o après « Beau- » (Beaucourt-sur-l''Hallue, entre Contay et Molliens).'

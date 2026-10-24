@@ -46,13 +46,9 @@ apparat:
   type: abreviation
   note: toujours
 - ligne: 3
-  lemme: \del{lamentable}
-  type: rature
-  note: « lamentable » biffé
-- ligne: 3
   lemme: \inc{rendormi}
   type: lecture
-  note: 'lecture retenue rendormi (non « rien à faire ») ; autre lecture : endormi'
+  note: 'lecture retenue rendormi ; autre lecture : endormi'
 - ligne: 5
   lemme: aimablt
   type: abreviation
@@ -68,7 +64,7 @@ apparat:
 - ligne: 5
   lemme: \inc{Vali}
   type: lecture
-  note: 'nom commençant par V-a, non « Bertin » ; autres lectures : Vahi, Valin'
+  note: 'nom commençant par V-a ; autres lectures : Vahi, Valin'
 - ligne: 6
   lemme: av
   type: abreviation

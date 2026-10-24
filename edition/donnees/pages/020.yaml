@@ -50,7 +50,7 @@ apparat:
 - ligne: 8
   lemme: ces
   type: lecture
-  note: ces (mot sans hampe), non « les »
+  note: ces (mot sans hampe)
 - ligne: 10
   lemme: propri
   type: abreviation
@@ -58,7 +58,7 @@ apparat:
 - ligne: 10
   lemme: propri
   type: lecture
-  note: i pointé, sans e final ; non « propre »
+  note: i pointé, sans e final
 - ligne: 11
   lemme: cooking
   type: emprunt

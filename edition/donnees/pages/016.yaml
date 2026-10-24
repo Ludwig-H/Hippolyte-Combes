@@ -31,10 +31,6 @@ apparat:
   lemme: /16
   type: abreviation
   note: '1916'
-- ligne: 2
-  lemme: et partie
-  type: rature
-  note: biffé d'un trait continu ; premier jet « matinée et partie soirée »
 - ligne: 3
   lemme: '&'
   type: abreviation
@@ -97,7 +93,7 @@ apparat:
   note: 50 centimes
 critique: Encre brune, plusieurs mots repassés à l'encre noire épaisse ; la correction au crayon de la l.~7 est peut-être postérieure. La mention « Les Australiens », isolée en retrait au bas de l'entrée, précède le filet et la ligne de comptes.
 historique: |
-  À Sailly-sur-la-Lys, à 2,5 km de La Croix-du-Bac (R5, F61), l'église « was burnt during the open fighting of October 1914 », le village restant ensuite « comparatively untouched » jusqu'au 9 avril 1918 (CWGC, Sailly-sur-la-Lys Churchyard) ; Hippolyte Combes attribue l'incendie aux « Boches ». L'écluse est sans doute celle de Bac-Saint-Maur, en aval de Sailly (aujourd'hui écluse et barrage n\textsuperscript{o} 5 : Canalplan), près de laquelle se tenait le \textit{refilling point} (voir f. 7 r\textsuperscript{o}). « Causé … de notre genl en chef, Maxse » vaut sans doute « parlé de » : le Major-General Ivor Maxse commande la division jusqu'au 15 janvier 1917 (Becke 1938, p. 79) et avait inspecté la brigade le 26 juillet (voir f. 1 v\textsuperscript{o}). « Les Australiens » sont ceux de la 5th Australian Division, saignée à Fromelles les 19-20 juillet (5 533 pertes : Miles 1938, p. 133, n. 2) restée en ligne jusqu'à la mi-octobre ; l'une de ses brigades cantonne à Sailly et y a son école de grenadiers et son « Empire Theatre » (Ellis [1920], p. 75, 117, 120-121).
+  À Sailly-sur-la-Lys, à 2,5 km de La Croix-du-Bac, l'église « was burnt during the open fighting of October 1914 », le village restant ensuite « comparatively untouched » jusqu'au 9 avril 1918 (CWGC, Sailly-sur-la-Lys Churchyard) ; Hippolyte Combes attribue l'incendie aux « Boches ». L'écluse est sans doute celle de Bac-Saint-Maur, en aval de Sailly (aujourd'hui écluse et barrage n\textsuperscript{o} 5 : Canalplan), près de laquelle se tenait le \textit{refilling point} (voir f. 7 r\textsuperscript{o}). « Causé … de notre genl en chef, Maxse » vaut sans doute « parlé de » : le Major-General Ivor Maxse commande la division jusqu'au 15 janvier 1917 (Becke 1938, p. 79) et avait inspecté la brigade le 26 juillet (voir f. 1 v\textsuperscript{o}). « Les Australiens » sont ceux de la 5th Australian Division, saignée à Fromelles les 19-20 juillet (5 533 pertes : Miles 1938, p. 133, n. 2) restée en ligne jusqu'à la mi-octobre ; l'une de ses brigades cantonne à Sailly et y a son école de grenadiers et son « Empire Theatre » (Ellis [1920], p. 75, 117, 120-121).
 sources:
 - CWGC, Sailly-sur-la-Lys Churchyard, historique du cimetière (fiche 18800), https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/18800/.
 - 'Canalplan AC, fiche de voie navigable (Lys : « Ecluse 5 et barrage de Bac-Saint-Maur »), https://canalplan.co.uk/waterway/zuwi, consultée le 18 oct. 2026.'

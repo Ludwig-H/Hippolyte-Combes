@@ -49,10 +49,6 @@ apparat:
   lemme: vide & triste
   type: lecture
   note: sans s finales (vides & tristes attendu)
-- ligne: 10
-  lemme: \add{une}
-  type: ajout
-  note: ajouté dans l'interligne supérieur
 - ligne: 11
   lemme: \inc{v.}
   type: lecture

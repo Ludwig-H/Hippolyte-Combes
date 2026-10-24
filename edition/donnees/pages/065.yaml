@@ -28,9 +28,9 @@ apparat:
   type: lecture
   note: 'crochet surmonté d''un point avant la parenthèse : parenthèse amorcée puis reprise plus loin (?)'
 - ligne: 1
-  lemme: il y \inc{en}
-  type: ajout
-  note: 'ajouté au-dessus de la ligne, entre « espéré » et « à » ; « en » : e empâté, jambage et long délié ; « eût » possible'
+  lemme: \inc{en}
+  type: lecture
+  note: 'e empâté, jambage et long délié ; « eût » possible'
 - ligne: 1
   lemme: 10^{H}\inc{45}
   type: abreviation
@@ -47,10 +47,6 @@ apparat:
   lemme: 6^{H}30 s
   type: abreviation
   note: 6 heures 30 (du) soir
-- ligne: 7
-  lemme: \add{Paris}
-  type: ajout
-  note: écrit petit en tête du compte, entre le filet et le long trait d'attaque du M de « Métro » ; non barré
 - ligne: 8
   lemme: Food
   type: emprunt

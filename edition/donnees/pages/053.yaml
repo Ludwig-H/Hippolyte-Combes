@@ -90,9 +90,9 @@ apparat:
   type: abreviation
   note: quart de place (tarif militaire)
 - ligne: 13
-  lemme: \add{Coupe (chvx}
-  type: ajout
-  note: ajout interlinéaire d'un trait plus fin ; chvx = cheveux ; le 1 f qui suit en est le prix
+  lemme: chvx
+  type: abreviation
+  note: cheveux ; le 1 f qui suit est le prix de la coupe
 - ligne: 13
   lemme: 15^{f}
   type: lecture

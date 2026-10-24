@@ -36,7 +36,7 @@ apparat:
 - ligne: 2
   lemme: brillé
   type: lecture
-  note: court trait d'accent après la finale ; on a lu brille
+  note: court trait d'accent après la finale
 - ligne: 4
   lemme: billet
   type: emprunt
@@ -68,7 +68,7 @@ apparat:
 - ligne: 12
   lemme: propre
   type: abreviation
-  note: propriétaire ; on a lu proprre
+  note: propriétaire
 - ligne: 12
   lemme: sympathiq^{ue}
   type: abreviation
@@ -95,12 +95,12 @@ apparat:
   note: capitaine
 - ligne: 15
   lemme: \add{\ill}
-  type: ajout
-  note: court mot (aspect « aà ») écrit dans l'interligne au-dessus du blanc laissé entre du et corps, non déchiffré
+  type: lecture
+  note: court tracé d'aspect « aà »
 - ligne: 17
   lemme: \inc{Tt a fait}
   type: lecture
-  note: tout à fait (lecture incertaine) ; on a lu Très
+  note: tout à fait (lecture incertaine)
 - ligne: 17
   lemme: qq
   type: abreviation

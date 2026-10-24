@@ -32,9 +32,9 @@ apparat:
   type: abreviation
   note: octobre 1916
 - ligne: 3
-  lemme: \add{\inc{tombent}}
-  type: ajout
-  note: mot ajouté au-dessus de « averses » ; seul tomb- est sûr (autres lectures possibles tombe, tombées)
+  lemme: \inc{tombent}
+  type: lecture
+  note: 'seul tomb- est sûr (autres lectures possibles : tombe, tombées)'
 - ligne: 5
   lemme: j-à
   type: abreviation

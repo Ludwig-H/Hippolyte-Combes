@@ -41,7 +41,7 @@ apparat:
 - ligne: 2
   lemme: \fr{1}{2} jour
   type: lecture
-  note: demi-jour, à mi-journée (?) ; fraction empilée, lue autrefois « t. »
+  note: demi-jour, à mi-journée (?) ; fraction empilée
 - ligne: 3
   lemme: j-à
   type: abreviation
@@ -61,7 +61,7 @@ apparat:
 - ligne: 7
   lemme: '"'
   type: signe
-  note: idem (maillots) ; lu autrefois « & »
+  note: idem (maillots)
 - ligne: 9
   lemme: Cme
   type: abreviation

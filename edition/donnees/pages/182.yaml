@@ -87,10 +87,6 @@ apparat:
   lemme: Pierreg\inc{ot}
   type: lecture
   note: Pierregot ; finale réduite à un trait dans la marge
-- ligne: 19
-  lemme: \add{très intéressant}
-  type: ajout
-  note: écrit petit dans l'interligne, sous la fin de la ligne
 - ligne: 21
   lemme: d'\inc{Hessart}
   type: lecture

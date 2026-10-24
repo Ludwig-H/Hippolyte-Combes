@@ -89,9 +89,9 @@ apparat:
   type: lecture
   note: lecture probable, chiffre bouclé suivi d'un f ; autres lectures possibles 4 f, 6 f
 - ligne: 17
-  lemme: Carnet \inc{60}
-  type: ajout
-  note: ajouté au-dessus de « Timbres » ; montant serré, lecture incertaine (60 ou 50)
+  lemme: \inc{60}
+  type: lecture
+  note: montant serré, lecture incertaine (60 ou 50)
 - ligne: 18
   lemme: Ma
   type: abreviation

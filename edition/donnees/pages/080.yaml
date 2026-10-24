@@ -89,7 +89,7 @@ apparat:
 - ligne: 17
   lemme: installé.
   type: lecture
-  note: 'point final, non « ! » : le trait vertical au-dessus est le jambage de « qq » (l. 16)'
+  note: 'point final : le trait vertical au-dessus est le jambage de « qq » (l. 16)'
 - ligne: 20
   lemme: Cartes ples
   type: abreviation

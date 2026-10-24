@@ -25,10 +25,6 @@ transcription: |
   [ — Mission, Albert : 58 f 75 (30 f retenus pour
   6 jours de permission) ]
 apparat:
-- ligne: 1
-  lemme: course
-  type: ajout
-  note: Mot ajouté au-dessus de la ligne, après dîner et avant en auto.
 - ligne: 2
   lemme: of the
   type: emprunt
@@ -37,10 +33,6 @@ apparat:
   lemme: D.O.S.T.
   type: lecture
   note: Sigle conservé ; développement institutionnel non établi par cette page.
-- ligne: 4
-  lemme: Donné
-  type: disposition
-  note: crochet ouvrant autographe à gauche réunissant les trois lignes de dépenses
 - ligne: 5
   lemme: Mess
   type: emprunt

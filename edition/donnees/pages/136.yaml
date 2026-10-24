@@ -126,7 +126,7 @@ apparat:
 - ligne: 19
   lemme: 1 \inc{90}.
   type: lecture
-  note: 1 franc 90 ; non « 1 f 10 »
+  note: 1 franc 90
 - ligne: 19
   lemme: chz
   type: abreviation

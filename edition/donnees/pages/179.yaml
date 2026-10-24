@@ -47,7 +47,7 @@ apparat:
 - ligne: 9
   lemme: (canteen)
   type: emprunt
-  note: cantine ; ajouté au-dessus de « de farine »
+  note: cantine
 - ligne: 9
   lemme: farine
   type: lecture

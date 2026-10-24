@@ -46,10 +46,6 @@ apparat:
   lemme: 90^{f}
   type: abreviation
   note: 90 francs
-- ligne: 5
-  lemme: \add{1916}
-  type: ajout
-  note: millésime écrit petit sous « Juillet »
 - ligne: 6
   lemme: Cie
   type: abreviation

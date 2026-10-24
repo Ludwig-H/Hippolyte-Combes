@@ -93,9 +93,9 @@ apparat:
   type: abreviation
   note: toujours
 - ligne: 19
-  lemme: \add{\inc{assis}}
-  type: ajout
-  note: mot écrit petit sous « reposé » ; aussi possible
+  lemme: \inc{assis}
+  type: lecture
+  note: « aussi » possible
 - ligne: 19
   lemme: s/
   type: abreviation
@@ -124,7 +124,7 @@ apparat:
   lemme: 1 \inc{25}
   type: compte
   note: 1 franc 25 ; 5 en haute boucle descendante, sans f monétaire ; 1 2 f. possible
-critique: Encre noire virée au brun. Un mot de la description des selles est fortement repassé et un pâté d'encre couvre le début de la ligne précédente.
+critique: Encre noire virée au brun.
 historique: |
   Le logeur-tailleur, dont le nom pourrait aussi se lire « Carlumont », est sans doute le propriétaire du n°~1, route de Léalvillers, où Hippolyte Combes loge depuis le 5 novembre (voir f.~47~r\textsuperscript{o}) ; il lui annoncera le 1\textsuperscript{er} janvier 1917 qu'il doit quitter la maison (f.~59~r\textsuperscript{o}) et lui offrira, avec sa femme, un déjeuner le 7 février (f.~73~r\textsuperscript{o}). Les 75~c de la retouche sont à comparer aux 38~f payés à Toulouse pour la façon d'une tunique (f.~31~r\textsuperscript{o}) ; la note de blanchissage, 1~f~25, est au plus haut de celles d'octobre 1916 à avril 1917, qui vont de 50~c à 1~f~25. La course du 23 mène vers le nord-ouest, dans la vallée de l'Authie : Amplier (Pas-de-Calais) est à une douzaine de kilomètres d'Acheux, Authieule aux portes de Doullens ; Authie avait abrité au 1\textsuperscript{er} juillet l'un des deux centres opératoires avancés de la bataille (OH 1916-I, p.~282). Il s'agit sans doute de prospecter la paille et le fourrage des fermes, objet de la mission d'Hippolyte Combes depuis le 2 novembre.
 sources:

@@ -77,9 +77,9 @@ apparat:
   type: abreviation
   note: ferme ; finale réduite à un petit crochet
 - ligne: 10
-  lemme: \add{\inc{fille}}
-  type: ajout
-  note: mot écrit petit sous « Royer » ; lecture incertaine (ville ?)
+  lemme: \inc{fille}
+  type: lecture
+  note: « ville » possible
 - ligne: 10
   lemme: Plusrs
   type: abreviation

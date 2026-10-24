@@ -60,10 +60,6 @@ apparat:
   type: abreviation
   note: quatre heures et demie
 - ligne: 9
-  lemme: gare, à propos panier fleurs
-  type: ajout
-  note: écrit dans l'interligne, au-dessus de « Nazareth »
-- ligne: 9
   lemme: tte
   type: abreviation
   note: toute ; lecture incertaine, tracés serrés sous les jambages de la ligne supérieure (ts possible)
@@ -102,7 +98,7 @@ apparat:
 - ligne: 18
   lemme: boulangeon
   type: lecture
-  note: 'finale -geon nette (non « boulanger ») ; un jambage de plus après ou : bourlangeon possible ; même mot l. 20'
+  note: 'finale -geon nette ; un jambage de plus après ou : bourlangeon possible ; même mot l. 20'
 - ligne: 19
   lemme: 3^{f}
   type: abreviation

@@ -45,10 +45,6 @@ apparat:
   lemme: pétri & sillons
   type: lecture
   note: esperluette nette (petite boucle, haste plongeante)
-- ligne: 4
-  lemme: \add{lourds}
-  type: ajout
-  note: mot ajouté dans l'interligne, au-dessus de la fin de véhicules
 - ligne: 7
   lemme: Beauq\lac
   type: lecture
@@ -98,10 +94,6 @@ apparat:
   type: abreviation
   note: sur
 - ligne: 16
-  lemme: \del{\inc{autos}}
-  type: rature
-  note: mot biffé, noyé sous l'encre ; autos conjectural
-- ligne: 16
   lemme: cars
   type: emprunt
   note: voitures automobiles (anglais cars)
@@ -146,17 +138,17 @@ apparat:
   type: compte
   note: 4 francs 75 = 10 × 0,40 + 3 × 0,25
 - ligne: 23
-  lemme: \add{0.40}
-  type: ajout
-  note: prix unitaire écrit au-dessus de 10
+  lemme: '0.40'
+  type: compte
+  note: prix unitaire (40 centimes)
 - ligne: 23
   lemme: \inc{gd}
   type: abreviation
   note: grands (haste du d indistincte, sous le 0 de 0.40)
 - ligne: 23
-  lemme: \add{0.25}
-  type: ajout
-  note: prix unitaire écrit au-dessus de 3
+  lemme: '0.25'
+  type: compte
+  note: prix unitaire (25 centimes)
 - ligne: 23
   lemme: petit\lac
   type: autre

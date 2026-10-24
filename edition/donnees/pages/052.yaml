@@ -55,10 +55,6 @@ apparat:
   lemme: j-à
   type: abreviation
   note: jusqu'à
-- ligne: 10
-  lemme: \add{changé au Chatelet}
-  type: ajout
-  note: ajout interlinéaire, au-dessus de « Traversé jardin »
 - ligne: 13
   lemme: pr
   type: abreviation

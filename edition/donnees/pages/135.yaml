@@ -91,10 +91,6 @@ apparat:
   lemme: 1^{f} 25
   type: abreviation
   note: 1 franc 25
-- ligne: 17
-  lemme: (moyen format)
-  type: ajout
-  note: 'écrit petit sous « velin : 1 f 25 », au-dessus de la ligne suivante'
 - ligne: 19
   lemme: Trams
   type: abreviation

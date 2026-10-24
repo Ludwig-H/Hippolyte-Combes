@@ -62,7 +62,7 @@ apparat:
 - ligne: 6
   lemme: dû accepter
   type: lecture
-  note: d + u surmonté d'une barre ; non « ai accepté »
+  note: d + u surmonté d'une barre
 - ligne: 7
   lemme: mess
   type: emprunt
@@ -126,7 +126,7 @@ apparat:
 - ligne: 23
   lemme: et
   type: lecture
-  note: e + t barré ; non « pr »
+  note: e + t barré
 - ligne: 23
   lemme: 1^{ère}
   type: abreviation

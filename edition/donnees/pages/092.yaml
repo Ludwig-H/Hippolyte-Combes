@@ -33,10 +33,6 @@ apparat:
   type: abreviation
   note: novembre 1916
 - ligne: 3
-  lemme: \add{au}
-  type: ajout
-  note: « au » ajouté petit sous la ligne, entre « pied. » et « Retour »
-- ligne: 3
   lemme: s/
   type: abreviation
   note: sur

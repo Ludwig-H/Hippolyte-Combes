@@ -51,9 +51,9 @@ apparat:
   type: emprunt
   note: Army Purchase Board, commission des achats de l'armée britannique
 - ligne: 4
-  lemme: \add{tr}
-  type: ajout
-  note: tr (très) ajouté au-dessus de la ligne
+  lemme: tr
+  type: abreviation
+  note: très
 - ligne: 4
   lemme: \inc{& désert. Froid}
   type: lecture
@@ -122,7 +122,7 @@ apparat:
   lemme: g^{d}
   type: abreviation
   note: grand
-critique: 'Le feuillet 56 a été photographié verso d''abord : ce recto fait suite au f.~55~v\textsuperscript{o}. Dans le compte du 19, ouvert par un grand crochet, « Solde etc » et le montant sont d''une encre brune plus pâle, sans doute portés après coup ; un filet sépare la journée du 20.'
+critique: 'Le feuillet 56 a été photographié verso d''abord : ce recto fait suite au f.~55~v\textsuperscript{o}. Le compte du 19 est ouvert par un grand crochet et séparé par un filet de la journée du 20.'
 historique: |
   L'« Army P. Board » est l'\textit{Army Purchase Board} du major Levy, à Raincheval (voir f.~46~r\textsuperscript{o}) : chaque armée avait le sien, qui achetait paille et fourrages, gérait presses et batteuses et devait constituer, si le pays le permettait, une réserve d'environ 3~000 tonnes de paille pressée (Puckle 1917, p.~28). Le bureau de la Mission « XIIIe C. » d'Acheux est celui du XIII Corps de Congreve, qui tient la gauche de la Fifth Army (OH 1917-I, p.~66) et a pris Hippolyte Combes en charge le 1\textsuperscript{er} décembre (voir f.~52~v\textsuperscript{o}). Annoncés pour le 17 (f.~53~r\textsuperscript{o}), les 84~F font seize jours à 5,25~F (voir f.~40~r\textsuperscript{o}). La carte de Noël, à 70~c, coûte sept à quatorze fois une carte postale, payée 5 ou 10~c ailleurs dans le carnet (f.~50~r\textsuperscript{o}). Beauquesne avait reçu en juin 1916 le QG avancé de Haig, au château de Valvion (OH 1916-I, p.~304) ; Hippolyte Combes y traitera le 26 avec Mme Capron de la location d'une batteuse (f.~57~v\textsuperscript{o}). Sur la ferme du Quesnoy, voir f.~55~v\textsuperscript{o}.
 sources:

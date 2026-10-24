@@ -52,7 +52,7 @@ apparat:
 - ligne: 10
   lemme: '1915'
   type: lecture
-  note: 5 à drapeau, sans boucle basse de 6 ; non « 1916 »
+  note: 5 à drapeau, sans boucle basse de 6
 - ligne: 11
   lemme: Lieu^{t}
   type: abreviation
@@ -61,10 +61,6 @@ apparat:
   lemme: assz
   type: abreviation
   note: assez
-- ligne: 17
-  lemme: Ribemont
-  type: ajout
-  note: écrit en petit sous « et Buire », dans l'interligne inférieur
 - ligne: 17
   lemme: stuck
   type: emprunt

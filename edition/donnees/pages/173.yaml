@@ -83,9 +83,9 @@ apparat:
   type: abreviation
   note: affreusement
 - ligne: 16
-  lemme: \add{presq}
-  type: ajout
-  note: écrit sous la ligne, entre « restés » et « sans »
+  lemme: presq
+  type: abreviation
+  note: presque
 - ligne: 16
   lemme: presq
   type: abreviation

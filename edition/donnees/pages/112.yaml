@@ -50,7 +50,7 @@ apparat:
 - ligne: 5
   lemme: à
   type: lecture
-  note: « à » rejeté en bout de ligne (non « de »)
+  note: « à » rejeté en bout de ligne
 - ligne: 7
   lemme: Cap.
   type: abreviation
@@ -82,7 +82,7 @@ apparat:
 - ligne: 13
   lemme: rafale
   type: lecture
-  note: singulier, sans s final (non « rafales »)
+  note: singulier, sans s final
 - ligne: 14
   lemme: tte
   type: abreviation

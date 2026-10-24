@@ -80,7 +80,7 @@ apparat:
 - ligne: 16
   lemme: commence
   type: ajout
-  note: écrit petit sous la ligne, entre « Soleil » et « brille », sans correction de « brille »
+  note: ajouté sans correction de « brille »
 - ligne: 16
   lemme: 1 peu
   type: abreviation
@@ -89,10 +89,6 @@ apparat:
   lemme: pr
   type: abreviation
   note: pour
-- ligne: 19
-  lemme: par
-  type: ajout
-  note: écrit petit sous la ligne, entre « revenir » et « metro »
 critique: 'Le feuillet a été photographié verso d''abord : cette page (f.~32 v\textsuperscript{o}) fait suite au récit du soir du 4 octobre (f.~32 r\textsuperscript{o}). Encre violette ; plusieurs mots (l.~4, 11 et 12) ont été repassés et sont noyés d''encre.'
 historique: |
   Hippolyte Combes arrive à la gare d'Orsay, terminus de la Compagnie d'Orléans, par le train de nuit parti de Toulouse vers 20 h (voir f.~32 r\textsuperscript{o}). Pour gagner la gare du Nord, il refait en sens inverse le trajet de l'aller (voir f.~26 v\textsuperscript{o}) : ligne 1 aux Tuileries, puis, au Châtelet, la ligne 4, ouverte le 21 avril 1908 de Châtelet à la porte de Clignancourt par la gare du Nord (RATP). L'église Saint-Vincent-de-Paul (X\textsuperscript{e} arr.), qui domine la rue La Fayette à peu de distance de la gare, fut commencée en 1824 par J.-B. Lepère, poursuivie par son gendre J.-I. Hittorff et ouverte au culte en 1844 ; ses deux étages de colonnades encadrent la grande frise peinte de la nef, « masterpiece of Hippolyte Flandrin », que le Baedeker date de 1850--1854 (Mérimée PA00086489 ; Baedeker 1913). Les Grands Magasins du Louvre occupaient, rue de Rivoli et place du Palais-Royal, l'immeuble faisant face au palais (Baedeker 1913, p.~51) ; le carnet atteste qu'ils offraient à leur clientèle un salon de correspondance.

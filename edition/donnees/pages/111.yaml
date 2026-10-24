@@ -49,10 +49,6 @@ apparat:
   note: tout
 - ligne: 3
   lemme: ruisseaux
-  type: ajout
-  note: mot écrit sous recouvertes, dans le blanc de droite de la l. 4
-- ligne: 3
-  lemme: ruisseaux
   type: lecture
   note: 'lecture incertaine (r, u, i, s long descendant, e, a, x final) ; autres lectures possibles : rugueux, visqueux'
 - ligne: 6

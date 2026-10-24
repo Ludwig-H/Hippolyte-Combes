@@ -35,7 +35,7 @@ apparat:
 - ligne: 2
   lemme: Rien
   type: lecture
-  note: R bouclé et n final plongeant ; non « Lieu »
+  note: R bouclé et n final plongeant
 - ligne: 3
   lemme: ns.
   type: abreviation
@@ -43,7 +43,7 @@ apparat:
 - ligne: 3
   lemme: installations sommaires
   type: lecture
-  note: pluriel, s final plongeant aux deux mots ; non « installation sommaire »
+  note: pluriel, s final plongeant aux deux mots
 - ligne: 6
   lemme: ds
   type: abreviation

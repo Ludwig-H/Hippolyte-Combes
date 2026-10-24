@@ -47,7 +47,7 @@ apparat:
 - ligne: 6
   lemme: tourmentées
   type: lecture
-  note: deux e avant le s final (accord fautif) ; lu auparavant « tourmentés »
+  note: deux e avant le s final (accord fautif)
 - ligne: 6
   lemme: plaintivt
   type: abreviation
@@ -83,7 +83,7 @@ apparat:
 - ligne: 14
   lemme: chargé
   type: lecture
-  note: sans s ; lu auparavant « chargés »
+  note: sans s
 - ligne: 14
   lemme: gd
   type: abreviation
@@ -95,7 +95,7 @@ apparat:
 - ligne: 15
   lemme: Pant
   type: abreviation
-  note: Panton ; le t se prolonge en un long délié plongeant ; lu auparavant « Panton »
+  note: Panton ; le t se prolonge en un long délié plongeant
 - ligne: 16
   lemme: mess
   type: emprunt

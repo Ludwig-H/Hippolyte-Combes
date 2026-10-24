@@ -63,9 +63,9 @@ apparat:
   type: abreviation
   note: classe
 - ligne: 9
-  lemme: \add{\inc{en} compartiment}
-  type: ajout
-  note: 'écrit petit dans l''interligne inférieur, au bout de la ligne ; premier mot : en ou un'
+  lemme: \inc{en}
+  type: lecture
+  note: 'en ou un'
 - ligne: 10
   lemme: s/
   type: abreviation

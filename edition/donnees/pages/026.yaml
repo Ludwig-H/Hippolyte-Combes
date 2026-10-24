@@ -31,10 +31,6 @@ apparat:
   type: abreviation
   note: et
 - ligne: 5
-  lemme: \add{eglise}
-  type: ajout
-  note: Ajout interlinéaire au-dessus de Entré pr.
-- ligne: 5
   lemme: pr
   type: abreviation
   note: pour
@@ -113,7 +109,7 @@ apparat:
 - ligne: 18
   lemme: \inc{washing}
   type: emprunt
-  note: blanchissage ; mot très réduit (sh en ch comme au f. 023), lu aussi séchage.
+  note: blanchissage ; mot très réduit (sh en ch comme au f. 12 r°), lu aussi séchage.
 - ligne: 18
   lemme: fr.
   type: abreviation

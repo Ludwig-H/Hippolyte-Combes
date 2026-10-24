@@ -98,10 +98,6 @@ apparat:
   lemme: ds
   type: abreviation
   note: dans
-- ligne: 15
-  lemme: \del{\ill}
-  type: rature
-  note: mot court noyé sous la biffure
 - ligne: 16
   lemme: Cap
   type: abreviation

@@ -42,14 +42,6 @@ apparat:
   lemme: lgs
   type: abreviation
   note: longtemps
-- ligne: 9
-  lemme: \del{devant}
-  type: rature
-  note: devant biffé, la finale -ant noyée d'encre
-- ligne: 9
-  lemme: \add{en face de}
-  type: ajout
-  note: dans l'interligne, au-dessus de devant, qu'il remplace
 - ligne: 11
   lemme: s/
   type: abreviation

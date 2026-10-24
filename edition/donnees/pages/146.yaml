@@ -36,10 +36,6 @@ apparat:
   lemme: +
   type: abreviation
   note: plus (de plus en plus vif)
-- ligne: 5
-  lemme: '30'
-  type: ajout
-  note: écrit en petit module sous « minuit »
 - ligne: 6
   lemme: Y.M.C.A.
   type: abreviation

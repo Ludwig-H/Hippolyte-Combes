@@ -41,10 +41,6 @@ apparat:
   type: lecture
   note: Mot repassé à l'encre épaisse, peut-être sur une première leçon ; lecture retenue Monté, autre lecture possible Remonté
 - ligne: 2
-  lemme: \add{chambre}
-  type: ajout
-  note: Ajouté au-dessus de la ligne, entre le premier mot et « hier »
-- ligne: 2
   lemme: 11^{h} 1/4
   type: abreviation
   note: onze heures un quart
@@ -84,7 +80,7 @@ apparat:
   lemme: appart^{t}
   type: abreviation
   note: appartement
-critique: Encre violette. Le mot « chambre » est ajouté dans l'interligne au-dessus de la deuxième ligne, dont le premier mot, repassé à l'encre épaisse, reste douteux. La dernière phrase se poursuit en tête du f.~71~r\textsuperscript{o}.
+critique: Encre violette. La dernière phrase se poursuit en tête du f.~71~r\textsuperscript{o}.
 historique: |
   Première nuit d'Hippolyte Combes dans la maison Calmels, que la tradition familiale situe au 10, rue Alfred-Guibert et que bâtit le D\textsuperscript{r} Gabriel Calmels (1852–1921), médecin à Millau (acte de naissance de Marguerite, 1892 ; PC-Annexe). La « pleine lune » n'atteindra son plein que le 7 février, à 3~h~28 (Calendar-12). Le « vallon natal » ravive les deuils : son père, l'avocat Hippolyte Combes, est mort à Millau le 11 août 1899, sa mère, Anaïs Alric, à Toulouse en 1907 ; Maria, religieuse missionnaire, est morte à Carthage le 19 novembre 1903, et Joséphine, qui tenait son ménage, à Nogent-le-Rotrou en octobre 1914 ; seule Françoise vit encore, carmélite à Périgueux (PC-Livre ; PC-Bio). Les parents et Joséphine reposent au caveau Combes, où il se rend le lendemain avec Marguerite (f.~71~v\textsuperscript{o}). « Germaine » est sans doute Germaine Vincens, nièce de Marguerite, fille de Madeleine Calmels et du D\textsuperscript{r} Fernand Vincens, âgée de six ans au mariage (PC-Bio). La messe est celle du dimanche de la Septuagésime, Pâques tombant le 8 avril 1917.
 sources:

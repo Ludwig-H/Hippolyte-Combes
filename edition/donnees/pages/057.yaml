@@ -171,10 +171,6 @@ apparat:
   type: abreviation
   note: trois francs
 - ligne: 27
-  lemme: limonade
-  type: ajout
-  note: écrit au-dessus de la ligne, le montant au-dessous, en bout de ligne
-- ligne: 27
   lemme: 0.80c.
   type: abreviation
   note: quatre-vingts centimes

@@ -53,7 +53,7 @@ apparat:
 - ligne: 7
   lemme: démarré
   type: lecture
-  note: accent sur la finale ; non « démarre »
+  note: accent sur la finale
 - ligne: 7
   lemme: 1^{H}\fr{1}{2}
   type: abreviation
@@ -69,7 +69,7 @@ apparat:
 - ligne: 9
   lemme: 2^{H}45
   type: lecture
-  note: deux heures quarante-cinq ; minutes lues pour la première fois (4 fermé, 5 à longue haste)
+  note: deux heures quarante-cinq (4 fermé, 5 à longue haste)
 - ligne: 9
   lemme: 'Hazebrouck : 2^{H}'
   type: ajout

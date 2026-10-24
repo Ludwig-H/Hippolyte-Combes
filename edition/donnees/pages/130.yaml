@@ -66,9 +66,9 @@ apparat:
   type: abreviation
   note: cinq heures et demie
 - ligne: 12
-  lemme: (2^{H} de retard)
-  type: ajout
-  note: ajout interlinéaire en petit module, au-dessus de «, train »
+  lemme: 2^{H}
+  type: abreviation
+  note: deux heures
 - ligne: 12
   lemme: 2^{H}
   type: abreviation
@@ -93,10 +93,6 @@ apparat:
   lemme: de Orsay
   type: lecture
   note: e net, lié au d ; petit trait pointé au-dessus de l'O (apostrophe ?) ; pour gare d'Orsay
-- ligne: 18
-  lemme: en 10 minutes
-  type: ajout
-  note: ajout interlinéaire au-dessus de « enregistrer »
 - ligne: 18
   lemme: bagages
   type: disposition

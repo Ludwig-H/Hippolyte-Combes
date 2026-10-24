@@ -104,9 +104,9 @@ apparat:
   type: lecture
   note: lecture probable ; on peut lire aussi « peu »
 - ligne: 21
-  lemme: \add{très} (déprimé
-  type: ajout
-  note: très au-dessus de (déprimé, écrit dans le blanc à droite ; parenthèse non refermée
+  lemme: (déprimé
+  type: disposition
+  note: écrit dans le blanc à droite ; parenthèse non refermée
 - ligne: 22
   lemme: Y.M.C.A
   type: abreviation
@@ -135,7 +135,7 @@ apparat:
   lemme: = 88 fr. —
   type: compte
   note: 'total faux : 45 + 10 + 1 + 22 = 78 fr'
-critique: Un filet sépare les deux journées. Le dernier poste du compte de mess (« 22 fr ») et le total sont, au moins en partie, d'une encre violette, ajoutés après coup à une page écrite à l'encre noire ; « paraît », « très » et « (déprimé » sont serrés en fin de ligne et dans le blanc de droite.
+critique: Page écrite à l'encre noire ; un filet sépare les deux journées.
 historique: |
   Hippolyte Combes est passé le 1\textsuperscript{er} décembre à Franvillers, à 12~km au sud d'Acheux (voir f.~52~v\textsuperscript{o}) ; le « trio de vieux », non identifié, vient de Martinsart, resté « proche de la ligne de front jusqu'en septembre 1916 » (CWGC ; voir f.~52~r\textsuperscript{o}). Senlis-le-Sec abrite alors le QG du IV Corps (1\textsuperscript{er} déc. 1916 – 21 janv. 1917 : LLT). Le « mot très regrettable » de Williams, capitaine de vingt ans, ancien \textit{office boy} (f.~53~v\textsuperscript{o}), suit de six jours la « gaffe » du 24 décembre chez Mme Cuisinier, à Louvencourt (« Bloody France etc. ! »), qu'Hippolyte Combes hésitait à signaler à la Mission (f.~56~v\textsuperscript{o}, 57~r\textsuperscript{o}) ; la prière « de ne pas le quitter » suggère que l'interprète a parlé de partir. Pour Belle-Église, voir f.~53~r\textsuperscript{o}. Les quatre postes du mess font 78~F, non 88 : l'erreur porte sur les ajouts à l'encre violette. Même corrigée, la dépense absorbe près de la moitié des 162,75~F touchés par Hippolyte Combes en décembre (calcul de l'éditeur, d'après le carnet).
 sources:

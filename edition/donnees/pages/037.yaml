@@ -146,17 +146,9 @@ apparat:
   type: abreviation
   note: au milieu
 - ligne: 24
-  lemme: \del{\ill}
-  type: rature
-  note: mot fortement biffé, illisible
-- ligne: 24
   lemme: \inc{Puis}
   type: lecture
   note: lecture incertaine ; autre lecture possible, Lui
-- ligne: 24
-  lemme: '['
-  type: disposition
-  note: crochet ouvrant haut de deux lignes devant les postes du compte
 - ligne: 24
   lemme: C^{tes} p^{les}
   type: abreviation
@@ -175,7 +167,7 @@ apparat:
   note: coupe de cheveux
 critique: Les deux postes du compte et les mots « allée de pins », d'une encre plus brune et plus pâle que le texte, ont été ajoutés après coup au bas de la page, sous la phrase sur le clocher de Saint-Michel, restée en suspens après « est ».
 historique: |
-  Le beau temps revenu concorde avec le journal des Bedfords, qui note « \textit{Fine weather} » les 6 et 7 septembre après un 5 « \textit{Wet weather} » (JMO 7/Bedf, 5--7 sept. 1916). Après l'annulation du départ (voir f. 18 v\textsuperscript{o}), la 54th Brigade s'exerce au creusement intensif, à la construction rapide d'abris enterrés et à suivre un barrage ; le 6, les commandants du corps et de la division suivent une démonstration de « \textit{rapid construction of shelters} » (ibid.). Mme Vauchel, propriétaire d'une ferme voisine chez qui Hippolyte Combes accompagne Curtis, sans doute pour un achat de fourrage vert (voir f. 9 v\textsuperscript{o}), n'est pas identifiée. Le 7, la promenade mène à Saint-Pol (6,1 km de Marquay ; voir f. 16 v\textsuperscript{o}) et revient par Saint-Michel-sur-Ternoise (4,6 km ; OSM). L'église de Saint-Michel n'est pas protégée au titre des monuments historiques (Mérimée) : les datations naguère avancées pour l'édifice restent sans source. La coupe de cheveux à 50 c est le prix qu'Hippolyte Combes paiera encore à Albert en octobre (voir f. 43 v\textsuperscript{o}).
+  Le beau temps revenu concorde avec le journal des Bedfords, qui note « \textit{Fine weather} » les 6 et 7 septembre après un 5 « \textit{Wet weather} » (JMO 7/Bedf, 5--7 sept. 1916). Après l'annulation du départ (voir f. 18 v\textsuperscript{o}), la 54th Brigade s'exerce au creusement intensif, à la construction rapide d'abris enterrés et à suivre un barrage ; le 6, les commandants du corps et de la division suivent une démonstration de « \textit{rapid construction of shelters} » (ibid.). Mme Vauchel, propriétaire d'une ferme voisine chez qui Hippolyte Combes accompagne Curtis, sans doute pour un achat de fourrage vert (voir f. 9 v\textsuperscript{o}), n'est pas identifiée. Le 7, la promenade mène à Saint-Pol (6,1 km de Marquay ; voir f. 16 v\textsuperscript{o}) et revient par Saint-Michel-sur-Ternoise (4,6 km ; OSM). L'église de Saint-Michel n'est pas protégée au titre des monuments historiques (Mérimée). La coupe de cheveux à 50 c est le prix qu'Hippolyte Combes paiera encore à Albert en octobre (voir f. 43 v\textsuperscript{o}).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'
 - Ministère de la Culture, base Mérimée (aucune notice pour Saint-Michel-sur-Ternoise, interrogation du 18 oct. 2026).
