@@ -44,11 +44,12 @@
 \usepackage{array,booktabs,longtable,multicol}
 \usepackage{enumitem}
 \usepackage{xparse}
+\usepackage{yfonts}
 \usepackage[hyphens]{url}
 \usepackage{metalogo}
 \usepackage{hyperref}
 \hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=black!70!red,
-  pdfauthor={Louis Hauseux (éd.)},
+  pdfauthor={Hippolyte Combes (1876–1970)},
   pdftitle={Hippolyte Combes, Livre-Journal (25 juillet 1916 – 30 avril 1917). Édition avec fac-similés, commentaire critique et historique, et illustrations}}
 
 \definecolor{LJgris}{gray}{0.35}
@@ -117,10 +118,10 @@
 % Signes diplomatiques (en ligne)
 % ---------------------------------------------------------------------------
 \newlength{\LJsoul}
-\newcommand{\LJsl}[1]{\setbox0\hbox{#1}\rlap{\rule[-0.32ex]{\wd0}{0.42pt}}\box0\relax}
-\newcommand{\LJsll}[1]{\setbox0\hbox{#1}\rlap{\rule[-0.32ex]{\wd0}{0.42pt}}\rlap{\rule[-0.62ex]{\wd0}{0.42pt}}\box0\relax}
+\newcommand{\LJsl}[1]{\leavevmode\setbox0\hbox{#1}\rlap{\rule[-0.32ex]{\wd0}{0.42pt}}\box0\relax}
+\newcommand{\LJsll}[1]{\leavevmode\setbox0\hbox{#1}\rlap{\rule[-0.32ex]{\wd0}{0.42pt}}\rlap{\rule[-0.62ex]{\wd0}{0.42pt}}\box0\relax}
 \newcommand{\LJsup}[1]{\textsuperscript{#1}}
-\newcommand{\LJdel}[1]{\setbox0\hbox{#1}\rlap{\rule[0.55ex]{\wd0}{0.5pt}}\box0\relax}
+\newcommand{\LJdel}[1]{\leavevmode\setbox0\hbox{#1}\rlap{\rule[0.55ex]{\wd0}{0.5pt}}\box0\relax}
 \newcommand{\LJsur}[1]{#1}
 \newcommand{\LJadd}[1]{\textsuperscript{\textbackslash{}#1/}}
 \newcommand{\LJaddm}[1]{\textsuperscript{\textbackslash{}#1/}}
