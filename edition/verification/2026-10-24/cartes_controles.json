@@ -1,0 +1,88 @@
+{
+  "base": "ce61fc3",
+  "scope": "Géométrie des PDF et identité des points avec le catalogue courant ; ne prouve pas les identifications historiques.",
+  "maps": [
+    {
+      "id": "generale_france",
+      "printed_points": 15,
+      "max_point_error_pt": 3.59e-05,
+      "scale_km": 200,
+      "scale_rectangles": 2,
+      "errors": [],
+      "sha256": "6a5b01d0d9de12305a453ac358683198a1cba411474be4589dfb70244eb70c14"
+    },
+    {
+      "id": "generale_nord",
+      "printed_points": 20,
+      "max_point_error_pt": 3.71e-05,
+      "scale_km": 20,
+      "scale_rectangles": 2,
+      "errors": [],
+      "sha256": "b95ef184c264651e086ef6dc0d400e5dbf0a11e83096bb078245b363f8065146"
+    },
+    {
+      "id": "I",
+      "printed_points": 15,
+      "max_point_error_pt": 2.55e-05,
+      "scale_km": 5,
+      "scale_rectangles": 2,
+      "errors": [],
+      "sha256": "fe76dea012fbe02bf4d908556c57342c4fe23b709b6cf96ed9338bed198ea010"
+    },
+    {
+      "id": "II",
+      "printed_points": 18,
+      "max_point_error_pt": 2.16e-05,
+      "scale_km": 10,
+      "scale_rectangles": 2,
+      "errors": [],
+      "sha256": "88a89db5ea7b7ea52604e79edbd6304f31b3bb34e2fd721b9cf176937f712659"
+    },
+    {
+      "id": "III",
+      "printed_points": 9,
+      "max_point_error_pt": 1.47e-05,
+      "scale_km": 2,
+      "scale_rectangles": 2,
+      "errors": [],
+      "sha256": "7e06d10e846972d3b3fc1e2d75aa0a25f673a785d05d241855df5d820641dcf8"
+    },
+    {
+      "id": "IV",
+      "printed_points": 21,
+      "max_point_error_pt": 2.04e-05,
+      "scale_km": 10,
+      "scale_rectangles": 2,
+      "errors": [],
+      "sha256": "6097cf55f925ec4f353e9f18bdd4ac29bf9d074cc0d9c70419b2dc7888185c0c"
+    },
+    {
+      "id": "V",
+      "printed_points": 17,
+      "max_point_error_pt": 2.09e-05,
+      "scale_km": 5,
+      "scale_rectangles": 2,
+      "errors": [],
+      "sha256": "e1595f8d9b4b306f961c9f30396ff0fe76f2d47b8d5a86db650d5ca72c7b585e"
+    },
+    {
+      "id": "VI",
+      "printed_points": 15,
+      "max_point_error_pt": 2.12e-05,
+      "scale_km": 100,
+      "scale_rectangles": 2,
+      "errors": [],
+      "sha256": "5c7e9efdffcef41acdecd4c9dc2fcf4ffcc11ccf8b9f18233f379a3b73f17330"
+    },
+    {
+      "id": "VII",
+      "printed_points": 17,
+      "max_point_error_pt": 1.78e-05,
+      "scale_km": 10,
+      "scale_rectangles": 2,
+      "errors": [],
+      "sha256": "8dd589e5896a11ffe6ffea50aa992f68aac5b9a96f0045c10c8168d84d883733"
+    }
+  ],
+  "ok": true
+}

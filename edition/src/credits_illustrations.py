@@ -19,7 +19,17 @@ def _tex(s: str) -> str:
     s = re.sub(r"`([^`]*)`", r"\1", s)
     s = re.sub(r"\*([^*]+)\*", r"\\textit{\1}", s)
     s = s.replace("&", r"\&").replace("%", r"\%").replace("#", r"\#").replace("_", r"\_")
-    s = re.sub(r"https?://\S+", lambda m: r"\url{%s}" % m.group(0).replace(r"\_", "_").replace(r"\%", "%").rstrip(".,;)"), s)
+    def lien(m):
+        brut = m.group(0)
+        url = brut.rstrip(".,;")
+        # Une parenthèse de la phrase reste hors du lien ; une parenthèse
+        # équilibrée appartenant à l'URL reste dans celui-ci.
+        while url.endswith(")") and url.count(")") > url.count("("):
+            url = url[:-1]
+        ponctuation = brut[len(url):]
+        url = url.replace(r"\_", "_").replace(r"\%", "%").replace(r"\&", "&").replace(r"\#", "#")
+        return r"\url{%s}" % url + ponctuation
+    s = re.sub(r"https?://\S+", lien, s)
     return s
 
 

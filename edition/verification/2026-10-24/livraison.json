@@ -1,0 +1,264 @@
+{
+  "base_git": "ce61fc380d01bd6c4e953bf84a5fc27f4b4a2bdc",
+  "date": "2026-10-24",
+  "transcriptions_yaml_inchangees": 186,
+  "export_markdown_inchange": true,
+  "pages_edition": 504,
+  "pages_livret_A4": 256,
+  "vis_a_vis": 185,
+  "cartes": 9,
+  "fichiers": {
+    "COORDINATION_GEMINI_CODEX.md": {
+      "sha256": "c7dc696709d69f89e7a13084cc878c5142861a8c9e5c2f887dfbe6a5082bbdb6",
+      "octets": 7705
+    },
+    "README.md": {
+      "sha256": "d5fd2275333a1938e1b06bd9627e9031147d5bcfd5e2a596cb0151514b87917f",
+      "octets": 7297
+    },
+    "edition/cartes/cartes.yaml": {
+      "sha256": "13f1df3df66c114f79fb93c78fdc8b63e6068b48a1061b889cdf6a2ca72e6e99",
+      "octets": 18682
+    },
+    "edition/cartes/donnees/fronts.yaml": {
+      "sha256": "59e87b3c2eca1437b44bb1a6fa0f96095417b50b11bbb4930621cd338c06298b",
+      "octets": 9000
+    },
+    "edition/cartes/pdf/carte_II.pdf": {
+      "sha256": "88a89db5ea7b7ea52604e79edbd6304f31b3bb34e2fd721b9cf176937f712659",
+      "octets": 382592
+    },
+    "edition/cartes/pdf/carte_II.png": {
+      "sha256": "1399b66d9523ac8860bbe7afab4b83f30055029e8148b196a777ecf251a1adb0",
+      "octets": 681105
+    },
+    "edition/cartes/pdf/carte_III.pdf": {
+      "sha256": "7e06d10e846972d3b3fc1e2d75aa0a25f673a785d05d241855df5d820641dcf8",
+      "octets": 228742
+    },
+    "edition/cartes/pdf/carte_III.png": {
+      "sha256": "7d52c738c7619a4dba10441e7d618bce73cf32323decd7575cf19bfad2289b3f",
+      "octets": 638207
+    },
+    "edition/cartes/pdf/carte_IV.pdf": {
+      "sha256": "6097cf55f925ec4f353e9f18bdd4ac29bf9d074cc0d9c70419b2dc7888185c0c",
+      "octets": 317994
+    },
+    "edition/cartes/pdf/carte_IV.png": {
+      "sha256": "790241e3677f865112df61c6af3573615ae258c3bbab79ea90f3ce3e0af64440",
+      "octets": 742852
+    },
+    "edition/cartes/pdf/carte_V.pdf": {
+      "sha256": "e1595f8d9b4b306f961c9f30396ff0fe76f2d47b8d5a86db650d5ca72c7b585e",
+      "octets": 276892
+    },
+    "edition/cartes/pdf/carte_V.png": {
+      "sha256": "de675457c24887949da1844dedfe9ac36b2196ef0fd647acafa2ba86a4eaad1b",
+      "octets": 685412
+    },
+    "edition/cartes/pdf/carte_VI.pdf": {
+      "sha256": "5c7e9efdffcef41acdecd4c9dc2fcf4ffcc11ccf8b9f18233f379a3b73f17330",
+      "octets": 286339
+    },
+    "edition/cartes/pdf/carte_VI.png": {
+      "sha256": "4ea483d8ef8918e49f353aeddcb2306ff8292b2c9dcc32fd6ed9f58035c3da49",
+      "octets": 431817
+    },
+    "edition/cartes/pdf/carte_VII.pdf": {
+      "sha256": "8dd589e5896a11ffe6ffea50aa992f68aac5b9a96f0045c10c8168d84d883733",
+      "octets": 272635
+    },
+    "edition/cartes/pdf/carte_VII.png": {
+      "sha256": "f07fae95f23abf808d3e1ec09d6d933145f696c43af1b5ff5bfd77c8694ab445",
+      "octets": 707117
+    },
+    "edition/cartes/pdf/carte_generale_france.pdf": {
+      "sha256": "6a5b01d0d9de12305a453ac358683198a1cba411474be4589dfb70244eb70c14",
+      "octets": 421294
+    },
+    "edition/cartes/pdf/carte_generale_france.png": {
+      "sha256": "1342e663303d27b225e2caab928fedf9a8380679533433508960dfc5eb890aec",
+      "octets": 666943
+    },
+    "edition/cartes/pdf/carte_generale_nord.pdf": {
+      "sha256": "b95ef184c264651e086ef6dc0d400e5dbf0a11e83096bb078245b363f8065146",
+      "octets": 613423
+    },
+    "edition/cartes/pdf/carte_generale_nord.png": {
+      "sha256": "4875ee19e553dc05f874f28e2ad8a45ca4d5fef7df07f077e58106fdfce1a6e5",
+      "octets": 1209131
+    },
+    "edition/donnees/chapitres.yaml": {
+      "sha256": "b82679fb52eb6490a3c0dd2b1ae3a615b6b4c1436aca98b09ea406f352bf772a",
+      "octets": 5291
+    },
+    "edition/donnees/codicologie.yaml": {
+      "sha256": "59737fdf9f98a79ff11f9fd0f9e6cf8d8c392c2b0c12d68ca4052a1fc12f980f",
+      "octets": 29830
+    },
+    "edition/donnees/index.yaml": {
+      "sha256": "7de5702de2306d499e7192a0dd5e953aed58b3984da0007487ef2d68a3ada164",
+      "octets": 70356
+    },
+    "edition/donnees/pages/026.yaml": {
+      "sha256": "6cdd118fdcf5e0ac934870d417faf9630f453c6cf97ec86b1daf962be9450f69",
+      "octets": 4337
+    },
+    "edition/donnees/pages/033.yaml": {
+      "sha256": "73d7275c7fbb9e913da622bda692826bc1af24b4bfb745ada32161431e89eb9e",
+      "octets": 4237
+    },
+    "edition/donnees/pages/098.yaml": {
+      "sha256": "3f5f19277b81b1c59e105440a4859b5a500411ef4550c9c2593ecf077e10c258",
+      "octets": 6809
+    },
+    "edition/donnees/pages/120.yaml": {
+      "sha256": "92928f5ca006d03dc57b15ac89876904b658afd3b1118c2a718c795da231a160",
+      "octets": 5634
+    },
+    "edition/donnees/pages/163.yaml": {
+      "sha256": "7493cf201fd7e904ad05f8a13f773c1429566033271865f36dd0312e1fd5f9c6",
+      "octets": 5387
+    },
+    "edition/donnees/pages/186.yaml": {
+      "sha256": "56b9f57e63c3e8e37a85662de89635afd786c8173b91285190c35f4df45b29c4",
+      "octets": 3449
+    },
+    "edition/illustrations/epoque/catalogue.yaml": {
+      "sha256": "2a7e6eb1266fca31a5de54f6415b4576e6c4d45982451806bb6aef29e9c57c00",
+      "octets": 16847
+    },
+    "edition/livre_journal.pdf": {
+      "sha256": "494960565b171438becdab51f5c80c4b90842ce94c531abe084a685c24e5fe95",
+      "octets": 57658613
+    },
+    "edition/livret_A4.pdf": {
+      "sha256": "2797a838aa171d9641783456f74c41dc0b6ff3eb738437602b99705298f9d32c",
+      "octets": 57680687
+    },
+    "edition/src/balisage.py": {
+      "sha256": "c682bd0488478cdbb10c02136d890f12f1b64f05d82180a24ada6ded50ccc6ed",
+      "octets": 8599
+    },
+    "edition/src/credits_illustrations.py": {
+      "sha256": "61ff5b1fee4a05ed09e375ac9eb368ad0a99a33de80fd2be7af2770a52ede3b4",
+      "octets": 3941
+    },
+    "edition/src/exporter.py": {
+      "sha256": "2e5fd090565b10d9280d8bce397de5aca46d6bd66949c562bc5fedbc49f4049a",
+      "octets": 5268
+    },
+    "edition/src/gabarit.py": {
+      "sha256": "dc1533b23f25c505f8e88613b8c8c0837455f74b76878db63a215fae6506249a",
+      "octets": 6583
+    },
+    "edition/src/generer.py": {
+      "sha256": "c8ebee09615430078593397085b77ed1a6fb7e8d6715692738205846b55b0aef",
+      "octets": 6403
+    },
+    "edition/src/livret.py": {
+      "sha256": "592a3826869f7d021dc4c235d095d582f929196b5a7950f66982de3fd3ae2745",
+      "octets": 1777
+    },
+    "edition/src/loci_index.py": {
+      "sha256": "c1f5ccf9e4c5343fa83d9733909f562b1223d4f06a112d7d97cb3f1c84d820d6",
+      "octets": 4283
+    },
+    "edition/src/planche.py": {
+      "sha256": "72a55e1b6843efcd965c58a1b889864adb7ef4d1525fa5e7bd3865a4a2a5e705",
+      "octets": 2885
+    },
+    "edition/src/preparer_facsimiles.py": {
+      "sha256": "1caf81263f41a4e70a591985356de7f809a34f04cf4a18162a7a7b38ba7b4806",
+      "octets": 1629
+    },
+    "edition/src/verifier.py": {
+      "sha256": "2bbad56256b94341d6e286843e0c0ea29013a1230a84969dd8f4205586dc3159",
+      "octets": 9520
+    },
+    "edition/textes/annexe_bibliographie.tex": {
+      "sha256": "40492d76b0d7a56ec767846f1a4619d785b6632da3a69de93e5ad9ffbca06ecf",
+      "octets": 64358
+    },
+    "edition/textes/annexe_illustrations.tex": {
+      "sha256": "f7cfeb0f951ebb703668f13fa316fe256840afdd458dfc1047bda0ccd250e948",
+      "octets": 11225
+    },
+    "edition/textes/annexe_lettres.tex": {
+      "sha256": "f8e238600e7707f37831524d74be1c9c2c34830eee6687fcc73d34f4b69df156",
+      "octets": 87094
+    },
+    "edition/textes/annexe_services.tex": {
+      "sha256": "02cd4bddc8976bde2c5290d3410febe13476afb9ce253d7db1071300fae57ff5",
+      "octets": 5273
+    },
+    "edition/textes/chapitres/VI.tex": {
+      "sha256": "3f1daf9d3ba4b431cfc9155f3ba2d1cc569a4e49a6a231b328c6aa90cd903ecd",
+      "octets": 15146
+    },
+    "edition/textes/intro_biographie.tex": {
+      "sha256": "c8cdc51d3331c0b58a697ea752c9f69dd0f209c63d0556ba06f8dfb946df5ee5",
+      "octets": 50476
+    },
+    "edition/textes/intro_cartes.tex": {
+      "sha256": "fd6a7fd684e1a6892780a2c1f54a2564ef916115195cdfede94ef74a2002dc0a",
+      "octets": 1463
+    },
+    "edition/textes/intro_description.tex": {
+      "sha256": "b29456dc2c4cabf13b996ef0c360885ef3a6507c6197dd8305a824e8c76cd021",
+      "octets": 7844
+    },
+    "edition/textes/liminaires.tex": {
+      "sha256": "134fb48508c3539c32208a291e9dd9d17d50a34b6eee8ff1da3a87269d07bd0f",
+      "octets": 3218
+    },
+    "edition/verification/2026-10-24/README.md": {
+      "sha256": "c677395b19d25862757e6e880c34261c66e7927b47a86b1889a020d42d8d3124",
+      "octets": 5635
+    },
+    "edition/verification/2026-10-24/audit_apparat.md": {
+      "sha256": "18889cdf69332fb073a4e7da9189c0b296afa7e156babeb988d4e5642255e8a0",
+      "octets": 4929
+    },
+    "edition/verification/2026-10-24/audit_cartes.md": {
+      "sha256": "e5dc06bcbc46a0638a7b7be49ddc1a88553397e0e01a21fd109dec358e7086ac",
+      "octets": 6616
+    },
+    "edition/verification/2026-10-24/audit_textes.md": {
+      "sha256": "b6771c4513ff528f9523ba33e8171ed099386c0d3417fd7dd152a46645f61970",
+      "octets": 6540
+    },
+    "edition/verification/2026-10-24/cartes_controles.json": {
+      "sha256": "1d964e03a21779c67c8df78a1451eefdda20a13e1371956c4e1978808d8bde87",
+      "octets": 2468
+    },
+    "edition/verification/2026-10-24/livret_controles.json": {
+      "sha256": "edd73fd451030a9eb9dae6ec4aa19ac89d34b8cb6262d1732f2c6b170c98a411",
+      "octets": 296
+    },
+    "edition/verification/2026-10-24/regressions.json": {
+      "sha256": "f22b427a4b1f8fd8db252b6cc06c652c08d9d519c8875f2017030d76f7a1de8b",
+      "octets": 536
+    },
+    "edition/verification/2026-10-24/validation_edition.txt": {
+      "sha256": "5a1ef025cdeaef71310685946ec669cffa4ad380c5f96ef06ba7a4b1e299e944",
+      "octets": 273
+    },
+    "edition/verification/2026-10-24/verifier_cartes_pdf.py": {
+      "sha256": "ee840c51be64660d889dfc391e2b79af2e88cf7a422b9f89add0032710c101bf",
+      "octets": 4129
+    },
+    "edition/verification/2026-10-24/verifier_regressions.py": {
+      "sha256": "3564663e0f8bdf70c724aac9eea2f440a972a0f5ec9dafafbd69826da4d7b2e4",
+      "octets": 3419
+    },
+    "transcriptions/livre_journal_donnees.json": {
+      "sha256": "45e426e5819fb938a261c76745961872ecfce7fe5c1728b698eecc874b6a1b39",
+      "octets": 996959
+    },
+    "transcriptions/livre_journal_transcription.md": {
+      "sha256": "0b568fcd97f7bf921b0fcc2d395ad63fb76a96df4e14bdcd0b496e7eab86b377",
+      "octets": 200157
+    }
+  }
+}

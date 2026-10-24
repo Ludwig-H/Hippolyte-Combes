@@ -34,3 +34,13 @@ Le fichier `cartographie/verification/attestations_lieux.json` couvre les 120 po
 - Relecture intégrale des 185 pages sur les photographies, en lecture puis contrôle indépendant, lettre à lettre dans les cas difficiles ; relevé par page dans `edition/donnees/relecture/`. Balisage diplomatique décrit dans `edition/BALISAGE.md`.
 - Commentaire historique refait page par page d'après huit dossiers de recherche (`edition/recherche/`) ; introductions générales et de chapitre, annexes (lettres relues sur les originaux, services, abréviations, glossaire, bibliographie), index et *loci paralleli* recalculés.
 - Générateur LaTeX neuf (`edition/src/`), format 160 × 226 mm, Libertinus ; cartes refaites (`edition/cartes/`) ; construction et vérifications : `edition/construire.sh`.
+
+## Audit général après la refonte — 24 octobre 2026 (Codex)
+
+Après récupération du distant, la base publiée est `ce61fc3`. L'audit est préparé dans `/tmp/hc_audit_20261024/repo`, en HEAD détachée, sans nouvelle branche. Les 19 modifications non commitées déjà présentes dans le dossier principal sont sauvegardées et maintenues séparément de la publication ; les corrections factuelles communes sont conciliées avec leur réécriture stylistique, sans publier celle-ci à leur place.
+
+Le contrôle couvre les 186 fichiers de pages (185 pages actives, 3 711 lignes), les introductions et annexes, les index et renvois, les neuf cartes et les deux PDF. Les lectures diplomatiques ne changent pas. Corrections : notes et renvois incohérents, portée des preuves des *Feuillets de Route*, attribution du JMO des Irish Guards, ouverture du carnet en Flandre, réserves sur les faces non photographiées, cantonnement de Barlette et légendes des fronts. La notice d'impression précise que le livret A4 est déjà réduit et s'imprime à 100 %.
+
+Les rapports et contrôles se trouvent dans `edition/verification/2026-10-24/`. Le validateur confronte désormais aussi l'export JSON aux YAML et les 185 images effectivement incorporées aux fac-similés préparés ; des cas négatifs vérifient le refus d'un export périmé, d'une photographie intervertie et d'un caractère absent. Le PDF corrigé compte 504 pages, le livret 256 pages A4 (32 cahiers de 16 pages). Les fronts restent schématiques, les fonds contemporains ; cet audit n'est pas une nouvelle collation intégrale des autographes ni un dépouillement renouvelé de toute la bibliographie.
+
+La publication se fait sur `main` par avance rapide, sans réécriture d'historique. Aucune approbation d'un autre développeur n'est présumée.

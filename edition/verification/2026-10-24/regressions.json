@@ -1,0 +1,27 @@
+[
+  {
+    "cas": "export JSON divergent",
+    "refuse": true,
+    "diagnostics": [
+      "export JSON 001 : historique périmé"
+    ]
+  },
+  {
+    "cas": "photographie intervertie",
+    "refuse": true,
+    "diagnostics": [
+      "cliché 001 : image du fac-similé différente de celle attendue"
+    ]
+  },
+  {
+    "cas": "glyphe absent",
+    "refuse": true,
+    "diagnostics": [
+      "Missing character: There is no X in font Test!"
+    ]
+  },
+  {
+    "cas": "ponctuation et contenu des liens",
+    "trois_cas_conformes": true
+  }
+]

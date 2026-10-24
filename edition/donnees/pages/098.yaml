@@ -3,7 +3,7 @@ fichier: 20251126_104801.jpg
 date: Dimanche 12 et mardi 14 novembre 1916
 mois: Novembre 1916
 lieux: Acheux-en-Amiénois, Contay, Beauquesne ? et Doullens (Somme) ; Frévent (Pas-de-Calais)
-titre: Course à Beauquesne ; bombardement vers Beaumont, blessés ; tournée à Doullens et Frévent
+titre: Course à Beauquesne (?) ; bombardement vers Beaumont, blessés ; tournée à Doullens et Frévent
 transcription: |
   \sl{Dim. 12.} \hfill \sl{Novembre 1916}
   \ind assz belle journée. Matin & soir, brouillard
@@ -94,6 +94,10 @@ apparat:
   type: abreviation
   note: sur
 - ligne: 16
+  lemme: \del{\inc{autos}}
+  type: lecture
+  note: lecture conjecturale sous une biffure très chargée
+- ligne: 16
   lemme: cars
   type: emprunt
   note: voitures automobiles (anglais cars)
@@ -173,9 +177,9 @@ apparat:
   lemme: 7 fr
   type: abreviation
   note: 7 francs
-critique: 'Encre violette pour la journée du dimanche 12 ; encre noire virée au brun pour les comptes du 12, le filet et toute la journée du mardi 14 : les dépenses du 12 ont été portées en même temps que le texte du 14. Le lundi 13 n''a pas d''entrée propre et n''est évoqué que par « Tout hier ». La photographie coupe le bord droit du feuillet, où se perdent la fin de « Beauquesne » et de « petits ».'
+critique: 'Encre violette pour la journée du dimanche 12 ; encre noire virée au brun pour les comptes du 12, le filet et toute la journée du mardi 14 : les dépenses du 12 ont été portées en même temps que le texte du 14. Le lundi 13 n''a pas d''entrée propre et n''est évoqué que par « Tout hier ». La photographie coupe le bord droit du feuillet, où se perdent la fin de « Beauq… » et de « petits ».'
 historique: |
-  Le lundi 13 à 5~h~45 s'ouvre la bataille de l'Ancre : la 51st (Highland) Division prend Beaumont-Hamel, à 9~km à l'est d'Acheux, et la 63rd (Royal Naval) Division atteint les abords de Beaucourt, enlevé le 14 ; les prisonniers dépassent 7~200 (Haig 1919, p.~49--51 ; OH 1916-II, p.~476--505). Les blessés gagnent les hôpitaux d'évacuation de la Fifth Army, à Varennes (voir f.~48~v\textsuperscript{o}), Contay, Puchevillers et Gézaincourt, ou l'un des deux hôpitaux stationnaires de Doullens, dont l'un est prêté par la Third Army « pour les opérations de l'Ancre » (OH 1916-II, p.~541). La course du 12 mène par Varennes et Contay à Beauquesne, siège du QG avancé de Haig (voir f.~38~r\textsuperscript{o}). À Frévent (Pas-de-Calais), l'église Saint-Hilaire, des XVI\textsuperscript{e}--XIX\textsuperscript{e} siècles, est classée depuis 1982 (Mérimée PA00108287). Vêtus de kaki, les interprètes portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, p.~XIII). À 7~F, le déjeuner de l'hôtel d'Amiens est le plus cher des repas notés hors des permissions.
+  Le lundi 13 à 5~h~45 s'ouvre la bataille de l'Ancre : la 51st (Highland) Division prend Beaumont-Hamel, à 9~km à l'est d'Acheux, et la 63rd (Royal Naval) Division atteint les abords de Beaucourt, enlevé le 14 ; les prisonniers dépassent 7~200 (Haig 1919, p.~49--51 ; OH 1916-II, p.~476--505). Les blessés gagnent les hôpitaux d'évacuation de la Fifth Army, à Varennes (voir f.~48~v\textsuperscript{o}), Contay, Puchevillers et Gézaincourt, ou l'un des deux hôpitaux stationnaires de Doullens, dont l'un est prêté par la Third Army « pour les opérations de l'Ancre » (OH 1916-II, p.~541). La course du 12 mène par Varennes et Contay probablement à Beauquesne, siège du QG avancé de Haig (voir f.~38~r\textsuperscript{o}). À Frévent (Pas-de-Calais), l'église Saint-Hilaire, des XVI\textsuperscript{e}--XIX\textsuperscript{e} siècles, est classée depuis 1982 (Mérimée PA00108287). Vêtus de kaki, les interprètes portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, p.~XIII). À 7~F, le déjeuner de l'hôtel d'Amiens est le plus cher des repas notés hors des permissions.
 sources:
 - Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), London, Dent, 1919, p. 49-51.
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 476-505, 541.

@@ -3611,7 +3611,7 @@
    }
   ],
   "critique": "Toute la page, récit et comptes, est d'une même encre noire.",
-  "historique": "Steenwerck (Nord), presque intact jusque-là, sera pris le 10 avril 1918 et restera allemand jusqu'en octobre (CWGC, Le Grand Beaumart). L'église, dédiée à la Décollation de saint Jean-Baptiste, disparaîtra dans ces combats et sera reconstruite en 1928 (Mérimée PA59000231 ; voir f. 5 r\\textsuperscript{o}) ; de l'ancien édifice ne subsistent que des fonts de 1567 et un chapiteau (Palissy PM59003991-3992). La relique de saint Hippolyte, martyr romain fêté le 13 août, la veille de l'anniversaire d'Hippolyte Combes (né le 14 août 1876), n'est pas documentée. Maurin est le collègue interprète, sans doute provençal, qu'Hippolyte Combes fréquente depuis le 6 août (voir f. 6 v\\textsuperscript{o}) ; Fisher, soldat de la compagnie, reste inconnu. Mme Cliquennois est sans doute la propriétaire de son logement de La Croix-du-Bac (voir f. 10 r\\textsuperscript{o} et 12 r\\textsuperscript{o}). Le soir même, le 7th Bedfordshire quitte Erquinghem à 18 h 30 pour la gare de Bailleul (Beds War Diary, 24 août 1916) ; la compagnie suit le lendemain (voir f. 14 r\\textsuperscript{o}).\n",
+  "historique": "Steenwerck (Nord), presque intact jusque-là, sera pris le 10 avril 1918 et restera allemand jusqu'en octobre (CWGC, Le Grand Beaumart). L'église, dédiée à la Décollation de saint Jean-Baptiste, disparaîtra dans ces combats et sera reconstruite en 1928 (Mérimée PA59000231 ; voir f. 5 r\\textsuperscript{o}) ; de l'ancien édifice ne subsistent que des fonts de 1567 et un chapiteau (Palissy PM59003991-3992). La relique de saint Hippolyte, martyr romain fêté le 13 août, la veille de l'anniversaire d'Hippolyte Combes (né le 14 août 1876), n'est pas documentée. Maurin est le collègue interprète, sans doute provençal, qu'Hippolyte Combes fréquente depuis le 6 août (voir f. 7 r\\textsuperscript{o}) ; Fisher, soldat de la compagnie, reste inconnu. Mme Cliquennois est sans doute la propriétaire de son logement de La Croix-du-Bac (voir f. 10 r\\textsuperscript{o} et 12 r\\textsuperscript{o}). Le soir même, le 7th Bedfordshire quitte Erquinghem à 18 h 30 pour la gare de Bailleul (Beds War Diary, 24 août 1916) ; la compagnie suit le lendemain (voir f. 14 r\\textsuperscript{o}).\n",
   "sources": [
    "CWGC, Le Grand Beaumart British Cemetery, Steenwerck (fiche 20802), historique.",
    "Ministère de la Culture, base Mérimée, PA59000231 (église Saint-Jean-Baptiste, Steenwerck).",
@@ -4411,7 +4411,7 @@
     "ligne": 9,
     "lemme": "SFl",
     "type": "lecture",
-    "note": "S suivi d'un f descendant et d'un l, sans t ni point (Saint-Pol)"
+    "note": "S suivi d'un f descendant et d'un l, sans t ni point"
    },
    {
     "ligne": 10,
@@ -13444,7 +13444,7 @@
   "date": "Dimanche 12 et mardi 14 novembre 1916",
   "mois": "Novembre 1916",
   "lieux": "Acheux-en-Amiénois, Contay, Beauquesne ? et Doullens (Somme) ; Frévent (Pas-de-Calais)",
-  "titre": "Course à Beauquesne ; bombardement vers Beaumont, blessés ; tournée à Doullens et Frévent",
+  "titre": "Course à Beauquesne (?) ; bombardement vers Beaumont, blessés ; tournée à Doullens et Frévent",
   "transcription": "\\sl{Dim. 12.} \\hfill \\sl{Novembre 1916}\n\\ind assz belle journée. Matin & soir, brouillard\nRoutes mauvaises. Sol mou, pétri & sillons\nprofonds par les innombrables véhicules \\add{lourds} qui\nle labourent\n\\ind Matin, liberté complète –\n\\ind Après-midi, Course en auto à Beauq\\lac\npar Varennes & Contay. Brume s'est levée\npeu à peu. Paysage anglais. Arbre étriqués\nFeuillages jaune marron semant la route\n\\blanc{1}\n\\crochet{2}Journal semaine : 40 c\nCasque peint khaki : 1^{f} —\n\\filet\n\\sl{14 Ma^{rdi}} — Tout hier, et principt matin, ainsi\n\\ind qu'auj'dhui, très fort bombardt — du\nCôté de Beaumont Vu passer de x blessés\ntransportés s/ fourgons, \\del{\\inc{autos}} & cars —\n\\ind Courses à Raincheval, Doullens et Frévent\nPartis 8^{h} \\fr{1}{2} m., rentrés 5^{h} soir.\nciel nuageux – pluie menacé tt le jour.\nA Doullens, grande foire\n\\ind A Frévent, promené passim — Petite\nville assz coquette belle église, \\inc{catéchismes} & un \\inc{carillon} —\n— Boutons simili-cuir : 4^{f} 75 (10 \\add{0.40} \\inc{gd}, 3 \\add{0.25} petit\\lac\n\\crochet{2}Cartes ple : 40c – 1 50 et 10c\nDéjeuner à l'hôtel d'Amiens, ma part : 7 fr\n",
   "apparat": [
    {
@@ -13536,6 +13536,12 @@
     "lemme": "s/",
     "type": "abreviation",
     "note": "sur"
+   },
+   {
+    "ligne": 16,
+    "lemme": "\\del{\\inc{autos}}",
+    "type": "lecture",
+    "note": "lecture conjecturale sous une biffure très chargée"
    },
    {
     "ligne": 16,
@@ -13658,8 +13664,8 @@
     "note": "7 francs"
    }
   ],
-  "critique": "Encre violette pour la journée du dimanche 12 ; encre noire virée au brun pour les comptes du 12, le filet et toute la journée du mardi 14 : les dépenses du 12 ont été portées en même temps que le texte du 14. Le lundi 13 n'a pas d'entrée propre et n'est évoqué que par « Tout hier ». La photographie coupe le bord droit du feuillet, où se perdent la fin de « Beauquesne » et de « petits ».",
-  "historique": "Le lundi 13 à 5~h~45 s'ouvre la bataille de l'Ancre : la 51st (Highland) Division prend Beaumont-Hamel, à 9~km à l'est d'Acheux, et la 63rd (Royal Naval) Division atteint les abords de Beaucourt, enlevé le 14 ; les prisonniers dépassent 7~200 (Haig 1919, p.~49--51 ; OH 1916-II, p.~476--505). Les blessés gagnent les hôpitaux d'évacuation de la Fifth Army, à Varennes (voir f.~48~v\\textsuperscript{o}), Contay, Puchevillers et Gézaincourt, ou l'un des deux hôpitaux stationnaires de Doullens, dont l'un est prêté par la Third Army « pour les opérations de l'Ancre » (OH 1916-II, p.~541). La course du 12 mène par Varennes et Contay à Beauquesne, siège du QG avancé de Haig (voir f.~38~r\\textsuperscript{o}). À Frévent (Pas-de-Calais), l'église Saint-Hilaire, des XVI\\textsuperscript{e}--XIX\\textsuperscript{e} siècles, est classée depuis 1982 (Mérimée PA00108287). Vêtus de kaki, les interprètes portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, p.~XIII). À 7~F, le déjeuner de l'hôtel d'Amiens est le plus cher des repas notés hors des permissions.\n",
+  "critique": "Encre violette pour la journée du dimanche 12 ; encre noire virée au brun pour les comptes du 12, le filet et toute la journée du mardi 14 : les dépenses du 12 ont été portées en même temps que le texte du 14. Le lundi 13 n'a pas d'entrée propre et n'est évoqué que par « Tout hier ». La photographie coupe le bord droit du feuillet, où se perdent la fin de « Beauq… » et de « petits ».",
+  "historique": "Le lundi 13 à 5~h~45 s'ouvre la bataille de l'Ancre : la 51st (Highland) Division prend Beaumont-Hamel, à 9~km à l'est d'Acheux, et la 63rd (Royal Naval) Division atteint les abords de Beaucourt, enlevé le 14 ; les prisonniers dépassent 7~200 (Haig 1919, p.~49--51 ; OH 1916-II, p.~476--505). Les blessés gagnent les hôpitaux d'évacuation de la Fifth Army, à Varennes (voir f.~48~v\\textsuperscript{o}), Contay, Puchevillers et Gézaincourt, ou l'un des deux hôpitaux stationnaires de Doullens, dont l'un est prêté par la Third Army « pour les opérations de l'Ancre » (OH 1916-II, p.~541). La course du 12 mène par Varennes et Contay probablement à Beauquesne, siège du QG avancé de Haig (voir f.~38~r\\textsuperscript{o}). À Frévent (Pas-de-Calais), l'église Saint-Hilaire, des XVI\\textsuperscript{e}--XIX\\textsuperscript{e} siècles, est classée depuis 1982 (Mérimée PA00108287). Vêtus de kaki, les interprètes portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, p.~XIII). À 7~F, le déjeuner de l'hôtel d'Amiens est le plus cher des repas notés hors des permissions.\n",
   "sources": [
    "Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), London, Dent, 1919, p. 49-51.",
    "Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 476-505, 541.",
@@ -17095,7 +17101,7 @@
     "ligne": 11,
     "lemme": "n^{os}",
     "type": "abreviation",
-    "note": "nos"
+    "note": "numéros (du programme)"
    },
    {
     "ligne": 12,
@@ -22990,7 +22996,7 @@
    }
   ],
   "critique": "Page entière à l'encre violette, tachée de brun. Les comptes du 6, précédés d'un blanc et réunis par un grand crochet, sont placés entre les deux journées.",
-  "historique": "L'officier australien arrivé le 6 est peut-être le « Lt. Wentworth » nommé à partir du 17 mars (voir f.~84~v\\textsuperscript{o}). Le nouvel interprète, sans nom ici, est soit « Evar », qui revient le 8 avec Valet, interprète de la 2nd Australian Division, et repart pour Albert, soit Valet lui-même (voir f.~82~r\\textsuperscript{o}). Relevé, Hippolyte Combes va chercher une affectation au bureau de la Mission française de la Fifth Army à Toutencourt (voir f.~75~r\\textsuperscript{o}), qui tient listes nominatives, fiches et carnets de notes des interprètes (SHD, GR 17 N 447-448, 463-479). Le maréchal des logis « Granger » et le capitaine « Raucoule », de lecture incertaine, ne sont pas identifiés ; le 8, on lui dira de rester auprès de son capitaine jusqu'au départ de celui-ci (voir f.~82~r\\textsuperscript{o}). Doullens, à 15~km au nord-nord-ouest, abritait des hôpitaux militaires français et britanniques (CWGC) ; l'hôpital auxiliaire, qui relevait d'une société de la Croix-Rouge, n'est pas identifié. Sur les pastilles de chlorate de potasse, voir f.~69~r\\textsuperscript{o}.\n",
+  "historique": "L'officier australien arrivé le 6 est peut-être le « Lt. Wentworth » nommé à partir du 17 mars (voir f.~84~v\\textsuperscript{o}). Le nouvel interprète, sans nom ici, est soit « Evar », qui revient le 8 avec Valet, interprète de la 2nd Australian Division, et repart pour Albert, soit Valet lui-même (voir f.~82~r\\textsuperscript{o}). Relevé, Hippolyte Combes va chercher une affectation au bureau de la Mission française de la Fifth Army à Toutencourt (voir f.~75~r\\textsuperscript{o}), qui tient listes nominatives, fiches et carnets de notes des interprètes (SHD, GR 17 N 447-448, 463-479). Le maréchal des logis « Granger » et le capitaine « Renouleau », de lecture incertaine, ne sont pas identifiés ; le 8, on lui dira de rester auprès de son capitaine jusqu'au départ de celui-ci (voir f.~82~r\\textsuperscript{o}). Doullens, à 15~km au nord-nord-ouest, abritait des hôpitaux militaires français et britanniques (CWGC) ; l'hôpital auxiliaire, qui relevait d'une société de la Croix-Rouge, n'est pas identifié. Sur les pastilles de chlorate de potasse, voir f.~69~r\\textsuperscript{o}.\n",
   "sources": [
    "Nicot, J., Schillinger, P., Ficat, J., Inventaire sommaire des archives de la guerre 1914-1918. Grand quartier général des armées alliées (15 N), GQG (16 N), Missions militaires françaises (17 N), Vincennes, Service historique de l'Armée, 1972, p. 263-269.",
    "Commonwealth War Graves Commission, Doullens Communal Cemetery Extension No. 1, notice historique (cwgc.org)."
@@ -25652,7 +25658,7 @@
     "note": "blanchissage"
    }
   ],
-  "critique": "Dernière page écrite du carnet : les deux dépenses sont portées au pied, après un blanc. L'encre pâlit par endroits (fin des l.~4 et 6, l.~13 et 15), sans changement d'instrument apparent.",
+  "critique": "Dernière page écrite photographiée du carnet : les deux dépenses sont portées au pied, après un blanc. L'encre pâlit par endroits (fin des l.~4 et 6, l.~13 et 15), sans changement d'instrument apparent.",
   "historique": "Le carnet s'achève à la date annoncée par sa couverture (« Du 25 juillet 1916 au 30 avril 1917 ») ; on ignore s'il eut une suite, la plupart des papiers d'Hippolyte Combes ayant été détruits en 1970-1971 (P. Combes, livre familial). Les villages du matin, à l'ouest d'Albert, avaient été trouvés vides le 19 avril (voir f.~90 v\\textsuperscript{o}) ; Puchevillers avait abrité les hôpitaux d'évacuation n\\textsuperscript{os}~3 et 44 jusqu'en mars et garde le n\\textsuperscript{o}~61 jusqu'en mai ; Villers-Bocage fut le QG du II Corps du 23 juin au 23 juillet 1916 (LLT). La note de blanchissage, 50 c., clôt une rubrique ouverte le 26 juillet 1916 (« Washing : 1\\textsuperscript{f} », f.~1 v\\textsuperscript{o}). Ce même jour, la 18th Division est en ligne devant Chérisy, qu'elle attaquera le 3 mai (Nichols 1922, p.~165-166). Interprète jusqu'au 11 novembre 1918, Hippolyte Combes épouse Marguerite Calmels à Millau le 25 octobre 1917 (menu des noces) et est dirigé le 24 novembre 1918 sur l'École militaire préparatoire des Andelys comme professeur d'anglais (registre matricule n\\textsuperscript{o}~911).\n",
   "sources": [
    "Baker, C., The Long, Long Trail, « Locations of British Casualty Clearing Stations » (copie Wayback Machine du 13 janvier 2018) et « The British II Corps in France and Flanders » (copie Wayback Machine du 6 novembre 2024).",

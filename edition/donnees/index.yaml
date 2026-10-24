@@ -246,7 +246,7 @@ personnes:
 - id: calmels_mme
   nom: Calmels, Valentine, née Cartairade
   court: Mme Calmels
-  notice: mère de Marguerite ; « Mme C\textsuperscript{h} » (055) et « Mme Cl » (060), lecture incertaine
+  notice: mère de Marguerite ; « Mme C\textsuperscript{h} » (f.~28~r\textsuperscript{o}) et « Mme Cl » (f.~30~v\textsuperscript{o}), lecture incertaine
   formes: []
   attestations:
   - - 54
@@ -1134,7 +1134,7 @@ personnes:
 - id: pizzi
   nom: Pizzi (lieutenant)
   court: Pizzi
-  notice: officier interprète de la Mission militaire française (18th Division) ; « Pozzi » en 092
+  notice: officier interprète de la Mission militaire française (18th Division) ; « Pozzi » au f.~46~v\textsuperscript{o}
   formes: []
   attestations:
   - - 48

@@ -4,8 +4,8 @@ Ce dépôt réunit les photographies du *Livre-Journal* d'Hippolyte Combes, son 
 
 ## L'édition
 
-**[`edition/livre_journal.pdf`](edition/livre_journal.pdf)** — Hippolyte Combes, *Livre-Journal, 25 juillet 1916 – 30 avril 1917. Texte diplomatique en regard des fac-similés, avec commentaire (critique & historique), cartes et illustrations*, édition établie par Louis Hauseux, 2026 (493 pages, 160 × 226 mm, Libertinus Serif).
-**[`edition/livret_A4.pdf`](edition/livret_A4.pdf)** — la même édition imposée en 31 cahiers de 16 pages, pour l'impression en livret sur feuilles A4 (recto verso, retournement sur le bord court, échelle 92,5 % ; ou 100 % sur SRA4).
+**[`edition/livre_journal.pdf`](edition/livre_journal.pdf)** — Hippolyte Combes, *Livre-Journal, 25 juillet 1916 – 30 avril 1917. Texte diplomatique en regard des fac-similés, avec commentaire (critique & historique), cartes et illustrations*, édition établie par Louis Hauseux, 2026 (504 pages, 160 × 226 mm, Libertinus Serif).
+**[`edition/livret_A4.pdf`](edition/livret_A4.pdf)** — la même édition imposée en 32 cahiers de 16 pages, pour l'impression en livret sur feuilles A4 (taille réelle, **100 %**, recto verso, retournement sur le bord court ; les pages sont déjà réduites à environ 92,8 % dans ce PDF).
 
 - **Introduction** : biographie d'Hippolyte Combes, avec arbres généalogiques et photographies de famille ; un interprète français dans l'armée britannique (Mission militaire française, solde, 18th Division et son train, ravitaillement, cadre militaire, météorologie du carnet) ; description matérielle du carnet (petit carnet dont les feuillets, reliés en tête, sont aujourd'hui libres) et restitution de l'ordre des feuillets ; l'écriture et la langue du carnet, avec une planche paléographique ; principes de l'édition ; cartes générales.
 - **Sept chapitres** (division éditoriale), chacun ouvert par une carte en regard de son introduction (le carnet, le contexte), avec des photographies d'époque.
@@ -38,5 +38,7 @@ Les données éditoriales sont dans [`edition/donnees/`](edition/donnees/) : une
 - [`scans_haute_qualite/`](scans_haute_qualite/) et [`scans_compresses/`](scans_compresses/) : photographies du carnet, numérotées dans l'ordre de la prise de vue (concordance avec les feuillets dans l'édition et dans `edition/donnees/codicologie.yaml`).
 - [`archives_militaires/`](archives_militaires/) : registre matricule, parcours, photographies, lettres de guerre.
 - [`biographie_et_famille/`](biographie_et_famille/) : biographie par Pierre Combes, état civil, portraits, correspondance familiale.
+
+L'audit général de la version refondue et les corrections du 24 octobre sont documentés dans [`edition/verification/2026-10-24/`](edition/verification/2026-10-24/) : apparat, textes, cartes, fac-similés incorporés, exports et livret.
 
 L'édition précédente (`edition_philologique/`, octobre 2026) est conservée dans l'historique du dépôt, à l'étiquette [`edition-philologique-2026-10`](../../tree/edition-philologique-2026-10).

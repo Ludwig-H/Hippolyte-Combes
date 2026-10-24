@@ -1,11 +1,12 @@
 # Lignes de front schématiques : [longitude, latitude] WGS 84, du nord au sud.
 # Chaque sommet est placé entre une localité tenue par les Britanniques ou les Français (B/F) et une localité
 # tenue par l'armée allemande (A), d'après les tables sourcées des dossiers de recherche R4 (Somme, Ancre,
-# ligne Hindenburg) et R5 (Flandre). Précision de l'ordre de 0,5 à 1 km : ces tracés situent le front à
-# l'échelle des cartes du livre ; ils ne restituent pas les tranchées.
+# ligne Hindenburg) et R5 (Flandre). Les repères urbains et les sommets intermédiaires sont approximatifs ;
+# aucune marge d’erreur uniforme n’est établie. Ces tracés situent les grands secteurs du front à l’échelle
+# du livre ; ils ne restituent ni les tranchées ni les variations quotidiennes des lignes.
 # Abréviations des sources : OH = Official History, Military Operations, France and Belgium (1916-I, 1916-II,
 # 1917-I) ; Michelin = Guides illustrés Michelin des champs de bataille (The Somme, vol. 1 ; St-Quentin–Cambrai,
-# 1921) ; Edmonds 1938 = OH 1916-II ; CWGC = fiches des cimetières de la Commonwealth War Graves Commission.
+# 1921) ; Miles 1938 = OH 1916-II ; CWGC = fiches des cimetières de la Commonwealth War Graves Commission.
 fronts:
 
   flandre_artois_1916:
@@ -13,20 +14,20 @@ fronts:
     couleur: '#9c2a1e'
     points:
     - [2.868, 50.897]   # canal de l'Yser à l'est de Boesinghe (B) ; crête de Pilckem (A) — CWGC Artillery Wood
-    - [2.905, 50.873]   # saillant d'Ypres, nord (Edmonds 1938, p. 544)
+    - [2.905, 50.873]   # saillant d'Ypres, nord (Miles 1938, p. 544)
     - [2.932, 50.846]   # à l'ouest de Hooge (A depuis le 6 juin 1916) — CWGC Hooge Crater
     - [2.952, 50.835]   # bois du Sanctuaire, Mont-Sorrel (B après le 13 juin 1916)
-    - [2.930, 50.824]   # cote 60 (Zwarteleen) — Edmonds 1938, p. 545
+    - [2.930, 50.824]   # cote 60 (Zwarteleen) — Miles 1938, p. 545
     - [2.885, 50.812]   # cratères de Saint-Éloi (A) — combats de mars–avril 1916
-    - [2.866, 50.787]   # à l'ouest de Wytschaete (A) ; Kemmel (B) — CWGC ; Edmonds 1938, p. 535
+    - [2.866, 50.787]   # à l'ouest de Wytschaete (A) ; Kemmel (B) — CWGC ; Miles 1938, p. 535
     - [2.880, 50.760]   # à l'ouest de Messines (A, nov. 1914 – juin 1917) — CWGC Messines Ridge
-    - [2.905, 50.730]   # lisière est du bois de Ploegsteert (B) — Edmonds 1938, p. 134
+    - [2.905, 50.730]   # lisière est du bois de Ploegsteert (B) — Miles 1938, p. 134
     - [2.922, 50.712]   # passage à niveau du Touquet (B) face à Frelinghien (A) — CWGC Le Touquet
     - [2.930, 50.692]   # à l'est de Houplines (B) — Bewsher 1921, p. 88
     - [2.925, 50.672]   # saillant de la voie ferrée Armentières–Lille ; La Chapelle-d'Armentières (B) — Bewsher 1921, p. 91
     - [2.897, 50.640]   # devant Bois-Grenier (B) ; crête de Radinghem (A) — Shakespear 1921, pp. 17–18
     - [2.838, 50.620]   # V.C. Corner, no man's land du 19 juillet 1916 (Fromelles) — CWGC
-    - [2.795, 50.612]   # Fauquissart, à l'est de Laventie (B) — Edmonds 1938, p. 121
+    - [2.795, 50.612]   # Fauquissart, à l'est de Laventie (B) — Miles 1938, p. 121
     - [2.795, 50.583]   # à l'est de Neuve-Chapelle (B depuis mars 1915) — CWGC
     - [2.760, 50.566]   # saillant du Boar's Head (A) ; Richebourg (B) — CWGC St. Vaast Post
     - [2.755, 50.543]   # à l'est de Festubert (B) — CWGC Brown's Road

@@ -1,0 +1,10 @@
+{
+  "source_pages": 504,
+  "livret_pages_A4": 256,
+  "cahiers": 32,
+  "emplacements": 512,
+  "blancs": 8,
+  "controle": "Chaque demi-page A4 comparée au multiensemble de caractères de sa page source attendue ; toutes pages vérifiées au format 297 × 210 mm.",
+  "erreurs": [],
+  "ok": true
+}
