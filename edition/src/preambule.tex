@@ -35,6 +35,7 @@
 \usepackage[french]{babel}
 \frenchsetup{StandardItemLabels=true}
 \usepackage{microtype}
+\usepackage{needspace}
 \usepackage{graphicx}
 \usepackage[table]{xcolor}
 \usepackage{tikz}
@@ -103,6 +104,8 @@
 \newcommand{\LJfolio}{}
 \newcommand{\LJtitrecourant}{\textsc{Hippolyte Combes} — \textit{Livre-Journal}}
 \pagestyle{fancy}
+\newcommand{\LJcourant}{}% titre courant de la section, posé avec son titre (introduction, annexes)
+\renewcommand{\sectionmark}[1]{\markright{\LJcourant}}\renewcommand{\chaptermark}[1]{}
 \fancyhf{}
 \fancyhead[LE]{\footnotesize\LJchiffres\thepage\hfill\LJtitrecourant\hfill\LJmois}
 \fancyhead[RO]{\footnotesize\LJmois\hfill\LJfolio\hfill\LJchiffres\thepage}
@@ -381,7 +384,7 @@
   date(s) de la page ; page de la présente édition. \textit{inv.} : feuillet photographié verso d'abord ;
   \textit{trav.} : page écrite en travers ; \textit{seule face} : seule face photographiée du feuillet ; \textit{verso blanc} : verso resté blanc.#2\par}
   \vspace{2mm}
-  {\fontsize{7.4pt}{8.8pt}\selectfont\LJchiffres
+  {\fontsize{7.4pt}{8.4pt}\selectfont\LJchiffres\renewcommand{\arraystretch}{0.97}
   \setlength{\tabcolsep}{4pt}
   \begin{longtable}{@{}l p{82mm} r l@{}}
   \toprule

@@ -4,7 +4,7 @@ Ce dépôt réunit les photographies du *Livre-Journal* d'Hippolyte Combes, son 
 
 ## L'édition
 
-**[`edition/livre_journal.pdf`](edition/livre_journal.pdf)** — Hippolyte Combes, *Livre-Journal, 25 juillet 1916 – 30 avril 1917. Urtext. Transcription diplomatique en regard du fac-similé, commentaire critique et historique, cartes et illustrations*, édition établie par Louis Hauseux, 2026 (489 pages, 160 × 226 mm, Libertinus Serif).
+**[`edition/livre_journal.pdf`](edition/livre_journal.pdf)** — Hippolyte Combes, *Livre-Journal, 25 juillet 1916 – 30 avril 1917. Urtext. Transcription diplomatique en regard du fac-similé, commentaire critique et historique, cartes et illustrations*, édition établie par Louis Hauseux, 2026 (488 pages, 160 × 226 mm, Libertinus Serif).
 **[`edition/livret_A4.pdf`](edition/livret_A4.pdf)** — la même édition imposée en 31 cahiers de 16 pages, pour l'impression en livret sur feuilles A4 (taille réelle, **100 %**, recto verso, retournement sur le bord court ; les pages sont déjà réduites à environ 92,8 % dans ce PDF).
 
 - **Introduction** : biographie d'Hippolyte Combes, avec arbres généalogiques et photographies de famille ; un interprète français dans l'armée britannique (Mission militaire française, solde, 18th Division et son train, ravitaillement, cadre militaire, météorologie du carnet) ; description matérielle du carnet (petit carnet dont les feuillets, reliés en tête, sont aujourd'hui libres) et restitution de l'ordre des feuillets ; l'écriture et la langue du carnet, avec une planche paléographique ; principes de l'édition ; cartes générales.

@@ -32,15 +32,17 @@ def occurrences(lecture: list[dict], pages: dict[int, dict], entites: dict) -> d
     for cat in ("personnes", "lieux"):
         for e in entites.get(cat, []) or []:
             motifs = _motifs(e)
-            liste = []
+            liste, pos = [], {}
             for c in lecture:
                 n = c["cliche"]
                 p = pages.get(n)
                 if not p or not p.get("transcription"):
                     continue
                 for k, ligne in enumerate(texte_simple(p["transcription"]), 1):
-                    if any(m.search(ligne) for m in motifs):
+                    trouves = [x.start() for x in (m.search(ligne) for m in motifs) if x]
+                    if trouves:
                         liste.append((n, k))
+                        pos[(n, k)] = min(trouves)
             # attestations ajoutées à la main (formes abrégées non repérables automatiquement)
             for n, k in e.get("attestations", []) or []:
                 if (n, k) not in liste:
@@ -48,7 +50,7 @@ def occurrences(lecture: list[dict], pages: dict[int, dict], entites: dict) -> d
             ordre = {c["cliche"]: c["ordre"] for c in lecture}
             liste.sort(key=lambda x: (ordre.get(x[0], 0), x[1]))
             if liste:
-                occ[(cat, e["id"])] = {"entite": e, "occ": liste}
+                occ[(cat, e["id"])] = {"entite": e, "occ": liste, "pos": pos}
     return occ
 
 
@@ -78,8 +80,10 @@ def loci_par_page(lecture: list[dict], occ: dict, info: dict[int, dict]) -> dict
                 refs.append(r"infra %s, l.~%d (p.~\pageref{cl%03d})" % (_folio(info[m]), l, m))
             if refs:
                 nom = e.get("court", e["nom"])
-                par_page.setdefault(n, []).append((k, r"\textbf{%d} %s\,] cf. %s" % (k, nom, " ; ".join(refs))))
-    return {n: " — ".join(t for _, t in sorted(v)) + "." for n, v in par_page.items()}
+                par_page.setdefault(n, []).append((k, d.get("pos", {}).get((n, k), 999),
+                                                   r"\textbf{%d} %s\,] cf. %s" % (k, nom, " ; ".join(refs))))
+    # même ligne : dans l'ordre d'apparition dans la ligne
+    return {n: " — ".join(t for _, _, t in sorted(v)) + "." for n, v in par_page.items()}
 
 
 def index_latex(occ: dict, info: dict[int, dict], entites: dict) -> str:

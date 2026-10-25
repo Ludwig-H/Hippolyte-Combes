@@ -52,7 +52,7 @@ cartes:
   - {pos: [6.55, 49.65], texte: 'ALLEMAGNE', taille: 6.5, style: normal}
   - {pos: [2.3, 47.0], texte: 'FRANCE', taille: 9, style: normal, couleur: '#8a8a8a'}
   legende:
-  - {type: point, texte: 'Lieux de séjour ; cercles : étapes et lieux cités ; frontières actuelles'}
+  - {type: point, texte: 'Lieux de séjour ; cercles : étapes et principaux lieux cités ; frontières actuelles'}
   - {type: ligne, texte: 'Front occidental à la fin de 1916 (tracé schématique, de Flandre à la Somme)', epaisseur: 1.2}
   sources: "Fond : relief ombré Natural Earth (Gray Earth, domaine public), fleuves et frontières Natural Earth 1:10 m ; projection Lambert-93."
 
@@ -65,6 +65,7 @@ cartes:
   echelle_km: 20
   exageration: 6
   frontiere: true
+  nord_pos: [0.05, 0.92]
   cours_deau: [Somme, Ancre, Hallue, Authie, Lys, Ternoise, Canche, Scarpe, Escaut, Deûle, Lawe, Clarence, Nièvre, Yser]
   noms_cours_deau: [Somme, Ancre, Authie, Lys, Ternoise, Canche, Scarpe]
   pos_cours_deau:
@@ -76,11 +77,11 @@ cartes:
   fronts:
   - {id: flandre_artois_1916, epaisseur: 1.4, etiquette: 'front de 1916', etiquette_pos: [2.97, 50.60], rotation: 70}
   - {id: artois_somme_1916_11, epaisseur: 1.4}
-  - {id: hindenburg_1917, epaisseur: 1.1, etiquette: 'ligne Hindenburg (mars 1917)', etiquette_pos: [2.84, 50.27], ha: right}
+  - {id: hindenburg_1917, epaisseur: 1.1, etiquette: 'ligne Hindenburg (mars 1917)', etiquette_pos: [2.84, 50.27], ha: left}
   contexte:
   - {id: ypres, etiquette: Ypres}
   - {id: Armentières}
-  - {id: Arras}
+  - {id: Arras, ha: right, dx: -0.9}
   - {id: Bapaume}
   - {id: Béthune, ha: right, dx: -0.9}
   - {id: Saint-Omer, ha: right, dx: -0.9}
@@ -95,13 +96,14 @@ cartes:
   - {id: '80659', rang: 2, ha: right, date: '11–23 sept.', va: top, dx: -1.1, dy: -0.3}
   - {id: barlette, rang: 2, ha: right, date: '6–14 oct.'}
   - {id: '80016', rang: 1, date: '19 oct. – 2 nov.', va: top, dy: -0.8}
-  - {id: '80003', rang: 1, etiquette: Acheux, date: 'nov. 1916 – févr. 1917', ha: left, va: bottom, dx: 0.4, dy: 1.4}
+  - {id: '80003', rang: 1, etiquette: Acheux, date: 'nov. 1916 – févr. 1917', ha: right, va: bottom, dx: -0.4, dy: 1.2}
   - {id: '80431', rang: 1, ha: right, date: 'févr. – avr. 1917', va: top, dy: -0.8}
   - {id: '80253', rang: 3, ha: right, dx: -1.1}
   - {id: '80021', rang: 2}
   legende:
   - {type: point, texte: "Principaux cantonnements d'Hippolyte Combes (repère du bourg) et dates de séjour"}
   - {type: ligne, texte: "Front de Flandre et d'Artois en 1916, front de la Somme au 18 novembre 1916 (tracés schématiques)", epaisseur: 1.4}
+  - {type: zone, texte: "Zone tenue par l'armée allemande (fin 1916)"}
   - {type: ligne, texte: "Ligne Hindenburg, sur laquelle l'armée allemande se replie en mars 1917", epaisseur: 1.1, couleur: '#4a4a4a', dashes: [4, 2]}
 
 - id: I
@@ -145,7 +147,8 @@ cartes:
   legende:
   - {type: point, texte: 'Cantonnements successifs (le point désigne le bourg, non la ferme occupée)'}
   - {type: fleche, texte: 'Changements de secteur : 28 juillet (Lynde → Saint-Jans-Cappel), 5 août (→ La Croix-du-Bac)'}
-  - {type: ligne, texte: "Front de l'été 1916 et zone tenue par l'armée allemande (tracé schématique)", epaisseur: 1.5}
+  - {type: ligne, texte: "Front de l'été 1916 (tracé schématique)", epaisseur: 1.5}
+  - {type: zone, texte: "Zone tenue par l'armée allemande"}
 
 - id: II
   titre_imprime: false
@@ -222,7 +225,7 @@ cartes:
   - {id: pech_david_coteau, rang: 3, etiquette: Pech-David (coteau), ha: right}
   legende:
   - {type: point, texte: 'Toulouse (repère du Capitole)'}
-  - {type: cercle, texte: 'Lieux des promenades toulousaines cités par le carnet (repères actuels)'}
+  - {type: cercle, texte: 'Lieux cités par le carnet (repères actuels)'}
   notes:
   - 'Voyage : Acheux-Varennes (25 sept.), Paris (26 sept.), Toulouse (27 sept.) ; retour par Paris (4–5 oct.).'
   - 'Purpan : identification proposée des ruines ; Pech-David : repère de coteau, non point précis de la promenade.'
@@ -234,7 +237,7 @@ cartes:
   titre: L'automne sur l'Ancre
   emprise: [1.96, 49.88, 2.96, 50.22]
   taille_mm: [141, 122]
-  legende_mm: 26
+  legende_mm: 29
   echelle_km: 10
   exageration: 7
   zone_allemande: artois_somme_1916_11
@@ -243,12 +246,13 @@ cartes:
     Somme: [2.15, 49.94]
     Authie: [2.25, 50.19]
     Hallue: [2.42, 49.97]
+    Ancre: [2.58, 49.955]
   fronts:
   - {id: somme_1916_07_01, style: pointille, epaisseur: 1.0}
-  - {id: artois_somme_1916_11, epaisseur: 1.6, etiquette: 'front du 18 nov. 1916', etiquette_pos: [2.80, 50.093]}
+  - {id: artois_somme_1916_11, epaisseur: 1.6, etiquette: 'front du 18 nov. 1916', etiquette_pos: [2.735, 50.15]}
   contexte:
   - {id: Thiepval}
-  - {id: Beaumont-Hamel}
+  - {id: Beaumont-Hamel, va: bottom, dx: 1.6, dy: 1.8}
   - {id: Pozières}
   - {id: Bapaume}
   - {id: Corbie}
@@ -261,7 +265,7 @@ cartes:
   - {id: '80645', rang: 3}
   - {id: '80820', rang: 2, ha: left, date: 16 oct., va: top, dx: 0.2, dy: -1.1}
   - {id: '80733', rang: 3, ha: right, va: bottom, dx: -1.0, dy: 0.4}
-  - {id: '80129', rang: 2, etiquette: 'Bouzincourt †', date: '17–18 oct.', ha: left, va: top, dx: 1.0, dy: -0.4}
+  - {id: '80129', rang: 2, etiquette: 'Bouzincourt †', date: '17–18 oct.', ha: left, va: center, dx: 1.0, dy: 0.2}
   - {id: '80425', rang: 2, etiquette: 'Hédauville †', ha: right, va: center, dx: -1.2}
   - {id: '80016', rang: 1, etiquette: 'Albert (briqueteries)', date: '19 oct. – 2 nov.', ha: left, va: top, dx: 1.3, dy: -0.7}
   - {id: '80003', rang: 1, etiquette: Acheux, date: dès le 2 nov., ha: left, va: bottom, dy: 0.4}
@@ -270,11 +274,12 @@ cartes:
   - {id: '80021', rang: 2}
   - {id: '80207', rang: 3, ha: right, va: center, dx: -1.2, dy: -0.2}
   itineraires:
-  - {lieux: [barlette, '80071', '80820', '80129', '80016', '80003'], courbures: [0.08, 0.08, 0.22, 0.15, -0.25]}
+  - {lieux: [barlette, '80071', '80820', '80129', '80016', '80003'], courbures: [0.08, 0.08, 0.22, 0.45, -0.25]}
   legende:
   - {type: point, texte: 'Séjours principaux : camp des briqueteries d’Albert, puis Acheux ; les points désignent le bourg'}
   - {type: fleche, texte: 'Étapes successives attestées par le carnet (15 oct. – 2 nov. 1916) ; liaisons schématiques'}
-  - {type: ligne, texte: 'Front au 18 novembre 1916, fin de la bataille de la Somme ; zone allemande hachurée (tracé schématique)', epaisseur: 1.6}
+  - {type: ligne, texte: 'Front au 18 novembre 1916, fin de la bataille de la Somme (tracé schématique)', epaisseur: 1.6}
+  - {type: zone, texte: "Zone tenue par l'armée allemande au 18 novembre 1916"}
   - {type: ligne, texte: 'Front au 1er juillet 1916 (tracé schématique)', epaisseur: 1.0, dashes: [1.2, 1.4]}
   notes:
   - '† Bouzincourt et Hédauville : repères des bourgs ; le camp entre eux n’est pas localisé précisément.'
@@ -291,9 +296,9 @@ cartes:
   zone_allemande: artois_somme_1916_11
   cours_deau: [Ancre, Hallue, Authie]
   fronts:
-  - {id: artois_somme_1916_11, epaisseur: 1.5, etiquette: "front au 18 nov. 1916", etiquette_pos: [2.70, 50.15], rotation: -70}
+  - {id: artois_somme_1916_11, epaisseur: 1.5, etiquette: "front au 18 nov. 1916", etiquette_pos: [2.657, 50.115]}
   contexte:
-  - {id: Beaumont-Hamel}
+  - {id: Beaumont-Hamel, ha: right, va: bottom, dx: -0.9, dy: 0.3}
   - {id: Thiepval}
   - {id: Mailly-Maillet}
   - {id: Bertrancourt}
@@ -314,7 +319,8 @@ cartes:
   legende:
   - {type: point, texte: 'Acheux (repère du bourg)'}
   - {type: cercle, texte: "Villages des tournées d'achats et des promenades (repères des bourgs)"}
-  - {type: ligne, texte: "Situation de référence au 18 novembre 1916 ; zone allemande hachurée (tracé schématique)", epaisseur: 1.5}
+  - {type: ligne, texte: "Front au 18 novembre 1916, situation de référence (tracé schématique)", epaisseur: 1.5}
+  - {type: zone, texte: "Zone tenue par l'armée allemande au 18 novembre 1916"}
 
 - id: VI
   titre_imprime: false
@@ -355,10 +361,11 @@ cartes:
   - {lieux: ['80003', '80021', '75056', '31555'], courbure: 0.06}
   - {lieux: ['31555', '11069', '34032', '34028', '12145'], courbure: 0.05, couleur: '#7a5a2a'}
   - {lieux: ['12145', '15187', '43040', '63113', '03118', '45155', '45208', '91174', '75056'], courbure: 0.04, couleur: '#4d6b3a'}
+  - {lieux: ['75056', '80003'], courbure: 0.2, couleur: '#4d6b3a'}
   legende:
   - {type: fleche, texte: "26–28 janvier : d'Acheux à Toulouse par Amiens et Paris"}
   - {type: fleche, couleur: '#7a5a2a', texte: '3 février : de Toulouse à Millau par Carcassonne, Béziers et Bédarieux'}
-  - {type: fleche, couleur: '#4d6b3a', texte: '5–7 février : retour par Saint-Flour, Clermont-Ferrand, Gien et Paris'}
+  - {type: fleche, couleur: '#4d6b3a', texte: '5–7 février : retour par Saint-Flour, Clermont-Ferrand, Gien et Paris jusqu’à Acheux'}
   notes:
   - 'Les flèches relient les étapes nommées ; elles ne restituent pas le tracé des voies ferrées.'
   sources: "Fond : relief ombré Natural Earth (Gray Earth, domaine public), fleuves et frontières actuelles Natural Earth 1:10 m ; projection Lambert-93."
@@ -377,9 +384,9 @@ cartes:
   pos_cours_deau:
     Somme: [2.75, 49.94]
     Ancre: [2.62, 50.04]
+    Hallue: [2.44, 49.945]
   fronts:
-  - {id: artois_somme_1916_11, epaisseur: 1.4, etiquette: "front au 18 nov. 1916", etiquette_pos: [2.81, 50.093]}
-  - {id: hindenburg_1917, epaisseur: 1.1}
+  - {id: artois_somme_1916_11, epaisseur: 1.4, etiquette: "front au 18 nov. 1916", etiquette_pos: [2.69, 50.145]}
   contexte:
   - {id: Bapaume}
   - {id: Doullens}
@@ -389,7 +396,7 @@ cartes:
   - {id: '80766', rang: 2}
   - {id: '80645', rang: 2, ha: right}
   - {id: '80686', rang: 3, ha: right}
-  - {id: '80624', rang: 3}
+  - {id: '80624', rang: 3, ha: right}
   - {id: '80553', rang: 3, ha: right}
   - {id: '80562', rang: 3}
   - {id: '80798', rang: 3, ha: right}
@@ -399,11 +406,16 @@ cartes:
   - {id: '80003', rang: 2, etiquette: Acheux}
   - {id: '80733', rang: 3}
   - {id: '80016', rang: 2}
+  - {id: '80043', rang: 3}
+  - {id: '80066', rang: 3, etiquette: "Beaucourt-\nsur-l'Hallue", ha: right, va: bottom, dx: -0.3, dy: 0.4}
+  - {id: '80056', rang: 3, va: bottom, dy: 0.4}
+  - {id: '80351', rang: 3, ha: right}
+  - {id: '80672', rang: 3}
   itineraires:
   - {lieux: ['80003', '80659', '80645', '80431'], courbure: 0.05}
   legende:
-  - {type: point, texte: 'Hérissart, siège du Purchase Board'}
-  - {type: cercle, texte: 'Villages des tournées'}
+  - {type: point, texte: 'Hérissart, siège du $\mathit{Purchase\ Board}$'}
+  - {type: cercle, texte: 'Villages des tournées et autres lieux cités'}
   - {type: fleche, texte: '7 février : installation à Hérissart'}
-  - {type: ligne, texte: "Front et zone allemande au 18 novembre 1916, avant le repli de mars 1917 (tracé schématique)", epaisseur: 1.4}
-  - {type: ligne, texte: 'Ligne Hindenburg (mars 1917)', epaisseur: 1.1, couleur: '#4a4a4a', dashes: [4, 2]}
+  - {type: ligne, texte: "Front au 18 novembre 1916, avant le repli allemand de mars 1917 (tracé schématique)", epaisseur: 1.4}
+  - {type: zone, texte: "Zone tenue par l'armée allemande au 18 novembre 1916"}

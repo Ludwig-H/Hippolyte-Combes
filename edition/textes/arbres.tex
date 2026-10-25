@@ -2,7 +2,8 @@
 % de Pierre Combes). Personnes vivantes : nom et lien seulement.
 \tikzset{
   LJp/.style={draw=black!70, line width=0.35pt, rounded corners=1pt, fill=white, inner sep=1.4pt,
-              align=center, font=\fontsize{6.3pt}{7.4pt}\selectfont\hyphenpenalty=10000\exhyphenpenalty=10000, text width=#1},
+              align=center, font=\fontsize{6.3pt}{7.4pt}\selectfont, text width=#1,
+              execute at begin node={\hyphenpenalty=10000\relax\exhyphenpenalty=10000\relax}},
   LJp/.default=21mm,
   LJh/.style={LJp=#1, draw=black, line width=0.9pt, double, double distance=0.5pt},
   LJh/.default=27mm,
@@ -56,7 +57,6 @@
   \node[LJp=24mm, anchor=north] (pie) at (55,-88) {\textbf{Pierre Combes}\\\textit{historien de la famille}};
   \draw[LJl] (fo.south) -- (mau.north);
   \draw[LJl] (js.south) -- ++(0,-2) -| (pie.north);
-  \node[LJm, anchor=west, text width=60mm, align=left] at (70,-92) {Le carnet et les \textit{Feuillets de Route}, gardés chez François Combes, sont passés de Maurice Combes à Pierre Combes.};
 \end{tikzpicture}
 \caption{La famille d'Hippolyte Combes : ascendance, fratrie, descendance.}
 \label{arbre-combes}

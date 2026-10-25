@@ -38,6 +38,9 @@ plt.rcParams.update({
     "pdf.fonttype": 42,
     "svg.fonttype": "none",
     "axes.linewidth": 0.4,
+    "mathtext.fontset": "custom",
+    "mathtext.rm": "Libertinus Sans",
+    "mathtext.it": "Libertinus Sans:italic",
 })
 
 VERS_L93 = Transformer.from_crs(4326, 2154, always_xy=True)
@@ -390,7 +393,7 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
         if fr.get("etiquette"):
             lx, ly = l93(*fr["etiquette_pos"])
             ax.text(lx, ly, fr["etiquette"], fontsize=5.8, color=couleur, style="italic", ha=fr.get("ha", "left"),
-                    va="center", rotation=fr.get("rotation", 0), path_effects=HALO_FIN, zorder=6,
+                    va="center", rotation=fr.get("rotation", 0), path_effects=HALO, zorder=7.5,
                     family="Libertinus Serif")
 
     # zone tenue par l'armée allemande : à l'est du front choisi (hachures légères)
@@ -426,7 +429,7 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
         mx = (emprise[2] - emprise[0]) / w_mm
         ax.text(x + p.get("dx", 0.9) * mx, y + p.get("dy", 0.0) * mx, p.get("etiquette", L["name"]), fontsize=5.4,
                 ha=p.get("ha", "left"), va=p.get("va", "center"), color="#6f6f6f", style="italic",
-                family="Libertinus Serif", path_effects=HALO_FIN, zorder=6, clip_on=True)
+                family="Libertinus Serif", path_effects=HALO, zorder=6.5, clip_on=True)
 
     # lieux du carnet
     for p in spec.get("lieux", []):
@@ -473,6 +476,12 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
             fig.lines.append(plt.Line2D([0.025], [y - 0.004], transform=fig.transFigure, marker="o",
                                         markersize=item.get("taille", 2.8), markerfacecolor="white",
                                         markeredgecolor=ENCRE, markeredgewidth=0.6, linestyle="none"))
+        elif item.get("type") == "zone":
+            hz = 2.4 / h_mm
+            for fc, hat, ec in (((0.55, 0.45, 0.42, 0.10), None, "none"),
+                                ("none", "////", (0.55, 0.35, 0.32, 0.45))):
+                fig.patches.append(Rectangle((0.0, y - 0.004 - hz / 2), 0.05, hz, transform=fig.transFigure,
+                                             facecolor=fc, edgecolor=ec, hatch=hat, linewidth=0))
         elif item.get("type") == "fleche":
             fig.patches.append(FancyArrowPatch((0.0, y - 0.004), (0.05, y - 0.004), transform=fig.transFigure,
                                                arrowstyle="-|>", mutation_scale=6, color=item.get("couleur", BLEU_ROUTE),

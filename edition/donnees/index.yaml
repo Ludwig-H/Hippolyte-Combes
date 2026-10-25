@@ -42,7 +42,7 @@ personnes:
 - id: barbry
   nom: Barbry
   court: Barbry
-  notice: propriétaire d'une blanchisserie, logeur d'Hippolyte Combes
+  notice: logeur d'Hippolyte Combes ; peut-être de la famille de la blanchisserie Barbry
   formes: []
   attestations:
   - - 17
@@ -112,7 +112,7 @@ personnes:
 - id: bresson
   nom: Bresson (capitaine)
   court: Bresson
-  notice: officier de la Mission militaire française auprès de la Ve armée britannique
+  notice: officier de la Mission militaire française auprès de la \textsc{v}\textsuperscript{e} armée britannique
   formes: []
   attestations:
   - - 105
@@ -246,7 +246,7 @@ personnes:
 - id: calmels_mme
   nom: Calmels, Valentine, née Cartairade
   court: Mme Calmels
-  notice: mère de Marguerite ; «~Mme C\textsuperscript{h}~» (f.~28~r\textsuperscript{o}) et «~Mme Cl~» (f.~30~v\textsuperscript{o}), lecture incertaine
+  notice: mère de Marguerite ; «~Mme C\textsuperscript{h}~» (f.~28~r\textsuperscript{o}) et «~Mme Cl~» (f.~30~v\textsuperscript{o}), lecture et identification incertaines
   formes: []
   attestations:
   - - 54
@@ -300,7 +300,7 @@ personnes:
 - id: colart
   nom: Colart (famille)
   court: Colart
-  notice: anciens hôtes d'Hippolyte Combes à Ribemont
+  notice: habitants de Ribemont, sans doute anciens hôtes d'Hippolyte Combes
   formes: []
   attestations:
   - - 181
@@ -352,7 +352,7 @@ personnes:
 - id: connelly
   nom: Connelly
   court: Connelly
-  notice: groom (ordonnance) d'Hippolyte Combes à la 152nd Company A.S.C.
+  notice: groom (palefrenier) d'Hippolyte Combes à la 152nd Company A.S.C.
   formes: []
   attestations:
   - - 12
@@ -664,7 +664,7 @@ personnes:
 - id: gilbert
   nom: Gilbert (sous-lieutenant)
   court: Gilbert
-  notice: officier britannique originaire de Jersey, poète, collègue d'Hippolyte Combes au Purchase Board
+  notice: officier britannique « de Jersey », poète, peut-être collègue d'Hippolyte Combes au Purchase Board
   formes: []
   attestations:
   - - 179
@@ -884,15 +884,15 @@ personnes:
   - - 60
     - 16
 - id: layrals_charles
-  nom: Layrals, Charles (oncle)
-  court: oncle Layrals
-  notice: notaire à Millau, oncle de Marguerite Calmels (identification par la tradition familiale)
+  nom: Layral, Charles (oncle)
+  court: oncle Layral
+  notice: notaire à Millau, oncle de Marguerite Calmels (identification par la tradition familiale, qui écrit «~Layrals~»)
   formes: []
   attestations:
   - - 142
     - 6
 - id: layrals_therese
-  nom: Layrals, Thérèse, née Cartairade (tante)
+  nom: Layral, Thérèse, née Cartairade (tante)
   court: tante Thérèse
   notice: tante de Marguerite Calmels, à Millau
   formes: []
@@ -1026,7 +1026,7 @@ personnes:
 - id: maurin
   nom: Maurin
   court: Maurin
-  notice: interprète ou militaire français, originaire de Provence, camarade d'Hippolyte Combes
+  notice: interprète ou militaire français, sans doute provençal, camarade d'Hippolyte Combes
   formes: []
   attestations:
   - - 13
@@ -1054,7 +1054,7 @@ personnes:
 - id: michel
   nom: Michel (lieutenant)
   court: Michel
-  notice: \textit{billeting officer} des Royal Fusiliers
+  notice: \textit{billeting officer} au cantonnement des Royal Fusiliers
   formes: []
   attestations:
   - - 3
@@ -1108,7 +1108,7 @@ personnes:
 - id: panton
   nom: Pant (capitaine)
   court: Pant
-  notice: officier de la 152nd Company A.S.C., chef du mess ; non identifié (nom peut-être abrégé)
+  notice: officier de la 152nd Company A.S.C., sans doute chef du mess ; non identifié (nom peut-être abrégé)
   formes: []
   attestations:
   - - 47
@@ -1202,7 +1202,7 @@ personnes:
 - id: spagnol
   nom: Spagnol (Mme)
   court: Mme Spagnol
-  notice: de Nice, expéditrice de fleurs
+  notice: de Nice, sans doute expéditrice de fleurs
   formes: []
   attestations:
   - - 136
@@ -1236,7 +1236,7 @@ personnes:
 - id: therese
   nom: Thérèse (?)
   court: Thérèse
-  notice: destinataire d'un envoi (tante Thérèse Layrals ?) ; lecture incertaine
+  notice: destinataire d'un envoi (tante Thérèse Layral ?) ; lecture incertaine
   formes: []
   attestations:
   - - 53
@@ -2357,7 +2357,7 @@ lieux:
 - id: couin
   nom: Couin (Pas-de-Calais)
   court: Couin
-  notice: lecture probable ; quartier général du XIIIe corps britannique en octobre–novembre 1916
+  notice: lecture probable ; quartier général du \textsc{xiii}\textsuperscript{e} corps britannique en octobre–novembre 1916
   formes: []
   attestations:
   - - 154
@@ -3225,7 +3225,7 @@ lieux:
 - id: paris_saint_vincent
   nom: Paris, église Saint-Vincent-de-Paul
   court: Saint-Vincent-de-Paul
-  notice: Xe arrondissement
+  notice: \textsc{x}\textsuperscript{e} arrondissement
   formes: []
   attestations:
   - - 63
@@ -3328,7 +3328,7 @@ lieux:
 - id: paris_rue_flandre
   nom: Paris, rue de Flandre
   court: rue de Flandre (Paris)
-  notice: XIXe arrondissement
+  notice: \textsc{xix}\textsuperscript{e} arrondissement
   formes: []
   attestations:
   - - 52
@@ -4310,7 +4310,7 @@ lieux:
 - id: toutencourt
   nom: Toutencourt (Somme)
   court: Toutencourt
-  notice: siège de la Mission française auprès de la Ve armée britannique
+  notice: siège de la Mission française auprès de la \textsc{v}\textsuperscript{e} armée britannique
   formes: []
   attestations:
   - - 99
