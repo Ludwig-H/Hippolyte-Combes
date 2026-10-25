@@ -28,14 +28,6 @@ transcription: |
   Magnifique nuit étoilée —
   Canon, grondé tout le long du front
 apparat:
-- ligne: 1
-  lemme: 7^{H} \fr{1}{2}
-  type: abreviation
-  note: 7 heures et demie
-- ligne: 1
-  lemme: Sept 16
-  type: abreviation
-  note: Septembre 1916
 - ligne: 2
   lemme: seulemt
   type: abreviation
@@ -52,10 +44,6 @@ apparat:
   lemme: h.
   type: abreviation
   note: heures
-- ligne: 14
-  lemme: tea
-  type: emprunt
-  note: thé (collation de l'après-midi)
 - ligne: 15
   lemme: mil^{re}
   type: abreviation
@@ -64,12 +52,8 @@ apparat:
   lemme: \inc{sur}
   type: lecture
   note: 'lecture incertaine ; autre lecture : au'
-- ligne: 16
-  lemme: g.
-  type: abreviation
-  note: gauche
 historique: |
-  La hutte est au bivouac du tournant de la route de Forceville (voir f.~24 v\textsuperscript{o}). Le 23, la Reserve Army a ouvert la préparation d'artillerie contre la crête de Thiepval (230 pièces lourdes, 570 de campagne) ; le 24 à 7 h, « in a heavy autumn mist », la Fourth Army bombarde Morval et Lesbœufs. Le canon annonce son attaque du 25 et celle de Thiepval, le 26, par la 18th Division (OH 1916-II, p.~372, 393--394). Le QG de la 18th Division reste à Acheux jusqu'au 25 (Nichols 1922, p.~79) ; la Mission française a son bureau dans le parc du château (voir f.~22 r\textsuperscript{o}). Le « cap \textit{Newton} », de lecture incertaine, n'est pas identifié. Les bagages sont ceux de la permission qui commence le lendemain (voir f.~25 v\textsuperscript{o}).
+  La hutte est au bivouac du tournant de la route de Forceville (voir f.~24~v\textsuperscript{o}). Le 23, la Reserve Army a ouvert la préparation d'artillerie contre la crête de Thiepval (230 pièces lourdes, 570 de campagne) ; le 24 à 7~h, « \textit{in a heavy autumn mist} », la Fourth Army bombarde Morval et Lesbœufs. Le canon annonce son attaque du 25 et celle de Thiepval, le 26, par la 18\textsuperscript{th} Division (OH~\mbox{1916-II}, p.~372, 393--394). Le QG de la 18\textsuperscript{th} Division reste à Acheux jusqu'au 25 (Nichols 1922, p.~79) ; la Mission française a son bureau dans le parc du château (voir f.~22~r\textsuperscript{o}). Le « cap Newton », de lecture incertaine, n'est pas identifié. Les bagages sont ceux de la permission qui commence le lendemain (voir f.~25~v\textsuperscript{o}).
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 372, 393-394.
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 79.

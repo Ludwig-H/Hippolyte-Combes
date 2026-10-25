@@ -1,6 +1,6 @@
 cliche: 115
 fichier: 20251126_105252.jpg
-date: Mardi 26 et mercredi 27 décembre 1916
+date: Mardi 26 – mercredi 27 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Raincheval, Arquèves, Beauquesne et Doullens (Somme)
 titre: 'Raincheval, Beauquesne : location d''une batteuse ; vingt minutes à Doullens'
@@ -24,40 +24,20 @@ transcription: |
   2 paquets gdes enveloppes : 45 + 45 c
   Cartes ples : 55 c
 apparat:
-- ligne: 1
-  lemme: Déc^{bre}
-  type: abreviation
-  note: décembre ; bre réduit à une ondulation suscrite, sous un long trait
-- ligne: 4
-  lemme: M –
-  type: abreviation
-  note: Monsieur ; point abréviatif réduit à un court trait
 - ligne: 6
   lemme: \inc{Capron}
   type: lecture
-  note: 'lecture incertaine ; autres lectures : Caprin, Capin ; de même au f. 60 r°'
-- ligne: 8
-  lemme: 6^{H}
-  type: abreviation
-  note: 6 heures
+  note: 'lecture incertaine ; autres lectures : Caprin, Capin ; de même au f.~60~r\textsuperscript{o}'
 - ligne: 13
   lemme: 20 m –
   type: abreviation
-  note: 20 minutes ; point abréviatif réduit à un court trait
+  note: 20 minutes
 - ligne: 14
   lemme: à l –
   type: abreviation
-  note: à lettres ; point abréviatif réduit à un court trait
-- ligne: 14
-  lemme: 1^{f} 25 c
-  type: abreviation
-  note: 1 franc 25 centimes ; f suscrit placé au-dessus du 25
-- ligne: 15
-  lemme: gdes
-  type: abreviation
-  note: grandes
+  note: à lettres
 historique: |
-  Raincheval abrite l'\textit{Army Purchase Board} du major Levy (voir f.~56~r\textsuperscript{o}). M. Guibet, revu le 9 janvier (f.~60~v\textsuperscript{o}), n'est pas identifié. Le Quesnoy est sans doute l'écart de ce nom à Puchevillers (voir f.~55~v\textsuperscript{o}). La démarche auprès de Mme Capron (lecture du nom incertaine) aboutit au contrat de location du 5 janvier (f.~60~r\textsuperscript{o}). Le \textit{purchase board} de chaque armée gérait presses et batteuses pour faire des réserves de paille, pour le fourrage et la litière (Puckle 1917, p.~28) ; la ration d'avoine des chevaux tombait alors à 6 livres (OH 1917-I, p.~65-66). Doullens est depuis le 29 novembre le siège du QG du V Corps (LLT, V Corps).
+  Raincheval abrite l'\textit{Army Purchase Board} du major Levy (voir f.~56~r\textsuperscript{o}). M. Guibet, revu le 9~janvier (f.~60~v\textsuperscript{o}), n'est pas identifié. Le Quesnoy est sans doute l'écart de ce nom à Puchevillers (voir f.~55~v\textsuperscript{o}). La démarche auprès de M\textsuperscript{me} Capron (lecture du nom incertaine) aboutit au contrat de location du 5~janvier (f.~60~r\textsuperscript{o}). Le \textit{purchase board} de chaque armée gérait presses et batteuses pour faire des réserves de paille, pour le fourrage et la litière (Puckle 1917, p.~28) ; la ration d'avoine des chevaux tombait alors à 6 livres (OH~\mbox{1917-I}, p.~65--66). Doullens est depuis le 29~novembre le siège du QG du V Corps (LLT, V Corps).
 sources:
 - Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 28.
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 65-66.

@@ -26,30 +26,14 @@ transcription: |
   en meules, on ne croirait pas etre
   à la fin de l'été \trait
 apparat:
-- ligne: 2
-  lemme: 8^{H} m.
-  type: abreviation
-  note: huit heures du matin
 - ligne: 3
-  lemme: devint
+  lemme: \inc{devint}
   type: lecture
   note: 'lecture incertaine ; autre lecture : devient'
-- ligne: 4
-  lemme: 11^{H} m
-  type: abreviation
-  note: onze heures du matin
 - ligne: 5
-  lemme: chevx
+  lemme: \inc{chevx}
   type: lecture
   note: chevaux ; finale réduite, lecture incertaine
-- ligne: 6
-  lemme: midi \fr{1}{2}
-  type: abreviation
-  note: midi et demi
-- ligne: 7
-  lemme: 1^{H}\fr{1}{2}
-  type: abreviation
-  note: une heure et demie
 - ligne: 8
   lemme: plusis
   type: abreviation
@@ -61,27 +45,14 @@ apparat:
 - ligne: 9
   lemme: 'Hazebrouck : 2^{H}'
   type: ajout
-  note: horaires de la colonne de droite (l. 9-10) ajoutés après coup
-- ligne: 10
-  lemme: St-Pol
-  type: abreviation
-  note: Saint-Pol(-sur-Ternoise)
-- ligne: 10
-  lemme: 4^{H}30 s.
-  type: abreviation
-  note: quatre heures trente du soir
-- ligne: 11
-  lemme: 5^{H}
-  type: abreviation
-  note: cinq heures
+  note: horaires de la colonne de droite (l.~9--10) ajoutés après coup
 - ligne: 16
-  lemme: n'était
+  lemme: \inc{n'était}
   type: lecture
   note: 'autre lecture : n''étaient'
-critique: La journée du 25 août se poursuit au f. 14 v\textsuperscript{o}.
 historique: |
-  Ce train emmène les chevaux et les voitures de la 54th Brigade. L'infanterie a embarqué vers minuit à « Bailleul (West) Station » et débarqué à Saint-Pol vers 5 h (ordre d'opérations n° 26 du 23 août, Beds War Diary, 23-25 août 1916). Bailleul est alors un grand centre ferroviaire de l'arrière (CWGC, Bailleul Communal Cemetery Extension). Le convoi passe par Hazebrouck, par Berguette (Isbergues), où se croisent la ligne d'Arras à Dunkerque-Locale et celle d'Armentières à Arques, et par Lillers, sur la première (Wikipédia). Le contraste avec la campagne « plate et monotone » d'Estaires (voir f. 13 r\textsuperscript{o}) tient sans doute au passage de la plaine de la Lys aux plateaux de l'Artois.
+  Ce train emmène les chevaux et les voitures de la 54\textsuperscript{th} Brigade. L'infanterie a embarqué vers minuit à « Bailleul (West) Station » et débarqué à Saint-Pol vers 5~h (ordre d'opérations n\textsuperscript{o}~26 du 23~août, JMO~7/Bedf, 23--25~août 1916). Bailleul est alors un grand centre ferroviaire de l'arrière (CWGC, Bailleul Communal Cemetery Extension). Le convoi passe par Hazebrouck, par Berguette (Isbergues), où se croisent la ligne d'Arras à Dunkerque-Locale et celle d'Armentières à Arques, et par Lillers, sur la première (Wikipédia). Le contraste avec la campagne « plate et monotone » d'Estaires (voir f.~13~r\textsuperscript{o}) tient sans doute au passage de la plaine de la Lys aux plateaux de l'Artois.
 sources:
-- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (Beds War Diary), Operation Order No. 26 (23 août) et journal des 24-25 août.'
+- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (JMO 7/Bedf), Operation Order No. 26 (23 août) et journal des 24-25 août.'
 - CWGC, Bailleul Communal Cemetery Extension (fiche 2000048), historique.
 - Wikipédia, art. « Gare de Berguette-Isbergues » et « Ligne d'Arras à Dunkerque-Locale », consultés le 18 oct. 2026.

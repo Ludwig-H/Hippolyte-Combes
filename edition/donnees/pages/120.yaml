@@ -43,11 +43,7 @@ apparat:
 - ligne: 10
   lemme: XIII corps Archie
   type: emprunt
-  note: 'les « Archies », troupe de concert du XIIIe corps britannique (archie, argot militaire anglais : canon antiaérien)'
-- ligne: 11
-  lemme: Y.M.C.A. Hut
-  type: emprunt
-  note: baraque de la Young Men's Christian Association (foyer du soldat)
+  note: troupe de concert du XIII\textsuperscript{e} corps (voir f.~58~r\textsuperscript{o})
 - ligne: 11
   lemme: progro—
   type: abreviation
@@ -63,15 +59,7 @@ apparat:
 - ligne: 13
   lemme: \inc{15}c
   type: lecture
-  note: '15 centimes ; autre lecture : 75'
-- ligne: 15
-  lemme: Ven
-  type: abreviation
-  note: vendredi
-- ligne: 17
-  lemme: L^{t} Walsh, L^{t} Morris
-  type: abreviation
-  note: lieutenant (deux fois)
+  note: '15~centimes ; autre lecture : 75'
 - ligne: 19
   lemme: batteuse a
   type: lecture
@@ -79,11 +67,7 @@ apparat:
 - ligne: 20
   lemme: \inc{Capron}
   type: lecture
-  note: 'Capron, comme au f. 57 v° ; autres lectures : Capin, Copin'
-- ligne: 21
-  lemme: Merv^{x}
-  type: abreviation
-  note: merveilleux
+  note: 'lecture incertaine, comme au f.~57~v\textsuperscript{o} ; autres lectures : Capin, Copin'
 - ligne: 22
   lemme: co—e
   type: abreviation
@@ -99,13 +83,9 @@ apparat:
 - ligne: 24
   lemme: \inc{Achx}
   type: lecture
-  note: 'lecture probable : Achx (Acheux)'
-- ligne: 24
-  lemme: 78^{f} 75
-  type: abreviation
-  note: 78 francs 75
+  note: lecture incertaine ; Acheux
 historique: |
-  Les « XIII Corps Archie » (voir f.~58~r\textsuperscript{o}) sont sans doute les chanteurs des batteries antiaériennes du corps : \textit{Archie} désigne en argot militaire le canon antiaérien (Partridge 1937, s.v.). Le XIII Corps, à Acheux depuis le 29 novembre, part pour Doullens le 12 janvier (LLT) : les 78~F~75 sont son dernier versement à Hippolyte Combes, payé ensuite par le V Corps (f.~62~v\textsuperscript{o}). Beauquesne avait abrité depuis juin 1916 le QG avancé de Haig (OH 1916-I, p.~304). Le lieutenant Walsh, d'Hérissart, est connu depuis novembre (f.~49~v\textsuperscript{o}) ; Morris est sans doute l'officier de la 150th Company retrouvé le 9 (f.~60~v\textsuperscript{o}). Le contrat conclut l'affaire du 26 décembre (f.~57~v\textsuperscript{o}).
+  Les « XIII corps Archie » (voir f.~58~r\textsuperscript{o}) sont sans doute les chanteurs des batteries antiaériennes du corps : \textit{Archie} désigne en argot militaire le canon antiaérien (Partridge 1937, s.v.). Le XIII~Corps, à Acheux depuis le 29~novembre, part pour Doullens le 12~janvier (LLT) : les 78~F~75 sont son dernier versement à Hippolyte Combes, payé ensuite par le V Corps (f.~62~v\textsuperscript{o}). Beauquesne avait abrité depuis juin 1916 le QG avancé de Haig (OH~\mbox{1916-I}, p.~304). Le lieutenant Walsh, d'Hérissart, est connu depuis novembre (f.~49~v\textsuperscript{o}) ; Morris est sans doute l'officier de la 150\textsuperscript{th} Company, manqué le 9 à Hédauville (f.~60~v\textsuperscript{o}). Le contrat conclut l'affaire du 26~décembre (f.~57~v\textsuperscript{o}).
 sources:
 - Partridge, E., A Dictionary of Slang and Unconventional English, London, Routledge, 1937, s.v. « Archie ».
 - Baker, C., The Long, Long Trail, « The British XIII Corps in France and Flanders » et « The British V Corps in France and Flanders » (longlongtrail.co.uk, consultés le 18 oct. 2026).

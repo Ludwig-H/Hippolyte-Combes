@@ -37,25 +37,13 @@ apparat:
   type: abreviation
   note: très
 - ligne: 6
-  lemme: 3^{H} s.
-  type: abreviation
-  note: 3 heures du soir
-- ligne: 6
   lemme: intte
   type: abreviation
   note: interprète
 - ligne: 6
   lemme: \inc{Evar}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : Evan (de même l. 8)'
-- ligne: 6
-  lemme: cie
-  type: abreviation
-  note: compagnie (en compagnie d'un autre interprète)
-- ligne: 7
-  lemme: intte
-  type: abreviation
-  note: interprète
+  note: 'lecture incertaine ; autre lecture : Evan'
 - ligne: 7
   lemme: R2
   type: abreviation
@@ -63,11 +51,11 @@ apparat:
 - ligne: 7
   lemme: 2^{nd} australian division
   type: emprunt
-  note: 2e division australienne
+  note: 2\textsuperscript{e} division australienne
 - ligne: 8
   lemme: \inc{Evar}
   type: lecture
-  note: même nom qu'à la l. 6 ; Evan possible
+  note: 'lecture incertaine ; autre lecture : Evan'
 - ligne: 9
   lemme: kit
   type: emprunt
@@ -77,20 +65,12 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : ext (extrêmement)'
 - ligne: 14
-  lemme: Tre
-  type: abreviation
-  note: Très
-- ligne: 14
   lemme: walk
   type: emprunt
   note: promenade, marche
-- ligne: 14
-  lemme: tre
-  type: abreviation
-  note: très
 - ligne: 15
   lemme: mervx
-  type: lecture
+  type: abreviation
   note: merveilleux
 - ligne: 23
   lemme: sit^{on}
@@ -103,9 +83,9 @@ apparat:
 - ligne: 25
   lemme: \inc{18} f.
   type: lecture
-  note: '18 francs ; lecture incertaine ; autres lectures : 14, 16'
+  note: '18~francs ; lecture incertaine ; autres lectures : 14, 16'
 historique: |
-  Evar, qui « revient » ce jour-là, est peut-être le nouvel interprète arrivé le 6 avec l'officier australien qui relève le capitaine Williams (voir f.~81~v\textsuperscript{o}) ; il repart pour Albert. Valet, de la 2nd Australian Division, qui cédera sa chambre à Combes le 11 (voir f.~83~r\textsuperscript{o}), n'est pas identifié ; le sigle « R2 » reste inexpliqué. Le maréchal des logis sans nom est sans doute celui du 6, qui avait promis un « bon poste ». Le « dépôt » de Toutencourt, QG de la Fifth Army jusqu'au 28 mars (LLT), est sans doute celui où la Mission garde les interprètes en attente d'affectation, comme le dépôt des interprètes du Havre en 1914 (Fernand-Laurent 1917, p.~27). Les 18~f (ou 16) de mess de mars suivent les 33~f de février (voir f.~80~r\textsuperscript{o}).
+  Evar, qui « revient » ce jour-là, est peut-être le nouvel interprète arrivé le 6, le même jour que l'officier australien qui relève le capitaine Williams (voir f.~81~v\textsuperscript{o}) ; il repart pour Albert. Valet, de la 2\textsuperscript{nd} Australian Division, qui cédera sa chambre à Combes le 11 (voir f.~83~r\textsuperscript{o}), n'est pas identifié ; le sigle « R2 » reste inexpliqué. Le maréchal des logis sans nom est sans doute celui du 6, qui avait promis un « bon poste ». Le « dépôt » de Toutencourt, QG de la Fifth Army jusqu'au 28~mars (LLT), est sans doute celui où la Mission garde les interprètes en attente d'affectation, comme le dépôt des interprètes du Havre en 1914 (Fernand-Laurent 1917, p.~27). Les 18~F (ou 14, ou 16) de mess de mars suivent les 33~F de février (voir f.~80~r\textsuperscript{o}).
 sources:
 - Baker, C., The Long, Long Trail, « The British Fifth or Reserve Army 1916-1918 » (longlongtrail.co.uk, copie Wayback du 23 juil. 2024).
 - Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 27.

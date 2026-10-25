@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import re
 
-from balisage import Rangee, analyser, rendre
+from balisage import Rangee, _brut, analyser, rendre
 
 HAUTEUR = {"texte": 1.0, "filet": 0.5}
 LIGNE_DE_BASE = 0.76  # position de la ligne de base dans une rangée de texte (en interlignes)
@@ -38,6 +38,7 @@ def editorial(s: str) -> str:
     s = re.sub(r"\\sur\{([^{}]*)\}\{([^{}]*)\}", r"\2", s)
     s = re.sub(r"\\ill\[(\d+)\]", r"\\LJill{\1}", s)
     s = re.sub(r"\\ill(?![a-zA-Z{])", r"\\LJill{}", s)
+    s = re.sub(r"(?<![\\\w{])(\d+)--(\d+)(?!\w)", r"\\mbox{\1--\2}", s)  # intervalle jamais coupé
     s = re.sub(r"\\lac(?![a-zA-Z])", r"\\LJlac{}", s)
     s = re.sub(r"\\trait(?![a-zA-Z])", "—", s)
     s = re.sub(r"\\hfill(?![a-zA-Z])\s*", " ", s)
@@ -82,9 +83,12 @@ def colonne_transcription(rangees: list[Rangee]) -> tuple[str, dict[int, float]]
         if r.type == "texte":
             positions[r.numero] = y + LIGNE_DE_BASE
             num = str(r.numero) if r.numero % 5 == 0 else ""
-            macro = r"\LJtp" if r"\hfill" in r.latex else r"\LJt"
+            # trait de l'auteur : au milieu de la ligne, longueur fixe ; en fin de ligne, jusqu'au bout de la colonne
+            latex = re.sub(r"\\LJtrait\{\}(?=\s*[^\s}])", r"\\LJtraitc{}", r.latex)
+            pleine = r"\hfill" in latex or (r"\LJtrait{}" in latex and r.alignement == "g")
+            macro = r"\LJtp" if pleine else r"\LJt"
             lignes.append("%s{%s}{%g}{%s}{%s}{%s}" % (
-                macro, num, 1.2 * r.retrait, r.alignement, _signes_latex(rangees, i), r.latex))
+                macro, num, 1.2 * r.retrait, r.alignement, _signes_latex(rangees, i), latex))
         elif r.type == "filet":
             lignes.append(r"\LJf{%s}{%g}" % (r.filet_pos, r.filet_frac))
         else:
@@ -117,34 +121,74 @@ def _note(e: dict) -> str:
     note = e.get("note", "")
     note = "" if note is None else str(note)
     t = e.get("type", "")
+    lemme = re.sub(r"\s*\\hfill\s*", " … ", lemme)  # un blanc de la ligne ne s'imprime pas dans le lemme
     lem = rendre(lemme) if lemme else ""
     if t == "emprunt":
-        corps = r"\textit{%s} " % _langue(note) + editorial(_sans_langue(note, lemme)) if note else ""
+        corps = r"\textit{%s} " % _langue(note) + _angl(editorial(_sans_langue(note, lemme))) if note else ""
     elif t == "abreviation":
-        # le développement en italique ; un commentaire après « ; » reste en romain
-        dev, sep, reste = note.partition(" ; ")
-        corps = r"\textit{%s}" % editorial(dev) + (" ; " + editorial(reste) if sep else "")
+        # le développement en italique ; un commentaire (après « ; », « : » ou entre parenthèses) en romain
+        m = re.search(r" ; | : | \(", note)
+        dev, sep, reste = (note[:m.start()], m.group(0), note[m.end():]) if m else (note, "", "")
+        corps = r"\textit{%s}" % editorial(dev) + (sep + _angl(editorial(reste)) if sep else "")
     else:
-        corps = editorial(note)
+        corps = _angl(editorial(note))
     if lem:
+        # lemme court : jamais coupé en fin de ligne
+        if len(_brut(lemme)) <= 24:
+            lem = r"\mbox{%s}" % lem
         return r"{\LJpolice %s}\,]\enspace %s" % (lem, corps)
     return corps
 
 
-def colonne_apparat(apparat: list[dict], positions: dict[int, float], notes_auto: dict[int, list]) -> str:
-    """Regroupe les entrées par ligne et produit les appels \\LJapp."""
-    par_ligne: dict[int, list[str]] = {}
+def _angl(s: str) -> str:
+    """« angl. » écrit dans une remarque de l'éditeur : en italique, comme dans les notes d'emprunt ; l'autre
+    lecture proposée reste sur la ligne de « lecture : »."""
+    s = re.sub(r"(lectures? :) ", r"\1~", s)
+    return re.sub(r"(?<![\\\w{])angl\.", r"\\textit{angl.}", s)
+
+
+def colonne_apparat(apparat: list[dict], positions: dict[int, float], notes_auto: dict[int, list],
+                    textes: dict[int, str] | None = None) -> str:
+    """Regroupe les entrées par ligne, dans l'ordre où leurs lemmes figurent sur la ligne, et produit les
+    appels \\LJapp."""
+    textes = textes or {}
+    par_ligne: dict[int, list[tuple[int, int, str]]] = {}
+
+    def ajouter(n, lemme, e):
+        lig = textes.get(n, "")
+        brut = _brut(str(lemme or "")).strip()
+        pos = lig.find(brut) if brut and lig else -1
+        liste = par_ligne.setdefault(n, [])
+        liste.append((pos if pos >= 0 else 10 ** 6, len(liste), _note(e)))
+
+    def cle(x) -> str:
+        return re.sub(r"[\s?.,;:«»()'’-]+", " ", _brut(str(x or ""))).strip().lower()
+
+    # une note automatique (rature, ajout, surcharge tirées du balisage) sur le même mot qu'une note de l'éditeur
+    # est fondue avec elle, ou omise si la note de l'éditeur la contient déjà
+    manuelles = {}
+    for e in apparat:
+        manuelles.setdefault((int(e.get("ligne", 0)), cle(e.get("lemme", ""))), []).append(e)
+    fusion: dict[int, dict] = {}
     for n, liste in notes_auto.items():
         for lemme, t, note in liste:
-            par_ligne.setdefault(n, []).append(_note({"lemme": lemme, "type": t, "note": note}))
+            cible = manuelles.get((n, cle(lemme)))
+            if cible:
+                e = fusion.setdefault(id(cible[0]), dict(cible[0]))
+                if cle(note) not in cle(e.get("note", "")):
+                    if e.get("type") in ("abreviation", "emprunt"):
+                        e["note"] = f'{e.get("note", "")} ; {note}'
+                    else:
+                        e["note"] = f'{note} ; {e.get("note", "")}'
+                continue
+            ajouter(n, lemme, {"lemme": lemme, "type": t, "note": note})
     for e in apparat:
-        n = int(e.get("ligne", 0))
-        par_ligne.setdefault(n, []).append(_note(e))
+        ajouter(int(e.get("ligne", 0)), e.get("lemme", ""), fusion.get(id(e), e))
     out = []
     for n in sorted(par_ligne):
         if n not in positions:
             raise ValueError(f"note d'apparat sur une ligne inexistante : {n}")
-        txt = r" \textbar\ ".join(par_ligne[n])
+        txt = r"~\textbar\ ".join(x[2] for x in sorted(par_ligne[n]))
         out.append(r"\LJapp{%.3f}{\textbf{\LJchiffres %d}\enspace %s}" % (positions[n], n, txt))
     return "\n".join(out)
 
@@ -154,7 +198,8 @@ def double_page(page: dict, meta: dict) -> str:
     rangees = analyser(page["transcription"])
     trans, positions = colonne_transcription(rangees)
     auto = {r.numero: r.notes_auto for r in rangees if r.type == "texte" and r.notes_auto}
-    app = colonne_apparat(page.get("apparat", []), positions, auto)
+    textes = {r.numero: _brut(r.corps) for r in rangees if r.type == "texte"}
+    app = colonne_apparat(page.get("apparat", []), positions, auto, textes)
     blocs = []
     if page.get("critique"):
         blocs.append(r"\LJregcritique{%s}" % editorial(page["critique"]))

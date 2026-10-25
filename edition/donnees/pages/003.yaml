@@ -26,22 +26,10 @@ transcription: |
   \filet
   \ind[2] Food : 60c \hfill . — Washing : 1^{f} . –
 apparat:
-- ligne: 1
-  lemme: mer
-  type: abreviation
-  note: mercredi
-- ligne: 2
-  lemme: 9^{h}
-  type: abreviation
-  note: heures
 - ligne: 2
   lemme: jà
   type: abreviation
   note: jusqu'à
-- ligne: 2
-  lemme: 2^{h}
-  type: abreviation
-  note: heures
 - ligne: 2
   lemme: s,
   type: abreviation
@@ -53,19 +41,7 @@ apparat:
 - ligne: 3
   lemme: billeting
   type: emprunt
-  note: 'billeting officer (l. 3–4) : officier de cantonnement, chargé du logement des troupes'
-- ligne: 6
-  lemme: d'off
-  type: abreviation
-  note: d'officiers
-- ligne: 6
-  lemme: 2^{h}
-  type: abreviation
-  note: heures
-- ligne: 10
-  lemme: 9^{h}
-  type: abreviation
-  note: heures
+  note: 'billeting officer (l.~3--4) : officier de cantonnement, chargé du logement des troupes'
 - ligne: 11
   lemme: cottage
   type: emprunt
@@ -79,7 +55,7 @@ apparat:
   type: abreviation
   note: courant (le 28 du mois en cours)
 historique: |
-  Les 36 officiers sont arrivés la veille (voir f. 1 r\textsuperscript{o}). Le cantonnement était « une des principales besognes de l'interprète » : un officier, l'interprète et deux caporaux précédaient l'unité ; l'habitant recevait 1 F par nuit et par lit d'officier (Fernand-Laurent 1917, p. 225-234). Le lieutenant Michel et le « château de la brasserie » ne sont pas identifiés. Le même jour, à Wallon-Cappel, Maxse félicite le 7th Bedfordshire de la prise de la Pommiers Redoubt (1\textsuperscript{er} juillet) (Beds War Diary, 26 juill. 1916). Le départ du 28 est la marche de la 54th Brigade vers Bailleul par Hazebrouck (ibid., 28 juill. 1916 ; voir f. 2 v\textsuperscript{o}).
+  Les 36~officiers sont arrivés la veille (voir f.~1~r\textsuperscript{o}). Le cantonnement était « une des principales besognes de l'interprète » : un officier, l'interprète et deux caporaux précédaient l'unité ; l'habitant recevait 1~F par nuit et par lit d'officier (Fernand-Laurent 1917, p.~225--234). Le lieutenant Michel et le « château de la brasserie » ne sont pas identifiés. Le même jour, à Wallon-Cappel, Maxse félicite le 7\textsuperscript{th} Bedfordshire de la prise de la Pommiers Redoubt (1\textsuperscript{er}~juillet) (Beds War Diary, 26 juill. 1916). Le départ du 28 est la marche de la 54\textsuperscript{th} Brigade vers Bailleul par Hazebrouck (ibid., 28 juill. 1916 ; voir f.~2~v\textsuperscript{o}).
 sources:
 - Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, p. 225-234.
 - 'Bedfordshire Archives Service (Bedford), X550/8/1/1607 et 1607b : War Diary, 7th (Service) Battalion Bedfordshire Regiment, juillet 1916 (cité « Beds War Diary »).'

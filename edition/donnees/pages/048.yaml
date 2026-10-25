@@ -29,18 +29,6 @@ transcription: |
   \equerre{2}A M^{me} — \inc{propri} d'Acheux. 1 (Cooking
   Carte du Petit Journal : 60 c —
 apparat:
-- ligne: 3
-  lemme: 6^{H} \fr{1}{2}
-  type: abreviation
-  note: six heures et demie
-- ligne: 4
-  lemme: 7^{H} \fr{1}{2}
-  type: abreviation
-  note: sept heures et demie
-- ligne: 5
-  lemme: 9^{H} 30
-  type: abreviation
-  note: neuf heures trente
 - ligne: 8
   lemme: Lealviller
   type: graphie
@@ -52,23 +40,7 @@ apparat:
 - ligne: 11
   lemme: \inc{coté}
   type: lecture
-  note: côté, à la suite de « à » (l. 10)
-- ligne: 12
-  lemme: j.à
-  type: abreviation
-  note: jusqu'à
-- ligne: 13
-  lemme: Cap
-  type: abreviation
-  note: capitaine
-- ligne: 13
-  lemme: 2^{H} \fr{1}{2}
-  type: abreviation
-  note: deux heures et demie (de l'après-midi)
-- ligne: 14
-  lemme: Coy
-  type: abreviation
-  note: Company, la compagnie britannique (152nd Coy A.S.C.)
+  note: lecture incertaine ; côté (« à côté », l.~10--11)
 - ligne: 15
   lemme: \inc{Revenus}
   type: lecture
@@ -88,9 +60,9 @@ apparat:
 - ligne: 22
   lemme: 1 (Cooking
   type: compte
-  note: 1 franc, unité omise ; parenthèse non refermée
+  note: 1~franc, unité omise
 historique: |
-  La compagnie suit la 54th Brigade : le 7th Bedfordshire part de Raincheval à 9 h pour Varennes par Arquèves, Léalvillers et Acheux (JMO 7/Bedf, 23 sept. 1916). Le « cap West » est le capitaine E. M. West, commandant de la 152nd Coy (Nichols 1922, p.~110 ; voir f. 21 v\textsuperscript{o}). Le lieutenant Pizzi, « l'officier interprète de la 18e division » selon la lettre du 25 février 1916 (en annexe, p.~\pageref{annexe:doc1}), transmet les ordres aux interprètes des unités ; son identité civile n'est pas établie. La gare d'Acheux est le terminus de la voie normale Candas--Acheux, ouverte en 1916 (OH 1916-I, p.~273--274). Le même jour commence la préparation d'artillerie de l'attaque de Thiepval (OH 1916-II, p.~393--394).
+  La compagnie suit la 54\textsuperscript{th} Brigade : le 7\textsuperscript{th} Bedfordshire part de Raincheval à 9~h pour Varennes par Arquèves, Léalvillers et Acheux (JMO~7/Bedf, 23~sept. 1916). Le « cap West » est le capitaine E. M. West, commandant de la 152\textsuperscript{nd} Coy (Nichols 1922, p.~110 ; voir f.~21~v\textsuperscript{o}). Le lieutenant Pizzi, « l'officier interprète de la 18\textsuperscript{e} division » selon la lettre du 25~février 1916 (en annexe, p.~\pageref{annexe:doc1}), transmet les ordres aux interprètes des unités ; son identité civile n'est pas établie. La gare d'Acheux est le terminus de la voie normale Candas--Acheux, ouverte en 1916 (OH~\mbox{1916-I}, p.~273--274). Le même jour commence la préparation d'artillerie de l'attaque de Thiepval (OH~\mbox{1916-II}, p.~393--394).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 110.

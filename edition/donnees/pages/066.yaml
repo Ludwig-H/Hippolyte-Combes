@@ -26,18 +26,6 @@ transcription: |
   A 1^{H} soir —
   \blanc{3}
 apparat:
-- ligne: 1
-  lemme: Oct^{bre}
-  type: abreviation
-  note: octobre (finale réduite à une ondulation)
-- ligne: 3
-  lemme: 1 banc
-  type: abreviation
-  note: un banc
-- ligne: 9
-  lemme: 7^{H} 25
-  type: abreviation
-  note: 7 heures 25
 - ligne: 10
   lemme: R.T.O.
   type: abreviation
@@ -54,21 +42,12 @@ apparat:
   lemme: supply column
   type: emprunt
   note: colonne de ravitaillement
-- ligne: 14
-  lemme: 54^{e}
-  type: abreviation
-  note: cinquante-quatrième
-- ligne: 18
-  lemme: Coy.
-  type: abreviation
-  note: 'Company : compagnie'
 - ligne: 18
   lemme: A.S.C
   type: abreviation
   note: Army Service Corps
-critique: Le récit de la journée se poursuit f.~34 r\textsuperscript{o}.
 historique: |
-  Relevée après Thiepval, la 18th Division se repose « in the Candas area » (Nichols 1922, p.~126). Le 7th Bedfordshire, de la 54th Brigade, a été transporté le 2 octobre en train d'Acheux à Candas (OH 1916-I, p.~273) et cantonne à Vacquerie et Gorges (JMO 7/Bedf, oct. 1916). Canaples, sur la ligne Amiens--Doullens, sert de \textit{railhead} : les camions de la \textit{supply column} y chargent les vivres et les remettent au \textit{refilling point} aux voitures du train (FSPB 1914, « Definitions »). Le carnet montre que la 152nd Coy sert la 54th Brigade, et non la 55th comme le dit Nichols (p.~108--110), ce que montraient déjà les ordres du 7th Bedfordshire des 9--10 septembre (JMO 7/Bedf, sept. 1916). L'église de Doullens est sans doute Notre-Dame, l'ancienne église Saint-Pierre étant désaffectée (Mérimée PA00116138).
+  Relevée après Thiepval, la 18\textsuperscript{th} Division se repose « \textit{in the Candas area} » (Nichols 1922, p.~126). Le 7\textsuperscript{th} Bedfordshire, de la 54\textsuperscript{th} Brigade, est venu le 2~octobre en train d'Acheux à Candas (OH~\mbox{1916-I}, p.~273) et cantonne à Vacquerie et Gorges (JMO~7/Bedf, oct. 1916). Canaples, sur la ligne Amiens--Doullens, sert de \textit{railhead} : les camions de la \textit{supply column} y chargent les vivres pour les remettre aux voitures du train au \textit{refilling point} (FSPB 1914, « Definitions »). Le carnet montre, comme les ordres du 7\textsuperscript{th} Bedfordshire des 9--10~septembre (JMO~7/Bedf, sept. 1916), que la 152\textsuperscript{nd} Coy sert la 54\textsuperscript{th} Brigade, et non la 55\textsuperscript{th} comme le dit Nichols (p.~108--110). L'église de Doullens est sans doute Notre-Dame, l'ancienne église Saint-Pierre étant désaffectée (Mérimée PA00116138).
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 108-110, 126.
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.

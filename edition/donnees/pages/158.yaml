@@ -2,8 +2,8 @@ cliche: 158
 fichier: 20251126_111008.jpg
 date: Mercredi 21 – vendredi 23 février 1917
 mois: Février 1917
-lieux: Hérissart, Doullens et Molliens-au-Bois (Somme) ; Auxi-le-Château (Pas-de-Calais)
-titre: Course à Auxi-le-Château par Doullens ; mandat à Mme Spagnol ; Molliens-au-Bois
+lieux: Hérissart, Doullens, Puchevillers et Molliens-au-Bois (Somme) ; Auxi-le-Château (Pas-de-Calais)
+titre: Course à Auxi-le-Château par Doullens ; mandat à M\textsuperscript{me} Spagnol ; Molliens-au-Bois
 transcription: |
   \sl{21 Merc.} Temps nuageux \hfill \sl{Février 1917}
   Brume pénétrante Bruine
@@ -41,34 +41,18 @@ apparat:
   lemme: \inc{rendent}
   type: lecture
   note: 'lecture incertaine ; autre lecture : rendt'
-- ligne: 8
-  lemme: 1^{H} \fr{1}{2}
-  type: abreviation
-  note: une heure et demie
-- ligne: 9
-  lemme: \inc{abomibles}
-  type: abreviation
-  note: abominables
 - ligne: 9
   lemme: \inc{abomibles}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : abom^{les}'
-- ligne: 11
-  lemme: 42^{f}
-  type: abreviation
-  note: 42 francs
+  note: 'abominables ; lecture incertaine ; autre lecture : abom^{les}'
 - ligne: 14
   lemme: 0^{f}80
   type: lecture
-  note: '80 centimes ; autre lecture : 0''80'
-- ligne: 17
-  lemme: \inc{extre}
-  type: abreviation
-  note: extrême
+  note: '80~centimes ; autre lecture : 0''80'
 - ligne: 17
   lemme: \inc{extre}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : extra (extraordinaire)'
+  note: 'extrême ; lecture incertaine ; autre lecture : extra (extraordinaire)'
 - ligne: 21
   lemme: proprios
   type: abreviation
@@ -82,7 +66,7 @@ apparat:
   type: abreviation
   note: côté
 historique: |
-  Le dégel commencé le 16 février défonce les routes de l'arrière (OH 1917-I, p.~76 ; voir f.~78 r\textsuperscript{o}). Auxi-le-Château (Pas-de-Calais), sur l'Authie, est à 19~km au nord-ouest de Doullens ; Combes y va pour la troisième fois (voir f.~62 r\textsuperscript{o} et f.~76 r\textsuperscript{o}). Puchevillers, à 3~km au nord d'Hérissart, abrite deux \textit{Casualty Clearing Stations} (LLT). Le mandat de 42~francs paie sans doute le panier de fleurs envoyé de Nice par Mme Spagnol, non identifiée (voir f.~67 r\textsuperscript{o} et f.~68 r\textsuperscript{o}). Combes rachète des semelles de liège le 11 avril (f.~89 v\textsuperscript{o}). Molliens-au-Bois est à 4,5~km au sud-sud-ouest d'Hérissart.
+  Le dégel commencé le 16~février défonce les routes de l'arrière (OH~\mbox{1917-I}, p.~76 ; voir f.~78~r\textsuperscript{o}). Auxi-le-Château (Pas-de-Calais), sur l'Authie, est à 19~km au nord-ouest de Doullens ; Combes y va pour la troisième fois (voir f.~62~r\textsuperscript{o} et f.~76~r\textsuperscript{o}). Puchevillers, à 3~km au nord d'Hérissart, abrite deux \textit{Casualty Clearing Stations} (LLT). Le mandat de 42~francs paie sans doute le panier de fleurs envoyé de Nice par M\textsuperscript{me} Spagnol, non identifiée (voir f.~67~r\textsuperscript{o} et f.~68~r\textsuperscript{o}). Combes rachète des semelles de liège le 11~avril (f.~89~v\textsuperscript{o}). Molliens-au-Bois est à 4,5~km au sud-sud-ouest d'Hérissart.
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 76.
 - The Long, Long Trail (C. Baker), « Locations of British Casualty Clearing Stations », copie Wayback du 13 janv. 2018.

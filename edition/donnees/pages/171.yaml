@@ -2,7 +2,7 @@ cliche: 171
 fichier: 20251126_111410.jpg
 date: Mardi 20 – jeudi 22 mars 1917
 mois: Mars 1917
-lieux: Hérissart, Puchevillers, Contay, Warloy-Baillon, Senlis-le-Sec et Albert (Somme)
+lieux: Hérissart, Puchevillers, Belle-Église (Arquèves), Contay, Warloy-Baillon, Senlis-le-Sec, Mirvaux, Pierregot, Molliens-au-Bois et Albert (Somme)
 titre: Départ de l'officier de passage ; neige ; troupes en marche ; Senlis et Albert
 transcription: |
   \sl{20 Mardi} \hfill \sl{Mars 1917} —
@@ -16,7 +16,7 @@ transcription: |
   \ind Nuit très froide Tout le jour, ciel couvert,
   pluie fine & neige, par intermittence —
   \ind Matin, course en auto à Puchevillers et
-  Arqueves, Belle Eglise Farm, M. Houtteman —
+  Arqueves, Belle Eglise Farm, M. \inc{Houtteman} —
   \ind Après-midi, par Contay & Warloy,
   venus à Senlis. Routes encombrées par troupes
   moving. Admiré cavrie indienne & anglaise
@@ -31,29 +31,21 @@ transcription: |
   à g., champs couverts de neige
 apparat:
 - ligne: 2
-  lemme: Lieut
-  type: abreviation
-  note: lieutenant
-- ligne: 2
   lemme: 63^{rd} div
   type: abreviation
-  note: '63rd Division : soixante-troisième division (Royal Naval Division)'
+  note: '63\textsuperscript{rd} Division : soixante-troisième division (Royal Naval Division)'
 - ligne: 2
   lemme: \inc{ds}
   type: lecture
   note: 'dans ; lecture incertaine ; autre lecture : d''1'
-- ligne: 3
-  lemme: 8^{h}
-  type: abreviation
-  note: 8 heures
 - ligne: 11
   lemme: Farm
   type: emprunt
   note: 'ferme : Belle-Église Farm, ferme de Belle-Église'
 - ligne: 11
-  lemme: Houtteman
+  lemme: \inc{Houtteman}
   type: lecture
-  note: 'autre lecture : Houttemann ; cf. Mme Houtteman, f. 54 r°'
+  note: 'lecture incertaine ; autre lecture : Houttemann ; cf. M\textsuperscript{me} Houtteman, f.~54~r\textsuperscript{o}'
 - ligne: 14
   lemme: moving
   type: emprunt
@@ -65,13 +57,13 @@ apparat:
 - ligne: 15
   lemme: Death or Glory Boys
   type: emprunt
-  note: « les gars de la mort ou de la gloire », surnom du 17e lanciers
+  note: « les gars de la mort ou de la gloire », surnom du 17\textsuperscript{e} lanciers
 - ligne: 15
   lemme: 17^{th} Lancers
   type: emprunt
-  note: 17e régiment de lanciers
+  note: 17\textsuperscript{e} régiment de lanciers
 historique: |
-  La ferme de Belle-Église, près d'Arquèves, est tenue par une famille belge (voir f.~54~r\textsuperscript{o}) ; Mirvaux et Pierregot ont été parcourus le 16 (voir f.~84~v\textsuperscript{o}). Les troupes en marche sont celles des relèves qui suivent le repli allemand : le 20, la 18th Division est relevée par la 7th (OH 1917-I, p.~145) ; le 22, son 7th Bedfordshire défile à Senlis puis gagne Contay (JMO 7/Bedf ; LLT). Hippolyte Combes croise sans doute son ancienne division. Le 17th Lancers doit son surnom à la tête de mort et à la devise « \textit{or Glory} » de son insigne (Fraser et Gibbons 1925) ; c'est le régiment britannique de la Sialkot Brigade, 4th Cavalry Division, avec deux régiments indiens (LLT). Albert, tête de ligne du II Corps, reçoit le 28 mars le QG de la Fifth Army (OH 1917-I, p.~145 ; LLT).
+  La ferme de Belle-Église, près d'Arquèves, est tenue par une famille belge (voir f.~54~r\textsuperscript{o}) ; Mirvaux et Pierregot ont été parcourus le 16 (voir f.~84~v\textsuperscript{o}). Les troupes en marche sont celles des relèves qui suivent le repli allemand : le 20, la 18\textsuperscript{th} Division est relevée par la 7\textsuperscript{th} (OH~\mbox{1917-I}, p.~145) ; le 22, son 7\textsuperscript{th} Bedfordshire défile à Senlis puis gagne Contay (JMO~7/Bedf ; LLT). Hippolyte Combes croise sans doute son ancienne division. Le 17\textsuperscript{th} Lancers doit son surnom à la tête de mort et à la devise « \textit{or Glory} » de son insigne (Fraser et Gibbons 1925) ; c'est le régiment britannique de la Sialkot Brigade, 4\textsuperscript{th} Cavalry Division, avec deux régiments indiens (LLT). Albert, tête de ligne du II~Corps, reçoit le 28~mars le QG de la Fifth Army (OH~\mbox{1917-I}, p.~145 ; LLT).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, London, Macmillan, 1940, p. 145.
 - Bedfordshire Archives Service, X550/8/1, War Diary, 7th (Service) Battalion, Bedfordshire Regiment, 20-27 mars 1917.

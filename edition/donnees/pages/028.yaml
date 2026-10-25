@@ -28,14 +28,6 @@ transcription: |
   \ind Tip au groom : \inc{1}
   Food : Bailleul : 75c. – St-Pol : 1^{f} \trait
 apparat:
-- ligne: 1
-  lemme: Ven
-  type: abreviation
-  note: vendredi
-- ligne: 2
-  lemme: 1^{H}
-  type: abreviation
-  note: 1 heure
 - ligne: 3
   lemme: \inc{jouée}
   type: lecture
@@ -44,10 +36,6 @@ apparat:
   lemme: d'\inc{harmonique}
   type: lecture
   note: 'pour harmonica ? ; autre lecture : harmonica'
-- ligne: 4
-  lemme: '&'
-  type: abreviation
-  note: et (de même l. 5 et 9)
 - ligne: 6
   lemme: \inc{et}
   type: lecture
@@ -65,10 +53,6 @@ apparat:
   type: abreviation
   note: nuageux
 - ligne: 11
-  lemme: ns
-  type: abreviation
-  note: nous (n et s liés)
-- ligne: 11
   lemme: delicieus^{t}
   type: abreviation
   note: délicieusement
@@ -84,14 +68,6 @@ apparat:
   lemme: offrs
   type: abreviation
   note: officiers
-- ligne: 20
-  lemme: \sl{mess}
-  type: emprunt
-  note: popote des officiers
-- ligne: 21
-  lemme: groom
-  type: emprunt
-  note: valet, ordonnance
 - ligne: 21
   lemme: \inc{1}
   type: lecture
@@ -101,7 +77,7 @@ apparat:
   type: lecture
   note: 'autre lecture : 45c'
 historique: |
-  Marquay, à 6 km à l'est de Saint-Pol, est l'un des cantonnements de la 54th Brigade (JMO 7/Bedf, ordre n° 26, 23 août 1916) ; le 12th Middlesex y loge jusqu'au 9 septembre (Wyrall [1926], p. 309). C'est l'arrière de la Third Army, qui tient le front d'Hébuterne à Vimy (Miles 1938, p. 543, n. 3) ; la division y fait « three weeks' battle training » avant de regagner la Somme (Nichols 1922, p. 78). Les « réflexions amères » sur l'État rappellent sa lettre du 16 juin 1916 à sa sœur, sans doute Françoise, carmélite : « Toutes ces abstractions : gloire, honneur etc. quel tas de blagues ! » (archives familiales). Le \textit{groom} est sans doute Connelly (voir f. 6 r\textsuperscript{o}).
+  Marquay, à 6~km à l'est de Saint-Pol, est l'un des cantonnements de la 54\textsuperscript{th} Brigade (JMO~7/Bedf, ordre n\textsuperscript{o}~26, 23~août 1916) ; le 12\textsuperscript{th} Middlesex y loge jusqu'au 9~septembre (Wyrall [1926], p.~309). C'est l'arrière de la Third Army, qui tient le front d'Hébuterne à Vimy (Miles 1938, p.~543, n. 3) ; la division y fait « \textit{three weeks' battle training} » avant de regagner la Somme (Nichols 1922, p.~78). Les « Reflexions amères » sur l'État rappellent sa lettre du 16~juin 1916 à sa sœur, sans doute Françoise, carmélite : « Toutes ces abstractions : gloire, honneur etc. quel tas de blagues ! » (archives familiales). Le \textit{groom} est sans doute Connelly (voir f.~6~r\textsuperscript{o}).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916, ordre d''opérations n° 26 du 23 août (transcription en ligne).'
 - Wyrall, Everard, The Die-Hards in the Great War, vol. I, London, Harrison & Sons, [1926], p. 309.

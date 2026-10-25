@@ -1,35 +1,32 @@
-# Division éditoriale en chapitres (le carnet n'en comporte aucune) : première page de chaque chapitre dans l'ordre de lecture.
-# illustrations : photographies placées sous la carte de la page d'ouverture ; illustration_fin : image pleine page
-# placée à la fin de l'introduction du chapitre si une page impaire doit être remplie avant la première double page.
 chapitres:
 - numero: I
   premier_cliche: 1
   titre: De la Flandre intérieure à la vallée de la Lys
-  periode: 25 juillet – 12 août 1916
+  periode: 25~juillet – 12~août 1916
   illustrations:
   - fichier: illustrations/epoque/bailleul_hotel_de_ville_beffroi_vers_1909.jpg
-    legende: Bailleul, l'hôtel de ville et le beffroi (carte postale, vers 1909).
+    legende: Bailleul, l'hôtel de ville et le beffroi (carte postale, vers 1900--1909).
   - fichier: illustrations/epoque/bailleul_grand_place_convoi_hippomobile_1917.jpg
     legende: Bailleul, convoi hippomobile britannique sur la Grand-Place (15~mai 1917 ; National Library of New Zealand).
   illustration_fin:
     fichier: illustrations/hippolyte_interprete_1.jpg
-    legende: Hippolyte Combes en uniforme, pendant la guerre (archives familiales).
+    legende: Hippolyte Combes en uniforme, coiffé du képi, pendant la guerre (portrait de studio ; archives familiales).
 - numero: II
   premier_cliche: 19
   titre: De la Lys à la Somme
-  periode: 13 août – 24 septembre 1916
+  periode: 13~août – 24~septembre 1916
   illustrations:
   - fichier: illustrations/epoque/saint_pol_rue_defile_territoriaux_1916.jpg
-    legende: Saint-Pol-sur-Ternoise, passage de territoriaux, 9 mars 1916 (La contemporaine, Licence Ouverte).
+    legende: Saint-Pol-sur-Ternoise, passage de territoriaux (9~mars 1916 ; La contemporaine, Licence Ouverte).
   - fichier: illustrations/epoque/lucheux_beffroi_vers_1900.jpg
-    legende: Lucheux, la porte du beffroi (\textit{France-Album}, vers 1900 ; Gallica-BnF).
+    legende: Lucheux, la porte du beffroi (\textit{France-Album}, années 1890 ; Gallica-BnF).
   illustration_fin:
     fichier: illustrations/hippolyte_interprete_2.jpg
-    legende: Hippolyte Combes en uniforme, pendant la guerre (archives familiales).
+    legende: Hippolyte Combes en uniforme, tête nue, pendant la guerre (portrait de studio ; archives familiales).
 - numero: III
   premier_cliche: 50
   titre: La première permission — Paris et Toulouse
-  periode: 25 septembre – 6 octobre 1916
+  periode: 25~septembre – 6~octobre 1916
   illustrations:
   - fichier: illustrations/epoque/paris_gare_du_nord_permissionnaire_taxi_1915.jpg
     legende: Paris, gare du Nord, un permissionnaire et les taxis (juillet 1915 ; agence Meurisse, Gallica-BnF).
@@ -41,33 +38,33 @@ chapitres:
 - numero: IV
   premier_cliche: 67
   titre: L'automne sur l'Ancre — d'Albert à Acheux
-  periode: 6 octobre – 30 novembre 1916
+  periode: 6~octobre – 30~novembre 1916
   illustrations:
   - fichier: illustrations/epoque/albert_basilique_vierge_penchee_attelage_1916.jpg
-    legende: Albert, la basilique Notre-Dame-de-Brebières et sa Vierge penchée (photographie officielle canadienne, vers 1916–1917 ; Archives of Ontario).
+    legende: Albert, la basilique Notre-Dame-de-Brebières et sa Vierge penchée (photographie officielle canadienne, vers 1916--1917 ; Archives of Ontario).
   - fichier: illustrations/epoque/contay_convoi_camions_septembre_1916.jpg
-    legende: Colonne de camions de ravitaillement près de Contay (septembre 1916 ; Nationaal Archief, CC0).
+    legende: Camion de premiers secours en tête d'une colonne de camions, près de Contay (septembre 1916 ; Nationaal Archief, CC0).
   illustration_fin:
     fichier: illustrations/epoque/albert_vierge_penchee_gros_plan_1916.jpg
-    legende: La Vierge dorée de la basilique d'Albert, renversée par un obus le 15 janvier 1915 (photographie officielle canadienne, vers 1916 ; Archives of Ontario).
+    legende: La Vierge dorée de la basilique d'Albert, couchée par un obus le 15~janvier 1915 (photographie officielle canadienne, vers 1916 ; Archives of Ontario).
 - numero: V
   premier_cliche: 105
   titre: L'hiver à Acheux-en-Amiénois
-  periode: 1\textsuperscript{er} décembre 1916 – 25 janvier 1917
+  periode: 1\textsuperscript{er}~décembre 1916 – 25~janvier 1917
   illustrations:
   - fichier: illustrations/epoque/bertrancourt_foyer_ymca_avril_1918.jpg
     largeur: 0.62\textwidth
     legende: Foyer de la Y.M.C.A. à Bertrancourt, près d'Acheux (avril 1918 ; National Library of New Zealand).
   illustration_fin:
     fichier: illustrations/epoque/route_saint_pol_arras_convoi_neige_fevrier_1917.jpg
-    legende: Ambulances sur la route de Saint-Pol à Arras, sous la neige (février 1917 ; Imperial War Museum, Q 4683).
+    legende: Ambulances sur la route de Saint-Pol à Arras, sous la neige (février 1917 ; Imperial War Museum, Q~4683).
 - numero: VI
   premier_cliche: 128
   titre: La seconde permission — Paris, Toulouse, Millau
-  periode: 26 janvier – 7 février 1917
+  periode: 26~janvier – 7~février 1917
   illustrations:
   - fichier: illustrations/epoque/toulouse_saint_sernin_autochrome_1916.jpg
-    legende: Toulouse, la basilique Saint-Sernin, qu'Hippolyte Combes visite le 29 janvier 1917 (autochrome, 28 avril 1916 ; musée départemental Albert-Kahn).
+    legende: Toulouse, la basilique Saint-Sernin, qu'Hippolyte Combes visite le 29~janvier 1917 (autochrome, 28~avril 1916 ; musée départemental Albert-Kahn).
   - fichier: illustrations/epoque/millau_tarn_moulin_du_pont_vieux_avant_1914.jpg
     legende: Millau, le Tarn et le moulin du Pont-Vieux (avant 1914 ; Gallica-BnF).
   illustration_fin:
@@ -76,12 +73,12 @@ chapitres:
 - numero: VII
   premier_cliche: 147
   titre: Hérissart et le printemps de 1917
-  periode: 7 février – 30 avril 1917
+  periode: 7~février – 30~avril 1917
   illustrations:
   - fichier: illustrations/epoque/puchevillers_gare_hopital_vue_aerienne_1916.jpg
     legende: Puchevillers, la gare et les hôpitaux d'évacuation vus d'un avion allemand (septembre 1916 ; Landesarchiv Baden-Württemberg, CC BY 4.0).
   - fichier: illustrations/epoque/cavalerie_indienne_deccan_horse_mars_1917.jpg
-    legende: Cavalerie indienne (Deccan Horse) près de Pys, mars 1917 (Imperial War Museum, Q 4997).
+    legende: Cavalerie indienne (Deccan Horse) près de Pys (mars 1917 ; Imperial War Museum, Q~4997).
   illustration_fin:
     fichier: illustrations/mariage_millau_1917.jpg
-    legende: Mariage d'Hippolyte Combes et de Marguerite Calmels, Millau, 25 octobre 1917 (archives familiales).
+    legende: Mariage d'Hippolyte Combes et de Marguerite Calmels, Millau, 25~octobre 1917 (archives familiales).

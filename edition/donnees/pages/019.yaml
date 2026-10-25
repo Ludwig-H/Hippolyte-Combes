@@ -1,9 +1,9 @@
 cliche: 19
 fichier: 20251126_093618.jpg
-date: Dimanche 13 et lundi 14 août 1916
+date: Dimanche 13 – lundi 14 août 1916
 mois: Août 1916
-lieux: La Croix-du-Bac (Steenwerck) et Armentières (Nord)
-titre: Mot de Marguerite attendu en vain ; promenade sur la Lys ; à cheval avec Curtis
+lieux: La Croix-du-Bac (Steenwerck, Nord)
+titre: Pas de mot de Marguerite ; promenade au bord de la Lys ; à cheval avec Curtis
 transcription: |
   \sl{13 D –} \hfill \sl{Aout 1916}
   \ind[2] Soleil ardent —
@@ -29,14 +29,10 @@ transcription: |
   Note de blanchissage : 50c \trait
   Lait : 15c + 0.05
 apparat:
-- ligne: 1
-  lemme: D
-  type: abreviation
-  note: dimanche
 - ligne: 7
   lemme: Campagne
   type: lecture
-  note: C majuscule, comme dans « Ciel » (l. 9)
+  note: C majuscule, comme dans « Ciel » (l.~9)
 - ligne: 8
   lemme: rivière
   type: lecture
@@ -44,7 +40,7 @@ apparat:
 - ligne: 11
   lemme: l air
   type: graphie
-  note: ainsi, sans apostrophe (de même l. 14)
+  note: ainsi, sans apostrophe (de même l.~14)
 - ligne: 14
   lemme: raies
   type: lecture
@@ -54,7 +50,7 @@ apparat:
   type: lecture
   note: 'lecture probable ; autre lecture : ds (dans)'
 historique: |
-  Le lundi 14 août 1916 est le quarantième anniversaire d'Hippolyte Combes, né à Millau le 14 août 1876 (acte de naissance n\textsuperscript{o} 395) ; l'entrée n'en dit rien. Ce jour-là, George V, avec le prince de Galles et le général Plumer, visite l'école de grenadiers et de raids de la 5th Australian Division à Sailly-sur-la-Lys, à 2,5 km de La Croix-du-Bac (Ellis [1920], pp. 120-121). Dans la nuit du 14 au 15, un \textit{dummy raid} du 7th Bedfordshire devant Armentières coûte la vie au 2nd Lt David Arnold Roeber, 18 ans, et à trois hommes (JMO 7/Bedf, 15 août 1916 ; CWGC). Le « pot-au-noir », terme de marine pour les calmes équatoriaux (OQLF, GDT), dit sans doute ici l'humeur sombre. Le mot attendu est de Marguerite Calmels (voir f. 1 r\textsuperscript{o}) ; Maurin n'est pas identifié (voir f. 7 r\textsuperscript{o}).
+  Le lundi 14~août 1916 est le quarantième anniversaire d'Hippolyte Combes, né à Millau le 14~août 1876 (acte de naissance n\textsuperscript{o}~395) ; l'entrée n'en dit rien. Ce jour-là, George V, avec le prince de Galles et le général Plumer, visite l'école de grenadiers et de raids de la 5\textsuperscript{th} Australian Division à Sailly-sur-la-Lys, à 2,5~km de La Croix-du-Bac (Ellis [1920], p. 120--121). Dans la nuit du 14 au 15, un \textit{dummy raid} du 7\textsuperscript{th} Bedfordshire devant Armentières coûte la vie au 2\textsuperscript{nd} Lt David Arnold Roeber, 18~ans, et à trois hommes (JMO~7/Bedf, 15~août 1916 ; CWGC). Le « pot-au-noir », terme de marine pour les calmes équatoriaux (OQLF, GDT), dit sans doute ici l'humeur sombre. Le mot attendu est de Marguerite Calmels (voir f.~1~r\textsuperscript{o}) ; Maurin n'est pas identifié (voir f.~7~r\textsuperscript{o}).
 sources:
 - Acte de naissance n° 395, état civil de Millau (Aveyron), 16 août 1876 (Marie Lucien Hippolyte Combes, né le 14 août 1876).
 - Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], pp. 120-121.

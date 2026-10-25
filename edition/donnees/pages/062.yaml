@@ -27,30 +27,10 @@ transcription: |
   \ind Enfin, dû ns separe, par
   ménagement pour l'oncle \trait
 apparat:
-- ligne: 1
-  lemme: mer-
-  type: abreviation
-  note: mercredi
-- ligne: 1
-  lemme: octbr/16
-  type: abreviation
-  note: octobre 1916
 - ligne: 5
   lemme: \inc{Langdc}
   type: abreviation
-  note: Languedoc (Thermes du Languedoc, établissement de bains de Toulouse)
-- ligne: 5
-  lemme: \inc{Langdc}
-  type: lecture
-  note: 'lecture incertaine : Languedoc'
-- ligne: 6
-  lemme: 11^{H} m.
-  type: abreviation
-  note: onze heures du matin
-- ligne: 7
-  lemme: S^{te} Marie
-  type: abreviation
-  note: Sainte-Marie(-des-Champs)
+  note: Languedoc ; lecture incertaine
 - ligne: 13
   lemme: \inc{\fr{1}{2}}
   type: lecture
@@ -62,11 +42,7 @@ apparat:
 - ligne: 15
   lemme: \inc{Alle} – Gare – \inc{venu} – \ill \inc{puis}
   type: lecture
-  note: ligne empâtée ; seul Gare est sûr ; signe illisible (1, & ?) avant puis
-- ligne: 16
-  lemme: ds 1
-  type: abreviation
-  note: dans un
+  note: lecture incertaine ; seul Gare est sûr ; avant puis, 1 ou & ?
 - ligne: 19
   lemme: G.V.
   type: abreviation
@@ -75,8 +51,7 @@ apparat:
   lemme: separe
   type: lecture
   note: séparer, r final non écrit
-critique: La dernière phrase se poursuit en tête du f.~32 r\textsuperscript{o}.
 historique: |
-  Le passage matinal à la gare est sans doute l'achat du billet pour Orsay, porté dans les comptes du lendemain (voir f.~32 r\textsuperscript{o}). Les Thermes du Languedoc, au 1 bis de la rue de Languedoc, sont dans la rue même de l'appartement (\textit{Le Télégramme}, 31 mars 1911, p.~4 ; voir f.~27 v\textsuperscript{o}). Sainte-Marie-des-Champs est la maison des Crouzet (voir f.~27 v\textsuperscript{o}). L'oncle est Émile Crouzet (v. 1842 -- 1926), ancien agent de change à Millau, mari d'Élisabeth Calmels, tante paternelle de Marguerite (\textit{Le Télégramme}, 24 déc. 1926) : il a alors environ 74 ans. La cour « de G.V. » est celle de la grande vitesse (bagages, messageries).
+  Le passage matinal à la gare est sans doute l'achat du billet pour Orsay, porté dans les comptes du lendemain (voir f.~32~r\textsuperscript{o}). Les Thermes du Languedoc sont dans la rue même de l'appartement, et Sainte-Marie-des-Champs est sans doute la maison des Crouzet (voir f.~27~v\textsuperscript{o}). L'oncle est Émile Crouzet (v.~1842--1926), ancien agent de change à Millau, mari de la tante paternelle de Marguerite, sans doute Élisabeth Calmels (\textit{Le Télégramme}, 24~déc. 1926) : il a alors environ 74~ans. La cour « de G.V. » est celle de la grande vitesse (bagages, messageries).
 sources:
-- Le Télégramme (Toulouse), 31 mars 1911, p. 4 ; 24 déc. 1926, p. 4 (Rosalis, Bibliothèque de Toulouse).
+- Le Télégramme (Toulouse), 24 déc. 1926, p. 4 (Rosalis, Bibliothèque de Toulouse).

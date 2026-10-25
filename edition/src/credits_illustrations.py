@@ -33,6 +33,34 @@ def _tex(s: str) -> str:
     return s
 
 
+MOIS = ("janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre|"
+        "January|February|March|April|May|June|July|August|September|October|November|December")
+
+
+def _typo(s: str) -> str:
+    """Typographie de l'éditeur, hors des adresses (\\url{…}) : demi-cadratin dans les intervalles de
+    nombres, n\\textsuperscript{o}, 1\\textsuperscript{er}, espaces insécables (jour et mois, sigle ou
+    abréviation et numéro, nombre et unité)."""
+    morceaux = re.split(r"(\\url\{[^}]*\})", s)
+    for i in range(0, len(morceaux), 2):
+        t = morceaux[i]
+        # intervalles : 1890-1900, 1862-1914 (pas les cotes du type 224-8 ou 1/2-013396-G)
+        t = re.sub(r"(?<![\w/.\-])(\d{2,4})-(\d{2,4})(?![\w/\-])", r"\1--\2", t)
+        t = re.sub(r"\b1er\b", r"1\\textsuperscript{er}", t)
+        t = re.sub(r"n°\s*", r"n\\textsuperscript{o}~", t)
+        t = re.sub(r"\b(\d{1,2}|1\\textsuperscript\{er\}) (%s)\b" % MOIS, r"\1~\2", t)
+        t = re.sub(r"\b(Q|A|C|inv\.|f\.|p\.|réf\.|Nr\.|vol\.|t\.) (\d)", r"\1~\2", t)
+        t = re.sub(r"(\d) (km|ans)\b", r"\1~\2", t)
+        morceaux[i] = t
+    return "".join(morceaux)
+
+
+def _majuscule(s: str) -> str:
+    """Majuscule initiale (première lettre hors commande LaTeX)."""
+    m = re.match(r"((?:\\[A-Za-z]+\{)*)([^\W\d_])", s)
+    return s if not m else s[:m.end(1)] + m.group(2).upper() + s[m.end(2):]
+
+
 def images_citees() -> list[str]:
     vus: list[str] = []
     chap = yaml.safe_load((EDITION / "donnees" / "chapitres.yaml").read_text(encoding="utf-8"))["chapitres"]
@@ -55,14 +83,17 @@ def main() -> None:
             e = epoque[nom]
             leg = e.get("lieu", "")
             date = e.get("date", "")
-            credit = "%s Source : %s Licence : %s" % (_tex(e.get("auteur", "")), _tex(e.get("source", "")), _tex(e.get("licence", "")))
-            lignes.append(r"\textit{%s} — %s & %s\\" % (_tex(leg).rstrip("."), _tex(str(date)).rstrip("."), credit))
+            credit = "%s Source : %s ; licence : %s" % (_tex(e.get("auteur", "")), _tex(e.get("source", "")), _tex(e.get("licence", "")))
+            image = r"\textit{%s} — %s" % (_tex(leg).rstrip("."), _tex(str(date)).rstrip("."))
+            lignes.append(r"%s & %s\\" % (_majuscule(_typo(image)), _majuscule(_typo(credit))))
         elif nom in famille:
             e = famille[nom]
-            lignes.append(r"%s & Archives familiales (%s).\\" % (_tex(e.get("legende", "")), _tex(e.get("origine", ""))))
+            image = _tex(e.get("legende", "")).rstrip(".")  # colonne Image : sans point final
+            credit = "Archives familiales (%s)." % _tex(e.get("origine", ""))
+            lignes.append(r"%s & %s\\" % (_majuscule(_typo(image)), _majuscule(_typo(credit))))
     tex = r"""\section{Sources des illustrations}\label{annexe-illustrations}
 
-Les fac-similés reproduisent les photographies du carnet prises le 26 novembre 2025 ; les cartes ont été dessinées pour la présente édition (sources indiquées sous chacune d'elles). Les photographies, lettres de guerre et feuillets autographes (\textit{Feuillets de Route}) appartiennent aux archives familiales des descendants d'Hippolyte Combes, communiquées par Pierre Combes et Pierre-Alain Hauseux. Les images d'époque, toutes dans le domaine public ou sous licence libre, sont reproduites avec les mentions demandées par les institutions qui les conservent.
+Les fac-similés reproduisent les photographies du carnet prises le 26~novembre 2025, redressées et recadrées au bord du feuillet, l'éclairage et le ton du papier égalisés d'une page à l'autre (l'écriture n'est pas retouchée), et les numérisations des pièces annexes, redressées et recadrées au bord du papier ; les cartes ont été dessinées pour la présente édition (sources indiquées sous chacune d'elles). Les photographies, lettres de guerre, notes et feuillets autographes (\textit{Feuillets de Route}) appartiennent aux archives familiales des descendants d'Hippolyte Combes, communiquées par Pierre Combes et Pierre-Alain Hauseux. Les images d'époque, toutes dans le domaine public ou sous licence libre, sont reproduites avec les mentions demandées par les institutions qui les conservent.
 
 {\footnotesize
 \setlength{\tabcolsep}{3pt}

@@ -2,7 +2,7 @@ cliche: 110
 fichier: 20251126_105112.jpg
 date: Mardi 12 – jeudi 14 décembre 1916
 mois: Décembre 1916
-lieux: Acheux-en-Amiénois, Senlis-le-Sec, Toutencourt, Puchevillers et Harponville (Somme)
+lieux: Acheux-en-Amiénois, Senlis-le-Sec, Toutencourt, Belle-Église (Arquèves), Puchevillers et Harponville (Somme)
 titre: Neige à Acheux ; réunion des réfugiés d'Englebelmer à Toutencourt
 transcription: |
   \sl{12 Mardi} \hfill Dec^{b} \sl{1916}
@@ -30,14 +30,6 @@ transcription: |
   \ind Nuit, extt noire. Routes, lamentablt sales
   Essui\inc{e-mains} : 90c —
 apparat:
-- ligne: 1
-  lemme: Dec^{b}
-  type: abreviation
-  note: décembre
-- ligne: 9
-  lemme: Me –
-  type: abreviation
-  note: mercredi ; point abréviatif réduit à un court trait bas
 - ligne: 10
   lemme: meeting
   type: emprunt
@@ -55,7 +47,7 @@ apparat:
   type: lecture
   note: 'fin coupée au bord du feuillet ; autre lecture : essuie-main'
 historique: |
-  Senlis-le-Sec, à 6~km au sud-sud-est d'Acheux, abrite depuis le 1\textsuperscript{er} décembre le QG du IV Corps (LLT). Toutencourt est le siège du QG de la Fifth Army (voir f.~49~v\textsuperscript{o}). Englebelmer, à 5,5~km à l'est d'Acheux, a été évacué : le 7, la troupe seule l'occupait (voir f.~54~r\textsuperscript{o}). La présence du major Levy, chef de l'\textit{Army Purchase Board} de Raincheval (voir f.~46~r\textsuperscript{o}), suggère que la réunion portait sur l'achat ou l'indemnisation des récoltes et fourrages restés au village. Les dossiers de la Mission sur les réfugiés et les réquisitions sont au SHD, 17~N 393-395 (Nicot 1972, p.~263-269). Belle-Église est un hameau d'Arquèves (voir f.~47~v\textsuperscript{o}).
+  Senlis-le-Sec, à 6~km au sud-sud-est d'Acheux, abrite depuis le 1\textsuperscript{er}~décembre le QG du IV~Corps (LLT). Toutencourt est le siège du QG de la Fifth Army (voir f.~49~v\textsuperscript{o}). Englebelmer, à 5,5~km à l'est d'Acheux, a été évacué : le 7, la troupe seule l'occupait (voir f.~54~r\textsuperscript{o}). La présence du major Levy, chef de l'\textit{Army Purchase Board} de Raincheval (voir f.~46~r\textsuperscript{o}), suggère que la réunion portait sur l'achat ou l'indemnisation des récoltes et fourrages restés au village. Les dossiers de la Mission sur les réfugiés et les réquisitions sont au SHD, 17~N 393--395 (Nicot 1972, p.~263--269). Belle-Église est un hameau d'Arquèves (voir f.~47~v\textsuperscript{o}).
 sources:
 - Baker, C., The Long, Long Trail, « The British IV Corps in France and Flanders » (copie Wayback de déc. 2021).
 - Nicot, J., Schillinger, P., Ficat, J., Inventaire sommaire des archives de la guerre 1914-1918. Grand quartier général des armées alliées (15 N), GQG (16 N), Missions militaires françaises (17 N), Vincennes, Service historique de l'Armée, 1972, p. 263-269.

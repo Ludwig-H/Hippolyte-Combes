@@ -2,7 +2,7 @@ cliche: 169
 fichier: 20251126_111321.jpg
 date: Vendredi 16 – samedi 17 mars 1917
 mois: Mars 1917
-lieux: Hérissart, Contay, Warloy-Baillon, Albert, Ribemont-sur-Ancre et Puchevillers (Somme)
+lieux: Hérissart, Mirvaux, Pierregot, Contay, Warloy-Baillon, Senlis-le-Sec, Albert, Ribemont-sur-Ancre, Toutencourt et Puchevillers (Somme)
 titre: Gel ; Albert, Ribemont ; à pied à Puchevillers avec le Lt Wentworth ; cavalerie
 transcription: |
   Ven. \sl{16} \hfill — \sl{Mars 1917} —
@@ -38,14 +38,6 @@ apparat:
   lemme: Early lunch
   type: emprunt
   note: déjeuner pris tôt
-- ligne: 8
-  lemme: etc. etc.
-  type: abreviation
-  note: et cetera
-- ligne: 11
-  lemme: trè
-  type: abreviation
-  note: très
 - ligne: 12
   lemme: Blacksmith
   type: emprunt
@@ -58,14 +50,6 @@ apparat:
   lemme: \inc{sac}
   type: lecture
   note: 'lecture incertaine ; autre lecture : bac'
-- ligne: 12
-  lemme: 30 c
-  type: abreviation
-  note: 30 centimes
-- ligne: 14
-  lemme: Trè
-  type: abreviation
-  note: Très
 - ligne: 15
   lemme: id.
   type: abreviation
@@ -74,28 +58,12 @@ apparat:
   lemme: \inc{=}
   type: lecture
   note: lecture incertaine ; signe = (idem, retour à pied) ou simple tiret
-- ligne: 17
-  lemme: Lt.
-  type: abreviation
-  note: lieutenant
-- ligne: 18
-  lemme: workshops
-  type: emprunt
-  note: ateliers (de réparation)
-- ligne: 21
-  lemme: c^{tes} p^{les}
-  type: abreviation
-  note: cartes postales
-- ligne: 21
-  lemme: 1^{f} + 15 c
-  type: abreviation
-  note: 1 franc plus 15 centimes
 - ligne: 22
   lemme: et a soie)
   type: ajout
-  note: complète la ligne précédente ; cartes postales, dont de soie
+  note: cartes postales, dont de soie
 historique: |
-  Le 16 mars est le premier « jour de marche » du repli allemand sur la ligne Hindenburg (OH 1917-I, p.~110--115) ; le 17, la 8th Australian Brigade entre dans Bapaume (p.~131--132). Combes revoit Albert, quittée le 2 novembre 1916 (voir f.~45~v\textsuperscript{o}) ; les Australiens qui y cantonnent relèvent du I Anzac Corps (p.~74). Ribemont-sur-Ancre : voir f.~52~v\textsuperscript{o} et 76~v\textsuperscript{o}. Les \textit{workshops} sont les ateliers du transport automobile de l'A.S.C. (Puckle 1917, p.~19--21) ; l'auto y est le 18 (voir f.~85~r\textsuperscript{o}). Le lieutenant Wentworth est peut-être l'officier australien arrivé le 6 mars (voir f.~81~v\textsuperscript{o}). La cavalerie « indigène » est indienne, peut-être de la Lucknow Cavalry Brigade, qui monte à Albert le 17 (OH 1917-I, p.~138). Les cartes « à soie » sont sans doute des cartes postales brodées.
+  Le 16~mars est le premier « jour de marche » du repli allemand sur la ligne Hindenburg (OH~\mbox{1917-I}, p.~110--115) ; le 17, la 8\textsuperscript{th} Australian Brigade entre dans Bapaume (p.~131--132). Combes revoit Albert, quittée le 2~novembre 1916 (voir f.~45~v\textsuperscript{o}) ; les Australiens qui y cantonnent relèvent du I Anzac Corps (p.~74). Ribemont-sur-Ancre : voir ff.~52~v\textsuperscript{o} et 76~v\textsuperscript{o}. Les \textit{workshops} sont les ateliers du transport automobile de l'A.S.C. (Puckle 1917, p.~19--21) ; l'auto y est le 18 (voir f.~85~r\textsuperscript{o}). Le lieutenant Wentworth est peut-être l'officier australien arrivé le 6~mars (voir f.~81~v\textsuperscript{o}). La cavalerie « indigène » est indienne, peut-être de la Lucknow Cavalry Brigade, qui monte à Albert le 17 (OH~\mbox{1917-I}, p.~138). Les cartes « à soie » sont sans doute des cartes postales brodées.
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 74, 110-115, 131-132, 138.
 - Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 19-21.

@@ -74,16 +74,16 @@ def loci_par_page(lecture: list[dict], occ: dict, info: dict[int, dict]) -> dict
             refs = []
             if i > 0:
                 m, l = pages_vues[i - 1]
-                refs.append(r"supra %s, l.~%d (p.~\pageref{cl%03d})" % (_folio(info[m]), l, m))
+                refs.append(r"supra %s, l.~%d~(p.~\pageref{cl%03d})" % (_folio(info[m]), l, m))
             if i + 1 < len(pages_vues):
                 m, l = pages_vues[i + 1]
-                refs.append(r"infra %s, l.~%d (p.~\pageref{cl%03d})" % (_folio(info[m]), l, m))
+                refs.append(r"infra %s, l.~%d~(p.~\pageref{cl%03d})" % (_folio(info[m]), l, m))
             if refs:
                 nom = e.get("court", e["nom"])
                 par_page.setdefault(n, []).append((k, d.get("pos", {}).get((n, k), 999),
-                                                   r"\textbf{%d} %s\,] cf. %s" % (k, nom, " ; ".join(refs))))
+                                                   r"\textbf{%d}~%s\,] cf. %s" % (k, nom, " ; ".join(refs))))
     # même ligne : dans l'ordre d'apparition dans la ligne
-    return {n: " — ".join(t for _, _, t in sorted(v)) + "." for n, v in par_page.items()}
+    return {n: "~— ".join(t for _, _, t in sorted(v)) + "." for n, v in par_page.items()}
 
 
 def index_latex(occ: dict, info: dict[int, dict], entites: dict) -> str:

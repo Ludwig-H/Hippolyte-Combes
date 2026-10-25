@@ -3,7 +3,7 @@ fichier: 20251126_105017.jpg
 date: Mardi 5 – mercredi 6 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Authie, Bayencourt, Coigneux et Louvencourt (Somme)
-titre: Bayencourt, Coigneux (?) dévastés ; Curtis part ; capitaine Williams, 20 ans
+titre: Bayencourt, Coigneux (?) dévastés ; Curtis part ; capitaine Williams, 20~ans
 transcription: |
   \sl{5 Mardi.} \hfill Dec^{bre} \sl{1916}
   Matinée, liberté complète \trait
@@ -27,10 +27,6 @@ transcription: |
   la guerre., Etait office boy à 50 £ a year
   \blanc{4}
 apparat:
-- ligne: 1
-  lemme: Dec^{bre}
-  type: abreviation
-  note: décembre
 - ligne: 4
   lemme: \inc{d'}
   type: lecture
@@ -39,26 +35,10 @@ apparat:
   lemme: \inc{Coigneux}
   type: lecture
   note: lecture incertaine ; aspect Coigney
-- ligne: 7
-  lemme: + de tuiles
-  type: abreviation
-  note: plus de tuiles
 - ligne: 12
   lemme: A.S.C.
   type: abreviation
   note: Army Service Corps (train des équipages britannique)
-- ligne: 13
-  lemme: merc
-  type: abreviation
-  note: mercredi
-- ligne: 13
-  lemme: 6^{h} m.
-  type: abreviation
-  note: 6 heures du matin
-- ligne: 14
-  lemme: 7^{h} \inc{1/2} m
-  type: abreviation
-  note: 7 heures et demie du matin
 - ligne: 14
   lemme: \inc{1/2}
   type: lecture
@@ -66,7 +46,7 @@ apparat:
 - ligne: 14
   lemme: A brainless
   type: emprunt
-  note: un âne sans cervelle (avec ass, l. 15)
+  note: un âne sans cervelle (avec ass, l.~15)
 - ligne: 15
   lemme: ass
   type: emprunt
@@ -80,7 +60,7 @@ apparat:
   type: emprunt
   note: par an (50 livres sterling par an)
 historique: |
-  Bayencourt et Coigneux (Somme) sont juste derrière le saillant de Gommecourt (Pas-de-Calais), tenu par les Allemands jusqu'au 27 février 1917 (CWGC, Gommecourt Wood New Cemetery) ; les « 3 kilomètre » visent sans doute leurs premières lignes, la mairie de Gommecourt étant à 5,3~km (geo.api.gouv.fr). La 31st Division tient alors le secteur d'Hébuterne (OH 1917-I, p.~66). Curtis, à Acheux depuis le 2 novembre (voir f.~45~v\textsuperscript{o}), rejoint la 152nd Company, alors que la 18th Division est au repos dans la région d'Abbeville (Nichols 1922, p.~136, 139). Les 50~£ par an du capitaine Williams (voir f.~52~v\textsuperscript{o}) font environ 1~260~F (March 1925, p.~141), moins de 3,50~F par jour.
+  Bayencourt et Coigneux (lecture incertaine), dans la Somme, sont juste derrière le saillant de Gommecourt (Pas-de-Calais), tenu par les Allemands jusqu'au 27~février 1917 (CWGC, Gommecourt Wood New Cemetery) ; les « 3~kilometre » visent sans doute leurs premières lignes, la mairie de Gommecourt étant à 5,3~km (geo.api.gouv.fr). La 31\textsuperscript{st} Division tient alors le secteur d'Hébuterne (OH~\mbox{1917-I}, p.~66). Curtis, à Acheux depuis le 2~novembre (voir f.~45~v\textsuperscript{o}), rejoint la 152\textsuperscript{nd} Company, alors que la 18\textsuperscript{th} Division est au repos dans la région d'Abbeville (Nichols 1922, p.~136, 139). Les 50~£ par an du capitaine Williams (voir f.~52~v\textsuperscript{o}) font environ 1~260~F (March 1925, p.~141), moins de 3,50~F par jour.
 sources:
 - Commonwealth War Graves Commission, notice historique « Gommecourt Wood New Cemetery » (cwgc.org).
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.

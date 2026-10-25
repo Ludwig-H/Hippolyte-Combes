@@ -5,7 +5,7 @@ mois: Février 1917
 lieux: Millau (Aveyron) ; Saint-Flour (Cantal)
 titre: Dernier jour à Millau ; cimetière, adieux ; train de nuit jusqu'à Saint-Flour
 transcription: |
-  \sl{Lundi 5} \hfill \sl{Fév 17}
+  \sl{Lundi 5} \hfill \sl{Fév '17}
   Sur pied 6^{h} –
   Me suis complu rever g^{de} chambre
   après, dejeuner, sorti av Mte et ts 2
@@ -27,26 +27,10 @@ transcription: |
   \crochet{2}Remboursé à Mte cadeaux enfants \inc{Vincens} : 6^{f}
   Gift à la bonne de Mte : 3^{f} —
 apparat:
-- ligne: 1
-  lemme: Fév 17
-  type: abreviation
-  note: février 1917
-- ligne: 7
-  lemme: 5^{h}33
-  type: abreviation
-  note: 5 heures 33
-- ligne: 9
-  lemme: 5^{h} s.
-  type: abreviation
-  note: 5 heures du soir
 - ligne: 12
   lemme: 2 Cl.
   type: abreviation
   note: deuxième classe
-- ligne: 13
-  lemme: 6^{h} 15
-  type: abreviation
-  note: 6 heures 15
 - ligne: 16
   lemme: 30 s
   type: lecture
@@ -55,16 +39,8 @@ apparat:
   lemme: \inc{Vincens}
   type: lecture
   note: 'lecture incertaine, d''après la tradition familiale ; autre lecture : Vincès'
-- ligne: 17
-  lemme: 6^{f}
-  type: abreviation
-  note: 6 francs
-- ligne: 18
-  lemme: Gift
-  type: emprunt
-  note: cadeau ; ici gratification, pourboire
 historique: |
-  Le cimetière de Millau abrite le caveau Combes, où reposent son père et sa sœur Joséphine, dont le corps y fut ramené de Nogent-le-Rotrou (\textit{PC-Bio} ; voir f.~70~v\textsuperscript{o}). « Pierre » est sans doute Pierre Calmels, frère de Marguerite, qui l'avait déjà attendu à la gare le 3 février (f.~69~v\textsuperscript{o} ; \textit{PC-Annexe}). Les « enfants Vincens » sont Germaine (voir f.~70~v\textsuperscript{o}) et Robert, enfants de Madeleine Calmels, sœur aînée de Marguerite, et du D\textsuperscript{r} Fernand Vincens, médecin à Saint-Chély-d'Apcher (Lozère) (\textit{PC-Annexe}). Le train « venant Beziers » est celui de la ligne des Causses (Béziers–Neussargues, Compagnie du Midi), par Sévérac-le-Château, Marvejols, Saint-Chély-d'Apcher et le viaduc de Garabit (Baedeker 1914, p.~282-284).
+  Le cimetière de Millau abrite le caveau Combes, où reposent son père et sa sœur Joséphine, dont le corps y fut ramené de Nogent-le-Rotrou (\mbox{PC-Bio} ; voir f.~70~v\textsuperscript{o}). « Pierre » est sans doute Pierre Calmels, frère de Marguerite, qui l'avait déjà attendu à la gare le 3~février (f.~69~v\textsuperscript{o} ; PC-Annexe). Les « enfants Vincens » sont sans doute Germaine (voir f.~70~v\textsuperscript{o}) et Robert, enfants de Madeleine Calmels, sœur aînée de Marguerite, et du D\textsuperscript{r} Fernand Vincens, médecin à Saint-Chély-d'Apcher (Lozère) (PC-Annexe). Le train « venant Beziers » est celui de la ligne des Causses (Béziers–Neussargues, Compagnie du Midi), par Sévérac-le-Château, Marvejols, Saint-Chély-d'Apcher et le viaduc de Garabit (Baedeker 1914, p.~282--284).
 sources:
 - Pierre Combes, livre familial dactylographié, annexe 2, « Les Calmels », archives familiales [PC-Annexe].
 - Baedeker, K., Southern France including Corsica. Handbook for Travellers, 6e éd., Leipzig, K. Baedeker, 1914, p. 282-284.

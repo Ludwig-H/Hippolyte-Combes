@@ -13,7 +13,7 @@ transcription: |
   Sentiers encore boueux et jonché de feuilles \inc{rouillés}.
   Feuillages épais & verts. Ds les taillis, enchevêtrt
   d'arbustes & de lianes. Des troncs énormes
-  s'élèvent très haut, arbres plusis fois
+  \sur{\ill}{s'élèvent} très haut, arbres plusis fois
   séculaires. Resté lgs ds cet océan de
   verdure. Ecouté, ravi, le bruissement
   du vent à travers les branches
@@ -26,30 +26,18 @@ transcription: |
   \ind Me plais infinit ds ma gde et
   belle chambre, 1 vrai salon
 apparat:
-- ligne: 1
-  lemme: Oct
-  type: abreviation
-  note: octobre
-- ligne: 4
-  lemme: à 1
-  type: abreviation
-  note: à une
 - ligne: 5
   lemme: parallelt
   type: abreviation
   note: parallèlement
 - ligne: 6
-  lemme: rouillés
+  lemme: \inc{rouillés}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : rousses'
+  note: 'lecture incertaine ; autres lectures : roussies, rousses'
 - ligne: 7
   lemme: enchevêtrt
   type: abreviation
   note: enchevêtrement
-- ligne: 9
-  lemme: s'élèvent
-  type: surcharge
-  note: sur une première leçon illisible
 - ligne: 9
   lemme: plusis
   type: abreviation
@@ -58,12 +46,8 @@ apparat:
   lemme: infinit
   type: abreviation
   note: infiniment
-- ligne: 20
-  lemme: 1 vrai
-  type: abreviation
-  note: un vrai
 historique: |
-  La « forêt » est sans doute le massif du bois de Ribeaucourt, qui touche Barlette, et le bois Monsieur-de-Berny qui le prolonge : c'est la partie nord de l'ancien bois de Martaineville, achetée vers 1830 par Jean-Charles de Berny (Inventaire, village de Franqueville). Le 9 au soir, la lune n'était pas encore pleine : elle le fut le 11 octobre 1916 vers 7 h, temps universel (calendrier lunaire 1916). La « gde et belle chambre » est le \textit{billet} trouvé le 6 octobre, ancien salon d'une maison tenue par une « vieille gd-mère » (voir f.~34 r\textsuperscript{o} et v\textsuperscript{o}).
+  La « forêt » est sans doute le massif du bois de Ribeaucourt, qui touche Barlette, et le bois Monsieur-de-Berny qui le prolonge : c'est la partie nord de l'ancien bois de Martaineville, achetée vers 1830 par Jean-Charles de Berny (Inventaire, village de Franqueville). Le 9 au soir, la lune n'était pas encore pleine : elle le fut le 11~octobre 1916 vers 7~h, temps universel (calendrier lunaire 1916). La « gde et belle chambre » est le \textit{billet} trouvé le 6~octobre, ancien salon d'une maison tenue par une « vieille gd-mère » (voir f.~34~r\textsuperscript{o} et v\textsuperscript{o}).
 sources:
 - Région Hauts-de-France, Inventaire général du patrimoine culturel, dossier « Le village de Franqueville », inventaire.hautsdefrance.fr.
 - Calendar-12.com, « 1916 Moon Phases » (pleine lune du 11 octobre 1916, 06 h 59 UTC), consulté en octobre 2026.

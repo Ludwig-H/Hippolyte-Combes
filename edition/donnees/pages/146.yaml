@@ -5,7 +5,7 @@ mois: Février 1917
 lieux: Amiens, Doullens, Louvencourt et Acheux-en-Amiénois (Somme)
 titre: Nuit en train ; Amiens à minuit et demi ; deux Taubes sur Louvencourt ; Acheux
 transcription: |
-  \sl{Merc. 7} – \hfill \sl{Février 1917}
+  \sl{merc. 7} – \hfill \sl{Février 1917}
   Voyagé compartiment surchauffé. Très serré.
   Impossible de fermer yeux. Froid de +
   en + vif. gelé très dur.
@@ -28,52 +28,24 @@ transcription: |
   sommaire.
   Après m'être rasé, lavé, brossé, sorti,
 apparat:
-- ligne: 3
-  lemme: +
-  type: abreviation
-  note: plus (de plus en plus vif)
-- ligne: 6
-  lemme: Y.M.C.A.
-  type: abreviation
-  note: Young Men's Christian Association (foyer du soldat)
-- ligne: 7
-  lemme: 1 h.
-  type: abreviation
-  note: une heure
-- ligne: 8
-  lemme: 2 h.
-  type: abreviation
-  note: deux heures
 - ligne: 8
   lemme: absol^{t}
   type: abreviation
   note: absolument
-- ligne: 9
-  lemme: 6^{H} 7m
-  type: abreviation
-  note: six heures sept minutes (du matin)
 - ligne: 13
   lemme: \inc{d'1}
   type: lecture
-  note: d'un ; « et 1 » possible, mais sans sens
+  note: 'lecture incertaine (d''un) ; autre lecture, sans sens : et 1'
 - ligne: 14
   lemme: taubes
   type: emprunt
   note: avions allemands (allemand Taube, « colombe »)
-- ligne: 18
-  lemme: 1^{H} \fr{1}{2}
-  type: abreviation
-  note: une heure et demie (de l'après-midi)
-- ligne: 19
-  lemme: billet
-  type: emprunt
-  note: anglais billet, cantonnement chez l'habitant
 - ligne: 20
   lemme: \inc{Carluvant}
   type: lecture
-  note: 'forme des autres occurrences ; autre lecture : Carlumont ou Corlemont'
+  note: 'lecture incertaine ; autres lectures : Carlumont, Corlemont'
 historique: |
-  Le voyage se fait en pleine vague de froid, du 16 janvier au 16 février (Barbé 1917, p.~181-182). Sur la Y.M.C.A. d'Amiens, voir f.~65~r\textsuperscript{o}. Le « train de Doullens » le ramène, sans doute par Gézaincourt, sur la voie métrique d'Albert à Doullens, qui dessert Louvencourt et Acheux-Varennes (OH 1916-I, p.~273 ; trajet inverse au f.~64~r\textsuperscript{o}). Les « taches blanches » sont les éclatements des obus antiaériens britanniques, l'\textit{Archie} (Fraser et Gibbons 1925, s.v.). Les Carluvant (forme incertaine), logeurs d'Hippolyte Combes (f.~47~r\textsuperscript{o}), ne sont pas identifiés. Le mari, tailleur (f.~51~r\textsuperscript{o}), avait annoncé le 1\textsuperscript{er} janvier qu'il devrait quitter sa maison (f.~59~r\textsuperscript{o}).
+  Le voyage se fait en pleine vague de froid, du 16~janvier au 16~février (Barbé 1917, p.~181--182). Sur la Y.M.C.A. d'Amiens, voir f.~65~r\textsuperscript{o}. Le « train de Doullens » le ramène, sans doute par Gézaincourt, sur la voie métrique d'Albert à Doullens, qui dessert Louvencourt et Acheux-Varennes (OH~\mbox{1916-I}, p.~273 ; trajet inverse au f.~64~r\textsuperscript{o}). Les « taches blanches » sont les éclatements des obus antiaériens britanniques, l'\textit{Archie} (Fraser et Gibbons 1925, s.v.). Les Carluvant (forme incertaine), logeurs d'Hippolyte Combes (f.~47~r\textsuperscript{o}), ne sont pas identifiés. Le mari, tailleur (f.~51~r\textsuperscript{o}), avait annoncé le 1\textsuperscript{er}~janvier qu'il devrait quitter sa maison (f.~59~r\textsuperscript{o}).
 sources:
 - Barbé, G., « L'hiver 1916-1917 », Journal d'agriculture pratique, n. s., t. 30, Paris, Librairie agricole de la Maison rustique, 1917, p. 181-182.
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.

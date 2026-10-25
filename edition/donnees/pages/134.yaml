@@ -31,10 +31,6 @@ transcription: |
   Brosse à dents p. Margte – 2^{f}25 – C^{tes} p^{les} : 30c
   Cartes pour visiter cryptes de St-Sernin : 1^{f} —
 apparat:
-- ligne: 2
-  lemme: 7^{H} \fr{1}{2}
-  type: abreviation
-  note: sept heures et demie
 - ligne: 10
   lemme: Marg.
   type: abreviation
@@ -43,14 +39,6 @@ apparat:
   lemme: Mad^{ne}
   type: abreviation
   note: Madeleine
-- ligne: 12
-  lemme: St-Sernin
-  type: abreviation
-  note: Saint-Sernin
-- ligne: 20
-  lemme: 9^{H} s.
-  type: abreviation
-  note: neuf heures du soir
 - ligne: 22
   lemme: Mag.
   type: abreviation
@@ -63,20 +51,8 @@ apparat:
   lemme: p.
   type: abreviation
   note: pour
-- ligne: 23
-  lemme: 2^{f}25
-  type: abreviation
-  note: 2 francs 25
-- ligne: 24
-  lemme: St-Sernin
-  type: abreviation
-  note: Saint-Sernin
-- ligne: 24
-  lemme: 1^{f}
-  type: abreviation
-  note: un franc
 historique: |
-  La « chambre rue » est celle de l'appartement de la rue de Languedoc (voir f.~31~r\textsuperscript{o}). Le panier de fleurs vient de Nice, sans doute de Mme Spagnol, non identifiée (télégramme le 31, f.~68~r\textsuperscript{o} ; mandat de 42~f le 21 février, f.~79~r\textsuperscript{o}). « Mad\textsuperscript{ne} » est sans doute Madeleine, sœur aînée de Marguerite (voir f.~66~v\textsuperscript{o}). L'entrée de la crypte de Saint-Sernin coûte 50~c (Baedeker 1912, p.~302) : le franc payé vaut sans doute deux entrées. En 1896, les parents de Combes habitaient 47, rue du Taur, entre le Capitole et Saint-Sernin (registre matricule, Toulouse, classe 1896). Labit est la « Maison universelle » d'Antoine Labit, rue d'Alsace-Lorraine (Mérimée PA31000123).
+  La « chambre rue » est celle de l'appartement de la rue de Languedoc (voir f.~31~r\textsuperscript{o}). Le panier de fleurs vient de Nice, sans doute de M\textsuperscript{me} Spagnol, non identifiée (télégramme le 31, f.~68~r\textsuperscript{o} ; mandat de 42~F le 21~février, f.~79~r\textsuperscript{o}). « Mad\textsuperscript{ne} » est sans doute Madeleine, sœur aînée de Marguerite (voir f.~66~v\textsuperscript{o}). L'entrée de la crypte de Saint-Sernin coûte 50~c (Baedeker 1912, p.~302) : le franc payé vaut sans doute deux entrées. En 1896, les parents de Combes habitaient 47, rue du Taur, entre le Capitole et Saint-Sernin (registre matricule, Toulouse, classe 1896). Labit est sans doute la « Maison universelle » d'Antoine Labit, rue d'Alsace-Lorraine (Mérimée PA31000123).
 sources:
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne. Manuel du voyageur, Leipzig, K. Baedeker, 1912, p. 302.
 - Archives départementales de la Haute-Garonne, registre matricule du recrutement de Toulouse, classe 1896, n° 911 (Combes, Marie Lucien Hippolyte).

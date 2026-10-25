@@ -6,7 +6,7 @@ lieux: Toulouse (Haute-Garonne)
 titre: Neige ; dentiste ; montre à remontoir chez Pfister ; regret de quitter Toulouse
 transcription: |
   2 \sl{Vendredi}.
-  Tjours même temps, très froid. — \hfill Février 1917 —
+  Tjours même temps, très froid. — \hfill \sl{Février 1917} —
   Neige abondamment durant matinee
   Matin & soir, venu chz dentiste, M. de Lersay,
   rue \inc{La} Fayette. Très bien soigné par j. dame,
@@ -28,7 +28,7 @@ transcription: |
   appart^{t}, rempli de souvenirs.
 apparat:
 - ligne: 5
-  lemme: La
+  lemme: \inc{La}
   type: lecture
   note: 'lecture incertaine ; autre lecture : Le'
 - ligne: 5
@@ -36,46 +36,22 @@ apparat:
   type: abreviation
   note: jeune
 - ligne: 8
-  lemme: Marg^{te}
-  type: abreviation
-  note: Marguerite (Calmels)
-- ligne: 8
-  lemme: '&c'
+  lemme: \inc{&c}
   type: lecture
   note: 'lecture incertaine ; autres lectures : do, etc.'
-- ligne: 9
-  lemme: 10^{h} s.
-  type: abreviation
-  note: dix heures du soir
-- ligne: 12
-  lemme: pendantif
-  type: graphie
-  note: pour pendentif
 - ligne: 13
   lemme: free
   type: emprunt
   note: gratuit
 - ligne: 13
-  lemme: '1'
+  lemme: \inc{1}
   type: lecture
   note: 'lecture incertaine ; autre lecture : d'''
-- ligne: 14
-  lemme: 1^{f} 30c
-  type: abreviation
-  note: 1 franc 30 centimes
-- ligne: 14
-  lemme: 20c – , 10c
-  type: abreviation
-  note: 20 centimes, 10 centimes
 - ligne: 16
   lemme: Tl^{s}
   type: abreviation
   note: Toulouse
-- ligne: 18
-  lemme: + lgs
-  type: abreviation
-  note: plus longtemps
 historique: |
-  Le jour même, la mairie demande aux habitants de balayer leur trottoir et de casser la glace des caniveaux (\textit{La Dépêche}, 2 févr. 1917, p.~4) ; sur l'hiver, voir f.~68~r\textsuperscript{o}. Le dentiste « de Lersay » n'est pas identifié ; sa note est payée le lendemain (f.~70~r\textsuperscript{o}). La montre à remontoir est sans doute celle choisie la veille (f.~68~v\textsuperscript{o}) ; l'anneau doit la suspendre au sautoir acheté en septembre 1916 (f.~28~v\textsuperscript{o}), peut-être un cadeau pour Marguerite. Les pastilles de chlorate de potasse se prenaient contre les maux de gorge. Les « 3 jours » sont ceux du séjour à Millau (f.~69~v\textsuperscript{o} à 71~v\textsuperscript{o}).
+  Le jour même, la mairie demande aux habitants de balayer leur trottoir et de casser la glace des caniveaux (\textit{La Dépêche}, 2~févr. 1917, p.~4) ; sur l'hiver, voir f.~68~r\textsuperscript{o}. Le dentiste « de Lersay » n'est pas identifié ; sa note est payée le lendemain (f.~70~r\textsuperscript{o}). La montre à remontoir est sans doute celle choisie la veille (f.~68~v\textsuperscript{o}) ; l'anneau doit la suspendre au sautoir acheté en septembre 1916 (f.~28~v\textsuperscript{o}), peut-être un cadeau pour Marguerite. Les pastilles de chlorate de potasse se prenaient contre les maux de gorge. Les « 3 jours » sont ceux du séjour à Millau (f.~69~v\textsuperscript{o} à 71~v\textsuperscript{o}).
 sources:
 - La Dépêche (Toulouse), 2 févr. 1917, p. 4, « Neiges et glaces. Note de la mairie » (Rosalis, ark:/12148/bpt6k4146925x).

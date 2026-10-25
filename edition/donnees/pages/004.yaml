@@ -8,7 +8,7 @@ transcription: |
   \sl{27 J} \hfill \sl{Juillet /16}
   Aussitot après breakfast, venu à pied
   à Renescure Tjours meme temps gris et
-  saturé de mélancolie
+  saturé de mélancolie.
   Village très intéressant
   2 superbes chateaux M-Age – fossé entourant
   chateau – tours à chaque angle du carré –
@@ -44,60 +44,24 @@ apparat:
   lemme: cottage
   type: emprunt
   note: maisonnette
-- ligne: 18
-  lemme: 1^{f}50
-  type: abreviation
-  note: 1 franc 50
 - ligne: 19
   lemme: carnets timbres-postes
   type: lecture
-  note: signe entre les mots rapporté au f de la l. 20 ; ou esperluette
-- ligne: 19
-  lemme: 2^{f} + 2^{f}
-  type: abreviation
-  note: 2 francs + 2 francs
-- ligne: 20
-  lemme: Cartes p^{les}
-  type: abreviation
-  note: cartes postales
-- ligne: 20
-  lemme: 1^{f}20
-  type: abreviation
-  note: 1 franc 20
+  note: signe entre les mots rapporté au f de la l.~20 ; ou esperluette
 - ligne: 20
   lemme: C. P
   type: abreviation
-  note: cartes postales
-- ligne: 21
-  lemme: C. p^{les}
-  type: abreviation
-  note: cartes postales
-- ligne: 21
-  lemme: varia
-  type: emprunt
-  note: divers (latin)
-- ligne: 22
-  lemme: C. p^{les}
-  type: abreviation
-  note: cartes postales
-- ligne: 22
-  lemme: 1^{f}50
-  type: abreviation
-  note: 1 franc 50
+  note: cartes postales (de même C. p^{les}, l.~21--22)
 - ligne: 23
   lemme: Cte
   type: abreviation
   note: carte
 - ligne: 23
-  lemme: elastiq
-  type: abreviation
-  note: élastiques
-- ligne: 23
-  lemme: elastiq
+  lemme: \inc{elastiq}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : elastics'
+  note: 'élastiques ; lecture incertaine ; autre lecture : elastics'
 historique: |
-  À Renescure (4 km de Lynde, OSM), les deux châteaux sont le château de Zuthove, entouré de douves (Mérimée PA00107784), et le château dit de Philippe de Comines (Mérimée PA00107783), où le chroniqueur naquit avant 1447 (Feller-Vest 2015). L'église à double nef est Notre-Dame-de-l'Assomption (Palissy). À Hazebrouck, l'église de la grand-place est Saint-Éloi, du XV\textsuperscript{e}~s. (Mérimée PA00107549). La solde de 84 fr. est le premier des dix-neuf versements de la Mission militaire française notés dans le carnet ; peut-être seize jours à 5~F~25 (calcul de l'éditeur). La carte d'état-major est une feuille au 1/80~000 (\textit{French-English Dictionary} 1919, s.v. « Carte »).
+  À Renescure (4~km de Lynde, OSM), les deux châteaux sont le château de Zuthove, entouré de douves (Mérimée PA00107784), et le château dit de Philippe de Comines (Mérimée PA00107783), où le chroniqueur naquit avant 1447 (Feller-Vest 2015). L'église à double nef est Notre-Dame-de-l'Assomption (Palissy). À Hazebrouck, l'église de la grand-place est Saint-Éloi, du XV\textsuperscript{e}~s. (Mérimée PA00107549). La solde de 84~F est le premier des dix-neuf versements de la Mission militaire française notés dans le carnet ; peut-être seize jours à 5~F~25 (calcul de l'éditeur). La carte d'état-major est une feuille au 1/80~000 (\textit{French-English Dictionary} 1919, s.v. « Carte »).
 sources:
 - Ministère de la Culture, base Mérimée, notices PA00107784 (château de Zuthove, Renescure), PA00107783 (château dit de Philippe de Comines, Renescure), PA00107549 (église Saint-Éloi, Hazebrouck).
 - Ministère de la Culture, base Palissy, objets mobiliers de la commune de Renescure (église Notre-Dame-de-l'Assomption).

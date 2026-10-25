@@ -2,7 +2,7 @@ cliche: 98
 fichier: 20251126_104801.jpg
 date: Dimanche 12 et mardi 14 novembre 1916
 mois: Novembre 1916
-lieux: Acheux-en-Amiénois, Contay, Beauquesne ? et Doullens (Somme) ; Frévent (Pas-de-Calais)
+lieux: Acheux-en-Amiénois, Varennes, Contay, Beauquesne ?, Raincheval et Doullens (Somme) ; Frévent (Pas-de-Calais)
 titre: Course à Beauquesne (?) ; bombardement vers Beaumont ; Doullens et Frévent
 transcription: |
   \sl{Dim. 12.} \hfill \sl{Novembre 1916}
@@ -28,7 +28,7 @@ transcription: |
   ciel nuageux – pluie menacé tt le jour.
   A Doullens, grande foire
   \ind A Frévent, promené passim — Petite
-  ville assz coquette belle église, \inc{catéchismes} & un \inc{carillon} —
+  ville assz coquette belle église, \inc{catéchumènes} & un \inc{camion} —
   — Boutons simili cuir : 4^{f} 75 (10 \add{0.40} \inc{gd}, 3 \add{0.25} petit\lac
   \crochet{2}Cartes ple : 40c – 1 50 et 10c
   Déjeuner à l'hôtel d'Amiens, ma part : 7 fr
@@ -36,11 +36,7 @@ apparat:
 - ligne: 7
   lemme: Beauq\lac
   type: lecture
-  note: fin du mot hors champ ; Beauquesne probable ; Beaucourt-sur-l'Hallue possible
-- ligne: 11
-  lemme: 40 c
-  type: abreviation
-  note: 40 centimes
+  note: fin du mot non visible ; Beauquesne probable ; Beaucourt-sur-l'Hallue possible
 - ligne: 12
   lemme: khaki
   type: emprunt
@@ -49,10 +45,6 @@ apparat:
   lemme: '14'
   type: lecture
   note: date assurée par la suite des jours
-- ligne: 13
-  lemme: Ma^{rdi}
-  type: abreviation
-  note: Mardi
 - ligne: 13
   lemme: principt
   type: abreviation
@@ -77,26 +69,14 @@ apparat:
   lemme: \del{\inc{autos}}
   type: lecture
   note: lecture conjecturale sous une biffure très chargée
-- ligne: 18
-  lemme: 8^{h}
-  type: abreviation
-  note: 8 heures
-- ligne: 18
-  lemme: 5^{h}
-  type: abreviation
-  note: 5 heures
-- ligne: 21
-  lemme: passim
-  type: emprunt
-  note: çà et là (latin)
 - ligne: 22
-  lemme: \inc{catéchismes}
+  lemme: \inc{catéchumènes}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : catéchumènes'
+  note: 'lecture incertaine ; autre lecture : catéchismes'
 - ligne: 22
-  lemme: \inc{carillon}
+  lemme: \inc{camion}
   type: lecture
-  note: 'lecture incertaine ; autres lectures : camion, canon'
+  note: 'lecture incertaine ; autres lectures : carillon, canon'
 - ligne: 23
   lemme: 4^{f} 75
   type: compte
@@ -108,23 +88,11 @@ apparat:
 - ligne: 23
   lemme: petit\lac
   type: lecture
-  note: fin de ligne hors champ
-- ligne: 24
-  lemme: Cartes ple
-  type: abreviation
-  note: cartes postales
-- ligne: 24
-  lemme: 1 50 et 10c
-  type: ajout
-  note: au-dessus de la ligne, sans doute ajouté ; 1 franc 50 et 10 centimes
-- ligne: 25
-  lemme: 7 fr
-  type: abreviation
-  note: 7 francs
+  note: fin de ligne non visible
 critique: |
-  Le lundi 13 n'a pas d'entrée ; « Tout hier » (l. 13) s'y rapporte.
+  Le lundi 13 n'a pas d'entrée ; « Tout hier » (l.~13) s'y rapporte.
 historique: |
-  Le lundi 13 s'ouvre la bataille de l'Ancre : la 51st (Highland) Division prend Beaumont-Hamel, à 9~km à l'est d'Acheux, et la 63rd (Royal Naval) Division atteint les abords de Beaucourt, enlevé le 14 ; on compte plus de 7~200 prisonniers (Haig 1919, p.~49--51 ; OH 1916-II, p.~476--505). Les blessés vont aux hôpitaux d'évacuation de Varennes, Contay, Puchevillers et Gézaincourt, ou aux hôpitaux stationnaires de Doullens (OH 1916-II, p.~541). La course du 12 mène sans doute à Beauquesne, QG avancé de Haig (voir f.~38~r\textsuperscript{o}). La « belle église » de Frévent est Saint-Hilaire (Mérimée PA00108287). Les interprètes portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, p.~XIII).
+  Le lundi 13 s'ouvre la bataille de l'Ancre : la 51\textsuperscript{st} (Highland) Division prend Beaumont-Hamel, à 9~km à l'est d'Acheux, et la 63\textsuperscript{rd} (Royal Naval) Division atteint les abords de Beaucourt, enlevé le 14 ; on compte plus de 7~200 prisonniers (Haig 1919, p.~49--51 ; OH~\mbox{1916-II}, p.~476--505). Les blessés vont aux hôpitaux d'évacuation de Varennes, Contay, Puchevillers et Gézaincourt, ou aux hôpitaux stationnaires de Doullens (OH~\mbox{1916-II}, p.~541). La course du 12 mène sans doute à Beauquesne, QG avancé de Haig (voir f.~38~r\textsuperscript{o}). La « belle église » de Frévent est Saint-Hilaire (Mérimée PA00108287). Les interprètes portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, p.~XIII).
 sources:
 - Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), London, Dent, 1919, p. 49-51.
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 476-505, 541.

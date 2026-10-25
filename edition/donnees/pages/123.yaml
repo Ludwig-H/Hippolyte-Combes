@@ -31,10 +31,6 @@ transcription: |
   \equerre{2}— 2 douz. c^{tes} p^{les} : \inc{1^{f}} — \hfill — Lunch 1^{f}90
   — 1 plaque chocolat : \inc{65} c
 apparat:
-- ligne: 1
-  lemme: Janv. 17
-  type: abreviation
-  note: janvier 1917
 - ligne: 6
   lemme: V^{e} corps
   type: abreviation
@@ -58,7 +54,7 @@ apparat:
 - ligne: 15
   lemme: pittoresq
   type: abreviation
-  note: pittoresques (mot suspendu en fin de ligne)
+  note: pittoresques
 - ligne: 19
   lemme: au \fr{1}{2}
   type: abreviation
@@ -72,10 +68,6 @@ apparat:
   type: abreviation
   note: douzaines
 - ligne: 22
-  lemme: c^{tes} p^{les}
-  type: abreviation
-  note: cartes postales
-- ligne: 22
   lemme: \inc{1^{f}}
   type: lecture
   note: 'lecture incertaine ; autre lecture : 1 5'
@@ -84,7 +76,7 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : 60 c'
 historique: |
-  Le « bureau mission V\textsuperscript{e} corps » est celui de la Mission française auprès du V Corps. Son QG est revenu la veille de Doullens à Acheux (LLT) : le V Corps reprend au nord de l'Ancre le secteur du XIII Corps (OH 1917-I, p. 69), dont le bureau payait encore Hippolyte Combes le 5 janvier (f. 60 r\textsuperscript{o}). Le capitaine Huguet, qui l'avait convoqué le 5 novembre 1916 (f. 47 r\textsuperscript{o}), n'est pas identifié ; rien ne le rattache au général Victor Huguet. Beaucourt et Montigny sont ceux de l'Hallue (voir f. 59 v\textsuperscript{o}). Le départ du 26 est celui de la seconde permission ; Hippolyte Combes rentrera le 7 février. La neige du 14 ouvre un grand gel d'un mois (OH 1917-I, p. 66). Les cartes postales reviennent à 4 c pièce.
+  Le « bureau mission V\textsuperscript{e} corps » est celui de la Mission française auprès du V Corps. Son QG est revenu la veille de Doullens à Acheux (LLT) : le V Corps reprend au nord de l'Ancre le secteur du XIII~Corps (OH~\mbox{1917-I}, p.~69), dont le bureau payait encore Hippolyte Combes le 5~janvier (f.~60~r\textsuperscript{o}). Le capitaine Huguet, qui l'avait convoqué le 5~novembre 1916 (f.~47~r\textsuperscript{o}), n'est pas identifié ; rien ne le rattache au général Victor Huguet. Beaucourt et Montigny sont ceux de l'Hallue (voir f.~59~v\textsuperscript{o}). Le départ du 26 est celui de la seconde permission ; Hippolyte Combes rentrera le 7~février. La neige du 14 ouvre un grand gel d'un mois (OH~\mbox{1917-I}, p.~66). Si la somme est bien de 1~F, les cartes postales reviennent à un peu plus de 4~c pièce.
 sources:
 - Baker, C., « The British V Corps in France and Flanders », The Long, Long Trail, https://www.longlongtrail.co.uk (copie Wayback du 5 août 2020).
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 66, 69.

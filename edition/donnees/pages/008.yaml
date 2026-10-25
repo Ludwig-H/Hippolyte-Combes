@@ -26,14 +26,6 @@ transcription: |
   \filet
   \blanc{8}
 apparat:
-- ligne: 1
-  lemme: Mar
-  type: abreviation
-  note: mardi
-- ligne: 8
-  lemme: 4^{h}
-  type: abreviation
-  note: quatre heures
 - ligne: 8
   lemme: 30 m.
   type: abreviation
@@ -42,10 +34,6 @@ apparat:
   lemme: \ill
   type: lecture
   note: mot non résolu ; « la » ou « là » ?
-- ligne: 15
-  lemme: cartes ples
-  type: abreviation
-  note: cartes postales
 - ligne: 16
   lemme: '"'
   type: abreviation
@@ -58,12 +46,8 @@ apparat:
   lemme: \inc{guetin}
   type: lecture
   note: 'lecture incertaine ; autre lecture : Guethin'
-- ligne: 16
-  lemme: 1^{f} 20c
-  type: abreviation
-  note: 1 franc 20 centimes
 historique: |
-  Hippolyte Combes va à pied à Bailleul (Nord), à 3 km environ de son cantonnement. Occupée par les Britanniques le 14 octobre 1914, la ville est en 1916 un centre ferroviaire, aérien et hospitalier et le siège d'un QG de corps d'armée ; elle tombe le 15 avril 1918, pendant la bataille de la Lys (CWGC, Bailleul Communal Cemetery Extension). Rasée à 98 \% en 1918, elle reconstruit son hôtel de ville en 1929 (Mérimée PA00107358, PA59000232). Sur l'église Saint-Vaast, voir f. 4 v\textsuperscript{o}. Combes a servi dans le secteur de Béthune en mai–juillet 1915 auprès du \textit{1\textsuperscript{st} Battalion, Irish Guards} (voir f. 46 v\textsuperscript{o}). Les « pattes cuivre » (lecture incertaine) achetées chez M. Guetin, commerçant non identifié, sont peut-être des patères pour le « garret ».
+  Hippolyte Combes va à pied à Bailleul (Nord), à 3~km environ de son cantonnement. Occupée par les Britanniques le 14~octobre 1914, la ville est en 1916 un centre ferroviaire, aérien et hospitalier et le siège d'un QG de corps d'armée ; elle tombe le 15~avril 1918, pendant la bataille de la Lys (CWGC, Bailleul Communal Cemetery Extension). Rasée à 98 \% en 1918, elle reconstruit son hôtel de ville en 1929 (Mérimée PA00107358, PA59000232). Sur l'église Saint-Vaast, voir f.~4~v\textsuperscript{o}. Combes a servi dans le secteur de Béthune en mai–juillet 1915 auprès du \textit{1\textsuperscript{st} Battalion, Irish Guards} (voir f.~46~v\textsuperscript{o}). Les « pattes cuivre » (lecture incertaine) achetées chez M. Guetin, commerçant non identifié, sont peut-être des patères pour le « garret ».
 sources:
 - Commonwealth War Graves Commission, Bailleul Communal Cemetery Extension (Nord), historique du cimetière, fiche 2000048.
 - Ministère de la Culture, base Mérimée (POP), notices PA00107358 (beffroi et hôtel de ville de Bailleul) et PA59000232 (monument aux morts de Bailleul).

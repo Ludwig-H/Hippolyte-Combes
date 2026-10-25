@@ -27,10 +27,6 @@ transcription: |
   vue campagne très etendue
   ouest d Armentières \trait
 apparat:
-- ligne: 1
-  lemme: Aout /16
-  type: abreviation
-  note: août 1916
 - ligne: 6
   lemme: \del{\inc{décapité}}
   type: rature
@@ -42,7 +38,7 @@ apparat:
 - ligne: 8
   lemme: Barbry
   type: lecture
-  note: y final peu formé ; même nom aux f. 11 v° et 12 r°
+  note: y final peu formé ; même nom aux ff.~11~v\textsuperscript{o} et 12~r\textsuperscript{o}
 - ligne: 11
   lemme: bombard^{t}
   type: abreviation
@@ -50,10 +46,9 @@ apparat:
 - ligne: 12
   lemme: \sur{\inc{relative}}{perpétuelle}
   type: surcharge
-  note: 'perpétuelle sur relative non biffé (lecture probable ; autre lecture : continuelle)'
+  note: 'écrit sur « relative », non biffé (lecture probable ; autre lecture : continuelle)'
 historique: |
-  Le bombardement touche l'arrière d'un secteur calme : le 9 août, « about 50 heavy shells » étaient tombés sur Armentières (JMO 7/Bedf, 9 août 1916), et le QG de la division « received some attention from enemy artillery » (Banks \& Chell 1924, p. 142). Le soldat de la « maison du coin » n'est pas identifié. La blanchisserie se rattache sans doute aux blanchisseurs Barbry de la rue de la Lys, à Sailly-sur-la-Lys, à 1,5 km environ de La Croix-du-Bac (répertoire SIRENE). Hippolyte Combes y repasse le 19 et prend un café chez « M. Barbry » le 20 (voir f. 11 v\textsuperscript{o} et 12 r\textsuperscript{o}). Le départ prévu le dimanche 13 n'a pas lieu : la compagnie ne quitte la Lys que le 25 août.
+  Le bombardement touche l'arrière d'un secteur calme : Armentières avait déjà reçu des obus lourds le 9~août (voir f.~8~r\textsuperscript{o}), et le QG de la division « received some attention from enemy artillery » (Banks \& Chell 1924, p.~142). Le soldat de la « maison du coin » n'est pas identifié. La blanchisserie se rattache sans doute aux blanchisseurs Barbry de la rue de la Lys, à Sailly-sur-la-Lys, à 1,5~km environ de La Croix-du-Bac (répertoire SIRENE). Hippolyte Combes y repasse le 19 et prend un café chez « M. Barbry » le 20 (voir ff.~11~v\textsuperscript{o} et 12~r\textsuperscript{o}). Le départ prévu le dimanche 13 n'a pas lieu : la compagnie ne quitte la Lys que le 25~août.
 sources:
-- 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (transcription en ligne).'
 - Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., London, Gay & Hancock, 1924, p. 142.
 - INSEE, répertoire SIRENE (annuaire-entreprises.data.gouv.fr), établissements Barbry, rue de la Lys, Sailly-sur-la-Lys, consulté le 18 oct. 2026.

@@ -37,7 +37,7 @@ apparat:
 - ligne: 4
   lemme: entier^{t}
   type: abreviation
-  note: entièrement (t suscrit barré)
+  note: entièrement
 - ligne: 6
   lemme: cap. W^{m}
   type: abreviation
@@ -46,10 +46,6 @@ apparat:
   lemme: tr
   type: abreviation
   note: très
-- ligne: 8
-  lemme: 6^{H} s
-  type: abreviation
-  note: six heures du soir
 - ligne: 8
   lemme: f^{se}
   type: abreviation
@@ -61,7 +57,7 @@ apparat:
 - ligne: 9
   lemme: \inc{Granger}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : Grauger (de même l. 11)'
+  note: 'lecture incertaine ; autre lecture : Grauger (de même l.~11)'
 - ligne: 10
   lemme: \inc{Renouleau}
   type: lecture
@@ -75,41 +71,21 @@ apparat:
   type: abreviation
   note: renseignements
 - ligne: 11
-  lemme: marl
-  type: abreviation
-  note: maréchal (des logis)
-- ligne: 11
   lemme: \inc{Granger}
   type: lecture
-  note: 'même nom qu''à la l. 9 ; autre lecture : Grauger'
+  note: 'même nom qu''à la l.~9 ; autre lecture : Grauger'
 - ligne: 13
   lemme: intpte
   type: abreviation
   note: interprète
-- ligne: 14
-  lemme: 3^{f} + 1^{f} 50
-  type: abreviation
-  note: 3 francs + 1 franc 50
-- ligne: 15
-  lemme: Carte ple
-  type: abreviation
-  note: carte postale
 - ligne: 15
   lemme: 1fc.
   type: abreviation
-  note: 1 franc (f suivi d'une petite lettre ouverte, c ou r réduit)
-- ligne: 15
-  lemme: ': 1^{f}'
-  type: abreviation
-  note: 1 franc
+  note: '1~franc ; autre lecture : 1fr.'
 - ligne: 16
   lemme: wounded
   type: emprunt
   note: blessés
-- ligne: 16
-  lemme: 50c
-  type: abreviation
-  note: 50 centimes
 - ligne: 17
   lemme: auxil^{re}
   type: abreviation
@@ -118,12 +94,8 @@ apparat:
   lemme: \inc{des}
   type: lecture
   note: 'lecture incertaine ; autre lecture : du'
-- ligne: 25
-  lemme: 4^{H}
-  type: abreviation
-  note: quatre heures
 historique: |
-  L'officier australien est peut-être le « Lt. Wentworth » nommé à partir du 17 mars (voir f.~84~v\textsuperscript{o}). Le nouvel interprète est soit Evar, qui revient le 8 avec Valet, interprète de la 2nd Australian Division, soit Valet lui-même (voir f.~82~r\textsuperscript{o}). Relevé, Combes cherche une affectation auprès de la Mission française de la Fifth Army à Toutencourt (voir f.~75~r\textsuperscript{o}), qui tient les fiches et carnets de notes des interprètes (SHD, GR 17 N 447-448, 463-479). Le maréchal des logis « Granger » et le capitaine « Renouleau », de lecture incertaine, ne sont pas identifiés. Doullens, à 15~km au nord-nord-ouest, avait des hôpitaux militaires français et britanniques (CWGC) ; l'hôpital auxiliaire n'est pas identifié. Sur les pastilles de chlorate de potasse, voir f.~69~r\textsuperscript{o}.
+  L'officier australien est peut-être le « Lt. Wentworth » nommé à partir du 17~mars (voir f.~84~v\textsuperscript{o}). Le nouvel interprète est soit Evar (?), qui revient le 8 avec Valet, interprète de la 2\textsuperscript{nd} Australian Division, soit Valet lui-même (voir f.~82~r\textsuperscript{o}). Relevé, Combes cherche une affectation auprès de la Mission française de la Fifth Army à Toutencourt (voir f.~75~r\textsuperscript{o}), qui tient les fiches et carnets de notes des interprètes (SHD, GR 17 N 447--448, 463--479). Le maréchal des logis « Granger » et le capitaine « Renouleau », de lecture incertaine, ne sont pas identifiés. Doullens, à 15~km au nord-nord-ouest, avait des hôpitaux militaires français et britanniques (CWGC) ; l'hôpital auxiliaire n'est pas identifié. Sur les pastilles de chlorate de potasse, voir f.~69~r\textsuperscript{o}.
 sources:
 - Nicot, J., Schillinger, P., Ficat, J., Inventaire sommaire des archives de la guerre 1914-1918. Grand quartier général des armées alliées (15 N), GQG (16 N), Missions militaires françaises (17 N), Vincennes, Service historique de l'Armée, 1972, p. 263-269.
 - Commonwealth War Graves Commission, Doullens Communal Cemetery Extension No. 1, notice historique (cwgc.org).

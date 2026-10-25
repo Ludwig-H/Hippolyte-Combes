@@ -3,7 +3,7 @@ fichier: 20251126_111614.jpg
 date: Mercredi 11 – vendredi 13 avril 1917
 mois: Avril 1917
 lieux: Hérissart, Doullens, Warloy-Baillon et Belle-Église (Arquèves, Somme)
-titre: Neige le 11 ; achats à Doullens ; dégel ; conversation avec le Lt Gilbert
+titre: Neige le 11 ; achats à Doullens ; dégel ; conversation avec le lieutenant Gilbert
 transcription: |
   \sl{Merc 11} — \hfill — \sl{Avril 1917} —
   nuit très froide
@@ -33,11 +33,7 @@ transcription: |
   de Jersey, il est très instruit et poète \trait
 apparat:
 - ligne: 9
-  lemme: (canteen)
-  type: emprunt
-  note: cantine
-- ligne: 9
-  lemme: farine
+  lemme: \inc{farine}
   type: lecture
   note: 'lecture incertaine ; autres lectures : pain, fécule'
 - ligne: 10
@@ -51,7 +47,7 @@ apparat:
 - ligne: 10
   lemme: 60..
   type: abreviation
-  note: 60 centimes
+  note: 60~centimes
 - ligne: 10
   lemme: p^{les}
   type: abreviation
@@ -69,7 +65,7 @@ apparat:
   type: abreviation
   note: 'Second Lieutenant : sous-lieutenant britannique'
 historique: |
-  La neige du 11 avril tombe le jour où la 4th Australian Division attaque Bullecourt avec des chars ; l'histoire officielle juge une neige d'avril « rare en Picardie » (OH 1917-I, p.~161, 364). À Doullens, à une quinzaine de kilomètres au nord d'Hérissart, la boîte « (canteen) » vient sans doute d'une \textit{Expeditionary Force Canteen}, qui vendait les produits britanniques près du prix coûtant (Fernand-Laurent 1917, p.~82-83 ; Fortescue 1928, p.~52-53). Warloy a un aérodrome du Royal Flying Corps (No.~4 Squadron : Jones 1931, app.~XII). Le \textit{Second Lieutenant} Gilbert, « de Jersey », revu jusqu'au 30 avril, n'est pas identifié : aucun des cinq officiers de l'A.S.C. de ce nom n'est relié à Jersey (TNA, WO 339).
+  La neige du 11~avril tombe le jour où la 4\textsuperscript{th} Australian Division attaque Bullecourt avec des chars ; l'histoire officielle juge une neige d'avril « rare en Picardie » (OH~\mbox{1917-I}, p.~161, 364). À Doullens, à une quinzaine de kilomètres au nord d'Hérissart, la boîte « (canteen) » vient sans doute d'une \textit{Expeditionary Force Canteen}, qui vendait les produits britanniques près du prix coûtant (Fernand-Laurent 1917, p.~82--83 ; Fortescue 1928, p.~52--53). Warloy a un aérodrome du Royal Flying Corps (No.~4 Squadron : Jones 1931, app.~XII). Le \textit{Second Lieutenant} Gilbert, « de Jersey », revu jusqu'au 30~avril, n'est pas identifié : aucun des cinq officiers de l'A.S.C. de ce nom n'est relié à Jersey (TNA, WO 339).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 161, 361-364.
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 82-83.

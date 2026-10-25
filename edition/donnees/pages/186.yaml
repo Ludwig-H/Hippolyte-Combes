@@ -3,7 +3,7 @@ fichier: 20251126_111833.jpg
 date: Lundi 30 avril 1917
 mois: Avril 1917
 lieux: Hérissart, Vadencourt, Warloy-Baillon, Hénencourt, Millencourt, Laviéville, Puchevillers, Pierregot et Villers-Bocage (Somme)
-titre: 'Dernier jour du carnet : tournées en auto, l''après-midi avec le Lt Gilbert'
+titre: 'Dernier jour du carnet : tournées en auto, l''après-midi avec le lieutenant Gilbert'
 transcription: |
   \sl{30 Lundi.} \hfill \sl{Avril 1917} —
   \ind Aujourd'hui encore, temps magnifique
@@ -27,14 +27,14 @@ apparat:
 - ligne: 12
   lemme: \inc{dinner}
   type: lecture
-  note: quatre jambages après le d ; « diner » possible
+  note: 'lecture incertaine ; autre lecture : diner'
 - ligne: 12
-  lemme: tea-dinner
+  lemme: tea-\inc{dinner}
   type: emprunt
   note: repas du soir tenant lieu de thé et de dîner
-critique: Seul le recto de ce feuillet a été photographié.
+critique: Le texte s'arrête au recto de ce dernier feuillet.
 historique: |
-  Le carnet s'achève à la date inscrite sur sa couverture (« Du 25 juillet 1916 au 30 avril 1917 »). On ignore s'il eut une suite : la plupart des papiers d'Hippolyte Combes ont été détruits en 1970--1971 (P. Combes, livre familial). Les villages du matin, à l'ouest d'Albert, avaient été trouvés vides le 19 avril (voir f.~90 v\textsuperscript{o}). Puchevillers avait accueilli les hôpitaux d'évacuation n\textsuperscript{os}~3 et 44 jusqu'en mars ; le n\textsuperscript{o}~61 y reste jusqu'en mai (LLT). Hippolyte Combes épouse Marguerite Calmels à Millau le 25 octobre 1917 (menu des noces). Interprète jusqu'au 11 novembre 1918, il est envoyé le 24 novembre comme professeur d'anglais à l'École militaire préparatoire des Andelys (registre matricule n\textsuperscript{o}~911).
+  Le carnet s'achève à la date inscrite sur sa couverture (« Du 25 juillet 1916 au 30 avril 1917 »). On ignore s'il eut une suite : la plupart des papiers d'Hippolyte Combes ont été détruits en 1970--1971 (P. Combes, livre familial). Les villages du matin, à l'ouest d'Albert, avaient été trouvés vides le 19~avril (voir f.~90~v\textsuperscript{o}). Puchevillers avait accueilli les hôpitaux d'évacuation n\textsuperscript{os}~3 et 44 jusqu'en mars ; le n\textsuperscript{o}~61 y reste jusqu'en mai (LLT). Hippolyte Combes épouse Marguerite Calmels à Millau le 25~octobre 1917 (menu des noces). Interprète jusqu'au 11~novembre 1918, il est envoyé le 24~novembre comme professeur d'anglais à l'École militaire préparatoire des Andelys (registre matricule n\textsuperscript{o}~911).
 sources:
 - Baker, C., The Long, Long Trail, « Locations of British Casualty Clearing Stations » (copie Wayback Machine du 13 janvier 2018).
 - Archives départementales de la Haute-Garonne, registre matricule du recrutement de Toulouse, classe 1896, n° 911 (Combes, Marie Lucien Hippolyte).

@@ -2,40 +2,26 @@
 
 \subsection{Un petit carnet relié en tête}
 
-Le \textit{Livre-Journal} est un carnet de poche dont les feuillets étaient attachés par le haut, comme un bloc-notes : on écrivait le recto, puis on rabattait le feuillet par-dessus la reliure pour écrire le verso. Les feuillets sont aujourd'hui libres, ce qui explique que certaines faces aient été photographiées dans le désordre. Le plat supérieur de la couverture, en papier rouge gaufré à losanges, porte une étiquette bleue où Hippolyte Combes a écrit le titre et les dates du carnet : \textit{Livre - Journal | Du 25 juillet 1916 | au 30 avril 1917}. Les dimensions de l'original n'ont pas été relevées ; les pages, en hauteur, ont un rapport largeur/hauteur d'environ 0,68.
+Le \textit{Livre-Journal} est un carnet de poche dont les feuillets étaient attachés par le haut, comme un bloc-notes : on écrivait le recto, puis on rabattait le feuillet par-dessus la reliure pour écrire le verso. Les feuillets sont aujourd'hui libres. Le plat supérieur de la couverture, en papier rouge gaufré à losanges, porte une étiquette bleue où Hippolyte Combes a écrit le titre et les dates du carnet : \textit{Livre - Journal | Du 25~juillet 1916 | Au 30~avril 1917}. Les dimensions de l'original n'ont pas été relevées ; les pages, en hauteur, ont un rapport largeur/hauteur d'environ 0,68.
 
 \begin{figure}[ht]
 \centering
 \begin{tikzpicture}[x=1mm,y=1mm,line width=0.4pt,font=\footnotesize]
-  % --- a. carnet relié en tête ---
+  % --- carnet relié en tête ---
   \begin{scope}
     \fill[gray!8] (0,0) rectangle (34,48);
     \draw (0,0) rectangle (34,48);
     \fill[gray!45] (0,46.2) rectangle (34,48.8);
     \foreach \y in {41,37,33,29,25,21,17} {\draw[gray!70] (4,\y) -- (30,\y);}
     \node[font=\scriptsize\itshape] at (17,44) {recto};
-    \draw[->,>=Stealth] (37,10) .. controls (46,30) and (44,52) .. (32,58);
     \node[align=center,font=\scriptsize] at (52,30) {le feuillet\\se rabat\\par-dessus\\la reliure};
     % feuillet rabattu (verso), au-dessus de la reliure
     \fill[gray!4] (0,48.8) rectangle (34,94);
     \draw (0,48.8) rectangle (34,94);
     \foreach \y in {89,85,81,77,73,69,65} {\draw[gray!70] (4,\y) -- (30,\y);}
     \node[font=\scriptsize\itshape] at (17,92) {verso};
-    \node[font=\scriptsize,align=center] at (17,-6) {a. carnet relié en tête :\\recto, puis verso du feuillet rabattu};
-  \end{scope}
-  % --- b. feuillets libres ---
-  \begin{scope}[xshift=72mm,yshift=20mm]
-    \draw[fill=gray!6] (0,0) rectangle (24,34);
-    \foreach \y in {29,25,21,17,13,9} {\draw[gray!70] (3,\y) -- (21,\y);}
-    \node[font=\scriptsize\itshape] at (12,31.5) {r\textsuperscript{o}};
-    \draw[fill=gray!6] (30,0) rectangle (54,34);
-    \foreach \y in {29,25,21,17,13,9} {\draw[gray!70] (33,\y) -- (51,\y);}
-    \node[font=\scriptsize\itshape] at (42,31.5) {v\textsuperscript{o}};
-    \node[font=\scriptsize] at (12,-3) {seconde prise};
-    \node[font=\scriptsize] at (42,-3) {première prise};
-    \draw[<->,>=Stealth] (12,37) .. controls (20,44) and (34,44) .. (42,37);
-    \node[font=\scriptsize,align=center] at (27,49) {photographié\\verso d'abord};
-    \node[font=\scriptsize,align=center] at (27,-26) {b. feuillets aujourd'hui libres :\\trois feuillets ont été photographiés\\dans l'ordre inverse (ff.~18, 32 et 56)};
+    \draw[->,>=Stealth] (37,10) .. controls (46,30) and (44,52) .. (32,58);
+    \node[font=\scriptsize,align=center] at (17,-6) {recto, puis verso\\du feuillet rabattu};
   \end{scope}
 \end{tikzpicture}
 \caption{Disposition matérielle du carnet relié en tête et rabattement des feuillets.}
@@ -47,11 +33,11 @@ Le carnet compte 93~feuillets écrits, soit 184~pages, plus le plat supérieur d
 
 L'écriture transparaît souvent d'une face à l'autre. En superposant à chaque page le tracé retourné des pages voisines, on reconnaît les deux faces d'un même feuillet : elles se correspondent bien mieux que deux pages qui ne sont pas dos à dos. Le retournement qui les fait coïncider est une symétrie haut-bas, et non droite-gauche, ce qui prouve que les feuillets étaient reliés en tête et que le verso était écrit après rabattement. Pour les six pages écrites en travers (ff.~37~v\textsuperscript{o}--40~r\textsuperscript{o}, du 15 au 18~octobre 1916, pendant le mouvement de la compagnie de Ribeaucourt vers Albert), la symétrie est droite-gauche : Hippolyte Combes avait tourné son carnet d'un quart de tour.
 
-Cette analyse, confirmée par la suite des dates, établit l'ordre des feuillets, que l'édition rétablit. Trois feuillets (f.~18, 3--5~septembre 1916 ; f.~32, 4--5~octobre 1916 ; f.~56, 19--24~décembre 1916) avaient été photographiés verso d'abord. Le feuillet~6 (5~août 1916) n'est écrit qu'au recto : son verso, photographié, est resté blanc, et le récit reprend le 6~août au f.~7~r\textsuperscript{o}. Seul le recto du feuillet~93 (30~avril 1917) a été photographié : c'est la dernière page écrite connue, à la date annoncée par l'étiquette. La concordance des feuillets et des pages de l'édition figure en annexe.
+Cette analyse, confirmée par la suite des dates, établit l'ordre des feuillets, que l'édition rétablit. Le feuillet~6 (5~août 1916) n'est écrit qu'au recto : son verso, photographié, est resté blanc, et le récit reprend le 6~août au f.~7~r\textsuperscript{o}. Seul le recto du feuillet~93 (30~avril 1917) a été photographié : c'est la dernière page écrite connue, à la date annoncée par l'étiquette. La concordance des feuillets et des pages de l'édition figure en annexe.
 
 \subsection{Disposition des pages}
 
-Chaque journée commence par une date soulignée en haut à gauche (jour de la semaine abrégé et quantième) ; le mois et l'année sont rappelés, soulignés, en haut à droite. Le récit, très elliptique, est le plus souvent suivi des dépenses du jour, séparées par un trait horizontal et souvent réunies par un grand crochet : blanchissage (\textit{washing}), nourriture (\textit{food}), cartes postales, pourboires au palefrenier (\textit{tip au groom}), journaux, menus achats. Une page peut contenir plusieurs journées, séparées par un filet, et une journée occuper plusieurs pages. La transcription reproduit ces traits, crochets et accolades.
+Chaque journée commence par une date soulignée en haut à gauche (jour de la semaine, souvent abrégé, et quantième) ; le mois et l'année sont rappelés, soulignés, en haut à droite. Le récit, très elliptique, est le plus souvent suivi des dépenses du jour, séparées par un trait horizontal et souvent réunies par un grand crochet : blanchissage (\textit{washing}), nourriture (\textit{food}), cartes postales, pourboires au palefrenier (\textit{tip au groom}), journaux, menus achats. Une page peut contenir plusieurs journées, séparées par un filet, et une journée occuper plusieurs pages. La transcription reproduit ces traits, crochets et accolades.
 
 \subsection{Histoire du document et de la présente édition}
 

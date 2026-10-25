@@ -50,7 +50,8 @@
 \usepackage[hyphens]{url}
 \usepackage{metalogo}
 \usepackage{hyperref}
-\hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=black!70!red,
+\urlstyle{same}% adresses dans la police du texte, partout
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=black,
   pdfauthor={Hippolyte Combes (1876–1970)},
   pdftitle={Hippolyte Combes, Livre-Journal (25 juillet 1916 – 30 avril 1917). Édition avec fac-similés, commentaire critique et historique, et illustrations}}
 
@@ -72,13 +73,15 @@
   {\Large\scshape}[\vspace{1mm}\rule{18mm}{0.4pt}]
 \titlespacing*{\chapter}{0pt}{0mm}{6mm}
 \titleformat{\section}{\normalfont\large\scshape}{\thesection.}{0.6em}{}
-\titleformat{\subsection}{\normalfont\itshape}{}{0em}{}
+\titleformat{\subsection}{\normalfont\itshape\raggedright\hyphenpenalty=10000}{}{0em}{}
 \titlespacing*{\section}{0pt}{4mm}{2mm}
 \titlespacing*{\subsection}{0pt}{3mm}{1mm}
 \renewcommand{\thechapter}{\Roman{chapter}}
 \renewcommand{\thesection}{\Roman{section}}
 \renewcommand{\thefigure}{\arabic{figure}}
 \makeatletter
+% place des numéros de page de la table : chiffres romains larges (xxviii, LXVIII)
+\renewcommand\@pnumwidth{3.6em}\renewcommand\@tocrmarg{4.6em}
 \renewcommand*\l@chapter[2]{%
   \ifnum \c@tocdepth >\m@ne
     \addpenalty{-\@highpenalty}%
@@ -133,6 +136,8 @@
 \NewDocumentCommand{\LJill}{m}{[\textit{\ifx\relax#1\relax illis.\else #1~mots illis.\fi}]}
 \newcommand{\LJlac}{[\textit{lacune}]}
 \newcommand{\LJtrait}{\leaders\hbox{\rule[0.48ex]{1pt}{0.42pt}}\hfill\kern0.2em}
+% trait au milieu d'une ligne (suivi de texte) : longueur fixe
+\newcommand{\LJtraitc}{\kern0.15em\rule[0.48ex]{1.6em}{0.42pt}\kern0.15em}
 \newcommand{\LJfrac}[2]{\textsuperscript{#1}\kern-0.05em/\kern-0.05em\textsubscript{#2}}
 
 % ---------------------------------------------------------------------------
@@ -247,6 +252,7 @@
 % ou plus bas si la note précédente occupe encore la place.
 \newcommand{\LJapp}[2]{%
   \setbox\LJboxN\vtop{\hsize\LJappw\LJpoliceapp\raggedright\hyphenpenalty=600
+    \lineskiplimit=0pt\lineskip=0.6pt% interligne normal entre les lignes d'une même note
     \leftskip=1.2em\parindent=-1.2em\strut#2\strut\par}%
   \dimen2=#1\LJpitch
   \dimen4=\dimexpr\LJappcur+\ht\LJboxN\relax
@@ -352,8 +358,9 @@
   \clearpage}
 % Photographie légendée (dans une ouverture ou une page d'illustration) ; #1 largeur ; #2 fichier ; #3 légende
 \newcommand{\LJphoto}[3]{%
-  \begin{minipage}[b]{#1}\centering
-    \includegraphics[width=\linewidth,height=44mm,keepaspectratio]{#2}\par\vspace{0.8mm}
+  \setbox\LJboxN\hbox{\includegraphics[width=#1,height=44mm,keepaspectratio]{#2}}%
+  \begin{minipage}[t]{\wd\LJboxN}\centering
+    \box\LJboxN\par\vspace{0.8mm}
     {\scriptsize\raggedright #3\par}
   \end{minipage}}
 % Fin d'une introduction : si la page suivante est impaire (la double page de transcription ne pourrait pas
@@ -369,7 +376,7 @@
 % Index
 % ---------------------------------------------------------------------------
 \newcommand{\LJindex}[2]{%
-  \clearpage\renewcommand{\LJmois}{Index}\renewcommand{\LJfolio}{#1}%
+  \LJpageimpaire\renewcommand{\LJmois}{Index}\renewcommand{\LJfolio}{#1}%
   \chapter*{#1}\addcontentsline{toc}{chapter}{#1}%
   {\footnotesize\setlength{\parindent}{0pt}\setlength{\parskip}{0.6pt}%
    \begin{multicols}{2}\raggedright #2\end{multicols}}}
@@ -379,18 +386,28 @@
 % Table de concordance des feuillets et des pages
 % ---------------------------------------------------------------------------
 \newcommand{\LJtableconcordance}[2]{%
-  \clearpage\renewcommand{\LJmois}{Annexes}\renewcommand{\LJfolio}{Concordance des feuillets et des pages}%
+  \LJpageimpaire\renewcommand{\LJmois}{Annexes}\renewcommand{\LJfolio}{Concordance des feuillets et des pages}%
   \chapter*{Concordance des feuillets et des pages}\addcontentsline{toc}{chapter}{Concordance des feuillets et des pages}%
   {\footnotesize Feuillet et face restitués dans l'ordre de lecture ;
-  date(s) de la page ; page de la présente édition. \textit{inv.} : feuillet photographié verso d'abord ;
-  \textit{trav.} : page écrite en travers ; \textit{seule face} : seule face photographiée du feuillet ; \textit{verso blanc} : verso resté blanc.#2\par}
+  date(s) de la page ; page de la présente édition. \textit{trav.} : page écrite en travers ; \textit{seule face} : seule face photographiée du feuillet ; \textit{verso blanc} : verso resté blanc.#2\par}
   \vspace{2mm}
   {\fontsize{7.4pt}{8.4pt}\selectfont\LJchiffres\renewcommand{\arraystretch}{0.97}
   \setlength{\tabcolsep}{4pt}
   \begin{longtable}{@{}l p{82mm} r l@{}}
   \toprule
-  \textbf{Feuillet} & \textbf{Date} & \textbf{Page} & \\
+  \textbf{Feuillet} & \textbf{Date} & \textbf{Page} & \textbf{Remarque}\\
   \midrule\endhead
   \bottomrule\endfoot
   #1
   \end{longtable}}}
+
+% Un intertitre de pièce n'est jamais seul en bas de page.
+\let\LJsubsubsection\subsubsection
+\renewcommand{\subsubsection}{\needspace{3\baselineskip}\LJsubsubsection}
+% Pas de césure dans les mots à initiale capitale (noms propres, sigles)
+\uchyph=0
+% Flottants : une grande figure (fac-similé d'une pièce annexe) peut se placer en haut d'une page de texte,
+% ce qui évite les demi-pages blanches ; une page de flottants est remplie aux trois quarts au moins.
+\renewcommand{\topfraction}{0.85}
+\renewcommand{\textfraction}{0.12}
+\renewcommand{\floatpagefraction}{0.7}

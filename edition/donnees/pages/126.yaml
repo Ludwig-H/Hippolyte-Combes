@@ -3,7 +3,7 @@ fichier: 20251126_110011.jpg
 date: Samedi 20 – mardi 23 janvier 1917
 mois: Janvier 1917
 lieux: Acheux-en-Amiénois et Louvencourt (Somme)
-titre: Grand gel ; visite à Mme Cuisinier à Louvencourt ; préparatifs de départ
+titre: Grand gel ; visite à M\textsuperscript{me} Cuisinier à Louvencourt ; préparatifs de départ
 transcription: |
   20 \sl{Sam.} \hfill — \sl{Janvier 1917} –
   \ind[3] Repos tout le jour.
@@ -41,7 +41,7 @@ apparat:
 - ligne: 11
   lemme: \inc{kil'g.}
   type: lecture
-  note: 'kilomètres ; autres lectures : kilog., kil 9 (2,9 km, cf. f. 17 r°)'
+  note: 'lecture incertaine (kilomètres) ; autres lectures : kilog., kil 9 (2,9~km, cf. f.~17~r\textsuperscript{o})'
 - ligne: 14
   lemme: Wren's Dubbin
   type: emprunt
@@ -57,23 +57,15 @@ apparat:
 - ligne: 18
   lemme: Cap^{ne} W
   type: abreviation
-  note: capitaine Williams ; finale de Cap^{ne} réduite à une ondulation suscrite
-- ligne: 19
-  lemme: Tempér^{re}
-  type: abreviation
-  note: température ; finale réduite à une ondulation suscrite
+  note: capitaine Williams
 - ligne: 20
   lemme: complèt^{t}
   type: abreviation
   note: complètement
-- ligne: 21
-  lemme: \fr{1}{2} jour
-  type: abreviation
-  note: mi-jour, midi
 critique: |
   Le lundi 22 n'a pas d'entrée propre : il n'est évoqué que par « Hier » sous la date du 23. La journée du 23 se poursuit au verso.
 historique: |
-  Louvencourt est à 3,4~km au nord-ouest d'Acheux à vol d'oiseau (mairies, geo.api.gouv.fr) ; les « 2 kil'g. » du retour sous-estiment sans doute la distance. Le capitaine Williams y a lancé son « Bloody France » chez Mme Cuisinier le 24 décembre (f.~56~v\textsuperscript{o}, 59~r\textsuperscript{o}). Le gel rend la route « excellente », mais il va ruiner les routes mal empierrées de l'arrière (OH 1917-I, p.~69). Les trois boîtes de \textit{Wren's Dubbin} coûtent 10~c pièce, le tiers du prix du 11 décembre (f.~54~v\textsuperscript{o}) : sans doute de petites boîtes. Les préparatifs sont ceux de la permission fixée au 26 janvier (f.~61~v\textsuperscript{o}).
+  Louvencourt est à 3,4~km au nord-ouest d'Acheux à vol d'oiseau (mairies, geo.api.gouv.fr) ; les « 2 kil'g. » du retour sous-estiment sans doute la distance. Le capitaine Williams y a lancé son « Bloody France » chez M\textsuperscript{me} Cuisinier le 24~décembre (ff.~56~v\textsuperscript{o}, 59~r\textsuperscript{o}). Le gel rend la route « excellente », mais il va ruiner les routes mal empierrées de l'arrière (OH~\mbox{1917-I}, p.~69). Les trois boîtes de \textit{Wren's Dubbin} coûtent 10~c pièce, le tiers du prix du 11~décembre (f.~54~v\textsuperscript{o}) : sans doute de petites boîtes. Les préparatifs sont ceux de la permission fixée au 26~janvier (f.~61~v\textsuperscript{o}).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 69.
 - Base adresse nationale, coordonnées des mairies d'Acheux-en-Amiénois et de Louvencourt (geo.api.gouv.fr).

@@ -2,12 +2,12 @@ cliche: 112
 fichier: 20251126_105142.jpg
 date: Vendredi 22 et dimanche 24 décembre 1916
 mois: Décembre 1916
-lieux: Acheux-en-Amiénois, Senlis-le-Sec, Beauquesne et Authie (Somme) ; Orville (Pas-de-Calais)
+lieux: Acheux-en-Amiénois, Senlis-le-Sec, Rubempré, Léalvillers, Beauquesne, Saint-Léger-lès-Authie, Authie, Louvencourt, Puchevillers et Toutencourt (Somme) ; Orville (Pas-de-Calais)
 titre: Dégel ; lettre de Marguerite ; « Bloody France » du capitaine Williams
 transcription: |
   \sl{22 Ven.} \hfill \sl{Dec 1916}
   Degel rapide. Routes, très
-  mauvaises. Pluie fine matinée, à Senlis.
+  \inc{mauvaises}. Pluie fine matinée, à Senlis.
   Aprè-midi, à Rubempré & Quesnoy —
   Fait reparer lorgnon par horloger à
   Lealvillers.
@@ -31,18 +31,10 @@ transcription: |
   rupture — gdes apprehensions pour l'avenir
   \equerre{1}— Authie : 2 oeufs s/plat : 70c. — Cartes p^{les} : 30c
 apparat:
-- ligne: 1
-  lemme: Dec
-  type: abreviation
-  note: décembre
 - ligne: 3
-  lemme: mauvaises
+  lemme: \inc{mauvaises}
   type: lecture
   note: lecture incertaine, imposée par le sens
-- ligne: 4
-  lemme: Aprè-midi
-  type: abreviation
-  note: après-midi
 - ligne: 7
   lemme: Cap.
   type: abreviation
@@ -50,27 +42,15 @@ apparat:
 - ligne: 8
   lemme: \inc{+} tot
   type: lecture
-  note: '« + » (plus tôt) probable ; autres lectures : y, &'
-- ligne: 8
-  lemme: billet
-  type: emprunt
-  note: angl. billet, cantonnement, logement
+  note: 'lecture incertaine (+ tot : plus tôt) ; autres lectures : y, &'
 - ligne: 10
   lemme: M^{te}
   type: abreviation
   note: Marguerite (Calmels)
-- ligne: 12
-  lemme: D
-  type: abreviation
-  note: dimanche
 - ligne: 15
   lemme: St-Leger
   type: abreviation
   note: Saint-Léger(-lès-Authie)
-- ligne: 15
-  lemme: Aprè-midi
-  type: abreviation
-  note: après-midi
 - ligne: 18
   lemme: cap. W^{m}
   type: abreviation
@@ -84,28 +64,16 @@ apparat:
   type: emprunt
   note: Mission française
 - ligne: 22
-  lemme: M^{te}
-  type: abreviation
-  note: Marguerite (Calmels)
-- ligne: 22
   lemme: ct
   type: abreviation
   note: courant
-- ligne: 23
-  lemme: gdes
-  type: abreviation
-  note: grandes
 - ligne: 24
   lemme: s/plat
   type: abreviation
   note: sur le plat
-- ligne: 24
-  lemme: p^{les}
-  type: abreviation
-  note: postales
-critique: La page fait suite au f.~56~r\textsuperscript{o} (19-20 décembre) ; rien n'est noté pour le 21 ni pour le 23.
+critique: Rien n'est noté pour le 21 ni pour le 23.
 historique: |
-  La réparation du lorgnon ne tient pas : le 28, Hippolyte Combes l'envoie sans doute à l'opticien Imbert, à Paris (f.~58~r\textsuperscript{o} et 61~r\textsuperscript{o}). Mme Cuisinier tient à Louvencourt une ferme où une machine endommagée sera expertisée le 2 janvier (f.~59~r\textsuperscript{o}). \textit{Bloody} est un juron grossier : le mot avait fait scandale à Londres dans \textit{Pygmalion}, le 11 avril 1914 (Wikipédia). Rapporter le mot du capitaine Williams au bureau de la Mission, c'était risquer ces « heurts désagréables » dont les interprètes « sont toujours les victimes » (Fernand-Laurent 1917, p.~225-234). Sur la lettre du 17, voir f.~57~r\textsuperscript{o} ; sur Senlis-le-Sec, le Quesnoy et Beauquesne, voir f.~55~r\textsuperscript{o}, 55~v\textsuperscript{o} et 56~r\textsuperscript{o}.
+  La réparation du lorgnon ne tient pas : le 28, Hippolyte Combes l'envoie sans doute à l'opticien Imbert, à Paris (ff.~58~r\textsuperscript{o} et 61~r\textsuperscript{o}). M\textsuperscript{me} Cuisinier tient à Louvencourt une ferme où une machine endommagée sera expertisée le 2~janvier (f.~59~r\textsuperscript{o}). \textit{Bloody} est un juron grossier : le mot avait fait scandale à Londres dans \textit{Pygmalion}, le 11~avril 1914 (Wikipédia). Rapporter le mot du capitaine Williams au bureau de la Mission, c'était risquer ces « heurts désagréables » dont les interprètes « sont toujours les victimes » (Fernand-Laurent 1917, p.~225--234). Sur la lettre du 17, voir f.~57~r\textsuperscript{o} ; sur Senlis-le-Sec, le Quesnoy et Beauquesne, voir ff.~55~r\textsuperscript{o}, 55~v\textsuperscript{o} et 56~r\textsuperscript{o}.
 sources:
 - Wikipédia (en), « Pygmalion (play) », consulté le 18 oct. 2026.
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, préface de F. de Tessan, Paris, Boivin, 1917, p. 225-234.

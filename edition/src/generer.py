@@ -75,8 +75,6 @@ def table_concordance(codico: list[dict], pages: dict) -> str:
             continue
         p = pages.get(n, {})
         rem = []
-        if "verso d'abord" in (c.get("remarque") or ""):
-            rem.append("inv.")
         if c.get("orientation") == "paysage":
             rem.append("trav.")
         if "Seule face" in (c.get("remarque") or ""):
@@ -116,7 +114,7 @@ def construire(dossier_pages: Path, dossier_images: str, sortie: Path) -> None:
             ch = debut_chapitre[n]
             photos = [r"\LJphoto{%s}{%s}{%s}" % (i.get("largeur", "0.48\\textwidth"), i["fichier"], i["legende"])
                       for i in ch.get("illustrations", [])]
-            illus = r"\hfill " + photos[0] + r"\hfill" if len(photos) == 1 else " \\hfill ".join(photos)
+            illus = r"\hspace*{\fill}" + photos[0] + r"\hspace*{\fill}" if len(photos) == 1 else " \\hfill ".join(photos)
             corps.append(r"\LJouverture{%s}{%s}{%s}{cartes/pdf/carte_%s.pdf}{%s}" % (
                 ch["numero"], ch["titre"], ch["periode"], ch["numero"], illus))
             corps.append(texte(f"chapitres/{ch['numero']}.tex"))
@@ -144,6 +142,7 @@ def construire(dossier_pages: Path, dossier_images: str, sortie: Path) -> None:
         texte("liminaires.tex"),
         r"\tableofcontents",
         texte("introduction.tex"),
+        texte("titre_journal.tex"),
         *corps,
         texte("annexes.tex"),
         concordance,

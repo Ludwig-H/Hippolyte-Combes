@@ -131,6 +131,16 @@ def rendre(s: str, notes: list | None = None) -> str:
     return "".join(out)
 
 
+def _lemme(s: str) -> str:
+    """Lemme automatique : sans les balises de rature, d'ajout, etc., mais avec les lettres suscrites."""
+    s = re.sub(r"\^\{([^{}]*)\}", lambda m: "\x01" + m.group(1) + "\x02", s)
+    s = re.sub(r"\\(sl|sll|del|add|addm|inc)\{", "", s)
+    s = re.sub(r"\\sur\{[^{}]*\}\{", "", s)
+    s = s.replace("\\hfill", " ").replace("\\ill", "[illis.]").replace("}", "")
+    s = s.replace("\x01", "^{").replace("\x02", "}")
+    return re.sub(r"\s+", " ", s).strip()
+
+
 def _brut(s: str) -> str:
     """Forme lisible (sans balises) pour les lemmes automatiques."""
     s = re.sub(r"\\(sl|sll|del|add|addm|inc)\{", "", s)
@@ -147,19 +157,19 @@ def _rendre_commande(nom: str, args: list[str], notes: list | None) -> str:
         return r"\LJsll{%s}" % rendre(args[0], notes)
     if nom == "del":
         if notes is not None:
-            notes.append((_brut(args[0]) or "[illis.]", "rature", "biffé"))
+            notes.append((_lemme(args[0]) or "[illis.]", "rature", "biffé"))
         return r"\LJdel{%s}" % rendre(args[0], notes)
     if nom == "sur":
         if notes is not None:
-            notes.append((_brut(args[1]), "surcharge", f"écrit sur {_brut(args[0])}"))
+            notes.append((_lemme(args[1]), "surcharge", f"écrit sur {_brut(args[0])}"))
         return r"\LJsur{%s}" % rendre(args[1], notes)
     if nom == "add":
         if notes is not None:
-            notes.append((_brut(args[0]), "ajout", "ajouté dans l'interligne"))
+            notes.append((_lemme(args[0]), "ajout", "ajouté dans l'interligne"))
         return r"\LJadd{%s}" % rendre(args[0], notes)
     if nom == "addm":
         if notes is not None:
-            notes.append((_brut(args[0]), "ajout", "ajouté en marge"))
+            notes.append((_lemme(args[0]), "ajout", "ajouté en marge"))
         return r"\LJaddm{%s}" % rendre(args[0], notes)
     if nom == "inc":
         return r"\LJinc{%s}" % rendre(args[0], notes)

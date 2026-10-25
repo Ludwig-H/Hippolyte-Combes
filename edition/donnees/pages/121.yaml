@@ -2,8 +2,8 @@ cliche: 121
 fichier: 20251126_105908.jpg
 date: Samedi 6 – mardi 9 janvier 1917
 mois: Janvier 1917
-lieux: Acheux-en-Amiénois, Louvencourt, Bertrancourt, Authie, Raincheval et Hédauville (Somme)
-titre: Courses autour d'Acheux ; routes encombrées ; 150th Company à Hédauville
+lieux: Acheux-en-Amiénois, Louvencourt, Bertrancourt, Authie, Arquèves, Raincheval et Hédauville (Somme)
+titre: Courses autour d'Acheux ; routes encombrées ; 150\textsuperscript{th} Company à Hédauville
 transcription: |
   6 \sl{Sam} \hfill Janv. \sl{1917}
   \ind Très belle journée ensoleillée,
@@ -32,18 +32,10 @@ transcription: |
   très violente canonnade
   \ind — Avis de réception pour Imbert : 15c —
 apparat:
-- ligne: 1
-  lemme: Janv.
-  type: abreviation
-  note: janvier
-- ligne: 7
-  lemme: Y.M.C.A.
-  type: abreviation
-  note: Young Men's Christian Association (foyer du soldat)
 - ligne: 8
   lemme: \inc{jour}
   type: lecture
-  note: 'lecture probable ; autre lecture graphique : juin (sans sens)'
+  note: 'lecture incertaine ; autre lecture : juin'
 - ligne: 10
   lemme: A.S.C.
   type: abreviation
@@ -51,33 +43,25 @@ apparat:
 - ligne: 11
   lemme: '70.'
   type: compte
-  note: 70 centimes, unité omise
+  note: 70~centimes, unité omise
 - ligne: 14
   lemme: St. \inc{Leg}
   type: lecture
   note: lecture incertaine ; Saint-Léger(-lès-Authie), fin du mot écrasée
 - ligne: 18
-  lemme: Coy
-  type: abreviation
-  note: Company (compagnie britannique)
-- ligne: 18
   lemme: 18^{th} div^{on}
   type: abreviation
-  note: 18th Division (dix-huitième division britannique)
+  note: 18\textsuperscript{th} Division (dix-huitième division britannique)
 - ligne: 19
   lemme: 50 m.
   type: abreviation
-  note: 50 mètres
+  note: 50~mètres
 - ligne: 20
   lemme: out riding
   type: emprunt
   note: sorti à cheval
-- ligne: 24
-  lemme: 15c
-  type: abreviation
-  note: 15 centimes
 historique: |
-  Les routes encombrées annoncent les relèves du 7 au 21 janvier : le V Corps reprend le secteur du XIII, et les 2nd et 18th Divisions remplacent les 51st et 61st (OH 1917-I, p.~66, 69-70). La 18th, au repos près d'Abbeville, revient le 16 (Nichols 1922, p.~139) ; la 150th Company de son train la précède sans doute. Morris, vu le 5 (f.~60~r\textsuperscript{o}), y sert vraisemblablement ; Hippolyte Combes l'appelle « mon vieux Morris » le lendemain (f.~61~r\textsuperscript{o}). La « très violente canonnade » prépare l'attaque de « The Triangle », à l'est de Beaumont-Hamel, le 10 à 2~h (OH 1917-I, p.~67-69). L'avis de réception est celui de la boîte envoyée le 28 décembre à l'opticien Imbert (f.~58~r\textsuperscript{o}).
+  Les routes encombrées annoncent les relèves du 7 au 21~janvier : le V Corps reprend le secteur du XIII, et les 2\textsuperscript{nd} et 18\textsuperscript{th} Divisions remplacent les 51\textsuperscript{st} et 61\textsuperscript{st} (OH~\mbox{1917-I}, p.~66, 69--70). La 18\textsuperscript{th}, au repos près d'Abbeville, revient le 16 (Nichols 1922, p.~139) ; la 150\textsuperscript{th} Company de son train la précède sans doute. Morris, vu le 5 (f.~60~r\textsuperscript{o}), y sert vraisemblablement ; Hippolyte Combes l'appelle « mon vieux Morris » le lendemain (f.~61~r\textsuperscript{o}). La « très violente canonnade » prépare l'attaque de « The Triangle », à l'est de Beaumont-Hamel, le 10 à 2~h (OH~\mbox{1917-I}, p.~67--69). L'avis de réception est celui de la boîte envoyée le 28~décembre à l'opticien Imbert (f.~58~r\textsuperscript{o}).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66-70.
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 139.

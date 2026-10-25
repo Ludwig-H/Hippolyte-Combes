@@ -25,49 +25,32 @@ transcription: |
   assez temps pr dejeuner restaurant
   Dû revenir \add{par} metro a gare du Nord
 apparat:
-- ligne: 1
-  lemme: oct^{bre}
-  type: abreviation
-  note: octobre
 - ligne: 2
-  lemme: parut
+  lemme: \inc{parut}
   type: lecture
   note: 'lecture incertaine ; autres lectures : paru, paraît'
-- ligne: 3
-  lemme: 8^{h} m.
-  type: abreviation
-  note: 8 heures du matin
-- ligne: 9
-  lemme: egl St
-  type: abreviation
-  note: église Saint
-- ligne: 9
-  lemme: egl St
+- ligne: 8
+  lemme: La
   type: lecture
-  note: 'lecture incertaine ; autre lecture : église St'
-- ligne: 13
-  lemme: j-aux
+  note: 'lecture incertaine ; autre lecture : de'
+- ligne: 9
+  lemme: \inc{egl St}
   type: abreviation
-  note: jusqu'aux
+  note: 'église Saint ; lecture incertaine ; autre lecture : église St'
 - ligne: 13
   lemme: Mag
   type: abreviation
   note: Magasins (Grands Magasins du Louvre)
 - ligne: 15
-  lemme: Correspce
+  lemme: \inc{Correspce}
   type: abreviation
-  note: Correspondance (salon de correspondance du magasin)
-- ligne: 15
-  lemme: Correspce
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : Corresp'
+  note: 'Correspondance (salon de correspondance du magasin) ; lecture incertaine ; autre lecture : Corresp'
 - ligne: 16
   lemme: commence
   type: ajout
   note: ajouté sans correction de « brille »
-critique: 'Ordre des feuillets restitué : cette page (f.~32 v\textsuperscript{o}) suit le f.~32 r\textsuperscript{o}, qui achève la journée du 4 octobre.'
 historique: |
-  Le train de nuit arrive à la gare d'Orsay, terminus de la Compagnie d'Orléans. Pour gagner la gare du Nord, Hippolyte Combes refait en sens inverse le trajet de l'aller (voir f.~26 v\textsuperscript{o}) : ligne 1 des Tuileries au Châtelet, puis ligne 4, ouverte en 1908 (RATP). L'église Saint-Vincent-de-Paul (X\textsuperscript{e} arr.) a été bâtie par Lepère et Hittorff de 1824 à 1844 ; ses deux étages de colonnes encadrent la frise peinte de la nef, œuvre d'Hippolyte Flandrin (1850--1854) (Mérimée PA00086489 ; Baedeker 1913). Les Grands Magasins du Louvre font face au palais, rue de Rivoli (Baedeker 1913, p.~51) ; ils offraient à leurs clients un salon de correspondance.
+  Le train de nuit arrive à la gare d'Orsay, terminus de la Compagnie d'Orléans. Pour gagner la gare du Nord, Hippolyte Combes refait en sens inverse le trajet de l'aller (voir f.~26~v\textsuperscript{o}) : ligne 1 des Tuileries au Châtelet, puis ligne 4, ouverte en 1908 (RATP). L'église Saint-Vincent-de-Paul (X\textsuperscript{e} arr.) a été bâtie par Lepère et Hittorff de 1824 à 1844 ; ses deux étages de colonnes encadrent la frise peinte de la nef, œuvre d'Hippolyte Flandrin (1850--1854) (Mérimée PA00086489 ; Baedeker 1913). Les Grands Magasins du Louvre font face au palais, rue de Rivoli (Baedeker 1913, p.~51) ; ils offraient à leurs clients un salon de correspondance.
 sources:
 - Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, K. Baedeker, 1913, p. 28-30, 51-52.
 - Ministère de la Culture, base Mérimée, notice PA00086489 (église Saint-Vincent-de-Paul, Paris Xe), consultée via monumentum.fr.

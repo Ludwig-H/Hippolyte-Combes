@@ -8,7 +8,7 @@ transcription: |
   \sl{Dim. 11.} \hfill — \sl{Mars 1917} —
   \ind Levé 6^{H}\fr{1}{2} m.
   Bientot terminé ts mes paquets
-  Temps extt doux. Soleil pale tiédit l'air
+  Temps extt doux. Soleil pale tiédit \inc{l'air}
   Maintenant, \inc{quitterai} sans regrets ce petit
   village & Purchase Board.
   Après breakfast, 9^{H} m. , parti \inc{en}. auto pour
@@ -31,14 +31,10 @@ transcription: |
   chambre Y suis rentré aussitot après dinner.
   m'y trouve très bien. 2 Tables pour écrire —
 apparat:
-- ligne: 2
-  lemme: 6^{H}\fr{1}{2} m.
-  type: abreviation
-  note: six heures et demie du matin
 - ligne: 4
-  lemme: tiédit l'air
+  lemme: \inc{l'air}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : tiédit clair'
+  note: 'lecture incertaine ; autre lecture : clair'
 - ligne: 5
   lemme: \inc{quitterai}
   type: lecture
@@ -48,17 +44,9 @@ apparat:
   type: emprunt
   note: commission des achats
 - ligne: 7
-  lemme: 9^{H} m.
-  type: abreviation
-  note: neuf heures du matin
-- ligne: 7
   lemme: \inc{en}.
   type: lecture
   note: 'lecture incertaine ; autre lecture : à'
-- ligne: 14
-  lemme: Purchase Board
-  type: emprunt
-  note: commission des achats
 - ligne: 15
   lemme: interview
   type: emprunt
@@ -67,10 +55,6 @@ apparat:
   lemme: \inc{Godare}
   type: lecture
   note: 'lecture incertaine ; autre lecture : Godard'
-- ligne: 16
-  lemme: off^{r}
-  type: abreviation
-  note: officier
 critique: La journée se poursuit au verso.
 historique: |
   Hippolyte Combes croyait quitter le \textit{Purchase Board} d'Hérissart pour Toutencourt (voir f.~82~r\textsuperscript{o}). Le major Levy, peut-être Walter Henry Levy, major temporaire de l'A.S.C. (voir f.~46~r\textsuperscript{o}), obtient de la Mission qu'il reste. Le \textit{purchase board} d'armée achète paille et fourrage, fait battre et botteler et constitue des réserves (Puckle 1917, p.~28) ; celui de la Fifth Army était en décembre à Raincheval (voir f.~56~r\textsuperscript{o}). Toutencourt est le QG de la Fifth Army (LLT). Le lieutenant Godare, peut-être de la Mission, n'est pas identifié. Le billet~220, à Hérissart, était celui de l'interprète Valet (voir f.~82~r\textsuperscript{o}).

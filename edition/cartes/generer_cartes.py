@@ -171,9 +171,12 @@ def fond_relief(ax, emprise, mnt: MNT | None, ne_gris: Path | None, res: float, 
 # Couches vectorielles
 # ---------------------------------------------------------------------------
 def typo(o):
-    """Typographie des textes imprimés sur les cartes : apostrophe courbe, « 1ᵉʳ » en exposant."""
+    """Typographie des textes imprimés sur les cartes : apostrophe courbe, « 1ᵉʳ » en exposant,
+    espace fine insécable devant ; : ? !, tiret demi-cadratin entre deux années."""
     if isinstance(o, str):
-        return re.sub(r"\b1er\b", "1ᵉʳ", o.replace("'", "’"))
+        o = re.sub(r"\b1er\b", "1ᵉʳ", o.replace("'", "’"))
+        o = re.sub(r"\b(1[89]\d\d|20\d\d)-(1[89]\d\d|20\d\d)\b", "\\1–\\2", o)
+        return re.sub(r"[ \u00a0]([;:?!])", "\u202f\\1", o)
     if isinstance(o, list):
         return [typo(x) for x in o]
     if isinstance(o, dict):
@@ -270,7 +273,7 @@ def barre_echelle(ax, emprise, km: float, pos=(0.05, 0.05)):
     for i in range(2):
         ax.add_patch(Rectangle((bx + i * L / 2, by), L / 2, h, facecolor=ENCRE if i == 0 else "white",
                                edgecolor=ENCRE, linewidth=0.4, zorder=8))
-    for frac, lab in ((0, "0"), (0.5, f"{km/2:g}"), (1, f"{km:g} km")):
+    for frac, lab in ((0, "0"), (0.5, f"{km/2:g}".replace(".", ",")), (1, f"{km:g}".replace(".", ",") + "\u00a0km")):
         ax.text(bx + frac * L, by + 2.2 * h, lab, fontsize=5.5, ha="center", va="bottom", color=ENCRE,
                 path_effects=HALO_FIN, zorder=8)
 
@@ -284,6 +287,76 @@ def fleche_nord(ax, emprise, pos=(0.95, 0.90)):
                                  linewidth=0.6, zorder=8))
     ax.text(x, y + 0.01 * (y1 - y0), "N", fontsize=6.5, ha="center", va="bottom", color=ENCRE,
             path_effects=HALO_FIN, zorder=8)
+
+
+def texte_mixte(fig, x, y_haut, texte, **kw):
+    """Texte d'une ligne où les passages entre astérisques (*Livre-Journal*) sont en italique.
+    Les segments sont posés sur une même ligne de base, l'un après l'autre."""
+    from matplotlib.backends.backend_agg import RendererAgg
+    segments = [(seg, i % 2 == 1) for i, seg in enumerate(texte.split("*")) if seg]
+    rend = RendererAgg(fig.bbox.width, fig.bbox.height, fig.dpi)
+    # ligne de base commune : on pose d'abord le texte entier (romain) aligné en haut pour la mesurer
+    essai = fig.text(x, y_haut, texte.replace("*", ""), va="top", **kw)
+    _, info, _ = essai._get_layout(rend)
+    base_px = essai.get_transform().transform((x, y_haut))[1] + info[0][2][1]
+    essai.remove()
+    y = fig.transFigure.inverted().transform((0, base_px))[1]
+    from matplotlib.textpath import text_to_path
+    for seg, ital in segments:
+        t = fig.text(x, y, seg, va="baseline", style="italic" if ital else "normal", **kw)
+        # avance du segment (espace finale comprise), sans arrondi au pixel
+        w_pt = text_to_path.get_text_width_height_descent(seg, t.get_fontproperties(), ismath=False)[0]
+        x += w_pt / 72 / fig.get_figwidth()
+
+
+def masquer_traits(fig, ax, marge_mm=0.3):
+    """Interrompt les cours d'eau, frontières et fronts sous les étiquettes (masque de lisibilité).
+
+    Chaque ligne d'étiquette (contour réel de l'encre, agrandi de marge_mm) est retirée des traits
+    tracés sous les textes (zorder <= 5) ; les noms de cours d'eau, posés le long de leur trait, n'en font pas partie.
+    Les flèches d'itinéraire ne sont pas masquées : leurs étiquettes sont placées hors de leur tracé."""
+    from matplotlib.backends.backend_agg import RendererAgg
+    from matplotlib.textpath import TextPath
+    from matplotlib.transforms import Affine2D
+    from shapely.geometry import Polygon as SPoly
+    from shapely.ops import unary_union
+    rend = RendererAgg(fig.bbox.width, fig.bbox.height, fig.dpi)
+    inv = ax.transData.inverted()
+    marge = marge_mm * fig.dpi / 25.4
+    zones = []
+    for t in ax.texts:
+        if t.get_zorder() < 5 or not t.get_visible() or not t.get_text().strip():
+            continue
+        _, info, _ = t._get_layout(rend)
+        x0, y0 = t.get_transform().transform(t.get_unitless_position())
+        for ligne, _, (dx, dy) in info:
+            propre, _ = t._preprocess_math(ligne)
+            if not propre.strip():
+                continue
+            ext = TextPath((0, 0), propre, prop=t.get_fontproperties()).get_extents()
+            coins = np.array([[ext.x0, ext.y0], [ext.x1, ext.y0], [ext.x1, ext.y1], [ext.x0, ext.y1]])
+            tr = Affine2D().scale(fig.dpi / 72).rotate_deg(t.get_rotation()).translate(x0 + dx, y0 + dy)
+            zones.append(SPoly(tr.transform(coins)).buffer(marge, join_style=2))
+    if not zones:
+        return
+    masque = unary_union(zones)
+    for l in list(ax.lines):
+        xy = l.get_xydata()
+        if l.get_zorder() > 5 or len(xy) < 2:
+            continue
+        reste = LineString(ax.transData.transform(xy)).difference(masque)
+        if reste.equals(LineString(ax.transData.transform(xy))):
+            continue
+        if os.environ.get("CARTES_DIAG") and l.get_zorder() == 5:
+            print("masque : front interrompu sous une étiquette")
+        morceaux = [g for g in getattr(reste, "geoms", [reste]) if g.geom_type == "LineString" and not g.is_empty]
+        if not morceaux:
+            l.remove()
+            continue
+        pts = []
+        for g in morceaux:
+            pts += [tuple(c) for c in inv.transform(np.asarray(g.coords))] + [(np.nan, np.nan)]
+        l.set_data(*zip(*pts[:-1]))
 
 
 def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Path, png: bool):
@@ -324,7 +397,7 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
     # titre (omis pour les cartes de chapitre : le titre du chapitre est imprimé au-dessus)
     if spec.get("titre_imprime", True):
         fig.text(0.0, 1 - 2.5 / h_mm, spec.get("surtitre", "").upper(), fontsize=6, color="#555555", va="top")
-        fig.text(0.0, 1 - 4.6 / h_mm, spec["titre"], fontsize=11, family="Libertinus Serif", va="top", color=ENCRE)
+        texte_mixte(fig, 0.0, 1 - 4.6 / h_mm, spec["titre"], fontsize=11, family="Libertinus Serif", color=ENCRE)
 
     # fond
     res = spec.get("resolution_m", (emprise[2] - emprise[0]) / 1400)
@@ -460,6 +533,7 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
 
     barre_echelle(ax, emprise, spec.get("echelle_km", 10))
     fleche_nord(ax, emprise, pos=tuple(spec.get("nord_pos", (0.95, 0.90))))
+    masquer_traits(fig, ax)
 
     # légende sous la carte
     y = (marge_bas - 3) / h_mm
@@ -492,8 +566,8 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
         fig.text(0.0, y, note, fontsize=5.6, va="top", color="#555555")
         y -= 3.0 / h_mm
     import textwrap
-    src = spec.get("sources", "Fond : relief d'après Copernicus DEM GLO-30 (© DLR e.V. 2010-2014 et © Airbus Defence and Space "
-                   "GmbH 2014-2018, programme Copernicus), cours d'eau IGN BD TOPO (Licence Ouverte 2.0) ; "
+    src = spec.get("sources", "Fond : relief d'après Copernicus DEM GLO-30 (© DLR e.V. 2010–2014 et © Airbus Defence and Space "
+                   "GmbH 2014–2018, programme Copernicus), cours d'eau IGN BD TOPO (Licence Ouverte 2.0) ; "
                    "repères actuels ; projection Lambert-93.")
     src = typo(src)
     fig.text(0.0, 0.2 / h_mm, "\n".join(textwrap.wrap(src, 170)), fontsize=4.6, va="bottom", color="#777777",

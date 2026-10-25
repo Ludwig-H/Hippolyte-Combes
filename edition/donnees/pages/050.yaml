@@ -30,14 +30,6 @@ apparat:
   lemme: entiert
   type: abreviation
   note: entièrement
-- ligne: 8
-  lemme: for green
-  type: emprunt
-  note: pour du (fourrage) vert ; l'expression « for green forage » se poursuit à la ligne suivante
-- ligne: 9
-  lemme: forage
-  type: emprunt
-  note: fourrage
 - ligne: 11
   lemme: convoy
   type: emprunt
@@ -50,37 +42,20 @@ apparat:
   lemme: chps
   type: abreviation
   note: champs
-- ligne: 12
-  lemme: j à
-  type: abreviation
-  note: jusqu'à
 - ligne: 13
   lemme: R.T.O.
   type: abreviation
   note: Railway Transport Officer, commissaire militaire de gare
 - ligne: 15
-  lemme: lgt.
-  type: abreviation
-  note: longtemps
-- ligne: 15
   lemme: compartimt
   type: abreviation
   note: compartiment
-- ligne: 18
-  lemme: groom
-  type: emprunt
-  note: palefrenier, soldat chargé de son cheval
-- ligne: 19
-  lemme: 1^{f} 50
-  type: abreviation
-  note: 1 franc 50
 - ligne: 19
   lemme: 0.50c
   type: compte
-  note: 50 centimes, prix des biscuits (l. 18)
-critique: Le récit de la journée se poursuit sur la page suivante (f.~26 r\textsuperscript{o}).
+  note: prix des biscuits (l.~18)
 historique: |
-  Le « Lt Ford » est sans doute Edward Maurice Ford (né en 1882), \textit{2nd Lieutenant} de l'A.S.C. en 1915, qui « served in France with the 18th Divisional Train », capitaine et M.C. en 1917--1918 (Nichols 1922, p.~432 ; Spink, lot 188). Le convoi va à Acheux, tête de ligne des vivres (OH 1916-I, p.~273--274). Acheux-Varennes est sur la voie métrique d'Albert à Doullens, reliée à Gézaincourt à la ligne du Nord (Wikipédia, « Chemins de fer départementaux de la Somme »). Le \textit{groom} est sans doute Connelly (voir f.~6 r\textsuperscript{o}). Le 25, la Fourth Army prend Morval et Lesbœufs (OH 1916-II, p.~373) ; la 54th Brigade monte au bois de Thiepval, attaqué le 26 (JMO 7/Bedf, 25 sept. 1916 ; Nichols 1922, p.~81).
+  Le « Lt Ford » est sans doute Edward Maurice Ford (né en 1882), \textit{2\textsuperscript{nd} Lieutenant} de l'A.S.C. en 1915, qui « \textit{served in France with the 18th Divisional Train} », capitaine et M.C. en 1917--1918 (Nichols 1922, p.~432 ; Spink, lot 188). Le convoi va à Acheux, tête de ligne des vivres (OH~\mbox{1916-I}, p.~273--274). Acheux-Varennes est sur la voie métrique d'Albert à Doullens, reliée à Gézaincourt à la ligne du Nord (Wikipédia, « Chemins de fer départementaux de la Somme »). Le \textit{groom} est sans doute Connelly (voir f.~6~r\textsuperscript{o}). Le 25, la Fourth Army prend Morval et Lesbœufs (OH~\mbox{1916-II}, p.~373) ; la 54\textsuperscript{th} Brigade monte au bois de Thiepval, attaqué le 26 (JMO~7/Bedf, 25~sept. 1916 ; Nichols 1922, p.~81).
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 81, 432.
 - 'Spink, Orders, Decorations and Medals e-Auction 3 (vente 21102), lot 188 : « A Great War M.C. group of four awarded to Captain E. M. Ford, Royal Army Service Corps » (spink.com/lot/21102000188).'

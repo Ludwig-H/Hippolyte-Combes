@@ -29,10 +29,6 @@ transcription: |
   Carte de Verdun : 50 c – \inc{Entretien} souliers : 30 c
   Carte Roumanie : 30 c – \inc{Divers} : W.C : 15 c
 apparat:
-- ligne: 1
-  lemme: Sept 16
-  type: abreviation
-  note: septembre 1916
 - ligne: 2
   lemme: Dejeun
   type: abreviation
@@ -44,11 +40,7 @@ apparat:
 - ligne: 5
   lemme: \inc{Lgs}
   type: lecture
-  note: 'longtemps ? ; autre lecture : 1 H (une heure)'
-- ligne: 6
-  lemme: St-Jacques
-  type: abreviation
-  note: Saint-Jacques
+  note: 'lecture incertaine ; autre lecture : 1 H (une heure)'
 - ligne: 6
   lemme: grd mouvt
   type: abreviation
@@ -65,10 +57,6 @@ apparat:
   lemme: par le
   type: graphie
   note: sic, pour « par les (quais) »
-- ligne: 10
-  lemme: 8 H s
-  type: abreviation
-  note: 8 heures du soir
 - ligne: 12
   lemme: \inc{Envois}
   type: lecture
@@ -88,7 +76,7 @@ apparat:
 - ligne: 13
   lemme: chvx
   type: abreviation
-  note: cheveux ; le 1 f qui suit est le prix de la coupe
+  note: cheveux
 - ligne: 14
   lemme: \ill
   type: lecture
@@ -113,12 +101,8 @@ apparat:
   lemme: \inc{Divers}
   type: lecture
   note: lecture proposée
-- ligne: 21
-  lemme: W.C
-  type: emprunt
-  note: 'water-closet : toilettes'
 historique: |
-  Les « Magasins de l'Hotel-de-Ville » sont le Bazar de l'Hôtel-de-Ville (Baedeker 1913, p.~52). Le « \fr{1}{4} place » est le tarif des militaires en permission (Lafon 1922, p.~37) ; le plein tarif Paris--Toulouse en 2\textsuperscript{e} classe est de 54~fr.~30 (Baedeker 1912, R.~39). Ernest Zyromski (1862--1933), auteur de \textit{L'Orgueil humain} (1904), enseigne à la faculté des lettres de Toulouse (BnF) ; Hippolyte Combes suivra son cours le 30 janvier 1917 (voir f.~67 v\textsuperscript{o}). La Roumanie, entrée en guerre le 27 août (\textit{La Dépêche}, 29 août 1916, p.~1), subit dès ce jour la contre-offensive de Falkenhayn devant Hermannstadt (Wikipédia, « Battle of Nagyszeben »).
+  Les « Magasins de l'Hotel-de-Ville » sont le Bazar de l'Hôtel de Ville (Baedeker 1913, p.~52). Le « \fr{1}{4} place » est le tarif des militaires en permission (Lafon 1922, p.~37) ; le plein tarif Paris--Toulouse en 2\textsuperscript{e} classe est de 54~F~30 (Baedeker 1912, R.~39). Ernest Zyromski (1862--1933), auteur de \textit{L'Orgueil humain} (1904), enseigne à la faculté des lettres de Toulouse (BnF) ; Hippolyte Combes suivra son cours le 30~janvier 1917 (voir f.~67~v\textsuperscript{o}). La Roumanie, entrée en guerre le 27~août (\textit{La Dépêche}, 29~août 1916, p.~1), subit dès ce jour la contre-offensive de Falkenhayn devant Hermannstadt (Wikipédia, « Battle of Nagyszeben »).
 sources:
 - Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, Baedeker, 1913, p. 52.
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, route 39.

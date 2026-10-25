@@ -11,7 +11,7 @@ transcription: |
   qq maisons. Population, très symphe
   Région très boisée, extt pittoresque \trait
   Après lunch, venu sur 1 lorry
-  à Bernaville et visé mon titre de
+  à Bernaville et \inc{visé} mon titre de
   permission au bureau de la Mission Fse
   \blanc{1}
   Bientot trouvé 1 billet = gde
@@ -27,34 +27,22 @@ transcription: |
   A Barlette : Tip au driver du lorry — 1^{f} –
   \ind Gift au Q.M.S Tait : 5 fr. —
 apparat:
-- ligne: 1
-  lemme: oct^{bre}
-  type: abreviation
-  note: octobre (finale suscrite réduite à une ondulation)
-- ligne: 2
-  lemme: Coy
-  type: abreviation
-  note: 'Company : compagnie (la 152nd Company A.S.C.)'
 - ligne: 4
   lemme: symphe
   type: abreviation
   note: sympathique
 - ligne: 7
-  lemme: visé
+  lemme: \inc{visé}
   type: lecture
   note: 'lecture incertaine ; autre lecture : visa'
 - ligne: 8
   lemme: Fse
   type: abreviation
   note: française
-- ligne: 9
-  lemme: billet
-  type: emprunt
-  note: 'angl. billet : logement chez l''habitant'
 - ligne: 10
   lemme: Ve – —
   type: abreviation
-  note: veuve (?) ; les deux tirets tiennent la place du nom, laissé en blanc
+  note: veuve (?) ; nom laissé en blanc
 - ligne: 17
   lemme: driver
   type: emprunt
@@ -67,9 +55,9 @@ apparat:
   lemme: Tait
   type: lecture
   note: 'lecture probable ; autre lecture : Taït'
-critique: Suite de la journée du 6 octobre commencée f.~33 v\textsuperscript{o}.
+critique: Suite de la journée du 6~octobre commencée f.~33~v\textsuperscript{o}.
 historique: |
-  Barlette, hameau au sud de Ribeaucourt, ne comptait que 29 habitants en 1906 ; il dépendait autrefois de Franqueville (Inventaire Hauts-de-France, IA80009826). Les bataillons de la 54th Brigade sont à quelques kilomètres (voir f.~33 v\textsuperscript{o}). Le bureau de la Mission française auprès de la 18th Division, à Acheux en septembre (voir f.~23 v\textsuperscript{o}), est passé à Bernaville. La « canteen » de Doullens est sans doute une des \textit{Expeditionary Force Canteens} (Fortescue 1928, p.~52--53), qui vendaient « à un prix sensiblement voisin du prix coûtant » (Fernand-Laurent 1917, p.~82--83). Le \textit{Quartermaster-Serjeant} Tait (vivres et matériel de la compagnie : FSPB 1914) n'est pas identifié.
+  Barlette, hameau au sud de Ribeaucourt, ne comptait que 29~habitants en 1906 ; il dépendait autrefois de Franqueville (Inventaire Hauts-de-France, IA80009826). Les bataillons de la 54\textsuperscript{th} Brigade sont à quelques kilomètres (voir f.~33~v\textsuperscript{o}). Le bureau de la Mission française auprès de la 18\textsuperscript{th} Division, à Acheux en septembre (voir f.~23~v\textsuperscript{o}), est passé à Bernaville. La « canteen » de Doullens est sans doute une des \textit{Expeditionary Force Canteens} (Fortescue 1928, p.~52--53), qui vendaient « à un prix sensiblement voisin du prix coûtant » (Fernand-Laurent 1917, p.~82--83). Le \textit{Quartermaster-Serjeant} Tait (vivres et matériel de la compagnie : FSPB 1914) n'est pas identifié.
 sources:
 - Inventaire général du patrimoine culturel, Région Hauts-de-France, dossier IA80009826, « Hameau de Barlette » (Ribeaucourt), 2010, inventaire.hautsdefrance.fr.
 - Fortescue, Sir J. W., A Short Account of Canteens in the British Army, Cambridge, Cambridge University Press, 1928, p. 52-53.

@@ -20,17 +20,9 @@ transcription: |
   \blanc{4}
 apparat:
 - ligne: 1
-  lemme: ma
+  lemme: \inc{Assomptn}
   type: abreviation
-  note: mardi
-- ligne: 1
-  lemme: Assomptn
-  type: abreviation
-  note: Assomption
-- ligne: 1
-  lemme: Assomptn
-  type: lecture
-  note: 'finale lue n ; autre lecture : Assompt°'
+  note: 'Assomption ; finale lue n ; autre lecture : Assompt°'
 - ligne: 10
   lemme: propri
   type: abreviation
@@ -40,7 +32,7 @@ apparat:
   type: abreviation
   note: deux litres
 historique: |
-  L'Assomption est l'une des quatre fêtes religieuses que le Concordat a gardées comme jours chômés (indult Caprara, 9 avril 1802) ; Hippolyte Combes ne parle ni de messe ni d'office. Les 15 et 16 août, la 51st (Highland) Division relève la New Zealand Division entre La Chapelle-d'Armentières et la Lys ; sa 152nd Brigade cantonne dans Armentières (Bewsher 1921, pp. 87-88) : ce sont les « Ecossais » qu'il y croise le 19 (voir f. 11 v\textsuperscript{o}). La chambre est sans doute celle qu'il occupe depuis le 7 août au-dessus de la poste (voir f. 7 v\textsuperscript{o}). Les 5 F versés à la propriétaire couvrent la cuisine de la semaine et deux litres de lait ; le litre de lait étant à 25 ou 30 c (voir f. 7 r\textsuperscript{o} et 9 v\textsuperscript{o}), la cuisine revient à 4 F 50 environ.
+  L'Assomption est l'une des quatre fêtes religieuses que le Concordat a gardées comme jours chômés (indult Caprara, 9~avril 1802) ; Hippolyte Combes ne parle ni de messe ni d'office. Les 15 et 16~août, la 51\textsuperscript{st} (Highland) Division relève la New Zealand Division entre La Chapelle-d'Armentières et la Lys ; sa 152\textsuperscript{nd} Brigade cantonne dans Armentières (Bewsher 1921, p. 87--88) : ce sont les « Ecossais » qu'il y croise le 19 (voir f.~11~v\textsuperscript{o}). La chambre est sans doute celle qu'il occupe depuis le 7~août au-dessus de la poste (voir f.~7~v\textsuperscript{o}). Les 5~F versés à la propriétaire couvrent la cuisine de la semaine et deux litres de lait ; le litre de lait étant à 25 ou 30~c (voir ff.~7~r\textsuperscript{o} et 9~v\textsuperscript{o}), la cuisine revient à 4~F~50 environ.
 sources:
 - Indult du cardinal Caprara pour la réduction des fêtes, 9 avril 1802, publié par l'arrêté des consuls du 29 germinal an X (19 avril 1802).
 - Bewsher, F. W., The History of the 51st (Highland) Division, 1914–1918, Édimbourg–Londres, W. Blackwood & Sons, 1921, pp. 87-88.

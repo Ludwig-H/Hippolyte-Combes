@@ -26,18 +26,18 @@
   \node[LJp=26mm] (ma) at (111,-20) {\textbf{Marie Anaïs Alric}\\1838–1907};
   \draw[LJl] (u1) -- (u1 |- hp.north);
   \draw[LJl] (u2) -- (u2 |- ma.north);
-  \draw[LJl] (hp) -- (ma) coordinate[pos=0.5] (u3) node[LJm, midway, above=0.3mm] {Millau, 22 juillet 1864};
+  \draw[LJl] (hp) -- (ma) coordinate[pos=0.5] (u3) node[LJm, midway, above=0.3mm] {Millau, 22~juillet 1864};
   % --- fratrie ---
   \node[LJp=23mm] (fr) at (12,-43) {\textbf{Françoise}\\1871–1942\\\textit{carmélite à Périgueux}\\\textit{(sœur Marie de la Croix)}};
   \node[LJp=21mm] (jo) at (37,-43) {\textbf{Joséphine}\\1873 – oct. 1914\\\textit{morte à Nogent-le-Rotrou}};
   \node[LJp=21mm] (mr) at (61,-43) {\textbf{Maria}\\1875–1903\\\textit{religieuse, morte à Carthage}};
-  \node[LJh=29mm] (hc) at (91,-43) {\textbf{Hippolyte Combes}\\Millau, 14 août 1876 –\\Saint-Chély-d'Apcher, 2 sept. 1970\\\textit{professeur d'anglais}};
-  \node[LJp=24mm] (mc) at (127,-43) {\textbf{Marguerite Calmels}\\Millau, 15 avril 1892 –\\Millau, 19 mars 1974\\\textit{mariés à Millau le 25 octobre 1917}};
+  \node[LJh=29mm] (hc) at (91,-43) {\textbf{Hippolyte Combes}\\Millau, 14~août 1876 –\\Saint-Chély-d'Apcher, 2~sept. 1970\\\textit{professeur d'anglais}};
+  \node[LJp=24mm] (mc) at (127,-43) {\textbf{Marguerite Calmels}\\Millau, 15~avril 1892 –\\Millau, 19~mars 1974\\\textit{mariés à Millau le 25~octobre 1917}};
   \coordinate (b1) at (u3 |- 0,-31);
   \draw[LJl] (u3) -- (b1);
   \draw[LJl] (fr.north |- b1) -- (hc.north |- b1);
   \foreach \n in {fr,jo,mr,hc} \draw[LJl] (\n.north |- b1) -- (\n.north);
-  \node[LJm] at (37,-55.5) {et cinq enfants morts en bas âge (1865–1878)};
+  \node[LJm] at (37,-55.5) {et cinq enfants morts en bas âge (1865--1878)};
   \draw[LJl] (hc) -- (mc) coordinate[midway] (u4) node[LJm, midway, above=0.2mm] {×};
   % --- enfants ---
   \foreach \x/\n/\t in {10/va/{\textbf{Valentine}\\1918–2018\\\textit{ép. André Combès}},
@@ -77,7 +77,7 @@
   \node[LJp=24mm] (gab) at (58,-21) {\textbf{Gabriel Calmels}\\1852–1921\\\textit{médecin à Millau}};
   \node[LJp=24mm] (vc) at (88,-21) {\textbf{Valentine Cartairade}\\1858–1943};
   \node[LJp=22mm] (tc) at (114,-21) {\textbf{Thérèse Cartairade}\\× Charles Layral\\\textit{notaire à Millau}};
-  \node[LJp=12mm] (ar) at (133.5,-21) {Mme Ernest Arnal};
+  \node[LJp=12mm] (ar) at (133.5,-21) {M\textsuperscript{me} Ernest Arnal};
   \coordinate (c1) at (v1 |- 0,-11);
   \draw[LJl] (v1) -- (c1);
   \draw[LJl] (ec.north |- c1) -- (gab.north |- c1);
@@ -102,7 +102,7 @@
   \draw[LJl] (tc.south) -- ++(0,-2) -| (lay.north);
   \node[LJp=28mm, anchor=north] (vin) at (39,-55) {\textbf{Germaine}, \textbf{Robert}, \textbf{Paul},\\\textbf{D\textsuperscript{r} Gabriel («~Gaby~»)}\\\textit{et leurs frères et sœurs Vincens}};
   \draw[LJl] (mad.south) -- (vin.north);
-  \node[LJm, anchor=north west, text width=72mm, align=left] at (66,-56) {Branche Fabry–Faure : Eugénie-Joséphine Calmels, sœur de Joseph Hippolyte, ép. Charles Fabry, notaire à Millau. Sa petite-fille Marguerite Barnerot, M\textsuperscript{me} Camille Faure, vit à Neuilly avec ses enfants Henri († 1918), André, Germaine et Marcel. Branches Combes, Calmels et Vincens d'après les recherches de Pierre Combes et de Nicole Vincens, fille du D\textsuperscript{r} Gabriel («~Gaby~») Vincens.};
+  \node[LJm, anchor=north west, text width=72mm, align=left] at (66,-56) {Branche Fabry–Faure : Eugénie-Joséphine Calmels, sœur de Joseph Hippolyte, ép. Charles Fabry, notaire à Millau. Sa petite-fille Marguerite Barnerot, M\textsuperscript{me} Camille Faure, vivait à Neuilly avec ses enfants Henri († 1918), André, Germaine et Marcel. Branches Combes, Calmels et Vincens d'après les recherches de Pierre Combes et de Nicole Vincens, fille du D\textsuperscript{r} Gabriel («~Gaby~») Vincens.};
 \end{tikzpicture}
 \caption{La famille de Marguerite Calmels : Calmels, Cartairade et alliés.}
 \label{arbre-calmels}

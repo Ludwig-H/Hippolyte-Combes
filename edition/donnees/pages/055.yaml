@@ -34,14 +34,6 @@ apparat:
   lemme: \inc{&} moi
   type: lecture
   note: 'sans doute lapsus pour « en » ; autre lecture : ds'
-- ligne: 6
-  lemme: S^{te} Marie
-  type: abreviation
-  note: Sainte-Marie(-des-Champs), quartier de Toulouse
-- ligne: 6
-  lemme: M^{te}
-  type: abreviation
-  note: Marguerite (Calmels)
 - ligne: 10
   lemme: déjeun
   type: abreviation
@@ -54,52 +46,20 @@ apparat:
   lemme: M. C^{zt}.
   type: abreviation
   note: Monsieur Crouzet
-- ligne: 11
-  lemme: S^{t} Joseph
-  type: abreviation
-  note: Saint-Joseph (quartier de Toulouse)
 - ligne: 12
   lemme: \inc{Là} pris tram
   type: lecture
   note: lecture incertaine
-- ligne: 12
-  lemme: St-Agne
-  type: abreviation
-  note: Saint-Agne
-- ligne: 13
-  lemme: St-Agne
-  type: abreviation
-  note: Saint-Agne
 - ligne: 16
-  lemme: j-au carref
+  lemme: carref
   type: abreviation
-  note: jusqu'au carrefour (des Récollets)
-- ligne: 18
-  lemme: St-Agne
-  type: abreviation
-  note: Saint-Agne
+  note: carrefour (des Récollets)
 - ligne: 19
   lemme: Exc^{te}
   type: abreviation
   note: excellente
-- ligne: 20
-  lemme: 9^{H} 30 s
-  type: abreviation
-  note: 9 heures 30 du soir
-- ligne: 22
-  lemme: 1 f
-  type: abreviation
-  note: 1 franc
-- ligne: 22
-  lemme: Varia
-  type: emprunt
-  note: divers (latin)
-- ligne: 22
-  lemme: 10 c.
-  type: abreviation
-  note: 10 centimes
 historique: |
-  Sur l'appartement de la rue de Languedoc, sur Sainte-Marie et sur Émile Crouzet (« M. C\textsuperscript{zt} »), voir f.~27 v\textsuperscript{o}. Le carnet nomme ici pour la première fois Marguerite Calmels sa « fiancée », plus d'un an avant le mariage du 25 octobre 1917. « Mme C\textsuperscript{h} » n'est pas identifiée (Mme Calmels mère ?). Le tram Esquirol -- Saint-Agne -- Castanet (Baedeker 1912, p.~298 ; Wikipédia) mène au pied des coteaux de la rive droite : de Pouvourville, village de la commune de Toulouse, on gagne la crête de Pech-David, à quelque 130~m au-dessus de la Garonne (Toulouse Métropole). La « Caserne » est sans doute la caserne Niel, boulevard des Récollets. Le bouquet (3~f) vaut plus d'une demi-journée de solde (voir f.~23 v\textsuperscript{o}).
+  Sur l'appartement de la rue de Languedoc, sur Sainte-Marie et sur Émile Crouzet (« M. C\textsuperscript{zt} »), voir f.~27~v\textsuperscript{o}. Le carnet nomme ici pour la première fois Marguerite Calmels sa « fiancée », plus d'un an avant le mariage du 25~octobre 1917. « Mme C\textsuperscript{h} » n'est pas identifiée (M\textsuperscript{me} Calmels mère ?). Le tram Esquirol--Saint-Agne--Castanet (Baedeker 1912, p.~298 ; Wikipédia) mène au pied des coteaux de la rive droite : de Pouvourville, village de la commune de Toulouse, on gagne la crête de Pech-David, à quelque 130~m au-dessus de la Garonne (Toulouse Métropole). La « Caserne » est sans doute la caserne Niel, boulevard des Récollets. Le bouquet (3~F) vaut plus d'une demi-journée de solde (voir f.~23~v\textsuperscript{o}).
 sources:
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, p. 298.
 - Wikipédia, art. « Ancien tramway de Toulouse » (d'après C. Lacombe et P. Malterre, Omnibus, tramways et autobus de Toulouse, éd. du Cabri, 1983), consulté en oct. 2026.

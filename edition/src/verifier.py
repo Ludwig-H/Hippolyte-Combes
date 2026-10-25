@@ -125,21 +125,29 @@ def verifier_pdf(pages: list[dict], erreurs: list[str], avertissements: list[str
     if not pdf.exists() or not aux.exists():
         erreurs.append("PDF ou fichier .aux absent")
         return
-    lab = dict(re.findall(r"\\newlabel\{(cl\d{3}(?:-fac)?)\}\{\{[^{}]*\}\{(\d+)\}", aux.read_text(encoding="utf-8")))
+    lab = dict(re.findall(r"\\newlabel\{(cl\d{3}(?:-fac)?)\}\{\{[^{}]*\}\{([^{}]+)\}", aux.read_text(encoding="utf-8")))
+    import pymupdf
+    d = pymupdf.open(pdf)
+    if not d.page_count:
+        erreurs.append("PDF vide ou compilation inachevée")
+        return
+    # Pagination multiple (romains, arabes, romains majuscules) : rang physique de chaque étiquette de page.
+    rang = {}
+    for i in range(d.page_count):
+        rang.setdefault(d[i].get_label() or str(i + 1), i + 1)
     for c in pages:
         n = c["cliche"]
         a, b = lab.get(f"cl{n:03d}"), lab.get(f"cl{n:03d}-fac")
         if a is None or b is None:
             erreurs.append(f"cliché {n:03d} : étiquettes absentes")
             continue
-        a, b = int(a), int(b)
-        if a % 2 or b != a + 1:
-            erreurs.append(f"cliché {n:03d} : vis-à-vis rompu (transcription p. {a}, fac-similé p. {b})")
-    import pymupdf
-    d = pymupdf.open(pdf)
-    if not d.page_count:
-        erreurs.append("PDF vide ou compilation inachevée")
-        return
+        pa, pb = rang.get(a), rang.get(b)
+        if pa is None or pb is None:
+            erreurs.append(f"cliché {n:03d} : page {a} ou {b} absente du PDF")
+            continue
+        if pa % 2 or pb != pa + 1 or not a.isdigit() or int(a) % 2:
+            erreurs.append(f"cliché {n:03d} : vis-à-vis rompu (transcription p. {a}, fac-similé p. {b} ; rangs {pa}, {pb})")
+        lab[f"cl{n:03d}-fac"] = str(pb)
     polices = set()
     for i, page in enumerate(d):
         for f in page.get_fonts():
@@ -160,7 +168,7 @@ def verifier_pdf(pages: list[dict], erreurs: list[str], avertissements: list[str
     empreintes = {}
     for c in pages:
         cible = lab.get(f"cl{c['cliche']:03d}-fac")
-        if cible is None or not 1 <= int(cible) <= d.page_count:
+        if cible is None or not cible.isdigit() or not 1 <= int(cible) <= d.page_count:
             erreurs.append(f"cliché {c['cliche']:03d} : fac-similé hors du PDF")
             continue
         source = EDITION / "fac-similes" / f"{c['cliche']:03d}.jpg"

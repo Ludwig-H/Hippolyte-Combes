@@ -2,7 +2,7 @@ cliche: 167
 fichier: 20251126_111251.jpg
 date: Dimanche 11 mars 1917 (fin) – lundi 12 mars 1917
 mois: Mars 1917
-lieux: Hérissart, Toutencourt, Contay, Beaucourt-sur-l'Hallue ?, Puchevillers et Candas (Somme)
+lieux: Hérissart, Toutencourt, Contay, Beaucourt-sur-l'Hallue ?, Molliens-au-Bois, Puchevillers, Raincheval et Candas (Somme)
 titre: Nouvelle chambre au calme ; tournée en Wolseley de Toutencourt à Candas
 transcription: |
   D\sl{im. 11 (}Fin) \hfill Mar\sl{s 191}7
@@ -28,55 +28,39 @@ transcription: |
   Calvert's Tooth Powder : 1^{f} 75c
 apparat:
 - ligne: 2
-  lemme: favorables
+  lemme: \inc{favorables}
   type: lecture
   note: 'lecture incertaine ; autre lecture : favorable'
-- ligne: 6
-  lemme: tommy
-  type: emprunt
-  note: Soldat britannique (familier).
 - ligne: 6
   lemme: \inc{aidé} \inc{porter}
   type: lecture
   note: lecture incertaine ; comprendre « [m'a] aidé [à] porter »
-- ligne: 7
-  lemme: 7^{h} m.
-  type: abreviation
-  note: 7 heures du matin.
 - ligne: 11
-  lemme: Beaucourt
+  lemme: \inc{Beaucourt}
   type: lecture
   note: lecture incertaine ; sans doute Beaucourt-sur-l'Hallue
 - ligne: 12
-  lemme: Wolsey
+  lemme: \inc{Wolsey}
   type: lecture
   note: lecture incertaine ; pour Wolseley (marque automobile)
-- ligne: 13
-  lemme: que le Vauxhall
-  type: lecture
-  note: le, non la
 - ligne: 14
-  lemme: Jessie
+  lemme: \inc{Jessie}
   type: lecture
   note: 'lecture incertaine ; autre lecture : Jellie'
 - ligne: 17
   lemme: Exp. F. Canteen
   type: abreviation
-  note: 'Expeditionary Force Canteen : cantine du corps expéditionnaire britannique.'
+  note: 'Expeditionary Force Canteen : cantine du corps expéditionnaire britannique'
 - ligne: 17
   lemme: 2 tins of
   type: emprunt
-  note: deux boîtes de.
+  note: deux boîtes de
 - ligne: 18
   lemme: Calvert's Tooth Powder
   type: emprunt
-  note: poudre dentifrice Calvert.
-- ligne: 18
-  lemme: 1^{f} 75c
-  type: abreviation
-  note: 1 franc 75 centimes.
+  note: poudre dentifrice Calvert
 historique: |
-  Candas est le point de départ de la voie normale Candas--Acheux, construite au printemps 1916 (OH 1916-I, p.~273), et le siège du dépôt n\textsuperscript{o}~2 d'aviation du R.F.C. (Jones 1928, p.~198--199). Le chauffeur australien s'explique par le passage du I Anzac Corps à la Fifth Army le 15 février (OH 1917-I, p.~74). La Vauxhall type D était la voiture d'état-major britannique courante (Tattersfield 2021) ; « Jessie » (lecture incertaine) n'est pas identifié. Les \textit{Expeditionary Force Canteens} vendaient les marques britanniques presque au prix coûtant (Fernand-Laurent 1917, p.~82--83) ; la boîte de Calvert's, payée 60~c à Louvencourt le 2 janvier (voir f.~59~r\textsuperscript{o}), coûte ici près de 88~c.
+  Candas est le point de départ de la voie normale Candas--Acheux, construite au printemps 1916 (OH~\mbox{1916-I}, p.~273), et le siège du dépôt n\textsuperscript{o}~2 d'aviation du R.F.C. (Jones 1928, p.~198--199). Le chauffeur australien s'explique par le passage du I Anzac Corps à la Fifth Army le 15~février (OH~\mbox{1917-I}, p.~74). La Vauxhall type D était la voiture d'état-major britannique courante (Tattersfield 2021) ; « Jessie » (lecture incertaine) n'est pas identifié. Les \textit{Expeditionary Force Canteens} vendaient les marques britanniques presque au prix coûtant (Fernand-Laurent 1917, p.~82--83) ; la boîte de Calvert's, payée 60~c à Louvencourt le 2~janvier (voir f.~59~r\textsuperscript{o}), coûte ici près de 88~c.
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.
 - Jones, H. A., The War in the Air, vol. II, Oxford, Clarendon Press, 1928, p. 198-199.

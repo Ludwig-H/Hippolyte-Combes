@@ -2,7 +2,7 @@ cliche: 32
 fichier: 20251126_094250.jpg
 date: Jeudi 31 août 1916
 mois: Août 1916
-lieux: Marquay, Ramecourt ?, Saint-Michel-sur-Ternoise et Saint-Pol-sur-Ternoise (Pas-de-Calais)
+lieux: Marquay, Ramecourt ?, Saint-Michel-sur-Ternoise, Saint-Pol-sur-Ternoise et Ostreville (Pas-de-Calais)
 titre: À pied à Saint-Pol ; l'église des Carmes et la plaque de Benoît Labre ; cartes
 transcription: |
   31 \sl{J} – Enfin, belle journée – \hfill \sl{Aout/16}
@@ -29,34 +29,22 @@ transcription: |
   Carte du départt : 70c. — \hfill Div. cartes ples : 0\sur{5}{8}0
   Cartes ples militaires : 40c. — \hfill \addm{080}
 apparat:
-- ligne: 1
-  lemme: Aout/16
-  type: abreviation
-  note: août 1916
-- ligne: 3
-  lemme: St-Pol
-  type: abreviation
-  note: Saint-Pol(-sur-Ternoise)
 - ligne: 5
   lemme: \inc{Ramecourt}
   type: lecture
   note: lecture incertaine ; Roëllecourt, plus logique, exclu par le tracé
 - ligne: 6
-  lemme: St-Michel
-  type: abreviation
-  note: Saint-Michel(-sur-Ternoise)
-- ligne: 6
-  lemme: de-Ternoize
+  lemme: St-Michel-de-Ternoize
   type: graphie
-  note: pour « sur-Ternoise »
+  note: Saint-Michel-sur-Ternoise
 - ligne: 7
   lemme: g^{d}-route
   type: abreviation
   note: grand-route
 - ligne: 7
-  lemme: St-Pol
+  lemme: Arras. St-Pol.
   type: abreviation
-  note: Saint-Pol (la grand-route d'Arras à Saint-Pol)
+  note: la grand-route d'Arras à Saint-Pol
 - ligne: 9
   lemme: sous-pref^{re}
   type: abreviation
@@ -69,14 +57,6 @@ apparat:
   lemme: hab^{ts}
   type: abreviation
   note: habitants
-- ligne: 10
-  lemme: gd-place
-  type: abreviation
-  note: grand-place
-- ligne: 13
-  lemme: s/1
-  type: abreviation
-  note: sur un
 - ligne: 14
   lemme: bienh^{x}
   type: abreviation
@@ -108,13 +88,13 @@ apparat:
 - ligne: 19
   lemme: 0\sur{5}{8}0
   type: surcharge
-  note: 8 sur 5 (?) ; lire 0 f 80
+  note: écrit sur 5 (lecture incertaine) ; lire 0~f~80
 - ligne: 20
   lemme: \addm{080}
   type: ajout
-  note: reprise du montant surchargé de la l. 19
+  note: reprise du montant surchargé de la l.~19
 historique: |
-  Ramecourt, au sud-ouest de Saint-Pol, n'est pas sur le trajet ; Roëllecourt, sur la grand-route d'Arras à 2,9 km de Marquay, conviendrait mieux (OSM). Saint-Pol compte 4 243 habitants en 1911 (Cassini/EHESS). L'église est l'ancienne chapelle des Carmes, datée de 1682 et non de 1697 (Mérimée PA00108424) ; bombardée en 1943--1944, elle a fait place à l'église Saint-Paul (Palissy PM62001934). Benoît-Joseph Labre, né à Amettes, est béatifié en 1860 et canonisé en 1881 : la plaque date sans doute d'entre-temps. Son passage à Saint-Pol en mars 1767, quand il cherche à entrer chez les chartreux ou à la Trappe (Delany 1907), n'est pas attesté ailleurs. La carte postale revient ici à 4 c à la douzaine, contre 10 c en Flandre (voir f. 3 r\textsuperscript{o}).
+  Ramecourt, au sud-ouest de Saint-Pol, n'est pas sur le trajet ; Roëllecourt, sur la grand-route d'Arras à 2,9~km de Marquay, conviendrait mieux (OSM). Saint-Pol compte 4 243~habitants en 1911 (Cassini/EHESS). L'église est l'ancienne chapelle des Carmes, datée de 1682 et non de 1697 (Mérimée PA00108424) ; bombardée en 1943--1944, elle a fait place à l'église Saint-Paul (Palissy PM62001934). Benoît-Joseph Labre, né à Amettes, est béatifié en 1860 et canonisé en 1881 : la plaque date sans doute d'entre-temps. Son passage à Saint-Pol en mars 1767, quand il cherche à entrer chez les chartreux ou à la Trappe (Delany 1907), n'est pas attesté ailleurs. Achetée à la douzaine, la carte postale revient ici à 4 c environ, contre 10 c en Flandre (voir f.~3~r\textsuperscript{o}).
 sources:
 - Ministère de la Culture, base Mérimée, notice PA00108424 (Saint-Pol-sur-Ternoise, église).
 - Ministère de la Culture, base Palissy, notice PM62001934 (Saint-Pol-sur-Ternoise, orgue).

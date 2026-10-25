@@ -2,7 +2,7 @@ cliche: 183
 fichier: 20251126_111715.jpg
 date: Lundi 23 – mercredi 25 avril 1917
 mois: Avril 1917
-lieux: Hérissart, Toutencourt, Pierregot, Acheux-en-Amiénois et Mirvaux (Somme)
+lieux: Hérissart, Toutencourt, Pierregot, Acheux-en-Amiénois, Puchevillers et Mirvaux (Somme)
 titre: Premiers jours d'été ; Acheux vidé de troupes ; soirée chez les Denis
 transcription: |
   23 \sl{Lundi} \hfill \sl{Avril 1917}
@@ -36,10 +36,6 @@ apparat:
   lemme: Tempér^{e}
   type: abreviation
   note: Température
-- ligne: 14
-  lemme: 5^{h}
-  type: abreviation
-  note: 5 heures
 - ligne: 16
   lemme: \inc{Beaucourt}
   type: lecture
@@ -53,7 +49,7 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : Mignot'
 historique: |
-  Le 23, jour où la Third Army attaque à l'est d'Arras (voir f.~91 r\textsuperscript{o}), le carnet ne note que le beau temps et les courses. Acheux, où Hippolyte Combes avait eu son bureau de novembre à février (voir f.~73 v\textsuperscript{o}), a perdu le 2 avril le QG du V Corps, parti pour Bihucourt, derrière le nouveau front (LLT). Le chemin de Mirvaux, au sud d'Hérissart, domine la vallée de l'Hallue, où Faidherbe avait livré le 23 décembre 1870 la bataille de Pont-Noyelles (Faidherbe 1871) ; à Montigny, Hippolyte Combes avait traité avec le maire, Paul Dubois (f.~59 v\textsuperscript{o}). Mme Miquel (?) et Louise, de Pierregot, ne sont pas identifiées ; sur les Denis, voir f.~89 r\textsuperscript{o}.
+  Le 23, jour où la Third Army attaque à l'est d'Arras (voir f.~91~r\textsuperscript{o}), le carnet ne note que le beau temps et les courses. Acheux, où Hippolyte Combes avait eu son bureau de novembre à février (voir f.~73~v\textsuperscript{o}), a perdu le 2~avril le QG du V Corps, parti pour Bihucourt, derrière le nouveau front (LLT). Le chemin de Mirvaux, au sud d'Hérissart, domine la vallée de l'Hallue, où Faidherbe avait livré le 23~décembre 1870 la bataille de Pont-Noyelles (Faidherbe 1871) ; à Montigny, Hippolyte Combes avait traité avec le maire, Paul Dubois (f.~59~v\textsuperscript{o}). M\textsuperscript{me} Miquel (?) et Louise, de Pierregot, ne sont pas identifiées ; sur les Denis, voir f.~89~r\textsuperscript{o}.
 sources:
 - The Long, Long Trail (C. Baker), « The British V Corps in France and Flanders », copie Wayback d'août 2020.
 - Faidherbe, L., Campagne de l'armée du Nord en 1870-1871, Paris, E. Dentu, 1871.

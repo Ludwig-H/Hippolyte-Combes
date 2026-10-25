@@ -3,7 +3,7 @@ fichier: 20251126_110059.jpg
 date: Vendredi 26 janvier 1917 (suite, nuit du 26 au 27)
 mois: Janvier 1917
 lieux: Gézaincourt et Amiens (Somme)
-titre: Arrivée à Amiens vers 2 h du matin ; frais de bagages et état de la caisse
+titre: Arrivée à Amiens vers 2~h du matin ; frais de bagages et état de la caisse
 transcription: |
   Ven. \sl{26 (suite)} \hfill \sl{Janvier 1917}
   Arrivé Amiens vers 2^{H} m
@@ -19,10 +19,6 @@ transcription: |
   \filet
   \blanc{12}
 apparat:
-- ligne: 2
-  lemme: 2^{H} m
-  type: abreviation
-  note: deux heures du matin
 - ligne: 3
   lemme: penetrant
   type: lecture
@@ -36,20 +32,12 @@ apparat:
   type: abreviation
   note: bagages
 - ligne: 8
-  lemme: 27 kos.
-  type: lecture
-  note: même forme qu'au f. 12 v° (« 13 kos »)
-- ligne: 8
   lemme: kos.
   type: abreviation
-  note: kilos
-- ligne: 9
-  lemme: 319^{f} 50c
-  type: abreviation
-  note: 319 francs 50 centimes
+  note: kilos (même abréviation au f.~12~v\textsuperscript{o})
 critique: |
   Le récit reprend au f.~65~r\textsuperscript{o}, à la date du 27, en revenant sur l'arrivée à Amiens.
 historique: |
-  Le voiturier d'Acheux est celui de la voiture « qui fait service poste » (f.~64~r\textsuperscript{o}). À Gézaincourt, Hippolyte Combes ne paie que 10~c pour 27~kg : les voyageurs avaient droit à 30~kg de bagages en franchise, et seul un droit d'enregistrement de 10~c était perçu (Baedeker 1913, p.~xiii). À Paris, il fait enregistrer de nouveau ses sacs pour Toulouse (f.~65~r\textsuperscript{o}). Les 319~f~50 en caisse au départ valent à peu près deux mois de ce que verse la Mission 162~f~75 en décembre comme en janvier ; voir f.~60~r\textsuperscript{o} et 62~v\textsuperscript{o} ; ils doivent couvrir le voyage et les achats de la permission (voir f.~66~r\textsuperscript{o}).
+  Le voiturier d'Acheux est celui de la voiture « qui fait service poste » (f.~64~r\textsuperscript{o}). À Gézaincourt, Hippolyte Combes ne paie que 10~c pour 27~kg : les voyageurs avaient droit à 30~kg de bagages en franchise, et seul un droit d'enregistrement de 10~c était perçu (Baedeker 1913, p.~xiii). À Paris, il fait enregistrer de nouveau ses sacs pour Toulouse (f.~65~r\textsuperscript{o}). Les 319~F~50 en caisse au départ valent à peu près deux mois de ce que verse la Mission (162~F~75 en décembre comme en janvier ; voir ff.~60~r\textsuperscript{o} et 62~v\textsuperscript{o}) ; ils doivent couvrir le voyage et les achats de la permission (voir f.~66~r\textsuperscript{o}).
 sources:
 - Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, K. Baedeker, 1913, p. xiii.

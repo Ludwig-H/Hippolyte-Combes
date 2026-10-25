@@ -16,7 +16,7 @@ transcription: |
   pour acheter paille & foin.
   \blanc{1}
   \sl{Sam. 10}.
-  \ind[2] Sur pied dès 7^{h}.
+  \ind[2] Sur pied \inc{dès} 7^{h}.
   Dû sortir aussitôt pour aller aux \inc{L^{ns}} de M.T.,
   at the end of the road.
   nuit & matinée, froid vif. très penetrant
@@ -33,25 +33,17 @@ apparat:
   type: abreviation
   note: française
 - ligne: 8
-  lemme: 6^{h} s
-  type: abreviation
-  note: six heures du soir
-- ligne: 8
   lemme: Cap. W^{m}
   type: abreviation
   note: capitaine Williams
 - ligne: 11
-  lemme: dès
+  lemme: \inc{dès}
   type: lecture
-  note: 'autre lecture : du'
-- ligne: 11
-  lemme: 7^{h}
-  type: abreviation
-  note: sept heures
+  note: 'lecture incertaine ; autre lecture : du'
 - ligne: 12
-  lemme: L^{ns}
+  lemme: \inc{L^{ns}}
   type: lecture
-  note: lecture incertaine ; lignes (angl. lines, cantonnement) ?
+  note: lecture incertaine ; lignes (angl. \textit{lines}, cantonnement) ?
 - ligne: 12
   lemme: M.T.
   type: abreviation
@@ -69,11 +61,11 @@ apparat:
   type: abreviation
   note: général
 - ligne: 20
-  lemme: Votté
+  lemme: \inc{Votté}
   type: lecture
   note: 'lecture incertaine ; autres lectures : Volké, Vossé'
 historique: |
-  Toutencourt, à 3~km d'Hérissart, abrite du 2 juillet 1916 au 28 mars 1917 le QG de la Fifth Army et sa Mission française (LLT ; voir f.~52 v\textsuperscript{o}). Payé jusque-là par la Mission du corps d'Acheux (voir f.~74 r\textsuperscript{o}), Hippolyte Combes l'est désormais par l'armée, aux dates prévues (voir f.~78 r\textsuperscript{o}, 81 r\textsuperscript{o}). Le lieutenant Croughton, rencontré le 9 décembre (voir f.~54 v\textsuperscript{o}), n'est pas identifié. Martinsart, à 4~km au nord d'Albert, était près du front jusqu'en septembre 1916 (CWGC) ; en février 1917, la 54th Brigade loge au bois voisin (JMO 7/Bedf, févr. 1917). Sur le château, voir f.~52 r\textsuperscript{o} ; le général « Votté » n'est pas identifié.
+  Toutencourt, à 3~km d'Hérissart, abrite du 2~juillet 1916 au 28~mars 1917 le QG de la Fifth Army et sa Mission française (LLT ; voir f.~52~v\textsuperscript{o}). Payé jusque-là par la Mission du corps d'Acheux (voir f.~74~r\textsuperscript{o}), Hippolyte Combes l'est désormais par l'armée, aux dates prévues (voir ff.~78~r\textsuperscript{o}, 81~r\textsuperscript{o}). Le lieutenant Croughton, rencontré le 9~décembre (voir f.~54~v\textsuperscript{o}), n'est pas identifié. Martinsart, à 4~km au nord d'Albert, était près du front jusqu'en septembre 1916 (CWGC) ; en février 1917, la 54\textsuperscript{th} Brigade loge au bois voisin (JMO~7/Bedf, févr. 1917). Sur le château, voir f.~52~r\textsuperscript{o} ; le général « Votté » n'est pas identifié.
 sources:
 - The Long, Long Trail (C. Baker), « The British Fifth or Reserve Army 1916-1918 », copie Wayback du 23 juil. 2024.
 - Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).

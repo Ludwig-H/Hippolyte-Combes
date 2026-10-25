@@ -25,10 +25,6 @@ transcription: |
   et retrouver mon billet
   \ind Ce soir, exceptt, calme absolu
 apparat:
-- ligne: 1
-  lemme: Oct^{b}
-  type: abreviation
-  note: octobre
 - ligne: 7
   lemme: \inc{si}
   type: lecture
@@ -41,28 +37,15 @@ apparat:
   lemme: R.A.T.
   type: abreviation
   note: réserve de l'armée territoriale
-- ligne: 12
-  lemme: frs
-  type: abreviation
-  note: français
-- ligne: 14
-  lemme: 9 H s.
-  type: abreviation
-  note: 9 heures du soir
 - ligne: 14
   lemme: lost my way
   type: emprunt
   note: perdu mon chemin
-- ligne: 17
-  lemme: billet
-  type: emprunt
-  note: 'anglais : cantonnement, logement'
 - ligne: 18
   lemme: exceptt
   type: abreviation
   note: exceptionnellement
 historique: |
-  La basilique Notre-Dame de Brebières est l'œuvre d'Edmond Duthoit (Mérimée PA80000002). Sa tour porte la Vierge dorée d'Albert Roze. Les obus l'atteignent en janvier 1915, non en 1914 : le 15, la statue s'incline, puis se couche à l'horizontale. Elle reste ainsi jusqu'au 16 avril 1918, quand l'artillerie britannique l'abat (diocèse d'Amiens). L'adjudant interprète Schumacher est déjà nommé en août (voir f.~12~r\textsuperscript{o}). D'après sa fiche matricule, Hippolyte Combes doit sans doute passer dans la R.A.T. le 1\textsuperscript{er} novembre 1916 : la mesure, dont le texte n'est pas connu, le touche. Le 24, on lui dit qu'il reste à la Mission (voir f.~43~r\textsuperscript{o}) ; la menace reparaît le 1\textsuperscript{er} décembre (f.~52~v\textsuperscript{o}).
+  La tour de la basilique Notre-Dame de Brebières (voir f.~39~v\textsuperscript{o}) porte la Vierge dorée d'Albert Roze. Les obus l'atteignent en janvier 1915, non en 1914 : le 15, la statue s'incline, puis se couche à l'horizontale. Elle reste ainsi jusqu'au 16~avril 1918, quand l'artillerie britannique l'abat (diocèse d'Amiens). L'adjudant interprète Schumacher est déjà nommé en août (voir f.~12~r\textsuperscript{o}). D'après sa fiche matricule, Hippolyte Combes doit sans doute passer dans la R.A.T. le 1\textsuperscript{er}~novembre 1916 : la mesure, dont le texte n'est pas connu, le touche. Le 24, on lui dit qu'il reste à la Mission (voir f.~43~r\textsuperscript{o}) ; la menace reparaît le 1\textsuperscript{er}~décembre (f.~52~v\textsuperscript{o}).
 sources:
 - Diocèse d'Amiens, « Notre-Dame de Brebières ou la “Vierge penchée” », 13 mars 2018, amiens.catholique.fr.
-- Ministère de la Culture, base Mérimée, notice PA80000002 (basilique Notre-Dame de Brebières, Albert).

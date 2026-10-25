@@ -30,14 +30,6 @@ transcription: |
   \blanc{2}
   \equerre{1}Tin of Wren's Dubbin : 30c \trait
 apparat:
-- ligne: 1
-  lemme: Decb
-  type: abreviation
-  note: décembre
-- ligne: 4
-  lemme: 9^{H} m.
-  type: abreviation
-  note: 9 heures du matin
 - ligne: 4
   lemme: \del{Belle-Eglise} Orville
   type: rature
@@ -45,7 +37,7 @@ apparat:
 - ligne: 5
   lemme: 81^{st}
   type: lecture
-  note: 8 net ; lapsus probable pour 31st
+  note: 8 net ; lapsus probable pour 31\textsuperscript{st}
 - ligne: 5
   lemme: div
   type: abreviation
@@ -85,7 +77,7 @@ apparat:
 critique: |
   Le dimanche 10 n'a pas d'entrée propre : il est résumé le lundi 11.
 historique: |
-  La « no 3 Coy » est une compagnie du train de la 31st Division, écrite « 81st » par lapsus probable, aucune division britannique ne portant ce numéro ; la 31st tient le secteur d'Hébuterne (voir f.~53~v\textsuperscript{o}) et son train compte les compagnies 221, 222, 223 et 279 de l'A.S.C. (LLT). Le lieutenant Croughton, revu le 9 février 1917 (voir f.~75~r\textsuperscript{o}), n'est pas identifié ; un homonyme sert dans les volontaires de Londres (LG suppl. 29787, 18 oct. 1916, p.~10039). Saulty et L'Arbret (Pas-de-Calais), sur la route Doullens--Arras, sont à l'arrière de la Third Army, dont le front commence à Hébuterne (Miles 1938, p.~543, n.~3) ; deux CCS y soignent les blessés de juin 1916 à mai 1917 (CWGC). La marque Wren's, de Northampton, date de 1889 (Ward 2022).
+  La « no 3 Coy » est une compagnie du train de la 31\textsuperscript{st} Division, écrite « 81st » par lapsus probable, aucune division britannique ne portant ce numéro ; la 31\textsuperscript{st} tient le secteur d'Hébuterne (voir f.~53~v\textsuperscript{o}) et son train compte les compagnies 221, 222, 223 et 279 de l'A.S.C. (LLT). Le lieutenant Croughton, revu le 9~février 1917 (voir f.~75~r\textsuperscript{o}), n'est pas identifié ; un homonyme sert dans les volontaires de Londres (LG suppl. 29787, 18~oct. 1916, p.~10039). Saulty et L'Arbret (Pas-de-Calais), sur la route Doullens--Arras, sont à l'arrière de la Third Army, dont le front commence à Hébuterne (OH~\mbox{1916-II}, p.~543, n.~3) ; deux hôpitaux d'évacuation (\textit{casualty clearing stations}) y soignent les blessés de juin 1916 à mai 1917 (CWGC). La marque Wren's, de Northampton, date de 1889 (Ward 2022).
 sources:
 - Baker, C., The Long, Long Trail, « 31st Division » (longlongtrail.co.uk, consulté le 18 oct. 2026).
 - Supplement to the London Gazette, n° 29787, 18 octobre 1916, p. 10039.

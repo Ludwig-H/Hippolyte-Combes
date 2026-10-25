@@ -3,7 +3,7 @@ fichier: 20251126_092932.jpg
 date: Mardi 25 juillet 1916
 mois: Juillet 1916
 lieux: Lynde et Sercus ? (Nord)
-titre: Rassemblement à Sercus (?) ; arrivée de 36 officiers des Royal Fusiliers
+titre: Rassemblement à Sercus (?) ; arrivée de 36~officiers des Royal Fusiliers
 transcription: |
   \sl{25 Ma.} \hfill \sl{Juillet 1916}
   \ind[3] Levé \inc{dès} 8^{H} m. \hfill Bien repose
@@ -29,26 +29,14 @@ transcription: |
   A Mme \inc{Backer}, pour repas d'hier & 4 oeufs : 1 \inc{f 75}
   Varia : 75 c
 apparat:
-- ligne: 1
-  lemme: Ma.
-  type: abreviation
-  note: mardi
 - ligne: 2
   lemme: \inc{dès}
   type: lecture
   note: 'lecture incertaine ; autre lecture : des'
-- ligne: 3
-  lemme: Margte
-  type: abreviation
-  note: Marguerite (Calmels)
-- ligne: 10
-  lemme: lieut^{t}
-  type: abreviation
-  note: lieutenant
 - ligne: 10
   lemme: \inc{Sercus}
   type: lecture
-  note: lecture incertaine, r et c cachés par le f de la l. 9
+  note: lecture incertaine, r et c cachés par le f de la l.~9
 - ligne: 15
   lemme: R. Fus^{rs}
   type: abreviation
@@ -68,13 +56,9 @@ apparat:
 - ligne: 21
   lemme: 1 \inc{f 75}
   type: compte
-  note: montant coupé au bord ; 1 f 75 probable
-- ligne: 22
-  lemme: 75 c
-  type: abreviation
-  note: 75 centimes
+  note: montant coupé au bord ; 1~f~75 probable
 historique: |
-  « Marg\textsuperscript{te} » est Marguerite Calmels (Millau, 1892-1974), fille du docteur Gabriel Calmels (acte de naissance ; INSEE) ; Hippolyte Combes l'épouse à Millau le 25 octobre 1917 (menu du mariage). Il loge sans doute à Lynde (voir f. 2 v\textsuperscript{o}), à 2,7 km de Sercus. L'« église très curieuse » serait Saint-Érasme de Sercus, église-halle du XVI\textsuperscript{e}~s. (Mérimée PA00107816). Les statues sont sans doute celles du jubé du XV\textsuperscript{e}~s. de Saint-Vaast de Lynde, placé en 1695 au fond de la nef (Palissy PM59000995). Les 36 officiers sont très probablement ceux du 11th Royal Fusiliers, 54th Brigade (Nichols 1922, p. 109). Jusqu'à son admission au mess (voir f. 21 v\textsuperscript{o}), il paie ses repas à ses logeuses.
+  « Margte » est Marguerite Calmels (Millau, 1892--1974), fille du docteur Gabriel Calmels (acte de naissance ; INSEE) ; Hippolyte Combes l'épouse à Millau le 25~octobre 1917 (menu du mariage). Il loge sans doute à Lynde (voir f.~2~v\textsuperscript{o}), à 2,7~km de Sercus. L'« église très curieuse » serait Saint-Érasme de Sercus, église-halle du XVI\textsuperscript{e}~s. (Mérimée PA00107816). Les statues sont sans doute celles du jubé du XV\textsuperscript{e}~s. de Saint-Vaast de Lynde, placé en 1695 au fond de la nef (Palissy PM59000995). Les 36~officiers sont très probablement ceux du 11\textsuperscript{th} Royal Fusiliers, 54\textsuperscript{th} Brigade (Nichols 1922, p.~109). Jusqu'à son admission au mess (voir f.~21~v\textsuperscript{o}), il paie ses repas à ses logeuses.
 sources:
 - Acte de naissance de Marie Marguerite Calmels, Millau, 16 avril 1892 (archives familiales) ; fichier INSEE des personnes décédées (via matchID), décès du 19 mars 1974 à Millau.
 - Menu manuscrit du repas de mariage Combes-Calmels, « 25 octobre 1917 » (archives familiales).

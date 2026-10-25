@@ -23,7 +23,7 @@ transcription: |
   cantonnées.
   \ind Trouvé chambrette famille de pauvres
   , mais braves gens. Fille ainée, prête à accoucher
-  mangé tjs au mess off \trait
+  mangé tjs au mes off \trait
   \blanc{2}
   \crochet{3}— Tip au groom Connelly : 1^{f} —
   Oeufs : 3 à Thièvres : 50c. — 4 à Raincheval : 70c
@@ -31,47 +31,31 @@ transcription: |
   1 litre bière : 50 + 10 c –
 apparat:
 - ligne: 1
-  lemme: dès
+  lemme: \inc{dès}
   type: lecture
   note: 'lecture incertaine ; autre lecture : « du »'
-- ligne: 3
-  lemme: 7H
-  type: abreviation
-  note: 7 heures
-- ligne: 4
-  lemme: 3^{H} soir
-  type: abreviation
-  note: 3 heures du soir
 - ligne: 6
   lemme: aujd'hui
   type: abreviation
   note: aujourd'hui
 - ligne: 7
-  lemme: At
+  lemme: \inc{At}
   type: lecture
   note: 'lecture incertaine (angl. at, « à ») ; autre lecture : « A »'
-- ligne: 7
-  lemme: 11^{H} m.
-  type: abreviation
-  note: 11 heures du matin
 - ligne: 11
-  lemme: Ls
+  lemme: \inc{Ls}
   type: abreviation
   note: Louis (Louis XI) ; lecture incertaine, autre possible « Li »
+- ligne: 18
+  lemme: mes off
+  type: emprunt
+  note: mess des officiers
 - ligne: 19
   lemme: Connelly
   type: graphie
   note: tracé proche de « Crunelly » ; nom assuré par les autres mentions
-- ligne: 20
-  lemme: 50c.
-  type: abreviation
-  note: 50 centimes
-- ligne: 21
-  lemme: cartes ples
-  type: abreviation
-  note: cartes postales
 historique: |
-  D'Oppy, la colonne passe du Pas-de-Calais dans la Somme par Lucheux, à 6,6 km (OSM). Lucheux garde son château, son beffroi et son église, protégés (Mérimée PA00116194, PA00116193, PA00116195). L'« Edit de Ls XI » est l'édit de Luxies (19 juin 1464), longtemps tenu pour l'acte fondateur de la poste royale, mais contesté depuis 1937 (Zeller 1946, p. 338, n. 3). Thièvres est coupé par l'Authie entre deux communes homonymes, du Pas-de-Calais et de la Somme (OSM). L'infanterie de la brigade va en autobus du Souich à Halloy, puis à pied par Thièvres et Marieux ; le 7th Bedfordshire arrive à Raincheval à 14 h 15 (JMO 7/Bedf, 11 sept. 1916). La bière coûte 50 c le litre, contre 30 c en Flandre (voir f. 7 v\textsuperscript{o}) ; les 10 c ajoutés sont peut-être la consigne.
+  D'Oppy, la colonne passe du Pas-de-Calais dans la Somme par Lucheux, à 6,6~km (OSM). Lucheux garde son château, son beffroi et son église, protégés (Mérimée PA00116194, PA00116193, PA00116195). L'« Edit de Ls XI » est l'édit de Luxies (19~juin 1464), longtemps tenu pour l'acte fondateur de la poste royale, mais contesté depuis 1937 (Zeller 1946, p.~338, n. 3). Thièvres est coupé par l'Authie entre deux communes homonymes, du Pas-de-Calais et de la Somme (OSM). L'infanterie de la brigade va en autobus du Souich à Halloy, puis à pied par Thièvres et Marieux ; le 7\textsuperscript{th} Bedfordshire arrive à Raincheval à 14~h~15 (JMO~7/Bedf, 11~sept. 1916). La bière coûte 50~c le litre, contre 30~c en Flandre (voir f.~7~v\textsuperscript{o}) ; les 10~c ajoutés sont peut-être la consigne.
 sources:
 - Ministère de la Culture, base Mérimée, notices PA00116194 (château), PA00116193 (beffroi) et PA00116195 (église Saint-Léger) de Lucheux.
 - Zeller, Gaston, « Procès à reviser ? Louis XI, la noblesse et la marchandise », Annales. Économies, Sociétés, Civilisations, 1, n° 4, 1946, p. 331-341 (p. 338, n. 3).

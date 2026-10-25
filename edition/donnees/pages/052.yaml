@@ -5,20 +5,20 @@ mois: Septembre 1916
 lieux: Le Bourget (Seine-Saint-Denis) ; Paris
 titre: Du Bourget à Orsay ; autorisation aux Invalides ; billet pour Toulouse
 transcription: |
-  \sl{Mardi 26} \hfill \sl{Sept^{r} 16}
-  \ind Vers 6^{H} m. , encore nuit , dû descendre gare
-  du Bourget .
-  Suivi voies , \inc{j'que} bureau militre . Là
+  \sl{mardi 26} \hfill \sl{Sept^{r} 16}
+  \ind Vers 6^{H} m., encore nuit, dû descendre gare
+  du Bourget.
+  Suivi voies, \inc{j'que} bureau militre. Là
   obtenu l'autorison de sortir et accompagné
   par un planton jà la porte \trait
-  du Bourget , sortie de la rue de Flandre ,
+  du Bourget, sortie de la rue de Flandre,
   pris tramway qui m'a conduit j-à gare
-  du Nord . De là , par metro , arrivé
-  à station Tuileries . \add{changé au Chatelet} Traversé jardin et
+  du Nord. De là, par metro, arrivé
+  à station Tuileries. \add{changé au Chatelet} Traversé jardin et
   Venu gare d'Orsay \trait
-  Me suis rendu à la place (hotel .
-  des Invalides , pr demande autorison de
-  voyager à mes frais en express Revenu
+  Me suis rendu à la place (hotel.
+  des Invalides, pr demande autorison de
+  voyager à mes frais ds express Revenu
   gare et pu enfin prendre billet de 2e cl
   Toulouse \trait
   Puis descendu rue du Bac \trait
@@ -27,14 +27,6 @@ transcription: |
   \ind Jardin du Luxemb \trait
   \ind Chz Colin
 apparat:
-- ligne: 1
-  lemme: Sept^{r} 16
-  type: abreviation
-  note: septembre 1916
-- ligne: 2
-  lemme: 6^{H} m.
-  type: abreviation
-  note: six heures du matin
 - ligne: 4
   lemme: \inc{j'que}
   type: lecture
@@ -51,10 +43,6 @@ apparat:
   lemme: jà
   type: abreviation
   note: jusqu'à
-- ligne: 13
-  lemme: autorison
-  type: abreviation
-  note: autorisation
 - ligne: 15
   lemme: 2e cl
   type: abreviation
@@ -63,13 +51,8 @@ apparat:
   lemme: Luxemb
   type: abreviation
   note: Luxembourg
-- ligne: 21
-  lemme: Chz
-  type: abreviation
-  note: chez
-critique: La journée se poursuit sur la page suivante (f.~27 r\textsuperscript{o}), qui en donne aussi les comptes.
 historique: |
-  Le Bourget est l'une des deux gares régulatrices des armées françaises de la Somme (voir f.~26 r\textsuperscript{o}) : d'où le contrôle et le planton. Du Nord aux Tuileries, Hippolyte Combes prend les lignes~4 et~1 du métro. D'Orsay partent les trains de Toulouse par Limoges, Brive, Cahors et Montauban (Baedeker 1912, R.~39). La « place » est sans doute le commandement de la place de Paris, le gouvernement militaire siégeant aux Invalides (Baedeker 1913, p.~263--264). L'autorisation de voyager « à mes frais en express » le dispensait vraisemblablement des trains de permissionnaires ; le règlement n'a pas été retrouvé. « Colin » est probablement la librairie Armand Colin, 103, boulevard Saint-Michel (Zyromski 1921, titre).
+  Le Bourget est l'une des deux gares régulatrices des armées françaises de la Somme (voir f.~26~r\textsuperscript{o}) : d'où le contrôle et le planton. Du Nord aux Tuileries, Hippolyte Combes prend les lignes~4 et~1 du métro. D'Orsay partent les trains de Toulouse par Limoges, Brive, Cahors et Montauban (Baedeker 1912, R.~39). La « place » est sans doute le commandement de la place de Paris, le gouvernement militaire siégeant aux Invalides (Baedeker 1913, p.~263--264). L'autorisation de voyager « à mes frais ds express » le dispensait vraisemblablement des trains de permissionnaires ; le règlement n'a pas été retrouvé. « Colin » est probablement la librairie Armand Colin, 103, boulevard Saint-Michel (Zyromski 1921, titre).
 sources:
 - Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, Baedeker, 1913, p. 263-264.
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, route 39.

@@ -26,22 +26,6 @@ transcription: |
   Rues ville etat lamentable. ornières.
   Tout l'apres-midi, perdu temps —
 apparat:
-- ligne: 1
-  lemme: 6^{h} m.
-  type: abreviation
-  note: six heures du matin
-- ligne: 1
-  lemme: 1 h.
-  type: abreviation
-  note: une heure
-- ligne: 1
-  lemme: Nov^{bre} /16
-  type: abreviation
-  note: novembre 1916
-- ligne: 2
-  lemme: ts
-  type: abreviation
-  note: tous (de même l. 13)
 - ligne: 3
   lemme: mess-hut
   type: emprunt
@@ -51,21 +35,17 @@ apparat:
   type: lecture
   note: lecture sûre ; on attendrait « eu »
 - ligne: 5
-  lemme: Cap. Pant
-  type: abreviation
-  note: capitaine ; « Panton » est une restitution non assurée
+  lemme: Pant
+  type: lecture
+  note: nom peut-être abrégé ; « Panton » non assuré
 - ligne: 6
   lemme: \inc{Lépin}
   type: lecture
-  note: 'lecture incertaine ; autres lectures : Lupin (cf. f. 12 r°), Ligné'
+  note: 'lecture incertaine ; autres lectures : Lupin (cf. f.~12~r\textsuperscript{o}), Ligné'
 - ligne: 7
   lemme: \inc{avoir}
   type: lecture
-  note: lecture incertaine ; peut-être « vus »
-- ligne: 7
-  lemme: Lt
-  type: abreviation
-  note: lieutenant (de même l. 8, 11 et 14)
+  note: 'lecture incertaine ; autre lecture : vus'
 - ligne: 8
   lemme: \inc{Pizzi}
   type: lecture
@@ -76,32 +56,16 @@ apparat:
   note: bureau du train (services de transport)
 - ligne: 10
   lemme: \inc{Col.}
-  type: abreviation
-  note: colonel ; l'o n'est pas distinct
-- ligne: 12
-  lemme: 9^{h} \fr{1}{2}
-  type: abreviation
-  note: neuf heures et demie
-- ligne: 13
-  lemme: billet
-  type: emprunt
-  note: (angl. billet) logement chez l'habitant, cantonnement
+  type: lecture
+  note: lecture incertaine ; colonel
 - ligne: 13
   lemme: '5'
   type: lecture
   note: numéro du billet ?
-- ligne: 13
-  lemme: '&'
-  type: abreviation
-  note: et (de même l. 17)
 - ligne: 14
   lemme: kit
   type: emprunt
   note: paquetage
-- ligne: 16
-  lemme: 11^{H}
-  type: abreviation
-  note: onze heures
 - ligne: 17
   lemme: Town-Major
   type: emprunt
@@ -110,12 +74,10 @@ apparat:
   lemme: messroom
   type: emprunt
   note: salle du mess
-critique: Le récit du 2 novembre se poursuit en tête de la page suivante.
+critique: Le récit du 2~novembre se poursuit en tête de la page suivante.
 historique: |
-  Le colonel Grose est le lieutenant-colonel Daniel Charles Evans Grose, A.S.C., qui commande le train de la 18th Division (Nichols 1922, p.~107). Le major Hughes, revu le 8 novembre (voir f.~48~r\textsuperscript{o}), est peut-être Herbert Francis Hughes, major temporaire de l'A.S.C. en 1916 (\textit{London Gazette}, suppl. 29585, p.~4941). Le Lt Pizzi est l'officier interprète de la division (lettre d'Hippolyte Combes du 25 février 1916). L'adjudant Lépin (ailleurs « Lupin »), Serpin, du bureau de la Mission, et le capitaine « Pant » ne sont pas identifiés. Acheux est le siège du QG du V Corps du 2 octobre au 29 novembre (LLT) et une tête de ligne pour les vivres (OH 1916-I, p.~273-274).
+  Le colonel Grose est le lieutenant-colonel Daniel Charles Evans Grose, A.S.C., qui commande le train de la 18\textsuperscript{th} Division (Nichols 1922, p.~107). Le major Hughes, revu le 8~novembre (voir f.~48~r\textsuperscript{o}), est peut-être Herbert Francis Hughes, major temporaire de l'A.S.C. en 1916 (\textit{London Gazette}, suppl. 29585, p.~4941). Sur le lieutenant Pizzi, voir f.~43~r\textsuperscript{o}. L'adjudant Lépin (ailleurs « Lupin »), Serpin, du bureau de la Mission, et le capitaine « Pant » ne sont pas identifiés. Acheux, siège du QG du V Corps (voir f.~44~r\textsuperscript{o}), est aussi une tête de ligne pour les vivres (OH~\mbox{1916-I}, p.~273--274).
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 107.
 - Supplement to the London Gazette, n° 29585, 17 mai 1916, p. 4941.
-- Lettre d'Hippolyte Combes à un capitaine, « Au front, le 25 février 1916 », copie autographe, archives familiales.
-- The Long, Long Trail, « The British V Corps in France and Flanders », https://web.archive.org/web/20200805133825/https://www.longlongtrail.co.uk/army/other-aspects-of-order-of-battle/the-british-corps-headquarters-in-france-and-flanders/the-british-v-corps-in-france-and-flanders/.
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273-274.

@@ -3,7 +3,7 @@ fichier: 20251126_104946.jpg
 date: Vendredi 1er – samedi 2 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Franvillers, Buire-sur-l'Ancre et Toutencourt (Somme)
-titre: Franvillers, Buire, Toutencourt ; rattaché au XIIIe corps ; arrivée de Williams
+titre: Franvillers, Buire, Toutencourt ; rattaché au XIII\textsuperscript{e} corps ; Williams arrive
 transcription: |
   \sl{1^{er} Ven.} \hfill Décembre 1916
   Matinée perdue à ne rien faire. office & billet
@@ -32,10 +32,6 @@ transcription: |
   \ind Soir, venu au bureau mission y
   \ind[2] vu Cap. H.
 apparat:
-- ligne: 1
-  lemme: 1^{er} Ven.
-  type: abreviation
-  note: premier, vendredi
 - ligne: 3
   lemme: early lunch
   type: emprunt
@@ -47,7 +43,7 @@ apparat:
 - ligne: 8
   lemme: \inc{5^{me}}
   type: lecture
-  note: 'cinquième (Ve armée britannique) ; autre lecture : Ve'
+  note: 'cinquième (V\textsuperscript{e} armée britannique) ; autre lecture : Ve'
 - ligne: 10
   lemme: M. F^{se}
   type: abreviation
@@ -55,7 +51,7 @@ apparat:
 - ligne: 10
   lemme: XIII^{e}
   type: abreviation
-  note: treizième (XIIIe corps britannique)
+  note: treizième (XIII\textsuperscript{e} corps britannique)
 - ligne: 14
   lemme: '70'
   type: lecture
@@ -75,21 +71,17 @@ apparat:
 - ligne: 21
   lemme: \inc{1}^{h}
   type: lecture
-  note: 1 heure ; chiffre incertain
+  note: 1~heure ; chiffre incertain
 - ligne: 21
   lemme: \add{tout} \inc{Mess} \add{\inc{large}}
   type: lecture
-  note: 'lecture douteuse ; autre lecture : Miss'
+  note: 'lecture incertaine (Mess, large) ; autre lecture : Miss'
 - ligne: 24
   lemme: visib^{t}
   type: abreviation
   note: visiblement
-- ligne: 26
-  lemme: Cap. H.
-  type: abreviation
-  note: capitaine H.
 historique: |
-  Franvillers, Buire-sur-l'Ancre, Ribemont et Heilly sont à l'arrière de la Fourth Army (OH 1916-II, p.~541) ; la 18th Division cantonnait autour de Ribemont à l'hiver 1915-1916 (Becke 1938, p.~83, n.~14). Toutencourt est depuis le 2 juillet 1916 le QG de la Fifth Army (LLT) ; le capitaine Bresson, de sa Mission française, n'est pas identifié. Le XIII Corps est à Acheux depuis le 29 novembre (voir f.~52~r\textsuperscript{o}). La « réintégration » fait suite à la rumeur du 22 octobre sur le renvoi des interprètes de la R.A.T. (voir f.~42~r\textsuperscript{o}) ; le régiment d'origine est sans doute le 10\textsuperscript{e} d'artillerie, rejoint le 21 mars 1915 (registre matricule). « Cap. H. » est peut-être le capitaine Huguet (voir f.~47~r\textsuperscript{o}). Williams relève Curtis, qui part le 6 (voir f.~53~v\textsuperscript{o}).
+  Franvillers, Buire-sur-l'Ancre, Ribemont et Heilly sont à l'arrière de la Fourth Army (OH~\mbox{1916-II}, p.~541) ; la 18\textsuperscript{th} Division cantonnait autour de Ribemont à l'hiver 1915--1916 (Becke 1938, p.~83, n.~14). Toutencourt est depuis le 2~juillet 1916 le QG de la Fifth Army (LLT) ; le capitaine Bresson, de sa Mission française, n'est pas identifié. Le XIII~Corps est à Acheux depuis le 29~novembre (voir f.~52~r\textsuperscript{o}). La « réintégration » fait suite à la rumeur du 22~octobre sur le renvoi des interprètes de la R.A.T. (voir f.~42~r\textsuperscript{o}) ; le régiment d'origine est sans doute le 10\textsuperscript{e} d'artillerie, rejoint le 21~mars 1915 (registre matricule). « Cap. H. » est peut-être le capitaine Huguet (voir f.~47~r\textsuperscript{o}). Williams relève Curtis, qui part le 6 (voir f.~53~v\textsuperscript{o}).
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 541.
 - 'Becke, A. F., Order of Battle of Divisions, Part 3A : New Army Divisions (9-26), London, HMSO, 1938, p. 83, n. 14.'

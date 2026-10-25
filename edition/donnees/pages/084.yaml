@@ -19,14 +19,6 @@ transcription: |
   \blanc{8}
   — Cartes ples d'Albert : 70c.
 apparat:
-- ligne: 1
-  lemme: oct. /16
-  type: abreviation
-  note: octobre 1916
-- ligne: 4
-  lemme: offs.
-  type: abreviation
-  note: officiers
 - ligne: 6
   lemme: jusq
   type: abreviation
@@ -36,7 +28,7 @@ apparat:
   type: emprunt
   note: abri souterrain allemand
 historique: |
-  La Boisselle, hameau d'Ovillers-la-Boisselle (Somme), est à 3,5~km au nord-est d'Albert, sur la route de Bapaume. Le front y passe d'octobre 1914 à juillet 1916, avec une guerre des mines (Michelin 1919, p.~36--37). Attaqué en vain le 1\textsuperscript{er} juillet 1916 par la 34th Division, le village est nettoyé le 4 par la 19th Division (CWGC, Gordon Dump Cemetery). Les \textit{dug-outs} sont ceux de l'ancienne ligne allemande. Le cratère est celui de la mine de Lochnagar, mise à feu le 1\textsuperscript{er} juillet à 7~h~28 : 90 yards de diamètre, 70 pieds de profondeur (OH 1916-I, p.~375, 380 ; Mérimée PA80000004). Les cartes postales coûtant 10~c à Albert (f.~50~r\textsuperscript{o}), les 70~c font sans doute sept cartes.
+  La Boisselle, hameau d'Ovillers-la-Boisselle (Somme), est à 3,5~km au nord-est d'Albert, sur la route de Bapaume. Le front y passe d'octobre 1914 à juillet 1916, avec une guerre des mines (Michelin 1919, p.~36--37). Attaqué en vain le 1\textsuperscript{er}~juillet 1916 par la 34\textsuperscript{th} Division, le village est nettoyé le 4 par la 19\textsuperscript{th} Division (CWGC, Gordon Dump Cemetery). Les \textit{dug-outs} sont ceux de l'ancienne ligne allemande. Le cratère est celui de la mine de Lochnagar, mise à feu le 1\textsuperscript{er}~juillet à 7~h~28 : 90 yards de diamètre, 70 pieds de profondeur (OH~\mbox{1916-I}, p.~375, 380 ; Mérimée PA80000004). Les cartes postales coûtant 10~c à Albert (f.~50~r\textsuperscript{o}), les 70~c font sans doute sept cartes.
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 375, 380.
 - Michelin, The Somme, vol. 1, The First Battle of the Somme (1916-1917), Clermont-Ferrand, Michelin, 1919, p. 36-37.

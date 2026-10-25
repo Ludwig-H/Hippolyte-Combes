@@ -3,7 +3,7 @@ fichier: 20251126_110149.jpg
 date: Samedi 27 (comptes) et dimanche 28 janvier 1917
 mois: Janvier 1917
 lieux: Paris ; Toulouse (Haute-Garonne)
-titre: Comptes du 27 janvier ; arrivée à Toulouse le 28, visite de l'oncle Émile
+titre: Comptes du 27~janvier ; arrivée à Toulouse le 28, visite de l'oncle Émile
 transcription: |
   Sam \sl{– 27} \hfill \sl{Janv. /17}
   \sl{Paris}. gare du nord. Facteur : 20c
@@ -30,14 +30,6 @@ transcription: |
   attendre tram 30m. angle musee
   \filet[d]{0.7}
 apparat:
-- ligne: 1
-  lemme: Janv. /17
-  type: abreviation
-  note: janvier 1917
-- ligne: 3
-  lemme: Carte ples
-  type: abreviation
-  note: cartes postales
 - ligne: 4
   lemme: Enregt
   type: abreviation
@@ -49,11 +41,11 @@ apparat:
 - ligne: 5
   lemme: = 1 75c
   type: compte
-  note: pour 1 f 75
+  note: pour 1 f~75
 - ligne: 9
   lemme: \inc{15}c
   type: lecture
-  note: 'lecture incertaine ; autres lectures : 1 f 25, 5 c'
+  note: 'lecture incertaine ; autres lectures : 1 f~25, 5 c'
 - ligne: 10
   lemme: ord^{re}
   type: abreviation
@@ -83,7 +75,7 @@ apparat:
   type: abreviation
   note: 30 minutes
 historique: |
-  Le billet pour Toulouse, 11~f~15, est payé au quart de place militaire (Lafon 1922, p.~37 ; voir f.~27~r\textsuperscript{o}) ; le plein tarif de 3\textsuperscript{e} classe était de 35~fr.~40 en 1912 (Baedeker 1912, R.~39). De Matabiau, le tram mène à la place Saint-Michel, près de l'appartement de la rue de Languedoc (Baedeker 1912, p.~298) ; l'« angle musee » est sans doute celui du musée des Augustins. Hippolyte Combes pense à sa mère, Anaïs Alric, morte à Toulouse en 1907, et à ses sœurs mortes, Maria (Carthage, 1903) et Joséphine (Nogent-le-Rotrou, octobre 1914, selon la tradition familiale ; P. Combes, biographie familiale). L'oncle Émile est Émile Crouzet (v.~1842–1926), mari de la tante paternelle de Marguerite (\textit{L'Express du Midi}, 23 déc. 1926) ; sur Sainte-Marie, voir f.~27~v\textsuperscript{o}.
+  Le billet pour Toulouse, 11~F~15, est payé au quart de place militaire (Lafon 1922, p.~37 ; voir f.~27~r\textsuperscript{o}) ; le plein tarif de 3\textsuperscript{e} classe était de 35~F~40 en 1912 (Baedeker 1912, R.~39). De Matabiau, le tram mène à la place Saint-Michel, près de l'appartement de la rue de Languedoc (Baedeker 1912, p.~298) ; l'« angle musee » est sans doute celui du musée des Augustins. Hippolyte Combes pense à sa mère, Anaïs Alric, morte à Toulouse en 1907, et à ses sœurs mortes, Maria (Carthage, 1903) et Joséphine (Nogent-le-Rotrou, octobre 1914, selon la tradition familiale ; P. Combes, biographie familiale). L'oncle Émile est Émile Crouzet (v.~1842--1926), mari de la tante paternelle de Marguerite (\textit{L'Express du Midi}, 23~déc. 1926) ; sur Sainte-Marie, voir f.~27~v\textsuperscript{o}.
 sources:
 - Lafon, G., Les Chemins de fer français pendant la guerre, thèse de droit, Paris, A. Rousseau, 1922, p. 37.
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, R. 39 et p. 298.

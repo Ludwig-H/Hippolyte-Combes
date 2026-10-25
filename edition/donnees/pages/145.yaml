@@ -5,7 +5,7 @@ mois: Février 1917
 lieux: Corbeil-Essonnes (Essonne) ; Paris
 titre: Arrivée à Paris par le gel ; métro jusqu'à la gare du Nord ; train de nuit
 transcription: |
-  \sl{mardi 6} (suite) \hfill \sl{Fev. 17}
+  \sl{mardi 6} (suite) \hfill \sl{Fev. '17}
   A mesure que ns remontons vers Paris bp
   moins de neige. Sol durci par fortes gelees.
   Après-midi, soleil brillé un peu. Rayons de +
@@ -23,26 +23,6 @@ transcription: |
   \blanc{4}
   — Brioude, buffet, varia : 60c
 apparat:
-- ligne: 1
-  lemme: Fev. 17
-  type: abreviation
-  note: février 1917
-- ligne: 4
-  lemme: +
-  type: abreviation
-  note: de plus en plus (« de + en + »)
-- ligne: 7
-  lemme: 5^{H} 50 s.
-  type: abreviation
-  note: 5 heures 50 du soir
-- ligne: 9
-  lemme: 6^{H} 30 s.
-  type: abreviation
-  note: 6 heures 30 du soir
-- ligne: 12
-  lemme: 7^{H} 19
-  type: abreviation
-  note: 7 heures 19
 - ligne: 12
   lemme: 2\inc{e}
   type: lecture
@@ -52,15 +32,15 @@ apparat:
   type: abreviation
   note: classe
 - ligne: 12
-  lemme: tas de
+  lemme: \inc{tas de}
   type: lecture
   note: 'lecture incertaine ; autre lecture : type de'
 - ligne: 13
-  lemme: à
+  lemme: \inc{à}
   type: lecture
   note: lecture incertaine
 historique: |
-  Le passage à Corbeil à 5~h~50, une heure et demie après Montargis, suggère que l'express a pris la ligne P.L.M. de Montargis à Corbeil par Malesherbes, ouverte en 1865-1867, plutôt que par Moret et Melun (Wikipédia, « Ligne de Villeneuve-Saint-Georges à Montargis »). Corbeil et Essonnes sont alors deux communes de Seine-et-Oise, réunies en 1951 (Wikipédia, « Corbeil-Essonnes »). À Paris, il prend la ligne~1 du métro jusqu'à la Bastille, puis la ligne~5, qui relie depuis 1907 la Bastille à la gare du Nord (Wikipédia, « Ligne 5 du métro de Paris ») ; le billet de 2\textsuperscript{e} classe coûte 15~c (Baedeker 1913, p.~28 ; voir f.~66~r\textsuperscript{o}). Depuis le 29 janvier, la Seine charrie des glaçons (\textit{La Dépêche}, 30 janv. 1917, p.~3). Le train de 7~h~19 arrive à Amiens à minuit et demi (f.~73~r\textsuperscript{o}).
+  Le passage à Corbeil à 5~h~50, une heure et demie après Montargis, suggère que l'express a pris la ligne P.L.M. de Montargis à Corbeil par Malesherbes, ouverte en 1865--1867, plutôt que par Moret et Melun (Wikipédia, « Ligne de Villeneuve-Saint-Georges à Montargis »). Corbeil et Essonnes sont alors deux communes de Seine-et-Oise, réunies en 1951 (Wikipédia, « Corbeil-Essonnes »). À Paris, il prend la ligne~1 du métro jusqu'à la Bastille, puis la ligne~5, qui relie depuis 1907 la Bastille à la gare du Nord (Wikipédia, « Ligne 5 du métro de Paris ») ; le billet de 2\textsuperscript{e} classe coûte 15~c (Baedeker 1913, p.~28 ; voir f.~66~r\textsuperscript{o}). Depuis le 29~janvier, la Seine charrie des glaçons (\textit{La Dépêche}, 30~janv. 1917, p.~3). Le train de 7~h~19 arrive à Amiens à minuit et demi (f.~73~r\textsuperscript{o}).
 sources:
 - Wikipédia, « Ligne de Villeneuve-Saint-Georges à Montargis », consulté le 18 oct. 2026.
 - Wikipédia, « Ligne 5 du métro de Paris », consulté le 18 oct. 2026.

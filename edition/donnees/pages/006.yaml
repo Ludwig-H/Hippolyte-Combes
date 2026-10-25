@@ -21,7 +21,7 @@ transcription: |
   A l'horizon, ballons captifs. De temps à autre,
   bombardement lointain –
   \ind Ciel traversé d'avions anglais.
-  Après diner ; venu promener au village de
+  Après diner, venu promener au village de
   St Jans -cappel (1)
   \filet
   Payé à fermière où je loge pour 4 oeufs et
@@ -33,24 +33,16 @@ transcription: |
   fenêtres –
   \ind eglise au clocher eff^{l}
 apparat:
-- ligne: 1
-  lemme: Juillet 16
-  type: abreviation
-  note: juillet 1916
-- ligne: 2
-  lemme: 7^{H} 1/2
-  type: abreviation
-  note: sept heures et demie
 - ligne: 5
-  lemme: Mont-Noir
+  lemme: \inc{Mont-Noir}
   type: lecture
   note: 'lecture incertaine, fin du mot réduite à un trait ; autre lecture : Mont-N.'
 - ligne: 6
-  lemme: Leroux
+  lemme: \inc{Leroux}
   type: lecture
   note: 'lecture incertaine ; autre lecture : curieux'
 - ligne: 6
-  lemme: v.
+  lemme: \inc{v.}
   type: lecture
   note: lecture incertaine (v. ce ou v. a) ; peut-être vicaire
 - ligne: 6
@@ -58,43 +50,23 @@ apparat:
   type: abreviation
   note: longtemps
 - ligne: 9
-  lemme: De
+  lemme: \inc{De}
   type: lecture
   note: mot sous une tache ; lu d'après le contexte
-- ligne: 9
-  lemme: 5^{H}
-  type: abreviation
-  note: cinq heures
-- ligne: 9
-  lemme: ds 1 champ
-  type: abreviation
-  note: dans un champ
 - ligne: 11
-  lemme: l'herbe
+  lemme: \inc{l'herbe}
   type: lecture
   note: mot frotté, lecture incertaine
 - ligne: 11
   lemme: \del{\ill}
   type: rature
   note: mot biffé, illisible ; sans doute un verbe (regardé ?)
-- ligne: 20
-  lemme: 1^{f} 60
-  type: abreviation
-  note: 1 franc 60
-- ligne: 21
-  lemme: cartes ples
-  type: abreviation
-  note: cartes postales
-- ligne: 21
-  lemme: 50c.
-  type: abreviation
-  note: 50 centimes
 - ligne: 24
   lemme: eff^{l}
   type: abreviation
   note: effilé
 historique: |
-  Le Mont-Noir est un hameau de Saint-Jans-Cappel, sur la frontière belge, à 1,8 km du village (OSM). Le fourrage fauché et pesé est du fourrage vert, qui complète la ration de foin (FSPB 1914, chap. 6, « Forage », § 20) ; sur Curtis, voir f. 1 r\textsuperscript{o}. « La dernière attaque » est celle de la Somme : Montauban le 1\textsuperscript{er} juillet, puis le bois des Trônes, pris par la 54th Brigade le 14 (Nichols 1922, p.~51--74) ; du 14 au 21 juillet, la division a perdu 129 officiers et 2~597 hommes (OH 1916-II, p.~107, n.~3). Leroux (lecture incertaine), peut-être un vicaire, n'est pas identifié. Ballons et canonnade viennent sans doute du front de Wytschaete–Messines, à une douzaine de kilomètres à l'est, allemand jusqu'au 7 juin 1917 (CWGC). L'église est celle de la Décollation-de-Saint-Jean-Baptiste (Palissy).
+  Le Mont-Noir est un hameau de Saint-Jans-Cappel, sur la frontière belge, à 1,8~km du village (OSM). Le fourrage fauché et pesé est du fourrage vert, qui complète la ration de foin (FSPB 1914, chap.~6, « Forage », § 20). « La dernière attaque » est celle de la Somme : Montauban le 1\textsuperscript{er}~juillet, puis le bois des Trônes, pris par la 54\textsuperscript{th} Brigade le 14 (Nichols 1922, p.~51--74) ; du 14 au 21~juillet, la division a perdu 129~officiers et 2~597~hommes (OH~\mbox{1916-II}, p.~107, n.~3). Leroux (lecture incertaine), peut-être un vicaire, n'est pas identifié. Ballons et canonnade viennent sans doute du front de Wytschaete–Messines, à une douzaine de kilomètres à l'est, allemand jusqu'au 7~juin 1917 (CWGC). L'église est celle de la Décollation-de-Saint-Jean-Baptiste (Palissy).
 sources:
 - Commonwealth War Graves Commission, historiques des cimetières « Mont Noir Military Cemetery », « Wytschaete Military Cemetery » et « Messines Ridge British Cemetery ».
 - Field Service Pocket Book, 1914, Londres, HMSO, 1914, chap. 6, « Forage », § 20.

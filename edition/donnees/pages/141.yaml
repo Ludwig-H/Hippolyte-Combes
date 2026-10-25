@@ -28,34 +28,14 @@ transcription: |
   la messe. alors monté chambre. Rêvé
   à mon aise. Soleil rendait appart^{t}
 apparat:
-- ligne: 1
-  lemme: Fevr '17
-  type: abreviation
-  note: Février 1917
 - ligne: 2
   lemme: \inc{Monté}
   type: lecture
   note: 'mot repassé, lecture incertaine ; autre lecture : Remonté'
-- ligne: 2
-  lemme: 11^{h} 1/4
-  type: abreviation
-  note: onze heures un quart
-- ligne: 8
-  lemme: \fr{1}{2} h.
-  type: abreviation
-  note: une demi-heure
-- ligne: 17
-  lemme: 7^{h}
-  type: abreviation
-  note: sept heures
-- ligne: 20
-  lemme: 11^{h}
-  type: abreviation
-  note: onze heures
 critique: |
   La dernière phrase se poursuit en tête du f.~71~r\textsuperscript{o}.
 historique: |
-  Première nuit dans la maison Calmels (voir f.~69~v\textsuperscript{o}). La lune ne sera pleine que le 7 février (Calendar-12). Son père, l'avocat Hippolyte Combes, est mort à Millau le 11 août 1899, sa mère, Anaïs Alric, à Toulouse en 1907. Sa sœur Maria, religieuse missionnaire, est morte à Carthage le 19 novembre 1903, et Joséphine, qui tenait son ménage, à Nogent-le-Rotrou en octobre 1914 ; seule Françoise vit encore, carmélite à Périgueux (PC-Livre ; PC-Bio). Le lendemain, il va avec Marguerite au caveau Combes (f.~71~v\textsuperscript{o}). « Germaine » est sans doute Germaine Vincens, nièce de Marguerite, fille de Madeleine Calmels, âgée de six ans au mariage (PC-Bio).
+  Première nuit dans la maison Calmels (voir f.~69~v\textsuperscript{o}). La lune ne sera pleine que le 7~février (Calendar-12). Son père, l'avocat Hippolyte Combes, est mort à Millau le 11~août 1899, sa mère, Anaïs Alric, à Toulouse en 1907. Sa sœur Maria, religieuse missionnaire, est morte à Carthage le 19~novembre 1903, et Joséphine, qui tenait son ménage, à Nogent-le-Rotrou en octobre 1914 ; seule Françoise vit encore, carmélite à Périgueux (PC-Livre ; \mbox{PC-Bio}). Le lendemain, il va avec Marguerite au caveau Combes (f.~71~v\textsuperscript{o}). « Germaine » est sans doute Germaine Vincens, nièce de Marguerite, fille de Madeleine Calmels, âgée de six ans au mariage (\mbox{PC-Bio}).
 sources:
 - Combes, Pierre, Une étude de la famille Combes de Castelnau-Pégayrols, dactylographie, version du 19 mars 2023 (PC-Livre), archives familiales.
 - Combes, Pierre, « Mon grand-père Hippolyte Combes (et ses sœurs) », biographie familiale dactylographiée, s. d. (PC-Bio), archives familiales.

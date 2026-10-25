@@ -19,7 +19,7 @@ transcription: |
   village, où gazon & plantes cachent presque les
   tombes \hfill . Y éprouvé impression
   Melancolie penetrante — Ciel nuageux et
-  bas. Légère brise agitant ramures. Air doux.
+  bas. Légère brise agitant ramures. \inc{Air} doux.
   \inc{Bon} s'arreter & reflechir
   \blanc{1}
   [ Tip au headcook : 5^{f} —
@@ -30,17 +30,13 @@ transcription: |
   \blanc{4}
 apparat:
 - ligne: 1
-  lemme: 1^{er} V.
+  lemme: V.
   type: abreviation
-  note: premier, vendredi
-- ligne: 1
-  lemme: Sept^{bre}
-  type: abreviation
-  note: septembre
+  note: vendredi
 - ligne: 6
   lemme: 2 kil 5
   type: abreviation
-  note: deux kilomètres cinq (2,5 km)
+  note: deux kilomètres cinq (2,5~km)
 - ligne: 9
   lemme: SFl
   type: abreviation
@@ -50,9 +46,9 @@ apparat:
   type: abreviation
   note: treizième siècle
 - ligne: 15
-  lemme: Air
+  lemme: \inc{Air}
   type: lecture
-  note: 'lecture probable ; autre lecture : « Ah »'
+  note: 'lecture incertaine ; autre lecture : « Ah »'
 - ligne: 16
   lemme: \inc{Bon}
   type: lecture
@@ -62,7 +58,7 @@ apparat:
   type: emprunt
   note: chef cuisinier
 historique: |
-  Ligny-Saint-Flochel est à 2,7 km à vol d'oiseau de Marquay (OSM). Le clocher de l'église, classé en 1930, date des XV\textsuperscript{e}--XVI\textsuperscript{e} siècles, non du XIII\textsuperscript{e} (Mérimée PA00108332). Les « manœuvres speciales » sont l'instruction à l'attaque que reçoit la division (Nichols 1922, p. 78). Le 28 août, le 7th Bedfordshire s'est exercé à l'attaque sous bois au bois des Hérombus, à 2,2 km à l'est de Ligny (JMO 7/Bedf, 28 août 1916) : c'est peut-être le bois que longe la route. Le \textit{headcook} est sans doute Hancock, qui avait reçu 5 f le 31 juillet (voir f. 3 v\textsuperscript{o}). L'espoir d'un départ le lundi 4 devance les ordres : le transfert, fixé le 4 pour la nuit du 6 au 7, sera annulé le 5 (voir f. 18 v\textsuperscript{o}).
+  Ligny-Saint-Flochel est à 2,7~km à vol d'oiseau de Marquay (OSM). Le clocher de l'église, classé en 1930, date des XV\textsuperscript{e}--XVI\textsuperscript{e} siècles, non du XIII\textsuperscript{e} (Mérimée PA00108332). Les « manœuvres speciales » sont l'instruction à l'attaque que reçoit la division (Nichols 1922, p.~78). Le 28~août, le 7\textsuperscript{th} Bedfordshire s'est exercé à l'attaque sous bois au bois des Hérombus, à 2,2~km à l'est de Ligny (JMO~7/Bedf, 28~août 1916) : c'est peut-être le bois que longe la route. Le \textit{headcook} est sans doute Hancock, qui avait reçu 5~F le 30~juillet (voir f.~3~v\textsuperscript{o}). L'espoir d'un départ le lundi 4 devance les ordres : le transfert, fixé le 4 pour la nuit du 6 au 7, sera annulé le 5 (voir f.~18~v\textsuperscript{o}).
 sources:
 - Ministère de la Culture, base Mérimée, notice PA00108332 (Ligny-Saint-Flochel, église Saint-Flochel, clocher).
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 78.

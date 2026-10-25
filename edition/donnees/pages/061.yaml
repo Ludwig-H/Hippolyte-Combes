@@ -3,7 +3,7 @@ fichier: 20251126_103455.jpg
 date: Mardi 3 octobre 1916 (suite)
 mois: Octobre 1916
 lieux: Toulouse (Haute-Garonne)
-titre: 'Comptes : tailleur, loyer à Mlle Guilhem ; visite chez Mme de Labarthe'
+titre: 'Comptes : tailleur, loyer à M\textsuperscript{lle} Guilhem ; visite chez M\textsuperscript{me} de Labarthe'
 transcription: |
   \sl{3 Ma} \hfill \sl{Oct^{bre} 1916}
   – Payé à Guiraud, pour façon
@@ -18,41 +18,17 @@ transcription: |
   Simplicite & abandon charmants
   \blanc{12}
 apparat:
-- ligne: 3
-  lemme: 38^{f}
-  type: abreviation
-  note: 38 francs
-- ligne: 4
-  lemme: Mlle
-  type: abreviation
-  note: Mademoiselle
 - ligne: 4
   lemme: Guilh
   type: abreviation
   note: Guilhem
-- ligne: 4
-  lemme: 90^{f}
-  type: abreviation
-  note: 90 francs
-- ligne: 6
-  lemme: Cie
-  type: abreviation
-  note: Compagnie (nom de magasin)
 - ligne: 6
   lemme: Française
   type: lecture
   note: 'lecture probable ; autre lecture : Franç^{se}'
-- ligne: 6
-  lemme: cm
-  type: abreviation
-  note: centimètres
-- ligne: 7
-  lemme: 1^{f} 10
-  type: abreviation
-  note: 1 franc 10
-critique: Les lignes sous le filet reviennent sur la visite chez Mme de Labarthe racontée f.~30 v\textsuperscript{o}.
+critique: Les lignes sous le filet reviennent sur la visite chez M\textsuperscript{me} de Labarthe racontée f.~30~v\textsuperscript{o}.
 historique: |
-  La « tunique » est sans doute celle de la tenue d'interprète, kaki, avec une tête de sphinx au collet (Tessan, dans Fernand-Laurent 1917, p.~XII--XIII ; Whittem et Long 1917, p.~130). Guiraud et la « Cie Française » ne sont pas identifiés. Le « semestre » versé à Mlle Guilhem est le loyer de l'appartement du 24, rue de Languedoc, gardé pendant la guerre (lettre du 25 nov. 1918) : 15~F par mois, quand la pension complète d'un ouvrier célibataire coûtait une centaine de francs en Haute-Garonne (March 1925, p.~237--238). Mme de Labarthe (voir f.~28 v\textsuperscript{o}) est sans doute la mère du « docteur de L— » d'une lettre du 16 juin 1916.
+  La « tunique » est sans doute celle de la tenue d'interprète, kaki, avec une tête de sphinx au collet (Tessan, dans Fernand-Laurent 1917, p.~XII--XIII ; Whittem et Long 1917, p.~130). Guiraud et la « Cie Française » ne sont pas identifiés. Le « semestre » versé à M\textsuperscript{lle} Guilhem est le loyer de l'appartement du 24, rue de Languedoc, gardé pendant la guerre (lettre du 25~nov. 1918) : 15~F par mois, quand la pension complète d'un ouvrier célibataire coûtait une centaine de francs en Haute-Garonne (March 1925, p.~237--238). Sur M\textsuperscript{me} de Labarthe, voir f.~28~v\textsuperscript{o}.
 sources:
 - Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, p. XII-XIII.
 - Whittem, A. F., et Long, P. W., French for Soldiers, Cambridge (Mass.), Harvard University Press, 1917, p. 130.

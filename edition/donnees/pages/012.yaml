@@ -19,7 +19,7 @@ transcription: |
   par Bailleul, parvenus à La Croix
   du Bac – vers 4^{H} \fr{1}{2} –
   Les Horse-lines, à l'entrée village, du
-  côté de Steenwerck.
+  côté de \inc{Steenwercke}.
   Cherché chambres pr. offs. Réussi à me
   loger maison en face de la Coy –
   \ind Fin journée vraiment superbe \trait
@@ -47,25 +47,21 @@ apparat:
   lemme: A.S.C. men
   type: emprunt
   note: hommes de l'Army Service Corps (train des équipages britannique)
-- ligne: 16
-  lemme: pr. offs.
-  type: abreviation
-  note: pour officiers
+- ligne: 15
+  lemme: \inc{Steenwercke}
+  type: lecture
+  note: 'lecture incertaine ; autre lecture : Steenwerke ; pour Steenwerck (Nord)'
 - ligne: 20
   lemme: Jans-Capel
   type: graphie
   note: pour Saint-Jans-Cappel (Nord)
-- ligne: 21
-  lemme: 1^{f} 60
-  type: abreviation
-  note: 1 franc 60
 - ligne: 21
   lemme: for washing
   type: emprunt
   note: pour le blanchissage
 critique: Le verso de ce feuillet est resté blanc.
 historique: |
-  Le convoi suit la 54th Brigade vers la Lys : le même jour, le 7th Bedfordshire quitte le « Steam Mill », gagne Erquinghem par Bailleul et relève dans la nuit du 6 au 7 le 1st Wellington néo-zélandais sur la route Armentières–Lille (Beds War Diary, 5-7 août 1916). Un cimetière militaire britannique a été ouvert à La Croix-du-Bac en juillet 1916 (CWGC). Chercher des chambres pour les officiers est l'une des « principales besognes de l'interprète » (Fernand-Laurent 1917, pp. 225-234). Connelly, payé de nouveau jusqu'au 15 octobre 1916 et non autrement identifié, est le \textit{groom} qui soigne le cheval d'Hippolyte Combes ; les officiers montés en ont un en plus de l'ordonnance (Fernand-Laurent 1917, p. 64).
+  Le convoi suit la 54\textsuperscript{th} Brigade vers la Lys : le même jour, le 7\textsuperscript{th} Bedfordshire quitte le « Steam Mill », gagne Erquinghem par Bailleul et relève dans la nuit du 6 au 7 le 1\textsuperscript{st} Wellington néo-zélandais sur la route Armentières–Lille (Beds War Diary, 5--7~août 1916). Un cimetière militaire britannique a été ouvert à La Croix-du-Bac en juillet 1916 (CWGC). Chercher des chambres pour les officiers est l'une des « principales besognes de l'interprète » (Fernand-Laurent 1917, p.~225--234). Connelly, payé de nouveau jusqu'au 15~octobre 1916 et non autrement identifié, est le \textit{groom} qui soigne le cheval d'Hippolyte Combes ; les officiers montés en ont un en plus de l'ordonnance (Fernand-Laurent 1917, p.~64).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1607-1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, juillet-septembre 1916 (Beds War Diary), 5-7 août.'
 - CWGC, Croix-du-Bac British Cemetery, Steenwerck (fiche 28202), historique.

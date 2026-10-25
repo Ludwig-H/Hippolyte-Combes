@@ -32,8 +32,8 @@ personnes:
   - - 139
     - 4
 - id: backer
-  nom: Backer (Mme)
-  court: Mme Backer
+  nom: Backer (M\textsuperscript{me})
+  court: M\textsuperscript{me} Backer
   notice: a fourni repas et œufs ; lecture incertaine
   formes: []
   attestations:
@@ -60,8 +60,8 @@ personnes:
   - - 14
     - 8
 - id: bienaime
-  nom: Bienaimé, Jules (notaire)
-  court: Me Bienaimé
+  nom: Bienaimé, Jules
+  court: M\textsuperscript{e} Bienaimé
   notice: notaire à Toutencourt (1906--1933)
   formes: []
   attestations:
@@ -80,7 +80,7 @@ personnes:
 - id: bonne_maman
   nom: Bonne-Maman (?)
   court: B. Mm
-  notice: «~B. Mm~», peut-être une grand-mère de Marguerite ; lecture incertaine
+  notice: «~B. Mm~», peut-être M\textsuperscript{me} Calmels, mère de Marguerite ; lecture incertaine
   formes: []
   attestations:
   - - 60
@@ -112,15 +112,15 @@ personnes:
 - id: bresson
   nom: Bresson (capitaine)
   court: Bresson
-  notice: officier de la Mission militaire française auprès de la \textsc{v}\textsuperscript{e} armée britannique
+  notice: officier de la Mission militaire française auprès de la V\textsuperscript{e} armée britannique
   formes: []
   attestations:
   - - 105
     - 8
 - id: calmels_mlle
-  nom: Calmels (Mlle)
-  court: Mlle Calmels
-  notice: défunte de la famille Calmels (messe anniversaire), non identifiée
+  nom: Calmels (M\textsuperscript{lle})
+  court: M\textsuperscript{lle} Calmels
+  notice: défunte de la famille Calmels (messe anniversaire) ; peut-être Anne Calmels, sœur du D\textsuperscript{r} Gabriel Calmels
   formes: []
   attestations:
   - - 60
@@ -245,7 +245,7 @@ personnes:
     - 10
 - id: calmels_mme
   nom: Calmels, Valentine, née Cartairade
-  court: Mme Calmels
+  court: M\textsuperscript{me} Calmels
   notice: mère de Marguerite ; «~Mme C\textsuperscript{h}~» (f.~28~r\textsuperscript{o}) et «~Mme Cl~» (f.~30~v\textsuperscript{o}), lecture et identification incertaines
   formes: []
   attestations:
@@ -256,8 +256,8 @@ personnes:
   - - 60
     - 4
 - id: capron
-  nom: Capron (Mme)
-  court: Mme Capron
+  nom: Capron (M\textsuperscript{me})
+  court: M\textsuperscript{me} Capron
   notice: habitante de Beauquesne ; lecture incertaine (Caprin ?)
   formes: []
   attestations:
@@ -266,7 +266,7 @@ personnes:
   - - 120
     - 20
 - id: carluvant
-  nom: Carluvant (M. et Mme)
+  nom: Carluvant (M. et M\textsuperscript{me})
   court: Carluvant
   notice: tailleur, logeur d'Hippolyte Combes à Acheux ; lecture incertaine (Carlumont ?)
   formes: []
@@ -284,14 +284,14 @@ personnes:
 - id: casteljau
   nom: Casteljau (capitaine de)
   court: Casteljau
-  notice: officier de la Mission militaire française auprès du II Corps britannique
+  notice: officier de la Mission militaire française auprès du II~Corps britannique ; lecture incertaine (Castelyau ?)
   formes: []
   attestations:
   - - 151
     - 13
 - id: cliquennois
-  nom: Cliquennois (Mme)
-  court: Mme Cliquennois
+  nom: Cliquennois (M\textsuperscript{me})
+  court: M\textsuperscript{me} Cliquennois
   notice: logeuse à Steenwerck
   formes: []
   attestations:
@@ -316,7 +316,7 @@ personnes:
 - id: combes_mere
   nom: Combes (mère d'Hippolyte)
   court: Maman
-  notice: mère d'Hippolyte Combes, défunte
+  notice: Marie Anaïs Alric (1838--1907), morte à Toulouse
   formes: []
   attestations:
   - - 132
@@ -326,7 +326,7 @@ personnes:
 - id: combes_pere
   nom: Combes (père d'Hippolyte)
   court: Papa
-  notice: père d'Hippolyte Combes, défunt
+  notice: François Augustin Hippolyte Combes, avocat, mort à Millau en 1899
   formes: []
   attestations:
   - - 141
@@ -334,7 +334,7 @@ personnes:
 - id: combes_soeurs
   nom: Combes (sœurs d'Hippolyte)
   court: ses sœurs
-  notice: sœurs d'Hippolyte Combes, dont Joséphine (\emph{voir} Combes, Joséphine)
+  notice: Maria (morte à Carthage en 1903) et Joséphine (\emph{voir} Combes, Joséphine)
   formes: []
   attestations:
   - - 132
@@ -344,7 +344,7 @@ personnes:
 - id: combes_josephine
   nom: Combes, Joséphine
   court: Josèphe
-  notice: sœur d'Hippolyte Combes, morte en 1914
+  notice: sœur aînée d'Hippolyte Combes, morte à Nogent-le-Rotrou en octobre 1914 (tradition familiale)
   formes: []
   attestations:
   - - 57
@@ -352,7 +352,7 @@ personnes:
 - id: connelly
   nom: Connelly
   court: Connelly
-  notice: groom (palefrenier) d'Hippolyte Combes à la 152nd Company A.S.C.
+  notice: \emph{groom} (palefrenier) d'Hippolyte Combes à la 152\textsuperscript{nd} Company A.S.C.
   formes: []
   attestations:
   - - 12
@@ -374,7 +374,7 @@ personnes:
 - id: croughton
   nom: Croughton (lieutenant)
   court: Croughton
-  notice: officier britannique, du mess de la No.~3 Company du train divisionnaire
+  notice: officier britannique, rencontré au mess de la No.~3 Company du train divisionnaire (31\textsuperscript{st} Division ?) ; lecture incertaine au f.~54~v\textsuperscript{o} (Crampton ?)
   formes: []
   attestations:
   - - 109
@@ -392,9 +392,9 @@ personnes:
   - - 64
     - 13
 - id: crouzet_tante
-  nom: Crouzet (Mme Émile), née Calmels
+  nom: Crouzet (M\textsuperscript{me} Émile), née Calmels
   court: tante
-  notice: «~tante~», sans doute Mme Émile Crouzet, née Calmels
+  notice: «~tante~», sans doute Élisabeth Calmels, M\textsuperscript{me} Émile Crouzet, tante paternelle de Marguerite
   formes: []
   attestations:
   - - 133
@@ -402,7 +402,7 @@ personnes:
 - id: crouzet_emile
   nom: Crouzet, Émile (oncle)
   court: oncle Crouzet
-  notice: agent de change à Toulouse, oncle par alliance de Marguerite Calmels
+  notice: ancien agent de change à Millau (v.~1842--1926), oncle par alliance de Marguerite Calmels, demeurant à Toulouse, sans doute à Sainte-Marie-des-Champs
   formes: []
   attestations:
   - - 55
@@ -432,8 +432,8 @@ personnes:
   - - 139
     - 9
 - id: cuisinier
-  nom: Cuisinier (Mme)
-  court: Mme Cuisinier
+  nom: Cuisinier (M\textsuperscript{me})
+  court: M\textsuperscript{me} Cuisinier
   notice: fermière à Louvencourt
   formes: []
   attestations:
@@ -446,7 +446,7 @@ personnes:
 - id: curtis
   nom: Curtis (lieutenant)
   court: Curtis
-  notice: officier de la 152nd Company A.S.C. (18th Division)
+  notice: officier de la 152\textsuperscript{nd} Company A.S.C. (18\textsuperscript{th} Division)
   formes: []
   attestations:
   - - 2
@@ -498,8 +498,8 @@ personnes:
   - - 107
     - 13
 - id: delille
-  nom: Delille (Mme)
-  court: Mme Delille
+  nom: Delille (M\textsuperscript{me})
+  court: M\textsuperscript{me} Delille
   notice: employée au guichet (de la poste ?) à Acheux
   formes: []
   attestations:
@@ -538,8 +538,8 @@ personnes:
   - - 184
     - 16
 - id: donse
-  nom: Donse (Mme)
-  court: Mme Donse
+  nom: Donse (M\textsuperscript{me})
+  court: M\textsuperscript{me} Donse
   notice: logeuse d'Hippolyte Combes à Lynde ; lecture incertaine (Donze, Douse ?)
   formes: []
   attestations:
@@ -547,8 +547,8 @@ personnes:
     - 20
 - id: dubois_dr
   nom: Dubois (docteur)
-  court: Dr Dubois
-  notice: de Montigny
+  court: D\textsuperscript{r} Dubois
+  notice: de Montigny, sans doute parent du maire Paul Dubois
   formes: []
   attestations:
   - - 161
@@ -588,7 +588,7 @@ personnes:
 - id: evar
   nom: Evar
   court: Evar
-  notice: interprète militaire ; lecture incertaine
+  notice: interprète militaire ; lecture incertaine (Evan ?)
   formes: []
   attestations:
   - - 164
@@ -596,9 +596,9 @@ personnes:
   - - 164
     - 8
 - id: faure_mme
-  nom: Faure (Mme)
-  court: Mme Faure
-  notice: demeurant à Neuilly-sur-Seine, rue d'Armenonville
+  nom: Faure (M\textsuperscript{me})
+  court: M\textsuperscript{me} Faure
+  notice: à Neuilly-sur-Seine, rue d'Armenonville ; sans doute Marguerite Barnerot (1874--1954), veuve de Camille Faure
   formes: []
   attestations:
   - - 131
@@ -606,7 +606,7 @@ personnes:
 - id: faure_andre
   nom: Faure, André
   court: André Faure
-  notice: fils de Mme Faure, préparant Polytechnique
+  notice: fils de M\textsuperscript{me} Faure, préparant Polytechnique
   formes: []
   attestations:
   - - 131
@@ -614,7 +614,7 @@ personnes:
 - id: faure_germaine
   nom: Faure, Germaine
   court: Germaine Faure
-  notice: fille de Mme Faure (?)
+  notice: fille de M\textsuperscript{me} Faure (?)
   formes: []
   attestations:
   - - 131
@@ -622,7 +622,7 @@ personnes:
 - id: faure_henri
   nom: Faure, Henri
   court: Henri Faure
-  notice: fils de Mme Faure, aspirant
+  notice: fils de M\textsuperscript{me} Faure, aspirant
   formes: []
   attestations:
   - - 131
@@ -630,7 +630,7 @@ personnes:
 - id: faure_marcel
   nom: Faure, Marcel
   court: Marcel Faure
-  notice: fils de Mme Faure ; peut-être Marcel Faure (1906--1999)
+  notice: fils de M\textsuperscript{me} Faure ; peut-être Marcel Faure (1906--1999)
   formes: []
   attestations:
   - - 131
@@ -638,7 +638,7 @@ personnes:
 - id: fisher
   nom: Fisher
   court: Fisher
-  notice: soldat de la 152nd Company A.S.C.
+  notice: soldat de la 152\textsuperscript{nd} Company A.S.C.
   formes: []
   attestations:
   - - 26
@@ -646,7 +646,7 @@ personnes:
   - - 26
     - 16
 - id: flutre
-  nom: Flutre (M. et Mme)
+  nom: Flutre (M. et M\textsuperscript{me})
   court: Flutre
   notice: instituteurs au Mesnil, parents d'un élève de l'École normale supérieure (Louis-Fernand Flutre ?)
   formes: []
@@ -664,7 +664,7 @@ personnes:
 - id: gilbert
   nom: Gilbert (sous-lieutenant)
   court: Gilbert
-  notice: officier britannique « de Jersey », poète, peut-être collègue d'Hippolyte Combes au Purchase Board
+  notice: officier britannique «~de Jersey~», poète, peut-être collègue d'Hippolyte Combes au \emph{Purchase Board}
   formes: []
   attestations:
   - - 179
@@ -696,7 +696,7 @@ personnes:
 - id: grose
   nom: Grose, Daniel Charles Evans (lieutenant-colonel)
   court: Grose
-  notice: commandant le train de la 18th Division
+  notice: commandant le train de la 18\textsuperscript{th} Division
   formes: []
   attestations:
   - - 90
@@ -710,9 +710,9 @@ personnes:
   - - 135
     - 11
 - id: guerle
-  nom: Guerle (Mme)
-  court: Mme Guerle
-  notice: propriétaire d'une grange servant de cantonnement
+  nom: Guerle (M\textsuperscript{me})
+  court: M\textsuperscript{me} Guerle
+  notice: propriétaire d'une grange où Hippolyte Combes passe la matinée du 4~décembre 1916
   formes: []
   attestations:
   - - 106
@@ -736,8 +736,8 @@ personnes:
   - - 121
     - 16
 - id: guilhem
-  nom: Guilhem (Mlle)
-  court: Mlle Guilhem
+  nom: Guilhem (M\textsuperscript{lle})
+  court: M\textsuperscript{lle} Guilhem
   notice: propriétaire de l'appartement d'Hippolyte Combes à Toulouse
   formes: []
   attestations:
@@ -754,7 +754,7 @@ personnes:
 - id: hancock
   nom: Hancock
   court: Hancock
-  notice: chef cuisinier (\textit{headcook}) du mess de la compagnie
+  notice: chef cuisinier (\emph{headcook}) du mess de la compagnie
   formes: []
   attestations:
   - - 7
@@ -778,7 +778,7 @@ personnes:
   - - 26
     - 6
 - id: houtteman
-  nom: Houtteman (M. et Mme)
+  nom: Houtteman (M. et M\textsuperscript{me})
   court: Houtteman
   notice: fermiers belges de Belle-Église Farm, à Arquèves ; lecture incertaine
   formes: []
@@ -790,7 +790,7 @@ personnes:
 - id: hughes
   nom: Hughes (major)
   court: Hughes
-  notice: officier britannique du \textit{Train Office} ; peut-être Herbert Francis Hughes, A.S.C.
+  notice: officier britannique du \emph{Train Office} ; peut-être Herbert Francis Hughes, A.S.C.
   formes: []
   attestations:
   - - 90
@@ -834,14 +834,14 @@ personnes:
 - id: jessie
   nom: Jessie
   court: Jessie
-  notice: lié à la voiture Vauxhall, non identifié ; lecture incertaine (Jimmie ?)
+  notice: lié à la voiture Vauxhall, non identifié ; lecture incertaine (Jellie ?)
   formes: []
   attestations:
   - - 167
     - 14
 - id: labarthe
-  nom: Labarthe (Mme de)
-  court: Mme de Labarthe
+  nom: Labarthe (M\textsuperscript{me} de)
+  court: M\textsuperscript{me} de Labarthe
   notice: amie toulousaine d'Hippolyte Combes
   formes: []
   attestations:
@@ -862,7 +862,7 @@ personnes:
 - id: benoit_labre
   nom: Labre, Benoît-Joseph (saint)
   court: Benoît Labre
-  notice: pèlerin mendiant (1748--1783), né à Amettes, alors bienheureux
+  notice: pèlerin mendiant (1748--1783), né à Amettes, béatifié en 1860, canonisé en 1881
   formes: []
   attestations:
   - - 32
@@ -876,8 +876,8 @@ personnes:
   - - 135
     - 12
 - id: laudet
-  nom: Laudet (Mme)
-  court: Mme Laudet
+  nom: Laudet (M\textsuperscript{me})
+  court: M\textsuperscript{me} Laudet
   notice: Toulousaine ; lecture incertaine (Lamolet ?)
   formes: []
   attestations:
@@ -910,7 +910,7 @@ personnes:
 - id: leonard
   nom: Leonard (capitaine)
   court: Leonard
-  notice: officier britannique ; peut-être Robert Marsh Leonard, A.S.C. (?)
+  notice: officier britannique ; peut-être Robert Marsh Leonard, A.S.C. ; lecture incertaine (Lemard ?)
   formes: []
   attestations:
   - - 157
@@ -918,7 +918,7 @@ personnes:
 - id: lepin
   nom: Lépin ou Lupin (adjudant)
   court: Lépin
-  notice: interprète de la Mission militaire française (18th Division) ; lecture incertaine
+  notice: interprète de la Mission militaire française (18\textsuperscript{th} Division) ; lecture incertaine
   formes: []
   attestations:
   - - 23
@@ -935,6 +935,14 @@ personnes:
   attestations:
   - - 43
     - 7
+- id: leroux
+  nom: Leroux
+  court: Leroux
+  notice: personne rencontrée près de Saint-Jans-Cappel, peut-être un vicaire ; lecture incertaine ; non identifié
+  formes: []
+  attestations:
+  - - 6
+    - 6
 - id: lersay
   nom: Lersay (M. de)
   court: M. de Lersay
@@ -948,7 +956,7 @@ personnes:
 - id: levy
   nom: Levy (major)
   court: Levy
-  notice: officier britannique du D.O.S.T., chef du Purchase Board ; peut-être Walter Henry Levy, A.S.C.
+  notice: officier britannique du D.O.S.T., chef du \emph{Purchase Board} ; peut-être Walter Henry Levy, A.S.C.
   formes: []
   attestations:
   - - 91
@@ -970,7 +978,7 @@ personnes:
 - id: louise
   nom: Louise
   court: Louise
-  notice: de Pierregot, proche de Mme Miquel
+  notice: de Pierregot, proche de M\textsuperscript{me} Miquel
   formes: []
   attestations:
   - - 183
@@ -978,7 +986,7 @@ personnes:
 - id: lovet
   nom: Lovet (capitaine)
   court: Lovet
-  notice: officier rencontré au \textit{refilling point} ; lecture incertaine
+  notice: officier rencontré au \emph{refilling point} ; lecture incertaine
   formes: []
   attestations:
   - - 151
@@ -986,7 +994,7 @@ personnes:
 - id: maeterlinck
   nom: Maeterlinck, Maurice
   court: Maeterlinck
-  notice: écrivain belge, auteur des \textit{Débris de la guerre}
+  notice: écrivain belge, auteur des \emph{Débris de la guerre}
   formes: []
   attestations:
   - - 53
@@ -1046,7 +1054,7 @@ personnes:
 - id: maxse
   nom: Maxse, Ivor (général)
   court: Maxse
-  notice: Major-General Frederick Ivor Maxse, commandant la 18th (Eastern) Division
+  notice: \emph{Major-General} Frederick Ivor Maxse, commandant la 18\textsuperscript{th} (Eastern) Division
   formes: []
   attestations:
   - - 16
@@ -1054,14 +1062,14 @@ personnes:
 - id: michel
   nom: Michel (lieutenant)
   court: Michel
-  notice: \textit{billeting officer} au cantonnement des Royal Fusiliers
+  notice: \emph{billeting officer} au cantonnement des Royal Fusiliers
   formes: []
   attestations:
   - - 3
     - 3
 - id: miquel
-  nom: Miquel (Mme)
-  court: Mme Miquel
+  nom: Miquel (M\textsuperscript{me})
+  court: M\textsuperscript{me} Miquel
   notice: habitante de Pierregot ; lecture incertaine (Mignot ?)
   formes: []
   attestations:
@@ -1078,7 +1086,7 @@ personnes:
 - id: morris
   nom: Morris (lieutenant)
   court: Morris
-  notice: officier britannique, de la 150th Company A.S.C. (?), ancien camarade d'Hippolyte Combes
+  notice: officier britannique, de la 150\textsuperscript{th} Company A.S.C. (?), ancien camarade d'Hippolyte Combes
   formes: []
   attestations:
   - - 120
@@ -1108,7 +1116,7 @@ personnes:
 - id: panton
   nom: Pant (capitaine)
   court: Pant
-  notice: officier de la 152nd Company A.S.C., sans doute chef du mess ; non identifié (nom peut-être abrégé)
+  notice: officier de la 152\textsuperscript{nd} Company A.S.C., sans doute chef du mess ; non identifié (nom peut-être abrégé)
   formes: []
   attestations:
   - - 47
@@ -1134,7 +1142,7 @@ personnes:
 - id: pizzi
   nom: Pizzi (lieutenant)
   court: Pizzi
-  notice: officier interprète de la Mission militaire française (18th Division) ; «~Pozzi~» au f.~46~v\textsuperscript{o}
+  notice: officier interprète de la Mission militaire française (18\textsuperscript{th} Division) ; «~Pozzi~» au f.~46~v\textsuperscript{o}
   formes: []
   attestations:
   - - 48
@@ -1168,7 +1176,7 @@ personnes:
 - id: romert
   nom: Romert (M.)
   court: M. Romert
-  notice: habitant d'Auxi-le-Château
+  notice: habitant d'Auxi-le-Château ; lecture incertaine (Romart, Rouart ?)
   formes: []
   attestations:
   - - 152
@@ -1176,7 +1184,7 @@ personnes:
 - id: schumacher
   nom: Schumacher (adjudant)
   court: Schumacher
-  notice: interprète militaire ; vraisemblablement le «~Schuhmacher~» de la 53rd Brigade
+  notice: interprète militaire ; vraisemblablement le «~Schuhmacher~» de la 53\textsuperscript{rd} Brigade
   formes: []
   attestations:
   - - 23
@@ -1186,7 +1194,7 @@ personnes:
 - id: serpin
   nom: Serpin
   court: Serpin
-  notice: du bureau de la Mission militaire française (18th Division)
+  notice: du bureau de la Mission militaire française (18\textsuperscript{th} Division)
   formes: []
   attestations:
   - - 90
@@ -1194,14 +1202,14 @@ personnes:
 - id: sorgues
   nom: Sorgues
   court: Sorgues
-  notice: interprète d'une batterie, professeur au lycée de Toulon ; lecture incertaine (Forgues ?)
+  notice: interprète d'une batterie, professeur au lycée de Toulon ; lecture incertaine (Lorgues ?)
   formes: []
   attestations:
   - - 97
     - 15
 - id: spagnol
-  nom: Spagnol (Mme)
-  court: Mme Spagnol
+  nom: Spagnol (M\textsuperscript{me})
+  court: M\textsuperscript{me} Spagnol
   notice: de Nice, sans doute expéditrice de fleurs
   formes: []
   attestations:
@@ -1210,9 +1218,9 @@ personnes:
   - - 158
     - 12
 - id: tait
-  nom: Tait (quartermaster sergeant)
+  nom: Tait (\textit{quartermaster-serjeant})
   court: Tait
-  notice: sous-officier de la 152nd Company A.S.C.
+  notice: sous-officier de la 152\textsuperscript{nd} Company A.S.C.
   formes: []
   attestations:
   - - 67
@@ -1260,7 +1268,7 @@ personnes:
 - id: valet
   nom: Valet
   court: Valet
-  notice: interprète militaire de la 2nd Australian Division
+  notice: interprète militaire de la 2\textsuperscript{nd} Australian Division
   formes: []
   attestations:
   - - 164
@@ -1270,16 +1278,16 @@ personnes:
   - - 166
     - 21
 - id: vali
-  nom: Vali (M. et Mme)
+  nom: Vali (M. et M\textsuperscript{me})
   court: Vali
-  notice: châtelains de Martinsart ; lecture incertaine (Bertin ?)
+  notice: châtelains de Martinsart ; lecture incertaine (Vahi, Valin ?)
   formes: []
   attestations:
   - - 104
     - 5
 - id: vauchel
-  nom: Vauchel (Mme)
-  court: Mme Vauchel
+  nom: Vauchel (M\textsuperscript{me})
+  court: M\textsuperscript{me} Vauchel
   notice: propriétaire d'une ferme voisine du cantonnement
   formes: []
   attestations:
@@ -1288,7 +1296,7 @@ personnes:
 - id: vincens_famille
   nom: Vincens (famille)
   court: Vincens
-  notice: enfants de Madeleine Calmels et du Dr Fernand Vincens
+  notice: enfants de Madeleine Calmels et du D\textsuperscript{r} Fernand Vincens
   formes: []
   attestations:
   - - 143
@@ -1350,7 +1358,7 @@ personnes:
 - id: west
   nom: West, Edward Maurice (capitaine)
   court: West
-  notice: commandant la 152nd Company A.S.C.
+  notice: commandant la 152\textsuperscript{nd} Company A.S.C.
   formes: []
   attestations:
   - - 39
@@ -1364,7 +1372,7 @@ personnes:
 - id: williams
   nom: Williams (capitaine)
   court: Williams
-  notice: officier britannique, chef d'Hippolyte Combes à partir de décembre 1916
+  notice: officier britannique, chef d'Hippolyte Combes du 2~décembre 1916 au 10~mars 1917
   formes: []
   attestations:
   - - 105
@@ -1406,7 +1414,7 @@ personnes:
 - id: zyromski
   nom: Zyromski, Ernest
   court: Zyromski
-  notice: Ernest Zyromski (1862--1933), professeur à la faculté des lettres de Toulouse, auteur de \textit{L'Orgueil humain}
+  notice: professeur à la faculté des lettres de Toulouse (1862--1933), auteur de \emph{L'Orgueil humain} (1904)
   formes: []
   attestations:
   - - 53
@@ -1928,7 +1936,7 @@ lieux:
 - id: barlette
   nom: Barlette (Somme)
   court: Barlette
-  notice: écart près de Ribeaucourt ; cantonnement de la 152nd Company en octobre 1916
+  notice: hameau de Ribeaucourt ; cantonnement de la 152\textsuperscript{nd} Company en octobre 1916
   formes: []
   attestations:
   - - 67
@@ -2045,7 +2053,7 @@ lieux:
 - id: belle_eglise
   nom: Belle-Église (ferme ; Somme)
   court: Belle-Église
-  notice: ferme entre Arquèves et Louvencourt («~Belle Église Farm~»), tenue par des fermiers belges ; commune de rattachement non établie
+  notice: hameau d'Arquèves, vers Louvencourt, tête de ligne des vivres en juillet 1916 ; sa ferme («~Belle Église Farm~») est tenue par une famille belge
   formes: []
   attestations:
   - - 95
@@ -2164,7 +2172,7 @@ lieux:
   - - 130
     - 11
 - id: le_bourget
-  nom: Le Bourget (Seine)
+  nom: Le Bourget (Seine-Saint-Denis)
   court: Le Bourget
   notice: gare régulatrice
   formes: []
@@ -2341,7 +2349,7 @@ lieux:
   - - 185
     - 14
 - id: corbeil
-  nom: Corbeil-Essonnes (Seine-et-Oise, auj. Essonne)
+  nom: Corbeil-Essonnes (Essonne)
   court: Corbeil-Essonnes
   formes: []
   attestations:
@@ -2357,7 +2365,7 @@ lieux:
 - id: couin
   nom: Couin (Pas-de-Calais)
   court: Couin
-  notice: lecture probable ; quartier général du \textsc{xiii}\textsuperscript{e} corps britannique en octobre–novembre 1916
+  notice: lecture probable ; quartier général du XIII\textsuperscript{e} corps britannique en octobre--novembre 1916
   formes: []
   attestations:
   - - 154
@@ -2681,7 +2689,7 @@ lieux:
 - id: herissart
   nom: Hérissart (Somme)
   court: Hérissart
-  notice: cantonnement d'Hippolyte Combes à partir de novembre 1916
+  notice: cantonnement d'Hippolyte Combes à partir du 7~février 1917
   formes: []
   attestations:
   - - 95
@@ -2861,7 +2869,7 @@ lieux:
 - id: louvencourt_cuisinier
   nom: Louvencourt, ferme Cuisinier
   court: ferme Cuisinier
-  notice: ferme de Mme Cuisinier
+  notice: ferme de M\textsuperscript{me} Cuisinier
   formes: []
   attestations:
   - - 118
@@ -2913,7 +2921,7 @@ lieux:
 - id: marquay_collet
   nom: Marquay, ferme Collet
   court: ferme Collet
-  notice: ferme près de Marquay
+  notice: ferme près de Marquay, non localisée
   formes: []
   attestations:
   - - 38
@@ -2921,6 +2929,7 @@ lieux:
 - id: martinsart
   nom: Martinsart (Somme)
   court: Martinsart
+  notice: hameau de Mesnil-Martinsart, à 4~km au nord d'Albert
   formes: []
   attestations:
   - - 104
@@ -2961,7 +2970,7 @@ lieux:
 - id: mesnil
   nom: Mesnil-Martinsart (Somme)
   court: Mesnil
-  notice: '«~au Mesnil~» : village natal de Louis-Fernand Flutre, fils des instituteurs Flutre'
+  notice: '«~au Mesnil~» : village natal de Louis-Fernand Flutre, très probablement le fils des instituteurs Flutre'
   formes: []
   attestations:
   - - 168
@@ -3068,7 +3077,7 @@ lieux:
   - - 39
     - 13
 - id: neuilly
-  nom: Neuilly-sur-Seine (Seine)
+  nom: Neuilly-sur-Seine (Hauts-de-Seine)
   court: Neuilly
   formes: []
   attestations:
@@ -3105,7 +3114,7 @@ lieux:
 - id: oppy
   nom: Oppy (Pas-de-Calais)
   court: Oppy
-  notice: hameau de Beaudricourt
+  notice: hameau de Beaudricourt (et non la commune d'Oppy, près d'Arras)
   formes: []
   attestations:
   - - 40
@@ -3225,7 +3234,7 @@ lieux:
 - id: paris_saint_vincent
   nom: Paris, église Saint-Vincent-de-Paul
   court: Saint-Vincent-de-Paul
-  notice: \textsc{x}\textsuperscript{e} arrondissement
+  notice: X\textsuperscript{e} arrondissement
   formes: []
   attestations:
   - - 63
@@ -3328,7 +3337,7 @@ lieux:
 - id: paris_rue_flandre
   nom: Paris, rue de Flandre
   court: rue de Flandre (Paris)
-  notice: \textsc{xix}\textsuperscript{e} arrondissement
+  notice: XIX\textsuperscript{e} arrondissement
   formes: []
   attestations:
   - - 52
@@ -3534,7 +3543,7 @@ lieux:
 - id: quesnoy
   nom: Quesnoy (ferme du ; Somme) ?
   court: ferme du Quesnoy
-  notice: écart des environs de Raincheval et de Beauquesne, non identifié avec certitude
+  notice: sans doute le lieu-dit le Quesnoy, à Puchevillers ; identification non certaine
   formes: []
   attestations:
   - - 111
@@ -3753,7 +3762,7 @@ lieux:
 - id: marquay_ryonval
   nom: Ryonval (Pas-de-Calais) ?
   court: Ryonval
-  notice: lieu-dit près de Marquay, lecture incertaine
+  notice: lieu-dit près de Marquay, non localisé ; lecture incertaine
   formes: []
   attestations:
   - - 38
@@ -3919,7 +3928,7 @@ lieux:
 - id: somme_bataille
   nom: Somme, bataille de la
   court: bataille de la Somme
-  notice: offensive franco-britannique de juillet–novembre 1916
+  notice: offensive franco-britannique de juillet--novembre 1916
   formes: []
   attestations:
   - - 89
@@ -3948,7 +3957,7 @@ lieux:
 - id: thievres
   nom: Thièvres (Somme)
   court: Thièvres
-  notice: village partagé entre la Somme et le Pas-de-Calais
+  notice: village coupé par l'Authie entre deux communes homonymes, de la Somme et du Pas-de-Calais
   formes: []
   attestations:
   - - 41
@@ -4032,8 +4041,8 @@ lieux:
   - - 57
     - 19
 - id: tls_cote_pavee
-  nom: Toulouse, Côte Pavée
-  court: Côte Pavée
+  nom: Toulouse, Côte-Pavée
+  court: Côte-Pavée
   notice: quartier de l'est de Toulouse
   formes: []
   attestations:
@@ -4070,7 +4079,7 @@ lieux:
 - id: tls_labit
   nom: Toulouse, magasins Labit ?
   court: Labit
-  notice: cité avec les magasins du Capitole ; identification incertaine
+  notice: sans doute la «~Maison universelle~» d'Antoine Labit, rue d'Alsace-Lorraine ; citée avec les magasins du Capitole
   formes: []
   attestations:
   - - 134
@@ -4210,7 +4219,7 @@ lieux:
 - id: tls_rue_languedoc
   nom: Toulouse, rue de Languedoc
   court: rue de Languedoc
-  notice: domicile toulousain d'Hippolyte Combes (n° 24)
+  notice: domicile toulousain d'Hippolyte Combes (n\textsuperscript{o}~24)
   formes: []
   attestations:
   - - 137
@@ -4260,7 +4269,7 @@ lieux:
 - id: tls_sainte_marie
   nom: Toulouse, Sainte-Marie-des-Champs
   court: Sainte-Marie
-  notice: maison de l'oncle Émile Crouzet, où séjournent Marguerite Calmels et sa mère ; ancien noviciat des jésuites, quartier de la Côte Pavée
+  notice: maison de l'oncle Émile Crouzet, où séjournent Marguerite Calmels et sa mère, sans doute la villa de ce nom, quartier de la Côte-Pavée ; le nom vient d'un ancien noviciat des jésuites
   formes: []
   attestations:
   - - 54
@@ -4310,7 +4319,7 @@ lieux:
 - id: toutencourt
   nom: Toutencourt (Somme)
   court: Toutencourt
-  notice: siège de la Mission française auprès de la \textsc{v}\textsuperscript{e} armée britannique
+  notice: quartier général de la V\textsuperscript{e} armée britannique jusqu'au 28~mars 1917 et siège de la Mission française auprès d'elle
   formes: []
   attestations:
   - - 99

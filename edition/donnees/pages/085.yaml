@@ -1,6 +1,6 @@
 cliche: 85
 fichier: 20251126_104418.jpg
-date: Mardi 24 et mercredi 25 octobre 1916
+date: Mardi 24 – mercredi 25 octobre 1916
 mois: Octobre 1916
 lieux: Albert (Somme)
 titre: Pluie et boue au bivouac d'Albert ; obus proches ; maintenu à la Mission
@@ -27,10 +27,6 @@ transcription: |
   chambrette, lis ou ecris. Vie
   d'1 extrême monotonie —
 apparat:
-- ligne: 1
-  lemme: Oct /16
-  type: abreviation
-  note: octobre 1916
 - ligne: 3
   lemme: \inc{tombent}
   type: lecture
@@ -42,21 +38,13 @@ apparat:
 - ligne: 9
   lemme: Lepin
   type: lecture
-  note: sans doute le même adjudant que « Lupin » (f. 12 r°) et « Lépin » (f. 45 v°)
+  note: sans doute le même adjudant que « Lupin » (f.~12~r\textsuperscript{o}) et « Lépin » (f.~45~v\textsuperscript{o})
 - ligne: 9
   lemme: \inc{quitter}
   type: lecture
-  note: 'pour « quitterai » ; autre lecture : quiter'
-- ligne: 11
-  lemme: 11^{H} m
-  type: abreviation
-  note: 11 heures du matin
-- ligne: 14
-  lemme: \sl{merc. 25}
-  type: abreviation
-  note: mercredi ; date encadrée (filet au-dessus, soulignement, trait oblique à droite)
+  note: 'lecture incertaine (pour « quitterai ») ; autre lecture : quiter'
 historique: |
-  La pluie du 24 octobre fait remettre l'attaque de la Reserve Army sur l'Ancre, fixée au 25. Le 27, elle reçoit la date « provisoire » du 1\textsuperscript{er} novembre (OH 1916-II, p.~461--462). Ces obus, comme ceux du 31 (f.~44~v\textsuperscript{o}), nuancent le guide Michelin (Albert « enfin hors de portée » des canons allemands ; Michelin 1919, p.~31--35). Hippolyte Combes échappe à la menace du 22 aux interprètes « jeunes R.A.T. » (voir f.~42~r\textsuperscript{o}) sans que le carnet dise pourquoi. Le lieutenant Pizzi, officier interprète de la 18th Division, est loué dans la lettre du 25 février 1916 (en annexe, p.~\pageref{annexe:doc1}). L'adjudant Lepin n'est pas identifié.
+  La pluie du 24~octobre fait remettre l'attaque de la Reserve Army sur l'Ancre, fixée au 25. Le 27, elle reçoit la date « provisoire » du 1\textsuperscript{er}~novembre (OH~\mbox{1916-II}, p.~461--462). Ces obus, comme ceux du 31 (f.~44~v\textsuperscript{o}), nuancent le guide Michelin (Albert « enfin hors de portée » des canons allemands ; Michelin 1919, p.~31--35). Hippolyte Combes échappe à la menace du 22 aux interprètes « jeunes R.A.T. » (voir f.~42~r\textsuperscript{o}) sans que le carnet dise pourquoi. Le lieutenant Pizzi, officier interprète de la 18\textsuperscript{th} Division, est loué dans la lettre du 25~février 1916 (en annexe, p.~\pageref{annexe:doc1}). L'adjudant Lépin n'est pas identifié.
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 461-462.
 - Michelin, The Somme, vol. 1, The First Battle of the Somme (1916-1917), Clermont-Ferrand, Michelin, 1919, p. 31-35.

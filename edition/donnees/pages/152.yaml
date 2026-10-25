@@ -27,45 +27,25 @@ transcription: |
   Cartes p^{les} : 45
   Chocolat : 60c — Biscuits Petit Beurre : 50c
 apparat:
-- ligne: 4
-  lemme: 3 h
-  type: abreviation
-  note: trois heures
 - ligne: 7
-  lemme: doux
+  lemme: \inc{doux}
   type: lecture
   note: 'lecture incertaine ; autre lecture : beau'
 - ligne: 9
-  lemme: Romert
+  lemme: \inc{Romert}
   type: lecture
   note: 'lecture incertaine ; autres lectures : Romart, Rouart'
 - ligne: 11
   lemme: celib^{re}
   type: abreviation
   note: célibataire
-- ligne: 13
-  lemme: + en +
-  type: abreviation
-  note: plus en plus
-- ligne: 18
-  lemme: 2^{f}10
-  type: abreviation
-  note: 2 francs 10
-- ligne: 19
-  lemme: p^{les}
-  type: abreviation
-  note: postales
 - ligne: 19
   lemme: '45'
   type: lecture
-  note: 45 centimes
-- ligne: 20
-  lemme: 50c
-  type: abreviation
-  note: 50 centimes
+  note: 45~centimes
 critique: La journée du dimanche 11, amorcée au bas du f.~75~v\textsuperscript{o}, est reprise ici sous une nouvelle date.
 historique: |
-  Toutencourt est le QG de la Fifth Army (voir f.~75~r\textsuperscript{o}). Doullens abrite depuis le 12 janvier 1917 le QG du XIII Corps (LLT) ; la citadelle y est un hôpital militaire français (CWGC ; OH 1916-II, p.~541). Auxi-le-Château (Pas-de-Calais) est à une vingtaine de kilomètres en aval sur l'Authie ; Hippolyte Combes y était venu le 17 janvier chez M.~Renard (voir f.~62 r\textsuperscript{o}). M.~Romert n'est pas identifié. Le froid du retour appartient au grand gel commencé vers le 14 janvier, qui ne cède que le 16 février (OH 1917-I, p.~66, 76). Le chocolat est au même prix qu'à Doullens le 15 janvier (voir f.~61 v\textsuperscript{o}). Le Petit Beurre est le biscuit créé à Nantes en 1886 par Louis Lefèvre-Utile (Musée d'histoire de Nantes).
+  Toutencourt est le QG de la Fifth Army (voir f.~75~r\textsuperscript{o}). Doullens abrite depuis le 12~janvier 1917 le QG du XIII~Corps (LLT) ; la citadelle y est un hôpital militaire français (CWGC ; OH~\mbox{1916-II}, p.~541). Auxi-le-Château (Pas-de-Calais) est à une vingtaine de kilomètres en aval sur l'Authie ; Hippolyte Combes y était venu le 17~janvier chez M.~Renard (voir f.~62~r\textsuperscript{o}). M.~Romert n'est pas identifié. Le froid du retour appartient au grand gel commencé vers le 14~janvier, qui ne cède que le 16~février (OH~\mbox{1917-I}, p.~66, 76). Le 15~janvier, à Doullens, une plaque de chocolat avait coûté 65~c (lecture incertaine ; voir f.~61~v\textsuperscript{o}). Le Petit Beurre est le biscuit créé à Nantes en 1886 par Louis Lefèvre-Utile (Musée d'histoire de Nantes).
 sources:
 - Baker, C., The Long, Long Trail, « The British XIII Corps in France and Flanders » (longlongtrail.co.uk, consulté le 18 oct. 2026).
 - Commonwealth War Graves Commission, Doullens Communal Cemetery Extension No. 1, notice historique (cwgc.org).

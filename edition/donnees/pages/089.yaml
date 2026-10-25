@@ -31,14 +31,6 @@ transcription: |
   ordres. Demain matin, devrai partir avec lui
   à Acheux. Ns sommes détachés de la Coy Transport –
 apparat:
-- ligne: 1
-  lemme: 1er
-  type: abreviation
-  note: premier
-- ligne: 1
-  lemme: Me.
-  type: abreviation
-  note: mercredi
 - ligne: 7
   lemme: au \fr{1}{2} de
   type: abreviation
@@ -47,10 +39,6 @@ apparat:
   lemme: killed in action
   type: emprunt
   note: tués au combat
-- ligne: 11
-  lemme: 3^{h}
-  type: abreviation
-  note: trois heures
 - ligne: 12
   lemme: pl.
   type: abreviation
@@ -63,10 +51,6 @@ apparat:
   lemme: div.
   type: abreviation
   note: diverses
-- ligne: 14
-  lemme: tommies
-  type: emprunt
-  note: simples soldats britanniques (familier)
 - ligne: 14
   lemme: N.C.O's
   type: abreviation
@@ -83,16 +67,12 @@ apparat:
   lemme: M.P.s
   type: abreviation
   note: 'Military Police : police militaire britannique'
-- ligne: 22
-  lemme: 9^{H}
-  type: abreviation
-  note: neuf heures
 - ligne: 24
   lemme: Coy Transport
   type: emprunt
-  note: compagnie du train (la 152nd Company A.S.C.)
+  note: compagnie du train (la 152\textsuperscript{nd} Company A.S.C.)
 historique: |
-  Le champ de croix voisin du cimetière communal est l'\textit{Albert Communal Cemetery Extension}. Ouvert en août 1915, il sert surtout à partir de septembre 1916, quand les ambulances de campagne se regroupent à Albert ; la 5th Casualty Clearing Station l'utilise deux mois à partir de novembre 1916 (CWGC). Le général écossais n'est pas identifié. Le jardin public, rue Jules-Ferry, est inscrit monument historique depuis le 16 février 2009 (Mérimée PA80000063). On ignore qui organise le \textit{Church meeting} de la route d'Amiens. L'ordre apporté par Curtis fait suite à l'enquête sur la paille et le foin d'Acheux et de Senlis, le 29 octobre (voir f.~44~r\textsuperscript{o}).
+  Le champ de croix voisin du cimetière communal est l'\textit{Albert Communal Cemetery Extension}. Ouvert en août 1915, il sert surtout à partir de septembre 1916, quand les ambulances de campagne se regroupent à Albert ; la 5\textsuperscript{th} Casualty Clearing Station l'utilise deux mois à partir de novembre 1916 (CWGC). Le général écossais n'est pas identifié. Le jardin public, rue Jules-Ferry, est inscrit monument historique depuis le 16~février 2009 (Mérimée PA80000063). On ignore qui organise le \textit{Church meeting} de la route d'Amiens. L'ordre apporté par Curtis fait suite à l'enquête sur la paille et le foin d'Acheux et de Senlis, le 29~octobre (voir f.~44~r\textsuperscript{o}).
 sources:
 - Commonwealth War Graves Commission, « Albert Communal Cemetery Extension », notice historique, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/61300/albert-communal-cemetery-extension/.
 - Ministère de la Culture, base Mérimée, PA80000063, « Jardin public », Albert (Somme), inscription par arrêté du 16 février 2009.

@@ -18,7 +18,7 @@ transcription: |
   \ind[2] — C^{tes} p^{les} : 35 c.
   \blanc{1}
   \filet
-  17 Merc Nuit neigé abond^{t}. Au réveil
+  17 \sl{Merc} Nuit neigé abond^{t}. Au réveil
   trouvé toits, jardins rues, tout blancs
   \ind Tout le jour, en course Venu jà
   Auxi-le-Château, chz M. Renard. \inc{Jusqà} Doullens
@@ -36,7 +36,7 @@ apparat:
 - ligne: 3
   lemme: \inc{sec}
   type: lecture
-  note: fin du mot hors du fac-similé ; seul « se » lisible
+  note: lecture incertaine ; seul « se » lisible, au bord de la page
 - ligne: 4
   lemme: Sunbeam
   type: emprunt
@@ -45,10 +45,6 @@ apparat:
   lemme: couverte
   type: lecture
   note: 'autre lecture : couverts'
-- ligne: 9
-  lemme: gde
-  type: abreviation
-  note: grande(s) ; « de » écrit sur la ligne, non suscrit.
 - ligne: 12
   lemme: abond^{t}
   type: abreviation
@@ -64,7 +60,7 @@ apparat:
 - ligne: 20
   lemme: notam
   type: abreviation
-  note: notamment (suspension prolongée d'un délié ; « notamt » possible)
+  note: 'notamment ; autre lecture : notamt'
 - ligne: 20
   lemme: \inc{un}
   type: lecture
@@ -72,13 +68,13 @@ apparat:
 - ligne: 22
   lemme: \ill
   type: lecture
-  note: mot coupé au bord du fac-similé ; « de » ou « & » ?
+  note: mot coupé au bord de la page ; « de » ou « & » ?
 - ligne: 24
   lemme: considt
   type: abreviation
   note: considérablement
 historique: |
-  Le 16, la 18th Division revient sur l'Ancre (Nichols 1922, p. 139) : le 7/Bedf a cantonné le 14 dans la « Rubempré Area » (JMO 7/Bedf, janv. 1917) et le 10th Essex fait étape à Hérissart (Banks et Chell 1924, p. 172). La paille cherchée à Rubempré leur est sans doute destinée. Senlis-le-Sec abrite alors le QG du IV Corps, auquel le II Corps succède le 21 janvier (LLT). La Sunbeam est celle du major Levy (voir f. 58 r\textsuperscript{o}). M. Renard n'est pas identifié. Au bagne de Toulon (1748–1873), les forçats vendaient aux visiteurs des objets de paille, d'os, de bois (Wikipedia, « Bagne of Toulon »). Hippolyte Combes avait fait ses classes d'artilleur à Toulon du 21 mars au 3 mai 1915 : il les appelle « Six Semaines (de bagne) à Toulon » dans ses \textit{Feuillets de Route} (en annexe).
+  Le 16, la 18\textsuperscript{th} Division revient sur l'Ancre (Nichols 1922, p.~139) : le 7/Bedf a cantonné le 14 dans la « Rubempré Area » (JMO~7/Bedf, janv. 1917) et le 10\textsuperscript{th} Essex fait étape à Hérissart (Banks et Chell 1924, p.~172). La paille cherchée à Rubempré leur est sans doute destinée. Senlis-le-Sec abrite alors le QG du IV~Corps, auquel le II~Corps succède le 21~janvier (LLT). La Sunbeam est celle du major Levy (voir f.~58~r\textsuperscript{o}). M. Renard n'est pas identifié. Au bagne de Toulon (1748--1873), les forçats vendaient aux visiteurs des objets de paille, d'os, de bois (Wikipedia, « Bagne of Toulon »). Hippolyte Combes avait fait ses classes d'artilleur à Toulon du 21~mars au 3~mai 1915 : il les appelle « Six Semaines (de bagne) à Toulon » dans ses \textit{Feuillets de Route} (en annexe).
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Édimbourg, Blackwood, 1922, p. 139.
 - Bedfordshire Archives, X550/8/1/1701, War Diary, 7th Bn Bedfordshire Regiment, janvier 1917.

@@ -30,34 +30,10 @@ transcription: |
   On m'a donné 1 des + belles chambres,
   au 1er etage – —
 apparat:
-- ligne: 1
-  lemme: Fevr. 17
-  type: abreviation
-  note: février 1917
-- ligne: 4
-  lemme: 8^{H} \fr{1}{2}
-  type: abreviation
-  note: 8 heures et demie
-- ligne: 4
-  lemme: chz
-  type: abreviation
-  note: chez (deux occurrences)
 - ligne: 4
   lemme: \inc{Auriol}
   type: lecture
   note: 'lecture incertaine ; autre lecture : Auriole'
-- ligne: 5
-  lemme: Margte
-  type: abreviation
-  note: Marguerite (Calmels)
-- ligne: 6
-  lemme: S^{te}-Marie
-  type: abreviation
-  note: Sainte-Marie(-des-Champs), quartier de Toulouse
-- ligne: 6
-  lemme: 11^{H} 40
-  type: abreviation
-  note: 11 heures 40
 - ligne: 7
   lemme: accompagnés
   type: lecture
@@ -70,10 +46,6 @@ apparat:
   lemme: 15 m.
   type: abreviation
   note: 15 minutes
-- ligne: 10
-  lemme: 4^{H} \fr{1}{2}
-  type: abreviation
-  note: 4 heures et demie
 - ligne: 11
   lemme: rapid^{t}
   type: abreviation
@@ -82,30 +54,14 @@ apparat:
   lemme: cath^{le}
   type: abreviation
   note: cathédrale (Saint-Nazaire de Béziers)
-- ligne: 13
-  lemme: 5^{H}23
-  type: abreviation
-  note: 5 heures 23
 - ligne: 14
   lemme: 2\inc{ème}
   type: lecture
-  note: 'deuxième (classe) ; autre lecture : 2e'
-- ligne: 16
-  lemme: 10^{H} 30
-  type: abreviation
-  note: 10 heures 30
-- ligne: 22
-  lemme: 1 des + belles
-  type: abreviation
-  note: une des plus belles
-- ligne: 23
-  lemme: 1er
-  type: abreviation
-  note: premier
+  note: 'lecture incertaine ; autre lecture : 2\textsuperscript{e} ; deuxième classe'
 critique: |
   Les comptes de la journée sont au f.~70~r\textsuperscript{o}.
 historique: |
-  L'« oncle » est sans doute Émile Crouzet (voir f.~27~v\textsuperscript{o}) ; Jean, sans doute son fils, l'abbé Jean Crouzet, vicaire à Saint-Étienne de Toulouse (voir f.~29~v\textsuperscript{o}). À Béziers, la cathédrale Saint-Nazaire domine l'Orb et la plaine (Baedeker 1914, p.~107). Le « petit train » de 17~h~23 suit la ligne des Causses par Bédarieux et Tournemire (Baedeker 1914, p.~282-287). À Millau, où Hippolyte Combes est né le 14 août 1876 (acte n\textsuperscript{o}~395), les attend « Pierre », sans doute Pierre Calmels (1884--1924), médecin, frère de Marguerite. La maison des parents de Marguerite, bâtie par son père, le D\textsuperscript{r} Gabriel Calmels (1852-1921), est au 10, rue Alfred-Guibert (PC-Annexe).
+  L'« oncle » est sans doute Émile Crouzet (voir f.~27~v\textsuperscript{o}) ; Jean, sans doute l'abbé Jean Crouzet, vraisemblablement son fils, vicaire à Saint-Étienne de Toulouse (voir f.~29~v\textsuperscript{o}). À Béziers, la cathédrale Saint-Nazaire domine l'Orb et la plaine (Baedeker 1914, p.~107). Le « petit train » de 17~h~23 suit la ligne des Causses par Bédarieux et Tournemire (Baedeker 1914, p.~282--287). À Millau, où Hippolyte Combes est né le 14~août 1876 (acte n\textsuperscript{o}~395), les attend « Pierre », sans doute Pierre Calmels (1884--1924), médecin, frère de Marguerite. La maison des parents de Marguerite, bâtie par son père, le D\textsuperscript{r} Gabriel Calmels (1852--1921), est au 10, rue Alfred-Guibert (PC-Annexe).
 sources:
 - Baedeker, K., Southern France including Corsica, 6e éd., Leipzig, Baedeker, 1914, p. 106-107 et 282-287.
 - Acte de naissance de Marie Lucien Hippolyte Combes, Millau, n° 395, 16 août 1876 (archives familiales).

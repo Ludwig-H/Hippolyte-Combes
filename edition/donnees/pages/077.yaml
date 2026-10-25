@@ -17,40 +17,20 @@ transcription: |
   \sl{17 mardi} \hfill \sl{oct 16}
 apparat:
 - ligne: 1
-  lemme: 1 champ
-  type: abreviation
-  note: un champ
-- ligne: 1
   lemme: \fr{1}{2} route
   type: abreviation
   note: mi-route, à mi-chemin
-- ligne: 3
-  lemme: ns.
-  type: abreviation
-  note: nous
-- ligne: 6
-  lemme: mess-tent
-  type: emprunt
-  note: tente du mess (salle à manger des officiers)
-- ligne: 7
-  lemme: Tte
-  type: abreviation
-  note: Toute
 - ligne: 7
   lemme: plu averse
   type: lecture
   note: pour « plu à verse »
 - ligne: 9
-  lemme: oct 16
-  type: abreviation
-  note: octobre 1916
-- ligne: 9
   lemme: '16'
   type: lecture
   note: 'autre lecture : /6 (pour /16)'
-critique: Page écrite en travers ; suite du récit du 17 octobre commencé f.~38~v\textsuperscript{o}.
+critique: Page écrite en travers ; suite du récit du 17~octobre commencé f.~38~v\textsuperscript{o}.
 historique: |
-  Senlis-le-Sec abrite depuis le 24 juillet 1916 le QG du II Corps (Jacob), dont relève alors la 18th Division (LLT, « II Corps »). Le bivouac est entre Bouzincourt, à 4~km au nord-ouest d'Albert, et Hédauville, 3,5~km plus au nord-ouest. Hédauville est sur la route Contay--Englebelmer--Aveluy, « pratiquement la seule » route proche du front utilisable de jour comme de nuit (OH 1916-I, p.~271). Le QG de la division y était du 25 septembre au 6 octobre, pendant l'attaque de Thiepval (Nichols 1922, p.~79). Le 17 au soir, la pluie reprend (OH 1916-II, p.~444), quelques heures avant l'attaque de la Fourth Army sur les crêtes du Transloy, le 18 à 3~h~40.
+  Senlis-le-Sec abrite depuis le 24~juillet 1916 le QG du II~Corps (Jacob), dont relève alors la 18\textsuperscript{th} Division (LLT, « II Corps »). Le bivouac est entre Bouzincourt, à 4~km au nord-ouest d'Albert, et Hédauville, 3,5~km plus au nord-ouest. Hédauville est sur la route Contay--Englebelmer--Aveluy, « pratiquement la seule » route proche du front utilisable de jour comme de nuit (OH~\mbox{1916-I}, p.~271). Le QG de la division y était du 25~septembre au 6~octobre, pendant l'attaque de Thiepval (Nichols 1922, p.~79). Le 17 au soir, la pluie reprend (OH~\mbox{1916-II}, p.~444), quelques heures avant l'attaque de la Fourth Army sur les crêtes du Transloy, le 18 à 3~h~40.
 sources:
 - The Long, Long Trail, « The British II Corps in France and Flanders » (archive Wayback, nov. 2024).
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 271.

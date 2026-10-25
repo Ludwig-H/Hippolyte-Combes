@@ -16,39 +16,27 @@ transcription: |
   installation ds mon nouveau local.
   \ind[2] apres-midi, liberté entiere.
   achevé de m'installer maison. Fait
-  connaissance avec propre, très sympathiq^{ue}
+  connaissance \inc{av} propre, très sympathiq^{ue}
   \ind A 6H soir, l'interprete de la V^{th}
   Army troops, \inc{venu} me chercher : cap
   Huguet, du \add{\ill} corps, désire me voir.
   Venu aussitot bureau mission du corps
-  \inc{Tt a fait} bien reçu — qq froid
+  \inc{Tt a fait bien} reçu — qq froid
   . – demande de renseignements divers
   \ind Des 8^{h} \fr{1}{2}, ds ma chambre \trait
 apparat:
-- ligne: 1
-  lemme: Nov^{b} /16
-  type: abreviation
-  note: novembre 1916
-- ligne: 4
-  lemme: billet
-  type: emprunt
-  note: logement chez l'habitant (cantonnement)
 - ligne: 5
   lemme: Town-Major
   type: emprunt
   note: major de la place, chargé des cantonnements
-- ligne: 5
-  lemme: l'1
-  type: abreviation
-  note: l'un
-- ligne: 5
-  lemme: clerks
-  type: emprunt
-  note: commis, employés de bureau
 - ligne: 8
   lemme: Avant
   type: ajout
   note: « vant » ajouté dans l'interligne, sous le A
+- ligne: 12
+  lemme: \inc{av}
+  type: lecture
+  note: 'lecture incertaine ; autre lecture : au'
 - ligne: 12
   lemme: propre
   type: abreviation
@@ -58,13 +46,9 @@ apparat:
   type: abreviation
   note: sympathique
 - ligne: 13
-  lemme: 6H
-  type: abreviation
-  note: six heures
-- ligne: 13
   lemme: V^{th}
   type: abreviation
-  note: 'Fifth : Ve (armée britannique)'
+  note: 'Fifth : V\textsuperscript{e} (armée britannique)'
 - ligne: 14
   lemme: Army troops
   type: emprunt
@@ -72,21 +56,17 @@ apparat:
 - ligne: 14
   lemme: \inc{venu}
   type: lecture
-  note: 'lecture incertaine : mot sous un trait épais (biffure ou pâté), lu d''après le sens'
+  note: lecture incertaine, d'après le sens ; mot peut-être biffé
 - ligne: 15
   lemme: \add{\ill}
   type: lecture
   note: ajout illisible (« aà » ?)
 - ligne: 17
-  lemme: \inc{Tt a fait}
+  lemme: \inc{Tt a fait bien}
   type: lecture
-  note: lecture incertaine ; tout à fait
-- ligne: 19
-  lemme: 8^{h} \fr{1}{2}
-  type: abreviation
-  note: huit heures et demie
+  note: lecture incertaine ; tout à fait bien
 historique: |
-  Le billet n°~59 (voir f.~45~v\textsuperscript{o}) est repris par le \textit{Town Major} (Fernand-Laurent 1917, p.~227). Le logeur du n°~1 est sans doute le tailleur Carluvant [?] nommé le 22 novembre (f.~51~r\textsuperscript{o}), son hôte jusqu'au 7 février 1917. La « V\textsuperscript{th} Army » est l'armée de Gough, nommée \textit{Fifth Army} depuis le 30 octobre (OH 1916-II, p.~461, n.~1). Acheux est le QG du V Corps jusqu'au 29 novembre (LLT), et le « bureau mission du corps » est sans doute celui de ce corps. Le capitaine Huguet, revu en janvier (f.~61~v\textsuperscript{o}), n'est pas identifié. Ce bureau, passé au XIII Corps, prendra l'interprète en charge le 1\textsuperscript{er} décembre (f.~52~v\textsuperscript{o}).
+  Le billet n\textsuperscript{o}~59, sans doute le logement provisoire trouvé à l'arrivée à Acheux le 2~novembre (voir f.~45~v\textsuperscript{o}), est repris par le \textit{Town Major} (Fernand-Laurent 1917, p.~227). Le logeur du n\textsuperscript{o}~1 est sans doute le tailleur Carluvant [?] nommé le 22~novembre (f.~51~r\textsuperscript{o}), son hôte jusqu'au 7~février 1917. La « V\textsuperscript{th} Army » est l'armée de Gough, nommée \textit{Fifth Army} depuis le 30~octobre (OH~\mbox{1916-II}, p.~461, n.~1). Acheux est le QG du V Corps jusqu'au 29~novembre (LLT), et le « bureau mission du corps » est sans doute celui de ce corps. Le capitaine Huguet, revu en janvier (f.~61~v\textsuperscript{o}), n'est pas identifié. Ce bureau, passé au XIII~Corps, prendra l'interprète en charge le 1\textsuperscript{er}~décembre (f.~52~v\textsuperscript{o}).
 sources:
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 227.
 - Baker, C., The Long, Long Trail, « The British V Corps in France and Flanders » et « The British Fifth or Reserve Army 1916-1918 » (longlongtrail.co.uk, copies Wayback 2020 et 2024).

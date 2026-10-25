@@ -1,8 +1,8 @@
 cliche: 117
 fichier: 20251126_105411.jpg
-date: Samedi 30 et dimanche 31 décembre 1916
+date: Samedi 30 – dimanche 31 décembre 1916
 mois: Décembre 1916
-lieux: Acheux-en-Amiénois, Franvillers, Senlis-le-Sec, Raincheval et Beauquesne (Somme)
+lieux: Acheux-en-Amiénois, Franvillers, Senlis-le-Sec, Belle-Église (Arquèves), Raincheval et Beauquesne (Somme)
 titre: Réfugiés de Martinsart à Franvillers ; mot regrettable puis excuses de Williams
 transcription: |
   30 \sl{Sam.} \hfill \sl{Dec^{bre} /16}
@@ -31,10 +31,6 @@ transcription: |
   \crochet{2}— Dépenses mess : 45^{f} + 10^{f} + 1^{f} + 22 fr —
   \droite = 88 fr. —
 apparat:
-- ligne: 1
-  lemme: Dec^{bre} /16
-  type: abreviation
-  note: décembre 1916 (finale -bre réduite à une ondulation)
 - ligne: 4
   lemme: Sunbeam
   type: emprunt
@@ -43,18 +39,10 @@ apparat:
   lemme: extrêm^{t}
   type: abreviation
   note: extrêmement
-- ligne: 10
-  lemme: etc
-  type: abreviation
-  note: et cætera (sans point abréviatif)
 - ligne: 11
   lemme: entiert
   type: abreviation
   note: entièrement
-- ligne: 12
-  lemme: 1^{f} 60
-  type: abreviation
-  note: 1 franc 60
 - ligne: 13
   lemme: Tempér^{re}
   type: abreviation
@@ -72,17 +60,9 @@ apparat:
   type: lecture
   note: 'lecture probable ; autre lecture : « peu »'
 - ligne: 22
-  lemme: Y.M.C.A
-  type: abreviation
-  note: Young Men's Christian Association (foyer du soldat)
-- ligne: 22
   lemme: \fr{1}{2}
   type: abreviation
   note: demi-
-- ligne: 23
-  lemme: 45^{f}
-  type: abreviation
-  note: 45 francs (de même 10^{f}, 1^{f})
 - ligne: 23
   lemme: 22 fr
   type: ajout
@@ -90,9 +70,9 @@ apparat:
 - ligne: 24
   lemme: = 88 fr. —
   type: compte
-  note: 'total faux : 45 + 10 + 1 + 22 = 78 fr'
+  note: 'total faux : 45~+~10~+~1~+~22~=~78~fr'
 historique: |
-  Pour Franvillers, à 12~km au sud d'Acheux, voir f.~52~v\textsuperscript{o}. Le « trio de vieux », non identifié, vient de Martinsart, resté « proche de la ligne de front jusqu'en septembre 1916 » (CWGC ; voir f.~52~r\textsuperscript{o}). Senlis-le-Sec abrite alors le QG du IV Corps (LLT). Le « mot très regrettable » de Williams, capitaine de vingt ans (f.~53~v\textsuperscript{o}), vient six jours après le « Bloody France » de Louvencourt (voir f.~56~v\textsuperscript{o}, 57~r\textsuperscript{o}). Sa prière « de ne pas le quitter » suggère que l'interprète a parlé de partir. Pour Belle-Église, voir f.~53~r\textsuperscript{o}. Le mess coûte 78~F, non 88 ; c'est près de la moitié des 162,75~F touchés en décembre (calcul de l'éditeur).
+  Pour Franvillers, à 12~km au sud d'Acheux, voir f.~52~v\textsuperscript{o}. Le « trio de vieux », non identifié, vient de Martinsart, resté « proche de la ligne de front jusqu'en septembre 1916 » (CWGC ; voir f.~52~r\textsuperscript{o}). Senlis-le-Sec abrite alors le QG du IV~Corps (LLT). Le « mot très regrettable » de Williams, capitaine de vingt ans (f.~53~v\textsuperscript{o}), vient six jours après le « Bloody France » de Louvencourt (voir ff.~56~v\textsuperscript{o}, 57~r\textsuperscript{o}). Sa prière « de ne pas le quitter » suggère que l'interprète a parlé de partir. Pour Belle-Église, voir f.~53~r\textsuperscript{o}. Le mess coûte 78~F, non 88 ; c'est près de la moitié des 162,75~F touchés en décembre (calcul de l'éditeur).
 sources:
 - Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).
 - Baker, C., The Long, Long Trail, « The British IV Corps in France and Flanders » (longlongtrail.co.uk, copie Wayback de déc. 2021).

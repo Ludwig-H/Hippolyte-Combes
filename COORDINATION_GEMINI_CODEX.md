@@ -57,3 +57,16 @@ La publication se fait sur `main` par avance rapide, sans réécriture d'histori
 Les *Feuillets de Route* (annexe, document 6) ont été relus lettre à lettre par deux lecteurs indépendants, arbitrés sur l'image et contre-vérifiés : nouvelle transcription et présentation (chapitre IV « A la base anglaise du Havre », non « de Rouen » ; date probable hiver 1916–1917) ; les passages de l'édition qui citaient les anciennes lectures ont été alignés.
 
 Rapport : `edition/verification/2026-10-25/`. Publication sur `main` par avance rapide, sans réécriture d'historique.
+
+## Retouches et relecture finale — 25 octobre 2026, après-midi (Claude)
+
+Demandes de Louis après relecture de l'introduction : double pagination et pagination romaine (minuscules : liminaires et introduction ; majuscules : annexes), citations des introductions régularisées, description matérielle affirmative sans mention des prises de vue, exposants ; ajout du document transmis par Pierre Combes le 25 octobre (« Revue ») ; fac-similés beaux et homogènes ; relecture intégrale ; machine utilisée à fond.
+
+- Pagination : `textes/liminaires.tex` (romains), `textes/titre_journal.tex` (page de titre du carnet, arabes), `textes/annexes.tex` (romains majuscules), `\LJpageimpaire` pour chaque division ; `verifier.py` contrôle les vis-à-vis par le rang physique (étiquettes PDF).
+- Document 7 (notes du 25 octobre 1915, folios 39–43) : `annexe_lettres.tex`, images `illustrations/lettres/doc7_revue_f39…43.jpg`, source `archives_militaires/lettres_de_guerre/IMG_20261025_0001.pdf`. Nichols 1922 imprime « Ribecourt » : l'édition le dit en note (route de Bresle, au nord de Ribemont-sur-Ancre).
+- Fac-similés : `src/preparer_facsimiles.py` redresse, rogne les bandes de table, égalise l'éclairage et le ton du papier (marque JPEG v2) ; pièces annexes recadrées (script hors dépôt) ; illustrations d'époque : recadrages et sépia léger commun, sans retouche du contenu.
+- Générateur : traits de fin de ligne (`\LJtrait`) désormais imprimés (176 lignes), traits médians à longueur fixe, interligne normal dans l'apparat, lemmes insécables, entrées d'apparat ordonnées et fusionnées par lemme, notes d'abréviation en italique pour le seul développement.
+- Relecture intégrale (pages, textes, index) en lots contre-vérifiés, puis revue visuelle de toutes les doubles pages et vérification des corrections. À ne pas défaire : le verso du f. 6 a été photographié et il est blanc ; « pp. » → « p. » ; intervalles en demi-cadratin ; franc écrit « F » dans le texte de l'éditeur.
+- `construire.sh` parallélisé (cartes une par processus).
+
+Rapport : `edition/verification/2026-10-25/README.md`. Publication sur `main` par avance rapide.

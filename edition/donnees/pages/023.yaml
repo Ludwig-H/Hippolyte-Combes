@@ -1,6 +1,6 @@
 cliche: 23
 fichier: 20251126_093922.jpg
-date: Dimanche 20 et lundi 21 août 1916
+date: Dimanche 20 – lundi 21 août 1916
 mois: Août 1916
 lieux: La Croix-du-Bac (Steenwerck, Nord)
 titre: Fourrage vert avec Curtis ; café chez M. Barbry ; sac expédié à Nogent
@@ -31,22 +31,14 @@ transcription: |
   \crochet{2}— A Proprie : 5^{f} (cooking, washing & 2 eggs)
   A mon groom : 2 — \hfill Varia : 10c —
 apparat:
-- ligne: 1
-  lemme: D
-  type: abreviation
-  note: dimanche
 - ligne: 2
   lemme: sunshine
   type: emprunt
   note: soleil, éclaircies
 - ligne: 4
-  lemme: C^{tis}
-  type: abreviation
-  note: Curtis (lieutenant britannique)
-- ligne: 4
   lemme: to the fields for
   type: emprunt
-  note: 'avec green forage (l. 5) : aux champs, chercher du fourrage vert'
+  note: 'avec green forage (l.~5) : aux champs, chercher du fourrage vert'
 - ligne: 6
   lemme: propre
   type: abreviation
@@ -67,10 +59,6 @@ apparat:
   lemme: \inc{horizons}
   type: lecture
   note: 'lecture incertaine ; autre lecture : horizon'
-- ligne: 15
-  lemme: L.
-  type: abreviation
-  note: lundi
 - ligne: 15
   lemme: very belle
   type: emprunt
@@ -96,27 +84,15 @@ apparat:
   type: abreviation
   note: propriétaire
 - ligne: 23
-  lemme: cooking, washing
-  type: emprunt
-  note: cuisine, blanchissage
-- ligne: 23
   lemme: 2 eggs
   type: emprunt
   note: deux œufs
 - ligne: 24
-  lemme: groom
-  type: emprunt
-  note: palefrenier, ordonnance
-- ligne: 24
   lemme: 2 —
   type: compte
-  note: 2 francs
-- ligne: 24
-  lemme: Varia
-  type: emprunt
-  note: divers (latin)
+  note: 2~francs
 historique: |
-  Sur le lieutenant Curtis, voir f. 11 r\textsuperscript{o}. M. Barbry, payé le 21 pour cuisine, blanchissage et œufs, est son logeur ; un lien avec la blanchisserie Barbry (f. 11 v\textsuperscript{o}) est possible. Les adjudants sont des interprètes de la Mission. Schumacher, encore « sergent » dans la lettre du 25 février 1916 (en annexe, p.~\pageref{annexe:doc1}), est sans doute le « Schuhmacher, the interpreter at Brigade H.Q. » de la 53rd Brigade (Banks \& Chell 1924, p. 310). Lupin (ou Lépin, voir f. 43 r\textsuperscript{o}) n'est pas identifié. Le départ a lieu le 25 août, en train de Bailleul vers Saint-Pol (JMO 7/Bedf, 23-25 août 1916). Nogent est Nogent-le-Rotrou (Eure-et-Loir), où il enseignait au collège (carte-lettre du 25 nov. 1918 ; envoi détaillé au f. 12 v\textsuperscript{o}).
+  Sur le lieutenant Curtis, voir f.~11~r\textsuperscript{o}. M. Barbry, payé le 21 pour cuisine, blanchissage et œufs, est son logeur ; un lien avec la blanchisserie Barbry (f.~11~v\textsuperscript{o}) est possible. Les adjudants sont des interprètes de la Mission. Schumacher, encore « sergent » dans la lettre du 25~février 1916 (en annexe, p.~\pageref{annexe:doc1}), est sans doute le « Schuhmacher, the interpreter at Brigade H.Q. » de la 53\textsuperscript{rd} Brigade (Banks \& Chell 1924, p.~310). Lupin, sans doute le « Lepin » du f.~43~r\textsuperscript{o}, n'est pas identifié. Le départ a lieu le 25~août, en train de Bailleul vers Saint-Pol (JMO~7/Bedf, 23--25~août 1916). Nogent est Nogent-le-Rotrou (Eure-et-Loir), où il enseignait au collège (carte-lettre du 25~nov. 1918 ; envoi détaillé au f.~12~v\textsuperscript{o}).
 sources:
 - Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., Londres, Gay & Hancock, 1924, p. 310.
 - 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (ordre d''opérations n° 26 du 23 août ; 24-25 août).'

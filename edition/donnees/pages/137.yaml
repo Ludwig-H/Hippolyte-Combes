@@ -20,51 +20,35 @@ transcription: |
   vers 9^{H} \fr{1}{2}, à pied j-à rue de Languedoc —
   \ind Ville silencieuse. Maisons fermées. Je me
   sens complet^{t} détaché de Toulouse. Partirai sans
-  regret, et pour n'y retourner jamais plus .
+  regret, et pour n'y retourner jamais plus.
   \blanc{4}
-  \equerre{4}Trams : 30c. , 10c. , 20c , 30c.
+  \equerre{4}Trams : 30c., 10c., 20c, 30c.
   Food (\inc{boulangeon}) : 25c
   Remboursé à mes voisines : 3^{f} \inc{75}
   (12 œufs, \fr{1}{2} beurre, 1 \inc{boulangeon})
 apparat:
-- ligne: 6
-  lemme: Mte
-  type: abreviation
-  note: Marguerite (Calmels)
 - ligne: 8
   lemme: et.
   type: lecture
   note: lecture sûre ; sens obscur
 - ligne: 9
-  lemme: tte
+  lemme: \inc{tte}
   type: lecture
-  note: 'toute ; lecture incertaine ; autre lecture : ts'
+  note: 'lecture incertaine ; autre lecture : ts'
 - ligne: 10
   lemme: ch
   type: abreviation
   note: chez
-- ligne: 13
-  lemme: 9^{H} \fr{1}{2}
-  type: abreviation
-  note: neuf heures et demie
 - ligne: 15
   lemme: complet^{t}
   type: abreviation
   note: complètement
-- ligne: 17
-  lemme: 30c.
-  type: abreviation
-  note: centimes (de même aux montants suivants)
 - ligne: 18
-  lemme: boulangeon
+  lemme: \inc{boulangeon}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : bourlangeon (de même l. 20)'
+  note: 'lecture incertaine ; autre lecture : bourlangeon (de même l.~20)'
 - ligne: 19
-  lemme: 3^{f}
-  type: abreviation
-  note: francs
-- ligne: 19
-  lemme: '75'
+  lemme: \inc{75}
   type: lecture
   note: 'lecture incertaine ; autre lecture : 25'
 - ligne: 20
@@ -72,7 +56,7 @@ apparat:
   type: lecture
   note: sans doute demi-livre de beurre
 historique: |
-  Sur Mme de Labarthe, voir f.~28~v\textsuperscript{o} ; les dames Delsol et Henriette ne sont pas identifiées. La chapelle de Nazareth accueillait des messes anniversaires (\textit{Le Télégramme}, 10 mars 1916, p.~4). Pfister, horloger-bijoutier au 24, place des Carmes, avait vendu le sautoir (f.~28~v\textsuperscript{o}) ; la montre est payée le 2 (f.~69~r\textsuperscript{o}). La conférence était celle de l'abbé Thellier de Poncheville à la chapelle de l'archevêché, avant une mission en Amérique du Nord (\textit{L'Express du Midi}, 31 janv. et 1\textsuperscript{er} févr. 1917, p.~3). Combes reviendra pourtant : nommé au lycée de Toulouse vers 1937, il s'y fixera, 38, rue du Taur (Pouvillon 1938 ; PC-Livre).
+  Sur M\textsuperscript{me} de Labarthe, voir f.~28~v\textsuperscript{o} ; les dames Delsol et Henriette ne sont pas identifiées. La chapelle de Nazareth accueillait des messes anniversaires (\textit{Le Télégramme}, 10~mars 1916, p.~4). Pfister, horloger-bijoutier au 24, place des Carmes, avait vendu le sautoir (f.~28~v\textsuperscript{o}) ; la montre est payée le 2 (f.~69~r\textsuperscript{o}). La conférence était celle de l'abbé Thellier de Poncheville à la chapelle de l'archevêché, avant une mission en Amérique du Nord (\textit{L'Express du Midi}, 31~janv. et 1\textsuperscript{er}~févr. 1917, p.~3). Combes reviendra pourtant : nommé au lycée de Toulouse vers 1937, il s'y fixera, 38, rue du Taur (Pouvillon 1938 ; PC-Livre).
 sources:
 - Le Télégramme (Toulouse), 10 mars 1916, p. 4 (Rosalis, ark:/12148/bd6t53866190s).
 - L'Express du Midi (Toulouse), 25 déc. 1911, p. 3 (publicité Pfister) ; 31 janv. 1917, p. 3, et 1er févr. 1917, p. 3 (Rosalis, ark:/12148/bpt6k5383179k, bpt6k5385026q, bpt6k53850274).

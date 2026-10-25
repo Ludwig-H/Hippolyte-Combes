@@ -1,8 +1,8 @@
 cliche: 101
 fichier: 20251126_104849.jpg
-date: Lundi 20 et mardi 21 novembre 1916
+date: Lundi 20 – mardi 21 novembre 1916
 mois: Novembre 1916
-lieux: Acheux-en-Amiénois, Bouzincourt, Contay ? et Englebelmer (Somme)
+lieux: Acheux-en-Amiénois, Bouzincourt, Contay ?, Englebelmer et Léalvillers ? (Somme)
 titre: Boue et convois à Acheux ; nuit noire à Englebelmer ; remarque de Curtis
 transcription: |
   \sl{20 Lundi –} \hfill \sl{Nov – /16}
@@ -32,10 +32,6 @@ transcription: |
   +tot desobligeante de Curtis : fâché
   contre lui –
 apparat:
-- ligne: 1
-  lemme: Nov – /16
-  type: abreviation
-  note: novembre 1916
 - ligne: 2
   lemme: Auj-dhui
   type: abreviation
@@ -56,10 +52,6 @@ apparat:
   lemme: lattendre
   type: graphie
   note: l'attendre, sans apostrophe
-- ligne: 16
-  lemme: merv.^{t}
-  type: abreviation
-  note: merveilleusement
 - ligne: 17
   lemme: \inc{2 f}
   type: lecture
@@ -77,7 +69,7 @@ apparat:
   type: abreviation
   note: plutôt
 historique: |
-  Les prisonniers viennent de la bataille de l'Ancre (13--18 novembre ; voir f.~49~r\textsuperscript{o}). Les troupes reviennent après les relèves : la 37th Division remplace la 63rd dès le 14 au soir, la 32nd la 51st le 17 (OH 1916-II, p.~507, 513). Bouzincourt, à 7,5~km au sud-est d'Acheux, et Englebelmer, à 5,5~km à l'est, sont des postes d'ambulances (CWGC). Englebelmer est sur la route Contay--Hédauville--Martinsart, presque la seule utilisable de jour comme de nuit près du front (OH 1916-I, p.~271) ; il sera bientôt presque vide d'habitants (voir f.~54~r\textsuperscript{o}). Contay, gare de munitions et siège de deux hôpitaux d'évacuation (OH 1916-I, p.~273--274 ; CWGC), imposerait un détour de 8~km au sud-ouest : la lecture reste douteuse. Le lieutenant Curtis sera remplacé le 2 décembre par le capitaine Williams (voir f.~52~v\textsuperscript{o}).
+  Les prisonniers viennent de la bataille de l'Ancre (13--18~novembre ; voir f.~49~r\textsuperscript{o}). Les troupes reviennent après les relèves : la 37\textsuperscript{th} Division remplace la 63\textsuperscript{rd} dès le 14 au soir, la 32\textsuperscript{nd} la 51\textsuperscript{st} le 17 (OH~\mbox{1916-II}, p.~507, 513). Bouzincourt, à 7,5~km au sud-est d'Acheux, et Englebelmer, à 5,5~km à l'est, sont des postes d'ambulances (CWGC). Englebelmer est sur la route Contay--Hédauville--Martinsart, presque la seule utilisable de jour comme de nuit près du front (OH~\mbox{1916-I}, p.~271) ; il sera bientôt presque vide d'habitants (voir f.~54~r\textsuperscript{o}). Contay, gare de munitions et siège de deux hôpitaux d'évacuation (OH~\mbox{1916-I}, p.~273--274 ; CWGC), imposerait un détour de 8~km au sud-ouest : la lecture reste douteuse. Le lieutenant Curtis sera remplacé le 2~décembre par le capitaine Williams (voir f.~52~v\textsuperscript{o}).
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 507, 513.
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 271, 273-274.

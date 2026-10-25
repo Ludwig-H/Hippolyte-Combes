@@ -3,7 +3,7 @@ fichier: 20251126_110737.jpg
 date: Samedi 10 février 1917 (suite) – dimanche 11 février 1917
 mois: Février 1917
 lieux: Hérissart, Aveluy, Senlis-le-Sec et Acheux-en-Amiénois (Somme)
-titre: 152nd Company route d'Aveluy ; Mission du II Corps à Senlis ; dimanche 11, gel
+titre: 152\textsuperscript{nd} Company route d'Aveluy ; Mission du II~Corps à Senlis ; dimanche 11, gel
 transcription: |
   \sl{Sam. 10} (suite) \hfill \sl{Février 1917}
   Continué en auto route d'Aveluy, mon ancienne
@@ -31,11 +31,11 @@ apparat:
 - ligne: 3
   lemme: Cy
   type: abreviation
-  note: 'Company : compagnie (la 152nd Company A.S.C.)'
+  note: 'Company : compagnie (la 152\textsuperscript{nd} Company A.S.C.)'
 - ligne: 4
   lemme: Lunché
   type: emprunt
-  note: déjeuné (verbe formé sur l'anglais lunch)
+  note: déjeuné (verbe formé sur l'anglais \textit{lunch})
 - ligne: 5
   lemme: cantonnem^{t}
   type: abreviation
@@ -53,10 +53,6 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : Louvet'
 - ligne: 12
-  lemme: 3^{H} \fr{1}{2}
-  type: abreviation
-  note: trois heures et demie
-- ligne: 12
   lemme: miss. fr.
   type: abreviation
   note: Mission française
@@ -68,13 +64,9 @@ apparat:
   lemme: extr^{t}
   type: abreviation
   note: extrêmement
-- ligne: 19
-  lemme: le \fr{1}{2} du jour
-  type: abreviation
-  note: le milieu du jour
-critique: La journée du dimanche 11, commencée ici, est reprise sous la même date au f.~76 r\textsuperscript{o}.
+critique: La journée du dimanche 11, commencée ici, est reprise sous la même date au f.~76~r\textsuperscript{o}.
 historique: |
-  « Mon ancienne Cy », la 152nd Company, quittée le 2 novembre, campe sur la route d'Aveluy, à l'arrière du secteur que la 18th Division tient au sud de l'Ancre depuis le 16 janvier (Nichols 1922, p.~139 ; OH 1917-I, p.~69). Le 17 février, la division attaquera à Boom Ravine (OH 1917-I, p.~75--82). Le lieutenant Bradfield est peut-être Godfrey Edward Bradfield, de l'A.S.C. (TNA, WO 339/44046) ; le capitaine « Lovet » n'est pas identifié. Senlis-le-Sec abrite depuis le 21 janvier 1917 le QG du II Corps, dont relève la division, et sa Mission française (LLT) ; le capitaine de Casteljau n'est pas identifié.
+  « Mon ancienne Cy », la 152\textsuperscript{nd} Company, quittée le 2~novembre, campe sur la route d'Aveluy, à l'arrière du secteur que la 18\textsuperscript{th} Division tient au sud de l'Ancre depuis le 16~janvier (Nichols 1922, p.~139 ; OH~\mbox{1917-I}, p.~69). Le 17~février, la division attaquera à Boom Ravine (OH~\mbox{1917-I}, p.~75--82). Le lieutenant Bradfield est peut-être Godfrey Edward Bradfield, de l'A.S.C. (TNA, WO 339/44046) ; le capitaine « Lovet » n'est pas identifié. Senlis-le-Sec abrite depuis le 21~janvier 1917 le QG du II~Corps, dont relève la division, et sa Mission française (LLT) ; le capitaine de Casteljau n'est pas identifié.
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Édimbourg et Londres, W. Blackwood & Sons, 1922, p. 139.
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 69, 75-82.

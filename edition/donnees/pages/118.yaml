@@ -2,7 +2,7 @@ cliche: 118
 fichier: 20251126_105428.jpg
 date: Lundi 1er et mardi 2 janvier 1917
 mois: Janvier 1917
-lieux: Acheux-en-Amiénois, Toutencourt et Authie (Somme) ; Saulty (Pas-de-Calais)
+lieux: Acheux-en-Amiénois, Toutencourt, Authie, Louvencourt, Belle-Église (Arquèves) et Raincheval (Somme) ; Pas-en-Artois et Saulty (Pas-de-Calais)
 titre: 'Jour de l''An 1917 : course à Saulty ; le logeur Carluvant doit partir'
 transcription: |
   1^{er} \sl{Lundi} \hfill — \sl{1917} — \hfill \sl{Janvier} –
@@ -12,7 +12,7 @@ transcription: |
   Après-midi, venus à Saulty, par Authie,
   & Pas. gd Route d'Arras. Ondée très fine &
   intermittente –
-  M. Carluvant, m'a annoncé qu'il devra quitter
+  M. \inc{Carluvant}, m'a annoncé qu'il devra quitter
   maison ds qq jours : \del{\ill} proprie tient à s'y
   installer. Regrette de partir d'ici. Chambre chaude –
   \blanc{1.5}
@@ -37,9 +37,9 @@ apparat:
   type: abreviation
   note: Pas-en-Artois (Pas-de-Calais)
 - ligne: 8
-  lemme: Carluvant
+  lemme: \inc{Carluvant}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : Carlyvant'
+  note: 'lecture incertaine ; autres lectures : Carlyvant, Carlumont'
 - ligne: 9
   lemme: \del{\ill}
   type: lecture
@@ -47,23 +47,15 @@ apparat:
 - ligne: 9
   lemme: proprie
   type: abreviation
-  note: propriétaire (non proprire)
+  note: propriétaire
 - ligne: 18
   lemme: Farm
   type: emprunt
   note: 'ferme (Belle-Eglise Farm : ferme de Belle-Église)'
 - ligne: 20
-  lemme: 6^{h} s.
-  type: abreviation
-  note: six heures du soir
-- ligne: 20
   lemme: par
   type: ajout
   note: ajouté après coup entre « fatigué » et « Plusieurs »
-- ligne: 22
-  lemme: canteen
-  type: emprunt
-  note: cantine (militaire britannique)
 - ligne: 23
   lemme: Calvert Tooth Powder
   type: emprunt
@@ -71,13 +63,13 @@ apparat:
 - ligne: 23
   lemme: 60 \inc{c}
   type: lecture
-  note: '60 centimes ; autre lecture : 60 (le c serait la tête du f de la l. 24)'
+  note: '60~centimes ; autre lecture : 60 (le c serait la tête du f de la l.~24)'
 - ligne: 24
   lemme: new boots, nails on
   type: emprunt
   note: bottes neuves, cloutage
 historique: |
-  Le temps s'améliore au début de janvier ; le gel ne s'installe que le 14 (OH 1917-I, p.~66). Saulty est sur la route de Doullens à Arras, à l'arrière de la Third Army (Miles 1938, p.~543, n.~3). Le logeur Carluvant [?] (f.~47~r\textsuperscript{o}, 51~r\textsuperscript{o}) n'est sans doute que locataire : Hippolyte Combes loge encore chez lui le 7 février (f.~73~r\textsuperscript{o}). La ferme Cuisinier de Louvencourt est celle de la « gaffe » de Williams (f.~56~v\textsuperscript{o}) ; l'expertise prépare peut-être une indemnité. Pour Belle-Église et le Quesnoy, voir f.~53~r\textsuperscript{o}, 58~r\textsuperscript{o}. La poudre Calvert, de Manchester, avait vers 1906 « the largest sale of any dentifrice in the world » (Grace's Guide).
+  Le temps s'améliore au début de janvier ; le gel ne s'installe que le 14 (OH~\mbox{1917-I}, p.~66). Saulty est sur la route de Doullens à Arras, à l'arrière de la Third Army (Miles 1938, p.~543, n.~3). Le logeur Carluvant [?] (ff.~47~r\textsuperscript{o}, 51~r\textsuperscript{o}) n'est sans doute que locataire : Hippolyte Combes loge encore chez lui le 7~février (f.~73~r\textsuperscript{o}). La ferme Cuisinier de Louvencourt est celle de la « gaffe » de Williams (f.~56~v\textsuperscript{o}) ; l'expertise prépare peut-être une indemnité. Pour Belle-Église et le Quesnoy, voir ff.~53~r\textsuperscript{o}, 55~v\textsuperscript{o}. La poudre Calvert, de Manchester, avait vers 1906 « the largest sale of any dentifrice in the world » (Grace's Guide).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 543, n. 3.

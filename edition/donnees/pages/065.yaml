@@ -3,7 +3,7 @@ fichier: 20251126_103743.jpg
 date: Jeudi 5 octobre 1916 (suite)
 mois: Octobre 1916
 lieux: Paris ; Amiens et Doullens (Somme)
-titre: Train de Paris à 1 h 15 ; Amiens à 6 h, Doullens vers minuit ; nuit en gare
+titre: Train de Paris à 1~h 15 ; Amiens à 6~h, Doullens vers minuit ; nuit en gare
 transcription: |
   Parti train 1^{H}15 s \inc{(} (espéré \add{il y \inc{en}} à 10^{H}\inc{45}
   \droite matin )
@@ -22,7 +22,7 @@ apparat:
 - ligne: 1
   lemme: 1^{H}15 s
   type: abreviation
-  note: 1 heure 15 (du) soir, soit 13 h 15
+  note: 1~heure 15 (du) soir, soit 13~h 15
 - ligne: 1
   lemme: \inc{(}
   type: lecture
@@ -33,26 +33,14 @@ apparat:
   note: 'lecture incertaine ; autre lecture : eût'
 - ligne: 1
   lemme: 10^{H}\inc{45}
-  type: abreviation
-  note: 10 heures 45
-- ligne: 1
-  lemme: 10^{H}\inc{45}
   type: lecture
   note: 'lecture incertaine ; autre lecture : 10^{H}5'
-- ligne: 3
-  lemme: 6^{H} s
-  type: abreviation
-  note: 6 heures (du) soir
-- ligne: 4
-  lemme: 6^{H}30 s
-  type: abreviation
-  note: 6 heures 30 (du) soir
 - ligne: 8
   lemme: 10, c
   type: lecture
   note: 'virgule ou c ? lire : 10 c'
 historique: |
-  Le train part de la gare du Nord, où Hippolyte Combes a laissé ses paquets le matin (voir f.~32 v\textsuperscript{o}) : c'est la « Consigne : 10c » des comptes. Le ticket de métro à 15 c est celui de 2\textsuperscript{e} classe (Baedeker 1913, p.~30). À l'aller, il avait pris à Amiens un train de permissionnaires, après être venu d'Acheux-Varennes par le petit train départemental (voir f.~25 v\textsuperscript{o}). Au retour, ignorant que sa division a quitté l'Ancre, il remonte vers Doullens. La ville est alors un grand centre sanitaire : hôpital militaire français dans la citadelle, \textit{Casualty Clearing Stations} britanniques depuis mars 1916 (CWGC, Doullens Communal Cemetery Extension No. 1).
+  Le train part de la gare du Nord, où Hippolyte Combes a laissé ses paquets le matin (voir f.~32~v\textsuperscript{o}) : c'est la « Consigne : 10c » des comptes. Le ticket de métro à 15 c est celui de 2\textsuperscript{e} classe (Baedeker 1913, p.~30). À l'aller, il avait pris à Amiens un train de permissionnaires, après être venu d'Acheux-Varennes par le petit train départemental (voir f.~25~v\textsuperscript{o} et f.~26~r\textsuperscript{o}). Au retour, ignorant que sa division a quitté l'Ancre, il remonte vers Doullens. La ville est alors un grand centre sanitaire : hôpital militaire français dans la citadelle, \textit{Casualty Clearing Stations} britanniques depuis mars 1916 (CWGC, Doullens Communal Cemetery Extension No. 1).
 sources:
 - Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, K. Baedeker, 1913, p. 30.
 - Commonwealth War Graves Commission, notice « Doullens Communal Cemetery Extension No. 1 », cwgc.org, consultée le 18 oct. 2026.

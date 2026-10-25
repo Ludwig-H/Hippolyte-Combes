@@ -3,7 +3,7 @@ fichier: 20251126_103227.jpg
 date: Vendredi 29 septembre 1916
 mois: Septembre 1916
 lieux: Toulouse et Blagnac (Haute-Garonne)
-titre: Mme de Labarthe ; Purpan et Blagnac avec Marguerite ; sautoir chez Pfister
+titre: M\textsuperscript{me} de Labarthe ; Purpan et Blagnac avec Marguerite ; sautoir chez Pfister
 transcription: |
   29 \sl{Ve.} \hfill \sl{Sept /16}
   \ind Tout le jour, ciel nuageux.
@@ -36,31 +36,15 @@ apparat:
 - ligne: 9
   lemme: Après-\inc{repas}
   type: lecture
-  note: fin du mot sous un pâté
+  note: lecture incertaine
 - ligne: 11
   lemme: epanchts
   type: abreviation
   note: épanchements
-- ligne: 17
-  lemme: j-aux
-  type: abreviation
-  note: jusqu'aux
 - ligne: 18
   lemme: \inc{rue} Alsace
   type: lecture
   note: rue (d'Alsace-Lorraine) ?
-- ligne: 19
-  lemme: 20c
-  type: abreviation
-  note: 20 centimes (de même 40c, 60c)
-- ligne: 20
-  lemme: Chz
-  type: abreviation
-  note: chez
-- ligne: 20
-  lemme: 300^{f}
-  type: abreviation
-  note: 300 francs (de même 295^{f})
 - ligne: 21
   lemme: \inc{nièces}
   type: lecture
@@ -68,9 +52,9 @@ apparat:
 - ligne: 21
   lemme: 2 \inc{75}
   type: lecture
-  note: 2 f 75 probable
+  note: 2 f~75 probable
 historique: |
-  Mme de Labarthe est sans doute la mère du « docteur de L-- » de la lettre du 16 juin 1916 (« dont la mère m'est tant dévouée »). Les « Ruines » de Purpan sont l'amphithéâtre gallo-romain de Purpan-Ancely (Office de tourisme de Toulouse). La « chapelle du monastère » de Blagnac est sans doute celle des cisterciennes installées en 1852 au domaine de Maniban (Daraux 2002). Pfister était horloger-bijoutier au 24, place des Carmes, à l'angle de la rue de Languedoc (\textit{L'Express du Midi}, 25 déc. 1911, p.~3) ; le sautoir, sans doute pour Marguerite, coûte près de quatre quinzaines de solde (voir f.~23 v\textsuperscript{o}). La lecture « nièces » est douteuse : la tradition familiale ne connaît pas de nièce à Hippolyte Combes (PC-Bio).
+  M\textsuperscript{me} de Labarthe est peut-être la mère du « docteur de L-- » de la lettre du 16~juin 1916 (« dont la mère m'est tant dévouée »). Les « Ruines » de Purpan sont l'amphithéâtre gallo-romain de Purpan-Ancely (Office de tourisme de Toulouse). La « chapelle du monastère » de Blagnac est sans doute celle des cisterciennes installées en 1852 au domaine de Maniban (Daraux 2002). Pfister était horloger-bijoutier au 24, place des Carmes, à l'angle de la rue de Languedoc (\textit{L'Express du Midi}, 25~déc. 1911, p.~3) ; le sautoir, sans doute pour Marguerite, coûte près de quatre quinzaines de solde (voir f.~23~v\textsuperscript{o}). La lecture « nièces » est douteuse : la tradition familiale ne connaît pas de nièce à Hippolyte Combes (\mbox{PC-Bio}).
 sources:
 - Hippolyte Combes, H., lettre « Au front, vendredi 16 juin 1916 », 4 p. (archives familiales, lettres de guerre).
 - Office de tourisme de Toulouse, « Amphithéâtre romain de Purpan et thermes d'Ancely », toulouse-tourisme.com, consulté le 18 oct. 2026.

@@ -2,7 +2,7 @@ cliche: 168
 fichier: 20251126_111309.jpg
 date: Mardi 13 – jeudi 15 mars 1917
 mois: Mars 1917
-lieux: Hérissart, Mesnil-Martinsart, Puchevillers, Acheux-en-Amiénois et Bertrancourt (Somme)
+lieux: Hérissart, Mesnil-Martinsart, Puchevillers, Acheux-en-Amiénois et Bertrancourt ? (Somme)
 titre: Seul à Hérissart ; visite aux instituteurs Flutre ; office et mess au billet 216
 transcription: |
   \sl{Mardi 13 –} \hfill \sl{Mars 1917 –}
@@ -31,14 +31,6 @@ transcription: |
   & \inc{Bertrancourt} etc. etc. A acheux Wood,
   pataugé boue epaisse.
 apparat:
-- ligne: 6
-  lemme: l^{t}
-  type: abreviation
-  note: lieutenant
-- ligne: 8
-  lemme: M. & Mme
-  type: abreviation
-  note: Monsieur et Madame
 - ligne: 9
   lemme: \inc{Avait}
   type: lecture
@@ -47,24 +39,16 @@ apparat:
   lemme: Norm^{le} Sup^{re}
   type: abreviation
   note: (École) normale supérieure
-- ligne: 13
-  lemme: billet
-  type: emprunt
-  note: (angl.) cantonnement, logement militaire
 - ligne: 24
   lemme: \inc{Bertrancourt}
   type: lecture
   note: 'lecture incertaine ; autre lecture : Beaucourt'
 - ligne: 24
-  lemme: etc. etc.
-  type: abreviation
-  note: et cetera
-- ligne: 24
   lemme: acheux Wood
   type: emprunt
   note: bois d'Acheux
 historique: |
-  Le lieutenant, sans doute l'officier australien arrivé le 6 mars (voir f.~81~v\textsuperscript{o}), se rend à Martinsart, hameau de Mesnil-Martinsart à 4~km au nord d'Albert, proche du front jusqu'en septembre 1916 (CWGC ; voir f.~75~r\textsuperscript{o}). Les Flutre étaient instituteurs au Mesnil. Leur fils est très probablement Louis-Fernand Flutre, né au Mesnil en 1892, ancien élève de l'École normale supérieure, professeur à Lyon, auteur du \textit{Parler picard de Mesnil-Martinsart} (1955) (Wikidata Q559663 ; BnF). Le \textit{billet}~216 est un logement numéroté du cantonnement (Fernand-Laurent 1917, p.~227) ; Combes loge depuis le 11 au billet~220 (voir f.~83~r\textsuperscript{o}). Après la mi-mars, gel, dégel et trafic ont « presque ruiné » les routes (OH 1917-I, p.~151).
+  Le lieutenant, sans doute l'officier australien arrivé le 6~mars (voir f.~81~v\textsuperscript{o}), se rend à Martinsart, hameau de Mesnil-Martinsart à 4~km au nord d'Albert, proche du front jusqu'en septembre 1916 (CWGC ; voir f.~75~r\textsuperscript{o}). Les Flutre étaient instituteurs au Mesnil. Leur fils est très probablement Louis-Fernand Flutre, né au Mesnil en 1892, ancien élève de l'École normale supérieure, professeur à Lyon, auteur du \textit{Parler picard de Mesnil-Martinsart} (1955) (Wikidata Q559663 ; BnF). Le \textit{billet}~216 est un logement numéroté du cantonnement (Fernand-Laurent 1917, p.~227) ; Combes loge depuis le 11 au billet~220 (voir f.~83~r\textsuperscript{o}). Après la mi-mars, gel, dégel et trafic ont « presque ruiné » les routes (OH~\mbox{1917-I}, p.~151).
 sources:
 - Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).
 - Wikidata, Q559663 (Louis-Fernand Flutre) ; BnF, notice de Flutre, L.-F., Le Parler picard de Mesnil-Martinsart (Somme), Genève, Droz / Lille, Giard, 1955.

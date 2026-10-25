@@ -3,7 +3,7 @@ fichier: 20251126_110646.jpg
 date: Mercredi 7 février 1917 (fin) – jeudi 8 février 1917
 mois: Février 1917
 lieux: Hérissart (Somme)
-titre: Bureau et mess au n° 104 à Hérissart ; comptes du retour ; jeudi 8, jour libre
+titre: Bureau et mess au n\textsuperscript{o}~104 à Hérissart ; comptes du retour ; jeudi 8, jour libre
 transcription: |
   \sl{merc– 7 (fin)} \hfill \sl{Fevrier 1917}
   notre bureau & mess, au no 104, mauvaise
@@ -15,7 +15,7 @@ transcription: |
   \crochet{6}Diner à Paris, metro : 15 c.
   Amiens, Y.M.C.A : 1^{f} 15 c
   Touché solde Mission fr^{se}, Acheux : 78^{f}75
-  Gift aux Carluvant, pour
+  Gift aux \inc{Carluvant}, pour
   \ind[3] mon lunch : 5 f.
   \ind[4] et varia
   \filet
@@ -28,47 +28,15 @@ transcription: |
   breakfast
   Tout le jour, liberté entière –
 apparat:
-- ligne: 1
-  lemme: merc–
-  type: abreviation
-  note: mercredi
-- ligne: 4
-  lemme: 9^{H}
-  type: abreviation
-  note: 9 heures
-- ligne: 8
-  lemme: Y.M.C.A
-  type: abreviation
-  note: Young Men's Christian Association (foyer du soldat)
-- ligne: 8
-  lemme: 1^{f} 15 c
-  type: abreviation
-  note: 1 franc 15 centimes
-- ligne: 9
-  lemme: fr^{se}
-  type: abreviation
-  note: française (finale réduite à une ondulation suscrite)
-- ligne: 9
-  lemme: 78^{f}75
-  type: abreviation
-  note: 78 francs 75
 - ligne: 10
-  lemme: Carluvant
+  lemme: \inc{Carluvant}
   type: lecture
-  note: 'forme des pages voisines ; autre lecture : Carluvont'
-- ligne: 12
-  lemme: et varia
-  type: ajout
-  note: ajout rattaché au poste de 5 f.
-- ligne: 12
-  lemme: varia
-  type: emprunt
-  note: divers (latin)
+  note: 'lecture incertaine ; autres lectures : Carlumont, Carluvont'
 - ligne: 17
-  lemme: sur
+  lemme: \inc{sur}
   type: lecture
   note: lecture incertaine ; mot peut-être biffé
 historique: |
-  Le n°~104 est, comme le billet n°~59 d'Acheux (f.~45~v\textsuperscript{o}), un numéro de cantonnement attribué par le \textit{Town Major}. Le métro parisien coûte 15~c en seconde classe, tarif de 1900 à 1919 (Hérodote). Les 78~f~75 de la Mission française font quinze jours à 5~f~25, d'après les soldes du 19 décembre et du 19 janvier (f.~56~r\textsuperscript{o} et 62~v\textsuperscript{o} ; calcul). La première quinzaine de février est donc payée entière ; la retenue des sept jours de permission (35~f) ne sera faite que le 3 mars (f.~81~r\textsuperscript{o}). Le \textit{gift} de 5~f paie le « déjeuner sommaire » offert le jour même par les Carluvant (f.~73~r\textsuperscript{o}).
+  Le n\textsuperscript{o}~104 est, comme le billet n\textsuperscript{o}~59 d'Acheux (f.~45~v\textsuperscript{o}), un numéro de cantonnement attribué par le \textit{Town Major}. Le métro parisien coûte 15~c en seconde classe, tarif de 1900 à 1919 (Hérodote). Les 78~F~75 de la Mission française font quinze jours à 5~F~25, d'après les soldes du 19~décembre et du 19~janvier (ff.~56~r\textsuperscript{o} et 62~v\textsuperscript{o} ; calcul). La première quinzaine de février est donc payée entière ; la retenue des sept jours de permission (35~F) ne sera faite que le 3~mars (f.~81~r\textsuperscript{o}). Le \textit{gift} de 5~F paie le « déjeuner sommaire » offert le jour même par les Carluvant (f.~73~r\textsuperscript{o}).
 sources:
 - 'Hérodote.net, « 19 juillet 1900 : inauguration du métro de Paris » (herodote.net), consulté le 18 oct. 2026.'

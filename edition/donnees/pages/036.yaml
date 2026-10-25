@@ -3,7 +3,7 @@ fichier: 20251126_094449.jpg
 date: Dimanche 3 septembre 1916 (suite)
 mois: Septembre 1916
 lieux: Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)
-titre: 'Dimanche 3 septembre (suite) : avoine sur pied ; achats à Saint-Pol'
+titre: 'Dimanche 3~septembre (suite) : avoine sur pied ; achats à Saint-Pol'
 transcription: |
   \sl{3 D.} \hfill Sept^{bre} /16
   \ind Champs d'avoine non encore \trait
@@ -27,10 +27,6 @@ apparat:
   type: abreviation
   note: demi-heure
 - ligne: 7
-  lemme: ctes p^{les}
-  type: abreviation
-  note: cartes postales
-- ligne: 7
   lemme: + \inc{5}
   type: lecture
   note: 'lecture incertaine ; autre lecture : f'
@@ -50,10 +46,6 @@ apparat:
   lemme: saddle soap
   type: emprunt
   note: savon de sellerie (pour l'entretien des cuirs)
-- ligne: 9
-  lemme: 1^{f} 50
-  type: abreviation
-  note: 1 franc 50
 - ligne: 10
   lemme: choc^{t}
   type: abreviation
@@ -62,9 +54,8 @@ apparat:
   lemme: \inc{f}
   type: lecture
   note: lecture incertaine (f, ou 5) ; tracé coupé au bord
-critique: 'Recto du f. 18, qui continue le dimanche 3 (f. 17 v\textsuperscript{o}) ; ordre restitué : le verso, qui porte les 4 et 5 septembre, vient ensuite.'
 historique: |
-  La carte de la Somme, au même prix que la carte du département achetée le 31 août (voir f. 16 v\textsuperscript{o}), précède d'un jour l'ordre qui transfère la division à la Reserve Army, sur la Somme (voir f. 18 v\textsuperscript{o}) : la destination était connue ou pressentie. Le \textit{saddle soap} entretient le cuir des selles : Hippolyte Combes suit la compagnie à cheval (voir f. 20 r\textsuperscript{o}). Le chocolat Poulain est la marque lancée en 1848 par Victor-Auguste Poulain, de Blois (Ville de Blois 2015). Si le quart de livre coûte bien 1 f, il revient à 8 F le kilo ; le chocolat ordinaire valait 3,19 F à l'économat d'une grande compagnie de chemins de fer en juillet 1916 (March 1925, p. 199-200).
+  La carte de la Somme, au même prix que la carte du département achetée le 31~août (voir f.~16~v\textsuperscript{o}), précède d'un jour l'ordre qui transfère la division à la Reserve Army, sur la Somme (voir f.~18~v\textsuperscript{o}) : la destination était connue ou pressentie. Le \textit{saddle soap} entretient le cuir des selles : Hippolyte Combes suit la compagnie à cheval (voir f.~20~r\textsuperscript{o}). Le chocolat Poulain est la marque lancée en 1848 par Victor-Auguste Poulain, de Blois (Ville de Blois 2015). Si le quart de livre coûte bien 1~F (le chiffre n'est pas lisible), il revient à 8~F le kilo ; le chocolat ordinaire valait 3,19~F à l'économat d'une grande compagnie de chemins de fer en juillet 1916 (March 1925, p.~199--200).
 sources:
 - March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 199-200.
 - Blois (Ville de), dossier de presse « Les belles images de Poulain », exposition du 15 septembre au 31 octobre 2015, 16 septembre 2015.

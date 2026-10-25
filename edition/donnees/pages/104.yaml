@@ -33,10 +33,6 @@ transcription: |
   Soir, diné 1^{re} fois au nouveau mess
   49 C, chambre de L^{t} Curtis.
 apparat:
-- ligne: 1
-  lemme: Nov^{bre}
-  type: abreviation
-  note: novembre
 - ligne: 3
   lemme: \inc{rendormi}
   type: lecture
@@ -60,15 +56,11 @@ apparat:
 - ligne: 18
   lemme: Moulins à
   type: disposition
-  note: complété par « (vent) », l. 19
+  note: complété par « (vent) », l.~19
 - ligne: 23
   lemme: \addm{aller}
   type: ajout
-  note: complète la l. 22
-- ligne: 24
-  lemme: 7^{H} s
-  type: abreviation
-  note: 7 heures du soir
+  note: complète la l.~22
 - ligne: 25
   lemme: 1^{re}
   type: abreviation
@@ -81,8 +73,10 @@ apparat:
   lemme: de
   type: lecture
   note: et non « du »
+critique: |
+  Le lundi 27~novembre n'a pas d'entrée.
 historique: |
-  Martinsart, hameau de Mesnil-Martinsart à 4~km au nord d'Albert et 8~km au sud-est d'Acheux (geo.api.gouv.fr), était « proche de la ligne de front jusqu'en septembre 1916 » (CWGC). Les châtelains, au nom douteux, ne sont pas identifiés ; Hippolyte Combes reviendra au château le 10 février 1917 (voir f.~75~r\textsuperscript{o}). La tournée du 29 mène à 12--15~km au sud-ouest d'Acheux, sur le plateau entre Puchevillers et l'Hallue, zone des achats de paille et de fourrage ; Septenville est un hameau de Rubempré. Le même jour, le QG du V Corps quitte Acheux pour Doullens et celui du XIII Corps le remplace (LLT). Le thé du 30 à Hérissart est peut-être pris chez le lieutenant Walsh, qui y réside (voir f.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}).
+  Martinsart, hameau de Mesnil-Martinsart à 4~km au nord d'Albert et 8~km au sud-est d'Acheux (geo.api.gouv.fr), était « proche de la ligne de front jusqu'en septembre 1916 » (CWGC). Les châtelains, au nom douteux, ne sont pas identifiés ; Hippolyte Combes reviendra au château le 10~février 1917 (voir f.~75~r\textsuperscript{o}). La tournée du 29 mène à 12--15~km au sud-ouest d'Acheux, sur le plateau entre Puchevillers et l'Hallue, zone des achats de paille et de fourrage ; Septenville est un hameau de Rubempré. Le même jour, le QG du V Corps quitte Acheux pour Doullens et celui du XIII~Corps le remplace (LLT). Le thé du 30 à Hérissart est peut-être pris chez le lieutenant Walsh, qui y réside (voir ff.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}).
 sources:
 - Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).
 - Baker, C., The Long, Long Trail, « The British V Corps in France and Flanders » et « The British XIII Corps in France and Flanders » (longlongtrail.co.uk, consultés le 18 oct. 2026).

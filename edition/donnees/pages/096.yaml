@@ -2,7 +2,7 @@ cliche: 96
 fichier: 20251126_104728.jpg
 date: Mercredi 8 – jeudi 9 novembre 1916
 mois: Novembre 1916
-lieux: Acheux-en-Amiénois, Forceville, Albert, Varennes et Warloy-Baillon (Somme)
+lieux: Acheux-en-Amiénois, Forceville, Albert, Varennes, Warloy-Baillon, Senlis-le-Sec et Léalvillers (Somme)
 titre: En auto à Forceville, Albert, Varennes ; thé à la 152 Coy ; Albert bombardé
 transcription: |
   \sl{8 me} matin course en \hfill \sl{Novbre 1916}
@@ -28,44 +28,20 @@ transcription: |
   eclairci, qq etoiles, pleine lune magnifique
   \ind Bombardement commence sur Albert \trait
 apparat:
-- ligne: 1
-  lemme: me
-  type: abreviation
-  note: mercredi
-- ligne: 1
-  lemme: Novbre
-  type: abreviation
-  note: novembre
 - ligne: 2
   lemme: major
   type: emprunt
   note: 'grade britannique : commandant'
 - ligne: 2
-  lemme: Hughs
+  lemme: \inc{Hughs}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : Hugha ; le major Hughes (voir f. 45 v°)'
-- ligne: 6
-  lemme: demander
-  type: lecture
-  note: ainsi, sans accent
-- ligne: 14
-  lemme: continue
-  type: lecture
-  note: ainsi, sans r ni accent
+  note: 'lecture incertaine ; autre lecture : Hugha ; le major Hughes (voir f.~45~v\textsuperscript{o})'
 - ligne: 16
   lemme: affreust
   type: abreviation
   note: affreusement
-- ligne: 17
-  lemme: mess-hut
-  type: emprunt
-  note: baraque du mess
-- ligne: 18
-  lemme: Coy
-  type: abreviation
-  note: Company, compagnie britannique (152nd Company A.S.C.)
 historique: |
-  Forceville, à 2~km à l'est d'Acheux, abrite alors des brigades de la 51st (Highland) Division, dont la 152nd partira le 12 au soir pour l'assaut de Beaumont-Hamel (OH 1916-II, p.~480-491). La route d'Albert traverse Varennes, où sont installés depuis octobre les 4th et 11th \textit{Casualty Clearing Stations} (LLT), et Senlis-le-Sec, QG du II Corps (LLT). La Mission d'Albert paiera encore Hippolyte Combes le 18 (f.~50~r\textsuperscript{o}). La 152 Coy cantonne toujours sur le plateau d'Albert ; la 18th Division tient le secteur de Regina Trench (Nichols 1922, p.~133-136). La pleine lune tombe le 9 (Espenak). Albert est bombardé, comme les 24 et 31 octobre (voir f.~44~v\textsuperscript{o}), alors que le guide Michelin la dit hors de portée dès octobre 1916 (Michelin 1919, p.~31-35).
+  Forceville, à 2~km à l'est d'Acheux, abrite alors des brigades de la 51\textsuperscript{st} (Highland) Division, dont la 152\textsuperscript{nd} partira le 12 au soir pour l'assaut de Beaumont-Hamel (OH~\mbox{1916-II}, p.~480--491). La route d'Albert traverse Varennes, où sont installés depuis octobre les 4\textsuperscript{th} et 11\textsuperscript{th} \textit{Casualty Clearing Stations} (LLT), et Senlis-le-Sec, QG du II~Corps (LLT). La Mission d'Albert paiera encore Hippolyte Combes le 18 (f.~50~r\textsuperscript{o}). La 152 Coy cantonne toujours sur le plateau d'Albert ; la 18\textsuperscript{th} Division tient le secteur de Regina Trench (Nichols 1922, p.~133--136). La pleine lune tombe le 9 (Espenak). Albert est bombardé, comme les 24 et 31~octobre (voir f.~43~r\textsuperscript{o} et f.~44~v\textsuperscript{o}), alors que le guide Michelin le dit hors de portée dès octobre 1916 (Michelin 1919, p.~31--35).
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 480-491.
 - Baker, C., The Long, Long Trail, « Locations of British Casualty Clearing Stations » (copie Wayback Machine du 13 janvier 2018) et « The British II Corps in France and Flanders » (copie Wayback Machine du 6 novembre 2024).

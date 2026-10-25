@@ -77,7 +77,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   1  <ins>27 J</ins>      <ins>Juillet /16</ins>
   2  Aussitot après breakfast, venu à pied
   3  à Renescure Tjours meme temps gris et
-  4  saturé de mélancolie
+  4  saturé de mélancolie.
   5  Village très intéressant
   6  2 superbes chateaux M-Age – fossé entourant
   7  chateau – tours à chaque angle du carré –
@@ -155,7 +155,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  14  A l'horizon, ballons captifs. De temps à autre,
  15  bombardement lointain –
  16      Ciel traversé d'avions anglais.
- 17  Après diner ; venu promener au village de
+ 17  Après diner, venu promener au village de
  18  St Jans -cappel (1)
      ————————————
  19  Payé à fermière où je loge pour 4 oeufs et
@@ -168,7 +168,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24      eglise au clocher eff<sup>l</sup>
 </pre>
 
-## f. 3 v° — Dimanche 30 et lundi 31 juillet 1916
+## f. 3 v° — Dimanche 30 – lundi 31 juillet 1916
 
 *Saint-Jans-Cappel et Bailleul (Nord)*
 
@@ -230,7 +230,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 4 v° — Mercredi 2 et jeudi 3 août 1916
+## f. 4 v° — Mercredi 2 – jeudi 3 août 1916
 
 *Saint-Jans-Cappel et Bailleul (Nord)*
 
@@ -280,7 +280,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  11      Tout laprès-midi et fin journee, reposé garret.
 
  12      — Touché au bureau mission, à
- 13  La Croix du Bac : 80<sup>f</sup> 30 c (y compris 8<sup>f</sup> /
+ 13  La Croix du Bac : 80<sup>f</sup> 30 [?] c (y compris 8<sup>f</sup> /
  14  supplément 1 de [?] juillet / —
 
  15      Ferme autour de l. notre Coy est cantonnée
@@ -327,7 +327,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  12  par Bailleul, parvenus à La Croix
  13  du Bac – vers 4<sup>H</sup> 1/2 –
  14  Les Horse-lines, à l'entrée village, du
- 15  côté de Steenwerck.
+ 15  côté de Steenwercke [?].
  16  Cherché chambres pr. offs. Réussi à me
  17  loger maison en face de la Coy –
  18      Fin journée vraiment superbe  ——
@@ -371,7 +371,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
 <pre>
-  1  <ins>Lundi 7 –</ins>      Aout 1916
+  1  <ins>Lundi 7 –</ins>      Aout <ins>1916</ins>
   2      Chaleur accablante
   3  Toute matinee, avec cet idiot de C<sup>tis</sup>, cherché
   4  nouvx billets et messroom pour mes offs
@@ -393,7 +393,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18      1 litre bière : 30c
 </pre>
 
-## f. 8 r° — Mardi 8 et mercredi 9 août 1916
+## f. 8 r° — Mardi 8 – mercredi 9 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -500,9 +500,9 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  air brulant, soleil torride  ——
 </pre>
 
-## f. 10 r° — Dimanche 13 et lundi 14 août 1916
+## f. 10 r° — Dimanche 13 – lundi 14 août 1916
 
-*La Croix-du-Bac (Steenwerck) et Armentières (Nord)*
+*La Croix-du-Bac (Steenwerck, Nord)*
 
 <pre>
   1  <ins>13 D –</ins>      <ins>Aout 1916</ins>
@@ -550,7 +550,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 11 r° — Vendredi 18 et samedi 19 août 1916
+## f. 11 r° — Vendredi 18 – samedi 19 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -611,7 +611,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21          Fin journée Ensoleillée et \très belle/ (en marge)
 </pre>
 
-## f. 12 r° — Dimanche 20 et lundi 21 août 1916
+## f. 12 r° — Dimanche 20 – lundi 21 août 1916
 
 *La Croix-du-Bac (Steenwerck, Nord)*
 
@@ -649,7 +649,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 <pre>
   1  <ins>22 Ma</ins>      <ins>Aout /16</ins>
-  2      Ciel nuageux – s'est tt à fait eclairci
+  2      Ciel nuageux – s'est tt à fait eclairci –
   3  après-midi et très beau soleil
   4      Venu à pied à Steenwerk : 55 m.
   5  Promenade lente, très agréable
@@ -810,7 +810,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  21  tenue, sale, moisie – quelle torture!
 </pre>
 
-## f. 15 v° — Lundi 28 et mardi 29 août 1916
+## f. 15 v° — Lundi 28 – mardi 29 août 1916
 
 *Marquay (Pas-de-Calais)*
 
@@ -861,7 +861,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 16 v° — Jeudi 31 août 1916
 
-*Marquay, Ramecourt ?, Saint-Michel-sur-Ternoise et Saint-Pol-sur-Ternoise (Pas-de-Calais)*
+*Marquay, Ramecourt ?, Saint-Michel-sur-Ternoise, Saint-Pol-sur-Ternoise et Ostreville (Pas-de-Calais)*
 
 <pre>
   1  31 <ins>J</ins> – Enfin, belle journée –      <ins>Aout/16</ins>
@@ -908,7 +908,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  12  village, où gazon & plantes cachent presque les
  13  tombes      . Y éprouvé impression
  14  Melancolie penetrante — Ciel nuageux et
- 15  bas. Légère brise agitant ramures. Air doux.
+ 15  bas. Légère brise agitant ramures. Air [?] doux.
  16  Bon [?] s'arreter & reflechir
 
  17  [ Tip au headcook : 5<sup>f</sup> —
@@ -919,7 +919,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 17 v° — Samedi 2 et dimanche 3 septembre 1916
+## f. 17 v° — Samedi 2 – dimanche 3 septembre 1916
 
 *Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)*
 
@@ -968,7 +968,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  10  1 Eponge : 60 – – — 1/4 livre choc<sup>t</sup> Poulain : f [?]
 </pre>
 
-## f. 18 v° — Lundi 4 et mardi 5 septembre 1916
+## f. 18 v° — Lundi 4 – mardi 5 septembre 1916
 
 *Marquay et Roëllecourt (Pas-de-Calais)*
 
@@ -999,7 +999,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  78<sup>f</sup> 75c
 </pre>
 
-## f. 19 r° — Mercredi 6 et jeudi 7 septembre 1916
+## f. 19 r° — Mercredi 6 – jeudi 7 septembre 1916
 
 *Marquay, Saint-Pol-sur-Ternoise et Saint-Michel-sur-Ternoise (Pas-de-Calais)*
 
@@ -1135,7 +1135,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  15  cantonnées.
  16      Trouvé chambrette famille de pauvres
  17  , mais braves gens. Fille ainée, prête à accoucher
- 18  mangé tjs au mess off  ——
+ 18  mangé tjs au mes off  ——
 
  19  — Tip au groom Connelly : 1<sup>f</sup> —
  20  Oeufs : 3 à Thièvres : 50c. — 4 à Raincheval : 70c
@@ -1143,7 +1143,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  1 litre bière : 50 + 10 c –
 </pre>
 
-## f. 21 v° — Mardi 12 et mercredi 13 septembre 1916
+## f. 21 v° — Mardi 12 – mercredi 13 septembre 1916
 
 *Raincheval (Somme)*
 
@@ -1175,7 +1175,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  23  Tout le jour, et 1<sup>ère</sup> fois, mess des offs
 </pre>
 
-## f. 22 r° — Jeudi 14 et vendredi 15 septembre 1916
+## f. 22 r° — Jeudi 14 – vendredi 15 septembre 1916
 
 *Raincheval et Acheux-en-Amiénois (Somme)*
 
@@ -1213,7 +1213,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 <pre>
   1  <ins>17 Dim.</ins>      <ins>Sept<sup>re</sup> 1916</ins>
   2          Tjs ds lattente notre départ
-  3  Comme occupations , green forage. Dois
+  3  Cme occupations , green forage. Dois
   4  conduire wagon Champ de trefle rouge
   5      Temps très beau – un peu froid, le soir
   6  & surtout le matin. 1/2 jour, soleil brulant
@@ -1432,20 +1432,20 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Le Bourget (Seine-Saint-Denis) ; Paris*
 
 <pre>
-  1  <ins>Mardi 26</ins>      <ins>Sept<sup>r</sup> 16</ins>
-  2      Vers 6<sup>H</sup> m. , encore nuit , dû descendre gare
-  3  du Bourget .
-  4  Suivi voies , j'que [?] bureau militre . Là
+  1  <ins>mardi 26</ins>      <ins>Sept<sup>r</sup> 16</ins>
+  2      Vers 6<sup>H</sup> m., encore nuit, dû descendre gare
+  3  du Bourget.
+  4  Suivi voies, j'que [?] bureau militre. Là
   5  obtenu l'autorison de sortir et accompagné
   6  par un planton jà la porte  ——
-  7  du Bourget , sortie de la rue de Flandre ,
+  7  du Bourget, sortie de la rue de Flandre,
   8  pris tramway qui m'a conduit j-à gare
-  9  du Nord . De là , par metro , arrivé
- 10  à station Tuileries . \changé au Chatelet/ Traversé jardin et
+  9  du Nord. De là, par metro, arrivé
+ 10  à station Tuileries. \changé au Chatelet/ Traversé jardin et
  11  Venu gare d'Orsay  ——
- 12  Me suis rendu à la place (hotel .
- 13  des Invalides , pr demande autorison de
- 14  voyager à mes frais en express Revenu
+ 12  Me suis rendu à la place (hotel.
+ 13  des Invalides, pr demande autorison de
+ 14  voyager à mes frais ds express Revenu
  15  gare et pu enfin prendre billet de 2e cl
  16  Toulouse  ——
  17  Puis descendu rue du Bac  ——
@@ -1492,7 +1492,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 <pre>
   1  <ins>27 mer.</ins>      Sept <ins>1916</ins>
   2  nuit passée ds [?] wag<sup>t</sup> [?]. Dormi 1 peu
-  3  A 7<sup>H</sup> 30 m. , arrivé a Toulouse
+  3  A 7<sup>H</sup> 30 m., arrivé a Toulouse
   4  Pris tram et vers 8<sup>H</sup>, ds mon appartement
   5  A 11<sup>Hm</sup> – monté à S<sup>te</sup> Marie-des-Champs. Les dames
   6  Calmels, pas e. arrivées, ne seront là que ce soir –
@@ -1578,7 +1578,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 <pre>
   1  <ins>30 Samedi.</ins>      <ins>Septb /16</ins>
   2      Tout le jour, temps pluvx [?]. Fine ondée qui dure peu
-  3  Matin – venu voi Mme de Labarthe, au 12.. A [?]
+  3  Matin – venu voir Mme de Labarthe, au 12.. A [?]
   4  pour cette amie, attachemt profond.. –
   5  Monté à Ste Marie vers 11<sup>H</sup> 1/2 –
   6  Dans petit salon, qq minutes de tête à-tête delicieux [?]
@@ -1616,7 +1616,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   3  messe curé [?] – 8<sup>H</sup> autel paroissial. M<sup>te</sup>, à ma droite
   4  Matinée, ds mon appart<sup>t</sup>, à ranger mes choses
   5  Joui du calme & silence —
-  6  monté déjeun à S<sup>te</sup> Marie –      Temps trè beau
+  6  monté déjeun à S<sup>te</sup> Marie –      Temps très beau
   7  Après repas, pris trams et venus à Lardenne
   8  De l'église, continué à pied j-au pont du Touch
   9  Assis s/ l'herbe prairie longeant rivière –
@@ -1841,7 +1841,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   4  qq maisons. Population, très symphe
   5  Région très boisée, extt pittoresque  ——
   6  Après lunch, venu sur 1 lorry
-  7  à Bernaville et visé mon titre de
+  7  à Bernaville et visé [?] mon titre de
   8  permission au bureau de la Mission Fse
 
   9  Bientot trouvé 1 billet = gde
@@ -1915,7 +1915,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   6  Sentiers encore boueux et jonché de feuilles rouillés [?].
   7  Feuillages épais & verts. Ds les taillis, enchevêtrt
   8  d'arbustes & de lianes. Des troncs énormes
-  9  s'élèvent très haut, arbres plusis fois
+  9  s'élèvent [sur [illis.]] très haut, arbres plusis fois
  10  séculaires. Resté lgs ds cet océan de
  11  verdure. Ecouté, ravi, le bruissement
  12  du vent à travers les branches
@@ -1973,7 +1973,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 37 r° — Jeudi 12 et vendredi 13 octobre 1916
+## f. 37 r° — Jeudi 12 – vendredi 13 octobre 1916
 
 *Barlette (Ribeaucourt) et Prouville (Somme)*
 
@@ -2094,7 +2094,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 <pre>
   1  <ins>merc – 18</ins>      <ins>oct /16</ins>
   2          Dormi mess-tent – à l'autre extrémité
-  3  les 2 cooks. — Allongé sur 1 fauteuil de jardin !
+  3  les 2 cooks. — Allongé sur 1 fauteuil de jardin !,
   4  nuit très froide –
   5  après breakfast. eu a lift s/ 1 lorry chargé
   6  d'obus et venu à Albert. Mission frsé.
@@ -2121,7 +2121,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   5  ds la mess-tent –
 
      ————————————
-  6  merc-<ins>18</ins> Albert : cartes ples : 40c      <ins>Oct 16</ins>
+  6  merc-<ins>18</ins> Albert : cartes ples : 40c      <ins>oct 16</ins>
   7  Albert, mission frse : 84 fr – —
 </pre>
 
@@ -2189,7 +2189,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   3  Ds la journée, soleil rechauffé 1 peu température
   4  Matinée, promenade de reconnaissce en ville
   5  la long rues dont les maisons atteintes par
-  6  obus. Venu à l'ordonnance, Aveluy
+  6  obus. Venu à l'ordonnance, Aveluy [?]
   7      Tout l'après-midi, ds ma chambre. achevé
   8  de m'installer pour le mieux.
   9      Après lunch, me suis attardé sur le
@@ -2250,7 +2250,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  12  — Cartes ples d'Albert : 70c.
 </pre>
 
-## f. 43 r° — Mardi 24 et mercredi 25 octobre 1916
+## f. 43 r° — Mardi 24 – mercredi 25 octobre 1916
 
 *Albert (Somme)*
 
@@ -2483,12 +2483,12 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   9  installation ds mon nouveau local.
  10          apres-midi, liberté entiere.
  11  achevé de m'installer maison. Fait
- 12  connaissance avec propre, très sympathiq<sup>ue</sup>
+ 12  connaissance av [?] propre, très sympathiq<sup>ue</sup>
  13      A 6H soir, l'interprete de la V<sup>th</sup>
  14  Army troops, venu [?] me chercher : cap
  15  Huguet, du \[illis.]/ corps, désire me voir.
  16  Venu aussitot bureau mission du corps
- 17  Tt a fait [?] bien reçu — qq froid
+ 17  Tt a fait bien [?] reçu — qq froid
  18  . – demande de renseignements divers
  19      Des 8<sup>h</sup> 1/2, ds ma chambre  ——
 </pre>
@@ -2518,7 +2518,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  Routes boueuses pleines de trous & ornières profonde
  18  ni matin, ni soir, rien à faire.
  19  Après-midi, essayé d'aller Albert : fatigué
- 20  d'attendre lorry, renoncé partir et rentré à [?] billet.
+ 20  d'attendre lorry renoncé partir et rentré à [?] billet.
  21      De la fenêtre de ma chambre, mouvements
  22  rue (route de Lealvillo [?] ( ). Flot presque ininterrompu
  23  de véhicules de ttes sortes : lorries, wagons, caissons
@@ -2528,7 +2528,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 48 r° — Mercredi 8 – jeudi 9 novembre 1916
 
-*Acheux-en-Amiénois, Forceville, Albert, Varennes et Warloy-Baillon (Somme)*
+*Acheux-en-Amiénois, Forceville, Albert, Varennes, Warloy-Baillon, Senlis-le-Sec et Léalvillers (Somme)*
 
 <pre>
   1  <ins>8 me</ins> matin course en      <ins>Novbre 1916</ins>
@@ -2567,7 +2567,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   5  Impression toute nouvelle —
   6      Tout l'après-midi, courses en auto : Raincheval
   7  et Léalvillers. Pu regarder à loisir campagne
-  8  ensoleillée – et remarqué le – détails du paysage  ——
+  8  ensoleillée – et remarqué le [?] – détails du paysage  ——
   9  Nuit ext<sup>t</sup> belle, ciel éclairé par pleine lune  ——
 
      ————————————
@@ -2578,7 +2578,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  14  enfoncaient et se collaient. Affreux
  15  Interprète de cette unité, M. Sorgues [?], prof
  16  au lycée de Toulon
- 17  Soir, & repas, sifflement obus. Acheux
+ 17  Soir, 1/2 repas, sifflement obus. Acheux
  18  bombardé à intervalles rapprochés. Refugiés cave
  19  [– C<sup>tes</sup> p<sup>les</sup>. à Varennes : 75 c —
 
@@ -2586,7 +2586,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 49 r° — Dimanche 12 et mardi 14 novembre 1916
 
-*Acheux-en-Amiénois, Contay, Beauquesne ? et Doullens (Somme) ; Frévent (Pas-de-Calais)*
+*Acheux-en-Amiénois, Varennes, Contay, Beauquesne ?, Raincheval et Doullens (Somme) ; Frévent (Pas-de-Calais)*
 
 <pre>
   1  <ins>Dim. 12.</ins>      <ins>Novembre 1916</ins>
@@ -2612,13 +2612,13 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19  ciel nuageux – pluie menacé tt le jour.
  20  A Doullens, grande foire
  21      A Frévent, promené passim — Petite
- 22  ville assz coquette belle église, catéchismes [?] & un carillon [?] —
+ 22  ville assz coquette belle église, catéchumènes [?] & un camion [?] —
  23  — Boutons simili cuir : 4<sup>f</sup> 75 (10 \0.40/ gd [?], 3 \0.25/ petit[lacune]
  24  Cartes ple : 40c – 1 50 et 10c
  25  Déjeuner à l'hôtel d'Amiens, ma part : 7 fr
 </pre>
 
-## f. 49 v° — Mercredi 15 et jeudi 16 novembre 1916
+## f. 49 v° — Mercredi 15 – jeudi 16 novembre 1916
 
 *Acheux-en-Amiénois, Albert, Raincheval, Louvencourt, Toutencourt et Hérissart (Somme)*
 
@@ -2682,9 +2682,9 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  — Albert : solde : 88 fr [?] – — 3 C<sup>tes</sup> p<sup>les</sup> : 30 c
 </pre>
 
-## f. 50 v° — Lundi 20 et mardi 21 novembre 1916
+## f. 50 v° — Lundi 20 – mardi 21 novembre 1916
 
-*Acheux-en-Amiénois, Bouzincourt, Contay ? et Englebelmer (Somme)*
+*Acheux-en-Amiénois, Bouzincourt, Contay ?, Englebelmer et Léalvillers ? (Somme)*
 
 <pre>
   1  <ins>20 Lundi –</ins>      <ins>Nov – /16</ins>
@@ -2721,7 +2721,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 <pre>
   1  <ins>Novembre 1916</ins> —
-  2  22 Me Hier soir, indigestion & dérangement
+  2  <ins>22 Me</ins> Hier soir, indigestion & dérangement
   3  d'entrailles. Ni thé, ni supper. 7 selles
   4  liquides. dans la nuit. dû me lever
   5  Chaque fois
@@ -2977,7 +2977,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 55 r° — Mardi 12 – jeudi 14 décembre 1916
 
-*Acheux-en-Amiénois, Senlis-le-Sec, Toutencourt, Puchevillers et Harponville (Somme)*
+*Acheux-en-Amiénois, Senlis-le-Sec, Toutencourt, Belle-Église (Arquèves), Puchevillers et Harponville (Somme)*
 
 <pre>
   1  <ins>12 Mardi</ins>      Dec<sup>b</sup> <ins>1916</ins>
@@ -3008,7 +3008,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 55 v° — Vendredi 15 et lundi 18 décembre 1916
 
-*Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval et Puchevillers (Somme)*
+*Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval, Toutencourt et Puchevillers (Somme)*
 
 <pre>
   1  <ins>15 Vendr</ins> –      Déc.<sup>b</sup> <ins>1916</ins>
@@ -3050,7 +3050,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   5      Après-midi, resté à Acheux, office
   6  & mon billet. Neige tombée à gros flocons
   7      Cme d'habitude, passé soirée au
-  8  rez-de-ch., avec mes propriétres [?].
+  8  rez-de-ch., avec mes propriét<sup>res</sup> [?].
 
   9          — Bureau mission, XIIIe C. touché
  10  Solde etc : 84 fr
@@ -3071,12 +3071,12 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 56 v° — Vendredi 22 et dimanche 24 décembre 1916
 
-*Acheux-en-Amiénois, Senlis-le-Sec, Beauquesne et Authie (Somme) ; Orville (Pas-de-Calais)*
+*Acheux-en-Amiénois, Senlis-le-Sec, Rubempré, Léalvillers, Beauquesne, Saint-Léger-lès-Authie, Authie, Louvencourt, Puchevillers et Toutencourt (Somme) ; Orville (Pas-de-Calais)*
 
 <pre>
   1  <ins>22 Ven.</ins>      <ins>Dec 1916</ins>
   2  Degel rapide. Routes, très
-  3  mauvaises. Pluie fine matinée, à Senlis.
+  3  mauvaises [?]. Pluie fine matinée, à Senlis.
   4  Aprè-midi, à Rubempré & Quesnoy —
   5  Fait reparer lorgnon par horloger à
   6  Lealvillers.
@@ -3132,7 +3132,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 </pre>
 
-## f. 57 v° — Mardi 26 et mercredi 27 décembre 1916
+## f. 57 v° — Mardi 26 – mercredi 27 décembre 1916
 
 *Acheux-en-Amiénois, Raincheval, Arquèves, Beauquesne et Doullens (Somme)*
 
@@ -3189,9 +3189,9 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  chambre sans feu, et fenetres ouvertes
 </pre>
 
-## f. 58 v° — Samedi 30 et dimanche 31 décembre 1916
+## f. 58 v° — Samedi 30 – dimanche 31 décembre 1916
 
-*Acheux-en-Amiénois, Franvillers, Senlis-le-Sec, Raincheval et Beauquesne (Somme)*
+*Acheux-en-Amiénois, Franvillers, Senlis-le-Sec, Belle-Église (Arquèves), Raincheval et Beauquesne (Somme)*
 
 <pre>
   1  30 <ins>Sam.</ins>      <ins>Dec<sup>bre</sup> /16</ins>
@@ -3223,7 +3223,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 59 r° — Lundi 1er et mardi 2 janvier 1917
 
-*Acheux-en-Amiénois, Toutencourt et Authie (Somme) ; Saulty (Pas-de-Calais)*
+*Acheux-en-Amiénois, Toutencourt, Authie, Louvencourt, Belle-Église (Arquèves) et Raincheval (Somme) ; Pas-en-Artois et Saulty (Pas-de-Calais)*
 
 <pre>
   1  1<sup>er</sup> <ins>Lundi</ins>      — <ins>1917</ins> —      <ins>Janvier</ins> –
@@ -3233,7 +3233,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   5  Après-midi, venus à Saulty, par Authie,
   6  & Pas. gd Route d'Arras. Ondée très fine &
   7  intermittente –
-  8  M. Carluvant, m'a annoncé qu'il devra quitter
+  8  M. Carluvant [?], m'a annoncé qu'il devra quitter
   9  maison ds qq jours : <del>[illis.]</del> proprie tient à s'y
  10  installer. Regrette de partir d'ici. Chambre chaude –
 
@@ -3320,7 +3320,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 60 v° — Samedi 6 – mardi 9 janvier 1917
 
-*Acheux-en-Amiénois, Louvencourt, Bertrancourt, Authie, Raincheval et Hédauville (Somme)*
+*Acheux-en-Amiénois, Louvencourt, Bertrancourt, Authie, Arquèves, Raincheval et Hédauville (Somme)*
 
 <pre>
   1  6 <ins>Sam</ins>      Janv. <ins>1917</ins>
@@ -3353,7 +3353,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 61 r° — Mercredi 10 – vendredi 12 janvier 1917
 
-*Acheux-en-Amiénois, Saint-Léger-lès-Authie, Authie, Beauquesne et Rubempré (Somme)*
+*Acheux-en-Amiénois, Saint-Léger-lès-Authie, Belle-Église (Arquèves), Authie, Beauquesne et Rubempré (Somme)*
 
 <pre>
   1  <ins>10 Me</ins>      — <ins>Janvier 1917</ins> —
@@ -3435,7 +3435,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  11          — C<sup>tes</sup> p<sup>les</sup> : 35 c.
 
      ————————————
- 12  17 Merc Nuit neigé abond<sup>t</sup>. Au réveil
+ 12  17 <ins>Merc</ins> Nuit neigé abond<sup>t</sup>. Au réveil
  13  trouvé toits, jardins rues, tout blancs
  14      Tout le jour, en course Venu jà
  15  Auxi-le-Château, chz M. Renard. Jusqà [?] Doullens
@@ -3451,7 +3451,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  25  et dégel commencé —
 </pre>
 
-## f. 62 v° — Jeudi 18 et vendredi 19 janvier 1917
+## f. 62 v° — Jeudi 18 – vendredi 19 janvier 1917
 
 *Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval et Puchevillers (Somme)*
 
@@ -3605,7 +3605,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   8  Entré à la Y.M.C.A. Hut, à côté gare
   9  Puis durant des heures, déambulé
  10  le long quai gare, en attendant train
- 11  de Boulogne-Paris. Froid très vif
+ 11  de Boulogne. Paris. Froid très vif
  12  Enfin vers 5<sup>H</sup> 1/2 \(2<sup>H</sup> de retard)/, train arrivé. Monté
  13  compartiment 2e cl, très confortable, mais
  14  y air brûlant, irrespirable.
@@ -3809,9 +3809,9 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  13  vers 9<sup>H</sup> 1/2, à pied j-à rue de Languedoc —
  14      Ville silencieuse. Maisons fermées. Je me
  15  sens complet<sup>t</sup> détaché de Toulouse. Partirai sans
- 16  regret, et pour n'y retourner jamais plus .
+ 16  regret, et pour n'y retourner jamais plus.
 
- 17  Trams : 30c. , 10c. , 20c , 30c.
+ 17  Trams : 30c., 10c., 20c, 30c.
  18  Food (boulangeon [?]) : 25c
  19  Remboursé à mes voisines : 3<sup>f</sup> 75 [?]
  20  (12 œufs, 1/2 beurre, 1 boulangeon [?])
@@ -3823,7 +3823,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 <pre>
   1  2 <ins>Vendredi</ins>.
-  2  Tjours même temps, très froid. —      Février 1917 —
+  2  Tjours même temps, très froid. —      <ins>Février 1917</ins> —
   3  Neige abondamment durant matinee
   4  Matin & soir, venu chz dentiste, M. de Lersay,
   5  rue La [?] Fayette. Très bien soigné par j. dame,
@@ -3881,7 +3881,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Toulouse (Haute-Garonne) ; Béziers et Bédarieux (Hérault) ; Millau (Aveyron)*
 
 <pre>
-  1  <ins>Sam. 3</ins> —      <ins>Fev. 17</ins>
+  1  <ins>Sam. 3</ins> —      <ins>Fev. '17</ins>
   2  – Dentiste M. de Lersay, 1 grand nettoyage
   3  et 3 plombages : 40 [?]<sup>f</sup> — net : 25 —
   4  – Broche A.P.C : 3<sup>f</sup>
@@ -3956,7 +3956,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Millau (Aveyron) ; Saint-Flour (Cantal)*
 
 <pre>
-  1  <ins>Lundi 5</ins>      <ins>Fév 17</ins>
+  1  <ins>Lundi 5</ins>      <ins>Fév '17</ins>
   2  Sur pied 6<sup>h</sup> –
   3  Me suis complu rever g<sup>de</sup> chambre
   4  après, dejeuner, sorti av Mte et ts 2
@@ -4011,7 +4011,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Corbeil-Essonnes (Essonne) ; Paris*
 
 <pre>
-  1  <ins>mardi 6</ins> (suite)      <ins>Fev. 17</ins>
+  1  <ins>mardi 6</ins> (suite)      <ins>Fev. '17</ins>
   2  A mesure que ns remontons vers Paris bp
   3  moins de neige. Sol durci par fortes gelees.
   4  Après-midi, soleil brillé un peu. Rayons de +
@@ -4035,7 +4035,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Amiens, Doullens, Louvencourt et Acheux-en-Amiénois (Somme)*
 
 <pre>
-  1  <ins>Merc. 7</ins> –      <ins>Février 1917</ins>
+  1  <ins>merc. 7</ins> –      <ins>Février 1917</ins>
   2  Voyagé compartiment surchauffé. Très serré.
   3  Impossible de fermer yeux. Froid de +
   4  en + vif. gelé très dur.
@@ -4068,11 +4068,11 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   2      En me rendant à notre office,
   3  Mme Delille, qui au guichet, m'a appelé et
   4  m'a appris que Cap. Williams, quitté Acheux
-  5  pour <del>[illis.]</del>Hérissart Venu aussitot Mission
+  5  pour <del>[illis.]</del> Hérissart Venu aussitot Mission
   6  française, où trouvé un mot du cap W<sup>m</sup>
   7  Lui ai telephoné du bureau Mission pour lui
   8  annoncer mon arrivée
-  9  Rentré chz les Carluvant, auxquels annoncé m[lacune]
+  9  Rentré chz les Carluvant [?], auxquels annoncé m[lacune]
  10  Atterrés. Fait en hâte mes paquets. Attendu
  11  l'auto, qui arrivée vers 4 [sur [illis.]]<sup>h</sup> 1/2
  12  Quitte village d'Acheux et surtout maison
@@ -4102,7 +4102,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   7  Diner à Paris, metro : 15 c.
   8  Amiens, Y.M.C.A : 1<sup>f</sup> 15 c
   9  Touché solde Mission fr<sup>se</sup>, Acheux : 78<sup>f</sup>75
- 10  Gift aux Carluvant, pour
+ 10  Gift aux Carluvant [?], pour
  11              mon lunch : 5 f.
  12                  et varia
      ————————————
@@ -4159,7 +4159,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   9  pour acheter paille & foin.
 
  10  <ins>Sam. 10</ins>.
- 11          Sur pied dès 7<sup>h</sup>.
+ 11          Sur pied dès [?] 7<sup>h</sup>.
  12  Dû sortir aussitôt pour aller aux L<sup>ns</sup> [?] de M.T.,
  13  at the end of the road.
  14  nuit & matinée, froid vif. très penetrant
@@ -4244,7 +4244,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   8  Et ces villages où vecu jadis [?] bien vide & triste.
   9  ciel mort. Des champs couverts de neige, s'élevait
  10  \une/ buée grise.
- 11      En approchant de Hérissart, v. [?] nombreux
+ 11      En approchant de Herissart, v. [?] nombreux
  12  moulins à vent, détachant leur ailes squelettiques
  13  sur ciel gris
  14      après-midi, liberté
@@ -4252,14 +4252,14 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  16  & rangé affaires ds mon sac.
  17  Degel très rapide. Croute de glace tombant
  18  des toits.
- 19      Parcouru 1 peu village d'Hérissart. Semble
+ 19      Parcouru 1 peu village d'Herissart. Semble
  20  inhabité. Rues en pente. Silence funebre
 
  21  5 vues d'Amiens, cathle, achetées pour moi :
  22  2<sup>f</sup>50
 </pre>
 
-## f. 77 r° — Mardi 13 et mercredi 14 février 1917
+## f. 77 r° — Mardi 13 – mercredi 14 février 1917
 
 *Hérissart, Puchevillers, Authie et Acheux-en-Amiénois (Somme) ; Couin (Pas-de-Calais)*
 
@@ -4338,7 +4338,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  11  Dégel continue, très rapide
  12  Routes, de nouveau transformées en
  13  fondrières. On patauge ds boue liquide
- 14  tempérre, bien adoucie. Puis enfin rester ds
+ 14  Tempér<sup>re</sup>, bien adoucie. Puis enfin rester ds
  15  ma chambre, quoique sans feu
  16      Jour entier de liberté
  17  Matin, à Toutencourt, mission fr<sup>se</sup> V armée.
@@ -4381,13 +4381,13 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  22  pour trouver paille & foin. Route abst
  23  boueuse & impraticable
  24      Après-midi, liberté
- 25  A Albertine ( à Hérissart : 1 70 blanchissage
+ 25  A Albertine ( à Herissart : 1 70 blanchissage
  26      et pour service chambre ; en tout : 2 fr
 </pre>
 
 ## f. 79 r° — Mercredi 21 – vendredi 23 février 1917
 
-*Hérissart, Doullens et Molliens-au-Bois (Somme) ; Auxi-le-Château (Pas-de-Calais)*
+*Hérissart, Doullens, Puchevillers et Molliens-au-Bois (Somme) ; Auxi-le-Château (Pas-de-Calais)*
 
 <pre>
   1  <ins>21 Merc.</ins> Temps nuageux      <ins>Février 1917</ins>
@@ -4429,7 +4429,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 <pre>
   1  24 <ins>Samedi</ins>      <ins>Fév- 1917</ins>
-  2  Journée entière, inoccupé.
+  2      Journée entière, inoccupé.
   3  Après-midi, Courte promenade s/ route
   4  de Contay. Temps brumeux. Route très
   5  boueuse Arrivé jusqu'au moulin –
@@ -4514,7 +4514,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 81 r° — Samedi 3 – lundi 5 mars 1917
 
-*Hérissart, Rubempré, Puchevillers et Toutencourt (Somme)*
+*Hérissart, Rubempré, Puchevillers, Toutencourt, Montigny-sur-l'Hallue et Fréchencourt (Somme)*
 
 <pre>
   1  3 <ins>Sam.</ins>      — <ins>Mars 1917</ins> —
@@ -4651,7 +4651,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   1  <ins>Dim. 11.</ins>      — <ins>Mars 1917</ins> —
   2      Levé 6<sup>H</sup>1/2 m.
   3  Bientot terminé ts mes paquets
-  4  Temps extt doux. Soleil pale tiédit l'air
+  4  Temps extt doux. Soleil pale tiédit l'air [?]
   5  Maintenant, quitterai [?] sans regrets ce petit
   6  village & Purchase Board.
   7  Après breakfast, 9<sup>H</sup> m. , parti en [?]. auto pour
@@ -4677,7 +4677,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 83 v° — Dimanche 11 mars 1917 (fin) – lundi 12 mars 1917
 
-*Hérissart, Toutencourt, Contay, Beaucourt-sur-l'Hallue ?, Puchevillers et Candas (Somme)*
+*Hérissart, Toutencourt, Contay, Beaucourt-sur-l'Hallue ?, Molliens-au-Bois, Puchevillers, Raincheval et Candas (Somme)*
 
 <pre>
   1  D<ins>im. 11 (</ins>Fin)      Mar<ins>s 191</ins>7
@@ -4705,7 +4705,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 84 r° — Mardi 13 – jeudi 15 mars 1917
 
-*Hérissart, Mesnil-Martinsart, Puchevillers, Acheux-en-Amiénois et Bertrancourt (Somme)*
+*Hérissart, Mesnil-Martinsart, Puchevillers, Acheux-en-Amiénois et Bertrancourt ? (Somme)*
 
 <pre>
   1  <ins>Mardi 13 –</ins>      <ins>Mars 1917 –</ins>
@@ -4737,7 +4737,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 84 v° — Vendredi 16 – samedi 17 mars 1917
 
-*Hérissart, Contay, Warloy-Baillon, Albert, Ribemont-sur-Ancre et Puchevillers (Somme)*
+*Hérissart, Mirvaux, Pierregot, Contay, Warloy-Baillon, Senlis-le-Sec, Albert, Ribemont-sur-Ancre, Toutencourt et Puchevillers (Somme)*
 
 <pre>
   1  Ven. <ins>16</ins>      — <ins>Mars 1917</ins> —
@@ -4802,7 +4802,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 85 v° — Mardi 20 – jeudi 22 mars 1917
 
-*Hérissart, Puchevillers, Contay, Warloy-Baillon, Senlis-le-Sec et Albert (Somme)*
+*Hérissart, Puchevillers, Belle-Église (Arquèves), Contay, Warloy-Baillon, Senlis-le-Sec, Mirvaux, Pierregot, Molliens-au-Bois et Albert (Somme)*
 
 <pre>
   1  <ins>20 Mardi</ins>      <ins>Mars 1917</ins> —
@@ -4816,7 +4816,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   8      Nuit très froide Tout le jour, ciel couvert,
   9  pluie fine & neige, par intermittence —
  10      Matin, course en auto à Puchevillers et
- 11  Arqueves, Belle Eglise Farm, M. Houtteman —
+ 11  Arqueves, Belle Eglise Farm, M. Houtteman [?] —
  12      Après-midi, par Contay & Warloy,
  13  venus à Senlis. Routes encombrées par troupes
  14  moving. Admiré cavrie indienne & anglaise
@@ -4837,7 +4837,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 <pre>
   1  <ins>23 Ven.</ins>      — <ins>Mars 1917</ins> —
-  2  nuit gelé très fort
+  2  nuit gelé [?] très fort
   3  Vitres fenêtre, couvertes de glace
   4  Sol durci.    Froid très vif
   5  très beau ciel bleu, tout ensoleillé. Chants d'oiseaux
@@ -4895,7 +4895,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 87 r° — Jeudi 29 – samedi 31 mars 1917
 
-*Hérissart, Puchevillers, Rubempré, Molliens-au-Bois et Rainneville (Somme)*
+*Hérissart, Puchevillers, Rubempré, Pierregot, Molliens-au-Bois, Toutencourt et Rainneville (Somme)*
 
 <pre>
   1  29 <ins>Jeudi</ins>      — <ins>Mars 1917</ins> —
@@ -4929,7 +4929,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 87 v° — Dimanche 1er – mardi 3 avril 1917
 
-*Hérissart, Belle-Église (Arquèves), Pierregot, Rainneville et Toutencourt (Somme)*
+*Hérissart, Belle-Église (Arquèves), Pierregot, Rainneville, Toutencourt et Rubempré (Somme)*
 
 <pre>
   1  <ins>1<sup>er</sup> Dim</ins>. (Rameaux)      Avril <ins>1917</ins>
@@ -4963,7 +4963,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 88 r° — Mercredi 4 – jeudi 5 avril 1917 (Jeudi saint)
 
-*Hérissart, Toutencourt, Acheux-en-Amiénois, Contay et Warloy-Baillon (Somme)*
+*Hérissart, Toutencourt, Acheux-en-Amiénois, Contay, Warloy-Baillon et Varennes (Somme)*
 
 <pre>
   1  — <ins>Avril 1917</ins> —
@@ -4989,7 +4989,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  19      Nuit merv<sup>se</sup>. Pleine lune, magnifique —
 </pre>
 
-## f. 88 v° — Vendredi 6 avril 1917 – samedi 7 avril 1917
+## f. 88 v° — Vendredi 6 – samedi 7 avril 1917
 
 *Hérissart, Toutencourt, Rubempré, Contay et Acheux-en-Amiénois (Somme)*
 
@@ -5023,7 +5023,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 89 r° — Dimanche 8 – mardi 10 avril 1917 (Pâques)
 
-*Hérissart, Toutencourt, Harponville, Beauquesne et Fréchencourt (Somme)*
+*Hérissart, Toutencourt, Harponville, Rubempré, Beauquesne, Pierregot, Belle-Église (Arquèves), Fréchencourt et Contay (Somme)*
 
 <pre>
   1  <ins>Paque – 8 –</ins>      <ins>Avril 1917</ins>
@@ -5120,7 +5120,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 90 v° — Mercredi 18 – vendredi 20 avril 1917
 
-*Hérissart, Bresle, Laviéville, Hénencourt, Albert et Buire-sur-l'Ancre (Somme)*
+*Hérissart, Bresle, Laviéville, Hénencourt, Warloy-Baillon, Contay, Rubempré, Senlis-le-Sec, Albert, Buire-sur-l'Ancre et Ribemont-sur-Ancre (Somme)*
 
 <pre>
   1  <ins>18 merc</ins>      — Avril <ins>1917</ins> —
@@ -5150,7 +5150,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 91 r° — Samedi 21 – dimanche 22 avril 1917
 
-*Hérissart, Toutencourt, Buire-sur-l'Ancre, Albert, Millencourt et Pierregot (Somme)*
+*Hérissart, Toutencourt, Buire-sur-l'Ancre, Albert, Millencourt, Contay, Molliens-au-Bois et Pierregot (Somme)*
 
 <pre>
   1  21 <ins>Samedi</ins>–.
@@ -5186,7 +5186,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 91 v° — Lundi 23 – mercredi 25 avril 1917
 
-*Hérissart, Toutencourt, Pierregot, Acheux-en-Amiénois et Mirvaux (Somme)*
+*Hérissart, Toutencourt, Pierregot, Acheux-en-Amiénois, Puchevillers et Mirvaux (Somme)*
 
 <pre>
   1  23 <ins>Lundi</ins>      <ins>Avril 1917</ins>
@@ -5219,7 +5219,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 92 r° — Jeudi 26 – vendredi 27 avril 1917
 
-*Hérissart, Contay, Puchevillers, Pierregot, Varennes et Rubempré (Somme)*
+*Hérissart, Contay, Puchevillers, Harponville, Pierregot, Varennes et Rubempré (Somme)*
 
 <pre>
   1  <ins>26 jeudi</ins>      — <ins>Avril 1917</ins> —

@@ -7,7 +7,7 @@ titre: 'En camion à Albert : Mission française, basilique ravagée, rues vides
 transcription: |
   \sl{merc – 18} \hfill \sl{oct /16}
   \ind[2] Dormi mess-tent – à l'autre extrémité
-  les 2 cooks. — Allongé sur 1 fauteuil de jardin !
+  les 2 cooks. — Allongé sur 1 fauteuil de jardin !,
   nuit très froide –
   après breakfast. eu a lift s/ 1 lorry chargé
   d'obus et venu à Albert. Mission frsé.
@@ -20,18 +20,6 @@ transcription: |
   Fin journée, resté en dehors de mon abri. Assis sur
   1 caisse, regardé à loisir camp & au-delà route
 apparat:
-- ligne: 1
-  lemme: merc
-  type: abreviation
-  note: mercredi
-- ligne: 1
-  lemme: oct /16
-  type: abreviation
-  note: octobre 1916
-- ligne: 2
-  lemme: mess-tent
-  type: emprunt
-  note: tente du mess (popote des officiers)
 - ligne: 3
   lemme: cooks
   type: emprunt
@@ -40,17 +28,13 @@ apparat:
   lemme: eu a lift
   type: emprunt
   note: 'a lift : place offerte dans un véhicule ; « eu a lift » : été pris à bord'
-- ligne: 6
-  lemme: frsé
-  type: abreviation
-  note: française
 - ligne: 11
   lemme: de =
   type: abreviation
   note: de même
 critique: Page écrite en travers ; la dernière phrase se poursuit f.~40~r\textsuperscript{o}.
 historique: |
-  Albert comptait avant la guerre 6~742 habitants et 1~105 maisons (OH 1916-I, p.~247). Bombardée depuis le 29 septembre 1914 (Michelin 1919, p.~31--35), la ville est la tête de la route de Bapaume. La 18th Division y a ouvert le 14 octobre un QG avancé (JMO 7/Bedf, 14 oct. 1916). Hippolyte Combes fréquentera le bureau de la Mission française d'Albert jusqu'au début de novembre. La basilique Notre-Dame de Brebières, construite de 1885 à 1897 sur les plans d'Edmond Duthoit (Mérimée PA80000002), a été crevée par les obus en janvier 1915 (diocèse d'Amiens) ; sur sa Vierge penchée, voir f.~42~r\textsuperscript{o}. Monter sur un camion de passage, interdit en principe mais toléré, s'appelait le \textit{lorry hopping} (Fraser et Gibbons 1925, s.v.).
+  Albert comptait avant la guerre 6~742~habitants et 1~105 maisons (OH~\mbox{1916-I}, p.~247). Bombardée depuis le 29~septembre 1914 (Michelin 1919, p.~31--35), la ville est la tête de la route de Bapaume. La 18\textsuperscript{th} Division y a ouvert le 14~octobre un QG avancé (JMO~7/Bedf, 14~oct. 1916). Hippolyte Combes fréquentera le bureau de la Mission française d'Albert jusqu'au début de novembre. La basilique Notre-Dame de Brebières, construite de 1885 à 1897 sur les plans d'Edmond Duthoit (Mérimée PA80000002), a été crevée par les obus en janvier 1915 (diocèse d'Amiens) ; sur sa Vierge penchée, voir f.~42~r\textsuperscript{o}. Monter sur un camion de passage, interdit en principe mais toléré, s'appelait le \textit{lorry hopping} (Fraser et Gibbons 1925, s.v.).
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 247.
 - Michelin, The Somme, vol. 1, The First Battle of the Somme (1916-1917), Clermont-Ferrand, Michelin, 1919, p. 31-35.

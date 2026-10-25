@@ -1,6 +1,6 @@
 cliche: 43
 fichier: 20251126_094654.jpg
-date: Jeudi 14 et vendredi 15 septembre 1916
+date: Jeudi 14 – vendredi 15 septembre 1916
 mois: Septembre 1916
 lieux: Raincheval et Acheux-en-Amiénois (Somme)
 titre: 'Acheux : bureau de la Mission dans le parc du château ; cantine de Raincheval'
@@ -30,18 +30,10 @@ transcription: |
   \ind — Canteen station de Raincheval :
   \ind[2] \inc{Cananda} In Flanders . – . 1^{f} 25 —
 apparat:
-- ligne: 1
-  lemme: Sept^{r} /16
-  type: abreviation
-  note: septembre 1916
 - ligne: 7
-  lemme: Lereux
+  lemme: \inc{Lereux}
   type: lecture
   note: 'nom non identifié ; autres lectures : Lereus, Lerens'
-- ligne: 10
-  lemme: Ctes ples
-  type: abreviation
-  note: cartes postales
 - ligne: 11
   lemme: to a batman for saddling up my pony
   type: emprunt
@@ -59,16 +51,16 @@ apparat:
   type: emprunt
   note: cantine de la gare
 - ligne: 20
-  lemme: Cananda
+  lemme: \inc{Cananda}
   type: lecture
   note: pour Canada ; un n de trop
 - ligne: 20
   lemme: In Flanders
   type: emprunt
   note: en Flandre ; Canada in Flanders, de Max Aitken (1916)
-critique: Aucune entrée pour le samedi 16 septembre ; la page suivante passe au dimanche 17.
+critique: Aucune entrée pour le samedi 16~septembre ; la page suivante passe au dimanche 17.
 historique: |
-  Acheux abrite le QG de la 18th Division jusqu'au 25 (Nichols 1922, p. 79 ; voir f. 23 r\textsuperscript{o}). Le bureau de la Mission y réunit les interprètes de la division (\textit{Blackwood's Magazine}, juin 1917, p. 940 ; voir f. 23 v\textsuperscript{o}). La « station » est sans doute la gare Raincheval-Arquèves de la ligne métrique Albert–Doullens (CFD Somme). Le 15 s'ouvre la bataille de Flers-Courcelette, où la 2nd Canadian Division prend Courcelette (CWGC) ; la 54th Brigade, exercée aux grenades depuis le 12, doit être prête à partir dans les six heures (JMO 7/Bedf, 12-15 sept. 1916). \textit{Canada in Flanders} est le vol. I (1916), vendu un shilling, environ 1,26 F (Aitken 1916 ; March 1925, p. 141).
+  Acheux abrite le QG de la 18\textsuperscript{th} Division jusqu'au 25 (Nichols 1922, p.~79 ; voir f.~23~r\textsuperscript{o}). Le bureau de la Mission y réunit les interprètes de la division (\textit{Blackwood's Magazine}, juin 1917, p.~940 ; voir f.~23~v\textsuperscript{o}). La « station » est sans doute la gare Raincheval-Arquèves de la ligne métrique Albert–Doullens (CFD Somme). Le 15 s'ouvre la bataille de Flers-Courcelette, où la 2\textsuperscript{nd} Canadian Division prend Courcelette (CWGC) ; la 54\textsuperscript{th} Brigade, exercée aux grenades depuis le 12, doit être prête à partir dans les six heures (JMO~7/Bedf, 12--15~sept. 1916). \textit{Canada in Flanders} est le vol.~I (1916), vendu un shilling, environ 1,26~F (Aitken 1916 ; March 1925, p.~141).
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 79.
 - Anonyme (« A Divisional Claims Officer »), « Claims », Blackwood's Magazine, vol. 201, n° 1220, juin 1917, p. 933-941.

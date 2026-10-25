@@ -27,10 +27,6 @@ transcription: |
   gosses, coqueluche — maison très mal
   tenue, sale, moisie – quelle torture!
 apparat:
-- ligne: 1
-  lemme: Aout/16
-  type: abreviation
-  note: août 1916
 - ligne: 3
   lemme: ax
   type: graphie
@@ -47,16 +43,12 @@ apparat:
   lemme: de – – à
   type: signe
   note: tirets à la place d'un nom laissé en blanc
-- ligne: 18
-  lemme: l.
-  type: abreviation
-  note: laquelle (la route)
 - ligne: 19
   lemme: install°
   type: abreviation
   note: installation
 historique: |
-  Bailleul-aux-Cornailles est à 2 km à vol d'oiseau de Marquay, dans la zone de cantonnement de la 54th Brigade (voir f. 14 v\textsuperscript{o}). Le journal des Bedfords note aussi la pluie : « \textit{Very heavy rain interfered with training} » (JMO 7/Bedf, 26 août 1916). La « chambrette » est un \textit{billet} chez l'habitant. L'interprète cherche d'ordinaire ces logements ; en application de la loi du 3 juillet 1877 sur les réquisitions, le logeur reçoit 1 F par nuit pour un lit d'officier et 20 c pour un lit de soldat (Fernand-Laurent 1917, p. 225-234). Hippolyte Combes garde ce logement jusqu'au départ de la brigade, le 9 septembre (voir f. 19 r\textsuperscript{o}).
+  Bailleul-aux-Cornailles est à 2~km à vol d'oiseau de Marquay, dans la zone de cantonnement de la 54\textsuperscript{th} Brigade (voir f.~14~v\textsuperscript{o}). Le journal des Bedfords note aussi la pluie : « \textit{Very heavy rain interfered with training} » (JMO~7/Bedf, 26~août 1916). La « chambrette » est un \textit{billet} chez l'habitant. L'interprète cherche d'ordinaire ces logements ; en application de la loi du 3~juillet 1877 sur les réquisitions, le logeur reçoit 1~F par nuit pour un lit d'officier et 20~c pour un lit de soldat (Fernand-Laurent 1917, p.~225--234). Hippolyte Combes garde ce logement jusqu'au départ de la brigade, le 9~septembre (voir f.~20~r\textsuperscript{o}).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916, ordre d''opérations n° 26 du 23 août et journal du 26 août (transcription en ligne).'
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 225-234.

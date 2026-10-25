@@ -2,7 +2,7 @@ cliche: 111
 fichier: 20251126_105125.jpg
 date: Vendredi 15 et lundi 18 décembre 1916
 mois: Décembre 1916
-lieux: Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval et Puchevillers (Somme)
+lieux: Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval, Toutencourt et Puchevillers (Somme)
 titre: Boue ; courses de Belle-Église au Quesnoy ; un capitaine « présomptueux & vain »
 transcription: |
   \sl{15 Vendr} – \hfill Déc.^{b} \sl{1916}
@@ -35,18 +35,10 @@ apparat:
   lemme: Vendr
   type: abreviation
   note: vendredi
-- ligne: 1
-  lemme: Déc.^{b}
-  type: abreviation
-  note: décembre (b suscrit pour la finale -bre)
 - ligne: 3
-  lemme: ruisseaux
+  lemme: \inc{ruisseaux}
   type: lecture
   note: 'lecture incertaine ; autres lectures : rugueux, visqueux'
-- ligne: 8
-  lemme: L.
-  type: abreviation
-  note: lundi
 - ligne: 8
   lemme: Aujd'hui
   type: abreviation
@@ -63,16 +55,8 @@ apparat:
   lemme: c.
   type: abreviation
   note: certains
-- ligne: 21
-  lemme: 1 cap.
-  type: abreviation
-  note: un capitaine
-- ligne: 23
-  lemme: 25c
-  type: abreviation
-  note: 25 centimes
-critique: Les 16 et 17 décembre ne sont pas notés. La page se poursuit au f.~56~r\textsuperscript{o}.
+critique: Les 16 et 17~décembre ne sont pas notés.
 historique: |
-  Le 18, et sans doute le dimanche 17 (« come hier »), Hippolyte Combes suit le circuit des achats de paille : Belle-Église et Arquèves, où l'on bat la paille depuis le 8 (voir f.~54~r\textsuperscript{o}) ; Raincheval, siège de l'\textit{Army Purchase Board} (voir f.~46~r\textsuperscript{o}). La « ferme du Quesnoy », souvent revue jusqu'en janvier 1917, est sans doute le lieu-dit le Quesnoy, à Puchevillers (IGN). Le « cap. de 20 ans » est le capitaine Williams, arrivé le 2 décembre (voir f.~52~v\textsuperscript{o}), ancien \textit{office boy} (f.~53~v\textsuperscript{o}). Le 4, Hippolyte Combes le trouvait « de + en + sympathique » (f.~53~r\textsuperscript{o}) ; voir l'incident du 24 (f.~56~v\textsuperscript{o}).
+  Le 18, et sans doute le dimanche 17 (« come hier »), Hippolyte Combes suit le circuit des achats de paille : Belle-Église et Arquèves, où l'on bat la paille depuis le 8 (voir f.~54~r\textsuperscript{o}) ; Raincheval, siège de l'\textit{Army Purchase Board} (voir f.~46~r\textsuperscript{o}). La « ferme du Quesnoy », souvent revue jusqu'en janvier 1917, est sans doute le lieu-dit le Quesnoy, à Puchevillers (IGN). Le « cap. de 20 ans » est le capitaine Williams, arrivé le 2~décembre (voir f.~52~v\textsuperscript{o}), ancien \textit{office boy} (f.~53~v\textsuperscript{o}). Le 4, Hippolyte Combes le trouvait « de + en + sympathique » (f.~53~r\textsuperscript{o}) ; voir l'incident du 24 (f.~56~v\textsuperscript{o}).
 sources:
 - 'IGN, Géoplateforme, service de géocodage, index des points d''intérêt : « le Quesnoy », lieu-dit habité, Puchevillers (data.geopf.fr, consulté le 18 oct. 2026).'

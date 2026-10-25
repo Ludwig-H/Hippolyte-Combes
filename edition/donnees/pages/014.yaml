@@ -5,7 +5,7 @@ mois: Août 1916
 lieux: La Croix-du-Bac (Steenwerck, Nord)
 titre: Billets avec Curtis ; la compagnie a déménagé ; chambre au-dessus de la poste
 transcription: |
-  \sl{Lundi 7 –} \hfill Aout 1916
+  \sl{Lundi 7 –} \hfill Aout \sl{1916}
   \ind Chaleur accablante
   Toute matinee, avec cet idiot de C^{tis}, cherché
   nouvx billets et messroom pour mes offs
@@ -26,10 +26,6 @@ transcription: |
   \ind Oeufs & lait : 75 c \hfill (2 days)
   \ind 1 litre bière : 30c
 apparat:
-- ligne: 3
-  lemme: C^{tis}
-  type: abreviation
-  note: Curtis (lieutenant britannique)
 - ligne: 4
   lemme: nouvx
   type: abreviation
@@ -41,7 +37,7 @@ apparat:
 - ligne: 5
   lemme: \addm{\ill}
   type: lecture
-  note: signe illisible en marge ; peut-être « tr. » (très), ou pâté
+  note: signe illisible ajouté en marge ; peut-être « tr. » (très), ou pâté
 - ligne: 8
   lemme: \inc{Barning}
   type: lecture
@@ -50,10 +46,6 @@ apparat:
   lemme: shifté
   type: emprunt
   note: changé de cantonnement (angl. to shift) ; sans auxiliaire
-- ligne: 9
-  lemme: 9^{H}
-  type: abreviation
-  note: 9 heures
 - ligne: 9
   lemme: Damn !
   type: emprunt
@@ -73,8 +65,8 @@ apparat:
 - ligne: 17
   lemme: (2 days)
   type: emprunt
-  note: pour deux jours ; écrit à droite, sous « cooking »
+  note: pour deux jours
 historique: |
-  La compagnie change de cantonnement le matin qui suit la relève des Néo-Zélandais par la 54th Brigade, dans la nuit du 6 au 7 août (voir f. 6 r\textsuperscript{o}). Trouver des \textit{billets} et un \textit{messroom} est la tâche ordinaire de l'interprète : le détachement de cantonnement se compose « d'un officier, de l'interprète et de deux caporaux », et l'habitant reçoit, d'après le décret de 1877, 1 F par nuit et par lit d'officier (Fernand-Laurent 1917, pp. 225-234). « Barning » n'est pas identifié. Le « Postoffice » peut être la poste civile ou un bureau de poste militaire britannique. Le « cooking » payé à la propriétaire est sans doute la cuisson des rations touchées à la compagnie.
+  La compagnie change de cantonnement le matin qui suit la relève des Néo-Zélandais par la 54\textsuperscript{th} Brigade, dans la nuit du 6 au 7~août (voir f.~6~r\textsuperscript{o}). Trouver des \textit{billets} et un \textit{messroom} est la tâche ordinaire de l'interprète : le détachement de cantonnement se compose « d'un officier, de l'interprète et de deux caporaux », et l'habitant reçoit, d'après le décret de 1877, 1~F par nuit et par lit d'officier (Fernand-Laurent 1917, p. 225--234). « Barning » n'est pas identifié. Le « Postoffice » peut être la poste civile ou un bureau de poste militaire britannique. Le « cooking » payé à la propriétaire est sans doute la cuisson des rations touchées à la compagnie.
 sources:
 - Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, pp. 225-234.

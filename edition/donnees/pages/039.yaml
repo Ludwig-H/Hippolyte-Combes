@@ -30,34 +30,14 @@ transcription: |
   — donné 3 f à M. \inc{Dupuich} à Marquay —
   & 1 tip au \inc{chevaux} —
 apparat:
-- ligne: 2
-  lemme: 9 H \fr{1}{2}
-  type: abreviation
-  note: neuf heures et demie
-- ligne: 6
-  lemme: St-Flochel
-  type: abreviation
-  note: Saint-Flochel (Ligny-Saint-Flochel)
 - ligne: 7
   lemme: trench mortar
   type: emprunt
-  note: 'trench mortar school (l. 7–8) : école de mortiers de tranchée'
-- ligne: 8
-  lemme: school
-  type: emprunt
-  note: école
+  note: 'trench mortar school (l.~7--8) : école de mortiers de tranchée'
 - ligne: 11
   lemme: \inc{Lots}
   type: lecture
   note: 'angl. lots of, « beaucoup de » ; autre lecture : Flots'
-- ligne: 12
-  lemme: 1^{H} s.
-  type: abreviation
-  note: une heure du soir
-- ligne: 12
-  lemme: 1ère
-  type: abreviation
-  note: première
 - ligne: 14
   lemme: \inc{entrée}
   type: lecture
@@ -71,10 +51,6 @@ apparat:
   type: lecture
   note: 'autre lecture : laitrie'
 - ligne: 23
-  lemme: 3 f
-  type: abreviation
-  note: trois francs
-- ligne: 23
   lemme: \inc{Dupuich}
   type: lecture
   note: 'autre lecture : Dupuis'
@@ -82,11 +58,11 @@ apparat:
   lemme: \inc{chevaux}
   type: lecture
   note: début du mot douteux
-critique: La dernière ligne, en partie rognée au bas du feuillet, a sans doute été ajoutée après coup.
 historique: |
-  La 54th Brigade gagne la zone de Moncheaux. Le 7th Bedfordshire, parti de La Thieuloye, passe par Marquay et Ligny-Saint-Flochel et atteint Ternas à 11 h 30 (JMO 7/Bedf, 9 sept. 1916). Le train marche en queue, comme la 152nd Company le lendemain (ibid., ordre n° 30) : Hippolyte Combes part donc après les troupes. Le plateau est celui de l'école de mortiers de tranchée de la Third Army (voir f. 17 r\textsuperscript{o}). Monts-en-Ternois est à 7,2 km de Marquay (OSM). Le capitaine Edward Maurice West, A.S.C., commande la 152nd Company (Nichols 1922, p. 110 ; TNA WO 339/21191), et encore en 1918 (Nichols 1922, p. 432) ; Hippolyte Combes sera admis au mess « à titre définitif » le 12 (voir f. 21 v\textsuperscript{o}). M. Dupuich est sans doute son logeur de Marquay.
+  La 54\textsuperscript{th} Brigade gagne la zone de Moncheaux. Le 7\textsuperscript{th} Bedfordshire, parti de La Thieuloye, passe par Marquay et Ligny-Saint-Flochel et atteint Ternas à 11~h~30 (JMO~7/Bedf, 9~sept. 1916). Le train marche en queue, comme la 152\textsuperscript{nd} Company le lendemain (ibid., ordre n\textsuperscript{o}~30) : Hippolyte Combes part donc après les troupes. Le plateau est celui de l'école de mortiers de tranchée de la Third Army (IWM Q~961). Monts-en-Ternois est à 7,2~km de Marquay (OSM). Le capitaine Edward Maurice West, A.S.C., commande la 152\textsuperscript{nd} Company (Nichols 1922, p.~110 ; TNA WO 339/21191), et encore en 1918 (Nichols 1922, p.~432) ; Hippolyte Combes sera admis au mess « à titre definitif » le 12 (voir f.~21~v\textsuperscript{o}). M. Dupuich (lecture incertaine) est sans doute son logeur de Marquay.
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916, avec les ordres d''opérations n° 29 et 30 (transcription en ligne).'
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 110 et 432.
+- 'Imperial War Museum, photographie Q 961 (Lt Ernest Brooks), 9 août 1916 : le roi à la Third Army Trench Mortar School de Ligny-Saint-Flochel.'
 - 'The National Archives (Kew), WO 339/21191 : Captain Edward Maurice West, Royal Army Service Corps, 1914-1919.'
 - OpenStreetMap / Nominatim (distances entre chefs-lieux).

@@ -3,7 +3,7 @@ fichier: 20251126_103554.jpg
 date: Mercredi 4 octobre 1916 (soir et nuit) ; comptes du 4 octobre, notés le 5
 mois: Octobre 1916
 lieux: Toulouse (Haute-Garonne) ; Paris
-titre: Adieux à Marguerite, nuit en train vers Paris ; comptes du 4 octobre
+titre: Adieux à Marguerite, nuit en train vers Paris ; comptes du 4~octobre
 transcription: |
   Mt & moi, tres – \hfill \sl{Mer. 4} \hfill \sl{Oct 16}
   émus. – .
@@ -29,26 +29,10 @@ apparat:
   lemme: Mt &
   type: lecture
   note: 'autre lecture : Mte'
-- ligne: 1
-  lemme: Mer. 4
-  type: abreviation
-  note: mercredi 4
-- ligne: 1
-  lemme: Oct 16
-  type: abreviation
-  note: octobre 1916
-- ligne: 3
-  lemme: 8^{H} s
-  type: abreviation
-  note: 8 heures du soir
-- ligne: 7
-  lemme: 40 c
-  type: abreviation
-  note: 40 centimes
-- ligne: 9
-  lemme: 30 c
-  type: abreviation
-  note: centimes
+- ligne: 8
+  lemme: 1^{f} 70
+  type: lecture
+  note: 'lecture incertaine ; autre lecture : 1^{f} 10'
 - ligne: 10
   lemme: 3^{e} cl.
   type: abreviation
@@ -61,9 +45,9 @@ apparat:
   lemme: Maria
   type: ajout
   note: sans doute ajouté après coup, dans une place réservée
-critique: 'Ordre des feuillets restitué : cette page (f.~32 r\textsuperscript{o}) continue le f.~31 v\textsuperscript{o} et précède le f.~32 v\textsuperscript{o}. Les comptes, introduits par « Hier », portent sur le 4 octobre et ont été écrits le 5.'
+critique: Les comptes, introduits par « Hier », portent sur le 4~octobre et ont été écrits le 5.
 historique: |
-  Le billet de 3\textsuperscript{e} classe pour Orsay coûte moins que celui de 2\textsuperscript{e} classe pris à l'aller, 15~F~15 au quart de place (voir f.~27 r\textsuperscript{o}) : il est sans doute aussi au quart de place des permissionnaires (Lafon 1922, p.~37). Les « images de S\textsuperscript{te} Thérèse » sont peut-être celles de Thérèse de l'Enfant-Jésus, carmélite de Lisieux, béatifiée seulement en 1923, dont les images circulent parmi les soldats (Archives du Carmel de Lisieux) ; ou celles de Thérèse d'Ávila, fêtée le 15 octobre. Les deux saintes renvoient au Carmel, où Françoise, sœur aînée d'Hippolyte Combes, est religieuse à Périgueux (tradition familiale).
+  Le billet de 3\textsuperscript{e} classe pour Orsay coûte moins que celui de 2\textsuperscript{e} classe pris à l'aller, 15~F au quart de place (voir f.~27~r\textsuperscript{o}) : il est sans doute aussi au quart de place des permissionnaires (Lafon 1922, p.~37). Les « images de S\textsuperscript{te} Thérèse » sont peut-être celles de Thérèse de l'Enfant-Jésus, carmélite de Lisieux, béatifiée seulement en 1923, dont les images circulent parmi les soldats (Archives du Carmel de Lisieux) ; ou celles de Thérèse d'Ávila, fêtée le 15~octobre. Les deux saintes renvoient au Carmel, où Françoise, sœur aînée d'Hippolyte Combes, est religieuse à Périgueux (tradition familiale).
 sources:
 - Lafon, G., Les Chemins de fer français pendant la guerre, thèse de droit, Paris, A. Rousseau, 1922, p. 37.
 - Archives du Carmel de Lisieux, « Supplique des soldats envoyée au pape pour la béatification de Thérèse », archives.carmeldelisieux.fr, consulté le 18 oct. 2026.

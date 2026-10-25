@@ -7,7 +7,7 @@ titre: Montaudran, clocher et cinq cloches ; serments au cimetière de Terre-Cab
 transcription: |
   \sl{30 Samedi.} \hfill \sl{Septb /16}
   \ind Tout le jour, temps \inc{pluvx}. Fine ondée qui dure peu
-  Matin – venu voi Mme de Labarthe, au 12.. \inc{A}
+  Matin – venu voir Mme de Labarthe, au 12.. \inc{A}
   pour cette amie, attachemt profond.. –
   Monté à Ste Marie vers 11^{H} \fr{1}{2} –
   Dans petit salon, qq minutes de tête à-tête \inc{delicieux}
@@ -34,32 +34,20 @@ transcription: |
   \filet
   Tram : 20c. – Sweets & cakes : 3f – Bière & \add{limonade} 0.80c.
 apparat:
-- ligne: 1
-  lemme: Septb /16
-  type: abreviation
-  note: septembre 1916
 - ligne: 2
-  lemme: pluvx
+  lemme: \inc{pluvx}
   type: lecture
   note: lecture incertaine ; pluvieux
 - ligne: 3
-  lemme: voi
-  type: graphie
-  note: pour voir
-- ligne: 3
-  lemme: A
+  lemme: \inc{A}
   type: lecture
   note: 'lecture incertaine ; on attend « Ai » ; autre lecture : &'
 - ligne: 4
   lemme: attachemt
   type: abreviation
   note: attachement
-- ligne: 5
-  lemme: Ste
-  type: abreviation
-  note: Sainte
 - ligne: 6
-  lemme: delicieux
+  lemme: \inc{delicieux}
   type: lecture
   note: 'lecture incertaine ; autre lecture : délicis'
 - ligne: 17
@@ -71,7 +59,7 @@ apparat:
   type: graphie
   note: le second élément ressemble à « Corbade »
 - ligne: 21
-  lemme: Venus
+  lemme: \inc{Venus}
   type: lecture
   note: lecture incertaine ; s final accordé avec « Margte & moi »
 - ligne: 21
@@ -87,10 +75,6 @@ apparat:
   type: abreviation
   note: profondément
 - ligne: 27
-  lemme: 20c.
-  type: abreviation
-  note: vingt centimes
-- ligne: 27
   lemme: Sweets
   type: emprunt
   note: confiseries
@@ -98,16 +82,8 @@ apparat:
   lemme: cakes
   type: emprunt
   note: gâteaux
-- ligne: 27
-  lemme: 3f
-  type: abreviation
-  note: trois francs
-- ligne: 27
-  lemme: 0.80c.
-  type: abreviation
-  note: quatre-vingts centimes
 historique: |
-  Sur Mme de Labarthe, voir f.~28 v\textsuperscript{o}. Montaudran est voisin de la Côte-Pavée (voir f.~27 v\textsuperscript{o}). À Terre-Cabade, le tombeau d'Aristide Bergès, « en forme de temple antique », est peut-être celui que décrit Hippolyte Combes (Wikipédia). Le capucin Marie-Antoine, mort en février 1907, y fut porté (\textit{L'Express du Midi}, 11 févr. 1907, p.~2). « Josèphe » est Joséphine Combes, sœur aînée d'Hippolyte, morte en octobre 1914 selon la tradition familiale. Le « grand ami » est très probablement le P. Alfred d'Adhémar de Cransac, supérieur des jésuites de Toulouse en 1912 (\textit{Le Télégramme}, 23 nov. 1912, p.~3), mort le 16 septembre 1914 (\textit{L'Express du Midi}, 18 sept. 1914, p.~2), dont la photographie fut épinglée sur la robe mortuaire de Joséphine (PC-Bio) ; son inhumation au caveau des jésuites reste une hypothèse.
+  Sur M\textsuperscript{me} de Labarthe, voir f.~28~v\textsuperscript{o}. Montaudran est voisin de la Côte-Pavée (voir f.~27~v\textsuperscript{o}). À Terre-Cabade, le tombeau d'Aristide Bergès, « en forme de temple antique », est peut-être celui que décrit Hippolyte Combes (Wikipédia). Le capucin Marie-Antoine, mort en février 1907, y fut porté (\textit{L'Express du Midi}, 11~févr. 1907, p.~2). « Josèphe » est Joséphine Combes, sœur aînée d'Hippolyte, morte en octobre 1914 selon la tradition familiale. Le « grand ami » est très probablement le P. Alfred d'Adhémar de Cransac, supérieur des jésuites de Toulouse en 1912 (\textit{Le Télégramme}, 23~nov. 1912, p.~3), mort le 16~septembre 1914 (\textit{L'Express du Midi}, 18~sept. 1914, p.~2), dont la photographie fut épinglée sur la robe mortuaire de Joséphine (\mbox{PC-Bio}) ; son inhumation au caveau des jésuites reste une hypothèse.
 sources:
 - Wikipédia, art. « Montaudran » et « Cimetière de Terre-Cabade », consultés le 18 oct. 2026.
 - L'Express du Midi (Toulouse), 11 févr. 1907, p. 2 (obsèques du P. Marie-Antoine) (Rosalis, ark:/12148/bpt6k53687164).

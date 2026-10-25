@@ -32,26 +32,14 @@ transcription: |
   longt en fr\inc{ç} \trait \hfill Nuit très belle,
   \droite (magnif^{t} étoilée
 apparat:
-- ligne: 1
-  lemme: Nov /16
-  type: abreviation
-  note: novembre 1916
 - ligne: 2
   lemme: Auj'hui
   type: abreviation
   note: aujourd'hui (sans d médian)
-- ligne: 2
-  lemme: + encore
-  type: abreviation
-  note: plus encore
 - ligne: 5
   lemme: \fr{1}{2} jambe
   type: abreviation
   note: mi-jambe
-- ligne: 9
-  lemme: + de
-  type: abreviation
-  note: plus de
 - ligne: 9
   lemme: '28'
   type: lecture
@@ -63,7 +51,7 @@ apparat:
 - ligne: 10
   lemme: \inc{fille}
   type: lecture
-  note: 'autre lecture : ville'
+  note: 'écrit sous la ligne ; autre lecture : ville'
 - ligne: 10
   lemme: Plusrs
   type: abreviation
@@ -101,9 +89,9 @@ apparat:
   type: abreviation
   note: magnifiquement
 critique: |
-  Le vendredi 24 novembre n'a pas d'entrée.
+  Le vendredi 24~novembre n'a pas d'entrée.
 historique: |
-  La sucrerie touchée le 25 est l'usine Normand et Cie, à la sortie du bourg vers Forceville (Mérimée IA00076408) ; la ferme Royer n'est pas identifiée. Ce second bombardement d'Acheux, après celui du 11 novembre (voir f.~48~v\textsuperscript{o}), n'apparaît pas dans les sources consultées. Acheux, tête de ligne, abrite jusqu'au 29 novembre le QG du V Corps (OH 1916-I, p.~274 ; LLT). Le 21 novembre, Haig décrivait le terrain comme un « marécage presque sans fond » (OH 1916-II, p.~536--537). Les caisses servant de siège sont celles où arrivait l'essence, en bidons de 2 ou 4 gallons (\textit{Statistics} 1922, p.~846). Le lieutenant Walsh, chez qui Hippolyte Combes a déjeuné à Hérissart le 16, et son interprète (voir f.~49~v\textsuperscript{o}) ne sont pas identifiés ; la lecture « Deloney » reste incertaine.
+  La sucrerie touchée le 25 est l'usine Normand et Cie, à la sortie du bourg vers Forceville (Mérimée IA00076408) ; la ferme Royer n'est pas identifiée. Ce second bombardement d'Acheux, après celui du 11~novembre (voir f.~48~v\textsuperscript{o}), n'apparaît pas dans les sources consultées. Acheux, tête de ligne, abrite jusqu'au 29~novembre le QG du V Corps (OH~\mbox{1916-I}, p.~274 ; LLT). Le 21~novembre, Haig décrivait le terrain comme un « marécage presque sans fond » (OH~\mbox{1916-II}, p.~536--537). Les caisses servant de siège sont celles où arrivait l'essence, en bidons de 2 ou 4 gallons (\textit{Statistics} 1922, p.~846). Le lieutenant Walsh, chez qui Hippolyte Combes a déjeuné à Hérissart le 16, et son interprète (voir f.~49~v\textsuperscript{o}) ne sont pas identifiés ; la lecture « Deloney » reste incertaine.
 sources:
 - Ministère de la Culture, base Mérimée, notice IA00076408, « Sucrerie dite Cie sucrière du Canton d'Acheux, puis Normand et Cie », Acheux-en-Amiénois (pop.culture.gouv.fr).
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274.

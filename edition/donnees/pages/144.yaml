@@ -31,15 +31,11 @@ apparat:
   type: abreviation
   note: première classe
 - ligne: 5
-  lemme: 5^{h}20
-  type: abreviation
-  note: 5 heures 20
-- ligne: 5
   lemme: 15 m.
   type: abreviation
   note: 15 minutes
 - ligne: 5
-  lemme: En
+  lemme: \inc{En}
   type: lecture
   note: 'lecture incertaine ; autre lecture : à'
 - ligne: 5
@@ -51,35 +47,15 @@ apparat:
   type: abreviation
   note: permissionnaires
 - ligne: 8
-  lemme: 7^{H} 30
-  type: abreviation
-  note: 7 heures 30
-- ligne: 8
   lemme: Corresp^{ce}
   type: abreviation
   note: correspondance
-- ligne: 10
-  lemme: 8^{H} 30
-  type: abreviation
-  note: 8 heures 30
 - ligne: 11
   lemme: P.L.M.
   type: abreviation
   note: Paris-Lyon-Méditerranée (compagnie de chemin de fer)
-- ligne: 12
-  lemme: 10^{H}
-  type: abreviation
-  note: 10 heures
-- ligne: 19
-  lemme: 3^{H} 45
-  type: abreviation
-  note: 3 heures 45
-- ligne: 19
-  lemme: 4^{H}20
-  type: abreviation
-  note: 4 heures 20
 historique: |
-  De Saint-Flour, Hippolyte Combes gagne directement Brioude (Haute-Loire) par la ligne de la Margeride, sans repasser par Neussargues : c'est l'itinéraire que le Baedeker indique de Clermont à Béziers (Baedeker 1914, p.~282). Concédée au P.L.M. en 1905, la ligne est ouverte en juin 1910 (Inventaire général Auvergne-Rhône-Alpes). À Brioude, sur la ligne de Nîmes à Clermont, il dépense 60~c au buffet (f.~72~v\textsuperscript{o}), puis prend l'express de Paris par la ligne du Bourbonnais : Clermont-Ferrand, Riom, Gannat, Saint-Germain-des-Fossés, Nevers (Baedeker 1914, p.~216-217), Gien et Montargis (Loiret). Le froid est très vif : −18,5~°C à Clermont-Ferrand le 30 janvier (Barbé 1917, p.~182 ; voir f.~71~r\textsuperscript{o}).
+  De Saint-Flour, Hippolyte Combes gagne directement Brioude (Haute-Loire) par la ligne de la Margeride, sans repasser par Neussargues : c'est l'itinéraire que le Baedeker indique de Clermont à Béziers (Baedeker 1914, p.~282). Concédée au P.L.M. en 1905, la ligne est ouverte en juin 1910 (Inventaire général Auvergne-Rhône-Alpes). À Brioude, sur la ligne de Nîmes à Clermont, il dépense 60~c au buffet (f.~72~v\textsuperscript{o}), puis prend l'express de Paris par la ligne du Bourbonnais : Clermont-Ferrand, Riom, Gannat, Saint-Germain-des-Fossés, Nevers (Baedeker 1914, p.~216--217), Gien et Montargis (Loiret). Le froid est très vif : −18,5~°C à Clermont-Ferrand le 30~janvier (Barbé 1917, p.~182 ; voir f.~71~r\textsuperscript{o}).
 sources:
 - Baedeker, K., Southern France including Corsica. Handbook for Travellers, 6e éd., Leipzig, K. Baedeker, 1914, p. 216-217, 282.
 - Inventaire général du patrimoine culturel, Région Auvergne-Rhône-Alpes, dossier « Ligne Brioude – Saint-Flour » (patrimoine.auvergnerhonealpes.fr).

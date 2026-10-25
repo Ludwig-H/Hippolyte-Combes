@@ -24,10 +24,6 @@ transcription: |
   aux feuillages roussis et mordorés par les
   gelees d'automnes. Routes, affr^{t} boueuses
 apparat:
-- ligne: 1
-  lemme: Nov^{b} /16
-  type: abreviation
-  note: novembre 1916
 - ligne: 3
   lemme: kil
   type: abreviation
@@ -52,28 +48,16 @@ apparat:
   lemme: R.F.A
   type: abreviation
   note: 'Royal Field Artillery : artillerie de campagne britannique'
-- ligne: 14
-  lemme: Coy
-  type: abreviation
-  note: 'Company : compagnie (152nd Company A.S.C.)'
-- ligne: 15
-  lemme: fr.
-  type: abreviation
-  note: française
 - ligne: 15
   lemme: Pozzi
   type: lecture
-  note: ainsi écrit ; ailleurs Pizzi (f. 24 v°, 43 r°, 45 v°)
-- ligne: 18
-  lemme: automnes
-  type: lecture
-  note: ainsi, au pluriel
+  note: ainsi écrit ; ailleurs Pizzi (ff.~24~v\textsuperscript{o}, 43~r\textsuperscript{o}, 45~v\textsuperscript{o})
 - ligne: 18
   lemme: affr^{t}
   type: abreviation
   note: affreusement
 historique: |
-  Bertrancourt est à 3~km au nord-est d'Acheux. Le V Corps y prépare l'attaque au nord de l'Ancre, « constamment remise mais jamais annulée » (OH 1916-II, p.~480). La 2nd Division, l'une des quatre de l'effort principal du 13 novembre (ibid., p.~477), y a sans doute son QG, « à gauche route de Bus » (Bus-lès-Artois). La « question de pétrole » (voir aussi f.~47~v\textsuperscript{o}) porte peut-être sur l'essence, livrée en bidons de 2 ou 4 gallons (\textit{Statistics} 1922, p.~846). Jamet et Cordonnier, attaché à la \textit{Royal Field Artillery}, ne sont pas identifiés. Hippolyte Combes a connu Cordonnier à Béthune en mai–juillet 1915, quand il servait au \textit{1\textsuperscript{st} Irish Guards}, alors dans la 2nd Division (Kipling 1923, p.~63--95). Le « Lt Pozzi », ailleurs Pizzi, est sans doute l'officier interprète de la 18th Division (voir f.~45~v\textsuperscript{o}).
+  Bertrancourt est à 3~km au nord-est d'Acheux. Le V Corps y prépare l'attaque au nord de l'Ancre, « constamment remise mais jamais annulée » (OH~\mbox{1916-II}, p.~480). La 2\textsuperscript{nd} Division, l'une des quatre de l'effort principal du 13~novembre (ibid., p.~477), y a sans doute son QG, « à gauche route de Bus » (Bus-lès-Artois). La « question de pétrole » (voir aussi f.~47~v\textsuperscript{o}) porte peut-être sur l'essence, livrée en bidons de 2 ou 4 gallons (\textit{Statistics} 1922, p.~846). Jamet et Cordonnier, attaché à la \textit{Royal Field Artillery}, ne sont pas identifiés. Hippolyte Combes a connu Cordonnier à Béthune en mai–juillet 1915, quand il servait au \textit{1\textsuperscript{st} Irish Guards}, alors dans la 2\textsuperscript{nd} Division (Kipling 1923, p.~63--95). Le « Lt Pozzi », ailleurs Pizzi, est sans doute l'officier interprète de la 18\textsuperscript{th} Division (voir f.~43~r\textsuperscript{o}).
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 477 et 480.
 - War Office, Statistics of the Military Effort of the British Empire during the Great War, 1914-1920, London, HMSO, 1922, p. 846.

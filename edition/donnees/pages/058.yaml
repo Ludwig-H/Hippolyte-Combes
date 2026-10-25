@@ -10,7 +10,7 @@ transcription: |
   messe \inc{curé} – 8^{H} autel paroissial. M^{te}, à ma droite
   Matinée, ds mon appart^{t}, à ranger mes choses
   Joui du calme & silence —
-  monté déjeun à S^{te} Marie – \hfill Temps trè beau
+  monté déjeun à S^{te} Marie – \hfill Temps très beau
   Après repas, pris trams et venus à Lardenne
   De l'église, continué à pied j-au pont du Touch
   Assis s/ l'herbe prairie longeant rivière –
@@ -24,52 +24,24 @@ transcription: |
   \ind Trams : 20c. 40c, 80, 80c
   \ind Sweets : 20c
 apparat:
-- ligne: 1
-  lemme: 1er D.
-  type: abreviation
-  note: premier, dimanche
-- ligne: 2
-  lemme: St.
-  type: abreviation
-  note: Saint (cathédrale Saint-Étienne de Toulouse)
 - ligne: 3
   lemme: \inc{curé}
   type: lecture
   note: 'lecture incertaine (« messe du curé » ?) ; autre lecture : cuné'
-- ligne: 3
-  lemme: M^{te}
-  type: abreviation
-  note: Marguerite (Calmels)
 - ligne: 6
   lemme: déjeun
   type: abreviation
   note: déjeuner
-- ligne: 6
-  lemme: S^{te} Marie
-  type: abreviation
-  note: Sainte-Marie(-des-Champs), quartier de Toulouse
-- ligne: 6
-  lemme: trè
-  type: abreviation
-  note: très
 - ligne: 7
   lemme: venus
   type: lecture
   note: s final réduit à un trait ; pluriel (avec Marguerite)
-- ligne: 10
-  lemme: Tjs
-  type: abreviation
-  note: Toujours
-- ligne: 14
-  lemme: 20c.
-  type: abreviation
-  note: 20 centimes (de même 40c, 80c)
 - ligne: 15
   lemme: Sweets
   type: emprunt
   note: confiseries
 historique: |
-  La messe de 8~h est dite à l'autel paroissial de la cathédrale Saint-Étienne (Mérimée PA00094498), proche de l'appartement de la rue de Languedoc (lettre à Marguerite, 25 nov. 1918). Sur Sainte-Marie, maison de l'oncle Émile Crouzet, voir f.~27 v\textsuperscript{o}. Le tram de la place Esquirol mène à Lardenne, à l'ouest, près du Touch (Baedeker 1912, p.~298). « Jean » est sans doute l'abbé Jean Crouzet (v. 1880--1932), vraisemblablement fils d'Émile et cousin germain de Marguerite (\textit{L'Express du Midi}, 23 déc. 1926, p.~5 ; 27 août 1932, p.~4) ; un « abbé Crouzet » est vicaire à la cathédrale pendant la guerre (\textit{Le Télégramme}, 5 févr. 1915, p.~2). Ce jour, la 55th Brigade de la 18th Division dispute encore la Schwaben Redoubt, que la division tient jusqu'à sa relève, le 5 octobre (Becke 1938, p.~84 ; OH 1916-II, p.~453).
+  La messe de 8~h est dite à l'autel paroissial de la cathédrale Saint-Étienne (Mérimée PA00094498), proche de l'appartement de la rue de Languedoc (lettre à Marguerite, 25~nov. 1918). Sur Sainte-Marie, maison de l'oncle Émile Crouzet, voir f.~27~v\textsuperscript{o}. Le tram de la place Esquirol mène à Lardenne, à l'ouest, près du Touch (Baedeker 1912, p.~298). « Jean » est sans doute l'abbé Jean Crouzet (v.~1880--1932), vraisemblablement fils d'Émile et cousin germain de Marguerite (\textit{L'Express du Midi}, 23~déc. 1926, p.~5 ; 27~août 1932, p.~4) ; un « abbé Crouzet » est vicaire à la cathédrale pendant la guerre (\textit{Le Télégramme}, 5~févr. 1915, p.~2). Ce jour, la 55\textsuperscript{th} Brigade de la 18\textsuperscript{th} Division dispute encore la Schwaben Redoubt, que la division tient jusqu'à sa relève, le 5~octobre (Becke 1938, p.~84 ; OH~\mbox{1916-II}, p.~453).
 sources:
 - Ministère de la Culture, base Mérimée, notice PA00094498 (cathédrale Saint-Étienne, Toulouse), consultée via monumentum.fr.
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, K. Baedeker, 1912, p. 298.

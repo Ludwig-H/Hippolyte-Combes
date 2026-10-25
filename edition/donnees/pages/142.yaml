@@ -27,39 +27,23 @@ transcription: |
   \droite \sl{feuille} speciale)
 apparat:
 - ligne: 1
-  lemme: Fev.
-  type: abreviation
-  note: février
-- ligne: 1
   lemme: '''17'
   type: abreviation
   note: '1917'
 - ligne: 2
-  lemme: beau
+  lemme: \inc{beau}
   type: lecture
   note: 'lecture incertaine ; autre lecture : gai'
-- ligne: 5
-  lemme: 6^{h}15
-  type: abreviation
-  note: 6 heures 15
 - ligne: 6
-  lemme: tantes
+  lemme: \inc{tantes}
   type: lecture
   note: 'lecture incertaine ; autre lecture : tante'
 - ligne: 7
   lemme: Temp
   type: graphie
   note: temps
-- ligne: 9
-  lemme: 11^{h}30
-  type: abreviation
-  note: 11 heures 30
 - ligne: 10
-  lemme: 11^{h}
-  type: abreviation
-  note: 11 heures
-- ligne: 10
-  lemme: '40'
+  lemme: \inc{40}
   type: lecture
   note: 'lecture incertaine ; autres lectures : 30, 50'
 - ligne: 15
@@ -67,7 +51,7 @@ apparat:
   type: abreviation
   note: confer, voir
 historique: |
-  L'« oncle » et la « tante Thérèse » sont M\textsuperscript{e} Charles Layral, notaire à Millau, et sa femme Thérèse Cartairade, sœur de Valentine Cartairade, la mère de Marguerite (faire-part de décès d'Émilie Noel, M\textsuperscript{me} Guillaume Cartairade, 1889 ; PC-Annexe). « Mimi » est sans doute Anne-Marie Calmels (1888–1975), sœur aînée de Marguerite, future épouse de l'avoué Joseph Delcamps (PC-Annexe). Le temps sec et la nuit froide sont ceux de la vague de froid de l'hiver 1916-1917 : −15,4~°C à Paris ce 4 février (Barbé 1917, p.~181-182). Le « Journal » sur « feuille spéciale » est un écrit distinct du \textit{Livre-Journal}, comparable aux feuillets détachés des \textit{Feuillets de Route} (en annexe) ; la plupart des autres papiers d'Hippolyte Combes ont été détruits en 1970-1971 (PC-Livre).
+  L'« oncle » et la tante « Therèse » sont M\textsuperscript{e} Charles Layral, notaire à Millau, et sa femme Thérèse Cartairade, sœur de Valentine Cartairade, la mère de Marguerite (faire-part de décès d'Émilie Noel, M\textsuperscript{me} Guillaume Cartairade, 1889 ; PC-Annexe). « Mimi » est sans doute Anne-Marie Calmels (1888--1975), sœur aînée de Marguerite, future épouse de l'avoué Joseph Delcamps (PC-Annexe). Le temps sec et la nuit froide sont ceux de la vague de froid de l'hiver 1916--1917 : −15,4~°C à Paris ce 4~février (Barbé 1917, p.~181--182). Le « Journal » sur « feuille spéciale » est un écrit distinct du \textit{Livre-Journal}, comparable aux feuillets détachés des \textit{Feuillets de Route} (en annexe) ; la plupart des autres papiers d'Hippolyte Combes ont été détruits en 1970--1971 (PC-Livre).
 sources:
 - Faire-part de décès d'Émilie Noel, Mme Guillaume Cartairade, Lisside (Gard), 4 mars 1889 (archives familiales).
 - Combes, Pierre, livre familial dactylographié, annexe généalogique (PC-Annexe), archives familiales.

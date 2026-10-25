@@ -30,22 +30,10 @@ transcription: |
   \filet
   Tip à Connelly mon groom : 2^{f} —
 apparat:
-- ligne: 1
-  lemme: Septbr
-  type: abreviation
-  note: septembre
-- ligne: 4
-  lemme: fr^{se}
-  type: abreviation
-  note: française (mission française)
-- ligne: 5
-  lemme: 1^{H} \fr{1}{2}
-  type: abreviation
-  note: une heure et demie
 - ligne: 7
   lemme: \inc{xviiie}
   type: lecture
-  note: XVIIIe (18e division) ; peut-être XVIIe
+  note: XVIII\textsuperscript{e} (18\textsuperscript{e} division) ; peut-être XVII\textsuperscript{e}
 - ligne: 7
   lemme: divi
   type: abreviation
@@ -59,25 +47,13 @@ apparat:
   type: abreviation
   note: 'Headquarters (anglais) : quartier général'
 - ligne: 8
-  lemme: divi
-  type: abreviation
-  note: division
-- ligne: 8
   lemme: \inc{m}
   type: lecture
-  note: m isolé ; abrégé incertain, ou fin d'un mot de la l. 7 (contremandé ?)
+  note: m isolé ; abrégé incertain, ou fin d'un mot de la l.~7 (contremandé ?)
 - ligne: 10
   lemme: \sur{\ill}{\inc{Reparti}}
   type: lecture
   note: lecture incertaine ; autre lecture, Repassé
-- ligne: 11
-  lemme: divi
-  type: abreviation
-  note: division
-- ligne: 12
-  lemme: cie
-  type: abreviation
-  note: compagnie (en compagnie de)
 - ligne: 12
   lemme: \inc{Brammas}
   type: lecture
@@ -93,17 +69,13 @@ apparat:
 - ligne: 17
   lemme: offrs
   type: abreviation
-  note: officiers ; parenthèse ouvrante non refermée
+  note: officiers
 - ligne: 21
   lemme: b
   type: abreviation
   note: bonne (de bonne heure)
-- ligne: 22
-  lemme: groom
-  type: emprunt
-  note: ordonnance (soldat attaché au service d'un officier)
 historique: |
-  Le message vient sans doute du bureau divisionnaire de la Mission, dont relèvent les interprètes des unités (voir f. 22 r\textsuperscript{o}). Hippolyte Combes le cherche d'abord à Hédauville, à 9,8 km de Raincheval, peut-être sur le bruit d'un départ du QG de la division : celui-ci ne s'y installera que le 25 septembre et y restera jusqu'au 6 octobre (Nichols 1922, p. 79). « Brammas » (lecture incertaine) n'est pas identifié. Le régime en cause est celui du mess des officiers, partagé depuis le 12 (voir f. 21 v\textsuperscript{o}). Connelly, son palefrenier, avait reçu 1 f le 5 août et le 11 septembre (voir f. 6 r\textsuperscript{o} et 21 r\textsuperscript{o}).
+  Le message vient sans doute du bureau divisionnaire de la Mission, dont relèvent les interprètes des unités (voir f.~22~r\textsuperscript{o}). Hippolyte Combes le cherche d'abord à Hédauville, à 9,8~km de Raincheval, peut-être sur le bruit d'un départ du QG de la division : celui-ci ne s'y installera que le 25~septembre et y restera jusqu'au 6~octobre (Nichols 1922, p.~79). « Brammas » (lecture incertaine) n'est pas identifié. Le régime en cause est celui du mess des officiers, partagé depuis le 12 (voir f.~21~v\textsuperscript{o}). Connelly, son palefrenier, avait reçu 1~F le 5~août et le 11~septembre (voir ff.~6~r\textsuperscript{o} et 21~r\textsuperscript{o}).
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 79.
 - geo.api.gouv.fr, coordonnées des mairies (distances à vol d'oiseau).

@@ -33,18 +33,6 @@ transcription: |
   Lt Walsh & un interprète, invités à diner
   Capt. Williams (charmant et de + en + sympathique
 apparat:
-- ligne: 1
-  lemme: Décbre
-  type: abreviation
-  note: décembre
-- ligne: 5
-  lemme: 8^{h} \fr{1}{2} m.
-  type: abreviation
-  note: huit heures et demie du matin
-- ligne: 5
-  lemme: 6^{h} \fr{1}{2} s
-  type: abreviation
-  note: six heures et demie du soir
 - ligne: 8
   lemme: Marcelcave
   type: lecture
@@ -64,7 +52,7 @@ apparat:
 - ligne: 17
   lemme: 78^{f} 75 c
   type: lecture
-  note: 78 francs 75 ; f et 75 peu nets
+  note: 78~francs 75 ; f et 75 peu nets
 - ligne: 18
   lemme: rapidt
   type: abreviation
@@ -78,7 +66,7 @@ apparat:
   type: abreviation
   note: Captain, capitaine
 historique: |
-  La course mène à quelque 25~km au sud d'Acheux (geo.api.gouv.fr) : au-delà de Corbie, Villers-Bretonneux, Marcelcave et Warfusée-Abancourt (auj. Lamotte-Warfusée) sont hors de la zone britannique ; elle sera étendue en janvier 1917 jusqu'à la route Amiens–Roye (OH 1917-I, p.~37, 43). Le lieutenant Walsh, d'Hérissart, et son interprète M. Deloney [?] sont déjà connus (voir f.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}). La solde de 78~F~75 est celle d'une quinzaine (voir f.~23~v\textsuperscript{o}) ; la suivante sera versée le 19 (voir f.~56~r\textsuperscript{o}). Belle-Église, hameau d'Arquèves, était tête de ligne de ravitaillement en juillet 1916 (OH 1916-I, p.~274) ; on y battra la paille à partir du 8 (voir f.~54~r\textsuperscript{o}).
+  La course mène à quelque 25~km au sud d'Acheux (geo.api.gouv.fr) : au-delà de Corbie, Villers-Bretonneux, Marcelcave et Warfusée-Abancourt (auj. Lamotte-Warfusée) sont hors de la zone britannique ; elle sera étendue en janvier 1917 jusqu'à la route Amiens–Roye (OH~\mbox{1917-I}, p.~37, 43). Le lieutenant Walsh, d'Hérissart, est déjà connu (voir ff.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}) ; l'interprète invité avec lui est peut-être le sien, M. Deloney (?). La solde de 78~F~75 est celle d'une quinzaine (voir f.~23~v\textsuperscript{o}) ; la suivante sera versée le 19 (voir f.~56~r\textsuperscript{o}). Belle-Église, hameau d'Arquèves, était tête de ligne de ravitaillement en juillet 1916 (OH~\mbox{1916-I}, p.~274) ; on y battra la paille à partir du 8 (voir f.~54~r\textsuperscript{o}).
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274.
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 37, 43.

@@ -2,7 +2,7 @@ cliche: 175
 fichier: 20251126_111503.jpg
 date: Dimanche 1er – mardi 3 avril 1917
 mois: Avril 1917
-lieux: Hérissart, Belle-Église (Arquèves), Pierregot, Rainneville et Toutencourt (Somme)
+lieux: Hérissart, Belle-Église (Arquèves), Pierregot, Rainneville, Toutencourt et Rubempré (Somme)
 titre: Rameaux sous la neige ; notaire de Toutencourt ; dégel, routes en marécages
 transcription: |
   \sl{1^{er} Dim}. (Rameaux) \hfill Avril \sl{1917}
@@ -33,16 +33,12 @@ transcription: |
   changées en marecages
   \ind[2] Temps redevenu plus doux
 apparat:
-- ligne: 1
-  lemme: 1^{er} Dim
-  type: abreviation
-  note: premier dimanche (des Rameaux)
 - ligne: 19
   lemme: M^{e}
   type: abreviation
   note: Maître (notaire)
 historique: |
-  La neige du début d'avril « est rare en Picardie », note l'histoire officielle ; le 2, par ce temps, la Fifth Army enlève Doignies, Louverval, Noreuil, Écoust, Croisilles et Hénin, avant-postes de la ligne Hindenburg (OH 1917-I, p.~159--161). Belle-Église est le hameau d'Arquèves dont Hippolyte Combes fréquente la ferme (voir f.~85 v\textsuperscript{o}). Le compte du mess, sans date de départ, court sans doute depuis le règlement du 9 mars (f.~82 r\textsuperscript{o}) : 27 f 50 pour trois semaines environ, contre 79 f 10 pour janvier (f.~63 v\textsuperscript{o}). Le notaire de Toutencourt est M\textsuperscript{e} Jules Bienaimé, titulaire de l'étude de 1906 à 1933 (AD Somme, Espel 2018, p.~3--4).
+  La neige du début d'avril « est rare en Picardie », note l'histoire officielle ; le 2, par ce temps, la Fifth Army enlève Doignies, Louverval, Noreuil, Écoust, Croisilles et Hénin, avant-postes de la ligne Hindenburg (OH~\mbox{1917-I}, p.~159--161). Belle-Église est le hameau d'Arquèves dont Hippolyte Combes fréquente la ferme (voir f.~85~v\textsuperscript{o}). Le compte du mess, sans date de départ, court sans doute depuis le règlement du 9~mars (f.~82~r\textsuperscript{o}) : 27~F~50 pour trois semaines environ, contre 79~F~10 pour janvier (f.~63~v\textsuperscript{o}). Le notaire de Toutencourt est M\textsuperscript{e} Jules Bienaimé, titulaire de l'étude de 1906 à 1933 (AD Somme, Espel 2018, p.~3--4).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 159-161.
 - Archives départementales de la Somme, Fonds de l'Office notarial de Toutencourt, aujourd'hui Acheux-en-Amiénois (1729-1904). Répertoire méthodique détaillé, par A. Espel, sous la dir. d'A. Lejeune, Amiens, 2018, p. 3-4.

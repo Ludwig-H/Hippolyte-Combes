@@ -7,7 +7,7 @@ titre: 'Raincheval : attente du départ ; bois du château ; faïences ; culte w
 transcription: |
   \sl{17 Dim.} \hfill \sl{Sept^{re} 1916}
   \ind[2] Tjs ds lattente notre départ
-  Comme occupations , green forage. Dois
+  Cme occupations , green forage. Dois
   conduire wagon Champ de trefle rouge
   \ind Temps très beau – un peu froid, le soir
   & surtout le matin. \fr{1}{2} jour, soleil brulant
@@ -27,30 +27,10 @@ transcription: |
   ds petite salle en face eglise village)
   \ind — Washing : 1 \inc{f} —
 apparat:
-- ligne: 1
-  lemme: Sept^{re}
-  type: abreviation
-  note: septembre
-- ligne: 2
-  lemme: Tjs
-  type: abreviation
-  note: toujours
-- ligne: 4
-  lemme: wagon
-  type: emprunt
-  note: au sens anglais de chariot hippomobile
-- ligne: 6
-  lemme: \fr{1}{2} jour
-  type: lecture
-  note: demi-jour, c'est-à-dire midi
 - ligne: 7
   lemme: pl.
   type: abreviation
   note: plusieurs
-- ligne: 11
-  lemme: g^{ds}
-  type: abreviation
-  note: grands
 - ligne: 12
   lemme: \inc{aux}
   type: lecture
@@ -59,10 +39,6 @@ apparat:
   lemme: int^{te}
   type: abreviation
   note: interprète
-- ligne: 14
-  lemme: chz
-  type: abreviation
-  note: chez ; aucun article ensuite
 - ligne: 17
   lemme: church service
   type: emprunt
@@ -70,17 +46,13 @@ apparat:
 - ligne: 17
   lemme: (Wesleyans
   type: emprunt
-  note: wesleyens, méthodistes ; écrit au-dessus de la fin de la ligne, parenthèse fermée après village (l. 18)
-- ligne: 19
-  lemme: 1 \inc{f} —
-  type: ajout
-  note: montant ajouté après coup
+  note: wesleyens, méthodistes
 - ligne: 19
   lemme: \inc{f}
   type: lecture
   note: f à peine visible ; lecture incertaine
 historique: |
-  La 54th Brigade attend son ordre de départ depuis le 15 (voir f. 22 r\textsuperscript{o}) ; il n'arrivera que le 22 (JMO 7/Bedf, 22 sept. 1916 ; voir f. 24 r\textsuperscript{o}). Le château est celui de Raincheval (voir f. 21 v\textsuperscript{o}). Ce dimanche, le 7th Bedfordshire se baigne, assiste à l'office et voit une démonstration de mortiers Stokes au nord du village (ibid., 17 sept.). Les wesleyens sont des méthodistes ; en 1918, l'armée comptait plus de 500 aumôniers wesleyens et du \textit{United Board} (Thompson 1990). Le chapitre~\textsc{xix} du sommaire de ses \textit{Feuillets de Route} s'intitule « \textit{Sunday service in village church} » (fin du dernier mot incertaine ; en annexe).
+  La 54\textsuperscript{th} Brigade attend son ordre de départ depuis le 15 (voir f.~22~r\textsuperscript{o}) ; il n'arrivera que le 22 (JMO~7/Bedf, 22~sept. 1916 ; voir f.~24~r\textsuperscript{o}). Le château est celui de Raincheval (voir f.~21~v\textsuperscript{o}). Ce dimanche, le 7\textsuperscript{th} Bedfordshire se baigne, assiste à l'office et voit une démonstration de mortiers Stokes au nord du village (ibid., 17~sept.). Les wesleyens sont des méthodistes ; en 1918, l'armée comptait plus de 500 aumôniers wesleyens et du \textit{United Board} (Thompson 1990). Le chapitre~\textsc{xix} du sommaire de ses \textit{Feuillets de Route} s'intitule « \textit{Sunday service in village church} » (fin du dernier mot incertaine ; en annexe).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'
 - Thompson, J. H., The Free Church Army Chaplain 1830-1930, thèse de doctorat, Université de Sheffield, 1990 (résumé, White Rose eTheses Online).

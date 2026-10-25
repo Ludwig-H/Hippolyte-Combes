@@ -22,40 +22,20 @@ transcription: |
   \ind A Acheux : solde : 78.75 c
   \ind[2] — Cartes ples : 0.25 c.
 apparat:
-- ligne: 1
-  lemme: Sept^{bre} /16
-  type: abreviation
-  note: septembre 1916 ; finale -bre réduite à un trait
 - ligne: 4
-  lemme: ce
+  lemme: \inc{ce}
   type: lecture
   note: mot taché ; lecture probable
-- ligne: 9
-  lemme: fr
-  type: abreviation
-  note: française (Mission française auprès de l'armée britannique)
 - ligne: 10
-  lemme: 4^{H} \fr{1}{2}
-  type: abreviation
-  note: 4 heures et demie
-- ligne: 10
-  lemme: avoir
+  lemme: \inc{avoir}
   type: lecture
   note: lecture incertaine ; autre lecture, avr
 - ligne: 12
   lemme: 78.75 c
   type: abreviation
-  note: 78 francs 75 centimes
-- ligne: 12
-  lemme: 78.75 c
-  type: lecture
-  note: 5 à longue haste, non f
-- ligne: 13
-  lemme: 0.25 c.
-  type: abreviation
-  note: 25 centimes
+  note: 78~francs 75~centimes ; 5 à longue haste, non f
 historique: |
-  L'histoire officielle juge le réseau routier de la zone « peu nombreux et médiocre » pour plus de 400 000 hommes et 100 000 chevaux (OH 1916-I, p.~271) : d'où les ornières entre Raincheval et Acheux. À Acheux, le bureau divisionnaire de la Mission française occupe la hutte du parc du château déjà vue le 14 (voir f. 22 r\textsuperscript{o}). Les 78~F~75 sont la solde de quinzaine, du même montant que le 5 septembre à Roëllecourt (voir f. 18 v\textsuperscript{o}) : 15 jours à 5~F~25. Le même jour, la 18th Division reprend du génie de la 49th Division les tranchées au sud de Thiepval, qu'elle attaquera le 26 (Nichols 1922, p.~79).
+  L'histoire officielle juge le réseau routier de la zone « peu nombreux et médiocre » pour plus de 400 000~hommes et 100 000 chevaux (OH~\mbox{1916-I}, p.~271) : d'où les ornières entre Raincheval et Acheux. À Acheux, le bureau divisionnaire de la Mission française occupe la hutte du parc du château déjà vue le 14 (voir f.~22~r\textsuperscript{o}). Les 78~F~75 sont la solde de quinzaine, du même montant que le 5~septembre à Roëllecourt (voir f.~18~v\textsuperscript{o}) : 15~jours à 5~F~25. Le même jour, la 18\textsuperscript{th} Division reprend du génie de la 49\textsuperscript{th} Division les tranchées au sud de Thiepval, qu'elle attaquera le 26 (Nichols 1922, p.~79).
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 271.
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 79.

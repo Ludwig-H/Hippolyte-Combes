@@ -3,7 +3,7 @@ fichier: 20251126_104222.jpg
 date: Mercredi 18 octobre 1916 (suite)
 mois: Octobre 1916
 lieux: Bouzincourt, Hédauville et Albert (Somme)
-titre: Flot de camions et de caissons nuit et jour ; seul au mess ; solde de 84 F
+titre: Flot de camions et de caissons nuit et jour ; seul au mess ; solde de 84~F
 transcription: |
   sur l. nuit & jour, flot ininterrompu de vehicules de
   ttes sortes : lorries, caissons de munitions etc . Autant de
@@ -13,36 +13,16 @@ transcription: |
   ds la mess-tent –
   \blanc{6}
   \filet
-  \barre{2}merc-\sl{18} Albert : cartes ples : 40c \hfill \sl{Oct 16}
+  \barre{2}merc-\sl{18} Albert : cartes ples : 40c \hfill \sl{oct 16}
   Albert, mission frse : 84 fr – —
 apparat:
 - ligne: 1
   lemme: sur l.
   type: abreviation
   note: sur laquelle (la route nommée au bas de la page précédente)
-- ligne: 3
-  lemme: d'1 gde
-  type: abreviation
-  note: d'une grande
-- ligne: 6
-  lemme: merc-
-  type: abreviation
-  note: mercredi
-- ligne: 6
-  lemme: Oct 16
-  type: abreviation
-  note: octobre 1916
-- ligne: 7
-  lemme: frse
-  type: abreviation
-  note: française
-- ligne: 7
-  lemme: 84 fr
-  type: abreviation
-  note: 84 francs
-critique: Page écrite en travers ; fin du récit du 18 octobre commencé f.~39~v\textsuperscript{o}.
+critique: Page écrite en travers ; fin du récit du 18~octobre commencé f.~39~v\textsuperscript{o}.
 historique: |
-  La route qui longe le camp (voir f.~39~r\textsuperscript{o}) est sans doute celle d'Albert à Doullens, qui passe à Hédauville (CWGC, Hedauville Communal Cemetery Extension). Le trafic est celui de la préparation de l'attaque du II Corps sur Regina et Stuff Trenches, alors prévue pour le 20 octobre (OH 1916-II, p.~461). Les 84~F touchés à la Mission française d'Albert sont la « solde \& indemnité de fonctions » de l'interprète (voir f.~11~r\textsuperscript{o}), soit 16 jours à 5,25~F. Les versements de la seconde moitié des mois de 31 jours sont aussi de 84~F (18 août, 19 décembre, 19 janvier), celui du 18 février, pour un mois de 28 jours, de 68,25~F, soit 13 jours (f.~11~r\textsuperscript{o}, 56~r\textsuperscript{o}, 62~v\textsuperscript{o}, 78~r\textsuperscript{o}) : il s'agit donc sans doute de la quinzaine du 16 au 31 octobre.
+  La route qui longe le camp (voir f.~39~r\textsuperscript{o}) est sans doute celle d'Albert à Doullens, qui passe à Hédauville (CWGC, Hedauville Communal Cemetery Extension). Le trafic est celui de la préparation de l'attaque du II~Corps sur Regina et Stuff Trenches, alors prévue pour le 20~octobre (OH~\mbox{1916-II}, p.~461). Les 84~F touchés à la Mission française d'Albert sont la « solde \& indemnité de fonctions » de l'interprète (voir f.~11~r\textsuperscript{o}), soit 16~jours à 5,25~F. Les versements de la seconde moitié des mois de 31~jours sont aussi de 84~F (18~août, 19~décembre, 19~janvier), celui du 18~février, pour un mois de 28~jours, de 68,25~F, soit 13~jours (ff.~11~r\textsuperscript{o}, 56~r\textsuperscript{o}, 62~v\textsuperscript{o}, 78~r\textsuperscript{o}) : il s'agit donc sans doute de la quinzaine du 16 au 31~octobre.
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 461.
 - Commonwealth War Graves Commission, notice « Hedauville Communal Cemetery Extension », cwgc.org, consultée le 18 oct. 2026.

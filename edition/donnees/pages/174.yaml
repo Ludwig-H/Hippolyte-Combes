@@ -2,7 +2,7 @@ cliche: 174
 fichier: 20251126_111452.jpg
 date: Jeudi 29 – samedi 31 mars 1917
 mois: Mars 1917
-lieux: Hérissart, Puchevillers, Rubempré, Molliens-au-Bois et Rainneville (Somme)
+lieux: Hérissart, Puchevillers, Rubempré, Pierregot, Molliens-au-Bois, Toutencourt et Rainneville (Somme)
 titre: Giboulées et routes défoncées ; achat de paille ; Hérissart vide de troupes
 transcription: |
   29 \sl{Jeudi} \hfill — \sl{Mars 1917} —
@@ -33,10 +33,6 @@ transcription: |
   village tjours sans troupes, parait inhabite
   \ind J'aime ce calme & ce silence
 apparat:
-- ligne: 6
-  lemme: Après-midi entière, liberté
-  type: ajout
-  note: ajout probable, serré dans l'interligne
 - ligne: 10
   lemme: aujd'hui
   type: abreviation
@@ -49,11 +45,7 @@ apparat:
   lemme: merv^{x}
   type: abreviation
   note: merveilleux
-- ligne: 24
-  lemme: tjours
-  type: abreviation
-  note: toujours
 historique: |
-  Le village « abandonné » est Hérissart, que les troupes ont quitté le 27 (voir f.~86 v\textsuperscript{o}). Les tournées du \textit{Purchase Board} vont désormais vers le sud-ouest, sur le plateau entre Hérissart et Villers-Bocage : Pierregot, Molliens-au-Bois et Rainneville, à 4–8 km (calcul de l'éditeur). La paille achetée le 31 sert la préparation de l'offensive d'Arras : on comptait « vider rapidement les granges en aidant les fermiers à battre leur grain et en achetant la paille pour l'armée » (OH 1917-I, p.~190). Avec le dégel de mars, les routes à l'empierrement mince étaient défoncées, au point que « même les voitures légères » les crevaient (OH 1917-I, p.~103).
+  Le village « abandonné » est Hérissart, que les troupes ont quitté le 27 (voir f.~86~v\textsuperscript{o}). Le 30 et le 31, les tournées du \textit{Purchase Board} vont vers le sud-ouest, sur le plateau entre Hérissart et Villers-Bocage : Pierregot, Molliens-au-Bois et Rainneville, à 4--8~km (calcul de l'éditeur). La paille achetée le 31 sert la préparation de l'offensive d'Arras : on comptait « vider rapidement les granges en aidant les fermiers à battre leur grain et en achetant la paille pour l'armée » (OH~\mbox{1917-I}, p.~190). Avec le dégel de mars, les routes à l'empierrement mince étaient défoncées, au point que « même les voitures légères » les crevaient (OH~\mbox{1917-I}, p.~103).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 103, 190.

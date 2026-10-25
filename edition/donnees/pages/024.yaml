@@ -6,7 +6,7 @@ lieux: La Croix-du-Bac (Steenwerck, Nord) ; Bac-Saint-Maur (Sailly-sur-la-Lys, P
 titre: Steenwerck à pied ; bière avec Maurin à Bac-Saint-Maur ; linge envoyé à Nogent
 transcription: |
   \sl{22 Ma} \hfill \sl{Aout /16}
-  \ind Ciel nuageux – s'est tt à fait eclairci
+  \ind Ciel nuageux – s'est tt à fait eclairci –
   après-midi et très beau soleil
   \ind Venu à pied à Steenwerk : 55 m.
   Promenade lente, très agréable
@@ -28,27 +28,11 @@ apparat:
 - ligne: 4
   lemme: Steenwerk
   type: graphie
-  note: pour Steenwerck (l. 14 et 16)
+  note: pour Steenwerck (l.~14 et 16)
 - ligne: 4
   lemme: 55 m.
   type: abreviation
   note: 55 minutes
-- ligne: 6
-  lemme: 5^{H}\fr{1}{2}
-  type: abreviation
-  note: 5 heures et demie
-- ligne: 7
-  lemme: St-Maur
-  type: abreviation
-  note: Saint-Maur (Bac-Saint-Maur)
-- ligne: 9
-  lemme: chz 1
-  type: abreviation
-  note: chez un
-- ligne: 12
-  lemme: par 1
-  type: abreviation
-  note: par un
 - ligne: 12
   lemme: comm^{re}
   type: abreviation
@@ -57,31 +41,11 @@ apparat:
   lemme: kos
   type: abreviation
   note: kilos
-- ligne: 14
-  lemme: 3^{f}80
-  type: abreviation
-  note: 3 francs 80
-- ligne: 15
-  lemme: 40c
-  type: abreviation
-  note: 40 centimes (de même 50c, 30c, 10c)
-- ligne: 16
-  lemme: Cartes
-  type: lecture
-  note: s final réduit à un délié, comme dans « ples »
-- ligne: 16
-  lemme: ples
-  type: abreviation
-  note: (cartes) postales
-- ligne: 17
-  lemme: Varia
-  type: emprunt
-  note: (latin) divers
 - ligne: 18
   lemme: 1^{25}
   type: lecture
-  note: 1 franc 25
+  note: 1~franc 25
 historique: |
-  Le bourg de Steenwerck est à 3 km à vol d'oiseau de La Croix-du-Bac, ce qui s'accorde avec les 55 minutes de marche ; sa gare est sur la ligne de Lille à Hazebrouck. Bac-Saint-Maur, hameau de Sailly-sur-la-Lys sur l'autre rive de la Lys, est la tête de ligne des vivres du secteur (voir f. 7 r\textsuperscript{o}). Maurin, collègue interprète sans doute provençal (voir f. 7 r\textsuperscript{o}), n'est pas identifié. Le sac part pour Nogent-le-Rotrou (voir f. 12 r\textsuperscript{o}) ; le factage est le port à domicile depuis la gare d'arrivée. Vers le 22 août, la 34th Division reprend le front de la 18th Division jusqu'au saillant de Bridoux inclus, et son état-major retrouve « their old quarters in Croix du Bac » (Shakespear 1921, pp. 74-75). C'est la relève qui précède le départ du 25 août.
+  Le bourg de Steenwerck est à 3~km à vol d'oiseau de La Croix-du-Bac, ce qui s'accorde avec les 55 minutes de marche ; sa gare est sur la ligne de Lille à Hazebrouck. Bac-Saint-Maur, hameau de Sailly-sur-la-Lys sur l'autre rive de la Lys, est la tête de ligne des vivres du secteur (voir f.~7~r\textsuperscript{o}). Maurin, sans doute interprète lui aussi et provençal (voir f.~7~r\textsuperscript{o}), n'est pas identifié. Le sac part pour Nogent-le-Rotrou (voir f.~12~r\textsuperscript{o}) ; le factage est le port à domicile depuis la gare d'arrivée. Vers le 22~août, la 34\textsuperscript{th} Division reprend le front de la 18\textsuperscript{th} Division jusqu'au saillant de Bridoux inclus, et son état-major retrouve « their old quarters in Croix du Bac » (Shakespear 1921, p. 74--75). C'est la relève qui précède le départ du 25~août.
 sources:
 - Shakespear, J., The Thirty-Fourth Division, 1915–1919. The Story of its Career from Ripon to the Rhine, Londres, H. F. & G. Witherby, 1921, p. 74-75.
