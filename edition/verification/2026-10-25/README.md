@@ -16,14 +16,19 @@ Base : `7236c2f` (audit de Codex du 24 octobre), avec la réécriture stylistiqu
 
 ## Textes
 
-- Page de titre (« Édition établie par Louis Hauseux »), avertissement en cinq lignes, colophon.
+- Page de titre sans nom d'éditeur ; avertissement en cinq lignes (qui nomme l'éditeur) ; colophon.
 - Introductions, chapitres et annexes : style simplifié ; expressions pieuses, laudatives ou précieuses supprimées ; sections « Le carnet » des introductions de chapitre ramenées à une synthèse (environ 550 mots) ; redites entre introductions remplacées par des renvois. Chaque texte a été comparé à la version précédente par un vérificateur chargé de relever les faits perdus, altérés ou ajoutés.
 - Citations du carnet recalées sur la transcription définitive (`verifier_citations_textes.py`) ; une citation inexistante a été remplacée (« Place assez semblable à celle d'Hazebrouck & de Bethune », f. 4 r°).
 - Lettres (documents 1 à 5) : les remarques d'encre deviennent le fait qu'elles établissent (ajout ou correction postérieure) ; la carte postale du 12 novembre 1918 est reproduite à l'endroit.
 - Index : Mme Miquel (autre lecture : Mignot) ; le capitaine « Pant » n'est pas identifié. Table des abréviations mise à jour (formes et comptes).
 - Cartes : apostrophes et exposants, dates d'Albert (19 octobre – 2 novembre), légende distinguant le lieu principal (point plein) des villages cités (cercle).
 
-Les *Feuillets de Route* (document 6) font l'objet d'une relecture séparée (deux lectures indépendantes, arbitrage, vérification) ; leur édition révisée suivra.
+## *Feuillets de Route* (document 6)
+
+- Deux lectures indépendantes, lettre à lettre, puis un arbitrage ligne par ligne sur l'image et une vérification contradictoire en quatre parties (présentation ; titre, sommaire et plan ; chapitre premier, notes ; chapitre premier, rédaction).
+- Lectures corrigées, entre autres : chapitre IV du sommaire « A la base anglaise du Havre » (et non « de Rouen ») ; chapitre IX « Revue d'une division anglaise pour le Roi G. » (et non « par ») ; chapitre XIII « Sport games – & Pastimes de 7th (?) » ; chapitre premier « J'ai lgs dedaigné d'ecrire », « on se sent à cent lieues d eux », « me servir (?) à moi » ; le mot « bridge » n'est pas lu. Les leçons restées douteuses sont marquées.
+- Présentation refaite, plus brève : pièces, ordre (incertain, selon Pierre Combes lui-même), date probable (hiver 1916–1917, l'hiver 1915–1916 n'étant pas exclu), portée exacte des titres de chapitres (titres d'un récit projeté, non états de service). La revue du chapitre IX est « sans doute » celle du 25 octobre 1915.
+- Les 23 passages de l'édition qui citaient une lecture abandonnée (biographie, introductions, état des services, chapitres, pages 042, 044, 124, 153, bibliographie) ont été alignés et contre-vérifiés.
 
 ## Contrôles
 

@@ -54,6 +54,6 @@ La publication se fait sur `main` par avance rapide, sans réécriture d'histori
 - Textes : introductions, chapitres et annexes resserrés et contre-vérifiés contre leur version précédente ; citations du carnet recalées sur la transcription définitive.
 - Pour les prochains passages : ne pas rétablir de remarques sur l'encre ou le papier, ni de formules pieuses ; le f. 6 v° est blanc ; `edition/donnees/index.yaml` est la référence (ne pas le régénérer depuis d'anciens brouillons).
 
-Les *Feuillets de Route* (annexe, document 6) sont en cours de relecture lettre à lettre par deux lecteurs indépendants, avec arbitrage ; leur édition révisée suivra dans un second commit.
+Les *Feuillets de Route* (annexe, document 6) ont été relus lettre à lettre par deux lecteurs indépendants, arbitrés sur l'image et contre-vérifiés : nouvelle transcription et présentation (chapitre IV « A la base anglaise du Havre », non « de Rouen » ; date probable hiver 1916–1917) ; les passages de l'édition qui citaient les anciennes lectures ont été alignés.
 
 Rapport : `edition/verification/2026-10-25/`. Publication sur `main` par avance rapide, sans réécriture d'historique.
