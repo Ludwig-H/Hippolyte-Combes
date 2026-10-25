@@ -223,3 +223,8 @@ noms:
     ligne: 21
     identite: Roumanie
 source: contrôle
+audit:
+- ligne: 18
+  avant: 'Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 couronne'
+  apres: 'Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 couronne \trait'
+  justification: après couronne, long trait horizontal double, d'encre plus claire, tiré vers la droite sur environ un dixième de la largeur (zoom [.35 .83 1.0 .87]) ; trait de remplissage, non une lettre

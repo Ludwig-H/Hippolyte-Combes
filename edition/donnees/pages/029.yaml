@@ -3,7 +3,7 @@ fichier: 20251126_094159.jpg
 date: Samedi 26 août 1916
 mois: Août 1916
 lieux: Marquay et Bailleul-aux-Cornailles (Pas-de-Calais)
-titre: Ondées ; promenade à Bailleul-aux-Cornailles ; coucher de soleil ; logement sale et moisi
+titre: Ondées ; promenade à Bailleul-aux-Cornailles ; logement sale et moisi
 transcription: |
   \sl{Sam. 26 –} \hfill \sl{Aout/16}
   \ind Bien reposé, quoique dans chambrette étroite
@@ -28,21 +28,17 @@ transcription: |
   tenue, sale, moisie – quelle torture!
 apparat:
 - ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
-- ligne: 1
   lemme: Aout/16
   type: abreviation
   note: août 1916
 - ligne: 3
   lemme: ax
   type: graphie
-  note: pour « aux », le u omis
+  note: pour « aux »
 - ligne: 3
   lemme: 7H \fr{1}{2}
   type: lecture
-  note: sept heures et demie ; groupe écrit au-dessus de la ligne ; on pourrait aussi lire « 7H5 »
+  note: 'lecture incertaine ; autre lecture : 7H5'
 - ligne: 17
   lemme: le route
   type: graphie
@@ -50,22 +46,17 @@ apparat:
 - ligne: 17
   lemme: de – – à
   type: signe
-  note: deux tirets tenant la place du nom, laissé en blanc
+  note: tirets à la place d'un nom laissé en blanc
 - ligne: 18
   lemme: l.
   type: abreviation
   note: laquelle (la route)
-- ligne: 18
-  lemme: sunset
-  type: emprunt
-  note: coucher de soleil
 - ligne: 19
   lemme: install°
   type: abreviation
   note: installation
-critique: 'Les mots « de Marquay » (l.~9) sont d''une encre brune plus pâle que le reste de la page : le nom a sans doute été complété après coup dans un blanc.'
 historique: |
-  Bailleul-aux-Cornailles est à 2 km à vol d'oiseau de Marquay ; c'est l'un des quatre villages assignés à la 54th Brigade, avec La Thieuloye, Marquay et Orlencourt (JMO 7/Bedf, ordre n° 26, 23 août 1916 ; voir f. 14 v\textsuperscript{o}). Les ondées de la matinée sont aussi dans le journal des Bedfords : « Very heavy rain interfered with training » (JMO 7/Bedf, 26 août 1916). La « chambrette » est un \textit{billet} chez l'habitant : la recherche des logements revient d'ordinaire à l'interprète, et l'indemnité due au logeur, fixée en application de la loi du 3 juillet 1877 sur les réquisitions, est de 1 F par nuit et par lit d'officier, 20 c par lit de soldat (Fernand-Laurent 1917, p. 225-234). Hippolyte Combes ne changera pas de logement : le 6 septembre encore, il dit languir « ds ce trou perdu, et sale » (voir f. 19 r\textsuperscript{o}), jusqu'au départ de la brigade le 9.
+  Bailleul-aux-Cornailles est à 2 km à vol d'oiseau de Marquay, dans la zone de cantonnement de la 54th Brigade (voir f. 14 v\textsuperscript{o}). Le journal des Bedfords note aussi la pluie : « \textit{Very heavy rain interfered with training} » (JMO 7/Bedf, 26 août 1916). La « chambrette » est un \textit{billet} chez l'habitant. L'interprète cherche d'ordinaire ces logements ; en application de la loi du 3 juillet 1877 sur les réquisitions, le logeur reçoit 1 F par nuit pour un lit d'officier et 20 c pour un lit de soldat (Fernand-Laurent 1917, p. 225-234). Hippolyte Combes garde ce logement jusqu'au départ de la brigade, le 9 septembre (voir f. 19 r\textsuperscript{o}).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916, ordre d''opérations n° 26 du 23 août et journal du 26 août (transcription en ligne).'
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 225-234.

@@ -117,3 +117,8 @@ noms:
     ligne: 20
     identite: Estaires (Nord)
 source: contrôle
+audit:
+- ligne: 5
+  avant: Après-midi
+  apres: Apres-midi
+  justification: au zoom ×3, aucun accent au-dessus du e d'« Apres » (A, p, r, e, s final à barre, tiret) ; accent non restitué (BALISAGE § 7).

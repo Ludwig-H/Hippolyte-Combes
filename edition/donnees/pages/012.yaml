@@ -7,7 +7,7 @@ titre: Départ de Saint-Jans-Cappel par Bailleul ; installation à La Croix-du-B
 transcription: |
   \sl{Sam. 5} \hfill Aout \sl{1916}
   \ind Lev. vers 6^{H} –
-  Bientot, ts préparatifs terminés.
+  Bientot, ts preparatifs terminés.
   Porte moi-= en 3 voy. mes sacs à l'office
   et les vu charger s/ wagon no 5 –
   Ciel tjs couvert de gros nuages noirs.
@@ -31,22 +31,10 @@ transcription: |
   \ind[2] Consommations : 60c (bière
   A Connelly, mon groom : 1 f —
 apparat:
-- ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
 - ligne: 2
   lemme: Lev.
   type: abreviation
   note: levé
-- ligne: 2
-  lemme: 6^{H}
-  type: abreviation
-  note: six heures
-- ligne: 3
-  lemme: ts
-  type: abreviation
-  note: tous
 - ligne: 4
   lemme: moi-=
   type: abreviation
@@ -55,70 +43,18 @@ apparat:
   lemme: voy.
   type: abreviation
   note: voyages
-- ligne: 4
-  lemme: office
-  type: emprunt
-  note: bureau
-- ligne: 5
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 5
-  lemme: 'no'
-  type: abreviation
-  note: numéro
-- ligne: 6
-  lemme: tjs
-  type: abreviation
-  note: toujours
-- ligne: 8
-  lemme: Ds
-  type: abreviation
-  note: dans
-- ligne: 8
-  lemme: tt
-  type: abreviation
-  note: tout
 - ligne: 8
   lemme: A.S.C. men
   type: emprunt
   note: hommes de l'Army Service Corps (train des équipages britannique)
-- ligne: 10
-  lemme: 2^{H}
-  type: abreviation
-  note: deux heures
-- ligne: 13
-  lemme: 4^{H} \fr{1}{2}
-  type: abreviation
-  note: quatre heures et demie
-- ligne: 14
-  lemme: Horse-lines
-  type: emprunt
-  note: lignes d'attache des chevaux
 - ligne: 16
   lemme: pr. offs.
   type: abreviation
   note: pour officiers
-- ligne: 17
-  lemme: la Coy
-  type: lecture
-  note: « la » (haste haute devant a) ; la compagnie
-- ligne: 17
-  lemme: Coy
-  type: abreviation
-  note: Company, compagnie britannique
-- ligne: 20
-  lemme: St
-  type: abreviation
-  note: Saint
 - ligne: 20
   lemme: Jans-Capel
   type: graphie
-  note: Saint-Jans-Cappel (Nord)
-- ligne: 20
-  lemme: oeufs, )
-  type: signe
-  note: trait fin oblique en bout de ligne, lu comme parenthèse fermante
+  note: pour Saint-Jans-Cappel (Nord)
 - ligne: 21
   lemme: 1^{f} 60
   type: abreviation
@@ -127,21 +63,9 @@ apparat:
   lemme: for washing
   type: emprunt
   note: pour le blanchissage
-- ligne: 22
-  lemme: 'Consommations : 60c (bière'
-  type: disposition
-  note: ligne serrée dans l'interligne, sans doute ajoutée après coup ; parenthèse non refermée
-- ligne: 22
-  lemme: 60c
-  type: abreviation
-  note: 60 centimes
-- ligne: 23
-  lemme: groom
-  type: emprunt
-  note: ordonnance, palefrenier
-critique: Le verso de ce feuillet n'a pas été photographié ; le récit reprend le 6 août au f. 7 r\textsuperscript{o}.
+critique: Le verso de ce feuillet est resté blanc.
 historique: |
-  Le départ du convoi accompagne la descente de la 54th Brigade vers la Lys : le même jour, le 7th Bedfordshire quitte à 5 h 30 le « Steam Mill », à l'ouest de Bailleul, gagne Erquinghem par Bailleul et relève dans la nuit du 6 au 7 le 1st Wellington (1st New Zealand Brigade), à cheval sur la route Armentières–Lille (Beds War Diary, 5-7 août 1916). La Croix-du-Bac, hameau de Steenwerck où Hippolyte Combes avait touché sa solde la veille (voir f. 5 r\textsuperscript{o}), est à 11 km à vol d'oiseau de Saint-Jans-Cappel ; un cimetière militaire britannique y avait été ouvert en juillet 1916 par les ambulances et les unités du secteur (CWGC). Chercher des chambres pour les officiers est l'une des « principales besognes de l'interprète » (Fernand-Laurent 1917, pp. 225-234). Connelly, nommé ici pour la première fois et de nouveau payé jusqu'au 15 octobre 1916, est le \textit{groom}, soldat chargé du cheval d'Hippolyte Combes : les officiers montés avaient « un groom, pour soigner leur cheval », en plus de l'ordonnance (Fernand-Laurent 1917, p. 64) ; il n'est pas autrement identifié.
+  Le convoi suit la 54th Brigade vers la Lys : le même jour, le 7th Bedfordshire quitte le « Steam Mill », gagne Erquinghem par Bailleul et relève dans la nuit du 6 au 7 le 1st Wellington néo-zélandais sur la route Armentières–Lille (Beds War Diary, 5-7 août 1916). Un cimetière militaire britannique a été ouvert à La Croix-du-Bac en juillet 1916 (CWGC). Chercher des chambres pour les officiers est l'une des « principales besognes de l'interprète » (Fernand-Laurent 1917, pp. 225-234). Connelly, payé de nouveau jusqu'au 15 octobre 1916 et non autrement identifié, est le \textit{groom} qui soigne le cheval d'Hippolyte Combes ; les officiers montés en ont un en plus de l'ordonnance (Fernand-Laurent 1917, p. 64).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1607-1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, juillet-septembre 1916 (Beds War Diary), 5-7 août.'
 - CWGC, Croix-du-Bac British Cemetery, Steenwerck (fiche 28202), historique.

@@ -53,7 +53,7 @@ chapitres:
 - numero: V
   premier_cliche: 105
   titre: L'hiver à Acheux-en-Amiénois
-  periode: 1er décembre 1916 – 25 janvier 1917
+  periode: 1\textsuperscript{er} décembre 1916 – 25 janvier 1917
   illustrations:
   - fichier: illustrations/epoque/bertrancourt_foyer_ymca_avril_1918.jpg
     largeur: 0.62\textwidth

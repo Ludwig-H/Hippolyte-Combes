@@ -1,9 +1,9 @@
 cliche: 53
 fichier: 20251126_103131.jpg
-date: Mardi 26 septembre 1916
+date: Mardi 26 septembre 1916 (suite)
 mois: Septembre 1916
 lieux: Paris
-titre: 'Paris : Saint-Germain, Notre-Dame, Tour Saint-Jacques ; départ d''Orsay ; comptes du séjour'
+titre: 'Paris : Notre-Dame, tour Saint-Jacques ; départ d''Orsay ; comptes du séjour'
 transcription: |
   mardi – \sl{26} \hfill \sl{Sept 16}
   Dejeun – B^{d} St-Germain
@@ -24,7 +24,7 @@ transcription: |
   Zyromski : Lorgueil humain : 4^{f}. net : 3^{f}20
   Maeterlinck : Les Debris : 3^{f}50. – Cirage : 25 c
   Dejeun : 1^{f}60. – Diner : 1^{f}60. – C^{tes} p^{les} : 15 c
-  Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 couronne
+  Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 couronne \trait
   Kepi (au Bon Marché : 8^{f}75. – Consigne : \inc{15 c}
   Carte de Verdun : 50 c – \inc{Entretien} souliers : 30 c
   Carte Roumanie : 30 c – \inc{Divers} : W.C : 15 c
@@ -44,11 +44,7 @@ apparat:
 - ligne: 5
   lemme: \inc{Lgs}
   type: lecture
-  note: 'lgs (longtemps), L bouclé suivi de deux jambages descendants ; autre lecture : 1 H (une heure)'
-- ligne: 5
-  lemme: ds
-  type: abreviation
-  note: dans
+  note: 'longtemps ? ; autre lecture : 1 H (une heure)'
 - ligne: 6
   lemme: St-Jacques
   type: abreviation
@@ -76,11 +72,11 @@ apparat:
 - ligne: 12
   lemme: \inc{Envois}
   type: lecture
-  note: 'Envois, finale en haute boucle (s) ; autre lecture : Envoi'
+  note: 'autre lecture : Envoi'
 - ligne: 12
   lemme: (\inc{Therese})
   type: lecture
-  note: 'Therese, initiale T à forte barre de tête ; autres lectures : Germaine, Thomas'
+  note: 'autres lectures : Germaine, Thomas'
 - ligne: 13
   lemme: 2e cl.
   type: abreviation
@@ -93,26 +89,14 @@ apparat:
   lemme: chvx
   type: abreviation
   note: cheveux ; le 1 f qui suit est le prix de la coupe
-- ligne: 13
-  lemme: 15^{f}
-  type: lecture
-  note: 15 f (distinct du prix de la coupe qui suit)
 - ligne: 14
   lemme: \ill
   type: lecture
-  note: objet de la remise, mot de quatre à cinq jambages non résolu (montre ? mesure ?)
-- ligne: 14
-  lemme: 12^{f} 50
-  type: compte
-  note: 12 f 50, ramenés à 10 f 50 après remise
+  note: mot illisible (montre ? mesure ?)
 - ligne: 17
   lemme: Dejeun
   type: abreviation
   note: déjeuner
-- ligne: 17
-  lemme: C^{tes} p^{les}
-  type: abreviation
-  note: cartes postales
 - ligne: 18
   lemme: artif^{lles}
   type: abreviation
@@ -120,27 +104,25 @@ apparat:
 - ligne: 19
   lemme: \inc{15 c}
   type: lecture
-  note: 'montant serré au bord de la page, en forme de k ; autres lectures : 10 c, 1 c'
+  note: 'autres lectures : 10 c, 1 c'
 - ligne: 20
   lemme: \inc{Entretien}
   type: lecture
-  note: lecture proposée, mot contracté (E, n, t suscrit, -rien)
+  note: lecture proposée (mot contracté)
 - ligne: 21
   lemme: \inc{Divers}
   type: lecture
-  note: initiale mal formée ; lecture proposée
+  note: lecture proposée
 - ligne: 21
   lemme: W.C
   type: emprunt
   note: 'water-closet : toilettes'
-critique: Encre violette. Le récit continue la journée commencée sur la page précédente (f.~26 v\textsuperscript{o}) ; après un blanc, les comptes placés sous le filet récapitulent tout le passage à Paris, du tramway du Bourget au départ d'Orsay.
 historique: |
-  Les « Magasins de l'Hôtel-de-Ville » sont le Bazar de l'Hôtel-de-Ville, 54--62, rue de Rivoli (Baedeker 1913, p.~52). Le billet à « \fr{1}{4} place » applique l'article~54 des cahiers des charges de 1859, qui réduit au quart de la taxe le prix payé par les militaires en permission (Lafon 1922, p.~37) ; le plein tarif Paris--Toulouse en 2\textsuperscript{e} classe était de 54~fr.~30 (Baedeker 1912, R.~39). Ernest Zyromski (1862--1933), professeur de littérature française à la faculté des lettres de Toulouse, avait publié \textit{L'Orgueil humain} chez Armand Colin en 1904 (BnF) ; le « net » de 3~f~20 suppose une remise de 20~\% ; Hippolyte Combes suivra son cours public le 30 janvier 1917 (voir f.~67 v\textsuperscript{o}). \textit{Les Débris de la guerre} de Maeterlinck (Fasquelle, 1916) est vendu au prix de la Bibliothèque-Charpentier. La carte de Roumanie suit l'actualité : entrée en guerre le 27 août 1916 (\textit{La Dépêche}, 29 août 1916, p.~1), la Roumanie subit à partir de ce 26 septembre la contre-offensive de Falkenhayn devant Hermannstadt (Wikipédia, « Battle of Nagyszeben »).
+  Les « Magasins de l'Hotel-de-Ville » sont le Bazar de l'Hôtel-de-Ville (Baedeker 1913, p.~52). Le « \fr{1}{4} place » est le tarif des militaires en permission (Lafon 1922, p.~37) ; le plein tarif Paris--Toulouse en 2\textsuperscript{e} classe est de 54~fr.~30 (Baedeker 1912, R.~39). Ernest Zyromski (1862--1933), auteur de \textit{L'Orgueil humain} (1904), enseigne à la faculté des lettres de Toulouse (BnF) ; Hippolyte Combes suivra son cours le 30 janvier 1917 (voir f.~67 v\textsuperscript{o}). La Roumanie, entrée en guerre le 27 août (\textit{La Dépêche}, 29 août 1916, p.~1), subit dès ce jour la contre-offensive de Falkenhayn devant Hermannstadt (Wikipédia, « Battle of Nagyszeben »).
 sources:
 - Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, Baedeker, 1913, p. 52.
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, route 39.
 - Lafon, G., Les Chemins de fer français pendant la guerre, thèse de droit, Paris, A. Rousseau, 1922, p. 37.
 - BnF, notice d'autorité « Ernest Zyromski (1862-1933) », data.bnf.fr/12976861.
-- Maeterlinck, M., Les Débris de la guerre, Paris, Fasquelle, Bibliothèque-Charpentier, 1916.
 - La Dépêche (Toulouse), 29 août 1916, p. 1.
 - Wikipédia (en), « Battle of Nagyszeben (1916) », consulté en oct. 2026.

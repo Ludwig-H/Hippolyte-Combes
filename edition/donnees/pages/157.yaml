@@ -3,7 +3,7 @@ fichier: 20251126_110943.jpg
 date: Lundi 19 – mardi 20 février 1917
 mois: Février 1917
 lieux: Hérissart, Fréchencourt, Bavelincourt et Pierregot (Somme)
-titre: Paille et foin dans l'Hallue et à Pierregot ; chambre humide de Williams ; logeuse malade
+titre: Paille et foin dans l'Hallue et à Pierregot ; chambre humide ; logeuse malade
 transcription: |
   19 \sl{Lundi}. ( En caisse: 225^{f}95) \hfill \sl{Février 1917}
   \ind Tout le jour, temps couvert
@@ -43,7 +43,7 @@ apparat:
 - ligne: 8
   lemme: \inc{Leonard}
   type: lecture
-  note: lecture incertaine (L initial, finale bouclée descendante) ; autre lecture possible Lemard
+  note: 'lecture incertaine ; autre lecture : Lemard'
 - ligne: 8
   lemme: billets
   type: emprunt
@@ -55,15 +55,7 @@ apparat:
 - ligne: 9
   lemme: 7b
   type: autre
-  note: numéro du logement quitté (sans doute 7 bis)
-- ligne: 10
-  lemme: cap
-  type: abreviation
-  note: capitaine
-- ligne: 11
-  lemme: office
-  type: emprunt
-  note: bureau
+  note: sans doute 7 bis (numéro du logement quitté)
 - ligne: 12
   lemme: floor
   type: emprunt
@@ -76,34 +68,10 @@ apparat:
   lemme: prop^{re}
   type: abreviation
   note: propriétaire (la logeuse du n° 104) ; finale -re suscrite
-- ligne: 13
-  lemme: 'no'
-  type: abreviation
-  note: numéro
 - ligne: 14
   lemme: M.O ?
   type: abreviation
   note: 'Medical Officer : médecin militaire ; le signe final a la forme d''un point d''interrogation'
-- ligne: 15
-  lemme: '[ Hair cut : net. 30c'
-  type: disposition
-  note: petit compte à droite de la date, ouvert par un grand crochet anguleux
-- ligne: 15
-  lemme: Hair cut
-  type: emprunt
-  note: coupe de cheveux
-- ligne: 15
-  lemme: Hair
-  type: lecture
-  note: H à deux hastes reliées par une traverse, comme dans Hérissart (l. 25)
-- ligne: 15
-  lemme: 30c
-  type: abreviation
-  note: 30 centimes
-- ligne: 20
-  lemme: office
-  type: emprunt
-  note: bureau
 - ligne: 22
   lemme: abst
   type: abreviation
@@ -116,10 +84,9 @@ apparat:
   lemme: 2 fr
   type: abreviation
   note: 2 francs
-critique: 'Encre violette ; dans le compte final, « service chambre » est d''une encre plus pâle, brunâtre, que reprend l''encre violette pour « en tout : 2 fr » : plume presque sèche ou mots complétés après coup.'
 historique: |
-  Fréchencourt et Bavelincourt sont dans la vallée de l'Hallue, desservie depuis mai 1916 par la voie normale Daours--Contay ; Fréchencourt était tête de ligne des vivres de la Fourth Army le 1\textsuperscript{er} juillet 1916 (OH 1916-I, p.~273--274). Le « cap\textsuperscript{e} Leonard » n'est pas identifié : peut-être le capitaine Robert Marsh Leonard, de l'A.S.C. (TNA, WO 374/41729) (hypothèse fragile) ; les nouveaux \textit{billets} relèvent en tout cas du \textit{Town Major}, qui tient la liste des logements numérotés de la localité (Fernand-Laurent 1917, p.~227 ; voir f.~73~v\textsuperscript{o}). La chambre libérée par le capitaine Williams (voir f.~52~v\textsuperscript{o}) jouxte le bureau ; Williams ne partira définitivement que le 10 mars (voir f.~82~v\textsuperscript{o}). La « propre » du n\textsuperscript{o}~104 est la logeuse d'une autre maison ; le M.O., \textit{Medical Officer}, est un médecin militaire britannique. Albertine, blanchisseuse d'Hérissart, est inconnue ; ses 1~F~70 dépassent les notes de blanchissage de l'hiver, souvent de 60 à 80~c (relevé de l'éditeur).
+  Fréchencourt et Bavelincourt sont sur l'Hallue (voir f.~77~v\textsuperscript{o}) ; Fréchencourt était tête de ligne des vivres de la Fourth Army le 1\textsuperscript{er} juillet 1916 (OH 1916-I, p.~274). Le « cap\textsuperscript{e} Leonard » n'est pas identifié ; peut-être le capitaine Robert Marsh Leonard, A.S.C. (TNA, WO 374/41729), hypothèse fragile. Les \textit{billets} relèvent du \textit{Town Major}, qui tient la liste des logements numérotés (Fernand-Laurent 1917, p.~227 ; voir f.~73~v\textsuperscript{o}). Le capitaine Williams (voir f.~52~v\textsuperscript{o}) ne partira définitivement que le 10 mars (voir f.~82~v\textsuperscript{o}). Albertine, blanchisseuse d'Hérissart, est inconnue ; ses 1~F~70 dépassent les notes de blanchissage de l'hiver, souvent de 60 à 80~c (relevé de l'éditeur).
 sources:
-- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Londres, Macmillan, 1932, p. 273-274.
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Londres, Macmillan, 1932, p. 274.
 - 'The National Archives (Kew), WO 374/41729 : dossier d''officier du Captain Robert Marsh Leonard, Army Service Corps (notice du catalogue).'
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, p. 227.

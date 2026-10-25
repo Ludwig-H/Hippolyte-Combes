@@ -131,3 +131,12 @@ noms:
     ligne: 18
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+audit:
+- ligne: 15
+  avant: plané, évolué ciel bleu, juste au-
+  apres: plané, evolué ciel bleu, juste au-
+  justification: 'zoom ×3 : aucun accent sur le e initial (seul trait, celui de « plané », avant la virgule) ; accent présent sur le é final seulement'
+- ligne: 20
+  avant: M. & Mme Carluvant m'ont offert déjeuner
+  apres: M. & Mme \inc{Carluvant} m'ont offert déjeuner
+  justification: 'zoom ×4 : après le l, quatre ou cinq minimes indistinctes puis une boucle fermée par le haut et n, t ; le tracé ne permet pas de trancher entre Carluvant (autres occurrences) et Carlumont : lecture marquée incertaine'

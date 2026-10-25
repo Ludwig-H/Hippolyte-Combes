@@ -3,70 +3,50 @@ fichier: 20251126_105411.jpg
 date: Samedi 30 et dimanche 31 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Franvillers, Senlis-le-Sec, Raincheval et Beauquesne (Somme)
-titre: Réfugiés de Martinsart à Franvillers ; mot regrettable puis excuses de Williams ; mess
+titre: Réfugiés de Martinsart à Franvillers ; mot regrettable puis excuses de Williams
 transcription: |
   30 \sl{Sam.} \hfill \sl{Dec^{bre} /16}
   \ind Toute la nuit & à l'aube, pluie torrentielle
   Temperature d'1 douceur exceptionnelle. Air tiède
   Matinée course en auto (Sunbeam) à Franvillers,
   où revu trio de vieux, débonnaire originaux,
-  extrêm^{t} sympathiques, refugiés de Martinsart.
+  extrêm^{t} sympathiques, refugiés de Martinsart
   \ind A Senlis, devant l'ordonnance, mot
   très regrettable du cap. Williams. A l'arrivée à Acheux
   explication très calme, mais très ferme. Il a fait des
-  excuses et m'a supplié de ne pas le quitter etc.
+  excuses et m'a supplié de ne pas le quitter etc
   \ind Après-midi, entiert libre —
   \ind[2] — Clous aux semelles de mes bottes : 1^{f} 60
   \filet
   31 \sl{Dim.} \hfill Tempér^{re} +tot. chaude, et pluie
-  fine, intermittente
+  fine, intermittente \trait
   \ind matinée, ds ma chambre —
   Aussitot après lunch, partis en auto : Belle
   Eglise, Raincheval & Beauquesne
   Légère brume estompe paysages lointains
   \ind[2] Mon jeune cap^{ne}, attitude gênée et
   presque humiliée, contrite – Parle à \inc{peine} paraît
-  et n'ose plus me regarder en face \trait \add{très} (déprimé
+  et n'ose plus me regarder en face \trait (\add{très} déprimé
   \ind Soir, Y.M.C.A hut, assisté \fr{1}{2} séance. —
   \crochet{2}— Dépenses mess : 45^{f} + 10^{f} + 1^{f} + 22 fr —
   \droite = 88 fr. —
 apparat:
 - ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
-- ligne: 1
   lemme: Dec^{bre} /16
   type: abreviation
   note: décembre 1916 (finale -bre réduite à une ondulation)
-- ligne: 3
-  lemme: d'1
-  type: abreviation
-  note: d'une
 - ligne: 4
   lemme: Sunbeam
   type: emprunt
   note: marque d'automobiles britannique (voiture de service)
-- ligne: 5
-  lemme: débonnaire
-  type: lecture
-  note: sans s final (on attendrait débonnaires)
 - ligne: 6
   lemme: extrêm^{t}
   type: abreviation
   note: extrêmement
-- ligne: 8
-  lemme: cap.
+- ligne: 10
+  lemme: etc
   type: abreviation
-  note: capitaine
-- ligne: 8
-  lemme: Acheux
-  type: lecture
-  note: Ache suivi d'un long trait tenant lieu de la finale
-- ligne: 9
-  lemme: Il a fait des
-  type: lecture
-  note: Il a, initiale I suivie de l
+  note: et cætera (sans point abréviatif)
 - ligne: 11
   lemme: entiert
   type: abreviation
@@ -76,10 +56,6 @@ apparat:
   type: abreviation
   note: 1 franc 60
 - ligne: 13
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
-- ligne: 13
   lemme: Tempér^{re}
   type: abreviation
   note: température
@@ -87,14 +63,6 @@ apparat:
   lemme: +tot.
   type: abreviation
   note: plutôt
-- ligne: 15
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 16
-  lemme: lunch
-  type: emprunt
-  note: déjeuner
 - ligne: 19
   lemme: cap^{ne}
   type: abreviation
@@ -102,27 +70,15 @@ apparat:
 - ligne: 20
   lemme: \inc{peine}
   type: lecture
-  note: lecture probable ; on peut lire aussi « peu »
-- ligne: 21
-  lemme: (déprimé
-  type: disposition
-  note: écrit dans le blanc à droite ; parenthèse non refermée
+  note: 'lecture probable ; autre lecture : « peu »'
 - ligne: 22
   lemme: Y.M.C.A
   type: abreviation
   note: Young Men's Christian Association (foyer du soldat)
 - ligne: 22
-  lemme: hut
-  type: emprunt
-  note: baraque
-- ligne: 22
   lemme: \fr{1}{2}
   type: abreviation
   note: demi-
-- ligne: 23
-  lemme: mess
-  type: emprunt
-  note: popote des officiers
 - ligne: 23
   lemme: 45^{f}
   type: abreviation
@@ -130,15 +86,13 @@ apparat:
 - ligne: 23
   lemme: 22 fr
   type: ajout
-  note: à l'encre violette, ajouté après coup
+  note: ajouté après coup
 - ligne: 24
   lemme: = 88 fr. —
   type: compte
   note: 'total faux : 45 + 10 + 1 + 22 = 78 fr'
-critique: Page écrite à l'encre noire ; un filet sépare les deux journées.
 historique: |
-  Hippolyte Combes est passé le 1\textsuperscript{er} décembre à Franvillers, à 12~km au sud d'Acheux (voir f.~52~v\textsuperscript{o}) ; le « trio de vieux », non identifié, vient de Martinsart, resté « proche de la ligne de front jusqu'en septembre 1916 » (CWGC ; voir f.~52~r\textsuperscript{o}). Senlis-le-Sec abrite alors le QG du IV Corps (1\textsuperscript{er} déc. 1916 – 21 janv. 1917 : LLT). Le « mot très regrettable » de Williams, capitaine de vingt ans, ancien \textit{office boy} (f.~53~v\textsuperscript{o}), suit de six jours la « gaffe » du 24 décembre chez Mme Cuisinier, à Louvencourt (« Bloody France etc. ! »), qu'Hippolyte Combes hésitait à signaler à la Mission (f.~56~v\textsuperscript{o}, 57~r\textsuperscript{o}) ; la prière « de ne pas le quitter » suggère que l'interprète a parlé de partir. Pour Belle-Église, voir f.~53~r\textsuperscript{o}. Les quatre postes du mess font 78~F, non 88 : l'erreur porte sur les ajouts à l'encre violette. Même corrigée, la dépense absorbe près de la moitié des 162,75~F touchés par Hippolyte Combes en décembre (calcul de l'éditeur, d'après le carnet).
+  Pour Franvillers, à 12~km au sud d'Acheux, voir f.~52~v\textsuperscript{o}. Le « trio de vieux », non identifié, vient de Martinsart, resté « proche de la ligne de front jusqu'en septembre 1916 » (CWGC ; voir f.~52~r\textsuperscript{o}). Senlis-le-Sec abrite alors le QG du IV Corps (LLT). Le « mot très regrettable » de Williams, capitaine de vingt ans (f.~53~v\textsuperscript{o}), vient six jours après le « Bloody France » de Louvencourt (voir f.~56~v\textsuperscript{o}, 57~r\textsuperscript{o}). Sa prière « de ne pas le quitter » suggère que l'interprète a parlé de partir. Pour Belle-Église, voir f.~53~r\textsuperscript{o}. Le mess coûte 78~F, non 88 ; c'est près de la moitié des 162,75~F touchés en décembre (calcul de l'éditeur).
 sources:
 - Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).
 - Baker, C., The Long, Long Trail, « The British IV Corps in France and Flanders » (longlongtrail.co.uk, copie Wayback de déc. 2021).
-- geo.api.gouv.fr, coordonnées des mairies (distances à vol d'oiseau).

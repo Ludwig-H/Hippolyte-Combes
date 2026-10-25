@@ -175,3 +175,8 @@ noms:
     ligne: 20
     identite: Léalvillers (Somme)
 source: contrôle
+audit:
+- ligne: 11
+  avant: ciel nuageux. Bientôt bruine.
+  apres: ciel nuageux. Bientot bruine.
+  justification: 'zoom x3 [.20 .325 .50 .385] : B-i-e-n-t-o-t, barre du t final prolongée à droite ; aucun circonflexe au-dessus du o (même graphie que « tot » l. 2 et l. 23)'

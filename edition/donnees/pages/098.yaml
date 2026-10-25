@@ -3,7 +3,7 @@ fichier: 20251126_104801.jpg
 date: Dimanche 12 et mardi 14 novembre 1916
 mois: Novembre 1916
 lieux: Acheux-en-Amiénois, Contay, Beauquesne ? et Doullens (Somme) ; Frévent (Pas-de-Calais)
-titre: Course à Beauquesne (?) ; bombardement vers Beaumont, blessés ; tournée à Doullens et Frévent
+titre: Course à Beauquesne (?) ; bombardement vers Beaumont ; Doullens et Frévent
 transcription: |
   \sl{Dim. 12.} \hfill \sl{Novembre 1916}
   \ind assz belle journée. Matin & soir, brouillard
@@ -29,30 +29,14 @@ transcription: |
   A Doullens, grande foire
   \ind A Frévent, promené passim — Petite
   ville assz coquette belle église, \inc{catéchismes} & un \inc{carillon} —
-  — Boutons simili-cuir : 4^{f} 75 (10 \add{0.40} \inc{gd}, 3 \add{0.25} petit\lac
+  — Boutons simili cuir : 4^{f} 75 (10 \add{0.40} \inc{gd}, 3 \add{0.25} petit\lac
   \crochet{2}Cartes ple : 40c – 1 50 et 10c
   Déjeuner à l'hôtel d'Amiens, ma part : 7 fr
 apparat:
-- ligne: 1
-  lemme: Dim.
-  type: abreviation
-  note: Dimanche
-- ligne: 2
-  lemme: assz
-  type: abreviation
-  note: assez
-- ligne: 3
-  lemme: pétri & sillons
-  type: lecture
-  note: esperluette nette (petite boucle, haste plongeante)
 - ligne: 7
   lemme: Beauq\lac
   type: lecture
-  note: fin du mot hors champ (bord droit de la photographie) ; Beauquesne probable ; Beaucourt(-sur-l'Hallue), au-delà de Contay, possible
-- ligne: 11
-  lemme: 'Journal semaine : 40 c'
-  type: disposition
-  note: un trait horizontal, tiré dans la marge, touche le crochet à mi-hauteur
+  note: fin du mot hors champ ; Beauquesne probable ; Beaucourt-sur-l'Hallue possible
 - ligne: 11
   lemme: 40 c
   type: abreviation
@@ -61,14 +45,10 @@ apparat:
   lemme: khaki
   type: emprunt
   note: kaki (anglais khaki)
-- ligne: 12
-  lemme: 1^{f}
-  type: abreviation
-  note: 1 franc
 - ligne: 13
   lemme: '14'
   type: lecture
-  note: 4 empâté (reprise ou surcharge) ; date assurée par la suite des jours
+  note: date assurée par la suite des jours
 - ligne: 13
   lemme: Ma^{rdi}
   type: abreviation
@@ -90,96 +70,61 @@ apparat:
   type: abreviation
   note: 'x : nombre indéterminé (« de nombreux »)'
 - ligne: 16
-  lemme: s/
-  type: abreviation
-  note: sur
+  lemme: cars
+  type: emprunt
+  note: voitures automobiles (anglais cars)
 - ligne: 16
   lemme: \del{\inc{autos}}
   type: lecture
   note: lecture conjecturale sous une biffure très chargée
-- ligne: 16
-  lemme: cars
-  type: emprunt
-  note: voitures automobiles (anglais cars)
 - ligne: 18
   lemme: 8^{h}
   type: abreviation
   note: 8 heures
 - ligne: 18
-  lemme: \fr{1}{2}
-  type: abreviation
-  note: et demie
-- ligne: 18
-  lemme: m.
-  type: abreviation
-  note: matin
-- ligne: 18
   lemme: 5^{h}
   type: abreviation
   note: 5 heures
-- ligne: 19
-  lemme: tt
-  type: abreviation
-  note: tout
 - ligne: 21
   lemme: passim
   type: emprunt
   note: çà et là (latin)
 - ligne: 22
-  lemme: assz
-  type: abreviation
-  note: assez
-- ligne: 22
   lemme: \inc{catéchismes}
   type: lecture
-  note: c, a, t, é, c, h, minimes, e, s long ; catéchumènes possible
+  note: 'lecture incertaine ; autre lecture : catéchumènes'
 - ligne: 22
   lemme: \inc{carillon}
   type: lecture
-  note: 'petit mot surélevé : c, a, minimes, point d''i, sans ll distincts ; camion ou canon possibles'
+  note: 'lecture incertaine ; autres lectures : camion, canon'
 - ligne: 23
   lemme: 4^{f} 75
   type: compte
-  note: 4 francs 75 = 10 × 0,40 + 3 × 0,25
-- ligne: 23
-  lemme: '0.40'
-  type: compte
-  note: prix unitaire (40 centimes)
+  note: 10 × 0,40 + 3 × 0,25 = 4,75
 - ligne: 23
   lemme: \inc{gd}
   type: abreviation
-  note: grands (haste du d indistincte, sous le 0 de 0.40)
-- ligne: 23
-  lemme: '0.25'
-  type: compte
-  note: prix unitaire (25 centimes)
+  note: grands ; d peu net
 - ligne: 23
   lemme: petit\lac
-  type: autre
-  note: fin de ligne hors champ (petits ; parenthèse fermante ?)
-- ligne: 24
-  lemme: Cartes
-  type: disposition
-  note: crochet des l. 24–25 réduit à la haste et au pied inférieur
+  type: lecture
+  note: fin de ligne hors champ
 - ligne: 24
   lemme: Cartes ple
   type: abreviation
   note: cartes postales
 - ligne: 24
-  lemme: 40c
-  type: abreviation
-  note: 40 centimes
-- ligne: 24
   lemme: 1 50 et 10c
-  type: disposition
-  note: 1 franc 50 et 10 centimes, écrits un peu au-dessus de la ligne d'une encre plus pâle (ajout ?)
+  type: ajout
+  note: au-dessus de la ligne, sans doute ajouté ; 1 franc 50 et 10 centimes
 - ligne: 25
   lemme: 7 fr
   type: abreviation
   note: 7 francs
-critique: 'Encre violette pour la journée du dimanche 12 ; encre noire virée au brun pour les comptes du 12, le filet et toute la journée du mardi 14 : les dépenses du 12 ont été portées en même temps que le texte du 14. Le lundi 13 n''a pas d''entrée propre et n''est évoqué que par « Tout hier ». La photographie coupe le bord droit du feuillet, où se perdent la fin de « Beauq… » et de « petits ».'
+critique: |
+  Le lundi 13 n'a pas d'entrée ; « Tout hier » (l. 13) s'y rapporte.
 historique: |
-  Le lundi 13 à 5~h~45 s'ouvre la bataille de l'Ancre : la 51st (Highland) Division prend Beaumont-Hamel, à 9~km à l'est d'Acheux, et la 63rd (Royal Naval) Division atteint les abords de Beaucourt, enlevé le 14 ; les prisonniers dépassent 7~200 (Haig 1919, p.~49--51 ; OH 1916-II, p.~476--505). Les blessés gagnent les hôpitaux d'évacuation de la Fifth Army, à Varennes (voir f.~48~v\textsuperscript{o}), Contay, Puchevillers et Gézaincourt, ou l'un des deux hôpitaux stationnaires de Doullens, dont l'un est prêté par la Third Army « pour les opérations de l'Ancre » (OH 1916-II, p.~541). La course du 12 mène par Varennes et Contay probablement à Beauquesne, siège du QG avancé de Haig (voir f.~38~r\textsuperscript{o}). À Frévent (Pas-de-Calais), l'église Saint-Hilaire, des XVI\textsuperscript{e}--XIX\textsuperscript{e} siècles, est classée depuis 1982 (Mérimée PA00108287). Vêtus de kaki, les interprètes portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, p.~XIII). À 7~F, le déjeuner de l'hôtel d'Amiens est le plus cher des repas notés hors des permissions.
+  Le lundi 13 s'ouvre la bataille de l'Ancre : la 51st (Highland) Division prend Beaumont-Hamel, à 9~km à l'est d'Acheux, et la 63rd (Royal Naval) Division atteint les abords de Beaucourt, enlevé le 14 ; on compte plus de 7~200 prisonniers (Haig 1919, p.~49--51 ; OH 1916-II, p.~476--505). Les blessés vont aux hôpitaux d'évacuation de Varennes, Contay, Puchevillers et Gézaincourt, ou aux hôpitaux stationnaires de Doullens (OH 1916-II, p.~541). La course du 12 mène sans doute à Beauquesne, QG avancé de Haig (voir f.~38~r\textsuperscript{o}). La « belle église » de Frévent est Saint-Hilaire (Mérimée PA00108287). Les interprètes portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, p.~XIII).
 sources:
 - Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), London, Dent, 1919, p. 49-51.
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 476-505, 541.

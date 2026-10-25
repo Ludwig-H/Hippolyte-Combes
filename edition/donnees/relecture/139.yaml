@@ -172,3 +172,8 @@ noms:
     ligne: 16
     identite: Millau (Aveyron), ville natale de Marguerite
 source: contrôle
+audit:
+- ligne: 15
+  avant: Delicieuse intimité s/ l'épaule de Mte
+  apres: Delicieuse intimité s/ l'epaule de Mte
+  justification: 'zoom [.48 .59 .72 .65] ×3 : entre l et e un seul tracé, trait courbe descendant du haut de la boucle du l vers la tête du e (apostrophe) ; aucun accent sur le e ni décalé au-dessus du p ; même traitement que Delicieuse, debarquant, etage'

@@ -149,3 +149,12 @@ noms:
     ligne: 8
     identite: pont sur le Touch, Toulouse
 source: contrôle
+audit:
+- ligne: 6
+  avant: monté déjeun à S^{te} Marie. – \hfill Temps trè beau
+  apres: monté déjeun à S^{te} Marie – \hfill Temps trè beau
+  justification: après Marie, un seul court tiret à mi-hauteur, aucun point (tuile t2d) ; le trait au-dessus du e final est le point du i décalé
+- ligne: 7
+  avant: Après repas, pris trams et venu à Lardenne
+  apres: Après repas, pris trams et venus à Lardenne
+  justification: 'zoom ×3 : v, e, quatre minimes (n, u), puis un trait vertical montant à hauteur de hampe, identique au s final de « trams » sur la même ligne et de « Trams » (l. 14) ; pluriel cohérent avec « Redescendus »'

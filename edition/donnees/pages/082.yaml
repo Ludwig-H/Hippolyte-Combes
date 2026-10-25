@@ -3,7 +3,7 @@ fichier: 20251126_104331.jpg
 date: Samedi 21 octobre 1916
 mois: Octobre 1916
 lieux: Albert et Aveluy (Somme)
-titre: Forte gelée ; rues bombardées d'Albert, ordonnance à Aveluy ; veillée avec Abel
+titre: Gelée ; rues bombardées d'Albert ; l'ordonnance à Aveluy ; veillée avec Abel
 transcription: |
   Same\sl{di 21} \hfill \sl{Oct^{b}/16}
   \ind nuit très froide. gelé fortement
@@ -28,14 +28,6 @@ apparat:
   lemme: Oct^{b}/16
   type: abreviation
   note: octobre 1916
-- ligne: 3
-  lemme: Ds
-  type: abreviation
-  note: Dans
-- ligne: 3
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
 - ligne: 4
   lemme: reconnaissce
   type: abreviation
@@ -43,53 +35,24 @@ apparat:
 - ligne: 5
   lemme: la long rues
   type: lecture
-  note: « la » (a fermé) ; comprendre « le long des rues »
+  note: pour « le long des rues »
 - ligne: 6
   lemme: l'ordonnance
   type: lecture
-  note: peut-être l'Ordnance, dépôt de matériel de l'armée britannique
+  note: 'peut-être l''Ordnance (service du matériel) : voir le commentaire'
 - ligne: 6
   lemme: Aveluy
   type: lecture
-  note: A, v, e, l, puis finale noyée dans un long délié ; lecture appuyée par le contexte
-- ligne: 7
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 9
-  lemme: lunch
-  type: emprunt
-  note: déjeuner
+  note: finale peu lisible ; lecture appuyée par le contexte
 - ligne: 13
   lemme: home
   type: emprunt
   note: chez soi ; ici, son logement
 - ligne: 14
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 14
   lemme: \inc{&}
   type: lecture
-  note: signe à crochet de tête et petite boucle, plutôt « & » (et) qu'une virgule
-- ligne: 15
-  lemme: lgs
-  type: abreviation
-  note: longtemps
-- ligne: 15
-  lemme: cie
-  type: abreviation
-  note: compagnie
-- ligne: 16
-  lemme: +
-  type: abreviation
-  note: plus
-- ligne: 17
-  lemme: Tjours
-  type: abreviation
-  note: toujours
-critique: Page d'une seule journée, à l'encre violette ; le dernier tiers de la page est resté blanc.
+  note: 'lecture incertaine ; autre lecture : virgule'
 historique: |
-  Ce samedi est le jour de l'attaque du II Corps sur Regina et Stuff Trenches, à 12~h~06, à laquelle prend part la 53rd Brigade de la 18th Division (voir f.~41~r\textsuperscript{o}) : la « canonnade » du soir en est l'écho. L'histoire officielle note que la journée « se leva belle et froide » (OH 1916-II, p.~462). Aveluy (Somme), à 2,5~km au nord d'Albert dans la vallée de l'Ancre, est sur la grande ligne Albert--Arras, où la voie normale Candas--Acheux est prolongée à l'automne 1916 (OH 1916-II, p.~543). « L'ordonnance » y désigne peut-être un dépôt de l'\textit{Army Ordnance Department}, le service du matériel ; la lecture du nom de lieu n'est pas sûre. Le camp du « plateau » est celui des briqueteries au nord d'Albert (voir f.~40~v\textsuperscript{o}). Abel est le plus jeune fils des Duchâteau, famille d'Albert chez qui loge sans doute Hippolyte Combes. Leur fils aîné, maréchal des logis d'artillerie dans l'armée belge, vient en permission le 29 octobre (voir f.~44~r\textsuperscript{o}).
+  Ce samedi, à 12~h~06, le II Corps attaque Regina et Stuff Trenches (voir f.~41~r\textsuperscript{o}) ; la journée « se leva belle et froide » (OH 1916-II, p.~462). Aveluy (Somme) est à 2,5~km au nord d'Albert, dans la vallée de l'Ancre, sur la ligne Albert--Arras, où l'on prolonge à l'automne 1916 la voie normale Candas--Acheux (OH 1916-II, p.~543). « L'ordonnance » y est peut-être un dépôt de l'\textit{Army Ordnance Department}, le service du matériel ; la lecture du nom de lieu n'est pas sûre. Abel est le plus jeune fils des Duchâteau, famille d'Albert chez qui loge sans doute Hippolyte Combes. Le fils aîné, maréchal des logis dans l'artillerie belge, vient en permission le 29 octobre (voir f.~44~r\textsuperscript{o}).
 sources:
-- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 462-463, 543.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 462, 543.

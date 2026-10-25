@@ -99,3 +99,12 @@ noms:
     ligne: 16
     identite: Raincheval (Somme), gare
 source: contrôle
+audit:
+- ligne: 4
+  avant: bureaux
+  apres: bureau
+  justification: b, u, r, e, a fermé, u, puis simple délié horizontal ; aucune croix de x, alors que le x d'Acheux, juste avant sur la même ligne, est nettement croisé (zoom ×3)
+- ligne: 20
+  avant: in Flanders
+  apres: In Flanders
+  justification: premier trait haut d'environ trois œils, descendant depuis la hauteur des hampes, au module du I d'Impressions (l. 14) ; le n qui suit reste au module d'une minuscule (zoom ×3)

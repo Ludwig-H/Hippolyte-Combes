@@ -1,8 +1,8 @@
-% Arbres généalogiques (d'après le dossier de recherche R1, § 2.6 : actes d'état civil, faire-part,
-% fichier INSEE des décès, études familiales de Pierre Combes). Personnes vivantes : nom et lien seulement.
+% Arbres généalogiques (actes d'état civil, faire-part, fichier INSEE des décès, études familiales
+% de Pierre Combes). Personnes vivantes : nom et lien seulement.
 \tikzset{
   LJp/.style={draw=black!70, line width=0.35pt, rounded corners=1pt, fill=white, inner sep=1.4pt,
-              align=center, font=\fontsize{6.3pt}{7.4pt}\selectfont, text width=#1},
+              align=center, font=\fontsize{6.3pt}{7.4pt}\selectfont\hyphenpenalty=10000\exhyphenpenalty=10000, text width=#1},
   LJp/.default=21mm,
   LJh/.style={LJp=#1, draw=black, line width=0.9pt, double, double distance=0.5pt},
   LJh/.default=27mm,
@@ -56,7 +56,7 @@
   \node[LJp=24mm, anchor=north] (pie) at (55,-88) {\textbf{Pierre Combes}\\\textit{historien de la famille}};
   \draw[LJl] (fo.south) -- (mau.north);
   \draw[LJl] (js.south) -- ++(0,-2) -| (pie.north);
-  \node[LJm, anchor=west, text width=60mm, align=left] at (70,-92) {Le carnet et les \textit{Feuillets de Route}, conservés chez François Combes, ont été transmis par Maurice Combes à Pierre Combes.};
+  \node[LJm, anchor=west, text width=60mm, align=left] at (70,-92) {Le carnet et les \textit{Feuillets de Route}, gardés chez François Combes, sont passés de Maurice Combes à Pierre Combes.};
 \end{tikzpicture}
 \caption{La famille d'Hippolyte Combes : ascendance, fratrie, descendance.}
 \label{arbre-combes}
@@ -91,7 +91,7 @@
   \node[LJp=20mm, anchor=north] (jcr) at (13,-37) {\textbf{abbé Jean Crouzet}\\† 1932};
   \node[LJp=22mm, anchor=north] (mad) at (39,-37) {\textbf{Madeleine}\\\textit{ép. le D\textsuperscript{r} Fernand Vincens}};
   \node[LJp=17mm, anchor=north] (pie) at (60,-37) {\textbf{Pierre}\\1884–1924\\\textit{médecin}};
-  \node[LJp=19mm, anchor=north] (mim) at (79.5,-37) {\textbf{Anne-Marie}\\« Mimi »\\1888–1975\\\textit{ép. Joseph Delcamps}};
+  \node[LJp=19mm, anchor=north] (mim) at (79.5,-37) {\textbf{Anne-Marie}\\«~Mimi~»\\1888–1975\\\textit{ép. Joseph Delcamps}};
   \node[LJh=22mm, anchor=north] (mg) at (100.5,-37) {\textbf{Marguerite}\\1892–1974\\\textit{ép. Hippolyte Combes}};
   \node[LJp=15mm, anchor=north] (lay) at (128,-37) {\textbf{Louis} et \textbf{Jean Layral}};
   \draw[LJl] (ec.south) -- (jcr.north);
@@ -100,9 +100,9 @@
   \draw[LJl] (mad.north |- c3) -- (mg.north |- c3);
   \foreach \n in {mad,pie,mim,mg} \draw[LJl] (\n.north |- c3) -- (\n.north);
   \draw[LJl] (tc.south) -- ++(0,-2) -| (lay.north);
-  \node[LJp=28mm, anchor=north] (vin) at (39,-55) {\textbf{Germaine}, \textbf{Robert}, \textbf{Paul},\\\textbf{D\textsuperscript{r} Gabriel (« Gaby »)}\\\textit{et leurs frères et sœurs Vincens}};
+  \node[LJp=28mm, anchor=north] (vin) at (39,-55) {\textbf{Germaine}, \textbf{Robert}, \textbf{Paul},\\\textbf{D\textsuperscript{r} Gabriel («~Gaby~»)}\\\textit{et leurs frères et sœurs Vincens}};
   \draw[LJl] (mad.south) -- (vin.north);
-  \node[LJm, anchor=north west, text width=72mm, align=left] at (66,-56) {Branche Fabry–Faure : Eugénie-Joséphine Calmels, sœur de Joseph Hippolyte, épouse Charles Fabry, notaire à Millau ; sa petite-fille Marguerite Barnerot, M\textsuperscript{me} Camille Faure, vit à Neuilly avec ses enfants Henri († 1918), André, Germaine et Marcel. Les arbres des branches Combes, Calmels et Vincens doivent beaucoup aux recherches de Pierre Combes et de Nicole Vincens, fille du D\textsuperscript{r} Gabriel (« Gaby ») Vincens.};
+  \node[LJm, anchor=north west, text width=72mm, align=left] at (66,-56) {Branche Fabry–Faure : Eugénie-Joséphine Calmels, sœur de Joseph Hippolyte, ép. Charles Fabry, notaire à Millau. Sa petite-fille Marguerite Barnerot, M\textsuperscript{me} Camille Faure, vit à Neuilly avec ses enfants Henri († 1918), André, Germaine et Marcel. Branches Combes, Calmels et Vincens d'après les recherches de Pierre Combes et de Nicole Vincens, fille du D\textsuperscript{r} Gabriel («~Gaby~») Vincens.};
 \end{tikzpicture}
 \caption{La famille de Marguerite Calmels : Calmels, Cartairade et alliés.}
 \label{arbre-calmels}

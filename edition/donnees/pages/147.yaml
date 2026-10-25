@@ -3,15 +3,15 @@ fichier: 20251126_110628.jpg
 date: Mercredi 7 février 1917 (suite)
 mois: Février 1917
 lieux: Acheux-en-Amiénois et Hérissart (Somme)
-titre: Le bureau du capitaine Williams parti pour Hérissart ; départ d'Acheux ; chambre au café
+titre: Le capitaine Williams parti pour Hérissart ; départ d'Acheux ; chambre au café
 transcription: |
-  Merc. \sl{7 (suite)} \hfill \sl{Février 1917}
+  merc. \sl{7 (suite)} \hfill \sl{Février 1917}
   \ind En me rendant à notre office,
   Mme Delille, qui au guichet, m'a appelé et
   m'a appris que Cap. Williams, quitté Acheux
   pour \del{\ill}Hérissart Venu aussitot Mission
   française, où trouvé un mot du cap W^{m}
-  Lui ai téléphoné du bureau Mission pour lui
+  Lui ai telephoné du bureau Mission pour lui
   annoncer mon arrivée
   Rentré chz les Carluvant, auxquels annoncé m\lac
   Atterrés. Fait en hâte mes paquets. Attendu
@@ -28,45 +28,17 @@ transcription: |
   Changement plutot penible d'habitudes
 apparat:
 - ligne: 1
-  lemme: Merc.
+  lemme: merc.
   type: abreviation
   note: mercredi
-- ligne: 2
-  lemme: office
-  type: emprunt
-  note: bureau
-- ligne: 3
-  lemme: Mme
-  type: abreviation
-  note: Madame
-- ligne: 4
-  lemme: Cap.
-  type: abreviation
-  note: capitaine
-- ligne: 5
-  lemme: \del{\ill}
-  type: rature
-  note: quelques lettres noyées sous un pâté d'encre, sans doute un premier essai du nom
 - ligne: 6
   lemme: cap W^{m}
   type: abreviation
   note: capitaine Williams
 - ligne: 9
-  lemme: chz
-  type: abreviation
-  note: chez
-- ligne: 9
   lemme: m\lac
   type: autre
-  note: fin de ligne masquée par un pâté d'encre ; sans doute « mon » (départ)
-- ligne: 11
-  lemme: \sur{\ill}{4}^{h}
-  type: surcharge
-  note: 4 récrit sur un chiffre illisible ; h = heures
-- ligne: 13
-  lemme: '1'
-  type: abreviation
-  note: un
+  note: fin de ligne sous un pâté ; sans doute « mon » (départ)
 - ligne: 17
   lemme: Town Major
   type: emprunt
@@ -75,29 +47,16 @@ apparat:
   lemme: chamb
   type: abreviation
   note: chambre
-- ligne: 17
-  lemme: 'no'
-  type: abreviation
-  note: numéro
-- ligne: 18
-  lemme: 1^{er}
-  type: abreviation
-  note: premier
 - ligne: 18
   lemme: \inc{Chatelain}
   type: lecture
-  note: 'lecture incertaine, appuyée sur le point d''i posé après le nom ; autre lecture : Chalelton'
-- ligne: 19
-  lemme: asz
-  type: abreviation
-  note: assez
+  note: 'lecture incertaine ; autre lecture : Chalelton'
 - ligne: 20
   lemme: gds
   type: abreviation
   note: grands
-critique: Le nom « Delille » est repassé. La page s'achève sur un long paraphe montant.
 historique: |
-  Ni Mme Delille, dont le « guichet » n'est pas précisé (poste, boutique ?), ni le capitaine Williams, venu le 2 décembre remplacer Curtis (f.~52~v\textsuperscript{o}), ne sont identifiés. Le bureau de la Mission française d'Acheux, celui du V Corps depuis la mi-janvier (f.~61~v\textsuperscript{o}), sert de relais de messages et de téléphone aux interprètes isolés. Hérissart (Somme), à une dizaine de kilomètres au sud-ouest d'Acheux, n'est qu'à 3~km de Toutencourt, QG de la Fifth Army jusqu'au 28 mars 1917 (OH 1916-I, p.~304 ; LLT), où siège aussi le bureau de la Mission de la V\textsuperscript{e} Armée (f.~52~v\textsuperscript{o}). L'auto passe par Raincheval, où se tenait en décembre l'\textit{Army Purchase Board} (f.~56~r\textsuperscript{o}), et par Puchevillers, siège de deux hôpitaux d'évacuation jusqu'en mars 1917 (LLT). Le café « Chalelton » (lecture incertaine ; « Charlet » possible) n'est pas identifié ; l'église, visible de sa fenêtre, est dédiée à saint Martin (Palissy PM80005288).
+  Ni Mme Delille ni le capitaine Williams, venu le 2 décembre remplacer Curtis (f.~52~v\textsuperscript{o}), ne sont identifiés. Le bureau de la Mission française d'Acheux, celui du V Corps depuis la mi-janvier (f.~61~v\textsuperscript{o}), sert de relais pour les messages et le téléphone. Hérissart (Somme), à une dizaine de kilomètres au sud-ouest d'Acheux, n'est qu'à 3~km de Toutencourt, QG de la Fifth Army jusqu'au 28 mars 1917 (OH 1916-I, p.~304 ; LLT). L'auto passe par Raincheval et par Puchevillers, qui a deux hôpitaux d'évacuation jusqu'en mars 1917 (LLT). Le café Chatelain (lecture incertaine) n'est pas identifié. L'église d'Hérissart est dédiée à saint Martin (Palissy PM80005288).
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 304.
 - Baker, C., The Long, Long Trail, « The British Fifth or Reserve Army 1916-1918 » et « Locations of British Casualty Clearing Stations » (longlongtrail.co.uk, copies Wayback 2018 et 2024).

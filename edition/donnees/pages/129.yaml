@@ -3,7 +3,7 @@ fichier: 20251126_110059.jpg
 date: Vendredi 26 janvier 1917 (suite, nuit du 26 au 27)
 mois: Janvier 1917
 lieux: Gézaincourt et Amiens (Somme)
-titre: Arrivée à Amiens vers deux heures du matin ; frais de bagages et état de la caisse
+titre: Arrivée à Amiens vers 2 h du matin ; frais de bagages et état de la caisse
 transcription: |
   Ven. \sl{26 (suite)} \hfill \sl{Janvier 1917}
   Arrivé Amiens vers 2^{H} m
@@ -19,10 +19,6 @@ transcription: |
   \filet
   \blanc{12}
 apparat:
-- ligne: 1
-  lemme: Ven.
-  type: abreviation
-  note: vendredi
 - ligne: 2
   lemme: 2^{H} m
   type: abreviation
@@ -30,23 +26,7 @@ apparat:
 - ligne: 3
   lemme: penetrant
   type: lecture
-  note: t bouclé et r liés en forme de h, d'où l'aspect « penchant »
-- ligne: 3
-  lemme: penetrant —
-  type: signe
-  note: tiret formé par la barre du t final, prolongée en trait fin
-- ligne: 4
-  lemme: qq
-  type: abreviation
-  note: quelques
-- ligne: 5
-  lemme: 1^{f}
-  type: abreviation
-  note: 1 franc
-- ligne: 6
-  lemme: (2 sacs à la gare
-  type: disposition
-  note: ligne d'un module plus petit, serrée dans l'interligne (de même l. 8) ; parenthèse non refermée
+  note: t et r liés, d'où l'aspect « penchant »
 - ligne: 7
   lemme: enregt
   type: abreviation
@@ -55,14 +35,10 @@ apparat:
   lemme: bag.
   type: abreviation
   note: bagages
-- ligne: 7
-  lemme: 10c
-  type: abreviation
-  note: 10 centimes
 - ligne: 8
   lemme: 27 kos.
   type: lecture
-  note: k, o, s final réduit, comme au f. 12 v° (« 13 kos »)
+  note: même forme qu'au f. 12 v° (« 13 kos »)
 - ligne: 8
   lemme: kos.
   type: abreviation
@@ -71,8 +47,9 @@ apparat:
   lemme: 319^{f} 50c
   type: abreviation
   note: 319 francs 50 centimes
-critique: Page écrite au tiers supérieur seulement ; le compte est enclos dans un cadre (grand crochet, segment de filet en haut à droite, double filet au pied), et le reste de la page est blanc. Au bas, décharge brunâtre de l'écriture de la page en regard. Le récit reprend au f.~65~r\textsuperscript{o} à la date du 27, en revenant sur l'arrivée à Amiens.
+critique: |
+  Le récit reprend au f.~65~r\textsuperscript{o}, à la date du 27, en revenant sur l'arrivée à Amiens.
 historique: |
-  Le voiturier d'Acheux est celui de la voiture « qui fait service poste », à qui Hippolyte Combes a fait porter ses deux sacs à la gare (f.~64~r\textsuperscript{o}). À Gézaincourt, il ne paie que 10~c pour 27~kg : sur les chemins de fer français, les voyageurs avaient droit à 30~kg de bagages en franchise, et seul était perçu un droit d'enregistrement de 10~c (Baedeker 1913, p.~xiii). Les sacs ne sont enregistrés que jusqu'à Paris : Hippolyte Combes les fait enregistrer de nouveau à la gare d'Orsay pour Toulouse (f.~65~r\textsuperscript{o}). L'encaisse de 319~f~50 au départ équivaut à peu près à deux mois de solde et d'indemnité versés au bureau de la Mission, soit 162~f~75 en décembre 1916 comme en janvier 1917 (comptes du carnet, déc. 1916 -- janv. 1917) ; elle doit couvrir le voyage et les achats de la permission, qui grèvent les comptes des pages suivantes (voir f.~66~r\textsuperscript{o}). Le froid « penetrant » de la nuit est celui de la vague de froid de janvier-février 1917 (voir f.~64~r\textsuperscript{o}).
+  Le voiturier d'Acheux est celui de la voiture « qui fait service poste » (f.~64~r\textsuperscript{o}). À Gézaincourt, Hippolyte Combes ne paie que 10~c pour 27~kg : les voyageurs avaient droit à 30~kg de bagages en franchise, et seul un droit d'enregistrement de 10~c était perçu (Baedeker 1913, p.~xiii). À Paris, il fait enregistrer de nouveau ses sacs pour Toulouse (f.~65~r\textsuperscript{o}). Les 319~f~50 en caisse au départ valent à peu près deux mois de ce que verse la Mission 162~f~75 en décembre comme en janvier ; voir f.~60~r\textsuperscript{o} et 62~v\textsuperscript{o} ; ils doivent couvrir le voyage et les achats de la permission (voir f.~66~r\textsuperscript{o}).
 sources:
 - Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, K. Baedeker, 1913, p. xiii.

@@ -180,3 +180,8 @@ noms:
     ligne: 24
     identite: Hérissart (Somme)
 source: contrôle
+audit:
+- ligne: 23
+  avant: Lu chz Mme \inc{Mignot} \add{(et Louise)}
+  apres: Lu chz Mme \inc{Miquel} \add{(et Louise)}
+  justification: Zoom ×3 [.55 .83 1.0 .905] — après M et i, lettre à panse fermée (q/g), u, e bouclé et haute haste finale sans barre (l) ; aucun o ni t barré, la finale « -ot » de Mignot n'a pas de trait ; Miguel reste possible. Historique, résumé et noms portent encore « Mignot ».

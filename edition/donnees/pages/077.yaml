@@ -3,7 +3,7 @@ fichier: 20251126_104143.jpg
 date: Mardi 17 octobre 1916 (suite)
 mois: Octobre 1916
 lieux: Warloy-Baillon, Senlis-le-Sec, Bouzincourt et Hédauville (Somme)
-titre: Après Senlis, bivouac en champ dévasté entre Bouzincourt et Hédauville ; nuit de pluie
+titre: Après Senlis, bivouac dans un champ dévasté près de Bouzincourt ; nuit de pluie
 transcription: |
   Dépassé Senlis. Campé ds 1 champ devasté, \fr{1}{2} route entre
   Bouzincourt & Hedauville — Rien laissé par ceux qui
@@ -17,10 +17,6 @@ transcription: |
   \sl{17 mardi} \hfill \sl{oct 16}
 apparat:
 - ligne: 1
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 1
   lemme: 1 champ
   type: abreviation
   note: un champ
@@ -28,34 +24,14 @@ apparat:
   lemme: \fr{1}{2} route
   type: abreviation
   note: mi-route, à mi-chemin
-- ligne: 2
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 2
-  lemme: Rien
-  type: lecture
-  note: R bouclé et n final plongeant
 - ligne: 3
   lemme: ns.
   type: abreviation
   note: nous
-- ligne: 3
-  lemme: installations sommaires
-  type: lecture
-  note: pluriel, s final plongeant aux deux mots
-- ligne: 6
-  lemme: ds
-  type: abreviation
-  note: dans
 - ligne: 6
   lemme: mess-tent
   type: emprunt
   note: tente du mess (salle à manger des officiers)
-- ligne: 6
-  lemme: s/
-  type: abreviation
-  note: sur
 - ligne: 7
   lemme: Tte
   type: abreviation
@@ -63,7 +39,7 @@ apparat:
 - ligne: 7
   lemme: plu averse
   type: lecture
-  note: pour « plu à verse » ; a lié au v, sans accent
+  note: pour « plu à verse »
 - ligne: 9
   lemme: oct 16
   type: abreviation
@@ -71,14 +47,12 @@ apparat:
 - ligne: 9
   lemme: '16'
   type: lecture
-  note: un seul trait oblique devant le 6, lu 1 ; autre lecture « /6 » (pour /16)
-critique: Page écrite en travers, à l'encre violette, à la suite du récit du 17 commencé f.~38 v\textsuperscript{o}. Le texte occupe la moitié supérieure ; après un large blanc, la date du jour, soulignée, est reportée au pied de la page.
+  note: 'autre lecture : /6 (pour /16)'
+critique: Page écrite en travers ; suite du récit du 17 octobre commencé f.~38~v\textsuperscript{o}.
 historique: |
-  Senlis-le-Sec abrite depuis le 24 juillet 1916 le QG du II Corps (Jacob), dont relève alors la 18th Division (LLT, « II Corps »). Le bivouac est sur le plateau entre Bouzincourt, à 4~km au nord-ouest d'Albert, et Hédauville, à 3,5~km plus au nord-ouest. Hédauville est sur la route Contay--Hédauville--Englebelmer--Martinsart--Aveluy, « pratiquement la seule » route proche du front praticable de jour comme de nuit (OH 1916-I, p.~271) ; le QG de la division y avait été du 25 septembre au 6 octobre, pendant l'attaque de Thiepval (Nichols 1922, p.~79). Bouzincourt, poste d'ambulances de 1916 à février 1917 (CWGC), est le cantonnement du 7th Bedfordshire le même soir (JMO 7/Bedf, 17 oct. 1916). La pluie est attestée : le 17, « clouds gathered in the afternoon and rain set in again at night », quelques heures avant l'attaque de la Fourth Army sur les crêtes du Transloy, lancée à 3~h~40 le 18 (OH 1916-II, p.~444).
+  Senlis-le-Sec abrite depuis le 24 juillet 1916 le QG du II Corps (Jacob), dont relève alors la 18th Division (LLT, « II Corps »). Le bivouac est entre Bouzincourt, à 4~km au nord-ouest d'Albert, et Hédauville, 3,5~km plus au nord-ouest. Hédauville est sur la route Contay--Englebelmer--Aveluy, « pratiquement la seule » route proche du front utilisable de jour comme de nuit (OH 1916-I, p.~271). Le QG de la division y était du 25 septembre au 6 octobre, pendant l'attaque de Thiepval (Nichols 1922, p.~79). Le 17 au soir, la pluie reprend (OH 1916-II, p.~444), quelques heures avant l'attaque de la Fourth Army sur les crêtes du Transloy, le 18 à 3~h~40.
 sources:
 - The Long, Long Trail, « The British II Corps in France and Flanders » (archive Wayback, nov. 2024).
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 271.
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 79.
-- Commonwealth War Graves Commission, notice « Bouzincourt Communal Cemetery Extension ».
-- 'Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).'
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 444.

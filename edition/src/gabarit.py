@@ -21,6 +21,11 @@ _DIPLO = {"sll": r"\LJsll", "sl": r"\LJsl", "del": r"\LJdel", "addm": r"\LJaddm"
           "inc": r"\LJinc", "fr": r"\LJfrac"}
 
 
+def date_ed(s: str) -> str:
+    """Date éditoriale (en-tête, concordance) : « 1er » avec l'exposant."""
+    return re.sub(r"\b1er\b", r"1\\textsuperscript{er}", editorial(s))
+
+
 def editorial(s: str) -> str:
     """Texte éditorial en LaTeX simple (en-tête, registres critique et historique).
 
@@ -36,6 +41,8 @@ def editorial(s: str) -> str:
     s = re.sub(r"\\lac(?![a-zA-Z])", r"\\LJlac{}", s)
     s = re.sub(r"\\trait(?![a-zA-Z])", "—", s)
     s = re.sub(r"\\hfill(?![a-zA-Z])\s*", " ", s)
+    s = re.sub(r"«[ \t]+", "«~", s)
+    s = re.sub(r"[ \t]+»", "~»", s)
     s = re.sub(r"\^\{([^{}]*)\}", r"\\textsuperscript{\1}", s)
     s = re.sub(r"\^([A-Za-z0-9])", r"\\textsuperscript{\1}", s)
     s = re.sub(r"(?<!\\)([&%#])", r"\\\1", s)
@@ -89,6 +96,21 @@ def colonne_transcription(rangees: list[Rangee]) -> tuple[str, dict[int, float]]
 TYPES_IMPRIMES = None  # tous les types d'entrées sont imprimés
 
 
+def _langue(note: str) -> str:
+    """Langue d'un emprunt : latin si la note le dit, anglais sinon."""
+    return "lat." if re.search(r"\blatin\b|^lat\.", note) else "angl."
+
+
+def _sans_langue(note: str, lemme: str) -> str:
+    """Retire de la note d'un emprunt la mention de langue, que l'apparat imprime déjà (« angl. », « lat. »)."""
+    n = re.sub(r"^\s*(angl\.|anglais|lat\.|latin)\s*:?\s*", "", note)
+    n = re.sub(r"^\(latin\)\s*|\s*\(latin\)", "", n)
+    l = re.escape(re.sub(r"\\[a-z]+\{([^{}]*)\}", r"\1", str(lemme)).strip())
+    n = re.sub(r"\s*\((?:anglais|angl\.)\s+%s\)" % l, "", n, flags=re.I) if l else n
+    n = re.sub(r"^(?:angl\.|anglais)\s+%s\s*:\s*" % l, "", n, flags=re.I) if l else n
+    return n.strip()
+
+
 def _note(e: dict) -> str:
     lemme = e.get("lemme", "")
     lemme = "" if lemme is None else str(lemme)
@@ -97,9 +119,11 @@ def _note(e: dict) -> str:
     t = e.get("type", "")
     lem = rendre(lemme) if lemme else ""
     if t == "emprunt":
-        corps = r"\textit{angl.} " + editorial(note) if note else ""
+        corps = r"\textit{%s} " % _langue(note) + editorial(_sans_langue(note, lemme)) if note else ""
     elif t == "abreviation":
-        corps = r"\textit{%s}" % editorial(note)
+        # le développement en italique ; un commentaire après « ; » reste en romain
+        dev, sep, reste = note.partition(" ; ")
+        corps = r"\textit{%s}" % editorial(dev) + (" ; " + editorial(reste) if sep else "")
     else:
         corps = editorial(note)
     if lem:
@@ -144,7 +168,7 @@ def double_page(page: dict, meta: dict) -> str:
             registres.append(r"\LJsepreg{%s}" % ("22mm" if k == 1 else "38mm"))
         registres.append(b)
     entete = r"\LJentete{%s}{%s}{%s}{%s}{%s}" % (
-        meta["feuillet"], meta["cliche"], editorial(page.get("date", "")),
+        meta["feuillet"], meta["cliche"], date_ed(page.get("date", "")),
         editorial(page.get("lieux", "")), editorial(page.get("titre", "")))
     return "\n".join([
         "%% ---- %s (cliché %s) ----" % (meta["feuillet"], meta["cliche"]),

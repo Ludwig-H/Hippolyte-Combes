@@ -128,3 +128,8 @@ noms:
     ligne: 3
     identite: Canada
 source: contrôle
+audit:
+- ligne: 6
+  avant: fort Vitres couvertes d'1 épaisse couche
+  apres: fort Vitres couvertes d'1 épaisse couche –
+  justification: après le long délié final de « couche », un court tiret détaché, à l'encre pleine, à mi-hauteur d'œil au bord droit (zoom ×3 [.72 .245 1.0 .30]) ; distinct de la tache grise voisine (transparence)

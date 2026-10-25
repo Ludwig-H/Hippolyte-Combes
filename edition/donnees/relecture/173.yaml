@@ -127,3 +127,12 @@ noms:
     ligne: 20
     identite: Puchevillers (Somme)
 source: contrôle
+audit:
+- ligne: 2
+  avant: pluie, intermitt^{te}.
+  apres: pluie \inc{pr} intermitt^{ce}.
+  justification: 'Zoom [.30 .055 .45 .10] ×5 : aucune virgule après pluie ; le tracé est un petit groupe lié (p à haste descendante, bosse, délié plongeant), lu pr (par) ; zoom [.54 .045 .67 .095] ×5 : finale suscrite en petit crochet sans barre de t, puis e, d''où ce (intermittence).'
+- ligne: 5
+  avant: Monin \inc{arrivé}
+  apres: Monin, \inc{arrivé}
+  justification: 'Zoom [.08 .165 .32 .22] ×4 : trait vertical isolé sous la ligne de base, à droite du n final de Monin et à gauche du L de L''ai (l. 6) ; ni point d''i (celui de nuit est plus bas à gauche) ni apostrophe : virgule.'

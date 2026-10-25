@@ -44,3 +44,16 @@ Le contrôle couvre les 186 fichiers de pages (185 pages actives, 3 711 lignes),
 Les rapports et contrôles se trouvent dans `edition/verification/2026-10-24/`. Le validateur confronte désormais aussi l'export JSON aux YAML et les 185 images effectivement incorporées aux fac-similés préparés ; des cas négatifs vérifient le refus d'un export périmé, d'une photographie intervertie et d'un caractère absent. Le PDF corrigé compte 504 pages, le livret 256 pages A4 (32 cahiers de 16 pages). Les fronts restent schématiques, les fonds contemporains ; cet audit n'est pas une nouvelle collation intégrale des autographes ni un dépouillement renouvelé de toute la bibliographie.
 
 La publication se fait sur `main` par avance rapide, sans réécriture d'historique. Aucune approbation d'un autre développeur n'est présumée.
+
+## Audit de lecture et allègement — 24-25 octobre 2026 (Claude)
+
+À la demande de Louis : audit intégral de l'édition publiée (`7236c2f`) et des *Feuillets de Route*, édition moins verbeuse et d'un style moins précieux (« Urtext » conservé), retrait des expressions pieuses ou laudatives, avertissement réduit (sans adresse GitHub, éditeur nommé, sans lien de parenté avec Pierre-Alain Hauseux). Travail dans le dossier principal ; les corrections de Codex (`7236c2f`) sont conservées, sauf les réserves sur le verso du f. 6 : Louis a précisé que ce verso a été photographié et qu'il est blanc.
+
+- Lecture : chaque page relue sur les photographies en pleine résolution ; chaque correction proposée soumise à un second lecteur chargé de la réfuter sur l'image : 137 corrections retenues, 10 rejetées (relevé : `edition/donnees/relecture/NNN.yaml`, champ `audit`).
+- Apparat : 3 570 → 1 930 notes ; les abréviations et mots anglais courants renvoient à la table et au glossaire (une note reste quand le développement n'est pas l'usuel). Registre critique limité à ce que le fac-similé ne montre pas (46 pages). Commentaires historiques : 738 caractères en moyenne (1 082 avant). Chaque allègement a été contre-vérifié.
+- Textes : introductions, chapitres et annexes resserrés et contre-vérifiés contre leur version précédente ; citations du carnet recalées sur la transcription définitive.
+- Pour les prochains passages : ne pas rétablir de remarques sur l'encre ou le papier, ni de formules pieuses ; le f. 6 v° est blanc ; `edition/donnees/index.yaml` est la référence (ne pas le régénérer depuis d'anciens brouillons).
+
+Les *Feuillets de Route* (annexe, document 6) sont en cours de relecture lettre à lettre par deux lecteurs indépendants, avec arbitrage ; leur édition révisée suivra dans un second commit.
+
+Rapport : `edition/verification/2026-10-25/`. Publication sur `main` par avance rapide, sans réécriture d'historique.

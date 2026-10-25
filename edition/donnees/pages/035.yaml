@@ -3,7 +3,7 @@ fichier: 20251126_094345.jpg
 date: Lundi 4 et mardi 5 septembre 1916
 mois: Septembre 1916
 lieux: Marquay et Roëllecourt (Pas-de-Calais)
-titre: Pluie ; paquets faits, puis départ retardé ; solde de la Mission touchée à Roëllecourt
+titre: Pluie ; paquets faits, puis départ retardé ; solde touchée à Roëllecourt
 transcription: |
   \sl{4 L} \hfill \sl{Sept 1916}
   \ind[2] Tout le jour, pluie
@@ -13,7 +13,7 @@ transcription: |
   \ind Après-midi, fait avec lenteur ts mes
   paquets : Ts mes préparatifs terminés à 5 1/2
   me Rejouis, à la pensée de quitter cet
-  obscur & boueux hameau, où ns avons été
+  obscur & boueux hameau, ou ns avons été
   si mal.
   \blanc{3}
   \filet
@@ -31,37 +31,17 @@ transcription: |
   \droite 78^{f} 75c
 apparat:
 - ligne: 1
-  lemme: L
-  type: abreviation
-  note: lundi
-- ligne: 1
   lemme: Sept
   type: abreviation
   note: septembre
 - ligne: 4
-  lemme: '1'
-  type: abreviation
-  note: un
-- ligne: 4
   lemme: wagon
   type: emprunt
   note: chariot (angl. wagon, voiture de convoi), non wagon de chemin de fer
-- ligne: 6
-  lemme: ts
-  type: abreviation
-  note: tous
-- ligne: 7
-  lemme: Ts
-  type: abreviation
-  note: Tous
-- ligne: 7
-  lemme: 5 1/2
-  type: lecture
-  note: 5 heures et demie ; aucune H visible
 - ligne: 9
-  lemme: ns
-  type: abreviation
-  note: nous
+  lemme: ou
+  type: graphie
+  note: sans accent (où)
 - ligne: 11
   lemme: Ma.
   type: abreviation
@@ -69,23 +49,15 @@ apparat:
 - ligne: 11
   lemme: prairie
   type: lecture
-  note: lecture des traits, sens obscur ; autre lecture possible frairie
+  note: 'lecture incertaine, sens obscur ; autre lecture : « frairie »'
 - ligne: 11
-  lemme: '1'
-  type: abreviation
-  note: un
-- ligne: 11
-  lemme: orderly
-  type: emprunt
-  note: 'de service (orderly N.C.O. : sous-officier de service) ; mot très contracté, lecture incertaine'
+  lemme: \inc{orderly}
+  type: lecture
+  note: 'lecture incertaine (mot très contracté) ; orderly N.C.O. : sous-officier de service'
 - ligne: 12
   lemme: N.C.O.
   type: abreviation
   note: 'Non-Commissioned Officer : sous-officier'
-- ligne: 12
-  lemme: pr
-  type: abreviation
-  note: pour
 - ligne: 12
   lemme: renseig
   type: abreviation
@@ -98,10 +70,6 @@ apparat:
   lemme: affr.
   type: abreviation
   note: affreux ; la fin du mot est réduite à un trait ondulé
-- ligne: 16
-  lemme: intermittente
-  type: disposition
-  note: 'trait sous le mot, à distance de la ligne : soulignement, ou filet partiel séparant matin et après-midi'
 - ligne: 20
   lemme: jusq à
   type: abreviation
@@ -110,13 +78,8 @@ apparat:
   lemme: Fr.^{se}
   type: abreviation
   note: française (Mission française auprès de l'armée britannique)
-- ligne: 22
-  lemme: 78^{f} 75c
-  type: compte
-  note: 78 francs 75 centimes, soit sans doute quinze jours à 5 f 25
-critique: Encre noire virée au brun. Verso du f. 18, photographié avant le recto ; les deux journées sont séparées par un blanc et un filet, et le montant de la solde est rejeté à droite au pied de la page.
 historique: |
-  Roëllecourt, sur la route de Saint-Pol à Arras, à 2,9 km de Marquay (OSM), abrite alors le bureau de la Mission française où Hippolyte Combes touche sa solde le 5 ; que le QG de la division y soit aussi reste à établir. Les 78 F 75 font une quinzaine (15 × 5 F 25), comme les 84 F du 18 août en faisaient seize (voir f. 11 r\textsuperscript{o}). Le départ manqué est attesté : l'ordre d'opérations n° 28 du 4 septembre transférait la division à la Reserve Army « \textit{from midnight 6/7th September 1916} », et il porte la mention « \textit{Cancelled 5 a.m. 5.9.16} » (JMO 7/Bedf, 4-5 sept. 1916) : l'\textit{orderly N.C.O.} apporte la nouvelle le matin même. Les « 8 jours » d'attente seront quatre : l'ordre n° 29 du 8 septembre fixe le transfert à la nuit du 10 au 11, et la compagnie quitte Marquay le 9 (ibid. ; voir f. 20 r\textsuperscript{o}). Le temps est noté « \textit{Wet and changeable} » le 4, « \textit{Wet} » le 5 (ibid.). Le « wagon » du 4 est sans doute l'une des voitures de la compagnie ; le « hameau » si mal habité est Marquay (voir f. 14 v\textsuperscript{o}).
+  Roëllecourt, sur la route de Saint-Pol à Arras, à 2,9 km de Marquay (OSM), abrite le bureau de la Mission française où Hippolyte Combes touche sa solde. Les 78 F 75 font une quinzaine à 5 F 25, comme les 84 F du 18 août en faisaient seize (voir f. 11 r\textsuperscript{o}). L'ordre d'opérations n° 28 du 4 septembre transférait la division à la Reserve Army dans la nuit du 6 au 7 ; il porte « \textit{Cancelled 5 a.m. 5.9.16} » (JMO 7/Bedf, 4-5 sept. 1916). Les « 8 jours » d'attente seront quatre : l'ordre n° 29 du 8 fixe le transfert à la nuit du 10 au 11, et la compagnie quitte Marquay le 9 (ibid. ; voir f. 20 r\textsuperscript{o}). Le « wagon » est sans doute une voiture de la compagnie.
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916, ordres d''opérations n° 28 (4 sept.) et 29 (8 sept.) (transcription en ligne).'
 - OpenStreetMap / Nominatim (distances à vol d'oiseau entre chefs-lieux).

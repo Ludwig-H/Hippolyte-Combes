@@ -124,3 +124,8 @@ noms:
     ligne: 11
     identite: Thermes du Languedoc, établissement de bains (Toulouse)
 source: contrôle
+audit:
+- ligne: 8
+  avant: '& Fleurs pour Mte : 1 70'
+  apres: '& Fleurs pour Mte : 1^{f} 70'
+  justification: 'zoom ×3 : entre le 1 et le 7, trois tracés distincts : un petit crochet suscrit isolé (trait descendant recourbé à droite), puis au-dessus la tête courbe du 7, puis sa diagonale ; le crochet n''appartient ni au 1 ni au 7 et a la forme du f suscrit de 5^{f} (l. 13)'

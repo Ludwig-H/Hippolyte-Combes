@@ -3,7 +3,7 @@ fichier: 20251126_104459.jpg
 date: Dimanche 29 – lundi 30 octobre 1916
 mois: Octobre 1916
 lieux: Albert, Acheux-en-Amiénois et Senlis-le-Sec (Somme)
-titre: Enquête sur paille et foin à Acheux et Senlis ; un artilleur belge en permission ; tempête
+titre: Enquête sur paille et foin à Acheux et Senlis ; un artilleur belge ; tempête
 transcription: |
   \sl{29 D.} \hfill \sl{Octbre /16}
   \ind[2] Durant tt le jour, au ciel, gros
@@ -34,45 +34,21 @@ transcription: |
   et très fortes averses \trait
 apparat:
 - ligne: 1
-  lemme: D.
-  type: abreviation
-  note: dimanche
-- ligne: 1
   lemme: Octbre /16
   type: abreviation
   note: octobre 1916
-- ligne: 2
-  lemme: tt
-  type: abreviation
-  note: tout
 - ligne: 3
   lemme: 'intermitt:'
   type: abreviation
   note: intermittentes
-- ligne: 4
-  lemme: Tjours
-  type: abreviation
-  note: toujours
-- ligne: 7
-  lemme: Senlis
-  type: lecture
-  note: 'aucune esperluette devant le S initial'
 - ligne: 7
   lemme: straw & hay
   type: emprunt
   note: paille et foin
 - ligne: 9
-  lemme: M.
-  type: abreviation
-  note: Monsieur
-- ligne: 9
   lemme: mal logis
   type: abreviation
   note: maréchal des logis
-- ligne: 9
-  lemme: mal
-  type: lecture
-  note: 'm, a, puis l détaché : aucune lettre pour -ar-'
 - ligne: 10
   lemme: artrie
   type: abreviation
@@ -86,21 +62,9 @@ apparat:
   type: abreviation
   note: jeune
 - ligne: 12
-  lemme: extt
-  type: abreviation
-  note: extrêmement
-- ligne: 12
   lemme: Écouté
   type: lecture
-  note: mot empâté par une reprise d'encre ; lecture probable, non vérifiable lettre à lettre
-- ligne: 14
-  lemme: ples
-  type: abreviation
-  note: postales
-- ligne: 16
-  lemme: L
-  type: abreviation
-  note: lundi
+  note: lecture probable, mot empâté
 - ligne: 17
   lemme: h.
   type: abreviation
@@ -109,10 +73,6 @@ apparat:
   lemme: j-après
   type: abreviation
   note: jusqu'après
-- ligne: 18
-  lemme: ds
-  type: abreviation
-  note: dans
 - ligne: 19
   lemme: ns.
   type: abreviation
@@ -121,21 +81,14 @@ apparat:
   lemme: mess-room
   type: emprunt
   note: salle du mess (repas des officiers)
-- ligne: 20
-  lemme: d'1
-  type: abreviation
-  note: d'une
 - ligne: 21
   lemme: vif
   type: lecture
-  note: 'jambage arrondi puis longue haste montant au-dessus et descendant sous la ligne ; « or » ou « & » possibles'
-critique: Les deux dépenses du 29 sont réunies par un grand crochet, et un filet sépare les deux journées. À la l.~12, une reprise d'encre violette empâte le mot qui suit « sympathique. ».
+  note: 'lecture incertaine ; autres lectures : or, &'
 historique: |
-  Senlis-le-Sec, à 6~km environ à l'ouest-nord-ouest d'Albert, abrite alors le QG du II Corps, dont relève la 18th Division. Acheux-en-Amiénois, à une douzaine de kilomètres au nord-ouest, abrite celui du V Corps du 2 octobre au 29 novembre 1916 (LLT). C'est aussi le terminus de la voie normale venue de Candas (OH 1916-I, p.~273). Cette « enquête » sur la paille et le foin est la première trace du service où Hippolyte Combes sera détaché le 2 novembre, avec le lieutenant Curtis, à Acheux même (f.~45~r\textsuperscript{o}--v\textsuperscript{o}). Ces achats locaux de l'armée britannique passent par des \textit{purchase boards} (Puckle 1917, p.~8). En novembre, faute de tonnage, le \textit{War Office} proposera d'« étendre l'achat local » du fourrage (OH 1916-II, p.~550). Le fils aîné de M. Duchâteau est le frère d'Abel ; la famille loge sans doute Hippolyte Combes (voir f.~41~v\textsuperscript{o}). Son service dans l'artillerie belge suggère que la famille est belge, sans que rien ne le confirme. Le 30 octobre, jour de la tempête, la Reserve Army de Gough devient la Fifth Army (LLT ; Becke 1938, p.~84).
+  Senlis-le-Sec, à 6~km environ à l'ouest-nord-ouest d'Albert, abrite le QG du II Corps, dont relève la 18th Division. Acheux-en-Amiénois, à 12~km environ au nord-ouest, abrite celui du V Corps du 2 octobre au 29 novembre 1916 (LLT). L'enquête est la première trace du service où Hippolyte Combes sera détaché le 2 novembre, avec le lieutenant Curtis, à Acheux (f.~45~r\textsuperscript{o}--v\textsuperscript{o}). Ces achats locaux passent par des \textit{purchase boards} (Puckle 1917, p.~8). Le fils aîné de M. Duchâteau est le frère d'Abel ; la famille loge sans doute Hippolyte Combes (voir f.~41~v\textsuperscript{o}). Le 30 octobre, la Reserve Army de Gough devient la Fifth Army (LLT ; Becke 1938, p.~84).
 sources:
 - Baker, C., The Long, Long Trail, « The British II Corps in France and Flanders » (copie Wayback Machine du 6 novembre 2024).
 - Baker, C., The Long, Long Trail, « The British V Corps in France and Flanders » et « The British Fifth or Reserve Army 1916-1918 » (copies Wayback Machine, 2024).
-- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.
-- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 550.
 - Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 8.
 - 'Becke, A. F., Order of Battle of Divisions, Part 3A : New Army Divisions (9-26), London, HMSO, 1938, p. 84.'

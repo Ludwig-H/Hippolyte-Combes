@@ -107,3 +107,8 @@ noms:
     ligne: 5
     identite: Albert (Somme)
 source: contrôle
+audit:
+- ligne: 10
+  avant: 'apparat, Immense : I majuscule et double m nets'
+  apres: 'apparat, Immense : I majuscule descendant sous la ligne ; mm réduits à deux minimes et un trait horizontal, puis ense'
+  justification: zoom ×3 [0 .41 .28 .47] ; les deux m ne sont pas nets mais écrasés en un long trait horizontal après deux minimes ; lecture « Immense » maintenue

@@ -3,7 +3,7 @@ fichier: 20251126_093219.jpg
 date: Dimanche 30 et lundi 31 juillet 1916
 mois: Juillet 1916
 lieux: Saint-Jans-Cappel et Bailleul (Nord)
-titre: Messe à Saint-Jans-Cappel ; refilling point, Bailleul et corvée de fourrage vert
+titre: Église comble à Saint-Jans-Cappel ; refilling point, Bailleul et fourrage vert
 transcription: |
   \sl{Dim – 30.} \hfill Juillet \sl{1916}
   \ind[2] Couché s/ une mauvaise paillasse tte
@@ -38,26 +38,6 @@ apparat:
   lemme: Dim
   type: abreviation
   note: Dimanche
-- ligne: 1
-  lemme: Dim –
-  type: signe
-  note: trait bas tenant lieu de point abréviatif
-- ligne: 2
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 2
-  lemme: tte
-  type: abreviation
-  note: toute
-- ligne: 5
-  lemme: breakfast
-  type: emprunt
-  note: petit déjeuner
-- ligne: 6
-  lemme: St
-  type: abreviation
-  note: Saint
 - ligne: 7
   lemme: Hoes
   type: abreviation
@@ -70,62 +50,22 @@ apparat:
   lemme: fem.
   type: abreviation
   note: femmes
-- ligne: 7
-  lemme: à g.
-  type: abreviation
-  note: à gauche
-- ligne: 8
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 10
-  lemme: tt
-  type: abreviation
-  note: tout
 - ligne: 12
   lemme: \inc{les}
   type: lecture
-  note: 'l puis seconde haste (s final réduit), sans panse d''a : les plutôt que la, qu''attend le sens'
-- ligne: 13
-  lemme: plaine fertile, entrecoupée
-  type: lecture
-  note: 'singulier : finales en e et délié, sans s'
-- ligne: 16
-  lemme: Tip
-  type: emprunt
-  note: pourboire
+  note: 'lecture incertaine ; autre lecture : la'
 - ligne: 16
   lemme: headcook
   type: emprunt
   note: chef cuisinier
-- ligne: 16
-  lemme: 5^{f}
-  type: abreviation
-  note: 5 francs
 - ligne: 17
   lemme: 75c
   type: abreviation
   note: 75 centimes
-- ligne: 19
-  lemme: 'off'
-  type: abreviation
-  note: officiers
-- ligne: 20
-  lemme: refilling point
-  type: emprunt
-  note: point de ravitaillement des convois
-- ligne: 21
-  lemme: chz
-  type: abreviation
-  note: chez
 - ligne: 21
   lemme: \inc{Terrier}
   type: lecture
-  note: 'T, e, r, lettre en croix, i, puis boucle et un seul jambage, comme la finale de fermier : Terrier ; possibles Texier, Terria, Terrien'
-- ligne: 23
-  lemme: '1'
-  type: abreviation
-  note: un
+  note: 'lecture incertaine ; autres lectures : Texier, Terrien'
 - ligne: 23
   lemme: waggon
   type: emprunt
@@ -134,15 +74,9 @@ apparat:
   lemme: to the fields
   type: emprunt
   note: aux champs
-- ligne: 24
-  lemme: for green forage
-  type: emprunt
-  note: pour le fourrage vert
-critique: Encre noire virée au brun. Les deux journées sont séparées par un filet pleine largeur ; les dépenses du 30, en retrait et précédées d'un tiret, sont intercalées dans le récit avant ce filet.
 historique: |
-  Le cantonnement est une ferme près de Saint-Jans-Cappel (Nord), où la compagnie est arrivée le 28 juillet (voir f. 2 v\textsuperscript{o}) ; la 54th Brigade campe au « Steam Mill », à l'ouest de Bailleul (JMO 7/Bedf, 28 juill. 1916). La messe du 30 est célébrée dans l'église de la Décollation-de-Saint-Jean-Baptiste (Palissy). Hancock, chef cuisinier (\textit{headcook}) du mess, n'est pas identifié ; son pourboire de 5 f approche une journée de solde et d'indemnité de l'interprète, environ 5,25 F (voir f. 2 r\textsuperscript{o}). Au \textit{refilling point}, la compagnie reçoit des camions de la \textit{supply column} les vivres de la brigade (FSPB 1914, « Definitions » ; Puckle 1917, p. 10) ; le fourrage vert, fauché et payé sur place, complète la ration de foin des chevaux (FSPB 1914, chap. 6, § 20). Ce 31 juillet, le général Plumer, commandant la Second Army, reçoit au QG de la brigade les chefs de bataillon (JMO 7/Bedf, 31 juill. 1916). La « crête boisée » aux moulins est sans doute celle des monts de Flandre (Mont-Noir, Mont-Rouge), au nord du village.
+  La compagnie cantonne depuis le 28 juillet dans une ferme près de Saint-Jans-Cappel (voir f. 2 v\textsuperscript{o}) ; sur l'église, voir f. 3 r\textsuperscript{o}. Hancock, chef cuisinier du mess, n'est pas identifié ; son pourboire de 5 f approche une journée de solde et d'indemnité de l'interprète, environ 5,25 F (voir f. 2 r\textsuperscript{o}). Au \textit{refilling point}, la compagnie reçoit des camions de la \textit{supply column} les vivres de la brigade (FSPB 1914, « Definitions » ; Puckle 1917, p. 10). Ce 31 juillet, le général Plumer, chef de la Second Army, reçoit au QG de la brigade les chefs de bataillon (JMO 7/Bedf, 31 juill. 1916). La « crête boisée » est sans doute celle des monts de Flandre (Mont-Noir, Mont-Rouge), au nord du village.
 sources:
-- 'Bedfordshire Archives Service, X550/8/1/1607 : War Diary, 7th (Service) Battalion, Bedfordshire Regiment, juillet 1916 (28 et 31 juill.).'
-- Field Service Pocket Book, 1914, London, HMSO, 1914, « Definitions » et chap. 6, « Supply », « Forage », § 20.
+- 'Bedfordshire Archives Service, X550/8/1/1607 : War Diary, 7th (Service) Battalion, Bedfordshire Regiment, juillet 1916 (31 juill.).'
+- Field Service Pocket Book, 1914, London, HMSO, 1914, « Definitions ».
 - Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 10.
-- Ministère de la Culture, base Palissy (POP), objets mobiliers de la commune de Saint-Jans-Cappel (Nord).

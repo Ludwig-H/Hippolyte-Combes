@@ -3,7 +3,7 @@ fichier: 20251126_103743.jpg
 date: Jeudi 5 octobre 1916 (suite)
 mois: Octobre 1916
 lieux: Paris ; Amiens et Doullens (Somme)
-titre: Départ de Paris à 1 h 15 ; Amiens à 6 h, Doullens vers minuit ; nuit en gare ; comptes
+titre: Train de Paris à 1 h 15 ; Amiens à 6 h, Doullens vers minuit ; nuit en gare
 transcription: |
   Parti train 1^{H}15 s \inc{(} (espéré \add{il y \inc{en}} à 10^{H}\inc{45}
   \droite matin )
@@ -26,11 +26,11 @@ apparat:
 - ligne: 1
   lemme: \inc{(}
   type: lecture
-  note: 'crochet surmonté d''un point avant la parenthèse : parenthèse amorcée puis reprise plus loin (?)'
+  note: lecture incertaine ; parenthèse amorcée puis reprise ?
 - ligne: 1
   lemme: \inc{en}
   type: lecture
-  note: 'e empâté, jambage et long délié ; « eût » possible'
+  note: 'lecture incertaine ; autre lecture : eût'
 - ligne: 1
   lemme: 10^{H}\inc{45}
   type: abreviation
@@ -38,7 +38,7 @@ apparat:
 - ligne: 1
   lemme: 10^{H}\inc{45}
   type: lecture
-  note: 'le 4 n''est pas distinct : haute haste au-dessus du H, dont la traverse déborde ; 10^{H}5 possible'
+  note: 'lecture incertaine ; autre lecture : 10^{H}5'
 - ligne: 3
   lemme: 6^{H} s
   type: abreviation
@@ -48,20 +48,11 @@ apparat:
   type: abreviation
   note: 6 heures 30 (du) soir
 - ligne: 8
-  lemme: Food
-  type: emprunt
-  note: nourriture
-- ligne: 8
-  lemme: Drink
-  type: emprunt
-  note: boisson
-- ligne: 8
   lemme: 10, c
   type: lecture
-  note: 'après 10, trait courbe plongeant sous la ligne (virgule, ou c), puis c détaché : 10 c'
-critique: Récit et comptes sont à la même encre violette ; des taches brunes transparaissent du verso, sans texte lisible.
+  note: 'virgule ou c ? lire : 10 c'
 historique: |
-  Le train part de la gare du Nord, où Hippolyte Combes a laissé le matin ses paquets à la consigne (voir f.~32 v\textsuperscript{o}) : c'est la « Consigne : 10c » des comptes. Les deux billets de métro à 15 c sont au tarif de 2\textsuperscript{e} classe du Métropolitain d'avant-guerre, « 2nd cl. 15 c. » (Baedeker 1913, p.~30). À l'aller, il avait pris à Amiens un train de permissionnaires après être venu d'Acheux-Varennes par le petit train départemental (voir f.~25 v\textsuperscript{o}) ; au retour, ignorant que sa division a quitté l'Ancre, il remonte d'Amiens vers Doullens par la ligne du Nord. Doullens était alors un grand centre sanitaire de l'arrière : sa citadelle était devenue hôpital militaire français, plusieurs \textit{Casualty Clearing Stations} britanniques s'y étaient installées depuis mars 1916 et sa gare servait aux deux armées (CWGC, Doullens Communal Cemetery Extension No. 1). Cette nuit en gare (voir f.~33 v\textsuperscript{o}) est la première de celles qu'Hippolyte Combes passera, au retour de ses permissions, à Doullens, Amiens ou Saint-Flour.
+  Le train part de la gare du Nord, où Hippolyte Combes a laissé ses paquets le matin (voir f.~32 v\textsuperscript{o}) : c'est la « Consigne : 10c » des comptes. Le ticket de métro à 15 c est celui de 2\textsuperscript{e} classe (Baedeker 1913, p.~30). À l'aller, il avait pris à Amiens un train de permissionnaires, après être venu d'Acheux-Varennes par le petit train départemental (voir f.~25 v\textsuperscript{o}). Au retour, ignorant que sa division a quitté l'Ancre, il remonte vers Doullens. La ville est alors un grand centre sanitaire : hôpital militaire français dans la citadelle, \textit{Casualty Clearing Stations} britanniques depuis mars 1916 (CWGC, Doullens Communal Cemetery Extension No. 1).
 sources:
 - Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, K. Baedeker, 1913, p. 30.
 - Commonwealth War Graves Commission, notice « Doullens Communal Cemetery Extension No. 1 », cwgc.org, consultée le 18 oct. 2026.

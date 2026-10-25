@@ -150,3 +150,8 @@ noms:
     ligne: 14
     identite: gare de Toulouse (Matabiau)
 source: contrôle
+audit:
+- ligne: 1
+  avant: \sl{Octbr/16}
+  apres: \sl{octbr/16}
+  justification: 'initiale de module minuscule (zoom ×3 : o de même hauteur que c et r, nettement sous les hastes de t et b), comme mer- en tête de la même ligne'

@@ -3,13 +3,13 @@ fichier: 20251126_104916.jpg
 date: Samedi 25 – dimanche 26 novembre 1916
 mois: Novembre 1916
 lieux: Acheux-en-Amiénois et Hérissart (Somme)
-titre: Pluie et bourbiers ; obus sur Acheux ; thé avec le Lt Walsh et son interprète Deloney
+titre: Pluie et boue ; obus sur Acheux ; thé avec le Lt Walsh et son interprète Deloney
 transcription: |
   \sl{Sam. 25} \hfill \sl{Nov /16 –}
   \ind Auj'hui, + encore que hier, pluie averse
-  Terrains détrempés, vrais bourbiers. Routes &
+  Terrains detrempés, vrais bourbiers. Routes &
   rues, ornières profondes où l'on enfonce j-à
-  \fr{1}{2} jambe. C'est desesperant.
+  \fr{1}{2} jambe. C'est desesperant
   \ind Durant de longues heures, langui bureau
   assis caisse bidons de pétrole ou au pied du
   lit du clerk. Lis ou rumine. Triste vie
@@ -33,10 +33,6 @@ transcription: |
   \droite (magnif^{t} étoilée
 apparat:
 - ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
-- ligne: 1
   lemme: Nov /16
   type: abreviation
   note: novembre 1916
@@ -48,18 +44,10 @@ apparat:
   lemme: + encore
   type: abreviation
   note: plus encore
-- ligne: 4
-  lemme: j-à
-  type: abreviation
-  note: jusqu'à
 - ligne: 5
   lemme: \fr{1}{2} jambe
   type: abreviation
   note: mi-jambe
-- ligne: 8
-  lemme: clerk
-  type: emprunt
-  note: commis, employé de bureau
 - ligne: 9
   lemme: + de
   type: abreviation
@@ -67,78 +55,55 @@ apparat:
 - ligne: 9
   lemme: '28'
   type: lecture
-  note: 'second chiffre à deux boucles : 8 (25 moins probable)'
-- ligne: 9
-  lemme: s/
-  type: abreviation
-  note: sur
+  note: 'autre lecture, moins probable : 25'
 - ligne: 10
   lemme: F^{me}
   type: abreviation
-  note: ferme ; finale réduite à un petit crochet
+  note: ferme
 - ligne: 10
   lemme: \inc{fille}
   type: lecture
-  note: « ville » possible
+  note: 'autre lecture : ville'
 - ligne: 10
   lemme: Plusrs
   type: abreviation
   note: plusieurs
-- ligne: 11
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 13
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
 - ligne: 14
   lemme: \inc{Durant}
   type: lecture
-  note: mot repassé à l'encre épaisse, traversé par le soulignement de la date ; D descendant et t barré final (« Toute » moins probable)
+  note: 'mot repassé ; autre lecture, moins probable : Toute'
 - ligne: 17
   lemme: \inc{\fr{1}{2}}
   type: lecture
-  note: demi (trait courbe descendant de l'interligne sur un 2 barré) ; peut-être signe de renvoi
-- ligne: 20
-  lemme: Lt
-  type: abreviation
-  note: lieutenant
+  note: demi ? ; peut-être signe de renvoi
 - ligne: 20
   lemme: interpte
   type: abreviation
   note: interprète
 - ligne: 20
-  lemme: M.
-  type: abreviation
-  note: Monsieur
-- ligne: 20
   lemme: \inc{Deloney}
   type: lecture
-  note: D-e-l-o-n-e + finale à panse fermée ; Delonecq possible
+  note: 'autre lecture : Delonecq'
 - ligne: 21
   lemme: Ach
   type: abreviation
   note: Acheux
-- ligne: 21
-  lemme: ds
-  type: abreviation
-  note: dans
 - ligne: 23
   lemme: longt
   type: abreviation
   note: longtemps
 - ligne: 23
   lemme: fr\inc{ç}
-  type: abreviation
-  note: français
+  type: lecture
+  note: français ; ç incertain (c à queue suivi d'un long trait)
 - ligne: 24
   lemme: magnif^{t}
   type: abreviation
   note: magnifiquement
-critique: 'Encre noire virée au brun, qui pâlit par endroits quand la plume se vide, sans indiquer d''ajout postérieur. La journée du vendredi 24 novembre n''a pas d''entrée : la page s''ouvre sur le samedi 25.'
+critique: |
+  Le vendredi 24 novembre n'a pas d'entrée.
 historique: |
-  La sucrerie visée par les obus du 25 est l'usine Normand et Cie (ancienne Compagnie sucrière du canton d'Acheux), à la sortie du bourg sur la route de Forceville (Mérimée IA00076408) ; la ferme Royer n'est pas identifiée. Ce second bombardement d'Acheux, après celui du 11 novembre (voir f.~48~v\textsuperscript{o}), n'est pas signalé par les sources consultées ; on ignore si les victimes étaient civiles ou militaires. Le bourg, tête de ligne, abrite jusqu'au 29 novembre le QG du V Corps (OH 1916-I, p.~274 ; LLT). Les ornières « j-à \fr{1}{2} jambe » rejoignent le « marécage presque sans fond » que Haig décrit au chef d'état-major impérial le 21 novembre (OH 1916-II, p.~536--537). Les caisses de bidons de pétrole qui servent de siège sont celles où l'essence arrivait, en bidons de 2 ou 4 gallons (\textit{Statistics} 1922, p.~846). Le lieutenant Walsh, chez qui Hippolyte Combes a déjeuné à Hérissart le 16, et son interprète, alors présenté comme directeur d'une usine de tissus près de Paris (voir f.~49~v\textsuperscript{o}), ne sont pas identifiés ; la forme « Deloney » reste incertaine.
+  La sucrerie touchée le 25 est l'usine Normand et Cie, à la sortie du bourg vers Forceville (Mérimée IA00076408) ; la ferme Royer n'est pas identifiée. Ce second bombardement d'Acheux, après celui du 11 novembre (voir f.~48~v\textsuperscript{o}), n'apparaît pas dans les sources consultées. Acheux, tête de ligne, abrite jusqu'au 29 novembre le QG du V Corps (OH 1916-I, p.~274 ; LLT). Le 21 novembre, Haig décrivait le terrain comme un « marécage presque sans fond » (OH 1916-II, p.~536--537). Les caisses servant de siège sont celles où arrivait l'essence, en bidons de 2 ou 4 gallons (\textit{Statistics} 1922, p.~846). Le lieutenant Walsh, chez qui Hippolyte Combes a déjeuné à Hérissart le 16, et son interprète (voir f.~49~v\textsuperscript{o}) ne sont pas identifiés ; la lecture « Deloney » reste incertaine.
 sources:
 - Ministère de la Culture, base Mérimée, notice IA00076408, « Sucrerie dite Cie sucrière du Canton d'Acheux, puis Normand et Cie », Acheux-en-Amiénois (pop.culture.gouv.fr).
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274.

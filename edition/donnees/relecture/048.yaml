@@ -168,3 +168,8 @@ noms:
     ligne: 16
     identite: Forceville (Somme)
 source: contrôle
+audit:
+- ligne: 15
+  avant: \inc{jau}
+  apres: \inc{jus}
+  justification: au zoom, après le j pointé deux minimes ouvertes sans panse d'a fermée, puis une finale en crochet revenant à gauche, forme du s final réduit ; jau reste possible

@@ -3,7 +3,7 @@ fichier: 20251126_110011.jpg
 date: Samedi 20 – mardi 23 janvier 1917
 mois: Janvier 1917
 lieux: Acheux-en-Amiénois et Louvencourt (Somme)
-titre: Grand gel ; chez Mme Cuisinier à Louvencourt, retour à pied ; préparatifs de départ
+titre: Grand gel ; visite à Mme Cuisinier à Louvencourt ; préparatifs de départ
 transcription: |
   20 \sl{Sam.} \hfill — \sl{Janvier 1917} –
   \ind[3] Repos tout le jour.
@@ -30,42 +30,18 @@ transcription: |
   Neige ne fond pas. \fr{1}{2} jour, très beau
   soleil. Neige etincelle sous ses rayons
 apparat:
-- ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
-- ligne: 3
-  lemme: office
-  type: emprunt
-  note: bureau
 - ligne: 3
   lemme: \inc{à}
   type: lecture
-  note: a + accent détaché, même tracé que « à Amiens » (l. 18) ; le sens appellerait « et » (& ou et)
-- ligne: 8
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
-- ligne: 9
-  lemme: j-à
-  type: abreviation
-  note: jusqu'à
-- ligne: 10
-  lemme: Mme
-  type: abreviation
-  note: Madame
+  note: lecture incertaine ; le sens appellerait « et »
 - ligne: 10
   lemme: Cuis^{r}
   type: abreviation
-  note: Cuisinier (cf. f. 56 v°, 59 r°)
+  note: Cuisinier
 - ligne: 11
   lemme: \inc{kil'g.}
   type: lecture
-  note: 'kilomètres ; petit trait suscrit après l, puis g (ou 9) à longue descente ; autres lectures : « kilog. », « kil 9 » (2,9 km, cf. f. 17 r° « 2 kil 5 »)'
-- ligne: 14
-  lemme: Canteen
-  type: emprunt
-  note: cantine
+  note: 'kilomètres ; autres lectures : kilog., kil 9 (2,9 km, cf. f. 17 r°)'
 - ligne: 14
   lemme: Wren's Dubbin
   type: emprunt
@@ -74,10 +50,6 @@ apparat:
   lemme: 3 tins
   type: emprunt
   note: trois boîtes
-- ligne: 14
-  lemme: 30c
-  type: abreviation
-  note: 30 centimes
 - ligne: 17
   lemme: aujdhui
   type: abreviation
@@ -98,9 +70,10 @@ apparat:
   lemme: \fr{1}{2} jour
   type: abreviation
   note: mi-jour, midi
-critique: Trois journées séparées par deux filets ; le lundi 22 n'a pas d'entrée propre et n'est évoqué que par « Hier » sous la date du 23, soulignée d'un trait oblique. L'entrée du 23 se poursuit au verso, sous un nouvel en-tête de date.
+critique: |
+  Le lundi 22 n'a pas d'entrée propre : il n'est évoqué que par « Hier » sous la date du 23. La journée du 23 se poursuit au verso.
 historique: |
-  Louvencourt, à 3,4~km au nord-ouest d'Acheux à vol d'oiseau (mairies, geo.api.gouv.fr), est le village de Mme Cuisinier, dont la ferme a été le cadre du « Bloody France » du capitaine Williams le 24 décembre (voir f.~56~v\textsuperscript{o}, 59~r\textsuperscript{o}) ; les « 2 kil'g. » du retour sous-estiment donc sans doute le trajet. La « route excellente » est celle du gel : le sol durci porte bien, mais ce froid d'un mois ruinera les routes faiblement empierrées de l'arrière (OH 1917-I, p.~69) ; sur la vague de froid, voir f.~62~v\textsuperscript{o}. Les trois \textit{tins} de \textit{Wren's Dubbin}, graisse pour le cuir, reviennent à 10~c pièce, le tiers du prix payé le 11 décembre (voir f.~54~v\textsuperscript{o}) : sans doute de petites boîtes. Les « preparatifs départ » sont ceux de la permission que le bureau du V Corps a fixée le 13 au 26 janvier (f.~61~v\textsuperscript{o}). Le voyage du capitaine Williams (voir f.~53~v\textsuperscript{o}) à Amiens, le 22, n'est pas autrement documenté.
+  Louvencourt est à 3,4~km au nord-ouest d'Acheux à vol d'oiseau (mairies, geo.api.gouv.fr) ; les « 2 kil'g. » du retour sous-estiment sans doute la distance. Le capitaine Williams y a lancé son « Bloody France » chez Mme Cuisinier le 24 décembre (f.~56~v\textsuperscript{o}, 59~r\textsuperscript{o}). Le gel rend la route « excellente », mais il va ruiner les routes mal empierrées de l'arrière (OH 1917-I, p.~69). Les trois boîtes de \textit{Wren's Dubbin} coûtent 10~c pièce, le tiers du prix du 11 décembre (f.~54~v\textsuperscript{o}) : sans doute de petites boîtes. Les préparatifs sont ceux de la permission fixée au 26 janvier (f.~61~v\textsuperscript{o}).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 69.
 - Base adresse nationale, coordonnées des mairies d'Acheux-en-Amiénois et de Louvencourt (geo.api.gouv.fr).

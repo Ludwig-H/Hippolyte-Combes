@@ -10,7 +10,7 @@
   ItalicFont = *-Italic,
   BoldFont = *-Bold,
   BoldItalicFont = *-BoldItalic,
-  Ligatures = {Common, Historic, TeX},
+  Ligatures = {Common, TeX},
   Numbers = OldStyle,
   SmallCapsFeatures = {Letters=SmallCaps}
 ]
@@ -31,7 +31,7 @@
   Numbers = Lining
 ]
 \newfontfamily\LJchiffres{LibertinusSerif}[
-  Extension = .otf, UprightFont = *-Regular, BoldFont = *-Bold, Numbers = Lining]
+  Extension = .otf, UprightFont = *-Regular, ItalicFont = *-Italic, BoldFont = *-Bold, Numbers = Lining]
 \usepackage[french]{babel}
 \frenchsetup{StandardItemLabels=true}
 \usepackage{microtype}
@@ -375,11 +375,11 @@
 % Table de concordance des feuillets et des pages
 % ---------------------------------------------------------------------------
 \newcommand{\LJtableconcordance}[2]{%
-  \clearpage\renewcommand{\LJmois}{Annexe}\renewcommand{\LJfolio}{Concordance des feuillets et des pages}%
+  \clearpage\renewcommand{\LJmois}{Annexes}\renewcommand{\LJfolio}{Concordance des feuillets et des pages}%
   \chapter*{Concordance des feuillets et des pages}\addcontentsline{toc}{chapter}{Concordance des feuillets et des pages}%
   {\footnotesize Feuillet et face restitués dans l'ordre de lecture ;
   date(s) de la page ; page de la présente édition. \textit{inv.} : feuillet photographié verso d'abord ;
-  \textit{trav.} : page écrite en travers ; \textit{seule face} : l'autre face du feuillet est restée blanche.#2\par}
+  \textit{trav.} : page écrite en travers ; \textit{seule face} : seule face photographiée du feuillet ; \textit{verso blanc} : verso resté blanc.#2\par}
   \vspace{2mm}
   {\fontsize{7.4pt}{8.8pt}\selectfont\LJchiffres
   \setlength{\tabcolsep}{4pt}

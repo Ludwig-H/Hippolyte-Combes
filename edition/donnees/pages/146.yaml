@@ -3,7 +3,7 @@ fichier: 20251126_110616.jpg
 date: Mercredi 7 février 1917
 mois: Février 1917
 lieux: Amiens, Doullens, Louvencourt et Acheux-en-Amiénois (Somme)
-titre: Nuit glaciale en train ; Amiens à minuit 30 ; deux Taubes sur Louvencourt ; Acheux
+titre: Nuit en train ; Amiens à minuit et demi ; deux Taubes sur Louvencourt ; Acheux
 transcription: |
   \sl{Merc. 7} – \hfill \sl{Février 1917}
   Voyagé compartiment surchauffé. Très serré.
@@ -19,19 +19,15 @@ transcription: |
   Peu à peu soleil se lève, très brillant
   ciel \inc{d'1} bleu foncé, pâle à l'horizon.
   En gare de Louvencourt, 2 taubes,
-  plané, évolué ciel bleu, juste au-
+  plané, evolué ciel bleu, juste au-
   -dessus voie. Obus éclataient tout autour
   de ces avions et taches blanches
   Arrivé à Acheux, vers 1^{H} \fr{1}{2}
   me suis rendu à pied ancien billet
-  M. & Mme Carluvant m'ont offert déjeuner
+  M. & Mme \inc{Carluvant} m'ont offert déjeuner
   sommaire.
   Après m'être rasé, lavé, brossé, sorti,
 apparat:
-- ligne: 1
-  lemme: Merc.
-  type: abreviation
-  note: mercredi
 - ligne: 3
   lemme: +
   type: abreviation
@@ -40,10 +36,6 @@ apparat:
   lemme: Y.M.C.A.
   type: abreviation
   note: Young Men's Christian Association (foyer du soldat)
-- ligne: 6
-  lemme: hut
-  type: emprunt
-  note: baraque
 - ligne: 7
   lemme: 1 h.
   type: abreviation
@@ -56,10 +48,6 @@ apparat:
   lemme: absol^{t}
   type: abreviation
   note: absolument
-- ligne: 8
-  lemme: comble
-  type: lecture
-  note: lecture retenue (c, o, m, b, l, e plongeant)
 - ligne: 9
   lemme: 6^{H} 7m
   type: abreviation
@@ -67,7 +55,7 @@ apparat:
 - ligne: 13
   lemme: \inc{d'1}
   type: lecture
-  note: d'un ; le d à haste courte barrée a l'aspect de « et » ; « et 1 » ne donne pas de sens
+  note: d'un ; « et 1 » possible, mais sans sens
 - ligne: 14
   lemme: taubes
   type: emprunt
@@ -81,26 +69,12 @@ apparat:
   type: emprunt
   note: anglais billet, cantonnement chez l'habitant
 - ligne: 20
-  lemme: M.
-  type: abreviation
-  note: Monsieur
-- ligne: 20
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 20
-  lemme: Mme
-  type: abreviation
-  note: Madame
-- ligne: 20
-  lemme: Carluvant
+  lemme: \inc{Carluvant}
   type: lecture
-  note: lecture des autres occurrences (102, 118) ; la fin du mot, peu distincte, permettrait aussi « Carlumont »
-critique: Le récit du 7 février se poursuit au verso.
+  note: 'forme des autres occurrences ; autre lecture : Carlumont ou Corlemont'
 historique: |
-  Le voyage se fait au cœur de la vague de froid du 16 janvier au 16 février (Barbé 1917, p.~181-182). Sur le foyer de la Y.M.C.A. voisin de la gare d'Amiens, voir f.~65~r\textsuperscript{o}. Le « train de Doullens » ramène Hippolyte Combes, sans doute par Gézaincourt, sur la voie métrique d'Albert à Doullens, qui dessert Louvencourt et Acheux-Varennes (OH 1916-I, p.~273 ; trajet inverse au f.~64~r\textsuperscript{o}). « Taube » (« colombe »), nom du monoplan allemand du début de la guerre, désigne alors tout avion allemand ; les « taches blanches » sont les éclatements des obus antiaériens britanniques, l'\textit{Archie} (Fraser et Gibbons 1925, s.v.). En avril 1917, Léalvillers, à 3~km au sud de Louvencourt, abrite deux escadrilles du RFC (Jones 1931, App.~XII). Les Carluvant (forme incertaine), logeurs d'Hippolyte Combes au n°~1, route de Léalvillers (f.~47~r\textsuperscript{o}), ne sont pas identifiés ; le mari, tailleur (f.~51~r\textsuperscript{o}), avait annoncé le 1\textsuperscript{er} janvier qu'il devrait quitter sa maison (f.~59~r\textsuperscript{o}) : d'où peut-être l'« ancien billet ».
+  Le voyage se fait en pleine vague de froid, du 16 janvier au 16 février (Barbé 1917, p.~181-182). Sur la Y.M.C.A. d'Amiens, voir f.~65~r\textsuperscript{o}. Le « train de Doullens » le ramène, sans doute par Gézaincourt, sur la voie métrique d'Albert à Doullens, qui dessert Louvencourt et Acheux-Varennes (OH 1916-I, p.~273 ; trajet inverse au f.~64~r\textsuperscript{o}). Les « taches blanches » sont les éclatements des obus antiaériens britanniques, l'\textit{Archie} (Fraser et Gibbons 1925, s.v.). Les Carluvant (forme incertaine), logeurs d'Hippolyte Combes (f.~47~r\textsuperscript{o}), ne sont pas identifiés. Le mari, tailleur (f.~51~r\textsuperscript{o}), avait annoncé le 1\textsuperscript{er} janvier qu'il devrait quitter sa maison (f.~59~r\textsuperscript{o}).
 sources:
 - Barbé, G., « L'hiver 1916-1917 », Journal d'agriculture pratique, n. s., t. 30, Paris, Librairie agricole de la Maison rustique, 1917, p. 181-182.
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.
 - Fraser, E., et Gibbons, J., Soldier and Sailor Words and Phrases, London, Routledge, 1925, s.v. « Archie », « Taube ».
-- Jones, H. A., The War in the Air, vol. III, Oxford, Clarendon Press, 1931, App. XII.

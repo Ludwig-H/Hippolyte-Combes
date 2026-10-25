@@ -3,11 +3,11 @@ fichier: 20251126_111019.jpg
 date: Samedi 24 – lundi 26 février 1917
 mois: Février 1917
 lieux: Hérissart, Contay, Mirvaux et Toutencourt (Somme)
-titre: Désœuvrement à Hérissart ; promenades à Contay, Mirvaux, Toutencourt ; Williams à Senlis
+titre: Journées libres à Hérissart ; promenades vers Contay, Mirvaux, Toutencourt
 transcription: |
   24 \sl{Samedi} \hfill \sl{Fév- 1917}
   Journée entière, inoccupé.
-  Après-midi, courte promenade s/ route
+  Après-midi, Courte promenade s/ route
   de Contay. Temps brumeux. Route très
   boueuse Arrivé jusqu'au moulin –
   \blanc{2}
@@ -36,93 +36,40 @@ apparat:
   lemme: Fév-
   type: abreviation
   note: février
-- ligne: 3
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 6
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
-- ligne: 7
-  lemme: d'1
-  type: abreviation
-  note: d'une
 - ligne: 8
   lemme: 100ne
   type: abreviation
   note: centaine
-- ligne: 8
-  lemme: funebre
-  type: lecture
-  note: funebre, sans s ni accent
-- ligne: 9
-  lemme: qq
-  type: abreviation
-  note: quelques
 - ligne: 10
   lemme: 1ère
   type: abreviation
   note: première
-- ligne: 11
-  lemme: lunch
-  type: emprunt
-  note: déjeuner
-- ligne: 15
-  lemme: ns
-  type: abreviation
-  note: nous
-- ligne: 15
-  lemme: exilé
-  type: lecture
-  note: exilé, sans s final
 - ligne: 15
   lemme: absolt
   type: abreviation
   note: absolument
 - ligne: 17
-  lemme: L
-  type: abreviation
-  note: lundi
-- ligne: 17
   lemme: Cap. W^{–}
   type: abreviation
   note: capitaine Williams ; W suivi d'un trait abréviatif suscrit
-- ligne: 18
-  lemme: 11^{h}
-  type: lecture
-  note: 11 heures (deux traits verticaux nets)
-- ligne: 19
-  lemme: 6^{h}
-  type: abreviation
-  note: 6 heures
 - ligne: 19
   lemme: \inc{s}
   type: lecture
-  note: soir (s réduit à une haste barrée) ; peut-être simple tiret
+  note: soir ? lecture incertaine ; peut-être simple tiret
 - ligne: 20
   lemme: \fr{1}{2}
   type: abreviation
   note: demi(-journée)
 - ligne: 21
-  lemme: bp
-  type: abreviation
-  note: beaucoup
-- ligne: 21
   lemme: English novel
   type: emprunt
   note: roman anglais
 - ligne: 22
-  lemme: tea
-  type: emprunt
-  note: thé
-- ligne: 22
   lemme: \inc{ds}
   type: lecture
-  note: dans ; le tracé donnerait plutôt « de », peu satisfaisant pour le sens
-critique: Encre violette uniforme. Les mots « pleine lune » sont serrés en petit module au pied de la page, sous la dernière ligne.
+  note: 'dans ? lecture incertaine ; autre lecture : de'
 historique: |
-  Le 24 février, au nord-est, des patrouilles de la 55th Brigade de la 18th Division découvrent le repli allemand préliminaire, commencé dans la nuit du 22 ; Serre et Pys sont occupés le 25 (OH 1917-I, p.~95--101) ; le carnet n'en dit rien. La route de Contay, à 4~km au sud-est, mène au terminus de la voie normale de Daours, avec son dépôt de munitions (OH 1916-I, p.~273--274) et les 9th et 49th \textit{Casualty Clearing Stations} (LLT) ; le « moulin » est sans doute l'un des moulins à vent du plateau qu'Hippolyte Combes décrit le 1\textsuperscript{er} mars (f.~80 v\textsuperscript{o}). Le « Village où ns sommes exilé » est Hérissart, où le service d'achats s'est installé le 7 février (voir f.~73 v\textsuperscript{o}). Le capitaine Williams gagne Senlis-le-Sec, QG du II Corps et de sa Mission française (voir f.~75 v\textsuperscript{o}), puis Martinsart, dont les baraques du bois abritent la 54th Brigade, relevée le 18 au lendemain de Boom Ravine (JMO 7/Bedf, févr. 1917). La « pleine lune » surprend : la nouvelle lune datait du 21 et le premier quartier tombe le 28 (calendar-12.com).
+  Le 24 février, des patrouilles de la 18th Division découvrent le repli allemand préliminaire ; Serre et Pys sont occupés le 25 (OH 1917-I, p.~95--101). Contay, à 4~km au sud-est, est le terminus de la voie normale venue de Daours (OH 1916-I, p.~273--274) et abrite deux \textit{Casualty Clearing Stations} (LLT). Le « moulin » est sans doute l'un des moulins à vent du plateau (voir f.~80 v\textsuperscript{o}). Le « Village où ns sommes exilé » est Hérissart, où le service d'achats s'est installé le 7 février (voir f.~73 v\textsuperscript{o}). Le capitaine Williams va à Senlis-le-Sec, QG du II Corps (voir f.~75 v\textsuperscript{o}), puis à Martinsart, où cantonne la 54th Brigade (JMO 7/Bedf, févr. 1917). La « pleine lune » ne s'accorde pas avec le calendrier : nouvelle lune le 21, premier quartier le 28 (calendar-12.com).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 95-101.
 - 'Edmonds, J. E. (comp.), Military Operations, France and Belgium, 1916, vol. I, Sir Douglas Haig''s Command to the 1st July : Battle of the Somme, Londres, Macmillan, 1932, p. 273-274.'

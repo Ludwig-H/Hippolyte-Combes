@@ -149,3 +149,8 @@ noms:
     ligne: 23
     identite: Martinsart (Somme)
 source: contrôle
+audit:
+- ligne: 8
+  avant: \inc{V^{e}}
+  apres: \inc{5^{me}}
+  justification: au zoom ×3, aucun V (pas de second trait remontant) ; une seule longue haste descendante à crochet de tête (5 en ſ), puis trois jambages (m) et un délié final, et non un simple e ; lecture gardée douteuse

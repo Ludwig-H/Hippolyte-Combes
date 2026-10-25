@@ -3,7 +3,7 @@ fichier: 20251126_105956.jpg
 date: Jeudi 18 et vendredi 19 janvier 1917
 mois: Janvier 1917
 lieux: Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval et Puchevillers (Somme)
-titre: Neige et gel ; courses à Belle-Église, Raincheval, Puchevillers ; solde au V Corps
+titre: Neige et gel ; courses à Belle-Église, Raincheval et Puchevillers ; solde
 transcription: |
   18 \sl{Jeudi} Matin (Canonnade — \hfill \sl{Janvier '17}
   \ind Temps froid. Neige,
@@ -31,26 +31,18 @@ apparat:
   lemme: '''17'
   type: abreviation
   note: '1917'
-- ligne: 3
-  lemme: s/
-  type: abreviation
-  note: sur
 - ligne: 6
   lemme: \inc{confondent}
   type: lecture
-  note: une seule boucle et deux jambages entre le d et le t, sans point d'i
+  note: lecture incertaine
 - ligne: 10
   lemme: Tempér^{re}
   type: abreviation
   note: température
 - ligne: 15
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 15
   lemme: s'élève à l'horizon
   type: lecture
-  note: début de « s'élève » et presque tout « horizon » noyés sous une reprise d'encre ; lecture assurée par le contexte
+  note: mots en partie noyés sous une reprise d'encre ; lu par le contexte
 - ligne: 18
   lemme: Ve corps
   type: abreviation
@@ -59,12 +51,9 @@ apparat:
   lemme: 84 fr
   type: abreviation
   note: 84 francs
-critique: Encre noire, avec des reprises d'encre sur quelques mots (« Matin », « s'élève », « horizon », « Froid »). La mention de la solde, qui se rapporte au matin du 19, est inscrite à la fin de la journée ; le bas de la page est resté blanc.
 historique: |
-  Les villages de la course du 18 jalonnent la route d'Acheux à Puchevillers : Belle-Église, hameau d'Arquèves où Hippolyte Combes a suivi en décembre le battage de la paille (voir f.~54~r\textsuperscript{o}), avait été tête de ligne pour les vivres au 1\textsuperscript{er} juillet 1916 (OH 1916-I, p.~274) ; Raincheval abritait en décembre l'\textit{Army Purchase Board} (f.~56~r\textsuperscript{o}) ; Puchevillers garde jusqu'en mars 1917 les 3rd et 44th \textit{Casualty Clearing Stations} (LLT, CCS). La canonnade du 18 répond peut-être aux attaques que mène alors la 11th Division sur la pente à l'ouest de la route de Beaucourt à Puisieux, avant d'être relevée le 20 (OH 1917-I, p.~69). La neige tombée le 17 (f.~62~r\textsuperscript{o}) tient sous le gel installé vers le 14-16 janvier (OH 1917-I, p.~66 ; Barbé 1917, p.~181). Le « bureau Mission Ve corps » suit le QG du V Corps, revenu à Acheux le 12 janvier (LLT, V Corps ; voir f.~61~v\textsuperscript{o}) ; les 84~F sont la paie d'une seconde quinzaine de seize jours à 5,25~F (voir f.~40~r\textsuperscript{o}).
+  Belle-Église est le hameau d'Arquèves où Hippolyte Combes a suivi en décembre le battage de la paille (voir f.~54~r\textsuperscript{o}, 61~r\textsuperscript{o}). Raincheval abritait en décembre l'\textit{Army Purchase Board} (f.~56~r\textsuperscript{o}) ; Puchevillers garde jusqu'en mars 1917 les 3rd et 44th \textit{Casualty Clearing Stations} (LLT, CCS). La canonnade du 18 répond peut-être aux attaques de la 11th Division à l'ouest de la route de Beaucourt à Puisieux, avant sa relève le 20 (OH 1917-I, p.~69). La neige du 17 (f.~62~r\textsuperscript{o}) tient sous le gel installé vers le 14-16 janvier (OH 1917-I, p.~66 ; Barbé 1917, p.~181). Le bureau de la Mission suit le QG du V Corps, revenu à Acheux le 12 (f.~61~v\textsuperscript{o}). Les 84~F sont la solde d'une seconde quinzaine de seize jours à 5,25~F (voir f.~40~r\textsuperscript{o}).
 sources:
-- Edmonds, J. E. (comp.), Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274.
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66, 69.
 - The Long, Long Trail (C. Baker), « Locations of British Casualty Clearing Stations », copie Wayback du 13 janv. 2018.
-- The Long, Long Trail (C. Baker), « The British V Corps in France and Flanders », copie Wayback d'août 2020.
 - Barbé, G., « L'hiver 1916-1917 », Journal d'agriculture pratique, n. s., t. 30, 1917, p. 181-182.

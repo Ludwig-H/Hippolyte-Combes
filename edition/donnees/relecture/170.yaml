@@ -142,3 +142,12 @@ noms:
     ligne: 25
     identite: Achiet-le-Petit (Pas-de-Calais)
 source: contrôle
+audit:
+- ligne: 19
+  avant: entier^{t} libre.
+  apres: entier^{t} libre
+  justification: le mot s'achève sur un long délié horizontal ; aucun point après libre
+- ligne: 20
+  avant: à Puchevillers.
+  apres: à Puchevillers
+  justification: le mot finit au bord droit de la page sur un délié ; aucun point visible

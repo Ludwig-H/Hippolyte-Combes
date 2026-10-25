@@ -165,3 +165,12 @@ noms:
     ligne: 21
     identite: Hérissart (Somme)
 source: contrôle
+audit:
+- ligne: 18
+  avant: Molliens-au-Bois
+  apres: Molliens-au, Bois
+  justification: entre « au » et « Bois », trait vertical descendant sous la ligne (virgule), distinct du trait d'union court et horizontal placé avant « au » (zoom ×3)
+- ligne: 21
+  avant: anti-aircraft battery.
+  apres: anti-aircraft battery
+  justification: aucun point après battery ; le y finit en long délié vers la droite, et le point voisin plus bas est celui du i de « lointains » (l. 22)

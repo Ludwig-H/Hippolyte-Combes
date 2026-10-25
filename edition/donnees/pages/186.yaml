@@ -2,8 +2,8 @@ cliche: 186
 fichier: 20251126_111833.jpg
 date: Lundi 30 avril 1917
 mois: Avril 1917
-lieux: Hérissart, Warloy-Baillon, Hénencourt, Millencourt, Laviéville et Villers-Bocage (Somme)
-titre: 'Dernière journée : tournées en auto sous un soleil ardent, l''après-midi avec le Lt Gilbert'
+lieux: Hérissart, Vadencourt, Warloy-Baillon, Hénencourt, Millencourt, Laviéville, Puchevillers, Pierregot et Villers-Bocage (Somme)
+titre: 'Dernier jour du carnet : tournées en auto, l''après-midi avec le Lt Gilbert'
 transcription: |
   \sl{30 Lundi.} \hfill \sl{Avril 1917} —
   \ind Aujourd'hui encore, temps magnifique
@@ -16,7 +16,7 @@ transcription: |
   Route, auto chassé lapin sauvage \trait
   Ciel d'un bleu pur & intense. Aux arbres,
   bourgeons grossissent à vue d'oeil.
-  Après tea-dinner, rentré chambre où me
+  Après tea-\inc{dinner}, rentré chambre où me
   suis mis à l'aise.
   Fatigué, couché de bonne heure
   Nuit très belle, merv^{t} eclairée. lune superbe
@@ -24,31 +24,18 @@ transcription: |
   \equerre{2}Washing : 50c.
   A Henencourt, miroir de poche : 50c
 apparat:
-- ligne: 7
-  lemme: cie
-  type: abreviation
-  note: compagnie
-- ligne: 7
-  lemme: L^{t}
-  type: abreviation
-  note: lieutenant
+- ligne: 12
+  lemme: \inc{dinner}
+  type: lecture
+  note: quatre jambages après le d ; « diner » possible
 - ligne: 12
   lemme: tea-dinner
   type: emprunt
   note: repas du soir tenant lieu de thé et de dîner
-- ligne: 15
-  lemme: merv^{t}
-  type: abreviation
-  note: merveilleusement
-- ligne: 16
-  lemme: Washing
-  type: emprunt
-  note: blanchissage
-critique: 'Dernière page écrite photographiée du carnet : les deux dépenses sont portées au pied, après un blanc. L''encre pâlit par endroits (fin des l.~4 et 6, l.~13 et 15), sans changement d''instrument apparent.'
+critique: Seul le recto de ce feuillet a été photographié.
 historique: |
-  Le carnet s'achève à la date annoncée par sa couverture (« Du 25 juillet 1916 au 30 avril 1917 ») ; on ignore s'il eut une suite, la plupart des papiers d'Hippolyte Combes ayant été détruits en 1970-1971 (P. Combes, livre familial). Les villages du matin, à l'ouest d'Albert, avaient été trouvés vides le 19 avril (voir f.~90 v\textsuperscript{o}) ; Puchevillers avait abrité les hôpitaux d'évacuation n\textsuperscript{os}~3 et 44 jusqu'en mars et garde le n\textsuperscript{o}~61 jusqu'en mai ; Villers-Bocage fut le QG du II Corps du 23 juin au 23 juillet 1916 (LLT). La note de blanchissage, 50 c., clôt une rubrique ouverte le 26 juillet 1916 (« Washing : 1\textsuperscript{f} », f.~1 v\textsuperscript{o}). Ce même jour, la 18th Division est en ligne devant Chérisy, qu'elle attaquera le 3 mai (Nichols 1922, p.~165-166). Interprète jusqu'au 11 novembre 1918, Hippolyte Combes épouse Marguerite Calmels à Millau le 25 octobre 1917 (menu des noces) et est dirigé le 24 novembre 1918 sur l'École militaire préparatoire des Andelys comme professeur d'anglais (registre matricule n\textsuperscript{o}~911).
+  Le carnet s'achève à la date inscrite sur sa couverture (« Du 25 juillet 1916 au 30 avril 1917 »). On ignore s'il eut une suite : la plupart des papiers d'Hippolyte Combes ont été détruits en 1970--1971 (P. Combes, livre familial). Les villages du matin, à l'ouest d'Albert, avaient été trouvés vides le 19 avril (voir f.~90 v\textsuperscript{o}). Puchevillers avait accueilli les hôpitaux d'évacuation n\textsuperscript{os}~3 et 44 jusqu'en mars ; le n\textsuperscript{o}~61 y reste jusqu'en mai (LLT). Hippolyte Combes épouse Marguerite Calmels à Millau le 25 octobre 1917 (menu des noces). Interprète jusqu'au 11 novembre 1918, il est envoyé le 24 novembre comme professeur d'anglais à l'École militaire préparatoire des Andelys (registre matricule n\textsuperscript{o}~911).
 sources:
-- Baker, C., The Long, Long Trail, « Locations of British Casualty Clearing Stations » (copie Wayback Machine du 13 janvier 2018) et « The British II Corps in France and Flanders » (copie Wayback Machine du 6 novembre 2024).
-- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 165-166.
+- Baker, C., The Long, Long Trail, « Locations of British Casualty Clearing Stations » (copie Wayback Machine du 13 janvier 2018).
 - Archives départementales de la Haute-Garonne, registre matricule du recrutement de Toulouse, classe 1896, n° 911 (Combes, Marie Lucien Hippolyte).
 - 'Archives de la famille Combes : menu du repas de noces d''Hippolyte Combes et de Marguerite Calmels, Millau, 25 octobre 1917 ; Pierre Combes, livre familial (inédit).'

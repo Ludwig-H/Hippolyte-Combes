@@ -3,7 +3,7 @@ fichier: 20251126_103321.jpg
 date: Lundi 2 octobre 1916
 mois: Octobre 1916
 lieux: Toulouse (Haute-Garonne)
-titre: Tête-à-tête avec Marguerite à Sainte-Marie ; visite de sa mère ; chapelle de Nazareth
+titre: Tête-à-tête avec Marguerite ; visite de sa mère ; chapelle de Nazareth
 transcription: |
   \sl{2 L.} Temps splendide \hfill \sl{Octbre 1916}
   Matinée, cme \inc{tjs} resté appartt & trouvé
@@ -38,45 +38,13 @@ apparat:
   type: abreviation
   note: octobre
 - ligne: 2
-  lemme: cme
-  type: abreviation
-  note: comme
-- ligne: 2
   lemme: tjs
   type: lecture
-  note: toujours ; lecture probable, tracé enchevêtré ; « ft » possible
-- ligne: 2
-  lemme: appartt
-  type: abreviation
-  note: appartement
-- ligne: 4
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 5
-  lemme: S^{te}
-  type: abreviation
-  note: Sainte
-- ligne: 5
-  lemme: 11^{H} \fr{1}{2}
-  type: abreviation
-  note: onze heures et demie
+  note: 'toujours ; lecture probable ; autre lecture : ft'
 - ligne: 6
   lemme: dejeun
   type: abreviation
   note: déjeuner
-- ligne: 6
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 7
-  lemme: av
-  type: abreviation
-  note: avec
-- ligne: 8
-  lemme: M^{te}
-  type: abreviation
-  note: Marguerite
 - ligne: 8
   lemme: sentimt
   type: abreviation
@@ -89,34 +57,10 @@ apparat:
   lemme: 5^{H}
   type: abreviation
   note: cinq heures
-- ligne: 11
-  lemme: chz
-  type: abreviation
-  note: chez
-- ligne: 11
-  lemme: Marg^{te}
-  type: abreviation
-  note: Marguerite
-- ligne: 12
-  lemme: ds
-  type: lecture
-  note: dans ; d en ∂ puis s plongeant, sans accent
-- ligne: 12
-  lemme: appartt
-  type: abreviation
-  note: appartement
-- ligne: 12
-  lemme: Marg^{te}
-  type: abreviation
-  note: Marguerite
-- ligne: 14
-  lemme: 6^{H}
-  type: abreviation
-  note: six heures
 - ligne: 14
   lemme: \inc{\fr{1}{2}}
   type: lecture
-  note: et demie, lecture probable (signe en Z prolongé par le trait) ; « s. » (soir) possible
+  note: 'et demie, lecture probable ; autre lecture : s. (soir)'
 - ligne: 15
   lemme: Ts 3
   type: abreviation
@@ -128,7 +72,7 @@ apparat:
 - ligne: 18
   lemme: parfumé
   type: lecture
-  note: lecture probable (p à attaque haute, f sans jambage net) ; « l'arbre » moins probable
+  note: 'lecture probable ; autre lecture : l''arbre'
 - ligne: 19
   lemme: pr.
   type: abreviation
@@ -136,17 +80,16 @@ apparat:
 - ligne: 19
   lemme: Bonny
   type: lecture
-  note: prénom ou diminutif douteux (B, o, minimes, y à longue descente)
+  note: lecture incertaine ; prénom ou diminutif
 - ligne: 20
   lemme: '1.25'
   type: compte
-  note: 1 franc 25, prix du chapelet, écrit sous la ligne
-critique: Encre violette. La ligne de la chapelle de Nazareth, serrée contre la précédente, a peut-être été ajoutée après coup.
+  note: prix du chapelet (1 franc 25)
 historique: |
-  « Sa mère » est Valentine Cartairade (1858--1943), épouse du Dr Gabriel Calmels, médecin à Millau (acte de naissance de Marguerite, Millau, 1892 ; \textit{PC-Annexe}). La chapelle Notre-Dame-de-Nazareth, 4, rue Philippe-Féral, à deux pas de l'appartement d'Hippolyte Combes, est un édifice du XV\textsuperscript{e} siècle très remanié au XVI\textsuperscript{e}, bâti par des parlementaires qui en eurent l'usage jusqu'en 1789 et rendu au culte en 1800 (Mérimée PA00094499) ; on y célébrait pendant la guerre messes anniversaires et services pour les morts (\textit{Le Télégramme}, 10 mars 1916, p.~4 ; 3 juill. 1917, p.~2). La rue d'Alsace-Lorraine est l'artère commerçante ; le tram de la Côte-Pavée part du Capitole (Baedeker 1912, p.~298, 300). Sur Jean, voir f.~29 v\textsuperscript{o}. Le destinataire du chapelet (« Bonny », diminutif non identifié) demeure incertain. Ce jour, la 54th Brigade quitte Acheux en chemin de fer pour Candas (voir f.~33 v\textsuperscript{o}).
+  « Sa mère » est Valentine Cartairade (1858--1943), épouse du Dr Gabriel Calmels, médecin à Millau (acte de naissance de Marguerite, Millau, 1892 ; \textit{PC-Annexe}). La chapelle Notre-Dame-de-Nazareth, rue Philippe-Féral, près de l'appartement, date du XV\textsuperscript{e} siècle ; rendue au culte en 1800, elle accueille pendant la guerre des services pour les morts (Mérimée PA00094499 ; \textit{Le Télégramme}, 10 mars 1916, p.~4). Le tram de la Côte-Pavée part du Capitole (Baedeker 1912, p.~298, 300). Sur Jean, voir f.~29 v\textsuperscript{o}. « Bonny » n'est pas identifié. Ce jour, la 54th Brigade quitte Acheux en train pour Candas (voir f.~33 v\textsuperscript{o}).
 sources:
 - Acte de naissance de Marie Marguerite Calmels, Millau, n° 137, 16 avril 1892 (archives familiales).
 - Combes, P., livre familial dactylographié et annexe généalogique (PC-Livre, PC-Annexe), archives familiales.
 - Ministère de la Culture, base Mérimée, notice PA00094499 (chapelle Notre-Dame-de-Nazareth, Toulouse), pop.culture.gouv.fr, consultée le 18 oct. 2026.
-- Le Télégramme, 10 mars 1916, p. 4 (ark:/12148/bd6t53866190s) ; 3 juillet 1917, p. 2 (ark:/12148/bd6t53866670r), Rosalis, Bibliothèque de Toulouse.
+- Le Télégramme, 10 mars 1916, p. 4 (ark:/12148/bd6t53866190s), Rosalis, Bibliothèque de Toulouse.
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, K. Baedeker, 1912, p. 298, 300.

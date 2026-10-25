@@ -81,8 +81,10 @@ def table_concordance(codico: list[dict], pages: dict) -> str:
             rem.append("trav.")
         if "Seule face" in (c.get("remarque") or ""):
             rem.append("seule face")
+        if "verso de ce feuillet est resté blanc" in (c.get("remarque") or ""):
+            rem.append("verso blanc")
         lignes.append(r"%s & %s & \pageref{cl%03d} & %s \\" % (
-            folio(c["feuillet"], c["face"]), gabarit.echapper(p.get("date", "")), n, ", ".join(rem)))
+            folio(c["feuillet"], c["face"]), gabarit.date_ed(p.get("date", "")), n, ", ".join(rem)))
     return "\n".join([
         r"\LJtableconcordance{%",
         "\n".join(lignes),

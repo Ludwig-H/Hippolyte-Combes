@@ -154,3 +154,8 @@ noms:
     ligne: 21
     identite: Amiens (Somme)
 source: contrôle
+audit:
+- ligne: 8
+  avant: Et ces villages où vecu heures bien vide & triste.
+  apres: Et ces villages où vecu \inc{jadis} bien vide & triste.
+  justification: 'zoom x3 [.40 .31 .55 .37] : le mot commence par un long jambage descendant à attaque haute (j ou p), porte au milieu une haste bouclée montante (d) et finit par un crochet prolongé en délié, sans s plongeante ; heures (sans hampe médiane) est exclu ; jadis rend compte des traits et du singulier vide & triste ; pendant reste possible'

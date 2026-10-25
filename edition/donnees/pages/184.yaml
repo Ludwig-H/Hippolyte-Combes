@@ -3,7 +3,7 @@ fichier: 20251126_111737.jpg
 date: Jeudi 26 – vendredi 27 avril 1917
 mois: Avril 1917
 lieux: Hérissart, Contay, Puchevillers, Pierregot, Varennes et Rubempré (Somme)
-titre: Le long des tranchées de Puchevillers ; les Mortreux à Varennes ; retour à pied, Rubempré
+titre: Tranchées de Puchevillers ; les Mortreux à Varennes ; retour à pied de Rubempré
 transcription: |
   \sl{26 jeudi} \hfill — \sl{Avril 1917} —
   \ind Matinée, temps nuageux
@@ -11,8 +11,8 @@ transcription: |
   belle. Courses à Contay. Puchevillers & Pierregot
   Après diner, très agréable promenade petit
   chemin de Puchevillers, le long de dug-outs et
-  des tranchées. Ciel bleu, chaud soleil.
-  \ind Nuit merveillt etoilée –
+  des tranchées. Ciel bleu chaud soleil.
+  \ind Nuit merveill^{t} etoilée –
   \blanc{3}
   27 \sl{Ven.}
   \ind Matin, courses à Contay, Harponville & Varennes,
@@ -31,34 +31,17 @@ apparat:
 - ligne: 7
   lemme: des
   type: lecture
-  note: s final réduit à un petit crochet ; « de » possible
+  note: « de » possible
 - ligne: 8
-  lemme: merveillt
+  lemme: merveill^{t}
   type: abreviation
   note: merveilleusement
-- ligne: 9
-  lemme: Ven.
-  type: abreviation
-  note: vendredi
-- ligne: 11
-  lemme: av
-  type: abreviation
-  note: avec
 - ligne: 11
   lemme: Mortreux
   type: lecture
-  note: lecture probable, x final prolongé en long trait ; « Mertreux » possible
-- ligne: 15
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
-- ligne: 16
-  lemme: chz
-  type: abreviation
-  note: chez
-critique: Encre violette. Un blanc de trois lignes sépare les deux journées et le bas de la page est resté blanc ; le 28 avril commence en tête du verso.
+  note: 'lecture probable ; autre lecture : Mertreux'
 historique: |
-  Les \textit{dug-outs} et les tranchées que longe le petit chemin de Puchevillers sont peut-être, comme les champs de barbelés et de tranchées vus près de Toutencourt le 27 février (voir f.~80 r\textsuperscript{o}), des ouvrages creusés avant le 1\textsuperscript{er} juillet 1916 pour les répétitions d'assaut, que l'histoire officielle dit aménagées « dans les zones arrière », au grand mécontentement des cultivateurs (OH 1916-I, p.~262, n.~1) ; il peut aussi s'agir de lignes de défense arrière. Varennes, à moins de 3~km au sud d'Acheux, abrite encore trois hôpitaux d'évacuation, les 4th et 11th CCS depuis octobre 1916 et la 47th depuis décembre ; la notice du CWGC dit le village « déserté » en mai 1917 (LLT ; CWGC). Hippolyte Combes y était venu dès novembre 1916, au temps du bureau d'Acheux (f.~48 v\textsuperscript{o}) ; la famille Mortreux, qu'il « revoit » avec plaisir, n'est pas identifiée. Les soirées chez les Denis (voir f.~89 r\textsuperscript{o}) se poursuivent jusqu'à l'annonce, le 28, d'un départ prochain (f.~92 v\textsuperscript{o}).
+  Les \textit{dug-outs} et les tranchées du chemin de Puchevillers sont peut-être, comme ceux vus près de Toutencourt le 27 février (voir f.~80 r\textsuperscript{o}), des ouvrages creusés avant le 1\textsuperscript{er} juillet 1916 pour les répétitions d'assaut, aménagés « dans les zones arrière » au grand mécontentement des cultivateurs (OH 1916-I, p.~262, n.~1), ou des lignes de défense arrière. Varennes, à moins de 3~km au sud d'Acheux, abrite encore trois hôpitaux d'évacuation, les 4th, 11th et 47th CCS ; le village est « déserté » en mai 1917 (LLT ; CWGC). Hippolyte Combes y était venu dès novembre 1916 (f.~48 v\textsuperscript{o}) ; la famille Mortreux n'est pas identifiée.
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Londres, Macmillan, 1932, p. 262, n. 1.
 - The Long, Long Trail (C. Baker), « Locations of British Casualty Clearing Stations », copie Wayback du 13 janv. 2018.

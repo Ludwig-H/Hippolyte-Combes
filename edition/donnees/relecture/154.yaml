@@ -176,3 +176,16 @@ noms:
     ligne: 19
     identite: Toutencourt (Somme)
 source: contrôle
+audit:
+- ligne: 5
+  avant: Matinée, dégel commencé, asz rapide
+  apres: Matinée, degel commencé, asz rapide
+  justification: 'zoom ×2 : aucun accent sur le premier e de degel (ni au-dessus du mot ni décalé sur le g) ; le trait qui monte à gauche du d est le jambage du j de « jour » (l. 4) ; accent seul sur commencé'
+- ligne: 12
+  avant: Au réveil, trouvé mes
+  apres: Au reveil, trouvé mes
+  justification: 'zoom ×2 : r, e, v, e, i pointé, l ; aucun accent au-dessus de re ni décalé sur le v ; le seul tracé au-dessus du mot est le point du i'
+- ligne: 22
+  avant: mais sans lune
+  apres: mais sans lune.
+  justification: 'zoom ×3 : point rond appuyé à hauteur de la ligne de base, à droite du délié final de lune ; ni point d''i (aucun i au voisinage, celui de « vif », l. 23, est plus à droite) ni accent de « très » (tracé distinct, plus bas)'

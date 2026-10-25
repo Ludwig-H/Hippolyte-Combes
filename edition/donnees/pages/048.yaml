@@ -3,7 +3,7 @@ fichier: 20251126_094835.jpg
 date: Samedi 23 septembre 1916
 mois: Septembre 1916
 lieux: Raincheval, Léalvillers, Acheux-en-Amiénois et Forceville (Somme)
-titre: Départ de Raincheval ; contre-ordre près de Léalvillers ; bivouac près de Forceville
+titre: Départ de Raincheval ; contre-ordre vers Léalvillers ; bivouac vers Forceville
 transcription: |
   \sl{Sam 23} \hfill \sl{Sept^{bre} /16}
   très belle journée.
@@ -19,7 +19,7 @@ transcription: |
   Repartis à cheval seul j.à gare d'Acheux
   Cap West vers 2^{H} \fr{1}{2}, m a rejoint et aussitot
   tt Coy filé. –
-  \inc{Revenus} route gare \inc{jau} tournant route de
+  \inc{Revenus} route gare \inc{jus} tournant route de
   Forceville
   Cantonnés in the open – champs au flanc
   coteau
@@ -29,38 +29,18 @@ transcription: |
   \equerre{2}A M^{me} — \inc{propri} d'Acheux. 1 (Cooking
   Carte du Petit Journal : 60 c —
 apparat:
-- ligne: 1
-  lemme: Sam
-  type: abreviation
-  note: samedi
-- ligne: 1
-  lemme: Sept^{bre} /16
-  type: abreviation
-  note: septembre 1916
 - ligne: 3
   lemme: 6^{H} \fr{1}{2}
   type: abreviation
   note: six heures et demie
-- ligne: 3
-  lemme: ts
-  type: abreviation
-  note: tous
 - ligne: 4
   lemme: 7^{H} \fr{1}{2}
   type: abreviation
   note: sept heures et demie
-- ligne: 4
-  lemme: cap
-  type: abreviation
-  note: capitaine
 - ligne: 5
   lemme: 9^{H} 30
   type: abreviation
   note: neuf heures trente
-- ligne: 8
-  lemme: ns
-  type: abreviation
-  note: nous
 - ligne: 8
   lemme: Lealviller
   type: graphie
@@ -68,15 +48,11 @@ apparat:
 - ligne: 9
   lemme: \inc{avec}
   type: lecture
-  note: avec (v, e réduit, délié recoupé d'un trait vertical) ; « av + » possible
+  note: lecture incertaine ; autre lecture, av +
 - ligne: 11
   lemme: \inc{coté}
   type: lecture
-  note: côté, en suite de « à » en fin de ligne précédente ; tracé serré contre la marge
-- ligne: 11
-  lemme: refilling point
-  type: emprunt
-  note: point de ravitaillement des convois
+  note: côté, à la suite de « à » (l. 10)
 - ligne: 12
   lemme: j.à
   type: abreviation
@@ -90,60 +66,31 @@ apparat:
   type: abreviation
   note: deux heures et demie (de l'après-midi)
 - ligne: 14
-  lemme: tt
-  type: abreviation
-  note: toute
-- ligne: 14
   lemme: Coy
   type: abreviation
   note: Company, la compagnie britannique (152nd Coy A.S.C.)
 - ligne: 15
   lemme: \inc{Revenus}
   type: lecture
-  note: revenus ; Retourné possible
+  note: autre lecture, Retourné
 - ligne: 15
-  lemme: \inc{jau}
-  type: abreviation
-  note: jusqu'au ; « jus » possible
+  lemme: \inc{jus}
+  type: lecture
+  note: jusqu'au ; autre lecture, jau
 - ligne: 17
   lemme: in the open
   type: emprunt
   note: à découvert, en plein air
-- ligne: 19
-  lemme: b.
-  type: abreviation
-  note: belle
-- ligne: 20
-  lemme: bache
-  type: lecture
-  note: bâche
-- ligne: 21
-  lemme: cme
-  type: abreviation
-  note: comme
-- ligne: 22
-  lemme: M^{me}
-  type: abreviation
-  note: Madame
 - ligne: 22
   lemme: \inc{propri}
-  type: abreviation
-  note: propriétaire
+  type: lecture
+  note: propriétaire ; lecture incertaine
 - ligne: 22
   lemme: 1 (Cooking
   type: compte
-  note: 1 franc, unité non écrite ; parenthèse non refermée
-- ligne: 22
-  lemme: Cooking
-  type: emprunt
-  note: cuisine
-- ligne: 22
-  lemme: A M^{me}
-  type: disposition
-  note: ligne écrite petit, serrée au-dessus de la suivante ; l'équerre ouvre les deux lignes de compte
-critique: Encre violette uniforme, page d'une seule venue. Les deux lignes de comptes sont serrées au pied de la page.
+  note: 1 franc, unité omise ; parenthèse non refermée
 historique: |
-  La compagnie part avec la 54th Brigade, qui monte vers Thiepval : le 7th Bedfordshire quitte Raincheval à 9 h et gagne Varennes à midi par Arquèves, Léalvillers et Acheux ; le QG de brigade est à Hédauville (JMO 7/Bedf, 23 sept. 1916). Le « cap West » est le capitaine E. M. West, commandant de la 152nd Coy (Nichols 1922, p.~110 ; voir f. 21 v\textsuperscript{o}). Le lieutenant Pizzi, qu'Hippolyte Combes louait dans sa lettre du 25 février 1916 comme « l'officier interprète de la 18e division » (en annexe, p.~\pageref{annexe:doc1}), transmet les ordres aux interprètes des unités, sans identité civile établie. Le \textit{refilling point} est le lieu où les camions de la \textit{supply column} remettent vivres et fourrage aux voitures du train (voir f. 33 v\textsuperscript{o}). La gare d'Acheux est le terminus de la voie normale Candas--Acheux ouverte en 1916, tête de ligne des vivres et du matériel du génie (OH 1916-I, p.~273--274). Ce même 23 septembre s'ouvre la préparation d'artillerie de l'attaque de Thiepval (OH 1916-II, p.~393--394) ; la division relève la 49th dans la nuit du 24 au 25 (ibid., p.~394).
+  La compagnie suit la 54th Brigade : le 7th Bedfordshire part de Raincheval à 9 h pour Varennes par Arquèves, Léalvillers et Acheux (JMO 7/Bedf, 23 sept. 1916). Le « cap West » est le capitaine E. M. West, commandant de la 152nd Coy (Nichols 1922, p.~110 ; voir f. 21 v\textsuperscript{o}). Le lieutenant Pizzi, « l'officier interprète de la 18e division » selon la lettre du 25 février 1916 (en annexe, p.~\pageref{annexe:doc1}), transmet les ordres aux interprètes des unités ; son identité civile n'est pas établie. La gare d'Acheux est le terminus de la voie normale Candas--Acheux, ouverte en 1916 (OH 1916-I, p.~273--274). Le même jour commence la préparation d'artillerie de l'attaque de Thiepval (OH 1916-II, p.~393--394).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 110.

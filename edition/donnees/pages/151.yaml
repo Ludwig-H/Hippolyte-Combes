@@ -3,7 +3,7 @@ fichier: 20251126_110737.jpg
 date: Samedi 10 février 1917 (suite) – dimanche 11 février 1917
 mois: Février 1917
 lieux: Hérissart, Aveluy, Senlis-le-Sec et Acheux-en-Amiénois (Somme)
-titre: Visite à la 152nd Company route d'Aveluy ; Mission du II Corps à Senlis ; dimanche 11, gel
+titre: 152nd Company route d'Aveluy ; Mission du II Corps à Senlis ; dimanche 11, gel
 transcription: |
   \sl{Sam. 10} (suite) \hfill \sl{Février 1917}
   Continué en auto route d'Aveluy, mon ancienne
@@ -17,7 +17,7 @@ transcription: |
   Au retour, arrêté au refilling point, où revu
   cap. \inc{Lovet}. Charmant
   \ind Rentrés vers 3^{H} \fr{1}{2}, par Senlis. A la miss. fr.
-  2^{e} corps, vu cap. de \inc{Casteljau}, énorme & bête
+  2^{e} corps, vu cap. de \inc{Casteljau}, enorme & bête
   Passé par Acheux \trait
   Soleil rouge disparaissait à l'horizon.
   Nuit étoilée et sans lune
@@ -28,10 +28,6 @@ transcription: |
   sensiblement temperature. Bientôt ce sera
   le dégel, et fin de l'hiver \trait
 apparat:
-- ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
 - ligne: 3
   lemme: Cy
   type: abreviation
@@ -40,22 +36,10 @@ apparat:
   lemme: Lunché
   type: emprunt
   note: déjeuné (verbe formé sur l'anglais lunch)
-- ligne: 4
-  lemme: mess
-  type: emprunt
-  note: popote, table commune des officiers
-- ligne: 4
-  lemme: L^{t}
-  type: abreviation
-  note: lieutenant
 - ligne: 5
   lemme: cantonnem^{t}
   type: abreviation
   note: cantonnement
-- ligne: 5
-  lemme: qq
-  type: abreviation
-  note: quelques
 - ligne: 5
   lemme: N.C.O's
   type: abreviation
@@ -64,26 +48,10 @@ apparat:
   lemme: men
   type: emprunt
   note: hommes de troupe
-- ligne: 6
-  lemme: ts
-  type: abreviation
-  note: tous
-- ligne: 9
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 10
-  lemme: refilling point
-  type: emprunt
-  note: point de ravitaillement des convois
-- ligne: 11
-  lemme: cap.
-  type: abreviation
-  note: capitaine
 - ligne: 11
   lemme: \inc{Lovet}
   type: lecture
-  note: Lovet probable ; Louvet possible
+  note: 'lecture incertaine ; autre lecture : Louvet'
 - ligne: 12
   lemme: 3^{H} \fr{1}{2}
   type: abreviation
@@ -93,39 +61,22 @@ apparat:
   type: abreviation
   note: Mission française
 - ligne: 13
-  lemme: 2^{e}
-  type: abreviation
-  note: deuxième
-- ligne: 13
-  lemme: cap.
-  type: abreviation
-  note: capitaine
-- ligne: 13
   lemme: \inc{Casteljau}
   type: lecture
-  note: Casteljau probable, finale peu nette ; Castelyau possible
-- ligne: 17
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
+  note: 'lecture incertaine ; autre lecture : Castelyau'
 - ligne: 18
   lemme: extr^{t}
   type: abreviation
   note: extrêmement
 - ligne: 19
-  lemme: Ds
-  type: abreviation
-  note: Dans
-- ligne: 19
   lemme: le \fr{1}{2} du jour
   type: abreviation
   note: le milieu du jour
-critique: Encre violette. Un blanc d'environ deux lignes précède le dimanche 11, dont la journée est reprise sous une nouvelle date en tête du f.~76 r\textsuperscript{o} ; tache d'encre au bas de la page.
+critique: La journée du dimanche 11, commencée ici, est reprise sous la même date au f.~76 r\textsuperscript{o}.
 historique: |
-  « Mon ancienne Cy », la 152nd Company, quittée le 2 novembre, campe sur la route d'Aveluy, à l'arrière du secteur que la 18th Division tient au sud de l'Ancre depuis le 16 janvier (Nichols 1922, p.~139 ; OH 1917-I, p.~69). Le 17 février, dans la boue du dégel commencé la veille, elle attaquera à Boom Ravine et y perdra 54 officiers et 1~135 hommes (OH 1917-I, p.~75--82). Le lieutenant Bradfield est peut-être Godfrey Edward Bradfield, seul officier de l'A.S.C. de ce nom (TNA, WO 339/44046) ; le capitaine « Lovet » n'est pas identifié. Les « canons de marine » sont sans doute des pièces lourdes rassemblées pour ces opérations. Le \textit{refilling point} est le lieu où les sections du train rechargent sur les colonnes de ravitaillement (FSPB 1914). Senlis-le-Sec abrite depuis le 21 janvier 1917 le QG du II Corps (LLT), dont relève la division, et la Mission française de ce corps ; le capitaine de Casteljau, dont la lecture est sûre, n'est pas identifié.
+  « Mon ancienne Cy », la 152nd Company, quittée le 2 novembre, campe sur la route d'Aveluy, à l'arrière du secteur que la 18th Division tient au sud de l'Ancre depuis le 16 janvier (Nichols 1922, p.~139 ; OH 1917-I, p.~69). Le 17 février, la division attaquera à Boom Ravine (OH 1917-I, p.~75--82). Le lieutenant Bradfield est peut-être Godfrey Edward Bradfield, de l'A.S.C. (TNA, WO 339/44046) ; le capitaine « Lovet » n'est pas identifié. Senlis-le-Sec abrite depuis le 21 janvier 1917 le QG du II Corps, dont relève la division, et sa Mission française (LLT) ; le capitaine de Casteljau n'est pas identifié.
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Édimbourg et Londres, W. Blackwood & Sons, 1922, p. 139.
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 69, 75-82.
 - 'The National Archives (Kew), WO 339/44046 : dossier d''officier du Lieutenant G. E. Bradfield, Royal Army Service Corps (notice du catalogue).'
-- General Staff, War Office, Field Service Pocket Book, Londres, HMSO, 1914, « Definitions ».
 - The Long, Long Trail (C. Baker), « The British II Corps in France and Flanders », copie Wayback du 6 nov. 2024.

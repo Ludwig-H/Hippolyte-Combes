@@ -164,3 +164,8 @@ noms:
     ligne: 18
     identite: Martinsart (Somme)
 source: contrôle
+audit:
+- ligne: 3
+  avant: Après-midi, courte promenade s/ route
+  apres: Après-midi, Courte promenade s/ route
+  justification: C initial à boucle de tête et grand arc, deux fois la hauteur des minuscules, identique au C de « Contay » (l. 4) ; les c minuscules de la page (course, ciel) sont au module des minuscules

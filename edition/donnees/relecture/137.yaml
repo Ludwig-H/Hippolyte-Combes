@@ -175,3 +175,8 @@ noms:
     ligne: 15
     identite: Toulouse (Haute-Garonne)
 source: contrôle
+audit:
+- ligne: 11
+  avant: 'Chapelle archevêché : conférence, pas eu lieu –'
+  apres: 'Chapelle archeveché : conférence, pas eu lieu –'
+  justification: 'zoom ×2 (.10 .39 .65 .44) : au-dessus du mot, un seul court tiret, décalé à droite de « ché » (accent de la finale) ; rien au-dessus du second e : pas de circonflexe à restituer'

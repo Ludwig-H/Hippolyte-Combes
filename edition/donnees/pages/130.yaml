@@ -3,7 +3,7 @@ fichier: 20251126_110124.jpg
 date: Samedi 27 janvier 1917
 mois: Janvier 1917
 lieux: Amiens (Somme) ; Paris ; Neuilly-sur-Seine (Hauts-de-Seine)
-titre: Nuit en gare d'Amiens avec l'interprète Boilly ; Paris, gare d'Orsay, puis Neuilly
+titre: Nuit en gare d'Amiens ; Paris, gare d'Orsay, puis Neuilly chez Mme Faure
 transcription: |
   \sl{Sam. 27} – \hfill \sl{Janv. 1917}
   \ind Train arrivé enfin à
@@ -30,17 +30,9 @@ transcription: |
   Maison luxueuse. Au 4^{e} etage, à g.
 apparat:
 - ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
-- ligne: 1
   lemme: Janv.
   type: abreviation
   note: janvier
-- ligne: 3
-  lemme: 2^{H}
-  type: abreviation
-  note: deux heures
 - ligne: 4
   lemme: l'1
   type: abreviation
@@ -57,30 +49,14 @@ apparat:
   lemme: Y.M.C.A.
   type: abreviation
   note: Young Men's Christian Association (foyer du soldat)
-- ligne: 8
-  lemme: Hut
-  type: emprunt
-  note: baraque
 - ligne: 12
   lemme: 5^{H} \fr{1}{2}
   type: abreviation
   note: cinq heures et demie
-- ligne: 12
-  lemme: 2^{H}
-  type: abreviation
-  note: deux heures
-- ligne: 12
-  lemme: 2^{H}
-  type: abreviation
-  note: deux heures
 - ligne: 13
   lemme: 2e cl
   type: abreviation
   note: deuxième classe
-- ligne: 15
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
 - ligne: 16
   lemme: 11^{H} 15 m
   type: abreviation
@@ -92,37 +68,22 @@ apparat:
 - ligne: 17
   lemme: de Orsay
   type: lecture
-  note: e net, lié au d ; petit trait pointé au-dessus de l'O (apostrophe ?) ; pour gare d'Orsay
-- ligne: 18
-  lemme: bagages
-  type: disposition
-  note: fin du mot (-ges) descendant dans la marge droite jusqu'au bout de la l. 19
+  note: pour « d'Orsay » ; apostrophe possible
 - ligne: 21
   lemme: 5 m.
   type: abreviation
   note: cinq minutes
 - ligne: 22
-  lemme: 'no'
-  type: abreviation
-  note: numéro
-- ligne: 22
   lemme: \inc{4}6
   type: lecture
-  note: 'premier chiffre noyé d''encre (boucle pleine, haste à droite : 4 fermé) ; 2, 6 ou 8 possibles ; second chiffre 6'
+  note: premier chiffre incertain ; 26, 66 ou 86 possibles
 - ligne: 23
   lemme: 4^{e}
   type: abreviation
   note: quatrième
-- ligne: 23
-  lemme: à g.
-  type: abreviation
-  note: à gauche
-critique: Le récit reprend, à la date du 27, l'arrivée à Amiens déjà notée au f.~64~v\textsuperscript{o} ; il se poursuit au verso.
 historique: |
-  Boilly, « prof. à Pont-à-Mousson » (Meurthe-et-Moselle), n'est pas identifié ; encore un universitaire parmi les interprètes (voir f.~48~v\textsuperscript{o}). L'« abri du soldat », foyer d'accueil du boulevard d'Alsace-Lorraine, ne l'est pas davantage. La Y.M.C.A. tenait près de la gare d'Amiens un foyer ouvert la nuit, avec un « tea-room des officiers » servant « pour une somme modique » thé, gâteaux et fruits aux voyageurs (Fernand-Laurent 1917, p.~92-93) ; c'est peut-être la \textit{« Joy » hut} de Yapp (1918, chap.~VII). L'« air brûlant » du compartiment contraste avec la crise du charbon : ce même 27 janvier, le général Dubail, gouverneur militaire de Paris, met voitures et hommes de corvée à la disposition des municipalités pour y remédier (\textit{La Dépêche}, 28 janv. 1917, p.~2). Le fiacre taximètre jusqu'à Orsay coûte 1~f~45 et 30~c de pourboire (f.~66~r\textsuperscript{o} ; Baedeker 1913, p.~28). La ligne~1 du métro s'arrête à la Porte Maillot jusqu'en 1937 (Wikipédia), d'où la marche jusqu'à la rue d'Armenonville, chez Mme Faure (voir f.~65~v\textsuperscript{o}).
+  Boilly, « prof. à Pont-à-Mousson » (Meurthe-et-Moselle), n'est pas identifié ; l'« abri du soldat » du boulevard d'Alsace-Lorraine non plus. La Y.M.C.A. tenait près de la gare d'Amiens un foyer ouvert la nuit, servant thé, gâteaux et fruits « pour une somme modique » (Fernand-Laurent 1917, p.~92-93). Le compartiment surchauffé contraste avec la crise du charbon : ce même 27 janvier, le gouverneur militaire de Paris met voitures et hommes de corvée au service des municipalités (\textit{La Dépêche}, 28 janv. 1917, p.~2). La ligne~1 du métro s'arrête alors à la Porte Maillot (Wikipédia), d'où la marche jusqu'à la rue d'Armenonville, chez Mme Faure (voir f.~65~v\textsuperscript{o}).
 sources:
 - Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 92-93.
-- Yapp, A. K., The Romance of the Red Triangle, London, Hodder and Stoughton, 1918, chap. VII.
 - La Dépêche (Toulouse), 28 janvier 1917, p. 2 (Gallica, bpt6k4146920v).
-- Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, K. Baedeker, 1913, p. 28.
 - Wikipédia, « Ligne 1 du métro de Paris », consulté le 18 oct. 2026.

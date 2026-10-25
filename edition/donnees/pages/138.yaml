@@ -3,7 +3,7 @@ fichier: 20251126_110324.jpg
 date: Vendredi 2 février 1917
 mois: Février 1917
 lieux: Toulouse (Haute-Garonne)
-titre: Neige ; soins chez le dentiste ; remontoir en or chez Pfister ; regret de quitter Toulouse
+titre: Neige ; dentiste ; montre à remontoir chez Pfister ; regret de quitter Toulouse
 transcription: |
   2 \sl{Vendredi}.
   Tjours même temps, très froid. — \hfill Février 1917 —
@@ -27,42 +27,14 @@ transcription: |
   encore ici, afin de jouir + lgs de mon
   appart^{t}, rempli de souvenirs.
 apparat:
-- ligne: 2
-  lemme: Tjours
-  type: abreviation
-  note: toujours
-- ligne: 2
-  lemme: Février 1917
-  type: disposition
-  note: mois et millésime inscrits à la suite de la l. 2, non en tête de page
-- ligne: 4
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 4
-  lemme: chz
-  type: abreviation
-  note: chez
-- ligne: 4
-  lemme: M.
-  type: abreviation
-  note: Monsieur
 - ligne: 5
   lemme: La
   type: lecture
-  note: « La » (rue La Fayette) ; la seconde lettre, ouverte, peut aussi se lire « Le »
+  note: 'lecture incertaine ; autre lecture : Le'
 - ligne: 5
   lemme: j.
   type: abreviation
   note: jeune
-- ligne: 7
-  lemme: Mme
-  type: abreviation
-  note: Madame
-- ligne: 8
-  lemme: chz
-  type: abreviation
-  note: chez
 - ligne: 8
   lemme: Marg^{te}
   type: abreviation
@@ -70,27 +42,15 @@ apparat:
 - ligne: 8
   lemme: '&c'
   type: lecture
-  note: « &c » (et cetera), lecture incertaine ; on peut aussi lire « do » ou « etc. »
-- ligne: 9
-  lemme: S^{te}
-  type: abreviation
-  note: Sainte
+  note: 'lecture incertaine ; autres lectures : do, etc.'
 - ligne: 9
   lemme: 10^{h} s.
   type: abreviation
   note: dix heures du soir
-- ligne: 11
-  lemme: chz
-  type: abreviation
-  note: chez
-- ligne: 12
-  lemme: fr.
-  type: abreviation
-  note: francs
 - ligne: 12
   lemme: pendantif
-  type: lecture
-  note: « pendantif » (pour pendentif), a net après le d
+  type: graphie
+  note: pour pendentif
 - ligne: 13
   lemme: free
   type: emprunt
@@ -98,23 +58,15 @@ apparat:
 - ligne: 13
   lemme: '1'
   type: lecture
-  note: « 1 » (une), chiffre à boucle d'attaque ; on peut aussi lire « d' »
+  note: 'lecture incertaine ; autre lecture : d'''
 - ligne: 14
   lemme: 1^{f} 30c
   type: abreviation
   note: 1 franc 30 centimes
 - ligne: 14
-  lemme: Trams
-  type: abreviation
-  note: tramways
-- ligne: 14
   lemme: 20c – , 10c
   type: abreviation
   note: 20 centimes, 10 centimes
-- ligne: 15
-  lemme: 1^{f}
-  type: abreviation
-  note: 1 franc
 - ligne: 16
   lemme: Tl^{s}
   type: abreviation
@@ -123,13 +75,7 @@ apparat:
   lemme: + lgs
   type: abreviation
   note: plus longtemps
-- ligne: 19
-  lemme: appart^{t}
-  type: abreviation
-  note: appartement
-critique: Encre violette. Le long trait au-dessus de « matinee » est la barre du t, non un soulignement de la date ; le grand crochet des comptes descend dans le blanc jusqu'à trois lignes environ sous « Bain ».
 historique: |
-  La neige du matin fait l'objet, le jour même, d'une note de la mairie enjoignant aux habitants de balayer leur trottoir et de casser la glace des caniveaux (\textit{La Dépêche}, 2 févr. 1917, p.~4) ; Toulouse compta onze jours de neige cet hiver-là et descendit à −8,3~°C le 4 février (Barbé 1917, p.~182). Le dentiste « de Lersay » (ou « de Lezay »), rue La Fayette, n'est pas retrouvé dans la presse toulousaine ; sa note, réglée le lendemain, comprend un grand nettoyage et trois plombages (f.~70~r\textsuperscript{o}). Le « remontoir », montre à remontoir, est sans doute celle choisie la veille (f.~68~v\textsuperscript{o}) ; l'anneau qui permet de la suspendre au sautoir en or acheté chez Pfister le 29 septembre 1916 pour 295~f (f.~28~v\textsuperscript{o}) fait penser à un présent pour Marguerite. Les pastilles de chlorate de potasse se prenaient contre les maux de gorge ; les bains de la place Belfort ne sont pas identifiés. Les « 3 jours entiers » sont ceux du séjour à Millau, du 3 au 5 février (f.~69~v\textsuperscript{o} à 71~v\textsuperscript{o}).
+  Le jour même, la mairie demande aux habitants de balayer leur trottoir et de casser la glace des caniveaux (\textit{La Dépêche}, 2 févr. 1917, p.~4) ; sur l'hiver, voir f.~68~r\textsuperscript{o}. Le dentiste « de Lersay » n'est pas identifié ; sa note est payée le lendemain (f.~70~r\textsuperscript{o}). La montre à remontoir est sans doute celle choisie la veille (f.~68~v\textsuperscript{o}) ; l'anneau doit la suspendre au sautoir acheté en septembre 1916 (f.~28~v\textsuperscript{o}), peut-être un cadeau pour Marguerite. Les pastilles de chlorate de potasse se prenaient contre les maux de gorge. Les « 3 jours » sont ceux du séjour à Millau (f.~69~v\textsuperscript{o} à 71~v\textsuperscript{o}).
 sources:
 - La Dépêche (Toulouse), 2 févr. 1917, p. 4, « Neiges et glaces. Note de la mairie » (Rosalis, ark:/12148/bpt6k4146925x).
-- Barbé, G., « L'hiver 1916-1917 », Journal d'agriculture pratique, n. s., t. 30, 1917, p. 181-182.

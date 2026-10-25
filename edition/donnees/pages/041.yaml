@@ -33,27 +33,15 @@ apparat:
 - ligne: 1
   lemme: dès
   type: lecture
-  note: lecture incertaine (d, deux minimes, accent détaché) ; autre lecture possible « du »
-- ligne: 1
-  lemme: 5^{H}
-  type: abreviation
-  note: 5 heures
-- ligne: 1
-  lemme: Sept^{bre} /16
-  type: abreviation
-  note: septembre 1916
+  note: 'lecture incertaine ; autre lecture : « du »'
 - ligne: 3
-  lemme: 7H.
+  lemme: 7H
   type: abreviation
   note: 7 heures
 - ligne: 4
   lemme: 3^{H} soir
   type: abreviation
   note: 3 heures du soir
-- ligne: 5
-  lemme: arrivé
-  type: lecture
-  note: aucun s final
 - ligne: 6
   lemme: aujd'hui
   type: abreviation
@@ -61,7 +49,7 @@ apparat:
 - ligne: 7
   lemme: At
   type: lecture
-  note: lecture incertaine, A suivi d'un t barré (angl. at, « à ») ; autre lecture possible « A »
+  note: 'lecture incertaine (angl. at, « à ») ; autre lecture : « A »'
 - ligne: 7
   lemme: 11^{H} m.
   type: abreviation
@@ -70,46 +58,10 @@ apparat:
   lemme: Ls
   type: abreviation
   note: Louis (Louis XI) ; lecture incertaine, autre possible « Li »
-- ligne: 11
-  lemme: des postes
-  type: ajout
-  note: d'une encre plus pâle
-- ligne: 12
-  lemme: (
-  type: signe
-  note: parenthèse ouvrante non refermée (ou virgule recourbée)
-- ligne: 14
-  lemme: tommies
-  type: emprunt
-  note: soldats britanniques
-- ligne: 18
-  lemme: tjs
-  type: abreviation
-  note: toujours
-- ligne: 18
-  lemme: mess
-  type: emprunt
-  note: popote, table commune des officiers
-- ligne: 18
-  lemme: 'off'
-  type: abreviation
-  note: officiers
-- ligne: 19
-  lemme: Tip
-  type: emprunt
-  note: pourboire
-- ligne: 19
-  lemme: groom
-  type: emprunt
-  note: ordonnance
 - ligne: 19
   lemme: Connelly
   type: graphie
-  note: tracé d'aspect « Crunelly » ; nom assuré par les autres mentions du groom
-- ligne: 19
-  lemme: 1^{f}
-  type: abreviation
-  note: 1 franc
+  note: tracé proche de « Crunelly » ; nom assuré par les autres mentions
 - ligne: 20
   lemme: 50c.
   type: abreviation
@@ -118,16 +70,10 @@ apparat:
   lemme: cartes ples
   type: abreviation
   note: cartes postales
-- ligne: 22
-  lemme: 50 + 10 c
-  type: compte
-  note: soit 60 c (bière et, sans doute, consigne de la bouteille)
-critique: Encre noire virée au brun ; les l.~9--10 sont très chargées d'encre. La ligne de Lucheux est d'une encre plus brune et plus pâle, sans doute écrite à part.
 historique: |
-  D'Oppy, la colonne descend sur Lucheux (Somme), à 6,6 km (OSM), et passe ainsi du Pas-de-Calais dans la Somme. Lucheux garde son château, son beffroi, porte de ville, et l'église Saint-Léger, tous protégés (Mérimée PA00116194, PA00116193, PA00116195). L'« Edit de Ls XI » est l'édit dit de Luxies, daté du 19 juin 1464, longtemps tenu pour l'acte fondateur de la poste royale, mais dont l'authenticité est contestée depuis 1937 (Zeller 1946, p. 338, n. 3). Thièvres est un village coupé par l'Authie entre deux communes homonymes, du Pas-de-Calais et de la Somme (OSM). L'infanterie de la brigade va en autobus du Souich à Halloy, puis à pied par Thièvres et Marieux ; le 7th Bedfordshire atteint Raincheval à 14 h 15 (JMO 7/Bedf, 11 sept. 1916), dans la zone « O » de la Reserve Army. Les œufs reviennent à 16,7 et 17,5 c pièce, un peu moins que la douzaine à 2,40 F d'une coopérative parisienne en juillet 1916 (March 1925, p. 188) ; la bière coûte 50 c le litre contre 30 c en Flandre (voir f. 7 v\textsuperscript{o}), les 10 c ajoutés étant peut-être la consigne.
+  D'Oppy, la colonne passe du Pas-de-Calais dans la Somme par Lucheux, à 6,6 km (OSM). Lucheux garde son château, son beffroi et son église, protégés (Mérimée PA00116194, PA00116193, PA00116195). L'« Edit de Ls XI » est l'édit de Luxies (19 juin 1464), longtemps tenu pour l'acte fondateur de la poste royale, mais contesté depuis 1937 (Zeller 1946, p. 338, n. 3). Thièvres est coupé par l'Authie entre deux communes homonymes, du Pas-de-Calais et de la Somme (OSM). L'infanterie de la brigade va en autobus du Souich à Halloy, puis à pied par Thièvres et Marieux ; le 7th Bedfordshire arrive à Raincheval à 14 h 15 (JMO 7/Bedf, 11 sept. 1916). La bière coûte 50 c le litre, contre 30 c en Flandre (voir f. 7 v\textsuperscript{o}) ; les 10 c ajoutés sont peut-être la consigne.
 sources:
 - Ministère de la Culture, base Mérimée, notices PA00116194 (château), PA00116193 (beffroi) et PA00116195 (église Saint-Léger) de Lucheux.
 - Zeller, Gaston, « Procès à reviser ? Louis XI, la noblesse et la marchandise », Annales. Économies, Sociétés, Civilisations, 1, n° 4, 1946, p. 331-341 (p. 338, n. 3).
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916, ordre d''opérations n° 31 (transcription en ligne).'
-- March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 188.
 - OpenStreetMap / Nominatim (Thièvres ; distances à vol d'oiseau).

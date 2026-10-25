@@ -3,7 +3,7 @@ fichier: 20251126_110247.jpg
 date: Mercredi 31 janvier 1917
 mois: Janvier 1917
 lieux: Toulouse (Haute-Garonne)
-titre: 'Toulouse dans le gel : marché Victor-Hugo, hôtel d''Assézat, la Daurade et la Dalbade'
+titre: Gel et neige ; marché Victor-Hugo, hôtel d'Assézat, la Daurade et la Dalbade
 transcription: |
   \sl{Mercredi 31.} — \hfill \sl{Janvier 1917}
   Nuit, gelé très fort. Ds la journée, neige 1 peu,
@@ -27,22 +27,10 @@ transcription: |
   \ind Trams : 30c., 30c.
   Télegramme à Mme Spagnol, Nice : 2^{f} —
 apparat:
-- ligne: 2
-  lemme: Ds
-  type: abreviation
-  note: dans
-- ligne: 2
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
-- ligne: 4
-  lemme: M^{te}
-  type: abreviation
-  note: Marguerite
 - ligne: 4
   lemme: \inc{p su}
   type: lecture
-  note: pour son ? ; le premier signe a aussi la forme du & mis pour « à » (à son ?)
+  note: 'lecture incertaine : pour son ? ; autre lecture : à son ?'
 - ligne: 4
   lemme: St Ser.
   type: abreviation
@@ -64,21 +52,13 @@ apparat:
   type: graphie
   note: hôtel d'Assézat
 - ligne: 9
-  lemme: appart^{t}
-  type: abreviation
-  note: appartement
-- ligne: 9
   lemme: long^{ues}
   type: abreviation
   note: longues
 - ligne: 10
-  lemme: qq
-  type: abreviation
-  note: quelques
-- ligne: 10
   lemme: grandes precieuses
   type: lecture
-  note: « précieuses » pris comme nom
+  note: « précieuses » employé comme nom
 - ligne: 11
   lemme: S^{te} Marie
   type: abreviation
@@ -91,10 +71,6 @@ apparat:
   lemme: 9^{h}
   type: abreviation
   note: 9 heures
-- ligne: 14
-  lemme: 5^{f}
-  type: abreviation
-  note: 5 francs
 - ligne: 15
   lemme: '90.'
   type: abreviation
@@ -102,23 +78,15 @@ apparat:
 - ligne: 16
   lemme: 1/2 beurre
   type: compte
-  note: une demi-livre de beurre
+  note: demi-livre de beurre
 - ligne: 16
   lemme: \inc{2^{f}}
   type: lecture
-  note: écrit au-dessus de la ligne, sur un pâté en croix ; le premier chiffre peut être un 9
-- ligne: 17
-  lemme: 20c.
-  type: abreviation
-  note: 20 centimes
+  note: 'lecture incertaine ; autre lecture : 9 f'
 - ligne: 17
   lemme: id.
   type: abreviation
   note: idem (une livre)
-- ligne: 17
-  lemme: 1^{f}
-  type: autre
-  note: f suscrit noyé dans le pâté de la ligne précédente
 - ligne: 18
   lemme: 1^{f} 25 c
   type: abreviation
@@ -126,7 +94,7 @@ apparat:
 - ligne: 19
   lemme: 1 \inc{90}.
   type: lecture
-  note: 1 franc 90
+  note: 'lecture incertaine : 1 franc 90'
 - ligne: 19
   lemme: chz
   type: abreviation
@@ -134,22 +102,13 @@ apparat:
 - ligne: 19
   lemme: \inc{Henri}
   type: lecture
-  note: ou Henry (finale plongeante)
+  note: ou Henry
 - ligne: 19
   lemme: \inc{Testet}
   type: lecture
   note: ou Tester
-- ligne: 21
-  lemme: Mme
-  type: abreviation
-  note: Madame
-- ligne: 21
-  lemme: 2^{f}
-  type: abreviation
-  note: 2 francs
-critique: Encre violette. Les comptes sont ouverts par un grand crochet ; les montants de la colonne de droite, très serrés, chevauchent les lignes voisines, et la mention « chz Henri Testet » est ajoutée plus petit, en remontée.
 historique: |
-  Pendant la vague de froid (mi-janvier -- mi-février), Toulouse compte onze jours de neige et vingt-cinq de gelée, avec un minimum de $-$8,3~°C le 4 février (Barbé 1917, p.~182). La halle métallique de la place Victor-Hugo, bâtie de 1890 à 1892 sur les plans de Joseph Galinier, était le plus grand des trois marchés couverts de la ville (Archives municipales de Toulouse) ; Hippolyte Combes y avait déjà fait le marché avec Marguerite en octobre (voir f.~30 v\textsuperscript{o}). L'hôtel d'Assézat, « construit en 1555 sur les plans de N. Bachelier », abrite depuis 1895 l'Académie des Jeux floraux et les sociétés savantes ; la Daurade a été « rebâtie de 1773 à 1790 » (Baedeker 1912, p.~303--305). La Dalbade porte un tympan de céramique de Gaston Virebent (1878), d'après le \textit{Couronnement de la Vierge} de Fra Angelico ; son clocher, le plus haut de Toulouse, s'effondrera le 11 avril 1926 (Office de tourisme de Toulouse). Le télégramme à Mme Spagnol concerne sans doute le panier de fleurs de Nice (voir f.~67 r\textsuperscript{o}).
+  Pendant la vague de froid (mi-janvier -- mi-février), Toulouse a onze jours de neige et vingt-cinq de gelée, avec $-$8,3~°C le 4 février (Barbé 1917, p.~182). La halle métallique de la place Victor-Hugo était le plus grand des trois marchés couverts de la ville (Archives municipales de Toulouse) ; Combes y avait fait le marché avec Marguerite en octobre (voir f.~30~v\textsuperscript{o}). L'hôtel d'Assézat, « construit en 1555 sur les plans de N. Bachelier », abrite depuis 1895 l'Académie des Jeux floraux ; la Daurade a été « rebâtie de 1773 à 1790 » (Baedeker 1912, p.~303--305). Le clocher de la Dalbade, le plus haut de Toulouse, s'effondrera le 11 avril 1926 (Office de tourisme de Toulouse). Le télégramme à Mme Spagnol concerne sans doute le panier de fleurs de Nice (voir f.~67~r\textsuperscript{o}).
 sources:
 - Barbé, G., « L'hiver 1916-1917 », Journal d'agriculture pratique, n. s., t. 30, 1917, p. 181-182.
 - Archives municipales de Toulouse, Histoire des marchés toulousains et Marchés dans la ville (archives.mairie-toulouse.fr).

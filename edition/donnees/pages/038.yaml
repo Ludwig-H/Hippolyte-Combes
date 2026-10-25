@@ -21,10 +21,6 @@ transcription: |
   — Box of tooth powder : 65 c
 apparat:
 - ligne: 1
-  lemme: Ven.
-  type: abreviation
-  note: vendredi
-- ligne: 1
   lemme: Sept^{bre} /16
   type: abreviation
   note: septembre 1916 ; finale du mois réduite à une ondulation
@@ -36,30 +32,10 @@ apparat:
   lemme: Bedfords
   type: emprunt
   note: les Bedfords (Bedfordshire Regiment)
-- ligne: 4
-  lemme: for green forage
-  type: emprunt
-  note: pour du fourrage vert
-- ligne: 5
-  lemme: lgs
-  type: abreviation
-  note: longtemps
-- ligne: 6
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 9
-  lemme: attardé
-  type: autre
-  note: mot repassé et empâté, sans biffure
 - ligne: 9
   lemme: Ryonval
   type: lecture
-  note: Ryon- sûr ; fin du mot comprimée au bord de la page ; autre lecture possible Ryonv.
-- ligne: 10
-  lemme: ds
-  type: abreviation
-  note: dans
+  note: 'fin du mot incertaine ; autre lecture : Ryonv.'
 - ligne: 11
   lemme: delict
   type: abreviation
@@ -68,15 +44,9 @@ apparat:
   lemme: Box of tooth powder
   type: emprunt
   note: boîte de poudre dentifrice
-- ligne: 12
-  lemme: '65'
-  type: lecture
-  note: 6 suivi d'un 5 à haute boucle
-critique: La dépense est isolée tout au bas de la page, après un large blanc.
 historique: |
-  Les « Bedfords » sont le 7th Bedfordshire (54th Brigade), cantonné à La Thieuloye, à 3,6 km de Marquay (voir f. 14 v\textsuperscript{o}) ; ses deux voitures devaient prendre livraison du fourrage vert (voir f. 9 v\textsuperscript{o}). Ce même après-midi, le bataillon s'exerce dans la zone « C » au creusement intensif et à suivre un barrage, et ne rentre que vers 19 h ; le jour même lui parvient l'ordre d'opérations n° 29 : départ le lendemain, la division devant passer à la Reserve Army à minuit le 10/11 (JMO 7/Bedf, 8 sept. 1916). Ces préparatifs expliquent peut-être la défection des voitures. Le « clair de lune superbe » est celui d'une lune gibbeuse éclairée à 88 %, trois jours avant la pleine lune du 11 septembre (Espenak ; calcul PyEphem). « Ryonval » et la « ferme Collet » ne sont pas localisés. La poudre dentifrice est vraisemblablement la poudre phéniquée de Calvert (Manchester), qu'Hippolyte Combes achète ensuite en boîte aux cantines britanniques, à 60 c à Louvencourt le 2 janvier 1917 (voir f. 59 r\textsuperscript{o}).
+  Les « Bedfords » sont le 7th Bedfordshire, cantonné à La Thieuloye (voir f. 14 v\textsuperscript{o}) ; leurs voitures devaient prendre le fourrage vert (voir f. 9 v\textsuperscript{o}). Cet après-midi-là, le bataillon s'exerce au creusement ; il reçoit l'ordre d'opérations n° 29 : départ le lendemain, la division passant à la Reserve Army à minuit le 10/11 (JMO 7/Bedf, 8 sept. 1916). D'où peut-être l'absence des voitures. La lune est à trois jours de son plein, le 11 septembre (Espenak). « Ryonval » et la ferme Collet ne sont pas localisés. La poudre dentifrice est sans doute celle de Calvert (Science Museum Group), qu'Hippolyte Combes achète encore à 60 c le 2 janvier 1917 (voir f. 59 r\textsuperscript{o}).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916, avec l''ordre d''opérations n° 29 (transcription en ligne).'
-- Espenak, Fred, Six Millennium Catalog of Phases of the Moon, table 1901-2000 (astropixels.com) ; calcul PyEphem 4.2.1 pour Marquay, 8 sept. 1916.
+- Espenak, Fred, Six Millennium Catalog of Phases of the Moon, table 1901-2000 (astropixels.com).
 - Science Museum Group, notice « F C Calvert and Company 1859-1965 » ; Grace's Guide, « F. C. Calvert and Co ».
-- OpenStreetMap / Nominatim (distances à vol d'oiseau entre chefs-lieux).

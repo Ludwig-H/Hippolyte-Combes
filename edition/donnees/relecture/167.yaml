@@ -153,3 +153,8 @@ noms:
     ligne: 16
     identite: Candas (Somme)
 source: contrôle
+audit:
+- ligne: 13
+  avant: 1 australien moins confortable que le Vauxhall
+  apres: 1 australien, moins confortable que le Vauxhall
+  justification: virgule = trait vertical isolé (aspect 1) entre « australien » et « moins » (zoom ×2 [0 .555 .75 .60]), même forme que les virgules de la page ; aucune hampe de la ligne supérieure à cet endroit.

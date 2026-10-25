@@ -3,7 +3,7 @@ fichier: 20251126_104418.jpg
 date: Mardi 24 et mercredi 25 octobre 1916
 mois: Octobre 1916
 lieux: Albert (Somme)
-titre: Pluie, boue et brume au bivouac d'Albert ; obus proches ; maintenu à la Mission
+titre: Pluie et boue au bivouac d'Albert ; obus proches ; maintenu à la Mission
 transcription: |
   \sl{mardi 24} \hfill \sl{Oct /16}
   \ind Plu nuit entière – Temps affreux —
@@ -34,15 +34,7 @@ apparat:
 - ligne: 3
   lemme: \inc{tombent}
   type: lecture
-  note: 'seul tomb- est sûr (autres lectures possibles : tombe, tombées)'
-- ligne: 5
-  lemme: j-à
-  type: abreviation
-  note: jusqu'à
-- ligne: 6
-  lemme: de + en +
-  type: abreviation
-  note: de plus en plus
+  note: 'lecture incertaine ; autres lectures : tombe, tombées'
 - ligne: 8
   lemme: F^{se}
   type: abreviation
@@ -50,59 +42,22 @@ apparat:
 - ligne: 9
   lemme: Lepin
   type: lecture
-  note: Lepin, sans accent ; le même adjudant est écrit Lupin au f. 12 r° et Lépin au f. 45 v°
-- ligne: 9
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 9
-  lemme: L^{t}
-  type: abreviation
-  note: lieutenant
+  note: sans doute le même adjudant que « Lupin » (f. 12 r°) et « Lépin » (f. 45 v°)
 - ligne: 9
   lemme: \inc{quitter}
   type: lecture
-  note: lire « quitterai » ; aucune trace de la désinence -ai (autre lecture quiter)
+  note: 'pour « quitterai » ; autre lecture : quiter'
 - ligne: 11
   lemme: 11^{H} m
   type: abreviation
   note: 11 heures du matin
-- ligne: 11
-  lemme: qq
-  type: abreviation
-  note: quelques
-- ligne: 11
-  lemme: s/
-  type: abreviation
-  note: sur
 - ligne: 14
   lemme: \sl{merc. 25}
   type: abreviation
   note: mercredi ; date encadrée (filet au-dessus, soulignement, trait oblique à droite)
-- ligne: 14
-  lemme: Tjours
-  type: abreviation
-  note: toujours
-- ligne: 16
-  lemme: ns
-  type: abreviation
-  note: nous
-- ligne: 17
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 18
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 20
-  lemme: d'1
-  type: abreviation
-  note: d'une
-critique: Les deux journées sont écrites à la même encre violette, séparées par un filet ; quelques taches brunes sous la dernière ligne sont sans valeur textuelle.
 historique: |
-  La pluie qui reprend le 24 octobre, après une brume épaisse, fait remettre l'opération principale de la Reserve Army sur l'Ancre, fixée le 19 au 25 octobre. Le 27, on lui donne la date « provisoire » du 1er novembre (OH 1916-II, p.~461--462). Le même 24, l'attaque alliée sur Le Transloy est reportée de 48 heures (\textit{ibid.}, p.~468). Les obus tombés à 400 ou 500 mètres de sa chambre, comme le bombardement du 31 (f.~44~v\textsuperscript{o}), nuancent le guide Michelin, pour qui Albert était en octobre 1916 « enfin hors de portée » des canons allemands (Michelin 1919, p.~31--35). La nouvelle répond à la menace annoncée le 22 aux interprètes « jeunes R.A.T. » (voir f.~42~r\textsuperscript{o}). Le carnet ne dit pas pourquoi Hippolyte Combes est maintenu. Le lieutenant Pizzi est l'officier interprète de la 18th Division, qu'Hippolyte Combes louait dans sa lettre du 25 février 1916 (en annexe, p.~\pageref{annexe:doc1}) ; son identité civile n'est pas établie. L'adjudant lu « Lepin » est sans doute le « Lupin » du 20 août (f.~12~r\textsuperscript{o}) et le « Lépin » du 2 novembre (f.~45~v\textsuperscript{o}), non identifié.
+  La pluie du 24 octobre fait remettre l'attaque de la Reserve Army sur l'Ancre, fixée au 25. Le 27, elle reçoit la date « provisoire » du 1\textsuperscript{er} novembre (OH 1916-II, p.~461--462). Ces obus, comme ceux du 31 (f.~44~v\textsuperscript{o}), nuancent le guide Michelin (Albert « enfin hors de portée » des canons allemands ; Michelin 1919, p.~31--35). Hippolyte Combes échappe à la menace du 22 aux interprètes « jeunes R.A.T. » (voir f.~42~r\textsuperscript{o}) sans que le carnet dise pourquoi. Le lieutenant Pizzi, officier interprète de la 18th Division, est loué dans la lettre du 25 février 1916 (en annexe, p.~\pageref{annexe:doc1}). L'adjudant Lepin n'est pas identifié.
 sources:
-- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 461-462, 468.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 461-462.
 - Michelin, The Somme, vol. 1, The First Battle of the Somme (1916-1917), Clermont-Ferrand, Michelin, 1919, p. 31-35.
 - Hippolyte Combes, H., lettre « Au front, le 25 février 1916 » à un capitaine (copie autographe, archives familiales ; en annexe).

@@ -3,11 +3,11 @@ fichier: 20251126_093100.jpg
 date: Jeudi 27 juillet 1916
 mois: Juillet 1916
 lieux: Lynde, Renescure et Hazebrouck (Nord)
-titre: 'Renescure : deux châteaux et l''église ; à cheval à Hazebrouck ; solde et menus achats'
+titre: Renescure, châteaux et église ; à cheval à Hazebrouck ; solde et achats
 transcription: |
   \sl{27 J} \hfill \sl{Juillet /16}
   Aussitot après breakfast, venu à pied
-  à Renescure Tjours même temps gris et
+  à Renescure Tjours meme temps gris et
   saturé de mélancolie
   Village très intéressant
   2 superbes chateaux M-Age – fossé entourant
@@ -32,54 +32,14 @@ transcription: |
   Cte d Etat-major : 90c. \hfill 3 \inc{elastiq} de rechange
   \droite (bretelles) : 65c —
 apparat:
-- ligne: 1
-  lemme: J
-  type: abreviation
-  note: jeudi
-- ligne: 1
-  lemme: /16
-  type: abreviation
-  note: '1916'
-- ligne: 2
-  lemme: breakfast
-  type: emprunt
-  note: petit déjeuner
-- ligne: 3
-  lemme: Tjours
-  type: abreviation
-  note: toujours
 - ligne: 6
   lemme: M-Age
   type: abreviation
   note: Moyen Âge
-- ligne: 9
-  lemme: lgs
-  type: abreviation
-  note: longtemps
-- ligne: 10
-  lemme: lunch
-  type: emprunt
-  note: déjeuner
-- ligne: 10
-  lemme: Hazebrouck.
-  type: disposition
-  note: le k final et le point sont rejetés sous la ligne, au bord de la page
-- ligne: 13
-  lemme: à g.
-  type: abreviation
-  note: à gauche
-- ligne: 14
-  lemme: lgs
-  type: abreviation
-  note: longtemps
 - ligne: 15
   lemme: my
   type: emprunt
   note: mon
-- ligne: 15
-  lemme: devant my
-  type: lecture
-  note: my (m suivi d'un y à descente vers la gauche)
 - ligne: 16
   lemme: cottage
   type: emprunt
@@ -91,7 +51,7 @@ apparat:
 - ligne: 19
   lemme: carnets timbres-postes
   type: lecture
-  note: la petite boucle à queue entre les deux mots est rapportée au f de « 1^{f}20 » (l. 20) ; on pourrait y voir une esperluette
+  note: signe entre les mots rapporté au f de la l. 20 ; ou esperluette
 - ligne: 19
   lemme: 2^{f} + 2^{f}
   type: abreviation
@@ -108,10 +68,6 @@ apparat:
   lemme: C. P
   type: abreviation
   note: cartes postales
-- ligne: 21
-  lemme: fr.
-  type: abreviation
-  note: francs
 - ligne: 21
   lemme: C. p^{les}
   type: abreviation
@@ -139,14 +95,12 @@ apparat:
 - ligne: 23
   lemme: elastiq
   type: lecture
-  note: finale descendante bouclée à gauche, q ou s plongeant ; on peut lire « elastics »
-critique: Encre violette homogène. Les comptes, séparés du récit par un filet, se répartissent sous deux rubriques, « A Renescure » (soulignée) et « A Hazebrouck » ; la colonne de droite est écrite sur des lignes légèrement décalées par rapport à celle de gauche, et la mention de la solde est logée au-dessus de la rubrique « A Hazebrouck ».
+  note: 'lecture incertaine ; autre lecture : elastics'
 historique: |
-  À Renescure, à 4 km de Lynde (OSM), les « 2 superbes chateaux » sont le château de Zuthove, entouré de douves (façades, toitures, douves et dépendances inscrites MH le 4 nov. 1946 ; Mérimée PA00107784), et le château dit de Philippe de Comines (parties subsistantes et courtine inscrites en 1981 ; Mérimée PA00107783) : le chroniqueur y naquit avant 1447 (Feller-Vest 2015). L'église à double nef est Notre-Dame-de-l'Assomption, dont la nef sud abrite le maître-autel et une chaire de 1616 venue de Poperinge (Palissy). À Hazebrouck, nœud ferroviaire où des \textit{Casualty Clearing Stations} sont installées d'octobre 1914 à septembre 1917 (CWGC), l'église de la grand-place est Saint-Éloi, du XV\textsuperscript{e}~s. (Mérimée PA00107549). La « Solde : 84 fr. » ouvre la série des dix-neuf versements de solde et d'indemnité reçus de la Mission militaire française que note le carnet ; elle correspond peut-être à seize jours à 5~F~25 (calcul de l'éditeur). La « Cte d Etat-major » est une feuille de la carte de France au 1/80~000 (\textit{French-English Dictionary} 1919, s.v. « Carte »).
+  À Renescure (4 km de Lynde, OSM), les deux châteaux sont le château de Zuthove, entouré de douves (Mérimée PA00107784), et le château dit de Philippe de Comines (Mérimée PA00107783), où le chroniqueur naquit avant 1447 (Feller-Vest 2015). L'église à double nef est Notre-Dame-de-l'Assomption (Palissy). À Hazebrouck, l'église de la grand-place est Saint-Éloi, du XV\textsuperscript{e}~s. (Mérimée PA00107549). La solde de 84 fr. est le premier des dix-neuf versements de la Mission militaire française notés dans le carnet ; peut-être seize jours à 5~F~25 (calcul de l'éditeur). La carte d'état-major est une feuille au 1/80~000 (\textit{French-English Dictionary} 1919, s.v. « Carte »).
 sources:
 - Ministère de la Culture, base Mérimée, notices PA00107784 (château de Zuthove, Renescure), PA00107783 (château dit de Philippe de Comines, Renescure), PA00107549 (église Saint-Éloi, Hazebrouck).
 - Ministère de la Culture, base Palissy, objets mobiliers de la commune de Renescure (église Notre-Dame-de-l'Assomption).
 - Feller-Vest, Veronika, « Commynes, Philippe de », Dictionnaire historique de la Suisse, version en ligne du 18 nov. 2015.
-- Commonwealth War Graves Commission, historique du cimetière « Hazebrouck Communal Cemetery ».
 - French-English Dictionary of Military Terms and of Other Terms Useful to Officers, Londres, HMSO, 1919, s.v. « Carte ».
 - OpenStreetMap / Nominatim, distances à vol d'oiseau entre chefs-lieux.

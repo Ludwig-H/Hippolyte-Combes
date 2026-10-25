@@ -139,3 +139,36 @@ noms:
     ligne: 23
     identite: Léalvillers (Somme)
 source: contrôle
+audit:
+- ligne: 2
+  avant: ciel nuageux. Fines
+  apres: ciel nuageux Fines
+  justification: 'zoom ×2 [.55 .06 1.0 .11] : le x de nuageux se prolonge en long délié jusqu''à Fines ; aucun point'
+- ligne: 9
+  avant: Et défilé incessant de troupes revenant de l'avant –
+  apres: Et defilé incessant de troupes revenant de lavant –
+  justification: 'zooms ×2 [0 .30 .35 .37] et [.6 .28 1.0 .34] : aucun accent sur le premier e (le crochet au-dessus est la tête du f, le point celui du i ; seul l''accent final est posé à droite) ; l bouclé lié à avant, sans apostrophe (cf. lattendre l. 14)'
+- ligne: 13
+  avant: Nuit noire. Cherché refuge
+  apres: Nuit noire. cherché refuge
+  justification: 'zoom ×2 [.6 .43 1.0 .48] : c initial au module des minuscules (h, u), sans boucle de tête de majuscule'
+- ligne: 17
+  avant: Cartes ples d'Acheux
+  apres: Cartes ples d Acheux
+  justification: 'zoom ×2 [.1 .58 .5 .63] : d en ∂ séparé de A par un blanc, aucune apostrophe'
+- ligne: 18
+  avant: \sl{21 Ma –}
+  apres: 21 \sl{Ma –}
+  justification: 'zoom ×2 [0 .66 .5 .74] : le trait ne couvre que « Ma – » (x ≈ .11–.17) ; 21 n''est pas souligné'
+- ligne: 20
+  avant: lamentable. Couche
+  apres: lamentable Couche
+  justification: 'zoom ×2 [.4 .69 .8 .78] : long délié final de lamentable, aucun point avant Couche'
+- ligne: 22
+  avant: Matin, libre. Après-midi
+  apres: Matin, libre Après-midi
+  justification: 'zoom ×2 [.05 .82 .5 .87] : libre finit en long délié horizontal, aucun point'
+- ligne: 25
+  avant: contre lui. –
+  apres: contre lui –
+  justification: 'zoom ×2 [0 .95 .4 1.0] : après le i (point net) seul le tiret ; la boucle entre lui et le tiret est un jambage de la l. 24'

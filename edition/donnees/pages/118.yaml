@@ -3,7 +3,7 @@ fichier: 20251126_105428.jpg
 date: Lundi 1er et mardi 2 janvier 1917
 mois: Janvier 1917
 lieux: Acheux-en-Amiénois, Toutencourt et Authie (Somme) ; Saulty (Pas-de-Calais)
-titre: 'Jour de l''An 1917 : course jusqu''à Saulty ; congé du logeur Carluvant ; ferme Cuisinier'
+titre: 'Jour de l''An 1917 : course à Saulty ; le logeur Carluvant doit partir'
 transcription: |
   1^{er} \sl{Lundi} \hfill — \sl{1917} — \hfill \sl{Janvier} –
   \ind[2] Temps pluvieux, brumeux, mais très doux –
@@ -32,46 +32,22 @@ transcription: |
   \ind[4] Calvert Tooth Powder : 60 \inc{c}
   – Acheux : new boots, nails on : 1^{f} —
 apparat:
-- ligne: 1
-  lemme: 1^{er}
-  type: abreviation
-  note: premier
 - ligne: 6
   lemme: Pas.
   type: abreviation
   note: Pas-en-Artois (Pas-de-Calais)
-- ligne: 6
-  lemme: gd
-  type: abreviation
-  note: grande
-- ligne: 8
-  lemme: M.
-  type: abreviation
-  note: Monsieur
 - ligne: 8
   lemme: Carluvant
   type: lecture
-  note: C-a-r-l-u-v-a-n-t ; le trait qui descend sous le u est la hampe du d de ds (l. 9) ; Carlyvant moins probable
-- ligne: 9
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 9
-  lemme: qq
-  type: abreviation
-  note: quelques
+  note: 'lecture incertaine ; autre lecture : Carlyvant'
 - ligne: 9
   lemme: \del{\ill}
   type: lecture
-  note: « nouveau » possible
+  note: mot biffé illisible ; « nouveau » possible
 - ligne: 9
   lemme: proprie
   type: abreviation
-  note: propriétaire (propr-, levée de plume, i pointé, e ; non proprire)
-- ligne: 15
-  lemme: etc
-  type: abreviation
-  note: et cetera
+  note: propriétaire (non proprire)
 - ligne: 18
   lemme: Farm
   type: emprunt
@@ -83,7 +59,7 @@ apparat:
 - ligne: 20
   lemme: par
   type: ajout
-  note: 'plus petit et plus bas, serré entre fatigué et Plusieurs (à majuscule) : ajouté après coup'
+  note: ajouté après coup entre « fatigué » et « Plusieurs »
 - ligne: 22
   lemme: canteen
   type: emprunt
@@ -95,20 +71,14 @@ apparat:
 - ligne: 23
   lemme: 60 \inc{c}
   type: lecture
-  note: 60 centimes ; le crochet lu c se prolonge sans levée visible dans le f suscrit de la l. 24, dont il peut être la tête (lire alors 60)
+  note: '60 centimes ; autre lecture : 60 (le c serait la tête du f de la l. 24)'
 - ligne: 24
   lemme: new boots, nails on
   type: emprunt
   note: bottes neuves, cloutage
-- ligne: 24
-  lemme: 1^{f} —
-  type: lecture
-  note: '1 franc, puis tiret : les traces brunes à droite sont la transparence du verso'
-critique: Encre noire virée au brun, homogène. Les deux journées ne sont séparées que par un blanc ; les comptes, sous un grand crochet, réunissent des achats des deux jours.
 historique: |
-  La douceur concorde avec l'histoire officielle : le temps s'améliore au début de janvier et le gel ne s'installe que le 14 (OH 1917-I, p.~66). La course de l'après-midi, par Authie (voir f.~54~v\textsuperscript{o}) et Pas-en-Artois, gagne Saulty, sur la grande route de Doullens à Arras, à l'arrière du front de la Third Army (Miles 1938, p.~543, n.~3). Le logeur-tailleur Carluvant [?] (f.~47~r\textsuperscript{o}, 51~r\textsuperscript{o}) n'est sans doute que locataire ; Hippolyte Combes loge encore chez lui le 7 février, quand il part pour Hérissart (f.~73~r\textsuperscript{o}). La ferme Cuisinier de Louvencourt est celle de la « gaffe » de Williams (f.~56~v\textsuperscript{o}) ; l'« expertise » prépare peut-être une indemnité. Pour Belle-Église et le Quesnoy, voir f.~53~r\textsuperscript{o}, 58~r\textsuperscript{o}. La poudre phéniquée de Calvert, de Manchester, eut vers 1906 « the largest sale of any dentifrice in the world » (Grace's Guide). Les « nails on » du 2 janvier suivent de trois jours les clous posés aux bottes (f.~58~v\textsuperscript{o}).
+  Le temps s'améliore au début de janvier ; le gel ne s'installe que le 14 (OH 1917-I, p.~66). Saulty est sur la route de Doullens à Arras, à l'arrière de la Third Army (Miles 1938, p.~543, n.~3). Le logeur Carluvant [?] (f.~47~r\textsuperscript{o}, 51~r\textsuperscript{o}) n'est sans doute que locataire : Hippolyte Combes loge encore chez lui le 7 février (f.~73~r\textsuperscript{o}). La ferme Cuisinier de Louvencourt est celle de la « gaffe » de Williams (f.~56~v\textsuperscript{o}) ; l'expertise prépare peut-être une indemnité. Pour Belle-Église et le Quesnoy, voir f.~53~r\textsuperscript{o}, 58~r\textsuperscript{o}. La poudre Calvert, de Manchester, avait vers 1906 « the largest sale of any dentifrice in the world » (Grace's Guide).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 543, n. 3.
 - Grace's Guide to British Industrial History, « F. C. Calvert and Co » (gracesguide.co.uk).
-- Science Museum Group, notice « F C Calvert and Company 1859-1965 » (collection.sciencemuseumgroup.org.uk).

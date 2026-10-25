@@ -197,3 +197,8 @@ noms:
     ligne: 27
     identite: Arquèves (Somme)
 source: contrôle
+audit:
+- ligne: 8
+  avant: Hedauville, Resté près d'1 h. ds ce village
+  apres: Hedauville, Resté près d'1 h ds ce village
+  justification: au zoom ×3, le jambage du h finit en crochet sur la ligne de base et « ds » suit sans aucun point ; lemme de l'apparat adapté (d'1 h)

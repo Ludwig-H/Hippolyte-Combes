@@ -194,3 +194,8 @@ noms:
     ligne: 25
     identite: Hérissart (Somme)
 source: contrôle
+audit:
+- ligne: 11
+  avant: coté office. Pièce très froide et surtout humide
+  apres: coté office. Pièce très froide et surtout humide,
+  justification: après humide, trait oblique descendant détaché, de la forme des virgules de la page (l. 4, l. 5) ; virgule omise

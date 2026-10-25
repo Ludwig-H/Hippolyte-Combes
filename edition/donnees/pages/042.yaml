@@ -3,7 +3,7 @@ fichier: 20251126_094639.jpg
 date: Mardi 12 et mercredi 13 septembre 1916
 mois: Septembre 1916
 lieux: Raincheval (Somme)
-titre: Admis au mess des officiers du capitaine West ; fourrage vert ; promenade en forêt
+titre: Admis au mess du capitaine West ; fourrage vert ; promenade en forêt
 transcription: |
   \sl{12 mardi} \hfill \sl{Sept^{bre} /16}
   \ind Après exc^{te} nuit, les fatigues oubliées.
@@ -31,121 +31,38 @@ transcription: |
   Remonté plateau pour green forage
   Tout le jour, et 1^{ère} fois, mess des offs
 apparat:
-- ligne: 1
-  lemme: Sept^{bre} /16
-  type: abreviation
-  note: septembre 1916
 - ligne: 2
   lemme: exc^{te}
   type: abreviation
   note: excellente
-- ligne: 3
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 4
-  lemme: cap.
-  type: abreviation
-  note: capitaine
 - ligne: 5
   lemme: le
   type: lecture
-  note: l + e prolongé d'un long délié ; « leur » (délié abréviatif), qu'appelle le sens, reste possible
-- ligne: 5
-  lemme: mess
-  type: emprunt
-  note: popote, table commune des officiers
-- ligne: 5
-  lemme: d'1
-  type: abreviation
-  note: d'une
-- ligne: 6
-  lemme: dû accepter
-  type: lecture
-  note: d + u surmonté d'une barre
-- ligne: 7
-  lemme: mess
-  type: emprunt
-  note: popote des officiers
-- ligne: 7
-  lemme: offs
-  type: abreviation
-  note: officiers
+  note: 'lecture incertaine ; autre lecture : « leur », qu''appelle le sens'
 - ligne: 10
   lemme: convers^{n}
-  type: abreviation
-  note: conversation ; « converser » possible
-- ligne: 10
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 11
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 12
-  lemme: (Matin & après-midi
-  type: disposition
-  note: mention de trois lignes serrée à droite, ouverte par une haute parenthèse ; la dernière ligne touche le filet
-- ligne: 12
-  lemme: '&'
-  type: abreviation
-  note: et
+  type: lecture
+  note: conversation ; lecture incertaine, « converser » possible
 - ligne: 13
   lemme: fo
   type: lecture
-  note: f + o sans r tracé ; sans doute for (anglais, « pour ») écourté
-- ligne: 14
-  lemme: green forage
-  type: emprunt
-  note: fourrage vert
-- ligne: 15
-  lemme: Me
-  type: abreviation
-  note: mercredi
+  note: sans doute angl. for (« pour ») écourté
 - ligne: 17
   lemme: A g.
   type: abreviation
   note: à gauche
-- ligne: 18
-  lemme: lunch
-  type: emprunt
-  note: déjeuner
-- ligne: 19
-  lemme: '&'
-  type: abreviation
-  note: et
 - ligne: 20
   lemme: l'extré
   type: abreviation
   note: l'extrémité
-- ligne: 22
-  lemme: green forage
-  type: emprunt
-  note: fourrage vert
-- ligne: 23
-  lemme: et
-  type: lecture
-  note: e + t barré
 - ligne: 23
   lemme: 1^{ère}
   type: abreviation
   note: première
-- ligne: 23
-  lemme: mess
-  type: emprunt
-  note: popote des officiers
-- ligne: 23
-  lemme: offs
-  type: abreviation
-  note: officiers
-critique: La mention du fourrage vert du 12, resserrée à droite après « Temps menaçant », chevauche le filet qui sépare les deux journées et a sans doute été ajoutée après coup ; « hauteurs » y est repassé d'une encre plus appuyée. À la l.~22, « Remonté » est d'une encre plus pâle que la suite.
 historique: |
-  Le « cap. West » est le Captain Edward Maurice West, A.S.C., commandant de la 152nd Company (Nichols 1922, p. 110 ; TNA WO 339/21191), qui avait invité Hippolyte Combes au mess dès le 9 (voir f. 20 r\textsuperscript{o}) et commande encore la compagnie, avec la Military Cross, en 1918 (Nichols 1922, p. 432). L'usage fait de l'interprète d'abord « l'invité du mess », puis souvent son secrétaire (Fernand-Laurent 1917, p. 64-65) ; dans le chapitre premier de ses \textit{Feuillets de Route} (en annexe), Hippolyte Combes note toutefois que, « si aimables que se montrent les off[iciers] », l'interprète se sent souvent « à cent lieues d'eux » dès que cessent le jeu ou la conversation courante, et retrouve dans son « billet (ma chambre) » la lecture des journaux et des revues. L'avantage a un prix : la quote-part de septembre sera de 29 f (voir f. 34 v\textsuperscript{o}), et les « cooking » payés aux logeuses disparaissent des comptes. Le \textit{green forage} est le fourrage vert dont les chevaux britanniques ont besoin et que l'armée peut requérir contre paiement (\textit{Blackwood's Magazine}, juin 1917, p. 933). Le château de Raincheval, de 1719, est inscrit en partie aux monuments historiques (Mérimée PA00116224). Ces deux jours, le 7th Bedfordshire s'exerce à suivre un barrage, à la baïonnette et à la grenade, et ses officiers reconnaissent le terrain devant Thiepval, objectif de la division (JMO 7/Bedf, 12-13 sept. 1916).
+  Le « cap. West » est le Captain Edward Maurice West, A.S.C., qui commande la 152nd Company (Nichols 1922, p. 110 ; TNA WO 339/21191) ; il avait invité Hippolyte Combes au mess dès le 9 (voir f. 20 r\textsuperscript{o}). Dans ses \textit{Feuillets de Route} (en annexe), il note que, « si aimables que se montrent les off[iciers] », l'interprète se sent souvent « à cent lieues d'eux ». Sa quote-part de septembre sera de 29 f (voir f. 34 v\textsuperscript{o}). Le \textit{green forage} est le fourrage vert des chevaux, que l'armée peut requérir contre paiement (\textit{Blackwood's Magazine}, juin 1917, p. 933). Le château de Raincheval, de 1719, est en partie inscrit aux monuments historiques (Mérimée PA00116224).
 sources:
-- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 110 et 432.
+- Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 110.
 - 'The National Archives (Kew), WO 339/21191 : Captain Edward Maurice West, Royal Army Service Corps (notice du catalogue).'
-- Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 64-65.
 - Anonyme (« A Divisional Claims Officer »), « Claims », Blackwood's Magazine, vol. 201, n° 1220, juin 1917, p. 933-941.
 - Ministère de la Culture, base Mérimée, notice PA00116224 (Raincheval, château).
-- 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'

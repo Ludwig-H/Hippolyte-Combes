@@ -3,7 +3,7 @@ fichier: 20251126_104346.jpg
 date: Dimanche 22 octobre 1916
 mois: Octobre 1916
 lieux: Albert (Somme)
-titre: Gel ; la Vierge penchée d'Albert ; Schumacher annonce le renvoi des interprètes R.A.T.
+titre: Gel ; la Vierge penchée d'Albert ; renvoi annoncé des interprètes de la R.A.T.
 transcription: |
   \sl{Dimanche 22.} \hfill \sl{Oct^{b}/16}
   \ind Encore cette nuit, gelé très dur.
@@ -29,34 +29,14 @@ apparat:
   lemme: Oct^{b}
   type: abreviation
   note: octobre
-- ligne: 4
-  lemme: \fr{1}{2} jour
-  type: abreviation
-  note: 'demi-jour : midi'
-- ligne: 5
-  lemme: lunch
-  type: emprunt
-  note: déjeuner
-- ligne: 5
-  lemme: lgs
-  type: abreviation
-  note: longtemps
-- ligne: 6
-  lemme: brique
-  type: lecture
-  note: sans -s final
 - ligne: 7
   lemme: \inc{si}
   type: lecture
-  note: petite boucle surmontée d'un trait courbe ; « à », de même forme l. 15, possible mais sans sens ici
+  note: 'lecture incertaine ; autre lecture : « à », sans sens ici'
 - ligne: 8
   lemme: horiz^{le}
   type: abreviation
   note: horizontale
-- ligne: 10
-  lemme: qq
-  type: abreviation
-  note: quelques
 - ligne: 11
   lemme: R.A.T.
   type: abreviation
@@ -66,10 +46,6 @@ apparat:
   type: abreviation
   note: français
 - ligne: 14
-  lemme: mess
-  type: emprunt
-  note: popote, table commune des officiers
-- ligne: 14
   lemme: 9 H s.
   type: abreviation
   note: 9 heures du soir
@@ -77,10 +53,6 @@ apparat:
   lemme: lost my way
   type: emprunt
   note: perdu mon chemin
-- ligne: 16
-  lemme: passim
-  type: emprunt
-  note: 'latin : çà et là'
 - ligne: 17
   lemme: billet
   type: emprunt
@@ -89,10 +61,8 @@ apparat:
   lemme: exceptt
   type: abreviation
   note: exceptionnellement
-critique: Un blanc d'environ trois lignes sépare la nouvelle donnée par Schumacher de la fin de la journée, écrite à la même encre violette.
 historique: |
-  La basilique Notre-Dame de Brebières a été élevée en briques sur les plans d'Edmond Duthoit (Mérimée PA80000002). Sa tour porte une statue dorée de la Vierge présentant l'Enfant, œuvre d'Albert Roze. Les obus l'ont atteinte non en 1914 mais en janvier 1915. Le 15 janvier, vers 15~h, la coupole vole en éclats et la statue s'incline, puis le soir, sous l'effet de la tempête, elle se couche à l'horizontale. Elle restera ainsi jusqu'au 16 avril 1918, où l'artillerie britannique l'abat (diocèse d'Amiens). L'adjudant interprète Schumacher est déjà nommé en août (voir f.~12~r\textsuperscript{o}). La R.A.T. est la réserve de l'armée territoriale. D'après sa fiche matricule, Hippolyte Combes doit sans doute y passer le 1er novembre 1916 : la mesure le touche donc directement. Le 24, on lui dira qu'il reste à la Mission (voir f.~43~r\textsuperscript{o}), mais la menace reparaît le 1er décembre (f.~52~v\textsuperscript{o}). Aucun texte de cette mesure n'a été retrouvé. Le calme du soir concorde avec la météo : beau temps le 22, puis une « brume épaisse » (OH 1916-II, p.~462).
+  La basilique Notre-Dame de Brebières est l'œuvre d'Edmond Duthoit (Mérimée PA80000002). Sa tour porte la Vierge dorée d'Albert Roze. Les obus l'atteignent en janvier 1915, non en 1914 : le 15, la statue s'incline, puis se couche à l'horizontale. Elle reste ainsi jusqu'au 16 avril 1918, quand l'artillerie britannique l'abat (diocèse d'Amiens). L'adjudant interprète Schumacher est déjà nommé en août (voir f.~12~r\textsuperscript{o}). D'après sa fiche matricule, Hippolyte Combes doit sans doute passer dans la R.A.T. le 1\textsuperscript{er} novembre 1916 : la mesure, dont le texte n'est pas connu, le touche. Le 24, on lui dit qu'il reste à la Mission (voir f.~43~r\textsuperscript{o}) ; la menace reparaît le 1\textsuperscript{er} décembre (f.~52~v\textsuperscript{o}).
 sources:
 - Diocèse d'Amiens, « Notre-Dame de Brebières ou la “Vierge penchée” », 13 mars 2018, amiens.catholique.fr.
 - Ministère de la Culture, base Mérimée, notice PA80000002 (basilique Notre-Dame de Brebières, Albert).
-- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 462.

@@ -154,3 +154,8 @@ noms:
     ligne: 20
     identite: Saint-Michel-sur-Ternoise (Pas-de-Calais)
 source: contrôle
+audit:
+- ligne: 13
+  avant: lentement et fait haltes fréquentes ds le
+  apres: lentement et faits haltes fréquentes ds le
+  justification: après f-a-i-t, un s final plongeant en ʒ, lié au pied du t et descendant sous la ligne (zoom .35 .59 .78 .64) ; aucun autre emploi possible de ce tracé (ni virgule, ni barre de t)

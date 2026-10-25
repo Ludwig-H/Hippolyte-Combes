@@ -139,3 +139,11 @@ noms:
     ligne: 20
     identite: jardin du Luxembourg, Paris
 source: contrôle
+audit:
+- ligne: 6
+  avant: |
+    par un planton j'à la porte \trait
+  apres: |
+    par un planton jà la porte \trait
+  justification: |
+    zoom ×3 [.42 .20 .53 .24] : j puis a lié sans aucun trait entre eux (ni apostrophe ni trait d'union, à la différence de j-à l. 8) ; le trait appuyé au-dessus et à droite de l'a descend de gauche à droite : c'est l'accent grave de à, décalé vers la droite comme celui de j-à l. 8

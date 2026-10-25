@@ -3,7 +3,7 @@ fichier: 20251126_103755.jpg
 date: Vendredi 6 octobre 1916 (matin)
 mois: Octobre 1916
 lieux: Doullens, Canaples et Barlette (Ribeaucourt, Somme)
-titre: Nuit en gare de Doullens ; railhead de Canaples ; retour en camion à la 152 Coy A.S.C.
+titre: Nuit en gare de Doullens ; par Canaples, retour en camion à la 152 Coy A.S.C.
 transcription: |
   \sl{Vendredi 6} \hfill \sl{Oct^{bre} 1916}
   \ind Achevé nuit salle depart
@@ -34,22 +34,10 @@ apparat:
   lemme: 1 banc
   type: abreviation
   note: un banc
-- ligne: 6
-  lemme: qq
-  type: abreviation
-  note: quelques
-- ligne: 8
-  lemme: Tjours
-  type: abreviation
-  note: toujours
 - ligne: 9
   lemme: 7^{H} 25
   type: abreviation
   note: 7 heures 25
-- ligne: 10
-  lemme: office
-  type: emprunt
-  note: bureau
 - ligne: 10
   lemme: R.T.O.
   type: abreviation
@@ -63,10 +51,6 @@ apparat:
   type: emprunt
   note: gare de ravitaillement
 - ligne: 14
-  lemme: lorries
-  type: emprunt
-  note: camions
-- ligne: 14
   lemme: supply column
   type: emprunt
   note: colonne de ravitaillement
@@ -74,22 +58,6 @@ apparat:
   lemme: 54^{e}
   type: abreviation
   note: cinquante-quatrième
-- ligne: 15
-  lemme: '1'
-  type: abreviation
-  note: un
-- ligne: 16
-  lemme: lorries
-  type: emprunt
-  note: camions
-- ligne: 16
-  lemme: j-au
-  type: abreviation
-  note: jusqu'au
-- ligne: 17
-  lemme: refilling point
-  type: emprunt
-  note: point de ravitaillement des convois
 - ligne: 18
   lemme: Coy.
   type: abreviation
@@ -98,13 +66,9 @@ apparat:
   lemme: A.S.C
   type: abreviation
   note: Army Service Corps
-- ligne: 19
-  lemme: 1^{H}
-  type: abreviation
-  note: une heure
-critique: Page d'une seule venue à l'encre violette ; le récit de la journée se poursuit f.~34 r\textsuperscript{o}.
+critique: Le récit de la journée se poursuit f.~34 r\textsuperscript{o}.
 historique: |
-  La 18th Division, relevée après Thiepval (26--27 septembre) et les combats de la Schwaben Redoubt, est partie se reposer « in the Candas area » (Nichols 1922, p.~126). Le 7th Bedfordshire, de la 54th Brigade, a été transporté le 2 octobre en wagons de la gare d'Acheux à Candas, par la voie normale ouverte en 1916 (OH 1916-I, p.~273), et cantonne à Vacquerie et Gorges (JMO 7/Bedf, oct. 1916). Canaples, station voisine de Candas sur la ligne Amiens--Doullens, sert de \textit{railhead} : les camions de la \textit{supply column} y chargent les vivres, transbordés au \textit{refilling point} dans les voitures du train (FSPB 1914, « Definitions »). Le trajet d'Hippolyte Combes confirme que la 152nd Coy servait la 54th Brigade, contre le tableau de Nichols (p.~108--110), qui la place auprès de la 55th ; les ordres du 7th Bedfordshire des 9--10 septembre la mettaient déjà dans la colonne de la brigade (JMO 7/Bedf, sept. 1916). L'église de Doullens est sans doute l'église paroissiale Notre-Dame, l'ancienne église Saint-Pierre étant désaffectée depuis sa vente comme bien national (Mérimée PA00116138).
+  Relevée après Thiepval, la 18th Division se repose « in the Candas area » (Nichols 1922, p.~126). Le 7th Bedfordshire, de la 54th Brigade, a été transporté le 2 octobre en train d'Acheux à Candas (OH 1916-I, p.~273) et cantonne à Vacquerie et Gorges (JMO 7/Bedf, oct. 1916). Canaples, sur la ligne Amiens--Doullens, sert de \textit{railhead} : les camions de la \textit{supply column} y chargent les vivres et les remettent au \textit{refilling point} aux voitures du train (FSPB 1914, « Definitions »). Le carnet montre que la 152nd Coy sert la 54th Brigade, et non la 55th comme le dit Nichols (p.~108--110), ce que montraient déjà les ordres du 7th Bedfordshire des 9--10 septembre (JMO 7/Bedf, sept. 1916). L'église de Doullens est sans doute Notre-Dame, l'ancienne église Saint-Pierre étant désaffectée (Mérimée PA00116138).
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 108-110, 126.
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.

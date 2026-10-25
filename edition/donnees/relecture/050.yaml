@@ -131,3 +131,12 @@ noms:
     ligne: 19
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+audit:
+- ligne: 11
+  avant: du convoy allant au railhead, puis continué
+  apres: du convoy allant au railhead puis continué
+  justification: 'aucune virgule entre railhead et puis (zoom [.58 .41 .76 .51] ×3) : le crochet vu vers x ≈ .67, y ≈ .445 est l''attaque haute de l''A d''Acheux (l. 12), non une virgule'
+- ligne: 13
+  avant: Laissé mes colis à Office de l'R.T.O. & venu
+  apres: Laissé mes colis à Office de l R.T.O. & venu
+  justification: aucun trait d'apostrophe entre le l et le R, l'intervalle est vierge (zoom [.55 .50 1 .56] ×2)

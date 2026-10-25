@@ -3,14 +3,14 @@ fichier: 20251126_103003.jpg
 date: Dimanche 24 septembre 1916
 mois: Septembre 1916
 lieux: Forceville et Acheux-en-Amiénois (Somme)
-titre: Brouillard puis chaleur ; hutte achevée, fourrage vert à Forceville, musique à Acheux
+titre: Hutte achevée ; fourrage vert à Forceville ; musique militaire à Acheux
 transcription: |
   \sl{Dim. 24} Levé 7^{H} \fr{1}{2} \hfill \sl{Sept 16}
   Après 8^{H}, épais brouillard. A 11^{H} seulemt,
   soleil l'a dissipé –
   Brume & temps splendide
   Achevé de construire ma hutte, derrière
-  haie d'aubépine — Plus spacieuse et haute
+  haie d'aubépine Plus spacieuse et haute
   \blanc{1}
   Ds la matinée, dû venir à pied à
   Forceville, for green forage. Parcouru
@@ -29,10 +29,6 @@ transcription: |
   Canon, grondé tout le long du front
 apparat:
 - ligne: 1
-  lemme: Dim.
-  type: abreviation
-  note: Dimanche
-- ligne: 1
   lemme: 7^{H} \fr{1}{2}
   type: abreviation
   note: 7 heures et demie
@@ -41,49 +37,17 @@ apparat:
   type: abreviation
   note: Septembre 1916
 - ligne: 2
-  lemme: 8^{H}
-  type: abreviation
-  note: 8 heures
-- ligne: 2
-  lemme: 11^{H}
-  type: abreviation
-  note: 11 heures
-- ligne: 2
   lemme: seulemt
   type: abreviation
   note: seulement
-- ligne: 5
-  lemme: derrière
-  type: lecture
-  note: d bouclé initial, rr, accent décalé
-- ligne: 7
-  lemme: Ds
-  type: abreviation
-  note: Dans
-- ligne: 8
-  lemme: for green forage
-  type: emprunt
-  note: pour du fourrage vert
-- ligne: 11
-  lemme: Lunch
-  type: emprunt
-  note: déjeuner
-- ligne: 11
-  lemme: cap
-  type: abreviation
-  note: capitaine
 - ligne: 11
   lemme: \inc{Newton}
   type: lecture
-  note: patronyme incertain ; Newson possible ; officier non identifié
-- ligne: 12
-  lemme: ts
-  type: abreviation
-  note: tous
+  note: 'lecture incertaine ; autre lecture : Newson'
 - ligne: 12
   lemme: \ill \inc{bagages}
   type: lecture
-  note: mot appuyé illisible, peut-être repris, puis « bagages » proposé ; « menus bagages » possible
+  note: mot illisible, puis « bagages » incertain
 - ligne: 13
   lemme: h.
   type: abreviation
@@ -99,26 +63,13 @@ apparat:
 - ligne: 15
   lemme: \inc{sur}
   type: lecture
-  note: le mot a l'aspect de « au » ; « sur » retenu par le sens
+  note: 'lecture incertaine ; autre lecture : au'
 - ligne: 16
   lemme: g.
   type: abreviation
   note: gauche
-- ligne: 19
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 19
-  lemme: \trait
-  type: signe
-  note: double trait incurvé, plus fin et plus pâle
-- ligne: 21
-  lemme: Canon, grondé
-  type: lecture
-  note: virgule et accent nets
-critique: Encre violette ; la journée occupe toute la page, sans compte. « et haute » (l.~6), « était prêt » (l.~13) et le double trait de la l.~19 sont d'un tracé plus fin et plus pâle, peut-être repris après coup.
 historique: |
-  La hutte est au bivouac du tournant de la route de Forceville (voir f.~24 v\textsuperscript{o}). Depuis l'ouverture, le 23, de la préparation d'artillerie de la Reserve Army contre la crête de Thiepval (230 pièces lourdes, 570 de campagne), « a thick mist always prevailed in the mornings and evenings », et la Fourth Army ouvre le 24 à 7 h, « in a heavy autumn mist », le bombardement de Morval et de Lesbœufs (OH 1916-II, p.~372, 393--394). Le canon annonce l'attaque de la Fourth Army du 25 et celle de Thiepval, le 26, par la 18th Division, qui relève la 49th dans la nuit (OH 1916-II, p.~394). La musique joue à Acheux, où le QG divisionnaire reste jusqu'au 25 septembre (Nichols 1922, p.~79) et où la Mission française a son bureau dans le parc du château (voir f.~22 r\textsuperscript{o}). Le « cap \textit{Newton} », de lecture incertaine, n'est pas identifié. Les bagages faits en deux heures sont ceux de la permission qui commence le lendemain (voir f.~25 v\textsuperscript{o}) ; sur le \textit{green forage}, voir f.~3 v\textsuperscript{o}.
+  La hutte est au bivouac du tournant de la route de Forceville (voir f.~24 v\textsuperscript{o}). Le 23, la Reserve Army a ouvert la préparation d'artillerie contre la crête de Thiepval (230 pièces lourdes, 570 de campagne) ; le 24 à 7 h, « in a heavy autumn mist », la Fourth Army bombarde Morval et Lesbœufs. Le canon annonce son attaque du 25 et celle de Thiepval, le 26, par la 18th Division (OH 1916-II, p.~372, 393--394). Le QG de la 18th Division reste à Acheux jusqu'au 25 (Nichols 1922, p.~79) ; la Mission française a son bureau dans le parc du château (voir f.~22 r\textsuperscript{o}). Le « cap \textit{Newton} », de lecture incertaine, n'est pas identifié. Les bagages sont ceux de la permission qui commence le lendemain (voir f.~25 v\textsuperscript{o}).
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 372, 393-394.
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 79.

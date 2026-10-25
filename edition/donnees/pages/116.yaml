@@ -3,7 +3,7 @@ fichier: 20251126_105400.jpg
 date: Jeudi 28 – vendredi 29 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Léalvillers, Raincheval et Louvencourt (Somme)
-titre: Canonnade vers Hébuterne ; concert des « Archie Singers » au Y.M.C.A. ; Sunbeam de Levy
+titre: Canonnade vers Hébuterne ; concert des « Archie Singers » ; Sunbeam de Levy
 transcription: |
   28 \sl{Jeudi} \hfill Decembre \sl{1916}
   \ind Très fort^{t} gelé nuit
@@ -43,14 +43,6 @@ apparat:
   lemme: affreut
   type: abreviation
   note: affreusement
-- ligne: 6
-  lemme: affreut
-  type: lecture
-  note: t final sans s
-- ligne: 7
-  lemme: breakfast
-  type: emprunt
-  note: petit déjeuner
 - ligne: 9
   lemme: car in workshop
   type: emprunt
@@ -75,30 +67,18 @@ apparat:
   lemme: Brown Boot Polish
   type: emprunt
   note: cirage brun pour chaussures
-- ligne: 13
-  lemme: 20c.
-  type: abreviation
-  note: 20 centimes
 - ligne: 14
   lemme: Imbert
   type: lecture
-  note: e et r fondus (aspect Imbat) ; Imbert retenu
-- ligne: 14
-  lemme: Imbert, opticien
-  type: disposition
-  note: 'écrit au-dessus de « 30c : » ; « Paris », sous « opticien », achève l''adresse'
+  note: 'lecture probable ; autre lecture : Imbat'
 - ligne: 15
   lemme: '30c : \hfill Paris'
   type: disposition
-  note: montant de la boîte recommandée et fin de l'adresse d'Imbert, sur la ligne de « Concert »
+  note: montant de la boîte recommandée et fin de l'adresse d'Imbert (l. 14)
 - ligne: 15
   lemme: Y.M.C.A
   type: abreviation
   note: Young Men's Christian Association (foyer du soldat)
-- ligne: 16
-  lemme: Ve.
-  type: abreviation
-  note: vendredi
 - ligne: 18
   lemme: Sunbeam Car
   type: emprunt
@@ -115,13 +95,10 @@ apparat:
   lemme: pt
   type: abreviation
   note: peut
-critique: Les comptes du 28 décembre, ouverts par une équerre, sont fermés par un filet tiré sur toute la largeur, qui sépare les deux journées ; le montant de la boîte recommandée et la fin de l'adresse (« Paris ») sont rejetés sur la ligne du concert.
 historique: |
-  La canonnade « du coté d'Hebuterne » vient du secteur de la 31st Division, gauche du XIII Corps (OH 1917-I, p.~66) ; aucune opération n'y est signalée, l'effort de décembre portant sur « l'amélioration de nos tranchées et des routes » (Haig 1919, p.~66). Les « 13th corps Archie Singers » sont sans doute la troupe de concert des batteries antiaériennes du corps, \textit{Archie} désignant en argot le canon antiaérien et ses servants (Partridge 1937) ; ils reviennent le 4 janvier (voir f.~60~r\textsuperscript{o}). L'entrée payante (30~c) surprend : la Y.M.C.A. disait ses concerts gratuits (Yapp 1918, chap.~IV). La boîte envoyée à Imbert, opticien du boulevard Saint-Michel (f.~65~v\textsuperscript{o}), contenait sans doute le pince-nez dont Hippolyte Combes paiera la réparation le 10 janvier (f.~61~r\textsuperscript{o}). Le Major Levy est peut-être Walter Henry Levy, major temporaire de l'A.S.C. (\textit{London Gazette}, suppl. 29585, p.~4941) ; Sunbeam est une marque de Wolverhampton (Grace's Guide). Le « Quesnoy » est peut-être le lieu-dit Le Quesnoy, à Puchevillers, où une ferme porte ce nom.
+  La canonnade vient du secteur de la 31st Division, à gauche du XIII Corps (OH 1917-I, p.~66). Les « Archie Singers » sont sans doute la troupe des batteries antiaériennes du corps (\textit{Archie} : canon antiaérien en argot ; Partridge 1937) ; ils reviennent le 4 janvier (voir f.~60~r\textsuperscript{o}). Entrée payante, alors que la Y.M.C.A. disait ses concerts gratuits (Yapp 1918, chap.~IV). La boîte contenait sans doute le pince-nez, dont la réparation est payée le 10 janvier (f.~61~r\textsuperscript{o}) ; Imbert est opticien boulevard Saint-Michel (f.~65~v\textsuperscript{o}). Levy est peut-être Walter Henry Levy, major temporaire de l'A.S.C. (\textit{London Gazette}, suppl. 29585, p.~4941). Le « Quesnoy » est peut-être le lieu-dit de ce nom, à Puchevillers.
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.
-- Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), London, Dent, 1919, p. 66 (dépêche du 31 mai 1917).
 - Partridge, E., A Dictionary of Slang and Unconventional English, London, Routledge, 1937, s.v. « Archie ».
 - Yapp, A. K., The Romance of the Red Triangle, London, Hodder and Stoughton, 1918, chap. IV, p. 39-62.
 - The London Gazette, suppl. 29585, 17 mai 1916, p. 4941.
-- Grace's Guide to British Industrial History, « Sunbeam Motor Car Co » (gracesguide.co.uk).

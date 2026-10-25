@@ -3,7 +3,7 @@ fichier: 20251126_110216.jpg
 date: Lundi 29 janvier 1917
 mois: Janvier 1917
 lieux: Toulouse (Haute-Garonne)
-titre: 'Toulouse : panier de fleurs de Nice retiré en gare ; cryptes de Saint-Sernin ; magasins'
+titre: Panier de fleurs de Nice retiré en gare ; cryptes de Saint-Sernin ; magasins
 transcription: |
   \sl{Lundi 29.} \hfill — Janvier \sl{1917} —
   Levé 7^{H} \fr{1}{2}
@@ -35,22 +35,6 @@ apparat:
   lemme: 7^{H} \fr{1}{2}
   type: abreviation
   note: sept heures et demie
-- ligne: 3
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
-- ligne: 4
-  lemme: gd
-  type: abreviation
-  note: grand
-- ligne: 8
-  lemme: '&'
-  type: lecture
-  note: esperluette (et)
-- ligne: 9
-  lemme: S^{te} Marie
-  type: abreviation
-  note: Sainte-Marie
 - ligne: 10
   lemme: Marg.
   type: abreviation
@@ -63,14 +47,6 @@ apparat:
   lemme: St-Sernin
   type: abreviation
   note: Saint-Sernin
-- ligne: 17
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
-- ligne: 19
-  lemme: par
-  type: lecture
-  note: en toutes lettres
 - ligne: 20
   lemme: 9^{H} s.
   type: abreviation
@@ -82,23 +58,15 @@ apparat:
 - ligne: 22
   lemme: 2^{f} \inc{90}
   type: lecture
-  note: 2 francs 90 ; chiffres minuscules contre le bord de la page ; on pourrait lire 2,90 sans f
+  note: 'lecture incertaine ; autre lecture : 2,90 sans f'
 - ligne: 23
   lemme: p.
   type: abreviation
   note: pour
 - ligne: 23
-  lemme: Margte
-  type: abreviation
-  note: Marguerite
-- ligne: 23
   lemme: 2^{f}25
   type: abreviation
   note: 2 francs 25
-- ligne: 23
-  lemme: C^{tes} p^{les}
-  type: abreviation
-  note: cartes postales
 - ligne: 24
   lemme: St-Sernin
   type: abreviation
@@ -107,11 +75,9 @@ apparat:
   lemme: 1^{f}
   type: abreviation
   note: un franc
-critique: Encre violette sur toute la page. Les comptes du jour, au pied de la page, sont ouverts par un grand crochet qui couvre quatre lignes.
 historique: |
-  La « chambre rue » est celle de l'appartement de la rue de Languedoc (voir f.~31 r\textsuperscript{o}). Le panier de fleurs venu de Nice est l'envoi de Mme Spagnol (télégramme du 31, f.~68 r\textsuperscript{o} ; mandat de 42 francs le 21 février, f.~79 r\textsuperscript{o}), non identifiée. « Mad\textsuperscript{ne} » est sans doute Madeleine Calmels, épouse du Dr Fernand Vincens et sœur aînée de Marguerite (voir f.~66 v\textsuperscript{o}). La crypte de Saint-Sernin, sous le chœur, qui « renferme les reliques d'un très grand nombre de saints », coûte 50 c l'entrée (Baedeker 1912, p.~302) : le franc payé vaut sans doute deux entrées. En 1896, les parents d'Hippolyte Combes habitaient 47, rue du Taur, qui mène du Capitole à Saint-Sernin (registre matricule, Toulouse, classe 1896). Les « Magasins du Capitole » sont le grand magasin « Au Capitole » ; Labit, la « Maison universelle » d'Antoine Labit, rue d'Alsace-Lorraine, réputé le premier de la ville (immeuble de 1877) (Mérimée PA31000123). Le retour emprunte la ligne de tramway Capitole -- Côte-Pavée (Baedeker 1912, p.~298).
+  La « chambre rue » est celle de l'appartement de la rue de Languedoc (voir f.~31~r\textsuperscript{o}). Le panier de fleurs vient de Nice, de Mme Spagnol, non identifiée (télégramme le 31, f.~68~r\textsuperscript{o} ; mandat de 42~f le 21 février, f.~79~r\textsuperscript{o}). « Mad\textsuperscript{ne} » est sans doute Madeleine, sœur aînée de Marguerite (voir f.~66~v\textsuperscript{o}). L'entrée de la crypte de Saint-Sernin coûte 50~c (Baedeker 1912, p.~302) : le franc payé vaut sans doute deux entrées. En 1896, les parents de Combes habitaient 47, rue du Taur, entre le Capitole et Saint-Sernin (registre matricule, Toulouse, classe 1896). Labit est la « Maison universelle » d'Antoine Labit, rue d'Alsace-Lorraine (Mérimée PA31000123).
 sources:
-- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne. Manuel du voyageur, Leipzig, K. Baedeker, 1912, p. 298, 302.
+- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne. Manuel du voyageur, Leipzig, K. Baedeker, 1912, p. 302.
 - Archives départementales de la Haute-Garonne, registre matricule du recrutement de Toulouse, classe 1896, n° 911 (Combes, Marie Lucien Hippolyte).
 - Ministère de la Culture, base Mérimée, notice PA31000123 (musée Georges-Labit, Toulouse), consultée via monumentum.fr ; PSS-Archi, fiche FR-31555-9853 (ancien bazar Labit).
-- Combes, Pierre, livre familial dactylographié, annexe généalogique (PC-Annexe), archives familiales.

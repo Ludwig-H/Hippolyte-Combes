@@ -182,3 +182,8 @@ noms:
     ligne: 21
     identite: Authie (Somme)
 source: contrôle
+audit:
+- ligne: 3
+  avant: d'entrailles. Ni thé, ni souper. 7 selles
+  apres: d'entrailles. Ni thé, ni supper. 7 selles
+  justification: 'zoom x3 : ſ initial, u, puis deux hastes de p descendant sous la ligne, e et r final en délié ; aucun o ; mot anglais (supper) après tea'

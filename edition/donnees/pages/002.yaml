@@ -3,7 +3,7 @@ fichier: 20251126_092932.jpg
 date: Mardi 25 juillet 1916
 mois: Juillet 1916
 lieux: Lynde et Sercus ? (Nord)
-titre: Ciel de Flandre ; rassemblement à Sercus ; arrivée de 36 officiers des Royal Fusiliers
+titre: Rassemblement à Sercus ; arrivée de 36 officiers des Royal Fusiliers
 transcription: |
   \sl{25 Ma.} \hfill \sl{Juillet 1916}
   \ind[3] Levé \inc{dès} 8^{H} m. \hfill Bien repose
@@ -12,7 +12,7 @@ transcription: |
   Flandre Beaux arbres élancés aux branches
   retombantes entourent pâturages ou champs
   d'avoine et de blé – Epis très hauts & serrés
-  Mélancolie éparse à travers atmosphère
+  Melancolie éparse à travers atmosphère
   Matin, venu à pied, avec fantastique
   lieut^{t} Curtis au village de \inc{Sercus}, où notre
   rassemblement se fait devant cimetière qui
@@ -36,19 +36,7 @@ apparat:
 - ligne: 2
   lemme: \inc{dès}
   type: lecture
-  note: 'lecture probable : d net, accent non visible ; autre lecture : des'
-- ligne: 2
-  lemme: 8^{H}
-  type: abreviation
-  note: 8 heures
-- ligne: 2
-  lemme: m.
-  type: abreviation
-  note: matin
-- ligne: 3
-  lemme: Toute
-  type: lecture
-  note: T à crochet de tête et haste plongeante, comme dans Toujours (l. 4)
+  note: 'lecture incertaine ; autre lecture : des'
 - ligne: 3
   lemme: Margte
   type: abreviation
@@ -60,11 +48,7 @@ apparat:
 - ligne: 10
   lemme: \inc{Sercus}
   type: lecture
-  note: S, e, u et s final nets ; r et c en partie sous le jambage du f de fantastique (l. 9) ; Sercus (Nord), près de Lynde
-- ligne: 15
-  lemme: off.
-  type: abreviation
-  note: officiers
+  note: lecture incertaine, r et c cachés par le f de la l. 9
 - ligne: 15
   lemme: R. Fus^{rs}
   type: abreviation
@@ -72,55 +56,28 @@ apparat:
 - ligne: 16
   lemme: remarqu\inc{é}
   type: lecture
-  note: la fin du mot est hors champ (bord droit) ; -é restitué
-- ligne: 19
-  lemme: 7^{H}
-  type: abreviation
-  note: 7 heures
-- ligne: 19
-  lemme: \fr{1}{2}
-  type: abreviation
-  note: et demie
+  note: fin du mot coupée au bord ; -é restitué
 - ligne: 19
   lemme: s.,
   type: abreviation
   note: soir
-- ligne: 20
-  lemme: mess
-  type: emprunt
-  note: popote, table commune des officiers
-- ligne: 20
-  lemme: off.
-  type: abreviation
-  note: officiers
-- ligne: 21
-  lemme: Mme
-  type: abreviation
-  note: Madame
 - ligne: 21
   lemme: \inc{Backer}
   type: lecture
-  note: 'initiale haute et épaisse (B ou D), a ou e, c, k bouclé, e, r ; autres lectures : Becker, Dacker'
+  note: 'lecture incertaine ; autres lectures : Becker, Dacker'
 - ligne: 21
   lemme: 1 \inc{f 75}
   type: compte
-  note: 'montant coupé au bord droit de la photographie : seuls 1 et un signe plongeant (f ou 7) sont visibles (1 f 75 probable)'
-- ligne: 22
-  lemme: Varia
-  type: emprunt
-  note: 'latin : divers'
+  note: montant coupé au bord ; 1 f 75 probable
 - ligne: 22
   lemme: 75 c
   type: abreviation
   note: 75 centimes
-critique: 'Première page écrite du carnet, à l''encre violette ; la fin de la ligne « mess de mes off. » est d''une encre plus pâle, les comptes, sous le filet, d''un violet plus foncé. Le bord droit du feuillet est légèrement coupé par le cadrage.'
 historique: |
-  « Marg\textsuperscript{te} » est Marguerite Calmels (Millau, 1892-1974), fille du docteur Gabriel Calmels (acte de naissance ; INSEE), qu'Hippolyte Combes épousera à Millau le 25 octobre 1917 (menu du mariage). Sercus est à 2,7 km de Lynde, où Hippolyte Combes loge sans doute (voir f. 2 v\textsuperscript{o}) ; l'« église très curieuse » serait Saint-Érasme, église-halle (\textit{hallekerque}) du XVI\textsuperscript{e} siècle sur soubassements du XII\textsuperscript{e}, au clocher classé en 1913 (Mérimée PA00107816). Les « 2 rangs de statues » visités l'après-midi sont vraisemblablement le jubé du XV\textsuperscript{e} siècle de Saint-Vaast de Lynde, reporté en 1695 au fond de la nef, « sous les orgues » (Palissy PM59000995). Les « 36 off. » sont très probablement ceux du 11th Royal Fusiliers, de la 54th Brigade (Nichols 1922, p. 109), au repos autour de Wallon-Cappel, à 4 km (Beds War Diary, juill. 1916). Les deux villages restaient « en majorité germaniques », flamandophones (Blanchard 1906, p. 483). Jusqu'à son admission au mess (voir f. 21 v\textsuperscript{o}), Hippolyte Combes paie ses repas à ses logeuses.
+  « Marg\textsuperscript{te} » est Marguerite Calmels (Millau, 1892-1974), fille du docteur Gabriel Calmels (acte de naissance ; INSEE) ; Hippolyte Combes l'épouse à Millau le 25 octobre 1917 (menu du mariage). Il loge sans doute à Lynde (voir f. 2 v\textsuperscript{o}), à 2,7 km de Sercus. L'« église très curieuse » serait Saint-Érasme de Sercus, église-halle du XVI\textsuperscript{e}~s. (Mérimée PA00107816). Les statues sont sans doute celles du jubé du XV\textsuperscript{e}~s. de Saint-Vaast de Lynde, placé en 1695 au fond de la nef (Palissy PM59000995). Les 36 officiers sont très probablement ceux du 11th Royal Fusiliers, 54th Brigade (Nichols 1922, p. 109). Jusqu'à son admission au mess (voir f. 21 v\textsuperscript{o}), il paie ses repas à ses logeuses.
 sources:
 - Acte de naissance de Marie Marguerite Calmels, Millau, 16 avril 1892 (archives familiales) ; fichier INSEE des personnes décédées (via matchID), décès du 19 mars 1974 à Millau.
 - Menu manuscrit du repas de mariage Combes-Calmels, « 25 octobre 1917 » (archives familiales).
 - Ministère de la Culture, base Mérimée, notice PA00107816 (église Saint-Érasme, Sercus).
 - Ministère de la Culture, base Palissy, notice PM59000995 (jubé, église Saint-Vaast, Lynde).
 - Nichols, G. H. F., The 18th Division in the Great War, Édimbourg-Londres, Blackwood, 1922, p. 109.
-- 'Bedfordshire Archives Service (Bedford), X550/8/1/1607 et 1607b : War Diary, 7th (Service) Battalion Bedfordshire Regiment, juillet 1916 (cité « Beds War Diary »).'
-- Blanchard, Raoul, La Flandre. Étude géographique de la plaine flamande en France, Belgique et Hollande, Paris, Armand Colin, 1906, p. 483.

@@ -3,7 +3,7 @@ fichier: 20251126_094511.jpg
 date: Mercredi 6 et jeudi 7 septembre 1916
 mois: Septembre 1916
 lieux: Marquay, Saint-Pol-sur-Ternoise et Saint-Michel-sur-Ternoise (Pas-de-Calais)
-titre: Visite à Mme Vauchel avec Curtis ; marche à Saint-Pol et retour par Saint-Michel
+titre: Visite à Mme Vauchel avec Curtis ; promenade à Saint-Pol et Saint-Michel
 transcription: |
   \sl{6 Me} Enfin beau temps. – \hfill \sl{Septbre 1916}
   Après-midi superbe Chaud soleil.
@@ -19,7 +19,7 @@ transcription: |
   \filet
   7 J Encore une b. journée –
   \inc{Sitôt} Après-dejeun. parti campagne. marché
-  lentement et fait haltes fréquentes ds le
+  lentement et faits haltes fréquentes ds le
   carré gazonné de calvaires, ds 1 bois ou au
   bord champs d'avoine
   Soleil ardent \trait
@@ -34,10 +34,6 @@ transcription: |
   allée de pins \hfill Consommations : \inc{50} c
 apparat:
 - ligne: 1
-  lemme: Me
-  type: abreviation
-  note: Mercredi
-- ligne: 1
   lemme: Septbre
   type: abreviation
   note: septembre
@@ -45,66 +41,30 @@ apparat:
   lemme: 2 h
   type: abreviation
   note: deux heures
-- ligne: 4
-  lemme: gd
-  type: abreviation
-  note: grand
 - ligne: 5
   lemme: 6^{H} s.
   type: abreviation
   note: six heures du soir
-- ligne: 5
-  lemme: Lt
-  type: abreviation
-  note: lieutenant
-- ligne: 5
-  lemme: C^{tis}
-  type: abreviation
-  note: Curtis
 - ligne: 7
   lemme: propri
   type: abreviation
   note: propriétaire
-- ligne: 7
-  lemme: M^{me}
-  type: abreviation
-  note: Madame
-- ligne: 8
-  lemme: '&'
-  type: abreviation
-  note: et
 - ligne: 8
   lemme: admir^{t}.
   type: abreviation
   note: admirablement
-- ligne: 9
-  lemme: tjs
-  type: abreviation
-  note: toujours
-- ligne: 9
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 11
-  lemme: J
-  type: abreviation
-  note: Jeudi
-- ligne: 11
-  lemme: b.
-  type: abreviation
-  note: belle
 - ligne: 12
   lemme: \inc{Sitôt}
   type: lecture
-  note: lecture incertaine d'un mot bref serré dans la marge
+  note: lecture incertaine
 - ligne: 12
   lemme: dejeun.
   type: abreviation
   note: déjeuner
 - ligne: 13
-  lemme: ds
-  type: abreviation
-  note: dans
+  lemme: faits
+  type: lecture
+  note: s final lié au t ; pour « fait »
 - ligne: 14
   lemme: ds 1
   type: abreviation
@@ -113,34 +73,14 @@ apparat:
   lemme: \fr{1}{2}
   type: lecture
   note: demi (« une longue demi-heure »)
-- ligne: 17
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 18
-  lemme: St-Pol
-  type: abreviation
-  note: Saint-Pol
-- ligne: 19
-  lemme: gde
-  type: abreviation
-  note: grande
 - ligne: 20
   lemme: St.
   type: abreviation
   note: Saint
 - ligne: 21
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 21
   lemme: \inc{ifs}
   type: lecture
-  note: lecture incertaine ; autre lecture possible, ormes ; « arbres » exclu
-- ligne: 21
-  lemme: tt
-  type: abreviation
-  note: tout
+  note: 'lecture incertaine ; autre lecture : ormes'
 - ligne: 22
   lemme: au \fr{1}{2}
   type: abreviation
@@ -148,27 +88,18 @@ apparat:
 - ligne: 24
   lemme: \inc{Puis}
   type: lecture
-  note: lecture incertaine ; autre lecture possible, Lui
-- ligne: 24
-  lemme: C^{tes} p^{les}
-  type: abreviation
-  note: cartes postales
+  note: 'lecture incertaine ; autre lecture : Lui'
 - ligne: 24
   lemme: \inc{15 c}
   type: lecture
-  note: lecture incertaine (« 1 f. » possible)
+  note: 'lecture incertaine ; autre lecture : 1 f.'
 - ligne: 25
   lemme: \inc{50}
   type: lecture
-  note: lecture incertaine ; autre lecture possible, 20
-- ligne: 24
-  lemme: Hair cut
-  type: emprunt
-  note: coupe de cheveux
-critique: Les deux postes du compte et les mots « allée de pins », d'une encre plus brune et plus pâle que le texte, ont été ajoutés après coup au bas de la page, sous la phrase sur le clocher de Saint-Michel, restée en suspens après « est ».
+  note: 'lecture incertaine ; autre lecture : 20'
+critique: La phrase sur le clocher de Saint-Michel reste en suspens après « est » ; le compte et les mots « allée de pins » ont été ajoutés après coup.
 historique: |
-  Le beau temps revenu concorde avec le journal des Bedfords, qui note « \textit{Fine weather} » les 6 et 7 septembre après un 5 « \textit{Wet weather} » (JMO 7/Bedf, 5--7 sept. 1916). Après l'annulation du départ (voir f. 18 v\textsuperscript{o}), la 54th Brigade s'exerce au creusement intensif, à la construction rapide d'abris enterrés et à suivre un barrage ; le 6, les commandants du corps et de la division suivent une démonstration de « \textit{rapid construction of shelters} » (ibid.). Mme Vauchel, propriétaire d'une ferme voisine chez qui Hippolyte Combes accompagne Curtis, sans doute pour un achat de fourrage vert (voir f. 9 v\textsuperscript{o}), n'est pas identifiée. Le 7, la promenade mène à Saint-Pol (6,1 km de Marquay ; voir f. 16 v\textsuperscript{o}) et revient par Saint-Michel-sur-Ternoise (4,6 km ; OSM). L'église de Saint-Michel n'est pas protégée au titre des monuments historiques (Mérimée). La coupe de cheveux à 50 c est le prix qu'Hippolyte Combes paiera encore à Albert en octobre (voir f. 43 v\textsuperscript{o}).
+  Le beau temps revient : le journal des Bedfords note « \textit{Fine weather} » les 6 et 7 septembre, après un 5 pluvieux (JMO 7/Bedf, 5--7 sept. 1916). Le départ étant annulé (voir f. 18 v\textsuperscript{o}), la 54th Brigade s'exerce au creusement et à la construction rapide d'abris enterrés (ibid.). Mme Vauchel, propriétaire d'une ferme voisine, n'est pas identifiée ; la visite avec Curtis tient sans doute à un achat de fourrage vert (voir f. 9 v\textsuperscript{o}). Le 7, Hippolyte Combes va à pied à Saint-Pol, à 6,1 km de Marquay, et revient par Saint-Michel-sur-Ternoise (4,6 km ; OSM). Il paiera encore 50 c une coupe de cheveux à Albert en octobre (voir f. 43 v\textsuperscript{o}).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'
-- Ministère de la Culture, base Mérimée (aucune notice pour Saint-Michel-sur-Ternoise, interrogation du 18 oct. 2026).
 - OpenStreetMap / Nominatim (distances à vol d'oiseau entre chefs-lieux).

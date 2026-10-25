@@ -28,30 +28,10 @@ transcription: |
   \ind Ciel nuageux Pluie menace
   Après-midi, liberté entière
 apparat:
-- ligne: 3
-  lemme: Ds
-  type: abreviation
-  note: dans
-- ligne: 5
-  lemme: '&'
-  type: abreviation
-  note: et
 - ligne: 10
   lemme: ext
   type: abreviation
   note: extrêmement
-- ligne: 10
-  lemme: mervt
-  type: abreviation
-  note: merveilleusement
-- ligne: 11
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
-- ligne: 15
-  lemme: ds
-  type: abreviation
-  note: dans
 - ligne: 16
   lemme: + en +
   type: abreviation
@@ -59,25 +39,15 @@ apparat:
 - ligne: 17
   lemme: Resté
   type: lecture
-  note: lecture retenue (s long descendant, t sans barre, é ; « Roulé » moins probable).
+  note: 'lecture incertaine ; autre lecture : Roulé'
 - ligne: 18
   lemme: 3 h.
   type: abreviation
   note: trois heures
-- ligne: 18
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 19
-  lemme: '&'
-  type: abreviation
-  note: et
-critique: Encre violette homogène ; les deux journées des 15 et 16 février sont séparées par une ligne blanche, sans comptes.
 historique: |
-  Le « dégel très rapide » du vendredi 16 est celui que l'histoire officielle britannique date de ce jour même, au terme d'un gel ininterrompu depuis le 14 janvier (OH 1917-I, p.~66, 76) ; Haig le place « dans la troisième semaine de février » (Haig, \textit{Despatches}, p.~69--70). Les courses du 15 suivent le circuit habituel des achats : Raincheval, siège de l'\textit{Army Purchase Board} (voir f.~46~r\textsuperscript{o}), Puchevillers (voir f.~55~r\textsuperscript{o}), Toutencourt, QG de la Fifth Army (voir f.~49~v\textsuperscript{o}). La visite « grand costume » au maire d'Hérissart, non nommé, relève des rapports avec les autorités civiles qui font de l'interprète le « trait d'union entre les Anglais et les habitants du pays » (Fernand-Laurent 1917, p.~XIV). Beaucourt est sans doute Beaucourt-sur-l'Hallue (Somme), au sud de Contay, et non Beaucourt-sur-l'Ancre, village détruit de l'ancienne ligne de feu ; son château, bâti vers 1750, subsiste (Inventaire IA80000292). La vallée de l'Hallue est desservie depuis mai 1916 par la voie normale Daours--Contay (OH 1916-I, p.~273).
+  L'histoire officielle britannique date le dégel de ce vendredi 16, après un gel continu depuis le 14 janvier (OH 1917-I, p.~66, 76). Le 15, courses habituelles des achats : Raincheval, siège de l'\textit{Army Purchase Board} (voir f.~46~r\textsuperscript{o}), Puchevillers (voir f.~55~r\textsuperscript{o}), Toutencourt, QG de la Fifth Army (voir f.~49~v\textsuperscript{o}). La visite au maire d'Hérissart, non nommé, fait partie du rôle de l'interprète, « trait d'union entre les Anglais et les habitants du pays » (Fernand-Laurent 1917, p.~XIV). Beaucourt est sans doute Beaucourt-sur-l'Hallue, dans la vallée desservie depuis mai 1916 par la voie normale Daours--Contay (OH 1916-I, p.~273), et non Beaucourt-sur-l'Ancre, village détruit sur l'ancien front ; son château, bâti vers 1750, subsiste (Inventaire IA80000292).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 66, 76.
-- Boraston, J. H. (éd.), Sir Douglas Haig's Despatches (December 1915 – April 1919), Londres et Toronto, J. M. Dent & Sons, 1919, p. 69-70.
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, p. XIV.
 - 'Région Hauts-de-France, Inventaire général du patrimoine culturel, dossier IA80000292 : château de Beaucourt-sur-l''Hallue (enquête 2000).'
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Londres, Macmillan, 1932, p. 273.

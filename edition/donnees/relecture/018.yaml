@@ -128,3 +128,16 @@ noms:
     ligne: 6
     identite: la Lys, rivière (Bac-Saint-Maur, Sailly-sur-la-Lys, Pas-de-Calais)
 source: contrôle
+audit:
+- ligne: 2
+  avant: \ind Encore journée de chaleur caniculaire.
+  apres: \ind Encore journee de chaleur caniculaire.
+  justification: 'aucun accent sur journee ni décalé au-dessus de de (zoom .08 .04 .75 .10 ×2) : seul le point du j est visible ; accent absent transcrit tel quel'
+- ligne: 6
+  avant: la Lys. Causé lgs avec éclusier –
+  apres: le Lys. Causé lgs avec éclusier –
+  justification: 'après le l, petite boucle pleine montante puis long délié, sans panse fermée ni jambage : forme du e, identique à le long (l. 5) (zoom .02 .21 .30 .26 ×3) ; sic pour la, noté dans l''apparat'
+- ligne: 8
+  avant: gazonnée — Trouvé oasis d ombre
+  apres: gazonnée – Trouvé oasis d ombre
+  justification: tiret court, ≈ 0,021 de la largeur (zoom .25 .31 .45 .36 ×3), comme distraire – (≈ 0,017) et lire – (≈ 0,021), moitié du tiret long de clair — (≈ 0,038)

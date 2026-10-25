@@ -3,7 +3,7 @@ fichier: 20251126_105125.jpg
 date: Vendredi 15 et lundi 18 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval et Puchevillers (Somme)
-titre: Boue ; courses de Belle-Église au Quesnoy ; un capitaine de 20 ans « présomptueux & vain »
+titre: Boue ; courses de Belle-Église au Quesnoy ; un capitaine « présomptueux & vain »
 transcription: |
   \sl{15 Vendr} – \hfill Déc.^{b} \sl{1916}
   \ind neigé 1 peu durant nuit. Mais pluie fine
@@ -39,34 +39,10 @@ apparat:
   lemme: Déc.^{b}
   type: abreviation
   note: décembre (b suscrit pour la finale -bre)
-- ligne: 2
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
-- ligne: 3
-  lemme: tt
-  type: abreviation
-  note: tout
 - ligne: 3
   lemme: ruisseaux
   type: lecture
-  note: 'lecture incertaine (r, u, i, s long descendant, e, a, x final) ; autres lectures possibles : rugueux, visqueux'
-- ligne: 6
-  lemme: lgs
-  type: abreviation
-  note: longtemps
-- ligne: 6
-  lemme: office
-  type: emprunt
-  note: bureau
-- ligne: 6
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 7
-  lemme: bp
-  type: abreviation
-  note: beaucoup
+  note: 'lecture incertaine ; autres lectures : rugueux, visqueux'
 - ligne: 8
   lemme: L.
   type: abreviation
@@ -78,53 +54,25 @@ apparat:
 - ligne: 8
   lemme: come
   type: graphie
-  note: comme
+  note: pour comme
 - ligne: 12
   lemme: en
   type: ajout
-  note: 'plus petit et d''une encre plus pâle, serré entre routes et très : ajouté après coup, semble-t-il'
-- ligne: 14
-  lemme: de côté
-  type: lecture
-  note: d et e, sans apostrophe ni 1
-- ligne: 15
-  lemme: Tjours
-  type: abreviation
-  note: toujours
+  note: ajouté après coup, semble-t-il
 - ligne: 17
   lemme: c.
   type: abreviation
   note: certains
-- ligne: 19
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 21
-  lemme: off.
-  type: abreviation
-  note: officier
-- ligne: 21
-  lemme: ( 1 cap.
-  type: lecture
-  note: 'parenthèse ouvrante, et fermante après vain : traits fins et hauts'
 - ligne: 21
   lemme: 1 cap.
   type: abreviation
   note: un capitaine
-- ligne: 21
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 23
-  lemme: Cartes ples
-  type: abreviation
-  note: cartes postales
 - ligne: 23
   lemme: 25c
   type: abreviation
   note: 25 centimes
-critique: Encre noire virée au brun. Un blanc d'environ cinq lignes, sans filet, sépare le 15 du 18 ; les 16 et 17 ne sont pas notés, mais l'entrée du 18 renvoie aux courses de la veille. La page se poursuit au f.~56~r\textsuperscript{o}.
+critique: Les 16 et 17 décembre ne sont pas notés. La page se poursuit au f.~56~r\textsuperscript{o}.
 historique: |
-  Les courses du 18, et sans doute celles du dimanche 17 (« come hier »), suivent le circuit des achats de paille : Belle-Église et Arquèves, à 3 et 4,5~km à l'ouest d'Acheux, où l'on bat la paille depuis le 8 (voir f.~54~r\textsuperscript{o}) ; Raincheval, siège de l'\textit{Army Purchase Board} (voir f.~46~r\textsuperscript{o}) ; Toutencourt, QG de la Fifth Army (f.~49~v\textsuperscript{o}). La « ferme du Quesnoy », revue souvent jusqu'en janvier 1917 (f.~56~r\textsuperscript{o}, 56~v\textsuperscript{o}, 57~v\textsuperscript{o}, 58~r\textsuperscript{o}, 59~r\textsuperscript{o}), est sans doute le lieu-dit habité le Quesnoy, sur la commune de Puchevillers, à 2,3~km au nord-ouest de Toutencourt et 3~km au sud de Raincheval (IGN). Le « cap. de 20 ans » est le capitaine Williams, arrivé le 2 décembre (voir f.~52~v\textsuperscript{o}), dont Hippolyte Combes a noté l'âge et l'ancien emploi d'\textit{office boy} (f.~53~v\textsuperscript{o}) ; le jugement tranche avec le « de + en + sympathique » du 4 (f.~53~r\textsuperscript{o}) et annonce l'incident de Louvencourt du 24 (f.~56~v\textsuperscript{o}).
+  Le 18, et sans doute le dimanche 17 (« come hier »), Hippolyte Combes suit le circuit des achats de paille : Belle-Église et Arquèves, où l'on bat la paille depuis le 8 (voir f.~54~r\textsuperscript{o}) ; Raincheval, siège de l'\textit{Army Purchase Board} (voir f.~46~r\textsuperscript{o}). La « ferme du Quesnoy », souvent revue jusqu'en janvier 1917, est sans doute le lieu-dit le Quesnoy, à Puchevillers (IGN). Le « cap. de 20 ans » est le capitaine Williams, arrivé le 2 décembre (voir f.~52~v\textsuperscript{o}), ancien \textit{office boy} (f.~53~v\textsuperscript{o}). Le 4, Hippolyte Combes le trouvait « de + en + sympathique » (f.~53~r\textsuperscript{o}) ; voir l'incident du 24 (f.~56~v\textsuperscript{o}).
 sources:
 - 'IGN, Géoplateforme, service de géocodage, index des points d''intérêt : « le Quesnoy », lieu-dit habité, Puchevillers (data.geopf.fr, consulté le 18 oct. 2026).'

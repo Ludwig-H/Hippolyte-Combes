@@ -198,3 +198,12 @@ noms:
     ligne: 25
     identite: Montigny-sur-l'Hallue (Somme)
 source: contrôle
+audit:
+- ligne: 15
+  avant: Après-midi, à Herissart, village à peu
+  apres: Après-midi, à Herissart village à peu
+  justification: Aucune virgule après Herissart ; le long délié final du t file vers la droite et passe sur la boucle de tête du f de « funebre » (l. 16) ; rien ne descend sous la ligne avant « village » (zoom ×3 .30 .505 .62 .56).
+- ligne: 17
+  avant: \sl{22 Jeudi} – Journée
+  apres: 22 \sl{Jeudi} – Journée
+  justification: Le trait commence sous le jambage du J et finit après le i ; « 22 », à gauche, n'est pas souligné (zoom ×3 0 .58 .45 .64).

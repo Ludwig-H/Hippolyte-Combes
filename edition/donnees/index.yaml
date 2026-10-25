@@ -80,7 +80,7 @@ personnes:
 - id: bonne_maman
   nom: Bonne-Maman (?)
   court: B. Mm
-  notice: « B. Mm », peut-être une grand-mère de Marguerite ; lecture incertaine
+  notice: «~B. Mm~», peut-être une grand-mère de Marguerite ; lecture incertaine
   formes: []
   attestations:
   - - 60
@@ -136,7 +136,7 @@ personnes:
 - id: calmels_marguerite
   nom: Calmels, Marguerite
   court: Marguerite
-  notice: Marie Marguerite Calmels (1892--1974), fiancée d'Hippolyte Combes ; désignée aussi « ma fiancée », « ma Femme »
+  notice: Marie Marguerite Calmels (1892--1974), fiancée d'Hippolyte Combes ; désignée aussi «~ma fiancée~», «~ma Femme~»
   formes: []
   attestations:
   - - 2
@@ -246,7 +246,7 @@ personnes:
 - id: calmels_mme
   nom: Calmels, Valentine, née Cartairade
   court: Mme Calmels
-  notice: mère de Marguerite ; « Mme C\textsuperscript{h} » (f.~28~r\textsuperscript{o}) et « Mme Cl » (f.~30~v\textsuperscript{o}), lecture incertaine
+  notice: mère de Marguerite ; «~Mme C\textsuperscript{h}~» (f.~28~r\textsuperscript{o}) et «~Mme Cl~» (f.~30~v\textsuperscript{o}), lecture incertaine
   formes: []
   attestations:
   - - 54
@@ -394,7 +394,7 @@ personnes:
 - id: crouzet_tante
   nom: Crouzet (Mme Émile), née Calmels
   court: tante
-  notice: « tante », sans doute Mme Émile Crouzet, née Calmels
+  notice: «~tante~», sans doute Mme Émile Crouzet, née Calmels
   formes: []
   attestations:
   - - 133
@@ -418,7 +418,7 @@ personnes:
 - id: crouzet_jean
   nom: Crouzet, Jean (abbé) ?
   court: Jean
-  notice: « Jean », proche d'Hippolyte Combes, sans doute l'abbé Jean Crouzet
+  notice: «~Jean~», proche d'Hippolyte Combes, sans doute l'abbé Jean Crouzet
   formes: []
   attestations:
   - - 58
@@ -862,7 +862,7 @@ personnes:
 - id: benoit_labre
   nom: Labre, Benoît-Joseph (saint)
   court: Benoît Labre
-  notice: (1748--1783), pèlerin mendiant, né à Amettes, alors bienheureux
+  notice: pèlerin mendiant (1748--1783), né à Amettes, alors bienheureux
   formes: []
   attestations:
   - - 32
@@ -970,7 +970,7 @@ personnes:
 - id: louise
   nom: Louise
   court: Louise
-  notice: de Pierregot, proche de Mme Mignot
+  notice: de Pierregot, proche de Mme Miquel
   formes: []
   attestations:
   - - 183
@@ -1018,7 +1018,7 @@ personnes:
 - id: martin_alexis
   nom: Martin, Alexis
   court: A. Martin
-  notice: (1834--1904), auteur de guides, dont un sur Amiens
+  notice: auteur de guides (1834--1904), dont un sur Amiens
   formes: []
   attestations:
   - - 182
@@ -1059,10 +1059,10 @@ personnes:
   attestations:
   - - 3
     - 3
-- id: mignot
-  nom: Mignot (Mme)
-  court: Mme Mignot
-  notice: habitante de Pierregot ; lecture incertaine
+- id: miquel
+  nom: Miquel (Mme)
+  court: Mme Miquel
+  notice: habitante de Pierregot ; lecture incertaine (Mignot ?)
   formes: []
   attestations:
   - - 183
@@ -1106,9 +1106,9 @@ personnes:
   - - 49
     - 11
 - id: panton
-  nom: Pant. (capitaine)
-  court: Pant.
-  notice: officier de la 152nd Company A.S.C., chef du mess ; nom abrégé (Panton ?)
+  nom: Pant (capitaine)
+  court: Pant
+  notice: officier de la 152nd Company A.S.C., chef du mess ; non identifié (nom peut-être abrégé)
   formes: []
   attestations:
   - - 47
@@ -1134,7 +1134,7 @@ personnes:
 - id: pizzi
   nom: Pizzi (lieutenant)
   court: Pizzi
-  notice: officier interprète de la Mission militaire française (18th Division) ; « Pozzi » au f.~46~v\textsuperscript{o}
+  notice: officier interprète de la Mission militaire française (18th Division) ; «~Pozzi~» au f.~46~v\textsuperscript{o}
   formes: []
   attestations:
   - - 48
@@ -1176,7 +1176,7 @@ personnes:
 - id: schumacher
   nom: Schumacher (adjudant)
   court: Schumacher
-  notice: interprète militaire ; vraisemblablement le « Schuhmacher » de la 53rd Brigade
+  notice: interprète militaire ; vraisemblablement le «~Schuhmacher~» de la 53rd Brigade
   formes: []
   attestations:
   - - 23
@@ -1598,7 +1598,7 @@ lieux:
 - id: albert_basilique
   nom: Albert, basilique Notre-Dame-de-Brebières
   court: basilique d'Albert
-  notice: la « Vierge penchée » du clocher
+  notice: la «~Vierge penchée~» du clocher
   formes: []
   attestations:
   - - 78
@@ -1610,7 +1610,7 @@ lieux:
 - id: albert_briqueteries
   nom: Albert, briqueteries
   court: briqueteries d'Albert
-  notice: secteur des briqueteries (« brickfield area »)
+  notice: secteur des briqueteries («~brickfield area~»)
   formes: []
   attestations:
   - - 80
@@ -1977,7 +1977,7 @@ lieux:
 - id: beaumont_hamel
   nom: Beaumont-Hamel (Somme)
   court: Beaumont-Hamel
-  notice: « Beaumont s/ Ancre »
+  notice: «~Beaumont s/ Ancre~»
   formes: []
   attestations:
   - - 98
@@ -2045,7 +2045,7 @@ lieux:
 - id: belle_eglise
   nom: Belle-Église (ferme ; Somme)
   court: Belle-Église
-  notice: ferme entre Arquèves et Louvencourt (« Belle Église Farm »), tenue par des fermiers belges ; commune de rattachement non établie
+  notice: ferme entre Arquèves et Louvencourt («~Belle Église Farm~»), tenue par des fermiers belges ; commune de rattachement non établie
   formes: []
   attestations:
   - - 95
@@ -2560,7 +2560,7 @@ lieux:
 - id: frevent_hotel_amiens
   nom: Frévent, hôtel d'Amiens ?
   court: hôtel d'Amiens
-  notice: hôtel à l'enseigne « d'Amiens », à Frévent (ou à Doullens)
+  notice: hôtel à l'enseigne «~d'Amiens~», à Frévent (ou à Doullens)
   formes: []
   attestations:
   - - 98
@@ -2961,7 +2961,7 @@ lieux:
 - id: mesnil
   nom: Mesnil-Martinsart (Somme)
   court: Mesnil
-  notice: '« au Mesnil » : village natal de Louis-Fernand Flutre, fils des instituteurs Flutre'
+  notice: '«~au Mesnil~» : village natal de Louis-Fernand Flutre, fils des instituteurs Flutre'
   formes: []
   attestations:
   - - 168

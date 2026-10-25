@@ -161,3 +161,10 @@ noms:
     ligne: 8
     identite: L'Arbret (Pas-de-Calais)
 source: contrôle
+audit:
+- ligne: 12
+  avant: \ind ce gosse de Williams . – —
+  apres: |
+    \ind ce gosse de Williams . – —
+    \blanc{1}
+  justification: entre la ligne de Williams (y ≈ .41) et le filet (y ≈ .49) l'interligne est double, soit une ligne d'écriture laissée blanche, que la transcription publiée omettait (les numéros de ligne de l'apparat ne changent pas)

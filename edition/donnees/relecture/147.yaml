@@ -167,3 +167,12 @@ noms:
     ligne: 18
     identite: café de Hérissart, nom incertain
 source: contrôle
+audit:
+- ligne: 1
+  avant: Merc. \sl{7 (suite)} \hfill \sl{Février 1917}
+  apres: merc. \sl{7 (suite)} \hfill \sl{Février 1917}
+  justification: m minuscule, au module de e-r-c, sans long délié d'attaque (zoom ×3 [.05 0 .22 .06]) ; même graphie « merc » aux pages voisines
+- ligne: 7
+  avant: Lui ai téléphoné du bureau Mission pour lui
+  apres: Lui ai telephoné du bureau Mission pour lui
+  justification: aucun accent au-dessus des deux premiers e (zoom ×3 [.20 .25 .42 .32]) ; seul le é final porte son accent

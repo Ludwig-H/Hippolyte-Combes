@@ -20,7 +20,7 @@ transcription: |
   \blanc{2}
   \filet
   Payé à fermière : lait et bière . hier : 20c
-  \ind et aujourd hui : 20 c. +10c – +10c
+  \ind et aujourd hui . 20 c. +10c – +10c
   A Bailleul : cartes ples . 50c ., 60c ., 0.10 varia
   \ind " : 4 \inc{pattes} cuivre M. \inc{guetin} : 1^{f} 20c
   \filet
@@ -30,30 +30,6 @@ apparat:
   lemme: Mar
   type: abreviation
   note: mardi
-- ligne: 2
-  lemme: Tjours
-  type: abreviation
-  note: toujours
-- ligne: 2
-  lemme: tempér^{re}
-  type: abreviation
-  note: température
-- ligne: 3
-  lemme: \fr{1}{2} jour
-  type: abreviation
-  note: demi-journée
-- ligne: 5
-  lemme: tt
-  type: abreviation
-  note: tout
-- ligne: 5
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 6
-  lemme: garret
-  type: emprunt
-  note: 'anglais : mansarde, grenier aménagé'
 - ligne: 8
   lemme: 4^{h}
   type: abreviation
@@ -65,19 +41,11 @@ apparat:
 - ligne: 11
   lemme: \ill
   type: lecture
-  note: 'groupe final (deux boucles hautes, a, long délié) non résolu : « la », « là » ?'
-- ligne: 12
-  lemme: 6^{H}
-  type: abreviation
-  note: six heures
+  note: mot non résolu ; « la » ou « là » ?
 - ligne: 15
   lemme: cartes ples
   type: abreviation
   note: cartes postales
-- ligne: 15
-  lemme: varia
-  type: emprunt
-  note: 'latin : divers'
 - ligne: 16
   lemme: '"'
   type: abreviation
@@ -85,23 +53,17 @@ apparat:
 - ligne: 16
   lemme: \inc{pattes}
   type: lecture
-  note: p, a, tt sous une barre, e, finale en crochet ; « patter[es] » pour patères possible
-- ligne: 16
-  lemme: M.
-  type: abreviation
-  note: Monsieur
+  note: lecture incertaine ; peut-être patères
 - ligne: 16
   lemme: \inc{guetin}
   type: lecture
-  note: 'g minuscule, u, e, t à longue barre, puis arche et jambage peu distincts : « Guetin » ou « Guethin »'
+  note: 'lecture incertaine ; autre lecture : Guethin'
 - ligne: 16
   lemme: 1^{f} 20c
   type: abreviation
   note: 1 franc 20 centimes
-critique: 'Encre noire virée au brun. Seul le haut de la page est écrit : les comptes, encadrés de deux filets, laissent blanc le dernier tiers du feuillet.'
 historique: |
-  Libre ce jour-là, Hippolyte Combes gagne à pied Bailleul (Nord), à 3 km environ de son cantonnement. Occupée par les Britanniques le 14 octobre 1914, la ville est en 1916 un grand centre ferroviaire, aérien et hospitalier et abrite un QG de corps d'armée jusqu'en juillet 1917 ; elle tombe le 15 avril 1918, pendant la bataille de la Lys (CWGC, Bailleul Communal Cemetery Extension). L'hôtel de ville est dominé par le beffroi, dont la salle basse gothique remonte au XII\textsuperscript{e} siècle ; la ville étant rasée à 98 \% en 1918, l'hôtel de ville est reconstruit en 1929 (Mérimée PA00107358, PA59000232), et le beffroi figure depuis 2005 parmi les beffrois de Belgique et de France inscrits au patrimoine mondial (UNESCO 943-033). Sur l'église Saint-Vaast, voir f. 4 v\textsuperscript{o}. Hippolyte Combes connaît Béthune pour avoir servi en mai–juillet 1915 dans ce secteur auprès du \textit{1\textsuperscript{st} Battalion, Irish Guards} (voir le plan autographe des \textit{Feuillets de Route}, chap.~\textsc{v}–\textsc{vi}, en annexe, et f. 46 v\textsuperscript{o}). Les « 4 pattes cuivre » (lecture incertaine) achetées chez M. Guetin, commerçant non identifié, sont peut-être des patères pour l'installation du « garret ».
+  Hippolyte Combes va à pied à Bailleul (Nord), à 3 km environ de son cantonnement. Occupée par les Britanniques le 14 octobre 1914, la ville est en 1916 un centre ferroviaire, aérien et hospitalier et le siège d'un QG de corps d'armée ; elle tombe le 15 avril 1918, pendant la bataille de la Lys (CWGC, Bailleul Communal Cemetery Extension). Rasée à 98 \% en 1918, elle reconstruit son hôtel de ville en 1929 (Mérimée PA00107358, PA59000232). Sur l'église Saint-Vaast, voir f. 4 v\textsuperscript{o}. Combes a servi dans le secteur de Béthune en mai–juillet 1915 auprès du \textit{1\textsuperscript{st} Battalion, Irish Guards} (voir f. 46 v\textsuperscript{o}). Les « pattes cuivre » (lecture incertaine) achetées chez M. Guetin, commerçant non identifié, sont peut-être des patères pour le « garret ».
 sources:
 - Commonwealth War Graves Commission, Bailleul Communal Cemetery Extension (Nord), historique du cimetière, fiche 2000048.
 - Ministère de la Culture, base Mérimée (POP), notices PA00107358 (beffroi et hôtel de ville de Bailleul) et PA59000232 (monument aux morts de Bailleul).
-- UNESCO, Centre du patrimoine mondial, « Beffrois de Belgique et de France », n° 943bis, élément 943-033 (Bailleul).

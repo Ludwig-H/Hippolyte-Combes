@@ -176,3 +176,28 @@ noms:
     ligne: 21
     identite: Hérissart (Somme)
 source: contrôle
+audit:
+- ligne: 1
+  avant: \sl{Avril 1917}
+  apres: Avril \sl{1917}
+  justification: le trait ne commence que sous le l final d'Avril et court sous 1917 seulement
+- ligne: 8
+  avant: 27 50
+  apres: 27^{f}50
+  justification: 'au-dessus du 5, un petit crochet prolongé d''un trait horizontal, tracé à part ; le 5 a son propre drapeau plus bas : f monétaire suscrit'
+- ligne: 9
+  avant: \sl{2 Lundi}.
+  apres: 2 \sl{Lundi}.
+  justification: le soulignement commence après le 2, sous le L de Lundi
+- ligne: 13
+  avant: après-midi
+  apres: apres-midi
+  justification: aucun accent au-dessus du e (zoom ×3)
+- ligne: 19
+  avant: Toutencourt, (
+  apres: Toutencourt (
+  justification: aucune virgule entre le t final et la parenthèse ; le trait vertical au-dessus est le jambage du & de la ligne précédente
+- ligne: 23
+  avant: après-midi
+  apres: apres-midi
+  justification: aucun accent au-dessus du e (zoom ×3)

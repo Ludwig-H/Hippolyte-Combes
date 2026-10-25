@@ -3,7 +3,7 @@ fichier: 20251126_110302.jpg
 date: Jeudi 1er février 1917
 mois: Février 1917
 lieux: Toulouse (Haute-Garonne)
-titre: Grand froid ; Nazareth ; montre en or chez Pfister ; conférence manquée ; adieu à Toulouse
+titre: Grand froid ; Nazareth ; montre en or chez Pfister ; adieu à Toulouse
 transcription: |
   1^{er} \sl{Jeudi} \hfill \sl{Février 1917} —
   Temps très froid. Gelé dur. Dans la journée, soleil
@@ -15,7 +15,7 @@ transcription: |
   après déjeuner, descendu ville et. av Henriette
   vers 4^{H} \fr{1}{2}, à \add{gare, à propos panier fleurs} Nazareth, revu \inc{tte} ma famille
   Choisi montre or ch Pfister.
-  Chapelle archevêché : conférence, pas eu lieu –
+  Chapelle archeveché : conférence, pas eu lieu –
   Rentré dîner à S^{te} Marie —
   vers 9^{H} \fr{1}{2}, à pied j-à rue de Languedoc —
   \ind Ville silencieuse. Maisons fermées. Je me
@@ -27,78 +27,38 @@ transcription: |
   Remboursé à mes voisines : 3^{f} \inc{75}
   (12 œufs, \fr{1}{2} beurre, 1 \inc{boulangeon})
 apparat:
-- ligne: 1
-  lemme: 1^{er}
-  type: abreviation
-  note: premier
-- ligne: 4
-  lemme: Mme
-  type: abreviation
-  note: Madame
 - ligne: 6
   lemme: Mte
   type: abreviation
   note: Marguerite (Calmels)
-- ligne: 6
-  lemme: 11^{H} \fr{1}{2}
-  type: abreviation
-  note: onze heures et demie
-- ligne: 7
-  lemme: S^{te}
-  type: abreviation
-  note: Sainte
 - ligne: 8
   lemme: et.
   type: lecture
-  note: e, t barré et point nets ; sens obscur
-- ligne: 8
-  lemme: av
-  type: abreviation
-  note: avec
-- ligne: 9
-  lemme: 4^{H} \fr{1}{2}
-  type: abreviation
-  note: quatre heures et demie
+  note: lecture sûre ; sens obscur
 - ligne: 9
   lemme: tte
-  type: abreviation
-  note: toute ; lecture incertaine, tracés serrés sous les jambages de la ligne supérieure (ts possible)
+  type: lecture
+  note: 'toute ; lecture incertaine ; autre lecture : ts'
 - ligne: 10
   lemme: ch
   type: abreviation
   note: chez
-- ligne: 12
-  lemme: S^{te}
-  type: abreviation
-  note: Sainte
 - ligne: 13
   lemme: 9^{H} \fr{1}{2}
   type: abreviation
   note: neuf heures et demie
-- ligne: 13
-  lemme: j-à
-  type: abreviation
-  note: jusqu'à
 - ligne: 15
   lemme: complet^{t}
   type: abreviation
   note: complètement
 - ligne: 17
-  lemme: Trams
-  type: abreviation
-  note: tramways
-- ligne: 17
   lemme: 30c.
   type: abreviation
   note: centimes (de même aux montants suivants)
 - ligne: 18
-  lemme: Food
-  type: emprunt
-  note: nourriture
-- ligne: 18
   lemme: boulangeon
   type: lecture
-  note: 'finale -geon nette ; un jambage de plus après ou : bourlangeon possible ; même mot l. 20'
+  note: 'lecture incertaine ; autre lecture : bourlangeon (de même l. 20)'
 - ligne: 19
   lemme: 3^{f}
   type: abreviation
@@ -106,18 +66,15 @@ apparat:
 - ligne: 19
   lemme: '75'
   type: lecture
-  note: chiffre à barre de tête descendant sous la ligne (7), puis 5 ; 25 possible
+  note: 'lecture incertaine ; autre lecture : 25'
 - ligne: 20
   lemme: \fr{1}{2} beurre
   type: lecture
-  note: demi (sans doute demi-livre) ; fraction empilée dont le 2 bouclé prend l'aspect de « de »
-critique: Les quatre lignes de comptes, séparées du journal par un blanc, s'ouvrent sur une équerre dont le trait vertical descend jusqu'au bas de la page.
+  note: sans doute demi-livre de beurre
 historique: |
-  Mme de Labarthe, la « gde amie » d'Hippolyte Combes, est sans doute la mère de son ami le docteur de L— (voir f.~28~v\textsuperscript{o}) ; les dames Delsol, ses voisines, et Henriette ne sont pas identifiées. Du Capitole part le tram de la Côte-Pavée, qui dessert Sainte-Marie, maison des Crouzet (Baedeker 1912, p.~298). La chapelle de Nazareth, rue Philippe-Féral, était un lieu de messes anniversaires (\textit{Le Télégramme}, 10 mars 1916, p.~4) ; le sens de « revu tte ma famille » est incertain. Pfister, horloger-bijoutier au 24, place des Carmes, angle de la rue de Languedoc, avait vendu le sautoir (f.~28~v\textsuperscript{o}) ; la montre est payée le lendemain (f.~69~r\textsuperscript{o}). La conférence était celle de l'abbé Thellier de Poncheville, aumônier militaire, annoncée pour 17~h~30 dans la chapelle de l'archevêché, place du Salin, partant en mission au Canada et aux États-Unis (\textit{L'Express du Midi}, 31 janv. et 1\textsuperscript{er} févr. 1917, p.~3). Hippolyte Combes reviendra : nommé au lycée de Toulouse vers 1937, il s'y fixera, 38, rue du Taur (Pouvillon 1938 ; PC-Livre).
+  Sur Mme de Labarthe, voir f.~28~v\textsuperscript{o} ; les dames Delsol et Henriette ne sont pas identifiées. La chapelle de Nazareth accueillait des messes anniversaires (\textit{Le Télégramme}, 10 mars 1916, p.~4). Pfister, horloger-bijoutier au 24, place des Carmes, avait vendu le sautoir (f.~28~v\textsuperscript{o}) ; la montre est payée le 2 (f.~69~r\textsuperscript{o}). La conférence était celle de l'abbé Thellier de Poncheville à la chapelle de l'archevêché, avant une mission en Amérique du Nord (\textit{L'Express du Midi}, 31 janv. et 1\textsuperscript{er} févr. 1917, p.~3). Combes reviendra pourtant : nommé au lycée de Toulouse vers 1937, il s'y fixera, 38, rue du Taur (Pouvillon 1938 ; PC-Livre).
 sources:
-- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, p. 298 et 305-306.
 - Le Télégramme (Toulouse), 10 mars 1916, p. 4 (Rosalis, ark:/12148/bd6t53866190s).
 - L'Express du Midi (Toulouse), 25 déc. 1911, p. 3 (publicité Pfister) ; 31 janv. 1917, p. 3, et 1er févr. 1917, p. 3 (Rosalis, ark:/12148/bpt6k5383179k, bpt6k5385026q, bpt6k53850274).
-- Le Télégramme (Toulouse), 1er févr. 1917, p. 3 (Rosalis, ark:/12148/bd6t538665171).
 - Pouvillon, H., discours de réception à l'Académie de Montauban (7 févr. 1938), Recueil de l'Académie de Montauban, 1938 (Gallica, ark:/12148/bpt6k65323798).
-- Combes, P., livre familial dactylographié (archives familiales, Livre_Pierre_Combes).
+- Combes, P., livre familial dactylographié (archives familiales).

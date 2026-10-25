@@ -184,3 +184,8 @@ noms:
     ligne: 18
     identite: Varennes (Somme)
 source: contrôle
+audit:
+- ligne: 11
+  avant: '\ind — Washing : 70. — \hfill Concert Y.M.C.A : 30c'
+  apres: '\ind — Washing : 70. — \hfill Concert Y.M.C.A. : 30c'
+  justification: point à mi-hauteur après le A, comme après Y, M et C, puis deux-points distincts (zoom [.78 .35 1.0 .41] ×3) ; même graphie Y.M.C.A. qu'à la l. 7

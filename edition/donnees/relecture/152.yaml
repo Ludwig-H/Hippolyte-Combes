@@ -137,3 +137,8 @@ noms:
     ligne: 10
     identite: Forêt-Noire (Bade-Wurtemberg), provenance du kirsch
 source: contrôle
+audit:
+- ligne: 9
+  avant: Vu M. Romert. Ma offert café et excellent
+  apres: Vu M. \inc{Romert}. Ma offert café et excellent
+  justification: au zoom ×3, après R-o le nombre de jambages (m à trois ou u à deux) n'est pas assuré et la lettre fermée suivante peut être e ou a ; Romart ou Rouart restent possibles ; nom non identifié, aucun contrôle externe

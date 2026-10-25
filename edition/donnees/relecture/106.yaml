@@ -190,3 +190,12 @@ noms:
     ligne: 23
     identite: Louvencourt (Somme)
 source: contrôle
+audit:
+- ligne: 19
+  avant: \ind routes redevenues boueuses
+  apres: \ind routes, redevenues boueuses
+  justification: zoom ×3 [0 .655 .4 .705] ; trait vertical détaché entre routes et redevenues, de la hauteur d'œil à sous la ligne de base, forme habituelle de la virgule (cf. Matinée, matin, midi sur la page)
+- ligne: 25
+  avant: Lt Walsh & son interprète, invités à diner
+  apres: Lt Walsh & un interprète, invités à diner
+  justification: zoom ×3 [0 .915 .45 .975] ; après la petite esperluette bouclée, quatre jambages (u + n) sans s initial ni o fermé ; le texte dit « un interprète » (le commentaire historique, qui parle de « son interprète », est à harmoniser)

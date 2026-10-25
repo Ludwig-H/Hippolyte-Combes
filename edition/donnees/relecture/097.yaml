@@ -147,3 +147,8 @@ noms:
     ligne: 17
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+audit:
+- ligne: 15
+  avant: prof.
+  apres: prof
+  justification: 'Zoom ×3 [.80 .60 1.0 .67] : p, r, o, f à longue haste, puis trait arqué remontant et redescendant ; aucun point après ce trait.'

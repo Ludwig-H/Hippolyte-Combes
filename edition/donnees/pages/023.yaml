@@ -3,7 +3,7 @@ fichier: 20251126_093922.jpg
 date: Dimanche 20 et lundi 21 août 1916
 mois: Août 1916
 lieux: La Croix-du-Bac (Steenwerck, Nord)
-titre: Fourrage vert avec Curtis ; café chez M. Barbry avec deux adjudants ; sac expédié à Nogent
+titre: Fourrage vert avec Curtis ; café chez M. Barbry ; sac expédié à Nogent
 transcription: |
   \sl{20 D} – \hfill \sl{Aout 1916}
   \ind Tour à tour averses & sunshine \trait
@@ -39,10 +39,6 @@ apparat:
   lemme: sunshine
   type: emprunt
   note: soleil, éclaircies
-- ligne: 3
-  lemme: asz
-  type: abreviation
-  note: assez
 - ligne: 4
   lemme: C^{tis}
   type: abreviation
@@ -51,42 +47,26 @@ apparat:
   lemme: to the fields for
   type: emprunt
   note: 'avec green forage (l. 5) : aux champs, chercher du fourrage vert'
-- ligne: 5
-  lemme: green forage
-  type: emprunt
-  note: fourrage vert
-- ligne: 5
-  lemme: chz
-  type: abreviation
-  note: chez
 - ligne: 6
   lemme: propre
   type: abreviation
   note: propriétaire
-- ligne: 6
-  lemme: C^{tis}
-  type: lecture
-  note: Curtis, même forme qu'à la l. 4
 - ligne: 9
   lemme: \inc{redevenu}
   type: lecture
-  note: un e lié précède devenu, r initial réduit ; ou devenu
+  note: 'lecture incertaine ; autre lecture : devenu'
 - ligne: 10
   lemme: Me \inc{fich} \ill
   type: lecture
-  note: f, c, h lisibles, puis deux hastes barrées (H ou !!) ; « Me fiche ! » ? ; aucune biffure
+  note: lecture incertaine ; « Me fiche ! » ?
 - ligne: 11
   lemme: \inc{Repare}
   type: lecture
-  note: initiale de même forme que le R de Réagi (l. 9) ; pour Prépare ?
-- ligne: 13
-  lemme: gd
-  type: abreviation
-  note: grand
+  note: lecture incertaine ; pour Prépare ?
 - ligne: 13
   lemme: \inc{horizons}
   type: lecture
-  note: finale plongeante, s final ou n prolongé ; ou horizon
+  note: 'lecture incertaine ; autre lecture : horizon'
 - ligne: 15
   lemme: L.
   type: abreviation
@@ -102,27 +82,19 @@ apparat:
 - ligne: 17
   lemme: trè
   type: lecture
-  note: pour très ; aucune s finale ; le trait haut peut être la barre du t (tre)
+  note: pour très
 - ligne: 17
   lemme: merv^{x}
   type: abreviation
   note: merveilleux
-- ligne: 17
-  lemme: sunset
-  type: emprunt
-  note: coucher de soleil
 - ligne: 22
   lemme: \inc{Steenwerk}
-  type: graphie
-  note: Steenwerck (Nord) ; aucun c visible devant le k
+  type: lecture
+  note: lecture incertaine, sans c ; pour Steenwerck (Nord)
 - ligne: 23
   lemme: Proprie
   type: abreviation
   note: propriétaire
-- ligne: 23
-  lemme: 5^{f}
-  type: abreviation
-  note: 5 francs
 - ligne: 23
   lemme: cooking, washing
   type: emprunt
@@ -131,10 +103,6 @@ apparat:
   lemme: 2 eggs
   type: emprunt
   note: deux œufs
-- ligne: 23
-  lemme: 2 eggs)
-  type: disposition
-  note: écrit sous washing, à droite de la l. 24, faute de place
 - ligne: 24
   lemme: groom
   type: emprunt
@@ -142,14 +110,13 @@ apparat:
 - ligne: 24
   lemme: 2 —
   type: compte
-  note: 2 francs ; aucun f écrit
+  note: 2 francs
 - ligne: 24
   lemme: Varia
   type: emprunt
   note: divers (latin)
-critique: Les deux journées sont séparées par un filet ; les comptes du 21 sont ouverts par un grand crochet. Écriture plus rapide et plus heurtée aux l. 9-11, dont plusieurs mots restent incertains.
 historique: |
-  Le lieutenant Curtis, « crétin » la veille (voir f. 11 r\textsuperscript{o}), n'est pas identifié. Le \textit{green forage} acheté sur pied complète la ration de foin des chevaux (voir f. 9 v\textsuperscript{o}). M. Barbry, le « propre » à qui Hippolyte Combes paie le lendemain cuisine, blanchissage et œufs, est son logeur ; un lien avec la blanchisserie Barbry (voir f. 11 v\textsuperscript{o}) reste possible. Les adjudants sont des interprètes du bureau divisionnaire de la Mission ; Schumacher, encore « sergent » dans la lettre d'Hippolyte Combes du 25 février 1916 (en annexe, p.~\pageref{annexe:doc1}), est très probablement le « Schuhmacher, the interpreter at Brigade H.Q. » de la 53rd Brigade (Banks \& Chell 1924, p. 310). Lupin (ou Lépin, voir f. 43 r\textsuperscript{o}) n'est pas identifié. Le départ annoncé a lieu le 25 août, en train de Bailleul vers Saint-Pol (JMO 7/Bedf, 23-25 août 1916). Nogent est Nogent-le-Rotrou (Eure-et-Loir), où Hippolyte Combes enseignait au collège et gardait son logement, 47, rue Saint-Hilaire (carte-lettre du 25 nov. 1918 ; envoi détaillé au f. 12 v\textsuperscript{o}).
+  Sur le lieutenant Curtis, voir f. 11 r\textsuperscript{o}. M. Barbry, payé le 21 pour cuisine, blanchissage et œufs, est son logeur ; un lien avec la blanchisserie Barbry (f. 11 v\textsuperscript{o}) est possible. Les adjudants sont des interprètes de la Mission. Schumacher, encore « sergent » dans la lettre du 25 février 1916 (en annexe, p.~\pageref{annexe:doc1}), est sans doute le « Schuhmacher, the interpreter at Brigade H.Q. » de la 53rd Brigade (Banks \& Chell 1924, p. 310). Lupin (ou Lépin, voir f. 43 r\textsuperscript{o}) n'est pas identifié. Le départ a lieu le 25 août, en train de Bailleul vers Saint-Pol (JMO 7/Bedf, 23-25 août 1916). Nogent est Nogent-le-Rotrou (Eure-et-Loir), où il enseignait au collège (carte-lettre du 25 nov. 1918 ; envoi détaillé au f. 12 v\textsuperscript{o}).
 sources:
 - Banks, T. M., et Chell, R. A., With the 10th Essex in France, 2e éd., Londres, Gay & Hancock, 1924, p. 310.
 - 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (ordre d''opérations n° 26 du 23 août ; 24-25 août).'

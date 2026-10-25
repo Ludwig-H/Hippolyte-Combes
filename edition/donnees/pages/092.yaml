@@ -3,7 +3,7 @@ fichier: 20251126_104636.jpg
 date: Samedi 4 novembre 1916
 mois: Novembre 1916
 lieux: Acheux-en-Amiénois, Bertrancourt et Albert (Somme)
-titre: À pied à Bertrancourt (interprètes Jamet et Cordonnier) ; retour en camion à Albert
+titre: À Bertrancourt (interprètes Jamet et Cordonnier) ; retour en camion à Albert
 transcription: |
   \sl{Sam. 4} \hfill \sl{Nov^{b} /16}
   \ind Matin, dû me rendre à Bertrancourt
@@ -25,25 +25,9 @@ transcription: |
   gelees d'automnes. Routes, affr^{t} boueuses
 apparat:
 - ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
-- ligne: 1
   lemme: Nov^{b} /16
   type: abreviation
   note: novembre 1916
-- ligne: 3
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 3
-  lemme: '1'
-  type: abreviation
-  note: un
-- ligne: 3
-  lemme: lorry
-  type: emprunt
-  note: camion
 - ligne: 3
   lemme: kil
   type: abreviation
@@ -64,26 +48,10 @@ apparat:
   lemme: fr.
   type: abreviation
   note: française
-- ligne: 10
-  lemme: 2^{e}
-  type: abreviation
-  note: deuxième
 - ligne: 11
   lemme: R.F.A
   type: abreviation
   note: 'Royal Field Artillery : artillerie de campagne britannique'
-- ligne: 13
-  lemme: lunch
-  type: emprunt
-  note: déjeuner
-- ligne: 13
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 13
-  lemme: lorry
-  type: emprunt
-  note: camion
 - ligne: 14
   lemme: Coy
   type: abreviation
@@ -93,24 +61,19 @@ apparat:
   type: abreviation
   note: française
 - ligne: 15
-  lemme: Lt
-  type: abreviation
-  note: lieutenant
-- ligne: 15
   lemme: Pozzi
   type: lecture
-  note: 'o fermé net après le P (pour Pizzi, cf. f. 24 v°, 43 r°, 45 v°)'
+  note: ainsi écrit ; ailleurs Pizzi (f. 24 v°, 43 r°, 45 v°)
 - ligne: 18
   lemme: automnes
   type: lecture
-  note: 'pluriel : e puis s final plongeant'
+  note: ainsi, au pluriel
 - ligne: 18
   lemme: affr^{t}
   type: abreviation
   note: affreusement
-critique: Encre violette régulière ; le relevé des dépenses du jour est porté au bas de la page, sous un filet.
 historique: |
-  Bertrancourt, à 3~km au nord-est d'Acheux, abrite des troupes du V Corps qui prépare l'attaque au nord de l'Ancre. La 2nd Division, l'une des quatre chargées du principal effort du 13 novembre (OH 1916-II, p.~477), y a sans doute le QG situé « à gauche route de Bus » (Bus-lès-Artois). Les tentes, huttes, voitures et caissons sont ceux de cette concentration, maintenue par une attaque « constamment remise mais jamais annulée » (OH 1916-II, p.~480). La « question de pétrole », qui le mène encore à Belle-Église le 6 (f.~47~v\textsuperscript{o}), porte peut-être sur l'essence, livrée en bidons de 2 ou 4 gallons (\textit{Statistics} 1922, p.~846). Ni Jamet ni Cordonnier, attaché à la \textit{Royal Field Artillery}, ne sont identifiés. La rencontre de Béthune renvoie au service d'Hippolyte Combes en mai–juillet 1915 auprès du \textit{1\textsuperscript{st} Battalion, Irish Guards} (alors rattaché à la \textit{4\textsuperscript{th} Guards Brigade} de cette même \textit{2\textsuperscript{nd} Division}), désormais formellement attesté de sa main par les chapitres~\textsc{v} et~\textsc{vi} du plan de ses \textit{Feuillets de Route} (\textit{« Avec les 1\textsuperscript{st} Irish. Guards »}, \textit{« La veille d'une g\textsuperscript{de} attaque (Mai 1915) »}, en annexe ; Kipling 1923, p.~63–95). Le lieutenant de la Mission vu à Albert est sans doute l'officier interprète de la 18th Division (voir f.~45~v\textsuperscript{o}).
+  Bertrancourt est à 3~km au nord-est d'Acheux. Le V Corps y prépare l'attaque au nord de l'Ancre, « constamment remise mais jamais annulée » (OH 1916-II, p.~480). La 2nd Division, l'une des quatre de l'effort principal du 13 novembre (ibid., p.~477), y a sans doute son QG, « à gauche route de Bus » (Bus-lès-Artois). La « question de pétrole » (voir aussi f.~47~v\textsuperscript{o}) porte peut-être sur l'essence, livrée en bidons de 2 ou 4 gallons (\textit{Statistics} 1922, p.~846). Jamet et Cordonnier, attaché à la \textit{Royal Field Artillery}, ne sont pas identifiés. Hippolyte Combes a connu Cordonnier à Béthune en mai–juillet 1915, quand il servait au \textit{1\textsuperscript{st} Irish Guards}, alors dans la 2nd Division (Kipling 1923, p.~63--95). Le « Lt Pozzi », ailleurs Pizzi, est sans doute l'officier interprète de la 18th Division (voir f.~45~v\textsuperscript{o}).
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 477 et 480.
 - War Office, Statistics of the Military Effort of the British Empire during the Great War, 1914-1920, London, HMSO, 1922, p. 846.

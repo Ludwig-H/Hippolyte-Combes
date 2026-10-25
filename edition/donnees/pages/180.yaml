@@ -3,7 +3,7 @@ fichier: 20251126_111630.jpg
 date: Samedi 14 – mardi 17 avril 1917
 mois: Avril 1917
 lieux: Hérissart, Pierregot, Fréchencourt et Rubempré (Somme)
-titre: Beau samedi, puis pluies ; soirée chez les Denis ; neige et grêle le 17, retour de l'hiver
+titre: Beau samedi, puis pluies ; soirée chez les Denis ; neige et grêle le 17
 transcription: |
   \sl{14 Sam.} \hfill — \sl{Avril 1917} —
   \ind Enfin, très belle journée,
@@ -32,44 +32,11 @@ transcription: |
   Matin & après-midi, courses en auto, à
   \ind Frechencourt & Rubempré
 apparat:
-- ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
-- ligne: 6
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
-- ligne: 8
-  lemme: repos absolu
-  type: lecture
-  note: a-b-s-o-l-u distincts
-- ligne: 9
-  lemme: Office
-  type: emprunt
-  note: bureau
-- ligne: 10
-  lemme: Washing
-  type: emprunt
-  note: blanchissage
-- ligne: 14
-  lemme: chz
-  type: abreviation
-  note: chez
 - ligne: 15
   lemme: home
   type: emprunt
   note: chez moi, au logement
-- ligne: 15
-  lemme: '1'
-  type: abreviation
-  note: une
-- ligne: 16
-  lemme: ds
-  type: abreviation
-  note: dans
-critique: Encre violette ; la fin de la journée du 17, depuis « C'est de nouveau l'hiver », est d'un violet plus clair.
 historique: |
-  Le mauvais temps borne les courses du service d'achats de paille et de fourrage aux villages proches d'Hérissart : Pierregot et Rubempré, au sud-ouest et à l'ouest, Fréchencourt, dans la vallée de l'Hallue, déjà parcourus les jours précédents (voir f.~89 r\textsuperscript{o}). L'« Office » où Hippolyte Combes passe son dimanche à lire est sans doute le bureau que le service d'achats occupe, avec le mess, au n\textsuperscript{o}~104 d'Hérissart depuis le 7 février (voir f.~74 r\textsuperscript{o}). La note de blanchissage, 60 c., est dans la moyenne de l'hiver, entre 50 c. et 1 F 25 ; la blanchisseuse d'Hérissart s'appelait Albertine (f.~78 v\textsuperscript{o}). La famille Denis, chez qui Hippolyte Combes passe la soirée du 16 et qu'il reverra jusqu'à la fin d'avril, n'est pas identifiée. Ce lundi 16 avril, l'armée française lance entre Soissons et Reims l'offensive Nivelle du Chemin des Dames, par un temps froid et pluvieux (Offenstadt 2004) ; le carnet n'en dit rien.
+  Le mauvais temps limite les courses du service d'achats de paille et de fourrage aux villages proches d'Hérissart : Pierregot, Rubempré, Fréchencourt (voir f.~89 r\textsuperscript{o}). L'« Office » où Hippolyte Combes passe son dimanche à lire est sans doute le bureau que le service occupe, avec le mess, au n\textsuperscript{o}~104 d'Hérissart depuis le 7 février (voir f.~74 r\textsuperscript{o}). Le blanchissage, 60 c., est dans la moyenne de l'hiver (de 50 c. à 1 F 25). La famille Denis n'est pas identifiée (voir f.~89 r\textsuperscript{o}). Le lundi 16 avril, l'armée française lance l'offensive Nivelle au Chemin des Dames, entre Soissons et Reims, par un temps froid et pluvieux (Offenstadt 2004) ; le carnet n'en dit rien.
 sources:
 - Offenstadt, N. (dir.), Le Chemin des Dames. De l'événement à la mémoire, Paris, Stock, 2004.

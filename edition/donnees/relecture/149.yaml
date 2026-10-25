@@ -126,3 +126,8 @@ noms:
     ligne: 7
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+audit:
+- ligne: 10
+  avant: \inc{2 h.} de marche.
+  apres: \inc{45 m.} de marche.
+  justification: zoom ×4 [0 .425 .14 .47] ; premier chiffre à panse basse, haste droite et barre transversale (4 fermé, sans tête de 2) ; puis haute boucle fermée descendant sous la ligne (5 en ℓ), jambages détachés (m) et point ; le h de « 1 h. » (l. 11) a une arche liée à une haste courte

@@ -3,7 +3,7 @@ fichier: 20251126_094449.jpg
 date: Dimanche 3 septembre 1916 (suite)
 mois: Septembre 1916
 lieux: Marquay et Saint-Pol-sur-Ternoise (Pas-de-Calais)
-titre: 'Dimanche 3 septembre (suite) : avoine sur pied ; achats à Saint-Pol, carte de la Somme'
+titre: 'Dimanche 3 septembre (suite) : avoine sur pied ; achats à Saint-Pol'
 transcription: |
   \sl{3 D.} \hfill Sept^{bre} /16
   \ind Champs d'avoine non encore \trait
@@ -18,18 +18,10 @@ transcription: |
   1 boîte de saddle soap : 1^{f} 50 \hfill Varia : 30 c
   1 Eponge : 60 – – — 1/4 livre choc^{t} Poulain : \inc{f}
 apparat:
-- ligne: 1
-  lemme: D.
-  type: abreviation
-  note: Dimanche
-- ligne: 1
-  lemme: Sept^{bre} /16
-  type: abreviation
-  note: Septembre 1916
 - ligne: 6
   lemme: \inc{3} \ill . 1/2h – 60
   type: lecture
-  note: Ligne au crayon, coupée par le filet ; premier chiffre 3 ou 8 ; le mot suivant reste illisible (« long » ?)
+  note: premier chiffre 3 ou 8 ; mot suivant illisible (« long » ?)
 - ligne: 6
   lemme: 1/2h
   type: abreviation
@@ -41,7 +33,7 @@ apparat:
 - ligne: 7
   lemme: + \inc{5}
   type: lecture
-  note: Chiffre pâle en forme de ſ à drapeau, lu 5 ; autre lecture possible, f
+  note: 'lecture incertaine ; autre lecture : f'
 - ligne: 8
   lemme: dep^{t}
   type: abreviation
@@ -51,9 +43,9 @@ apparat:
   type: abreviation
   note: Géographie
 - ligne: 8
-  lemme: 'Géog. du Pas de Calais : \inc{35}'
-  type: ajout
-  note: d'une encre plus pâle ; second chiffre de même forme qu'à la l.~7
+  lemme: \inc{35}
+  type: lecture
+  note: lecture incertaine ; second chiffre 5 ou f, comme à la l.~7
 - ligne: 9
   lemme: saddle soap
   type: emprunt
@@ -62,10 +54,6 @@ apparat:
   lemme: 1^{f} 50
   type: abreviation
   note: 1 franc 50
-- ligne: 9
-  lemme: Varia
-  type: emprunt
-  note: 'latin : divers'
 - ligne: 10
   lemme: choc^{t}
   type: abreviation
@@ -73,11 +61,10 @@ apparat:
 - ligne: 10
   lemme: \inc{f}
   type: lecture
-  note: Un seul tracé pâle, coupé par le bord de la photographie (f, ou 5 en ſ)
-critique: 'Recto du f. 18 : la page continue la journée du dimanche 3 (f. 17 v\textsuperscript{o}) et précède celle du lundi 4, au verso, qui a été photographié le premier. Sous cinq lignes de récit, un grand blanc, puis une ligne au crayon en partie illisible au-dessus du filet ; dans les comptes, plusieurs chiffres sont d''une encre plus pâle, peut-être portés après coup.'
+  note: lecture incertaine (f, ou 5) ; tracé coupé au bord
+critique: 'Recto du f. 18, qui continue le dimanche 3 (f. 17 v\textsuperscript{o}) ; ordre restitué : le verso, qui porte les 4 et 5 septembre, vient ensuite.'
 historique: |
-  La carte du département de la Somme, payée le même prix que la « Carte du départt » du 31 août (voir f. 16 v\textsuperscript{o}), est achetée la veille du jour où l'ordre d'opérations n° 28 transfère la division à la Reserve Army, sur la Somme (JMO 7/Bedf, 4 sept. 1916) : la destination était donc connue, ou pressentie ; la compagnie entrera dans ce département le 11, à Raincheval (voir f. 21 r\textsuperscript{o}). Le \textit{saddle soap} est le savon de sellerie qui entretient le cuir des selles et des harnais : Hippolyte Combes suit la compagnie à cheval (« très lente chevauchée », f. 20 r\textsuperscript{o}) et paiera le 14 un \textit{batman} pour seller son poney (voir f. 22 r\textsuperscript{o}). Le chocolat Poulain est la marque lancée en 1848 par le Blésois Victor-Auguste Poulain (Ville de Blois 2015) ; si le quart de livre coûte bien 1 f, il revient à 8 F le kilo, quand le chocolat ordinaire valait 3,19 F à l'économat d'une grande compagnie de chemins de fer en juillet 1916 (March 1925, p. 199-200).
+  La carte de la Somme, au même prix que la carte du département achetée le 31 août (voir f. 16 v\textsuperscript{o}), précède d'un jour l'ordre qui transfère la division à la Reserve Army, sur la Somme (voir f. 18 v\textsuperscript{o}) : la destination était connue ou pressentie. Le \textit{saddle soap} entretient le cuir des selles : Hippolyte Combes suit la compagnie à cheval (voir f. 20 r\textsuperscript{o}). Le chocolat Poulain est la marque lancée en 1848 par Victor-Auguste Poulain, de Blois (Ville de Blois 2015). Si le quart de livre coûte bien 1 f, il revient à 8 F le kilo ; le chocolat ordinaire valait 3,19 F à l'économat d'une grande compagnie de chemins de fer en juillet 1916 (March 1925, p. 199-200).
 sources:
-- 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916, ordre d''opérations n° 28 du 4 septembre (transcription en ligne).'
 - March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 199-200.
 - Blois (Ville de), dossier de presse « Les belles images de Poulain », exposition du 15 septembre au 31 octobre 2015, 16 septembre 2015.

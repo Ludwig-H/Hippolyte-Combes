@@ -3,7 +3,7 @@ fichier: 20251126_105005.jpg
 date: Dimanche 3 – lundi 4 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Corbie, Marcelcave et Belle-Église (Arquèves, Somme)
-titre: Course jusqu'à Marcelcave dans la brume glaciale ; solde à Acheux ; Belle-Église
+titre: Course en auto jusqu'à Marcelcave dans la brume ; solde à Acheux ; Belle-Église
 transcription: |
   3 \sl{Dim.} \hfill — \sl{Décbre 1916}
   \ind Nuit très froide Gelé 1 peu moins que nuit
@@ -24,27 +24,19 @@ transcription: |
   touché solde : 78^{f} 75 c \hfill (prochaine, le 17)
   \filet[d]{0.8}
   4 \sl{L} Matinée, dégelé rapidt et
-  \ind routes redevenues boueuses
+  \ind routes, redevenues boueuses
   Tout le matin, ds la grange de Mme Guerle
   soleil brillé 1 peu –
   Après-midi, courses en auto à
   ferme de Belle Église (Arqueves et à Louvencourt
   \ind Rentré pour le thé et dès lors liberté
-  Lt Walsh & son interprète, invités à diner
+  Lt Walsh & un interprète, invités à diner
   Capt. Williams (charmant et de + en + sympathique
 apparat:
-- ligne: 1
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
 - ligne: 1
   lemme: Décbre
   type: abreviation
   note: décembre
-- ligne: 2
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
 - ligne: 5
   lemme: 8^{h} \fr{1}{2} m.
   type: abreviation
@@ -53,34 +45,14 @@ apparat:
   lemme: 6^{h} \fr{1}{2} s
   type: abreviation
   note: six heures et demie du soir
-- ligne: 7
-  lemme: chz
-  type: abreviation
-  note: chez
-- ligne: 7
-  lemme: Lieut^{t}
-  type: abreviation
-  note: lieutenant
-- ligne: 8
-  lemme: lunch
-  type: emprunt
-  note: déjeuner
-- ligne: 8
-  lemme: j-à
-  type: abreviation
-  note: jusqu'à
 - ligne: 8
   lemme: Marcelcave
   type: lecture
-  note: le délié final de Marcel, prolongé, traverse « cave », qui n'est pas biffé
+  note: « cave » traversé par le délié de Marcel, non biffé
 - ligne: 10
   lemme: Abancourt
   type: lecture
-  note: tracé très lié (aspect « Ablyncourt ») ; lecture imposée par le toponyme
-- ligne: 11
-  lemme: Tt
-  type: abreviation
-  note: tout
+  note: aspect « Ablyncourt » ; lu d'après le toponyme
 - ligne: 12
   lemme: au \fr{1}{2} des champs
   type: abreviation
@@ -92,48 +64,22 @@ apparat:
 - ligne: 17
   lemme: 78^{f} 75 c
   type: lecture
-  note: 78 francs 75 ; f réduit à une petite boucle suscrite, 75 mêlé au XIII de la ligne précédente ; même solde au f. 23 v°
-- ligne: 17
-  lemme: (prochaine, le 17)
-  type: disposition
-  note: écrit sur deux niveaux entre de hautes parenthèses, à droite des l. 16–17
-- ligne: 18
-  lemme: L
-  type: abreviation
-  note: lundi
+  note: 78 francs 75 ; f et 75 peu nets
 - ligne: 18
   lemme: rapidt
   type: abreviation
   note: rapidement
-- ligne: 20
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 20
-  lemme: Mme
-  type: abreviation
-  note: Madame
-- ligne: 21
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
 - ligne: 25
-  lemme: Lt
-  type: abreviation
-  note: lieutenant
+  lemme: un interprète
+  type: lecture
+  note: non « son »
 - ligne: 26
   lemme: Capt.
   type: abreviation
   note: Captain, capitaine
-- ligne: 26
-  lemme: de + en +
-  type: lecture
-  note: de plus en plus ; deux croix détachées
-critique: Encre noire virée au brun. Les comptes du 3 décembre sont ouverts par un grand crochet et séparés de la journée du 4 par un long filet partant du milieu de la page.
 historique: |
-  Corbie, tête de ligne des munitions et siège d'un hôpital d'évacuation au 1\textsuperscript{er} juillet 1916 (OH 1916-I, p.~274, 282), commande le passage de la Somme ; au-delà, Villers-Bretonneux, Marcelcave et Warfusée-Abancourt (auj. Lamotte-Warfusée) restent hors de la zone britannique, que la conférence de Londres des 15–16 janvier 1917 étendra jusqu'à la route Amiens–Roye (OH 1917-I, p.~37, 43) ; la course mène à quelque 25~km au sud d'Acheux. Le lieutenant Walsh, d'Hérissart et son interprète M. Deloney [?] sont connus (voir f.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}). La solde de 78~F~75 est celle d'une quinzaine (voir f.~23~v\textsuperscript{o}, 35~r\textsuperscript{o}) ; la suivante sera versée le 19 (voir f.~56~r\textsuperscript{o}). Le bock est à 15~c ; le litre valait 0,44~F dans un économat de chemins de fer en janvier 1917 (March 1925, p.~182). Belle-Église, hameau d'Arquèves, était tête de ligne de ravitaillement en juillet 1916 (OH 1916-I, p.~274) ; on y battra la paille à partir du 8 décembre (voir f.~54~r\textsuperscript{o}).
+  La course mène à quelque 25~km au sud d'Acheux (geo.api.gouv.fr) : au-delà de Corbie, Villers-Bretonneux, Marcelcave et Warfusée-Abancourt (auj. Lamotte-Warfusée) sont hors de la zone britannique ; elle sera étendue en janvier 1917 jusqu'à la route Amiens–Roye (OH 1917-I, p.~37, 43). Le lieutenant Walsh, d'Hérissart, et son interprète M. Deloney [?] sont déjà connus (voir f.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}). La solde de 78~F~75 est celle d'une quinzaine (voir f.~23~v\textsuperscript{o}) ; la suivante sera versée le 19 (voir f.~56~r\textsuperscript{o}). Belle-Église, hameau d'Arquèves, était tête de ligne de ravitaillement en juillet 1916 (OH 1916-I, p.~274) ; on y battra la paille à partir du 8 (voir f.~54~r\textsuperscript{o}).
 sources:
-- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274, 282.
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274.
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 37, 43.
-- March, Lucien, Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 182.
 - geo.api.gouv.fr, coordonnées des mairies (distances à vol d'oiseau).

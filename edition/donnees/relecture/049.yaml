@@ -120,3 +120,8 @@ noms:
     ligne: 15
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+audit:
+- ligne: 6
+  avant: haie d'aubépine — Plus spacieuse et haute
+  apres: haie d'aubépine Plus spacieuse et haute
+  justification: le long trait après « aubépine » part sans levée de plume du e final (zoom [.15 .225 .55 .27] ×3) ; délié final prolongé, non un tiret (même délié après « spacieuse »)

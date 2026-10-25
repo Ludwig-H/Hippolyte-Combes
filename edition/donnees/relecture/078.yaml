@@ -108,3 +108,8 @@ noms:
     ligne: 7
     identite: basilique Notre-Dame-de-Brebières, Albert
 source: contrôle
+audit:
+- ligne: 6
+  avant: Mission frse.
+  apres: Mission frsé.
+  justification: 'zoom ×4 [.72 .29 .87 .37] : au-dessus du e final de « frse », crochet ouvert à droite (forme de l''accent de « chargé » l. 5 et « Allongé » l. 3) ; les deux points d''i de « Mission » sont placés à leur place, ce trait est donc un accent'

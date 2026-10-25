@@ -26,45 +26,8 @@ apparat:
   lemme: Oct^{bre} /16
   type: abreviation
   note: octobre 1916
-- ligne: 2
-  lemme: d'1
-  type: abreviation
-  note: d'une
-- ligne: 2
-  lemme: d'1
-  type: lecture
-  note: 1 à trait d'attaque après d'
-- ligne: 3
-  lemme: pareille
-  type: lecture
-  note: p, a, r, e, i, ll, e nets
-- ligne: 4
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 4
-  lemme: '1'
-  type: abreviation
-  note: un
-- ligne: 6
-  lemme: billet
-  type: emprunt
-  note: cantonnement, logement chez l'habitant
-- ligne: 6
-  lemme: tt
-  type: abreviation
-  note: tout
-- ligne: 8
-  lemme: Tt
-  type: abreviation
-  note: Tout
-- ligne: 9
-  lemme: pluvieux
-  type: lecture
-  note: mot écrit très réduit (plu-i, délié, x final) ; sens assuré
-critique: 'Encre violette. La journée n''occupe que le haut de la page : sous un filet tracé à mi-hauteur, la moitié inférieure, marquée de rousseurs, est restée blanche.'
 historique: |
-  La « manière pareille » renvoie à la corvée de \textit{green forage} de la veille (voir f.~36 r\textsuperscript{o}). Les \textit{wagons} sont sans doute les \textit{G.S. wagons} de la compagnie, grands chariots réglementaires à quatre roues attelés de quatre chevaux (FSPB 1914, chap.~5, § 5), qu'Hippolyte Combes nomme le lendemain avec un \textit{limber} (voir f.~37 r\textsuperscript{o}). Le « grand bois de Ribeaucourt » est le massif qui borde à l'ouest le territoire de Franqueville, dont dépendait alors Barlette (Inventaire, village de Franqueville). Habillés de kaki, les interprètes portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, préface, p.~XIII), sans doute le casque Adrian ; la cape, son vêtement de pluie, était déjà « traversée par la pluie » le 18 septembre (voir f.~23 r\textsuperscript{o}). Ce même 11 octobre, Haig visite les cantonnements du 7th Bedfordshire, à Vacquerie, à quelques kilomètres de là (JMO 7/Bedf, 11 oct. 1916) : la 54th Brigade achève son repos dans la zone de Candas (voir f.~33 v\textsuperscript{o}).
+  La « manière pareille » renvoie au \textit{green forage} de la veille (voir f.~36 r\textsuperscript{o}). Les \textit{wagons} sont sans doute les \textit{G.S. wagons} de la compagnie, chariots réglementaires à quatre roues tirés par quatre chevaux (FSPB 1914, chap.~5, § 5). Le « grand bois de Ribeaucourt » borde à l'ouest le territoire de Franqueville, dont dépendait alors Barlette (Inventaire, village de Franqueville). Les interprètes, en kaki, portaient le képi « ou le nouveau casque — également khaki » (Fernand-Laurent 1917, préface, p.~XIII), sans doute le casque Adrian ; la cape était déjà « traversée par la pluie » le 18 septembre (voir f.~23 r\textsuperscript{o}). Ce 11 octobre, Haig visite le 7th Bedfordshire, cantonné à Vacquerie, à quelques kilomètres de Barlette (JMO 7/Bedf, 11 oct. 1916).
 sources:
 - Field Service Pocket Book, 1914, London, HMSO, 1914, chap. 5, § 5.
 - Région Hauts-de-France, Inventaire général du patrimoine culturel, dossier « Le village de Franqueville », inventaire.hautsdefrance.fr.

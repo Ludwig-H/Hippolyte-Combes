@@ -142,3 +142,8 @@ noms:
     ligne: 20
     identite: Ypres (Belgique)
 source: contrôle
+audit:
+- ligne: 3
+  avant: même
+  apres: meme
+  justification: aucun circonflexe au-dessus du mot (zoom ×4) ; la haste montante entre « me » et « me » est le délié d'attaque du second m, relié aux deux lettres, non un accent

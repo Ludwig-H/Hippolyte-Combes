@@ -131,3 +131,12 @@ noms:
     ligne: 16
     identite: Brioude (Haute-Loire)
 source: contrôle
+audit:
+- ligne: 11
+  avant: gare Nord
+  apres: gare nord
+  justification: 'n initial au module des minimes, sans le long délié d''attaque du N (comparer « Nuit », l. 6, et « nuit », l. 15) : minuscule'
+- ligne: 12
+  avant: 2^{e} cl.
+  apres: 2\inc{e} cl.
+  justification: 'zoom x3 [.56 .43 .74 .535] : la boucle prise pour un e suscrit prolonge sans levée de plume le z de « assez » (l. 11) ; après le 2 restent une haste montante à crochet de tête et une petite courbe ouverte à hauteur d''œil, non suscrite, lue e sous réserve, puis c et l bouclé'

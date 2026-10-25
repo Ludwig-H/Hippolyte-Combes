@@ -3,14 +3,14 @@ fichier: 20251126_104157.jpg
 date: Mercredi 18 octobre 1916
 mois: Octobre 1916
 lieux: Bouzincourt, Hédauville et Albert (Somme)
-titre: 'En camion à Albert : Mission française, basilique ravagée, rues désertes ; boue au camp'
+titre: 'En camion à Albert : Mission française, basilique ravagée, rues vides ; boue'
 transcription: |
   \sl{merc – 18} \hfill \sl{oct /16}
   \ind[2] Dormi mess-tent – à l'autre extrémité
   les 2 cooks. — Allongé sur 1 fauteuil de jardin !
   nuit très froide –
   après breakfast. eu a lift s/ 1 lorry chargé
-  d'obus et venu à Albert. Mission frse.
+  d'obus et venu à Albert. Mission frsé.
   Puis erré passim. arrêté lgs devant basilique
   ravagée par les obus
   Parcouru qq rues. maisons vides et abandonnees.
@@ -37,69 +37,23 @@ apparat:
   type: emprunt
   note: cuisiniers
 - ligne: 5
-  lemme: breakfast
-  type: emprunt
-  note: petit déjeuner
-- ligne: 5
   lemme: eu a lift
   type: emprunt
   note: 'a lift : place offerte dans un véhicule ; « eu a lift » : été pris à bord'
-- ligne: 5
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 5
-  lemme: lorry
-  type: emprunt
-  note: camion
 - ligne: 6
-  lemme: frse
+  lemme: frsé
   type: abreviation
   note: française
-- ligne: 7
-  lemme: passim
-  type: emprunt
-  note: 'latin : çà et là'
-- ligne: 7
-  lemme: lgs
-  type: abreviation
-  note: longtemps
-- ligne: 7
-  lemme: lgs
-  type: lecture
-  note: lgs, sans t barré (longtemps)
-- ligne: 9
-  lemme: qq
-  type: abreviation
-  note: quelques
-- ligne: 10
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 10
-  lemme: lorry
-  type: emprunt
-  note: camion
 - ligne: 11
   lemme: de =
   type: abreviation
   note: de même
-- ligne: 12
-  lemme: Tt
-  type: abreviation
-  note: Tout
-- ligne: 14
-  lemme: '&'
-  type: abreviation
-  note: et
-critique: Page écrite en travers, à l'encre violette, d'une seule venue ; le soulignement de la date passe au-dessus de « extrémité ». La dernière phrase se poursuit f.~40 r\textsuperscript{o}.
+critique: Page écrite en travers ; la dernière phrase se poursuit f.~40~r\textsuperscript{o}.
 historique: |
-  Le 18 octobre est le dernier jour de la bataille des crêtes du Transloy, où la Fourth Army attaque à 3~h~40 dans des tranchées inondées (OH 1916-II, p.~xlii--xliv, 444). Albert, 6~742 habitants et 1~105 maisons avant la guerre (OH 1916-I, p.~247), bombardée depuis le 29 septembre 1914 (Michelin 1919, p.~31--35), est la tête de la route de Bapaume ; les ambulances de campagne y sont concentrées depuis septembre (CWGC, Albert Communal Cemetery Extension) et la 18th Division y a ouvert le 14 octobre un QG avancé en vue de l'attaque de Regina Trench (JMO 7/Bedf, 14 oct. 1916). Hippolyte Combes fréquentera le bureau de la Mission française de la ville jusqu'au début de novembre. La basilique Notre-Dame de Brebières, élevée de 1885 à 1897 sur les plans d'Edmond Duthoit (Mérimée PA80000002), a été crevée par les obus en janvier 1915 (diocèse d'Amiens) ; sur sa Vierge penchée, voir f.~42 r\textsuperscript{o}. Le \textit{lift} pris sur un camion de passage, défendu en principe, était toléré : c'est le \textit{lorry hopping} (Fraser et Gibbons 1925, s.v.).
+  Albert comptait avant la guerre 6~742 habitants et 1~105 maisons (OH 1916-I, p.~247). Bombardée depuis le 29 septembre 1914 (Michelin 1919, p.~31--35), la ville est la tête de la route de Bapaume. La 18th Division y a ouvert le 14 octobre un QG avancé (JMO 7/Bedf, 14 oct. 1916). Hippolyte Combes fréquentera le bureau de la Mission française d'Albert jusqu'au début de novembre. La basilique Notre-Dame de Brebières, construite de 1885 à 1897 sur les plans d'Edmond Duthoit (Mérimée PA80000002), a été crevée par les obus en janvier 1915 (diocèse d'Amiens) ; sur sa Vierge penchée, voir f.~42~r\textsuperscript{o}. Monter sur un camion de passage, interdit en principe mais toléré, s'appelait le \textit{lorry hopping} (Fraser et Gibbons 1925, s.v.).
 sources:
-- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. xlii-xliv, 444.
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 247.
 - Michelin, The Somme, vol. 1, The First Battle of the Somme (1916-1917), Clermont-Ferrand, Michelin, 1919, p. 31-35.
-- Commonwealth War Graves Commission, notice « Albert Communal Cemetery Extension ».
 - 'Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).'
 - Ministère de la Culture, base Mérimée, notice PA80000002 (basilique Notre-Dame de Brebières, Albert).
 - Diocèse d'Amiens, « Notre-Dame de Brebières ou la "Vierge penchée" », 13 mars 2018, en ligne.

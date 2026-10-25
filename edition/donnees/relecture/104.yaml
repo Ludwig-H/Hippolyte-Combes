@@ -172,3 +172,16 @@ noms:
     ligne: 23
     identite: Hérissart (Somme)
 source: contrôle
+audit:
+- ligne: 8
+  avant: Traversé régions plates, terrains défoncés \trait
+  apres: Traversé regions plates, terrains defonces \trait
+  justification: zoom ×2 [0 .26 1 .31] ; aucun accent au-dessus de « regions » (le seul point, au-dessus de i-o, est celui de l'i) ni de « defonces » (papier vierge au-dessus du mot), alors que l'accent de « Traversé » est net ; accents non restitués (guide § 8, piège 25)
+- ligne: 10
+  avant: au retour, nuit noire, éclairs bleuâtres
+  apres: au retour, nuit noire, eclairs bleuâtres
+  justification: zoom ×2 [.45 .33 1 .40] ; aucun tiret d'accent au-dessus de e-c ; le point au-dessus du mot est celui de l'i
+- ligne: 13
+  avant: \ind Matin, très épais brouillard
+  apres: \ind Matin, très epais brouillard
+  justification: zoom ×2 [0 .45 .7 .51] ; aucun accent au-dessus de e-p ; le seul point, au-dessus de a-i, est celui de l'i

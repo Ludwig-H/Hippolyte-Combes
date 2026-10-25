@@ -3,7 +3,7 @@ fichier: 20251126_105112.jpg
 date: Mardi 12 – jeudi 14 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Senlis-le-Sec, Toutencourt, Puchevillers et Harponville (Somme)
-titre: Neige sur Acheux ; réfugiés d'Englebelmer réunis à Toutencourt avec le major Levy
+titre: Neige à Acheux ; réunion des réfugiés d'Englebelmer à Toutencourt
 transcription: |
   \sl{12 Mardi} \hfill Dec^{b} \sl{1916}
   Mieux, très sensible. Nuit, levé 2 fois. Mais
@@ -28,28 +28,12 @@ transcription: |
   Temperature, pas froide. Pu ecrire ds ma
   chambre, sans feu.
   \ind Nuit, extt noire. Routes, lamentablt sales
-  \equerre{1}– Essui\inc{e-mains} : 90c —
+  Essui\inc{e-mains} : 90c —
 apparat:
 - ligne: 1
   lemme: Dec^{b}
   type: abreviation
   note: décembre
-- ligne: 5
-  lemme: lgs
-  type: abreviation
-  note: longtemps
-- ligne: 5
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 6
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 8
-  lemme: tt
-  type: abreviation
-  note: tout
 - ligne: 9
   lemme: Me –
   type: abreviation
@@ -59,33 +43,9 @@ apparat:
   type: emprunt
   note: réunion
 - ligne: 14
-  lemme: J.
-  type: abreviation
-  note: jeudi
-- ligne: 14
   lemme: Rest^{e}
   type: graphie
-  note: resté (e final suscrit, sans accent)
-- ligne: 15
-  lemme: lgs
-  type: abreviation
-  note: longtemps
-- ligne: 15
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 17
-  lemme: Tt
-  type: abreviation
-  note: tout
-- ligne: 18
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 20
-  lemme: extt
-  type: abreviation
-  note: extrêmement
+  note: resté
 - ligne: 20
   lemme: lamentablt
   type: abreviation
@@ -93,11 +53,9 @@ apparat:
 - ligne: 21
   lemme: Essui\inc{e-mains}
   type: lecture
-  note: 'essuie-mains : Essui- écrit à gauche de Nuit (l. 20), la fin sous Nuit, coupée au bord de la photographie ; autre lecture : essuie-main'
-critique: 'Encre noire virée au brun. Les trois journées se suivent sans filet complet : un blanc et un court trait en marge gauche annoncent le 13, un blanc d''une ligne le 14. Le compte de l''essuie-mains, logé dans le retrait de la dernière ligne, descend jusqu''au bord inférieur du feuillet, qui le coupe en partie.'
+  note: 'fin coupée au bord du feuillet ; autre lecture : essuie-main'
 historique: |
-  Senlis-le-Sec, à 6~km au sud-sud-est d'Acheux, est depuis le 1\textsuperscript{er} décembre le siège du QG du IV Corps (LLT). Toutencourt abrite le QG de la Fifth Army (voir f.~49~v\textsuperscript{o}). Englebelmer, à 5,5~km à l'est d'Acheux et à 11~km de Toutencourt, poste d'ambulances exposé aux obus jusqu'à l'automne (CWGC), n'était plus le 7 occupé que par la troupe (voir f.~54~r\textsuperscript{o}). La présence du major Levy, chef de l'\textit{Army Purchase Board} de Raincheval (voir f.~46~r\textsuperscript{o}), suggère que la réunion des habitants évacués portait sur l'achat, ou l'indemnisation, des récoltes et fourrages restés dans leurs granges, peut-être à faire battre comme à Arquèves (f.~54~r\textsuperscript{o}) ; les dossiers de la Mission sur les réfugiés et les réquisitions sont aux cartons 17~N 393-395 du SHD (Nicot 1972, p.~263-269). Belle-Église est un hameau d'Arquèves (voir f.~47~v\textsuperscript{o}) ; Puchevillers, à 9~km à l'ouest-sud-ouest, abrite les 3rd et 44th \textit{Casualty Clearing Stations} (LLT) ; Harponville est à 4,5~km au sud-sud-ouest d'Acheux.
+  Senlis-le-Sec, à 6~km au sud-sud-est d'Acheux, abrite depuis le 1\textsuperscript{er} décembre le QG du IV Corps (LLT). Toutencourt est le siège du QG de la Fifth Army (voir f.~49~v\textsuperscript{o}). Englebelmer, à 5,5~km à l'est d'Acheux, a été évacué : le 7, la troupe seule l'occupait (voir f.~54~r\textsuperscript{o}). La présence du major Levy, chef de l'\textit{Army Purchase Board} de Raincheval (voir f.~46~r\textsuperscript{o}), suggère que la réunion portait sur l'achat ou l'indemnisation des récoltes et fourrages restés au village. Les dossiers de la Mission sur les réfugiés et les réquisitions sont au SHD, 17~N 393-395 (Nicot 1972, p.~263-269). Belle-Église est un hameau d'Arquèves (voir f.~47~v\textsuperscript{o}).
 sources:
-- Baker, C., The Long, Long Trail, « The British IV Corps in France and Flanders » (copie Wayback de déc. 2021) et « Locations of British Casualty Clearing Stations » (copie Wayback du 13 janvier 2018).
-- Commonwealth War Graves Commission, notice historique « Englebelmer Communal Cemetery Extension » (cwgc.org, consultée le 17 oct. 2026).
+- Baker, C., The Long, Long Trail, « The British IV Corps in France and Flanders » (copie Wayback de déc. 2021).
 - Nicot, J., Schillinger, P., Ficat, J., Inventaire sommaire des archives de la guerre 1914-1918. Grand quartier général des armées alliées (15 N), GQG (16 N), Missions militaires françaises (17 N), Vincennes, Service historique de l'Armée, 1972, p. 263-269.

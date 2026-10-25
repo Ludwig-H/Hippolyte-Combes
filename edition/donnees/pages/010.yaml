@@ -3,11 +3,11 @@ fichier: 20251126_093316.jpg
 date: Vendredi 4 août 1916
 mois: Août 1916
 lieux: Saint-Jans-Cappel, Bailleul, Steenwerck et La Croix-du-Bac (Nord)
-titre: À cheval à La Croix-du-Bac par Bailleul et Steenwerck ; solde au bureau de la Mission
+titre: À cheval à La Croix-du-Bac par Bailleul et Steenwerck ; solde à la Mission
 transcription: |
   \sl{4 Ve.} Après qq hesitation, decidé \hfill Août \sl{1916}
   me rendre ce matin à La Croix du Bac, où \inc{bureau}
-  mission fse. Parti à cheval \inc{vers} 10^{H} – mis près
+  mission fse. Parti à cheval \inc{par} 10^{H} – mis près
   d'1 h. \fr{1}{2} pour parcourir distance 15 K^{ils}
   environ. Passé par Bailleul et Steenwerke
   Cette dernière localité, gros village – — autour
@@ -25,26 +25,18 @@ transcription: |
   isolée en rase campagne. Y g^{d} calme et ,
   silence —
 apparat:
-- ligne: 1
-  lemme: Ve.
-  type: abreviation
-  note: vendredi
-- ligne: 1
-  lemme: qq
-  type: abreviation
-  note: quelque
 - ligne: 2
   lemme: \inc{bureau}
   type: lecture
-  note: minimes indistinctes après une attaque haute, finale plongeante ; « bureaux » possible
+  note: 'lecture incertaine ; autre lecture : bureaux'
 - ligne: 3
   lemme: fse
   type: abreviation
   note: française
 - ligne: 3
-  lemme: \inc{vers}
+  lemme: \inc{par}
   type: lecture
-  note: premier trait descendant (aspect p) ; « par » graphiquement possible
+  note: 'lecture incertaine ; autre lecture : vers'
 - ligne: 3
   lemme: 10^{H}
   type: abreviation
@@ -54,25 +46,13 @@ apparat:
   type: abreviation
   note: d'une heure
 - ligne: 4
-  lemme: \fr{1}{2}
-  type: abreviation
-  note: et demie
-- ligne: 4
   lemme: K^{ils}
   type: abreviation
   note: kilomètres
 - ligne: 5
   lemme: Steenwerke
   type: graphie
-  note: pour Steenwerck (Nord) ; la lettre qui suit « Steen » monte en haute boucle (aspect b)
-- ligne: 7
-  lemme: gde
-  type: abreviation
-  note: grande
-- ligne: 8
-  lemme: qq
-  type: abreviation
-  note: quelques
+  note: pour Steenwerck (Nord)
 - ligne: 11
   lemme: garret
   type: emprunt
@@ -82,9 +62,9 @@ apparat:
   type: abreviation
   note: 80 francs 30 centimes
 - ligne: 13
-  lemme: 30
+  lemme: '30'
   type: lecture
-  note: f suscrit posé au-dessus du 3, réduit à un trait en J ; « 50 » possible
+  note: 'lecture incertaine ; autre lecture : 50'
 - ligne: 13
   lemme: 8^{f}
   type: abreviation
@@ -92,23 +72,7 @@ apparat:
 - ligne: 14
   lemme: 1 \inc{de}
   type: lecture
-  note: d bouclé et e sur la ligne
-- ligne: 14
-  lemme: juillet /
-  type: signe
-  note: long trait oblique tenant lieu de parenthèse fermante (de même à la fin de la l. 13)
-- ligne: 15
-  lemme: Ferme
-  type: disposition
-  note: signe d'ouverture en équerre (trait vertical, puis trait horizontal au-dessus du F)
-- ligne: 15
-  lemme: l.
-  type: abreviation
-  note: laquelle
-- ligne: 15
-  lemme: Coy
-  type: abreviation
-  note: Company, compagnie
+  note: lecture incertaine
 - ligne: 16
   lemme: Y
   type: abreviation
@@ -117,12 +81,11 @@ apparat:
   lemme: g^{d}
   type: abreviation
   note: grand
-critique: Encre noire uniforme. Les deux derniers alinéas, isolés par des blancs, s'ouvrent sur des signes en équerre d'une encre plus épaisse. La journée du 4 août se poursuit au verso (f. 5 v\textsuperscript{o}).
+critique: La journée du 4 août se poursuit au verso.
 historique: |
-  La Croix-du-Bac, hameau de Steenwerck (Nord) à 3 km au sud du bourg et à 6,5 km d'Armentières, est un siège habituel d'état-major divisionnaire : la 34th Division s'y installe le 24 février 1916 (Shakespear 1921, p. 15), la 5th Australian Division y ouvre son QG le 8 juillet (Ellis [1920], p. 74). Le 4 août, la 18th Division n'a pas encore pris le secteur, qu'elle relève dans la nuit du 6 au 7 (Beds War Diary) : le bureau de la Mission où Hippolyte Combes est payé est vraisemblablement déjà celui de sa division, sans qu'aucune source le confirme. Les « 15 K\textsuperscript{ils} » notés pour 11 km à vol d'oiseau tiennent au détour par Bailleul. L'église de Steenwerck, « très gde », disparaîtra dans les combats de 1918 (le village est pris le 10 avril : CWGC) et sera reconstruite en 1928 (Mérimée PA59000231). Les 80 F 30 suivent de huit jours les 84 F touchés à Hazebrouck (voir f. 2 r\textsuperscript{o}) ; ni ce montant ni le « supplément » de 8 F de juillet n'entrent dans le schéma des paies de quinzaine, et aucun texte connu ne les explique.
+  La Croix-du-Bac, hameau de Steenwerck à 6,5 km d'Armentières, accueille souvent un état-major de division : la 34th Division en février 1916 (Shakespear 1921, p. 15), la 5th Australian Division en juillet (Ellis [1920], p. 74). La 18th Division ne relève le secteur que dans la nuit du 6 au 7 août (voir f. 6 r\textsuperscript{o}) : le bureau de la Mission est sans doute déjà le sien, sans preuve. L'église de Steenwerck disparaît dans les combats de 1918 (village pris le 10 avril : CWGC) ; elle est reconstruite en 1928 (Mérimée PA59000231). Les 80 F 30, huit jours après les 84 F d'Hazebrouck (voir f. 2 r\textsuperscript{o}), restent inexpliqués, comme le supplément de 8 F.
 sources:
 - Shakespear, J., The Thirty-Fourth Division, 1915–1919. The Story of its Career from Ripon to the Rhine, Londres, H. F. & G. Witherby, 1921, p. 15.
 - Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], p. 74.
-- 'Bedfordshire Archives Service, X550/8/1/1607-1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, juillet-septembre 1916 (Beds War Diary).'
 - CWGC, Le Grand Beaumart British Cemetery, Steenwerck (fiche 20802), historique.
 - Ministère de la Culture, base Mérimée, PA59000231 (église Saint-Jean-Baptiste, Steenwerck).

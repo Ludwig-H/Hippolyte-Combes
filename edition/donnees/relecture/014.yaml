@@ -150,3 +150,8 @@ noms:
     ligne: 13
     identite: Bac-Saint-Maur (Nord)
 source: contrôle
+audit:
+- ligne: 3
+  avant: matinée
+  apres: matinee
+  justification: 'zoom [0 .07 .42 .12] : un seul signe diacritique, petit point décalé à droite au-dessus du premier e, qui est le point du i (aucun autre point pour le i) ; la barre du t s''arrête avant ; aucun accent sur la finale ee'

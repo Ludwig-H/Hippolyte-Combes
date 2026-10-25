@@ -189,3 +189,16 @@ noms:
     ligne: 21
     identite: Toulon (Var), bagne
 source: contrôle
+audit:
+- ligne: 9
+  avant: g^{de}
+  apres: gde
+  justification: le groupe de a la même ligne de base que mornes ; aucune surélévation nette, g simple suivi de d bouclé et e.
+- ligne: 11
+  avant: 35 c
+  apres: 35 c.
+  justification: point net à droite du c, au bas de la lettre (visible sur les deux tuiles).
+- ligne: 14
+  avant: en course. Venu
+  apres: en course Venu
+  justification: aucun point entre course et Venu ; l'espace est vide.

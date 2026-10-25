@@ -194,3 +194,12 @@ noms:
     ligne: 24
     identite: Rubempré (Somme)
 source: contrôle
+audit:
+- ligne: 18
+  avant: grésil & neige. Surpris par tempête au
+  apres: grésil & neige Surpris par tempête au
+  justification: aucun point sur la ligne de base après neige (finale en délié) ; le seul point voisin, isolé à x≈.385 à mi-hauteur d'œil, est une tache du papier (zoom ×2) ; la relecture précédente ne l'avait pas confirmé
+- ligne: 19
+  avant: retour d'Authie & sur la route d'Arquèves,
+  apres: retour d'Authie & sur la route d'Arqueves,
+  justification: zoom ×3 [.6 .745 .95 .79] — aucun accent au-dessus ni à droite du e après qu ; le seul trait haut est l'apostrophe de d' ; graphie transcrite telle quelle, forme normalisée dans l'apparat

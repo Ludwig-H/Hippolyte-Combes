@@ -91,3 +91,8 @@ noms:
   personnes: []
   lieux: []
 source: contrôle
+audit:
+- ligne: 16
+  avant: brillant d'1 vive lueur, ds l'immensité
+  apres: brillant d'1 vive lueur ds l'immensité
+  justification: 'zoom ×3 [.48 .69 .80 .76] : aucune virgule entre le long délié final de lueur et le d de ds ; ponctuation ajoutée par la lecture antérieure'

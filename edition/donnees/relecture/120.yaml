@@ -173,3 +173,8 @@ noms:
     ligne: 24
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+audit:
+- ligne: 11
+  avant: 'apparat n^{os} : nos'
+  apres: 'apparat n^{os} : numéros'
+  justification: os suscrit après n = abréviation de « numéros » (numéros excellents) ; le possessif « nos » ne s'abrège pas ainsi

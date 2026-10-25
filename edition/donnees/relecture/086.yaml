@@ -148,3 +148,16 @@ noms:
   personnes: []
   lieux: []
 source: contrôle
+audit:
+- ligne: 1
+  avant: \sl{Jeudi 26} \hfill oct. /16
+  apres: \sl{Jeudi 26} \hfill \sl{oct. /16}
+  justification: 'zoom x3 [.68 0 .97 .075] : trait appuyé à crosse finale sous « oct. /16 » (x .72–.89), à la même hauteur que le soulignement de « Jeudi 26 »'
+- ligne: 4
+  avant: absolt
+  apres: absol^{t}
+  justification: 'zoom x3 [.03 .12 .25 .175] : t final nettement surélevé (tête au-dessus du l, pied à mi-hauteur d''œil au-dessus de la ligne de base)'
+- ligne: 8
+  avant: à mon aise.
+  apres: à mon aise
+  justification: 'zoom x3 [.6 .26 .98 .315] : aucun point après le délié final de aise'

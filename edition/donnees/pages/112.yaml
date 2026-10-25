@@ -3,7 +3,7 @@ fichier: 20251126_105142.jpg
 date: Vendredi 22 et dimanche 24 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Senlis-le-Sec, Beauquesne et Authie (Somme) ; Orville (Pas-de-Calais)
-titre: Tournées par le dégel ; lettre de Marguerite ; « Bloody France » du capitaine Williams
+titre: Dégel ; lettre de Marguerite ; « Bloody France » du capitaine Williams
 transcription: |
   \sl{22 Ven.} \hfill \sl{Dec 1916}
   Degel rapide. Routes, très
@@ -32,25 +32,17 @@ transcription: |
   \equerre{1}— Authie : 2 oeufs s/plat : 70c. — Cartes p^{les} : 30c
 apparat:
 - ligne: 1
-  lemme: Ven.
-  type: abreviation
-  note: vendredi
-- ligne: 1
   lemme: Dec
   type: abreviation
   note: décembre
 - ligne: 3
   lemme: mauvaises
   type: lecture
-  note: mot réduit à une suite de jambages finissant en ss ; lecture imposée par le sens
+  note: lecture incertaine, imposée par le sens
 - ligne: 4
   lemme: Aprè-midi
   type: abreviation
   note: après-midi
-- ligne: 5
-  lemme: à
-  type: lecture
-  note: « à » rejeté en bout de ligne
 - ligne: 7
   lemme: Cap.
   type: abreviation
@@ -58,7 +50,7 @@ apparat:
 - ligne: 8
   lemme: \inc{+} tot
   type: lecture
-  note: « + » (plus tôt) probable, signe de forme inhabituelle ; autres lectures possibles y, &
+  note: '« + » (plus tôt) probable ; autres lectures : y, &'
 - ligne: 8
   lemme: billet
   type: emprunt
@@ -67,46 +59,18 @@ apparat:
   lemme: M^{te}
   type: abreviation
   note: Marguerite (Calmels)
-- ligne: 10
-  lemme: bp
-  type: abreviation
-  note: beaucoup
 - ligne: 12
   lemme: D
   type: abreviation
   note: dimanche
-- ligne: 12
-  lemme: Tjours
-  type: abreviation
-  note: toujours
-- ligne: 13
-  lemme: rafale
-  type: lecture
-  note: singulier, sans s final
-- ligne: 14
-  lemme: tte
-  type: abreviation
-  note: toute
 - ligne: 15
   lemme: St-Leger
   type: abreviation
   note: Saint-Léger(-lès-Authie)
 - ligne: 15
-  lemme: +
-  type: lecture
-  note: croix détachée (et), distincte du « & » devant Authie
-- ligne: 15
   lemme: Aprè-midi
   type: abreviation
   note: après-midi
-- ligne: 17
-  lemme: chz
-  type: abreviation
-  note: chez
-- ligne: 17
-  lemme: M^{me}
-  type: abreviation
-  note: Madame
 - ligne: 18
   lemme: cap. W^{m}
   type: abreviation
@@ -115,10 +79,6 @@ apparat:
   lemme: Bloody France
   type: emprunt
   note: maudite France
-- ligne: 18
-  lemme: « Bloody France etc. ! —
-  type: signe
-  note: guillemet ouvrant en double parenthèse « (( » ; aucun guillemet fermant
 - ligne: 20
   lemme: French Mission
   type: emprunt
@@ -143,12 +103,9 @@ apparat:
   lemme: p^{les}
   type: abreviation
   note: postales
-critique: Deux journées séparées par un filet ; rien n'est noté pour le 21 ni pour le 23, et la page fait suite au f.~56~r\textsuperscript{o} (19-20 décembre). Chaque série de comptes est ouverte par une équerre en marge gauche.
+critique: La page fait suite au f.~56~r\textsuperscript{o} (19-20 décembre) ; rien n'est noté pour le 21 ni pour le 23.
 historique: |
-  Senlis-le-Sec est alors le siège du QG du IV Corps (LLT, IV Corps) ; le Quesnoy est vraisemblablement l'écart de ce nom à Puchevillers (IGN). Beauquesne, où dîne le capitaine, avait accueilli le QG avancé de Haig au château de Valvion (OH 1916-I, p.~304). La réparation ne tient pas : le 28, Hippolyte Combes envoie le lorgnon à l'opticien Imbert, à Paris (f.~58~r\textsuperscript{o} et 61~r\textsuperscript{o}). Les œufs au plat d'Authie coûtent deux fois le prix des œufs de ferme de septembre (voir f.~21~r\textsuperscript{o}). Mme Cuisinier tient à Louvencourt une ferme où une machine endommagée sera expertisée le 2 janvier (f.~59~r\textsuperscript{o}). \textit{Bloody} est un juron grossier : le mot avait fait scandale sur la scène londonienne de \textit{Pygmalion} le 11 avril 1914 (Wikipédia). Rapporter le mot du jeune capitaine Williams (voir f.~53~v\textsuperscript{o}) au bureau de la Mission, c'était s'exposer à ces « heurts désagréables » dont les interprètes « sont toujours les victimes » (Fernand-Laurent 1917, p.~225-234). Sur la lettre du 17, voir f.~57~r\textsuperscript{o}.
+  La réparation du lorgnon ne tient pas : le 28, Hippolyte Combes l'envoie à l'opticien Imbert, à Paris (f.~58~r\textsuperscript{o} et 61~r\textsuperscript{o}). Mme Cuisinier tient à Louvencourt une ferme où une machine endommagée sera expertisée le 2 janvier (f.~59~r\textsuperscript{o}). \textit{Bloody} est un juron grossier : le mot avait fait scandale à Londres dans \textit{Pygmalion}, le 11 avril 1914 (Wikipédia). Rapporter le mot du capitaine Williams au bureau de la Mission, c'était risquer ces « heurts désagréables » dont les interprètes « sont toujours les victimes » (Fernand-Laurent 1917, p.~225-234). Sur la lettre du 17, voir f.~57~r\textsuperscript{o} ; sur Senlis-le-Sec, le Quesnoy et Beauquesne, voir f.~55~r\textsuperscript{o}, 55~v\textsuperscript{o} et 56~r\textsuperscript{o}.
 sources:
-- The Long, Long Trail, « The British IV Corps in France and Flanders », https://web.archive.org/web/20211204151518/https://www.longlongtrail.co.uk/army/other-aspects-of-order-of-battle/the-british-corps-headquarters-in-france-and-flanders/the-british-iv-corps-in-france-and-flanders/.
-- IGN, BD TOPO, lieu-dit habité « le Quesnoy », Puchevillers (Somme), service de géocodage de la Géoplateforme (data.geopf.fr), consulté le 18 oct. 2026.
-- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 304.
 - Wikipédia (en), « Pygmalion (play) », consulté le 18 oct. 2026.
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, préface de F. de Tessan, Paris, Boivin, 1917, p. 225-234.

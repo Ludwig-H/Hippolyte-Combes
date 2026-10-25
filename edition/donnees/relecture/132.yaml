@@ -180,3 +180,12 @@ noms:
     ligne: 21
     identite: Sainte-Marie-des-Champs, Toulouse
 source: contrôle
+audit:
+- ligne: 15
+  avant: m'attendant
+  apres: m attendant
+  justification: aucune apostrophe entre m et attendant (la boucle qui les sépare est la descente du 5 de 8^{H}15, l. 16) ; même usage que « Gare d Orsay », l. 3
+- ligne: 15
+  avant: autrefois, gare
+  apres: autrefoi, gare
+  justification: le mot finit sur l'i pointé ; le seul trait suivant est un petit crochet détaché, collé au g de « gare », de même forme que les virgules après « sœurs » et « attendant » ; c'est une virgule, aucun s n'est écrit

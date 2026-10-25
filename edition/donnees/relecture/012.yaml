@@ -142,3 +142,12 @@ noms:
     ligne: 20
     identite: Saint-Jans-Cappel (Nord)
 source: contrôle
+audit:
+- ligne: 3
+  avant: Bientot, ts préparatifs terminés.
+  apres: Bientot, ts preparatifs terminés.
+  justification: Aucun accent au-dessus du premier e de preparatifs (zoom ×3), comme pour preparent l. 9 ; l'accent de terminés est en revanche visible.
+- ligne: 0
+  avant: Le verso de ce feuillet n'a pas été photographié
+  apres: Le verso de ce feuillet (f. 6 vo) a bien été photographié, mais la page est restée blanche
+  justification: Champ critique corrigé à la demande de l'éditeur, le verso photographié étant vierge.

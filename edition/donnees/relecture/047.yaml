@@ -136,3 +136,8 @@ noms:
     ligne: 6
     identite: Bedfordshire Regiment (bataillon de la 18th Division)
 source: contrôle
+audit:
+- ligne: 8
+  avant: -plan, très beaux arbres —
+  apres: -plan, très beaux arbres\trait
+  justification: 'zoom ×3 [.22 .29 .68 .35] : le long trait horizontal (x≈.46–.63) prolonge sans levée de plume la finale de « arbres » et s''épaissit en massue ; délié final prolongé, comme « sombre\trait » (l. 15) et « Toul\trait » (l. 13), non tiret détaché'

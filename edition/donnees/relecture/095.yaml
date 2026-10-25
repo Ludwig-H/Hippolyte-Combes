@@ -158,3 +158,8 @@ noms:
     ligne: 22
     identite: Léalvillers (Somme)
 source: contrôle
+audit:
+- ligne: 11
+  avant: de rouille, orange et or — et allées
+  apres: de rouille, orange et \inc{or} — et allées
+  justification: 'zoom ×4 [.49 .385 .66 .43] : mot pâle formé de deux jambages en u puis d''un élément croisé, suivi d''un long trait ; la forme ne rend pas lettre à lettre o + r, lecture gardée pour le sens mais marquée incertaine'

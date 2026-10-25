@@ -248,3 +248,8 @@ noms:
     ligne: 25
     identite: hôtel à l'enseigne « d'Amiens », à Frévent ou à Doullens
 source: contrôle
+audit:
+- ligne: 23
+  avant: 'Boutons simili-cuir : 4^{f} 75'
+  apres: 'Boutons simili cuir : 4^{f} 75'
+  justification: 'zoom ×3 [.35 .86 .62 .93] : aucun trait d''union à mi-hauteur entre simili et cuir ; le petit trait oblique, au-dessus de la ligne de tête, est le point du troisième i de simili (trois points pour trois i) ; cuir a son propre point'

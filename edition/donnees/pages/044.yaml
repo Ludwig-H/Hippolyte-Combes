@@ -3,7 +3,7 @@ fichier: 20251126_094706.jpg
 date: Dimanche 17 septembre 1916
 mois: Septembre 1916
 lieux: Raincheval (Somme)
-titre: 'Raincheval : attente du départ ; bois du château ; collection de faïences ; culte wesleyen'
+titre: 'Raincheval : attente du départ ; bois du château ; faïences ; culte wesleyen'
 transcription: |
   \sl{17 Dim.} \hfill \sl{Sept^{re} 1916}
   \ind[2] Tjs ds lattente notre départ
@@ -28,10 +28,6 @@ transcription: |
   \ind — Washing : 1 \inc{f} —
 apparat:
 - ligne: 1
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
-- ligne: 1
   lemme: Sept^{re}
   type: abreviation
   note: septembre
@@ -39,22 +35,6 @@ apparat:
   lemme: Tjs
   type: abreviation
   note: toujours
-- ligne: 2
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 2
-  lemme: lattente
-  type: graphie
-  note: pour « l'attente », sans apostrophe
-- ligne: 2
-  lemme: départ
-  type: disposition
-  note: écrit plus petit en bout de ligne, sous le trait qui souligne la date
-- ligne: 3
-  lemme: green forage
-  type: emprunt
-  note: fourrage vert
 - ligne: 4
   lemme: wagon
   type: emprunt
@@ -62,19 +42,11 @@ apparat:
 - ligne: 6
   lemme: \fr{1}{2} jour
   type: lecture
-  note: demi-jour, c'est-à-dire midi ; fraction 1/2 empilée
+  note: demi-jour, c'est-à-dire midi
 - ligne: 7
   lemme: pl.
   type: abreviation
   note: plusieurs
-- ligne: 8
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 9
-  lemme: horse-lines
-  type: emprunt
-  note: lignes d'attache des chevaux
 - ligne: 11
   lemme: g^{ds}
   type: abreviation
@@ -82,15 +54,11 @@ apparat:
 - ligne: 12
   lemme: \inc{aux}
   type: lecture
-  note: aux, réduit à une lettre ouverte et un x ; lecture imposée par le sens
+  note: mot réduit à deux lettres ; lecture imposée par le sens
 - ligne: 13
   lemme: int^{te}
   type: abreviation
   note: interprète
-- ligne: 14
-  lemme: av
-  type: abreviation
-  note: avec
 - ligne: 14
   lemme: chz
   type: abreviation
@@ -103,23 +71,16 @@ apparat:
   lemme: (Wesleyans
   type: emprunt
   note: wesleyens, méthodistes ; écrit au-dessus de la fin de la ligne, parenthèse fermée après village (l. 18)
-- ligne: 18
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 19
-  lemme: Washing
-  type: emprunt
-  note: blanchissage
 - ligne: 19
   lemme: 1 \inc{f} —
   type: ajout
-  note: montant ajouté après coup à l'encre violette ; du f (franc) ne subsiste qu'une boucle ténue au-dessus du 1
-critique: Page à l'encre noire ; seul le montant du blanchissage, d'une encre plus pâle et violacée, a été porté après coup.
+  note: montant ajouté après coup
+- ligne: 19
+  lemme: \inc{f}
+  type: lecture
+  note: f à peine visible ; lecture incertaine
 historique: |
-  La 54th Brigade se tient prête à partir dans les six heures depuis le 15 (voir f. 22 r\textsuperscript{o}) ; l'ordre de départ pour le 23 n'arrivera que le 22 (JMO 7/Bedf, 22 sept. 1916 ; voir f. 24 r\textsuperscript{o}). Les chevaux britanniques ont besoin « of a certain amount of fresh fodder », que l'armée peut réquisitionner contre paiement (\textit{Blackwood's Magazine}, juin 1917, p. 933 ; pour le \textit{green forage}, voir f. 21 v\textsuperscript{o}). Le château de Raincheval date de 1719 ; ses façades, toitures et grille ont été inscrites en 1975 (Mérimée PA00116224). Le même dimanche, le 7th Bedfordshire se baigne par compagnies, assiste à l'office militaire et voit à 15 h une démonstration de mortiers Stokes « on ground just North of Raincheval » (JMO 7/Bedf, 17 sept.). Le culte \textit{Wesleyan} est celui des méthodistes, dont les aumôniers durent accepter des commissions temporaires ; on comptait en 1918 plus de 500 aumôniers wesleyens et du \textit{United Board} (Thompson 1990). Hippolyte Combes avait prévu de consacrer à ces cultes britanniques le chapitre~\textsc{xix} de ses \textit{Feuillets de Route} (\textit{« Sunday service in village church »}, en annexe), et c'est sur un feuillet du même papier qu'il a copié de sa main le poème wesleyen de Beatrice Chilcott (en annexe).
+  La 54th Brigade attend son ordre de départ depuis le 15 (voir f. 22 r\textsuperscript{o}) ; il n'arrivera que le 22 (JMO 7/Bedf, 22 sept. 1916 ; voir f. 24 r\textsuperscript{o}). Le château est celui de Raincheval (voir f. 21 v\textsuperscript{o}). Ce dimanche, le 7th Bedfordshire se baigne, assiste à l'office et voit une démonstration de mortiers Stokes au nord du village (ibid., 17 sept.). Les wesleyens sont des méthodistes ; en 1918, l'armée comptait plus de 500 aumôniers wesleyens et du \textit{United Board} (Thompson 1990). Hippolyte Combes voulait consacrer à ces cultes le chapitre~\textsc{xix} de ses \textit{Feuillets de Route} (« \textit{Sunday service in village church} », en annexe).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'
-- Anonyme (« A Divisional Claims Officer »), « Claims », Blackwood's Magazine, vol. 201, n° 1220, juin 1917, p. 933-941.
-- Ministère de la Culture, base Mérimée, notice PA00116224 (Raincheval, château), consultée le 18 oct. 2026.
 - Thompson, J. H., The Free Church Army Chaplain 1830-1930, thèse de doctorat, Université de Sheffield, 1990 (résumé, White Rose eTheses Online).

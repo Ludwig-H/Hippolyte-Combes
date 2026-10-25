@@ -157,3 +157,8 @@ noms:
     ligne: 24
     identite: bois d'Acheux (Somme)
 source: contrôle
+audit:
+- ligne: 9
+  avant: au Mesnil. \inc{Avait}
+  apres: au Mesnil, \inc{Avait}
+  justification: après Mesnil, trait vertical court identique à la virgule après « fils » et « tea » ; aucun point rond

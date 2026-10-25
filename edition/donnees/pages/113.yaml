@@ -3,7 +3,7 @@ fichier: 20251126_105155.jpg
 date: Mardi 19 – mercredi 20 décembre 1916
 mois: Décembre 1916
 lieux: Acheux-en-Amiénois, Belle-Église (Arquèves), Raincheval et Beauquesne (Somme)
-titre: Attente à l'Army Purchase Board de Raincheval ; solde du XIIIe corps ; neige et grand gel
+titre: Attente à l'Army Purchase Board de Raincheval ; solde de 84 F ; neige et gel
 transcription: |
   19 \sl{Ma} \hfill — \sl{Dec^{bre} 1916} —
   \ind[2] Matinée, course à Belle. eglise,
@@ -31,21 +31,13 @@ transcription: |
   brouillard et pluie des semaines précédentes
 apparat:
 - ligne: 1
-  lemme: Ma
-  type: abreviation
-  note: mardi
-- ligne: 1
   lemme: Dec^{bre}
   type: abreviation
   note: décembre
 - ligne: 2
   lemme: Belle. eglise
   type: graphie
-  note: Belle-Église (hameau d'Arquèves, Somme)
-- ligne: 3
-  lemme: lgs
-  type: abreviation
-  note: longtemps
+  note: Belle-Église (Arquèves)
 - ligne: 4
   lemme: Army P. Board
   type: emprunt
@@ -57,15 +49,7 @@ apparat:
 - ligne: 4
   lemme: \inc{& désert. Froid}
   type: lecture
-  note: passage repassé et empâté ; Froid plus probable que désert pour le dernier mot
-- ligne: 4
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 5
-  lemme: office
-  type: emprunt
-  note: bureau
+  note: passage repassé, lecture incertaine ; dernier mot plutôt Froid que désert
 - ligne: 6
   lemme: billet
   type: emprunt
@@ -80,8 +64,8 @@ apparat:
   note: rez-de-chaussée
 - ligne: 8
   lemme: \inc{propriétres}
-  type: abreviation
-  note: propriétaires ; finale contractée peu distincte
+  type: lecture
+  note: propriétaires ; finale peu distincte, lecture incertaine
 - ligne: 9
   lemme: XIIIe C.
   type: abreviation
@@ -89,7 +73,7 @@ apparat:
 - ligne: 10
   lemme: 'Solde etc : 84 fr'
   type: ajout
-  note: d'une encre brune plus pâle, ajouté après coup ; fr = francs
+  note: ajouté après coup
 - ligne: 11
   lemme: christmas
   type: emprunt
@@ -98,10 +82,6 @@ apparat:
   lemme: 70c.
   type: abreviation
   note: 70 centimes
-- ligne: 12
-  lemme: Merc
-  type: abreviation
-  note: mercredi
 - ligne: 12
   lemme: tr
   type: abreviation
@@ -117,14 +97,14 @@ apparat:
 - ligne: 15
   lemme: \inc{jetté}
   type: lecture
-  note: jetté (pour jeté), deux hampes sans barre ; peut-être jessé
+  note: 'pour jeté ; autre lecture : jessé'
 - ligne: 20
   lemme: g^{d}
   type: abreviation
   note: grand
-critique: 'Le feuillet 56 a été photographié verso d''abord : ce recto fait suite au f.~55~v\textsuperscript{o}. Le compte du 19 est ouvert par un grand crochet et séparé par un filet de la journée du 20.'
+critique: 'Ordre des feuillets restitué : ce recto fait suite au f.~55~v\textsuperscript{o}.'
 historique: |
-  L'« Army P. Board » est l'\textit{Army Purchase Board} du major Levy, à Raincheval (voir f.~46~r\textsuperscript{o}) : chaque armée avait le sien, qui achetait paille et fourrages, gérait presses et batteuses et devait constituer, si le pays le permettait, une réserve d'environ 3~000 tonnes de paille pressée (Puckle 1917, p.~28). Le bureau de la Mission « XIIIe C. » d'Acheux est celui du XIII Corps de Congreve, qui tient la gauche de la Fifth Army (OH 1917-I, p.~66) et a pris Hippolyte Combes en charge le 1\textsuperscript{er} décembre (voir f.~52~v\textsuperscript{o}). Annoncés pour le 17 (f.~53~r\textsuperscript{o}), les 84~F font seize jours à 5,25~F (voir f.~40~r\textsuperscript{o}). La carte de Noël, à 70~c, coûte sept à quatorze fois une carte postale, payée 5 ou 10~c ailleurs dans le carnet (f.~50~r\textsuperscript{o}). Beauquesne avait reçu en juin 1916 le QG avancé de Haig, au château de Valvion (OH 1916-I, p.~304) ; Hippolyte Combes y traitera le 26 avec Mme Capron de la location d'une batteuse (f.~57~v\textsuperscript{o}). Sur la ferme du Quesnoy, voir f.~55~v\textsuperscript{o}.
+  L'« Army P. Board » est l'\textit{Army Purchase Board} du major Levy, à Raincheval (voir f.~46~r\textsuperscript{o}). Chaque armée avait le sien : il achetait paille et fourrages, gérait presses et batteuses et devait tenir une réserve d'environ 3~000 tonnes de paille pressée (Puckle 1917, p.~28). Le bureau « XIIIe C. » d'Acheux est celui du XIII Corps, à la gauche de la Fifth Army (OH 1917-I, p.~66), qui a pris Hippolyte Combes en charge le 1\textsuperscript{er} décembre (voir f.~52~v\textsuperscript{o}). Les 84~F font seize jours à 5,25~F (voir f.~40~r\textsuperscript{o}). La carte de Noël coûte 70~c, contre 5 ou 10~c pour une carte postale (f.~50~r\textsuperscript{o}). Beauquesne avait reçu en juin 1916 le QG avancé de Haig (OH 1916-I, p.~304). Sur le Quesnoy, voir f.~55~v\textsuperscript{o}.
 sources:
 - Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 28.
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.

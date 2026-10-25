@@ -3,7 +3,7 @@ fichier: 20251126_111151.jpg
 date: Samedi 10 mars 1917
 mois: Mars 1917
 lieux: Hérissart (Somme)
-titre: Départ définitif du capitaine Williams ; sans fonctions, mélancolie puis résignation
+titre: Départ du capitaine Williams ; sans fonctions ; mélancolie puis résignation
 transcription: |
   \sl{10 Samedi} — \hfill — \sl{Mars 17} —
   \ind Avant breakfast terminé ts mes
@@ -31,34 +31,18 @@ apparat:
   lemme: '17'
   type: abreviation
   note: '1917'
-- ligne: 2
-  lemme: breakfast
-  type: emprunt
-  note: petit déjeuner
-- ligne: 2
-  lemme: ts
-  type: abreviation
-  note: tous
 - ligne: 6
   lemme: '6'
   type: lecture
-  note: chiffre 6 (boucle basse fermée), isolé entre « ce » et « derniers »
-- ligne: 7
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 8
-  lemme: Cap.
-  type: abreviation
-  note: capitaine
+  note: lecture probable
 - ligne: 8
   lemme: monté
   type: lecture
-  note: lecture douteuse (attaque de m, jambages, t barré) ; peut-être un nom propre
+  note: lecture douteuse ; peut-être un nom propre
 - ligne: 8
   lemme: William
   type: graphie
-  note: sans doute le capitaine Williams, écrit sans s
+  note: pour Williams
 - ligne: 8
   lemme: definit^{t}
   type: abreviation
@@ -67,37 +51,16 @@ apparat:
   lemme: 10^{H}
   type: abreviation
   note: dix heures
-- ligne: 11
-  lemme: '1'
-  type: abreviation
-  note: un
 - ligne: 12
   lemme: English
   type: emprunt
   note: Anglais (les militaires britanniques)
-- ligne: 13
-  lemme: lgt
-  type: abreviation
-  note: longtemps
-- ligne: 16
-  lemme: office
-  type: emprunt
-  note: bureau
-- ligne: 17
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 18
-  lemme: tt
-  type: abreviation
-  note: tout
 - ligne: 18
   lemme: penché
   type: lecture
-  note: c puis h bouclé, sans t barré ni r
-critique: Encre violette sur toute la page ; les trois dernières lignes, d'un module nettement plus grand, ont sans doute été écrites le soir. Le bas du feuillet, taché de rouille, est resté blanc.
+  note: lecture probable
 historique: |
-  Le capitaine Williams, arrivé à Acheux le 2 décembre 1916 pour remplacer le lieutenant Curtis (voir f.~52 v\textsuperscript{o}), avait alors vingt ans et était \textit{office boy} avant la guerre (voir f.~53 v\textsuperscript{o}) ; parmi les quarante-neuf officiers de l'A.S.C. de ce nom (TNA, WO 339), aucun ne peut être retenu, et sa nouvelle affectation est inconnue. Son départ achève la relève annoncée le 5 mars (voir f.~81 r\textsuperscript{o}). Sans officier à servir, l'interprète n'a plus de fonction et attend l'ordre de la Mission (voir f.~82 r\textsuperscript{o}). Les « 6 derniers mois », si la lecture est bonne, sont ceux du séjour dans la Somme, commencé le 11 septembre 1916 à Raincheval (voir f.~21 r\textsuperscript{o}). Ce même 10 mars, à quelque 26~km à l'est-nord-est, la 53rd Brigade de la 18th Division, dont Hippolyte Combes a servi le train jusqu'en novembre, enlève Irles, les hommes du 10th Essex attaquant en tenue blanche (\textit{snow mantles}) (Nichols 1922, p.~157--159 ; Becke 1938, p.~85).
+  Le capitaine Williams, arrivé à Acheux le 2 décembre 1916 (voir f.~52~v\textsuperscript{o}), avait vingt ans et était \textit{office boy} avant la guerre (voir f.~53~v\textsuperscript{o}). Parmi les 49 officiers de l'A.S.C. de ce nom (TNA, WO 339), aucun ne s'impose ; sa nouvelle affectation est inconnue. Les « 6 derniers mois », si la lecture est bonne, sont ceux du séjour dans la Somme, commencé le 11 septembre 1916 à Raincheval (voir f.~21~r\textsuperscript{o}). Le même jour, à 26~km à l'est-nord-est, la 53rd Brigade de la 18th Division, dont Combes a servi le train jusqu'en novembre, prend Irles ; le 10th Essex attaque en tenue blanche (\textit{snow mantles}) (Nichols 1922, p.~157--159 ; Becke 1938, p.~85).
 sources:
 - 'The National Archives (Kew), WO 339 : dossiers d''officiers, requête « Williams » « Army Service Corps » (catalogue en ligne).'
 - Nichols, G. H. F., The 18th Division in the Great War, Édimbourg et Londres, W. Blackwood & Sons, 1922, p. 157-159.

@@ -155,3 +155,8 @@ noms:
     ligne: 19
     identite: Montigny-sur-l'Hallue (Somme)
 source: contrôle
+audit:
+- ligne: 17
+  avant: jour, soleil, mais pâle. Temps redevenu
+  apres: Jour, soleil, mais pâle. Temps redevenu
+  justification: initiale à haute haste d'attaque, montant jusqu'au trait de soulignement de la l. 16 (près de deux fois la hauteur de « our »), grande boucle inférieure fermée vers la gauche, donc J majuscule, différent du j de « journée » (l. 2), qui part de la hauteur d'œil (zoom ×3 [0 .60 .30 .68])

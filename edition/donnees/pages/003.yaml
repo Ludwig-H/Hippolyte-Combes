@@ -3,7 +3,7 @@ fichier: 20251126_093018.jpg
 date: Mercredi 26 juillet 1916
 mois: Juillet 1916
 lieux: Lynde (Nord)
-titre: Cantonnement des Royal Fusiliers avec le lieutenant Michel ; départ annoncé pour le 28
+titre: Cantonnement des Royal Fusiliers avec le lieutenant Michel ; départ prévu le 28
 transcription: |
   \sl{26 mer} \hfill \sl{Juillet /16}
   \ind De 9^{h} m. jà 2^{h} \fr{1}{2} s, occupé au cantonnement
@@ -30,18 +30,10 @@ apparat:
   lemme: mer
   type: abreviation
   note: mercredi
-- ligne: 1
-  lemme: /16
-  type: abreviation
-  note: '1916'
 - ligne: 2
   lemme: 9^{h}
   type: abreviation
   note: heures
-- ligne: 2
-  lemme: m.
-  type: abreviation
-  note: matin
 - ligne: 2
   lemme: jà
   type: abreviation
@@ -51,10 +43,6 @@ apparat:
   type: abreviation
   note: heures
 - ligne: 2
-  lemme: \fr{1}{2}
-  type: abreviation
-  note: et demie
-- ligne: 2
   lemme: s,
   type: abreviation
   note: soir
@@ -63,21 +51,9 @@ apparat:
   type: emprunt
   note: '« fusiliers royaux » : régiment d''infanterie britannique'
 - ligne: 3
-  lemme: Lt
-  type: abreviation
-  note: lieutenant
-- ligne: 3
   lemme: billeting
   type: emprunt
   note: 'billeting officer (l. 3–4) : officier de cantonnement, chargé du logement des troupes'
-- ligne: 4
-  lemme: d'1
-  type: abreviation
-  note: d'une
-- ligne: 5
-  lemme: ds
-  type: abreviation
-  note: dans
 - ligne: 6
   lemme: d'off
   type: abreviation
@@ -86,26 +62,14 @@ apparat:
   lemme: 2^{h}
   type: abreviation
   note: heures
-- ligne: 8
-  lemme: ds
-  type: abreviation
-  note: dans
 - ligne: 10
   lemme: 9^{h}
   type: abreviation
   note: heures
-- ligne: 10
-  lemme: lgs
-  type: abreviation
-  note: longtemps
 - ligne: 11
   lemme: cottage
   type: emprunt
   note: maisonnette
-- ligne: 12
-  lemme: à g.
-  type: abreviation
-  note: à gauche
 - ligne: 15
   lemme: changem
   type: abreviation
@@ -114,27 +78,8 @@ apparat:
   lemme: ct
   type: abreviation
   note: courant (le 28 du mois en cours)
-- ligne: 17
-  lemme: Food
-  type: emprunt
-  note: nourriture
-- ligne: 17
-  lemme: 60c
-  type: abreviation
-  note: 60 centimes
-- ligne: 17
-  lemme: Washing
-  type: emprunt
-  note: blanchissage
-- ligne: 17
-  lemme: 1^{f}
-  type: abreviation
-  note: 1 franc
-critique: Encre violette ; un blanc d'une ligne isole l'annonce du départ du 28, un blanc de deux lignes la sépare du filet des comptes. Dans la ligne des comptes, les libellés et la ponctuation sont à l'encre, les montants ajoutés au crayon dans les blancs laissés à cet effet.
 historique: |
-  Les 36 chambres sont pour les officiers des Royal Fusiliers arrivés la veille (voir f. 1 r\textsuperscript{o}). Le cantonnement était « une des principales besognes de l'interprète » : un officier, l'interprète et deux caporaux précédaient l'unité, et l'habitant recevait 1 F par nuit et par lit d'officier, selon le « Décret de 1877 » (Fernand-Laurent 1917, p. 225-234). Le lieutenant Michel n'est pas identifié. Lynde avait déjà logé, début juillet, l'état-major de l'artillerie de la 5th Australian Division (Ellis [1920], p. 66-67). Le même jour, à Wallon-Cappel, Maxse félicite le 7th Bedfordshire de la prise de la Pommiers Redoubt, le 1\textsuperscript{er} juillet (Beds War Diary, 26 juill. 1916). Le « changem de cantonnement » du 28 est la marche de la 54th Brigade vers Bailleul par Hazebrouck (ibid., 28 juill. 1916 ; voir f. 2 v\textsuperscript{o}). Le « château de la brasserie » n'est pas identifié. Le \textit{Washing} reparaît jusqu'à la dernière page (f. 93 r\textsuperscript{o}).
+  Les 36 officiers sont arrivés la veille (voir f. 1 r\textsuperscript{o}). Le cantonnement était « une des principales besognes de l'interprète » : un officier, l'interprète et deux caporaux précédaient l'unité ; l'habitant recevait 1 F par nuit et par lit d'officier (Fernand-Laurent 1917, p. 225-234). Le lieutenant Michel et le « château de la brasserie » ne sont pas identifiés. Le même jour, à Wallon-Cappel, Maxse félicite le 7th Bedfordshire de la prise de la Pommiers Redoubt (1\textsuperscript{er} juillet) (Beds War Diary, 26 juill. 1916). Le départ du 28 est la marche de la 54th Brigade vers Bailleul par Hazebrouck (ibid., 28 juill. 1916 ; voir f. 2 v\textsuperscript{o}).
 sources:
 - Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, p. 225-234.
-- Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], p. 66-67.
 - 'Bedfordshire Archives Service (Bedford), X550/8/1/1607 et 1607b : War Diary, 7th (Service) Battalion Bedfordshire Regiment, juillet 1916 (cité « Beds War Diary »).'
-- Nichols, G. H. F., The 18th Division in the Great War, Édimbourg-Londres, Blackwood, 1922, p. 109.

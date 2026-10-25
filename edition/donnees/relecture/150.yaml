@@ -138,3 +138,8 @@ noms:
     ligne: 19
     identite: Martinsart (Somme)
 source: contrôle
+audit:
+- ligne: 9
+  avant: pour acheter paille & foin
+  apres: pour acheter paille & foin.
+  justification: point rond appuyé sur la ligne, détaché après « foin » (zoom ×2 [.45 .33 .75 .385]), de même forme que celui de « mois. » (l. 5) ; le point du i est le petit tiret au-dessus du mot

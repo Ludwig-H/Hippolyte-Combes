@@ -103,3 +103,12 @@ noms:
     ligne: 16
     identite: Senlis-le-Sec (Somme)
 source: contrôle
+audit:
+- ligne: 12
+  avant: A.S.C.,
+  apres: A.S.C,
+  justification: points après A et après S ; après le C, une seule virgule courbe, sans point
+- ligne: 12
+  avant: etc. etc. &
+  apres: etc. etc &
+  justification: point net après le premier etc ; le second se prolonge en long délié jusqu'au & sans aucun point

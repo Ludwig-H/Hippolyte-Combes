@@ -144,3 +144,12 @@ noms:
     ligne: 20
     identite: Albert (Somme)
 source: contrôle
+audit:
+- ligne: 10
+  avant: A 6^{H} s, venu hut de Y.M.C.A. et entendu
+  apres: A 6^{H} s, venu hut de Y.M-C-A- et entendu
+  justification: zoom ×3 [.52 .37 .82 .43] — point rond sur la ligne de base après Y seulement ; après M, C et A, courts tirets horizontaux à mi-hauteur d'œil, non des points (cf. guide § 7, point abréviatif réduit à un trait)
+- ligne: 25
+  avant: '\equerre{1}\equerred{1}— Albert : solde : 88 \inc{fr} — 3 C^{tes} p^{les} : 30 c'
+  apres: '\equerre{1}\equerred{1}— Albert : solde : 88 \inc{fr} – — 3 C^{tes} p^{les} : 30 c'
+  justification: zoom ×3 [.36 .92 .62 1.0] — après le f, deux tirets séparés par un blanc, le premier court et fin, le second plus long et appuyé, puis le 3

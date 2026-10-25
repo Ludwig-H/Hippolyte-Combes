@@ -10,6 +10,7 @@ Usage : python3 edition/cartes/generer_cartes.py [--dem DOSSIER] [--seule ID] [-
 from __future__ import annotations
 
 import argparse
+import re
 import json
 import math
 import os
@@ -166,6 +167,17 @@ def fond_relief(ax, emprise, mnt: MNT | None, ne_gris: Path | None, res: float, 
 # ---------------------------------------------------------------------------
 # Couches vectorielles
 # ---------------------------------------------------------------------------
+def typo(o):
+    """Typographie des textes imprimés sur les cartes : apostrophe courbe, « 1ᵉʳ » en exposant."""
+    if isinstance(o, str):
+        return re.sub(r"\b1er\b", "1ᵉʳ", o.replace("'", "’"))
+    if isinstance(o, list):
+        return [typo(x) for x in o]
+    if isinstance(o, dict):
+        return {k: (v if k in ("id", "couches_eau", "fichier") else typo(v)) for k, v in o.items()}
+    return o
+
+
 def charger_geojson(nom):
     p = DONNEES / nom
     if not p.exists():
@@ -428,7 +440,7 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
                 markeredgecolor=ENCRE, markeredgewidth=0.6, zorder=7)
         dx, dy = p.get("dx", 1.3 if p.get("ha", "left") == "left" else -1.3), p.get("dy", 0.0)  # en mm
         mx = (emprise[2] - emprise[0]) / w_mm
-        lab = p.get("etiquette", L.get("label", L["name"]))
+        lab = typo(p.get("etiquette", L.get("label", L["name"])))
         if p.get("date"):
             lab = lab + "\n" + p["date"]
         ax.text(x + dx * mx, y + dy * mx, lab, fontsize={1: 7.8, 2: 6.8, 3: 6.0}[rang],
@@ -457,6 +469,10 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
             fig.lines.append(plt.Line2D([0.025], [y - 0.004], transform=fig.transFigure, marker="o",
                                         markersize=item.get("taille", 3.2), markerfacecolor=item.get("couleur", ROUGE),
                                         markeredgecolor=ENCRE, markeredgewidth=0.6, linestyle="none"))
+        elif item.get("type") == "cercle":
+            fig.lines.append(plt.Line2D([0.025], [y - 0.004], transform=fig.transFigure, marker="o",
+                                        markersize=item.get("taille", 2.8), markerfacecolor="white",
+                                        markeredgecolor=ENCRE, markeredgewidth=0.6, linestyle="none"))
         elif item.get("type") == "fleche":
             fig.patches.append(FancyArrowPatch((0.0, y - 0.004), (0.05, y - 0.004), transform=fig.transFigure,
                                                arrowstyle="-|>", mutation_scale=6, color=item.get("couleur", BLEU_ROUTE),
@@ -470,6 +486,7 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
     src = spec.get("sources", "Fond : relief d'après Copernicus DEM GLO-30 (© DLR e.V. 2010-2014 et © Airbus Defence and Space "
                    "GmbH 2014-2018, programme Copernicus), cours d'eau IGN BD TOPO (Licence Ouverte 2.0) ; "
                    "repères actuels ; projection Lambert-93.")
+    src = typo(src)
     fig.text(0.0, 0.2 / h_mm, "\n".join(textwrap.wrap(src, 170)), fontsize=4.6, va="bottom", color="#777777",
              linespacing=1.15)
 
@@ -488,7 +505,7 @@ def main():
     ap.add_argument("--seule")
     ap.add_argument("--png", action="store_true")
     a = ap.parse_args()
-    specs = yaml.safe_load(open(ICI / "cartes.yaml", encoding="utf-8"))["cartes"]
+    specs = typo(yaml.safe_load(open(ICI / "cartes.yaml", encoding="utf-8"))["cartes"])
     lieux = json.load(open(DONNEES / "lieux.json", encoding="utf-8"))
     sup = DONNEES / "lieux_complementaires.json"
     if sup.exists():
@@ -510,7 +527,7 @@ def main():
     fronts = {}
     if (DONNEES / "fronts.yaml").exists():
         fy = yaml.safe_load(open(DONNEES / "fronts.yaml", encoding="utf-8"))
-        fronts = fy["fronts"]
+        fronts = {k: typo(v) for k, v in fy["fronts"].items()}
         for nom, parts in (fy.get("composes") or {}).items():
             pts = []
             for part in parts:

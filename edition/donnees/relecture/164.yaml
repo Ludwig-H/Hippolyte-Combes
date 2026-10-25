@@ -182,3 +182,8 @@ noms:
     ligne: 12
     identite: Hérissart (Somme)
 source: contrôle
+audit:
+- ligne: 7
+  avant: R.2,
+  apres: R2,
+  justification: 'Zoom ×3 : R à haste et jambe directement suivi du 2 bouclé, aucun point entre eux ; le seul point est un grain isolé avant R.'

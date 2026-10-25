@@ -182,3 +182,8 @@ noms:
     ligne: 22
     identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
 source: contrôle
+audit:
+- ligne: 2
+  avant: vers 1^{H} – ds le
+  apres: vers 1^{H}, – ds le
+  justification: zoom ×4 [.55 .055 .78 .10] ; après l'H suscrit (deux hastes et traverse, au-dessus de la ligne), trait vertical isolé descendant sous la ligne de base, même forme que la virgule après Bailleul et train ; puis le tiret court

@@ -182,3 +182,8 @@ noms:
     ligne: 10
     identite: Sercus (Nord), près de Lynde et d'Hazebrouck, lecture proposée
 source: contrôle
+audit:
+- ligne: 8
+  avant: Mélancolie éparse à travers atmosphère
+  apres: Melancolie éparse à travers atmosphère
+  justification: 'zoom ×3 : M à long délié d''attaque, e en boucle, puis la haute boucle du l ; aucun accent au-dessus de l''e ni décalé sur la lettre suivante (le seul point est celui de l''i final) ; accent non restitué'

@@ -118,3 +118,8 @@ noms:
     ligne: 10
     identite: Béthune (Pas-de-Calais)
 source: contrôle
+audit:
+- ligne: 14
+  avant: 'et aujourd hui : 20 c.'
+  apres: et aujourd hui . 20 c.
+  justification: 'zoom ×3 [.25 .49 .60 .545] : un seul point sur la ligne de base devant 20 ; le tiret au-dessus est le point du i de hui, le point plus haut appartient au deux-points de la l. 13 (fermière : lait) ; même séparateur que « bière . hier » l. 13'

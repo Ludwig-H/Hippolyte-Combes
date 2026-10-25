@@ -3,15 +3,15 @@ fichier: 20251126_103301.jpg
 date: Dimanche 1er octobre 1916
 mois: Octobre 1916
 lieux: Toulouse (Haute-Garonne)
-titre: Messe à Saint-Étienne ; tram de Lardenne, causerie avec Marguerite au bord du Touch ; Jean
+titre: Messe à Saint-Étienne ; promenade à Lardenne et au Touch avec Marguerite
 transcription: |
   \sl{1er D.} \hfill \sl{Octobre /16}
   Matin, à St. Etienne. Entendu
   messe \inc{curé} – 8^{H} autel paroissial. M^{te}, à ma droite
   Matinée, ds mon appart^{t}, à ranger mes choses
   Joui du calme & silence —
-  monté déjeun à S^{te} Marie. – \hfill Temps trè beau
-  Après repas, pris trams et venu à Lardenne
+  monté déjeun à S^{te} Marie – \hfill Temps trè beau
+  Après repas, pris trams et venus à Lardenne
   De l'église, continué à pied j-au pont du Touch
   Assis s/ l'herbe prairie longeant rivière –
   & Longue causerie intime av M^{te}. – Tjs
@@ -28,10 +28,6 @@ apparat:
   lemme: 1er D.
   type: abreviation
   note: premier, dimanche
-- ligne: 1
-  lemme: /16
-  type: abreviation
-  note: '1916'
 - ligne: 2
   lemme: St.
   type: abreviation
@@ -39,31 +35,11 @@ apparat:
 - ligne: 3
   lemme: \inc{curé}
   type: lecture
-  note: 'lecture incertaine (c, minimes, e accentué) : « messe du curé » ? ; autre lecture : cuné'
-- ligne: 3
-  lemme: 8^{H}
-  type: abreviation
-  note: 8 heures
+  note: 'lecture incertaine (« messe du curé » ?) ; autre lecture : cuné'
 - ligne: 3
   lemme: M^{te}
   type: abreviation
   note: Marguerite (Calmels)
-- ligne: 4
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 4
-  lemme: appart^{t}
-  type: abreviation
-  note: appartement
-- ligne: 4
-  lemme: choses
-  type: lecture
-  note: c, h, o, s, e, s nets
-- ligne: 5
-  lemme: '&'
-  type: abreviation
-  note: et
 - ligne: 6
   lemme: déjeun
   type: abreviation
@@ -76,66 +52,29 @@ apparat:
   lemme: trè
   type: abreviation
   note: très
-- ligne: 8
-  lemme: j-au
-  type: abreviation
-  note: jusqu'au
-- ligne: 9
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 10
-  lemme: av
-  type: abreviation
-  note: avec
-- ligne: 10
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 10
-  lemme: M^{te}
-  type: abreviation
-  note: Marguerite
+- ligne: 7
+  lemme: venus
+  type: lecture
+  note: s final réduit à un trait ; pluriel (avec Marguerite)
 - ligne: 10
   lemme: Tjs
   type: abreviation
   note: Toujours
-- ligne: 11
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 13
-  lemme: 9^{H} 30
-  type: lecture
-  note: 9 heures 30 (boucle du 9 fermée en tête)
-- ligne: 13
-  lemme: av
-  type: abreviation
-  note: avec
 - ligne: 14
   lemme: 20c.
   type: abreviation
   note: 20 centimes (de même 40c, 80c)
-- ligne: 14
-  lemme: 80c
-  type: lecture
-  note: 80 centimes (8 à double boucle)
 - ligne: 15
   lemme: Sweets
   type: emprunt
   note: confiseries
-- ligne: 15
-  lemme: 20c
-  type: abreviation
-  note: 20 centimes
-critique: Encre violette. Deux espaces laissés en blanc encadrent la ligne du retour, comme si le récit de la soirée devait être complété ; les comptes sont rejetés sous le filet.
 historique: |
-  La messe de 8 h est entendue à l'autel paroissial de la cathédrale Saint-Étienne (Mérimée PA00094498), proche de l'appartement d'Hippolyte Combes, rue de Languedoc (lettre à Marguerite, 25 nov. 1918 ; Baedeker 1912, p.~300). Sainte-Marie-des-Champs est la maison de l'oncle Émile Crouzet, au terminus du tram de la Côte-Pavée, où séjournent Marguerite et sa mère (voir f.~27 v\textsuperscript{o}). L'après-midi, la ligne suburbaine partie de la place Esquirol conduit à Lardenne, à l'ouest de la ville (Baedeker 1912, p.~298) ; le Touch coule au-delà. « Jean » est sans doute l'abbé Jean Crouzet (v. 1880--1932), fils d'Émile et cousin germain de Marguerite (\textit{L'Express du Midi}, 23 déc. 1926, p.~5 ; 27 août 1932, p.~4) : un « abbé Crouzet » est vicaire à la cathédrale pendant la guerre (\textit{Le Télégramme}, 5 févr. 1915, p.~2 ; 15 avr. 1917, p.~3), d'où ce retour en ville le soir. Ce jour, la 55th Brigade de la 18th Division dispute encore la Schwaben Redoubt, que la division tient jusqu'à sa relève, le 5 octobre (Becke 1938, p.~84 ; OH 1916-II, p.~453).
+  La messe de 8~h est dite à l'autel paroissial de la cathédrale Saint-Étienne (Mérimée PA00094498), proche de l'appartement de la rue de Languedoc (lettre à Marguerite, 25 nov. 1918). Sur Sainte-Marie, maison de l'oncle Émile Crouzet, voir f.~27 v\textsuperscript{o}. Le tram de la place Esquirol mène à Lardenne, à l'ouest, près du Touch (Baedeker 1912, p.~298). « Jean » est sans doute l'abbé Jean Crouzet (v. 1880--1932), fils d'Émile et cousin germain de Marguerite (\textit{L'Express du Midi}, 23 déc. 1926, p.~5 ; 27 août 1932, p.~4) ; un « abbé Crouzet » est vicaire à la cathédrale pendant la guerre (\textit{Le Télégramme}, 5 févr. 1915, p.~2). Ce jour, la 55th Brigade de la 18th Division dispute encore la Schwaben Redoubt, que la division tient jusqu'à sa relève, le 5 octobre (Becke 1938, p.~84 ; OH 1916-II, p.~453).
 sources:
 - Ministère de la Culture, base Mérimée, notice PA00094498 (cathédrale Saint-Étienne, Toulouse), consultée via monumentum.fr.
-- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, K. Baedeker, 1912, p. 298, 300.
+- Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, K. Baedeker, 1912, p. 298.
 - Hippolyte Combes, H., carte-lettre à Marguerite Calmels, Paris, 25 novembre 1918 (archives familiales).
 - L'Express du Midi, 23 décembre 1926, p. 5 (faire-part d'Émile Crouzet) ; 27 et 28 août 1932, p. 4-5 (obsèques de l'abbé Jean Crouzet), Rosalis, Bibliothèque de Toulouse.
-- Le Télégramme, 5 février 1915, p. 2 (ark:/12148/bd6t53865791z) ; 15 avril 1917, p. 3 (ark:/12148/bd6t538665905), Rosalis, Bibliothèque de Toulouse.
+- Le Télégramme, 5 février 1915, p. 2 (ark:/12148/bd6t53865791z), Rosalis, Bibliothèque de Toulouse.
 - 'Becke, A. F., Order of Battle of Divisions, part 3A : New Army Divisions (9-26), London, HMSO, 1938, p. 84.'
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 453.

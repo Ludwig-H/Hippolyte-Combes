@@ -3,7 +3,7 @@ fichier: 20251126_111715.jpg
 date: Lundi 23 – mercredi 25 avril 1917
 mois: Avril 1917
 lieux: Hérissart, Toutencourt, Pierregot, Acheux-en-Amiénois et Mirvaux (Somme)
-titre: Premiers jours d'été ; Acheux vidé de troupes ; lecture à Pierregot ; soirée chez Denis
+titre: Premiers jours d'été ; Acheux vidé de troupes ; soirée chez les Denis
 transcription: |
   23 \sl{Lundi} \hfill \sl{Avril 1917}
   \ind Temps beau journée entière
@@ -29,33 +29,13 @@ transcription: |
   \ind de courte durée. Temps redevenu 1 peu froid.
   Matinée, course à Acheux – village presque désert
   et mort, plus de troupes cantonnées —
-  Après-midi, à Pierregot. Lu chz Mme \inc{Mignot} \add{(et Louise)}
+  Après-midi, à Pierregot. Lu chz Mme \inc{Miquel} \add{(et Louise)}
   Soirée passée chz la famille Denis, à Hérissart —
 apparat:
-- ligne: 5
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 6
-  lemme: sunset
-  type: emprunt
-  note: coucher de soleil
-- ligne: 9
-  lemme: d'1
-  type: abreviation
-  note: d'un
-- ligne: 9
-  lemme: Ds
-  type: abreviation
-  note: Dans
 - ligne: 12
   lemme: Tempér^{e}
   type: abreviation
   note: Température
-- ligne: 13
-  lemme: '&'
-  type: abreviation
-  note: et
 - ligne: 14
   lemme: 5^{h}
   type: abreviation
@@ -63,51 +43,17 @@ apparat:
 - ligne: 16
   lemme: \inc{Beaucourt}
   type: lecture
-  note: Beaucourt(-sur-l'Hallue) ; B et a nets, fin du mot tassée contre la marge ; autre lecture possible Baizieux
-- ligne: 17
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 17
-  lemme: bleuâtre
-  type: lecture
-  note: sans s final visible
-- ligne: 18
-  lemme: sunset
-  type: emprunt
-  note: coucher de soleil
-- ligne: 19
-  lemme: Merc.
-  type: abreviation
-  note: mercredi
-- ligne: 20
-  lemme: 1 peu
-  type: abreviation
-  note: un peu
+  note: 'Beaucourt-sur-l''Hallue ? autre lecture : Baizieux'
 - ligne: 23
   lemme: Lu
   type: lecture
-  note: L à boucle basse descendant sous la ligne, sans accent ; « Thé » moins probable
+  note: 'autre lecture, moins probable : Thé'
 - ligne: 23
-  lemme: chz
-  type: abreviation
-  note: chez
-- ligne: 23
-  lemme: Mme
-  type: abreviation
-  note: Madame
-- ligne: 23
-  lemme: \inc{Mignot}
+  lemme: \inc{Miquel}
   type: lecture
-  note: M, jambages, puis haute haste bouclée sans barre (l plutôt que t) ; Miquel ou Miguel possibles
-- ligne: 24
-  lemme: chz
-  type: abreviation
-  note: chez
-critique: Encre violette. Les deux « Toutencourt », « Admiré » et l'initiale du second « Après-midi » sont repassés d'un trait très appuyé, peut-être sur une première écriture.
+  note: 'lecture incertaine ; autre lecture : Mignot'
 historique: |
-  Le lundi 23, jour où la Third Army attaque à l'est d'Arras (voir f.~91 r\textsuperscript{o}), le carnet ne retient que le beau temps et les courses du service d'achats. Acheux, « presque désert et mort » le 25, où Hippolyte Combes avait eu son bureau de novembre à février (voir f.~73 v\textsuperscript{o}), a perdu le 2 avril le QG du V Corps, parti pour Bihucourt derrière le nouveau front (LLT). Puchevillers garde encore un hôpital d'évacuation, la 61st (South Midland) CCS, arrivée en mars après le départ des 3rd et 44th CCS (LLT). Le chemin de Mirvaux, au sud d'Hérissart, domine la vallée de l'Hallue, où Faidherbe avait livré le 23 décembre 1870 la bataille dite de Pont-Noyelles (Faidherbe 1871) ; à Montigny, Hippolyte Combes avait traité avec le maire, Paul Dubois (f.~59 v\textsuperscript{o}). Les « métiers à tisser » vus le 23 témoignent peut-être d'un tissage à domicile encore pratiqué dans ces villages ; le carnet ne dit ni où ni chez qui. Mme Mignot et Louise, de Pierregot, ne sont pas identifiées ; sur les Denis, voir f.~89 r\textsuperscript{o}.
+  Le 23, jour où la Third Army attaque à l'est d'Arras (voir f.~91 r\textsuperscript{o}), le carnet ne note que le beau temps et les courses. Acheux, où Hippolyte Combes avait eu son bureau de novembre à février (voir f.~73 v\textsuperscript{o}), a perdu le 2 avril le QG du V Corps, parti pour Bihucourt, derrière le nouveau front (LLT). Le chemin de Mirvaux, au sud d'Hérissart, domine la vallée de l'Hallue, où Faidherbe avait livré le 23 décembre 1870 la bataille de Pont-Noyelles (Faidherbe 1871) ; à Montigny, Hippolyte Combes avait traité avec le maire, Paul Dubois (f.~59 v\textsuperscript{o}). Mme Miquel (?) et Louise, de Pierregot, ne sont pas identifiées ; sur les Denis, voir f.~89 r\textsuperscript{o}.
 sources:
 - The Long, Long Trail (C. Baker), « The British V Corps in France and Flanders », copie Wayback d'août 2020.
-- The Long, Long Trail (C. Baker), « Locations of British Casualty Clearing Stations », copie Wayback du 13 janv. 2018.
 - Faidherbe, L., Campagne de l'armée du Nord en 1870-1871, Paris, E. Dentu, 1871.

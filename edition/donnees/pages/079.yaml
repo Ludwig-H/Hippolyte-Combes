@@ -3,7 +3,7 @@ fichier: 20251126_104222.jpg
 date: Mercredi 18 octobre 1916 (suite)
 mois: Octobre 1916
 lieux: Bouzincourt, Hédauville et Albert (Somme)
-titre: Flot nuit et jour de camions et de caissons ; seul au mess ; solde de 84 F à Albert
+titre: Flot de camions et de caissons nuit et jour ; seul au mess ; solde de 84 F
 transcription: |
   sur l. nuit & jour, flot ininterrompu de vehicules de
   ttes sortes : lorries, caissons de munitions etc . Autant de
@@ -20,66 +20,18 @@ apparat:
   lemme: sur l.
   type: abreviation
   note: sur laquelle (la route nommée au bas de la page précédente)
-- ligne: 1
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 1
-  lemme: ininterrompu
-  type: lecture
-  note: le -u final se fond dans le long délié qui suit le p
-- ligne: 2
-  lemme: ttes
-  type: abreviation
-  note: toutes
-- ligne: 2
-  lemme: lorries
-  type: emprunt
-  note: camions
 - ligne: 3
   lemme: d'1 gde
   type: abreviation
   note: d'une grande
-- ligne: 4
-  lemme: dinner
-  type: emprunt
-  note: dîner
-- ligne: 4
-  lemme: offs
-  type: abreviation
-  note: officiers
-- ligne: 5
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 5
-  lemme: mess-tent
-  type: emprunt
-  note: tente du mess des officiers
 - ligne: 6
   lemme: merc-
   type: abreviation
   note: mercredi
 - ligne: 6
-  lemme: 'Albert : cartes'
-  type: disposition
-  note: le trait vertical des l. 6–7 est tiré entre la date et les deux postes, non en marge
-- ligne: 6
-  lemme: ples
-  type: abreviation
-  note: postales
-- ligne: 6
-  lemme: 40c
-  type: abreviation
-  note: 40 centimes
-- ligne: 6
   lemme: Oct 16
   type: abreviation
   note: octobre 1916
-- ligne: 6
-  lemme: \sl{Oct 16}
-  type: disposition
-  note: écrit à droite, entre les l. 6 et 7, sous l'extrémité recourbée du filet
 - ligne: 7
   lemme: frse
   type: abreviation
@@ -88,10 +40,9 @@ apparat:
   lemme: 84 fr
   type: abreviation
   note: 84 francs
-critique: Page à l'encre violette, écrite en travers, qui achève le récit du 18 octobre commencé f.~39~v\textsuperscript{o}. Un large blanc sépare le récit du compte de la journée, placé au pied de la page sous un filet tiré sur toute la largeur.
+critique: Page écrite en travers ; fin du récit du 18 octobre commencé f.~39~v\textsuperscript{o}.
 historique: |
-  La route qui longe le camp, entre Bouzincourt et Hédauville (voir f.~39~r\textsuperscript{o}), est sans doute celle d'Albert à Doullens, qui passe à Hédauville, à 5~km au nord-ouest d'Albert (CWGC, Hedauville Communal Cemetery Extension) : elle relie la ville à l'arrière. Le trafic noté par Hippolyte Combes est celui de la préparation de l'attaque du II Corps sur Regina et Stuff Trenches, alors prévue pour le 20 octobre et remise au 21 (OH 1916-II, p.~461) ; la 18th Division a ouvert un QG avancé à Albert le 14 octobre (JMO 7/Bedf, 14 oct. 1916). Les 84~F touchés au bureau de la Mission française d'Albert sont la « solde \& indemnité de fonctions » de l'interprète (voir f.~11~r\textsuperscript{o}). Ils font 16 jours à 5,25~F. Les versements de la seconde moitié des mois de 31 jours sont aussi de 84~F (18 août, 19 décembre, 19 janvier) ; celui du 18 février, pour un mois de 28 jours, est de 68,25~F, soit 13 jours (f.~11~r\textsuperscript{o}, 56~r\textsuperscript{o}, 62~v\textsuperscript{o}, 78~r\textsuperscript{o}). Il s'agit donc sans doute de la quinzaine du 16 au 31 octobre.
+  La route qui longe le camp (voir f.~39~r\textsuperscript{o}) est sans doute celle d'Albert à Doullens, qui passe à Hédauville (CWGC, Hedauville Communal Cemetery Extension). Le trafic est celui de la préparation de l'attaque du II Corps sur Regina et Stuff Trenches, alors prévue pour le 20 octobre (OH 1916-II, p.~461). Les 84~F touchés à la Mission française d'Albert sont la « solde \& indemnité de fonctions » de l'interprète (voir f.~11~r\textsuperscript{o}), soit 16 jours à 5,25~F. Les versements de la seconde moitié des mois de 31 jours sont aussi de 84~F (18 août, 19 décembre, 19 janvier), celui du 18 février, pour un mois de 28 jours, de 68,25~F, soit 13 jours (f.~11~r\textsuperscript{o}, 56~r\textsuperscript{o}, 62~v\textsuperscript{o}, 78~r\textsuperscript{o}) : il s'agit donc sans doute de la quinzaine du 16 au 31 octobre.
 sources:
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 461.
-- 'Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).'
 - Commonwealth War Graves Commission, notice « Hedauville Communal Cemetery Extension », cwgc.org, consultée le 18 oct. 2026.

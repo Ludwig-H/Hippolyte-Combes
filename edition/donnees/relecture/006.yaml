@@ -176,3 +176,12 @@ noms:
     ligne: 18
     identite: Saint-Jans-Cappel (Nord)
 source: contrôle
+audit:
+- ligne: 6
+  avant: \inc{curieux}
+  apres: \inc{Leroux}
+  justification: 'zoom x4 : après le jambage du p de Cappel (l. 5), qui occupe la place de l''initiale, on lit e, r, o, u, x nets ; aucun point d''i, aucune place pour cu- devant ; la suite convient à -eroux, non à -rieux'
+- ligne: 20
+  avant: 2 litres 1/2 de lait
+  apres: 2 litres \fr{1}{2} de lait
+  justification: 'zoom x4 : la longue haste oblique est le s final de litres ; la fraction est empilée, 1 en haut, petite barre horizontale, 2 en ℓ couché au-dessous de la ligne'

@@ -189,3 +189,8 @@ noms:
     ligne: 9
     identite: Bac-Saint-Maur, hameau de Sailly-sur-la-Lys (Pas-de-Calais), sur la Lys
 source: contrôle
+audit:
+- ligne: 0
+  avant: 'critique : Le verso du f. 6, entre le 5 et le 6 août, n''a pas été photographié.'
+  apres: 'critique : Le verso du f. 6, entre le 5 et le 6 août, a bien été photographié : la page est vierge, Hippolyte Combes n''y a rien écrit.'
+  justification: 'information de l''utilisateur : le verso du f. 6 figure parmi les photographies, mais il est vide ; la critique doit le dire au lieu de le donner pour manquant. Transcription contrôlée mot à mot (zooms sur anglse, où, 90c.., prop^{re}, Dim – 6., usine) : aucune lecture à changer'

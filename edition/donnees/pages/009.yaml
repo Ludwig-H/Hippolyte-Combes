@@ -3,7 +3,7 @@ fichier: 20251126_093301.jpg
 date: Mercredi 2 et jeudi 3 août 1916
 mois: Août 1916
 lieux: Saint-Jans-Cappel et Bailleul (Nord)
-titre: 'Bailleul : Saint-Vaast, dentellières, rues d''Ypres et de Lille ; fourrage et menus achats'
+titre: 'Promenades à Bailleul : Saint-Vaast, dentellières, rues d''Ypres et de Lille'
 transcription: |
   2 Me – Encore très b. journee. \hfill \sl{Aout /16}
   Matinée entière libre. Passé près de 2 h. assis
@@ -31,26 +31,10 @@ transcription: |
   Au retour, assis au fond jardin ferme où loge
   \ind[2] — Ctes ples : 40c. – Drink : 10c —
 apparat:
-- ligne: 1
-  lemme: Me
-  type: abreviation
-  note: mercredi
-- ligne: 1
-  lemme: b.
-  type: abreviation
-  note: belle
-- ligne: 1
-  lemme: /16
-  type: abreviation
-  note: '1916'
 - ligne: 2
   lemme: 2 h.
   type: abreviation
   note: 2 heures
-- ligne: 3
-  lemme: ds
-  type: abreviation
-  note: dans
 - ligne: 4
   lemme: 1 wagon
   type: abreviation
@@ -71,22 +55,10 @@ apparat:
   lemme: longt
   type: abreviation
   note: longtemps
-- ligne: 8
-  lemme: dentellières
-  type: disposition
-  note: finale -ières descendue le long du bord droit
-- ligne: 11
-  lemme: ctes ples
-  type: abreviation
-  note: cartes postales
-- ligne: 11
-  lemme: 20c.
-  type: abreviation
-  note: 20 centimes
 - ligne: 11
   lemme: \inc{1^{f} 75c}
   type: lecture
-  note: '1 franc 75 centimes ? montant serré contre le bord sur deux niveaux (1 f au-dessus du deux-points, 75c plus bas)'
+  note: lecture incertaine (1 franc 75 centimes ?)
 - ligne: 12
   lemme: 2m.
   type: abreviation
@@ -100,45 +72,21 @@ apparat:
   type: abreviation
   note: 35 centimes
 - ligne: 12
-  lemme: Drink
-  type: emprunt
-  note: boisson
-- ligne: 12
   lemme: 10, 10c
   type: abreviation
   note: 10 et 10 centimes (deux consommations)
-- ligne: 13
-  lemme: J
-  type: abreviation
-  note: jeudi
 - ligne: 13
   lemme: tempér^{re}
   type: abreviation
   note: température ; finale -re réduite à une ondulation surélevée
 - ligne: 18
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 18
-  lemme: ts
-  type: abreviation
-  note: tous
-- ligne: 18
   lemme: B
   type: abreviation
   note: Bailleul
-- ligne: 20
-  lemme: etc
-  type: abreviation
-  note: et cetera
 - ligne: 21
   lemme: St Vaast
   type: abreviation
   note: Saint-Vaast (église de Bailleul)
-- ligne: 22
-  lemme: loge
-  type: disposition
-  note: g et e final descendus au niveau de la l. 23, à droite de « 10c — »
 - ligne: 23
   lemme: Ctes ples
   type: abreviation
@@ -147,17 +95,8 @@ apparat:
   lemme: 40c.
   type: abreviation
   note: 40 centimes
-- ligne: 23
-  lemme: Drink
-  type: emprunt
-  note: boisson
-- ligne: 23
-  lemme: 10c
-  type: abreviation
-  note: 10 centimes
-critique: Encre noire virée au brun. Les deux journées sont séparées par un filet pleine largeur ; un blanc précède les comptes du 2, et ceux du 3, en retrait, ferment la page. Taches brunes et écriture du verso visible par transparence à droite et au bas de la page.
 historique: |
-  « Le camp » est sans doute celui de la compagnie (voir f. 3 v\textsuperscript{o}). Le 2 août, les bataillons de la brigade assistent à une démonstration de la « 2nd Army Bomb School » ; le 3, ils reconnaissent les tranchées de la route Armentières–Lille, où la brigade monte en ligne dans la nuit du 6 au 7 (JMO 7/Bedf, 2-7 août 1916). L'église Saint-Vaast de Bailleul, \textit{hallekerque} détruite en 1918, a été remplacée en 1932 par une église de Louis-Marie Cordonnier (Églises ouvertes, notice Saint-Vaast) ; les belles maisons des rues d'Ypres et de Lille ont disparu avec la ville (voir f. 4 r\textsuperscript{o}). Les dentellières relèvent de la seule industrie dentellière de la Flandre française : « la région française ne possède guère qu'une centaine d'ouvrières dans la ville de Bailleul » (Blanchard 1906, p. 382). Le galon noir sert de cordon au lorgnon d'Hippolyte Combes, qu'il fera réparer par l'horloger de Léalvillers (voir f. 56 v\textsuperscript{o}). En 1914, l'économat d'une compagnie de chemins de fer vendait la chemise d'homme de 3,70 à 4,15 F (March 1925, p. 208).
+  « Le camp » est sans doute celui de la compagnie (voir f. 3 v\textsuperscript{o}). Le 2 août, les bataillons de la brigade assistent à une démonstration de la « 2nd Army Bomb School » ; le 3, ils reconnaissent les tranchées de la route Armentières–Lille (JMO 7/Bedf, 2-7 août 1916). L'église Saint-Vaast, détruite en 1918, a été remplacée en 1932 par une église de Louis-Marie Cordonnier (Églises ouvertes, notice Saint-Vaast). En 1906, Bailleul est le seul centre dentellier de la Flandre française, avec « une centaine d'ouvrières » (Blanchard 1906, p. 382). Le galon noir sert de cordon au lorgnon d'Hippolyte Combes (voir f. 56 v\textsuperscript{o}). En 1914, l'économat d'une compagnie de chemins de fer vendait la chemise d'homme de 3,70 à 4,15 F (March 1925, p. 208).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion, Bedfordshire Regiment, août 1916 (2-7 août).'
 - Blanchard, Raoul, La Flandre. Étude géographique de la plaine flamande en France, Belgique et Hollande, Paris, Armand Colin, 1906, p. 382.

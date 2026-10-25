@@ -151,3 +151,9 @@ noms:
     ligne: 18
     identite: Hazebrouck (Nord)
 source: contrôle
+audit:
+- ligne: 2
+  avant: \ind Enfin matinée \del{et partie} soirée
+  apres: \ind Enfin, matinée \del{et partie} soirée
+  justification: |
+    entre « Enfin » et « matinée », trait vertical isolé partant de la hauteur d'œil et descendant sous la ligne de base (zoom ×3 [.30 .04 .45 .11]) ; ni point d'i (aucun i proche à gauche) ni lettre : virgule de la main (trait vertical long)

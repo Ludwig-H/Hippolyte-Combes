@@ -27,45 +27,16 @@ apparat:
   lemme: offs.
   type: abreviation
   note: officiers
-- ligne: 5
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 5
-  lemme: 1 lorry
-  type: emprunt
-  note: un camion
 - ligne: 6
   lemme: jusq
   type: abreviation
   note: jusqu'
-- ligne: 7
-  lemme: ttes
-  type: abreviation
-  note: toutes
 - ligne: 8
   lemme: german dug-out
   type: emprunt
   note: abri souterrain allemand
-- ligne: 8
-  lemme: dug-out
-  type: lecture
-  note: dug-out, sans s final visible
-- ligne: 10
-  lemme: Immense
-  type: lecture
-  note: I majuscule et double m nets
-- ligne: 10
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 12
-  lemme: ples
-  type: abreviation
-  note: postales
-critique: Le compte de dépenses est isolé au bas de la page, après un blanc d'environ huit lignes ; il est à la même encre violette que le texte.
 historique: |
-  La Boisselle, hameau d'Ovillers-la-Boisselle (Somme), est à 3,5~km au nord-est d'Albert, sur la route de Bapaume. Le front y était fixé depuis octobre 1914 et la guerre des mines y faisait rage (Michelin 1919, p.~36--37). Le 1er juillet 1916, la 34th Division l'attaque sans le prendre. La 19th (Western) Division nettoie le village le 4 juillet (CWGC, Gordon Dump Cemetery). Les \textit{dug-outs} visités sont les abris profonds de l'ancienne première ligne allemande. L'« immense cratère s/ la droite » est celui de la mine de Lochnagar : 60~000 livres d'ammonal, mises à feu le 1er juillet à 7~h~28. Elles laissent un cratère de 90 yards de diamètre et de 70 pieds de profondeur (OH 1916-I, p.~375, 380). Le guide Michelin note de même que « le plus grand cratère est sur la droite » de la route (Michelin 1919, p.~36--37). Le cratère est classé monument historique (Mérimée PA80000004). À Albert, les cartes postales coûtent 10~c pièce (f.~50~r\textsuperscript{o}) : la dépense de 70~c correspond sans doute à sept cartes.
+  La Boisselle, hameau d'Ovillers-la-Boisselle (Somme), est à 3,5~km au nord-est d'Albert, sur la route de Bapaume. Le front y passe d'octobre 1914 à juillet 1916, avec une guerre des mines (Michelin 1919, p.~36--37). Attaqué en vain le 1\textsuperscript{er} juillet 1916 par la 34th Division, le village est nettoyé le 4 par la 19th Division (CWGC, Gordon Dump Cemetery). Les \textit{dug-outs} sont ceux de l'ancienne ligne allemande. Le cratère est celui de la mine de Lochnagar, mise à feu le 1\textsuperscript{er} juillet à 7~h~28 : 90 yards de diamètre, 70 pieds de profondeur (OH 1916-I, p.~375, 380 ; Mérimée PA80000004). Les cartes postales coûtant 10~c à Albert (f.~50~r\textsuperscript{o}), les 70~c font sans doute sept cartes.
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 375, 380.
 - Michelin, The Somme, vol. 1, The First Battle of the Somme (1916-1917), Clermont-Ferrand, Michelin, 1919, p. 36-37.

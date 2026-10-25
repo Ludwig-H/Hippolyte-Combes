@@ -3,7 +3,7 @@ fichier: 20251126_111525.jpg
 date: Mercredi 4 – jeudi 5 avril 1917 (Jeudi saint)
 mois: Avril 1917
 lieux: Hérissart, Toutencourt, Acheux-en-Amiénois, Contay et Warloy-Baillon (Somme)
-titre: 'Tourmente de neige, fourrage à Toutencourt ; Jeudi saint : villages vidés de troupes'
+titre: Tourmente de neige, fourrage à Toutencourt ; Jeudi saint, villages sans troupes
 transcription: |
   \centre — \sl{Avril 1917} —
   4 \sl{Merc.} — Temps affreux – matinée, tourmente
@@ -27,53 +27,20 @@ transcription: |
   \ind Soir, eglise village, entendu preche passion
   \ind Nuit merv^{se}. Pleine lune, magnifique —
 apparat:
-- ligne: 2
-  lemme: Merc.
-  type: abreviation
-  note: mercredi
-- ligne: 4
-  lemme: aller
-  type: lecture
-  note: infinitif, sans accent ni s final
-- ligne: 4
-  lemme: pr
-  type: abreviation
-  note: pour
-- ligne: 6
-  lemme: ds
-  type: abreviation
-  note: dans
 - ligne: 7
   lemme: jx
   type: abreviation
   note: journaux
 - ligne: 8
-  lemme: Hair cut
-  type: emprunt
-  note: coupe de cheveux
-- ligne: 8
-  lemme: 90 c
-  type: lecture
-  note: 9 à boucle fermée et haste
-- ligne: 8
   lemme: \inc{10^{f}}
   type: lecture
-  note: 10 net, signe suscrit en forme de d bouclé ; 10 f probable, 10 d (pence) possible
-- ligne: 12
-  lemme: Ts
-  type: abreviation
-  note: tous
-- ligne: 15
-  lemme: sunset
-  type: emprunt
-  note: coucher de soleil
+  note: 'lecture incertaine ; autre lecture : 10 d (pence)'
 - ligne: 19
   lemme: merv^{se}
   type: abreviation
   note: merveilleuse
-critique: Encre violette. Un filet tiré sur toute la largeur sépare les deux journées ; le bas de la page est resté blanc.
 historique: |
-  La « tourmente de neige » du 4 avril est celle dans laquelle, à quelque 45 km à l'est, la 59th Brigade attaque Metz-en-Couture ; l'histoire officielle note qu'une neige comme celle du début d'avril « est rare en Picardie » (OH 1917-I, p.~159, 161). Les achats de fourrage de ferme en ferme se poursuivent à Toutencourt, où Hippolyte Combes était déjà passé le 3 (voir f.~87 v\textsuperscript{o}). Le 5, Contay, Warloy-Baillon et Varennes « paraissent deserts, maintenant sans troupes » : le repli allemand sur la ligne Hindenburg a porté vers l'est les hôpitaux d'évacuation (\textit{casualty clearing stations}) installés à Contay depuis août 1916, et le cimetière militaire de Varennes, ouvert par la 39th CCS, sera abandonné en mai 1917 (CWGC). Ce même 5 avril, la prise de Ronssoy libère « le dernier village du département de la Somme » encore aux mains allemandes (OH 1917-I, p.~162--169). La coupe de cheveux, payée 30 c en février (f.~78 v\textsuperscript{o}), coûte ici 90 c. Le Jeudi saint précède la fête de Pâques, le 8 avril 1917.
+  Le 4 avril, dans la même neige, la 59th Brigade attaque Metz-en-Couture, à quelque 45 km à l'est (OH 1917-I, p.~159, 161). Le 5, Contay, Warloy-Baillon et Varennes sont vides : avec le repli allemand sur la ligne Hindenburg, les hôpitaux d'évacuation (\textit{casualty clearing stations}) installés à Contay depuis août 1916 sont partis vers l'est, et le cimetière militaire de Varennes, ouvert par la 39th CCS, sera abandonné en mai 1917 (CWGC). Le même jour, la prise de Ronssoy libère « le dernier village du département de la Somme » encore aux mains allemandes (OH 1917-I, p.~162--169). La coupe de cheveux, payée 30 c en février (f.~78 v\textsuperscript{o}), coûte ici 90 c.
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 159, 161, 162-169.
 - Commonwealth War Graves Commission, Contay British Cemetery et Varennes Military Cemetery, notices historiques (consultées le 17 oct. 2026).

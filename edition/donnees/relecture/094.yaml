@@ -154,3 +154,8 @@ noms:
     ligne: 7
     identite: Léalvillers (Somme)
 source: contrôle
+audit:
+- ligne: 18
+  avant: – demande de renseignements divers
+  apres: . – demande de renseignements divers
+  justification: dans la marge, devant le tiret, un point rond net, de même encre et de même densité que le tiret, posé sur la même ligne de base (zoom 0 .86 .20 .93 ×3) ; tracé volontaire, non goutte d'encre

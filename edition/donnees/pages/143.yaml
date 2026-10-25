@@ -3,7 +3,7 @@ fichier: 20251126_110441.jpg
 date: Lundi 5 février 1917
 mois: Février 1917
 lieux: Millau (Aveyron) ; Saint-Flour (Cantal)
-titre: Dernier jour à Millau ; cimetière, adieux, nuit de train sous la neige jusqu'à Saint-Flour
+titre: Dernier jour à Millau ; cimetière, adieux ; train de nuit jusqu'à Saint-Flour
 transcription: |
   \sl{Lundi 5} \hfill \sl{Fév 17}
   Sur pied 6^{h} –
@@ -31,26 +31,6 @@ apparat:
   lemme: Fév 17
   type: abreviation
   note: février 1917
-- ligne: 2
-  lemme: 6^{h}
-  type: abreviation
-  note: 6 heures
-- ligne: 3
-  lemme: g^{de}
-  type: abreviation
-  note: grande
-- ligne: 4
-  lemme: av
-  type: abreviation
-  note: avec
-- ligne: 4
-  lemme: Mte
-  type: abreviation
-  note: Marguerite
-- ligne: 4
-  lemme: ts
-  type: abreviation
-  note: tous
 - ligne: 7
   lemme: 5^{h}33
   type: abreviation
@@ -63,30 +43,18 @@ apparat:
   lemme: 2 Cl.
   type: abreviation
   note: deuxième classe
-- ligne: 12
-  lemme: 2 Cl.
-  type: lecture
-  note: aucun e suscrit après le 2 ; autre lecture possible 2 cl.
 - ligne: 13
   lemme: 6^{h} 15
   type: abreviation
   note: 6 heures 15
-- ligne: 14
-  lemme: ttes
-  type: abreviation
-  note: toutes
 - ligne: 16
   lemme: 30 s
   type: lecture
-  note: s réduit à un trait, sans point ; sans doute « soir », malgré « minuit »
-- ligne: 17
-  lemme: Mte
-  type: abreviation
-  note: Marguerite
+  note: s sans doute pour « soir », malgré « minuit »
 - ligne: 17
   lemme: \inc{Vincens}
   type: lecture
-  note: nom écrit très vite (V, minimes, c, finale en -s) ; lecture retenue d'après la tradition familiale ; Vincès possible
+  note: 'lecture incertaine, d''après la tradition familiale ; autre lecture : Vincès'
 - ligne: 17
   lemme: 6^{f}
   type: abreviation
@@ -95,19 +63,9 @@ apparat:
   lemme: Gift
   type: emprunt
   note: cadeau ; ici gratification, pourboire
-- ligne: 18
-  lemme: Mte
-  type: abreviation
-  note: Marguerite
-- ligne: 18
-  lemme: 3^{f}
-  type: abreviation
-  note: 3 francs
-critique: Les deux lignes de comptes du pied de page sont séparées du récit par un filet tiré sur toute la largeur et réunies par une grande accolade.
 historique: |
-  Le cimetière de Millau abrite le caveau de la famille Combes, où reposent le père d'Hippolyte, avocat mort à Millau le 11 août 1899, et sa sœur Joséphine, morte à Nogent-le-Rotrou en octobre 1914 et dont le corps y fut ramené (\textit{PC-Bio} ; voir f.~70~v\textsuperscript{o}). « Pierre » est sans doute Pierre Calmels, frère de Marguerite, qui l'avait déjà attendu à la gare le 3 février (f.~69~v\textsuperscript{o} ; tradition familiale, \textit{PC-Annexe}). Les « enfants Vincens » sont ceux de Madeleine Calmels, sœur aînée de Marguerite, et du Dr Fernand Vincens, médecin à Saint-Chély-d'Apcher (Lozère) : Germaine, qui aura six ans en octobre 1917, et Robert (\textit{PC-Annexe}). Le train « venant Beziers » est celui de la ligne des Causses (Béziers–Neussargues, Compagnie du Midi), par Sévérac-le-Château, Marvejols, Saint-Chély-d'Apcher et le viaduc de Garabit, bâti en 1881-1884 par Boyer et Eiffel (Baedeker 1914, p.~282-284) ; aucune de ces stations n'est nommée. La neige est celle de la vague de froid du 16 janvier au 16 février 1917 (Barbé 1917, p.~181).
+  Le cimetière de Millau abrite le caveau Combes, où reposent son père et sa sœur Joséphine, dont le corps y fut ramené de Nogent-le-Rotrou (\textit{PC-Bio} ; voir f.~70~v\textsuperscript{o}). « Pierre » est sans doute Pierre Calmels, frère de Marguerite, qui l'avait déjà attendu à la gare le 3 février (f.~69~v\textsuperscript{o} ; \textit{PC-Annexe}). Les « enfants Vincens » sont Germaine (voir f.~70~v\textsuperscript{o}) et Robert, enfants de Madeleine Calmels, sœur aînée de Marguerite, et du D\textsuperscript{r} Fernand Vincens, médecin à Saint-Chély-d'Apcher (Lozère) (\textit{PC-Annexe}). Le train « venant Beziers » est celui de la ligne des Causses (Béziers–Neussargues, Compagnie du Midi), par Sévérac-le-Château, Marvejols, Saint-Chély-d'Apcher et le viaduc de Garabit (Baedeker 1914, p.~282-284).
 sources:
-- Pierre Combes, « Mon grand-père Hippolyte Combes (et ses sœurs) », dactylogramme, archives familiales [PC-Bio].
 - Pierre Combes, livre familial dactylographié, annexe 2, « Les Calmels », archives familiales [PC-Annexe].
 - Baedeker, K., Southern France including Corsica. Handbook for Travellers, 6e éd., Leipzig, K. Baedeker, 1914, p. 282-284.
-- Barbé, G., « L'hiver 1916-1917 », Journal d'agriculture pratique, n. s., t. 30, 1917, p. 181-182.
+- Pierre Combes, « Mon grand-père Hippolyte Combes (et ses sœurs) », dactylogramme, archives familiales [PC-Bio].

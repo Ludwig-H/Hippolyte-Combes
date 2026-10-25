@@ -162,3 +162,8 @@ noms:
     ligne: 13
     identite: Harponville (Somme)
 source: contrôle
+audit:
+- ligne: 21
+  avant: '\equerre{1}– Essui\inc{e-mains} : 90c —'
+  apres: 'Essui\inc{e-mains} : 90c —'
+  justification: 'zoom x4 : le prétendu signe d''ouverture et le tiret forment la majuscule E anguleuse de Essui (barre de tête, haste, barre médiane attachée à la haste, pied coupé au bord) ; suivent ss en croix, u, i pointé ; sans cet E, le mot n''aurait pas d''initiale ; aucune équerre ni tiret distincts'

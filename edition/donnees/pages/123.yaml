@@ -32,10 +32,6 @@ transcription: |
   — 1 plaque chocolat : \inc{65} c
 apparat:
 - ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
-- ligne: 1
   lemme: Janv. 17
   type: abreviation
   note: janvier 1917
@@ -44,10 +40,6 @@ apparat:
   type: abreviation
   note: cinquième corps (britannique)
 - ligne: 7
-  lemme: cap.
-  type: abreviation
-  note: capitaine
-- ligne: 7
   lemme: definit
   type: abreviation
   note: définitivement
@@ -55,30 +47,14 @@ apparat:
   lemme: ct
   type: abreviation
   note: courant (du mois)
-- ligne: 8
-  lemme: D.
-  type: abreviation
-  note: dimanche
-- ligne: 10
-  lemme: ext^{t}
-  type: abreviation
-  note: extrêmement
 - ligne: 10
   lemme: \inc{ce}
   type: lecture
-  note: mot bref en forme de a ; « ce » demandé par le sens
+  note: lecture incertaine ; « ce » demandé par le sens
 - ligne: 13
   lemme: St-Léger
   type: abreviation
   note: Saint-Léger(-lès-Authie)
-- ligne: 14
-  lemme: L
-  type: abreviation
-  note: lundi
-- ligne: 15
-  lemme: asz
-  type: abreviation
-  note: assez
 - ligne: 15
   lemme: pittoresq
   type: abreviation
@@ -102,19 +78,13 @@ apparat:
 - ligne: 22
   lemme: \inc{1^{f}}
   type: lecture
-  note: 1 f, chiffre suivi d'un crochet surélevé sous une longue barre ; on pourrait lire 1 5
-- ligne: 22
-  lemme: Lunch
-  type: emprunt
-  note: déjeuner
+  note: 'lecture incertaine ; autre lecture : 1 5'
 - ligne: 23
   lemme: \inc{65} c
   type: lecture
-  note: '65 c : second chiffre à haute boucle et longue haste descendante (5 en ℓ), non un 0 ; ou 60 c'
-critique: Encre noire virée au brun ; les comptes du 15 janvier sont isolés au bas de la page par un filet en équerre.
+  note: 'lecture incertaine ; autre lecture : 60 c'
 historique: |
-  Le « bureau mission V\textsuperscript{e} corps » est celui de la Mission française auprès du V Corps (lieutenant-général Fanshawe). Son QG est revenu de Doullens à Acheux la veille (LLT) : après l'opération du 11, le V Corps reprend au nord de l'Ancre le secteur du XIII Corps (OH 1917-I, p. 69), dont le bureau payait encore Hippolyte Combes le 5 janvier (f. 60 r\textsuperscript{o}). Le capitaine Huguet, qui l'avait convoqué le 5 novembre 1916 (f. 47 r\textsuperscript{o}), n'est pas identifié ; rien ne le rattache au général Victor Huguet, ancien chef de la Mission. Le départ « au 26 ct » est celui de la seconde permission : Hippolyte Combes quittera Acheux le vendredi 26 janvier et ne rentrera que le 7 février. La neige du 14 ouvre le grand gel, daté de ce jour par l'histoire officielle et long d'un mois (OH 1917-I, p. 66). Beaucourt et Montigny sont ceux de l'Hallue (voir f. 59 v\textsuperscript{o}). Les cartes postales reviennent à 4 c pièce, contre 10 c à Albert. Le chocolat ordinaire valait alors 3,23 F le kilo à l'économat d'une compagnie de chemins de fer (March 1925, p. 199–200).
+  Le « bureau mission V\textsuperscript{e} corps » est celui de la Mission française auprès du V Corps. Son QG est revenu la veille de Doullens à Acheux (LLT) : le V Corps reprend au nord de l'Ancre le secteur du XIII Corps (OH 1917-I, p. 69), dont le bureau payait encore Hippolyte Combes le 5 janvier (f. 60 r\textsuperscript{o}). Le capitaine Huguet, qui l'avait convoqué le 5 novembre 1916 (f. 47 r\textsuperscript{o}), n'est pas identifié ; rien ne le rattache au général Victor Huguet. Beaucourt et Montigny sont ceux de l'Hallue (voir f. 59 v\textsuperscript{o}). Le départ du 26 est celui de la seconde permission ; Hippolyte Combes rentrera le 7 février. La neige du 14 ouvre un grand gel d'un mois (OH 1917-I, p. 66). Les cartes postales reviennent à 4 c pièce.
 sources:
 - Baker, C., « The British V Corps in France and Flanders », The Long, Long Trail, https://www.longlongtrail.co.uk (copie Wayback du 5 août 2020).
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 66, 69.
-- March, L., Mouvement des prix et des salaires pendant la guerre, Paris, PUF / New Haven, Yale University Press, 1925, p. 199–200.

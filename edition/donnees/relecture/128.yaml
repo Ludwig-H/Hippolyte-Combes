@@ -164,3 +164,12 @@ noms:
     ligne: 24
     identite: Gézaincourt (Somme)
 source: contrôle
+audit:
+- ligne: 2
+  avant: \ind Levé 8^{H}30 m
+  apres: \ind Levé 8^{H}\inc{30} m
+  justification: après le H suscrit, un seul trait vertical descendant puis le 0 (zoom ×3) ; aucune panse de 3 visible, le chiffre des dizaines n'est pas assuré
+- ligne: 19
+  avant: \ind Enfin, train démarré après 3^{H} s. –
+  apres: \ind Enfin, train démarré après 3^{H} s –
+  justification: le s, réduit à un trait vertical à point d'attaque, n'est suivi d'aucun point (zoom ×3) ; seul le tiret haut suit

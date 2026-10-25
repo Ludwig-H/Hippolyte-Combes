@@ -3,7 +3,7 @@ fichier: 20251126_111251.jpg
 date: Dimanche 11 mars 1917 (fin) – lundi 12 mars 1917
 mois: Mars 1917
 lieux: Hérissart, Toutencourt, Contay, Beaucourt-sur-l'Hallue ?, Puchevillers et Candas (Somme)
-titre: Calme de la nouvelle chambre ; tournée en Wolseley de Toutencourt à Candas
+titre: Nouvelle chambre au calme ; tournée en Wolseley de Toutencourt à Candas
 transcription: |
   D\sl{im. 11 (}Fin) \hfill Mar\sl{s 191}7
   2 fenêtres. Impressions de calme & silence, \inc{favorables}
@@ -27,14 +27,10 @@ transcription: |
   \crochet{2}Toutencourt : Exp. F. Canteen : 2 tins of
   Calvert's Tooth Powder : 1^{f} 75c
 apparat:
-- ligne: 1
-  lemme: Dim.
-  type: abreviation
-  note: Dimanche.
 - ligne: 2
   lemme: favorables
   type: lecture
-  note: Fin du mot serrée contre la marge ; « favorable » possible.
+  note: 'lecture incertaine ; autre lecture : favorable'
 - ligne: 6
   lemme: tommy
   type: emprunt
@@ -42,7 +38,7 @@ apparat:
 - ligne: 6
   lemme: \inc{aidé} \inc{porter}
   type: lecture
-  note: '« [m''a] aidé [à] porter [mes] sacs » ; aucun m visible.'
+  note: lecture incertaine ; comprendre « [m'a] aidé [à] porter »
 - ligne: 7
   lemme: 7^{h} m.
   type: abreviation
@@ -50,23 +46,19 @@ apparat:
 - ligne: 11
   lemme: Beaucourt
   type: lecture
-  note: 'c et o après « Beau- » (Beaucourt-sur-l''Hallue, entre Contay et Molliens).'
+  note: lecture incertaine ; sans doute Beaucourt-sur-l'Hallue
 - ligne: 12
   lemme: Wolsey
   type: lecture
-  note: Pour Wolseley (marque automobile) ; aucun -el- médian visible.
-- ligne: 13
-  lemme: '1'
-  type: abreviation
-  note: un.
+  note: lecture incertaine ; pour Wolseley (marque automobile)
 - ligne: 13
   lemme: que le Vauxhall
   type: lecture
-  note: « le » (l + e, sans panse d'a).
+  note: le, non la
 - ligne: 14
   lemme: Jessie
   type: lecture
-  note: J puis deux hautes boucles (ss), i, e ; « Jellie » possible.
+  note: 'lecture incertaine ; autre lecture : Jellie'
 - ligne: 17
   lemme: Exp. F. Canteen
   type: abreviation
@@ -83,12 +75,11 @@ apparat:
   lemme: 1^{f} 75c
   type: abreviation
   note: 1 franc 75 centimes.
-critique: Les premières lignes achèvent la journée du dimanche 11 commencée au recto. Encre violette ; le compte de la cantine de Toutencourt, isolé au pied de la page après un long blanc, est d'une encre plus noire et fut sans doute inscrit à part.
 historique: |
-  Maintenu au \textit{Purchase Board} à la demande du Major Levy (voir f.~83~r\textsuperscript{o}), Hippolyte Combes reprend ses tournées. « Beaumont », cité entre Contay et Molliens-au-Bois, ne peut guère être Beaumont-Hamel : peut-être faut-il lire un autre nom. Candas est l'origine de la voie normale Candas--Acheux construite au printemps 1916 (OH 1916-I, p.~273) et le siège du dépôt n\textsuperscript{o}~2 d'aviation du R.F.C. (Jones 1928, p.~198--199). Le chauffeur australien s'explique par le passage du I Anzac Corps à la Fifth Army le 15 février (OH 1917-I, p.~74). La Vauxhall type D était la voiture d'état-major ordinaire de l'armée britannique (Tattersfield 2021) ; « Jessie » (lecture incertaine) n'est pas identifié. C'est la seule mention explicite des \textit{Expeditionary Force Canteens}, qui vendaient les marques britanniques presque au prix coûtant (Fernand-Laurent 1917, p.~82--83) ; la boîte de Calvert's, payée 60~c à Louvencourt le 2 janvier (voir f.~59~r\textsuperscript{o}), revient ici à près de 88~c. Dans la nuit, les Allemands évacuent la ligne R.1 devant Bapaume (OH 1917-I, p.~107).
+  Candas est le point de départ de la voie normale Candas--Acheux, construite au printemps 1916 (OH 1916-I, p.~273), et le siège du dépôt n\textsuperscript{o}~2 d'aviation du R.F.C. (Jones 1928, p.~198--199). Le chauffeur australien s'explique par le passage du I Anzac Corps à la Fifth Army le 15 février (OH 1917-I, p.~74). La Vauxhall type D était la voiture d'état-major britannique courante (Tattersfield 2021) ; « Jessie » (lecture incertaine) n'est pas identifié. Les \textit{Expeditionary Force Canteens} vendaient les marques britanniques presque au prix coûtant (Fernand-Laurent 1917, p.~82--83) ; la boîte de Calvert's, payée 60~c à Louvencourt le 2 janvier (voir f.~59~r\textsuperscript{o}), coûte ici près de 88~c.
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.
 - Jones, H. A., The War in the Air, vol. II, Oxford, Clarendon Press, 1928, p. 198-199.
-- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 74, 107.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 74.
 - 'Tattersfield, D., « The workhorse of the staff : the Vauxhall D-Type staff car », Western Front Association, 9 janvier 2021 (westernfrontassociation.com).'
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 82-83.

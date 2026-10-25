@@ -102,3 +102,12 @@ noms:
     ligne: 17
     identite: Armentières (Nord)
 source: contrôle
+audit:
+- ligne: 15
+  avant: gde chambre, haute fenêtre, belle
+  apres: gde chambre, haute fenetre, belle
+  justification: 'zoom [.55 .815 .90 .88] ×3 : aucun circonflexe au-dessus de la ligne entre f et la fin du mot ; le seul tracé haut est le crochet de tête du t, continu avec sa haste ; accent absent, transcrit tel quel'
+- ligne: 16
+  avant: vue campagne très étendue
+  apres: vue campagne très etendue
+  justification: 'zoom [.55 .855 .95 .93] ×3 : e initial sans accent ; la boucle au-dessus est la tête bouclée du t, continue avec sa haste et coupée de sa barre (même t à crochet de tête que dans fenetre, l. 15) ; l''accent de très, sur la même ligne, est au contraire un trait détaché bien visible'

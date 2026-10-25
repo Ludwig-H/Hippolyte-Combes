@@ -3,7 +3,7 @@ fichier: 20251126_104739.jpg
 date: Vendredi 10 – samedi 11 novembre 1916
 mois: Novembre 1916
 lieux: Acheux-en-Amiénois, Raincheval, Léalvillers et Varennes (Somme)
-titre: Seul au bureau ; courses à Raincheval et Léalvillers ; paille à Varennes ; Acheux bombardé
+titre: Seul au bureau ; Raincheval, Léalvillers ; paille à Varennes ; Acheux bombardé
 transcription: |
   \sl{Ven– 10} Très belle journée. Chaud \hfill \sl{Novembre 1916}
   soleil. Enfin!
@@ -21,7 +21,7 @@ transcription: |
   Pour trouver, \add{\inc{Venu voir}} Batt^{t} F.A–, B Battery, marché
   terrain mou, vrai cloaque où les pieds
   enfoncaient et se collaient. Affreux
-  Interprète de cette unité, M. \inc{Sorgues}, prof.
+  Interprète de cette unité, M. \inc{Sorgues}, prof
   au lycée de Toulon
   Soir, & repas, sifflement obus. Acheux
   bombardé à intervalles rapprochés. Refugiés cave
@@ -32,46 +32,26 @@ apparat:
   lemme: Ven–
   type: abreviation
   note: vendredi
-- ligne: 3
-  lemme: Lt
-  type: abreviation
-  note: lieutenant
-- ligne: 4
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 4
-  lemme: clerk
-  type: emprunt
-  note: commis, employé de bureau
 - ligne: 7
   lemme: Léalvillers
   type: surcharge
-  note: début du nom repassé à l'encre ; leçon recouverte illisible
+  note: début du nom repassé ; leçon recouverte illisible
 - ligne: 8
   lemme: le –
   type: lecture
-  note: « le » suivi d'un tiret détaché ; peut-être « les », s final réduit à un trait
-- ligne: 9
-  lemme: ext^{t}
-  type: abreviation
-  note: extrêmement
-- ligne: 10
-  lemme: Sam.
-  type: abreviation
-  note: samedi
+  note: 'lecture incertaine ; autre lecture : les'
 - ligne: 11
   lemme: 1 question
   type: abreviation
   note: une question
-- ligne: 11
-  lemme: '&'
-  type: abreviation
-  note: et
 - ligne: 12
   lemme: Venu voir
   type: ajout
-  note: écrit petit sous « Pour trouver », non biffé ; variante de cette leçon ; « Venir voir » possible
+  note: ajouté sous « Pour trouver », non biffé
+- ligne: 12
+  lemme: Venu voir
+  type: lecture
+  note: 'lecture incertaine ; autre lecture : Venir voir'
 - ligne: 12
   lemme: Batt^{t} F.A–
   type: abreviation
@@ -81,33 +61,19 @@ apparat:
   type: emprunt
   note: batterie B
 - ligne: 15
-  lemme: M.
-  type: abreviation
-  note: Monsieur
-- ligne: 15
   lemme: Sorgues
   type: lecture
-  note: initiale en S bouclé, -org- net, finale écrasée ; Lorgues possible
+  note: 'lecture incertaine ; autre lecture : Lorgues'
 - ligne: 15
-  lemme: prof.
+  lemme: prof
   type: abreviation
-  note: professeur
+  note: professeur ; le f se prolonge en un trait arqué descendant, sans point
 - ligne: 17
   lemme: '&'
   type: lecture
-  note: signe en forme d'esperluette, sans a ni accent ; le sens attend « à » (au repas)
-- ligne: 19
-  lemme: '['
-  type: disposition
-  note: grand crochet ouvrant descendant dans le blanc inférieur sur environ trois lignes ; aucun crochet fermant
-- ligne: 19
-  lemme: C^{tes} p^{les}
-  type: abreviation
-  note: cartes postales
-critique: Encre violette uniforme. Le bas de la page reste blanc sous le compte des cartes postales.
+  note: ainsi ; le sens attend « à » (au repas)
 historique: |
-  Raincheval, à 7~km à l'ouest d'Acheux, est le siège de l'\textit{Army Purchase Board} du major Levy (voir f.~46~r\textsuperscript{o}) ; Léalvillers est une halte de la voie métrique Albert--Doullens (OH 1916-I, p.~273). Varennes, à 3~km au sud d'Acheux, abrite alors deux hôpitaux d'évacuation, les 4th et 11th \textit{Casualty Clearing Stations} (LLT) ; la batterie B, sans doute d'une brigade de la \textit{Royal Field Artillery}, n'est pas identifiée. Son interprète, M. Sorgues ou Forgues [?], ne l'est pas davantage : un universitaire de plus parmi des interprètes où ils abondent, au point que l'Association des professeurs de langues vivantes réclamera en juin 1917 les deux tiers des postes (\textit{Les Langues modernes}, 1918, p.~5-6). Acheux, QG du V Corps (LLT) et tête de ligne des vivres et du génie (OH 1916-I, p.~274), est bombardé à l'avant-veille de l'assaut du 13, tir que les sources consultées ne signalent pas, non plus que celui du 25 (f.~51~v\textsuperscript{o}). Les 75~c de cartes postales, à 5 ou 10~c pièce ailleurs dans le carnet, paient sans doute un lot.
+  Raincheval, à 7~km à l'ouest d'Acheux, est le siège de l'\textit{Army Purchase Board} du major Levy (voir f.~46~r\textsuperscript{o}) ; Léalvillers est une halte de la voie métrique Albert--Doullens (OH 1916-I, p.~273). Varennes est à 3~km au sud d'Acheux (voir f.~48~r\textsuperscript{o}). La batterie B, sans doute de la \textit{Royal Field Artillery}, et son interprète, M. Sorgues [?], ne sont pas identifiés. Les professeurs abondent parmi les interprètes : en juin 1917, leur association réclamera les deux tiers des postes (\textit{Les Langues modernes}, 1918, p.~5-6). Acheux, tête de ligne des vivres et du génie (OH 1916-I, p.~274), est bombardé deux jours avant l'assaut du 13 ; les sources consultées n'en disent rien.
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273-274.
-- Baker, C., The Long, Long Trail, « Locations of British Casualty Clearing Stations » (copie Wayback Machine du 13 janvier 2018) et « The British V Corps in France and Flanders » (copie Wayback Machine d'août 2020).
 - Les Langues modernes, bulletin de l'Association des professeurs de langues vivantes, XVI, 1918, p. 5-6.

@@ -3,7 +3,7 @@ fichier: 20251126_111105.jpg
 date: Samedi 3 – lundi 5 mars 1917
 mois: Mars 1917
 lieux: Hérissart, Rubempré, Puchevillers et Toutencourt (Somme)
-titre: Paille à Rubempré et Puchevillers ; retenue de permission ; neige du 5 ; relève annoncée
+titre: Paille à Rubempré et Puchevillers ; paie et permission ; neige ; relève annoncée
 transcription: |
   3 \sl{Sam.} \hfill — \sl{Mars 1917} —
   \ind matin & soir, brouillard
@@ -34,10 +34,6 @@ transcription: |
   \inc{interprète}, pour ns remplacer. Très content de quitter le Cap
   \ind nuit, merv^{t} ciel etoilé, pleine lune — superbe!
 apparat:
-- ligne: 1
-  lemme: Sam.
-  type: abreviation
-  note: samedi
 - ligne: 4
   lemme: 9^{H}30 à 1^{H}
   type: abreviation
@@ -47,69 +43,17 @@ apparat:
   type: abreviation
   note: et cetera
 - ligne: 5
-  lemme: etc. /
-  type: signe
-  note: long trait oblique tenant lieu de parenthèse fermante
-- ligne: 5
   lemme: Town Major's office
   type: emprunt
   note: bureau du major de la place
-- ligne: 7
-  lemme: fr^{se}
-  type: abreviation
-  note: française
-- ligne: 7
-  lemme: qq
-  type: abreviation
-  note: quelques
-- ligne: 8
-  lemme: 1 lorry
-  type: emprunt
-  note: un camion
-- ligne: 9
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 9
-  lemme: office
-  type: emprunt
-  note: bureau
-- ligne: 11
-  lemme: fr^{se}
-  type: abreviation
-  note: française
 - ligne: 11
   lemme: 43^{f} 75
   type: abreviation
   note: 43 francs 75
-- ligne: 11
-  lemme: (retenue
-  type: compte
-  note: 35 f pour 7 jours, soit 5 f par jour de permission
-- ligne: 12
-  lemme: fr.
-  type: abreviation
-  note: francs
-- ligne: 13
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
-- ligne: 14
-  lemme: ds
-  type: abreviation
-  note: dans
 - ligne: 16
   lemme: Cap
   type: abreviation
   note: capitaine (Williams)
-- ligne: 18
-  lemme: Washing
-  type: emprunt
-  note: blanchissage
-- ligne: 18
-  lemme: 60c
-  type: abreviation
-  note: 60 centimes
 - ligne: 24
   lemme: 500 m.
   type: abreviation
@@ -118,29 +62,16 @@ apparat:
   lemme: off^{r}
   type: abreviation
   note: officier
-- ligne: 25
-  lemme: au \ill
-  type: lecture
-  note: « au » sûr ; le mot suivant, au bord de la page, reste illisible
 - ligne: 26
   lemme: \inc{interprète}
   type: lecture
-  note: mot en partie recouvert par « Appris » (l. 25), restitué par le contexte et la finale -ète
-- ligne: 26
-  lemme: ns
-  type: abreviation
-  note: nous
+  note: mot en partie recouvert ; restitué d'après le contexte
 - ligne: 26
   lemme: Cap
   type: abreviation
   note: capitaine
-- ligne: 27
-  lemme: merv^{t}
-  type: abreviation
-  note: merveilleusement
-critique: Trois journées sur la page. Le compte du samedi est ouvert par un grand crochet et séparé du dimanche par un long filet ; le poste « Washing » est ajouté au crayon. Les deux avant-dernières lignes sont serrées en bas de page, l'une empiétant sur l'autre.
 historique: |
-  Le 3 mars est l'une des dates de paie fixées le 9 février par la Mission de la Fifth Army (voir f.~75~r\textsuperscript{o}). Les 43~f~75 et les 35~f retenus redonnent les 78~f~75 de la quinzaine ordinaire, soit sans doute quinze jours à 5~f~25, dont 5~f d'indemnité journalière suspendue pendant les sept jours pleins de la permission prise du 26 janvier au 7 février. Sept jours, délais de route non compris, est la durée fixée depuis le 1\textsuperscript{er} octobre 1916 (Cronier 2013, p.~18, 32). À Puchevillers, le \textit{Town Major} est l'officier chargé des cantonnements du village (voir f.~54~r\textsuperscript{o}). Flixecourt, à quelque 25~km à l'ouest, entre Amiens et Abbeville, avait abrité au printemps 1916 l'école d'officiers de la Fourth Army (Sassoon 1930). La neige du 5 au matin est tombée dans la nuit du 4, avant un jour de dégel (OH 1917-I, p.~104). L'officier australien annoncé s'explique par le passage du I Anzac Corps à la Fifth Army le 15 février (OH 1917-I, p.~74) ; c'est peut-être le « Lt. Wentworth » nommé à partir du 17 mars (voir f.~84~v\textsuperscript{o}).
+  Le 3 mars est l'une des dates de paie fixées le 9 février par la Mission de la Fifth Army (voir f.~75~r\textsuperscript{o}). Les 43~f~75 et les 35~f retenus font les 78~f~75 de la quinzaine, soit sans doute quinze jours à 5~f~25, dont 5~f d'indemnité journalière suspendue pendant les sept jours de la permission (26 janvier -- 7 février). Sept jours, délais de route non compris, est la durée fixée depuis le 1\textsuperscript{er} octobre 1916 (Cronier 2013, p.~18, 32). Flixecourt, à quelque 25~km à l'ouest, entre Amiens et Abbeville, avait abrité au printemps 1916 l'école d'officiers de la Fourth Army (Sassoon 1930). La neige du 5 est tombée dans la nuit du 4 (OH 1917-I, p.~104). L'officier australien annoncé s'explique par le passage du I Anzac Corps à la Fifth Army le 15 février (OH 1917-I, p.~74).
 sources:
 - Cronier, E., Permissionnaires dans la Grande Guerre, Paris, Belin, 2013, p. 18 et 32.
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 74, 104.

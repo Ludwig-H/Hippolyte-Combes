@@ -3,7 +3,7 @@ fichier: 20251126_094738.jpg
 date: Jeudi 21 septembre 1916
 mois: Septembre 1916
 lieux: Raincheval et Acheux-en-Amiénois (Somme)
-titre: Accalmie après des jours d'averses ; solde touchée au bureau de la Mission à Acheux
+titre: Accalmie après les averses ; solde touchée à la Mission d'Acheux
 transcription: |
   21 \sl{J.} \hfill \sl{Sept^{bre} /16}
   \ind[2] Ts ces derniers jours, averses continuelles.
@@ -23,33 +23,17 @@ transcription: |
   \ind[2] — Cartes ples : 0.25 c.
 apparat:
 - ligne: 1
-  lemme: J.
-  type: abreviation
-  note: jeudi
-- ligne: 1
   lemme: Sept^{bre} /16
   type: abreviation
   note: septembre 1916 ; finale -bre réduite à un trait
-- ligne: 2
-  lemme: Ts
-  type: abreviation
-  note: tous
 - ligne: 4
   lemme: ce
   type: lecture
-  note: mot noyé dans un pâté d'encre ; lecture probable, appuyée par le sens
-- ligne: 6
-  lemme: tjs
-  type: abreviation
-  note: toujours
+  note: mot taché ; lecture probable
 - ligne: 9
   lemme: fr
   type: abreviation
   note: française (Mission française auprès de l'armée britannique)
-- ligne: 9
-  lemme: s/
-  type: abreviation
-  note: sur
 - ligne: 10
   lemme: 4^{H} \fr{1}{2}
   type: abreviation
@@ -57,7 +41,7 @@ apparat:
 - ligne: 10
   lemme: avoir
   type: lecture
-  note: mot très réduit (a, v, i pointé, haste finale descendante) ; « avr » possible
+  note: lecture incertaine ; autre lecture, avr
 - ligne: 12
   lemme: 78.75 c
   type: abreviation
@@ -65,19 +49,13 @@ apparat:
 - ligne: 12
   lemme: 78.75 c
   type: lecture
-  note: la longue haste est celle du 5, non un f
-- ligne: 13
-  lemme: ples
-  type: abreviation
-  note: postales
+  note: 5 à longue haste, non f
 - ligne: 13
   lemme: 0.25 c.
   type: abreviation
   note: 25 centimes
-critique: Encre violette. La note sur la fin de journée est isolée entre deux blancs ; les comptes sont rejetés au pied de la page, sous un filet tiré sur toute la largeur.
 historique: |
-  Les averses des jours précédents (voir f. 23 r\textsuperscript{o} ; « Wet morning » le 18 au journal du 7th Bedfordshire : JMO 7/Bedf, 18 sept. 1916) tombent sur un réseau que l'histoire officielle juge « peu nombreux et médiocre » pour une zone où il fallait loger plus de 400 000 hommes et 100 000 chevaux (OH 1916-I, p.~271) : d'où les ornières des chemins entre Raincheval et Acheux. Acheux-en-Amiénois (Somme) abrite encore le QG de la 18th Division, qui ne passera à Hédauville que le 25 septembre (Nichols 1922, p.~79) ; le bureau divisionnaire de la Mission française y occupe, dans le parc du château, la « maisonnette toile \& planches » déjà vue le 14 (f. 22 r\textsuperscript{o}). Les 78~F~75 sont la paie de quinzaine (« Solde \& indemnité de fonctions »), du même montant que celle du 5 septembre à Roëllecourt (f. 18 v\textsuperscript{o}) : 15 jours à 5~F~25. Le même jour, la division reprend du génie de la 49th Division les tranchées au sud de Thiepval, qu'elle attaquera le 26 (Nichols 1922, p.~79).
+  L'histoire officielle juge le réseau routier de la zone « peu nombreux et médiocre » pour plus de 400 000 hommes et 100 000 chevaux (OH 1916-I, p.~271) : d'où les ornières entre Raincheval et Acheux. À Acheux, le bureau divisionnaire de la Mission française occupe la hutte du parc du château déjà vue le 14 (voir f. 22 r\textsuperscript{o}). Les 78~F~75 sont la solde de quinzaine, du même montant que le 5 septembre à Roëllecourt (voir f. 18 v\textsuperscript{o}) : 15 jours à 5~F~25. Le même jour, la 18th Division reprend du génie de la 49th Division les tranchées au sud de Thiepval, qu'elle attaquera le 26 (Nichols 1922, p.~79).
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 271.
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh et London, Blackwood, 1922, p. 79.
-- 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'

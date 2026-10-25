@@ -26,18 +26,10 @@ transcription: |
   Roulé tout le jour.
   A Gien, 3^{H} 45. \hfill Montargis, 4^{H}20
 apparat:
-- ligne: 2
-  lemme: extt
-  type: abreviation
-  note: extrêmement
 - ligne: 4
   lemme: 1^{ère} cl.
   type: abreviation
   note: première classe
-- ligne: 4
-  lemme: 1^{ère}
-  type: lecture
-  note: Finale ère suscrite surmontée de son accent.
 - ligne: 5
   lemme: 5^{h}20
   type: abreviation
@@ -49,19 +41,11 @@ apparat:
 - ligne: 5
   lemme: En
   type: lecture
-  note: Lecture incertaine (tracé en forme de h, sans boucle d'E) ; on pourrait lire « à ».
+  note: 'lecture incertaine ; autre lecture : à'
 - ligne: 5
   lemme: 2^{e} cl.
   type: abreviation
   note: deuxième classe
-- ligne: 6
-  lemme: av
-  type: abreviation
-  note: avec
-- ligne: 6
-  lemme: qq
-  type: abreviation
-  note: quelques
 - ligne: 6
   lemme: permissre
   type: abreviation
@@ -74,10 +58,6 @@ apparat:
   lemme: Corresp^{ce}
   type: abreviation
   note: correspondance
-- ligne: 8
-  lemme: gd
-  type: abreviation
-  note: grand
 - ligne: 10
   lemme: 8^{H} 30
   type: abreviation
@@ -90,22 +70,6 @@ apparat:
   lemme: 10^{H}
   type: abreviation
   note: 10 heures
-- ligne: 13
-  lemme: 11^{H}
-  type: abreviation
-  note: 11 heures
-- ligne: 14
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 15
-  lemme: av
-  type: abreviation
-  note: avec
-- ligne: 15
-  lemme: av
-  type: lecture
-  note: Le mot s'arrête au v, suivi d'un long délié (pour « avec »).
 - ligne: 19
   lemme: 3^{H} 45
   type: abreviation
@@ -114,9 +78,8 @@ apparat:
   lemme: 4^{H}20
   type: abreviation
   note: 4 heures 20
-critique: Un interligne un peu plus large sépare la nuit à Saint-Flour du départ du matin.
 historique: |
-  De Saint-Flour, Hippolyte Combes ne repasse pas par Neussargues : il gagne directement Brioude (Haute-Loire) par la ligne de la Margeride (Saint-Flour – Beaumont-Lauriat – Brioude), concédée au P.L.M. en 1905 et ouverte en juin 1910, itinéraire que le Baedeker indique pour aller de Clermont à Béziers (Baedeker 1914, p.~282 ; Inventaire général Auvergne-Rhône-Alpes). À Brioude, sur la ligne de Nîmes à Clermont, il prend l'express de Paris par la ligne du Bourbonnais : Clermont-Ferrand, Riom, Gannat, Saint-Germain-des-Fossés, Nevers (Baedeker 1914, p.~216-217), puis Gien et Montargis (Loiret) ; il dépense 60~c au buffet de Brioude pendant l'heure de correspondance (f.~72~v\textsuperscript{o}). La nuit « extt froide » et les « pieds gelés » répondent aux minima de cette vague de froid : −18,5~°C à Clermont-Ferrand le 30 janvier, −15,4~°C à Paris le 4 février (Barbé 1917, p.~182). Les « permissionnaires » sont sans doute des soldats regagnant le front, comme lui, au terme d'une permission.
+  De Saint-Flour, Hippolyte Combes gagne directement Brioude (Haute-Loire) par la ligne de la Margeride, sans repasser par Neussargues : c'est l'itinéraire que le Baedeker indique de Clermont à Béziers (Baedeker 1914, p.~282). Concédée au P.L.M. en 1905, la ligne est ouverte en juin 1910 (Inventaire général Auvergne-Rhône-Alpes). À Brioude, sur la ligne de Nîmes à Clermont, il dépense 60~c au buffet (f.~72~v\textsuperscript{o}), puis prend l'express de Paris par la ligne du Bourbonnais : Clermont-Ferrand, Riom, Gannat, Saint-Germain-des-Fossés, Nevers (Baedeker 1914, p.~216-217), Gien et Montargis (Loiret). Le froid est très vif : −18,5~°C à Clermont-Ferrand le 30 janvier (Barbé 1917, p.~182 ; voir f.~71~r\textsuperscript{o}).
 sources:
 - Baedeker, K., Southern France including Corsica. Handbook for Travellers, 6e éd., Leipzig, K. Baedeker, 1914, p. 216-217, 282.
 - Inventaire général du patrimoine culturel, Région Auvergne-Rhône-Alpes, dossier « Ligne Brioude – Saint-Flour » (patrimoine.auvergnerhonealpes.fr).

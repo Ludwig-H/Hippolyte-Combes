@@ -116,3 +116,8 @@ noms:
     ligne: 18
     identite: Roëllecourt (Pas-de-Calais)
 source: contrôle
+audit:
+- ligne: 9
+  avant: obscur & boueux hameau, où ns avons été
+  apres: obscur & boueux hameau, ou ns avons été
+  justification: 'Zoom ×3 : o et u nets, aucun accent ni tiret au-dessus du mot ni de « ns » qui suit (zone dégagée) ; accent restitué par la lecture publiée.'

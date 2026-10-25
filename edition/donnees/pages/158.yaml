@@ -3,7 +3,7 @@ fichier: 20251126_111008.jpg
 date: Mercredi 21 – vendredi 23 février 1917
 mois: Février 1917
 lieux: Hérissart, Doullens et Molliens-au-Bois (Somme) ; Auxi-le-Château (Pas-de-Calais)
-titre: Course à Auxi-le-Château par Doullens dans le dégel ; mandat à Mme Spagnol ; Molliens
+titre: Course à Auxi-le-Château par Doullens ; mandat à Mme Spagnol ; Molliens-au-Bois
 transcription: |
   \sl{21 Merc.} Temps nuageux \hfill \sl{Février 1917}
   Brume pénétrante Bruine
@@ -20,10 +20,10 @@ transcription: |
   Spagnol, Nice – –
   A Doullens : 2 oeufs & café : 1^{f} —
   \ind[3] de semelles liège : 0^{f}80
-  Après-midi, à Herissart, village à peu
+  Après-midi, à Herissart village à peu
   près désert, presque funebre
   \filet
-  \sl{22 Jeudi} – Journée d'1 monotonie \inc{extre}
+  22 \sl{Jeudi} – Journée d'1 monotonie \inc{extre}
   \ind Temps couvert – Matin & soir, épais
   brouillard
   \ind Liberté entière tt le jour. Resté office, ou
@@ -37,30 +37,14 @@ transcription: |
   \ind Après-midi, liberté. Resté office et
   \ind rangé paquets —
 apparat:
-- ligne: 1
-  lemme: Merc.
-  type: abreviation
-  note: mercredi
-- ligne: 6
-  lemme: asz
-  type: abreviation
-  note: assez
 - ligne: 7
   lemme: \inc{rendent}
   type: lecture
-  note: forme contractée (r, e, d bouclé, finale en délié) ; autre lecture rendt.
-- ligne: 8
-  lemme: à 1^{H}
-  type: lecture
-  note: « à » (a ouvert et accent).
+  note: 'lecture incertaine ; autre lecture : rendt'
 - ligne: 8
   lemme: 1^{H} \fr{1}{2}
   type: abreviation
   note: une heure et demie
-- ligne: 8
-  lemme: lunch
-  type: emprunt
-  note: déjeuner
 - ligne: 9
   lemme: \inc{abomibles}
   type: abreviation
@@ -68,39 +52,15 @@ apparat:
 - ligne: 9
   lemme: \inc{abomibles}
   type: lecture
-  note: i pointé et deux hampes bouclées avant le délié final ; autre lecture abom^{les}.
+  note: 'lecture incertaine ; autre lecture : abom^{les}'
 - ligne: 11
   lemme: 42^{f}
   type: abreviation
   note: 42 francs
-- ligne: 11
-  lemme: Mme
-  type: abreviation
-  note: Madame
-- ligne: 13
-  lemme: 1^{f}
-  type: abreviation
-  note: 1 franc
-- ligne: 14
-  lemme: de semelles liège
-  type: disposition
-  note: 'ligne placée sous « : 2 oeufs », sans quantité exprimée.'
 - ligne: 14
   lemme: 0^{f}80
   type: lecture
-  note: 80 centimes ; f réduit à un petit trait entre 0 et 8 ; autre lecture 0'80.
-- ligne: 15
-  lemme: à peu
-  type: lecture
-  note: a et accent.
-- ligne: 16
-  lemme: près
-  type: lecture
-  note: à peu près.
-- ligne: 17
-  lemme: d'1
-  type: abreviation
-  note: d'une
+  note: '80 centimes ; autre lecture : 0''80'
 - ligne: 17
   lemme: \inc{extre}
   type: abreviation
@@ -108,48 +68,22 @@ apparat:
 - ligne: 17
   lemme: \inc{extre}
   type: lecture
-  note: finale bouclée en tête puis long délié, sans point ; autre lecture extra (extraordinaire).
-- ligne: 20
-  lemme: tt
-  type: abreviation
-  note: tout
-- ligne: 20
-  lemme: office
-  type: emprunt
-  note: bureau
+  note: 'lecture incertaine ; autre lecture : extra (extraordinaire)'
 - ligne: 21
   lemme: proprios
   type: abreviation
   note: propriétaires
-- ligne: 21
-  lemme: etc
-  type: abreviation
-  note: et cetera
 - ligne: 22
   lemme: '='
   type: signe
-  note: même (encore même temps)
-- ligne: 22
-  lemme: bruine
-  type: lecture
-  note: b, r, u, i pointé, n, e.
-- ligne: 24
-  lemme: d'1
-  type: abreviation
-  note: d'un
+  note: même
 - ligne: 25
   lemme: côt
   type: abreviation
   note: côté
-- ligne: 26
-  lemme: office
-  type: emprunt
-  note: bureau
-critique: Encre violette. Les trois journées sont séparées par deux filets ; les comptes de Doullens, réunis à gauche par un grand crochet, s'insèrent dans la notice du 21, avant l'après-midi à Hérissart, et un pâté d'encre couvre la fin de « liège ».
 historique: |
-  Les « fondrières » sont celles du dégel commencé le 16 février, qui défonce les routes de l'arrière (OH 1917-I, p.~76 ; voir f.~78 r\textsuperscript{o}). Auxi-le-Château (Pas-de-Calais), sur l'Authie, à 19~km au nord-ouest de Doullens, est pour la troisième fois le terme d'une course (voir f.~62 r\textsuperscript{o} et f.~76 r\textsuperscript{o}, chez M. Romert). Le retour passe par Puchevillers, à 3~km au nord d'Hérissart, tête de ligne de munitions en juillet 1916 (OH 1916-I, p.~274), où les 3rd et 44th \textit{Casualty Clearing Stations} restent installées jusqu'en mars 1917 (LLT). Le mandat de 42~francs règle sans doute le panier de fleurs expédié de Nice par Mme Spagnol et retiré à la gare de Toulouse le 29 janvier (voir f.~67 r\textsuperscript{o} et f.~68 r\textsuperscript{o}) ; la destinataire n'est pas identifiée. Les semelles de liège se glissaient sans doute dans les chaussures contre le froid et l'humidité ; Hippolyte Combes en rachète « 2 » pour 40~c. à Doullens le 11 avril (f.~89 v\textsuperscript{o}). Molliens-au-Bois est à 4,5~km au sud-sud-ouest d'Hérissart.
+  Le dégel commencé le 16 février défonce les routes de l'arrière (OH 1917-I, p.~76 ; voir f.~78 r\textsuperscript{o}). Auxi-le-Château (Pas-de-Calais), sur l'Authie, est à 19~km au nord-ouest de Doullens ; Combes y va pour la troisième fois (voir f.~62 r\textsuperscript{o} et f.~76 r\textsuperscript{o}). Puchevillers, à 3~km au nord d'Hérissart, abrite deux \textit{Casualty Clearing Stations} (LLT). Le mandat de 42~francs paie sans doute le panier de fleurs envoyé de Nice par Mme Spagnol, non identifiée (voir f.~67 r\textsuperscript{o} et f.~68 r\textsuperscript{o}). Combes rachète des semelles de liège le 11 avril (f.~89 v\textsuperscript{o}). Molliens-au-Bois est à 4,5~km au sud-sud-ouest d'Hérissart.
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 76.
-- 'Edmonds, J. E. (comp.), Military Operations, France and Belgium, 1916, vol. I, Sir Douglas Haig''s Command to the 1st July : Battle of the Somme, Londres, Macmillan, 1932, p. 274.'
 - The Long, Long Trail (C. Baker), « Locations of British Casualty Clearing Stations », copie Wayback du 13 janv. 2018.
 - Géo API (geo.api.gouv.fr), coordonnées des chefs-lieux de communes (distances à vol d'oiseau).

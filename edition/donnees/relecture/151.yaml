@@ -138,3 +138,8 @@ noms:
     ligne: 14
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+audit:
+- ligne: 13
+  avant: énorme & bête
+  apres: enorme & bête
+  justification: 'zoom ×2 [.62 .49 .92 .55] : e initial bouclé sans aucun accent, ni au-dessus de l''e ni décalé sur le n ; accent absent transcrit tel quel'

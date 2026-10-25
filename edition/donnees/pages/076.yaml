@@ -3,7 +3,7 @@ fichier: 20251126_104118.jpg
 date: Lundi 16 – mardi 17 octobre 1916
 mois: Octobre 1916
 lieux: Beauval et Warloy-Baillon (Somme)
-titre: Comptes du 16 octobre ; nuit sous la tente à Warloy, départ de la colonne à 10 h
+titre: Comptes du 16 octobre ; nuit sous la tente à Warloy ; départ à 10 h
 transcription: |
   16 \sl{Lundi} \hfill \sl{Oct /16}
   A Beauval, room : 1^{f} – \hfill Groom : 1^{f}
@@ -30,17 +30,9 @@ apparat:
   type: emprunt
   note: chambre
 - ligne: 2
-  lemme: 1^{f}
-  type: abreviation
-  note: 1 franc
-- ligne: 2
   lemme: Groom
   type: emprunt
   note: palefrenier, soldat chargé du cheval d'un officier
-- ligne: 3
-  lemme: ctes ples
-  type: abreviation
-  note: cartes postales
 - ligne: 3
   lemme: \inc{25} c
   type: abreviation
@@ -48,15 +40,7 @@ apparat:
 - ligne: 3
   lemme: \inc{25} c
   type: lecture
-  note: 25 (petit 2 lié à un 5 à drapeau) ; ou 5 seul précédé d'une boucle d'attaque
-- ligne: 5
-  lemme: offs
-  type: abreviation
-  note: officiers
-- ligne: 5
-  lemme: offs
-  type: lecture
-  note: s final en crochet après ff, sans point
+  note: 'lecture incertaine ; autre lecture : 5 c'
 - ligne: 8
   lemme: 6^{H} m.
   type: abreviation
@@ -77,24 +61,11 @@ apparat:
   lemme: 10^{H} m
   type: abreviation
   note: 10 heures du matin
-- ligne: 12
-  lemme: tjs
-  type: abreviation
-  note: toujours
-- ligne: 12
-  lemme: convoi
-  type: lecture
-  note: sans s final
-- ligne: 12
-  lemme: tte
-  type: abreviation
-  note: toute
-critique: Page écrite en travers. Les comptes du lundi 16, disposés en deux colonnes, sont séparés par un filet de l'entrée du mardi 17, dont le récit se poursuit f.~39 r\textsuperscript{o}.
+critique: Page écrite en travers du carnet. Le récit du mardi 17 se poursuit f.~39 r\textsuperscript{o}.
 historique: |
-  L'étape suit celle de la 54th Brigade, que sert la 152nd Company : le 7th Bedfordshire, parti de Beauval, passe la nuit du 16 au bois de Vadencourt, à l'ouest de Warloy, après une marche de 13 milles, et gagne Bouzincourt le 17 (JMO 7/Bedf, 16--17 oct. 1916 ; Wyrall, p.~319). Le franc de la chambre de Beauval est le tarif de l'indemnité de logement due à l'habitant pour un lit d'officier, 1~F par nuit selon le décret de 1877 (Fernand-Laurent 1917, p.~225--234) ; Hippolyte Combes paraît l'avoir réglée lui-même. Le \textit{groom} est le soldat qui soigne le cheval d'un officier monté (Fernand-Laurent 1917, p.~64) : sans doute Connelly, « mon groom » (f.~6 r\textsuperscript{o}), qui reçoit d'Hippolyte Combes 1 ou 2~F à intervalles réguliers. Warloy-Baillon, à 8~km du front du 1\textsuperscript{er} juillet, abritait des ambulances de campagne (CWGC). Le beau temps du 16, « definitely fine », et la belle matinée du 17 sont ceux de l'histoire officielle, qui note la lune proche de son dernier quartier (OH 1916-II, p.~444).
+  Le franc de la chambre de Beauval (voir f.~37 v\textsuperscript{o}) est le tarif du lit d'officier logé chez l'habitant, 1~F par nuit selon le décret de 1877 (Fernand-Laurent 1917, p.~225--234) ; Hippolyte Combes semble l'avoir payé lui-même. Le \textit{groom} est le soldat qui soigne le cheval d'un officier monté (Fernand-Laurent 1917, p.~64) ; c'est sans doute Connelly (voir f.~37 v\textsuperscript{o}). La 54th Brigade, que sert la 152nd Company, a passé la nuit au bois de Vadencourt (voir f.~38 r\textsuperscript{o}) et gagne Bouzincourt le 17 (JMO 7/Bedf, 17 oct. 1916 ; Wyrall, p.~319). L'histoire officielle note le beau temps du 16 et de la matinée du 17, et une lune proche de son dernier quartier (OH 1916-II, p.~444).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1610 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, octobre 1916 (transcription en ligne).'
 - Wyrall, E., The Die-Hards in the Great War, vol. I, London, Harrison & Sons, [1926], p. 319.
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 64, 225-234.
-- Commonwealth War Graves Commission, notice « Warloy-Baillon Communal Cemetery Extension ».
 - Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 444.

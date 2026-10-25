@@ -3,7 +3,7 @@ fichier: 20251126_104932.jpg
 date: Mardi 28 – jeudi 30 novembre 1916
 mois: Novembre 1916
 lieux: Acheux-en-Amiénois, Martinsart (Mesnil-Martinsart), Raincheval et Hérissart (Somme)
-titre: Thé au château de Martinsart ; tournée dans le brouillard ; premier dîner au nouveau mess
+titre: Thé au château de Martinsart ; course dans le brouillard ; dîner au nouveau mess
 transcription: |
   \sl{28 Ma} \hfill \sl{Nov^{bre} 1916}
   \ind[2] Tjours même temps : brouillard & pluie.
@@ -12,13 +12,13 @@ transcription: |
   Chateau, reçu aimablt par M. & M \inc{Vali};
   et pris thé av eux — Gros canons, tt
   proche, en action.
-  Traversé régions plates, terrains défoncés \trait
+  Traversé regions plates, terrains defonces \trait
   Convois de ttes sortes.
-  au retour, nuit noire, éclairs bleuâtres
+  au retour, nuit noire, eclairs bleuâtres
   à l'horizon - canonnade \trait
   \blanc{1}
   \sl{29 Me}
-  \ind Matin, très épais brouillard
+  \ind Matin, très epais brouillard
   après-midi, longue course en auto : Raincheval
   Puchevillers, Rubempré et Septenville & Pierregot
   Brouillard se lève, de + en + dense et ensevelit
@@ -34,29 +34,17 @@ transcription: |
   49 C, chambre de L^{t} Curtis.
 apparat:
 - ligne: 1
-  lemme: Ma
-  type: abreviation
-  note: mardi
-- ligne: 1
   lemme: Nov^{bre}
   type: abreviation
   note: novembre
-- ligne: 2
-  lemme: Tjours
-  type: abreviation
-  note: toujours
 - ligne: 3
   lemme: \inc{rendormi}
   type: lecture
-  note: 'lecture retenue rendormi ; autre lecture : endormi'
+  note: 'autre lecture : endormi'
 - ligne: 5
   lemme: aimablt
   type: abreviation
   note: aimablement
-- ligne: 5
-  lemme: M.
-  type: abreviation
-  note: Monsieur
 - ligne: 5
   lemme: '& M'
   type: abreviation
@@ -64,27 +52,7 @@ apparat:
 - ligne: 5
   lemme: \inc{Vali}
   type: lecture
-  note: 'nom commençant par V-a ; autres lectures : Vahi, Valin'
-- ligne: 6
-  lemme: av
-  type: abreviation
-  note: avec
-- ligne: 6
-  lemme: tt
-  type: abreviation
-  note: tout
-- ligne: 9
-  lemme: ttes
-  type: abreviation
-  note: toutes
-- ligne: 12
-  lemme: Me
-  type: abreviation
-  note: mercredi
-- ligne: 16
-  lemme: de + en +
-  type: abreviation
-  note: de plus en plus
+  note: 'autres lectures : Vahi, Valin'
 - ligne: 17
   lemme: au \fr{1}{2}
   type: abreviation
@@ -92,19 +60,11 @@ apparat:
 - ligne: 18
   lemme: Moulins à
   type: disposition
-  note: fin de la l. 17, rejetée à droite ; « (vent) », écrit au-dessous, la complète
-- ligne: 19
-  lemme: Washing
-  type: emprunt
-  note: blanchissage
-- ligne: 20
-  lemme: J
-  type: abreviation
-  note: jeudi
+  note: complété par « (vent) », l. 19
 - ligne: 23
   lemme: \addm{aller}
   type: ajout
-  note: en marge gauche, au-dessus de « Au » ; complète la l. 22
+  note: complète la l. 22
 - ligne: 24
   lemme: 7^{H} s
   type: abreviation
@@ -113,27 +73,17 @@ apparat:
   lemme: 1^{re}
   type: abreviation
   note: première
-- ligne: 25
-  lemme: mess
-  type: emprunt
-  note: popote, table commune des officiers
 - ligne: 26
   lemme: 49 C
   type: lecture
-  note: 4 ouvert (79 C moins probable) ; désignation d'un local
+  note: 'autre lecture, moins probable : 79 C ; désignation d''un local'
 - ligne: 26
   lemme: de
   type: lecture
-  note: d bouclé suivi d'un seul e, sans jambages de u
-- ligne: 26
-  lemme: L^{t}
-  type: abreviation
-  note: lieutenant
-critique: Encre noire virée au brun, homogène sur toute la page ; le mot « brouillard » du 29 novembre a été repassé d'une encre plus appuyée, la boucle du premier tracé restant visible.
+  note: et non « du »
 historique: |
-  Martinsart, hameau de la commune de Mesnil-Martinsart, à 4~km au nord d'Albert et à 8~km au sud-est d'Acheux, était « proche de la ligne de front jusqu'en septembre 1916 » (CWGC) ; au printemps de 1916, des voies de 60~cm en partaient vers le bois d'Aveluy (OH 1916-I, p.~276, n.), et les batteries lourdes y tirent encore vers l'Ancre au lendemain de la bataille du 13–18 novembre. Les châtelains, dont le nom reste douteux (« Vali » ou « Bertin »), ne sont pas identifiés ; Hippolyte Combes reviendra au château le 10 février 1917 (voir f.~75~r\textsuperscript{o}). La tournée du 29 conduit, à 12–15~km au sud-ouest d'Acheux, aux villages du plateau entre Puchevillers et l'Hallue, champ des achats de paille et de fourrage ; Septenville est un hameau de Rubempré. Le même 29 novembre, le QG du V Corps quitte Acheux pour Doullens et celui du XIII Corps le remplace (LLT ; voir f.~52~v\textsuperscript{o}). Le thé pris à Hérissart le 30 l'est peut-être chez le lieutenant Walsh, qui y réside (voir f.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}).
+  Martinsart, hameau de Mesnil-Martinsart à 4~km au nord d'Albert et 8~km au sud-est d'Acheux (geo.api.gouv.fr), était « proche de la ligne de front jusqu'en septembre 1916 » (CWGC). Les châtelains, au nom douteux, ne sont pas identifiés ; Hippolyte Combes reviendra au château le 10 février 1917 (voir f.~75~r\textsuperscript{o}). La tournée du 29 mène à 12--15~km au sud-ouest d'Acheux, sur le plateau entre Puchevillers et l'Hallue, zone des achats de paille et de fourrage ; Septenville est un hameau de Rubempré. Le même jour, le QG du V Corps quitte Acheux pour Doullens et celui du XIII Corps le remplace (LLT). Le thé du 30 à Hérissart est peut-être pris chez le lieutenant Walsh, qui y réside (voir f.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}).
 sources:
 - Commonwealth War Graves Commission, notice « Martinsart British Cemetery » (cwgc.org).
-- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 276, n.
 - Baker, C., The Long, Long Trail, « The British V Corps in France and Flanders » et « The British XIII Corps in France and Flanders » (longlongtrail.co.uk, consultés le 18 oct. 2026).
 - geo.api.gouv.fr, coordonnées des mairies (distances à vol d'oiseau).

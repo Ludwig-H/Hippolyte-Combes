@@ -3,7 +3,7 @@ fichier: 20251126_111116.jpg
 date: Mardi 6 – mercredi 7 mars 1917
 mois: Mars 1917
 lieux: Hérissart, Doullens et Toutencourt (Somme)
-titre: Arrivée de l'officier australien et d'un interprète ; Doullens ; démarche à la Mission
+titre: Officier australien et nouvel interprète ; Doullens ; démarche à la Mission
 transcription: |
   6 \sl{mardi} \hfill — \sl{Mars 1917} —
   \ind tout le jour, soufflé
@@ -38,10 +38,6 @@ apparat:
   lemme: entier^{t}
   type: abreviation
   note: entièrement (t suscrit barré)
-- ligne: 4
-  lemme: off.
-  type: abreviation
-  note: officier
 - ligne: 6
   lemme: cap. W^{m}
   type: abreviation
@@ -65,19 +61,11 @@ apparat:
 - ligne: 9
   lemme: \inc{Granger}
   type: lecture
-  note: initiale bouclée descendante (G ?), puis r-a-n/u-g-e-r ; autre lecture Grauger ; même tracé l. 11
-- ligne: 9
-  lemme: chz
-  type: abreviation
-  note: chez
-- ligne: 9
-  lemme: cap
-  type: abreviation
-  note: capitaine
+  note: 'lecture incertaine ; autre lecture : Grauger (de même l. 11)'
 - ligne: 10
   lemme: \inc{Renouleau}
   type: lecture
-  note: R-e-n-o-u nets, finale -leau brouillée par le g de « logis » ; autres lectures Raucoule, Rancouleau
+  note: 'lecture incertaine ; autres lectures : Raucoule, Rancouleau'
 - ligne: 10
   lemme: l'a
   type: graphie
@@ -90,14 +78,10 @@ apparat:
   lemme: marl
   type: abreviation
   note: maréchal (des logis)
-- ligne: 13
-  lemme: mess
-  type: emprunt
-  note: popote, table commune des officiers
-- ligne: 13
-  lemme: cie
-  type: abreviation
-  note: compagnie
+- ligne: 11
+  lemme: \inc{Granger}
+  type: lecture
+  note: 'même nom qu''à la l. 9 ; autre lecture : Grauger'
 - ligne: 13
   lemme: intpte
   type: abreviation
@@ -130,29 +114,16 @@ apparat:
   lemme: auxil^{re}
   type: abreviation
   note: auxiliaire
-- ligne: 19
-  lemme: '&'
-  type: abreviation
-  note: et
-- ligne: 20
-  lemme: '&'
-  type: abreviation
-  note: et
 - ligne: 23
   lemme: \inc{des}
   type: lecture
-  note: d + un jambage + long délié, s fondu ; autre lecture du
+  note: 'lecture incertaine ; autre lecture : du'
 - ligne: 25
   lemme: 4^{H}
   type: abreviation
   note: quatre heures
-- ligne: 26
-  lemme: ds
-  type: abreviation
-  note: dans
-critique: Page entière à l'encre violette, tachée de brun. Les comptes du 6, précédés d'un blanc et réunis par un grand crochet, sont placés entre les deux journées.
 historique: |
-  L'officier australien arrivé le 6 est peut-être le « Lt. Wentworth » nommé à partir du 17 mars (voir f.~84~v\textsuperscript{o}). Le nouvel interprète, sans nom ici, est soit « Evar », qui revient le 8 avec Valet, interprète de la 2nd Australian Division, et repart pour Albert, soit Valet lui-même (voir f.~82~r\textsuperscript{o}). Relevé, Hippolyte Combes va chercher une affectation au bureau de la Mission française de la Fifth Army à Toutencourt (voir f.~75~r\textsuperscript{o}), qui tient listes nominatives, fiches et carnets de notes des interprètes (SHD, GR 17 N 447-448, 463-479). Le maréchal des logis « Granger » et le capitaine « Renouleau », de lecture incertaine, ne sont pas identifiés ; le 8, on lui dira de rester auprès de son capitaine jusqu'au départ de celui-ci (voir f.~82~r\textsuperscript{o}). Doullens, à 15~km au nord-nord-ouest, abritait des hôpitaux militaires français et britanniques (CWGC) ; l'hôpital auxiliaire, qui relevait d'une société de la Croix-Rouge, n'est pas identifié. Sur les pastilles de chlorate de potasse, voir f.~69~r\textsuperscript{o}.
+  L'officier australien est peut-être le « Lt. Wentworth » nommé à partir du 17 mars (voir f.~84~v\textsuperscript{o}). Le nouvel interprète est soit Evar, qui revient le 8 avec Valet, interprète de la 2nd Australian Division, soit Valet lui-même (voir f.~82~r\textsuperscript{o}). Relevé, Combes cherche une affectation auprès de la Mission française de la Fifth Army à Toutencourt (voir f.~75~r\textsuperscript{o}), qui tient les fiches et carnets de notes des interprètes (SHD, GR 17 N 447-448, 463-479). Le maréchal des logis « Granger » et le capitaine « Renouleau », de lecture incertaine, ne sont pas identifiés. Doullens, à 15~km au nord-nord-ouest, avait des hôpitaux militaires français et britanniques (CWGC) ; l'hôpital auxiliaire n'est pas identifié. Sur les pastilles de chlorate de potasse, voir f.~69~r\textsuperscript{o}.
 sources:
 - Nicot, J., Schillinger, P., Ficat, J., Inventaire sommaire des archives de la guerre 1914-1918. Grand quartier général des armées alliées (15 N), GQG (16 N), Missions militaires françaises (17 N), Vincennes, Service historique de l'Armée, 1972, p. 263-269.
 - Commonwealth War Graves Commission, Doullens Communal Cemetery Extension No. 1, notice historique (cwgc.org).

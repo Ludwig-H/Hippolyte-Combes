@@ -209,3 +209,12 @@ noms:
     ligne: 22
     identite: Paris
 source: contrôle
+audit:
+- ligne: 1
+  avant: \sl{15 \inc{Me}}
+  apres: \sl{15 Ma}
+  justification: 'zoom ×3 : après le M, ovale fermé à hauteur d''œil, refermé à droite par un jambage qui se prolonge en délié, sans boucle d''e ; la lettre est un a sans ambiguïté. On transcrit l''image ; le lapsus (15 novembre = mercredi) passe dans l''apparat'
+- ligne: 22
+  avant: (\inc{tiss})
+  apres: (\inc{Wiss})
+  justification: 'zoom ×3 : deux hastes, la seconde crochetée à droite à mi-hauteur, sans barre de t : forme du W de Walsh (l. 19) et de Washing (l. 11) ; puis i pointé et deux s montants. Doute maintenu sur le nom'

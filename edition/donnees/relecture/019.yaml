@@ -136,3 +136,16 @@ noms:
     ligne: 18
     identite: Armentières (Nord)
 source: contrôle
+audit:
+- ligne: 7
+  avant: promené campagne
+  apres: promené Campagne
+  justification: C initial haut de deux œils, à crochet de tête, de même forme que le C de Ciel (l. 9) ; les c minuscules de la page (couvert, course) restent au module de l'œil
+- ligne: 11
+  avant: rafraichi l'air
+  apres: rafraichi l air
+  justification: zoom ×3 ; aucun trait d'apostrophe entre le l bouclé et air ; le trait vertical plus à droite est la virgule de 1^{H}, (l. 10)
+- ligne: 14
+  avant: zebrer l'air
+  apres: zebrer l air
+  justification: zoom ×3 ; l bouclé séparé de air par un blanc, sans apostrophe

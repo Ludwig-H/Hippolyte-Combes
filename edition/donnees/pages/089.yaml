@@ -3,7 +3,7 @@ fichier: 20251126_104547.jpg
 date: Mercredi 1er novembre 1916
 mois: Novembre 1916
 lieux: Albert (Somme)
-titre: 'Toussaint à Albert : cimetière dévasté, prise d''armes ; ordre de départ pour Acheux'
+titre: 'Toussaint à Albert : cimetière dévasté, prise d''armes ; départ prévu pour Acheux'
 transcription: |
   1er Me. Toussaint. \hfill – \sl{Novembre 1916} –
   \ind ciel bas et couleur de cendre.
@@ -43,10 +43,6 @@ apparat:
   lemme: au \fr{1}{2} de
   type: abreviation
   note: au milieu de
-- ligne: 9
-  lemme: tt
-  type: abreviation
-  note: tout
 - ligne: 10
   lemme: killed in action
   type: emprunt
@@ -64,17 +60,9 @@ apparat:
   type: abreviation
   note: général
 - ligne: 13
-  lemme: gen^{l}
-  type: lecture
-  note: l suscrit après gen, aucun a
-- ligne: 13
   lemme: div.
   type: abreviation
   note: diverses
-- ligne: 13
-  lemme: s/
-  type: abreviation
-  note: sur
 - ligne: 14
   lemme: tommies
   type: emprunt
@@ -83,10 +71,6 @@ apparat:
   lemme: N.C.O's
   type: abreviation
   note: 'Non-Commissioned Officers : sous-officiers'
-- ligne: 15
-  lemme: s/
-  type: abreviation
-  note: sur
 - ligne: 18
   lemme: Church meeting
   type: emprunt
@@ -94,11 +78,7 @@ apparat:
 - ligne: 19
   lemme: de
   type: lecture
-  note: de, lettres nettes ; on attendrait ds (dans)
-- ligne: 20
-  lemme: qq
-  type: abreviation
-  note: quelques
+  note: lecture sûre ; on attendrait ds (dans)
 - ligne: 20
   lemme: M.P.s
   type: abreviation
@@ -107,21 +87,12 @@ apparat:
   lemme: 9^{H}
   type: abreviation
   note: neuf heures
-- ligne: 22
-  lemme: L^{t}
-  type: abreviation
-  note: lieutenant
-- ligne: 24
-  lemme: Ns
-  type: abreviation
-  note: nous
 - ligne: 24
   lemme: Coy Transport
   type: emprunt
   note: compagnie du train (la 152nd Company A.S.C.)
-critique: Encre violette. Un blanc d'environ une ligne sépare l'après-midi du soir.
 historique: |
-  Le « champ » de croix contigu au cimetière communal d'Albert est son extension militaire britannique (\textit{Albert Communal Cemetery Extension}), ouverte en août 1915, surtout utilisée à partir de septembre 1916, quand les ambulances de campagne furent concentrées à Albert ; à partir de novembre 1916, la 5th Casualty Clearing Station l'utilise deux mois (CWGC). \textit{Killed in action}, « tué à l'ennemi », est une catégorie des listes de pertes britanniques. Le « gen\textsuperscript{l} écossais » n'est pas identifié. Le « jardin public », rue Jules-Ferry, remonte au jardin des archers loué par la ville au XV\textsuperscript{e} siècle ; recréé dans les années 1920, il est inscrit monument historique depuis le 16 février 2009 (Mérimée PA80000063). L'organisateur du \textit{Church meeting} de la route d'Amiens (aumônerie, Y.M.C.A., Church Army ?) est inconnu ; les \textit{M.P.s} sont les gendarmes de la \textit{Military Police}. L'ordre apporté par Curtis prolonge l'enquête sur la paille et le foin d'Acheux et de Senlis du 29 octobre (voir f.~44~r\textsuperscript{o}).
+  Le champ de croix voisin du cimetière communal est l'\textit{Albert Communal Cemetery Extension}. Ouvert en août 1915, il sert surtout à partir de septembre 1916, quand les ambulances de campagne se regroupent à Albert ; la 5th Casualty Clearing Station l'utilise deux mois à partir de novembre 1916 (CWGC). Le général écossais n'est pas identifié. Le jardin public, rue Jules-Ferry, est inscrit monument historique depuis le 16 février 2009 (Mérimée PA80000063). On ignore qui organise le \textit{Church meeting} de la route d'Amiens. L'ordre apporté par Curtis fait suite à l'enquête sur la paille et le foin d'Acheux et de Senlis, le 29 octobre (voir f.~44~r\textsuperscript{o}).
 sources:
 - Commonwealth War Graves Commission, « Albert Communal Cemetery Extension », notice historique, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/61300/albert-communal-cemetery-extension/.
 - Ministère de la Culture, base Mérimée, PA80000063, « Jardin public », Albert (Somme), inscription par arrêté du 16 février 2009.

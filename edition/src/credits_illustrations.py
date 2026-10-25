@@ -75,6 +75,7 @@ Les fac-similés reproduisent les photographies du carnet prises le 26 novembre 
 """ + "\n".join(lignes) + r"""
 \end{longtable}}
 """
+    tex = re.sub(r"«[ \t]+", "«~", re.sub(r"[ \t]+»", "~»", tex))  # guillemets insécables
     (EDITION / "textes" / "annexe_illustrations.tex").write_text(tex, encoding="utf-8")
     print(f"{len(lignes)} illustrations -> textes/annexe_illustrations.tex")
 

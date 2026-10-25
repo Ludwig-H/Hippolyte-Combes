@@ -142,3 +142,8 @@ noms:
     ligne: 13
     identite: La Croix-du-Bac (Nord)
 source: contrôle
+audit:
+- ligne: 3
+  avant: \inc{vers}
+  apres: \inc{par}
+  justification: 'Zoom ×3 [.48 .075 .78 .135] : le mot commence par une haste partant au-dessus de l''œil et descendant loin sous la ligne (p, sans boucle de tête), suivie d''un a fermé et d''un r prolongé en délié horizontal ; tracé identique à « par » de la l. 5. Aucun v, aucun s final. Sens (« par 10 H ») peu naturel : \inc{} maintenu, « vers » en alternative.'

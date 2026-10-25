@@ -157,3 +157,12 @@ noms:
     identite: lieutenant britannique de la compagnie
   lieux: []
 source: contrôle
+audit:
+- ligne: 10
+  avant: sur l herbe sèche, près des lignes de ma
+  apres: sur l herbe seche, près des lignes de ma
+  justification: 'zoom ×3 rehaussé : s, e, c, h, e sans aucun signe au-dessus du premier e ni décalé à droite (espace vide jusqu''à la ligne supérieure), alors que près porte sa barre d''accent ; accent absent, comme dans trefle et reparait'
+- ligne: 21
+  avant: à cheval, \inc{&} cette fois sur un bon poney.
+  apres: à cheval, \inc{&} cette fois sur un bon pony.
+  justification: 'zoom ×4 : p à longue haste, o fermé, n à deux arches, puis directement la tête en V ouvert du y ; aucune boucle de e entre n et y : mot anglais pony (traduction ajoutée à l''apparat)'

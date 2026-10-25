@@ -3,7 +3,7 @@ fichier: 20251126_103215.jpg
 date: Jeudi 28 septembre 1916
 mois: Septembre 1916
 lieux: Toulouse (Haute-Garonne)
-titre: Rangement de l'appartement ; bouquet pour Marguerite ; Pouvourville et Pech-David
+titre: Appartement rangé ; bouquet pour Marguerite ; Pouvourville et Pech-David
 transcription: |
   \sl{28 Jeudi.} \hfill \sl{Sept^{bre} /16}
   Me suis attardé ds mon appart^{t} Pris un
@@ -30,54 +30,26 @@ transcription: |
   Fruits (raisins & grenades) : 1 f — Varia : 10 c.
   Bouquet (place Esquirol : 3^{f} —
 apparat:
-- ligne: 1
-  lemme: Sept^{bre} /16
-  type: abreviation
-  note: septembre 1916
-- ligne: 2
-  lemme: ds
-  type: abreviation
-  note: dans
-- ligne: 2
-  lemme: appart^{t}
-  type: abreviation
-  note: appartement
 - ligne: 5
   lemme: \inc{&} moi
   type: lecture
-  note: forme du & (cf. l. 3 et 22), sans doute lapsus pour « en » ; « ds » possible
+  note: 'sans doute lapsus pour « en » ; autre lecture : ds'
 - ligne: 6
   lemme: S^{te} Marie
   type: abreviation
   note: Sainte-Marie(-des-Champs), quartier de Toulouse
 - ligne: 6
-  lemme: 11^{H} \fr{1}{2}
-  type: abreviation
-  note: onze heures et demie
-- ligne: 6
   lemme: M^{te}
   type: abreviation
   note: Marguerite (Calmels)
-- ligne: 9
-  lemme: tjs
-  type: abreviation
-  note: toujours
 - ligne: 10
   lemme: déjeun
   type: abreviation
   note: déjeuner
 - ligne: 10
-  lemme: cie
-  type: abreviation
-  note: compagnie
-- ligne: 10
-  lemme: Mme
-  type: abreviation
-  note: Madame
-- ligne: 10
   lemme: \inc{C^{h}}
   type: lecture
-  note: C suivi d'un h surélevé ; « C^{ls} » (Calmels) moins probable
+  note: 'autre lecture, moins probable : C^{ls} (Calmels)'
 - ligne: 11
   lemme: M. C^{zt}.
   type: abreviation
@@ -87,29 +59,17 @@ apparat:
   type: abreviation
   note: Saint-Joseph (quartier de Toulouse)
 - ligne: 12
-  lemme: j-à
-  type: abreviation
-  note: jusqu'à
-- ligne: 12
-  lemme: St-Agne
-  type: abreviation
-  note: Saint-Agne
-- ligne: 12
   lemme: \inc{Là} pris tram
   type: lecture
-  note: « Là » (L bouclé, a, accent)
-- ligne: 13
-  lemme: j-à
+  note: lecture incertaine
+- ligne: 12
+  lemme: St-Agne
   type: abreviation
-  note: jusqu'à
+  note: Saint-Agne
 - ligne: 13
   lemme: St-Agne
   type: abreviation
   note: Saint-Agne
-- ligne: 14
-  lemme: j-au
-  type: abreviation
-  note: jusqu'au
 - ligne: 16
   lemme: j-au carref
   type: abreviation
@@ -126,10 +86,6 @@ apparat:
   lemme: 9^{H} 30 s
   type: abreviation
   note: 9 heures 30 du soir
-- ligne: 21
-  lemme: 20c
-  type: abreviation
-  note: 20 centimes
 - ligne: 22
   lemme: 1 f
   type: abreviation
@@ -142,20 +98,9 @@ apparat:
   lemme: 10 c.
   type: abreviation
   note: 10 centimes
-- ligne: 23
-  lemme: (place Esquirol
-  type: lecture
-  note: parenthèse non refermée ; le trait après Esquirol est la descente du f de la l. 22
-- ligne: 23
-  lemme: 3^{f}
-  type: abreviation
-  note: 3 francs
-critique: Encre violette homogène ; les trois lignes de dépenses au bas de la page sont séparées du récit par un filet horizontal.
 historique: |
-  L'appartement est celui de la rue de Languedoc, sans doute au n\textsuperscript{o}~24 (carte-lettre à Marguerite, 25 nov. 1918) ; sur Sainte-Marie, maison des Crouzet à la Côte-Pavée, voir f.~27 v\textsuperscript{o}. Le carnet nomme ici pour la première fois Marguerite Calmels sa « fiancée », plus d'un an avant le mariage du 25 octobre 1917. « M. C\textsuperscript{zt} » est Émile Crouzet (v.~1842--1926), époux de la tante paternelle de Marguerite (\textit{L'Express du Midi}, 23 déc. 1926, p.~5) ; « Mme C\textsuperscript{h} » n'est pas identifiée (Mme Calmels mère ?). La ligne Esquirol -- Saint-Agne -- Castanet (Baedeker 1912, p.~298 ; Wikipédia) mène au pied des coteaux de la rive droite : de Pouvourville, village de la commune de Toulouse, on gagne la crête de Pech-David, à quelque 130~m au-dessus de la Garonne (Toulouse Métropole). La « Caserne » est sans doute la caserne Niel, boulevard des Récollets (Toulouse Métropole). Le bouquet (3~f) vaut plus d'une demi-journée de solde (voir f.~23 v\textsuperscript{o}).
+  Sur l'appartement de la rue de Languedoc, sur Sainte-Marie et sur Émile Crouzet (« M. C\textsuperscript{zt} »), voir f.~27 v\textsuperscript{o}. Le carnet nomme ici pour la première fois Marguerite Calmels sa « fiancée », plus d'un an avant le mariage du 25 octobre 1917. « Mme C\textsuperscript{h} » n'est pas identifiée (Mme Calmels mère ?). Le tram Esquirol -- Saint-Agne -- Castanet (Baedeker 1912, p.~298 ; Wikipédia) mène au pied des coteaux de la rive droite : de Pouvourville, village de la commune de Toulouse, on gagne la crête de Pech-David, à quelque 130~m au-dessus de la Garonne (Toulouse Métropole). La « Caserne » est sans doute la caserne Niel, boulevard des Récollets. Le bouquet (3~f) vaut plus d'une demi-journée de solde (voir f.~23 v\textsuperscript{o}).
 sources:
-- Hippolyte Combes, H., carte-lettre à Marguerite Calmels, Paris, 25 nov. 1918 (archives familiales, lettres de guerre).
-- L'Express du Midi (Toulouse), 23 décembre 1926, p. 5 (faire-part d'Émile Crouzet).
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, p. 298.
 - Wikipédia, art. « Ancien tramway de Toulouse » (d'après C. Lacombe et P. Malterre, Omnibus, tramways et autobus de Toulouse, éd. du Cabri, 1983), consulté en oct. 2026.
 - Toulouse Métropole, « Balades nature » (carte, 2022) et notices de quartier « Rangueil, Sauzelong, Jules-Julien, Pech-David, Pouvourville » et « Maison des associations » (metropole.toulouse.fr), consultées le 18 oct. 2026.

@@ -140,3 +140,16 @@ noms:
     ligne: 20
     identite: Erquinghem-Lys (Nord)
 source: contrôle
+audit:
+- ligne: 7
+  avant: \add{Arrivé par gare (l. est complt déserte}
+  apres: \add{Arrivé par gare (l. est compt déserte}
+  justification: c, o, m, puis p dont le jambage remonte directement dans la haste du t barré long ; aucune boucle de l entre p et t
+- ligne: 8
+  avant: Parcouru principaux quartiers.
+  apres: Parcouru principaux quartiers –
+  justification: après quartiers, trait horizontal court à mi-hauteur, de même longueur que les tirets de obus – – (l. 6) et Barbry – (l. 2), non un point
+- ligne: 15
+  avant: très atteinte. Clocher découronné –
+  apres: très atteinte Clocher découronné –
+  justification: aucun point entre atteinte et Clocher ; le seul point visible au-dessus du mot est celui du i

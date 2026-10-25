@@ -139,3 +139,8 @@ noms:
     ligne: 5
     identite: Sainte-Marie(-des-Champs), demeure de la famille Calmels à Toulouse (Côte-Pavée)
 source: contrôle
+audit:
+- ligne: 2
+  avant: m'attendait, Accueil
+  apres: m'attendait Accueil
+  justification: 'Zoom ×2 [.30 .05 1 .11] : le trait oblique pris pour une virgule après attendait monte de la l. 3, c''est la haste du h de « charmante » (sommet à droite, conforme à l''inclinaison) ; aucun point ni virgule propre à la l. 2.'

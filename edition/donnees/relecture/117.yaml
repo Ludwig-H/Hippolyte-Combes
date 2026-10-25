@@ -191,3 +191,20 @@ noms:
     ligne: 17
     identite: Beauquesne (Somme)
 source: contrôle
+audit:
+- ligne: 6
+  avant: refugiés de Martinsart.
+  apres: refugiés de Martinsart
+  justification: aucun point détaché après Martinsart ; la barre du t final remonte d'un seul trait et finit en massue, sans levée de plume (zoom ×3)
+- ligne: 10
+  avant: le quitter etc.
+  apres: le quitter etc
+  justification: e-t-c finit par une crosse appuyée sur la ligne, aucun point séparé (zoom ×3) ; apparat etc ajouté
+- ligne: 14
+  avant: fine, intermittente
+  apres: fine, intermittente \trait
+  justification: le e final, bouclé, se prolonge en un long trait horizontal d'environ un dixième de la largeur, comme après face (l. 21)
+- ligne: 21
+  avant: en face \trait \add{très} (déprimé
+  apres: en face \trait (\add{très} déprimé
+  justification: la parenthèse est à gauche de très, écrit petit au-dessus de dépr- ; l'ajout s'insère donc entre ( et déprimé ; lemme et note d'apparat adaptés

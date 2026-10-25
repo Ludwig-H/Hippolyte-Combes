@@ -3,7 +3,7 @@ fichier: 20251126_111137.jpg
 date: Jeudi 8 – vendredi 9 mars 1917
 mois: Mars 1917
 lieux: Hérissart et Toutencourt (Somme)
-titre: Neige de mars ; interprètes Evar et Valet ; consigne de la Mission ; préparatifs de départ
+titre: Neige ; interprètes Evar et Valet ; consigne de la Mission ; départ préparé
 transcription: |
   \sl{8 Jeudi}
   Nuit tre froide. Gelé fort — \hfill \sl{Mars 1917} —
@@ -11,7 +11,7 @@ transcription: |
   ciel mat & comme voilé de brume
   Liberté entière, matin & soir.
   \ind Vers 3^{H} s., intte \inc{Evar}, revenu en cie d'1 autre
-  intte Valet, R.2, de la 2^{nd} australian division.
+  intte Valet, R2, de la 2^{nd} australian division.
   \inc{Evar}, reparti à Albert sur 1 lorry avec
   tout son kit. Valet, \inc{est} sympathique
   \ind Aussitôt thé pris, allé à pied Mission fr^{se},
@@ -47,31 +47,27 @@ apparat:
 - ligne: 6
   lemme: \inc{Evar}
   type: lecture
-  note: 'Nom de l''interprète : Evar retenu (même tracé l. 8) ; Evan possible.'
+  note: 'lecture incertaine ; autre lecture : Evan (de même l. 8)'
 - ligne: 6
   lemme: cie
   type: abreviation
   note: compagnie (en compagnie d'un autre interprète)
-- ligne: 6
-  lemme: d'1
-  type: abreviation
-  note: d'un
 - ligne: 7
   lemme: intte
   type: abreviation
   note: interprète
 - ligne: 7
-  lemme: R.2
+  lemme: R2
   type: abreviation
-  note: Sigle non résolu.
+  note: sigle non résolu
 - ligne: 7
   lemme: 2^{nd} australian division
   type: emprunt
   note: 2e division australienne
 - ligne: 8
-  lemme: lorry
-  type: emprunt
-  note: camion
+  lemme: \inc{Evar}
+  type: lecture
+  note: même nom qu'à la l. 6 ; Evan possible
 - ligne: 9
   lemme: kit
   type: emprunt
@@ -79,23 +75,7 @@ apparat:
 - ligne: 9
   lemme: \inc{est}
   type: lecture
-  note: 'est (e, s montant, t barré) ; ext (extrêmement) possible.'
-- ligne: 10
-  lemme: fr^{se}
-  type: abreviation
-  note: française
-- ligne: 11
-  lemme: . – –
-  type: signe
-  note: Point et deux tirets tenant la place du nom du maréchal des logis, laissé en blanc.
-- ligne: 12
-  lemme: cap
-  type: abreviation
-  note: capitaine
-- ligne: 12
-  lemme: j-à
-  type: abreviation
-  note: jusqu'à
+  note: 'lecture incertaine ; autre lecture : ext (extrêmement)'
 - ligne: 14
   lemme: Tre
   type: abreviation
@@ -111,35 +91,11 @@ apparat:
 - ligne: 15
   lemme: mervx
   type: lecture
-  note: 'merveilleux ; finale en x croisé.'
-- ligne: 15
-  lemme: qq
-  type: abreviation
-  note: quelques
-- ligne: 18
-  lemme: ts
-  type: abreviation
-  note: tous
-- ligne: 21
-  lemme: office
-  type: emprunt
-  note: bureau
-- ligne: 22
-  lemme: tt
-  type: abreviation
-  note: tout
+  note: merveilleux
 - ligne: 23
   lemme: sit^{on}
   type: abreviation
   note: situation
-- ligne: 24
-  lemme: dinner
-  type: emprunt
-  note: dîner
-- ligne: 24
-  lemme: mess
-  type: emprunt
-  note: popote des officiers
 - ligne: 24
   lemme: cap W^{m}
   type: abreviation
@@ -147,11 +103,9 @@ apparat:
 - ligne: 25
   lemme: \inc{18} f.
   type: lecture
-  note: 18 francs ; 14 ou 16 possibles (second chiffre à boucle basse et haste à droite).
-critique: Le mot « office » est d'une encre plus pâle, la plume étant moins chargée. Le règlement du mess, isolé après un blanc d'environ deux lignes, est encadré à gauche par une équerre.
+  note: '18 francs ; lecture incertaine ; autres lectures : 14, 16'
 historique: |
-  Ces allées et venues accompagnent la relève du capitaine Williams par un officier australien, arrivé le 6 mars avec un « Nouvel interprète » (voir f.~81 v\textsuperscript{o}) : depuis le 15 février, le I Anzac Corps, dont la 2nd Australian Division, appartient à la Fifth Army (OH 1917-I, p.~74). Evar, qui « revient » ce jour-là, est peut-être cet interprète du 6 ; il repart pour Albert. Valet, qui cédera sa chambre à Hippolyte Combes le 11 (voir f.~83 r\textsuperscript{o}), n'est pas identifié, et le sigle « R.2 » reste inexpliqué. Le maréchal des logis laissé sans nom est sans doute celui du 6, qui avait promis un « bon poste » (voir f.~81 v\textsuperscript{o}). Le « dépôt » de Toutencourt, QG de la Fifth Army jusqu'au 28 mars (LLT), est vraisemblablement celui où la Mission de l'armée garde les interprètes en attente d'affectation, à l'image du dépôt des interprètes du Havre en 1914 (Fernand-Laurent 1917, p.~27). Les 18~f (ou 16) de mess pour les neuf premiers jours de mars font suite aux 33~f de février, comptés depuis le 8 (voir f.~80 r\textsuperscript{o}).
+  Evar, qui « revient » ce jour-là, est peut-être le nouvel interprète arrivé le 6 avec l'officier australien qui relève le capitaine Williams (voir f.~81~v\textsuperscript{o}) ; il repart pour Albert. Valet, de la 2nd Australian Division, qui cédera sa chambre à Combes le 11 (voir f.~83~r\textsuperscript{o}), n'est pas identifié ; le sigle « R2 » reste inexpliqué. Le maréchal des logis sans nom est sans doute celui du 6, qui avait promis un « bon poste ». Le « dépôt » de Toutencourt, QG de la Fifth Army jusqu'au 28 mars (LLT), est sans doute celui où la Mission garde les interprètes en attente d'affectation, comme le dépôt des interprètes du Havre en 1914 (Fernand-Laurent 1917, p.~27). Les 18~f (ou 16) de mess de mars suivent les 33~f de février (voir f.~80~r\textsuperscript{o}).
 sources:
-- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 74.
 - Baker, C., The Long, Long Trail, « The British Fifth or Reserve Army 1916-1918 » (longlongtrail.co.uk, copie Wayback du 23 juil. 2024).
 - Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 27.

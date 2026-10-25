@@ -3,7 +3,7 @@ fichier: 20251126_104714.jpg
 date: Lundi 6 – mardi 7 novembre 1916
 mois: Novembre 1916
 lieux: Acheux-en-Amiénois, Belle-Église (Arquèves), Hérissart, Rubempré et Coisy (Somme)
-titre: Pétrole à Belle-Église, paille et foin à Coisy ; regret de la 152 Coy ; convois au front
+titre: Pétrole à Belle-Église, fourrage à Coisy ; regret de la 152 Coy ; convois
 transcription: |
   \sl{Lundi 6} \hfill \sl{Nov. /16}
   \ind Tt le jour, rafales & averses
@@ -15,7 +15,7 @@ transcription: |
   rentrés seulement \inc{vers} 6 h \hfill giboulées
   tour à tour, région de plaines et de petites
   collines, avec bois dont les arbres, teintés
-  de rouille, orange et or — et allées
+  de rouille, orange et \inc{or} — et allées
   jaunies par jonchées de feuilles mortes \trait
   \ind Regrette d'avoir quitté 152 Coy. \hfill Cherche
   moyen de ne pas quitter 18^{ie} divon & ma Coy
@@ -36,38 +36,22 @@ apparat:
   lemme: Nov. /16
   type: abreviation
   note: novembre 1916
-- ligne: 2
-  lemme: Tt
-  type: abreviation
-  note: Tout
-- ligne: 3
-  lemme: s/
-  type: abreviation
-  note: sur
-- ligne: 3
-  lemme: 1 lorry
-  type: emprunt
-  note: un camion
-- ligne: 3
-  lemme: j-à
-  type: abreviation
-  note: jusqu'à
 - ligne: 7
   lemme: 1^{h} \fr{1}{2}
   type: abreviation
   note: une heure et demie
-- ligne: 7
-  lemme: Partis vers 1^{h} \fr{1}{2}
-  type: disposition
-  note: écrit plus petit, un peu au-dessus de la ligne, dans le blanc après « foin »
 - ligne: 8
   lemme: \inc{vers}
   type: lecture
-  note: 'vers : attaque de v sans haute boucle de s, comme « vers » de la l. 7 ; autre lecture : sur'
+  note: 'lecture incertaine ; autre lecture : sur'
 - ligne: 8
   lemme: 6 h
   type: abreviation
   note: six heures
+- ligne: 11
+  lemme: \inc{or}
+  type: lecture
+  note: 'lecture incertaine, appelée par le sens (rouille, orange et or) ; autre lecture envisageable : ocre'
 - ligne: 13
   lemme: 152 Coy
   type: abreviation
@@ -85,33 +69,13 @@ apparat:
   type: abreviation
   note: ma compagnie (Company)
 - ligne: 20
-  lemme: lorry
-  type: emprunt
-  note: camion
-- ligne: 20
   lemme: \inc{à}
   type: lecture
-  note: 'signe suscrit en forme de & après « rentré », lu à (au) ; autre lecture : &'
-- ligne: 20
-  lemme: billet
-  type: emprunt
-  note: cantonnement, logement
+  note: 'lecture incertaine ; autre lecture : &'
 - ligne: 22
   lemme: \inc{Lealvillo} ( )
   type: lecture
-  note: 'Léalvillers (Somme) : nom écrit à l''encre pâle, finale -o pour -ers ? ; parenthèses vides à la même encre'
-- ligne: 23
-  lemme: ttes
-  type: abreviation
-  note: toutes
-- ligne: 23
-  lemme: lorries
-  type: emprunt
-  note: camions
-- ligne: 23
-  lemme: wagons
-  type: emprunt
-  note: chariots
+  note: Léalvillers ; finale incertaine ; parenthèses vides
 - ligne: 24
   lemme: d'artrie
   type: abreviation
@@ -120,12 +84,11 @@ apparat:
   lemme: firing line
   type: emprunt
   note: ligne de feu
-critique: Encre violette. Quelques mots d'une encre plus pâle, brunâtre (« or — », « mortes », « 152 Coy ») paraissent écrits ou repassés après coup, peut-être dans des blancs réservés.
 historique: |
-  Belle-Église, hameau d'Arquèves à 3~km à l'ouest d'Acheux, était en juillet 1916 une tête de ligne des vivres (OH 1916-I, p.~274) ; la ferme, tenue par une fermière belge, verra en décembre des battages pour l'armée (f.~54~r\textsuperscript{o}). La « question de pétrole » (voir f.~46~v\textsuperscript{o}) porte peut-être sur l'essence, livrée en bidons emballés en caisses (\textit{Statistics} 1922, p.~846). À Coisy, au nord d'Amiens, a lieu le premier achat de paille et de foin noté : l'interprète « sert d'intermédiaire pour les approvisionnements ou les réquisitions de paille et de foin » (Tessan, dans Fernand-Laurent 1917, p.~XIV) ; la paille complète le fourrage et sert de couchage, à 4 livres par homme et par semaine en hiver (Puckle 1917, p.~28). Le flot du 7, route de Léalvillers (voir f.~47~r\textsuperscript{o}), accompagne la préparation de l'attaque de l'Ancre, « constamment remise mais jamais annulée » (OH 1916-II, p.~480), que Gough décide le 8 au soir de lancer si la pluie ne reprend pas (ibid., p.~462) ; elle part le 13.
+  Belle-Église, hameau d'Arquèves à 3~km à l'ouest d'Acheux, était en juillet 1916 une tête de ligne des vivres (OH 1916-I, p.~274) ; la ferme, tenue par une fermière belge, verra en décembre des battages pour l'armée (f.~54~r\textsuperscript{o}). Le « pétrole » est peut-être l'essence, livrée en bidons mis en caisses (\textit{Statistics} 1922, p.~846 ; voir f.~46~v\textsuperscript{o}). À Coisy, au nord d'Amiens, a lieu le premier achat noté de paille et de foin : l'interprète « sert d'intermédiaire pour les approvisionnements ou les réquisitions de paille et de foin » (Tessan, dans Fernand-Laurent 1917, p.~XIV). La paille sert aussi de couchage (Puckle 1917, p.~28). Le flot de véhicules du 7 prépare l'attaque de l'Ancre, « constamment remise mais jamais annulée » (OH 1916-II, p.~480) ; elle part le 13.
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274.
-- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 462 et 480.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 480.
 - War Office, Statistics of the Military Effort of the British Empire during the Great War, 1914-1920, London, HMSO, 1922, p. 846.
 - Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, préface de F. de Tessan, Paris, Boivin, 1917, p. XIV.
 - Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 28.

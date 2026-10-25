@@ -94,7 +94,7 @@ cartes:
   - {id: '80495', rang: 3}
   - {id: '80659', rang: 2, ha: right, date: '11–23 sept.', va: top, dx: -1.1, dy: -0.3}
   - {id: barlette, rang: 2, ha: right, date: '6–14 oct.'}
-  - {id: '80016', rang: 1, date: '19 oct. – 1er nov.', va: top, dy: -0.8}
+  - {id: '80016', rang: 1, date: '19 oct. – 2 nov.', va: top, dy: -0.8}
   - {id: '80003', rang: 1, etiquette: Acheux, date: 'nov. 1916 – févr. 1917', ha: left, va: bottom, dx: 0.4, dy: 1.4}
   - {id: '80431', rang: 1, ha: right, date: 'févr. – avr. 1917', va: top, dy: -0.8}
   - {id: '80253', rang: 3, ha: right, dx: -1.1}
@@ -201,7 +201,7 @@ cartes:
   titre: La première permission à Toulouse
   emprise: [1.33, 43.52, 1.56, 43.66]
   taille_mm: [141, 122]
-  legende_mm: 24
+  legende_mm: 28
   echelle_km: 2
   exageration: 5
   couches_eau: [hydro_toulouse.geojson]
@@ -221,7 +221,8 @@ cartes:
   - {id: pouvourville, rang: 3}
   - {id: pech_david_coteau, rang: 3, etiquette: Pech-David (coteau), ha: right}
   legende:
-  - {type: point, texte: 'Lieux des promenades toulousaines cités par le carnet (repères actuels)'}
+  - {type: point, texte: 'Toulouse (repère du Capitole)'}
+  - {type: cercle, texte: 'Lieux des promenades toulousaines cités par le carnet (repères actuels)'}
   notes:
   - 'Voyage : Acheux-Varennes (25 sept.), Paris (26 sept.), Toulouse (27 sept.) ; retour par Paris (4–5 oct.).'
   - 'Purpan : identification proposée des ruines ; Pech-David : repère de coteau, non point précis de la promenade.'
@@ -262,7 +263,7 @@ cartes:
   - {id: '80733', rang: 3, ha: right, va: bottom, dx: -1.0, dy: 0.4}
   - {id: '80129', rang: 2, etiquette: 'Bouzincourt †', date: '17–18 oct.', ha: left, va: top, dx: 1.0, dy: -0.4}
   - {id: '80425', rang: 2, etiquette: 'Hédauville †', ha: right, va: center, dx: -1.2}
-  - {id: '80016', rang: 1, etiquette: 'Albert (briqueteries)', date: '19 oct. – 1er nov.', ha: left, va: top, dx: 1.3, dy: -0.7}
+  - {id: '80016', rang: 1, etiquette: 'Albert (briqueteries)', date: '19 oct. – 2 nov.', ha: left, va: top, dx: 1.3, dy: -0.7}
   - {id: '80003', rang: 1, etiquette: Acheux, date: dès le 2 nov., ha: left, va: bottom, dy: 0.4}
   - {id: '80659', rang: 3, ha: right}
   - {id: '80253', rang: 2}
@@ -284,7 +285,7 @@ cartes:
   titre: L'hiver à Acheux-en-Amiénois
   emprise: [2.28, 49.99, 2.78, 50.21]
   taille_mm: [141, 122]
-  legende_mm: 24
+  legende_mm: 28
   echelle_km: 5
   exageration: 8
   zone_allemande: artois_somme_1916_11
@@ -311,7 +312,8 @@ cartes:
   - {id: '80425', rang: 3}
   - {id: '80266', rang: 3}
   legende:
-  - {type: point, texte: "Acheux et les villages des tournées d'achats et des promenades (repères des bourgs)"}
+  - {type: point, texte: 'Acheux (repère du bourg)'}
+  - {type: cercle, texte: "Villages des tournées d'achats et des promenades (repères des bourgs)"}
   - {type: ligne, texte: "Situation de référence au 18 novembre 1916 ; zone allemande hachurée (tracé schématique)", epaisseur: 1.5}
 
 - id: VI
@@ -367,7 +369,7 @@ cartes:
   titre: Hérissart et le printemps de 1917
   emprise: [2.18, 49.93, 2.98, 50.24]
   taille_mm: [141, 122]
-  legende_mm: 28
+  legende_mm: 32
   echelle_km: 10
   exageration: 7
   zone_allemande: artois_somme_1916_11
@@ -400,7 +402,8 @@ cartes:
   itineraires:
   - {lieux: ['80003', '80659', '80645', '80431'], courbure: 0.05}
   legende:
-  - {type: point, texte: 'Hérissart, siège du Purchase Board, et les villages des tournées'}
+  - {type: point, texte: 'Hérissart, siège du Purchase Board'}
+  - {type: cercle, texte: 'Villages des tournées'}
   - {type: fleche, texte: '7 février : installation à Hérissart'}
   - {type: ligne, texte: "Front et zone allemande au 18 novembre 1916, avant le repli de mars 1917 (tracé schématique)", epaisseur: 1.4}
   - {type: ligne, texte: 'Ligne Hindenburg (mars 1917)', epaisseur: 1.1, couleur: '#4a4a4a', dashes: [4, 2]}

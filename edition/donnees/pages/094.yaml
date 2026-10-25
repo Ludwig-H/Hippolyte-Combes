@@ -3,7 +3,7 @@ fichier: 20251126_104702.jpg
 date: Dimanche 5 novembre 1916
 mois: Novembre 1916
 lieux: Acheux-en-Amiénois (Somme)
-titre: Nouvelle chambre route de Léalvillers à Acheux ; convoqué par le capitaine Huguet
+titre: Nouvelle chambre route de Léalvillers ; convoqué par le capitaine Huguet
 transcription: |
   \sl{Dim. 5} \hfill \sl{Nov^{b} /16}
   \ind Matinée, soleil brillé 2 ou 3 h. Puis de
@@ -22,21 +22,13 @@ transcription: |
   Huguet, du \add{\ill} corps, désire me voir.
   Venu aussitot bureau mission du corps
   \inc{Tt a fait} bien reçu — qq froid
-  – demande de renseignements divers
+  . – demande de renseignements divers
   \ind Des 8^{h} \fr{1}{2}, ds ma chambre \trait
 apparat:
-- ligne: 1
-  lemme: Dim.
-  type: abreviation
-  note: dimanche
 - ligne: 1
   lemme: Nov^{b} /16
   type: abreviation
   note: novembre 1916
-- ligne: 2
-  lemme: brillé
-  type: lecture
-  note: court trait d'accent après la finale
 - ligne: 4
   lemme: billet
   type: emprunt
@@ -53,18 +45,10 @@ apparat:
   lemme: clerks
   type: emprunt
   note: commis, employés de bureau
-- ligne: 7
-  lemme: 'no'
-  type: abreviation
-  note: numéro
 - ligne: 8
   lemme: Avant
-  type: disposition
-  note: « vant » écrit petit sous le A, dans l'interligne, sans doute ajouté après coup
-- ligne: 9
-  lemme: ds
-  type: abreviation
-  note: dans
+  type: ajout
+  note: « vant » ajouté dans l'interligne, sous le A
 - ligne: 12
   lemme: propre
   type: abreviation
@@ -87,35 +71,22 @@ apparat:
   note: troupes d'armée
 - ligne: 14
   lemme: \inc{venu}
-  type: rature
-  note: mot noyé sous un trait épais (biffure ou pâté) ; lu venu, que le sens réclame
-- ligne: 14
-  lemme: cap
-  type: abreviation
-  note: capitaine
+  type: lecture
+  note: 'lecture incertaine : mot sous un trait épais (biffure ou pâté), lu d''après le sens'
 - ligne: 15
   lemme: \add{\ill}
   type: lecture
-  note: court tracé d'aspect « aà »
+  note: ajout illisible (« aà » ?)
 - ligne: 17
   lemme: \inc{Tt a fait}
   type: lecture
-  note: tout à fait (lecture incertaine)
-- ligne: 17
-  lemme: qq
-  type: abreviation
-  note: quelque
+  note: lecture incertaine ; tout à fait
 - ligne: 19
   lemme: 8^{h} \fr{1}{2}
   type: abreviation
   note: huit heures et demie
-- ligne: 19
-  lemme: ds
-  type: abreviation
-  note: dans
-critique: Encre violette. Taches brunes au bas de la page, sans perte de texte.
 historique: |
-  Le billet n°~59, attribué le 2 novembre (voir f.~45~v\textsuperscript{o}), est repris par le \textit{Town Major}, chargé du cantonnement de toutes les unités de la localité (Fernand-Laurent 1917, p.~227). Le propriétaire du n°~1, route de Léalvillers, est sans doute le tailleur Carluvant [?] nommé le 22 novembre (f.~51~r\textsuperscript{o}), chez qui Hippolyte Combes loge jusqu'au 7 février 1917. L'« interprete de la V\textsuperscript{th} Army troops » use du nom de \textit{Fifth Army}, porté par l'armée de Gough depuis le 30 octobre (OH 1916-II, p.~461, n.~1 ; LLT). Acheux est le QG du V Corps du 2 octobre au 29 novembre 1916 (LLT) : le « bureau mission du corps » est donc vraisemblablement celui de ce corps, où Hippolyte Combes revoit le capitaine Huguet le 13 janvier 1917 (f.~61~v\textsuperscript{o}). Cet officier, non identifié, est sans lien connu avec le général Victor Huguet. L'entretien porte sans doute sur la situation d'Hippolyte Combes, qui ne sera « pris en charge » par le bureau d'Acheux, passé au XIII Corps, que le 1\textsuperscript{er} décembre (f.~52~v\textsuperscript{o}).
+  Le billet n°~59 (voir f.~45~v\textsuperscript{o}) est repris par le \textit{Town Major} (Fernand-Laurent 1917, p.~227). Le propriétaire du n°~1 est sans doute le tailleur Carluvant [?] nommé le 22 novembre (f.~51~r\textsuperscript{o}), son hôte jusqu'au 7 février 1917. La « V\textsuperscript{th} Army » est l'armée de Gough, nommée \textit{Fifth Army} depuis le 30 octobre (OH 1916-II, p.~461, n.~1). Acheux est le QG du V Corps jusqu'au 29 novembre (LLT), et le « bureau mission du corps » est sans doute celui de ce corps. Le capitaine Huguet, revu en janvier (f.~61~v\textsuperscript{o}), n'est pas identifié. Ce bureau, passé au XIII Corps, prendra l'interprète en charge le 1\textsuperscript{er} décembre (f.~52~v\textsuperscript{o}).
 sources:
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 227.
 - Baker, C., The Long, Long Trail, « The British V Corps in France and Flanders » et « The British Fifth or Reserve Army 1916-1918 » (longlongtrail.co.uk, copies Wayback 2020 et 2024).

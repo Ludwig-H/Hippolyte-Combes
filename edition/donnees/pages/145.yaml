@@ -3,7 +3,7 @@ fichier: 20251126_110601.jpg
 date: Mardi 6 février 1917 (suite)
 mois: Février 1917
 lieux: Corbeil-Essonnes (Essonne) ; Paris
-titre: Remontée vers Paris par le gel ; métro jusqu'à la gare du Nord ; train de nuit
+titre: Arrivée à Paris par le gel ; métro jusqu'à la gare du Nord ; train de nuit
 transcription: |
   \sl{mardi 6} (suite) \hfill \sl{Fev. 17}
   A mesure que ns remontons vers Paris bp
@@ -15,8 +15,8 @@ transcription: |
   augmentant très vite
   A Paris, vers 6^{H} 30 s. –
   Pris metro gare Lyon, changé à Bastille,
-  et arrivé gare Nord assez à temps pour
-  prendre train 7^{H} 19. 2^{e} cl., un \inc{tas de}
+  et arrivé gare nord assez à temps pour
+  prendre train 7^{H} 19. 2\inc{e} cl., un \inc{tas de}
   soldats, fort curieux à observer & \inc{à}
   ecouter.
   Roulé toute la nuit
@@ -27,14 +27,6 @@ apparat:
   lemme: Fev. 17
   type: abreviation
   note: février 1917
-- ligne: 2
-  lemme: ns
-  type: abreviation
-  note: nous
-- ligne: 2
-  lemme: bp
-  type: abreviation
-  note: beaucoup
 - ligne: 4
   lemme: +
   type: abreviation
@@ -52,9 +44,9 @@ apparat:
   type: abreviation
   note: 7 heures 19
 - ligne: 12
-  lemme: 2^{e}
+  lemme: 2\inc{e}
   type: lecture
-  note: '2 bouclé et e suscrit'
+  note: lecture incertaine ; la boucle au-dessus est la queue du z d'« assez »
 - ligne: 12
   lemme: cl.
   type: abreviation
@@ -62,29 +54,16 @@ apparat:
 - ligne: 12
   lemme: tas de
   type: lecture
-  note: lecture incertaine (t sans barre, s long) ; autre lecture « type de »
-- ligne: 13
-  lemme: '&'
-  type: abreviation
-  note: et
+  note: 'lecture incertaine ; autre lecture : type de'
 - ligne: 13
   lemme: à
   type: lecture
-  note: 'lecture incertaine : a sous un long trait'
-- ligne: 16
-  lemme: varia
-  type: emprunt
-  note: 'latin : divers'
-- ligne: 16
-  lemme: 60c
-  type: abreviation
-  note: 60 centimes
-critique: La dépense de la dernière ligne, isolée au bas de la page après un blanc, se rapporte à la correspondance du matin à Brioude (f.~72~r\textsuperscript{o}) ; même encre violette que le récit. Le voyage se poursuit au feuillet suivant.
+  note: lecture incertaine
 historique: |
-  Le passage par Corbeil à 5~h~50, une heure et demie après Montargis, indique que l'express a quitté la grande ligne du Bourbonnais pour gagner Paris par la ligne P.L.M. de Montargis à Corbeil par Malesherbes, ouverte en 1865-1867, plutôt que par Moret et Melun (Wikipédia, « Ligne de Villeneuve-Saint-Georges à Montargis ») ; ce n'est qu'une probabilité. Corbeil et Essonnes, qu'Hippolyte Combes réunit en « Corbeil-Essonne », sont alors deux communes distinctes de Seine-et-Oise, fusionnées en 1951. À Paris, la correspondance par le métro emprunte la ligne~1 de la gare de Lyon à la Bastille, puis la ligne~5, qui relie depuis 1907 l'Étoile à la gare du Nord par la Bastille (Wikipédia, « Ligne 5 du métro de Paris ») ; le billet de 2\textsuperscript{e} classe coûte 15~c (Baedeker 1913, p.~28 ; voir f.~66~r\textsuperscript{o}). Le sol « durci par fortes gelees » est celui du froid qui, depuis le 29 janvier, fait charrier des glaçons à la Seine (\textit{La Dépêche}, 30 janv. 1917, p.~3). Le train de 7~h~19 le mène à Amiens à minuit et demi (f.~73~r\textsuperscript{o}).
+  Le passage à Corbeil à 5~h~50, une heure et demie après Montargis, suggère que l'express a pris la ligne P.L.M. de Montargis à Corbeil par Malesherbes, ouverte en 1865-1867, plutôt que par Moret et Melun (Wikipédia, « Ligne de Villeneuve-Saint-Georges à Montargis »). Corbeil et Essonnes sont alors deux communes de Seine-et-Oise, réunies en 1951 (Wikipédia, « Corbeil-Essonnes »). À Paris, il prend la ligne~1 du métro jusqu'à la Bastille, puis la ligne~5, qui relie depuis 1907 la Bastille à la gare du Nord (Wikipédia, « Ligne 5 du métro de Paris ») ; le billet de 2\textsuperscript{e} classe coûte 15~c (Baedeker 1913, p.~28 ; voir f.~66~r\textsuperscript{o}). Depuis le 29 janvier, la Seine charrie des glaçons (\textit{La Dépêche}, 30 janv. 1917, p.~3). Le train de 7~h~19 arrive à Amiens à minuit et demi (f.~73~r\textsuperscript{o}).
 sources:
 - Wikipédia, « Ligne de Villeneuve-Saint-Georges à Montargis », consulté le 18 oct. 2026.
 - Wikipédia, « Ligne 5 du métro de Paris », consulté le 18 oct. 2026.
 - Wikipédia, « Corbeil-Essonnes », consulté le 18 oct. 2026.
-- Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, K. Baedeker, 1913, p. 28.
 - La Dépêche (Toulouse), 30 janvier 1917, p. 3.
+- Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, K. Baedeker, 1913, p. 28.

@@ -217,3 +217,12 @@ noms:
     ligne: 22
     identite: Hérissart (Somme)
 source: contrôle
+audit:
+- ligne: 3
+  avant: Terrains détrempés,
+  apres: Terrains detrempés,
+  justification: 'zoom ×3 : aucun accent au-dessus du e qui suit le d (la barre du t croise seule la zone) ; accent visible seulement sur la finale -és'
+- ligne: 5
+  avant: C'est desesperant.
+  apres: C'est desesperant
+  justification: le mot finit par le long délié du t ; aucun point après, le blanc à droite est vierge

@@ -134,3 +134,8 @@ noms:
     ligne: 15
     identite: Hérissart (Somme)
 source: contrôle
+audit:
+- ligne: 15
+  avant: indienne, traversé village d'Hérissart. Ces
+  apres: indienne, traversé village d'Herissart. Ces
+  justification: aucun accent visible au-dessus ni à droite de l'e de Herissart (zoom ×2 [.55 .69 1.0 .745]) ; graphie sans accent attestée ailleurs (156, 158)

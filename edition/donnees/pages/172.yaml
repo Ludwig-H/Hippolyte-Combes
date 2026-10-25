@@ -3,7 +3,7 @@ fichier: 20251126_111427.jpg
 date: Vendredi 23 – dimanche 25 mars 1917
 mois: Mars 1917
 lieux: Hérissart, Rubempré et Puchevillers (Somme)
-titre: Gel et grand soleil de mars ; démarches pour garder le billet 220 ; marches à Rubempré
+titre: Gel et grand soleil ; démarches pour garder le billet 220 ; marches à Rubempré
 transcription: |
   \sl{23 Ven.} \hfill — \sl{Mars 1917} —
   nuit gelé très fort
@@ -30,22 +30,14 @@ transcription: |
   Course à pied à Rubempré, l'après-midi :
   Pas pris pardessus. Promenade fort agreable
 apparat:
-- ligne: 1
-  lemme: Ven.
-  type: abreviation
-  note: vendredi
 - ligne: 2
   lemme: gelé
   type: lecture
-  note: début du mot noyé dans un pâté d'encre ; « gelé » d'après la fin du mot et la l. 13
+  note: début du mot illisible ; restitué d'après la l. 13
 - ligne: 6
   lemme: workshops
   type: emprunt
   note: ateliers (de réparation)
-- ligne: 8
-  lemme: office
-  type: emprunt
-  note: bureau
 - ligne: 8
   lemme: chamb
   type: abreviation
@@ -54,45 +46,16 @@ apparat:
   lemme: billet
   type: emprunt
   note: logement militaire chez l'habitant (cf. f. 83 r°, « billet 220 »)
-- ligne: 9
-  lemme: (220.
-  type: disposition
-  note: écrit sous la fin de « billet », en bout de ligne ; parenthèse non refermée
-- ligne: 10
-  lemme: Ds
-  type: abreviation
-  note: dans
 - ligne: 10
   lemme: afternoon
   type: emprunt
   note: après-midi
-- ligne: 13
-  lemme: Sam.
-  type: abreviation
-  note: samedi
-- ligne: 13
-  lemme: assz
-  type: abreviation
-  note: assez
 - ligne: 17
   lemme: j
   type: abreviation
   note: jusqu'au
-- ligne: 18
-  lemme: sunset
-  type: emprunt
-  note: coucher de soleil
-- ligne: 19
-  lemme: D.
-  type: abreviation
-  note: dimanche
-- ligne: 20
-  lemme: Ds
-  type: abreviation
-  note: dans
-critique: Encre violette ; « Superbe sunset. » est d'une encre plus pâle, la plume s'épuisant, sans indice d'ajout. Un blanc d'une ligne sépare chaque journée de la suivante.
 historique: |
-  L'auto toujours aux ateliers (voir f.~85~r\textsuperscript{o}), Hippolyte Combes gagne à pied Rubempré et le chemin de Puchevillers. Le « billet (220 » est la chambre où il s'est installé le 11 mars, après le départ de l'interprète Valet (voir f.~83~r\textsuperscript{o}) ; le 19, il a dû en céder un lit à un officier de passage (voir f.~85~r\textsuperscript{o}). Les logements chez l'habitant sont répartis par le \textit{Town Major}, qui tient la liste de ceux de la localité (Fernand-Laurent 1917, p.~227) et peut reprendre un billet, comme à Acheux en novembre (voir f.~47~r\textsuperscript{o}) ; le passage des divisions qui quittent la Somme rend la chambre convoitée. Ces gelées tardives prolongent un hiver très dur pour les chevaux, dont la ration d'avoine était tombée à 6 livres (OH 1917-I, p.~65--66). Dans la nuit du 24 au 25, à minuit, l'heure d'été entre en vigueur dans les armées britanniques (OH 1917-I, p.~147, n.~1) : le carnet n'en dit rien. Le départ du QG de la Fifth Army pour Albert, le 28, videra bientôt les villages de l'arrière (voir f.~88~v\textsuperscript{o}).
+  Le « billet (220 » est la chambre qu'Hippolyte Combes occupe depuis le 11 mars, après le départ de l'interprète Valet (voir f.~83~r\textsuperscript{o}) ; le 19, il a dû en céder un lit (voir f.~85~r\textsuperscript{o}). Les logements chez l'habitant sont répartis par le \textit{Town Major} (Fernand-Laurent 1917, p.~227), qui peut reprendre un billet, comme à Acheux en novembre (voir f.~47~r\textsuperscript{o}). Ces gelées tardives prolongent un hiver très dur pour les chevaux, dont la ration d'avoine était tombée à 6 livres (OH 1917-I, p.~65--66). Dans la nuit du 24 au 25, l'heure d'été entre en vigueur dans les armées britanniques (OH 1917-I, p.~147, n.~1) ; le carnet n'en dit rien.
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, London, Macmillan, 1940, p. 65-66, 147, n. 1.
 - Fernand-Laurent, Chez nos alliés britanniques (With our British Allies in the Field). Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 227.

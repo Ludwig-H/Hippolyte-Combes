@@ -107,3 +107,8 @@ noms:
     ligne: 14
     identite: établissement de bains à Toulouse
 source: contrôle
+audit:
+- ligne: 10
+  avant: A 5^{H}, remonté Cote Pavée. Enfin, revu
+  apres: A 5^{H}, remonté Cote-Pavée. Enfin, revu
+  justification: court trait d'union entre « Cote » et « Pavée » (zoom ×3 [.38 .42 .65 .47]), comme dans « Marie-des-Champs » l. 5 ; ce n'est ni un point (rond chez l'auteur, cf. « Margte. ») ni l'accent de Côte (qui serait au-dessus du o)

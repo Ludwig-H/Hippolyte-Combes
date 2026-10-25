@@ -150,3 +150,12 @@ noms:
     ligne: 16
     identite: Hérissart (Somme)
 source: contrôle
+audit:
+- ligne: 7
+  avant: Ciel bleu, chaud soleil.
+  apres: Ciel bleu chaud soleil.
+  justification: le trait vertical entre bleu et chaud est le jambage du g de « long » (l. 6), continu avec sa panse ; aucune virgule (zoom ×3 [.47 .17 .63 .265])
+- ligne: 8
+  avant: merveillt
+  apres: merveill^{t}
+  justification: le t, barré, a son pied à hauteur de tête des minuscules, nettement au-dessus de la ligne de base (zoom ×3 [.02 .25 .45 .29]) ; cf. merv^{t} du guide

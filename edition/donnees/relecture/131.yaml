@@ -209,3 +209,8 @@ noms:
     ligne: 14
     identite: gare d'Orsay, Paris (Compagnie du Paris-Orléans)
 source: contrôle
+audit:
+- ligne: 11
+  avant: mobilisé. Vu son remplacant
+  apres: mobilisé. Vu son \inc{remplacant}
+  justification: 'lecture retenue par le sens seulement : après « plac », boucle de type e (non un a fermé), puis deux ou trois jambages et un t à barre longue, tracé compatible avec « remplacemt » ; la note d''apparat signalait déjà le doute, que la transcription doit marquer'
