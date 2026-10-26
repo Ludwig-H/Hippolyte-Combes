@@ -98,7 +98,7 @@ Rapport : `edition/verification/2026-10-25/README.md`. Publication sur `main` pa
 
 Demandes de Louis : décrire le carnet au présent (il l'a eu en main : il est relié en tête, tel que décrit), sans dire que l'écriture prouve quoi que ce soit ; parler de « super intelligence » et non d'« intelligence artificielle » ; retirer une mention douteuse de la bibliographie.
 
-- `textes/intro_description.tex` : « carnet de poche relié en tête », au présent ; phrase « Les feuillets sont aujourd'hui libres » supprimée ; plus de raisonnement sur la transparence de l'encre ni sur l'ordre des photographies (sous-section « Feuillets et foliotation »). À ne pas réintroduire.
-- « super intelligence » dans `intro_description.tex` et `README.md`.
+- `textes/intro_description.tex` : « carnet de poche relié en tête », au présent ; « Les feuillets sont aujourd'hui libres » (confirmé par Louis, à garder) ; plus de raisonnement sur la transparence de l'encre ni sur l'ordre des photographies (sous-section « Feuillets et foliotation ») : à ne pas réintroduire.
+- « super intelligence » dans `intro_description.tex` et `README.md`, avec les trois noms par ordre décroissant de participation : Claude Opus 5.5, Gemini 4 Argon, ChatGPT 6 Astra.
 - Bibliographie (archives familiales, « Discours et travaux académiques ») : retrait de « Mémoires de la Société des lettres […] de l'Aveyron, 1865 (H. Combes, avocat démissionnaire) » — la pièce (`biographie_et_famille/discours_et_academie_montauban/`) est une liste de membres publiée vers 1877, où « Combes (Hippolyte), avocat au tribunal civil de Millau » (le père) est dit démissionnaire de la Société en 1865 ; elle n'est citée nulle part.
 - PDF : `pdfpagelayout=TwoPageRight` (ouverture en doubles pages, fac-similés à droite). La double pagination est inchangée : les 185 transcriptions sont au verso, face à leur fac-similé au recto.
