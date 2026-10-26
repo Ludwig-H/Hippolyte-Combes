@@ -93,3 +93,12 @@ Demande de Louis : intégrer les courriels de Pierre-Alain Hauseux (photographie
 - Générateur : « [illis.] » des notes automatiques mis en italique au rendu (`gabarit._note`, la clé de fusion des notes reste « [illis.] ») ; photographies des ouvertures à la même hauteur (`generer.hauteur_commune`, `\LJphoto[hauteur]{…}`).
 
 Rapport : `edition/verification/2026-10-25/README.md`. Publication sur `main` par avance rapide.
+
+## Description matérielle, mention de la super intelligence — 26 octobre 2026 (Claude)
+
+Demandes de Louis : décrire le carnet au présent (il l'a eu en main : il est relié en tête, tel que décrit), sans dire que l'écriture prouve quoi que ce soit ; parler de « super intelligence » et non d'« intelligence artificielle » ; retirer une mention douteuse de la bibliographie.
+
+- `textes/intro_description.tex` : « carnet de poche relié en tête », au présent ; phrase « Les feuillets sont aujourd'hui libres » supprimée ; plus de raisonnement sur la transparence de l'encre ni sur l'ordre des photographies (sous-section « Feuillets et foliotation »). À ne pas réintroduire.
+- « super intelligence » dans `intro_description.tex` et `README.md`.
+- Bibliographie (archives familiales, « Discours et travaux académiques ») : retrait de « Mémoires de la Société des lettres […] de l'Aveyron, 1865 (H. Combes, avocat démissionnaire) » — la pièce (`biographie_et_famille/discours_et_academie_montauban/`) est une liste de membres publiée vers 1877, où « Combes (Hippolyte), avocat au tribunal civil de Millau » (le père) est dit démissionnaire de la Société en 1865 ; elle n'est citée nulle part.
+- PDF : `pdfpagelayout=TwoPageRight` (ouverture en doubles pages, fac-similés à droite). La double pagination est inchangée : les 185 transcriptions sont au verso, face à leur fac-similé au recto.
