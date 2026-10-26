@@ -15,7 +15,7 @@ transcription: |
   \crochet{6}Diner à Paris, metro : 15 c.
   Amiens, Y.M.C.A : 1^{f} 15 c
   Touché solde Mission fr^{se}, Acheux : 78^{f}75
-  Gift aux \inc{Carluvant}, pour
+  Gift aux \inc{Carlumont}, pour
   \ind[3] mon lunch : 5 f.
   \ind[4] et varia
   \filet
@@ -29,14 +29,14 @@ transcription: |
   Tout le jour, liberté entière –
 apparat:
 - ligne: 10
-  lemme: \inc{Carluvant}
+  lemme: \inc{Carlumont}
   type: lecture
-  note: 'lecture incertaine ; autres lectures : Carlumont, Carluvont'
+  note: 'lecture incertaine ; autres lectures : Carlymont, Corlumont'
 - ligne: 17
   lemme: \inc{sur}
   type: lecture
   note: lecture incertaine ; mot peut-être biffé
 historique: |
-  Le n\textsuperscript{o}~104 est, comme le billet n\textsuperscript{o}~59 d'Acheux (f.~45~v\textsuperscript{o}), un numéro de cantonnement attribué par le \textit{Town Major}. Le métro parisien coûte 15~c en seconde classe, tarif de 1900 à 1919 (Hérodote). Les 78~F~75 de la Mission française font quinze jours à 5~F~25, d'après les soldes du 19~décembre et du 19~janvier (ff.~56~r\textsuperscript{o} et 62~v\textsuperscript{o} ; calcul). La première quinzaine de février est donc payée entière ; la retenue des sept jours de permission (35~F) ne sera faite que le 3~mars (f.~81~r\textsuperscript{o}). Le \textit{gift} de 5~F paie le « déjeuner sommaire » offert le jour même par les Carluvant (f.~73~r\textsuperscript{o}).
+  Le n\textsuperscript{o}~104 est, comme le billet n\textsuperscript{o}~59 d'Acheux (f.~47~r\textsuperscript{o}), un numéro de cantonnement attribué par le \textit{Town Major}. Le métro parisien coûte 15~c en seconde classe, tarif de 1900 à 1919 (Hérodote). Les 78,75~F de la Mission française font quinze jours à 5,25~F, d'après les soldes du 19~décembre et du 19~janvier (ff.~56~r\textsuperscript{o} et 62~v\textsuperscript{o} ; calcul). La première quinzaine de février est donc payée entière ; la retenue des sept jours de permission (35~F) ne sera faite que le 3~mars (f.~81~r\textsuperscript{o}). Le \textit{gift} de 5~F paie le « déjeuner sommaire » offert le jour même par les Carlumont (f.~73~r\textsuperscript{o}).
 sources:
 - 'Hérodote.net, « 19 juillet 1900 : inauguration du métro de Paris » (herodote.net), consulté le 18 oct. 2026.'

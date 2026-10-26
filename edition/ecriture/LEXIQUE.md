@@ -32,9 +32,9 @@ maréchal des logis, Raucoule (163) ; Monin (173) ; Barning [?] (014).
 
 **Civils de la zone des armées.** Mme Backer [?] (002) ; Mme Donze [?], de Lynde (005) ; Terrien [?], fermier (007) ;
 Guétin [?] (008) ; Barbry, blanchisserie (017–023) ; Mme Cliquennois (026) ; Mme Vauchel (037) ; ferme Collet (038) ;
-Abel (082) ; M. Duchâteau et son fils Victor, maréchal des logis (087, 091) ; Carluvant [?], tailleur, logeur (102–148) ; ferme Royer (103) ; M. et Mme Val… [?] (104, lu « Bertin ») ;
+Abel (082) ; M. Duchâteau et son fils Victor, maréchal des logis (087, 091) ; Carlumont [?], tailleur, logeur (102–148) ; ferme Royer (103) ; M. et Mme Val… [?] (104, lu « Bertin ») ;
 Mme Guerle (106) ; Mme Houtteman [?], Belle-Église Farm (108, 171) ; Mme Cuisinier, Louvencourt (112, 118, 126) ;
-Mme Capron, Beauquesne (115, 120) ; M. Paul Dubois, maire (119) ; Dr Dubois (161) ; ferme Moulard, Septenville (120) ;
+Mme Copin [?], Beauquesne (115, 120) ; M. Paul Dubois, maire (119) ; Dr Dubois (161) ; ferme Moulard, Septenville (120) ;
 M. Renard, Auxi (124) ; Mme Delille (147) ; café Charlet (147) ; Albertine, blanchisseuse (157) ; M. et Mme Flutre,
 instituteurs (168) ; Me Bienaimé ou Bien aimé, notaire (175, 178) ; famille Denis (178–184) ; Colart (181) ; Mme
 Mignot, Louise (183) ; famille Mortreux (184).

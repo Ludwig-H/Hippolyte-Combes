@@ -27,8 +27,8 @@ transcription: |
   \sl{A Renescure} : boite de plumes : 1^{f}50. —
   \ind[2] 2 carnets timbres-postes : 2^{f} + 2^{f}. —
   Cartes p^{les} : d Ypres : 1^{f}20. – C. P de Renescure : 60c +
-  \ind[2] Solde : 84 fr. — \hfill C. p^{les} (varia) : 50c. —
-  A Hazebrouck C. p^{les} : 60 + 10 c. – \hfill 1 cahier cartonné : 1^{f}50
+  \ind[2] Solde : 84 fr. — \hfill C. ples (varia) : 50c. —
+  A Hazebrouck C. ples : 60 + 10 c. – \hfill 1 cahier cartonné : 1^{f}50
   Cte d Etat-major : 90c. \hfill 3 \inc{elastiq} de rechange
   \droite (bretelles) : 65c —
 apparat:
@@ -51,7 +51,7 @@ apparat:
 - ligne: 20
   lemme: C. P
   type: abreviation
-  note: cartes postales (de même C. p^{les}, l.~21--22)
+  note: cartes postales (de même C. ples, l.~21--22)
 - ligne: 23
   lemme: Cte
   type: abreviation
@@ -61,7 +61,7 @@ apparat:
   type: lecture
   note: 'élastiques ; lecture incertaine ; autre lecture : elastics'
 historique: |
-  À Renescure (4~km de Lynde, OSM), les deux châteaux sont le château de Zuthove, entouré de douves (Mérimée PA00107784), et le château dit de Philippe de Comines (Mérimée PA00107783), où le chroniqueur naquit avant 1447 (Feller-Vest 2015). L'église à double nef est Notre-Dame-de-l'Assomption (Palissy). À Hazebrouck, l'église de la grand-place est Saint-Éloi, du XV\textsuperscript{e}~s. (Mérimée PA00107549). La solde de 84~F est le premier des dix-neuf versements de la Mission militaire française notés dans le carnet ; peut-être seize jours à 5~F~25 (calcul de l'éditeur). La carte d'état-major est une feuille au 1/80~000 (\textit{French-English Dictionary} 1919, s.v. « Carte »).
+  À Renescure (4~km de Lynde, OSM), les deux châteaux sont le château de Zuthove, entouré de douves (Mérimée PA00107784), et le château dit de Philippe de Comines (Mérimée PA00107783), où le chroniqueur naquit avant 1447 (Feller-Vest 2015). L'église à double nef est Notre-Dame-de-l'Assomption (Palissy). À Hazebrouck, l'église de la grand-place est Saint-Éloi, du XV\textsuperscript{e}~s. (Mérimée PA00107549). La solde de 84~F est le premier des dix-neuf versements de la Mission militaire française notés dans le carnet ; peut-être seize jours à 5,25~F (calcul de l'éditeur). La carte d'état-major est une feuille au 1/80~000 (\textit{French-English Dictionary} 1919, s.v. « Carte »).
 sources:
 - Ministère de la Culture, base Mérimée, notices PA00107784 (château de Zuthove, Renescure), PA00107783 (château dit de Philippe de Comines, Renescure), PA00107549 (église Saint-Éloi, Hazebrouck).
 - Ministère de la Culture, base Palissy, objets mobiliers de la commune de Renescure (église Notre-Dame-de-l'Assomption).

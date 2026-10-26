@@ -47,6 +47,12 @@ def occurrences(lecture: list[dict], pages: dict[int, dict], entites: dict) -> d
             for n, k in e.get("attestations", []) or []:
                 if (n, k) not in liste:
                     liste.append((n, k))
+                    # place dans la ligne, pour l'ordre des renvois d'une même ligne : nom court, sans accents
+                    lignes = texte_simple(pages[n]["transcription"]) if pages.get(n) else []
+                    if 0 < k <= len(lignes):
+                        i = _cle_tri(lignes[k - 1]).find(_cle_tri(e.get("court", e["nom"])))
+                        if i >= 0:
+                            pos[(n, k)] = i
             ordre = {c["cliche"]: c["ordre"] for c in lecture}
             liste.sort(key=lambda x: (ordre.get(x[0], 0), x[1]))
             if liste:

@@ -26,7 +26,7 @@ transcription: |
   Dejeun : 1^{f}60. – Diner : 1^{f}60. – C^{tes} p^{les} : 15 c
   Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 couronne \trait
   Kepi (au Bon Marché : 8^{f}75. – Consigne : \inc{15 c}
-  Carte de Verdun : 50 c – \inc{Entretien} souliers : 30 c
+  Carte de Verdun : \inc{10 c} – \inc{Entretien} souliers : 30 c
   Carte Roumanie : 30 c – \inc{Divers} : W.C : 15 c
 apparat:
 - ligne: 2
@@ -94,6 +94,10 @@ apparat:
   type: lecture
   note: 'autres lectures : 10 c, 1 c'
 - ligne: 20
+  lemme: \inc{10 c}
+  type: lecture
+  note: 'lecture incertaine ; autre lecture : 50 c'
+- ligne: 20
   lemme: \inc{Entretien}
   type: lecture
   note: lecture proposée (mot contracté)
@@ -102,7 +106,7 @@ apparat:
   type: lecture
   note: lecture proposée
 historique: |
-  Les « Magasins de l'Hotel-de-Ville » sont le Bazar de l'Hôtel de Ville (Baedeker 1913, p.~52). Le « \fr{1}{4} place » est le tarif des militaires en permission (Lafon 1922, p.~37) ; le plein tarif Paris--Toulouse en 2\textsuperscript{e} classe est de 54~F~30 (Baedeker 1912, R.~39). Ernest Zyromski (1862--1933), auteur de \textit{L'Orgueil humain} (1904), enseigne à la faculté des lettres de Toulouse (BnF) ; Hippolyte Combes suivra son cours le 30~janvier 1917 (voir f.~67~v\textsuperscript{o}). La Roumanie, entrée en guerre le 27~août (\textit{La Dépêche}, 29~août 1916, p.~1), subit dès ce jour la contre-offensive de Falkenhayn devant Hermannstadt (Wikipédia, « Battle of Nagyszeben »).
+  Les « Magasins de l'Hotel-de-Ville » sont le Bazar de l'Hôtel de Ville (Baedeker 1913, p.~52). Le « ¼ place » est le tarif des militaires en permission (Lafon 1922, p.~37) ; le plein tarif Paris--Toulouse en 2\textsuperscript{e} classe est de 54,30~F (Baedeker 1912, R.~39). Ernest Zyromski (1862--1933), auteur de \textit{L'Orgueil humain} (1904), enseigne à la faculté des lettres de Toulouse (BnF) ; Hippolyte Combes suivra son cours le 30~janvier 1917 (voir f.~67~v\textsuperscript{o}). La Roumanie, entrée en guerre le 27~août (\textit{La Dépêche}, 29~août 1916, p.~1), subit dès ce jour la contre-offensive de Falkenhayn devant Hermannstadt (Wikipédia, « Battle of Nagyszeben »).
 sources:
 - Baedeker, K., Paris and Environs, with Routes from London to Paris, 18e éd., Leipzig, Baedeker, 1913, p. 52.
 - Baedeker, K., Le Sud-Ouest de la France, de la Loire à la frontière d'Espagne, Leipzig, Baedeker, 1912, route 39.

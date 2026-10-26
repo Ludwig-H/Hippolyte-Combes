@@ -70,3 +70,26 @@ Demandes de Louis après relecture de l'introduction : double pagination et pagi
 - `construire.sh` parallélisé (cartes une par processus).
 
 Rapport : `edition/verification/2026-10-25/README.md`. Publication sur `main` par avance rapide.
+
+## Courriels de Pierre-Alain, recherches R9–R16, troisième relecture — 25 octobre 2026 (soir) et 26 octobre (Claude)
+
+Demande de Louis : intégrer les courriels de Pierre-Alain Hauseux (photographies militaires ; étude familiale de Pierre Combes et photographie du mariage), relancer les recherches historiques et topographiques en gardant une édition succincte, relire encore toute l'édition ; ajouter les documents avec un ton sceptique quand seule la tradition familiale les date.
+
+- Photographies : `illustrations/hippolyte_canonnier_1915.jpg`, `hippolyte_canonnier_pied_1915.jpg` (biographie), `interpretes_salle_des_fetes.jpg` (introduction sur les interprètes), `camarades_ailly_1919.jpg` (biographie) ; légendes dans `illustrations/famille.yaml` et dans les textes ; provenance dans `src/credits_illustrations.py`. Les fichiers envoyés par courriel étaient déjà dans `archives_militaires/photos_militaires` et `biographie_et_famille/` (identiques à l'octet).
+- Recherches : `edition/recherche/R9`–`R16` (dossiers de travail ; le livre fait foi). Intégration vérifiée dans les textes, les pages, l'index et les cartes (`cartes/donnees/fronts.yaml`, `lieux_complementaires.json`, `cartes.yaml`).
+- Lectures changées sur l'image : « Copin » (ex-Capron) et « Carlumont » (ex-Carluvant), toutes deux gardées incertaines ; index (`copin`, `carlumont`) et chapitres V–VI alignés.
+- Conventions ajoutées : sommes « 78,75~F » (plus de « 78~F~75 » hors citation), « Londres » comme lieu d'édition, sigle « JMO~7/Bedf », formations britanniques en anglais (« 18\textsuperscript{th}~Division ») dans les annexes, comme dans les introductions.
+- À ne pas défaire : le 10e régiment d'artillerie de 1915 est « à pied » (fiche matricule) ; Hénin-sur-Cojeul (2 avril 1917) relève de la Third Army ; la revue du 25 octobre 1915 est située « sans doute » au nord de Ribemont-sur-Ancre (Nichols et Poincaré écrivent « Ribécourt »).
+- Typographie (contrôle de cohérence final) : noms d'organismes et de formations britanniques en romain (Army Service Corps, Irish Guards, War Office, Purchase Board, Royal Fusiliers), mots et fonctions anglais en italique (\textit{Town Major}, \textit{refilling point}) ; centimes seuls « 40~c ».
+- Photographies : la famille date d'avril 1915 le groupe de Toulon et les portraits ; légendes « printemps 1915 », la date familiale étant dite dans le texte ; la salle des fêtes et Ailly-sur-Somme restent à légende prudente.
+- Mise en page : `\raggedbottom` limité aux lettres (`textes/annexes.tex`), pour éviter les blancs étirés entre figures et notes.
+- Illustrations de fin de chapitre (`donnees/chapitres.yaml`, `illustration_fin`) : imprimées seulement si une page impaire resterait blanche ; `\LJfinintro{contenu}{nom}` écrit `\LJfinimprimee{nom}` dans le `.aux`, et `src/credits_illustrations.py` enveloppe la ligne de crédit dans `\LJsiimprimee{nom}{…}`. N'y mettre aucun document important : les portraits en tenue d'interprète, Marguerite 1917 et le mariage sont désormais dans l'introduction (`intro_interprete.tex`, `intro_biographie.tex`).
+- Planche paléographique : `\input` à la fin de `textes/intro_cartes.tex` (après la double carte, page xxxvi), renvoi « (fig., p.) » dans `intro_ecriture.tex` ; la remettre dans la section IV recrée une page blanche avant les cartes.
+- Notes : plus de `\footnote{\raggedright …}` ; `xurl` coupe les adresses. Annexes : fac-similé du poème à 0,55 de la hauteur ; pas de saut forcé dans la rédaction du document 6.
+- Transcription : « C^{tes} p^{les} » suscrits seulement si les lettres sont nettement au-dessus de la ligne (examen du 26 oct., `hc_work/ples/`) ; dans le doute, forme gardée.
+- Renvois internes : l'ordre dans une même ligne tient compte des attestations ajoutées à la main (`src/loci_index.py`).
+- Renvois au sommaire des *Feuillets de Route* : une étiquette par ligne citée (`annexe:doc6-ii` … `annexe:doc6-xxii`, `annexe:doc6-ix`) et `\LJpages{a}{b}` (« p. X » ou « p. X–Y ») pour deux lignes ; ne plus renvoyer à `annexe:doc6-sommaire` pour un chapitre précis. Aucun numéro de page d'annexe écrit en dur.
+- Typographie : numéros romains des pages, chapitres et appendices d'ouvrages cités en petites capitales (« p.~\textsc{xiii} », « chap.~\textsc{iv} ») ; tomes et volumes en capitales (« t.~VII », « vol.~III ») ; « Hippolyte » et « d’Hippolyte » jamais coupés (`\babelhyphenation`, forme à apostrophe courbe) ; adresses : coupure après « / . - … », jamais après « https: » (préambule).
+- Générateur : « [illis.] » des notes automatiques mis en italique au rendu (`gabarit._note`, la clé de fusion des notes reste « [illis.] ») ; photographies des ouvertures à la même hauteur (`generer.hauteur_commune`, `\LJphoto[hauteur]{…}`).
+
+Rapport : `edition/verification/2026-10-25/README.md`. Publication sur `main` par avance rapide.

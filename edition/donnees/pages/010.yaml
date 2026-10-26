@@ -50,10 +50,6 @@ apparat:
   type: graphie
   note: pour Steenwerck (Nord)
 - ligne: 13
-  lemme: 80^{f} \inc{30} c
-  type: abreviation
-  note: 80~francs 30~centimes
-- ligne: 13
   lemme: \inc{30}
   type: lecture
   note: 'lecture incertaine ; autre lecture : 50'
@@ -70,7 +66,7 @@ apparat:
   type: abreviation
   note: grand
 historique: |
-  La Croix-du-Bac, hameau de Steenwerck à 6,5~km d'Armentières, accueille souvent un état-major de division : la 34\textsuperscript{th} Division en février 1916 (Shakespear 1921, p.~15), la 5\textsuperscript{th} Australian Division en juillet (Ellis [1920], p.~74). La 18\textsuperscript{th} Division ne relève le secteur que dans la nuit du 6 au 7~août (voir f.~6~r\textsuperscript{o}) : le bureau de la Mission est sans doute déjà le sien, sans preuve. L'église de Steenwerck disparaît dans les combats de 1918 (village pris le 10~avril : CWGC) ; elle est reconstruite en 1928 (Mérimée PA59000231). Les 80~F~30, huit jours après les 84~F d'Hazebrouck (voir f.~2~r\textsuperscript{o}), restent inexpliqués, comme le supplément de 8~F.
+  La Croix-du-Bac, hameau de Steenwerck à 6,5~km d'Armentières, accueille souvent un état-major de division : la 34\textsuperscript{th} Division en février 1916 (Shakespear 1921, p.~15), la 5\textsuperscript{th} Australian Division en juillet (Ellis [1920], p.~74). La 18\textsuperscript{th} Division ne relève le secteur que dans la nuit du 6 au 7~août (voir f.~6~r\textsuperscript{o}) : le bureau de la Mission est sans doute déjà le sien, sans preuve. L'église de Steenwerck disparaît dans les combats de 1918 (village pris le 10~avril : CWGC) ; elle est reconstruite en 1928 (Mérimée PA59000231). Les 80,30~F, huit jours après les 84~F d'Hazebrouck (voir f.~2~r\textsuperscript{o}), restent inexpliqués, comme le supplément de 8~F.
 sources:
 - Shakespear, J., The Thirty-Fourth Division, 1915–1919. The Story of its Career from Ripon to the Rhine, Londres, H. F. & G. Witherby, 1921, p. 15.
 - Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], p. 74.

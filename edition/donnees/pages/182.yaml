@@ -46,7 +46,7 @@ apparat:
 - ligne: 13
   lemme: 1^{f} 75
   type: lecture
-  note: 1~franc 75 ; « 1 75 » possible
+  note: 1,75~F ; « 1 75 » possible
 - ligne: 14
   lemme: \inc{avec}
   type: lecture
@@ -58,7 +58,7 @@ apparat:
 - ligne: 14
   lemme: 2 75 c
   type: lecture
-  note: 2~francs 75~centimes
+  note: 2,75~F
 - ligne: 18
   lemme: Molliens-au, Bois
   type: lecture
@@ -70,7 +70,7 @@ apparat:
 - ligne: 21
   lemme: d'\inc{Hessart}
   type: lecture
-  note: 'Hérissart ; autre lecture : Essart'
+  note: lecture incertaine (Essart ? Esthart ?) ; Hérissart ?
 - ligne: 21
   lemme: anti-aircraft battery
   type: emprunt
@@ -80,7 +80,7 @@ apparat:
   type: lecture
   note: 'autre lecture : rouillées'
 historique: |
-  La canonnade des nuits du 21 et du 22 est sans doute la préparation de la deuxième bataille de la Scarpe : le 23 à 4~h~45, la Third Army attaque sur une quinzaine de kilomètres, de Croisilles, au sud-est d'Arras, à Gavrelle (OH~\mbox{1917-I}, p.~378 sq.). Hérissart est à 39~km environ d'Arras. Les 78~F~75 touchés à Toutencourt, à 3~km d'Hérissart, sont la dernière solde notée dans le carnet : sans doute quinze jours à 5~F~25 (voir f.~88~v\textsuperscript{o}). Le guide d'« A. Martin », au titre cité de façon approximative, est sans doute \textit{Une visite à Amiens} d'Alexis Martin (Paris, Hennuyer, 1896 ; BnF). « B\textsuperscript{te} Denis » est sans doute de la famille d'Hérissart chez qui Hippolyte Combes passe ses soirées (voir f.~89~r\textsuperscript{o}).
+  La canonnade notée à partir de la nuit du 20 au 21 précède la deuxième bataille de la Scarpe : les nuits du 21 et du 22, Allenby fait tirer des obus à gaz, surtout lacrymogènes, sur les batteries, les abris et les chemins creux allemands ; le 23 à 4~h~45, la Third Army et, à sa gauche, le XIII~Corps de la First Army attaquent sur une quinzaine de kilomètres, de Croisilles, au sud-est d'Arras, à Gavrelle (OH~\mbox{1917-I}, p.~382--383). Hérissart est à 39~km environ d'Arras. Les 78,75~F touchés à Toutencourt, à 3~km d'Hérissart, sont la dernière solde notée dans le carnet : sans doute quinze jours à 5,25~F (voir f.~88~v\textsuperscript{o}). Le guide d'« A. Martin », au titre cité de façon approximative, est sans doute \textit{Une visite à Amiens} d'Alexis Martin (Paris, Hennuyer, 1896 ; BnF). « B\textsuperscript{te} Denis » est sans doute de la famille d'Hérissart chez qui Hippolyte Combes passe ses soirées (voir f.~89~r\textsuperscript{o}).
 sources:
-- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 378 sq.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 382-383.
 - Martin, A., Une visite à Amiens. Historique. La ville haute, la ville basse, les faubourgs. Hommes célèbres nés en Picardie, Paris, A. Hennuyer, 1896 (BnF, notice de la réédition La Vague verte, 2016, ark:/12148/cb450737666).

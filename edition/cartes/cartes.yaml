@@ -75,7 +75,7 @@ cartes:
     Ancre: [2.655, 50.035]
   zone_allemande: front_ouest_1916_11
   fronts:
-  - {id: flandre_artois_1916, epaisseur: 1.4, etiquette: 'front de 1916', etiquette_pos: [2.97, 50.60], rotation: 70}
+  - {id: flandre_artois_1916, epaisseur: 1.4, etiquette: 'front de 1916', etiquette_pos: [2.735, 50.525], rotation: 90, ha: center}
   - {id: artois_somme_1916_11, epaisseur: 1.4}
   - {id: hindenburg_1917, epaisseur: 1.1, etiquette: 'ligne Hindenburg (mars 1917)', etiquette_pos: [2.84, 50.27], ha: left}
   contexte:
@@ -102,6 +102,7 @@ cartes:
   - {id: '80021', rang: 2, ha: center, va: top, dx: 0.0, dy: -0.6}
   legende:
   - {type: point, texte: "Principaux cantonnements d'Hippolyte Combes (repère du bourg) et dates de séjour"}
+  - {type: cercle, texte: 'Autres cantonnements, étapes et lieux cités'}
   - {type: ligne, texte: "Front de Flandre et d'Artois en 1916, front de la Somme au 18 novembre 1916 (tracés schématiques)", epaisseur: 1.4}
   - {type: zone, texte: "Zone tenue par l'armée allemande (fin 1916)"}
   - {type: ligne, texte: "Ligne Hindenburg, sur laquelle l'armée allemande se replie en mars 1917", epaisseur: 1.1, couleur: '#4a4a4a', dashes: [4, 2]}
@@ -178,10 +179,10 @@ cartes:
   - {id: '59295', rang: 3, ha: left, va: top, dy: -0.2, dx: 0.77}
   - {id: berguette_gare, rang: 3, etiquette: Berguette (gare), ha: right}
   - {id: '62516', rang: 3}
-  - {id: '62767', rang: 2, etiquette: Saint-Pol, ha: right, date: 25 août, va: top, dx: -0.77, dy: -0.2}
+  - {id: '62767', rang: 2, etiquette: Saint-Pol, ha: right, date: 25 août, va: center, dx: -1.3, dy: 0.0}
   - {id: '62558', rang: 1, date: '25 août – 8 sept.'}
   - {id: '62514', rang: 3, va: top, dy: -1.0, ha: left, dx: 0.77}
-  - {id: '62590', rang: 3, ha: right, date: 9 sept.}
+  - {id: '62590', rang: 3, ha: right, date: 9 sept., va: center, dx: -1.1, dy: -0.4}
   - {id: oppy, rang: 3, etiquette: Oppy, date: 10 sept., ha: right, va: top, dy: -0.4}
   - {id: '80495', rang: 3}
   - {id: '80756', rang: 3, ha: right, va: top, dx: -1.1, dy: -0.2}
@@ -190,7 +191,7 @@ cartes:
   - {id: '80003', rang: 2, etiquette: Acheux, va: bottom, dy: 0.7, dx: 1.2}
   itineraires:
   - {lieux: [croix_du_bac, '59043', '59295', berguette_gare, '62516', '62767', '62558'], courbure: 0.05}
-  - {lieux: ['62558', '62514', '62590', oppy, '80495', '80756', '80659'], courbure: 0.05, couleur: '#7a5a2a'}
+  - {lieux: ['62558', '62514', '62590', oppy, '80495', '80756', '80659'], courbures: [0.0, 0.12, 0.05, 0.05, 0.05, 0.05], pointes: [false, true, true, true, true, true], couleur: '#7a5a2a'}
   legende:
   - {type: fleche, texte: "25 août : du cantonnement au Ternois, par le train de Bailleul à Saint-Pol"}
   - {type: fleche, couleur: '#7a5a2a', texte: '9–11 septembre : étapes à cheval de Marquay à Raincheval'}
@@ -204,7 +205,7 @@ cartes:
   titre: La première permission à Toulouse
   emprise: [1.33, 43.52, 1.56, 43.66]
   taille_mm: [141, 122]
-  legende_mm: 28
+  legende_mm: 21
   echelle_km: 2
   exageration: 5
   couches_eau: [hydro_toulouse.geojson]
@@ -218,8 +219,9 @@ cartes:
   - {id: '31069', rang: 2, ha: right, va: center, dx: -0.9, dy: 0.0}
   - {id: purpan_amphitheatre, rang: 3, etiquette: 'Purpan (ruines ?)', ha: right}
   - {id: lardenne, rang: 3, ha: center, va: top, dy: -0.2, dx: 0.0}
-  - {id: saint_etienne, rang: 3, etiquette: Saint-Étienne, va: top, dy: -0.6, dx: 1.3}
+  - {id: saint_etienne, rang: 3, etiquette: Saint-Étienne, ha: left, va: center, dy: 0.0, dx: 1.1}
   - {id: terre_cabade, rang: 3, etiquette: Terre-Cabade, va: bottom, dy: 0.3, dx: 1.3}
+  - {id: cote_pavee, rang: 3, etiquette: Côte-Pavée, ha: left, va: top, dx: 1.1, dy: -0.1}
   - {id: montaudran, rang: 3}
   - {id: pouvourville, rang: 3}
   - {id: pech_david_coteau, rang: 3, etiquette: Pech-David (coteau), ha: left, va: top, dx: 1.1, dy: -0.6}
@@ -229,7 +231,7 @@ cartes:
   notes:
   - 'Voyage : Acheux-Varennes (25 sept.), Paris (26 sept.), Toulouse (27 sept.) ; retour par Paris (4–5 oct.).'
   - 'Purpan : identification proposée des ruines ; Pech-David : repère de coteau, non point précis de la promenade.'
-  sources: "Fond : relief d'après Copernicus DEM GLO-30 (© DLR e.V. 2010–2014 et © Airbus Defence and Space GmbH 2014–2018, programme Copernicus), cours d'eau et canaux IGN BD TOPO (Licence Ouverte 2.0) ; repère de Purpan © contributeurs OpenStreetMap (ODbL) ; projection Lambert-93."
+  sources: "Fond : relief d'après Copernicus DEM GLO-30 (© DLR e.V. 2010–2014 et © Airbus Defence and Space GmbH 2014–2018, programme Copernicus), cours d'eau et canaux IGN BD TOPO (Licence Ouverte 2.0) ; repères de Purpan et de la Côte-Pavée © contributeurs OpenStreetMap (ODbL) ; projection Lambert-93."
 
 - id: IV
   titre_imprime: false
@@ -252,18 +254,17 @@ cartes:
   - {id: artois_somme_1916_11, epaisseur: 1.6, etiquette: 'front du 18 nov. 1916', etiquette_pos: [2.735, 50.15]}
   contexte:
   - {id: Thiepval, ha: left, va: bottom, dx: 0.77, dy: 0.2}
-  - {id: Beaumont-Hamel, va: bottom, dx: 1.6, dy: 1.8}
+  - {id: Beaumont-Hamel, ha: right, va: top, dx: -0.3, dy: -1.7}
   - {id: Pozières}
   - {id: Bapaume}
   - {id: Corbie, ha: left, va: top, dx: 0.77, dy: -0.2}
-  - {id: martinsart, etiquette: Martinsart, ha: center, va: bottom, dx: 0.0, dy: 0.6}
   lieux:
   - {id: barlette, rang: 2, ha: right, date: '6–14 oct.'}
   - {id: '80086', rang: 3}
   - {id: '80071', rang: 2, date: 15 oct., ha: center, va: bottom, dx: 0.0, dy: 0.6}
   - {id: '80070', rang: 3}
   - {id: '80645', rang: 3, ha: right, va: center, dx: -0.9, dy: 0.0}
-  - {id: '80820', rang: 2, date: 16 oct., ha: left, va: top, dx: 0.4, dy: -0.6}
+  - {id: '80820', rang: 2, date: 16 oct., ha: center, va: top, dx: 0.0, dy: -0.6}
   - {id: '80733', rang: 3, etiquette: Senlis, ha: right, va: bottom, dx: -0.7, dy: 0.3}
   - {id: '80129', rang: 2, etiquette: 'Bouzincourt †', date: '17–18 oct.', ha: left, va: center, dx: 1.0, dy: 0.2}
   - {id: '80425', rang: 2, etiquette: 'Hédauville †', ha: right, va: bottom, dx: -1.0, dy: 0.6}
@@ -273,6 +274,7 @@ cartes:
   - {id: '80253', rang: 2}
   - {id: '80021', rang: 2, ha: center, va: top, dx: 0.0, dy: -0.6}
   - {id: '80207', rang: 3, ha: right, va: bottom, dx: -0.77, dy: 0.2}
+  - {id: martinsart, rang: 3, ha: center, va: bottom, dx: 0.0, dy: 0.6}
   itineraires:
   - {lieux: [barlette, '80071', '80820', '80129', '80016', '80003'], courbures: [0.08, 0.08, 0.22, 0.45, -0.25]}
   legende:
@@ -301,24 +303,32 @@ cartes:
   - {id: Beaumont-Hamel, ha: right, va: bottom, dx: -0.9, dy: 0.3}
   - {id: Thiepval}
   - {id: Mailly-Maillet}
-  - {id: Bertrancourt}
   lieux:
   - {id: '80003', rang: 1, etiquette: Acheux}
   - {id: '80659', rang: 2, ha: right, dx: -1.3}
   - {id: '80493', rang: 2}
   - {id: '80070', rang: 3, ha: right}
-  - {id: '80766', rang: 2}
+  - {id: '80766', rang: 2, ha: right}
   - {id: '80645', rang: 3, ha: right}
   - {id: '80686', rang: 3, ha: right}
   - {id: '80043', rang: 3, ha: center, va: bottom, dx: 0.0, dy: 0.6}
   - {id: '80705', rang: 3, etiquette: Saint-Léger}
   - {id: '80028', rang: 3, ha: center, va: top, dx: 0.0, dy: -0.9}
-  - {id: belle_eglise, rang: 3, etiquette: Belle-Église, va: top, dy: -0.8}
+  - {id: belle_eglise, rang: 3, etiquette: Belle-Église, ha: left, va: bottom, dx: 0.4, dy: 0.5}
+  - {id: '80470', rang: 3, ha: center, va: top, dx: 0.0, dy: -0.6}
   - {id: '80425', rang: 3}
   - {id: '80266', rang: 3}
+  - {id: Bertrancourt, rang: 3}
+  - {id: '80733', rang: 3}
+  - {id: '80420', rang: 3}
+  - {id: '80431', rang: 3}
+  - {id: Bayencourt, rang: 3}
+  - {id: Coigneux, rang: 3, ha: center, va: bottom, dx: 0.0, dy: 0.6}
+  - {id: '80776', rang: 3}
   legende:
   - {type: point, texte: 'Acheux (repère du bourg)'}
-  - {type: cercle, texte: "Villages des tournées d'achats et des promenades (repères des bourgs)"}
+  - {type: cercle, texte: "Villages des tournées d'achats et des promenades, autres lieux cités (repères des bourgs)"}
+  - {type: repere, texte: 'Repères de contexte (en gris)'}
   - {type: ligne, texte: "Front au 18 novembre 1916, situation de référence (tracé schématique)", epaisseur: 1.5}
   - {type: zone, texte: "Zone tenue par l'armée allemande au 18 novembre 1916"}
 
@@ -348,7 +358,7 @@ cartes:
   - {id: '31555', rang: 1, ha: right}
   - {id: '12145', rang: 1}
   - {id: '11069', rang: 3, ha: right, va: top, dy: -0.2, dx: -1.53}
-  - {id: '34032', rang: 3, va: bottom, dy: 0.2, ha: right, dx: -1.1}
+  - {id: '34032', rang: 3, va: center, dy: 0.0, ha: left, dx: 0.9}
   - {id: '34028', rang: 3, ha: right, va: center, dx: -0.9, dy: 0.0}
   - {id: '15187', rang: 3, ha: right, va: center, dx: -0.9, dy: 0.0}
   - {id: '43040', rang: 3, ha: right, va: center, dx: -1.3, dy: 0.0}
@@ -361,7 +371,7 @@ cartes:
   - {lieux: ['80003', '80021', '75056', '31555'], courbure: 0.06}
   - {lieux: ['31555', '11069', '34032', '34028', '12145'], courbure: 0.05, couleur: '#7a5a2a'}
   - {lieux: ['12145', '15187', '43040', '63113', '03118', '45155', '45208', '91174', '75056'], courbure: 0.04, couleur: '#4d6b3a'}
-  - {lieux: ['75056', '80003'], courbure: 0.2, couleur: '#4d6b3a'}
+  - {lieux: ['75056', '80021', '80003'], courbure: 0.06, couleur: '#4d6b3a'}
   legende:
   - {type: fleche, texte: "26–28 janvier : d'Acheux à Toulouse par Amiens et Paris"}
   - {type: fleche, couleur: '#7a5a2a', texte: '3 février : de Toulouse à Millau par Carcassonne, Béziers et Bédarieux'}
@@ -383,7 +393,7 @@ cartes:
   cours_deau: [Somme, Ancre, Hallue, Authie]
   pos_cours_deau:
     Somme: [2.75, 49.94]
-    Ancre: [2.62, 50.04]
+    Ancre: [2.655, 50.025]
     Hallue: [2.44, 49.945]
   fronts:
   - {id: artois_somme_1916_11, epaisseur: 1.4, etiquette: "front au 18 nov. 1916", etiquette_pos: [2.69, 50.145]}
@@ -407,14 +417,14 @@ cartes:
   - {id: '80733', rang: 3}
   - {id: '80016', rang: 2}
   - {id: '80043', rang: 3, ha: right, va: top, dx: -0.77, dy: -0.2}
-  - {id: '80066', rang: 3, etiquette: "Beaucourt-\nsur-l'Hallue", ha: right, va: bottom, dx: -0.77, dy: 0.6}
+  - {id: '80066', rang: 3, etiquette: "Beaucourt-\nsur-l'Hallue", ha: center, va: bottom, dx: -0.3, dy: 0.8}
   - {id: '80056', rang: 3, va: center, dy: 0.0, ha: left, dx: 0.9}
   - {id: '80351', rang: 3, ha: right}
   - {id: '80672', rang: 3, ha: right, va: center, dx: -0.9, dy: 0.0}
   itineraires:
   - {lieux: ['80003', '80659', '80645', '80431'], courbure: 0.05}
   legende:
-  - {type: point, texte: 'Hérissart, siège du $\mathit{Purchase\ Board}$'}
+  - {type: point, texte: 'Hérissart, siège du Purchase Board'}
   - {type: cercle, texte: 'Villages des tournées et autres lieux cités'}
   - {type: fleche, texte: '7 février : installation à Hérissart'}
   - {type: ligne, texte: "Front au 18 novembre 1916, avant le repli allemand de mars 1917 (tracé schématique)", epaisseur: 1.4}

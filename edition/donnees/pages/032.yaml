@@ -32,7 +32,7 @@ apparat:
 - ligne: 5
   lemme: \inc{Ramecourt}
   type: lecture
-  note: lecture incertaine ; Roëllecourt, plus logique, exclu par le tracé
+  note: lecture incertaine ; Roëllecourt, plus logique, exclu par la graphie
 - ligne: 6
   lemme: St-Michel-de-Ternoize
   type: graphie
@@ -68,7 +68,7 @@ apparat:
 - ligne: 15
   lemme: \inc{ds}
   type: lecture
-  note: 'lecture incertaine : ds (dans) ; le mot a l''aspect de « de »'
+  note: 'lecture incertaine ; autre lecture : « de »'
 - ligne: 15
   lemme: '='
   type: abreviation
@@ -88,13 +88,13 @@ apparat:
 - ligne: 19
   lemme: 0\sur{5}{8}0
   type: surcharge
-  note: écrit sur 5 (lecture incertaine) ; lire 0~f~80
+  note: écrit sur 5 (lecture incertaine) ; lire 0,80~F
 - ligne: 20
   lemme: \addm{080}
   type: ajout
   note: reprise du montant surchargé de la l.~19
 historique: |
-  Ramecourt, au sud-ouest de Saint-Pol, n'est pas sur le trajet ; Roëllecourt, sur la grand-route d'Arras à 2,9~km de Marquay, conviendrait mieux (OSM). Saint-Pol compte 4 243~habitants en 1911 (Cassini/EHESS). L'église est l'ancienne chapelle des Carmes, datée de 1682 et non de 1697 (Mérimée PA00108424) ; bombardée en 1943--1944, elle a fait place à l'église Saint-Paul (Palissy PM62001934). Benoît-Joseph Labre, né à Amettes, est béatifié en 1860 et canonisé en 1881 : la plaque date sans doute d'entre-temps. Son passage à Saint-Pol en mars 1767, quand il cherche à entrer chez les chartreux ou à la Trappe (Delany 1907), n'est pas attesté ailleurs. Achetée à la douzaine, la carte postale revient ici à 4 c environ, contre 10 c en Flandre (voir f.~3~r\textsuperscript{o}).
+  Ramecourt, au sud-ouest de Saint-Pol, n'est pas sur le trajet ; Roëllecourt, sur la grand-route d'Arras, à 2,9~km de Marquay, conviendrait mieux (OSM), mais la graphie l'exclut. Saint-Pol compte 4~243~habitants en 1911 (Cassini/EHESS). L'église est l'ancienne chapelle des Carmes, datée de 1682 et non de 1697 (Mérimée PA00108424) ; bombardée en 1943--1944, elle a fait place à l'église Saint-Paul (Palissy PM62001934). Benoît-Joseph Labre, né à Amettes, est béatifié en 1860 et canonisé en 1881 : la plaque date sans doute d'entre-temps. Son passage à Saint-Pol en mars 1767, quand il cherche à entrer chez les chartreux ou à la Trappe (Delany 1907), n'est pas attesté ailleurs. Achetée à la douzaine, la carte postale revient ici à 4~c environ, contre 10~c en Flandre (voir f.~3~r\textsuperscript{o}).
 sources:
 - Ministère de la Culture, base Mérimée, notice PA00108424 (Saint-Pol-sur-Ternoise, église).
 - Ministère de la Culture, base Palissy, notice PM62001934 (Saint-Pol-sur-Ternoise, orgue).

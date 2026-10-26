@@ -35,18 +35,10 @@ apparat:
   lemme: 2 h.
   type: abreviation
   note: 2~heures
-- ligne: 4
-  lemme: 1 wagon
-  type: abreviation
-  note: un wagon (chariot du train)
 - ligne: 7
   lemme: égl.
   type: abreviation
   note: église
-- ligne: 7
-  lemme: St-Vaast
-  type: abreviation
-  note: Saint-Vaast (église de Bailleul)
 - ligne: 8
   lemme: longt
   type: abreviation
@@ -54,7 +46,7 @@ apparat:
 - ligne: 11
   lemme: \inc{1^{f} 75c}
   type: lecture
-  note: lecture incertaine (1~franc 75~centimes ?)
+  note: lecture incertaine (1,75~F ?)
 - ligne: 12
   lemme: 2m.
   type: abreviation

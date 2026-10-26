@@ -2,7 +2,7 @@
 # rect = [x0, y0, x1, y1] relatifs à la photographie entière (origine en haut à gauche) ; cliche = rang du cliché.
 # Les légendes sont insérées telles quelles dans LaTeX : \textsuperscript{…} pour les lettres suscrites, \& pour &.
 # État : v2 — chaque rectangle affiché et contrôlé (planches de contrôle : synth_travail/img/v_planche_*.jpg).
-titre: "Planche paléographique : formes caractéristiques de l'écriture d'Hippolyte Combes (1916–1917)"
+titre: "Planche paléographique : formes caractéristiques de l'écriture d'Hippolyte Combes (1916--1917)"
 colonnes: 3
 extraits:
   - {cliche: 57, folio: "f. 29 r°", rect: [0.550, 0.075, 0.715, 0.130], legende: "a fermé, b bouclé — Labarthe"}
@@ -10,12 +10,12 @@ extraits:
   - {cliche: 57, folio: "f. 29 r°", rect: [0.845, 0.400, 1.000, 0.465], legende: "s final plongeant — Lauraguais"}
   - {cliche: 71, folio: "f. 36 r°", rect: [0.455, 0.465, 0.570, 0.535], legende: "q à haste droite — que"}
   - {cliche: 49, folio: "f. 25 r°", rect: [0.015, 0.528, 0.135, 0.585], legende: "r initial bouclé — retiré"}
-  - {cliche: 60, folio: "f. 30 v°", rect: [0.490, 0.078, 0.625, 0.108], legende: "ss montants (« ll ») — messe"}
+  - {cliche: 60, folio: "f. 30 v°", rect: [0.490, 0.078, 0.625, 0.108], legende: "ss montants («~ll~») — messe"}
   - {cliche: 57, folio: "f. 29 r°", rect: [0.540, 0.295, 0.700, 0.360], legende: "g et s long descendants — l'église"}
   - {cliche: 71, folio: "f. 36 r°", rect: [0.040, 0.800, 0.330, 0.885], legende: "g\\textsuperscript{de}, x en croix — gde paix"}
   - {cliche: 41, folio: "f. 21 r°", rect: [0.860, 0.595, 0.930, 0.655], legende: "y à tête en V — y"}
-  - {cliche: 14, folio: "f. 7 v°", rect: [0.308, 0.852, 0.352, 0.893], legende: "esperluette « en 4 » — \\&"}
-  - {cliche: 90, folio: "f. 45 v°", rect: [0.603, 0.718, 0.955, 0.790], legende: "\\& en « t bouclé » — billets \\& mess"}
+  - {cliche: 14, folio: "f. 7 v°", rect: [0.308, 0.852, 0.352, 0.893], legende: "esperluette «~en 4~» — \\&"}
+  - {cliche: 90, folio: "f. 45 v°", rect: [0.603, 0.712, 1.000, 0.800], legende: "\\& en «~t bouclé~» — billets \\& messroom"}
   - {cliche: 2, folio: "f. 1 r°", rect: [0.000, 0.015, 0.310, 0.098], legende: "date soulignée, 5 à drapeau — 25 Ma."}
   - {cliche: 97, folio: "f. 48 v°", rect: [0.010, 0.462, 0.180, 0.507], legende: "S en L bouclé, tiret — Sam. 11 —"}
   - {cliche: 49, folio: "f. 25 r°", rect: [0.020, 0.185, 0.185, 0.230], legende: "A cursif (a agrandi) — Achevé"}

@@ -42,7 +42,7 @@ personnes:
 - id: barbry
   nom: Barbry
   court: Barbry
-  notice: logeur d'Hippolyte Combes ; peut-être de la famille de la blanchisserie Barbry
+  notice: « propre » (propriétaire) chez qui Hippolyte Combes prend café et rhum le 20 août 1916, sans doute pas son logeur ; blanchisserie Barbry, sans doute à Sailly-sur-la-Lys
   formes: []
   attestations:
   - - 17
@@ -251,24 +251,26 @@ personnes:
   attestations:
   - - 54
     - 6
-  - - 55
-    - 10
+  - - 59
+    - 12
   - - 60
     - 4
-- id: capron
-  nom: Capron (M\textsuperscript{me})
-  court: M\textsuperscript{me} Capron
-  notice: habitante de Beauquesne ; lecture incertaine (Caprin ?)
+  - - 139
+    - 20
+- id: copin
+  nom: Copin (M\textsuperscript{me})
+  court: M\textsuperscript{me} Copin
+  notice: habitante de Beauquesne ; lecture incertaine (Capin ?)
   formes: []
   attestations:
   - - 115
     - 6
   - - 120
     - 20
-- id: carluvant
-  nom: Carluvant (M. et M\textsuperscript{me})
-  court: Carluvant
-  notice: tailleur, logeur d'Hippolyte Combes à Acheux ; lecture incertaine (Carlumont ?)
+- id: carlumont
+  nom: Carlumont (M. et M\textsuperscript{me})
+  court: Carlumont
+  notice: tailleur, logeur d'Hippolyte Combes à Acheux ; lecture incertaine (Corlumont ? Carlymont ?)
   formes: []
   attestations:
   - - 102
@@ -292,7 +294,7 @@ personnes:
 - id: cliquennois
   nom: Cliquennois (M\textsuperscript{me})
   court: M\textsuperscript{me} Cliquennois
-  notice: logeuse à Steenwerck
+  notice: sans doute la logeuse d'Hippolyte Combes à La Croix-du-Bac (Steenwerck), août 1916
   formes: []
   attestations:
   - - 26
@@ -366,7 +368,7 @@ personnes:
 - id: cordonnier
   nom: Cordonnier
   court: Cordonnier
-  notice: interprète militaire, auprès d'une unité de la R.F.A., connu à Béthune
+  notice: interprète militaire auprès d'une unité de la R.F.A., connu à Béthune
   formes: []
   attestations:
   - - 92
@@ -418,7 +420,7 @@ personnes:
 - id: crouzet_jean
   nom: Crouzet, Jean (abbé) ?
   court: Jean
-  notice: «~Jean~», proche d'Hippolyte Combes, sans doute l'abbé Jean Crouzet
+  notice: «~Jean~», proche d'Hippolyte Combes, sans doute l'abbé Jean Crouzet ; à Carcassonne (f.~69~v\textsuperscript{o}), peut-être le même
   formes: []
   attestations:
   - - 58
@@ -508,9 +510,12 @@ personnes:
 - id: deloney
   nom: Deloney
   court: Deloney
-  notice: interprète du lieutenant Walsh, directeur d'usine ; lecture incertaine
+  notice: directeur d'usine, interprète du lieutenant Walsh ; lecture incertaine
+  sans_loci: true
   formes: []
   attestations:
+  - - 99
+    - 21
   - - 103
     - 20
 - id: delsol
@@ -575,6 +580,8 @@ personnes:
   notice: fils aîné de M. Duchâteau, maréchal des logis dans l'artillerie belge
   formes: []
   attestations:
+  - - 87
+    - 9
   - - 91
     - 4
 - id: dupuich
@@ -630,7 +637,7 @@ personnes:
 - id: faure_marcel
   nom: Faure, Marcel
   court: Marcel Faure
-  notice: fils de M\textsuperscript{me} Faure ; peut-être Marcel Faure (1906--1999)
+  notice: fils de M\textsuperscript{me} Faure ; sans doute Marcel Faure (1906--1999), futur compagnon de la Libération
   formes: []
   attestations:
   - - 131
@@ -664,7 +671,7 @@ personnes:
 - id: gilbert
   nom: Gilbert (sous-lieutenant)
   court: Gilbert
-  notice: officier britannique «~de Jersey~», poète, peut-être collègue d'Hippolyte Combes au \emph{Purchase Board}
+  notice: officier britannique «~de Jersey~», poète, peut-être collègue d'Hippolyte Combes au Purchase Board
   formes: []
   attestations:
   - - 179
@@ -780,7 +787,7 @@ personnes:
 - id: houtteman
   nom: Houtteman (M. et M\textsuperscript{me})
   court: Houtteman
-  notice: fermiers belges de Belle-Église Farm, à Arquèves ; lecture incertaine
+  notice: fermiers belges de la ferme de Belle-Église, à Arquèves ; lecture incertaine
   formes: []
   attestations:
   - - 108
@@ -800,7 +807,7 @@ personnes:
 - id: huguet
   nom: Huguet (capitaine)
   court: Huguet
-  notice: officier de la Mission militaire française auprès du V Corps britannique
+  notice: officier de la Mission militaire française auprès du V~Corps britannique
   formes: []
   attestations:
   - - 94
@@ -910,7 +917,7 @@ personnes:
 - id: leonard
   nom: Leonard (capitaine)
   court: Leonard
-  notice: officier britannique ; peut-être Robert Marsh Leonard, A.S.C. ; lecture incertaine (Lemard ?)
+  notice: officier britannique ; lecture incertaine (Lemard ?)
   formes: []
   attestations:
   - - 157
@@ -919,6 +926,7 @@ personnes:
   nom: Lépin ou Lupin (adjudant)
   court: Lépin
   notice: interprète de la Mission militaire française (18\textsuperscript{th} Division) ; lecture incertaine
+  sans_loci: true
   formes: []
   attestations:
   - - 23
@@ -956,7 +964,7 @@ personnes:
 - id: levy
   nom: Levy (major)
   court: Levy
-  notice: officier britannique du D.O.S.T., chef du \emph{Purchase Board} ; peut-être Walter Henry Levy, A.S.C.
+  notice: officier britannique du D.O.S.T., sans doute chef du Purchase Board ; peut-être Walter Henry Levy, A.S.C.
   formes: []
   attestations:
   - - 91
@@ -969,8 +977,8 @@ personnes:
     - 13
 - id: louis_xi
   nom: Louis XI, roi de France
-  court: Louis XI
-  notice: édit de 1464 sur les postes
+  court: Louis~XI
+  notice: édit de 1464 sur les postes, d'authenticité contestée
   formes: []
   attestations:
   - - 41
@@ -1346,7 +1354,7 @@ personnes:
 - id: wentworth
   nom: Wentworth (lieutenant)
   court: Wentworth
-  notice: officier australien, collègue d'Hippolyte Combes ; Henry Coates ou Fitzwilliam Wentworth (A.I.F.) ?
+  notice: officier sans doute australien, collègue d'Hippolyte Combes ; peut-être Henry Coates Wentworth (A.I.F.)
   formes: []
   attestations:
   - - 169
@@ -1562,9 +1570,9 @@ lieux:
   - - 83
     - 16
   - - 84
-    - 5
+    - 6
   - - 84
-    - 12
+    - 13
   - - 87
     - 14
   - - 89
@@ -1618,7 +1626,7 @@ lieux:
 - id: albert_briqueteries
   nom: Albert, briqueteries
   court: briqueteries d'Albert
-  notice: secteur des briqueteries («~brickfield area~»)
+  notice: secteur des briqueteries («~\emph{brickfield area}~»)
   formes: []
   attestations:
   - - 80
@@ -1732,7 +1740,7 @@ lieux:
 - id: larbret
   nom: L'Arbret (Pas-de-Calais)
   court: L'Arbret
-  notice: hameau et gare près de Saulty
+  notice: hameau de Bavincourt et gare, près de Saulty
   formes: []
   attestations:
   - - 109
@@ -2051,9 +2059,9 @@ lieux:
   - - 140
     - 10
 - id: belle_eglise
-  nom: Belle-Église (ferme ; Somme)
+  nom: Belle-Église (Somme)
   court: Belle-Église
-  notice: hameau d'Arquèves, vers Louvencourt, tête de ligne des vivres en juillet 1916 ; sa ferme («~Belle Église Farm~») est tenue par une famille belge
+  notice: hameau d'Arquèves, vers Louvencourt, tête de ligne des vivres en juillet 1916 ; sa ferme («~Belle Eglise Farm~») est tenue par une famille belge
   formes: []
   attestations:
   - - 95
@@ -2163,7 +2171,7 @@ lieux:
   formes: []
   attestations:
   - - 84
-    - 5
+    - 6
 - id: boulogne
   nom: Boulogne-sur-Mer (Pas-de-Calais)
   court: Boulogne
@@ -2183,6 +2191,14 @@ lieux:
     - 7
   - - 53
     - 11
+- id: paris_rue_flandre
+  nom: Le Bourget, rue de Flandre
+  court: rue de Flandre (Le Bourget)
+  notice: sans doute la grand-rue du Bourget, sur la route de Flandre, auj. avenue de la Division-Leclerc
+  formes: []
+  attestations:
+  - - 52
+    - 7
 - id: bournemouth
   nom: Bournemouth (Angleterre)
   court: Bournemouth
@@ -2365,7 +2381,7 @@ lieux:
 - id: couin
   nom: Couin (Pas-de-Calais)
   court: Couin
-  notice: lecture probable ; quartier général du XIII\textsuperscript{e} corps britannique en octobre--novembre 1916
+  notice: lecture probable ; quartier général du XIII~Corps britannique en octobre--novembre 1916
   formes: []
   attestations:
   - - 154
@@ -2566,9 +2582,9 @@ lieux:
   - - 98
     - 21
 - id: frevent_hotel_amiens
-  nom: Frévent, hôtel d'Amiens ?
+  nom: Frévent, hôtel d'Amiens
   court: hôtel d'Amiens
-  notice: hôtel à l'enseigne «~d'Amiens~», à Frévent (ou à Doullens)
+  notice: sans doute l'hôtel de ce nom à Frévent (Baedeker 1909, p.~22)
   formes: []
   attestations:
   - - 98
@@ -2978,7 +2994,7 @@ lieux:
 - id: millau
   nom: Millau (Aveyron)
   court: Millau
-  notice: ville natale de Marguerite Calmels
+  notice: ville natale d'Hippolyte Combes et de Marguerite Calmels
   formes: []
   attestations:
   - - 138
@@ -3334,14 +3350,6 @@ lieux:
   attestations:
   - - 130
     - 20
-- id: paris_rue_flandre
-  nom: Paris, rue de Flandre
-  court: rue de Flandre (Paris)
-  notice: XIX\textsuperscript{e} arrondissement
-  formes: []
-  attestations:
-  - - 52
-    - 7
 - id: paris_rue_rennes
   nom: Paris, rue de Rennes
   court: rue de Rennes
@@ -3543,7 +3551,7 @@ lieux:
 - id: quesnoy
   nom: Quesnoy (ferme du ; Somme) ?
   court: ferme du Quesnoy
-  notice: sans doute le lieu-dit le Quesnoy, à Puchevillers ; identification non certaine
+  notice: sans doute le lieu-dit le Quesnoy, à Puchevillers
   formes: []
   attestations:
   - - 111
@@ -3644,8 +3652,9 @@ lieux:
   - - 175
     - 6
 - id: ramecourt
-  nom: Ramecourt (Pas-de-Calais)
+  nom: Ramecourt (Pas-de-Calais) ?
   court: Ramecourt
+  notice: lecture incertaine
   formes: []
   attestations:
   - - 32

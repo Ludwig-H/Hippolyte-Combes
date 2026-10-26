@@ -5,11 +5,11 @@ mois: Septembre 1916
 lieux: Raincheval (Somme)
 titre: Horaires à la gare de Raincheval ; football des Bedfords ; ordre de départ
 transcription: |
-  22 \sl{Ve –} Enfin, temps splendide \hfill \sl{Sept /16}
+  22 \sl{Ve} – Enfin, temps splendide \hfill \sl{Sept /16}
   ciel d'1 bleu intense – Soleil ardent \fr{1}{2} jour
   Apres-midi, promené j-à la station de
   Raincheval et me suis renseigné horaire trains
-  Au retour assisté match de football –
+  Au retour, assisté match de football –
   s/ prairie à coté horse-lines the Bedfs
   maillots rouge vif, " blancs – à l'arrière-
   -plan, très beaux arbres\trait
@@ -24,7 +24,7 @@ transcription: |
   \filet[g]{0.15}
   \ind 2 tins of coffee milk, à la
   \ind[2] Cantine : \inc{3^{f}}
-  \ind Eggs & food : 1 f 10 —
+  \ind Eggs & food : \inc{1 f 10} —
 apparat:
 - ligne: 6
   lemme: the Bedfs
@@ -53,17 +53,17 @@ apparat:
 - ligne: 17
   lemme: \inc{3^{f}}
   type: lecture
-  note: lecture incertaine ; autres lectures, 3 f~5, 35 c
+  note: 'lecture incertaine ; autres lectures : 3 f~5, 35 c'
 - ligne: 18
   lemme: Eggs & food
   type: emprunt
   note: œufs et nourriture
 - ligne: 18
-  lemme: 1 f 10
+  lemme: \inc{1 f 10}
   type: lecture
-  note: lecture incertaine ; autre lecture, 1 f~90
+  note: 'lecture incertaine ; autre lecture : 1 f~90'
 historique: |
-  La « station de Raincheval » est la gare Raincheval-Arquèves (voir f.~22~r\textsuperscript{o}). Les « Bedfs » sont le 7\textsuperscript{th} Bedfordshire (54\textsuperscript{th} Brigade), à Raincheval depuis le 11~septembre. Son journal note ce jour : « \textit{Received orders to move on 23rd inst. time uncertain} » (JMO~7/Bedf, 22~sept. 1916). Le « cap Pant » n'est pas identifié : aucun « Panton » de l'A.S.C. dans les dossiers d'officiers (TNA, WO 339). Le château est sans doute celui de Raincheval (voir f.~21~v\textsuperscript{o}). La permission lui donnera sept jours pleins à Toulouse, du 27~septembre au 4~octobre (voir f.~27~v\textsuperscript{o}--32~r\textsuperscript{o}) : la durée réglementaire au 1\textsuperscript{er}~octobre 1916 (Cronier 2013, p.~18 et 32).
+  La « station de Raincheval » est la gare Raincheval-Arquèves (voir f.~22~r\textsuperscript{o}). Les « Bedfs » sont le 7\textsuperscript{th} Bedfordshire (54\textsuperscript{th} Brigade), à Raincheval depuis le 11~septembre. Son journal note ce jour : « \textit{Received orders to move on 23rd inst. time uncertain} » (JMO~7/Bedf, 22~sept. 1916). Le « cap Pant » n'est pas identifié : aucun « Panton » de l'A.S.C. dans les dossiers d'officiers (TNA, WO 339). Le château est sans doute celui de Raincheval (voir f.~21~v\textsuperscript{o}). La permission lui donnera sept jours pleins à Toulouse, du 27~septembre au 4~octobre (voir ff.~27~v\textsuperscript{o}--32~r\textsuperscript{o}) : la durée réglementaire au 1\textsuperscript{er}~octobre 1916 (Cronier 2013, p.~18 et 32).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1609 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, septembre 1916 (transcription en ligne).'
 - 'The National Archives (Kew), WO 339 : dossiers d''officiers, catalogue Discovery (recherche « Panton »).'

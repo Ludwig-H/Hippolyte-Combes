@@ -80,7 +80,7 @@ def main():
         r"\begin{figure}[p]",
         r"\centering",
         r"\renewcommand{\arraystretch}{1.05}",
-        r"\begin{tabular}{@{}" + ("p{%s}" % larg) * colonnes + "@{}}",
+        r"\begin{tabular}{@{}" + (r">{\raggedright\arraybackslash}p{%s}" % larg) * colonnes + "@{}}",  # légendes en fer à gauche
         *lignes,
         r"\end{tabular}",
         r"\caption{%s}" % _titre(spec.get("titre", "Planche paléographique")),

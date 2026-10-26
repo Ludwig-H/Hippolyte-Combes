@@ -44,10 +44,6 @@ apparat:
   type: abreviation
   note: entièrement
 - ligne: 13
-  lemme: Tempér^{re}
-  type: abreviation
-  note: température
-- ligne: 13
   lemme: +tot.
   type: abreviation
   note: plutôt
@@ -70,7 +66,7 @@ apparat:
 - ligne: 24
   lemme: = 88 fr. —
   type: compte
-  note: 'total faux : 45~+~10~+~1~+~22~=~78~fr'
+  note: 'total faux : 45~+~10~+~1~+~22~=~78~F'
 historique: |
   Pour Franvillers, à 12~km au sud d'Acheux, voir f.~52~v\textsuperscript{o}. Le « trio de vieux », non identifié, vient de Martinsart, resté « proche de la ligne de front jusqu'en septembre 1916 » (CWGC ; voir f.~52~r\textsuperscript{o}). Senlis-le-Sec abrite alors le QG du IV~Corps (LLT). Le « mot très regrettable » de Williams, capitaine de vingt ans (f.~53~v\textsuperscript{o}), vient six jours après le « Bloody France » de Louvencourt (voir ff.~56~v\textsuperscript{o}, 57~r\textsuperscript{o}). Sa prière « de ne pas le quitter » suggère que l'interprète a parlé de partir. Pour Belle-Église, voir f.~53~r\textsuperscript{o}. Le mess coûte 78~F, non 88 ; c'est près de la moitié des 162,75~F touchés en décembre (calcul de l'éditeur).
 sources:

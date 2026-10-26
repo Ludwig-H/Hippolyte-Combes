@@ -34,10 +34,6 @@ apparat:
   lemme: \inc{Auriol}
   type: lecture
   note: 'lecture incertaine ; autre lecture : Auriole'
-- ligne: 7
-  lemme: accompagnés
-  type: lecture
-  note: 'autre lecture : accompagné'
 - ligne: 8
   lemme: midi 30
   type: lecture
@@ -61,7 +57,7 @@ apparat:
 critique: |
   Les comptes de la journée sont au f.~70~r\textsuperscript{o}.
 historique: |
-  L'« oncle » est sans doute Émile Crouzet (voir f.~27~v\textsuperscript{o}) ; Jean, sans doute l'abbé Jean Crouzet, vraisemblablement son fils, vicaire à Saint-Étienne de Toulouse (voir f.~29~v\textsuperscript{o}). À Béziers, la cathédrale Saint-Nazaire domine l'Orb et la plaine (Baedeker 1914, p.~107). Le « petit train » de 17~h~23 suit la ligne des Causses par Bédarieux et Tournemire (Baedeker 1914, p.~282--287). À Millau, où Hippolyte Combes est né le 14~août 1876 (acte n\textsuperscript{o}~395), les attend « Pierre », sans doute Pierre Calmels (1884--1924), médecin, frère de Marguerite. La maison des parents de Marguerite, bâtie par son père, le D\textsuperscript{r} Gabriel Calmels (1852--1921), est au 10, rue Alfred-Guibert (PC-Annexe).
+  L'« oncle » est sans doute Émile Crouzet (voir f.~27~v\textsuperscript{o}) ; Jean est sans doute celui de Toulouse (voir f.~29~v\textsuperscript{o}), peut-être l'abbé Jean Crouzet ; sa présence à Carcassonne n'est pas expliquée. À Béziers, la cathédrale Saint-Nazaire domine l'Orb et la plaine (Baedeker 1914, p.~107). Le « petit train » de 17~h~23 suit la ligne des Causses par Bédarieux et Tournemire (Baedeker 1914, p.~282--287). À Millau, où Hippolyte Combes est né le 14~août 1876 (acte n\textsuperscript{o}~395), les attend « Pierre », sans doute Pierre Calmels (1884--1924), médecin, frère de Marguerite. La maison des parents de Marguerite, bâtie par son père, le D\textsuperscript{r} Gabriel Calmels (1852--1921), est au 10, rue Alfred-Guibert (PC-Annexe).
 sources:
 - Baedeker, K., Southern France including Corsica, 6e éd., Leipzig, Baedeker, 1914, p. 106-107 et 282-287.
 - Acte de naissance de Marie Lucien Hippolyte Combes, Millau, n° 395, 16 août 1876 (archives familiales).

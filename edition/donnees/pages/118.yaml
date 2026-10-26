@@ -1,9 +1,9 @@
 cliche: 118
 fichier: 20251126_105428.jpg
-date: Lundi 1er et mardi 2 janvier 1917
+date: Lundi 1er – mardi 2 janvier 1917
 mois: Janvier 1917
 lieux: Acheux-en-Amiénois, Toutencourt, Authie, Louvencourt, Belle-Église (Arquèves) et Raincheval (Somme) ; Pas-en-Artois et Saulty (Pas-de-Calais)
-titre: 'Jour de l''An 1917 : course à Saulty ; le logeur Carluvant doit partir'
+titre: 'Jour de l''An 1917 : course à Saulty ; le logeur Carlumont doit partir'
 transcription: |
   1^{er} \sl{Lundi} \hfill — \sl{1917} — \hfill \sl{Janvier} –
   \ind[2] Temps pluvieux, brumeux, mais très doux –
@@ -12,7 +12,7 @@ transcription: |
   Après-midi, venus à Saulty, par Authie,
   & Pas. gd Route d'Arras. Ondée très fine &
   intermittente –
-  M. \inc{Carluvant}, m'a annoncé qu'il devra quitter
+  M. \inc{Carlumont}, m'a annoncé qu'il devra quitter
   maison ds qq jours : \del{\ill} proprie tient à s'y
   installer. Regrette de partir d'ici. Chambre chaude –
   \blanc{1.5}
@@ -37,9 +37,9 @@ apparat:
   type: abreviation
   note: Pas-en-Artois (Pas-de-Calais)
 - ligne: 8
-  lemme: \inc{Carluvant}
+  lemme: \inc{Carlumont}
   type: lecture
-  note: 'lecture incertaine ; autres lectures : Carlyvant, Carlumont'
+  note: 'lecture incertaine ; autres lectures : Carlymont, Corlumont'
 - ligne: 9
   lemme: \del{\ill}
   type: lecture
@@ -69,8 +69,8 @@ apparat:
   type: emprunt
   note: bottes neuves, cloutage
 historique: |
-  Le temps s'améliore au début de janvier ; le gel ne s'installe que le 14 (OH~\mbox{1917-I}, p.~66). Saulty est sur la route de Doullens à Arras, à l'arrière de la Third Army (Miles 1938, p.~543, n.~3). Le logeur Carluvant [?] (ff.~47~r\textsuperscript{o}, 51~r\textsuperscript{o}) n'est sans doute que locataire : Hippolyte Combes loge encore chez lui le 7~février (f.~73~r\textsuperscript{o}). La ferme Cuisinier de Louvencourt est celle de la « gaffe » de Williams (f.~56~v\textsuperscript{o}) ; l'expertise prépare peut-être une indemnité. Pour Belle-Église et le Quesnoy, voir ff.~53~r\textsuperscript{o}, 55~v\textsuperscript{o}. La poudre Calvert, de Manchester, avait vers 1906 « the largest sale of any dentifrice in the world » (Grace's Guide).
+  Le temps s'améliore au début de janvier ; le gel ne s'installe que le 14 (OH~\mbox{1917-I}, p.~66). Saulty est sur la route de Doullens à Arras, à l'arrière de la Third Army (Miles 1938, p.~543, n.~3). Le logeur Carlumont [?] (ff.~47~r\textsuperscript{o}, 51~r\textsuperscript{o}) n'est sans doute que locataire : Hippolyte Combes loge encore chez lui le 7~février (f.~73~r\textsuperscript{o}). La ferme Cuisinier de Louvencourt est celle de la « gaffe » de Williams (f.~56~v\textsuperscript{o}) ; l'expertise prépare peut-être une indemnité. Pour Belle-Église et le Quesnoy, voir ff.~53~r\textsuperscript{o}, 55~v\textsuperscript{o}. La poudre Calvert, de Manchester, avait vers 1906 « the largest sale of any dentifrice in the world » (Grace's Guide).
 sources:
-- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.
-- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 543, n. 3.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, Londres, Macmillan, 1940, p. 66.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, Londres, Macmillan, 1938, p. 543, n. 3.
 - Grace's Guide to British Industrial History, « F. C. Calvert and Co » (gracesguide.co.uk).

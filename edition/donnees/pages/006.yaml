@@ -42,9 +42,9 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : curieux'
 - ligne: 6
-  lemme: \inc{v.}
+  lemme: \inc{v.} \inc{ce}
   type: lecture
-  note: lecture incertaine (v. ce ou v. a) ; peut-être vicaire
+  note: 'lecture incertaine ; autre lecture : v. a ; v. peut-être pour vicaire'
 - ligne: 6
   lemme: longt
   type: abreviation
@@ -66,11 +66,11 @@ apparat:
   type: abreviation
   note: effilé
 historique: |
-  Le Mont-Noir est un hameau de Saint-Jans-Cappel, sur la frontière belge, à 1,8~km du village (OSM). Le fourrage fauché et pesé est du fourrage vert, qui complète la ration de foin (FSPB 1914, chap.~6, « Forage », § 20). « La dernière attaque » est celle de la Somme : Montauban le 1\textsuperscript{er}~juillet, puis le bois des Trônes, pris par la 54\textsuperscript{th} Brigade le 14 (Nichols 1922, p.~51--74) ; du 14 au 21~juillet, la division a perdu 129~officiers et 2~597~hommes (OH~\mbox{1916-II}, p.~107, n.~3). Leroux (lecture incertaine), peut-être un vicaire, n'est pas identifié. Ballons et canonnade viennent sans doute du front de Wytschaete–Messines, à une douzaine de kilomètres à l'est, allemand jusqu'au 7~juin 1917 (CWGC). L'église est celle de la Décollation-de-Saint-Jean-Baptiste (Palissy).
+  Le Mont-Noir est un hameau de Saint-Jans-Cappel, sur la frontière belge, à 1,8~km du village (OSM). Le fourrage fauché et pesé est du fourrage vert, qui complète la ration de foin (FSPB 1914, chap.~6, « Forage », §~20). « La dernière attaque » est celle de la Somme : Montauban le 1\textsuperscript{er}~juillet, puis le bois des Trônes, pris par la 54\textsuperscript{th} Brigade le 14 (Nichols 1922, p.~51--74) ; du 14 au 21~juillet, la division a perdu 129~officiers et 2~597~hommes (OH~\mbox{1916-II}, p.~106, n.~3). Leroux (lecture incertaine), peut-être un vicaire, n'est pas identifié. Ballons et canonnade viennent sans doute du front de Wytschaete–Messines, à une douzaine de kilomètres à l'est, allemand jusqu'au 7~juin 1917 (CWGC). L'église est celle de la Décollation-de-Saint-Jean-Baptiste (Palissy).
 sources:
 - Commonwealth War Graves Commission, historiques des cimetières « Mont Noir Military Cemetery », « Wytschaete Military Cemetery » et « Messines Ridge British Cemetery ».
 - Field Service Pocket Book, 1914, Londres, HMSO, 1914, chap. 6, « Forage », § 20.
 - Nichols, G. H. F., The 18th Division in the Great War, Édimbourg–Londres, Blackwood, 1922, p. 51-74.
-- Miles, Wilfrid (comp.), Military Operations, France and Belgium, 1916, vol. II, Londres, Macmillan, 1938, p. 107, n. 3.
+- Miles, Wilfrid (comp.), Military Operations, France and Belgium, 1916, vol. II, Londres, Macmillan, 1938, p. 106, n. 3.
 - Ministère de la Culture, base Palissy, objets mobiliers de la commune de Saint-Jans-Cappel.
 - OpenStreetMap / Nominatim, distances à vol d'oiseau entre chefs-lieux.

@@ -11,7 +11,7 @@ transcription: |
   Chevauché matinée entière – Après 3^{H} soir,
   seulement, arrivé à Raincheval
   aujd'hui souffert poussière.
-  \inc{At} 11^{H} m. soleil perce nuages – et
+  \inc{At} 11^{H} m., soleil perce nuages – et
   très ardent
   Traversé régions pittoresques : coteaux
   boisés, petite vallée verdoyante,
@@ -45,7 +45,7 @@ apparat:
 - ligne: 11
   lemme: \inc{Ls}
   type: abreviation
-  note: Louis (Louis XI) ; lecture incertaine, autre possible « Li »
+  note: 'Louis ; lecture incertaine ; autre lecture : Li'
 - ligne: 18
   lemme: mes off
   type: emprunt
@@ -55,7 +55,7 @@ apparat:
   type: graphie
   note: tracé proche de « Crunelly » ; nom assuré par les autres mentions
 historique: |
-  D'Oppy, la colonne passe du Pas-de-Calais dans la Somme par Lucheux, à 6,6~km (OSM). Lucheux garde son château, son beffroi et son église, protégés (Mérimée PA00116194, PA00116193, PA00116195). L'« Edit de Ls XI » est l'édit de Luxies (19~juin 1464), longtemps tenu pour l'acte fondateur de la poste royale, mais contesté depuis 1937 (Zeller 1946, p.~338, n. 3). Thièvres est coupé par l'Authie entre deux communes homonymes, du Pas-de-Calais et de la Somme (OSM). L'infanterie de la brigade va en autobus du Souich à Halloy, puis à pied par Thièvres et Marieux ; le 7\textsuperscript{th} Bedfordshire arrive à Raincheval à 14~h~15 (JMO~7/Bedf, 11~sept. 1916). La bière coûte 50~c le litre, contre 30~c en Flandre (voir f.~7~v\textsuperscript{o}) ; les 10~c ajoutés sont peut-être la consigne.
+  D'Oppy, la colonne passe du Pas-de-Calais dans la Somme par Lucheux, à 6,6~km (OSM). Lucheux garde son château, son beffroi et son église, protégés (Mérimée PA00116194, PA00116193, PA00116195). L'« Edit de Ls XI » est l'édit de Luxies (19~juin 1464), longtemps tenu pour l'acte fondateur de la poste royale, mais contesté depuis 1937 (Zeller 1946, p.~338, n.~3). Thièvres est coupé par l'Authie entre deux communes homonymes, du Pas-de-Calais et de la Somme (OSM). L'infanterie de la brigade va en autobus du Souich à Halloy, puis à pied par Thièvres et Marieux ; le 7\textsuperscript{th} Bedfordshire arrive à Raincheval à 14~h~15 (JMO~7/Bedf, 11~sept. 1916). La bière coûte 50~c le litre, contre 30~c en Flandre (voir f.~7~v\textsuperscript{o}) ; les 10~c ajoutés sont peut-être la consigne.
 sources:
 - Ministère de la Culture, base Mérimée, notices PA00116194 (château), PA00116193 (beffroi) et PA00116195 (église Saint-Léger) de Lucheux.
 - Zeller, Gaston, « Procès à reviser ? Louis XI, la noblesse et la marchandise », Annales. Économies, Sociétés, Civilisations, 1, n° 4, 1946, p. 331-341 (p. 338, n. 3).

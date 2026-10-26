@@ -10,7 +10,7 @@ transcription: |
   paquets, sanglé, valise.
   Etrange sensation de melancolie, au moment de
   quitter ce village et de changer d'affectation.
-  Malgré moi, souvenirs affluent de ce 6 derniers
+  Malgré moi, souvenirs affluent de ce \inc{6} derniers
   mois. Incertitude lendemain. & situation precaire
   \ind Cap. \inc{monté}, William, partis definit^{t} vers
   10^{H} matin. Dès lors, suis sans fonctions, archi-
@@ -28,9 +28,9 @@ transcription: |
   \blanc{8}
 apparat:
 - ligne: 6
-  lemme: '6'
+  lemme: \inc{6}
   type: lecture
-  note: lecture probable
+  note: lecture incertaine
 - ligne: 8
   lemme: \inc{monté}
   type: lecture
@@ -52,8 +52,8 @@ apparat:
   type: lecture
   note: lecture probable
 historique: |
-  Le capitaine Williams, arrivé à Acheux le 2~décembre 1916 (voir f.~52~v\textsuperscript{o}), avait vingt ans et était \textit{office boy} avant la guerre (voir f.~53~v\textsuperscript{o}). Parmi les 49~officiers de l'A.S.C. de ce nom (TNA, WO 339), aucun ne s'impose ; sa nouvelle affectation est inconnue. Les « 6 derniers mois », si la lecture est bonne, sont ceux du séjour dans la Somme, commencé le 11~septembre 1916 à Raincheval (voir f.~21~r\textsuperscript{o}). Le même jour, à 26~km à l'est-nord-est, la 53\textsuperscript{rd} Brigade de la 18\textsuperscript{th} Division, dont Combes a servi le train jusqu'en novembre, prend Irles ; le 10\textsuperscript{th} Essex attaque en tenue blanche (\textit{snow mantles}) (Nichols 1922, p.~157--159 ; Becke 1938, p.~85).
+  Le capitaine Williams, arrivé à Acheux le 2~décembre 1916 (voir f.~52~v\textsuperscript{o}), avait vingt ans et était \textit{office boy} avant la guerre (voir f.~53~v\textsuperscript{o}). Parmi les 49~officiers de l'A.S.C. de ce nom (TNA, WO 339), aucun ne s'impose ; sa nouvelle affectation est inconnue. Les « 6 derniers mois », si la lecture est bonne, sont ceux du séjour dans la Somme, commencé le 11~septembre 1916 à Raincheval (voir f.~21~r\textsuperscript{o}). Ce 10~mars, à 26~km à l'est-nord-est, la 53\textsuperscript{rd} Brigade de la 18\textsuperscript{th} Division, dont Combes a servi le train jusqu'en novembre, prend Irles ; le 10\textsuperscript{th} Essex attaque en tenue blanche (\textit{snow mantles}) (Nichols 1922, p.~157--159 ; Becke 1938, p.~85).
 sources:
 - 'The National Archives (Kew), WO 339 : dossiers d''officiers, requête « Williams » « Army Service Corps » (catalogue en ligne).'
 - Nichols, G. H. F., The 18th Division in the Great War, Édimbourg et Londres, W. Blackwood & Sons, 1922, p. 157-159.
-- 'Becke, A. F., Order of Battle of Divisions, Part 3A : New Army Divisions (9-26), London, HMSO, 1938, p. 85.'
+- 'Becke, A. F., Order of Battle of Divisions, Part 3A : New Army Divisions (9-26), Londres, HMSO, 1938, p. 85.'

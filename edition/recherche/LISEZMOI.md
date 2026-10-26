@@ -17,3 +17,16 @@ de vue) ; la concordance avec les feuillets restitués figure dans `../donnees/c
 
 Les renvois de ces dossiers à `edition_philologique/` désignent l'édition antérieure, conservée dans l'historique du dépôt
 (étiquette `edition-philologique-2026-10`).
+
+Huit dossiers complémentaires (25 octobre 2026), même structure ; leurs propositions ont été contre-vérifiées sur les
+sources avant intégration (les rapports de vérification et d'intégration sont restés dans l'espace de travail). Ce sont des
+dossiers de travail : là où ils diffèrent du livre, le texte de l'édition, vérifié, fait foi.
+
+
+- `R9_photos_militaires.md` — les photographies militaires (Toulon 1915, interprètes, Les Andelys, Ailly-sur-Somme 1919).
+- `R10_topographie_cartes.md` — les lieux et les lignes de front des cartes.
+- `R11_lieux_index.md` — les notices de lieux de l'index et les lieux des commentaires.
+- `R12_personnes.md` — identifications des personnes (officiers britanniques, interprètes, civils).
+- `R13_histoire_I_III.md` et `R14_histoire_IV_VII.md` — l'histoire militaire des chapitres I–III et IV–VII.
+- `R15_biographie_presse.md` — presse et publications officielles ; la revue du 25 octobre 1915 (journal de Poincaré).
+- `R16_interpretes.md` — statut, solde et administration des interprètes.

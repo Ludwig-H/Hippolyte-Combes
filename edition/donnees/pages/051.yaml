@@ -28,7 +28,7 @@ apparat:
 - ligne: 3
   lemme: 3^{H} 1/
   type: abreviation
-  note: 3~heures et demie (demi inachevé)
+  note: 3~heures et demie (fraction inachevée)
 - ligne: 7
   lemme: Gzaincourt
   type: graphie
@@ -47,8 +47,8 @@ apparat:
   note: troisième classe
 - ligne: 14
   lemme: Taubes
-  type: emprunt
-  note: 'allemand Taube, « colombe » : avions allemands'
+  type: autre
+  note: avions allemands (all. \textit{Taube}, « colombe »)
 - ligne: 17
   lemme: (en route)
   type: lecture

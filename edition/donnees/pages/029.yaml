@@ -7,7 +7,7 @@ titre: Ondées ; promenade à Bailleul-aux-Cornailles ; logement sale et moisi
 transcription: |
   \sl{Sam. 26 –} \hfill \sl{Aout/16}
   \ind Bien reposé, quoique dans chambrette étroite
-  ax murs moisis ... \hfill Levé dès 7H \fr{1}{2}
+  ax murs moisis ... \hfill Levé dès 7H \inc{\fr{1}{2}}
   Matinée, de nouveau, très fortes ondées.
   Après-midi, enfin, pluie a
   cessé –
@@ -32,7 +32,7 @@ apparat:
   type: graphie
   note: pour « aux »
 - ligne: 3
-  lemme: 7H \fr{1}{2}
+  lemme: 7H \inc{\fr{1}{2}}
   type: lecture
   note: 'lecture incertaine ; autre lecture : 7H5'
 - ligne: 17
@@ -48,7 +48,7 @@ apparat:
   type: abreviation
   note: installation
 historique: |
-  Bailleul-aux-Cornailles est à 2~km à vol d'oiseau de Marquay, dans la zone de cantonnement de la 54\textsuperscript{th} Brigade (voir f.~14~v\textsuperscript{o}). Le journal des Bedfords note aussi la pluie : « \textit{Very heavy rain interfered with training} » (JMO~7/Bedf, 26~août 1916). La « chambrette » est un \textit{billet} chez l'habitant. L'interprète cherche d'ordinaire ces logements ; en application de la loi du 3~juillet 1877 sur les réquisitions, le logeur reçoit 1~F par nuit pour un lit d'officier et 20~c pour un lit de soldat (Fernand-Laurent 1917, p.~225--234). Hippolyte Combes garde ce logement jusqu'au départ de la brigade, le 9~septembre (voir f.~20~r\textsuperscript{o}).
+  Bailleul-aux-Cornailles est à 2~km à vol d'oiseau de Marquay, dans la zone de cantonnement de la 54\textsuperscript{th} Brigade (voir f.~14~v\textsuperscript{o}). Le journal des Bedfords note aussi la pluie : « \textit{Very heavy rain interfered with training} » (JMO~7/Bedf, 26~août 1916). La « chambrette » est un \textit{billet} chez l'habitant. L'interprète cherche d'ordinaire ces logements ; en application de la loi du 3~juillet 1877 sur les réquisitions, le logeur reçoit 1~F par nuit pour un lit d'officier et 20~c pour un lit de soldat (Fernand-Laurent 1917, p.~225--234). Hippolyte Combes garde sans doute ce logement jusqu'au départ de la brigade, le 9~septembre (voir f.~20~r\textsuperscript{o}).
 sources:
 - 'Bedfordshire Archives Service, X550/8/1/1608 : War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916, ordre d''opérations n° 26 du 23 août et journal du 26 août (transcription en ligne).'
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, Paris, Boivin, 1917, p. 225-234.

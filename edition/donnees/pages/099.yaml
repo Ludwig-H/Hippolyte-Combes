@@ -3,10 +3,10 @@ fichier: 20251126_104814.jpg
 date: Mercredi 15 – jeudi 16 novembre 1916
 mois: Novembre 1916
 lieux: Acheux-en-Amiénois, Albert, Raincheval, Louvencourt, Toutencourt et Hérissart (Somme)
-titre: Canonnade ; Mission française d'Albert ; déjeuner chez le Lt Walsh à Hérissart
+titre: Canonnade ; Mission française d'Albert ; déjeuner chez le lieutenant Walsh
 transcription: |
   \sl{15 Ma} Toute la nuit, encore \hfill Nov^{bre} \sl{1916}
-  et durant journée, principt à l'aube très
+  et durant journée, principt à l'aube, très
   violente canonnade vers Beaumont s/ Ancre \trait
   \ind Très belle journée ensoleillée.
   Matin, venu en auto à Albert Rentré de =
@@ -25,7 +25,7 @@ transcription: |
   fortt durant nuit. Bise froide.
   \ind Matin & après-midi, en auto
   Raincheval Louvencourt, Toutencourt etc.
-  Déjeuné à Hérissart chz Lt Walsh et
+  Déjeuné à Herissart chz Lt Walsh et
   avec son interp^{te}. Fort apprécié ce dernier
   M. \hfill , directeur d'1 usine
   (\inc{Wiss}) près Paris. Intelligent & distingué
@@ -42,10 +42,6 @@ apparat:
   lemme: de =
   type: signe
   note: '= : de même (en auto)'
-- ligne: 6
-  lemme: fr^{se}
-  type: abreviation
-  note: française (Mission française auprès de l'armée britannique)
 - ligne: 12
   lemme: bombardt
   type: abreviation
@@ -60,14 +56,14 @@ apparat:
   note: interprète
 - ligne: 21
   lemme: M.
-  type: abreviation
-  note: Monsieur ; le nom est laissé en blanc
+  type: autre
+  note: nom laissé en blanc
 - ligne: 22
   lemme: \inc{Wiss}
   type: lecture
   note: 'nom propre (de l''usine ou du directeur ?) ; autre lecture : tiss(us)'
 historique: |
-  Les 15 et 16, la bataille de l'Ancre se poursuit à l'est de Beaumont-Hamel contre \textit{Munich} et \textit{Frankfort Trenches}, encore allemandes le 16 (OH~\mbox{1916-II}, p.~510--512). Détaché à Acheux, Hippolyte Combes dépend toujours du bureau de la Mission française d'Albert, où il touchera sa solde le 18 (voir f.~50~r\textsuperscript{o}). Il en attend sans doute une décision depuis l'annonce, en octobre, du renvoi d'une partie des interprètes (f.~42~r\textsuperscript{o}). Toutencourt est le QG de la Fifth Army (Gough) depuis le 2~juillet 1916 (LLT). Hérissart, à 3~km à l'ouest, sera son poste dès le 7~février 1917 (f.~74~r\textsuperscript{o}). Le lieutenant Walsh n'est pas identifié ; son interprète est nommé « M. Deloney » (?) le 26~novembre (f.~51~v\textsuperscript{o}).
+  Les 15 et 16, la bataille de l'Ancre se poursuit à l'est de Beaumont-Hamel contre \textit{Munich} et \textit{Frankfort Trenches}, encore allemandes le 16 (OH~\mbox{1916-II}, p.~510--512). Détaché à Acheux, Hippolyte Combes dépend toujours du bureau de la Mission française d'Albert, où il touchera sa solde le 18 (voir f.~50~r\textsuperscript{o}). Il en attend sans doute une décision depuis l'annonce, en octobre, du renvoi d'une partie des interprètes (voir f.~42~r\textsuperscript{o}). Toutencourt est le QG de la Fifth Army (Gough) depuis le 2~juillet 1916 (LLT). Hérissart, à 3~km à l'ouest, sera son poste dès le 7~février 1917 (voir f.~74~r\textsuperscript{o}). Le lieutenant Walsh n'est pas identifié ; son interprète est nommé « M. Deloney » (?) le 26~novembre (voir f.~51~v\textsuperscript{o}).
 sources:
-- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 510-513 (« another clear cold day », p. 513).
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, Londres, Macmillan, 1938, p. 510-513 (« another clear cold day », p. 513).
 - Baker, C., The Long, Long Trail, « The British Fifth or Reserve Army 1916-1918 » (longlongtrail.co.uk, copie Wayback 2024).

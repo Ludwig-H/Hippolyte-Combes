@@ -15,7 +15,7 @@ transcription: |
   \ind matin course à Mirvaux – hameau d'1
   100ne d'habitants. Silence & solitude funebre
   \ind enfin, durant qq heure, soleil brille ciel
-  bleu. 1ère sensation de printemps proche
+  bleu. 1ère \inc{sensations} de printemps proche
   \ind Après lunch, venu promener seul sur la
   route de Toutencourt. Beau soleil ciel bleu
   Champs ensemencés. Masses sombres de petits
@@ -40,6 +40,10 @@ apparat:
   lemme: 1ère
   type: abreviation
   note: première
+- ligne: 10
+  lemme: \inc{sensations}
+  type: lecture
+  note: 'lecture incertaine ; autre lecture : sensation'
 - ligne: 15
   lemme: absolt
   type: abreviation
@@ -61,7 +65,7 @@ apparat:
   type: lecture
   note: 'dans ? lecture incertaine ; autre lecture : de'
 historique: |
-  Le 24~février, des patrouilles de la 18\textsuperscript{th} Division découvrent le repli allemand préliminaire ; Serre et Pys sont occupés le 25 (OH~\mbox{1917-I}, p.~95--101). Contay, à 4~km au sud-est, est le terminus de la voie normale venue de Daours (OH~\mbox{1916-I}, p.~273--274) et abrite deux \textit{Casualty Clearing Stations} (LLT). Le « moulin » est sans doute l'un des moulins à vent du plateau (voir f.~80~v\textsuperscript{o}). Le « Village où ns sommes exilé » est Hérissart, où le service d'achats s'est installé le 7~février (voir f.~73~v\textsuperscript{o}). Le capitaine Williams va à Senlis-le-Sec, QG du II~Corps (voir f.~75~v\textsuperscript{o}), puis à Martinsart, où cantonne la 54\textsuperscript{th} Brigade (JMO~7/Bedf, févr. 1917). La « pleine lune » ne s'accorde pas avec le calendrier : nouvelle lune le 21, premier quartier le 28 (calendar-12.com).
+  Le 24~février, des patrouilles de la 18\textsuperscript{th} Division découvrent le repli allemand préliminaire ; Serre et Pys sont occupés le 25 (OH~\mbox{1917-I}, p.~95--101). Contay, à 5~km au sud-est d'Hérissart, est le terminus de la voie normale venue de Daours (OH~\mbox{1916-I}, p.~273--274) et abrite deux \textit{Casualty Clearing Stations} (LLT). Le « moulin » est sans doute l'un des moulins à vent du plateau (voir f.~80~v\textsuperscript{o}). Le « Village où ns sommes exilé » est Hérissart, où le service d'achats s'est installé le 7~février (voir f.~73~v\textsuperscript{o}). Le capitaine Williams va à Senlis-le-Sec, QG du II~Corps (voir f.~75~v\textsuperscript{o}), puis à Martinsart, où cantonne la 54\textsuperscript{th} Brigade (JMO~7/Bedf, févr. 1917). La « pleine lune » ne s'accorde pas avec le calendrier : nouvelle lune le 21, premier quartier le 28 (calendar-12.com).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 95-101.
 - 'Edmonds, J. E. (comp.), Military Operations, France and Belgium, 1916, vol. I, Sir Douglas Haig''s Command to the 1st July : Battle of the Somme, Londres, Macmillan, 1932, p. 273-274.'

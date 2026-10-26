@@ -7,7 +7,7 @@ titre: 'Vendredi saint : solde payée à Toutencourt ; soirée avec Wentworth ; 
 transcription: |
   6 \sl{Vendr.} — \hfill \sl{Avril 1917} —
   \ind Levé tot après breakfast,
-  conduit en auto à Toutencourt. 1 staff du bureau
+  conduit en auto à Toutencourt. 1 \inc{staff} du bureau
   de la Mission, fr, Vth army H.Q., venu nous payer
   solde
   \ind Temps très beau. Délicieux promener rues ensoleillées
@@ -36,7 +36,11 @@ apparat:
   type: abreviation
   note: vendredi (Vendredi saint)
 - ligne: 3
-  lemme: staff
+  lemme: \inc{staff}
+  type: lecture
+  note: 'lecture incertaine ; autre lecture : s-off (sous-officier)'
+- ligne: 3
+  lemme: \inc{staff}
   type: emprunt
   note: membre du personnel (d'état-major)
 - ligne: 4
@@ -68,8 +72,8 @@ apparat:
   type: abreviation
   note: grandes
 historique: |
-  Ce jour, les États-Unis déclarent la guerre à l'Allemagne (OH~\mbox{1916-II}, p.~531, n.~4). Toutencourt est calme : le QG de la Fifth Army, là depuis le 2~juillet 1916, est parti pour Albert le 28~mars (LLT). Les 78~F~75, solde la plus fréquente, font sans doute quinze jours à 5~F~25 (voir f.~2~r\textsuperscript{o}). M. Wentworth, « Lt » les 17 et 18~mars (f.~84~v\textsuperscript{o}--85~r\textsuperscript{o}), serait l'officier australien venu le 6~mars remplacer le capitaine Williams (f.~81~r\textsuperscript{o}--v\textsuperscript{o}). Deux officiers de l'A.I.F. sont possibles : Henry Coates Wentworth (train de la 2\textsuperscript{nd} Australian Division) et Fitzwilliam Wentworth (26\textsuperscript{th} Battalion) (\textit{AIF Project}).
+  Ce jour, les États-Unis déclarent la guerre à l'Allemagne (OH~\mbox{1916-II}, p.~531, n.~4). Toutencourt est calme : le QG de la Fifth Army, là depuis le 2~juillet 1916, est parti pour Albert le 28~mars (LLT). Les 78,75~F, solde la plus fréquente, font sans doute quinze jours à 5,25~F (voir f.~2~r\textsuperscript{o}). M. Wentworth, « Lt » les 17 et 18~mars (f.~84~v\textsuperscript{o}--85~r\textsuperscript{o}), serait l'officier australien venu le 6~mars remplacer le capitaine Williams (f.~81~r\textsuperscript{o}--v\textsuperscript{o}). Ce pourrait être Henry Coates Wentworth, du train de la 2\textsuperscript{nd} Australian Division ; Fitzwilliam Wentworth, autre officier de l'A.I.F., semble alors en Australie, d'où il embarque le 14~juin 1917 (\textit{AIF Project}).
 sources:
-- Miles, W., Military Operations, France and Belgium, 1916, vol. II, London, Macmillan, 1938, p. 531, n. 4.
+- Miles, W., Military Operations, France and Belgium, 1916, vol. II, Londres, Macmillan, 1938, p. 531, n. 4.
 - The Long, Long Trail (C. Baker), « The British Fifth or Reserve Army 1916-1918 », copie Wayback du 23 juil. 2024.
 - UNSW Canberra, The AIF Project, notices Henry Coates Wentworth (pid 318876) et Fitzwilliam Wentworth (pid 318872, 318873).

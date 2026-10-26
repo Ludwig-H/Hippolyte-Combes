@@ -172,11 +172,16 @@ def fond_relief(ax, emprise, mnt: MNT | None, ne_gris: Path | None, res: float, 
 # ---------------------------------------------------------------------------
 def typo(o):
     """Typographie des textes imprimés sur les cartes : apostrophe courbe, « 1ᵉʳ » en exposant,
-    espace fine insécable devant ; : ? !, tiret demi-cadratin entre deux années."""
+    espace insécable devant la ponctuation haute (fine U+202F devant ; ? !, mot insécable U+00A0
+    devant « : », comme babel-french dans le livre), qu'elle soit saisie avec ou sans espace
+    (hors URL, heures et mathtext), tiret demi-cadratin entre deux années."""
     if isinstance(o, str):
         o = re.sub(r"\b1er\b", "1ᵉʳ", o.replace("'", "’"))
         o = re.sub(r"\b(1[89]\d\d|20\d\d)-(1[89]\d\d|20\d\d)\b", "\\1–\\2", o)
-        return re.sub(r"[ \u00a0]([;:?!])", "\u202f\\1", o)
+        if "$" in o or "://" in o:
+            return o
+        o = re.sub(r"(?<=\S)[ \u00a0\u202f]?([;?!])(?=\s|$)", "\u202f\\1", o)
+        return re.sub(r"(?<=\S)[ \u00a0\u202f]?:(?=\s|$)", "\u00a0:", o)
     if isinstance(o, list):
         return [typo(x) for x in o]
     if isinstance(o, dict):
@@ -486,9 +491,12 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
         pts = [l93(lieux[i]["longitude"], lieux[i]["latitude"]) for i in r["lieux"]]
         couleur = r.get("couleur", BLEU_ROUTE)
         courbures = r.get("courbures") or [r.get("courbure", 0.08)] * (len(pts) - 1)
-        for (xa, ya), (xb, yb), rad in zip(pts[:-1], pts[1:], courbures):
-            ax.add_patch(FancyArrowPatch((xa, ya), (xb, yb), arrowstyle="-|>", mutation_scale=6,
-                                         shrinkA=4, shrinkB=4, color=couleur, linewidth=0.9,
+        # « pointes » : une valeur par tronçon ; false trace un simple trait (tronçon trop court pour une flèche)
+        pointes = r.get("pointes") or [True] * (len(pts) - 1)
+        for (xa, ya), (xb, yb), rad, pointe in zip(pts[:-1], pts[1:], courbures, pointes):
+            ax.add_patch(FancyArrowPatch((xa, ya), (xb, yb), arrowstyle="-|>" if pointe else "-", mutation_scale=6,
+                                         shrinkA=4 if pointe else 2.6, shrinkB=4 if pointe else 2.0,
+                                         color=couleur, linewidth=0.9,
                                          linestyle=r.get("trait", "-"), zorder=6,
                                          connectionstyle=f"arc3,rad={rad}"))
 
@@ -550,6 +558,10 @@ def generer(spec: dict, lieux: dict, fronts: dict, mnt: MNT | None, ne_gris: Pat
             fig.lines.append(plt.Line2D([0.025], [y - 0.004], transform=fig.transFigure, marker="o",
                                         markersize=item.get("taille", 2.8), markerfacecolor="white",
                                         markeredgecolor=ENCRE, markeredgewidth=0.6, linestyle="none"))
+        elif item.get("type") == "repere":
+            fig.lines.append(plt.Line2D([0.025], [y - 0.004], transform=fig.transFigure, marker="o",
+                                        markersize=1.4, markerfacecolor="#8a8a8a", markeredgecolor="none",
+                                        linestyle="none"))
         elif item.get("type") == "zone":
             hz = 2.4 / h_mm
             for fc, hat, ec in (((0.55, 0.45, 0.42, 0.10), None, "none"),

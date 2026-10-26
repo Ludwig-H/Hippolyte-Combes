@@ -32,7 +32,7 @@ transcription: |
   arbres
   \ind Courte promenade vers 4^{H}, autour
   et ds les environs village. \hfill Visité cimetière
-  \ind Temps funèbre
+  \ind Temps funebre
 apparat:
 - ligne: 4
   lemme: entier^{t}
@@ -57,7 +57,7 @@ apparat:
 - ligne: 9
   lemme: \inc{Granger}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : Grauger (de même l.~11)'
+  note: 'lecture incertaine ; autre lecture : Grauger'
 - ligne: 10
   lemme: \inc{Renouleau}
   type: lecture
@@ -73,7 +73,7 @@ apparat:
 - ligne: 11
   lemme: \inc{Granger}
   type: lecture
-  note: 'même nom qu''à la l.~9 ; autre lecture : Grauger'
+  note: lecture incertaine, comme à la l.~9
 - ligne: 13
   lemme: intpte
   type: abreviation

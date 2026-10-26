@@ -12,7 +12,7 @@ transcription: |
   Maintenant, \inc{quitterai} sans regrets ce petit
   village & Purchase Board.
   Après breakfast, 9^{H} m. , parti \inc{en}. auto pour
-  Toutencourt. Ds ce village, laissé tout, ts mes
+  Toutencourt. Ds ce village, laissé kit, ts mes
   sacs au mess des interprète, no , rue
   de Raincheval, puis cherché gite au camp,
   no rue \trait
@@ -47,6 +47,10 @@ apparat:
   lemme: \inc{en}.
   type: lecture
   note: 'lecture incertaine ; autre lecture : à'
+- ligne: 8
+  lemme: kit
+  type: emprunt
+  note: paquetage
 - ligne: 15
   lemme: interview
   type: emprunt
@@ -57,7 +61,7 @@ apparat:
   note: 'lecture incertaine ; autre lecture : Godard'
 critique: La journée se poursuit au verso.
 historique: |
-  Hippolyte Combes croyait quitter le \textit{Purchase Board} d'Hérissart pour Toutencourt (voir f.~82~r\textsuperscript{o}). Le major Levy, peut-être Walter Henry Levy, major temporaire de l'A.S.C. (voir f.~46~r\textsuperscript{o}), obtient de la Mission qu'il reste. Le \textit{purchase board} d'armée achète paille et fourrage, fait battre et botteler et constitue des réserves (Puckle 1917, p.~28) ; celui de la Fifth Army était en décembre à Raincheval (voir f.~56~r\textsuperscript{o}). Toutencourt est le QG de la Fifth Army (LLT). Le lieutenant Godare, peut-être de la Mission, n'est pas identifié. Le billet~220, à Hérissart, était celui de l'interprète Valet (voir f.~82~r\textsuperscript{o}).
+  Hippolyte Combes croyait quitter le Purchase Board d'Hérissart pour Toutencourt (voir f.~82~r\textsuperscript{o}). Le major Levy, peut-être Walter Henry Levy, major temporaire de l'A.S.C. (voir f.~46~r\textsuperscript{o}), obtient de la Mission qu'il reste. Le \textit{purchase board} d'armée achète paille et fourrage, fait battre et botteler et constitue des réserves (Puckle 1917, p.~28) ; celui de la Fifth Army était en décembre à Raincheval (voir f.~56~r\textsuperscript{o}). Toutencourt est le QG de la Fifth Army (LLT). Le lieutenant « Godare » (lecture incertaine), peut-être de la Mission, n'est pas identifié. Le billet~220, à Hérissart, était celui de l'interprète Valet (voir f.~82~r\textsuperscript{o}).
 sources:
 - Puckle, F. K., The Army Service Corps of the British Army and the Organization of the Transport and Transportation at the Front in France, Washington, Government Printing Office, 1917, p. 28.
 - Baker, C., The Long, Long Trail, « The British Fifth or Reserve Army 1916-1918 » (longlongtrail.co.uk, copie Wayback du 23 juil. 2024).

@@ -5,7 +5,8 @@ mois: Octobre 1916
 lieux: Albert et La Boisselle (Ovillers-la-Boisselle, Somme)
 titre: 'En camion à La Boisselle : bivouacs, abris allemands, cratère de Lochnagar'
 transcription: |
-  \sl{Lundi 23} Levé très tard. \hfill \sl{oct. /16}
+  \sl{Lundi 23} \hfill \sl{oct. /16}
+  \centre Levé très tard.
   Tout le jour, temps brumeux, mais moins
   froid.
   Après-midi, avec 2 de mes offs., venu
@@ -19,18 +20,18 @@ transcription: |
   \blanc{8}
   — Cartes ples d'Albert : 70c.
 apparat:
-- ligne: 6
+- ligne: 7
   lemme: jusq
   type: abreviation
   note: jusqu'
-- ligne: 8
+- ligne: 9
   lemme: german dug-out
   type: emprunt
   note: abri souterrain allemand
 historique: |
-  La Boisselle, hameau d'Ovillers-la-Boisselle (Somme), est à 3,5~km au nord-est d'Albert, sur la route de Bapaume. Le front y passe d'octobre 1914 à juillet 1916, avec une guerre des mines (Michelin 1919, p.~36--37). Attaqué en vain le 1\textsuperscript{er}~juillet 1916 par la 34\textsuperscript{th} Division, le village est nettoyé le 4 par la 19\textsuperscript{th} Division (CWGC, Gordon Dump Cemetery). Les \textit{dug-outs} sont ceux de l'ancienne ligne allemande. Le cratère est celui de la mine de Lochnagar, mise à feu le 1\textsuperscript{er}~juillet à 7~h~28 : 90 yards de diamètre, 70 pieds de profondeur (OH~\mbox{1916-I}, p.~375, 380 ; Mérimée PA80000004). Les cartes postales coûtant 10~c à Albert (f.~50~r\textsuperscript{o}), les 70~c font sans doute sept cartes.
+  La Boisselle, hameau d'Ovillers-la-Boisselle (Somme), est à 3,5~km au nord-est d'Albert, sur la route de Bapaume. Le front y passe d'octobre 1914 à juillet 1916, avec une guerre des mines (Michelin 1919, p.~36--37). Attaqué en vain le 1\textsuperscript{er}~juillet 1916 par la 34\textsuperscript{th} Division, le village est nettoyé le 4 par la 19\textsuperscript{th} Division (CWGC, Gordon Dump Cemetery). Les \textit{dug-outs} sont ceux de l'ancienne ligne allemande. Le cratère est celui de la mine de Lochnagar, mise à feu le 1\textsuperscript{er}~juillet à 7~h~28 : 90~yards de diamètre, 70~pieds de profondeur (OH~\mbox{1916-I}, p.~375, 380 ; Mérimée PA80000004). Les cartes postales coûtant 10~c à Albert (f.~50~r\textsuperscript{o}), les 70~c font sans doute sept cartes.
 sources:
-- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 375, 380.
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Londres, Macmillan, 1932, p. 375, 380.
 - Michelin, The Somme, vol. 1, The First Battle of the Somme (1916-1917), Clermont-Ferrand, Michelin, 1919, p. 36-37.
 - Commonwealth War Graves Commission, Gordon Dump Cemetery, Ovillers-La Boisselle, notice historique (cwgc.org).
 - Ministère de la Culture, base Mérimée, notice PA80000004 (trou de mine de La Boisselle).

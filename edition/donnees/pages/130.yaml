@@ -27,7 +27,7 @@ transcription: |
   Neuilly : Tuileries – Porte-Maillot.
   Après 5 m. de marche, arrivé
   rue d'Armenonville, no \inc{4}6
-  Maison luxueuse. Au 4^{e} etage, à g.
+  Maison luxueuse. Au 4^{me} etage, à g.
 apparat:
 - ligne: 4
   lemme: l'1
@@ -62,7 +62,7 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autres lectures : 26, 66, 86'
 - ligne: 23
-  lemme: 4^{e}
+  lemme: 4^{me}
   type: abreviation
   note: quatrième
 historique: |

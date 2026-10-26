@@ -13,7 +13,7 @@ transcription: |
   Fait \sl{ensemble} marché à Victor. Hugo
   Separes devant magasins Capitole
   Rentré pr qq visites & arrangt appartt
-  après déjeuner, venus av B. \inc{Mm} & Mte à
+  après déjeun, venus av B. \inc{Mm} & Mte à
   \inc{Castanet}. Pris tram rue de St Joseph
   et descendus à terminus. Continué, route à
   pied. Mme de Labarthe, charmante
@@ -46,6 +46,10 @@ apparat:
   lemme: arrangt
   type: abreviation
   note: arrangement
+- ligne: 9
+  lemme: déjeun
+  type: abreviation
+  note: déjeuner
 - ligne: 9
   lemme: B. \inc{Mm}
   type: lecture

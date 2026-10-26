@@ -27,7 +27,7 @@ transcription: |
   averses très fortes – comme grêle.
   \ind Vers 2^{H} 30, ce crétin de Curtis venu
   me prendre : dû l'accompagner
-  à cheval, \inc{&} cette fois sur un bon pony.
+  à cheval, \inc{&} cette fois sur \inc{1} bon pony.
   \ind Longue chevauchée zone \trait
   exposée, derrière ligne de feu
 apparat:
@@ -48,6 +48,10 @@ apparat:
   type: lecture
   note: et ; signe peu net
 - ligne: 21
+  lemme: \inc{1}
+  type: lecture
+  note: 'lecture incertaine (1 lié à bon) ; autre lecture : un'
+- ligne: 21
   lemme: pony
   type: emprunt
   note: poney
@@ -55,4 +59,4 @@ critique: Les 16 et 17~août n'ont pas d'entrée ; le 18 revient sur la veille (
 historique: |
   Le \textit{refilling point} est sans doute toujours celui du bord de la Lys, près de l'écluse de Bac-Saint-Maur (voir f.~7~r\textsuperscript{o}). Les 84~F, même somme que le 27~juillet (voir f.~2~r\textsuperscript{o}), suivent le rythme des paies de quinzaine ; l'indemnité est encore nommée avec la solde le 5~septembre et le 8~octobre (voir ff.~18~v\textsuperscript{o} et 35~r\textsuperscript{o}). Le 18, la 54\textsuperscript{th} Brigade s'exerce au combat sous bois au camp de La Motte, en forêt de Nieppe ; son journal note de fortes pluies la nuit (JMO~7/Bedf, 18--21~août 1916). La « zone exposée » du 19 est la bande de 2 à 4~km qui sépare la Lys du front de Bois-Grenier ; Hippolyte Combes y traverse Fleurbaix (voir f.~11~v\textsuperscript{o}). Le lieutenant Curtis n'est pas identifié.
 sources:
-- Bedfordshire Archives Service, X550/8/1/1608, War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (JMO 7/Bedf).
+- Bedfordshire Archives Service, X550/8/1/1608, War Diary, 7th (Service) Battalion Bedfordshire Regiment, août 1916 (JMO~7/Bedf).

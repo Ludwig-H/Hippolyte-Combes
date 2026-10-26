@@ -134,8 +134,8 @@ def rendre(s: str, notes: list | None = None) -> str:
 def _lemme(s: str) -> str:
     """Lemme automatique : sans les balises de rature, d'ajout, etc., mais avec les lettres suscrites."""
     s = re.sub(r"\^\{([^{}]*)\}", lambda m: "\x01" + m.group(1) + "\x02", s)
+    s = re.sub(r"\\sur\{(?:[^{}]|\{[^{}]*\})*\}\{", "", s)  # avant les autres balises : \sur{\inc{a}}{b}
     s = re.sub(r"\\(sl|sll|del|add|addm|inc)\{", "", s)
-    s = re.sub(r"\\sur\{[^{}]*\}\{", "", s)
     s = s.replace("\\hfill", " ").replace("\\ill", "[illis.]").replace("}", "")
     s = s.replace("\x01", "^{").replace("\x02", "}")
     return re.sub(r"\s+", " ", s).strip()
@@ -143,8 +143,8 @@ def _lemme(s: str) -> str:
 
 def _brut(s: str) -> str:
     """Forme lisible (sans balises) pour les lemmes automatiques."""
+    s = re.sub(r"\\sur\{(?:[^{}]|\{[^{}]*\})*\}\{", "", s)  # avant les autres balises : \sur{\inc{a}}{b}
     s = re.sub(r"\\(sl|sll|del|add|addm|inc)\{", "", s)
-    s = re.sub(r"\\sur\{[^{}]*\}\{", "", s)
     s = re.sub(r"\^\{([^{}]*)\}", r"\1", s)
     s = s.replace("\\hfill", " ").replace("\\ill", "[illis.]").replace("}", "")
     return re.sub(r"\s+", " ", s).strip()

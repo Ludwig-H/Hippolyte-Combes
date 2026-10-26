@@ -90,6 +90,24 @@ def table_concordance(codico: list[dict], pages: dict) -> str:
     ])
 
 
+def hauteur_commune(illustrations: list[dict], plafond: float = 44.0, legende: float = 48.0, intervalle: float = 8.0) -> float:
+    """Hauteur (mm) commune aux photographies d'une ouverture de chapitre : la plus grande, au plus le plafond de
+    \\LJphoto, pour laquelle les photographies, chacune dans un cadre d'au moins la largeur minimale de légende,
+    tiennent côte à côte dans la justification (intervalle de 8 mm, comme dans l'ouverture)."""
+    from PIL import Image
+    pre = (ICI / "preambule.tex").read_text(encoding="utf-8")
+    dim = {k: float(v) for k, v in re.findall(r"(paperwidth|inner|outer)=([\d.]+)mm", pre)}
+    justification = dim["paperwidth"] - dim["inner"] - dim["outer"]
+    rapports = []
+    for i in illustrations:
+        with Image.open(EDITION / i["fichier"]) as im:
+            rapports.append(im.size[0] / im.size[1])
+    h = plafond
+    while h > 10 and sum(max(h * r, legende) for r in rapports) + intervalle * (len(rapports) - 1) > justification:
+        h -= 0.1
+    return h
+
+
 def construire(dossier_pages: Path, dossier_images: str, sortie: Path) -> None:
     codico = charger(EDITION / "donnees" / "codicologie.yaml")["cliches"]
     chapitres = charger(EDITION / "donnees" / "chapitres.yaml")["chapitres"]
@@ -112,15 +130,21 @@ def construire(dossier_pages: Path, dossier_images: str, sortie: Path) -> None:
         n = c["cliche"]
         if n in debut_chapitre:
             ch = debut_chapitre[n]
-            photos = [r"\LJphoto{%s}{%s}{%s}" % (i.get("largeur", "0.48\\textwidth"), i["fichier"], i["legende"])
-                      for i in ch.get("illustrations", [])]
-            illus = r"\hspace*{\fill}" + photos[0] + r"\hspace*{\fill}" if len(photos) == 1 else " \\hfill ".join(photos)
+            illustrations = ch.get("illustrations", [])
+            if len(illustrations) > 1:  # côte à côte, à la même hauteur
+                h = hauteur_commune(illustrations)
+                photos = [r"\LJphoto[%.1fmm]{\textwidth}{%s}{%s}" % (h, i["fichier"], i["legende"]) for i in illustrations]
+            else:
+                photos = [r"\LJphoto{%s}{%s}{%s}" % (i.get("largeur", "0.48\\textwidth"), i["fichier"], i["legende"])
+                          for i in illustrations]
+            illus = r"\hspace*{\fill}" + r"\hspace{8mm}".join(photos) + r"\hspace*{\fill}"
             corps.append(r"\LJouverture{%s}{%s}{%s}{cartes/pdf/carte_%s.pdf}{%s}" % (
                 ch["numero"], ch["titre"], ch["periode"], ch["numero"], illus))
             corps.append(texte(f"chapitres/{ch['numero']}.tex"))
             fin = ch.get("illustration_fin")
-            corps.append(r"\LJfinintro{%s}" % (
-                r"\begin{center}\LJphoto{\textwidth}{%s}{%s}\end{center}" % (fin["fichier"], fin["legende"]) if fin else ""))
+            corps.append(r"\LJfinintro{%s}{%s}" % (
+                r"\begin{center}\LJphotofin{%s}{%s}\end{center}" % (fin["fichier"], fin["legende"]) if fin else "",
+                Path(fin["fichier"]).stem if fin else ""))
         p = pages[n]
         meta = {
             "feuillet": folio(c["feuillet"], c["face"]),

@@ -42,7 +42,7 @@ apparat:
 - ligne: 10
   lemme: \inc{convers^{n}}
   type: lecture
-  note: conversation ; lecture incertaine, « converser » possible
+  note: 'conversation ; lecture incertaine ; autre lecture : converser'
 - ligne: 13
   lemme: fo
   type: lecture

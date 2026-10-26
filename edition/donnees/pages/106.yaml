@@ -14,7 +14,7 @@ transcription: |
   Septenville et Herissart. Déjeuné chz Lieut^{t} Walsh
   Après lunch, venus j-à Marcelcave Passé
   à Corbie et Villers-Bretonneux
-  Retour par Warfusée-Abancourt.
+  Retour par Warfusée-\inc{Ablyncourt}.
   Tt jour, brume glaciale enveloppé choses.
   Moulins squelettiques au \fr{1}{2} des champs.
   Heures mornes en auto : pu ruminer &
@@ -28,7 +28,7 @@ transcription: |
   Tout le matin, ds la grange de Mme Guerle
   soleil brillé 1 peu –
   Après-midi, courses en auto à
-  ferme de Belle Église (Arqueves et à Louvencourt
+  ferme de Belle Eglise (Arqueves) et à Louvencourt
   \ind Rentré pour le thé et dès lors liberté
   Lt Walsh & un interprète, invités à diner
   Capt. Williams (charmant et de + en + sympathique
@@ -38,9 +38,9 @@ apparat:
   type: lecture
   note: « cave » traversé par le délié de Marcel, non biffé
 - ligne: 10
-  lemme: Abancourt
+  lemme: \inc{Ablyncourt}
   type: lecture
-  note: aspect « Ablyncourt » ; lu d'après le toponyme
+  note: 'lecture incertaine ; autre lecture : Ablincourt ; pour Abancourt'
 - ligne: 12
   lemme: au \fr{1}{2} des champs
   type: abreviation
@@ -52,7 +52,7 @@ apparat:
 - ligne: 17
   lemme: 78^{f} 75 c
   type: lecture
-  note: 78~francs 75 ; f et 75 peu nets
+  note: 78,75~F ; f et 75 peu nets
 - ligne: 18
   lemme: rapidt
   type: abreviation
@@ -66,8 +66,8 @@ apparat:
   type: abreviation
   note: Captain, capitaine
 historique: |
-  La course mène à quelque 25~km au sud d'Acheux (geo.api.gouv.fr) : au-delà de Corbie, Villers-Bretonneux, Marcelcave et Warfusée-Abancourt (auj. Lamotte-Warfusée) sont hors de la zone britannique ; elle sera étendue en janvier 1917 jusqu'à la route Amiens–Roye (OH~\mbox{1917-I}, p.~37, 43). Le lieutenant Walsh, d'Hérissart, est déjà connu (voir ff.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}) ; l'interprète invité avec lui est peut-être le sien, M. Deloney (?). La solde de 78~F~75 est celle d'une quinzaine (voir f.~23~v\textsuperscript{o}) ; la suivante sera versée le 19 (voir f.~56~r\textsuperscript{o}). Belle-Église, hameau d'Arquèves, était tête de ligne de ravitaillement en juillet 1916 (OH~\mbox{1916-I}, p.~274) ; on y battra la paille à partir du 8 (voir f.~54~r\textsuperscript{o}).
+  La course mène à quelque 25~km au sud d'Acheux (geo.api.gouv.fr) : au-delà de Corbie, Villers-Bretonneux, Marcelcave et Warfusée-Abancourt (auj. Lamotte-Warfusée) sont hors de la zone britannique ; elle sera étendue vers le sud en février 1917, jusqu'à la route Amiens–Roye le 26 (OH~\mbox{1917-I}, p.~45, 62--63). Le lieutenant Walsh, d'Hérissart, est déjà connu (voir ff.~49~v\textsuperscript{o}, 51~v\textsuperscript{o}) ; l'interprète invité avec lui est peut-être le sien, M. Deloney (?). La solde de 78,75~F est celle d'une quinzaine (voir f.~23~v\textsuperscript{o}) ; la suivante sera versée le 19 (voir f.~56~r\textsuperscript{o}). Belle-Église, hameau d'Arquèves, était tête de ligne de ravitaillement en juillet 1916 (OH~\mbox{1916-I}, p.~274) ; on y battra la paille à partir du 8 (voir f.~54~r\textsuperscript{o}).
 sources:
-- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 274.
-- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 37, 43.
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Londres, Macmillan, 1932, p. 274.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, Londres, Macmillan, 1940, p. 45, 62-63.
 - geo.api.gouv.fr, coordonnées des mairies (distances à vol d'oiseau).

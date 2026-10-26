@@ -34,6 +34,7 @@
   Extension = .otf, UprightFont = *-Regular, ItalicFont = *-Italic, BoldFont = *-Bold, Numbers = Lining]
 \usepackage[french]{babel}
 \frenchsetup{StandardItemLabels=true}
+\babelhyphenation{Hippolyte d'Hippolyte d’Hippolyte} % jamais coupé, même après l'élision
 \usepackage{microtype}
 \usepackage{needspace}
 \usepackage{placeins}
@@ -47,9 +48,23 @@
 \usepackage{enumitem}
 \usepackage{xparse}
 \usepackage{yfonts}
-\usepackage[hyphens]{url}
+\usepackage{xurl}
+% adresses : coupure de préférence après / . - _ ? & = # (pénalité faible), entre deux lettres ou chiffres
+% seulement s'il le faut, jamais après « : » (https:)
+\makeatletter
+\def\UrlBreaks{\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t%
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N\do\O\do\P%
+  \do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z\do0\do1\do2\do3\do4\do5\do6\do7\do8\do9}
+\def\UrlBigBreaks{\do\/\do\.\do\-\do\_\do\?\do\&\do\=\do\#\do\@\do\,\do\;\do\)}
+\mathchardef\UrlBreakPenalty=6000
+\mathchardef\UrlBigBreakPenalty=100
+\makeatother
 \usepackage{metalogo}
 \usepackage{hyperref}
+\usepackage{refcount}
+% Renvoi à deux lignes d'une pièce annexe : « p. X » si elles sont sur la même page, sinon « p. X--Y »
+\newcommand{\LJpages}[2]{\edef\LJpagea{\getpagerefnumber{#1}}\edef\LJpageb{\getpagerefnumber{#2}}%
+  p.~\pageref{#1}\ifx\LJpagea\LJpageb\else--\pageref{#2}\fi}
 \urlstyle{same}% adresses dans la police du texte, partout
 \hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=black,
   pdfauthor={Hippolyte Combes (1876–1970)},
@@ -356,16 +371,33 @@
   \vfill
   \noindent #5\par
   \clearpage}
-% Photographie légendée (dans une ouverture ou une page d'illustration) ; #1 largeur ; #2 fichier ; #3 légende
-\newcommand{\LJphoto}[3]{%
-  \setbox\LJboxN\hbox{\includegraphics[width=#1,height=44mm,keepaspectratio]{#2}}%
-  \begin{minipage}[t]{\wd\LJboxN}\centering
+% Photographie légendée (ouverture de chapitre) ; #1 (facultatif) hauteur ; #2 largeur maximale ; #3 fichier ; #4 légende
+\newlength{\LJlegende}
+\newcommand{\LJphoto}[4][44mm]{%
+  \setbox\LJboxN\hbox{\includegraphics[width=#2,height=#1,keepaspectratio]{#3}}%
+  \setlength{\LJlegende}{\wd\LJboxN}\ifdim\LJlegende<48mm \setlength{\LJlegende}{48mm}\fi
+  \begin{minipage}[t]{\LJlegende}\centering
     \box\LJboxN\par\vspace{0.8mm}
-    {\scriptsize\raggedright #3\par}
+    {\scriptsize\raggedright #4\par}
+  \end{minipage}}
+% Photographie seule sur une page (illustration de fin) : #1 fichier ; #2 légende
+\newcommand{\LJphotofin}[2]{%
+  \setbox\LJboxN\hbox{\includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{#1}}%
+  \begin{minipage}{\wd\LJboxN}\centering
+    \box\LJboxN\par\vspace{1.2mm}
+    {\footnotesize\raggedright #2\par}
   \end{minipage}}
 % Fin d'une introduction : si la page suivante est impaire (la double page de transcription ne pourrait pas
-% commencer), elle reçoit l'illustration #1 au lieu de rester blanche.
-\newcommand{\LJfinintro}[1]{\clearpage\ifodd\value{page}\thispagestyle{plain}\vspace*{\fill}#1\vspace*{\fill}\clearpage\fi}
+% commencer), elle reçoit l'illustration #1 au lieu de rester blanche ; le nom de l'image (#2) est noté dans le
+% fichier .aux, pour que l'annexe des sources ne crédite que les illustrations imprimées (\LJsiimprimee).
+\newcommand{\LJfinintro}[2]{\clearpage\ifodd\value{page}%
+  \if\relax\detokenize{#2}\relax\thispagestyle{empty}\mbox{}%
+  \else\thispagestyle{plain}\vspace*{\fill}#1\vspace*{\fill}%
+    \immediate\write\csname @auxout\endcsname{\string\LJfinimprimee{#2}}\fi
+  \clearpage\fi}
+\long\def\LJpremier#1{#1}\long\def\LJrien#1{}
+\newcommand{\LJfinimprimee}[1]{\expandafter\gdef\csname LJfin@#1\endcsname{}}
+\newcommand{\LJsiimprimee}[1]{\ifcsname LJfin@#1\endcsname\expandafter\LJpremier\else\expandafter\LJrien\fi}
 
 % Transcription d'une lettre en annexe (paragraphes de l'original ; police de la transcription)
 \newenvironment{LJlettre}{\par\vspace{1mm}\begingroup\LJpolice\small

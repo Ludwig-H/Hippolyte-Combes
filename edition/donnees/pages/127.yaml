@@ -3,9 +3,9 @@ fichier: 20251126_110024.jpg
 date: Mardi 23 (soir) – jeudi 25 janvier 1917
 mois: Janvier 1917
 lieux: Acheux-en-Amiénois (Somme)
-titre: Conférence sur le Canada au Y.M.C.A. ; grand gel ; départ prêt ; mess de janvier
+titre: Conférence sur le Canada à la Y.M.C.A. ; gel ; départ prêt ; mess de janvier
 transcription: |
-  \sl{23 Ma} \hfill \sl{Janvier 17}
+  \sl{23 Ma} \hfill \sl{Janvier '17}
   \ind Soir, Y.M.C.A hut,
   a very interesting lecture on Canada
   \filet
@@ -28,6 +28,10 @@ transcription: |
   faits pour partir demain 3^{H} 1/2
   \ind [ — Dépenses mess pour janvier = 79^{f} 10
 apparat:
+- ligne: 1
+  lemme: '''17'
+  type: abreviation
+  note: '1917'
 - ligne: 3
   lemme: a very interesting lecture on Canada
   type: emprunt
@@ -51,7 +55,7 @@ apparat:
 critique: |
   La journée du 23, commencée au recto (f.~63~r\textsuperscript{o}), se termine en tête de page.
 historique: |
-  La hutte de la Y.M.C.A. d'Acheux, où Hippolyte Combes a entendu les chanteurs du XIII~Corps (voir ff.~58~r\textsuperscript{o}, 60~r\textsuperscript{o}), accueille aussi des conférences, à entrée gratuite (Yapp 1918, chap.~IV) ; le conférencier n'est pas connu. Le froid culmine le 25 : 15~°F, environ $-9$~°C, et aucune opération connue n'explique le « violent bombardemt. » de la nuit (OH~\mbox{1917-I}, p.~69). Le départ du 26 se fait par la voie métrique, en gare d'Acheux-Varennes (f.~64~r\textsuperscript{o}). Les 79~F~10 de mess pour janvier font près de la moitié des 162~F~75 reçus de la Mission ce mois-là (ff.~60~r\textsuperscript{o}, 62~v\textsuperscript{o}), soit un peu plus de 3~F par jour pour vingt-cinq jours (calcul de l'éditeur) ; le mess de décembre, noté 88~F, faisait en fait 78~F (f.~58~v\textsuperscript{o}).
+  La hutte de la Y.M.C.A. d'Acheux, où Hippolyte Combes a entendu les chanteurs du XIII~Corps (voir ff.~58~r\textsuperscript{o}, 60~r\textsuperscript{o}), accueille aussi des conférences, à entrée gratuite (Yapp 1918, chap.~\textsc{iv}) ; le conférencier n'est pas connu. Le froid culmine le 25 : 15~°F, environ $-9$~°C, et aucune opération connue n'explique le « violent bombardemt. » de la nuit (OH~\mbox{1917-I}, p.~69). Le départ du 26 se fait par la voie métrique, en gare d'Acheux-Varennes (f.~64~r\textsuperscript{o}). Les 79,10~F de mess pour janvier font près de la moitié des 162,75~F reçus de la Mission ce mois-là (ff.~60~r\textsuperscript{o}, 62~v\textsuperscript{o}), soit un peu plus de 3~F par jour pour vingt-cinq jours (calcul de l'éditeur) ; le mess de décembre, noté 88~F, faisait en fait 78~F (f.~58~v\textsuperscript{o}).
 sources:
-- Yapp, A. K., The Romance of the Red Triangle, London, Hodder and Stoughton, 1918, chap. IV, « The Romance of Finance », p. 39-62.
-- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 69.
+- Yapp, A. K., The Romance of the Red Triangle, Londres, Hodder and Stoughton, 1918, chap. IV, « The Romance of Finance », p. 39-62.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, Londres, Macmillan, 1940, p. 69.

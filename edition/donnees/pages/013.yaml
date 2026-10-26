@@ -3,7 +3,7 @@ fichier: 20251126_093412.jpg
 date: Dimanche 6 août 1916
 mois: Août 1916
 lieux: La Croix-du-Bac (Steenwerck, Nord) ; Bac-Saint-Maur (Sailly-sur-la-Lys, Pas-de-Calais)
-titre: Au refilling point avec Curtis ; église de Bac-Saint-Maur ; musique avec Maurin
+titre: Au \textit{refilling point} avec Curtis ; église de Bac-Saint-Maur ; musique avec Maurin
 transcription: |
   \sl{Dim – 6.} \hfill Aout \sl{1916}
   \ind Levé dès 7^{H} \fr{1}{2} –
@@ -23,7 +23,7 @@ transcription: |
   \filet
   \ind Payé à ma prop^{re} : oeufs, lait &
   bière : 90c.. — 1 litre lait : 25 + 0.05 —
-  \ind — C^{tes} p^{les} : 10 c
+  \ind — C^{tes} ples : 10 c
 apparat:
 - ligne: 13
   lemme: mil^{re}
@@ -42,9 +42,9 @@ apparat:
   type: compte
   note: 25 c + 5 c = 30 c ; total non porté
 historique: |
-  Le \textit{refilling point} « sur rive canal \& près d'écluse » est sans doute au bord de la Lys, près de l'écluse de Bac-Saint-Maur, à 1,6~km de La Croix-du-Bac (CanalPlan ; voir f.~8~v\textsuperscript{o}). En secteur stabilisé, les camions de la \textit{supply column} vont jusque dans la zone de chaque brigade, où l'on place ces points (FSPB 1914, p.~175). Bac-Saint-Maur, hameau de Sailly-sur-la-Lys, est alors la tête de ligne des vivres du secteur (Ellis [1920], p. 119--120). L'« usine » voisine de l'église est peut-être la linerie que les Britanniques appellent « Edwards's Linen Factory » (CWGC, Trois Arbres Cemetery). Maurin, sans doute un autre interprète, n'est pas identifié.
+  Le \textit{refilling point} « sur rive canal \& près d'écluse » est sans doute au bord de la Lys, près de l'écluse de Bac-Saint-Maur, à 1,6~km de La Croix-du-Bac (CanalPlan ; voir f.~8~v\textsuperscript{o}). En secteur stabilisé, les camions de la \textit{supply column} vont jusque dans la zone de chaque brigade, où l'on place ces points (FSPB 1914, p.~175). Bac-Saint-Maur, hameau de Sailly-sur-la-Lys, est alors la tête de ligne des vivres du secteur (Ellis [1920], p.~119--120). L'« usine » voisine de l'église est peut-être la linerie que les Britanniques appellent « Edwards's Linen Factory » (CWGC, Trois Arbres Cemetery). Maurin, sans doute un autre interprète, n'est pas identifié.
 sources:
-- Ellis, A. D., The Story of the Fifth Australian Division, London, Hodder & Stoughton, [1920], pp. 119-120.
+- Ellis, A. D., The Story of the Fifth Australian Division, Londres, Hodder & Stoughton, [1920], p. 119-120.
 - Commonwealth War Graves Commission, Trois Arbres Cemetery, Steenwerck, historique.
-- Field Service Pocket Book, 1914, London, HMSO, 1914, chap. 6, « Supply », § 7, p. 175.
+- Field Service Pocket Book, 1914, Londres, HMSO, 1914, chap. 6, « Supply », § 7, p. 175.
 - CanalPlan AC, « Lys », https://canalplan.co.uk/waterway/zuwi (consulté le 18 oct. 2026).

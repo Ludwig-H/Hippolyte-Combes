@@ -12,7 +12,7 @@ transcription: |
   métro Tuileries. Changé au Chatelet pr
   \addm{station} gare du Nord
   Laissé paquets consigne gare du Nord
-  Descendu en flânant rue La Fayette
+  Descendu en flânant rue \inc{La} Fayette
   Entré et repos \inc{egl St}-Vincent-de-Paul.
   admiré lentement peintures murales
   et rangées superposées de belles colonnes
@@ -30,13 +30,13 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autres lectures : paru, paraît'
 - ligne: 8
-  lemme: La
+  lemme: \inc{La}
   type: lecture
   note: 'lecture incertaine ; autre lecture : de'
 - ligne: 9
   lemme: \inc{egl St}
   type: abreviation
-  note: 'église Saint ; lecture incertaine ; autre lecture : église St'
+  note: église Saint ; lecture incertaine
 - ligne: 13
   lemme: Mag
   type: abreviation
@@ -48,7 +48,7 @@ apparat:
 - ligne: 16
   lemme: commence
   type: ajout
-  note: ajouté sans correction de « brille »
+  note: ajouté dans l'interligne, sans correction de « brille »
 historique: |
   Le train de nuit arrive à la gare d'Orsay, terminus de la Compagnie d'Orléans. Pour gagner la gare du Nord, Hippolyte Combes refait en sens inverse le trajet de l'aller (voir f.~26~v\textsuperscript{o}) : ligne 1 des Tuileries au Châtelet, puis ligne 4, ouverte en 1908 (RATP). L'église Saint-Vincent-de-Paul (X\textsuperscript{e} arr.) a été bâtie par Lepère et Hittorff de 1824 à 1844 ; ses deux étages de colonnes encadrent la frise peinte de la nef, œuvre d'Hippolyte Flandrin (1850--1854) (Mérimée PA00086489 ; Baedeker 1913). Les Grands Magasins du Louvre font face au palais, rue de Rivoli (Baedeker 1913, p.~51) ; ils offraient à leurs clients un salon de correspondance.
 sources:

@@ -24,7 +24,7 @@ transcription: |
   de ces avions et taches blanches
   Arrivé à Acheux, vers 1^{H} \fr{1}{2}
   me suis rendu à pied ancien billet
-  M. & Mme \inc{Carluvant} m'ont offert déjeuner
+  M. & Mme \inc{Carlumont} m'ont offert déjeuner
   sommaire.
   Après m'être rasé, lavé, brossé, sorti,
 apparat:
@@ -38,15 +38,15 @@ apparat:
   note: 'lecture incertaine (d''un) ; autre lecture, sans sens : et 1'
 - ligne: 14
   lemme: taubes
-  type: emprunt
-  note: avions allemands (allemand Taube, « colombe »)
+  type: autre
+  note: avions allemands (all. \textit{Taube}, « colombe »)
 - ligne: 20
-  lemme: \inc{Carluvant}
+  lemme: \inc{Carlumont}
   type: lecture
-  note: 'lecture incertaine ; autres lectures : Carlumont, Corlemont'
+  note: 'lecture incertaine ; autres lectures : Corlumont, Carlymont'
 historique: |
-  Le voyage se fait en pleine vague de froid, du 16~janvier au 16~février (Barbé 1917, p.~181--182). Sur la Y.M.C.A. d'Amiens, voir f.~65~r\textsuperscript{o}. Le « train de Doullens » le ramène, sans doute par Gézaincourt, sur la voie métrique d'Albert à Doullens, qui dessert Louvencourt et Acheux-Varennes (OH~\mbox{1916-I}, p.~273 ; trajet inverse au f.~64~r\textsuperscript{o}). Les « taches blanches » sont les éclatements des obus antiaériens britanniques, l'\textit{Archie} (Fraser et Gibbons 1925, s.v.). Les Carluvant (forme incertaine), logeurs d'Hippolyte Combes (f.~47~r\textsuperscript{o}), ne sont pas identifiés. Le mari, tailleur (f.~51~r\textsuperscript{o}), avait annoncé le 1\textsuperscript{er}~janvier qu'il devrait quitter sa maison (f.~59~r\textsuperscript{o}).
+  Le voyage se fait en pleine vague de froid, du 16~janvier au 16~février (Barbé 1917, p.~181--182). Sur la Y.M.C.A. d'Amiens, voir f.~65~r\textsuperscript{o}. Le « train de Doullens » le ramène, sans doute par Gézaincourt, sur la voie métrique d'Albert à Doullens, qui dessert Louvencourt et Acheux-Varennes (OH~\mbox{1916-I}, p.~273 ; trajet inverse au f.~64~r\textsuperscript{o}). Les « taches blanches » sont les éclatements des obus antiaériens britanniques, l'\textit{Archie} (Fraser et Gibbons 1925, s.v.). Les Carlumont (forme incertaine), logeurs d'Hippolyte Combes (f.~47~r\textsuperscript{o}), ne sont pas identifiés. Le mari, tailleur (f.~51~r\textsuperscript{o}), avait annoncé le 1\textsuperscript{er}~janvier qu'il devrait quitter sa maison (f.~59~r\textsuperscript{o}).
 sources:
 - Barbé, G., « L'hiver 1916-1917 », Journal d'agriculture pratique, n. s., t. 30, Paris, Librairie agricole de la Maison rustique, 1917, p. 181-182.
-- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 273.
-- Fraser, E., et Gibbons, J., Soldier and Sailor Words and Phrases, London, Routledge, 1925, s.v. « Archie », « Taube ».
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Londres, Macmillan, 1932, p. 273.
+- Fraser, E., et Gibbons, J., Soldier and Sailor Words and Phrases, Londres, Routledge, 1925, s.v. « Archie », « Taube ».

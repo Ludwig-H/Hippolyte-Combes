@@ -51,9 +51,9 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : délicis'
 - ligne: 17
-  lemme: p. Remq
+  lemme: p. \inc{Remq}
   type: lecture
-  note: lecture incertaine (p. Remy ? p. Rem. ?) ; sens obscur
+  note: 'lecture incertaine ; autres lectures : p. Remy, p. Rem. ; sens obscur'
 - ligne: 19
   lemme: Terre-Cabade
   type: graphie
@@ -89,4 +89,4 @@ sources:
 - L'Express du Midi (Toulouse), 11 févr. 1907, p. 2 (obsèques du P. Marie-Antoine) (Rosalis, ark:/12148/bpt6k53687164).
 - L'Express du Midi (Toulouse), 18 sept. 1914, p. 2 (faire-part du P. Alfred d'Adhémar de Cransac) (Rosalis, ark:/12148/bpt6k53841631).
 - Le Télégramme (Toulouse), 23 nov. 1912, p. 3.
-- Combes, Pierre, « Mon grand-père Hippolyte Combes (et ses sœurs) », biographie familiale dactylographiée, s. d.
+- Combes, Pierre, « Mon grand-père Hippolyte Combes (et ses sœurs) », biographie familiale dactylographiée, s. d. (PC-Bio), archives familiales.

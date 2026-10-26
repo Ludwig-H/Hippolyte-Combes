@@ -132,6 +132,8 @@ def _note(e: dict) -> str:
         corps = r"\textit{%s}" % editorial(dev) + (sep + _angl(editorial(reste)) if sep else "")
     else:
         corps = _angl(editorial(note))
+    # « [illis.] » des notes automatiques : « illis. » en italique, comme dans la transcription (\LJill)
+    lem, corps = (x.replace("[illis.]", r"[\textit{illis.}]") for x in (lem, corps))
     if lem:
         # lemme court : jamais coupé en fin de ligne
         if len(_brut(lemme)) <= 24:

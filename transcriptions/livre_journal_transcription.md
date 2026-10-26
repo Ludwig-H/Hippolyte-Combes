@@ -96,8 +96,8 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  <ins>A Renescure</ins> : boite de plumes : 1<sup>f</sup>50. —
  19          2 carnets timbres-postes : 2<sup>f</sup> + 2<sup>f</sup>. —
  20  Cartes p<sup>les</sup> : d Ypres : 1<sup>f</sup>20. – C. P de Renescure : 60c +
- 21          Solde : 84 fr. —      C. p<sup>les</sup> (varia) : 50c. —
- 22  A Hazebrouck C. p<sup>les</sup> : 60 + 10 c. –      1 cahier cartonné : 1<sup>f</sup>50
+ 21          Solde : 84 fr. —      C. ples (varia) : 50c. —
+ 22  A Hazebrouck C. ples : 60 + 10 c. –      1 cahier cartonné : 1<sup>f</sup>50
  23  Cte d Etat-major : 90c.      3 elastiq [?] de rechange
  24  (bretelles) : 65c —
 </pre>
@@ -363,7 +363,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
      ————————————
  15      Payé à ma prop<sup>re</sup> : oeufs, lait &
  16  bière : 90c.. — 1 litre lait : 25 + 0.05 —
- 17      — C<sup>tes</sup> p<sup>les</sup> : 10 c
+ 17      — C<sup>tes</sup> ples : 10 c
 </pre>
 
 ## f. 7 v° — Lundi 7 août 1916
@@ -577,7 +577,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  18  averses très fortes – comme grêle.
  19      Vers 2<sup>H</sup> 30, ce crétin de Curtis venu
  20  me prendre : dû l'accompagner
- 21  à cheval, & [?] cette fois sur un bon pony.
+ 21  à cheval, & [?] cette fois sur 1 [?] bon pony.
  22      Longue chevauchée zone  ——
  23  exposée, derrière ligne de feu
 </pre>
@@ -695,7 +695,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  Depense d'activité & fatigues physique
  18      ft [?] de bien à mon moral
  19  Sensation d'équilibre & santé [?] parfaite
- 20          C<sup>tes</sup> p<sup>les</sup> à Estaires : 35c
+ 20          C<sup>tes</sup> ples à Estaires : 35c
  21  1/4 livre bonbons chocolat : 75c –
 </pre>
 
@@ -758,7 +758,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Bailleul (Nord) ; Saint-Pol-sur-Ternoise et Marquay (Pas-de-Calais)*
 
 <pre>
-  1  <ins>Ven 25 (suite)</ins>      Aout <ins>1916</ins>
+  1  <ins>Ven. 25</ins> (suite)      Aout <ins>1916</ins>
   2  En gare de Bailleul, vers 1<sup>H</sup>, – ds le
   3  train, jouée [?] par tommies, musique
   4  d'harmonique [?], monotone & banal
@@ -789,7 +789,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 <pre>
   1  <ins>Sam. 26 –</ins>      <ins>Aout/16</ins>
   2      Bien reposé, quoique dans chambrette étroite
-  3  ax murs moisis ...      Levé dès 7H 1/2
+  3  ax murs moisis ...      Levé dès 7H 1/2 [?]
   4  Matinée, de nouveau, très fortes ondées.
   5  Après-midi, enfin, pluie a
   6  cessé –
@@ -1123,7 +1123,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   4  Chevauché matinée entière – Après 3<sup>H</sup> soir,
   5  seulement, arrivé à Raincheval
   6  aujd'hui souffert poussière.
-  7  At [?] 11<sup>H</sup> m. soleil perce nuages – et
+  7  At [?] 11<sup>H</sup> m., soleil perce nuages – et
   8  très ardent
   9  Traversé régions pittoresques : coteaux
  10  boisés, petite vallée verdoyante,
@@ -1293,11 +1293,11 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Raincheval (Somme)*
 
 <pre>
-  1  22 <ins>Ve –</ins> Enfin, temps splendide      <ins>Sept /16</ins>
+  1  22 <ins>Ve</ins> – Enfin, temps splendide      <ins>Sept /16</ins>
   2  ciel d'1 bleu intense – Soleil ardent 1/2 jour
   3  Apres-midi, promené j-à la station de
   4  Raincheval et me suis renseigné horaire trains
-  5  Au retour assisté match de football –
+  5  Au retour, assisté match de football –
   6  s/ prairie à coté horse-lines the Bedfs
   7  maillots rouge vif, " blancs – à l'arrière-
   8  -plan, très beaux arbres ——
@@ -1312,7 +1312,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
      ————————————
  16      2 tins of coffee milk, à la
  17          Cantine : 3<sup>f</sup> [?]
- 18      Eggs & food : 1 f 10 —
+ 18      Eggs & food : 1 f 10 [?] —
 </pre>
 
 ## f. 24 v° — Samedi 23 septembre 1916
@@ -1435,7 +1435,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   1  <ins>mardi 26</ins>      <ins>Sept<sup>r</sup> 16</ins>
   2      Vers 6<sup>H</sup> m., encore nuit, dû descendre gare
   3  du Bourget.
-  4  Suivi voies, j'que [?] bureau militre. Là
+  4  Suivi voies, j'que [?] bureau milit<sup>re</sup>. Là
   5  obtenu l'autorison de sortir et accompagné
   6  par un planton jà la porte  ——
   7  du Bourget, sortie de la rue de Flandre,
@@ -1481,7 +1481,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  Dejeun : 1<sup>f</sup>60. – Diner : 1<sup>f</sup>60. – C<sup>tes</sup> p<sup>les</sup> : 15 c
  18  Fleurs artif<sup>lles</sup>, Hotel de Ville : 8<sup>f</sup>50 couronne  ——
  19  Kepi (au Bon Marché : 8<sup>f</sup>75. – Consigne : 15 c [?]
- 20  Carte de Verdun : 50 c – Entretien [?] souliers : 30 c
+ 20  Carte de Verdun : 10 c [?] – Entretien [?] souliers : 30 c
  21  Carte Roumanie : 30 c – Divers [?] : W.C : 15 c
 </pre>
 
@@ -1490,7 +1490,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Toulouse (Haute-Garonne)*
 
 <pre>
-  1  <ins>27 mer.</ins>      Sept <ins>1916</ins>
+  1  <ins>27 mer.</ins>      Sept<sup>r</sup> <ins>1916</ins>
   2  nuit passée ds [?] wag<sup>t</sup> [?]. Dormi 1 peu
   3  A 7<sup>H</sup> 30 m., arrivé a Toulouse
   4  Pris tram et vers 8<sup>H</sup>, ds mon appartement
@@ -1613,7 +1613,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 <pre>
   1  <ins>1er D.</ins>      <ins>Octobre /16</ins>
   2  Matin, à St. Etienne. Entendu
-  3  messe curé [?] – 8<sup>H</sup> autel paroissial. M<sup>te</sup>, à ma droite
+  3  messe curé [?] – 8<sup>H</sup> autel paroissial – M<sup>te</sup>, à ma droite
   4  Matinée, ds mon appart<sup>t</sup>, à ranger mes choses
   5  Joui du calme & silence —
   6  monté déjeun à S<sup>te</sup> Marie –      Temps très beau
@@ -1674,7 +1674,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   6  Fait <ins>ensemble</ins> marché à Victor. Hugo
   7  Separes devant magasins Capitole
   8  Rentré pr qq visites & arrangt appartt
-  9  après déjeuner, venus av B. Mm [?] & Mte à
+  9  après déjeun, venus av B. Mm [?] & Mte à
  10  Castanet [?]. Pris tram rue de St Joseph
  11  et descendus à terminus. Continué, route à
  12  pied. Mme de Labarthe, charmante
@@ -1698,7 +1698,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   3  & fournitures tunique — 38<sup>f</sup>
   4  – Semestre à Mlle Guilh : 90<sup>f</sup> –
   5          (Juillet \1916/ – Janvier 1917)
-  6  – Cie Française : 20 cm doublure satin : 60c
+  6  – Cie Française [?] : 20 cm doublure satin : 60c
   7  – Fleurs : 1<sup>f</sup> 10
      ————————————
   8  Delicieux ds la proprieté de Mme de Labarthe
@@ -1749,7 +1749,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
      ————————————
   7  Hier 2 images de S<sup>te</sup> Thérèse. — : 40 c
-  8  & Fleurs pour Mte : 1<sup>f</sup> 70
+  8  & Fleurs pour Mte : 1<sup>f</sup> 10
   9  — Trams : 20, 10, 30 c
  10      Billet 3<sup>e</sup> cl. p. Orsay : 11 75
  11      Bain, aux Thermes — : 90 + 10c
@@ -1769,7 +1769,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   5  métro Tuileries. Changé au Chatelet pr
   6  \station/ (en marge) gare du Nord
   7  Laissé paquets consigne gare du Nord
-  8  Descendu en flânant rue La Fayette
+  8  Descendu en flânant rue La [?] Fayette
   9  Entré et repos egl St [?]-Vincent-de-Paul.
  10  admiré lentement peintures murales
  11  et rangées superposées de belles colonnes
@@ -1910,7 +1910,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   1  <ins>Lundi 9</ins>      Oct– <ins>/16</ins>
   2      Tout le jour, ciel assombri gros nuages
   3  couleur de plomb
-  4  Après-midi, pénétré forêt qui s'étend à 1
+  4  Après-midi, pénétré foret qui s'étend à 1
   5  faible distance de la route et parallelt –
   6  Sentiers encore boueux et jonché de feuilles rouillés [?].
   7  Feuillages épais & verts. Ds les taillis, enchevêtrt
@@ -2081,7 +2081,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   4  Ménagé sorte de hutte ouverte par devant pour abriter mes
   5  sacs.
   6  Couché ds mess-tent, allongé s/ fauteuil-toile
-  7  Tte la nuit, plu averse — Froid pénétrant  ——
+  7  Tte la nuit, plu averse — Froid penetrant  ——
   8  Aucun confort —
 
   9  <ins>17 mardi</ins>      <ins>oct 16</ins>
@@ -2098,7 +2098,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   4  nuit très froide –
   5  après breakfast. eu a lift s/ 1 lorry chargé
   6  d'obus et venu à Albert. Mission frsé.
-  7  Puis erré passim. arrêté lgs devant basilique
+  7  Puis erré passim. arreté lgs devant basilique
   8  ravagée par les obus
   9  Parcouru qq rues. maisons vides et abandonnees.
  10  après-midi, retourné à Albert s/ 1 lorry et revenu
@@ -2235,19 +2235,20 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Albert et La Boisselle (Ovillers-la-Boisselle, Somme)*
 
 <pre>
-  1  <ins>Lundi 23</ins> Levé très tard.      <ins>oct. /16</ins>
-  2  Tout le jour, temps brumeux, mais moins
-  3  froid.
-  4  Après-midi, avec 2 de mes offs., venu
-  5  s/ 1 lorry à La Boisselle. Environs d'Albert
-  6  et jusq à l'horizon, troupes au bivouac
-  7  Tentes innombrables et dépôts de ttes sortes
-  8  Visité longuement german dug-out. Ces
-  9  abris souterrains, très habilement aménagés
- 10  Immense cratère s/ la droite
- 11  Impression funèbre et désolation – –
+  1  <ins>Lundi 23</ins>      <ins>oct. /16</ins>
+  2  Levé très tard.
+  3  Tout le jour, temps brumeux, mais moins
+  4  froid.
+  5  Après-midi, avec 2 de mes offs., venu
+  6  s/ 1 lorry à La Boisselle. Environs d'Albert
+  7  et jusq à l'horizon, troupes au bivouac
+  8  Tentes innombrables et dépôts de ttes sortes
+  9  Visité longuement german dug-out. Ces
+ 10  abris souterrains, très habilement aménagés
+ 11  Immense cratère s/ la droite
+ 12  Impression funèbre et désolation – –
 
- 12  — Cartes ples d'Albert : 70c.
+ 13  — Cartes ples d'Albert : 70c.
 </pre>
 
 ## f. 43 r° — Mardi 24 – mercredi 25 octobre 1916
@@ -2372,7 +2373,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   8  pierres effondrées . . .
   9      à côté, champ tt rempli de croix blanches &
  10  jaunes : anglais killed in action. –
- 11      Après-midi, 3<sup>h</sup>, place du monument
+ 11      après-midi, 3<sup>h</sup>, place du monument
  12  prise d'armes. Devant pl. bataillons rassemblés,
  13  gen<sup>l</sup> écossais épingle div. décorations s/ tuniques
  14  de tommies & N.C.O's qui se sont distingués offensive
@@ -2380,7 +2381,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  16  Derrière moi, jardin public, non entretenu.
  17  Feuilles seches Arbres roussis par l'automne
 
- 18      Soir, venu à Church meeting, route
+ 18  Soir, venu à Church meeting, route
  19  d'Amiens. Rues de l'obscurité complète.
  20  Ça et là, qq falots & lanternes de M.P.s
  21  aux carrefours  ——
@@ -2426,11 +2427,11 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   3  Nuit très noire. — Couché assz tard
   4  Donné à Victor Duchateau : 5<sup>f</sup> —
   5  Mess, octobre : 47<sup>f</sup> 70
-  6  Acheux : c<sup>tes</sup> p<sup>les</sup> : 15 c
+  6  Acheux : ctes ples : 15 c
      ————————————
   7  <ins>3 Ve</ins> matin, ciel couvert, 1 peu de soleil
   8          l'après-midi
-  9  Partis en auto avec L<sup>t</sup> Curtis. Resté à Albert
+  9  Partis en auto, avec L<sup>t</sup> Curtis. Resté à Albert
  10  et revenu seul s/ 1 lorry  —— Routes
  11  mauvaises et sillonnées de vehicules divers
  12  Revenu au camp, 152 Coy et au
@@ -2624,7 +2625,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 <pre>
   1  <ins>15 Ma</ins> Toute la nuit, encore      Nov<sup>bre</sup> <ins>1916</ins>
-  2  et durant journée, principt à l'aube très
+  2  et durant journée, principt à l'aube, très
   3  violente canonnade vers Beaumont s/ Ancre  ——
   4      Très belle journée ensoleillée.
   5  Matin, venu en auto à Albert Rentré de =
@@ -2643,7 +2644,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  16  fortt durant nuit. Bise froide.
  17      Matin & après-midi, en auto
  18  Raincheval Louvencourt, Toutencourt etc.
- 19  Déjeuné à Hérissart chz Lt Walsh et
+ 19  Déjeuné à Herissart chz Lt Walsh et
  20  avec son interp<sup>te</sup>. Fort apprécié ce dernier
  21  M.      , directeur d'1 usine
  22  (Wiss [?]) près Paris. Intelligent & distingué
@@ -2730,7 +2731,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   8  fièvre. Me suis menagé. Mangé très
   9  peu – Fin jour, amélioration très sensible
  10  – presque guéri –
- 11  A propr<sup>e</sup> M. Carluvant [?], tailleur : 75c
+ 11  A propr<sup>e</sup> M. Carlumont [?], tailleur : 75c
  12  (élargi culottes neuves par derrière
  13  Nuit très noire – dès 5<sup>H</sup> 1/2 s. — Rue
  14  boueuse & impraticable
@@ -2862,7 +2863,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   7  Septenville et Herissart. Déjeuné chz Lieut<sup>t</sup> Walsh
   8  Après lunch, venus j-à Marcelcave Passé
   9  à Corbie et Villers-Bretonneux
- 10  Retour par Warfusée-Abancourt.
+ 10  Retour par Warfusée-Ablyncourt [?].
  11  Tt jour, brume glaciale enveloppé choses.
  12  Moulins squelettiques au 1/2 des champs.
  13  Heures mornes en auto : pu ruminer &
@@ -2876,7 +2877,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  Tout le matin, ds la grange de Mme Guerle
  21  soleil brillé 1 peu –
  22  Après-midi, courses en auto à
- 23  ferme de Belle Église (Arqueves et à Louvencourt
+ 23  ferme de Belle Eglise (Arqueves) et à Louvencourt
  24      Rentré pour le thé et dès lors liberté
  25  Lt Walsh & un interprète, invités à diner
  26  Capt. Williams (charmant et de + en + sympathique
@@ -3120,7 +3121,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  12  Peu à peu, rasséréné & pris dessus.
  13  Après-midi, ds la Y.M.C.A. hut, concert. chansons
  14  comiques & saynètes – –
- 15  [— Washing : 80c.
+ 15  — Washing : 80c.
  16  Fin journée, retrouvé comp<sup>t</sup> calme d'esprit
  17  & parfait équilibre. —
  18  Vers 9<sup>H</sup> s., quitté Cap. William & regagné
@@ -3139,10 +3140,10 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 <pre>
   1  26 <ins>mardi</ins>      Déc<sup>bre</sup> <ins>1916</ins>.
   2      Temps de pluie & brouillard
-  3  Matin, à Raincheval & Arquèves, vu
+  3  Matin, à Raincheval & Arqueves, vu
   4  M – Guibet – . .
   5  Après-midi, à Beauquesne, Quesnoy etc
-  6  A Beauquesne, charmante Mme Capron [?],
+  6  A Beauquesne, charmante Mme Copin [?],
   7  à propos location machine à battre
   8  Rentrés à 6<sup>H</sup>. Fatigue extrême – Couché tot
 
@@ -3175,7 +3176,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  11  corps Archie Singers. Chansons comiques
  12  & pantomimes
  13  — Brown Boot Polish : 20c.
- 14  — Boite recommandée – à Imbert, opticien :
+ 14  — Boite recommandée – à Imbert [?], opticien :
  15  Concert Y.M.C.A : 30c      30c :      Paris
      ————————————
  16  <ins>29 Ve.</ins> Temps doux – ciel couvert
@@ -3221,7 +3222,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  = 88 fr. —
 </pre>
 
-## f. 59 r° — Lundi 1er et mardi 2 janvier 1917
+## f. 59 r° — Lundi 1er – mardi 2 janvier 1917
 
 *Acheux-en-Amiénois, Toutencourt, Authie, Louvencourt, Belle-Église (Arquèves) et Raincheval (Somme) ; Pas-en-Artois et Saulty (Pas-de-Calais)*
 
@@ -3233,7 +3234,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   5  Après-midi, venus à Saulty, par Authie,
   6  & Pas. gd Route d'Arras. Ondée très fine &
   7  intermittente –
-  8  M. Carluvant [?], m'a annoncé qu'il devra quitter
+  8  M. Carlumont [?], m'a annoncé qu'il devra quitter
   9  maison ds qq jours : <del>[illis.]</del> proprie tient à s'y
  10  installer. Regrette de partir d'ici. Chambre chaude –
 
@@ -3310,7 +3311,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  Beauquesne : déjeuné av L<sup>t</sup> Walsh, L<sup>t</sup> Morris
  18  & son interprète au Café Continental.
  19  Puis passé contrat location batteuse a
- 20  Mme Capron [?]
+ 20  Mme Copin [?]
  21      Rentré, nuit tombante. Merv<sup>x</sup> clair
  22  de lune. Routes boueuses co—e ruisselantes
  23  de lumière —
@@ -3353,7 +3354,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 61 r° — Mercredi 10 – vendredi 12 janvier 1917
 
-*Acheux-en-Amiénois, Saint-Léger-lès-Authie, Belle-Église (Arquèves), Authie, Beauquesne et Rubempré (Somme)*
+*Acheux-en-Amiénois, Saint-Léger-lès-Authie, Belle-Église (Arquèves), Authie, Louvencourt, Raincheval, Beauquesne, Septenville et Rubempré (Somme)*
 
 <pre>
   1  <ins>10 Me</ins>      — <ins>Janvier 1917</ins> —
@@ -3364,7 +3365,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   6      Après-midi, liberté entière. Visite de
   7  Morris à mon billet. Causé de tt 1 peu
   8      Temps froid, neige & pluie glaciale
-  9  [ — Mandat-poste à Imbert, opticien
+  9  — Mandat-poste à Imbert, opticien
  10  Paris, pour réparatn pince-nez et pour,
  11  1 neuf (d'après ordonnance : 19 fr.
 
@@ -3387,7 +3388,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 61 v° — Samedi 13 – lundi 15 janvier 1917
 
-*Acheux-en-Amiénois, Beaucourt-sur-l'Hallue, Montigny-sur-l'Hallue et Doullens (Somme)*
+*Acheux-en-Amiénois, Beaucourt-sur-l'Hallue, Montigny-sur-l'Hallue, Louvencourt, Saint-Léger-lès-Authie et Doullens (Somme)*
 
 <pre>
   1  <ins>13 Sam.</ins>      <ins>Janv. 17</ins>
@@ -3419,7 +3420,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 62 r° — Mardi 16 – mercredi 17 janvier 1917
 
-*Acheux-en-Amiénois, Rubempré et Doullens (Somme) ; Auxi-le-Château (Pas-de-Calais)*
+*Acheux-en-Amiénois, Bouzincourt, Senlis-le-Sec, Rubempré et Doullens (Somme) ; Auxi-le-Château (Pas-de-Calais)*
 
 <pre>
   1  16 Mardi      <ins>Janvier 1917</ins>
@@ -3432,7 +3433,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   8  Herissart à Toutencourt. Coteaux et champs
   9  encore – couverte neige : gde & mornes étendue
  10  blanches  ——
- 11          — C<sup>tes</sup> p<sup>les</sup> : 35 c.
+ 11          — C<sup>tes</sup> ples : 35 c.
 
      ————————————
  12  17 <ins>Merc</ins> Nuit neigé abond<sup>t</sup>. Au réveil
@@ -3515,7 +3516,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 *Acheux-en-Amiénois (Somme)*
 
 <pre>
-  1  <ins>23 Ma</ins>      <ins>Janvier 17</ins>
+  1  <ins>23 Ma</ins>      <ins>Janvier '17</ins>
   2      Soir, Y.M.C.A hut,
   3  a very interesting lecture on Canada
      ————————————
@@ -3617,7 +3618,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  Neuilly : Tuileries – Porte-Maillot.
  21  Après 5 m. de marche, arrivé
  22  rue d'Armenonville, no 4 [?]6
- 23  Maison luxueuse. Au 4<sup>e</sup> etage, à g.
+ 23  Maison luxueuse. Au 4<sup>me</sup> etage, à g.
 </pre>
 
 ## f. 65 v° — Samedi 27 janvier 1917 (suite)
@@ -3824,7 +3825,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 <pre>
   1  2 <ins>Vendredi</ins>.
   2  Tjours même temps, très froid. —      <ins>Février 1917</ins> —
-  3  Neige abondamment durant matinee
+  3  neige abondamment durant matinee
   4  Matin & soir, venu chz dentiste, M. de Lersay,
   5  rue La [?] Fayette. Très bien soigné par j. dame,
   6  opératrice
@@ -4054,14 +4055,14 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  de ces avions et taches blanches
  18  Arrivé à Acheux, vers 1<sup>H</sup> 1/2
  19  me suis rendu à pied ancien billet
- 20  M. & Mme Carluvant [?] m'ont offert déjeuner
+ 20  M. & Mme Carlumont [?] m'ont offert déjeuner
  21  sommaire.
  22  Après m'être rasé, lavé, brossé, sorti,
 </pre>
 
 ## f. 73 v° — Mercredi 7 février 1917 (suite)
 
-*Acheux-en-Amiénois et Hérissart (Somme)*
+*Acheux-en-Amiénois, Raincheval, Puchevillers et Hérissart (Somme)*
 
 <pre>
   1  merc. <ins>7 (suite)</ins>      <ins>Février 1917</ins>
@@ -4072,7 +4073,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   6  française, où trouvé un mot du cap W<sup>m</sup>
   7  Lui ai telephoné du bureau Mission pour lui
   8  annoncer mon arrivée
-  9  Rentré chz les Carluvant [?], auxquels annoncé m[lacune]
+  9  Rentré chz les Carlumont [?], auxquels annoncé m[lacune]
  10  Atterrés. Fait en hâte mes paquets. Attendu
  11  l'auto, qui arrivée vers 4 [sur [illis.]]<sup>h</sup> 1/2
  12  Quitte village d'Acheux et surtout maison
@@ -4102,7 +4103,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   7  Diner à Paris, metro : 15 c.
   8  Amiens, Y.M.C.A : 1<sup>f</sup> 15 c
   9  Touché solde Mission fr<sup>se</sup>, Acheux : 78<sup>f</sup>75
- 10  Gift aux Carluvant [?], pour
+ 10  Gift aux Carlumont [?], pour
  11              mon lunch : 5 f.
  12                  et varia
      ————————————
@@ -4225,7 +4226,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  moins froid.
 
  18  <ins>Doullens</ins> : Papeterie : 2<sup>f</sup>10. —
- 19  Cartes p<sup>les</sup> : 45
+ 19  Cartes ples : 45
  20  Chocolat : 60c — Biscuits Petit Beurre : 50c
 </pre>
 
@@ -4261,7 +4262,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 77 r° — Mardi 13 – mercredi 14 février 1917
 
-*Hérissart, Puchevillers, Authie et Acheux-en-Amiénois (Somme) ; Couin (Pas-de-Calais)*
+*Hérissart, Puchevillers, Authie, Acheux-en-Amiénois et Toutencourt (Somme) ; Couin (Pas-de-Calais)*
 
 <pre>
   1  <ins>mardi 13 –</ins>      <ins>Fevrier 1917</ins>
@@ -4292,7 +4293,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 
 ## f. 77 v° — Jeudi 15 – vendredi 16 février 1917
 
-*Hérissart, Toutencourt, Raincheval et Beaucourt-sur-l'Hallue (Somme)*
+*Hérissart, Toutencourt, Raincheval, Puchevillers et Beaucourt-sur-l'Hallue (Somme)*
 
 <pre>
   1  <ins>Jeudi 15</ins> –      Fevrier <ins>1917</ins> –
@@ -4438,7 +4439,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   7      matin course à Mirvaux – hameau d'1
   8  100ne d'habitants. Silence & solitude funebre
   9      enfin, durant qq heure, soleil brille ciel
- 10  bleu. 1ère sensation de printemps proche
+ 10  bleu. 1ère sensations [?] de printemps proche
  11      Après lunch, venu promener seul sur la
  12  route de Toutencourt. Beau soleil ciel bleu
  13  Champs ensemencés. Masses sombres de petits
@@ -4579,7 +4580,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  24  arbres
  25      Courte promenade vers 4<sup>H</sup>, autour
  26  et ds les environs village.      Visité cimetière
- 27      Temps funèbre
+ 27      Temps funebre
 </pre>
 
 ## f. 82 r° — Jeudi 8 – vendredi 9 mars 1917
@@ -4625,7 +4626,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   3  paquets, sanglé, valise.
   4  Etrange sensation de melancolie, au moment de
   5  quitter ce village et de changer d'affectation.
-  6  Malgré moi, souvenirs affluent de ce 6 derniers
+  6  Malgré moi, souvenirs affluent de ce 6 [?] derniers
   7  mois. Incertitude lendemain. & situation precaire
   8      Cap. monté [?], William, partis definit<sup>t</sup> vers
   9  10<sup>H</sup> matin. Dès lors, suis sans fonctions, archi-
@@ -4655,7 +4656,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   5  Maintenant, quitterai [?] sans regrets ce petit
   6  village & Purchase Board.
   7  Après breakfast, 9<sup>H</sup> m. , parti en [?]. auto pour
-  8  Toutencourt. Ds ce village, laissé tout, ts mes
+  8  Toutencourt. Ds ce village, laissé kit, ts mes
   9  sacs au mess des interprète, no , rue
  10  de Raincheval, puis cherché gite au camp,
  11  no rue  ——
@@ -4922,7 +4923,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  20  Rainneville – – acheté paille
  21  Temps très mauvais. Surpris en route par
  22  fortes averses, grèle – grelons, frappé nos
- 23  visages – Routes ext<sup>t</sup> detrempées . – .
+ 23  visages – Routes, ext<sup>t</sup> detrempées . – .
  24  village tjours sans troupes, parait inhabite
  25      J'aime ce calme & ce silence
 </pre>
@@ -4996,7 +4997,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
 <pre>
   1  6 <ins>Vendr.</ins> —      <ins>Avril 1917</ins> —
   2      Levé tot après breakfast,
-  3  conduit en auto à Toutencourt. 1 staff du bureau
+  3  conduit en auto à Toutencourt. 1 staff [?] du bureau
   4  de la Mission, fr, Vth army H.Q., venu nous payer
   5  solde
   6      Temps très beau. Délicieux promener rues ensoleillées
@@ -5066,7 +5067,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
   7  blancs
   8  nuit, rafales très violentes  ——
   9  A Doullens : ceinture cuir : 10<sup>f</sup>50 + 14<sup>f</sup> = 24<sup>f</sup>50 – Boîte \(canteen)/ de farine [?] : 1<sup>f</sup>
- 10  2 Cahiers geog. (Somme) : 60.. — Cartes p<sup>les</sup> : 60 c. + 10<sup>c</sup> —
+ 10  2 Cahiers geog. (Somme) : 60.. — Cartes ples : 60 c. + 10<sup>c</sup> —
  11  Varia : 1 f. — 2 semelles liège : 40 c. — Tre d'iode : 35
  12  2 Boîte de chlorate potasse : 1<sup>f</sup>. – 1 Boîte pastilles menthe : 75
      ————————————
@@ -5144,7 +5145,7 @@ Transcription diplomatique dans l'ordre de lecture restitué (feuillets reliés 
  17  Albert et Buire \Ribemont/. Au retour, stuck, à la
  18  sortie du village de Buire. Aidés par des
  19  australiens, à dégager l'auto. Quels types!
- 20      A Ribemont revu avec plaisir les Colart—
+ 20      A Ribemont, revu avec plaisir les Colart—
  21  qui m'ont fait meilleur accueil —
 </pre>
 

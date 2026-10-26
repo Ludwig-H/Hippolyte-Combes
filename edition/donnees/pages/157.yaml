@@ -35,7 +35,7 @@ apparat:
 - ligne: 1
   lemme: 225^{f}95
   type: abreviation
-  note: 225~francs 95 (solde de caisse)
+  note: 225,95~F (solde de caisse)
 - ligne: 8
   lemme: cap^{e}
   type: abreviation
@@ -67,10 +67,9 @@ apparat:
 - ligne: 25
   lemme: 1 70
   type: compte
-  note: 1~franc 70, sans signe monétaire
+  note: 1,70~F, sans signe monétaire
 historique: |
-  Fréchencourt et Bavelincourt sont sur l'Hallue (voir f.~77~v\textsuperscript{o}) ; Fréchencourt était tête de ligne des vivres de la Fourth Army le 1\textsuperscript{er}~juillet 1916 (OH~\mbox{1916-I}, p.~274). Le « cap\textsuperscript{e} Leonard » n'est pas identifié ; peut-être le capitaine Robert Marsh Leonard, A.S.C. (TNA, WO 374/41729), hypothèse fragile. Les \textit{billets} relèvent du \textit{Town Major}, qui tient la liste des logements numérotés (Fernand-Laurent 1917, p.~227 ; voir f.~73~v\textsuperscript{o}). Le capitaine Williams (voir f.~52~v\textsuperscript{o}) ne partira définitivement que le 10~mars (voir f.~82~v\textsuperscript{o}). Albertine, blanchisseuse d'Hérissart, est inconnue ; ses 1~F~70 dépassent les notes de blanchissage de l'hiver, souvent de 60 à 80~c (relevé de l'éditeur).
+  Fréchencourt et Bavelincourt sont sur l'Hallue (voir f.~77~v\textsuperscript{o}) ; Fréchencourt était tête de ligne des vivres de la Fourth Army le 1\textsuperscript{er}~juillet 1916 (OH~\mbox{1916-I}, p.~274). Le « cap\textsuperscript{e} Leonard » n'est pas identifié. Les \textit{billets} relèvent du \textit{Town Major}, qui tient la liste des logements numérotés (Fernand-Laurent 1917, p.~227 ; voir f.~73~v\textsuperscript{o}). Le capitaine Williams (voir f.~52~v\textsuperscript{o}) ne partira définitivement que le 10~mars (voir f.~82~v\textsuperscript{o}). Albertine, blanchisseuse d'Hérissart, est inconnue ; ses 1,70~F dépassent les notes de blanchissage de l'hiver, souvent de 60 à 80~c (relevé de l'éditeur).
 sources:
 - Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Londres, Macmillan, 1932, p. 274.
-- 'The National Archives (Kew), WO 374/41729 : dossier d''officier du Captain Robert Marsh Leonard, Army Service Corps (notice du catalogue).'
 - Fernand-Laurent, Chez nos alliés britanniques. Notes et souvenirs d'un interprète, préface de François de Tessan, Paris, Boivin, 1917, p. 227.

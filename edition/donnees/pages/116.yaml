@@ -18,7 +18,7 @@ transcription: |
   corps Archie Singers. Chansons comiques
   & pantomimes
   \equerre{3}— Brown Boot Polish : 20c.
-  — Boite recommandée – à Imbert, opticien :
+  — Boite recommandée – à \inc{Imbert}, opticien :
   Concert Y.M.C.A : 30c \hfill 30c : \hfill Paris
   \filet
   \sl{29 Ve.} Temps doux – ciel couvert
@@ -60,9 +60,9 @@ apparat:
   type: emprunt
   note: cirage brun pour chaussures
 - ligne: 14
-  lemme: Imbert
+  lemme: \inc{Imbert}
   type: lecture
-  note: 'lecture probable ; autre lecture : Imbat'
+  note: lecture incertaine (Imbat ?) ; Imbert aux ff.~60~v\textsuperscript{o}, 61~r\textsuperscript{o}
 - ligne: 15
   lemme: '30c : \hfill Paris'
   type: disposition
@@ -80,9 +80,9 @@ apparat:
   type: abreviation
   note: peut
 historique: |
-  La canonnade vient du secteur de la 31\textsuperscript{st} Division, à gauche du XIII~Corps (OH~\mbox{1917-I}, p.~66). Les « Archie Singers » sont sans doute la troupe des batteries antiaériennes du corps (\textit{Archie} : canon antiaérien en argot ; Partridge 1937) ; ils reviennent le 4~janvier (voir f.~60~r\textsuperscript{o}). Entrée payante, alors que la Y.M.C.A. disait ses concerts gratuits (Yapp 1918, chap.~IV). La boîte contenait sans doute le pince-nez, dont la réparation est payée le 10~janvier (f.~61~r\textsuperscript{o}) ; Imbert est opticien boulevard Saint-Michel (f.~65~v\textsuperscript{o}). Levy est peut-être Walter Henry Levy, major temporaire de l'A.S.C. (\textit{London Gazette}, suppl. 29585, p.~4941). Pour le Quesnoy, voir f.~55~v\textsuperscript{o}.
+  La canonnade vient du secteur de la 31\textsuperscript{st} Division, à gauche du XIII~Corps (OH~\mbox{1917-I}, p.~66). Les « Archie Singers » sont sans doute la troupe des batteries antiaériennes du corps (\textit{Archie} : canon antiaérien en argot ; Partridge 1937) ; ils reviennent le 4~janvier (voir f.~60~r\textsuperscript{o}). Entrée payante, alors que la Y.M.C.A. disait ses concerts gratuits (Yapp 1918, chap.~\textsc{iv}). La boîte contenait sans doute le pince-nez, dont la réparation est payée le 10~janvier (f.~61~r\textsuperscript{o}) ; Imbert est opticien boulevard Saint-Michel (f.~65~v\textsuperscript{o}). Levy est peut-être Walter Henry Levy, major temporaire de l'A.S.C. (\textit{London Gazette}, suppl. 29585, p.~4941). Pour le Quesnoy, voir f.~55~v\textsuperscript{o}.
 sources:
-- Falls, C., Military Operations, France and Belgium, 1917, vol. I, London, Macmillan, 1940, p. 66.
-- Partridge, E., A Dictionary of Slang and Unconventional English, London, Routledge, 1937, s.v. « Archie ».
-- Yapp, A. K., The Romance of the Red Triangle, London, Hodder and Stoughton, 1918, chap. IV, p. 39-62.
+- Falls, C., Military Operations, France and Belgium, 1917, vol. I, Londres, Macmillan, 1940, p. 66.
+- Partridge, E., A Dictionary of Slang and Unconventional English, Londres, Routledge, 1937, s.v. « Archie ».
+- Yapp, A. K., The Romance of the Red Triangle, Londres, Hodder and Stoughton, 1918, chap. IV, p. 39-62.
 - The London Gazette, suppl. 29585, 17 mai 1916, p. 4941.

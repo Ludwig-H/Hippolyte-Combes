@@ -2,7 +2,7 @@ cliche: 147
 fichier: 20251126_110628.jpg
 date: Mercredi 7 février 1917 (suite)
 mois: Février 1917
-lieux: Acheux-en-Amiénois et Hérissart (Somme)
+lieux: Acheux-en-Amiénois, Raincheval, Puchevillers et Hérissart (Somme)
 titre: Le capitaine Williams parti pour Hérissart ; départ d'Acheux ; chambre au café
 transcription: |
   merc. \sl{7 (suite)} \hfill \sl{Février 1917}
@@ -13,7 +13,7 @@ transcription: |
   française, où trouvé un mot du cap W^{m}
   Lui ai telephoné du bureau Mission pour lui
   annoncer mon arrivée
-  Rentré chz les \inc{Carluvant}, auxquels annoncé m\lac
+  Rentré chz les \inc{Carlumont}, auxquels annoncé m\lac
   Atterrés. Fait en hâte mes paquets. Attendu
   l'auto, qui arrivée vers \sur{\ill}{4}^{h} \fr{1}{2}
   Quitte village d'Acheux et surtout maison
@@ -32,13 +32,13 @@ apparat:
   type: abreviation
   note: capitaine Williams
 - ligne: 9
+  lemme: \inc{Carlumont}
+  type: lecture
+  note: 'lecture incertaine ; autre lecture : Carlymont'
+- ligne: 9
   lemme: m\lac
   type: autre
   note: fin de ligne sous un pâté ; sans doute « mon » (départ)
-- ligne: 9
-  lemme: \inc{Carluvant}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : Carlumont'
 - ligne: 17
   lemme: Town Major
   type: emprunt
@@ -54,6 +54,6 @@ apparat:
 historique: |
   Ni M\textsuperscript{me} Delille ni le capitaine Williams, venu le 2~décembre remplacer Curtis (f.~52~v\textsuperscript{o}), ne sont identifiés. Le bureau de la Mission française d'Acheux, celui du V Corps depuis la mi-janvier (f.~61~v\textsuperscript{o}), sert de relais pour les messages et le téléphone. Hérissart (Somme), à une dizaine de kilomètres au sud-ouest d'Acheux, n'est qu'à 3~km de Toutencourt, QG de la Fifth Army jusqu'au 28~mars 1917 (OH~\mbox{1916-I}, p.~304 ; LLT). L'auto passe par Raincheval et par Puchevillers, qui a deux hôpitaux d'évacuation jusqu'en mars 1917 (LLT). Le café Chatelain (lecture incertaine) n'est pas identifié. L'église d'Hérissart est dédiée à saint Martin (Palissy PM80005288).
 sources:
-- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, London, Macmillan, 1932, p. 304.
+- Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Londres, Macmillan, 1932, p. 304.
 - Baker, C., The Long, Long Trail, « The British Fifth or Reserve Army 1916-1918 » et « Locations of British Casualty Clearing Stations » (longlongtrail.co.uk, copies Wayback 2018 et 2024).
 - Ministère de la Culture, base Palissy, notice PM80005288 (statue de la Vierge à l'Enfant, église Saint-Martin, Hérissart).

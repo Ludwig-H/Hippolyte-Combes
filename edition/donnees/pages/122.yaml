@@ -2,7 +2,7 @@ cliche: 122
 fichier: 20251126_105920.jpg
 date: Mercredi 10 – vendredi 12 janvier 1917
 mois: Janvier 1917
-lieux: Acheux-en-Amiénois, Saint-Léger-lès-Authie, Belle-Église (Arquèves), Authie, Beauquesne et Rubempré (Somme)
+lieux: Acheux-en-Amiénois, Saint-Léger-lès-Authie, Belle-Église (Arquèves), Authie, Louvencourt, Raincheval, Beauquesne, Septenville et Rubempré (Somme)
 titre: Canonnade sur Miraumont ; retrouvé Morris ; neige, grésil et courses en auto
 transcription: |
   \sl{10 Me} \hfill — \sl{Janvier 1917} —
@@ -13,7 +13,7 @@ transcription: |
   \ind Après-midi, liberté entière. Visite de
   Morris à mon billet. Causé de tt 1 peu
   \ind Temps froid, neige & pluie glaciale
-  [ — Mandat-poste à Imbert, opticien
+  \crochet{1}— Mandat-poste à Imbert, opticien
   Paris, pour réparatn pince-nez et pour,
   1 neuf (d'après ordonnance : 19 fr.
   \blanc{1}
@@ -58,7 +58,7 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : mouvt'
 historique: |
-  La canonnade, déjà notée le 9 (voir f.~60~v\textsuperscript{o}), prépare deux opérations du XIII~Corps au nord de l'Ancre : le 10 à 2~h, le 2/Border (7\textsuperscript{th} Division) attaque « The Triangle », à 1~000~yards à l'est de Beaumont-Hamel ; le 11, la 91\textsuperscript{st} Brigade prend \textit{Munich Trench} (OH~\mbox{1917-I}, p.~67--69). Morris, manqué la veille à Hédauville, est sans doute un officier de la 150\textsuperscript{th} Company du train de la 18\textsuperscript{th} Division ; son identité n'est pas établie. Belle-Église avait été tête de ligne pour les vivres en juillet 1916 (OH~\mbox{1916-I}, p.~274). Imbert est l'opticien du boulevard Saint-Michel à qui Hippolyte Combes a envoyé une boîte recommandée fin décembre (f.~58~r\textsuperscript{o}) ; le 27~janvier, il passera chez lui et le trouvera mobilisé (f.~65~v\textsuperscript{o}).
+  La canonnade, déjà notée le 9 (voir f.~60~v\textsuperscript{o}), prépare deux opérations du XIII~Corps au nord de l'Ancre : le 10 à 2~h, le 2\textsuperscript{nd} Border (7\textsuperscript{th} Division) attaque « The Triangle », à 1~000~yards à l'est de Beaumont-Hamel ; le 11, la 91\textsuperscript{st} Brigade prend \textit{Munich Trench} (OH~\mbox{1917-I}, p.~67--69). Belle-Église avait été tête de ligne pour les vivres en juillet 1916 (OH~\mbox{1916-I}, p.~274). Imbert est l'opticien du boulevard Saint-Michel à qui Hippolyte Combes a envoyé une boîte recommandée fin décembre (f.~58~r\textsuperscript{o}) ; le 27~janvier, il passera chez lui et le trouvera mobilisé (f.~65~v\textsuperscript{o}).
 sources:
 - Falls, C., Military Operations, France and Belgium, 1917, vol. I, The German Retreat to the Hindenburg Line and the Battles of Arras, Londres, Macmillan, 1940, p. 67–69.
 - 'Edmonds, J. E., Military Operations, France and Belgium, 1916, vol. I, Sir Douglas Haig''s Command to the 1st July : Battle of the Somme, Londres, Macmillan, 1932, p. 274.'

@@ -1,11 +1,11 @@
 {
- "31568": {
-  "id": "31568",
+ "80776": {
+  "id": "80776",
   "name": "Varennes",
-  "longitude": 1.688,
-  "latitude": 43.477,
-  "insee": "31568",
-  "source": "https://geo.api.gouv.fr/departements/31/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "longitude": 2.5342,
+  "latitude": 50.0491,
+  "insee": "80776",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
   "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
  },
  "80047": {
@@ -224,15 +224,6 @@
   "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
   "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
  },
- "62543": {
-  "id": "62543",
-  "name": "Mametz",
-  "longitude": 2.3217,
-  "latitude": 50.634,
-  "insee": "62543",
-  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
-  "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
- },
  "80366": {
   "id": "80366",
   "name": "Fricourt",
@@ -314,13 +305,13 @@
   "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
   "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
  },
- "62337": {
-  "id": "62337",
+ "80314": {
+  "id": "80314",
   "name": "Flers",
-  "longitude": 2.2546,
-  "latitude": 50.3224,
-  "insee": "62337",
-  "source": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "longitude": 2.8213,
+  "latitude": 50.0483,
+  "insee": "80314",
+  "source": "https://geo.api.gouv.fr/departements/80/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
   "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
  },
  "80695": {
@@ -710,13 +701,13 @@
   "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
   "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
  },
- "31341": {
-  "id": "31341",
+ "59400": {
+  "id": "59400",
   "name": "Merville",
-  "longitude": 1.2982,
-  "latitude": 43.7211,
-  "insee": "31341",
-  "source": "https://geo.api.gouv.fr/departements/31/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
+  "longitude": 2.6386,
+  "latitude": 50.6424,
+  "insee": "59400",
+  "source": "https://geo.api.gouv.fr/departements/59/communes?fields=nom,code,centre,mairie,codeDepartement&format=json",
   "position_type": "mairie actuelle, repère du bourg ; ne désigne pas un logement de 1916–1917"
  },
  "62014": {
@@ -1493,5 +1484,24 @@
   "latitude": 49.9547,
   "source": "coordonnées approximatives (hameau ou commune hors répertoire), repère cartographique",
   "position_type": "centre approximatif"
+ },
+ "cote_pavee": {
+  "id": "cote_pavee",
+  "name": "Côte-Pavée",
+  "label": "Côte-Pavée",
+  "longitude": 1.462521,
+  "latitude": 43.59592,
+  "type": [
+   "quartier"
+  ],
+  "insee": [
+   "31555"
+  ],
+  "source": "https://nominatim.openstreetmap.org/search?q=C%C3%B4te+Pav%C3%A9e+Toulouse&format=json",
+  "source_record": "OSM node 247471300 (place=quarter)",
+  "source_title": "OpenStreetMap, nœud du quartier Côte Pavée (Toulouse), via Nominatim",
+  "geometry_status": "repère contemporain du quartier, pas reconstitution de l'adresse de 1916",
+  "position_type": "centre du quartier (OSM)",
+  "note": "Quartier de Sainte-Marie-des-Champs (lycée Sainte-Marie-des-Champs, OSM way 186261664, à 1 km environ au sud-est), lieu le plus cité du chapitre III (ff. 27 v°, 28 r°). Coordonnées © contributeurs OpenStreetMap (ODbL)."
  }
 }

@@ -74,7 +74,7 @@ apparat:
 - ligne: 19
   lemme: 1 \inc{90}.
   type: lecture
-  note: 'lecture incertaine : 1~franc 90'
+  note: 'lecture incertaine : 1,90~F'
 - ligne: 19
   lemme: \inc{Henri}
   type: lecture

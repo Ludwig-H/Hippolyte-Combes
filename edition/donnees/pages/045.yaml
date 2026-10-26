@@ -41,7 +41,7 @@ apparat:
 - ligne: 7
   lemme: \inc{contr^{t}}
   type: lecture
-  note: contrairement ? ; autre lecture, contre-ordre
+  note: 'contrairement ? ; autre lecture : contre-ordre'
 - ligne: 8
   lemme: HQ^{rs}
   type: abreviation
@@ -53,11 +53,11 @@ apparat:
 - ligne: 10
   lemme: \sur{\ill}{\inc{Reparti}}
   type: lecture
-  note: lecture incertaine ; autre lecture, Repassé
+  note: 'lecture incertaine ; autre lecture : Repassé'
 - ligne: 12
   lemme: \inc{Brammas}
   type: lecture
-  note: autres lectures, Drammas, Drammar
+  note: 'autres lectures : Drammas, Drammar'
 - ligne: 15
   lemme: derangt
   type: abreviation
@@ -75,7 +75,7 @@ apparat:
   type: abreviation
   note: bonne (de bonne heure)
 historique: |
-  Le message vient sans doute du bureau divisionnaire de la Mission, dont relèvent les interprètes des unités (voir f.~22~r\textsuperscript{o}). Hippolyte Combes le cherche d'abord à Hédauville, à 9,8~km de Raincheval, peut-être sur le bruit d'un départ du QG de la division : celui-ci ne s'y installera que le 25~septembre et y restera jusqu'au 6~octobre (Nichols 1922, p.~79). « Brammas » (lecture incertaine) n'est pas identifié. Le régime en cause est celui du mess des officiers, partagé depuis le 12 (voir f.~21~v\textsuperscript{o}). Connelly, son palefrenier, avait reçu 1~F le 5~août et le 11~septembre (voir ff.~6~r\textsuperscript{o} et 21~r\textsuperscript{o}).
+  Le message vient sans doute du bureau divisionnaire de la Mission, dont relèvent les interprètes des unités (voir f.~22~r\textsuperscript{o}). Hippolyte Combes cherche d'abord ce bureau à Hédauville, à 9,8~km de Raincheval, peut-être sur le bruit d'un départ du QG de la division : celui-ci ne s'y installera que le 25~septembre et y restera jusqu'au 6~octobre (Nichols 1922, p.~79). « Brammas » (lecture incertaine) n'est pas identifié. Le régime en cause est celui du mess des officiers, partagé depuis le 12 (voir f.~21~v\textsuperscript{o}). Connelly, son palefrenier, avait reçu 1~F le 5~août et le 11~septembre (voir ff.~6~r\textsuperscript{o} et 21~r\textsuperscript{o}).
 sources:
 - Nichols, G. H. F., The 18th Division in the Great War, Edinburgh, Blackwood, 1922, p. 79.
 - geo.api.gouv.fr, coordonnées des mairies (distances à vol d'oiseau).
