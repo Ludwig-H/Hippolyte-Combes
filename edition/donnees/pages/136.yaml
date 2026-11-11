@@ -9,23 +9,23 @@ transcription: |
   Nuit, gelé très fort. Ds la journée, neige 1 peu,
   et soufflé bise glaciale
   matinée, venu rejoindre M^{te} \inc{p su} tram à St Ser.
-  ver 10^{h}. Ensemble, fait marché à V. Hugo
+  ver 10^{H}. Ensemble, fait marché à V. Hugo
   Après-midi, descendus en ville. Promené
-  rues bien abritées. Visité Hotel d'asezat,
+  rues bien abritées. Visité Hotel d'assezat,
   Daurade & Dalbade
   Puis montés mon appart^{t} et y reposé 2 long^{ues}
-  heures. Evité troubler qq grandes precieuses
-  A S^{te} Marie, ver 6^{h}\fr{1}{2}. Retour à pied, ver
-  9^{h}. Legers flocons neige tombaient sur le sol
+  heures. Évité troubler qq grandes précieuses
+  A S^{te} Marie, ver 6^{H}\fr{1}{2}. Retour à pied, ver
+  9^{H}. Legers flocons neige tombaient sur le sol
   durci.
   \crochet{8}\ind Halles Victor Hugo : Gigot d'agneau : 5^{f} —
   Petits fromages (gervais & blancs) : 90. —
-  1/2 beurre : 60c. — Boite sardines : \inc{2^{f}} —
+  \fr{1}{2} l. beurre : 60c. — Boite sardines : \inc{2^{f}} —
   gâteaux : 20c. — 1 livre de dattes : 1^{f} — id. de
   figues : 1^{f} — gâteau aux noix : 1^{f} 25 c —
-  gâteau des allées : 1 \inc{90}. — chz \inc{Henri} \inc{Testet}
+  gâteau des allées : 1^{f} 90. — chz \inc{Henri} \inc{Testet}
   \ind Trams : 30c., 30c.
-  Télegramme à Mme Spagnol, Nice : 2^{f} —
+  Télégramme à Mme Spagnol, Nice : 2^{f} —
 apparat:
 - ligne: 4
   lemme: \inc{p su}
@@ -44,7 +44,7 @@ apparat:
   type: abreviation
   note: (marché) Victor-Hugo
 - ligne: 7
-  lemme: d'asezat
+  lemme: d'assezat
   type: graphie
   note: hôtel d'Assézat
 - ligne: 9
@@ -52,7 +52,7 @@ apparat:
   type: abreviation
   note: longues
 - ligne: 10
-  lemme: grandes precieuses
+  lemme: grandes précieuses
   type: lecture
   note: « précieuses » employé comme nom
 - ligne: 15
@@ -60,7 +60,7 @@ apparat:
   type: abreviation
   note: 90~centimes
 - ligne: 16
-  lemme: 1/2 beurre
+  lemme: \fr{1}{2} l. beurre
   type: compte
   note: demi-livre de beurre
 - ligne: 16
@@ -71,10 +71,6 @@ apparat:
   lemme: id.
   type: abreviation
   note: idem (une livre)
-- ligne: 19
-  lemme: 1 \inc{90}.
-  type: lecture
-  note: 'lecture incertaine : 1,90~F'
 - ligne: 19
   lemme: \inc{Henri}
   type: lecture

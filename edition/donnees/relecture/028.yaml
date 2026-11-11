@@ -187,3 +187,16 @@ audit:
   avant: vers 1^{H} – ds le
   apres: vers 1^{H}, – ds le
   justification: zoom ×4 [.55 .055 .78 .10] ; après l'H suscrit (deux hastes et traverse, au-dessus de la ligne), trait vertical isolé descendant sous la ligne de base, même forme que la virgule après Bailleul et train ; puis le tiret court
+collation_2026_11:
+- ligne: 11
+  avant: delicieus^{t}.
+  apres: délicieus^{t}.
+  justification: accent aigu tracé sur le premier « e »
+- ligne: 12
+  avant: brise de
+  apres: brise ds
+  justification: abréviation « ds » (dans), non « de »
+- ligne: 20
+  avant: par offrs
+  apres: par off^{rs}
+  justification: finale « rs » suscrite

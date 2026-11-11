@@ -106,3 +106,8 @@ noms:
     ligne: 16
     identite: Albert (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: arrêté
+  apres: arreté
+  justification: aucun accent circonflexe sur « arreté »

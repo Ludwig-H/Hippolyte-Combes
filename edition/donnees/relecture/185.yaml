@@ -176,3 +176,16 @@ noms:
     ligne: 20
     identite: Mirvaux (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: 5^{h} 1/4,
+  apres: 5^{H} 1/4,
+  justification: H majuscule suscrit
+- ligne: 10
+  avant: agréable
+  apres: agreable
+  justification: aucun accent aigu sur « agreable »
+- ligne: 15
+  avant: avarie 2 ressorts
+  apres: avarie, 2 ressorts
+  justification: virgule tracée après « avarie »

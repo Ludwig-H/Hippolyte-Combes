@@ -129,3 +129,16 @@ audit:
   avant: '& Fleurs pour Mte : 1 70'
   apres: '& Fleurs pour Mte : 1^{f} 70'
   justification: 'zoom ×3 : entre le 1 et le 7, trois tracés distincts : un petit crochet suscrit isolé (trait descendant recourbé à droite), puis au-dessus la tête courbe du 7, puis sa diagonale ; le crochet n''appartient ni au 1 ni au 7 et a la forme du f suscrit de 5^{f} (l. 13)'
+collation_2026_11:
+- ligne: 1
+  avant: Mt & moi, tres – \hfill
+  apres: Mt & moi, très \hfill
+  justification: 'Le court trait horizontal à droite de « très » est placé haut, à hauteur d''accent et de hampe de « t » (et non sur la ligne médiane comme les tirets de l. 2 « émus. – . » ou l. 4 « nuit – ») : c''est l''accent grave décalé à droite de « très » (« Mt & moi, très émus. »).'
+- ligne: 3
+  avant: Train, demarré vers 8^{H} s \trait
+  apres: Train, démarré vers 8^{H} s \trait
+  justification: Accent aigu en crochet « ◟ » isolé dans le blanc entre la hampe simple du « d » et le premier jambage du « m », de même forme que l'accent final de « -rré ».
+- ligne: 4
+  avant: Voyage – toute la nuit – n'ai pu
+  apres: Voyagé toute la nuit – n'ai pu
+  justification: 'Le trait court après « Voyage » est placé haut au-dessus de l''œil du « e » à hauteur d''accent (au niveau de l''apostrophe de « n''ai » et bien plus haut que le vrai tiret médian après « nuit – ») : c''est l''accent aigu décalé du participe passé « Voyagé » (parallèle à « démarré » l. 3).'

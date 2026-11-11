@@ -111,3 +111,24 @@ audit:
   avant: vue campagne très étendue
   apres: vue campagne très etendue
   justification: 'zoom [.55 .855 .95 .93] ×3 : e initial sans accent ; la boucle au-dessus est la tête bouclée du t, continue avec sa haste et coupée de sa barre (même t à crochet de tête que dans fenetre, l. 15) ; l''accent de très, sur la même ligne, est au contraire un trait détaché bien visible'
+collation_2026_11:
+- ligne: 2
+  avant: tempér^{re} caniculaire.
+  apres: tempér^{re} caniculaire
+  justification: Au zoom [0.35 0.04 1.00 0.25], la finale « -laire » descend jusqu'au bord matériel droit du papier sans aucun point final.
+- ligne: 7
+  avant: \ind A la gde blanchisserie
+  apres: \ind A la g^{de} blanchisserie
+  justification: Au zoom [0.02 0.25 0.78 0.42], « de » est nettement surélevé d'un œil complet au niveau du sommet du « g » (contrairement à « gde chambre » à la l. 15 où « de » reste bas sur la ligne).
+- ligne: 8
+  avant: Barbry bp de dégâts. Obus
+  apres: Barbry bp de degâts. Obus
+  justification: Au zoom [0.02 0.25 0.78 0.42], l'espace au-dessus de « e » et « g » dans « degâts » est totalement vierge ; seul le « â » porte son circonflexe.
+- ligne: 9
+  avant: non éclatés, encore
+  apres: non eclatés, encore
+  justification: Au zoom [0.02 0.25 0.78 0.42], aucun accent n'est tracé au-dessus du « e » initial de « eclatés » ; seul le « é » final est accentué.
+- ligne: 12
+  avant: malaise – Insécurité
+  apres: malaise – Insecurité
+  justification: Au zoom [0.36 0.36 1.00 0.55], le papier au-dessus du premier « e » de « Insecurité » est entièrement blanc ; seuls le point du « i » et l'accent en crochet du « é » final sont présents.

@@ -120,3 +120,16 @@ noms:
     ligne: 10
     identite: Bédarieux (Hérault)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Sam. 3} — \hfill \sl{Fev. '17}
+  apres: \sl{Sam. 3} – \hfill \sl{Fév. '17}
+  justification: 1° Après « Sam. 3 », tiret court « – » (identique aux tirets d'ouverture des l. 2–10, et non tiret long « — » comme après « 5^{f} — » l. 7). 2° Dans « Fév. '17 », un accent aigu franc et appuyé est nettement tracé au-dessus de « e-v », bien détaché sous la boucle terminale de la barre supérieure du « F ».
+- ligne: 3
+  avant: 'et 3 plombages : \inc{40}^{f} — net : 25 —'
+  apres: 'et 3 plombages : \inc{40}^{f} – net : 25 –'
+  justification: Les deux tirets de la l. 3 (après « 40^{f} » et après « 25 ») sont des tirets courts « – » (~3 mm, exactement de la même longueur que le tiret d'ouverture « – Broche » placé juste sous le premier), deux fois plus courts que le tiret long « 5^{f} — » de la l. 7.
+- ligne: 8
+  avant: '– Supplément pour m''être declassé en 2^{e} : 1^{f} —'
+  apres: '– Supplément pour m''etre declassé en 2^{e} : 1^{f} –'
+  justification: '1° Dans « m''etre », aucun accent circonflexe ne figure au-dessus du premier « e » : seule la barre horizontale rectiligne du « t » traverse la haste du « t » (comme au cl. 146 l. 22). 2° Au bord droit de la page, le petit trait final resserré sous/après « 1^{f} » est un tiret court « – » et non un tiret long « — ».'

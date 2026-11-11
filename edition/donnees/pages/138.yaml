@@ -6,24 +6,24 @@ lieux: Toulouse (Haute-Garonne)
 titre: Neige ; dentiste ; montre à remontoir chez Pfister ; regret de quitter Toulouse
 transcription: |
   2 \sl{Vendredi}.
-  Tjours même temps, très froid. — \hfill \sl{Février 1917} —
-  neige abondamment durant matinee
+  Tjours même temps, très froid. – \hfill \sl{Février 1917} –
+  neigé abondamment durant matinee.
   Matin & soir, venu chz dentiste, M. de Lersay,
   rue \inc{La} Fayette. Très bien soigné par j. dame,
-  opératrice
+  operatrice
   Après-midi, visite à Mme de Labarthe. Puis
-  monté chz Henriette : y retrouvé Marg^{te} \inc{&c}
-  Descendu à pied de S^{te}-Marie, vers 10^{h} s.
+  monté chz Henriette : y retrouvé Marg^{te} \inc{etc}
+  Descendu à pied de S^{te} Marie, vers 10^{H} s.
   Froid piquant. Sol durci.
   \blanc{3}
   \crochet{5}chz Pfister, remontoir or mat Louis XVI
-  105 fr. — Petit anneau pour attacher pendantif
+  105 fr. – Petit anneau pour attacher pendantif
   à sautoir, free. — \inc{1} boite pastilles de
-  Chlorate de Potasse : 1^{f} 30c – Trams : 20c – , 10c
+  Chlorate de Potasse : 1^{f} 30c – Trams : 20c., 10c
   Bain, Place Belfort : 1^{f} —
   \blanc{2}
   Quitte à regret Tl^{s}, sacrifiant 3 jours entiers
-  pour aller à Millau. . . . Aurais preferé rester
+  pour aller à Millau. . . . Aurais preféré rester
   encore ici, afin de jouir + lgs de mon
   appart^{t}, rempli de souvenirs.
 apparat:
@@ -36,9 +36,9 @@ apparat:
   type: abreviation
   note: jeune
 - ligne: 8
-  lemme: \inc{&c}
+  lemme: \inc{etc}
   type: lecture
-  note: 'lecture incertaine ; autres lectures : do, etc.'
+  note: 'lecture incertaine ; autres lectures : &c, do'
 - ligne: 13
   lemme: free
   type: emprunt

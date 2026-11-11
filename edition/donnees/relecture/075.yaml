@@ -112,3 +112,20 @@ audit:
   avant: etc. etc. &
   apres: etc. etc &
   justification: point net après le premier etc ; le second se prolonge en long délié jusqu'au & sans aucun point
+collation_2026_11:
+- ligne: 5
+  avant: a coté du
+  apres: à coté du
+  justification: accent grave tracé sur « à »
+- ligne: 10
+  avant: penetrant
+  apres: pénétrant
+  justification: deux accents aigus tracés sur « pénétrant »
+- ligne: 11
+  avant: Tout le long route,
+  apres: Tout le long routes,
+  justification: -s final tracé à « routes »
+- ligne: 17
+  avant: Visité ds la brasserie
+  apres: Visité à la brasserie
+  justification: préposition « à » avec accent grave, non « ds »

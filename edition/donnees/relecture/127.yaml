@@ -133,3 +133,24 @@ audit:
   avant: fort Vitres couvertes d'1 épaisse couche
   apres: fort Vitres couvertes d'1 épaisse couche –
   justification: après le long délié final de « couche », un court tiret détaché, à l'encre pleine, à mi-hauteur d'œil au bord droit (zoom ×3 [.72 .245 1.0 .30]) ; distinct de la tache grise voisine (transparence)
+collation_2026_11:
+- ligne: 6
+  avant: fort Vitres couvertes d'1 épaisse couche –
+  apres: fort Vitres couvertes d'1 epaisse couche –
+  justification: Aucun accent aigu ne surmonte le « e » initial de « epaisse » (l'espace entre « 1 » et « p », traversé par le jambage descendant du « f » de « froide » l. 5, est dépourvu de tout trait d'accent) ; l'unique tiret horizontal décalé au-dessus de « ss » est le point de l'« i » de « epaisse » (exactement comme le point en tiret de « Washing » décalé sur « ng » à la l. 12 ; guide paléographique § 1 & § 4).
+- ligne: 10
+  avant: \ind aujourdhui encore liberté complète
+  apres: \ind aujourdhui encore liberté complete
+  justification: 'Aucun accent grave n''est tracé sur « complete » : seule la barre horizontale du « t » coupe sa hampe, tandis que l''accent incurvé placé dans le blanc à gauche de « complete » est l''accent aigu final de « liberté » décalé à droite (cf. « complet^{t} » sans accent au cl. 137 l. 15).'
+- ligne: 11
+  avant: Terminé ts préparatifs départ
+  apres: Terminé ts preparatifs depart
+  justification: 'Double absence d''accent aigu : 1° dans « preparatifs », le blanc interlinéaire au-dessus de « p-r-e-p-a » est entièrement intact (contrairement à « préparatifs » à la l. 18 de la même page, qui porte un net accent oblique sur « é ») ; 2° dans « depart », le blanc au-dessus de « d-e-p-a » sous « complete » est également vierge, seule la barre finale du « t » étant tracée.'
+- ligne: 14
+  avant: couvertes épaisse couche mate pointillée.
+  apres: couvertes epaisse couche mate pointillée.
+  justification: Le papier est entièrement vierge au-dessus du « e » initial de « epaisse » (sous « Jeudi – » de la l. 13) ; seul le petit point de l'« i » figure plus loin au-dessus de « is ».
+- ligne: 16
+  avant: fait étinceler neige durcie champs & cours
+  apres: fait etinceler neige durcie champs & cours
+  justification: 'Aucun accent aigu ne surmonte le « e » initial de « etinceler » : seuls la barre horizontale coupant la haste du « t » et le point rond sur l''« i » sont présents (même graphie sans accent initial que « etincellent » au cl. 128 l. 13).'

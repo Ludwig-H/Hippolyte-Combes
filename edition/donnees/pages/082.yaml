@@ -9,7 +9,7 @@ transcription: |
   \ind nuit très froide. gelé fortement
   Ds la journée, soleil rechauffé 1 peu température
   Matinée, promenade de reconnaissce en ville
-  la long rues dont les maisons atteintes par
+  le long rues dont les maisons atteintes par
   obus. Venu à l'ordonnance, \inc{Aveluy}
   \ind Tout l'après-midi, ds ma chambre. achevé
   de m'installer pour le mieux.
@@ -29,8 +29,8 @@ apparat:
   type: abreviation
   note: reconnaissance
 - ligne: 5
-  lemme: la long rues
-  type: lecture
+  lemme: le long rues
+  type: syntaxe
   note: pour « le long des rues »
 - ligne: 6
   lemme: l'ordonnance

@@ -12,18 +12,18 @@ transcription: |
   dont presque tte les maisons ont reçu des
   obus – –
   \blanc{1.5}
-  Continué ensuite sur Armentières – \add{Arrivé par gare (l. est compt déserte}
+  Continué ensuite sur Armentières – \add{Arrivé par gare , l. est compt déserte}
   Parcouru principaux quartiers –
   Ville importante, riche – très b maisons
   Effets des bombardements grands
-  dommages. Vu \inc{çà} & la. de toits
+  dommages. Vu très gd n. de toits
   crevés, de façades trouées, cloisons
   d'appartement mises à nu –
   Eglise à briques rouges, sur 1 place
   très atteinte Clocher découronné –
   Toiture abattue
   La + des immeubles inoccupés
-  abandonnés par leurs habitants \add{Ecossais}
+  abandonnés par leur habitants \add{Ecossais}
   Rentré par gd route – Arrêté à
   Erquinghem et thé av 1 off des Sussex
   \ind[2] Fin journée Ensoleillée et \addm{très belle}
@@ -49,13 +49,17 @@ apparat:
   type: abreviation
   note: belles
 - ligne: 11
-  lemme: \inc{çà}
-  type: lecture
-  note: 'lecture incertaine (çà & là) ; autre lecture : là'
+  lemme: n.
+  type: abreviation
+  note: nombre
 - ligne: 17
   lemme: La +
   type: abreviation
   note: la plupart
+- ligne: 18
+  lemme: leur
+  type: graphie
+  note: pour « leurs »
 - ligne: 18
   lemme: Ecossais
   type: ajout

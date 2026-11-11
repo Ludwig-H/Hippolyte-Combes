@@ -192,3 +192,28 @@ noms:
     ligne: 10
     identite: rue Saint-Joseph, Toulouse
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: en sortant cathle,
+  apres: en sortant cath^{le},
+  justification: Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u1_060_appartt_continue_parle.jpg), après « c-a-t-h » posés sur la ligne de base, le groupe « le » (boucle de l + délié de e) est intégralement détaché et perché en exposant à hauteur du sommet de la haste du h, bien au-dessus du corps d'écriture (graphie canonique « cath^{le} » enregistrée dans ABREVIATIONS.md l. 120 et attestée aux cl. 119, 139 et 182). Adapter le lemme d'apparat de la l. 4 (« cathle » → « cath^{le} »).
+- ligne: 4
+  avant: parlé av Mme
+  apres: parle av Mme
+  justification: 'Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u1_060_appartt_continue_parle.jpg), aucun accent aigu autonome n''est tracé au-dessus de « -le » ni dans le blanc précédant « av » : le fin trait horizontal qui court au-dessus de « l-e » est en continuité directe avec le long délié final étiré de « de » à la l. 3 (« A coté de »).'
+- ligne: 8
+  avant: Rentré pr qq visites & arrangt appartt
+  apres: Rentré pr qq visites & arrangt appart^{t}
+  justification: Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u1_060_appartt_continue_parle.jpg), contrairement à « arrangt » voisin (dont le t final redescend sur la ligne de base), le second t de « appart^{t} » est une petite croix épaisse nettement perchée à mi-hauteur en exposant à droite du premier t (forme canonique d'ABREVIATIONS.md l. 107 et des cl. 055, 058, 059, 131, 136, 138, 141).
+- ligne: 11
+  avant: et descendus à terminus. Continué, route à
+  apres: et descendus à terminus. Continué route à
+  justification: Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u1_060_appartt_continue_parle.jpg), entre « Continué » et « route », il n'existe qu'UN SEUL trait fin oblique « / » situé intégralement dans le registre supérieur/diacritique (de la hauteur d'œil vers la zone haute, sans jamais atteindre ni franchir la ligne de base, à l'inverse de la vraie virgule de « Labarthe, » juste au-dessous à la l. 12 qui plonge largement sous la ligne). Sans ce trait décalé d'une demi-lettre à droite, « Continue » n'aurait d'ailleurs aucun accent aigu (la barre horizontale à gauche de la boucle du J de « Joseph » l. 10 est uniquement la barre du t de « Continué »). Ce trait unique a été compté deux fois (accent aigu + virgule) lors de la relecture antérieure ; sa restitution comme simple accent rétablit la syntaxe directe « Continué route à pied. »
+- ligne: 13
+  avant: Présenté ma Fiancée —
+  apres: Presenté ma Fiancée —
+  justification: Sous « pied. » (l. 12), le papier est entièrement vierge au-dessus du premier e et de « -sen- » dans « Presenté » ; seul le « -té » final porte un accent aigu au-dessus et à droite du e (même omission d'accent interne que dans « Separes » l. 7, « agreable » l. 14 et « Marche » l. 17 sur la même page ; « Fiancée » conserve quant à lui son petit trait d'accent final pâle).
+- ligne: 17
+  avant: 'Trams : 20, 30 \hfill Marche V. Hugo :'
+  apres: 'Trams : 20, 30 \hfill Marche V Hugo :'
+  justification: 'Contrairement à « Victor. Hugo » (l. 6), l''espace situé sous et après l''arche finale du V de « Marche V Hugo : » est entièrement blanc et dépourvu de tout point abréviatif (les traits situés plus à gauche sous le montant initial du V appartiennent au point du i et à la haste du t de « fruits » à la l. 18). Adapter le lemme d''apparat de la l. 17 (« V. » → « V »).'

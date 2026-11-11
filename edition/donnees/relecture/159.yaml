@@ -169,3 +169,24 @@ audit:
   avant: Après-midi, courte promenade s/ route
   apres: Après-midi, Courte promenade s/ route
   justification: C initial à boucle de tête et grand arc, deux fois la hauteur des minuscules, identique au C de « Contay » (l. 4) ; les c minuscules de la page (course, ciel) sont au module des minuscules
+collation_2026_11:
+- ligne: 18
+  avant: parti vers 11^{h}, allé à Senlis & Martinsart,
+  apres: parti vers 11^{H}, allé à Senlis & Martinsart,
+  justification: 'Deux montants verticaux parallèles reliés par une traverse en exposant après « 11 » : « H » majuscule suscrit (« 11^{H} »), et non « h » minuscule.'
+- ligne: 19
+  avant: ne rentré qu'à 6^{h} \inc{s} —
+  apres: ne rentré qu'à 6^{H} \inc{s} —
+  justification: Même « H » majuscule suscrit à deux hastes parallèles (« 6^{H} »), identique à « 11^{H} » (l. 18).
+- ligne: 20
+  avant: Temps beau, soleil très agréable \fr{1}{2} journée.
+  apres: Temps beau, soleil très agreable \fr{1}{2} journée.
+  justification: L'interligne blanc au-dessus de « agreable » (sous la fin vide de la l. 19) est entièrement vierge, sans aucun accent aigu sur le premier « e » (forme « agreable » attestée 3 fois ailleurs dans le corpus). Reliquat de normalisation.
+- ligne: 21
+  avant: Ecrit bp et lu English novel
+  apres: Écrit bp et lu English novel
+  justification: Au zoom ×6 et au contrôle colorimétrique RVB ([R=3, G=0, B=26], encre violette franche distincte des rousseurs brunes du papier), un net trait d'accent oblique surplombe directement l'« E » majuscule bouclé d'« Écrit » dans le blanc sous « Te- » de « Temps » (l. 20), entièrement détaché du pied du « T » (comparer l'« E » nu d'« English » sur la même ligne, et « Écouté », « Émile », « Épais » dans le corpus).
+- ligne: 24
+  avant: \ind De nouveau, après dîner. Nuit étoilée, et
+  apres: \ind De nouveau, après diner. Nuit étoilée, et
+  justification: Au-dessus de « -in- » dans « diner » ne figure qu'un simple trait horizontal plat — forme habituelle du point d'« i » chez Combes (identique à « Mirvaux » l. 7, « Silence » l. 8, « pleine » l. 25), et non un accent circonflexe « ^ » (« diner » sans circonflexe est attesté 15 fois dans l'édition contre cet unique reliquat « dîner. »).

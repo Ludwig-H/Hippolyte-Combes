@@ -253,3 +253,28 @@ audit:
   avant: 'Boutons simili-cuir : 4^{f} 75'
   apres: 'Boutons simili cuir : 4^{f} 75'
   justification: 'zoom ×3 [.35 .86 .62 .93] : aucun trait d''union à mi-hauteur entre simili et cuir ; le petit trait oblique, au-dessus de la ligne de tête, est le point du troisième i de simili (trois points pour trois i) ; cuir a son propre point'
+collation_2026_11:
+- ligne: 4
+  avant: profonds par les innombrables véhicules \add{lourds} qui
+  apres: profonds par les innombrables vehicules \add{lourds} qui
+  justification: 'Aucun accent aigu n''est tracé au-dessus de « v-e » dans « vehicules » : le papier y est entièrement vierge (le jambage descendant du p de « pétri » l. 3 rejoint directement la haste du h, suivi du seul point du i au-dessus de « i-c »).'
+- ligne: 6
+  avant: \ind Matin, liberté complète –
+  apres: \ind Matin, liberté complete –
+  justification: 'Sous un blanc interlinéaire total (après « le labourent » l. 5 qui s''arrête à gauche), le papier est intégralement vierge au-dessus de « c-o-m-p-l-e-t-e » : seule la barre horizontale traversant la haste du t est tracée, sans aucun accent grave (comparer « complete » au cl. 107 l. 2 et au cl. 175, par opposition au cl. 100 l. 9 où un trait d''accent figure entre l et t).'
+- ligne: 14
+  avant: \ind qu'auj'dhui, très fort bombardt — du
+  apres: \ind qu'auj'dhui, très fort bombardt – du
+  justification: Entre « bombardt » et « du » figure un très court tiret horizontal « – » (même calibre court que « ciel nuageux – pluie » l. 19 et « liberté complete – » l. 6), trois fois plus court que les tirets longs « — » de « 14 Ma^{rdi} — » (l. 13) et « & cars — » (l. 16).
+- ligne: 15
+  avant: Côté de Beaumont Vu passer de x blessés
+  apres: Coté de Beaumont Vu passer de x blessés
+  justification: 'Aucun accent circonflexe sur le o de « Coté » : le papier est parfaitement vierge au-dessus de « C-o » (sous le blanc précédant « qu''auj''dhui » l. 14), seul l''accent aigu final après « -té » étant tracé (même graphie « coté » qu''au cl. 060 l. 3).'
+- ligne: 18
+  avant: Partis 8^{h} \fr{1}{2} m., rentrés 5^{h} soir.
+  apres: Partis 8^{H} \fr{1}{2} m., rentres 5^{H} soir.
+  justification: '1° Tant dans « 8^{H} » que dans « 5^{H} », la lettre suscrite est formée de deux montants verticaux parallèles reliés par une traverse médiane (« H » majuscule suscrit, cf. GUIDE_PALEOGRAPHIQUE.md § 7, et non « h » minuscule bouclé). 2° Sous « Raincheval » (l. 17, dépourvu de jambage descendant), l''espace interlinéaire au-dessus de « rentres » est entièrement vierge : seule la barre transversale du t est tracée, sans aucun accent aigu sur « -es ».'
+- ligne: 24
+  avant: '\crochet{2}Cartes ple : 40c – 1 50 et 10c'
+  apres: '\crochet{2}Cartes ple : 40c. 1^{f} 50 et 10c'
+  justification: 'Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u3_098_belle_eglise_40c_1f50.jpg) : 1° immédiatement après « 40c » (premier jet à l''encre noire foncée) figure un point rond « . » posé sur la ligne de base (identique à « Acheux : 35c. » au cl. 099 l. 10), et non un tiret « – » ; 2° dans l''ajout de second jet « 1^{f} 50 et 10c » (tracé d''une encre gris-brun plus pâle et légèrement surélevé), un petit « f » bouclé suscrit « ^{f} » de la même encre pâle est nettement tracé en exposant entre « 1 » et « 50 », bien distinct du circonflexe foncé de « l''hôtel » en dessous à la l. 25 (élimine l''unique hapax « 1 50 » sans unité du corpus, face à « 1^{f} 50 » aux cl. 036, 050 et 163).'

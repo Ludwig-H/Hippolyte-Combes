@@ -7,6 +7,14 @@ personnes:
   attestations:
   - - 82
     - 16
+- id: adhemar
+  nom: Adhémar de Cransac, Alfred d' (le Père)
+  court: P. d'Adhémar
+  notice: jésuite toulousain (1854--1914), «~notre grand ami~» au cimetière de Terre-Cabade (?)
+  formes: []
+  attestations:
+  - - 57
+    - 23
 - id: albertine
   nom: Albertine
   court: Albertine
@@ -23,6 +31,11 @@ personnes:
   attestations:
   - - 25
     - 9
+- id: xr_andre
+  nom: André
+  formes: []
+  attestations: []
+  renvoi: Faure, André
 - id: auriol
   nom: Auriol
   court: Auriol
@@ -31,6 +44,11 @@ personnes:
   attestations:
   - - 139
     - 4
+- id: xr_b_mm
+  nom: B. Mm
+  formes: []
+  attestations: []
+  renvoi: Bonne-Maman (?)
 - id: backer
   nom: Backer (M\textsuperscript{me})
   court: M\textsuperscript{me} Backer
@@ -77,6 +95,14 @@ personnes:
   attestations:
   - - 130
     - 5
+- id: bon_papa
+  nom: Bon Papa
+  court: Bon Papa
+  notice: surnom familial d'Hippolyte Combes auprès de ses petits-enfants
+  formes: []
+  attestations: []
+  refs_extra:
+  - introd., p.~\pageref{intro:bon-papa}
 - id: bonne_maman
   nom: Bonne-Maman (?)
   court: B. Mm
@@ -133,6 +159,14 @@ personnes:
   attestations:
   - - 142
     - 9
+- id: calmels_gabriel
+  nom: Calmels, Gabriel (docteur)
+  court: D\textsuperscript{r} Calmels
+  notice: médecin à Millau (1852--1921), père de Marguerite («~parents~» au f.~69~v\textsuperscript{o})
+  formes: []
+  attestations:
+  - - 139
+    - 20
 - id: calmels_marguerite
   nom: Calmels, Marguerite
   court: Marguerite
@@ -251,21 +285,13 @@ personnes:
   attestations:
   - - 54
     - 6
+  - - 55
+    - 10
   - - 59
     - 12
   - - 60
     - 4
   - - 139
-    - 20
-- id: copin
-  nom: Copin (M\textsuperscript{me})
-  court: M\textsuperscript{me} Copin
-  notice: habitante de Beauquesne ; lecture incertaine (Capin ?)
-  formes: []
-  attestations:
-  - - 115
-    - 6
-  - - 120
     - 20
 - id: carlumont
   nom: Carlumont (M. et M\textsuperscript{me})
@@ -291,12 +317,19 @@ personnes:
   attestations:
   - - 151
     - 13
+- id: xr_mme_ch_cl
+  nom: C\textsuperscript{h}, C\textsuperscript{l} (M\textsuperscript{me})
+  formes: []
+  attestations: []
+  renvoi: Calmels, Valentine
 - id: cliquennois
   nom: Cliquennois (M\textsuperscript{me})
   court: M\textsuperscript{me} Cliquennois
   notice: sans doute la logeuse d'Hippolyte Combes à La Croix-du-Bac (Steenwerck), août 1916
   formes: []
   attestations:
+  - - 23
+    - 23
   - - 26
     - 17
 - id: colart
@@ -306,7 +339,7 @@ personnes:
   formes: []
   attestations:
   - - 181
-    - 20
+    - 21
 - id: colin
   nom: Colin
   court: Colin
@@ -357,14 +390,34 @@ personnes:
   notice: \emph{groom} (palefrenier) d'Hippolyte Combes à la 152\textsuperscript{nd} Company A.S.C.
   formes: []
   attestations:
+  - - 5
+    - 23
   - - 12
     - 23
+  - - 23
+    - 24
+  - - 28
+    - 21
   - - 41
     - 19
   - - 45
     - 22
+  - - 50
+    - 18
   - - 74
     - 14
+  - - 76
+    - 2
+- id: copin
+  nom: Copin (M\textsuperscript{me})
+  court: M\textsuperscript{me} Copin
+  notice: habitante de Beauquesne ; lecture incertaine (Capin ?)
+  formes: []
+  attestations:
+  - - 115
+    - 6
+  - - 120
+    - 20
 - id: cordonnier
   nom: Cordonnier
   court: Cordonnier
@@ -524,12 +577,16 @@ personnes:
   notice: voisines d'Hippolyte Combes à Toulouse
   formes: []
   attestations:
+  - - 56
+    - 21
   - - 137
     - 5
+  - - 137
+    - 19
 - id: denis
   nom: Denis (famille)
   court: Denis
-  notice: famille d'Hérissart chez qui Hippolyte Combes passe ses soirées
+  notice: famille d'Hérissart chez qui Hippolyte Combes passe ses soirées (dont «~B\textsuperscript{te} Denis~», f.~91~r\textsuperscript{o})
   formes: []
   attestations:
   - - 178
@@ -542,6 +599,11 @@ personnes:
     - 24
   - - 184
     - 16
+- id: xr_bte_denis
+  nom: Denis, B\textsuperscript{te} (?)
+  formes: []
+  attestations: []
+  renvoi: Denis (famille)
 - id: donse
   nom: Donse (M\textsuperscript{me})
   court: M\textsuperscript{me} Donse
@@ -592,6 +654,11 @@ personnes:
   attestations:
   - - 39
     - 23
+- id: xr_emile
+  nom: Émile (oncle)
+  formes: []
+  attestations: []
+  renvoi: Crouzet, Émile
 - id: evar
   nom: Evar
   court: Evar
@@ -642,6 +709,11 @@ personnes:
   attestations:
   - - 131
     - 5
+- id: xr_femme_fiancee
+  nom: Femme (ma) ; Fiancée (ma)
+  formes: []
+  attestations: []
+  renvoi: Calmels, Marguerite
 - id: fisher
   nom: Fisher
   court: Fisher
@@ -660,6 +732,14 @@ personnes:
   attestations:
   - - 168
     - 8
+- id: flutre_fils
+  nom: Flutre, Louis-Fernand ?
+  court: le fils Flutre
+  notice: «~le fils~» de M. et M\textsuperscript{me} Flutre, élève de l'École normale supérieure (1892--1978)
+  formes: []
+  attestations:
+  - - 168
+    - 9
 - id: ford
   nom: Ford (lieutenant)
   court: Ford
@@ -668,6 +748,16 @@ personnes:
   attestations:
   - - 50
     - 8
+- id: xr_gaby
+  nom: Gaby
+  formes: []
+  attestations: []
+  renvoi: Vincens, Gabriel
+- id: xr_germaine
+  nom: Germaine
+  formes: []
+  attestations: []
+  renvoi: Faure, Germaine ; Vincens, Germaine ?
 - id: gilbert
   nom: Gilbert (sous-lieutenant)
   court: Gilbert
@@ -677,7 +767,7 @@ personnes:
   - - 179
     - 23
   - - 181
-    - 11
+    - 12
   - - 185
     - 19
   - - 186
@@ -690,6 +780,11 @@ personnes:
   attestations:
   - - 166
     - 15
+- id: xr_grand_ami
+  nom: Grand ami (notre)
+  formes: []
+  attestations: []
+  renvoi: Adhémar de Cransac, Alfred d'
 - id: granger
   nom: Granger (maréchal des logis)
   court: Granger
@@ -700,6 +795,11 @@ personnes:
     - 9
   - - 163
     - 11
+- id: xr_groom
+  nom: Groom (mon)
+  formes: []
+  attestations: []
+  renvoi: Connelly
 - id: grose
   nom: Grose, Daniel Charles Evans (lieutenant-colonel)
   court: Grose
@@ -766,6 +866,18 @@ personnes:
   attestations:
   - - 7
     - 16
+  - - 33
+    - 17
+- id: xr_headcook
+  nom: Headcook
+  formes: []
+  attestations: []
+  renvoi: Hancock
+- id: xr_henri
+  nom: Henri
+  formes: []
+  attestations: []
+  renvoi: Faure, Henri
 - id: henriette
   nom: Henriette
   court: Henriette
@@ -838,6 +950,11 @@ personnes:
   attestations:
   - - 92
     - 7
+- id: xr_jean
+  nom: Jean
+  formes: []
+  attestations: []
+  renvoi: Crouzet, Jean
 - id: jessie
   nom: Jessie
   court: Jessie
@@ -846,6 +963,19 @@ personnes:
   attestations:
   - - 167
     - 14
+- id: xr_josephe
+  nom: Josèphe
+  formes: []
+  attestations: []
+  renvoi: Combes, Joséphine
+- id: kouine
+  nom: Kouine (?)
+  court: Kouine
+  notice: surnom dans une lettre écrite aux Andelys ; lecture incertaine
+  formes: []
+  attestations: []
+  refs_extra:
+  - annexe, p.~\pageref{annexe:doc5-kouine}
 - id: labarthe
   nom: Labarthe (M\textsuperscript{me} de)
   court: M\textsuperscript{me} de Labarthe
@@ -999,6 +1129,16 @@ personnes:
   attestations:
   - - 151
     - 11
+- id: xr_lupin
+  nom: Lupin (adjudant)
+  formes: []
+  attestations: []
+  renvoi: Lépin ou Lupin
+- id: xr_madeleine
+  nom: Madeleine
+  formes: []
+  attestations: []
+  renvoi: Vincens, Madeleine
 - id: maeterlinck
   nom: Maeterlinck, Maurice
   court: Maeterlinck
@@ -1007,6 +1147,30 @@ personnes:
   attestations:
   - - 53
     - 16
+- id: xr_maman
+  nom: Maman
+  formes: []
+  attestations: []
+  renvoi: Combes (mère d'Hippolyte)
+- id: xr_marcel
+  nom: Marcel
+  formes: []
+  attestations: []
+  renvoi: Faure, Marcel
+- id: xr_marguerite
+  nom: Marguerite
+  formes: []
+  attestations: []
+  renvoi: Calmels, Marguerite
+- id: margueritou
+  nom: Margueritou
+  court: Margueritou
+  notice: surnom affectueux de Marguerite Calmels
+  formes: []
+  attestations: []
+  refs_extra:
+  - annexe, p.~\pageref{annexe:doc5-margueritou}
+  renvoi: Calmels, Marguerite
 - id: maria
   nom: Maria
   court: Maria
@@ -1067,6 +1231,11 @@ personnes:
   attestations:
   - - 16
     - 15
+- id: xr_mere
+  nom: Mère
+  formes: []
+  attestations: []
+  renvoi: Calmels, Valentine ; Combes (mère d'Hippolyte)
 - id: michel
   nom: Michel (lieutenant)
   court: Michel
@@ -1075,6 +1244,11 @@ personnes:
   attestations:
   - - 3
     - 3
+- id: xr_mimi
+  nom: Mimi
+  formes: []
+  attestations: []
+  renvoi: Calmels, Anne-Marie
 - id: miquel
   nom: Miquel (M\textsuperscript{me})
   court: M\textsuperscript{me} Miquel
@@ -1094,7 +1268,7 @@ personnes:
 - id: morris
   nom: Morris (lieutenant)
   court: Morris
-  notice: officier britannique, de la 150\textsuperscript{th} Company A.S.C. (?), ancien camarade d'Hippolyte Combes
+  notice: officier britannique, de la 150\textsuperscript{th} Company A.S.C. (?), ancien camarade d'Hippolyte Combes ; «~Cap. Morris~» (?) au f.~82~v\textsuperscript{o}
   formes: []
   attestations:
   - - 120
@@ -1105,6 +1279,8 @@ personnes:
     - 5
   - - 122
     - 7
+  - - 165
+    - 8
 - id: mortreux
   nom: Mortreux (famille)
   court: Mortreux
@@ -1121,6 +1297,11 @@ personnes:
   attestations:
   - - 49
     - 11
+- id: xr_oncle
+  nom: Oncle
+  formes: []
+  attestations: []
+  renvoi: Crouzet, Émile ; Layral, Charles
 - id: panton
   nom: Pant (capitaine)
   court: Pant
@@ -1135,6 +1316,33 @@ personnes:
     - 15
   - - 90
     - 5
+- id: xr_papa
+  nom: Papa
+  formes: []
+  attestations: []
+  renvoi: Combes (père d'Hippolyte)
+- id: xr_parents
+  nom: Parents (de Marguerite)
+  formes: []
+  attestations: []
+  renvoi: Calmels, Gabriel ; Calmels, Valentine
+- id: perlounette
+  nom: Perlounette
+  court: Perlounette
+  notice: surnom affectueux de Marguerite Calmels
+  formes: []
+  attestations: []
+  refs_extra:
+  - annexe, p.~\pageref{annexe:doc5-perlounette}
+  renvoi: Calmels, Marguerite
+- id: petitou
+  nom: Petitou
+  court: Petitou
+  notice: surnom affectueux que se donne Hippolyte Combes dans une lettre à sa femme
+  formes: []
+  attestations: []
+  refs_extra:
+  - annexe, p.~\pageref{annexe:doc5-petitou}
 - id: pfister
   nom: Pfister
   court: Pfister
@@ -1147,6 +1355,11 @@ personnes:
     - 10
   - - 138
     - 11
+- id: xr_pierre
+  nom: Pierre
+  formes: []
+  attestations: []
+  renvoi: Calmels, Pierre
 - id: pizzi
   nom: Pizzi (lieutenant)
   court: Pizzi
@@ -1163,6 +1376,11 @@ personnes:
     - 8
   - - 92
     - 15
+- id: xr_pozzi
+  nom: Pozzi (lieutenant)
+  formes: []
+  attestations: []
+  renvoi: Pizzi (lieutenant)
 - id: renard
   nom: Renard (M.)
   court: M. Renard
@@ -1225,6 +1443,11 @@ personnes:
     - 21
   - - 158
     - 12
+- id: xr_soeurs
+  nom: Sœurs
+  formes: []
+  attestations: []
+  renvoi: Combes (sœurs d'Hippolyte) ; Vincens, Madeleine
 - id: tait
   nom: Tait (\textit{quartermaster-serjeant})
   court: Tait
@@ -1233,6 +1456,11 @@ personnes:
   attestations:
   - - 67
     - 18
+- id: xr_tante
+  nom: Tante
+  formes: []
+  attestations: []
+  renvoi: Crouzet (M\textsuperscript{me} Émile) ; Layral, Thérèse
 - id: terrier
   nom: Terrier
   court: Terrier
@@ -1265,6 +1493,11 @@ personnes:
   attestations:
   - - 64
     - 7
+- id: xr_therese_layral
+  nom: Thérèse (tante)
+  formes: []
+  attestations: []
+  renvoi: Layral, Thérèse
 - id: trefton
   nom: Trefton (capitaine)
   court: Trefton
@@ -1301,6 +1534,19 @@ personnes:
   attestations:
   - - 37
     - 7
+- id: veuve_barlette
+  nom: V\textsuperscript{e} — (M\textsuperscript{me})
+  court: M\textsuperscript{me} V\textsuperscript{e} —
+  notice: logeuse d'Hippolyte Combes près de Barlette, nom laissé en blanc
+  formes: []
+  attestations:
+  - - 67
+    - 10
+- id: xr_victor
+  nom: Victor
+  formes: []
+  attestations: []
+  renvoi: Duchâteau, Victor
 - id: vincens_famille
   nom: Vincens (famille)
   court: Vincens
@@ -1309,6 +1555,14 @@ personnes:
   attestations:
   - - 143
     - 17
+- id: vincens_gabriel
+  nom: Vincens, Gabriel, dit Gaby (docteur)
+  court: Gaby Vincens
+  notice: fils du D\textsuperscript{r} Fernand Vincens et de Madeleine Calmels, médecin à Saint-Chély-d'Apcher
+  formes: []
+  attestations: []
+  refs_extra:
+  - introd., p.~\pageref{intro:gaby}
 - id: vincens_germaine
   nom: Vincens, Germaine ?
   court: Germaine
@@ -1327,6 +1581,13 @@ personnes:
     - 4
   - - 134
     - 10
+  - - 137
+    - 7
+- id: xr_voisines
+  nom: Voisines (mes)
+  formes: []
+  attestations: []
+  renvoi: Delsol (dames)
 - id: votte
   nom: Votté (général)
   court: Votté
@@ -1436,7 +1697,12 @@ lieux:
   formes: []
   attestations:
   - - 181
-    - 11
+    - 12
+- id: xr_abri_soldat
+  nom: Abri du Soldat
+  formes: []
+  attestations: []
+  renvoi: Amiens, Abri du Soldat
 - id: acheux
   nom: Acheux-en-Amiénois (Somme)
   court: Acheux
@@ -1545,6 +1811,16 @@ lieux:
   attestations:
   - - 154
     - 18
+- id: acheux_chateau
+  nom: Acheux-en-Amiénois, château
+  court: château d'Acheux
+  sans_loci: true
+  formes: []
+  attestations:
+  - - 43
+    - 5
+  - - 101
+    - 15
 - id: achiet_le_petit
   nom: Achiet-le-Petit (Pas-de-Calais)
   court: Achiet-le-Petit
@@ -1608,7 +1884,7 @@ lieux:
   - - 171
     - 21
   - - 181
-    - 17
+    - 18
   - - 182
     - 8
 - id: albert_basilique
@@ -1631,6 +1907,13 @@ lieux:
   attestations:
   - - 80
     - 11
+- id: albert_cimetiere
+  nom: Albert, cimetière
+  court: cimetière d'Albert
+  formes: []
+  attestations:
+  - - 89
+    - 4
 - id: albert_route_amiens
   nom: Albert, route d'Amiens
   court: route d'Amiens (Albert)
@@ -1707,6 +1990,10 @@ lieux:
   attestations:
   - - 130
     - 8
+  - - 146
+    - 6
+  - - 148
+    - 8
 - id: amiens_hotel_paix
   nom: Amiens, hôtel de la Paix
   court: hôtel de la Paix (Amiens)
@@ -1714,6 +2001,14 @@ lieux:
   attestations:
   - - 119
     - 11
+- id: amiens_la_semeuse
+  nom: Amiens, La Semeuse
+  court: La Semeuse
+  notice: maison d'instruments agricoles
+  formes: []
+  attestations:
+  - - 119
+    - 14
 - id: amiens_sire_firmin
   nom: Amiens, rue Sire-Firmin-Leroux
   court: rue Sire-Firmin-Leroux
@@ -1737,14 +2032,6 @@ lieux:
   attestations:
   - - 24
     - 10
-- id: larbret
-  nom: L'Arbret (Pas-de-Calais)
-  court: L'Arbret
-  notice: hameau de Bavincourt et gare, près de Saulty
-  formes: []
-  attestations:
-  - - 109
-    - 8
 - id: armentieres
   nom: Armentières (Nord)
   court: Armentières
@@ -1800,6 +2087,11 @@ lieux:
   attestations:
   - - 28
     - 17
+- id: xr_assezat
+  nom: Assézat (hôtel d')
+  formes: []
+  attestations: []
+  renvoi: Toulouse, hôtel d'Assézat
 - id: australie
   nom: Australie
   court: Australie
@@ -1841,6 +2133,11 @@ lieux:
   attestations:
   - - 102
     - 21
+- id: xr_automate
+  nom: Automate (restaurant L')
+  formes: []
+  attestations: []
+  renvoi: Toulouse, restaurant L'Automate
 - id: auxi
   nom: Auxi-le-Château (Pas-de-Calais)
   court: Auxi-le-Château
@@ -1902,13 +2199,6 @@ lieux:
     - 2
   - - 28
     - 22
-- id: bailleul_aux_cornailles
-  nom: Bailleul-aux-Cornailles (Pas-de-Calais)
-  court: Bailleul-aux-Cornailles
-  formes: []
-  attestations:
-  - - 29
-    - 8
 - id: bailleul_saint_vaast
   nom: Bailleul, église Saint-Vaast
   court: Saint-Vaast (Bailleul)
@@ -1941,6 +2231,13 @@ lieux:
   attestations:
   - - 9
     - 20
+- id: bailleul_aux_cornailles
+  nom: Bailleul-aux-Cornailles (Pas-de-Calais)
+  court: Bailleul-aux-Cornailles
+  formes: []
+  attestations:
+  - - 29
+    - 8
 - id: barlette
   nom: Barlette (Somme)
   court: Barlette
@@ -2058,6 +2355,11 @@ lieux:
   attestations:
   - - 140
     - 10
+- id: xr_belle_eglise_farm
+  nom: Belle-Église (ferme de)
+  formes: []
+  attestations: []
+  renvoi: Belle-Église (Somme)
 - id: belle_eglise
   nom: Belle-Église (Somme)
   court: Belle-Église
@@ -2164,14 +2466,6 @@ lieux:
   attestations:
   - - 56
     - 13
-- id: la_boisselle
-  nom: La Boisselle (Somme)
-  court: La Boisselle
-  notice: hameau d'Ovillers-la-Boisselle, sur l'ancien front de juillet 1916
-  formes: []
-  attestations:
-  - - 84
-    - 6
 - id: boulogne
   nom: Boulogne-sur-Mer (Pas-de-Calais)
   court: Boulogne
@@ -2179,26 +2473,6 @@ lieux:
   attestations:
   - - 130
     - 11
-- id: le_bourget
-  nom: Le Bourget (Seine-Saint-Denis)
-  court: Le Bourget
-  notice: gare régulatrice
-  formes: []
-  attestations:
-  - - 52
-    - 3
-  - - 52
-    - 7
-  - - 53
-    - 11
-- id: paris_rue_flandre
-  nom: Le Bourget, rue de Flandre
-  court: rue de Flandre (Le Bourget)
-  notice: sans doute la grand-rue du Bourget, sur la route de Flandre, auj. avenue de la Division-Leclerc
-  formes: []
-  attestations:
-  - - 52
-    - 7
 - id: bournemouth
   nom: Bournemouth (Angleterre)
   court: Bournemouth
@@ -2224,7 +2498,7 @@ lieux:
   formes: []
   attestations:
   - - 181
-    - 7
+    - 8
 - id: bretagne
   nom: Bretagne
   court: Bretagne
@@ -2232,6 +2506,11 @@ lieux:
   attestations:
   - - 135
     - 11
+- id: xr_brickfield
+  nom: Brickfield area
+  formes: []
+  attestations: []
+  renvoi: Albert, briqueteries
 - id: brioude
   nom: Brioude (Haute-Loire)
   court: Brioude
@@ -2251,9 +2530,9 @@ lieux:
   - - 105
     - 4
   - - 181
-    - 17
-  - - 181
     - 18
+  - - 181
+    - 19
   - - 182
     - 8
 - id: bus
@@ -2291,6 +2570,11 @@ lieux:
   attestations:
   - - 167
     - 16
+- id: xr_capitole
+  nom: Capitole
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Capitole
 - id: carcassonne
   nom: Carcassonne (Aude)
   court: Carcassonne
@@ -2306,6 +2590,11 @@ lieux:
   attestations:
   - - 60
     - 10
+- id: xr_change
+  nom: Change (restaurant du)
+  formes: []
+  attestations: []
+  renvoi: Toulouse, restaurant du Change
 - id: clermont
   nom: Clermont-Ferrand (Puy-de-Dôme)
   court: Clermont-Ferrand
@@ -2314,12 +2603,13 @@ lieux:
   - - 144
     - 12
 - id: coigneux
-  nom: Coigneux (Somme)
+  nom: Coigneux (Somme) ?
   court: Coigneux
   formes: []
   attestations:
   - - 107
     - 6
+  notice: lecture incertaine
 - id: coisy
   nom: Coisy (Somme)
   court: Coisy
@@ -2327,6 +2617,11 @@ lieux:
   attestations:
   - - 95
     - 6
+- id: xr_cie_francaise
+  nom: Compagnie Française
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Compagnie Française
 - id: contay
   nom: Contay (Somme)
   court: Contay
@@ -2355,7 +2650,7 @@ lieux:
   - - 178
     - 20
   - - 181
-    - 8
+    - 9
   - - 182
     - 9
   - - 184
@@ -2378,6 +2673,11 @@ lieux:
   attestations:
   - - 106
     - 9
+- id: xr_cote_pavee
+  nom: Côte-Pavée
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Côte-Pavée
 - id: couin
   nom: Couin (Pas-de-Calais)
   court: Couin
@@ -2393,18 +2693,16 @@ lieux:
   attestations:
   - - 51
     - 17
-- id: la_croix_du_bac
-  nom: La Croix-du-Bac (Nord)
-  court: La Croix-du-Bac
-  notice: hameau de Steenwerck
+- id: xr_dalbade
+  nom: Dalbade (Notre-Dame de la)
   formes: []
-  attestations:
-  - - 10
-    - 2
-  - - 10
-    - 13
-  - - 12
-    - 12
+  attestations: []
+  renvoi: Toulouse, Notre-Dame de la Dalbade
+- id: xr_daurade
+  nom: Daurade (Notre-Dame de la)
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Notre-Dame de la Daurade
 - id: doullens
   nom: Doullens (Somme)
   court: Doullens
@@ -2478,6 +2776,11 @@ lieux:
     - 20
   - - 24
     - 12
+- id: xr_esquirol
+  nom: Esquirol (place)
+  formes: []
+  attestations: []
+  renvoi: Toulouse, place Esquirol
 - id: estaires
   nom: Estaires (Nord)
   court: Estaires
@@ -2695,9 +2998,9 @@ lieux:
   formes: []
   attestations:
   - - 181
-    - 8
+    - 9
   - - 181
-    - 16
+    - 17
   - - 186
     - 5
   - - 186
@@ -2774,6 +3077,18 @@ lieux:
   attestations:
   - - 147
     - 18
+- id: herissart_cimetiere
+  nom: Hérissart, cimetière
+  court: cimetière d'Hérissart
+  sans_loci: true
+  formes: []
+  attestations:
+  - - 163
+    - 26
+  - - 176
+    - 16
+  - - 183
+    - 6
 - id: jersey
   nom: Jersey (îles Anglo-Normandes)
   court: Jersey
@@ -2781,6 +3096,39 @@ lieux:
   attestations:
   - - 179
     - 24
+- id: larbret
+  nom: L'Arbret (Pas-de-Calais)
+  court: L'Arbret
+  notice: hameau de Bavincourt et gare, près de Saulty
+  formes: []
+  attestations:
+  - - 109
+    - 8
+- id: la_boisselle
+  nom: La Boisselle (Somme)
+  court: La Boisselle
+  notice: hameau d'Ovillers-la-Boisselle, sur l'ancien front de juillet 1916
+  formes: []
+  attestations:
+  - - 84
+    - 6
+- id: la_croix_du_bac
+  nom: La Croix-du-Bac (Nord)
+  court: La Croix-du-Bac
+  notice: hameau de Steenwerck
+  formes: []
+  attestations:
+  - - 10
+    - 2
+  - - 10
+    - 13
+  - - 12
+    - 12
+- id: xr_lardenne
+  nom: Lardenne
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Lardenne
 - id: lauraguais
   nom: Lauraguais
   court: Lauraguais
@@ -2795,9 +3143,29 @@ lieux:
   formes: []
   attestations:
   - - 181
-    - 7
+    - 8
   - - 186
     - 6
+- id: le_bourget
+  nom: Le Bourget (Seine-Saint-Denis)
+  court: Le Bourget
+  notice: gare régulatrice
+  formes: []
+  attestations:
+  - - 52
+    - 3
+  - - 52
+    - 7
+  - - 53
+    - 11
+- id: paris_rue_flandre
+  nom: Le Bourget, rue de Flandre
+  court: rue de Flandre (Le Bourget)
+  notice: sans doute la grand-rue du Bourget, sur la route de Flandre, auj. avenue de la Division-Leclerc
+  formes: []
+  attestations:
+  - - 52
+    - 7
 - id: lealvillers
   nom: Léalvillers (Somme)
   court: Léalvillers
@@ -2969,6 +3337,11 @@ lieux:
   attestations:
   - - 150
     - 19
+- id: xr_matabiau
+  nom: Matabiau (gare)
+  formes: []
+  attestations: []
+  renvoi: Toulouse, gare Matabiau
 - id: meaulte
   nom: Méaulte (Somme)
   court: Méaulte
@@ -3003,6 +3376,13 @@ lieux:
     - 16
   - - 140
     - 9
+- id: millau_cimetiere
+  nom: Millau, cimetière
+  court: cimetière de Millau
+  formes: []
+  attestations:
+  - - 143
+    - 5
 - id: millencourt
   nom: Millencourt (Somme)
   court: Millencourt
@@ -3066,6 +3446,11 @@ lieux:
   attestations:
   - - 144
     - 19
+- id: xr_montaudran
+  nom: Montaudran
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Montaudran
 - id: montigny
   nom: Montigny-sur-l'Hallue (Somme)
   court: Montigny
@@ -3092,6 +3477,11 @@ lieux:
   attestations:
   - - 39
     - 13
+- id: xr_nazareth
+  nom: Nazareth
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Nazareth
 - id: neuilly
   nom: Neuilly-sur-Seine (Hauts-de-Seine)
   court: Neuilly
@@ -3414,6 +3804,11 @@ lieux:
   attestations:
   - - 118
     - 6
+- id: xr_pech_david
+  nom: Pech-David
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Pech-David
 - id: pierregot
   nom: Pierregot (Somme)
   court: Pierregot
@@ -3469,6 +3864,16 @@ lieux:
   attestations:
   - - 161
     - 5
+- id: xr_ponts_jumeaux
+  nom: Ponts-Jumeaux
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Ponts-Jumeaux
+- id: xr_pouvourville
+  nom: Pouvourville
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Pouvourville
 - id: prouville
   nom: Prouville (Somme)
   court: Prouville
@@ -3548,6 +3953,11 @@ lieux:
     - 6
   - - 186
     - 8
+- id: xr_purpan
+  nom: Purpan
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Purpan
 - id: quesnoy
   nom: Quesnoy (ferme du ; Somme) ?
   court: ferme du Quesnoy
@@ -3642,6 +4052,10 @@ lieux:
     - 17
   - - 44
     - 10
+  - - 46
+    - 9
+  - - 47
+    - 9
 - id: rainneville
   nom: Rainneville (Somme)
   court: Rainneville
@@ -3659,6 +4073,11 @@ lieux:
   attestations:
   - - 32
     - 5
+- id: xr_recollets
+  nom: Récollets (carrefour des)
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Récollets
 - id: renescure
   nom: Renescure (Nord)
   court: Renescure
@@ -3691,9 +4110,9 @@ lieux:
   - - 169
     - 9
   - - 181
-    - 17
+    - 18
   - - 181
-    - 20
+    - 21
 - id: roellecourt
   nom: Roëllecourt (Pas-de-Calais)
   court: Roëllecourt
@@ -3756,7 +4175,7 @@ lieux:
   - - 180
     - 22
   - - 181
-    - 15
+    - 16
   - - 184
     - 12
   - - 184
@@ -3783,6 +4202,16 @@ lieux:
   attestations:
   - - 16
     - 7
+- id: xr_saint_agne
+  nom: Saint-Agne
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Saint-Agne
+- id: xr_saint_etienne
+  nom: Saint-Étienne (cathédrale)
+  formes: []
+  attestations: []
+  renvoi: Toulouse, cathédrale Saint-Étienne
 - id: saint_flour
   nom: Saint-Flour (Cantal)
   court: Saint-Flour
@@ -3852,6 +4281,16 @@ lieux:
     - 7
   - - 37
     - 18
+- id: xr_saint_sernin
+  nom: Saint-Sernin (basilique)
+  formes: []
+  attestations: []
+  renvoi: Toulouse, basilique Saint-Sernin
+- id: xr_sainte_marie
+  nom: Sainte-Marie-des-Champs
+  formes: []
+  attestations: []
+  renvoi: Toulouse, Sainte-Marie-des-Champs
 - id: saulty
   nom: Saulty (Pas-de-Calais)
   court: Saulty
@@ -3861,6 +4300,11 @@ lieux:
     - 8
   - - 118
     - 5
+- id: xr_la_semeuse
+  nom: Semeuse (La)
+  formes: []
+  attestations: []
+  renvoi: Amiens, La Semeuse
 - id: senlis
   nom: Senlis-le-Sec (Somme)
   court: Senlis
@@ -3893,7 +4337,7 @@ lieux:
   - - 171
     - 20
   - - 181
-    - 15
+    - 16
 - id: septenville
   nom: Septenville (Somme)
   court: Septenville
@@ -3963,6 +4407,11 @@ lieux:
     - 5
   - - 26
     - 14
+- id: xr_terre_cabade
+  nom: Terre-Cabade (cimetière de)
+  formes: []
+  attestations: []
+  renvoi: Toulouse, cimetière de Terre-Cabade
 - id: thievres
   nom: Thièvres (Somme)
   court: Thièvres
@@ -4042,6 +4491,13 @@ lieux:
     - 2
   - - 60
     - 4
+- id: tls_archeveche
+  nom: Toulouse, chapelle de l'Archevêché
+  court: chapelle de l'Archevêché
+  formes: []
+  attestations:
+  - - 137
+    - 11
 - id: tls_terre_cabade
   nom: Toulouse, cimetière de Terre-Cabade
   court: Terre-Cabade
@@ -4049,6 +4505,14 @@ lieux:
   attestations:
   - - 57
     - 19
+- id: tls_cie_francaise
+  nom: Toulouse, Compagnie Française
+  court: Compagnie Française
+  notice: magasin de nouveautés et tissus
+  formes: []
+  attestations:
+  - - 61
+    - 6
 - id: tls_cote_pavee
   nom: Toulouse, Côte-Pavée
   court: Côte-Pavée
@@ -4069,7 +4533,18 @@ lieux:
   formes: []
   attestations:
   - - 62
+    - 5
+  - - 62
     - 14
+  - - 132
+    - 15
+  - - 134
+    - 6
+  - - 137
+    - 9
+  - - 139
+    - 7
+  sans_loci: true
 - id: tls_assezat
   nom: Toulouse, hôtel d'Assézat
   court: hôtel d'Assézat
@@ -4115,6 +4590,13 @@ lieux:
   attestations:
   - - 57
     - 9
+- id: tls_musee
+  nom: Toulouse, musée (des Augustins)
+  court: musée (Toulouse)
+  formes: []
+  attestations:
+  - - 132
+    - 22
 - id: tls_nazareth
   nom: Toulouse, Nazareth
   court: Nazareth
@@ -4203,6 +4685,13 @@ lieux:
   attestations:
   - - 55
     - 17
+- id: tls_change
+  nom: Toulouse, restaurant du Change
+  court: restaurant du Change
+  formes: []
+  attestations:
+  - - 56
+    - 6
 - id: tls_automate
   nom: Toulouse, restaurant L'Automate
   court: L'Automate
@@ -4474,6 +4963,11 @@ lieux:
   attestations:
   - - 53
     - 20
+- id: xr_victor_hugo
+  nom: Victor-Hugo (marché)
+  formes: []
+  attestations: []
+  renvoi: Toulouse, marché Victor-Hugo
 - id: ville_sur_ancre
   nom: Ville-sur-Ancre (Somme)
   court: Ville-sur-Ancre
@@ -4523,9 +5017,9 @@ lieux:
   - - 179
     - 4
   - - 181
-    - 8
+    - 9
   - - 181
-    - 16
+    - 17
   - - 186
     - 5
 - id: ypres

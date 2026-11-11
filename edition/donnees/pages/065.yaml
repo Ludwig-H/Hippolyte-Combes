@@ -5,7 +5,7 @@ mois: Octobre 1916
 lieux: Paris ; Amiens et Doullens (Somme)
 titre: Train de Paris à 1~h~15 ; Amiens à 6~h, Doullens vers minuit ; nuit en gare
 transcription: |
-  Parti train 1^{H}15 s \inc{(} (espéré \add{il y \inc{en}} à 10^{H}\inc{45}
+  Parti train 1^{H}15 s \inc{(} (espéré \add{il y \inc{en} 1} à 10^{H}5
   \droite matin )
   \blanc{2}
   a Amiens , à 6^{H} s —
@@ -15,7 +15,7 @@ transcription: |
   Dû coucher gare \trait
   \blanc{4}
   \filet
-  \add{Paris} Métro : 15c, 15 c
+  \add{Paris} Métro : 15c 15 c
   Food ... : 25c, 25c, 50c , \hfill Drink : 10, c
   Consigne : 10c \trait
 apparat:
@@ -31,10 +31,6 @@ apparat:
   lemme: \inc{en}
   type: lecture
   note: 'lecture incertaine ; autre lecture : eût'
-- ligne: 1
-  lemme: 10^{H}\inc{45}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : 10^{H}5'
 - ligne: 8
   lemme: 10, c
   type: lecture

@@ -109,8 +109,8 @@ front = à l'avant ; horse-lines = lignes d'attache des chevaux ; (for) green fo
 hay = paille et foin ; brickfield area = secteur des briqueteries ; billet(s) = cantonnement, logement ; billeting
 officer = officier de cantonnement ; hut = baraque ; kit = paquetage ; office, Post-office, Train Office = bureau,
 bureau de poste, bureau du train ; Town Major (Town Major's office) = major de la place ; Headquarters = quartier
-général ; Purchase Board = commission des achats ; French Mission = Mission française ; clerk(s), office boy, staff =
-commis, petit employé, personnel ; groom, batman = ordonnance ; orderly (N.C.O.) = (sous-officier) de service ;
+général ; Purchase Board = commission des achats ; French Mission = Mission française ; clerk(s), office boy =
+commis, petit employé ; groom, batman = ordonnance ; orderly (N.C.O.) = (sous-officier) de service ;
 Blacksmith = forgeron ; Farm = ferme ; Wood = bois ; shifté, shifterons = changé, changerons de cantonnement ; we are
 moving = nous partons ; moving = en mouvement ; out riding = sorti à cheval ; lost my way = perdu mon chemin ; at the
 end of the road = au bout de la route.

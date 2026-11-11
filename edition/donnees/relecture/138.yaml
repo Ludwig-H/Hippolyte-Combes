@@ -191,3 +191,36 @@ noms:
     ligne: 17
     identite: Millau (Aveyron)
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: Tjours même temps, très froid. — \hfill \sl{Février 1917} —
+  apres: Tjours même temps, très froid. – \hfill \sl{Février 1917} –
+  justification: Les deux tirets de la l. 2 (après « froid. » et après « 1917 ») sont des tirets courts « – » (~3 mm, de même calibre que « 30c – » l. 14), plus de deux fois plus courts que les tirets longs « — » de « free. — » (l. 13) et « 1^{f} — » (l. 15).
+- ligne: 3
+  avant: neige abondamment durant matinee
+  apres: neigé abondamment durant matinee.
+  justification: 1° Un net accent aigu en crochet (« ⊂ ») est tracé juste en haut à droite de l'« e » final de « neigé », isolé sur papier vierge sous l'« o » de « Tjours » (entre la boucle du « j » à gauche et le « s » plongeant à droite). 2° Un point rond à l'encre violette est nettement posé sur la ligne de base à droite de « matinee » (au-dessus de « M. » de « M. de Lersay »), identique aux points finaux des l. 2, 5, 7 et 10 (« matinee » reste bien sans accent distinct sous le trait de soulignement de « Février 1917 »).
+- ligne: 6
+  avant: opératrice
+  apres: operatrice
+  justification: Aucun accent aigu n'est tracé au-dessus de « -pera- » (espace entièrement vierge sous « rue » de la l. 5) ; seuls le point de l'« i » et la barre horizontale du « t » figurent au-dessus de « -trice ».
+- ligne: 8
+  avant: y retrouvé Marg^{te} \inc{&c}
+  apres: y retrouvé Marg^{te} \inc{etc}
+  justification: Au zoom ×4, le tracé initial est une petite boucle basse d'« e » montant directement en haste de « t » (ligature « et » identique à celles de cl. 140 l. 3 « et 3 plombages », cl. 146 l. 7 « et mangé » et cl. 148 l. 12 « et varia »), suivie d'un « c » arrondi à long délié final. En outre, la graphie « &c » n'est attestée nulle part ailleurs dans les 186 clichés du carnet (0 occurrence), contre 33 occurrences de « etc ». Adapter en conséquence le lemme d'apparat de la l. 8.
+- ligne: 9
+  avant: Descendu à pied de S^{te}-Marie, vers 10^{h} s.
+  apres: Descendu à pied de S^{te} Marie, vers 10^{H} s.
+  justification: '1° Aucun trait d''union entre « S^{te} » et « Marie » : les deux petits traits horizontaux sont strictement sous les lettres suscrites « ^{te} » (traits de support d''exposant, conformément à la graphie « S^{te} Marie » des cl. 54, 55, 58, 59, 62, 134–137). 2° Après « 10 », la lettre suscrite présente deux montants verticaux parallèles reliés par une traverse : « H » majuscule (« 10^{H} »), identique aux « 5^{H} », « 8^{H} », « 10^{H} », « 11^{H} » du cl. 139.'
+- ligne: 12
+  avant: 105 fr. — Petit anneau
+  apres: 105 fr. – Petit anneau
+  justification: Tiret court « – » entre « 105 fr. » et « Petit », directement superposé au grand tiret long « — » trois fois plus étendu de « free. — » à la l. 13.
+- ligne: 14
+  avant: '1^{f} 30c – Trams : 20c – , 10c'
+  apres: '1^{f} 30c – Trams : 20c., 10c'
+  justification: 'Au zoom ×4, le signe qui suit immédiatement « 20c » avant la virgule est un petit point abréviatif « . » (plus de deux fois plus bref que le tiret « – » qui suit « 30c » sur la même ligne), exactement identique à la graphie « Trams à Toulouse : 20c., + 20c » du cl. 140 l. 5.'
+- ligne: 17
+  avant: Aurais preferé rester
+  apres: Aurais preféré rester
+  justification: 'Si la syllabe initiale « pre- » est sans accent, les deux « é » suivants de « preféré » portent chacun un net accent aigu décalé d''environ une demi-lettre à droite : un premier trait d''accent net au-dessus de « -er- » juste à droite de la hampe du « f » (Combes ne barre jamais le sommet de ses « f », cf. « sacrifiant », « froid », « free »), et un second trait d''accent après l''« e » final devant « rester ».'

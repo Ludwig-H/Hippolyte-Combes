@@ -5,20 +5,20 @@ mois: Mars 1917
 lieux: Hérissart, Rubempré, Montigny-sur-l'Hallue, Fréchencourt et Contay (Somme)
 titre: Rubempré, Montigny et Fréchencourt ; clair de lune ; entretien avec le D\textsuperscript{r} Dubois
 transcription: |
-  1^{er} \sl{Jeudi}. \hfill — Ma\sl{rs 1917} —
+  1^{er} \sl{Jeudi}. \hfill — \sl{Mars 1917} —
   \ind[2] Très belle journée.
-  Après-midi, course, en auto : Rubempré, au chateau
-  puis Montigny & Frechencourt. Causé \inc{lg} av le fils
-  du maire, ds ses champs ensoleillé vers Pont Noyelles
+  Après-midi, course, en auto : Rubempré, au château
+  puis Montigny & Frechencourt. Causé lgs av le fils
+  du maire, ds ses champs ensoleillés, vers Pont Noyelles
   \ind Après le thé, promenade sur route de Contay.
   Brume estompait horizons. Plateau, d'où belle
   vue panoramique. Moulins à vent. Aux
   carrefours, grands crucifix, cuivre et fer,
-  et élancés.
+  et elancés.
   Soir, diner pris, ressorti encore. Cheminé le
-  long route de Toutencourt. Mervx clair de
+  long route de Toutencourt. Merv^{x} clair de
   lune — illuminait paysage. Ombre des arbres
-  projetées \inc{s/} le sol. Halo lunaire. Impression
+  projetées s/ le sol. Halo lunaire. Impression
   de calme reposant & silence absolu \trait
   \blanc{1}
   \sl{2 Vendredi}. Matinée, brouillard. Vers milieu
@@ -29,17 +29,13 @@ transcription: |
   \ind Après-midi, liberté entière.
 apparat:
 - ligne: 4
-  lemme: \inc{lg}
-  type: lecture
-  note: 'longtemps ? lecture incertaine ; autre lecture : lgs'
+  lemme: lgs
+  type: abreviation
+  note: longtemps
 - ligne: 12
-  lemme: Mervx
+  lemme: Merv^{x}
   type: abreviation
   note: merveilleux
-- ligne: 14
-  lemme: \inc{s/}
-  type: lecture
-  note: 'sur ? lecture incertaine ; autre lecture : en'
 - ligne: 20
   lemme: Dr.
   type: abreviation

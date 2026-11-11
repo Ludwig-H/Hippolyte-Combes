@@ -5,20 +5,20 @@ mois: Février 1917
 lieux: Toulouse (Haute-Garonne)
 titre: Grand froid ; Nazareth ; montre en or chez Pfister ; adieu à Toulouse
 transcription: |
-  1^{er} \sl{Jeudi} \hfill \sl{Février 1917} —
+  1^{er} \sl{Jeudi} \hfill \sl{Février 1917} –
   Temps très froid. Gelé dur. Dans la journée, soleil
   brillant
-  matin, longue visite à Mme de Labarthe
-  & aux dames Delsol, mes voisines
+  matin, longue visite à Mme de \add{2} Labarthe
+  & aux \add{1} dames Delsol, mes voisines
   Au Capitole, retrouvé Mte, vers 11^{H} \fr{1}{2} et sa
-  sœur ! Remontés ensemble tram S^{te}-marie.
+  sœur. Remontés ensemble tram S^{te}-marie.
   après déjeuner, descendu ville et. av Henriette
   vers 4^{H} \fr{1}{2}, à \add{gare, à propos panier fleurs} Nazareth, revu \inc{tte} ma famille
   Choisi montre or ch Pfister.
   Chapelle archeveché : conférence, pas eu lieu –
   Rentré dîner à S^{te} Marie —
-  vers 9^{H} \fr{1}{2}, à pied j-à rue de Languedoc —
-  \ind Ville silencieuse. Maisons fermées. Je me
+  vers 9^{H} \fr{1}{2}, à pied j-à rue de Languedoc
+  \ind Ville silencieuse. Maisons \inc{bouclees}. Je me
   sens complet^{t} détaché de Toulouse. Partirai sans
   regret, et pour n'y retourner jamais plus.
   \blanc{4}
@@ -39,6 +39,10 @@ apparat:
   lemme: ch
   type: abreviation
   note: chez
+- ligne: 14
+  lemme: \inc{bouclees}
+  type: lecture
+  note: 'lecture incertaine (« bouclées », fermées) ; autre lecture : couchées'
 - ligne: 15
   lemme: complet^{t}
   type: abreviation
@@ -46,7 +50,7 @@ apparat:
 - ligne: 18
   lemme: \inc{boulangeon}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : bourlangeon (de même l.~20)'
+  note: 'lecture incertaine ; autre lecture : bourlangeon'
 - ligne: 19
   lemme: \inc{75}
   type: lecture
@@ -55,6 +59,10 @@ apparat:
   lemme: \fr{1}{2} beurre
   type: lecture
   note: sans doute demi-livre de beurre
+- ligne: 20
+  lemme: \inc{boulangeon}
+  type: lecture
+  note: voir l.~18
 historique: |
   Sur M\textsuperscript{me} de Labarthe, voir f.~28~v\textsuperscript{o} ; les dames Delsol et Henriette ne sont pas identifiées. La chapelle de Nazareth accueillait des messes anniversaires (\textit{Le Télégramme}, 10~mars 1916, p.~4). Pfister, horloger-bijoutier au 24, place des Carmes, avait vendu le sautoir (f.~28~v\textsuperscript{o}) ; la montre est payée le 2 (f.~69~r\textsuperscript{o}). La conférence était celle de l'abbé Thellier de Poncheville à la chapelle de l'archevêché, avant une mission en Amérique du Nord (\textit{L'Express du Midi}, 31~janv. et 1\textsuperscript{er}~févr. 1917, p.~3). Combes reviendra pourtant : nommé au lycée de Toulouse en 1937, il s'y fixera, 38, rue du Taur (Pouvillon 1938 ; PC-Livre).
 sources:

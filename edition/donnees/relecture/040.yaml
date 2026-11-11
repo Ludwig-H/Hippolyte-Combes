@@ -105,3 +105,16 @@ noms:
     ligne: 16
     identite: Beaudricourt (Pas-de-Calais)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Sept 16}
+  apres: \sl{Sept /16}
+  justification: 'Entre la haste du t de « Sept » et le chiffre 1 de « 16 » est tracée une grande barre oblique / descendant jusque sous le trait de soulignement (quatre fûts après Sep : t, /, 1, 6, exactement comme « \sl{Sept /16} » en 039 l. 1).'
+- ligne: 5
+  avant: Partis à 11^{H} m
+  apres: Partis à 11^{H} m.
+  justification: Un point rond noir est posé sur la ligne de base de la l. 5 à droite de « m » (juste à gauche du sommet du b de « agreable » l. 6), marquant l'abréviation « m. » (matin).
+- ligne: 6
+  avant: Voyage très agréable –
+  apres: Voyage très agreable –
+  justification: Aucun accent aigu au-dessus de r-e-a dans « agreable » (le point rond isolé plus haut appartient à la ligne de base de la l. 5 après « 11^{H} m »).

@@ -139,3 +139,28 @@ audit:
   avant: indienne, traversé village d'Hérissart. Ces
   apres: indienne, traversé village d'Herissart. Ces
   justification: aucun accent visible au-dessus ni à droite de l'e de Herissart (zoom ×2 [.55 .69 1.0 .745]) ; graphie sans accent attestée ailleurs (156, 158)
+collation_2026_11:
+- ligne: 3
+  avant: Cap^{t} W., tooth ache, au lit j-à 1^{h} après-midi.
+  apres: Cap^{t} W., tooth ache, au lit j-à 1^{H} après-midi.
+  justification: 'La lettre suscrite après « 1 » est formée de deux montants verticaux parallèles reliés par une traverse médiane : c''est un « H » majuscule (« 1^{H} », cf. GUIDE_PALEOGRAPHIQUE.md § 7), nettement distinct des « h » minuscules bouclés de « tooth » et « ache » sur la même ligne.'
+- ligne: 4
+  avant: D'où journée entière de liberté
+  apres: D'où journée entière de liberte
+  justification: 'Aucun accent aigu n''est tracé sur « liberte » : après la hampe non barrée du « t » (que coupe seulement en dessous la boucle inférieure du « j » de « j-à » l. 3), le « e » final s''achève en délié montant sous un espace interlinéaire entièrement vierge (contrairement à « journée » sur la même ligne et à « Liberté » cl. 166 l. 22 et cl. 168 l. 7). Reliquat de normalisation.'
+- ligne: 5
+  avant: après-midi, courte promenade petite route
+  apres: après-midi courte promenade petite route
+  justification: 'Aucune virgule n''est tracée entre « après-midi » et « courte » : l''espace sur la ligne de base est entièrement vierge (seul le sommet de la hampe du « t » final de « Toutencourt » l. 6 affleure sous l''interligne).'
+- ligne: 6
+  avant: de Toutencourt. Champs couverts de réseaux de
+  apres: de Toutencourt. Champs couverts de reseaux de
+  justification: 'Aucun accent aigu ne figure au-dessus du premier « e » de « reseaux » : le papier est blanc sous « promenade petite » (l. 5), la pointe médiane appartenant au « s » cursif montant lié à « e ».'
+- ligne: 10
+  avant: \ind matinée, liberté
+  apres: \ind matinée, liberte
+  justification: 'Comme à la l. 4, aucun accent aigu n''est tracé au-dessus ni à droite du « e » final de « liberte » : le « t » porte sa petite barre transversale, le « e » se prolonge par un long délié horizontal et l''interligne sous « commt » (l. 9) est entièrement vierge.'
+- ligne: 11
+  avant: après lunch, à Toutencourt., pour trouver
+  apres: après lunch, à Toutencourt, pour trouver
+  justification: 'Seule la virgule verticale figure après « Toutencourt » : la minuscule moucheture à sa gauche est une micro-projection d''encre ou impureté du papier (identique à celles visibles sous « C''est » l. 9 et après « lunch » l. 11), dix fois plus petite que les vrais points de Combes (« beau. » l. 9, « Toutencourt. » l. 6).'

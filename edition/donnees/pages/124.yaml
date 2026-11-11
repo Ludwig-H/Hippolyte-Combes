@@ -8,20 +8,20 @@ transcription: |
   16 Mardi \hfill \sl{Janvier 1917}
   \ind Nuit, gelé très fort.
   Durant journée, ciel nuageux. Temps froid, mais \inc{sec}
-  aprè-midi, course en auto (Sunbeam) à
+  après-midi, course en auto (Sunbeam) à
   Bouzincourt Senlis & Rubempré. Ds ce dernier village
   allé de ferme en ferme, pour trouver paille
   au retour, dévalé en vitesse coteaux pente
   Herissart à Toutencourt. Coteaux et champs
-  encore – couverte neige : gde & mornes étendue
+  encore couverts neige : g^{des} & mornes étendues
   blanches \trait
   \ind[2] — C^{tes} ples : 35 c.
   \blanc{1}
   \filet
   17 \sl{Merc} Nuit neigé abond^{t}. Au réveil
   trouvé toits, jardins rues, tout blancs
-  \ind Tout le jour, en course Venu jà
-  Auxi-le-Château, chz M. Renard. \inc{Jusqà} Doullens
+  \ind Tout le jour, en course Venu j-à
+  Auxi-le-Château, chz M. Renard. Jusq'à Doullens
   plaines mornes. Au delà, région pittoresque,
   vergers, petits coteaux boisés
   M. Renard ns a invités à déjeuner.
@@ -30,7 +30,7 @@ transcription: |
   acheté en 1858 au bagne de Toulon
   Matinée entière, neige fine \sl{tourmente} \ill
   oblique, sous les rafales \trait
-  Soir, température s'est radoucie considt
+  Soir, température s'est radoucie consid^{t}
   et dégel commencé —
 apparat:
 - ligne: 3
@@ -41,22 +41,18 @@ apparat:
   lemme: Sunbeam
   type: emprunt
   note: voiture de la marque britannique Sunbeam
-- ligne: 9
-  lemme: couverte
-  type: lecture
-  note: 'autre lecture : couverts'
 - ligne: 12
   lemme: abond^{t}
   type: abreviation
   note: abondamment
 - ligne: 14
-  lemme: jà
+  lemme: j-à
   type: abreviation
   note: jusqu'à
 - ligne: 15
-  lemme: \inc{Jusqà}
-  type: lecture
-  note: lecture incertaine ; Jusqu'à abrégé (ou Jusq.)
+  lemme: Jusq'à
+  type: abreviation
+  note: jusqu'à
 - ligne: 20
   lemme: notam
   type: abreviation
@@ -70,7 +66,7 @@ apparat:
   type: lecture
   note: mot coupé au bord de la page ; « de » ou « & » ?
 - ligne: 24
-  lemme: considt
+  lemme: consid^{t}
   type: abreviation
   note: considérablement
 historique: |

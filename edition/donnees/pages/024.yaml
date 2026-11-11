@@ -5,7 +5,7 @@ mois: Août 1916
 lieux: La Croix-du-Bac (Steenwerck, Nord) ; Bac-Saint-Maur (Sailly-sur-la-Lys, Pas-de-Calais)
 titre: Steenwerck à pied ; bière avec Maurin à Bac-Saint-Maur ; linge envoyé à Nogent
 transcription: |
-  \sl{22 Ma} \hfill \sl{Aout /16}
+  \sl{22 Ma} \hfill \sl{Août /16}
   \ind Ciel nuageux – s'est tt à fait eclairci –
   après-midi et très beau soleil
   \ind Venu à pied à Steenwerk : 55 m.
@@ -20,7 +20,7 @@ transcription: |
   — Fait expédier par 1 comm^{re} d'Erquinghem
   \crochet{6}1 sac linge à Nogent, par gare de
   Steenwerck : 13 kos ; 3^{f}80 ; factage à l'arrivée
-  compris (40c). – Emballage au départ : 50c —
+  compris (40c). – \inc{Touchage} au départ : 50c —
   \ind Cartes ples à Steenwerck : 30c
   Varia : 10c
   \ind[2] Bain : 1^{25}
@@ -41,6 +41,10 @@ apparat:
   lemme: kos
   type: abreviation
   note: kilos
+- ligne: 15
+  lemme: \inc{Touchage}
+  type: lecture
+  note: 'lecture incertaine ; autres lectures : Timbrage, Pesage, Emballage'
 - ligne: 18
   lemme: 1^{25}
   type: lecture

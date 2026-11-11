@@ -146,3 +146,16 @@ noms:
     ligne: 5
     identite: Steenwerck (Nord)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: Aout
+  apres: Août
+  justification: accent circonflexe tracé sur « Août »
+- ligne: 5
+  avant: \add{eglise}
+  apres: \add{église}
+  justification: accent aigu tracé sur « église » dans l'ajout interlinéaire
+- ligne: 15
+  avant: réparation
+  apres: reparation
+  justification: aucun accent aigu sur « reparation »

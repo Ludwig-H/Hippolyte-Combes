@@ -144,3 +144,16 @@ audit:
   avant: m'attendait, Accueil
   apres: m'attendait Accueil
   justification: 'Zoom ×2 [.30 .05 1 .11] : le trait oblique pris pour une virgule après attendait monte de la l. 3, c''est la haste du h de « charmante » (sommet à droite, conforme à l''inclinaison) ; aucun point ni virgule propre à la l. 2.'
+collation_2026_11:
+- ligne: 2
+  avant: m'attendait Accueil
+  apres: m'attendait. Accueil
+  justification: point tracé après « m'attendait »
+- ligne: 6
+  avant: tete à-tête
+  apres: tête-à-tête
+  justification: circonflexe sur le premier « tête » et double trait d'union
+- ligne: 9
+  avant: à 9 \fr{1}{2}.
+  apres: à 9^{H} \fr{1}{2}.
+  justification: H majuscule suscrit après « 9 »

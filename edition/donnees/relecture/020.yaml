@@ -97,3 +97,16 @@ noms:
   personnes: []
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 8
+  avant: \ind — Presque ts ces matins
+  apres: \ind – Presque ts ces matins
+  justification: Au zoom [0.02 0.65 0.98 0.79], le tiret initial devant « Presque » (x = 0.085–0.108, env. 48 px) est un tiret court de la largeur d'une seule lettre minuscule (identique à « ma – » l. 1), deux fois plus court que le tiret long « — donné » de la l. 10 (env. 95 px) visible juste au-dessous sur le même zoom.
+- ligne: 9
+  avant: épais brouillards \trait
+  apres: épais brouillards
+  justification: 'Au zoom [0.02 0.65 0.98 0.79] et sur la vue complète, « brouillards » s''achève vers le milieu de la page (x = 0.44) par un simple délié final très court du « s » (env. 35 px, plus court même que le délié de « ma » à la l. 10), suivi d''un blanc complet jusqu''au bord droit : il n''y a aucun trait horizontal de remplissage (contrairement à « sans cesse \trait » à la l. 7).'
+- ligne: 11
+  avant: cooking semaine dernière et
+  apres: cooking semaine derniere et
+  justification: 'Au zoom pleine résolution [0.02 0.75 0.99 0.92], le papier au-dessus de « -niere » dans « derniere » (tant entre les deux hampes descendantes des « p » de « propri » l. 10 qu''à droite de la seconde) est entièrement vierge : aucun accent grave n''est tracé.'

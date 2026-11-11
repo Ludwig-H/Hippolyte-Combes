@@ -5,9 +5,9 @@ mois: Août 1916
 lieux: Marquay et Bailleul-aux-Cornailles (Pas-de-Calais)
 titre: Ondées ; promenade à Bailleul-aux-Cornailles ; logement sale et moisi
 transcription: |
-  \sl{Sam. 26 –} \hfill \sl{Aout/16}
-  \ind Bien reposé, quoique dans chambrette étroite
-  ax murs moisis ... \hfill Levé dès 7H \inc{\fr{1}{2}}
+  \sl{Sam. 26 –} \hfill \sl{Août/16}
+  \ind Bien reposé, quoique dans chambrette etroite
+  ax murs moisis ... \hfill Levé dès 7^{H} \inc{\fr{1}{2}}
   Matinée, de nouveau, très fortes ondées.
   Après-midi, enfin, pluie a
   cessé –
@@ -18,7 +18,7 @@ transcription: |
   blé déjà moissonnés et champs d'avoine
   où bruit le vent –
   Plateau d'où l'on domine horizons
-  de bois, d'où émergent clochers
+  de bois, d'où emergent clochers
   d'eglises
   \ind[2] Avant diner, que pris très tard,
   promené sur le route de – – à
@@ -32,9 +32,9 @@ apparat:
   type: graphie
   note: pour « aux »
 - ligne: 3
-  lemme: 7H \inc{\fr{1}{2}}
+  lemme: 7^{H} \inc{\fr{1}{2}}
   type: lecture
-  note: 'lecture incertaine ; autre lecture : 7H5'
+  note: 'lecture incertaine ; autre lecture : 7^{H}5'
 - ligne: 17
   lemme: le route
   type: graphie

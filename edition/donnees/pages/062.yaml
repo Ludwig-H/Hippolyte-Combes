@@ -7,24 +7,24 @@ titre: 'Dernier jour à Toulouse : Sainte-Marie avec Marguerite, adieux à la ga
 transcription: |
   \sl{mer- 4} \hfill \sl{octbr/16}
   \ind[2] Sur pied dès 6^{H} –
-  Lentement preparé depart Enlevé & rentré
+  Lentement préparé depart Enlevé & rentré
   rideaux – mis tt en ordre ds l'appartt
-  Venu gare, puis aux. Thermes du \inc{Langdc}
+  Venu gare, puis aux Thermes du \inc{Langdc}
   A 11^{H} m. , quitté maison. Monté à
   S^{te} Marie –
   Passé tt l'après-midi en cie de M^{te}
-  Longs tete-a-tete très fort intimes.
+  Longs tete-a-tete tres fort intimes.
   Promené au fond du parc. Joué
   avec des enfants
   Puis causé lgt, assis sous gd arbre
   Diner à 6^{H} \inc{\fr{1}{2}}
-  M^{te} voulu absolt m'accompagner gare
-  \inc{Alle} – Gare – \inc{venu} – \ill \inc{puis}
+  M^{te} voulu absol^{t} m'accompagner gare
+  \inc{Allé} \inc{Entré} seul s/ \inc{quais}
   & choisi coin ds 1 compartiment
   Puis resorti salle d'attente. Avec M^{te}
   & oncle Crouzet , promené au dehors
   le long trottoirs cour de G.V.
-  \ind Enfin, dû ns separe, par
+  \ind Enfin, dû ns sépare, par
   ménagement pour l'oncle \trait
 apparat:
 - ligne: 5
@@ -36,19 +36,19 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : s. (soir)'
 - ligne: 14
-  lemme: absolt
+  lemme: absol^{t}
   type: abreviation
   note: absolument
 - ligne: 15
-  lemme: \inc{Alle} – Gare – \inc{venu} – \ill \inc{puis}
+  lemme: \inc{Allé} \inc{Entré} seul s/ \inc{quais}
   type: lecture
-  note: lecture incertaine ; seul Gare est sûr ; avant puis, 1 ou & ?
+  note: lecture incertaine (Allé repris ou suivi d'Entré ; fin de ligne serrée)
 - ligne: 19
   lemme: G.V.
   type: abreviation
   note: grande vitesse (cour de la gare)
 - ligne: 20
-  lemme: separe
+  lemme: sépare
   type: lecture
   note: séparer, r final non écrit
 historique: |

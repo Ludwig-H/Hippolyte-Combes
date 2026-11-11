@@ -5,8 +5,8 @@ mois: Novembre 1916
 lieux: Acheux-en-Amiénois, Forceville, Albert, Varennes, Warloy-Baillon, Senlis-le-Sec et Léalvillers (Somme)
 titre: Forceville, Albert, Varennes en auto ; thé à la 152\textsuperscript{nd} Company ; Albert bombardé
 transcription: |
-  \sl{8 me} matin course en \hfill \sl{Novbre 1916}
-  auto à Forceville – avec major \inc{Hughs} & Curtis
+  \sl{8 me} matin course en \hfill \sl{Nov^{bre} 1916}
+  auto à Forceville – avec major Hughes & Curtis
   \ind Après lunch, venu en auto à Albert – en
   passant par Varennes – Warloy – Senlis.
   Soleil, brillé 1 peu. Délicieuse promenade
@@ -19,23 +19,19 @@ transcription: |
   qq heures
   \ind Après-midi, course en auto à Varennes,
   par Lealvillers – et dû revenir, par Acheux
-  Puis continue j-à Albert \trait
+  Puis continué j-à Albert \trait
   Campagne ensoleillée – mais routes
   affreust boueuses
   \ind Resté pour le thé au mess-hut
   de la 152 Coy, s/ plateau au sol
   transformé en marécage — Alors, ciel
-  eclairci, qq etoiles, pleine lune magnifique
+  eclairci, qq étoiles, pleine lune magnifique
   \ind Bombardement commence sur Albert \trait
 apparat:
 - ligne: 2
   lemme: major
   type: emprunt
   note: 'grade britannique : commandant'
-- ligne: 2
-  lemme: \inc{Hughs}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : Hugha ; le major Hughes (voir f.~45~v\textsuperscript{o})'
 - ligne: 16
   lemme: affreust
   type: abreviation

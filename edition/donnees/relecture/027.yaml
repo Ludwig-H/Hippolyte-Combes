@@ -156,3 +156,28 @@ noms:
     ligne: 10
     identite: Berguette, commune d'Isbergues (Pas-de-Calais)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: Aout
+  apres: Août
+  justification: accent circonflexe tracé sur « Août »
+- ligne: 3
+  avant: \inc{devint} brulant
+  apres: devenu brulant
+  justification: 'lecture certaine : « devenu »'
+- ligne: 5
+  avant: wagons terminé
+  apres: wagons, terminé
+  justification: virgule tracée après « wagons »
+- ligne: 7
+  avant: démarré
+  apres: demarré
+  justification: premier « e » sans accent aigu
+- ligne: 8
+  avant: imptes sans arret
+  apres: imp^{tes} sans arrêt
+  justification: finale « tes » suscrite et accent circonflexe sur « arrêt »
+- ligne: 15
+  avant: fraîches
+  apres: fraiches,
+  justification: aucun circonflexe sur « fraiches », suivi d'une virgule

@@ -208,3 +208,36 @@ audit:
   avant: en face \trait \add{très} (déprimé
   apres: en face \trait (\add{très} déprimé
   justification: la parenthèse est à gauche de très, écrit petit au-dessus de dépr- ; l'ajout s'insère donc entre ( et déprimé ; lemme et note d'apparat adaptés
+collation_2026_11:
+- ligne: 5
+  avant: où revu trio de vieux, débonnaire originaux,
+  apres: où revu trio de vieux, \inc{débonnaire} \inc{incultes},
+  justification: 'Au zoom ×6 avec rehaussement (/tmp/hc_bands/z_rem03_117_c.jpg et z_rem03_117_a.jpg), les deux épithètes ne peuvent être tenues pour assurées telles quelles : 1° dans le premier mot, après « ∂-e » empâté, « b » et trois ou quatre minimes, s''élève une haute boucle d''ascendante (« h », « b » ou « l », nettement séparée par du blanc du bas de la parenthèse fermante de « (Sunbeam) » l. 4) avant « -e », ce qui rend « débonnaire » incertain ; 2° dans le second mot, « originaux » est paléographiquement exclu : le trait oblique pris pour un jambage de « g » est en réalité la haute hampe rectiligne à 70° du « d » de « de Martinsart » (l. 6, jumelle de celle de « ordonnance » l. 7) montant toucher la base d''un « c », et la finale présente deux hautes boucles d''ascendantes accolées (« l-t » barrées, identiques à « -tt- » de « bottes » l. 12) suivies de « -es, », soit « i-n-c-u-l-t-e-s » (le jambage du « F » de « Franvillers » l. 4 touchant l''attaque de l''« i » dont le point est décalé sur « n »). Baliser les deux mots en \inc{...} et ajouter deux notes de lecture en apparat.'
+- ligne: 8
+  avant: très regrettable du cap. Williams. A l'arrivée à Acheux
+  apres: très regrettable du cap Williams. A l'arrivée à Acheux
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_117_a.jpg), « cap » s'achève par le crochet de liaison du « p » sans aucun point abréviatif sur le papier vierge avant « Williams » (comparer le gros point rond de « Williams. » juste après, ainsi que « du cap W^{m} » cl. 147 l. 6 et « cap Williams » cl. 157 l. 18).
+- ligne: 11
+  avant: \ind Après-midi, entiert libre —
+  apres: \ind Après-midi, entièrt libre –
+  justification: 'Au zoom ×4 (/tmp/hc_bands/z_rem03_117_a.jpg) : 1° un net accent grave horizontal surmonte « è-r » dans « entièrt », bien distinct du point de l''« i » à gauche comme de la barre du « t » final à droite (sous « de » de la l. 10, sans jambage) — adapter le lemme d''apparat de la l. 11 ; 2° après le délié final de « libre », le tiret détaché est un tiret court « – » (même module que « contrite – » l. 20, par opposition au gros tiret long « — Clous » de la l. 12).'
+- ligne: 15
+  avant: \ind matinée, ds ma chambre —
+  apres: \ind matinée, ds ma chambre –
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_117_b.jpg), le petit trait détaché qui suit le délié de « chambre » est un tiret très court « – » (environ 2 mm, identique à « contrite – » l. 20) et non un tiret long « — ».
+- ligne: 18
+  avant: Légère brume estompe paysages lointains
+  apres: Legère brume estompe paysages lointains
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_117_b.jpg), aucun accent aigu ne figure sur le premier « e » de « Legère » (le jambage du « g » de « Eglise » l. 17 traverse le « L » initial, laissant le papier vierge au-dessus de « e-g » sous « l-i-s ») ; seul l'accent grave sur « -gère » est tracé.
+- ligne: 19
+  avant: \ind[2] Mon jeune cap^{ne}, attitude gênée et
+  apres: \ind[2] Mon jeune cap^{ne}, attitude gênee et
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_117_b.jpg), « gênee » porte bien un accent circonflexe incurvé au-dessus de « ê-n », mais le papier au-dessus de la finale « -nee » est entièrement vierge de tout accent aigu (comparer « humiliée » juste au-dessous à la l. 20).
+- ligne: 22
+  avant: \ind Soir, Y.M.C.A hut, assisté \fr{1}{2} séance. —
+  apres: \ind Soir, Y.M.C.A hut, assisté \fr{1}{2} seance. —
+  justification: 'Au zoom ×4 (/tmp/hc_bands/z_rem03_117_b.jpg), l''espace interlinéaire au-dessus de « seance » (sous « en face \trait » de la l. 21, sans aucun jambage) est entièrement vierge : aucun accent aigu n''est tracé.'
+- ligne: 23
+  avant: '\crochet{2}— Dépenses mess : 45^{f} + 10^{f} + 1^{f} + 22 fr —'
+  apres: '\crochet{2}— Depenses mess : 45^{f} + 10^{f} + 1^{f} + 22 fr —'
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_117_b.jpg), aucun accent aigu n'est tracé au-dessus de « D-e-p » dans « Depenses » (la virgule de « Soir, » à la l. 22 reste haute sur sa propre ligne, laissant le papier blanc au-dessus du premier « e »).

@@ -202,3 +202,24 @@ audit:
   avant: en course. Venu
   apres: en course Venu
   justification: aucun point entre course et Venu ; l'espace est vide.
+collation_2026_11:
+- ligne: 4
+  avant: aprè-midi,
+  apres: après-midi,
+  justification: -s tracé à « après-midi »
+- ligne: 9
+  avant: 'encore – couverte neige : gde & mornes étendue'
+  apres: 'encore couverts neige : g^{des} & mornes étendues'
+  justification: sans tiret ; pluriels « couverts », « g^{des} » suscrit et « étendues »
+- ligne: 14
+  avant: jà
+  apres: j-à
+  justification: trait d'union tracé dans l'abréviation « j-à »
+- ligne: 15
+  avant: \inc{Jusqà}
+  apres: Jusq'à
+  justification: 'lecture certaine : « Jusq''à » avec apostrophe'
+- ligne: 24
+  avant: considt
+  apres: consid^{t}
+  justification: t final suscrit

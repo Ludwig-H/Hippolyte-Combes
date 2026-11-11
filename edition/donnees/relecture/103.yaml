@@ -226,3 +226,20 @@ audit:
   avant: C'est desesperant.
   apres: C'est desesperant
   justification: le mot finit par le long délié du t ; aucun point après, le blanc à droite est vierge
+collation_2026_11:
+- ligne: 2
+  avant: que hier,
+  apres: qu'hier,
+  justification: élision avec apostrophe « qu'hier, »
+- ligne: 5
+  avant: desesperant
+  apres: désespérant.
+  justification: deux accents aigus sur « désespérant » suivi d'un point
+- ligne: 10
+  avant: côté sucrerie et F^{me} Royer\add{\inc{fille}}.
+  apres: coté sucrerie et F^{me} Royer\add{et sa fille}.
+  justification: aucun circonflexe sur « coté » ; l'ajout interlinéaire se lit nettement « et sa fille »
+- ligne: 20
+  avant: interpte
+  apres: interpr^{te}
+  justification: « r » présent et « te » suscrit

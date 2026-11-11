@@ -125,3 +125,20 @@ audit:
   avant: haie d'aubépine — Plus spacieuse et haute
   apres: haie d'aubépine Plus spacieuse et haute
   justification: le long trait après « aubépine » part sans levée de plume du e final (zoom [.15 .225 .55 .27] ×3) ; délié final prolongé, non un tiret (même délié après « spacieuse »)
+collation_2026_11:
+- ligne: 9
+  avant: village
+  apres: village .
+  justification: point détaché après « village »
+- ligne: 16
+  avant: de l'église
+  apres: de l'eglise
+  justification: aucun accent aigu sur « eglise »
+- ligne: 17
+  avant: Chateau
+  apres: Château
+  justification: accent circonflexe tracé sur « Château »
+- ligne: 20
+  avant: étoilée —
+  apres: etoilée —
+  justification: aucun accent aigu sur l'initiale de « etoilée »

@@ -186,7 +186,7 @@ qu'enregistrée), mot ; « l. » = ligne de l'état antérieur. Afficher :
     ponctuation ajoutée (007 l. 7) ou omise (015 l. 3 « Bien, reposé ») : suivre l'image.
 26. **H suscrit ou à la ligne** : comparer la base de l'H à celle du chiffre (066 [.62 .315 .725 .372] 7^{H} 25 ;
     083 « 9 H s. ») ; le s. du soir peut se réduire à un 1 (131 [0 .30 .20 .36]).
-27. **Adverbes en -t** : ext^{t}, extrêm^{t} (117, circonflexe visible), admirab^{t}, magnif^{t}, merv^{t} (060
+27. **Adverbes en -t** : ext^{t}, extrêm^{t} (117, circonflexe visible), admirab^{t}, magnif^{t}, mervt (060
     [.345 .035 .465 .08]) ; « lamentables » ou `lamentabl^{t}` (110 l. 9 et l. 20) à décider sur l'image.
 28. **Noms propres** : Lupin/Lépin (023, 085, 090), Steenwerck/Steenwerk (023 l. 22), « Bertin » = V-a… (104
     [.84 .145 1.0 .195]), « Cap. W. » = cap. W^{m} (112 l. 18), « Bne Maman » = Bonn… (059 [.79 .88 1.0 .995]),

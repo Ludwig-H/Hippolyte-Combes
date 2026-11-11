@@ -159,3 +159,24 @@ audit:
   avant: lentement et fait haltes fréquentes ds le
   apres: lentement et faits haltes fréquentes ds le
   justification: après f-a-i-t, un s final plongeant en ʒ, lié au pied du t et descendant sous la ligne (zoom .35 .59 .78 .64) ; aucun autre emploi possible de ce tracé (ni virgule, ni barre de t)
+collation_2026_11:
+- ligne: 11
+  avant: 7 J Encore une b. journée –
+  apres: 7 J Encore très b. journée –
+  justification: Le mot entre « Encore » et « b. journée » présente la ligature initiale haute t-r (aspect h) suivie de e-s et surmontée d'un net accent grave oblique, tracé rigoureusement identique aux « très » des l. 6 et 7 (voir /tmp/hc_bands/z_lot04_037_l1_6.jpg) ; « une » est exclu tant par la haste initiale que par l'accent grave.
+- ligne: 12
+  avant: \inc{Sitôt} Après-dejeun.
+  apres: \inc{Sitot} Après-dejeun,
+  justification: Aucun accent circonflexe sur le o de « Sitot » (seuls le point du i et la barre du second t sont présents), et après « Après-dejeun » est tracée une longue virgule fine oblique , (identique à « calvaires, » l. 14) et non un point rond comme après « campagne. ». Adapter les lemmes d'apparat l. 12 (\inc{Sitôt} -> \inc{Sitot} et dejeun. -> dejeun).
+- ligne: 22
+  avant: s'élève l'église
+  apres: s'elève l'eglise
+  justification: Aucun accent aigu sur le premier e de « s'elève » (seul l'accent grave sur le second e est tracé), et aucun accent aigu sur le e initial de « l'eglise ».
+- ligne: 24
+  avant: Hair cut – 50 c
+  apres: 'Hair cut : \inc{25} c'
+  justification: 'Après « Hair cut », deux-points nets : (point haut et point bas) et non tiret –. Surtout, le montant comporte un premier chiffre bas bouclé (2, ou 3) suivi d''un SECOND chiffre à longue haste descendant sous la ligne (5 en ſ, identique au 5 de « 15 c » à gauche) puis c : la longue haste descendante en deuxième position exclut catégoriquement un 0 et donc « 50 c ». Ajouter une entrée d''apparat pour \inc{25} (et revoir la dernière phrase de historique: qui commentait 50 centimes).'
+- ligne: 25
+  avant: 'Consommations : \inc{50} c'
+  apres: 'Consommations : \inc{40} c'
+  justification: 'Le premier chiffre présente le tracé d''un 4 à base croisée et haste verticale droite (identique au « 40c. » de 032 l. 20 sur /tmp/hc_bands/z_lot04_032_l16_20.jpg) plutôt que d''un 5 ; adapter l''apparat l. 25 (autres lectures : 50, 20).'

@@ -141,3 +141,12 @@ audit:
   avant: gazonnée — Trouvé oasis d ombre
   apres: gazonnée – Trouvé oasis d ombre
   justification: tiret court, ≈ 0,021 de la largeur (zoom .25 .31 .45 .36 ×3), comme distraire – (≈ 0,017) et lire – (≈ 0,021), moitié du tiret long de clair — (≈ 0,038)
+collation_2026_11:
+- ligne: 16
+  avant: impossible s'éloigner
+  apres: impossible s'eloigner,
+  justification: 'Au zoom [0.02 0.78 0.95 0.99] : 1) aucun accent aigu ne figure sur le « e » initial de « s''eloigner » (seule l''apostrophe est tracée entre « s » et « e », le papier au-dessus du « e » étant vierge) ; 2) une virgule fine mais très nette est posée sur la ligne de base à droite de « s''eloigner », de même plume et ductus que celle de « brûlant, » à la l. 17.'
+- ligne: 17
+  avant: air brulant, soleil torride
+  apres: air brûlant, soleil torride
+  justification: À l'ultra-zoom [0.16 0.84 0.42 0.99], un accent circonflexe cursif en crochet démarre nettement au-dessus du second jambage du « u » de « brûlant » et s'étire vers la boucle du « l » (bien distinct de la hampe descendante du « p » de « impossible » l. 16 située plus à gauche).

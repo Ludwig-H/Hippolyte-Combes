@@ -166,3 +166,36 @@ noms:
     ligne: 15
     identite: cathédrale Notre-Dame d'Amiens
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: Ciel couvert, pluie menacé tout le jour –
+  apres: ciel couvert, pluie menacé tout le jour –
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_119_a.jpg), l'initiale de « ciel » est un petit « c » minuscule à hauteur d'œil dépourvu de boucle supérieure, de même module que le « c » de « couvert » qui suit (identique à « ciel nuageux » cl. 118 l. 12 et opposé aux grands « C » majuscules de « Course » l. 2, « Chz » l. 7 et « Cap. » l. 13).
+- ligne: 6
+  avant: Arrêt à Belle-Eglise et + long à Montigny,
+  apres: Arrêt à Belle-Eglise et + long, à Montigny,
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_119_a.jpg), une virgule verticale nette et appuyée figure sur la ligne de base entre « long » et « à », entièrement isolée entre « avec » (l. 5, sans jambage) et le tiret « – » (l. 7, sans hampe).
+- ligne: 9
+  avant: Vers 11^{h}, à Amiens.
+  apres: Vers 11^{H}, à Amiens.
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_119_a.jpg), l'exposant après « 11 » est formé de deux hastes verticales parallèles reliées par une traverse (« 11^{H} »), exactement comme « 9^{H} » (l. 5), « 3^{H} » (l. 12) et « 4^{H} » (l. 19) sur la même page.
+- ligne: 10
+  avant: Remisé, garé notre auto ds la cour de
+  apres: \del{Remisé} garé notre auto ds la cour de
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem03_119_a.jpg), « Remisé » (mot dépourvu de « t ») est barré en diagonale de bas en haut depuis le dessous du « e » initial jusqu'au-delà de la finale « -sé », et immédiatement remplacé sur la ligne par son synonyme « garé » ; aucune virgule ne sépare les deux verbes (le trait haut est l'accent aigu de « Remisé » et la boucle inférieure appartient au « H » de « Hotel » l. 11).
+- ligne: 12
+  avant: pour moi, liberté complète j-à 3^{H} \fr{1}{2} s.
+  apres: pour moi, liberté complête j-à 3^{H} \fr{1}{2} s.
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem03_119_b.jpg), le signe diacritique tracé au-dessus de « e-t » dans « complête » est un accent circonflexe symétrique très net à deux pans (« ^ »), identique à celui de « extrêm^{t} » (cl. 117 l. 6) et « extrêmité » (cl. 014), par opposition aux accents graves plats ou obliques de « tiède » (l. 4) et « dès » (l. 11).
+- ligne: 14
+  avant: '(La Semeuse : instruments agricoles etc –'
+  apres: '(La Semeuse : instrum^{ts} agricoles etc –'
+  justification: 'Au zoom ×5 (/tmp/hc_bands/z_rem03_119_b.jpg), le mot est contracté sans « -en- » : après « i-n-s-t-r-u-m » sur la ligne de base et une nette levée de plume, la finale « ^{ts} » (« t » barré + « s » bouclé) est portée en exposant avant « agricoles ». Ajouter l''entrée d''abréviation correspondante dans apparat (l. 14).'
+- ligne: 17
+  avant: loisir choses & détails déjà vus . .
+  apres: loisir choses & détails dejà vus . –
+  justification: 'Deux rectifications vérifiées au zoom ×5 (/tmp/hc_bands/z_rem03_119_c.jpg) : 1° « dejà » est écrit sans accent aigu sur « de- » (large blanc vierge sous « heure . . . » de la l. 16 ; seule la barre d''accent grave sur « à » est tracée, même graphie attestée deux autres fois dans le corpus) ; 2° après « vus », le point rond « . » est suivi à droite d''un tiret court incliné « – » trois à quatre fois plus long que le point (même ponctuation « . – » qu''à la l. 19 « 4^{H} s. – », par opposition aux points ronds de « heure . . . » l. 16).'
+- ligne: 22
+  avant: '5 gravures ocre cathedrale : 2^{f} 50 –'
+  apres: '5 gravures ocre cathedrale : 2^{f} 50. –'
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem03_119_c.jpg), un point rond net « . » figure immédiatement après « 50 » avant le tiret « – », exactement sur le modèle de « 40c. — » aux l. 20 et 21 juste au-dessus.

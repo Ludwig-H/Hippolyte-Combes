@@ -9,10 +9,10 @@ transcription: |
   \ind Train arrivé enfin à
   Amiens, vers 2^{H} matin
   En compagnie de 2 interprètes (dont l'1,
-  Boilly, est prof. à Pont-à-Mousson),
+  Boilly, est prof^{r} à Pont-à-Mousson),
   sorti gare, et allé à l'abri du soldat,
   Bd Alsace-Lorraine. Aucune place
-  Entré à la Y.M.C.A. Hut, à côté gare
+  Entré à la Y.M.C.A. Hut, à cote gare
   Puis durant des heures, déambulé
   le long quai gare, en attendant train
   de Boulogne. Paris. Froid très vif
@@ -24,7 +24,7 @@ transcription: |
   Pris 1 fiacre et venu gare de Orsay
   où billet et fait \add{en 10 minutes} enregistrer mes bagages
   \ind Me suis rendu par le metro à
-  Neuilly : Tuileries – Porte-Maillot.
+  Neuilly. Tuileries – Porte-Maillot.
   Après 5 m. de marche, arrivé
   rue d'Armenonville, no \inc{4}6
   Maison luxueuse. Au 4^{me} etage, à g.
@@ -34,7 +34,7 @@ apparat:
   type: abreviation
   note: l'un
 - ligne: 5
-  lemme: prof.
+  lemme: prof^{r}
   type: abreviation
   note: professeur
 - ligne: 7

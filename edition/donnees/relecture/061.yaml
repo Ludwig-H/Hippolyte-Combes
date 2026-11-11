@@ -104,3 +104,8 @@ noms:
     identite: Mme de Labarthe, relation toulousaine
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 8
+  avant: Delicieux ds la proprieté
+  apres: Délicieux ds la proprieté
+  justification: Accent aigu en crochet caractéristique (⊂, identique à celui de « Payé » l. 2) nettement tracé au-dessus de l'« e » et mordant sur le flanc gauche de la boucle du « l » (les « l » de Combes n'ont jamais de corne d'attaque à gauche).

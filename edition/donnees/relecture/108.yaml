@@ -202,3 +202,40 @@ audit:
   avant: Hedauville, Resté près d'1 h. ds ce village
   apres: Hedauville, Resté près d'1 h ds ce village
   justification: au zoom ×3, le jambage du h finit en crochet sur la ligne de base et « ds » suit sans aucun point ; lemme de l'apparat adapté (d'1 h)
+collation_2026_11:
+- ligne: 1
+  avant: 7 \sl{Jeudi} – \hfill — \sl{Dec^{bre} 1916} —
+  apres: 7 \sl{Jeudi}. \hfill — \sl{Dec^{bre} 1916} —
+  justification: 'À droite de « Jeudi », deux signes distincts figurent : en haut au-dessus du « i », le petit tiret couché qui sert de point à l''« i » (identique à celui de « midi » juste au-dessous à la l. 2), et plus à droite à mi-hauteur, un point rond net « . » hors du trait de soulignement (et non un tiret court « – »).'
+- ligne: 2
+  avant: \ind[2] Matin & après-midi en
+  apres: \ind[2] Matin & apres-midi en
+  justification: 'Aucun accent grave n''est tracé au-dessus de « apres » : l''espace interlinéaire sous l''en-tête est entièrement vierge au-dessus de « a-p-r-e-s » (contrairement à « Après-midi » l. 7, « après coup » l. 14 et « Après-midi » l. 26 sur la même page).'
+- ligne: 3
+  avant: auto. – Matin, à Belle-Eglise, arqueves
+  apres: auto. – Matin à Belle-Eglise, arqueves
+  justification: 'Aucune virgule ne suit « Matin » : le jambage final du « n » plonge directement sous la ligne sans levée de plume selon le ductus habituel de Combes (cf. « constipation » cl. 110 l. 3, « explication » cl. 117 l. 9), et le papier entre « Matin » et « à » est entièrement blanc.'
+- ligne: 8
+  avant: Hedauville, Resté près d'1 h ds ce village
+  apres: Hédauville, Resté près d'1 h ds ce village
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem03_108_d.jpg), un net accent aigu vertical-oblique est tracé isolément juste au-dessus du « e » de « Hédauville », entre la seconde haste du « H » et la hampe du « d » (bien au-dessous de « Après » l. 7, dont seul le jambage du « p » descend plus à droite sur la hampe du « d »). Accent réel supprimé à tort lors de la relecture.
+- ligne: 15
+  avant: répercutées à travers l'espace – cme gémisst
+  apres: repercutées à travers l'espace – cme gémisst
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem03_108_d.jpg), aucun accent aigu ne surmonte le premier « e » de « repercutées » (papier vierge sous « de » de la l. 14) ; seule la finale « -tées » porte la barre du « t » et l'accent aigu.
+- ligne: 16
+  avant: \ind Diné seul, off. allé à Hérissart Rentré
+  apres: \ind Diné seul, off. allé à Herissart Rentré
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem03_108_d.jpg), le papier est entièrement vierge au-dessus de « e-r » dans « Herissart » (le jambage du « p » de « l'espace » l. 15 touche uniquement le sommet de la première haste du « H », et le point isolé plus à droite est le point du « i »). Même graphie sans accent aux cl. 095 l. 6, 104 l. 23 et 168 l. 6.
+- ligne: 22
+  avant: brouillard. Bruine intermittente – Routes, état
+  apres: brouillard. Bruine intermittente – Routes, etat
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem03_108_d.jpg), aucun accent aigu n'est tracé au-dessus du « e » initial de « etat » (blanc complet entre la virgule de « Routes, » et la première hampe de « t », sous « par » l. 21) ; seule figure la longue barre commune croisant les deux « t ».
+- ligne: 24
+  avant: \ind Matinée, course à St-Leger-le-Authie,
+  apres: \ind Matinée, course à St-Léger-le-Authie,
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem03_108_d.jpg), un accent aigu oblique très net et appuyé figure dans le blanc interlinéaire au-dessus de « e-g » dans « Léger » (aucune écriture au-dessus à la l. 23, qui s'arrête à « affreux, » tout à gauche). Accent réel supprimé à tort lors de la relecture ; adapter le lemme d'apparat de la l. 24.
+- ligne: 27
+  avant: 'arqueves : on a commencé à battre paille'
+  apres: 'arquèves : on a commencé à battre paille'
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem03_108_d.jpg), un accent grave oblique très net est tracé juste au-dessus de « e-v » dans « arquèves » (sous « sous » de la l. 25, dépourvu de jambage descendant, et à gauche de « Après » de la l. 26), contrairement à l'occurrence sans accent de la l. 3.

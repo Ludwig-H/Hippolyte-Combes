@@ -159,3 +159,32 @@ audit:
   avant: – demande de renseignements divers
   apres: . – demande de renseignements divers
   justification: dans la marge, devant le tiret, un point rond net, de même encre et de même densité que le tiret, posé sur la même ligne de base (zoom 0 .86 .20 .93 ×3) ; tracé volontaire, non goutte d'encre
+collation_2026_11:
+- ligne: 6
+  avant: trouve
+  apres: trouvé
+  justification: accent aigu tracé sur « trouvé »
+- ligne: 7
+  avant: preferable, no 1, route de Lealvillers
+  apres: préférable, n^{o} 1, route de Lealvillers
+  justification: deux accents aigus sur « préférable » et « o » suscrit
+- ligne: 8
+  avant: terminé demenagement
+  apres: terminé déménagement
+  justification: deux accents aigus sur « déménagement »
+- ligne: 10
+  avant: apres-midi, liberté entiere.
+  apres: après-midi, liberté entière.
+  justification: accents graves sur « après-midi » et « entière »
+- ligne: 12
+  avant: propre,
+  apres: prop^{re},
+  justification: « re » suscrit (abréviation de propriétaire)
+- ligne: 13
+  avant: 6H soir, l'interprete
+  apres: 6^{H} soir, l'interprète
+  justification: H suscrit et accent grave sur « interprète »
+- ligne: 19
+  avant: Des 8^{h}
+  apres: Dès 8^{H}
+  justification: accent grave sur « Dès » et H majuscule suscrit

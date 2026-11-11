@@ -7,13 +7,13 @@ titre: 'Vendredi saint : solde payée à Toutencourt ; soirée avec Wentworth ; 
 transcription: |
   6 \sl{Vendr.} — \hfill \sl{Avril 1917} —
   \ind Levé tot après breakfast,
-  conduit en auto à Toutencourt. 1 \inc{staff} du bureau
-  de la Mission, fr, Vth army H.Q., venu nous payer
+  conduit en auto à Toutencourt. 1 ss-off du bureau
+  de la Mission, fr, V^{th} army H.Q., venu nous payer
   solde
-  \ind Temps très beau. Délicieux promener rues ensoleillées
+  \ind Temps très beau. Delicieux promener rues ensoleillées
   de ce petit village aujd'hui si tranquille, depuis
-  départ H.Q. et troupes
-  \ind Revenu en auto à Hérissart. En reparti
+  depart H.Q. et troupes
+  \ind Revenu en auto à Herissart. En reparti
   avec off pour Toutencourt & Rubempré. Au retour
   ciel nuageux. Bientot bruine.
   \ind Tout l'après-midi, liberté entière. Averses
@@ -25,26 +25,22 @@ transcription: |
   \ind 7 \sl{Sam.} — Temps gr froid. ciel resté
   couvert. gros nuages. Vent violent
   \ind matinée, courses à Contay. Acheux &
-  retour par route Léalvillers–Toutencourt & Rubempré
+  retour par route Lealvillers–Toutencourt & Rubempre
   \ind Après-midi, liberté
   Promené seul route Contay. g^{ds} rafales
   vent froid m'ont fait rentrer tot
-  \ind Admiré paysage \trait
+  \ind admire paysage \trait
 apparat:
 - ligne: 1
   lemme: Vendr.
   type: abreviation
   note: vendredi (Vendredi saint)
 - ligne: 3
-  lemme: \inc{staff}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : s-off (sous-officier)'
-- ligne: 3
-  lemme: \inc{staff}
-  type: emprunt
-  note: membre du personnel (d'état-major)
+  lemme: ss-off
+  type: abreviation
+  note: sous-officier
 - ligne: 4
-  lemme: Vth army H.Q.
+  lemme: V^{th} army H.Q.
   type: emprunt
   note: quartier général de la V\textsuperscript{e} armée (britannique)
 - ligne: 7

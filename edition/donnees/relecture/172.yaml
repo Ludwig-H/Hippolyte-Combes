@@ -159,3 +159,32 @@ noms:
     ligne: 21
     identite: Rubempré (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: \inc{gelé}
+  apres: gelé
+  justification: lecture certaine de « gelé »
+- ligne: 8
+  avant: chamb
+  apres: chambre.
+  justification: mot complet « chambre. » suivi d'un point
+- ligne: 9
+  avant: demarches
+  apres: démarches
+  justification: accent aigu tracé sur « démarches »
+- ligne: 13
+  avant: fort!
+  apres: fort^{t}.
+  justification: « t » suscrit suivi d'un point (« fort^{t}. » = fortement), non point d'exclamation
+- ligne: 14
+  avant: brille –,
+  apres: brillé,
+  justification: participe passé « brillé, » avec accent aigu et virgule
+- ligne: 15
+  avant: souffle –
+  apres: soufflé
+  justification: participe passé « soufflé » avec accent aigu
+- ligne: 21
+  avant: 'l''après-midi :'
+  apres: tt l'après-midi.
+  justification: « tt » devant « l'après-midi. » terminé par un point

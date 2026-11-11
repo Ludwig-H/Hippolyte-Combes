@@ -72,3 +72,20 @@ noms:
   personnes: []
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: feuillages gds arbres
+  apres: feuillages g^{ds} arbres
+  justification: Au zoom pleine résolution [0.02 0.13 0.58 0.24], la finale « ds » est nettement réduite et surélevée au niveau du sommet de la boucle du « g » (même graphie que « g^{ds} arbres » au cliché 044, l. 18, et au cliché 177, l. 30).
+- ligne: 6
+  avant: N'était le vert
+  apres: N'etait le vert
+  justification: Au zoom [0.02 0.20 0.99 0.37], seule l'apostrophe verticale est tracée entre « N » et « e » ; le papier au-dessus du « e » est entièrement vierge (le petit trait horizontal plus à droite entre le premier « t » et le « a » est la barre du « t »).
+- ligne: 8
+  avant: croirait deja en automne
+  apres: croirait dejà en automne
+  justification: Au zoom [0.02 0.20 0.99 0.37], un net accent grave épais incliné bas-droite surplombe le « a » de « dejà » (supprimé à tort lors de l'audit précédent comme point du « j », alors que les points sur « i/j » de Combes montent vers la droite ou manquent comme sur « je » l. 2, tandis que ce trait grave est identique à l'accent de « à » l. 4).
+- ligne: 10
+  avant: nuit tombée, j'entends famille ferme
+  apres: nuit tombée, \add{pu} entendre famille ferme
+  justification: Au zoom pleine résolution [0.25 0.39 0.65 0.54], après « tombée » et sa virgule haute, on lit en module réduit légèrement sous l'interligne l'ajout « pu » (« p » à hampe droite non bouclée identique à « prière » juste au-dessous l. 11, suivi des deux jambages de « u »), puis l'infinitif « entendre » (« e-n-t-e-n-d-r-e », avec « r » anguleux et boucle finale de « e » ; le trait vertical pris auparavant pour une hampe descendante de « j » vers la l. 11 est en réalité la hampe montante du « d » de « du soir » à la l. 11). Tournure récurrente de Combes (« pu contempler », cl. 075 ; « pu dormir », cl. 028, 106, etc.) qui rétablit la syntaxe devant « famille ferme [faire] en commun prière ».

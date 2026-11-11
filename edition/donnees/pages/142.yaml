@@ -5,26 +5,26 @@ mois: Février 1917
 lieux: Millau (Aveyron)
 titre: Après-midi avec Marguerite ; visite aux Layral ; soirée avec Mimi
 transcription: |
-  \sl{Dim. 4 (Suite)} \hfill \sl{Fev. '17}
+  \sl{Dim. 4 (Suite)} \hfill \sl{Fév. '17}
   plus clair & plus \inc{beau}
   Tout l'après-midi, av M^{te}. Elle m'a
   joué qq morceaux et chanté 1 peu.
-  a 6^{h}15, cedant aux instances de tous,
-  visite à l'oncle & \inc{tantes} Therèse (Layral)
+  à 6^{H}15, cédant aux instances de tous,
+  visite à l'oncle & \inc{tantes} Thérèse (Layral)
   \blanc{1}
-  Temp très sec. Rue deserte.
+  Temps très sec. Rues désertes.
   \blanc{1}
   Après diner, prolongé causerie j-à
-  11^{h}30 – av Mimi, arrivée train 6^{h} –
+  11^{H}30 – av Mimi, arrivée train 6^{H} –
   \blanc{1}
-  Ds ma chambre, à 11^{h} \inc{40}.
+  Ds ma chambre, à 11^{H} 50 ;
   ciel nuageux. Nuit très froide
   \blanc{2}
   – Ce Matin, en m'eveillant, charmé
   par sonneries cloches, eglises et
   chapelles ville. –
-  \droite (Cf. Journal)
-  \droite \sl{feuille} speciale)
+  \droite (Cf. Journal,
+  \droite \sl{feuille} spéciale)
 apparat:
 - ligne: 1
   lemme: '''17'
@@ -38,14 +38,6 @@ apparat:
   lemme: \inc{tantes}
   type: lecture
   note: 'lecture incertaine ; autre lecture : tante'
-- ligne: 7
-  lemme: Temp
-  type: graphie
-  note: temps
-- ligne: 10
-  lemme: \inc{40}
-  type: lecture
-  note: 'lecture incertaine ; autres lectures : 30, 50'
 - ligne: 15
   lemme: Cf.
   type: abreviation

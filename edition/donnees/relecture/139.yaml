@@ -177,3 +177,28 @@ audit:
   avant: Delicieuse intimité s/ l'épaule de Mte
   apres: Delicieuse intimité s/ l'epaule de Mte
   justification: 'zoom [.48 .59 .72 .65] ×3 : entre l et e un seul tracé, trait courbe descendant du haut de la boucle du l vers la tête du e (apostrophe) ; aucun accent sur le e ni décalé au-dessus du p ; même traitement que Delicieuse, debarquant, etage'
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Sam. 3} \hfill \sl{Fevr. 17}
+  apres: \sl{Sam. 3} \hfill \sl{Févr. '17}
+  justification: '1° Un accent aigu appuyé et entièrement détaché de la barre supérieure du « F » est nettement tracé au-dessus du « v » (décalé de 0,8 lettre à droite de l''« e » : « Févr. »). 2° Devant « 17 », en haut à gauche du « 1 » et bien séparée du délié d''attaque propre du chiffre « 1 », figure la même apostrophe oblique « ''17 » qu''en tête du verso comptable du même jour (cl. 140 l. 1 « Fév. ''17 »).'
+- ligne: 3
+  avant: mis ordre de mes affaires & caisses
+  apres: mis ordre ds mes affaires & caisses
+  justification: 'Au zoom ×4 (et par comparaison directe avec « ds ma chambre » au cl. 149 l. 11 vs « de » aux l. 6, 8 et 13 de la même page, voir /tmp/hc_bands/z_rem05_check3.jpg), la seconde lettre après le « d » bouclé remonte en pointe verticale aiguë sans aucune boucle d''« e » : c''est l''abréviation usuelle « ds » (« dans », 131 occ. dans le carnet), restituant la syntaxe « mis ordre ds mes affaires & caisses ».'
+- ligne: 6
+  avant: Partis de S^{te}-Marie, vers 11^{H} 40
+  apres: Partis de S^{te} Marie, vers 11^{H} 40
+  justification: Comme au cl. 138 l. 9, le court trait horizontal est placé directement sous le « t » de l'exposant « ^{te} » (trait de support d'exposant) ; l'espace entre « S^{te} » et « Marie » est vierge de tout trait d'union.
+- ligne: 10
+  avant: A Béziers, à 4^{H} \fr{1}{2}. Montés à pied ville
+  apres: A Beziers, à 4^{H} \fr{1}{2}. Montes à pied ville
+  justification: 'Au zoom ×4 : 1° au-dessus de « Beziers » (contrairement à « Béziers » l. 13 qui porte bien un accent sur le « z » suivi du point de l''« i »), seul le point de l''« i » est tracé, le papier au-dessus de « e-z » étant entièrement vierge ; 2° au-dessus de « Montes » (sous « embrasser » sans jambage descendant), seule figure la petite barre du « t », sans aucun accent sur « -es » (contrairement aux accents nets de « visité » et « Admiré » juste au-dessous l. 11 ; l''accent grave à droite surplombe « à » de « à pied »).'
+- ligne: 18
+  avant: Impression silence profond en debarquant
+  apres: Impression silence profond en débarquant
+  justification: Un accent aigu oblique, net et entièrement détaché sur papier vierge, est tracé au-dessus de l'« e » exactement dans l'intervalle entre la haste montante du « d » et la boucle supérieure du « b » de « débarquant » (sous « at » de « attendait », sans jambage descendant).
+- ligne: 20
+  avant: A la maison de Mte parents m'ont
+  apres: A la maison de Mte, parents m'ont
+  justification: Une longue virgule verticale est nettement tracée après « Mte » juste à gauche du « p » de « parents », clairement séparée par un blanc du sommet de la haste du « t » de « affectueux » (l. 21).

@@ -11,14 +11,14 @@ transcription: |
   l'idée de passer bureau mission avant partir.
   Cap. Pant, approuvé.
   au bureau, \inc{Lépin} et surtout Serpin, m'ont
-  conseillé demander ordre écrit, après \inc{avoir} vu Lt Pizzi
+  conseillé demander ordre ecrit, après \inc{avoir} vu Lt Pizzi
   \ind allé trouver ds sa chambre Lt \inc{Pizzi}. —
   me suis rendu au Train Office. Major Hughes
-  tempêté. \inc{Col.} Grose, signé ordre daccompagner
+  tempêté. \inc{Col.} Grose, signe ordre daccompagner
   Lt Curtis. à Acheux \trait
   \ind a 9^{h} \fr{1}{2} enfin auto venue me prendre
   à mon billet 5 & ts mes bagages. Les
-  juché au kit de Lt. Curtis
+  juché au kit de Lt. Curtis.
   \ind Pluie battante. Routes affreuse \trait
   \ind Vers 11^{H}. – , arrivés à Acheux \trait
   Vu Town-Major. Recherché billets & messroom
@@ -27,13 +27,13 @@ transcription: |
   Tout l'apres-midi, perdu temps —
 apparat:
 - ligne: 3
-  lemme: mess-hut
-  type: emprunt
-  note: baraque du mess des officiers
-- ligne: 3
   lemme: a
   type: lecture
   note: lecture sûre ; on attendrait « eu »
+- ligne: 3
+  lemme: mess-hut
+  type: emprunt
+  note: baraque du mess des officiers
 - ligne: 5
   lemme: Pant
   type: lecture

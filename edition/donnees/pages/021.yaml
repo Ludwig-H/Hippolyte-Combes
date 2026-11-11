@@ -5,7 +5,7 @@ mois: Août 1916
 lieux: La Croix-du-Bac (Steenwerck, Nord)
 titre: Giboulées ; solde de 84~F ; chevauchée avec Curtis derrière le front
 transcription: |
-  \sl{18 Ve.} \hfill – \sl{Aout /16} –
+  \sl{18 Ve.} \hfill – \sl{Août /16} –
   \ind[2] Depuis 2 ou 3 jours, vraies giboulées,
   cme en mars – Averses prolongées, puis éclaircies
   et soleil reparait
@@ -27,7 +27,7 @@ transcription: |
   averses très fortes – comme grêle.
   \ind Vers 2^{H} 30, ce crétin de Curtis venu
   me prendre : dû l'accompagner
-  à cheval, \inc{&} cette fois sur \inc{1} bon pony.
+  à cheval, \inc{&} cette fois sur mon pony.
   \ind Longue chevauchée zone \trait
   exposée, derrière ligne de feu
 apparat:
@@ -47,10 +47,6 @@ apparat:
   lemme: \inc{&}
   type: lecture
   note: et ; signe peu net
-- ligne: 21
-  lemme: \inc{1}
-  type: lecture
-  note: 'lecture incertaine (1 lié à bon) ; autre lecture : un'
 - ligne: 21
   lemme: pony
   type: emprunt

@@ -103,3 +103,8 @@ noms:
     ligne: 10
     identite: ferme près de Marquay (Pas-de-Calais)
 source: contrôle
+collation_2026_11:
+- ligne: 10
+  avant: pâture derriere ferme
+  apres: pâture derrière ferme
+  justification: Un trait horizontal net d'accent grave surplombe ie de « derrière » (même tracé qu'en 031 l. 5). Le contrôle précédent (relecture/038.yaml) l'avait supprimé à tort en l'attribuant « au t de petit (l. 9) », alors que les deux t de « petit » sont plus à droite avec leur propre barre commune en haut et que le jambage descendant qui frôle cet accent est celui du p initial de « petit ».

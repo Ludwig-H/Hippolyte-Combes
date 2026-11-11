@@ -168,3 +168,12 @@ noms:
     ligne: 20
     identite: Bailleul (Nord)
 source: contrôle
+collation_2026_11:
+- ligne: 12
+  avant: fenêtre
+  apres: fenetre
+  justification: aucun accent circonflexe tracé sur « fenetre »
+- ligne: 22
+  avant: en plein soleil cuisant ai
+  apres: en plein soleil canicul^{re}
+  justification: 'lecture certaine : « canicul^{re} » (caniculaire) avec finale « re » suscrite, et non « cuisant ai »'

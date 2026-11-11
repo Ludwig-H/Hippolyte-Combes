@@ -158,3 +158,8 @@ audit:
   avant: 1 australien moins confortable que le Vauxhall
   apres: 1 australien, moins confortable que le Vauxhall
   justification: virgule = trait vertical isolé (aspect 1) entre « australien » et « moins » (zoom ×2 [0 .555 .75 .60]), même forme que les virgules de la page ; aucune hampe de la ligne supérieure à cet endroit.
+collation_2026_11:
+- ligne: 7
+  avant: L\sl{undi} 12 — Levé 7^{h} m. — très bonne nuit.
+  apres: L\sl{undi} 12 – Levé 7^{H} m. – très bonne nuit.
+  justification: 'Deux rectifications : 1° la lettre suscrite après « 7 » présente deux montants parallèles reliés par une traverse médiane (« 7^{H} » majuscule, comme « 6^{H} » et « 9^{H} » au cl. 166 l. 2 et 7, et non « h » minuscule bouclé comme dans « Achevé » l. 8) ; 2° les deux tirets encadrant « Levé 7^{H} m. » sont deux tirets courts « – » (de la largeur d''un chiffre, identiques à « – \sl{Jeudi 15}. – » cl. 168 l. 21), et non de longs tirets cadratins « — ».'

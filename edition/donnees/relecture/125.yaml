@@ -131,3 +131,16 @@ noms:
     ligne: 5
     identite: Puchevillers (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: Belle-église
+  apres: Belle-Église,
+  justification: É majuscule accentué suivi d'une virgule
+- ligne: 9
+  avant: 19 Vendredi
+  apres: 19 \sl{Vendredi}
+  justification: « Vendredi » souligné
+- ligne: 16
+  avant: pénetrant. Il gele dejà
+  apres: pénétrant. Il gèle déjà
+  justification: accents tracés sur « pénétrant », « gèle » et « déjà »

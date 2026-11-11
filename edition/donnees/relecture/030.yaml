@@ -125,3 +125,16 @@ noms:
     ligne: 23
     identite: Roumanie, entrée en guerre le 27 août 1916
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: Aout 1916
+  apres: Août 1916
+  justification: accent circonflexe tracé sur « Août »
+- ligne: 12
+  avant: deprimante
+  apres: déprimante
+  justification: accent aigu tracé sur « déprimante »
+- ligne: 23
+  avant: declare
+  apres: déclare
+  justification: accent aigu tracé sur le premier « e » de « déclare »

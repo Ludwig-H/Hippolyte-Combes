@@ -161,3 +161,24 @@ audit:
   avant: à mon aise.
   apres: à mon aise
   justification: 'zoom x3 [.6 .26 .98 .315] : aucun point après le délié final de aise'
+collation_2026_11:
+- ligne: 2
+  avant: Meme
+  apres: Même
+  justification: accent circonflexe tracé sur « Même »
+- ligne: 5
+  avant: Humidite penetrante
+  apres: Humidité pénétrante
+  justification: accents aigus tracés sur « Humidité » et « pénétrante »
+- ligne: 6
+  avant: interprète. Libre
+  apres: interprete Libre
+  justification: ni accent grave ni point après « interprete »
+- ligne: 14
+  avant: Boue epaisse ou
+  apres: Boue épaisse où
+  justification: accent aigu sur « épaisse » et grave sur « où »
+- ligne: 19
+  avant: arret
+  apres: arrêt
+  justification: accent circonflexe tracé sur « arrêt »

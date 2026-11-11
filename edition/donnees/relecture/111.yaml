@@ -187,3 +187,20 @@ noms:
     ligne: 11
     identite: ferme du Quesnoy (Somme), non localisée avec certitude ; revient en 112, 113, 115, 116, 118
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: chaussees,
+  apres: chaussées,
+  justification: accent aigu tracé sur « chaussées »
+- ligne: 12
+  avant: etat,
+  apres: état,
+  justification: accent aigu tracé sur « état »
+- ligne: 14
+  avant: de côté
+  apres: de coté
+  justification: aucun accent circonflexe sur « coté »
+- ligne: 16
+  avant: chaussees
+  apres: chaussées
+  justification: accent aigu tracé sur « chaussées »

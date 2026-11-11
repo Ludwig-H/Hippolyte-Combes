@@ -174,3 +174,24 @@ noms:
     ligne: 24
     identite: île de Jersey (îles Anglo-Normandes)
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: après-midi, course à Warloy
+  apres: après-midi, course à Warloy.
+  justification: Point final rond d'encre violette nettement posé sur la ligne de base à droite du « y » de « Warloy », en exact parallélisme avec « Doullens. » juste au-dessus à la l. 3 (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_178_179_z1.jpg, panneau inférieur gauche).
+- ligne: 6
+  avant: et abondamment. Routes, champs, toits, arbres étaient
+  apres: et abondamment. Routes, champs, toits, arbres etaient
+  justification: 'L''initiale « e » de « etaient » se trouve dans un espace blanc dégagé à gauche du jambage descendant du « s » de « lgs » (l. 5), sans aucune trace d''accent aigu : seuls figurent la barre du « t » et le point de l''« i » au-dessus de « -taie- » (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_178_179_z1.jpg, panneau inférieur droit).'
+- ligne: 10
+  avant: '2 Cahiers geog. (Somme) : 60.. — Cartes ples : 60 c. + 10^{c} —'
+  apres: '2 Cahiers geog. (Somme) : 60.. — Cartes ples : 60 c. + 10^{c}'
+  justification: Au bord droit du feuillet (vérifié jusqu'à x=1.00 au zoom ×5 dans /tmp/hc_bands/z_rem08_179_z2_cpt_dr.jpg), « 10^{c} » ne comporte que le petit trait horizontal de support tracé directement sous le « c » suscrit (déjà représenté par le balisage « ^{c} »), sans aucun tiret « — » à sa droite.
+- ligne: 11
+  avant: 'Varia : 1 f. — 2 semelles liège : 40 c. — Tre d''iode : 35'
+  apres: 'Varia : 1 f. — 2 semelles liège : 40 c. — T^{re} d''iode : 35'
+  justification: La finale « re » est nettement tracée en exposant dans la moitié supérieure à droite de la hampe du « T », bien au-dessus de la ligne de base de « d'iode » (vérifié aux zooms ×5 dans /tmp/hc_bands/z_rem08_179_z2_cpt_dr.jpg et /tmp/hc_bands/z_rem08_179_z3_cpt_bas.jpg).
+- ligne: 21
+  avant: et pluie menaçante \trait
+  apres: et pluie menacante \trait
+  justification: 'Aucune cédille n''est tracée sous le « c » de « menacante » dans le blanc interlinéaire au-dessus de « entière » (l. 22) : seules deux pâles mouchetures brunes de rousseur du papier y sont visibles, sans trait d''encre violette (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_179_z4_bas.jpg, panneau médian).'

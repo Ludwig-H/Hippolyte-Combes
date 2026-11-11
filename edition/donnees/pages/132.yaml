@@ -5,11 +5,11 @@ mois: Janvier 1917
 lieux: Paris ; Toulouse (Haute-Garonne)
 titre: Comptes du 27~janvier ; arrivée à Toulouse le 28, visite de l'oncle Émile
 transcription: |
-  Sam \sl{– 27} \hfill \sl{Janv. /17}
+  \sl{Sam. 27} \hfill \sl{Janv. /17}
   \sl{Paris}. gare du nord. Facteur : 20c
   \ind Gare d Orsay : 10c. \hfill Carte ples : 10c
-  \ind Enregt 2 colis, 2f 40 : 10c
-  \ind Fiacre \inc{taxametre} : 1^{f}45 + 30c = 1 75c
+  \ind Enreg^{t} 2 colis, 2^{f} 40 : 10c
+  \ind Fiacre \inc{taxametre} : 1^{f}45 + 30c = 1^{f} 75c
   \ind Métro : 15, 15c \hfill Diner : 1^{f}95 + 10c
   \ind Billet pour Toulouse : 11^{f} 15c
   Magasins Hotel de Ville : 1 brosse à cheveux : 3^{f}95
@@ -20,28 +20,24 @@ transcription: |
   \ind Voyage, terminé sans incidents \trait
   En approchant de Toulouse, souvrs jeunesse
   revenus en foule esprit. Cru revoir mère et
-  \inc{sœurs}, m attendant, cme autrefoi, gare
+  sœurs, m'attendant, cme autrefois, gare
   Vers 8^{H}15 arrivée
   Retiré 2 bagages. Pris tram St-Michel
-  Matinée, ds mon appartt, à ranger
+  Matinée, ds mon appart^{t}, à ranger
   affaires.
   \ind oncle Émile, venu me surprendre à 10^{H}\fr{1}{2}
-  a midi, enfin, à Ste-Marie – Dû
-  attendre tram 30m. angle musee
+  à midi, enfin, à S^{te}-Marie – Dû
+  attendre tram 30m. angle musée
   \filet[d]{0.7}
 apparat:
 - ligne: 4
-  lemme: Enregt
+  lemme: Enreg^{t}
   type: abreviation
   note: enregistrement
 - ligne: 5
   lemme: \inc{taxametre}
   type: lecture
   note: 'pour « taximètre » ; autre lecture : taximetre'
-- ligne: 5
-  lemme: = 1 75c
-  type: abreviation
-  note: pour 1,75~F
 - ligne: 9
   lemme: \inc{15}c
   type: lecture
@@ -54,20 +50,12 @@ apparat:
   lemme: souvrs
   type: abreviation
   note: souvenirs
-- ligne: 15
-  lemme: \inc{sœurs}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : sœur'
-- ligne: 15
-  lemme: autrefoi,
-  type: lecture
-  note: pour « autrefois » ; s final non écrit
 - ligne: 17
   lemme: St-Michel
   type: abreviation
   note: Saint-Michel (quartier de Toulouse)
 - ligne: 21
-  lemme: Ste-Marie
+  lemme: S^{te}-Marie
   type: abreviation
   note: Sainte-Marie
 - ligne: 22

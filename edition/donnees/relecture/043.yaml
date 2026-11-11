@@ -108,3 +108,12 @@ audit:
   avant: in Flanders
   apres: In Flanders
   justification: premier trait haut d'environ trois œils, descendant depuis la hauteur des hampes, au module du I d'Impressions (l. 14) ; le n qui suit reste au module d'une minuscule (zoom ×3)
+collation_2026_11:
+- ligne: 4
+  avant: à Acheux ; bureau mission fr ; dans
+  apres: à Acheux ; bureau mission fr^{se}, dans
+  justification: 'Au zoom ×4 (/tmp/hc_bands/z_rem01_final_checks.jpg), « fr » est immédiatement suivi en exposant du petit trait ondulé « ^{se} » (tracé identique à « mission fr^{se}. » au cl. 045 l. 4), puis plus à droite d''une simple virgule descendante sur la ligne de base avant « dans » : la leçon « fr ; » confondait la finale suscrite « ^{se} » avec le point supérieur d''un point-virgule.'
+- ligne: 19
+  avant: '\ind — Canteen station de Raincheval :'
+  apres: '\ind — Canteen, station de Raincheval :'
+  justification: 'Virgule nette et isolée sur la ligne de base entre « Canteen » et « station » (placée sous un \blanc{2} et exactement au-dessus de l''espace blanc séparant « Cananda » et « In » à la l. 20, sans aucune interférence des lignes voisines ; vérifié dans /tmp/hc_bands/z_rem01_c043.jpg), identique à la l. 16 (« la canteen, station de Raincheval »). Adapter le lemme d''apparat de la l. 19 (« Canteen station » → « Canteen », note : « cantine »).'

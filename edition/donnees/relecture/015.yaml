@@ -86,3 +86,16 @@ noms:
   personnes: []
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: Journée entière de liberté
+  apres: Journée entière de liberté.
+  justification: Au zoom [0.01 0.09 0.72 0.24], outre l'accent aigu décalé en haut à droite de « liberté », un point rond bien encré figure sur la ligne de base à droite de la finale (au-dessus de « reposer » l. 6, dépourvu de « i »).
+- ligne: 8
+  avant: \sl{mercredi 9.}
+  apres: \sl{Mercredi 9.}
+  justification: Au zoom [0.01 0.56 0.45 0.66], l'initiale « M » présente une longue attaque montante depuis la ligne de base et trois jambages anguleux hauts de deux œils (hauteur de la hampe du « d »), identiques au « M » majuscule de « Mardi 8. » (l. 1) et sans rapport avec les « m » minuscules de la page (« m'installer », « mieux », « ma », « moustiques »).
+- ligne: 11
+  avant: \ind Routes si poussiéreuse que impossible
+  apres: \ind Route si poussiéreuse que impossible
+  justification: Au zoom [0.04 0.69 0.72 0.82], le mot s'achève après « t » par une petite boucle de « e » prolongée d'un court délié horizontal ondulé sans « s » final (même tracé exactement que le singulier « Route poussiéreuse » au cliché 012, l. 11, en accord avec « poussiéreuse » au singulier).

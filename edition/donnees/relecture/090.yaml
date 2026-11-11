@@ -147,3 +147,16 @@ noms:
     ligne: 11
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 7
+  avant: conseillé demander ordre écrit, après \inc{avoir} vu Lt Pizzi
+  apres: conseillé demander ordre ecrit, après \inc{avoir} vu Lt Pizzi
+  justification: Papier entièrement vierge au-dessus de « e-c-r » dans « ecrit » (sous « et surtout » l. 6, sans jambage descendant) ; seuls le point rond de l'i et la barre horizontale du t sont tracés (reliquat de normalisation signalé parmi les cas typiques de GUIDE_PALEOGRAPHIQUE.md § 2.5 et § 8.25).
+- ligne: 10
+  avant: tempêté. \inc{Col.} Grose, signé ordre daccompagner
+  apres: tempêté. \inc{Col.} Grose, signe ordre daccompagner
+  justification: Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u2_090_tempete_signe.jpg), au-dessus de « s-i-g-n-e », le point du i surplombe le i, les jambages descendants de « ff » de « Office » (l. 9) se referment nettement au-dessus de « g-n », et le blanc situé au-dessus de « -ne » et avant « ordre » est absolument vierge de tout trait d'accent aigu (« tempêté. » en tête de ligne est en revanche conservé, le sommet du second t portant une crête incurvée en circonflexe).
+- ligne: 14
+  avant: juché au kit de Lt. Curtis
+  apres: juché au kit de Lt. Curtis.
+  justification: Un point rond net à l'encre violette est posé exactement sur la ligne de base immédiatement à droite du s final de « Curtis. », de même module, d'encre et de position que les points de « Curtis. » (l. 11), « bagages. » (l. 13) et « Lt. » (l. 14).

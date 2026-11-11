@@ -143,3 +143,28 @@ audit:
   avant: pour acheter paille & foin
   apres: pour acheter paille & foin.
   justification: point rond appuyé sur la ligne, détaché après « foin » (zoom ×2 [.45 .33 .75 .385]), de même forme que celui de « mois. » (l. 5) ; le point du i est le petit tiret au-dessus du mot
+collation_2026_11:
+- ligne: 1
+  avant: —Vendredi \sl{9 (suite)} — \hfill Février 1917
+  apres: —Vendredi \sl{9 (suite)} — \hfill \sl{Février 1917}
+  justification: 'Au zoom ×4, le « t » suscrit de « Lieut^{t} » (l. 2) possède déjà sa propre barre transversale fine à mi-haste, tandis qu''à sa droite et plus haut court sous « -vrier 1917 » un épais trait horizontal indépendant terminé en crosse descendante sous le « 7 » : c''est le soulignement de « Février 1917 », identique par l''épaisseur, la position et la crosse finale à ceux des cl. 156, 157, 158 et 159.'
+- ligne: 4
+  avant: administré par l'armée et
+  apres: administré par l'armee et
+  justification: Contrairement à « désormais » et « administré » sur la même ligne, aucun accent n'est tracé au-dessus de « -ee » dans « l'armee » (la virgule de « fr^{e}, » l. 3 s'arrête au-dessus de « m » et le premier « p » d'« appris » s'arrête au-dessus du second « e », laissant le papier vierge). Reliquat de normalisation.
+- ligne: 8
+  avant: Vers 6^{h} s ;
+  apres: Vers 6^{H} s ;
+  justification: 'Deux montants verticaux parallèles reliés par une traverse médiane : « H » majuscule suscrit (« 6^{H} », cf. GUIDE_PALEOGRAPHIQUE.md § 7), et non « h » minuscule.'
+- ligne: 11
+  avant: Sur pied \inc{dès} 7^{h}.
+  apres: Sur pied \inc{dès} 7^{H}.
+  justification: Même « H » majuscule suscrit à deux hastes parallèles et traverse (« 7^{H}. »), identique à « 6^{H} » (l. 8).
+- ligne: 14
+  avant: froid vif. très penetrant
+  apres: froid vif, très penetrant
+  justification: À la différence du petit point rond qui suit « road. » juste au-dessus (l. 13), le signe après « vif » est un trait oblique descendant vers la gauche (trois fois plus haut que le point de « road. », de même calibre que les virgules courtes de « 2 cotes, champs » l. 17 et « \inc{Votté}, très aimable » l. 20), suivi d'une minuscule à « très ».
+- ligne: 18
+  avant: Soleil se leve, de + en + chaud
+  apres: Soleil se lève, de + en + chaud
+  justification: Un net accent grave oblique « \ » à l'encre violette est tracé isolément dans le blanc interlinéaire juste au-dessus de « -ev- » (entièrement détaché de « 2 cotes » à la l. 17). Accent autographe réel supprimé à tort lors d'un contrôle antérieur.

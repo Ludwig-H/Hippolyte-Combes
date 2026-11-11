@@ -204,3 +204,8 @@ noms:
     ligne: 12
     identite: Doullens (Somme) ; aussi l. 14
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: Arqueves,
+  apres: Arquèves,
+  justification: accent grave tracé sur « Arquèves »

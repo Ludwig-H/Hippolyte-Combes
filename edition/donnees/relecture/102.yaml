@@ -187,3 +187,32 @@ audit:
   avant: d'entrailles. Ni thé, ni souper. 7 selles
   apres: d'entrailles. Ni thé, ni supper. 7 selles
   justification: 'zoom x3 : ſ initial, u, puis deux hastes de p descendant sous la ligne, e et r final en délié ; aucun o ; mot anglais (supper) après tea'
+collation_2026_11:
+- ligne: 8
+  avant: menagé.
+  apres: ménagé.
+  justification: accent aigu tracé sur « ménagé »
+- ligne: 9
+  avant: amélioration
+  apres: amelioration
+  justification: aucun accent aigu sur « amelioration »
+- ligne: 12
+  avant: par derrière
+  apres: par derrière)
+  justification: parenthèse fermante tracée après « derrière »
+- ligne: 17
+  avant: seche
+  apres: sèche
+  justification: accent grave tracé sur « sèche »
+- ligne: 19
+  avant: matinée reposé
+  apres: matinée, reposé
+  justification: virgule tracée après « matinée »
+- ligne: 23
+  avant: obscure. –
+  apres: obscure –
+  justification: aucun point avant le tiret
+- ligne: 24
+  avant: légère
+  apres: legère
+  justification: premier « e » sans accent aigu

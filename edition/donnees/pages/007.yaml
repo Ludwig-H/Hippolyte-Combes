@@ -16,7 +16,7 @@ transcription: |
   presque en face et lu, ruminé à mon aise.
   \ind Resté grenier, presque tt l'après.midi, dormi,
   lu et ecrit –
-  \ind D'une fenêtre latérale, regardé \inc{les} campagne
+  \ind D'une fenetre latérale, regardé \inc{les} campagne
   – plaine fertile, entrecoupée de boqueteaux
   et de houblonnières. Ciel peu à peu
   estompé de rose – —
@@ -27,7 +27,7 @@ transcription: |
   Matin, en auto avec mes off : au
   refilling point, puis à Bailleul, enfin
   chz fermier \inc{Terrier} – —
-  Après-midi, en plein soleil cuisant ai
+  Après-midi, en plein soleil canicul^{re}
   dû conduire 1 waggon to the fields
   for green forage. Chaleur extrême \trait
   \ind Fin jour, promené et assis champs attenant
@@ -58,6 +58,10 @@ apparat:
   lemme: \inc{Terrier}
   type: lecture
   note: 'lecture incertaine ; autres lectures : Texier, Terrien'
+- ligne: 22
+  lemme: canicul^{re}
+  type: abreviation
+  note: caniculaire
 - ligne: 23
   lemme: waggon
   type: emprunt

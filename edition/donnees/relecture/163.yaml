@@ -155,3 +155,32 @@ noms:
     ligne: 8
     identite: Toutencourt (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 7
+  avant: tr sympathique
+  apres: très sympathique
+  justification: « très » complet avec accent grave
+- ligne: 9
+  avant: marl logis
+  apres: mar^{al} logis
+  justification: finale « al » suscrite
+- ligne: 10
+  avant: l'a demandé
+  apres: l. a demandé
+  justification: point bas après « l » (« l. a demandé » = lui a / lequel a demandé)
+- ligne: 11
+  avant: marl logis
+  apres: mar^{al} logis
+  justification: finale « al » suscrite
+- ligne: 15
+  avant: 1fc.
+  apres: 15 c.
+  justification: montant « 15 c. » (15 centimes, tarif d'affranchissement), non « 1fc. »
+- ligne: 20
+  avant: Preparé lentement paquets & sac
+  apres: Préparé lentement paquets & sacs
+  justification: accent aigu sur « Préparé » et -s final à « sacs »
+- ligne: 27
+  avant: funebre
+  apres: funèbre
+  justification: accent grave tracé sur « funèbre »

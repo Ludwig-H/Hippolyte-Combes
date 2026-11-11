@@ -131,3 +131,16 @@ noms:
     ligne: 24
     identite: Toutencourt (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Sam. 17} — Dégel continué \hfill \sl{Fevrier 1917}
+  apres: \sl{Sam. 17} — Dégel continué \hfill \sl{Février 1917}
+  justification: 'Au-dessus du premier « e » de « Février » (entre la barre médiane du « F » et le « v »), un grand trait oblique appuyé « / » monte vers la droite en recoupant l''extrémité droite de la barre de tête du « F » : c''est exactement le même grand accent aigu élancé que sur « Février 1917 » en regard au cl. 157 l. 1.'
+- ligne: 21
+  avant: partie ceremonie, entendu prône. —
+  apres: partie cérémonie, entendu prône. —
+  justification: 'Trois signes diacritiques distincts surplombent « cérémonie » dans le blanc interlinéaire sous « du » (l. 20, sans aucun jambage descendant) : 1° un accent aigu oblique net au-dessus de « -er- » ; 2° un second accent aigu oblique net au-dessus de « -em- » ; 3° le point de l''« i » au-dessus de « -ie ». Les deux accents aigus ont été omis à tort.'
+- ligne: 24
+  avant: parfaite sante morale. — \hfill [A Toutencourt,
+  apres: parfaite sante morale. – \hfill [A Toutencourt,
+  justification: Après « morale. », petit tiret court « – » (même calibre court que « brouillard – » à la l. 8, trois fois plus court que les tirets longs « Toulouse — » l. 19 et « prône. — » l. 21 sur la même page).

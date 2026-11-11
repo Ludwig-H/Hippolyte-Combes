@@ -6,36 +6,32 @@ lieux: Hérissart et Toutencourt (Somme)
 titre: Neige ; interprètes Evar (?) et Valet ; consigne de la Mission ; départ préparé
 transcription: |
   \sl{8 Jeudi}
-  Nuit tre froide. Gelé fort — \hfill \sl{Mars 1917} —
+  Nuit très froide. Gelé fort^{t} — \hfill \sl{Mars 1917} —
   Durant matinée, neige tombée à gros flocons.
   ciel mat & comme voilé de brume
   Liberté entière, matin & soir.
   \ind Vers 3^{H} s., intte \inc{Evar}, revenu en cie d'1 autre
   intte Valet, R2, de la 2^{nd} australian division.
   \inc{Evar}, reparti à Albert sur 1 lorry avec
-  tout son kit. Valet, \inc{est} sympathique
+  tout son kit. Valet, ext^{t} sympathique
   \ind Aussitôt thé pris, allé à pied Mission fr^{se},
   Toutencourt : maréchal logis . – – , m'a dit
   de rester avec mon cap Hérissart j-à son départ,
   puis me rendre au dépôt, Toutencourt
-  Tre agréable walk sur route tre sèche, Temps
-  mervx pleine lune, ciel nuageux & qq étoiles
+  Très agréable walk sur route très sèche. Temps
+  merv^{x} pleine lune, ciel nuageux & qq étoiles
   \sl{9 Vendredi.} — Nuit, moins froide. Gelé un peu.
-  Eveillé chants d'oiseaux.
-  matinée, fait ts preparatifs départ —
+  Éveillé chants d'oiseaux.
+  matinée, fait ts préparatifs départ —
   Neige tombée à flocons serrés durant
   plusieurs heures, surtout l'après-midi.
   Liberté entière journée. Bien reposé, office
-  Fin soirée, tt pensif tristesse, changement
+  Fin soirée, tt penétré tristesse, changement
   de sit^{on}, & incertitude au sujet nouvelle affectation
   \blanc{2}
   \equerre{2}Après dinner, réglé comptes mess avec cap W^{m}
   jusqu'à ce soir : \inc{18} f. —
 apparat:
-- ligne: 2
-  lemme: tre
-  type: abreviation
-  note: très
 - ligne: 6
   lemme: intte
   type: abreviation
@@ -60,16 +56,12 @@ apparat:
   lemme: kit
   type: emprunt
   note: paquetage
-- ligne: 9
-  lemme: \inc{est}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : ext (extrêmement)'
 - ligne: 14
   lemme: walk
   type: emprunt
   note: promenade, marche
 - ligne: 15
-  lemme: mervx
+  lemme: merv^{x}
   type: abreviation
   note: merveilleux
 - ligne: 23

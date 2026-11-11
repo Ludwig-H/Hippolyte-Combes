@@ -111,3 +111,8 @@ noms:
     ligne: 12
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 9
+  avant: pelouse chateau
+  apres: pelouse château,
+  justification: accent circonflexe sur « château » suivi d'une virgule

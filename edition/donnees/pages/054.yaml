@@ -6,8 +6,8 @@ lieux: Toulouse (Haute-Garonne)
 titre: Arrivée à Toulouse ; déjeuner chez les Crouzet ; Marguerite à la Côte-Pavée
 transcription: |
   \sl{27 mer.} \hfill Sept^{r} \sl{1916}
-  nuit passée \inc{ds} \inc{wag^{t}}. Dormi 1 peu
-  A 7^{H} 30 m., arrivé a Toulouse
+  nuit passé très rap^{t}. Dormi 1 peu
+  A 7^{H} 30 m., arrivé à Toulouse
   Pris tram et vers 8^{H}, ds mon appartement
   A 11^{Hm} – monté à S^{te} Marie-des-Champs. Les dames
   Calmels, pas e. arrivées, ne seront là que ce soir –
@@ -25,13 +25,9 @@ transcription: |
   Cartes ples :
 apparat:
 - ligne: 2
-  lemme: \inc{ds}
-  type: lecture
-  note: 'dans ? ; autre lecture : en'
-- ligne: 2
-  lemme: \inc{wag^{t}}
-  type: lecture
-  note: 'wagon ? ; autres lectures : vag^{t}, voy^{t}'
+  lemme: rap^{t}
+  type: abreviation
+  note: rapidement
 - ligne: 5
   lemme: 11^{Hm}
   type: abreviation

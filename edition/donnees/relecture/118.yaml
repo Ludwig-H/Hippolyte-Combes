@@ -230,3 +230,20 @@ noms:
     ligne: 24
     identite: Acheux-en-Amiénois (Somme), cantonnement d'Hippolyte Combes
 source: contrôle
+collation_2026_11:
+- ligne: 6
+  avant: '& Pas. gd Route d''Arras. Ondée très fine &'
+  apres: '& Pas. g^{d} Route d''Arras. Ondée très fine &'
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_118_a.jpg), le petit « d » est nettement perché en exposant au-dessus de l'œil du « g », à hauteur du sommet du « R » majuscule de « Route » (conformément à ABREVIATIONS.md l. 69 « g^{d} » et aux cl. 010, 032 et 113).
+- ligne: 9
+  avant: 'maison ds qq jours : \del{\ill} proprie tient à s''y'
+  apres: 'maison ds qq jours : \del{\ill} propr^{ie} tient à s''y'
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_118_a.jpg), après « propr » posé sur la ligne de base et suivi d'une levée de plume, la finale « ie » (« i » pointé + « e » bouclé) est nettement surélevée en exposant à hauteur de la barre de « tient » (cf. « propr^{e} » cl. 102 l. 11 et « propriét^{res} » cl. 113 l. 18). Adapter le lemme d'apparat de la l. 9.
+- ligne: 10
+  avant: installer. Regrette de partir d'ici. Chambre chaude –
+  apres: installer. Regrette de partir d'ici. Cherche chambre –
+  justification: 'Lecture certaine lettre à lettre au zoom ×4 (/tmp/hc_bands/z_rem03_118_a.jpg) : le premier mot après « d''ici. » est « Cherche » (« C » majuscule + « h » bouclé + « e-r-c » + second « h » bouclé + « e », sans « m », identique à « Cherche » cl. 095 l. 13), et le second mot est « chambre » (« c » minuscule + « h » + « a » + trois jambages de « m » + « b » bouclé traversé par le jambage de « s''y » l. 9 + « r-e » ; comparer au contraire « chaud. » à la l. 13 sur la même planche de zoom). Restitue le sens obvie : prévenu par son logeur qu''il doit quitter la maison sous peu, Combes note « Regrette de partir d''ici. Cherche chambre – » (sa chambre d''Acheux étant du reste « sans feu », cl. 110 l. 19).'
+- ligne: 20
+  avant: Rentré 6^{h} s., très fatigué par Plusieurs
+  apres: Rentré 6^{H} s., très fatigué par Plusieurs
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_118_b.jpg), la lettre suscrite après « 6 » est un petit « H » majuscule à deux hastes verticales parallèles et traverse horizontale (guide § 7, identique à « 9^{H} » cl. 109 l. 4 et à « 9^{H} », « 11^{H} », « 3^{H} », « 4^{H} » cl. 119).

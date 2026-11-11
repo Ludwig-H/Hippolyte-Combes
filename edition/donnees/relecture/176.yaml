@@ -137,3 +137,16 @@ noms:
     ligne: 15
     identite: Hérissart (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: 4 \sl{Merc.} — Temps affreux – matinée, tourmente
+  apres: 4 \sl{Merc.} — Temps affreux – Matinée, tourmente
+  justification: L'initiale de « Matinée » présente la grande attaque montante et le premier sommet géant (deux fois la hauteur d'œil, égal au « T » majuscule de « Temps » et identique trait pour trait au « M » majuscule de « Merc. » en tête de la même ligne), à l'opposé des « m » minuscules bas de « matinée » aux cl. 177 l. 19, 178 l. 17 et 179 l. 19 (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_176_z1_matinee_course.jpg).
+- ligne: 9
+  avant: 5 \sl{Jeudi-Saint} — Enfin, belle journée. Ciel bleu,
+  apres: 5 \sl{Jeudi-Saint} — Enfin, belle journée. ciel bleu,
+  justification: Après le point de « journée. », l'initiale de « ciel » est un petit « c » minuscule strictement contenu dans la hauteur d'œil et dépourvu de boucle supérieure, identique à « froid. ciel resté » (cl. 177 l. 17) et « ciel d'1 bleu » (cl. 178 l. 3), et nettement opposé aux grands « C » majuscules bouclés de « Course » (l. 3), « Carnets » (l. 8), « Contay » (l. 12) et « Contemplé » (l. 16) sur la même page (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_176_z3_ciel_bleu.jpg).
+- ligne: 15
+  avant: proximité d'Hérissart. Beau sunset, derrière
+  apres: proximité d'Herissart. Beau sunset, derriere
+  justification: 'Deux absences d''accent certaines vérifiées aux zooms ×5 (/tmp/hc_bands/z_rem08_176_z5_herissart_bas.jpg et /tmp/hc_bands/z_rem08_170_176_verif.jpg) : 1° dans « d''Herissart. », l''espace au-dessus de « e-r » entre la traverse du « H » et le point rond de l''« i » est entièrement vierge (la virgule de « terminé, » l. 14 reste haut au-dessus du « H » et la haste du « p » de « promenade » descend sur le premier « s » ; même graphie « Herissart » aux cl. 157 l. 25 et cl. 177 l. 9) ; 2° dans « derriere », tout l''espace supérieur au-dessus de « d-e-r-r-i-e-r-e » (sous « à — » l. 14) est entièrement blanc, sans point d''« i » ni accent grave.'

@@ -163,3 +163,36 @@ audit:
   avant: de rouille, orange et or — et allées
   apres: de rouille, orange et \inc{or} — et allées
   justification: 'zoom ×4 [.49 .385 .66 .43] : mot pâle formé de deux jambages en u puis d''un élément croisé, suivi d''un long trait ; la forme ne rend pas lettre à lettre o + r, lecture gardée pour le sens mais marquée incertaine'
+collation_2026_11:
+- ligne: 2
+  avant: averses
+  apres: averses.
+  justification: point final après « averses »
+- ligne: 6
+  avant: Herissart,
+  apres: Hérissart,
+  justification: accent aigu tracé sur « Hérissart »
+- ligne: 7
+  avant: 1^{h} \fr{1}{2}
+  apres: 1^{H} \fr{1}{2}
+  justification: H majuscule suscrit
+- ligne: 8
+  avant: 6 h
+  apres: 6^{H}.
+  justification: H majuscule suscrit suivi d'un point
+- ligne: 14
+  avant: 18^{ie} divon
+  apres: 18^{th} div^{on}
+  justification: « th » anglais suscrit et « on » suscrit
+- ligne: 20
+  avant: rentré \inc{à} billet.
+  apres: rentré billet.
+  justification: aucune préposition entre « rentré » et « billet. »
+- ligne: 22
+  avant: \inc{Lealvillo} ( )
+  apres: \inc{Lealvillers})
+  justification: parenthèse fermante après « Lealvillers »
+- ligne: 24
+  avant: défilé
+  apres: defilé
+  justification: premier « e » sans accent aigu

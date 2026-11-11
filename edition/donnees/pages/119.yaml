@@ -7,27 +7,27 @@ titre: Course à Amiens par Montigny ; capitaine Trefton [?] ; visite de la cath
 transcription: |
   3 \sl{Mercredi} \hfill — \sl{Janvier /17} —
   \ind Course à Amiens \trait
-  Ciel couvert, pluie menacé tout le jour –
+  ciel couvert, pluie menacé tout le jour –
   Temps +tot tiède & doux \trait
   Depart 9^{H} m. 2 \inc{offs}, venus avec nous \trait
-  Arrêt à Belle-Eglise et + long à Montigny,
+  Arrêt à Belle-Eglise et + long, à Montigny,
   Chz M. Dubois Paul, maire – avec qui eu
   conversation fort intéressante \trait
-  Vers 11^{h}, à Amiens.
-  Remisé, garé notre auto ds la cour de
+  Vers 11^{H}, à Amiens.
+  \del{Remisé} garé notre auto ds la cour de
   l'Hotel de la Paix, rue – et dès lors,
-  pour moi, liberté complète j-à 3^{H} \fr{1}{2} s.
+  pour moi, liberté complête j-à 3^{H} \fr{1}{2} s.
   Rencontré, Cap. \inc{Trefton} rue Sire Firmin Leroux
-  (La Semeuse : instruments agricoles etc –
+  (La Semeuse : instrum^{ts} agricoles etc –
   \ind Après dejeuner, visite à la cath^{le}, y
   passé plus d'1 heure . . . Admiré à
-  loisir choses & détails déjà vus . .
+  loisir choses & détails dejà vus . –
   Promené çà et là, le long rues centre \trait
   Repartis vers 4^{H} s. –
   \blanc{2}
   — \sl{Amiens} – 12 C^{te} ple : 40c. — +10 C^{te} ple : 20c
   3 boutons khaki – : 40c. — \hfill Dejeuner : 1^{f} \inc{75} c —
-  5 gravures ocre cathedrale : 2^{f} 50 –
+  5 gravures ocre cathedrale : 2^{f} 50. –
   1 bonnet police drap bleu : 3^{f} 75c
 apparat:
 - ligne: 1
@@ -46,6 +46,10 @@ apparat:
   lemme: \inc{Trefton}
   type: lecture
   note: 'lecture incertaine ; autre lecture : Trefcon'
+- ligne: 14
+  lemme: instrum^{ts}
+  type: abreviation
+  note: instruments
 - ligne: 15
   lemme: cath^{le}
   type: abreviation

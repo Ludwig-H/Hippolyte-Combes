@@ -105,3 +105,12 @@ noms:
     ligne: 7
     identite: Albert (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: vehicules
+  apres: véhicules
+  justification: accent aigu tracé sur « véhicules »
+- ligne: 3
+  avant: gde artère
+  apres: g^{de} artère
+  justification: finale « de » suscrite

@@ -18,13 +18,13 @@ transcription: |
   Depart train vers 8 H s
   \filet
   Tramway : Bourget - gare du nord : 50 c
-  Metro : 1 f   \inc{Envois} : 10 c, 1 f, 2 f, 2 f (\inc{Therese})
+  Metro : 1 f   \inc{Envois} : 10 c, 1 f, 2 f, 2 f (Ste \inc{Therese})
   Billet 2e cl. Toulouse \fr{1}{4} place : 15^{f} \add{Coupe (chvx} 1 f
   Christofle : 12^{f} 50, remise, une \ill : 10^{f}50
-  Zyromski : Lorgueil humain : 4^{f}. net : 3^{f}20
-  Maeterlinck : Les Debris : 3^{f}50. – Cirage : 25 c
+  Zyromski : L'orgueil humain : 4^{f}. net : 3^{f}20
+  Maeterlink : Les Debris : 3^{f}50. – Cirage : 25 c
   Dejeun : 1^{f}60. – Diner : 1^{f}60. – C^{tes} p^{les} : 15 c
-  Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 couronne \trait
+  Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 & couronne \trait
   Kepi (au Bon Marché : 8^{f}75. – Consigne : \inc{15 c}
   Carte de Verdun : \inc{10 c} – \inc{Entretien} souliers : 30 c
   Carte Roumanie : 30 c – \inc{Divers} : W.C : 15 c
@@ -62,7 +62,7 @@ apparat:
   type: lecture
   note: 'autre lecture : Envoi'
 - ligne: 12
-  lemme: (\inc{Therese})
+  lemme: (Ste \inc{Therese})
   type: lecture
   note: 'autres lectures : Germaine, Thomas'
 - ligne: 13
@@ -81,6 +81,10 @@ apparat:
   lemme: \ill
   type: lecture
   note: mot illisible (montre ? mesure ?)
+- ligne: 16
+  lemme: Maeterlink
+  type: graphie
+  note: Maurice Maeterlinck
 - ligne: 17
   lemme: Dejeun
   type: abreviation

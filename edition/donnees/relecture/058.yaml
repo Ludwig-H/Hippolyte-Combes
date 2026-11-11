@@ -158,3 +158,24 @@ audit:
   avant: Après repas, pris trams et venu à Lardenne
   apres: Après repas, pris trams et venus à Lardenne
   justification: 'zoom ×3 : v, e, quatre minimes (n, u), puis un trait vertical montant à hauteur de hampe, identique au s final de « trams » sur la même ligne et de « Trams » (l. 14) ; pluriel cohérent avec « Redescendus »'
+collation_2026_11:
+- ligne: 1
+  avant: \sl{1er D.} \hfill \sl{Octobre /16}
+  apres: \sl{1er D.} \hfill \sl{\sur{Sept}{Oct}obre /16}
+  justification: Au 1er octobre, Hippolyte Combes a d'abord tracé « Sept » par automatisme (boucle de « S », « e », longue haste descendante du « p » traversant le trait de soulignement, « t ») avant de surcharger « Oct » par-dessus et d'enchaîner « obre » (vérifié au zoom ×4 dans /tmp/hc_bands/z_rem01_final_checks.jpg ; syntaxe validée avec balisage.py).
+- ligne: 2
+  avant: Matin, à St. Etienne. Entendu
+  apres: Matin, à St. Etienne Entendu
+  justification: 'Aucun point après « Etienne » : le mot se termine par un délié horizontal (que croise le sommet du « l » de « autel » l. 3) suivi d''un blanc vierge avant « Entendu » (reliquat de ponctuation normalisée ; vérifié dans /tmp/hc_bands/z_rem01_c058.jpg).'
+- ligne: 5
+  avant: Joui du calme & silence —
+  apres: Joui du calme & silence \trait
+  justification: La finale de « silence » se prolonge directement sans levée de plume en un trait horizontal épaissi en massue, identique à « arbres\trait » (cl. 047 l. 8) et « charmante \trait » (cl. 055 l. 9), et non en tiret détaché (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem01_check2.jpg).
+- ligne: 6
+  avant: monté déjeun à S^{te} Marie – \hfill Temps très beau
+  apres: monté dejeun à S^{te} Marie – \hfill Temps très beau
+  justification: 'Aucun accent aigu sur le premier « e » de « dejeun » : seul le petit point du « j » figure au-dessus de « je », exactement comme au cl. 042 l. 3 (« Dejeuné ») et au cl. 059 l. 6 (« dejeun ») (vérifié dans /tmp/hc_bands/z_rem01_c058.jpg ; adapter le lemme d''apparat de la l. 6 : « déjeun » → « dejeun »).'
+- ligne: 11
+  avant: charmante, simple & affectueuse —
+  apres: charmante, simple & affectueuse \trait
+  justification: 'Même tracé continu sans levée de plume qu''à la l. 5 : la finale de « affectueuse » s''étire directement en un trait de remplissage en massue, par opposition au tiret réellement détaché de « en tram. — » l. 13 (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem01_check2.jpg).'

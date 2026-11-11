@@ -201,3 +201,16 @@ audit:
   avant: après-midi
   apres: apres-midi
   justification: aucun accent au-dessus du e (zoom ×3)
+collation_2026_11:
+- ligne: 7
+  avant: gde fatigue
+  apres: g^{de} fatigue
+  justification: finale « de » suscrite
+- ligne: 11
+  avant: complete
+  apres: complète.
+  justification: accent grave sur « complète » suivi d'un point
+- ligne: 21
+  avant: cote de Herissart
+  apres: côte de Hérissart
+  justification: circonflexe sur « côte » et aigu sur « Hérissart »

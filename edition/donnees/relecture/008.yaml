@@ -123,3 +123,20 @@ audit:
   avant: 'et aujourd hui : 20 c.'
   apres: et aujourd hui . 20 c.
   justification: 'zoom ×3 [.25 .49 .60 .545] : un seul point sur la ligne de base devant 20 ; le tiret au-dessus est le point du i de hui, le point plus haut appartient au deux-points de la l. 13 (fermière : lait) ; même séparateur que « bière . hier » l. 13'
+collation_2026_11:
+- ligne: 1
+  avant: Aout
+  apres: Août
+  justification: accent circonflexe tracé sur « Août »
+- ligne: 8
+  avant: 4^{h}.
+  apres: 4^{H}.
+  justification: H majuscule suscrit
+- ligne: 10
+  avant: '& de Bethune — Parcouru'
+  apres: '& de Bethune Parcouru'
+  justification: aucun tiret entre « Bethune » et « Parcouru »
+- ligne: 11
+  avant: eglise
+  apres: église
+  justification: accent aigu tracé sur l'initiale de « église »

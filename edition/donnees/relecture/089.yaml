@@ -133,3 +133,32 @@ noms:
     ligne: 24
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: 1er Me.
+  apres: \sl{1^{er} Me.}
+  justification: « 1^{er} Me. » souligné avec « er » suscrit
+- ligne: 6
+  avant: dévastées
+  apres: devastées
+  justification: premier « e » sans accent aigu
+- ligne: 7
+  avant: béants.
+  apres: beants.
+  justification: aucun accent aigu sur « beants »
+- ligne: 9
+  avant: à côté,
+  apres: à coté,
+  justification: aucun accent circonflexe sur le « o » de « coté »
+- ligne: 11
+  avant: 3^{h},
+  apres: 3^{H},
+  justification: H majuscule suscrit
+- ligne: 13
+  avant: gen^{l} écossais épingle
+  apres: gén^{l} écossais épinglé
+  justification: accents aigus sur « gén^{l} » et sur la finale de « épinglé »
+- ligne: 20
+  avant: Ça et là,
+  apres: Çà et là,
+  justification: accent grave tracé sur « Çà »

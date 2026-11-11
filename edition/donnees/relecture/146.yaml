@@ -140,3 +140,16 @@ audit:
   avant: M. & Mme Carluvant m'ont offert déjeuner
   apres: M. & Mme \inc{Carluvant} m'ont offert déjeuner
   justification: 'zoom ×4 : après le l, quatre ou cinq minimes indistinctes puis une boucle fermée par le haut et n, t ; le tracé ne permet pas de trancher entre Carluvant (autres occurrences) et Carlumont : lecture marquée incertaine'
+collation_2026_11:
+- ligne: 8
+  avant: Resté 2 h. salle d'attente gare, absol^{t} comble
+  apres: Resté 2 h. salles d'attente gare, absol^{t} comble
+  justification: Au zoom ×4, immédiatement à droite de « salle » (et sous un espace vierge entre « mangé » et « un » de la l. 7) se dresse un « s » final vertical détaché s'arrêtant net sur la ligne de base, d'un ductus identique au « s » final détaché de « stations » (l. 11, visible juste au-dessous sur la même planche) et de « accompagnés » (cl. 139 l. 7).
+- ligne: 18
+  avant: Arrivé à Acheux, vers 1^{H} \fr{1}{2}
+  apres: Arrivé à Acheux, vers 1^{H} \fr{1}{2} s.
+  justification: Au zoom ×2, à droite de la fraction « \fr{1}{2} » figurent nettement l'abréviation « s » (trait oblique appuyé, identique à « vers 10^{H} s. » au cl. 138 l. 9 = « soir », soit 13 h 30) suivie de son point rond « . ». Les quatre hampes de « billet » à la l. 19 (« b » sous « \fr{1}{2} », « l », « l », « t ») s'arrêtent toutes nettement plus bas, séparées de « s. » par une large bande continue de papier vierge (le contrôle antérieur avait confondu à tort « s » avec la hampe du « b » de « billet » et omis le point).
+- ligne: 22
+  avant: Après m'être rasé, lavé, brossé, sorti,
+  apres: Après m'etre rasé, lavé, brossé, sorti,
+  justification: 'Aucun accent circonflexe n''est tracé sur le premier « e » de « m''etre » : après l''apostrophe et l''« e », seule la barre horizontale du « t » surmonte « t-r » (même graphie sans circonflexe qu''au cl. 140 l. 8).'

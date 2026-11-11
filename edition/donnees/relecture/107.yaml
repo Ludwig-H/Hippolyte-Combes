@@ -149,3 +149,28 @@ noms:
     ligne: 15
     identite: Raincheval (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: Matinée, liberté complète \trait
+  apres: Matinée, liberté complete \trait
+  justification: 'Sous un grand espace interlinéaire vierge (entre « 5 Mardi. » et « Dec^{bre} 1916 » l. 1), le papier est entièrement blanc au-dessus de « c-o-m-p-l-e- » entre la haste du l et celle du t : seule la barre oblique du t coupe sa haste vers la droite avant le « \trait » final (même graphie sans accent grave qu''au cl. 098 l. 6 et au cl. 175).'
+- ligne: 4
+  avant: Bayencourt, près \inc{d'}Hébuterne, à 3 kilometre
+  apres: Bayencourt, près \inc{d'}Hebuterne, à 3 kilometre
+  justification: 'Sous « course à » (l. 3, sans jambage descendant), le papier est totalement vierge au-dessus du premier e entre le H majuscule et la haute boucle du b de « Hebuterne » : aucun accent aigu n''est tracé.'
+- ligne: 6
+  avant: devastés. obus non éclatés ..– Village de \inc{Coigneux}
+  apres: devastés. obus non éclatés . – Village de \inc{Coigneux}
+  justification: 'Entre « éclatés » et « Village », il n''existe que DEUX signes de ponctuation : un point rond unique « . » sur la ligne de base suivi d''un tiret court « – » (séquence « . – » attestée 62 fois dans le corpus, alors que « ..– » constituait un hapax résiduel d''une ancienne lecture « ... »).'
+- ligne: 13
+  avant: \sl{6 merc} \hfill Levé 6^{h} m. \hfill Lt Curtis, parti vers
+  apres: \sl{6 merc} \hfill Levé 6^{H} m. \hfill – Lt Curtis, parti vers
+  justification: 'Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u5_107_6merc_raconte.jpg) : 1° la lettre suscrite de « 6^{H} » présente deux montants verticaux parallèles reliés par une traverse médiane (« H » majuscule suscrit) ; 2° immédiatement à gauche de « Lt Curtis », posé sur la ligne de base de la l. 13 et nettement séparé par du papier blanc du sommet de la haste du d de « de regret » (l. 14), figure un tiret court horizontal autonome « – » d''introduction de phrase après l''indication d''heure (supprimé à tort lors de relecture/107.yaml).'
+- ligne: 14
+  avant: 7^{h} \inc{1/2} m — & sans laisser de regret – A brainless
+  apres: 7^{H} \inc{1/2} m — & sans laisser de regret – A brainless
+  justification: Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u5_107_6merc_raconte.jpg), même « H » majuscule suscrit à deux montants parallèles reliés par une traverse horizontale après « 7 » (« 7^{H} »), identique à « 6^{H} » à la l. 13.
+- ligne: 17
+  avant: nouvel off., Cap. Williams, 20 ans ! après
+  apres: nouvel off., Cap. Williams, 20 ans ! apres
+  justification: Sous le blanc qui suit « \droite etc » (l. 16), le papier au-dessus de « a-p-r-e-s » en fin de l. 17 est entièrement vierge de tout accent grave (même omission d'accent que dans « l'apres-midi » au cl. 090 l. 20).

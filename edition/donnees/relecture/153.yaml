@@ -159,3 +159,44 @@ audit:
   avant: Et ces villages où vecu heures bien vide & triste.
   apres: Et ces villages où vecu \inc{jadis} bien vide & triste.
   justification: 'zoom x3 [.40 .31 .55 .37] : le mot commence par un long jambage descendant à attaque haute (j ou p), porte au milieu une haste bouclée montante (d) et finit par un crochet prolongé en délié, sans s plongeante ; heures (sans hampe médiane) est exclu ; jadis rend compte des traits et du singulier vide & triste ; pendant reste possible'
+collation_2026_11:
+- ligne: 3
+  avant: jours précédent.
+  apres: jours précédents.
+  justification: -s final tracé à « précédents »
+- ligne: 4
+  avant: \inc{entiert}
+  apres: entier^{t}
+  justification: lecture certaine de « entier^{t} » avec t suscrit
+- ligne: 6
+  avant: Mericourt
+  apres: Méricourt
+  justification: accent aigu tracé sur « Méricourt »
+- ligne: 8
+  avant: Et ces villages où vecu \inc{jadis} bien vide & triste.
+  apres: Et ces villages m'ont paru bien vides & tristes.
+  justification: 'lecture certaine au zoom : « Et ces villages m''ont paru bien vides & tristes. »'
+- ligne: 10
+  avant: \add{une} buée grise.
+  apres: \add{encore} buée grise.
+  justification: l'ajout interlinéaire se lit nettement « encore »
+- ligne: 11
+  avant: \inc{v.} nombreux
+  apres: '& nombreux'
+  justification: esperluette « & » certaine devant « nombreux »
+- ligne: 12
+  avant: leur ailes
+  apres: leurs ailes
+  justification: -s final tracé à « leurs »
+- ligne: 17
+  avant: Degel très rapide. Croute
+  apres: Dégel très rapide. Croûtes
+  justification: accent aigu sur « Dégel », circonflexe et -s final sur « Croûtes »
+- ligne: 19
+  avant: d'Herissart.
+  apres: d'Hérissart.
+  justification: accent aigu tracé sur « d'Hérissart »
+- ligne: 20
+  avant: funebre
+  apres: funèbre
+  justification: accent grave tracé sur « funèbre »

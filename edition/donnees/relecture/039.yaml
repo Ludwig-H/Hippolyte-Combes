@@ -135,3 +135,40 @@ noms:
     ligne: 13
     identite: Monts-en-Ternois (Pas-de-Calais)
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: vers 9 H \fr{1}{2} matin
+  apres: vers 9^{H} \fr{1}{2} matin
+  justification: Le petit H à deux hastes après 9 est nettement suscrit à hauteur de la boucle supérieure du 9, bien au-dessus de la ligne de base (comme « 1^{H} » à la l. 12).
+- ligne: 3
+  avant: division défilé avant
+  apres: division defilé avant
+  justification: Aucun accent aigu sur le premier e de « defilé » (papier vierge entre le d bouclé et la hampe du f ; seul l'accent final est tracé).
+- ligne: 4
+  avant: chevauchée ; arrêts fréquents
+  apres: chevauchée , arrets frequents
+  justification: 'Trois retouches certaines sur ce segment : (1) simple virgule , après « chevauchée » (la goutte supérieure n''est pas un point de point-virgule mais l''extrémité basse continue du jambage du f de « defilé » l. 3) ; (2) aucun circonflexe sur le e de « arrets » (seule la barre épaisse du t est présente) ; (3) aucun accent aigu sur « frequents ».'
+- ligne: 5
+  avant: et prolongés
+  apres: et prolongés.
+  justification: Point final rond et net posé sur la ligne de base à droite de « prolongés » (au-dessus de l'espace entre « par » et « Ligny », bien distinct du point du i de « Ligny » situé plus à droite).
+- ligne: 10
+  avant: Temps tt fait beau
+  apres: Temps tt à fait beau
+  justification: 'Entre « tt » et « fait » figure très nettement la préposition « à » (petit a bas surmonté d''un fort accent grave oblique : « Temps tt à fait beau »), omise dans la transcription actuelle.'
+- ligne: 12
+  avant: terminé 1ère étape , au
+  apres: terminé 1^{ère} etape , au
+  justification: D'une part, la finale « ^{ère} » (coiffée de son accent grave) est nettement suscrite à mi-hauteur du chiffre 1 ; d'autre part, le e initial de « etape » ne porte aucun accent aigu (seule la barre horizontale du t est présente).
+- ligne: 13
+  avant: hameau de Monts-en-Ternois
+  apres: hameau de Monts-en-Ternois.
+  justification: 'Deux points distincts sont visibles à la fin de « Ternois » : le point du i en haut au-dessus du s final ET un point rond de fin de phrase en bas à droite sur la ligne de base (supprimé à tort lors du contrôle antérieur).'
+- ligne: 14
+  avant: à l'\inc{entrée} du
+  apres: à l'\inc{extr^{te}} du
+  justification: 'Outre l''absence totale d''accent aigu sur ce mot, la comparaison directe avec 042 l. 21 (« Echappées de ciel à l''extré », voir /tmp/hc_bands/042_3_bas.jpg) montre le même ductus contracté d''« extrémité » : e + x croisé + grande haste de t + r + finale ^{te} suscrite au-dessus de la ligne de base. Mettre à jour l''apparat l. 14 (« extrémité ; lecture incertaine, autre lecture : entrée »).'
+- ligne: 20
+  avant: et le soir
+  apres: et le soir.
+  justification: Point rond noir très net à droite de « soir » (au-dessus de « sur » de la l. 21, où ne figure aucun i).

@@ -214,3 +214,32 @@ noms:
     ligne: 20
     identite: Mission française auprès de l'armée britannique
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: Aprè-midi,
+  apres: Après-midi,
+  justification: -s présent à « Après-midi »
+- ligne: 10
+  avant: deplu. Très affecte
+  apres: déplu. Très affecté
+  justification: accents aigus tracés sur « déplu » et « affecté »
+- ligne: 11
+  avant: passe
+  apres: passé
+  justification: accent aigu tracé sur « passé »
+- ligne: 15
+  avant: Aprè-midi
+  apres: Après-midi
+  justification: -s présent à « Après-midi »
+- ligne: 18
+  avant: « Bloody France etc. ! —
+  apres: « Bloody France etc. ! » —
+  justification: guillemet fermant « » » tracé après le point d'exclamation
+- ligne: 21
+  avant: deprimé
+  apres: déprimé
+  justification: accent aigu tracé sur « déprimé »
+- ligne: 23
+  avant: gdes apprehensions
+  apres: g^{des} appréhensions
+  justification: « des » suscrit et accent aigu sur « appréhensions »

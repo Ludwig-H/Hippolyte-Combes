@@ -140,3 +140,24 @@ audit:
   avant: Laissé mes colis à Office de l'R.T.O. & venu
   apres: Laissé mes colis à Office de l R.T.O. & venu
   justification: aucun trait d'apostrophe entre le l et le R, l'intervalle est vierge (zoom [.55 .50 1 .56] ×2)
+collation_2026_11:
+- ligne: 1
+  avant: \sl{25 L}
+  apres: \sl{25 L.}
+  justification: point après « L » dans le soulignement
+- ligne: 8
+  avant: Lt Ford
+  apres: L^{t} Ford
+  justification: t suscrit à « L^{t} »
+- ligne: 13
+  avant: de l R.T.O.
+  apres: de l'R.T.O.
+  justification: apostrophe tracée après « l »
+- ligne: 14
+  avant: village déjeuné.
+  apres: village, dejeuner.
+  justification: virgule après « village » et infinitif « dejeuner » sans accent
+- ligne: 15
+  avant: compartimt
+  apres: compartim^{t}
+  justification: t final suscrit

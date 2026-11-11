@@ -157,3 +157,36 @@ audit:
   apres: \ind Enfin, matinée \del{et partie} soirée
   justification: |
     entre « Enfin » et « matinée », trait vertical isolé partant de la hauteur d'œil et descendant sous la ligne de base (zoom ×3 [.30 .04 .45 .11]) ; ni point d'i (aucun i proche à gauche) ni lettre : virgule de la main (trait vertical long)
+collation_2026_11:
+- ligne: 4
+  avant: agreable de marcher
+  apres: agréable de marcher
+  justification: Au zoom [0.01 0.08 0.45 0.23], un accent aigu net, entièrement détaché, est posé au-dessus de la jonction « e-a » de « agréable », à gauche de la hampe descendante du « f » de « fine » (l. 3).
+- ligne: 5
+  avant: \inc{lgt} arrosées —
+  apres: \inc{lgt} arrosées –
+  justification: Au zoom [0.01 0.08 0.45 0.23], le tiret après « arrosées » est très court (largeur d'un demi-« e » environ, trois à quatre fois plus court que les tirets longs « — » des l. 3, 8 et 20).
+- ligne: 6
+  avant: \ind Après-midi venu promener à
+  apres: \ind Après-midi, venu promener à
+  justification: Au zoom [0.25 0.20 1.00 0.41], une virgule verticale nette est tracée entre « Après-midi » et « venu », au-dessus de l'espace séparant « village » et « de » à la l. 7 (même ductus que la virgule de « Enfin, » à la l. 2).
+- ligne: 7
+  avant: s/ la Lys
+  apres: s/ la Lys \trait
+  justification: Au zoom [0.25 0.20 1.00 0.41], le délié final du « s » de « Lys » se prolonge en un long trait horizontal de remplissage tiré jusqu'au bord droit du feuillet (comme « 50 c \trait » à la l. 20).
+- ligne: 8
+  avant: Ne pas dépassé pont
+  apres: Ne pas depassé pont
+  justification: Au zoom [0.25 0.20 1.00 0.41], aucun accent ne figure au-dessus du premier « e » de « depassé » (seul le « é » final porte un accent en crochet ; les traits visibles plus à droite au-dessus de « -pas- » appartiennent à la surcharge au crayon « Sailly » et à la barre de « s/ » de la l. 7).
+- ligne: 9
+  avant: Remarqué église
+  apres: Remarqué eglise
+  justification: Au zoom [0.25 0.20 1.00 0.41], le papier au-dessus du « e » initial de « eglise » est entièrement vierge (comme « eglise » au cliché 013, l. 10).
+- ligne: 9
+  avant: brulée par
+  apres: brûlée par
+  justification: Au zoom [0.25 0.20 1.00 0.41], un accent circonflexe en arc aplati surplombe directement les deux jambages du « u » de « brûlée » (aucun jambage descendant ne provient de « Ne pas » à la l. 8 au-dessus).
+- ligne: 12
+  avant: de la rivière
+  apres: de la rivière.
+  justification: Au zoom [0.05 0.43 0.65 0.68], un point rond d'encre noire très net est posé sur la ligne de base à droite de « rivière ».

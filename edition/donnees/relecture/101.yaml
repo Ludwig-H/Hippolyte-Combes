@@ -172,3 +172,32 @@ audit:
   avant: contre lui. –
   apres: contre lui –
   justification: 'zoom ×2 [0 .95 .4 1.0] : après le i (point net) seul le tiret ; la boucle entre lui et le tiret est un jambage de la l. 24'
+collation_2026_11:
+- ligne: 7
+  avant: fenêtre chambre ou assis s/ lit à cote
+  apres: fenetre chambre ou assis s/ lit à coté
+  justification: aucun circonflexe sur « fenetre » ; accent aigu sur « coté »
+- ligne: 9
+  avant: lavant
+  apres: l'avant
+  justification: apostrophe tracée dans « l'avant »
+- ligne: 13
+  avant: \inc{Contay}.
+  apres: Contay.
+  justification: lecture certaine de « Contay. »
+- ligne: 14
+  avant: lattendre
+  apres: l'attendre
+  justification: apostrophe tracée dans « l'attendre »
+- ligne: 18
+  avant: 21 \sl{Ma –} Épais
+  apres: \sl{21 Ma.} epais
+  justification: date entière soulignée avec point ; « epais » minuscule sans accent
+- ligne: 23
+  avant: \inc{Lealvillers}.
+  apres: Léalvillers.
+  justification: lecture certaine de « Léalvillers. » avec accent aigu
+- ligne: 24
+  avant: 'desobligeante de Curtis : fâché'
+  apres: 'désobligeante de Curtis : faché'
+  justification: accent aigu sur « désobligeante » ; aucun circonflexe sur « faché »

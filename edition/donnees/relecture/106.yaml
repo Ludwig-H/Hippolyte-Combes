@@ -199,3 +199,24 @@ audit:
   avant: Lt Walsh & son interprète, invités à diner
   apres: Lt Walsh & un interprète, invités à diner
   justification: zoom ×3 [0 .915 .45 .975] ; après la petite esperluette bouclée, quatre jambages (u + n) sans s initial ni o fermé ; le texte dit « un interprète » (le commentaire historique, qui parle de « son interprète », est à harmoniser)
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Décbre 1916}
+  apres: \sl{Déc^{bre} 1916}
+  justification: « bre » suscrit
+- ligne: 3
+  avant: précédente
+  apres: précédente.
+  justification: point final après « précédente »
+- ligne: 5
+  avant: 8^{h} \fr{1}{2} m. et rentrés seulement a 6^{h} \fr{1}{2} s —
+  apres: 8^{H} \fr{1}{2} m. et rentrés seulement à 6^{H} \fr{1}{2} s —
+  justification: H majuscules suscrits et accent grave sur « à »
+- ligne: 12
+  avant: champs.
+  apres: champs . . .
+  justification: trois points de suspension espacés après « champs »
+- ligne: 18
+  avant: dégelé rapidt et
+  apres: degelé rapid^{t} –
+  justification: premier « e » de « degelé » sans accent, « t » suscrit, suivi d'un tiret court

@@ -185,3 +185,8 @@ audit:
   avant: 2 litres 1/2 de lait
   apres: 2 litres \fr{1}{2} de lait
   justification: 'zoom x4 : la longue haste oblique est le s final de litres ; la fraction est empilée, 1 en haut, petite barre horizontale, 2 en ℓ couché au-dessous de la ligne'
+collation_2026_11:
+- ligne: 8
+  avant: C^{tis} revenu
+  apres: C^{tis}, revenu
+  justification: virgule nettement tracée après « C^{tis} »

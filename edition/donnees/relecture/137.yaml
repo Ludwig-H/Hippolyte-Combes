@@ -180,3 +180,28 @@ audit:
   avant: 'Chapelle archevêché : conférence, pas eu lieu –'
   apres: 'Chapelle archeveché : conférence, pas eu lieu –'
   justification: 'zoom ×2 (.10 .39 .65 .44) : au-dessus du mot, un seul court tiret, décalé à droite de « ché » (accent de la finale) ; rien au-dessus du second e : pas de circonflexe à restituer'
+collation_2026_11:
+- ligne: 1
+  avant: 1^{er} \sl{Jeudi} \hfill \sl{Février 1917} —
+  apres: 1^{er} \sl{Jeudi} \hfill \sl{Février 1917} –
+  justification: Le trait horizontal après « \sl{Février 1917} » est un tiret court « – » (~3 mm), de même calibre court que « pas eu lieu – » (l. 11) et deux fois plus bref que le tiret long « S^{te} Marie — » (l. 12) ; conforme au cl. 138 l. 2 « \sl{Février 1917} – ».
+- ligne: 4
+  avant: matin, longue visite à Mme de Labarthe
+  apres: matin, longue visite à Mme de \add{2} Labarthe
+  justification: Dans l'interligne sous « de » (entre l. 4 et l. 5), Combes a inscrit de la même encre violette un chiffre d'ordre « 2 » souligné d'une petite courbe en coupe « ‿ », faisant pendant au chiffre « 1 » souligné d'un arc inscrit sous « aux » à la l. 5 (« & aux \add{1} dames Delsol ») afin de rétablir après coup l'ordre chronologique des deux visites matinales (1° aux dames Delsol, ses voisines d'immeuble ; 2° à Mme de Labarthe ; même procédé autographe de renumérotation que dans les Feuillets de Route, annexe_lettres.tex l. 324).
+- ligne: 5
+  avant: '& aux dames Delsol, mes voisines'
+  apres: '& aux \add{1} dames Delsol, mes voisines'
+  justification: Dans l'interligne sous « aux » (entre l. 5 et l. 6, au-dessus de « Cap » de « Capitole »), Combes a inscrit un chiffre d'ordre « 1 » souligné d'un petit arc en coupe « ‿ », en corrélation avec le « \add{2} » de la l. 4 pour numéroter la première de ses deux visites du matin.
+- ligne: 7
+  avant: sœur ! Remontés ensemble tram S^{te}-marie.
+  apres: sœur. Remontés ensemble tram S^{te}-marie.
+  justification: 'Faux point d''exclamation : au zoom ×3–×4 (/tmp/hc_bands/z_rem04_137_deep.jpg, panneau A), le trait vertical qui surplombe le point rond de fin de phrase après « sœur » n''est autre que le long jambage descendant rectiligne du « p » de « Capitole » (l. 6), tracé d''un seul jet continu depuis la panse du « p ».'
+- ligne: 13
+  avant: vers 9^{H} \fr{1}{2}, à pied j-à rue de Languedoc —
+  apres: vers 9^{H} \fr{1}{2}, à pied j-à rue de Languedoc
+  justification: 'Aucun tiret détaché ne figure après « Languedoc » jusqu''au bord physique droit du feuillet (panneau C au zoom ×3) : le « c » final s''étire directement sans aucune levée de plume en un délié courbe (guide paléographique § 4 : « délié final ≠ tiret ou \trait »), par opposition nette au tiret détaché de « S^{te} Marie — » juste au-dessus à la l. 12.'
+- ligne: 14
+  avant: \ind Ville silencieuse. Maisons fermées. Je me
+  apres: \ind Ville silencieuse. Maisons \inc{bouclees}. Je me
+  justification: 'Au zoom ×6 (/tmp/hc_bands/z_rem04_137_word_only.jpg et /tmp/hc_bands/z_rem04_137_sombres_comp.jpg), la lecture « fermées » est paléographiquement exclue : 1° l''initiale est une haute boucle ascendante se refermant en panse ronde sur la ligne de base sans aucun jambage inférieur (« b » bouclé identique à ceux de « Labarthe » l. 4, « boulangeon » l. 18 et 20, « beurre » l. 20, alors que tous les « f » de la page — « froid », « fleurs », « famille », « Pfister », « conférence », « Food », « œufs » — plongent longuement sous la ligne) ; 2° suivent « o », « u », « c », puis une haute boucle ascendante de « l » (recoupée à droite par le jambage descendant ouvert du « g » de « Languedoc » l. 13), puis « -ees » sans aucun trait d''accent aigu dans le blanc supérieur. Nous proposons « \inc{bouclees} » (pour « bouclées », c.-à-d. maisons closes pour la nuit), avec entrée d''apparat signalant les lectures alternatives.'

@@ -142,3 +142,32 @@ noms:
     ligne: 5
     identite: Hérissart (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{10 Samedi} — \hfill — \sl{Mars 17} —
+  apres: \sl{10 Samedi} — \hfill — \sl{Mars '17} —
+  justification: 'Devant « 17 », en haut à gauche du chiffre « 1 » (lequel possède déjà son propre délié d''attaque court), Combes a tracé une apostrophe oblique nette « ''17 », identique à l''usage documenté dans annexe_abreviations.tex (l. 43 : « ''17 ») et aux en-têtes des cl. 125, 127 et 140–145.'
+- ligne: 2
+  avant: \ind Avant breakfast terminé ts mes
+  apres: \ind Avant breakfast, terminé ts mes
+  justification: 'Le long trait vertical descendant situé sous la fin de « breakfast » part immédiatement sous la ligne de base de la l. 2 et s''arrête à hauteur d''œil au-dessus du blanc séparant « sanglé » et « valise » (l. 3), bien plus haut que la vraie virgule de « paquets, » (l. 3) : c''est la virgule de « Avant breakfast, » (l. 2), indûment rattachée à la l. 3 lors de la transcription initiale.'
+- ligne: 3
+  avant: paquets, sanglé, valise.
+  apres: paquets, sanglé valise.
+  justification: 'Corollaire de la l. 2 : le trait suspendu dans l''interligne entre « sanglé » et « valise » est la pointe inférieure de la virgule de « breakfast, » (l. 2) ; la ligne de base de la l. 3 est vierge entre le verbe « sanglé » et son complément direct « valise » (tandis que l''accent aigu décalé de « sanglé » est le petit trait oblique haut au-dessus du « v »).'
+- ligne: 8
+  avant: \ind Cap. \inc{monté}, William, partis definit^{t} vers
+  apres: \ind Cap. \inc{Morris}, William, partis definit^{t} vers
+  justification: 'La lecture « monté » est paléographiquement exclue : aucune hampe verticale de « t » ne s''élève sous le trait horizontal supérieur (contrairement à « partis » et « definit^{t} » sur la même ligne). La comparaison directe avec « Morris » au cl. 122 l. 7 (/tmp/hc_bands/z_rem07_cmp_122_morris.jpg) montre le même « M » majuscule à long délié d''attaque montant de gauche, suivi d''une suite de minimes sans hampe (« o-r-r-i-s ») que surmonte le gros point-tiret horizontal du « i » décalé sur « -is » (cf. aussi cl. 162 l. 16 « Cap & son ami »). Le maintien de \inc{Morris} s''impose par prudence éditoriale ; adapter l''apparat, la note historique et l''index (entrée « morris »).'
+- ligne: 9
+  avant: 10^{H} matin. Dès lors, suis sans fonctions, archi-
+  apres: 10^{H} matin. Dès lors, suis sans fonctions, entier^{t}
+  justification: 'La confrontation côte à côte avec le cl. 163 l. 4 (« matinée, entier^{t} libre. », /tmp/hc_bands/z_rem07_cmp_163_entiert.jpg) est décisive : initiale en petite boucle d''« e » (et non panse fermée d''« a »), deux jambages d''« n » (et non « r-c »), hampe droite non bouclée de « t » (et non « h » bouclé), puis « i-e-r » surmonté du tiret ondulé du point de « i » et suivi d''un « ^{t} » suscrit barré (dont la traverse croise le « s » plongeant de « vers » l. 8 et avait été prise pour un trait d''union de coupure « archi- » avant « libre » l. 10). Mettre également à jour la citation « sans fonctions, archi-libre » dans edition/textes/chapitres/VII.tex (l. 12).'
+- ligne: 18
+  avant: matinée, tt penché melancolie
+  apres: matinée, tt pénetré melancolie
+  justification: 'Même tour syntaxique sans préposition que la veille au soir (cl. 164 l. 22 : « tt penétré tristesse », /tmp/hc_bands/z_rem07_cmp_164_penetre.jpg) : après « p-e-n » (surmonté d''un accent aigu décalé sur le premier jambage de « n », cf. « pénetrant » cl. 125 l. 18) viennent un « e », une haute haste droite non bouclée de « t » (sans aucune boucle de « h », contrairement à « chambre » l. 12), puis « r-e » et un trait horizontal combinant barre du « t » et accent final à droite. Supprimer ou adapter l''entrée d''apparat « penché » à la l. 18.'
+- ligne: 19
+  avant: Mais ce soir, pris \add{mon} parti – et résigné
+  apres: mais ce soir, pris \add{mon} parti – et resigné
+  justification: 'Deux rectifications diplomatiques : 1° l''initiale de « mais » présente le module bas à trois jambages liés des minuscules (identique à « matinée » l. 18 et « mon » l. 20, sans attaque haute de majuscule contrairement à « Mars » l. 1 et « Malgré » l. 6) ; 2° aucun accent aigu ne figure sur le premier « e » de « resigné » (espace blanc vierge au-dessus de « r-e-s », les deux petits points au-dessus de « -si- » provenant du point dédoublé du « i », tandis que le « é » final porte seul un fort accent aigu à droite).'

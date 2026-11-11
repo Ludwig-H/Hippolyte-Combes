@@ -18,7 +18,7 @@ transcription: |
   Perspective réintégration prochaine ds
   régiment d'origine ! —
   \crochet{2}\ind[2] A Curtis, pour ma part de
-  dépenses du mess à Acheux : 70
+  dépenses du mess à Acheux : 70^{f}
   \ind[2] (novembre) Tin of black
   \ind[2] (Nugget) boot polish : 30c
   \sl{2 Samedi}
@@ -27,7 +27,7 @@ transcription: |
   \ind Tout le jour, resté à Acheux \trait
   Vers \inc{1}^{h} après-midi, Cap. Williams, arrivé \add{tout} \inc{Mess} \add{\inc{large}}
   Il vient remplacer Lt Curtis. Etonnement profond
-  Curtis, à Martinsart. A son retour, (tant
+  Curtis, à Martinsart. A son retour, (tout
   \ind surpris : visib^{t} découragé — que faire)
   \ind Soir, venu au bureau mission y
   \ind[2] vu Cap. H.
@@ -52,10 +52,6 @@ apparat:
   lemme: XIII^{e}
   type: abreviation
   note: treizième (XIII\textsuperscript{e} corps britannique)
-- ligne: 14
-  lemme: '70'
-  type: lecture
-  note: somme sans unité
 - ligne: 15
   lemme: Tin of black
   type: emprunt

@@ -5,18 +5,18 @@ mois: Février 1917
 lieux: Corbeil-Essonnes (Essonne) ; Paris
 titre: Arrivée à Paris par le gel ; métro jusqu'à la gare du Nord ; train de nuit
 transcription: |
-  \sl{mardi 6} (suite) \hfill \sl{Fev. '17}
+  \sl{mardi 6} (suite) \hfill \sl{Févr. '17}
   A mesure que ns remontons vers Paris bp
   moins de neige. Sol durci par fortes gelees.
   Après-midi, soleil brillé un peu. Rayons de +
   en + faibles.
   Nuit s'annonce très froide
-  Corbeil-Essonne, 5^{H} 50 s. L'obscurite va
+  Corbeil-Essonne, 5^{H} 50 s. L'obscurité va
   augmentant très vite
   A Paris, vers 6^{H} 30 s. –
   Pris metro gare Lyon, changé à Bastille,
   et arrivé gare nord assez à temps pour
-  prendre train 7^{H} 19. 2\inc{e} cl., un \inc{tas de}
+  prendre train 7^{H} 19. En 1^{e} cl., av bp de
   soldats, fort curieux à observer & \inc{à}
   ecouter.
   Roulé toute la nuit
@@ -24,17 +24,13 @@ transcription: |
   — Brioude, buffet, varia : 60c
 apparat:
 - ligne: 12
-  lemme: 2\inc{e}
-  type: lecture
-  note: lecture incertaine ; la boucle au-dessus est la queue du z d'« assez »
+  lemme: 1^{e} cl.
+  type: abreviation
+  note: première classe
 - ligne: 12
   lemme: cl.
   type: abreviation
   note: classe
-- ligne: 12
-  lemme: \inc{tas de}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : type de'
 - ligne: 13
   lemme: \inc{à}
   type: lecture

@@ -3,15 +3,15 @@ fichier: 20251126_103816.jpg
 date: Vendredi 6 octobre 1916
 mois: Octobre 1916
 lieux: Barlette (Ribeaucourt) et Bernaville (Somme)
-titre: Compagnie à Barlette ; permission visée à Bernaville ; logement chez l'habitant
+titre: Compagnie à Barlette ; titre de permission remis à Bernaville ; logement chez l'habitant
 transcription: |
   \sl{Ven. 6} \hfill \sl{oct^{bre} /16}
   Ma Coy, cantonnée au hameau
   de Barlette, près de Ribeaucourt
   qq maisons. Population, très symphe
-  Région très boisée, extt pittoresque \trait
+  Région très boisée, ext^{t} pittoresque \trait
   Après lunch, venu sur 1 lorry
-  à Bernaville et \inc{visé} mon titre de
+  à Bernaville et remis mon titre de
   permission au bureau de la Mission Fse
   \blanc{1}
   Bientot trouvé 1 billet = gde
@@ -31,10 +31,6 @@ apparat:
   lemme: symphe
   type: abreviation
   note: sympathique
-- ligne: 7
-  lemme: \inc{visé}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : visa'
 - ligne: 8
   lemme: Fse
   type: abreviation

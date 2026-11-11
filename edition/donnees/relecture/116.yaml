@@ -168,3 +168,28 @@ noms:
     ligne: 20
     identite: Louvencourt (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: coté d'Hebuterne
+  apres: côté d'Hébuterne
+  justification: circonflexe sur « côté » et aigu sur « Hébuterne »
+- ligne: 7
+  avant: venu a pied à Lealvillers,
+  apres: venu à pied à Léalvillers,
+  justification: grave sur « à » et aigu sur « Léalvillers »
+- ligne: 8
+  avant: retour a pied. Promenade, hygiénique
+  apres: retour à pied. Promenade, hygienique
+  justification: grave sur « à » ; aucun aigu sur « hygienique »
+- ligne: 14
+  avant: \inc{Imbert}
+  apres: Imbert
+  justification: lecture certaine de « Imbert »
+- ligne: 22
+  avant: entiere
+  apres: entière
+  justification: accent grave tracé sur « entière »
+- ligne: 24
+  avant: fenetres
+  apres: fenêtres
+  justification: accent circonflexe tracé sur « fenêtres »

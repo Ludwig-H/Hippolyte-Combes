@@ -131,3 +131,8 @@ noms:
     ligne: 7
     identite: Gézaincourt (Somme), gare près de Doullens
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: Froid penetrant — gelé très dur
+  apres: Froid penetrant gelé très dur
+  justification: 'Aucun tiret autonome ne figure entre « penetrant » et « gelé » : au zoom ×4, le trait horizontal n''est que la longue barre du « t » final de « penetrant », qui part d''au-dessus de l''« a », traverse la hampe du « t » d''un seul jet continu sans levée de plume et s''effile à sec vers la droite (fait déjà diagnostiqué dans relecture/129.yaml l. 57 et 92, mais où le « — » avait été laissé par oubli dans la transcription ; même tour sans ponctuation qu''au cl. 127 l. 5–6 « Nuit ext^{t} froide gelé très / fort »).'

@@ -9,7 +9,7 @@ transcription: |
   \ind Tt jour, pluie \inc{pr} intermitt^{ce}. Rues & routes,
   état lamentable, transformées en cloaque.
   On patauge boue j. à la cheville
-  \ind Monin, \inc{arrivé} village av sa Coy pr cantonner
+  \ind Monin, arrivé village av sa Coy pr cantonner
   une nuit. L'ai revu avec gd plaisir. Passé ensemble
   plus. heures, après-midi. L'ai trouvé vieilli, enlaidi, \inc{usé}.
   \blanc{2}
@@ -17,9 +17,9 @@ transcription: |
   \ind[2] Giboulées. Tour à tour averses et chutes
   abondantes de neige. Fin après-midi,
   gros flocons durant 1 h
-  \ind matinée course à pied à Rubempré
+  \ind matinée, course à pied à Rubempré
   après-midi, venus à Puchevillers. Routes détrempées
-  affrt boueuses \trait
+  affr^{t} boueuses \trait
   \ind Troupes quitté village à l'aube. Tout le jour,
   restés \add{presq} sans troupes. Village, redevenu très calme. —
   \blanc{1}
@@ -38,10 +38,6 @@ apparat:
   lemme: intermitt^{ce}
   type: abreviation
   note: 'intermittence ; finale suscrite lue ce ; autre lecture : te'
-- ligne: 5
-  lemme: \inc{arrivé}
-  type: lecture
-  note: 'lecture incertaine ; autres lectures : passé, traversé'
 - ligne: 7
   lemme: plus.
   type: abreviation
@@ -51,7 +47,7 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : us.'
 - ligne: 14
-  lemme: affrt
+  lemme: affr^{t}
   type: abreviation
   note: affreusement
 - ligne: 16

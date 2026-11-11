@@ -170,3 +170,16 @@ noms:
     ligne: 17
     identite: Beauquesne (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Dec^{bre} 1916}
+  apres: \sl{Déc^{bre} 1916}
+  justification: accent aigu tracé sur « Déc^{bre} »
+- ligne: 9
+  avant: XIIIe C.
+  apres: XIII^{e} C.,
+  justification: « e » suscrit et virgule après « C. »
+- ligne: 15
+  avant: \inc{jetté}
+  apres: jeté
+  justification: lecture certaine de « jeté » avec un seul « t »

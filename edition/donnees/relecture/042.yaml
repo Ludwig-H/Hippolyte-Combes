@@ -157,3 +157,20 @@ noms:
     ligne: 17
     identite: château de Raincheval (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: \ind Après exc^{te} nuit, les fatigues oubliées.
+  apres: \ind Après exc^{te} nuit, les fatigues oubliees.
+  justification: 'Aucun accent aigu n''est tracé au-dessus de « oubliees » : le papier est entièrement vierge au-dessus de « i-e-e-s », à droite du trait de soulignement de « /16 » qui s''arrête sur la hampe du « l » (reliquat de normalisation ; vérifié au zoom ×5 dans /tmp/hc_bands/z_rem01_check2.jpg).'
+- ligne: 7
+  avant: Dès le soir membre du mess des offs à
+  apres: Dès le soir, membre du mess des offs à
+  justification: Virgule verticale nette et isolée sur la ligne de base entre « soir » et « membre », sans aucun jambage descendant de « insistance » (l. 6) ni hampe montante de « definitif » (l. 8) (vérifié au zoom ×4 dans /tmp/hc_bands/z_rem01_final_checks.jpg).
+- ligne: 15
+  avant: \sl{13 Me} \hfill Temps couvert après-midi,
+  apres: 13 \sl{Me} \hfill Temps couvert après-midi,
+  justification: 'Le trait de soulignement oblique commence sous le pied gauche du « M » de « Me » et ne couvre pas le quantième « 13 » (même disposition que « 14 \sl{J.} » cl. 043 l. 1, « 15 \sl{Ve} » cl. 043 l. 12 et « 22 \sl{Ve} » cl. 047 l. 1 ; guide § 3 : ne souligner que ce que le trait couvre).'
+- ligne: 17
+  avant: A g. du chateau, foret magnifique
+  apres: A g. du chateau, forêt magnifique
+  justification: 'Au zoom ×4 (/tmp/hc_bands/z_rem01_final_checks.jpg), deux traits supérieurs entièrement distincts figurent sur « forêt » : 1° un accent circonflexe incurvé à crochet au-dessus du « r » (détaché de la boucle de tête du « f » à gauche comme de la hampe du « t » à droite), 2° la barre horizontale propre du « t » qui coupe sa hampe vers la droite.'

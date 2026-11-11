@@ -113,3 +113,8 @@ noms:
     identite: lieutenant (Lt Pizzi, 048–092)
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 17
+  avant: fondrière.
+  apres: fondrière,
+  justification: virgule finale après « fondrière », non point

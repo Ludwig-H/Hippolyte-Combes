@@ -181,3 +181,24 @@ noms:
     ligne: 19
     identite: Raincheval (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{13 Sam.}
+  apres: 13 \sl{Sam.}
+  justification: soulignement sous « Sam. » seul
+- ligne: 7
+  avant: definit
+  apres: définit^{t}
+  justification: accent aigu sur « définit^{t} » et second « t » suscrit
+- ligne: 8
+  avant: tombé
+  apres: tombée
+  justification: accord féminin « tombée » tracé
+- ligne: 10
+  avant: leger
+  apres: léger
+  justification: accent aigu tracé sur « léger »
+- ligne: 22
+  avant: — Lunch 1^{f}90
+  apres: '— Lunch : 1^{f} 50'
+  justification: deux-points après « Lunch » et chiffre « 50 » (à tête plate de 5), non « 90 »

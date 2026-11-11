@@ -197,3 +197,24 @@ noms:
     ligne: 16
     identite: Puchevillers (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: \ind Matin, courses a Mirvaux & Pierregot
+  apres: \ind Matin, courses à Mirvaux & Pierregot
+  justification: Au micro-zoom ×6, un accent grave oblique appuyé flotte librement dans l'interligne sous « ou » de « trouvé » (l. 3, lettres dépourvues de tout jambage descendant, avec un net intervalle de papier blanc au-dessus comme au-dessous), décalé d'une lettre vers la droite de « a » juste devant l'attaque de « Mirvaux » (exactement le même décalage à droite que dans « à Albert » l. 5 et « à Ribemont » l. 9).
+- ligne: 5
+  avant: Early lunch terminé, venus à Albert, par
+  apres: Early lunch terminé venus à Albert, par
+  justification: 'Au micro-zoom ×6, aucune virgule n''est tracée après « terminé » : la pointe qui remonte sous l''espace entre « terminé » et « venus » est exclusivement le sommet continu de la grande boucle supérieure du « R » majuscule de « Revu » à la l. 6 (tandis que l''accent aigu de « terminé » figure plus haut à droite du « é »).'
+- ligne: 6
+  avant: Contay-Warloy-Senlis. Revu av interet ville
+  apres: Contay-Warloy Senlis. Revu av interet ville
+  justification: 'Alors qu''un tiret horizontal épais et détaché relie « Contay-Warloy », aucun trait d''union n''existe entre « Warloy » et « Senlis » : après la boucle descendante du « y », le fin délié oblique qui monte depuis la ligne de base est l''attaque continue du « S » majuscule cursif de « Senlis » (juxtaposition asyndétique de toponymes analogue à « Raincheval Candas. » au cl. 167 l. 16).'
+- ligne: 12
+  avant: '[Blacksmith d''Herissart : repar à ferrure \inc{sac} : 30 c'
+  apres: '[Blacksmith d''Herissart : répar à ferrure \inc{sac} : 30 c'
+  justification: Sous le grand blanc de deux interlignes (\blanc{2}), un accent aigu oblique net à l'encre violette est tracé directement au-dessus du « e » de « répar » (entre « r » et « p »). Mettre à jour en conséquence le lemme d'apparat de la l. 12 (« repar » → « répar ») ainsi que l'entrée correspondante dans edition/textes/annexe_abreviations.tex (l. 117).
+- ligne: 16
+  avant: apres-midi, promenade à pied à Puchevillers
+  apres: après-midi, promenade à pied à Puchevillers
+  justification: Un accent grave oblique net est tracé juste au-dessus du sommet du « s » de « après-midi » (décalage habituel d'une demi-lettre à droite sur ce mot composé), parfaitement distinct et à gauche de la virgule verticale descendante de « Matinée, » (l. 15) qui tombe au-dessus du « m » de « midi ».

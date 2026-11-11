@@ -176,3 +176,24 @@ audit:
   avant: Lui ai téléphoné du bureau Mission pour lui
   apres: Lui ai telephoné du bureau Mission pour lui
   justification: aucun accent au-dessus des deux premiers e (zoom ×3 [.20 .25 .42 .32]) ; seul le é final porte son accent
+collation_2026_11:
+- ligne: 7
+  avant: Lui ai telephoné du bureau Mission pour lui
+  apres: Lui ai telephoné du bureau mission pour lui
+  justification: 'L''initiale de « mission » à la l. 7 est un « m » minuscule à trois ponts bas de même module que « mot » (l. 6), « mon » (l. 8) et « merc. » (l. 1), contrastant nettement avec le grand « M » majuscule à deux hauts sommets pointus de « Mission » deux lignes plus haut (l. 5) et de « Major » (l. 17) ; la graphie en minuscule « bureau mission » est d''ailleurs constante dans tout le reste du carnet (16 occurrences sur 16 : cl. 10, 43, 90–94, 96, 99, 105).'
+- ligne: 8
+  avant: annoncer mon arrivée
+  apres: annoncer mon arrivée.
+  justification: Un point rond à l'encre violette est nettement posé sur la ligne de base à droite de « arrivée », bien isolé dans le blanc au-dessus du sommet du « t » de « Carlumont » (l. 9).
+- ligne: 10
+  avant: Atterrés.
+  apres: Atterres.
+  justification: Au zoom ×4 incluant tout l'interligne avec la l. 9 (« Rentré chz les »), l'accent aigu de « Rentré » est placé au-dessus du « c » de « chz » et le papier au-dessus de « -rres » de « Atterres. » est entièrement vierge de tout accent.
+- ligne: 10
+  avant: Fait en hâte mes paquets.
+  apres: \del{\ill} Fait en hâte mes paquets.
+  justification: Entre le point de « Atterres. » et le « F » majuscule de « Fait » (dont le pied est indépendant à droite), Combes a tracé une petite lettre initiale avortée (d'aspect « v », peut-être l'amorce de « vite ») aussitôt biffée d'un trait oblique.
+- ligne: 11
+  avant: l'auto, qui arrivée vers \sur{\ill}{4}^{h} \fr{1}{2}
+  apres: l'auto, qui arrivée vers \sur{\ill}{4}^{H} \fr{1}{2}
+  justification: 'La lettre suscrite après « 4 » est formée de deux hastes verticales parallèles reliées par une traverse : « H » majuscule (« ^{H} »), identique aux « 5^{H} », « 8^{H} », « 6^{H} », « 9^{H} » des pages voisines.'

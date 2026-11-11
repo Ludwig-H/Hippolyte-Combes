@@ -112,3 +112,12 @@ audit:
   avant: A 5^{H}, remonté Cote Pavée. Enfin, revu
   apres: A 5^{H}, remonté Cote-Pavée. Enfin, revu
   justification: court trait d'union entre « Cote » et « Pavée » (zoom ×3 [.38 .42 .65 .47]), comme dans « Marie-des-Champs » l. 5 ; ce n'est ni un point (rond chez l'auteur, cf. « Margte. ») ni l'accent de Côte (qui serait au-dessus du o)
+collation_2026_11:
+- ligne: 2
+  avant: nuit passée \inc{ds} \inc{wag^{t}}. Dormi 1 peu
+  apres: nuit passé très rap^{t}. Dormi 1 peu
+  justification: 'lecture certaine : « nuit passé très rap^{t}. » (rapidement)'
+- ligne: 3
+  avant: arrivé a Toulouse
+  apres: arrivé à Toulouse
+  justification: accent grave tracé sur « à »

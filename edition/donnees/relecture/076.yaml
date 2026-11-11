@@ -106,3 +106,16 @@ noms:
     ligne: 3
     identite: Warloy-Baillon (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 10
+  avant: Regiments d'infrie,
+  apres: Régiments d'inf^{rie},
+  justification: accent aigu sur « Régiments » et « rie » suscrit
+- ligne: 12
+  avant: tte
+  apres: ttes
+  justification: pluriel « ttes »
+- ligne: 13
+  avant: sorte
+  apres: sortes
+  justification: pluriel « sortes »

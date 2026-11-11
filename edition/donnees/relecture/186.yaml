@@ -158,3 +158,12 @@ noms:
     ligne: 17
     identite: Hénencourt (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 12
+  avant: Après
+  apres: Apres
+  justification: aucun accent grave sur « Apres »
+- ligne: 15
+  avant: lune superbe
+  apres: Lune superbe
+  justification: L majuscule à « Lune »

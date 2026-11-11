@@ -136,3 +136,20 @@ noms:
     ligne: 11
     identite: Canaples (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: \ind Achevé nuit salle depart
+  apres: \ind Achevé nuit salle départ
+  justification: Long et fin trait oblique d'accent aigu « / » au-dessus de la petite boucle du « e » entre « d » et « p », montant deux fois plus haut que « p » et se terminant librement dans l'interligne.
+- ligne: 6
+  avant: desertes. qq magasins dejà ouverts –
+  apres: désertes. qq magasins dejà ouverts –
+  justification: Trait d'accent aigu appuyé flottant isolément dans le blanc interlinéaire au-dessus de « -es- », séparé par du papier blanc tant du « s » au-dessous que de « Venu » (l. 5) au-dessus (« dejà » est bien sans accent sur « e »).
+- ligne: 13
+  avant: 'informé. – Coincidence heureuse : les'
+  apres: 'informé. – Coïncidence heureuse : les'
+  justification: Deux marques suscrites distinctes côte à côte juste au-dessus de « -oi- » (« Coïn- »), nettement à gauche de « -cid- », formant le tréma sur « ï » (Combes ne décale jamais un point d'« i » vers la gauche).
+- ligne: 15
+  avant: brigade encore là. Monté sur 1
+  apres: brigade, encore là. Monté sur 1
+  justification: Virgule verticale nette posée sur la ligne de base entre « brigade » et « encore », venant toucher par le haut le sommet arrondi de la boucle du « l » de « lorries » (l. 16 ; toutes les autres boucles de « l » de la page ont un sommet rond et lisse sans pointe verticale).

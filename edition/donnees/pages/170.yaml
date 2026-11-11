@@ -3,35 +3,35 @@ fichier: 20251126_111359.jpg
 date: Dimanche 18 – lundi 19 mars 1917
 mois: Mars 1917
 lieux: Hérissart, Toutencourt et Puchevillers (Somme)
-titre: Prône à Toutencourt ; marche à Puchevillers ; officiers de la Naval Division
+titre: Prône à Toutencourt ; marche à Puchevillers ; officier et \textit{clerk} de la Naval Division
 transcription: |
   \sl{Dim. 18.} — \hfill — \sl{Mars 1917} —
   \ind Matin, ciel nuageux, temps pluvieux. Après-
   -midi, soleil ardent
   Matinée, venu à pied à Toutencourt,
-  Mission F^{r}. Reposé église du village, ql. mnts
+  Mission F^{r}. Reposé eglise du village, ql. mnts
   & entendu prône vieux curé. —
   Après-midi, accompagné Lt Wentworth
   à Puchevillers, aller & retour à pied, notre
-  auto Tjours aux workshops, en réparation.
+  auto Tjours aux workshops, en reparation.
   Longuement regardé vue panoramique,
-  champs labourés ou ensemencés & \inc{à}
-  l'horizon lointain, légères ondulations de
+  champs labourés ou ensemences & \inc{à}
+  l'horizon lointain, legères ondulations de
   collines —
   \ind Ces courses, matin & soir, m'ont fatigué 1 peu,
   \ind[2] (mais fait grand bien.
-  \crochet{2}A Toutencourt : solde : 82^{f}. —
-  carte ples : 25c. — \hfill Washing : 80c —
+  \crochet{2}A Toutencourt : solde – – : 82^{f}. —
+  carte ples : 25c. — \hfill Washing : 80c \trait
   \filet
   19 Lundi. \hfill Tout le jour, temps couvert. Pluie
   menacé. Gros nuages. — Matinée, entier^{t} libre
-  \ind Après-midi, venu à pied avec off. à Puchevillers
-  Suivi même route qu'à l'ord^{re}, à travers champs
+  \ind Après-midi, venu à pied avec off^{r} à Puchevillers
+  Suivi même route qu'à l'ord^{re}, a travers champs
   et sentiers. —
   \ind Dû laisser occuper 1 des 2 lits par off. 63^{rd} div.,
   naval div., de passage. Son rég^{t} revient des
-  tranchées, Miraumont, Achiet-le-P^{t}. Fait parler ces
-  2 offs, qui m'ont donné renseigts très intéressants
+  tranchées, Miraumont, Achiet-le-P^{t}. Fait parler clerk
+  & off.^{r}, qui m'ont donné renseigts très intéressants
 apparat:
 - ligne: 5
   lemme: F^{r}.
@@ -49,6 +49,10 @@ apparat:
   lemme: entier^{t}
   type: abreviation
   note: entièrement
+- ligne: 20
+  lemme: off^{r}
+  type: abreviation
+  note: officier
 - ligne: 21
   lemme: l'ord^{re}
   type: abreviation
@@ -69,12 +73,20 @@ apparat:
   lemme: Achiet-le-P^{t}.
   type: abreviation
   note: Achiet-le-Petit
+- ligne: 25
+  lemme: clerk
+  type: emprunt
+  note: commis, secrétaire militaire
+- ligne: 26
+  lemme: off.^{r}
+  type: abreviation
+  note: officier
 - ligne: 26
   lemme: renseigts
   type: abreviation
   note: renseignements
 historique: |
-  Le 18~mars est un jour de paie de la Mission française de la Fifth Army, à Toutencourt avec le QG de Gough jusqu'au 28~mars (voir f.~75~r\textsuperscript{o} ; LLT) ; l'écart des 82~F avec les 78,75~F d'une quinzaine à 5,25~F reste inexpliqué. Le « Lt Wentworth » est peut-être l'officier australien arrivé le 6~mars (voir f.~81~v\textsuperscript{o}) ; ce pourrait être Henry Coates Wentworth, du train de la 2\textsuperscript{nd} Australian Division (AIF Project). Les officiers de la 63\textsuperscript{rd} (Royal Naval) Division sont sans doute de ceux qui gagnent alors l'Artois : la division, qui avait occupé Miraumont le 25~février, est relevée au début de mars ; le 18~mars, elle regagne Hédauville et fait de là sa première étape vers le château de Contay, à 5~km d'Hérissart (Jerrold 1923, p.~220--221).
+  Le 18~mars est un jour de paie de la Mission française de la Fifth Army, à Toutencourt avec le QG de Gough jusqu'au 28~mars (voir f.~75~r\textsuperscript{o} ; LLT) ; l'écart des 82~F avec les 78,75~F d'une quinzaine à 5,25~F reste inexpliqué. Le « Lt Wentworth » est peut-être l'officier australien arrivé le 6~mars (voir f.~81~v\textsuperscript{o}) ; ce pourrait être Henry Coates Wentworth, du train de la 2\textsuperscript{nd} Australian Division (AIF Project). L'officier et le \textit{clerk} de la 63\textsuperscript{rd} (Royal Naval) Division sont sans doute de ceux qui gagnent alors l'Artois : la division, qui avait occupé Miraumont le 25~février, est relevée au début de mars ; le 18~mars, elle regagne Hédauville et fait de là sa première étape vers le château de Contay, à 5~km d'Hérissart (Jerrold 1923, p.~220--221).
 sources:
 - Jerrold, D., The Royal Naval Division, Londres, Hutchinson, 1923, p. 220-221.
 - The Long, Long Trail (C. Baker), « The British Fifth or Reserve Army 1916-1918 », copie Wayback du 23 juill. 2024.

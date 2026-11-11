@@ -130,3 +130,24 @@ noms:
     ligne: 10
     identite: château de Raincheval (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Sept^{re} 1916}
+  apres: \sl{Sept^{bre} 1916}
+  justification: « bre » suscrit avec boucle du b nette
+- ligne: 2
+  avant: lattente
+  apres: l'attente
+  justification: apostrophe tracée dans « l'attente »
+- ligne: 6
+  avant: brulant
+  apres: brûlant
+  justification: accent circonflexe tracé sur « brûlant »
+- ligne: 8
+  avant: à coté
+  apres: à côté
+  justification: accent circonflexe tracé sur « côté »
+- ligne: 12
+  avant: enormes
+  apres: énormes
+  justification: accent aigu tracé sur l'initiale de « énormes »

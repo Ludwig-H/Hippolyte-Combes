@@ -116,3 +116,8 @@ noms:
     ligne: 6
     identite: Aveluy (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: la long rues
+  apres: le long rues
+  justification: « le » écrit avec petite boucle d'e, non « la »

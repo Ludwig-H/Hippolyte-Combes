@@ -143,3 +143,16 @@ audit:
   avant: énorme & bête
   apres: enorme & bête
   justification: 'zoom ×2 [.62 .49 .92 .55] : e initial bouclé sans aucun accent, ni au-dessus de l''e ni décalé sur le n ; accent absent transcrit tel quel'
+collation_2026_11:
+- ligne: 3
+  avant: devasté
+  apres: dévasté,
+  justification: accent aigu sur « dévasté » suivi d'une virgule
+- ligne: 13
+  avant: enorme
+  apres: énorme
+  justification: accent aigu tracé sur « énorme »
+- ligne: 20
+  avant: temperature.
+  apres: température.
+  justification: accent aigu tracé sur « température »

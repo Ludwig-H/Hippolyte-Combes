@@ -185,3 +185,12 @@ audit:
   avant: \ind Matin, très épais brouillard
   apres: \ind Matin, très epais brouillard
   justification: zoom ×2 [0 .45 .7 .51] ; aucun accent au-dessus de e-p ; le seul point, au-dessus de a-i, est celui de l'i
+collation_2026_11:
+- ligne: 5
+  avant: Chateau,
+  apres: Château,
+  justification: accent circonflexe tracé sur « Château »
+- ligne: 10
+  avant: eclairs
+  apres: éclairs
+  justification: accent aigu tracé sur « éclairs »

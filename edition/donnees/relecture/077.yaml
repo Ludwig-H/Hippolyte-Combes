@@ -85,3 +85,8 @@ noms:
     ligne: 2
     identite: Hédauville (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 7
+  avant: penetrant
+  apres: pénétrant
+  justification: deux accents aigus tracés sur « pénétrant »

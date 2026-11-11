@@ -6,11 +6,11 @@ lieux: Acheux-en-Amiénois, Gézaincourt, Amiens et Longueau (Somme)
 titre: 'En permission : Gézaincourt, Amiens ; avions allemands sur Longueau'
 transcription: |
   \sl{25 Lundi.} (Suite) \hfill \sl{Sept /16}
-  au ciel bleu, qq nuages, nettement détachés.
+  au ciel bleu, qq saucisses, nettement detachées.
   Enfin, vers 3^{H} 1/, départ
   Doucement bercé par mouvement train. Et caresse
-  brise légère
-  Verdures étincelantes de lumière. Bois ensoleillés.
+  brise legère
+  Verdures etincelantes de lumière. Bois ensoleillés.
   A Gzaincourt, vers 4^{H}\fr{1}{2}, changé train.
   Reparti à 5^{H} ds train venant de Doullens
   A Amiens, vers 8^{H} s
@@ -19,12 +19,16 @@ transcription: |
   Roulé tte nuit
   Après avoir quitté Amiens, et au croisement
   de Longueau, survolé par des Taubes qui
-  jeté bombes obus ds les airs. Ciel fouillé.
+  jeté bombes obus ds les airs. Ciel fouillé
   par les projecteurs. Très beau spectacle
   \blanc{4}
   Pas descendu à Creil (en route)
   Voyagé tte la nuit \trait
 apparat:
+- ligne: 2
+  lemme: saucisses
+  type: autre
+  note: ballons captifs d'observation
 - ligne: 3
   lemme: 3^{H} 1/
   type: abreviation

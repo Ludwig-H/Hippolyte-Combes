@@ -189,3 +189,32 @@ audit:
   avant: autrefois, gare
   apres: autrefoi, gare
   justification: le mot finit sur l'i pointé ; le seul trait suivant est un petit crochet détaché, collé au g de « gare », de même forme que les virgules après « sœurs » et « attendant » ; c'est une virgule, aucun s n'est écrit
+collation_2026_11:
+- ligne: 1
+  avant: Sam \sl{– 27}
+  apres: \sl{Sam. 27}
+  justification: « Sam. 27 » entièrement souligné avec point après « Sam »
+- ligne: 4
+  avant: Enregt 2 colis, 2f 40
+  apres: Enreg^{t} 2 colis, 2^{f} 40
+  justification: « t » et « f » suscrits
+- ligne: 5
+  avant: = 1 75c
+  apres: = 1^{f} 75c
+  justification: « f » suscrit tracé après « 1 »
+- ligne: 15
+  avant: \inc{sœurs}, m attendant, cme autrefoi,
+  apres: sœurs, m'attendant, cme autrefois,
+  justification: 'lectures certaines : « sœurs », apostrophe de « m''attendant » et -s de « autrefois »'
+- ligne: 18
+  avant: appartt,
+  apres: appart^{t},
+  justification: second « t » suscrit
+- ligne: 21
+  avant: a midi, enfin, à Ste-Marie
+  apres: à midi, enfin, à S^{te}-Marie
+  justification: grave sur « à » et « te » suscrit
+- ligne: 22
+  avant: musee
+  apres: musée
+  justification: accent aigu tracé sur « musée »

@@ -5,14 +5,14 @@ mois: Février 1917
 lieux: Saint-Flour (Cantal) ; Brioude (Haute-Loire) ; Clermont-Ferrand (Puy-de-Dôme)
 titre: Nuit glaciale en gare de Saint-Flour ; Brioude, puis express P.L.M. vers Paris
 transcription: |
-  \sl{– Mardi 6.} \hfill \sl{Fevrier 1917}
+  \sl{– Mardi 6.} \hfill \sl{Février 1917}
   Nuit extt froide Temps très dur.
   D'abord salle d'attente, allongé banquette, puis
   compartiment 1^{ère} cl. train sur voie. Pieds gelés.
   \blanc{1}
-  Partis enfin 5^{h}20. 15 m. de retard. \inc{En} 2^{e} cl.
-  voyagé av qq permissre et dames.
-  Champs couverte neige
+  Partis enfin 5^{H}20. 15 m. de retard. En 2^{e} cl.
+  voyagé av qq permiss^{res} et dames.
+  Champs couverts neige
   A 7^{H} 30, à Brioude. Corresp^{ce}, gd retard.
   Voies, épaisse couche de neige
   quitté Brioude à 8^{H} 30. enfin dans un
@@ -35,15 +35,11 @@ apparat:
   type: abreviation
   note: 15 minutes
 - ligne: 5
-  lemme: \inc{En}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : à'
-- ligne: 5
   lemme: 2^{e} cl.
   type: abreviation
   note: deuxième classe
 - ligne: 6
-  lemme: permissre
+  lemme: permiss^{res}
   type: abreviation
   note: permissionnaires
 - ligne: 8

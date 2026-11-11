@@ -167,3 +167,24 @@ audit:
   avant: '\equerre{1}– Essui\inc{e-mains} : 90c —'
   apres: 'Essui\inc{e-mains} : 90c —'
   justification: 'zoom x4 : le prétendu signe d''ouverture et le tiret forment la majuscule E anguleuse de Essui (barre de tête, haste, barre médiane attachée à la haste, pied coupé au bord) ; suivent ss en croix, u, i pointé ; sans cet E, le mot n''aurait pas d''initiale ; aucune équerre ni tiret distincts'
+collation_2026_11:
+- ligne: 2
+  avant: Mieux, très sensible. Nuit, levé 2 fois. Mais
+  apres: Mieux, très sensible. Nuit, levé 2 fois. mais
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_110_a.jpg), l'initiale de « mais » est un « m » minuscule à trois ponts bas réguliers à hauteur d'œil sans grand délié d'attaque (identique à « ma » l. 5, « mairie », « meeting » l. 10 et « major » l. 11, par opposition aux majuscules hautes et pointues « Mardi » l. 1, « Mieux » l. 2, « Matinée » l. 7 et « Matin » l. 10).
+- ligne: 5
+  avant: de neige. Resté lgs à ma fenêtre, s/ devant
+  apres: de neige Resté lgs à ma fenetre, s/ devant
+  justification: 'Deux rectifications vérifiées au zoom ×4 (/tmp/hc_bands/z_rem03_110_a.jpg) : 1° après « neige », le « e » s''achève par un délié continu recourbé sans levée de plume ni point détaché (guide § 4 : délié final ≠ ponctuation ; comparer les points ronds francs de « fois. » l. 2, « Senlis. » l. 7, « guéri. » l. 8, « affaires. » l. 16) ; 2° aucun accent circonflexe ne figure sur « fenetre » (papier blanc au-dessus de « n-e » sous « & » de la l. 4 ; seule la barre horizontale du « t » couvre « t-r-e »).'
+- ligne: 14
+  avant: \sl{14 J.} Journée entière de liberte. Rest^{e}
+  apres: \sl{14 J.} Journée entière de liberte Rest^{e}
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_110_b.jpg), le « e » final de « liberte » se prolonge d'un seul trait en délié incurvé terminé en petite massue, sans aucune levée de plume ni point séparé (comparer le point net de « 14 J. » en tête de ligne et celui placé sous « liberté. » à la l. 7 ; même correction que sur « Martinsart » cl. 117 l. 6).
+- ligne: 17
+  avant: \ind Tt le jour, ciel brumeux et pluie fine.
+  apres: \ind Tt le jour, ciel brumeux et pluie fine
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_110_b.jpg), le « e » final de « fine » s'étire en un long délié souple remontant en crochet continu, sans aucun point détaché (à la différence des points ronds nets de « affaires. » l. 16, « froide. » l. 18, « feu. » l. 19 et « noire. » l. 20).
+- ligne: 18
+  avant: Temperature, pas froide. Pu ecrire ds ma
+  apres: Température, pas froide. Pu ecrire ds ma
+  justification: Au zoom ×4 (/tmp/hc_bands/z_rem03_110_b.jpg), un accent aigu oblique net et appuyé surmonte directement le « e » entre « p » et « r » dans « Température » (dans le blanc situé avant le retrait de « Tt » l. 17, bien à gauche du jambage du « j » de « jour » qui descend sur « a-t »). Accent réel supprimé à tort lors de la relecture (« ecrire » est en revanche bien sans accent).

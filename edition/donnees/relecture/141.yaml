@@ -155,3 +155,36 @@ noms:
     identite: Marguerite Calmels
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Fevr '17}
+  apres: \sl{Févr. '17}
+  justification: accent aigu et point abréviatif tracés sur « Févr. »
+- ligne: 2
+  avant: 11^{h} 1/4
+  apres: 11^{H} \fr{1}{4}
+  justification: H majuscule suscrit et fraction
+- ligne: 11
+  avant: l'emotion,
+  apres: l'émotion,
+  justification: accent aigu tracé sur « l'émotion »
+- ligne: 12
+  avant: sanglote
+  apres: sangloté
+  justification: accent aigu tracé sur « sangloté »
+- ligne: 17
+  avant: 7^{h}.
+  apres: 7^{H}.
+  justification: H majuscule suscrit
+- ligne: 19
+  avant: Dejeuné av Margte
+  apres: Déjeuné av Marg^{te}
+  justification: accent aigu sur « Déjeuné » et « te » suscrit
+- ligne: 20
+  avant: 11^{h}
+  apres: 11^{H}
+  justification: H majuscule suscrit
+- ligne: 21
+  avant: la messe.
+  apres: la messe,
+  justification: virgule après « messe »

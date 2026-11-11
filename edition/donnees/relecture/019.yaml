@@ -149,3 +149,8 @@ audit:
   avant: zebrer l'air
   apres: zebrer l air
   justification: zoom ×3 ; l bouclé séparé de air par un blanc, sans apostrophe
+collation_2026_11:
+- ligne: 15
+  avant: ecouter la pluie crepiter
+  apres: ecouter la pluie crépiter
+  justification: À l'ultra-zoom [0.56 0.65 0.88 0.77], un accent aigu arqué très net est tracé juste au-dessus de la jonction « e-p » de « crépiter », à gauche et bien distinct du sommet de la hampe montante du « p » (laquelle est suivie à droite par le point du « i »), sous le « o » sans hampe descendante de « obliques » (l. 14). Accent réel supprimé à tort lors de la relecture.

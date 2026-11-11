@@ -155,3 +155,12 @@ noms:
     ligne: 16
     identite: la Côte Pavée, quartier de Toulouse
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: Matinée, cme \inc{tjs} resté appartt & trouvé
+  apres: Matinée, cme \inc{tjs} resté appart^{t} & trouvé
+  justification: Le second « t » barré est nettement perché en exposant au-dessus du sommet du premier « t » posé sur la ligne de base, exactement comme dans « appart^{t} » au cl. 058 l. 4 et conformément à ABREVIATIONS.md l. 107 (vérifié dans /tmp/hc_bands/z_rem01_c059.jpg).
+- ligne: 12
+  avant: mère ds mon appartt. Marg^{te}, charmante
+  apres: mère ds mon appart^{t}. Marg^{te}, charmante
+  justification: 'Même finale suscrite nette qu''à la l. 2 : le second « t » barré est tracé à la hauteur d''exposant du « te » de « Marg^{te} » voisin, bien au-dessus de la ligne de base, suivi du point sur la ligne (vérifié dans /tmp/hc_bands/z_rem01_c059.jpg).'

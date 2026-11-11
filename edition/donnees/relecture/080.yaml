@@ -126,3 +126,12 @@ noms:
     ligne: 20
     identite: Albert (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 6
+  avant: detrempé
+  apres: détrempé
+  justification: accent aigu tracé sur « détrempé »
+- ligne: 8
+  avant: depart
+  apres: départ
+  justification: accent aigu tracé sur « départ »

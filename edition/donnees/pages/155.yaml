@@ -5,7 +5,7 @@ mois: Février 1917
 lieux: Hérissart, Toutencourt, Raincheval, Puchevillers et Beaucourt-sur-l'Hallue (Somme)
 titre: Gel puis dégel rapide ; visite au maire d'Hérissart ; paille et foin à Beaucourt
 transcription: |
-  \sl{Jeudi 15} – \hfill Fevrier \sl{1917} –
+  \sl{Jeudi 15} – \hfill \sl{Février 1917} –
   \ind[2] gelé nuit.
   Ds la journée, très beau soleil.
   Matinée, courses à Toutencourt, Raincheval
@@ -14,28 +14,24 @@ transcription: |
   Dans ma chambre, ecrit un peu. Puis
   promené village Grand costume. Vu le
   maire. Population, sympathique
-  nuit ext belle, mervt etoilée.
+  nuit ext^{t} belle, merv^{t} étoilée.
   \ind Toujours gelé 1 peu. Très difficile monter
   rues en pente, car couvertes de glace
   \blanc{1}
-  \sl{Vendredi 16} – Au reveil, trouvé encore
+  \sl{Vendredi 16} – Au réveil, trouvé encore
   vitres ornées d'admirables dessins de glace.
   Mais, ds la journée, température, de
   + en + douce et dégel très rapide
-  \ind Toute matinée, en auto, \inc{Resté} 2 ou
+  \ind Toute matinée, en auto. Resté 2 ou
   3 h. ds le village de Beaucourt, fermes
   et chateau, pour trouver paille & foin.
-  \ind Ciel nuageux Pluie menace
-  Après-midi, liberté entière
+  \ind Ciel nuageux. Pluie menace
+  Après-midi, liberté entiere
 apparat:
 - ligne: 10
-  lemme: ext
+  lemme: ext^{t}
   type: abreviation
   note: extrêmement
-- ligne: 17
-  lemme: \inc{Resté}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : Roulé'
 historique: |
   L'histoire officielle britannique date le dégel de ce vendredi 16, après un gel continu depuis le 14~janvier (OH~\mbox{1917-I}, p.~66, 76). Le 15, courses habituelles des achats : Raincheval, où siégeait en décembre l'Army Purchase Board (voir f.~56~r\textsuperscript{o}), Puchevillers (voir f.~55~r\textsuperscript{o}), Toutencourt, QG de la Fifth Army (voir f.~49~v\textsuperscript{o}). La visite au maire d'Hérissart, non nommé, fait partie du rôle de l'interprète, « trait d'union entre les Anglais et les habitants du pays » (Fernand-Laurent 1917, p.~\textsc{xiv}). Beaucourt est sans doute Beaucourt-sur-l'Hallue, dans la vallée desservie depuis mai 1916 par la voie normale Daours--Contay (OH~\mbox{1916-I}, p.~273), et non Beaucourt-sur-l'Ancre, village détruit sur l'ancien front. Le château de Beaucourt-sur-l'Hallue, bâti vers 1750, subsiste (Inventaire IA80000292).
 sources:

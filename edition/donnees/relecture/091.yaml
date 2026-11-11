@@ -142,3 +142,12 @@ noms:
     ligne: 9
     identite: Albert (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 6
+  avant: 'ctes ples : 15 c'
+  apres: 'c^{tes} p^{les} : 15 c'
+  justification: finales « tes » et « les » suscrites
+- ligne: 11
+  avant: vehicules
+  apres: véhicules
+  justification: accent aigu tracé sur « véhicules »

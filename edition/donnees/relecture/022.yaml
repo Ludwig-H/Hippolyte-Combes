@@ -153,3 +153,16 @@ audit:
   avant: très atteinte. Clocher découronné –
   apres: très atteinte Clocher découronné –
   justification: aucun point entre atteinte et Clocher ; le seul point visible au-dessus du mot est celui du i
+collation_2026_11:
+- ligne: 7
+  avant: (l. est
+  apres: ', l. est'
+  justification: virgule sur la ligne de base avant « l. est », non parenthèse ouvrante
+- ligne: 11
+  avant: Vu \inc{çà} & la. de toits
+  apres: Vu très gd n. de toits
+  justification: 'lecture certaine au zoom : « Vu très gd n. de toits » (très grand nombre de toits)'
+- ligne: 18
+  avant: leurs habitants
+  apres: leur habitants
+  justification: « leur » écrit au singulier sans -s final

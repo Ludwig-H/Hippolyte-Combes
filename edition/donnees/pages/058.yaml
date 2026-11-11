@@ -5,17 +5,17 @@ mois: Octobre 1916
 lieux: Toulouse (Haute-Garonne)
 titre: Messe à Saint-Étienne ; promenade à Lardenne et au Touch avec Marguerite
 transcription: |
-  \sl{1er D.} \hfill \sl{Octobre /16}
-  Matin, à St. Etienne. Entendu
+  \sl{1er D.} \hfill \sl{\sur{Sept}{Oct}obre /16}
+  Matin, à St. Etienne Entendu
   messe \inc{curé} – 8^{H} autel paroissial – M^{te}, à ma droite
   Matinée, ds mon appart^{t}, à ranger mes choses
-  Joui du calme & silence —
-  monté déjeun à S^{te} Marie – \hfill Temps très beau
+  Joui du calme & silence \trait
+  monté dejeun à S^{te} Marie – \hfill Temps très beau
   Après repas, pris trams et venus à Lardenne
   De l'église, continué à pied j-au pont du Touch
   Assis s/ l'herbe prairie longeant rivière –
   & Longue causerie intime av M^{te}. – Tjs
-  charmante, simple & affectueuse —
+  charmante, simple & affectueuse \trait
   \blanc{3}
   Au retour, trouvé Jean maison.
   \blanc{4}
@@ -29,7 +29,7 @@ apparat:
   type: lecture
   note: 'lecture incertaine (« messe du curé » ?) ; autre lecture : cuné'
 - ligne: 6
-  lemme: déjeun
+  lemme: dejeun
   type: abreviation
   note: déjeuner
 - ligne: 7

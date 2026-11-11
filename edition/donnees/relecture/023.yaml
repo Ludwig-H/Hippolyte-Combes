@@ -147,3 +147,16 @@ noms:
     ligne: 22
     identite: Steenwerck (Nord)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: Aout
+  apres: Août
+  justification: accent circonflexe tracé sur « Août »
+- ligne: 10
+  avant: précédents
+  apres: precedents
+  justification: aucun accent aigu tracé sur « precedents »
+- ligne: 12
+  avant: fenêtre ;
+  apres: fenetre ,
+  justification: aucun circonflexe sur « fenetre » ; virgule seule (sans point supérieur)

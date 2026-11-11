@@ -152,3 +152,8 @@ audit:
   avant: prof.
   apres: prof
   justification: 'Zoom ×3 [.80 .60 1.0 .67] : p, r, o, f à longue haste, puis trait arqué remontant et redescendant ; aucun point après ce trait.'
+collation_2026_11:
+- ligne: 4
+  avant: Lu, écrit réfléchi,
+  apres: Lu, ecrit, reflechi,
+  justification: aucun accent sur « ecrit » ni « reflechi », séparés par une virgule

@@ -7,41 +7,42 @@ titre: Bresle, Laviéville, Hénencourt revus ; embourbés à Buire ; les Colart
 transcription: |
   \sl{18 merc} \hfill — Avril \sl{1917} —
   \ind Tout le jour, pluie fine.
-  Routes, état lamentable.
+  Routes, etat lamentable.
   notre auto, aux Workshops. Repos complet
   \blanc{2}
-  \sl{19 Jeudi} Tout le jour, ciel couvert. Qq averses.
+  \sl{19 Jeudi}.
+  \ind Tout le jour, ciel couvert. Qq averses.
   Temps très doux, presque tiède.
-  Après-midi, courses en auto. Bresle, Lavieville,
-  Henencourt, Warloy et Contay. Revu avec plaisir
-  les 3 1ers villages, où pas retourné depuis fin
+  Apres-midi, courses en auto. Bresle, Laviéville,
+  Hénencourt, Warloy et Contay. Revu avec plaisir
+  les 3 1^{ers} villages, où pas retourné depuis fin
   juillet 1915. Aujourdhui, vides et déserts.
   \ind Lieu^{t} Gilbert, retour d'Abbeville, venu passer soirée
   avec nous. Charmant causeur, très intéressant
   \blanc{1}
   20 \sl{Vendredi}. Enfin, assz belle journée. ciel
   resté couvert, mais temps très doux, même chaud
-  Matinée, course à Rubempré, Senlis et
-  Warloy. Après-midi, venus à Henencourt
+  \ind Matinée, course à Rubempré, Senlis et
+  Warloy. Après-midi, venus à Hénencourt
   Albert et Buire \add{Ribemont}. Au retour, stuck, à la
   sortie du village de Buire. Aidés par des
-  australiens, à dégager l'auto. Quels types!
-  \ind A Ribemont, revu avec plaisir les Colart—
+  australiens a dégager l'auto. Quels types!
+  \ind A Ribemont, revu avec plaisir les Colart –
   qui m'ont fait meilleur accueil —
 apparat:
-- ligne: 9
-  lemme: 1ers
+- ligne: 10
+  lemme: 1^{ers}
   type: abreviation
   note: premiers
-- ligne: 10
+- ligne: 11
   lemme: '1915'
   type: lecture
   note: lecture sûre (non 1916)
-- ligne: 11
+- ligne: 12
   lemme: Lieu^{t}
   type: abreviation
   note: lieutenant
-- ligne: 17
+- ligne: 18
   lemme: stuck
   type: emprunt
   note: embourbés, immobilisés

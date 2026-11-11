@@ -15,13 +15,13 @@ transcription: |
   Causé longuement, après repas
   Vers 4^{H} s., pris congé.
   Par métro, venu sur B^{d} St-Michel, chz Imbert.
-  mobilisé. Vu son \inc{remplacant}
+  mobilisé. Vu son remplacant
   Magasins de l'Hotel de Ville, plusrs achats
   Remonté rue de Rivoli. Diné restaurant &
   A 7^{H} s., gare d Orsay
-  Descendu quais. Installé compartt bien
+  Descendu quais. Installé compart^{t} bien
   chauffé
-  Depart train vers 7^{H} 50 s. Qq soldats .
+  Départ train vers 7^{H} 50 s. Qq soldats .
   air très chaud.
   Peu à peu, me suis assoupi
   \blanc{6}
@@ -47,15 +47,15 @@ apparat:
   type: abreviation
   note: boulevard Saint-Michel
 - ligne: 11
-  lemme: \inc{remplacant}
-  type: lecture
-  note: 'remplaçant, retenu par le sens ; autre lecture : remplacemt (remplacement)'
+  lemme: remplacant
+  type: graphie
+  note: pour « remplaçant »
 - ligne: 12
   lemme: plusrs
   type: abreviation
   note: plusieurs
 - ligne: 15
-  lemme: compartt
+  lemme: compart^{t}
   type: abreviation
   note: compartiment
 - ligne: 17

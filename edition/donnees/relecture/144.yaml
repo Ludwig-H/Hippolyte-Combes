@@ -129,3 +129,20 @@ noms:
     ligne: 19
     identite: Montargis (Loiret)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Fevrier 1917}
+  apres: \sl{Février 1917}
+  justification: accent aigu tracé sur « Février »
+- ligne: 5
+  avant: 5^{h}20. 15 m. de retard. \inc{En} 2^{e} cl.
+  apres: 5^{H}20. 15 m. de retard. En 2^{e} cl.
+  justification: H majuscule suscrit et « En » certain
+- ligne: 6
+  avant: permissre
+  apres: permiss^{res}
+  justification: finale « res » au pluriel suscrite
+- ligne: 7
+  avant: couverte neige
+  apres: couverts neige
+  justification: pluriel « couverts » rapporté à « Champs »

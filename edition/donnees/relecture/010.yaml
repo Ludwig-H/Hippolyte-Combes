@@ -147,3 +147,12 @@ audit:
   avant: \inc{vers}
   apres: \inc{par}
   justification: 'Zoom ×3 [.48 .075 .78 .135] : le mot commence par une haste partant au-dessus de l''œil et descendant loin sous la ligne (p, sans boucle de tête), suivie d''un a fermé et d''un r prolongé en délié horizontal ; tracé identique à « par » de la l. 5. Aucun v, aucun s final. Sens (« par 10 H ») peu naturel : \inc{} maintenu, « vers » en alternative.'
+collation_2026_11:
+- ligne: 3
+  avant: mission fse.
+  apres: mission f^{se}.
+  justification: finale « se » nettement suscrite
+- ligne: 11
+  avant: fin journee,
+  apres: fin journée,
+  justification: accent aigu tracé sur « journée »

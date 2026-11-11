@@ -173,3 +173,24 @@ audit:
   avant: \ind Enfin, train démarré après 3^{H} s. –
   apres: \ind Enfin, train démarré après 3^{H} s –
   justification: le s, réduit à un trait vertical à point d'attaque, n'est suivi d'aucun point (zoom ×3) ; seul le tiret haut suit
+collation_2026_11:
+- ligne: 8
+  avant: \ind après déjeun, venu à pied station, vers 2^{H}
+  apres: \ind après dejeun, venu à pied station, vers 2^{H}
+  justification: Aucun accent aigu n'est tracé au-dessus de « d-e-j-e-u-n » (blanc interlinéaire intact sous « fait service » ; seul un très léger point du « j » apparaît décalé à droite au-dessus de la virgule, exactement comme aux cl. 058 l. 6 et 059 l. 6 « dejeun »). Adapter en conséquence le lemme d'apparat de la l. 8.
+- ligne: 9
+  avant: Attendu patiemment départ train – installé 2 cl. \add{\inc{en} compartiment}
+  apres: Attendu patiemment départ train – installé 2e cl. \add{compartiment}
+  justification: 'Deux restitutions certaines confirmées par comparaison directe avec le cl. 130 l. 13 (« compartiment 2e cl, », voir /tmp/hc_bands/z_rem04_grid_130.jpg) : 1° entre le chiffre « 2 » et « cl. » est tracé sur la ligne de base le grand « e » ouvert en croissant de « 2e cl. », identique trait pour trait à celui du cl. 130 l. 13 (la relecture antérieure n''avait cherché qu''un « e » en exposant) ; 2° dans l''ajout inscrit sous « installé 2e cl. », le décompte des jambages avant le « p » donne exactement « c » + « o » ouvert + « m » à trois jambages = « co-mpartiment » (même léger décrochement de « co- » devant « mpartiment » qu''au cl. 130 l. 13), si bien que lire « \inc{en} » pour « co » amputerait le mot suivant en « mpartiment ». Adapter en conséquence l''apparat de la l. 9.'
+- ligne: 10
+  avant: Soleil brûlant s/ les vitres, du côté de Varennes
+  apres: Soleil brûlant s/ les vitres, du coté de Varennes
+  justification: Aucun accent circonflexe ne figure sur le « o » de « coté » (papier entièrement blanc sous « compartiment » ; courte barre au sommet du « t » suivie de l'accent aigu oblique à droite sur « é », conformément à la graphie usuelle « coté » des cl. 005, 031, 044, 047, 060, 076, 086, 116 et 157).
+- ligne: 14
+  avant: \ind A la ligne de l'horizon, légère buée
+  apres: \ind A la ligne de l'horizon, legère buée
+  justification: 'Aucun accent aigu ne surmonte le premier « e » de « legère » : la boucle descendante du « y » de « rayons » (l. 13) passe à gauche du « l », le papier au-dessus de « e-g » est entièrement vierge, et seul l''accent grave du second « e » est tracé au-dessus de « r-e ».'
+- ligne: 17
+  avant: Conver^{\inc{it}}. echangé nos impressions & jugements
+  apres: Conver^{\inc{it}}. Echangé nos impressions & jugements
+  justification: Après le point final de « Conver^{\inc{it}}. », l'initiale présente la boucle supérieure en crochet surmontant l'œil médian caractéristique du « E » majuscule bouclé (« ℰ », guide paléographique § 5), rigoureusement identique au « E » de « Entré » (l. 16) et surtout au « E » de « English » placé juste au-dessous à la l. 18 (et nettement séparé par un blanc de la virgule suivant « interp^{te}, » à la l. 16).

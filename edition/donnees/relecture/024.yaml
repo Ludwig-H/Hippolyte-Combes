@@ -133,3 +133,12 @@ noms:
     ligne: 14
     identite: Steenwerck (Nord)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: Aout
+  apres: Août
+  justification: accent circonflexe tracé sur « Août »
+- ligne: 15
+  avant: Emballage
+  apres: \inc{Touchage}
+  justification: l'initiale est un T majuscule suivi de « ouchage » (ou « Timbrage »), non « Emballage »

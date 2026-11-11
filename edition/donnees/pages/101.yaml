@@ -11,25 +11,25 @@ transcription: |
   Rues & routes etat lamentable, couvertes
   de boue glissante & épaisse.
   \ind Ts les jours, passe des heures à regarder rue –
-  debout devant fenêtre chambre ou assis s/ lit à cote
+  debout devant fenetre chambre ou assis s/ lit à coté
   Mouvement inouï. Lorries, wagons, cars etc etc
-  Et defilé incessant de troupes revenant de lavant –
+  Et defilé incessant de troupes revenant de l'avant –
   ou des tranchées –
   \ind Souvent aussi, cortèges de prisonniers allemands
   Après-midi, longue course en auto : Bouzincourt
-  au retour, arrêt à \inc{Contay}. Nuit noire. cherché refuge
-  à Englebelmer. Dû lattendre ds obscurité profonde : le long
+  au retour, arrêt à Contay. Nuit noire. cherché refuge
+  à Englebelmer. Dû l'attendre ds obscurité profonde : le long
   hauts murs du château. Boue épaisse . – –
   \ind Au retour, ciel merv.^{t} étoilé ! . . Nuit noire
   [ — Cartes ples d Acheux : 45c . — Timbres : \inc{2 f} \add{Carnet \inc{60}}
   \filet
-  21 \sl{Ma –} Épais brouillard matin & soir
+  \sl{21 Ma.} epais brouillard matin & soir
   \fr{1}{2} jour, soleil brillé 1 peu
   Routes etat lamentable Couche profonde
   de boue liquide. Humidité pénétrante
   \ind Matin, libre Après-midi, s/ lorry
-  à \inc{Lealvillers}. Au retour, office, remarque
-  +tot desobligeante de Curtis : fâché
+  à Léalvillers. Au retour, office, remarque
+  +tot désobligeante de Curtis : faché
   contre lui –
 apparat:
 - ligne: 2
@@ -40,18 +40,6 @@ apparat:
   lemme: cars
   type: emprunt
   note: automobiles
-- ligne: 9
-  lemme: lavant
-  type: graphie
-  note: l'avant, sans apostrophe
-- ligne: 13
-  lemme: \inc{Contay}
-  type: lecture
-  note: lecture probable ; détour surprenant sur ce trajet
-- ligne: 14
-  lemme: lattendre
-  type: graphie
-  note: l'attendre, sans apostrophe
 - ligne: 17
   lemme: \inc{2 f}
   type: lecture
@@ -60,10 +48,6 @@ apparat:
   lemme: \inc{60}
   type: lecture
   note: 'lecture incertaine ; autre lecture : 50'
-- ligne: 23
-  lemme: \inc{Lealvillers}
-  type: lecture
-  note: Léalvillers ; s final peu distinct
 - ligne: 24
   lemme: +tot
   type: abreviation

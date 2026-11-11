@@ -145,3 +145,20 @@ noms:
     ligne: 11
     identite: Bretagne
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: 7^{h} m. Allumé gd feu
+  apres: 7^{H} m. Allumé g^{d} feu
+  justification: H majuscule et d suscrits
+- ligne: 3
+  avant: prelassé
+  apres: prélassé
+  justification: accent aigu tracé sur « prélassé »
+- ligne: 17
+  avant: velin
+  apres: vélin
+  justification: accent aigu tracé sur « vélin »
+- ligne: 20
+  avant: Le Miroir de Modes (no de janvier)
+  apres: Le Miroir des Modes (n^{o} de janvier)
+  justification: « des » écrit au pluriel (titre exact du périodique) et « o » suscrit

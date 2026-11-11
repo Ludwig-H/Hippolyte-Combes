@@ -130,3 +130,8 @@ noms:
     ligne: 14
     identite: Barlette, près de Ribeaucourt (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 11
+  avant: eclairci soleil brille —
+  apres: eclairci, soleil brille –
+  justification: virgule après « eclairci » et tiret demi-cadratin final

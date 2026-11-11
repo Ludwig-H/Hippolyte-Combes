@@ -8,17 +8,17 @@ transcription: |
   28 \sl{Jeudi} \hfill Decembre \sl{1916}
   \ind Très fort^{t} gelé nuit
   Toute nuit & matinée, très violente canonnade
-  du coté d'Hebuterne \trait
+  du côté d'Hébuterne \trait
   \ind Au matin, dégelé rapid^{t} et bientot
   routes, redevenues affreut boueuses
-  \ind Après breakfast venu a pied à Lealvillers,
-  retour a pied. Promenade, hygiénique
+  \ind Après breakfast venu à pied à Léalvillers,
+  retour à pied. Promenade, hygienique
   \ind[2] Tout jour, liberté : car in workshop
   A 6^{H} s., concert à Y.M.C.A-hut. 13th
   corps Archie Singers. Chansons comiques
   & pantomimes
   \equerre{3}— Brown Boot Polish : 20c.
-  — Boite recommandée – à \inc{Imbert}, opticien :
+  — Boite recommandée – à Imbert, opticien :
   Concert Y.M.C.A : 30c \hfill 30c : \hfill Paris
   \filet
   \sl{29 Ve.} Temps doux – ciel couvert
@@ -27,9 +27,9 @@ transcription: |
   Levy, course à Raincheval, & Quesnoy,
   Louvencourt
   \ind Rentré à 3^{H} s.
-  Liberté entiere fin après-midi
+  Liberté entière fin après-midi
   \ind Tempérre printanière On pt travailler
-  chambre sans feu, et fenetres ouvertes
+  chambre sans feu, et fenêtres ouvertes
 apparat:
 - ligne: 2
   lemme: fort^{t}
@@ -59,10 +59,6 @@ apparat:
   lemme: Brown Boot Polish
   type: emprunt
   note: cirage brun pour chaussures
-- ligne: 14
-  lemme: \inc{Imbert}
-  type: lecture
-  note: lecture incertaine (Imbat ?) ; Imbert aux ff.~60~v\textsuperscript{o}, 61~r\textsuperscript{o}
 - ligne: 15
   lemme: '30c : \hfill Paris'
   type: disposition

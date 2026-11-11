@@ -129,3 +129,16 @@ noms:
     ligne: 20
     identite: Thièvres (Pas-de-Calais / Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: 7H.
+  apres: 7^{H}.
+  justification: H majuscule suscrit
+- ligne: 11
+  avant: Arrêt à Lucheux
+  apres: Arrêt a Lucheux
+  justification: aucun accent grave sur la préposition « a »
+- ligne: 18
+  avant: au mes off \trait
+  apres: au mes offs \trait
+  justification: -s final tracé à « offs »

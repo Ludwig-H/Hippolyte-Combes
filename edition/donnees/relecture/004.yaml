@@ -147,3 +147,8 @@ audit:
   avant: même
   apres: meme
   justification: aucun circonflexe au-dessus du mot (zoom ×4) ; la haste montante entre « me » et « me » est le délié d'attaque du second m, relié aux deux lettres, non un accent
+collation_2026_11:
+- ligne: 18
+  avant: boite
+  apres: boîte
+  justification: accent circonflexe nettement tracé au-dessus de « boîte »

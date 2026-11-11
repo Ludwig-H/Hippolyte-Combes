@@ -189,3 +189,32 @@ audit:
   avant: mais sans lune
   apres: mais sans lune.
   justification: 'zoom ×3 : point rond appuyé à hauteur de la ligne de base, à droite du délié final de lune ; ni point d''i (aucun i au voisinage, celui de « vif », l. 23, est plus à droite) ni accent de « très » (tracé distinct, plus bas)'
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Fevrier 1917}
+  apres: \sl{Février 1917}
+  justification: accent aigu tracé sur « Février »
+- ligne: 10
+  avant: extt
+  apres: ext^{t}
+  justification: second « t » suscrit
+- ligne: 12
+  avant: reveil,
+  apres: réveil,
+  justification: accent aigu tracé sur « réveil »
+- ligne: 17
+  avant: \inc{Couin}
+  apres: Couin
+  justification: lecture certaine du toponyme « Couin »
+- ligne: 20
+  avant: vers 6^{h} \fr{1}{2}; pour
+  apres: vers 6^{H} \fr{1}{2} s., pour
+  justification: H majuscule suscrit suivi de « s., » (soir)
+- ligne: 21
+  avant: Lefevre
+  apres: Lefèvre
+  justification: accent grave tracé sur « Lefèvre »
+- ligne: 22
+  avant: mervt etoilée,
+  apres: merv^{t} étoilée,
+  justification: « t » suscrit et accent aigu sur « étoilée »

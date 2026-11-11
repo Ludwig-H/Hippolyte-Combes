@@ -30,5 +30,5 @@ extraits:
   - {cliche: 60, folio: "f. 30 v°", rect: [0.150, 0.305, 0.315, 0.360], legende: "pr (pour) ; qq (quelques)"}
   - {cliche: 76, folio: "f. 38 v°", rect: [0.365, 0.590, 0.475, 0.668], legende: "ds (dans) ; tt (tout)"}
   - {cliche: 7, folio: "f. 3 v°", rect: [0.390, 0.030, 0.535, 0.076], legende: "s/ (sur) — s/ une"}
-  - {cliche: 60, folio: "f. 30 v°", rect: [0.345, 0.035, 0.465, 0.080], legende: "merv\\textsuperscript{t} (merveilleusement)"}
+  - {cliche: 60, folio: "f. 30 v°", rect: [0.345, 0.035, 0.465, 0.080], legende: "mervt (merveilleusement)"}
   - {cliche: 41, folio: "f. 21 r°", rect: [0.000, 0.872, 0.400, 1.000], legende: "crochet de comptes (3 lignes)"}

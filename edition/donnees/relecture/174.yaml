@@ -166,3 +166,28 @@ noms:
     ligne: 20
     identite: Rainneville (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 7
+  avant: parait
+  apres: paraît
+  justification: accent circonflexe tracé sur « paraît »
+- ligne: 12
+  avant: etat
+  apres: état
+  justification: accent aigu tracé sur « état »
+- ligne: 17
+  avant: Etat lyrique. —
+  apres: État lyrique. –
+  justification: accent aigu sur « État » et tiret demi-cadratin
+- ligne: 22
+  avant: grèle – grelons,
+  apres: grêle – grêlons,
+  justification: accents circonflexes sur « grêle » et « grêlons »
+- ligne: 23
+  avant: detrempées
+  apres: détrempées
+  justification: accent aigu tracé sur « détrempées »
+- ligne: 24
+  avant: parait inhabite
+  apres: paraît inhabité
+  justification: circonflexe sur « paraît » et aigu sur « inhabité »

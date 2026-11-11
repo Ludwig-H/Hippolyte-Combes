@@ -180,3 +180,32 @@ audit:
   avant: ciel nuageux. Bientôt bruine.
   apres: ciel nuageux. Bientot bruine.
   justification: 'zoom x3 [.20 .325 .50 .385] : B-i-e-n-t-o-t, barre du t final prolongée à droite ; aucun circonflexe au-dessus du o (même graphie que « tot » l. 2 et l. 23)'
+collation_2026_11:
+- ligne: 3
+  avant: conduit en auto à Toutencourt. 1 \inc{staff} du bureau
+  apres: conduit en auto à Toutencourt. 1 ss-off du bureau
+  justification: 'Au zoom ×5 (/tmp/hc_bands/z_rem08_177_178_top.jpg, panneau supérieur), la leçon « ss-off » (sous-officier, déjà pressentie comme lecture alternative en apparat) est certaine lettre à lettre : deux petits « s » montants bouclés identiques côte à côte (« ss », sans aucune haste ni barre transversale de « t » — le gros trait horizontal situé bien plus haut est le soulignement de « Avril 1917 » l. 1), suivis d''un petit tiret bas de séparation, puis d''un « o » rond lié par le haut (sans jambage droit d''« a ») et de la ligature « ff ». Outre l''évidence graphique, cette lecture élimine le solécisme anglais « 1 staff » (« staff » étant un collectif indénombrable) pour désigner le sous-officier français de la Mission venu payer la solde.'
+- ligne: 4
+  avant: de la Mission, fr, Vth army H.Q., venu nous payer
+  apres: de la Mission, fr, V^{th} army H.Q., venu nous payer
+  justification: La terminaison ordinale anglaise « th » (« t » barré + « h ») est nettement tracée en exposant à hauteur du sommet droit du « V » romain, bien au-dessus de la ligne de base de « army » (même convention que « 63^{rd} » au cl. 170 l. 23 ; vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_177_z1_staff_mission.jpg, qui confirme par ailleurs la réalité de la virgule après « Mission, »).
+- ligne: 6
+  avant: \ind Temps très beau. Délicieux promener rues ensoleillées
+  apres: \ind Temps très beau. Delicieux promener rues ensoleillées
+  justification: Papier entièrement vierge entre la panse du « D » et la hampe du « l » au-dessus du premier « e » de « Delicieux » ; les deux seuls signes diacritiques au-dessus du mot sont les petits points ronds des deux « i », décalés respectivement au-dessus de « c » et de « eu » (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_177_z1_staff_mission.jpg).
+- ligne: 8
+  avant: départ H.Q. et troupes
+  apres: depart H.Q. et troupes
+  justification: Aucun accent aigu n'est tracé entre la hampe du « d » et le sommet du « p » dans « depart » (le papier est entièrement blanc au-dessus de « e », la haste supérieure du « p » montant toucher le « c » de « ce » l. 7 ; même graphie « depart » aux cl. 032 l. 4 et cl. 166 l. 19 ; vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_177_z2_delicieux_depart.jpg).
+- ligne: 9
+  avant: \ind Revenu en auto à Hérissart. En reparti
+  apres: \ind Revenu en auto à Herissart. En reparti
+  justification: Aucun accent aigu au-dessus de « e-r » dans « Herissart » (situé sous le long délié horizontal de « troupes » l. 8 ; l'accent grave de « à » précède le « H » majuscule, et seul le point de l'« i » figure plus à droite au-dessus de « ss » ; même graphie aux cl. 157 l. 25 et cl. 176 l. 15 ; vérifié dans /tmp/hc_bands/z_rem08_177_z2_delicieux_depart.jpg).
+- ligne: 20
+  avant: retour par route Léalvillers–Toutencourt & Rubempré
+  apres: retour par route Lealvillers–Toutencourt & Rubempre
+  justification: 'Les deux toponymes sont dépourvus d''accent aigu sur cette ligne (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_177_z4_lealvillers_rubempre.jpg) : 1° papier entièrement vierge au-dessus de « L-e-a-l » dans « Lealvillers » (sous « courses à » l. 19) ; 2° à la marge droite, « Rubempre » s''achève par une petite boucle d''« e » fermée sur papier vierge sans aucun accent (à l''opposé de « Rubempré. » l. 10 dans /tmp/hc_bands/z_rem08_177_z3_herissart_bruine.jpg qui porte un net accent en croissant, et exactement comme « Rubempre » au cl. 178 l. 7).'
+- ligne: 24
+  avant: \ind Admiré paysage \trait
+  apres: \ind admire paysage \trait
+  justification: 'Au zoom ×5 (/tmp/hc_bands/z_rem08_177_z5_liberte_admire.jpg) : 1° l''initiale « a » est de même module bas que les « a » minuscules de « paysage » et opposée au grand « A » majuscule de « Après-midi » l. 21 (cf. « admiré champs » cl. 175 l. 10) ; 2° la finale « -re » s''achève en petite boucle d''« e » fermée sous le blanc précédant « m''ont » (l. 23), sans aucune trace d''accent aigu (comparer « Promené » l. 22).'

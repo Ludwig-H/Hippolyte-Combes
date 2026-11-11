@@ -218,3 +218,24 @@ audit:
   avant: (\inc{tiss})
   apres: (\inc{Wiss})
   justification: 'zoom ×3 : deux hastes, la seconde crochetée à droite à mi-hauteur, sans barre de t : forme du W de Walsh (l. 19) et de Washing (l. 11) ; puis i pointé et deux s montants. Doute maintenu sur le nom'
+collation_2026_11:
+- ligne: 2
+  avant: et durant journée, principt à l'aube, très
+  apres: et durant journée, principt à l'aube très
+  justification: 'Aucune virgule autonome après « l''aube » : le crochet visible entre « l''aube » et « très » est en continuité matérielle directe avec le sommet du grand montant droit du A majuscule de « Ancre » à la l. 3 (faux positif déjà diagnostiqué dans relecture/099.yaml l. 11 et l. 158, mais resté non corrigé dans pages/099.yaml).'
+- ligne: 4
+  avant: \ind Très belle journée ensoleillée.
+  apres: \ind Très belle journée ensoleillee.
+  justification: 'Sous « Beaumont » (l. 3, sans jambage descendant), le papier est intégralement blanc et vierge au-dessus de la finale « -llee. » : seul le point rond du i est tracé à gauche des deux l, sans aucun accent aigu sur « -ee ».'
+- ligne: 10
+  avant: '\crochet{2}Cartes ples : Acheux : 35c. — Journaux : 40c'
+  apres: '\crochet{2}Cartes ples : Acheux : 35c. — Journaux . 40c'
+  justification: 'Contrairement aux deux-points nets de « Cartes ples : », « Acheux : » (l. 10) et « Washing : » (l. 11), il n''existe entre « Journaux » et « 40c » qu''un unique point rond « . » posé sur la ligne de base (le trait oblique en haut à gauche appartient à la branche montante droite du x final de « Journaux », comme relevé dans relecture/099.yaml l. 115 ; même séparateur « . » de compte qu''aux cl. 008, 036 et 043).'
+- ligne: 19
+  avant: Déjeuné à Herissart chz Lt Walsh et
+  apres: Dejeuné à Herissart chz Lt Walsh et
+  justification: 'Papier entièrement vierge au-dessus de « D-e » en tête de ligne (sous « Raincheval » l. 18) : seuls le point rond placé juste au-dessus du j et l''accent aigu final après « -né » sont tracés (même graphie « Dejeuné » sans accent initial qu''au cl. 042 l. 3).'
+- ligne: 20
+  avant: avec son interp^{te}. Fort apprécié ce dernier
+  apres: avec son interp^{te}. Fort apprecié ce dernier
+  justification: 'Sous « Walsh » (l. 19, sans aucun jambage descendant), le papier est parfaitement vierge au-dessus de « a-p-p-r-e-c- » : seuls le point de l''i et l''accent aigu sur le « -é » final sont présents.'

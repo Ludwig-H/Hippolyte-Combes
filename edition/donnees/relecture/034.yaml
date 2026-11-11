@@ -158,3 +158,20 @@ noms:
     ligne: 17
     identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: Terre friable (\inc{boueuse}
+  apres: Terre friable s'accroche
+  justification: 'Lecture certaine lettre à lettre : s initial droit + haute apostrophe courbe '' (identique à « s''étend » en 032 l. 8 et « s''arreter » en 033 l. 16, pris à tort pour une parenthèse ouvrante et un b) + a-c-c-r-o-c-h (haste bouclée finale) + délié -e. Restitue le verbe indispensable de la phrase : « Terre friable s''accroche aux semelles en fortes mottes. » Supprimer en conséquence l''entrée d''apparat l. 4 « (\inc{boueuse} ».'
+- ligne: 9
+  avant: entiert libre
+  apres: entier^{t} libre
+  justification: 'Le t final en petite croix est nettement suscrit au-dessus de la ligne de base après « entier » (adapter aussi le lemme d''apparat l. 9 : entiert -> entier^{t}).'
+- ligne: 11
+  avant: (1 shirt. 1 vest / 1 p. socks.
+  apres: (1 shirt, 1 vest 1 p. socks.
+  justification: 'Après « shirt », virgule verticale descendante , (contrairement aux points ronds de « p. » et « socks. »). Entre « vest » et « 1 p. », il n''existe aucune barre oblique / autonome : le grand trait oblique est exclusivement le long jambage descendant rectiligne du g de « Washing » (l. 10).'
+- ligne: 20
+  avant: \add{annonçant} orage
+  apres: \add{annoncant} orage
+  justification: Aucune cédille sous le c de « annoncant » dans l'ajout interlinéaire (contrairement à la grande cédille nette de « menaçant » à la l. 12).

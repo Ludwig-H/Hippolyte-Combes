@@ -5,14 +5,14 @@ mois: Août 1916
 lieux: La Croix-du-Bac (Steenwerck) et Bailleul (Nord) ; Saint-Pol-sur-Ternoise (Pas-de-Calais)
 titre: Embarquement à Bailleul, train jusqu'à Saint-Pol ; route sous la pluie
 transcription: |
-  \sl{Ven. 25} \hfill Aout \sl{1916}
+  \sl{Ven. 25} \hfill Août \sl{1916}
   Partis vers 8^{H} m. – à cheval, soleil s'est
-  levé peu à peu – \inc{devint} brulant
+  levé peu à peu – devenu brulant
   A 11^{H} m – à Bailleul.
-  Embarquement \inc{chevx} & wagons terminé
+  Embarquement \inc{chevx} & wagons, terminé
   à midi \fr{1}{2}.
-  Train démarré vers 1^{H}\fr{1}{2}
-  Traversé plusis gares imptes sans arret
+  Train demarré vers 1^{H}\fr{1}{2}
+  Traversé plusis gares imp^{tes} sans arrêt
   A Lillers, vers 2^{H}45 \hfill Hazebrouck : 2^{H}
   A St-Pol, à 4^{H}30 s. \hfill Berguette : 2^{H}30
   \blanc{1}
@@ -20,16 +20,12 @@ transcription: |
   puis pluie battante \trait
   \ind Pays pittoresque Ce n'est plus la
   campagne plate et monotone du nord.
-  Région très boisée. Verdures fraîches
+  Région très boisée. Verdures fraiches,
   cme au printemps. Si champs \inc{n'était}
   pas moissonnés et les gerbes d'or entassées
   en meules, on ne croirait pas etre
   à la fin de l'été \trait
 apparat:
-- ligne: 3
-  lemme: \inc{devint}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : devient'
 - ligne: 5
   lemme: \inc{chevx}
   type: lecture
@@ -39,7 +35,7 @@ apparat:
   type: abreviation
   note: plusieurs
 - ligne: 8
-  lemme: imptes
+  lemme: imp^{tes}
   type: abreviation
   note: importantes
 - ligne: 9

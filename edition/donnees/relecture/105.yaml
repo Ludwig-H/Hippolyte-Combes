@@ -154,3 +154,12 @@ audit:
   avant: \inc{V^{e}}
   apres: \inc{5^{me}}
   justification: au zoom ×3, aucun V (pas de second trait remontant) ; une seule longue haste descendante à crochet de tête (5 en ſ), puis trois jambages (m) et un délié final, et non un simple e ; lecture gardée douteuse
+collation_2026_11:
+- ligne: 14
+  avant: 'Acheux : 70'
+  apres: 'Acheux : 70^{f}'
+  justification: « f » suscrit tracé après « 70 »
+- ligne: 23
+  avant: (tant
+  apres: (tout
+  justification: « (tout » (avec « ou » et « t » barré), non « (tant »

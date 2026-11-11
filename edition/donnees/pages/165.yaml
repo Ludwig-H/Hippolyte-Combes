@@ -5,15 +5,15 @@ mois: Mars 1917
 lieux: Hérissart (Somme)
 titre: Départ du capitaine Williams ; sans fonctions ; mélancolie puis résignation
 transcription: |
-  \sl{10 Samedi} — \hfill — \sl{Mars 17} —
-  \ind Avant breakfast terminé ts mes
-  paquets, sanglé, valise.
+  \sl{10 Samedi} — \hfill — \sl{Mars '17} —
+  \ind Avant breakfast, terminé ts mes
+  paquets, sanglé valise.
   Etrange sensation de melancolie, au moment de
   quitter ce village et de changer d'affectation.
   Malgré moi, souvenirs affluent de ce \inc{6} derniers
   mois. Incertitude lendemain. & situation precaire
-  \ind Cap. \inc{monté}, William, partis definit^{t} vers
-  10^{H} matin. Dès lors, suis sans fonctions, archi-
+  \ind Cap. \inc{Morris}, William, partis definit^{t} vers
+  10^{H} matin. Dès lors, suis sans fonctions, entier^{t}
   libre
   \ind Voulu rester encore 1 jour village et ferme
   où belle chambre – Fraternisé avec English connus
@@ -22,8 +22,8 @@ transcription: |
   \ind[2] Fin journée, très calme
   Reposé, ecrit, lu, dans l'office
   Temps mauvais, bruine & boue
-  matinée, tt penché melancolie
-  Mais ce soir, pris \add{mon} parti – et résigné
+  matinée, tt pénetré melancolie
+  mais ce soir, pris \add{mon} parti – et resigné
   à mon nouveau sort
   \blanc{8}
 apparat:
@@ -32,9 +32,9 @@ apparat:
   type: lecture
   note: lecture incertaine
 - ligne: 8
-  lemme: \inc{monté}
+  lemme: \inc{Morris}
   type: lecture
-  note: lecture incertaine ; peut-être un nom propre
+  note: lecture incertaine ; peut-être l'officier Morris (voir f.~60~v\textsuperscript{o})
 - ligne: 8
   lemme: William
   type: graphie
@@ -47,12 +47,8 @@ apparat:
   lemme: English
   type: emprunt
   note: Anglais (les militaires britanniques)
-- ligne: 18
-  lemme: penché
-  type: lecture
-  note: lecture probable
 historique: |
-  Le capitaine Williams, arrivé à Acheux le 2~décembre 1916 (voir f.~52~v\textsuperscript{o}), avait vingt ans et était \textit{office boy} avant la guerre (voir f.~53~v\textsuperscript{o}). Parmi les 49~officiers de l'A.S.C. de ce nom (TNA, WO 339), aucun ne s'impose ; sa nouvelle affectation est inconnue. Les « 6 derniers mois », si la lecture est bonne, sont ceux du séjour dans la Somme, commencé le 11~septembre 1916 à Raincheval (voir f.~21~r\textsuperscript{o}). Ce 10~mars, à 26~km à l'est-nord-est, la 53\textsuperscript{rd} Brigade de la 18\textsuperscript{th} Division, dont Combes a servi le train jusqu'en novembre, prend Irles ; le 10\textsuperscript{th} Essex attaque en tenue blanche (\textit{snow mantles}) (Nichols 1922, p.~157--159 ; Becke 1938, p.~85).
+  Le capitaine Williams, arrivé à Acheux le 2~décembre 1916 (voir f.~52~v\textsuperscript{o}), avait vingt ans et était \textit{office boy} avant la guerre (voir f.~53~v\textsuperscript{o}). Parmi les 49~officiers de l'A.S.C. de ce nom (TNA, WO 339), aucun ne s'impose ; sa nouvelle affectation est inconnue ; « Morris [?] » est peut-être l'officier retrouvé en janvier (f.~60~v\textsuperscript{o}). Les « 6 derniers mois », si la lecture est bonne, sont ceux du séjour dans la Somme, commencé le 11~septembre 1916 à Raincheval (voir f.~21~r\textsuperscript{o}). Ce 10~mars, à 26~km à l'est-nord-est, la 53\textsuperscript{rd} Brigade de la 18\textsuperscript{th} Division, dont Combes a servi le train jusqu'en novembre, prend Irles ; le 10\textsuperscript{th} Essex attaque en tenue blanche (\textit{snow mantles}) (Nichols 1922, p.~157--159 ; Becke 1938, p.~85).
 sources:
 - 'The National Archives (Kew), WO 339 : dossiers d''officiers, requête « Williams » « Army Service Corps » (catalogue en ligne).'
 - Nichols, G. H. F., The 18th Division in the Great War, Édimbourg et Londres, W. Blackwood & Sons, 1922, p. 157-159.

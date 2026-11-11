@@ -131,3 +131,12 @@ audit:
   avant: \inc{2 h.} de marche.
   apres: \inc{45 m.} de marche.
   justification: zoom ×4 [0 .425 .14 .47] ; premier chiffre à panse basse, haste droite et barre transversale (4 fermé, sans tête de 2) ; puis haute boucle fermée descendant sous la ligne (5 en ℓ), jambages détachés (m) et point ; le h de « 1 h. » (l. 11) a une arche liée à une haste courte
+collation_2026_11:
+- ligne: 3
+  avant: Terre durcie j-à gde profondeur
+  apres: Terre durcie, j-à g^{de} profondeur
+  justification: 1° Dans le blanc entre « durcie » et « j-à », une virgule verticale autonome est nettement tracée à l'encre violette juste à gauche du « j » (sans aucun jambage descendant de « bleu, soleil » l. 2 ni ascendant de « à pied » l. 4), supprimée à tort en relecture antérieure. 2° Après « g », la finale contractée « de » est nettement perchée en exposant à hauteur du sommet de la panse du « g » (« g^{de} », cf. ABREVIATIONS.md § 3).
+- ligne: 7
+  avant: Région, moins banale
+  apres: Region, moins banale
+  justification: Aucun accent aigu n'est tracé au-dessus de l'« e » de « Region » (papier entièrement vierge au-dessus de « Re- » ; la boucle qui descend à droite toucher la panse du « g » est le jambage du « q » de « qui » à la l. 6, et les traits au-dessus de « -ion » relèvent du point de l'« i »). Reliquat de normalisation.

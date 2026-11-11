@@ -184,3 +184,20 @@ noms:
     ligne: 23
     identite: place Esquirol, Toulouse
 source: contrôle
+collation_2026_11:
+- ligne: 11
+  avant: cote
+  apres: côte
+  justification: accent circonflexe tracé sur « côte »
+- ligne: 17
+  avant: Recollets
+  apres: Récollets
+  justification: accent aigu tracé sur « Récollets »
+- ligne: 18
+  avant: trams
+  apres: tram
+  justification: singulier « tram » sans -s
+- ligne: 21
+  avant: —
+  apres: –
+  justification: tiret court « – »

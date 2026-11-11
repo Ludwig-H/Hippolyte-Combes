@@ -59,3 +59,12 @@ noms:
     ligne: 6
     identite: Albert (Somme), d'après le contexte des pages voisines
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: journee.
+  apres: journée.
+  justification: accent aigu tracé sur « journée »
+- ligne: 6
+  avant: bombardee.
+  apres: bombardée.
+  justification: accent aigu tracé sur « bombardée »

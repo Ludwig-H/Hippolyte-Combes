@@ -142,3 +142,32 @@ noms:
     identite: capitaine britannique (Panton ?), chef du mess de la compagnie
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: Levé vers 6^{h} \fr{1}{2}
+  apres: Levé vers 6^{H} \fr{1}{2}
+  justification: 'Deux montants verticaux parallèles reliés par une traverse médiane : « H » majuscule en exposant.'
+- ligne: 11
+  avant: g^{de} chambre, haute de plafond. C'etait le
+  apres: g^{de} chambre, haute de plafond. C'était le
+  justification: Accent aigu en crochet « ◟ » bien net au-dessus de « -ét- », séparé par un blanc du pied droit du « A » de « Ai » (l. 10) et distinct de l'apostrophe après « C ».
+- ligne: 12
+  avant: salon — vieille gd-mère, extt sympathique
+  apres: salon — vieille gd-mère, ext^{t} sympathique
+  justification: Le second « t » barré est nettement perché en exposant à droite du premier « t ».
+- ligne: 13
+  avant: Devant maison, pâture av pommiers
+  apres: Derrière maison, pâture av pommiers
+  justification: 'Le manuscrit porte indubitablement « Derrière » : « D-e-r-r-i-è-r-e » avec deux « r » à épaulement, aucune hampe de « t », et un long accent grave horizontal au-dessus de « -ère » (en opposition directe avec « en face maison » à la l. 5).'
+- ligne: 14
+  avant: chargé de fruit
+  apres: chargés de fruit
+  justification: Après « g », boucle fermée d'« e » suivie d'un « s » final vertical à crochet basal (identique à celui de « bois » sur la même ligne), le tout surmonté de l'accent aigu décalé à droite (« fruit » reste au singulier).
+- ligne: 14
+  avant: Au delà, gd bois. –
+  apres: Au delà, g^{d} bois. –
+  justification: Le « d » est perché haut en exposant au niveau du sommet de « bois », comme dans « g^{de} » à la l. 11.
+- ligne: 15
+  avant: Au Cap. Pant payé ma part depenses
+  apres: Au Cap. Pant payé ma part dépenses
+  justification: Accent aigu en crochet « ◟ » coiffant le sommet de la hampe du « p » de « dépenses » (décalé à droite de l'« e » ; comparer le « p » nu de « part » juste à gauche).

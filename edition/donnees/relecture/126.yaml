@@ -204,3 +204,16 @@ noms:
     ligne: 18
     identite: Amiens (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: lu \inc{à} toilette.
+  apres: lu & toilette.
+  justification: esperluette « & » certaine entre « lu » et « toilette. »
+- ligne: 17
+  avant: aujdhui
+  apres: auj'dhui,
+  justification: apostrophe après « j » et virgule finale
+- ligne: 19
+  avant: matinée,
+  apres: 'matinée :'
+  justification: deux-points après « matinée »

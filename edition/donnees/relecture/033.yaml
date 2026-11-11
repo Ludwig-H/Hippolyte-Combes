@@ -132,3 +132,24 @@ noms:
     ligne: 9
     identite: Saint-Flochel, hameau de Ligny-Saint-Flochel (Pas-de-Calais)
 source: contrôle
+collation_2026_11:
+- ligne: 6
+  avant: 2 kil 5 — Route
+  apres: 2 kil 5 – Route
+  justification: Tiret court – entre « 5 » et « Route » (même calibre que le trait d'union de « Saint-Flochel » à gauche), et non tiret long — (comparer « 5^{f} — » l. 17).
+- ligne: 7
+  avant: où régiments anglais
+  apres: où regiments anglais
+  justification: 'Aucun accent propre sur le e de « regiments » : le trait fin qui descend vers eg est l''extrémité inférieure de la longue virgule suivant « Flochel, » à la l. 6.'
+- ligne: 7
+  avant: faisaient les manœuvres
+  apres: faisaient des manœuvres
+  justification: La panse ronde gauche d'un d est nette au pied de la haste (« faisaient des manœuvres ») ; c'est le jambage descendant du p de « pente » (l. 6) qui, rejoignant le sommet du d, donnait l'illusion d'une grande boucle de l.
+- ligne: 8
+  avant: speciales
+  apres: spéciales
+  justification: 'Deux signes diacritiques bien distincts surplombent le mot (sous « bois », sans aucun jambage descendant) : un net accent aigu oblique décalé au-dessus du c ET le point rond du i plus à droite au-dessus de l''attaque du a. Accent réel supprimé à tort lors d''un contrôle antérieur.'
+- ligne: 14
+  avant: Melancolie penetrante
+  apres: Melancolie pénétrante
+  justification: 'Trois traits distincts au-dessus de « pénétrante » dans le blanc interlinéaire : un premier accent aigu vertical sur pé, un second accent aigu vertical juste à gauche de la haste du premier t sur né, et la barre horizontale traversant ce t (« Melancolie » est bien sans accent).'

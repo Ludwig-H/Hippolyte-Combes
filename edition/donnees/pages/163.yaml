@@ -11,28 +11,28 @@ transcription: |
   matinée, entier^{t} libre. Nouvel off. arrivé,
   australien, plutôt vulgaire
   \ind après-midi, venu à Doullens, avec cap. W^{m} —
-  Nouvel interprète, arrivé, tr sympathique
+  Nouvel interprète, arrivé, très sympathique
   \ind Vers 6^{H} s allé à pied Toutencourt, Mission f^{se}.
-  marl logis \inc{Granger} m'a conduit chz le cap
-  \inc{Renouleau}, l'a demandé divers renseig^{ts}.
-  marl logis \inc{Granger} m'a promis de me
+  mar^{al} logis \inc{Granger} m'a conduit chz le cap
+  \inc{Renouleau}, l. a demandé divers renseig^{ts}.
+  mar^{al} logis \inc{Granger} m'a promis de me
   faire donner bon poste —.
   \ind Fini journée au mess, en cie nouvel intpte
   \blanc{2}
   \crochet{3}A Doullens : papeterie : 3^{f} + 1^{f} 50
-  Carte ple : 1fc. — 2 boîtes pastilles chlorate : 1^{f}
+  Carte ple : 15 c. — 2 boîtes pastilles chlorate : 1^{f}
   \droite Quête pour wounded : 50c
   \droite (Hôpital auxil^{re})
   7 \sl{Mercredi}
   \ind Matin & soir, inoccupé
-  Preparé lentement paquets & sac
+  Préparé lentement paquets & sacs
   Ciel resté couvert. Bise glaciale. Après-midi,
   vent soufflé en violentes rafales et fait
   bruit de tempête à travers branches \inc{des}
   arbres
   \ind Courte promenade vers 4^{H}, autour
   et ds les environs village. \hfill Visité cimetière
-  \ind Temps funebre
+  \ind Temps funèbre
 apparat:
 - ligne: 4
   lemme: entier^{t}
@@ -42,16 +42,12 @@ apparat:
   lemme: cap. W^{m}
   type: abreviation
   note: capitaine Williams
-- ligne: 7
-  lemme: tr
-  type: abreviation
-  note: très
 - ligne: 8
   lemme: f^{se}
   type: abreviation
   note: française
 - ligne: 9
-  lemme: marl
+  lemme: mar^{al}
   type: abreviation
   note: maréchal (des logis)
 - ligne: 9
@@ -63,9 +59,9 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autres lectures : Raucoule, Rancouleau'
 - ligne: 10
-  lemme: l'a
-  type: graphie
-  note: pour « lui a »
+  lemme: l. a
+  type: abreviation
+  note: lui a (ou lequel a)
 - ligne: 10
   lemme: renseig^{ts}
   type: abreviation
@@ -78,10 +74,6 @@ apparat:
   lemme: intpte
   type: abreviation
   note: interprète
-- ligne: 15
-  lemme: 1fc.
-  type: abreviation
-  note: '1~franc ; autre lecture : 1fr.'
 - ligne: 16
   lemme: wounded
   type: emprunt

@@ -151,3 +151,24 @@ audit:
   avant: Le verso de ce feuillet n'a pas été photographié
   apres: Le verso de ce feuillet (f. 6 vo) a bien été photographié, mais la page est restée blanche
   justification: Champ critique corrigé à la demande de l'éditeur, le verso photographié étant vierge.
+collation_2026_11:
+- ligne: 3
+  avant: Bientot, ts preparatifs terminés.
+  apres: Bientot, ts préparatifs terminés.
+  justification: Au zoom [0.01 0.07 0.65 0.25], un accent aigu/crochet très net et encré est tracé juste au-dessus du second « p » de « préparatifs », décalé d'une lettre à droite du « e » selon l'habitude constante de Combes (supprimé à tort lors d'une passe précédente).
+- ligne: 4
+  avant: Porte moi-=
+  apres: Porté moi-=
+  justification: Au zoom [0.01 0.07 0.65 0.25], un court accent aigu oblique est nettement posé au-dessus et légèrement à droite du « e » final de « Porté », bien détaché de la base du « t » de « Bientot » (l. 3).
+- ligne: 4
+  avant: en 3 voy. mes sacs
+  apres: en 3 voy., mes sacs
+  justification: Au zoom [0.01 0.07 0.65 0.25], après « voy » figurent successivement le point abréviatif à mi-hauteur (« . ») puis, plus à droite sur la ligne de base devant « mes » (nettement au-dessus de la barre de « s/ » de la l. 5), une virgule descendante bien formée (« , »).
+- ligne: 7
+  avant: Souffle vent à peine perceptible
+  apres: Souffle vent à peine perceptible.
+  justification: Au zoom [0.50 0.22 0.99 0.36], un point rond bien encré est posé sur la ligne de base à droite de « perceptible » (aucun « i » ne se trouve au-dessous à la l. 8 « les A.S.C. men »).
+- ligne: 20
+  avant: St Jans-Capel
+  apres: St Jans-Cappel
+  justification: À l'ultra-zoom [0.38 0.84 0.72 0.96], on distingue sans ambiguïté deux hampes descendantes parallèles et deux ponts successifs pour « pp » entre « Ca » et « el » (« St Jans-Cappel »).

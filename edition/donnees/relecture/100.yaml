@@ -153,3 +153,24 @@ audit:
   avant: '\equerre{1}\equerred{1}— Albert : solde : 88 \inc{fr} — 3 C^{tes} p^{les} : 30 c'
   apres: '\equerre{1}\equerred{1}— Albert : solde : 88 \inc{fr} – — 3 C^{tes} p^{les} : 30 c'
   justification: zoom ×3 [.36 .92 .62 1.0] — après le f, deux tirets séparés par un blanc, le premier court et fin, le second plus long et appuyé, puis le 3
+collation_2026_11:
+- ligne: 7
+  avant: coquet bourg au fond d'1 vallon —
+  apres: coquet bourg au fond d'1 vallon –
+  justification: Après « vallon » figure un tout petit tiret horizontal court « – » (~2 mm, exactement du même calibre que « Orville et Amplier – Sites » à la l. 8 et que les deux tirets courts de la l. 11), et non un tiret long « — » (comparer « matin — 1^{ère} neige » l. 22).
+- ligne: 11
+  avant: conférence s/ Russie – –
+  apres: conférence s/ Russie – – .
+  justification: À droite du second tiret court « – », en plein papier vierge sur le même alignement horizontal, est nettement posé un point rond d'encre noire « . » (même auréole d'encre que le point de l'i de « Russie » ; séquence « – . » conforme à la typographie du corpus aux cl. 043, 064, 075, 106, 109, 115, 118, 172 et 174).
+- ligne: 15
+  avant: \ind[2] aux 1^{ère} heures jour, très violente
+  apres: \ind[2] aux 1^{ere} heures jour, très violente
+  justification: Sous « Durant » (l. 14), le papier au-dessus de la finale suscrite « ere » de « 1^{ere} » est entièrement vierge de tout accent grave, par contraste flagrant avec « 1^{ère} neige, » à la l. 22 de la même page (/tmp/hc_bands/z_rem02_100_l22_25_detrempees_solde.jpg) qui porte un net accent grave au-dessus de « ere ».
+- ligne: 19
+  avant: déferlant s/ rochers av 1 bruit de tonnerre
+  apres: deferlant s/ rochers av 1 bruit de tonnerre
+  justification: 'Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u4_100_deferlant_solde.jpg), le montant vertical du second signe « + » de « de + en + » (l. 18) s''arrête nettement plus haut dans l''interligne, laissant un espace de papier entièrement blanc juste au-dessus du premier e entre la haste du d et la boucle du f de « deferlant » : aucun accent aigu n''y est tracé.'
+- ligne: 24
+  avant: Routes détrempées, vraies fondrières
+  apres: Routes detrempées, vraies fondrières
+  justification: Au zoom ×2.5 (/tmp/hc_bands/z_rem02_u4_100_deferlant_solde.jpg), le papier est parfaitement vierge au-dessus de « d-e » avant la haste barrée du t de « detrempées » (sous « mais peu » l. 23) ; seul l'accent aigu final sur « -ées » est tracé (la virgule après « detrempées, » est quant à elle bien confirmée sous la boucle descendante du f de « fondue » l. 23).

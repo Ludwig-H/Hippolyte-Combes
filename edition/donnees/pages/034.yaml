@@ -8,15 +8,15 @@ transcription: |
   \sl{2 S.} \hfill \sl{Sepbr /16}
   \ind[2] Matinée, ds les champs – Herbes
   couvertes de rosée mouillant souliers et \inc{l'eau}
-  arrive j-à la peau. Terre friable (\inc{boueuse}
+  arrive j-à la peau. Terre friable s'accroche
   aux semelles en fortes mottes.
   \ind ciel tout couvert de gros nuages – A
   l'horizon, pointent clochers villages voisins
   au sein futaies & boqueteaux — –
-  \ind Aprè-midi, entiert libre
+  \ind Aprè-midi, entier^{t} libre
   \blanc{1}
   \crochet{2}\ind[2] — Washing : 1^{f} \hfill — Varia : 10c
-  (1 shirt. 1 vest / 1 p. socks. 1 handk^{ch} )
+  (1 shirt, 1 vest 1 p. socks. 1 handk^{ch} )
   \filet
   \sl{3 Dim.} \hfill Malgré ciel menaçant,
   allé à pied j-à St-Pol.
@@ -26,7 +26,7 @@ transcription: |
   \ind A St-Pol, reposé lgs église – \add{avant & aprè} au \inc{repas}
   Parcouru plusis fois et lentement rues
   petite ville banale — –
-  Au Retour grosses nuées encre ciel – \add{annonçant} orage
+  Au Retour grosses nuées encre ciel – \add{annoncant} orage
   Rentré avant pluie —
 apparat:
 - ligne: 1
@@ -41,12 +41,8 @@ apparat:
   lemme: \inc{l'eau}
   type: lecture
   note: 'lecture incertaine ; autre lecture : « eau »'
-- ligne: 4
-  lemme: (\inc{boueuse}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : « bourrée »'
 - ligne: 9
-  lemme: entiert
+  lemme: entier^{t}
   type: abreviation
   note: entièrement
 - ligne: 11

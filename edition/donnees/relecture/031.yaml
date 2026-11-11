@@ -107,3 +107,12 @@ noms:
   personnes: []
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: derrière fermes et
+  apres: derrière ferme) et
+  justification: 'Après le délié horizontal final de « ferme » (au singulier, comme « derrière ferme Collet » en 038 l. 10), le grand arc courbe plongeant sous la ligne a son point d''attaque nettement au-dessus du mot et recoupe le délié final : c''est la parenthèse fermante ) refermant « (boqueteau » (l. 4), identique à celle de 034 l. 11, et non un -s final (aucun -s de la page ne descend sous la ligne).'
+- ligne: 8
+  avant: dû aller, champs
+  apres: dû aller champs
+  justification: 'Aucune virgule entre « aller » et « champs » : le trait oblique visible sous la ligne de base est uniquement le sommet de la haute hampe du f de « fourrage » (l. 9), continu d''un seul tenant.'

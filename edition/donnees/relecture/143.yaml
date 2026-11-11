@@ -162,3 +162,32 @@ noms:
     ligne: 16
     identite: Saint-Flour (Cantal)
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: 6^{h} –
+  apres: 6^{H} –
+  justification: H majuscule suscrit
+- ligne: 4
+  avant: après, dejeuner,
+  apres: après déjeuner,
+  justification: aucune virgule après « après » ; accent aigu sur « déjeuner »
+- ligne: 7
+  avant: 5^{h}33
+  apres: 5^{H}33
+  justification: H majuscule suscrit
+- ligne: 8
+  avant: intimite.
+  apres: intimité.
+  justification: accent aigu tracé sur « intimité »
+- ligne: 9
+  avant: 5^{h} s. Adieux, dechirants
+  apres: 5^{H} s. Adieux, déchirants
+  justification: H majuscule suscrit et accent aigu sur « déchirants »
+- ligne: 12
+  avant: 2 Cl.
+  apres: 2^{e} Cl.
+  justification: « e » suscrit après « 2 »
+- ligne: 13
+  avant: depart 6^{h} 15.
+  apres: départ 6^{H} 15.
+  justification: accent aigu sur « départ » et H majuscule suscrit

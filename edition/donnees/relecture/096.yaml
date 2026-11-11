@@ -139,3 +139,20 @@ noms:
     ligne: 13
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Novbre 1916}
+  apres: \sl{Nov^{bre} 1916}
+  justification: « bre » suscrit
+- ligne: 2
+  avant: \inc{Hughs}
+  apres: Hughes
+  justification: 'lecture certaine : « Hughes » avec boucle d''« e » avant « s »'
+- ligne: 14
+  avant: continue
+  apres: continué
+  justification: accent aigu tracé sur « continué »
+- ligne: 20
+  avant: etoiles,
+  apres: étoiles,
+  justification: accent aigu tracé sur « étoiles »

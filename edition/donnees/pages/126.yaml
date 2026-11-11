@@ -7,7 +7,7 @@ titre: Grand gel ; visite à M\textsuperscript{me} Cuisinier à Louvencourt ; pr
 transcription: |
   20 \sl{Sam.} \hfill — \sl{Janvier 1917} –
   \ind[3] Repos tout le jour.
-  Chambre ou office : lu \inc{à} toilette.
+  Chambre ou office : lu & toilette.
   Neige ne fond pas. Champs & toits
   encore tout blancs
   \ind Froid sec. Gelé très fortement
@@ -23,17 +23,13 @@ transcription: |
   après-midi, liberté. Commencé preparatifs
   départ
   \filet
-  \sl{23 Mardi} [ Hier & aujdhui liberté entière
+  \sl{23 Mardi} [ Hier & auj'dhui, liberté entière
   \ind[3] Hier, Cap^{ne} W, à Amiens — seul.
-  Tempér^{re} très basse, nuit & matinée, gelé très
+  Tempér^{re} très basse, nuit & matinée : gelé très
   fort. Vitres, complèt^{t} mates de glace
   Neige ne fond pas. \fr{1}{2} jour, très beau
   soleil. Neige etincelle sous ses rayons
 apparat:
-- ligne: 3
-  lemme: \inc{à}
-  type: lecture
-  note: lecture incertaine ; le sens appellerait « et »
 - ligne: 10
   lemme: Cuis^{r}
   type: abreviation
@@ -51,7 +47,7 @@ apparat:
   type: emprunt
   note: trois boîtes
 - ligne: 17
-  lemme: aujdhui
+  lemme: auj'dhui
   type: abreviation
   note: aujourd'hui
 - ligne: 18

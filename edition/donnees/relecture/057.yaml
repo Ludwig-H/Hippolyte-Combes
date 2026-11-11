@@ -201,3 +201,28 @@ noms:
     ligne: 19
     identite: cimetière de Terre-Cabade, Toulouse
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: Ste Marie
+  apres: S^{te} Marie
+  justification: finale « te » suscrite
+- ligne: 11
+  avant: étroit
+  apres: etroit
+  justification: aucun accent aigu sur « etroit »
+- ligne: 14
+  avant: clochers de village,
+  apres: clochers de villages,
+  justification: -s final tracé à « villages »
+- ligne: 17
+  avant: différents & très mélodieux
+  apres: differents & très melodieux
+  justification: aucun accent aigu sur « differents » ni sur « melodieux »
+- ligne: 22
+  avant: echangé
+  apres: échangé
+  justification: accent aigu tracé sur l'initiale de « échangé »
+- ligne: 23
+  avant: gd ami
+  apres: g^{d} ami
+  justification: d final suscrit

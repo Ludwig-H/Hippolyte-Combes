@@ -187,3 +187,8 @@ audit:
   avant: Mélancolie éparse à travers atmosphère
   apres: Melancolie éparse à travers atmosphère
   justification: 'zoom ×3 : M à long délié d''attaque, e en boucle, puis la haute boucle du l ; aucun accent au-dessus de l''e ni décalé sur la lettre suivante (le seul point est celui de l''i final) ; accent non restitué'
+collation_2026_11:
+- ligne: 13
+  avant: Après-midi,
+  apres: Apres-midi,
+  justification: aucun accent grave tracé au-dessus de « Apres-midi »

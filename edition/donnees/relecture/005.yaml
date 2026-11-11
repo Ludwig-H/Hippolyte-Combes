@@ -219,3 +219,12 @@ noms:
     ligne: 20
     identite: Lynde (Nord), à l'ouest d'Hazebrouck
 source: contrôle
+collation_2026_11:
+- ligne: 7
+  avant: 8^{h}
+  apres: 8^{H}
+  justification: H majuscule suscrit
+- ligne: 13
+  avant: perce
+  apres: percé
+  justification: accent aigu nettement tracé à droite du « e » final de « percé »

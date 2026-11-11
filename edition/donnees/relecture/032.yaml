@@ -183,3 +183,12 @@ noms:
     ligne: 18
     identite: Saint-Pol-sur-Ternoise (Pas-de-Calais)
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: Au départ, coupé
+  apres: Au depart, coupé
+  justification: Aucun accent aigu n'est tracé au-dessus du e de « depart » (papier vierge entre d et p, contrairement à « coupé » qui suit et à « départt » l. 19).
+- ligne: 8
+  avant: Au fond vallon, s'étend
+  apres: Au fond vallon s'étend
+  justification: 'Aucune virgule après « vallon » : l''espace entre le délié final de « vallon » et « s''étend » est entièrement blanc.'

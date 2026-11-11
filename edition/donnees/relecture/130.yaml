@@ -217,3 +217,16 @@ noms:
     ligne: 22
     identite: rue d'Armenonville, Neuilly-sur-Seine
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: Boilly, est prof. à Pont-à-Mousson),
+  apres: Boilly, est prof^{r} à Pont-à-Mousson),
+  justification: 'Au zoom ×4 (/tmp/hc_bands/z_rem04_130_comp.jpg), « prof » n''est suivi d''aucun point posé sur la ligne de base (contrairement aux quinze points ronds bas de la même page : « Sam. », « Lorraine. », « Y.M.C.A. », « Boulogne. », « Paris. », « arrivé. », « irrespirable. », « peu. », « Neuilly. », « Maillot. », « 5 m. », « luxueuse. », « g. »), mais d''un petit jambage vertical à crochet d''attaque perché à hauteur supérieure (« ^{r} » de contraction « prof^{r} » = « professeur », comparable à « F^{r} » cl. 120 l. 24 et « voy^{rs} » cl. 128 l. 22). Adapter en conséquence le lemme d''apparat de la l. 5.'
+- ligne: 8
+  avant: Entré à la Y.M.C.A. Hut, à côté gare
+  apres: Entré à la Y.M.C.A. Hut, à cote gare
+  justification: Au zoom ×4, d'une part aucun accent circonflexe ne figure sur le « o » (« c-o » n'est traversé que par le long jambage rectiligne descendant du « p » de « place » à la l. 7), et d'autre part une seule courte barre horizontale franchit le sommet de la haste du « t » sans second trait d'accent aigu sur la finale (comme « à cote de » au cl. 028 l. 3 ; même si l'on interprétait ce trait unique comme barre-accent fusionnée « coté », le circonflexe « ô » est absent du manuscrit).
+- ligne: 20
+  avant: 'Neuilly : Tuileries – Porte-Maillot.'
+  apres: Neuilly. Tuileries – Porte-Maillot.
+  justification: Un unique point rond à l'encre violette est posé sur la ligne de base à droite de « Neuilly » (exactement du même niveau et du même calibre que le point final de « Porte-Maillot. »), surmonté d'un espace entièrement vierge dépourvu de point supérieur de deux-points (la minuscule moucheture grise visible plus à gauche près du « y » appartient au grain du papier).

@@ -155,3 +155,28 @@ audit:
   avant: \sl{Octbr/16}
   apres: \sl{octbr/16}
   justification: 'initiale de module minuscule (zoom ×3 : o de même hauteur que c et r, nettement sous les hastes de t et b), comme mer- en tête de la même ligne'
+collation_2026_11:
+- ligne: 3
+  avant: Lentement preparé depart
+  apres: Lentement préparé depart
+  justification: Accent aigu appuyé en crochet juste au-dessus de la tête du second « p » (décalé à droite du premier « e », ductus habituel de Combes sur « -ép- », cf. « sépare » l. 20 et cl. 68 l. 15 « dépenses »), suivi du second accent sur « -ré » ; « depart » reste sans accent.
+- ligne: 5
+  avant: Venu gare, puis aux. Thermes
+  apres: Venu gare, puis aux Thermes
+  justification: La minuscule tache grisâtre terne sous le délié du « x » est une inclusion de la pâte à papier (identique aux mouchetures grises voisines de ce feuillet), et non un point d'encre violette.
+- ligne: 9
+  avant: Longs tete-a-tete très fort intimes.
+  apres: Longs tete-a-tete tres fort intimes.
+  justification: Aucun accent grave n'est tracé au-dessus de « tres » sur le manuscrit (reliquat de normalisation).
+- ligne: 14
+  avant: M^{te} voulu absolt m'accompagner gare
+  apres: M^{te} voulu absol^{t} m'accompagner gare
+  justification: Le « t » final barré est nettement perché en exposant au-dessus du sommet du « l », bien au-dessus de la ligne de base (adapter le lemme d'apparat « absolt » → « absol^{t} »).
+- ligne: 15
+  avant: \inc{Alle} – Gare – \inc{venu} – \ill \inc{puis}
+  apres: \inc{Allé} \inc{Entré} seul s/ \inc{quais}
+  justification: 'Au zoom ×5, toute la ligne se déchiffre : 1° « Allé » pâté suivi à hauteur d''accent de son aigu en crochet « ⊂ » (pris à tort pour un tiret) ; 2° « Entré » (majuscule « E » bouclée dont le bas croise le « h » de « choisi » l. 16 + « n-t-r-e » + accent aigu haut à droite, sans panse d''« a » pour « Gare ») ; 3° « seul » (« s-e-u » + « l » haut bouclé, et non « venu » ; le petit trait bas à droite est le point décalé de l''« i » de « coin » l. 16) ; 4° « s/ » (« sur », trait court épais suivi de la grande barre oblique « / », cf. cl. 68 l. 2) ; 5° « quais » (« q » pâté à hampe descendante + « u-a-i-s » avec point sur l''« i » et « s » haut final). Enchaînement limpide avec l. 14–17 (« Entré seul s/ quais & choisi coin ds 1 compartiment / Puis resorti salle d''attente ») ; mettre à jour l''apparat de la l. 15.'
+- ligne: 20
+  avant: \ind Enfin, dû ns separe, par
+  apres: \ind Enfin, dû ns sépare, par
+  justification: Accent aigu en crochet « ⊂ » très net juste au-dessus de la hampe du « p » de « sépare » (contrairement aux « p » nus de « par » l. 20 et « pour » l. 21), bien séparé de « cour » à la ligne supérieure (adapter le lemme d'apparat « separe » → « sépare »).

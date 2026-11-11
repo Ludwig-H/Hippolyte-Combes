@@ -136,3 +136,12 @@ noms:
     ligne: 14
     identite: Doullens (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: Région très boisée, extt pittoresque \trait
+  apres: Région très boisée, ext^{t} pittoresque \trait
+  justification: Le second « t » barré est nettement levé en exposant en haut à droite du premier « t » (cf. cl. 68 l. 12 et table des abréviations « ext^{t} »).
+- ligne: 7
+  avant: à Bernaville et \inc{visé} mon titre de
+  apres: à Bernaville et remis mon titre de
+  justification: 'Au zoom ×4, la lecture « remis » est certaine : « r » initial à grande boucle d''attaque fermée (Guide § 4, très différent du « v » de « venu » juste au-dessus l. 6), suivi de « e », « m » à trois jambages, « i » surmonté de son point-tiret décalé et « s » final droit descendant (ce qui explique l''absence de boucle d''« e » final). Formule réglementaire exacte (« remis mon titre de permission au bureau de la Mission Fse » ; adapter le titre de 067, supprimer la note d''apparat l. 7 et rectifier « fait viser » dans l''historique de 069).'

@@ -121,3 +121,24 @@ noms:
     ligne: 9
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{merc– 7 (fin)} \hfill \sl{Fevrier 1917}
+  apres: \sl{merc– 7 (fin)} \hfill \sl{Février 1917}
+  justification: Un grand accent aigu oblique, très appuyé et entièrement détaché de la barre supérieure du « F », surmonte directement l'« e » de « Février » (entre « F » et « v »), indépendamment du point de l'« i » visible plus à droite.
+- ligne: 4
+  avant: apres diner, retourné chambre vers 9^{H}
+  apres: après diner, retourné chambre vers 9^{H}
+  justification: Un net trait d'accent grave horizontal surmonte « -es » de « après » dans le blanc interlinéaire sous « tat » de « installation » (sans jambage descendant), identique de forme et d'encre à l'accent grave de « très » juste au-dessous à la l. 5.
+- ligne: 5
+  avant: très epaisse
+  apres: très épaisse
+  justification: Un net accent aigu oblique est tracé juste au-dessus du « p » de « épaisse » (décalage habituel vers la droite sur « ép- »), entièrement isolé dans le papier vierge sous « re » de « retourné » (la virgule de « diner, » est nettement plus à gauche, au-dessus de « très »).
+- ligne: 5
+  avant: gelée glacée
+  apres: gelée glacee
+  justification: Contrairement à « gelée » juste à gauche qui porte un grand accent appuyé au-dessus de « -ée », le papier au-dessus de « -cee » de « glacee » (entre « vers » et « 9^{H} » de la l. 4) est entièrement vierge de tout accent.
+- ligne: 17
+  avant: Soleil \inc{sur} mes fenetres
+  apres: Soleil \inc{sur} mes fenêtres
+  justification: 'Deux traits entièrement distincts surplombent « fenêtres » : 1° à gauche de la haste du « t », haut au-dessus du second « e », un accent circonflexe arqué/ondulé « ^ » (identique à ceux de « même » cl. 138 l. 2 et « pâle » cl. 146 l. 13) ; 2° plus bas et à droite de la haste du « t », au-dessus de « -res », la longue barre horizontale rectiligne du « t » (comparer a contrario « fenetre » au cl. 147 l. 19, qui ne porte que la seule barre du « t »).'

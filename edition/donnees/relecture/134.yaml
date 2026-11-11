@@ -161,3 +161,16 @@ noms:
     ligne: 19
     identite: Côte Pavée, quartier de Toulouse
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: gd feu
+  apres: g^{d} feu
+  justification: d suscrit
+- ligne: 19
+  avant: par Côte Pavée.
+  apres: p^{r} Côte Pavée.
+  justification: abréviation « p^{r} » avec r suscrit
+- ligne: 23
+  avant: p. Margte – 2^{f}25
+  apres: 'p. Marg^{te} : 2^{f}25'
+  justification: « te » suscrit suivi de deux-points

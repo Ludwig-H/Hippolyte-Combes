@@ -147,3 +147,36 @@ noms:
     identite: proche de la famille, arrivée par le train de 6 h
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Fev. '17}
+  apres: \sl{Fév. '17}
+  justification: accent aigu tracé sur « Fév. »
+- ligne: 5
+  avant: a 6^{h}15, cedant
+  apres: à 6^{H}15, cédant
+  justification: grave sur « à », H majuscule suscrit et aigu sur « cédant »
+- ligne: 6
+  avant: Therèse
+  apres: Thérèse
+  justification: accent aigu tracé sur le premier « e » de « Thérèse »
+- ligne: 7
+  avant: Temp très sec. Rue deserte.
+  apres: Temps très sec. Rues désertes.
+  justification: -s finaux tracés à « Temps », « Rues » et « désertes » (avec accent aigu)
+- ligne: 9
+  avant: 11^{h}30 – av Mimi, arrivée train 6^{h} –
+  apres: 11^{H}30 – av Mimi, arrivée train 6^{H} –
+  justification: H majuscules suscrits
+- ligne: 10
+  avant: 11^{h} \inc{40}.
+  apres: 11^{H} 50 ;
+  justification: H majuscule suscrit, chiffre « 50 » certain suivi d'un point-virgule
+- ligne: 15
+  avant: (Cf. Journal)
+  apres: (Cf. Journal,
+  justification: virgule en fin de ligne après « Journal »
+- ligne: 16
+  avant: \droite \sl{feuille} speciale)
+  apres: \droite \sl{feuille} spéciale)
+  justification: accent aigu tracé sur « spéciale »

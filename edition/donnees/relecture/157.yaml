@@ -199,3 +199,24 @@ audit:
   avant: coté office. Pièce très froide et surtout humide
   apres: coté office. Pièce très froide et surtout humide,
   justification: après humide, trait oblique descendant détaché, de la forme des virgules de la page (l. 4, l. 5) ; virgule omise
+collation_2026_11:
+- ligne: 9
+  avant: vers 7^{h}, déménagé
+  apres: vers 7^{H}, déménagé
+  justification: 'Deux petites hastes verticales parallèles en exposant après « 7 » : « H » majuscule suscrit (« 7^{H} », cf. GUIDE_PALEOGRAPHIQUE.md § 7 et « 9^{H} » à la l. 13), et non « h » minuscule.'
+- ligne: 14
+  avant: suis dévoué pour elle.
+  apres: suis devoué pour elle.
+  justification: Seul l'« e » final de « devoué » porte un accent (trait horizontal décalé à droite) ; au-dessus du premier « e » (entre la boucle du « d » et le « v », à gauche de la haste descendante du « 9 » de la l. 13), le papier est entièrement vierge. Reliquat de normalisation.
+- ligne: 18
+  avant: Impossible de m'y tenir, durant la
+  apres: Impossible de m'y tenir, dans la
+  justification: 'La comparaison directe au zoom ×5 avec « durant » (cl. 159 l. 9, terminé par une haute haste de « t » largement barrée) et « dans » deux lignes plus bas (cl. 157 l. 20 « dans notre office ») est décisive : le mot ne comporte ni « r », ni haste de « t », ni barre de « t », mais se lit trait pour trait « d » (en ∂) + « a » (panse ovale + jambage) + « n » (deux minimes) + « s » (crochet montant final) = « dans » (« Impossible de m''y tenir, dans la journée »).'
+- ligne: 21
+  avant: \ind Matin, à Pierregot,
+  apres: \ind matin, à Pierregot,
+  justification: L'« m » initial est tracé en trois petites arches basses égales au module des minuscules, identique à « matin » deux lignes plus haut (l. 19 « du matin au soir ») et au cl. 159 l. 7 (« \ind matin course »), sans la haute attaque des « M » majuscules de la page (« Matinée » l. 4, « Mais » l. 7 et 16, « Mardi » l. 15).
+- ligne: 24
+  avant: \ind Après-midi, liberté
+  apres: \ind Après-midi, liberte
+  justification: Seule l'épaisse barre horizontale du « t » se prolonge à droite ; l'interligne au-dessus de « -erte » (sous « -aticable » de la l. 23, sans jambage descendant) ne présente aucun accent aigu (même graphie sans accent qu'au cl. 156 l. 4 « liberte. »).

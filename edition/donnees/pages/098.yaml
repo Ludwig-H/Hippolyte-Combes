@@ -8,9 +8,9 @@ transcription: |
   \sl{Dim. 12.} \hfill \sl{Novembre 1916}
   \ind assz belle journée. Matin & soir, brouillard
   Routes mauvaises. Sol mou, pétri & sillons
-  profonds par les innombrables véhicules \add{lourds} qui
+  profonds par les innombrables vehicules \add{lourds} qui
   le labourent
-  \ind Matin, liberté complète –
+  \ind Matin, liberté complete –
   \ind Après-midi, Course en auto à Beauq\lac
   par Varennes & Contay. Brume s'est levée
   peu à peu. Paysage anglais. Arbre étriqués
@@ -20,17 +20,17 @@ transcription: |
   Casque peint khaki : 1^{f} —
   \filet
   \sl{14 Ma^{rdi}} — Tout hier, et principt matin, ainsi
-  \ind qu'auj'dhui, très fort bombardt — du
-  Côté de Beaumont Vu passer de x blessés
+  \ind qu'auj'dhui, très fort bombardt – du
+  Coté de Beaumont Vu passer de x blessés
   transportés s/ fourgons, \del{\inc{autos}} & cars —
   \ind Courses à Raincheval, Doullens et Frévent
-  Partis 8^{h} \fr{1}{2} m., rentrés 5^{h} soir.
+  Partis 8^{H} \fr{1}{2} m., rentres 5^{H} soir.
   ciel nuageux – pluie menacé tt le jour.
   A Doullens, grande foire
   \ind A Frévent, promené passim — Petite
   ville assz coquette belle église, \inc{catéchumènes} & un \inc{camion} —
   — Boutons simili cuir : 4^{f} 75 (10 \add{0.40} \inc{gd}, 3 \add{0.25} petit\lac
-  \crochet{2}Cartes ple : 40c – 1 50 et 10c
+  \crochet{2}Cartes ple : 40c. 1^{f} 50 et 10c
   Déjeuner à l'hôtel d'Amiens, ma part : 7 fr
 apparat:
 - ligne: 7
@@ -62,13 +62,13 @@ apparat:
   type: abreviation
   note: 'x : nombre indéterminé (« de nombreux »)'
 - ligne: 16
-  lemme: cars
-  type: emprunt
-  note: voitures automobiles (anglais cars)
-- ligne: 16
   lemme: \del{\inc{autos}}
   type: lecture
   note: lecture conjecturale sous une biffure très chargée
+- ligne: 16
+  lemme: cars
+  type: emprunt
+  note: voitures automobiles (anglais cars)
 - ligne: 22
   lemme: \inc{catéchumènes}
   type: lecture

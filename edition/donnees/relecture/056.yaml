@@ -195,3 +195,20 @@ noms:
     ligne: 18
     identite: rue d'Alsace-Lorraine, Toulouse
 source: contrôle
+collation_2026_11:
+- ligne: 4
+  avant: gde amie
+  apres: g^{de} amie
+  justification: finale « de » suscrite
+- ligne: 6
+  avant: Marché déjeuné
+  apres: Midi – déjeuné
+  justification: 'lecture certaine : « Midi – déjeuné » (et non « Marché »)'
+- ligne: 7
+  avant: réciproque
+  apres: reciproque
+  justification: aucun accent aigu sur « reciproque »
+- ligne: 21
+  avant: Remboursé à mes \inc{nièces}
+  apres: Remboursé à mes voisines
+  justification: 'lecture certaine : « voisines » (les dames Delsol, voisines du 22, rue de Languedoc, cf. f. 68 v°)'

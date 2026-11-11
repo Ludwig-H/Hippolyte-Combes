@@ -174,3 +174,48 @@ audit:
   avant: anti-aircraft battery.
   apres: anti-aircraft battery
   justification: aucun point après battery ; le y finit en long délié vers la droite, et le point voisin plus bas est celui du i de « lointains » (l. 22)
+collation_2026_11:
+- ligne: 1
+  avant: 21 \sl{Samedi}–.
+  apres: 21 \sl{Samedi}.
+  justification: point seul après « Samedi »
+- ligne: 2
+  avant: Avril \sl{1917} —
+  apres: \sl{Avril 1917} —
+  justification: « Avril 1917 » entièrement souligné
+- ligne: 4
+  avant: journee. temps doux.
+  apres: journée. Temps doux.
+  justification: accent aigu sur « journée » et T majuscule à « Temps »
+- ligne: 10
+  avant: entière.
+  apres: entiere.
+  justification: aucun accent grave sur « entiere »
+- ligne: 11
+  avant: 78^{f} 75^{c}
+  apres: 78^{f} 75 c
+  justification: « c » sur la ligne de base, non suscrit
+- ligne: 19
+  avant: Pierregot. —
+  apres: Pierregot. –
+  justification: tiret court après « Pierregot. »
+- ligne: 19
+  avant: \add{très intéressant}
+  apres: \add{(très interessant)}
+  justification: ajout interlinéaire entre parenthèses et sans accent sur « interessant »
+- ligne: 20
+  avant: liberté. Promenade agréable
+  apres: liberte. Promenade agreable
+  justification: aucun accent aigu sur « liberte » ni « agreable »
+- ligne: 22
+  avant: bleuâtres,
+  apres: bleuatres,
+  justification: aucun accent circonflexe sur « bleuatres »
+- ligne: 23
+  avant: rouillés —
+  apres: rouilles –
+  justification: aucun accent aigu sur « rouilles » et tiret court
+- ligne: 26
+  avant: côté
+  apres: coté
+  justification: aucun circonflexe sur « coté »

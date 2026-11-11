@@ -155,3 +155,12 @@ noms:
     ligne: 4
     identite: Louvencourt (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: Dois je
+  apres: Dois-je
+  justification: trait d'union tracé dans « Dois-je »
+- ligne: 12
+  avant: rasséréné
+  apres: rasseréné
+  justification: premier « e » sans accent aigu

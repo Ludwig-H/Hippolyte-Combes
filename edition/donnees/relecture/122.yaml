@@ -203,3 +203,24 @@ audit:
   avant: retour d'Authie & sur la route d'Arquèves,
   apres: retour d'Authie & sur la route d'Arqueves,
   justification: zoom ×3 [.6 .745 .95 .79] — aucun accent au-dessus ni à droite du e après qu ; le seul trait haut est l'apostrophe de d' ; graphie transcrite telle quelle, forme normalisée dans l'apparat
+collation_2026_11:
+- ligne: 2
+  avant: matinée
+  apres: matinée,
+  justification: virgule tracée après « matinée »
+- ligne: 9
+  avant: opticien
+  apres: opticien,
+  justification: virgule tracée après « opticien »
+- ligne: 10
+  avant: réparatn pince-nez et pour,
+  apres: réparat^{on} pince-nez et pour
+  justification: « on » suscrit ; aucune virgule après « pour »
+- ligne: 22
+  avant: dejeuné
+  apres: déjeuné
+  justification: premier accent aigu tracé sur « déjeuné »
+- ligne: 25
+  avant: 6^{h},
+  apres: 6^{H},
+  justification: H majuscule suscrit

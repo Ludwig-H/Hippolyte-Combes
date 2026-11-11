@@ -111,3 +111,12 @@ noms:
     ligne: 5
     identite: Doullens (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: (espéré \add{il y \inc{en}} à 10^{H}\inc{45}
+  apres: (espéré \add{il y \inc{en} 1} à 10^{H}5
+  justification: Le bâton vertical épais au-dessus de « ^{H} » appartient par son encre foncée et son alignement horizontal exact à l'ajout interlinéaire « il y en 1 » (= « [qu']il y en [eût] 1 [train] »), tandis que sur la ligne principale, d'une encre plus claire de premier jet, l'heure est simplement « 10^{H}5 » (10 h 05) sans chiffre « 4 » (mettre à jour l'apparat de la l. 1).
+- ligne: 7
+  avant: '\add{Paris} Métro : 15c, 15 c'
+  apres: '\add{Paris} Métro : 15c 15 c'
+  justification: 'Papier entièrement vierge entre « 15c » et « 15 c » : aucune virgule n''est tracée sur le manuscrit (à la différence des virgules très nettes de la l. 8 juste au-dessous).'

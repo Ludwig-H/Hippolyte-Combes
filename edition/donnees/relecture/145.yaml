@@ -140,3 +140,16 @@ audit:
   avant: 2^{e} cl.
   apres: 2\inc{e} cl.
   justification: 'zoom x3 [.56 .43 .74 .535] : la boucle prise pour un e suscrit prolonge sans levée de plume le z de « assez » (l. 11) ; après le 2 restent une haste montante à crochet de tête et une petite courbe ouverte à hauteur d''œil, non suscrite, lue e sous réserve, puis c et l bouclé'
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Fev. '17}
+  apres: \sl{Févr. '17}
+  justification: accent aigu et « r » présents dans « Févr. »
+- ligne: 7
+  avant: L'obscurite
+  apres: L'obscurité
+  justification: accent aigu tracé sur « L'obscurité »
+- ligne: 12
+  avant: 2\inc{e} cl., un \inc{tas de}
+  apres: En 1^{e} cl., av bp de
+  justification: 'lecture certaine : « En 1^{e} cl., av bp de » (en première classe, avec beaucoup de)'

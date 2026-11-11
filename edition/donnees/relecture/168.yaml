@@ -162,3 +162,28 @@ audit:
   avant: au Mesnil. \inc{Avait}
   apres: au Mesnil, \inc{Avait}
   justification: après Mesnil, trait vertical court identique à la virgule après « fils » et « tea » ; aucun point rond
+collation_2026_11:
+- ligne: 5
+  avant: en pleine fange —
+  apres: en pleine fange \trait
+  justification: En fin d'alinéa, la boucle du « e » final de « fange » se prolonge directement sans levée de plume en un trait horizontal épaissi en massue, identique au tracé codé « \trait » à la l. 20 du même feuillet (« nuages \trait ») ainsi qu'au cl. 167 l. 3 (« étude \trait ») et l. 5 (« brume \trait »), par opposition aux vrais tirets détachés après ponctuation (« Liberté entière. – » l. 7, « \sl{Mercredi 14.} — » l. 10).
+- ligne: 7
+  avant: Herissart. Liberté entière. –
+  apres: Hérissart. Liberté entière. –
+  justification: Un accent aigu oblique net est tracé à l'encre violette au-dessus de « -er- » dans « Hérissart » (sous « Mon » l. 6 dépourvu de tout jambage descendant), bien distinct du point du « i » situé plus à droite au-dessus de « -ss- » (contrairement aux occurrences réellement non accentuées de « Herissart » aux cl. 160 l. 15, 167 l. 6 et 169 l. 12).
+- ligne: 8
+  avant: \ind Après tea, visite à M. & Mme Flutre, instituteurs,
+  apres: \ind Après tea, visite à M. & M^{me} Flutre, instituteurs,
+  justification: La terminaison « me » est nettement inscrite en exposant en haut à droite du « M » au-dessus d'un petit trait horizontal de support (« M^{me} », sans balisage \sl{} conformément à la convention de l'édition), tout comme « Norm^{le} Sup^{re} » à la ligne suivante.
+- ligne: 12
+  avant: Rues & routes detrempées, boue epaisse.
+  apres: Rues & routes detrempées, boue épaisse.
+  justification: Un fort accent aigu incurvé à l'encre violette est posé juste au-dessus du « e » initial de « épaisse », dans un espace interlinéaire blanc sous « persistante » (par contraste net avec « boue epaisse. » à la l. 25, /tmp/hc_bands/z_rem07_168_b_acheux.jpg, où aucun accent n'est tracé).
+- ligne: 13
+  avant: Deménagé office et mess au billet 216,
+  apres: Déménagé office et mess au billet 216,
+  justification: 'Les trois accents aigus de « Déménagé » sont tous effectivement tracés sur le manuscrit : 1° un premier accent aigu oblique à droite du « D » au-dessus du premier « e » (nettement séparé du « D » à gauche comme de la boucle inférieure de l''esperluette « & » de la l. 12 à droite), 2° un deuxième au-dessus de « -mén- », 3° un troisième à droite de « -gé ».'
+- ligne: 18
+  avant: de ferme en ferme, à propos de paille.
+  apres: de ferme en ferme, à propos de paille
+  justification: 'Aucun point final ne suit « paille » : le « e » final s''étire en un délié horizontal jusqu''au bord droit du feuillet sans la moindre ponctuation.'

@@ -6,30 +6,30 @@ lieux: Acheux-en-Amiénois, Belle-Église (Arquèves), Hérissart, Rubempré et 
 titre: Pétrole à Belle-Église, fourrage à Coisy ; regret de la 152\textsuperscript{nd} Company ; convois
 transcription: |
   \sl{Lundi 6} \hfill \sl{Nov. /16}
-  \ind Tt le jour, rafales & averses
+  \ind Tt le jour, rafales & averses.
   Matinée, venu à pied & s/ 1 lorry j-à Arqueves,
   ferme de Belle Eglise, pour 1 question de petrole
   Après-midi, longue randonnée en auto
-  à Coisy, par Herissart, Rubempré etc.
-  Achat de paille et foin \hfill Partis vers 1^{h} \fr{1}{2}
-  rentrés seulement \inc{vers} 6 h \hfill giboulées
+  à Coisy, par Hérissart, Rubempré etc.
+  Achat de paille et foin \hfill Partis vers 1^{H} \fr{1}{2}
+  rentrés seulement \inc{vers} 6^{H}. \hfill giboulées
   tour à tour, région de plaines et de petites
   collines, avec bois dont les arbres, teintés
   de rouille, orange et \inc{or} — et allées
   jaunies par jonchées de feuilles mortes \trait
   \ind Regrette d'avoir quitté 152 Coy. \hfill Cherche
-  moyen de ne pas quitter 18^{ie} divon & ma Coy
+  moyen de ne pas quitter 18^{th} div^{on} & ma Coy
   \blanc{1}
   \sl{mardi 7}
   \ind[2] Pluie durant partie journée.
   Routes boueuses pleines de trous & ornières profonde
   ni matin, ni soir, rien à faire.
   Après-midi, essayé d'aller Albert : fatigué
-  d'attendre lorry renoncé partir et rentré \inc{à} billet.
+  d'attendre lorry renoncé partir et rentré billet.
   \ind De la fenêtre de ma chambre, mouvements
-  rue (route de \inc{Lealvillo} ( ). Flot presque ininterrompu
+  rue (route de \inc{Lealvillers}). Flot presque ininterrompu
   de véhicules de ttes sortes : lorries, wagons, caissons
-  de munitions d'artrie. Et défilé incessant
+  de munitions d'artrie. Et defilé incessant
   de troupes allant au repos ou se rendant firing line
 apparat:
 - ligne: 8
@@ -45,19 +45,15 @@ apparat:
   type: abreviation
   note: 152\textsuperscript{nd} Company (A.S.C.), l'ancienne compagnie d'Hippolyte Combes
 - ligne: 14
-  lemme: 18^{ie}
-  type: abreviation
-  note: dix-huitième (suscrit lu ie, peut-être simple e)
+  lemme: 18^{th}
+  type: emprunt
+  note: '18\textsuperscript{th} : 18\textsuperscript{e}'
 - ligne: 14
-  lemme: divon
+  lemme: div^{on}
   type: abreviation
   note: division
-- ligne: 20
-  lemme: \inc{à}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : &'
 - ligne: 22
-  lemme: \inc{Lealvillo} ( )
+  lemme: \inc{Lealvillers}
   type: lecture
   note: lecture incertaine ; pour Léalvillers
 - ligne: 24

@@ -151,3 +151,44 @@ audit:
   avant: à Puchevillers.
   apres: à Puchevillers
   justification: le mot finit au bord droit de la page sur un délié ; aucun point visible
+collation_2026_11:
+- ligne: 5
+  avant: Mission F^{r}. Reposé église du village, ql. mnts
+  apres: Mission F^{r}. Reposé eglise du village, ql. mnts
+  justification: 'Aucun accent aigu n''est tracé sur « eglise » : le papier est entièrement vierge au-dessus de « e-g » (sous le blanc séparant « pied » et « à » à la l. 4), l''accent aigu de « Reposé » s''arrêtant nettement à gauche avant l''intervalle inter-mots ; même graphie sans accent « eglise » au cl. 176 l. 18 (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_170_b_l5_9_dr.jpg, où le circonflexe de « prône » l. 6 est en revanche confirmé).'
+- ligne: 9
+  avant: auto Tjours aux workshops, en réparation.
+  apres: auto Tjours aux workshops, en reparation.
+  justification: 'Aucun accent aigu sur « reparation. » : au-dessus de « r-e » ne descend que la hampe verticale du « p » de « pied » (l. 8), et le papier est entièrement vierge au-dessus de « e-p-a » ; seul le point de l''« i » figure à droite au-dessus de « -on » (reliquat de normalisation ; vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_170_b_l5_9_dr.jpg).'
+- ligne: 11
+  avant: champs labourés ou ensemencés & \inc{à}
+  apres: champs labourés ou ensemences & \inc{à}
+  justification: 'Contrairement à « labourés » qui porte un net trait d''accent au-dessus du « s » final, « ensemences » ne présente aucun accent au-dessus de « -c-e-s » : le « s » final remonte en grand trait oblique sous le blanc séparant « vue » et « panoramique » (l. 10), avec un espace supérieur entièrement vierge (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_170_z1_ensemences_legeres.jpg).'
+- ligne: 12
+  avant: l'horizon lointain, légères ondulations de
+  apres: l'horizon lointain, legères ondulations de
+  justification: Entre la boucle du « l » et le « g » de « legères », le papier est entièrement vierge (aucun accent aigu sur le premier « e »), tandis que l'accent grave en barre horizontale au-dessus de « -ères » est très appuyé (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_170_z1_ensemences_legeres.jpg).
+- ligne: 16
+  avant: '\crochet{2}A Toutencourt : solde : 82^{f}. —'
+  apres: '\crochet{2}A Toutencourt : solde – – : 82^{f}. —'
+  justification: 'Entre « solde » et « : 82^{f}. — », deux tirets horizontaux de conduite « – – » sont nettement tracés à mi-hauteur au-dessus de « W » et de « s-h » de « Washing » (l. 17), bien distincts du petit point rond de l''« i » de « Washing » plus à droite ; ponctuation de compte identique aux cl. 068 l. 18 et cl. 113 l. 12 (« Carte : christmas - - : 70c. ») (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_170_z2_solde_washing.jpg).'
+- ligne: 17
+  avant: 'carte ples : 25c. — \hfill Washing : 80c —'
+  apres: 'carte ples : 25c. — \hfill Washing : 80c \trait'
+  justification: À la différence des tirets nettement détachés après levée de plume dans « 82^{f}. — » (l. 16) et « 25c. — » (l. 17 gauche), le délié inférieur du « c » de « 80c » s'étire directement sans aucune levée de plume en un long trait horizontal de remplissage jusqu'à la marge droite (même balisage « \trait » en fin de ligne de compte aux cl. 016, 028 et 041 ; vérifié dans /tmp/hc_bands/z_rem08_170_z2_solde_washing.jpg).
+- ligne: 20
+  avant: \ind Après-midi, venu à pied avec off. à Puchevillers
+  apres: \ind Après-midi, venu à pied avec off^{r} à Puchevillers
+  justification: Aucun point abréviatif bas ne figure après « off » (contrairement à « par off. 63^{rd} » l. 23) ; en revanche, à hauteur d'exposant immédiatement à droite de la boucle supérieure du second « f », Hippolyte Combes a tracé son petit « r » suscrit en crochet (« 7 »), identique trait pour trait à « off^{r} » au cl. 166 l. 16 (/tmp/hc_bands/z_rem08_ref_166_offr.jpg) et à la l. 26 ci-dessous (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_170_z4_off_travers.jpg).
+- ligne: 21
+  avant: Suivi même route qu'à l'ord^{re}, à travers champs
+  apres: Suivi même route qu'à l'ord^{re}, a travers champs
+  justification: Alors que « qu'à » porte un fort trait d'accent juste au-dessus de « a », la préposition « a » de « a travers » (dont la panse est recoupée à gauche par la pointe inférieure du second « f » de « off^{r} » l. 20) présente un espace interlinéaire entièrement vierge au-dessus de « a » et de « tr- » ; le trait d'accent situé beaucoup plus haut sur la l. 20 appartient au « à » de « à Puchevillers » (vérifié dans /tmp/hc_bands/z_rem08_170_z4_off_travers.jpg).
+- ligne: 25
+  avant: tranchées, Miraumont, Achiet-le-P^{t}. Fait parler ces
+  apres: tranchées, Miraumont, Achiet-le-P^{t}. Fait parler clerk
+  justification: 'Lecture paléographique certaine établie au zoom ×5 (/tmp/hc_bands/z_rem08_ref_170_l25r.jpg) par confrontation directe avec « du clerk. » aux cl. 097 l. 4 (/tmp/hc_bands/z_rem08_ref_097_clerk.jpg) et cl. 103 l. 8 (/tmp/hc_bands/z_rem08_ref_103_clerk.jpg) : attaque en « c » ouvert montant immédiatement en haute boucle de « l », suivie de « e », de « r » et de la haute haste bouclée de « k » à nœud médian et pied rejeté à droite — tracé à deux hautes hampes incompatible avec le démonstratif « ces » (trois petites lettres basses sans hampes, cf. « Ces » l. 14).'
+- ligne: 26
+  avant: 2 offs, qui m'ont donné renseigts très intéressants
+  apres: '& off.^{r}, qui m''ont donné renseigts très intéressants'
+  justification: 'Au zoom ×5 (/tmp/hc_bands/z_rem08_ref_170_l26l.jpg), le premier signe n''est pas le chiffre « 2 » (comparer la base plate horizontale de « 1 des 2 lits » l. 23), mais l''esperluette « & » en boucle haute fermée redescendant à la ligne avec pied relevé à droite (même ductus qu''aux cl. 178 l. 4/11 et cl. 180 l. 5), suivie de « off », d''un point bas sur la ligne et du « r » suscrit en « 7 » identique au cl. 166 l. 16 (/tmp/hc_bands/z_rem08_ref_166_offr.jpg), puis de la virgule. Cette lecture conjointe des l. 25–26 (« Fait parler clerk / & off.^{r}, qui m''ont donné… ») résout l''incohérence grammaticale du texte édité avec le singulier des l. 23–24 (« par off. 63^{rd} div., naval div., de passage. Son rég^{t}… ») : un unique officier de passage et un commis (« clerk ») forment le sujet pluriel de « qui m''ont donné ».'

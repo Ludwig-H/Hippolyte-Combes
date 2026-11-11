@@ -148,3 +148,24 @@ noms:
     ligne: 13
     identite: Grands Magasins du Louvre, rue de Rivoli, Paris
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: A 8^{h} m., gare d'Orsay \trait
+  apres: A 8^{H} m., gare d'Orsay \trait
+  justification: 'Deux montants parallèles reliés par une traverse médiane : « H » majuscule en exposant (et non « h » minuscule).'
+- ligne: 15
+  avant: \inc{Correspce} – et écrit 2 lettres \trait
+  apres: \inc{Correspce} – et ecrit 2 lettres \trait
+  justification: 'Aucun accent sur l''« e » initial d''« ecrit » : le seul signe au-dessus du mot est le point de l''« i », suivi de la barre du « t ».'
+- ligne: 16
+  avant: Pluie cesse. Soleil \add{commence} brille, 1 peu
+  apres: Pluie cesse. Soleil \add{commence} briller 1 peu
+  justification: 'Le trait vertical épais après « brille » est posé exactement sur la ligne de base à hauteur d''œil (sans queue descendante de virgule) et tracé de la même encre sombre réencrée que l''ajout interlinéaire « commence » et les retouches sur « Soleil » et « b- » : en insérant « commence », Combes a ajouté un « r » final détaché pour former l''infinitif « briller » (supprimer ou rectifier la note d''apparat l. 16 « sans correction de "brille" »).'
+- ligne: 19
+  avant: \add{par} metro
+  apres: \add{par} métro
+  justification: Accent aigu en crochet « ◡ » au-dessus de « e » touchant le haut gauche de la hampe du « t », bien distinct de la barre horizontale plus basse du « t » qui recoupe la boucle du « j » de « dejeuner ».
+- ligne: 19
+  avant: a gare du Nord
+  apres: à gare du Nord
+  justification: Grand accent grave oblique très appuyé décalé à droite de « a », flottant au-dessus de « ga- » de « gare » sous l'espace blanc entre « dejeuner » et « restaurant » (l. 18).

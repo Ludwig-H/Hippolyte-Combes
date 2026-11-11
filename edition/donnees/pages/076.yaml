@@ -16,10 +16,10 @@ transcription: |
   Sensations nouvelles bivouac jour et nuit constant –
   Levé vers 6^{H} m. Au ciel bleu pâle, \fr{1}{2} lune argent
   Grande animation ds tt le camp
-  Regiments d'infrie, partis d'abord –
+  Régiments d'inf^{rie}, partis d'abord –
   En route, à 10^{H} m –
-  Routes tjs encombrées et sillonnées convoi de tte
-  sorte
+  Routes tjs encombrées et sillonnées convoi de ttes
+  sortes
 apparat:
 - ligne: 2
   lemme: room
@@ -30,7 +30,7 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : 5 c'
 - ligne: 10
-  lemme: infrie
+  lemme: inf^{rie}
   type: abreviation
   note: infanterie
 critique: Page écrite en travers du carnet. Le récit du mardi 17 se poursuit f.~39~r\textsuperscript{o}.

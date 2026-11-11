@@ -130,3 +130,28 @@ noms:
     ligne: 18
     identite: Beaucourt-sur-l'Hallue (Somme), probable
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: Fevrier \sl{1917} –
+  apres: \sl{Février 1917} –
+  justification: « Février 1917 » entièrement souligné avec accent aigu
+- ligne: 10
+  avant: nuit ext belle, mervt etoilée.
+  apres: nuit ext^{t} belle, merv^{t} étoilée.
+  justification: « t » suscrits à « ext^{t} » et « merv^{t} », accent aigu sur « étoilée »
+- ligne: 13
+  avant: reveil,
+  apres: réveil,
+  justification: accent aigu tracé sur « réveil »
+- ligne: 17
+  avant: en auto, \inc{Resté}
+  apres: en auto. Resté
+  justification: point après « auto » et « Resté » certain
+- ligne: 20
+  avant: nuageux Pluie
+  apres: nuageux. Pluie
+  justification: point tracé après « nuageux »
+- ligne: 21
+  avant: entière
+  apres: entiere
+  justification: aucun accent grave sur « entiere »

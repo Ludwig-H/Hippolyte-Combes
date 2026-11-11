@@ -121,3 +121,28 @@ audit:
   avant: obscur & boueux hameau, où ns avons été
   apres: obscur & boueux hameau, ou ns avons été
   justification: 'Zoom ×3 : o et u nets, aucun accent ni tiret au-dessus du mot ni de « ns » qui suit (zone dégagée) ; accent restitué par la lecture publiée.'
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Sept 1916}
+  apres: \sl{Sept^{bre} 1916}
+  justification: Après S-e-p-t, la finale contractée ^{bre} (boucle de b + r + délié) est nettement tracée en exposant entre la haste du t et « 1916 », traversée par la longue barre du t (même graphie qu'en 033 l. 1).
+- ligne: 7
+  avant: 'paquets : Ts'
+  apres: paquets . Ts
+  justification: 'Un seul point rond bas après « paquets » ; aucun point supérieur de deux-points (comparer les deux-points nets de « nouvelle : » l. 13 et « Fr.^{se} : » / « indemnité : » l. 21).'
+- ligne: 7
+  avant: terminés à 5 1/2
+  apres: terminés à 5^{H} 1/2
+  justification: 'Entre le chiffre 5 et la fraction 1/2 est nettement suscrit un petit ^{H} à deux hastes parallèles (aspect 11/lt décrit au guide § 7 : on compte trois hastes hautes avant /2, les deux de ^{H} puis le 1 de 1/2).'
+- ligne: 9
+  avant: ns avons été
+  apres: ns avons eté
+  justification: Aucun accent sur le premier e de « eté » (blanc complet sous « cet »), tandis que le t a sa courte barre et que le e final est surmonté de son accent aigu couché.
+- ligne: 14
+  avant: ici, hélas!
+  apres: ici, helas!
+  justification: Aucun accent entre les hampes de h et l sur « helas! ».
+- ligne: 18
+  avant: menaçantes, venu
+  apres: menacantes, venu
+  justification: Aucune cédille sous le c de « menacantes » (espace inférieur entièrement vierge).

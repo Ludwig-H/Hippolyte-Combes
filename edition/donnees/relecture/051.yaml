@@ -111,3 +111,20 @@ noms:
     ligne: 17
     identite: Creil (Oise)
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: qq nuages, nettement détachés.
+  apres: qq saucisses, nettement detachées.
+  justification: 'lecture certaine : « qq saucisses, nettement detachées. » (ballons captifs d''observation)'
+- ligne: 5
+  avant: légère
+  apres: legère
+  justification: premier « e » sans accent aigu
+- ligne: 6
+  avant: étincelantes
+  apres: etincelantes
+  justification: initiale sans accent aigu
+- ligne: 15
+  avant: Ciel fouillé.
+  apres: Ciel fouillé
+  justification: aucun point final après « fouillé »

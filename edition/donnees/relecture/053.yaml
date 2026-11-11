@@ -228,3 +228,20 @@ audit:
   avant: 'Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 couronne'
   apres: 'Fleurs artif^{lles}, Hotel de Ville : 8^{f}50 couronne \trait'
   justification: après couronne, long trait horizontal double, d'encre plus claire, tiré vers la droite sur environ un dixième de la largeur (zoom [.35 .83 1.0 .87]) ; trait de remplissage, non une lettre
+collation_2026_11:
+- ligne: 12
+  avant: (\inc{Therese})
+  apres: (Ste \inc{Therese})
+  justification: « Ste » précède « Therese » dans la parenthèse
+- ligne: 15
+  avant: Lorgueil
+  apres: L'orgueil
+  justification: apostrophe tracée après « L »
+- ligne: 16
+  avant: Maeterlinck
+  apres: Maeterlink
+  justification: écrit « Maeterlink » sans « c »
+- ligne: 18
+  avant: 8^{f}50 couronne
+  apres: 8^{f}50 & couronne
+  justification: esperluette « & » tracée entre « 8^{f}50 » et « couronne »

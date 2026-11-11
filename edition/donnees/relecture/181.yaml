@@ -152,3 +152,40 @@ noms:
     ligne: 17
     identite: Ribemont-sur-Ancre (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: état
+  apres: etat
+  justification: aucun accent aigu sur « etat »
+- ligne: 5
+  avant: \sl{19 Jeudi} Tout le jour, ciel couvert. Qq averses.
+  apres: \sl{19 Jeudi}. / \ind Tout le jour, ciel couvert. Qq averses.
+  justification: « 19 Jeudi. » occupe seul une ligne au-dessus de « Tout le jour… » en retrait
+- ligne: 8
+  avant: Après-midi, courses en auto. Bresle, Lavieville,
+  apres: Apres-midi, courses en auto. Bresle, Laviéville,
+  justification: pas d'accent grave sur « Apres-midi » ; accent aigu sur « Laviéville »
+- ligne: 9
+  avant: Henencourt,
+  apres: Hénencourt,
+  justification: accent aigu tracé sur « Hénencourt »
+- ligne: 10
+  avant: 1ers
+  apres: 1^{ers}
+  justification: finale « ers » suscrite
+- ligne: 16
+  avant: Matinée,
+  apres: \ind Matinée,
+  justification: alinéa en retrait à « Matinée, »
+- ligne: 17
+  avant: Henencourt
+  apres: Hénencourt
+  justification: accent aigu tracé sur « Hénencourt »
+- ligne: 20
+  avant: australiens, à dégager
+  apres: australiens a dégager
+  justification: ni virgule après « australiens » ni accent grave sur « a »
+- ligne: 21
+  avant: Colart—
+  apres: Colart –
+  justification: espace et tiret court après « Colart »

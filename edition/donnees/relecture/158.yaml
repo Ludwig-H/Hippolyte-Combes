@@ -207,3 +207,36 @@ audit:
   avant: \sl{22 Jeudi} – Journée
   apres: 22 \sl{Jeudi} – Journée
   justification: Le trait commence sous le jambage du J et finit après le i ; « 22 », à gauche, n'est pas souligné (zoom ×3 0 .58 .45 .64).
+collation_2026_11:
+- ligne: 1
+  avant: \sl{21 Merc.} Temps nuageux
+  apres: 21 \sl{Merc.} Temps nuageux
+  justification: 'Le trait de soulignement commence sous le premier jambage du « M » de « Merc. » et s''arrête sous le point ; le quantième « 21 » à gauche n''est pas souligné (disposition identique à « 22 \sl{Jeudi} » à la l. 17 de la même page ; cf. GUIDE_PALEOGRAPHIQUE.md § 3 : ne souligner que ce que le trait couvre).'
+- ligne: 2
+  avant: Brume pénétrante Bruine
+  apres: Brume penetrante Bruine
+  justification: 'Aucun des deux « e » de « penetrante » ne porte d''accent : le papier au-dessus de « p-e-n » est entièrement blanc, et au-dessus de « -et- » ne figurent que la haste descendante du « p » de « Temps » (l. 1) et la barre horizontale du « t » (même graphie sans accent que « penetrant » au cl. 150 l. 14). Reliquat de normalisation.'
+- ligne: 4
+  avant: fondrières véritables Très
+  apres: fondrières veritables Très
+  justification: Au zoom ×5, « veritables » ne porte que le point rond sur l'« i » et la barre du « t » ; au-dessus de l'« e » initial descend uniquement la boucle inférieure continue du « g » de « Degel » (l. 3), sans aucun accent aigu. Reliquat de normalisation.
+- ligne: 7
+  avant: brouillard et pluie \inc{rendent} paysages banals
+  apres: brouillard et pluie, \inc{rendent} paysages banals
+  justification: Au zoom ×5, une virgule oblique nette à l'encre violette est posée sur la ligne de base immédiatement après « pluie » et descend sous la ligne, entièrement séparée de « campagne » (l. 6) comme de « Doullens, à » (l. 8) ; ponctuation sujet-verbe usuelle chez Combes (cf. « Degel, transformé » à la l. 3 de la même page).
+- ligne: 13
+  avant: 'A Doullens : 2 oeufs & café : 1^{f} —'
+  apres: 'A Doullens : 2 oeufs & café : 1^{f}. –'
+  justification: 'Sous le « ^{f} » suscrit, à droite du pied du « 1 », un point rond net est posé sur la ligne avant le tiret court « – » tracé un peu plus bas au-dessus du « 0 » de « 0^{f}80 » (la relecture antérieure notait d''ailleurs dans ses difficultés : « Le tiret au-dessus du 0 (précédé d''un point) termine la l. 13 », tout en omettant le point dans la transcription ; même séquence « 1^{f}. – » au cl. 179 l. 13).'
+- ligne: 15
+  avant: Après-midi, à Herissart village à peu
+  apres: Après-midi, à Hérissart village à peu
+  justification: Au zoom ×5, les deux hastes et la traverse de l'« H » s'arrêtent nettement, et un accent aigu oblique « / » bien détaché à l'encre violette flotte dans le blanc juste au-dessus de l'« e » (sous « de » de la l. 14, dépourvu de jambage descendant), à la différence de « Herissart » sans accent aux cl. 156 l. 22 et 157 l. 25.
+- ligne: 23
+  avant: \ind Matinée, à Molliens-au-Bois, pour trouver
+  apres: \ind matinee, à Molliens-au-Bois, pour trouver
+  justification: 'Au zoom ×5 : 1° l''« m » initial est formé de trois minimes basses égales au module minuscule (comparer les majuscules à haute attaque de « Molliens » sur la même ligne, « Matin » l. 18 et « Montigny » l. 25) ; 2° seule la barre du « t » couvre « -ti- », tandis que l''espace sous le soulignement de « 23 Vendredi » au-dessus de « -nee » ne comporte aucun accent (cf. 3 occurrences de « matinee » dans le corpus).'
+- ligne: 26
+  avant: \ind Après-midi, liberté. Resté office et
+  apres: \ind Après-midi liberté. Resté office et
+  justification: 'Aucune virgule n''est tracée à la l. 26 entre « Après-midi » et « liberté. » : au zoom ×5, le papier après « -di » est entièrement blanc et seul le grand jambage bouclé descendant du « y » de « Montigny » (l. 25) traverse cet intervalle.'

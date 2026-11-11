@@ -166,3 +166,12 @@ audit:
   avant: à cheval, \inc{&} cette fois sur un bon poney.
   apres: à cheval, \inc{&} cette fois sur un bon pony.
   justification: 'zoom ×4 : p à longue haste, o fermé, n à deux arches, puis directement la tête en V ouvert du y ; aucune boucle de e entre n et y : mot anglais pony (traduction ajoutée à l''apparat)'
+collation_2026_11:
+- ligne: 1
+  avant: Aout
+  apres: Août
+  justification: accent circonflexe tracé sur « Août »
+- ligne: 21
+  avant: sur \inc{1} bon pony.
+  apres: sur mon pony.
+  justification: 'lecture certaine : « sur mon pony. » (trois jambages de « m », « o », « n », sans « bon »)'

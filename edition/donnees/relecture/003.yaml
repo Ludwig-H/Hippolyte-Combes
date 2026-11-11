@@ -226,3 +226,20 @@ noms:
     identite: lieutenant britannique, billeting officer (officier de cantonnement) des Royal Fusiliers
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 2
+  avant: 9^{h}
+  apres: 9^{H}
+  justification: H majuscule suscrit
+- ligne: 2
+  avant: 2^{h}
+  apres: 2^{H}
+  justification: H majuscule suscrit
+- ligne: 6
+  avant: 2^{h}
+  apres: 2^{H}
+  justification: H majuscule suscrit
+- ligne: 10
+  avant: 9^{h}
+  apres: 9^{H}
+  justification: H majuscule suscrit

@@ -112,3 +112,12 @@ audit:
   avant: 'apparat, Immense : I majuscule et double m nets'
   apres: 'apparat, Immense : I majuscule descendant sous la ligne ; mm réduits à deux minimes et un trait horizontal, puis ense'
   justification: zoom ×3 [0 .41 .28 .47] ; les deux m ne sont pas nets mais écrasés en un long trait horizontal après deux minimes ; lecture « Immense » maintenue
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Lundi 23}
+  apres: Lun\sl{di 23}
+  justification: soulignement commençant sous « di 23 »
+- ligne: 10
+  avant: aménagés
+  apres: amenages
+  justification: aucun accent aigu tracé sur « amenages »

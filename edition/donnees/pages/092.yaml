@@ -7,25 +7,25 @@ titre: À Bertrancourt (interprètes Jamet et Cordonnier) ; retour en camion à 
 transcription: |
   \sl{Sam. 4} \hfill \sl{Nov^{b} /16}
   \ind Matin, dû me rendre à Bertrancourt
-  Venu à pied. \add{au} Retour, s/ 1 lorry 3 kil
+  Venu à pied. \add{au} Retour, s/ 1 lorry 3 kils
   Routes entt boueuses Region plate
   Terres devastees. Partout des tentes, des huttes,
   des voitures, des caissons.
   Recherché interprète Jamet, à propos question
-  de petrole Venu aux Div^{n} Headquarters,
+  de pétrole. Venu aux Div^{n} Headquarters,
   tentes et huttes, à gauche route de Bus
-  au bureau mission fr. 2^{e} division
-  retrouvé interprète Cordonnier, R.F.A –, que
+  au bureau mission fr. 2^{de} division,
+  retrouvé interprète Cordonnier, R.F.A., que
   connu à Bethune.
-  \ind Apres lunch, sauté s/ 1 lorry et
+  \ind Après lunch, sauté s/ 1 lorry et
   retourné à Albert, à 152 Coy, puis au
   bureau mission fr. Vu Lt Pozzi.
   \ind Ciel noir. Pluie menacante. Bois
-  aux feuillages roussis et mordorés par les
-  gelees d'automnes. Routes, affr^{t} boueuses
+  aux feuillages roussis et mordorés par 1^{ères}
+  gelées d'automne. Routes, affr^{t} boueuses
 apparat:
 - ligne: 3
-  lemme: kil
+  lemme: kils
   type: abreviation
   note: kilomètres
 - ligne: 4
@@ -52,6 +52,10 @@ apparat:
   lemme: Pozzi
   type: lecture
   note: ainsi écrit ; ailleurs Pizzi (ff.~24~v\textsuperscript{o}, 43~r\textsuperscript{o}, 45~v\textsuperscript{o})
+- ligne: 17
+  lemme: 1^{ères}
+  type: abreviation
+  note: premières
 - ligne: 18
   lemme: affr^{t}
   type: abreviation

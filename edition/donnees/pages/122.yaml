@@ -6,15 +6,15 @@ lieux: Acheux-en-Amiénois, Saint-Léger-lès-Authie, Belle-Église (Arquèves),
 titre: Canonnade sur Miraumont ; retrouvé Morris ; neige, grésil et courses en auto
 transcription: |
   \sl{10 Me} \hfill — \sl{Janvier 1917} —
-  \ind Toute la nuit & matinée
+  \ind Toute la nuit & matinée,
   très violente canonnade s/ ligne de Miraumt
   \ind Course en auto à St-Léger & Belle-Eglise,
   où rencontré, enfin mon vieux Morris.
   \ind Après-midi, liberté entière. Visite de
   Morris à mon billet. Causé de tt 1 peu
   \ind Temps froid, neige & pluie glaciale
-  \crochet{1}— Mandat-poste à Imbert, opticien
-  Paris, pour réparatn pince-nez et pour,
+  \crochet{1}— Mandat-poste à Imbert, opticien,
+  Paris, pour réparat^{on} pince-nez et pour
   1 neuf (d'après ordonnance : 19 fr.
   \blanc{1}
   \sl{11 J} – Neige & pluie fine, presque tt le jour
@@ -28,10 +28,10 @@ transcription: |
   retour d'Authie & sur la route d'Arqueves,
   plateaux de Louvencourt
   \ind Courses en auto : Louvencourt, St-Léger
-  Raincheval, Beauquesne, où dejeuné au
+  Raincheval, Beauquesne, où déjeuné au
   Café Continental
   \ind Après-midi, à Septenville & Rubempré
-  Rentré vers 6^{h}, nuit noire.
+  Rentré vers 6^{H}, nuit noire.
 apparat:
 - ligne: 3
   lemme: Miraumt
@@ -42,7 +42,7 @@ apparat:
   type: abreviation
   note: Saint-Léger(-lès-Authie)
 - ligne: 10
-  lemme: réparatn
+  lemme: réparat^{on}
   type: abreviation
   note: réparation
 - ligne: 13

@@ -141,3 +141,20 @@ audit:
   avant: -plan, très beaux arbres —
   apres: -plan, très beaux arbres\trait
   justification: 'zoom ×3 [.22 .29 .68 .35] : le long trait horizontal (x≈.46–.63) prolonge sans levée de plume la finale de « arbres » et s''épaissit en massue ; délié final prolongé, comme « sombre\trait » (l. 15) et « Toul\trait » (l. 13), non tiret détaché'
+collation_2026_11:
+- ligne: 3
+  avant: Apres-midi, promené j-à la station de
+  apres: Après-midi, promené j-à la station de
+  justification: Accent grave court nettement tracé juste au-dessus du « s » de « Après » (décalé d'une lettre vers la droite du « e », selon le ductus constant de Combes sur « après-midi » aux cl. 042 l. 4 et 15 et cl. 043 l. 15 ; vérifié au zoom ×4 dans /tmp/hc_bands/z_rem01_final_checks.jpg).
+- ligne: 7
+  avant: maillots rouge vif, " blancs – à l'arrière-
+  apres: maillots rouge vif, " blancs – à l'arrière
+  justification: Aucun trait d'union de coupure ne figure après « arrière » en fin de l. 7 (le « e » final s'achève par son délié normal au bord droit du feuillet, sous la barre d'accent grave ; seul le trait d'union de reprise « -plan, » en tête de la l. 8 est tracé ; vérifié jusqu'au bord physique x=1.00 dans /tmp/hc_bands/z_rem01_c047.jpg).
+- ligne: 9
+  avant: Cme tournais en face chateau cap
+  apres: Cme tournais en face château cap
+  justification: 'Au zoom ×4 (/tmp/hc_bands/z_rem01_final_checks.jpg), deux traits supérieurs distincts surplombent « château » (mot sans « i » ni second « t ») : un premier trait au-dessus de « at » (circonflexe décalé d''une demi-lettre à droite du « a ») et un second trait rejeté au-dessus de la finale (barre du « t » décalée à droite, comme sur « retour » l. 5), conformément à l''analyse déjà consignée dans relecture/047.yaml.'
+- ligne: 12
+  avant: Dernière nuit, chambre, préoccupé
+  apres: Dernière nuit, chambre, preoccupé
+  justification: 'Aucun accent aigu n''est tracé sur le premier « e » de « preoccupé » : papier vierge au-dessus de « preo- », seul l''accent final épais après « -pé » est présent (vérifié dans /tmp/hc_bands/z_rem01_c047.jpg ; la virgule après « nuit, » est quant à elle confirmée au zoom ×4 comme distincte du sommet du « f » de « faire » l. 13).'

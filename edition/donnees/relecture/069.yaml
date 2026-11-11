@@ -85,3 +85,12 @@ noms:
     ligne: 10
     identite: Bernaville (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 9
+  avant: Pays très verdoyant & boisé –
+  apres: Pays très verdoyant & boise –
+  justification: Un seul petit point rond au-dessus du « s » (point de l'« i » décalé à droite, identique à celui de « Violentes » l. 8) et aucun accent au-dessus ni à droite de l'« e » final.
+- ligne: 10
+  avant: 'A Bernaville, solde & indemnité .: \inc{78^{75}}'
+  apres: 'A Bernaville, solde & indemnité : \inc{78^{75}}'
+  justification: 'La petite tache ronde gris-verdâtre à gauche du point inférieur des deux-points est une inclusion sombre de la pâte à papier, de teinte différente des deux points d''encre violette de « : ».'

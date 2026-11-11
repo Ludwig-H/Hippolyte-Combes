@@ -9,38 +9,46 @@ transcription: |
   \ind Toute la nuit & à l'aube, pluie torrentielle
   Temperature d'1 douceur exceptionnelle. Air tiède
   Matinée course en auto (Sunbeam) à Franvillers,
-  où revu trio de vieux, débonnaire originaux,
+  où revu trio de vieux, \inc{débonnaire} \inc{incultes},
   extrêm^{t} sympathiques, refugiés de Martinsart
   \ind A Senlis, devant l'ordonnance, mot
-  très regrettable du cap. Williams. A l'arrivée à Acheux
+  très regrettable du cap Williams. A l'arrivée à Acheux
   explication très calme, mais très ferme. Il a fait des
   excuses et m'a supplié de ne pas le quitter etc
-  \ind Après-midi, entiert libre —
+  \ind Après-midi, entièrt libre –
   \ind[2] — Clous aux semelles de mes bottes : 1^{f} 60
   \filet
   31 \sl{Dim.} \hfill Tempér^{re} +tot. chaude, et pluie
   fine, intermittente \trait
-  \ind matinée, ds ma chambre —
+  \ind matinée, ds ma chambre –
   Aussitot après lunch, partis en auto : Belle
   Eglise, Raincheval & Beauquesne
-  Légère brume estompe paysages lointains
-  \ind[2] Mon jeune cap^{ne}, attitude gênée et
+  Legère brume estompe paysages lointains
+  \ind[2] Mon jeune cap^{ne}, attitude gênee et
   presque humiliée, contrite – Parle à \inc{peine} paraît
   et n'ose plus me regarder en face \trait (\add{très} déprimé
-  \ind Soir, Y.M.C.A hut, assisté \fr{1}{2} séance. —
-  \crochet{2}— Dépenses mess : 45^{f} + 10^{f} + 1^{f} + 22 fr —
+  \ind Soir, Y.M.C.A hut, assisté \fr{1}{2} seance. —
+  \crochet{2}— Depenses mess : 45^{f} + 10^{f} + 1^{f} + 22 fr —
   \droite = 88 fr. —
 apparat:
 - ligne: 4
   lemme: Sunbeam
   type: emprunt
   note: marque d'automobiles britannique (voiture de service)
+- ligne: 5
+  lemme: \inc{débonnaire}
+  type: lecture
+  note: lecture incertaine (sans accord)
+- ligne: 5
+  lemme: \inc{incultes}
+  type: lecture
+  note: 'lecture incertaine ; autres lectures : inculte, inutiles'
 - ligne: 6
   lemme: extrêm^{t}
   type: abreviation
   note: extrêmement
 - ligne: 11
-  lemme: entiert
+  lemme: entièrt
   type: abreviation
   note: entièrement
 - ligne: 13

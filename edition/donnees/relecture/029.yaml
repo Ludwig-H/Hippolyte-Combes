@@ -85,3 +85,20 @@ noms:
     ligne: 9
     identite: Marquay (Pas-de-Calais)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Aout/16}
+  apres: \sl{Août/16}
+  justification: accent circonflexe tracé sur « Août »
+- ligne: 2
+  avant: étroite
+  apres: etroite
+  justification: aucun accent aigu sur l'initiale de « etroite »
+- ligne: 3
+  avant: 7H \inc{\fr{1}{2}}
+  apres: 7^{H} \inc{\fr{1}{2}}
+  justification: H majuscule suscrit
+- ligne: 14
+  avant: émergent
+  apres: emergent
+  justification: aucun accent aigu sur l'initiale de « emergent »

@@ -210,3 +210,16 @@ noms:
     ligne: 22
     identite: Fréchencourt (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 9
+  avant: Herissart.
+  apres: Hérissart.
+  justification: accent aigu tracé sur « Hérissart »
+- ligne: 13
+  avant: un peu
+  apres: un peu.
+  justification: point final après « un peu »
+- ligne: 27
+  avant: etoilé,
+  apres: étoilé,
+  justification: accent aigu tracé sur l'initiale de « étoilé »

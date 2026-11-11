@@ -97,7 +97,11 @@ def index_latex(occ: dict, info: dict[int, dict], entites: dict) -> str:
         return ""
     out = []
     for cat, titre in (("personnes", "Index des noms de personnes"), ("lieux", "Index des noms de lieux")):
-        entrees = [(d["entite"], d["occ"]) for (c, _), d in occ.items() if c == cat]
+        entrees = []
+        for e in entites.get(cat, []) or []:
+            liste = occ[(cat, e["id"])]["occ"] if (cat, e["id"]) in occ else []
+            if liste or e.get("refs_extra") or e.get("renvoi"):
+                entrees.append((e, liste))
         entrees.sort(key=lambda x: _cle_tri(x[0]["nom"]))
         out.append(r"\LJindex{%s}{%%" % titre)
         for e, liste in entrees:
@@ -107,7 +111,13 @@ def index_latex(occ: dict, info: dict[int, dict], entites: dict) -> str:
                     continue
                 vus.add(n)
                 refs.append(r"%s~(p.~\pageref{cl%03d})" % (_folio(info[n]), n))
+            for r_extra in e.get("refs_extra") or []:
+                refs.append(r_extra)
+            refs_str = ", ".join(refs)
+            if e.get("renvoi"):
+                voir = r"\textit{voir} %s" % e["renvoi"]
+                refs_str = (refs_str + " ; " + voir) if refs_str else voir
             notice = (r", \textit{%s}" % e["notice"]) if e.get("notice") else ""
-            out.append(r"\LJentree{%s%s}{%s}" % (e["nom"], notice, ", ".join(refs)))
+            out.append(r"\LJentree{%s%s}{%s}" % (e["nom"], notice, refs_str))
         out.append("}")
     return "\n".join(out)

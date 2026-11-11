@@ -170,3 +170,28 @@ noms:
     ligne: 20
     identite: Contay (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 1
+  avant: \sl{Paque – 8 –} \hfill \sl{Avril 1917}
+  apres: \sl{Pâques – 8 –} \hfill \sl{Avril 1917}
+  justification: 'Au zoom ×5 (/tmp/hc_bands/z_rem08_177_178_top.jpg, panneau inférieur), le manuscrit porte sans équivoque « Pâques » : 1° un accent circonflexe en toit « ^ » appuyé et complet surplombe « a-q » immédiatement à droite de la boucle supérieure fermée du « P » ; 2° après les deux jambages de « u » et la boucle de « e », la plume remonte et redescend pour former le crochet caractéristique du « -s » final (identique à la finale « -es » de « branches » l. 3 et de « Courses » l. 14 et 20).'
+- ligne: 11
+  avant: Promené 1 peu rues village abt desertes & mort
+  apres: Promené 1 peu rues village abt désertes & mort
+  justification: Dans le large espace blanc dégagé au-dessus de « désertes » (la l. 10 « Nuit très noire. » s'arrêtant bien à gauche), un net accent oblique à crochet initial « ◟ » flotte au-dessus de « -se- » (décalé d'une lettre à droite du premier « e »), entièrement distinct et au-dessus de la barre horizontale propre du « t » ; tracé identique à l'accent de « durée. » l. 19 (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_178_z3_desertes_mort.jpg).
+- ligne: 13
+  avant: gdes averses, grêle et grésil. Rafales violentes
+  apres: g^{des} averses, grêle et grésil. Rafales violentes
+  justification: Après le « g » posé sur la ligne de base, la finale « des » (« d » bouclé + « es ») est nettement perchée en exposant à mi-hauteur supérieure, bien au-dessus de la ligne de base de « averses » (même abréviation par suspension suscrite que « g^{ds} rafales » au cl. 177 l. 22 et conformément à ABREVIATIONS.md l. 69 ; vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_178_z4_gdes_belle_eglise.jpg).
+- ligne: 14
+  avant: 'Courses matin & soir : Pierregot & Belle-Eglise'
+  apres: 'Courses matin & soir : Pierregot & Belle-Eglise.'
+  justification: 'Au zoom ×5 (/tmp/hc_bands/z_rem08_178_z4_gdes_belle_eglise.jpg), deux points distincts apparaissent sur « Belle-Eglise. » : le point de l''« i » en haut au-dessus du « s », et un point final rond et appuyé posé sur la ligne de base immédiatement à droite du « e » final (omis dans pages/178.yaml).'
+- ligne: 18
+  avant: tombée abondante. Giboulees et rafales
+  apres: tombée abondante. Giboulées et rafales
+  justification: Au zoom ×5 (/tmp/hc_bands/z_rem08_178_179_z1.jpg, panneau supérieur), outre le point de l'« i » au-dessus de « b » et la virgule haute de « orage, » (l. 17), un accent aigu à crochet « ⊂ » très net surplombe directement « -ées » dans « Giboulées », avec le même ductus que sur « matinée » (l. 17) et « durée. » (l. 19).
+- ligne: 19
+  avant: Eclaircies de soleil sans durée
+  apres: Eclaircies de soleil sans durée.
+  justification: Point final rond d'encre violette très net posé sur la ligne de base à droite de « durée », bien en dessous de l'accent à crochet surplombant « -ée » (vérifié au zoom ×5 dans /tmp/hc_bands/z_rem08_178_z5_giboulees_duree_apres.jpg).

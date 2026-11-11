@@ -199,3 +199,24 @@ noms:
     ligne: 15
     identite: Acheux-en-Amiénois (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 9
+  avant: mal logis
+  apres: m^{al} logis
+  justification: finale « al » suscrite
+- ligne: 10
+  avant: Gd &
+  apres: G^{d} &
+  justification: d suscrit
+- ligne: 12
+  avant: extt
+  apres: ext^{t}
+  justification: t final suscrit
+- ligne: 12
+  avant: intérêt
+  apres: interet
+  justification: aucun accent tracé sur « interet »
+- ligne: 17
+  avant: apres-midi,
+  apres: après midi,
+  justification: accent grave sur « après » et absence de trait d'union

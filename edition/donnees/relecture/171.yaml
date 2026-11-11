@@ -170,3 +170,8 @@ noms:
     ligne: 22
     identite: Amiens (Somme), grande route d'Albert à Amiens
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: neige. tombé
+  apres: neige, tombée
+  justification: virgule après « neige » et accord féminin « tombée »

@@ -185,3 +185,36 @@ audit:
   avant: Lu chz Mme \inc{Mignot} \add{(et Louise)}
   apres: Lu chz Mme \inc{Miquel} \add{(et Louise)}
   justification: Zoom ×3 [.55 .83 1.0 .905] — après M et i, lettre à panse fermée (q/g), u, e bouclé et haute haste finale sans barre (l) ; aucun o ni t barré, la finale « -ot » de Mignot n'a pas de trait ; Miguel reste possible. Historique, résumé et noms portent encore « Mignot ».
+collation_2026_11:
+- ligne: 3
+  avant: Matin,
+  apres: matin,
+  justification: minuscule initiale à « matin, »
+- ligne: 5
+  avant: Dîner
+  apres: Diner
+  justification: aucun circonflexe sur « Diner »
+- ligne: 10
+  avant: détachent
+  apres: detachent
+  justification: aucun accent aigu sur « detachent »
+- ligne: 12
+  avant: Tempér^{e}
+  apres: Temper^{e}
+  justification: aucun accent aigu sur « Temper^{e} »
+- ligne: 14
+  avant: 5^{h} —
+  apres: 5^{H} –
+  justification: H majuscule suscrit et tiret court
+- ligne: 15
+  avant: Dîner
+  apres: Diner
+  justification: aucun circonflexe sur « Diner »
+- ligne: 19
+  avant: \sl{25 Merc.} —
+  apres: \sl{25 Merc.} –
+  justification: tiret court après « 25 Merc. »
+- ligne: 22
+  avant: cantonnées —
+  apres: cantonnées –
+  justification: tiret court après « cantonnées »

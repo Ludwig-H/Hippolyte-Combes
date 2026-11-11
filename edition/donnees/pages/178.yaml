@@ -5,7 +5,7 @@ mois: Avril 1917
 lieux: Hérissart, Toutencourt, Harponville, Rubempré, Beauquesne, Pierregot, Belle-Église (Arquèves), Fréchencourt et Contay (Somme)
 titre: Pâques chez le notaire Bienaimé à Toutencourt ; grêle, neige et routes défoncées
 transcription: |
-  \sl{Paque – 8 –} \hfill \sl{Avril 1917}
+  \sl{Pâques – 8 –} \hfill \sl{Avril 1917}
   Matinée et \fr{1}{2} aprè-midi, temps \inc{merveillt} beau
   ciel d'1 bleu foncé. arbres detachaint branches
   encore sans feuilles ds l'air lumineux & limpide
@@ -15,17 +15,17 @@ transcription: |
   Rentré 5^{H}\fr{1}{2} s. alors ciel couvert, gros nuages
   Fin journée maussade. Visité famille Denis.
   Nuit très noire.
-  Promené 1 peu rues village abt desertes & mort
+  Promené 1 peu rues village abt désertes & mort
   \blanc{1}
   \sl{9 Lundi} – Temps très mauvais & froid vif
-  gdes averses, grêle et grésil. Rafales violentes
-  Courses matin & soir : Pierregot & Belle-Eglise
+  g^{des} averses, grêle et grésil. Rafales violentes
+  Courses matin & soir : Pierregot & Belle-Eglise.
   Routes etat lamentable. Auto rebondissant à cause
   des trous route, commotions très fortes —
   \blanc{1}
   10 \sl{Mardi}. matinée orage, neige fine
-  tombée abondante. Giboulees et rafales
-  Eclaircies de soleil sans durée
+  tombée abondante. Giboulées et rafales
+  Eclaircies de soleil sans durée.
   Courses aprè-midi à Frechencourt & Contay
   Temps très mauvais. Froid vif. Cest de
   nouveau l'hiver, helas !
@@ -51,7 +51,7 @@ apparat:
   type: graphie
   note: pour « mortes »
 - ligne: 13
-  lemme: gdes
+  lemme: g^{des}
   type: abreviation
   note: grandes
 - ligne: 15

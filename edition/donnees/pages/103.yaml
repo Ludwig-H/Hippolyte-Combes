@@ -6,15 +6,15 @@ lieux: Acheux-en-Amiénois et Hérissart (Somme)
 titre: Pluie, boue ; obus sur Acheux ; thé avec le lieutenant Walsh et son interprète
 transcription: |
   \sl{Sam. 25} \hfill \sl{Nov /16 –}
-  \ind Auj'hui, + encore que hier, pluie averse
+  \ind Auj'hui, + encore qu'hier, pluie averse
   Terrains detrempés, vrais bourbiers. Routes &
   rues, ornières profondes où l'on enfonce j-à
-  \fr{1}{2} jambe. C'est desesperant
+  \fr{1}{2} jambe. C'est désespérant.
   \ind Durant de longues heures, langui bureau
   assis caisse bidons de pétrole ou au pied du
   lit du clerk. Lis ou rumine. Triste vie
   \ind Matinée, + de 28 obus, tombés s/ Acheux,
-  du côté sucrerie et F^{me} Royer\add{\inc{fille}}. Plusrs tués et blessés.
+  du coté sucrerie et F^{me} Royer\add{et sa fille}. Plusrs tués et blessés.
   \ind Séjour ds ma chambre, impossible, à
   cause froid et surtout bruits enervants de la rue
   \blanc{1}
@@ -26,7 +26,7 @@ transcription: |
   \blanc{1}
   \ind Après-midi, pluie cesse peu à peu \trait
   et fin journée, sans ondée \trait
-  \ind Lt Walsh & son interpte M. \inc{Deloney}, venus
+  \ind Lt Walsh & son interpr^{te} M. \inc{Deloney}, venus
   à Ach thé ds notre cabane. Les ai
   raccompagnés à Hérissart. Ainsi pu causer
   longt en fr\inc{ç} \trait \hfill Nuit très belle,
@@ -49,10 +49,6 @@ apparat:
   type: abreviation
   note: ferme
 - ligne: 10
-  lemme: \inc{fille}
-  type: lecture
-  note: 'écrit sous la ligne ; autre lecture : ville'
-- ligne: 10
   lemme: Plusrs
   type: abreviation
   note: plusieurs
@@ -65,7 +61,7 @@ apparat:
   type: lecture
   note: demi ? ; peut-être signe de renvoi
 - ligne: 20
-  lemme: interpte
+  lemme: interpr^{te}
   type: abreviation
   note: interprète
 - ligne: 20

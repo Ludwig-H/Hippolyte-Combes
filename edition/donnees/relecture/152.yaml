@@ -142,3 +142,28 @@ audit:
   avant: Vu M. Romert. Ma offert café et excellent
   apres: Vu M. \inc{Romert}. Ma offert café et excellent
   justification: au zoom ×3, après R-o le nombre de jambages (m à trois ou u à deux) n'est pas assuré et la lettre fermée suivante peut être e ou a ; Romart ou Rouart restent possibles ; nom non identifié, aucun contrôle externe
+collation_2026_11:
+- ligne: 7
+  avant: \inc{doux}
+  apres: doux.
+  justification: lecture certaine de « doux. » suivi d'un point
+- ligne: 9
+  avant: Ma offert
+  apres: M'a offert
+  justification: apostrophe tracée dans « M'a »
+- ligne: 10
+  avant: Foret Noire.
+  apres: Forêt Noire.
+  justification: accent circonflexe tracé sur « Forêt »
+- ligne: 11
+  avant: celib^{re}, heritier
+  apres: célib^{re}, héritier
+  justification: accents aigus tracés sur « célib^{re} » et « héritier »
+- ligne: 12
+  avant: generations, laissera fortune à des etrangers
+  apres: générations, laissera fortune à des étrangers
+  justification: accents aigus tracés sur « générations » et « étrangers »
+- ligne: 19
+  avant: 'Cartes ples : 45'
+  apres: 'c^{tes} p^{les} : 45 c'
+  justification: abréviation « c^{tes} p^{les} » avec finales suscrites et « c » (centimes) après « 45 »

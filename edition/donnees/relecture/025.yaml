@@ -122,3 +122,36 @@ audit:
   avant: Après-midi
   apres: Apres-midi
   justification: au zoom ×3, aucun accent au-dessus du e d'« Apres » (A, p, r, e, s final à barre, tiret) ; accent non restitué (BALISAGE § 7).
+collation_2026_11:
+- ligne: 1
+  avant: Aout
+  apres: Août
+  justification: accent circonflexe tracé sur « Août »
+- ligne: 3
+  avant: légère
+  apres: legère
+  justification: premier « e » sans accent aigu
+- ligne: 4
+  avant: de \inc{e} lair
+  apres: ds l'air
+  justification: 'lecture certaine : « ds l''air » (avec apostrophe nette)'
+- ligne: 14
+  avant: extt
+  apres: ext^{t}
+  justification: t final suscrit
+- ligne: 15
+  avant: interet
+  apres: interêt
+  justification: accent circonflexe sur le second « e » de « interêt »
+- ligne: 16
+  avant: extt
+  apres: ext^{t}
+  justification: t final suscrit
+- ligne: 18
+  avant: \inc{ft} de bien
+  apres: bp de bien
+  justification: abréviation usuelle « bp » (beaucoup) certaine
+- ligne: 21
+  avant: livre bonbons
+  apres: libre bonbons
+  justification: lapsus autographe « libre » (haste bouclée de « b ») pour « livre »

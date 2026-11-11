@@ -160,3 +160,32 @@ audit:
   avant: jour, soleil, mais pâle. Temps redevenu
   apres: Jour, soleil, mais pâle. Temps redevenu
   justification: initiale à haute haste d'attaque, montant jusqu'au trait de soulignement de la l. 16 (près de deux fois la hauteur de « our »), grande boucle inférieure fermée vers la gauche, donc J majuscule, différent du j de « journée » (l. 2), qui part de la hauteur d'œil (zoom ×3 [0 .60 .30 .68])
+collation_2026_11:
+- ligne: 1
+  avant: Ma\sl{rs 1917}
+  apres: \sl{Mars 1917}
+  justification: trait de soulignement couvrant « Mars 1917 »
+- ligne: 3
+  avant: chateau
+  apres: château
+  justification: accent circonflexe tracé sur « château »
+- ligne: 4
+  avant: \inc{lg}
+  apres: lgs
+  justification: abréviation « lgs » (longtemps) certaine
+- ligne: 5
+  avant: ensoleillé
+  apres: ensoleillés,
+  justification: -s final et virgule après « ensoleillés »
+- ligne: 10
+  avant: élancés.
+  apres: elancés.
+  justification: premier « e » sans accent aigu
+- ligne: 12
+  avant: Mervx
+  apres: Merv^{x}
+  justification: « x » suscrit
+- ligne: 14
+  avant: \inc{s/}
+  apres: s/
+  justification: abréviation usuelle « s/ » (sur) certaine

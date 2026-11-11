@@ -150,3 +150,16 @@ noms:
     ligne: 10
     identite: Forceville (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 8
+  avant: et pas quitte Acheux — Le HQ^{rs} divi reste \inc{m}
+  apres: et pas quitté Acheux — Le HQ^{rs} divi reste \inc{m}
+  justification: Accent aigu oblique très net au-dessus et légèrement à droite du « e » final de « quitté », bien séparé de la barre horizontale commune de « tt » à gauche et situé sous un blanc de la l. 7 entre « Hédauville, » et « appris » (vérifié dans /tmp/hc_bands/z_rem01_c045.jpg).
+- ligne: 18
+  avant: \ind Rentré chambre, mal à l'aise. Selles
+  apres: \ind Rentré chambre, mal a l'aise. Selles
+  justification: 'Aucun accent grave n''est tracé au-dessus de « a » dans « mal a l''aise » : papier vierge au-dessus de la lettre, suivie uniquement de la boucle du « l », de l''apostrophe et du point décalé de l''« i » de « aise » (comparer « voyage a Toul\trait » cl. 047 l. 13 et à l''inverse « Tip à Connelly » l. 22 ; vérifié dans /tmp/hc_bands/z_rem01_c045.jpg).'
+- ligne: 22
+  avant: 'Tip à Connelly mon groom : 2^{f} —'
+  apres: 'Tip à Connelly, mon groom : 2^{f} —'
+  justification: Virgule épaisse et plongeante très nette sur la ligne de base entre « Connelly » et « mon », franchement détachée de la boucle inférieure du « y » à gauche comme du premier jambage du « m » à droite (vérifié dans /tmp/hc_bands/z_rem01_c045.jpg).

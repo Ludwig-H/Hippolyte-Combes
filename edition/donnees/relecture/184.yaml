@@ -159,3 +159,20 @@ audit:
   avant: merveillt
   apres: merveill^{t}
   justification: le t, barré, a son pied à hauteur de tête des minuscules, nettement au-dessus de la ligne de base (zoom ×3 [.02 .25 .45 .29]) ; cf. merv^{t} du guide
+collation_2026_11:
+- ligne: 1
+  avant: \sl{26 jeudi}
+  apres: \sl{26 jeudi.}
+  justification: point après « jeudi » dans le soulignement
+- ligne: 4
+  avant: belle.
+  apres: belle
+  justification: aucun point après « belle »
+- ligne: 5
+  avant: agréable
+  apres: agreable
+  justification: aucun accent aigu sur « agreable »
+- ligne: 11
+  avant: Mortreux —
+  apres: Mortreux –
+  justification: tiret court après « Mortreux »

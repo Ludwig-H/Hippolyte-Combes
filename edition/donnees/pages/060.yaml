@@ -8,22 +8,22 @@ transcription: |
   3 \sl{Ma} \hfill Temps mervt beau \hfill \sl{Octobre /16}
   Matin à St-Etienne, messe annivre pour
   Mlle Calmels. A coté de Margte
-  en sortant cathle, parlé av Mme \inc{Cl} & Margte
+  en sortant cath^{le}, parle av Mme \inc{Cl} & Margte
   rue Alsace et déjeuné à l'Automate
   Fait \sl{ensemble} marché à Victor. Hugo
   Separes devant magasins Capitole
-  Rentré pr qq visites & arrangt appartt
+  Rentré pr qq visites & arrangt appart^{t}
   après déjeun, venus av B. \inc{Mm} & Mte à
   \inc{Castanet}. Pris tram rue de St Joseph
-  et descendus à terminus. Continué, route à
+  et descendus à terminus. Continué route à
   pied. Mme de Labarthe, charmante
-  Présenté ma Fiancée —
+  Presenté ma Fiancée —
   Revenus à pied. Promenade très agreable
   Soir, vers 8^{H}, pris tram & venu voir
   Mme \inc{Laudet} – – —
   \blanc{2}
   \filet
-  Trams : 20, 30 \hfill Marche V. Hugo :
+  Trams : 20, 30 \hfill Marche V Hugo :
   Automate : 30 + 20 c \hfill fruits : 80 c Gatx : \inc{6}
 apparat:
 - ligne: 2
@@ -35,7 +35,7 @@ apparat:
   type: abreviation
   note: Mademoiselle
 - ligne: 4
-  lemme: cathle
+  lemme: cath^{le}
   type: abreviation
   note: cathédrale
 - ligne: 4
@@ -63,7 +63,7 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autre lecture : Lamolet'
 - ligne: 17
-  lemme: V.
+  lemme: V
   type: abreviation
   note: Victor (marché Victor-Hugo)
 - ligne: 18

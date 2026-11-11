@@ -151,3 +151,24 @@ noms:
     ligne: 18
     identite: Puchevillers (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: Bientot terminé ts mes paquets
+  apres: Bientot terminé ts mes paquets.
+  justification: Un point rond à l'encre violette est nettement posé sur la ligne de base à droite du « s » final de « paquets » (sous l'extrémité droite de la barre du « t » et nettement au-dessus de « tiédit » l. 4).
+- ligne: 4
+  avant: Temps extt doux. Soleil pale tiédit \inc{l'air}
+  apres: Temps ext^{t} doux. Soleil pâle tiédit \inc{l'air}.
+  justification: 'Trois éléments nets au zoom : 1° le second « t » barré de « ext^{t} » est clairement inscrit en exposant au-dessus de la ligne de base (comme « Lieut^{t} » l. 15) ; 2° « pâle » porte un accent circonflexe en chevron bien formé à l''encre violette juste au-dessus du « a » (séparé par un net intervalle blanc du jambage descendant du « p » de « paquets » l. 3) ; 3° un point final net est posé sur la ligne de base à l''extrême droite après « \inc{l''air} » (plus bas et plus à droite que le point du « i » situé au-dessus du « r »).'
+- ligne: 10
+  avant: de Raincheval, puis cherché gite au camp,
+  apres: de Raincheval, puis cherché gîte au camp,
+  justification: Outre l'accent aigu de « cherché » devant le « g », un grand accent circonflexe en chevron est nettement tracé juste au-dessus du « i » de « gîte », à gauche de la hampe du « t » (retiré à tort lors d'une révision antérieure).
+- ligne: 11
+  avant: no rue \trait
+  apres: no , rue \trait
+  justification: Après le blanc réservé au numéro, une virgule verticale nette précède « rue » sur la ligne de base (entièrement détachée au-dessus de la boucle fermée du « b » de « bureau » l. 12), reproduisant exactement le patron d'adresse en attente de la l. 9 (« no , rue »).
+- ligne: 20
+  avant: suis installé définitivement, après depart
+  apres: suis installé definitivement, après départ
+  justification: 'Inversion des accents entre les deux mots dans le texte actuel : 1° « definitivement » ne porte aucun accent sur son premier « e » (la boucle du « d » en ∂ enchaîne directement sur « e-f » sous un interligne vierge, comme « definit^{t} » cl. 165 l. 8) ; 2° « départ » porte au contraire un fort accent aigu oblique à l''encre violette à droite de la boucle du « d » au-dessus de « ep », dans le blanc vierge situé sous « 220. » (l. 19).'

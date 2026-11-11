@@ -114,3 +114,16 @@ noms:
   personnes: []
   lieux: []
 source: contrôle
+collation_2026_11:
+- ligne: 5
+  avant: faible distance de la route et parallelt –
+  apres: faible distance de la route et parallel^{t} –
+  justification: Le « t » final barré est nettement hissé en exposant en haut à droite de la dernière boucle de « l », bien au-dessus de la ligne de base et du tiret suivant (adapter le lemme d'apparat « parallelt » → « parallel^{t} »).
+- ligne: 7
+  avant: Feuillages épais & verts.
+  apres: Feuillages epais & verts.
+  justification: 'Papier entièrement blanc au-dessus de « e-p-a » : l''unique petit trait épais tout à droite au-dessus de « -is » est le point de l''« i » décalé (identique à « fois » l. 9, « ravi » l. 11, « plais » l. 19, et parallèle à l''initiale non accentuée d''« eclairé » l. 15).'
+- ligne: 16
+  avant: qq étoiles, ca et là Campagne curieuse
+  apres: qq étoiles, cà et là Campagne curieuse
+  justification: Au zoom ×4, juste au-dessus du bord droit de « ca » (dans le blanc interlinéaire sous « mervt » dépourvu de jambages descendants, et entièrement détaché de l'« e » de « et » au-dessous), accent grave recourbé à petit crochet d'attaque gauche identique de ductus à l'accent grave de « là » deux mots plus loin (« çà et là » écrit sans cédille « cà et là », cf. « dejà » cl. 66 l. 6).

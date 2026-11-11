@@ -10,11 +10,11 @@ transcription: |
   On ne croirait jamais être au milieu de l'hiver
   Matinée, course en auto à Toutencourt & Quesnoy.
   Après-midi, venus à Saulty, par Authie,
-  & Pas. gd Route d'Arras. Ondée très fine &
+  & Pas. g^{d} Route d'Arras. Ondée très fine &
   intermittente –
   M. \inc{Carlumont}, m'a annoncé qu'il devra quitter
-  maison ds qq jours : \del{\ill} proprie tient à s'y
-  installer. Regrette de partir d'ici. Chambre chaude –
+  maison ds qq jours : \del{\ill} propr^{ie} tient à s'y
+  installer. Regrette de partir d'ici. Cherche chambre –
   \blanc{1.5}
   2 \sl{Mardi}
   \ind[2] ciel nuageux. Pluie menaçante
@@ -25,7 +25,7 @@ transcription: |
   \ind Après-midi, course en auto à
   Belle-Eglise Farm, ferme du Quesnoy
   & Toutencourt
-  Rentré 6^{h} s., très fatigué par Plusieurs
+  Rentré 6^{H} s., très fatigué par Plusieurs
   heures d'auto . – .
   \blanc{1.5}
   \crochet{3}— A Louvencourt canteen :
@@ -45,7 +45,7 @@ apparat:
   type: lecture
   note: mot biffé illisible ; « nouveau » possible
 - ligne: 9
-  lemme: proprie
+  lemme: propr^{ie}
   type: abreviation
   note: propriétaire
 - ligne: 18

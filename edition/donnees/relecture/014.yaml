@@ -155,3 +155,12 @@ audit:
   avant: matinée
   apres: matinee
   justification: 'zoom [0 .07 .42 .12] : un seul signe diacritique, petit point décalé à droite au-dessus du premier e, qui est le point du i (aucun autre point pour le i) ; la barre du t s''arrête avant ; aucun accent sur la finale ee'
+collation_2026_11:
+- ligne: 11
+  avant: changer de Quartier Je
+  apres: changer de Quartier. Je
+  justification: Au zoom [0.45 0.36 1.00 0.63], un point rond d'encre noire est nettement posé à droite du délié final de « Quartier » avant « Je » (même module et position que le point de « etage. Y » à la l. 14).
+- ligne: 14
+  avant: Y couché dès ce soir
+  apres: Y couché dès ce soir.
+  justification: Au zoom [0.45 0.36 1.00 0.63], un point net (court trait vertical d'encre) est posé à droite de « soir » sur la ligne de base, bien distinct du point sur le « i » de « Maurin » visible plus bas à la l. 15.

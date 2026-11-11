@@ -137,3 +137,32 @@ noms:
     ligne: 14
     identite: Albert (Somme)
 source: contrôle
+collation_2026_11:
+- ligne: 3
+  avant: 3 kil
+  apres: 3 kils
+  justification: -s final tracé à « kils »
+- ligne: 8
+  avant: petrole
+  apres: pétrole.
+  justification: accent aigu sur « pétrole » suivi d'un point
+- ligne: 10
+  avant: 2^{e} division
+  apres: 2^{de} division,
+  justification: « de » suscrit (2de) et virgule après « division »
+- ligne: 11
+  avant: R.F.A –,
+  apres: R.F.A.,
+  justification: point d'abréviation suivi d'une virgule après « R.F.A »
+- ligne: 13
+  avant: Apres lunch,
+  apres: Après lunch,
+  justification: accent grave tracé sur « Après »
+- ligne: 17
+  avant: par les
+  apres: par 1^{ères}
+  justification: 'lecture certaine : « par 1^{ères} » (premières)'
+- ligne: 18
+  avant: gelees d'automnes.
+  apres: gelées d'automne.
+  justification: accent aigu sur « gelées » et singulier « automne. »

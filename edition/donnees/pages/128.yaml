@@ -12,16 +12,16 @@ transcription: |
   Matinée, achevé ranger mes affaires.
   A midi, fait prendre à gare 2 sacs par voiture
   qui \inc{fait} service poste \trait
-  \ind après déjeun, venu à pied station, vers 2^{H}
-  Attendu patiemment départ train – installé 2 cl. \add{\inc{en} compartiment}
-  Soleil brûlant s/ les vitres, du côté de Varennes
+  \ind après dejeun, venu à pied station, vers 2^{H}
+  Attendu patiemment départ train – installé 2e cl. \add{compartiment}
+  Soleil brûlant s/ les vitres, du coté de Varennes
   \ind Champs tt couverts couche neige durcie
   dont les particules, cme des grains de diam
   etincellent sous les rayons solaires
-  \ind A la ligne de l'horizon, légère buée
+  \ind A la ligne de l'horizon, legère buée
   blanchâtre, confondant terre & ciel.
   \ind 1 interp^{te}, monté compart^{t}. Entré en
-  Conver^{\inc{it}}. echangé nos impressions & jugements
+  Conver^{\inc{it}}. Echangé nos impressions & jugements
   \ind sur les English.
   \ind Enfin, train démarré après 3^{H} s –
   A Gezaincourt, a 4^{H}30
@@ -43,17 +43,13 @@ apparat:
   type: lecture
   note: 'lecture incertaine ; autres lectures : faisait, fait le'
 - ligne: 8
-  lemme: déjeun
+  lemme: dejeun
   type: abreviation
   note: déjeuner
 - ligne: 9
   lemme: cl.
   type: abreviation
   note: classe
-- ligne: 9
-  lemme: \inc{en}
-  type: lecture
-  note: 'lecture incertaine ; autre lecture : un'
 - ligne: 12
   lemme: diam
   type: abreviation

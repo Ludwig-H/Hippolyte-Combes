@@ -88,3 +88,16 @@ noms:
     ligne: 8
     identite: département du Pas-de-Calais
 source: contrôle
+collation_2026_11:
+- ligne: 7
+  avant: 'ctes p^{les} : 30 c \hfill'
+  apres: 'ctes p^{les} : 30 c. \hfill'
+  justification: Point rond noir visible en bas à droite de « 30 c » sur la ligne de base (juste au-dessus du sommet du P de « Pas » de l'ajout de la l. 8).
+- ligne: 8
+  avant: 'Somme : 70 c \add{'
+  apres: 'Somme : 70 c. \add{'
+  justification: Point rond noir isolé et très net après « 70 c » au milieu du blanc.
+- ligne: 8
+  avant: \add{Géog. du Pas
+  apres: \add{Geog. du Pas
+  justification: 'Aucun accent aigu sur le e de « Geog. » : les deux points superposés visibles plus haut à droite constituent le deux-points après « p^{les} » de la l. 7. Adapter aussi le lemme d''apparat l. 8 (Géog. -> Geog.).'
